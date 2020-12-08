@@ -6,8 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Las últimas rebajas de"
 channel = "https://t.me/s/todotech"
-ga = "G-CCLRP3R12J"
-yandex = "27d3b6cce1d74b40"
+ga = "G-05YE0XR7L3"
+yandex = "3046232937495f92"
 
 [sitemap]
   changefreq = "daily"
