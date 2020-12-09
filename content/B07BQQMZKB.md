@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.56 % en New bee Bluetooth Headset V5.0 Wireless '
-date: 2020-12-08 09:10:57
+date: 2020-12-09 09:27:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yUtAyRAQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yUtAyRAQL._SL200_.jpg' ]
 comments: true

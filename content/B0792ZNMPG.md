@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Smartwatch Híbrido para Mujer de  al 55.28 % de descuento'
-date: 2020-12-04 10:36:48
+date: 2020-12-09 09:25:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hqeqHsXtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hqeqHsXtL._SL200_.jpg' ]
 comments: true
