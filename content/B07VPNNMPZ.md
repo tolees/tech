@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Gears of War 5 Standard - Xbox One Codice download'
 ---
 
-Ahora mismo tienes [Gears of War 5 Standard - Xbox One Codice download](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21) a 9.99 EUR (original: 69.99 EUR) (85.73 %  de descuento) en el siguiente enlace!
+Está [Gears of War 5 Standard - Xbox One Codice download](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21) con 85.73 de descuento por 9.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Gears of War 5 Standard - Xbox One Codic](https://m.media-amazon.com/images/I/51GRQh37U6L._SL200_.jpg)](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

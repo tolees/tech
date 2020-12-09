@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba i7+  7550  Robot Vacuum wi al 40.10 % de descuento'
-date: 2020-12-08 01:29:19
+date: 2020-12-09 18:13:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zyYoYAMsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zyYoYAMsL._SL200_.jpg' ]
 comments: true

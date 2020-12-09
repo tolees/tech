@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Zeiss Batis 2.8/18 e per Fotocamere Mirrorless Full-Frame di Sony  Con Innesto E '
 ---
 
-Está [Zeiss Batis 2.8/18 e per Fotocamere Mirrorless Full-Frame di Sony  Con Innesto E ](https://www.amazon.it/dp/B01E8OBQS8/?tag=tolees00-21) con 34.00 de descuento por 990.0 EUR (original: 1500.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Zeiss Batis 2.8/18 e per Fotocamere Mirrorless Full-Frame di Sony  Con Innesto E ](https://www.amazon.it/dp/B01E8OBQS8/?tag=tolees00-21) a 990.0 EUR (original: 1500.0 EUR) (34.00 %  de descuento) en el siguiente enlace!
 
 [![Zeiss Batis 2.8/18 e per Fotocamere Mirr](https://m.media-amazon.com/images/I/41fCAIh9joL._SL200_.jpg)](https://www.amazon.it/dp/B01E8OBQS8/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01E8OBQS8/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01E8OBQS8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
