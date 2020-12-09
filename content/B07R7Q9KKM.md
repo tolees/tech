@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Razer Kraken - Gaming Headset  Kabelgebundene Headphones für PC  PS4  Xbox One & Switch  50mm Treiber  3 5mm Audio-Klinkenstecker mit In-Line Fernbedienung  weiß / mercury'
 ---
 
-Ahora mismo tienes [Razer Kraken - Gaming Headset  Kabelgebundene Headphones für PC  PS4  Xbox One & Switch  50mm Treiber  3 5mm Audio-Klinkenstecker mit In-Line Fernbedienung  weiß / mercury](https://www.amazon.de/dp/B07R7Q9KKM/?tag=tolees0ca-21) a 44.9 EUR (original: 79.99 EUR) (43.87 %  de descuento) en el siguiente enlace!
+Está [Razer Kraken - Gaming Headset  Kabelgebundene Headphones für PC  PS4  Xbox One & Switch  50mm Treiber  3 5mm Audio-Klinkenstecker mit In-Line Fernbedienung  weiß / mercury](https://www.amazon.de/dp/B07R7Q9KKM/?tag=tolees0ca-21) con 43.87 de descuento por 44.9 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![Razer Kraken - Gaming Headset  Kabelgebu](https://m.media-amazon.com/images/I/41eKW05fodL._SL200_.jpg)](https://www.amazon.de/dp/B07R7Q9KKM/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07R7Q9KKM/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07R7Q9KKM/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
