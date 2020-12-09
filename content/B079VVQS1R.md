@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.78 % en Logitech G560 Haut-parleurs Gaming PC - '
-date: 2020-10-27 06:46:18
+date: 2020-12-09 22:15:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SFCMou8eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SFCMou8eL._SL200_.jpg' ]
 comments: true
