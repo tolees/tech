@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.27 % en Sony SRS-XB12 Bluetooth Lautsprecher  tr'
-date: 2020-12-08 09:26:32
+date: 2020-12-09 15:34:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nFtGLMBKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nFtGLMBKL._SL200_.jpg' ]
 comments: true

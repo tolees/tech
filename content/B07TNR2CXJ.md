@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme Pro - Portable SSD de 2  al 44.05 % de descuento'
-date: 2020-12-08 12:11:59
+date: 2020-12-09 15:44:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41P1TyplQvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41P1TyplQvL._SL200_.jpg' ]
 comments: true
