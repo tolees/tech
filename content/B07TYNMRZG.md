@@ -14,7 +14,7 @@ currency: EUR
 price: 119.0
 comparePrice: 159.95 EUR
 inStock: true
-prodname: Fitbit Versa 2  el smartwatch que te ayuda a mejorar la salud y la forma física  y que incorpora control por voz  puntuación del sueño y música
+prodname: 'Fitbit Versa 2  el smartwatch que te ayuda a mejorar la salud y la forma física  y que incorpora control por voz  puntuación del sueño y música'
 ---
 
 Ahora mismo tienes [Fitbit Versa 2  el smartwatch que te ayuda a mejorar la salud y la forma física  y que incorpora control por voz  puntuación del sueño y música](https://www.amazon.es/dp/B07TYNMRZG/?tag=tolees-21) a 119.0 EUR (original: 159.95 EUR) (25.60 %  de descuento) en el siguiente enlace!

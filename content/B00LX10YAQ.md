@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: AVM FRITZ!Powerline 540E WLAN Set International - Adaptador/extensor de red por línea eléctrica  PLC  HomePlug AV2  IEEE P1901  500 Mbps  punto de acceso Wi-Fi N integrado  Mesh  2 puertos LAN
+prodname: 'AVM FRITZ!Powerline 540E WLAN Set International - Adaptador/extensor de red por línea eléctrica  PLC  HomePlug AV2  IEEE P1901  500 Mbps  punto de acceso Wi-Fi N integrado  Mesh  2 puertos LAN'
 ---
 
 Ahora mismo tienes [AVM FRITZ!Powerline 540E WLAN Set International - Adaptador/extensor de red por línea eléctrica  PLC  HomePlug AV2  IEEE P1901  500 Mbps  punto de acceso Wi-Fi N integrado  Mesh  2 puertos LAN](https://www.amazon.es/dp/B00LX10YAQ/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 229.99 EUR
 inStock: true
-prodname: TCL 10L – Smartphone 6.53” NXTVISION  4G  NFC  6GB RAM  64GB ROM  Cuádruple Cámara Trasera 48MP + 8MP + 2MP + 2MP  Cámara Frontal 16MP  color blanco
+prodname: 'TCL 10L – Smartphone 6.53” NXTVISION  4G  NFC  6GB RAM  64GB ROM  Cuádruple Cámara Trasera 48MP + 8MP + 2MP + 2MP  Cámara Frontal 16MP  color blanco'
 ---
 
 Ahora mismo tienes [TCL 10L – Smartphone 6.53” NXTVISION  4G  NFC  6GB RAM  64GB ROM  Cuádruple Cámara Trasera 48MP + 8MP + 2MP + 2MP  Cámara Frontal 16MP  color blanco](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21) a 149.0 EUR (original: 229.99 EUR) (35.21 %  de descuento) en el siguiente enlace!

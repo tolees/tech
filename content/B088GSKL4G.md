@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth 5.0 Auricular Inalámbrico Control Táctil con Graves Profundos In-Ear Auriculares Bluetooth con Caja de Carga Rápida IPX5 Impermeables para Android/iPhone/Huawei/Samsung
+prodname: 'Auriculares Bluetooth 5.0 Auricular Inalámbrico Control Táctil con Graves Profundos In-Ear Auriculares Bluetooth con Caja de Carga Rápida IPX5 Impermeables para Android/iPhone/Huawei/Samsung'
 ---
 
 Está [Auriculares Bluetooth 5.0 Auricular Inalámbrico Control Táctil con Graves Profundos In-Ear Auriculares Bluetooth con Caja de Carga Rápida IPX5 Impermeables para Android/iPhone/Huawei/Samsung](https://www.amazon.es/dp/B088GSKL4G/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

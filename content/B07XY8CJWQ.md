@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: LIFEBEE Smartwatch Orologio Fitness Tracker Uomo Donna  Bluetooth Smart Watch Cardiofrequenzimetro da Polso Schermo Colori Impermeabile IP68 Orologio Sportivo Calorie Activity Tracker per Android iOS
+prodname: 'LIFEBEE Smartwatch Orologio Fitness Tracker Uomo Donna  Bluetooth Smart Watch Cardiofrequenzimetro da Polso Schermo Colori Impermeabile IP68 Orologio Sportivo Calorie Activity Tracker per Android iOS'
 ---
 
 Ahora mismo tienes [LIFEBEE Smartwatch Orologio Fitness Tracker Uomo Donna  Bluetooth Smart Watch Cardiofrequenzimetro da Polso Schermo Colori Impermeabile IP68 Orologio Sportivo Calorie Activity Tracker per Android iOS](https://www.amazon.it/dp/B07XY8CJWQ/?tag=tolees00-21) a 31.99 EUR (original: 49.99 EUR) (36.01 %  de descuento) en el siguiente enlace!

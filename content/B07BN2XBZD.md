@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 23.89 EUR
 inStock: true
-prodname: SEGA Megadrive Classics - PlayStation 4
+prodname: 'SEGA Megadrive Classics - PlayStation 4'
 ---
 
 Ahora mismo tienes [SEGA Megadrive Classics - PlayStation 4](https://www.amazon.it/dp/B07BN2XBZD/?tag=tolees00-21) a 14.99 EUR (original: 23.89 EUR) (37.25 %  de descuento) en el siguiente enlace!

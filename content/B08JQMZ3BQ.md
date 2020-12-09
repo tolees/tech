@@ -14,7 +14,7 @@ currency: USD
 price: 229.99
 comparePrice: 355.09 USD
 inStock: true
-prodname: Motorola Moto G9 Plus | Unlocked | International GSM only | 4/128GB | 64MP Camera | 2019 | Blue Indigo  169.98 x 78.1 x 9.69mm
+prodname: 'Motorola Moto G9 Plus | Unlocked | International GSM only | 4/128GB | 64MP Camera | 2019 | Blue Indigo  169.98 x 78.1 x 9.69mm'
 ---
 
 Está [Motorola Moto G9 Plus | Unlocked | International GSM only | 4/128GB | 64MP Camera | 2019 | Blue Indigo  169.98 x 78.1 x 9.69mm](https://www.amazon.com/dp/B08JQMZ3BQ/?tag=tolees-20) con 35.23 de descuento por 229.99 USD (original: 355.09 USD) en el siguiente enlace!

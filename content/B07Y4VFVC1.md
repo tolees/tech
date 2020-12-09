@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Funda compatible con Huawei P30  diseño de Halloween  de silicona suave  antihuellas  ultrafina  transparente  para Huawei P30 1 Talla única
+prodname: 'Funda compatible con Huawei P30  diseño de Halloween  de silicona suave  antihuellas  ultrafina  transparente  para Huawei P30 1 Talla única'
 ---
 
 Tienes [Funda compatible con Huawei P30  diseño de Halloween  de silicona suave  antihuellas  ultrafina  transparente  para Huawei P30 1 Talla única](https://www.amazon.es/dp/B07Y4VFVC1/?tag=tolees-21) con un 47.39 % de descuento con precio de oferta de 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

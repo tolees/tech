@@ -14,7 +14,7 @@ currency: USD
 price: 19.99
 comparePrice: 59.99 USD
 inStock: true
-prodname: Days Gone - Playstation 4
+prodname: 'Days Gone - Playstation 4'
 ---
 
 Tienes [Days Gone - Playstation 4](https://www.amazon.com/dp/B01GW8XRCG/?tag=tolees-20) con un 66.68 % de descuento con precio de oferta de 19.99 USD (original: 59.99 USD) en el siguiente enlace!

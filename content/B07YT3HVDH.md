@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: GT Sport Hits - PlayStation 4
+prodname: 'GT Sport Hits - PlayStation 4'
 ---
 
 Ahora mismo tienes [GT Sport Hits - PlayStation 4](https://www.amazon.it/dp/B07YT3HVDH/?tag=tolees00-21) a 9.99 EUR (original: 20.99 EUR) (52.41 %  de descuento) en el siguiente enlace!

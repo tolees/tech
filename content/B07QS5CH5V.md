@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Belkin RockStar Adaptador de audio de 3 5 mm y carga USB-C  adaptador USB-C para Google Pixel 3  iPad Pro y Samsung Galaxy Fold 
+prodname: 'Belkin RockStar Adaptador de audio de 3 5 mm y carga USB-C  adaptador USB-C para Google Pixel 3  iPad Pro y Samsung Galaxy Fold '
 ---
 
 Tienes [Belkin RockStar Adaptador de audio de 3 5 mm y carga USB-C  adaptador USB-C para Google Pixel 3  iPad Pro y Samsung Galaxy Fold ](https://www.amazon.es/dp/B07QS5CH5V/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 24.99 EUR (original: 34.99 EUR) en el siguiente enlace!

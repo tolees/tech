@@ -14,7 +14,7 @@ currency: USD
 price: 39.99
 comparePrice: 59.99 USD
 inStock: true
-prodname: Luigi s Mansion 3 - Nintendo Switch
+prodname: 'Luigi s Mansion 3 - Nintendo Switch'
 ---
 
 Está [Luigi s Mansion 3 - Nintendo Switch](https://www.amazon.com/dp/B07SK4W1VJ/?tag=tolees-20) con 33.34 de descuento por 39.99 USD (original: 59.99 USD) en el siguiente enlace!

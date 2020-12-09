@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Hori - Funda Rígida  Nintendo Switch 
+prodname: 'Hori - Funda Rígida  Nintendo Switch '
 ---
 
 Está [Hori - Funda Rígida  Nintendo Switch ](https://www.amazon.es/dp/B01AAAGOA4/?tag=tolees-21) con 27.79 de descuento por 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

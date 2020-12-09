@@ -14,7 +14,7 @@ currency: EUR
 price: 80.19
 comparePrice: 119.99 EUR
 inStock: true
-prodname: SteelSeries Arctis 1 Wireless – Auriculares inalámbricos para juegos – USB-C Inalámbrico – PC / PS4 / Nintendo Switch / Android – Negro
+prodname: 'SteelSeries Arctis 1 Wireless – Auriculares inalámbricos para juegos – USB-C Inalámbrico – PC / PS4 / Nintendo Switch / Android – Negro'
 ---
 
 Está [SteelSeries Arctis 1 Wireless – Auriculares inalámbricos para juegos – USB-C Inalámbrico – PC / PS4 / Nintendo Switch / Android – Negro](https://www.amazon.es/dp/B07WDD4PTW/?tag=tolees-21) con 33.17 de descuento por 80.19 EUR (original: 119.99 EUR) en el siguiente enlace!

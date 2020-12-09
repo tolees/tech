@@ -14,7 +14,7 @@ currency: EUR
 price: 332.8
 comparePrice: 469.0 EUR
 inStock: true
-prodname: SAMSUNG Galaxy Watch3 - Smartwatch de 45mm  Bluetooth  Reloj inteligente Color Negro  Acero [Versión española]  SM-R840NZKAEUB 
+prodname: 'SAMSUNG Galaxy Watch3 - Smartwatch de 45mm  Bluetooth  Reloj inteligente Color Negro  Acero [Versión española]  SM-R840NZKAEUB '
 ---
 
 Ahora mismo tienes [SAMSUNG Galaxy Watch3 - Smartwatch de 45mm  Bluetooth  Reloj inteligente Color Negro  Acero [Versión española]  SM-R840NZKAEUB ](https://www.amazon.es/dp/B08DRTWWR6/?tag=tolees-21) a 332.8 EUR (original: 469.0 EUR) (29.04 %  de descuento) en el siguiente enlace!

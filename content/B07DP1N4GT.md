@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Jump Force - PlayStation 4
+prodname: 'Jump Force - PlayStation 4'
 ---
 
 Ahora mismo tienes [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07DP1N4GT/?tag=tolees00-21) a 19.99 EUR (original: 26.99 EUR) (25.94 %  de descuento) en el siguiente enlace!

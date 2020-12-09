@@ -14,7 +14,7 @@ currency: USD
 price: 5.98
 comparePrice: 9.99 USD
 inStock: true
-prodname: [2 Pack] Silicone Protective Case Compatible with Fire TV Stick 4K Remote  Blue and Purple 
+prodname: '[2 Pack] Silicone Protective Case Compatible with Fire TV Stick 4K Remote  Blue and Purple '
 ---
 
 Está [[2 Pack] Silicone Protective Case Compatible with Fire TV Stick 4K Remote  Blue and Purple ](https://www.amazon.com/dp/B07QZMK9C9/?tag=tolees-20) con 40.14 de descuento por 5.98 USD (original: 9.99 USD) en el siguiente enlace!

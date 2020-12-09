@@ -14,7 +14,7 @@ currency: USD
 price: 179.0
 comparePrice: 279.99 USD
 inStock: true
-prodname: iRobot Roomba 675 Robot Vacuum-Wi-Fi Connectivity  Works with Alexa  Good for Pet Hair  Carpets  Hard Floors  Self-Charging
+prodname: 'iRobot Roomba 675 Robot Vacuum-Wi-Fi Connectivity  Works with Alexa  Good for Pet Hair  Carpets  Hard Floors  Self-Charging'
 ---
 
 Ahora mismo tienes [iRobot Roomba 675 Robot Vacuum-Wi-Fi Connectivity  Works with Alexa  Good for Pet Hair  Carpets  Hard Floors  Self-Charging](https://www.amazon.com/dp/B07DL4QY5V/?tag=tolees-20) a 179.0 USD (original: 279.99 USD) (36.07 %  de descuento) en el siguiente enlace!

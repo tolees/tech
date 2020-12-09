@@ -14,7 +14,7 @@ currency: EUR
 price: 131.99
 comparePrice: 253.99 EUR
 inStock: true
-prodname: SanDisk Extreme PRO scheda di memoria microSDXC da 512 GB + Adattatore SD  fino a 170 MB/sec  classe di velocità UHS 3  U3   V30
+prodname: 'SanDisk Extreme PRO scheda di memoria microSDXC da 512 GB + Adattatore SD  fino a 170 MB/sec  classe di velocità UHS 3  U3   V30'
 ---
 
 Está [SanDisk Extreme PRO scheda di memoria microSDXC da 512 GB + Adattatore SD  fino a 170 MB/sec  classe di velocità UHS 3  U3   V30](https://www.amazon.it/dp/B07RKL4L7Q/?tag=tolees00-21) con 48.03 de descuento por 131.99 EUR (original: 253.99 EUR) en el siguiente enlace!

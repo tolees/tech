@@ -14,7 +14,7 @@ currency: EUR
 price: 8.46
 comparePrice: 12.69 EUR
 inStock: true
-prodname: LiChiLan Diadema Bluetooth Auricular Estéreo Inalámbrico Deporte Sleep Diadema con Micrófono  Gris Oscuro
+prodname: 'LiChiLan Diadema Bluetooth Auricular Estéreo Inalámbrico Deporte Sleep Diadema con Micrófono  Gris Oscuro'
 ---
 
 Está [LiChiLan Diadema Bluetooth Auricular Estéreo Inalámbrico Deporte Sleep Diadema con Micrófono  Gris Oscuro](https://www.amazon.es/dp/B07JGMMVWK/?tag=tolees-21) con 33.33 de descuento por 8.46 EUR (original: 12.69 EUR) en el siguiente enlace!

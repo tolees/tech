@@ -14,7 +14,7 @@ currency: USD
 price: 119.99
 comparePrice: 299.99 USD
 inStock: true
-prodname: Projector  YABER V3 Mini Bluetooth Projector 5500 Lux Full HD 1080P and Zoom Supported  Portable LCD LED Home & Outdoor Projector for iOS/Android/TV Stick/PS4/PC/Bluetooth Speaker  White 
+prodname: 'Projector  YABER V3 Mini Bluetooth Projector 5500 Lux Full HD 1080P and Zoom Supported  Portable LCD LED Home & Outdoor Projector for iOS/Android/TV Stick/PS4/PC/Bluetooth Speaker  White '
 ---
 
 Está [Projector  YABER V3 Mini Bluetooth Projector 5500 Lux Full HD 1080P and Zoom Supported  Portable LCD LED Home & Outdoor Projector for iOS/Android/TV Stick/PS4/PC/Bluetooth Speaker  White ](https://www.amazon.com/dp/B08CVCGQPH/?tag=tolees-20) con 60.00 de descuento por 119.99 USD (original: 299.99 USD) en el siguiente enlace!

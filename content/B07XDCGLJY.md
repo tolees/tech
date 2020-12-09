@@ -14,7 +14,7 @@ currency: EUR
 price: 19.15
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Drone Championship League - The Game - PlayStation 4
+prodname: 'Drone Championship League - The Game - PlayStation 4'
 ---
 
 Tienes [Drone Championship League - The Game - PlayStation 4](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21) con un 52.11 % de descuento con precio de oferta de 19.15 EUR (original: 39.99 EUR) en el siguiente enlace!

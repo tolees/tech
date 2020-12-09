@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Gears of War 5 Standard Edición - Xbox / Win 10 PC - Código de descarga
+prodname: 'Gears of War 5 Standard Edición - Xbox / Win 10 PC - Código de descarga'
 ---
 
 Tienes [Gears of War 5 Standard Edición - Xbox / Win 10 PC - Código de descarga](https://www.amazon.es/dp/B07VSRQRBF/?tag=tolees-21) con un 82.87 % de descuento con precio de oferta de 11.99 EUR (original: 69.99 EUR) en el siguiente enlace!

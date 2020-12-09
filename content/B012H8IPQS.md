@@ -14,7 +14,7 @@ currency: EUR
 price: 89.44
 comparePrice: 129.56 EUR
 inStock: true
-prodname: Garmin - Ceinture Cardio-Fréqeuncemètre HRM - Tri - Noir/Bleu
+prodname: 'Garmin - Ceinture Cardio-Fréqeuncemètre HRM - Tri - Noir/Bleu'
 ---
 
 Está [Garmin - Ceinture Cardio-Fréqeuncemètre HRM - Tri - Noir/Bleu](https://www.amazon.fr/dp/B012H8IPQS/?tag=tolees0d-21) con 30.97 de descuento por 89.44 EUR (original: 129.56 EUR) en el siguiente enlace!

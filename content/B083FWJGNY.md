@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth 5.0  1Mii Auriculares Inalámbricos TWS 150H Larga Duración con Caja de Carga  Audífonos In-Ear Bluetooth Estéreo con Micrófono Resistente al Agua IPX5 para iPhone/Android  Negro
+prodname: 'Auriculares Bluetooth 5.0  1Mii Auriculares Inalámbricos TWS 150H Larga Duración con Caja de Carga  Audífonos In-Ear Bluetooth Estéreo con Micrófono Resistente al Agua IPX5 para iPhone/Android  Negro'
 ---
 
 Está [Auriculares Bluetooth 5.0  1Mii Auriculares Inalámbricos TWS 150H Larga Duración con Caja de Carga  Audífonos In-Ear Bluetooth Estéreo con Micrófono Resistente al Agua IPX5 para iPhone/Android  Negro](https://www.amazon.es/dp/B083FWJGNY/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

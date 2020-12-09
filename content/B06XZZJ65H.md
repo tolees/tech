@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 71.99 EUR
 inStock: true
-prodname: Logitech Universal Folio Cover iPad o Tablet con Tastiera Bluetooth Wireless  Apple  Android  Windows da 9-10 Pollici  Facile Configurazione  Durata Batteria fino a 2 anni  Italiano Qwerty  Nero
+prodname: 'Logitech Universal Folio Cover iPad o Tablet con Tastiera Bluetooth Wireless  Apple  Android  Windows da 9-10 Pollici  Facile Configurazione  Durata Batteria fino a 2 anni  Italiano Qwerty  Nero'
 ---
 
 Tienes [Logitech Universal Folio Cover iPad o Tablet con Tastiera Bluetooth Wireless  Apple  Android  Windows da 9-10 Pollici  Facile Configurazione  Durata Batteria fino a 2 anni  Italiano Qwerty  Nero](https://www.amazon.it/dp/B06XZZJ65H/?tag=tolees00-21) con un 48.62 % de descuento con precio de oferta de 36.99 EUR (original: 71.99 EUR) en el siguiente enlace!

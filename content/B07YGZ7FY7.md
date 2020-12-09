@@ -14,7 +14,7 @@ currency: EUR
 price: 4.9
 comparePrice: 6.99 EUR
 inStock: true
-prodname: Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Class 10 con Adaptador SD
+prodname: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Class 10 con Adaptador SD'
 ---
 
 Está [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Class 10 con Adaptador SD](https://www.amazon.es/dp/B07YGZ7FY7/?tag=tolees-21) con 29.90 de descuento por 4.9 EUR (original: 6.99 EUR) en el siguiente enlace!

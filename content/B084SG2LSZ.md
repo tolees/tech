@@ -14,7 +14,7 @@ currency: USD
 price: 79.99
 comparePrice: 199.99 USD
 inStock: true
-prodname: Marvel s Avengers: Earth s Mightiest Edition – PlayStation 4
+prodname: 'Marvel s Avengers: Earth s Mightiest Edition – PlayStation 4'
 ---
 
 Está [Marvel s Avengers: Earth s Mightiest Edition – PlayStation 4](https://www.amazon.com/dp/B084SG2LSZ/?tag=tolees-20) con 60.00 de descuento por 79.99 USD (original: 199.99 USD) en el siguiente enlace!

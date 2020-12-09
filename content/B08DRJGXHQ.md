@@ -14,7 +14,7 @@ currency: EUR
 price: 645.69
 comparePrice: 925.0 EUR
 inStock: true
-prodname: Samsung Galaxy Note 20 Android Smartphone ohne Vertrag Triple Kamera Infinity-O Display 256 GB Speicher starker Akku Handy in grau inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon]
+prodname: 'Samsung Galaxy Note 20 Android Smartphone ohne Vertrag Triple Kamera Infinity-O Display 256 GB Speicher starker Akku Handy in grau inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon]'
 ---
 
 Ahora mismo tienes [Samsung Galaxy Note 20 Android Smartphone ohne Vertrag Triple Kamera Infinity-O Display 256 GB Speicher starker Akku Handy in grau inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon]](https://www.amazon.de/dp/B08DRJGXHQ/?tag=tolees0ca-21) a 645.69 EUR (original: 925.0 EUR) (30.20 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Samsung Soundbar HW-T400/ZF da 40 W  2.0 Canali  Nero
+prodname: 'Samsung Soundbar HW-T400/ZF da 40 W  2.0 Canali  Nero'
 ---
 
 Está [Samsung Soundbar HW-T400/ZF da 40 W  2.0 Canali  Nero](https://www.amazon.it/dp/B087XNRY8H/?tag=tolees00-21) con 39.60 de descuento por 89.99 EUR (original: 149.0 EUR) en el siguiente enlace!

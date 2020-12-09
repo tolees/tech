@@ -14,7 +14,7 @@ currency: EUR
 price: 26.7
 comparePrice: 38.99 EUR
 inStock: true
-prodname: 【LED Controlable】Alexa Interruptor Persiana Wifi  Etersky Interruptor Inteligente Control de APP y Voz Compatible con Alexa y Google Home Interruptor de Reloj para Motor Persiana Tubular  2 Piezas
+prodname: '【LED Controlable】Alexa Interruptor Persiana Wifi  Etersky Interruptor Inteligente Control de APP y Voz Compatible con Alexa y Google Home Interruptor de Reloj para Motor Persiana Tubular  2 Piezas'
 ---
 
 Ahora mismo tienes [【LED Controlable】Alexa Interruptor Persiana Wifi  Etersky Interruptor Inteligente Control de APP y Voz Compatible con Alexa y Google Home Interruptor de Reloj para Motor Persiana Tubular  2 Piezas](https://www.amazon.es/dp/B07PS5LRPQ/?tag=tolees-21) a 26.7 EUR (original: 38.99 EUR) (31.52 %  de descuento) en el siguiente enlace!

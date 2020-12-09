@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Yankee Candle Candela profumata in giara grande | Red Apple Wreath | Durata Fino a 150 Ore
+prodname: 'Yankee Candle Candela profumata in giara grande | Red Apple Wreath | Durata Fino a 150 Ore'
 ---
 
 Está [Yankee Candle Candela profumata in giara grande | Red Apple Wreath | Durata Fino a 150 Ore](https://www.amazon.it/dp/B016MPSUJO/?tag=tolees00-21) con 33.14 de descuento por 19.99 EUR (original: 29.9 EUR) en el siguiente enlace!

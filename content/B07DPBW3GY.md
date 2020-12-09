@@ -14,7 +14,7 @@ currency: EUR
 price: 25.2
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Nioh 2 - PlayStation 4  Version française  Mode en ligne et multijoueur
+prodname: 'Nioh 2 - PlayStation 4  Version française  Mode en ligne et multijoueur'
 ---
 
 Tienes [Nioh 2 - PlayStation 4  Version française  Mode en ligne et multijoueur](https://www.amazon.fr/dp/B07DPBW3GY/?tag=tolees0d-21) con un 63.99 % de descuento con precio de oferta de 25.2 EUR (original: 69.99 EUR) en el siguiente enlace!

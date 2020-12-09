@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Disco Duro Externo 1 TB USB3.0 para PC  Mac  MacBook  Xbox One  1TB Negro 
+prodname: 'Disco Duro Externo 1 TB USB3.0 para PC  Mac  MacBook  Xbox One  1TB Negro '
 ---
 
 Está [Disco Duro Externo 1 TB USB3.0 para PC  Mac  MacBook  Xbox One  1TB Negro ](https://www.amazon.es/dp/B08JTZ5G8H/?tag=tolees-21) con 30.45 de descuento por 47.99 EUR (original: 69.0 EUR) en el siguiente enlace!

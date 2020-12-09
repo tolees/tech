@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 120.25 EUR
 inStock: true
-prodname: Externe Festplatte 2tb  USB3.1 Type C Externe Festplatte für PC TV Xbox One 2TB Schwarz 
+prodname: 'Externe Festplatte 2tb  USB3.1 Type C Externe Festplatte für PC TV Xbox One 2TB Schwarz '
 ---
 
 Tienes [Externe Festplatte 2tb  USB3.1 Type C Externe Festplatte für PC TV Xbox One 2TB Schwarz ](https://www.amazon.de/dp/B08MQ4PBKC/?tag=tolees0ca-21) con un 46.79 % de descuento con precio de oferta de 63.99 EUR (original: 120.25 EUR) en el siguiente enlace!

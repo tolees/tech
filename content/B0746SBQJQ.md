@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.49 EUR
 inStock: true
-prodname: Battlefield 1: Revolution - PlayStation 4
+prodname: 'Battlefield 1: Revolution - PlayStation 4'
 ---
 
 Ahora mismo tienes [Battlefield 1: Revolution - PlayStation 4](https://www.amazon.it/dp/B0746SBQJQ/?tag=tolees00-21) a 19.99 EUR (original: 29.49 EUR) (32.21 %  de descuento) en el siguiente enlace!

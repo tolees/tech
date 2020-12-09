@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Trust Ximo - Pack de ratón y Teclado inalámbricos  Negro
+prodname: 'Trust Ximo - Pack de ratón y Teclado inalámbricos  Negro'
 ---
 
 Está [Trust Ximo - Pack de ratón y Teclado inalámbricos  Negro](https://www.amazon.es/dp/B01FWBZPU6/?tag=tolees-21) con 25.01 de descuento por 17.99 EUR (original: 23.99 EUR) en el siguiente enlace!

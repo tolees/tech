@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 138.99 EUR
 inStock: true
-prodname: SanDisk Carte mémoire MicroSDXC Ultra 400 Go+ Adaptateur SD  Vitesse de Lecture Allant Jusqu à 100MB/S  Classe 10  U1  Homologuée A1
+prodname: 'SanDisk Carte mémoire MicroSDXC Ultra 400 Go+ Adaptateur SD  Vitesse de Lecture Allant Jusqu à 100MB/S  Classe 10  U1  Homologuée A1'
 ---
 
 Está [SanDisk Carte mémoire MicroSDXC Ultra 400 Go+ Adaptateur SD  Vitesse de Lecture Allant Jusqu à 100MB/S  Classe 10  U1  Homologuée A1](https://www.amazon.fr/dp/B074RNRM2B/?tag=tolees0d-21) con 65.47 de descuento por 47.99 EUR (original: 138.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Logitech G MX518 Gaming Mouse Capteur HERO Capteur 16 000 dpi ARM 8 boutons Programmables  Emballage Allemand  - Noir
+prodname: 'Logitech G MX518 Gaming Mouse Capteur HERO Capteur 16 000 dpi ARM 8 boutons Programmables  Emballage Allemand  - Noir'
 ---
 
 Tienes [Logitech G MX518 Gaming Mouse Capteur HERO Capteur 16 000 dpi ARM 8 boutons Programmables  Emballage Allemand  - Noir](https://www.amazon.fr/dp/B07NDVF9V7/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

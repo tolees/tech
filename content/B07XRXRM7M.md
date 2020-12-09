@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 135.2 EUR
 inStock: true
-prodname: JBL LIVE 300TWS - Auriculares inalámbricos intraaurales  con Bluetooth y tecnologías TalkThru y AmbientAware  hasta 20h de música  blanco
+prodname: 'JBL LIVE 300TWS - Auriculares inalámbricos intraaurales  con Bluetooth y tecnologías TalkThru y AmbientAware  hasta 20h de música  blanco'
 ---
 
 Tienes [JBL LIVE 300TWS - Auriculares inalámbricos intraaurales  con Bluetooth y tecnologías TalkThru y AmbientAware  hasta 20h de música  blanco](https://www.amazon.es/dp/B07XRXRM7M/?tag=tolees-21) con un 26.78 % de descuento con precio de oferta de 99.0 EUR (original: 135.2 EUR) en el siguiente enlace!

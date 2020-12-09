@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 239.99 EUR
 inStock: true
-prodname: eufy Security eufyCam 2C  kabelloses Sicherheitssystem  180 Tage Akkuleistung  HD 1080p  IP67 wetterfest  Nachtsicht  Kompatibel mit HomeKit  Doppel-Kamera-Set  ohne monatliche Gebühren
+prodname: 'eufy Security eufyCam 2C  kabelloses Sicherheitssystem  180 Tage Akkuleistung  HD 1080p  IP67 wetterfest  Nachtsicht  Kompatibel mit HomeKit  Doppel-Kamera-Set  ohne monatliche Gebühren'
 ---
 
 Ahora mismo tienes [eufy Security eufyCam 2C  kabelloses Sicherheitssystem  180 Tage Akkuleistung  HD 1080p  IP67 wetterfest  Nachtsicht  Kompatibel mit HomeKit  Doppel-Kamera-Set  ohne monatliche Gebühren](https://www.amazon.de/dp/B07W4MY7HL/?tag=tolees0ca-21) a 159.99 EUR (original: 239.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.55
 comparePrice: 26.8 EUR
 inStock: true
-prodname: Gears 5 – Standard Edition | [Xbox Series X  Xbox One]
+prodname: 'Gears 5 – Standard Edition | [Xbox Series X  Xbox One]'
 ---
 
 Ahora mismo tienes [Gears 5 – Standard Edition | [Xbox Series X  Xbox One]](https://www.amazon.de/dp/B07DWHMWVV/?tag=tolees0ca-21) a 7.55 EUR (original: 26.8 EUR) (71.83 %  de descuento) en el siguiente enlace!

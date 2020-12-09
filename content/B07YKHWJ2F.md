@@ -14,7 +14,7 @@ currency: EUR
 price: 94.9
 comparePrice: 129.9 EUR
 inStock: true
-prodname: Amazfit GTS Smartwatch Orologio Intelligente Fitness 5 ATM Impermeabile Durata Batteria Fino a 14 Giorni con GPS  12 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Contapassi per Sport
+prodname: 'Amazfit GTS Smartwatch Orologio Intelligente Fitness 5 ATM Impermeabile Durata Batteria Fino a 14 Giorni con GPS  12 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Contapassi per Sport'
 ---
 
 Está [Amazfit GTS Smartwatch Orologio Intelligente Fitness 5 ATM Impermeabile Durata Batteria Fino a 14 Giorni con GPS  12 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Contapassi per Sport](https://www.amazon.it/dp/B07YKHWJ2F/?tag=tolees00-21) con 26.94 de descuento por 94.9 EUR (original: 129.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Otterbox Defender - Funda Robusta anticaídas para Samsung Galaxy Tab A  10.5"  Color Negro
+prodname: 'Otterbox Defender - Funda Robusta anticaídas para Samsung Galaxy Tab A  10.5"  Color Negro'
 ---
 
 Ahora mismo tienes [Otterbox Defender - Funda Robusta anticaídas para Samsung Galaxy Tab A  10.5"  Color Negro](https://www.amazon.es/dp/B07HMGQSKS/?tag=tolees-21) a 5.9 EUR (original: 89.99 EUR) (93.44 %  de descuento) en el siguiente enlace!

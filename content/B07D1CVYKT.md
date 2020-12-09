@@ -14,7 +14,7 @@ currency: EUR
 price: 499.99
 comparePrice: 748.99 EUR
 inStock: true
-prodname: Medion Akoya P62006 - Ordenador de sobremesa  Intel Core i7-8700  RAM de 8GB  HDD de 1TB y SSD de 128GB  Intel UHD Graphics 630  Sin sistema operativo   Negro
+prodname: 'Medion Akoya P62006 - Ordenador de sobremesa  Intel Core i7-8700  RAM de 8GB  HDD de 1TB y SSD de 128GB  Intel UHD Graphics 630  Sin sistema operativo   Negro'
 ---
 
 Tienes [Medion Akoya P62006 - Ordenador de sobremesa  Intel Core i7-8700  RAM de 8GB  HDD de 1TB y SSD de 128GB  Intel UHD Graphics 630  Sin sistema operativo   Negro](https://www.amazon.es/dp/B07D1CVYKT/?tag=tolees-21) con un 33.24 % de descuento con precio de oferta de 499.99 EUR (original: 748.99 EUR) en el siguiente enlace!

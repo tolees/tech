@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Homix - Smart Home Hub con Alexa Integrata + Termostato Intelligente
+prodname: 'Homix - Smart Home Hub con Alexa Integrata + Termostato Intelligente'
 ---
 
 Está [Homix - Smart Home Hub con Alexa Integrata + Termostato Intelligente](https://www.amazon.it/dp/B07YQFHP97/?tag=tolees00-21) con 35.18 de descuento por 129.0 EUR (original: 199.0 EUR) en el siguiente enlace!

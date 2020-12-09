@@ -14,7 +14,7 @@ currency: EUR
 price: 16.28
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Sony MDR-ZX110APB Casque Pliable avec Microphone - Noir
+prodname: 'Sony MDR-ZX110APB Casque Pliable avec Microphone - Noir'
 ---
 
 Ahora mismo tienes [Sony MDR-ZX110APB Casque Pliable avec Microphone - Noir](https://www.amazon.fr/dp/B00NBR6RDS/?tag=tolees0d-21) a 16.28 EUR (original: 25.0 EUR) (34.88 %  de descuento) en el siguiente enlace!

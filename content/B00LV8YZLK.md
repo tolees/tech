@@ -14,7 +14,7 @@ currency: EUR
 price: 120.8
 comparePrice: 167.79 EUR
 inStock: true
-prodname: Ubiquiti Networks USG
+prodname: 'Ubiquiti Networks USG'
 ---
 
 Está [Ubiquiti Networks USG](https://www.amazon.fr/dp/B00LV8YZLK/?tag=tolees0d-21) con 28.01 de descuento por 120.8 EUR (original: 167.79 EUR) en el siguiente enlace!

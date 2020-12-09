@@ -14,7 +14,7 @@ currency: EUR
 price: 2.58
 comparePrice: 4.64 EUR
 inStock: true
-prodname: Sharplace Unidad Flash Rotatorio USB 2 0 Memoria Disco Duro Accesorio Ordenador Portátil Cámara Fotografía - Blanco3
+prodname: 'Sharplace Unidad Flash Rotatorio USB 2 0 Memoria Disco Duro Accesorio Ordenador Portátil Cámara Fotografía - Blanco3'
 ---
 
 Ahora mismo tienes [Sharplace Unidad Flash Rotatorio USB 2 0 Memoria Disco Duro Accesorio Ordenador Portátil Cámara Fotografía - Blanco3](https://www.amazon.es/dp/B07GRDVJ3W/?tag=tolees-21) a 2.58 EUR (original: 4.64 EUR) (44.40 %  de descuento) en el siguiente enlace!

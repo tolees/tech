@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Apple Funda Leather Case  para el iPhone XS  - Marrón caramelo
+prodname: 'Apple Funda Leather Case  para el iPhone XS  - Marrón caramelo'
 ---
 
 Tienes [Apple Funda Leather Case  para el iPhone XS  - Marrón caramelo](https://www.amazon.es/dp/B07H9VCJZZ/?tag=tolees-21) con un 34.56 % de descuento con precio de oferta de 35.99 EUR (original: 55.0 EUR) en el siguiente enlace!

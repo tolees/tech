@@ -14,7 +14,7 @@ currency: GBP
 price: 17.99
 comparePrice: 25.99 GBP
 inStock: true
-prodname: Anker Wireless Headphones  Upgraded SoundBuds Slim Workout Headphones Magnetic In-Ear Earbuds  Bluetooth 5.0  10-Hour Playtime  IPX7 Waterproof for Workouts  Running  Swimming  Gym  Work  Home
+prodname: 'Anker Wireless Headphones  Upgraded SoundBuds Slim Workout Headphones Magnetic In-Ear Earbuds  Bluetooth 5.0  10-Hour Playtime  IPX7 Waterproof for Workouts  Running  Swimming  Gym  Work  Home'
 ---
 
 Está [Anker Wireless Headphones  Upgraded SoundBuds Slim Workout Headphones Magnetic In-Ear Earbuds  Bluetooth 5.0  10-Hour Playtime  IPX7 Waterproof for Workouts  Running  Swimming  Gym  Work  Home](https://www.amazon.co.uk/dp/B07N8RYGC4/?tag=tolees0a-21) con 30.78 de descuento por 17.99 GBP (original: 25.99 GBP) en el siguiente enlace!

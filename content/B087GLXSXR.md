@@ -14,7 +14,7 @@ currency: EUR
 price: 410.0
 comparePrice: 899.99 EUR
 inStock: true
-prodname: HP - Gaming Pavilion 15-ec0023nl Notebook Gaming  AMD Ryzen 5 3550H  RAM 8 GB  SSD 512 GB  NVIDIA GeForce GTX 1650 4 GB  Windows 10 Home  Schermo FHD IPS 15.6"  Lettore Micro SD  USB-C  HDMI  Nero
+prodname: 'HP - Gaming Pavilion 15-ec0023nl Notebook Gaming  AMD Ryzen 5 3550H  RAM 8 GB  SSD 512 GB  NVIDIA GeForce GTX 1650 4 GB  Windows 10 Home  Schermo FHD IPS 15.6"  Lettore Micro SD  USB-C  HDMI  Nero'
 ---
 
 Está [HP - Gaming Pavilion 15-ec0023nl Notebook Gaming  AMD Ryzen 5 3550H  RAM 8 GB  SSD 512 GB  NVIDIA GeForce GTX 1650 4 GB  Windows 10 Home  Schermo FHD IPS 15.6"  Lettore Micro SD  USB-C  HDMI  Nero](https://www.amazon.it/dp/B087GLXSXR/?tag=tolees00-21) con 54.44 de descuento por 410.0 EUR (original: 899.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 599.0
 comparePrice: 799.0 GBP
 inStock: true
-prodname: OnePlus 8 Pro 5G 8GB RAM 128GB UK SIM-Free Smartphone with Quad Camera  Dual SIM and Alexa built-in Onyx Black - 2 Years Warranty
+prodname: 'OnePlus 8 Pro 5G 8GB RAM 128GB UK SIM-Free Smartphone with Quad Camera  Dual SIM and Alexa built-in Onyx Black - 2 Years Warranty'
 ---
 
 Tienes [OnePlus 8 Pro 5G 8GB RAM 128GB UK SIM-Free Smartphone with Quad Camera  Dual SIM and Alexa built-in Onyx Black - 2 Years Warranty](https://www.amazon.co.uk/dp/B07XYJSXMM/?tag=tolees0a-21) con un 25.03 % de descuento con precio de oferta de 599.0 GBP (original: 799.0 GBP) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: CHcase Huawei P40 Pro Funda  Anillo Metálico Sujeción Soporte Antichoque Rígido Caja  Funciona con el Montaje de Coche Magnético  Doble Capa Sólido Case Carcasa para Huawei P40 Pro -Red
+prodname: 'CHcase Huawei P40 Pro Funda  Anillo Metálico Sujeción Soporte Antichoque Rígido Caja  Funciona con el Montaje de Coche Magnético  Doble Capa Sólido Case Carcasa para Huawei P40 Pro -Red'
 ---
 
 Está [CHcase Huawei P40 Pro Funda  Anillo Metálico Sujeción Soporte Antichoque Rígido Caja  Funciona con el Montaje de Coche Magnético  Doble Capa Sólido Case Carcasa para Huawei P40 Pro -Red](https://www.amazon.es/dp/B086N2VNRT/?tag=tolees-21) con 50.03 de descuento por 8.99 EUR (original: 17.99 EUR) en el siguiente enlace!

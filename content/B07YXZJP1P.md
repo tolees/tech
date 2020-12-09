@@ -14,7 +14,7 @@ currency: EUR
 price: 94.9
 comparePrice: 179.0 EUR
 inStock: true
-prodname: HUAWEI FreeBuds 3 Auricolare   Bluetooth   Nero
+prodname: 'HUAWEI FreeBuds 3 Auricolare   Bluetooth   Nero'
 ---
 
 Tienes [HUAWEI FreeBuds 3 Auricolare   Bluetooth   Nero](https://www.amazon.it/dp/B07YXZJP1P/?tag=tolees00-21) con un 46.98 % de descuento con precio de oferta de 94.9 EUR (original: 179.0 EUR) en el siguiente enlace!

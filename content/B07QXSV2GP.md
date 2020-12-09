@@ -14,7 +14,7 @@ currency: EUR
 price: 34.5
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa? Descubre Nuestros Auriculares In-Ear inalámbricos más Ligeros con hasta 15h de autonomía  Azul
+prodname: 'Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa? Descubre Nuestros Auriculares In-Ear inalámbricos más Ligeros con hasta 15h de autonomía  Azul'
 ---
 
 Tienes [Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa? Descubre Nuestros Auriculares In-Ear inalámbricos más Ligeros con hasta 15h de autonomía  Azul](https://www.amazon.es/dp/B07QXSV2GP/?tag=tolees-21) con un 31.00 % de descuento con precio de oferta de 34.5 EUR (original: 50.0 EUR) en el siguiente enlace!

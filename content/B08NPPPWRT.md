@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 115.4 EUR
 inStock: true
-prodname: Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 SATA HDD Storage for PC  Mac  Xbox  Desktop  Laptop  MacBook. 2TB Blu 
+prodname: 'Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 SATA HDD Storage for PC  Mac  Xbox  Desktop  Laptop  MacBook. 2TB Blu '
 ---
 
 Tienes [Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 SATA HDD Storage for PC  Mac  Xbox  Desktop  Laptop  MacBook. 2TB Blu ](https://www.amazon.it/dp/B08NPPPWRT/?tag=tolees00-21) con un 44.55 % de descuento con precio de oferta de 63.99 EUR (original: 115.4 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 239.99
 comparePrice: 329.0 EUR
 inStock: true
-prodname: MSI Optix MAG273R - Monitor Gaming de 27" FullHD 144 Hz 1920 x 1080p  1 ms de respuesta  ratio 16:9  panel IPS  brillo 250nits  antiglare  negro
+prodname: 'MSI Optix MAG273R - Monitor Gaming de 27" FullHD 144 Hz 1920 x 1080p  1 ms de respuesta  ratio 16:9  panel IPS  brillo 250nits  antiglare  negro'
 ---
 
 Tienes [MSI Optix MAG273R - Monitor Gaming de 27" FullHD 144 Hz 1920 x 1080p  1 ms de respuesta  ratio 16:9  panel IPS  brillo 250nits  antiglare  negro](https://www.amazon.es/dp/B089KSJS5H/?tag=tolees-21) con un 27.05 % de descuento con precio de oferta de 239.99 EUR (original: 329.0 EUR) en el siguiente enlace!

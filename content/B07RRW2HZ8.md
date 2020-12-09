@@ -14,7 +14,7 @@ currency: EUR
 price: 499.0
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multifunción con Wifi Controlable con una App desde el Móvil  con +600 Recetas Gratuitas  Balanza integrada  1500 W  Capacidad 4 5L
+prodname: 'Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multifunción con Wifi Controlable con una App desde el Móvil  con +600 Recetas Gratuitas  Balanza integrada  1500 W  Capacidad 4 5L'
 ---
 
 Tienes [Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multifunción con Wifi Controlable con una App desde el Móvil  con +600 Recetas Gratuitas  Balanza integrada  1500 W  Capacidad 4 5L](https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 499.0 EUR (original: 899.0 EUR) en el siguiente enlace!

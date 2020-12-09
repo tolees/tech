@@ -14,7 +14,7 @@ currency: GBP
 price: 250.0
 comparePrice: 369.99 GBP
 inStock: true
-prodname: Linksys MX5300 Velop Tri-Band Whole Home Mesh WiFi 6 System  AX5300 WiFi Router/Extender for Seamless Coverage of up to 3 000 sq ft / 260 sqm and 4x Faster Speed for 50+ devices  1-Pack  White 
+prodname: 'Linksys MX5300 Velop Tri-Band Whole Home Mesh WiFi 6 System  AX5300 WiFi Router/Extender for Seamless Coverage of up to 3 000 sq ft / 260 sqm and 4x Faster Speed for 50+ devices  1-Pack  White '
 ---
 
 Ahora mismo tienes [Linksys MX5300 Velop Tri-Band Whole Home Mesh WiFi 6 System  AX5300 WiFi Router/Extender for Seamless Coverage of up to 3 000 sq ft / 260 sqm and 4x Faster Speed for 50+ devices  1-Pack  White ](https://www.amazon.co.uk/dp/B082TFSJ4X/?tag=tolees0a-21) a 250.0 GBP (original: 369.99 GBP) (32.43 %  de descuento) en el siguiente enlace!

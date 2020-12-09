@@ -14,7 +14,7 @@ currency: EUR
 price: 91.98
 comparePrice: 155.0 EUR
 inStock: true
-prodname: Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro
+prodname: 'Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro'
 ---
 
 Ahora mismo tienes [Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21) a 91.98 EUR (original: 155.0 EUR) (40.66 %  de descuento) en el siguiente enlace!

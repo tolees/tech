@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: YDI Cámara Deportiva 4K WiFi Ultra HD Cámara de Acción Acuatica Videocámara Impermeable con Pantalla LCD 2.0  Gran Angular 170°  Control Remoto  Cargador de Batería  2 * 1050 mAh Baterías - Blanco
+prodname: 'YDI Cámara Deportiva 4K WiFi Ultra HD Cámara de Acción Acuatica Videocámara Impermeable con Pantalla LCD 2.0  Gran Angular 170°  Control Remoto  Cargador de Batería  2 * 1050 mAh Baterías - Blanco'
 ---
 
 Está [YDI Cámara Deportiva 4K WiFi Ultra HD Cámara de Acción Acuatica Videocámara Impermeable con Pantalla LCD 2.0  Gran Angular 170°  Control Remoto  Cargador de Batería  2 * 1050 mAh Baterías - Blanco](https://www.amazon.es/dp/B01IRF5V7G/?tag=tolees-21) con 61.54 de descuento por 49.99 EUR (original: 129.99 EUR) en el siguiente enlace!

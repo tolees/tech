@@ -14,7 +14,7 @@ currency: GBP
 price: 20.0
 comparePrice: 35.0 GBP
 inStock: true
-prodname: SONY WI-C200 Wireless Bluetooth Headphones - White
+prodname: 'SONY WI-C200 Wireless Bluetooth Headphones - White'
 ---
 
 Ahora mismo tienes [SONY WI-C200 Wireless Bluetooth Headphones - White](https://www.amazon.co.uk/dp/B07QXSVDJ4/?tag=tolees0a-21) a 20.0 GBP (original: 35.0 GBP) (42.86 %  de descuento) en el siguiente enlace!

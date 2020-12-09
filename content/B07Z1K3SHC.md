@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 29.55 EUR
 inStock: true
-prodname: Cargador de teléfono portátil de alta capacidad de 30000 mAh  batería de respaldo externa  4 puertos USB  pantalla LCD de carga rápida  3 entradas Powerpack para iPhone  Samsung  iPad  Huawei  Nintendo Switch  Tablet
+prodname: 'Cargador de teléfono portátil de alta capacidad de 30000 mAh  batería de respaldo externa  4 puertos USB  pantalla LCD de carga rápida  3 entradas Powerpack para iPhone  Samsung  iPad  Huawei  Nintendo Switch  Tablet'
 ---
 
 Tienes [Cargador de teléfono portátil de alta capacidad de 30000 mAh  batería de respaldo externa  4 puertos USB  pantalla LCD de carga rápida  3 entradas Powerpack para iPhone  Samsung  iPad  Huawei  Nintendo Switch  Tablet](https://www.amazon.es/dp/B07Z1K3SHC/?tag=tolees-21) con un 32.66 % de descuento con precio de oferta de 19.9 EUR (original: 29.55 EUR) en el siguiente enlace!

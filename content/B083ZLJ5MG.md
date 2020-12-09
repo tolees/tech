@@ -14,7 +14,7 @@ currency: EUR
 price: 63.85
 comparePrice: 111.99 EUR
 inStock: true
-prodname: Clé USB 3.0 SanDisk Ultra 512 Go avec une vitesse de lecture allant jusqu à 130 Mo/s
+prodname: 'Clé USB 3.0 SanDisk Ultra 512 Go avec une vitesse de lecture allant jusqu à 130 Mo/s'
 ---
 
 Ahora mismo tienes [Clé USB 3.0 SanDisk Ultra 512 Go avec une vitesse de lecture allant jusqu à 130 Mo/s](https://www.amazon.fr/dp/B083ZLJ5MG/?tag=tolees0d-21) a 63.85 EUR (original: 111.99 EUR) (42.99 %  de descuento) en el siguiente enlace!

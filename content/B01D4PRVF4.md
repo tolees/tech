@@ -14,7 +14,7 @@ currency: EUR
 price: 4.49
 comparePrice: 5.99 EUR
 inStock: true
-prodname: Auriculares originales color blanco EHS64AVFWE  intrauditivos  estéreo  para manos libres  con cable plano antienredos y entrada de 3 5 mm y micrófono integrado  Bulk 
+prodname: 'Auriculares originales color blanco EHS64AVFWE  intrauditivos  estéreo  para manos libres  con cable plano antienredos y entrada de 3 5 mm y micrófono integrado  Bulk '
 ---
 
 Tienes [Auriculares originales color blanco EHS64AVFWE  intrauditivos  estéreo  para manos libres  con cable plano antienredos y entrada de 3 5 mm y micrófono integrado  Bulk ](https://www.amazon.es/dp/B01D4PRVF4/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.7
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Asus Cerberus - Auriculares gaming con auriculares de neodimio de 60 mm compatible con todo tipo de portátiles y dispositivos inteligentes
+prodname: 'Asus Cerberus - Auriculares gaming con auriculares de neodimio de 60 mm compatible con todo tipo de portátiles y dispositivos inteligentes'
 ---
 
 Está [Asus Cerberus - Auriculares gaming con auriculares de neodimio de 60 mm compatible con todo tipo de portátiles y dispositivos inteligentes](https://www.amazon.es/dp/B00KXN8L7I/?tag=tolees-21) con 37.06 de descuento por 37.7 EUR (original: 59.9 EUR) en el siguiente enlace!

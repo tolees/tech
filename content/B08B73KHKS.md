@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Trust Tyro Webcam con Microfono PC Full HD 1080p  USB  Enfoque Automático  Videollamadas  Grabación  Conferencias  Skype  Hangouts  Teams  Zoom  Negro
+prodname: 'Trust Tyro Webcam con Microfono PC Full HD 1080p  USB  Enfoque Automático  Videollamadas  Grabación  Conferencias  Skype  Hangouts  Teams  Zoom  Negro'
 ---
 
 Tienes [Trust Tyro Webcam con Microfono PC Full HD 1080p  USB  Enfoque Automático  Videollamadas  Grabación  Conferencias  Skype  Hangouts  Teams  Zoom  Negro](https://www.amazon.es/dp/B08B73KHKS/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 10.63
 comparePrice: 16.99 GBP
 inStock: true
-prodname: WiFi Extender Range Booster  2.4G Internet Amplifier fibre WiFi extender  300Mbps WiFi Repeater Wireless Signal Amplifier Internet Blast  Full Coverage Network Booster Supports Repeater/AP
+prodname: 'WiFi Extender Range Booster  2.4G Internet Amplifier fibre WiFi extender  300Mbps WiFi Repeater Wireless Signal Amplifier Internet Blast  Full Coverage Network Booster Supports Repeater/AP'
 ---
 
 Ahora mismo tienes [WiFi Extender Range Booster  2.4G Internet Amplifier fibre WiFi extender  300Mbps WiFi Repeater Wireless Signal Amplifier Internet Blast  Full Coverage Network Booster Supports Repeater/AP](https://www.amazon.co.uk/dp/B08H7XB1CL/?tag=tolees0a-21) a 10.63 GBP (original: 16.99 GBP) (37.43 %  de descuento) en el siguiente enlace!

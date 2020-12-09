@@ -14,7 +14,7 @@ currency: EUR
 price: 15.91
 comparePrice: 48.08 EUR
 inStock: true
-prodname: Kensington K72339EU - Ratón  USB  Con cables  Óptico  Negro  250 mm  100 mm
+prodname: 'Kensington K72339EU - Ratón  USB  Con cables  Óptico  Negro  250 mm  100 mm'
 ---
 
 Está [Kensington K72339EU - Ratón  USB  Con cables  Óptico  Negro  250 mm  100 mm](https://www.amazon.es/dp/B002F9NSLW/?tag=tolees-21) con 66.91 de descuento por 15.91 EUR (original: 48.08 EUR) en el siguiente enlace!

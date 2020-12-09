@@ -14,7 +14,7 @@ currency: EUR
 price: 194.99
 comparePrice: 283.76 EUR
 inStock: true
-prodname: Samsung Memorie MZ-N6E2T0 860 EVO SSD Interno da 2 TB  SATA  M.2
+prodname: 'Samsung Memorie MZ-N6E2T0 860 EVO SSD Interno da 2 TB  SATA  M.2'
 ---
 
 Está [Samsung Memorie MZ-N6E2T0 860 EVO SSD Interno da 2 TB  SATA  M.2](https://www.amazon.it/dp/B078WRSSW6/?tag=tolees00-21) con 31.28 de descuento por 194.99 EUR (original: 283.76 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 349.0 EUR
 inStock: true
-prodname: Sennheiser PXC 550-II Wireless Casque d écoute avec Alexa  Suppression du Bruit et Pause Intelligente - Noir 508337
+prodname: 'Sennheiser PXC 550-II Wireless Casque d écoute avec Alexa  Suppression du Bruit et Pause Intelligente - Noir 508337'
 ---
 
 Tienes [Sennheiser PXC 550-II Wireless Casque d écoute avec Alexa  Suppression du Bruit et Pause Intelligente - Noir 508337](https://www.amazon.fr/dp/B07XYLPPSL/?tag=tolees0d-21) con un 42.98 % de descuento con precio de oferta de 199.0 EUR (original: 349.0 EUR) en el siguiente enlace!

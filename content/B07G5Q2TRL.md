@@ -14,7 +14,7 @@ currency: EUR
 price: 81.99
 comparePrice: 145.0 EUR
 inStock: true
-prodname: SanDisk Extreme Pro Scheda di Memoria microSDXC da 400 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 170 MB/sec  Classe 10  UHS-3  U3  V30
+prodname: 'SanDisk Extreme Pro Scheda di Memoria microSDXC da 400 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 170 MB/sec  Classe 10  UHS-3  U3  V30'
 ---
 
 Tienes [SanDisk Extreme Pro Scheda di Memoria microSDXC da 400 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 170 MB/sec  Classe 10  UHS-3  U3  V30](https://www.amazon.it/dp/B07G5Q2TRL/?tag=tolees00-21) con un 43.46 % de descuento con precio de oferta de 81.99 EUR (original: 145.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 402.06 EUR
 inStock: true
-prodname: Sennheiser IE 80S BT Audiophile  Cuffie Intrauricolari Bluetooth  In-ear  Nero
+prodname: 'Sennheiser IE 80S BT Audiophile  Cuffie Intrauricolari Bluetooth  In-ear  Nero'
 ---
 
 Ahora mismo tienes [Sennheiser IE 80S BT Audiophile  Cuffie Intrauricolari Bluetooth  In-ear  Nero](https://www.amazon.it/dp/B07WC6Y3RQ/?tag=tolees00-21) a 199.0 EUR (original: 402.06 EUR) (50.50 %  de descuento) en el siguiente enlace!

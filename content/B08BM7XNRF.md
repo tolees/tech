@@ -14,7 +14,7 @@ currency: EUR
 price: 51.69
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Crash Bandicoot 4 : It s About Time  Xbox One 
+prodname: 'Crash Bandicoot 4 : It s About Time  Xbox One '
 ---
 
 Está [Crash Bandicoot 4 : It s About Time  Xbox One ](https://www.amazon.fr/dp/B08BM7XNRF/?tag=tolees0d-21) con 26.15 de descuento por 51.69 EUR (original: 69.99 EUR) en el siguiente enlace!

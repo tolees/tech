@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 46.9 EUR
 inStock: true
-prodname: Laica F12M Bi-Flux Cartucce filtranti per il Trattamento dell Acqua  Confezione da 12 Cartucce
+prodname: 'Laica F12M Bi-Flux Cartucce filtranti per il Trattamento dell Acqua  Confezione da 12 Cartucce'
 ---
 
 Está [Laica F12M Bi-Flux Cartucce filtranti per il Trattamento dell Acqua  Confezione da 12 Cartucce](https://www.amazon.it/dp/B01D1CUOB8/?tag=tolees00-21) con 31.79 de descuento por 31.99 EUR (original: 46.9 EUR) en el siguiente enlace!

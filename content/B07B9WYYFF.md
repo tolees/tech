@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Mini dl Dab Digital Radio con FM  Bluetooth y Reproductor USB  Función de Temporizador y Reloj Despertador con Batería Recargable（1800 mAh） 6.3/4.7/2.9inch 
+prodname: 'Mini dl Dab Digital Radio con FM  Bluetooth y Reproductor USB  Función de Temporizador y Reloj Despertador con Batería Recargable（1800 mAh） 6.3/4.7/2.9inch '
 ---
 
 Tienes [Mini dl Dab Digital Radio con FM  Bluetooth y Reproductor USB  Función de Temporizador y Reloj Despertador con Batería Recargable（1800 mAh） 6.3/4.7/2.9inch ](https://www.amazon.es/dp/B07B9WYYFF/?tag=tolees-21) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!

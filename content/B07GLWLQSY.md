@@ -14,7 +14,7 @@ currency: EUR
 price: 333.99
 comparePrice: 449.0 EUR
 inStock: true
-prodname: Sony XAV-AX3005 Premium Media Receiver  6 95 Zoll  DAB+  Bluetooth  Apple CarPlay  Android Auto 
+prodname: 'Sony XAV-AX3005 Premium Media Receiver  6 95 Zoll  DAB+  Bluetooth  Apple CarPlay  Android Auto '
 ---
 
 Está [Sony XAV-AX3005 Premium Media Receiver  6 95 Zoll  DAB+  Bluetooth  Apple CarPlay  Android Auto ](https://www.amazon.de/dp/B07GLWLQSY/?tag=tolees0ca-21) con 25.61 de descuento por 333.99 EUR (original: 449.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 93.21
 comparePrice: 164.36 EUR
 inStock: true
-prodname: DYMO MobileLabeler etiquetadora con conectividad Bluetooth para smartphones
+prodname: 'DYMO MobileLabeler etiquetadora con conectividad Bluetooth para smartphones'
 ---
 
 Está [DYMO MobileLabeler etiquetadora con conectividad Bluetooth para smartphones](https://www.amazon.es/dp/B01MDR4SY3/?tag=tolees-21) con 43.29 de descuento por 93.21 EUR (original: 164.36 EUR) en el siguiente enlace!

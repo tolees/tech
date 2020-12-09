@@ -14,7 +14,7 @@ currency: GBP
 price: 159.0
 comparePrice: 219.95 GBP
 inStock: true
-prodname: Powerbeats Pro Wireless Earphones - Apple H1 headphone chip  Class 1 Bluetooth  9 hours of listening time  Sweat resistant earbuds - Black
+prodname: 'Powerbeats Pro Wireless Earphones - Apple H1 headphone chip  Class 1 Bluetooth  9 hours of listening time  Sweat resistant earbuds - Black'
 ---
 
 Está [Powerbeats Pro Wireless Earphones - Apple H1 headphone chip  Class 1 Bluetooth  9 hours of listening time  Sweat resistant earbuds - Black](https://www.amazon.co.uk/dp/B07RB7YHWH/?tag=tolees0a-21) con 27.71 de descuento por 159.0 GBP (original: 219.95 GBP) en el siguiente enlace!

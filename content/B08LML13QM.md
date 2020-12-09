@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Kit de manettes de contrôleur 8 en 1 pour PS5  4pcs Thumb Stick Grip Cap Joystick Cover et 4pcs extensions de déclencheur de bouton pour Sony PS5 Playstation 5 Dualsense Game Accessories
+prodname: 'Kit de manettes de contrôleur 8 en 1 pour PS5  4pcs Thumb Stick Grip Cap Joystick Cover et 4pcs extensions de déclencheur de bouton pour Sony PS5 Playstation 5 Dualsense Game Accessories'
 ---
 
 Está [Kit de manettes de contrôleur 8 en 1 pour PS5  4pcs Thumb Stick Grip Cap Joystick Cover et 4pcs extensions de déclencheur de bouton pour Sony PS5 Playstation 5 Dualsense Game Accessories](https://www.amazon.fr/dp/B08LML13QM/?tag=tolees0d-21) con 31.60 de descuento por 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

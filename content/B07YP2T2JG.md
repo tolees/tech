@@ -14,7 +14,7 @@ currency: EUR
 price: 98.1
 comparePrice: 134.95 EUR
 inStock: true
-prodname: HUAWEI 55031992 Freebuds 3  Weiß  Ceramic White 
+prodname: 'HUAWEI 55031992 Freebuds 3  Weiß  Ceramic White '
 ---
 
 Ahora mismo tienes [HUAWEI 55031992 Freebuds 3  Weiß  Ceramic White ](https://www.amazon.de/dp/B07YP2T2JG/?tag=tolees0ca-21) a 98.1 EUR (original: 134.95 EUR) (27.31 %  de descuento) en el siguiente enlace!

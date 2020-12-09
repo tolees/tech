@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Auriculares Cascos Gaming PS4 Gamer PC con Micrófono Diadema Estéreo 3.5mm para Switch
+prodname: 'Auriculares Cascos Gaming PS4 Gamer PC con Micrófono Diadema Estéreo 3.5mm para Switch'
 ---
 
 Tienes [Auriculares Cascos Gaming PS4 Gamer PC con Micrófono Diadema Estéreo 3.5mm para Switch](https://www.amazon.es/dp/B08CXRRV4W/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

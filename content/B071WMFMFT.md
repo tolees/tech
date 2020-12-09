@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PRIXTON VC400 - Tocadiscos de Vinilo Vintage  Reproductor de vinilo y Reproductor de Musica mediante Bluetooth y USB  2 Altavoces Incorporados  Diseño de Maleta  Color Rojo
+prodname: 'PRIXTON VC400 - Tocadiscos de Vinilo Vintage  Reproductor de vinilo y Reproductor de Musica mediante Bluetooth y USB  2 Altavoces Incorporados  Diseño de Maleta  Color Rojo'
 ---
 
 Ahora mismo tienes [PRIXTON VC400 - Tocadiscos de Vinilo Vintage  Reproductor de vinilo y Reproductor de Musica mediante Bluetooth y USB  2 Altavoces Incorporados  Diseño de Maleta  Color Rojo](https://www.amazon.es/dp/B071WMFMFT/?tag=tolees-21) a 39.95 EUR (original: 59.95 EUR) (33.36 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 259.0
 comparePrice: 359.0 EUR
 inStock: true
-prodname: Google WiFi Pack de 3 Routeurs sans Fil Bluetooth Blanc GA00158-FR
+prodname: 'Google WiFi Pack de 3 Routeurs sans Fil Bluetooth Blanc GA00158-FR'
 ---
 
 Tienes [Google WiFi Pack de 3 Routeurs sans Fil Bluetooth Blanc GA00158-FR](https://www.amazon.fr/dp/B0776XVMWM/?tag=tolees0d-21) con un 27.86 % de descuento con precio de oferta de 259.0 EUR (original: 359.0 EUR) en el siguiente enlace!

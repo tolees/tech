@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 79.9 EUR
 inStock: true
-prodname: FIFA 21 Champions Edition - PS4
+prodname: 'FIFA 21 Champions Edition - PS4'
 ---
 
 Tienes [FIFA 21 Champions Edition - PS4](https://www.amazon.es/dp/B08BGQF2BF/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 59.9 EUR (original: 79.9 EUR) en el siguiente enlace!

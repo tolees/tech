@@ -14,7 +14,7 @@ currency: EUR
 price: 7.01
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Bovon Protector Trasero iPhone X   Dureza 9 H  Cobertura Completa en 3D  Prueba de Arañazos  Color Blanco
+prodname: 'Bovon Protector Trasero iPhone X   Dureza 9 H  Cobertura Completa en 3D  Prueba de Arañazos  Color Blanco'
 ---
 
 Tienes [Bovon Protector Trasero iPhone X   Dureza 9 H  Cobertura Completa en 3D  Prueba de Arañazos  Color Blanco](https://www.amazon.es/dp/B077KPYXDS/?tag=tolees-21) con un 49.89 % de descuento con precio de oferta de 7.01 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 524.99
 comparePrice: 799.9 EUR
 inStock: true
-prodname: Panasonic Lumix DC-TZ200EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 24-360mm  Zoom de 15X  4K  WiFi  Bluetooth  Raw   Color Negro
+prodname: 'Panasonic Lumix DC-TZ200EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 24-360mm  Zoom de 15X  4K  WiFi  Bluetooth  Raw   Color Negro'
 ---
 
 Está [Panasonic Lumix DC-TZ200EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 24-360mm  Zoom de 15X  4K  WiFi  Bluetooth  Raw   Color Negro](https://www.amazon.es/dp/B07BFSBFYS/?tag=tolees-21) con 34.37 de descuento por 524.99 EUR (original: 799.9 EUR) en el siguiente enlace!

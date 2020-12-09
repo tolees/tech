@@ -14,7 +14,7 @@ currency: EUR
 price: 128.99
 comparePrice: 195.0 EUR
 inStock: true
-prodname: Panasonic NN-GD36H - Microondas con Grill  1000 W  23 L  6 niveles  Grill Cuarzo 1100 W  Plato Giratorio 285 mm  Control tácti L  17 modos  Turbo Defrost  tecnología Inverter  Plata
+prodname: 'Panasonic NN-GD36H - Microondas con Grill  1000 W  23 L  6 niveles  Grill Cuarzo 1100 W  Plato Giratorio 285 mm  Control tácti L  17 modos  Turbo Defrost  tecnología Inverter  Plata'
 ---
 
 Está [Panasonic NN-GD36H - Microondas con Grill  1000 W  23 L  6 niveles  Grill Cuarzo 1100 W  Plato Giratorio 285 mm  Control tácti L  17 modos  Turbo Defrost  tecnología Inverter  Plata](https://www.amazon.es/dp/B073HBCTCP/?tag=tolees-21) con 33.85 de descuento por 128.99 EUR (original: 195.0 EUR) en el siguiente enlace!

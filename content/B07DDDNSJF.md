@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Mini Auricular Bluetooth  4.1 Auricular Invisible Bluetooth In Ear Auriculare con Ligero  4g   Trabajo 10h  Cancelación de Ruido y Conector Magnético Inalámbrico para Coche y IPhone Samsung Huawei
+prodname: 'Mini Auricular Bluetooth  4.1 Auricular Invisible Bluetooth In Ear Auriculare con Ligero  4g   Trabajo 10h  Cancelación de Ruido y Conector Magnético Inalámbrico para Coche y IPhone Samsung Huawei'
 ---
 
 Está [Mini Auricular Bluetooth  4.1 Auricular Invisible Bluetooth In Ear Auriculare con Ligero  4g   Trabajo 10h  Cancelación de Ruido y Conector Magnético Inalámbrico para Coche y IPhone Samsung Huawei](https://www.amazon.es/dp/B07DDDNSJF/?tag=tolees-21) con 70.02 de descuento por 11.99 EUR (original: 39.99 EUR) en el siguiente enlace!

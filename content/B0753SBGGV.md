@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 106.49 EUR
 inStock: true
-prodname: LIFX Mini Day & Dusk E27 Lampadina a LED Wi-Fi Smart  Regolabile  Multicolor  Dimmerabile  non Richiede un Hub  Funziona con Alexa  Apple HomeKit e Google Assistant  Confezione da 4
+prodname: 'LIFX Mini Day & Dusk E27 Lampadina a LED Wi-Fi Smart  Regolabile  Multicolor  Dimmerabile  non Richiede un Hub  Funziona con Alexa  Apple HomeKit e Google Assistant  Confezione da 4'
 ---
 
 Ahora mismo tienes [LIFX Mini Day & Dusk E27 Lampadina a LED Wi-Fi Smart  Regolabile  Multicolor  Dimmerabile  non Richiede un Hub  Funziona con Alexa  Apple HomeKit e Google Assistant  Confezione da 4](https://www.amazon.it/dp/B0753SBGGV/?tag=tolees00-21) a 64.99 EUR (original: 106.49 EUR) (38.97 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.94
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Sony NWWS413 Walkman - Reproductor MP3 deportivo  4 GB  resistente al agua salada y altas temperaturas   color crema
+prodname: 'Sony NWWS413 Walkman - Reproductor MP3 deportivo  4 GB  resistente al agua salada y altas temperaturas   color crema'
 ---
 
 Tienes [Sony NWWS413 Walkman - Reproductor MP3 deportivo  4 GB  resistente al agua salada y altas temperaturas   color crema](https://www.amazon.es/dp/B01BBWU8QG/?tag=tolees-21) con un 29.44 % de descuento con precio de oferta de 59.94 EUR (original: 84.95 EUR) en el siguiente enlace!

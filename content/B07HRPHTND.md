@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: meross Enchufe Inteligente  Enchufe Exterior Impermeable App Control. Función de Temporizador. Compatible con Alexa  Google Home y SmartThings.
+prodname: 'meross Enchufe Inteligente  Enchufe Exterior Impermeable App Control. Función de Temporizador. Compatible con Alexa  Google Home y SmartThings.'
 ---
 
 Ahora mismo tienes [meross Enchufe Inteligente  Enchufe Exterior Impermeable App Control. Función de Temporizador. Compatible con Alexa  Google Home y SmartThings.](https://www.amazon.es/dp/B07HRPHTND/?tag=tolees-21) a 19.99 EUR (original: 36.99 EUR) (45.96 %  de descuento) en el siguiente enlace!

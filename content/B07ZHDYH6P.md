@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Anker Soundcore Liberty Air 2 Bluetooth Kopfhörer  mit diamantförmigen Audiotreibern  4 Mikrofone  28 Std Akku  personalisierter HearID EQ  Bluetooth 5 mit Geräuschisolierung  Schwarz 
+prodname: 'Anker Soundcore Liberty Air 2 Bluetooth Kopfhörer  mit diamantförmigen Audiotreibern  4 Mikrofone  28 Std Akku  personalisierter HearID EQ  Bluetooth 5 mit Geräuschisolierung  Schwarz '
 ---
 
 Ahora mismo tienes [Anker Soundcore Liberty Air 2 Bluetooth Kopfhörer  mit diamantförmigen Audiotreibern  4 Mikrofone  28 Std Akku  personalisierter HearID EQ  Bluetooth 5 mit Geräuschisolierung  Schwarz ](https://www.amazon.de/dp/B07ZHDYH6P/?tag=tolees0ca-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

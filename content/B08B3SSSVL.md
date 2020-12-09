@@ -14,7 +14,7 @@ currency: EUR
 price: 179.0
 comparePrice: 269.0 EUR
 inStock: true
-prodname: Cecotec Conga 1790 Vital. Tecnología iTech Gyro 1600 Pa  App con mapa  limpieza ordenada  cepillo para mascotas  Alexa & Google Assitant
+prodname: 'Cecotec Conga 1790 Vital. Tecnología iTech Gyro 1600 Pa  App con mapa  limpieza ordenada  cepillo para mascotas  Alexa & Google Assitant'
 ---
 
 Tienes [Cecotec Conga 1790 Vital. Tecnología iTech Gyro 1600 Pa  App con mapa  limpieza ordenada  cepillo para mascotas  Alexa & Google Assitant](https://www.amazon.es/dp/B08B3SSSVL/?tag=tolees-21) con un 33.46 % de descuento con precio de oferta de 179.0 EUR (original: 269.0 EUR) en el siguiente enlace!

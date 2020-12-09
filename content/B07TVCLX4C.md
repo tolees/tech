@@ -14,7 +14,7 @@ currency: EUR
 price: 97.49
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Mini PC Windows 10 Pro Intel Atom x5-Z8350 Procesador 4GB RAM 64GB eMMC  WiFi Dual 2.4G/5.8G Ordenador de Escritorio Equipado con una Velocidad de 1000Mbps LAN BT4.2 4K HDMI+VGA Pantalla Dual
+prodname: 'Mini PC Windows 10 Pro Intel Atom x5-Z8350 Procesador 4GB RAM 64GB eMMC  WiFi Dual 2.4G/5.8G Ordenador de Escritorio Equipado con una Velocidad de 1000Mbps LAN BT4.2 4K HDMI+VGA Pantalla Dual'
 ---
 
 Tienes [Mini PC Windows 10 Pro Intel Atom x5-Z8350 Procesador 4GB RAM 64GB eMMC  WiFi Dual 2.4G/5.8G Ordenador de Escritorio Equipado con una Velocidad de 1000Mbps LAN BT4.2 4K HDMI+VGA Pantalla Dual](https://www.amazon.es/dp/B07TVCLX4C/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 97.49 EUR (original: 139.99 EUR) en el siguiente enlace!

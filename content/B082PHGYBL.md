@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -La Grande Vague de Kanagawa
+prodname: 'eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -La Grande Vague de Kanagawa'
 ---
 
 Está [eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -La Grande Vague de Kanagawa](https://www.amazon.fr/dp/B082PHGYBL/?tag=tolees0d-21) con 32.36 de descuento por 22.99 EUR (original: 33.99 EUR) en el siguiente enlace!

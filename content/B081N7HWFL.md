@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 50.99 EUR
 inStock: true
-prodname: TOPsic Correa para Garmin Fenix 5X  Suave Silicona Banda de Reemplazo para Fenix 5X Sapphire Multisport 51mm GPS Watch/Fenix 3/ Fenix 3 HR/Fenix 5X Plus/Fenix 6X/Fenix 6X Pro
+prodname: 'TOPsic Correa para Garmin Fenix 5X  Suave Silicona Banda de Reemplazo para Fenix 5X Sapphire Multisport 51mm GPS Watch/Fenix 3/ Fenix 3 HR/Fenix 5X Plus/Fenix 6X/Fenix 6X Pro'
 ---
 
 Está [TOPsic Correa para Garmin Fenix 5X  Suave Silicona Banda de Reemplazo para Fenix 5X Sapphire Multisport 51mm GPS Watch/Fenix 3/ Fenix 3 HR/Fenix 5X Plus/Fenix 6X/Fenix 6X Pro](https://www.amazon.es/dp/B081N7HWFL/?tag=tolees-21) con 54.91 de descuento por 22.99 EUR (original: 50.99 EUR) en el siguiente enlace!

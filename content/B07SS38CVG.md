@@ -14,7 +14,7 @@ currency: GBP
 price: 50.67
 comparePrice: 84.99 GBP
 inStock: true
-prodname: Philips Hue White & Colour Ambiance Smart Bulb Twin Pack LED [E27 Edison Screw] with Bluetooth Works with Alexa  Google Assistant & Apple HomeKit  A Certified for Humans Device.
+prodname: 'Philips Hue White & Colour Ambiance Smart Bulb Twin Pack LED [E27 Edison Screw] with Bluetooth Works with Alexa  Google Assistant & Apple HomeKit  A Certified for Humans Device.'
 ---
 
 Está [Philips Hue White & Colour Ambiance Smart Bulb Twin Pack LED [E27 Edison Screw] with Bluetooth Works with Alexa  Google Assistant & Apple HomeKit  A Certified for Humans Device.](https://www.amazon.co.uk/dp/B07SS38CVG/?tag=tolees0a-21) con 40.38 de descuento por 50.67 GBP (original: 84.99 GBP) en el siguiente enlace!

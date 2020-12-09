@@ -14,7 +14,7 @@ currency: EUR
 price: 7.72
 comparePrice: 11.61 EUR
 inStock: true
-prodname: Auriculares para Juegos con Cable de 3.5Mm Auriculares para Juegos con cancelación de Ruido Auriculares con Control de Volumen de micrófono - Azul
+prodname: 'Auriculares para Juegos con Cable de 3.5Mm Auriculares para Juegos con cancelación de Ruido Auriculares con Control de Volumen de micrófono - Azul'
 ---
 
 Ahora mismo tienes [Auriculares para Juegos con Cable de 3.5Mm Auriculares para Juegos con cancelación de Ruido Auriculares con Control de Volumen de micrófono - Azul](https://www.amazon.es/dp/B08HQJQS1J/?tag=tolees-21) a 7.72 EUR (original: 11.61 EUR) (33.51 %  de descuento) en el siguiente enlace!

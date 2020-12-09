@@ -14,7 +14,7 @@ currency: EUR
 price: 179.0
 comparePrice: 379.0 EUR
 inStock: true
-prodname: Bluefin Fitness Vélo d Appartement Tour 5.0 Équipement de Sport à la Maison | Machine d Entraînement | Résistance Magnétique | Écran LCD | Bluetooth | Appli Smartphone | Noir & Gris Argenté
+prodname: 'Bluefin Fitness Vélo d Appartement Tour 5.0 Équipement de Sport à la Maison | Machine d Entraînement | Résistance Magnétique | Écran LCD | Bluetooth | Appli Smartphone | Noir & Gris Argenté'
 ---
 
 Tienes [Bluefin Fitness Vélo d Appartement Tour 5.0 Équipement de Sport à la Maison | Machine d Entraînement | Résistance Magnétique | Écran LCD | Bluetooth | Appli Smartphone | Noir & Gris Argenté](https://www.amazon.fr/dp/B07SPMGDYB/?tag=tolees0d-21) con un 52.77 % de descuento con precio de oferta de 179.0 EUR (original: 379.0 EUR) en el siguiente enlace!

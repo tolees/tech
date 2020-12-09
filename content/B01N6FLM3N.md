@@ -14,7 +14,7 @@ currency: EUR
 price: 72.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Motorola MBP 481 - Baby monitor video digitale con schermo LCD a colori da 2.0”  modo eco e visione notturna  bianco
+prodname: 'Motorola MBP 481 - Baby monitor video digitale con schermo LCD a colori da 2.0”  modo eco e visione notturna  bianco'
 ---
 
 Está [Motorola MBP 481 - Baby monitor video digitale con schermo LCD a colori da 2.0”  modo eco e visione notturna  bianco](https://www.amazon.it/dp/B01N6FLM3N/?tag=tolees00-21) con 27.04 de descuento por 72.95 EUR (original: 99.99 EUR) en el siguiente enlace!

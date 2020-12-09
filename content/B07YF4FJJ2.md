@@ -14,7 +14,7 @@ currency: EUR
 price: 72.99
 comparePrice: 100.6 EUR
 inStock: true
-prodname: Microsoft Surface Penna  Ice Blue
+prodname: 'Microsoft Surface Penna  Ice Blue'
 ---
 
 Está [Microsoft Surface Penna  Ice Blue](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21) con 27.45 de descuento por 72.99 EUR (original: 100.6 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1226.83
 comparePrice: 2119.0 EUR
 inStock: true
-prodname: Gigabyte AERO15W v8
+prodname: 'Gigabyte AERO15W v8'
 ---
 
 Ahora mismo tienes [Gigabyte AERO15W v8](https://www.amazon.es/dp/B07C2Q3FYT/?tag=tolees-21) a 1226.83 EUR (original: 2119.0 EUR) (42.10 %  de descuento) en el siguiente enlace!

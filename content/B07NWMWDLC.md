@@ -14,7 +14,7 @@ currency: GBP
 price: 499.0
 comparePrice: 999.99 GBP
 inStock: true
-prodname: Samsung Galaxy S10 512 GB Hybrid-SIM Android Smartphone - White  UK Version 
+prodname: 'Samsung Galaxy S10 512 GB Hybrid-SIM Android Smartphone - White  UK Version '
 ---
 
 Ahora mismo tienes [Samsung Galaxy S10 512 GB Hybrid-SIM Android Smartphone - White  UK Version ](https://www.amazon.co.uk/dp/B07NWMWDLC/?tag=tolees0a-21) a 499.0 GBP (original: 999.99 GBP) (50.10 %  de descuento) en el siguiente enlace!

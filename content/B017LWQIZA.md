@@ -14,7 +14,7 @@ currency: GBP
 price: 55.98
 comparePrice: 84.3 GBP
 inStock: true
-prodname: NETGEAR 8-Port Gigabit Ethernet PoE Network Switch  Hub  Internet Splitter  GS308P  - with 4 x PoE @ 55W  Desktop  Sturdy Metal Fanless Housing
+prodname: 'NETGEAR 8-Port Gigabit Ethernet PoE Network Switch  Hub  Internet Splitter  GS308P  - with 4 x PoE @ 55W  Desktop  Sturdy Metal Fanless Housing'
 ---
 
 Tienes [NETGEAR 8-Port Gigabit Ethernet PoE Network Switch  Hub  Internet Splitter  GS308P  - with 4 x PoE @ 55W  Desktop  Sturdy Metal Fanless Housing](https://www.amazon.co.uk/dp/B017LWQIZA/?tag=tolees0a-21) con un 33.59 % de descuento con precio de oferta de 55.98 GBP (original: 84.3 GBP) en el siguiente enlace!

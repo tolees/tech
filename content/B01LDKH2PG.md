@@ -14,7 +14,7 @@ currency: EUR
 price: 7.64
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con Agarre al Oído  Resistente a Salpicaduras   Color Negro  5
+prodname: 'Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con Agarre al Oído  Resistente a Salpicaduras   Color Negro  5'
 ---
 
 Ahora mismo tienes [Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con Agarre al Oído  Resistente a Salpicaduras   Color Negro  5](https://www.amazon.es/dp/B01LDKH2PG/?tag=tolees-21) a 7.64 EUR (original: 20.0 EUR) (61.80 %  de descuento) en el siguiente enlace!

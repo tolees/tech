@@ -14,7 +14,7 @@ currency: EUR
 price: 15.89
 comparePrice: 31.99 EUR
 inStock: true
-prodname: meross Bombilla LED Regulable e Inteligente. E27  Blanco Ajustable  2700K-6500K  9W Equivalente a 60W A21 RGB. Compatible con Alexa  Google Assistant e IFTTT Modelo MSL-120
+prodname: 'meross Bombilla LED Regulable e Inteligente. E27  Blanco Ajustable  2700K-6500K  9W Equivalente a 60W A21 RGB. Compatible con Alexa  Google Assistant e IFTTT Modelo MSL-120'
 ---
 
 Tienes [meross Bombilla LED Regulable e Inteligente. E27  Blanco Ajustable  2700K-6500K  9W Equivalente a 60W A21 RGB. Compatible con Alexa  Google Assistant e IFTTT Modelo MSL-120](https://www.amazon.es/dp/B07GF2MG7F/?tag=tolees-21) con un 50.33 % de descuento con precio de oferta de 15.89 EUR (original: 31.99 EUR) en el siguiente enlace!

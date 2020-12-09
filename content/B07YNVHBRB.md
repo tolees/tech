@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Sony SF-M64T SD-Speicherkarte  64 GB  UHS-II  SD Tough  M Serie 
+prodname: 'Sony SF-M64T SD-Speicherkarte  64 GB  UHS-II  SD Tough  M Serie '
 ---
 
 Ahora mismo tienes [Sony SF-M64T SD-Speicherkarte  64 GB  UHS-II  SD Tough  M Serie ](https://www.amazon.de/dp/B07YNVHBRB/?tag=tolees0ca-21) a 43.99 EUR (original: 60.0 EUR) (26.68 %  de descuento) en el siguiente enlace!

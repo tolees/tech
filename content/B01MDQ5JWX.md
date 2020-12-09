@@ -14,7 +14,7 @@ currency: EUR
 price: 157.7
 comparePrice: 239.99 EUR
 inStock: true
-prodname: ASUS STRIX-GTX1050TI-4G Scheda Grafica da 4 GB GDDR5  768 Core  1290MHz GPU  1392MHz  Nero
+prodname: 'ASUS STRIX-GTX1050TI-4G Scheda Grafica da 4 GB GDDR5  768 Core  1290MHz GPU  1392MHz  Nero'
 ---
 
 Está [ASUS STRIX-GTX1050TI-4G Scheda Grafica da 4 GB GDDR5  768 Core  1290MHz GPU  1392MHz  Nero](https://www.amazon.it/dp/B01MDQ5JWX/?tag=tolees00-21) con 34.29 de descuento por 157.7 EUR (original: 239.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Mars Gaming MCP118  Pack Iluminación RGB de Teclado  Ratón y Alfombrilla Gaming  USB Alámbrico  Negro
+prodname: 'Mars Gaming MCP118  Pack Iluminación RGB de Teclado  Ratón y Alfombrilla Gaming  USB Alámbrico  Negro'
 ---
 
 Está [Mars Gaming MCP118  Pack Iluminación RGB de Teclado  Ratón y Alfombrilla Gaming  USB Alámbrico  Negro](https://www.amazon.es/dp/B07DNL7PNB/?tag=tolees-21) con 26.10 de descuento por 16.99 EUR (original: 22.99 EUR) en el siguiente enlace!

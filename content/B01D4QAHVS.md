@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Sony XSFB1620E.EUR - Altavoces coaxiales  2 vías de 16 cm  Potencia máxima 260 W  Potencia Nominal 45 W   Negro
+prodname: 'Sony XSFB1620E.EUR - Altavoces coaxiales  2 vías de 16 cm  Potencia máxima 260 W  Potencia Nominal 45 W   Negro'
 ---
 
 Ahora mismo tienes [Sony XSFB1620E.EUR - Altavoces coaxiales  2 vías de 16 cm  Potencia máxima 260 W  Potencia Nominal 45 W   Negro](https://www.amazon.es/dp/B01D4QAHVS/?tag=tolees-21) a 35.99 EUR (original: 50.0 EUR) (28.02 %  de descuento) en el siguiente enlace!

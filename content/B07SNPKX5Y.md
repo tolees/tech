@@ -14,7 +14,7 @@ currency: EUR
 price: 63.35
 comparePrice: 126.71 EUR
 inStock: true
-prodname: Echo Show 8 | Durch Alexa in Verbindung bleiben  Anthrazit Stoff
+prodname: 'Echo Show 8 | Durch Alexa in Verbindung bleiben  Anthrazit Stoff'
 ---
 
 Ahora mismo tienes [Echo Show 8 | Durch Alexa in Verbindung bleiben  Anthrazit Stoff](https://www.amazon.de/dp/B07SNPKX5Y/?tag=tolees0ca-21) a 63.35 EUR (original: 126.71 EUR) (50.00 %  de descuento) en el siguiente enlace!

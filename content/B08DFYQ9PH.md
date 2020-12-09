@@ -14,7 +14,7 @@ currency: EUR
 price: 52.0
 comparePrice: 79.0 EUR
 inStock: true
-prodname: HONOR Router 3 WiFi 6+ 3000Mbps Enrutador de Cable Inalámbrico WiFi Ethernet de Doble Núcleo de 2 4GHz 4 Puertos LAN  Amplificador Wi-Fi Control Parental Intuitivo  Uso Doméstico 
+prodname: 'HONOR Router 3 WiFi 6+ 3000Mbps Enrutador de Cable Inalámbrico WiFi Ethernet de Doble Núcleo de 2 4GHz 4 Puertos LAN  Amplificador Wi-Fi Control Parental Intuitivo  Uso Doméstico '
 ---
 
 Está [HONOR Router 3 WiFi 6+ 3000Mbps Enrutador de Cable Inalámbrico WiFi Ethernet de Doble Núcleo de 2 4GHz 4 Puertos LAN  Amplificador Wi-Fi Control Parental Intuitivo  Uso Doméstico ](https://www.amazon.es/dp/B08DFYQ9PH/?tag=tolees-21) con 34.18 de descuento por 52.0 EUR (original: 79.0 EUR) en el siguiente enlace!

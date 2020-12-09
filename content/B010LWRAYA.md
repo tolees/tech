@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 47.99 EUR
 inStock: true
-prodname: GHB Sades Auriculares Gaming Cascos con Microfono SA-901 Sonido Envolvente 7.1 con USB para PC Ordenador Portátil Azul y Negro
+prodname: 'GHB Sades Auriculares Gaming Cascos con Microfono SA-901 Sonido Envolvente 7.1 con USB para PC Ordenador Portátil Azul y Negro'
 ---
 
 Ahora mismo tienes [GHB Sades Auriculares Gaming Cascos con Microfono SA-901 Sonido Envolvente 7.1 con USB para PC Ordenador Portátil Azul y Negro](https://www.amazon.es/dp/B010LWRAYA/?tag=tolees-21) a 29.99 EUR (original: 47.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

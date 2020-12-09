@@ -14,7 +14,7 @@ currency: EUR
 price: 416.63
 comparePrice: 699.99 EUR
 inStock: true
-prodname: Canon EOS M6 - Cámara Evil de 24.2 MP  Pantalla táctil de 3.0    DIGIC 7  NFC  Dual Pixel CMOS AF  Bluetooth  5 - Axis Digital IS  Full HD  WiFi  Plata - Solo Cuerpo
+prodname: 'Canon EOS M6 - Cámara Evil de 24.2 MP  Pantalla táctil de 3.0    DIGIC 7  NFC  Dual Pixel CMOS AF  Bluetooth  5 - Axis Digital IS  Full HD  WiFi  Plata - Solo Cuerpo'
 ---
 
 Ahora mismo tienes [Canon EOS M6 - Cámara Evil de 24.2 MP  Pantalla táctil de 3.0    DIGIC 7  NFC  Dual Pixel CMOS AF  Bluetooth  5 - Axis Digital IS  Full HD  WiFi  Plata - Solo Cuerpo](https://www.amazon.es/dp/B06WGRL6DD/?tag=tolees-21) a 416.63 EUR (original: 699.99 EUR) (40.48 %  de descuento) en el siguiente enlace!

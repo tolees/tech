@@ -14,7 +14,7 @@ currency: EUR
 price: 37.46
 comparePrice: 49.95 EUR
 inStock: true
-prodname: August EP650–Auriculares Bluetooth Inalámbrico–Auriculares Diadema Casco Plegable-Sonido Estéreo Bass Rich-Auriculares Orejeras Cómodas con NFC y aptX Color Azul
+prodname: 'August EP650–Auriculares Bluetooth Inalámbrico–Auriculares Diadema Casco Plegable-Sonido Estéreo Bass Rich-Auriculares Orejeras Cómodas con NFC y aptX Color Azul'
 ---
 
 Ahora mismo tienes [August EP650–Auriculares Bluetooth Inalámbrico–Auriculares Diadema Casco Plegable-Sonido Estéreo Bass Rich-Auriculares Orejeras Cómodas con NFC y aptX Color Azul](https://www.amazon.es/dp/B00IMB47TY/?tag=tolees-21) a 37.46 EUR (original: 49.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

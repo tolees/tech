@@ -14,7 +14,7 @@ currency: GBP
 price: 13.26
 comparePrice: 25.99 GBP
 inStock: true
-prodname: WiFi Booster WiFi Extender  WiFi Booster Range Extender Wireless Signal 300Mbps/2.4G Dual External Antennas  WI-FI Booster Extender  Plug and Play  UK Plug
+prodname: 'WiFi Booster WiFi Extender  WiFi Booster Range Extender Wireless Signal 300Mbps/2.4G Dual External Antennas  WI-FI Booster Extender  Plug and Play  UK Plug'
 ---
 
 Tienes [WiFi Booster WiFi Extender  WiFi Booster Range Extender Wireless Signal 300Mbps/2.4G Dual External Antennas  WI-FI Booster Extender  Plug and Play  UK Plug](https://www.amazon.co.uk/dp/B08GFDP62P/?tag=tolees0a-21) con un 48.98 % de descuento con precio de oferta de 13.26 GBP (original: 25.99 GBP) en el siguiente enlace!

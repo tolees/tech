@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: LEGO Marvel Super Heroes 2  Nintendo Switch  [AT PEGI]
+prodname: 'LEGO Marvel Super Heroes 2  Nintendo Switch  [AT PEGI]'
 ---
 
 Tienes [LEGO Marvel Super Heroes 2  Nintendo Switch  [AT PEGI]](https://www.amazon.de/dp/B077TCZHQ4/?tag=tolees0ca-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

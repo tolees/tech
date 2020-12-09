@@ -14,7 +14,7 @@ currency: GBP
 price: 29.77
 comparePrice: 52.98 GBP
 inStock: true
-prodname: Echo Dot  3rd Gen   Plum Fabric + Tapo P100 Smart Plug  Works with Alexa
+prodname: 'Echo Dot  3rd Gen   Plum Fabric + Tapo P100 Smart Plug  Works with Alexa'
 ---
 
 Ahora mismo tienes [Echo Dot  3rd Gen   Plum Fabric + Tapo P100 Smart Plug  Works with Alexa](https://www.amazon.co.uk/dp/B085PNKBLC/?tag=tolees0a-21) a 29.77 GBP (original: 52.98 GBP) (43.81 %  de descuento) en el siguiente enlace!

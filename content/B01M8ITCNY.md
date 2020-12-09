@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Razer Goliathus Mobile - Suave alfombrilla de ratón para juegos
+prodname: 'Razer Goliathus Mobile - Suave alfombrilla de ratón para juegos'
 ---
 
 Ahora mismo tienes [Razer Goliathus Mobile - Suave alfombrilla de ratón para juegos](https://www.amazon.es/dp/B01M8ITCNY/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

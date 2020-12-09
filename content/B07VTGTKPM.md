@@ -14,7 +14,7 @@ currency: USD
 price: 149.99
 comparePrice: 250.0 USD
 inStock: true
-prodname: Bang & Olufsen Beoplay A1 Portable Bluetooth Speaker with Microphone  Peony
+prodname: 'Bang & Olufsen Beoplay A1 Portable Bluetooth Speaker with Microphone  Peony'
 ---
 
 Tienes [Bang & Olufsen Beoplay A1 Portable Bluetooth Speaker with Microphone  Peony](https://www.amazon.com/dp/B07VTGTKPM/?tag=tolees-20) con un 40.00 % de descuento con precio de oferta de 149.99 USD (original: 250.0 USD) en el siguiente enlace!

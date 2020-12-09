@@ -14,7 +14,7 @@ currency: EUR
 price: 169
 comparePrice: 299.99 EUR
 inStock: true
-prodname: M MEGAWHEELS Patinete electrico  6.5 Pulgadas con Bluetooth - 500W Motor Monopatin Electrico Self Balance Scooter. Starry-Sky 
+prodname: 'M MEGAWHEELS Patinete electrico  6.5 Pulgadas con Bluetooth - 500W Motor Monopatin Electrico Self Balance Scooter. Starry-Sky '
 ---
 
 Está [M MEGAWHEELS Patinete electrico  6.5 Pulgadas con Bluetooth - 500W Motor Monopatin Electrico Self Balance Scooter. Starry-Sky ](https://www.amazon.es/dp/B07GKK43WZ/?tag=tolees-21) con 43.66 de descuento por 169 EUR (original: 299.99 EUR) en el siguiente enlace!

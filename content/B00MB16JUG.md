@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Sunstech RPDS32SL - Radio portátil digital  AMFM PLL  altavoz  USB  SD  MMC  1.5 W RMS  color plata
+prodname: 'Sunstech RPDS32SL - Radio portátil digital  AMFM PLL  altavoz  USB  SD  MMC  1.5 W RMS  color plata'
 ---
 
 Tienes [Sunstech RPDS32SL - Radio portátil digital  AMFM PLL  altavoz  USB  SD  MMC  1.5 W RMS  color plata](https://www.amazon.es/dp/B00MB16JUG/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

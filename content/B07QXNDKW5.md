@@ -14,7 +14,7 @@ currency: EUR
 price: 7.1
 comparePrice: 12.99 EUR
 inStock: true
-prodname: HoYiXi Funda para Samsung Galaxy Tab S5e Estuche de Tableta Funda de Cuero Delgada con Auto Sueño/Estela Funcion Smart Cover para 10.5 Pulgadas Samsung Galaxy Tab S5e 2019 Release –Oro Rosa
+prodname: 'HoYiXi Funda para Samsung Galaxy Tab S5e Estuche de Tableta Funda de Cuero Delgada con Auto Sueño/Estela Funcion Smart Cover para 10.5 Pulgadas Samsung Galaxy Tab S5e 2019 Release –Oro Rosa'
 ---
 
 Ahora mismo tienes [HoYiXi Funda para Samsung Galaxy Tab S5e Estuche de Tableta Funda de Cuero Delgada con Auto Sueño/Estela Funcion Smart Cover para 10.5 Pulgadas Samsung Galaxy Tab S5e 2019 Release –Oro Rosa](https://www.amazon.es/dp/B07QXNDKW5/?tag=tolees-21) a 7.1 EUR (original: 12.99 EUR) (45.34 %  de descuento) en el siguiente enlace!

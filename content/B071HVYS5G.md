@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Bicicleta Cuentakilómetros  Ciclocomputador Ordenador Para Bicicleta Impermeable Velocímetro Inalámbrico de Bicicleta para bicicleta  odómetro de bicicleta con Retroiluminac múltiples Funciones
+prodname: 'Bicicleta Cuentakilómetros  Ciclocomputador Ordenador Para Bicicleta Impermeable Velocímetro Inalámbrico de Bicicleta para bicicleta  odómetro de bicicleta con Retroiluminac múltiples Funciones'
 ---
 
 Tienes [Bicicleta Cuentakilómetros  Ciclocomputador Ordenador Para Bicicleta Impermeable Velocímetro Inalámbrico de Bicicleta para bicicleta  odómetro de bicicleta con Retroiluminac múltiples Funciones](https://www.amazon.es/dp/B071HVYS5G/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 11.99 EUR (original: 29.99 EUR) en el siguiente enlace!

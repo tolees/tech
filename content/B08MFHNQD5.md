@@ -14,7 +14,7 @@ currency: GBP
 price: 2349.9
 comparePrice: 4419.9 GBP
 inStock: true
-prodname: Sedatech Watercooling Pro Gaming PC Intel i9-10850K 10x 3.60Ghz  Geforce RTX 3070 8Gb  64Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10
+prodname: 'Sedatech Watercooling Pro Gaming PC Intel i9-10850K 10x 3.60Ghz  Geforce RTX 3070 8Gb  64Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10'
 ---
 
 Tienes [Sedatech Watercooling Pro Gaming PC Intel i9-10850K 10x 3.60Ghz  Geforce RTX 3070 8Gb  64Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10](https://www.amazon.co.uk/dp/B08MFHNQD5/?tag=tolees0a-21) con un 46.83 % de descuento con precio de oferta de 2349.9 GBP (original: 4419.9 GBP) en el siguiente enlace!

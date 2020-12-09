@@ -14,7 +14,7 @@ currency: EUR
 price: 183.99
 comparePrice: 280.0 EUR
 inStock: true
-prodname: Sony GTK-XB60 Sistema Audio con Extra Bass  Effetti Luminosi  Bluetooth  NFC  Batteria fino a 14 Ore  Nero
+prodname: 'Sony GTK-XB60 Sistema Audio con Extra Bass  Effetti Luminosi  Bluetooth  NFC  Batteria fino a 14 Ore  Nero'
 ---
 
 Ahora mismo tienes [Sony GTK-XB60 Sistema Audio con Extra Bass  Effetti Luminosi  Bluetooth  NFC  Batteria fino a 14 Ore  Nero](https://www.amazon.it/dp/B074X1KZLF/?tag=tolees00-21) a 183.99 EUR (original: 280.0 EUR) (34.29 %  de descuento) en el siguiente enlace!

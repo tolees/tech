@@ -14,7 +14,7 @@ currency: EUR
 price: 26.08
 comparePrice: 39.99 EUR
 inStock: true
-prodname: PowerA - Pokémon Auriculares para videojuegos con cable Pikachu Silhouette  Xbox/PS4/Nintendo Switch/PC/Mac/Móvil 
+prodname: 'PowerA - Pokémon Auriculares para videojuegos con cable Pikachu Silhouette  Xbox/PS4/Nintendo Switch/PC/Mac/Móvil '
 ---
 
 Está [PowerA - Pokémon Auriculares para videojuegos con cable Pikachu Silhouette  Xbox/PS4/Nintendo Switch/PC/Mac/Móvil ](https://www.amazon.es/dp/B07WCCLWGS/?tag=tolees-21) con 34.78 de descuento por 26.08 EUR (original: 39.99 EUR) en el siguiente enlace!

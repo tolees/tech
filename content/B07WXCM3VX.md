@@ -14,7 +14,7 @@ currency: GBP
 price: 629.0
 comparePrice: 1099.0 GBP
 inStock: true
-prodname: Samsung Galaxy S10 5G Single-SIM 256 GB 6.7-Inch Android Smartphone - Majestic Black  UK Version 
+prodname: 'Samsung Galaxy S10 5G Single-SIM 256 GB 6.7-Inch Android Smartphone - Majestic Black  UK Version '
 ---
 
 Ahora mismo tienes [Samsung Galaxy S10 5G Single-SIM 256 GB 6.7-Inch Android Smartphone - Majestic Black  UK Version ](https://www.amazon.co.uk/dp/B07WXCM3VX/?tag=tolees0a-21) a 629.0 GBP (original: 1099.0 GBP) (42.77 %  de descuento) en el siguiente enlace!

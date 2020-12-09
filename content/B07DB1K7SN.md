@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Cámara de Coche Full HD 1296P，Dashcam 170°+140°Gran Angular，Grabadora de Detección de Movimiento 3 Pantalla con Visión Nocturna Infrarroja WDR Monitoreo de Estacionamiento y Grabación de Bucle
+prodname: 'Cámara de Coche Full HD 1296P，Dashcam 170°+140°Gran Angular，Grabadora de Detección de Movimiento 3 Pantalla con Visión Nocturna Infrarroja WDR Monitoreo de Estacionamiento y Grabación de Bucle'
 ---
 
 Está [Cámara de Coche Full HD 1296P，Dashcam 170°+140°Gran Angular，Grabadora de Detección de Movimiento 3 Pantalla con Visión Nocturna Infrarroja WDR Monitoreo de Estacionamiento y Grabación de Bucle](https://www.amazon.es/dp/B07DB1K7SN/?tag=tolees-21) con 77.79 de descuento por 19.99 EUR (original: 89.99 EUR) en el siguiente enlace!

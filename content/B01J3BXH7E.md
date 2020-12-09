@@ -14,7 +14,7 @@ currency: EUR
 price: 33.74
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Neetto Mesa de Cama para Portátil Ajustable  Mesa Ordenador Plegable Bandeja de Sofá  Escritorio Portátil  Atril para sofá y Soporte de Suelo de Lectura para niños - Minitable
+prodname: 'Neetto Mesa de Cama para Portátil Ajustable  Mesa Ordenador Plegable Bandeja de Sofá  Escritorio Portátil  Atril para sofá y Soporte de Suelo de Lectura para niños - Minitable'
 ---
 
 Tienes [Neetto Mesa de Cama para Portátil Ajustable  Mesa Ordenador Plegable Bandeja de Sofá  Escritorio Portátil  Atril para sofá y Soporte de Suelo de Lectura para niños - Minitable](https://www.amazon.es/dp/B01J3BXH7E/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 33.74 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 36.5 EUR
 inStock: true
-prodname: Xiaomi Mi City  Mochila para Portátiles y netbooks  Poliéster  Gris  Monótono  Unisex  33 cm  13"  - 35.6 cm  14"   Gris
+prodname: 'Xiaomi Mi City  Mochila para Portátiles y netbooks  Poliéster  Gris  Monótono  Unisex  33 cm  13"  - 35.6 cm  14"   Gris'
 ---
 
 Está [Xiaomi Mi City  Mochila para Portátiles y netbooks  Poliéster  Gris  Monótono  Unisex  33 cm  13"  - 35.6 cm  14"   Gris](https://www.amazon.es/dp/B07DLC9L6W/?tag=tolees-21) con 28.79 de descuento por 25.99 EUR (original: 36.5 EUR) en el siguiente enlace!

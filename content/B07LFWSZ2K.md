@@ -14,7 +14,7 @@ currency: EUR
 price: 835.99
 comparePrice: 1194.91 EUR
 inStock: true
-prodname: WORX WR153E - Robot Cortacésped Landroid L 1500 WIFI
+prodname: 'WORX WR153E - Robot Cortacésped Landroid L 1500 WIFI'
 ---
 
 Está [WORX WR153E - Robot Cortacésped Landroid L 1500 WIFI](https://www.amazon.es/dp/B07LFWSZ2K/?tag=tolees-21) con 30.04 de descuento por 835.99 EUR (original: 1194.91 EUR) en el siguiente enlace!

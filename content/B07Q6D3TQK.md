@@ -14,7 +14,7 @@ currency: GBP
 price: 49.99
 comparePrice: 69.95 GBP
 inStock: true
-prodname: Canon Zoemini C Sunflower Yellow – Normal Instant Camera
+prodname: 'Canon Zoemini C Sunflower Yellow – Normal Instant Camera'
 ---
 
 Ahora mismo tienes [Canon Zoemini C Sunflower Yellow – Normal Instant Camera](https://www.amazon.co.uk/dp/B07Q6D3TQK/?tag=tolees0a-21) a 49.99 GBP (original: 69.95 GBP) (28.53 %  de descuento) en el siguiente enlace!

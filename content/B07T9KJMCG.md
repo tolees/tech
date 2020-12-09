@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 48.99 EUR
 inStock: true
-prodname: DOQAUS Bluetooth Kopfhörer Over Ear  [Bis zu 52 Std] Kabellose Kopfhörer mit 3 EQ-Modi  HiFi Stereo Faltbare Headset mit Mikrofon  weiche Ohrpolster für iPhone/ipad/Android/Laptops  Asphaltgrau 
+prodname: 'DOQAUS Bluetooth Kopfhörer Over Ear  [Bis zu 52 Std] Kabellose Kopfhörer mit 3 EQ-Modi  HiFi Stereo Faltbare Headset mit Mikrofon  weiche Ohrpolster für iPhone/ipad/Android/Laptops  Asphaltgrau '
 ---
 
 Está [DOQAUS Bluetooth Kopfhörer Over Ear  [Bis zu 52 Std] Kabellose Kopfhörer mit 3 EQ-Modi  HiFi Stereo Faltbare Headset mit Mikrofon  weiche Ohrpolster für iPhone/ipad/Android/Laptops  Asphaltgrau ](https://www.amazon.de/dp/B07T9KJMCG/?tag=tolees0ca-21) con 28.58 de descuento por 34.99 EUR (original: 48.99 EUR) en el siguiente enlace!

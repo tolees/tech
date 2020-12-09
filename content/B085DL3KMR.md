@@ -14,7 +14,7 @@ currency: USD
 price: 49.99
 comparePrice: 99.99 USD
 inStock: true
-prodname: TOZO T12 Wireless Earbuds Bluetooth Headphones with Touch Control and Wireless Charging Case Digital Intelligence LED Display IPX8 Waterproof Earphones Built-in Mic Headset Deep Bass for Sport Black
+prodname: 'TOZO T12 Wireless Earbuds Bluetooth Headphones with Touch Control and Wireless Charging Case Digital Intelligence LED Display IPX8 Waterproof Earphones Built-in Mic Headset Deep Bass for Sport Black'
 ---
 
 Ahora mismo tienes [TOZO T12 Wireless Earbuds Bluetooth Headphones with Touch Control and Wireless Charging Case Digital Intelligence LED Display IPX8 Waterproof Earphones Built-in Mic Headset Deep Bass for Sport Black](https://www.amazon.com/dp/B085DL3KMR/?tag=tolees-20) a 49.99 USD (original: 99.99 USD) (50.01 %  de descuento) en el siguiente enlace!

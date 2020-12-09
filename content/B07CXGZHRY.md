@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: INLIFE Repetidor de Red WiFi Extensor Amplificador de Cobertura con Enchufe 2.4/5.8GHz 750 Mbps Alta Sensibilidad 2 Antenas Puertos Ethernet LAN/WAN  WPS
+prodname: 'INLIFE Repetidor de Red WiFi Extensor Amplificador de Cobertura con Enchufe 2.4/5.8GHz 750 Mbps Alta Sensibilidad 2 Antenas Puertos Ethernet LAN/WAN  WPS'
 ---
 
 Ahora mismo tienes [INLIFE Repetidor de Red WiFi Extensor Amplificador de Cobertura con Enchufe 2.4/5.8GHz 750 Mbps Alta Sensibilidad 2 Antenas Puertos Ethernet LAN/WAN  WPS](https://www.amazon.es/dp/B07CXGZHRY/?tag=tolees-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

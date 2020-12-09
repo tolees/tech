@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Apple AirPods con custodia di ricarica con cavo  seconda generazione 
+prodname: 'Apple AirPods con custodia di ricarica con cavo  seconda generazione '
 ---
 
 Está [Apple AirPods con custodia di ricarica con cavo  seconda generazione ](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21) con 27.38 de descuento por 129.99 EUR (original: 179.0 EUR) en el siguiente enlace!

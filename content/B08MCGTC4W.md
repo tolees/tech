@@ -14,7 +14,7 @@ currency: GBP
 price: 1879.9
 comparePrice: 2799.9 GBP
 inStock: true
-prodname: Sedatech Watercooling Pro Gaming PC Intel i9-9900KF 8x 3.6Ghz  Geforce RTX 3070 8Gb  32Gb RAM DDR4  1Tb SSD NVMe M.2 PCIe  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  without OS
+prodname: 'Sedatech Watercooling Pro Gaming PC Intel i9-9900KF 8x 3.6Ghz  Geforce RTX 3070 8Gb  32Gb RAM DDR4  1Tb SSD NVMe M.2 PCIe  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  without OS'
 ---
 
 Está [Sedatech Watercooling Pro Gaming PC Intel i9-9900KF 8x 3.6Ghz  Geforce RTX 3070 8Gb  32Gb RAM DDR4  1Tb SSD NVMe M.2 PCIe  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  without OS](https://www.amazon.co.uk/dp/B08MCGTC4W/?tag=tolees0a-21) con 32.86 de descuento por 1879.9 GBP (original: 2799.9 GBP) en el siguiente enlace!

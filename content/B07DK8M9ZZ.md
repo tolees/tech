@@ -14,7 +14,7 @@ currency: EUR
 price: 35.76
 comparePrice: 64.72 EUR
 inStock: true
-prodname: NBA 2K19 - Xbox One [Importación francesa]
+prodname: 'NBA 2K19 - Xbox One [Importación francesa]'
 ---
 
 Tienes [NBA 2K19 - Xbox One [Importación francesa]](https://www.amazon.es/dp/B07DK8M9ZZ/?tag=tolees-21) con un 44.75 % de descuento con precio de oferta de 35.76 EUR (original: 64.72 EUR) en el siguiente enlace!

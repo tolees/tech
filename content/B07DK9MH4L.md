@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: LiteXim Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil y Micrófono Integrado para iPhone Android
+prodname: 'LiteXim Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil y Micrófono Integrado para iPhone Android'
 ---
 
 Ahora mismo tienes [LiteXim Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil y Micrófono Integrado para iPhone Android](https://www.amazon.es/dp/B07DK9MH4L/?tag=tolees-21) a 49.99 EUR (original: 89.99 EUR) (44.45 %  de descuento) en el siguiente enlace!

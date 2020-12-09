@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Apple Cable de carga USB-C  2 metros 
+prodname: 'Apple Cable de carga USB-C  2 metros '
 ---
 
 Ahora mismo tienes [Apple Cable de carga USB-C  2 metros ](https://www.amazon.es/dp/B01M2AMPMU/?tag=tolees-21) a 14.9 EUR (original: 25.0 EUR) (40.40 %  de descuento) en el siguiente enlace!

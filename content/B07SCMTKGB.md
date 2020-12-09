@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 58.99 EUR
 inStock: true
-prodname: Logitech G403 HERO 16K  mouse gaming  LIGHTSYNC RGB  leggero 87 g + 10 g opzionale  cavo intrecciato  16.000 DPI  impugnature laterali in gomma  Imballaggio per l Europa occidentale
+prodname: 'Logitech G403 HERO 16K  mouse gaming  LIGHTSYNC RGB  leggero 87 g + 10 g opzionale  cavo intrecciato  16.000 DPI  impugnature laterali in gomma  Imballaggio per l Europa occidentale'
 ---
 
 Está [Logitech G403 HERO 16K  mouse gaming  LIGHTSYNC RGB  leggero 87 g + 10 g opzionale  cavo intrecciato  16.000 DPI  impugnature laterali in gomma  Imballaggio per l Europa occidentale](https://www.amazon.it/dp/B07SCMTKGB/?tag=tolees00-21) con 32.21 de descuento por 39.99 EUR (original: 58.99 EUR) en el siguiente enlace!

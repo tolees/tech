@@ -14,7 +14,7 @@ currency: EUR
 price: 319.2
 comparePrice: 449.0 EUR
 inStock: true
-prodname: Sigma 16 mm F1.4 DC DN Contemporary - Objetivo para Sony E  color negro
+prodname: 'Sigma 16 mm F1.4 DC DN Contemporary - Objetivo para Sony E  color negro'
 ---
 
 Ahora mismo tienes [Sigma 16 mm F1.4 DC DN Contemporary - Objetivo para Sony E  color negro](https://www.amazon.es/dp/B077BWD2BB/?tag=tolees-21) a 319.2 EUR (original: 449.0 EUR) (28.91 %  de descuento) en el siguiente enlace!

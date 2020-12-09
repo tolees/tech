@@ -14,7 +14,7 @@ currency: EUR
 price: 119.89
 comparePrice: 199.9 EUR
 inStock: true
-prodname: Sony MDR-XB950B1 Casque Bluetooth Noir
+prodname: 'Sony MDR-XB950B1 Casque Bluetooth Noir'
 ---
 
 Está [Sony MDR-XB950B1 Casque Bluetooth Noir](https://www.amazon.fr/dp/B01MT7AJLW/?tag=tolees0d-21) con 40.03 de descuento por 119.89 EUR (original: 199.9 EUR) en el siguiente enlace!

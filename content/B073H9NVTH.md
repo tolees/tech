@@ -14,7 +14,7 @@ currency: EUR
 price: 6.15
 comparePrice: 9.66 EUR
 inStock: true
-prodname: Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 20 Pioneer
+prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 20 Pioneer'
 ---
 
 Tienes [Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 20 Pioneer](https://www.amazon.es/dp/B073H9NVTH/?tag=tolees-21) con un 36.34 % de descuento con precio de oferta de 6.15 EUR (original: 9.66 EUR) en el siguiente enlace!

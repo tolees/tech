@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: [VERSION ORIGINALE] - Xiaomi MI Band 4 bracelet tracker d activités Adulte Unisexe
+prodname: '[VERSION ORIGINALE] - Xiaomi MI Band 4 bracelet tracker d activités Adulte Unisexe'
 ---
 
 Tienes [[VERSION ORIGINALE] - Xiaomi MI Band 4 bracelet tracker d activités Adulte Unisexe](https://www.amazon.fr/dp/B07VZGF36S/?tag=tolees0d-21) con un 47.51 % de descuento con precio de oferta de 20.99 EUR (original: 39.99 EUR) en el siguiente enlace!

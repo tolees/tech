@@ -14,7 +14,7 @@ currency: GBP
 price: 56.99
 comparePrice: 82.2 GBP
 inStock: true
-prodname: ION Audio Vinyl Motion Air - Wireless Bluetooth Turntable / Vinyl Record Player with Built-In Speakers and Rechargeable Battery - Black
+prodname: 'ION Audio Vinyl Motion Air - Wireless Bluetooth Turntable / Vinyl Record Player with Built-In Speakers and Rechargeable Battery - Black'
 ---
 
 Ahora mismo tienes [ION Audio Vinyl Motion Air - Wireless Bluetooth Turntable / Vinyl Record Player with Built-In Speakers and Rechargeable Battery - Black](https://www.amazon.co.uk/dp/B01LXGNUBQ/?tag=tolees0a-21) a 56.99 GBP (original: 82.2 GBP) (30.67 %  de descuento) en el siguiente enlace!

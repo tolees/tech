@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Need for Speed: Heat Standard Edition | Xbox One - Download Code
+prodname: 'Need for Speed: Heat Standard Edition | Xbox One - Download Code'
 ---
 
 Ahora mismo tienes [Need for Speed: Heat Standard Edition | Xbox One - Download Code](https://www.amazon.de/dp/B07YWVVX2C/?tag=tolees0ca-21) a 20.99 EUR (original: 69.99 EUR) (70.01 %  de descuento) en el siguiente enlace!

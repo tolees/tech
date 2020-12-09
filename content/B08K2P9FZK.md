@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 19.98 EUR
 inStock: true
-prodname: Verre Trempé pour Samsung Galaxy S20  [2 Pièces] [3D Couverture Complète] [Dureté 9H] [Anti-Scratch] [sans Bulles] [Haut Définition] Film Protection d’Ecran pour Galaxy S20
+prodname: 'Verre Trempé pour Samsung Galaxy S20  [2 Pièces] [3D Couverture Complète] [Dureté 9H] [Anti-Scratch] [sans Bulles] [Haut Définition] Film Protection d’Ecran pour Galaxy S20'
 ---
 
 Ahora mismo tienes [Verre Trempé pour Samsung Galaxy S20  [2 Pièces] [3D Couverture Complète] [Dureté 9H] [Anti-Scratch] [sans Bulles] [Haut Définition] Film Protection d’Ecran pour Galaxy S20](https://www.amazon.fr/dp/B08K2P9FZK/?tag=tolees0d-21) a 10.98 EUR (original: 19.98 EUR) (45.05 %  de descuento) en el siguiente enlace!

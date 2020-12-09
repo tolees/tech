@@ -14,7 +14,7 @@ currency: USD
 price: 649.99
 comparePrice: 899.99 USD
 inStock: true
-prodname: Night Owl WNVR201-88P-B 8 Channel 1080p Wireless Smart Security Hub with 8 x 1080p Wireless Infrared IP Cameras and 1 TB HDD  White
+prodname: 'Night Owl WNVR201-88P-B 8 Channel 1080p Wireless Smart Security Hub with 8 x 1080p Wireless Infrared IP Cameras and 1 TB HDD  White'
 ---
 
 Ahora mismo tienes [Night Owl WNVR201-88P-B 8 Channel 1080p Wireless Smart Security Hub with 8 x 1080p Wireless Infrared IP Cameras and 1 TB HDD  White](https://www.amazon.com/dp/B071VW3NPY/?tag=tolees-20) a 649.99 USD (original: 899.99 USD) (27.78 %  de descuento) en el siguiente enlace!

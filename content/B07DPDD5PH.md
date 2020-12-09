@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero 
+prodname: 'Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero '
 ---
 
 Ahora mismo tienes [Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero ](https://www.amazon.es/dp/B07DPDD5PH/?tag=tolees-21) a 9.99 EUR (original: 22.99 EUR) (56.55 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 46.99
 comparePrice: 139.99 GBP
 inStock: true
-prodname: Drayton Wiser Smart Thermostat Heating Control Heating Only - Works with Amazon Alexa  Google Home and IFTTT
+prodname: 'Drayton Wiser Smart Thermostat Heating Control Heating Only - Works with Amazon Alexa  Google Home and IFTTT'
 ---
 
 Ahora mismo tienes [Drayton Wiser Smart Thermostat Heating Control Heating Only - Works with Amazon Alexa  Google Home and IFTTT](https://www.amazon.co.uk/dp/B075GS4WFK/?tag=tolees0a-21) a 46.99 GBP (original: 139.99 GBP) (66.43 %  de descuento) en el siguiente enlace!

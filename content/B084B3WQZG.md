@@ -14,7 +14,7 @@ currency: EUR
 price: 135.5
 comparePrice: 193.99 EUR
 inStock: true
-prodname: Ring Video Doorbell 3 von Amazon | HD-Video  1080p   verbesserte Bewegungserfassung | Mit 30-tägigem Testzeitraum für Ring Protect
+prodname: 'Ring Video Doorbell 3 von Amazon | HD-Video  1080p   verbesserte Bewegungserfassung | Mit 30-tägigem Testzeitraum für Ring Protect'
 ---
 
 Ahora mismo tienes [Ring Video Doorbell 3 von Amazon | HD-Video  1080p   verbesserte Bewegungserfassung | Mit 30-tägigem Testzeitraum für Ring Protect](https://www.amazon.de/dp/B084B3WQZG/?tag=tolees0ca-21) a 135.5 EUR (original: 193.99 EUR) (30.15 %  de descuento) en el siguiente enlace!

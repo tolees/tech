@@ -14,7 +14,7 @@ currency: EUR
 price: 64.6
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Casio CTK-240H7 - Teclado electrónico  49 teclas   color negro
+prodname: 'Casio CTK-240H7 - Teclado electrónico  49 teclas   color negro'
 ---
 
 Está [Casio CTK-240H7 - Teclado electrónico  49 teclas   color negro](https://www.amazon.es/dp/B003LSOH8E/?tag=tolees-21) con 45.71 de descuento por 64.6 EUR (original: 119.0 EUR) en el siguiente enlace!

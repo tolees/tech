@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: OPOLAR Soplador de Polvo Eléctrico  Plumero de Aire  Limpiador de Teclado Inalámbrico de Mano  Batería Recargable de 6000 mAh  Carga Rápida de 10W  para Computadora Portátil  Ordenador  Muebles  Sofá
+prodname: 'OPOLAR Soplador de Polvo Eléctrico  Plumero de Aire  Limpiador de Teclado Inalámbrico de Mano  Batería Recargable de 6000 mAh  Carga Rápida de 10W  para Computadora Portátil  Ordenador  Muebles  Sofá'
 ---
 
 Tienes [OPOLAR Soplador de Polvo Eléctrico  Plumero de Aire  Limpiador de Teclado Inalámbrico de Mano  Batería Recargable de 6000 mAh  Carga Rápida de 10W  para Computadora Portátil  Ordenador  Muebles  Sofá](https://www.amazon.es/dp/B07VRLQW82/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

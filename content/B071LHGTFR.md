@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 75 EUR
 inStock: true
-prodname: LESHP Teclado Mecánico Gaming con Disposición Española  retroiluminación LED de 6 colores  88 teclas  tiene ñ 
+prodname: 'LESHP Teclado Mecánico Gaming con Disposición Española  retroiluminación LED de 6 colores  88 teclas  tiene ñ '
 ---
 
 Está [LESHP Teclado Mecánico Gaming con Disposición Española  retroiluminación LED de 6 colores  88 teclas  tiene ñ ](https://www.amazon.es/dp/B071LHGTFR/?tag=tolees-21) con 60.01 de descuento por 29.99 EUR (original: 75 EUR) en el siguiente enlace!

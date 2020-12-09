@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Willful Smartwatch Reloj Inteligente con Pulsómetro Cronómetros Calorías Monitor de Sueño Podómetro Monitores de Actividad Impermeable IP68 Smartwatch Hombre Reloj Deportivo para Android iOS
+prodname: 'Willful Smartwatch Reloj Inteligente con Pulsómetro Cronómetros Calorías Monitor de Sueño Podómetro Monitores de Actividad Impermeable IP68 Smartwatch Hombre Reloj Deportivo para Android iOS'
 ---
 
 Tienes [Willful Smartwatch Reloj Inteligente con Pulsómetro Cronómetros Calorías Monitor de Sueño Podómetro Monitores de Actividad Impermeable IP68 Smartwatch Hombre Reloj Deportivo para Android iOS](https://www.amazon.es/dp/B081RZWLW1/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

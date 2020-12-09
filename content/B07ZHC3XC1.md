@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Filamento PLA 1 75 mm  Filamento PLA para impresora 3D  Filamento PLA 1 KG  2 2 lb  PLA Amarillo
+prodname: 'Filamento PLA 1 75 mm  Filamento PLA para impresora 3D  Filamento PLA 1 KG  2 2 lb  PLA Amarillo'
 ---
 
 Tienes [Filamento PLA 1 75 mm  Filamento PLA para impresora 3D  Filamento PLA 1 KG  2 2 lb  PLA Amarillo](https://www.amazon.es/dp/B07ZHC3XC1/?tag=tolees-21) con un 30.45 % de descuento con precio de oferta de 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

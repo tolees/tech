@@ -14,7 +14,7 @@ currency: GBP
 price: 7.99
 comparePrice: 12.99 GBP
 inStock: true
-prodname: Mpow Bluetooth 4.0 USB Dongle Adapter  Bluetooth Transmitter Receiver Supports Windows 10  8  7  Vista XP 32/64 Bit Laptop PC for Bluetooth Speaker  Headset  Keyboard  Mouse and More  Plug and Play
+prodname: 'Mpow Bluetooth 4.0 USB Dongle Adapter  Bluetooth Transmitter Receiver Supports Windows 10  8  7  Vista XP 32/64 Bit Laptop PC for Bluetooth Speaker  Headset  Keyboard  Mouse and More  Plug and Play'
 ---
 
 Ahora mismo tienes [Mpow Bluetooth 4.0 USB Dongle Adapter  Bluetooth Transmitter Receiver Supports Windows 10  8  7  Vista XP 32/64 Bit Laptop PC for Bluetooth Speaker  Headset  Keyboard  Mouse and More  Plug and Play](https://www.amazon.co.uk/dp/B06XPCVB4F/?tag=tolees0a-21) a 7.99 GBP (original: 12.99 GBP) (38.49 %  de descuento) en el siguiente enlace!

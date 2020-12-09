@@ -14,7 +14,7 @@ currency: EUR
 price: 49.0
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Libratone Q Adapt In-Ear Kopfhörer mit aktiver Geräuschunterdrückung in 4 Stufen  Lightning Anschluss für Apple iOS Geräte  ANC  stormy black
+prodname: 'Libratone Q Adapt In-Ear Kopfhörer mit aktiver Geräuschunterdrückung in 4 Stufen  Lightning Anschluss für Apple iOS Geräte  ANC  stormy black'
 ---
 
 Ahora mismo tienes [Libratone Q Adapt In-Ear Kopfhörer mit aktiver Geräuschunterdrückung in 4 Stufen  Lightning Anschluss für Apple iOS Geräte  ANC  stormy black](https://www.amazon.de/dp/B01LWKBK92/?tag=tolees0ca-21) a 49.0 EUR (original: 179.99 EUR) (72.78 %  de descuento) en el siguiente enlace!

@@ -14,15 +14,13 @@ currency: EUR
 price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Gamory Controller für Nintendo Switch Joy-Con 2er-Set Bluetooth Kabelloser Wireless Switch Controller Gamepad Turbo Programmierbare Steuerungen Dual Vibration Joypad Kompatible mit Switch & Lite
+prodname: 'Gamory Controller für Nintendo Switch Joy-Con 2er-Set Bluetooth Kabelloser Wireless Switch Controller Gamepad Turbo Programmierbare Steuerungen Dual Vibration Joypad Kompatible mit Switch & Lite'
 ---
 
-Está [Gamory Controller für Nintendo Switch Joy-Con 2er-Set Bluetooth Kabelloser Wireless Switch Controller Gamepad Turbo Programmierbare Steuerungen Dual Vibration Joypad Kompatible mit Switch & Lite](https://www.amazon.de/dp/B08DFPHLST/?tag=tolees0ca-21) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gamory Controller für Nintendo Switch Joy-Con 2er-Set Bluetooth Kabelloser Wireless Switch Controller Gamepad Turbo Programmierbare Steuerungen Dual Vibration Joypad Kompatible mit Switch & Lite](https://www.amazon.de/dp/B08DFPHLST/?tag=tolees0ca-21) a 35.99 EUR (original: 49.99 EUR) (28.01 %  de descuento) en el siguiente enlace!
 
 [![Gamory Controller für Nintendo Switch Jo](https://m.media-amazon.com/images/I/41CnhFhYVgL._SL200_.jpg)](https://www.amazon.de/dp/B08DFPHLST/?tag=tolees0ca-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B08DFPHLST/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B08DFPHLST/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

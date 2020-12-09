@@ -14,7 +14,7 @@ currency: GBP
 price: 159.99
 comparePrice: 219.99 GBP
 inStock: true
-prodname: MSI MPG X570 GAMING EDGE WIFI Motherboard ATX  AM4  DDR4  LAN and 802.11AC WIFI  USB 3.2 Gen2  Type-C  M.2  RGB Mystic Light  HDMI  AMD RYZEN 2nd and 3rd Gen
+prodname: 'MSI MPG X570 GAMING EDGE WIFI Motherboard ATX  AM4  DDR4  LAN and 802.11AC WIFI  USB 3.2 Gen2  Type-C  M.2  RGB Mystic Light  HDMI  AMD RYZEN 2nd and 3rd Gen'
 ---
 
 Ahora mismo tienes [MSI MPG X570 GAMING EDGE WIFI Motherboard ATX  AM4  DDR4  LAN and 802.11AC WIFI  USB 3.2 Gen2  Type-C  M.2  RGB Mystic Light  HDMI  AMD RYZEN 2nd and 3rd Gen](https://www.amazon.co.uk/dp/B07T8HJVY8/?tag=tolees0a-21) a 159.99 GBP (original: 219.99 GBP) (27.27 %  de descuento) en el siguiente enlace!

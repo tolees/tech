@@ -14,7 +14,7 @@ currency: EUR
 price: 40.5
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Libratone OneClick - Altavoz con Bluetooth y función SoundSpaces  color rojo
+prodname: 'Libratone OneClick - Altavoz con Bluetooth y función SoundSpaces  color rojo'
 ---
 
 Ahora mismo tienes [Libratone OneClick - Altavoz con Bluetooth y función SoundSpaces  color rojo](https://www.amazon.es/dp/B01INSCG98/?tag=tolees-21) a 40.5 EUR (original: 119.0 EUR) (65.97 %  de descuento) en el siguiente enlace!

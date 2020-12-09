@@ -14,7 +14,7 @@ currency: EUR
 price: 12.98
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Auricular Bluetooth TIMMY Estilo Gancho Cascos Solo Auriculares Wireless con Micrófono Diseño de Iones Negativos para Coche Oficina  Negro
+prodname: 'Auricular Bluetooth TIMMY Estilo Gancho Cascos Solo Auriculares Wireless con Micrófono Diseño de Iones Negativos para Coche Oficina  Negro'
 ---
 
 Tienes [Auricular Bluetooth TIMMY Estilo Gancho Cascos Solo Auriculares Wireless con Micrófono Diseño de Iones Negativos para Coche Oficina  Negro](https://www.amazon.es/dp/B07KLTP8V2/?tag=tolees-21) con un 56.72 % de descuento con precio de oferta de 12.98 EUR (original: 29.99 EUR) en el siguiente enlace!

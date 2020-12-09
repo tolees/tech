@@ -14,7 +14,7 @@ currency: EUR
 price: 10.48
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Gigaset DA210 - Télefono Fijo con Cable  Color Rojo
+prodname: 'Gigaset DA210 - Télefono Fijo con Cable  Color Rojo'
 ---
 
 Tienes [Gigaset DA210 - Télefono Fijo con Cable  Color Rojo](https://www.amazon.es/dp/B00CSKD9HG/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 10.48 EUR (original: 14.99 EUR) en el siguiente enlace!

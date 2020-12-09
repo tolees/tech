@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Samsung EVO+ - Tarjeta de Memoria microSD de 64 GB
+prodname: 'Samsung EVO+ - Tarjeta de Memoria microSD de 64 GB'
 ---
 
 Tienes [Samsung EVO+ - Tarjeta de Memoria microSD de 64 GB](https://www.amazon.es/dp/B00WIMC5IS/?tag=tolees-21) con un 47.16 % de descuento con precio de oferta de 18.49 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.0
 comparePrice: 33.95 EUR
 inStock: true
-prodname: Nuxgal Esterilizador UV Caja Desinfectante de Móvil Inteligente Esterilizador Esterilización portátil Desinfectante Caja limpiadora de teléfono para Gafas  Relojes  Joyas  Llaves Regalo
+prodname: 'Nuxgal Esterilizador UV Caja Desinfectante de Móvil Inteligente Esterilizador Esterilización portátil Desinfectante Caja limpiadora de teléfono para Gafas  Relojes  Joyas  Llaves Regalo'
 ---
 
 Tienes [Nuxgal Esterilizador UV Caja Desinfectante de Móvil Inteligente Esterilizador Esterilización portátil Desinfectante Caja limpiadora de teléfono para Gafas  Relojes  Joyas  Llaves Regalo](https://www.amazon.es/dp/B088M9PLRB/?tag=tolees-21) con un 49.93 % de descuento con precio de oferta de 17.0 EUR (original: 33.95 EUR) en el siguiente enlace!

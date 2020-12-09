@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 120.28 EUR
 inStock: true
-prodname: Disque Dur Externe 2to  USB3.1 Type-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 2To Bleu 
+prodname: 'Disque Dur Externe 2to  USB3.1 Type-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 2To Bleu '
 ---
 
 Está [Disque Dur Externe 2to  USB3.1 Type-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 2To Bleu ](https://www.amazon.fr/dp/B08JV24KNY/?tag=tolees0d-21) con 46.80 de descuento por 63.99 EUR (original: 120.28 EUR) en el siguiente enlace!

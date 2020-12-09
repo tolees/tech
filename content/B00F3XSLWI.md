@@ -14,7 +14,7 @@ currency: EUR
 price: 119.99
 comparePrice: 188.99 EUR
 inStock: true
-prodname: NETGEAR  JGS516PE   Smart Switch Ethernet PoE 16 Ports RJ45 Métal Gigabit  10/100/1000   Web Manageable PoE  Format Bureau ou Rackable - 8 Ports PoE 85 W - Protection à Vie ProSafe - Garantie à vie
+prodname: 'NETGEAR  JGS516PE   Smart Switch Ethernet PoE 16 Ports RJ45 Métal Gigabit  10/100/1000   Web Manageable PoE  Format Bureau ou Rackable - 8 Ports PoE 85 W - Protection à Vie ProSafe - Garantie à vie'
 ---
 
 Está [NETGEAR  JGS516PE   Smart Switch Ethernet PoE 16 Ports RJ45 Métal Gigabit  10/100/1000   Web Manageable PoE  Format Bureau ou Rackable - 8 Ports PoE 85 W - Protection à Vie ProSafe - Garantie à vie](https://www.amazon.fr/dp/B00F3XSLWI/?tag=tolees0d-21) con 36.51 de descuento por 119.99 EUR (original: 188.99 EUR) en el siguiente enlace!

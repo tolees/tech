@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: ORNARTO Coque Samsung S20 FE  Clair Protecteur Housse Anti-Choc Anti-Scratch Bumper Silicone Cover Cases Bumper pour Samsung Galaxy S20 FE 2020  6 5" Transparente
+prodname: 'ORNARTO Coque Samsung S20 FE  Clair Protecteur Housse Anti-Choc Anti-Scratch Bumper Silicone Cover Cases Bumper pour Samsung Galaxy S20 FE 2020  6 5" Transparente'
 ---
 
 Tienes [ORNARTO Coque Samsung S20 FE  Clair Protecteur Housse Anti-Choc Anti-Scratch Bumper Silicone Cover Cases Bumper pour Samsung Galaxy S20 FE 2020  6 5" Transparente](https://www.amazon.fr/dp/B08JCJNCYN/?tag=tolees0d-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

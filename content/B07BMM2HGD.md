@@ -14,7 +14,7 @@ currency: USD
 price: 459.99
 comparePrice: 799.99 USD
 inStock: true
-prodname: WD 2TB My Passport Wireless SSD External Portable Drive  WiFi USB 3.0  Up to 390 MB/s - WDBAMJ0020BGY-NESN
+prodname: 'WD 2TB My Passport Wireless SSD External Portable Drive  WiFi USB 3.0  Up to 390 MB/s - WDBAMJ0020BGY-NESN'
 ---
 
 Ahora mismo tienes [WD 2TB My Passport Wireless SSD External Portable Drive  WiFi USB 3.0  Up to 390 MB/s - WDBAMJ0020BGY-NESN](https://www.amazon.com/dp/B07BMM2HGD/?tag=tolees-20) a 459.99 USD (original: 799.99 USD) (42.50 %  de descuento) en el siguiente enlace!

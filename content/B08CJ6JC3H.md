@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Nba 2K21 Standard Plus Edition - Esclusiva Amazon - PlayStation 4
+prodname: 'Nba 2K21 Standard Plus Edition - Esclusiva Amazon - PlayStation 4'
 ---
 
 Tienes [Nba 2K21 Standard Plus Edition - Esclusiva Amazon - PlayStation 4](https://www.amazon.it/dp/B08CJ6JC3H/?tag=tolees00-21) con un 50.71 % de descuento con precio de oferta de 34.99 EUR (original: 70.99 EUR) en el siguiente enlace!

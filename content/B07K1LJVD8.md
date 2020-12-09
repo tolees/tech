@@ -14,7 +14,7 @@ currency: EUR
 price: 73.89
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Belkin base de carga PowerHouse para Apple Watch + iPhone  estación dock de carga para iPhone 12  12 Pro  12 Pro Max  12 mini y modelos anteriores además de Apple Watch Series SE  6  5  4  3  negro
+prodname: 'Belkin base de carga PowerHouse para Apple Watch + iPhone  estación dock de carga para iPhone 12  12 Pro  12 Pro Max  12 mini y modelos anteriores además de Apple Watch Series SE  6  5  4  3  negro'
 ---
 
 Tienes [Belkin base de carga PowerHouse para Apple Watch + iPhone  estación dock de carga para iPhone 12  12 Pro  12 Pro Max  12 mini y modelos anteriores además de Apple Watch Series SE  6  5  4  3  negro](https://www.amazon.es/dp/B07K1LJVD8/?tag=tolees-21) con un 26.10 % de descuento con precio de oferta de 73.89 EUR (original: 99.99 EUR) en el siguiente enlace!

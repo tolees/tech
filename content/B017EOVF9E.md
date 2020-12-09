@@ -14,7 +14,7 @@ currency: EUR
 price: 247.74
 comparePrice: 450 EUR
 inStock: true
-prodname: Huawei Elite - Smartwatch  Pantalla 1.4"  512 MB RAM  Correa marrón  Color Dorado
+prodname: 'Huawei Elite - Smartwatch  Pantalla 1.4"  512 MB RAM  Correa marrón  Color Dorado'
 ---
 
 Ahora mismo tienes [Huawei Elite - Smartwatch  Pantalla 1.4"  512 MB RAM  Correa marrón  Color Dorado](https://www.amazon.es/dp/B017EOVF9E/?tag=tolees-21) a 247.74 EUR (original: 450 EUR) (44.95 %  de descuento) en el siguiente enlace!

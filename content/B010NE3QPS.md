@@ -14,7 +14,7 @@ currency: GBP
 price: 14.15
 comparePrice: 20.41 GBP
 inStock: true
-prodname: SanDisk Ultra 64 GB microSDXC Class 10 Memory Card up to 48 Mbps - White/Grey
+prodname: 'SanDisk Ultra 64 GB microSDXC Class 10 Memory Card up to 48 Mbps - White/Grey'
 ---
 
 Ahora mismo tienes [SanDisk Ultra 64 GB microSDXC Class 10 Memory Card up to 48 Mbps - White/Grey](https://www.amazon.co.uk/dp/B010NE3QPS/?tag=tolees0a-21) a 14.15 GBP (original: 20.41 GBP) (30.67 %  de descuento) en el siguiente enlace!

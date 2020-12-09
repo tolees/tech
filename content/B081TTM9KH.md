@@ -14,7 +14,7 @@ currency: EUR
 price: 12.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Blair Witch - Xbox One
+prodname: 'Blair Witch - Xbox One'
 ---
 
 Está [Blair Witch - Xbox One](https://www.amazon.es/dp/B081TTM9KH/?tag=tolees-21) con 56.99 de descuento por 12.9 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.04
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Maxesla WiFi Adaptador AC 1200Mbps USB WiFi Receptor Dual Band 2.4G/5GHz  WiFi Antena para PC Desktop Laptop Tablet  Soporta Windows XP/Vista/7/8/10  Mac OS X  WiFi USB 5dBi 
+prodname: 'Maxesla WiFi Adaptador AC 1200Mbps USB WiFi Receptor Dual Band 2.4G/5GHz  WiFi Antena para PC Desktop Laptop Tablet  Soporta Windows XP/Vista/7/8/10  Mac OS X  WiFi USB 5dBi '
 ---
 
 Ahora mismo tienes [Maxesla WiFi Adaptador AC 1200Mbps USB WiFi Receptor Dual Band 2.4G/5GHz  WiFi Antena para PC Desktop Laptop Tablet  Soporta Windows XP/Vista/7/8/10  Mac OS X  WiFi USB 5dBi ](https://www.amazon.es/dp/B07PMS4BFC/?tag=tolees-21) a 11.04 EUR (original: 14.99 EUR) (26.35 %  de descuento) en el siguiente enlace!

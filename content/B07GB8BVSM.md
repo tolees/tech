@@ -14,7 +14,7 @@ currency: GBP
 price: 159.0
 comparePrice: 235.6 GBP
 inStock: true
-prodname: Samsung Galaxy Watch Bluetooth Watch 42 mm - Rose Gold  UK Version 
+prodname: 'Samsung Galaxy Watch Bluetooth Watch 42 mm - Rose Gold  UK Version '
 ---
 
 Está [Samsung Galaxy Watch Bluetooth Watch 42 mm - Rose Gold  UK Version ](https://www.amazon.co.uk/dp/B07GB8BVSM/?tag=tolees0a-21) con 32.51 de descuento por 159.0 GBP (original: 235.6 GBP) en el siguiente enlace!

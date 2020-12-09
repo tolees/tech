@@ -14,7 +14,7 @@ currency: EUR
 price: 179.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Ring Video Doorbell Pro con cableado  incluye un Chime  1.ª generación   resolución HD 1080p  comunicación bidireccional  wifi  detección de movimiento | Prueba de 30 días gratis del plan Ring Protect
+prodname: 'Ring Video Doorbell Pro con cableado  incluye un Chime  1.ª generación   resolución HD 1080p  comunicación bidireccional  wifi  detección de movimiento | Prueba de 30 días gratis del plan Ring Protect'
 ---
 
 Tienes [Ring Video Doorbell Pro con cableado  incluye un Chime  1.ª generación   resolución HD 1080p  comunicación bidireccional  wifi  detección de movimiento | Prueba de 30 días gratis del plan Ring Protect](https://www.amazon.es/dp/B072KLVTQP/?tag=tolees-21) con un 35.84 % de descuento con precio de oferta de 179.0 EUR (original: 279.0 EUR) en el siguiente enlace!

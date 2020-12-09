@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Grid Day one edition Edition - PlayStation 4
+prodname: 'Grid Day one edition Edition - PlayStation 4'
 ---
 
 Ahora mismo tienes [Grid Day one edition Edition - PlayStation 4](https://www.amazon.it/dp/B07RYW4C4X/?tag=tolees00-21) a 19.99 EUR (original: 28.99 EUR) (31.05 %  de descuento) en el siguiente enlace!

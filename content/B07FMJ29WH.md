@@ -14,7 +14,7 @@ currency: USD
 price: 19.99
 comparePrice: 39.99 USD
 inStock: true
-prodname: Jabra Talk 25 Bluetooth Headset for High Definition Hands-Free Calls with Clear Conversations and Streaming Multimedia
+prodname: 'Jabra Talk 25 Bluetooth Headset for High Definition Hands-Free Calls with Clear Conversations and Streaming Multimedia'
 ---
 
 Ahora mismo tienes [Jabra Talk 25 Bluetooth Headset for High Definition Hands-Free Calls with Clear Conversations and Streaming Multimedia](https://www.amazon.com/dp/B07FMJ29WH/?tag=tolees-20) a 19.99 USD (original: 39.99 USD) (50.01 %  de descuento) en el siguiente enlace!

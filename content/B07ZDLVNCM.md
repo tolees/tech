@@ -14,7 +14,7 @@ currency: EUR
 price: 199.9
 comparePrice: 279.9 EUR
 inStock: true
-prodname: Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage  Double Nano-SIM  Blanc Nacré - Version Française - [Exclusivité Amazon]
+prodname: 'Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage  Double Nano-SIM  Blanc Nacré - Version Française - [Exclusivité Amazon]'
 ---
 
 Tienes [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage  Double Nano-SIM  Blanc Nacré - Version Française - [Exclusivité Amazon]](https://www.amazon.fr/dp/B07ZDLVNCM/?tag=tolees0d-21) con un 28.58 % de descuento con precio de oferta de 199.9 EUR (original: 279.9 EUR) en el siguiente enlace!

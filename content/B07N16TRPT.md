@@ -14,7 +14,7 @@ currency: EUR
 price: 134.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Razer Raiju Ultimate - Manette de Jeu PS4/PC Bluetooth Sans Fil et Filaire avec Boutons d Action Mecha-Tactile  Composants Interchangeables  Panneau de Contrôle Rapide et Éclairage Chroma RGB
+prodname: 'Razer Raiju Ultimate - Manette de Jeu PS4/PC Bluetooth Sans Fil et Filaire avec Boutons d Action Mecha-Tactile  Composants Interchangeables  Panneau de Contrôle Rapide et Éclairage Chroma RGB'
 ---
 
 Tienes [Razer Raiju Ultimate - Manette de Jeu PS4/PC Bluetooth Sans Fil et Filaire avec Boutons d Action Mecha-Tactile  Composants Interchangeables  Panneau de Contrôle Rapide et Éclairage Chroma RGB](https://www.amazon.fr/dp/B07N16TRPT/?tag=tolees0d-21) con un 32.50 % de descuento con precio de oferta de 134.99 EUR (original: 199.99 EUR) en el siguiente enlace!

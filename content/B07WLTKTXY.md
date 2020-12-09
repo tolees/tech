@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color malva
+prodname: 'Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color malva'
 ---
 
 Tienes [Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color malva](https://www.amazon.es/dp/B07WLTKTXY/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Fresh  n Rebel Headphones Clam Ice Grey  Over-Ear Auriculares Bluetooth
+prodname: 'Fresh  n Rebel Headphones Clam Ice Grey  Over-Ear Auriculares Bluetooth'
 ---
 
 Ahora mismo tienes [Fresh  n Rebel Headphones Clam Ice Grey  Over-Ear Auriculares Bluetooth](https://www.amazon.es/dp/B07HXJN8TK/?tag=tolees-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

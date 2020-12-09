@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 80.99 EUR
 inStock: true
-prodname: Echo Show 5 Reconditionné Certifié  Écran connecté compact avec Alexa  Noir
+prodname: 'Echo Show 5 Reconditionné Certifié  Écran connecté compact avec Alexa  Noir'
 ---
 
 Está [Echo Show 5 Reconditionné Certifié  Écran connecté compact avec Alexa  Noir](https://www.amazon.fr/dp/B07NJPXFKR/?tag=tolees0d-21) con 39.51 de descuento por 48.99 EUR (original: 80.99 EUR) en el siguiente enlace!

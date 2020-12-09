@@ -14,7 +14,7 @@ currency: USD
 price: 39.95
 comparePrice: 69.95 USD
 inStock: true
-prodname: JBL CLIP 3 - Waterproof Portable Bluetooth Speaker - Black
+prodname: 'JBL CLIP 3 - Waterproof Portable Bluetooth Speaker - Black'
 ---
 
 Ahora mismo tienes [JBL CLIP 3 - Waterproof Portable Bluetooth Speaker - Black](https://www.amazon.com/dp/B07Q6ZWMLR/?tag=tolees-20) a 39.95 USD (original: 69.95 USD) (42.89 %  de descuento) en el siguiente enlace!

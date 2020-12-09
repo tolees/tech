@@ -14,7 +14,7 @@ currency: USD
 price: 44.99
 comparePrice: 99.99 USD
 inStock: true
-prodname: RangeXTD WiFi Extender 2-Antenna System Single-Push WPS Button Up to 300mbps Speed Increase WiFi Range Extender
+prodname: 'RangeXTD WiFi Extender 2-Antenna System Single-Push WPS Button Up to 300mbps Speed Increase WiFi Range Extender'
 ---
 
 Está [RangeXTD WiFi Extender 2-Antenna System Single-Push WPS Button Up to 300mbps Speed Increase WiFi Range Extender](https://www.amazon.com/dp/B08BTB2CXH/?tag=tolees-20) con 55.01 de descuento por 44.99 USD (original: 99.99 USD) en el siguiente enlace!

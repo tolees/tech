@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Telefono Movil Libre  DOOGEE S58 Pro Android 10 Smartphone 4G con Cámara Triples 16MP+Cámara Frontal 16MP  6GB+64GB-SD 256GB  Batería 5180mAh  5.7 Pulgada IP68/IP69K Móvil Resistente  NFC/GPS  Verde
+prodname: 'Telefono Movil Libre  DOOGEE S58 Pro Android 10 Smartphone 4G con Cámara Triples 16MP+Cámara Frontal 16MP  6GB+64GB-SD 256GB  Batería 5180mAh  5.7 Pulgada IP68/IP69K Móvil Resistente  NFC/GPS  Verde'
 ---
 
 Ahora mismo tienes [Telefono Movil Libre  DOOGEE S58 Pro Android 10 Smartphone 4G con Cámara Triples 16MP+Cámara Frontal 16MP  6GB+64GB-SD 256GB  Batería 5180mAh  5.7 Pulgada IP68/IP69K Móvil Resistente  NFC/GPS  Verde](https://www.amazon.es/dp/B08DHRYRMR/?tag=tolees-21) a 199.99 EUR (original: 299.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.51
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Kit 6 en 1 de Accesorios para Nintendo Switch Lite - Incluye Funda de Transporte para Nintendo Switch Lite  Funda Transparente  Protectores de Pantalla  Soporte Ajustable y Tapas de Joystick
+prodname: 'Kit 6 en 1 de Accesorios para Nintendo Switch Lite - Incluye Funda de Transporte para Nintendo Switch Lite  Funda Transparente  Protectores de Pantalla  Soporte Ajustable y Tapas de Joystick'
 ---
 
 Tienes [Kit 6 en 1 de Accesorios para Nintendo Switch Lite - Incluye Funda de Transporte para Nintendo Switch Lite  Funda Transparente  Protectores de Pantalla  Soporte Ajustable y Tapas de Joystick](https://www.amazon.es/dp/B07WS6QHYD/?tag=tolees-21) con un 36.02 % de descuento con precio de oferta de 11.51 EUR (original: 17.99 EUR) en el siguiente enlace!

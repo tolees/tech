@@ -14,7 +14,7 @@ currency: EUR
 price: 911.1
 comparePrice: 1500.0 EUR
 inStock: true
-prodname: Sony SEL1635Z - Objetivo para Sony/Minolta  Distancia Focal 16-35mm  Apertura f/4-22  Zoom óptico 0.19x estabilizador óptico  diámetro: 72mm  Negro
+prodname: 'Sony SEL1635Z - Objetivo para Sony/Minolta  Distancia Focal 16-35mm  Apertura f/4-22  Zoom óptico 0.19x estabilizador óptico  diámetro: 72mm  Negro'
 ---
 
 Tienes [Sony SEL1635Z - Objetivo para Sony/Minolta  Distancia Focal 16-35mm  Apertura f/4-22  Zoom óptico 0.19x estabilizador óptico  diámetro: 72mm  Negro](https://www.amazon.es/dp/B00NVA7J1Y/?tag=tolees-21) con un 39.26 % de descuento con precio de oferta de 911.1 EUR (original: 1500.0 EUR) en el siguiente enlace!

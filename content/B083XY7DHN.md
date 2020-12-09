@@ -14,7 +14,7 @@ currency: EUR
 price: 49.94
 comparePrice: 77.0 EUR
 inStock: true
-prodname: PRIXTON Aloha - Altavoz Bluetooth portatil Divisible en 2 Altavoces Independientes  Reproducción Bluetooth 4.2 y USB  Función Manos Libres  Resistente a Salpicaduras de Agua  Negro
+prodname: 'PRIXTON Aloha - Altavoz Bluetooth portatil Divisible en 2 Altavoces Independientes  Reproducción Bluetooth 4.2 y USB  Función Manos Libres  Resistente a Salpicaduras de Agua  Negro'
 ---
 
 Ahora mismo tienes [PRIXTON Aloha - Altavoz Bluetooth portatil Divisible en 2 Altavoces Independientes  Reproducción Bluetooth 4.2 y USB  Función Manos Libres  Resistente a Salpicaduras de Agua  Negro](https://www.amazon.es/dp/B083XY7DHN/?tag=tolees-21) a 49.94 EUR (original: 77.0 EUR) (35.14 %  de descuento) en el siguiente enlace!

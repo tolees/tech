@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 114.01 EUR
 inStock: true
-prodname: Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Noir 
+prodname: 'Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Noir '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Noir ](https://www.amazon.fr/dp/B08NV4GBN7/?tag=tolees0d-21) a 47.99 EUR (original: 114.01 EUR) (57.91 %  de descuento) en el siguiente enlace!

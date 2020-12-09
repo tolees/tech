@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Auriculares inalámbricos in Ear Skullcandy Indy True con micrófono Bluetooth  Resistencia al Sudor  el Agua y al Polvo IP55  batería de 16 Horas de duración - Azul
+prodname: 'Auriculares inalámbricos in Ear Skullcandy Indy True con micrófono Bluetooth  Resistencia al Sudor  el Agua y al Polvo IP55  batería de 16 Horas de duración - Azul'
 ---
 
 Tienes [Auriculares inalámbricos in Ear Skullcandy Indy True con micrófono Bluetooth  Resistencia al Sudor  el Agua y al Polvo IP55  batería de 16 Horas de duración - Azul](https://www.amazon.es/dp/B07RW2HJGQ/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

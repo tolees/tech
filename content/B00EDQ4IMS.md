@@ -14,7 +14,7 @@ currency: EUR
 price: 12.21
 comparePrice: 29.23 EUR
 inStock: true
-prodname: Gigaset A415 Schnurloses Telefon ohne Anrufbeantworter  DECT Telefon  mit Freisprechfunktion  Grafik Display und leichter Bedienung  schwarz
+prodname: 'Gigaset A415 Schnurloses Telefon ohne Anrufbeantworter  DECT Telefon  mit Freisprechfunktion  Grafik Display und leichter Bedienung  schwarz'
 ---
 
 Ahora mismo tienes [Gigaset A415 Schnurloses Telefon ohne Anrufbeantworter  DECT Telefon  mit Freisprechfunktion  Grafik Display und leichter Bedienung  schwarz](https://www.amazon.de/dp/B00EDQ4IMS/?tag=tolees0ca-21) a 12.21 EUR (original: 29.23 EUR) (58.23 %  de descuento) en el siguiente enlace!

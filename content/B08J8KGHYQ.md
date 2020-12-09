@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Hellpoint Signature Nintendo
+prodname: 'Hellpoint Signature Nintendo'
 ---
 
 Tienes [Hellpoint Signature Nintendo](https://www.amazon.es/dp/B08J8KGHYQ/?tag=tolees-21) con un 50.19 % de descuento con precio de oferta de 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!

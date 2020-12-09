@@ -14,7 +14,7 @@ currency: EUR
 price: 249.9
 comparePrice: 349.99 EUR
 inStock: true
-prodname: realme 6 PRO Smartphone  PRO QUAD Camera Posteriore da 64 MP  2 Fotocamere Selfie Integrate nel Display  Processore Octa-Core da 8nm  8/128 GB  Rosso  Lightning Red 
+prodname: 'realme 6 PRO Smartphone  PRO QUAD Camera Posteriore da 64 MP  2 Fotocamere Selfie Integrate nel Display  Processore Octa-Core da 8nm  8/128 GB  Rosso  Lightning Red '
 ---
 
 Ahora mismo tienes [realme 6 PRO Smartphone  PRO QUAD Camera Posteriore da 64 MP  2 Fotocamere Selfie Integrate nel Display  Processore Octa-Core da 8nm  8/128 GB  Rosso  Lightning Red ](https://www.amazon.it/dp/B085FTCTDC/?tag=tolees00-21) a 249.9 EUR (original: 349.99 EUR) (28.60 %  de descuento) en el siguiente enlace!

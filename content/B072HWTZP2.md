@@ -14,7 +14,7 @@ currency: EUR
 price: 48.66
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Billow Technology XS600PROB - Cámara de acción de 16 MP  4K  1080p  Color Negro
+prodname: 'Billow Technology XS600PROB - Cámara de acción de 16 MP  4K  1080p  Color Negro'
 ---
 
 Tienes [Billow Technology XS600PROB - Cámara de acción de 16 MP  4K  1080p  Color Negro](https://www.amazon.es/dp/B072HWTZP2/?tag=tolees-21) con un 51.29 % de descuento con precio de oferta de 48.66 EUR (original: 99.9 EUR) en el siguiente enlace!

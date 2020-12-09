@@ -14,7 +14,7 @@ currency: GBP
 price: 54.99
 comparePrice: 99.99 GBP
 inStock: true
-prodname: Fire 7 Kids Edition Tablet | 7" Display  16 GB  Blue Kid-Proof Case
+prodname: 'Fire 7 Kids Edition Tablet | 7" Display  16 GB  Blue Kid-Proof Case'
 ---
 
 Tienes [Fire 7 Kids Edition Tablet | 7" Display  16 GB  Blue Kid-Proof Case](https://www.amazon.co.uk/dp/B07H8XTGFN/?tag=tolees0a-21) con un 45.00 % de descuento con precio de oferta de 54.99 GBP (original: 99.99 GBP) en el siguiente enlace!

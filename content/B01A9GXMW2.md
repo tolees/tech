@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Logitech M170 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Gris
+prodname: 'Logitech M170 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Gris'
 ---
 
 Ahora mismo tienes [Logitech M170 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Gris](https://www.amazon.es/dp/B01A9GXMW2/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

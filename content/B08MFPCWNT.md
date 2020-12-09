@@ -14,7 +14,7 @@ currency: EUR
 price: 1.19
 comparePrice: 1.79 EUR
 inStock: true
-prodname: XUQI USB Tipo C a 3 5 mm Adaptador de Conector Auxiliar de Audio USB C Macho a 3 5 mm Extensión Macho Cable Adaptador de Cable estéreo de Audio para Auriculares - Azul
+prodname: 'XUQI USB Tipo C a 3 5 mm Adaptador de Conector Auxiliar de Audio USB C Macho a 3 5 mm Extensión Macho Cable Adaptador de Cable estéreo de Audio para Auriculares - Azul'
 ---
 
 Ahora mismo tienes [XUQI USB Tipo C a 3 5 mm Adaptador de Conector Auxiliar de Audio USB C Macho a 3 5 mm Extensión Macho Cable Adaptador de Cable estéreo de Audio para Auriculares - Azul](https://www.amazon.es/dp/B08MFPCWNT/?tag=tolees-21) a 1.19 EUR (original: 1.79 EUR) (33.52 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 154.98 EUR
 inStock: true
-prodname: Echo Show 8  Tela de color gris claro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa
+prodname: 'Echo Show 8  Tela de color gris claro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa'
 ---
 
 Está [Echo Show 8  Tela de color gris claro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa](https://www.amazon.es/dp/B08D1JBSXG/?tag=tolees-21) con 51.61 de descuento por 74.99 EUR (original: 154.98 EUR) en el siguiente enlace!

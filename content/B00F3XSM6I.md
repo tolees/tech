@@ -14,7 +14,7 @@ currency: GBP
 price: 194.46
 comparePrice: 275.99 GBP
 inStock: true
-prodname: NETGEAR 24-Port Gigabit Ethernet Smart Managed Plus PoE Network Switch  Hub  Internet Splitter  JGS524PE  - with 12 x PoE @ 100W  Desktop/Rackmount  and ProSAFE Lifetime Protection  Black
+prodname: 'NETGEAR 24-Port Gigabit Ethernet Smart Managed Plus PoE Network Switch  Hub  Internet Splitter  JGS524PE  - with 12 x PoE @ 100W  Desktop/Rackmount  and ProSAFE Lifetime Protection  Black'
 ---
 
 Tienes [NETGEAR 24-Port Gigabit Ethernet Smart Managed Plus PoE Network Switch  Hub  Internet Splitter  JGS524PE  - with 12 x PoE @ 100W  Desktop/Rackmount  and ProSAFE Lifetime Protection  Black](https://www.amazon.co.uk/dp/B00F3XSM6I/?tag=tolees0a-21) con un 29.54 % de descuento con precio de oferta de 194.46 GBP (original: 275.99 GBP) en el siguiente enlace!

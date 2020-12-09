@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Or 
+prodname: 'Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Or '
 ---
 
 Tienes [Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Or ](https://www.amazon.fr/dp/B08JXK8HF1/?tag=tolees0d-21) con un 28.89 % de descuento con precio de oferta de 63.99 EUR (original: 89.99 EUR) en el siguiente enlace!

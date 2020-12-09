@@ -14,7 +14,7 @@ currency: EUR
 price: 23.58
 comparePrice: 46.22 EUR
 inStock: true
-prodname: Case Logic LAPS114K - Funda para Ordenador portátil
+prodname: 'Case Logic LAPS114K - Funda para Ordenador portátil'
 ---
 
 Está [Case Logic LAPS114K - Funda para Ordenador portátil](https://www.amazon.es/dp/B004NY9UWI/?tag=tolees-21) con 48.98 de descuento por 23.58 EUR (original: 46.22 EUR) en el siguiente enlace!

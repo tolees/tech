@@ -14,7 +14,7 @@ currency: USD
 price: 84.99
 comparePrice: 129.99 USD
 inStock: true
-prodname: Kindle Paperwhite – Now Waterproof with 2x the Storage – Ad-Supported
+prodname: 'Kindle Paperwhite – Now Waterproof with 2x the Storage – Ad-Supported'
 ---
 
 Está [Kindle Paperwhite – Now Waterproof with 2x the Storage – Ad-Supported](https://www.amazon.com/dp/B07CXG6C9W/?tag=tolees-20) con 34.62 de descuento por 84.99 USD (original: 129.99 USD) en el siguiente enlace!

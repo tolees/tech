@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 39.9 EUR
 inStock: true
-prodname: OPPO - Altavoz Bluetooth 5.0 |8 horas de reproducción |Bluetooth 5.0 | Batería 750 mAh | Marrón
+prodname: 'OPPO - Altavoz Bluetooth 5.0 |8 horas de reproducción |Bluetooth 5.0 | Batería 750 mAh | Marrón'
 ---
 
 Está [OPPO - Altavoz Bluetooth 5.0 |8 horas de reproducción |Bluetooth 5.0 | Batería 750 mAh | Marrón](https://www.amazon.es/dp/B08GX12QJX/?tag=tolees-21) con 50.13 de descuento por 19.9 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 94.98
 comparePrice: 139.0 GBP
 inStock: true
-prodname: Samsung Galaxy Buds - Black  UK Version 
+prodname: 'Samsung Galaxy Buds - Black  UK Version '
 ---
 
 Tienes [Samsung Galaxy Buds - Black  UK Version ](https://www.amazon.co.uk/dp/B07NLLLXNX/?tag=tolees0a-21) con un 31.67 % de descuento con precio de oferta de 94.98 GBP (original: 139.0 GBP) en el siguiente enlace!

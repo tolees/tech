@@ -14,7 +14,7 @@ currency: EUR
 price: 1098.99
 comparePrice: 1499.0 EUR
 inStock: true
-prodname: Fujifilm X-T3 - Cámara de objetivo intercambiable sin espejo  con sensor APS-C de 26 1 Mpx  video 4K/60p DCI  pantalla táctil  WIFI  Bluetooth  Plata
+prodname: 'Fujifilm X-T3 - Cámara de objetivo intercambiable sin espejo  con sensor APS-C de 26 1 Mpx  video 4K/60p DCI  pantalla táctil  WIFI  Bluetooth  Plata'
 ---
 
 Ahora mismo tienes [Fujifilm X-T3 - Cámara de objetivo intercambiable sin espejo  con sensor APS-C de 26 1 Mpx  video 4K/60p DCI  pantalla táctil  WIFI  Bluetooth  Plata](https://www.amazon.es/dp/B07H3T9MLT/?tag=tolees-21) a 1098.99 EUR (original: 1499.0 EUR) (26.69 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1899.99
 comparePrice: 2600.0 EUR
 inStock: true
-prodname: Philips 65OLED854/12 - Televisor Smart TV OLED 4K UHD  65 pulgadas  Android TV  Ambilight 3 lados  HDR10+  Dolby Vision  Google Assistant  compatible con Alexa  color gris
+prodname: 'Philips 65OLED854/12 - Televisor Smart TV OLED 4K UHD  65 pulgadas  Android TV  Ambilight 3 lados  HDR10+  Dolby Vision  Google Assistant  compatible con Alexa  color gris'
 ---
 
 Está [Philips 65OLED854/12 - Televisor Smart TV OLED 4K UHD  65 pulgadas  Android TV  Ambilight 3 lados  HDR10+  Dolby Vision  Google Assistant  compatible con Alexa  color gris](https://www.amazon.es/dp/B07XNGSYFV/?tag=tolees-21) con 26.92 de descuento por 1899.99 EUR (original: 2600.0 EUR) en el siguiente enlace!

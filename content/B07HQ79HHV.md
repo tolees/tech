@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 68.08 EUR
 inStock: true
-prodname: TOPsic Garmin Vivosmart HR Correa  Accesorios banda de Reloj de Silicona suave Ajustable Reemplazo diseñado para Garmin Vivosmart HR Smart Sport reloj  no rastreador   pattern-2a 
+prodname: 'TOPsic Garmin Vivosmart HR Correa  Accesorios banda de Reloj de Silicona suave Ajustable Reemplazo diseñado para Garmin Vivosmart HR Smart Sport reloj  no rastreador   pattern-2a '
 ---
 
 Tienes [TOPsic Garmin Vivosmart HR Correa  Accesorios banda de Reloj de Silicona suave Ajustable Reemplazo diseñado para Garmin Vivosmart HR Smart Sport reloj  no rastreador   pattern-2a ](https://www.amazon.es/dp/B07HQ79HHV/?tag=tolees-21) con un 79.45 % de descuento con precio de oferta de 13.99 EUR (original: 68.08 EUR) en el siguiente enlace!

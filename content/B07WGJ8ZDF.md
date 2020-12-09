@@ -14,7 +14,7 @@ currency: EUR
 price: 167.4
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Presentamos el sistema wifi de malla Amazon eero: 3 unidades
+prodname: 'Presentamos el sistema wifi de malla Amazon eero: 3 unidades'
 ---
 
 Ahora mismo tienes [Presentamos el sistema wifi de malla Amazon eero: 3 unidades](https://www.amazon.es/dp/B07WGJ8ZDF/?tag=tolees-21) a 167.4 EUR (original: 279.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

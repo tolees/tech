@@ -14,7 +14,7 @@ currency: EUR
 price: 8.75
 comparePrice: 13.17 EUR
 inStock: true
-prodname: Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs de Lectura
+prodname: 'Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs de Lectura'
 ---
 
 Está [Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs de Lectura](https://www.amazon.es/dp/B07BSS16NR/?tag=tolees-21) con 33.56 de descuento por 8.75 EUR (original: 13.17 EUR) en el siguiente enlace!

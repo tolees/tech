@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Vieta Pro It - Auriculares inalámbricos  Bluetooth 5.0  True Wireless  micrófono  Touch Control y Voice Assistant  Color Negro
+prodname: 'Vieta Pro It - Auriculares inalámbricos  Bluetooth 5.0  True Wireless  micrófono  Touch Control y Voice Assistant  Color Negro'
 ---
 
 Ahora mismo tienes [Vieta Pro It - Auriculares inalámbricos  Bluetooth 5.0  True Wireless  micrófono  Touch Control y Voice Assistant  Color Negro](https://www.amazon.es/dp/B08KHKZCD9/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 550.0
 comparePrice: 1121.4 EUR
 inStock: true
-prodname: Sony KD-65XH9096 165 1 cm  65"  4K Ultra HD Smart TV WiFi Negro
+prodname: 'Sony KD-65XH9096 165 1 cm  65"  4K Ultra HD Smart TV WiFi Negro'
 ---
 
 Ahora mismo tienes [Sony KD-65XH9096 165 1 cm  65"  4K Ultra HD Smart TV WiFi Negro](https://www.amazon.es/dp/B08B3LZCW1/?tag=tolees-21) a 550.0 EUR (original: 1121.4 EUR) (50.95 %  de descuento) en el siguiente enlace!

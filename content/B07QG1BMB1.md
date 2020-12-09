@@ -14,7 +14,7 @@ currency: EUR
 price: 11.75
 comparePrice: 18.99 EUR
 inStock: true
-prodname: yyhappychildhood Escritor PortÁTil Reutilizable  Tablero De Mensajes Para Personas Mayores  Niños De 4-8 Años De Edad Para El Tablero De Doodle De Teclado De Escritura Digital Para La Escuela Verde 01
+prodname: 'yyhappychildhood Escritor PortÁTil Reutilizable  Tablero De Mensajes Para Personas Mayores  Niños De 4-8 Años De Edad Para El Tablero De Doodle De Teclado De Escritura Digital Para La Escuela Verde 01'
 ---
 
 Está [yyhappychildhood Escritor PortÁTil Reutilizable  Tablero De Mensajes Para Personas Mayores  Niños De 4-8 Años De Edad Para El Tablero De Doodle De Teclado De Escritura Digital Para La Escuela Verde 01](https://www.amazon.es/dp/B07QG1BMB1/?tag=tolees-21) con 38.13 de descuento por 11.75 EUR (original: 18.99 EUR) en el siguiente enlace!

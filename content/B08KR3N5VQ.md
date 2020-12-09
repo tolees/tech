@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Need for Speed Hot Pursuit Remastered - Xbox One
+prodname: 'Need for Speed Hot Pursuit Remastered - Xbox One'
 ---
 
 Ahora mismo tienes [Need for Speed Hot Pursuit Remastered - Xbox One](https://www.amazon.it/dp/B08KR3N5VQ/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

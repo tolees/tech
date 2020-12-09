@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 45.24 EUR
 inStock: true
-prodname: Mini Cámaras Espía 1080P Adaptador Portátil Kleine Cámara Vigilancia USB Cámara Detector de Movimiento No Incluidas Tarjeta SD
+prodname: 'Mini Cámaras Espía 1080P Adaptador Portátil Kleine Cámara Vigilancia USB Cámara Detector de Movimiento No Incluidas Tarjeta SD'
 ---
 
 Ahora mismo tienes [Mini Cámaras Espía 1080P Adaptador Portátil Kleine Cámara Vigilancia USB Cámara Detector de Movimiento No Incluidas Tarjeta SD](https://www.amazon.es/dp/B07DYLHT93/?tag=tolees-21) a 28.99 EUR (original: 45.24 EUR) (35.92 %  de descuento) en el siguiente enlace!

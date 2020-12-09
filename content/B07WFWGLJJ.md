@@ -14,7 +14,7 @@ currency: USD
 price: 99.0
 comparePrice: 187.84 USD
 inStock: true
-prodname: Fossil Men s Sport Heart Rate Metal and Silicone Touchscreen Smartwatch  Color: Grey  Navy Blue  Model: FTW4036 
+prodname: 'Fossil Men s Sport Heart Rate Metal and Silicone Touchscreen Smartwatch  Color: Grey  Navy Blue  Model: FTW4036 '
 ---
 
 Tienes [Fossil Men s Sport Heart Rate Metal and Silicone Touchscreen Smartwatch  Color: Grey  Navy Blue  Model: FTW4036 ](https://www.amazon.com/dp/B07WFWGLJJ/?tag=tolees-20) con un 47.30 % de descuento con precio de oferta de 99.0 USD (original: 187.84 USD) en el siguiente enlace!

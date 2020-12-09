@@ -14,7 +14,7 @@ currency: EUR
 price: 11.96
 comparePrice: 37.66 EUR
 inStock: true
-prodname: Port Designs 110265 - Mochila de Transporte para Ordenador portátil
+prodname: 'Port Designs 110265 - Mochila de Transporte para Ordenador portátil'
 ---
 
 Tienes [Port Designs 110265 - Mochila de Transporte para Ordenador portátil](https://www.amazon.es/dp/B00DDIBHJ4/?tag=tolees-21) con un 68.24 % de descuento con precio de oferta de 11.96 EUR (original: 37.66 EUR) en el siguiente enlace!

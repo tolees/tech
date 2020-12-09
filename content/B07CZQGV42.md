@@ -14,7 +14,7 @@ currency: EUR
 price: 30.92
 comparePrice: 41.74 EUR
 inStock: true
-prodname: FIBARO HomeKit enabled The Button Red / iOS Bluetooth Drahtlose Tragbare Schalt-Knopf  Rot  FGBHPB-101-3
+prodname: 'FIBARO HomeKit enabled The Button Red / iOS Bluetooth Drahtlose Tragbare Schalt-Knopf  Rot  FGBHPB-101-3'
 ---
 
 Está [FIBARO HomeKit enabled The Button Red / iOS Bluetooth Drahtlose Tragbare Schalt-Knopf  Rot  FGBHPB-101-3](https://www.amazon.de/dp/B07CZQGV42/?tag=tolees0ca-21) con 25.92 de descuento por 30.92 EUR (original: 41.74 EUR) en el siguiente enlace!

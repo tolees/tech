@@ -14,7 +14,7 @@ currency: EUR
 price: 79.0
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burdeos - Teclado QWERTY Español
+prodname: 'Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burdeos - Teclado QWERTY Español'
 ---
 
 Está [Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burdeos - Teclado QWERTY Español](https://www.amazon.es/dp/B07FTG4DJ8/?tag=tolees-21) con 28.18 de descuento por 79.0 EUR (original: 109.99 EUR) en el siguiente enlace!

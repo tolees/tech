@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Kindle  ora con luce frontale integrata - Con pubblicità - Nero
+prodname: 'Kindle  ora con luce frontale integrata - Con pubblicità - Nero'
 ---
 
 Ahora mismo tienes [Kindle  ora con luce frontale integrata - Con pubblicità - Nero](https://www.amazon.it/dp/B07FQ4DJ7X/?tag=tolees00-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

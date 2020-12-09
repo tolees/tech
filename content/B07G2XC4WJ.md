@@ -14,7 +14,7 @@ currency: EUR
 price: 70.04
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Plantronics BackBeat Go 810 Auriculares Bluetooth  Espuma con Memoria  sobre la Oreja  Hueso-Blanco  Uni
+prodname: 'Plantronics BackBeat Go 810 Auriculares Bluetooth  Espuma con Memoria  sobre la Oreja  Hueso-Blanco  Uni'
 ---
 
 Tienes [Plantronics BackBeat Go 810 Auriculares Bluetooth  Espuma con Memoria  sobre la Oreja  Hueso-Blanco  Uni](https://www.amazon.es/dp/B07G2XC4WJ/?tag=tolees-21) con un 53.31 % de descuento con precio de oferta de 70.04 EUR (original: 150.0 EUR) en el siguiente enlace!

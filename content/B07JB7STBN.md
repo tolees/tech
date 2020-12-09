@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 58.99 EUR
 inStock: true
-prodname: Enchufe Inteligente Wifi  ARINO Enchufes Inalámbricos Inteligentes con Luz de Noche  Temporizador y Puerto USB Compatible con Alexa y Google Asistente  para Android / iOS  2 PACK 
+prodname: 'Enchufe Inteligente Wifi  ARINO Enchufes Inalámbricos Inteligentes con Luz de Noche  Temporizador y Puerto USB Compatible con Alexa y Google Asistente  para Android / iOS  2 PACK '
 ---
 
 Tienes [Enchufe Inteligente Wifi  ARINO Enchufes Inalámbricos Inteligentes con Luz de Noche  Temporizador y Puerto USB Compatible con Alexa y Google Asistente  para Android / iOS  2 PACK ](https://www.amazon.es/dp/B07JB7STBN/?tag=tolees-21) con un 45.77 % de descuento con precio de oferta de 31.99 EUR (original: 58.99 EUR) en el siguiente enlace!

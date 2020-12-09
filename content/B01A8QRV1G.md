@@ -14,7 +14,7 @@ currency: EUR
 price: 299.9
 comparePrice: 410.95 EUR
 inStock: true
-prodname: Sony HDR-CX625 Videocamera HD con Sensore CMOS Exmor R  Ottica Sony G  Zoom Ottico 30x  Stabilizzazione Attiva a 5 Assi  BOSS   Nero
+prodname: 'Sony HDR-CX625 Videocamera HD con Sensore CMOS Exmor R  Ottica Sony G  Zoom Ottico 30x  Stabilizzazione Attiva a 5 Assi  BOSS   Nero'
 ---
 
 Está [Sony HDR-CX625 Videocamera HD con Sensore CMOS Exmor R  Ottica Sony G  Zoom Ottico 30x  Stabilizzazione Attiva a 5 Assi  BOSS   Nero](https://www.amazon.it/dp/B01A8QRV1G/?tag=tolees00-21) con 27.02 de descuento por 299.9 EUR (original: 410.95 EUR) en el siguiente enlace!

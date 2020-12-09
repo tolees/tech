@@ -14,7 +14,7 @@ currency: EUR
 price: 21.46
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Belkin Caricabatteria da Auto Boost Up  17 W  Cavo Incluso USB/Lightning  Ricarica Standard per iPad Air/iPad 4/iPad Mini  iPhone 5/5S/iPod Touch 5G  1.2 m  2.4 A
+prodname: 'Belkin Caricabatteria da Auto Boost Up  17 W  Cavo Incluso USB/Lightning  Ricarica Standard per iPad Air/iPad 4/iPad Mini  iPhone 5/5S/iPod Touch 5G  1.2 m  2.4 A'
 ---
 
 Está [Belkin Caricabatteria da Auto Boost Up  17 W  Cavo Incluso USB/Lightning  Ricarica Standard per iPad Air/iPad 4/iPad Mini  iPhone 5/5S/iPod Touch 5G  1.2 m  2.4 A](https://www.amazon.it/dp/B00PUAD2TG/?tag=tolees00-21) con 28.44 de descuento por 21.46 EUR (original: 29.99 EUR) en el siguiente enlace!

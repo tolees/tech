@@ -14,7 +14,7 @@ currency: EUR
 price: 118.0
 comparePrice: 181.9 EUR
 inStock: true
-prodname: D-Link DIR-869 – Router WiFi AC 1750 Ap Mode  Quad Band  1750 Mbps  Antenas amplificadas High Power  MIMO 3 x 3  4 Puertos Gigabit 10/100/1000 Mbps  1 Puerto WAN Gigabit  WPS  WPA2  QoS 
+prodname: 'D-Link DIR-869 – Router WiFi AC 1750 Ap Mode  Quad Band  1750 Mbps  Antenas amplificadas High Power  MIMO 3 x 3  4 Puertos Gigabit 10/100/1000 Mbps  1 Puerto WAN Gigabit  WPS  WPA2  QoS '
 ---
 
 Tienes [D-Link DIR-869 – Router WiFi AC 1750 Ap Mode  Quad Band  1750 Mbps  Antenas amplificadas High Power  MIMO 3 x 3  4 Puertos Gigabit 10/100/1000 Mbps  1 Puerto WAN Gigabit  WPS  WPA2  QoS ](https://www.amazon.es/dp/B00PVCVG5A/?tag=tolees-21) con un 35.13 % de descuento con precio de oferta de 118.0 EUR (original: 181.9 EUR) en el siguiente enlace!

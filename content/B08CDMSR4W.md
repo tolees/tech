@@ -14,7 +14,7 @@ currency: USD
 price: 39.98
 comparePrice: 69.99 USD
 inStock: true
-prodname: Bluetooth Headset V5.0 Honshoop Dual-Mic Noise Cancelling Bluetooth Earpiece Talking Compatible Cellphones Work for Business/Workout/Driving/Office Black 
+prodname: 'Bluetooth Headset V5.0 Honshoop Dual-Mic Noise Cancelling Bluetooth Earpiece Talking Compatible Cellphones Work for Business/Workout/Driving/Office Black '
 ---
 
 Ahora mismo tienes [Bluetooth Headset V5.0 Honshoop Dual-Mic Noise Cancelling Bluetooth Earpiece Talking Compatible Cellphones Work for Business/Workout/Driving/Office Black ](https://www.amazon.com/dp/B08CDMSR4W/?tag=tolees-20) a 39.98 USD (original: 69.99 USD) (42.88 %  de descuento) en el siguiente enlace!

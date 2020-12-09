@@ -14,7 +14,7 @@ currency: USD
 price: 2197.99
 comparePrice: 2999.99 USD
 inStock: true
-prodname: SAMSUNG 75-inch Class FRAME QLED LS03 Series - 4K UHD Dual LED Quantum HDR Smart TV with Alexa Built-in  QN75LS03TAFXZA  2020 Model 
+prodname: 'SAMSUNG 75-inch Class FRAME QLED LS03 Series - 4K UHD Dual LED Quantum HDR Smart TV with Alexa Built-in  QN75LS03TAFXZA  2020 Model '
 ---
 
 Tienes [SAMSUNG 75-inch Class FRAME QLED LS03 Series - 4K UHD Dual LED Quantum HDR Smart TV with Alexa Built-in  QN75LS03TAFXZA  2020 Model ](https://www.amazon.com/dp/B0845TZWDW/?tag=tolees-20) con un 26.73 % de descuento con precio de oferta de 2197.99 USD (original: 2999.99 USD) en el siguiente enlace!

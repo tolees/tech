@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 81.99 EUR
 inStock: true
-prodname: Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surround  DTS Headphone:X 2.0  Transductores 50mm  USB y Jack Audio 3  5mm  Microfóno Volteable  Peso Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch
+prodname: 'Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surround  DTS Headphone:X 2.0  Transductores 50mm  USB y Jack Audio 3  5mm  Microfóno Volteable  Peso Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch'
 ---
 
 Está [Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surround  DTS Headphone:X 2.0  Transductores 50mm  USB y Jack Audio 3  5mm  Microfóno Volteable  Peso Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch](https://www.amazon.es/dp/B07MTXLFXV/?tag=tolees-21) con 32.93 de descuento por 54.99 EUR (original: 81.99 EUR) en el siguiente enlace!

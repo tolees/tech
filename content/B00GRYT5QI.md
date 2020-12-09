@@ -14,7 +14,7 @@ currency: EUR
 price: 29.3
 comparePrice: 39.5 EUR
 inStock: true
-prodname: Transcend Ts16Gdp200  Dashcam Per Auto  Schermo Full Hd a Colori Da 6 1 Cm  2 4"   Wi-Fi  Ingresso Schede Micro Sd  Usb 2.0  Nero
+prodname: 'Transcend Ts16Gdp200  Dashcam Per Auto  Schermo Full Hd a Colori Da 6 1 Cm  2 4"   Wi-Fi  Ingresso Schede Micro Sd  Usb 2.0  Nero'
 ---
 
 Tienes [Transcend Ts16Gdp200  Dashcam Per Auto  Schermo Full Hd a Colori Da 6 1 Cm  2 4"   Wi-Fi  Ingresso Schede Micro Sd  Usb 2.0  Nero](https://www.amazon.it/dp/B00GRYT5QI/?tag=tolees00-21) con un 25.82 % de descuento con precio de oferta de 29.3 EUR (original: 39.5 EUR) en el siguiente enlace!

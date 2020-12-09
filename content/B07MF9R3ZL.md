@@ -14,7 +14,7 @@ currency: EUR
 price: 249.9
 comparePrice: 400.0 EUR
 inStock: true
-prodname: Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  Compacta y Elegante  negro  Negro
+prodname: 'Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  Compacta y Elegante  negro  Negro'
 ---
 
 Está [Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  Compacta y Elegante  negro  Negro](https://www.amazon.es/dp/B07MF9R3ZL/?tag=tolees-21) con 37.52 de descuento por 249.9 EUR (original: 400.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 372.0
 comparePrice: 642.9 EUR
 inStock: true
-prodname: Ubiquiti Networks UAP-AC-PRO-5 - Punto de acceso interior / exterior  5 unidades
+prodname: 'Ubiquiti Networks UAP-AC-PRO-5 - Punto de acceso interior / exterior  5 unidades'
 ---
 
 Ahora mismo tienes [Ubiquiti Networks UAP-AC-PRO-5 - Punto de acceso interior / exterior  5 unidades](https://www.amazon.es/dp/B016XYQWXU/?tag=tolees-21) a 372.0 EUR (original: 642.9 EUR) (42.14 %  de descuento) en el siguiente enlace!

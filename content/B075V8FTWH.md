@@ -14,7 +14,7 @@ currency: GBP
 price: 74.25
 comparePrice: 99.0 GBP
 inStock: true
-prodname: GPS Tracker with anti-theft alert - subscription included - Track: your car  motorcycles  valuables  children  elders - works in England & Ireland
+prodname: 'GPS Tracker with anti-theft alert - subscription included - Track: your car  motorcycles  valuables  children  elders - works in England & Ireland'
 ---
 
 Ahora mismo tienes [GPS Tracker with anti-theft alert - subscription included - Track: your car  motorcycles  valuables  children  elders - works in England & Ireland](https://www.amazon.co.uk/dp/B075V8FTWH/?tag=tolees0a-21) a 74.25 GBP (original: 99.0 GBP) (25.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 129.0
 comparePrice: 199.0 GBP
 inStock: true
-prodname: Samsung Galaxy Watch Active 40 mm - Silver  UK Version 
+prodname: 'Samsung Galaxy Watch Active 40 mm - Silver  UK Version '
 ---
 
 Tienes [Samsung Galaxy Watch Active 40 mm - Silver  UK Version ](https://www.amazon.co.uk/dp/B07NGWYJ8F/?tag=tolees0a-21) con un 35.18 % de descuento con precio de oferta de 129.0 GBP (original: 199.0 GBP) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 52.99
 comparePrice: 75.99 EUR
 inStock: true
-prodname: Anker Soundcore Spirit Dot 2 Bluetooth Kopfhörer  Tiefer Bass  Klares Klangprofil  IPX7 wasserdicht & schweißfest  Blitzschnelles Aufladen  Bequeme AirWings  Mini Ohrhörer für Sport  Fitnessstudio
+prodname: 'Anker Soundcore Spirit Dot 2 Bluetooth Kopfhörer  Tiefer Bass  Klares Klangprofil  IPX7 wasserdicht & schweißfest  Blitzschnelles Aufladen  Bequeme AirWings  Mini Ohrhörer für Sport  Fitnessstudio'
 ---
 
 Tienes [Anker Soundcore Spirit Dot 2 Bluetooth Kopfhörer  Tiefer Bass  Klares Klangprofil  IPX7 wasserdicht & schweißfest  Blitzschnelles Aufladen  Bequeme AirWings  Mini Ohrhörer für Sport  Fitnessstudio](https://www.amazon.de/dp/B07SJFY5BK/?tag=tolees0ca-21) con un 30.27 % de descuento con precio de oferta de 52.99 EUR (original: 75.99 EUR) en el siguiente enlace!

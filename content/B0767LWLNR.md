@@ -14,7 +14,7 @@ currency: EUR
 price: 21.02
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Trust GXT 840 Myra - Teclado Gaming con iluminación LED  Negro - Teclado QWERTY Español
+prodname: 'Trust GXT 840 Myra - Teclado Gaming con iluminación LED  Negro - Teclado QWERTY Español'
 ---
 
 Tienes [Trust GXT 840 Myra - Teclado Gaming con iluminación LED  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B0767LWLNR/?tag=tolees-21) con un 47.44 % de descuento con precio de oferta de 21.02 EUR (original: 39.99 EUR) en el siguiente enlace!

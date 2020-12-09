@@ -14,7 +14,7 @@ currency: EUR
 price: 139.0
 comparePrice: 375.2 EUR
 inStock: true
-prodname: Walimex Pro - Objetivo Ojo de pez 1:3 5 DSLR para Sony Alpha  Color Negro
+prodname: 'Walimex Pro - Objetivo Ojo de pez 1:3 5 DSLR para Sony Alpha  Color Negro'
 ---
 
 Ahora mismo tienes [Walimex Pro - Objetivo Ojo de pez 1:3 5 DSLR para Sony Alpha  Color Negro](https://www.amazon.es/dp/B008VGCX2I/?tag=tolees-21) a 139.0 EUR (original: 375.2 EUR) (62.95 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 139.0 EUR
 inStock: true
-prodname: Energy Sistem Multiroom Tower Wi-Fi - Sistema de Sonido en Torre 2.1  Wi-Fi  Bluetooth 4.0  60 W Potencia Real  Panel táctil  USB/SD  Negro
+prodname: 'Energy Sistem Multiroom Tower Wi-Fi - Sistema de Sonido en Torre 2.1  Wi-Fi  Bluetooth 4.0  60 W Potencia Real  Panel táctil  USB/SD  Negro'
 ---
 
 Está [Energy Sistem Multiroom Tower Wi-Fi - Sistema de Sonido en Torre 2.1  Wi-Fi  Bluetooth 4.0  60 W Potencia Real  Panel táctil  USB/SD  Negro](https://www.amazon.es/dp/B01F43HEDS/?tag=tolees-21) con 50.36 de descuento por 69.0 EUR (original: 139.0 EUR) en el siguiente enlace!

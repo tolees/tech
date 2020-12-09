@@ -14,7 +14,7 @@ currency: EUR
 price: 35.44
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Logitech M705 Marathon Kabellose Maus  2.4 GHz Verbindung via Unifying USB-Empfänger  1000 DPI Laser-Sensor  3-Jahre Akkulaufzeit  7 Tasten  PC/Mac - schwarz  Englische Verpackung
+prodname: 'Logitech M705 Marathon Kabellose Maus  2.4 GHz Verbindung via Unifying USB-Empfänger  1000 DPI Laser-Sensor  3-Jahre Akkulaufzeit  7 Tasten  PC/Mac - schwarz  Englische Verpackung'
 ---
 
 Está [Logitech M705 Marathon Kabellose Maus  2.4 GHz Verbindung via Unifying USB-Empfänger  1000 DPI Laser-Sensor  3-Jahre Akkulaufzeit  7 Tasten  PC/Mac - schwarz  Englische Verpackung](https://www.amazon.de/dp/B003STDR1E/?tag=tolees0ca-21) con 29.11 de descuento por 35.44 EUR (original: 49.99 EUR) en el siguiente enlace!

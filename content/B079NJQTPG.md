@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: HUAWEI BXHU2374 - Funda para P20 Pro  Color Azul Oscuro
+prodname: 'HUAWEI BXHU2374 - Funda para P20 Pro  Color Azul Oscuro'
 ---
 
 Tienes [HUAWEI BXHU2374 - Funda para P20 Pro  Color Azul Oscuro](https://www.amazon.es/dp/B079NJQTPG/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

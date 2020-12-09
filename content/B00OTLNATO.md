@@ -14,7 +14,7 @@ currency: EUR
 price: 25.46
 comparePrice: 33.95 EUR
 inStock: true
-prodname: August EP636 - Auriculares Bluetooth de Diadema Casco Inalámbrico NFC con Micrófono Manos Libres para Teléfonos  Tabletas y Ordenadores  color Rojo
+prodname: 'August EP636 - Auriculares Bluetooth de Diadema Casco Inalámbrico NFC con Micrófono Manos Libres para Teléfonos  Tabletas y Ordenadores  color Rojo'
 ---
 
 Ahora mismo tienes [August EP636 - Auriculares Bluetooth de Diadema Casco Inalámbrico NFC con Micrófono Manos Libres para Teléfonos  Tabletas y Ordenadores  color Rojo](https://www.amazon.es/dp/B00OTLNATO/?tag=tolees-21) a 25.46 EUR (original: 33.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

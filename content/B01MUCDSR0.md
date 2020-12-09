@@ -14,7 +14,7 @@ currency: EUR
 price: 148.05
 comparePrice: 259.99 EUR
 inStock: true
-prodname: Garmin DriveSmart 61 Full EU LMT-S - Navegador GPS con mapas de por vida y tráfico vía móvil  pantalla de 6"  mapa Europa completo   Reacondicionado 
+prodname: 'Garmin DriveSmart 61 Full EU LMT-S - Navegador GPS con mapas de por vida y tráfico vía móvil  pantalla de 6"  mapa Europa completo   Reacondicionado '
 ---
 
 Ahora mismo tienes [Garmin DriveSmart 61 Full EU LMT-S - Navegador GPS con mapas de por vida y tráfico vía móvil  pantalla de 6"  mapa Europa completo   Reacondicionado ](https://www.amazon.es/dp/B01MUCDSR0/?tag=tolees-21) a 148.05 EUR (original: 259.99 EUR) (43.06 %  de descuento) en el siguiente enlace!

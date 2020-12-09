@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción
+prodname: 'TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción'
 ---
 
 Tienes [TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción](https://www.amazon.es/dp/B07PZKQHK7/?tag=tolees-21) con un 57.15 % de descuento con precio de oferta de 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

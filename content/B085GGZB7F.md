@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de batería  GPS  Color Rojo  Lava Red  46 mm  55025280 
+prodname: 'Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de batería  GPS  Color Rojo  Lava Red  46 mm  55025280 '
 ---
 
 Ahora mismo tienes [Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de batería  GPS  Color Rojo  Lava Red  46 mm  55025280 ](https://www.amazon.es/dp/B085GGZB7F/?tag=tolees-21) a 99.0 EUR (original: 179.0 EUR) (44.69 %  de descuento) en el siguiente enlace!

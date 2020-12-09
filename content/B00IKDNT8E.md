@@ -14,7 +14,7 @@ currency: EUR
 price: 22.31
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Case Logic WMBP115K - Mochila para Ordenador portátil
+prodname: 'Case Logic WMBP115K - Mochila para Ordenador portátil'
 ---
 
 Ahora mismo tienes [Case Logic WMBP115K - Mochila para Ordenador portátil](https://www.amazon.es/dp/B00IKDNT8E/?tag=tolees-21) a 22.31 EUR (original: 29.99 EUR) (25.61 %  de descuento) en el siguiente enlace!

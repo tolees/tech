@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: PlayStation Casque-micro sans fil PS4  Audio 3D  Édition Gold  Or rose
+prodname: 'PlayStation Casque-micro sans fil PS4  Audio 3D  Édition Gold  Or rose'
 ---
 
 Está [PlayStation Casque-micro sans fil PS4  Audio 3D  Édition Gold  Or rose](https://www.amazon.fr/dp/B07WQ88WCQ/?tag=tolees0d-21) con 45.00 de descuento por 54.99 EUR (original: 99.99 EUR) en el siguiente enlace!

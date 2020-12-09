@@ -14,7 +14,7 @@ currency: GBP
 price: 44.29
 comparePrice: 64.39 GBP
 inStock: true
-prodname: JoyGeek Mini Drone with Camera for Kids Adults  720P HD Foldable FPV Remote Control Dromes RC UFO Quadcopter for Beginners Boys Toys Gifts  Wifi Live Video Aircraft Easy Fly Plane
+prodname: 'JoyGeek Mini Drone with Camera for Kids Adults  720P HD Foldable FPV Remote Control Dromes RC UFO Quadcopter for Beginners Boys Toys Gifts  Wifi Live Video Aircraft Easy Fly Plane'
 ---
 
 Está [JoyGeek Mini Drone with Camera for Kids Adults  720P HD Foldable FPV Remote Control Dromes RC UFO Quadcopter for Beginners Boys Toys Gifts  Wifi Live Video Aircraft Easy Fly Plane](https://www.amazon.co.uk/dp/B07H4JC2KT/?tag=tolees0a-21) con 31.22 de descuento por 44.29 GBP (original: 64.39 GBP) en el siguiente enlace!

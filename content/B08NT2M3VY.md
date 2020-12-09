@@ -14,7 +14,7 @@ currency: EUR
 price: 103.69
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Tablet 10 Pulgadas 4GB de RAM 64GB/128GB de ROM Android 10.0 Certificado por Google GMS Tablet PC Barats y Buenas Batería 8000mAh Quad Core 4G Dual SIM 8MP Cámara Netflix WiFi Bluetooth GPS OTG Rosa 
+prodname: 'Tablet 10 Pulgadas 4GB de RAM 64GB/128GB de ROM Android 10.0 Certificado por Google GMS Tablet PC Barats y Buenas Batería 8000mAh Quad Core 4G Dual SIM 8MP Cámara Netflix WiFi Bluetooth GPS OTG Rosa '
 ---
 
 Tienes [Tablet 10 Pulgadas 4GB de RAM 64GB/128GB de ROM Android 10.0 Certificado por Google GMS Tablet PC Barats y Buenas Batería 8000mAh Quad Core 4G Dual SIM 8MP Cámara Netflix WiFi Bluetooth GPS OTG Rosa ](https://www.amazon.es/dp/B08NT2M3VY/?tag=tolees-21) con un 47.89 % de descuento con precio de oferta de 103.69 EUR (original: 199.0 EUR) en el siguiente enlace!

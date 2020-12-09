@@ -14,7 +14,7 @@ currency: EUR
 price: 61.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Beats EP - Auriculares supraaurales con cable - Sin batería para escuchar tanto como quieras  controles y micrófono integrados - Azul
+prodname: 'Beats EP - Auriculares supraaurales con cable - Sin batería para escuchar tanto como quieras  controles y micrófono integrados - Azul'
 ---
 
 Tienes [Beats EP - Auriculares supraaurales con cable - Sin batería para escuchar tanto como quieras  controles y micrófono integrados - Azul](https://www.amazon.es/dp/B01LVVF7X7/?tag=tolees-21) con un 37.98 % de descuento con precio de oferta de 61.99 EUR (original: 99.95 EUR) en el siguiente enlace!

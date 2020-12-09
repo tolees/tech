@@ -14,7 +14,7 @@ currency: GBP
 price: 9.99
 comparePrice: 16.98 GBP
 inStock: true
-prodname: Tekken 7  PS4 
+prodname: 'Tekken 7  PS4 '
 ---
 
 Tienes [Tekken 7  PS4 ](https://www.amazon.co.uk/dp/B00ZFQC0KC/?tag=tolees0a-21) con un 41.17 % de descuento con precio de oferta de 9.99 GBP (original: 16.98 GBP) en el siguiente enlace!

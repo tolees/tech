@@ -14,7 +14,7 @@ currency: EUR
 price: 57.39
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Wacom Intuos S Tableta Gráfica – Tableta Gráfica Portátil para pintar  dibujar  editar photos con 1 software creativo incluido para descargar  óptima para la educación en línea y el teletrabajo  negra
+prodname: 'Wacom Intuos S Tableta Gráfica – Tableta Gráfica Portátil para pintar  dibujar  editar photos con 1 software creativo incluido para descargar  óptima para la educación en línea y el teletrabajo  negra'
 ---
 
 Ahora mismo tienes [Wacom Intuos S Tableta Gráfica – Tableta Gráfica Portátil para pintar  dibujar  editar photos con 1 software creativo incluido para descargar  óptima para la educación en línea y el teletrabajo  negra](https://www.amazon.es/dp/B079MQZM4X/?tag=tolees-21) a 57.39 EUR (original: 79.9 EUR) (28.17 %  de descuento) en el siguiente enlace!

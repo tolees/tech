@@ -14,7 +14,7 @@ currency: EUR
 price: 25.09
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Trust Urban Ambus - Altavoz portátil con Bluetooth para Exteriores  Resistente al Agua IPX5  Negro y Amarillo
+prodname: 'Trust Urban Ambus - Altavoz portátil con Bluetooth para Exteriores  Resistente al Agua IPX5  Negro y Amarillo'
 ---
 
 Tienes [Trust Urban Ambus - Altavoz portátil con Bluetooth para Exteriores  Resistente al Agua IPX5  Negro y Amarillo](https://www.amazon.es/dp/B016UOIHPO/?tag=tolees-21) con un 58.18 % de descuento con precio de oferta de 25.09 EUR (original: 59.99 EUR) en el siguiente enlace!

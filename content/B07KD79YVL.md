@@ -14,7 +14,7 @@ currency: GBP
 price: 39.99
 comparePrice: 79.99 GBP
 inStock: true
-prodname: Echo Show 5 – Stay in touch with the help of Alexa  White
+prodname: 'Echo Show 5 – Stay in touch with the help of Alexa  White'
 ---
 
 Está [Echo Show 5 – Stay in touch with the help of Alexa  White](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=tolees0a-21) con 50.01 de descuento por 39.99 GBP (original: 79.99 GBP) en el siguiente enlace!

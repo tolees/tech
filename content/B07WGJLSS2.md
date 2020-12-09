@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Tablet Fire HD 8 | Schermo HD da 8”  32 GB  Nero  - Con pubblicità
+prodname: 'Tablet Fire HD 8 | Schermo HD da 8”  32 GB  Nero  - Con pubblicità'
 ---
 
 Está [Tablet Fire HD 8 | Schermo HD da 8”  32 GB  Nero  - Con pubblicità](https://www.amazon.it/dp/B07WGJLSS2/?tag=tolees00-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

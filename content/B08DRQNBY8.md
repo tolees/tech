@@ -14,7 +14,7 @@ currency: EUR
 price: 132.67
 comparePrice: 199.0 EUR
 inStock: true
-prodname: SAMSUNG Galaxy Buds Live - Auriculares Bluetooth inalámbricos I 3 micrófonos I Tecnología AKG I Color Negro [Versión española]
+prodname: 'SAMSUNG Galaxy Buds Live - Auriculares Bluetooth inalámbricos I 3 micrófonos I Tecnología AKG I Color Negro [Versión española]'
 ---
 
 Está [SAMSUNG Galaxy Buds Live - Auriculares Bluetooth inalámbricos I 3 micrófonos I Tecnología AKG I Color Negro [Versión española]](https://www.amazon.es/dp/B08DRQNBY8/?tag=tolees-21) con 33.33 de descuento por 132.67 EUR (original: 199.0 EUR) en el siguiente enlace!

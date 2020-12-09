@@ -14,7 +14,7 @@ currency: EUR
 price: 799.0
 comparePrice: 1209.0 EUR
 inStock: true
-prodname: Apple iPhone XS  de 256GB  - Oro
+prodname: 'Apple iPhone XS  de 256GB  - Oro'
 ---
 
 Está [Apple iPhone XS  de 256GB  - Oro](https://www.amazon.es/dp/B07HNDDDNV/?tag=tolees-21) con 33.91 de descuento por 799.0 EUR (original: 1209.0 EUR) en el siguiente enlace!

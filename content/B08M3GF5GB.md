@@ -14,7 +14,7 @@ currency: GBP
 price: 4249.9
 comparePrice: 7189.9 GBP
 inStock: true
-prodname: Sedatech Watercooling Pro Gaming PC AMD Ryzen 9 5900X 12x 3.7Ghz  Geforce RTX 3090 24Gb  64 Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10
+prodname: 'Sedatech Watercooling Pro Gaming PC AMD Ryzen 9 5900X 12x 3.7Ghz  Geforce RTX 3090 24Gb  64 Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10'
 ---
 
 Está [Sedatech Watercooling Pro Gaming PC AMD Ryzen 9 5900X 12x 3.7Ghz  Geforce RTX 3090 24Gb  64 Gb RAM DDR4  1Tb SSD NVMe 970 Evo  3Tb HDD  USB 3.1  Wifi  Bluetooth. Desktop Computer  Win 10](https://www.amazon.co.uk/dp/B08M3GF5GB/?tag=tolees0a-21) con 40.89 de descuento por 4249.9 GBP (original: 7189.9 GBP) en el siguiente enlace!

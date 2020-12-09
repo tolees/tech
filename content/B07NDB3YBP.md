@@ -14,7 +14,7 @@ currency: EUR
 price: 34.0
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Tractive collier GPS pour chien  Traceur avec portée illimitée  Suivi d activité  Étanche  Léger  Dernier modèle 
+prodname: 'Tractive collier GPS pour chien  Traceur avec portée illimitée  Suivi d activité  Étanche  Léger  Dernier modèle '
 ---
 
 Tienes [Tractive collier GPS pour chien  Traceur avec portée illimitée  Suivi d activité  Étanche  Léger  Dernier modèle ](https://www.amazon.fr/dp/B07NDB3YBP/?tag=tolees0d-21) con un 31.99 % de descuento con precio de oferta de 34.0 EUR (original: 49.99 EUR) en el siguiente enlace!

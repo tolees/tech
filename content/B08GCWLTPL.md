@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 59.93 EUR
 inStock: true
-prodname: WENSAN Kabellose Kopfhörer  Bluetooth 5.0 mit HD HiFi Stereo CVC8.0 Geräuschunterdrückung  Bluetooth-Kopfhörer mit Mikrofon  105 Stunden Spielzeit  LED-Display  3000 mAh
+prodname: 'WENSAN Kabellose Kopfhörer  Bluetooth 5.0 mit HD HiFi Stereo CVC8.0 Geräuschunterdrückung  Bluetooth-Kopfhörer mit Mikrofon  105 Stunden Spielzeit  LED-Display  3000 mAh'
 ---
 
 Tienes [WENSAN Kabellose Kopfhörer  Bluetooth 5.0 mit HD HiFi Stereo CVC8.0 Geräuschunterdrückung  Bluetooth-Kopfhörer mit Mikrofon  105 Stunden Spielzeit  LED-Display  3000 mAh](https://www.amazon.de/dp/B08GCWLTPL/?tag=tolees0ca-21) con un 70.13 % de descuento con precio de oferta de 17.9 EUR (original: 59.93 EUR) en el siguiente enlace!

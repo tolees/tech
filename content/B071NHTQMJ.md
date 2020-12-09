@@ -14,7 +14,7 @@ currency: EUR
 price: 65.89
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Sony NP-FZ100 Akku  InfoLITHIUM-Akku Z-Serie  7 2V/16 4Wh  2280 mAh   kompatibel mit Sony Alpha 9 Alpha 7RM4  Alpha 7RM3  Alpha 7M3  Alpha 6600  schwarz
+prodname: 'Sony NP-FZ100 Akku  InfoLITHIUM-Akku Z-Serie  7 2V/16 4Wh  2280 mAh   kompatibel mit Sony Alpha 9 Alpha 7RM4  Alpha 7RM3  Alpha 7M3  Alpha 6600  schwarz'
 ---
 
 Ahora mismo tienes [Sony NP-FZ100 Akku  InfoLITHIUM-Akku Z-Serie  7 2V/16 4Wh  2280 mAh   kompatibel mit Sony Alpha 9 Alpha 7RM4  Alpha 7RM3  Alpha 7M3  Alpha 6600  schwarz](https://www.amazon.de/dp/B071NHTQMJ/?tag=tolees0ca-21) a 65.89 EUR (original: 89.99 EUR) (26.78 %  de descuento) en el siguiente enlace!

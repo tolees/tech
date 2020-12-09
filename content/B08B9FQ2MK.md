@@ -14,7 +14,7 @@ currency: EUR
 price: 27.9
 comparePrice: 40.99 EUR
 inStock: true
-prodname: STAR WARS: Squadrons  Xbox One
+prodname: 'STAR WARS: Squadrons  Xbox One'
 ---
 
 Está [STAR WARS: Squadrons  Xbox One](https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21) con 31.93 de descuento por 27.9 EUR (original: 40.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 77.99
 comparePrice: 209.0 EUR
 inStock: true
-prodname: Ultimate Ears Megaboom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 20 h  color Azul
+prodname: 'Ultimate Ears Megaboom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 20 h  color Azul'
 ---
 
 Está [Ultimate Ears Megaboom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 20 h  color Azul](https://www.amazon.es/dp/B07G6LWTG6/?tag=tolees-21) con 62.68 de descuento por 77.99 EUR (original: 209.0 EUR) en el siguiente enlace!

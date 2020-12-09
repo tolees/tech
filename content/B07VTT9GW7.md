@@ -14,7 +14,7 @@ currency: EUR
 price: 137.99
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Logitech G815 Lightspeed - Teclado mecánico para juegos  GL Táctil  CARBON  ESP  USB-N/A  MEDITER  Interruptor táctil  RGB
+prodname: 'Logitech G815 Lightspeed - Teclado mecánico para juegos  GL Táctil  CARBON  ESP  USB-N/A  MEDITER  Interruptor táctil  RGB'
 ---
 
 Tienes [Logitech G815 Lightspeed - Teclado mecánico para juegos  GL Táctil  CARBON  ESP  USB-N/A  MEDITER  Interruptor táctil  RGB](https://www.amazon.es/dp/B07VTT9GW7/?tag=tolees-21) con un 30.66 % de descuento con precio de oferta de 137.99 EUR (original: 199.0 EUR) en el siguiente enlace!

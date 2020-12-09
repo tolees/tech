@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 19.9 EUR
 inStock: true
-prodname: TP-Link TL-SG1005D Switch Ethernet Gigabit 5 ports 10/100/1000 Mbps - Idéal partage de connexion et mise en réseau pour les petites entreprises et les bureaux domestiques   Noir
+prodname: 'TP-Link TL-SG1005D Switch Ethernet Gigabit 5 ports 10/100/1000 Mbps - Idéal partage de connexion et mise en réseau pour les petites entreprises et les bureaux domestiques   Noir'
 ---
 
 Está [TP-Link TL-SG1005D Switch Ethernet Gigabit 5 ports 10/100/1000 Mbps - Idéal partage de connexion et mise en réseau pour les petites entreprises et les bureaux domestiques   Noir](https://www.amazon.fr/dp/B00YMTNVEM/?tag=tolees0d-21) con 37.44 de descuento por 12.45 EUR (original: 19.9 EUR) en el siguiente enlace!

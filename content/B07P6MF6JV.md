@@ -14,7 +14,7 @@ currency: EUR
 price: 108.93
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Samsung - Ecouteurs sans fil Galaxy Buds - Noir - Version française
+prodname: 'Samsung - Ecouteurs sans fil Galaxy Buds - Noir - Version française'
 ---
 
 Tienes [Samsung - Ecouteurs sans fil Galaxy Buds - Noir - Version française](https://www.amazon.fr/dp/B07P6MF6JV/?tag=tolees0d-21) con un 27.38 % de descuento con precio de oferta de 108.93 EUR (original: 149.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 494.0
 comparePrice: 900.0 EUR
 inStock: true
-prodname: Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero
+prodname: 'Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero'
 ---
 
 Ahora mismo tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21) a 494.0 EUR (original: 900.0 EUR) (45.11 %  de descuento) en el siguiente enlace!

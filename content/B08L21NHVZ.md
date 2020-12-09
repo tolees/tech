@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C Stockage HDD pour Mac  PC  Windows  MacBook  Xbox One  2to Bleu 
+prodname: 'Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C Stockage HDD pour Mac  PC  Windows  MacBook  Xbox One  2to Bleu '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C Stockage HDD pour Mac  PC  Windows  MacBook  Xbox One  2to Bleu ](https://www.amazon.fr/dp/B08L21NHVZ/?tag=tolees0d-21) a 63.99 EUR (original: 89.99 EUR) (28.89 %  de descuento) en el siguiente enlace!

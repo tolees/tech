@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Xiaomi Mi Band 4 Smart Band 0.95 Zoll Full AMOLED Touchscreen Activity Tracker mit Herzfrequenzmessung Benachrichtigungen wasserdicht 5 ATM Schwarz
+prodname: 'Xiaomi Mi Band 4 Smart Band 0.95 Zoll Full AMOLED Touchscreen Activity Tracker mit Herzfrequenzmessung Benachrichtigungen wasserdicht 5 ATM Schwarz'
 ---
 
 Está [Xiaomi Mi Band 4 Smart Band 0.95 Zoll Full AMOLED Touchscreen Activity Tracker mit Herzfrequenzmessung Benachrichtigungen wasserdicht 5 ATM Schwarz](https://www.amazon.de/dp/B07SNG23JW/?tag=tolees0ca-21) con 25.72 de descuento por 25.99 EUR (original: 34.99 EUR) en el siguiente enlace!

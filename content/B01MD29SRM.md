@@ -14,7 +14,7 @@ currency: EUR
 price: 124.9
 comparePrice: 169.0 EUR
 inStock: true
-prodname: SMARTGYRO X2 Patinete Eléctrico  Antipinchazos  Bluetooth  Leds  Batería de Litio  Velocidad 10-12 Km/h  Edición Especial  Unisex Niños  Multicolor  Atletico de Madrid  6.5 Pulgadas
+prodname: 'SMARTGYRO X2 Patinete Eléctrico  Antipinchazos  Bluetooth  Leds  Batería de Litio  Velocidad 10-12 Km/h  Edición Especial  Unisex Niños  Multicolor  Atletico de Madrid  6.5 Pulgadas'
 ---
 
 Tienes [SMARTGYRO X2 Patinete Eléctrico  Antipinchazos  Bluetooth  Leds  Batería de Litio  Velocidad 10-12 Km/h  Edición Especial  Unisex Niños  Multicolor  Atletico de Madrid  6.5 Pulgadas](https://www.amazon.es/dp/B01MD29SRM/?tag=tolees-21) con un 26.09 % de descuento con precio de oferta de 124.9 EUR (original: 169.0 EUR) en el siguiente enlace!

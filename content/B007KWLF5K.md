@@ -14,7 +14,7 @@ currency: EUR
 price: 194.65
 comparePrice: 279 EUR
 inStock: true
-prodname: Audio-Technica ATH-ANC9 - Auriculares  reducción de ruido   negro
+prodname: 'Audio-Technica ATH-ANC9 - Auriculares  reducción de ruido   negro'
 ---
 
 Tienes [Audio-Technica ATH-ANC9 - Auriculares  reducción de ruido   negro](https://www.amazon.es/dp/B007KWLF5K/?tag=tolees-21) con un 30.23 % de descuento con precio de oferta de 194.65 EUR (original: 279 EUR) en el siguiente enlace!

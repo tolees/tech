@@ -14,7 +14,7 @@ currency: EUR
 price: 255.99
 comparePrice: 355.34 EUR
 inStock: true
-prodname: Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD Titan Gray  MU-PC2T0T/WW 
+prodname: 'Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD Titan Gray  MU-PC2T0T/WW '
 ---
 
 Tienes [Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD Titan Gray  MU-PC2T0T/WW ](https://www.amazon.de/dp/B087DFFJRD/?tag=tolees0ca-21) con un 27.96 % de descuento con precio de oferta de 255.99 EUR (original: 355.34 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.5
 comparePrice: 84.99 EUR
 inStock: true
-prodname: Razer DeathAdder Chroma - Ratón
+prodname: 'Razer DeathAdder Chroma - Ratón'
 ---
 
 Está [Razer DeathAdder Chroma - Ratón](https://www.amazon.es/dp/B00MXV1Q4I/?tag=tolees-21) con 29.99 de descuento por 59.5 EUR (original: 84.99 EUR) en el siguiente enlace!

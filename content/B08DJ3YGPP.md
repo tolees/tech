@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 131.43 EUR
 inStock: true
-prodname: Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac  PC  MacBook  Chromebook  Xbox  2tb  Plata 
+prodname: 'Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac  PC  MacBook  Chromebook  Xbox  2tb  Plata '
 ---
 
 Tienes [Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac  PC  MacBook  Chromebook  Xbox  2tb  Plata ](https://www.amazon.es/dp/B08DJ3YGPP/?tag=tolees-21) con un 51.31 % de descuento con precio de oferta de 63.99 EUR (original: 131.43 EUR) en el siguiente enlace!

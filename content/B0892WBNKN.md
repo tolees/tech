@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5 en la Oreja con Caja de Carga  Micrófono Incorporado  Control Táctil  Negro Reproducción de 30 Horas para iPhone y Android
+prodname: 'Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5 en la Oreja con Caja de Carga  Micrófono Incorporado  Control Táctil  Negro Reproducción de 30 Horas para iPhone y Android'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5 en la Oreja con Caja de Carga  Micrófono Incorporado  Control Táctil  Negro Reproducción de 30 Horas para iPhone y Android](https://www.amazon.es/dp/B0892WBNKN/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

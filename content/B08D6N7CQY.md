@@ -14,7 +14,7 @@ currency: EUR
 price: 129.9
 comparePrice: 178.69 EUR
 inStock: true
-prodname: HUAWEI MatePad T 10  display da 9.7"  RAM da 2 GB  Memoria Interna da 32 GB  Wi-Fi  Processore Octa-Core  sistema operativo EMUI 10 con Huawei Mobile Services  HMS   Dual-speaker  Deepsea Blue
+prodname: 'HUAWEI MatePad T 10  display da 9.7"  RAM da 2 GB  Memoria Interna da 32 GB  Wi-Fi  Processore Octa-Core  sistema operativo EMUI 10 con Huawei Mobile Services  HMS   Dual-speaker  Deepsea Blue'
 ---
 
 Está [HUAWEI MatePad T 10  display da 9.7"  RAM da 2 GB  Memoria Interna da 32 GB  Wi-Fi  Processore Octa-Core  sistema operativo EMUI 10 con Huawei Mobile Services  HMS   Dual-speaker  Deepsea Blue](https://www.amazon.it/dp/B08D6N7CQY/?tag=tolees00-21) con 27.30 de descuento por 129.9 EUR (original: 178.69 EUR) en el siguiente enlace!

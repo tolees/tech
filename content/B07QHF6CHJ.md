@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: BOOMPODS SOUNDCLIP Altavoz inalámbrico portátil - Mejor Mini Bluetooth Flip Clip Amazon Alexa Altavoz de Bolsillo Incorporado Rockin Potente Sub Bass Audio Sound
+prodname: 'BOOMPODS SOUNDCLIP Altavoz inalámbrico portátil - Mejor Mini Bluetooth Flip Clip Amazon Alexa Altavoz de Bolsillo Incorporado Rockin Potente Sub Bass Audio Sound'
 ---
 
 Tienes [BOOMPODS SOUNDCLIP Altavoz inalámbrico portátil - Mejor Mini Bluetooth Flip Clip Amazon Alexa Altavoz de Bolsillo Incorporado Rockin Potente Sub Bass Audio Sound](https://www.amazon.es/dp/B07QHF6CHJ/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

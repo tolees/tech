@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: LITOM Luz de Lectura  Luz de Libro Recargable con 60H de Autonomía  7 LED con 9 Modos de Luz  360° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Libro  PC y Tablet
+prodname: 'LITOM Luz de Lectura  Luz de Libro Recargable con 60H de Autonomía  7 LED con 9 Modos de Luz  360° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Libro  PC y Tablet'
 ---
 
 Ahora mismo tienes [LITOM Luz de Lectura  Luz de Libro Recargable con 60H de Autonomía  7 LED con 9 Modos de Luz  360° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Libro  PC y Tablet](https://www.amazon.es/dp/B07VZLJTDJ/?tag=tolees-21) a 11.99 EUR (original: 16.99 EUR) (29.43 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 250.0 EUR
 inStock: true
-prodname: Sony WH-XB900N - Auriculares Inalámbricos Noise Cancelling  Bluetooth  Extra Bass  30h de batería  Carga Rápida  Óptimo para trabajar  Micro para llamadas manos libres   Azul
+prodname: 'Sony WH-XB900N - Auriculares Inalámbricos Noise Cancelling  Bluetooth  Extra Bass  30h de batería  Carga Rápida  Óptimo para trabajar  Micro para llamadas manos libres   Azul'
 ---
 
 Está [Sony WH-XB900N - Auriculares Inalámbricos Noise Cancelling  Bluetooth  Extra Bass  30h de batería  Carga Rápida  Óptimo para trabajar  Micro para llamadas manos libres   Azul](https://www.amazon.es/dp/B07RT5YMF5/?tag=tolees-21) con 48.40 de descuento por 129.0 EUR (original: 250.0 EUR) en el siguiente enlace!

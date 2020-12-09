@@ -14,7 +14,7 @@ currency: EUR
 price: 25.95
 comparePrice: 85 EUR
 inStock: true
-prodname: HETP Power Bank 24800mAH Batería Externa Carga Rapida Ultra Capacidad Cargador Portátil Móvil con 2 Puertos Salidas USB 2.1A y 1.0A Alta Velocidad Batería Portátil para Móvil Tabletas y Más
+prodname: 'HETP Power Bank 24800mAH Batería Externa Carga Rapida Ultra Capacidad Cargador Portátil Móvil con 2 Puertos Salidas USB 2.1A y 1.0A Alta Velocidad Batería Portátil para Móvil Tabletas y Más'
 ---
 
 Tienes [HETP Power Bank 24800mAH Batería Externa Carga Rapida Ultra Capacidad Cargador Portátil Móvil con 2 Puertos Salidas USB 2.1A y 1.0A Alta Velocidad Batería Portátil para Móvil Tabletas y Más](https://www.amazon.es/dp/B07MPT1WZK/?tag=tolees-21) con un 69.47 % de descuento con precio de oferta de 25.95 EUR (original: 85 EUR) en el siguiente enlace!

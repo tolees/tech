@@ -14,7 +14,7 @@ currency: USD
 price: 4.47
 comparePrice: 7.29 USD
 inStock: true
-prodname: Apple Barrel Acrylic Paint in Assorted Colors  16 Ounce   21142 Cobalt Blue
+prodname: 'Apple Barrel Acrylic Paint in Assorted Colors  16 Ounce   21142 Cobalt Blue'
 ---
 
 Está [Apple Barrel Acrylic Paint in Assorted Colors  16 Ounce   21142 Cobalt Blue](https://www.amazon.com/dp/B0018NBURK/?tag=tolees-20) con 38.68 de descuento por 4.47 USD (original: 7.29 USD) en el siguiente enlace!

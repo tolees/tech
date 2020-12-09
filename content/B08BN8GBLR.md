@@ -14,7 +14,7 @@ currency: EUR
 price: 5.72
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Cable USB C 3A [3Pack 1M+2M+2M] Cable USB Tipo C a USB A Carga Rápida Nylon Duradero Trenzado para Samsung S20 S10 S9 S8 A50 A70 Huawei P30 P20 Mate 20 Xiaomi Redmi Note 7 Sony Xperia Nintendo Switch
+prodname: 'Cable USB C 3A [3Pack 1M+2M+2M] Cable USB Tipo C a USB A Carga Rápida Nylon Duradero Trenzado para Samsung S20 S10 S9 S8 A50 A70 Huawei P30 P20 Mate 20 Xiaomi Redmi Note 7 Sony Xperia Nintendo Switch'
 ---
 
 Está [Cable USB C 3A [3Pack 1M+2M+2M] Cable USB Tipo C a USB A Carga Rápida Nylon Duradero Trenzado para Samsung S20 S10 S9 S8 A50 A70 Huawei P30 P20 Mate 20 Xiaomi Redmi Note 7 Sony Xperia Nintendo Switch](https://www.amazon.es/dp/B08BN8GBLR/?tag=tolees-21) con 64.23 de descuento por 5.72 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Panasonic RP-BTS35E-A - Auriculares Deportivos inalámbricos In-Ear con Bluetooth  Color Azul
+prodname: 'Panasonic RP-BTS35E-A - Auriculares Deportivos inalámbricos In-Ear con Bluetooth  Color Azul'
 ---
 
 Tienes [Panasonic RP-BTS35E-A - Auriculares Deportivos inalámbricos In-Ear con Bluetooth  Color Azul](https://www.amazon.es/dp/B07FCX7WYF/?tag=tolees-21) con un 56.26 % de descuento con precio de oferta de 34.99 EUR (original: 79.99 EUR) en el siguiente enlace!

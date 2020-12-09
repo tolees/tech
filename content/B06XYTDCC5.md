@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: SanDisk - Tarjeta de Memoria Extreme 32 GB microSDHC para cámaras de Deportes de acción + Adaptador SD  Velocidad de Lectura hasta 100 MB/s  Clase 10  U3  V30 y A1
+prodname: 'SanDisk - Tarjeta de Memoria Extreme 32 GB microSDHC para cámaras de Deportes de acción + Adaptador SD  Velocidad de Lectura hasta 100 MB/s  Clase 10  U3  V30 y A1'
 ---
 
 Está [SanDisk - Tarjeta de Memoria Extreme 32 GB microSDHC para cámaras de Deportes de acción + Adaptador SD  Velocidad de Lectura hasta 100 MB/s  Clase 10  U3  V30 y A1](https://www.amazon.es/dp/B06XYTDCC5/?tag=tolees-21) con 38.49 de descuento por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!

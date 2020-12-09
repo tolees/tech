@@ -14,7 +14,7 @@ currency: EUR
 price: 12.75
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Retro Gaming - Player S Kit 6 En 1  PS4 
+prodname: 'Retro Gaming - Player S Kit 6 En 1  PS4 '
 ---
 
 Está [Retro Gaming - Player S Kit 6 En 1  PS4 ](https://www.amazon.es/dp/B01N0OYN4C/?tag=tolees-21) con 63.56 de descuento por 12.75 EUR (original: 34.99 EUR) en el siguiente enlace!

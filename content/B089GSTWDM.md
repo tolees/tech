@@ -14,7 +14,7 @@ currency: EUR
 price: 18.79
 comparePrice: 29.99 EUR
 inStock: true
-prodname: NIYPS Webcam PC con Microfono  HD 1080P Webcam para Portatil/Ordenador/Mac USB 2.0 Web Camera PC para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio
+prodname: 'NIYPS Webcam PC con Microfono  HD 1080P Webcam para Portatil/Ordenador/Mac USB 2.0 Web Camera PC para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio'
 ---
 
 Ahora mismo tienes [NIYPS Webcam PC con Microfono  HD 1080P Webcam para Portatil/Ordenador/Mac USB 2.0 Web Camera PC para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio](https://www.amazon.es/dp/B089GSTWDM/?tag=tolees-21) a 18.79 EUR (original: 29.99 EUR) (37.35 %  de descuento) en el siguiente enlace!

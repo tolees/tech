@@ -14,7 +14,7 @@ currency: EUR
 price: 1455.0
 comparePrice: 1949.0 EUR
 inStock: true
-prodname: Samsung Galaxy Z Fold2 5G  faltbares Handy ohne Vertrag  flexibles  großes 7 5 Zoll Display  3 Kameras  ausdauernder Akku  256 GB Speicher  Handy zum Falten in Schwarz
+prodname: 'Samsung Galaxy Z Fold2 5G  faltbares Handy ohne Vertrag  flexibles  großes 7 5 Zoll Display  3 Kameras  ausdauernder Akku  256 GB Speicher  Handy zum Falten in Schwarz'
 ---
 
 Está [Samsung Galaxy Z Fold2 5G  faltbares Handy ohne Vertrag  flexibles  großes 7 5 Zoll Display  3 Kameras  ausdauernder Akku  256 GB Speicher  Handy zum Falten in Schwarz](https://www.amazon.de/dp/B08DRFYPFC/?tag=tolees0ca-21) con 25.35 de descuento por 1455.0 EUR (original: 1949.0 EUR) en el siguiente enlace!

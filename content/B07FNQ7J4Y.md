@@ -14,7 +14,7 @@ currency: EUR
 price: 92.9
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Microsoft Type Cover Signature Surface Go Bleu Cobalt  Alcantara  AZERTY
+prodname: 'Microsoft Type Cover Signature Surface Go Bleu Cobalt  Alcantara  AZERTY'
 ---
 
 Tienes [Microsoft Type Cover Signature Surface Go Bleu Cobalt  Alcantara  AZERTY](https://www.amazon.fr/dp/B07FNQ7J4Y/?tag=tolees0d-21) con un 28.53 % de descuento con precio de oferta de 92.9 EUR (original: 129.99 EUR) en el siguiente enlace!

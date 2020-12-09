@@ -14,7 +14,7 @@ currency: GBP
 price: 8.99
 comparePrice: 13.99 GBP
 inStock: true
-prodname: SanDisk Cruzer Fit 64GB USB 2.0 Flash Drive
+prodname: 'SanDisk Cruzer Fit 64GB USB 2.0 Flash Drive'
 ---
 
 Está [SanDisk Cruzer Fit 64GB USB 2.0 Flash Drive](https://www.amazon.co.uk/dp/B07MDXBTL1/?tag=tolees0a-21) con 35.74 de descuento por 8.99 GBP (original: 13.99 GBP) en el siguiente enlace!

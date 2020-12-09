@@ -14,7 +14,7 @@ currency: EUR
 price: 26.31
 comparePrice: 49.99 EUR
 inStock: true
-prodname: AIMIUVEI Smartwatch  Reloj Inteligente IP67 con Pulsómetro  Presión Arterial  7 Modos de Deportes  Monitor de Sueño Caloría 1.4 Inch Pantalla Táctil Smartwatch para Mujer y Hombre
+prodname: 'AIMIUVEI Smartwatch  Reloj Inteligente IP67 con Pulsómetro  Presión Arterial  7 Modos de Deportes  Monitor de Sueño Caloría 1.4 Inch Pantalla Táctil Smartwatch para Mujer y Hombre'
 ---
 
 Ahora mismo tienes [AIMIUVEI Smartwatch  Reloj Inteligente IP67 con Pulsómetro  Presión Arterial  7 Modos de Deportes  Monitor de Sueño Caloría 1.4 Inch Pantalla Táctil Smartwatch para Mujer y Hombre](https://www.amazon.es/dp/B085ZTGQJK/?tag=tolees-21) a 26.31 EUR (original: 49.99 EUR) (47.37 %  de descuento) en el siguiente enlace!

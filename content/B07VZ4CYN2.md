@@ -14,7 +14,7 @@ currency: EUR
 price: 18.39
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Bascula de Baño  Báscula Inteligente Bluetooth Mpow Báscula Grasa Corporal Digital 13 Mediciones Esenciales: BMI  Grasa Corporal ect  IOS / Android  Compatible con Apple Health  Google Fit  Fitbit App
+prodname: 'Bascula de Baño  Báscula Inteligente Bluetooth Mpow Báscula Grasa Corporal Digital 13 Mediciones Esenciales: BMI  Grasa Corporal ect  IOS / Android  Compatible con Apple Health  Google Fit  Fitbit App'
 ---
 
 Está [Bascula de Baño  Báscula Inteligente Bluetooth Mpow Báscula Grasa Corporal Digital 13 Mediciones Esenciales: BMI  Grasa Corporal ect  IOS / Android  Compatible con Apple Health  Google Fit  Fitbit App](https://www.amazon.es/dp/B07VZ4CYN2/?tag=tolees-21) con 31.89 de descuento por 18.39 EUR (original: 27.0 EUR) en el siguiente enlace!

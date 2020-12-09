@@ -14,7 +14,7 @@ currency: EUR
 price: 23.97
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Luckies of London lukpro Smartphone
+prodname: 'Luckies of London lukpro Smartphone'
 ---
 
 Está [Luckies of London lukpro Smartphone](https://www.amazon.es/dp/B018ETZABW/?tag=tolees-21) con 31.51 de descuento por 23.97 EUR (original: 35.0 EUR) en el siguiente enlace!

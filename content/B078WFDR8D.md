@@ -14,7 +14,7 @@ currency: USD
 price: 99.99
 comparePrice: 149.99 USD
 inStock: true
-prodname: Sony STRDH190 2-ch Home Stereo Receiver with Phono Inputs & Bluetooth
+prodname: 'Sony STRDH190 2-ch Home Stereo Receiver with Phono Inputs & Bluetooth'
 ---
 
 Tienes [Sony STRDH190 2-ch Home Stereo Receiver with Phono Inputs & Bluetooth](https://www.amazon.com/dp/B078WFDR8D/?tag=tolees-20) con un 33.34 % de descuento con precio de oferta de 99.99 USD (original: 149.99 USD) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: CLEEFUN Cavo USB C Lungo[3m  2Pezzi]  3A Cavo USB A a USB Type C Ricarica Rapida Cavi Tipo C in Nylon Compatibile per Samsung Galaxy  Xiaomi Redmi  Sony  Moto  HTC  ECC - Blu
+prodname: 'CLEEFUN Cavo USB C Lungo[3m  2Pezzi]  3A Cavo USB A a USB Type C Ricarica Rapida Cavi Tipo C in Nylon Compatibile per Samsung Galaxy  Xiaomi Redmi  Sony  Moto  HTC  ECC - Blu'
 ---
 
 Está [CLEEFUN Cavo USB C Lungo[3m  2Pezzi]  3A Cavo USB A a USB Type C Ricarica Rapida Cavi Tipo C in Nylon Compatibile per Samsung Galaxy  Xiaomi Redmi  Sony  Moto  HTC  ECC - Blu](https://www.amazon.it/dp/B089GRYJK6/?tag=tolees00-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

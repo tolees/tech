@@ -14,7 +14,7 @@ currency: EUR
 price: 205.98
 comparePrice: 279.0 EUR
 inStock: true
-prodname: TOMTOM Navigationsgerät GO 620  6 Zoll  Stauvermeidung dank TOMTOM Traffic  Karten-Updates Welt  Updates über Wi-Fi  Freisprechen 
+prodname: 'TOMTOM Navigationsgerät GO 620  6 Zoll  Stauvermeidung dank TOMTOM Traffic  Karten-Updates Welt  Updates über Wi-Fi  Freisprechen '
 ---
 
 Tienes [TOMTOM Navigationsgerät GO 620  6 Zoll  Stauvermeidung dank TOMTOM Traffic  Karten-Updates Welt  Updates über Wi-Fi  Freisprechen ](https://www.amazon.de/dp/B01KCRNFVG/?tag=tolees0ca-21) con un 26.17 % de descuento con precio de oferta de 205.98 EUR (original: 279.0 EUR) en el siguiente enlace!

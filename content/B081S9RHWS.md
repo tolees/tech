@@ -14,7 +14,7 @@ currency: EUR
 price: 71.5
 comparePrice: 110.0 EUR
 inStock: true
-prodname: VUPOINT Share Q Mini Lifestyle  Sport  Action  Waterproof 1080p Full HD Video Camera  Built-in Lightning Connector  MicroSD Card  White
+prodname: 'VUPOINT Share Q Mini Lifestyle  Sport  Action  Waterproof 1080p Full HD Video Camera  Built-in Lightning Connector  MicroSD Card  White'
 ---
 
 Tienes [VUPOINT Share Q Mini Lifestyle  Sport  Action  Waterproof 1080p Full HD Video Camera  Built-in Lightning Connector  MicroSD Card  White](https://www.amazon.es/dp/B081S9RHWS/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 71.5 EUR (original: 110.0 EUR) en el siguiente enlace!

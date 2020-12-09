@@ -14,7 +14,7 @@ currency: EUR
 price: 21.24
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Victure Cámara Vigilancia WiFi  Actualizada 1080P DualBand 2.4G & 5G  Cámara IP WiFi  HD Visión Nocturna  Audio de 2 Vías Detección de Movimiento Via IPC360 Home App
+prodname: 'Victure Cámara Vigilancia WiFi  Actualizada 1080P DualBand 2.4G & 5G  Cámara IP WiFi  HD Visión Nocturna  Audio de 2 Vías Detección de Movimiento Via IPC360 Home App'
 ---
 
 Tienes [Victure Cámara Vigilancia WiFi  Actualizada 1080P DualBand 2.4G & 5G  Cámara IP WiFi  HD Visión Nocturna  Audio de 2 Vías Detección de Movimiento Via IPC360 Home App](https://www.amazon.es/dp/B07WHGMJZ1/?tag=tolees-21) con un 29.18 % de descuento con precio de oferta de 21.24 EUR (original: 29.99 EUR) en el siguiente enlace!

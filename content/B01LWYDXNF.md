@@ -14,7 +14,7 @@ currency: EUR
 price: 75.99
 comparePrice: 105.99 EUR
 inStock: true
-prodname: Neewer Monitor Campo F200 Ultra Delgado Pantalla IPS 1080P Full HD 1920x1200 Compatible con 4k Entrada HDMI Histograma Asistente Enfoque Indicación Sobreexposición para Cámara DSLR
+prodname: 'Neewer Monitor Campo F200 Ultra Delgado Pantalla IPS 1080P Full HD 1920x1200 Compatible con 4k Entrada HDMI Histograma Asistente Enfoque Indicación Sobreexposición para Cámara DSLR'
 ---
 
 Tienes [Neewer Monitor Campo F200 Ultra Delgado Pantalla IPS 1080P Full HD 1920x1200 Compatible con 4k Entrada HDMI Histograma Asistente Enfoque Indicación Sobreexposición para Cámara DSLR](https://www.amazon.es/dp/B01LWYDXNF/?tag=tolees-21) con un 28.30 % de descuento con precio de oferta de 75.99 EUR (original: 105.99 EUR) en el siguiente enlace!

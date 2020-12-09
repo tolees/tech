@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 494.84 EUR
 inStock: true
-prodname: Linksys LGS124P-EU - Unmanaged Switch Gigabit PoE + en bastidor para empresas  24 puertos  detección automática  1000 Mbps  optimización del rendimiento  Plug and Play   negro
+prodname: 'Linksys LGS124P-EU - Unmanaged Switch Gigabit PoE + en bastidor para empresas  24 puertos  detección automática  1000 Mbps  optimización del rendimiento  Plug and Play   negro'
 ---
 
 Está [Linksys LGS124P-EU - Unmanaged Switch Gigabit PoE + en bastidor para empresas  24 puertos  detección automática  1000 Mbps  optimización del rendimiento  Plug and Play   negro](https://www.amazon.es/dp/B00GK63ZEQ/?tag=tolees-21) con 69.69 de descuento por 149.99 EUR (original: 494.84 EUR) en el siguiente enlace!

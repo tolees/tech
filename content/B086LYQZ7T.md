@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Microsoft Office Famille et Etudiant 2019 - 1 PC ou Mac - achat définitif  envoi par la poste 
+prodname: 'Microsoft Office Famille et Etudiant 2019 - 1 PC ou Mac - achat définitif  envoi par la poste '
 ---
 
 Tienes [Microsoft Office Famille et Etudiant 2019 - 1 PC ou Mac - achat définitif  envoi par la poste ](https://www.amazon.fr/dp/B086LYQZ7T/?tag=tolees0d-21) con un 39.60 % de descuento con precio de oferta de 89.99 EUR (original: 149.0 EUR) en el siguiente enlace!

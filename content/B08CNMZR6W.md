@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Nba 2K21 Standard Plus Edition - Esclusiva Amazon - Xbox One
+prodname: 'Nba 2K21 Standard Plus Edition - Esclusiva Amazon - Xbox One'
 ---
 
 Ahora mismo tienes [Nba 2K21 Standard Plus Edition - Esclusiva Amazon - Xbox One](https://www.amazon.it/dp/B08CNMZR6W/?tag=tolees00-21) a 40.99 EUR (original: 70.99 EUR) (42.26 %  de descuento) en el siguiente enlace!

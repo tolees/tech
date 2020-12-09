@@ -14,7 +14,7 @@ currency: EUR
 price: 16.69
 comparePrice: 29.99 EUR
 inStock: true
-prodname: SanDisk Memoria Flash Ultra USB 3.0 de 128 GB  hasta 130 MB/s velocidad de lectura
+prodname: 'SanDisk Memoria Flash Ultra USB 3.0 de 128 GB  hasta 130 MB/s velocidad de lectura'
 ---
 
 Ahora mismo tienes [SanDisk Memoria Flash Ultra USB 3.0 de 128 GB  hasta 130 MB/s velocidad de lectura](https://www.amazon.es/dp/B00P8XQPY4/?tag=tolees-21) a 16.69 EUR (original: 29.99 EUR) (44.35 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.76
 comparePrice: 120.99 EUR
 inStock: true
-prodname: Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSATA 
+prodname: 'Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSATA '
 ---
 
 Está [Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSATA ](https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21) con 53.91 de descuento por 55.76 EUR (original: 120.99 EUR) en el siguiente enlace!

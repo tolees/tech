@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 189.99 EUR
 inStock: true
-prodname: WONNIE 10.5” Reproductor de DVD para Reposacabeza de Coche 1080P Monitor para Niños HDMI In AV In/out Soporta SD/USB con Auriculares  Región Libre
+prodname: 'WONNIE 10.5” Reproductor de DVD para Reposacabeza de Coche 1080P Monitor para Niños HDMI In AV In/out Soporta SD/USB con Auriculares  Región Libre'
 ---
 
 Está [WONNIE 10.5” Reproductor de DVD para Reposacabeza de Coche 1080P Monitor para Niños HDMI In AV In/out Soporta SD/USB con Auriculares  Región Libre](https://www.amazon.es/dp/B08HDCXD2F/?tag=tolees-21) con 42.11 de descuento por 109.99 EUR (original: 189.99 EUR) en el siguiente enlace!

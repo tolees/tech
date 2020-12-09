@@ -14,7 +14,7 @@ currency: GBP
 price: 8.0
 comparePrice: 13.99 GBP
 inStock: true
-prodname: Tom Clancy s Rainbow Six Siege  Xbox One 
+prodname: 'Tom Clancy s Rainbow Six Siege  Xbox One '
 ---
 
 Está [Tom Clancy s Rainbow Six Siege  Xbox One ](https://www.amazon.co.uk/dp/B00KJGJPP6/?tag=tolees0a-21) con 42.82 de descuento por 8.0 GBP (original: 13.99 GBP) en el siguiente enlace!

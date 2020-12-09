@@ -14,7 +14,7 @@ currency: EUR
 price: 22.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Jalouza - Cadena de teléfono móvil compatible con Apple iPhone 11  tarjetero con protección RFID + cadena en plata con funda para colgar + cordón negro para cambiar
+prodname: 'Jalouza - Cadena de teléfono móvil compatible con Apple iPhone 11  tarjetero con protección RFID + cadena en plata con funda para colgar + cordón negro para cambiar'
 ---
 
 Está [Jalouza - Cadena de teléfono móvil compatible con Apple iPhone 11  tarjetero con protección RFID + cadena en plata con funda para colgar + cordón negro para cambiar](https://www.amazon.es/dp/B08GPT99PX/?tag=tolees-21) con 34.33 de descuento por 22.95 EUR (original: 34.95 EUR) en el siguiente enlace!

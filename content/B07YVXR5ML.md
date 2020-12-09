@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 199.95 EUR
 inStock: true
-prodname: Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Oro rosa
+prodname: 'Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Oro rosa'
 ---
 
 Está [Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Oro rosa](https://www.amazon.es/dp/B07YVXR5ML/?tag=tolees-21) con 35.48 de descuento por 129.0 EUR (original: 199.95 EUR) en el siguiente enlace!

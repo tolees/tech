@@ -14,7 +14,7 @@ currency: EUR
 price: 129.94
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Tamron A17E - Objetivo para Canon  70-300 mm  f/4-5.6  Macro  AF  62 mm   color negro
+prodname: 'Tamron A17E - Objetivo para Canon  70-300 mm  f/4-5.6  Macro  AF  62 mm   color negro'
 ---
 
 Tienes [Tamron A17E - Objetivo para Canon  70-300 mm  f/4-5.6  Macro  AF  62 mm   color negro](https://www.amazon.es/dp/B000HDZAUA/?tag=tolees-21) con un 27.41 % de descuento con precio de oferta de 129.94 EUR (original: 179.0 EUR) en el siguiente enlace!

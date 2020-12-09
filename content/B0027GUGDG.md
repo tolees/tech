@@ -14,7 +14,7 @@ currency: GBP
 price: 69.99
 comparePrice: 101.49 GBP
 inStock: true
-prodname: Netgear JGS524-200EUS 24-Port Gigabit Ethernet Network Switch  Desktop/Rackmount  and ProSafe Lifetime Protection
+prodname: 'Netgear JGS524-200EUS 24-Port Gigabit Ethernet Network Switch  Desktop/Rackmount  and ProSafe Lifetime Protection'
 ---
 
 Está [Netgear JGS524-200EUS 24-Port Gigabit Ethernet Network Switch  Desktop/Rackmount  and ProSafe Lifetime Protection](https://www.amazon.co.uk/dp/B0027GUGDG/?tag=tolees0a-21) con 31.04 de descuento por 69.99 GBP (original: 101.49 GBP) en el siguiente enlace!

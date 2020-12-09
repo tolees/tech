@@ -14,7 +14,7 @@ currency: GBP
 price: 21.74
 comparePrice: 30.99 GBP
 inStock: true
-prodname: Jelly Comb Wireless Bluetooth Keyboard  Rechargeable Wireless Keyboard QWERTY UK Layout for Laptop/Computer/MacBook/iMac  Win/iOS/Mac OS/Android  White
+prodname: 'Jelly Comb Wireless Bluetooth Keyboard  Rechargeable Wireless Keyboard QWERTY UK Layout for Laptop/Computer/MacBook/iMac  Win/iOS/Mac OS/Android  White'
 ---
 
 Está [Jelly Comb Wireless Bluetooth Keyboard  Rechargeable Wireless Keyboard QWERTY UK Layout for Laptop/Computer/MacBook/iMac  Win/iOS/Mac OS/Android  White](https://www.amazon.co.uk/dp/B0832XJCWC/?tag=tolees0a-21) con 29.85 de descuento por 21.74 GBP (original: 30.99 GBP) en el siguiente enlace!

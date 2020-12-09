@@ -14,7 +14,7 @@ currency: EUR
 price: 66.69
 comparePrice: 110.0 EUR
 inStock: true
-prodname: La Crosse Technology WS6890 Station Météo Colorée avec Enceinte Bluetooth - Noir
+prodname: 'La Crosse Technology WS6890 Station Météo Colorée avec Enceinte Bluetooth - Noir'
 ---
 
 Tienes [La Crosse Technology WS6890 Station Météo Colorée avec Enceinte Bluetooth - Noir](https://www.amazon.fr/dp/B01HTL4F5I/?tag=tolees0d-21) con un 39.37 % de descuento con precio de oferta de 66.69 EUR (original: 110.0 EUR) en el siguiente enlace!

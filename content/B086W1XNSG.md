@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Fossil Connected Smartwatch Gen 5 para Hombre con pantalla táctil   altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch
+prodname: 'Fossil Connected Smartwatch Gen 5 para Hombre con pantalla táctil   altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch'
 ---
 
 Tienes [Fossil Connected Smartwatch Gen 5 para Hombre con pantalla táctil   altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch](https://www.amazon.es/dp/B086W1XNSG/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 199.0 EUR (original: 299.0 EUR) en el siguiente enlace!

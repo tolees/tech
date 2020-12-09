@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Auriculares inalámbricos Bluetooth Auriculares 5.0 Reducción de Ruido inalámbrica Hi-Fi Deportes inalámbricos Estéreo en la Oreja Auriculares Bluetooth Mini Auriculares para iOS Android （BL-23）
+prodname: 'Auriculares inalámbricos Bluetooth Auriculares 5.0 Reducción de Ruido inalámbrica Hi-Fi Deportes inalámbricos Estéreo en la Oreja Auriculares Bluetooth Mini Auriculares para iOS Android （BL-23）'
 ---
 
 Tienes [Auriculares inalámbricos Bluetooth Auriculares 5.0 Reducción de Ruido inalámbrica Hi-Fi Deportes inalámbricos Estéreo en la Oreja Auriculares Bluetooth Mini Auriculares para iOS Android （BL-23）](https://www.amazon.es/dp/B08GCLGYP4/?tag=tolees-21) con un 74.70 % de descuento con precio de oferta de 19.99 EUR (original: 79.0 EUR) en el siguiente enlace!

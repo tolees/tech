@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Amazon Echo Spot - Reloj despertador inteligente con Alexa  blanco
+prodname: 'Amazon Echo Spot - Reloj despertador inteligente con Alexa  blanco'
 ---
 
 Tienes [Amazon Echo Spot - Reloj despertador inteligente con Alexa  blanco](https://www.amazon.es/dp/B07BRCJSVF/?tag=tolees-21) con un 46.16 % de descuento con precio de oferta de 69.99 EUR (original: 129.99 EUR) en el siguiente enlace!

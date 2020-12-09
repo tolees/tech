@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Mars Gaming MM118  Ratón Gaming 9800DPI  iluminación LED RGB  6 Botones  Negro
+prodname: 'Mars Gaming MM118  Ratón Gaming 9800DPI  iluminación LED RGB  6 Botones  Negro'
 ---
 
 Tienes [Mars Gaming MM118  Ratón Gaming 9800DPI  iluminación LED RGB  6 Botones  Negro](https://www.amazon.es/dp/B07HYS7P1T/?tag=tolees-21) con un 30.79 % de descuento con precio de oferta de 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: GBP
 price: 74.99
 comparePrice: 104.99 GBP
 inStock: true
-prodname: WD 4 TB My Passport Portable Hard Drive with Password Protection and Auto Backup Software - Red - Works with PC  Xbox and PS4
+prodname: 'WD 4 TB My Passport Portable Hard Drive with Password Protection and Auto Backup Software - Red - Works with PC  Xbox and PS4'
 ---
 
 Ahora mismo tienes [WD 4 TB My Passport Portable Hard Drive with Password Protection and Auto Backup Software - Red - Works with PC  Xbox and PS4](https://www.amazon.co.uk/dp/B07VSH3ML6/?tag=tolees0a-21) a 74.99 GBP (original: 104.99 GBP) (28.57 %  de descuento) en el siguiente enlace!

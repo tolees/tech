@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Lámpara de lectura recargable de 15 LED Moobibear  3 Modos de Brillo  Cálido  Blanca y Mixto  lampara led pinza flexible 360 ° para Lectores Noche  Cama  Niños  Kindle  Estudio  Tablet  Laptops
+prodname: 'Lámpara de lectura recargable de 15 LED Moobibear  3 Modos de Brillo  Cálido  Blanca y Mixto  lampara led pinza flexible 360 ° para Lectores Noche  Cama  Niños  Kindle  Estudio  Tablet  Laptops'
 ---
 
 Ahora mismo tienes [Lámpara de lectura recargable de 15 LED Moobibear  3 Modos de Brillo  Cálido  Blanca y Mixto  lampara led pinza flexible 360 ° para Lectores Noche  Cama  Niños  Kindle  Estudio  Tablet  Laptops](https://www.amazon.es/dp/B07GVLXJG6/?tag=tolees-21) a 15.99 EUR (original: 32.99 EUR) (51.53 %  de descuento) en el siguiente enlace!

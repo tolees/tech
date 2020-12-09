@@ -14,7 +14,7 @@ currency: USD
 price: 13.83
 comparePrice: 39.99 USD
 inStock: true
-prodname: Kingdom Hearts III - PlayStation 4
+prodname: 'Kingdom Hearts III - PlayStation 4'
 ---
 
 Está [Kingdom Hearts III - PlayStation 4](https://www.amazon.com/dp/B00DBF81JS/?tag=tolees-20) con 65.42 de descuento por 13.83 USD (original: 39.99 USD) en el siguiente enlace!

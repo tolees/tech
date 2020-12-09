@@ -14,7 +14,7 @@ currency: EUR
 price: 89.9
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Linksys MR8300 Router Tri-Band Mesh AC2200  Compatibile con il Sistema Wi-Fi Mesh per Tutta la Casa Linksys Velop  4 Porte Gigabit Ethernet  Filtro Famiglia tramite l App Linksys  Funziona con Alexa
+prodname: 'Linksys MR8300 Router Tri-Band Mesh AC2200  Compatibile con il Sistema Wi-Fi Mesh per Tutta la Casa Linksys Velop  4 Porte Gigabit Ethernet  Filtro Famiglia tramite l App Linksys  Funziona con Alexa'
 ---
 
 Ahora mismo tienes [Linksys MR8300 Router Tri-Band Mesh AC2200  Compatibile con il Sistema Wi-Fi Mesh per Tutta la Casa Linksys Velop  4 Porte Gigabit Ethernet  Filtro Famiglia tramite l App Linksys  Funziona con Alexa](https://www.amazon.it/dp/B07QYGCGS7/?tag=tolees00-21) a 89.9 EUR (original: 149.99 EUR) (40.06 %  de descuento) en el siguiente enlace!

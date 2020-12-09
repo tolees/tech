@@ -14,7 +14,7 @@ currency: EUR
 price: 119.95
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Garmin Reloj GPS de Running  Unisex-Adultos  Negro  S
+prodname: 'Garmin Reloj GPS de Running  Unisex-Adultos  Negro  S'
 ---
 
 Tienes [Garmin Reloj GPS de Running  Unisex-Adultos  Negro  S](https://www.amazon.es/dp/B07YKY8PSJ/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 119.95 EUR (original: 199.99 EUR) en el siguiente enlace!

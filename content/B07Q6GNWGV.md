@@ -14,7 +14,7 @@ currency: EUR
 price: 79.9
 comparePrice: 116.0 EUR
 inStock: true
-prodname: D-Link DIR-2660 Router EXO AC2600 Wave 2  Smart Mesh Wi-Fi  McAfee Integrato  Gigabit  USB 3.0  Parental Control  Funziona con Alexa
+prodname: 'D-Link DIR-2660 Router EXO AC2600 Wave 2  Smart Mesh Wi-Fi  McAfee Integrato  Gigabit  USB 3.0  Parental Control  Funziona con Alexa'
 ---
 
 Ahora mismo tienes [D-Link DIR-2660 Router EXO AC2600 Wave 2  Smart Mesh Wi-Fi  McAfee Integrato  Gigabit  USB 3.0  Parental Control  Funziona con Alexa](https://www.amazon.it/dp/B07Q6GNWGV/?tag=tolees00-21) a 79.9 EUR (original: 116.0 EUR) (31.12 %  de descuento) en el siguiente enlace!

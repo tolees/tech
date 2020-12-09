@@ -14,7 +14,7 @@ currency: GBP
 price: 554.29
 comparePrice: 799.0 GBP
 inStock: true
-prodname: Samsung Galaxy S10 Mobile Phone; Sim Free Smartphone - Prism Black  UK Version 
+prodname: 'Samsung Galaxy S10 Mobile Phone; Sim Free Smartphone - Prism Black  UK Version '
 ---
 
 Está [Samsung Galaxy S10 Mobile Phone; Sim Free Smartphone - Prism Black  UK Version ](https://www.amazon.co.uk/dp/B07NWR7QYQ/?tag=tolees0a-21) con 30.63 de descuento por 554.29 GBP (original: 799.0 GBP) en el siguiente enlace!

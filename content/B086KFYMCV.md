@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Burnout Paradise Remastered - [Nintendo Switch] - [Nintendo Switch]
+prodname: 'Burnout Paradise Remastered - [Nintendo Switch] - [Nintendo Switch]'
 ---
 
 Tienes [Burnout Paradise Remastered - [Nintendo Switch] - [Nintendo Switch]](https://www.amazon.de/dp/B086KFYMCV/?tag=tolees0ca-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

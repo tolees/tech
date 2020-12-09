@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 29.23 EUR
 inStock: true
-prodname: Tractive GPS Tracker für Hunde - Peilsender mit unlimitierter Reichweite
+prodname: 'Tractive GPS Tracker für Hunde - Peilsender mit unlimitierter Reichweite'
 ---
 
 Tienes [Tractive GPS Tracker für Hunde - Peilsender mit unlimitierter Reichweite](https://www.amazon.de/dp/B00F8A1ZBA/?tag=tolees0ca-21) con un 45.30 % de descuento con precio de oferta de 15.99 EUR (original: 29.23 EUR) en el siguiente enlace!

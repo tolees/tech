@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Bolsa de Ordenador portátil de 17 Pulgadas  Maletín de Negocios  Bolsa de Mensajero Grande Water Resisatant Multifuncional
+prodname: 'Bolsa de Ordenador portátil de 17 Pulgadas  Maletín de Negocios  Bolsa de Mensajero Grande Water Resisatant Multifuncional'
 ---
 
 Está [Bolsa de Ordenador portátil de 17 Pulgadas  Maletín de Negocios  Bolsa de Mensajero Grande Water Resisatant Multifuncional](https://www.amazon.es/dp/B078YPVSD9/?tag=tolees-21) con 34.01 de descuento por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

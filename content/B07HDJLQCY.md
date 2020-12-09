@@ -14,7 +14,7 @@ currency: USD
 price: 29.99
 comparePrice: 59.99 USD
 inStock: true
-prodname: DOOM Eternal: Standard Edition - Xbox One
+prodname: 'DOOM Eternal: Standard Edition - Xbox One'
 ---
 
 Tienes [DOOM Eternal: Standard Edition - Xbox One](https://www.amazon.com/dp/B07HDJLQCY/?tag=tolees-20) con un 50.01 % de descuento con precio de oferta de 29.99 USD (original: 59.99 USD) en el siguiente enlace!

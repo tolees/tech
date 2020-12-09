@@ -14,7 +14,7 @@ currency: EUR
 price: 26.39
 comparePrice: 69.99 EUR
 inStock: true
-prodname: HAMSWAN Reloj Inteligente  [Regalos para Padre] Smartwatch Bluetooth para Andriod con Cámara Facebook Whatsapp Twitter Cronómetro Pódometro Monitor de Dormir etc. Soporte Tarjeta TF SIM
+prodname: 'HAMSWAN Reloj Inteligente  [Regalos para Padre] Smartwatch Bluetooth para Andriod con Cámara Facebook Whatsapp Twitter Cronómetro Pódometro Monitor de Dormir etc. Soporte Tarjeta TF SIM'
 ---
 
 Tienes [HAMSWAN Reloj Inteligente  [Regalos para Padre] Smartwatch Bluetooth para Andriod con Cámara Facebook Whatsapp Twitter Cronómetro Pódometro Monitor de Dormir etc. Soporte Tarjeta TF SIM](https://www.amazon.es/dp/B07GNKSP8Q/?tag=tolees-21) con un 62.29 % de descuento con precio de oferta de 26.39 EUR (original: 69.99 EUR) en el siguiente enlace!

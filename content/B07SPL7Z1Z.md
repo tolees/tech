@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 239.99 EUR
 inStock: true
-prodname: YESKAMO Cámara de Vigilancia WiFi Exterior Full HD 1080P con Batería Recargable Energia Solar Cámara Vigilancia IP WiFi Exterior con Audio Bidireccional y Detección Movimiento Panel Solar Incluido
+prodname: 'YESKAMO Cámara de Vigilancia WiFi Exterior Full HD 1080P con Batería Recargable Energia Solar Cámara Vigilancia IP WiFi Exterior con Audio Bidireccional y Detección Movimiento Panel Solar Incluido'
 ---
 
 Ahora mismo tienes [YESKAMO Cámara de Vigilancia WiFi Exterior Full HD 1080P con Batería Recargable Energia Solar Cámara Vigilancia IP WiFi Exterior con Audio Bidireccional y Detección Movimiento Panel Solar Incluido](https://www.amazon.es/dp/B07SPL7Z1Z/?tag=tolees-21) a 109.99 EUR (original: 239.99 EUR) (54.17 %  de descuento) en el siguiente enlace!

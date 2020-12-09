@@ -14,7 +14,7 @@ currency: EUR
 price: 81.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Razer Hammerhead True Wireless Earbuds - Autentico wireless a latenza bassa per un suono immersivo e un vero beneficio di gioco  Design resistente all acqua  Driver da 13 mm  Bluetooth 5.0  Nero
+prodname: 'Razer Hammerhead True Wireless Earbuds - Autentico wireless a latenza bassa per un suono immersivo e un vero beneficio di gioco  Design resistente all acqua  Driver da 13 mm  Bluetooth 5.0  Nero'
 ---
 
 Está [Razer Hammerhead True Wireless Earbuds - Autentico wireless a latenza bassa per un suono immersivo e un vero beneficio di gioco  Design resistente all acqua  Driver da 13 mm  Bluetooth 5.0  Nero](https://www.amazon.it/dp/B07YV8C5NR/?tag=tolees00-21) con 31.67 de descuento por 81.99 EUR (original: 119.99 EUR) en el siguiente enlace!

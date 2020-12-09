@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Ratón Gaming Programable 8 Botones Programables  7 Modos de Iluminación RGB Personalizable  3200 dpi  4 Niveles  Ratones USB para PC  Laptop  MacBook  Gris 
+prodname: 'Ratón Gaming Programable 8 Botones Programables  7 Modos de Iluminación RGB Personalizable  3200 dpi  4 Niveles  Ratones USB para PC  Laptop  MacBook  Gris '
 ---
 
 Ahora mismo tienes [Ratón Gaming Programable 8 Botones Programables  7 Modos de Iluminación RGB Personalizable  3200 dpi  4 Niveles  Ratones USB para PC  Laptop  MacBook  Gris ](https://www.amazon.es/dp/B08FSVXNC2/?tag=tolees-21) a 11.99 EUR (original: 29.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

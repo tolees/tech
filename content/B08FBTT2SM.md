@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 67.03 EUR
 inStock: true
-prodname: Xiaomi Redmi airdots 2 Écouteur Bluetooth 5.0 TWS Écouteur sans fil avec boîtier de chargement IPX5 Casque anti-transpiration anti-bruit Casque micro intégré pour 15heures HIFI【Dernière Version 2020】
+prodname: 'Xiaomi Redmi airdots 2 Écouteur Bluetooth 5.0 TWS Écouteur sans fil avec boîtier de chargement IPX5 Casque anti-transpiration anti-bruit Casque micro intégré pour 15heures HIFI【Dernière Version 2020】'
 ---
 
 Tienes [Xiaomi Redmi airdots 2 Écouteur Bluetooth 5.0 TWS Écouteur sans fil avec boîtier de chargement IPX5 Casque anti-transpiration anti-bruit Casque micro intégré pour 15heures HIFI【Dernière Version 2020】](https://www.amazon.fr/dp/B08FBTT2SM/?tag=tolees0d-21) con un 55.26 % de descuento con precio de oferta de 29.99 EUR (original: 67.03 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 89.9
 comparePrice: 119.9 EUR
 inStock: true
-prodname: NETGEAR Switch Unmanaged PoE+ Gigabit Ethernet 5 porte  GS305PP  - con 4 PoE a 83 W  desktop  design senza ventola in metallo robusto
+prodname: 'NETGEAR Switch Unmanaged PoE+ Gigabit Ethernet 5 porte  GS305PP  - con 4 PoE a 83 W  desktop  design senza ventola in metallo robusto'
 ---
 
 Ahora mismo tienes [NETGEAR Switch Unmanaged PoE+ Gigabit Ethernet 5 porte  GS305PP  - con 4 PoE a 83 W  desktop  design senza ventola in metallo robusto](https://www.amazon.it/dp/B07XR2JVZY/?tag=tolees00-21) a 89.9 EUR (original: 119.9 EUR) (25.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 899.0
 comparePrice: 1249.0 EUR
 inStock: true
-prodname: Samsung C49RG94SSU 124 20 cm  49 Zoll  Curved Gaming Monitor  5120 x 1440 Pixel  Dual WQHD 32:9 Format  120Hz  4ms  schwarz
+prodname: 'Samsung C49RG94SSU 124 20 cm  49 Zoll  Curved Gaming Monitor  5120 x 1440 Pixel  Dual WQHD 32:9 Format  120Hz  4ms  schwarz'
 ---
 
 Tienes [Samsung C49RG94SSU 124 20 cm  49 Zoll  Curved Gaming Monitor  5120 x 1440 Pixel  Dual WQHD 32:9 Format  120Hz  4ms  schwarz](https://www.amazon.de/dp/B07PQ4MPT6/?tag=tolees0ca-21) con un 28.02 % de descuento con precio de oferta de 899.0 EUR (original: 1249.0 EUR) en el siguiente enlace!

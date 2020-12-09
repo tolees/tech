@@ -14,7 +14,7 @@ currency: EUR
 price: 559.88
 comparePrice: 895.83 EUR
 inStock: true
-prodname: Canon Zoomobjektiv EF-S 17-55mm F2.8 IS USM für EOS  77mm Filtergewinde  Bildstabilisator   schwarz
+prodname: 'Canon Zoomobjektiv EF-S 17-55mm F2.8 IS USM für EOS  77mm Filtergewinde  Bildstabilisator   schwarz'
 ---
 
 Está [Canon Zoomobjektiv EF-S 17-55mm F2.8 IS USM für EOS  77mm Filtergewinde  Bildstabilisator   schwarz](https://www.amazon.de/dp/B000EOTZ7G/?tag=tolees0ca-21) con 37.50 de descuento por 559.88 EUR (original: 895.83 EUR) en el siguiente enlace!

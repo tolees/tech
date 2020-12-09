@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Beexcellent Manette pour Switch Pro  Manette sans Fil Bluetooth pour Nintendo Switch Rechargeable Double Moteur Turbo 6-Axis Gyro Compatible pour Switch Lite et PC  Black-2 
+prodname: 'Beexcellent Manette pour Switch Pro  Manette sans Fil Bluetooth pour Nintendo Switch Rechargeable Double Moteur Turbo 6-Axis Gyro Compatible pour Switch Lite et PC  Black-2 '
 ---
 
 Tienes [Beexcellent Manette pour Switch Pro  Manette sans Fil Bluetooth pour Nintendo Switch Rechargeable Double Moteur Turbo 6-Axis Gyro Compatible pour Switch Lite et PC  Black-2 ](https://www.amazon.fr/dp/B08NJYWX8R/?tag=tolees0d-21) con un 41.68 % de descuento con precio de oferta de 20.99 EUR (original: 35.99 EUR) en el siguiente enlace!

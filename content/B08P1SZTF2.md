@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 69.9 EUR
 inStock: true
-prodname: ITALNIC Reloj Inteligente de Actividad física Bluetooth Hombres Mujeres con Oxímetro  Termometro  frecuencia cardíaca  Podómetro Deportivo Calorías GPS Despertador Impermeable IP68 Android iOS
+prodname: 'ITALNIC Reloj Inteligente de Actividad física Bluetooth Hombres Mujeres con Oxímetro  Termometro  frecuencia cardíaca  Podómetro Deportivo Calorías GPS Despertador Impermeable IP68 Android iOS'
 ---
 
 Está [ITALNIC Reloj Inteligente de Actividad física Bluetooth Hombres Mujeres con Oxímetro  Termometro  frecuencia cardíaca  Podómetro Deportivo Calorías GPS Despertador Impermeable IP68 Android iOS](https://www.amazon.es/dp/B08P1SZTF2/?tag=tolees-21) con 64.25 de descuento por 24.99 EUR (original: 69.9 EUR) en el siguiente enlace!

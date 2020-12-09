@@ -14,7 +14,7 @@ currency: GBP
 price: 89.49
 comparePrice: 129.0 GBP
 inStock: true
-prodname: Samsung AKG Y500 Wireless Headphones - Blue one size
+prodname: 'Samsung AKG Y500 Wireless Headphones - Blue one size'
 ---
 
 Ahora mismo tienes [Samsung AKG Y500 Wireless Headphones - Blue one size](https://www.amazon.co.uk/dp/B07MKMD8T1/?tag=tolees0a-21) a 89.49 GBP (original: 129.0 GBP) (30.63 %  de descuento) en el siguiente enlace!

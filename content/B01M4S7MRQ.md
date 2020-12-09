@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: BONTEC Soporte Monitor Elevador Monitor Soporte Portatil Ordenador Negro  W540 x D255 x H104mm con Soporte para Teléfono Inteligente y Gestión de Cables.
+prodname: 'BONTEC Soporte Monitor Elevador Monitor Soporte Portatil Ordenador Negro  W540 x D255 x H104mm con Soporte para Teléfono Inteligente y Gestión de Cables.'
 ---
 
 Está [BONTEC Soporte Monitor Elevador Monitor Soporte Portatil Ordenador Negro  W540 x D255 x H104mm con Soporte para Teléfono Inteligente y Gestión de Cables.](https://www.amazon.es/dp/B01M4S7MRQ/?tag=tolees-21) con 29.64 de descuento por 18.99 EUR (original: 26.99 EUR) en el siguiente enlace!

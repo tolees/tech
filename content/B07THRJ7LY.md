@@ -14,7 +14,7 @@ currency: EUR
 price: 20.9
 comparePrice: 69.99 EUR
 inStock: true
-prodname: The Sinking City: Day One - Edition PS4 [Versión Española]
+prodname: 'The Sinking City: Day One - Edition PS4 [Versión Española]'
 ---
 
 Ahora mismo tienes [The Sinking City: Day One - Edition PS4 [Versión Española]](https://www.amazon.es/dp/B07THRJ7LY/?tag=tolees-21) a 20.9 EUR (original: 69.99 EUR) (70.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.66
 comparePrice: 59.99 EUR
 inStock: true
-prodname: The Surge - PlayStation 4
+prodname: 'The Surge - PlayStation 4'
 ---
 
 Tienes [The Surge - PlayStation 4](https://www.amazon.it/dp/B06WPBMY6L/?tag=tolees00-21) con un 72.23 % de descuento con precio de oferta de 16.66 EUR (original: 59.99 EUR) en el siguiente enlace!

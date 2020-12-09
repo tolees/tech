@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 79.94 EUR
 inStock: true
-prodname: Vieta Pro VHP-TW20BK - Auricular Bluetooth 5.0  con función manos libres  resistencia al agua ipx7  18 horas de batería y acceso al asistente de voz  Negro
+prodname: 'Vieta Pro VHP-TW20BK - Auricular Bluetooth 5.0  con función manos libres  resistencia al agua ipx7  18 horas de batería y acceso al asistente de voz  Negro'
 ---
 
 Tienes [Vieta Pro VHP-TW20BK - Auricular Bluetooth 5.0  con función manos libres  resistencia al agua ipx7  18 horas de batería y acceso al asistente de voz  Negro](https://www.amazon.es/dp/B07H2PY2TT/?tag=tolees-21) con un 37.47 % de descuento con precio de oferta de 49.99 EUR (original: 79.94 EUR) en el siguiente enlace!

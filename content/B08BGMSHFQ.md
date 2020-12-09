@@ -14,7 +14,7 @@ currency: GBP
 price: 32.99
 comparePrice: 48.99 GBP
 inStock: true
-prodname: FIFA 21  PS4 
+prodname: 'FIFA 21  PS4 '
 ---
 
 Está [FIFA 21  PS4 ](https://www.amazon.co.uk/dp/B08BGMSHFQ/?tag=tolees0a-21) con 32.66 de descuento por 32.99 GBP (original: 48.99 GBP) en el siguiente enlace!

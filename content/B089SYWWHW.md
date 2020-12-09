@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 299.92 EUR
 inStock: true
-prodname: Móvil Libre  DOOGEE S60  2020  Móvil Resistente 4G  6GB RAM + 64GB ROM  Batería 5580mAh  Cámara 21MP  5.2 Pulgada IP68 Móvil Libre Todoterreno  NFC/GPS/Carga inalambrica
+prodname: 'Móvil Libre  DOOGEE S60  2020  Móvil Resistente 4G  6GB RAM + 64GB ROM  Batería 5580mAh  Cámara 21MP  5.2 Pulgada IP68 Móvil Libre Todoterreno  NFC/GPS/Carga inalambrica'
 ---
 
 Está [Móvil Libre  DOOGEE S60  2020  Móvil Resistente 4G  6GB RAM + 64GB ROM  Batería 5580mAh  Cámara 21MP  5.2 Pulgada IP68 Móvil Libre Todoterreno  NFC/GPS/Carga inalambrica](https://www.amazon.es/dp/B089SYWWHW/?tag=tolees-21) con 33.32 de descuento por 199.99 EUR (original: 299.92 EUR) en el siguiente enlace!

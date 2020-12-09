@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: MHHQ Huawei P40 Pro Funda  Ultra Slim TPU 360 Degree Ring Kickstand Soporte Giratorio Magnetic Car Mount Multifunción Protectora Delgada Caso Case para Huawei P40 Pro -Rojo
+prodname: 'MHHQ Huawei P40 Pro Funda  Ultra Slim TPU 360 Degree Ring Kickstand Soporte Giratorio Magnetic Car Mount Multifunción Protectora Delgada Caso Case para Huawei P40 Pro -Rojo'
 ---
 
 Tienes [MHHQ Huawei P40 Pro Funda  Ultra Slim TPU 360 Degree Ring Kickstand Soporte Giratorio Magnetic Car Mount Multifunción Protectora Delgada Caso Case para Huawei P40 Pro -Rojo](https://www.amazon.es/dp/B08MTSKNYN/?tag=tolees-21) con un 52.66 % de descuento con precio de oferta de 8.99 EUR (original: 18.99 EUR) en el siguiente enlace!

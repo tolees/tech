@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Vaultskin Eton Armour - Funda de Cuero para iPhone 7 Plus y 8 Plus  Cognac 
+prodname: 'Vaultskin Eton Armour - Funda de Cuero para iPhone 7 Plus y 8 Plus  Cognac '
 ---
 
 Ahora mismo tienes [Vaultskin Eton Armour - Funda de Cuero para iPhone 7 Plus y 8 Plus  Cognac ](https://www.amazon.es/dp/B01MR72ILN/?tag=tolees-21) a 24.99 EUR (original: 54.99 EUR) (54.56 %  de descuento) en el siguiente enlace!

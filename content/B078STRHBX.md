@@ -14,7 +14,7 @@ currency: EUR
 price: 128.76
 comparePrice: 254.99 EUR
 inStock: true
-prodname: SanDisk Extreme Portable SSD externe SSD 1 TB  externe Festplatte mit SSD Technologie 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung  wasser- und staubfest  grau
+prodname: 'SanDisk Extreme Portable SSD externe SSD 1 TB  externe Festplatte mit SSD Technologie 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung  wasser- und staubfest  grau'
 ---
 
 Está [SanDisk Extreme Portable SSD externe SSD 1 TB  externe Festplatte mit SSD Technologie 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung  wasser- und staubfest  grau](https://www.amazon.de/dp/B078STRHBX/?tag=tolees0ca-21) con 49.50 de descuento por 128.76 EUR (original: 254.99 EUR) en el siguiente enlace!

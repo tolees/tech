@@ -14,7 +14,7 @@ currency: EUR
 price: 101.98
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Thule TSLB317DSH - Mochila para Ordenador portátil  Apple MacBook Pro de 15" o PC de 15.6"  Color Gris Oscuro
+prodname: 'Thule TSLB317DSH - Mochila para Ordenador portátil  Apple MacBook Pro de 15" o PC de 15.6"  Color Gris Oscuro'
 ---
 
 Tienes [Thule TSLB317DSH - Mochila para Ordenador portátil  Apple MacBook Pro de 15" o PC de 15.6"  Color Gris Oscuro](https://www.amazon.es/dp/B01N0ZLG5F/?tag=tolees-21) con un 27.13 % de descuento con precio de oferta de 101.98 EUR (original: 139.95 EUR) en el siguiente enlace!

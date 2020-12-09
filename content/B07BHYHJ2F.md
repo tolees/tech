@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Jabra Elite 65t – Auriculares Bluetooth 5.0  con Cancelación Pasiva del Ruido  Tecnología de Cuatro Micrófonos para Auténticas Llamadas Inalámbricas y Música  Negro Cobre
+prodname: 'Jabra Elite 65t – Auriculares Bluetooth 5.0  con Cancelación Pasiva del Ruido  Tecnología de Cuatro Micrófonos para Auténticas Llamadas Inalámbricas y Música  Negro Cobre'
 ---
 
 Tienes [Jabra Elite 65t – Auriculares Bluetooth 5.0  con Cancelación Pasiva del Ruido  Tecnología de Cuatro Micrófonos para Auténticas Llamadas Inalámbricas y Música  Negro Cobre](https://www.amazon.es/dp/B07BHYHJ2F/?tag=tolees-21) con un 59.41 % de descuento con precio de oferta de 69.0 EUR (original: 169.99 EUR) en el siguiente enlace!

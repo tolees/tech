@@ -14,7 +14,7 @@ currency: EUR
 price: 9.19
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Unisnug Funda Huawei Y5 2019Cuero  Carcasas Rigida para Huawei Y5 2019 Funda Tapa Book Cover-Datura
+prodname: 'Unisnug Funda Huawei Y5 2019Cuero  Carcasas Rigida para Huawei Y5 2019 Funda Tapa Book Cover-Datura'
 ---
 
 Tienes [Unisnug Funda Huawei Y5 2019Cuero  Carcasas Rigida para Huawei Y5 2019 Funda Tapa Book Cover-Datura](https://www.amazon.es/dp/B085VDQ6ZW/?tag=tolees-21) con un 34.31 % de descuento con precio de oferta de 9.19 EUR (original: 13.99 EUR) en el siguiente enlace!

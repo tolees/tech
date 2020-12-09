@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 25.99 EUR
 inStock: true
-prodname: A ADDTOP Powerbank 26800mAh con 18W USB C Power Delivery Caricabatteria Portatile con Display Digitale LCD e 4 Porte per iPhone  Xiaomi  Huawei  Samsung  iPad
+prodname: 'A ADDTOP Powerbank 26800mAh con 18W USB C Power Delivery Caricabatteria Portatile con Display Digitale LCD e 4 Porte per iPhone  Xiaomi  Huawei  Samsung  iPad'
 ---
 
 Tienes [A ADDTOP Powerbank 26800mAh con 18W USB C Power Delivery Caricabatteria Portatile con Display Digitale LCD e 4 Porte per iPhone  Xiaomi  Huawei  Samsung  iPad](https://www.amazon.it/dp/B088BZW3SD/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 19.49 EUR (original: 25.99 EUR) en el siguiente enlace!

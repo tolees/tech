@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: POWERADD EnergyCell Powerbank 15000mAh Batería Externa Cargador Portátil para iPhone Samsung Huawei Xiaomi Tablets -Negro
+prodname: 'POWERADD EnergyCell Powerbank 15000mAh Batería Externa Cargador Portátil para iPhone Samsung Huawei Xiaomi Tablets -Negro'
 ---
 
 Está [POWERADD EnergyCell Powerbank 15000mAh Batería Externa Cargador Portátil para iPhone Samsung Huawei Xiaomi Tablets -Negro](https://www.amazon.es/dp/B07XYV46RS/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

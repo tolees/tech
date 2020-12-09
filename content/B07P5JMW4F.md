@@ -14,7 +14,7 @@ currency: EUR
 price: 9.74
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Sabrent Ratón inalámbrico Recargable de 2 4 GHz con resolución Ajustable  MS-RCWM 
+prodname: 'Sabrent Ratón inalámbrico Recargable de 2 4 GHz con resolución Ajustable  MS-RCWM '
 ---
 
 Tienes [Sabrent Ratón inalámbrico Recargable de 2 4 GHz con resolución Ajustable  MS-RCWM ](https://www.amazon.es/dp/B07P5JMW4F/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 9.74 EUR (original: 12.99 EUR) en el siguiente enlace!

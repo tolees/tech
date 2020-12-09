@@ -14,7 +14,7 @@ currency: EUR
 price: 85.9
 comparePrice: 124.99 EUR
 inStock: true
-prodname: Seagate Expansion Desktop  externe Festplatte 4 TB  3.5 Zoll  USB 3.0  PC  Notebook  Xbox & PS4  inkl. 2 Jahre Rescue Service  Modellnr.: STEB4000200
+prodname: 'Seagate Expansion Desktop  externe Festplatte 4 TB  3.5 Zoll  USB 3.0  PC  Notebook  Xbox & PS4  inkl. 2 Jahre Rescue Service  Modellnr.: STEB4000200'
 ---
 
 Ahora mismo tienes [Seagate Expansion Desktop  externe Festplatte 4 TB  3.5 Zoll  USB 3.0  PC  Notebook  Xbox & PS4  inkl. 2 Jahre Rescue Service  Modellnr.: STEB4000200](https://www.amazon.de/dp/B00UNA1OBQ/?tag=tolees0ca-21) a 85.9 EUR (original: 124.99 EUR) (31.27 %  de descuento) en el siguiente enlace!

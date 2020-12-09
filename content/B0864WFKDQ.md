@@ -14,7 +14,7 @@ currency: EUR
 price: 434.0
 comparePrice: 799.0 EUR
 inStock: true
-prodname: HUAWEI P40 Dual-SIM Smartphone BUNDLE  15 5 cm  6.1 Zoll   128 GB interner Speicher  Android 10.0 AOSP ohne Google Play Store  EMUI 10.0.1  Silver Frost [+5 EUR Amazon Gutschein]
+prodname: 'HUAWEI P40 Dual-SIM Smartphone BUNDLE  15 5 cm  6.1 Zoll   128 GB interner Speicher  Android 10.0 AOSP ohne Google Play Store  EMUI 10.0.1  Silver Frost [+5 EUR Amazon Gutschein]'
 ---
 
 Ahora mismo tienes [HUAWEI P40 Dual-SIM Smartphone BUNDLE  15 5 cm  6.1 Zoll   128 GB interner Speicher  Android 10.0 AOSP ohne Google Play Store  EMUI 10.0.1  Silver Frost [+5 EUR Amazon Gutschein]](https://www.amazon.de/dp/B0864WFKDQ/?tag=tolees0ca-21) a 434.0 EUR (original: 799.0 EUR) (45.68 %  de descuento) en el siguiente enlace!

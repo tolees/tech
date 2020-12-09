@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 77.36 EUR
 inStock: true
-prodname: Disco Duro Externo 1 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  1TB Negro 
+prodname: 'Disco Duro Externo 1 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  1TB Negro '
 ---
 
 Ahora mismo tienes [Disco Duro Externo 1 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  1TB Negro ](https://www.amazon.es/dp/B08KZL39FF/?tag=tolees-21) a 47.99 EUR (original: 77.36 EUR) (37.97 %  de descuento) en el siguiente enlace!

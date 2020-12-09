@@ -14,7 +14,7 @@ currency: EUR
 price: 67.73
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro
+prodname: 'Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro'
 ---
 
 Está [Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro](https://www.amazon.es/dp/B01CDNDPUS/?tag=tolees-21) con 32.27 de descuento por 67.73 EUR (original: 100.0 EUR) en el siguiente enlace!

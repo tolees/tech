@@ -14,7 +14,7 @@ currency: EUR
 price: 18.93
 comparePrice: 31.45 EUR
 inStock: true
-prodname: Crucial CT51264BF160B Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  SODIMM  204-Pin 
+prodname: 'Crucial CT51264BF160B Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  SODIMM  204-Pin '
 ---
 
 Está [Crucial CT51264BF160B Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  SODIMM  204-Pin ](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21) con 39.81 de descuento por 18.93 EUR (original: 31.45 EUR) en el siguiente enlace!

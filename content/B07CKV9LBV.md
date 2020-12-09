@@ -14,7 +14,7 @@ currency: EUR
 price: 11.19
 comparePrice: 15.69 EUR
 inStock: true
-prodname: Luz de Lectura Recargable  14 LED Luz de Libro  9 Modos de Brillo  Luz Cálido y Blanco   Doble Cabeza  360 ° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Estudio  Cama  Tablet
+prodname: 'Luz de Lectura Recargable  14 LED Luz de Libro  9 Modos de Brillo  Luz Cálido y Blanco   Doble Cabeza  360 ° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Estudio  Cama  Tablet'
 ---
 
 Está [Luz de Lectura Recargable  14 LED Luz de Libro  9 Modos de Brillo  Luz Cálido y Blanco   Doble Cabeza  360 ° Flexible Lampara de Lectura Pinza para Lectores Noche  E-Reader  Estudio  Cama  Tablet](https://www.amazon.es/dp/B07CKV9LBV/?tag=tolees-21) con 28.68 de descuento por 11.19 EUR (original: 15.69 EUR) en el siguiente enlace!

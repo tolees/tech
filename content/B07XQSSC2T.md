@@ -14,7 +14,7 @@ currency: EUR
 price: 29.59
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Apple Funda Transparente  para el iPhone 11 
+prodname: 'Apple Funda Transparente  para el iPhone 11 '
 ---
 
 Ahora mismo tienes [Apple Funda Transparente  para el iPhone 11 ](https://www.amazon.es/dp/B07XQSSC2T/?tag=tolees-21) a 29.59 EUR (original: 45.0 EUR) (34.24 %  de descuento) en el siguiente enlace!

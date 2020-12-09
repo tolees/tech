@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Sony ICF-P26 - Radio portátil  con altavoz y sintonizador AM/FM   negro
+prodname: 'Sony ICF-P26 - Radio portátil  con altavoz y sintonizador AM/FM   negro'
 ---
 
 Está [Sony ICF-P26 - Radio portátil  con altavoz y sintonizador AM/FM   negro](https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21) con 30.03 de descuento por 20.99 EUR (original: 30.0 EUR) en el siguiente enlace!

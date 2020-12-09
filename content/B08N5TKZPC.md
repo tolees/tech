@@ -14,7 +14,7 @@ currency: EUR
 price: 16.0
 comparePrice: 31.99 EUR
 inStock: true
-prodname: Cuffie Bluetooth 5.0 Auricolari Senza Fili Cuffie Wireless Sport with IPX7 Impermeabile Touch control Auricolari in ear Accoppiamento Automatico per iPhone/Apple AirPods/Android/Samsung/Huawei 
+prodname: 'Cuffie Bluetooth 5.0 Auricolari Senza Fili Cuffie Wireless Sport with IPX7 Impermeabile Touch control Auricolari in ear Accoppiamento Automatico per iPhone/Apple AirPods/Android/Samsung/Huawei '
 ---
 
 Tienes [Cuffie Bluetooth 5.0 Auricolari Senza Fili Cuffie Wireless Sport with IPX7 Impermeabile Touch control Auricolari in ear Accoppiamento Automatico per iPhone/Apple AirPods/Android/Samsung/Huawei ](https://www.amazon.it/dp/B08N5TKZPC/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 16.0 EUR (original: 31.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 109.27 EUR
 inStock: true
-prodname: Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 2To Noir 
+prodname: 'Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 2To Noir '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 2To Noir ](https://www.amazon.fr/dp/B08K8Y3XXG/?tag=tolees0d-21) a 63.99 EUR (original: 109.27 EUR) (41.44 %  de descuento) en el siguiente enlace!

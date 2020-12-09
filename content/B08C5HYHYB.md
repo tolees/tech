@@ -14,7 +14,7 @@ currency: EUR
 price: 120.58
 comparePrice: 184.24 EUR
 inStock: true
-prodname: Samsung Galaxy Buds Live  kabellose Bluetooth-Kopfhörer mit Noise Cancelling  ANC   komfortable Passform  ausdauernder Akku  Wireless Kopfhörer in schwarz
+prodname: 'Samsung Galaxy Buds Live  kabellose Bluetooth-Kopfhörer mit Noise Cancelling  ANC   komfortable Passform  ausdauernder Akku  Wireless Kopfhörer in schwarz'
 ---
 
 Está [Samsung Galaxy Buds Live  kabellose Bluetooth-Kopfhörer mit Noise Cancelling  ANC   komfortable Passform  ausdauernder Akku  Wireless Kopfhörer in schwarz](https://www.amazon.de/dp/B08C5HYHYB/?tag=tolees0ca-21) con 34.55 de descuento por 120.58 EUR (original: 184.24 EUR) en el siguiente enlace!

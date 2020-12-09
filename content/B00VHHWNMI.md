@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 29.19 EUR
 inStock: true
-prodname: Logitech K400 Plus Kabellose TV-Tastatur mit Touchpad  2.4 GHz Verbindung via Unifying USB-Empfänger  Programmierbare Multimedia-Tasten  Windows/Android/ChromeOS  Deutsches QWERTZ-Layout - schwarz
+prodname: 'Logitech K400 Plus Kabellose TV-Tastatur mit Touchpad  2.4 GHz Verbindung via Unifying USB-Empfänger  Programmierbare Multimedia-Tasten  Windows/Android/ChromeOS  Deutsches QWERTZ-Layout - schwarz'
 ---
 
 Tienes [Logitech K400 Plus Kabellose TV-Tastatur mit Touchpad  2.4 GHz Verbindung via Unifying USB-Empfänger  Programmierbare Multimedia-Tasten  Windows/Android/ChromeOS  Deutsches QWERTZ-Layout - schwarz](https://www.amazon.de/dp/B00VHHWNMI/?tag=tolees0ca-21) con un 38.34 % de descuento con precio de oferta de 18.0 EUR (original: 29.19 EUR) en el siguiente enlace!

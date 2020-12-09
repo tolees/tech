@@ -14,7 +14,7 @@ currency: EUR
 price: 59.98
 comparePrice: 89.19 EUR
 inStock: true
-prodname: Podspeakers Micropod SE MK III - Altavoz inalámbrico  Negro Mate
+prodname: 'Podspeakers Micropod SE MK III - Altavoz inalámbrico  Negro Mate'
 ---
 
 Ahora mismo tienes [Podspeakers Micropod SE MK III - Altavoz inalámbrico  Negro Mate](https://www.amazon.es/dp/B074HCQWJY/?tag=tolees-21) a 59.98 EUR (original: 89.19 EUR) (32.75 %  de descuento) en el siguiente enlace!

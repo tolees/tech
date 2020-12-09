@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 28.99 EUR
 inStock: true
-prodname: eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -Classique 1989 GB DMG-01
+prodname: 'eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -Classique 1989 GB DMG-01'
 ---
 
 Está [eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -Classique 1989 GB DMG-01](https://www.amazon.fr/dp/B08LCZ2P8T/?tag=tolees0d-21) con 36.22 de descuento por 18.49 EUR (original: 28.99 EUR) en el siguiente enlace!

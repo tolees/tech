@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 57.48 EUR
 inStock: true
-prodname: Auriculares Bluetooth Deportivos Impermeables IPX7  Cascos Bluetooth inalambricos  Tecnología APTX y de Ruido de Cancelación CVC 6.0  Sonido Estéreo  13hrs de Reproduccion
+prodname: 'Auriculares Bluetooth Deportivos Impermeables IPX7  Cascos Bluetooth inalambricos  Tecnología APTX y de Ruido de Cancelación CVC 6.0  Sonido Estéreo  13hrs de Reproduccion'
 ---
 
 Está [Auriculares Bluetooth Deportivos Impermeables IPX7  Cascos Bluetooth inalambricos  Tecnología APTX y de Ruido de Cancelación CVC 6.0  Sonido Estéreo  13hrs de Reproduccion](https://www.amazon.es/dp/B07DNJ4GJF/?tag=tolees-21) con 70.44 de descuento por 16.99 EUR (original: 57.48 EUR) en el siguiente enlace!

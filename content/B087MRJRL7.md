@@ -14,7 +14,7 @@ currency: EUR
 price: 279.89
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 128GB  Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con carga rápida 30W  Android 10  Negro  Versión Española
+prodname: 'Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 128GB  Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con carga rápida 30W  Android 10  Negro  Versión Española'
 ---
 
 Ahora mismo tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 128GB  Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con carga rápida 30W  Android 10  Negro  Versión Española](https://www.amazon.es/dp/B087MRJRL7/?tag=tolees-21) a 279.89 EUR (original: 399.0 EUR) (29.85 %  de descuento) en el siguiente enlace!

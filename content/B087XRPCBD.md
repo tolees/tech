@@ -14,7 +14,7 @@ currency: USD
 price: 24.99
 comparePrice: 49.99 USD
 inStock: true
-prodname: NASCAR Heat 5 - Xbox One
+prodname: 'NASCAR Heat 5 - Xbox One'
 ---
 
 Tienes [NASCAR Heat 5 - Xbox One](https://www.amazon.com/dp/B087XRPCBD/?tag=tolees-20) con un 50.01 % de descuento con precio de oferta de 24.99 USD (original: 49.99 USD) en el siguiente enlace!

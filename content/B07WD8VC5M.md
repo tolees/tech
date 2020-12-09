@@ -14,7 +14,7 @@ currency: EUR
 price: 18.39
 comparePrice: 39.99 EUR
 inStock: true
-prodname: OWSOO 1080P Cámara IP WiFi Cámara de Vigilancia FHD con Visión Nocturna Detección de MovimientoMonitor para Bebe/Perros  Audio de 2 Vías  2.4GHz WiFi  Compatible con iOS/Android
+prodname: 'OWSOO 1080P Cámara IP WiFi Cámara de Vigilancia FHD con Visión Nocturna Detección de MovimientoMonitor para Bebe/Perros  Audio de 2 Vías  2.4GHz WiFi  Compatible con iOS/Android'
 ---
 
 Está [OWSOO 1080P Cámara IP WiFi Cámara de Vigilancia FHD con Visión Nocturna Detección de MovimientoMonitor para Bebe/Perros  Audio de 2 Vías  2.4GHz WiFi  Compatible con iOS/Android](https://www.amazon.es/dp/B07WD8VC5M/?tag=tolees-21) con 54.01 de descuento por 18.39 EUR (original: 39.99 EUR) en el siguiente enlace!

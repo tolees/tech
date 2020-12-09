@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Smartwatch Mujer Reloj de Monitor de Ritmo cardíaco con Pantalla a Color  Pantalla de Reloj con Efecto de Despertador automático IP68 Reloj Inteligente Hombres  Rojo 
+prodname: 'Smartwatch Mujer Reloj de Monitor de Ritmo cardíaco con Pantalla a Color  Pantalla de Reloj con Efecto de Despertador automático IP68 Reloj Inteligente Hombres  Rojo '
 ---
 
 Está [Smartwatch Mujer Reloj de Monitor de Ritmo cardíaco con Pantalla a Color  Pantalla de Reloj con Efecto de Despertador automático IP68 Reloj Inteligente Hombres  Rojo ](https://www.amazon.es/dp/B07QVL7HN9/?tag=tolees-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

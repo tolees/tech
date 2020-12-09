@@ -14,7 +14,7 @@ currency: GBP
 price: 27.99
 comparePrice: 38.99 GBP
 inStock: true
-prodname: TCSUNBOW 240GB 250GB 256GB 2.5 Inch SSD With 256M Cache SATAIII 6GB/s Internal Solid State Hard Drive for Notebook Tablet Desktop PC X3 240GB 
+prodname: 'TCSUNBOW 240GB 250GB 256GB 2.5 Inch SSD With 256M Cache SATAIII 6GB/s Internal Solid State Hard Drive for Notebook Tablet Desktop PC X3 240GB '
 ---
 
 Tienes [TCSUNBOW 240GB 250GB 256GB 2.5 Inch SSD With 256M Cache SATAIII 6GB/s Internal Solid State Hard Drive for Notebook Tablet Desktop PC X3 240GB ](https://www.amazon.co.uk/dp/B06ZZFZPPS/?tag=tolees0a-21) con un 28.21 % de descuento con precio de oferta de 27.99 GBP (original: 38.99 GBP) en el siguiente enlace!

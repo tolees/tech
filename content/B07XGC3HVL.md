@@ -14,7 +14,7 @@ currency: EUR
 price: 19.03
 comparePrice: 27.99 EUR
 inStock: true
-prodname: TedGem Teclado y Raton Inalambrico Español  2.4G Ergonómico Teclado Inalambrico USB Teclados Inalambricos Ordenador 2-in-1 USB Nano para Win 7/8/10/2000 / XP/Vista Ultrafino Silencioso & ES Layout 
+prodname: 'TedGem Teclado y Raton Inalambrico Español  2.4G Ergonómico Teclado Inalambrico USB Teclados Inalambricos Ordenador 2-in-1 USB Nano para Win 7/8/10/2000 / XP/Vista Ultrafino Silencioso & ES Layout '
 ---
 
 Tienes [TedGem Teclado y Raton Inalambrico Español  2.4G Ergonómico Teclado Inalambrico USB Teclados Inalambricos Ordenador 2-in-1 USB Nano para Win 7/8/10/2000 / XP/Vista Ultrafino Silencioso & ES Layout ](https://www.amazon.es/dp/B07XGC3HVL/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 19.03 EUR (original: 27.99 EUR) en el siguiente enlace!

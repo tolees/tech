@@ -14,7 +14,7 @@ currency: GBP
 price: 54.99
 comparePrice: 74.99 GBP
 inStock: true
-prodname: TP-Link TL-WPA4220T KIT 2-Port Powerline Adapter WiFi Starter Kit  Range Extender  Broadband/WiFi Extender  WiFi Booster/Hotspot  No Configuration Required  UK Plug
+prodname: 'TP-Link TL-WPA4220T KIT 2-Port Powerline Adapter WiFi Starter Kit  Range Extender  Broadband/WiFi Extender  WiFi Booster/Hotspot  No Configuration Required  UK Plug'
 ---
 
 Está [TP-Link TL-WPA4220T KIT 2-Port Powerline Adapter WiFi Starter Kit  Range Extender  Broadband/WiFi Extender  WiFi Booster/Hotspot  No Configuration Required  UK Plug](https://www.amazon.co.uk/dp/B07N1HDMFR/?tag=tolees0a-21) con 26.67 de descuento por 54.99 GBP (original: 74.99 GBP) en el siguiente enlace!

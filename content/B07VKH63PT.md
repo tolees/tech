@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Ni no Kuni : La Vengeance de la Sorcière Céleste pour Nintendo Switch
+prodname: 'Ni no Kuni : La Vengeance de la Sorcière Céleste pour Nintendo Switch'
 ---
 
 Está [Ni no Kuni : La Vengeance de la Sorcière Céleste pour Nintendo Switch](https://www.amazon.fr/dp/B07VKH63PT/?tag=tolees0d-21) con 58.34 de descuento por 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

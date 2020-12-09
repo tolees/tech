@@ -14,7 +14,7 @@ currency: EUR
 price: 9.59
 comparePrice: 19.38 EUR
 inStock: true
-prodname: Janhiny 1080P Web Cámara de Alta Definición Completa Cámara Web Reducción de Ruido Micrófono USB2.0 Mini Cámara de Computadora para Computadora Portátil
+prodname: 'Janhiny 1080P Web Cámara de Alta Definición Completa Cámara Web Reducción de Ruido Micrófono USB2.0 Mini Cámara de Computadora para Computadora Portátil'
 ---
 
 Está [Janhiny 1080P Web Cámara de Alta Definición Completa Cámara Web Reducción de Ruido Micrófono USB2.0 Mini Cámara de Computadora para Computadora Portátil](https://www.amazon.es/dp/B08HYMBY9F/?tag=tolees-21) con 50.52 de descuento por 9.59 EUR (original: 19.38 EUR) en el siguiente enlace!

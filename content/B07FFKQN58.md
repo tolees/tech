@@ -14,13 +14,15 @@ currency: EUR
 price: 9.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Ratchet & Clank  Ps Hits  - Classics - PlayStation 4
+prodname: 'Ratchet & Clank  Ps Hits  - Classics - PlayStation 4'
 ---
 
-Ahora mismo tienes [Ratchet & Clank  Ps Hits  - Classics - PlayStation 4](https://www.amazon.it/dp/B07FFKQN58/?tag=tolees00-21) a 9.99 EUR (original: 20.99 EUR) (52.41 %  de descuento) en el siguiente enlace!
+Está [Ratchet & Clank  Ps Hits  - Classics - PlayStation 4](https://www.amazon.it/dp/B07FFKQN58/?tag=tolees00-21) con 52.41 de descuento por 9.99 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![Ratchet & Clank  Ps Hits  - Classics - P](https://m.media-amazon.com/images/I/51hJTe2+D2L._SL200_.jpg)](https://www.amazon.it/dp/B07FFKQN58/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07FFKQN58/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07FFKQN58/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

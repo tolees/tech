@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth 5.0 TWS-i12 Seguridad estéreo 3D adecuados para Control táctil Auriculares inalámbricos Impermeables IPX7 para Trabajo y Deportes emparejamiento automático portátil - Blanco
+prodname: 'Auriculares Bluetooth 5.0 TWS-i12 Seguridad estéreo 3D adecuados para Control táctil Auriculares inalámbricos Impermeables IPX7 para Trabajo y Deportes emparejamiento automático portátil - Blanco'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth 5.0 TWS-i12 Seguridad estéreo 3D adecuados para Control táctil Auriculares inalámbricos Impermeables IPX7 para Trabajo y Deportes emparejamiento automático portátil - Blanco](https://www.amazon.es/dp/B08NTJSH6H/?tag=tolees-21) a 29.99 EUR (original: 79.99 EUR) (62.51 %  de descuento) en el siguiente enlace!

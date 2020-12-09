@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 113.02 EUR
 inStock: true
-prodname: Hunty Hard Disk 2 TB Esterno Hard Disk Esterno Portatile USB3.0 SATA HDD Storage per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso 
+prodname: 'Hunty Hard Disk 2 TB Esterno Hard Disk Esterno Portatile USB3.0 SATA HDD Storage per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso '
 ---
 
 Tienes [Hunty Hard Disk 2 TB Esterno Hard Disk Esterno Portatile USB3.0 SATA HDD Storage per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso ](https://www.amazon.it/dp/B08JYVD24L/?tag=tolees00-21) con un 43.38 % de descuento con precio de oferta de 63.99 EUR (original: 113.02 EUR) en el siguiente enlace!

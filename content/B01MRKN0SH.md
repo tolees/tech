@@ -14,7 +14,7 @@ currency: EUR
 price: 912.87
 comparePrice: 2299 EUR
 inStock: true
-prodname: Lenovo Ideacentre Y900-34ISZ - Ordenador de Sobremesa  Intel Core i7-6700K  32GB de RAM 256GB de SSD  NVIDIA GTX970-4GB  Windows Suite10   negro  Teclado QWERTY español + Raton USB
+prodname: 'Lenovo Ideacentre Y900-34ISZ - Ordenador de Sobremesa  Intel Core i7-6700K  32GB de RAM 256GB de SSD  NVIDIA GTX970-4GB  Windows Suite10   negro  Teclado QWERTY español + Raton USB'
 ---
 
 Ahora mismo tienes [Lenovo Ideacentre Y900-34ISZ - Ordenador de Sobremesa  Intel Core i7-6700K  32GB de RAM 256GB de SSD  NVIDIA GTX970-4GB  Windows Suite10   negro  Teclado QWERTY español + Raton USB](https://www.amazon.es/dp/B01MRKN0SH/?tag=tolees-21) a 912.87 EUR (original: 2299 EUR) (60.29 %  de descuento) en el siguiente enlace!

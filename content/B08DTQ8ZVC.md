@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 65.99 EUR
 inStock: true
-prodname: Motast Montre Connectée Femmes Homme  Smartwatch Vibrante pour Appel Message Montre Intelligente Etanche IP67 Trackers d Activité Podometre Calories Sommeil Chronometre pour iPhone Huawei Samsung…
+prodname: 'Motast Montre Connectée Femmes Homme  Smartwatch Vibrante pour Appel Message Montre Intelligente Etanche IP67 Trackers d Activité Podometre Calories Sommeil Chronometre pour iPhone Huawei Samsung…'
 ---
 
 Está [Motast Montre Connectée Femmes Homme  Smartwatch Vibrante pour Appel Message Montre Intelligente Etanche IP67 Trackers d Activité Podometre Calories Sommeil Chronometre pour iPhone Huawei Samsung…](https://www.amazon.fr/dp/B08DTQ8ZVC/?tag=tolees0d-21) con 34.85 de descuento por 42.99 EUR (original: 65.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: JBL Tune 120TWS – Ecouteurs Pure Bass sans fil – Appels stéréo mains libres grâce au bluetooth – Autonomie pendant 16 hrs avec l étui de recharge – Noirs
+prodname: 'JBL Tune 120TWS – Ecouteurs Pure Bass sans fil – Appels stéréo mains libres grâce au bluetooth – Autonomie pendant 16 hrs avec l étui de recharge – Noirs'
 ---
 
 Tienes [JBL Tune 120TWS – Ecouteurs Pure Bass sans fil – Appels stéréo mains libres grâce au bluetooth – Autonomie pendant 16 hrs avec l étui de recharge – Noirs](https://www.amazon.fr/dp/B07N7ZNDPW/?tag=tolees0d-21) con un 37.00 % de descuento con precio de oferta de 62.99 EUR (original: 99.99 EUR) en el siguiente enlace!

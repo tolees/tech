@@ -14,7 +14,7 @@ currency: EUR
 price: 22.88
 comparePrice: 48.0 EUR
 inStock: true
-prodname: Hello Kitty Cool Mochila Grande con Funda Ordenador
+prodname: 'Hello Kitty Cool Mochila Grande con Funda Ordenador'
 ---
 
 Tienes [Hello Kitty Cool Mochila Grande con Funda Ordenador](https://www.amazon.es/dp/B07GDQ66QM/?tag=tolees-21) con un 52.33 % de descuento con precio de oferta de 22.88 EUR (original: 48.0 EUR) en el siguiente enlace!

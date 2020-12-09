@@ -14,7 +14,7 @@ currency: GBP
 price: 9.99
 comparePrice: 23.97 GBP
 inStock: true
-prodname: Just Cause 4 + BONUS Fast & Furious 8 Blu-Ray  Amazon Exclusive   PS4 
+prodname: 'Just Cause 4 + BONUS Fast & Furious 8 Blu-Ray  Amazon Exclusive   PS4 '
 ---
 
 Tienes [Just Cause 4 + BONUS Fast & Furious 8 Blu-Ray  Amazon Exclusive   PS4 ](https://www.amazon.co.uk/dp/B07KFPFKN3/?tag=tolees0a-21) con un 58.32 % de descuento con precio de oferta de 9.99 GBP (original: 23.97 GBP) en el siguiente enlace!

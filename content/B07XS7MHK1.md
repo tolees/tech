@@ -14,7 +14,7 @@ currency: EUR
 price: 598.9
 comparePrice: 859.0 EUR
 inStock: true
-prodname: Apple Watch Series 5  GPS + Cellular  44 mm  Cassa in Acciaio Inossidabile e Loop in Maglia Milanese
+prodname: 'Apple Watch Series 5  GPS + Cellular  44 mm  Cassa in Acciaio Inossidabile e Loop in Maglia Milanese'
 ---
 
 Está [Apple Watch Series 5  GPS + Cellular  44 mm  Cassa in Acciaio Inossidabile e Loop in Maglia Milanese](https://www.amazon.it/dp/B07XS7MHK1/?tag=tolees00-21) con 30.28 de descuento por 598.9 EUR (original: 859.0 EUR) en el siguiente enlace!

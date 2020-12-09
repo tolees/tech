@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Marvel’s Spider-Man  PS4 
+prodname: 'Marvel’s Spider-Man  PS4 '
 ---
 
 Ahora mismo tienes [Marvel’s Spider-Man  PS4 ](https://www.amazon.es/dp/B01H25FDTI/?tag=tolees-21) a 19.9 EUR (original: 69.99 EUR) (71.57 %  de descuento) en el siguiente enlace!

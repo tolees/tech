@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Trust Gaming GXT 212 Mico Micrófono PC USB  con Conexiones de 3 5 mm y USB  Incluye trípode  Cable de 1 80 m  para Streaming  Twitch  Youtube  PC  PS4  PS5 - Negro
+prodname: 'Trust Gaming GXT 212 Mico Micrófono PC USB  con Conexiones de 3 5 mm y USB  Incluye trípode  Cable de 1 80 m  para Streaming  Twitch  Youtube  PC  PS4  PS5 - Negro'
 ---
 
 Tienes [Trust Gaming GXT 212 Mico Micrófono PC USB  con Conexiones de 3 5 mm y USB  Incluye trípode  Cable de 1 80 m  para Streaming  Twitch  Youtube  PC  PS4  PS5 - Negro](https://www.amazon.es/dp/B08BRVB4LG/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

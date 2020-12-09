@@ -14,7 +14,7 @@ currency: GBP
 price: 56.99
 comparePrice: 149.99 GBP
 inStock: true
-prodname: Drayton Wiser Smart Thermostat Heating and Hot Water Control Kit - Works with Amazon Alexa  Google Home  IFTTT
+prodname: 'Drayton Wiser Smart Thermostat Heating and Hot Water Control Kit - Works with Amazon Alexa  Google Home  IFTTT'
 ---
 
 Tienes [Drayton Wiser Smart Thermostat Heating and Hot Water Control Kit - Works with Amazon Alexa  Google Home  IFTTT](https://www.amazon.co.uk/dp/B075GRPZQ2/?tag=tolees0a-21) con un 62.00 % de descuento con precio de oferta de 56.99 GBP (original: 149.99 GBP) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Sony WF-XB700 Ecouteurs Bluetooth sans Fil  18 Heures d Autonomie et Fonction Charge Rapide et Compatible Assistants Vocaux  Noir
+prodname: 'Sony WF-XB700 Ecouteurs Bluetooth sans Fil  18 Heures d Autonomie et Fonction Charge Rapide et Compatible Assistants Vocaux  Noir'
 ---
 
 Tienes [Sony WF-XB700 Ecouteurs Bluetooth sans Fil  18 Heures d Autonomie et Fonction Charge Rapide et Compatible Assistants Vocaux  Noir](https://www.amazon.fr/dp/B086LKXYMD/?tag=tolees0d-21) con un 46.67 % de descuento con precio de oferta de 79.99 EUR (original: 150.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: USD
 price: 39.99
 comparePrice: 59.99 USD
 inStock: true
-prodname: Luigi s Mansion 3 - Nintendo Switch [Digital Code]
+prodname: 'Luigi s Mansion 3 - Nintendo Switch [Digital Code]'
 ---
 
 Ahora mismo tienes [Luigi s Mansion 3 - Nintendo Switch [Digital Code]](https://www.amazon.com/dp/B07SMBG5TR/?tag=tolees-20) a 39.99 USD (original: 59.99 USD) (33.34 %  de descuento) en el siguiente enlace!

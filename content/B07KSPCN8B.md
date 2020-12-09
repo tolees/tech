@@ -14,7 +14,7 @@ currency: EUR
 price: 18.69
 comparePrice: 50 EUR
 inStock: true
-prodname: Mpow Elfo Nocturno Auriculares Gaming PS4  Cascos Gaming con Micrófono Reducción para PS4 Xbox One Nintendo Switch PC  Auriculares Gaming con LED 3.5mm  Control de Volumen con Adaptador
+prodname: 'Mpow Elfo Nocturno Auriculares Gaming PS4  Cascos Gaming con Micrófono Reducción para PS4 Xbox One Nintendo Switch PC  Auriculares Gaming con LED 3.5mm  Control de Volumen con Adaptador'
 ---
 
 Está [Mpow Elfo Nocturno Auriculares Gaming PS4  Cascos Gaming con Micrófono Reducción para PS4 Xbox One Nintendo Switch PC  Auriculares Gaming con LED 3.5mm  Control de Volumen con Adaptador](https://www.amazon.es/dp/B07KSPCN8B/?tag=tolees-21) con 62.62 de descuento por 18.69 EUR (original: 50 EUR) en el siguiente enlace!

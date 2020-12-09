@@ -14,7 +14,7 @@ currency: EUR
 price: 299
 comparePrice: 458.59 EUR
 inStock: true
-prodname: Brother MFC-9330CDW - Impresora multifunción láser color  LED  fax  WiFi  impresión automática a doble cara 
+prodname: 'Brother MFC-9330CDW - Impresora multifunción láser color  LED  fax  WiFi  impresión automática a doble cara '
 ---
 
 Está [Brother MFC-9330CDW - Impresora multifunción láser color  LED  fax  WiFi  impresión automática a doble cara ](https://www.amazon.es/dp/B00CBQSG3O/?tag=tolees-21) con 34.80 de descuento por 299 EUR (original: 458.59 EUR) en el siguiente enlace!

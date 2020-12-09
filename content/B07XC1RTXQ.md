@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 149.95 EUR
 inStock: true
-prodname: Philips Hue White & Color Ambiance E27 2-er Starter Set Bluetooth  9 W  dimmbar  16 Mio. Farben  steuerbar via App  kompatibel mit Amazon Alexa
+prodname: 'Philips Hue White & Color Ambiance E27 2-er Starter Set Bluetooth  9 W  dimmbar  16 Mio. Farben  steuerbar via App  kompatibel mit Amazon Alexa'
 ---
 
 Ahora mismo tienes [Philips Hue White & Color Ambiance E27 2-er Starter Set Bluetooth  9 W  dimmbar  16 Mio. Farben  steuerbar via App  kompatibel mit Amazon Alexa](https://www.amazon.de/dp/B07XC1RTXQ/?tag=tolees0ca-21) a 89.99 EUR (original: 149.95 EUR) (39.99 %  de descuento) en el siguiente enlace!

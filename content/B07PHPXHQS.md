@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu anthracite
+prodname: 'Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu anthracite'
 ---
 
 Ahora mismo tienes [Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu anthracite](https://www.amazon.fr/dp/B07PHPXHQS/?tag=tolees0d-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

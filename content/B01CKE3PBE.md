@@ -14,7 +14,7 @@ currency: EUR
 price: 4.69
 comparePrice: 6.99 EUR
 inStock: true
-prodname: Fujifilm 70100127832 - Kit de 10 Pinzas con iman para Fotos
+prodname: 'Fujifilm 70100127832 - Kit de 10 Pinzas con iman para Fotos'
 ---
 
 Ahora mismo tienes [Fujifilm 70100127832 - Kit de 10 Pinzas con iman para Fotos](https://www.amazon.es/dp/B01CKE3PBE/?tag=tolees-21) a 4.69 EUR (original: 6.99 EUR) (32.90 %  de descuento) en el siguiente enlace!

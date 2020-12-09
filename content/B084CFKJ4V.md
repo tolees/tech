@@ -14,7 +14,7 @@ currency: USD
 price: 19.99
 comparePrice: 39.99 USD
 inStock: true
-prodname: Ancestors Legacy - Nintendo Switch
+prodname: 'Ancestors Legacy - Nintendo Switch'
 ---
 
 Tienes [Ancestors Legacy - Nintendo Switch](https://www.amazon.com/dp/B084CFKJ4V/?tag=tolees-20) con un 50.01 % de descuento con precio de oferta de 19.99 USD (original: 39.99 USD) en el siguiente enlace!

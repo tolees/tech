@@ -14,7 +14,7 @@ currency: EUR
 price: 180.17
 comparePrice: 249.95 EUR
 inStock: true
-prodname: Withings Bpm Core - Tensiómetro inteligente con Electrocardiograma y Estetoscopio digital  Gris
+prodname: 'Withings Bpm Core - Tensiómetro inteligente con Electrocardiograma y Estetoscopio digital  Gris'
 ---
 
 Ahora mismo tienes [Withings Bpm Core - Tensiómetro inteligente con Electrocardiograma y Estetoscopio digital  Gris](https://www.amazon.es/dp/B07VQWSZHK/?tag=tolees-21) a 180.17 EUR (original: 249.95 EUR) (27.92 %  de descuento) en el siguiente enlace!

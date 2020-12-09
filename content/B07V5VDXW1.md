@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Razer Huntsman Tournament Edition Teclado con teclas opto-mecánicas   accionamiento óptico  barra estabilizadora de teclas  durabilidad inigualable  Synapse 3 - US Layout  Negro
+prodname: 'Razer Huntsman Tournament Edition Teclado con teclas opto-mecánicas   accionamiento óptico  barra estabilizadora de teclas  durabilidad inigualable  Synapse 3 - US Layout  Negro'
 ---
 
 Tienes [Razer Huntsman Tournament Edition Teclado con teclas opto-mecánicas   accionamiento óptico  barra estabilizadora de teclas  durabilidad inigualable  Synapse 3 - US Layout  Negro](https://www.amazon.es/dp/B07V5VDXW1/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 89.99 EUR (original: 149.99 EUR) en el siguiente enlace!

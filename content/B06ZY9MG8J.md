@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Final Fantasy VII Remake - Standard - PlayStation 4
+prodname: 'Final Fantasy VII Remake - Standard - PlayStation 4'
 ---
 
 Tienes [Final Fantasy VII Remake - Standard - PlayStation 4](https://www.amazon.it/dp/B06ZY9MG8J/?tag=tolees00-21) con un 36.37 % de descuento con precio de oferta de 34.99 EUR (original: 54.99 EUR) en el siguiente enlace!

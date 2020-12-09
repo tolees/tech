@@ -14,7 +14,7 @@ currency: EUR
 price: 944.0
 comparePrice: 1285.99 EUR
 inStock: true
-prodname: Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Core i5-1035G4  8GB RAM  256GB SSD  Intel Graphics  Windows 10  Plateado
+prodname: 'Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Core i5-1035G4  8GB RAM  256GB SSD  Intel Graphics  Windows 10  Plateado'
 ---
 
 Está [Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Core i5-1035G4  8GB RAM  256GB SSD  Intel Graphics  Windows 10  Plateado](https://www.amazon.es/dp/B07Y8R4WZN/?tag=tolees-21) con 26.59 de descuento por 944.0 EUR (original: 1285.99 EUR) en el siguiente enlace!

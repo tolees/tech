@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: SpiritSun Funda para Universal Tablet de 10 Pulgadas  9.5-10.5 inch Samsung Tab S2 9.7 Huawei Tablet Case  portátil Android Funda Sleeve Ultrabook Carcasa Flip Funda
+prodname: 'SpiritSun Funda para Universal Tablet de 10 Pulgadas  9.5-10.5 inch Samsung Tab S2 9.7 Huawei Tablet Case  portátil Android Funda Sleeve Ultrabook Carcasa Flip Funda'
 ---
 
 Ahora mismo tienes [SpiritSun Funda para Universal Tablet de 10 Pulgadas  9.5-10.5 inch Samsung Tab S2 9.7 Huawei Tablet Case  portátil Android Funda Sleeve Ultrabook Carcasa Flip Funda](https://www.amazon.es/dp/B07TV4XZBS/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!

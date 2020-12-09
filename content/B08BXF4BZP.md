@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.67 EUR
 inStock: true
-prodname: FR-TEC - Auriculares Gaming Headset Asgard NJÖRD  PS 4 
+prodname: 'FR-TEC - Auriculares Gaming Headset Asgard NJÖRD  PS 4 '
 ---
 
 Está [FR-TEC - Auriculares Gaming Headset Asgard NJÖRD  PS 4 ](https://www.amazon.es/dp/B08BXF4BZP/?tag=tolees-21) con 28.07 de descuento por 11.99 EUR (original: 16.67 EUR) en el siguiente enlace!

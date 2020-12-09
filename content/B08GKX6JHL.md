@@ -14,7 +14,7 @@ currency: EUR
 price: 349.9
 comparePrice: 499.9 EUR
 inStock: true
-prodname: Lenovo Roboterstaubsauger T1 PRO mit Staubabsaugstation weiß  Intelligente Wegplanung  LDS-Lasernavigation  2 5h Akkulaufzeit  NoGo Areas  Wischfunktion 
+prodname: 'Lenovo Roboterstaubsauger T1 PRO mit Staubabsaugstation weiß  Intelligente Wegplanung  LDS-Lasernavigation  2 5h Akkulaufzeit  NoGo Areas  Wischfunktion '
 ---
 
 Tienes [Lenovo Roboterstaubsauger T1 PRO mit Staubabsaugstation weiß  Intelligente Wegplanung  LDS-Lasernavigation  2 5h Akkulaufzeit  NoGo Areas  Wischfunktion ](https://www.amazon.de/dp/B08GKX6JHL/?tag=tolees0ca-21) con un 30.01 % de descuento con precio de oferta de 349.9 EUR (original: 499.9 EUR) en el siguiente enlace!

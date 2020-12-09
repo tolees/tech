@@ -14,7 +14,7 @@ currency: EUR
 price: 28.49
 comparePrice: 37.99 EUR
 inStock: true
-prodname: Arbily Auriculares Inalambricos en la Oreja  Auriculares Bluetooth con Graves Intensos  Auriculares Inalámbricos con Pantalla Digital LED  140 Horas de Reproducción  IPX7
+prodname: 'Arbily Auriculares Inalambricos en la Oreja  Auriculares Bluetooth con Graves Intensos  Auriculares Inalámbricos con Pantalla Digital LED  140 Horas de Reproducción  IPX7'
 ---
 
 Ahora mismo tienes [Arbily Auriculares Inalambricos en la Oreja  Auriculares Bluetooth con Graves Intensos  Auriculares Inalámbricos con Pantalla Digital LED  140 Horas de Reproducción  IPX7](https://www.amazon.es/dp/B07WZZHW66/?tag=tolees-21) a 28.49 EUR (original: 37.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

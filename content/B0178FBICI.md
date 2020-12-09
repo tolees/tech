@@ -14,7 +14,7 @@ currency: EUR
 price: 9.06
 comparePrice: 18.35 EUR
 inStock: true
-prodname: Kensington 62397 - Reposamuñecas Gel Doble para Teclado  Color Azul
+prodname: 'Kensington 62397 - Reposamuñecas Gel Doble para Teclado  Color Azul'
 ---
 
 Está [Kensington 62397 - Reposamuñecas Gel Doble para Teclado  Color Azul](https://www.amazon.es/dp/B0178FBICI/?tag=tolees-21) con 50.63 de descuento por 9.06 EUR (original: 18.35 EUR) en el siguiente enlace!

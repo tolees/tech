@@ -14,7 +14,7 @@ currency: EUR
 price: 119.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Turtle Beach Elite Pro 2 Casque Gaming avec SuperAmp - PS4  PS5 et PC
+prodname: 'Turtle Beach Elite Pro 2 Casque Gaming avec SuperAmp - PS4  PS5 et PC'
 ---
 
 Ahora mismo tienes [Turtle Beach Elite Pro 2 Casque Gaming avec SuperAmp - PS4  PS5 et PC](https://www.amazon.fr/dp/B07G5ZQKGC/?tag=tolees0d-21) a 119.99 EUR (original: 169.99 EUR) (29.41 %  de descuento) en el siguiente enlace!

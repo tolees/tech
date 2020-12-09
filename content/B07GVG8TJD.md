@@ -14,7 +14,7 @@ currency: USD
 price: 49.99
 comparePrice: 129.99 USD
 inStock: true
-prodname: Jaybird X4 Wireless Bluetooth Headphones for Sport  Fitness and Running  Compatible with iOS and Android Smartphones: Sweatproof and Waterproof - Storm Metallic/Glacier
+prodname: 'Jaybird X4 Wireless Bluetooth Headphones for Sport  Fitness and Running  Compatible with iOS and Android Smartphones: Sweatproof and Waterproof - Storm Metallic/Glacier'
 ---
 
 Ahora mismo tienes [Jaybird X4 Wireless Bluetooth Headphones for Sport  Fitness and Running  Compatible with iOS and Android Smartphones: Sweatproof and Waterproof - Storm Metallic/Glacier](https://www.amazon.com/dp/B07GVG8TJD/?tag=tolees-20) a 49.99 USD (original: 129.99 USD) (61.54 %  de descuento) en el siguiente enlace!

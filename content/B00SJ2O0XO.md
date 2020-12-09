@@ -14,7 +14,7 @@ currency: EUR
 price: 68.7
 comparePrice: 106.25 EUR
 inStock: true
-prodname: Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro
+prodname: 'Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro'
 ---
 
 Ahora mismo tienes [Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21) a 68.7 EUR (original: 106.25 EUR) (35.34 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 174.99
 comparePrice: 265.37 EUR
 inStock: true
-prodname: Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim
+prodname: 'Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim'
 ---
 
 Ahora mismo tienes [Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21) a 174.99 EUR (original: 265.37 EUR) (34.06 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.97
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Mydours Alfombrilla para Ratón  95 x40cm Ultra Fino Antideslizante e Impermeable Alfombrilla para Escritorio del Cuero de PU Super-Portátil Alfombrilla  Violeta Claro 
+prodname: 'Mydours Alfombrilla para Ratón  95 x40cm Ultra Fino Antideslizante e Impermeable Alfombrilla para Escritorio del Cuero de PU Super-Portátil Alfombrilla  Violeta Claro '
 ---
 
 Ahora mismo tienes [Mydours Alfombrilla para Ratón  95 x40cm Ultra Fino Antideslizante e Impermeable Alfombrilla para Escritorio del Cuero de PU Super-Portátil Alfombrilla  Violeta Claro ](https://www.amazon.es/dp/B07THRZQFF/?tag=tolees-21) a 25.97 EUR (original: 49.99 EUR) (48.05 %  de descuento) en el siguiente enlace!

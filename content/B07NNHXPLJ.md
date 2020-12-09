@@ -14,7 +14,7 @@ currency: EUR
 price: 30.09
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Panasonic RP-HTX20B – Auriculares inalámbricos  In-Ear  Bluetooth  Carga rápida  Control Voz  Ergo fit Plus  batería 8H 30 min  Unidad Control 9 mm  Manos Libres  Color Ocre
+prodname: 'Panasonic RP-HTX20B – Auriculares inalámbricos  In-Ear  Bluetooth  Carga rápida  Control Voz  Ergo fit Plus  batería 8H 30 min  Unidad Control 9 mm  Manos Libres  Color Ocre'
 ---
 
 Tienes [Panasonic RP-HTX20B – Auriculares inalámbricos  In-Ear  Bluetooth  Carga rápida  Control Voz  Ergo fit Plus  batería 8H 30 min  Unidad Control 9 mm  Manos Libres  Color Ocre](https://www.amazon.es/dp/B07NNHXPLJ/?tag=tolees-21) con un 57.01 % de descuento con precio de oferta de 30.09 EUR (original: 69.99 EUR) en el siguiente enlace!

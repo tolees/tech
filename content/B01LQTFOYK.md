@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 81.99 EUR
 inStock: true
-prodname: Logitech G213 Prodigy Gaming Keyboard  RGB Lightsync Backlit Keys  Spill-Resistant  Customizable Keys  Dedicated Multi-Media Keys  QWERTY US International Layout  Nero
+prodname: 'Logitech G213 Prodigy Gaming Keyboard  RGB Lightsync Backlit Keys  Spill-Resistant  Customizable Keys  Dedicated Multi-Media Keys  QWERTY US International Layout  Nero'
 ---
 
 Está [Logitech G213 Prodigy Gaming Keyboard  RGB Lightsync Backlit Keys  Spill-Resistant  Customizable Keys  Dedicated Multi-Media Keys  QWERTY US International Layout  Nero](https://www.amazon.it/dp/B01LQTFOYK/?tag=tolees00-21) con 51.23 de descuento por 39.99 EUR (original: 81.99 EUR) en el siguiente enlace!

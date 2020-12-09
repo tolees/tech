@@ -14,7 +14,7 @@ currency: EUR
 price: 17.89
 comparePrice: 33.99 EUR
 inStock: true
-prodname: meross Interruptor táctil de Pared Wi-Fi 2 Gang  con Pantalla táctil  pulsador de Cristal. Compatible con Alexa  Asistente de Google y IFTTT MSS520H  Se Requiere un Cable Neutral al Instalar .
+prodname: 'meross Interruptor táctil de Pared Wi-Fi 2 Gang  con Pantalla táctil  pulsador de Cristal. Compatible con Alexa  Asistente de Google y IFTTT MSS520H  Se Requiere un Cable Neutral al Instalar .'
 ---
 
 Está [meross Interruptor táctil de Pared Wi-Fi 2 Gang  con Pantalla táctil  pulsador de Cristal. Compatible con Alexa  Asistente de Google y IFTTT MSS520H  Se Requiere un Cable Neutral al Instalar .](https://www.amazon.es/dp/B07HTCZ9PX/?tag=tolees-21) con 47.37 de descuento por 17.89 EUR (original: 33.99 EUR) en el siguiente enlace!

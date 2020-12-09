@@ -14,7 +14,7 @@ currency: EUR
 price: 7.25
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Hama | Hub Multi USB 2.0 1:4 Bus | Cuaderno | PC | Apple | Mac | Negro
+prodname: 'Hama | Hub Multi USB 2.0 1:4 Bus | Cuaderno | PC | Apple | Mac | Negro'
 ---
 
 Tienes [Hama | Hub Multi USB 2.0 1:4 Bus | Cuaderno | PC | Apple | Mac | Negro](https://www.amazon.es/dp/B00NCVSC4A/?tag=tolees-21) con un 27.43 % de descuento con precio de oferta de 7.25 EUR (original: 9.99 EUR) en el siguiente enlace!

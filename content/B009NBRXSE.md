@@ -14,7 +14,7 @@ currency: EUR
 price: 20.52
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Hi-Fun hi-Call Guanto Bluetooth per Smartphone  Nero
+prodname: 'Hi-Fun hi-Call Guanto Bluetooth per Smartphone  Nero'
 ---
 
 Tienes [Hi-Fun hi-Call Guanto Bluetooth per Smartphone  Nero](https://www.amazon.it/dp/B009NBRXSE/?tag=tolees00-21) con un 65.79 % de descuento con precio de oferta de 20.52 EUR (original: 59.99 EUR) en el siguiente enlace!

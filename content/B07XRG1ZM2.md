@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 149.0 EUR
 inStock: true
-prodname: JBL LIVE 300 TWS Cuffie In-Ear True Wireless Bluetooth  Auricolari con Microfono  Noise Cancelling  Alexa Integrata e Assistente Google  fino a 20h di Autonomia  Blu
+prodname: 'JBL LIVE 300 TWS Cuffie In-Ear True Wireless Bluetooth  Auricolari con Microfono  Noise Cancelling  Alexa Integrata e Assistente Google  fino a 20h di Autonomia  Blu'
 ---
 
 Está [JBL LIVE 300 TWS Cuffie In-Ear True Wireless Bluetooth  Auricolari con Microfono  Noise Cancelling  Alexa Integrata e Assistente Google  fino a 20h di Autonomia  Blu](https://www.amazon.it/dp/B07XRG1ZM2/?tag=tolees00-21) con 33.56 de descuento por 99.0 EUR (original: 149.0 EUR) en el siguiente enlace!

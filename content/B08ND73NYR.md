@@ -14,7 +14,7 @@ currency: EUR
 price: 15.88
 comparePrice: 27.02 EUR
 inStock: true
-prodname: Casque de jeu avec micro pour Xbox One  PC  PS4  casque de jeu stéréo Surround 3 5 mm avec micro à mémoire douce pour PC  ordinateur portable  jeu vidéo avec contrôle du volume flexible
+prodname: 'Casque de jeu avec micro pour Xbox One  PC  PS4  casque de jeu stéréo Surround 3 5 mm avec micro à mémoire douce pour PC  ordinateur portable  jeu vidéo avec contrôle du volume flexible'
 ---
 
 Ahora mismo tienes [Casque de jeu avec micro pour Xbox One  PC  PS4  casque de jeu stéréo Surround 3 5 mm avec micro à mémoire douce pour PC  ordinateur portable  jeu vidéo avec contrôle du volume flexible](https://www.amazon.fr/dp/B08ND73NYR/?tag=tolees0d-21) a 15.88 EUR (original: 27.02 EUR) (41.23 %  de descuento) en el siguiente enlace!

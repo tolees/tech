@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Logitech MX Anywhere 2 Souris sans Fil  Bluetooth et 2.4 GHz avec récepteur USB Unifying  Multidispositifs  Suivi Laser sur Toute Surface  7 Boutons  Version Amazon  Portable/PC/Mac/iPad OS - Noire
+prodname: 'Logitech MX Anywhere 2 Souris sans Fil  Bluetooth et 2.4 GHz avec récepteur USB Unifying  Multidispositifs  Suivi Laser sur Toute Surface  7 Boutons  Version Amazon  Portable/PC/Mac/iPad OS - Noire'
 ---
 
 Está [Logitech MX Anywhere 2 Souris sans Fil  Bluetooth et 2.4 GHz avec récepteur USB Unifying  Multidispositifs  Suivi Laser sur Toute Surface  7 Boutons  Version Amazon  Portable/PC/Mac/iPad OS - Noire](https://www.amazon.fr/dp/B0761YPDNM/?tag=tolees0d-21) con 56.26 de descuento por 34.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Somfy 2401498 - Thermostat connecté filaire | Thermostat sans fil pour chauffage ou chaudière individuelle | Contact sec | Compatible Amazon Alexa  l Assistant Google & TaHoma
+prodname: 'Somfy 2401498 - Thermostat connecté filaire | Thermostat sans fil pour chauffage ou chaudière individuelle | Contact sec | Compatible Amazon Alexa  l Assistant Google & TaHoma'
 ---
 
 Ahora mismo tienes [Somfy 2401498 - Thermostat connecté filaire | Thermostat sans fil pour chauffage ou chaudière individuelle | Contact sec | Compatible Amazon Alexa  l Assistant Google & TaHoma](https://www.amazon.fr/dp/B075LY9ZMD/?tag=tolees0d-21) a 99.0 EUR (original: 149.0 EUR) (33.56 %  de descuento) en el siguiente enlace!

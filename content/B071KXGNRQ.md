@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Sharon Altavoz Bluetooth DJ Roxxx Woody  Altavoz Portatil Inalámbrico Potente con MP3  Lector Tarjeta SD  Radio  Llamadas Manos Libres  Entrada Audio  Altavoz para Ordenador| 8h de Música
+prodname: 'Sharon Altavoz Bluetooth DJ Roxxx Woody  Altavoz Portatil Inalámbrico Potente con MP3  Lector Tarjeta SD  Radio  Llamadas Manos Libres  Entrada Audio  Altavoz para Ordenador| 8h de Música'
 ---
 
 Está [Sharon Altavoz Bluetooth DJ Roxxx Woody  Altavoz Portatil Inalámbrico Potente con MP3  Lector Tarjeta SD  Radio  Llamadas Manos Libres  Entrada Audio  Altavoz para Ordenador| 8h de Música](https://www.amazon.es/dp/B071KXGNRQ/?tag=tolees-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

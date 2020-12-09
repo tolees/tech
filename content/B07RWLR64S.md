@@ -14,7 +14,7 @@ currency: EUR
 price: 62.8
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Ultimate Ears Wonderboom 2 Enceintes sans Fil Bluetooth Portables  Basse Profonde  Son Puissant à 360°  Etanche  Flottante  Couplez 2 Enceinte pour un Vrai Stéréo  Batterie Longue Durée 13h - Pêche
+prodname: 'Ultimate Ears Wonderboom 2 Enceintes sans Fil Bluetooth Portables  Basse Profonde  Son Puissant à 360°  Etanche  Flottante  Couplez 2 Enceinte pour un Vrai Stéréo  Batterie Longue Durée 13h - Pêche'
 ---
 
 Ahora mismo tienes [Ultimate Ears Wonderboom 2 Enceintes sans Fil Bluetooth Portables  Basse Profonde  Son Puissant à 360°  Etanche  Flottante  Couplez 2 Enceinte pour un Vrai Stéréo  Batterie Longue Durée 13h - Pêche](https://www.amazon.fr/dp/B07RWLR64S/?tag=tolees0d-21) a 62.8 EUR (original: 99.99 EUR) (37.19 %  de descuento) en el siguiente enlace!

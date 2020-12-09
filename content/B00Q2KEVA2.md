@@ -14,7 +14,7 @@ currency: EUR
 price: 998.99
 comparePrice: 1400.0 EUR
 inStock: true
-prodname: Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero
+prodname: 'Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero'
 ---
 
 Está [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21) con 28.64 de descuento por 998.99 EUR (original: 1400.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Moleskine Zaino Tracolla Porta PC  Notebook Bag  Device Bag Horizontal  Borsa PC 13" Pollici e Tablet  Materiale Impermeabile Resistente all Acqua  Colore Grigio
+prodname: 'Moleskine Zaino Tracolla Porta PC  Notebook Bag  Device Bag Horizontal  Borsa PC 13" Pollici e Tablet  Materiale Impermeabile Resistente all Acqua  Colore Grigio'
 ---
 
 Tienes [Moleskine Zaino Tracolla Porta PC  Notebook Bag  Device Bag Horizontal  Borsa PC 13" Pollici e Tablet  Materiale Impermeabile Resistente all Acqua  Colore Grigio](https://www.amazon.it/dp/B07NTXFC53/?tag=tolees00-21) con un 62.04 % de descuento con precio de oferta de 29.99 EUR (original: 79.0 EUR) en el siguiente enlace!

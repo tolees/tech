@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: SUNSEATON Cable HDMI Macho a Macho 1080P Cable HDMI para TV/PC/DVD/Proyectores/Consolas de Juegos/Cajas Digitales/Monitor  1.5M 
+prodname: 'SUNSEATON Cable HDMI Macho a Macho 1080P Cable HDMI para TV/PC/DVD/Proyectores/Consolas de Juegos/Cajas Digitales/Monitor  1.5M '
 ---
 
 Tienes [SUNSEATON Cable HDMI Macho a Macho 1080P Cable HDMI para TV/PC/DVD/Proyectores/Consolas de Juegos/Cajas Digitales/Monitor  1.5M ](https://www.amazon.es/dp/B07LCJP9VD/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

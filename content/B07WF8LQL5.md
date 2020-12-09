@@ -14,7 +14,7 @@ currency: EUR
 price: 229.99
 comparePrice: 308.99 EUR
 inStock: true
-prodname: WD Black D10 for Xbox 12To - Disque dur externe pour Xbox One en 7 200 tr/min avec refroidissement actif pour stocker votre collection de jeux massive
+prodname: 'WD Black D10 for Xbox 12To - Disque dur externe pour Xbox One en 7 200 tr/min avec refroidissement actif pour stocker votre collection de jeux massive'
 ---
 
 Tienes [WD Black D10 for Xbox 12To - Disque dur externe pour Xbox One en 7 200 tr/min avec refroidissement actif pour stocker votre collection de jeux massive](https://www.amazon.fr/dp/B07WF8LQL5/?tag=tolees0d-21) con un 25.57 % de descuento con precio de oferta de 229.99 EUR (original: 308.99 EUR) en el siguiente enlace!

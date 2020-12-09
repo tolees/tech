@@ -14,7 +14,7 @@ currency: EUR
 price: 114.99
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Logitech Z623 THX Sistema di Altoparlanti 2.1 con Subwoofer  Certificazione THX  400 Watt  Bassi Profondi  Multi-Dispositivo  Porta 3.5 mm e RCA  Presa EU/IT  PC/PS4/Xbox/DVD/TV/Smartphone/Tablet
+prodname: 'Logitech Z623 THX Sistema di Altoparlanti 2.1 con Subwoofer  Certificazione THX  400 Watt  Bassi Profondi  Multi-Dispositivo  Porta 3.5 mm e RCA  Presa EU/IT  PC/PS4/Xbox/DVD/TV/Smartphone/Tablet'
 ---
 
 Está [Logitech Z623 THX Sistema di Altoparlanti 2.1 con Subwoofer  Certificazione THX  400 Watt  Bassi Profondi  Multi-Dispositivo  Porta 3.5 mm e RCA  Presa EU/IT  PC/PS4/Xbox/DVD/TV/Smartphone/Tablet](https://www.amazon.it/dp/B003UPJXIC/?tag=tolees00-21) con 35.76 de descuento por 114.99 EUR (original: 179.0 EUR) en el siguiente enlace!

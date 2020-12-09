@@ -14,7 +14,7 @@ currency: EUR
 price: 12.23
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Rii K12 Mini - Teclado con touchpad  WiFi 2.4 GHz  USB  Acero Inoxidable   Color Negro - QWERTY Español
+prodname: 'Rii K12 Mini - Teclado con touchpad  WiFi 2.4 GHz  USB  Acero Inoxidable   Color Negro - QWERTY Español'
 ---
 
 Ahora mismo tienes [Rii K12 Mini - Teclado con touchpad  WiFi 2.4 GHz  USB  Acero Inoxidable   Color Negro - QWERTY Español](https://www.amazon.es/dp/B00ZCFTT00/?tag=tolees-21) a 12.23 EUR (original: 17.99 EUR) (32.02 %  de descuento) en el siguiente enlace!

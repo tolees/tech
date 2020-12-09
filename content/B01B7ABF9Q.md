@@ -14,7 +14,7 @@ currency: EUR
 price: 97.47
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz
+prodname: 'Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz'
 ---
 
 Tienes [Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz](https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21) con un 30.33 % de descuento con precio de oferta de 97.47 EUR (original: 139.9 EUR) en el siguiente enlace!

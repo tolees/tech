@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Marvel s Avengers  Xbox One 
+prodname: 'Marvel s Avengers  Xbox One '
 ---
 
 Está [Marvel s Avengers  Xbox One ](https://www.amazon.fr/dp/B07TDFSRQ4/?tag=tolees0d-21) con 57.28 de descuento por 29.9 EUR (original: 69.99 EUR) en el siguiente enlace!

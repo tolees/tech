@@ -14,7 +14,7 @@ currency: USD
 price: 98.0
 comparePrice: 198.0 USD
 inStock: true
-prodname: Sony SSCS3 3-Way Floor-Standing Speaker  Single  - Black
+prodname: 'Sony SSCS3 3-Way Floor-Standing Speaker  Single  - Black'
 ---
 
 Tienes [Sony SSCS3 3-Way Floor-Standing Speaker  Single  - Black](https://www.amazon.com/dp/B00O8YLL8E/?tag=tolees-20) con un 50.51 % de descuento con precio de oferta de 98.0 USD (original: 198.0 USD) en el siguiente enlace!

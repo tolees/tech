@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Vaultskin Eton Armour - Funda de Cuero para iPhone SE y 5s  Cognac 
+prodname: 'Vaultskin Eton Armour - Funda de Cuero para iPhone SE y 5s  Cognac '
 ---
 
 Está [Vaultskin Eton Armour - Funda de Cuero para iPhone SE y 5s  Cognac ](https://www.amazon.es/dp/B01N63WWKO/?tag=tolees-21) con 55.57 de descuento por 19.99 EUR (original: 44.99 EUR) en el siguiente enlace!

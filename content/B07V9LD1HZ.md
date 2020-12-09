@@ -14,7 +14,7 @@ currency: EUR
 price: 799.0
 comparePrice: 1199.99 EUR
 inStock: true
-prodname: iRobot Roomba i7556 Aspirateur Robot connecté avec système d autovidage et aspiration surpuissante - brosses en caoutchouc multisurfaces - idéal pour les poils d animaux
+prodname: 'iRobot Roomba i7556 Aspirateur Robot connecté avec système d autovidage et aspiration surpuissante - brosses en caoutchouc multisurfaces - idéal pour les poils d animaux'
 ---
 
 Está [iRobot Roomba i7556 Aspirateur Robot connecté avec système d autovidage et aspiration surpuissante - brosses en caoutchouc multisurfaces - idéal pour les poils d animaux](https://www.amazon.fr/dp/B07V9LD1HZ/?tag=tolees0d-21) con 33.42 de descuento por 799.0 EUR (original: 1199.99 EUR) en el siguiente enlace!

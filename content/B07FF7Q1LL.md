@@ -14,7 +14,7 @@ currency: EUR
 price: 27.9
 comparePrice: 40.47 EUR
 inStock: true
-prodname: HUAWEI 55030207 Creative Capacity Pen para MediaPad M5 Lite 10 Pulgadas Gris
+prodname: 'HUAWEI 55030207 Creative Capacity Pen para MediaPad M5 Lite 10 Pulgadas Gris'
 ---
 
 Tienes [HUAWEI 55030207 Creative Capacity Pen para MediaPad M5 Lite 10 Pulgadas Gris](https://www.amazon.es/dp/B07FF7Q1LL/?tag=tolees-21) con un 31.06 % de descuento con precio de oferta de 27.9 EUR (original: 40.47 EUR) en el siguiente enlace!

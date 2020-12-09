@@ -14,7 +14,7 @@ currency: EUR
 price: 8.98
 comparePrice: 12.98 EUR
 inStock: true
-prodname: Oihxse Cristal Compatible con Xiaomi Redmi GO Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B8 
+prodname: 'Oihxse Cristal Compatible con Xiaomi Redmi GO Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B8 '
 ---
 
 Tienes [Oihxse Cristal Compatible con Xiaomi Redmi GO Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B8 ](https://www.amazon.es/dp/B087LV6PQJ/?tag=tolees-21) con un 30.82 % de descuento con precio de oferta de 8.98 EUR (original: 12.98 EUR) en el siguiente enlace!

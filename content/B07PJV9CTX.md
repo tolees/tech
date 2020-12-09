@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 53.99 EUR
 inStock: true
-prodname: Echo Dot  3ème génération   Reconditionné Certifié  Enceinte connectée avec Alexa  Tissu anthracite
+prodname: 'Echo Dot  3ème génération   Reconditionné Certifié  Enceinte connectée avec Alexa  Tissu anthracite'
 ---
 
 Ahora mismo tienes [Echo Dot  3ème génération   Reconditionné Certifié  Enceinte connectée avec Alexa  Tissu anthracite](https://www.amazon.fr/dp/B07PJV9CTX/?tag=tolees0d-21) a 24.99 EUR (original: 53.99 EUR) (53.71 %  de descuento) en el siguiente enlace!
