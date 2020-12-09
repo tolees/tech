@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Crucial CT2K4G4SFS8266 Kit de Memoria RA al 39.70 % de descuento'
-date: 2020-12-03 11:26:11
+title: 'Crucial RAM CT2K4G4SFS8266 8 GB  2 x 4 G al 39.70 % de descuento'
+date: 2020-12-09 14:17:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg' ]
 comments: true
@@ -14,12 +14,12 @@ currency: EUR
 price: 26.99
 comparePrice: 44.76 EUR
 inStock: true
-prodname: 'Crucial CT2K4G4SFS8266 Kit de Memoria RAM de 8 GB  4 GB x 2   DDR4  2666 MT/s  PC4-21300  CL19  Single Rank x 8  SODIMM  260-Pin  Verde'
+prodname: 'Crucial RAM CT2K4G4SFS8266 8 GB  2 x 4 GB  DDR4 2666 MHz CL19 Kit de Memoria Portátil'
 ---
 
-Ahora mismo tienes [Crucial CT2K4G4SFS8266 Kit de Memoria RAM de 8 GB  4 GB x 2   DDR4  2666 MT/s  PC4-21300  CL19  Single Rank x 8  SODIMM  260-Pin  Verde](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21) a 26.99 EUR (original: 44.76 EUR) (39.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Crucial RAM CT2K4G4SFS8266 8 GB  2 x 4 GB  DDR4 2666 MHz CL19 Kit de Memoria Portátil](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21) a 26.99 EUR (original: 44.76 EUR) (39.70 %  de descuento) en el siguiente enlace!
 
-[![Crucial CT2K4G4SFS8266 Kit de Memoria RA](https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg)](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21)
+[![Crucial RAM CT2K4G4SFS8266 8 GB  2 x 4 G](https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg)](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21)
 
