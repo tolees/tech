@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale'
 ---
 
-Está [Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21) con 59.12 de descuento por 9.34 EUR (original: 22.85 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21) a 9.34 EUR (original: 22.85 EUR) (59.12 %  de descuento) en el siguiente enlace!
 
 [![Rhodesy RT-01 Treppiede Portatile Octopu](https://m.media-amazon.com/images/I/41EXygkGNgL._SL200_.jpg)](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
