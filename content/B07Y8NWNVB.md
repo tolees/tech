@@ -17,10 +17,12 @@ inStock: true
 prodname: 'F1 2019 - Xbox One'
 ---
 
-Ahora mismo tienes [F1 2019 - Xbox One](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
+Está [F1 2019 - Xbox One](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![F1 2019 - Xbox One](https://m.media-amazon.com/images/I/51chaJB33KL._SL200_.jpg)](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
