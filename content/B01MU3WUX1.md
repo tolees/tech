@@ -14,12 +14,10 @@ comparePrice: 199.99 GBP
 inStock: true
 ---
 
-Está [Ubiquiti UniFi Switch 8 Gemanaged Gigabit Ethernet 10/100/1000 over Ethernet  PoE  Energy Support  Grey  US 8-60W](https://www.amazon.co.uk/dp/B01MU3WUX1/?tag=tolees0a-21) con 47.25 de descuento por 105.5 GBP (original: 199.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Ubiquiti UniFi Switch 8 Gemanaged Gigabit Ethernet 10/100/1000 over Ethernet  PoE  Energy Support  Grey  US 8-60W](https://www.amazon.co.uk/dp/B01MU3WUX1/?tag=tolees0a-21) a 105.5 GBP (original: 199.99 GBP) (47.25 %  de descuento) en el siguiente enlace!
 
 [![Ubiquiti UniFi Switch 8 Gemanaged Gigabi](https://m.media-amazon.com/images/I/31yCv1hSCEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01MU3WUX1/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01MU3WUX1/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01MU3WUX1/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
