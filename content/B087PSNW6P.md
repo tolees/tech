@@ -10,8 +10,11 @@ author: ring
 slug: B087PSNW6P
 description:
 actualPrice: 19.58 EUR
+currency: EUR
+price: 19.58
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Incarler 44A Cartucho de Tóner Compatible con HP 44A CF244A Toner para HP Laserjet Pro M15w M15a MFP M28w MFP M28a Impresora con Chip - 2 Negro
 ---
 
 Está [Incarler 44A Cartucho de Tóner Compatible con HP 44A CF244A Toner para HP Laserjet Pro M15w M15a MFP M28w MFP M28a Impresora con Chip - 2 Negro](https://www.amazon.es/dp/B087PSNW6P/?tag=tolees-21) con 27.45 de descuento por 19.58 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XSBMHJT
 description:
 actualPrice: 21.78 EUR
+currency: EUR
+price: 21.78
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Meizu A20 Speaker - Altavoz portátil Bluetooth 4.2  Blanco
 ---
 
 Ahora mismo tienes [Meizu A20 Speaker - Altavoz portátil Bluetooth 4.2  Blanco](https://www.amazon.es/dp/B06XSBMHJT/?tag=tolees-21) a 21.78 EUR (original: 49.9 EUR) (56.35 %  de descuento) en el siguiente enlace!

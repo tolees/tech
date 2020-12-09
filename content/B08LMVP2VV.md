@@ -10,8 +10,11 @@ author: ring
 slug: B08LMVP2VV
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop1To Bleu
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop1To Bleu](https://www.amazon.fr/dp/B08LMVP2VV/?tag=tolees0d-21) a 47.99 EUR (original: 69.0 EUR) (30.45 %  de descuento) en el siguiente enlace!

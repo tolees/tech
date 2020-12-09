@@ -10,8 +10,11 @@ author: ring
 slug: B07RCMJMCJ
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: EZVIZ C6CN 1080p Cámara de Seguridad Pan/Tilt WiFi de Vigilancia Visión Nocturna Audio Bidireccional Máscara de Privacidad Inteligente Seguimiento de Movimiento  Servicio de Nube  Compatible con Alexa
 ---
 
 Tienes [EZVIZ C6CN 1080p Cámara de Seguridad Pan/Tilt WiFi de Vigilancia Visión Nocturna Audio Bidireccional Máscara de Privacidad Inteligente Seguimiento de Movimiento  Servicio de Nube  Compatible con Alexa](https://www.amazon.es/dp/B07RCMJMCJ/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!

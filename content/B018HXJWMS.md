@@ -10,8 +10,11 @@ author: ring
 slug: B018HXJWMS
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 12.17 EUR
 inStock: true
+prodname: AUKEY Adaptador HDMI a VGA 1080P Convertidor de Vídeo para PC  TV  Ordenadores Portátiles y Otros Dispositivos HDMI - Negro  New 
 ---
 
 Tienes [AUKEY Adaptador HDMI a VGA 1080P Convertidor de Vídeo para PC  TV  Ordenadores Portátiles y Otros Dispositivos HDMI - Negro  New ](https://www.amazon.es/dp/B018HXJWMS/?tag=tolees-21) con un 34.35 % de descuento con precio de oferta de 7.99 EUR (original: 12.17 EUR) en el siguiente enlace!

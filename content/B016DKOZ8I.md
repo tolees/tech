@@ -10,8 +10,11 @@ author: ring
 slug: B016DKOZ8I
 description:
 actualPrice: 7.09 EUR
+currency: EUR
+price: 7.09
 comparePrice: 11.29 EUR
 inStock: true
+prodname: atFoliX Anti-Choque Lámina Protectora de Pantalla compatible con Nintendo 2DS Antichoque Película Protectora  antirreflectante y flexible FX Película Protectora  Set de 3 
 ---
 
 Está [atFoliX Anti-Choque Lámina Protectora de Pantalla compatible con Nintendo 2DS Antichoque Película Protectora  antirreflectante y flexible FX Película Protectora  Set de 3 ](https://www.amazon.es/dp/B016DKOZ8I/?tag=tolees-21) con 37.20 de descuento por 7.09 EUR (original: 11.29 EUR) en el siguiente enlace!

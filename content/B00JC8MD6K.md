@@ -10,8 +10,11 @@ author: ring
 slug: B00JC8MD6K
 description:
 actualPrice: 333.99 EUR
+currency: EUR
+price: 333.99
 comparePrice: 479.9 EUR
 inStock: true
+prodname: Samsung Galaxy A71 Smartphone  Display 6.7" Super AMOLED  4 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Dual Sim  Android 10  [Versione Italiana]  Prism Crush Black
 ---
 
 Está [Samsung Galaxy A71 Smartphone  Display 6.7" Super AMOLED  4 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Dual Sim  Android 10  [Versione Italiana]  Prism Crush Black](https://www.amazon.it/dp/B00JC8MD6K/?tag=tolees00-21) con 30.40 de descuento por 333.99 EUR (original: 479.9 EUR) en el siguiente enlace!

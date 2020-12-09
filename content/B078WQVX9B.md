@@ -10,8 +10,11 @@ author: ring
 slug: B078WQVX9B
 description:
 actualPrice: 74.69 EUR
+currency: EUR
+price: 74.69
 comparePrice: 107.99 EUR
 inStock: true
+prodname: SAMSUNG EVO M.2 - Disco Estado Solido SSD  500 GB  550 megabytes/s  Color Negro
 ---
 
 Tienes [SAMSUNG EVO M.2 - Disco Estado Solido SSD  500 GB  550 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQVX9B/?tag=tolees-21) con un 30.84 % de descuento con precio de oferta de 74.69 EUR (original: 107.99 EUR) en el siguiente enlace!

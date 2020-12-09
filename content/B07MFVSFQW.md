@@ -10,8 +10,11 @@ author: ring
 slug: B07MFVSFQW
 description:
 actualPrice: 123.71 EUR
+currency: EUR
+price: 123.71
 comparePrice: 185.0 EUR
 inStock: true
+prodname: Jaybird Run XT Auriculares Inalámbricos Bluetooth Deportivos para Deporte y Running  Resistencia Impermeable hasta 12 Horas de Duración de Batería  Móvil/Tableta/iOS/Android  Gris
 ---
 
 Tienes [Jaybird Run XT Auriculares Inalámbricos Bluetooth Deportivos para Deporte y Running  Resistencia Impermeable hasta 12 Horas de Duración de Batería  Móvil/Tableta/iOS/Android  Gris](https://www.amazon.es/dp/B07MFVSFQW/?tag=tolees-21) con un 33.13 % de descuento con precio de oferta de 123.71 EUR (original: 185.0 EUR) en el siguiente enlace!

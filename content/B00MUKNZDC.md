@@ -10,8 +10,11 @@ author: ring
 slug: B00MUKNZDC
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 119.0 EUR
 inStock: true
+prodname: JBL Horizon - Radio Despertador de doble alarma inalámbrico Bluetooth con puerto de carga USB y Luz LED Ambiental Despertar de Amanecer  color negro
 ---
 
 Ahora mismo tienes [JBL Horizon - Radio Despertador de doble alarma inalámbrico Bluetooth con puerto de carga USB y Luz LED Ambiental Despertar de Amanecer  color negro](https://www.amazon.es/dp/B00MUKNZDC/?tag=tolees-21) a 69.99 EUR (original: 119.0 EUR) (41.18 %  de descuento) en el siguiente enlace!

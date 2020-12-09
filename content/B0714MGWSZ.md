@@ -10,8 +10,11 @@ author: ring
 slug: B0714MGWSZ
 description:
 actualPrice: 42.4 EUR
+currency: EUR
+price: 42.4
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Rastreador GPS para Vehículos  Real Antirrobo Localizador GPS Impermeable on Seguimiento de Actividad Fuerte Imán Recargable 120 días Standby GPS Tracker con App/Web No Installation TK915
 ---
 
 Está [Rastreador GPS para Vehículos  Real Antirrobo Localizador GPS Impermeable on Seguimiento de Actividad Fuerte Imán Recargable 120 días Standby GPS Tracker con App/Web No Installation TK915](https://www.amazon.es/dp/B0714MGWSZ/?tag=tolees-21) con 29.32 de descuento por 42.4 EUR (original: 59.99 EUR) en el siguiente enlace!

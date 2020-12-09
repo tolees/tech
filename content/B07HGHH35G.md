@@ -10,8 +10,11 @@ author: ring
 slug: B07HGHH35G
 description:
 actualPrice: 126.65 EUR
+currency: EUR
+price: 126.65
 comparePrice: 179.0 EUR
 inStock: true
+prodname: JBL Charge 4 - Altavoz inalámbrico portátil con Bluetooth  resistente al agua  IPX7   JBL Connect+  hasta 20h de reproducción con sonido de alta fidelidad  color azul
 ---
 
 Está [JBL Charge 4 - Altavoz inalámbrico portátil con Bluetooth  resistente al agua  IPX7   JBL Connect+  hasta 20h de reproducción con sonido de alta fidelidad  color azul](https://www.amazon.es/dp/B07HGHH35G/?tag=tolees-21) con 29.25 de descuento por 126.65 EUR (original: 179.0 EUR) en el siguiente enlace!

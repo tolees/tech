@@ -10,8 +10,11 @@ author: ring
 slug: B00AZKNPZC
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidiestro  PC/Mac/Portátil  Negro
 ---
 
 Tienes [Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidiestro  PC/Mac/Portátil  Negro](https://www.amazon.es/dp/B00AZKNPZC/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01M1IU8UV
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 8.75 EUR
 inStock: true
+prodname: Mars Gaming MAM0 - Ratón gaming para PC  2800 DPI  óptico  Iluminación LED
 ---
 
 Está [Mars Gaming MAM0 - Ratón gaming para PC  2800 DPI  óptico  Iluminación LED](https://www.amazon.es/dp/B01M1IU8UV/?tag=tolees-21) con 42.97 de descuento por 4.99 EUR (original: 8.75 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B089VTR7ZS
 description:
 actualPrice: 25.59 EUR
+currency: EUR
+price: 25.59
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Tronsmart Glary-Alpha-Nuove 2020 Cuffie Gaming con Driver da 50mm-Microfono 3.5mm-Cuffie da Gioco con Cancellazione del Rumore Archetto Comodo e Regolabile-Stereo Bass per PS4 Xbox One PC Smartphone
 ---
 
 Está [Tronsmart Glary-Alpha-Nuove 2020 Cuffie Gaming con Driver da 50mm-Microfono 3.5mm-Cuffie da Gioco con Cancellazione del Rumore Archetto Comodo e Regolabile-Stereo Bass per PS4 Xbox One PC Smartphone](https://www.amazon.it/dp/B089VTR7ZS/?tag=tolees00-21) con 36.01 de descuento por 25.59 EUR (original: 39.99 EUR) en el siguiente enlace!

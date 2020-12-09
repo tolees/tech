@@ -10,8 +10,11 @@ author: ring
 slug: B00GJOQE9W
 description:
 actualPrice: 71.99 EUR
+currency: EUR
+price: 71.99
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Panasonic Eh-Na65-K825 Sèche-Cheveux Avec Diffuseur | Nanoe  Technologie Ionique Avancée  | Protection Des Cheveux | Style Professionnel | 2000 W  Noir et Rose
 ---
 
 Tienes [Panasonic Eh-Na65-K825 Sèche-Cheveux Avec Diffuseur | Nanoe  Technologie Ionique Avancée  | Protection Des Cheveux | Style Professionnel | 2000 W  Noir et Rose](https://www.amazon.fr/dp/B00GJOQE9W/?tag=tolees0d-21) con un 44.19 % de descuento con precio de oferta de 71.99 EUR (original: 129.0 EUR) en el siguiente enlace!

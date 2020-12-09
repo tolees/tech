@@ -10,8 +10,11 @@ author: ring
 slug: B01N4GSTI0
 description:
 actualPrice: 33.65 EUR
+currency: EUR
+price: 33.65
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Thule TSS313DSH - Funda Resistente con Forro de Felpa para Apple MacBook de 13"  Color Gris Oscuro
 ---
 
 Está [Thule TSS313DSH - Funda Resistente con Forro de Felpa para Apple MacBook de 13"  Color Gris Oscuro](https://www.amazon.es/dp/B01N4GSTI0/?tag=tolees-21) con 32.63 de descuento por 33.65 EUR (original: 49.95 EUR) en el siguiente enlace!

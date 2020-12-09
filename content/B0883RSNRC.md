@@ -10,8 +10,11 @@ author: ring
 slug: B0883RSNRC
 description:
 actualPrice: 369.0 GBP
+currency: GBP
+price: 369.0
 comparePrice: 499.0 GBP
 inStock: true
+prodname: Panasonic TX-43HX580BZ 43 Inch 4K Ultra HD Multi HDR LED LCD Smart TV with Freeview Play  2020   Black
 ---
 
 Ahora mismo tienes [Panasonic TX-43HX580BZ 43 Inch 4K Ultra HD Multi HDR LED LCD Smart TV with Freeview Play  2020   Black](https://www.amazon.co.uk/dp/B0883RSNRC/?tag=tolees0a-21) a 369.0 GBP (original: 499.0 GBP) (26.05 %  de descuento) en el siguiente enlace!

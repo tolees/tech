@@ -10,8 +10,11 @@ author: ring
 slug: B088BCFMTP
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 12.98 EUR
 inStock: true
+prodname: Oihxse Cristal Compatible con Samsung Galaxy A40s Funda Ultra-Delgado Silicona TPU Suave Protector Estuche Creativa Patrón Panda Protector Anti-Choque Carcasa Cover Panda A8 
 ---
 
 Está [Oihxse Cristal Compatible con Samsung Galaxy A40s Funda Ultra-Delgado Silicona TPU Suave Protector Estuche Creativa Patrón Panda Protector Anti-Choque Carcasa Cover Panda A8 ](https://www.amazon.es/dp/B088BCFMTP/?tag=tolees-21) con 38.52 de descuento por 7.98 EUR (original: 12.98 EUR) en el siguiente enlace!

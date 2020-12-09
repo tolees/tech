@@ -10,8 +10,11 @@ author: ring
 slug: B01CQOV3YO
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: DOSS SoundBox - Altavoz Bluetooth con Tacto Sensible  Potente Subgrave 12W Doble Controlador Integrado 12 Horas de Reproducción Continua y Manos Libres  Negro 
 ---
 
 Tienes [DOSS SoundBox - Altavoz Bluetooth con Tacto Sensible  Potente Subgrave 12W Doble Controlador Integrado 12 Horas de Reproducción Continua y Manos Libres  Negro ](https://www.amazon.es/dp/B01CQOV3YO/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

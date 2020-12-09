@@ -10,8 +10,11 @@ author: ring
 slug: B01MAX4FP6
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 27.73 EUR
 inStock: true
+prodname: JBL E15 - Auriculares Intraaurales con Universal de 1 Botones de Mando a Distancia con Micrófono Integrado Compatible con la mayoría de los Smartphones  Blanco
 ---
 
 Ahora mismo tienes [JBL E15 - Auriculares Intraaurales con Universal de 1 Botones de Mando a Distancia con Micrófono Integrado Compatible con la mayoría de los Smartphones  Blanco](https://www.amazon.es/dp/B01MAX4FP6/?tag=tolees-21) a 15 EUR (original: 27.73 EUR) (45.91 %  de descuento) en el siguiente enlace!

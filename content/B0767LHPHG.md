@@ -10,8 +10,11 @@ author: ring
 slug: B0767LHPHG
 description:
 actualPrice: 479.99 USD
+currency: USD
+price: 479.99
 comparePrice: 779.0 USD
 inStock: true
+prodname: Apple iPad Pro  10.5-inch  Wi-Fi + Cellular  64GB  - Gold  Previous Model 
 ---
 
 Está [Apple iPad Pro  10.5-inch  Wi-Fi + Cellular  64GB  - Gold  Previous Model ](https://www.amazon.com/dp/B0767LHPHG/?tag=tolees-20) con 38.38 de descuento por 479.99 USD (original: 779.0 USD) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WHT92WZ
 description:
 actualPrice: 149.0 GBP
+currency: GBP
+price: 149.0
 comparePrice: 279.0 GBP
 inStock: true
+prodname: Fossil Men s GEN 5 Touchscreen Connected Smartwatch with Silicone strap FTW4025
 ---
 
 Está [Fossil Men s GEN 5 Touchscreen Connected Smartwatch with Silicone strap FTW4025](https://www.amazon.co.uk/dp/B07WHT92WZ/?tag=tolees0a-21) con 46.59 de descuento por 149.0 GBP (original: 279.0 GBP) en el siguiente enlace!

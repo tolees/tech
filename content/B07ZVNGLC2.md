@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVNGLC2
 description:
 actualPrice: 136.99 EUR
+currency: EUR
+price: 136.99
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Radio Coche Android para VW  YYKJ Autoradio Bluetooth 8" Pantalla Táctil Estéreo Coche Soporte GPS BT FM USB TF Subwoofer Radio Tactil para Passat Jetta Skoda Polo Golf Touran con Cámara Respaldo
 ---
 
 Tienes [Radio Coche Android para VW  YYKJ Autoradio Bluetooth 8" Pantalla Táctil Estéreo Coche Soporte GPS BT FM USB TF Subwoofer Radio Tactil para Passat Jetta Skoda Polo Golf Touran con Cámara Respaldo](https://www.amazon.es/dp/B07ZVNGLC2/?tag=tolees-21) con un 31.16 % de descuento con precio de oferta de 136.99 EUR (original: 199.0 EUR) en el siguiente enlace!

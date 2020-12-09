@@ -10,8 +10,11 @@ author: ring
 slug: B08CBTSCKW
 description:
 actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
 comparePrice: 54.99 EUR
 inStock: true
+prodname: NBA 2k21- Nintendo Switch  Edición Exclusiva Amazon 
 ---
 
 Tienes [NBA 2k21- Nintendo Switch  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B08CBTSCKW/?tag=tolees-21) con un 40.90 % de descuento con precio de oferta de 32.5 EUR (original: 54.99 EUR) en el siguiente enlace!

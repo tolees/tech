@@ -10,8 +10,11 @@ author: ring
 slug: B07YQGZY74
 description:
 actualPrice: 89.99 GBP
+currency: GBP
+price: 89.99
 comparePrice: 129.99 GBP
 inStock: true
+prodname: NETGEAR Orbi Whole Home Mesh Wi-Fi Network System - Eliminate WiFi Dead Zones and Enhance Speeds With Up To 2000 sq ft coverage  Replaces Router and Wifi Booster  RBK12 
 ---
 
 Tienes [NETGEAR Orbi Whole Home Mesh Wi-Fi Network System - Eliminate WiFi Dead Zones and Enhance Speeds With Up To 2000 sq ft coverage  Replaces Router and Wifi Booster  RBK12 ](https://www.amazon.co.uk/dp/B07YQGZY74/?tag=tolees0a-21) con un 30.77 % de descuento con precio de oferta de 89.99 GBP (original: 129.99 GBP) en el siguiente enlace!

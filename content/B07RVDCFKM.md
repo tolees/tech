@@ -10,8 +10,11 @@ author: ring
 slug: B07RVDCFKM
 description:
 actualPrice: 19.99 USD
+currency: USD
+price: 19.99
 comparePrice: 29.99 USD
 inStock: true
+prodname: Belkin in-Ear Lightning Headphones w/Mic Control  iPhone Earbuds  White
 ---
 
 Tienes [Belkin in-Ear Lightning Headphones w/Mic Control  iPhone Earbuds  White](https://www.amazon.com/dp/B07RVDCFKM/?tag=tolees-20) con un 33.34 % de descuento con precio de oferta de 19.99 USD (original: 29.99 USD) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B085TCNGCK
 description:
 actualPrice: 53.71 EUR
+currency: EUR
+price: 53.71
 comparePrice: 89.97 EUR
 inStock: true
+prodname: Proyector  YABER Mini Proyector Portátil Soporte Full HD 1080p Cine en Casa de 5500 Lúmenes y 50000 Horas con HiFi Altavoz Estereo  Compatible con iPad/iPhone/Android/TV Box/Fire Stick/Chromecast
 ---
 
 Ahora mismo tienes [Proyector  YABER Mini Proyector Portátil Soporte Full HD 1080p Cine en Casa de 5500 Lúmenes y 50000 Horas con HiFi Altavoz Estereo  Compatible con iPad/iPhone/Android/TV Box/Fire Stick/Chromecast](https://www.amazon.es/dp/B085TCNGCK/?tag=tolees-21) a 53.71 EUR (original: 89.97 EUR) (40.30 %  de descuento) en el siguiente enlace!

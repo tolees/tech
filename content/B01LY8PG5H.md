@@ -10,8 +10,11 @@ author: ring
 slug: B01LY8PG5H
 description:
 actualPrice: 9.34 EUR
+currency: EUR
+price: 9.34
 comparePrice: 22.85 EUR
 inStock: true
+prodname: Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale
 ---
 
 Ahora mismo tienes [Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21) a 9.34 EUR (original: 22.85 EUR) (59.12 %  de descuento) en el siguiente enlace!

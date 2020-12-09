@@ -10,8 +10,11 @@ author: ring
 slug: B08M3TQKJ3
 description:
 actualPrice: 8.13 EUR
+currency: EUR
+price: 8.13
 comparePrice: 12.23 EUR
 inStock: true
+prodname: Auriculares para juegos con cable de 3.5Mm Auriculares para juegos con cancelación de ruido Auriculares con micrófono Control de volumen-Azul
 ---
 
 Tienes [Auriculares para juegos con cable de 3.5Mm Auriculares para juegos con cancelación de ruido Auriculares con micrófono Control de volumen-Azul](https://www.amazon.es/dp/B08M3TQKJ3/?tag=tolees-21) con un 33.52 % de descuento con precio de oferta de 8.13 EUR (original: 12.23 EUR) en el siguiente enlace!

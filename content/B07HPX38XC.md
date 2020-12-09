@@ -10,8 +10,11 @@ author: ring
 slug: B07HPX38XC
 description:
 actualPrice: 39.29 EUR
+currency: EUR
+price: 39.29
 comparePrice: 56.82 EUR
 inStock: true
+prodname: Samsung FIT Plus 256GB Typ-A 400 MB/s USB 3.1 Flash Drive  MUF-256AB/APC 
 ---
 
 Tienes [Samsung FIT Plus 256GB Typ-A 400 MB/s USB 3.1 Flash Drive  MUF-256AB/APC ](https://www.amazon.de/dp/B07HPX38XC/?tag=tolees0ca-21) con un 30.85 % de descuento con precio de oferta de 39.29 EUR (original: 56.82 EUR) en el siguiente enlace!

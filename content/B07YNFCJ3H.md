@@ -10,8 +10,11 @@ author: ring
 slug: B07YNFCJ3H
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Microsoft – Bluetooth Keyboard – clavier Bluetooth pour PC  ordinateurs portables compatible Windows  Mac  Chrome OS  épuré  moderne  pavé numérique  touches Office365 & Emoji  – Noir  QSZ-00005 
 ---
 
 Ahora mismo tienes [Microsoft – Bluetooth Keyboard – clavier Bluetooth pour PC  ordinateurs portables compatible Windows  Mac  Chrome OS  épuré  moderne  pavé numérique  touches Office365 & Emoji  – Noir  QSZ-00005 ](https://www.amazon.fr/dp/B07YNFCJ3H/?tag=tolees0d-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

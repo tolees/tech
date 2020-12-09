@@ -10,8 +10,11 @@ author: ring
 slug: B08GTXVG9P
 description:
 actualPrice: 114.99 EUR
+currency: EUR
+price: 114.99
 comparePrice: 157.28 EUR
 inStock: true
+prodname: SanDisk Extreme SSD NVMe Portatile da 500 GB  USB-C  Velocità di Lettura fino a 1050 MB/s e di Scrittura fino a 1000 MB/s  Resistente e Impermeabile  IP55  Nero
 ---
 
 Ahora mismo tienes [SanDisk Extreme SSD NVMe Portatile da 500 GB  USB-C  Velocità di Lettura fino a 1050 MB/s e di Scrittura fino a 1000 MB/s  Resistente e Impermeabile  IP55  Nero](https://www.amazon.it/dp/B08GTXVG9P/?tag=tolees00-21) a 114.99 EUR (original: 157.28 EUR) (26.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XC8H1FN
 description:
 actualPrice: 23.11 EUR
+currency: EUR
+price: 23.11
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Drone Championship League - The Game - Xbox One
 ---
 
 Está [Drone Championship League - The Game - Xbox One](https://www.amazon.it/dp/B07XC8H1FN/?tag=tolees00-21) con 42.21 de descuento por 23.11 EUR (original: 39.99 EUR) en el siguiente enlace!

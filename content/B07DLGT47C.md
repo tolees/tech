@@ -10,8 +10,11 @@ author: ring
 slug: B07DLGT47C
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 32.0 EUR
 inStock: true
+prodname: Death Stranding - PlayStation 4
 ---
 
 Está [Death Stranding - PlayStation 4](https://www.amazon.it/dp/B07DLGT47C/?tag=tolees00-21) con 37.53 de descuento por 19.99 EUR (original: 32.0 EUR) en el siguiente enlace!

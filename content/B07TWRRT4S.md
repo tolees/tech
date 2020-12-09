@@ -10,8 +10,11 @@ author: ring
 slug: B07TWRRT4S
 description:
 actualPrice: 29.74 EUR
+currency: EUR
+price: 29.74
 comparePrice: 54.99 EUR
 inStock: true
+prodname: AUKEY Teclado Mecánico Retroiluminación LED con Interruptores Azul  105 Teclas 100% Anti-ghosting  Disposicion Española Teclado Gaming con Panel de Metal e Impermiable
 ---
 
 Ahora mismo tienes [AUKEY Teclado Mecánico Retroiluminación LED con Interruptores Azul  105 Teclas 100% Anti-ghosting  Disposicion Española Teclado Gaming con Panel de Metal e Impermiable](https://www.amazon.es/dp/B07TWRRT4S/?tag=tolees-21) a 29.74 EUR (original: 54.99 EUR) (45.92 %  de descuento) en el siguiente enlace!

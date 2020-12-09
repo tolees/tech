@@ -10,8 +10,11 @@ author: ring
 slug: B07XMG9Y9V
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Two Point Hospital - Nintendo Switch
 ---
 
 Está [Two Point Hospital - Nintendo Switch](https://www.amazon.it/dp/B07XMG9Y9V/?tag=tolees00-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

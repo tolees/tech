@@ -10,8 +10,11 @@ author: ring
 slug: B08LGSZT7L
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 77.73 EUR
 inStock: true
+prodname: Disco Duro Externo 1 TB USB3.0 Disco Duro Externo 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  1TB Rojo 
 ---
 
 Tienes [Disco Duro Externo 1 TB USB3.0 Disco Duro Externo 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  1TB Rojo ](https://www.amazon.es/dp/B08LGSZT7L/?tag=tolees-21) con un 38.26 % de descuento con precio de oferta de 47.99 EUR (original: 77.73 EUR) en el siguiente enlace!

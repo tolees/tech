@@ -10,8 +10,11 @@ author: ring
 slug: B01CIEBS74
 description:
 actualPrice: 23.19 EUR
+currency: EUR
+price: 23.19
 comparePrice: 32.99 EUR
 inStock: true
+prodname: SanDisk iXpand - Memoria Flash USB de 64 GB para iPhone y iPad  Color Negro
 ---
 
 Está [SanDisk iXpand - Memoria Flash USB de 64 GB para iPhone y iPad  Color Negro](https://www.amazon.es/dp/B01CIEBS74/?tag=tolees-21) con 29.71 de descuento por 23.19 EUR (original: 32.99 EUR) en el siguiente enlace!

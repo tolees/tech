@@ -10,8 +10,11 @@ author: ring
 slug: B07BBPSFB1
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Sharon Wellsmart Cardio Sport - Pulsera Reloj inteligente Fitness Tracker  Bluetooth Ritmo Cardíaco  Impermeable  Integra Apple Health Google Fit
 ---
 
 Ahora mismo tienes [Sharon Wellsmart Cardio Sport - Pulsera Reloj inteligente Fitness Tracker  Bluetooth Ritmo Cardíaco  Impermeable  Integra Apple Health Google Fit](https://www.amazon.es/dp/B07BBPSFB1/?tag=tolees-21) a 35.99 EUR (original: 69.99 EUR) (48.58 %  de descuento) en el siguiente enlace!

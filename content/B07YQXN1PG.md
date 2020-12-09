@@ -10,8 +10,11 @@ author: ring
 slug: B07YQXN1PG
 description:
 actualPrice: 14.21 EUR
+currency: EUR
+price: 14.21
 comparePrice: 21.99 EUR
 inStock: true
+prodname: AUKEY Hub USB C Adattatore 6 in 1 con 3 Porte USB 3.0 Slot Schede SD e MicroSD Porta HDMI Adattatore USB C Compatibile con MacBook Pro Dell XPS 15 Google Chromebook Pixel Samsung S9/S8 e LG G6/G5 ecc.
 ---
 
 Ahora mismo tienes [AUKEY Hub USB C Adattatore 6 in 1 con 3 Porte USB 3.0 Slot Schede SD e MicroSD Porta HDMI Adattatore USB C Compatibile con MacBook Pro Dell XPS 15 Google Chromebook Pixel Samsung S9/S8 e LG G6/G5 ecc.](https://www.amazon.it/dp/B07YQXN1PG/?tag=tolees00-21) a 14.21 EUR (original: 21.99 EUR) (35.38 %  de descuento) en el siguiente enlace!

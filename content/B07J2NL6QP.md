@@ -10,8 +10,11 @@ author: ring
 slug: B07J2NL6QP
 description:
 actualPrice: 479.0 EUR
+currency: EUR
+price: 479.0
 comparePrice: 699.99 EUR
 inStock: true
+prodname: Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB de RAM + 16GB Intel Optane  1TB HDD  Intel HD Grahpics 630  Windows 10  Plateado - Teclado QWERTY Español + ratón
 ---
 
 Ahora mismo tienes [Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB de RAM + 16GB Intel Optane  1TB HDD  Intel HD Grahpics 630  Windows 10  Plateado - Teclado QWERTY Español + ratón](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21) a 479.0 EUR (original: 699.99 EUR) (31.57 %  de descuento) en el siguiente enlace!

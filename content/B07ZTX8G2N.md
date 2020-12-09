@@ -10,8 +10,11 @@ author: ring
 slug: B07ZTX8G2N
 description:
 actualPrice: 55.95 EUR
+currency: EUR
+price: 55.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Withings Bracelet Links  20mm Mixte Adulte  Métal Argent
 ---
 
 Está [Withings Bracelet Links  20mm Mixte Adulte  Métal Argent](https://www.amazon.fr/dp/B07ZTX8G2N/?tag=tolees0d-21) con 37.80 de descuento por 55.95 EUR (original: 89.95 EUR) en el siguiente enlace!

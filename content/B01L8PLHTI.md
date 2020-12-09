@@ -10,8 +10,11 @@ author: ring
 slug: B01L8PLHTI
 description:
 actualPrice: 184.21 GBP
+currency: GBP
+price: 184.21
 comparePrice: 299.99 GBP
 inStock: true
+prodname: TomTom Car Sat Nav GO 5200  5 Inch with Handsfree Calling  Siri  Google Now  Updates via WiFi  Lifetime Traffic via SIM Card and World Maps  Smartphone Messages  Capacitive Screen
 ---
 
 Tienes [TomTom Car Sat Nav GO 5200  5 Inch with Handsfree Calling  Siri  Google Now  Updates via WiFi  Lifetime Traffic via SIM Card and World Maps  Smartphone Messages  Capacitive Screen](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=tolees0a-21) con un 38.59 % de descuento con precio de oferta de 184.21 GBP (original: 299.99 GBP) en el siguiente enlace!

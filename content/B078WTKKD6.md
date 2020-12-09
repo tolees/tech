@@ -10,8 +10,11 @@ author: ring
 slug: B078WTKKD6
 description:
 actualPrice: 149.99 GBP
+currency: GBP
+price: 149.99
 comparePrice: 200.0 GBP
 inStock: true
+prodname: Sony SRS-XB41 Portable Wireless Waterproof Speaker with Extra Bass  Black
 ---
 
 Tienes [Sony SRS-XB41 Portable Wireless Waterproof Speaker with Extra Bass  Black](https://www.amazon.co.uk/dp/B078WTKKD6/?tag=tolees0a-21) con un 25.00 % de descuento con precio de oferta de 149.99 GBP (original: 200.0 GBP) en el siguiente enlace!

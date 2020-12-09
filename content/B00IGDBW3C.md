@@ -10,8 +10,11 @@ author: ring
 slug: B00IGDBW3C
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Auna TBA-928 • Tocadiscos con Altavoz • Reproductor de vinilos • accionamiento por Correa • 2 velocidades • 33/45 RPM • Incluye Aguja • Start/Stop automático • Salida de Auriculares • Negro-Plata
 ---
 
 Está [Auna TBA-928 • Tocadiscos con Altavoz • Reproductor de vinilos • accionamiento por Correa • 2 velocidades • 33/45 RPM • Incluye Aguja • Start/Stop automático • Salida de Auriculares • Negro-Plata](https://www.amazon.es/dp/B00IGDBW3C/?tag=tolees-21) con 51.26 de descuento por 38.99 EUR (original: 79.99 EUR) en el siguiente enlace!

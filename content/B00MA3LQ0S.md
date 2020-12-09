@@ -10,8 +10,11 @@ author: ring
 slug: B00MA3LQ0S
 description:
 actualPrice: 94.78 EUR
+currency: EUR
+price: 94.78
 comparePrice: 128.88 EUR
 inStock: true
+prodname: Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata
 ---
 
 Ahora mismo tienes [Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata](https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21) a 94.78 EUR (original: 128.88 EUR) (26.46 %  de descuento) en el siguiente enlace!

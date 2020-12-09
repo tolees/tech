@@ -10,8 +10,11 @@ author: ring
 slug: B08BCQ2MRT
 description:
 actualPrice: 9.45 EUR
+currency: EUR
+price: 9.45
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Soporte de Pantalla para Teléfono Móvil Plegable Soporte para Móvil Soporte para Pantalla de Portátil Soporte Ordenador Portátil Soporte Imán para Móvil Soporte de Imán para Pantallas
 ---
 
 Tienes [Soporte de Pantalla para Teléfono Móvil Plegable Soporte para Móvil Soporte para Pantalla de Portátil Soporte Ordenador Portátil Soporte Imán para Móvil Soporte de Imán para Pantallas](https://www.amazon.es/dp/B08BCQ2MRT/?tag=tolees-21) con un 36.79 % de descuento con precio de oferta de 9.45 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CNTRNGC
 description:
 actualPrice: 34.39 EUR
+currency: EUR
+price: 34.39
 comparePrice: 69.99 EUR
 inStock: true
+prodname: NBA 2K21 XB1 + DLC - Exclusivité Amazon  Xbox One 
 ---
 
 Tienes [NBA 2K21 XB1 + DLC - Exclusivité Amazon  Xbox One ](https://www.amazon.fr/dp/B08CNTRNGC/?tag=tolees0d-21) con un 50.86 % de descuento con precio de oferta de 34.39 EUR (original: 69.99 EUR) en el siguiente enlace!

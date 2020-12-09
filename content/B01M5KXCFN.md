@@ -10,8 +10,11 @@ author: ring
 slug: B01M5KXCFN
 description:
 actualPrice: 25.99 GBP
+currency: GBP
+price: 25.99
 comparePrice: 70.0 GBP
 inStock: true
+prodname: V-MODA Forza Metallo In-Ear Headphones with 3-Button Remote and Microphone - Samsung and Android Devices  Gunmetal Black
 ---
 
 Está [V-MODA Forza Metallo In-Ear Headphones with 3-Button Remote and Microphone - Samsung and Android Devices  Gunmetal Black](https://www.amazon.co.uk/dp/B01M5KXCFN/?tag=tolees0a-21) con 62.87 de descuento por 25.99 GBP (original: 70.0 GBP) en el siguiente enlace!

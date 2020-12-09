@@ -10,8 +10,11 @@ author: ring
 slug: B07GSWV92S
 description:
 actualPrice: 59.97 GBP
+currency: GBP
+price: 59.97
 comparePrice: 109.99 GBP
 inStock: true
+prodname: Jaybird X4 Wireless Bluetooth In-Ear Headphones with Microphone  For Sports  Running and Fitness  Customisable EQ  Rechargeable  8 Hour Battery Life  Smartphone/Tablet/iOS/Android - Storm Metallic
 ---
 
 Ahora mismo tienes [Jaybird X4 Wireless Bluetooth In-Ear Headphones with Microphone  For Sports  Running and Fitness  Customisable EQ  Rechargeable  8 Hour Battery Life  Smartphone/Tablet/iOS/Android - Storm Metallic](https://www.amazon.co.uk/dp/B07GSWV92S/?tag=tolees0a-21) a 59.97 GBP (original: 109.99 GBP) (45.48 %  de descuento) en el siguiente enlace!

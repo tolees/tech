@@ -10,8 +10,11 @@ author: ring
 slug: B07VZZ3WSK
 description:
 actualPrice: 449.99 USD
+currency: USD
+price: 449.99
 comparePrice: 599.99 USD
 inStock: true
+prodname: Garmin fenix 6S  Premium Multisport GPS Watch  Smaller-Sized  Heat and Altitude Adjusted V02 Max  Pulse Ox Sensors and Training Load Focus  White
 ---
 
 Está [Garmin fenix 6S  Premium Multisport GPS Watch  Smaller-Sized  Heat and Altitude Adjusted V02 Max  Pulse Ox Sensors and Training Load Focus  White](https://www.amazon.com/dp/B07VZZ3WSK/?tag=tolees-20) con 25.00 de descuento por 449.99 USD (original: 599.99 USD) en el siguiente enlace!

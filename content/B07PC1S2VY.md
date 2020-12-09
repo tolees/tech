@@ -10,8 +10,11 @@ author: ring
 slug: B07PC1S2VY
 description:
 actualPrice: 123.99 EUR
+currency: EUR
+price: 123.99
 comparePrice: 169.9 EUR
 inStock: true
+prodname: Corsair K70 RGB MK.2 Teclado Mecánico Gaming  Cherry MX Blue  Preciso y Audible  Retroiluminación Multicolor LED RGB  Estructura de Aluminio Anodizado  QWERTY Español  color Negro
 ---
 
 Ahora mismo tienes [Corsair K70 RGB MK.2 Teclado Mecánico Gaming  Cherry MX Blue  Preciso y Audible  Retroiluminación Multicolor LED RGB  Estructura de Aluminio Anodizado  QWERTY Español  color Negro](https://www.amazon.es/dp/B07PC1S2VY/?tag=tolees-21) a 123.99 EUR (original: 169.9 EUR) (27.02 %  de descuento) en el siguiente enlace!

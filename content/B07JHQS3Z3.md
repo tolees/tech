@@ -10,8 +10,11 @@ author: ring
 slug: B07JHQS3Z3
 description:
 actualPrice: 24.97 EUR
+currency: EUR
+price: 24.97
 comparePrice: 33.33 EUR
 inStock: true
+prodname: Motorola Escape 500 ANC | kabelloser Kopfhörer mit Active Noise Cancelling | 12Std. | Alexa  Siri und Google | Schwarz
 ---
 
 Ahora mismo tienes [Motorola Escape 500 ANC | kabelloser Kopfhörer mit Active Noise Cancelling | 12Std. | Alexa  Siri und Google | Schwarz](https://www.amazon.de/dp/B07JHQS3Z3/?tag=tolees0ca-21) a 24.97 EUR (original: 33.33 EUR) (25.08 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NN7GX8X
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 67.99 EUR
 inStock: true
+prodname: Jabra Move Style Edition – Auriculares On-Ear  Conexión Bluetooth con Smartphones  Ordenadores y Tabletas  Para Música y Llamadas Inalámbricas  Negro Titanio
 ---
 
 Está [Jabra Move Style Edition – Auriculares On-Ear  Conexión Bluetooth con Smartphones  Ordenadores y Tabletas  Para Música y Llamadas Inalámbricas  Negro Titanio](https://www.amazon.es/dp/B07NN7GX8X/?tag=tolees-21) con 26.47 de descuento por 49.99 EUR (original: 67.99 EUR) en el siguiente enlace!

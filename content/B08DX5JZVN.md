@@ -10,8 +10,11 @@ author: ring
 slug: B08DX5JZVN
 description:
 actualPrice: 89.9 EUR
+currency: EUR
+price: 89.9
 comparePrice: 139.0 EUR
 inStock: true
+prodname: HUAWEI FreeBuds 3 Auricolari Wireless con Adattatore Huawei AP52   con Cancellazione Intelligente del Rumore   Ricarica via Cavo   Ceramic White
 ---
 
 Ahora mismo tienes [HUAWEI FreeBuds 3 Auricolari Wireless con Adattatore Huawei AP52   con Cancellazione Intelligente del Rumore   Ricarica via Cavo   Ceramic White](https://www.amazon.it/dp/B08DX5JZVN/?tag=tolees00-21) a 89.9 EUR (original: 139.0 EUR) (35.32 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07K8JZTSN
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Magnolia
 ---
 
 Ahora mismo tienes [MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Magnolia](https://www.amazon.es/dp/B07K8JZTSN/?tag=tolees-21) a 12.99 EUR (original: 29.99 EUR) (56.69 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08DR61VBX
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 110.11 EUR
 inStock: true
+prodname: Blackview A60 Teléfono Móvil  Android 8.1 Smartphone Dual SIM con Pantalla 6.1-Inch Water-Drop Screen  13MP+2MP+5MP  16GB ROM  SD 128GB   4080mAh Batería Smartphone Libre -Azul
 ---
 
 Ahora mismo tienes [Blackview A60 Teléfono Móvil  Android 8.1 Smartphone Dual SIM con Pantalla 6.1-Inch Water-Drop Screen  13MP+2MP+5MP  16GB ROM  SD 128GB   4080mAh Batería Smartphone Libre -Azul](https://www.amazon.es/dp/B08DR61VBX/?tag=tolees-21) a 69.99 EUR (original: 110.11 EUR) (36.44 %  de descuento) en el siguiente enlace!

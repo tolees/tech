@@ -10,8 +10,11 @@ author: ring
 slug: B07RPVQY62
 description:
 actualPrice: 14.98 EUR
+currency: EUR
+price: 14.98
 comparePrice: 19.99 EUR
 inStock: true
+prodname: TP-Link LS105G - Switch Ethernet 5 Puertos  10/100/1000Mbps   Switch Gigabit  Switch WiFi  Carcasa metálica  Ultraligero  Super disipación de Calor  QoS  Ahorro de Energía  Silencioso  No Gestionado
 ---
 
 Está [TP-Link LS105G - Switch Ethernet 5 Puertos  10/100/1000Mbps   Switch Gigabit  Switch WiFi  Carcasa metálica  Ultraligero  Super disipación de Calor  QoS  Ahorro de Energía  Silencioso  No Gestionado](https://www.amazon.es/dp/B07RPVQY62/?tag=tolees-21) con 25.06 de descuento por 14.98 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FX5H5KS
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Auriculares Bluetooth 5.0  Auriculares Inalámbricos 156H Tiempo de Juego Bajo Profundo Hi-Fi Sonido Estéreo In-Ear Sport Auricular con micrófono  IPX5 Impermeable
 ---
 
 Tienes [Auriculares Bluetooth 5.0  Auriculares Inalámbricos 156H Tiempo de Juego Bajo Profundo Hi-Fi Sonido Estéreo In-Ear Sport Auricular con micrófono  IPX5 Impermeable](https://www.amazon.es/dp/B08FX5H5KS/?tag=tolees-21) con un 29.74 % de descuento con precio de oferta de 25.99 EUR (original: 36.99 EUR) en el siguiente enlace!

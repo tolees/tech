@@ -10,8 +10,11 @@ author: ring
 slug: B07RWJ7NH2
 description:
 actualPrice: 13.6 EUR
+currency: EUR
+price: 13.6
 comparePrice: 47.54 EUR
 inStock: true
+prodname: Mochila para ordenador portátil de Airparky  mochila de negocios para hombre para portátil de 15 6 pulgadas  mochila escolar multifunción  mochila para ordenador con puerto de carga USB para trabajo  viajes  hombres  adolescentes.
 ---
 
 Está [Mochila para ordenador portátil de Airparky  mochila de negocios para hombre para portátil de 15 6 pulgadas  mochila escolar multifunción  mochila para ordenador con puerto de carga USB para trabajo  viajes  hombres  adolescentes.](https://www.amazon.es/dp/B07RWJ7NH2/?tag=tolees-21) con 71.39 de descuento por 13.6 EUR (original: 47.54 EUR) en el siguiente enlace!

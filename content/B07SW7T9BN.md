@@ -10,8 +10,11 @@ author: ring
 slug: B07SW7T9BN
 description:
 actualPrice: 399.0 EUR
+currency: EUR
+price: 399.0
 comparePrice: 599.99 EUR
 inStock: true
+prodname: MSI PRO 22XT 9M-028XEU - Ordenador Todo en uno de 21.5" Intel Pentium G5420  8 GB RAM  256 GB SSD  Intel HD Graphics 620  sin sistema operativo  negro
 ---
 
 Ahora mismo tienes [MSI PRO 22XT 9M-028XEU - Ordenador Todo en uno de 21.5" Intel Pentium G5420  8 GB RAM  256 GB SSD  Intel HD Graphics 620  sin sistema operativo  negro](https://www.amazon.es/dp/B07SW7T9BN/?tag=tolees-21) a 399.0 EUR (original: 599.99 EUR) (33.50 %  de descuento) en el siguiente enlace!

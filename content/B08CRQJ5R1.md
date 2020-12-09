@@ -10,8 +10,11 @@ author: ring
 slug: B08CRQJ5R1
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: 22mm Xiaomi Huami Correa  Silicona Doble Color Deporte Pulsera de Repuesto  Compatible Samsung Gear S3/Galaxy Watch 46mm/Huawei Watch GT 46mm/Huawei Watch GT 2 46mm/GTR 47mm Banda  2Piezas-B
 ---
 
 Tienes [22mm Xiaomi Huami Correa  Silicona Doble Color Deporte Pulsera de Repuesto  Compatible Samsung Gear S3/Galaxy Watch 46mm/Huawei Watch GT 46mm/Huawei Watch GT 2 46mm/GTR 47mm Banda  2Piezas-B](https://www.amazon.es/dp/B08CRQJ5R1/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

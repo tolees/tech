@@ -10,8 +10,11 @@ author: ring
 slug: B00RKNND2W
 description:
 actualPrice: 199.0 USD
+currency: USD
+price: 199.0
 comparePrice: 379.0 USD
 inStock: true
+prodname: Canon PowerShot SX530 Digital Camera w/ 50X Optical Zoom - Wi-Fi & NFC Enabled  Black 
 ---
 
 Está [Canon PowerShot SX530 Digital Camera w/ 50X Optical Zoom - Wi-Fi & NFC Enabled  Black ](https://www.amazon.com/dp/B00RKNND2W/?tag=tolees-20) con 47.49 de descuento por 199.0 USD (original: 379.0 USD) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DLNKXP2
 description:
 actualPrice: 25.97 EUR
+currency: EUR
+price: 25.97
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Mydours Alfombrilla del Escritorio de la PU Cuero 95x40cm Gaming Alfombrilla de ratón y Oficina Cojín de Escritorio Multifuncional del Escritorio Impermeable - Naranja
 ---
 
 Tienes [Mydours Alfombrilla del Escritorio de la PU Cuero 95x40cm Gaming Alfombrilla de ratón y Oficina Cojín de Escritorio Multifuncional del Escritorio Impermeable - Naranja](https://www.amazon.es/dp/B07DLNKXP2/?tag=tolees-21) con un 48.05 % de descuento con precio de oferta de 25.97 EUR (original: 49.99 EUR) en el siguiente enlace!

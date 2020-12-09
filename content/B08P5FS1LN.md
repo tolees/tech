@@ -10,8 +10,11 @@ author: ring
 slug: B08P5FS1LN
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 110.93 EUR
 inStock: true
+prodname: Disque Dur Externe 2to  Ultra-Mince Type-C Disque Dur Externe Portable USB3.1 SATA  Stockage HDD pour PC  Xbox One  Desktop  Laptop 2To Argent 
 ---
 
 Está [Disque Dur Externe 2to  Ultra-Mince Type-C Disque Dur Externe Portable USB3.1 SATA  Stockage HDD pour PC  Xbox One  Desktop  Laptop 2To Argent ](https://www.amazon.fr/dp/B08P5FS1LN/?tag=tolees0d-21) con 42.31 de descuento por 63.99 EUR (original: 110.93 EUR) en el siguiente enlace!

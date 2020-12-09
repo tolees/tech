@@ -10,8 +10,11 @@ author: ring
 slug: B07NQ9BBB9
 description:
 actualPrice: 124.99 EUR
+currency: EUR
+price: 124.99
 comparePrice: 223.23 EUR
 inStock: true
+prodname: Samsung Galaxy Watch Active  Schwarz
 ---
 
 Está [Samsung Galaxy Watch Active  Schwarz](https://www.amazon.de/dp/B07NQ9BBB9/?tag=tolees0ca-21) con 44.01 de descuento por 124.99 EUR (original: 223.23 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MLY3JKV
 description:
 actualPrice: 9.99 USD
+currency: USD
+price: 9.99
 comparePrice: 24.99 USD
 inStock: true
+prodname: Echo Flex - Plug-in mini smart speaker with Alexa
 ---
 
 Tienes [Echo Flex - Plug-in mini smart speaker with Alexa](https://www.amazon.com/dp/B07MLY3JKV/?tag=tolees-20) con un 60.02 % de descuento con precio de oferta de 9.99 USD (original: 24.99 USD) en el siguiente enlace!

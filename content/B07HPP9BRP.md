@@ -10,8 +10,11 @@ author: ring
 slug: B07HPP9BRP
 description:
 actualPrice: 181.4 EUR
+currency: EUR
+price: 181.4
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Marshall Acton II Bluetooth Lautsprecher - schwarz  EU 
 ---
 
 Tienes [Marshall Acton II Bluetooth Lautsprecher - schwarz  EU ](https://www.amazon.de/dp/B07HPP9BRP/?tag=tolees0ca-21) con un 27.44 % de descuento con precio de oferta de 181.4 EUR (original: 249.99 EUR) en el siguiente enlace!

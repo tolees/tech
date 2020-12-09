@@ -10,8 +10,11 @@ author: ring
 slug: B00SLUI5SA
 description:
 actualPrice: 160.3 EUR
+currency: EUR
+price: 160.3
 comparePrice: 229 EUR
 inStock: true
+prodname: Sennheiser RS 175 - Auriculares
 ---
 
 Está [Sennheiser RS 175 - Auriculares](https://www.amazon.es/dp/B00SLUI5SA/?tag=tolees-21) con 30.00 de descuento por 160.3 EUR (original: 229 EUR) en el siguiente enlace!

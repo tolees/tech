@@ -10,8 +10,11 @@ author: ring
 slug: B06WRT6Y5Z
 description:
 actualPrice: 44.99 GBP
+currency: GBP
+price: 44.99
 comparePrice: 89.99 GBP
 inStock: true
+prodname: Ultimate Ears Wonderboom Portable Wireless Bluetooth Speaker  360 ° Surround Sound  Waterproof  2 Speaker Connection for Powerful Sound  10h Battery  Blue color
 ---
 
 Ahora mismo tienes [Ultimate Ears Wonderboom Portable Wireless Bluetooth Speaker  360 ° Surround Sound  Waterproof  2 Speaker Connection for Powerful Sound  10h Battery  Blue color](https://www.amazon.co.uk/dp/B06WRT6Y5Z/?tag=tolees0a-21) a 44.99 GBP (original: 89.99 GBP) (50.01 %  de descuento) en el siguiente enlace!

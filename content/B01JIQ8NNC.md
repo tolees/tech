@@ -10,8 +10,11 @@ author: ring
 slug: B01JIQ8NNC
 description:
 actualPrice: 260.62 EUR
+currency: EUR
+price: 260.62
 comparePrice: 387.99 EUR
 inStock: true
+prodname: Samsung Galaxy Tab S2 - Tableta de 8" FullHD  WiFi + 4G  Procesador Octa-core Exynos 5433 + Shannon333  3 GB de RAM  32 GB de Almacenamiento  Android 6.0 Marshmallow  Negro
 ---
 
 Está [Samsung Galaxy Tab S2 - Tableta de 8" FullHD  WiFi + 4G  Procesador Octa-core Exynos 5433 + Shannon333  3 GB de RAM  32 GB de Almacenamiento  Android 6.0 Marshmallow  Negro](https://www.amazon.es/dp/B01JIQ8NNC/?tag=tolees-21) con 32.83 de descuento por 260.62 EUR (original: 387.99 EUR) en el siguiente enlace!

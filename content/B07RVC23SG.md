@@ -10,8 +10,11 @@ author: ring
 slug: B07RVC23SG
 description:
 actualPrice: 174.9 EUR
+currency: EUR
+price: 174.9
 comparePrice: 250.0 EUR
 inStock: true
+prodname: Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero
 ---
 
 Ahora mismo tienes [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21) a 174.9 EUR (original: 250.0 EUR) (30.04 %  de descuento) en el siguiente enlace!

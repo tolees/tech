@@ -10,8 +10,11 @@ author: ring
 slug: B07HZLHPKP
 description:
 actualPrice: 44.99 USD
+currency: USD
+price: 44.99
 comparePrice: 89.99 USD
 inStock: true
+prodname: Echo Show 5 -- Smart display with Alexa – stay connected with video calling - Charcoal
 ---
 
 Ahora mismo tienes [Echo Show 5 -- Smart display with Alexa – stay connected with video calling - Charcoal](https://www.amazon.com/dp/B07HZLHPKP/?tag=tolees-20) a 44.99 USD (original: 89.99 USD) (50.01 %  de descuento) en el siguiente enlace!

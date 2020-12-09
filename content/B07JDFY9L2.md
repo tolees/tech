@@ -10,8 +10,11 @@ author: ring
 slug: B07JDFY9L2
 description:
 actualPrice: 12.79 EUR
+currency: EUR
+price: 12.79
 comparePrice: 25.45 EUR
 inStock: true
+prodname: Coopts Coopts - Funda Universal para iPad Mini 4 3 2 1  Resistente a los Impactos  con función Atril y función Atril para Tableta Apple de 7 9 Pulgadas  #05 Pink Pony
 ---
 
 Está [Coopts Coopts - Funda Universal para iPad Mini 4 3 2 1  Resistente a los Impactos  con función Atril y función Atril para Tableta Apple de 7 9 Pulgadas  #05 Pink Pony](https://www.amazon.es/dp/B07JDFY9L2/?tag=tolees-21) con 49.74 de descuento por 12.79 EUR (original: 25.45 EUR) en el siguiente enlace!

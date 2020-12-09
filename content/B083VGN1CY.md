@@ -10,8 +10,11 @@ author: ring
 slug: B083VGN1CY
 description:
 actualPrice: 143.2 EUR
+currency: EUR
+price: 143.2
 comparePrice: 209.9 EUR
 inStock: true
+prodname: Samsung HW-T450 - Barra de Sonido  Sonido 200W  2.1Ch  Subwoofer Inalámbrico  Dolby Digital 2.1  Modo Juego  Bluetooth 4.2 Power On y One Remote Control  versión 2020
 ---
 
 Tienes [Samsung HW-T450 - Barra de Sonido  Sonido 200W  2.1Ch  Subwoofer Inalámbrico  Dolby Digital 2.1  Modo Juego  Bluetooth 4.2 Power On y One Remote Control  versión 2020](https://www.amazon.es/dp/B083VGN1CY/?tag=tolees-21) con un 31.78 % de descuento con precio de oferta de 143.2 EUR (original: 209.9 EUR) en el siguiente enlace!

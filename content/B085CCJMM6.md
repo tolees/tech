@@ -10,8 +10,11 @@ author: ring
 slug: B085CCJMM6
 description:
 actualPrice: 5.02 EUR
+currency: EUR
+price: 5.02
 comparePrice: 7.19 EUR
 inStock: true
+prodname: RAMPOW Cable Micro USB  Cargador Micro USB 2.4A Carga Rápida Cable USB Compatible con Kindle  Android  Samsung  HTC  Huawei  Xiaomi  Sony  Nexus  Motorola y más - 1M [2-Unidades]  Rojo
 ---
 
 Ahora mismo tienes [RAMPOW Cable Micro USB  Cargador Micro USB 2.4A Carga Rápida Cable USB Compatible con Kindle  Android  Samsung  HTC  Huawei  Xiaomi  Sony  Nexus  Motorola y más - 1M [2-Unidades]  Rojo](https://www.amazon.es/dp/B085CCJMM6/?tag=tolees-21) a 5.02 EUR (original: 7.19 EUR) (30.18 %  de descuento) en el siguiente enlace!

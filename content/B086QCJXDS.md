@@ -10,8 +10,11 @@ author: ring
 slug: B086QCJXDS
 description:
 actualPrice: 299.0 EUR
+currency: EUR
+price: 299.0
 comparePrice: 449.99 EUR
 inStock: true
+prodname: TCL 10 Pro – Smartphone de 6.47” FHD+  con NXTVISION  Procesador Pantalla  Octacore  6GB Ram  Memoria 128GB  Ampliable MicroSD  4 Cámaras 64MP+16MP+5MP+2MP  Frontal 24MP  4500 mAh de Batería  Negro
 ---
 
 Ahora mismo tienes [TCL 10 Pro – Smartphone de 6.47” FHD+  con NXTVISION  Procesador Pantalla  Octacore  6GB Ram  Memoria 128GB  Ampliable MicroSD  4 Cámaras 64MP+16MP+5MP+2MP  Frontal 24MP  4500 mAh de Batería  Negro](https://www.amazon.es/dp/B086QCJXDS/?tag=tolees-21) a 299.0 EUR (original: 449.99 EUR) (33.55 %  de descuento) en el siguiente enlace!

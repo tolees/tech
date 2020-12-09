@@ -10,8 +10,11 @@ author: ring
 slug: B07NJFFS9Z
 description:
 actualPrice: 84.0 EUR
+currency: EUR
+price: 84.0
 comparePrice: 118.99 EUR
 inStock: true
+prodname: Anlapus 1080P Kit di Sorveglianza DVR 8CH H.265+ Videoregistrator con 4pcs Telecamera Esterno  Senza HDD  Visione Notturna  Allarme E-mail  P2P
 ---
 
 Está [Anlapus 1080P Kit di Sorveglianza DVR 8CH H.265+ Videoregistrator con 4pcs Telecamera Esterno  Senza HDD  Visione Notturna  Allarme E-mail  P2P](https://www.amazon.it/dp/B07NJFFS9Z/?tag=tolees00-21) con 29.41 de descuento por 84.0 EUR (original: 118.99 EUR) en el siguiente enlace!

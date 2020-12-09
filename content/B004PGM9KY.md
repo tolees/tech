@@ -10,8 +10,11 @@ author: ring
 slug: B004PGM9KY
 description:
 actualPrice: 199.0 EUR
+currency: EUR
+price: 199.0
 comparePrice: 399.0 EUR
 inStock: true
+prodname: Logitech Z906 5.1 Sound System  Lautsprecher mit 1000 Watt Surround Sound  THX  Mehrere Audio-Eingänge  Fernbedienung  Multi-Device  EU Stecker  PC/PS4/Xbox/Stereo-Anlage/TV/Smartphone/Tablet
 ---
 
 Tienes [Logitech Z906 5.1 Sound System  Lautsprecher mit 1000 Watt Surround Sound  THX  Mehrere Audio-Eingänge  Fernbedienung  Multi-Device  EU Stecker  PC/PS4/Xbox/Stereo-Anlage/TV/Smartphone/Tablet](https://www.amazon.de/dp/B004PGM9KY/?tag=tolees0ca-21) con un 50.13 % de descuento con precio de oferta de 199.0 EUR (original: 399.0 EUR) en el siguiente enlace!

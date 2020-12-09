@@ -10,8 +10,11 @@ author: ring
 slug: B07STVZH3L
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Darksiders Genesis - PlayStation 4
 ---
 
 Tienes [Darksiders Genesis - PlayStation 4](https://www.amazon.it/dp/B07STVZH3L/?tag=tolees00-21) con un 35.50 % de descuento con precio de oferta de 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!

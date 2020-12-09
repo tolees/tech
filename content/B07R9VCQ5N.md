@@ -10,8 +10,11 @@ author: ring
 slug: B07R9VCQ5N
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Aqara Smart - Sensor de presión atmosférica  temperatura y humedad  control inteligente a través de la aplicación Mihome Zigbee  conexión inalámbrica WiFi
 ---
 
 Tienes [Aqara Smart - Sensor de presión atmosférica  temperatura y humedad  control inteligente a través de la aplicación Mihome Zigbee  conexión inalámbrica WiFi](https://www.amazon.es/dp/B07R9VCQ5N/?tag=tolees-21) con un 61.74 % de descuento con precio de oferta de 6.5 EUR (original: 16.99 EUR) en el siguiente enlace!

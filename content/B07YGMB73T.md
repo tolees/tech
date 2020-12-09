@@ -10,8 +10,11 @@ author: ring
 slug: B07YGMB73T
 description:
 actualPrice: 8.98 EUR
+currency: EUR
+price: 8.98
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Meridiem Games - Asterix XXL Arcade Mini  Nintendo Switch 
 ---
 
 Está [Meridiem Games - Asterix XXL Arcade Mini  Nintendo Switch ](https://www.amazon.es/dp/B07YGMB73T/?tag=tolees-21) con 55.08 de descuento por 8.98 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RZM2LXN
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 44.02 EUR
 inStock: true
+prodname: OVERPASS Day One Edition para PS4 [Versión Española]
 ---
 
 Tienes [OVERPASS Day One Edition para PS4 [Versión Española]](https://www.amazon.es/dp/B07RZM2LXN/?tag=tolees-21) con un 54.68 % de descuento con precio de oferta de 19.95 EUR (original: 44.02 EUR) en el siguiente enlace!

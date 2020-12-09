@@ -10,8 +10,11 @@ author: ring
 slug: B07RWMVF4X
 description:
 actualPrice: 55.99 EUR
+currency: EUR
+price: 55.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico  Graves Profundos  Sonido Envolvente de 360°  Impermeable  Conexión de 2 Altavoces para Sonido Potente  Batería de 13 h  color Azul
 ---
 
 Tienes [Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico  Graves Profundos  Sonido Envolvente de 360°  Impermeable  Conexión de 2 Altavoces para Sonido Potente  Batería de 13 h  color Azul](https://www.amazon.es/dp/B07RWMVF4X/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 55.99 EUR (original: 99.99 EUR) en el siguiente enlace!

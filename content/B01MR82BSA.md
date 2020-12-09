@@ -10,8 +10,11 @@ author: ring
 slug: B01MR82BSA
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: YI Telecamera Sorveglianza 1080p Interno Ip Camera Wifi Compatibile con Alexa Notifiche push in tempo reale Copertura a 360°in FHD Funzioni Personalizzate Auto Crociera Segnalibri per iOS Android
 ---
 
 Está [YI Telecamera Sorveglianza 1080p Interno Ip Camera Wifi Compatibile con Alexa Notifiche push in tempo reale Copertura a 360°in FHD Funzioni Personalizzate Auto Crociera Segnalibri per iOS Android](https://www.amazon.it/dp/B01MR82BSA/?tag=tolees00-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

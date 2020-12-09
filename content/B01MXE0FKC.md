@@ -10,8 +10,11 @@ author: ring
 slug: B01MXE0FKC
 description:
 actualPrice: 102.99 USD
+currency: USD
+price: 102.99
 comparePrice: 149.99 USD
 inStock: true
+prodname: Logitech G533 Wireless Gaming Headset – DTS 7.1 Surround Sound – Pro-G Audio Drivers
 ---
 
 Ahora mismo tienes [Logitech G533 Wireless Gaming Headset – DTS 7.1 Surround Sound – Pro-G Audio Drivers](https://www.amazon.com/dp/B01MXE0FKC/?tag=tolees-20) a 102.99 USD (original: 149.99 USD) (31.34 %  de descuento) en el siguiente enlace!

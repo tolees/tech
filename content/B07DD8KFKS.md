@@ -10,8 +10,11 @@ author: ring
 slug: B07DD8KFKS
 description:
 actualPrice: 282.61 EUR
+currency: EUR
+price: 282.61
 comparePrice: 385.35 EUR
 inStock: true
+prodname: Samsung Galaxy A6+ SM-A605F 15 2 cm  6"  3 GB 32 GB SIM Doble 4G Negro 3500 mAh - Smartphone  15 2 cm  6"   3 GB  32 GB  16 MP  Android 8.0  Negro 
 ---
 
 Está [Samsung Galaxy A6+ SM-A605F 15 2 cm  6"  3 GB 32 GB SIM Doble 4G Negro 3500 mAh - Smartphone  15 2 cm  6"   3 GB  32 GB  16 MP  Android 8.0  Negro ](https://www.amazon.es/dp/B07DD8KFKS/?tag=tolees-21) con 26.66 de descuento por 282.61 EUR (original: 385.35 EUR) en el siguiente enlace!

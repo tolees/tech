@@ -10,8 +10,11 @@ author: ring
 slug: B07HGGXHPL
 description:
 actualPrice: 229.0 EUR
+currency: EUR
+price: 229.0
 comparePrice: 349.95 EUR
 inStock: true
+prodname: Samsung SM-R805FZSADBT Galaxy Watch 46 mm  LTE   Silber
 ---
 
 Está [Samsung SM-R805FZSADBT Galaxy Watch 46 mm  LTE   Silber](https://www.amazon.de/dp/B07HGGXHPL/?tag=tolees0ca-21) con 34.56 de descuento por 229.0 EUR (original: 349.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KQXH65Z
 description:
 actualPrice: 129.95 EUR
+currency: EUR
+price: 129.95
 comparePrice: 199.99 EUR
 inStock: true
+prodname: HyperX HX-HSCAM-GM Cloud MIX - Cascos de gaming con cable y Bluetooth  Color Negro
 ---
 
 Ahora mismo tienes [HyperX HX-HSCAM-GM Cloud MIX - Cascos de gaming con cable y Bluetooth  Color Negro](https://www.amazon.es/dp/B07KQXH65Z/?tag=tolees-21) a 129.95 EUR (original: 199.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

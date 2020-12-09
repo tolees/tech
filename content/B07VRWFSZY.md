@@ -10,8 +10,11 @@ author: ring
 slug: B07VRWFSZY
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 20.9 EUR
 inStock: true
+prodname: BSEED Interruptores de luz de pared Smart WiFi Touch Sensor  se necesita alimentación neutra  Panel de vidrio compatible Alexa/Tuya/IFTT 1 Gang 1 Via Blanco
 ---
 
 Está [BSEED Interruptores de luz de pared Smart WiFi Touch Sensor  se necesita alimentación neutra  Panel de vidrio compatible Alexa/Tuya/IFTT 1 Gang 1 Via Blanco](https://www.amazon.es/dp/B07VRWFSZY/?tag=tolees-21) con 28.71 de descuento por 14.9 EUR (original: 20.9 EUR) en el siguiente enlace!

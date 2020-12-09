@@ -10,8 +10,11 @@ author: ring
 slug: B07XPDX1X5
 description:
 actualPrice: 450.0 USD
+currency: USD
+price: 450.0
 comparePrice: 699.95 USD
 inStock: true
+prodname: Fujifilm X-A7 Mirrorless Digital Camera w/XC15-45mm F3.5-5.6 OIS PZ Lens  Camel
 ---
 
 Está [Fujifilm X-A7 Mirrorless Digital Camera w/XC15-45mm F3.5-5.6 OIS PZ Lens  Camel](https://www.amazon.com/dp/B07XPDX1X5/?tag=tolees-20) con 35.71 de descuento por 450.0 USD (original: 699.95 USD) en el siguiente enlace!

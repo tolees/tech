@@ -10,8 +10,11 @@ author: ring
 slug: B07DMJMZ86
 description:
 actualPrice: 13.49 EUR
+currency: EUR
+price: 13.49
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Gears of War 5 Edizione Standard  Pegi 18  Xbox One  4K UKTRA HD  HDR  Microsoft
 ---
 
 Está [Gears of War 5 Edizione Standard  Pegi 18  Xbox One  4K UKTRA HD  HDR  Microsoft](https://www.amazon.it/dp/B07DMJMZ86/?tag=tolees00-21) con 80.73 de descuento por 13.49 EUR (original: 69.99 EUR) en el siguiente enlace!

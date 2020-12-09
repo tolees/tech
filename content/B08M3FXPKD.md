@@ -10,8 +10,11 @@ author: ring
 slug: B08M3FXPKD
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 49.96 EUR
 inStock: true
+prodname: Auriculares Bluetooth con estuche de carga  blanco 
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth con estuche de carga  blanco ](https://www.amazon.es/dp/B08M3FXPKD/?tag=tolees-21) a 14.99 EUR (original: 49.96 EUR) (70.00 %  de descuento) en el siguiente enlace!

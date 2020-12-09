@@ -10,8 +10,11 @@ author: ring
 slug: B07GL9KVVY
 description:
 actualPrice: 12.9 EUR
+currency: EUR
+price: 12.9
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Cudy WU700 AC 650Mbps Adaptador WiFi USB de Banda Dual de Alta Ganancia  Adaptador WiFi de 650 Mbps  Banda Dual de 5 GHz / 2.4 GHz  Antena Externa  Compatible con Windows 7/8 / 8.1/10  Mac OS  Linux.
 ---
 
 Está [Cudy WU700 AC 650Mbps Adaptador WiFi USB de Banda Dual de Alta Ganancia  Adaptador WiFi de 650 Mbps  Banda Dual de 5 GHz / 2.4 GHz  Antena Externa  Compatible con Windows 7/8 / 8.1/10  Mac OS  Linux.](https://www.amazon.es/dp/B07GL9KVVY/?tag=tolees-21) con 35.18 de descuento por 12.9 EUR (original: 19.9 EUR) en el siguiente enlace!

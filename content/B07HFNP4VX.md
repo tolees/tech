@@ -10,8 +10,11 @@ author: ring
 slug: B07HFNP4VX
 description:
 actualPrice: 305.0 EUR
+currency: EUR
+price: 305.0
 comparePrice: 549.0 EUR
 inStock: true
+prodname: OnePlus 6T  6GB+128GB  Smartphone Mirror Black
 ---
 
 Ahora mismo tienes [OnePlus 6T  6GB+128GB  Smartphone Mirror Black](https://www.amazon.de/dp/B07HFNP4VX/?tag=tolees0ca-21) a 305.0 EUR (original: 549.0 EUR) (44.44 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01M4KLNE6
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 74.5 EUR
 inStock: true
+prodname: PlayStation 4 - Dualshock 4 Controller Wireless V2  Rosso  Magma Red 
 ---
 
 Ahora mismo tienes [PlayStation 4 - Dualshock 4 Controller Wireless V2  Rosso  Magma Red ](https://www.amazon.it/dp/B01M4KLNE6/?tag=tolees00-21) a 39.99 EUR (original: 74.5 EUR) (46.32 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08LBFXS5W
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 94.43 EUR
 inStock: true
+prodname: Radio de Coche Bluetooth 1 DIN Reproductor de Coche con Pantalla táctil de 5 Pulgadas con Asistente de Voz RDS FMAM Entrada de micrófono+3USB SD Entrada AUX+Cámara traseraControlador de Volante
 ---
 
 Tienes [Radio de Coche Bluetooth 1 DIN Reproductor de Coche con Pantalla táctil de 5 Pulgadas con Asistente de Voz RDS FMAM Entrada de micrófono+3USB SD Entrada AUX+Cámara traseraControlador de Volante](https://www.amazon.es/dp/B08LBFXS5W/?tag=tolees-21) con un 25.88 % de descuento con precio de oferta de 69.99 EUR (original: 94.43 EUR) en el siguiente enlace!

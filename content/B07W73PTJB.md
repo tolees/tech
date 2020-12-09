@@ -10,8 +10,11 @@ author: ring
 slug: B07W73PTJB
 description:
 actualPrice: 39.99 GBP
+currency: GBP
+price: 39.99
 comparePrice: 59.99 GBP
 inStock: true
+prodname: Tile Mate  2020  Bluetooth Item Finder  4 Pack  White. 60m finding range  1 year replaceable battery  works with Alexa and Google Home. iOS and Android Compatible. Find your Keys  Remotes & More.
 ---
 
 Ahora mismo tienes [Tile Mate  2020  Bluetooth Item Finder  4 Pack  White. 60m finding range  1 year replaceable battery  works with Alexa and Google Home. iOS and Android Compatible. Find your Keys  Remotes & More.](https://www.amazon.co.uk/dp/B07W73PTJB/?tag=tolees0a-21) a 39.99 GBP (original: 59.99 GBP) (33.34 %  de descuento) en el siguiente enlace!

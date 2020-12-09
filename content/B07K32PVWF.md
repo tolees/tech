@@ -10,8 +10,11 @@ author: ring
 slug: B07K32PVWF
 description:
 actualPrice: 152.0 EUR
+currency: EUR
+price: 152.0
 comparePrice: 399.0 EUR
 inStock: true
+prodname: ELEGOO MARS Impresora 3D UV Fotocurado con 3.5" Pantalla Táctil Inteligente de Color Impresión Fuera de Línea 115mm L  x 65mm W  x 150mm H  Tamaño de Impresión-Negro
 ---
 
 Está [ELEGOO MARS Impresora 3D UV Fotocurado con 3.5" Pantalla Táctil Inteligente de Color Impresión Fuera de Línea 115mm L  x 65mm W  x 150mm H  Tamaño de Impresión-Negro](https://www.amazon.es/dp/B07K32PVWF/?tag=tolees-21) con 61.90 de descuento por 152.0 EUR (original: 399.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MPQFSN9
 description:
 actualPrice: 39.97 EUR
+currency: EUR
+price: 39.97
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass  wasserabweisend  Freisprechfunktion für Anrufe  grau
 ---
 
 Está [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass  wasserabweisend  Freisprechfunktion für Anrufe  grau](https://www.amazon.de/dp/B07MPQFSN9/?tag=tolees0ca-21) con 33.27 de descuento por 39.97 EUR (original: 59.9 EUR) en el siguiente enlace!

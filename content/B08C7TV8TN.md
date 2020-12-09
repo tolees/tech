@@ -10,8 +10,11 @@ author: ring
 slug: B08C7TV8TN
 description:
 actualPrice: 99.0 GBP
+currency: GBP
+price: 99.0
 comparePrice: 139.0 GBP
 inStock: true
+prodname: DJI OM 4 – 3-Axis Smartphone Gimbal  Magnetic Design  Portable and Foldable  DynamicZoom  CloneMe  Timelapse  Gesture Control  Spin Mode  Story Mode  Slow Motion  Panorama
 ---
 
 Está [DJI OM 4 – 3-Axis Smartphone Gimbal  Magnetic Design  Portable and Foldable  DynamicZoom  CloneMe  Timelapse  Gesture Control  Spin Mode  Story Mode  Slow Motion  Panorama](https://www.amazon.co.uk/dp/B08C7TV8TN/?tag=tolees0a-21) con 28.78 de descuento por 99.0 GBP (original: 139.0 GBP) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08GT87TYB
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 30.12 EUR
 inStock: true
+prodname: The Sims 4 Plus Star Wars - Bundle - PlayStation 4
 ---
 
 Está [The Sims 4 Plus Star Wars - Bundle - PlayStation 4](https://www.amazon.it/dp/B08GT87TYB/?tag=tolees00-21) con 66.83 de descuento por 9.99 EUR (original: 30.12 EUR) en el siguiente enlace!

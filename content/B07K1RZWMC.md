@@ -10,8 +10,11 @@ author: ring
 slug: B07K1RZWMC
 description:
 actualPrice: 79.99 USD
+currency: USD
+price: 79.99
 comparePrice: 149.99 USD
 inStock: true
+prodname: Fire HD 10 Tablet  10.1" 1080p full HD display  32 GB  – Black
 ---
 
 Tienes [Fire HD 10 Tablet  10.1" 1080p full HD display  32 GB  – Black](https://www.amazon.com/dp/B07K1RZWMC/?tag=tolees-20) con un 46.67 % de descuento con precio de oferta de 79.99 USD (original: 149.99 USD) en el siguiente enlace!

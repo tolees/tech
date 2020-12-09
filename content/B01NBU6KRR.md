@@ -10,8 +10,11 @@ author: ring
 slug: B01NBU6KRR
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Motorola Baby MBP 48 Vigilabebés Vídeo con Pantalla LCD  Modo Eco y Visión Nocturna  Blanco
 ---
 
 Tienes [Motorola Baby MBP 48 Vigilabebés Vídeo con Pantalla LCD  Modo Eco y Visión Nocturna  Blanco](https://www.amazon.es/dp/B01NBU6KRR/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

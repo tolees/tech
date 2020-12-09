@@ -10,8 +10,11 @@ author: ring
 slug: B07JYD4MY7
 description:
 actualPrice: 549.0 GBP
+currency: GBP
+price: 549.0
 comparePrice: 799.0 GBP
 inStock: true
+prodname: Apple iPhone XR  128GB  - White
 ---
 
 Ahora mismo tienes [Apple iPhone XR  128GB  - White](https://www.amazon.co.uk/dp/B07JYD4MY7/?tag=tolees0a-21) a 549.0 GBP (original: 799.0 GBP) (31.29 %  de descuento) en el siguiente enlace!

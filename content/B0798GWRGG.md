@@ -10,8 +10,11 @@ author: ring
 slug: B0798GWRGG
 description:
 actualPrice: 139.95 EUR
+currency: EUR
+price: 139.95
 comparePrice: 199.37 EUR
 inStock: true
+prodname: Withings Steel HR Smartwatch Ibrido Orologio sportivo con misurazione della frequenza cardiaca  dell attività e del sonno con notifiche
 ---
 
 Tienes [Withings Steel HR Smartwatch Ibrido Orologio sportivo con misurazione della frequenza cardiaca  dell attività e del sonno con notifiche](https://www.amazon.it/dp/B0798GWRGG/?tag=tolees00-21) con un 29.80 % de descuento con precio de oferta de 139.95 EUR (original: 199.37 EUR) en el siguiente enlace!

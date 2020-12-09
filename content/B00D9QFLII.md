@@ -10,8 +10,11 @@ author: ring
 slug: B00D9QFLII
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Trust Gaming GXT 340 - Auriculares gaming de diadema cerrados  con micrófono  control remoto integrado  reducción de ruido   negro
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 340 - Auriculares gaming de diadema cerrados  con micrófono  control remoto integrado  reducción de ruido   negro](https://www.amazon.es/dp/B00D9QFLII/?tag=tolees-21) a 15.99 EUR (original: 69.99 EUR) (77.15 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078VGQ1WQ
 description:
 actualPrice: 138.06 EUR
+currency: EUR
+price: 138.06
 comparePrice: 250 EUR
 inStock: true
+prodname: Sony MDR-1AM2S - Auriculares inalámbricos  Hi-Res  NFC  controladores de HD LCP de 40 mm   color plata
 ---
 
 Tienes [Sony MDR-1AM2S - Auriculares inalámbricos  Hi-Res  NFC  controladores de HD LCP de 40 mm   color plata](https://www.amazon.es/dp/B078VGQ1WQ/?tag=tolees-21) con un 44.78 % de descuento con precio de oferta de 138.06 EUR (original: 250 EUR) en el siguiente enlace!

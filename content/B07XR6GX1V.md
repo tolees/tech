@@ -10,8 +10,11 @@ author: ring
 slug: B07XR6GX1V
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Apple Funda Silicone Case  para el iPhone 11 Pro  - Rosa Arena
 ---
 
 Tienes [Apple Funda Silicone Case  para el iPhone 11 Pro  - Rosa Arena](https://www.amazon.es/dp/B07XR6GX1V/?tag=tolees-21) con un 68.93 % de descuento con precio de oferta de 13.98 EUR (original: 45.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B085JK3PFD
 description:
 actualPrice: 668.0 EUR
+currency: EUR
+price: 668.0
 comparePrice: 1001.98 EUR
 inStock: true
+prodname: Huawei P40 Pro - Smartphone 256GB  8GB RAM  Dual Sim  Black
 ---
 
 Tienes [Huawei P40 Pro - Smartphone 256GB  8GB RAM  Dual Sim  Black](https://www.amazon.es/dp/B085JK3PFD/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 668.0 EUR (original: 1001.98 EUR) en el siguiente enlace!

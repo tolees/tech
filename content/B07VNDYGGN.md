@@ -10,8 +10,11 @@ author: ring
 slug: B07VNDYGGN
 description:
 actualPrice: 14.99 GBP
+currency: GBP
+price: 14.99
 comparePrice: 21.99 GBP
 inStock: true
+prodname: Two Point Hospital  Xbox One 
 ---
 
 Tienes [Two Point Hospital  Xbox One ](https://www.amazon.co.uk/dp/B07VNDYGGN/?tag=tolees0a-21) con un 31.83 % de descuento con precio de oferta de 14.99 GBP (original: 21.99 GBP) en el siguiente enlace!

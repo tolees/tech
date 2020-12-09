@@ -10,8 +10,11 @@ author: ring
 slug: B07NNFW7YT
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Jabra Move Style Edition Cuffie On-Ear  Cuffie Stereo con Connessione a Tablet  Computer e Telefono  Chiamate e Musica Wireless  Blu Marino
 ---
 
 Está [Jabra Move Style Edition Cuffie On-Ear  Cuffie Stereo con Connessione a Tablet  Computer e Telefono  Chiamate e Musica Wireless  Blu Marino](https://www.amazon.it/dp/B07NNFW7YT/?tag=tolees00-21) con 37.00 de descuento por 62.99 EUR (original: 99.99 EUR) en el siguiente enlace!

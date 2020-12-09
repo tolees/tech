@@ -10,8 +10,11 @@ author: ring
 slug: B07Q39DBJY
 description:
 actualPrice: 15.25 USD
+currency: USD
+price: 15.25
 comparePrice: 29.99 USD
 inStock: true
+prodname: Borderlands 3 Playstation 4
 ---
 
 Está [Borderlands 3 Playstation 4](https://www.amazon.com/dp/B07Q39DBJY/?tag=tolees-20) con 49.15 de descuento por 15.25 USD (original: 29.99 USD) en el siguiente enlace!

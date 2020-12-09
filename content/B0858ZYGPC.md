@@ -10,8 +10,11 @@ author: ring
 slug: B0858ZYGPC
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 12.98 EUR
 inStock: true
+prodname: Oihxse Animal Serie Case Compatible con Samsung Galaxy A9s Funda Transparente Suave Silicona Elefante Conejo Patrón Protector Carcasa Ultra-Delgado Creativa Anti-Choque Cover  A15 
 ---
 
 Tienes [Oihxse Animal Serie Case Compatible con Samsung Galaxy A9s Funda Transparente Suave Silicona Elefante Conejo Patrón Protector Carcasa Ultra-Delgado Creativa Anti-Choque Cover  A15 ](https://www.amazon.es/dp/B0858ZYGPC/?tag=tolees-21) con un 38.52 % de descuento con precio de oferta de 7.98 EUR (original: 12.98 EUR) en el siguiente enlace!

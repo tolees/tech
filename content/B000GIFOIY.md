@@ -10,8 +10,11 @@ author: ring
 slug: B000GIFOIY
 description:
 actualPrice: 14.26 EUR
+currency: EUR
+price: 14.26
 comparePrice: 28.96 EUR
 inStock: true
+prodname: Ubisoft Rayman Raving Rabbids  Wii - Juego  Wii  Nintendo Wii 
 ---
 
 Ahora mismo tienes [Ubisoft Rayman Raving Rabbids  Wii - Juego  Wii  Nintendo Wii ](https://www.amazon.es/dp/B000GIFOIY/?tag=tolees-21) a 14.26 EUR (original: 28.96 EUR) (50.76 %  de descuento) en el siguiente enlace!

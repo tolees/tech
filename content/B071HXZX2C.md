@@ -10,8 +10,11 @@ author: ring
 slug: B071HXZX2C
 description:
 actualPrice: 101.99 EUR
+currency: EUR
+price: 101.99
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Seagate Game Drive per Xbox  Unità Disco Esterna Portatile da 4 TB  USB 3.0  Bianco  Progettata per Xbox One  Abbonamento di 1 Mese a Xbox Game Pass  STEA4000407 
 ---
 
 Ahora mismo tienes [Seagate Game Drive per Xbox  Unità Disco Esterna Portatile da 4 TB  USB 3.0  Bianco  Progettata per Xbox One  Abbonamento di 1 Mese a Xbox Game Pass  STEA4000407 ](https://www.amazon.it/dp/B071HXZX2C/?tag=tolees00-21) a 101.99 EUR (original: 139.99 EUR) (27.14 %  de descuento) en el siguiente enlace!

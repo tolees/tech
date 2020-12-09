@@ -10,8 +10,11 @@ author: ring
 slug: B0843SNCJJ
 description:
 actualPrice: 87.48 EUR
+currency: EUR
+price: 87.48
 comparePrice: 124.97 EUR
 inStock: true
+prodname: gridinlux. Homely WiFi Warm 1500W. Radiador Cristal Eléctrico  Calefacción Termostato  Convector Calor  WiFi  App  Silencioso  Apto para baños.
 ---
 
 Tienes [gridinlux. Homely WiFi Warm 1500W. Radiador Cristal Eléctrico  Calefacción Termostato  Convector Calor  WiFi  App  Silencioso  Apto para baños.](https://www.amazon.es/dp/B0843SNCJJ/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 87.48 EUR (original: 124.97 EUR) en el siguiente enlace!

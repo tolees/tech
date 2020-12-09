@@ -10,8 +10,11 @@ author: ring
 slug: B00EO20LXG
 description:
 actualPrice: 4.12 EUR
+currency: EUR
+price: 4.12
 comparePrice: 9.99 EUR
 inStock: true
+prodname: JVC HA-F160-W-E Gumy - Auriculares de botón  color blanco
 ---
 
 Está [JVC HA-F160-W-E Gumy - Auriculares de botón  color blanco](https://www.amazon.es/dp/B00EO20LXG/?tag=tolees-21) con 58.76 de descuento por 4.12 EUR (original: 9.99 EUR) en el siguiente enlace!

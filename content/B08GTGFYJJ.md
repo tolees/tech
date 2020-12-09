@@ -10,8 +10,11 @@ author: ring
 slug: B08GTGFYJJ
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Tennis World Tour 2 PS4 [Version Española]
 ---
 
 Está [Tennis World Tour 2 PS4 [Version Española]](https://www.amazon.es/dp/B08GTGFYJJ/?tag=tolees-21) con 58.41 de descuento por 24.95 EUR (original: 59.99 EUR) en el siguiente enlace!

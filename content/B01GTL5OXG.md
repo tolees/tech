@@ -10,8 +10,11 @@ author: ring
 slug: B01GTL5OXG
 description:
 actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
 comparePrice: 179.95 EUR
 inStock: true
+prodname: TomTom GPS Voiture Via 52 - 5 Pouces  Cartographie Europe 49  Trafic via Smartphone et Appel Mains-Libres
 ---
 
 Ahora mismo tienes [TomTom GPS Voiture Via 52 - 5 Pouces  Cartographie Europe 49  Trafic via Smartphone et Appel Mains-Libres](https://www.amazon.fr/dp/B01GTL5OXG/?tag=tolees0d-21) a 99.95 EUR (original: 179.95 EUR) (44.46 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VNT7JGV
 description:
 actualPrice: 19.99 USD
+currency: USD
+price: 19.99
 comparePrice: 29.99 USD
 inStock: true
+prodname: Heroland - Knowble Edition - PlayStation 4
 ---
 
 Ahora mismo tienes [Heroland - Knowble Edition - PlayStation 4](https://www.amazon.com/dp/B07VNT7JGV/?tag=tolees-20) a 19.99 USD (original: 29.99 USD) (33.34 %  de descuento) en el siguiente enlace!

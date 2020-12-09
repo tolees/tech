@@ -10,8 +10,11 @@ author: ring
 slug: B00PLQKFZ8
 description:
 actualPrice: 28.39 EUR
+currency: EUR
+price: 28.39
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Sac besace Playstation BIO-MB128818SNY  Gris
 ---
 
 Tienes [Sac besace Playstation BIO-MB128818SNY  Gris](https://www.amazon.fr/dp/B00PLQKFZ8/?tag=tolees0d-21) con un 33.96 % de descuento con precio de oferta de 28.39 EUR (original: 42.99 EUR) en el siguiente enlace!

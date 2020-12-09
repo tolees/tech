@@ -10,8 +10,11 @@ author: ring
 slug: B07S7J1CGK
 description:
 actualPrice: 18.69 USD
+currency: USD
+price: 18.69
 comparePrice: 49.99 USD
 inStock: true
+prodname: Mpow FLAME2 Bluetooth Headphones Sport  12Hrs & Bluetooth 5.0 Wireless Sport Earphones  IPX7 Waterproof Bluetooth Headset W/CVC 6.0 Noise Cancelling Mic  Bluetooth Earphones w/Comfort-Slanting  Black
 ---
 
 Está [Mpow FLAME2 Bluetooth Headphones Sport  12Hrs & Bluetooth 5.0 Wireless Sport Earphones  IPX7 Waterproof Bluetooth Headset W/CVC 6.0 Noise Cancelling Mic  Bluetooth Earphones w/Comfort-Slanting  Black](https://www.amazon.com/dp/B07S7J1CGK/?tag=tolees-20) con 62.61 de descuento por 18.69 USD (original: 49.99 USD) en el siguiente enlace!

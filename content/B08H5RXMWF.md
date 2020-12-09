@@ -10,8 +10,11 @@ author: ring
 slug: B08H5RXMWF
 description:
 actualPrice: 41.9 EUR
+currency: EUR
+price: 41.9
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Tucano- Lunar Mochila para Ordenador Portátil 15.6 Pulgadas y Compatible con Macbook Pro 16  para los Estudios  Viajes o Trabajo
 ---
 
 Tienes [Tucano- Lunar Mochila para Ordenador Portátil 15.6 Pulgadas y Compatible con Macbook Pro 16  para los Estudios  Viajes o Trabajo](https://www.amazon.es/dp/B08H5RXMWF/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 41.9 EUR (original: 59.9 EUR) en el siguiente enlace!

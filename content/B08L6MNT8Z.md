@@ -10,8 +10,11 @@ author: ring
 slug: B08L6MNT8Z
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: LK Coque pour Xiaomi Mi 10T 5G/10T Pro 5G  [2 × Verre trempé Protection écran]  Souple Flexible Silicone Gel TPU Housse Case  Transparent Antichoc Cover pour Xiaomi Mi 10T 5G/10T Pro 5G -Clair
 ---
 
 Tienes [LK Coque pour Xiaomi Mi 10T 5G/10T Pro 5G  [2 × Verre trempé Protection écran]  Souple Flexible Silicone Gel TPU Housse Case  Transparent Antichoc Cover pour Xiaomi Mi 10T 5G/10T Pro 5G -Clair](https://www.amazon.fr/dp/B08L6MNT8Z/?tag=tolees0d-21) con un 43.78 % de descuento con precio de oferta de 8.99 EUR (original: 15.99 EUR) en el siguiente enlace!

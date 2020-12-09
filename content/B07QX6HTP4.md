@@ -10,8 +10,11 @@ author: ring
 slug: B07QX6HTP4
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 35.51 EUR
 inStock: true
+prodname: MOSNOVO [Transparente Funda Galaxy S10 con Absorción de Choque Resistente para Samsung Galaxy S10 [Wildflowers]
 ---
 
 Está [MOSNOVO [Transparente Funda Galaxy S10 con Absorción de Choque Resistente para Samsung Galaxy S10 [Wildflowers]](https://www.amazon.es/dp/B07QX6HTP4/?tag=tolees-21) con 63.42 de descuento por 12.99 EUR (original: 35.51 EUR) en el siguiente enlace!

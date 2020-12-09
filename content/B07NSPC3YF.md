@@ -10,8 +10,11 @@ author: ring
 slug: B07NSPC3YF
 description:
 actualPrice: 381.65 EUR
+currency: EUR
+price: 381.65
 comparePrice: 529 EUR
 inStock: true
+prodname: ASUS VivoBook X540UB-GQ492T - Ordenador portátil de 15.6"  Intel Core i3-7020U  8GB RAM  1TB HDD  NVIDIA GeForce MX110  Windows 10 Home  Negro - Teclado QWERTY Español
 ---
 
 Ahora mismo tienes [ASUS VivoBook X540UB-GQ492T - Ordenador portátil de 15.6"  Intel Core i3-7020U  8GB RAM  1TB HDD  NVIDIA GeForce MX110  Windows 10 Home  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07NSPC3YF/?tag=tolees-21) a 381.65 EUR (original: 529 EUR) (27.85 %  de descuento) en el siguiente enlace!

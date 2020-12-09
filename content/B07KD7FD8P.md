@@ -10,8 +10,11 @@ author: ring
 slug: B07KD7FD8P
 description:
 actualPrice: 102.34 EUR
+currency: EUR
+price: 102.34
 comparePrice: 160.83 EUR
 inStock: true
+prodname: Fire HD 10-Tablet│10 1 Zoll großes Full HD-Display  1080p   32 GB  Schwarz ohne Spezialangebote
 ---
 
 Tienes [Fire HD 10-Tablet│10 1 Zoll großes Full HD-Display  1080p   32 GB  Schwarz ohne Spezialangebote](https://www.amazon.de/dp/B07KD7FD8P/?tag=tolees0ca-21) con un 36.37 % de descuento con precio de oferta de 102.34 EUR (original: 160.83 EUR) en el siguiente enlace!

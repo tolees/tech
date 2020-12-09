@@ -10,8 +10,11 @@ author: ring
 slug: B01M6WNWR6
 description:
 actualPrice: 47.1 EUR
+currency: EUR
+price: 47.1
 comparePrice: 69.0 EUR
 inStock: true
+prodname: JBL T450BT - Auriculares de diadema inalámbricos con Bluetooth 4.0  sonido Pure Bass  11 h de música continua  negro
 ---
 
 Tienes [JBL T450BT - Auriculares de diadema inalámbricos con Bluetooth 4.0  sonido Pure Bass  11 h de música continua  negro](https://www.amazon.es/dp/B01M6WNWR6/?tag=tolees-21) con un 31.74 % de descuento con precio de oferta de 47.1 EUR (original: 69.0 EUR) en el siguiente enlace!

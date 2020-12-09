@@ -10,8 +10,11 @@ author: ring
 slug: B00RM1EC1S
 description:
 actualPrice: 15.21 GBP
+currency: GBP
+price: 15.21
 comparePrice: 25.12 GBP
 inStock: true
+prodname: SanDisk SDCZ50-128G-B35 128 GB Cruzer Blade USB 2.0 Flash Drive - Black   Standard Packaging  
 ---
 
 Está [SanDisk SDCZ50-128G-B35 128 GB Cruzer Blade USB 2.0 Flash Drive - Black   Standard Packaging  ](https://www.amazon.co.uk/dp/B00RM1EC1S/?tag=tolees0a-21) con 39.45 de descuento por 15.21 GBP (original: 25.12 GBP) en el siguiente enlace!

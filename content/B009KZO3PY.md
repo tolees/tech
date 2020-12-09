@@ -10,8 +10,11 @@ author: ring
 slug: B009KZO3PY
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 44.94 EUR
 inStock: true
+prodname: Logitech MK330 Combo Teclado y Ratón Inalámbrico para Windows  2.4 GHz con Receptor USB Unifying  Ratón Inalámbrico Portátil  Teclas Multimedia  PC/Portátil  Disposición QWERTY Español  Negro
 ---
 
 Está [Logitech MK330 Combo Teclado y Ratón Inalámbrico para Windows  2.4 GHz con Receptor USB Unifying  Ratón Inalámbrico Portátil  Teclas Multimedia  PC/Portátil  Disposición QWERTY Español  Negro](https://www.amazon.es/dp/B009KZO3PY/?tag=tolees-21) con 33.27 de descuento por 29.99 EUR (original: 44.94 EUR) en el siguiente enlace!

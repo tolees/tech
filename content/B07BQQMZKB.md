@@ -10,8 +10,11 @@ author: ring
 slug: B07BQQMZKB
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: New bee Bluetooth Headset V5.0 Wireless Headset Bluetooth Freisprechen im Ohr mit Clear Voice Capture Technologie Bluetooth In-Ear Headset für iPhone Samsung Huawei HTC  Sony  usw
 ---
 
 Tienes [New bee Bluetooth Headset V5.0 Wireless Headset Bluetooth Freisprechen im Ohr mit Clear Voice Capture Technologie Bluetooth In-Ear Headset für iPhone Samsung Huawei HTC  Sony  usw](https://www.amazon.de/dp/B07BQQMZKB/?tag=tolees0ca-21) con un 30.56 % de descuento con precio de oferta de 24.99 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08LVY11XD
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: LK Coque Compatible avec Xiaomi Mi 10T Lite 5G -2 × Verre Trempé Protection écran  Protection Complète Flexible en TPU Brossé Housse Bumper Case- Noir Slim Fit
 ---
 
 Tienes [LK Coque Compatible avec Xiaomi Mi 10T Lite 5G -2 × Verre Trempé Protection écran  Protection Complète Flexible en TPU Brossé Housse Bumper Case- Noir Slim Fit](https://www.amazon.fr/dp/B08LVY11XD/?tag=tolees0d-21) con un 50.03 % de descuento con precio de oferta de 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

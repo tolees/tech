@@ -10,8 +10,11 @@ author: ring
 slug: B07SNDVVYH
 description:
 actualPrice: 633.95 EUR
+currency: EUR
+price: 633.95
 comparePrice: 899.0 EUR
 inStock: true
+prodname: TCL 65EP680 Televisor 165 cm  65 pulgadas  Smart TV  4K UHD  HDR10 PRO  Micro Dimming Pro  Android TV  Alexa  Google Assistant 
 ---
 
 Está [TCL 65EP680 Televisor 165 cm  65 pulgadas  Smart TV  4K UHD  HDR10 PRO  Micro Dimming Pro  Android TV  Alexa  Google Assistant ](https://www.amazon.es/dp/B07SNDVVYH/?tag=tolees-21) con 29.48 de descuento por 633.95 EUR (original: 899.0 EUR) en el siguiente enlace!

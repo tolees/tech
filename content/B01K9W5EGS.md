@@ -10,8 +10,11 @@ author: ring
 slug: B01K9W5EGS
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Garmin Forerunner 35- Reloj GPS con monitor de frecuencia cardiaca en la muñeca  monitor de actividad y notificaciones inteligentes  color turquesa
 ---
 
 Ahora mismo tienes [Garmin Forerunner 35- Reloj GPS con monitor de frecuencia cardiaca en la muñeca  monitor de actividad y notificaciones inteligentes  color turquesa](https://www.amazon.es/dp/B01K9W5EGS/?tag=tolees-21) a 89.0 EUR (original: 139.99 EUR) (36.42 %  de descuento) en el siguiente enlace!

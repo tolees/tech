@@ -10,8 +10,11 @@ author: ring
 slug: B081R7XZHN
 description:
 actualPrice: 6.25 EUR
+currency: EUR
+price: 6.25
 comparePrice: 10.99 EUR
 inStock: true
+prodname: LAYJOY Funda Xiaomi Redmi 8  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Xiaomi Redmi 8  2019  6.22 Pulgadas -Negro
 ---
 
 Ahora mismo tienes [LAYJOY Funda Xiaomi Redmi 8  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Xiaomi Redmi 8  2019  6.22 Pulgadas -Negro](https://www.amazon.es/dp/B081R7XZHN/?tag=tolees-21) a 6.25 EUR (original: 10.99 EUR) (43.13 %  de descuento) en el siguiente enlace!

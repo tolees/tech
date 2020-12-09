@@ -10,8 +10,11 @@ author: ring
 slug: B08HDL7FW1
 description:
 actualPrice: 498.9 EUR
+currency: EUR
+price: 498.9
 comparePrice: 669.0 EUR
 inStock: true
+prodname: Samsung Smartphone Galaxy S20 FE  Display 6.5" Super AMOLED  3 fotocamere posteriori  128 GB Espandibili  RAM 6GB  Batteria 4.500mAh  Hybrid SIM   2020  [Versione Italiana]  Navy  Cloud Navy 
 ---
 
 Está [Samsung Smartphone Galaxy S20 FE  Display 6.5" Super AMOLED  3 fotocamere posteriori  128 GB Espandibili  RAM 6GB  Batteria 4.500mAh  Hybrid SIM   2020  [Versione Italiana]  Navy  Cloud Navy ](https://www.amazon.it/dp/B08HDL7FW1/?tag=tolees00-21) con 25.43 de descuento por 498.9 EUR (original: 669.0 EUR) en el siguiente enlace!

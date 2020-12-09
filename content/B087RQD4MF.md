@@ -10,8 +10,11 @@ author: ring
 slug: B087RQD4MF
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 79.99 EUR
 inStock: true
+prodname: F1 2020 Deluxe Schumacher Edición PS4 ESP
 ---
 
 Tienes [F1 2020 Deluxe Schumacher Edición PS4 ESP](https://www.amazon.es/dp/B087RQD4MF/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 49.9 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L5GDTYY
 description:
 actualPrice: 169.99 GBP
+currency: GBP
+price: 169.99
 comparePrice: 229.99 GBP
 inStock: true
+prodname: Kindle Oasis | Now with adjustable warm light | Waterproof  8 GB  Wi-Fi | Graphite
 ---
 
 Tienes [Kindle Oasis | Now with adjustable warm light | Waterproof  8 GB  Wi-Fi | Graphite](https://www.amazon.co.uk/dp/B07L5GDTYY/?tag=tolees0a-21) con un 26.09 % de descuento con precio de oferta de 169.99 GBP (original: 229.99 GBP) en el siguiente enlace!

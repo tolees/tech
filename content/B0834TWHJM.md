@@ -10,8 +10,11 @@ author: ring
 slug: B0834TWHJM
 description:
 actualPrice: 12.25 EUR
+currency: EUR
+price: 12.25
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Richgv Tableta de Escritura  12 Pulgadas Tablet de Pintar Niños，Electrónica Gráfica Portatil Tableta de Dibujo Digital Color， Escribir Dibujar Notas para Clase Oficina Casa  12 Pulgadas  Verde-B 
 ---
 
 Ahora mismo tienes [Richgv Tableta de Escritura  12 Pulgadas Tablet de Pintar Niños，Electrónica Gráfica Portatil Tableta de Dibujo Digital Color， Escribir Dibujar Notas para Clase Oficina Casa  12 Pulgadas  Verde-B ](https://www.amazon.es/dp/B0834TWHJM/?tag=tolees-21) a 12.25 EUR (original: 16.99 EUR) (27.90 %  de descuento) en el siguiente enlace!

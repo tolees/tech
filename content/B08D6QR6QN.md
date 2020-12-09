@@ -10,8 +10,11 @@ author: ring
 slug: B08D6QR6QN
 description:
 actualPrice: 14.15 EUR
+currency: EUR
+price: 14.15
 comparePrice: 21.22 EUR
 inStock: true
+prodname: Huj HD 1080P Webcam libre Drive USB PC PC cámara giratoria con micrófono
 ---
 
 Tienes [Huj HD 1080P Webcam libre Drive USB PC PC cámara giratoria con micrófono](https://www.amazon.es/dp/B08D6QR6QN/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 14.15 EUR (original: 21.22 EUR) en el siguiente enlace!

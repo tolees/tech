@@ -10,8 +10,11 @@ author: ring
 slug: B07WWKH1B7
 description:
 actualPrice: 199.95 USD
+currency: USD
+price: 199.95
 comparePrice: 299.98 USD
 inStock: true
+prodname: Sennheiser IE 80S BT Audiophile in-Ear Bluetooth Headphone  Black
 ---
 
 Tienes [Sennheiser IE 80S BT Audiophile in-Ear Bluetooth Headphone  Black](https://www.amazon.com/dp/B07WWKH1B7/?tag=tolees-20) con un 33.35 % de descuento con precio de oferta de 199.95 USD (original: 299.98 USD) en el siguiente enlace!

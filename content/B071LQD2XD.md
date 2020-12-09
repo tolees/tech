@@ -10,8 +10,11 @@ author: ring
 slug: B071LQD2XD
 description:
 actualPrice: 7.72 EUR
+currency: EUR
+price: 7.72
 comparePrice: 21.89 EUR
 inStock: true
+prodname: AmazonBasics - Ladegerät für Controller-Akkus  für die Original Xbox One   Schwarz
 ---
 
 Ahora mismo tienes [AmazonBasics - Ladegerät für Controller-Akkus  für die Original Xbox One   Schwarz](https://www.amazon.de/dp/B071LQD2XD/?tag=tolees0ca-21) a 7.72 EUR (original: 21.89 EUR) (64.73 %  de descuento) en el siguiente enlace!

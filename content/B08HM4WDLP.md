@@ -10,8 +10,11 @@ author: ring
 slug: B08HM4WDLP
 description:
 actualPrice: 206.8 EUR
+currency: EUR
+price: 206.8
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Samsung Galaxy A31 Smartphone  Display 6.4” Full HD e Amoled  4 Fotocamere Posteriori  128 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  185 g  Versione Italiana  Blu
 ---
 
 Está [Samsung Galaxy A31 Smartphone  Display 6.4” Full HD e Amoled  4 Fotocamere Posteriori  128 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  185 g  Versione Italiana  Blu](https://www.amazon.it/dp/B08HM4WDLP/?tag=tolees00-21) con 30.84 de descuento por 206.8 EUR (original: 299.0 EUR) en el siguiente enlace!

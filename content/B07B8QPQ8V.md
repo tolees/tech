@@ -10,8 +10,11 @@ author: ring
 slug: B07B8QPQ8V
 description:
 actualPrice: 23.9 EUR
+currency: EUR
+price: 23.9
 comparePrice: 34.99 EUR
 inStock: true
+prodname: JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth - Parlante resistente al agua  IPX7  - hasta 5h de reproducción con sonido de alta fidelidad - Amarillo
 ---
 
 Está [JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth - Parlante resistente al agua  IPX7  - hasta 5h de reproducción con sonido de alta fidelidad - Amarillo](https://www.amazon.es/dp/B07B8QPQ8V/?tag=tolees-21) con 31.69 de descuento por 23.9 EUR (original: 34.99 EUR) en el siguiente enlace!

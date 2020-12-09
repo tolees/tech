@@ -10,8 +10,11 @@ author: ring
 slug: B01CW49AGG
 description:
 actualPrice: 39.99 USD
+currency: USD
+price: 39.99
 comparePrice: 84.99 USD
 inStock: true
+prodname: YI Outdoor Security Camera  1080p Cloud Cam IP Waterproof Night Vision Surveillance System with 24/7 Emergency Response  Motion Detection  Activity Alert  Deterrent Alarm  Phone App  Works with Alexa
 ---
 
 Ahora mismo tienes [YI Outdoor Security Camera  1080p Cloud Cam IP Waterproof Night Vision Surveillance System with 24/7 Emergency Response  Motion Detection  Activity Alert  Deterrent Alarm  Phone App  Works with Alexa](https://www.amazon.com/dp/B01CW49AGG/?tag=tolees-20) a 39.99 USD (original: 84.99 USD) (52.95 %  de descuento) en el siguiente enlace!

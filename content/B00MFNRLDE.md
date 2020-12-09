@@ -10,8 +10,11 @@ author: ring
 slug: B00MFNRLDE
 description:
 actualPrice: 15.75 EUR
+currency: EUR
+price: 15.75
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Disney HP010FZ Auriculares Estéreo  Diadema Ajustable Y Plegable  Azul
 ---
 
 Tienes [Disney HP010FZ Auriculares Estéreo  Diadema Ajustable Y Plegable  Azul](https://www.amazon.es/dp/B00MFNRLDE/?tag=tolees-21) con un 36.97 % de descuento con precio de oferta de 15.75 EUR (original: 24.99 EUR) en el siguiente enlace!

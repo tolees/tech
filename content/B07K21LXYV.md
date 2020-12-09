@@ -10,8 +10,11 @@ author: ring
 slug: B07K21LXYV
 description:
 actualPrice: 399.99 EUR
+currency: EUR
+price: 399.99
 comparePrice: 759.0 EUR
 inStock: true
+prodname: Apple Watch Series 4  GPS + Cellulare  Cassa 44 mm in Acciaio Inossidabile Color Oro e Cinturino Sport Grigio Pietra
 ---
 
 Está [Apple Watch Series 4  GPS + Cellulare  Cassa 44 mm in Acciaio Inossidabile Color Oro e Cinturino Sport Grigio Pietra](https://www.amazon.it/dp/B07K21LXYV/?tag=tolees00-21) con 47.30 de descuento por 399.99 EUR (original: 759.0 EUR) en el siguiente enlace!

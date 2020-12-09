@@ -10,8 +10,11 @@ author: ring
 slug: B01N0J5GGK
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Newskill Ashi - Soporte Fabricado en Metacrilato Auriculares  Estructura compacta  Gran compatibilidad  Color Negro
 ---
 
 Está [Newskill Ashi - Soporte Fabricado en Metacrilato Auriculares  Estructura compacta  Gran compatibilidad  Color Negro](https://www.amazon.es/dp/B01N0J5GGK/?tag=tolees-21) con 46.82 de descuento por 7.95 EUR (original: 14.95 EUR) en el siguiente enlace!

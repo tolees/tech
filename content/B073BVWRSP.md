@@ -10,8 +10,11 @@ author: ring
 slug: B073BVWRSP
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cambridge SoundWorks OontZ Angle 3 Ultra: Altavoz Bluetooth portátil  14 vatios  Sonido increíble  Alcance de 30 m  Dos Juegos Juntos para música estéreo Dual  IPX-6  Negro
 ---
 
 Ahora mismo tienes [Cambridge SoundWorks OontZ Angle 3 Ultra: Altavoz Bluetooth portátil  14 vatios  Sonido increíble  Alcance de 30 m  Dos Juegos Juntos para música estéreo Dual  IPX-6  Negro](https://www.amazon.es/dp/B073BVWRSP/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

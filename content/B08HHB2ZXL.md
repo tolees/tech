@@ -10,8 +10,11 @@ author: ring
 slug: B08HHB2ZXL
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: TV BOX Android  TaNix Hi6S Android 9.0 Box Hisilicon  up to 2.0 GHz）2GB LPDDR4+8GB eMMC Con MIMO WiFi 2.4G&5GHz/1080P UI Supporto 3D 4K HD H.265 HDMI DLNA Smart TV BOX
 ---
 
 Ahora mismo tienes [TV BOX Android  TaNix Hi6S Android 9.0 Box Hisilicon  up to 2.0 GHz）2GB LPDDR4+8GB eMMC Con MIMO WiFi 2.4G&5GHz/1080P UI Supporto 3D 4K HD H.265 HDMI DLNA Smart TV BOX](https://www.amazon.it/dp/B08HHB2ZXL/?tag=tolees00-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!

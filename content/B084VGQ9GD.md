@@ -10,8 +10,11 @@ author: ring
 slug: B084VGQ9GD
 description:
 actualPrice: 199.0 EUR
+currency: EUR
+price: 199.0
 comparePrice: 389.0 EUR
 inStock: true
+prodname: Samsung AX60R5080WD Purificatore d Aria AirPurifier con Copertura di 60 m2  Bianco
 ---
 
 Tienes [Samsung AX60R5080WD Purificatore d Aria AirPurifier con Copertura di 60 m2  Bianco](https://www.amazon.it/dp/B084VGQ9GD/?tag=tolees00-21) con un 48.84 % de descuento con precio de oferta de 199.0 EUR (original: 389.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B087WLWD1Y
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.0 EUR
 inStock: true
+prodname: JOEAIS Tableta Escritura LCD 12 Pulgadas  Anti-caída Tablet Dibujo  Tablet para Dibujar para Niños  Regalo para Niños Niñas  Negro 
 ---
 
 Está [JOEAIS Tableta Escritura LCD 12 Pulgadas  Anti-caída Tablet Dibujo  Tablet para Dibujar para Niños  Regalo para Niños Niñas  Negro ](https://www.amazon.es/dp/B087WLWD1Y/?tag=tolees-21) con 56.44 de descuento por 16.99 EUR (original: 39.0 EUR) en el siguiente enlace!

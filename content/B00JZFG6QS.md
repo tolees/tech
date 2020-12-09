@@ -10,8 +10,11 @@ author: ring
 slug: B00JZFG6QS
 description:
 actualPrice: 45.36 EUR
+currency: EUR
+price: 45.36
 comparePrice: 99.99 EUR
 inStock: true
+prodname: TP-LINK Archer C5 - Router AC1200 Mbps Banda Dual WiFi Gigabit  WPS  2 puertos USB para compartir archivos  medios e impresoras 
 ---
 
 Ahora mismo tienes [TP-LINK Archer C5 - Router AC1200 Mbps Banda Dual WiFi Gigabit  WPS  2 puertos USB para compartir archivos  medios e impresoras ](https://www.amazon.es/dp/B00JZFG6QS/?tag=tolees-21) a 45.36 EUR (original: 99.99 EUR) (54.64 %  de descuento) en el siguiente enlace!

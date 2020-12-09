@@ -10,8 +10,11 @@ author: ring
 slug: B08MQ2W5LT
 description:
 actualPrice: 129.98 EUR
+currency: EUR
+price: 129.98
 comparePrice: 199.0 EUR
 inStock: true
+prodname: 4G LTE Tablet 10 Pulgadas - TOSCIDO M863 Tableta Android 10.0 4GB / RAM 64 GB / ROM  Octa Core 1.6GHz Dual Sim WiFi  Teclado Bluetooth | Ratón | Cubierta para Tablet M863 y Más Incluidos - Gris
 ---
 
 Ahora mismo tienes [4G LTE Tablet 10 Pulgadas - TOSCIDO M863 Tableta Android 10.0 4GB / RAM 64 GB / ROM  Octa Core 1.6GHz Dual Sim WiFi  Teclado Bluetooth | Ratón | Cubierta para Tablet M863 y Más Incluidos - Gris](https://www.amazon.es/dp/B08MQ2W5LT/?tag=tolees-21) a 129.98 EUR (original: 199.0 EUR) (34.68 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PXGQC1Q
 description:
 actualPrice: 99.0 USD
+currency: USD
+price: 99.0
 comparePrice: 159.0 USD
 inStock: true
+prodname: Apple AirPods with Charging Case  Wired 
 ---
 
 Tienes [Apple AirPods with Charging Case  Wired ](https://www.amazon.com/dp/B07PXGQC1Q/?tag=tolees-20) con un 37.74 % de descuento con precio de oferta de 99.0 USD (original: 159.0 USD) en el siguiente enlace!

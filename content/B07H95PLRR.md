@@ -10,8 +10,11 @@ author: ring
 slug: B07H95PLRR
 description:
 actualPrice: 599.99 EUR
+currency: EUR
+price: 599.99
 comparePrice: 1099.99 EUR
 inStock: true
+prodname: Samsung The Frame 2018 43LS03NAU - Smart TV Plano de 43"  4K UHD Resolución  HDR  One Remote Control  Tienda de Arte  One Connect+ Cable Invisible 
 ---
 
 Tienes [Samsung The Frame 2018 43LS03NAU - Smart TV Plano de 43"  4K UHD Resolución  HDR  One Remote Control  Tienda de Arte  One Connect+ Cable Invisible ](https://www.amazon.es/dp/B07H95PLRR/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 599.99 EUR (original: 1099.99 EUR) en el siguiente enlace!

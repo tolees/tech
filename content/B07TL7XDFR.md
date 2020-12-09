@@ -10,8 +10,11 @@ author: ring
 slug: B07TL7XDFR
 description:
 actualPrice: 25.97 EUR
+currency: EUR
+price: 25.97
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Mydours Alfombrilla de Escritorio  95 x40cm Estera del Escritorio de Oficina para Escritorio Hecho de Cuero PU Alfombrilla del Escritorio del Ordenador Portátil  Borgoña 
 ---
 
 Ahora mismo tienes [Mydours Alfombrilla de Escritorio  95 x40cm Estera del Escritorio de Oficina para Escritorio Hecho de Cuero PU Alfombrilla del Escritorio del Ordenador Portátil  Borgoña ](https://www.amazon.es/dp/B07TL7XDFR/?tag=tolees-21) a 25.97 EUR (original: 49.99 EUR) (48.05 %  de descuento) en el siguiente enlace!

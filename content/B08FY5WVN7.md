@@ -10,8 +10,11 @@ author: ring
 slug: B08FY5WVN7
 description:
 actualPrice: 35.99 GBP
+currency: GBP
+price: 35.99
 comparePrice: 59.99 GBP
 inStock: true
+prodname: SLT Bluetooth Headset with Noise Cancelling Microphone  Wireless Headset with Charging Dock Stand Headphones with Mute Mode for Home Office Truck Driver Cell Phone Call Center
 ---
 
 Está [SLT Bluetooth Headset with Noise Cancelling Microphone  Wireless Headset with Charging Dock Stand Headphones with Mute Mode for Home Office Truck Driver Cell Phone Call Center](https://www.amazon.co.uk/dp/B08FY5WVN7/?tag=tolees0a-21) con 40.01 de descuento por 35.99 GBP (original: 59.99 GBP) en el siguiente enlace!

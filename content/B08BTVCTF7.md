@@ -10,8 +10,11 @@ author: ring
 slug: B08BTVCTF7
 description:
 actualPrice: 169.9 EUR
+currency: EUR
+price: 169.9
 comparePrice: 299.9 EUR
 inStock: true
+prodname: HONOR 9X PRO Dual-SIM Smartphone - Phantom Purple  6 59 Zoll Display  256 + 6GB  Android 9.0 AOSP ohne Google Play Store  EMUI 9.1  + 48MP Triple-Kamera + 16MP Frontkamera – Deutsche Version
 ---
 
 Está [HONOR 9X PRO Dual-SIM Smartphone - Phantom Purple  6 59 Zoll Display  256 + 6GB  Android 9.0 AOSP ohne Google Play Store  EMUI 9.1  + 48MP Triple-Kamera + 16MP Frontkamera – Deutsche Version](https://www.amazon.de/dp/B08BTVCTF7/?tag=tolees0ca-21) con 43.35 de descuento por 169.9 EUR (original: 299.9 EUR) en el siguiente enlace!

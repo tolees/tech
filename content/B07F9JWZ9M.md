@@ -10,8 +10,11 @@ author: ring
 slug: B07F9JWZ9M
 description:
 actualPrice: 15.22 EUR
+currency: EUR
+price: 15.22
 comparePrice: 21.0 EUR
 inStock: true
+prodname: Gigaset A170 - Teléfono Inalámbrico  Pantalla Iluminada  Agenda de 50 Contactos  Color Chocolate
 ---
 
 Tienes [Gigaset A170 - Teléfono Inalámbrico  Pantalla Iluminada  Agenda de 50 Contactos  Color Chocolate](https://www.amazon.es/dp/B07F9JWZ9M/?tag=tolees-21) con un 27.52 % de descuento con precio de oferta de 15.22 EUR (original: 21.0 EUR) en el siguiente enlace!

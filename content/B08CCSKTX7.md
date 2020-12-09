@@ -10,8 +10,11 @@ author: ring
 slug: B08CCSKTX7
 description:
 actualPrice: 12.19 GBP
+currency: GBP
+price: 12.19
 comparePrice: 20.29 GBP
 inStock: true
+prodname: 208 in 1 Large-scale Game - Compilations Video Game DS Cartridge Card - Compatible Model Nintendo Dual Screen For DS NDS NDSL NDSi 3DS 2DS XL
 ---
 
 Ahora mismo tienes [208 in 1 Large-scale Game - Compilations Video Game DS Cartridge Card - Compatible Model Nintendo Dual Screen For DS NDS NDSL NDSi 3DS 2DS XL](https://www.amazon.co.uk/dp/B08CCSKTX7/?tag=tolees0a-21) a 12.19 GBP (original: 20.29 GBP) (39.92 %  de descuento) en el siguiente enlace!

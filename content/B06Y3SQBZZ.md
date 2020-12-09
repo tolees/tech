@@ -10,8 +10,11 @@ author: ring
 slug: B06Y3SQBZZ
 description:
 actualPrice: 6.39 EUR
+currency: EUR
+price: 6.39
 comparePrice: 18.99 EUR
 inStock: true
+prodname: ELEGOO Kit Básico de Componentes Electrónicos con Resistencias  Leds  Condensadores  Zumbador  Potenciómetro Compatible con Arduino UNO R3  Mega 2560  Raspberry Pi  Nano  Hoja de Datos Disponible
 ---
 
 Está [ELEGOO Kit Básico de Componentes Electrónicos con Resistencias  Leds  Condensadores  Zumbador  Potenciómetro Compatible con Arduino UNO R3  Mega 2560  Raspberry Pi  Nano  Hoja de Datos Disponible](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=tolees-21) con 66.35 de descuento por 6.39 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00OZCFUDG
 description:
 actualPrice: 729.99 USD
+currency: USD
+price: 729.99
 comparePrice: 1099.99 USD
 inStock: true
+prodname: NETGEAR 52-Port Gigabit/10G Stackable Smart Managed Pro Switch  GS752TX  - with 2 x 10G Copper and 2 x 10G SFP+  Desktop/Rackmount  and ProSAFE Limited Lifetime Protection
 ---
 
 Tienes [NETGEAR 52-Port Gigabit/10G Stackable Smart Managed Pro Switch  GS752TX  - with 2 x 10G Copper and 2 x 10G SFP+  Desktop/Rackmount  and ProSAFE Limited Lifetime Protection](https://www.amazon.com/dp/B00OZCFUDG/?tag=tolees-20) con un 33.64 % de descuento con precio de oferta de 729.99 USD (original: 1099.99 USD) en el siguiente enlace!

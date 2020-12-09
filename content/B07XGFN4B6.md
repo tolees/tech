@@ -10,8 +10,11 @@ author: ring
 slug: B07XGFN4B6
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: HolyHigh Bluetooth Kopfhörer In Ear Sport IPX7 Wasserdicht Kabellose Kopfhörer Sportkopfhörer Wireless Kopfhörer mit Premium Klangprofil/HD-Mikrofon/26 Stunden Spielzeit
 ---
 
 Tienes [HolyHigh Bluetooth Kopfhörer In Ear Sport IPX7 Wasserdicht Kabellose Kopfhörer Sportkopfhörer Wireless Kopfhörer mit Premium Klangprofil/HD-Mikrofon/26 Stunden Spielzeit](https://www.amazon.de/dp/B07XGFN4B6/?tag=tolees0ca-21) con un 35.01 % de descuento con precio de oferta de 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

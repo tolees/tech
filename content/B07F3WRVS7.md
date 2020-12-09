@@ -10,8 +10,11 @@ author: ring
 slug: B07F3WRVS7
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: IP cámara WiFi cámara IP Szsinocam cámaras de vigilancia wifi interior 1080P Servicio nube P2P IR Visión Nocturna Detección de Movimiento Seguridad para casa CCTV Sistema Seguridad para el hogar/bebé
 ---
 
 Está [IP cámara WiFi cámara IP Szsinocam cámaras de vigilancia wifi interior 1080P Servicio nube P2P IR Visión Nocturna Detección de Movimiento Seguridad para casa CCTV Sistema Seguridad para el hogar/bebé](https://www.amazon.es/dp/B07F3WRVS7/?tag=tolees-21) con 55.72 de descuento por 30.99 EUR (original: 69.99 EUR) en el siguiente enlace!

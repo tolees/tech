@@ -10,8 +10,11 @@ author: ring
 slug: B07DC6DVMJ
 description:
 actualPrice: 28.49 EUR
+currency: EUR
+price: 28.49
 comparePrice: 45.99 EUR
 inStock: true
+prodname: JYDMIX Hub USB C  Tipo C Adaptador con USB-C Carga Rápida 60W  HDMI 4K UHD  2 Puertos USB 3.0  Portail para MacBook  Google Chromebook  Samsung  Huawei etc.
 ---
 
 Ahora mismo tienes [JYDMIX Hub USB C  Tipo C Adaptador con USB-C Carga Rápida 60W  HDMI 4K UHD  2 Puertos USB 3.0  Portail para MacBook  Google Chromebook  Samsung  Huawei etc.](https://www.amazon.es/dp/B07DC6DVMJ/?tag=tolees-21) a 28.49 EUR (original: 45.99 EUR) (38.05 %  de descuento) en el siguiente enlace!

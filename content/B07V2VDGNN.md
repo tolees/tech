@@ -10,8 +10,11 @@ author: ring
 slug: B07V2VDGNN
 description:
 actualPrice: 19.26 EUR
+currency: EUR
+price: 19.26
 comparePrice: 28.68 EUR
 inStock: true
+prodname: Xiaomi Mi True Wireless Earbuds  Auricolari Wireless Compatti Senza Fili  Paring Automatico  Controlli Touch  Bluetooth 5.0  Batteria Fino a 12h d’Uso  Bianco [Versione Italiana]
 ---
 
 Está [Xiaomi Mi True Wireless Earbuds  Auricolari Wireless Compatti Senza Fili  Paring Automatico  Controlli Touch  Bluetooth 5.0  Batteria Fino a 12h d’Uso  Bianco [Versione Italiana]](https://www.amazon.it/dp/B07V2VDGNN/?tag=tolees00-21) con 32.85 de descuento por 19.26 EUR (original: 28.68 EUR) en el siguiente enlace!

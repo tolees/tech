@@ -10,8 +10,11 @@ author: ring
 slug: B07BSKRM23
 description:
 actualPrice: 89.92 EUR
+currency: EUR
+price: 89.92
 comparePrice: 179.95 EUR
 inStock: true
+prodname: DOCKIN® D FINE+ Hi-Fi Bluetooth Lautsprecher 50 Watt aptX  starker Akku  9.000 mAh  14h Laufzeit  mobiler tragbarer Speaker  Wireless  Outdoor IP55
 ---
 
 Ahora mismo tienes [DOCKIN® D FINE+ Hi-Fi Bluetooth Lautsprecher 50 Watt aptX  starker Akku  9.000 mAh  14h Laufzeit  mobiler tragbarer Speaker  Wireless  Outdoor IP55](https://www.amazon.de/dp/B07BSKRM23/?tag=tolees0ca-21) a 89.92 EUR (original: 179.95 EUR) (50.03 %  de descuento) en el siguiente enlace!

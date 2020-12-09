@@ -10,8 +10,11 @@ author: ring
 slug: B07KWR92DG
 description:
 actualPrice: 29.99 GBP
+currency: GBP
+price: 29.99
 comparePrice: 39.99 GBP
 inStock: true
+prodname: Nintendo Bowser s Castle Super Mario Deluxe Bowser s Castle Playset with 2.5" Exclusive Articulated Bowser Action Figure  Interactive Play Set with Authentic in-Game Sounds
 ---
 
 Tienes [Nintendo Bowser s Castle Super Mario Deluxe Bowser s Castle Playset with 2.5" Exclusive Articulated Bowser Action Figure  Interactive Play Set with Authentic in-Game Sounds](https://www.amazon.co.uk/dp/B07KWR92DG/?tag=tolees0a-21) con un 25.01 % de descuento con precio de oferta de 29.99 GBP (original: 39.99 GBP) en el siguiente enlace!

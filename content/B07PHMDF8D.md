@@ -10,8 +10,11 @@ author: ring
 slug: B07PHMDF8D
 description:
 actualPrice: 88.0 EUR
+currency: EUR
+price: 88.0
 comparePrice: 229.0 EUR
 inStock: true
+prodname: Huawei Watch GT Active - Reloj Inteligente  Verde  46 mm  Reloj
 ---
 
 Ahora mismo tienes [Huawei Watch GT Active - Reloj Inteligente  Verde  46 mm  Reloj](https://www.amazon.es/dp/B07PHMDF8D/?tag=tolees-21) a 88.0 EUR (original: 229.0 EUR) (61.57 %  de descuento) en el siguiente enlace!

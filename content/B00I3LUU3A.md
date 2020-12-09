@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUU3A
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Sony MDR-EX110LP - Auriculares in-ear  color rojo
 ---
 
 Ahora mismo tienes [Sony MDR-EX110LP - Auriculares in-ear  color rojo](https://www.amazon.es/dp/B00I3LUU3A/?tag=tolees-21) a 8.99 EUR (original: 20.0 EUR) (55.05 %  de descuento) en el siguiente enlace!

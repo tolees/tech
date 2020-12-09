@@ -10,8 +10,11 @@ author: ring
 slug: B01BNJL8K2
 description:
 actualPrice: 73.41 EUR
+currency: EUR
+price: 73.41
 comparePrice: 101.99 EUR
 inStock: true
+prodname: HyperX Impact DDR4 HX424S14IB/16 Memoria RAM 2400MHz CL14 SODIMM 16GB
 ---
 
 Tienes [HyperX Impact DDR4 HX424S14IB/16 Memoria RAM 2400MHz CL14 SODIMM 16GB](https://www.amazon.es/dp/B01BNJL8K2/?tag=tolees-21) con un 28.02 % de descuento con precio de oferta de 73.41 EUR (original: 101.99 EUR) en el siguiente enlace!

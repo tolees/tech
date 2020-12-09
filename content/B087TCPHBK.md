@@ -10,8 +10,11 @@ author: ring
 slug: B087TCPHBK
 description:
 actualPrice: 19.19 EUR
+currency: EUR
+price: 19.19
 comparePrice: 25.99 EUR
 inStock: true
+prodname: LECHLY 3 in 1 Caricatore Wireless  Qi Supporto di Ricarica Wireless Docking Station per iPhone SE  2020 /11 Pro/11 PRO Max/XR/XS/X/8  Samsung Galaxy S20/S10  per iWatch Series 5/4/3/2  AirPods PRO
 ---
 
 Tienes [LECHLY 3 in 1 Caricatore Wireless  Qi Supporto di Ricarica Wireless Docking Station per iPhone SE  2020 /11 Pro/11 PRO Max/XR/XS/X/8  Samsung Galaxy S20/S10  per iWatch Series 5/4/3/2  AirPods PRO](https://www.amazon.it/dp/B087TCPHBK/?tag=tolees00-21) con un 26.16 % de descuento con precio de oferta de 19.19 EUR (original: 25.99 EUR) en el siguiente enlace!

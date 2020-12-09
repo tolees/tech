@@ -10,8 +10,11 @@ author: ring
 slug: B07NBZR1RH
 description:
 actualPrice: 10.0 EUR
+currency: EUR
+price: 10.0
 comparePrice: 20.49 EUR
 inStock: true
+prodname: Samsung Clear View Cover  funda oficial para Samsung Galaxy 10+  color blanco
 ---
 
 Tienes [Samsung Clear View Cover  funda oficial para Samsung Galaxy 10+  color blanco](https://www.amazon.es/dp/B07NBZR1RH/?tag=tolees-21) con un 51.20 % de descuento con precio de oferta de 10.0 EUR (original: 20.49 EUR) en el siguiente enlace!

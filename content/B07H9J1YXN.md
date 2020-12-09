@@ -10,8 +10,11 @@ author: ring
 slug: B07H9J1YXN
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: SanDisk Extreme PRO - Tarjeta de Memoria SDXC de 64 GB  4k  hasta 170 MB/s  Class 10  U3 y V30
 ---
 
 Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de Memoria SDXC de 64 GB  4k  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07H9J1YXN/?tag=tolees-21) a 18.99 EUR (original: 26.99 EUR) (29.64 %  de descuento) en el siguiente enlace!

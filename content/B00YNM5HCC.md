@@ -10,8 +10,11 @@ author: ring
 slug: B00YNM5HCC
 description:
 actualPrice: 361.7 EUR
+currency: EUR
+price: 361.7
 comparePrice: 549.0 EUR
 inStock: true
+prodname: LG G4 - Smartphone Libre Android  Pantalla 5.5"  cámara 16 MP  32 GB  Dual-Core 1.8 GHz  3 GB RAM   Titan
 ---
 
 Ahora mismo tienes [LG G4 - Smartphone Libre Android  Pantalla 5.5"  cámara 16 MP  32 GB  Dual-Core 1.8 GHz  3 GB RAM   Titan](https://www.amazon.es/dp/B00YNM5HCC/?tag=tolees-21) a 361.7 EUR (original: 549.0 EUR) (34.12 %  de descuento) en el siguiente enlace!

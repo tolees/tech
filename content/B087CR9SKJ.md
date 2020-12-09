@@ -10,8 +10,11 @@ author: ring
 slug: B087CR9SKJ
 description:
 actualPrice: 7.81 EUR
+currency: EUR
+price: 7.81
 comparePrice: 11.16 EUR
 inStock: true
+prodname: Thoankj - Funda tipo libro para Sony Xperia L4  piel sintética  cierre magnético  tarjetero   diseño de trébol de cuatro hojas  gris
 ---
 
 Tienes [Thoankj - Funda tipo libro para Sony Xperia L4  piel sintética  cierre magnético  tarjetero   diseño de trébol de cuatro hojas  gris](https://www.amazon.es/dp/B087CR9SKJ/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 7.81 EUR (original: 11.16 EUR) en el siguiente enlace!

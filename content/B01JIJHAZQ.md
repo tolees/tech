@@ -10,8 +10,11 @@ author: ring
 slug: B01JIJHAZQ
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Omron M700 Intelli IT Automatisches Oberarm-Blutdruckmessgerät  mit Bluetooth Funktion und Intelli Wrap Manschette für mehr Sicherheit und Präzision bei der Blutdruckmessung
 ---
 
 Ahora mismo tienes [Omron M700 Intelli IT Automatisches Oberarm-Blutdruckmessgerät  mit Bluetooth Funktion und Intelli Wrap Manschette für mehr Sicherheit und Präzision bei der Blutdruckmessung](https://www.amazon.de/dp/B01JIJHAZQ/?tag=tolees0ca-21) a 49.99 EUR (original: 99.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

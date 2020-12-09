@@ -10,8 +10,11 @@ author: ring
 slug: B076JQPY7X
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 349.0 EUR
 inStock: true
+prodname: Samsung Gear Sport - Smartwatch  Tizen  768 MB de RAM  memoria interna de 4 GB  color azul  1.2"- Version española
 ---
 
 Tienes [Samsung Gear Sport - Smartwatch  Tizen  768 MB de RAM  memoria interna de 4 GB  color azul  1.2"- Version española](https://www.amazon.es/dp/B076JQPY7X/?tag=tolees-21) con un 48.43 % de descuento con precio de oferta de 179.99 EUR (original: 349.0 EUR) en el siguiente enlace!

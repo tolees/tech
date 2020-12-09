@@ -10,8 +10,11 @@ author: ring
 slug: B07GC9GFY6
 description:
 actualPrice: 48.73 EUR
+currency: EUR
+price: 48.73
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Wacom Bamboo Ink Eingabestift  für kreatives Arbeiten & Schreiben an Windows-10 Geräten  Aktiver Touch Pen zum Zeichnen & Schreiben für Alltag  Büro oder Uni  schwarz
 ---
 
 Ahora mismo tienes [Wacom Bamboo Ink Eingabestift  für kreatives Arbeiten & Schreiben an Windows-10 Geräten  Aktiver Touch Pen zum Zeichnen & Schreiben für Alltag  Büro oder Uni  schwarz](https://www.amazon.de/dp/B07GC9GFY6/?tag=tolees0ca-21) a 48.73 EUR (original: 79.9 EUR) (39.01 %  de descuento) en el siguiente enlace!

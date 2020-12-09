@@ -10,8 +10,11 @@ author: ring
 slug: B07N9KQDVG
 description:
 actualPrice: 131.99 USD
+currency: USD
+price: 131.99
 comparePrice: 249.99 USD
 inStock: true
+prodname: Motorola Moto G7 Power - Unlocked - 32 GB - Marine Blue  US Warranty  - Verizon  AT&T  T-Mobile  Sprint  Boost  Cricket  & Metro
 ---
 
 Ahora mismo tienes [Motorola Moto G7 Power - Unlocked - 32 GB - Marine Blue  US Warranty  - Verizon  AT&T  T-Mobile  Sprint  Boost  Cricket  & Metro](https://www.amazon.com/dp/B07N9KQDVG/?tag=tolees-20) a 131.99 USD (original: 249.99 USD) (47.20 %  de descuento) en el siguiente enlace!

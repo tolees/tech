@@ -10,8 +10,11 @@ author: ring
 slug: B08DK1WZC4
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.21 EUR
 inStock: true
+prodname: INPHIC Ratón con Cable Ligero  diseño ergonómico de Panal  4800DPI y 6 Botones programables  7 RGB retroiluminado  ratón con Cable  PC  Trabajo y Juegos  USB con Cable Compatible con Windows
 ---
 
 Ahora mismo tienes [INPHIC Ratón con Cable Ligero  diseño ergonómico de Panal  4800DPI y 6 Botones programables  7 RGB retroiluminado  ratón con Cable  PC  Trabajo y Juegos  USB con Cable Compatible con Windows](https://www.amazon.es/dp/B08DK1WZC4/?tag=tolees-21) a 16.99 EUR (original: 24.21 EUR) (29.82 %  de descuento) en el siguiente enlace!

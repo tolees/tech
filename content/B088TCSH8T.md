@@ -10,8 +10,11 @@ author: ring
 slug: B088TCSH8T
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Bluetooth FM Transmitter - RAXFLY FM Transmitter für Auto Ladegerät Bluetooth Sender Empfänger Radio Adapter mit 2 USB Anschlüsse Typ C PD Ladegerät Unterstützt TF Karte & USB Stick
 ---
 
 Ahora mismo tienes [Bluetooth FM Transmitter - RAXFLY FM Transmitter für Auto Ladegerät Bluetooth Sender Empfänger Radio Adapter mit 2 USB Anschlüsse Typ C PD Ladegerät Unterstützt TF Karte & USB Stick](https://www.amazon.de/dp/B088TCSH8T/?tag=tolees0ca-21) a 11.99 EUR (original: 20.0 EUR) (40.05 %  de descuento) en el siguiente enlace!

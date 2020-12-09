@@ -10,8 +10,11 @@ author: ring
 slug: B087JDLMPR
 description:
 actualPrice: 15.19 EUR
+currency: EUR
+price: 15.19
 comparePrice: 39.99 EUR
 inStock: true
+prodname: otumixx Ring Light avec Trépied  10 2 Pouces LED Selfie Anneau Lumineux 3 Modes d Eclairage et 10 Niveaux de Luminosité  Télécommande Bluetooth  Lumière de Anneau pour Vidéo/Photo/Youtube/Maquillage
 ---
 
 Tienes [otumixx Ring Light avec Trépied  10 2 Pouces LED Selfie Anneau Lumineux 3 Modes d Eclairage et 10 Niveaux de Luminosité  Télécommande Bluetooth  Lumière de Anneau pour Vidéo/Photo/Youtube/Maquillage](https://www.amazon.fr/dp/B087JDLMPR/?tag=tolees0d-21) con un 62.02 % de descuento con precio de oferta de 15.19 EUR (original: 39.99 EUR) en el siguiente enlace!

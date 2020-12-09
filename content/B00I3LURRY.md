@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LURRY
 description:
 actualPrice: 5.09 EUR
+currency: EUR
+price: 5.09
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Sony MDR-Ex15Lp - Auriculares In-Ear  Rosado  15 X 11 X 3 cm
 ---
 
 Ahora mismo tienes [Sony MDR-Ex15Lp - Auriculares In-Ear  Rosado  15 X 11 X 3 cm](https://www.amazon.es/dp/B00I3LURRY/?tag=tolees-21) a 5.09 EUR (original: 10.0 EUR) (49.10 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B082LK6KPY
 description:
 actualPrice: 26.0 GBP
+currency: GBP
+price: 26.0
 comparePrice: 34.99 GBP
 inStock: true
+prodname: TP-Link Kasa WiFi Power Strip 3 outlets with 2 USB Ports  Works with Alexa  Google Home and Samsung SmartThings  Wireless Smart Socket Remote Control Timer Plug  No Hub Required KP303 
 ---
 
 Ahora mismo tienes [TP-Link Kasa WiFi Power Strip 3 outlets with 2 USB Ports  Works with Alexa  Google Home and Samsung SmartThings  Wireless Smart Socket Remote Control Timer Plug  No Hub Required KP303 ](https://www.amazon.co.uk/dp/B082LK6KPY/?tag=tolees0a-21) a 26.0 GBP (original: 34.99 GBP) (25.69 %  de descuento) en el siguiente enlace!

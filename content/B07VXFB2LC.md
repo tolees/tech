@@ -10,8 +10,11 @@ author: ring
 slug: B07VXFB2LC
 description:
 actualPrice: 37.0 EUR
+currency: EUR
+price: 37.0
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Pepe Jeans ANN Mochila Porta Tablet  Color Azul
 ---
 
 Está [Pepe Jeans ANN Mochila Porta Tablet  Color Azul](https://www.amazon.es/dp/B07VXFB2LC/?tag=tolees-21) con 50.67 de descuento por 37.0 EUR (original: 75.0 EUR) en el siguiente enlace!

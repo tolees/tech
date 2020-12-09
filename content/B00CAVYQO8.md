@@ -10,8 +10,11 @@ author: ring
 slug: B00CAVYQO8
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Samsung MG23F301TCK Forno Microonde Grill  Combinato 23 Litri  800 W  con Piatto Doratore Crusty  Nero
 ---
 
 Ahora mismo tienes [Samsung MG23F301TCK Forno Microonde Grill  Combinato 23 Litri  800 W  con Piatto Doratore Crusty  Nero](https://www.amazon.it/dp/B00CAVYQO8/?tag=tolees00-21) a 79.99 EUR (original: 129.0 EUR) (37.99 %  de descuento) en el siguiente enlace!

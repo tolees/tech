@@ -10,8 +10,11 @@ author: ring
 slug: B00WLI5E3M
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Anker AK-A2021313 - Cargador USB de Pared 24W 2-Puertos Cargador PowerIQ para Apple iPhone 6/6 Plus  iPad Air 2/mini 3  Samsung Galaxy S6/S6 Edge  Nexus  HTC M9  Motorola  LG
 ---
 
 Está [Anker AK-A2021313 - Cargador USB de Pared 24W 2-Puertos Cargador PowerIQ para Apple iPhone 6/6 Plus  iPad Air 2/mini 3  Samsung Galaxy S6/S6 Edge  Nexus  HTC M9  Motorola  LG](https://www.amazon.es/dp/B00WLI5E3M/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

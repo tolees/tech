@@ -10,8 +10,11 @@ author: ring
 slug: B07CMS5Q6P
 description:
 actualPrice: 39.99 USD
+currency: USD
+price: 39.99
 comparePrice: 59.99 USD
 inStock: true
+prodname: Logitech G305 Lightspeed Wireless Gaming Mouse  Black
 ---
 
 Tienes [Logitech G305 Lightspeed Wireless Gaming Mouse  Black](https://www.amazon.com/dp/B07CMS5Q6P/?tag=tolees-20) con un 33.34 % de descuento con precio de oferta de 39.99 USD (original: 59.99 USD) en el siguiente enlace!

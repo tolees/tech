@@ -10,8 +10,11 @@ author: ring
 slug: B08BGMR2NC
 description:
 actualPrice: 39.5 EUR
+currency: EUR
+price: 39.5
 comparePrice: 71.99 EUR
 inStock: true
+prodname: FIFA 21 Standard Edition - PS4
 ---
 
 Ahora mismo tienes [FIFA 21 Standard Edition - PS4](https://www.amazon.es/dp/B08BGMR2NC/?tag=tolees-21) a 39.5 EUR (original: 71.99 EUR) (45.13 %  de descuento) en el siguiente enlace!

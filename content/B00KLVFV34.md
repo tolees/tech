@@ -10,8 +10,11 @@ author: ring
 slug: B00KLVFV34
 description:
 actualPrice: 439.0 EUR
+currency: EUR
+price: 439.0
 comparePrice: 849.0 EUR
 inStock: true
+prodname: Sony RX100 III | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8-2.8 Zeiss-Objektiv und neigbares Display für Vlogging 
 ---
 
 Tienes [Sony RX100 III | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8-2.8 Zeiss-Objektiv und neigbares Display für Vlogging ](https://www.amazon.de/dp/B00KLVFV34/?tag=tolees0ca-21) con un 48.29 % de descuento con precio de oferta de 439.0 EUR (original: 849.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DGNGBZV
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Forza Horizon 4 – Standard Edition - Xbox / Win 10 PC - Download Code | inkl. „The Eliminator“ Update
 ---
 
 Está [Forza Horizon 4 – Standard Edition - Xbox / Win 10 PC - Download Code | inkl. „The Eliminator“ Update](https://www.amazon.de/dp/B07DGNGBZV/?tag=tolees0ca-21) con 67.15 de descuento por 22.99 EUR (original: 69.99 EUR) en el siguiente enlace!

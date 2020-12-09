@@ -10,8 +10,11 @@ author: ring
 slug: B07KYM9KF5
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 20.99 EUR
 inStock: true
+prodname: TECKIN Bombilla Inteligente LED WiFi con luz cálida 2800k-6200k + RGB lámpara color cambiable Funciona con móvil  Google Home  E27 7.5W （no se requiere hub） [Clase de eficiencia energética A]
 ---
 
 Está [TECKIN Bombilla Inteligente LED WiFi con luz cálida 2800k-6200k + RGB lámpara color cambiable Funciona con móvil  Google Home  E27 7.5W （no se requiere hub） [Clase de eficiencia energética A]](https://www.amazon.es/dp/B07KYM9KF5/?tag=tolees-21) con 33.35 de descuento por 13.99 EUR (original: 20.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07G2LV2YY
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Mandos para PC  Anpreme Mandos inalámbrico PS3 Gaming Controller Bluetooth Gamepad con PS3 PC Smartphone Android et iOS Gamepad Wireless para PC Windows 10/8/7/Vista  Smart TV  TV Box
 ---
 
 Está [Mandos para PC  Anpreme Mandos inalámbrico PS3 Gaming Controller Bluetooth Gamepad con PS3 PC Smartphone Android et iOS Gamepad Wireless para PC Windows 10/8/7/Vista  Smart TV  TV Box](https://www.amazon.es/dp/B07G2LV2YY/?tag=tolees-21) con 76.66 de descuento por 14 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FFHKBVM
 description:
 actualPrice: 12.95 GBP
+currency: GBP
+price: 12.95
 comparePrice: 18.0 GBP
 inStock: true
+prodname: Lynx Africa  Bluetooth Portable Speaker Trio Gift Set  The Perfect Present For Men  Boys And Teenagers  Shower Gel And Deodorant Body Spray  Christmas Stocking Fillers eco friendly packaging
 ---
 
 Ahora mismo tienes [Lynx Africa  Bluetooth Portable Speaker Trio Gift Set  The Perfect Present For Men  Boys And Teenagers  Shower Gel And Deodorant Body Spray  Christmas Stocking Fillers eco friendly packaging](https://www.amazon.co.uk/dp/B08FFHKBVM/?tag=tolees0a-21) a 12.95 GBP (original: 18.0 GBP) (28.06 %  de descuento) en el siguiente enlace!

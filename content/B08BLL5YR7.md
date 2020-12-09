@@ -10,8 +10,11 @@ author: ring
 slug: B08BLL5YR7
 description:
 actualPrice: 11.19 EUR
+currency: EUR
+price: 11.19
 comparePrice: 14.99 EUR
 inStock: true
+prodname: RAMPOW Chargeur Secteur USB 24W 2 Ports  Chargeur USB Prise avec Technologie Power IG pour iPhone 6/7/8/X/XR/XS  iPad Pro/Air  Samsung S10/S9/S8  Xiaomi  LG  Nexus - Noir
 ---
 
 Tienes [RAMPOW Chargeur Secteur USB 24W 2 Ports  Chargeur USB Prise avec Technologie Power IG pour iPhone 6/7/8/X/XR/XS  iPad Pro/Air  Samsung S10/S9/S8  Xiaomi  LG  Nexus - Noir](https://www.amazon.fr/dp/B08BLL5YR7/?tag=tolees0d-21) con un 25.35 % de descuento con precio de oferta de 11.19 EUR (original: 14.99 EUR) en el siguiente enlace!

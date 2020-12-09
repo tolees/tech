@@ -10,8 +10,11 @@ author: ring
 slug: B084YQPQ5M
 description:
 actualPrice: 219.0 EUR
+currency: EUR
+price: 219.0
 comparePrice: 302.26 EUR
 inStock: true
+prodname: Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green
 ---
 
 Ahora mismo tienes [Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21) a 219.0 EUR (original: 302.26 EUR) (27.55 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08D1GTRK6
 description:
 actualPrice: 34.98 EUR
+currency: EUR
+price: 34.98
 comparePrice: 74.98 EUR
 inStock: true
+prodname: Echo Dot  3.ª generación   Tela de color malva + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa
 ---
 
 Ahora mismo tienes [Echo Dot  3.ª generación   Tela de color malva + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa](https://www.amazon.es/dp/B08D1GTRK6/?tag=tolees-21) a 34.98 EUR (original: 74.98 EUR) (53.35 %  de descuento) en el siguiente enlace!

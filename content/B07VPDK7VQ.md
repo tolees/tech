@@ -10,8 +10,11 @@ author: ring
 slug: B07VPDK7VQ
 description:
 actualPrice: 225.99 EUR
+currency: EUR
+price: 225.99
 comparePrice: 349.99 EUR
 inStock: true
+prodname: Garmin Instinct Tactical - robuste GPS-Smartwatch mit taktischen Funktionen. US-Militärstandard und wasserdicht bis 10 ATM. Mit Sport-/Fitnessfunktionen  Kompass und bis zu 14 Tagen Akkulaufzeit.
 ---
 
 Tienes [Garmin Instinct Tactical - robuste GPS-Smartwatch mit taktischen Funktionen. US-Militärstandard und wasserdicht bis 10 ATM. Mit Sport-/Fitnessfunktionen  Kompass und bis zu 14 Tagen Akkulaufzeit.](https://www.amazon.de/dp/B07VPDK7VQ/?tag=tolees0ca-21) con un 35.43 % de descuento con precio de oferta de 225.99 EUR (original: 349.99 EUR) en el siguiente enlace!

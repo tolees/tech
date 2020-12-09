@@ -10,8 +10,11 @@ author: ring
 slug: B07XQXZWVT
 description:
 actualPrice: 28.79 EUR
+currency: EUR
+price: 28.79
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Apple Funda transparente  para el iPhone 11 Pro Max 
 ---
 
 Ahora mismo tienes [Apple Funda transparente  para el iPhone 11 Pro Max ](https://www.amazon.es/dp/B07XQXZWVT/?tag=tolees-21) a 28.79 EUR (original: 45.0 EUR) (36.02 %  de descuento) en el siguiente enlace!

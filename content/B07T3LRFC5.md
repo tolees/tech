@@ -10,8 +10,11 @@ author: ring
 slug: B07T3LRFC5
 description:
 actualPrice: 22.99 GBP
+currency: GBP
+price: 22.99
 comparePrice: 34.5 GBP
 inStock: true
+prodname: Spyro Reignited Trilogy  Nintendo Switch 
 ---
 
 Tienes [Spyro Reignited Trilogy  Nintendo Switch ](https://www.amazon.co.uk/dp/B07T3LRFC5/?tag=tolees0a-21) con un 33.36 % de descuento con precio de oferta de 22.99 GBP (original: 34.5 GBP) en el siguiente enlace!

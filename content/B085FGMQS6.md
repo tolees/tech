@@ -10,8 +10,11 @@ author: ring
 slug: B085FGMQS6
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Samsung EVO Select 128 GB microSD 100MB/s  Geschwindigkeit  Full HD & 4K UHD Speicherkarte inkl. SD-Adapter für Smartphone  Tablet  Action-Kamera  Drohne und Notebook
 ---
 
 Tienes [Samsung EVO Select 128 GB microSD 100MB/s  Geschwindigkeit  Full HD & 4K UHD Speicherkarte inkl. SD-Adapter für Smartphone  Tablet  Action-Kamera  Drohne und Notebook](https://www.amazon.de/dp/B085FGMQS6/?tag=tolees0ca-21) con un 27.79 % de descuento con precio de oferta de 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

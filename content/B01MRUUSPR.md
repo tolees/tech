@@ -10,8 +10,11 @@ author: ring
 slug: B01MRUUSPR
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: PlayStation 4 - Dualshock 4 Controller Wireless V2  Bianco  Glacier White 
 ---
 
 Ahora mismo tienes [PlayStation 4 - Dualshock 4 Controller Wireless V2  Bianco  Glacier White ](https://www.amazon.it/dp/B01MRUUSPR/?tag=tolees00-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

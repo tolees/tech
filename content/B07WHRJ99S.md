@@ -10,8 +10,11 @@ author: ring
 slug: B07WHRJ99S
 description:
 actualPrice: 99.99 USD
+currency: USD
+price: 99.99
 comparePrice: 149.0 USD
 inStock: true
+prodname: SNAPTAIN SP650 1080P Drone with Camera for Adults 1080P HD Live Video Camera Drone for Beginners w/Voice Control  Gesture Control  Circle Fly  High-Speed Rotation  Altitude Hold  Headless Mode
 ---
 
 Ahora mismo tienes [SNAPTAIN SP650 1080P Drone with Camera for Adults 1080P HD Live Video Camera Drone for Beginners w/Voice Control  Gesture Control  Circle Fly  High-Speed Rotation  Altitude Hold  Headless Mode](https://www.amazon.com/dp/B07WHRJ99S/?tag=tolees-20) a 99.99 USD (original: 149.0 USD) (32.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B085F3HSWH
 description:
 actualPrice: 149.99 USD
+currency: USD
+price: 149.99
 comparePrice: 239.99 USD
 inStock: true
+prodname: ViewSonic M1 Mini+ Smart Ultra Portable LED Projector with Bluetooth JBL Speakers  USB Type C  Automatic Vertical Keystone  Built-in Battery and 1080p Support  M1MINIPLUS 
 ---
 
 Está [ViewSonic M1 Mini+ Smart Ultra Portable LED Projector with Bluetooth JBL Speakers  USB Type C  Automatic Vertical Keystone  Built-in Battery and 1080p Support  M1MINIPLUS ](https://www.amazon.com/dp/B085F3HSWH/?tag=tolees-20) con 37.50 de descuento por 149.99 USD (original: 239.99 USD) en el siguiente enlace!

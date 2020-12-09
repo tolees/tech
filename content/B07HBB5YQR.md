@@ -10,8 +10,11 @@ author: ring
 slug: B07HBB5YQR
 description:
 actualPrice: 16.57 EUR
+currency: EUR
+price: 16.57
 comparePrice: 22.41 EUR
 inStock: true
+prodname: SanDisk Extreme 128 GB microSDXC Memory Card for Action Cameras and Drones with A2 App Performance up to 160 MB/s  Class 10  U3  V30isk Extreme 128GB microSDXC Memory Card for Action Cameras
 ---
 
 Ahora mismo tienes [SanDisk Extreme 128 GB microSDXC Memory Card for Action Cameras and Drones with A2 App Performance up to 160 MB/s  Class 10  U3  V30isk Extreme 128GB microSDXC Memory Card for Action Cameras](https://www.amazon.de/dp/B07HBB5YQR/?tag=tolees0ca-21) a 16.57 EUR (original: 22.41 EUR) (26.06 %  de descuento) en el siguiente enlace!

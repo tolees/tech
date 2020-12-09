@@ -10,8 +10,11 @@ author: ring
 slug: B00Z7TXGC8
 description:
 actualPrice: 35.7 USD
+currency: USD
+price: 35.7
 comparePrice: 89.99 USD
 inStock: true
+prodname: Lifeproof FRĒ SERIES Waterproof Case for iPhone 8 PLUS & 7 PLUS  ONLY  - Retail Packaging - NIGHT LITE  BLACK/LIME 
 ---
 
 Está [Lifeproof FRĒ SERIES Waterproof Case for iPhone 8 PLUS & 7 PLUS  ONLY  - Retail Packaging - NIGHT LITE  BLACK/LIME ](https://www.amazon.com/dp/B00Z7TXGC8/?tag=tolees-20) con 60.33 de descuento por 35.7 USD (original: 89.99 USD) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01B7ABEVU
 description:
 actualPrice: 80.76 EUR
+currency: EUR
+price: 80.76
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Sony BDP-S3700 Blu-ray-Player  Super WiFi  USB  Screen Mirroring  schwarz
 ---
 
 Está [Sony BDP-S3700 Blu-ray-Player  Super WiFi  USB  Screen Mirroring  schwarz](https://www.amazon.de/dp/B01B7ABEVU/?tag=tolees0ca-21) con 25.91 de descuento por 80.76 EUR (original: 109.0 EUR) en el siguiente enlace!

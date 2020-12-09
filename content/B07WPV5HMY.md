@@ -10,8 +10,11 @@ author: ring
 slug: B07WPV5HMY
 description:
 actualPrice: 344.95 EUR
+currency: EUR
+price: 344.95
 comparePrice: 499.99 EUR
 inStock: true
+prodname: Microsoft - Consola 1 TB  Mando Inalámbrico  Forza Horizon 4  LEGO Speed Champions  Xbox One X 
 ---
 
 Ahora mismo tienes [Microsoft - Consola 1 TB  Mando Inalámbrico  Forza Horizon 4  LEGO Speed Champions  Xbox One X ](https://www.amazon.es/dp/B07WPV5HMY/?tag=tolees-21) a 344.95 EUR (original: 499.99 EUR) (31.01 %  de descuento) en el siguiente enlace!

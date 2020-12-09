@@ -10,8 +10,11 @@ author: ring
 slug: B085PN2JFV
 description:
 actualPrice: 34.98 EUR
+currency: EUR
+price: 34.98
 comparePrice: 64.98 EUR
 inStock: true
+prodname: Echo Dot  3ª generazione  - Tessuto antracite + Tapo P100 Presa intelligente Wi-Fi  compatibile con Alexa
 ---
 
 Está [Echo Dot  3ª generazione  - Tessuto antracite + Tapo P100 Presa intelligente Wi-Fi  compatibile con Alexa](https://www.amazon.it/dp/B085PN2JFV/?tag=tolees00-21) con 46.17 de descuento por 34.98 EUR (original: 64.98 EUR) en el siguiente enlace!

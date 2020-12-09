@@ -10,8 +10,11 @@ author: ring
 slug: B07CXTW5P2
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: KEDRON Cargador Móvil Portátil Batería Externa 24000mAh Cargador Inalámbrico Rápido Power Bank con 3 Puertos y Entrada Doble Portátil Wireless Charger para Android Phones  Smartphones y Otros Tablet
 ---
 
 Está [KEDRON Cargador Móvil Portátil Batería Externa 24000mAh Cargador Inalámbrico Rápido Power Bank con 3 Puertos y Entrada Doble Portátil Wireless Charger para Android Phones  Smartphones y Otros Tablet](https://www.amazon.es/dp/B07CXTW5P2/?tag=tolees-21) con 29.79 de descuento por 32.99 EUR (original: 46.99 EUR) en el siguiente enlace!

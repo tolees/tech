@@ -10,8 +10,11 @@ author: ring
 slug: B07DNM3MT9
 description:
 actualPrice: 239.99 EUR
+currency: EUR
+price: 239.99
 comparePrice: 341.17 EUR
 inStock: true
+prodname: PlayStation 4 Pro - Konsole Schwarz  A Chassis  1TB   Generalüberholt 
 ---
 
 Ahora mismo tienes [PlayStation 4 Pro - Konsole Schwarz  A Chassis  1TB   Generalüberholt ](https://www.amazon.de/dp/B07DNM3MT9/?tag=tolees0ca-21) a 239.99 EUR (original: 341.17 EUR) (29.66 %  de descuento) en el siguiente enlace!

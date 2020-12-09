@@ -10,8 +10,11 @@ author: ring
 slug: B00YCMT1TS
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.9 EUR
 inStock: true
+prodname: caseable - Funda para Kindle y Kindle Paperwhite  diseño Colourful Stripes 1
 ---
 
 Está [caseable - Funda para Kindle y Kindle Paperwhite  diseño Colourful Stripes 1](https://www.amazon.es/dp/B00YCMT1TS/?tag=tolees-21) con 37.37 de descuento por 24.99 EUR (original: 39.9 EUR) en el siguiente enlace!

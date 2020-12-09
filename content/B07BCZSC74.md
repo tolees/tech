@@ -10,8 +10,11 @@ author: ring
 slug: B07BCZSC74
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 46.16 EUR
 inStock: true
+prodname: Auriculares Inalámbricos Auricular Bluetooth Manos Libres Bluetooth Auriculares Mono Headset con micrófono para negocios/trukers/conductor par con Android iPhone  SEED_headset 
 ---
 
 Está [Auriculares Inalámbricos Auricular Bluetooth Manos Libres Bluetooth Auriculares Mono Headset con micrófono para negocios/trukers/conductor par con Android iPhone  SEED_headset ](https://www.amazon.es/dp/B07BCZSC74/?tag=tolees-21) con 59.94 de descuento por 18.49 EUR (original: 46.16 EUR) en el siguiente enlace!

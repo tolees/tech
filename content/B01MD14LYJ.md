@@ -10,8 +10,11 @@ author: ring
 slug: B01MD14LYJ
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 13.36 EUR
 inStock: true
+prodname: Rosenice - Funda para ordenador portátil de 13 pulgadas  Macbook Mac Air Pro Retina  neopreno impermeable  negro
 ---
 
 Tienes [Rosenice - Funda para ordenador portátil de 13 pulgadas  Macbook Mac Air Pro Retina  neopreno impermeable  negro](https://www.amazon.es/dp/B01MD14LYJ/?tag=tolees-21) con un 40.19 % de descuento con precio de oferta de 7.99 EUR (original: 13.36 EUR) en el siguiente enlace!

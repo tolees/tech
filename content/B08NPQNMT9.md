@@ -10,8 +10,11 @@ author: ring
 slug: B08NPQNMT9
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 78.16 EUR
 inStock: true
+prodname: Disque Dur Externe 1to  2.5" Disque Dur Externe USB3.0 SATA HDD Storage for PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Rouge 
 ---
 
 Está [Disque Dur Externe 1to  2.5" Disque Dur Externe USB3.0 SATA HDD Storage for PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Rouge ](https://www.amazon.fr/dp/B08NPQNMT9/?tag=tolees0d-21) con 38.60 de descuento por 47.99 EUR (original: 78.16 EUR) en el siguiente enlace!

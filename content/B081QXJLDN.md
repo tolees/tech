@@ -10,8 +10,11 @@ author: ring
 slug: B081QXJLDN
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Razer Basilisk V2 - Ratón para Juegos FPS  Ratón Gaming con nuevo Sensor Óptico Focus+ de 20000 DPI  5G  Interruptor dpi Extraíble y Rueda de Desplazamiento Personalizable  RGB Chroma e USB  Negro 
 ---
 
 Ahora mismo tienes [Razer Basilisk V2 - Ratón para Juegos FPS  Ratón Gaming con nuevo Sensor Óptico Focus+ de 20000 DPI  5G  Interruptor dpi Extraíble y Rueda de Desplazamiento Personalizable  RGB Chroma e USB  Negro ](https://www.amazon.es/dp/B081QXJLDN/?tag=tolees-21) a 54.99 EUR (original: 89.99 EUR) (38.89 %  de descuento) en el siguiente enlace!

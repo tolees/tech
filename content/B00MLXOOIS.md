@@ -10,8 +10,11 @@ author: ring
 slug: B00MLXOOIS
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 189.99 EUR
 inStock: true
+prodname: Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  weiß
 ---
 
 Ahora mismo tienes [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  weiß](https://www.amazon.de/dp/B00MLXOOIS/?tag=tolees0ca-21) a 129.0 EUR (original: 189.99 EUR) (32.10 %  de descuento) en el siguiente enlace!

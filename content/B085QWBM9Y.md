@@ -10,8 +10,11 @@ author: ring
 slug: B085QWBM9Y
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cooking Mama Cookstar - Nintendo Switch
 ---
 
 Tienes [Cooking Mama Cookstar - Nintendo Switch](https://www.amazon.es/dp/B085QWBM9Y/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07X1H3NWF
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: AOFO Regleta WIFI Inteligente  Enchufe Múltiple Inteligente 4000W 16A   Alexa Google Home y IFTTT Control remoto de voz  4 Tomas 4 USB  Controlado individualmente  Temporizador  App Control Remoto
 ---
 
 Tienes [AOFO Regleta WIFI Inteligente  Enchufe Múltiple Inteligente 4000W 16A   Alexa Google Home y IFTTT Control remoto de voz  4 Tomas 4 USB  Controlado individualmente  Temporizador  App Control Remoto](https://www.amazon.es/dp/B07X1H3NWF/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KSXN1V6
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 20.99 EUR
 inStock: true
+prodname: UniqueMe pour Xiaomi Mi 10 Lite/Mi 10 Lite 5G [2 pièces] Verre Trempé et [3 pièces] Caméra Arrière Protecteur  [Couverture maximale] 9H Dureté Film Protection écran
 ---
 
 Está [UniqueMe pour Xiaomi Mi 10 Lite/Mi 10 Lite 5G [2 pièces] Verre Trempé et [3 pièces] Caméra Arrière Protecteur  [Couverture maximale] 9H Dureté Film Protection écran](https://www.amazon.fr/dp/B08KSXN1V6/?tag=tolees0d-21) con 47.64 de descuento por 10.99 EUR (original: 20.99 EUR) en el siguiente enlace!

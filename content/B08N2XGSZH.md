@@ -10,8 +10,11 @@ author: ring
 slug: B08N2XGSZH
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 44.89 EUR
 inStock: true
+prodname: Echo Flex + TP-Link Tapo Ampoule Connectée  E27   Fonctionne avec Alexa
 ---
 
 Tienes [Echo Flex + TP-Link Tapo Ampoule Connectée  E27   Fonctionne avec Alexa](https://www.amazon.fr/dp/B08N2XGSZH/?tag=tolees0d-21) con un 55.47 % de descuento con precio de oferta de 19.99 EUR (original: 44.89 EUR) en el siguiente enlace!

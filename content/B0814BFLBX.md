@@ -10,8 +10,11 @@ author: ring
 slug: B0814BFLBX
 description:
 actualPrice: 104.98 EUR
+currency: EUR
+price: 104.98
 comparePrice: 189.89 EUR
 inStock: true
+prodname: Echo Show 5  blanco + EZVIZ ezTube 1080p Cámara de Seguridad  compatible con Alexa
 ---
 
 Está [Echo Show 5  blanco + EZVIZ ezTube 1080p Cámara de Seguridad  compatible con Alexa](https://www.amazon.es/dp/B0814BFLBX/?tag=tolees-21) con 44.72 de descuento por 104.98 EUR (original: 189.89 EUR) en el siguiente enlace!

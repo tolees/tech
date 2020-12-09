@@ -10,8 +10,11 @@ author: ring
 slug: B079VVQS1R
 description:
 actualPrice: 139.98 EUR
+currency: EUR
+price: 139.98
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Logitech G560 Haut-parleurs Gaming PC - Son Surround DTS:X Ultra avec Eclairage RGB Synchronisé à vos Jeux
 ---
 
 Tienes [Logitech G560 Haut-parleurs Gaming PC - Son Surround DTS:X Ultra avec Eclairage RGB Synchronisé à vos Jeux](https://www.amazon.fr/dp/B079VVQS1R/?tag=tolees0d-21) con un 43.78 % de descuento con precio de oferta de 139.98 EUR (original: 249.0 EUR) en el siguiente enlace!

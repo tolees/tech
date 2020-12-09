@@ -10,8 +10,11 @@ author: ring
 slug: B07PQLY69G
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Woxter Stinger RX 2000 K - Teclado Gaming Mecánico  Estructura de Aluminio  Micro Switch  Led RGB Cada tecla  Cable de Nylon  Compatible PC/PS4/Fortnite/Apex LegendsWoxter Stinger RX 2000 K
 ---
 
 Ahora mismo tienes [Woxter Stinger RX 2000 K - Teclado Gaming Mecánico  Estructura de Aluminio  Micro Switch  Led RGB Cada tecla  Cable de Nylon  Compatible PC/PS4/Fortnite/Apex LegendsWoxter Stinger RX 2000 K](https://www.amazon.es/dp/B07PQLY69G/?tag=tolees-21) a 49.99 EUR (original: 79.0 EUR) (36.72 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B083KVVPPJ
 description:
 actualPrice: 429.0 EUR
+currency: EUR
+price: 429.0
 comparePrice: 629.0 EUR
 inStock: true
+prodname: Samsung Galaxy Note10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Aura Black
 ---
 
 Ahora mismo tienes [Samsung Galaxy Note10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Aura Black](https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21) a 429.0 EUR (original: 629.0 EUR) (31.80 %  de descuento) en el siguiente enlace!

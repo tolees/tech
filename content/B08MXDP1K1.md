@@ -10,8 +10,11 @@ author: ring
 slug: B08MXDP1K1
 description:
 actualPrice: 27.98 EUR
+currency: EUR
+price: 27.98
 comparePrice: 39.99 EUR
 inStock: true
+prodname: OVIFM Webcam 1080P Full HD avec Microphone  Web Cam pour PC USB2.0/3.0 Streaming avec Auto Focus pour  Skype  FaceTime  Hangouts  PC/Mac/Portable/Tablette/Xbox One
 ---
 
 Está [OVIFM Webcam 1080P Full HD avec Microphone  Web Cam pour PC USB2.0/3.0 Streaming avec Auto Focus pour  Skype  FaceTime  Hangouts  PC/Mac/Portable/Tablette/Xbox One](https://www.amazon.fr/dp/B08MXDP1K1/?tag=tolees0d-21) con 30.03 de descuento por 27.98 EUR (original: 39.99 EUR) en el siguiente enlace!

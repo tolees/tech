@@ -10,8 +10,11 @@ author: ring
 slug: B08HPP6JSJ
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: WiFi Display Dongle  4K HDMI TV Wireless Display Receiver  Supporto Miracast Airplay DLNA per Chromecast/Chrome Home/Android/Smartphone/PC/TV/Monitor/Proiettore
 ---
 
 Está [WiFi Display Dongle  4K HDMI TV Wireless Display Receiver  Supporto Miracast Airplay DLNA per Chromecast/Chrome Home/Android/Smartphone/PC/TV/Monitor/Proiettore](https://www.amazon.it/dp/B08HPP6JSJ/?tag=tolees00-21) con 27.79 de descuento por 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

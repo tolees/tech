@@ -10,8 +10,11 @@ author: ring
 slug: B08M3XBC7B
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: REDSTORM Manette PC/PS3 sans Fil Connectée par USB  Double Vibration et Turbo  Compatible pour Nintendo Switch/PC/PS3/Android  Via OTG   Noir 
 ---
 
 Ahora mismo tienes [REDSTORM Manette PC/PS3 sans Fil Connectée par USB  Double Vibration et Turbo  Compatible pour Nintendo Switch/PC/PS3/Android  Via OTG   Noir ](https://www.amazon.fr/dp/B08M3XBC7B/?tag=tolees0d-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

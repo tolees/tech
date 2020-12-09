@@ -10,8 +10,11 @@ author: ring
 slug: B07XDZ7JRB
 description:
 actualPrice: 12.99 GBP
+currency: GBP
+price: 12.99
 comparePrice: 19.37 GBP
 inStock: true
+prodname: Astroneer  PS4 
 ---
 
 Tienes [Astroneer  PS4 ](https://www.amazon.co.uk/dp/B07XDZ7JRB/?tag=tolees0a-21) con un 32.94 % de descuento con precio de oferta de 12.99 GBP (original: 19.37 GBP) en el siguiente enlace!

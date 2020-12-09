@@ -10,8 +10,11 @@ author: ring
 slug: B07BN2F7VL
 description:
 actualPrice: 124.99 EUR
+currency: EUR
+price: 124.99
 comparePrice: 194.9 EUR
 inStock: true
+prodname: Sharp HT-SBW160 2.1 - Barra de Sonido Cine En Casa  Subwoofer Inalámbrico  Bluetooth  control de Rango Dinámico  Hdmi Arc/Cec  360 W de Potencia  Color Negro
 ---
 
 Ahora mismo tienes [Sharp HT-SBW160 2.1 - Barra de Sonido Cine En Casa  Subwoofer Inalámbrico  Bluetooth  control de Rango Dinámico  Hdmi Arc/Cec  360 W de Potencia  Color Negro](https://www.amazon.es/dp/B07BN2F7VL/?tag=tolees-21) a 124.99 EUR (original: 194.9 EUR) (35.87 %  de descuento) en el siguiente enlace!

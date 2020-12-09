@@ -10,8 +10,11 @@ author: ring
 slug: B07DP3G9HY
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Doom Eternal - - PlayStation 4
 ---
 
 Está [Doom Eternal - - PlayStation 4](https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

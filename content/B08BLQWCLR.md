@@ -10,8 +10,11 @@ author: ring
 slug: B08BLQWCLR
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: TOPsic Suunto 9 Baro Correa  Silicona Suave Bandas Repuesto Accesorio Deportiva Pulsera para Suunto 9 Baro/Suunto 7/Suunto 9/Suunto D5/Suunto Spartan Sport Wrist HR Smart Watch
 ---
 
 Tienes [TOPsic Suunto 9 Baro Correa  Silicona Suave Bandas Repuesto Accesorio Deportiva Pulsera para Suunto 9 Baro/Suunto 7/Suunto 9/Suunto D5/Suunto Spartan Sport Wrist HR Smart Watch](https://www.amazon.es/dp/B08BLQWCLR/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F7TLZF4
 description:
 actualPrice: 174.99 USD
+currency: USD
+price: 174.99
 comparePrice: 249.99 USD
 inStock: true
+prodname: Kindle Oasis – Now with adjustable warm light – Ad-Supported
 ---
 
 Ahora mismo tienes [Kindle Oasis – Now with adjustable warm light – Ad-Supported](https://www.amazon.com/dp/B07F7TLZF4/?tag=tolees-20) a 174.99 USD (original: 249.99 USD) (30.00 %  de descuento) en el siguiente enlace!

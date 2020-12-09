@@ -10,8 +10,11 @@ author: ring
 slug: B07SVN3M9L
 description:
 actualPrice: 20.99 GBP
+currency: GBP
+price: 20.99
 comparePrice: 29.99 GBP
 inStock: true
+prodname: Jumanji: The Video Game  Xbox One 
 ---
 
 Está [Jumanji: The Video Game  Xbox One ](https://www.amazon.co.uk/dp/B07SVN3M9L/?tag=tolees0a-21) con 30.01 de descuento por 20.99 GBP (original: 29.99 GBP) en el siguiente enlace!

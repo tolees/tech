@@ -10,8 +10,11 @@ author: ring
 slug: B00GK63WPS
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Linksys LGS116-EU - Unmanaged Switch Gigabit de Escritorio para Empresas  16 Puertos  Plug and Play  optimización del tráfico  Ahorro energético   Azul y Negro
 ---
 
 Ahora mismo tienes [Linksys LGS116-EU - Unmanaged Switch Gigabit de Escritorio para Empresas  16 Puertos  Plug and Play  optimización del tráfico  Ahorro energético   Azul y Negro](https://www.amazon.es/dp/B00GK63WPS/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

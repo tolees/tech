@@ -10,8 +10,11 @@ author: ring
 slug: B0819BVCCB
 description:
 actualPrice: 22.24 GBP
+currency: GBP
+price: 22.24
 comparePrice: 29.99 GBP
 inStock: true
+prodname: APEMAN Mini Dash Cam with Hidden Design  1080P Full HD Dash Camera for Cars  Car Video Recorder with G-sensor  170° Wide Angle  Motion Detection  Parking Mode  Loop Recording
 ---
 
 Está [APEMAN Mini Dash Cam with Hidden Design  1080P Full HD Dash Camera for Cars  Car Video Recorder with G-sensor  170° Wide Angle  Motion Detection  Parking Mode  Loop Recording](https://www.amazon.co.uk/dp/B0819BVCCB/?tag=tolees0a-21) con 25.84 de descuento por 22.24 GBP (original: 29.99 GBP) en el siguiente enlace!

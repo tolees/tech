@@ -10,8 +10,11 @@ author: ring
 slug: B08GX86CMP
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 39.9 EUR
 inStock: true
+prodname: OPPO - Altavoz Bluetooth 5.0 |8 horas de reproducción |Bluetooth 5.0 | Batería 750 mAh  | Verde
 ---
 
 Ahora mismo tienes [OPPO - Altavoz Bluetooth 5.0 |8 horas de reproducción |Bluetooth 5.0 | Batería 750 mAh  | Verde](https://www.amazon.es/dp/B08GX86CMP/?tag=tolees-21) a 19.9 EUR (original: 39.9 EUR) (50.13 %  de descuento) en el siguiente enlace!

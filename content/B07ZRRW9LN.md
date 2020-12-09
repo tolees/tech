@@ -10,8 +10,11 @@ author: ring
 slug: B07ZRRW9LN
 description:
 actualPrice: 261.74 EUR
+currency: EUR
+price: 261.74
 comparePrice: 469.0 EUR
 inStock: true
+prodname: Samsung Galaxy Watch Active 2 - Smartwatch de Acero  44 mm  LTE  Color Plata [Versión española]
 ---
 
 Tienes [Samsung Galaxy Watch Active 2 - Smartwatch de Acero  44 mm  LTE  Color Plata [Versión española]](https://www.amazon.es/dp/B07ZRRW9LN/?tag=tolees-21) con un 44.19 % de descuento con precio de oferta de 261.74 EUR (original: 469.0 EUR) en el siguiente enlace!

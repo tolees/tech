@@ -10,8 +10,11 @@ author: ring
 slug: B07L3GSWP5
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Audio-Technica ATH-MSR7B Auriculares Portátiles  Negro
 ---
 
 Está [Audio-Technica ATH-MSR7B Auriculares Portátiles  Negro](https://www.amazon.es/dp/B07L3GSWP5/?tag=tolees-21) con 51.81 de descuento por 119.99 EUR (original: 249.0 EUR) en el siguiente enlace!

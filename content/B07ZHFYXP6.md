@@ -10,8 +10,11 @@ author: ring
 slug: B07ZHFYXP6
 description:
 actualPrice: 160.0 EUR
+currency: EUR
+price: 160.0
 comparePrice: 229.9 EUR
 inStock: true
+prodname: Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim
 ---
 
 Tienes [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21) con un 30.40 % de descuento con precio de oferta de 160.0 EUR (original: 229.9 EUR) en el siguiente enlace!

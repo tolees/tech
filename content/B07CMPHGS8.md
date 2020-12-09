@@ -10,8 +10,11 @@ author: ring
 slug: B07CMPHGS8
 description:
 actualPrice: 94.9 EUR
+currency: EUR
+price: 94.9
 comparePrice: 149.99 EUR
 inStock: true
+prodname: D-Link DCS-8525LH Telecamera di Sorveglianza Full HD  Wi-Fi N  Audio a Due Vie  Motorizzata  Funziona con Alexa
 ---
 
 Tienes [D-Link DCS-8525LH Telecamera di Sorveglianza Full HD  Wi-Fi N  Audio a Due Vie  Motorizzata  Funziona con Alexa](https://www.amazon.it/dp/B07CMPHGS8/?tag=tolees00-21) con un 36.73 % de descuento con precio de oferta de 94.9 EUR (original: 149.99 EUR) en el siguiente enlace!

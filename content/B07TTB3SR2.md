@@ -10,8 +10,11 @@ author: ring
 slug: B07TTB3SR2
 description:
 actualPrice: 219.99 EUR
+currency: EUR
+price: 219.99
 comparePrice: 319.0 EUR
 inStock: true
+prodname: ASTRO Gaming A50 Casque sans Fil + Station de Charge Gamer  4ème Génération  Dolby  Équilibre entre Son des Jeux et Voix  Connexion sans Fil 2 4 GHz  Compatible avec PS5  PS4  PC  Mac - Noir/Argent
 ---
 
 Ahora mismo tienes [ASTRO Gaming A50 Casque sans Fil + Station de Charge Gamer  4ème Génération  Dolby  Équilibre entre Son des Jeux et Voix  Connexion sans Fil 2 4 GHz  Compatible avec PS5  PS4  PC  Mac - Noir/Argent](https://www.amazon.fr/dp/B07TTB3SR2/?tag=tolees0d-21) a 219.99 EUR (original: 319.0 EUR) (31.04 %  de descuento) en el siguiente enlace!

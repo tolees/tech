@@ -10,8 +10,11 @@ author: ring
 slug: B08GPTGK8C
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cuffie Bluetooth Senza Fili  Auricolari Wireless True con Microfono  25 ore  Stereo HD  Cancellazione del Rumore  Compatibile con Xiaomi Huawei Sony Samsung  Perfetto per Sports Running
 ---
 
 Está [Cuffie Bluetooth Senza Fili  Auricolari Wireless True con Microfono  25 ore  Stereo HD  Cancellazione del Rumore  Compatibile con Xiaomi Huawei Sony Samsung  Perfetto per Sports Running](https://www.amazon.it/dp/B08GPTGK8C/?tag=tolees00-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

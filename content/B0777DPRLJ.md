@@ -10,8 +10,11 @@ author: ring
 slug: B0777DPRLJ
 description:
 actualPrice: 45.71 EUR
+currency: EUR
+price: 45.71
 comparePrice: 60.95 EUR
 inStock: true
+prodname: Lámpara de Escritorio LED con Altavoz Bluetooth - August LEC630 - Lámpara LED Multifuncional con Luz Suave para Protección de Ojos Altavoz Bluetooth Multifuncional de Escritorio
 ---
 
 Ahora mismo tienes [Lámpara de Escritorio LED con Altavoz Bluetooth - August LEC630 - Lámpara LED Multifuncional con Luz Suave para Protección de Ojos Altavoz Bluetooth Multifuncional de Escritorio](https://www.amazon.es/dp/B0777DPRLJ/?tag=tolees-21) a 45.71 EUR (original: 60.95 EUR) (25.00 %  de descuento) en el siguiente enlace!

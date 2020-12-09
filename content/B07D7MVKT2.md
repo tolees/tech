@@ -10,8 +10,11 @@ author: ring
 slug: B07D7MVKT2
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 54.9 EUR
 inStock: true
+prodname: HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Dual-Band  4 Puertos Ethernet  Router WiFi Inteligente de Largo Alcance  MU-MIMO  procesador de 28nm  fácil de configurar  Blanco
 ---
 
 Tienes [HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Dual-Band  4 Puertos Ethernet  Router WiFi Inteligente de Largo Alcance  MU-MIMO  procesador de 28nm  fácil de configurar  Blanco](https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21) con un 27.32 % de descuento con precio de oferta de 39.9 EUR (original: 54.9 EUR) en el siguiente enlace!

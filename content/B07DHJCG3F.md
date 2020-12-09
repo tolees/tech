@@ -10,8 +10,11 @@ author: ring
 slug: B07DHJCG3F
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: XLEADER SoundAngel  2 Gen  Altavoz Bluetooth Táctil de 5W con Estuche Impermeable IPX7  15H música  Sonido de Cristal  Mini Altavoces Portátil Bluetooth Premium para iPhone iPad Regalo Ducha  oro rosa
 ---
 
 Está [XLEADER SoundAngel  2 Gen  Altavoz Bluetooth Táctil de 5W con Estuche Impermeable IPX7  15H música  Sonido de Cristal  Mini Altavoces Portátil Bluetooth Premium para iPhone iPad Regalo Ducha  oro rosa](https://www.amazon.es/dp/B07DHJCG3F/?tag=tolees-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

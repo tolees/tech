@@ -10,8 +10,11 @@ author: ring
 slug: B00BG6YQLQ
 description:
 actualPrice: 214.44 EUR
+currency: EUR
+price: 214.44
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Sony BDV-E2100 5.1 Blu-ray Heimkinosystem  1000 Watt  3D  W-LAN  Smart TV  Bluetooth  NFC  schwarz
 ---
 
 Ahora mismo tienes [Sony BDV-E2100 5.1 Blu-ray Heimkinosystem  1000 Watt  3D  W-LAN  Smart TV  Bluetooth  NFC  schwarz](https://www.amazon.de/dp/B00BG6YQLQ/?tag=tolees0ca-21) a 214.44 EUR (original: 329.0 EUR) (34.82 %  de descuento) en el siguiente enlace!

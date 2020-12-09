@@ -10,8 +10,11 @@ author: ring
 slug: B0751GBCKN
 description:
 actualPrice: 149.0 GBP
+currency: GBP
+price: 149.0
 comparePrice: 199.99 GBP
 inStock: true
+prodname: Garmin Vivoactive 3 GPS Smartwatch with Built-In Sports Apps and Wrist Heart Rate - Black
 ---
 
 Tienes [Garmin Vivoactive 3 GPS Smartwatch with Built-In Sports Apps and Wrist Heart Rate - Black](https://www.amazon.co.uk/dp/B0751GBCKN/?tag=tolees0a-21) con un 25.50 % de descuento con precio de oferta de 149.0 GBP (original: 199.99 GBP) en el siguiente enlace!

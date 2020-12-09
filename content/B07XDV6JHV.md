@@ -10,8 +10,11 @@ author: ring
 slug: B07XDV6JHV
 description:
 actualPrice: 71.99 EUR
+currency: EUR
+price: 71.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Android Coche Radio 2 DIN GPS CAMECHO 7 Pulgadas Pantalla táctil capacitiva Bluetooth WiFi USB SD AUX FM Reproductor de automóvil Estéreo Enlace de Espejo + Cámara Trasera
 ---
 
 Tienes [Android Coche Radio 2 DIN GPS CAMECHO 7 Pulgadas Pantalla táctil capacitiva Bluetooth WiFi USB SD AUX FM Reproductor de automóvil Estéreo Enlace de Espejo + Cámara Trasera](https://www.amazon.es/dp/B07XDV6JHV/?tag=tolees-21) con un 28.00 % de descuento con precio de oferta de 71.99 EUR (original: 99.99 EUR) en el siguiente enlace!

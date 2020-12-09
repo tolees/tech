@@ -10,14 +10,19 @@ author: ring
 slug: B07DNM7XG5
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Gears 5 – Standard Edition | Xbox One/ Windows 10 Download Code
 ---
 
-Ahora mismo tienes [Gears 5 – Standard Edition | Xbox One/ Windows 10 Download Code](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21) a 19.99 EUR (original: 69.99 EUR) (71.44 %  de descuento) en el siguiente enlace!
+Está [Gears 5 – Standard Edition | Xbox One/ Windows 10 Download Code](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Gears 5 – Standard Edition | Xbox One/ W](https://m.media-amazon.com/images/I/51C0ZS99upL._SL200_.jpg)](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

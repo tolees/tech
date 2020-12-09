@@ -10,8 +10,11 @@ author: ring
 slug: B01MU8TZRV
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 53.5 EUR
 inStock: true
+prodname: SanDisk Extreme PRO Unità Flash a Stato Solido USB 3.1  Velocità di Lettura Fino a 420 MB/S e di Scrittura Fino a 380 MB/s  128 GB
 ---
 
 Ahora mismo tienes [SanDisk Extreme PRO Unità Flash a Stato Solido USB 3.1  Velocità di Lettura Fino a 420 MB/S e di Scrittura Fino a 380 MB/s  128 GB](https://www.amazon.it/dp/B01MU8TZRV/?tag=tolees00-21) a 39.99 EUR (original: 53.5 EUR) (25.25 %  de descuento) en el siguiente enlace!

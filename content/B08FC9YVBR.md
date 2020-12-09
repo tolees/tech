@@ -10,8 +10,11 @@ author: ring
 slug: B08FC9YVBR
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Lampe Etoile Projecteur Tesoky Projecteur D étoiles avec 27 Modes de Couleur Veilleuse Etoile Projection avec Bluetooth Télécommande Enceinte Intégré pour Décoration des Chambres/Fête/Cadeau
 ---
 
 Tienes [Lampe Etoile Projecteur Tesoky Projecteur D étoiles avec 27 Modes de Couleur Veilleuse Etoile Projection avec Bluetooth Télécommande Enceinte Intégré pour Décoration des Chambres/Fête/Cadeau](https://www.amazon.fr/dp/B08FC9YVBR/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MBQPQ62
 description:
 actualPrice: 151.0 GBP
+currency: GBP
+price: 151.0
 comparePrice: 239.99 GBP
 inStock: true
+prodname: Samsung 970 EVO Plus 1 TB PCIe NVMe M.2  2280  Internal Solid State Drive  SSD   MZ-V7S1T0 
 ---
 
 Está [Samsung 970 EVO Plus 1 TB PCIe NVMe M.2  2280  Internal Solid State Drive  SSD   MZ-V7S1T0 ](https://www.amazon.co.uk/dp/B07MBQPQ62/?tag=tolees0a-21) con 37.08 de descuento por 151.0 GBP (original: 239.99 GBP) en el siguiente enlace!

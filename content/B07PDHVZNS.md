@@ -10,8 +10,11 @@ author: ring
 slug: B07PDHVZNS
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: NETGEAR  GS308E  Switch Ethernet 8 Ports RJ45 Métal Gigabit  10/100/1000   Smart Manageable  Bureau ou Rackable  Métal  Silencieux   pour une Connectivité Simple et Abordable
 ---
 
 Ahora mismo tienes [NETGEAR  GS308E  Switch Ethernet 8 Ports RJ45 Métal Gigabit  10/100/1000   Smart Manageable  Bureau ou Rackable  Métal  Silencieux   pour une Connectivité Simple et Abordable](https://www.amazon.fr/dp/B07PDHVZNS/?tag=tolees0d-21) a 26.99 EUR (original: 35.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01EHSM2G0
 description:
 actualPrice: 16.79 EUR
+currency: EUR
+price: 16.79
 comparePrice: 25.99 EUR
 inStock: true
+prodname: MoKo Funda para iPad Air 2 - Ultra Slim Función de Soporte Protectora Plegable Smart Cover Trasera Transparente Durable para Apple iPad Air 2 9.7 Pulgadas  Navy Azul  Auto Sueño/Estela 
 ---
 
 Ahora mismo tienes [MoKo Funda para iPad Air 2 - Ultra Slim Función de Soporte Protectora Plegable Smart Cover Trasera Transparente Durable para Apple iPad Air 2 9.7 Pulgadas  Navy Azul  Auto Sueño/Estela ](https://www.amazon.es/dp/B01EHSM2G0/?tag=tolees-21) a 16.79 EUR (original: 25.99 EUR) (35.40 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08JHNZLM6
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Disque Dur Externe 1to USB3.1 Type C Disque Dur Externe pour Xbox One PC  Mac  Laptop  Ordinateur de Bureau  Ordinateur Portable  Wii U  TV  Windows 1to  Rouge 
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to USB3.1 Type C Disque Dur Externe pour Xbox One PC  Mac  Laptop  Ordinateur de Bureau  Ordinateur Portable  Wii U  TV  Windows 1to  Rouge ](https://www.amazon.fr/dp/B08JHNZLM6/?tag=tolees0d-21) a 47.99 EUR (original: 99.99 EUR) (52.01 %  de descuento) en el siguiente enlace!

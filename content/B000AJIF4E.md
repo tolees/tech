@@ -10,8 +10,11 @@ author: ring
 slug: B000AJIF4E
 description:
 actualPrice: 97.23 USD
+currency: USD
+price: 97.23
 comparePrice: 130.0 USD
 inStock: true
+prodname: Sony MDR7506 Professional Large Diaphragm Headphone
 ---
 
 Tienes [Sony MDR7506 Professional Large Diaphragm Headphone](https://www.amazon.com/dp/B000AJIF4E/?tag=tolees-20) con un 25.21 % de descuento con precio de oferta de 97.23 USD (original: 130.0 USD) en el siguiente enlace!

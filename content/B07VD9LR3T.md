@@ -10,8 +10,11 @@ author: ring
 slug: B07VD9LR3T
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Xiaomi Mi Motion Sensor
 ---
 
 Ahora mismo tienes [Xiaomi Mi Motion Sensor](https://www.amazon.es/dp/B07VD9LR3T/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!

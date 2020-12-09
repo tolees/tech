@@ -10,8 +10,11 @@ author: ring
 slug: B07XCQKTQR
 description:
 actualPrice: 21.24 EUR
+currency: EUR
+price: 21.24
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Aiglam Webcam  Webcam PC 1080P Cámara Web de Alta Definiciócon micrófono Reductor de Ruido y corrección de iluminación automática Web CAM de USB Plug and Play  Negro 1 
 ---
 
 Está [Aiglam Webcam  Webcam PC 1080P Cámara Web de Alta Definiciócon micrófono Reductor de Ruido y corrección de iluminación automática Web CAM de USB Plug and Play  Negro 1 ](https://www.amazon.es/dp/B07XCQKTQR/?tag=tolees-21) con 35.62 de descuento por 21.24 EUR (original: 32.99 EUR) en el siguiente enlace!

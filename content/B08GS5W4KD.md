@@ -10,8 +10,11 @@ author: ring
 slug: B08GS5W4KD
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Aottom 1080P Cámara Vigilancia Exterior WiFi Batería Recarga Cámara Seguridad IP  Detección Movimiento Alarma  Audio Bidireccional  Monitorización Remota vía PC/Smartphone/Tableta  Soporta MAX 128G
 ---
 
 Ahora mismo tienes [Aottom 1080P Cámara Vigilancia Exterior WiFi Batería Recarga Cámara Seguridad IP  Detección Movimiento Alarma  Audio Bidireccional  Monitorización Remota vía PC/Smartphone/Tableta  Soporta MAX 128G](https://www.amazon.es/dp/B08GS5W4KD/?tag=tolees-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

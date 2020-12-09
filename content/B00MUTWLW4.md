@@ -10,8 +10,11 @@ author: ring
 slug: B00MUTWLW4
 description:
 actualPrice: 19.99 USD
+currency: USD
+price: 19.99
 comparePrice: 49.99 USD
 inStock: true
+prodname: Logitech Bluetooth Multi-Device Keyboard K480 – Black – Works with Windows and Mac Computers  Android and iOS Tablets and Smartphones
 ---
 
 Está [Logitech Bluetooth Multi-Device Keyboard K480 – Black – Works with Windows and Mac Computers  Android and iOS Tablets and Smartphones](https://www.amazon.com/dp/B00MUTWLW4/?tag=tolees-20) con 60.01 de descuento por 19.99 USD (original: 49.99 USD) en el siguiente enlace!

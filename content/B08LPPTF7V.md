@@ -10,8 +10,11 @@ author: ring
 slug: B08LPPTF7V
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: i12 Auricular Bluetooth 5.0  Auricular inalámbrico micrófono Incorporado y Caja de Carga reducción de Ruido estéreo 3D  Auriculares inalámbricos con control táctil Compatible con todos los smartphones
 ---
 
 Ahora mismo tienes [i12 Auricular Bluetooth 5.0  Auricular inalámbrico micrófono Incorporado y Caja de Carga reducción de Ruido estéreo 3D  Auriculares inalámbricos con control táctil Compatible con todos los smartphones](https://www.amazon.es/dp/B08LPPTF7V/?tag=tolees-21) a 39.99 EUR (original: 99.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

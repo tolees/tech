@@ -10,8 +10,11 @@ author: ring
 slug: B07FCMBLV6
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.98 EUR
 inStock: true
+prodname: Sandisk Extreme Scheda di Memoria Microsdxc da 64 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  Fino a 160 MB/Sec  Classe 10  Uhs-I  U3  V30
 ---
 
 Tienes [Sandisk Extreme Scheda di Memoria Microsdxc da 64 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  Fino a 160 MB/Sec  Classe 10  Uhs-I  U3  V30](https://www.amazon.it/dp/B07FCMBLV6/?tag=tolees00-21) con un 29.98 % de descuento con precio de oferta de 13.99 EUR (original: 19.98 EUR) en el siguiente enlace!

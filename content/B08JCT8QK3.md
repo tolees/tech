@@ -10,8 +10,11 @@ author: ring
 slug: B08JCT8QK3
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Luz de noche estrellada para niños  proyector de estrella LED con luz de galaxia integrada Bluetooth Hi-Fi estéreo altavoz de música para dormitorio de niños  regalos/cumpleaños/fiesta de cumpleaños
 ---
 
 Está [Luz de noche estrellada para niños  proyector de estrella LED con luz de galaxia integrada Bluetooth Hi-Fi estéreo altavoz de música para dormitorio de niños  regalos/cumpleaños/fiesta de cumpleaños](https://www.amazon.es/dp/B08JCT8QK3/?tag=tolees-21) con 45.78 de descuento por 31.99 EUR (original: 59.0 EUR) en el siguiente enlace!

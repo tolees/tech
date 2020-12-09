@@ -10,8 +10,11 @@ author: ring
 slug: B08BPSP6CY
 description:
 actualPrice: 50.99 EUR
+currency: EUR
+price: 50.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Crash Bandicoot 4 - It s About Time - Xbox One
 ---
 
 Está [Crash Bandicoot 4 - It s About Time - Xbox One](https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21) con 27.15 de descuento por 50.99 EUR (original: 69.99 EUR) en el siguiente enlace!

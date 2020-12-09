@@ -10,8 +10,11 @@ author: ring
 slug: B07D9J4HNT
 description:
 actualPrice: 464.48 USD
+currency: USD
+price: 464.48
 comparePrice: 749.99 USD
 inStock: true
+prodname: Garmin fēnix 5S Plus  Smaller-Sized Multisport GPS Smartwatch  features Color Topo Maps  Heart Rate Monitoring  Music and Pay  White/Silver  010-01987-00 
 ---
 
 Tienes [Garmin fēnix 5S Plus  Smaller-Sized Multisport GPS Smartwatch  features Color Topo Maps  Heart Rate Monitoring  Music and Pay  White/Silver  010-01987-00 ](https://www.amazon.com/dp/B07D9J4HNT/?tag=tolees-20) con un 38.07 % de descuento con precio de oferta de 464.48 USD (original: 749.99 USD) en el siguiente enlace!

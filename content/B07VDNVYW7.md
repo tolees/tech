@@ -10,8 +10,11 @@ author: ring
 slug: B07VDNVYW7
 description:
 actualPrice: 59.49 EUR
+currency: EUR
+price: 59.49
 comparePrice: 99.99 EUR
 inStock: true
+prodname: SNAPTAIN SP600 Drone avec Caméra 720P HD et 30 Mins Autonomie  Contrôle Gestuel  WiFi  FPV 120° Grand Angle Réglable，Vol de Trajectoire  3D VR  360°Flips  Mode sans Tête  et Maintien de l altitude
 ---
 
 Está [SNAPTAIN SP600 Drone avec Caméra 720P HD et 30 Mins Autonomie  Contrôle Gestuel  WiFi  FPV 120° Grand Angle Réglable，Vol de Trajectoire  3D VR  360°Flips  Mode sans Tête  et Maintien de l altitude](https://www.amazon.fr/dp/B07VDNVYW7/?tag=tolees0d-21) con 40.50 de descuento por 59.49 EUR (original: 99.99 EUR) en el siguiente enlace!

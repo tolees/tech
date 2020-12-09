@@ -10,8 +10,11 @@ author: ring
 slug: B07Z9CRRVK
 description:
 actualPrice: 27.2 EUR
+currency: EUR
+price: 27.2
 comparePrice: 37.0 EUR
 inStock: true
+prodname: ELEGOO LCD UV 405nm 3D Resina Rápida para LCD Impresora 3D 1000g Fotopolímero Resina Rojo Claro
 ---
 
 Está [ELEGOO LCD UV 405nm 3D Resina Rápida para LCD Impresora 3D 1000g Fotopolímero Resina Rojo Claro](https://www.amazon.es/dp/B07Z9CRRVK/?tag=tolees-21) con 26.49 de descuento por 27.2 EUR (original: 37.0 EUR) en el siguiente enlace!

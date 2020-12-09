@@ -10,8 +10,11 @@ author: ring
 slug: B07RLT4J3L
 description:
 actualPrice: 397.0 EUR
+currency: EUR
+price: 397.0
 comparePrice: 669.0 EUR
 inStock: true
+prodname: Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinita  8 GB RAM  128 GB ROM  versión española  Negro
 ---
 
 Está [Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinita  8 GB RAM  128 GB ROM  versión española  Negro](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21) con 40.66 de descuento por 397.0 EUR (original: 669.0 EUR) en el siguiente enlace!

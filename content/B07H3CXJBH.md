@@ -10,8 +10,11 @@ author: ring
 slug: B07H3CXJBH
 description:
 actualPrice: 102.99 GBP
+currency: GBP
+price: 102.99
 comparePrice: 149.99 GBP
 inStock: true
+prodname: Tenda Nova MW5s-3 Whole Home Mesh Wi-Fi System; Get Rid of Wi-Fi Dead Zones; 3500sq² WiFi Coverage. Compatible with ISP speeds over 100Mbps. Pre Configured  Pack of 3 
 ---
 
 Está [Tenda Nova MW5s-3 Whole Home Mesh Wi-Fi System; Get Rid of Wi-Fi Dead Zones; 3500sq² WiFi Coverage. Compatible with ISP speeds over 100Mbps. Pre Configured  Pack of 3 ](https://www.amazon.co.uk/dp/B07H3CXJBH/?tag=tolees0a-21) con 31.34 de descuento por 102.99 GBP (original: 149.99 GBP) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BH3PDLC
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Fujifilm Instax mini 11 Ice White camera bundle
 ---
 
 Tienes [Fujifilm Instax mini 11 Ice White camera bundle](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!

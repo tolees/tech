@@ -10,8 +10,11 @@ author: ring
 slug: B07WDGBRDX
 description:
 actualPrice: 84.99 EUR
+currency: EUR
+price: 84.99
 comparePrice: 114.99 EUR
 inStock: true
+prodname: Tablet Fire HD 8 | Schermo HD da 8”  32 GB  Nero  - Senza pubblicità
 ---
 
 Tienes [Tablet Fire HD 8 | Schermo HD da 8”  32 GB  Nero  - Senza pubblicità](https://www.amazon.it/dp/B07WDGBRDX/?tag=tolees00-21) con un 26.09 % de descuento con precio de oferta de 84.99 EUR (original: 114.99 EUR) en el siguiente enlace!

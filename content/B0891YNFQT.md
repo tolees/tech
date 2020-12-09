@@ -10,8 +10,11 @@ author: ring
 slug: B0891YNFQT
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Dewanxin Webcam 1080P Full HD CMOS Cámara Web de Alta Micrófono Reductor de Ruido y Corrección de Automática USB Plug and Play Base Giratoria de 360° para PC Computadora Portátil  Videollamadas Juegos
 ---
 
 Tienes [Dewanxin Webcam 1080P Full HD CMOS Cámara Web de Alta Micrófono Reductor de Ruido y Corrección de Automática USB Plug and Play Base Giratoria de 360° para PC Computadora Portátil  Videollamadas Juegos](https://www.amazon.es/dp/B0891YNFQT/?tag=tolees-21) con un 27.79 % de descuento con precio de oferta de 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

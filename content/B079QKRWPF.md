@@ -10,8 +10,11 @@ author: ring
 slug: B079QKRWPF
 description:
 actualPrice: 67.26 EUR
+currency: EUR
+price: 67.26
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Wacom Intuos S Stift-Tablett  mit druckempfindlichem Stift & Bluetooth-Mobiles Zeichentablett zum Malen & Fotobearbeitung  schwarz - Ideal für Home-Office & E-Learning
 ---
 
 Ahora mismo tienes [Wacom Intuos S Stift-Tablett  mit druckempfindlichem Stift & Bluetooth-Mobiles Zeichentablett zum Malen & Fotobearbeitung  schwarz - Ideal für Home-Office & E-Learning](https://www.amazon.de/dp/B079QKRWPF/?tag=tolees0ca-21) a 67.26 EUR (original: 99.9 EUR) (32.67 %  de descuento) en el siguiente enlace!

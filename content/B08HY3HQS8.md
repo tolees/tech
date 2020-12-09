@@ -10,8 +10,11 @@ author: ring
 slug: B08HY3HQS8
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: PS4-Controller für Playstation 4 / Pro/Slim/PC-Laptop  Touchpanel-Joypad mit doppelter Vibration  zeitnahe Möglichkeit  Gamepad zu teilen
 ---
 
 Está [PS4-Controller für Playstation 4 / Pro/Slim/PC-Laptop  Touchpanel-Joypad mit doppelter Vibration  zeitnahe Möglichkeit  Gamepad zu teilen](https://www.amazon.de/dp/B08HY3HQS8/?tag=tolees0ca-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

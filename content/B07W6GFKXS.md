@@ -10,8 +10,11 @@ author: ring
 slug: B07W6GFKXS
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Logitech G203 LIGHTSYNC Souris Gaming avec Éclairage RVB Personnalisable  6 Boutons Programmables  Capteur Niveau Gaming  8000 PPP  Ultra-Léger  - Lila
 ---
 
 Ahora mismo tienes [Logitech G203 LIGHTSYNC Souris Gaming avec Éclairage RVB Personnalisable  6 Boutons Programmables  Capteur Niveau Gaming  8000 PPP  Ultra-Léger  - Lila](https://www.amazon.fr/dp/B07W6GFKXS/?tag=tolees0d-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

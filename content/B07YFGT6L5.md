@@ -10,8 +10,11 @@ author: ring
 slug: B07YFGT6L5
 description:
 actualPrice: 116.68 EUR
+currency: EUR
+price: 116.68
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Western Digital WD Black P50 Game Drive SSD 500 GB externe Festplatte  SuperSpeed USB 3.2 Gen 2x2  stoßfest  Lesegeschwindigkeiten bis 2000 MB/s   Schwarz  - auch kompatibel mit PC  Xbox und PS4
 ---
 
 Tienes [Western Digital WD Black P50 Game Drive SSD 500 GB externe Festplatte  SuperSpeed USB 3.2 Gen 2x2  stoßfest  Lesegeschwindigkeiten bis 2000 MB/s   Schwarz  - auch kompatibel mit PC  Xbox und PS4](https://www.amazon.de/dp/B07YFGT6L5/?tag=tolees0ca-21) con un 41.66 % de descuento con precio de oferta de 116.68 EUR (original: 199.99 EUR) en el siguiente enlace!

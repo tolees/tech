@@ -10,8 +10,11 @@ author: ring
 slug: B07G5LMZGM
 description:
 actualPrice: 55.41 EUR
+currency: EUR
+price: 55.41
 comparePrice: 79 EUR
 inStock: true
+prodname: Impresora Multifuncional Canon PIXMA TR4551 Blanca Wifi de inyección de tinta con Fax y ADF
 ---
 
 Tienes [Impresora Multifuncional Canon PIXMA TR4551 Blanca Wifi de inyección de tinta con Fax y ADF](https://www.amazon.es/dp/B07G5LMZGM/?tag=tolees-21) con un 29.86 % de descuento con precio de oferta de 55.41 EUR (original: 79 EUR) en el siguiente enlace!

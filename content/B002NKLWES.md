@@ -10,8 +10,11 @@ author: ring
 slug: B002NKLWES
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Panasonic EW-DJ10-A503 Irrigador Dental Portátil y Retractil con Cargador  1400 impulsos/min  2 Modos  Compacto y Plegable  Deposito de Agua  2 Batería AA  Adecuado para Aparatos  Color Azul
 ---
 
 Está [Panasonic EW-DJ10-A503 Irrigador Dental Portátil y Retractil con Cargador  1400 impulsos/min  2 Modos  Compacto y Plegable  Deposito de Agua  2 Batería AA  Adecuado para Aparatos  Color Azul](https://www.amazon.es/dp/B002NKLWES/?tag=tolees-21) con 31.46 de descuento por 23.99 EUR (original: 35.0 EUR) en el siguiente enlace!

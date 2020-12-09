@@ -10,8 +10,11 @@ author: ring
 slug: B08CMTWT51
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Casque Bluetooth 80 Heures d Autonomie OneOdio Casque Audio Hi-FI avec Microphone Antibruit Compatible Smartphone PC iPad Ordinateur Portable
 ---
 
 Tienes [Casque Bluetooth 80 Heures d Autonomie OneOdio Casque Audio Hi-FI avec Microphone Antibruit Compatible Smartphone PC iPad Ordinateur Portable](https://www.amazon.fr/dp/B08CMTWT51/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

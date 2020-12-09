@@ -10,8 +10,11 @@ author: ring
 slug: B0792ZNMPG
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Fossil Smartwatch Híbrido para Mujer de Connected con Correa en Acero Inoxidable FTW5018
 ---
 
 Está [Fossil Smartwatch Híbrido para Mujer de Connected con Correa en Acero Inoxidable FTW5018](https://www.amazon.es/dp/B0792ZNMPG/?tag=tolees-21) con 55.28 de descuento por 89.0 EUR (original: 199.0 EUR) en el siguiente enlace!

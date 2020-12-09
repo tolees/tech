@@ -10,8 +10,11 @@ author: ring
 slug: B089X8KDZB
 description:
 actualPrice: 29.99 GBP
+currency: GBP
+price: 29.99
 comparePrice: 43.5 GBP
 inStock: true
+prodname: Just Dance 2021  Xbox Series X/Xbox One 
 ---
 
 Tienes [Just Dance 2021  Xbox Series X/Xbox One ](https://www.amazon.co.uk/dp/B089X8KDZB/?tag=tolees0a-21) con un 31.06 % de descuento con precio de oferta de 29.99 GBP (original: 43.5 GBP) en el siguiente enlace!

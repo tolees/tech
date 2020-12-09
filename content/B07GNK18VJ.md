@@ -10,8 +10,11 @@ author: ring
 slug: B07GNK18VJ
 description:
 actualPrice: 179.25 EUR
+currency: EUR
+price: 179.25
 comparePrice: 239.99 EUR
 inStock: true
+prodname: XP-PEN Artist 12 HD IPS Tableta Gráfica de Dibujo Digital con Teclas de Atajo y Panel Táctil Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5  Artist12  Negro 
 ---
 
 Está [XP-PEN Artist 12 HD IPS Tableta Gráfica de Dibujo Digital con Teclas de Atajo y Panel Táctil Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5  Artist12  Negro ](https://www.amazon.es/dp/B07GNK18VJ/?tag=tolees-21) con 25.31 de descuento por 179.25 EUR (original: 239.99 EUR) en el siguiente enlace!

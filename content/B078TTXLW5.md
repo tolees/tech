@@ -10,8 +10,11 @@ author: ring
 slug: B078TTXLW5
 description:
 actualPrice: 631.49 EUR
+currency: EUR
+price: 631.49
 comparePrice: 849.0 EUR
 inStock: true
+prodname: LG 32GK850G-B 80 cm  32 Zoll  WQHD IPS Gaming Monitor  165 Hz  G-Sync  DAS Mode   schwarz
 ---
 
 Tienes [LG 32GK850G-B 80 cm  32 Zoll  WQHD IPS Gaming Monitor  165 Hz  G-Sync  DAS Mode   schwarz](https://www.amazon.de/dp/B078TTXLW5/?tag=tolees0ca-21) con un 25.62 % de descuento con precio de oferta de 631.49 EUR (original: 849.0 EUR) en el siguiente enlace!

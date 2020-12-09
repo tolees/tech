@@ -10,8 +10,11 @@ author: ring
 slug: B07VZZ3GW5
 description:
 actualPrice: 439.0 GBP
+currency: GBP
+price: 439.0
 comparePrice: 599.99 GBP
 inStock: true
+prodname: Garmin fēnix 6 Pro  Ultimate Multisport GPS Watch  Features Mapping  Music  Grade-Adjusted Pace Monitoring and Pulse Ox Sensors  Black with Black Band
 ---
 
 Está [Garmin fēnix 6 Pro  Ultimate Multisport GPS Watch  Features Mapping  Music  Grade-Adjusted Pace Monitoring and Pulse Ox Sensors  Black with Black Band](https://www.amazon.co.uk/dp/B07VZZ3GW5/?tag=tolees0a-21) con 26.83 de descuento por 439.0 GBP (original: 599.99 GBP) en el siguiente enlace!

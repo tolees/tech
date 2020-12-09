@@ -10,8 +10,11 @@ author: ring
 slug: B0765QVCSP
 description:
 actualPrice: 134.99 EUR
+currency: EUR
+price: 134.99
 comparePrice: 299.0 EUR
 inStock: true
+prodname: JBL Everest Elite 750NC - Auriculares  Inalámbrico y alámbrico  Diadema  Binaural  Circumaural  10-22000 Hz  Gris 
 ---
 
 Ahora mismo tienes [JBL Everest Elite 750NC - Auriculares  Inalámbrico y alámbrico  Diadema  Binaural  Circumaural  10-22000 Hz  Gris ](https://www.amazon.es/dp/B0765QVCSP/?tag=tolees-21) a 134.99 EUR (original: 299.0 EUR) (54.85 %  de descuento) en el siguiente enlace!

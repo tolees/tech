@@ -10,8 +10,11 @@ author: ring
 slug: B08HYKQR45
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 28.99 EUR
 inStock: true
+prodname: eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell de Bricolaje Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Violeta+Azul 
 ---
 
 Tienes [eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell de Bricolaje Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Violeta+Azul ](https://www.amazon.es/dp/B08HYKQR45/?tag=tolees-21) con un 34.49 % de descuento con precio de oferta de 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BXLZJYB
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Auriculares Bluetooth  Arbily Auriculares Deportivos in Ear Auriculares Inalámbricos con Micrófono y Cancelación de Ruido IPX5 Auriculares Estéreo Inalámbricos con Caja de Carga
 ---
 
 Tienes [Auriculares Bluetooth  Arbily Auriculares Deportivos in Ear Auriculares Inalámbricos con Micrófono y Cancelación de Ruido IPX5 Auriculares Estéreo Inalámbricos con Caja de Carga](https://www.amazon.es/dp/B07BXLZJYB/?tag=tolees-21) con un 58.34 % de descuento con precio de oferta de 49.99 EUR (original: 119.99 EUR) en el siguiente enlace!

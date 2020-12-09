@@ -10,8 +10,11 @@ author: ring
 slug: B01DZP37JC
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 31.08 EUR
 inStock: true
+prodname: Profesional Bolsa de Ordenador Portátil 14-15 Pulgadas Nylon Espacioso Elegante Bolsa de Hombro Mensajero de Manija Maletín Tableta para 14-15 Pulgadas Portátil/Tableta/Macbook/Notebook Gris 
 ---
 
 Está [Profesional Bolsa de Ordenador Portátil 14-15 Pulgadas Nylon Espacioso Elegante Bolsa de Hombro Mensajero de Manija Maletín Tableta para 14-15 Pulgadas Portátil/Tableta/Macbook/Notebook Gris ](https://www.amazon.es/dp/B01DZP37JC/?tag=tolees-21) con 29.25 de descuento por 21.99 EUR (original: 31.08 EUR) en el siguiente enlace!

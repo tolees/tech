@@ -10,8 +10,11 @@ author: ring
 slug: B07MGGHGZ6
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 169.99 EUR
 inStock: true
+prodname: ORICO Receptáculo para Disco Duro 2 Bay de 3 5 Pulgadas  Tipo C de Aluminio a SATA 3.0 para SATA HDD/SDD  instalación sin Herramientas con absorción magnética [Soporte 2 X 10TB Drive y UASP]
 ---
 
 Está [ORICO Receptáculo para Disco Duro 2 Bay de 3 5 Pulgadas  Tipo C de Aluminio a SATA 3.0 para SATA HDD/SDD  instalación sin Herramientas con absorción magnética [Soporte 2 X 10TB Drive y UASP]](https://www.amazon.es/dp/B07MGGHGZ6/?tag=tolees-21) con 41.18 de descuento por 99.99 EUR (original: 169.99 EUR) en el siguiente enlace!

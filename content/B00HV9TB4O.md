@@ -10,8 +10,11 @@ author: ring
 slug: B00HV9TB4O
 description:
 actualPrice: 169.0 GBP
+currency: GBP
+price: 169.0
 comparePrice: 229.0 GBP
 inStock: true
+prodname: Sony SEL55210 E Mount APS-C 55-210 mm F4.5-6.3 Telephoto Zoom Lens - Black
 ---
 
 Ahora mismo tienes [Sony SEL55210 E Mount APS-C 55-210 mm F4.5-6.3 Telephoto Zoom Lens - Black](https://www.amazon.co.uk/dp/B00HV9TB4O/?tag=tolees0a-21) a 169.0 GBP (original: 229.0 GBP) (26.20 %  de descuento) en el siguiente enlace!

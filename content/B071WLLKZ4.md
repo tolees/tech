@@ -10,8 +10,11 @@ author: ring
 slug: B071WLLKZ4
 description:
 actualPrice: 6.24 EUR
+currency: EUR
+price: 6.24
 comparePrice: 13.78 EUR
 inStock: true
+prodname: Chenyang USB-C Tipo C USB 3.1 a HDMI 4K 2K HDTV Cable para MacBook y Galaxy S8 y XPS13 y portátil 2 m
 ---
 
 Tienes [Chenyang USB-C Tipo C USB 3.1 a HDMI 4K 2K HDTV Cable para MacBook y Galaxy S8 y XPS13 y portátil 2 m](https://www.amazon.es/dp/B071WLLKZ4/?tag=tolees-21) con un 54.72 % de descuento con precio de oferta de 6.24 EUR (original: 13.78 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07G2JGYND
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 40.99 EUR
 inStock: true
+prodname: Enchufe Inteligente Wifi  OxaOxe Enchufe Wifi Doble Compatible con Alexa Google Home IFTTT  Control Remoto  Control por Voz  Monitor de Energía  Temporizador  16A
 ---
 
 Tienes [Enchufe Inteligente Wifi  OxaOxe Enchufe Wifi Doble Compatible con Alexa Google Home IFTTT  Control Remoto  Control por Voz  Monitor de Energía  Temporizador  16A](https://www.amazon.es/dp/B07G2JGYND/?tag=tolees-21) con un 43.91 % de descuento con precio de oferta de 22.99 EUR (original: 40.99 EUR) en el siguiente enlace!

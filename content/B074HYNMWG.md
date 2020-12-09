@@ -10,8 +10,11 @@ author: ring
 slug: B074HYNMWG
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Sabrent Ratón inalámbrico ergonómico Recargable de 2 4 GHz con función 4D  MS-WRCH 
 ---
 
 Está [Sabrent Ratón inalámbrico ergonómico Recargable de 2 4 GHz con función 4D  MS-WRCH ](https://www.amazon.es/dp/B074HYNMWG/?tag=tolees-21) con 25.03 de descuento por 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!

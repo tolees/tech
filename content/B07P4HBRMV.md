@@ -10,8 +10,11 @@ author: ring
 slug: B07P4HBRMV
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 73.99 EUR
 inStock: true
+prodname: SanDisk HIGH ENDURANCE Carte microSDHC 256Go + Adaptateur SD - pour le monitoring vidéo domestique ou sur dashcam – jusqu à 100Mo/s en lecture et 40Mo/s en écriture  Class 10  U3  V30
 ---
 
 Ahora mismo tienes [SanDisk HIGH ENDURANCE Carte microSDHC 256Go + Adaptateur SD - pour le monitoring vidéo domestique ou sur dashcam – jusqu à 100Mo/s en lecture et 40Mo/s en écriture  Class 10  U3  V30](https://www.amazon.fr/dp/B07P4HBRMV/?tag=tolees0d-21) a 43.99 EUR (original: 73.99 EUR) (40.55 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01DWIY3B8
 description:
 actualPrice: 189.79 GBP
+currency: GBP
+price: 189.79
 comparePrice: 349.99 GBP
 inStock: true
+prodname: Garmin Forerunner 735XT GPS Multisport and Running Watch with Heart Rate Monitor Strap - Black and Grey
 ---
 
 Tienes [Garmin Forerunner 735XT GPS Multisport and Running Watch with Heart Rate Monitor Strap - Black and Grey](https://www.amazon.co.uk/dp/B01DWIY3B8/?tag=tolees0a-21) con un 45.77 % de descuento con precio de oferta de 189.79 GBP (original: 349.99 GBP) en el siguiente enlace!

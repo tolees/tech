@@ -10,8 +10,11 @@ author: ring
 slug: B0764BFBGT
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 155.56 EUR
 inStock: true
+prodname: Ultimate Ears Megaboom Altoparlante Wireless Bluetooth  Limited Edition  Impermeabile e Antiurto  Nero  Panther Lite 
 ---
 
 Tienes [Ultimate Ears Megaboom Altoparlante Wireless Bluetooth  Limited Edition  Impermeabile e Antiurto  Nero  Panther Lite ](https://www.amazon.it/dp/B0764BFBGT/?tag=tolees00-21) con un 48.58 % de descuento con precio de oferta de 79.99 EUR (original: 155.56 EUR) en el siguiente enlace!

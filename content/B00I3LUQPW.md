@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUQPW
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 13.0 EUR
 inStock: true
+prodname: Sony MDR-EX15LPB Ecouteurs Intra-auriculaires - Noir
 ---
 
 Tienes [Sony MDR-EX15LPB Ecouteurs Intra-auriculaires - Noir](https://www.amazon.fr/dp/B00I3LUQPW/?tag=tolees0d-21) con un 38.54 % de descuento con precio de oferta de 7.99 EUR (original: 13.0 EUR) en el siguiente enlace!

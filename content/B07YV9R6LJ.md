@@ -10,8 +10,11 @@ author: ring
 slug: B07YV9R6LJ
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 39.9 EUR
 inStock: true
+prodname: FOSCAM W21 Webcam 1080P Full HD con Micrófono Incluido  Cámara Web para Video Chat y Grabación  Compatible con Windows  Linux  Mac y Android. Cierre de privacidad
 ---
 
 Ahora mismo tienes [FOSCAM W21 Webcam 1080P Full HD con Micrófono Incluido  Cámara Web para Video Chat y Grabación  Compatible con Windows  Linux  Mac y Android. Cierre de privacidad](https://www.amazon.es/dp/B07YV9R6LJ/?tag=tolees-21) a 29.9 EUR (original: 39.9 EUR) (25.06 %  de descuento) en el siguiente enlace!

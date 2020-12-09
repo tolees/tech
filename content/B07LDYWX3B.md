@@ -10,8 +10,11 @@ author: ring
 slug: B07LDYWX3B
 description:
 actualPrice: 1.47 EUR
+currency: EUR
+price: 1.47
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Cikuso 3pzs Pegatinas Escudo de Camara de plastico Proteccion de miradas Anti-Hacker para movil PC Tablet PC Ordenador portatil Cubierta de privacidad Blanco
 ---
 
 Está [Cikuso 3pzs Pegatinas Escudo de Camara de plastico Proteccion de miradas Anti-Hacker para movil PC Tablet PC Ordenador portatil Cubierta de privacidad Blanco](https://www.amazon.es/dp/B07LDYWX3B/?tag=tolees-21) con 50.84 de descuento por 1.47 EUR (original: 2.99 EUR) en el siguiente enlace!

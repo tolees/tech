@@ -10,8 +10,11 @@ author: ring
 slug: B08JH4BZQT
 description:
 actualPrice: 135.0 EUR
+currency: EUR
+price: 135.0
 comparePrice: 189.0 EUR
 inStock: true
+prodname: OPPO A53s Smartphone  90 Hz 6 5 Zoll Display  5000 mAh Akku + 18W Schnellladen  13 MP Dreifachkamera  128 GB Speicher  Fancy Blue – Deutsche Version
 ---
 
 Tienes [OPPO A53s Smartphone  90 Hz 6 5 Zoll Display  5000 mAh Akku + 18W Schnellladen  13 MP Dreifachkamera  128 GB Speicher  Fancy Blue – Deutsche Version](https://www.amazon.de/dp/B08JH4BZQT/?tag=tolees0ca-21) con un 28.57 % de descuento con precio de oferta de 135.0 EUR (original: 189.0 EUR) en el siguiente enlace!

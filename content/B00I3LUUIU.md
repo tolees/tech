@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUUIU
 description:
 actualPrice: 14.25 GBP
+currency: GBP
+price: 14.25
 comparePrice: 20.0 GBP
 inStock: true
+prodname: Sony MDREX110APB.CE7 Deep Bass Earphones with Smartphone Control and Mic - Metallic Black
 ---
 
 Tienes [Sony MDREX110APB.CE7 Deep Bass Earphones with Smartphone Control and Mic - Metallic Black](https://www.amazon.co.uk/dp/B00I3LUUIU/?tag=tolees0a-21) con un 28.75 % de descuento con precio de oferta de 14.25 GBP (original: 20.0 GBP) en el siguiente enlace!

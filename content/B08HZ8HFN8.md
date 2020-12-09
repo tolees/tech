@@ -10,8 +10,11 @@ author: ring
 slug: B08HZ8HFN8
 description:
 actualPrice: 225.0 GBP
+currency: GBP
+price: 225.0
 comparePrice: 329.0 GBP
 inStock: true
+prodname: OPPO Reno4 Z 5G - 8 GB + 128 GB MediaTec 800 6.50 Inch 4000 mAh 48 MP Camera Sim Free Android 10 Dual Sim Smartphone - White
 ---
 
 Está [OPPO Reno4 Z 5G - 8 GB + 128 GB MediaTec 800 6.50 Inch 4000 mAh 48 MP Camera Sim Free Android 10 Dual Sim Smartphone - White](https://www.amazon.co.uk/dp/B08HZ8HFN8/?tag=tolees0a-21) con 31.61 de descuento por 225.0 GBP (original: 329.0 GBP) en el siguiente enlace!

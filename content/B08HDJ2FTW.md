@@ -10,8 +10,11 @@ author: ring
 slug: B08HDJ2FTW
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.9 EUR
 inStock: true
+prodname: LvShui Billie Eilish iPhone 11 Funda Carcasa Suave Silicona Case Cover para Apple iPhone 11
 ---
 
 Tienes [LvShui Billie Eilish iPhone 11 Funda Carcasa Suave Silicona Case Cover para Apple iPhone 11](https://www.amazon.es/dp/B08HDJ2FTW/?tag=tolees-21) con un 49.60 % de descuento con precio de oferta de 4.99 EUR (original: 9.9 EUR) en el siguiente enlace!

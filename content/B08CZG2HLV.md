@@ -10,8 +10,11 @@ author: ring
 slug: B08CZG2HLV
 description:
 actualPrice: 89.99 GBP
+currency: GBP
+price: 89.99
 comparePrice: 199.99 GBP
 inStock: true
+prodname: YABER Projector Mini Bluetooth Projector 5500 Lumens Portable Videoprojector Full HD 1080P Home Theate Compatible with Smartphone/PC/Tablet/PS3/PS4/TV Stick/DVD/Bluetooth Speaker/Headphone
 ---
 
 Ahora mismo tienes [YABER Projector Mini Bluetooth Projector 5500 Lumens Portable Videoprojector Full HD 1080P Home Theate Compatible with Smartphone/PC/Tablet/PS3/PS4/TV Stick/DVD/Bluetooth Speaker/Headphone](https://www.amazon.co.uk/dp/B08CZG2HLV/?tag=tolees0a-21) a 89.99 GBP (original: 199.99 GBP) (55.00 %  de descuento) en el siguiente enlace!

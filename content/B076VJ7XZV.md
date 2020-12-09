@@ -10,8 +10,11 @@ author: ring
 slug: B076VJ7XZV
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: HDMI Switch  Techole Switch HDMI Bidirezionale 2 Ingressi 1 Uscita Supporta 1080p 3D 4K HDCP o Commutatore HDMI 1 Ingresso 2 Uscite Sdoppiatore HDMI per HDTV  Blu-Ray Player  DVD  DVR  Xbox  PS4
 ---
 
 Está [HDMI Switch  Techole Switch HDMI Bidirezionale 2 Ingressi 1 Uscita Supporta 1080p 3D 4K HDCP o Commutatore HDMI 1 Ingresso 2 Uscite Sdoppiatore HDMI per HDTV  Blu-Ray Player  DVD  DVR  Xbox  PS4](https://www.amazon.it/dp/B076VJ7XZV/?tag=tolees00-21) con 29.43 de descuento por 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

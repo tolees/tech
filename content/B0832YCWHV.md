@@ -10,8 +10,11 @@ author: ring
 slug: B0832YCWHV
 description:
 actualPrice: 18.0 EUR
+currency: EUR
+price: 18.0
 comparePrice: 24.9 EUR
 inStock: true
+prodname: Chipolo One  2020  - Localizador de Llaves Bluetooth más Potente y Resistente al Agua  Negro 
 ---
 
 Está [Chipolo One  2020  - Localizador de Llaves Bluetooth más Potente y Resistente al Agua  Negro ](https://www.amazon.es/dp/B0832YCWHV/?tag=tolees-21) con 27.71 de descuento por 18.0 EUR (original: 24.9 EUR) en el siguiente enlace!

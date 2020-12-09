@@ -10,8 +10,11 @@ author: ring
 slug: B07Q8DPQGV
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Everybody s Golf - PlayStation VR  Version physique  En français  1 Joueur
 ---
 
 Tienes [Everybody s Golf - PlayStation VR  Version physique  En français  1 Joueur](https://www.amazon.fr/dp/B07Q8DPQGV/?tag=tolees0d-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HFHSDTR
 description:
 actualPrice: 39.99 GBP
+currency: GBP
+price: 39.99
 comparePrice: 109.95 GBP
 inStock: true
+prodname: BeatsX Wireless Earphones - Apple W1 Headphone Chip  Class 1 Bluetooth  8 Hours Of Listening Time - Satin Silver
 ---
 
 Tienes [BeatsX Wireless Earphones - Apple W1 Headphone Chip  Class 1 Bluetooth  8 Hours Of Listening Time - Satin Silver](https://www.amazon.co.uk/dp/B07HFHSDTR/?tag=tolees0a-21) con un 63.63 % de descuento con precio de oferta de 39.99 GBP (original: 109.95 GBP) en el siguiente enlace!

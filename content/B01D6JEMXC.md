@@ -10,8 +10,11 @@ author: ring
 slug: B01D6JEMXC
 description:
 actualPrice: 98.0 USD
+currency: USD
+price: 98.0
 comparePrice: 139.99 USD
 inStock: true
+prodname: NETGEAR WiFi Mesh Range Extender EX6400 - Coverage up to 2100 sq.ft. and 35 Devices with AC1900 Dual Band Wireless Signal Booster & Repeater  up to 1900Mbps Speed   Plus Mesh Smart Roaming
 ---
 
 Ahora mismo tienes [NETGEAR WiFi Mesh Range Extender EX6400 - Coverage up to 2100 sq.ft. and 35 Devices with AC1900 Dual Band Wireless Signal Booster & Repeater  up to 1900Mbps Speed   Plus Mesh Smart Roaming](https://www.amazon.com/dp/B01D6JEMXC/?tag=tolees-20) a 98.0 USD (original: 139.99 USD) (29.99 %  de descuento) en el siguiente enlace!

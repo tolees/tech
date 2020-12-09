@@ -10,8 +10,11 @@ author: ring
 slug: B07Y8WMR5H
 description:
 actualPrice: 39.91 EUR
+currency: EUR
+price: 39.91
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Razer Firefly V2 - Alfombrilla de ratón para videojuegos  microtexturizada  con iluminación RGB  compatible con Razer Chroma 
 ---
 
 Está [Razer Firefly V2 - Alfombrilla de ratón para videojuegos  microtexturizada  con iluminación RGB  compatible con Razer Chroma ](https://www.amazon.es/dp/B07Y8WMR5H/?tag=tolees-21) con 33.47 de descuento por 39.91 EUR (original: 59.99 EUR) en el siguiente enlace!

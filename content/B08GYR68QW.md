@@ -10,8 +10,11 @@ author: ring
 slug: B08GYR68QW
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 53.99 EUR
 inStock: true
+prodname: Just Dance 2021 - Version PS5 incluse
 ---
 
 Tienes [Just Dance 2021 - Version PS5 incluse](https://www.amazon.fr/dp/B08GYR68QW/?tag=tolees0d-21) con un 25.93 % de descuento con precio de oferta de 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01BAQIH2U
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Philips SHQ1405BL/00 - Auriculares con micrófono  Azul
 ---
 
 Ahora mismo tienes [Philips SHQ1405BL/00 - Auriculares con micrófono  Azul](https://www.amazon.es/dp/B01BAQIH2U/?tag=tolees-21) a 12 EUR (original: 29.9 EUR) (59.87 %  de descuento) en el siguiente enlace!

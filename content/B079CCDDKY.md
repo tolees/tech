@@ -10,8 +10,11 @@ author: ring
 slug: B079CCDDKY
 description:
 actualPrice: 7.11 EUR
+currency: EUR
+price: 7.11
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jjepocket tee SS O-Neck Noos  Camiseta para Hombre  Rojo  Baked Apple Detail: Slim Fit  X-Small
 ---
 
 Tienes [JACK & JONES Jjepocket tee SS O-Neck Noos  Camiseta para Hombre  Rojo  Baked Apple Detail: Slim Fit  X-Small](https://www.amazon.es/dp/B079CCDDKY/?tag=tolees-21) con un 45.27 % de descuento con precio de oferta de 7.11 EUR (original: 12.99 EUR) en el siguiente enlace!

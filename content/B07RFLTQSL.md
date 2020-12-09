@@ -10,8 +10,11 @@ author: ring
 slug: B07RFLTQSL
 description:
 actualPrice: 127.0 EUR
+currency: EUR
+price: 127.0
 comparePrice: 169.9 EUR
 inStock: true
+prodname: Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 3 GB  Batteria 3000 mAh  4G  Dual SIM  Android 9 Pie  [Versione Italiana]  Black
 ---
 
 Ahora mismo tienes [Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 3 GB  Batteria 3000 mAh  4G  Dual SIM  Android 9 Pie  [Versione Italiana]  Black](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21) a 127.0 EUR (original: 169.9 EUR) (25.25 %  de descuento) en el siguiente enlace!

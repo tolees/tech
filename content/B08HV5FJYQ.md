@@ -10,8 +10,11 @@ author: ring
 slug: B08HV5FJYQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Lanhiem Coque Samsung A41  [Business Series] Protection Cuir+TPU Fonction de Support Premium Flip Case  Portefeuille Coque pour Galaxy A41  Noir
 ---
 
 Ahora mismo tienes [Lanhiem Coque Samsung A41  [Business Series] Protection Cuir+TPU Fonction de Support Premium Flip Case  Portefeuille Coque pour Galaxy A41  Noir](https://www.amazon.fr/dp/B08HV5FJYQ/?tag=tolees0d-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

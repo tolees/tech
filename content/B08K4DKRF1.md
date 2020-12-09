@@ -10,8 +10,11 @@ author: ring
 slug: B08K4DKRF1
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 19.98 EUR
 inStock: true
+prodname: CCHKFEI - Auriculares estéreo plegables con micrófono de 3 5 mm para teléfonos móviles  teléfonos inteligentes  iPhone  ordenador portátil
 ---
 
 Está [CCHKFEI - Auriculares estéreo plegables con micrófono de 3 5 mm para teléfonos móviles  teléfonos inteligentes  iPhone  ordenador portátil](https://www.amazon.es/dp/B08K4DKRF1/?tag=tolees-21) con 30.03 de descuento por 13.98 EUR (original: 19.98 EUR) en el siguiente enlace!

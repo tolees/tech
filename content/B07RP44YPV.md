@@ -10,8 +10,11 @@ author: ring
 slug: B07RP44YPV
 description:
 actualPrice: 5.99 USD
+currency: USD
+price: 5.99
 comparePrice: 17.99 USD
 inStock: true
+prodname: Tom Clancy s Ghost Recon Breakpoint - PlayStation 4
 ---
 
 Ahora mismo tienes [Tom Clancy s Ghost Recon Breakpoint - PlayStation 4](https://www.amazon.com/dp/B07RP44YPV/?tag=tolees-20) a 5.99 USD (original: 17.99 USD) (66.70 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00H3YS4ZO
 description:
 actualPrice: 9.99 GBP
+currency: GBP
+price: 9.99
 comparePrice: 15.0 GBP
 inStock: true
+prodname: The LEGO Movie: Videogame  Nintendo 3DS 
 ---
 
 Tienes [The LEGO Movie: Videogame  Nintendo 3DS ](https://www.amazon.co.uk/dp/B00H3YS4ZO/?tag=tolees0a-21) con un 33.40 % de descuento con precio de oferta de 9.99 GBP (original: 15.0 GBP) en el siguiente enlace!

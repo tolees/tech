@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ2V4QM
 description:
 actualPrice: 22.95 EUR
+currency: EUR
+price: 22.95
 comparePrice: 35.0 EUR
 inStock: true
+prodname: ASUS USB-AC53 Nano - Adaptador inalámbrico USB  Wi-fi  Dual-Band AC1200  MU-MIMO 
 ---
 
 Está [ASUS USB-AC53 Nano - Adaptador inalámbrico USB  Wi-fi  Dual-Band AC1200  MU-MIMO ](https://www.amazon.es/dp/B06XQ2V4QM/?tag=tolees-21) con 34.43 de descuento por 22.95 EUR (original: 35.0 EUR) en el siguiente enlace!

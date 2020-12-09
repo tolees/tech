@@ -10,8 +10,11 @@ author: ring
 slug: B081XJV1CJ
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 8.88 EUR
 inStock: true
+prodname: TIANXIAWUDI Xbox Gamer Games Logo 3D Acryl Led 7 Farben Nachtlicht Tischlampe Geschenk Fernbedienung
 ---
 
 Está [TIANXIAWUDI Xbox Gamer Games Logo 3D Acryl Led 7 Farben Nachtlicht Tischlampe Geschenk Fernbedienung](https://www.amazon.de/dp/B081XJV1CJ/?tag=tolees0ca-21) con 55.07 de descuento por 3.99 EUR (original: 8.88 EUR) en el siguiente enlace!

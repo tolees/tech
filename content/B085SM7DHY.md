@@ -10,8 +10,11 @@ author: ring
 slug: B085SM7DHY
 description:
 actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
 comparePrice: 133.79 EUR
 inStock: true
+prodname: HUAWEI Watch GT2e – Eisweiß
 ---
 
 Está [HUAWEI Watch GT2e – Eisweiß](https://www.amazon.de/dp/B085SM7DHY/?tag=tolees0ca-21) con 26.00 de descuento por 99.0 EUR (original: 133.79 EUR) en el siguiente enlace!

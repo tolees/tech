@@ -10,8 +10,11 @@ author: ring
 slug: B07D8VPBW5
 description:
 actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
 comparePrice: 79.07 EUR
 inStock: true
+prodname: Razer Mamba Elite Ratón para Juegos  con 9 Botones Mecánicos Programables  Sensor Óptico con Iluminación Real de 16.000 DPI y Croma RGB  Negro
 ---
 
 Ahora mismo tienes [Razer Mamba Elite Ratón para Juegos  con 9 Botones Mecánicos Programables  Sensor Óptico con Iluminación Real de 16.000 DPI y Croma RGB  Negro](https://www.amazon.es/dp/B07D8VPBW5/?tag=tolees-21) a 55.0 EUR (original: 79.07 EUR) (30.44 %  de descuento) en el siguiente enlace!

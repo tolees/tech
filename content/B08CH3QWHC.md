@@ -10,8 +10,11 @@ author: ring
 slug: B08CH3QWHC
 description:
 actualPrice: 188.98 EUR
+currency: EUR
+price: 188.98
 comparePrice: 269.98 EUR
 inStock: true
+prodname: ECOVACS Deebot U2 PRO （nuova versione di D605）robot aspirapolvere e lavapavimenti  accessorio per animali domestici incluso  fino a 150 min di attività  controllo tramite app  Alexa
 ---
 
 Está [ECOVACS Deebot U2 PRO （nuova versione di D605）robot aspirapolvere e lavapavimenti  accessorio per animali domestici incluso  fino a 150 min di attività  controllo tramite app  Alexa](https://www.amazon.it/dp/B08CH3QWHC/?tag=tolees00-21) con 30.00 de descuento por 188.98 EUR (original: 269.98 EUR) en el siguiente enlace!

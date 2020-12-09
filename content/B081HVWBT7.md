@@ -10,8 +10,11 @@ author: ring
 slug: B081HVWBT7
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 39.0 EUR
 inStock: true
+prodname: NGS Roller Tempo Black - Altavoz portátil de 20W Compatible con Tecnología 5.0 y True Wireless Stereo  USB/SD/AUX IN . Color Negro
 ---
 
 Tienes [NGS Roller Tempo Black - Altavoz portátil de 20W Compatible con Tecnología 5.0 y True Wireless Stereo  USB/SD/AUX IN . Color Negro](https://www.amazon.es/dp/B081HVWBT7/?tag=tolees-21) con un 41.05 % de descuento con precio de oferta de 22.99 EUR (original: 39.0 EUR) en el siguiente enlace!

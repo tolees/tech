@@ -10,8 +10,11 @@ author: ring
 slug: B08NSZ9TXM
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Wodgreat Repetidor WiFi Amplificador Señal WiFi 300Mbps 2 4G WiFi Repeater Extender con 2 Puertos Ethernet y 2 Antenas  Access Point/Repeater/Router Modos  Fácil de instalar  Compatibilidad Universa
 ---
 
 Ahora mismo tienes [Wodgreat Repetidor WiFi Amplificador Señal WiFi 300Mbps 2 4G WiFi Repeater Extender con 2 Puertos Ethernet y 2 Antenas  Access Point/Repeater/Router Modos  Fácil de instalar  Compatibilidad Universa](https://www.amazon.es/dp/B08NSZ9TXM/?tag=tolees-21) a 19.99 EUR (original: 35.99 EUR) (44.46 %  de descuento) en el siguiente enlace!

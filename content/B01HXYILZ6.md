@@ -10,8 +10,11 @@ author: ring
 slug: B01HXYILZ6
 description:
 actualPrice: 4.98 GBP
+currency: GBP
+price: 4.98
 comparePrice: 6.99 GBP
 inStock: true
+prodname: Warhammer: End Times - Vermintide  Xbox One 
 ---
 
 Ahora mismo tienes [Warhammer: End Times - Vermintide  Xbox One ](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=tolees0a-21) a 4.98 GBP (original: 6.99 GBP) (28.76 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08DFBCVS7
 description:
 actualPrice: 36.24 EUR
+currency: EUR
+price: 36.24
 comparePrice: 59.19 EUR
 inStock: true
+prodname: Maisi Cámara de seguridad IP para interiores y exteriores  Full HD 1080p 2MP vigilancia CCTV para el hogar  oficina  visualización rápida de aplicaciones y alertas de texto en tiempo real
 ---
 
 Está [Maisi Cámara de seguridad IP para interiores y exteriores  Full HD 1080p 2MP vigilancia CCTV para el hogar  oficina  visualización rápida de aplicaciones y alertas de texto en tiempo real](https://www.amazon.es/dp/B08DFBCVS7/?tag=tolees-21) con 38.77 de descuento por 36.24 EUR (original: 59.19 EUR) en el siguiente enlace!
