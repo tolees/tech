@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Batman Arkham Collection  Standard Edition   PS4 '
 ---
 
-Ahora mismo tienes [Batman Arkham Collection  Standard Edition   PS4 ](https://www.amazon.co.uk/dp/B083PKWKJH/?tag=tolees0a-21) a 20.49 GBP (original: 30.99 GBP) (33.88 %  de descuento) en el siguiente enlace!
+Está [Batman Arkham Collection  Standard Edition   PS4 ](https://www.amazon.co.uk/dp/B083PKWKJH/?tag=tolees0a-21) con 33.88 de descuento por 20.49 GBP (original: 30.99 GBP) en el siguiente enlace!
 
 [![Batman Arkham Collection  Standard Editi](https://m.media-amazon.com/images/I/518ClEhXHhL._SL200_.jpg)](https://www.amazon.co.uk/dp/B083PKWKJH/?tag=tolees0a-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B083PKWKJH/?tag=tolees0a-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B083PKWKJH/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

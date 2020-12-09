@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim'
 ---
 
-Está [Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21) con 34.06 de descuento por 174.99 EUR (original: 265.37 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei P40 Lite Midnight Black 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21) a 174.99 EUR (original: 265.37 EUR) (34.06 %  de descuento) en el siguiente enlace!
 
 [![Huawei P40 Lite Midnight Black 6.4" 6gb/](https://m.media-amazon.com/images/I/41EdrzecZyL._SL200_.jpg)](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B084YWQF5R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
