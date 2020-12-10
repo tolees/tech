@@ -24,10 +24,10 @@ Tienes [JBL Horizon - Radio Despertador de doble alarma inalámbrico Bluetooth c
 
 Características principales:
 
-- La pantalla LCD ajusta automáticamente el brillo para adaptarse a la iluminación de la habitación
 - Transmisión Bluetooth y carga por USB
 - Con 2 alarmas independientes para usted y su pareja
 - Reloj despertador multi sensor con luz ambiental LED
+- La pantalla LCD ajusta automáticamente el brillo para adaptarse a la iluminación de la habitación
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MUKNZDC/?tag=tolees-21)
 
