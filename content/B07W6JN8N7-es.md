@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G203 LIGHTSYNC Ratón con ilumin al 29.28 % de descuento'
-date: 2020-12-06 13:04:01
+date: 2020-12-10 13:24:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31g3+YjFw9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31g3+YjFw9L._SL200_.jpg' ]
 comments: true
