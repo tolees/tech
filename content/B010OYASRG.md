@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OontZ Angle 3  3rd Gen  - Bluetooth Port al 25.72 % de descuento'
-date: 2020-12-08 09:05:29
+date: 2020-12-10 10:49:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ClBa+vEKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ClBa+vEKL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Receptor Bluetooth 5.0 Jack 3.5mm  AGPTE al 41.20 % de descuento'
-date: 2020-12-08 16:20:03
+date: 2020-12-10 10:45:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GNdPbkkIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GNdPbkkIL._SL200_.jpg' ]
 comments: true

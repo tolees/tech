@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.67 % en [New] TP-Link AC1900 - Router inalámbric'
-date: 2020-12-07 19:33:47
+date: 2020-12-10 10:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL200_.jpg' ]
 comments: true

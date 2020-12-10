@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.01 % en Báscula Grasa Corporal Báscula de Baño- '
-date: 2020-12-09 01:36:12
+date: 2020-12-10 10:49:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ogjTvwsVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ogjTvwsVL._SL200_.jpg' ]
 comments: true
