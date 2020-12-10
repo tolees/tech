@@ -17,12 +17,10 @@ inStock: true
 prodname: 'The Legend of Heroes: Trails of Cold Steel III - PlayStation 4'
 ---
 
-Está [The Legend of Heroes: Trails of Cold Steel III - PlayStation 4](https://www.amazon.com/dp/B07MWSVYFR/?tag=tolees-20) con 51.66 de descuento por 29.0 USD (original: 59.99 USD) en el siguiente enlace!
+Ahora mismo tienes [The Legend of Heroes: Trails of Cold Steel III - PlayStation 4](https://www.amazon.com/dp/B07MWSVYFR/?tag=tolees-20) a 29.0 USD (original: 59.99 USD) (51.66 %  de descuento) en el siguiente enlace!
 
 [![The Legend of Heroes: Trails of Cold Ste](https://m.media-amazon.com/images/I/51gQhcpy+uL._SL200_.jpg)](https://www.amazon.com/dp/B07MWSVYFR/?tag=tolees-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MWSVYFR/?tag=tolees-20)
+[Visítala!!!](https://www.amazon.com/dp/B07MWSVYFR/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
