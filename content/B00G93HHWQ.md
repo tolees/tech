@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Panasonic ES-LV65-s Wet and Dry Electric 5-Blade Shaver for Men  UK 2 Pin Plug'
 ---
 
-Está [Panasonic ES-LV65-s Wet and Dry Electric 5-Blade Shaver for Men  UK 2 Pin Plug](https://www.amazon.co.uk/dp/B00G93HHWQ/?tag=tolees0a-21) con 31.66 de descuento por 94.99 GBP (original: 139.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Panasonic ES-LV65-s Wet and Dry Electric 5-Blade Shaver for Men  UK 2 Pin Plug](https://www.amazon.co.uk/dp/B00G93HHWQ/?tag=tolees0a-21) a 94.99 GBP (original: 139.0 GBP) (31.66 %  de descuento) en el siguiente enlace!
 
 [![Panasonic ES-LV65-s Wet and Dry Electric](https://m.media-amazon.com/images/I/51DNqgbHdJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00G93HHWQ/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00G93HHWQ/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00G93HHWQ/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
