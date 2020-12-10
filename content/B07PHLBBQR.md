@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Logitech G502 SE Hero High Performance RGB Gaming Mouse with 11 Programmable Buttons'
 ---
 
-Ahora mismo tienes [Logitech G502 SE Hero High Performance RGB Gaming Mouse with 11 Programmable Buttons](https://www.amazon.com/dp/B07PHLBBQR/?tag=tolees-20) a 49.96 USD (original: 79.99 USD) (37.54 %  de descuento) en el siguiente enlace!
+Está [Logitech G502 SE Hero High Performance RGB Gaming Mouse with 11 Programmable Buttons](https://www.amazon.com/dp/B07PHLBBQR/?tag=tolees-20) con 37.54 de descuento por 49.96 USD (original: 79.99 USD) en el siguiente enlace!
 
 [![Logitech G502 SE Hero High Performance R](https://m.media-amazon.com/images/I/31wQGqHeZKL._SL200_.jpg)](https://www.amazon.com/dp/B07PHLBBQR/?tag=tolees-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07PHLBBQR/?tag=tolees-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07PHLBBQR/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
