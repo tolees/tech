@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony SEL-50F18F Obiettivo a Focale Fissa al 41.97 % de descuento'
-date: 2020-12-05 07:54:43
+title: 'Sony SEL50F18F.SYX Objetivo Fijo  FE 50  al 46.17 % de descuento'
+date: 2020-12-10 02:34:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
 comments: true
@@ -9,20 +9,18 @@ category: ofertas
 author: ring
 slug: B01DLMD5O6
 description:
-actualPrice: 191.5 EUR
+actualPrice: 177.65 EUR
 currency: EUR
-price: 191.5
+price: 177.65
 comparePrice: 330.0 EUR
 inStock: true
-prodname: 'Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Frame  Attacco E  SEL50F18F'
+prodname: 'Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo'
 ---
 
-Está [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Frame  Attacco E  SEL50F18F](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21) con 41.97 de descuento por 191.5 EUR (original: 330.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21) a 177.65 EUR (original: 330.0 EUR) (46.17 %  de descuento) en el siguiente enlace!
 
-[![Sony SEL-50F18F Obiettivo a Focale Fissa](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
+[![Sony SEL50F18F.SYX Objetivo Fijo  FE 50 ](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PRO M.2 NVMe 3D SSD 500  al 51.95 % de descuento'
-date: 2020-12-09 03:18:58
+date: 2020-12-10 03:44:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TKQq7YCKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TKQq7YCKL._SL200_.jpg' ]
 comments: true

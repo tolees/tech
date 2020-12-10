@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Planescape Torment - Enhanced Edition & Icewind Dale - Enhanced Edition Nsw - Enhanced - Nintendo Switch'
 ---
 
-Está [Planescape Torment - Enhanced Edition & Icewind Dale - Enhanced Edition Nsw - Enhanced - Nintendo Switch](https://www.amazon.it/dp/B07TRNVWQN/?tag=tolees00-21) con 40.66 de descuento por 26.44 EUR (original: 44.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [Planescape Torment - Enhanced Edition & Icewind Dale - Enhanced Edition Nsw - Enhanced - Nintendo Switch](https://www.amazon.it/dp/B07TRNVWQN/?tag=tolees00-21) a 26.44 EUR (original: 44.56 EUR) (40.66 %  de descuento) en el siguiente enlace!
 
 [![Planescape Torment - Enhanced Edition & ](https://m.media-amazon.com/images/I/51m6cYc5n+L._SL200_.jpg)](https://www.amazon.it/dp/B07TRNVWQN/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07TRNVWQN/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07TRNVWQN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

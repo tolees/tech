@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.34 % en PlayStation 4 - DualShock 4 Wireless Con'
-date: 2020-12-09 03:24:20
+title: 'Descuento del 29.99 % en PlayStation 4 - DualShock 4 Wireless Con'
+date: 2020-12-10 03:47:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/316UlQxIOHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316UlQxIOHL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B01MQTRR0D
 description:
-actualPrice: 33.99 EUR
+actualPrice: 42.0 EUR
 currency: EUR
-price: 33.99
+price: 42.0
 comparePrice: 59.99 EUR
 inStock: true
 prodname: 'PlayStation 4 - DualShock 4 Wireless Controller  Camouflage  2016 '
 ---
 
-Tienes [PlayStation 4 - DualShock 4 Wireless Controller  Camouflage  2016 ](https://www.amazon.de/dp/B01MQTRR0D/?tag=tolees0ca-21) con un 43.34 % de descuento con precio de oferta de 33.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [PlayStation 4 - DualShock 4 Wireless Controller  Camouflage  2016 ](https://www.amazon.de/dp/B01MQTRR0D/?tag=tolees0ca-21) con un 29.99 % de descuento con precio de oferta de 42.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![PlayStation 4 - DualShock 4 Wireless Con](https://m.media-amazon.com/images/I/316UlQxIOHL._SL200_.jpg)](https://www.amazon.de/dp/B01MQTRR0D/?tag=tolees0ca-21)
 
