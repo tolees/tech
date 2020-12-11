@@ -25,13 +25,13 @@ Ahora mismo tienes [Argos Hybrid Sunstech Reproductor MP3 8GB Bluetooth Sumergib
 Características:
 
 - Accesorios 12 almohadillas de silicona introauditivas de distintos tamaños (protección hermética del auricular) y cable usbcharge clip
+- Impedancia:16 ±15% ohm
 - Reproductor mp3 de 8 gb y bluetooth (v4. 2)
 - Usb2. 0 high speed
-- Alta fidelidad estéreo, perfecta calidad de sonido
-- Batería recargable de litio (200mah) hasta 7 horas
 - Audio mp3 y wma
-- Impedancia:16 ±15% ohm
 - Sensibilidad 100 db+/- 3 db
+- Batería recargable de litio (200mah) hasta 7 horas
+- Alta fidelidad estéreo, perfecta calidad de sonido
 - Diseño ergonómico cómodo y adecuado para el deporte
 - Waterproof sumergible hasta 3 metros de profundidad
 
