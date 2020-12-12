@@ -28,10 +28,10 @@ Ahora mismo tienes [OPPO Find X2 LITE 5G – Smartphone de 6.4" AMOLED  8GB/128G
 
 Características:
 
-- Pantalla: 6.4", 1080 x 2400 pixels
 - Procesador: Snapdragon 765G 2.4GHz
 - Batería: 4025 mAh
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Pantalla: 6.4", 1080 x 2400 pixels
 
 [Visítala!!!](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21)
 

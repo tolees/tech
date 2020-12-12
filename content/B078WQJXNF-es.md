@@ -28,11 +28,11 @@ Tienes [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   c
 
 Características principales:
 
-- Escritura secuencial: 520MB/s
-- Dispone de interfaz SATA
 - Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
-- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
+- Dispone de interfaz SATA
+- Escritura secuencial: 520MB/s
+- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
 
