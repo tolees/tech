@@ -24,10 +24,10 @@ Tienes [Sony ICF506.CED - Radio portátil  FM/Am de sintonización analógica co
 
 ℹ️:
 
-- Toma de auriculares dedicada para una escucha personal
 - Sintonizador de radio AM/FM integrado
-- Diseño portátil
 - Asa de transporte incorporada para disfrutar de una mayor portabilidad
+- Toma de auriculares dedicada para una escucha personal
 - Funciona con 3 pilas AA
+- Diseño portátil
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N3AZC5A/?tag=tolees-21)
