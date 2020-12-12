@@ -31,8 +31,8 @@ Principales características:
 - Micrófono con mando integrado compatible con Smartphones
 - Elige uno de los 5 colores que mejor se adapta a tu estilo
 - Diadema metálica adaptable para un ajuste perfecto
-- Extra Bass para sonidos profundos y potentes
 - Almohadillas acolchadas para una comodidad prolongada
+- Extra Bass para sonidos profundos y potentes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MR2HT4M/?tag=tolees-21)
 

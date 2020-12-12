@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.06 % en TP-Link LS105G - Switch Ethernet 5 Puert'
-date: 2020-12-11 10:29:32
+date: 2020-12-12 10:34:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41520g5WXaL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41520g5WXaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41520g5WXaL._SL200_.jpg' ]
@@ -28,14 +28,14 @@ Tienes [TP-Link LS105G - Switch Ethernet 5 Puertos  10/100/1000Mbps   Switch Gig
 
 Características principales:
 
-- La Tecnología Green ethernet ahorra energía
+- NOTA: Para alcanzar la máxima velocidad de la red es importante disponer del cable ethernet adecuado, recomendable Cat 5e o Cat6.
+- Diseño compacto, estructura sólida de metal y ultraligero; ideal para sitios industriales de riesgo, sobremesa o montarlo en la pared.
 - Admite QoS 802.1p/dscp para establecer la prioridad del tráfico.
 - El diseño sin ventilador garantiza un funcionamiento silencioso.
 - 5 puertos Gigabit RJ45 de 10/100/1000mbps compatibles con mdi/mdix.
 - La arquitectura antibloqueo garantiza una transferencia de datos fiable.
 - Plug and play, no requiere configuración.
-- Diseño compacto, estructura sólida de metal y ultraligero; ideal para sitios industriales de riesgo, sobremesa o montarlo en la pared.
-- NOTA: Para alcanzar la máxima velocidad de la red es importante disponer del cable ethernet adecuado, recomendable Cat 5e o Cat6.
+- La Tecnología Green ethernet ahorra energía
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RPVQY62/?tag=tolees-21)
 

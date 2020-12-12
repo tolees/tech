@@ -28,16 +28,16 @@ Ahora mismo tienes [Silver HT - Funda con Teclado Bluetooth para Samsung Galaxy 
 
 Características:
 
-- Funda silver ht
-- Funda con cierre de seguridad anti apertura
-- Teclado con 83 teclas
-- Teclado en español; incluye la letra ñ
-- Teclado con indicador led de funcionamiento
-- Teclado bluetooth incorporado
-- Materiales y acabados de alta calidad
 - Incluye cable de carga del teclado
-- Fabricado en piel ecológica
 - Protección total en tpu para encaje específico con la tablet samsung taa 10.1" (sm t-580 y sm t-585)
+- Funda silver ht
+- Teclado bluetooth incorporado
+- Funda con cierre de seguridad anti apertura
+- Materiales y acabados de alta calidad
+- Teclado con indicador led de funcionamiento
+- Teclado en español; incluye la letra ñ
+- Teclado con 83 teclas
+- Fabricado en piel ecológica
 
 [Visítala!!!](https://www.amazon.es/dp/B071KFB5K4/?tag=tolees-21)
 

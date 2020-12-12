@@ -28,12 +28,12 @@ Está [Sony MDR-RF811RK - Auriculares de Diadema Cerrados Inalámbricos  Negro](
 
 Principales características:
 
+- Dimensiones del producto: 1 x 1 x 1 cm
+- Tiene un alcance inalámbrico de hasta 100 m
 - Transmisión inalámbrica por RF clara
 - Peso del producto: 272 g
-- Dimensiones del producto: 1 x 1 x 1 cm
-- Auriculares domésticos inalámbricos con diafragmas de 40 mm, alcance de recepción hasta 100 m y diadema autoajustable
 - Unidad de diafragma de neodimio de 40 mm
-- Tiene un alcance inalámbrico de hasta 100 m
+- Auriculares domésticos inalámbricos con diafragmas de 40 mm, alcance de recepción hasta 100 m y diadema autoajustable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00I3LUP7G/?tag=tolees-21)
 
