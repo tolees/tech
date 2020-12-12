@@ -28,11 +28,11 @@ Está [HUAWEI FreeBuds 3i - Auriculares inalámbricos con cancelación de Ruido 
 
 Principales características:
 
+- Control intuitivo al tocar los auriculares
 - Auriculares inalámbricos TrueWireless con reducción de ruido activa
 - Diseño ergonómico, ajuste estable y comodidad.
-- Control intuitivo al tocar los auriculares
-- Sonido excepcional gracias a los controladores grandes, ⌀10mm driver
 - Hasta 3,5 horas de tiempo de reproducción y carga rápida con USB-C.
+- Sonido excepcional gracias a los controladores grandes, ⌀10mm driver
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087N9V1KD/?tag=tolees-21)
 

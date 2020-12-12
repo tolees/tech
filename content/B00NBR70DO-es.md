@@ -28,8 +28,8 @@ Está [Sony MDR-ZX110 - Auriculares cerrados  negro](https://www.amazon.es/dp/B0
 
 Principales características:
 
-- Peso del producto: 118 g
 - Diafragmas tipo cúpula de 30 mm
+- Peso del producto: 118 g
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados
 - Unidades ligeras de diafragma de neodimio dinámico de 30 mm
 - Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
