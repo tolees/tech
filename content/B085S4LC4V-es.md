@@ -29,8 +29,8 @@ Tienes [Xiaomi Redmi Note 9S  Pantalla de 6 67" FHD+  DotDisplay  6GB+128GB  Cá
 Características principales:
 
 - Sistema operativo Android 10
-- Batería de 5020 mAh
 - Procesador Snapdragon 720G 2.3 GHz
+- Batería de 5020 mAh
 - Pantalla de 6.67", 1080 x 2400 pixeles
 - Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [Caja del teléfono móvil TPU Blanco Mate en Relieve lenguaj
 
 Características:
 
-- Sensación suave y cómoda
 - Fácil instalación y extracción.
 - Protege tu teléfono del polvo, arañazos y golpes
+- Sensación suave y cómoda
 
 [Visítala!!!](https://www.amazon.es/dp/B083HZLJ51/?tag=tolees-21)
 

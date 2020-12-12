@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.57 % en Sony RF MDR-RF855RK - Auriculares De Dia'
 date: 2020-12-11 10:07:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin Bluetooth  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21'
+descuento: '39.57'
+titulo: 'Sony RF MDR-RF855RK - Auriculares De Dia'
 ---
 
 Tienes [Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin Bluetooth  Color Negro](https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21) con un 39.57 % de descuento con precio de oferta de 54.39 EUR (original: 90.0 EUR) en el siguiente enlace!
@@ -24,10 +28,10 @@ Tienes [Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Si
 
 Características principales:
 
-- Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
 - Diafragmas de neodimio de 40 mm
 - Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
 - Rango de frecuencia de 10 Hz a 22 kHz
+- Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21)
 

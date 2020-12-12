@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech G432 Auriculares Gaming con Cab al 32.93 % de descuento'
 date: 2020-12-11 11:04:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lauM9SIaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lauM9SIaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lauM9SIaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 81.99 EUR
 inStock: true
 prodname: 'Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surround  DTS Headphone:X 2.0  Transductores 50mm  USB y Jack Audio 3  5mm  Microfóno Volteable  Peso Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTXLFXV/?tag=tolees-21'
+descuento: '32.93'
+titulo: 'Logitech G432 Auriculares Gaming con Cab'
 ---
 
 Está [Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surround  DTS Headphone:X 2.0  Transductores 50mm  USB y Jack Audio 3  5mm  Microfóno Volteable  Peso Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch](https://www.amazon.es/dp/B07MTXLFXV/?tag=tolees-21) con 32.93 de descuento por 54.99 EUR (original: 81.99 EUR) en el siguiente enlace!
