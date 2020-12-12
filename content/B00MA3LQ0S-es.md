@@ -24,8 +24,8 @@ Tienes [Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata](https://www.amaz
 
 ℹ️:
 
-- disco duro externo portátil con capacidad de 2 TB
 - Software de copia de seguridad automática a bordo
+- disco duro externo portátil con capacidad de 2 TB
 - Protección permanente con casos de aluminio lisas y sólidas
 - Transferencia ultra rápida velocidad con USB 3.0 (compatible con USB 2.0)
 
