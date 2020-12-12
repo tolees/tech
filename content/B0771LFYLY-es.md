@@ -24,14 +24,14 @@ Tienes [Energy Sistem Max 3 - Tablet de 8"  memoria interna de 16 GB  Android 7 
 
 ℹ️:
 
-- Incorporamos tecnología Xtreme Sound con 2 altavoces frontales de 1 W
-- Connections: MicroUSB connection with OTG function y audio Jack 3.5 mm with CTIA standard
-- Memoria RAM de 1 GB y sus 16 GB de memoria interna, ampliables hasta 256 GB y procesador de cuatro núcleos
-- La conexión Bluetooth 4.0 permite sincronizar rápidamente con los dispositivos a enlazar y supone un menor consumo de batería
 - La función GPS vía satélite ofrece la mejor ayuda para llegar a tu destino
+- La conexión Bluetooth 4.0 permite sincronizar rápidamente con los dispositivos a enlazar y supone un menor consumo de batería
+- Memoria RAM de 1 GB y sus 16 GB de memoria interna, ampliables hasta 256 GB y procesador de cuatro núcleos
 - Su función USB-Host permite conectar todo tipo de dispositivos externos
-- Su pantalla IPS de 8" y alta resolución, con 1280 x 800 px, ofrece una gran calidad de imagen, con colores más vivos
+- Incorporamos tecnología Xtreme Sound con 2 altavoces frontales de 1 W
 - Versión Android 7.0 Nougat ofrece mayores opciones de personalización, vista multiventana
 - Radio FM incorporada con la que podrás disfrutar de tu música y programas favoritos en cualquier sitio
+- Connections: MicroUSB connection with OTG function y audio Jack 3.5 mm with CTIA standard
+- Su pantalla IPS de 8" y alta resolución, con 1280 x 800 px, ofrece una gran calidad de imagen, con colores más vivos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0771LFYLY/?tag=tolees-21)
