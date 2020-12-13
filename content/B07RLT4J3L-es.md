@@ -25,9 +25,9 @@ Ahora mismo tienes [Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinit
 🔎:
 
 - Cámara : desliza y rota para capturar lo que está pasando a ambos lados; sácate selfies increíbles con 48 mp de la cámara principal, inmortaliza paisajes con el ultra gran angular de 8 mp 123, o consigue efecto bouquet con la lente 3d depth
-- Pantalla super amoled de 6.7” con resolución full hd+ (2400x1080); pantalla infinita sin perforaciones de cámara
-- Almacenamiento interno de 128 gb (no ampliable), memoria ram 8gb; sistema operativo android 9.0 pie y procesador qualcomm snapdragon 7150 (octa-core, 2,2 ghz dual + 1,7 ghz hexa)
 - Batería 3700 mah, 25 w carga rápida
 - Desbloqueo a través de scanner huella dactilar en pantalla
+- Pantalla super amoled de 6.7” con resolución full hd+ (2400x1080); pantalla infinita sin perforaciones de cámara
+- Almacenamiento interno de 128 gb (no ampliable), memoria ram 8gb; sistema operativo android 9.0 pie y procesador qualcomm snapdragon 7150 (octa-core, 2,2 ghz dual + 1,7 ghz hexa)
 
 [Visítala!!!](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21)
