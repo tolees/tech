@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.99 % en Sony WHCH710NB - Auriculares inalámbrico'
-date: 2020-12-11 16:45:06
+date: 2020-12-13 11:17:06
 image: 'https://m.media-amazon.com/images/I/41CgxsilyuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35
 
 ℹ️:
 
-- Hasta 35 h de batería
-- Opción de conexión por cable
 - Noise Cancelling dual
-- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
+- Hasta 35 h de batería
 - Diseño compacto
+- Opción de conexión por cable
+- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21)
