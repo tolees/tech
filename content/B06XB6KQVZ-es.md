@@ -24,10 +24,10 @@ Tienes [NEW C Funda para Samsung Galaxy S7  Anti- Choques y Anti- Arañazos  Sil
 
 ℹ️:
 
-- Diseño especial para Samsung Galaxy S7
-- Hecho con TPU premium, que garantiza una transparencia cristalina.
-- Biseles levantados para ofrecer protección para pantalla y cámara. Diseño único de absorción de impactos: 56 esquinas absorben efectivamente los choques
 - Fácil acceso a todos los controles y características; Recortes perfectos para altavoces, cámara y otros puertos
+- Diseño especial para Samsung Galaxy S7
+- Biseles levantados para ofrecer protección para pantalla y cámara. Diseño único de absorción de impactos: 56 esquinas absorben efectivamente los choques
+- Hecho con TPU premium, que garantiza una transparencia cristalina.
 - Esta funda ha sido especialmente diseñada para Samsung Galaxy S7, para garantizar una protección total.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XB6KQVZ/?tag=tolees-21)
