@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.10 % en Samsung 970 Evo Plus  Unidad de Estado S'
-date: 2020-12-11 22:51:57
+date: 2020-12-12 23:08:43
 image: 'https://m.media-amazon.com/images/I/412szvtRYaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PC
 
 ℹ️:
 
-- Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
-- Este software solo es compatible con los sistemas operativos de Windows indicados en el manual del usuario
 - Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg
 - Ssd con tecnología v-nand samsung
-- Lectura al azar (4kb, qd32) hasta 600.000.iops y escritura aleatorio (4kb, qd32) hasta 550.000.iops
+- Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
 - Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
+- Este software solo es compatible con los sistemas operativos de Windows indicados en el manual del usuario
+- Lectura al azar (4kb, qd32) hasta 600.000.iops y escritura aleatorio (4kb, qd32) hasta 550.000.iops
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21)
