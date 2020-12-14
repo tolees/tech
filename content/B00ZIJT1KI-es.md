@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 155 - Ratón para Gaming al 30.01 % de descuento'
-date: 2020-12-12 21:00:44
+date: 2020-12-13 22:11:40
 image: 'https://m.media-amazon.com/images/I/41VSrHXHDpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Está [Trust Gaming GXT 155 - Ratón para Gaming  PC   Color Gris](https://www.a
 
 ℹ️:
 
-- Software avanzado para programar botones y macros
-- 11 botones programables en total
-- Memoria integrada para almacenar un máximo de 5 perfiles de juego
 - Cable trenzado de 1,9 m
-- 5 botones adicionales para pulgar, ideales para juegos MOBA
+- Memoria integrada para almacenar un máximo de 5 perfiles de juego
+- Software avanzado para programar botones y macros
 - Peso ajustable, 8 pesos metálicos de 2 gramos cada uno
+- 11 botones programables en total
+- 5 botones adicionales para pulgar, ideales para juegos MOBA
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZIJT1KI/?tag=tolees-21)
