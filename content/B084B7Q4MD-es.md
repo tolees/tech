@@ -24,10 +24,10 @@ Ahora mismo tienes [PowerA - Mando inalámbrico mejorado Pokémon Sobble  Ninten
 
 🔎:
 
-- Mando ergonómico con disposición de botones estándar y diseño Sobble
-- Incluye dos pilas AA para hasta 30 horas de juego
-- Incluye mandos de movimiento y botones de juego avanzado asignables
 - Libertad inalámbrica con Bluetooth 5.0
+- Incluye mandos de movimiento y botones de juego avanzado asignables
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
+- Incluye dos pilas AA para hasta 30 horas de juego
+- Mando ergonómico con disposición de botones estándar y diseño Sobble
 
 [Visítala!!!](https://www.amazon.es/dp/B084B7Q4MD/?tag=tolees-21)
