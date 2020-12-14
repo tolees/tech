@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.24 % en Xiaomi Mi True Wireless Earphones 2S.'
-date: 2020-12-13 10:58:17
+date: 2020-12-14 11:42:38
 image: 'https://m.media-amazon.com/images/I/21SOuk46JpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08DKXW7BW/?tag=tolees-21'
 descuento: '36.24'
+average: '51.0'
 ---
 
 Tienes [Xiaomi Mi True Wireless Earphones 2S.](https://www.amazon.es/dp/B08DKXW7BW/?tag=tolees-21) con un 36.24 % de descuento con precio de oferta de 51.0 EUR (original: 79.99 EUR) en el siguiente enlace!
@@ -24,11 +25,11 @@ Tienes [Xiaomi Mi True Wireless Earphones 2S.](https://www.amazon.es/dp/B08DKXW7
 
 ℹ️:
 
+- Carga rápida en 1 hora.
+- 5 horas de batería con carga completa, 24 horas con la carcasa de carga.
+- Cada auricular funciona independientemente de la otra.
 - Máxima comodidad gracias a su diseño ergonómico.
 - Sonido de alta calidad.
-- Carga rápida en 1 hora.
-- Cada auricular funciona independientemente de la otra.
-- 5 horas de batería con carga completa, 24 horas con la carcasa de carga.
 - Compatible con cargador inalámbrico.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08DKXW7BW/?tag=tolees-21)
