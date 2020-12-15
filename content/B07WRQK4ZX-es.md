@@ -25,10 +25,10 @@ Ahora mismo tienes [Monkey King: Hero is Back - PS4](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Niveles de dificultad apropiados
+- Combinación de acción oriental y momentos cómicos
 - Controles y manejo sencillos
 - Un juego con el que pueden divertirse y relajarse tanto mayores como pequeños
 - Ritmo relajado
-- Combinación de acción oriental y momentos cómicos
-- Niveles de dificultad apropiados
 
 [Visítala!!!](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21)
