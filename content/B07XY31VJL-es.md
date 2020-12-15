@@ -1,24 +1,25 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 8 Pro  Pantalla de 6 5 al 26.11 % de descuento'
-date: 2020-12-13 16:55:52
+date: 2020-12-14 23:53:09
 image: 'https://m.media-amazon.com/images/I/41S42-xEJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XY31VJL-es'
-actualPrice: 176.56 EUR
+actualPrice: 176.55 EUR
 currency: EUR
-price: 176.56
+price: 176.55
 comparePrice: 238.94 EUR
 prodname: 'Xiaomi Redmi Note 8 Pro  Pantalla de 6 53   FHD+  Notch de Gota  6GB+64GB  Cámara cuádruple de 64MP  MediaTek Helio G90T  4500 mAh con Carga de 18W  NFC  Verde Bosque'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XY31VJL/?tag=tolees-21'
 descuento: '26.11'
+average: '197.08380000000005'
 ---
 
-Ahora mismo tienes [Xiaomi Redmi Note 8 Pro  Pantalla de 6 53   FHD+  Notch de Gota  6GB+64GB  Cámara cuádruple de 64MP  MediaTek Helio G90T  4500 mAh con Carga de 18W  NFC  Verde Bosque](https://www.amazon.es/dp/B07XY31VJL/?tag=tolees-21) a 176.56 EUR (original: 238.94 EUR) (26.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Redmi Note 8 Pro  Pantalla de 6 53   FHD+  Notch de Gota  6GB+64GB  Cámara cuádruple de 64MP  MediaTek Helio G90T  4500 mAh con Carga de 18W  NFC  Verde Bosque](https://www.amazon.es/dp/B07XY31VJL/?tag=tolees-21) a 176.55 EUR (original: 238.94 EUR) (26.11 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Redmi Note 8 Pro  Pantalla de 6 5](https://m.media-amazon.com/images/I/41S42-xEJQL._SL200_.jpg)](https://www.amazon.es/dp/B07XY31VJL/?tag=tolees-21)
 
