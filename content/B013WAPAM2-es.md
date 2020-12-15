@@ -27,8 +27,8 @@ Tienes [Bosch Professional Medidor láser de distancia GLM 50 C  transmisión de
 
 - APLICACIÓN MEASURING MASTER APP: fácil documentación y gestión de planos y cálculos métricos; toda la información en un lugar
 - INCLUYE: medidor láser de distancia GLM 50 C de Bosch Professional, 2 pilas de 1,5 V LR03, AAA, funda
-- DATOS TÉCNICOS: IP 54, máxima distancia de medición de hasta 50 m, clase de láser 2, exactitud de la medición ± 1,5 mm y ± 0,2°, transmisión de datos por Bluetooth
 - DISPLAY INTUITIVO: Pantalla en color iluminada con orientación automática y resumen de todas las funciones del medidor de distancia
 - USO PROFESIONAL: Medidor láser con Bluetooth, función de marcado y sensor de inclinación de 360° para una fácil medición de los ángulos
+- DATOS TÉCNICOS: IP 54, máxima distancia de medición de hasta 50 m, clase de láser 2, exactitud de la medición ± 1,5 mm y ± 0,2°, transmisión de datos por Bluetooth
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B013WAPAM2/?tag=tolees-21)
