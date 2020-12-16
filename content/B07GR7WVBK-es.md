@@ -25,10 +25,10 @@ Ahora mismo tienes [Unidad Flash Rotatorio USB 2 0 Memoria Disco Duro Accesorio 
 
 🔎:
 
-- Sistema operativo: Windwos 98SE / ME / 2000 / XP / LinUx2.4.X MacOS.
-- Velocidad máxima de escritura: 12 (MB / s)
 - Velocidad máxima de lectura: 12 (MB / s)
-- Interfaz: USB2.0.
+- Sistema operativo: Windwos 98SE / ME / 2000 / XP / LinUx2.4.X MacOS.
 - Disco Flash USB de 1 Pieza
+- Interfaz: USB2.0.
+- Velocidad máxima de escritura: 12 (MB / s)
 
 [Visítala!!!](https://www.amazon.es/dp/B07GR7WVBK/?tag=tolees-21)
