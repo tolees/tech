@@ -27,8 +27,8 @@ Ahora mismo tienes [Samsung Gear Sport - Smartwatch  Tizen  768 MB de RAM  memor
 
 - El Gear Sport tiene una resistencia al agua de 5ATM o 50 metros, es decir, incluso en las profundidades registra tu actividad. Si la natación es tu deporte con Gear sport no tendrás problemas
 - Saca partido a tus ejercicios gracias a la aplicación para tu smartphone. Puedes seleccionar entre más de 60 entrenamientos y te ayudará con tus movimientos mientras mida tu ritmo cardíaco
+- Memoria 4GB + 768MB
 - Sistema Operativo Tizen OS 3.0
 - Fija tus metas de salud desde el teléfono y empieza a seguir tu progreso desde la muñeca. Con Gear Sport llevar un control y seguimiento de la ingesta de calorías es más fácil que nunca
-- Memoria 4GB + 768MB
 
 [Visítala!!!](https://www.amazon.es/dp/B076JQPY7X/?tag=tolees-21)

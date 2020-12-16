@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Nuevo Echo Dot  4.ª generación  | Altavo al 33.34 % de descuento'
-date: 2020-12-15 09:34:40
+title: 'Nuevo Echo Dot  4.ª generación  | Altavo al 50.01 % de descuento'
+date: 2020-12-16 15:40:43
 image: 'https://m.media-amazon.com/images/I/51fsVTWWlPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B084DWG2VQ-es'
-actualPrice: 39.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 39.99
+price: 29.99
 comparePrice: 59.99 EUR
 prodname: 'Nuevo Echo Dot  4.ª generación  | Altavoz inteligente con Alexa | Antracita'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084DWG2VQ/?tag=tolees-21'
-descuento: '33.34'
-average: '42.490000000000016'
+descuento: '50.01'
+average: '41.89476190476192'
 ---
 
-Ahora mismo tienes [Nuevo Echo Dot  4.ª generación  | Altavoz inteligente con Alexa | Antracita](https://www.amazon.es/dp/B084DWG2VQ/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nuevo Echo Dot  4.ª generación  | Altavoz inteligente con Alexa | Antracita](https://www.amazon.es/dp/B084DWG2VQ/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![Nuevo Echo Dot  4.ª generación  | Altavo](https://m.media-amazon.com/images/I/51fsVTWWlPL._SL200_.jpg)](https://www.amazon.es/dp/B084DWG2VQ/?tag=tolees-21)
 
