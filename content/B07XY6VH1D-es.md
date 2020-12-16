@@ -25,13 +25,13 @@ Ahora mismo tienes [SHARP PS-929 Party Speaker Boombox con función Karaoke  mic
 
 🔎:
 
-- Potenvia: 180 w
-- Bateria integrada con hasta 14 horas de duracion
-- 10 ecualizadores preajustados incluido super bass
 - Altavoz woofer 2 x 6,5 pulgadas + altavoces tweeter 2 x 2 pulgadas
+- Bateria integrada con hasta 14 horas de duracion
 - Conectividad 1 x bluetooth 2 x 6.3 mm mic in / guitar in, 1 x 3.5 mm entrada aux, 2 x uspara reproduccion o carga
-- Fución karaoke y microfono incluido
 - Espectáculo de luces multicolor con diferentes modos más luz estroboscópica
 - Shars-929 con twstrue wireless stereo – para conectar un segundo ps-929 via bluetooth
+- Fución karaoke y microfono incluido
+- Potenvia: 180 w
+- 10 ecualizadores preajustados incluido super bass
 
 [Visítala!!!](https://www.amazon.es/dp/B07XY6VH1D/?tag=tolees-21)
