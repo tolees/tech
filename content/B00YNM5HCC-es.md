@@ -25,11 +25,11 @@ Ahora mismo tienes [LG G4 - Smartphone Libre Android  Pantalla 5.5"  cámara 16 
 
 🔎:
 
-- Grabación de video a cámara lenta y formato 4k
-- Batería extraíble de larga duración de 3.000 mAh
-- Diseño con botón trasero y tapa de aspecto metálico
 - Cámara con auto enfoque láser, estabilizador y número f 1.8
 - Colores fieles a la realidad con su pantalla curva de 5,5” y resolución 4 veces hd (2560 x 1440 px)
+- Batería extraíble de larga duración de 3.000 mAh
+- Grabación de video a cámara lenta y formato 4k
+- Diseño con botón trasero y tapa de aspecto metálico
 - Modo de cámara profesional y opción de disparo en formato .raw
 
 [Visítala!!!](https://www.amazon.es/dp/B00YNM5HCC/?tag=tolees-21)
