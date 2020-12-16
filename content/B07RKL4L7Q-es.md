@@ -25,10 +25,10 @@ Tienes [SanDisk Extreme PRO SDSQXCZ-512G-GN6MA - Tarjeta de memoria microSDXC de
 
 ℹ️:
 
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos x
+- Obtén la aplicación sandisk memory zone para gestionar los archivos fácilmente (disponible en google play)
 - Hasta 170 mb/s de velocidad de lectura y 90 mb/s de velocidad de escritura para disparar y transferir rápido
 - Ideal para smartphones y tabletas android, cámaras de acción y drones
-- Obtén la aplicación sandisk memory zone para gestionar los archivos fácilmente (disponible en google play)
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos x
 - Compatibilidad 4k uhd con uhs speed class 3 (u3) y video speed class 30 (v30)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RKL4L7Q/?tag=tolees-21)
