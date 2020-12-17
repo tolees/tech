@@ -25,8 +25,8 @@ Ahora mismo tienes [Darksiders Genesis - Collector s Edition - PS4](https://www.
 
 🔎:
 
-- Steelbook de alta calidad; stickers
 - Standard Edition Game
+- Steelbook de alta calidad; stickers
 - Caja Premium; figura de 23 cm
 - Libro de arte; banda sonora oficial
 
