@@ -25,10 +25,10 @@ Está [Dymo Label Manager - Impresora de etiquetas](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Recarga su batería a través de conexión USB
-- Compatible con PC y Mac
-- Tamaño de cinta: 9 mm
 - Máximo ancho de etiqueta: 12 mm
+- Tamaño de cinta: 9 mm
+- Recarga su batería a través de conexión USB
 - Con función "Plug & Play"
+- Compatible con PC y Mac
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004G6NVKU/?tag=tolees-21)
