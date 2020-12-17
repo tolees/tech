@@ -26,7 +26,7 @@ Está [Western Digital My Book Disco Duro Externo de Sobremesa de 3 TB  3.5"  US
 ℹ️:
 
 - Protección mediante contraseña con cifrado de hardware
-- Connexion USB 3.0, compatible con USB 2.0
 - Hasta 8 TB de capacidad
+- Connexion USB 3.0, compatible con USB 2.0
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0S9M0Y/?tag=tolees-21)
