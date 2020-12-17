@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.44 % en TP-Link TL-WA801N - Punto de Acceso inal'
-date: 2020-12-14 19:26:51
+date: 2020-12-17 14:19:55
 image: 'https://m.media-amazon.com/images/I/312WWXEplgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Tienes [TP-Link TL-WA801N - Punto de Acceso inalámbrico/Extensor de Red WiFi  N
 
 ℹ️:
 
-- Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
-- Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
-- Se envía en un embalaje certificado
-- Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
 - Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
+- Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
+- Se envía en un embalaje certificado
 - Fácil configuración para una conexión segura WPA
+- Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
+- Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0873SLW3V/?tag=tolees-21)
