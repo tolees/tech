@@ -27,8 +27,8 @@ Ahora mismo tienes [HooToo Memoria USB para iPhone y iPad 256GB  [Certificado MF
 
 - 【DISEÑO DE ALEACIÓN】-- Disfrute de una protección duradera y superior con el diseño de aleación de aluminio que es más pequeño que la llave de la casa y sólo pesa 0,25oz
 - 【CERTIFICADO APP MFI】-- 100% compatible con el conector Lightning del iPhone y iPad; ★ La extensión de 4mm EXTRA significa que puede cargarse incluso con la FUNDA de móvil sin necesitar quitarla
+- 【ALMACENAMIENTO INSTANTÁNEO】-- Plug-and-Play, agregue 256 GB de almacenamiento a su iPhone / iPad, tome más fotos, disfrute de videos más largos y haga más de todo lo que le gusta. ► No se puede transferir los archivos guardados en iTunes o descargados desde una tercera APP a la unidad flash, porque están protegidos por DRM (Digital Rights Management)
 - 【AUMENTO DE VELOCIDAD DE 300%】-- La memoria USB 3.0 transfiere fotos, música, películas desde y hacia su ordenador a una velocidad de lectura de hasta 80MB/s y velocidade de escritura de hasta 30MB/s. ► Ofrecemos una 【garantía de 18 meses + 12 meses de extensión】por una compra sin preocupaciones
 - 【APLICACIÓN INTELIGENTE】-- La aplicación gratuita iPlugmate es compatible con la mayoría de los formatos de vídeos y músicas para que pueda transmitir directamente desde la unidad. ➤ Nota: por favor descargar la aplicación primero y después enchufar el pendrive al móvil
-- 【ALMACENAMIENTO INSTANTÁNEO】-- Plug-and-Play, agregue 256 GB de almacenamiento a su iPhone / iPad, tome más fotos, disfrute de videos más largos y haga más de todo lo que le gusta. ► No se puede transferir los archivos guardados en iTunes o descargados desde una tercera APP a la unidad flash, porque están protegidos por DRM (Digital Rights Management)
 
 [Visítala!!!](https://www.amazon.es/dp/B07T13FDXD/?tag=tolees-21)
