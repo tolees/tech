@@ -26,8 +26,8 @@ Está [Estuche Protector PowerA para Nintendo Switch o Nintendo Switch Lite: Ani
 ℹ️:
 
 - la solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para seis tarjetas de juego
-- Funda de transporte de Nintendo Switch con ía limitada de 2.años: visita
 - Funda de juego con licencia oficial para Nintendo Switch y Nintendo Switch Lite
+- Funda de transporte de Nintendo Switch con ía limitada de 2.años: visita
 - Funda exterior sólida con asa de caucho y cremalleras dobles resistentes
 - Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera Para ambos sistemas
 
