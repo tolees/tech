@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Ironclaw Wireless RGB - Ratón Re al 25.00 % de descuento'
-date: 2020-12-16 11:37:12
+date: 2020-12-17 13:58:03
 image: 'https://m.media-amazon.com/images/I/317bv1s3ibL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Corsair Ironclaw Wireless RGB - Ratón Recargable Óptico pa
 
 🔎:
 
+- Comodidad cuando importa: una forma esculpida específicamente para agarre de palma y manos grandes
 - Sensor óptico preciso para juegos: un sensor personalizado Pixart PMW3391 de 18.000 ppp nativos ofrecen una personalización completa de la sensibilidad
 - Diez botones totalmente programables: personalice su modo de juego con potentes macros y reasignaciones de teclas que brindan una ventaja en el juego
-- Comodidad cuando importa: una forma esculpida específicamente para agarre de palma y manos grandes
 - Conmutadores Omron resistentes: resistencia para más de 50 millones de clics
 - Tres maneras de jugar: conéctelo con una tecnología ultrarrápida, SLIPSTREAM CORSAIR WIRELESS inferior a 1 ms, Bluetooth de baja latencia o cableado USB
 

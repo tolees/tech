@@ -1,28 +1,29 @@
 ---
 layout: post
-title: 'YI Camara Vigilancia 1080p Camara IP Cam al 33.34 % de descuento'
-date: 2020-12-10 19:15:12
+title: 'YI Camara Vigilancia 1080p Camara IP Cam al 50.01 % de descuento'
+date: 2020-12-17 13:18:43
 image: 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01MR82BSA-es'
-actualPrice: 39.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 39.99
+price: 29.99
 comparePrice: 59.99 EUR
 prodname: 'YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21'
-descuento: '33.34'
+descuento: '50.01'
+average: '33.186'
 ---
 
-Ahora mismo tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![YI Camara Vigilancia 1080p Camara IP Cam](https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg)](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - ALMACENAMIENTO EN LA NUBE: Almacenamiento gratuito de 7 días en YI Cloud de todos los videos de la actividad detectada con cifrado avanzado end-to-end para una privacidad completa. - ALMACENAMIENTO LOCAL: La cámara también admite tarjetas Micro SD con capacidad de almacenamiento desde 4 hasta 64 GB.
 - MONITORIZACIÓN AUTOMÁTICA - MODO PANORÁMICO: la cámara de seguridad controlará automáticamente un área de 360 °, girando 20 ° cada 10 segundos. - MODO FAVORITOS: el usuario también puede marcar hasta 8 zonas favoritas para navegar con mayor frecuencia. Ideal para grandes espacios.
