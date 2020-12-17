@@ -25,10 +25,10 @@ Está [Pentax F3.5-5.6 DFA ED DC WR HD - Objetivo para cámara  28-105 mm  Color
 
 ℹ️:
 
-- Excelente descripción de imagen, que complementa el rendimiento de la nueva cámara digital full-frame
-- Construcción resistente a las inclemencias del tiempo.
-- Un objetivo versátil y manejable, que puede ser el compañero perfecto para la nueva Pentax K-1
-- En sus 15 elementos en 11 grupos ópticos, incorpora dos elementos asféricos de alta precisión, un elemento ED (extra baja dispersión) y un elemento de dispersión anómala.
 - Sistema Quick-Shift Focus, que permite enfocar de forma manual después de que el sujeto esté enfocado por el sistema AF
+- Construcción resistente a las inclemencias del tiempo.
+- En sus 15 elementos en 11 grupos ópticos, incorpora dos elementos asféricos de alta precisión, un elemento ED (extra baja dispersión) y un elemento de dispersión anómala.
+- Un objetivo versátil y manejable, que puede ser el compañero perfecto para la nueva Pentax K-1
+- Excelente descripción de imagen, que complementa el rendimiento de la nueva cámara digital full-frame
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BWE90TY/?tag=tolees-21)
