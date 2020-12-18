@@ -25,8 +25,8 @@ Ahora mismo tienes [HyperX Predator - Memoria RAM de 16 GB  DDR4  Kit 2 x 8 GB  
 
 🔎:
 
+- Disipador de calor de aluminio de color negro intenso
 - Probada al 100 % en fábrica a elevadas velocidades
 - Compatible con XMP de Intel y AMD Ryzen
-- Disipador de calor de aluminio de color negro intenso
 
 [Visítala!!!](https://www.amazon.es/dp/B01GCWQ4JA/?tag=tolees-21)
