@@ -25,15 +25,15 @@ Ahora mismo tienes [Apple Watch Series 5  GPS + Cellular  44 mm  Acero Inoxida
 
 🔎:
 
+- Pantalla un 30% más grande
 - Pantalla Retina siempre activa
+- Altitud
+- Apto para nadar
+- Detección de caídas
 - Emergencia SOS con llamadas nacionales e internacionales
 - App ECG
+- Sensores eléctricos y ópticos de frecuencia cardiaca
 - Brújula integrada
 - GPS + Cellular
-- Pantalla un 30% más grande
-- Apto para nadar
-- Altitud
-- Detección de caídas
-- Sensores eléctricos y ópticos de frecuencia cardiaca
 
 [Visítala!!!](https://www.amazon.es/dp/B07XS7VKFY/?tag=tolees-21)
