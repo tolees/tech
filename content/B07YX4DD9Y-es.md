@@ -27,8 +27,8 @@ Ahora mismo tienes [HUAWEI Wi-Fi Q2 Pro  1 Base + 1 Satélite  - Sistema de Wi-F
 
 - Mediante el chip plc gigabit de huawei y la tecnología plc turbo, huawei wi-fi q2 pro (1 base + 1 satélite) admite banda ancha de hasta 200 mbps en cada habitación de tu hogar
 - Con la aplicación huawei smart home, puede ver qué sucede, establecer límites de velocidad y permitir conexiones de invitados, establecer el tiempo de wi-fi, pausar la conectividad en los dispositivos de tus hijos y mucho más
-- Fácil de configurar; solamente tienes que conectar el router base; cuando esté conectado el satélite, se sincronizará la red wifi y la contraseña sin ninguna configuración adicional
-- La base y el router satélite utilizan la tecnología gigabit, que te permite a ti y a tu familia disfrutar de wi-fi de alta velocidad en cada rincón de tu hogar
 - Huawei wi-fi q2 pro puede cambiar automáticamente entre redes wi-fi con mejor cobertura; disfruta de una red wi-fi para todas sus necesidades permitiendo la conexión de hasta 64 dispositivos en cada router
+- La base y el router satélite utilizan la tecnología gigabit, que te permite a ti y a tu familia disfrutar de wi-fi de alta velocidad en cada rincón de tu hogar
+- Fácil de configurar; solamente tienes que conectar el router base; cuando esté conectado el satélite, se sincronizará la red wifi y la contraseña sin ninguna configuración adicional
 
 [Visítala!!!](https://www.amazon.es/dp/B07YX4DD9Y/?tag=tolees-21)
