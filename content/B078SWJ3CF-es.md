@@ -27,8 +27,8 @@ Tienes [SanDisk Extreme SSD portátil 500GB - hasta 550MB/s Velocidad de Lectura
 
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
 - Para usuarios de PC y Mac
-- Robusta, resistente al agua y al polvo, certificación IP-55
 - Núcleo de estado sólido resistente a golpes para una optima durabilidad
 - Compacta y de bolsillo
+- Robusta, resistente al agua y al polvo, certificación IP-55
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SWJ3CF/?tag=tolees-21)
