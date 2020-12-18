@@ -25,9 +25,9 @@ Está [Conceptronic CNBSLOCK15 - Candado de seguridad para ordenador portátil  
 
 ℹ️:
 
+- modelo: CNBCOMLOCK15
 - 1.5 metros, longitud del cable
 - 2 llaves
 - Plata
-- modelo: CNBCOMLOCK15
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BBV07NM/?tag=tolees-21)
