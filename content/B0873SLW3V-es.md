@@ -25,10 +25,10 @@ Tienes [TP-Link TL-WA801N - Punto de Acceso inalámbrico/Extensor de Red WiFi  N
 
 ℹ️:
 
-- Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
 - Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
-- Se envía en un embalaje certificado
 - Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
+- Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
+- Se envía en un embalaje certificado
 - Fácil configuración para una conexión segura WPA
 - Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
 
