@@ -25,8 +25,8 @@ Tienes [Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto  Bluetooth  Ext
 
 ℹ️:
 
-- Hasta 6 horas de duración de la batería
 - Resistente al agua IPX5 para un uso sin preocupaciones
+- Hasta 6 horas de duración de la batería
 - Extra Bass para un sonido rotundo y profundo
 - Diseño compacto y portátil
 
