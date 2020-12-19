@@ -25,9 +25,9 @@ Está [Audio-Technica ATHDSR7BT Auricular - Auriculares  Supraaural  Diadema  In
 
 ℹ️:
 
+- Incluye cable de carga USB 2.0
 - Batería de litio polímero recargable de 3.7 V integrada
 - Sensibilidad 100 dB/mW e impedancia 35 ohmios
-- Incluye cable de carga USB 2.0
 - Rango de frecuencia de 5 - 40000 Hz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XY4TSGP/?tag=tolees-21)
