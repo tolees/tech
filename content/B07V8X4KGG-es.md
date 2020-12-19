@@ -25,10 +25,10 @@ Está [Sony SEL35F18F - Objetivo de Montura E  Prime Estándar F1.8  Seguimiento
 
 ℹ️:
 
+- Seguimiento af silencioso y fiable para vídeos y fotos
+- Objetivo prime estándar con una rápida apertura f1,8
+- Un elemento asférico para obtener una alta resolución en todo el encuadre
 - Apertura circular de 9 láminas para un suave bokeh
 - Diseño resistente al polvo y la humedad
-- Seguimiento af silencioso y fiable para vídeos y fotos
-- Un elemento asférico para obtener una alta resolución en todo el encuadre
-- Objetivo prime estándar con una rápida apertura f1,8
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21)
