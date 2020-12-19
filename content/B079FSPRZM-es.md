@@ -26,9 +26,9 @@ Está [Trust Gaming GXT 160 Ture - Ratón Gaming RGB con 6 Botones programables 
 ℹ️:
 
 - Software avanzado para programar botones, macros y luces
-- Almohadillas de deslizamiento metálicas suaves con baja fricción
 - Iluminación RGB personalizable
-- Factor de forma ergonómica
 - Sensor óptico de alta precisión de 4000 PPP. 6 botones programables.
+- Almohadillas de deslizamiento metálicas suaves con baja fricción
+- Factor de forma ergonómica
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079FSPRZM/?tag=tolees-21)
