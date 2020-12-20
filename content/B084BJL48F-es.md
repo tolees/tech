@@ -26,9 +26,9 @@ Tienes [Acer ED270R P - Monitor Curvo de 27" Full HD  con ZeroFrame y FreeSync  
 ℹ️:
 
 - Tiempo de respuesta de tan solo 5 ms que te permite reaccionar y responder rápido a lo que se muestre en la pantalla
-- Con AMD Radeon FreeSync para que te despidas de los saltos y del tearing
-- Línea EDO: Monitores curvos diseñados para ofrecer una experiencia gaming envolvente
 - Pantalla de 27 pulgadas y resolución Full HD de 1920x1080 que permite visualizar imágenes más claras y nítidas
 - Diseño ZeroFrame con pantalla curva, para mayor disfrute y visibilidad
+- Con AMD Radeon FreeSync para que te despidas de los saltos y del tearing
+- Línea EDO: Monitores curvos diseñados para ofrecer una experiencia gaming envolvente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084BJL48F/?tag=tolees-21)
