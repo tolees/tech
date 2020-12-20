@@ -25,9 +25,9 @@ Está [Rii Alfombrilla para ratón XXL Profesional  90 x 40 cm . Base Antidesliz
 
 ℹ️:
 
-- Ideal para el trabajo diario y para jugadores profesionales. Superficie tratada y optimizada para tecnología láser y óptica; y ratones con trackball. Su superficie, con tratamiento especial, aumenta la precisión y velocidad del puntero.
-- Parte inferior antideslizante y semiflexible, para aumentar el agarre y la sujección estable en superficies lisas.
 - Nota: Debido al tratamiento superficial y al caucho de fabricación, la limpieza de la almohadilla debe ser con productos naturales, sin sustancias químicas que modifiquen su estructura ni le añadan olores ajenos al caucho natural.
+- Parte inferior antideslizante y semiflexible, para aumentar el agarre y la sujección estable en superficies lisas.
+- Ideal para el trabajo diario y para jugadores profesionales. Superficie tratada y optimizada para tecnología láser y óptica; y ratones con trackball. Su superficie, con tratamiento especial, aumenta la precisión y velocidad del puntero.
 - Dimensiones: 900 x 400 x 3 mm;Material: Caucho (certificado por RoHS y REACH); Fabricación robusta y extremadamente duradera.
 - Bordes cosidos para soportar una mayor abrasión por roce y aguantar el desgaste por uso.
 
