@@ -25,10 +25,10 @@ Está [Belkin soporte de smartphone para posavasos del coche  iPhone 12  12 Pr
 
 ℹ️:
 
-- La abertura de la base del soporte evita que el cable de carga se enrolle
-- Monta el teléfono en el coche con total seguridad
 - La base se despliega para adaptarse al soporte para portavasos de cualquier vehículo
-- Compatible con los smartphones de hasta 3,3 pulgadas de ancho
 - Gira 360° y se inclina en 90 grados para colocar el dispositivo en plano
+- Compatible con los smartphones de hasta 3,3 pulgadas de ancho
+- Monta el teléfono en el coche con total seguridad
+- La abertura de la base del soporte evita que el cable de carga se enrolle
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00NL7GTXG/?tag=tolees-21)
