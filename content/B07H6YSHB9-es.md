@@ -26,9 +26,9 @@ Está [HP Sprocket 200 - Impresora fotográfica portátil  tecnología de impres
 ℹ️:
 
 - Conectividad bluetooth: conecta tu móvil fácilmente via Bluetooth, tú y hasta 5 de tus amigos os podréis conectar e imprimir fotos a la vez
-- Imprime tus fotos favoritas desde tu móvil y redes sociales gracias a la aplicación gratuita HP Sprocket
 - Con la aplicación Hp Sprocket personaliza tus fotos antes de imprimirlas: añade filtros, emoticonos…
 - Impresora compacta: aproximadamente con el mismo tamaño que un teléfono móvil, esta impresora de fotos portátil irá contigo a cualquier parte
 - Escanea contenido interactivo: escanea las fotos ya impresas para ver colecciones de fotos y desbloquear contenido interactivo
+- Imprime tus fotos favoritas desde tu móvil y redes sociales gracias a la aplicación gratuita HP Sprocket
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H6YSHB9/?tag=tolees-21)
