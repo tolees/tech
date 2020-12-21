@@ -26,9 +26,9 @@ En este momento está [SanDisk Extreme SSD portátil 500GB - hasta 550MB/s Veloc
 🔎:
 
 - Save time moving hi-res photos and videos fast. Operating temperature: 0ºC to 35ºC
-- High-speed transfers with up to 550MB/s read speeds
 - Rugged, water- and dust-resistant1 (IP-55 rated). Compatible with Windows 10, Windows 8, Windows 7, Windows Vista and Mac OS 10.4+
 - Compact and pocket-sized
 - Shock-resistant solid state core for greater durability
+- High-speed transfers with up to 550MB/s read speeds
 
 [Aquí!!!](https://www.amazon.es/dp/B078SWJ3CF/?tag=tolees-21)
