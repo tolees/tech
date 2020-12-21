@@ -25,8 +25,8 @@ Tienes [WD Elements Desktop - Disco duro externo de sobremesa de 6 TB  color neg
 
 🔎:
 
-- Fácil uso
-- Compatible Windows
 - Un plus de capacidad para tus archivos
+- Compatible Windows
+- Fácil uso
 
 [Comprar!!!](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21)
