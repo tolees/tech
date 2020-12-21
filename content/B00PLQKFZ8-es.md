@@ -27,8 +27,8 @@ En este momento está [Playstation 1 Messengerbag [Importación Alemana]](https:
 
 - 100% poliuretano
 - + [Effekte/Besonderheiten] +
-- Regular
-- Playstation Bolso bandolera para Unisex
 - Gris
+- Playstation Bolso bandolera para Unisex
+- Regular
 
 [Aquí!!!](https://www.amazon.es/dp/B00PLQKFZ8/?tag=tolees-21)

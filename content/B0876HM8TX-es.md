@@ -25,9 +25,9 @@ En este momento está [Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  4
 
 🔎:
 
-- Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
 - Llena la habitación con auténtico sonido Surround de 5.1 canales
 - Reproducción de audio mediante USB
+- Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
 - Modos de sonido para películas y música mejoradas
 - Conectividad Bluetooth sencilla para transmisión de música
 
