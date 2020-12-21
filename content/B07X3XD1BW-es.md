@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony NWA55L - Reproductor de Audio Walkman  16 GB  Hi-Res Au
 
 🔎:
 
-- Autténtico sonido hi-res
-- Hasta 45h de reproducción (mp3 128kbps)
 - 16gb de memoria interna y 1 ranura para sd
-- Pantalla táctil de 3.1"
+- Hasta 45h de reproducción (mp3 128kbps)
 - Tecnología bluetooth con ldac para preservar la calidad de sonido inalámbrica
+- Pantalla táctil de 3.1"
+- Autténtico sonido hi-res
 
 [Visítala!!!](https://www.amazon.es/dp/B07X3XD1BW/?tag=tolees-21)
