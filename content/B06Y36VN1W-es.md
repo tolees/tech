@@ -25,7 +25,7 @@ Está [Estilo Bohemio Tela De Lona Funda Blanda Bolso Sleeve Para Ordenador Port
 
 ℹ️:
 
-- La lona exterior Características de tela una capa de espuma de relleno de poliéster y el revestimiento de franela de alta densidad para la protuberancia y absorción de impactos y protección de su equipo de arañazos accidentales; Tamaño:. 39.0 * 27.5 * 2.0cm
 - Los ajustes la mayoría de 15,6 pulgadas portátil / Ultrabook / Notebooks (Apple / Macbook Pro / iPad Pro / Acer / Asus / Dell / Fujitsu / Lenovo / HP / Samsung / Sony / Toshiba, etc.). Puede no ajustarse bien todos los equipos debido a las variaciones en el tamaños de diferente forma models.Not a Dell Alianeware etc; de carga superior doble cremallera de la bolsa se desliza suavemente y permite un cómodo acceso a su computadora portátil;. lavado de manos suave con la temperatura del agua por debajo de 30 grados / no planchar / no utilizar lejía.
+- La lona exterior Características de tela una capa de espuma de relleno de poliéster y el revestimiento de franela de alta densidad para la protuberancia y absorción de impactos y protección de su equipo de arañazos accidentales; Tamaño:. 39.0 * 27.5 * 2.0cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y36VN1W/?tag=tolees-21)
