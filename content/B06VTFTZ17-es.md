@@ -25,9 +25,9 @@ Ahora mismo tienes [Sony SEL85F18 - Teleobjetivo  teleobjetivo prime de montura 
 
 🔎:
 
+- Cristal ED con compensación de distorsión cromática
 - Teleobjetivo prime de alcance medio
 - Diseño resistente al polvo y la humedad
-- Cristal ED con compensación de distorsión cromática
 - Un motor lineal para conseguir un enfoque preciso y silencioso
 - Apertura circular de 9 láminas para un atractivo efecto de desenfoque
 
