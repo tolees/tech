@@ -25,10 +25,10 @@ En este momento está [Mini ELM327 Interfaz V2.1 Bluetooth OBD-II OBD2 Auto coch
 
 🔎:
 
-- 2.Conexión Bluetooth, baterías, Cables ni interruptores.
-- 1.Android, esfuerzo de torsión & compatible con Olmo.
-- 5.Puede usarse con un PC con una tarjeta Bluetooth.
-- 3.Ver datos vivos del motor en tu teléfono Android - Conecte a su vehículo el ECU
 - 4.Recuperar los códigos de avería (DTC) y claras luces del motor del cheque.
+- 3.Ver datos vivos del motor en tu teléfono Android - Conecte a su vehículo el ECU
+- 5.Puede usarse con un PC con una tarjeta Bluetooth.
+- 1.Android, esfuerzo de torsión & compatible con Olmo.
+- 2.Conexión Bluetooth, baterías, Cables ni interruptores.
 
 [Aquí!!!](https://www.amazon.es/dp/B00WU97RH8/?tag=tolees-21)

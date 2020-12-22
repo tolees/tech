@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG - Cargador rápido  45 W  Ep-TA84 con un 52.44 % de descuento'
-date: 2020-12-21 22:01:25
+date: 2020-12-22 22:37:21
 image: 'https://m.media-amazon.com/images/I/21iT71TrPsL._SL200_.jpg'
 comments: true
 category: ofertas
