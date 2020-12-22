@@ -25,11 +25,11 @@ Tienes [Microsoft – Wireless Mobile Mouse 3500 Negro](https://www.amazon.es/dp
 
 🔎:
 
-- Compatible con Windows y Mac
 - Con BlueTrack Technology: combina la potencia de la tecnología óptica con la precisión de la tecnología láser para poder realizar un seguimiento destacado en prácticamente cualquier superficie
-- Interruptor de encendido/apagado
-- Nano transceptor: deja conectado el nano transceptor durante tus desplazamientos o guárdalo en el ratón
-- Cómodo para ambas manos
 - Pila con duración de hasta 8 meses
+- Nano transceptor: deja conectado el nano transceptor durante tus desplazamientos o guárdalo en el ratón
+- Interruptor de encendido/apagado
+- Cómodo para ambas manos
+- Compatible con Windows y Mac
 
 [Comprar!!!](https://www.amazon.es/dp/B0096M4QTY/?tag=tolees-21)
