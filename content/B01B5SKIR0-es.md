@@ -25,10 +25,10 @@ Tienes [Kingston KCP3L16SS8/4 - Memoria RAM para portátil de 4 GB  1600 MHz SOD
 
 ℹ️:
 
-- Factor de forma: 204-pin SO-DIMM
 - Memoria interna: 4 GB
+- Tipo de memoria interna: DDR3L
 - Velocidad de memoria del reloj: 1600 MHz
 - Voltaje de memoria: 1.35 V
-- Tipo de memoria interna: DDR3L
+- Factor de forma: 204-pin SO-DIMM
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B5SKIR0/?tag=tolees-21)

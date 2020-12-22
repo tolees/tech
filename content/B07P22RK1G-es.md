@@ -26,8 +26,8 @@ Está [Kingston A400 SSD SA400M8/240G - Disco duro sólido interno M.2 2280 240G
 ℹ️:
 
 - Capacidad de la memoria: 240 GB
-- Fiable y resistente
-- Velocidad de grabación: 350 MB/s
 - Rendimiento óptimo para la transferencia de archivos
+- Velocidad de grabación: 350 MB/s
+- Fiable y resistente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P22RK1G/?tag=tolees-21)
