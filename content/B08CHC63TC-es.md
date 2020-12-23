@@ -25,10 +25,10 @@ En este momento está [Pack 2 en 1 de Ratón y Alfombrilla Marca Mr. Wonderful d
 
 🔎:
 
-- Heart Mouse and Mat Pack
-- Fun and original design.
-- Non-slip and sticky mousepad for desktops of all kinds.
-- Wireless battery mouse with USB receiver
 - With optical infrared for accuracy, scroller and on/off button.
+- Non-slip and sticky mousepad for desktops of all kinds.
+- Fun and original design.
+- Heart Mouse and Mat Pack
+- Wireless battery mouse with USB receiver
 
 [Aquí!!!](https://www.amazon.es/dp/B08CHC63TC/?tag=tolees-21)
