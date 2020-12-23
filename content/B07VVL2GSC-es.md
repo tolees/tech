@@ -25,10 +25,10 @@ Ahora mismo tienes [SUMGOTT Antena WiFi 1200Mbps WiFi USB Adaptador 5.8Ghz/2.4Gh
 
 🔎:
 
-- ❤ 【GARANTÍA】warranty Garantía gratuita de 18 meses y soporte técnico de por vida. Si tiene alguna pregunta, comuníquese con nuestro equipo profesional de servicio posventa: sumgottservicer@outlook.com
+- ❤ 【ANTENA DE ALTA GANANCIA】 Una antena wifi de alta ganancia de 5dBi mejora en gran medida la potencia de la señal de recepción y transmisión del adaptador USB
+- ❤ 【Mayor cobertura WiFi】 Velocidad de Wi-Fi de hasta 1200Mbps en bandas de 5.8GHz (867Mbps) y 2.4GHz (300Mbps). La banda dual reduce la interferencia para mejores conexiones a más dispositivos Wi-Fi. Haga que la distancia no sea un problema.
 - ❤ 【COMPATIBILIDAD AMPLIA】 - Compatible con Windows XP / Vista / 7/8/10, Mac OSX. Puede ser necesaria la instalación del controlador, solo consígalo: https://www.realtek.com/zh-tw/component/zoo/advanced-search/235?Itemid=283
 - ❤ 【EXCELENTE VELOCIDAD DE WI-FI】 Actualiza las PC a 802.11ac, la última y más potente tecnología Wi-Fi, 3 veces más rápido que las velocidades inalámbricas N. 5G WIFI Ideal para juegos en línea y transmisión de video HD sin interrupciones.
-- ❤ 【Mayor cobertura WiFi】 Velocidad de Wi-Fi de hasta 1200Mbps en bandas de 5.8GHz (867Mbps) y 2.4GHz (300Mbps). La banda dual reduce la interferencia para mejores conexiones a más dispositivos Wi-Fi. Haga que la distancia no sea un problema.
-- ❤ 【ANTENA DE ALTA GANANCIA】 Una antena wifi de alta ganancia de 5dBi mejora en gran medida la potencia de la señal de recepción y transmisión del adaptador USB
+- ❤ 【GARANTÍA】warranty Garantía gratuita de 18 meses y soporte técnico de por vida. Si tiene alguna pregunta, comuníquese con nuestro equipo profesional de servicio posventa: sumgottservicer@outlook.com
 
 [Visítala!!!](https://www.amazon.es/dp/B07VVL2GSC/?tag=tolees-21)
