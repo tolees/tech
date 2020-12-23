@@ -25,10 +25,10 @@ Ahora mismo tienes [Cargador Original Huawei con Cable Type-C para P9 P10 Plus M
 
 🔎:
 
-- Quick Fast Charger carga rápida
-- Con cable Type-C
+- En paquete oficial original
 - Envío rápido y seguro
 - Cargador completo original huawei
-- En paquete oficial original
+- Quick Fast Charger carga rápida
+- Con cable Type-C
 
 [Visítala!!!](https://www.amazon.es/dp/B07BCFYZ17/?tag=tolees-21)
