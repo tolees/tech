@@ -25,10 +25,10 @@ Tienes [Rii K12 Mini - Teclado con touchpad  WiFi 2.4 GHz  USB  Acero Inoxidable
 
 ℹ️:
 
-- 12-meter wireless range
 - Batería recargable incorporada del Li-ion con dos modos de la función auto del sueño (3 minutos y 2 horas) para ahorrar la energía que chasca cualquier llave para activar la gama sin hilos de 12 metros
 - Teclado inalámbrico ultra delgado y mini tamaño 2.4GHz con TouchpadPerfect para los PCs y Smart TVs
-- X-estilo teclas silenciosas y Multi-dedo touchpad de 3.8 pulgadas
 - Cubierta trasera de aluminio de alta resistencia de la aviación con lustre metálico encantador
+- X-estilo teclas silenciosas y Multi-dedo touchpad de 3.8 pulgadas
+- 12-meter wireless range
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZCFTT00/?tag=tolees-21)
