@@ -27,8 +27,8 @@ Tienes [HUAWEI P40 lite 5G - Smartphone con pantalla FullView de 6.5"  Cuádrupl
 
 - Rendimiento sobresaliente y 5G: HUAWEI P40 lite 5G incorpora el innovador procesador Kirin 820 de 7 nm, que mejora el procesamiento de imágenes y la eliminación de ruido en fotos y vídeos. Disfruta de la nueva era 5G
 - Con HUAWEI P40 lite 5G disfruta de la nueva HUAWEI AppGallery y HUAWEI Mobile Services. HUAWEI P40 lite 5G no contiene los servicios de Google (GMS) preinstalados tales como Google Play Store, Gmail, YouTube, Google Maps, etc.
-- Batería de carga rápida y de larga duración: la IA hace un mejor uso de la batería de 4000 mAh para lograr un gran rendimiento y un mayor tiempo de trabajo. Gracias a la carga rápida HUAWEI de 40 W, puedes disfrutar de carga segura y rápida
 - Incluye de regalo unos auriculares Huawei FreeBuds 3i valorados en 99€
+- Batería de carga rápida y de larga duración: la IA hace un mejor uso de la batería de 4000 mAh para lograr un gran rendimiento y un mayor tiempo de trabajo. Gracias a la carga rápida HUAWEI de 40 W, puedes disfrutar de carga segura y rápida
 - Cuádruple Cámara IA de 64 MP: cámara principal de 64 MP (lente gran angular), 8 MP (lente ultra gran angular), 2 MP (lente macro) + 2 MP (sensor Bokeh)
 - Vídeo Dual View: cuenta una historia a través de un video con pantalla dividida capturando una escena más amplia, mientras que con la cámara principal trasera puede hacer zoom de hasta 6x. ¡Tú día a día con un toque cinematográfico!
 

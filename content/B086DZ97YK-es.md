@@ -25,14 +25,14 @@ Ahora mismo tienes [realme X50 Pro – Smartphone 5G de 6.44”  12GB RAM + 256G
 
 🔎:
 
-- Pantalla de 6.44” Super AMOLED de 90Hz
-- Tecnología 5G
-- 2 años de garantía del fabricante (ES)
-- Sistema de enfriamiento de vapor
 - Altavoces estéreo duales Dolby Atmos
+- Batería de 4200mAh con carga SuperDart de 65W
+- Tecnología 5G
+- Sistema de enfriamiento de vapor
 - Cuádruple Cámara AI de 64MP, zoom 20X
+- 2 años de garantía del fabricante (ES)
+- Pantalla de 6.44” Super AMOLED de 90Hz
 - Procesador Qualcomm Snapdragon 865
 - Móvil compatible con Portugal
-- Batería de 4200mAh con carga SuperDart de 65W
 
 [Visítala!!!](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21)

@@ -25,11 +25,11 @@ Está [ASUS ROG Strix G15 G512LV-HN090 - Portátil Gaming de 15.6" FullHD 144Hz 
 
 ℹ️:
 
-- Procesador Intel Core i7-10875H (8 Núcleos, 16 Subprocesos, Caché: 16 MB SmartCache, 2.30 GHz hasta 5.10 GHz, 64-bit)
-- Sistema operativo Windows 10 Home
-- Pantalla de 15.6" FullHD (1920x1080) de 144Hz
-- Memoria RAM de 16GB (8GBx2) DDR4 2933MHz
-- Tarjeta gráfica NVIDIA GeForce RTX-2060 de 6GB GDDR6 VRAM
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe 3.0
+- Pantalla de 15.6" FullHD (1920x1080) de 144Hz
+- Tarjeta gráfica NVIDIA GeForce RTX-2060 de 6GB GDDR6 VRAM
+- Sistema operativo Windows 10 Home
+- Procesador Intel Core i7-10875H (8 Núcleos, 16 Subprocesos, Caché: 16 MB SmartCache, 2.30 GHz hasta 5.10 GHz, 64-bit)
+- Memoria RAM de 16GB (8GBx2) DDR4 2933MHz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08DNKJ6PK/?tag=tolees-21)
