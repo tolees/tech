@@ -25,10 +25,10 @@ En este momento está [Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DV
 
 🔎:
 
-- font-weight:bold;
 - margin-bottom: 0.3em;
-- font-size:1.4em;
+- font-weight:bold;
 - margin-top:0.6em;
+- font-size:1.4em;
 - Top-Ausstattung!.ITSs .ITSg{
 
 [Aquí!!!](https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21)
