@@ -25,7 +25,7 @@ Tienes [OnePlus 6 - Smartphone de 6.22"  full optic AMOLED  procesador Snapdrago
 
 ℹ️:
 
-- Memoria de 8GB RAM + 256GB ROM
 - Procesador Snapdragon 845
+- Memoria de 8GB RAM + 256GB ROM
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5PJBRC/?tag=tolees-21)
