@@ -26,8 +26,8 @@ Ahora mismo tienes [Sony XAV-AX1000 - Reproductor 2DIN para coche  Apple CarPlay
 🔎:
 
 - EXTRABASS añade potencia a los graves
+- Botón giratorio de volumen para un control sencillo
 - Cámara de visión trasera para aparcar con facilidad
 - Crea altavoces virtuales en el salpicadero con el organizador dinámico de sonido
-- Botón giratorio de volumen para un control sencillo
 
 [Visítala!!!](https://www.amazon.es/dp/B07GLTVT62/?tag=tolees-21)

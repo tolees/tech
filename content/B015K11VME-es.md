@@ -27,8 +27,8 @@ Está [KLIM™ Voice Micrófono USB con Base para Ordenador - Micro de Escritori
 
 - ✔ Micrófono para escritorio o de mesa para PC, con gran sensibilidad. Consta de un filtro de audio patentado para eliminar los ruidos y centrarse únicamente en la voz.
 - ✔ Micrófono USB ideal para juegos, conversaciones por Skype y grabaciones de audio. No es compatible con Xbox.
+- ✔ Simplemente conecte el micrófono y vea cómo funciona! No requiere la instalación de ningún software.
 - ✔ El brazo del micrófono es movible. Total control del volumen con sólo un botón. Botón adicional para silenciar el micrófono si es necesario.
 - ✔ Está diseñado en metal y plástico reforzado, muy sólido y duradero. Base muy estable. Contiene dos luces LED.
-- ✔ Simplemente conecte el micrófono y vea cómo funciona! No requiere la instalación de ningún software.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015K11VME/?tag=tolees-21)
