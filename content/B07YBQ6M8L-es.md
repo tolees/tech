@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Flip Essential - altavoz portátil co con un 30.99 % de descuento'
-date: 2020-12-21 16:28:33
+date: 2020-12-24 21:40:53
 image: 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [JBL Flip Essential - altavoz portátil con Bluetooth resi
 
 🔎:
 
-- Resistente al agua según la clase de protección IPX7
-- 20 horas de reproducción
 - Potencia de salida total 30W
+- 20 horas de reproducción
+- Resistente al agua según la clase de protección IPX7
 - Tiene un acabado elegante con un material de tela duradero
 - Transmisión inalámbrica a través de Bluetooth
 

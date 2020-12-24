@@ -26,11 +26,11 @@ Tienes [Trust 17866 - Base de refrigeración para Ordenador portátil Universal 
 ℹ️:
 
 - Refrigera el ordenador con mayor nivel de eficacia y protege su mobiliario o piernas del calor
-- Diseño ajustable a 8 niveles que permite levantar e inclinar la pantalla y el teclado de su ordenador portátil para mayor comodidad
 - Soporte de ordenador portátil con dos ventiladores silenciosos integrados, que le permite adoptar una posición cómoda mientras escribe y protege frente a sobrecalentamiento
-- El enchufe y el cable USB pueden colocarse dentro del soporte cuando no se estén utilizando
-- Protectores de caucho para evitar que el ordenador se deslice y se raye
 - Ventiladores alimentados por USB: no requiere conexión a la corriente eléctrica
+- Diseño ajustable a 8 niveles que permite levantar e inclinar la pantalla y el teclado de su ordenador portátil para mayor comodidad
 - Ideal para cualquier ordenador portátil, netbook o MacBook con tamaños de pantalla de hasta 16"
+- Protectores de caucho para evitar que el ordenador se deslice y se raye
+- El enchufe y el cable USB pueden colocarse dentro del soporte cuando no se estén utilizando
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21)
