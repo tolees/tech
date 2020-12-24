@@ -25,14 +25,14 @@ Ahora mismo tienes [Nikon Z50 - Cámara DX Mirrorless  11 FPS  Vídeo 4K  Pantal
 
 🔎:
 
-- Los puntos AF en el sensor cubren aproximadamente el 90% del fotograma de forma horizontal y vertical, para así obtener una adecuada nitidez de borde a borde
-- Fotos adecuadamente enfocadas y vídeos 4K a su alcance para realizar creaciones
-- Modo de fotografía silenciosa
 - Rango automático de sensibilidad a la luz ISO de 100 a 51 200 y AF con poca luz
+- Sistema AF híbrido (autofoco) es rápido, preciso y realmente suave
+- Modo de fotografía silenciosa
+- Detección AF de ojo inteligente que se enfoca automáticamente en los ojos del sujeto
+- Se adapta adecuadamente a tus manos gracias a su profunda empuñadura y colocacion de los botones
+- Fotos adecuadamente enfocadas y vídeos 4K a su alcance para realizar creaciones
 - 20 efectos creativos en la cámara disponibles para fotos y vídeo
 - Cuerpo ligero es fácil de llevar y cuenta con una parte superior y parte delantera sólidas fabricadas con una aleación de magnesio
-- Se adapta adecuadamente a tus manos gracias a su profunda empuñadura y colocacion de los botones
-- Detección AF de ojo inteligente que se enfoca automáticamente en los ojos del sujeto
-- Sistema AF híbrido (autofoco) es rápido, preciso y realmente suave
+- Los puntos AF en el sensor cubren aproximadamente el 90% del fotograma de forma horizontal y vertical, para así obtener una adecuada nitidez de borde a borde
 
 [Visítala!!!](https://www.amazon.es/dp/B07YXH2DLB/?tag=tolees-21)
