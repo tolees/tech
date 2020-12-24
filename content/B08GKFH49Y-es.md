@@ -26,9 +26,9 @@ Tienes [Amazfit Neo - Smartwatch Green](https://www.amazon.es/dp/B08GKFH49Y/?tag
 🔎:
 
 - Monitoreo de frecuencia cardíaca
-- Monitoreo del sueño
-- Duración de la batería de 28 días
-- Pantalla siempre encendida
 - Resistente al agua hasta 50 metros
+- Monitoreo del sueño
+- Pantalla siempre encendida
+- Duración de la batería de 28 días
 
 [Comprar!!!](https://www.amazon.es/dp/B08GKFH49Y/?tag=tolees-21)
