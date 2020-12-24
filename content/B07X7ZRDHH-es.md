@@ -26,11 +26,11 @@ Ahora mismo tienes [Pioneer Autorradio MVH-S420BT Bluetooth](https://www.amazon.
 🔎:
 
 - Funda protectora para panel frontal; idiomas del menú inglés, alemán,francés,turco,ruso; función de karaoke
-- Ecualizador gráfico de 13 bandas; accesorios 1 micrófono bluetooth externo
-- Tipo de instalación 1-din
-- Autorradio bluetooth; aplicación pioneer smart sync para iphone, android, spotify,mechafree
 - Otros dispositivos de música a través de la entrada auxiliar frontal
-- Amplificador mosfet 50 w x 4; selector de posición de escucha manual ta (alineación de tiempo)
+- Autorradio bluetooth; aplicación pioneer smart sync para iphone, android, spotify,mechafree
+- Ecualizador gráfico de 13 bandas; accesorios 1 micrófono bluetooth externo
 - Chasis corto, panel desmontable antirrobo; reproduce a través de usb: archivos de audio mp3, wma, wav, flac y aac
+- Amplificador mosfet 50 w x 4; selector de posición de escucha manual ta (alineación de tiempo)
+- Tipo de instalación 1-din
 
 [Visítala!!!](https://www.amazon.es/dp/B07X7ZRDHH/?tag=tolees-21)
