@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Televisor Philips 32PFS5603/12 32 Pulgad con un 16.11 % de descuento'
-date: 2020-12-23 07:58:59
+date: 2020-12-24 08:05:34
 image: 'https://m.media-amazon.com/images/I/51R0e1pYBPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794SD8PZ/?tag=tolees-21'
 descuento: '16.11'
-average: '220.10500000000002'
+average: '212.828'
 ---
 
 En este momento está [Televisor Philips 32PFS5603/12 32 Pulgadas  80 cm  Televisor LED Full HD Ultrafino  Pixel Plus HD  2 entradas HDMI con EasyLink  USB  portátil   Color Blanco  Sintonizador Satélite](https://www.amazon.es/dp/B0794SD8PZ/?tag=tolees-21) a 183.72 EUR (original: 219.0 EUR) (16.11 %  de descuento) en el siguiente enlace!
