@@ -27,8 +27,8 @@ En este momento está [Mini Teclado Inalámbrico de 2.4G Teclado Portátil Retro
 
 - Uso Conveniente:Debe usarlo para ingresar texto fácilmente,navegar por Internet y jugar juegos con un teclado unificado,puede controlar su dispositivo de manera sencilla,permite que la Búsqueda sea más conveniente.
 - Multifunción:Mini Teclado y Mouse combinado con teclas de acceso directo multimedia.92 teclas con Diseño Flip de 360 grados,panel táctil inteligente de alta sensibilidad incorporado con diseño que gira a 360 grados,usted puede disfrutar de un mejor momento cuando juega.
-- Actualización de la Función de Retroiluminación LED:Teclado/Mouse/Touchpad Inalámbrico,Multifunción 3 en 1. Usted puede configurar el color retroiluminado en rojo,azul y verde,o simplemente puede desactivarlo.
-- Incondicional de Devolución de un mes: Si encuentra que el teclado inalámbrico no es satisfactorio,solo nos debe contactar para obtener una solución.Nuestro objetivo es ofrecerle el Servicio al Cliente más cómodo.
 - Alta Sensibilidad:Panel táctil para una manipulación fácil y precisa.El teclado se puede conectar a dispositivos que tienen una Interfaz USB Estándar utilizando un Mini Receptor (en la parte posterior).Y puede usarse como reemplazo remoto. Su alcance de funcionamiento es de hasta 10 metros.
+- Incondicional de Devolución de un mes: Si encuentra que el teclado inalámbrico no es satisfactorio,solo nos debe contactar para obtener una solución.Nuestro objetivo es ofrecerle el Servicio al Cliente más cómodo.
+- Actualización de la Función de Retroiluminación LED:Teclado/Mouse/Touchpad Inalámbrico,Multifunción 3 en 1. Usted puede configurar el color retroiluminado en rojo,azul y verde,o simplemente puede desactivarlo.
 
 [Aquí!!!](https://www.amazon.es/dp/B08CMSQRYS/?tag=tolees-21)

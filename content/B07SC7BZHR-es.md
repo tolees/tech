@@ -27,7 +27,7 @@ Ahora mismo tienes [SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD 
 
 - Hasta 512 GB de capacidad para almacenar aún más horas de vídeo Full HD
 - Class 10 para grabación y reproducción de vídeos full hd
-- Carga de las aplicaciones más rápida gracias a la clase de rendimiento a1
 - Ideal para smartphones y tabletas android y cámaras mil
+- Carga de las aplicaciones más rápida gracias a la clase de rendimiento a1
 
 [Visítala!!!](https://www.amazon.es/dp/B07SC7BZHR/?tag=tolees-21)
