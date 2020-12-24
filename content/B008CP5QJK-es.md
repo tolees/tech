@@ -25,11 +25,11 @@ Tienes [Kingston KVR13S9S8/4 - Memoria RAM de 4 GB  1333 MHz DDR3 Non-ECC CL9 SO
 
 ℹ️:
 
-- Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones
 - KVR13N9S8/4 4GB 1Rx8 512M x 64-Bit PC3-10600 CL9 240-Pin DIMM
-- ¡Nota! Antes de comprar este producto, vizite el sitio del fabricante para comprobar la compatibilidad con su dispositivo
-- 4 GB, 1333 MHz, DDR3, Non-ECC, CL9, SODIMM único rango, 204-pin, 1.5 V
 - ¡Atención! Este tipo de memoria RAM es para portátiles
+- Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones
+- 4 GB, 1333 MHz, DDR3, Non-ECC, CL9, SODIMM único rango, 204-pin, 1.5 V
 - Las memorias Kingston están testeadas al 100%
+- ¡Nota! Antes de comprar este producto, vizite el sitio del fabricante para comprobar la compatibilidad con su dispositivo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008CP5QJK/?tag=tolees-21)
