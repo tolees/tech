@@ -26,9 +26,9 @@ Ahora mismo tienes [BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1
 🔎:
 
 - Botón central óptico
+- Batería 2515 mAh que proporciona hasta 22 h de autonomía
 - Sistema operativo BlackBerry 10
 - Pantalla 3.5", cámara de 8 MP
-- Batería 2515 mAh que proporciona hasta 22 h de autonomía
 - Teclas de navegación clásica BlackBerry más teclado QWERTY completo
 
 [Visítala!!!](https://www.amazon.es/dp/B00SFZ1AE2/?tag=tolees-21)
