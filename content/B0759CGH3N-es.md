@@ -25,9 +25,9 @@ En este momento está [Thule Accent - Mochila para ordenador portátil de 15.6�
 
 🔎:
 
-- Alta resistencia al paso del tiempo
 - Materiales de calidad
-- Cremalleras duraderas
 - Espacio para portátil y tablet
+- Cremalleras duraderas
+- Alta resistencia al paso del tiempo
 
 [Aquí!!!](https://www.amazon.es/dp/B0759CGH3N/?tag=tolees-21)
