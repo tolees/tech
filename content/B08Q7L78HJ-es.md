@@ -25,10 +25,10 @@ En este momento está [Flytise A6S Auriculares inalámbricos BT Estéreo Mini di
 
 🔎:
 
-- Batería incorporada de gran capacidad, con tiempo de espera prolongado y carga rápida inteligente, el tiempo de espera de hasta 180 horas.
 - BT5.0 actualizado, mejora la compatibilidad y el juego fluido en gran medida, señal más estable y velocidad de conexión más rápida.
+- Diseño portátil y mini, adecuado para todo tipo de escenas, como GYM, viajes, calle.
+- Batería incorporada de gran capacidad, con tiempo de espera prolongado y carga rápida inteligente, el tiempo de espera de hasta 180 horas.
 - Arranque automático y empareje los dispositivos BT después de sacarlo de la cabina Desconexión automática después de ponerlo en la cabina, fácil y conveniente.
 - Admite conexión binaural independiente, los auriculares se pueden usar por separado.
-- Diseño portátil y mini, adecuado para todo tipo de escenas, como GYM, viajes, calle.
 
 [Aquí!!!](https://www.amazon.es/dp/B08Q7L78HJ/?tag=tolees-21)
