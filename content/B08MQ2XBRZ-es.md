@@ -25,10 +25,10 @@ Ahora mismo tienes [MHHQ Funda para Xiaomi Mi 10 / Mi 10 Pro Cuero Carcasa Libro
 
 🔎:
 
+- ❀Soporte ajustable, ideal para ver videos, ver películas, escuchar música o navegar por el sitio web.
 - ❀Precisa Incisión encajar bien con su teléfono,Fácil acceso a todos los botones y funciones,controles y puertos.
 - ❀El diseño único permite un fácil acceso a todos los botones, controles y puertos sin tener que quitar el funda,todas las conexiones quedan perfectamente accesibles y garantizan el uso.
-- ❀Soporte ajustable, ideal para ver videos, ver películas, escuchar música o navegar por el sitio web.
-- ❀Construir en las ranuras para tarjeta para llevar convenientemente identificación, dinero y tarjetas de crédito.
 - ❀Material:PU cuero + suave TPU
+- ❀Construir en las ranuras para tarjeta para llevar convenientemente identificación, dinero y tarjetas de crédito.
 
 [Visítala!!!](https://www.amazon.es/dp/B08MQ2XBRZ/?tag=tolees-21)
