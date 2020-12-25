@@ -25,10 +25,10 @@ En este momento está [Hori - Monitor Gaming HD  PS4 ](https://www.amazon.es/dp/
 
 🔎:
 
-- Pantalla de 15,6"
-- 3 ángulos distintos para ajustarse a cada situación de juego
 - Conexión vía HDMI (×2)
-- Altavoces integrados y toma de auriculares (×2)
+- 3 ángulos distintos para ajustarse a cada situación de juego
 - Licencia oficial de Sony
+- Pantalla de 15,6"
+- Altavoces integrados y toma de auriculares (×2)
 
 [Aquí!!!](https://www.amazon.es/dp/B076YSKS3M/?tag=tolees-21)
