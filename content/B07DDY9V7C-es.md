@@ -25,10 +25,10 @@ Ahora mismo tienes [Cable guy Ruin  soporte de sujeción y carga para mando de c
 
 🔎:
 
-- Producto con licencia oficial Call of Duty de Activision
-- Compatible con mando o controller PS4, Xbox one y PC
 - Compatible con todos los teléfonos móviles o smartphones actuales
-- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
+- Producto con licencia oficial Call of Duty de Activision
 - Personaje Ruin de la saga Black Ops 4
+- Compatible con mando o controller PS4, Xbox one y PC
+- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 
 [Visítala!!!](https://www.amazon.es/dp/B07DDY9V7C/?tag=tolees-21)
