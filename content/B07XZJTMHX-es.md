@@ -25,12 +25,12 @@ Ahora mismo tienes [Huawei Mediapad T3 10 Tablet Wi-Fi  CPU Quad-Core A53  32 GB
 
 🔎:
 
+- Procesador quad-core qualcomm snapdragon hasta 4x1.4 ghz
 - 2 gb ram, 32 gb almacenamiento, batería de 4800 mah
-- No incluye ranura para sim (sólo wifi)
+- Cámara trasera de 5 mp con enfoque automático y delantera de 2 mp
 - Sistema operativo android 8.0 + emui 8
 - Pantalla táctil ips de 9.6 pulgadas con una resolución de 1280x800 pixeles
-- Cámara trasera de 5 mp con enfoque automático y delantera de 2 mp
 - Formato de archivo de video: * .3gp, * .mp4, * .webm, * .mkv, .ts, .3g2, .mov, .avi, .flv., .M4v y .divx
-- Procesador quad-core qualcomm snapdragon hasta 4x1.4 ghz
+- No incluye ranura para sim (sólo wifi)
 
 [Visítala!!!](https://www.amazon.es/dp/B07XZJTMHX/?tag=tolees-21)

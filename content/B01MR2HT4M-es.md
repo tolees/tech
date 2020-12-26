@@ -25,10 +25,10 @@ Tienes [Sony MDR-XB550APL - Auriculares de diadema Extra Bass  micrófono integr
 
 🔎:
 
-- Elige uno de los 5 colores que mejor se adapta a tu estilo
-- Almohadillas acolchadas para una comodidad prolongada
 - Diadema metálica adaptable para un ajuste perfecto
-- Extra Bass para sonidos profundos y potentes
 - Micrófono con mando integrado compatible con Smartphones
+- Almohadillas acolchadas para una comodidad prolongada
+- Extra Bass para sonidos profundos y potentes
+- Elige uno de los 5 colores que mejor se adapta a tu estilo
 
 [Comprar!!!](https://www.amazon.es/dp/B01MR2HT4M/?tag=tolees-21)
