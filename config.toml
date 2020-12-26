@@ -19,7 +19,7 @@ paginate = 30
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
   description = "Descuentazos en tecnología"
-  gtag = G-1BKKRPRJ18
+  gtag="G-1BKKRPRJ18"
   yandex = "3046232937495f92"
 
   # Nav links in the side bar
