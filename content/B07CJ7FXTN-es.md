@@ -25,15 +25,15 @@ Ahora mismo tienes [Panasonic SC-HC200EG-K Home Audio Micro System 20W - Microca
 
 🔎:
 
-- Bluetooth: para que puedas poner música directamente desde tu Smartphone o Tablet
 - Potencia RMS de 20W; App control: para detener y continuar la música cuando desees desde tu srmartphone
-- Reproductor de CD: si eres de estilo más clásico podrás poner tu colección favorita de CD
-- Sintonizador de radio FM: para escuchar las noticias o disfrutar de toda la novedades musicales o los éxitos más clásicos.
-- Amplificador digital de dos canales
 - Sonido puro y sin distorsión: gracias a dos altavoces full-range de 8 cm, al amplificador digital y el procesador de remasterización por Bluetooth
+- Entrada USB: también podrás poner música con su entrada USB con tu pendrive o el de tus amigos
+- Amplificador digital de dos canales
+- Bluetooth: para que puedas poner música directamente desde tu Smartphone o Tablet
+- Sintonizador de radio FM: para escuchar las noticias o disfrutar de toda la novedades musicales o los éxitos más clásicos.
 - Sistema Hi- Fi de alta fidelidad, es una norma de calidad que significa que la reproducción del sonido es muy fiel al original
+- Reproductor de CD: si eres de estilo más clásico podrás poner tu colección favorita de CD
 - Conectividad sencilla: envía música desde tu smartphone o Tablet fácilmente gracias a la conectividad Bluetooth
 - Diseño delgado y elegante: sistema slim con reproductor de CD integrado y 20W (RMS) de potencia
-- Entrada USB: también podrás poner música con su entrada USB con tu pendrive o el de tus amigos
 
 [Visítala!!!](https://www.amazon.es/dp/B07CJ7FXTN/?tag=tolees-21)
