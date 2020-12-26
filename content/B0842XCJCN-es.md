@@ -25,10 +25,10 @@ Ahora mismo tienes [Xiaomi Amazfit T-Rex Reloj Inteligente Verde AMOLED 3 3 cm  
 
 🔎:
 
-- Pantalla Amoled de 1,3"
+- 20 horas de GPD siempre encendido
 - Sumergible hasta 50 metros
 - 20 días de batería escenario de uso diario
-- 20 horas de GPD siempre encendido
+- Pantalla Amoled de 1,3"
 - 12 Certificados de categoría militar
 - 14 modos de deporte
 
