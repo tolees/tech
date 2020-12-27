@@ -25,9 +25,9 @@ Está [SanDisk SDSDB-064G-B35 64 GB Class 4 SDXC Memory Card  Label May Change ]
 
 ℹ️:
 
-- Intervalo de temperatura operativa: -25 - 85 °C
 - Adecuado para cámaras de fotos y vídeo digitales
 - Tarjeta de memoria de 64 GB
 - Incorpora el interruptor de protección contra escritura
+- Intervalo de temperatura operativa: -25 - 85 °C
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00CIQ01US/?tag=tolees-21)

@@ -27,8 +27,8 @@ Está [Motorola C1003LB+ Trio Teléfono Fijo DECT inalámbrico Trio - Color Negr
 
 - Pantalla LCD retroiluminada, manos libres y agenda de 50 contactos
 - Triple pack
-- Modo ECO: para un mayor ahorro y mejor cuidado del medio ambiente.
-- Duración de la batería: hasta 135 horas en espera y 6,5 horas en conversación. Incluye baterías: pilas AAA recargables y base de carga
 - Compatible GAP: ampliable hasta 5 terminales con intercomunicador y transferencia de llamadas entre los terminales
+- Duración de la batería: hasta 135 horas en espera y 6,5 horas en conversación. Incluye baterías: pilas AAA recargables y base de carga
+- Modo ECO: para un mayor ahorro y mejor cuidado del medio ambiente.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XZ6CWCU/?tag=tolees-21)
