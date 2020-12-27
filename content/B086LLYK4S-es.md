@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WHCH710NB - Auriculares inalámbrico al 27.33 % de rebaja'
-date: 2020-12-26 15:03:40
+date: 2020-12-27 15:27:59
 image: 'https://m.media-amazon.com/images/I/41CgxsilyuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35
 
 🔎:
 
-- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
-- Diseño compacto
-- Noise Cancelling dual
-- Opción de conexión por cable
-- Hasta 35 h de batería
+- With soft oval earpads these over-ear headphones have been designed for all-day comfort
+- These long-lasting wireless bluetooth and NFC enabled headphones deliver up to 35 hours of playback
+- AI Noise Cancelling with Dual Noise Sensor technology lets you cancel out the world tailored to your environment or choose to let it in with Ambient Sound Mode
+- New 30mm driver units provide the superior audio quality youd expect of Sony headphones
+- Get clear hands-free calling and Voice Control on the WH-CH710N
 
 [Comprar!!!](https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21)
