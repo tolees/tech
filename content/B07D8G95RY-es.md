@@ -27,7 +27,7 @@ Tienes [Tacens Anima AH118 - Auriculares con micrófono y Diadema Regulable](htt
 
 - Conexión jack 3.5 mm
 - Auriculares estéreo de gran calidad con micrófono
-- Control de volumen y diadema ajustable
 - Micrófono con cancelación de ruido y altavoces de 30 mm
+- Control de volumen y diadema ajustable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8G95RY/?tag=tolees-21)
