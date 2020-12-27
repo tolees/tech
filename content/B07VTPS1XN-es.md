@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Android 9.0 TV Box 【4GB RAM+32GB ROM】 An al 15.00 % de descuento'
-date: 2020-12-25 20:28:48
+date: 2020-12-27 08:50:18
 image: 'https://m.media-amazon.com/images/I/41+8zYXCGOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VTPS1XN/?tag=tolees-21'
 descuento: '15.00'
-average: '43.45153846153846'
+average: '43.32333333333333'
 ---
 
 Está [Android 9.0 TV Box 【4GB RAM+32GB ROM】 Android TV Box  Dual-WiFi 2.4GHz / 5GHz H6 Bluetooth Quad Core 64 bits 3D / 4K Full HD / H.265 / USB3.0 Android Smart TV Box Pendoo](https://www.amazon.es/dp/B07VTPS1XN/?tag=tolees-21) con 15.00 de descuento por 42.49 EUR (original: 49.99 EUR) en el siguiente enlace!
