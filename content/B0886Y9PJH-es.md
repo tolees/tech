@@ -25,10 +25,10 @@ Tienes [Sony WFSP800N - Auriculares True Wireless  Cancelación de ruido  Blueto
 
 🔎:
 
-- Diseño true wireless con conectividad inalámbrica bluetooth estable
-- Extra Bass Para Un Sonido Rotundo Y Profundo
 - La función Cancelación de ruido digital te permite escuchar sin distracciones
 - Hasta 18 h de duración de batería con la funda de carga
 - Clasificación IP55 para su uso en exteriores y una limpieza sencilla
+- Diseño true wireless con conectividad inalámbrica bluetooth estable
+- Extra Bass Para Un Sonido Rotundo Y Profundo
 
 [Comprar!!!](https://www.amazon.es/dp/B0886Y9PJH/?tag=tolees-21)
