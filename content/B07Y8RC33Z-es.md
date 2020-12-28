@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop 3 - Ordenador p con un 22.00 % de descuento'
-date: 2020-12-26 11:19:45
+date: 2020-12-28 07:17:54
 image: 'https://m.media-amazon.com/images/I/31QIVc4AK+L._SL200_.jpg'
 comments: true
 category: ofertas
