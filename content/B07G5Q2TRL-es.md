@@ -28,7 +28,7 @@ Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 400 G
 - Up to 170MB/s read and 90MB/s write speeds for fast shooting and transfers
 - 4K UHD-ready with UHS Speed Class 3 (U3) and Video Speed Class 30 (V30)
 - Built for and tested in harsh conditions; temperature-proof, water-proof, shock-proof and x-ray proof
-- Ideal for Android smartphones and tablets, and action cameras, and drones
 - Rated A2 for faster loading and in-app performance. Operating temperature: -13ºF to 185ºF (-25ºC to 85ºC); Storage temperature: -40ºF to 185ºF (-40ºC to 85ºC)
+- Ideal for Android smartphones and tablets, and action cameras, and drones
 
 [Visítala!!!](https://www.amazon.es/dp/B07G5Q2TRL/?tag=tolees-21)
