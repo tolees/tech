@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kraken Tournament Edition Auricula con un 40.00 % de descuento'
-date: 2020-12-27 11:23:29
+date: 2020-12-29 19:46:07
 image: 'https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21'
 descuento: '40.00'
-average: '66.91435897435898'
+average: '66.57658536585366'
 ---
 
 En este momento está [Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!
