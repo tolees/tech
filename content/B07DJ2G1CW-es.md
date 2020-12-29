@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Xiaomi  18082  Regleta  Blanco al 20.01 % de descuento'
-date: 2020-12-24 18:24:36
+title: 'Xiaomi  18082  Regleta  Blanco al 16.01 % de descuento'
+date: 2020-12-28 22:42:49
 image: 'https://m.media-amazon.com/images/I/31i-sQVQEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2G1CW-es'
-actualPrice: 11.99 EUR
+actualPrice: 12.59 EUR
 currency: EUR
-price: 11.99
+price: 12.59
 comparePrice: 14.99 EUR
 prodname: 'Xiaomi  18082  Regleta  Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2G1CW/?tag=tolees-21'
-descuento: '20.01'
-average: '14.328666666666667'
+descuento: '16.01'
+average: '14.146470588235294'
 ---
 
-Está [Xiaomi  18082  Regleta  Blanco](https://www.amazon.es/dp/B07DJ2G1CW/?tag=tolees-21) con 20.01 de descuento por 11.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Xiaomi  18082  Regleta  Blanco](https://www.amazon.es/dp/B07DJ2G1CW/?tag=tolees-21) con 16.01 de descuento por 12.59 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Xiaomi  18082  Regleta  Blanco](https://m.media-amazon.com/images/I/31i-sQVQEeL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2G1CW/?tag=tolees-21)
 
