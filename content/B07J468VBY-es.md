@@ -25,10 +25,10 @@ En este momento está [Operacion Triunfo OT Harmony-D Fonestar Auriculares Bluet
 
 🔎:
 
-- Diseño moderno
-- Sonido nítido e intenso
 - Batería recargable li-ion, hasta 10 horas de autonomía
-- Control de reproducción y manos libres para llamadas
 - Reproduce música desde smartphones, tablets y otros dispositivos
+- Control de reproducción y manos libres para llamadas
+- Sonido nítido e intenso
+- Diseño moderno
 
 [Aquí!!!](https://www.amazon.es/dp/B07J468VBY/?tag=tolees-21)
