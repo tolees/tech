@@ -25,8 +25,8 @@ En este momento está [Nikon JAA829DA - Objetivo para cámara réflex AF-P DX 70
 
 🔎:
 
-- Enfoque silencioso
 - Control simplificado
+- Enfoque silencioso
 - Suave, rápido con enfoque automático de motor de pasos de Nikon
 - Reducción de la vibración (VR)
 

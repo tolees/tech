@@ -25,9 +25,9 @@ Tienes [Huawei P30 - Smartphone de 6.1"  Kirin 980 Octa-Core de 2.6GHz  RAM de 6
 
 ℹ️:
 
-- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
-- EMUI 9.1.0 (compatible con Android 9)
 - Capacidad de la batería: 3550 mAh (valor mínimo), 3650 mAh (valor típico)
+- EMUI 9.1.0 (compatible con Android 9)
+- HUAWEI Kirin 980 CPU, Octa-core, 2 x Cortex A76 2.6GHz + 2 x Cortex A76 1.92GHz + 4 x Cortex A55 1.8GHz
 - Tamaño de pantalla: 6.1 pulgadas; FHD+ 2340 x 1080 píxeles; 422 PPI
 - 6 GB RAM + 128 GB ROM
 
