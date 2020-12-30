@@ -25,11 +25,11 @@ En este momento está [Lenovo ideapad 530S-14IKB - Ordenador Portátil 14" FullH
 
 🔎:
 
-- Tarjeta gráfica Nvidia MX130 con 2GB RAM, DDR5
-- Memoria RAM de 8GB DDR4, 2400Mhz
-- Pantalla de 14" Full HD, 1920 x 1080 pixeles
 - Almacenamiento SSD de 512GB M.2 PCIE
-- Sistema operativo: Windows10
+- Tarjeta gráfica Nvidia MX130 con 2GB RAM, DDR5
 - Procesador Intel Core i7-8550U, Quadcore 1.8GHz hasta 4GHz
+- Pantalla de 14" Full HD, 1920 x 1080 pixeles
+- Sistema operativo: Windows10
+- Memoria RAM de 8GB DDR4, 2400Mhz
 
 [Aquí!!!](https://www.amazon.es/dp/B07ND38GKT/?tag=tolees-21)
