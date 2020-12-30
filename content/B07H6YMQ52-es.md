@@ -25,9 +25,9 @@ Ahora mismo tienes [HP 1000 - Ratón con Cable  Negro](https://www.amazon.es/dp/
 
 🔎:
 
+- Obtén una mayor exactitud en movimientos precisos en la mayoría de las superficies, gracias a sus 1200 ppp
 - Solución de 3 botones y una rueda de desplazamiento integrada para obtener una productividad optimizada
 - La conexión es muy sencilla gracias a la conectividad usb para que puedas usarlo inmediatamente
-- Obtén una mayor exactitud en movimientos precisos en la mayoría de las superficies, gracias a sus 1200 ppp
 - Un cable de 1 5 m te proporciona la libertad de movimiento cuando lo conectas en el pc
 - El versátil diseño fácil ita el control tanto para diestros como para zurdos
 

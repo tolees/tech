@@ -26,8 +26,8 @@ Tienes [Auriculares inalámbricos in Ear Skullcandy Indy True con micrófono Blu
 🔎:
 
 - El salto al audio verdaderamente inalámbrico nunca ha sido tan fácil. Desde el emparejamiento rápido con tu teléfono, hasta 16 horas de duración de la batería, hasta un estuche de carga portátil de bolsillo, Indy hace que vivir sin cables sea la experiencia simple que debe ser
-- Ahora puedes tener la verdadera libertad inalámbrica que deseas con un look total. Indy te permite moverte sin problemas durante el día con un ajuste seguro y una calidad de sonido superior
 - Indy cuenta con una clasificación de protección IP55, con resistencia al sudor, el agua y el polvo, para que puedas usarlo con confianza donde quiera que vayas.
 - Toca la calavera para controlar. Puedes cambiar de canción, ajustar el volumen y administrar llamadas simplemente tocando tus auriculares
+- Ahora puedes tener la verdadera libertad inalámbrica que deseas con un look total. Indy te permite moverte sin problemas durante el día con un ajuste seguro y una calidad de sonido superior
 
 [Comprar!!!](https://www.amazon.es/dp/B07RQN629J/?tag=tolees-21)

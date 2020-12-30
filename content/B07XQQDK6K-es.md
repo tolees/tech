@@ -27,8 +27,8 @@ Está [Instax Link  Impresora para Smartphone  Azul Denim](https://www.amazon.es
 
 - Impresora portátil de fotos instax mini directamente desde tu smartphone, instagram, facebook o cámara s fujifilm compatibles
 - Compatible con películas instax mini
-- Más de 25 plantillas de diseño y captura de video frame.
 - Impresión de alta velocidad (12 seg.)
 - Bateria recargable np-45s litio
+- Más de 25 plantillas de diseño y captura de video frame.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XQQDK6K/?tag=tolees-21)
