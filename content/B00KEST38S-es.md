@@ -25,10 +25,10 @@ En este momento está [Motorola Shell - Carcasa Trasera Moto E  Turquesa](https:
 
 🔎:
 
-- Te permite cambiar el look de tu dispositivo en cualquier momento
-- Es muy fácil de poner y quitar
-- Elige la carcasa Shell que mejor se adapte a ti y a tu estilo de vida
 - Resistente
+- Elige la carcasa Shell que mejor se adapte a ti y a tu estilo de vida
 - Esta protección se adapta perfectamente a tu Moto E
+- Es muy fácil de poner y quitar
+- Te permite cambiar el look de tu dispositivo en cualquier momento
 
 [Aquí!!!](https://www.amazon.es/dp/B00KEST38S/?tag=tolees-21)
