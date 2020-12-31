@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Assassin s Creed Valhalla PS5 con un 23.11 % de descuento'
-date: 2020-12-21 16:44:22
+date: 2020-12-31 11:32:25
 image: 'https://m.media-amazon.com/images/I/41eLE6susoL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -26,9 +26,9 @@ Está [Logitech G910 Orion Spectrum Teclado Gaming Mecánico Retroiluminado  RGB
 ℹ️:
 
 - Easy-Access To Media : Control your music as well as your gaming straight from your keyboard
-- Romer-G Mechanical Key Switches : Play with ultra-responsive keys that are up to 25% faster than the standard
-- Fully Customisable : Use Logitech gaming software to customise macros to your keys
 - Arx Control : Enjoy in-game updates when you connect your iOS and android devices
 - Customisable RGB backlit keys : Fully customise your gaming keyboard with individually backlit keys and use Logitech Gaming Software to unlock 16.8 million colours and different effects, or synchronise light patterns with your RGB wireless gaming mouse or other Logitech G devices
+- Romer-G Mechanical Key Switches : Play with ultra-responsive keys that are up to 25% faster than the standard
+- Fully Customisable : Use Logitech gaming software to customise macros to your keys
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GHP1IDY/?tag=tolees-21)
