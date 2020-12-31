@@ -25,12 +25,12 @@ Está [Microsoft Surface Pro X - Tablet-PC Convertible de 13"  Wifi + LTE  Micro
 
 ℹ️:
 
-- Microsoft SQ1 con tecnología Qualcomm
 - No incluye Type Cover (funda con teclado)
-- Memoria RAM de 16GB LPDDR4X
-- Sistema operativo Windows 10 Home
 - Tarjeta gráfica Microsoft SQ1 Adreno 685
+- Memoria RAM de 16GB LPDDR4X
 - Disco duro sólido de 256GB
 - Pantalla táctil de 13 pulgadas (2880x1920 pixels)
+- Sistema operativo Windows 10 Home
+- Microsoft SQ1 con tecnología Qualcomm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y8QR3P1/?tag=tolees-21)
