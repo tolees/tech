@@ -25,14 +25,14 @@ Tienes [Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved Dynamic AMOLED  16 
 
 ℹ️:
 
-- El procesador cuenta con un npu para la cámara inteligente
-- Capacidad de almacenamiento interno de 512 gb + ranura para microsd (hasta 512 gb) y 8 gb de ram
 - El sensor ultrasónico de huella dactilar te proporciona la máxima seguridad de manera invisible
-- Tres cámara s traseras con dual apertura 12 mp main, f1 5/ f2 4 dp af + y dos frontales main, f1 9 dp af+ 8 mp ultra-wide
-- Toma impresionantes fotos cinemáticas con los 123 grados de visión de la cámara ultra gran angular
-- Hemos conseguido ocultar discretamente la cámara en la pantalla sin perder calidad en las fotografías
 - Diseño con pantalla infinity-o 6.4" quad hd+ (3040 x 1440) curved dynamic amoled
-- Toma fotos tanto de día como de noche con la apertura dual, que controla, ajusta y optimiza la luz antes de que toques el obturador
+- Toma impresionantes fotos cinemáticas con los 123 grados de visión de la cámara ultra gran angular
+- Tres cámara s traseras con dual apertura 12 mp main, f1 5/ f2 4 dp af + y dos frontales main, f1 9 dp af+ 8 mp ultra-wide
 - Batería inteligente de 24 horas con autonomía, 4.100 mah con carga rápida y posibilidad de compartir batería de manera inalámbrica
+- El procesador cuenta con un npu para la cámara inteligente
+- Hemos conseguido ocultar discretamente la cámara en la pantalla sin perder calidad en las fotografías
+- Capacidad de almacenamiento interno de 512 gb + ranura para microsd (hasta 512 gb) y 8 gb de ram
+- Toma fotos tanto de día como de noche con la apertura dual, que controla, ajusta y optimiza la luz antes de que toques el obturador
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NDCQY5V/?tag=tolees-21)
