@@ -26,9 +26,9 @@ Tienes [Fujifilm instax Square  película instantánea borde blanco  2 x 10 foto
 ℹ️:
 
 - Tamaño de la fotografía: 86 mm x 72 mm; Tamaño de la imagen: 62 mm x 62 mm
-- Estabilidad de imagen garantizada tanto en color como en monocromo
-- Película ISO 800 ASA de alta velocidad; Tiempo de revelado máx. 1,5 min
-- Calidad instax: colores vivos y tonos de piel naturales
 - Película apta para todos los dispositivos instax Square: SQ10, SQ20, SQ6,SQ1 e impresora SP3
+- Calidad instax: colores vivos y tonos de piel naturales
+- Película ISO 800 ASA de alta velocidad; Tiempo de revelado máx. 1,5 min
+- Estabilidad de imagen garantizada tanto en color como en monocromo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2H5XKY/?tag=tolees-21)
