@@ -25,10 +25,10 @@ En este momento está [Xiaomi Mi Smart Antibacterial Humidifier  Humidificador A
 
 🔎:
 
-- Silencioso, ruido de trabajo inferior a 38 dB
-- Con la aplicación Mi Home puede controlar el humidificador a distancia
-- Tres niveles de humedad, mantiene constante la humedad gracias a un sensor interno
-- Compatible con Google Assistant y Alexa para poder encender o apagar el humidificador con el control por voz
 - Depósito de agua de gran capacidad de 4 litros
+- Silencioso, ruido de trabajo inferior a 38 dB
+- Tres niveles de humedad, mantiene constante la humedad gracias a un sensor interno
+- Con la aplicación Mi Home puede controlar el humidificador a distancia
+- Compatible con Google Assistant y Alexa para poder encender o apagar el humidificador con el control por voz
 
 [Aquí!!!](https://www.amazon.es/dp/B08MV3CDXN/?tag=tolees-21)
