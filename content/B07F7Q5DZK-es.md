@@ -25,10 +25,10 @@ Tienes [Trust GXT 161 Disan - Ratón inalámbrico gaming RGB con batería recarg
 
 ℹ️:
 
-- Software avanzado para programar botones y luces
-- Iluminación RGB personalizable. Memoria integrada.
 - Sensor óptico de alta precisión de 3.000 ppp
 - Se puede seguir jugando durante la carga. Cobertura inalámbrica de 8 m.
+- Iluminación RGB personalizable. Memoria integrada.
+- Software avanzado para programar botones y luces
 - Batería recargable integrada, con autonomía de hasta 30 horas de juego
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F7Q5DZK/?tag=tolees-21)

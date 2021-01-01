@@ -25,9 +25,9 @@ Ahora mismo tienes [Conceptronic CNBSLOCK15 - Candado de seguridad para ordenado
 
 🔎:
 
-- 1.5 metros, longitud del cable
-- modelo: CNBCOMLOCK15
 - Plata
 - 2 llaves
+- modelo: CNBCOMLOCK15
+- 1.5 metros, longitud del cable
 
 [Visítala!!!](https://www.amazon.es/dp/B00BBV07NM/?tag=tolees-21)
