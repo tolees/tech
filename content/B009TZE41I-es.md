@@ -25,12 +25,12 @@ Está [D-Link GO-SW-5G/E - Gigabit Ethernet  10/100/1000  switch - Switch de red
 
 ℹ️:
 
-- Indicadores led del estado de conexión y actividad en cada puerto
-- Formato sobremesa y tamaño muy reducido
-- 5 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
-- No necesita configuración: enchufar, conectar y listo
-- D-Link Green: Los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
 - Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - Sin ventilador, funcionamiento silencioso
+- D-Link Green: Los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
+- Indicadores led del estado de conexión y actividad en cada puerto
+- No necesita configuración: enchufar, conectar y listo
+- Formato sobremesa y tamaño muy reducido
+- 5 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009TZE41I/?tag=tolees-21)
