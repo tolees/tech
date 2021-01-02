@@ -27,7 +27,7 @@ Ahora mismo tienes [Realme X50 5G - Smartphone 128GB  6GB RAM  Dual Sim  Ice Sil
 
 - Batería: 4200 mAh
 - Pantalla: 6.44", 1080 x 2400 pixels
-- Cámara: Cuádruple, 64MP+12MP +8MP+2MP
 - Procesador: Snapdragon 865 2.84GHz
+- Cámara: Cuádruple, 64MP+12MP +8MP+2MP
 
 [Visítala!!!](https://www.amazon.es/dp/B08DCV82BS/?tag=tolees-21)
