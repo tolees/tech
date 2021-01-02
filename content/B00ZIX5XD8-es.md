@@ -25,9 +25,9 @@ En este momento está [Czech Games Edition Edición de Juegos checos CGE00018 Ga
 
 🔎:
 
-- 2-5 jugadores
 - Number of players: 2-5 Players
-- Tiempo de reproducción: 60-90 min
+- 2-5 jugadores
 - Fabricante checo Game Edition
+- Tiempo de reproducción: 60-90 min
 
 [Aquí!!!](https://www.amazon.es/dp/B00ZIX5XD8/?tag=tolees-21)
