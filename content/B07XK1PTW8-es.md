@@ -25,12 +25,12 @@ En este momento está [Apple Funda de cuero  para iPhone 11 Pro  - Azul medianoc
 
 🔎:
 
-- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
-- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
-- Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
-- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
-- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
 - Para el iPhone 11 Pro
+- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
+- Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
+- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
+- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
 
 [Aquí!!!](https://www.amazon.es/dp/B07XK1PTW8/?tag=tolees-21)
