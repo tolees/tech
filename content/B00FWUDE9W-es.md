@@ -25,10 +25,10 @@ Tienes [Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negr
 
 🔎:
 
-- Procesador de imágenes BIONZ X
-- Enfoque automático híbrido
 - Sistema de objetivos intercambiables con montura tipo E
-- Sensor CMOS Exmor de 24.3 MP
 - Cuenta con enfoque automático híbrido rápido
+- Sensor CMOS Exmor de 24.3 MP
+- Enfoque automático híbrido
+- Procesador de imágenes BIONZ X
 
 [Comprar!!!](https://www.amazon.es/dp/B00FWUDE9W/?tag=tolees-21)
