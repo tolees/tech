@@ -25,12 +25,12 @@ Ahora mismo tienes [Sony Tough - Tarjeta SD de memoria flash 64 GB](https://www.
 
 🔎:
 
+- IP68 resistente al agua y al polvo.
+- Copia de seguridad y transferencia de datos rápidamente
+- El más duro del mundo: 18 veces más resistencia a la flexión
+- Optimizado para vídeo de alta resolución con V60
 - Velocidad de escritura rápida
 - Diseño de interruptor sin acanalado, sin protección contra escritura.
-- Copia de seguridad y transferencia de datos rápidamente
-- IP68 resistente al agua y al polvo.
-- Optimizado para vídeo de alta resolución con V60
-- El más duro del mundo: 18 veces más resistencia a la flexión
 - Resistente a los golpes: soporta caídas de hasta 5 metros.
 - Diseño moldeado de una sola pieza más resistente del mundo.
 
