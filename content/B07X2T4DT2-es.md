@@ -27,8 +27,8 @@ Ahora mismo tienes [Sony WH-H910N - Auriculares inalámbricos  Bluetooth  Cancel
 
 - Finos, ligeros y cómodos para escuchar música durante todo el día
 - Ajusta con precisión tu sonido con la aplicación sony headphones connect
-- Compatible con audio de alta resolución
 - Audio inalámbrico de alta calidad con tecnología bluetooth y ldac
+- Compatible con audio de alta resolución
 - La función noise cancelling digital y el modo sonido ambiente te permiten controlar qué quieres escuchar
 
 [Visítala!!!](https://www.amazon.es/dp/B07X2T4DT2/?tag=tolees-21)

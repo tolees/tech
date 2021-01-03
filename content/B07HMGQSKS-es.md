@@ -25,10 +25,10 @@ Ahora mismo tienes [Otterbox Defender - Funda Robusta anticaídas para Samsung G
 
 🔎:
 
+- El protector de pantalla integrado protege la pantalla táctil contra rasguños y raspones
 - Las cubiertas de los puertos bloquean el paso del polvo y la suciedad, impidiendo que se acumulen en los puertos y conectores
+- El soporte proporciona una protección adicional durante el transporte
 - El soporte incluido permite una lectura y escritura cómoda
 - Funda protectora sólida, multicapa, resistente a caídas, golpes y choques
-- El protector de pantalla integrado protege la pantalla táctil contra rasguños y raspones
-- El soporte proporciona una protección adicional durante el transporte
 
 [Visítala!!!](https://www.amazon.es/dp/B07HMGQSKS/?tag=tolees-21)
