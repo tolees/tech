@@ -25,10 +25,10 @@ Ahora mismo tienes [BeMatik - Soporte de Caja de Ordenador bajo Mesa o fijación
 
 🔎:
 
-- Soporte para torre de PC sobremesa para instalar debajo de la mesa.
-- Se suministra la tornillería necesaria para el montaje
 - Permite ajustar el ancho de la torre del ordenador de 88 mm a 203 mm.
-- Fabricado en acero lacado de color negro con embellecedores plásticos de color negro.
+- Se suministra la tornillería necesaria para el montaje
 - Permite ajustar el alto de la torre del ordenador de 300 mm a 533 mm.
+- Soporte para torre de PC sobremesa para instalar debajo de la mesa.
+- Fabricado en acero lacado de color negro con embellecedores plásticos de color negro.
 
 [Visítala!!!](https://www.amazon.es/dp/B071JXJMY2/?tag=tolees-21)
