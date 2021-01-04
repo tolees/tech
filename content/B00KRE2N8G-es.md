@@ -25,11 +25,11 @@ En este momento está [Motorola C1001LB+ - Teléfono fijo  color negro](https://
 
 🔎:
 
+- Habilidad para nombrar terminales
+- Control de volumen del timbre del auricular - 5 niveles y apagado
+- Habilidad para nombrar terminales
 - Estación base / dispositivo de seguridad
 - Modo de marcación - tono / pulso
-- Control de volumen del timbre del auricular - 5 niveles y apagado
 - 1 base, expandible hasta 4 auriculares
-- Habilidad para nombrar terminales
-- Habilidad para nombrar terminales
 
 [Aquí!!!](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21)
