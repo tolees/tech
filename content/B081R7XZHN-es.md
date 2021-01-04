@@ -25,10 +25,10 @@ Ahora mismo tienes [LAYJOY Funda Xiaomi Redmi 8  Ligera Carcasa Silicona Suave T
 
 🔎:
 
-- Protección de Pantalla y Cámara: El marco elevado ayuda a proteger la pantalla y la cámara de las mesas y otras superficies. Proteger su Xiaomi Redmi 8 de arañazos, caídas y otros daños.
+- Superficie Mate: Toque su Xiaomi Redmi 8, como piel del bebé del tacto. Sensación confortable de tacto, suave como la piel del bebé. La funda de acabado mate evita las huellas digitales, antideslizante y también le proporciona un excelente agarre. Proteger a sus ojos con un mínimo de reflexión de la luz.
 - Ajuste Perfecto: El fácil acceso a todas las funciones del Xiaomi Redmi 8 con cortes de precisión para todos los botones y puertos que permiten la operación sin ningún obstáculo, como la cámara, botón de encendido, botón de volumen, ect.
 - Compatibilidad Exacta: Especialmente diseñado para Xiaomi Redmi 8 (2019) 6.22 pulgadas.
+- Protección de Pantalla y Cámara: El marco elevado ayuda a proteger la pantalla y la cámara de las mesas y otras superficies. Proteger su Xiaomi Redmi 8 de arañazos, caídas y otros daños.
 - Material de TPU Suave: La funda exterior de silicona está hecha de alta calidad TPU ligero para ofrecer la protección completa alrededor del dispositivo, para una resistencia flexibl.antitranspirante, antigrasa,amortiguación, fácil de limpiar. No rayará su teléfono y no hará que su Xiaomi Redmi 8 sea voluminoso.
-- Superficie Mate: Toque su Xiaomi Redmi 8, como piel del bebé del tacto. Sensación confortable de tacto, suave como la piel del bebé. La funda de acabado mate evita las huellas digitales, antideslizante y también le proporciona un excelente agarre. Proteger a sus ojos con un mínimo de reflexión de la luz.
 
 [Visítala!!!](https://www.amazon.es/dp/B081R7XZHN/?tag=tolees-21)
