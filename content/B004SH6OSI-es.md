@@ -26,10 +26,10 @@ Está [Samyang F1110603101 AE - Objectivo para Nikon  14 mm IF ED UMC  sensor AP
 ℹ️:
 
 - Gran angular para cámaras con sensor Full Frame o APS-C
-- Montura para Nikon F AE
 - Enfoque manual
-- Con revestimiento UMC anti-reflectante
-- Ángulo de visión máximo 115.7°
 - Incluye parasol extraíble
+- Montura para Nikon F AE
+- Ángulo de visión máximo 115.7°
+- Con revestimiento UMC anti-reflectante
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004SH6OSI/?tag=tolees-21)
