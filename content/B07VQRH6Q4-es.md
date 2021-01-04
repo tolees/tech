@@ -27,8 +27,8 @@ Tienes [ZiHang Funda Infantil Huawei MediaPad T3 10  Carcasa Niño Antigolpes co
 
 - Bumper duradero diseñado para niños es compatible Huawei MediaPad T3 10
 - Material suave, ligero, no tóxico; Diseño antideslizante con textura lateral para para un agarre firme; Perfecto para bebés, niños, nenes
+- Hecho de espuma EVA resistente a los impactos, evita de manera eficiente que la tableta se caiga, se golpee y se raye accidentalmente; Las esquinas cuentan con silicona de doble espesor para una mejor protección a prueba de colisión
 - Asa giratoria de 180 grados para un manejo fácil y un transporte conveniente de la escuela a la casa, y también se puede plegar en un soporte de dos ángulos para ver películas o dibujar
 - Bordes elevados para proteger la pantalla contra rasguños y roturas; Fácil acceso a todas las funciones (cámaras, altavoces, puertos y botones)
-- Hecho de espuma EVA resistente a los impactos, evita de manera eficiente que la tableta se caiga, se golpee y se raye accidentalmente; Las esquinas cuentan con silicona de doble espesor para una mejor protección a prueba de colisión
 
 [Comprar!!!](https://www.amazon.es/dp/B07VQRH6Q4/?tag=tolees-21)

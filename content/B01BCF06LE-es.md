@@ -25,13 +25,13 @@ Está [SAMSUNG C24F390 - Monitor Curvo de 24    Full HD  4 ms  60 Hz  FreeSync  
 
 ℹ️:
 
-- Interfaz de montaje vesa 75 x 75 mm
-- Brillo de pantalla: 250 cd/m²
-- Pantalla de 24 pulgadas con una resolución de 1920 x 1080 píxeles
-- Consumo de energía máximo 25 w
-- Tipo de memoria del ordenador: DDR3 SDRAM
 - Tecnología de pantalla: LCD
-- Capacidad del disco duro (GB) : 0.0 GB
+- Pantalla de 24 pulgadas con una resolución de 1920 x 1080 píxeles
+- Tipo de memoria del ordenador: DDR3 SDRAM
 - Tamaño de pantalla: 24.0 inches
+- Consumo de energía máximo 25 w
+- Capacidad del disco duro (GB) : 0.0 GB
+- Brillo de pantalla: 250 cd/m²
+- Interfaz de montaje vesa 75 x 75 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BCF06LE/?tag=tolees-21)
