@@ -25,9 +25,9 @@ Está [Anker Soundcore Liberty Air 2 Auriculares inalámbricos Bluetooth  4 micr
 
 ℹ️:
 
-- 4 micrófonos con reducción de ruido Uplink cVc 8.0: cada auricular está equipado con dos micrófonos que emplean la tecnología de reducción de ruido cVc 8.0 más reciente. Cuando realizas una llamada, el ruido ambiental se reduce en un 60 %.
-- Emparejamiento en un solo paso y conectividad Bluetooth 5.0: los auriculares inalámbricos Liberty Air 2 están equipados con Bluetooth 5.0 para ofrecer una conexión rápida, resistente y muy estable.
 - Hasta 28 horas de reproducción: una sola carga proporciona hasta 7 horas de reproducción, mientras que el estuche de carga extiende la duración hasta a 28 horas. Y cuando el estuche de carga esté bajo de batería, basta con colocarlo sobre un cargador inalámbrico.
+- Emparejamiento en un solo paso y conectividad Bluetooth 5.0: los auriculares inalámbricos Liberty Air 2 están equipados con Bluetooth 5.0 para ofrecer una conexión rápida, resistente y muy estable.
+- 4 micrófonos con reducción de ruido Uplink cVc 8.0: cada auricular está equipado con dos micrófonos que emplean la tecnología de reducción de ruido cVc 8.0 más reciente. Cuando realizas una llamada, el ruido ambiental se reduce en un 60 %.
 - Sonido mejorado con tecnología de diamante: los auriculares inalámbricos Liberty Air 2 aprovechan la estructura ultraligera pero rígida del diamante para crear un diafragma en forma de cúpula que es capaz de mantener la rigidez incluso al vibrar a altas frecuencias.
 - Tecnología HearID: completa la prueba para conseguir una configuración de EQ personalizada optimizada en función de tus oídos. HearID identifica tu sensibilidad auditiva a distintas frecuencias.
 
