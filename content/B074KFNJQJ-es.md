@@ -25,11 +25,11 @@ Tienes [Logitech Craft Teclado Inalámbrico  2 4 GHz/Bluetooth  Disco Selector C
 
 🔎:
 
-- Iluminación Inteligente: Teclado Logitech Craft con iluminación inteligente, las teclas con retroiluminación se encienden al detectar la proximidad de las manos
-- Pleno Control Creativo: Usa la corona para procesos creativos más intuitivos, cambia el brillo en Photoshop, ajusta el grosor de trazos en Ilustrador
+- La Calidad Logitech: Descubre nuestros teclados diseñados para el español y ratones con cable, mini, inalámbricos o Bluetooth para el gaming o la oficina y accesorios para tablets, como Samsung Galaxy o iPad
+- El Control que Necesitas, en el Momento Justo: El teclado Logitech Craft inalámbrico con disco selector da acceso a funciones contextuales mediante un toque
 - Toca, Pulsa y Gira: Agiliza el acceso a plantillas de diapositivas en PowerPoint y la selección de valores de tamaño y color de fuente en Word
 - Escribe con Precisión sin Esfuerzos: Teclado premium hecho para conseguir eficiencia, estabilidad y precisión; compatible tanto para Mac como con Windows
-- El Control que Necesitas, en el Momento Justo: El teclado Logitech Craft inalámbrico con disco selector da acceso a funciones contextuales mediante un toque
-- La Calidad Logitech: Descubre nuestros teclados diseñados para el español y ratones con cable, mini, inalámbricos o Bluetooth para el gaming o la oficina y accesorios para tablets, como Samsung Galaxy o iPad
+- Iluminación Inteligente: Teclado Logitech Craft con iluminación inteligente, las teclas con retroiluminación se encienden al detectar la proximidad de las manos
+- Pleno Control Creativo: Usa la corona para procesos creativos más intuitivos, cambia el brillo en Photoshop, ajusta el grosor de trazos en Ilustrador
 
 [Comprar!!!](https://www.amazon.es/dp/B074KFNJQJ/?tag=tolees-21)
