@@ -25,9 +25,9 @@ Está [Sony MDR-ZX110AP  Auriculares  Alámbrico  Tamaño Único  Rosa](https://
 
 ℹ️:
 
-- Diafragmas tipo cúpula de 30 mm
 - Cascos acolchados para una escucha cómoda
 - Rango de frecuencia de 12 Hz a 22 kHz
+- Diafragmas tipo cúpula de 30 mm
 - Auriculares cerrados de tipo supra-aural
 - Diseño plegable compacto
 
