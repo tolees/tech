@@ -25,8 +25,8 @@ En este momento está [Samyang SA7021 - Objetivo para cámaras Digitales sin Esp
 
 🔎:
 
-- Para cámaras digitales sin espejo Sony E con sensor Full Frame
 - Óptica muy luminosa con apertura F2.8
+- Para cámaras digitales sin espejo Sony E con sensor Full Frame
 - Lentes asféricas para minimizar aberraciones y dispersión de luz
 
 [Aquí!!!](https://www.amazon.es/dp/B073H4K3ZL/?tag=tolees-21)
