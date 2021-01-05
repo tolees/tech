@@ -25,8 +25,8 @@ En este momento está [Microsoft Surface Precision Mouse  Gris](https://www.amaz
 
 🔎:
 
-- Tres botones personalizables
 - Desplazamiento preciso y fluido
 - Batería recargable integrada, con cable e inalámbrica, con un tiempo de ejecución de hasta 3 meses
+- Tres botones personalizables
 
 [Aquí!!!](https://www.amazon.es/dp/B07BDZQX3T/?tag=tolees-21)
