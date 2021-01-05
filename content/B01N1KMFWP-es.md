@@ -25,11 +25,11 @@ Está [BG Xonar-X6 Binaural Diadema Negro  Verde - Auriculares con micrófono  C
 
 ℹ️:
 
-- Diadema ajustable y ligera para una mayor comodidad
-- Micrófono flexible Auriculares de 40 mm de gran calidad
-- de piel sintética Retroiluminación con LED verde Compatibilidad : Windows Vista / 7 / 8 / 10; PlayStation 4 (parcial, conexión USB sin controlador)
 - Orejeras ultra suaves de piel sintética
-- Conexión : USB
+- de piel sintética Retroiluminación con LED verde Compatibilidad : Windows Vista / 7 / 8 / 10; PlayStation 4 (parcial, conexión USB sin controlador)
 - Sonido envolvente 7.1 con software de configuración
+- Conexión : USB
+- Micrófono flexible Auriculares de 40 mm de gran calidad
+- Diadema ajustable y ligera para una mayor comodidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1KMFWP/?tag=tolees-21)
