@@ -25,9 +25,9 @@ Tienes [Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic AMOLED  12GB RAM  
 
 🔎:
 
-- Made with good quality material
 - Display size: 6.9 inches
 - dy-rc4430
 - Memory storage capacity: 12.0
+- Made with good quality material
 
 [Comprar!!!](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21)
