@@ -26,9 +26,9 @@ En este momento está [Transcend Usd300S Tarjeta Microsd de 128Gb  Clase 10   V3
 🔎:
 
 - Ideal for smartphones, tablets and digital cameras
-- Compliant with Application Performance Class 1 (A1), UHS Speed Class 3 (U3), and UHS Video Speed Class 30 (V30) standards
-- Perfect for a smooth and uninterrupted 4 K video capturing
-- Up to 512 GB storage capacity
 - Up to 95 MB/s read; 40 MB/s write
+- Compliant with Application Performance Class 1 (A1), UHS Speed Class 3 (U3), and UHS Video Speed Class 30 (V30) standards
+- Up to 512 GB storage capacity
+- Perfect for a smooth and uninterrupted 4 K video capturing
 
 [Aquí!!!](https://www.amazon.es/dp/B07GBD3JLR/?tag=tolees-21)
