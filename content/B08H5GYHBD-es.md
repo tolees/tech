@@ -25,10 +25,10 @@ Tienes [Asus - Zenfone 7 PRO ZS671KS noir 256 Go  8Go de RAM](https://www.amazon
 
 ℹ️:
 
-- Memoria RAM: 8192 MB.
+- Pantalla: 6,67 pulgadas
 - Procesador: Qualcomm Snapdragon 865+.
 - Cámara principal: 64MP + 12MP + 8MP
 - Tipo: smartphone.
-- Pantalla: 6,67 pulgadas
+- Memoria RAM: 8192 MB.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08H5GYHBD/?tag=tolees-21)
