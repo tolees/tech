@@ -27,7 +27,7 @@ Está [Trust Gaming GXT 138 X-Ray - Ratón Gaming Iluminado RGB con 10 Botones p
 
 - Software avanzado para programar botones y macros
 - Iluminación RGB personalizable
-- 10 botones programables
 - Almohadillas de deslizamiento suaves con baja fricción
+- 10 botones programables
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075F1VVQB/?tag=tolees-21)

@@ -27,8 +27,8 @@ Ahora mismo tienes [LYCANDER - Teclado Gaming Español con cable USB  1.8m   19 
 
 - Rainbow colour backlight creates a professional gaming atmosphere (with a push of a button, backlight can also be turned off for office use)
 - Wired usb keyboard, compatible with pc/mac that have usb ports; cord length measures at 1.8 meters; plug and play with no additional software necessary
-- Anti-ghosting technology allows multiple keys to work simultaneously in rapid response time
-- Lycander gaming keyboard spain, wired keyboard - 19 anti-ghosting keys, 1.8m cable, rainbow backlight - lkb8154es
 - Please note: this model lkb8154es is in spanish(es) layout. (other european language keyboards are also available in variation)
+- Lycander gaming keyboard spain, wired keyboard - 19 anti-ghosting keys, 1.8m cable, rainbow backlight - lkb8154es
+- Anti-ghosting technology allows multiple keys to work simultaneously in rapid response time
 
 [Visítala!!!](https://www.amazon.es/dp/B07VXHLVHX/?tag=tolees-21)
