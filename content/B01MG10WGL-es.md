@@ -26,8 +26,8 @@ Tienes [NANOCABLE 10.99.0101 - Adaptador para Disco Duro de 7 0mm en Unidad opti
 ℹ️:
 
 - Standards: RoHS
-- Includes screws for mounting
 - Test: 100% tested
 - For 2.5 "hard disks safely and
+- Includes screws for mounting
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MG10WGL/?tag=tolees-21)
