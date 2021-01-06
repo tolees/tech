@@ -26,8 +26,8 @@ En este momento está [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/64GB C
 🔎:
 
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
-- Optimizadas para uso con dispositivos Android
-- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
 - Tipo de tarjeta flash: MicroSDXC
+- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
+- Optimizadas para uso con dispositivos Android
 
 [Aquí!!!](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21)
