@@ -25,11 +25,11 @@ En este momento está [realme Buds Q - Auriculares con carga Micro-USB  Bluetoot
 
 🔎:
 
+- Modo: En oreja
 - Hasta 20 horas de reproducción
-- Móvil compatible con Portugal
-- Auriculares con carga Micro-USB
 - Bluetooth 5.0
 - 2 años de garantía del fabricante (ES)
-- Modo: En oreja
+- Auriculares con carga Micro-USB
+- Móvil compatible con Portugal
 
 [Aquí!!!](https://www.amazon.es/dp/B08BPHPNCT/?tag=tolees-21)
