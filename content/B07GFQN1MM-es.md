@@ -25,8 +25,8 @@ Está [Pioneer TS-A1670-F - Altavoz coaxial de 3 vías  Color Negro](https://www
 
 ℹ️:
 
-- Potencia 320 w
-- Altavoz coaxial de 3 vías
 - 16,5cm
+- Altavoz coaxial de 3 vías
+- Potencia 320 w
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GFQN1MM/?tag=tolees-21)
