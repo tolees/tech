@@ -27,7 +27,7 @@ Tienes [ASUS VP249HE  Monitor Eye Care  Full HD  IPS  Sin Marco  Antiparpadeo  F
 
 - Tecnología IPS con ángulos de visión de 178 grados
 - Incluye orificios para montarlo sobre la pared
-- Para asegurar una visualización más cómoda, los monitores eye care de asus tienen certificación antiparpadeo y luz azul de baja intensidad de los laboratorios tüv rheinland
 - La tecnología exclusiva gameplus incluye las funciones punto de mira y temporizador
+- Para asegurar una visualización más cómoda, los monitores eye care de asus tienen certificación antiparpadeo y luz azul de baja intensidad de los laboratorios tüv rheinland
 
 [Comprar!!!](https://www.amazon.es/dp/B07PX2WQ9P/?tag=tolees-21)
