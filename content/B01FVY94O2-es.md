@@ -28,7 +28,7 @@ Ahora mismo tienes [Vtin Punker -Altavoz Bluetooth   Premium 20W con Radiador Pa
 - Fuerte bass: altavoz bluetooth portatil le ofrece sonido bajo fuerte con rediador pasivo y dos drivers de subwoofer; tono claro, tiple bueno, bajo fuerte para todas canciones
 - Transmisión bluetooth y aux: fácil conecta a otros dispositivos, como mp3; tablets, soporta conexión aux-in cable de audio, incluso si no hay dispositivos bluetooth, también se puede disfrutar de la música hermosa
 - Sonido estéreo: dual-drivers 10w ofrece sonido claro y melodioso, gran alcance; le ofrece excelente experiencia de escuchar música
-- Tiempo de trabajo de 30 horas: con 4400mah pila litia incorporada, se puede trabaja 25 horas en volumen de 70%; micrófono incorporado ruido-eliminado se le hace manos libre
 - A pueba de salpicaduras impacto: impermeable nivel de ipx5, resitente a impacto; diseñado portatíl para llevarse dondequiera
+- Tiempo de trabajo de 30 horas: con 4400mah pila litia incorporada, se puede trabaja 25 horas en volumen de 70%; micrófono incorporado ruido-eliminado se le hace manos libre
 
 [Visítala!!!](https://www.amazon.es/dp/B01FVY94O2/?tag=tolees-21)
