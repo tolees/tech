@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Two Point Hospital - Xbox One al 50.01 % de descuento'
-date: 2021-01-06 06:53:04
+date: 2021-01-07 12:49:11
 image: 'https://m.media-amazon.com/images/I/51-3ZZR27KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21'
 descuento: '50.01'
-average: '27.15666666666667'
+average: '25.853636363636365'
 ---
 
 Está [Two Point Hospital - Xbox One](https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
