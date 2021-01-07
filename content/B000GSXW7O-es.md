@@ -25,9 +25,9 @@ Ahora mismo tienes [Sony SAL35F14G - Objetivo para Sony/Minolta  Distancia Focal
 
 🔎:
 
-- Lente G Sony prime gran angular
-- Lente asférica
 - Montura tipo A, fotograma completo de 35 mm
+- Lente asférica
 - Lente G de 35 mm F1,4
+- Lente G Sony prime gran angular
 
 [Visítala!!!](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21)
