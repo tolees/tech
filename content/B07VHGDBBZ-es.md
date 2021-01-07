@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Amazfit GTR 47mm Reloj Inteligente Smart al 23.08 % de descuento'
-date: 2021-01-03 01:30:59
+title: 'Amazfit GTR 47mm Reloj Inteligente Smart al 18.73 % de descuento'
+date: 2021-01-07 20:30:14
 image: 'https://m.media-amazon.com/images/I/51nm+60UVxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07VHGDBBZ-es'
-actualPrice: 99.99 EUR
+actualPrice: 105.64 EUR
 currency: EUR
-price: 99.99
+price: 105.64
 comparePrice: 129.99 EUR
 prodname: 'Amazfit GTR 47mm Reloj Inteligente Smartwatch Deportivo AMOLED de 1.39" GPS + GLONASS integrado Frecuencia cardíaca Continua de 24 Horas Larga duración de batería 12 Deportes Diferentes - Acero'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VHGDBBZ/?tag=tolees-21'
-descuento: '23.08'
-average: '102.80857142857144'
+descuento: '18.73'
+average: '102.99733333333334'
 ---
 
-Ahora mismo tienes [Amazfit GTR 47mm Reloj Inteligente Smartwatch Deportivo AMOLED de 1.39" GPS + GLONASS integrado Frecuencia cardíaca Continua de 24 Horas Larga duración de batería 12 Deportes Diferentes - Acero](https://www.amazon.es/dp/B07VHGDBBZ/?tag=tolees-21) a 99.99 EUR (original: 129.99 EUR) (23.08 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Amazfit GTR 47mm Reloj Inteligente Smartwatch Deportivo AMOLED de 1.39" GPS + GLONASS integrado Frecuencia cardíaca Continua de 24 Horas Larga duración de batería 12 Deportes Diferentes - Acero](https://www.amazon.es/dp/B07VHGDBBZ/?tag=tolees-21) a 105.64 EUR (original: 129.99 EUR) (18.73 %  de descuento) en el siguiente enlace!
 
 [![Amazfit GTR 47mm Reloj Inteligente Smart](https://m.media-amazon.com/images/I/51nm+60UVxL._SL200_.jpg)](https://www.amazon.es/dp/B07VHGDBBZ/?tag=tolees-21)
 
