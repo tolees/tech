@@ -26,8 +26,8 @@ Tienes [Port Berlin II Notebook Case - Funda para Ordenador portátil de 25 4 cm
 ℹ️:
 
 - Acolchado, compartimentos con cremallera
-- asidero
 - Color: negro
 - Para ordenadores portátiles hasta 12.5" (31.8cm)
+- asidero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BIDBQMY/?tag=tolees-21)
