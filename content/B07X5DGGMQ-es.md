@@ -25,10 +25,10 @@ Tienes [Sony SEL70350G  Objetivo de Montura E  Supertele Objetivo G F4.5-6.3 OSS
 
 ℹ️:
 
-- Steadyshot óptico para mantener las imágenes bien enfocadas sin trípode
 - Un elemento asférico y tres cristales ed para disfrutar de alta resolución en todo el alcance de zoom
-- Superteleobjetivo g con rango de ampliación de 5x
+- Steadyshot óptico para mantener las imágenes bien enfocadas sin trípode
 - Diseño resistente al polvo y la humedad
+- Superteleobjetivo g con rango de ampliación de 5x
 - Tipo de lente: Standard
 - El motor lineal xd ofrece una excelente respuesta y baja vibración para contar con un af rápido y preciso
 
