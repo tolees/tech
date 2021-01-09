@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Cecotec Robot aspirador y fregasuelos Co con un 30.96 % de descuento'
-date: 2021-01-08 06:27:28
+title: 'Cecotec Robot aspirador y fregasuelos Co con un 31.10 % de descuento'
+date: 2021-01-09 17:53:12
 image: 'https://m.media-amazon.com/images/I/41L6or0vkTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B088FQXTCQ-es'
-actualPrice: 178.81 EUR
+actualPrice: 178.45 EUR
 currency: EUR
-price: 178.81
+price: 178.45
 comparePrice: 259.0 EUR
 prodname: 'Cecotec Robot aspirador y fregasuelos Conga 1090 Connected Force  App Control  Aspira  Barre  friega y Pasa la mopa  1400 Pa  Cepillo Especial para Mascotas  Fregado Inteligente  Alexa & Google Assist'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088FQXTCQ/?tag=tolees-21'
-descuento: '30.96'
-average: '173.02599999999995'
+descuento: '31.10'
+average: '173.36499999999995'
 ---
 
-En este momento está [Cecotec Robot aspirador y fregasuelos Conga 1090 Connected Force  App Control  Aspira  Barre  friega y Pasa la mopa  1400 Pa  Cepillo Especial para Mascotas  Fregado Inteligente  Alexa & Google Assist](https://www.amazon.es/dp/B088FQXTCQ/?tag=tolees-21) a 178.81 EUR (original: 259.0 EUR) (30.96 %  de descuento) en el siguiente enlace!
+En este momento está [Cecotec Robot aspirador y fregasuelos Conga 1090 Connected Force  App Control  Aspira  Barre  friega y Pasa la mopa  1400 Pa  Cepillo Especial para Mascotas  Fregado Inteligente  Alexa & Google Assist](https://www.amazon.es/dp/B088FQXTCQ/?tag=tolees-21) a 178.45 EUR (original: 259.0 EUR) (31.10 %  de descuento) en el siguiente enlace!
 
 [![Cecotec Robot aspirador y fregasuelos Co](https://m.media-amazon.com/images/I/41L6or0vkTL._SL200_.jpg)](https://www.amazon.es/dp/B088FQXTCQ/?tag=tolees-21)
 
