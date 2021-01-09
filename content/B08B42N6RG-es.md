@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB33 - Altavoz Bluetooth Potent al 23.33 % de descuento'
-date: 2021-01-08 13:11:08
+date: 2021-01-09 13:51:09
 image: 'https://m.media-amazon.com/images/I/315gfC+W5PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08B42N6RG/?tag=tolees-21'
 descuento: '23.33'
-average: '122.02312500000001'
+average: '121.81030303030303'
 ---
 
 Está [Sony SRS-XB33 - Altavoz Bluetooth Potente  con Luces  Extra Bass  Resistente al Agua  Polvo  óxido  Golpes y Larga duración de batería de hasta 24h  Negro](https://www.amazon.es/dp/B08B42N6RG/?tag=tolees-21) con 23.33 de descuento por 115.0 EUR (original: 150.0 EUR) en el siguiente enlace!
