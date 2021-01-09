@@ -25,9 +25,9 @@ Tienes [HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1
 
 ℹ️:
 
-- Compatible con XMP de Intel y AMD Ryzen
-- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
-- Probada al 100 % en fábrica a elevadas velocidades
 - Funcionalidad Plug N Play
+- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
+- Compatible con XMP de Intel y AMD Ryzen
+- Probada al 100 % en fábrica a elevadas velocidades
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WD5VKTS/?tag=tolees-21)
