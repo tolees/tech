@@ -25,8 +25,8 @@ Está [Case Logic DLC117 - Maletín para Ordenador portátil](https://www.amazon
 
 ℹ️:
 
+- Materiales de calidad
 - Espacio para portátil y tablet
 - Cremalleras duraderas
-- Materiales de calidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006QV7WM6/?tag=tolees-21)
