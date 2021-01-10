@@ -25,8 +25,8 @@ Tienes [Case Logic LAPS114K - Funda para Ordenador portátil](https://www.amazon
 
 🔎:
 
+- Resistente y duradero
 - Alta calidad y diseño moderno
 - Evita daños en la pantalla
-- Resistente y duradero
 
 [Comprar!!!](https://www.amazon.es/dp/B004NY9UWI/?tag=tolees-21)
