@@ -27,8 +27,8 @@ Tienes [Razer Atheris Stormtrooper Edition Ratón Ergonómico para Juegos Gaming
 
 - Tecnología de frecuencia adaptada para una estabilidad de señal fiable, gracias a la tecnología inalámbrica de Razer, el Razer Atheris te ofrece una estabilidad de transmisión líder en la industria, así que, estés en una cafetería o en la oficina, donde hay varios dispositivos inalámbricos que puedan interferir en la frecuencia, tu ratón mantendrá una conexión sólida
 - Ergonomía mejorada para comodidad durante horas interminables, gracias al diseño con ergonomía mejorada, el Razer Atheris ofrece un agarre optimo, cómodo que proporciona buenas sensaciones incluso después de muchas horas
-- Batería de 280 horas de duración para trabajar sin problemas, estés donde estés, cuando viajas todo el tiempo por motivos de trabajo, o tienes una reunión tras otra, no quieres que cambiar las pilas o cargar la batería se convierta en un problema
 - Capacidad de conexión dual para una conveniencia absoluta, gracias a su reducido adaptador USB de 2,4 GHz y al Bluetooth, puedes conectar fácil tu Razer Atheris a más de un dispositivo al mismo tiempo, ya sea para trabajar o jugar, Razer Atheris te permite alternar entre pantallas y dispositivos sin esfuerzo
 - Sensor óptico de 7.200 DPI para una gran precisión durante el juego, gracias al sensor óptico de 7.200 DPI, el Razer Atheris tiene uno de los DPI más altos para un ratón móvil, ofrece una precisión optima y un control optimo sobre las hojas de cálculo o los disparos
+- Batería de 280 horas de duración para trabajar sin problemas, estés donde estés, cuando viajas todo el tiempo por motivos de trabajo, o tienes una reunión tras otra, no quieres que cambiar las pilas o cargar la batería se convierta en un problema
 
 [Comprar!!!](https://www.amazon.es/dp/B07PPN9GWR/?tag=tolees-21)
