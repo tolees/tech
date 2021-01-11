@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 41.90 % en Sony ICF-C1 - Radio despertador con pant'
-date: 2020-12-15 10:40:08
+title: 'Descuento del 26.37 % en Sony ICF-C1 - Radio despertador con pant'
+date: 2021-01-11 18:43:35
 image: 'https://m.media-amazon.com/images/I/41hIQbxxVdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00I0D0WCK-es'
-actualPrice: 17.43 EUR
+actualPrice: 22.09 EUR
 currency: EUR
-price: 17.43
+price: 22.09
 comparePrice: 30.0 EUR
 prodname: 'Sony ICF-C1 - Radio despertador con pantalla LED  negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21'
-descuento: '41.90'
-average: '18.706'
+descuento: '26.37'
+average: '19.27'
 ---
 
-Tienes [Sony ICF-C1 - Radio despertador con pantalla LED  negro](https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21) con un 41.90 % de descuento con precio de oferta de 17.43 EUR (original: 30.0 EUR) en el siguiente enlace!
+Tienes [Sony ICF-C1 - Radio despertador con pantalla LED  negro](https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21) con un 26.37 % de descuento con precio de oferta de 22.09 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Sony ICF-C1 - Radio despertador con pant](https://m.media-amazon.com/images/I/41hIQbxxVdL._SL200_.jpg)](https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21)
 
 ℹ️:
 
-- Configuración de aplazamiento ampliable
-- Elegante radio despertador AM/FM con ajuste automático de la hora, control de brillo y alarma gradual
-- Opciones de modelos estándar, alarma dual o proyector
-- Brillo de la pantalla ajustable para una visualización práctica
-- Configuración de alarma única con radio o sonido de zumbador
-- Brillo de la pantalla ajustable para una visualización práctica
+- Height:10.2 cm
+- Enclosure Colour:Black
+- Depth:10.1 cm
+- Weight:520 g
+- Power Battery type is 220 to 240 Volts Alternating Current, 50 by 60 Hertz and CR2032 back up battery
+- Product Type:Clock radio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21)
