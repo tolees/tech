@@ -25,11 +25,11 @@ Tienes [Microsoft – Wired Keyboard 600 Español](https://www.amazon.es/dp/B005
 
 ℹ️:
 
-- Diseño anti-derrame
+- Tecla Inicio de Windows
+- Compatible con Windows
 - Teclas silencionas
 - Diseño ergonómico
+- Diseño anti-derrame
 - Conectividad mediante cable USB
-- Compatible con Windows
-- Tecla Inicio de Windows
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZWOSG/?tag=tolees-21)
