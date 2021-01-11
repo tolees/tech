@@ -25,13 +25,13 @@ Ahora mismo tienes [Sony DSC-HX400V - Cámara compacta de 20.4 MP  pantalla de 3
 
 🔎:
 
-- Estabilizador de imagen optical
-- Grabación de vídeo 1080p Full HD
 - Pantalla de 3 pulgadas
 - Color negro
-- Peso del producto: 635 g
-- Sensor de 21.1 Mp
-- NFC, Wi-Fi
+- Grabación de vídeo 1080p Full HD
 - Zoom óptico 50x (24 -1200 mm)
+- Peso del producto: 635 g
+- NFC, Wi-Fi
+- Sensor de 21.1 Mp
+- Estabilizador de imagen optical
 
 [Visítala!!!](https://www.amazon.es/dp/B00I9X2KGM/?tag=tolees-21)
