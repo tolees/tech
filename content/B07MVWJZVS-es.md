@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD My Passport Go 500 GB  disco duro sól al 27.13 % de descuento'
-date: 2021-01-02 04:51:38
+date: 2021-01-12 03:06:20
 image: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21'
 descuento: '27.13'
-average: '78.84151515151517'
+average: '79.01628571428573'
 ---
 
 Ahora mismo tienes [WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) a 81.9 EUR (original: 112.39 EUR) (27.13 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [WD My Passport Go 500 GB  disco duro sólido externo - acaba
 
 🔎:
 
-- Compatible con ordenadores personales y mac, con software de copia de seguridad automática incluido para windows y compatible con time machine (se requiere reformateado)
-- La memoria de bolsillo lleva un cable integrado para una cómoda portabilidad
 - 2,5 veces más rápida que la mayoría de los discos duros portátiles y rendimiento de hasta 400.mb/s
-- Memoria de estado sólido sin piezas móviles, diseñada y fabricada expresamente por wd para ofrecer gran seguridad y fiabilidad
+- Compatible con ordenadores personales y mac, con software de copia de seguridad automática incluido para windows y compatible con time machine (se requiere reformateado)
 - Resistente a caídas de hasta 2 metros, con un paragolpes de protección de caucho para soportar impactos y sacudidas incluso cuando está conectada
+- La memoria de bolsillo lleva un cable integrado para una cómoda portabilidad
+- Memoria de estado sólido sin piezas móviles, diseñada y fabricada expresamente por wd para ofrecer gran seguridad y fiabilidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
