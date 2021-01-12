@@ -25,14 +25,14 @@ Tienes [Netatmo Cámara de Vigilancia Interior WIFI  Detección de movimientos  
 
 ℹ️:
 
+- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Protege la vida privada de tus seres queridos: guarda los rostros conocidos para desactivar las notificaciones y la grabación de vídeo cuando estén en casa
+- Protección completa de tu hogar:crea tu sistema de alarma inteligente completando tu cámara con una sirena interior inteligente y sensores inteligentes para puertas y ventanas de Netatmo
+- Sin costes de suscripción: accede a todas las funcionalidades, las actualizaciones y el almacenamiento de forma gratuita
+- Compatible: con Amazon Alexa, Apple Homekit, el Asistente de Google y IFTTT; controla tu cámara con tu voz y crea escenarios con otros objetos conectados
+- Vigilancia continua: accede a las imágenes HD de tu cámara en streaming o en tiempo real, 24/7, incluso de noche gracias a la visión nocturna
+- Tus datos 100 % protegidos: tus datos se guardan y protegen localmente en la tarjeta microSD incluida
 - Alertas precisas y personalizables: desconocidos, seres queridos, animales; personaliza las notificaciones y recibe solo las que te interesen
 - Notificaciones inmediatas en tu SmartPhone en caso de intrusión: una cara conocida o desconocida; gracias al reconocimiento facial, tu cámara identifica a los intrusos y te envía una alerta en tiempo real cuando sea necesario
-- Vigilancia continua: accede a las imágenes HD de tu cámara en streaming o en tiempo real, 24/7, incluso de noche gracias a la visión nocturna
-- Sin costes de suscripción: accede a todas las funcionalidades, las actualizaciones y el almacenamiento de forma gratuita
-- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Compatible: con Amazon Alexa, Apple Homekit, el Asistente de Google y IFTTT; controla tu cámara con tu voz y crea escenarios con otros objetos conectados
-- Protege la vida privada de tus seres queridos: guarda los rostros conocidos para desactivar las notificaciones y la grabación de vídeo cuando estén en casa
-- Tus datos 100 % protegidos: tus datos se guardan y protegen localmente en la tarjeta microSD incluida
-- Protección completa de tu hogar:crea tu sistema de alarma inteligente completando tu cámara con una sirena interior inteligente y sensores inteligentes para puertas y ventanas de Netatmo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X5CMMUQ/?tag=tolees-21)
