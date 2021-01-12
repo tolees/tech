@@ -25,8 +25,8 @@ Tienes [Thule TGEE2250K - Funda para Apple MacBook Air 11"  Color Negro](https:/
 
 🔎:
 
-- Su forma fina se ajusta perfectamente al MacBook Air de 11"
-- Construcción en espuma de EVA semirrígida crea una adaptación perfecta y la protección acolchada que cabe esperar en una funda
 - Logotipo Thule reflectante
+- Construcción en espuma de EVA semirrígida crea una adaptación perfecta y la protección acolchada que cabe esperar en una funda
+- Su forma fina se ajusta perfectamente al MacBook Air de 11"
 
 [Comprar!!!](https://www.amazon.es/dp/B00R8K9BCS/?tag=tolees-21)
