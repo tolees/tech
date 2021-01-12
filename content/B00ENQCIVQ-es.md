@@ -25,8 +25,8 @@ Tienes [iRobot 3 paños de Textura Azul Pro-Clean para fregado  Microfibra  7x17
 
 ℹ️:
 
-- Se pueden lavar y utilizar centenares de veces
 - Paños de textura azul Pro-Clean hechos de microfibra
 - Se pueden utilizar con todos los modelos de Braava
+- Se pueden lavar y utilizar centenares de veces
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ENQCIVQ/?tag=tolees-21)
