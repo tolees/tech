@@ -26,9 +26,9 @@ Tienes [Fujifilm X-T3 - Cámara de objetivo intercambiable sin espejo  con senso
 🔎:
 
 - Capacidad de video dci 4k/60p 10 bits con sensor aps-c
-- Perfecto visor electrónico para seguimiento de sujetos en movimiento
-- Excepcional calidad de imagen gracias a sistema sensor/procesador de cuarta generación
 - 15 puntos de desarrollo sobre modelos anteriores siguiendo opiniones de los fotógrafos
+- Excepcional calidad de imagen gracias a sistema sensor/procesador de cuarta generación
 - Excelente funcionamiento de sistema af
+- Perfecto visor electrónico para seguimiento de sujetos en movimiento
 
 [Comprar!!!](https://www.amazon.es/dp/B07H3T9MLT/?tag=tolees-21)
