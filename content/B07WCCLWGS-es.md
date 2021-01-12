@@ -26,9 +26,9 @@ Ahora mismo tienes [PowerA - Pokémon Auriculares para videojuegos con cable Pik
 🔎:
 
 - Compatible con cualquier fuente de audio de 3,5 mm: Xbox, PS4, Switch, PC, Mac y dispositivos móviles
-- Los altavoces de 50 mm
 - Con licencia oficial de The Pokémon Company International
-- Sonido estéreo de gran potencia para videojuegos, música y entretenimiento
 - Diseño y materiales ligeros y duraderos
+- Sonido estéreo de gran potencia para videojuegos, música y entretenimiento
+- Los altavoces de 50 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07WCCLWGS/?tag=tolees-21)
