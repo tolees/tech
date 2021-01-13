@@ -25,11 +25,11 @@ Ahora mismo tienes [Withings Steel HR Reloj inteligente  Unisex Adult  Negro  36
 
 🔎:
 
-- Batería de larga duración: hasta 25 días de autonomía y 20 días más en modo reserva de energía (solo se controla la actividad y la hora)
 - Controla constantemente tu ritmo cardíaco mientras haces ejercicio para sacar el máximo partido a tu entrenamiento y vigila tu frecuencia cardíaca día y noche para mejorar tu salud a largo plazo
-- ¿Preguntas?¿Problemas? Obten respuestas y asistencia si necesitas en support.withings.com
-- Seguimiento de la actividad: comprueba automáticamente caminata, carrera, natación, sueño, distancia recorrida y las calorías consumidas, además es capaz de reconocer más de 10 deportes diferentes
-- Notificaciones inteligentes: obten mensajes de texto, llamadas, correos electrónicos, calendario y notificaciones inteligentes de todas tus aplicaciones favoritas directamente en la pantalla del reloj
 - Seguimiento del sueño: análisis sobre los ciclos de sueño (sueño ligero y profundo) y alarma silenciosa con vibración
+- Batería de larga duración: hasta 25 días de autonomía y 20 días más en modo reserva de energía (solo se controla la actividad y la hora)
+- Seguimiento de la actividad: comprueba automáticamente caminata, carrera, natación, sueño, distancia recorrida y las calorías consumidas, además es capaz de reconocer más de 10 deportes diferentes
+- ¿Preguntas?¿Problemas? Obten respuestas y asistencia si necesitas en support.withings.com
+- Notificaciones inteligentes: obten mensajes de texto, llamadas, correos electrónicos, calendario y notificaciones inteligentes de todas tus aplicaciones favoritas directamente en la pantalla del reloj
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071NVR2QQ/?tag=tolees-21)
