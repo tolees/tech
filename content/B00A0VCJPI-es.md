@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.61 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2021-01-12 04:54:04
+date: 2021-01-13 10:05:23
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21'
 descuento: '21.61'
-average: '16.767192429022096'
+average: '16.77485893416929'
 ---
 
 Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21) con un 21.61 % de descuento con precio de oferta de 17.99 EUR (original: 22.95 EUR) en el siguiente enlace!
