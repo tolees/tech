@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'OTGMemoria USB 2.0  Colourstone 32GB Pen al 15.02 % de rebaja'
+date: 2020-06-28 22:08:49
+image: 'https://m.media-amazon.com/images/I/41P09HhHdPL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B013W2WP9G-es'
+actualPrice: 7.64 EUR
+currency: EUR
+price: 7.64
+comparePrice: 8.99 EUR
+prodname: 'OTGMemoria USB 2.0  Colourstone 32GB Pendrive del Puerto Dual Compatible con Samsung Huawei Smartphones y Tablets Memoria Externa  Azul'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B013W2WP9G/?tag=tolees-21'
+descuento: '15.02'
+average: '7.773333333333333'
+---
+
+Tienes [OTGMemoria USB 2.0  Colourstone 32GB Pendrive del Puerto Dual Compatible con Samsung Huawei Smartphones y Tablets Memoria Externa  Azul](https://www.amazon.es/dp/B013W2WP9G/?tag=tolees-21) con precio final de  7.64 EUR (original: 8.99 EUR) (15.02 %  de rebaja) aqui!
+
+[![OTGMemoria USB 2.0  Colourstone 32GB Pen](https://m.media-amazon.com/images/I/41P09HhHdPL._SL200_.jpg)](https://www.amazon.es/dp/B013W2WP9G/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B013W2WP9G/?tag=tolees-21)
