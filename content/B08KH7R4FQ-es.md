@@ -25,10 +25,10 @@ Tienes [Gigabyte AORUS GeForce RTX 3090 Master - Tarjeta gráfica  24 GB ](https
 
 🔎:
 
-- Núcleos de Tensor de 3ª generación: obtenga hasta el doble de rendimiento con dispersión estructural y algoritmos de IA avanzados como DLSS. Ahora, con compatibilidad con una resolución de hasta 8K, estos núcleos ofrecen un enorme impulso en el rendimiento del juego y nuevas capacidades de IA
-- WINDFORCE STACK Sistema de refrigeración con ventiladores alternativos
-- Núcleos RT de 2ª generación: Experimente el rendimiento de núcleos RT de 1ª generación, además de RT y sombreado simultáneos para un nuevo nivel de rendimiento de trazado de rayos.
 - Multiprocesadores NVIDIA Ampere Streaming Multiprocessors: los pilares de la GPU más rápida y eficiente del mundo, el nuevo Ampere SM ofrece el doble de rendimiento FP32 y una eficiencia energética mejorada.
 - RGB Fusion 2.0
+- Núcleos de Tensor de 3ª generación: obtenga hasta el doble de rendimiento con dispersión estructural y algoritmos de IA avanzados como DLSS. Ahora, con compatibilidad con una resolución de hasta 8K, estos núcleos ofrecen un enorme impulso en el rendimiento del juego y nuevas capacidades de IA
+- Núcleos RT de 2ª generación: Experimente el rendimiento de núcleos RT de 1ª generación, además de RT y sombreado simultáneos para un nuevo nivel de rendimiento de trazado de rayos.
+- WINDFORCE STACK Sistema de refrigeración con ventiladores alternativos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KH7R4FQ/?tag=tolees-21)
