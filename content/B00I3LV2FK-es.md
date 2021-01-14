@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony MDREX15APPI - Auriculares in-Ear  con micrófono y Mand
 
 🔎:
 
-- Gran variedad de colores para adaptarse a tu estilo
-- Ligero para disfrutar de la experiencia definitiva de movilidad con música
-- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
 - Cómodos tapones de auricular de silicona de ajuste seguro
 - Rango de frecuencia 8 Hz-22 kHz
+- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
+- Gran variedad de colores para adaptarse a tu estilo
+- Ligero para disfrutar de la experiencia definitiva de movilidad con música
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I3LV2FK/?tag=tolees-21)
