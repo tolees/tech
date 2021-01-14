@@ -25,9 +25,9 @@ Ahora mismo tienes [Energy Sistem Fabric Box 1+ Pocket Grape Altavoz portátil c
 
 🔎:
 
-- BLUETOOTH & HANDS-FREE: pair it with your smartphone via Bluetooth to play all your music. The hands-free function makes it possible to answer your incoming calls.
-- TRUE WIRELESS STEREO: technology to pair two Energy Fabric Box speakers and listen to your music with twice as much power.
-- DESIGN AND POWER: The 3 W power, portable design and fabric front part turn the speaker into the perfect accessory to match your outfit.
 - MicroSD PLAYER & RADIO FM & AUDIO-IN: it features radio FM, a microSD MP3 player to listen to the music stored on cards of up to 64 GB and a 3.5 mm audio-in.
+- BLUETOOTH & HANDS-FREE: pair it with your smartphone via Bluetooth to play all your music. The hands-free function makes it possible to answer your incoming calls.
+- DESIGN AND POWER: The 3 W power, portable design and fabric front part turn the speaker into the perfect accessory to match your outfit.
+- TRUE WIRELESS STEREO: technology to pair two Energy Fabric Box speakers and listen to your music with twice as much power.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHDQSJN/?tag=tolees-21)
