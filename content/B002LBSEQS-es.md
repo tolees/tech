@@ -25,9 +25,9 @@ Ahora mismo tienes [Samson SR850 - Auriculares de diadema cerrados  color negro]
 
 🔎:
 
-- Respuesta de frecuencia de 10 Hz a 30 kHz y una impedancia de 32 Ohmios
-- Auriculares de referencia profesionales para estudio
-- Drivers de 50 mm para una reproducción excepcional y amplio rango dinámico
 - Diseño semi-abierto para una mejor audición en entornos con ruido ambiental
+- Drivers de 50 mm para una reproducción excepcional y amplio rango dinámico
+- Auriculares de referencia profesionales para estudio
+- Respuesta de frecuencia de 10 Hz a 30 kHz y una impedancia de 32 Ohmios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002LBSEQS/?tag=tolees-21)
