@@ -25,10 +25,10 @@ Está [Medion S4403 - Portátil táctil Convertible y Ultrafino 14" FullHD  Inte
 
 ℹ️:
 
-- Almacenamiento de 128GB SSD PCle.
-- Procesador Intel Core i3-7020U (2 núcleos, 3 MB cache, 2.3 GHz).
 - Sistema operativo Windows 10 Home.
+- Almacenamiento de 128GB SSD PCle.
 - Memoria RAM de 4GB DDR4.
+- Procesador Intel Core i3-7020U (2 núcleos, 3 MB cache, 2.3 GHz).
 - Pantalla táctil de 14 pulgadas Full HD con resolución de 1920 x 1080 píxeles.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y7MX1ZK/?tag=tolees-21)
