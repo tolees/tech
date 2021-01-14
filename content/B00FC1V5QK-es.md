@@ -27,7 +27,7 @@ Tienes [Lenovo 40A00065EU - Base de conexión para Ordenador portátil  Negro](h
 
 - Número de procesadores: 1
 - Dispone de 3 números de puertos USB
-- Tipo de producto: base de conexión para ordenador portátil
 - Dimensiones del producto: 34.5 x 16.25 x 5.56 cm
+- Tipo de producto: base de conexión para ordenador portátil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FC1V5QK/?tag=tolees-21)

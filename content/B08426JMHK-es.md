@@ -25,10 +25,10 @@ Está [Xiaomi Powerbank MI 18W Fast Charge Power Bank 3 10000MAH Black](https://
 
 ℹ️:
 
-- Power Protection
-- Simultaneous Charging of 2 Devices -
 - Lightweight and Transportable Design
-- Quick Charge
 - Percentage LED
+- Simultaneous Charging of 2 Devices -
+- Quick Charge
+- Power Protection
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08426JMHK/?tag=tolees-21)
