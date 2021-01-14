@@ -27,9 +27,9 @@ Está [Huawei Matebook 14 - Ordenador Portátil Ultrafino de 14   2K  Intel core
 
 - Procesador Intel Core i7-10510U (4 núcleos, 8 MB cache, 1.8 GHz hasta 4.9 GHz).
 - Memoria RAM de 16GB DDR3 2133MHz.
+- Sistema operativo Windows 10 Home.
 - Almacenamiento SSD de 512GB PCIe.
 - Pantalla de 14 pulgadas 2k, 2160 x 1440 píxeles, tecnología IPS.
-- Sistema operativo Windows 10 Home.
 - Tarjeta gráfica NVIDIA GeForce MX350-2GB GDDR5.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089XXC6FJ/?tag=tolees-21)
