@@ -25,10 +25,10 @@ Está [AOC 22B1HS - Monitor sin Bordes de 21.5” FHD  1920x1080  60 Hz  5 ms  2
 
 ℹ️:
 
-- Pantalla anti reflejante
 - Tecnología Flicker Free para disfrutar toda la acción sin parpadeos
-- Cuidado ocular avanzado - las tecnologías Low Blue Light (baja luz azul) y de visualización sin parpadeo evitan la fatiga ocular y el daño a la vista
 - Monitor sin bordes de 21.5 FullHD (1920x1080) para disfutar de una imagen nítida y detallada
+- Pantalla anti reflejante
+- Cuidado ocular avanzado - las tecnologías Low Blue Light (baja luz azul) y de visualización sin parpadeo evitan la fatiga ocular y el daño a la vista
 - Diseño de bisel estrecho sin marco, minimiza las distracciones y crea configuraciones de varios paneles prácticamente interrumpidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DH71M6W/?tag=tolees-21)
