@@ -25,11 +25,11 @@ Tienes [Panasonic KX-TGD310 - Teléfono fijo inalámbrico LCD  identificador de 
 
 🔎:
 
-- Tiempo de conversación de hasta 16 horas
-- Batería de larga duración, aprox 200 horas en espera
-- Compatible con el buscador de llaves (opcional)
-- Diseño estable, sólido y plano
 - Bloqueo de llamadas no deseadas
+- Tiempo de conversación de hasta 16 horas
+- Diseño estable, sólido y plano
+- Compatible con el buscador de llaves (opcional)
 - Modo no molestar
+- Batería de larga duración, aprox 200 horas en espera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VAG6H64/?tag=tolees-21)
