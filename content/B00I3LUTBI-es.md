@@ -25,10 +25,10 @@ En este momento está [Sony MDR-EX110LP - Auriculares de botón  color blanco co
 
 🔎:
 
-- Rango de frecuencia de 5-24.000 Hz
-- Diafragmas de neodimio de 9 mm para un sonido dinámico
-- Auricular SONY MDR-EX110LP
-- Cable tipo Y, 1,2 m de longitud. Conexión jack 3.5 mm chapado oro
 - Cómodos tapones de auricular de silicona de ajuste seguro
+- Cable tipo Y, 1,2 m de longitud. Conexión jack 3.5 mm chapado oro
+- Rango de frecuencia de 5-24.000 Hz
+- Auricular SONY MDR-EX110LP
+- Diafragmas de neodimio de 9 mm para un sonido dinámico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUTBI/?tag=tolees-21)
