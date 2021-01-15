@@ -25,10 +25,10 @@ Tienes [Fujifilm Instax Mini 9 - Cámara instantanea  solo cámara  Morado](http
 
 ℹ️:
 
-- Incluye lente selfie y fijación de lente de cierre
-- Incluye 3 filtros de color
-- Flash integrado con control automático de exposición
 - Utiliza Instax mini película, tamaño de impresión 54 (ancho) x 86 (alto) imagen tamaño 46 (ancho) x 62 (alto) mm
 - Produce fotos instantáneas de tamaño de tarjeta de crédito
+- Flash integrado con control automático de exposición
+- Incluye lente selfie y fijación de lente de cierre
+- Incluye 3 filtros de color
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07R5MMBG5/?tag=tolees-21)

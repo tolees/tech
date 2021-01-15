@@ -25,9 +25,9 @@ Tienes [PNY XLR8 CS3030 Unidad de Estado sólido M.2 1000 GB PCI Express 3D TLC 
 
 🔎:
 
+- Velocidad de lectura: 3500 MB/s
+- Factor de forma de disco SSD: M.2
 - Velocidad de escritura: 3000 MB/s
 - Capacidad del SDD: 1000 GB
-- Factor de forma de disco SSD: M.2
-- Velocidad de lectura: 3500 MB/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MW9NJSH/?tag=tolees-21)
