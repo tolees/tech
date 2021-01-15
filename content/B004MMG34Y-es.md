@@ -25,10 +25,10 @@ Tienes [Sony MDRE9LPB - Auriculares de Botón  Color Negro  In Ear](https://www.
 
 🔎:
 
-- Cable de 1.2 m duradero y ligero
 - Disponible en varios colores
 - Rango de frecuencia: 18 Hz a 22 kHz
-- Auriculares internos ligeros con diafragma de 13.5 mm
+- Cable de 1.2 m duradero y ligero
 - Diafragma de neodimio
+- Auriculares internos ligeros con diafragma de 13.5 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004MMG34Y/?tag=tolees-21)
