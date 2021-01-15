@@ -25,9 +25,9 @@ Tienes [Sony DSC-RX10 - Cámara compacta de 20.2 MP  Pantalla de 3"  Zoom óptic
 
 ℹ️:
 
-- Sensor CMOS Exmor R tipo 1.0 de 20,2 MP
-- Enfoca rápidamente para obtener fotos perfectas a cualquier distancia. Captura detalles llamativos gracias a una lente Carl Zeiss de 24-200 mm F2,8
-- Rápida lente de zoom ZEISS Sonnar T* F2.8
 - Comparte con un solo toque con NFC y control remoto
+- Enfoca rápidamente para obtener fotos perfectas a cualquier distancia. Captura detalles llamativos gracias a una lente Carl Zeiss de 24-200 mm F2,8
+- Sensor CMOS Exmor R tipo 1.0 de 20,2 MP
+- Rápida lente de zoom ZEISS Sonnar T* F2.8
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FWUDEEW/?tag=tolees-21)

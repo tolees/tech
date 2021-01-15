@@ -25,10 +25,10 @@ En este momento está [Amazfit GTR A1910 42 Cherry Bl - Smartwatch  42 mm   colo
 
 🔎:
 
-- Ejercicio + Salud + Vida diaria. Un sistema de control de la frecuencia cardíaca muy avanzado a escala completa.
 - Sumergible hasta 50 metros de profundidad y GPS de alta precisión.
+- Ejercicio + Salud + Vida diaria. Un sistema de control de la frecuencia cardíaca muy avanzado a escala completa.
 - Pantalla AMOLED de 326 PPI con una esfera muy elegante.
-- 12 modos de deportes, desde nadar hasta esquiar.
 - Una batería revolucionaria de 24 días de duración.
+- 12 modos de deportes, desde nadar hasta esquiar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y5P8QDW/?tag=tolees-21)
