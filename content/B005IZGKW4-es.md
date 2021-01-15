@@ -25,14 +25,14 @@ Tienes [Panasonic KX-TG1611 - Teléfono fijo inalámbrico  LCD  identificador de
 
 🔎:
 
+- Registro de llamada: 50 artículos (número y nombres)
+- Jack de auriculares: No
+- Potenciado de Voz: No
 - Retro iluminación de LCD: ámbar
 - Altavoz: No
-- Jack de auriculares: No
-- Tecla de navegación: Sí
-- Potenciado de Voz: No
-- Identificador de llamada: Compatibilidad con identificador de llamada: sí
 - Indentificación de llamada audible: No
+- Tecla de navegación: Sí
+- Identificador de llamada: Compatibilidad con identificador de llamada: sí
 - Funciones: Múltiples teléfonos - 6; Bases múltiples - 2
-- Registro de llamada: 50 artículos (número y nombres)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IZGKW4/?tag=tolees-21)
