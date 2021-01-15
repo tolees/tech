@@ -25,11 +25,11 @@ Tienes [Apple Funda Smart Battery Case de Carga inalámbrica  para el iPhone 11 
 
 🔎:
 
-- Cuando está cargada del todo, esta funda te da hasta un 50 % más de autonomía.
-- También admite accesorios Lightning, como los EarPods con conector Lightning (incluidos con el iPhone) y el adaptador de conector Lightning a AV digital (se vende por separado).
-- Cuando le pongas la Smart Battery Case a tu iPhone, verás el indicador inteligente de batería en la pantalla de bloqueo y en el Centro de Notificaciones. Así sabrás exactamente cuánta carga te queda.
 - La funda se puede cargar incluso más rápido con cargadores compatibles con USB-PD.
-- La Smart Battery Case es compatible con cargadores con certificación Qi.
 - Carga el teléfono y la funda a la vez para hablar, navegar por internet, ver vídeos y escuchar música durante más tiempo.
+- La Smart Battery Case es compatible con cargadores con certificación Qi.
+- También admite accesorios Lightning, como los EarPods con conector Lightning (incluidos con el iPhone) y el adaptador de conector Lightning a AV digital (se vende por separado).
+- Cuando está cargada del todo, esta funda te da hasta un 50 % más de autonomía.
+- Cuando le pongas la Smart Battery Case a tu iPhone, verás el indicador inteligente de batería en la pantalla de bloqueo y en el Centro de Notificaciones. Así sabrás exactamente cuánta carga te queda.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081SK4T9S/?tag=tolees-21)
