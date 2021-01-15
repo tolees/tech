@@ -26,13 +26,13 @@ En este momento está [Xiaomi Smart LED Ceiling Light 450 lámpara de techo  Bla
 🔎:
 
 - Intensidad regulable entre 50 y 3100 lúmenes (lm)
-- Para el encendido y apagado controlado por eventos, simplemente conecta dispositivos compatibles con la aplicación Mi Home Smart Home
-- Color de frío a blanco cálido (2700 – 6000 Kelvin)
-- La función de temporizador permite un encendido y apagado controlados por el tiempo
-- Cómodo control remoto a través de la aplicación Mi Home y a través de asistentes de voz comunes como, por ejemplo, Amazon Alexa y Google Assistant
 - Larga vida útil de 25.000 horas
-- Se puede utilizar directamente a través de una conexión con su router WiFi
+- La función de temporizador permite un encendido y apagado controlados por el tiempo
 - Bajo consumo de solo 45 W
+- Cómodo control remoto a través de la aplicación Mi Home y a través de asistentes de voz comunes como, por ejemplo, Amazon Alexa y Google Assistant
 - escenas de luz preestablecidas como la luz de la luna y la luz solar proporcionan una experiencia de iluminación variada
+- Para el encendido y apagado controlado por eventos, simplemente conecta dispositivos compatibles con la aplicación Mi Home Smart Home
+- Se puede utilizar directamente a través de una conexión con su router WiFi
+- Color de frío a blanco cálido (2700 – 6000 Kelvin)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MWGZKFS/?tag=tolees-21)
