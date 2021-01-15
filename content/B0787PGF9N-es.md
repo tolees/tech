@@ -25,9 +25,9 @@ Tienes [AmazonBasics - Ratón inalámbrico ergonómico - DPI ajustable - Rojo](h
 
 🔎:
 
-- Conexión inalámbrica de 2,4 GHz con un alcance de 10 metros; utiliza el cifrado AES-128 para ofrecer mayor seguridad; este ratón usa un pequeño receptor USB que puede permanecer conectado al ordenador sin obstruir otros puertos.
-- Medidas: 10,4 x 7,4 x 3,8 cm
-- Su forma ergonómica con laterales de goma asegura una sujeción cómoda; compatible con Windows 7, 8 y 10; usa 1 batería AA (incluida); color negro/morado/rojo/plateado.
 - Sensor láser avanzado; funciona en la mayoría de las superficies, incluido el vidrio; rueda de desplazamiento metálico cliqueable; botones para el pulgar de avance/retroceso para navegar fácilmente por las páginas web
+- Conexión inalámbrica de 2,4 GHz con un alcance de 10 metros; utiliza el cifrado AES-128 para ofrecer mayor seguridad; este ratón usa un pequeño receptor USB que puede permanecer conectado al ordenador sin obstruir otros puertos.
+- Su forma ergonómica con laterales de goma asegura una sujeción cómoda; compatible con Windows 7, 8 y 10; usa 1 batería AA (incluida); color negro/morado/rojo/plateado.
+- Medidas: 10,4 x 7,4 x 3,8 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0787PGF9N/?tag=tolees-21)
