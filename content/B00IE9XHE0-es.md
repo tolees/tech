@@ -25,11 +25,11 @@ Tienes [Sony A6000 - Cámara EVIL de 24 MP  pantalla de 3"  estabilizador óptic
 
 ℹ️:
 
-- Pantalla LCD de 3 pulgadas
-- Objetivo de 16 - 50 mm
-- Sensor de 24 MP con tamaño 23,5 mm x 16,5 mm y tecnología CMOS
-- Peso del producto: 345 g
 - Estabilizador de imagen óptico
 - Grabación de vídeo 1080p Full HD
+- Peso del producto: 345 g
+- Sensor de 24 MP con tamaño 23,5 mm x 16,5 mm y tecnología CMOS
+- Objetivo de 16 - 50 mm
+- Pantalla LCD de 3 pulgadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IE9XHE0/?tag=tolees-21)
