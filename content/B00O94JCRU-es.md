@@ -25,12 +25,12 @@ Tienes [Fujifilm Instax Mini 8 - Cámara analógica instantánea  flash  velocid
 
 🔎:
 
-- Control de la exposición a través de un indicador LED
 - Fotos instantáneas del tamaño de una tarjeta de crédito
-- Contenido de la caja: cámara, correa amarilla, pilas alcalinas y manuales
+- Control de la exposición a través de un indicador LED
 - Flash automático incorporado
-- Pantalla/visor: optical
-- Dial para ajustar el brillo de las fotos
 - Utiliza película color Fujifilm Instax Mini
+- Dial para ajustar el brillo de las fotos
+- Contenido de la caja: cámara, correa amarilla, pilas alcalinas y manuales
+- Pantalla/visor: optical
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O94JCRU/?tag=tolees-21)
