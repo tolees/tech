@@ -25,9 +25,9 @@ Está [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/64GB-2P1A Class 10  2X
 
 ℹ️:
 
-- Optimizadas para uso con dispositivos Android
-- Capacidad de la memoria: 64 GB
 - Tipo de memoria flash: Micro SD
+- Capacidad de la memoria: 64 GB
+- Optimizadas para uso con dispositivos Android
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z4GQHD6/?tag=tolees-21)
