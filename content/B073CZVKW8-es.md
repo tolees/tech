@@ -25,10 +25,10 @@ En este momento está [Canon EOS 6D MK II - Cámara digital réflex de 26.2 MP  
 
 🔎:
 
-- Diseño portátil y resistente, pensado para soportar las condiciones más adversas
-- El sensor de fotograma completo de 26.2 megapíxeles ofrece un excelente nivel de detalle, con alta latitud de exposición y bajo nivel de ruido
 - 45 puntos AF tipo cruz, que permiten enfocar con precisión milimétrica: capta momentos fugaces a 6.5 fps
-- Conexión Wifi y Bluetooth: el GPS incorporado etiqueta tu posición
+- Diseño portátil y resistente, pensado para soportar las condiciones más adversas
 - Dual Pixel CMOS AF enfoca con tanta seguridad como cuando se utiliza el modo Visión en Directo "Live View"
+- El sensor de fotograma completo de 26.2 megapíxeles ofrece un excelente nivel de detalle, con alta latitud de exposición y bajo nivel de ruido
+- Conexión Wifi y Bluetooth: el GPS incorporado etiqueta tu posición
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073CZVKW8/?tag=tolees-21)
