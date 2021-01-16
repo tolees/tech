@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teclado mecánico AK33 de Lexon Tech  Tec al 26.76 % de descuento'
-date: 2021-01-15 16:31:32
+date: 2021-01-16 16:59:08
 image: 'https://m.media-amazon.com/images/I/51UCd7EFJ5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYZSPBR/?tag=tolees-21'
 descuento: '26.76'
-average: '38.10375'
+average: '37.963095238095235'
 ---
 
 Está [Teclado mecánico AK33 de Lexon Tech  Teclado para Juegos con Cable USB con retroiluminación LED Azul  Teclado compactos de 82 Teclas  interruptores Azul Negro  mecanógrafos y Jugadores de Juegos](https://www.amazon.es/dp/B01LYZSPBR/?tag=tolees-21) con 26.76 de descuento por 35.15 EUR (original: 47.99 EUR) en el siguiente enlace!
