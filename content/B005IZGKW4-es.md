@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TG1611 - Teléfono fijo inal al 23.80 % de rebaja'
-date: 2021-01-14 22:24:53
+date: 2021-01-15 23:01:33
 image: 'https://m.media-amazon.com/images/I/31Ocu1UQSKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005IZGKW4/?tag=tolees-21'
 descuento: '23.80'
-average: '18.336315789473684'
+average: '18.328095238095237'
 ---
 
 Tienes [Panasonic KX-TG1611 - Teléfono fijo inalámbrico  LCD  identificador de llamadas  agenda de 50 números  tecla de navegación  alarma  reloj   color azul](https://www.amazon.es/dp/B005IZGKW4/?tag=tolees-21) con precio final de  18.25 EUR (original: 23.95 EUR) (23.80 %  de rebaja) aqui!
@@ -25,14 +25,14 @@ Tienes [Panasonic KX-TG1611 - Teléfono fijo inalámbrico  LCD  identificador de
 
 🔎:
 
-- Registro de llamada: 50 artículos (número y nombres)
+- Identificador de llamada: Compatibilidad con identificador de llamada: sí
+- Tecla de navegación: Sí
 - Jack de auriculares: No
+- Indentificación de llamada audible: No
+- Registro de llamada: 50 artículos (número y nombres)
+- Funciones: Múltiples teléfonos - 6; Bases múltiples - 2
+- Altavoz: No
 - Potenciado de Voz: No
 - Retro iluminación de LCD: ámbar
-- Altavoz: No
-- Indentificación de llamada audible: No
-- Tecla de navegación: Sí
-- Identificador de llamada: Compatibilidad con identificador de llamada: sí
-- Funciones: Múltiples teléfonos - 6; Bases múltiples - 2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IZGKW4/?tag=tolees-21)
