@@ -25,14 +25,14 @@ En este momento está [ASUS S425MC-A3200G0040 - Sobremesa de 20L  Ryzen 3 3200G 
 
 🔎:
 
-- Conectividad completa: 10 puertos USB
-- Sin sistema operativo
-- Tarjeta gráfica integrada AMD Radeon RX Vega 8 Graphics
-- Dos puertos de transmisión video independientes (VGA + DVI-D)
 - Tamaño de la caja 20 L con un diseño adaptado para una facilidad de coger
+- Tarjeta gráfica integrada AMD Radeon RX Vega 8 Graphics
 - Procesador AMD Ryzen 3 3200G APU (4 Núcleos, 4 Subprocesos, Caché: 2MB & 4MB Level 2&3, 3.60GHz hasta 4.00GHz, 64-bit)
-- 3 puertos de expansión: 1x PCIex1 + 2x PCIex16
+- Conectividad completa: 10 puertos USB
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe 3.0
+- Dos puertos de transmisión video independientes (VGA + DVI-D)
+- 3 puertos de expansión: 1x PCIex1 + 2x PCIex16
 - Memoria RAM de 8GB (8GB) DDR4 2666MHz
+- Sin sistema operativo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BTTHRCF/?tag=tolees-21)
