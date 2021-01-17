@@ -25,9 +25,9 @@ Tienes [Brother DCP-L8410CDW -Impresora multifunción láser Color Profesional 3
 
 ℹ️:
 
-- Impresión a doble cara
 - Pantalla LCD color táctil 9.3 cm
 - Alimentador automático 50 hojas (ADF)
+- Impresión a doble cara
 - Velocidad de digitalización 28 ipm
 - Velocidad de impresión y copia 31 ppm
 
