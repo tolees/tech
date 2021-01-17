@@ -25,9 +25,9 @@ Está [Tamron AF 16-300 mm F/3.5-6.3 Di II VC PZD MACRO - Objetivo para Nikon  d
 
 ℹ️:
 
-- Funciones adicionales como sensor APS-C, baja dispersión, asférica Múltiple, compensación de vibración
-- Contiene un ángulo de visión de 82° 12’ - 5° 20, estabilizador de imagen óptico, relación de reproducción 1:2.9
 - Objetivo Macro con distancia mínima de enfoque de 0.39 m y enfoque interno
+- Funciones adicionales como sensor APS-C, baja dispersión, asférica Múltiple, compensación de vibración
 - Con función enfoque manual, autofoco PZD, Motor Ultrasónico Piezoeléctrico
+- Contiene un ángulo de visión de 82° 12’ - 5° 20, estabilizador de imagen óptico, relación de reproducción 1:2.9
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JM15OD6/?tag=tolees-21)
