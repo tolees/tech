@@ -25,10 +25,10 @@ En este momento está [Motorola MBP162 - Vigilabebés audio plug-n-go con modo e
 
 🔎:
 
-- Conectividad Wi-Fi: funciones con la aplicación "Hubble for Smart Nursery", control remoto a través de teléfonos inteligentes y tabletas
-- La unidad del bebé con micrófono y altavoz, para poder escuchar y hablar con su bebé
+- Ideal para casa y para viajes: un alcance ilimitado gracias a la conectividad wifi y sin preocupaciones por que se acabe la batería gracias a su enchufe
 - Use la luz de la noche en una unidad de bebé para tranquilizar y calmar al bebé
 - La intensidad del ruido proveniente de la habitación de los niños se indica mediante luces
-- Ideal para casa y para viajes: un alcance ilimitado gracias a la conectividad wifi y sin preocupaciones por que se acabe la batería gracias a su enchufe
+- La unidad del bebé con micrófono y altavoz, para poder escuchar y hablar con su bebé
+- Conectividad Wi-Fi: funciones con la aplicación "Hubble for Smart Nursery", control remoto a través de teléfonos inteligentes y tabletas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HTHXB3/?tag=tolees-21)

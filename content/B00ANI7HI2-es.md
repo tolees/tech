@@ -1,29 +1,34 @@
 ---
 layout: post
-title: 'Jabra Speak 510 - Altavoz portátil para  al 20.84 % de descuento'
-date: 2020-10-01 20:18:33
+title: 'Jabra Speak 510 - Altavoz portátil para  al 15.93 % de descuento'
+date: 2021-01-17 20:04:25
 image: 'https://m.media-amazon.com/images/I/413BTmTk1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00ANI7HI2-es'
-actualPrice: 94.99 EUR
+actualPrice: 100.89 EUR
 currency: EUR
-price: 94.99
+price: 100.89
 comparePrice: 120.0 EUR
 prodname: 'Jabra Speak 510 - Altavoz portátil para conferencias con USB y Bluetooth  compatible con PC  Smartphones y Tabletas'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ANI7HI2/?tag=tolees-21'
-descuento: '20.84'
-average: '101.63315789473685'
+descuento: '15.93'
+average: '101.56238095238096'
 ---
 
-Ahora mismo tienes [Jabra Speak 510 - Altavoz portátil para conferencias con USB y Bluetooth  compatible con PC  Smartphones y Tabletas](https://www.amazon.es/dp/B00ANI7HI2/?tag=tolees-21) a 94.99 EUR (original: 120.0 EUR) (20.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jabra Speak 510 - Altavoz portátil para conferencias con USB y Bluetooth  compatible con PC  Smartphones y Tabletas](https://www.amazon.es/dp/B00ANI7HI2/?tag=tolees-21) a 100.89 EUR (original: 120.0 EUR) (15.93 %  de descuento) en el siguiente enlace!
 
 [![Jabra Speak 510 - Altavoz portátil para ](https://m.media-amazon.com/images/I/413BTmTk1LL._SL200_.jpg)](https://www.amazon.es/dp/B00ANI7HI2/?tag=tolees-21)
 
 🔎:
 
+- Prestigioso altavoz para conferencias: reconocido como el número 1 en calidad de sonido (voz y música) y galardonado con el premio de diseño Red Dot Design Award 2013
+- Contenido: 1x Jabra Speak 510, batería de iones de litio incluida, estuche de viaje, folleto con guía de inicio rápido; 120 mm de diámetro y 33 mm de altura, color: negro
+- Llamadas en conferencia con una calidad de sonido y control adecuados: conversaciones nítidas gracias al micrófono omnidireccional de 360 grados, cancelación de eco, control de llamadas y botones sensibles al tacto
+- Altavoz portátil completamente optimizado para viaje y la mejor experiencia de usuario: simplemente conéctelo al ordenador con el cable USB o a su móvil, tablet o auricular vía Bluetooth
+- Convierta cada habitación en una sala de reuniones: adecuado para conferencias telefónicas individuales y con grupos pequeños de hasta cuatro personas; compatible con las principales plataformas de CU
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ANI7HI2/?tag=tolees-21)
