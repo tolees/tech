@@ -27,9 +27,9 @@ Tienes [Sony WHXB700L.CE7 - Auriculares Inalámbricos Extra Bass  Bluetooth  NFC
 
 - Micrófono incorporado para manos libres
 - Diseño elegante y comodidad de escucha duradera
-- EXTRA BASS para un sonido rotundo y profundo
 - Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - Duración de batería de hasta 30 horas y carga rápida
 - Escucha con un solo toque con tecnología bluetooth y nfc
+- EXTRA BASS para un sonido rotundo y profundo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PCDR9W5/?tag=tolees-21)
