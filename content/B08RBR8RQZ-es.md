@@ -27,8 +27,8 @@ En este momento está [PlayVital Cubierta a Prueba de Polvo para Xbox Series X C
 
 - Protección en total para tu consola: evita el polvo, los pequeños arañazos, los rayos UV, los líquidos y los pelos de las mascotas.
 - Corte preciso: fácil acceso para puerto de cable de consola, fácil de colocar y retirar.
+- Nota: Por favor, retire la cubierta cuando la consola está encendido para evitar el sobrecalentamiento.
 - Modelo compatible: solo compatible con consola de Xbox Series X, no se adapta a otro modelo.
 - Material de primera calidad: Hecho de nylon lavable y planchable a mano, con diseño de doble capa forro impermeable y corte preciso para puerto de cable.
-- Nota: Por favor, retire la cubierta cuando la consola está encendido para evitar el sobrecalentamiento.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RBR8RQZ/?tag=tolees-21)
