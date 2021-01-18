@@ -25,11 +25,11 @@ Ahora mismo tienes [MSI GP65 Leopard 10SFK-495XES - Ordenador portátil Gaming d
 
 🔎:
 
-- Sin sistema operativo
-- Tarjeta grafica Nvidia GeForce RTX 2070, GDDR6 8GB
-- Memoria RAM de 16 GB DDR4, 2666 MHz
-- Almacenamiento SSD de 512 GB NVMe PCIe
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.0 GHz)
 - Pantalla 15.6" FullHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
+- Sin sistema operativo
+- Tarjeta grafica Nvidia GeForce RTX 2070, GDDR6 8GB
+- Almacenamiento SSD de 512 GB NVMe PCIe
+- Memoria RAM de 16 GB DDR4, 2666 MHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GP7PLLX/?tag=tolees-21)

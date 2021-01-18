@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TGK212 - Teléfono fijo inal con un 21.43 % de descuento'
-date: 2021-01-17 18:04:35
+date: 2021-01-18 18:15:33
 image: 'https://m.media-amazon.com/images/I/41IRFSVPP3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078CQHN8B/?tag=tolees-21'
 descuento: '21.43'
-average: '54.29827586206896'
+average: '54.342903225806445'
 ---
 
 En este momento está [Panasonic KX-TGK212 - Teléfono fijo inalámbrico de diseño Dúo  LCD  identificador de llamadas  agenda de 50 números  bloqueo de llamada  modo ECO   Blanco TGK21 Duo](https://www.amazon.es/dp/B078CQHN8B/?tag=tolees-21) a 54.99 EUR (original: 69.99 EUR) (21.43 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [Panasonic KX-TGK212 - Teléfono fijo inalámbrico de dise
 
 🔎:
 
+- Pantalla LCD retroiluminada en blanco de 1.5"
 - Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
-- Teléfono doble/duo
 - Teléfono inalámbrico digital de diseño con memoria con agenda para 50 elementos (nombre número)
 - Duración batería en reposo 200hs
-- Pantalla LCD retroiluminada en blanco de 1.5"
 - Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
+- Teléfono doble/duo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078CQHN8B/?tag=tolees-21)
