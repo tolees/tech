@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX15AP - Auriculares in-ear  co al 25.40 % de descuento'
-date: 2021-01-17 05:13:54
+date: 2021-01-18 05:50:19
 image: 'https://m.media-amazon.com/images/I/31EZXy8y9bL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21'
 descuento: '25.40'
-average: '6.080869565217391'
+average: '6.1005714285714285'
 ---
 
 Está [Sony MDR-EX15AP - Auriculares in-ear  con micrófono   negro](https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21) con 25.40 de descuento por 7.46 EUR (original: 10.0 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Está [Sony MDR-EX15AP - Auriculares in-ear  con micrófono   negro](https://www
 
 - Rango de frecuencia 8 hz-22 khz
 - Diafragmas de neodimio (9 mm)
-- Auriculares internos ligeros con diafragma de 9 mm, 8 hz-22 khz, tapones de silicona, diversos colores
-- Dispositivos compatibles: Todos los dispositivos jack 3,5 mm
 - Tipo de conectividad: Alámbrico
 - Longitud del cable: 1.2
+- Dispositivos compatibles: Todos los dispositivos jack 3,5 mm
+- Auriculares internos ligeros con diafragma de 9 mm, 8 hz-22 khz, tapones de silicona, diversos colores
 - Disponible en diversos colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21)
