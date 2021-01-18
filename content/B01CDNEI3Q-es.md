@@ -25,9 +25,9 @@ En este momento está [Sony HTRT3 - Barra de sonido  5.1 canales con altavoces t
 
 🔎:
 
-- Llena la habitación con auténtico sonido Surround de 5.1 canales
 - Reproducción de audio mediante USB
 - El amplificador digital S-Master ofrece un sonido de calidad, cristalino y nítido
+- Llena la habitación con auténtico sonido Surround de 5.1 canales
 - Música con un sonido excepcional en un solo paso con ClearAudio+
 - Conectividad Bluetooth sencilla con NFC con un solo toque
 
