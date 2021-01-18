@@ -27,8 +27,8 @@ Tienes [Maxesla WiFi Adaptador AC 1200Mbps USB WiFi Receptor Dual Band 2.4G/5GHz
 
 - Powerful Compatibility: Compatible with Windows XP/VISTA/7/8/10, Mac OS, and Linux operating system. Ultra-fast wireless adapter speed with the newest 802.11ac wifi technology, make you have a non-general web experience.
 - External Powerful Antenna: High gain long-range 5dBi dual band antenna network card can help you connect even when signals are weak.
-- USB 3.0 Port with Gold Plated: Works more stable and 10 TIMES faster than USB 2.0: brings 10 times faster and more solid wireless network connection.
-- Ultra-Speed: Up to 1200Mbps Wi-Fi speeds on 5GHz (867Mbps) or 2.4GHz (300Mbps) bands, Performance to reduce freezing and lags when streaming and gaming. Ultra-fast AC1200 wireless adapter speed with 802.11ac.
 - Easy to Use: Before plugging the wireless network adapter into the usb port, please FIRST install drivers via MINI CD disc, or download driver from https://a.ei72.com/b6zp to install. Once youve run the software, you can simply insert the adapter to get connected.
+- Ultra-Speed: Up to 1200Mbps Wi-Fi speeds on 5GHz (867Mbps) or 2.4GHz (300Mbps) bands, Performance to reduce freezing and lags when streaming and gaming. Ultra-fast AC1200 wireless adapter speed with 802.11ac.
+- USB 3.0 Port with Gold Plated: Works more stable and 10 TIMES faster than USB 2.0: brings 10 times faster and more solid wireless network connection.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PMS4BFC/?tag=tolees-21)

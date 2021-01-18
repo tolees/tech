@@ -25,9 +25,9 @@ Tienes [Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 
 
 🔎:
 
-- Velocidad de memoria: 1333 MHz (PC3-10600)
 - Tiempos de latencia: CL9 204-Pin SODIMM para los ordenadores portátiles
 - NOTA ! Es recomendable comprobar la compatibilidad de la tarjeta de memoria en la página web oficial de la tarjeta de memoria Kingston antes de hacer su compra.
+- Velocidad de memoria: 1333 MHz (PC3-10600)
 - Tecnología: DDR3 SDRAM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21)
