@@ -25,8 +25,8 @@ Tienes [HyperX Impact HX318LS11IB/4 Memoria RAM 1866 MHz DDR3L CL11 SODIMM 1.35 
 
 🔎:
 
+- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
 - Probada al 100 % en fábrica a elevadas velocidades
 - Funcionalidad Plug N Play
-- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VMCU9CO/?tag=tolees-21)
