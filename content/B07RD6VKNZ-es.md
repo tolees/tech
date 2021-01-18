@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Samsung Galaxy A20e - Smartphone de 5.8" al 16.88 % de descuento'
-date: 2021-01-17 11:07:50
+title: 'Samsung Galaxy A20e - Smartphone de 5.8" al 17.34 % de descuento'
+date: 2021-01-18 11:40:19
 image: 'https://m.media-amazon.com/images/I/313mi4NnGUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07RD6VKNZ-es'
-actualPrice: 143.8 EUR
+actualPrice: 143.0 EUR
 currency: EUR
-price: 143.8
+price: 143.0
 comparePrice: 173.0 EUR
 prodname: 'Samsung Galaxy A20e - Smartphone de 5.8" Super AMOLED  13 MP  3 GB RAM  32 GB ROM   Color Negro [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21'
-descuento: '16.88'
-average: '146.15850746268657'
+descuento: '17.34'
+average: '146.11205882352942'
 ---
 
-Está [Samsung Galaxy A20e - Smartphone de 5.8" Super AMOLED  13 MP  3 GB RAM  32 GB ROM   Color Negro [Versión Española]](https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21) con 16.88 de descuento por 143.8 EUR (original: 173.0 EUR) en el siguiente enlace!
+Está [Samsung Galaxy A20e - Smartphone de 5.8" Super AMOLED  13 MP  3 GB RAM  32 GB ROM   Color Negro [Versión Española]](https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21) con 17.34 de descuento por 143.0 EUR (original: 173.0 EUR) en el siguiente enlace!
 
 [![Samsung Galaxy A20e - Smartphone de 5.8"](https://m.media-amazon.com/images/I/313mi4NnGUL._SL200_.jpg)](https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21)
 
 ℹ️:
 
-- Pantalla de 5.8” super amoled; display 720 x 1560 (hd+)
-- 3 gb de ram; memoria interna de 32 gb y ranura para micro-sd hasta 512 gb
 - Batería de 3000 mah; cargador rápido tipo c
+- Pantalla de 5.8” super amoled; display 720 x 1560 (hd+)
 - Dispone de sensor de huella dactilar | dual-sim (nano + sim); procesador octa-core (dual core 1. 6 ghz + 1. 35 ghz)
+- 3 gb de ram; memoria interna de 32 gb y ranura para micro-sd hasta 512 gb
 - Cámara posterior: dos cámaras traseras (13 mp, f1.9 - 5 mp, f2.2) y cámara frontal: 8 mp
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21)
