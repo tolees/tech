@@ -25,10 +25,10 @@ En este momento está [Cámara de Seguridad inalámbrica Adicional eufyCam 2C de
 
 🔎:
 
-- Preparada para cualquier clima. Con un índice de protección impermeable IP67, la eufyCam 2C está construida para resistir a los elementos.
 - Medio año de seguridad con 1 carga. Evite las idas y venidas frecuentes para cargar la batería y disfrute de una autonomía de la batería de 180 días con solo una carga.
-- Requiere eufy Security HomeBase 2: la cámara adicional eufyCam 2C requiere un HomeBase 2 para funcionar. Tenga en cuenta que la cámara sola no funcionará. HomeBase / HomeBase E actualmente no es compatible con eufyCam 2 / 2c. Serán compatibles pronto.
-- Vigilancia de máxima calidad: transmite imágenes en tiempo real y las graba con una definición excepcional gracias a la resolución HD 1080p. El campo de visión diagonal de 135° permite ver lo que está ocurriendo exactamente tanto dentro como alrededor del hogar.
 - Alertas que importan. La tecnología de detección de personas permite a la cámara detectar de forma inteligente formas humanas y reconocer rostros. Así se asegura de que solo se le alerta cuando se acerca otra persona, y no un gato callejero.
+- Vigilancia de máxima calidad: transmite imágenes en tiempo real y las graba con una definición excepcional gracias a la resolución HD 1080p. El campo de visión diagonal de 135° permite ver lo que está ocurriendo exactamente tanto dentro como alrededor del hogar.
+- Requiere eufy Security HomeBase 2: la cámara adicional eufyCam 2C requiere un HomeBase 2 para funcionar. Tenga en cuenta que la cámara sola no funcionará. HomeBase / HomeBase E actualmente no es compatible con eufyCam 2 / 2c. Serán compatibles pronto.
+- Preparada para cualquier clima. Con un índice de protección impermeable IP67, la eufyCam 2C está construida para resistir a los elementos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XCC3GDX/?tag=tolees-21)
