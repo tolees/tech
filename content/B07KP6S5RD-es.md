@@ -25,10 +25,10 @@ Tienes [Epson Workforce ES-60W  Escáner Portátil Inalámbrico con WiFi | Carga
 
 ℹ️:
 
-- Simplifica tu carga de trabajo | Escaneado continuo con el modo de alimentación automática
 - Escanea en cualquier lugar | Diseño compacto y ligero
-- Alta velocidad de escaneado | Hasta cuatro segundos por página (8,5 ppm)
 - Alimentación mediante cable usb o con batería integrada | Escanea hasta 300 páginas entre cargas de la batería
+- Simplifica tu carga de trabajo | Escaneado continuo con el modo de alimentación automática
 - Incluye el nuevo software ScanSmart | Consigue un escaneado rápido y fácil
+- Alta velocidad de escaneado | Hasta cuatro segundos por página (8,5 ppm)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KP6S5RD/?tag=tolees-21)
