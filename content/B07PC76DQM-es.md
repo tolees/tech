@@ -25,9 +25,9 @@ Está [Lenovo T530-28ICB - Ordenador sobremesa  Intel Core i5-8400  8GB RAM  1TB
 
 ℹ️:
 
-- Procesador Intel Core i5-8400, 6 nucleos, 2.8Ghz hasta 4Ghz
 - Tarjeta grafica NVIDIA GeForce GTX1060-3GB GDDR5
 - Sistema operativo: Windows10
+- Procesador Intel Core i5-8400, 6 nucleos, 2.8Ghz hasta 4Ghz
 - Almacenamiento HDD de 1TB, 7200rpm
 - Memoria RAM de 8GB, DDR4
 

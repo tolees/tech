@@ -25,8 +25,8 @@ Tienes [Ubiquiti UAP-AC-LITE - Punto de acceso dual radio  Blanco](https://www.a
 
 🔎:
 
-- BLANCO
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
+- BLANCO
 - Punto +F16408:I16426de acceso
 - Wi-Fi estándares 802.11 a / b / g / n / ac
 
