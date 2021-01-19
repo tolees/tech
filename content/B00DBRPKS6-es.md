@@ -26,10 +26,10 @@ Está [TP-Link TL-SG1016DE - Gigabit Ethernet Switch de 16 puertos  Unmanaged Pr
 
 ℹ️:
 
-- Plug and play, no requiere configuración
 - Proporciona monitoreo de red, priorización de tráfico y VLAN caracteristicas
-- Switch gigabit de 16 puertos; RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - Interfaz de usuario basada en web y simplificar la gestión de configuración de utility
+- Switch gigabit de 16 puertos; RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
+- Plug and play, no requiere configuración
 - La innovadora tecnología energéticamente eficiente ahorra la energía hasta un 18%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DBRPKS6/?tag=tolees-21)
