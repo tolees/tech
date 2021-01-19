@@ -25,10 +25,10 @@ Está [Soundcore Flare Mini Altavoz Bluetooth  Altavoz inalámbrico portátil  I
 
 ℹ️:
 
-- A prueba de fiestas en la piscina: El Flare Mini está adaptado y preparado para cualquier situación a la que le lleven los buenos tiempos. La protección IPX7 impermeable supersegura soporta perfectamente derrames, lluvia e incluso la inmersión completa en agua.
-- Flare2: Conecte 2 altavoces Flare Mini mediante un único dispositivo Bluetooth para lograr un sonido estéreo notablemente mejorado.
 - Sonido potente general: Los altavoces de neodimio en configuración opuesta emiten un intenso sonido 360° impulsado por la tecnología BassUp.
 - Los fuegos artificiales del sonido: Observe un halo de brillo, pulsos y fases LED que destellan al ritmo de su música para una experiencia auditiva superior.
+- A prueba de fiestas en la piscina: El Flare Mini está adaptado y preparado para cualquier situación a la que le lleven los buenos tiempos. La protección IPX7 impermeable supersegura soporta perfectamente derrames, lluvia e incluso la inmersión completa en agua.
+- Flare2: Conecte 2 altavoces Flare Mini mediante un único dispositivo Bluetooth para lograr un sonido estéreo notablemente mejorado.
 - Que el ritmo no pare: Una batería de iones de litio de alta eficiencia le garantiza 12 horas de potente sonido y luz vibrante con una única carga.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PPNY861/?tag=tolees-21)

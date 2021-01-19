@@ -25,10 +25,10 @@ En este momento está [Anker Altavoz Bluetooth  Soundcore Mini  Super Altavoz po
 
 🔎:
 
-- Lo que obtendrás: Anker Soundcore mini, cable micro USB de carga, guía de bienvenida, garantía oficial de 18 meses y asistencia técnica de por vida.
-- Compacto y poderoso: un altavoz bluetooth superportátil que entrega un sonido poderoso con graves robustos a través de su cono de 5W y subwoofer pasivo.<BR>
-- Tiempo de reproducción aumentado: batería con tecnología Anker para darte 15 horas de reproducción continua con una sola carga, más del doble que otros altavoces similares.<BR>
-- ANKER, vuelve imparable tu música<BR>
 - Música imparable: Bluetooth, soporte micro SD, AUX y radio FM para brindarte opciones ilimitadas.<BR>
+- Tiempo de reproducción aumentado: batería con tecnología Anker para darte 15 horas de reproducción continua con una sola carga, más del doble que otros altavoces similares.<BR>
+- Lo que obtendrás: Anker Soundcore mini, cable micro USB de carga, guía de bienvenida, garantía oficial de 18 meses y asistencia técnica de por vida.
+- ANKER, vuelve imparable tu música<BR>
+- Compacto y poderoso: un altavoz bluetooth superportátil que entrega un sonido poderoso con graves robustos a través de su cono de 5W y subwoofer pasivo.<BR>
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HTH3C8S/?tag=tolees-21)
