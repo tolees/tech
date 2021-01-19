@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758G1HZM-es Xiaomi Mi Bluetooth Headphone Blanco - Auriculares...'
-tags: [ 'tole.es','auriculares','bluetooth','xiaomi', ]
+tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

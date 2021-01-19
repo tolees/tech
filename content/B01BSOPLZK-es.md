@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSOPLZK-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

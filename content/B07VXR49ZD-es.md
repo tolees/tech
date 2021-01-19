@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXR49ZD-es Garmin vívoactive 4S - Reloj inteligente con GPS y...'
-tags: [ 'tole.es','garmin','gps', ]
+tags: [ 'garmin','gps', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

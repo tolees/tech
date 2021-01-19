@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLCH8C8-es Reshias Funda BQ Aquaris X/X Pro Cárcasa Silicona...'
-tags: [ 'tole.es','móvil', ]
+tags: [ 'móvil', ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

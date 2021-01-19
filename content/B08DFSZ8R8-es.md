@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFSZ8R8-es Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad...'
-tags: [ 'tole.es','ordenador','ratón', ]
+tags: [ 'ordenador','ratón', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

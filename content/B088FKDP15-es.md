@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FKDP15-es Oihxse Funda con Sony Xperia 10 Cuero PU Billetera Cierre...'
-tags: [ 'tole.es','sony', ]
+tags: [ 'sony', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

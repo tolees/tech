@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBL91XQ-es Xiaomi GMR4015GL - Regleta'
-tags: [ 'tole.es','xiaomi', ]
+tags: [ 'xiaomi', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49
@@ -26,8 +26,8 @@ Está [Xiaomi GMR4015GL - Regleta](https://www.amazon.es/dp/B07YBL91XQ/?tag=tole
 
 ℹ️:
 
+- Producto de alta calidad
 - De la marca Xiaomi
 - Diseño moderno y funcional
-- Producto de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YBL91XQ/?tag=tolees-21)

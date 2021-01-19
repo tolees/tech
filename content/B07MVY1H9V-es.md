@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVY1H9V-es Anivia 1080P Full HD Webcam with Webcam Cover Cámara para...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

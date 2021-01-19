@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K03DAKS-es Moleskine - Bolsa ID Vertical para Ordenador Portátil o...'
-tags: [ 'tole.es','ordenador','tablet', ]
+tags: [ 'ordenador','tablet', ]
 actualPrice: 56.36 EUR
 currency: EUR
 price: 56.36

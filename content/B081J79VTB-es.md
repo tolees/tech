@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081J79VTB-es Zommuei Adaptador Bluetooth USB Mini Receptor Bluetooth y...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

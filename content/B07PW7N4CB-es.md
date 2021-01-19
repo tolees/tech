@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW7N4CB-es UGREEN Cable USB Tipo C a Lightning Cable iPhone 11 Apple...'
-tags: [ 'tole.es','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

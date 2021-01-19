@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
-tags: [ 'tole.es','gps','iphone','móvil','smartphone', ]
+tags: [ 'gps','iphone','móvil','smartphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSXWG3G-es DURAGADGET Funda Sumergible Negra para Canon Powershot...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

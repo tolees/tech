@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1L8JVG-es Funda para Xiaomi Redmi Note 8 Pro Adsorción Magnética...'
-tags: [ 'tole.es','xiaomi', ]
+tags: [ 'xiaomi', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

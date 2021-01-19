@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth Auriculares Blutetooth...'
-tags: [ 'tole.es','auriculares','iphone', ]
+tags: [ 'auriculares','iphone', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00009XVCZ-es Canon EF 50mm f/1.4 USM - Objetivo para Canon distancia...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 351.99 EUR
 currency: EUR
 price: 351.99

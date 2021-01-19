@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9BWNLP-es YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales...'
-tags: [ 'tole.es','1080p','wifi','disco','duro','full','hd', ]
+tags: [ '1080p','wifi','disco','duro','full','hd', ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

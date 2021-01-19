@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVNBT8J-es Unidad de disco duro externo delgada unidad de...'
-tags: [ 'tole.es','disco','duro', ]
+tags: [ 'disco','duro', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

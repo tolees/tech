@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886CYPHP-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

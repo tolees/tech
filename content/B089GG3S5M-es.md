@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GG3S5M-es TACKLIFE Trípode de Cámara 48cm-1.5m 360° Trípode Portátil...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

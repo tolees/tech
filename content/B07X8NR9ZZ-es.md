@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8NR9ZZ-es Baseus Cable USB Tipo C Cargador Quick Charge 3.0 Tipo c...'
-tags: [ 'tole.es','galaxy','huawei','samsung','sony', ]
+tags: [ 'galaxy','huawei','samsung','sony', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

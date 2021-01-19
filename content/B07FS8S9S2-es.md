@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS8S9S2-es Fujifilm XF10 - Cámara digital de 24.2 MP color negro'
-tags: [ 'tole.es','fujifilm', ]
+tags: [ 'fujifilm', ]
 actualPrice: 405.99 EUR
 currency: EUR
 price: 405.99

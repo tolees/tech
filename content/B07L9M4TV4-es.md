@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9M4TV4-es iHaper Auriculares Inalámbricos BT4.2 - Auriculares...'
-tags: [ 'tole.es','auriculares', ]
+tags: [ 'auriculares', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

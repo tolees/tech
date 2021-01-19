@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRH5YS5-es Bombilla Inteligente E14 WIFI de 9W LED Compatible con...'
-tags: [ 'tole.es','alexa','wifi','google','home', ]
+tags: [ 'alexa','wifi','google','home', ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

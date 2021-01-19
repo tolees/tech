@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GG7LZX-es HP Laser Jet Pro M254dw - Impresora color hasta 21 ppm...'
-tags: [ 'tole.es','impresora','disco','duro', ]
+tags: [ 'impresora','disco','duro', ]
 actualPrice: 204.93 EUR
 currency: EUR
 price: 204.93

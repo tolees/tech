@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPBQ14S-es Interruptor de Persiana wifi Frontoppy Interruptor...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

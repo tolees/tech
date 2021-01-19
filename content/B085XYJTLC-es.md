@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable Ratón Ordenador...'
-tags: [ 'tole.es','bluetooth','ordenador','ratón', ]
+tags: [ 'bluetooth','ordenador','ratón', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F9ZRVQ-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

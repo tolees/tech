@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLFZ1WH-es Sony Stativ VCT-SGR1 tripode Cámara de acción 3 Pata s...'
-tags: [ 'tole.es','sony', ]
+tags: [ 'sony', ]
 actualPrice: 96.39 EUR
 currency: EUR
 price: 96.39

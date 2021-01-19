@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THGN2BH-es Unico - Altavoz Bluetooth 5 0 Luces LED Altavoces...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Q5ZKC2-es GREENSKY Cartucho de Tinta de Repuesto para Epson 502XL...'
-tags: [ 'tole.es','impresora', ]
+tags: [ 'impresora', ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

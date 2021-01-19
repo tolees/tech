@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9JSL2W-es JBL Clip 3 Altavoz inalámbrico portátil con Bluetooth –...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

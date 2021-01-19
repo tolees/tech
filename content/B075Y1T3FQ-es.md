@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Y1T3FQ-es Tinta Original CaNON Multipack Rp-108 Tinta Color + Papel...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WW7YBW-es Soporte Movil Coche Magnético Universal Avolare N52 Iman...'
-tags: [ 'tole.es','huawei','iphone','samsung', ]
+tags: [ 'huawei','iphone','samsung', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

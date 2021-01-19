@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075M2QLKT-es STAROVER Reemplazo Cartucho de Tóner Compatible para HP...'
-tags: [ 'tole.es','impresora', ]
+tags: [ 'impresora', ]
 actualPrice: 52.65 EUR
 currency: EUR
 price: 52.65

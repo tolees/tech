@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNVDZWS-es Altavoz Bluetooth portátil ajustable 7 colores sonido...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

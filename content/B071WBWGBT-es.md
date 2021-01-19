@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WBWGBT-es Syncwire Cable HDMI 2.0 de alta velocidad 2M - Ultra HD 4k...'
-tags: [ 'tole.es','1080p','apple','playstation','ps4', ]
+tags: [ '1080p','apple','playstation','ps4', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

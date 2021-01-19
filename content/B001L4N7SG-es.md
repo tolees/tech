@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001L4N7SG-es Panasonic RP-HS47E-W - Auriculares de Clip Compactos...'
-tags: [ 'tole.es','auriculares','panasonic', ]
+tags: [ 'auriculares','panasonic', ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

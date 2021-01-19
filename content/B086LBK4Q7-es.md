@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086LBK4Q7-es Auriculares Bluetooth Estéreo Auriculares Inalámbricos...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

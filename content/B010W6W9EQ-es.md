@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010W6W9EQ-es Shure MV5-LTG micrófono de condensador digital para USB y...'
-tags: [ 'tole.es','auriculares', ]
+tags: [ 'auriculares', ]
 actualPrice: 99.8 EUR
 currency: EUR
 price: 99.8

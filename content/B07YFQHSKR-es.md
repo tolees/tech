@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFQHSKR-es Fanlce Repetidor WiFi，Banda Dual Amplificador de WiFi...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXF7HXN-es AmazonBasics - auriculares supraurales ligeros Negro'
-tags: [ 'tole.es','auriculares', ]
+tags: [ 'auriculares', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

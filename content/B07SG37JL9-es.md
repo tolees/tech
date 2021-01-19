@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SG37JL9-es Auriculares Skullcandy Venue Active Cancelación Ruido...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

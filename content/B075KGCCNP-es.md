@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KGCCNP-es Skyee [2 Unidades Soporte Movil Coche Magnético Pegar en...'
-tags: [ 'tole.es','gps','smartphone', ]
+tags: [ 'gps','smartphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

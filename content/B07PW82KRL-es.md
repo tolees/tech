@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW82KRL-es DYNASONIC - Altavoz Bluetooth con Karaoke 2 Micrófonos...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

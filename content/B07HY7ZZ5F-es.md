@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY7ZZ5F-es Mando a Distancia para Toshiba LCD / 3D / LED TV'
-tags: [ 'tole.es','toshiba', ]
+tags: [ 'toshiba', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

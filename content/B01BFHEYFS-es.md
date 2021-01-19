@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFHEYFS-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
-tags: [ 'tole.es','asus', ]
+tags: [ 'asus', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

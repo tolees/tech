@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7NJ1FX-es HP Smart Tank Plus 555 - Impresora multifunción imprime...'
-tags: [ 'tole.es','impresora','móvil', ]
+tags: [ 'impresora','móvil', ]
 actualPrice: 201.0 EUR
 currency: EUR
 price: 201.0

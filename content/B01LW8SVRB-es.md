@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LW8SVRB-es Garmin vivofit Jr - Tracker de actividad para niños rojo'
-tags: [ 'tole.es','garmin', ]
+tags: [ 'garmin', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

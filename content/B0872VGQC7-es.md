@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872VGQC7-es Webcam Full HD 1080p Cámara Web USB con Micrófono...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

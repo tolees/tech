@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897GDDJ2-es ieGeek Webcam 1080P con Soporte USB PC Cámara Web con...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

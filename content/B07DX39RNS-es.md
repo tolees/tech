@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX39RNS-es Samsung Original Tipo C Cargador rápido EP-TA20EBE Color...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

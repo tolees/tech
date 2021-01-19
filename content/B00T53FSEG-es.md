@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T53FSEG-es Panasonic Lumix DMC-FT30 - Cámara Acuática Sumergible de...'
-tags: [ 'tole.es','panasonic', ]
+tags: [ 'panasonic', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

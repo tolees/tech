@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCPHLJI-es Urchoiceltd Juego De Teclado y Mouse Tecnología M398...'
-tags: [ 'tole.es','ratón','teclado', ]
+tags: [ 'ratón','teclado', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

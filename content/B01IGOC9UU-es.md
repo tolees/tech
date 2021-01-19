@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IGOC9UU-es NEWYES Tableta de Escritura LCD Pizarra Digital Tablet...'
-tags: [ 'tole.es','tablet', ]
+tags: [ 'tablet', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

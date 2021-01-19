@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ1S91N-es LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara...'
-tags: [ 'tole.es','móvil', ]
+tags: [ 'móvil', ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

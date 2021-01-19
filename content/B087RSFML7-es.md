@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RSFML7-es ASUS TP412FA-EC082T - Portátil de 14" FullHD Intel Core...'
-tags: [ 'tole.es','asus','ram','teclado', ]
+tags: [ 'asus','ram','teclado', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

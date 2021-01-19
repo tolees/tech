@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5NYRES-es Logitech Brio Ultra HD Pro Webcam Streaming Fluido...'
-tags: [ 'tole.es','logitech', ]
+tags: [ 'logitech', ]
 actualPrice: 176.82 EUR
 currency: EUR
 price: 176.82

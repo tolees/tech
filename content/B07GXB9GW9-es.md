@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXB9GW9-es PDP - Mando Smash Pad Pro Con Cable Pikachu Nintendo Switch'
-tags: [ 'tole.es','nintendo','nintendo','switch', ]
+tags: [ 'nintendo','nintendo','switch', ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

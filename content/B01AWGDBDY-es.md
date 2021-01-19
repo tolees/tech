@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWGDBDY-es Brother ADS2800W - Escáner departamental de alta velocidad...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 452.0 EUR
 currency: EUR
 price: 452.0

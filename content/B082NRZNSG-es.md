@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NRZNSG-es Jelly Comb Teclado retroiluminado inalámbrico Bluetooth -...'
-tags: [ 'tole.es','bluetooth','teclado', ]
+tags: [ 'bluetooth','teclado', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

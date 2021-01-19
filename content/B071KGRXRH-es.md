@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KGRXRH-es SanDisk Ultra 3D - SSD con hasta 550 MB/s de velocidad de...'
-tags: [ 'tole.es','sandisk', ]
+tags: [ 'sandisk', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

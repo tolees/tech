@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP4L7M6-es ivencase Funda Xiaomi Redmi Note 8 + Cristal Templado para...'
-tags: [ 'tole.es','xiaomi', ]
+tags: [ 'xiaomi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXRWWB6-es Seagate BarraCuda 2TB Disco duro interno HDD 2 5 in SATA 6...'
-tags: [ 'tole.es','ordenador','disco','duro', ]
+tags: [ 'ordenador','disco','duro', ]
 actualPrice: 78.86 EUR
 currency: EUR
 price: 78.86

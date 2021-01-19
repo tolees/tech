@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6MN5ZL-es ASUS ROG STRIX G531GV-AL172 - Portátil Gaming de 15 6"...'
-tags: [ 'tole.es','asus','ram','teclado', ]
+tags: [ 'asus','ram','teclado', ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

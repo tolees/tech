@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K1YQS1E-es Andoer Flashes con zapata Flash Speedlite para Cámara...'
-tags: [ 'tole.es','canon','nikon','pentax', ]
+tags: [ 'canon','nikon','pentax', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

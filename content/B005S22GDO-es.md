@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005S22GDO-es T’NB Ratón Óptico Inalámbrico Blanco - Ultra Compacto...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

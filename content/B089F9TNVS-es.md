@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089F9TNVS-es Blackview BV6900 2020 Móvil Libre Resistente IP68 Telefono...'
-tags: [ 'tole.es','móvil', ]
+tags: [ 'móvil', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9C3NF5-es JIALONG Alfombrilla de Ratón Grande Gaming Mouse Pad XXL...'
-tags: [ 'tole.es','ordenador','ratón', ]
+tags: [ 'ordenador','ratón', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

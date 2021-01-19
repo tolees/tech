@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDJSR6Z-es Aftershokz Trekz Air - Auriculares de conducción ósea...'
-tags: [ 'tole.es','auriculares', ]
+tags: [ 'auriculares', ]
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GO6ZSNW-es Energy Sistem MP4 Touch Bluetooth Bluetooth 8 GB Táctil...'
-tags: [ 'tole.es','bluetooth','microsd', ]
+tags: [ 'bluetooth','microsd', ]
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

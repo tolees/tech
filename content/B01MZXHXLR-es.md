@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZXHXLR-es DURAGADGET Bandolera para Videocámara Sony Handycam FDR-...'
-tags: [ 'tole.es','sony', ]
+tags: [ 'sony', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZWQ5C-es KASTEWILL Adaptador Bluetooth 5.0 Receptor Transmisor...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

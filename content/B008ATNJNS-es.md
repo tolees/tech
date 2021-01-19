@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ATNJNS-es Apple MagSafe 2 - Adaptador de Corriente de 85 vatios para...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 65.36 EUR
 currency: EUR
 price: 65.36

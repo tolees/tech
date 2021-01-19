@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCGBHGY-es Baoblaze Commlite Ct-g430cr Receptor de Disparo de Flash...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

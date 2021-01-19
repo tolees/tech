@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVGYRFC-es SatIntegral S-1412 HD Rocket Receptor satélite Full HD...'
-tags: [ 'tole.es','full','hd', ]
+tags: [ 'full','hd', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

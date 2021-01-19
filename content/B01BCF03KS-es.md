@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCF03KS-es Samsung S27F350FHU 27" Full HD PLS Negro Pantalla para PC...'
-tags: [ 'tole.es','samsung','full','hd', ]
+tags: [ 'samsung','full','hd', ]
 actualPrice: 166.82 EUR
 currency: EUR
 price: 166.82

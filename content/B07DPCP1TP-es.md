@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPCP1TP-es Mpow Mini Auriculares Bluetooth Invisibles Auriculares...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

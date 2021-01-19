@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G27RXB2-es Baoblaze 1 pc Smartwatch Reloj Digital Mano Unisex...'
-tags: [ 'tole.es','smartwatch', ]
+tags: [ 'smartwatch', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

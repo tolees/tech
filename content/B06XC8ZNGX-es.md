@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC8ZNGX-es Lenovo V510-15Ikb Ordenador portátil 15 6" HD Intel...'
-tags: [ 'tole.es','lenovo','ordenador','ram','teclado', ]
+tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 231.71 EUR
 currency: EUR
 price: 231.71

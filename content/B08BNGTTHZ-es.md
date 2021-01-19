@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNGTTHZ-es Webcam Mac Full HD 720P con Micrófono Web CAM USB 2.0 para...'
-tags: [ 'tole.es','full','hd', ]
+tags: [ 'full','hd', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

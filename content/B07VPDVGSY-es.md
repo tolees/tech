@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPDVGSY-es Jslai Niños Smartwatch Imprägniern Inteligente Relojes...'
-tags: [ 'tole.es','móvil','smartwatch', ]
+tags: [ 'móvil','smartwatch', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

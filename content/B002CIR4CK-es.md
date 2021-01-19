@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CIR4CK-es Suunto Core - Reloj de exterior para todas las altitudes...'
-tags: [ 'tole.es','suunto', ]
+tags: [ 'suunto', ]
 actualPrice: 122.34 EUR
 currency: EUR
 price: 122.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D9F8CD1-es Blackview BV6300 Pro Móvil Libre Resistente Android 10...'
-tags: [ 'tole.es','móvil','smartphone', ]
+tags: [ 'móvil','smartphone', ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

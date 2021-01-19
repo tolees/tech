@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZRYSVN-es DYNASONIC - Dynapro 12 - Altavoz Inalámbrico Sistema Audio...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

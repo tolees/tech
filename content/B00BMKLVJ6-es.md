@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMKLVJ6-es LEGO Mindstorms - EV3 Set de Robots de Juguete 5 en 1...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 295.0 EUR
 currency: EUR
 price: 295.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EIXO56O-es IntimaTe WM Heart Silla de Escritorio de Oficina de PU...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

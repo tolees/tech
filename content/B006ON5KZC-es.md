@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006ON5KZC-es Corsair Mac Memory - Memoria para Apple Mac de 16 GB 2 x 8...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

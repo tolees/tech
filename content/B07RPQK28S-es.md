@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPQK28S-es WELPOP PGI-580XXL CLI-581XXL Compatible para Canon PGI-580...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNCVJ4R-es RAMPOW Cable USB C a Lightning [Apple MFi Certificado]...'
-tags: [ 'tole.es','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

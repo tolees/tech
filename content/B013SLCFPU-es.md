@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013SLCFPU-es Logitech M535 Ratón Inalámbrico Bluetooth Sensor Láser...'
-tags: [ 'tole.es','bluetooth','logitech','ratón', ]
+tags: [ 'bluetooth','logitech','ratón', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

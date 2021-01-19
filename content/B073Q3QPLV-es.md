@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073Q3QPLV-es Apple Smart Keyboard para el iPad de 10 2 pulgadas el iPad...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

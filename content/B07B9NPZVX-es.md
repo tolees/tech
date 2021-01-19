@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9NPZVX-es JBL Tuner Radio Portátil DAB/DAB+ – Altavoz portátil...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 70.59 EUR
 currency: EUR
 price: 70.59

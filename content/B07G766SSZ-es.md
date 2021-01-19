@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G766SSZ-es TRAIL WATCHER Cámara de Caza 16MP 1080P HD Trail Cámara...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

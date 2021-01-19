@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYB3MD6-es Invision Soporte de Pared para TV para 24-55 Pulgadas...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

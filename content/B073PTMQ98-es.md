@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PTMQ98-es Logitech PTZ Pro Camera'
-tags: [ 'tole.es','logitech', ]
+tags: [ 'logitech', ]
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8XZ6SF-es Skechers Girls Go Walk 4- Kindle Low-Top Sneakers Black...'
-tags: [ 'tole.es','kindle', ]
+tags: [ 'kindle', ]
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

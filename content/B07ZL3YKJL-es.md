@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL3YKJL-es Reulin - Cable de Red Gigabit Ethernet de 12 m Cat 7A...'
-tags: [ 'tole.es','gigabit', ]
+tags: [ 'gigabit', ]
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

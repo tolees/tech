@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2RXZPJ-es soges Mesa Ordenador Gran Escritorio de Esquina Moderna...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

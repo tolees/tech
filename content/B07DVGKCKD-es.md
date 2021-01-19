@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVGKCKD-es Toshiba MG06ACA10TE - Disco Duro 3.5" 10000 GB 7200 RPM'
-tags: [ 'tole.es','toshiba','disco','duro', ]
+tags: [ 'toshiba','disco','duro', ]
 actualPrice: 321.99 EUR
 currency: EUR
 price: 321.99

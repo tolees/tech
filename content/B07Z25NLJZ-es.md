@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z25NLJZ-es Brinonac Pantalla para iPhone 8 4.7" Táctil LCD de...'
-tags: [ 'tole.es','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

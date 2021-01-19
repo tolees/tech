@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012H1YDD4-es TECKNET Tarjeta de Sonido USB Tarjeta de Sonido Externa...'
-tags: [ 'tole.es','auriculares','ordenador', ]
+tags: [ 'auriculares','ordenador', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

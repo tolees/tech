@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMRX4JQ-es Auriculares Inalambricos Bluetooth con Micrófono HiFi...'
-tags: [ 'tole.es','auriculares','bluetooth','iphone','samsung', ]
+tags: [ 'auriculares','bluetooth','iphone','samsung', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

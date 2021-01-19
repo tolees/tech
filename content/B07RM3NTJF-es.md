@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM3NTJF-es MSI GS65 Stealth 9SG-453ES - Ordenador portátil de 15.6"...'
-tags: [ 'tole.es','ordenador','ram','teclado', ]
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2769.0 EUR
 currency: EUR
 price: 2769.0

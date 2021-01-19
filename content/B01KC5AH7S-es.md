@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KC5AH7S-es Auriculares Inalámblicos Auriculares Bluetooth in Ear con...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

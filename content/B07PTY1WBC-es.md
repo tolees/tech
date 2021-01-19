@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTY1WBC-es FREDI Cámara de Vigilancia para exteriore 1080P HD...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLJP97W-es Primewire 15m Cable de Red Gigabit Ethernet Cat 7-10000...'
-tags: [ 'tole.es','gigabit', ]
+tags: [ 'gigabit', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

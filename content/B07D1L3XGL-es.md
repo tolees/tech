@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1L3XGL-es AOC 27B1H Monitor IPS de 27" con Pantalla FHD 1920 x 1080...'
-tags: [ 'tole.es','ips', ]
+tags: [ 'ips', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

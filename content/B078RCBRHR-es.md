@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078RCBRHR-es TUKA Mouse Pad Alfombrilla de ratón con el cojín de muñeca...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

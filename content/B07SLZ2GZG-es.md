@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZ2GZG-es Veetop Cable Ethernet Cat 8 de Red con Conectores rj45 Oro...'
-tags: [ 'tole.es','gigabit', ]
+tags: [ 'gigabit', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

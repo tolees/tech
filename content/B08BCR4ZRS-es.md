@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCR4ZRS-es MSI B550M Pro-VDH WiFi - Placa Base Pro Series AMD Ryzen...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

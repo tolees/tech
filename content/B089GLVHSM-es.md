@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
-tags: [ 'tole.es','auriculares','iphone','auriculares','estéreo', ]
+tags: [ 'auriculares','iphone','auriculares','estéreo', ]
 actualPrice: 3.33 EUR
 currency: EUR
 price: 3.33

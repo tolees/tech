@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVH9XR8-es Fujifilm Instax Mini LiPlay Negro'
-tags: [ 'tole.es','fujifilm', ]
+tags: [ 'fujifilm', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

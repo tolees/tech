@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H884WQT-es ACEPC Mini PC Windows 10 Pro Intel Atom x5-Z8350...'
-tags: [ 'tole.es','ram', ]
+tags: [ 'ram', ]
 actualPrice: 110.41 EUR
 currency: EUR
 price: 110.41

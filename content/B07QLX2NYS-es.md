@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLX2NYS-es Teléfono Celular Bolsa con Clip de Cinturón 6.3" Bolsa...'
-tags: [ 'tole.es','móvil', ]
+tags: [ 'móvil', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

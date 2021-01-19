@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PRZ8AI-es Silver Electronics Bombilla PLC 2Pin 4200k 26 watts Blanco...'
-tags: [ 'tole.es','plc', ]
+tags: [ 'plc', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

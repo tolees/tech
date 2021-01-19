@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2RP84Q-es Apple Mac mini Modelo Anterior 8GB RAM 128GB de...'
-tags: [ 'tole.es','apple','ram', ]
+tags: [ 'apple','ram', ]
 actualPrice: 739.0 EUR
 currency: EUR
 price: 739.0

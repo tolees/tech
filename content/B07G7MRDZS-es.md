@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7MRDZS-es MSI Vortex W25 8SL-083ES - Ordenador workstation Intel...'
-tags: [ 'tole.es','ordenador','ram', ]
+tags: [ 'ordenador','ram', ]
 actualPrice: 2499.99 EUR
 currency: EUR
 price: 2499.99

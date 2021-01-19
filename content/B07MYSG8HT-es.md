@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYSG8HT-es Ushining Teléfono Móvil Basico Teléfono Móvil para...'
-tags: [ 'tole.es','bluetooth','móvil', ]
+tags: [ 'bluetooth','móvil', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ6MSD5-es QueenDer Alfombrilla de Ratón Alfombrilla de Ratón...'
-tags: [ 'tole.es','ordenador','ratón', ]
+tags: [ 'ordenador','ratón', ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

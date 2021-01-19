@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RKGSD88-es Advance VE-NB35 - Base de refrigeración para Ordenador...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

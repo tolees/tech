@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y...'
-tags: [ 'tole.es','ordenador','ps4','wii','xbox', ]
+tags: [ 'ordenador','ps4','wii','xbox', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

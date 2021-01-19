@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2XJ8WM-es Nikon Z6 - Cámara sin Espejos de 24.5 MP Pantalla LCD de...'
-tags: [ 'tole.es','bluetooth','nikon','wifi', ]
+tags: [ 'bluetooth','nikon','wifi', ]
 actualPrice: 2461.89 EUR
 currency: EUR
 price: 2461.89

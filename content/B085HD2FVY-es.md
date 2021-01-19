@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HD2FVY-es Zambrero 550 551 Reemplazo para Canon PGI-550XL CLI-551XL...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

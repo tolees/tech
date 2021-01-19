@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LM8YM4-es MKTOSASA - Altavoz bailarín de Original diseño Que Baila...'
-tags: [ 'tole.es','altavoz', ]
+tags: [ 'altavoz', ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

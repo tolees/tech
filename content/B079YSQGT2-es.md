@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YSQGT2-es TP-Link EAP225-Outdoor Omada AC1200 Punto de Acceso...'
-tags: [ 'tole.es','gigabit', ]
+tags: [ 'gigabit', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

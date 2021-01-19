@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXRP84V-es Ayete Ratón Inalámbrico Mini Ratón Inalámbrico Ratón...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

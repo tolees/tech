@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos...'
-tags: [ 'tole.es','galaxy','gps','iphone','motorola','móvil','samsung', ]
+tags: [ 'galaxy','gps','iphone','motorola','móvil','samsung', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

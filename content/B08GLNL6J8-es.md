@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLNL6J8-es UniqueMe [2 Pack] Protector de Pantalla para Xiaomi Mi...'
-tags: [ 'tole.es','xiaomi', ]
+tags: [ 'xiaomi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

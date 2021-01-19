@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C672JPS-es Nikon Coolpix A900 - Cámara compacta de 20.3" WiFi...'
-tags: [ 'tole.es','bluetooth','nikon','wifi', ]
+tags: [ 'bluetooth','nikon','wifi', ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

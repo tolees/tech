@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFYQ7TZ-es FR-TEC - Auriculares Gaming Headset SHIELD Rojo Nintendo...'
-tags: [ 'tole.es','auriculares','nintendo','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','nintendo','switch', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

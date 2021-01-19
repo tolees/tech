@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9V1LS5-es Apple Funda Silicone Case para el iPhone XS - Negro'
-tags: [ 'tole.es','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

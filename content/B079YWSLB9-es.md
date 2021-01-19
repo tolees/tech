@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9 5.8" Wi-...'
-tags: [ 'tole.es','bluetooth','galaxy','ram','samsung','smartphone', ]
+tags: [ 'bluetooth','galaxy','ram','samsung','smartphone', ]
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

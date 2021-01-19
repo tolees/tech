@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB7P9L8-es TAIFU 19V 3 42A Adaptador Cargador para Portátil ASUS...'
-tags: [ 'tole.es','asus', ]
+tags: [ 'asus', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

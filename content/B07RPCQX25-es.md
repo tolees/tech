@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPCQX25-es HP Laserjet Pro M404dn - Impresora Láser Monocromo A4...'
-tags: [ 'tole.es','gigabit','impresora', ]
+tags: [ 'gigabit','impresora', ]
 actualPrice: 166.94 EUR
 currency: EUR
 price: 166.94

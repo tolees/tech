@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL1ZDHN-es SAFETYON Accesorios para iRobot Roomba Serie 600 - Roomba...'
-tags: [ 'tole.es','irobot','roomba', ]
+tags: [ 'irobot','roomba', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

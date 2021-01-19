@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MD1GDWK-es Asus VP228HE - Monitor LCD de 21.5" para PC 1920 x 1080...'
-tags: [ 'tole.es','asus','full','hd', ]
+tags: [ 'asus','full','hd', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

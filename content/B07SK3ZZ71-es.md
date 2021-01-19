@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK3ZZ71-es Corsair HS35 - Auriculares Stereo para Juegos Membrana...'
-tags: [ 'tole.es','auriculares','nintendo','ps4','xbox','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','ps4','xbox','nintendo','switch', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

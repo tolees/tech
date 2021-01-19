@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NUB8J3Q-es Brother HL-1210W - Impresora láser monocromo compacta con...'
-tags: [ 'tole.es','impresora','wifi', ]
+tags: [ 'impresora','wifi', ]
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

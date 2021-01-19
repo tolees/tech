@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT4D9QW-es Sony SRSXB01R - Altavoz inalámbrico portátil Compacto...'
-tags: [ 'tole.es','bluetooth','sony','altavoz', ]
+tags: [ 'bluetooth','sony','altavoz', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

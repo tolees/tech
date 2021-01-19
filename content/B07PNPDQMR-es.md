@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNPDQMR-es Funda para iPhone 6 6s Ultra-Delgado Disipadores de Calor...'
-tags: [ 'tole.es','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

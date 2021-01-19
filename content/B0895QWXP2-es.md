@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895QWXP2-es RIWNNI [2 Unidades] Protector Pantalla para iPad 8...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

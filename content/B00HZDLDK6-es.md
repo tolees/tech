@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HZDLDK6-es Impresora de inyección de tinta Canon PIXMA iX6850 Negra Wifi'
-tags: [ 'tole.es','canon','impresora','wifi', ]
+tags: [ 'canon','impresora','wifi', ]
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

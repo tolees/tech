@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZTQLB2-es HP DeskJet 3764 - Impresora de tinta multifunción 8 ppm...'
-tags: [ 'tole.es','impresora','wifi', ]
+tags: [ 'impresora','wifi', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

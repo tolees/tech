@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema...'
-tags: [ 'tole.es','ram','wifi', ]
+tags: [ 'ram','wifi', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

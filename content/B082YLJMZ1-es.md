@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YLJMZ1-es Ratón ergonómico Vertical inalámbrico Hommie Ratón...'
-tags: [ 'tole.es','bluetooth','ratón', ]
+tags: [ 'bluetooth','ratón', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

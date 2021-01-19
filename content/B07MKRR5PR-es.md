@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKRR5PR-es OMRON RS3 Intelli IT - Tensiómetro de muñeca con...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

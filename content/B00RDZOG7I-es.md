@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RDZOG7I-es Netgear GSS116E-100EUS - Click Switch gestionable Smart...'
-tags: [ 'tole.es','gigabit','netgear', ]
+tags: [ 'gigabit','netgear', ]
 actualPrice: 160.21 EUR
 currency: EUR
 price: 160.21

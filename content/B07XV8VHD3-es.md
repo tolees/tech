@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XV8VHD3-es Suunto 5 Reloj Deportivo Unisex-Adult Blanco/Negro One Size'
-tags: [ 'tole.es','suunto', ]
+tags: [ 'suunto', ]
 actualPrice: 257.0 EUR
 currency: EUR
 price: 257.0

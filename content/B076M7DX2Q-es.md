@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076M7DX2Q-es SADES Ratón Gaming 3500 DPI ratón para juegos RGB...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

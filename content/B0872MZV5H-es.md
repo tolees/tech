@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872MZV5H-es Funda Transparente Compatible para Samsung Galaxy S10E...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

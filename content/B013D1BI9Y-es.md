@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013D1BI9Y-es Nikon 200-500 mm Lente para cámara de Fotos'
-tags: [ 'tole.es','nikon', ]
+tags: [ 'nikon', ]
 actualPrice: 1196.1 EUR
 currency: EUR
 price: 1196.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJD49QC-es Impresora láser multifunción color Canon i-Sensys MF643Cdw...'
-tags: [ 'tole.es','canon','impresora','wifi', ]
+tags: [ 'canon','impresora','wifi', ]
 actualPrice: 256.73 EUR
 currency: EUR
 price: 256.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Y8XNZ5-es JBL Tune 600BTNC - Auriculares supraaurales inalámbricos...'
-tags: [ 'tole.es','auriculares', ]
+tags: [ 'auriculares', ]
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

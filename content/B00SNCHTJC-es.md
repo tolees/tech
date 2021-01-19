@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SNCHTJC-es Gamdias EREBOS-GMS7510 - Ratón USB Laser 8200DPI...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 43.45 EUR
 currency: EUR
 price: 43.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF88SLF-es Incase Icon Sleeve - Funda para Apple MacBook Pro 13"...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

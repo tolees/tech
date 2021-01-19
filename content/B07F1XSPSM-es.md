@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1XSPSM-es Proze TWS-02 Auriculares Inalámbricos Bluetooth 5.0 -...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

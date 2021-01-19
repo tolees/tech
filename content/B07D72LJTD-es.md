@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D72LJTD-es Cargador para mando de PS4 estación de carga USB para Sony...'
-tags: [ 'tole.es','playstation','ps4','sony', ]
+tags: [ 'playstation','ps4','sony', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

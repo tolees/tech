@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X44LSZG-es Spigen Urban Fit diseñado para Apple Airpods Funda para...'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

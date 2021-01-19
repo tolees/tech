@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCF4V2Y-es Newcom Mochila para Portátil 600D Poliéster Antirrobo y...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

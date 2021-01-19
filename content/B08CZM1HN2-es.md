@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZM1HN2-es Quntis Lámpara de Monitor para Ordenador portátil Brillos...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

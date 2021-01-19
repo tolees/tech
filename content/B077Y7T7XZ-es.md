@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y7T7XZ-es HP ENVY 500 - Ratón inalámbrico recargable 1600 ppp sensor...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

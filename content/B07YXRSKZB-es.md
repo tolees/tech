@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXRSKZB-es 2020 Moviles Libres 4G Teléfono Móvil de 6.0’’ Pulgadas...'
-tags: [ 'tole.es','móvil','ram','smartphone', ]
+tags: [ 'móvil','ram','smartphone', ]
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

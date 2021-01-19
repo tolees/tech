@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZXHKV6-es Bovon Soporte Móvil Soporte para iPad Mini Multiángulo...'
-tags: [ 'tole.es','galaxy','huawei','iphone','móvil', ]
+tags: [ 'galaxy','huawei','iphone','móvil', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

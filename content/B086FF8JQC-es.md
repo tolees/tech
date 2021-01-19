@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086FF8JQC-es MEDION E14403 - Portátil 14" FullHD Intel Core i3-7020U...'
-tags: [ 'tole.es','ram','teclado', ]
+tags: [ 'ram','teclado', ]
 actualPrice: 327.0 EUR
 currency: EUR
 price: 327.0

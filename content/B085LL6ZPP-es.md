@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LL6ZPP-es MKTOSASA - Original cubitera con Potente Altavoz de 5W de...'
-tags: [ 'tole.es','altavoz', ]
+tags: [ 'altavoz', ]
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

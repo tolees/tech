@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8RPD32-es Carcasa compatible con Huawei P9 diseño de mármol silicona...'
-tags: [ 'tole.es','huawei','móvil', ]
+tags: [ 'huawei','móvil', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4BM4LW-es Canon PowerShot SX730 HS - Cámara digital de 20.3 MP Video...'
-tags: [ 'tole.es','bluetooth','canon','wifi','full','hd', ]
+tags: [ 'bluetooth','canon','wifi','full','hd', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

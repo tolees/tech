@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R3XPWC-es Auriculares Bluetooth Deportivos Auriculares Inalambricos...'
-tags: [ 'tole.es','auriculares','bluetooth','altavoz', ]
+tags: [ 'auriculares','bluetooth','altavoz', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

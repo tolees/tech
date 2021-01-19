@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QND4VZ6-es Samsung MU-PA500R 500 GB Rojo - Unidades externas de...'
-tags: [ 'tole.es','samsung', ]
+tags: [ 'samsung', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRLQMFB-es HP Envy 27s - Monitor IPS 4K Ultra HD 3840 x 2160 Pixeles...'
-tags: [ 'tole.es','ips', ]
+tags: [ 'ips', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

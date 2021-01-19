@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGX3T6D-es Cámara de Vigilancia 2MP Cámara De Seguridad Aottom 1080P...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

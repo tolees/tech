@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXFVP71-es Homfa Mesa Gaming PC Escritorio Gaming Mesa para Ordenador...'
-tags: [ 'tole.es','auriculares','ordenador','ratón', ]
+tags: [ 'auriculares','ordenador','ratón', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018MRYW5G-es Spigen USB Tipo C Cargador Coche Essential [Rápido 5.4A]...'
-tags: [ 'tole.es','galaxy','huawei', ]
+tags: [ 'galaxy','huawei', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

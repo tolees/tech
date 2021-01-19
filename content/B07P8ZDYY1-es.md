@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8ZDYY1-es NGS Artica Pride- Auriculares de Diadema estéreo...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 14.37 EUR
 currency: EUR
 price: 14.37

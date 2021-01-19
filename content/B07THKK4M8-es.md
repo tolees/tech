@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THKK4M8-es Lncoon Localizador GPS para Niños Antirrobo Rastreo...'
-tags: [ 'tole.es','gps', ]
+tags: [ 'gps', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FQZM89-es Fractal Design Meshify C – TG Midi-Tower Negro...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 84.12 EUR
 currency: EUR
 price: 84.12

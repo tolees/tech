@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPYZZ4D-es AIMOS Conmutador KVM HDMI USB KVM Switch 2 Puertos...'
-tags: [ 'tole.es','ordenador','ratón','teclado', ]
+tags: [ 'ordenador','ratón','teclado', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

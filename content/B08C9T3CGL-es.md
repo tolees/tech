@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9T3CGL-es eXtremeRate Carcasa Completa para Nintendo Switch Funda...'
-tags: [ 'tole.es','nintendo','nintendo','switch', ]
+tags: [ 'nintendo','nintendo','switch', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

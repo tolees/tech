@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MQ9T1M-es ASUS VZ27VQ - Monitor 27 pulgadas Full HD Eye Care Curvo...'
-tags: [ 'tole.es','asus','full','hd', ]
+tags: [ 'asus','full','hd', ]
 actualPrice: 221.66 EUR
 currency: EUR
 price: 221.66

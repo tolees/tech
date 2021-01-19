@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUCGMNQ-es Panasonic HC-V180 - Videocámara de 50x O.I.S de 5 Ejes...'
-tags: [ 'tole.es','panasonic', ]
+tags: [ 'panasonic', ]
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TSJBSF-es ShinePick Micrófono Karaoke Bluetooth Microfono...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

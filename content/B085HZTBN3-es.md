@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HZTBN3-es KIYEDAM Auriculares inalámbricos Bluetooth en el oído con...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

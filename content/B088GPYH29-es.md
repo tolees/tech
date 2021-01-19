@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPYH29-es BOIFUN Webcam 1080P con Micrófono para PC Full HD Cámara...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

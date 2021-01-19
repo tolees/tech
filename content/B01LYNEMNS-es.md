@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYNEMNS-es Metz 311184 - Flash M400 para Pentax ISO 100 y 105 mm luz...'
-tags: [ 'tole.es','pentax', ]
+tags: [ 'pentax', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

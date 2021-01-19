@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWFZ4Q2-es Belkin Boost Up Bold - Cargador inalámbrico para iPhone...'
-tags: [ 'tole.es','huawei','iphone','samsung', ]
+tags: [ 'huawei','iphone','samsung', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

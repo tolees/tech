@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4LWQF3-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
-tags: [ 'tole.es','apple','auriculares','bluetooth', ]
+tags: [ 'apple','auriculares','bluetooth', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

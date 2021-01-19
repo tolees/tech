@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHZF8B2-es Adaptador de Conector de Auriculares USB C a 3 5 mm...'
-tags: [ 'tole.es','auriculares','huawei','xiaomi', ]
+tags: [ 'auriculares','huawei','xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071J8CGMC-es Garmin VIRB 360 C&ampaacutemara de accci&ampoacuten con...'
-tags: [ 'tole.es','garmin','gps', ]
+tags: [ 'garmin','gps', ]
 actualPrice: 676.16 EUR
 currency: EUR
 price: 676.16

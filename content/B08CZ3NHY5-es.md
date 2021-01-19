@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZ3NHY5-es Mini PC Procesador Intel Apollo Lake Celeron J3455 hasta...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

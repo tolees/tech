@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G59PXXR-es SeeKool Consola de Videojuegos 3D Pandora X Multijugador...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

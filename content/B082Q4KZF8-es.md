@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Q4KZF8-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
-tags: [ 'tole.es','auriculares','bluetooth','huawei','altavoz', ]
+tags: [ 'auriculares','bluetooth','huawei','altavoz', ]
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

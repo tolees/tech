@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QMN4YW-es Microsoft - Adaptador Wireless PC'
-tags: [ 'tole.es','microsoft', ]
+tags: [ 'microsoft', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

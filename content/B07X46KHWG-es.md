@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
-tags: [ 'tole.es','1080p','wifi', ]
+tags: [ '1080p','wifi', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

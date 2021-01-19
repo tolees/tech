@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JM15OCW-es Tamron AF 16-300 mm F/3.5-6.3 Di II VC PZD MACRO -...'
-tags: [ 'tole.es','canon', ]
+tags: [ 'canon', ]
 actualPrice: 442.3 EUR
 currency: EUR
 price: 442.3
@@ -26,12 +26,12 @@ Tienes [Tamron AF 16-300 mm F/3.5-6.3 Di II VC PZD MACRO - Objetivo para Canon  
 
 ℹ️:
 
-- Objetivo Macro con distancia mínima de enfoque de 0.39 m y enfoque interno
-- Aparatos compatibles: SLR
+- Con función enfoque manual, autofoco PZD, Motor Ultrasónico Piezoeléctrico
+- Distancia focal de 16 - 300 mm, con apertura mínima f/22 - f/40 y máxima f/3.5 - f/6.3
 - Contiene un ángulo de visión de 82° 12’ - 5° 20, estabilizador de imagen óptico, relación de reproducción 1:2.9
 - Funciones adicionales como sensor APS-C, baja dispersión, asférica Múltiple, compensación de vibración
-- Distancia focal de 16 - 300 mm, con apertura mínima f/22 - f/40 y máxima f/3.5 - f/6.3
-- Con función enfoque manual, autofoco PZD, Motor Ultrasónico Piezoeléctrico
 - Peso del producto: 540 g
+- Aparatos compatibles: SLR
+- Objetivo Macro con distancia mínima de enfoque de 0.39 m y enfoque interno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JM15OCW/?tag=tolees-21)

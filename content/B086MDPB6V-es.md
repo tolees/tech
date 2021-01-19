@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MDPB6V-es MSI GT76 Titan DT 9SFS-264ES - Ordenador portátil de 17.3"...'
-tags: [ 'tole.es','ordenador','ram','teclado', ]
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2800.0 EUR
 currency: EUR
 price: 2800.0

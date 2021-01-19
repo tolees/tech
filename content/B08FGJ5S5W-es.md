@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FGJ5S5W-es Max Power Digital Funda para móvil Xiaomi Mi A2 5.99" con...'
-tags: [ 'tole.es','móvil','xiaomi', ]
+tags: [ 'móvil','xiaomi', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BX0YKX4-es Fosmon Mini Bluetooth Keyboard con touchpad Teclado...'
-tags: [ 'tole.es','bluetooth','galaxy','iphone','ps4','teclado', ]
+tags: [ 'bluetooth','galaxy','iphone','ps4','teclado', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833PWXNC-es Leolee Ratón Inalámbrico con Tipo C 2.4G USB Delgado...'
-tags: [ 'tole.es','ordenador','ratón', ]
+tags: [ 'ordenador','ratón', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2GC4S9-es Razer DeathAdder Essential Clasico- Ratón Gaming sensor 4g...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

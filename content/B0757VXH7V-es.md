@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757VXH7V-es Carcasa con certificación militar para Apple iPhone'
-tags: [ 'tole.es','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

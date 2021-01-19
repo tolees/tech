@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3U0KXN-es Auna Melodia Radio Dab Bluetooth minicadena con...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

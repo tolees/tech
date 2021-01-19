@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSB5NQX-es Need Escritorios Mesa de Ordenador 138x55cm Escritorio de...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 61.1 EUR
 currency: EUR
 price: 61.1

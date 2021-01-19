@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRYVS3J-es JVC HA-S35BT - Auriculares Inalámbrico Diadema Binaural...'
-tags: [ 'tole.es','auriculares','jvc', ]
+tags: [ 'auriculares','jvc', ]
 actualPrice: 26.44 EUR
 currency: EUR
 price: 26.44

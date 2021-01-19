@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4SCX4W-es Microsoft Surface Pro 7 Estación Acoplamiento Nueva Base...'
-tags: [ 'tole.es','microsoft', ]
+tags: [ 'microsoft', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

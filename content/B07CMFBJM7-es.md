@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMFBJM7-es Marshall Major III Bluetooth Auriculares plegables Marrón'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 97.21 EUR
 currency: EUR
 price: 97.21

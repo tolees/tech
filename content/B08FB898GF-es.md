@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FB898GF-es Jvchengxi Funda con Protector de Pantalla Compatible con...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

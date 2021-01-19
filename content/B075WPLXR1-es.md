@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WPLXR1-es HOMCOM Silla de Escritorio y Oficina Juvenil Silla de...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 70.54 EUR
 currency: EUR
 price: 70.54

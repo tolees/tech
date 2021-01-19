@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZJ004O-es Fujifilm Instax Mini Monochrome - Película Instantánea'
-tags: [ 'tole.es','fujifilm', ]
+tags: [ 'fujifilm', ]
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8MRS5N-es DIGITNOW! Dongle de Captura de Video HDMI USB 3.0 y...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

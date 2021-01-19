@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C5XBSUK-es Maclean MC 676 -Soporte para iPad 2/3/4/Air/Air2 de Pared...'
-tags: [ 'tole.es','tablet', ]
+tags: [ 'tablet', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

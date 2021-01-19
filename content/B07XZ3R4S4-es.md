@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ3R4S4-es Powcan Ratón Gaming con Cable Profesional USB 16400 DPI...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

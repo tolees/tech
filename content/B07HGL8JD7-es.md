@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGL8JD7-es Engel RS8100Y - Receptor TV satélite HD PVR con WiFi Negro'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 88.5 EUR
 currency: EUR
 price: 88.5

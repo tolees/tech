@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBJWKVB-es Devolo 9974 - Puente WiFi 2 Gbit una Banda de 5 GHz'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 129.14 EUR
 currency: EUR
 price: 129.14

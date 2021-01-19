@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSLZBL7-es Brother DCP-L3550CDW - Impresora multifunción Wifi USB 2.0...'
-tags: [ 'tole.es','impresora','wifi', ]
+tags: [ 'impresora','wifi', ]
 actualPrice: 318.77 EUR
 currency: EUR
 price: 318.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087J8B8MQ-es Rytaki Lector de Tarjetas XQD SD USB 3.0 Lector de...'
-tags: [ 'tole.es','sony', ]
+tags: [ 'sony', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

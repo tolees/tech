@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDFCX4N-es BlueFire Cascos para Xbox One PS4 Auriculares Gaming Bajo...'
-tags: [ 'tole.es','auriculares','ps4','smartphone','xbox', ]
+tags: [ 'auriculares','ps4','smartphone','xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

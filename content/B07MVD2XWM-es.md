@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVD2XWM-es Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

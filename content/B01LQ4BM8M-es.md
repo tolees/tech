@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQ4BM8M-es Razer Goliathus Speed Cosmic Medium - Suave alfombrilla de...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

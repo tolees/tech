@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJRY8BC-es DR2300 Tambor Compatible con Brother Tambor DR 2300 1...'
-tags: [ 'tole.es','impresora', ]
+tags: [ 'impresora', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

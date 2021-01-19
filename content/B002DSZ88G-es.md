@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DSZ88G-es Panasonic RP-HTF295E-K Auriculares de Diadema Cerrados...'
-tags: [ 'tole.es','auriculares','panasonic', ]
+tags: [ 'auriculares','panasonic', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

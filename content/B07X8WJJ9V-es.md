@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8WJJ9V-es Garmin - Reloj GPS con Pulsómetro Fenix 6X Zafiro'
-tags: [ 'tole.es','garmin','gps', ]
+tags: [ 'garmin','gps', ]
 actualPrice: 701.61 EUR
 currency: EUR
 price: 701.61

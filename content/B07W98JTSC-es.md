@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W98JTSC-es Antena TV Interior NinkBox Antena TV HDTV Digital con...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

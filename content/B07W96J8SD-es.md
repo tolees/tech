@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W96J8SD-es Auriculares Bluetooth Orit Auriculares inalámbricos...'
-tags: [ 'tole.es','auriculares','bluetooth','iphone', ]
+tags: [ 'auriculares','bluetooth','iphone', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

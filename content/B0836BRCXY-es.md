@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836BRCXY-es WiFi repetidor Extensor de Red WiFi -300Mbps Mini Wireless...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

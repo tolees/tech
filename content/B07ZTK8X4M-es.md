@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTK8X4M-es Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica...'
-tags: [ 'tole.es','iphone','samsung', ]
+tags: [ 'iphone','samsung', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

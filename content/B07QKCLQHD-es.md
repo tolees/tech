@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKCLQHD-es AmazonBasics - Funda para ordenador portátil urbana de 39...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

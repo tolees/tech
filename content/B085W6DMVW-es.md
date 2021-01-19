@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085W6DMVW-es DYNASONIC - Altavoz Bluetooth Portatil con Modo Karaoke y...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZBQZM7-es Epson EH-TW5650 | Proyector Home Cinema 3D Full HD 1080p |...'
-tags: [ 'tole.es','1080p','full','hd', ]
+tags: [ '1080p','full','hd', ]
 actualPrice: 850.0 EUR
 currency: EUR
 price: 850.0

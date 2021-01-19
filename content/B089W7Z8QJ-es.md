@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089W7Z8QJ-es COO ES Ratón Inalámbrico Óptico 2.4G Portable Ratón con...'
-tags: [ 'tole.es','ordenador','ratón', ]
+tags: [ 'ordenador','ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

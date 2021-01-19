@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F3K9HM7-es Nuevo P35 Pro 6.3 Pantalla de Pulgadas Teléfono Android...'
-tags: [ 'tole.es','gps','móvil','wifi', ]
+tags: [ 'gps','móvil','wifi', ]
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45

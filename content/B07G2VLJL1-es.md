@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2VLJL1-es Edifier W820BT Auriculares Bluetooth - Auricular...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

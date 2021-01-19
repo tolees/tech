@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDC779T-es ROCONTRIP Estuche de Silicona con Cuello Ajustable y...'
-tags: [ 'tole.es','galaxy','huawei','iphone', ]
+tags: [ 'galaxy','huawei','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

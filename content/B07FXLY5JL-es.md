@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXLY5JL-es Brother DCPL3510CDWG1 3IN1 Impresora LED DCPL3510CDW...'
-tags: [ 'tole.es','impresora', ]
+tags: [ 'impresora', ]
 actualPrice: 218.99 EUR
 currency: EUR
 price: 218.99

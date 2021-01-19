@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWBQZP2-es Seagate Fast SSD 1 TB Disco duro externo portátil SSD...'
-tags: [ 'tole.es','ordenador','disco','duro', ]
+tags: [ 'ordenador','disco','duro', ]
 actualPrice: 195.29 EUR
 currency: EUR
 price: 195.29

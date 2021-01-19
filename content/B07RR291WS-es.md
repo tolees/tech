@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR291WS-es Beeasy Funda Samsung Galaxy S9 Plus Antigolpes Rígida...'
-tags: [ 'tole.es','galaxy','samsung', ]
+tags: [ 'galaxy','samsung', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

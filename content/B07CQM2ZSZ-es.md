@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQM2ZSZ-es CHOETECH Cable USB C a HDMI [4K@60Hz] Cable HDMI a USB...'
-tags: [ 'tole.es','galaxy','huawei', ]
+tags: [ 'galaxy','huawei', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

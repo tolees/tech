@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple 3 unidades'
-tags: [ 'tole.es','apple', ]
+tags: [ 'apple', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

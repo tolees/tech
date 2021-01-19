@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLV8JTJ-es Amazfit GTR 42mm - Smartwatch con medición óptica de la...'
-tags: [ 'tole.es','smartwatch', ]
+tags: [ 'smartwatch', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

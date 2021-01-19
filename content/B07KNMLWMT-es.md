@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KNMLWMT-es Thomson MIC201IBT - Microcadena Bluetooth con reproductor...'
-tags: [ 'tole.es','bluetooth', ]
+tags: [ 'bluetooth', ]
 actualPrice: 102.3 EUR
 currency: EUR
 price: 102.3

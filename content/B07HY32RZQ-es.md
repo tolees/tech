@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY32RZQ-es EZVIZ 303100908 Camara IP WiFi C3A White'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

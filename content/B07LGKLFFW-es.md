@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGKLFFW-es Tribit MaxSound Plus - Altavoz Bluetooth 24 W con Potente...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 42.63 EUR
 currency: EUR
 price: 42.63

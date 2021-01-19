@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZMVGTA2-es Rankie Adaptador DVI a HDMI 1080P Clavija HDTV Convertidor...'
-tags: [ 'tole.es','1080p', ]
+tags: [ '1080p', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

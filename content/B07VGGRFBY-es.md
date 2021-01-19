@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGGRFBY-es Gorro Bluetooth Gorro Bluetooth Inalámbrico Gorro de...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

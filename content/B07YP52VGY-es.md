@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP52VGY-es Funda para teléfono móvil Huawei P Smart 2019 ultrafina...'
-tags: [ 'tole.es','huawei','móvil', ]
+tags: [ 'huawei','móvil', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

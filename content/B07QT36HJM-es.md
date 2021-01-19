@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT36HJM-es Vieta Pro Easy - Altavoz inalámbrico True Wireless...'
-tags: [ 'tole.es','bluetooth','altavoz', ]
+tags: [ 'bluetooth','altavoz', ]
 actualPrice: 33.01 EUR
 currency: EUR
 price: 33.01

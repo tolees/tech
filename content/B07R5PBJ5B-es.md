@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5PBJ5B-es Funwaretech Ratón inalámbrico con Receptor Nano Ratones...'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

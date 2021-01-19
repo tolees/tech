@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U7YKQQC-es Samsung BT-EOEG920BR - Auriculares oficiales in-ear color...'
-tags: [ 'tole.es','auriculares','samsung', ]
+tags: [ 'auriculares','samsung', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

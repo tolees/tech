@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMTTW5P-es AtailorBird Funda para PC Portátil 13-14 Pulgadas Bolsa de...'
-tags: [ 'tole.es','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

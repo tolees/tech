@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMG2R9W-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
-tags: [ 'tole.es','auriculares','bluetooth', ]
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

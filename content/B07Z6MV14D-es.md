@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6MV14D-es ASUS ROG Strix - Portátil Gaming de 17 3" FullHD Intel...'
-tags: [ 'tole.es','asus','ram','teclado', ]
+tags: [ 'asus','ram','teclado', ]
 actualPrice: 1486.78 EUR
 currency: EUR
 price: 1486.78

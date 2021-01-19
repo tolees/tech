@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDSJLSP-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
-tags: [ 'tole.es','ram','smartphone','sony','full','hd', ]
+tags: [ 'ram','smartphone','sony','full','hd', ]
 actualPrice: 295.35 EUR
 currency: EUR
 price: 295.35

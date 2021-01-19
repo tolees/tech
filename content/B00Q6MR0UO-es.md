@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q6MR0UO-es Logitech G300s Ratón Gaming con Cable Ambidiestro RGB Peso...'
-tags: [ 'tole.es','logitech','ratón', ]
+tags: [ 'logitech','ratón', ]
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

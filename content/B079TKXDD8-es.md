@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TKXDD8-es Cable guy Groot soporte de sujeción o carga para mando de...'
-tags: [ 'tole.es','smartphone', ]
+tags: [ 'smartphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

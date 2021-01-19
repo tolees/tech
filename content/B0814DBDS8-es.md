@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814DBDS8-es LBLA FPV Drone con Cámara WiFi Live Video Headless Modo...'
-tags: [ 'tole.es','wifi', ]
+tags: [ 'wifi', ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PC4UGZS-es Trust Yvi - Ratón óptico inalámbrico Dream Catcher'
-tags: [ 'tole.es','ratón', ]
+tags: [ 'ratón', ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

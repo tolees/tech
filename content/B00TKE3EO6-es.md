@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKE3EO6-es Trust Siano - Ratón inalámbrico Bluetooth Negro y Gris'
-tags: [ 'tole.es','bluetooth','ratón', ]
+tags: [ 'bluetooth','ratón', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

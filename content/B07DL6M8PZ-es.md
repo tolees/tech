@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL6M8PZ-es SwitchBot Hub Plus - Mando a distancia inteligente IR para...'
-tags: [ 'tole.es','alexa','google','home', ]
+tags: [ 'alexa','google','home', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842P6JPF-es IBRA Cable de Red LAN Gigabit Ethernet CAT8 RJ45 SSTP...'
-tags: [ 'tole.es','gigabit', ]
+tags: [ 'gigabit', ]
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

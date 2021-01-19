@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB...'
-tags: [ 'tole.es','galaxy','nintendo','samsung','nintendo','switch', ]
+tags: [ 'galaxy','nintendo','samsung','nintendo','switch', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
