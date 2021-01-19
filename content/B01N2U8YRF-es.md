@@ -26,9 +26,9 @@ En este momento está [TP-Link Adaptador wifi USB  banda dual AC 1300Mbps  WPS  
 
 🔎:
 
-- Puerto ​​USB 3.0 - Hasta 10 veces más rápido que USB 2.0
-- Velocidad inalámbrica ultra-rápida de 1200 (867+400) Mbps con 802.11ac
 - Conexiones de banda dual libres de latencia para streaming de vídeo de alta definición y juegos
 - Encriptación sencilla de seguridad inalámbrica con sólo pulsar el botón WPS
+- Velocidad inalámbrica ultra-rápida de 1200 (867+400) Mbps con 802.11ac
+- Puerto ​​USB 3.0 - Hasta 10 veces más rápido que USB 2.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N2U8YRF/?tag=tolees-21)
