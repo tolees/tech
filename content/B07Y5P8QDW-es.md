@@ -26,10 +26,10 @@ En este momento está [Amazfit GTR A1910 42 Cherry Bl - Smartwatch  42 mm   colo
 
 🔎:
 
+- 12 modos de deportes, desde nadar hasta esquiar.
 - Sumergible hasta 50 metros de profundidad y GPS de alta precisión.
 - Una batería revolucionaria de 24 días de duración.
-- Pantalla AMOLED de 326 PPI con una esfera muy elegante.
 - Ejercicio + Salud + Vida diaria. Un sistema de control de la frecuencia cardíaca muy avanzado a escala completa.
-- 12 modos de deportes, desde nadar hasta esquiar.
+- Pantalla AMOLED de 326 PPI con una esfera muy elegante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y5P8QDW/?tag=tolees-21)
