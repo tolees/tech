@@ -26,9 +26,9 @@ Tienes [Gigaset A170 Duo - Teléfono Inalámbrico  Pack de 2 Unidades  Agenda 50
 🔎:
 
 - Pack 2 unidades; coloca uno en cada habitación
-- Fácil y rápida instalación; conectate y habla
-- Clip para cinturón
 - Pantalla iluminada
 - Agenda de 50 contactos
+- Clip para cinturón
+- Fácil y rápida instalación; conectate y habla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077K2KN9N/?tag=tolees-21)
