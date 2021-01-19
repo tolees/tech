@@ -26,11 +26,11 @@ Tienes [Logitech G604 Lightspeed Ratón Gaming Inalámbrico  Sensor Hero 16K  Ba
 
 ℹ️:
 
+- 15 controles programables – domina tu arsenal en géneros de juego táctico como battle royale, mmo y moba, con 15 controles situados estratégicamente, entre ellos seis para el pulgar
 - 240 horas con una pila aa – juega hasta 240 horas en modo lightspeed o hasta 5 meses y medio en modo bluetooth con una pila aa, gracias a la revolucionaria eficiencia energética
-- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
 - Botón rueda superrápido con dos modos – cambia el modo de desplazamiento a tu aire para recorrer menús rápidamente o inspeccionar detenidamente selecciones de armas o conjuros; y aplica enlaces de teclas para subir y bajar por entradas
+- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
 - Sensor hero 16k – nuestro sensor para gaming más avanzado, con un seguimiento 1:1 preciso y una eficiencia energética líder en su clase; hero 16k ofrece hasta 16.000 dpi, sin suavizado, aceleración ni filtros
 - Conectividad doble con lightspeed – puedes alternar entre práctica conectividad bluetooth y la superrápida tecnología avanzada inalámbrica lightspeed de 1.ms
-- 15 controles programables – domina tu arsenal en géneros de juego táctico como battle royale, mmo y moba, con 15 controles situados estratégicamente, entre ellos seis para el pulgar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W8RKK5R/?tag=tolees-21)
