@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518e3f86NWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQRSQQT-es'
+slug: 'B07HQRSQQT-es Suunto 9 Baro Reloj deportivo GPS con batería de larga...'
+tags: gps, suunto
 actualPrice: 552.98 EUR
 currency: EUR
 price: 552.98

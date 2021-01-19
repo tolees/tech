@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41No+JkBFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DRGFTYX-es'
+slug: 'B08DRGFTYX-es INQMEGAPRO 1080P PTZ Dome Cámara de Vigilancia Inalámbrica...'
+tags: 1080p
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

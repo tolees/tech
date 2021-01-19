@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vgeq6fkfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLBPJV4-es'
+slug: 'B07CLBPJV4-es HOMEYU Enchufe Antipolvo de Aluminio de Primera Calidad...'
+tags: iphone
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

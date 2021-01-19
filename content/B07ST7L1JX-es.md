@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pO-HuNgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST7L1JX-es'
+slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable...'
+tags: ips
 actualPrice: 209.3 EUR
 currency: EUR
 price: 209.3

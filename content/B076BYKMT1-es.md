@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BYKMT1-es'
+slug: 'B076BYKMT1-es Metronic 495421 - Adaptadores PLC con enchufe extra blanco'
+tags: plc
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

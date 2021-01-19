@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mEkvLj-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLV8JTJ-es'
+slug: 'B07XLV8JTJ-es Amazfit GTR 42mm - Smartwatch con medición óptica de la...'
+tags: smartwatch
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

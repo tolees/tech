@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FzT0LsnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ89X0M-es'
+slug: 'B01LZ89X0M-es Panasonic Lumix DMC-LX15 - Cámara Compacta Premium de 20.9...'
+tags: panasonic, wifi
 actualPrice: 384.2 EUR
 currency: EUR
 price: 384.2

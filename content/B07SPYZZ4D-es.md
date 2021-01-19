@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FrVZWE0KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPYZZ4D-es'
+slug: 'B07SPYZZ4D-es AIMOS Conmutador KVM HDMI USB KVM Switch 2 Puertos...'
+tags: ordenador, ratón, teclado
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

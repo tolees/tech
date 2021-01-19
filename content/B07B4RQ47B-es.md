@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U3s9dM2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4RQ47B-es'
+slug: 'B07B4RQ47B-es AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W...'
+tags: iphone, nintendo, samsung, xiaomi, nintendo, switch
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cy4YVBo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDNGPLJ-es'
+slug: 'B07RDNGPLJ-es Funda para Nintendo Switch Case de protección para...'
+tags: nintendo, nintendo, switch
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

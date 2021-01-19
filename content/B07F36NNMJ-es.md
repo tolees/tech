@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cq3Z6r03L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F36NNMJ-es'
+slug: 'B07F36NNMJ-es Feelkaeu Teclado Bluetooth Inalámbrico 3.0 QWERTY Español...'
+tags: bluetooth, tablet, teclado
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

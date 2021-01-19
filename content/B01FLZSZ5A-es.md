@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nyGnc648L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FLZSZ5A-es'
+slug: 'B01FLZSZ5A-es Funda Protectora Antigolpes Ultra fino para 11" 13" 15" 15...'
+tags: ordenador
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

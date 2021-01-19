@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X2FE9U6AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I4RNPQ6-es'
+slug: 'B01I4RNPQ6-es Fujifilm NP-W126S - Batería Recargable Negro'
+tags: fujifilm
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

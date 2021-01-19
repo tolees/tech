@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFTMPVP-es'
+slug: 'B07YFTMPVP-es COOAU 4K Camara Deportiva cámara Web 20MP WiFi Underwater...'
+tags: wifi
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VeL3aa8KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PL8VD-es'
+slug: 'B0872PL8VD-es Funda Transparente Compatible para Huawei P Smart 2019...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bz72XF07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4FPDW1-es'
+slug: 'B01M4FPDW1-es JARBO MLT-D101S Cartuchos de tóner Compatible para Samsung...'
+tags: samsung
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

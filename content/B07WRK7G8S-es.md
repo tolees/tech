@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qlYNpc65L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRK7G8S-es'
+slug: 'B07WRK7G8S-es Black Shark 2 8GB+128GB Negro con Switch Kit Black Shark...'
+tags: móvil
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

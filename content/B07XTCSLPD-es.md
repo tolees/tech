@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oFyop1F4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTCSLPD-es'
+slug: 'B07XTCSLPD-es JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A...'
+tags: iphone
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

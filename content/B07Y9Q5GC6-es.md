@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tCNmtHiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9Q5GC6-es'
+slug: 'B07Y9Q5GC6-es Auriculares Inalambricos Bluetooth iAmotus Cascos...'
+tags: auriculares, bluetooth
 actualPrice: 23.54 EUR
 currency: EUR
 price: 23.54

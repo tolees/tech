@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kd2yu8zAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DVDN7TF-es'
+slug: 'B08DVDN7TF-es WiseWolf Teclado gaming de una mano profesional sensación...'
+tags: teclado
 actualPrice: 22.71 EUR
 currency: EUR
 price: 22.71

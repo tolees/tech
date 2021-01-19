@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516bHnxg9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V22PDZ8-es'
+slug: 'B07V22PDZ8-es RedThunder Teclado Semimecánico Gaming Retroiluminación...'
+tags: ps4, teclado, xbox
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

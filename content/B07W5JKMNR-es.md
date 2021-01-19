@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ya5thYU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5JKMNR-es'
+slug: 'B07W5JKMNR-es Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico Graves...'
+tags: altavoz
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

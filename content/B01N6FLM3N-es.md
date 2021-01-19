@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zj21bpjHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6FLM3N-es'
+slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
+tags: motorola
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EsIsZbGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVNBT8J-es'
+slug: 'B08CVNBT8J-es Unidad de disco duro externo delgada unidad de...'
+tags: disco, duro
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

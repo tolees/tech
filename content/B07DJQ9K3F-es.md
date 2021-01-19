@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519SDb3GxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJQ9K3F-es'
+slug: 'B07DJQ9K3F-es DAM TEKKIWEAR. DMX043BLACK. Smartwatch M26S Plus con...'
+tags: smartwatch
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

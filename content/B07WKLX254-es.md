@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W3WvxDZeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKLX254-es'
+slug: 'B07WKLX254-es ieGeek Autoradio Bluetooth Estéreo RDS 60W * 4 Sistema de...'
+tags: bluetooth
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

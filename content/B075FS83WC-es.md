@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311arRyR7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FS83WC-es'
+slug: 'B075FS83WC-es Auriculares Bluetooth HAVIT Auricular Inalámbricos Cascos...'
+tags: auriculares, bluetooth, huawei, samsung, xiaomi
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

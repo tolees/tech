@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lh7j430tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZZDMM6-es'
+slug: 'B071ZZDMM6-es HyperX Predator - Memoria RAM de 32 GB DDR4 Kit 2 x 16 GB...'
+tags: ram
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

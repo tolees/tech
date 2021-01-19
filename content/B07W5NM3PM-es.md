@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512O2S8SyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5NM3PM-es'
+slug: 'B07W5NM3PM-es Lomogo Funda Galaxy 10 5G Cartera Funda de Cuero Ranuras...'
+tags: galaxy, samsung
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

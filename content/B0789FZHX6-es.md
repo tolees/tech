@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cvtF7ze7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0789FZHX6-es'
+slug: 'B0789FZHX6-es Tenda PW201A+PW200 Adaptadores de comunicación por línea...'
+tags: plc, wifi
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

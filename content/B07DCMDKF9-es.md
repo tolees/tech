@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sTNx3HoiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCMDKF9-es'
+slug: 'B07DCMDKF9-es Barra de Sonido Bluetooth 4.2 de 32 Pulgadas Sistema Bass...'
+tags: bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

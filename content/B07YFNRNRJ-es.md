@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wvoNhN4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFNRNRJ-es'
+slug: 'B07YFNRNRJ-es Ferilinso Funda para Xiaomi Redmi 8 Carcasa [Reforzar la...'
+tags: xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

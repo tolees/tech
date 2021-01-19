@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qtl65rqXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6CP15J-es'
+slug: 'B07V6CP15J-es Mixcder E7 Auriculares Bluetooth 5.0 con Cancelacón Activa...'
+tags: auriculares, bluetooth
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

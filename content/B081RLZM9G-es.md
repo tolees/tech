@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O+t7gdDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RLZM9G-es'
+slug: 'B081RLZM9G-es McNory Soporte Magnético Movil Coche 2 PC Mini Móvil Coche...'
+tags: galaxy, gps, iphone, móvil, smartphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

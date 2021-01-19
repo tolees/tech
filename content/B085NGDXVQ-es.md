@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NGDXVQ-es'
+slug: 'B085NGDXVQ-es RedThunder Teclado mecánico para juegos con una sola mano...'
+tags: ps4, teclado, xbox
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

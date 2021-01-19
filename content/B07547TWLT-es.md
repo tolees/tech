@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07547TWLT-es'
+slug: 'B07547TWLT-es Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla...'
+tags: wifi
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LvhOVnrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1HM32K-es'
+slug: 'B07G1HM32K-es Belkin Boost Charge 20K - Batería Externa USB-C + Cable...'
+tags: iphone, nintendo, nintendo, switch
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

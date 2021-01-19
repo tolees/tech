@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AsbSQzkEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08133ZZFL-es'
+slug: 'B08133ZZFL-es XLTOK Cargador Coche 24W 4.8A Doble Puerto con LED...'
+tags: huawei, iphone, móvil, samsung, sony, xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

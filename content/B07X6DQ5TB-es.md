@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51icHRcN07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6DQ5TB-es'
+slug: 'B07X6DQ5TB-es iBetter Diseño para Xiaomi Redmi Note 8 Funda Fina de...'
+tags: xiaomi
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

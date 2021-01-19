@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510oWl-LUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6VSXDC-es'
+slug: 'B07P6VSXDC-es Office Ink Toner 14 Piezas Reemplazo para Canon PGI-570XL...'
+tags: canon
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

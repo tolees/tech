@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RBZVl6tXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRFWKXQ-es'
+slug: 'B07PRFWKXQ-es K KYUER 27.74Wh 7300mAh EB-BT585ABE EB-BT585ABA Tablet...'
+tags: galaxy, samsung, tablet
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

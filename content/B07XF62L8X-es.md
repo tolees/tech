@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I16b9395L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF62L8X-es'
+slug: 'B07XF62L8X-es Proyector WiMiUS 6200 Lúmenes Proyector Full HD 1920x1080P...'
+tags: ps4, full, hd
 actualPrice: 152.09 EUR
 currency: EUR
 price: 152.09

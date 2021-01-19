@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WKMX9R-es'
+slug: 'B078WKMX9R-es Auriculares Gaming Premium para PS4 PC Xbox One Cascos...'
+tags: auriculares, ps4, xbox
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

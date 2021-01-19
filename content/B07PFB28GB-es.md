@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KbSLH9EjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFB28GB-es'
+slug: 'B07PFB28GB-es Estera del cojín del resto de muñeca del ratón del juego...'
+tags: ordenador, ratón
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

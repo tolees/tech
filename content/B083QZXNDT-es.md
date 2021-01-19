@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MZ7ytdDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QZXNDT-es'
+slug: 'B083QZXNDT-es Lenovo L27q - Monitor de 27" Pantalla QHD/IPS 2560 x 1440...'
+tags: lenovo
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

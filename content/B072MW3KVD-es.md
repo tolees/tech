@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qLeywkVNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MW3KVD-es'
+slug: 'B072MW3KVD-es Apple iMac 27 pulgadas pantalla Retina 5k procesador Intel...'
+tags: apple
 actualPrice: 1499.99 EUR
 currency: EUR
 price: 1499.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H5mzKeFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPDGW8B-es'
+slug: 'B07BPDGW8B-es J Jecent Cable USB Tipo C [3-Pack] 3.3 ft/1M Trenzado de...'
+tags: galaxy, samsung, sony
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

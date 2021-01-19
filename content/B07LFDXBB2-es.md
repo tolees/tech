@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDXBB2-es'
+slug: 'B07LFDXBB2-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
+tags: apple
 actualPrice: 67.06 EUR
 currency: EUR
 price: 67.06

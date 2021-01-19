@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t5BtXAMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7CTYRX-es'
+slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada extra grande...'
+tags: ordenador, ratón, teclado
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

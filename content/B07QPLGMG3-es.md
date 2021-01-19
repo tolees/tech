@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ohw7YEmYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPLGMG3-es'
+slug: 'B07QPLGMG3-es HolyHigh Auriculares Bluetooth Inalámbricos Cacos...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

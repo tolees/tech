@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aQP-3SawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2VLJL1-es'
+slug: 'B07G2VLJL1-es Edifier W820BT Auriculares Bluetooth - Auricular...'
+tags: auriculares, bluetooth
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

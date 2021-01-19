@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LTA8o99EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWRG8SN-es'
+slug: 'B07YWRG8SN-es Fundas Sillas Oficina Elasticas Modernas Fundas para...'
+tags: ordenador
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

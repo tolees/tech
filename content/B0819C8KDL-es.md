@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SgQGzsCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819C8KDL-es'
+slug: 'B0819C8KDL-es PUTORSEN® Soporte de Monitor pc de Premium - Elevador de...'
+tags: impresora, ordenador
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

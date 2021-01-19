@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zejPCATXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6NBMJ6-es'
+slug: 'B07Z6NBMJ6-es ASUS TUF Gaming FX505DV-AL014 - Portátil Gaming de 15 6"...'
+tags: asus, ram, teclado
 actualPrice: 947.0 EUR
 currency: EUR
 price: 947.0

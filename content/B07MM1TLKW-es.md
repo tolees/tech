@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E3qMq8j6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM1TLKW-es'
+slug: 'B07MM1TLKW-es upHere Rendimiento Alto Ventilador para Ordenador 140mm...'
+tags: ordenador
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

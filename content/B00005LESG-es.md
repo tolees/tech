@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jjMRrGk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005LESG-es'
+slug: 'B00005LESG-es Canon EF 70-200mm f/2.8L USM - Objetivo para Canon...'
+tags: canon
 actualPrice: 1361.95 EUR
 currency: EUR
 price: 1361.95

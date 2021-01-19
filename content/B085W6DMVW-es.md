@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m8uqQwi-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085W6DMVW-es'
+slug: 'B085W6DMVW-es DYNASONIC - Altavoz Bluetooth Portatil con Modo Karaoke y...'
+tags: bluetooth, altavoz
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

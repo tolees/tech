@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X3RxNad4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006PKN7D6-es'
+slug: 'B006PKN7D6-es USB-C Cargador de Portátil Fuente de Alimentación 65W MAX:...'
+tags: asus, dell, lenovo, samsung
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S2y5u7ASL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCF03KS-es'
+slug: 'B01BCF03KS-es Samsung S27F350FHU 27" Full HD PLS Negro Pantalla para PC...'
+tags: samsung, full, hd
 actualPrice: 166.82 EUR
 currency: EUR
 price: 166.82

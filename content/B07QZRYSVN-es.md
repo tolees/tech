@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eyQK8-YbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZRYSVN-es'
+slug: 'B07QZRYSVN-es DYNASONIC - Dynapro 12 - Altavoz Inalámbrico Sistema Audio...'
+tags: bluetooth, altavoz
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

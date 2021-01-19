@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fkBP2pi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWEG21G-es'
+slug: 'B01DWEG21G-es Huawei P9 Plus - Smartphone de 5.5" Bluetooth 4.2 4 GB RAM...'
+tags: bluetooth, huawei, ram, smartphone
 actualPrice: 190.94 EUR
 currency: EUR
 price: 190.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JlKzuv0sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM3NTJF-es'
+slug: 'B07RM3NTJF-es MSI GS65 Stealth 9SG-453ES - Ordenador portátil de 15.6"...'
+tags: ordenador, ram, teclado
 actualPrice: 2769.0 EUR
 currency: EUR
 price: 2769.0

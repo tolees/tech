@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oQFgvh-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YZM1FN-es'
+slug: 'B071YZM1FN-es Romoss Batería Externa Móvil 20000 mAh Power Bank 2...'
+tags: móvil
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

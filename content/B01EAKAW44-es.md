@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ozDpOg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAKAW44-es'
+slug: 'B01EAKAW44-es Toshiba EXCERIA M302-EA - Tarjeta de memoria MicroSDXC de...'
+tags: toshiba
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

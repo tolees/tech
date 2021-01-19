@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RdvFnGPDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXNZL7B-es'
+slug: 'B07BXNZL7B-es EZVIZ ezTube 720p Cámara de Seguridad WiFi Cámara de...'
+tags: alexa, wifi
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

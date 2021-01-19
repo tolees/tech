@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jFy15-p+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014KH8BRW-es'
+slug: 'B014KH8BRW-es Logitech C615 Webcam Portátil Full HD 1080p/30ims Video-...'
+tags: logitech, full, hd
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

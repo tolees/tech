@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P8T445y5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYNTYG9-es'
+slug: 'B06XYNTYG9-es CASIO - Teclado LK-136 61 Teclas Luminosas'
+tags: teclado
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

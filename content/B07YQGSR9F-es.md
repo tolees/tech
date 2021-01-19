@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414VJoUGBLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQGSR9F-es'
+slug: 'B07YQGSR9F-es MSI GF65 Thin 9SD-038XES - Ordenador portátil de 15.6"...'
+tags: ordenador, ram, teclado
 actualPrice: 1073.55 EUR
 currency: EUR
 price: 1073.55

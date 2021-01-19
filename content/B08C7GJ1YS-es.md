@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5151MXriJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7GJ1YS-es'
+slug: 'B08C7GJ1YS-es Estuche rígido para Sony Wh-CH510 / Sony WH-CH500...'
+tags: auriculares, bluetooth, sony
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

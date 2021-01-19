@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QGbNBFJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJMQNVQ-es'
+slug: 'B07NJMQNVQ-es Lenovo Yoga 530-14IKB - Portátil Táctil Convertible 14"...'
+tags: lenovo, ram, teclado
 actualPrice: 739.99 EUR
 currency: EUR
 price: 739.99

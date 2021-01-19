@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Po7kBx5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHCG9Y4-es'
+slug: 'B07YHCG9Y4-es Candy Rapidò RO16106DWHC7/1S - Lavadora carga frontal...'
+tags: bluetooth, wifi
 actualPrice: 364.39 EUR
 currency: EUR
 price: 364.39

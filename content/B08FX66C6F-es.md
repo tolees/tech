@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iZXehUyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FX66C6F-es'
+slug: 'B08FX66C6F-es Auriculares Bluetooth 5.0 auriculares con micrófono...'
+tags: auriculares, bluetooth, iphone, samsung
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

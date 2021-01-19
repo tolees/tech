@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317PRv4CmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7Y8WNT-es'
+slug: 'B08F7Y8WNT-es Disco duro externo de 1 TB 2 TB USB 3.0 apto para PC Mac...'
+tags: disco, duro
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

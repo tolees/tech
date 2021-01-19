@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ghz4D6yWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KG6TJY-es'
+slug: 'B082KG6TJY-es Rocontrip Funda de Silicona para Teléfono con el Cordón...'
+tags: iphone, samsung
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

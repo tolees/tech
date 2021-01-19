@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iZU9uQdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVHTZ8B-es'
+slug: 'B07PVHTZ8B-es 5200mAh 593553-001 Batería del ordenador portátil para HP...'
+tags: ordenador
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

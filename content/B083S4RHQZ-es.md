@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083S4RHQZ-es'
+slug: 'B083S4RHQZ-es Reproductor MP3 Wodgreat MP4 Player 8GB Reproductor de...'
+tags: altavoz
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

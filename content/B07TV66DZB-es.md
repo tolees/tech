@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qwQEwaIaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV66DZB-es'
+slug: 'B07TV66DZB-es Ferilinso Funda para Xiaomi Mi A3 Funda [Reforzar la...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

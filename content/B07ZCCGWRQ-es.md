@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vsKOtFx3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCCGWRQ-es'
+slug: 'B07ZCCGWRQ-es ASUS RT-AC58U V2 - Router WiFi 5 AC1300 MU-MIMO 4 Gigabit...'
+tags: asus, gigabit, wifi
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

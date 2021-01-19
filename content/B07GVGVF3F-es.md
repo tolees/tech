@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CnArCMIBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVGVF3F-es'
+slug: 'B07GVGVF3F-es LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0...'
+tags: auriculares, bluetooth, huawei, iphone, samsung
 actualPrice: 10 EUR
 currency: EUR
 price: 10

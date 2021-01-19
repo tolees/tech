@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zEs-sxu2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BPCZ8F-es'
+slug: 'B086BPCZ8F-es RCA a HDMI DIGITNOW! 3 RCA Compuestas AV a HDMI...'
+tags: 1080p, ps4
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RmLTjY-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PVWFG6-es'
+slug: 'B073PVWFG6-es Nllano USB-A a LAN Ethernet Adaptador con 3 USB 3.0...'
+tags: gigabit
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y61kCCw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG5HR97-es'
+slug: 'B06XG5HR97-es Amazfit Pace Black Pulsera Inteligente con Ritmo Cardíaco...'
+tags: gps
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

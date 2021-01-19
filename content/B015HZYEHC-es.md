@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ltfu3uQ8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HZYEHC-es'
+slug: 'B015HZYEHC-es Apple iPad mini 4 Wi-Fi 128GB - Gris espacial Modelo...'
+tags: apple
 actualPrice: 339 EUR
 currency: EUR
 price: 339

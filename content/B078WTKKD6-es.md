@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q9vCcs4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTKKD6-es'
+slug: 'B078WTKKD6-es Sony SRS-XB41B Altavoz Portátil Bluetooth Extra Bass Modo...'
+tags: bluetooth, smartphone, sony, altavoz
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

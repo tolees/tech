@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VC1YSKg1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJ2DYPX-es'
+slug: 'B07WJ2DYPX-es Ringke Fusion-X Diseñado para Funda Redmi Note 7 Funda...'
+tags: xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

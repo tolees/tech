@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aw-AVNrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08421MCCY-es'
+slug: 'B08421MCCY-es HP Elite Dragonfly - Ordenador portátil Convertible de...'
+tags: ordenador, ram, teclado
 actualPrice: 2174.99 EUR
 currency: EUR
 price: 2174.99

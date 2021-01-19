@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4167jBnDpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS7GBLC-es'
+slug: 'B07VS7GBLC-es LUDOS Clamor Auriculares con Micrófono y Cable Cascos...'
+tags: auriculares, huawei, iphone, ordenador, samsung, xiaomi
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jqO5MOkGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NFSL2G-es'
+slug: 'B087NFSL2G-es Tapa Webcam 8 Piezas Cubierta Camara Portatil KIWI design...'
+tags: iphone, smartphone
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

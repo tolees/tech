@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319MBS4mOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HCYCHWG-es'
+slug: 'B00HCYCHWG-es WD Elements Desktop - Disco duro externo de sobremesa de 3...'
+tags: disco, duro
 actualPrice: 82.59 EUR
 currency: EUR
 price: 82.59

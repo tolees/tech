@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QPyYY5D+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JYZWBLH-es'
+slug: 'B08JYZWBLH-es GOGME Funda para Samsung Galaxy S20 FE 5G/4G Billetera...'
+tags: galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nO--bjqhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSXFVM6-es'
+slug: 'B07CSXFVM6-es JBL Go Plus Altavoz Inalámbrico Portátil con Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

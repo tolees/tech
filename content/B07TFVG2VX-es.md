@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ezQdkopoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFVG2VX-es'
+slug: 'B07TFVG2VX-es BelleStyle 24V 15A 360W Fuente Alimentacion Transformador...'
+tags: impresora
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

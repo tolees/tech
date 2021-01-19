@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M78H8XM-es'
+slug: 'B07M78H8XM-es MSI GS65 Stealth 8SG-031ES - Ordenador portátil Gaming...'
+tags: ordenador, ram, teclado
 actualPrice: 2294.91 EUR
 currency: EUR
 price: 2294.91

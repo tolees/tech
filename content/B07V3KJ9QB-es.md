@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mtyy-ZOCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3KJ9QB-es'
+slug: 'B07V3KJ9QB-es Auriculares inalámbricos Bluetooth sobre la Oreja...'
+tags: auriculares, bluetooth
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

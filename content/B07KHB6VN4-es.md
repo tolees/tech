@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XO19LOJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHB6VN4-es'
+slug: 'B07KHB6VN4-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

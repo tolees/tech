@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rfJN4wKvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39DN3B-es'
+slug: 'B07N39DN3B-es AINOYA Funda Carcasa Gel para Huawei P30 Lite Ultra Fina...'
+tags: huawei
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

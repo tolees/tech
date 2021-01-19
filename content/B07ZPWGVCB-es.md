@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310lncnOSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPWGVCB-es'
+slug: 'B07ZPWGVCB-es NYZ - Auriculares inalámbricos con Bluetooth 5.0 Sonido...'
+tags: auriculares, bluetooth
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

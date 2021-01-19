@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cWtR3HGpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRKNSG5-es'
+slug: 'B07MRKNSG5-es Seagate Backup Plus Slim STHN2000401 Unidad de disco duro...'
+tags: disco, duro
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

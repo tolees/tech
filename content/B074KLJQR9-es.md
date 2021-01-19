@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f-jzlIhZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KLJQR9-es'
+slug: 'B074KLJQR9-es Denon D-M41 Home audio mini system 60W Negro Plata -...'
+tags: denon
 actualPrice: 297.0 EUR
 currency: EUR
 price: 297.0

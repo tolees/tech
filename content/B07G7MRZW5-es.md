@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TC+OUcaKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7MRZW5-es'
+slug: 'B07G7MRZW5-es Panasonic Lumix DC-G9L Cámara Evil de 20.3 MP 20FPS AFC...'
+tags: bluetooth, panasonic
 actualPrice: 1829.0 EUR
 currency: EUR
 price: 1829.0

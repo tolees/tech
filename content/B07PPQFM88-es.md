@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FiNDFkoeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPQFM88-es'
+slug: 'B07PPQFM88-es Grabadora CD/DVD Externa USB 3.0 Colourstone USB 3.0 y...'
+tags: ordenador
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2jFEHppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXBWWV7-es'
+slug: 'B07YXBWWV7-es Kenwood KMM-BT306 - Radio para Coche con USB y Manos...'
+tags: bluetooth
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

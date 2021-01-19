@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XsVtuhvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AG9NXP8-es'
+slug: 'B01AG9NXP8-es ZTOP 2 Pack USB Tipo A Macho a PS/2 Hembra para Teclado...'
+tags: ratón, teclado
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

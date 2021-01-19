@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UNvpy-PqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQFJYZC-es'
+slug: 'B07PQFJYZC-es Newseego Compatible con el Protector de Lente de cámara...'
+tags: huawei
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

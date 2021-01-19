@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fBFvDR9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MN970GS-es'
+slug: 'B00MN970GS-es Suunto - Smart Sensor HR Black - Módulo Sensor de...'
+tags: suunto
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

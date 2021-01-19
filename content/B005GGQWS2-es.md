@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EJM1rcXfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005GGQWS2-es'
+slug: 'B005GGQWS2-es Panasonic KX-TG1611 - Teléfono fijo inalámbrico LCD...'
+tags: panasonic
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

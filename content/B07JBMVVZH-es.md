@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iuc5hHROL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBMVVZH-es'
+slug: 'B07JBMVVZH-es Ushining Teléfono Móvil Libre Teléfono Móvil para Personas...'
+tags: bluetooth, móvil
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

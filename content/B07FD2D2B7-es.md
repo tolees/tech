@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fQjK5dG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD2D2B7-es'
+slug: 'B07FD2D2B7-es INFILAND Funda para Microsoft Surface Pro 7 2019 / Surface...'
+tags: microsoft
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

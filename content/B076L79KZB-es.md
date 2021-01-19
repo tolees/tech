@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+B08tQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076L79KZB-es'
+slug: 'B076L79KZB-es Plantronics RIG 100HX Monoaural Diadema Negro Gris...'
+tags: auriculares
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

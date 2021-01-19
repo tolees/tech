@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q6bknf+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STT3TXJ-es'
+slug: 'B07STT3TXJ-es Lamicall Soporte Tablet Coche Soporte Tablet para...'
+tags: tablet
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

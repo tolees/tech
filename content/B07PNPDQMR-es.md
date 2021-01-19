@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Oam9qVR7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNPDQMR-es'
+slug: 'B07PNPDQMR-es Funda para iPhone 6 6s Ultra-Delgado Disipadores de Calor...'
+tags: iphone
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

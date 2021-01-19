@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z3tmRJFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTMKPPM-es'
+slug: 'B07VTMKPPM-es Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail...'
+tags: gigabit, ordenador, wifi
 actualPrice: 138.0 EUR
 currency: EUR
 price: 138.0

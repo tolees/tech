@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ROjBBxDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPDDC61-es'
+slug: 'B07JPDDC61-es DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth...'
+tags: bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

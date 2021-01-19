@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I7gRVgdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012D59PUU-es'
+slug: 'B012D59PUU-es NITROPC - PC Gamer VX *Rebajas de marzo 2020* CPU Ryzen 4...'
+tags: ordenador, ram, wifi
 actualPrice: 799.22 EUR
 currency: EUR
 price: 799.22

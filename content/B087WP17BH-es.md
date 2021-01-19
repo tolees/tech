@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510N-eET8iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WP17BH-es'
+slug: 'B087WP17BH-es ELTD Funda + Película templada [combinación] para Samsung...'
+tags: galaxy, samsung
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

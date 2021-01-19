@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VWHKQbavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WRSSW6-es'
+slug: 'B078WRSSW6-es Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco estado solido SSD...'
+tags: samsung
 actualPrice: 281.41 EUR
 currency: EUR
 price: 281.41

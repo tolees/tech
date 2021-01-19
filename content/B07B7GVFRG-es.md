@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/71QHsxRLPcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7GVFRG-es'
+slug: 'B07B7GVFRG-es Kuman 100pcs WS2812B 5050 Addressable SMD smart rgb led...'
+tags: arduino
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

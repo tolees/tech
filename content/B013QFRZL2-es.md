@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iFXh1UwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QFRZL2-es'
+slug: 'B013QFRZL2-es WD Blue Wd5000Lpcx - Disco Duro de 2 5" para Ordenadores...'
+tags: disco, duro
 actualPrice: 40.82 EUR
 currency: EUR
 price: 40.82

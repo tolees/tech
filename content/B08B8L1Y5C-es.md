@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413DZvrXBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B8L1Y5C-es'
+slug: 'B08B8L1Y5C-es loonBonnie Reloj Inteligente Resistente al Agua para...'
+tags: smartwatch
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41htgGuQxEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYNEMNS-es'
+slug: 'B01LYNEMNS-es Metz 311184 - Flash M400 para Pentax ISO 100 y 105 mm luz...'
+tags: pentax
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

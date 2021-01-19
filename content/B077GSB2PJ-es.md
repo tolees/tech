@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NALxBCQGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GSB2PJ-es'
+slug: 'B077GSB2PJ-es Tenda PW201A N300 Extensor de Red por Linea elétrica WiFi...'
+tags: plc, wifi
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ufaejrzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U0AAFWS-es'
+slug: 'B00U0AAFWS-es Panasonic DMC-TZ70 Cámara Compacta de 12.1 MP Super Zoom...'
+tags: panasonic, wifi
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

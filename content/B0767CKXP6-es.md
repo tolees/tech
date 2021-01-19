@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ztJz0CjgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767CKXP6-es'
+slug: 'B0767CKXP6-es Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC Intel Core...'
+tags: ordenador, ram
 actualPrice: 215.81 EUR
 currency: EUR
 price: 215.81
@@ -25,10 +26,10 @@ Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio
 
 ℹ️:
 
-- Procesador Intel Core i3
-- Tipos de memoria compatibles DDR4-SDRAM
-- Tipo de ranuras de memoria SO-DIMM
 - Tecnología de virtualización Intel para E / S dirigida (VT-d)
 - Memoria interna máxima de 32 GB
+- Tipo de ranuras de memoria SO-DIMM
+- Procesador Intel Core i3
+- Tipos de memoria compatibles DDR4-SDRAM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21)

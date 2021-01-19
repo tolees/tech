@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdSPBLGwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ7Q8GF-es'
+slug: 'B07XQ7Q8GF-es inphic Auriculares Bluetooth reproducción las 24 horas...'
+tags: auriculares, bluetooth, iphone, samsung
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

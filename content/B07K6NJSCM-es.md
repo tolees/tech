@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bReKSKK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6NJSCM-es'
+slug: 'B07K6NJSCM-es FR·TEC - Auriculares Gaming Headset Genbu - PS4 Xbox One...'
+tags: auriculares, nintendo, ps4, xbox, nintendo, switch
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

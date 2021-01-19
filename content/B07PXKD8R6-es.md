@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uJXl0juHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXKD8R6-es'
+slug: 'B07PXKD8R6-es Lileng Ventilador USB Ventilador de Escritorio de Metal...'
+tags: ordenador
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

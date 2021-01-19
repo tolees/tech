@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517KbFzmwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851JBW5Z-es'
+slug: 'B0851JBW5Z-es BANLVS Smartwatch 1.4 Inch Reloj Inteligente IP67 con...'
+tags: smartwatch
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

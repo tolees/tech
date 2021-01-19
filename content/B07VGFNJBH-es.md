@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m2eBPnlbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGFNJBH-es'
+slug: 'B07VGFNJBH-es Super Monkey Ball: Banana Blitz HD - Xbox One'
+tags: xbox
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

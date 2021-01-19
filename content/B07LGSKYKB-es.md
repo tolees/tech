@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pitDPXDcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGSKYKB-es'
+slug: 'B07LGSKYKB-es TOOGOO Nuevo Cable De Cargador De Cable De Carga USB De...'
+tags: xiaomi
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

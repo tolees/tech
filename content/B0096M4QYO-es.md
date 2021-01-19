@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313HQWxsmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0096M4QYO-es'
+slug: 'B0096M4QYO-es Microsoft – Comfort Mouse 4500 Negro'
+tags: microsoft
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

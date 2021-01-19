@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FK32lfgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94DTZK-es'
+slug: 'B07B94DTZK-es 19V 3.16A 60W Adaptador de CA / cargador de computadora...'
+tags: samsung
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

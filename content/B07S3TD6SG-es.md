@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511MtW5E0fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3TD6SG-es'
+slug: 'B07S3TD6SG-es HEYSTOP Carcasa Nintendo Switch Funda Nintendo Switch con...'
+tags: nintendo, nintendo, switch
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bAhV79rmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6MZVKL-es'
+slug: 'B07Z6MZVKL-es Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de...'
+tags: asus, ram, teclado
 actualPrice: 1799.0 EUR
 currency: EUR
 price: 1799.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411amUV27QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NXYDBN-es'
+slug: 'B082NXYDBN-es Oihxse Transparente Silicona Case Compatible con Sony...'
+tags: sony
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

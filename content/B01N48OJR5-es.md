@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QHWhtOYJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N48OJR5-es'
+slug: 'B01N48OJR5-es Brother MFCJ5330DW - Impresora multifunción de tinta...'
+tags: impresora, wifi
 actualPrice: 150.96 EUR
 currency: EUR
 price: 150.96

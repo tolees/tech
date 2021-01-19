@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lbJRS8IWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892ZYWHW-es'
+slug: 'B0892ZYWHW-es funfunfly Webcam PC con Microfono HD 1080P Webcam para...'
+tags: 1080p
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

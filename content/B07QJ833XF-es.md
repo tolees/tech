@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r+eL8QOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ833XF-es'
+slug: 'B07QJ833XF-es Michael Kors Smartwatch Pantalla táctil para Mujer de...'
+tags: smartwatch
 actualPrice: 343.85 EUR
 currency: EUR
 price: 343.85

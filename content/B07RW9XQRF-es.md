@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EQU-FP2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW9XQRF-es'
+slug: 'B07RW9XQRF-es Hisense H32B5600 Auriculares 1 Negro'
+tags: auriculares
 actualPrice: 183.58 EUR
 currency: EUR
 price: 183.58

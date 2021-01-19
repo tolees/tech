@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gu4RpvjxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KK2ZRP-es'
+slug: 'B072KK2ZRP-es HP Spectre Bluetooth 500 Bluetooth Blue LED 1600DPI...'
+tags: bluetooth, ratón
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

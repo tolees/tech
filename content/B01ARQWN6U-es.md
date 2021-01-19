@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sIgNOoTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARQWN6U-es'
+slug: 'B01ARQWN6U-es Netgear gs324 Switch 24 Puertos gigabit unmanaged ethernet...'
+tags: gigabit, netgear
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

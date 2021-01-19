@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rAemjafSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVCLBGN-es'
+slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
+tags: galaxy, móvil, tablet, nintendo, switch
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

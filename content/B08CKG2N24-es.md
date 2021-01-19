@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415dLOWpTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKG2N24-es'
+slug: 'B08CKG2N24-es Auriculares inalámbricos Bluetooth 5.0 Control táctil...'
+tags: auriculares, bluetooth
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

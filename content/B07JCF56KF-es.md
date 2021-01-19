@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410aphwCT3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCF56KF-es'
+slug: 'B07JCF56KF-es HUAWEI Nano Memory Tarjeta de Memoria 128 g para...'
+tags: huawei
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

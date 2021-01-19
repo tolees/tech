@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g0BF9BGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVNXJB1-es'
+slug: 'B07SVNXJB1-es Panasonic Lumix G90H - Cámara Evil de 20.3 MP Pantalla de...'
+tags: panasonic
 actualPrice: 1041.67 EUR
 currency: EUR
 price: 1041.67

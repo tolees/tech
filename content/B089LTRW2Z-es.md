@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F9XfP1oVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LTRW2Z-es'
+slug: 'B089LTRW2Z-es Fanlce Repetidor WiFi Banda Dual Amplificador de WiFi...'
+tags: wifi
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BsuhnCc0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS8Z66K-es'
+slug: 'B07YS8Z66K-es Proyector TOPTRO 6500 Lúmenes Proyector Cine en Casa Full...'
+tags: 1080p, full, hd
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dQdnuQdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851FQFVL-es'
+slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

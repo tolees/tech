@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lvqU9lySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYJL21Z-es'
+slug: 'B07YYJL21Z-es SanDisk Ultra Dual Drive Go para Dispositivos con USB...'
+tags: sandisk
 actualPrice: 42.39 EUR
 currency: EUR
 price: 42.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NnF-GoItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F9MLJJ-es'
+slug: 'B071F9MLJJ-es Western Digital WD10SPZX - Disco Duro Interno HDD 1TB 5400...'
+tags: disco, duro
 actualPrice: 41.04 EUR
 currency: EUR
 price: 41.04

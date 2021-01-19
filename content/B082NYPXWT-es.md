@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418nGrq+IGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NYPXWT-es'
+slug: 'B082NYPXWT-es Oihxse Transparente Silicona Case Compatible con Xiaomi...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

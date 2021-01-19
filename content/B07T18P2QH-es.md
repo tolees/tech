@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rt1ZtGRRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T18P2QH-es'
+slug: 'B07T18P2QH-es INPHIC - Ratón Gaming con Cable Ratón Gamer ergonómico USB...'
+tags: ordenador, ratón
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

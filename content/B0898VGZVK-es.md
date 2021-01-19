@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fTGp1ZY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0898VGZVK-es'
+slug: 'B0898VGZVK-es WINMI para Samsung Galaxy A71 Funda Tapa Trasera de...'
+tags: galaxy, samsung
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

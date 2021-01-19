@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z3AeWcwaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKRVXXG-es'
+slug: 'B08DKRVXXG-es QHOHQ Correa Metal Compatible con Xiaomi Mi Band 5...'
+tags: xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

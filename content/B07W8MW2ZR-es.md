@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KX2BD7u6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8MW2ZR-es'
+slug: 'B07W8MW2ZR-es GPD P2 MAX 8.9 Pulgadas Ultrabook portátil Mini PC...'
+tags: ram
 actualPrice: 789.99 EUR
 currency: EUR
 price: 789.99

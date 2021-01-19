@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nIK6mHxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSPM4Z7-es'
+slug: 'B07WSPM4Z7-es LINKCOOL Trípode para teléfono Trípode de cámara portátil...'
+tags: bluetooth, iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

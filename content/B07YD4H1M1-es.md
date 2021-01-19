@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NiyCGQBcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD4H1M1-es'
+slug: 'B07YD4H1M1-es UniqueMe [6 Pack] Protector de Pantalla para Apple Watch...'
+tags: apple
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

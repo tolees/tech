@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GxdThnvCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7Z1YFZ-es'
+slug: 'B07M7Z1YFZ-es CAISON Laptop Manga Caso Compatible con 12.3 Pulgada...'
+tags: microsoft
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

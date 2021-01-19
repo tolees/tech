@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CpiZ285ML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M1JG4W-es'
+slug: 'B084M1JG4W-es Mini cámara espía Oculta Diseño de Cargador USB Full HD...'
+tags: 1080p, wifi, full, hd
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

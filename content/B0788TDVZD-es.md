@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317xvtYOmTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788TDVZD-es'
+slug: 'B0788TDVZD-es SUPORE Garmin Vivosmart HR Activity Tracker Correa de...'
+tags: garmin
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

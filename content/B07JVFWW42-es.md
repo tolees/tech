@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TYFYLL+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVFWW42-es'
+slug: 'B07JVFWW42-es [4-Pack] Protector de Pantalla para iPhone 6s iPhone 6...'
+tags: iphone
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ADkdFo0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8XZ6SF-es'
+slug: 'B01N8XZ6SF-es Skechers Girls Go Walk 4- Kindle Low-Top Sneakers Black...'
+tags: kindle
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

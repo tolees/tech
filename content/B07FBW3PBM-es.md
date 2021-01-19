@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WWFsg1ORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBW3PBM-es'
+slug: 'B07FBW3PBM-es AOC 27V2Q – Monitor de 27” Full HD IPS Resolución...'
+tags: ips, full, hd
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

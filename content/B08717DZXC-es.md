@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08717DZXC-es'
+slug: 'B08717DZXC-es B Blesiya Cargador Inalámbrico Qi Pad 10W Base De Carga...'
+tags: huawei, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

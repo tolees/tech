@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CCpTwB32L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGP5DL-es'
+slug: 'B07VFGP5DL-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
+tags: galaxy, huawei, samsung, xiaomi
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

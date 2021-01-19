@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B7172y1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5G14WY-es'
+slug: 'B00X5G14WY-es Case Logic HDC11B - Funda rígida para Disco Duro de 2.5"...'
+tags: disco, duro
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

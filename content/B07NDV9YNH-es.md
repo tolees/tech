@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KQBJhyJOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDV9YNH-es'
+slug: 'B07NDV9YNH-es Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9...'
+tags: ram, smartphone, sony, full, hd
 actualPrice: 306.33 EUR
 currency: EUR
 price: 306.33

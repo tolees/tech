@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311m+ah4SDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OJ3UJ2S-es'
+slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a...'
+tags: disco, duro
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

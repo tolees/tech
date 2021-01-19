@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VyqDFX1vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQBDK4L-es'
+slug: 'B07XQBDK4L-es D-Link DUB-M420 - Hub USB tipo C 4 en 1 adaptador USB C...'
+tags: 1080p
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

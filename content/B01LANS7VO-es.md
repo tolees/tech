@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nXiEN12BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LANS7VO-es'
+slug: 'B01LANS7VO-es AUKEY Ratón Vertical 2 DPI ajustable Diseño ergonómico...'
+tags: ratón
 actualPrice: 17.02 EUR
 currency: EUR
 price: 17.02

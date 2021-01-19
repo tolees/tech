@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s-2ca1CZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JHQMQW-es'
+slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y...'
+tags: ordenador, ps4, wii, xbox
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

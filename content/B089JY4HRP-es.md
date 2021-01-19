@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518NzbH1HvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089JY4HRP-es'
+slug: 'B089JY4HRP-es EasySMX 2.4G Teclado inalámbrico / cable teclado gamer...'
+tags: teclado
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

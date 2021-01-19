@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5122u7x5YwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R26R4VS-es'
+slug: 'B07R26R4VS-es Motorola One Vision - Smartphone Android One 4 GB de RAM...'
+tags: motorola, ram, smartphone
 actualPrice: 206.91 EUR
 currency: EUR
 price: 206.91

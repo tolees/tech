@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eeLpg0XGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ET7Y5RY-es'
+slug: 'B00ET7Y5RY-es Canon PG-545 Cartucho de tinta original Negro para...'
+tags: canon, impresora
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xd6KmOdpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HV88RF-es'
+slug: 'B082HV88RF-es Ayete Auriculares Bluetooth5.0 Auriculares inalámbricos...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

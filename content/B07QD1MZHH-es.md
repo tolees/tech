@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Rup6QQqDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD1MZHH-es'
+slug: 'B07QD1MZHH-es Cudy WU1200 - Adaptador WiFi USB CA 1200 Mbit/s para PC...'
+tags: wifi
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

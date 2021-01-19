@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D60eQZCnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PFXV7K-es'
+slug: 'B082PFXV7K-es Seagate Barracuda Fast SSD STJM500400 Unidad de Estado...'
+tags: ordenador
 actualPrice: 96.58 EUR
 currency: EUR
 price: 96.58

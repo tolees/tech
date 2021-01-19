@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oa4UHibZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS3GRLV-es'
+slug: 'B07GS3GRLV-es Zerone Monitor Riser Soporte Stand Desktop Monitor Riser...'
+tags: ordenador
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

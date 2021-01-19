@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tjtjIZxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYDMB1Q-es'
+slug: 'B07YYDMB1Q-es Auriculares inalámbricos Bluetooth 5.0 Etrigger TWS...'
+tags: auriculares, bluetooth, huawei, iphone, samsung
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

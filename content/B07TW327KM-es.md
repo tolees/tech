@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GFeJGIoLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW327KM-es'
+slug: 'B07TW327KM-es KLIM™ Pods - Auriculares inalámbricos Bluetooth +...'
+tags: auriculares, bluetooth
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

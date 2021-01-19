@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rdM-Sp2uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7H4DHW-es'
+slug: 'B07S7H4DHW-es Lamicall Soporte Tablet Multiángulo Soporte Tablet :...'
+tags: nintendo, samsung, tablet, nintendo, switch
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HnG8BKSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNSH7FQ-es'
+slug: 'B07MNSH7FQ-es AWESAFE GPS para Coche con Pantalla Táctil HD de 7...'
+tags: gps
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

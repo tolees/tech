@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WuWT3Q5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VGN9T7-es'
+slug: 'B078VGN9T7-es Sony WHCH400H - Auriculares inalámbricos Bluetooth NFC...'
+tags: auriculares, bluetooth, sony
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

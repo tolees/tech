@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418NxfMaZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HT6NJK4-es'
+slug: 'B07HT6NJK4-es Cargador Mando PS4 KNONEW PS4 Estación de carga USB Base...'
+tags: playstation, ps4, sony
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

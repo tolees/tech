@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hT+Z+MnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGWC6KB-es'
+slug: 'B07VGWC6KB-es Fintie Funda para Tablet YOTOPT 10.1" YUNTAB K107 / K17 de...'
+tags: tablet
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

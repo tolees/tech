@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ST5y9MQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LT77HD-es'
+slug: 'B087LT77HD-es Oihxse Silicona Funda con Samsung Galaxy A21 TPU Flexible...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

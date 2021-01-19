@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413BeBm2l%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ8QZNX-es'
+slug: 'B07XZ8QZNX-es 【2019 Nuevo Versión】 Auriculares Inalambricos Bluetooth...'
+tags: auriculares, bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413q9rcR1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R54MYJS-es'
+slug: 'B07R54MYJS-es MEE audio X10 - Auriculares In-Ear Bluetooth sin Cable...'
+tags: auriculares, bluetooth
 actualPrice: 70.41 EUR
 currency: EUR
 price: 70.41

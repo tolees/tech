@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hWKGNksLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KWKP63-es'
+slug: 'B071KWKP63-es Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung...'
+tags: galaxy, huawei, iphone, samsung, xiaomi
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

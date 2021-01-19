@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bs3Vc+JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA15Z2D-es'
+slug: 'B01MA15Z2D-es Gigaset AS405 Duo - Teléfono Inalámbrico Pack de 2...'
+tags: gigaset
 actualPrice: 42.42 EUR
 currency: EUR
 price: 42.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lpoiqNilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756X8BGS-es'
+slug: 'B0756X8BGS-es Razer Atheris Ratón Ergonómico para Juegos Gaming con una...'
+tags: ratón
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

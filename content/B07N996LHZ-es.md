@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QfnftSsdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N996LHZ-es'
+slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming 17.3" FHD...'
+tags: asus, ram
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

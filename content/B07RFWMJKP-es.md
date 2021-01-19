@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51B4qJLUOOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFWMJKP-es'
+slug: 'B07RFWMJKP-es ASUS TUF Gaming FX505DD-BQ067 - Ordenador portátil de...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 699.99 EUR
 currency: EUR
 price: 699.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sozZ0-2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMTTW5P-es'
+slug: 'B07RMTTW5P-es AtailorBird Funda para PC Portátil 13-14 Pulgadas Bolsa de...'
+tags: ordenador
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

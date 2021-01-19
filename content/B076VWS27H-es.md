@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FBqtkynGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VWS27H-es'
+slug: 'B076VWS27H-es KHOMO Funda iPad Air 3 10.5 2019 / iPad Pro 10.5 2017...'
+tags: apple, teclado
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

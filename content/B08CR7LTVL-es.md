@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zdy2wvAUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR7LTVL-es'
+slug: 'B08CR7LTVL-es Abasic Correa de Reloj Reemplazo Compatible con Galaxy...'
+tags: galaxy
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

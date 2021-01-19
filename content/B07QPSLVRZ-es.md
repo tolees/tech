@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zyNGL-9zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPSLVRZ-es'
+slug: 'B07QPSLVRZ-es Vieta Pro Way – Auriculares inalámbricos Bluetooth radio...'
+tags: auriculares, bluetooth
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

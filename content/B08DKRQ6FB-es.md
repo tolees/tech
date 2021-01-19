@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31POe8Qnk4L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKRQ6FB-es'
+slug: 'B08DKRQ6FB-es Elyco Boxing Grip para Nintendo Switch Empuñadura de Boxeo...'
+tags: nintendo, nintendo, switch
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

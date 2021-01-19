@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j+jlXZ23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T53FSEG-es'
+slug: 'B00T53FSEG-es Panasonic Lumix DMC-FT30 - Cámara Acuática Sumergible de...'
+tags: panasonic
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

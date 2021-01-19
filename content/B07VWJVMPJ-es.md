@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515Xj17-cZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWJVMPJ-es'
+slug: 'B07VWJVMPJ-es Smartwatch Reloj Inteligente Deportivo Pulsera Actividad...'
+tags: smartwatch
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

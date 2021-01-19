@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316CgRGa8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LL6ZPP-es'
+slug: 'B085LL6ZPP-es MKTOSASA - Original cubitera con Potente Altavoz de 5W de...'
+tags: altavoz
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

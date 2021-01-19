@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AdNnWca6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGNW784-es'
+slug: 'B01JGNW784-es MutecPower 1m Sat Cable coaxial de la Antena Conector...'
+tags: full, hd
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

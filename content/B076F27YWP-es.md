@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31dB%2BWlwLGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F27YWP-es'
+slug: 'B076F27YWP-es HDML-Cloner Box Turbo 1080p Dispositivo de Captura de HDMI...'
+tags: 1080p
 actualPrice: 141.29 EUR
 currency: EUR
 price: 141.29

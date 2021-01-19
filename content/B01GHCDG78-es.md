@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lWTzFI4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHCDG78-es'
+slug: 'B01GHCDG78-es Mengshen Mini DLP Proyector Portátil Recargable...'
+tags: 1080p
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z+CqaSJhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YHY9BB-es'
+slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje...'
+tags: sony
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qgv8PdFxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4QPC6R-es'
+slug: 'B07K4QPC6R-es HP 300 - Teclado y ratón inalámbricos color negro'
+tags: ratón, teclado
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

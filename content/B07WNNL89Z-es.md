@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410DVKM-yCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNNL89Z-es'
+slug: 'B07WNNL89Z-es Black Shark 2 8GB+128GB Azul con Pro Kit Black Shark Funda...'
+tags: móvil
 actualPrice: 487.55 EUR
 currency: EUR
 price: 487.55

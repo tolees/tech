@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN8RNMB-es'
+slug: 'B07MN8RNMB-es Lenovo Legion Y910-17ISK - Ordenador portátil gaming de 17...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 1499.0 EUR
 currency: EUR
 price: 1499.0

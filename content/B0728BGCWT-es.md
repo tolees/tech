@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VHoPQq9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728BGCWT-es'
+slug: 'B0728BGCWT-es MONITOR HP 23.8 1 VH240A LED IPS FHD 1920X1080 A 60 HZ...'
+tags: ips
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513qBRQ1baL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPDVGSY-es'
+slug: 'B07VPDVGSY-es Jslai Niños Smartwatch Imprägniern Inteligente Relojes...'
+tags: móvil, smartwatch
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

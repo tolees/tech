@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vz-ZD-WpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WCPNZK-es'
+slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD Intel...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 183.11 EUR
 currency: EUR
 price: 183.11

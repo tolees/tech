@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415aHRUPMYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLT36Q8-es'
+slug: 'B07NLT36Q8-es Fujifilm X-T30 Cuerpo cámara de Objetivo Intercambiable...'
+tags: fujifilm
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NzYULD18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHHCB5K-es'
+slug: 'B07BHHCB5K-es KROM Khami - NXKROMKHAMI - Auriculares Gaming Estéreo...'
+tags: auriculares
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5158tZvAVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM486PY-es'
+slug: 'B07PM486PY-es eXtremeRate Dawn Programable Remap Kit PS4 Scuf...'
+tags: ps4
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

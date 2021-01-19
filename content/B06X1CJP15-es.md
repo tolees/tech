@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OPGPBesHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X1CJP15-es'
+slug: 'B06X1CJP15-es Vibox Kaleidos SA4-102 Gaming PC Ordenador de sobremesa...'
+tags: ordenador, ram
 actualPrice: 574.95 EUR
 currency: EUR
 price: 574.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S70NAzK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR6K7K4-es'
+slug: 'B07GR6K7K4-es Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

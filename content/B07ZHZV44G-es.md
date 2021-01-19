@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416lEu3S23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHZV44G-es'
+slug: 'B07ZHZV44G-es VOCOlinc Smart Home Bombilla LED L3 Regulable + Toma...'
+tags: alexa, apple, google, assistant
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

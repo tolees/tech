@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLCVKPV-es'
+slug: 'B07ZLCVKPV-es Crucial CT2K32G4SFD832A Kit de Memoria Ram de 64 GB 32 GB...'
+tags: ram
 actualPrice: 249.24 EUR
 currency: EUR
 price: 249.24

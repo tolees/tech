@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pAharPVBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVY1H9V-es'
+slug: 'B07MVY1H9V-es Anivia 1080P Full HD Webcam with Webcam Cover Cámara para...'
+tags: 1080p, full, hd
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

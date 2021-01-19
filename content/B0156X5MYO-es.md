@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YAneqBDrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0156X5MYO-es'
+slug: 'B0156X5MYO-es Panasonic DMC-GH4RE-K-Cámara Digita de 16 MP Pantalla de 3...'
+tags: panasonic
 actualPrice: 857.25 EUR
 currency: EUR
 price: 857.25

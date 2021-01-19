@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZzyD-rJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB71JYY-es'
+slug: 'B07XB71JYY-es iPosible Batería Externa 26800mAh Power Bank Ultra...'
+tags: móvil
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

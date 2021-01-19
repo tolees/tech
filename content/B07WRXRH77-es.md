@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x6eRA84qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRXRH77-es'
+slug: 'B07WRXRH77-es Tablet 10 Pulgadas 4G Full HD 32GB ROM/64GB 4G/WiFi/OTG...'
+tags: ram, tablet, full, hd
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

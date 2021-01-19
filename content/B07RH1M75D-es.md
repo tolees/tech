@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lz-WJ54dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH1M75D-es'
+slug: 'B07RH1M75D-es Honor 20 Lite - Smartphone de 6.21" RAM de 4 GB Memoria de...'
+tags: ram, smartphone
 actualPrice: 204.0 EUR
 currency: EUR
 price: 204.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21roBgjum4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHFNDWX-es'
+slug: 'B07JHFNDWX-es SAMSUNG EB-P1100C batería Externa Plata Polímero de Litio...'
+tags: samsung
 actualPrice: 13.12 EUR
 currency: EUR
 price: 13.12

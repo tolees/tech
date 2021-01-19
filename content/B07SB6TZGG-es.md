@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Okdv1cySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB6TZGG-es'
+slug: 'B07SB6TZGG-es HP Laser MFP 135w - Impresora láser multifunción imprime...'
+tags: impresora, wifi
 actualPrice: 118.8 EUR
 currency: EUR
 price: 118.8

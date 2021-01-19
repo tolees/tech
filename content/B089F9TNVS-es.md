@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FXe+63TnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F9TNVS-es'
+slug: 'B089F9TNVS-es Blackview BV6900 2020 Móvil Libre Resistente IP68 Telefono...'
+tags: móvil
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

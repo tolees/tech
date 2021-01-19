@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g0fzvfgvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYT8BMC-es'
+slug: 'B07VYT8BMC-es Samsung Galaxy Note10+ SM-N975F - Smartphone Dual SIM 12...'
+tags: galaxy, ram, samsung, smartphone
 actualPrice: 869.0 EUR
 currency: EUR
 price: 869.0

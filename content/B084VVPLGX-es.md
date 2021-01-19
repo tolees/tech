@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f5LA5DS4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VVPLGX-es'
+slug: 'B084VVPLGX-es YUNMAI Pro Báscula Cargador USB 10 Datos Corporales...'
+tags: apple, bluetooth
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

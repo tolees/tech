@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP78DZ5-es'
+slug: 'B07HP78DZ5-es Crucial CT4G4SFS8266 Memoria RAM de 4GB DDR4 2666 MT/s...'
+tags: ram
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

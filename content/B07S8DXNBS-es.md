@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314M06aDoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8DXNBS-es'
+slug: 'B07S8DXNBS-es HP Color Laserjet Pro M454dw - Impresora Láser Monocromo...'
+tags: gigabit, impresora
 actualPrice: 294.15 EUR
 currency: EUR
 price: 294.15

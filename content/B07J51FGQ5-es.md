@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C+JfzBWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J51FGQ5-es'
+slug: 'B07J51FGQ5-es SIMREX X300C Mini Drone con cámara WiFi HD FPV Plegable RC...'
+tags: wifi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

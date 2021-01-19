@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v6hA6GUUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZZ7NGN-es'
+slug: 'B07GZZ7NGN-es Symphonized DRV Bluetooth Auriculares de tapón...'
+tags: auriculares, bluetooth
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

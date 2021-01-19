@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OGm94Kc4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I56QPHC-es'
+slug: 'B01I56QPHC-es Silver HT - Funda Universal con Teclado Micro USB Pixel...'
+tags: huawei, samsung, tablet, teclado
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

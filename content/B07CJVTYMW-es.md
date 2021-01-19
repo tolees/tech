@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311PDOtD7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJVTYMW-es'
+slug: 'B07CJVTYMW-es D-Link DCS-8300LH – Cámara de vigilancia/Seguridad WiFi...'
+tags: 1080p, alexa, microsd, móvil, wifi, full, hd, google, home
 actualPrice: 85.88 EUR
 currency: EUR
 price: 85.88

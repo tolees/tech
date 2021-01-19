@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gN5-uUodL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFWMF2Z-es'
+slug: 'B07GFWMF2Z-es Steelseries Arctis 5 Auriculares De Juego Iluminados por...'
+tags: auriculares, playstation
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

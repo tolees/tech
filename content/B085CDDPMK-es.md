@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41amkLh4QPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CDDPMK-es'
+slug: 'B085CDDPMK-es FMPC Carcasa con Cuerda Samsung Galaxy S10 Cristal TPU...'
+tags: galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

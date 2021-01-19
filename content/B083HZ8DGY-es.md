@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419u4kSIGzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ8DGY-es'
+slug: 'B083HZ8DGY-es Funda Protectora para teléfono móvil de diseño Lindo Funda...'
+tags: iphone, móvil
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

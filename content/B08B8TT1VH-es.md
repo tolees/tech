@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hKgAav2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B8TT1VH-es'
+slug: 'B08B8TT1VH-es Ordenador Portatil Intel Celeron J3455 Ultrabook...'
+tags: ordenador, ram
 actualPrice: 285.0 EUR
 currency: EUR
 price: 285.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412aIKpa4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZW5KP2-es'
+slug: 'B08CZW5KP2-es Primewire – 0 5m Cable HDMI 2.1 - Alta Velocidad con...'
+tags: ps4, xbox
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

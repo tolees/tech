@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AV8a3NM2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNJGM1G-es'
+slug: 'B07JNJGM1G-es UNBREAKcable Protector de Pantalla para iPhone X iPhone XS...'
+tags: iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

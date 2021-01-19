@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PGIfEJ61L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NG3L2Y-es'
+slug: 'B085NG3L2Y-es FNBK Funda para Samsung Galaxy S20 Plus Silicona TPU...'
+tags: galaxy, samsung
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

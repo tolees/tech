@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pwSrbED0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G6F0Y6C-es'
+slug: 'B01G6F0Y6C-es Teclado mecánico AK33 de Lexon tech teclado para juegos...'
+tags: teclado
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

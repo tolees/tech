@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OJvLCUO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCEZWBE-es'
+slug: 'B01BCEZWBE-es Samsung S22F350FHU - Monitor LED de 21.5 pulgadas FullHD...'
+tags: samsung
 actualPrice: 80.91 EUR
 currency: EUR
 price: 80.91

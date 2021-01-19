@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w9RcP0XcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ9BBB9-es'
+slug: 'B07NQ9BBB9-es Samsung Galaxy Watch Active Reloj Inteligente Negro...'
+tags: galaxy, gps, samsung
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

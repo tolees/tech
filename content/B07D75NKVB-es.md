@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41z4UJT0GcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D75NKVB-es'
+slug: 'B07D75NKVB-es Lenovo Yoga 910-13IKB - Portátil táctil Convertible de...'
+tags: lenovo, ram
 actualPrice: 1066.61 EUR
 currency: EUR
 price: 1066.61

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k91dBbjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087N3GBK1-es'
+slug: 'B087N3GBK1-es Cocoda Soporte Tablet Portátil Soporte iPad con Ajustable...'
+tags: huawei, iphone, samsung, tablet
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

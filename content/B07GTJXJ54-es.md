@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oKlZgQRRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTJXJ54-es'
+slug: 'B07GTJXJ54-es Ferilinso Cristal Templado para Huawei Mate 20 Lite [2...'
+tags: huawei
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

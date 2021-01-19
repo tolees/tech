@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lw+FgaHXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005S22GDO-es'
+slug: 'B005S22GDO-es T’NB Ratón Óptico Inalámbrico Blanco - Ultra Compacto...'
+tags: ratón
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

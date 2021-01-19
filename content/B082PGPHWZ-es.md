@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D60eQZCnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PGPHWZ-es'
+slug: 'B082PGPHWZ-es Seagate Barracuda Fast SSD de 1 TB Disco duro externo...'
+tags: ordenador, disco, duro
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KDq9Wok7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMCFMJK-es'
+slug: 'B07HMCFMJK-es MSI GS73 Stealth 8RD-006XES - Ordenador portátil gaming...'
+tags: ordenador, ram, teclado
 actualPrice: 1110 EUR
 currency: EUR
 price: 1110

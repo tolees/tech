@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U8hUtaRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNFFKNR-es'
+slug: 'B07FNFFKNR-es Dericam High Definition Webcam HD Computer Camera 2...'
+tags: 1080p
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FwiCsoA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NMJRLHG-es'
+slug: 'B00NMJRLHG-es Devolo 9370 - Adaptador de comunicación por línea...'
+tags: gigabit
 actualPrice: 45.68 EUR
 currency: EUR
 price: 45.68

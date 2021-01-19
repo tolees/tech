@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yFh6rkmJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD2D6P9-es'
+slug: 'B07YD2D6P9-es Xiaomi Mi 9 Lite – Smartphone con Pantalla AMOLED FullHD...'
+tags: smartphone, xiaomi
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

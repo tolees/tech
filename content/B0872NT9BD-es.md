@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PjZSwc2GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NT9BD-es'
+slug: 'B0872NT9BD-es Funda Transparente Compatible para Xiaomi Mi MAX 3 Carcasa...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

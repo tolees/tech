@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GDqqYEPbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZO9OVQ-es'
+slug: 'B015ZO9OVQ-es Pioneer Se-MJ771BT-W - Auriculares microfono Bluetooth...'
+tags: auriculares, bluetooth, pioneer
 actualPrice: 54.8 EUR
 currency: EUR
 price: 54.8

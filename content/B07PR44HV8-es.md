@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lgJa1k-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR44HV8-es'
+slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
+tags: iphone
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

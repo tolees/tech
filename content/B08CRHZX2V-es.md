@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wtk-4UiLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRHZX2V-es'
+slug: 'B08CRHZX2V-es Q88 7 "Tablet para niños 1G + 8GB A33 Quad Core 0.3MP...'
+tags: tablet
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

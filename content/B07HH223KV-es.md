@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH223KV-es'
+slug: 'B07HH223KV-es AmazonBasics - Auriculares de botón con micrófono Rojo'
+tags: auriculares
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJ8T6G-es'
+slug: 'B07PPJ8T6G-es Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled...'
+tags: galaxy, ram, samsung, smartphone
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oonqpVBKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTT6QGL-es'
+slug: 'B08BTT6QGL-es Molyflower 1 PC Cámara Web HD 1080P Cámara de Video de...'
+tags: 1080p
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

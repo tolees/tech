@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VRyc6lh4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9K2PBQ-es'
+slug: 'B01N9K2PBQ-es Corsair Scimitar Pro RGB - Ratón óptico para juegos...'
+tags: ratón
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

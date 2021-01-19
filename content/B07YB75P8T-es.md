@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514SigvPPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB75P8T-es'
+slug: 'B07YB75P8T-es Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con...'
+tags: auriculares, ps4, nintendo, switch
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412-RUsu9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0835QCDG6-es'
+slug: 'B0835QCDG6-es EXPLORER - Papel blanco multiusos para impresora - A4 80gr...'
+tags: impresora
 actualPrice: 40.44 EUR
 currency: EUR
 price: 40.44

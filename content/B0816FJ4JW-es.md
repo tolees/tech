@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b0GWE8-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816FJ4JW-es'
+slug: 'B0816FJ4JW-es Funda con Cuerda para Samsung Galaxy A70 - Carcasa Samsung...'
+tags: galaxy, samsung
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

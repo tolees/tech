@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51THNxvU9qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKZLCS1-es'
+slug: 'B07DKZLCS1-es ACTMAN Cámara Deportiva 4K 16 MP WiFi Sumergible con...'
+tags: wifi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

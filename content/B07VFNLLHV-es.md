@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XprlYC29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFNLLHV-es'
+slug: 'B07VFNLLHV-es Armani Exchange Smartwatch Pantalla táctil para Hombre de...'
+tags: smartwatch
 actualPrice: 83.7 EUR
 currency: EUR
 price: 83.7

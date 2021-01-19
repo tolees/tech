@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bWIFa1HwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R7QJAHY-es'
+slug: 'B00R7QJAHY-es Wacom DTH-2700 Cintiq 27 QHD Touch - Pantalla Creativa...'
+tags: wacom
 actualPrice: 2160.76 EUR
 currency: EUR
 price: 2160.76

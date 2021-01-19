@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rqcqOR6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X69Y9WL-es'
+slug: 'B07X69Y9WL-es HP OMEN 15-dc1017ns - Portátil Gaming de 15.6" FullHD...'
+tags: ram, teclado
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

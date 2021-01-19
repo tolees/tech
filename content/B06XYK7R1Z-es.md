@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mmD8ERTCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYK7R1Z-es'
+slug: 'B06XYK7R1Z-es Insta360 ONE - Cámara 360 grados deportiva Resolución 4K...'
+tags: bluetooth, microsd
 actualPrice: 196.5 EUR
 currency: EUR
 price: 196.5

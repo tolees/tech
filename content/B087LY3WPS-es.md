@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RF+gFvhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LY3WPS-es'
+slug: 'B087LY3WPS-es Oihxse Cristal Compatible con iPhone XS/X Funda...'
+tags: iphone
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hJX0tixnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRR9NB7-es'
+slug: 'B07QRR9NB7-es Samsung MU-PA500G 500 GB Oro - Unidades externas de Estado...'
+tags: samsung
 actualPrice: 100.16 EUR
 currency: EUR
 price: 100.16

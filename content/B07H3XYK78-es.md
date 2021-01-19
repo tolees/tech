@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x3RyfPHrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3XYK78-es'
+slug: 'B07H3XYK78-es Fujifilm X-T3 - Cámara de objetivo intercambiable sin...'
+tags: bluetooth, fujifilm, wifi
 actualPrice: 1099.9 EUR
 currency: EUR
 price: 1099.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aYXPwdL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KC5AH7S-es'
+slug: 'B01KC5AH7S-es Auriculares Inalámblicos Auriculares Bluetooth in Ear con...'
+tags: auriculares, bluetooth
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

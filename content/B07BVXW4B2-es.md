@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4181G0LNbpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVXW4B2-es'
+slug: 'B07BVXW4B2-es TomTom GO Basic - Navegador para coche 5 pulgadas...'
+tags: smartphone, tomtom
 actualPrice: 129 EUR
 currency: EUR
 price: 129

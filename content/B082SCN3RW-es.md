@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tQ3XJlmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SCN3RW-es'
+slug: 'B082SCN3RW-es TOOBUR Smartwatch IP68 Impermeable Reloj Inteligente con...'
+tags: smartwatch
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

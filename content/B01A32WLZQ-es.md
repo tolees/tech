@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PrdJ-eY9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A32WLZQ-es'
+slug: 'B01A32WLZQ-es ZENBRE Parlante Bluetooth Z3 10W Parlante Inalámbrico...'
+tags: bluetooth
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

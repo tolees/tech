@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xbq88r1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLV7SXD-es'
+slug: 'B07FLV7SXD-es Monitor portátil TFT LED de 10.1 pulgadas 1366 x 768 con...'
+tags: altavoz
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

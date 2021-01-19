@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417lX5lSGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BH9PYJ-es'
+slug: 'B088BH9PYJ-es Oihxse Cristal Compatible con Samsung Galaxy J4 Funda...'
+tags: galaxy, samsung
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

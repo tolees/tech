@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nxVpr2StL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000B8TIZO-es'
+slug: 'B000B8TIZO-es Canon PG-40 Cartucho de tinta original Negro para...'
+tags: canon, impresora
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

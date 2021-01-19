@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NfRAa9dlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9W5EA0-es'
+slug: 'B01N9W5EA0-es Trust Reno - Auriculares con micrófono para PC Color Negro'
+tags: auriculares
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

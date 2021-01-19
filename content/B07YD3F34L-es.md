@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OTOy+j3JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD3F34L-es'
+slug: 'B07YD3F34L-es Alfombrilla de ratón EVA con reposamuñecas para...'
+tags: ratón, teclado
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

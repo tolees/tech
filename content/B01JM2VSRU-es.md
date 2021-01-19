@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z7H3xq0jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JM2VSRU-es'
+slug: 'B01JM2VSRU-es HP Laserjet Pro M227sdn - Impresora láser multifunción 800...'
+tags: impresora
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

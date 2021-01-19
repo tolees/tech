@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JH10fBn7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758G1HZM-es'
+slug: 'B0758G1HZM-es Xiaomi Mi Bluetooth Headphone Blanco - Auriculares...'
+tags: auriculares, bluetooth, xiaomi
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NWvODCrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JCSV8U-es'
+slug: 'B002JCSV8U-es Nikon AF-S 70-200mm F/2.8 G ED VRII - Objetivo con montura...'
+tags: nikon
 actualPrice: 1700.72 EUR
 currency: EUR
 price: 1700.72

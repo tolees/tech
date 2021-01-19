@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BIVj5wb2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWMBPV9-es'
+slug: 'B07GWMBPV9-es Hually Funda para Huawei P20 Lite Carcasa Transparente...'
+tags: huawei
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l3vDSA8GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GWJE5S6-es'
+slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión...'
+tags: sony
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

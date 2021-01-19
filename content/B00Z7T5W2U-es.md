@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516140RjQQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7T5W2U-es'
+slug: 'B00Z7T5W2U-es Otterbox Symmetry - Funda para Apple iPhone XR diseño RAD...'
+tags: apple, iphone
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

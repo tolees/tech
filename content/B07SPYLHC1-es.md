@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B9Qd8+jUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPYLHC1-es'
+slug: 'B07SPYLHC1-es SenPuSi HUB USB C 6-EN-1 Concentrador con HDMI 4K 2 USB...'
+tags: huawei
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

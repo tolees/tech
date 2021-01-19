@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G67LF8G-es'
+slug: 'B01G67LF8G-es Netgear EX7300 Repetidor WiFi Mesh AC2200 Amplificador...'
+tags: gigabit, netgear, wifi
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

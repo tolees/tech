@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QET+hQO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081J79VTB-es'
+slug: 'B081J79VTB-es Zommuei Adaptador Bluetooth USB Mini Receptor Bluetooth y...'
+tags: bluetooth
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

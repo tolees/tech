@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QyrwswYyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDJJKL4-es'
+slug: 'B07XDJJKL4-es MSI P65 Creator 9SF-1017ES - Ordenador portátil de 15.6"...'
+tags: ordenador, ram, teclado
 actualPrice: 2999.0 EUR
 currency: EUR
 price: 2999.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z5MJeep1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2MMGN9-es'
+slug: 'B07N2MMGN9-es Cámara IP WiFi BlitzWolf 1080P HD Cámara de Vigilancia...'
+tags: 1080p, wifi
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CGt1usDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKDJ55F-es'
+slug: 'B07CKDJ55F-es Logitech R500 Presentador Inalámbrico 2.4 GHz con Receptor...'
+tags: logitech
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

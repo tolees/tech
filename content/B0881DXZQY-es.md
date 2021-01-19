@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i0IIROhSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881DXZQY-es'
+slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda Suave PU Cuero Flip...'
+tags: sony
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

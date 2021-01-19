@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nSmht8jbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GLVHSM-es'
+slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
+tags: auriculares, iphone, auriculares, estéreo
 actualPrice: 3.33 EUR
 currency: EUR
 price: 3.33

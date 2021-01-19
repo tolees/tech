@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tXAaH2tVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJNPDCN-es'
+slug: 'B07VJNPDCN-es ESR Funda Transparente para iPhone 11 Pro MAX Carcasa...'
+tags: iphone
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

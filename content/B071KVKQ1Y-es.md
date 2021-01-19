@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wU2U-A7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KVKQ1Y-es'
+slug: 'B071KVKQ1Y-es Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream...'
+tags: gigabit
 actualPrice: 111.15 EUR
 currency: EUR
 price: 111.15

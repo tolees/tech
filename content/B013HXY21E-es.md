@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jzmzHcKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013HXY21E-es'
+slug: 'B013HXY21E-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para...'
+tags: nikon
 actualPrice: 198.9 EUR
 currency: EUR
 price: 198.9

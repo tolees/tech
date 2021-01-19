@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X41vKfD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DPCAJDC-es'
+slug: 'B01DPCAJDC-es HP 20kd - Monitor de 19 5" IPS 1440 x 900 8 ms VGA 60 Hz...'
+tags: ips
 actualPrice: 75.65 EUR
 currency: EUR
 price: 75.65

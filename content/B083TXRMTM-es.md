@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d5qG5Z5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TXRMTM-es'
+slug: 'B083TXRMTM-es memumi Delgado para Samsung Galaxy S20 Ultra 6.9" Funda...'
+tags: galaxy, samsung
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w6xHDN64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8M4L7R-es'
+slug: 'B07Y8M4L7R-es 2.0 Altavoces HiFi estantería Altavoces pc...'
+tags: bluetooth
 actualPrice: 66.52 EUR
 currency: EUR
 price: 66.52

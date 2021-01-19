@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MOGETywlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXW5CG-es'
+slug: 'B07KFXW5CG-es PUMA Smash v2 SD Jr Zapatillas Unisex Niños Galaxy Blue...'
+tags: galaxy
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

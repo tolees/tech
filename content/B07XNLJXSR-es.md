@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DbWQYRdeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNLJXSR-es'
+slug: 'B07XNLJXSR-es Android 7.0 Nougat Tablet 10 Pulgadas con Ranuras para...'
+tags: bluetooth, gps, ram, tablet, wifi
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

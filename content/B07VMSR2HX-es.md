@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uvOH3GJHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMSR2HX-es'
+slug: 'B07VMSR2HX-es Sennheiser PC 8.2 Chat Auriculares con Cable para Casual...'
+tags: auriculares
 actualPrice: 56.51 EUR
 currency: EUR
 price: 56.51

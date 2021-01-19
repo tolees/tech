@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417olVJQIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPCK5KS-es'
+slug: 'B07FPCK5KS-es HENMI 10 A Interruptor WiFi DIY Módulo de Interruptor...'
+tags: alexa, wifi, google, home
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

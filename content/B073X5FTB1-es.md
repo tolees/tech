@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UJdfMuC5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X5FTB1-es'
+slug: 'B073X5FTB1-es Sony SBH24 Dentro de oído Binaural Inalámbrico Blanco -...'
+tags: auriculares, sony
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

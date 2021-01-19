@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CwaeUq1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV5YFC3-es'
+slug: 'B07MV5YFC3-es NOVOO - Batería Externa 20000mAh Powerbank con 3 Puertos 1...'
+tags: iphone
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

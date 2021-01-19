@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mqv9RqbRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS5M5FB-es'
+slug: 'B07WS5M5FB-es Videocamara Videocámara Cámara de Video Full HD 1080p...'
+tags: 1080p, full, hd
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OcA1P61pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YMJWMFG-es'
+slug: 'B00YMJWMFG-es SODIAL R 1GB 1G DDR RAM Memoria Ordenador portatil 333MHZ...'
+tags: ordenador, ram
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

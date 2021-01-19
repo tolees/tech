@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JXwBBLmjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK37ZZ1-es'
+slug: 'B07WK37ZZ1-es BANLVS Smartwatch Niños 2019 Nuevo Reloj Inteligente Niños...'
+tags: smartwatch
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

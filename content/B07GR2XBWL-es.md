@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4130eoJAA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR2XBWL-es'
+slug: 'B07GR2XBWL-es auna IR-160 - Radio Internet WiFi USB MP3 AUX Alarma...'
+tags: wifi
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

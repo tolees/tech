@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNT728Z-es'
+slug: 'B07NNT728Z-es Fujifilm X-T30 Kit cámara con Objetivo Intercambiable...'
+tags: fujifilm
 actualPrice: 838.95 EUR
 currency: EUR
 price: 838.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jsn+OIXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCZMV8V-es'
+slug: 'B07XCZMV8V-es QTshine Batería Externa 26800mAh Cargador Portátil Ultra...'
+tags: smartphone
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YrLBvGUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NSSXTL-es'
+slug: 'B083NSSXTL-es Moviles Libres Barats 4G 6.0" Pulgadas 2020 16GB...'
+tags: ram, smartphone, wifi
 actualPrice: 69.85 EUR
 currency: EUR
 price: 69.85

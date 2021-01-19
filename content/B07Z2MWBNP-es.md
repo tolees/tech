@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51e+R2mwa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z2MWBNP-es'
+slug: 'B07Z2MWBNP-es Robinsoni Fundas Compatible con Xiaomi Redmi 7A Funda...'
+tags: xiaomi
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

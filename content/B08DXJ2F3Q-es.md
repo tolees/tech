@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KWR5JinRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXJ2F3Q-es'
+slug: 'B08DXJ2F3Q-es Ztowoto Funda de Transporte Compatible con Nintendo Switch...'
+tags: nintendo, nintendo, switch
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

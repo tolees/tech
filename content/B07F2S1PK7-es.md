@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jVUHwUVxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S1PK7-es'
+slug: 'B07F2S1PK7-es Sharp XL-B710 BK All In One Sound System con Radio Fm...'
+tags: bluetooth
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

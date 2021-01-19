@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N-67zN-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQJSLC1-es'
+slug: 'B07TQJSLC1-es TECHGEAR Vanguard Funda Compatible con Nuevo Samsung...'
+tags: galaxy, samsung
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H8M84RFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVH9XR8-es'
+slug: 'B07SVH9XR8-es Fujifilm Instax Mini LiPlay Negro'
+tags: fujifilm
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

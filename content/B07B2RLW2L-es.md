@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cpNHt1gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B2RLW2L-es'
+slug: 'B07B2RLW2L-es VR Gafas de Realidad Virtual Gafas vr Con Control Remoto...'
+tags: galaxy
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v7BLF8VhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKYM3N4-es'
+slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
+tags: auriculares, nintendo, ps4, xbox, auriculares, estéreo, nintendo, switch
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

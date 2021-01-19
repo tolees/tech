@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XMDPWNMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F2PXQG-es'
+slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
+tags: huawei, iphone, móvil, samsung
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

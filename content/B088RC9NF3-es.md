@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gUI3lOuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RC9NF3-es'
+slug: 'B088RC9NF3-es COOAU Cámara Web 1080p HD con micrófono con cancelación de...'
+tags: 1080p
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

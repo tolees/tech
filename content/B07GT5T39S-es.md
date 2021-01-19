@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DCJGSoD+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT5T39S-es'
+slug: 'B07GT5T39S-es Sony DSX-A416BT - Reproductor multimedia para coche...'
+tags: bluetooth, sony
 actualPrice: 104.51 EUR
 currency: EUR
 price: 104.51
@@ -25,9 +26,9 @@ Tienes [Sony DSX-A416BT - Reproductor multimedia para coche  Bluetooth  NFC  con
 
 🔎:
 
+- El terminal USB compatible con AOA 2.0 te permite conectar reproductores de música y Smartphone
 - El amplificador de alta potencia ofrece un sonido nítido y natural
 - Facil Instalación
 - Sintonizador de radio AM / FM integrado
-- El terminal USB compatible con AOA 2.0 te permite conectar reproductores de música y Smartphone
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GT5T39S/?tag=tolees-21)

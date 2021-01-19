@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Lq1dowiuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRG3HAY-es'
+slug: 'B01MRG3HAY-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
+tags: galaxy, huawei, iphone
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

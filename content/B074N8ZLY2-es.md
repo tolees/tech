@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YC9hK1s5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N8ZLY2-es'
+slug: 'B074N8ZLY2-es Apple iPhone 7 - Smartphone DE 4 7” con tecnología IPS...'
+tags: apple, iphone, ips, smartphone
 actualPrice: 290.0 EUR
 currency: EUR
 price: 290.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411IYPp-0EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSB5NQX-es'
+slug: 'B07NSB5NQX-es Need Escritorios Mesa de Ordenador 138x55cm Escritorio de...'
+tags: ordenador
 actualPrice: 61.1 EUR
 currency: EUR
 price: 61.1

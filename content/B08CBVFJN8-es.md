@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lfhOQbYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBVFJN8-es'
+slug: 'B08CBVFJN8-es LJP Funda Huawei Honor 20 Suave PU Cuero Carcasa y TPU...'
+tags: huawei
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

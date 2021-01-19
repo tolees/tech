@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rc2j5XG2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KO0T5VA-es'
+slug: 'B01KO0T5VA-es Kodak Photo Printer Mini WiFi - Impresora fotográfica...'
+tags: impresora, wifi
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

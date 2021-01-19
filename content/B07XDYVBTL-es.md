@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VjhRnb-tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDYVBTL-es'
+slug: 'B07XDYVBTL-es Tipmant Reloj Inteligente Mujer Hombre Smartwatch Pantalla...'
+tags: huawei, samsung, smartwatch, xiaomi
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

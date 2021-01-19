@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vsMNL3-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811R7VJY-es'
+slug: 'B0811R7VJY-es DOOGEE S95 Pro Super Mod Móvil Antigolpes Helio P90 Octa-...'
+tags: móvil, ram
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

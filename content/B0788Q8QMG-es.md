@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318ev0NRRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788Q8QMG-es'
+slug: 'B0788Q8QMG-es singhong WiFi inteligentes RGBW bombilla LED Control de...'
+tags: alexa, wifi
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

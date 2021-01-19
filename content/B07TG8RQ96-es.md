@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hfxodJizL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TG8RQ96-es'
+slug: 'B07TG8RQ96-es Syllable Hub USB Tipo C 10 en 1 Hub de Aluminio Tipo C con...'
+tags: 1080p, gigabit
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

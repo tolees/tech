@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGSLC7T-es'
+slug: 'B07NGSLC7T-es MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full...'
+tags: ordenador, ram, full, hd
 actualPrice: 520.58 EUR
 currency: EUR
 price: 520.58

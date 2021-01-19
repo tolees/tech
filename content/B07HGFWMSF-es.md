@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XqPKSJIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGFWMSF-es'
+slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
+tags: 1080p
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

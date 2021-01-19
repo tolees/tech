@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iqEJ-dJlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YDD1P2-es'
+slug: 'B075YDD1P2-es Razer - Auriculares Gamer inalámbricos'
+tags: auriculares
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

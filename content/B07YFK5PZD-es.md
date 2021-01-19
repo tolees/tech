@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VJ5wKrbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFK5PZD-es'
+slug: 'B07YFK5PZD-es UGREEN Cargador USB C 30W Cargador Carga Rapida Power...'
+tags: iphone, samsung, xiaomi
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412thaeXkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPCGNJZ-es'
+slug: 'B07WPCGNJZ-es Star Wars - Figura de acción de Rey con sable de Galaxy of...'
+tags: galaxy
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

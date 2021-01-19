@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Olh1lPNVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2RXZPJ-es'
+slug: 'B07Q2RXZPJ-es soges Mesa Ordenador Gran Escritorio de Esquina Moderna...'
+tags: ordenador
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

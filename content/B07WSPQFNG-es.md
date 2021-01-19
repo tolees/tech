@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m1xL1UR6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSPQFNG-es'
+slug: 'B07WSPQFNG-es YONKINY Mochila Portátil Escolares Juveniles Chica Chico...'
+tags: ordenador
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

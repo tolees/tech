@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cd8Iuu8YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNVQ2K6-es'
+slug: 'B07HNVQ2K6-es V2000 Auriculares 7.1 Canales 3.5mm Jack Bass Estéreo con...'
+tags: auriculares
 actualPrice: 10.15 EUR
 currency: EUR
 price: 10.15

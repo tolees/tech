@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R9pGOSvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GX71VL8-es'
+slug: 'B08GX71VL8-es Auriculares Bluetooth 5.1 Auriculares inalámbricos IPx7 a...'
+tags: auriculares, bluetooth, auriculares, estéreo
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

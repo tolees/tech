@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aCol7rxQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYCS62R-es'
+slug: 'B06ZYCS62R-es Nikkon D7500 - Cámara réflex Digital de 20.9 MP Pantalla...'
+tags: bluetooth, wifi
 actualPrice: 1239.0 EUR
 currency: EUR
 price: 1239.0

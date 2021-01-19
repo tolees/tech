@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iIWKKcq0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDW6FR2-es'
+slug: 'B07MDW6FR2-es AOLVO Funda Game para iPhone X/XS/MAX/XR IPhone8/8 Plus...'
+tags: iphone
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

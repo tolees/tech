@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BC3a6w1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078X5MK7G-es'
+slug: 'B078X5MK7G-es Sony HT-XF9000 - Barra de Sonido 2.1 Dolby Atmos DTS:X...'
+tags: bluetooth, sony
 actualPrice: 308.55 EUR
 currency: EUR
 price: 308.55

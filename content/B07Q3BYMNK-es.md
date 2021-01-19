@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DqbshiiML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3BYMNK-es'
+slug: 'B07Q3BYMNK-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite Redmi...'
+tags: xiaomi
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

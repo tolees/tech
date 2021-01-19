@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NhAEr6rlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NWFZL-es'
+slug: 'B0872NWFZL-es Funda Transparente Compatible para Huawei P10 Lite Carcasa...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

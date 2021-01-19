@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iYWkL3+OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PTGQK-es'
+slug: 'B0872PTGQK-es Funda Transparente Compatible para Xiaomi Mi 9 SE Carcasa...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

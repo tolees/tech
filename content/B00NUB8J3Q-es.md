@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LHmQpFjzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NUB8J3Q-es'
+slug: 'B00NUB8J3Q-es Brother HL-1210W - Impresora láser monocromo compacta con...'
+tags: impresora, wifi
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

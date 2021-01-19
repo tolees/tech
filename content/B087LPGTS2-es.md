@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314E4cIN5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LPGTS2-es'
+slug: 'B087LPGTS2-es Oihxse Silicona Funda con Samsung Galaxy A20S TPU Flexible...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

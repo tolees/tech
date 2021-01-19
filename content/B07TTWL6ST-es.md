@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wr8h3LmvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTWL6ST-es'
+slug: 'B07TTWL6ST-es Cámara de acción 2 en 1 portátil + Kit de vídeo para...'
+tags: móvil, sony
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

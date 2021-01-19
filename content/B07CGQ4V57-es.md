@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wn6YqXgdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGQ4V57-es'
+slug: 'B07CGQ4V57-es Garmin Zumo 346LMT-S - Navegador de Moto de 4.3” Color Negro'
+tags: garmin
 actualPrice: 280.42 EUR
 currency: EUR
 price: 280.42

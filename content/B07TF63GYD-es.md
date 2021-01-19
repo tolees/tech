@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sKR0JZB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF63GYD-es'
+slug: 'B07TF63GYD-es [Nueva versión 2020] Antena TV Interior- Bqeel Antena TV...'
+tags: 1080p
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

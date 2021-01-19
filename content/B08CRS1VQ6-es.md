@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tibW4uZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRS1VQ6-es'
+slug: 'B08CRS1VQ6-es Altavoz de música inalámbrico portátil Estilo Seta Lindo...'
+tags: altavoz
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

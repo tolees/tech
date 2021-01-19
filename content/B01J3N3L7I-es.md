@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jDR6owtdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J3N3L7I-es'
+slug: 'B01J3N3L7I-es HOMCOM Silla de Oficina Juvenil Silla de Ordenador para...'
+tags: ordenador
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

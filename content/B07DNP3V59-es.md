@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XC69PcmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNP3V59-es'
+slug: 'B07DNP3V59-es Mars Gaming MAH1V2 Auriculares Surround 7.1 Tarjeta USB...'
+tags: auriculares
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

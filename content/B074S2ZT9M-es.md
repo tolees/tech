@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cJka-6rCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074S2ZT9M-es'
+slug: 'B074S2ZT9M-es Carcasa para Disco Duro ORICO Caja Transparente Externo...'
+tags: disco, duro
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

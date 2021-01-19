@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o-GC7-uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TS9FUN6-es'
+slug: 'B00TS9FUN6-es Samyang F1111106101 - Objetivo fotográfico DSLR para Sony...'
+tags: sony
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

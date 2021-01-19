@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iHoLdratL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFW5D7F-es'
+slug: 'B07JFW5D7F-es Pihen USB C3.0 a Cable Micro-B Cable de sincronización...'
+tags: samsung, toshiba, disco, duro
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

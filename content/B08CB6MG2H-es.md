@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41penOCe2YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CB6MG2H-es'
+slug: 'B08CB6MG2H-es Kemier Anillo de Luz Luz para Selfie LED con Trípode de...'
+tags: bluetooth, smartphone
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

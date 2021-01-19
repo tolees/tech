@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EGnSCXyWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR3XBKB-es'
+slug: 'B07SR3XBKB-es YaYuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
+tags: galaxy, samsung
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

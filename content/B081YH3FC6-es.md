@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J3sH+iX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YH3FC6-es'
+slug: 'B081YH3FC6-es CADA 1080P Full HD Autofocus Webcam CA601 USB cámara con...'
+tags: 1080p, full, hd
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

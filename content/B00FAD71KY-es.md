@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vITpJsm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FAD71KY-es'
+slug: 'B00FAD71KY-es Samsung EE-V200SA - Soporte de móviles para coches Diseño...'
+tags: samsung
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

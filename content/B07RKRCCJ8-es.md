@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wjKbvk2yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKRCCJ8-es'
+slug: 'B07RKRCCJ8-es WiMiUS Cámara de Caza 20MP 1080P 30FPS Camara Caza con...'
+tags: 1080p
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

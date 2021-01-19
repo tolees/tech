@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LYi2R46CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YBZVHG-es'
+slug: 'B075YBZVHG-es MIFA Altavoz Bluetooth Tecnología TWS y DSP IP45...'
+tags: bluetooth, altavoz
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

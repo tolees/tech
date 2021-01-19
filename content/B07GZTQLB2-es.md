@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lvzL0NdnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZTQLB2-es'
+slug: 'B07GZTQLB2-es HP DeskJet 3764 - Impresora de tinta multifunción 8 ppm...'
+tags: impresora, wifi
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

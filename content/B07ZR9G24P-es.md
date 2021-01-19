@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+bVU7S0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZR9G24P-es'
+slug: 'B07ZR9G24P-es SPACEKEEPER Carro de Almacenamiento Delgado de 4 Niveles...'
+tags: móvil
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

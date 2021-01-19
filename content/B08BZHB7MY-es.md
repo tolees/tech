@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rwNMoMbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZHB7MY-es'
+slug: 'B08BZHB7MY-es Lomogo Funda Cartera [iPhone XS MAX] Funda de Cuero con...'
+tags: apple, iphone
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

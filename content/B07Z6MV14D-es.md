@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6MV14D-es'
+slug: 'B07Z6MV14D-es ASUS ROG Strix - Portátil Gaming de 17 3" FullHD Intel...'
+tags: asus, ram, teclado
 actualPrice: 1486.78 EUR
 currency: EUR
 price: 1486.78

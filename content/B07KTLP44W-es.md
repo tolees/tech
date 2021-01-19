@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41O11g%2BbVSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTLP44W-es'
+slug: 'B07KTLP44W-es QNAP QNA-T310G1S - Adaptador Thunderbolt3 de un Puerto a...'
+tags: qnap
 actualPrice: 206.36 EUR
 currency: EUR
 price: 206.36

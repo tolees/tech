@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSk6sIg2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPSLVYX-es'
+slug: 'B07SPSLVYX-es Tiras de LED REAFOO WiFi Tira LED impermeable 5M 5050...'
+tags: alexa, wifi
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B2ak3I8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q84XXHQ-es'
+slug: 'B07Q84XXHQ-es Mksutary Mesa Ordenador Portatil Soporte de Portátil Mesa...'
+tags: ordenador, ratón
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

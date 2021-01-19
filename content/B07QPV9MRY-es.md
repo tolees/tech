@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41paW3A9yNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPV9MRY-es'
+slug: 'B07QPV9MRY-es JETech Protector de Pantalla Compatible con Apple iPad 7...'
+tags: apple
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

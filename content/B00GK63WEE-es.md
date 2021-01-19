@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31He3O7depL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GK63WEE-es'
+slug: 'B00GK63WEE-es Linksys LGS108-EU - Unmanaged Switch Gigabit de Escritorio...'
+tags: gigabit
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pVq6G1wwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AS1ZAD2-es'
+slug: 'B01AS1ZAD2-es KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra...'
+tags: apple
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

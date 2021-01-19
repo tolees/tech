@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O11kPAE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q7R2ZV-es'
+slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB...'
+tags: galaxy, nintendo, samsung, nintendo, switch
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

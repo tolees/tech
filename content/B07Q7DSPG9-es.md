@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kWCJtPlHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7DSPG9-es'
+slug: 'B07Q7DSPG9-es HP 15-dw0016ns - Ordenador portátil de 15.6" HD Intel Core...'
+tags: ordenador, ram, teclado
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

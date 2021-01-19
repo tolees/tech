@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vUfJjFFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFBH6BJ-es'
+slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche Universal Soporte Móvil...'
+tags: móvil
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zBGmvPIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010SEARPU-es'
+slug: 'B010SEARPU-es Rankie Adaptador de Red USB 3 0 a RJ45 10/100/1000Mbps...'
+tags: gigabit
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

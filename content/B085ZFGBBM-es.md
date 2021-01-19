@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410bWEfZkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZFGBBM-es'
+slug: 'B085ZFGBBM-es SUMKUMY Cargador Coche USB Carga Rápida QC3.0 [7 en 1] 4...'
+tags: gps, iphone
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

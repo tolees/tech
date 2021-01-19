@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411vUD9pihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXOXDM3-es'
+slug: 'B01LXOXDM3-es TENMOS X96 Ratón Gaming inalámbrico Recargable Silenciosa...'
+tags: ordenador, ratón
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

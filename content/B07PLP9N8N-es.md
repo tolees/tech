@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wDywTL5mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLP9N8N-es'
+slug: 'B07PLP9N8N-es ANEWSIR [2 Pack Protector de Pantalla para Huawei P30 Lite...'
+tags: huawei
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

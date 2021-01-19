@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B5mCucF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ET01FF6-es'
+slug: 'B00ET01FF6-es Canon CL-546XL Cartucho de tinta original Tricolor XL para...'
+tags: canon, impresora
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

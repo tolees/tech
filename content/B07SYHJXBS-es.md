@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNxze1T0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYHJXBS-es'
+slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos AIWONS Audífonos...'
+tags: auriculares, bluetooth
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

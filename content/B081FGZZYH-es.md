@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TsTQhNWXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FGZZYH-es'
+slug: 'B081FGZZYH-es HP Color Laserjet Pro MFP M282NW Impresora Láser 8.5 x 14...'
+tags: impresora
 actualPrice: 271.2 EUR
 currency: EUR
 price: 271.2

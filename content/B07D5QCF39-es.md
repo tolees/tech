@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419P+j5y+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5QCF39-es'
+slug: 'B07D5QCF39-es Suunto 9 Baro Reloj Multideporte GPS sin cinturón de...'
+tags: gps, suunto
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

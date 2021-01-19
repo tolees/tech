@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21MixoTYZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2RP84Q-es'
+slug: 'B07K2RP84Q-es Apple Mac mini Modelo Anterior 8GB RAM 128GB de...'
+tags: apple, ram
 actualPrice: 739.0 EUR
 currency: EUR
 price: 739.0

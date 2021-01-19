@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+gJmjnYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DR9V8TX-es'
+slug: 'B08DR9V8TX-es Tarjeta de captura de video USB 2.0 HDMI Video HD 1080P...'
+tags: 1080p
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

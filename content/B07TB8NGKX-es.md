@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516OlJGOkDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB8NGKX-es'
+slug: 'B07TB8NGKX-es Reloj Inteligente 1.4 Inch Smartwatch with Monitoreo de...'
+tags: smartwatch
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

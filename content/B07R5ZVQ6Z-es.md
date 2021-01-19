@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mKWD2klL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5ZVQ6Z-es'
+slug: 'B07R5ZVQ6Z-es MEDION ERAZER P6705 - Ordenador portátil de 15.6" FullHD...'
+tags: ordenador, ram, teclado
 actualPrice: 579.0 EUR
 currency: EUR
 price: 579.0

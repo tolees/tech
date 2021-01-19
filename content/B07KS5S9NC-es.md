@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416SvXNjToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KS5S9NC-es'
+slug: 'B07KS5S9NC-es LoongGate USB 3 0 Cable a Macho a B Macho Angulado 90...'
+tags: impresora
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

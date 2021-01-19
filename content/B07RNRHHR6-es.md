@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-ZSn7ySIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNRHHR6-es'
+slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
+tags: galaxy, iphone, samsung
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519I+6XqLyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088QCGY2K-es'
+slug: 'B088QCGY2K-es IMBZBK Funda para Xiaomi Redmi Note 9 + [2 Pack] Protector...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

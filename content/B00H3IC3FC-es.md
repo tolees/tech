@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wBlFOdGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H3IC3FC-es'
+slug: 'B00H3IC3FC-es AVM FRITZ!Box 7490 International - Modem Router WiFi AC...'
+tags: dect, gigabit, wifi
 actualPrice: 168.95 EUR
 currency: EUR
 price: 168.95

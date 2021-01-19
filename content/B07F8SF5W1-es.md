@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21W2K0m8fbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8SF5W1-es'
+slug: 'B07F8SF5W1-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note...'
+tags: galaxy, samsung
 actualPrice: 28.05 EUR
 currency: EUR
 price: 28.05

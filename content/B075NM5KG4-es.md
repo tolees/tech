@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DHYu9AxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NM5KG4-es'
+slug: 'B075NM5KG4-es Lenovo Ideapad 520S-14IKB - Ordenador Portátil de 14"...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

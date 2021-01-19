@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jpl3mJDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833PWXNC-es'
+slug: 'B0833PWXNC-es Leolee Ratón Inalámbrico con Tipo C 2.4G USB Delgado...'
+tags: ordenador, ratón
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

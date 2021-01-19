@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mDQDjXTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK1SG3Z-es'
+slug: 'B07BK1SG3Z-es PISEN - Batería externa PowerCube 20 000 mAh cargador...'
+tags: móvil
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

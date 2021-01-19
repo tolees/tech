@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECGX8FM-es'
+slug: 'B00ECGX8FM-es Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo...'
+tags: nikon
 actualPrice: 361.95 EUR
 currency: EUR
 price: 361.95

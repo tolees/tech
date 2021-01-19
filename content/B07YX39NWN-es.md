@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tX4xRTAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YX39NWN-es'
+slug: 'B07YX39NWN-es IVSO Español Funda con Teclado Español Ñ para Samsung...'
+tags: galaxy, samsung, teclado
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

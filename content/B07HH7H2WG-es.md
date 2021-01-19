@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hfXkfAt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH7H2WG-es'
+slug: 'B07HH7H2WG-es Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de...'
+tags: iphone
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

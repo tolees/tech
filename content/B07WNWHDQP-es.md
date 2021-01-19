@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CNf2ddvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNWHDQP-es'
+slug: 'B07WNWHDQP-es Funda con Cuerda para iPhone X/XS Carcasa Transparente TPU...'
+tags: iphone
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

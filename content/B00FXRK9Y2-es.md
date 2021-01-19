@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O0VX9gh+L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FXRK9Y2-es'
+slug: 'B00FXRK9Y2-es Sony Playstation 3 - Lámina protectora adhesiva para mando...'
+tags: playstation, sony
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

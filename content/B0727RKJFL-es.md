@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HqKAYF-BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0727RKJFL-es'
+slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora...'
+tags: irobot
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y-jBTbbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZ2GZG-es'
+slug: 'B07SLZ2GZG-es Veetop Cable Ethernet Cat 8 de Red con Conectores rj45 Oro...'
+tags: gigabit
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

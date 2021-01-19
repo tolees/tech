@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312kpkM7SHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKRM12C-es'
+slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C Lector...'
+tags: huawei, samsung, xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

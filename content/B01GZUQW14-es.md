@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-NeV48ThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZUQW14-es'
+slug: 'B01GZUQW14-es i-Buy La cubierta del teclado de silicona para el MacBook...'
+tags: teclado
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

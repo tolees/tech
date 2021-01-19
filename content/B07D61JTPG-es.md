@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414pIGNdn4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D61JTPG-es'
+slug: 'B07D61JTPG-es DigitalTech® - Mando Universal para televisores Samsung...'
+tags: samsung
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

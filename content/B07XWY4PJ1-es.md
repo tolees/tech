@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QGBYCGZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWY4PJ1-es'
+slug: 'B07XWY4PJ1-es Auriculares In Ear Zorara Auriculares Estéreo 9D Aislante...'
+tags: auriculares, auriculares, estéreo
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

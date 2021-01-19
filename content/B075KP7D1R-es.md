@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aHEQV0dNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KP7D1R-es'
+slug: 'B075KP7D1R-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 64 GB con...'
+tags: sandisk
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

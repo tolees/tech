@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3191ErTRGEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U7YKQQC-es'
+slug: 'B00U7YKQQC-es Samsung BT-EOEG920BR - Auriculares oficiales in-ear color...'
+tags: auriculares, samsung
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qb+6qC4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQV9F5K-es'
+slug: 'B07XQV9F5K-es Huawei Watch GT 2 Elegant - Smartwatch con Caja de 42 mm...'
+tags: gps, huawei, smartwatch
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41244vpoo3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVH1ZW1-es'
+slug: 'B07PVH1ZW1-es KLIM™ Talk – Micrófono USB de Escritorio para PC y Mac –...'
+tags: ordenador
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

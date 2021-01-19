@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h3GTBH0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP3XH71-es'
+slug: 'B07FP3XH71-es ANTIEE BTY-L77 Batería para Ordenador portátil for MSI...'
+tags: ordenador
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

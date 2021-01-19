@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nBAq+f+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6DW1FY-es'
+slug: 'B07W6DW1FY-es yootech Cargador Inalámbrico Rápido 2 Pack 7.5W para...'
+tags: galaxy, iphone
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

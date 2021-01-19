@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TNlWlnV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWP37H9-es'
+slug: 'B07VWP37H9-es Warxin Soporte Magnético Movil Coche para Ventilación...'
+tags: galaxy, gps, iphone, móvil, smartphone
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

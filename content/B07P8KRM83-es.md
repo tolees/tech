@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411isZ-OsIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8KRM83-es'
+slug: 'B07P8KRM83-es LNMBBS X30 Tablet 10.1 Pulgadas 6GB de RAM y 128GB Memoria...'
+tags: ips, ram, tablet, wifi
 actualPrice: 189.98 EUR
 currency: EUR
 price: 189.98

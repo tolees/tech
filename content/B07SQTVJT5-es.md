@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AdZVwxXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQTVJT5-es'
+slug: 'B07SQTVJT5-es HoYiXi Funda para Samsung Galaxy Tab A 10.1 2019 Anti-Drop...'
+tags: galaxy, samsung
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

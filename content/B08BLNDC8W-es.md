@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lU-n2QZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLNDC8W-es'
+slug: 'B08BLNDC8W-es Cable USB C Para Xiaomi Pocophone F1 Mi A1 A2 A3 9T Redmi...'
+tags: motorola, samsung, xiaomi
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

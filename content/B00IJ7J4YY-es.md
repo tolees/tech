@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rcY0iFxzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IJ7J4YY-es'
+slug: 'B00IJ7J4YY-es Sony BDVN7200WB.CEL - Equipo de Home Cinema 5.1 de 1200W...'
+tags: sony
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

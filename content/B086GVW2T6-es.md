@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XgXSXnBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GVW2T6-es'
+slug: 'B086GVW2T6-es Oihxse Transparente Funda para Xiaomi Redmi Note 5A...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDSJMVX-es'
+slug: 'B07NDSJMVX-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
+tags: ram, smartphone, sony, full, hd
 actualPrice: 208.13 EUR
 currency: EUR
 price: 208.13

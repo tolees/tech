@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VJkw9tqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMT1MPM-es'
+slug: 'B07HMT1MPM-es HOMCOM Piano Infantil 37 Teclas Teclado Electrónico Juego...'
+tags: teclado
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YCRvcGs5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816JL8QC-es'
+slug: 'B0816JL8QC-es Ferilinso Cristal Templado para Xiaomi Redmi Note 8T...'
+tags: xiaomi
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

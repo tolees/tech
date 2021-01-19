@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pnqer35yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVVQH8D-es'
+slug: 'B07VVVQH8D-es Controlador de Gamepad，DOYO Gamepad USB con Cable para PC...'
+tags: ordenador
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

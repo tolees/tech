@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ozsmNckWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJ5QB4-es'
+slug: 'B074WJ5QB4-es Creative Labs Halo - Altavoz Inalámbrico portable con...'
+tags: bluetooth, altavoz
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

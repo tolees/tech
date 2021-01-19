@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C29lIm8IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798QSXMQ-es'
+slug: 'B0798QSXMQ-es LG 29WK500-P - Monitor Profesional UltraWide FHD de 73 cm...'
+tags: ips, ultrawide
 actualPrice: 198.0 EUR
 currency: EUR
 price: 198.0

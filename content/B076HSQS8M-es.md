@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417TiH4SRYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HSQS8M-es'
+slug: 'B076HSQS8M-es JVC KD-R992BT'
+tags: jvc
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

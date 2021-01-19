@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41agTg-FtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZOQDE7G-es'
+slug: 'B00ZOQDE7G-es Verbatim Disco Duro Portátil Store n Go USB 3.0 de 500 GB*...'
+tags: disco, duro
 actualPrice: 52.84 EUR
 currency: EUR
 price: 52.84

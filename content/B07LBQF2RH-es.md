@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P6MZFz0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBQF2RH-es'
+slug: 'B07LBQF2RH-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
+tags: 1080p, playstation
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SOFhjAJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2X1GBL-es'
+slug: 'B07W2X1GBL-es Bovon Transmisor FM Bluetooth Coche Luz Ambiental de 7...'
+tags: bluetooth
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

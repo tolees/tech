@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41km2Fc4+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7MRDZS-es'
+slug: 'B07G7MRDZS-es MSI Vortex W25 8SL-083ES - Ordenador workstation Intel...'
+tags: ordenador, ram
 actualPrice: 2499.99 EUR
 currency: EUR
 price: 2499.99

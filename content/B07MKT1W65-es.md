@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uzAF3EWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKT1W65-es'
+slug: 'B07MKT1W65-es LG 27UL850-W - Monitor 4K UHD de 68 6 cm 27" con Panel IPS...'
+tags: ips
 actualPrice: 465.27 EUR
 currency: EUR
 price: 465.27

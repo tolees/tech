@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IFtjfQ4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK1CVVV-es'
+slug: 'B07SK1CVVV-es Enchufe Inteligente WiFi TECKIN 16A 3300W Smart Plug...'
+tags: alexa, wifi, google, home
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

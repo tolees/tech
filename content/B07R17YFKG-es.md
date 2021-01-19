@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+RM8ghcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R17YFKG-es'
+slug: 'B07R17YFKG-es Disco Duro Externo Portátil DE 2 5" 160 GB USB 3.0 SATA...'
+tags: disco, duro
 actualPrice: 38.54 EUR
 currency: EUR
 price: 38.54

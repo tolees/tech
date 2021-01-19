@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zL%2BUFdQZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WTBLM1-es'
+slug: 'B075WTBLM1-es Riñonera Running cintura cinturón deportiva Belt botella...'
+tags: iphone, samsung
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

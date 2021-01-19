@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aiuJjqbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005E0WX9W-es'
+slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
+tags: 1080p, ps4, xbox, full, hd
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

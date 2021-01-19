@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3167EePpXxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB13GLV-es'
+slug: 'B07SB13GLV-es Energy Sistem Headphones BT Urban 2 Radio White...'
+tags: auriculares, bluetooth, microsd
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

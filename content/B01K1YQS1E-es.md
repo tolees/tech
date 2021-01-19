@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iSFt2okNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K1YQS1E-es'
+slug: 'B01K1YQS1E-es Andoer Flashes con zapata Flash Speedlite para Cámara...'
+tags: canon, nikon, pentax
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

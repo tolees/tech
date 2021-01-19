@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ggCir4oUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NCDKSR-es'
+slug: 'B089NCDKSR-es Timmy P7000 Pro Quad Core Dual SIM para Android 5.0...'
+tags: móvil, smartphone
 actualPrice: 58.89 EUR
 currency: EUR
 price: 58.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ehh5NdW+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7HZ2SW-es'
+slug: 'B07F7HZ2SW-es Yamaha MusicCast 20 - Altavoz Color Negro'
+tags: altavoz
 actualPrice: 183.2 EUR
 currency: EUR
 price: 183.2

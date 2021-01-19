@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Srn9G5-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS41QBK-es'
+slug: 'B07HS41QBK-es ASUS ROG STRIX Z390-H Gaming - Placa base Gaming ATX Intel...'
+tags: asus
 actualPrice: 120.81 EUR
 currency: EUR
 price: 120.81

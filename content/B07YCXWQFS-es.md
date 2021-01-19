@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UxQOxIydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCXWQFS-es'
+slug: 'B07YCXWQFS-es Anova Culinary | Sous Vide Precision Cooker WiFi | 1000...'
+tags: wifi
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

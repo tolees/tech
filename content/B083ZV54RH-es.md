@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E8KEU8RTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZV54RH-es'
+slug: 'B083ZV54RH-es Moviles Libres DOOGEE X95 Smartphone Libre 2020 6.52...'
+tags: smartphone
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

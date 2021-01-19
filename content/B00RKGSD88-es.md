@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KAw9abnSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RKGSD88-es'
+slug: 'B00RKGSD88-es Advance VE-NB35 - Base de refrigeración para Ordenador...'
+tags: ordenador
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

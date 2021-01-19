@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eJ78GC4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZXR4QWM-es'
+slug: 'B06ZXR4QWM-es ZTE A610 Plus - Smartphone Libre de 5.5" Cámara Principal...'
+tags: smartphone
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

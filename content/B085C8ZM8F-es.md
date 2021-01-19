@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4144nNkBdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C8ZM8F-es'
+slug: 'B085C8ZM8F-es ELTD Funda + Película templada [combinación] para Huawei...'
+tags: huawei
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

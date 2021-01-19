@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41--2ErpqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHG4Q4Y-es'
+slug: 'B07SHG4Q4Y-es Active Era® Báscula Grasa Corporal Inteligente - Báscula...'
+tags: bluetooth
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

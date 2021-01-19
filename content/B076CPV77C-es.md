@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-hBEaB4gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CPV77C-es'
+slug: 'B076CPV77C-es Teclado Wireless Turquesa'
+tags: teclado
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

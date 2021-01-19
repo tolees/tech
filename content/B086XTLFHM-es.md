@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+dpuY27iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086XTLFHM-es'
+slug: 'B086XTLFHM-es AUKEY Auriculares Inalámbricos Bluetooth 5 Sport Carga...'
+tags: auriculares, bluetooth
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+I5xjvJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BLN6XC-es'
+slug: 'B086BLN6XC-es Auriculares inalámbricos Tribit FlyBuds 1 Auriculares...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

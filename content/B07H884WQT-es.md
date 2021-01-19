@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lcL6S0sXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H884WQT-es'
+slug: 'B07H884WQT-es ACEPC Mini PC Windows 10 Pro Intel Atom x5-Z8350...'
+tags: ram
 actualPrice: 110.41 EUR
 currency: EUR
 price: 110.41

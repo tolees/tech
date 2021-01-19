@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RobhEsLKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFDKMT8-es'
+slug: 'B07ZFDKMT8-es RCB Patinete Eléctrico 8.5 Pulgadas Scooter Plegable...'
+tags: bluetooth
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

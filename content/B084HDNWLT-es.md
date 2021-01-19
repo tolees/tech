@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yV1Fh+umL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HDNWLT-es'
+slug: 'B084HDNWLT-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m 3...'
+tags: iphone
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

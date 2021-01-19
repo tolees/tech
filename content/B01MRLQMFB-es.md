@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bhei0e8xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRLQMFB-es'
+slug: 'B01MRLQMFB-es HP Envy 27s - Monitor IPS 4K Ultra HD 3840 x 2160 Pixeles...'
+tags: ips
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

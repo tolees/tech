@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sweTLSmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PD1GNY-es'
+slug: 'B074PD1GNY-es AboveTEK - Soporte de ventosa para teléfono móvil gran...'
+tags: móvil
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

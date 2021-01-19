@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xxFMwHNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HLMMDP-es'
+slug: 'B082HLMMDP-es proscenic Novedad de 2020 Robot Aspirador con Alexa...'
+tags: alexa
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

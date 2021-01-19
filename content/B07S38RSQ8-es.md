@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nt1aAZdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S38RSQ8-es'
+slug: 'B07S38RSQ8-es Memoria Flash 4 en 1 64 GB Compatible con iPhone y...'
+tags: iphone, tablet
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

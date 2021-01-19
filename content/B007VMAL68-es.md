@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ISuYbzudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VMAL68-es'
+slug: 'B007VMAL68-es Canon EF 70-300 mm - Objetivo EF 70-300 mm F4-5 6 IS II...'
+tags: canon
 actualPrice: 472.41 EUR
 currency: EUR
 price: 472.41

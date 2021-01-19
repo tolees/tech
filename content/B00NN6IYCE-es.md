@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rB7Aqdd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NN6IYCE-es'
+slug: 'B00NN6IYCE-es Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de...'
+tags: panasonic, wifi
 actualPrice: 435.2 EUR
 currency: EUR
 price: 435.2

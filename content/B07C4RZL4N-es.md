@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512QSBqwwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C4RZL4N-es'
+slug: 'B07C4RZL4N-es Adaptador Cargador Nuevo Compatible para Portátil Toshiba...'
+tags: toshiba
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

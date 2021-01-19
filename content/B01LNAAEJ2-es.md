@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bx5SUkaUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LNAAEJ2-es'
+slug: 'B01LNAAEJ2-es Anker Cable USB Powerline + USB-C a USB 3.0 1 8m Alta...'
+tags: galaxy
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

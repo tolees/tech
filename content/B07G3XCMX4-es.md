@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d0pFOeYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3XCMX4-es'
+slug: 'B07G3XCMX4-es Acer Predator Helios 300 PH315-51-50Y7 - Ordenador...'
+tags: ordenador, ram, teclado, full, hd
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

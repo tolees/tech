@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EplmDOscL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011VJCLEQ-es'
+slug: 'B011VJCLEQ-es TECKNET Base de Refrigeración para Ordenador Portátil con...'
+tags: ordenador
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

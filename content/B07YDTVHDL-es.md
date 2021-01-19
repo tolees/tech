@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pWm700kpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDTVHDL-es'
+slug: 'B07YDTVHDL-es Haihuic portugués Pegatinas de Teclado Etiqueta Adhesiva...'
+tags: teclado
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

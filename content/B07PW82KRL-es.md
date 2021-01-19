@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MpvAeAPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW82KRL-es'
+slug: 'B07PW82KRL-es DYNASONIC - Altavoz Bluetooth con Karaoke 2 Micrófonos...'
+tags: bluetooth, altavoz
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

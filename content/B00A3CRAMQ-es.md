@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51axqEIhWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3CRAMQ-es'
+slug: 'B00A3CRAMQ-es Brazalete Deportivo para Correr y Andar en Bicicleta...'
+tags: iphone, samsung
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

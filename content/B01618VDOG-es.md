@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZrjgExohL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01618VDOG-es'
+slug: 'B01618VDOG-es Fujifilm Instax Mini 70 - Cámara Analógica Instantánea ISO...'
+tags: fujifilm
 actualPrice: 83.6 EUR
 currency: EUR
 price: 83.6

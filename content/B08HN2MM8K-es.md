@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PgCJphKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HN2MM8K-es'
+slug: 'B08HN2MM8K-es Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad...'
+tags: ordenador
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

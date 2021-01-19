@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411d3TSEzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LJZKJL-es'
+slug: 'B071LJZKJL-es Sony SEL1635GM - Objetivo Sony montura E color negro'
+tags: sony
 actualPrice: 2149.0 EUR
 currency: EUR
 price: 2149.0

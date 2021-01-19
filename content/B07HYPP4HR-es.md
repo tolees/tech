@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U-fVSqZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYPP4HR-es'
+slug: 'B07HYPP4HR-es Lenovo Ideapad 720S-13IKBR - Ordenador Portátil ultrafino...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 786.8 EUR
 currency: EUR
 price: 786.8

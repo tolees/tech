@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fseW8zz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Q4KZF8-es'
+slug: 'B082Q4KZF8-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
+tags: auriculares, bluetooth, huawei, altavoz
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

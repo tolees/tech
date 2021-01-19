@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413gs+cdOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058VIWTM-es'
+slug: 'B0058VIWTM-es LaCie 1 TB Rugged Mini USB 3.0 2.5 Pulgadas Disco Duro...'
+tags: disco, duro
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

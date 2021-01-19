@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gENO8nyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R2W2RP-es'
+slug: 'B089R2W2RP-es TECLAST Ordenador Portátil F7S 14.1" FullHD 8GB RAM 128GB...'
+tags: ordenador, ram, teclado
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

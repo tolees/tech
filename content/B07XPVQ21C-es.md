@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lyOkTFnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPVQ21C-es'
+slug: 'B07XPVQ21C-es [3 Pack] UniqueMe protector de pantalla para Samsung...'
+tags: galaxy, samsung
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

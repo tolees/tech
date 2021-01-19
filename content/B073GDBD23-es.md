@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31303cdIU3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GDBD23-es'
+slug: 'B073GDBD23-es Alfombrilla de Ratón Cojín de Muñeca con Reposamuñecas...'
+tags: ratón
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

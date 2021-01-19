@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZExhmSVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SX1KVWF-es'
+slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth Cascos Bluetooth 5.0...'
+tags: auriculares, bluetooth, huawei, iphone
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

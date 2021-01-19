@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S2jb9EBhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OS823HI-es'
+slug: 'B00OS823HI-es Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD...'
+tags: motorola
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JOLFIr6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2XLJ9X-es'
+slug: 'B07C2XLJ9X-es HETP Pulsera de Actividad Reloj Inteligente con Pulsómetro...'
+tags: gps
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

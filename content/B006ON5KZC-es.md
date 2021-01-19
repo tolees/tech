@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qy-GixTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ON5KZC-es'
+slug: 'B006ON5KZC-es Corsair Mac Memory - Memoria para Apple Mac de 16 GB 2 x 8...'
+tags: apple
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

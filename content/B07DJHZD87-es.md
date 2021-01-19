@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SI4+yOEgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJHZD87-es'
+slug: 'B07DJHZD87-es D-Link COVR-2202 - Kit WiFi Mesh Tri-Banda 2 Extensores...'
+tags: wifi
 actualPrice: 188.7 EUR
 currency: EUR
 price: 188.7

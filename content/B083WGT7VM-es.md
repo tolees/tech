@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q5D-ex9xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WGT7VM-es'
+slug: 'B083WGT7VM-es Mini Proyector 5200 Lumens Mini Proyector portátil...'
+tags: 1080p, altavoz, full, hd
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

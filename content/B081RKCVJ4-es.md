@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iOEIsNGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RKCVJ4-es'
+slug: 'B081RKCVJ4-es POVO Soporte de Portátil Ajustable Soporte Plegable...'
+tags: ordenador
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

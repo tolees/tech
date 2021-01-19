@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519TcaT0dzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBNYJ6X-es'
+slug: 'B07QBNYJ6X-es SanDisk Cruzer Blade- Memoria USB 2.0 Pack 3 Unidades de...'
+tags: sandisk
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

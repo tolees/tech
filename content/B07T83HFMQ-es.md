@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413dUba8h%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T83HFMQ-es'
+slug: 'B07T83HFMQ-es DOOGEE S40 Movil Libres Resistente 4G Telefonos IP68...'
+tags: smartphone
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

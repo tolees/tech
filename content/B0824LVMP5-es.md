@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AJX-8GtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824LVMP5-es'
+slug: 'B0824LVMP5-es UMIDIGI Reloj Inteligente Uwatch3 Smartwatch 5ATM...'
+tags: smartwatch
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o27-JvvAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFPT3QP-es'
+slug: 'B07PFPT3QP-es Belkin Boost Up Base de carga inalámbrica 10 W cargador...'
+tags: galaxy, iphone, samsung
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

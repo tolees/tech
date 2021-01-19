@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iQtpmQylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXEDVGX-es'
+slug: 'B01LXEDVGX-es HP Spectre 13-v101ns - Ordenador portátil de 13.3" Intel...'
+tags: ordenador, ram, teclado
 actualPrice: 1352.05 EUR
 currency: EUR
 price: 1352.05

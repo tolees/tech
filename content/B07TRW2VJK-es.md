@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HIZ%2B1AHiL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRW2VJK-es'
+slug: 'B07TRW2VJK-es PowerLocus Auriculares Bluetooth Inalámbricos 35h...'
+tags: auriculares, bluetooth
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

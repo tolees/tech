@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cuX2cZQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK212QD-es'
+slug: 'B07DK212QD-es G-Technology G-Drive Mobile USB-C - Disco Duro Portátil 1...'
+tags: disco, duro
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tPQHk9cHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQRWCH9-es'
+slug: 'B07TQRWCH9-es Maegoo Mando Controlador Inalámbrico para Nintendo Switch...'
+tags: bluetooth, nintendo, nintendo, switch
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

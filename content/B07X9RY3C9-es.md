@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ty+rT1aBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9RY3C9-es'
+slug: 'B07X9RY3C9-es SUNLU Filamento PLA 1.75mm 5kg Impresora 3D Filamento...'
+tags: impresora
 actualPrice: 68.39 EUR
 currency: EUR
 price: 68.39

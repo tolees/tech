@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G4cVMLDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QSYWGZ-es'
+slug: 'B086QSYWGZ-es Fesjoy V-111 Altavoz de computadora Cableado USB Barra...'
+tags: altavoz
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

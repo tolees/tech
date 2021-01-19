@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uIDeQE25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VCT3DI-es'
+slug: 'B004VCT3DI-es Sony Mdre9Lpl - Auriculares de Botón Blanco y Azul 5'
+tags: auriculares, sony
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J4IgZOx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DP1FTU-es'
+slug: 'B002DP1FTU-es Shure SRH440 - Auriculares de diadema cerrados'
+tags: auriculares
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

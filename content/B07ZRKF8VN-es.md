@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B0jgStnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRKF8VN-es'
+slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de...'
+tags: nikon
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

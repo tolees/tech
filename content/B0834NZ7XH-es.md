@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834NZ7XH-es'
+slug: 'B0834NZ7XH-es UGREEN HUB USB C 6 En 1 Adaptador USB C a 4K HDMI 2...'
+tags: dell
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

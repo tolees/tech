@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H-xffoosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DDGKTS-es'
+slug: 'B082DDGKTS-es Funda Colgante movil con Cuerda para Xiaomi Redmi Note 8T...'
+tags: xiaomi
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

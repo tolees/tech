@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f3mpmpl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9DHPS7-es'
+slug: 'B07T9DHPS7-es Energy Urban Box 2 Altavoz portátil con Bluetooth y...'
+tags: bluetooth, altavoz
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

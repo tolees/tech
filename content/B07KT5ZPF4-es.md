@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KT5ZPF4-es'
+slug: 'B07KT5ZPF4-es Cable Lightning 3 en 1 iHaper Cable de Carga USB Cable de...'
+tags: huawei, iphone, samsung
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5164Q9b1JGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTA0GO9-es'
+slug: 'B01MTA0GO9-es MSI Nightblade 3 VR7RC-008EU - Ordenador de sobremesa...'
+tags: ordenador, ram
 actualPrice: 688.97 EUR
 currency: EUR
 price: 688.97

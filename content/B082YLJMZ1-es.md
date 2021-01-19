@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aOyqEyLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YLJMZ1-es'
+slug: 'B082YLJMZ1-es Ratón ergonómico Vertical inalámbrico Hommie Ratón...'
+tags: bluetooth, ratón
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

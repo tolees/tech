@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tupVwdxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ETPAEDU-es'
+slug: 'B00ETPAEDU-es Logitech G602 Ratón Inalámbrico 2 500 dpi 11 Botones...'
+tags: logitech, ratón
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511UaZ7ED7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7LKV3D-es'
+slug: 'B08F7LKV3D-es Tablet para Niños con WiFi 7.0 Pulgadas 3GB RAM 32GB/128GB...'
+tags: ram, tablet, wifi
 actualPrice: 72.92 EUR
 currency: EUR
 price: 72.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NHmbEX4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RZT6N9-es'
+slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de...'
+tags: 1080p, disco, duro
 actualPrice: 199.79 EUR
 currency: EUR
 price: 199.79

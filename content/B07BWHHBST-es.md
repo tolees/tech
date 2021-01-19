@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kEIZLGskL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWHHBST-es'
+slug: 'B07BWHHBST-es Gritin Auriculares Auriculares con Cable y Micrófono In...'
+tags: auriculares, huawei, iphone, samsung, xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

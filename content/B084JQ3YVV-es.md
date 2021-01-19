@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513681SLtKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JQ3YVV-es'
+slug: 'B084JQ3YVV-es HONOR Magic Watch 2 46mm Smart Watch 15 Deportes...'
+tags: altavoz
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

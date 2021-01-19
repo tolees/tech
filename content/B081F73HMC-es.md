@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vLGBrTclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081F73HMC-es'
+slug: 'B081F73HMC-es Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador...'
+tags: ordenador
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

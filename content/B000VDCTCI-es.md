@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fZkP2LS5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VDCTCI-es'
+slug: 'B000VDCTCI-es Nikon AF-S 14-24mm F2.8 G - Objetivo con Montura para...'
+tags: nikon
 actualPrice: 1652.65 EUR
 currency: EUR
 price: 1652.65

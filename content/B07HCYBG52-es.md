@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yTI9h5mxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCYBG52-es'
+slug: 'B07HCYBG52-es D DOLITY Altavoz de Graves Rango Completo Altavoz...'
+tags: altavoz
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415yjuY2ntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVX3DXF-es'
+slug: 'B07CVX3DXF-es VicTsing 1080P HDMI a VGA Video Adaptador de Cable...'
+tags: 1080p
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

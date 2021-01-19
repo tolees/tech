@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51irbqal3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLZ7Q3F-es'
+slug: 'B07CLZ7Q3F-es Roxtak Micrófono Karaoke Bluetooth UHF Micrófonos...'
+tags: bluetooth
 actualPrice: 74.89 EUR
 currency: EUR
 price: 74.89

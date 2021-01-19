@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMGYF46-es'
+slug: 'B01HMGYF46-es Canon MAXIFY MB2750 - Impresora de inyección de tinta 2...'
+tags: canon, impresora
 actualPrice: 128.67 EUR
 currency: EUR
 price: 128.67

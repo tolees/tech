@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eqZ0zqr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BSDU5I-es'
+slug: 'B000BSDU5I-es Suunto MC-2 G Mirror Compass Brújula Profesional Unisex...'
+tags: suunto
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

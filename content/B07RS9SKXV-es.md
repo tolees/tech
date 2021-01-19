@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NCkQNNE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS9SKXV-es'
+slug: 'B07RS9SKXV-es Hoidokly Cargador Inalámbrico Rápido Qi Wireless Charger...'
+tags: galaxy, iphone, samsung
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

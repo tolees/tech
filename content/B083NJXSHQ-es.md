@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Pdg3qpoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NJXSHQ-es'
+slug: 'B083NJXSHQ-es zhi wei Mochila Portatil 15.6 Pulgadas Mochila Hombre...'
+tags: ordenador
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rNPGZ-IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWFYLKV-es'
+slug: 'B07NWFYLKV-es Soporte Tablet Coche Soporte iPad Tablet Soporte...'
+tags: huawei, samsung, tablet, xiaomi
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

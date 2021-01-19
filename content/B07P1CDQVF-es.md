@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jWHUCD-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1CDQVF-es'
+slug: 'B07P1CDQVF-es SATECHI Tipo-C de Aluminio a Adaptador de Conector para...'
+tags: auriculares, galaxy, microsoft, samsung
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

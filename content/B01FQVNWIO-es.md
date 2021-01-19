@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V281auYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQVNWIO-es'
+slug: 'B01FQVNWIO-es JBL Charge 3 - Altavoz inalámbrico portátil color rojo'
+tags: altavoz
 actualPrice: 132.08 EUR
 currency: EUR
 price: 132.08

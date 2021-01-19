@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K30tEl0XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY2RZ8L-es'
+slug: 'B07HY2RZ8L-es Fujifilm Instax SQ6 - Cámara Analógica Instantánea Formato...'
+tags: fujifilm
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gc3LZEz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBZ1G61-es'
+slug: 'B07VBZ1G61-es Ushining Teléfono Móvils Basico Teléfono Móvil para...'
+tags: móvil
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

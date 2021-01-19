@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419y6EkWceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZXI5FMC-es'
+slug: 'B00ZXI5FMC-es Panasonic KX-TGJ310SPB - Teléfono Fijo Inalámbrico LCD...'
+tags: panasonic
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519EFQp4owL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJV32PZ-es'
+slug: 'B07GJV32PZ-es CMYBabee Cartucho de Tóner Compatible Repuesto para HP 79A...'
+tags: impresora
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

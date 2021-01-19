@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y4NSbTpeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKD6TCQ-es'
+slug: 'B07KKD6TCQ-es UMIDIGI A3 Pro Smartphone Libre Android 9.0 Pie Dual 4G...'
+tags: smartphone
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

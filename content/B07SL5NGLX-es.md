@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VhToEpr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL5NGLX-es'
+slug: 'B07SL5NGLX-es LATEC Pulsera Actividad Reloj Inteligente Impermeable IP68...'
+tags: smartwatch
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

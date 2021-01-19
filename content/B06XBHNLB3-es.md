@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413+S3dlKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBHNLB3-es'
+slug: 'B06XBHNLB3-es HP Deskjet 3733 - Impresora multifunción Wi-Fi USB 2.0 600...'
+tags: impresora
 actualPrice: 49.68 EUR
 currency: EUR
 price: 49.68

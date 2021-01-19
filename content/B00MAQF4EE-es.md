@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z97r9cerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MAQF4EE-es'
+slug: 'B00MAQF4EE-es Fujifilm Instax Mini Brillo - Pack de 40 Películas...'
+tags: fujifilm
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

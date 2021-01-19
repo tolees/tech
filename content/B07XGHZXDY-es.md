@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418rqSdXe0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGHZXDY-es'
+slug: 'B07XGHZXDY-es Ayete Smartwatch Fitness Tracker con frecuencia cardíaca...'
+tags: smartwatch
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

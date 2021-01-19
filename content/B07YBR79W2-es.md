@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3170Sqb2kJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBR79W2-es'
+slug: 'B07YBR79W2-es HP Obelisk Desktop 7VZ40EA - Ordenador de sobremesa Intel...'
+tags: ordenador, ram
 actualPrice: 849.99 EUR
 currency: EUR
 price: 849.99

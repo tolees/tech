@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418m200M-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZP6TG9-es'
+slug: 'B07BZP6TG9-es New Bee Cargador Inalámbrico 5W con Soporte Auriculares...'
+tags: auriculares, iphone, samsung
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

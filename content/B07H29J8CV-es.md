@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JNw-D1OML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H29J8CV-es'
+slug: 'B07H29J8CV-es ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla...'
+tags: galaxy, samsung
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NfS9DlagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1LD9QM-es'
+slug: 'B07S1LD9QM-es Mesa de Cama para Ordenador portátil Plegable portátil con...'
+tags: ordenador
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

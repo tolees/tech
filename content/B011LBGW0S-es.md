@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lOn8K9bxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011LBGW0S-es'
+slug: 'B011LBGW0S-es Ansmann Los Pitufos - La luz nocturna móvil Papá Pitufo'
+tags: móvil
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

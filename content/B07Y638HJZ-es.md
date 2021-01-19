@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cDsTqzsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y638HJZ-es'
+slug: 'B07Y638HJZ-es Yenks Case compatible con Samsung Galaxy S6 Carcasa de...'
+tags: galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

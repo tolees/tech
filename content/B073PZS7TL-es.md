@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ys9FI893L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PZS7TL-es'
+slug: 'B073PZS7TL-es Panasonic SC-UA3E-K 300W Negro Sistema de Audio para el...'
+tags: panasonic
 actualPrice: 97.67 EUR
 currency: EUR
 price: 97.67

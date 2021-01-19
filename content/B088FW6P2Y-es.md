@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aFmmIbFiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FW6P2Y-es'
+slug: 'B088FW6P2Y-es Otium - Auriculares inalámbricos Bluetooth 5.0 IPX7...'
+tags: auriculares, bluetooth
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

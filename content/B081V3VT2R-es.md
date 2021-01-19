@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ekNSgB2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V3VT2R-es'
+slug: 'B081V3VT2R-es Arbily Auriculares Inalámbricos Auriculares Estéreo...'
+tags: auriculares, bluetooth, auriculares, estéreo
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

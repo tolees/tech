@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FqpUqWYIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSDVZ6Q-es'
+slug: 'B07YSDVZ6Q-es NEXCURIO Funda Silicona Galaxy Note 10 Carcasa...'
+tags: galaxy, móvil, samsung
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

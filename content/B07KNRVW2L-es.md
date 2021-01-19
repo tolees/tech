@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AQVcdqKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KNRVW2L-es'
+slug: 'B07KNRVW2L-es ADWITS Cable Adaptador USB A a USB C USB 3.0 Macho a Tipo...'
+tags: samsung
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

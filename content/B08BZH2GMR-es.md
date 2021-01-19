@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41smhtSzQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZH2GMR-es'
+slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de...'
+tags: sony
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

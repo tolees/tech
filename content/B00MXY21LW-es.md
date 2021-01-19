@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410P0hXk5JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MXY21LW-es'
+slug: 'B00MXY21LW-es Edifier Studio R1700BT – Sistema de Altavoces 2.0 66...'
+tags: bluetooth
 actualPrice: 119.2 EUR
 currency: EUR
 price: 119.2

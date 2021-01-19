@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M0sf24+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9DB7YH-es'
+slug: 'B07R9DB7YH-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
+tags: ram, teclado
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

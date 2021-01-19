@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RE71UmtTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832GG6DT-es'
+slug: 'B0832GG6DT-es Yoowei Funda para Xiaomi Air 2 3in1 Silicona Funda + Cable...'
+tags: auriculares, xiaomi
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

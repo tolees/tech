@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51WvuKz-2rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071SGN34W-es'
+slug: 'B071SGN34W-es ⭐️KLIM Lightning AZERTY - Nueva Versión - Teclado Híbrido...'
+tags: ps4, teclado
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

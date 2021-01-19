@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oYjvDvTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH1Q6WL-es'
+slug: 'B07QH1Q6WL-es Hakeeta Mini USB portátil Barra de Sonido con Cable...'
+tags: altavoz
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

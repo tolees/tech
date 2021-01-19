@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b8lTgEXnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTVTN7Q-es'
+slug: 'B07TTVTN7Q-es ASUS ZenBook 14 UX433FA New -A5243T - Portátil de 14"...'
+tags: asus, ram, teclado
 actualPrice: 679.99 EUR
 currency: EUR
 price: 679.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IDDjL+QzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDB6B4K-es'
+slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos Maegoo Nintendo Switch...'
+tags: nintendo, nintendo, switch
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

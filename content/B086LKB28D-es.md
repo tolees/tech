@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510emlDHedL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LKB28D-es'
+slug: 'B086LKB28D-es Fundas Amazon Kindle 2019 10ma Generación Flip Pintado...'
+tags: kindle
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

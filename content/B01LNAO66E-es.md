@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V6qF5S91L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LNAO66E-es'
+slug: 'B01LNAO66E-es Powerextra 2 X Batería Canon LP-E8 1800mAh Reemplazon...'
+tags: canon
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

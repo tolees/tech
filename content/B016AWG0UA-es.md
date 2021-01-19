@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GjhLBUneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AWG0UA-es'
+slug: 'B016AWG0UA-es ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para...'
+tags: asus, ips, full, hd
 actualPrice: 129.93 EUR
 currency: EUR
 price: 129.93

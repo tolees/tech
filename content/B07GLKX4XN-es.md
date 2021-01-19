@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uC4BrHobL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLKX4XN-es'
+slug: 'B07GLKX4XN-es YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado Ultra...'
+tags: bluetooth, smartphone, tablet, teclado
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

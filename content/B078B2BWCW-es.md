@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uJ-SFe58L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078B2BWCW-es'
+slug: 'B078B2BWCW-es atFoliX Antichoque Película Protectora para Suunto EON...'
+tags: suunto
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

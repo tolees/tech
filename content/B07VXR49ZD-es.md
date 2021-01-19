@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DwmM5SHdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXR49ZD-es'
+slug: 'B07VXR49ZD-es Garmin vívoactive 4S - Reloj inteligente con GPS y...'
+tags: garmin, gps
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

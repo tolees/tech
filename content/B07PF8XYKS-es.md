@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vrsc3EMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PF8XYKS-es'
+slug: 'B07PF8XYKS-es Enchufe Smart Zoozee Wi-Fi Enchufe Inteligente 16A...'
+tags: alexa, google, home
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

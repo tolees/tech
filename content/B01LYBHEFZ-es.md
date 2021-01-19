@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318WHw2lPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYBHEFZ-es'
+slug: 'B01LYBHEFZ-es Sony Xperia XZ Mineral Black - Telefono movil con pantalla...'
+tags: ram, sony
 actualPrice: 109.89 EUR
 currency: EUR
 price: 109.89

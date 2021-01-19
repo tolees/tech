@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c9L1oajBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2DBPCC-es'
+slug: 'B07C2DBPCC-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
+tags: motorola, samsung, sony
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

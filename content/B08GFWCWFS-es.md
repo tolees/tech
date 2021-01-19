@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AnhYdpUiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFWCWFS-es'
+slug: 'B08GFWCWFS-es HOTLIFE - Ratón para videojuegos 6400 DPI 7 botones...'
+tags: ratón
 actualPrice: 22.87 EUR
 currency: EUR
 price: 22.87

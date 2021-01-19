@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417jwuQXfhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SDC15-es'
+slug: 'B07S2SDC15-es Inalámbricos Bluetooth Auriculares Bluetooth con Micrófono...'
+tags: auriculares, bluetooth, samsung, smartphone, xiaomi
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

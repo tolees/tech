@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tdjHrqApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RCJRKV-es'
+slug: 'B073RCJRKV-es HAUEA Almohadilla Teclado y Alfombrilla de Ratón...'
+tags: ratón, teclado
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

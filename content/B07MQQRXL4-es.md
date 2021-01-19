@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQQRXL4-es'
+slug: 'B07MQQRXL4-es 2019 más novedoso: Auriculares Bluetooth antimi Bluetooth...'
+tags: auriculares, bluetooth, smartphone, auriculares, estéreo
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

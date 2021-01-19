@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vPZQpdQXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTPBWX2-es'
+slug: 'B07DTPBWX2-es HP ProDesk 400 G4 Mini - Ordenador de sobremesa...'
+tags: ordenador, ram, ratón, teclado
 actualPrice: 293.0 EUR
 currency: EUR
 price: 293.0

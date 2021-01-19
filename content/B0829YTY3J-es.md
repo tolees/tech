@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-JPztT-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829YTY3J-es'
+slug: 'B0829YTY3J-es AVIWIS Cable USB Magnético Multi 3 en 1 Cable Magnetic de...'
+tags: galaxy, huawei, xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MLvx7hvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STDC4PJ-es'
+slug: 'B07STDC4PJ-es Bluefin Fitness CURV 2.0 Elliptical Cross Trainer Elíptica...'
+tags: smartphone
 actualPrice: 519.0 EUR
 currency: EUR
 price: 519.0

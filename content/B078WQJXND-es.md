@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dSOsgwqnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WQJXND-es'
+slug: 'B078WQJXND-es Samsung Pro - Disco Estado Solido SSD 256 GB 560...'
+tags: samsung
 actualPrice: 96.46 EUR
 currency: EUR
 price: 96.46

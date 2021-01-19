@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I06U4n0gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8QZHMP-es'
+slug: 'B07H8QZHMP-es Quality Printing 3D Kit de Mejora para Xiaomi Mijia M365...'
+tags: xiaomi
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

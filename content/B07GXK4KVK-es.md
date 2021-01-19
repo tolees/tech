@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXK4KVK-es'
+slug: 'B07GXK4KVK-es Elerose HD 1080P Mini cámara 12MP 140 Degree Gran Angular...'
+tags: 1080p
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

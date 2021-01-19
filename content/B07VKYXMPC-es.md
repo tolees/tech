@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h4m2b2pPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKYXMPC-es'
+slug: 'B07VKYXMPC-es Moviles Baratos y buenos 4G J3 16GB ROM 5.0" HD Android...'
+tags: smartphone
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

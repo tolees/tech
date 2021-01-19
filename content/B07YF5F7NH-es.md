@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21EPlLUJTxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF5F7NH-es'
+slug: 'B07YF5F7NH-es Microsoft Surface Arc - Ratón Azul'
+tags: microsoft, ratón
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

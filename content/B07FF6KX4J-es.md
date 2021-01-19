@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4122Ar3sfKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF6KX4J-es'
+slug: 'B07FF6KX4J-es DESCHE para Funda Xiaomi Redmi Note 5 Hard PC Soft TPU 2...'
+tags: xiaomi
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

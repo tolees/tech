@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oOi956OxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QX6XG6X-es'
+slug: 'B07QX6XG6X-es Garmin Drive 5 EU-MT-S Europa - Navegador 5 pulgadas'
+tags: garmin
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

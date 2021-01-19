@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qc6XU1MWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KZS3MF-es'
+slug: 'B071KZS3MF-es Logitech MX Master 2s Ratón inalámbrico Múltiples...'
+tags: bluetooth, logitech, ratón
 actualPrice: 76.27 EUR
 currency: EUR
 price: 76.27

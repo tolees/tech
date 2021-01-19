@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ErGa73uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0727XS1SW-es'
+slug: 'B0727XS1SW-es HOREVO Plafonnier Plafón LED Lámpara de Techo con Altavoz...'
+tags: bluetooth, altavoz
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

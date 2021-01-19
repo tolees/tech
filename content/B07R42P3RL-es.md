@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DvzRkh0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R42P3RL-es'
+slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor...'
+tags: ps4, ratón, xbox
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

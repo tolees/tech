@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412AUm-xvbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYXTH5R-es'
+slug: 'B07VYXTH5R-es CoolBELL Maletín Ordenadores portátiles de 17 3 Pulgadas...'
+tags: ordenador
 actualPrice: 12.06 EUR
 currency: EUR
 price: 12.06

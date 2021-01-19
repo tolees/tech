@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UjaCnqHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AD69Y8O-es'
+slug: 'B01AD69Y8O-es Panasonic HC-W580 - Videocámara de 50x O.I.S de 5 Ejes...'
+tags: panasonic
 actualPrice: 330.49 EUR
 currency: EUR
 price: 330.49

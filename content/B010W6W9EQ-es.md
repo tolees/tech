@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010W6W9EQ-es'
+slug: 'B010W6W9EQ-es Shure MV5-LTG micrófono de condensador digital para USB y...'
+tags: auriculares
 actualPrice: 99.8 EUR
 currency: EUR
 price: 99.8

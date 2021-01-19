@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rwc4zMaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NP5BRY-es'
+slug: 'B074NP5BRY-es Xinda Acer Iconia One 10 B3-A40 Funda - Slim Fit Folio...'
+tags: tablet
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

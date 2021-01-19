@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gWZPRq89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848P2KVD-es'
+slug: 'B0848P2KVD-es 7hSevenOn Home Enchufe WiFi Compacto Control vía...'
+tags: wifi
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jjy5XAtqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWFVJ6C-es'
+slug: 'B07WWFVJ6C-es YESTEL Tablet 10 Pulgadas Android Tableta 4GB RAM + 64GB...'
+tags: ips, ram, tablet
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

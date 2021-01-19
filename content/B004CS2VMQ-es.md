@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411-iz-z64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004CS2VMQ-es'
+slug: 'B004CS2VMQ-es Samyang F1110601101 AE - Objectivo para Canon 14 mm IF ED...'
+tags: canon
 actualPrice: 315.77 EUR
 currency: EUR
 price: 315.77

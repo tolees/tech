@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316vcphjgBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H3DHLP-es'
+slug: 'B078H3DHLP-es Microsoft Classic IntelliMouse - Ratón Mano Derecha Óptico...'
+tags: microsoft, ratón
 actualPrice: 31.72 EUR
 currency: EUR
 price: 31.72

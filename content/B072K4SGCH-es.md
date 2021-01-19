@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jSBiDPwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K4SGCH-es'
+slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para...'
+tags: ordenador
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3144mFOiT1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001JZVEK-es'
+slug: 'B0001JZVEK-es D-Link DGS-1005D – Switch de red con 5 puertos Gigabit...'
+tags: gigabit
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

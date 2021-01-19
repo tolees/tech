@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q+XGRzpIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL4V8QH-es'
+slug: 'B07SL4V8QH-es ALASTA® Espejo | Espejo Grandes de Pared | 120x80 | Brasil...'
+tags: bluetooth, altavoz
 actualPrice: 284.0 EUR
 currency: EUR
 price: 284.0

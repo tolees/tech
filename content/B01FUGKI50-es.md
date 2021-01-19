@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21I+kn7k4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUGKI50-es'
+slug: 'B01FUGKI50-es Timorn 12 Pines del Interruptor de alimentación del Cable...'
+tags: playstation, ps4, sony
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

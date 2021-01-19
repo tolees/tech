@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k1-vlkJPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WTLQN9-es'
+slug: 'B088WTLQN9-es JideTech Cámara Web 1080P Autofocus con micrófono cámara...'
+tags: 1080p
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

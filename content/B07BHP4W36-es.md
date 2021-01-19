@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N8bLYgAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHP4W36-es'
+slug: 'B07BHP4W36-es Soundcore Flare Bluetooth Lautsprecher von Anker Tragbarer...'
+tags: bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

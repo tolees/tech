@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q8yyMiGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFK6BJL-es'
+slug: 'B07TFK6BJL-es Arbily Auriculares Bluetooth Auriculares Inalámbricos...'
+tags: auriculares, bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

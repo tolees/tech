@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nvoM5m43L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBRFZ8D-es'
+slug: 'B07YBRFZ8D-es NONZERS Protector de Pantalla para Samsung Galaxy S10 Plus...'
+tags: galaxy, samsung
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

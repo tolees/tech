@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rBgtxGg2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2TFRNB-es'
+slug: 'B07Y2TFRNB-es 2020 Tablet 10 Pulgadas 4G Call IPS/HD 32GB de ROM 3GB de...'
+tags: bluetooth, gps, ram, tablet, wifi
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

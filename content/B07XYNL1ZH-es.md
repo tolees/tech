@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOr1c5-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYNL1ZH-es'
+slug: 'B07XYNL1ZH-es FMPC Funda Compatible con Xiaomi Mi MAX 2 Caso Carcasa...'
+tags: xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

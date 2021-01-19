@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VRa4Y+nUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4J59MP-es'
+slug: 'B07T4J59MP-es Mando para Nintendo Switch RegeMoudal para Nintendo Switch...'
+tags: bluetooth, nintendo, nintendo, switch
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

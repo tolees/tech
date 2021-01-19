@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hHZpZKm6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTJ7XHQ-es'
+slug: 'B07GTJ7XHQ-es Ferilinso Protector de Lente de cámara para Huawei Mate 20...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

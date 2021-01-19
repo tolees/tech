@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cAP9qXFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK8DXVM-es'
+slug: 'B07DK8DXVM-es VTIN R2 Altavoces portátiles Bluetooth Altavoz portátil...'
+tags: bluetooth, altavoz
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

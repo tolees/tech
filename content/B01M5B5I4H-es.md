@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mx-bvb4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5B5I4H-es'
+slug: 'B01M5B5I4H-es Razer Ornata Chroma - Teclado Gaming Estándar con USB...'
+tags: teclado
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

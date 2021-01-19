@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ze4ojds2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRW32Q5-es'
+slug: 'B07PRW32Q5-es Reebok Cinta de Correr SL8.0 - Motor 3HP DC - Velocidad...'
+tags: bluetooth
 actualPrice: 1039.0 EUR
 currency: EUR
 price: 1039.0

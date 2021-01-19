@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZMCv0omRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WM1H9V-es'
+slug: 'B087WM1H9V-es FirstE Altavoz Portatil Bluetooth Luces LED Cambian Color...'
+tags: bluetooth, altavoz
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

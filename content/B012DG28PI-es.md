@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hHiA45NGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012DG28PI-es'
+slug: 'B012DG28PI-es KHOMO Funda iPad PRO 9.7 - Carcasa Roja y Negra Protectora...'
+tags: apple
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

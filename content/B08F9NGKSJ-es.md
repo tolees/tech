@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ReKNuIQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9NGKSJ-es'
+slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
+tags: auriculares, iphone
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

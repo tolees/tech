@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PYS1JK-es'
+slug: 'B074PYS1JK-es Artix Auriculares Plegables con Micrófono Auriculares...'
+tags: auriculares, auriculares, estéreo
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

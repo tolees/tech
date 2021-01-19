@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QBwGX4tEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYVDRWL-es'
+slug: 'B07YYVDRWL-es CUBOT R15 Pro Smartphone 4G Teléfono del Juego | Quad Core...'
+tags: smartphone
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

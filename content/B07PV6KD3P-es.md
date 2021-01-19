@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QuvkYPsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV6KD3P-es'
+slug: 'B07PV6KD3P-es K KYUER T8220E Tablet Batería para Samsung Galaxy Note...'
+tags: galaxy, lte, samsung, tablet, wifi
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

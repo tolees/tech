@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yRswIfEQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQTFOYK-es'
+slug: 'B01LQTFOYK-es Logitech G213 Prodigy Teclado Gaming Retroiluminación RGB...'
+tags: logitech, teclado
 actualPrice: 65.22 EUR
 currency: EUR
 price: 65.22

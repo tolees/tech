@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D3QLEXNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLQ1S21-es'
+slug: 'B07GLQ1S21-es SUNYDEAL Cargador de portátil 90W HP Pavilion DV4 DV5 DV6...'
+tags: ordenador
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

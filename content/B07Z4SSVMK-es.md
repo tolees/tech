@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416VP5xdD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4SSVMK-es'
+slug: 'B07Z4SSVMK-es Ayete Ratón Vertical 2.4 G Ratón Ergonómico Óptico...'
+tags: ordenador, ratón
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

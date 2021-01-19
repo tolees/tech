@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CyYAIGkyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWCXRCV-es'
+slug: 'B07TWCXRCV-es Fertuo Funda para Xiaomi Redmi 7A Carcasa Libro con Tapa...'
+tags: xiaomi
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

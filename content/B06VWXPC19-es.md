@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415anEL6nLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWXPC19-es'
+slug: 'B06VWXPC19-es Sony SRS-XB10 Altavoz Inalámbrico Portátil Bluetooth Negro'
+tags: bluetooth, sony, altavoz
 actualPrice: 47.05 EUR
 currency: EUR
 price: 47.05

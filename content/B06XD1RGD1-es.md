@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c-jriPvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD1RGD1-es'
+slug: 'B06XD1RGD1-es Epson Workforce WF 3720 DWF - Impresora Multifunción Color...'
+tags: impresora
 actualPrice: 135.18 EUR
 currency: EUR
 price: 135.18

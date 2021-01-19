@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y3BTvMq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYLQRF8-es'
+slug: 'B07RYLQRF8-es KFD 65W Cargador Adaptador de Corriente para Intel Nuc Kit...'
+tags: asus
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

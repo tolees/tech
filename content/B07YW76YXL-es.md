@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51L93G9OMXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YW76YXL-es'
+slug: 'B07YW76YXL-es eXtremeRate LED Botones para Mando PS4 Botón de D-pad L1...'
+tags: ps4
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

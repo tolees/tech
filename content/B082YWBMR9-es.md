@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Otgk21uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YWBMR9-es'
+slug: 'B082YWBMR9-es Mesa para ordenador portátil bandeja para servir el...'
+tags: ordenador
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

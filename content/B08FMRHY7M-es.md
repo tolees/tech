@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pLFA7MPTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMRHY7M-es'
+slug: 'B08FMRHY7M-es Smartwatch Reloj Inteligente Mujer Hombre Niños Fitness...'
+tags: auriculares, bluetooth, smartwatch
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

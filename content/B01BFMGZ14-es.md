@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xHyLT9olL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFMGZ14-es'
+slug: 'B01BFMGZ14-es Brother HL-L6300DW - Impresora láser Profesional Monocromo...'
+tags: impresora, wifi
 actualPrice: 409.66 EUR
 currency: EUR
 price: 409.66

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51MW8wdaVLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJX5GZC-es'
+slug: 'B07TJX5GZC-es Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal...'
+tags: xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

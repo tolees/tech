@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d3B+MZcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJRSMD7-es'
+slug: 'B07YJRSMD7-es Oihxse Funda Compatible para Samsung Galaxy A7 2018/A750...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

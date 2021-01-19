@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oOZxAS3XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCRM4ZP-es'
+slug: 'B07WCRM4ZP-es BAIGIO Mochila Portátil 17 Pulgadas Mochila de Negocios...'
+tags: ordenador
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

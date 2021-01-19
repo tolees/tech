@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gpk0F05NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017X72IES-es'
+slug: 'B017X72IES-es TP-Link HS110 - Enchufe inteligente inalámbrico con...'
+tags: alexa, google, home
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

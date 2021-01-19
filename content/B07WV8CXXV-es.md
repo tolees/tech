@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3171qDZyYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV8CXXV-es'
+slug: 'B07WV8CXXV-es SAMSUNG Galaxy Watch Active 2 SM-R830NSSAPHE - Smartwatch...'
+tags: bluetooth, galaxy, samsung, smartwatch
 actualPrice: 265.0 EUR
 currency: EUR
 price: 265.0

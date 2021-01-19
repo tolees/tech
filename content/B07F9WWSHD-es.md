@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9WWSHD-es'
+slug: 'B07F9WWSHD-es Lenovo L22e-20 21.5 " FHD VA FreeSync Gaming Monitor 4 ms...'
+tags: lenovo
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

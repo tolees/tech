@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C0lczQ9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD2V4ZJ-es'
+slug: 'B06XD2V4ZJ-es Auriculares Inalámbricos Beats Solo3 Wireless Bluetooth -...'
+tags: auriculares, bluetooth
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

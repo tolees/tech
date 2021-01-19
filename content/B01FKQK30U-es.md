@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iDRvkACZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FKQK30U-es'
+slug: 'B01FKQK30U-es Canon PowerShot SX620 HS - Cámara digital compacta de 20 2...'
+tags: canon, wifi, full, hd
 actualPrice: 179.3 EUR
 currency: EUR
 price: 179.3

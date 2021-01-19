@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eR54eTSJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAKB3L0-es'
+slug: 'B01EAKB3L0-es Toshiba Exceria M302-EA - Tarjeta de memoria MicroSDHC 32...'
+tags: toshiba
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

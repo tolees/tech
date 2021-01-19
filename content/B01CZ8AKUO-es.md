@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X49F12ggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZ8AKUO-es'
+slug: 'B01CZ8AKUO-es atFoliX Protector Película Compatible con Nikon Coolpix...'
+tags: nikon
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

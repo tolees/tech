@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YZbT+q+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWS3PHV-es'
+slug: 'B06XWS3PHV-es BenQ PD2710QC - Monitor Profesional para Diseñadores de...'
+tags: ips
 actualPrice: 429.01 EUR
 currency: EUR
 price: 429.01

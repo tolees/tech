@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aIsPxTPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XCDXKJK-es'
+slug: 'B00XCDXKJK-es SADES SA901 7.1 de Sonido Envolvente estéreo Pro USB PC...'
+tags: auriculares
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

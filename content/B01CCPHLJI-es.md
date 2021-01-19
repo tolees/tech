@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KXU+-vdBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CCPHLJI-es'
+slug: 'B01CCPHLJI-es Urchoiceltd Juego De Teclado y Mouse Tecnología M398...'
+tags: ratón, teclado
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

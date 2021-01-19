@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pNQRBHvvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH1WSGN-es'
+slug: 'B07HH1WSGN-es Baseus Cable USB C USB Tipo C 2 Unidades de 2 M + 1 M...'
+tags: galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

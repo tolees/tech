@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCshh8X9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z67SHS-es'
+slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
+tags: auriculares
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

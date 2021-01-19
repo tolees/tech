@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AoWPJnnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXM6GKN-es'
+slug: 'B07GXM6GKN-es EdwayBuy Smartwatch Amazfit Bip Relojes Deportivos con GPS...'
+tags: bluetooth, gps, smartwatch
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HDsSForTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYR17PL-es'
+slug: 'B07ZYR17PL-es TOSING Despertador luces Lámpara de sueño Reloj Altavoz...'
+tags: bluetooth, altavoz
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

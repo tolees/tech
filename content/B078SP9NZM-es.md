@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31td-FwPaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SP9NZM-es'
+slug: 'B078SP9NZM-es Teléfono móvil con Tapa para Personas Mayores Teclas...'
+tags: móvil
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

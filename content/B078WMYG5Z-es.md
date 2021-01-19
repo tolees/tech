@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nkgiV2diL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WMYG5Z-es'
+slug: 'B078WMYG5Z-es AiRunTech Cinturón de Correr para Botellas de Agua Bolsa...'
+tags: móvil
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

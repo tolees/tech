@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hvizJeltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HRWN15-es'
+slug: 'B083HRWN15-es Mini Proyector FANGOR Mini Video Proyector portátil con...'
+tags: bluetooth, xbox, fire, tv, stick
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

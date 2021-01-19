@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z7F2pokqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BN6T8D-es'
+slug: 'B072BN6T8D-es Samsung Mc28M6055CS/EC - Horno-Microondas con grill...'
+tags: samsung
 actualPrice: 194.65 EUR
 currency: EUR
 price: 194.65

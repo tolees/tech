@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OgV8qNHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Y1T3FQ-es'
+slug: 'B075Y1T3FQ-es Tinta Original CaNON Multipack Rp-108 Tinta Color + Papel...'
+tags: canon
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

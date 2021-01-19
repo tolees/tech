@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-+58WZmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJX6XL2-es'
+slug: 'B07WJX6XL2-es Cámara IP Srihome 3MP Cámara de Vigilancia FHD con Visión...'
+tags: wifi
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

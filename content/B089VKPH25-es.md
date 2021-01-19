@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bqmaW2rHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VKPH25-es'
+slug: 'B089VKPH25-es WOWDSGN Proyector Giratorio de Luz Estelar de Música con...'
+tags: bluetooth
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

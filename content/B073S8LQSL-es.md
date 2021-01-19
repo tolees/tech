@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EbKLhcUnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S8LQSL-es'
+slug: 'B073S8LQSL-es Tarjeta de Memoria SanDisk Ultra Android microSDHC UHS-I...'
+tags: sandisk
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

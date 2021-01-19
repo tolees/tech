@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YJZfZO3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP5DQ86-es'
+slug: 'B07PP5DQ86-es Luces nocturnas Altavoz Bluetooth Ranipobo Sensor táctil...'
+tags: bluetooth, altavoz
 actualPrice: 21.58 EUR
 currency: EUR
 price: 21.58

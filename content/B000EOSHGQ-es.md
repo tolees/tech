@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41olonnP+pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000EOSHGQ-es'
+slug: 'B000EOSHGQ-es Nikon AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED - Objetivo...'
+tags: nikon
 actualPrice: 784.8 EUR
 currency: EUR
 price: 784.8

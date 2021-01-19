@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jAKcyI4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083R51WMC-es'
+slug: 'B083R51WMC-es OtterBox Commuter - Funda de Protección para Samsung...'
+tags: galaxy, samsung
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

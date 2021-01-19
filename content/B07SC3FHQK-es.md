@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC3FHQK-es'
+slug: 'B07SC3FHQK-es Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda...'
+tags: xiaomi
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

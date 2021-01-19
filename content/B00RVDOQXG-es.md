@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311SfWYvd0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RVDOQXG-es'
+slug: 'B00RVDOQXG-es AVM FRITZ!WLAN Repeater 1750E International -...'
+tags: wifi
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

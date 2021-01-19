@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GxSN0s2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ6MSD5-es'
+slug: 'B07PJ6MSD5-es QueenDer Alfombrilla de Ratón Alfombrilla de Ratón...'
+tags: ordenador, ratón
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

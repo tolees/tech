@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41coENn6FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BXBW1G-es'
+slug: 'B086BXBW1G-es Oihxse Funda Compatible con Samsung Galaxy S20 Plus 5G...'
+tags: galaxy, samsung
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

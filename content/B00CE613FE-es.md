@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i9k8cxwPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CE613FE-es'
+slug: 'B00CE613FE-es Fujifilm Fujinon XF 55-200 mm f/3.5-4.8 LM OIS - Objetivo...'
+tags: fujifilm
 actualPrice: 636.65 EUR
 currency: EUR
 price: 636.65

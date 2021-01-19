@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CY4Zo2bgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BX0YKX4-es'
+slug: 'B00BX0YKX4-es Fosmon Mini Bluetooth Keyboard con touchpad Teclado...'
+tags: bluetooth, galaxy, iphone, ps4, teclado
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

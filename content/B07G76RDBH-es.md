@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ml4vFXjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G76RDBH-es'
+slug: 'B07G76RDBH-es PRIXTON - Tocadiscos de Vinilos Vintage y Reproductor mp3...'
+tags: bluetooth
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

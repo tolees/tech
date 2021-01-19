@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PBMO6yYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9TXKLW-es'
+slug: 'B01K9TXKLW-es Musou HDMI a AV Convertidor HDMI a RCA Convertidor...'
+tags: 1080p, full, hd
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

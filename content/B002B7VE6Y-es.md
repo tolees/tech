@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002B7VE6Y-es'
+slug: 'B002B7VE6Y-es Plantronics - Aps-11 - accesorio para auriculares'
+tags: auriculares
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

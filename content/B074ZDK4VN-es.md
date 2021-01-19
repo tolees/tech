@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qkqn5bKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZDK4VN-es'
+slug: 'B074ZDK4VN-es Epson EH-TW650 | Proyector Home Cinema Full HD 1080p con...'
+tags: 1080p, full, hd
 actualPrice: 538.99 EUR
 currency: EUR
 price: 538.99

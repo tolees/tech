@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K06+pA0-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKFQFJH-es'
+slug: 'B08DKFQFJH-es Ratón Bluetooth Ratón inalámbrico Bluetooth recargable...'
+tags: bluetooth, ratón
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

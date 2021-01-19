@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414t5QKhRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CC2GLG7-es'
+slug: 'B07CC2GLG7-es Gigabyte AERO15X v8'
+tags: gigabyte
 actualPrice: 1945.12 EUR
 currency: EUR
 price: 1945.12

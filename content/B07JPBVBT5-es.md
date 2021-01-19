@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oq3P1jOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPBVBT5-es'
+slug: 'B07JPBVBT5-es DAM. DMZ038BL. Smartwatch L2 Plus con Monitor Cardíaco Y...'
+tags: bluetooth, smartwatch
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

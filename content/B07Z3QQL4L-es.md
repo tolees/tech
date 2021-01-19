@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ixtm67kFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3QQL4L-es'
+slug: 'B07Z3QQL4L-es Vozehui - Correa para Garmin Vivofit 4 silicona suave para...'
+tags: garmin
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

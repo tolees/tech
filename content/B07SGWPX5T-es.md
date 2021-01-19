@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-HRV8NBFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGWPX5T-es'
+slug: 'B07SGWPX5T-es Cocoda Soporte Tablet Universal Soportes Movil iPad Mesa...'
+tags: galaxy, iphone, samsung, tablet
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

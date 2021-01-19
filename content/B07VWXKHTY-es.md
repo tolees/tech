@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xif-pydfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWXKHTY-es'
+slug: 'B07VWXKHTY-es ASUS PCE-AX58BT - Tarjeta de Red Wi-Fi 6 AX3000 PCIe...'
+tags: asus, bluetooth
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

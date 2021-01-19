@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21EBMdatuVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H46XKR5-es'
+slug: 'B07H46XKR5-es Beurer BF1000 - Báscula diagnóstica Bluetooth báscula de...'
+tags: bluetooth
 actualPrice: 279.9 EUR
 currency: EUR
 price: 279.9

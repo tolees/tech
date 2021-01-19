@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rM7UlQWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q46BTK7-es'
+slug: 'B07Q46BTK7-es DURAGADGET Cable De Audio Portátil Medion Erazer X7853 -...'
+tags: lenovo
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

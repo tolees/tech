@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tXvDyT1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZMVGTA2-es'
+slug: 'B00ZMVGTA2-es Rankie Adaptador DVI a HDMI 1080P Clavija HDTV Convertidor...'
+tags: 1080p
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

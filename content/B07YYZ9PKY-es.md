@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pMoavQw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZ9PKY-es'
+slug: 'B07YYZ9PKY-es Beats Solo Pro con cancelación de ruido - Auriculares...'
+tags: apple, auriculares, bluetooth
 actualPrice: 228.0 EUR
 currency: EUR
 price: 228.0

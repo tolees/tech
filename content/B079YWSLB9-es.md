@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YWSLB9-es'
+slug: 'B079YWSLB9-es Samsung SM-G960F/DS Smartphone Samsung Galaxy S9 5.8" Wi-...'
+tags: bluetooth, galaxy, ram, samsung, smartphone
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

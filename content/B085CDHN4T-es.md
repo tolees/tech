@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iSWO97sjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CDHN4T-es'
+slug: 'B085CDHN4T-es FMPC Carcasa con Cuerda Samsung Galaxy A7 2018 Cristal TPU...'
+tags: galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

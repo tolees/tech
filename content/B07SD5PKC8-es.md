@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I2E1mAhcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD5PKC8-es'
+slug: 'B07SD5PKC8-es HP Elite 8300 - Ordenador de sobremesa Intel Core i7-3770...'
+tags: ordenador, ram, wifi
 actualPrice: 397.0 EUR
 currency: EUR
 price: 397.0

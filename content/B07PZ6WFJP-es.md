@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FdmaEG4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ6WFJP-es'
+slug: 'B07PZ6WFJP-es FREDI Cámara espía Wireless Mini cámara de Seguridad HD...'
+tags: 1080p, wifi
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

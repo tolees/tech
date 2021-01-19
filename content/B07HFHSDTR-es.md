@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31otFq4VxcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFHSDTR-es'
+slug: 'B07HFHSDTR-es Beats Auriculares Plata mate'
+tags: auriculares
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

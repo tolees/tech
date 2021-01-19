@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wBYzgGShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2XSKF8-es'
+slug: 'B07L2XSKF8-es TOPESEL 64GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive...'
+tags: galaxy, samsung
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

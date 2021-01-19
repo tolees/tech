@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hd1Gdh2GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PRT5Y-es'
+slug: 'B0872PRT5Y-es Funda Transparente Compatible para Galaxy A9 Star Lite...'
+tags: galaxy
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

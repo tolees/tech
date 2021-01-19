@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l+gPHR4YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872MTJDH-es'
+slug: 'B0872MTJDH-es Funda Transparente Compatible para Xiaomi Mi A3 Carcasa...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

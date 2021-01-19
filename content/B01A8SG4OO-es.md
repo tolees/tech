@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PaTqIRNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8SG4OO-es'
+slug: 'B01A8SG4OO-es Canon PowerShot SX540 HS - Cámara digital de 20.3 Mp...'
+tags: canon, wifi
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

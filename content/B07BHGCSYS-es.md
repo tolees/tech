@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MMbVBi9BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHGCSYS-es'
+slug: 'B07BHGCSYS-es Reposamuñecas Ankengs Ordenador Apoyabrazos para...'
+tags: ordenador
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Plr9M3OhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S54HRAE-es'
+slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
+tags: iphone
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

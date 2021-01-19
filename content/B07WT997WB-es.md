@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oc2BNarQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT997WB-es'
+slug: 'B07WT997WB-es Mini Cámara Espía WiFi Tesecu Cámara Oculta de vigilancia...'
+tags: 1080p, wifi
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

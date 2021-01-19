@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IU%2BmMkEgL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9GDT4H-es'
+slug: 'B07N9GDT4H-es Otterbox Defender Funda Anti Caídas Robusta para Samsung...'
+tags: galaxy, samsung
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

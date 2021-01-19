@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PTa9Vo8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKK4WG2-es'
+slug: 'B08CKK4WG2-es Tablet para Niños con WiFi 9.0 Pulgadas 3GB RAM 32GB/128GB...'
+tags: ram, tablet, wifi
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

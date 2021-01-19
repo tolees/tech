@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h6ZGk7rlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FWRGHDB-es'
+slug: 'B08FWRGHDB-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos 156H...'
+tags: auriculares, bluetooth
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

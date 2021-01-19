@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RunsWU-DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QSBQ8V-es'
+slug: 'B082QSBQ8V-es Tablet Funda para Huawei MEDIAPAD T1 10 Honor Note 9.6...'
+tags: huawei, tablet
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

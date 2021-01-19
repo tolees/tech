@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AZCdVRsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB6B53X-es'
+slug: 'B07GB6B53X-es FSKE® 45W 20V 2.25A Cargador del Ordenador portátil para...'
+tags: lenovo, ordenador
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

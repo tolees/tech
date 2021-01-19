@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I9PbkKSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KNKBQ1-es'
+slug: 'B071KNKBQ1-es Crucial CT8G4SFS8266 Memoria RAM de 8 GB DDR4 2666 MT/s...'
+tags: ram
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

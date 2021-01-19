@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IJpEHn3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M9BKQ7-es'
+slug: 'B087M9BKQ7-es Oihxse Silicona Funda con Huawei P40 Pro TPU Flexible...'
+tags: huawei
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

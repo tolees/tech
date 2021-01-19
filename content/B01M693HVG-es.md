@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aF0a9uw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M693HVG-es'
+slug: 'B01M693HVG-es Auna iAdapt 280 - Adaptador de Radio Digital Módulo de...'
+tags: bluetooth
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

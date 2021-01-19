@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zcjNySdwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H2JKL1X-es'
+slug: 'B08H2JKL1X-es LJP Funda Samsung Galaxy Note 20 Ultra Anti-arañazos...'
+tags: galaxy, móvil, samsung
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

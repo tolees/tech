@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p1ZFqmEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08747MBFY-es'
+slug: 'B08747MBFY-es Smartwatch Reloj Inteligente Pantalla curva Impermeable...'
+tags: smartwatch
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

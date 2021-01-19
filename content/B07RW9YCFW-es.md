@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EtyKKSNlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW9YCFW-es'
+slug: 'B07RW9YCFW-es Gohepi Reemplazo para Canon 580XXL 581XXL PGI-580 CLI-581...'
+tags: canon
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

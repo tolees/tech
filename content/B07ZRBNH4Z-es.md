@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTL2paYuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRBNH4Z-es'
+slug: 'B07ZRBNH4Z-es AROYI Funda iPhone 11+2 x Protector de Pantalla iPhone 11...'
+tags: iphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

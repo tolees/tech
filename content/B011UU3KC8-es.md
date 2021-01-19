@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wVb+nr7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011UU3KC8-es'
+slug: 'B011UU3KC8-es Krom KOPA - NXKROMKPST - Auriculares Micro Gaming Pro...'
+tags: auriculares
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wxRcOxVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVXS5FX-es'
+slug: 'B07YVXS5FX-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
+tags: apple, auriculares, bluetooth
 actualPrice: 146.4 EUR
 currency: EUR
 price: 146.4

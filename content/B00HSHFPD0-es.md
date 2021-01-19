@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dq6qz1XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HSHFPD0-es'
+slug: 'B00HSHFPD0-es Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony...'
+tags: sony
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

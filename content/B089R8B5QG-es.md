@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WjHl1yqnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R8B5QG-es'
+slug: 'B089R8B5QG-es LJP Funda Samsung Galaxy A51 5G Suave PU Cuero Carcasa y...'
+tags: galaxy, samsung
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

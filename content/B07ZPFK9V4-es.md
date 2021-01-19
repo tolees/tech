@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B1pMAqxSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPFK9V4-es'
+slug: 'B07ZPFK9V4-es Acer Aspire 3 - Ordenador portátil de 15.6" FullHD AMD...'
+tags: ordenador, ram, teclado
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

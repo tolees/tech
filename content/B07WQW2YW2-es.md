@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cY8cFx2PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQW2YW2-es'
+slug: 'B07WQW2YW2-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
+tags: apple
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

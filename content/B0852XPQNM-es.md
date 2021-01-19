@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+UJm-b5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0852XPQNM-es'
+slug: 'B0852XPQNM-es Kosiy Repetidor de Red WiFi Amplificador Amplificador...'
+tags: wifi
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

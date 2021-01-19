@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bvwg+JE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC1CGVD-es'
+slug: 'B07WC1CGVD-es Regalos Originales para Hombre y Mujer Sombrero Bluetooth...'
+tags: auriculares, bluetooth
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

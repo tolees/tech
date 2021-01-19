@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xw5KN2PbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J18KHR-es'
+slug: 'B083J18KHR-es Blackview® A80 Pro 2020 Teléfono Móvil Libres 4G Pantalla...'
+tags: móvil, smartphone
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

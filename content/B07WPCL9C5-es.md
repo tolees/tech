@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41emInl+9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPCL9C5-es'
+slug: 'B07WPCL9C5-es Star Wars - Figura de acción de 12 5 cm de Chewbacca de...'
+tags: galaxy
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

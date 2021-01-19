@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WTKa3stwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDC779T-es'
+slug: 'B07YDC779T-es ROCONTRIP Estuche de Silicona con Cuello Ajustable y...'
+tags: galaxy, huawei, iphone
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

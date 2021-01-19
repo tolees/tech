@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N49AI4O+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YQ8QP1-es'
+slug: 'B071YQ8QP1-es Samsung S24H850 24" Wide Quad HD - Monitor para PC 60 5 cm...'
+tags: samsung
 actualPrice: 277.92 EUR
 currency: EUR
 price: 277.92

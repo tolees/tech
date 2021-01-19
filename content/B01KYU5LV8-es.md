@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XOJsZPl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KYU5LV8-es'
+slug: 'B01KYU5LV8-es EasySMX Auriculares Niños [Regalos Originales] Cascos de...'
+tags: auriculares, iphone, tablet
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

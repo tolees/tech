@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F5P8UF8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY1GMN9-es'
+slug: 'B07CY1GMN9-es Belkin - Cable de Audio de 3 5 mm con Conector Lightning...'
+tags: iphone
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

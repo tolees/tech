@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QuJ6eUOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHKDL27-es'
+slug: 'B07BHKDL27-es Mpow Auriculares con Cancelación de Ruido Activos con...'
+tags: auriculares, auriculares, estéreo
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

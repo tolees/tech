@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v+xuSzAsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N0E1KDE-es'
+slug: 'B00N0E1KDE-es Olympus M.Zuiko - Objetivo Digital ED 12 mm F2.0 longitud...'
+tags: panasonic
 actualPrice: 425.46 EUR
 currency: EUR
 price: 425.46

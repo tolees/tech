@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FXux8T3EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6CNGF1-es'
+slug: 'B07Z6CNGF1-es Mando para conmutador / Switch Lite mando inalámbrico para...'
+tags: nintendo, nintendo, switch
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

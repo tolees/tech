@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eQ8VBHT0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZT9JW8-es'
+slug: 'B075ZT9JW8-es VICTSING Transmisor FM Bluetooth 4.1 para Coche Mini Manos...'
+tags: bluetooth, tablet
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

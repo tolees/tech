@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ttmO%2BIF6L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZJXGXW-es'
+slug: 'B076ZJXGXW-es 1mii Receptor Bluetooth Adaptador de Audio Inalámbrico Hi-...'
+tags: bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

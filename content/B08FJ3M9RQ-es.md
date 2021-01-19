@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+xOsvxMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FJ3M9RQ-es'
+slug: 'B08FJ3M9RQ-es Smartwatch Reloj Inteligente Hombre Mujer Niños Monitor...'
+tags: bluetooth, smartwatch
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

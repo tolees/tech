@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2fiPIY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDK27GN-es'
+slug: 'B07YDK27GN-es PC Teclado Mecánico para Juegos LED Mezclado con...'
+tags: teclado
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

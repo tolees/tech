@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ay56-IsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9S3CWW-es'
+slug: 'B07Q9S3CWW-es Samsung Galaxy Tab A Wi Fi SM-T510 64GB Black DE Version'
+tags: galaxy, samsung
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

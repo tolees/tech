@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ieB5icDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP3WF8M-es'
+slug: 'B07WP3WF8M-es Lomogo Funda Huawei Y5 2019 / Honor 8S Cartera Funda de...'
+tags: huawei
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

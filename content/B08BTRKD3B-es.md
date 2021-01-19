@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h6-1PqRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTRKD3B-es'
+slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en...'
+tags: móvil
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

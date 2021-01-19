@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415uuoVpOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQVJ1XF-es'
+slug: 'B07YQVJ1XF-es NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note...'
+tags: xiaomi
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

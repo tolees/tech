@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41boV9+nh+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNGTTHZ-es'
+slug: 'B08BNGTTHZ-es Webcam Mac Full HD 720P con Micrófono Web CAM USB 2.0 para...'
+tags: full, hd
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

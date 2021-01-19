@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hcM0JWJKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1S91N-es'
+slug: 'B07KQ1S91N-es LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara...'
+tags: móvil
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

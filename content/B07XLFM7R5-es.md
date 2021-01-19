@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q+nfl-2XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLFM7R5-es'
+slug: 'B07XLFM7R5-es KZIOACSH 5X Funda para Xiaomi Redmi Note 8 Carcasas Ultra...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

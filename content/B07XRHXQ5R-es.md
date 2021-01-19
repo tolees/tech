@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B9G+V2yzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRHXQ5R-es'
+slug: 'B07XRHXQ5R-es Vicloon Cepillo de Botellas 8 Pcs Cepillo de Limpieza...'
+tags: ordenador, teclado
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

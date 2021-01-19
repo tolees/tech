@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51D7sr3qFEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FJNG51-es'
+slug: 'B082FJNG51-es VTIN Altavoz Bluetooth con Sonido HD 5W Mini Altavoz...'
+tags: bluetooth, altavoz
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

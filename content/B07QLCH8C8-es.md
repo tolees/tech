@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a1TzIIZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLCH8C8-es'
+slug: 'B07QLCH8C8-es Reshias Funda BQ Aquaris X/X Pro Cárcasa Silicona...'
+tags: móvil
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+fWzdsuyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8HM19Z-es'
+slug: 'B07B8HM19Z-es Cargador Inalámbrico ESR Qi 10 W para iPhone 11/11 Pro/11...'
+tags: iphone, samsung
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

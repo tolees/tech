@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D2F75r-0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSD9BJ2-es'
+slug: 'B07MSD9BJ2-es MSI GS63 Stealth 8RD-060ES - Ordenador portátil Gaming...'
+tags: ordenador, ram, teclado
 actualPrice: 1299.99 EUR
 currency: EUR
 price: 1299.99

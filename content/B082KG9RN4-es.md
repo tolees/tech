@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bLILh11FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KG9RN4-es'
+slug: 'B082KG9RN4-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
+tags: auriculares, bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

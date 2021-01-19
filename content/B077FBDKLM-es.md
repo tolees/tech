@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nz1SFe5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077FBDKLM-es'
+slug: 'B077FBDKLM-es Denver Sdq-52001G Tarjeta Dual Sim De 5 2" 3G Quad Core 1...'
+tags: ram
 actualPrice: 71.46 EUR
 currency: EUR
 price: 71.46

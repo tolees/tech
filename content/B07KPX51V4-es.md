@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NJOUqMarL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPX51V4-es'
+slug: 'B07KPX51V4-es Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P...'
+tags: 1080p, wifi
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

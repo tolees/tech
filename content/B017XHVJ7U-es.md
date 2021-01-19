@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ahD+JCqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XHVJ7U-es'
+slug: 'B017XHVJ7U-es Rii Rk105 RGB Teclado y Ratón Retroiluminado con Cables...'
+tags: ratón, teclado
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

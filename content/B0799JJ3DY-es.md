@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XA2dE+b2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799JJ3DY-es'
+slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga...'
+tags: galaxy, iphone
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

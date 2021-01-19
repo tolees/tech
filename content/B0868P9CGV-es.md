@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RNCQrhONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868P9CGV-es'
+slug: 'B0868P9CGV-es ZOZOSEP Fundas para Apple iPad Mini 3 iPad Mini 2/1 Case...'
+tags: apple
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

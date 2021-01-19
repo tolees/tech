@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419VbE6AFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R99M9QY-es'
+slug: 'B07R99M9QY-es ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

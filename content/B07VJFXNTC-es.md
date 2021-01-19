@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJFXNTC-es'
+slug: 'B07VJFXNTC-es ieGeek Cámara de Vigilancia WiFi Interior Cámara IP WiFi...'
+tags: 1080p, wifi
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

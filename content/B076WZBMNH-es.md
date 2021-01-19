@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418DfEufsKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076WZBMNH-es'
+slug: 'B076WZBMNH-es Levi s 310 Shaping Super Skinny Vaqueros Skinny Mujer...'
+tags: galaxy
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

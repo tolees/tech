@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YEblQ8NEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSV2LJZ-es'
+slug: 'B01MSV2LJZ-es Motorola MBP 140 - Vigilabebés audio con unidad para bebés...'
+tags: motorola
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

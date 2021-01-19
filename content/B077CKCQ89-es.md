@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BP84B9+kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077CKCQ89-es'
+slug: 'B077CKCQ89-es Motorola Moto Z2 Force - Smartphone de 5.5" WiFi 4G Octa...'
+tags: motorola, ram, smartphone, wifi
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

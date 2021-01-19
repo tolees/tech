@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QF-npFlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5QZ16M-es'
+slug: 'B07P5QZ16M-es ENEGON Batería de Repuesto Paquete de 2 y Cargador rápido...'
+tags: canon
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

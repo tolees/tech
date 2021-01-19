@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-UyaHcoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7PDQYL-es'
+slug: 'B07Y7PDQYL-es Compatible con Samsung Galaxy S10 funda transparente de...'
+tags: galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

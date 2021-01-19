@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z1CfUrccL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088V4WKT2-es'
+slug: 'B088V4WKT2-es HP Chromebook x360 12b-ca0000ns - Ordenador portátil de...'
+tags: ordenador, ram, teclado
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

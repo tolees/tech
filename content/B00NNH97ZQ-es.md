@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NNH97ZQ-es'
+slug: 'B00NNH97ZQ-es Leathlux Funda Xiaomi Redmi 7A + 2 x Protector de Pantalla...'
+tags: xiaomi
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

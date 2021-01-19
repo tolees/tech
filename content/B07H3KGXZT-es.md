@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j09r9Dq7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3KGXZT-es'
+slug: 'B07H3KGXZT-es Xiaomi POCOPHONE F1 - Smartphone Dual SIM de 6 18" 4G...'
+tags: ram, smartphone, xiaomi
 actualPrice: 292.23 EUR
 currency: EUR
 price: 292.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qmNyIQeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9WBVVC-es'
+slug: 'B07P9WBVVC-es ENEGON Batería Sustituida 2 Paquetes y Cargador para Canon...'
+tags: canon
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

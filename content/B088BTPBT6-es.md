@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418qCax480L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BTPBT6-es'
+slug: 'B088BTPBT6-es YPSNH Compatible para Garmin Fenix 3 Correa 26mm Suave...'
+tags: garmin
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

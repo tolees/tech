@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CUJQ7UG-es'
+slug: 'B00CUJQ7UG-es Samsung HS130 - Auriculares de botón con micrófono control...'
+tags: auriculares, samsung
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

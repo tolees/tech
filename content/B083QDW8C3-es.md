@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TMk5qPgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QDW8C3-es'
+slug: 'B083QDW8C3-es Winnes Reloj Inteligente Niño Reloj Smartwatch Niños Niña...'
+tags: gps, smartwatch
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

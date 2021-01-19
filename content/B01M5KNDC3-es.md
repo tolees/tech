@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XXeSfznHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5KNDC3-es'
+slug: 'B01M5KNDC3-es Honor 6X - Smartphone libre de 5.5" lector de huellas 3 GB...'
+tags: 1080p, ram, smartphone, full, hd
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

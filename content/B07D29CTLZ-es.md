@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J2z8-IkCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D29CTLZ-es'
+slug: 'B07D29CTLZ-es TACKLIFE Cortadora de Setos Eléctrica 40V 2.5 Ah con...'
+tags: samsung
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

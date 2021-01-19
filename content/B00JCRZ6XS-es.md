@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JCRZ6XS-es'
+slug: 'B00JCRZ6XS-es Crucial CT2K102464BF186D Kit de memoria RAM de 16 GB 8 GB...'
+tags: ram
 actualPrice: 80.76 EUR
 currency: EUR
 price: 80.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414NCtHTVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZSMSBK-es'
+slug: 'B078ZSMSBK-es HP Z24n G2 - Monitor profesional de 24” ajustable en...'
+tags: ips
 actualPrice: 274.9 EUR
 currency: EUR
 price: 274.9

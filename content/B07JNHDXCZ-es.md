@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eszrpUiCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNHDXCZ-es'
+slug: 'B07JNHDXCZ-es HOMSCAM Pulsera Inteligente Pulsera Actividad Impermeable...'
+tags: móvil
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

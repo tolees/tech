@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-Gk0PSfKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRQ6M1J-es'
+slug: 'B07DRQ6M1J-es Enchufe Inteligente Wifi AISIRER Monitor de Energía...'
+tags: alexa, wifi, google, home
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

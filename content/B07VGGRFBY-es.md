@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51MZvP958ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGGRFBY-es'
+slug: 'B07VGGRFBY-es Gorro Bluetooth Gorro Bluetooth Inalámbrico Gorro de...'
+tags: auriculares, bluetooth
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

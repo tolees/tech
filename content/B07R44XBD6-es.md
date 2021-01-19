@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OdSD260vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R44XBD6-es'
+slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets...'
+tags: apple, galaxy, iphone, nintendo, samsung, nintendo, switch
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

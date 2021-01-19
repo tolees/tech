@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oS2DKgM1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5NJRVB-es'
+slug: 'B07X5NJRVB-es Pnakqil Funda Xiaomi Redmi Note 6 Pro Rosa Ultrafina y...'
+tags: xiaomi
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

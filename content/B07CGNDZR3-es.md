@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4YgbPrNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGNDZR3-es'
+slug: 'B07CGNDZR3-es Logitech G305 Ratón Gaming Inalámbrico 12000 DPI Mano...'
+tags: logitech, ratón
 actualPrice: 47.64 EUR
 currency: EUR
 price: 47.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3133pM1xIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FJRS73G-es'
+slug: 'B00FJRS73G-es SanDisk Cruzer Force - Memoria USB 2.0 de 64 GB Color...'
+tags: sandisk
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

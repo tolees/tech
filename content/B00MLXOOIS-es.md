@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fi3xxizLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MLXOOIS-es'
+slug: 'B00MLXOOIS-es Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20W con...'
+tags: bluetooth, sony
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

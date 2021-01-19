@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jeOyEtzmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSSRJ3P-es'
+slug: 'B07RSSRJ3P-es HONOR 20 - Smartphone Android 9 6 26" FHD 48MP + 16MP +...'
+tags: bluetooth, ram, smartphone
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DfWj0vOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J68X3XV-es'
+slug: 'B07J68X3XV-es Flycoo bisagra Gancho Hebilla de la Cerradura de la Aleta...'
+tags: xiaomi
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LF6MEulKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3BXRMS-es'
+slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon...'
+tags: canon
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

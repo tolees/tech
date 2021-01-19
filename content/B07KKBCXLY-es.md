@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-htHcgaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKBCXLY-es'
+slug: 'B07KKBCXLY-es Raspberry Placa Base PI 3 Modelo A+ Cortex a 1.4GHZ WiFi...'
+tags: wifi
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xVg0gWBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGNYYKZ-es'
+slug: 'B06WGNYYKZ-es 2x Cubierta Caso de Silicona Funda Protectora de Mando...'
+tags: sony
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

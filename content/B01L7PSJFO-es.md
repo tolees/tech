@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rbSoLwtWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L7PSJFO-es'
+slug: 'B01L7PSJFO-es Bose SoundSport - Auriculares inalámbricos Bluetooth NFC...'
+tags: auriculares, bluetooth
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

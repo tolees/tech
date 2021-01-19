@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ftqAiWS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDQVZR5-es'
+slug: 'B07GDQVZR5-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
+tags: apple
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

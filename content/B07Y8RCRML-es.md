@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ex7u3VT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8RCRML-es'
+slug: 'B07Y8RCRML-es Microsoft Surface Laptop 3 - Ordenador portátil de 15"...'
+tags: microsoft, ordenador, ram, teclado
 actualPrice: 1302.99 EUR
 currency: EUR
 price: 1302.99

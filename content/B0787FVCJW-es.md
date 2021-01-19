@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4148BCaRqhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787FVCJW-es'
+slug: 'B0787FVCJW-es Brother MFCJ895DW - Equipo multifunción de tinta A4 con...'
+tags: wifi
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

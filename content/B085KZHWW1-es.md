@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512qqesKM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KZHWW1-es'
+slug: 'B085KZHWW1-es DUODUOGO Smartwatch Reloj Resistente Mujer Hombre Niños...'
+tags: smartwatch
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

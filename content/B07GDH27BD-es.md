@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tYQ9WtmkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDH27BD-es'
+slug: 'B07GDH27BD-es BlueFire Auriculares Gaming PS4 3.5mm Cancelación De Ruido...'
+tags: auriculares, ps4, smartphone, tablet, xbox
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

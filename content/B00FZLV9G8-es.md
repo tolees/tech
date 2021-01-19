@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bsy7KwyIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FZLV9G8-es'
+slug: 'B00FZLV9G8-es Cascos Inalámbrico con aptX Baja Latencia Auriculares...'
+tags: auriculares, bluetooth, móvil, auriculares, estéreo
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

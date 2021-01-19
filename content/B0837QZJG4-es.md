@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M3PKCbhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0837QZJG4-es'
+slug: 'B0837QZJG4-es Auriculares Bluetooth Auriculares inalámbricos Mini TWS...'
+tags: auriculares, bluetooth, iphone, samsung
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

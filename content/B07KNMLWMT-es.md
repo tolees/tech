@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3148-chaP0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KNMLWMT-es'
+slug: 'B07KNMLWMT-es Thomson MIC201IBT - Microcadena Bluetooth con reproductor...'
+tags: bluetooth
 actualPrice: 102.3 EUR
 currency: EUR
 price: 102.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310JbwPh7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084G7JZCJ-es'
+slug: 'B084G7JZCJ-es MAJORITY Oakcastle ED100 - Reproductor de CD y DVD Externo...'
+tags: ordenador
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

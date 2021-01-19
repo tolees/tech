@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418rRKp1HzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HT6CTZJ-es'
+slug: 'B07HT6CTZJ-es ECHTPower Ratón Vertical Inalámbrico Diseño Ergonómico dpi...'
+tags: ratón
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

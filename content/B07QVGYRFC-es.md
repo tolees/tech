@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M9qZii3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVGYRFC-es'
+slug: 'B07QVGYRFC-es SatIntegral S-1412 HD Rocket Receptor satélite Full HD...'
+tags: full, hd
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

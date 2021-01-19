@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J9fc3JgwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SM1H1D-es'
+slug: 'B083SM1H1D-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
+tags: auriculares, bluetooth
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

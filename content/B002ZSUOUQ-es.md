@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pt-ulFiZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZSUOUQ-es'
+slug: 'B002ZSUOUQ-es Panasonic RF-3500E9-K - Radio Portátil FM/AM/LW/SW 1000 mW...'
+tags: panasonic
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

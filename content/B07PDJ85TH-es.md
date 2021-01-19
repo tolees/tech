@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b-2eR7lFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDJ85TH-es'
+slug: 'B07PDJ85TH-es Huawei Watch GT Elegant Smartwatch con Caja de Metal...'
+tags: gps, huawei, smartwatch
 actualPrice: 94.7 EUR
 currency: EUR
 price: 94.7

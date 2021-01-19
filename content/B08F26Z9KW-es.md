@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5111e4E9jyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F26Z9KW-es'
+slug: 'B08F26Z9KW-es Cascos Gaming Auriculares Gaming PS4 con Microfono para PC...'
+tags: auriculares, ps4, tablet, xbox
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517I7Kx4L4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFH59F7-es'
+slug: 'B07RFH59F7-es Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la...'
+tags: huawei
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

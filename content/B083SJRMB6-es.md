@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HqKBgsnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJRMB6-es'
+slug: 'B083SJRMB6-es Cámara web Dericam HD 1080P cámara web USB para...'
+tags: 1080p
 actualPrice: 28.93 EUR
 currency: EUR
 price: 28.93

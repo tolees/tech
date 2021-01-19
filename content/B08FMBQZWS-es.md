@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N8fJF5jML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMBQZWS-es'
+slug: 'B08FMBQZWS-es BESINPO - Carcasa para Samsung Galaxy A41 2020 antigolpes...'
+tags: galaxy, samsung
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

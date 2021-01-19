@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31npoWaIeAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LWYCKV-es'
+slug: 'B083LWYCKV-es Chromecast de Google Timoom 5G/2.4G WiFi Display Dongle...'
+tags: 1080p, wifi
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

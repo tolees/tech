@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lbDL+lAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBPSNQ2-es'
+slug: 'B07YBPSNQ2-es HP Slimline 290-a0022ns - Ordenador torre de sobremesa AMD...'
+tags: ordenador, ram
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

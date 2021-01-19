@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CUnezowRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9XXC1M-es'
+slug: 'B07P9XXC1M-es ENEGON Batería de Repuesto Paquete de 2 y Kit de Cargador...'
+tags: nikon
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Kpz1TUCvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743GY1HS-es'
+slug: 'B0743GY1HS-es Auriculares Bluetooth V4.1 Inalámbricos Bluetooth Headset...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 37.58 EUR
 currency: EUR
 price: 37.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ontlPz8gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QMTQXZ-es'
+slug: 'B079QMTQXZ-es Corsair HS60 Surround 7.1 - Auriculares Gaming con...'
+tags: auriculares
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RE5f9dCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z3V9WT-es'
+slug: 'B079Z3V9WT-es HP LaserJet Pro M28w - Impresora multifunción láser USB...'
+tags: impresora, wifi
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g3hOB-fHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GW6LZ6R-es'
+slug: 'B07GW6LZ6R-es Soporte de luz para cámara Web Live Stream Anillo Selfie...'
+tags: logitech
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

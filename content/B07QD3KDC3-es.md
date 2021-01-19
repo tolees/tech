@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W86cozLHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD3KDC3-es'
+slug: 'B07QD3KDC3-es WisFox Ratón inalámbrico 2.4G Óptico Ratón Ratón de...'
+tags: microsoft, ratón
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

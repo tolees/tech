@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mTqOKZ6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8GDXW1-es'
+slug: 'B07F8GDXW1-es ECHTPower Cargador Mando PS4 Estación de Carga USB...'
+tags: playstation, ps4, sony
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

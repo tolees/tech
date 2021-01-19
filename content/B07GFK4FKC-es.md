@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eP+b7VeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFK4FKC-es'
+slug: 'B07GFK4FKC-es P Prettyia 1080P HD 1.5 Pantalla Mini Cámara Digital Linda...'
+tags: 1080p
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

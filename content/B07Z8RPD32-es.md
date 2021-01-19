@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LIFIP6j2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8RPD32-es'
+slug: 'B07Z8RPD32-es Carcasa compatible con Huawei P9 diseño de mármol silicona...'
+tags: huawei, móvil
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

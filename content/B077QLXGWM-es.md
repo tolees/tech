@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UrqD+YBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QLXGWM-es'
+slug: 'B077QLXGWM-es Salcar Carcasa Box Externa para Disco Duro USB 3.0 a SATA...'
+tags: disco, duro
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

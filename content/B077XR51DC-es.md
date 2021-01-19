@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314htHPmXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XR51DC-es'
+slug: 'B077XR51DC-es Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD...'
+tags: lenovo, ordenador, ram, teclado, full, hd
 actualPrice: 459.13 EUR
 currency: EUR
 price: 459.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MV9clhq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VHHWOU4-es'
+slug: 'B00VHHWOU4-es Logitech K400 Plus Teclado Inalámbrico con Touchpad para...'
+tags: logitech, teclado
 actualPrice: 32.22 EUR
 currency: EUR
 price: 32.22

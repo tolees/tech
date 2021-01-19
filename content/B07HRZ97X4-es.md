@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wmUBlefhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRZ97X4-es'
+slug: 'B07HRZ97X4-es Sharp DR-I470 GR Radio Internet Digital Estéreo con...'
+tags: bluetooth
 actualPrice: 138.93 EUR
 currency: EUR
 price: 138.93

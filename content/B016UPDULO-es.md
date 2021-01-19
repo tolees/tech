@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fB8fo5nhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016UPDULO-es'
+slug: 'B016UPDULO-es AOC E2270SWHN - Monitor de 21.5" Full HD resolución 1920 x...'
+tags: full, hd
 actualPrice: 70.24 EUR
 currency: EUR
 price: 70.24

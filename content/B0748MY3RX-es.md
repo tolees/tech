@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mJNLjG93L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748MY3RX-es'
+slug: 'B0748MY3RX-es Philips Hue Kit 3 Bombillas Inteligentes LED E27 con...'
+tags: alexa, google, home
 actualPrice: 159.03 EUR
 currency: EUR
 price: 159.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ebgCUZBNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AYBLPNA-es'
+slug: 'B01AYBLPNA-es Invision Soporte de Pared para TV Ultra Fuerte – para...'
+tags: 1080p
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

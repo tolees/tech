@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRc+KN-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHMNSGJ-es'
+slug: 'B07XHMNSGJ-es Inventor EVA II Pro Wifi 20 litros/día Deshumidificador...'
+tags: wifi
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

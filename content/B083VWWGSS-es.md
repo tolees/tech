@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yBC4y6nIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VWWGSS-es'
+slug: 'B083VWWGSS-es Hanbee 15 Piezas Correas para Xiaomi Mi Band 5 4 Piezas...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BIWull-fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4SCX4W-es'
+slug: 'B07Z4SCX4W-es Microsoft Surface Pro 7 Estación Acoplamiento Nueva Base...'
+tags: microsoft
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

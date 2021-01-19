@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J2HFD2-es'
+slug: 'B077J2HFD2-es KROM Kernel Tkl - NXKROMKRNLTKL - Teclado Mecánico Español...'
+tags: teclado
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Kw6-8IxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DCHBDR-es'
+slug: 'B075DCHBDR-es BigBen Sound BTLSUNICORN - Altavoz Wireless Luminoso...'
+tags: bluetooth, altavoz
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

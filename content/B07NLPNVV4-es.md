@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m9LpP-peL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLPNVV4-es'
+slug: 'B07NLPNVV4-es Panasonic RP-HTX90NE-W Auriculares Inalámbricos Noise...'
+tags: auriculares, bluetooth, panasonic
 actualPrice: 80.63 EUR
 currency: EUR
 price: 80.63

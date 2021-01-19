@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x7mv8K4jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZ2D8V-es'
+slug: 'B07YYZ2D8V-es Beats Auriculares Solo Pro Wireless de Beats con...'
+tags: auriculares
 actualPrice: 208.0 EUR
 currency: EUR
 price: 208.0

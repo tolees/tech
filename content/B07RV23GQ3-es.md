@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SuvY+0WHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV23GQ3-es'
+slug: 'B07RV23GQ3-es ELZO Soporte Plegable de Aluminio para Ordenador Portátil...'
+tags: ordenador
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

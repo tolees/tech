@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+wo55ZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085JJS1KK-es'
+slug: 'B085JJS1KK-es Huawei P40 - Smartphone 128GB 8GB RAM Dual Sim Black'
+tags: huawei, ram, smartphone
 actualPrice: 470.0 EUR
 currency: EUR
 price: 470.0

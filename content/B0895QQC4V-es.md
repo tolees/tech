@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bv6G51qjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895QQC4V-es'
+slug: 'B0895QQC4V-es Wakana Ventilador Portatil Ventilador Cuello Diseño de...'
+tags: auriculares
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

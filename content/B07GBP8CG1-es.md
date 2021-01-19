@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nhdO423vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBP8CG1-es'
+slug: 'B07GBP8CG1-es Talentech Ember - Ratón ergonómico RGB USB con cable para...'
+tags: ordenador, ratón
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

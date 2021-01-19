@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u0FMgvN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QLSMZ8-es'
+slug: 'B081QLSMZ8-es HP 14s-dq0000ns - Ordenador portátil de 14" HD Intel...'
+tags: ordenador, ram, teclado
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

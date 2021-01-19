@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418v+Yi8E9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGMHJMC-es'
+slug: 'B07HGMHJMC-es Lenovo Ideapad 530S-14IKB - Ordenador Portátil 14" FullHD...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 749.99 EUR
 currency: EUR
 price: 749.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410uY1kc9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HDJKYLF-es'
+slug: 'B08HDJKYLF-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
+tags: xbox
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

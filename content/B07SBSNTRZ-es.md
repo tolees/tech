@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RVXuTePJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBSNTRZ-es'
+slug: 'B07SBSNTRZ-es Memoria Flash 4 en 1 128 GB Compatible con iPhone y...'
+tags: iphone, tablet
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N3FkoAPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIXO56O-es'
+slug: 'B01EIXO56O-es IntimaTe WM Heart Silla de Escritorio de Oficina de PU...'
+tags: ordenador
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

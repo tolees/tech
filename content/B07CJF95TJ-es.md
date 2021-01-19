@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xt8aHZ5tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJF95TJ-es'
+slug: 'B07CJF95TJ-es Impresora térmica de recibos 300 mm/s 80 mm Excelvan AUTO-...'
+tags: impresora
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

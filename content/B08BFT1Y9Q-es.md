@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pt8G57FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFT1Y9Q-es'
+slug: 'B08BFT1Y9Q-es RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil...'
+tags: móvil
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

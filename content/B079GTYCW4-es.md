@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416OzRS7l0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GTYCW4-es'
+slug: 'B079GTYCW4-es Kingston SDCS/32GB - MicroSD Canvas Select velocidades de...'
+tags: microsd
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

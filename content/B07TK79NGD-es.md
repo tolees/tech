@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uEvL90DFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TK79NGD-es'
+slug: 'B07TK79NGD-es LONGER Orange 10 Impresora 3D Resina Impresora 3D SLA con...'
+tags: impresora
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

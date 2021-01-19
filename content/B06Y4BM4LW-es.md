@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aYac18odL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y4BM4LW-es'
+slug: 'B06Y4BM4LW-es Canon PowerShot SX730 HS - Cámara digital de 20.3 MP Video...'
+tags: bluetooth, canon, wifi, full, hd
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

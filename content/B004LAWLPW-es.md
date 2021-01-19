@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TlR9EsaiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LAWLPW-es'
+slug: 'B004LAWLPW-es Logitech K120 Teclado con Cable Business para Windows...'
+tags: logitech, teclado
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R2KX+GK4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHXDSZQ-es'
+slug: 'B07HHXDSZQ-es auna Stereosonic Stereo System - Equipo estéreo Compacto...'
+tags: bluetooth
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

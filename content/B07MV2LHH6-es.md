@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316fP9ZYIML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV2LHH6-es'
+slug: 'B07MV2LHH6-es HP Pavilion Gaming 690-0031ns - Ordenador de sobremesa...'
+tags: ordenador, ram
 actualPrice: 699.99 EUR
 currency: EUR
 price: 699.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417dofjPe+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GO6ZSNW-es'
+slug: 'B01GO6ZSNW-es Energy Sistem MP4 Touch Bluetooth Bluetooth 8 GB Táctil...'
+tags: bluetooth, microsd
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

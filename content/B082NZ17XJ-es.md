@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417c2-CMSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NZ17XJ-es'
+slug: 'B082NZ17XJ-es Oihxse Transparente Silicona Case Compatible con Huawei...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

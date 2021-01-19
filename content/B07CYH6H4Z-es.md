@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B+uYQjq7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYH6H4Z-es'
+slug: 'B07CYH6H4Z-es Amazfit Stratos Reloj Inteligente Multideporte con VO2max...'
+tags: gps
 actualPrice: 125.84 EUR
 currency: EUR
 price: 125.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tnbtC+1-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FWM16R-es'
+slug: 'B071FWM16R-es Lenovo L24i-10 - Monitor de 23.8" Pantalla FullHD/IPS 1920...'
+tags: lenovo
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

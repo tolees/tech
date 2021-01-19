@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ekrqdBl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9S9Q5P-es'
+slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo...'
+tags: nintendo, nintendo, switch
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

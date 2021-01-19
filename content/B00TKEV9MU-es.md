@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FkIPLNciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TKEV9MU-es'
+slug: 'B00TKEV9MU-es Sony ICD-TX650 - Grabadora de voz digital ultra delgada de...'
+tags: sony
 actualPrice: 141.54 EUR
 currency: EUR
 price: 141.54

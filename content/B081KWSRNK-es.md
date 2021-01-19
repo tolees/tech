@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513In8prUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KWSRNK-es'
+slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte...'
+tags: apple
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

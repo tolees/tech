@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dhHiZAY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKVH6CR-es'
+slug: 'B07XKVH6CR-es Victure 1080P Cámara de Seguridad Exteriores Inalámbrica...'
+tags: 1080p
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

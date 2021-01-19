@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417V7SmB2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2J9N7K-es'
+slug: 'B00F2J9N7K-es STANLEY STST1-79231 - Taller móvil para herramientas 2 en...'
+tags: móvil
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

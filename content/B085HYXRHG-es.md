@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HITQC9EOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HYXRHG-es'
+slug: 'B085HYXRHG-es Blukar Auriculares In Ear Auriculares con Cable y...'
+tags: auriculares, huawei, iphone, samsung, xiaomi
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

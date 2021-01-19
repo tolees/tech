@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWKURZP-es'
+slug: 'B01LWKURZP-es Raking soporte tablet soporte de trípode para tableta...'
+tags: tablet
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

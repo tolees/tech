@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BH5As2gsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4FCHFB-es'
+slug: 'B07Z4FCHFB-es KATUMO Funda para iPad 10.2 2019 / iPad 7th Generation...'
+tags: apple
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

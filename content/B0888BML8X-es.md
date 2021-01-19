@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4123vBe8F+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888BML8X-es'
+slug: 'B0888BML8X-es GRDE Auriculares Bluetooth Auriculares Inalámbricos IPX7...'
+tags: auriculares, bluetooth
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

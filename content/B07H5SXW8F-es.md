@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iex9P-lEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5SXW8F-es'
+slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
+tags: huawei, iphone, móvil, samsung
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

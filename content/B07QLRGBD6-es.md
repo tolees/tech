@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AG%2B7R8aSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLRGBD6-es'
+slug: 'B07QLRGBD6-es Amplificador de voz WinBridge con micrófono con cable...'
+tags: bluetooth, altavoz
 actualPrice: 64 EUR
 currency: EUR
 price: 64

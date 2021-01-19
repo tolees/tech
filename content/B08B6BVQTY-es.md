@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZbPgI047L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6BVQTY-es'
+slug: 'B08B6BVQTY-es Disco U teléfono móvil Disco Flash USB 3.0 para Apple...'
+tags: apple, móvil
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

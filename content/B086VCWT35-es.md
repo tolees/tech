@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rDgYILCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VCWT35-es'
+slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida...'
+tags: huawei, samsung
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

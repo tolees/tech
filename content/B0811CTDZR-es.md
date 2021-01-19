@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511ZDTX44jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811CTDZR-es'
+slug: 'B0811CTDZR-es HOPESUNIN Tableta Android de 10.1 Pulgadas con Sistema...'
+tags: ram, wifi
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

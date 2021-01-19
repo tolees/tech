@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xErPcSdtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW4T69A-es'
+slug: 'B00KW4T69A-es Inateck Carcasa Disco Duro 2.5" USB 3.0 Caja Externa con...'
+tags: disco, duro
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

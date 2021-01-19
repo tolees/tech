@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BskRi1LVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCCL76Z-es'
+slug: 'B07YCCL76Z-es Mydours Reposamuñecas para Teclado Ergonómico Cojín de...'
+tags: teclado
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

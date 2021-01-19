@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hdV1zuDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRVL4KY-es'
+slug: 'B07PRVL4KY-es Yosou Cable USB C [2Pack 2M] Cargador USB Tipo C Rápida...'
+tags: galaxy, huawei, samsung, sony, xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UTnwlvJ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2ZM99V-es'
+slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos...'
+tags: galaxy, gps, iphone, motorola, móvil, samsung
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

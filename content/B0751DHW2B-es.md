@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cdmz6ANwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751DHW2B-es'
+slug: 'B0751DHW2B-es Urvoix - Funda para Samsung Galaxy S8 función atril piel...'
+tags: galaxy, samsung
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

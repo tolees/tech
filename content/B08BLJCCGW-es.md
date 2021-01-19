@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41901Y3IlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLJCCGW-es'
+slug: 'B08BLJCCGW-es Smartphone Oferta del día Ofertas móviles 3 GB RAM 32 GB...'
+tags: ram, smartphone
 actualPrice: 83.15 EUR
 currency: EUR
 price: 83.15

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjDdlUy5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYSG8HT-es'
+slug: 'B07MYSG8HT-es Ushining Teléfono Móvil Basico Teléfono Móvil para...'
+tags: bluetooth, móvil
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

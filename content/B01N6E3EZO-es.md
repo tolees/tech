@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KlLwCJhGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6E3EZO-es'
+slug: 'B01N6E3EZO-es Lenovo Ideacentre AIO 910-27ISH - Ordenador de sobremesa...'
+tags: lenovo, ordenador, ram, ratón, teclado
 actualPrice: 972.59 EUR
 currency: EUR
 price: 972.59

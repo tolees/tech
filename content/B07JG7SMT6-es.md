@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317fiQYcTHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7SMT6-es'
+slug: 'B07JG7SMT6-es oneConcept Woodpecker Equipo de Sonido 5.1 - Equipo para...'
+tags: bluetooth
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RHwE4grKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSM28NL-es'
+slug: 'B07FSM28NL-es Juego de Alfombrilla para ratón y reposamuñecas para...'
+tags: ordenador, ratón, teclado
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

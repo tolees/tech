@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UJ0P-MjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842P6JPF-es'
+slug: 'B0842P6JPF-es IBRA Cable de Red LAN Gigabit Ethernet CAT8 RJ45 SSTP...'
+tags: gigabit
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

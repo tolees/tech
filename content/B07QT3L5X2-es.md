@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F6OYNprHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT3L5X2-es'
+slug: 'B07QT3L5X2-es Panasonic SC-AKX320 - Equipo de Sonido de Alta Potencia...'
+tags: bluetooth, panasonic
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X2wwPS9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPFDWXN-es'
+slug: 'B07DPFDWXN-es PS4 - Estación de carga dualshock 4 soporte de...'
+tags: playstation, ps4, sony
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

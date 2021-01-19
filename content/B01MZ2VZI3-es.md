@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411JUZtBoBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ2VZI3-es'
+slug: 'B01MZ2VZI3-es Netgear GS110EMX-100PES - Switch de Red Smart Plus...'
+tags: gigabit, netgear
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

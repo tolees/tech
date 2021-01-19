@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314FmY747UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDRY863-es'
+slug: 'B07BDRY863-es Suunto 3 Fitness - Reloj Multideporte con GPS y pulsómetro...'
+tags: gps, suunto
 actualPrice: 144.56 EUR
 currency: EUR
 price: 144.56

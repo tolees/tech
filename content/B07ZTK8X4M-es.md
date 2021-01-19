@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G7QNL5kzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTK8X4M-es'
+slug: 'B07ZTK8X4M-es Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica...'
+tags: iphone, samsung
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

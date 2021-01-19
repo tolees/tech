@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P3i+Iq9pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9T4SFJ-es'
+slug: 'B07H9T4SFJ-es Canon EF-M - Objetivo de 32 mm f/1.4 STM Color Negro'
+tags: canon
 actualPrice: 449.65 EUR
 currency: EUR
 price: 449.65

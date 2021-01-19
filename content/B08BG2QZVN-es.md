@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mc2wfwoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BG2QZVN-es'
+slug: 'B08BG2QZVN-es Sami - Kids - Smartwatch Reloj Inteligente Infantil...'
+tags: gps, smartband, smartwatch, wifi
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

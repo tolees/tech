@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r3IYJwm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089T3SHSN-es'
+slug: 'B089T3SHSN-es Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD Intel...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

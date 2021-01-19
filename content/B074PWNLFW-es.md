@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ND-x-GS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PWNLFW-es'
+slug: 'B074PWNLFW-es DURAGADGET Cable De Audio Monitor ASUS VX229H VX239H...'
+tags: asus
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

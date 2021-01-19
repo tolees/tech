@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mx%2BYTKUJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWVFPTJ-es'
+slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON Paquete de 2 y Smart LED...'
+tags: sony
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iRpzqBK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFR7D2L-es'
+slug: 'B07KFR7D2L-es Lenovo Legion Y530 Ordenador portátil gaming 15.6" FullHD...'
+tags: lenovo, ordenador, ram
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

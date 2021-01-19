@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21bXGmopxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PRZ8AI-es'
+slug: 'B007PRZ8AI-es Silver Electronics Bombilla PLC 2Pin 4200k 26 watts Blanco...'
+tags: plc
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

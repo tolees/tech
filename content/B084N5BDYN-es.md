@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XvAfhcmdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084N5BDYN-es'
+slug: 'B084N5BDYN-es Lenovo S145-15IIL - Ordenador portátil 15.6" FullHD Intel...'
+tags: lenovo, ordenador, ram
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

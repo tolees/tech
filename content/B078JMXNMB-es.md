@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31l19NulK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JMXNMB-es'
+slug: 'B078JMXNMB-es Anpollo Alfombrilla de Ratón ergonómica de Gel Adecuado...'
+tags: ratón
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

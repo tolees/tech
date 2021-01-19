@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xX226HE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NP9PJQ-es'
+slug: 'B082NP9PJQ-es Tableta 10.1 Pulgadas 4G WiFi Android 9.0 Tablets PC 3GB...'
+tags: bluetooth, gps, ram, wifi
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

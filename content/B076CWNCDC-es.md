@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvTP2dPWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CWNCDC-es'
+slug: 'B076CWNCDC-es ASUS Lyra - Sistema WiFi Mesh Individual Tri-Banda AC2200...'
+tags: asus, gigabit, wifi
 actualPrice: 100.66 EUR
 currency: EUR
 price: 100.66

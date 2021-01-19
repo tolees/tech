@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U94HvtlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULNENTA-es'
+slug: 'B00ULNENTA-es Sony ZS-RS60BT - Radio Boombox CD de 4W estéreo USB...'
+tags: bluetooth, sony
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

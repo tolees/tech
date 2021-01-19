@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DXiTaY3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4D5JPB-es'
+slug: 'B07Z4D5JPB-es Funda compatible con Huawei Honor 10 funda ultrafina suave...'
+tags: huawei
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

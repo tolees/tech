@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QbxYz3D-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B013J7WUGC-es'
+slug: 'B013J7WUGC-es Edifier H840 - Auriculares de Diadema'
+tags: auriculares
 actualPrice: 49.42 EUR
 currency: EUR
 price: 49.42

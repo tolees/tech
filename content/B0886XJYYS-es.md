@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21hFJ8s6hcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0886XJYYS-es'
+slug: 'B0886XJYYS-es Sony WFSP800N - Auriculares True Wireless Cancelación de...'
+tags: auriculares, bluetooth, sony
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

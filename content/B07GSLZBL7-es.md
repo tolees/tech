@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lNc39M-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSLZBL7-es'
+slug: 'B07GSLZBL7-es Brother DCP-L3550CDW - Impresora multifunción Wifi USB 2.0...'
+tags: impresora, wifi
 actualPrice: 318.77 EUR
 currency: EUR
 price: 318.77

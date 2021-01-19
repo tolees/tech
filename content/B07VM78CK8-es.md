@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RagKMDvaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM78CK8-es'
+slug: 'B07VM78CK8-es Verdadero Auricular inalámbrico Bluetooth Auriculares...'
+tags: auriculares, bluetooth, auriculares, estéreo
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

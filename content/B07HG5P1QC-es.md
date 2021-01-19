@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416GafzIj8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG5P1QC-es'
+slug: 'B07HG5P1QC-es KLIM™ AIM Ratón Gaming Chroma RGB - Cable USB...'
+tags: ps4, ratón
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PxsyDtZgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ2CCVX-es'
+slug: 'B07HJ2CCVX-es meross Enchufe Inteligente Mide el Consumo 16A 3680W...'
+tags: alexa, google, assistant
 actualPrice: 35.86 EUR
 currency: EUR
 price: 35.86

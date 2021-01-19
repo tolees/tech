@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41utoHG5lNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OCOYWGS-es'
+slug: 'B00OCOYWGS-es auna Radio Gaga AN - Radio por Internet Digital WLAN...'
+tags: altavoz
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

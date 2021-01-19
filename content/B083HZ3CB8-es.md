@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ec48Gl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ3CB8-es'
+slug: 'B083HZ3CB8-es Friends Impreso TPU A Prueba de Golpes Ligero Ultra...'
+tags: iphone, móvil
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

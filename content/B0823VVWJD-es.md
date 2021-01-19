@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c4CqwAnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823VVWJD-es'
+slug: 'B0823VVWJD-es Cargador para Nintendo Switch Gifort 4 en 1 Joy-Con...'
+tags: nintendo, nintendo, switch
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

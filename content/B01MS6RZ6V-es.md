@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E0n2NNXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS6RZ6V-es'
+slug: 'B01MS6RZ6V-es USB WiFi Adaptador iAmotus WiFi Antenna 600Mbps Mini USB...'
+tags: wifi
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

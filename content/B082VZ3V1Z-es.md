@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419hBKHq0UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VZ3V1Z-es'
+slug: 'B082VZ3V1Z-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
+tags: auriculares, bluetooth
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

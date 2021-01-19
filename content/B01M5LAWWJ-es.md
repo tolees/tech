@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qCB3r0tQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5LAWWJ-es'
+slug: 'B01M5LAWWJ-es Brother MFC-J6530DW - Impresora multifunción de Tinta...'
+tags: impresora
 actualPrice: 190.98 EUR
 currency: EUR
 price: 190.98

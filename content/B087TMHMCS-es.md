@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AjcvvdgJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TMHMCS-es'
+slug: 'B087TMHMCS-es Mifa Cámara Web T60 Webcam PC Cámara de Computadora 1080P...'
+tags: 1080p, full, hd
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

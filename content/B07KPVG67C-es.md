@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Gp9dFw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPVG67C-es'
+slug: 'B07KPVG67C-es Tccmebius Externo Caja de disco duro Adaptador USB 3.0 a...'
+tags: disco, duro
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

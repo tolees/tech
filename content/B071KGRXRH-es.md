@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hTcxZSGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KGRXRH-es'
+slug: 'B071KGRXRH-es SanDisk Ultra 3D - SSD con hasta 550 MB/s de velocidad de...'
+tags: sandisk
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

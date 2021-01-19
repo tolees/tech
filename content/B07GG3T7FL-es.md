@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RvimvpjlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GG3T7FL-es'
+slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
+tags: auriculares, nintendo, playstation, xbox, nintendo, switch
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

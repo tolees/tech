@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dh1v03xlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CF1RPT-es'
+slug: 'B085CF1RPT-es FMPC Carcasa con Cuerda Samsung Galaxy A20S Cristal TPU...'
+tags: galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

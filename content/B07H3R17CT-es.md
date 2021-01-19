@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414dXypxbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3R17CT-es'
+slug: 'B07H3R17CT-es RAOYI 32GB Memoria Flash USB 3.0 Tipo C Dual OTG Flash...'
+tags: galaxy, samsung
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

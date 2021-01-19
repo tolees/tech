@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GSPZ8V-es'
+slug: 'B071GSPZ8V-es Xinda Huawei MediaPad T3 8.0 Funda - Ultra delgado ligero...'
+tags: huawei, tablet
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

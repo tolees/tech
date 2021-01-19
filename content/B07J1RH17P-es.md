@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AacH8VchL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1RH17P-es'
+slug: 'B07J1RH17P-es Cargador USB Multipuerto LENCENT Ladron Enchufes 4.4A 5V...'
+tags: iphone, samsung
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

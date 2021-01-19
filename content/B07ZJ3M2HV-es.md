@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aXZSP2CYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJ3M2HV-es'
+slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi...'
+tags: wifi
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gzDX24P2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBGVTVF-es'
+slug: 'B07DBGVTVF-es Lenovo Ideapad 320-15AST - Ordenador Portátil 15.6" HD AMD...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414S2NLkRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003CQE2M6-es'
+slug: 'B003CQE2M6-es JVC HA-EB75- - Auriculares in er 5 posiciones 3.5 mm color...'
+tags: auriculares, jvc
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

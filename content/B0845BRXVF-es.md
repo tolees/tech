@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sQWZJln4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0845BRXVF-es'
+slug: 'B0845BRXVF-es Energy Sistem Style 3 Auriculares inalambricos True...'
+tags: auriculares, bluetooth
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

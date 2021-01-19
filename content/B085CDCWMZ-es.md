@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-DYN1d6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CDCWMZ-es'
+slug: 'B085CDCWMZ-es FMPC Carcasa con Cuerda Samsung Galaxy A50 Cristal TPU...'
+tags: galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

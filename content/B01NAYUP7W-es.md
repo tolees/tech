@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zRCU0nZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAYUP7W-es'
+slug: 'B01NAYUP7W-es Tenda Ph3 Adaptador de Red Gigabit Powerline 1000Mbps...'
+tags: gigabit
 actualPrice: 35.12 EUR
 currency: EUR
 price: 35.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m7eT6J-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHTQB4G-es'
+slug: 'B07HHTQB4G-es Omars USB C Hub 9 en 1 Adaptador USB Tipo C con HDMI 4K...'
+tags: gigabit
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

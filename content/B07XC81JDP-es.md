@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rBlx2lpQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC81JDP-es'
+slug: 'B07XC81JDP-es SEBSON Báscula de Grasa Corporal Bluetooth con App digital...'
+tags: bluetooth
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

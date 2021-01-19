@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Csov8AfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBWU686-es'
+slug: 'B01BBWU686-es Sony NWE394L.CEW - Reproductor MP3 reproducción de música...'
+tags: sony
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

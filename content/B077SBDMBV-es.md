@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v9vSrMRJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SBDMBV-es'
+slug: 'B077SBDMBV-es Razer Lancehead Tournament Edition - Ratón para gaming...'
+tags: ratón
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

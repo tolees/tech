@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xx0x+ABHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PSXCP-es'
+slug: 'B0872PSXCP-es Funda Transparente Compatible para Xiaomi Mi 8 Lite...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YJ2G2Yg1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZS5C5H-es'
+slug: 'B07WZS5C5H-es ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro...'
+tags: iphone
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MJGrB5ebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDQGRHC-es'
+slug: 'B07FDQGRHC-es Polaroid Snap Touch 2.0 - Cámara digital portátil...'
+tags: bluetooth
 actualPrice: 149.11 EUR
 currency: EUR
 price: 149.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JLCuBGWqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X22V2FL-es'
+slug: 'B07X22V2FL-es Amzdeal Trípode Cámara Trípode de Aluminio Portátil 164cm...'
+tags: canon, nikon, panasonic, samsung, sony
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

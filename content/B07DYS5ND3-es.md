@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kkLiuAXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYS5ND3-es'
+slug: 'B07DYS5ND3-es Acer KG1 KG241P LED Display 61 cm 24" Full HD Plana Negro...'
+tags: full, hd
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

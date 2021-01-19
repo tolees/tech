@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L9pObxgqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC8FQ7S-es'
+slug: 'B07HC8FQ7S-es YOSH Cable USB Tipo C con tecnología Quick Charge 3.0 2...'
+tags: huawei, nintendo, samsung, nintendo, switch
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

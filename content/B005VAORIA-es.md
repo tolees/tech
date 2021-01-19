@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WxG15xiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VAORIA-es'
+slug: 'B005VAORIA-es Plantronics 81960-15 - Auriculares con micrófono Color Negro'
+tags: auriculares
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

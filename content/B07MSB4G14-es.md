@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kGdhZmo9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSB4G14-es'
+slug: 'B07MSB4G14-es VGUARD [4 Unidades] Protector de Pantalla para Xiaomi Mi 9...'
+tags: xiaomi
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNoVE1DrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZ58MJW-es'
+slug: 'B07YZ58MJW-es BOSNAS Proyector 6000 Lúmenes Proyector Full HD Soporta...'
+tags: 1080p, ps4, full, hd
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

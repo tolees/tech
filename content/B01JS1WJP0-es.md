@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511cvIV1aHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JS1WJP0-es'
+slug: 'B01JS1WJP0-es Anker 2 Pack Cable Lightning Cargador iPhone [Apple MFi...'
+tags: iphone
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

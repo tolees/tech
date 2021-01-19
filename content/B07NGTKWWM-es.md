@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JrWWU1sML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTKWWM-es'
+slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear soporte de sujeción o carga para...'
+tags: smartphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

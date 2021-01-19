@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4129f5KnLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779FFCXC-es'
+slug: 'B0779FFCXC-es ASUS 4G-AC68U - Router inalámbrico Gigabit AC1900 4G LTE...'
+tags: asus, gigabit, lte, wifi
 actualPrice: 246.0 EUR
 currency: EUR
 price: 246.0

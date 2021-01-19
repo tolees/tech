@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSJMVVP-es'
+slug: 'B07VSJMVVP-es Citadel : Forged with Fire pour PS4 [Importación francesa]'
+tags: ps4
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

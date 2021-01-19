@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41POxXLe-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P22LQL-es'
+slug: 'B077P22LQL-es Sistema de comunicación para Motocicleta Casco Bluetooth...'
+tags: bluetooth
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

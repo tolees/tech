@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y-XS5cEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHH7Y8X-es'
+slug: 'B08BHH7Y8X-es Soporte Ordenador Portátil Laptop Stand - 7.9-17” Soporte...'
+tags: ordenador
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

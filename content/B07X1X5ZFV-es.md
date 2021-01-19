@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21By8X8-ejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1X5ZFV-es'
+slug: 'B07X1X5ZFV-es Anker PowerPort Mini Dual Cargador de Pared Ultracompacto...'
+tags: iphone, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

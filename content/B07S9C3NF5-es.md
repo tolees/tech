@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419siWxhQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9C3NF5-es'
+slug: 'B07S9C3NF5-es JIALONG Alfombrilla de Ratón Grande Gaming Mouse Pad XXL...'
+tags: ordenador, ratón
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

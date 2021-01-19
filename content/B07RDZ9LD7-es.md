@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gsapw62OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDZ9LD7-es'
+slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 1399.99 EUR
 currency: EUR
 price: 1399.99

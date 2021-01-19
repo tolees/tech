@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QkqLEA9bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL3YT5Q-es'
+slug: 'B07XL3YT5Q-es ECOOLBUY WiFi Inteligente Bajo Techo en Exteriores...'
+tags: alexa, wifi, google, home
 actualPrice: 25.91 EUR
 currency: EUR
 price: 25.91

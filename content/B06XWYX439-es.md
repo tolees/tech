@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SpwwOUgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWYX439-es'
+slug: 'B06XWYX439-es BQ Aquaris X Pro - Smartphone de 5.2" Nano SIM Bluetooth...'
+tags: bluetooth, ram, smartphone
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

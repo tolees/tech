@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41joJxF13XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KWWGPB-es'
+slug: 'B075KWWGPB-es Mipelo MLT-D111S D111S Cartuchos de Tóner 2 Negro...'
+tags: impresora
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

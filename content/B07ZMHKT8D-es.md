@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5187M0FWKNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZMHKT8D-es'
+slug: 'B07ZMHKT8D-es Mochilero Compatible with Apple Watch Band 40mm 44mm...'
+tags: apple
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

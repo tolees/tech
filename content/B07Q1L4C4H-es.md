@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41esWxN0MaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1L4C4H-es'
+slug: 'B07Q1L4C4H-es ASUNCELL Batería del Ordenador portátil para ASUS X551...'
+tags: asus, ordenador
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

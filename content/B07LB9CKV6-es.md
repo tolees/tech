@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f+nmLX1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB9CKV6-es'
+slug: 'B07LB9CKV6-es Lenovo Yoga 530-14ARR - Portátil Táctil Convertible de 14"...'
+tags: lenovo, ram, teclado
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

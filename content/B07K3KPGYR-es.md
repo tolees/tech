@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vOFfoXzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3KPGYR-es'
+slug: 'B07K3KPGYR-es Harman Kardon Onyx 5 - Altavoz portátil Bluetooth 4.2...'
+tags: bluetooth, altavoz
 actualPrice: 177.4 EUR
 currency: EUR
 price: 177.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c2dFNphML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLX8KK-es'
+slug: 'B085LLX8KK-es MKTOSASA - Auriculares Bluetooth® Doble función:...'
+tags: auriculares
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

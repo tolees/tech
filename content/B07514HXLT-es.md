@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NWtjERYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07514HXLT-es'
+slug: 'B07514HXLT-es HP Envy Photo 6230 – Impresora multifunción inalámbrica...'
+tags: impresora
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

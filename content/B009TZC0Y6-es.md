@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Izx7LvPsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009TZC0Y6-es'
+slug: 'B009TZC0Y6-es D-Link GO-SW-8G - Switch 8 Puertos Gigabit Ethernet LAN...'
+tags: gigabit
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

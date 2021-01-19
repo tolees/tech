@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31gKut3TC7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXPV2FJ-es'
+slug: 'B01MXPV2FJ-es Energy Sistem Tower 1 - Sistema de altavoces en torre con...'
+tags: bluetooth
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

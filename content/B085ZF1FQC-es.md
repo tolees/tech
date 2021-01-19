@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WS-Xa7hUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZF1FQC-es'
+slug: 'B085ZF1FQC-es LarmTek 1080P Full HD Webcam cámara para ordenador...'
+tags: 1080p, ordenador, full, hd
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

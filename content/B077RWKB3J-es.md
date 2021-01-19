@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413yYP1lbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RWKB3J-es'
+slug: 'B077RWKB3J-es Sennheiser GSP 600 - Auriculares Cerrados para Juegos...'
+tags: auriculares
 actualPrice: 205.57 EUR
 currency: EUR
 price: 205.57

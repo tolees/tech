@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313IcmqH8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF9M2PK-es'
+slug: 'B07WF9M2PK-es HyperX Fury HX432C16FB3AK2/16 Memoria RAM DIMM DDR4 Kit...'
+tags: ram
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

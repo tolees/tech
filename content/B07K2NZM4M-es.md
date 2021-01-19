@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QNzMvYUJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NZM4M-es'
+slug: 'B07K2NZM4M-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
+tags: apple, ram
 actualPrice: 1169.0 EUR
 currency: EUR
 price: 1169.0

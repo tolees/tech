@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61I5sx3eFAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074M46VVS-es'
+slug: 'B074M46VVS-es ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara...'
+tags: arduino
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

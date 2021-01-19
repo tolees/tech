@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qL+JiBAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMFCNS5-es'
+slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para...'
+tags: asus, ordenador
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

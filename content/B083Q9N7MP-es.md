@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IczUZNrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Q9N7MP-es'
+slug: 'B083Q9N7MP-es Lámpara Proyector Amouhom Proyector Estrellas & Océano 2...'
+tags: bluetooth
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

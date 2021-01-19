@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvBQ-BvHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFHCHRD-es'
+slug: 'B07DFHCHRD-es Syncwire Cable iPhone Cable Lightning a USB 1m - [MFi...'
+tags: iphone
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

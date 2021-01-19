@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sEXXJkkhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DIJIDKI-es'
+slug: 'B01DIJIDKI-es Logitech G240 Alfombrilla de Ratón Gaming de Tela para...'
+tags: logitech, ratón
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

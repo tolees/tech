@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FHRAc75YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKKSJZ7-es'
+slug: 'B06XKKSJZ7-es Mophie Juice Pack Air Funda para teléfono móvil 14 cm 5.5"...'
+tags: apple, iphone, móvil
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

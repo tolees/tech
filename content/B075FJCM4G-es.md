@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514rb9CxEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FJCM4G-es'
+slug: 'B075FJCM4G-es Spigen Rugged Armor Pro Compatible con Apple Watch Funda...'
+tags: apple
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

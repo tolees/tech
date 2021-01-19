@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ESXxFacBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071J8CGMC-es'
+slug: 'B071J8CGMC-es Garmin VIRB 360 C&ampaacutemara de accci&ampoacuten con...'
+tags: garmin, gps
 actualPrice: 676.16 EUR
 currency: EUR
 price: 676.16

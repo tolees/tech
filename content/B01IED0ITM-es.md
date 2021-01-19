@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HKifBnBEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IED0ITM-es'
+slug: 'B01IED0ITM-es ZOWEETEK® Hub USB 3.0 de 3 Puertos + 1 Puerto Ethernet...'
+tags: gigabit, tablet
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

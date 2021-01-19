@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dBMMr-ihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1VGW4D-es'
+slug: 'B08B1VGW4D-es WINMI para Huawei Y6p Funda Color Degradado Silicona TPU...'
+tags: huawei
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

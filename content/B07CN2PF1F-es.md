@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LUUdvVFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN2PF1F-es'
+slug: 'B07CN2PF1F-es Auriculares Bluetooth Syllable D900P Auriculares...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

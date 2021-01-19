@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21fG5T74X7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN68CN1-es'
+slug: 'B07PN68CN1-es Funda billetera Samsung para Samsung Galaxy A70 Funda...'
+tags: galaxy, samsung, smartphone
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

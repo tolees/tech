@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415EjWocxLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JXBW4C-es'
+slug: 'B081JXBW4C-es Looffy Memoria USB para iPhone y iPad Memoria Flash Drive...'
+tags: iphone, móvil
 actualPrice: 32.39 EUR
 currency: EUR
 price: 32.39

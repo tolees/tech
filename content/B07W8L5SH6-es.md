@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dgUPUZLNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8L5SH6-es'
+slug: 'B07W8L5SH6-es MyHGRC - Mando a distancia para reproductor de DVD...'
+tags: samsung
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

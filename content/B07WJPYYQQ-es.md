@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510JC6RiBTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJPYYQQ-es'
+slug: 'B07WJPYYQQ-es Mars Gaming MKXTKL teclado mecánico switch rojo LED 5...'
+tags: teclado
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

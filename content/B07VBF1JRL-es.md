@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zsogqNIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBF1JRL-es'
+slug: 'B07VBF1JRL-es Hunletai Cable iPhone Cable Lightning [3Pack 1M 1M 2M]...'
+tags: iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

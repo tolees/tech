@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412TPcKed3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8BP8TS-es'
+slug: 'B07R8BP8TS-es KFD Cargador USB Tipo C 90W USB C Adaptador de Pared para...'
+tags: asus, dell, lenovo
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

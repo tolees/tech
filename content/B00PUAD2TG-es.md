@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412G90LEloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PUAD2TG-es'
+slug: 'B00PUAD2TG-es Belkin Boosy Up - Cargador para Coche Universal con Cable...'
+tags: iphone
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

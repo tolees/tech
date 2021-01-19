@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jDn8ip8yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KPTBQH-es'
+slug: 'B082KPTBQH-es PiAEK WiFi Adaptador USB 1200Mbps Antena WiFi USB AC 5dBi...'
+tags: wifi
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

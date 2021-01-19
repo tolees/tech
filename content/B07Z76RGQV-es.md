@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416god1bfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z76RGQV-es'
+slug: 'B07Z76RGQV-es LNMBBS 4G LTE Tablet 10.1" Full HD Tableta Android 10.0 OS...'
+tags: gps, lte, ram, tablet, wifi, full, hd
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

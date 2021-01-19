@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UkmVhCY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07575RRNH-es'
+slug: 'B07575RRNH-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
+tags: garmin
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

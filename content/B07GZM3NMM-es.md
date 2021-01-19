@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CiAHdP6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZM3NMM-es'
+slug: 'B07GZM3NMM-es 【2020 Nueva Versión】 CHORTAU Camara de Coche Retrovisor 7...'
+tags: 1080p, full, hd
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

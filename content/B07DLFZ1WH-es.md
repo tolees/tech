@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MjS+O9oLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLFZ1WH-es'
+slug: 'B07DLFZ1WH-es Sony Stativ VCT-SGR1 tripode Cámara de acción 3 Pata s...'
+tags: sony
 actualPrice: 96.39 EUR
 currency: EUR
 price: 96.39

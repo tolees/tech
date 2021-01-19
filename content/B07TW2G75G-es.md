@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410u7AGd72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW2G75G-es'
+slug: 'B07TW2G75G-es Lenovo S340-15IWL - Ordenador portátil 15.6" FullHD Intel...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 641.16 EUR
 currency: EUR
 price: 641.16

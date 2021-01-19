@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MwmC6UfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5ARU9A-es'
+slug: 'B01N5ARU9A-es Ink Seller - Cartuchos de tinta para impresora compatibles...'
+tags: impresora
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-NuYS1I+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ORBQ8U-es'
+slug: 'B004ORBQ8U-es OKI 403922 - Impresora matricial USB 240 x 216 dpi Color...'
+tags: impresora
 actualPrice: 574.02 EUR
 currency: EUR
 price: 574.02

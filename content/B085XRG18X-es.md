@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41axN8RuXiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRG18X-es'
+slug: 'B085XRG18X-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: galaxy, samsung
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

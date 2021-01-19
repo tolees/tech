@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZsegQxroL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBTPMYH-es'
+slug: 'B07SBTPMYH-es Auriculares Bluetooth 5.0 Amazco XG-13 Auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tPOLNBEfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MCXN2V-es'
+slug: 'B075MCXN2V-es Cable USB Tipo C CHOETECH USB C a USB 3.0 2 x 2M + 1M...'
+tags: galaxy, huawei, samsung
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

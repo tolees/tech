@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HEkkvNfFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ1H78N-es'
+slug: 'B07QJ1H78N-es Gigaset AS690 Duo - Teléfono Inalámbrico Pack de 2...'
+tags: gigaset
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

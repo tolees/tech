@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eooy7ll7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LPKG7P-es'
+slug: 'B087LPKG7P-es Oihxse Silicona Funda con Huawei Nova 3i/P Smart/Enjoy 7S...'
+tags: huawei
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

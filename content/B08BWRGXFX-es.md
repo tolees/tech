@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BWRGXFX-es'
+slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa...'
+tags: huawei
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

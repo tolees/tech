@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UC7YXwNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y69MRGS-es'
+slug: 'B06Y69MRGS-es Fujifilm Instax Mini 9 - Cámara instantánea Solo cámara...'
+tags: fujifilm
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

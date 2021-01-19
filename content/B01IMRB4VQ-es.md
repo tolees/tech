@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RhAfzzdAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IMRB4VQ-es'
+slug: 'B01IMRB4VQ-es Webcam 1080P HD PAPALOOK Web Cámara con Micrófono para...'
+tags: 1080p
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ae76sZ1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079X5M6ZL-es'
+slug: 'B079X5M6ZL-es Samsung SM-G960FZKDPHE Galaxy S9 - Smartphone de 5.8" Wi-...'
+tags: bluetooth, galaxy, ram, samsung, smartphone
 actualPrice: 559.0 EUR
 currency: EUR
 price: 559.0

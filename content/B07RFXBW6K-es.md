@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IZGZahwRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFXBW6K-es'
+slug: 'B07RFXBW6K-es ASUS ZenBook 14 UX431FA-AM021T - Ordenador portátil de 14"...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

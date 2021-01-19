@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pHS20TMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNR1V1N-es'
+slug: 'B07XNR1V1N-es WIWJ Funda para Samsung Galaxy A8 2018 Carcasa Hollow...'
+tags: galaxy, samsung
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

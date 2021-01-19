@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FMtcvlxVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5LV5KM-es'
+slug: 'B07F5LV5KM-es IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI...'
+tags: ps4, xbox
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

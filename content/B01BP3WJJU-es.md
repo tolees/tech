@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xdeaJIBSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BP3WJJU-es'
+slug: 'B01BP3WJJU-es HP PageWide Pro 477dw MFP Impresora inyección de tinta...'
+tags: impresora
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

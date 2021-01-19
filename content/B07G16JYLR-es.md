@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tw-iW9TML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G16JYLR-es'
+slug: 'B07G16JYLR-es Auricular Bluetooth V4.1 Magnético Auriculares Deportivos...'
+tags: auriculares, bluetooth, iphone
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

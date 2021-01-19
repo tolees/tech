@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FqhGWRGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHBY3HX-es'
+slug: 'B07QHBY3HX-es Ayuly Ratón Gaming Ratones Gaming Programable 2400 dpi...'
+tags: ratón
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HsKhjoN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSQ3VSW-es'
+slug: 'B08CSQ3VSW-es Soporte Portatil Laptop Stand Aluminio Ventilado...'
+tags: dell, ordenador, samsung
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

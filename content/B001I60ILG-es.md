@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WsCaHLV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001I60ILG-es'
+slug: 'B001I60ILG-es König CMP-MIC9 - Mini micrófono omnidireccional flexible...'
+tags: móvil
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

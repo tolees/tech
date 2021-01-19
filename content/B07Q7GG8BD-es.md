@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N7Z3K77vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7GG8BD-es'
+slug: 'B07Q7GG8BD-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
+tags: auriculares, bluetooth, huawei, iphone, samsung
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

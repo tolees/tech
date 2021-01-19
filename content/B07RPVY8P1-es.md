@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eua8eWjtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPVY8P1-es'
+slug: 'B07RPVY8P1-es Moviles Libres 4G Smartphone Libres 5 Pulgadas 1 GB RAM y...'
+tags: ram, smartphone, wifi
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

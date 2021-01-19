@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21m7Y66fO6L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQG9DDU-es'
+slug: 'B00DQG9DDU-es SanDisk Memoria Flash Ultra USB 3.0 de 16 GB hasta 130...'
+tags: sandisk
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

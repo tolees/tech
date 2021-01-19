@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419qJOZ5uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7D1QNK-es'
+slug: 'B08F7D1QNK-es Adaptador WiFi USB WiFi Antena USB WiFi Adaptador...'
+tags: wifi
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

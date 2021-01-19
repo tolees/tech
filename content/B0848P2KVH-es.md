@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414UKEM7YPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848P2KVH-es'
+slug: 'B0848P2KVH-es 7hSevenOn Home Termostato WiFi para Calefacción o Aire...'
+tags: wifi
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

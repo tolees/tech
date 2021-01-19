@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dhC7sNqXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8ZDYY1-es'
+slug: 'B07P8ZDYY1-es NGS Artica Pride- Auriculares de Diadema estéreo...'
+tags: auriculares, bluetooth
 actualPrice: 14.37 EUR
 currency: EUR
 price: 14.37

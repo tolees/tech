@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xCvY+okOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRLCBNV-es'
+slug: 'B07WRLCBNV-es EZVIZ C1mini 1080p IP - Cámara de Seguridad 2.4GHz WiFi...'
+tags: 1080p, alexa, wifi
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

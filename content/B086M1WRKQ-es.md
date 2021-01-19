@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wlZfQy32L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M1WRKQ-es'
+slug: 'B086M1WRKQ-es Seagate Game Drive para PS4 2 TB Disco duro portátil...'
+tags: ps4, disco, duro
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

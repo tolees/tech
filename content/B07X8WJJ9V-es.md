@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XakVT2jQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8WJJ9V-es'
+slug: 'B07X8WJJ9V-es Garmin - Reloj GPS con Pulsómetro Fenix 6X Zafiro'
+tags: garmin, gps
 actualPrice: 701.61 EUR
 currency: EUR
 price: 701.61

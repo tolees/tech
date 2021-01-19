@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LEeZAEHcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLJJQG7-es'
+slug: 'B07GLJJQG7-es SKYEE Adaptador USB C a Micro USB con Llavero [4 Unidades]...'
+tags: galaxy, huawei, samsung
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

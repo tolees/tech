@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XhXOc5IvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2ST5YX-es'
+slug: 'B07X2ST5YX-es Realme 3 Pro 6GB 128GB Smartphone 6 3 Snapdragon 710...'
+tags: smartphone
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

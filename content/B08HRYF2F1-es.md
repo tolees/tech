@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oLyeGgnUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HRYF2F1-es'
+slug: 'B08HRYF2F1-es Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe...'
+tags: asus
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

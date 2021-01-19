@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yzy7MoUWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7VFDQF-es'
+slug: 'B07P7VFDQF-es Enchufe de pared con USB 2.8A Schuko Enchufe Blanco...'
+tags: smartphone, tablet
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

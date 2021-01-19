@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4101aGlq4hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R19JPSR-es'
+slug: 'B07R19JPSR-es Provide the best 4pcs / Set Universal de reemplazo...'
+tags: móvil
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

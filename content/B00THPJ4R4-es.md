@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518GXW6rwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00THPJ4R4-es'
+slug: 'B00THPJ4R4-es Sigma 24 mm/F 1.4 DG HSM Art - Objetivo para Nikon Color...'
+tags: nikon
 actualPrice: 584.3 EUR
 currency: EUR
 price: 584.3

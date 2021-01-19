@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817VDMSJ-es'
+slug: 'B0817VDMSJ-es Auricular Bluetooth Verdadero Deporte inalámbrico...'
+tags: auriculares, bluetooth
 actualPrice: 59 EUR
 currency: EUR
 price: 59

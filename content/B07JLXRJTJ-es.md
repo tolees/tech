@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414MnTv0iNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLXRJTJ-es'
+slug: 'B07JLXRJTJ-es YaYuu Compatible Samsung Galaxy Watch Active/Active2 40mm...'
+tags: galaxy, samsung
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z+smHnSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XYCGR3-es'
+slug: 'B073XYCGR3-es Xinda Huawei Mediapad T3 7 Funda- Slim Smart Cover Funda...'
+tags: huawei, wifi
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

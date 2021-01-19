@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418pkD4IasL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WZXDT4-es'
+slug: 'B087WZXDT4-es Cocoda Soporte Portatil 8 Niveles Adjustable Ventilado...'
+tags: lenovo, ordenador
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

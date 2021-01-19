@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qWHlpIMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KYVGQ4I-es'
+slug: 'B01KYVGQ4I-es YATEK Localizador GPS portatil Inteligente gsm para...'
+tags: gps
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

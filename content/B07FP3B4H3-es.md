@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RlhNWG4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP3B4H3-es'
+slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de...'
+tags: iphone
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V3TM4KvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHNF9JN-es'
+slug: 'B07VHNF9JN-es 6 En 1 HUB USB C para iPad Pro 2018/2020 Hommie Adaptador...'
+tags: auriculares
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

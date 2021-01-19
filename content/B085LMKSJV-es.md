@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NObZx3QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LMKSJV-es'
+slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función...'
+tags: bluetooth, altavoz
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

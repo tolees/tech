@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+K9f2iwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CV5Z4T-es'
+slug: 'B087CV5Z4T-es Cámara Web con micrófono cámara Web Full HD 1296P cámara...'
+tags: full, hd
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

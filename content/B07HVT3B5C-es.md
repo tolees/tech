@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411q3S9koBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVT3B5C-es'
+slug: 'B07HVT3B5C-es Auriculares Bluetooth Inalámbricos Vigorun Auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

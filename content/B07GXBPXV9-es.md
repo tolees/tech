@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xNHXcnJWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXBPXV9-es'
+slug: 'B07GXBPXV9-es PNI ZN101 - Ordenador portátil de 10.6" Intel Z8350 2 GB...'
+tags: ordenador, ram, disco, duro
 actualPrice: 219.26 EUR
 currency: EUR
 price: 219.26

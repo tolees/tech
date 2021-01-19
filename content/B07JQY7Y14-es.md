@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21+44IOLVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQY7Y14-es'
+slug: 'B07JQY7Y14-es ASUS PB60-B3105ZV - Mini ordenador de sobremesa Intel Core...'
+tags: asus, ordenador, ram
 actualPrice: 519.0 EUR
 currency: EUR
 price: 519.0

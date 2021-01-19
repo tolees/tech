@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MSYANT7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNH9TJS-es'
+slug: 'B08DNH9TJS-es HDMI a SCART Convertidor convierte la señal digital de...'
+tags: 1080p
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

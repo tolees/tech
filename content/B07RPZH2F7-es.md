@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SIfGcT2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPZH2F7-es'
+slug: 'B07RPZH2F7-es Godox AD200Pro Pocket Flash Portatil inalámbrico TTL con...'
+tags: fujifilm, nikon, sony
 actualPrice: 283.48 EUR
 currency: EUR
 price: 283.48

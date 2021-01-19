@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4166upzkm2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRG6DSY-es'
+slug: 'B07HRG6DSY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
+tags: bluetooth, altavoz
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

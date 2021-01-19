@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iH9tSQlvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2XQ2X1-es'
+slug: 'B07P2XQ2X1-es Batería Externa 25000mAh Power Bank Alta Capacidad con 2...'
+tags: huawei, iphone, samsung
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

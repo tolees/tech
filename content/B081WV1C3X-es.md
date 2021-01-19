@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uypH8KeYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081WV1C3X-es'
+slug: 'B081WV1C3X-es Siikii Soporte para teléfono móvil Soporte para teléfono...'
+tags: iphone, móvil
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

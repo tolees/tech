@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W1wk0aaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FQN6ZQ9-es'
+slug: 'B08FQN6ZQ9-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
+tags: nintendo, nintendo, switch
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

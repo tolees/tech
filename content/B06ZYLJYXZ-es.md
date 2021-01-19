@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CX15aFK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYLJYXZ-es'
+slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
+tags: galaxy, samsung, sony
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

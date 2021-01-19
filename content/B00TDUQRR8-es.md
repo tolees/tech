@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IjZkrMP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TDUQRR8-es'
+slug: 'B00TDUQRR8-es Belkin F8M730btGRY - Cargador Premium para el coche USB 12...'
+tags: iphone
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

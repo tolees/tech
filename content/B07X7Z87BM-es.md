@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CNhQSFC7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7Z87BM-es'
+slug: 'B07X7Z87BM-es perfk Enrutador Móvil 4g Punto de Acceso Móvil WiFi para...'
+tags: lte, móvil, wifi
 actualPrice: 47.34 EUR
 currency: EUR
 price: 47.34

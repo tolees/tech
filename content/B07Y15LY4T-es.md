@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eGM6sPUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y15LY4T-es'
+slug: 'B07Y15LY4T-es Mini Cámara Espía Oculta Mini Cámara de Vigilancia con...'
+tags: 1080p
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X0miA+7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8JZYG6-es'
+slug: 'B07K8JZYG6-es MOSNOVO Ultra Hybrid Funda iPhone XR Funda protección...'
+tags: apple, iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

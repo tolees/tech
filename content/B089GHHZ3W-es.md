@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518g0W1SMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GHHZ3W-es'
+slug: 'B089GHHZ3W-es sumgott Soporte Portátil Aluminio Ventilado Soporte...'
+tags: dell, ordenador
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

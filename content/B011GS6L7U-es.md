@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lNlkLlbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011GS6L7U-es'
+slug: 'B011GS6L7U-es Devolo dLAN 500 duo Sarter KIT- Kit de inicio de adaptador...'
+tags: plc
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

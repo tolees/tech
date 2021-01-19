@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517Ph30V4NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGX3T6D-es'
+slug: 'B07HGX3T6D-es Cámara de Vigilancia 2MP Cámara De Seguridad Aottom 1080P...'
+tags: 1080p
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

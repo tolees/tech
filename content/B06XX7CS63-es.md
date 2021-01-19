@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cTEYTU2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX7CS63-es'
+slug: 'B06XX7CS63-es KFD 65W Adaptador Cargador Portátil para Lenovo IdeaPad...'
+tags: lenovo
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

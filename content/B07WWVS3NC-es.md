@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RjWtOH+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWVS3NC-es'
+slug: 'B07WWVS3NC-es Tableta 10 Pulgadas LAMZIEN Android 8.1 Tablet Infantil...'
+tags: bluetooth, ram, tablet, wifi
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

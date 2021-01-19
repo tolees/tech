@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vlKsG8SAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FPQFL1-es'
+slug: 'B079FPQFL1-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
+tags: ordenador
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

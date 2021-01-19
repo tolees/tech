@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YUregOOvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBWPFNT-es'
+slug: 'B07LBWPFNT-es iWotto Altavoces Duo Estereo Bluetooth Imantados Stereo...'
+tags: bluetooth
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

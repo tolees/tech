@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OH+yeKHwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819DX3DD-es'
+slug: 'B0819DX3DD-es PUTORSEN® Soporte de Monitor pc - Elevador de Monitor 8cm...'
+tags: impresora, ordenador
 actualPrice: 27.87 EUR
 currency: EUR
 price: 27.87

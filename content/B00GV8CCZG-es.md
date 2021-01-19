@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jt2vhDp5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GV8CCZG-es'
+slug: 'B00GV8CCZG-es Magnat Monitor Supreme Sub 202 - Altavoz'
+tags: altavoz
 actualPrice: 219.67 EUR
 currency: EUR
 price: 219.67

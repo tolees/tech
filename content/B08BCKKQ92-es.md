@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EZItZS-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCKKQ92-es'
+slug: 'B08BCKKQ92-es SYOSIN Luz de Anillo Palo Selfie Anillo de Luz LED con...'
+tags: móvil
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

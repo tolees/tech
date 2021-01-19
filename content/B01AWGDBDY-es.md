@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312yOyoxM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWGDBDY-es'
+slug: 'B01AWGDBDY-es Brother ADS2800W - Escáner departamental de alta velocidad...'
+tags: wifi
 actualPrice: 452.0 EUR
 currency: EUR
 price: 452.0

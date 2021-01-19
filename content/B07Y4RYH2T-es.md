@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hvj1t1iGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4RYH2T-es'
+slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED...'
+tags: galaxy, huawei, iphone, móvil, nintendo, samsung, nintendo, switch
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

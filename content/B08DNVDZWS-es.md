@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512RmjxLicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNVDZWS-es'
+slug: 'B08DNVDZWS-es Altavoz Bluetooth portátil ajustable 7 colores sonido...'
+tags: bluetooth, altavoz
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

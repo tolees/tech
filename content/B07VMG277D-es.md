@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415wloc6MXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMG277D-es'
+slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g Octa-...'
+tags: ram, smartphone
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

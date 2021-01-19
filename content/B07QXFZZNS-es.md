@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iCDg9ikYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXFZZNS-es'
+slug: 'B07QXFZZNS-es Brazalete deportivo Universal Impermeable Teléfono Móvil...'
+tags: móvil
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

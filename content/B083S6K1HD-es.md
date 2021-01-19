@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tnt0jvqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083S6K1HD-es'
+slug: 'B083S6K1HD-es CRAPHY Trípode de Cámara Móvil Monopie Ligero Aluminio...'
+tags: canon, móvil, nikon, smartphone, sony
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GSZZs1CZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NYQPB6U-es'
+slug: 'B00NYQPB6U-es HP Officejet Pro 6230 - Impresora de tinta- B/N 18 PPM...'
+tags: impresora
 actualPrice: 65.44 EUR
 currency: EUR
 price: 65.44

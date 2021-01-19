@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kNyUF14UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKQMLGP-es'
+slug: 'B08DKQMLGP-es HHUIWIND Funda Xiaomi Redmi 9 + Cristal Templado Protector...'
+tags: xiaomi
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

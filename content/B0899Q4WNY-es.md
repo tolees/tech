@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z27xiJfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899Q4WNY-es'
+slug: 'B0899Q4WNY-es Tira LED Bluetooth 10M VITCOCO Luces de Tiras LED WiFi RGB...'
+tags: bluetooth, wifi
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

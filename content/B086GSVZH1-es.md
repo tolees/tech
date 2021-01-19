@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ff6jcoCiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GSVZH1-es'
+slug: 'B086GSVZH1-es Oihxse Compatible con Huawei Nova 6SE Funda Suave Gel TPU...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGZw5gUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYRNGH5-es'
+slug: 'B07PYRNGH5-es Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona...'
+tags: móvil, xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

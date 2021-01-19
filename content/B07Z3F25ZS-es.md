@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Bl1TqYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3F25ZS-es'
+slug: 'B07Z3F25ZS-es Proyector YABER 6200 Lúmenes Proyector Full HD 1920x1080P...'
+tags: ps4, full, hd
 actualPrice: 179.59 EUR
 currency: EUR
 price: 179.59

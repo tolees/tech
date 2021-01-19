@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IzlLIamjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W11KJGD-es'
+slug: 'B07W11KJGD-es havit Ratón Gaming 7 Botones Mouse Gaming programables...'
+tags: ratón
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

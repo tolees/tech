@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jg01B2ZYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Y59CTK-es'
+slug: 'B083Y59CTK-es Altavoz Mosqueton iWotto Bluetooth Speaker Hook iWotto...'
+tags: bluetooth, altavoz
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

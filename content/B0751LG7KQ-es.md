@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CFAHTjPqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751LG7KQ-es'
+slug: 'B0751LG7KQ-es Canon CLI-581XL C Cartucho de tinta original Cian XL para...'
+tags: canon, impresora
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

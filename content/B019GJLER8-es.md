@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZeoiLkGYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019GJLER8-es'
+slug: 'B019GJLER8-es Anker PowerCore 10000 mAh - Batería externa Power Bank...'
+tags: galaxy, iphone, samsung
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

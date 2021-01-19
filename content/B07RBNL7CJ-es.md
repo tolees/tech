@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pIEnSJO8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBNL7CJ-es'
+slug: 'B07RBNL7CJ-es Ratón Gaming inalámbrico/cableado DELUX Ratón para juegos...'
+tags: ratón
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

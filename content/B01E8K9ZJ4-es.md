@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E8K9ZJ4-es'
+slug: 'B01E8K9ZJ4-es Ayotu Water-Safe Case for Kindle Paperwhite 2018 - PU...'
+tags: kindle
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

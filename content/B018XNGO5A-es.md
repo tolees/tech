@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YbRMYSBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018XNGO5A-es'
+slug: 'B018XNGO5A-es Aftershokz Trekz Titanium Auriculares deportivas con...'
+tags: auriculares, bluetooth
 actualPrice: 58.39 EUR
 currency: EUR
 price: 58.39

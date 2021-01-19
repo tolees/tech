@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gRWyqvK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J5QQ8X-es'
+slug: 'B083J5QQ8X-es LoveOlvido NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco...'
+tags: disco, duro
 actualPrice: 21.71 EUR
 currency: EUR
 price: 21.71

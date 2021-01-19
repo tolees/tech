@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zmCH7F5tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FRD3SE-es'
+slug: 'B019FRD3SE-es Crucial CT2K4G4SFS624A Kit de Memoria RAM de 8 GB 4 GB x 2...'
+tags: ram
 actualPrice: 33.87 EUR
 currency: EUR
 price: 33.87

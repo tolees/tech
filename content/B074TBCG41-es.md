@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dpbwLhRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TBCG41-es'
+slug: 'B074TBCG41-es Tronsmart T6 Altavoz Bluetooth 25W 360° Sonido Grave...'
+tags: bluetooth, móvil, altavoz
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

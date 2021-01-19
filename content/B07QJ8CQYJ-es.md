@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4196hXips-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ8CQYJ-es'
+slug: 'B07QJ8CQYJ-es Funda de Silicona para Fire TV Stick 4K Control Remoto...'
+tags: alexa, fire, tv, stick
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GhgGeO1vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HIB4O6Y-es'
+slug: 'B01HIB4O6Y-es ICZI Cable DisplayPort a HDMI 1.8m Cable Adaptador DP a...'
+tags: 1080p, ordenador
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

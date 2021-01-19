@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413+GrcjZ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6CLXNY-es'
+slug: 'B07Z6CLXNY-es Supore Correa Galaxy Watch Active 40mm Correas de Silicona...'
+tags: galaxy
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

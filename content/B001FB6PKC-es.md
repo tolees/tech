@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51u97c5VivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FB6PKC-es'
+slug: 'B001FB6PKC-es Tamron SP AF 90 mm F/2.8 di Macro 1:1 - Objetivo para...'
+tags: nikon
 actualPrice: 373.0 EUR
 currency: EUR
 price: 373.0

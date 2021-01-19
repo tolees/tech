@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-gRYUBGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7RPGSC-es'
+slug: 'B00Z7RPGSC-es LifeProof Fre - Funda estanca y Anti caídas para Apple...'
+tags: apple, iphone
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

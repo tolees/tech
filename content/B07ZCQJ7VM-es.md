@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kklFmDPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCQJ7VM-es'
+slug: 'B07ZCQJ7VM-es ESR Cargador Inalámbrico Rápido 7.5W Carga rápida para...'
+tags: galaxy, iphone
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

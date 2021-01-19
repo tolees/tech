@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516smO4A1hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVXH1W2-es'
+slug: 'B07DVXH1W2-es TENGGO Reemplazo De Banda De Reloj Pulsera Correa De...'
+tags: garmin
 actualPrice: 7.05 EUR
 currency: EUR
 price: 7.05

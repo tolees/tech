@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oq9mrTuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9PGMBR-es'
+slug: 'B07B9PGMBR-es Adaptador de enchufe macho RCA a terminal AV hembra de 2...'
+tags: altavoz
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

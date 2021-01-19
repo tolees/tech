@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7JA4EG-es'
+slug: 'B01J7JA4EG-es Hiditec Ratón Gaming Alámbrico Blitz - Sensor Profesional...'
+tags: ordenador, ps4, ratón, xbox
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

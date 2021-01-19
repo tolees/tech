@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XwTUGN2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ73WLC-es'
+slug: 'B08BJ73WLC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+tags: auriculares, bluetooth
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

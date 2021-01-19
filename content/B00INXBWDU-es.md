@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bg8D1lRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00INXBWDU-es'
+slug: 'B00INXBWDU-es Huawei E5330 - Punto de Acceso inalámbrico Hotspot HSPA+'
+tags: huawei
 actualPrice: 45.64 EUR
 currency: EUR
 price: 45.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UDJdofUfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKDXDH3-es'
+slug: 'B07NKDXDH3-es iAmotus Ratón Inalámbrico Recargable 2.4G Ratón Óptico...'
+tags: ratón
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

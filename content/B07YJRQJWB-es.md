@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eRzzAlGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJRQJWB-es'
+slug: 'B07YJRQJWB-es Oihxse Funda Compatible para Samsung Galaxy J4 2018 Ultra...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

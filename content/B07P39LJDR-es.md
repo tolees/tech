@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+A922rvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P39LJDR-es'
+slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales...'
+tags: iphone, móvil, xiaomi
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

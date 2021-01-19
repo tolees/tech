@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mbehcWXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LX4SV8-es'
+slug: 'B087LX4SV8-es Oihxse Cristal Compatible con Huawei Mate 10 Lite Funda...'
+tags: huawei
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

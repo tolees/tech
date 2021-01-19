@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OyyqRTHvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SS37Y3J-es'
+slug: 'B07SS37Y3J-es Philips Hue White Ambiance bombilla LED inteligente E27...'
+tags: alexa, bluetooth, google, home
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

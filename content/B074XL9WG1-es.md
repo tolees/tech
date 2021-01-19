@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pBA8mrL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XL9WG1-es'
+slug: 'B074XL9WG1-es Microsoft Surface ARC Mouse Bluetooth Gris Claro'
+tags: bluetooth, microsoft
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

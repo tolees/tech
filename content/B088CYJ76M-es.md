@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LXBt+swCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CYJ76M-es'
+slug: 'B088CYJ76M-es Cámara Web 1080P con Micrófono Computadora Portátil PC de...'
+tags: 1080p, full, hd
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

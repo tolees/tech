@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f3J2-jMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZBT6KG-es'
+slug: 'B07XZBT6KG-es Dell - PC Optiplex 7010 SFF- Ordenador de sobremesa Intel...'
+tags: dell, ordenador, ram
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

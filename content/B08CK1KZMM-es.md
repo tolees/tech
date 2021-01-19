@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ab-c0WE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK1KZMM-es'
+slug: 'B08CK1KZMM-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
+tags: xbox, disco, duro
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

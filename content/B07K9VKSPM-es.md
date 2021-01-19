@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41igY3nfAwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9VKSPM-es'
+slug: 'B07K9VKSPM-es Powerextra Sony NP-FZ100 2 Baterias con Carcador Pantalla...'
+tags: sony
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GXmwg7YUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFQHSKR-es'
+slug: 'B07YFQHSKR-es Fanlce Repetidor WiFi，Banda Dual Amplificador de WiFi...'
+tags: wifi
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

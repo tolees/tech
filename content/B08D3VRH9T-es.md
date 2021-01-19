@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c4MbbqO7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3VRH9T-es'
+slug: 'B08D3VRH9T-es AA59-00638A Mando a distancia para Samsung Smart 3D LCD...'
+tags: samsung
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

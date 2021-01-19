@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S5zWZoPpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ENSZBWG-es'
+slug: 'B01ENSZBWG-es Panasonic EW1411H845 - Irrigador Bucal Eléctrico Portátil...'
+tags: panasonic
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a9dfdoz5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QLL01BA-es'
+slug: 'B00QLL01BA-es ASUS VX24AH - Monitor de 23.8" 2560 x 1440 píxeles 300...'
+tags: asus
 actualPrice: 279.04 EUR
 currency: EUR
 price: 279.04

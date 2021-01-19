@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kuUTmuioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSZQ1W1-es'
+slug: 'B07FSZQ1W1-es [2017 SADES SA807 Nueva Xbox one PS4 Gaming Headset]...'
+tags: auriculares, ps4, xbox
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

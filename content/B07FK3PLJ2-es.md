@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZCyzQky3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK3PLJ2-es'
+slug: 'B07FK3PLJ2-es Samsung MG23J5133AK/EC Microondas con Grill 23 Litros de...'
+tags: samsung
 actualPrice: 81.82 EUR
 currency: EUR
 price: 81.82

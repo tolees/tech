@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B2dBIH8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009L1UZAE-es'
+slug: 'B009L1UZAE-es HP X4500 - Ratón inalámbrico USB Sensor láser Windows...'
+tags: ratón
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

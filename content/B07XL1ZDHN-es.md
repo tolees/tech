@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MUy+HBb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL1ZDHN-es'
+slug: 'B07XL1ZDHN-es SAFETYON Accesorios para iRobot Roomba Serie 600 - Roomba...'
+tags: irobot, roomba
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

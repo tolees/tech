@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S8lFLim0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQDD442-es'
+slug: 'B07MQDD442-es LaCie Mobile Drive 2 TB Disco duro externo HDD portátil...'
+tags: ordenador, disco, duro
 actualPrice: 80.48 EUR
 currency: EUR
 price: 80.48

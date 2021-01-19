@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412O+ZMLbtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QMWP6F-es'
+slug: 'B085QMWP6F-es NGS Roller Coaster Blue - Altavoz portátil de 10W...'
+tags: bluetooth, altavoz
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

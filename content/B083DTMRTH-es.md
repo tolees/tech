@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iVzKpGvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DTMRTH-es'
+slug: 'B083DTMRTH-es UGREEN Alfombrillas de Ratón Aluminio Impermeable...'
+tags: ordenador, ratón
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

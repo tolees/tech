@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kU-j1XQNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDHPRSN-es'
+slug: 'B07GDHPRSN-es BlueFire Cascos Gaming con Micrófono Auriculares PS4...'
+tags: auriculares, ps4, xbox
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G3hX8XMzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXR48Z3-es'
+slug: 'B07FXR48Z3-es Corsair Strafe RGB MK.2 MX Silent- Teclado mecánico para...'
+tags: teclado
 actualPrice: 127.69 EUR
 currency: EUR
 price: 127.69

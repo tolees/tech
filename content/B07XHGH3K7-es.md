@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5141MMrYg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHGH3K7-es'
+slug: 'B07XHGH3K7-es Solar PowerBank 26800mAh Cargador Solar QI Carga...'
+tags: móvil
 actualPrice: 35.62 EUR
 currency: EUR
 price: 35.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n32gwWFGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5YFPRH-es'
+slug: 'B08B5YFPRH-es eXtremeRate Botones para Nintendo Switch Botón ABXY Botón...'
+tags: nintendo, nintendo, switch
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

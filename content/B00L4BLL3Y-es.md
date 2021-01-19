@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dp8XQ-r4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L4BLL3Y-es'
+slug: 'B00L4BLL3Y-es Panasonic Lumix DMC FZ1000 - Cámara Bridge de 20.1 MP...'
+tags: panasonic, wifi
 actualPrice: 561.95 EUR
 currency: EUR
 price: 561.95

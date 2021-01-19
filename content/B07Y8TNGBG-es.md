@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ld+xsSEJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8TNGBG-es'
+slug: 'B07Y8TNGBG-es Bruni Película Protectora Compatible con Huawei Watch GT 2...'
+tags: huawei
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

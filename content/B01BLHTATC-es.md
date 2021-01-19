@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xLmkXSyDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLHTATC-es'
+slug: 'B01BLHTATC-es Primewire 10m Cable de Red Gigabit Ethernet Cat 7-10000...'
+tags: gigabit
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v2gyWvWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MPXKZ-es'
+slug: 'B0797MPXKZ-es Huawei E5885 - Wi-Fi Móvil 300Mbps de conexión inalámbrica...'
+tags: huawei, móvil
 actualPrice: 121.4 EUR
 currency: EUR
 price: 121.4

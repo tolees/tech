@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416zbGYA1dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Y24MRV-es'
+slug: 'B085Y24MRV-es HKY 65W 15V 4A Adaptador Cargador para Microsoft Surface...'
+tags: microsoft
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

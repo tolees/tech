@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CaoywDgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZXCNF-es'
+slug: 'B07WBZXCNF-es YISSVIC WIFI Tira LED Tiras de LED Inteligente 5m 5050RGB...'
+tags: alexa, wifi, google, home
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

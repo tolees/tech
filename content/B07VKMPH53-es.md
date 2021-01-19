@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QhjlEk8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKMPH53-es'
+slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados Cable USB 2.0 a USB C...'
+tags: samsung, xiaomi
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

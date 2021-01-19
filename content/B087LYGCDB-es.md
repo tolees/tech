@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a+GzEwxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LYGCDB-es'
+slug: 'B087LYGCDB-es Oihxse Cristal Compatible con Samsung Galaxy J730/J7 Pro...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

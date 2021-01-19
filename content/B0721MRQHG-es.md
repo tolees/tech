@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PuCGz6FPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721MRQHG-es'
+slug: 'B0721MRQHG-es Panasonic Lumix DC-TZ90EG-K Cámara Compacta de 20 3 MP...'
+tags: panasonic, wifi
 actualPrice: 325.0 EUR
 currency: EUR
 price: 325.0

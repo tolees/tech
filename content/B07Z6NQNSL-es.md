@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T1KlCRtAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6NQNSL-es'
+slug: 'B07Z6NQNSL-es ASUS ROG Strix G731GU-H7154T - Portátil Gaming de 17 3"...'
+tags: asus, ram, teclado
 actualPrice: 1199 EUR
 currency: EUR
 price: 1199

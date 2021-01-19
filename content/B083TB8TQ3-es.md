@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Od19b+sBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TB8TQ3-es'
+slug: 'B083TB8TQ3-es Oihxse Case Transparente Suave TPU Compatible con Huawei...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

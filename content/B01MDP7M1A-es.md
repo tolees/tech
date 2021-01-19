@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DAJ28VlUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDP7M1A-es'
+slug: 'B01MDP7M1A-es Microsoft Surface Pro - Cargador para laptop'
+tags: microsoft
 actualPrice: 75.09 EUR
 currency: EUR
 price: 75.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cXIlsdyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CJSGFH-es'
+slug: 'B071CJSGFH-es POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh...'
+tags: huawei, iphone, samsung
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

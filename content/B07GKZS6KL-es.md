@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qHN8YuOJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKZS6KL-es'
+slug: 'B07GKZS6KL-es uni Adaptador USB C a USB 3.1[OTG] Adaptador USB...'
+tags: huawei, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

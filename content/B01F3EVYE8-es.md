@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jJCDL6MFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F3EVYE8-es'
+slug: 'B01F3EVYE8-es Fotopro Palo Selfie para Gopro Selfie Stick con Mini...'
+tags: bluetooth, iphone, samsung
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

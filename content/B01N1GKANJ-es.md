@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414+p0+5ZgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1GKANJ-es'
+slug: 'B01N1GKANJ-es Timorn Puerto de Enchufe de alimentación USB Puerto de...'
+tags: ps4
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

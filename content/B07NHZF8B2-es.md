@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413r3KrjAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHZF8B2-es'
+slug: 'B07NHZF8B2-es Adaptador de Conector de Auriculares USB C a 3 5 mm...'
+tags: auriculares, huawei, xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

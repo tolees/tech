@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XAinNydML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWM9Q0O-es'
+slug: 'B01BWM9Q0O-es Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de...'
+tags: bluetooth, panasonic, wifi
 actualPrice: 410.51 EUR
 currency: EUR
 price: 410.51

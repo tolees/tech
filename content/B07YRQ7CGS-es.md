@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZJtgc8s0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRQ7CGS-es'
+slug: 'B07YRQ7CGS-es Yoozon Mini Palo Selfie Bluetooth Selfie Stick Giratorio...'
+tags: bluetooth, huawei, iphone, samsung, smartphone, xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

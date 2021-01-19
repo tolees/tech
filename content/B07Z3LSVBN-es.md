@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51yNY6SzrgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3LSVBN-es'
+slug: 'B07Z3LSVBN-es Young & Ming 3 Unidades Cristal Templado para Huawei Watch...'
+tags: huawei
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

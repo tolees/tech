@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3XQ2KL-es'
+slug: 'B01M3XQ2KL-es Samsung EP-LN920CBEGWW Cargador de coche Dual con Carga...'
+tags: samsung
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MCxTSMxcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQPPW9X-es'
+slug: 'B07PQPPW9X-es TOROCAT 1080P - Sistema de cámara de vigilancia 4 x 1080p...'
+tags: 1080p, disco, duro
 actualPrice: 103.1 EUR
 currency: EUR
 price: 103.1

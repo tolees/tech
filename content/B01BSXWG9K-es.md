@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p0WyDRfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSXWG9K-es'
+slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon...'
+tags: canon
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

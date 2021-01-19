@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qGqNkyWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GPY3LY-es'
+slug: 'B077GPY3LY-es WOWGO Pulsera Monitor de Actividad Pulsómetro y Podómetro...'
+tags: bluetooth, iphone, samsung
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

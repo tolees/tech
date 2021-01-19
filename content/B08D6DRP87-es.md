@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ALZfu6l1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6DRP87-es'
+slug: 'B08D6DRP87-es Primewire - 0 25m Cable de Red Cat 8 - Gigabit Ethernet...'
+tags: gigabit
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+8dWVWT2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL4ZHHM-es'
+slug: 'B07NL4ZHHM-es Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

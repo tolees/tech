@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XjfLGmESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3X2G2S-es'
+slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores...'
+tags: iphone, tablet
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

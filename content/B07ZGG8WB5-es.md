@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BMv34RJ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGG8WB5-es'
+slug: 'B07ZGG8WB5-es CHOETECH Cargador USB C PD 60W Cargador Rápida Tipo C...'
+tags: dell, galaxy, huawei, iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhYad78CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNN4X4Q-es'
+slug: 'B07BNN4X4Q-es Garmin dēzl 780 LMT-D Fijo 6.95" TFT Pantalla táctil 437g...'
+tags: garmin, gps, microsd
 actualPrice: 399 EUR
 currency: EUR
 price: 399

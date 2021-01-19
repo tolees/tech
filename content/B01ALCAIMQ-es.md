@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CCv-+1mzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ALCAIMQ-es'
+slug: 'B01ALCAIMQ-es KINGTOP PS4 Fan Universal Ventilador de Refrigeración...'
+tags: playstation, ps4
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

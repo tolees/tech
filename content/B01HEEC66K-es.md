@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YIYDsN1QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEEC66K-es'
+slug: 'B01HEEC66K-es Alfombrilla de Ratón con Reposamuñecas Cojín de Ratón Gel...'
+tags: ratón
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

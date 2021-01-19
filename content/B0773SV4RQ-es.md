@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aq4AjWEJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773SV4RQ-es'
+slug: 'B0773SV4RQ-es Tatkraft Vanessa Mesa de Ordenador Portátil con Ruedas y...'
+tags: ordenador, ratón
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

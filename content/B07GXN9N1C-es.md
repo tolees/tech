@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yVo+9rM5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXN9N1C-es'
+slug: 'B07GXN9N1C-es Huawei Mate 20 Lite - Smartphone Dual SIM de 6.3" Full HD...'
+tags: huawei, ram, smartphone, full, hd
 actualPrice: 217.94 EUR
 currency: EUR
 price: 217.94

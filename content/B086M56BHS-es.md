@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41McCif7KrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M56BHS-es'
+slug: 'B086M56BHS-es Oihxse Funda para Huawei Honor V10 Lite/8X Transparente...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

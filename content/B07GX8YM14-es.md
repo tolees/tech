@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eaR8rwkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX8YM14-es'
+slug: 'B07GX8YM14-es Amortiguador de Goma Flexible V2 Anti Holgura y Vibración...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892J2MXB-es'
+slug: 'B0892J2MXB-es WesKimed DAC Convertidor Digital a Analógico Adaptador...'
+tags: ps4, xbox
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

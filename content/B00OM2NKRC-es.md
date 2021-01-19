@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zrauUgoJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OM2NKRC-es'
+slug: 'B00OM2NKRC-es HOMCOM Silla de Juego Escitorio Silla Giratorio de...'
+tags: ordenador
 actualPrice: 89.24 EUR
 currency: EUR
 price: 89.24

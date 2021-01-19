@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-698C9+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRXHHMP-es'
+slug: 'B07XRXHHMP-es CBGGQ Auriculares in-ear con micrófono 3 5 mm con cable...'
+tags: auriculares
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

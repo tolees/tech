@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21r%2B6wlnaDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUZ67KG-es'
+slug: 'B01FUZ67KG-es Panasonic DMR-BWT850EC - Grabador y Reproductor de BLU-Ray...'
+tags: panasonic, disco, duro, full, hd
 actualPrice: 510.4 EUR
 currency: EUR
 price: 510.4

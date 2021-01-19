@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316Ol3lWdQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS91TRQ-es'
+slug: 'B07MS91TRQ-es Sony WI-C600N - Auriculares Neckband inalámbricos...'
+tags: auriculares, bluetooth, sony
 actualPrice: 121.9 EUR
 currency: EUR
 price: 121.9

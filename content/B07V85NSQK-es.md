@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XlUprKppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V85NSQK-es'
+slug: 'B07V85NSQK-es Lomogo Funda Sony Xperia XZ2 Cartera Funda de Cuero...'
+tags: sony
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

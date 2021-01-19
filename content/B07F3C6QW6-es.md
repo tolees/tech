@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vRJ6Gp3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3C6QW6-es'
+slug: 'B07F3C6QW6-es Catapult PLAYR Smart Football Tracker - Fútbol GPS Vest y...'
+tags: gps, iphone
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

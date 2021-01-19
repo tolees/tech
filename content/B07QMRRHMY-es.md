@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RBr8doHdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMRRHMY-es'
+slug: 'B07QMRRHMY-es DURAGADGET Cable De Audio Portátil Lenovo Ideapad...'
+tags: lenovo
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

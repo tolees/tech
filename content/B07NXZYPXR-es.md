@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wll96HKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXZYPXR-es'
+slug: 'B07NXZYPXR-es Ferilinso Cristal Templado para Samsung Galaxy M20 A10S...'
+tags: galaxy, samsung
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

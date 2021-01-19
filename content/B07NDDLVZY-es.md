@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rWenKtdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDDLVZY-es'
+slug: 'B07NDDLVZY-es Samsung Galaxy S10e - Smartphone 128GB Dual SIM Pantalla...'
+tags: galaxy, samsung, smartphone, full, hd
 actualPrice: 569.0 EUR
 currency: EUR
 price: 569.0

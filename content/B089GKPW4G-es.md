@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LI5ecd9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GKPW4G-es'
+slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
+tags: galaxy, huawei, iphone, móvil, samsung, xiaomi
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

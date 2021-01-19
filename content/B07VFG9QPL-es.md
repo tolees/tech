@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ugW9s0GkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFG9QPL-es'
+slug: 'B07VFG9QPL-es Reawul Alfombrilla de Ratón RGB Extra Grande tapete de...'
+tags: ratón
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

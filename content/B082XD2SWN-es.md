@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Oa8hAILL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XD2SWN-es'
+slug: 'B082XD2SWN-es yootech Adaptador USB C a USB 3.0 [4 Pack] OTG con Uso en...'
+tags: huawei, samsung
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

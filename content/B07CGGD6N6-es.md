@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cibSTihsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGGD6N6-es'
+slug: 'B07CGGD6N6-es 7XINbox VGP-BPS35A batería portatil 14.8V 40Wh 2670mAh...'
+tags: sony
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

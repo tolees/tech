@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eAY7ptn0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F6WF8DJ-es'
+slug: 'B08F6WF8DJ-es DEJIMAX 2800mAh Batería S4 para Samsung Galaxy S4 2800mAh...'
+tags: galaxy, samsung
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

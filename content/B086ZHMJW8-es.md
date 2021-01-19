@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3172lgfKyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZHMJW8-es'
+slug: 'B086ZHMJW8-es nakw88 Universal Montaje Lateral Magnético Soporte con...'
+tags: móvil, ordenador
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

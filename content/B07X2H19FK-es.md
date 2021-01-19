@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IhL72iLyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2H19FK-es'
+slug: 'B07X2H19FK-es Hotott Hub USB c Lector de Tarjetas de Memoria UHS-II SD...'
+tags: galaxy
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

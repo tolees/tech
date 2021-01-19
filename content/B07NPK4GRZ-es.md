@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yPqwUuakL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPK4GRZ-es'
+slug: 'B07NPK4GRZ-es Jabra Elite Active 45e – Auriculares Deportivos Bluetooth...'
+tags: auriculares, bluetooth
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

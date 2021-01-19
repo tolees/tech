@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S+SaiPXJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9MRL6M-es'
+slug: 'B07D9MRL6M-es Ferilinso Funda Para Xiaomi Redmi Note 8 Funda [Reforzar...'
+tags: xiaomi
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

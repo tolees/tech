@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sIQT+TETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DC9N5WD-es'
+slug: 'B08DC9N5WD-es UMIDIGI Reloj Inteligente con Esfera Personalizada...'
+tags: smartwatch
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

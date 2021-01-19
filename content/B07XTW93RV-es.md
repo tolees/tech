@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M0dV9dBYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTW93RV-es'
+slug: 'B07XTW93RV-es Sennheiser RS175-U - Auriculares inalámbricos para...'
+tags: auriculares
 actualPrice: 189.12 EUR
 currency: EUR
 price: 189.12

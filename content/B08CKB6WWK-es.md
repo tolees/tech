@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FGqXi4MOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKB6WWK-es'
+slug: 'B08CKB6WWK-es SHIVR WiFi Dongle Adaptador USB WiFi 600Mbps 2.4/5 GHz...'
+tags: wifi
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

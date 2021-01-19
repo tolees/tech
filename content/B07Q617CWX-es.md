@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51pciqBE5NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q617CWX-es'
+slug: 'B07Q617CWX-es DURAGADGET Mochila Camuflaje con Compartimentos...'
+tags: panasonic
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

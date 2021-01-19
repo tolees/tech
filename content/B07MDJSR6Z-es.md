@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TUQWxpoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDJSR6Z-es'
+slug: 'B07MDJSR6Z-es Aftershokz Trekz Air - Auriculares de conducción ósea...'
+tags: auriculares
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

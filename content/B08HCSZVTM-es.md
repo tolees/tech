@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LYXe20ejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HCSZVTM-es'
+slug: 'B08HCSZVTM-es LK Funda para Samsung Galaxy A51 + [2 Pack] Protector de...'
+tags: galaxy, samsung
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

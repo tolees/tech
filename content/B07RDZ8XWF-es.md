@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZGMyNDASL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDZ8XWF-es'
+slug: 'B07RDZ8XWF-es ASUS ROG Strix G531GT-BQ020 - Ordenador portátil de 15.6"...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 899.01 EUR
 currency: EUR
 price: 899.01

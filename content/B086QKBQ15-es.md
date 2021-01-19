@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tidYVcy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QKBQ15-es'
+slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One...'
+tags: auriculares, nintendo, ps4, xbox, nintendo, switch
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

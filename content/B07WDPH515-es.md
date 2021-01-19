@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+cbu031iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDPH515-es'
+slug: 'B07WDPH515-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m Piezas...'
+tags: iphone
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

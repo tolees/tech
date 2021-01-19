@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BVrojpyHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHV9GT4-es'
+slug: 'B06XHV9GT4-es Yuntab K17 Tablet táctil IPS 10.1 pulgadas 3G Wifi PC...'
+tags: gps, ips, tablet, wifi
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

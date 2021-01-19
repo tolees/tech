@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nwfVc+3HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058VDTO0-es'
+slug: 'B0058VDTO0-es Jabra Drive – Altavoz Bluetooth para Automóvil Micrófono y...'
+tags: bluetooth, gps, altavoz
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

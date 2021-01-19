@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514yeLVX+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFM5YZM-es'
+slug: 'B07VFM5YZM-es [2 Pack] UniqueMe Protector de Pantalla para Nintendo...'
+tags: nintendo, nintendo, switch
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

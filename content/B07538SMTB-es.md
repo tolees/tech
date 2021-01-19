@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z1trGdY4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07538SMTB-es'
+slug: 'B07538SMTB-es Lenovo Ideapad 520S-14IKB - Ordenador portátil ultrafino...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

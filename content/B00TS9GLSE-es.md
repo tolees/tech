@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XW2xwzjLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TS9GLSE-es'
+slug: 'B00TS9GLSE-es Samyang F1112201101 - Objetivo fotográfico DSLR para Canon...'
+tags: canon
 actualPrice: 262.47 EUR
 currency: EUR
 price: 262.47

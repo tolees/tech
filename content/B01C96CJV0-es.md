@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D2-7gUK9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C96CJV0-es'
+slug: 'B01C96CJV0-es Brother - Impresora láser Profesional Monocromo Bandeja...'
+tags: impresora
 actualPrice: 229.14 EUR
 currency: EUR
 price: 229.14

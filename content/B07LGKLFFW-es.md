@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413EuRKq1QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGKLFFW-es'
+slug: 'B07LGKLFFW-es Tribit MaxSound Plus - Altavoz Bluetooth 24 W con Potente...'
+tags: bluetooth, altavoz
 actualPrice: 42.63 EUR
 currency: EUR
 price: 42.63

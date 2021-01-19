@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51atb60rjyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017IFXUUG-es'
+slug: 'B017IFXUUG-es DELL UltraSharp UP3216Q LED Display 80 cm 31.5" 4K Ultra...'
+tags: dell
 actualPrice: 587.0 EUR
 currency: EUR
 price: 587.0

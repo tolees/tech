@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tJ6EHslxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CES5A60-es'
+slug: 'B00CES5A60-es Logitech C930e Business Webcam Video-Llamadas Full HD...'
+tags: logitech, full, hd
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

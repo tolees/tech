@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872QNT5H-es'
+slug: 'B0872QNT5H-es Funda Transparente Compatible para Xiaomi Redmi 7A Carcasa...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

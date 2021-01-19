@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z-huxBcoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKBN2PY-es'
+slug: 'B07MKBN2PY-es UniqueMe Funda para Samsung Galaxy S10 Funda TPU Suave...'
+tags: galaxy, samsung
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

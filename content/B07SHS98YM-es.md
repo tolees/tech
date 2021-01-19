@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d-NZh+W9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHS98YM-es'
+slug: 'B07SHS98YM-es Beelink BT3-X Mini PC Mini Ordenador de Sobremesa con...'
+tags: ordenador, wifi
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kEsKPE7DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZTBXNZ-es'
+slug: 'B076ZTBXNZ-es Belkin ScreenForce TemperedCurve - Protección de Pantalla...'
+tags: iphone
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

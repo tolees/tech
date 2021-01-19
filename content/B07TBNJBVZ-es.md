@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vir+55g9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBNJBVZ-es'
+slug: 'B07TBNJBVZ-es Luces LED de techo para música 60W Houkiper Bluetooth...'
+tags: bluetooth
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

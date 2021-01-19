@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rNEgnmTfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VBRKLJ-es'
+slug: 'B081VBRKLJ-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
+tags: iphone
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

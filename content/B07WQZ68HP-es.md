@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ww65zT9QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQZ68HP-es'
+slug: 'B07WQZ68HP-es CHOETECH Cargador Inalámbrico Wireless Charger con QC 3.0...'
+tags: samsung, sony
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

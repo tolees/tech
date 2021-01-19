@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rk8sznfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPWC30O-es'
+slug: 'B00EPWC30O-es Sony SEL50F18B - Objetivo para Sony distancia focal fija...'
+tags: sony
 actualPrice: 277.11 EUR
 currency: EUR
 price: 277.11

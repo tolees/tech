@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a5XDuck9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5R8JC1-es'
+slug: 'B07D5R8JC1-es Energy Headphones 2 Auriculares inalámbricos con Bluetooth...'
+tags: auriculares, bluetooth
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

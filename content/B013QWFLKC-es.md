@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QWFLKC-es'
+slug: 'B013QWFLKC-es Olympus OM-D E-M10 Mark-II - Cámara EVIL de 16.1 MP...'
+tags: wifi, full, hd
 actualPrice: 744.45 EUR
 currency: EUR
 price: 744.45

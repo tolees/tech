@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2B68RyZjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB1RYG7-es'
+slug: 'B07HB1RYG7-es Travis Touch - Traductor Inteligente de Bolsillo a 105...'
+tags: lte
 actualPrice: 199 EUR
 currency: EUR
 price: 199

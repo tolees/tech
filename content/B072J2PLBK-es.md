@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q+xS3BUVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072J2PLBK-es'
+slug: 'B072J2PLBK-es Lenovo L24q-10 - Monitor de 60 45 cm 23 8 " QHD 2560 x...'
+tags: lenovo
 actualPrice: 186.15 EUR
 currency: EUR
 price: 186.15

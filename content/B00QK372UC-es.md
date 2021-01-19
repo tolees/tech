@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31078lcuXKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QK372UC-es'
+slug: 'B00QK372UC-es AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth...'
+tags: bluetooth, móvil
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SMlcq2ejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JG1JGB3-es'
+slug: 'B08JG1JGB3-es Ocobudbxw pequeño y Encantador Forma de ratón Espuma...'
+tags: ratón
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

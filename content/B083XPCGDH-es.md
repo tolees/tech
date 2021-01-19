@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XumnyagpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XPCGDH-es'
+slug: 'B083XPCGDH-es yobola Auriculares Bluetooth Inalámbrico Bluetooth 5.0...'
+tags: auriculares, bluetooth
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pD6pQsh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086FF8JQC-es'
+slug: 'B086FF8JQC-es MEDION E14403 - Portátil 14" FullHD Intel Core i3-7020U...'
+tags: ram, teclado
 actualPrice: 327.0 EUR
 currency: EUR
 price: 327.0

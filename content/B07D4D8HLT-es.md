@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514zncXd3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4D8HLT-es'
+slug: 'B07D4D8HLT-es ALWUP Cascos PS4 Gaming Auriculares Gaming PS4 Xbox One...'
+tags: auriculares, nintendo, playstation, ps4, xbox, nintendo, switch
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

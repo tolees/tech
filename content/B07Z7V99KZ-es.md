@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zyCAI+lqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7V99KZ-es'
+slug: 'B07Z7V99KZ-es IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica...'
+tags: wifi
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

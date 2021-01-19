@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ45TRP-es'
+slug: 'B07QQ45TRP-es Ferilinso Funda para Xiaomi Mi A3 Elegante Armadura...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

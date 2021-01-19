@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QAIflgiYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FGJ5S5W-es'
+slug: 'B08FGJ5S5W-es Max Power Digital Funda para móvil Xiaomi Mi A2 5.99" con...'
+tags: móvil, xiaomi
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

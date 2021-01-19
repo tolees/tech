@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jbW-MDRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LYZ78Y-es'
+slug: 'B087LYZ78Y-es Oihxse Silicona Funda con Xiaomi Redmi GO TPU Flexible...'
+tags: xiaomi
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

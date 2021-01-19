@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313QzwPhK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWK13YF-es'
+slug: 'B07TWK13YF-es Belkin Boost Charger - Cargador para coche USB-C 18 W con...'
+tags: iphone
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

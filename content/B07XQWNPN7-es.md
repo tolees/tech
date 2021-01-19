@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sAfSHKj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQWNPN7-es'
+slug: 'B07XQWNPN7-es D-Link DUB-M610 - Hub USB tipo C 6 en 1 adaptador USB C...'
+tags: 1080p, microsd
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

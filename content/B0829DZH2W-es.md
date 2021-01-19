@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829DZH2W-es'
+slug: 'B0829DZH2W-es Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Unidad de Estado...'
+tags: disco, duro
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

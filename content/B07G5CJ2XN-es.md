@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5CJ2XN-es'
+slug: 'B07G5CJ2XN-es SeeKool MII Mini PC Ordenador de sobremesa Full 4K HD...'
+tags: gigabit, ordenador, wifi
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

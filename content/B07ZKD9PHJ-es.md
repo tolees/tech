@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GrHBVin2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKD9PHJ-es'
+slug: 'B07ZKD9PHJ-es Ratón inalámbrico recargable wireless mouse inphic mouse...'
+tags: ratón
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

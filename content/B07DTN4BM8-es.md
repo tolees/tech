@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qT8qm0gBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTN4BM8-es'
+slug: 'B07DTN4BM8-es AOC C24G1 - Monitor Gaming Curvo de 24” con Pantalla Full...'
+tags: full, hd
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IgK+inwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MXSGD3-es'
+slug: 'B087MXSGD3-es Disco Duro Externo Disco Duro portátil de 1TB 2TB Slim...'
+tags: disco, duro
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

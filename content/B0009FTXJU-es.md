@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009FTXJU-es'
+slug: 'B0009FTXJU-es Canon EW-73B - Parasol para Objetivos Canon EF-S Negro'
+tags: canon
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

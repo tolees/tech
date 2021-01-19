@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wCW+4OdgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXFVP71-es'
+slug: 'B08DXFVP71-es Homfa Mesa Gaming PC Escritorio Gaming Mesa para Ordenador...'
+tags: auriculares, ordenador, ratón
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

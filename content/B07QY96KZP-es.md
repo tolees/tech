@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QY96KZP-es'
+slug: 'B07QY96KZP-es 60W Smart Wifi Lámpara de techo Luz de pan Luz LED de Wifi...'
+tags: wifi
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

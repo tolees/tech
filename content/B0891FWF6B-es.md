@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nb9dC9a-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0891FWF6B-es'
+slug: 'B0891FWF6B-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de...'
+tags: smartphone, xiaomi
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HDFxE3+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015XAKMH2-es'
+slug: 'B015XAKMH2-es MagiDeal USB 3.0 Micro B Poder Cable Cargador Para Disco...'
+tags: toshiba, disco, duro
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

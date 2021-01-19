@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31362DnDh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZZQGV3-es'
+slug: 'B077ZZQGV3-es Corsair MM100 - Alfombrilla de ratón para Juego Superficie...'
+tags: ratón
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

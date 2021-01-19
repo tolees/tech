@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cimoBxJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088JTCZ3M-es'
+slug: 'B088JTCZ3M-es Foyar - Tarjeta de captura HDMI USB 3.0 1080P 4K 60 fps...'
+tags: 1080p
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

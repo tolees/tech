@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-rGVEUeDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZL8QDV-es'
+slug: 'B085ZL8QDV-es Cocoda Cascos Gaming Auriculares Gaming PS4 para...'
+tags: auriculares, ps4, nintendo, switch
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

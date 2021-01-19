@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410e4iVt+kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X8GSS3-es'
+slug: 'B087X8GSS3-es P Prettyia 2.5"500G 1T 2T Unidad De Disco Duro Externo USB...'
+tags: disco, duro
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

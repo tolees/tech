@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21nBT4q6PoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KKBHBM-es'
+slug: 'B076KKBHBM-es Samsung M471A5244CB0-CRC - Memoria DRAM de 4 GB 1.2 V ddr4...'
+tags: samsung
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

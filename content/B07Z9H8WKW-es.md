@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmZjopGNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9H8WKW-es'
+slug: 'B07Z9H8WKW-es 4G Tablets 10 Pulgadas 64GB 3GB RAM Dual SIM/WiFi Android...'
+tags: ram, tablet
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

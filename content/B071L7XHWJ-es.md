@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oA76LEAPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L7XHWJ-es'
+slug: 'B071L7XHWJ-es Tableta Yuntab H8 LTE - Teléfono de 8 pulgadas Quad-core...'
+tags: gps, ips, lte, wifi
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zJgaXAv+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCC5L7J-es'
+slug: 'B07MCC5L7J-es Gigabyte AORUS GeForce RTX 2060 XTREME 6G Rev 1.0'
+tags: gigabyte
 actualPrice: 310.3 EUR
 currency: EUR
 price: 310.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZBCO1yBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SNTRGB-es'
+slug: 'B077SNTRGB-es InvisibleShield Ultra Clear Protective Case - Funda...'
+tags: apple, iphone
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZFDP4F-es'
+slug: 'B07TZFDP4F-es Ferilinso Funda para Xiaomi Redmi 7A Elegante Armadura...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088H1XM4F-es'
+slug: 'B088H1XM4F-es Docooler Cámara Web USB A870 Cámara Web 1080P Sonido...'
+tags: 1080p
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

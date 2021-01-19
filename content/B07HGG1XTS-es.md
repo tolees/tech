@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TYK107uHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGG1XTS-es'
+slug: 'B07HGG1XTS-es JBL Tune 500BT - Auriculares supraaurales inalámbricos con...'
+tags: auriculares
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

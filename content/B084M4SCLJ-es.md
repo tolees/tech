@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mRLdTc6IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M4SCLJ-es'
+slug: 'B084M4SCLJ-es Disco Duro Externo 1 TB Disco Duro Externo USB3.1 Type C...'
+tags: ps4, xbox, disco, duro
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

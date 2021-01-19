@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WhjHwjUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H49XX-es'
+slug: 'B07N1H49XX-es OurLeeme Video Timbre Inalámbrico WiFi Monitoreo Remoto...'
+tags: wifi
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

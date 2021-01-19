@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w6bJ7sicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9CKLHZ-es'
+slug: 'B08F9CKLHZ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
+tags: auriculares, bluetooth, xiaomi
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

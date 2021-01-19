@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BtpaYPexL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVBR5XQ-es'
+slug: 'B07ZVBR5XQ-es Smartwatch Reloj Inteligente Pulsera de Actividad...'
+tags: huawei, iphone, samsung, smartwatch, xiaomi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

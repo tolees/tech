@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310GCXRYD0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EJJB4PC-es'
+slug: 'B01EJJB4PC-es Microsoft p3q-00012 V2 Adaptador de Pantalla inalámbrico'
+tags: microsoft
 actualPrice: 61.01 EUR
 currency: EUR
 price: 61.01

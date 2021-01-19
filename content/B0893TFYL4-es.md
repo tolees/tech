@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AzMKuLFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0893TFYL4-es'
+slug: 'B0893TFYL4-es TianTa Funda para Galaxy Tab A 8.0 2019 SM-T290/T295...'
+tags: galaxy, samsung
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dl4gaNMAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB9QHV-es'
+slug: 'B073PB9QHV-es Filamento PLA Plus de la impresora SUNLU 3D filamento PLA...'
+tags: impresora
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

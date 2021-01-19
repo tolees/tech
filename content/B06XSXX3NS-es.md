@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rfNqu-ggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSXX3NS-es'
+slug: 'B06XSXX3NS-es Intel Optane Memory Unidad de Estado sólido M.2 32 GB PCI...'
+tags: disco, duro
 actualPrice: 52.88 EUR
 currency: EUR
 price: 52.88

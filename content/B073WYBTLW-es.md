@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41shmp0IyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WYBTLW-es'
+slug: 'B073WYBTLW-es auna LS-46 Pareja de Soportes para Altavoz - Columnas de...'
+tags: altavoz
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

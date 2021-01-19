@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oMwo+7C6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJFWHWD-es'
+slug: 'B07MJFWHWD-es MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C USB-C...'
+tags: galaxy, samsung
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

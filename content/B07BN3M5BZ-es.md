@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZsIssQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN3M5BZ-es'
+slug: 'B07BN3M5BZ-es NGS Premium Speaker WildRock - Altavoz portátil con...'
+tags: bluetooth, altavoz
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

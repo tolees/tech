@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5132Hwm8jeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD8S1RF-es'
+slug: 'B07XD8S1RF-es Tableta de Escritura Color LCD 10 Pulgadas Tablet...'
+tags: tablet
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

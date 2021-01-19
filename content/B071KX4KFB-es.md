@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LB5slDvKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KX4KFB-es'
+slug: 'B071KX4KFB-es Huawei E5573C – Wi-Fi móvil 150Mbps de Velocidad de...'
+tags: huawei, móvil
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

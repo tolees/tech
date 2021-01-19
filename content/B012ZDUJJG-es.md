@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415M+9gZzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012ZDUJJG-es'
+slug: 'B012ZDUJJG-es LEADSTAR Kinds Funda para Samsung Galaxy Tab A 9.7 caso...'
+tags: galaxy, samsung
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

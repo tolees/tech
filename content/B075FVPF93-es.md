@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i7gw9e0jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FVPF93-es'
+slug: 'B075FVPF93-es D-Link DIR-878 – Router WiFi Gaming AC1900 MU-MIMO Dual-...'
+tags: gigabit, wifi
 actualPrice: 76.93 EUR
 currency: EUR
 price: 76.93

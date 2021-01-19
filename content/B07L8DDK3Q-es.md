@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+ACqNTloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8DDK3Q-es'
+slug: 'B07L8DDK3Q-es MINLUK Pulsera de Actividad Inteligente Pulsera Bluetooth...'
+tags: bluetooth
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

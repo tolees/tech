@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UqHcQvpcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LR1VT-es'
+slug: 'B07S5LR1VT-es ASUS ROG Strix G731GW-EV010T - Portátil Gaming de 17.3"...'
+tags: asus, ram, teclado
 actualPrice: 1679.69 EUR
 currency: EUR
 price: 1679.69

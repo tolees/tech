@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dnFb5n23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ18NX7-es'
+slug: 'B07NZ18NX7-es Parasol Profesional de Repuesto para Lente de Objetivo...'
+tags: nikon
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

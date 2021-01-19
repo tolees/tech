@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VLX2EdhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6CBBXS-es'
+slug: 'B08D6CBBXS-es Ertisa Mando Inalámbrico para PS4 Gamepad Wireless...'
+tags: bluetooth, playstation, ps4
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

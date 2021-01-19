@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zq0K-aF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNL6IP2-es'
+slug: 'B00KNL6IP2-es AUKEY Hub USB 3.0 4 Puertos Aluminio SuperSpeed 5Gbps con...'
+tags: apple, ordenador
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

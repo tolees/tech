@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qAHLL1mxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3F7VVV-es'
+slug: 'B08D3F7VVV-es Primewire –2m Cable HDMI 2.1 - Alta Velocidad con Ethernet...'
+tags: ps4, xbox
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

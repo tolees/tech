@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DTmvUNhvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVY8Z6B-es'
+slug: 'B07SVY8Z6B-es Labanema Moto G7 Power Funda 360 Rotating Ring Grip Stand...'
+tags: motorola
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A3v-SngOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KXGQXH-es'
+slug: 'B077KXGQXH-es VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G 5 dpi...'
+tags: bluetooth, ratón
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

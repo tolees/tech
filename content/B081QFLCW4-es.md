@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415oteQW20L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QFLCW4-es'
+slug: 'B081QFLCW4-es Newskill Serike Switch Blue - Teclado Mecánico Gaming con...'
+tags: teclado
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

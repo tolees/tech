@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ9QVT4-es'
+slug: 'B08CZ9QVT4-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi...'
+tags: xiaomi
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

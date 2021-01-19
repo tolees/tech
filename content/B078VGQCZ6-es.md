@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Un2Wf9-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VGQCZ6-es'
+slug: 'B078VGQCZ6-es Sony WISP600NW.CE7 - Auriculares deportivos inalámbricos...'
+tags: auriculares, bluetooth, sony
 actualPrice: 71.32 EUR
 currency: EUR
 price: 71.32

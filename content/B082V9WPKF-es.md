@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51W95Du3ABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V9WPKF-es'
+slug: 'B082V9WPKF-es LTPAG Luz de Video LED Luz de Panel de Cámara Regulable...'
+tags: canon, nikon, panasonic, pentax, samsung, sony
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bNdtnUhjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MRVVS9-es'
+slug: 'B082MRVVS9-es SATECHI Cargador Portátil Certificado MFi con Puerto de...'
+tags: apple
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

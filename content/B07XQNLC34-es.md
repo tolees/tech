@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kEeYODyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQNLC34-es'
+slug: 'B07XQNLC34-es Fossil Smartwatch Pantalla táctil para Mujer de Connected...'
+tags: smartwatch
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

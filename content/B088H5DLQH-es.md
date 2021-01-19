@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s8lwWk8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088H5DLQH-es'
+slug: 'B088H5DLQH-es ANWIKE Cámara Web con micrófono Dual cámara Web Full HD...'
+tags: 1080p, full, hd
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

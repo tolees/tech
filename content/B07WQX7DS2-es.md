@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l4Tqsw2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQX7DS2-es'
+slug: 'B07WQX7DS2-es Pnakqil Funda Xiaomi Redmi 7A Clear Transparente Silicona...'
+tags: xiaomi
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

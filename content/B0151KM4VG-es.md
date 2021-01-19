@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lnpsAfIsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0151KM4VG-es'
+slug: 'B0151KM4VG-es TOSHIBA P300 Disco duro interno 2 TB – 3 5" pulgadas –...'
+tags: toshiba, disco, duro
 actualPrice: 60.62 EUR
 currency: EUR
 price: 60.62

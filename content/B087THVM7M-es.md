@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h3s42cYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087THVM7M-es'
+slug: 'B087THVM7M-es Cámara Web con Micrófono Cámara Web 1080P HD Enfoque...'
+tags: 1080p
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

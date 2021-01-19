@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJYEYQaqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4NH4MC-es'
+slug: 'B07N4NH4MC-es Motorola Moto G7 Plus - Smartphone Android 9 Pantalla 6.2...'
+tags: motorola, ram, smartphone
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

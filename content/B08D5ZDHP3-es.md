@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R7ShPUb9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D5ZDHP3-es'
+slug: 'B08D5ZDHP3-es Monitor Portátil Uperfect 15 6 Pulgadas Monitor Gaming FHD...'
+tags: ips, ordenador, ps4, xbox
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

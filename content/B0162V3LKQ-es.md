@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418DzjXwKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0162V3LKQ-es'
+slug: 'B0162V3LKQ-es Krom KHENSU - NXKROMKHNS - Gamepad Alámbrico/Inalámbrico...'
+tags: playstation
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

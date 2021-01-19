@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412nmpjA9dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8KF4LC-es'
+slug: 'B07F8KF4LC-es RockJam RJ549 - Piano de Teclado Eléctrico Portátil de 49...'
+tags: teclado
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGJA+YpWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHK4G8P-es'
+slug: 'B07DHK4G8P-es [Diseño LED Tacto] Altavoz Bluetooth XLEADER Altavoces...'
+tags: bluetooth, iphone, altavoz
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

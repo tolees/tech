@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ck+blWqnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKWTKXW-es'
+slug: 'B07GKWTKXW-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
+tags: auriculares, móvil, smartphone, tablet
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

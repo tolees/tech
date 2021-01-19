@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v+D5hjNGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYXWM2K-es'
+slug: 'B07MYXWM2K-es OurLeeme Iluminación para lectura Brillo de 4 niveles...'
+tags: kindle
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

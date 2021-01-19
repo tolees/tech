@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4191HoQyksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKWCJVL-es'
+slug: 'B08DKWCJVL-es Xuanbeier Ultra Delgado Funda Compatible con Samsung...'
+tags: galaxy, samsung
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

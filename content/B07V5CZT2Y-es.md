@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51drkPbT2EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5CZT2Y-es'
+slug: 'B07V5CZT2Y-es WiMiUS Cámara de Caza 16MP 1080P Camara Caza con 940nm...'
+tags: 1080p
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

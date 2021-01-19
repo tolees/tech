@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RJmOjZ6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856RQBB2-es'
+slug: 'B0856RQBB2-es Videocámara Videocamara 2.7K Full HD 30 MP Cámara de Video...'
+tags: ips, full, hd
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

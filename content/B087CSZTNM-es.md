@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pt2zF0shL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CSZTNM-es'
+slug: 'B087CSZTNM-es Cámara web Full HD 1080P con micrófono cámara web USB 2.0...'
+tags: 1080p, full, hd
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

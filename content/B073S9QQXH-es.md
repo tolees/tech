@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u4EyTG7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S9QQXH-es'
+slug: 'B073S9QQXH-es Jabra Elite Sport – Auriculares Deportivos Inalámbricos...'
+tags: auriculares
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

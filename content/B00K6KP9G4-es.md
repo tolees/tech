@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SVJiM5XyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6KP9G4-es'
+slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad...'
+tags: 1080p, playstation, ps4, xbox
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319DgMociuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C2VPZM-es'
+slug: 'B085C2VPZM-es nonda Hub USB C 4 en 1 3 Puertos USB de 3.0 y 1 Puerto de...'
+tags: dell
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

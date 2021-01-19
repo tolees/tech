@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410ietuuSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BWFRTWO-es'
+slug: 'B00BWFRTWO-es Sony CMT-SBT100 - Microcadena Hi-Fi de 50W estéreo CD...'
+tags: bluetooth, sony
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

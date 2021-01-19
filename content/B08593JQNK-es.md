@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tSoRU1REL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08593JQNK-es'
+slug: 'B08593JQNK-es Oihxse Funda Xiaomi Redmi 7 Ultra Delgado Transparente TPU...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

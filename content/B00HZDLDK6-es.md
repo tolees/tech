@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mjfQ6jUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZDLDK6-es'
+slug: 'B00HZDLDK6-es Impresora de inyección de tinta Canon PIXMA iX6850 Negra Wifi'
+tags: canon, impresora, wifi
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

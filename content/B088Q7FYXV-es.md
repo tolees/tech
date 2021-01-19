@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QmjYoMiCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088Q7FYXV-es'
+slug: 'B088Q7FYXV-es URFEDA Funda Compatible con Samsung Galaxy S6 Funda Libro...'
+tags: galaxy, samsung
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CB7Jt4pdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SW6HJK-es'
+slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor...'
+tags: bluetooth
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kBeuMhtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL3YKJL-es'
+slug: 'B07ZL3YKJL-es Reulin - Cable de Red Gigabit Ethernet de 12 m Cat 7A...'
+tags: gigabit
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dQA9i1rQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8PFGJD-es'
+slug: 'B07Z8PFGJD-es Micrófono Karaoke Bluetooth FISHOAKY Microfono Inalámbrico...'
+tags: bluetooth
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

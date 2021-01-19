@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cmsSIZl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR3BFR9-es'
+slug: 'B07VR3BFR9-es SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador...'
+tags: galaxy, samsung
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

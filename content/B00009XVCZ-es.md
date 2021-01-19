@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517W0-gDK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00009XVCZ-es'
+slug: 'B00009XVCZ-es Canon EF 50mm f/1.4 USM - Objetivo para Canon distancia...'
+tags: canon
 actualPrice: 351.99 EUR
 currency: EUR
 price: 351.99

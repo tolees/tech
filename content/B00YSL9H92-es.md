@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fl-2sjU8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YSL9H92-es'
+slug: 'B00YSL9H92-es ASUS RP-N12 - Repetidor/Punto Acceso inalámbrico N300...'
+tags: asus
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

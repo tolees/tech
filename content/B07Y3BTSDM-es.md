@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lDMPdKHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3BTSDM-es'
+slug: 'B07Y3BTSDM-es Hevanto 15W Cargador Inalámbrico 15W Wireless Carga para...'
+tags: galaxy, iphone
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

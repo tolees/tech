@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41svulRR7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GWVLPXW-es'
+slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para...'
+tags: galaxy, samsung
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

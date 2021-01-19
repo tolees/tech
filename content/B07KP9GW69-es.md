@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QsiMM05pL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP9GW69-es'
+slug: 'B07KP9GW69-es DlandHome Mesa Auxiliar En Forma de U con Ruedas Cesta...'
+tags: ordenador
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

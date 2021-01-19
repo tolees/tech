@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/213L8hpfV6L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8K8C0K-es'
+slug: 'B01M8K8C0K-es AUKEY Soporte Móvil Coche Magnético Universal 2 Pack para...'
+tags: iphone, móvil, samsung, smartphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

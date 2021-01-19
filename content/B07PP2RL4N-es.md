@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tqnuiLolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP2RL4N-es'
+slug: 'B07PP2RL4N-es FKANT Batería Externa Movil Power Bank 25000mAh Carga...'
+tags: huawei, iphone, samsung
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

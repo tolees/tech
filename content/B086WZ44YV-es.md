@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ONfxqnqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WZ44YV-es'
+slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p USB2.0 con micrófono...'
+tags: 1080p, full, hd
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21xZnDU13FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX45YD6-es'
+slug: 'B07DX45YD6-es Newskill EOS - Ratón para Gaming RGB 10 perfiles...'
+tags: ratón
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R8RqxRl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3GKY16-es'
+slug: 'B07K3GKY16-es SteelSeries Apex M750 - Teclado para Juegos mecánico -...'
+tags: teclado
 actualPrice: 88.15 EUR
 currency: EUR
 price: 88.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PxsHp8v2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S12RQT2-es'
+slug: 'B07S12RQT2-es Alcatel 3 2019 smartphone pantalla 5 94" 4GB RAM 64GB...'
+tags: ram, smartphone
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

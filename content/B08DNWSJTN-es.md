@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cG6wcJeDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNWSJTN-es'
+slug: 'B08DNWSJTN-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Band 5 [4...'
+tags: xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCc3NUMZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H57SL3X-es'
+slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño...'
+tags: bluetooth, iphone, samsung, altavoz
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

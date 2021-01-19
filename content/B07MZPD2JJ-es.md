@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t66WlJekL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPD2JJ-es'
+slug: 'B07MZPD2JJ-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
+tags: smartwatch
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

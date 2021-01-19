@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411pr+RPe1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZC4ZBKV-es'
+slug: 'B07ZC4ZBKV-es Proze Funda de Silicona para Samsung Galaxy S10e - Movil...'
+tags: galaxy, samsung
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

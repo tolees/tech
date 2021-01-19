@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lgy9gCqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WQFPMV-es'
+slug: 'B071WQFPMV-es DYNASONIC - Altavoz Karaoke Bluetooth 10W Color Rosa |...'
+tags: bluetooth, altavoz
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

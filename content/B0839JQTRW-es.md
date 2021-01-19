@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TLKj+q8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839JQTRW-es'
+slug: 'B0839JQTRW-es Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj...'
+tags: xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

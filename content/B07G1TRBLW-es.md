@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3178Z-hvbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1TRBLW-es'
+slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector...'
+tags: iphone
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

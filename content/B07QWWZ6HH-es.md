@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OefWfE2wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWWZ6HH-es'
+slug: 'B07QWWZ6HH-es Antena de TV Antena de TV Digital HD para Interiores...'
+tags: 1080p
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

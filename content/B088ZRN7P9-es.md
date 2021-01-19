@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EkyJcflML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZRN7P9-es'
+slug: 'B088ZRN7P9-es IVSO Webcam con Micrófono Webcam Full HD 1080P Ángulo de...'
+tags: 1080p, full, hd
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

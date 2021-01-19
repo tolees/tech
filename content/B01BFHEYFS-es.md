@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IlLga5FFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFHEYFS-es'
+slug: 'B01BFHEYFS-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
+tags: asus
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

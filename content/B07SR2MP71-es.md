@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0d27G4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR2MP71-es'
+slug: 'B07SR2MP71-es SeeKool Receptor WiFi AC600 Dual Band 5.8 GHz 600Mbps o 2...'
+tags: wifi
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

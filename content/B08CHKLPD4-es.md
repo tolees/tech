@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L5ZeMw8KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHKLPD4-es'
+slug: 'B08CHKLPD4-es SOOTEWAY Adaptador Bluetooth 5.0 Transmisor Receptor 2 en...'
+tags: bluetooth
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

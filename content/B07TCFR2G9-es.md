@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HBcvTGHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCFR2G9-es'
+slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa Intel...'
+tags: bluetooth, ordenador, ram
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

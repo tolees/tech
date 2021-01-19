@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dhV48u4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CW6CJN-es'
+slug: 'B076CW6CJN-es Astro Gaming A20 - Auriculares Gaming Inalámbricos Astro...'
+tags: auriculares
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

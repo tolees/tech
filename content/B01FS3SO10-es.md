@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oO8njog0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FS3SO10-es'
+slug: 'B01FS3SO10-es Soy Luna- Disney Altavoz Portátil Lexibook RCD102SL...'
+tags: auriculares, altavoz
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

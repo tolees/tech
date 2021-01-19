@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGy0q0XYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6H7FXZ-es'
+slug: 'B07T6H7FXZ-es Linksys EA7300 Router WiFi de Doble Banda MU-MIMO AC1750...'
+tags: gigabit, wifi
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

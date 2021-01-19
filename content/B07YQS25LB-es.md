@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b5CKjnMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQS25LB-es'
+slug: 'B07YQS25LB-es Enchufe Inteligente WiFi Koogeek Mini Smart Plug Control...'
+tags: wifi, google, assistant
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

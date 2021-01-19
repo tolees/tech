@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qyjr5kHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYW6NVY-es'
+slug: 'B07QYW6NVY-es LG 27MK600M-W - Monitor FHD de 68 6 cm 27" con Panel IPS...'
+tags: ips
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

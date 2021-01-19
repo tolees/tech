@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g9VubaIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088PNW7BX-es'
+slug: 'B088PNW7BX-es ASUS ROG Zephyrus M15 GU502LV-AZ057T - Ordenador portátil...'
+tags: asus, ordenador, ram, teclado
 actualPrice: 1499.0 EUR
 currency: EUR
 price: 1499.0

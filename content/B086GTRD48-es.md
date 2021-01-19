@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qAp5pjLjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GTRD48-es'
+slug: 'B086GTRD48-es Oihxse Compatible con iPhone X/iPhone XS Funda Suave Gel...'
+tags: iphone
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

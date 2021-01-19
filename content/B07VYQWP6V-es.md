@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iLlvcYmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYQWP6V-es'
+slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
+tags: bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

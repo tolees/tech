@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+aFlQfuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZQVGK2-es'
+slug: 'B07WZQVGK2-es Hydream Funda de Silicona para Fire TV Stick 4K Control...'
+tags: alexa, fire, tv, stick
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

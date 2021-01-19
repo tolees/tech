@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cLH677jUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000F2BP7U-es'
+slug: 'B000F2BP7U-es 3M EM500GPS - Ratón óptico USB ergonómico Color Negro'
+tags: ratón
 actualPrice: 57.53 EUR
 currency: EUR
 price: 57.53

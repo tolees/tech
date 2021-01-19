@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61hq95aHjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFT1BV3-es'
+slug: 'B07QFT1BV3-es HoYiXi Funda para Nuevo Kindle 2019 Kindle Estuche 2019...'
+tags: kindle
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VIxFvncwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088QTRR1Z-es'
+slug: 'B088QTRR1Z-es BTNEEU Cámara Web HD 1080p Webcam con Microfono para PC...'
+tags: 1080p, ordenador
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

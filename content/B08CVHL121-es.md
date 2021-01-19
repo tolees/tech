@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415QIYbEZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVHL121-es'
+slug: 'B08CVHL121-es Mando Inalámbrico para Nintendo Switch Mando Pro...'
+tags: bluetooth, nintendo, nintendo, switch
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

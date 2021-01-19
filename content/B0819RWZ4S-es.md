@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bl9hpQYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819RWZ4S-es'
+slug: 'B0819RWZ4S-es CUBOT P30 Smartphone 4G LTE Cámara Trasera AI 20MP+ 12MP+...'
+tags: lte, ram, smartphone
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

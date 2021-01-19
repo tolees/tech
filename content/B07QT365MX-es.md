@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eSaM+M75L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT365MX-es'
+slug: 'B07QT365MX-es Vieta Pro Goody - Altavoz inalámbrico True Wireless...'
+tags: bluetooth, altavoz
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

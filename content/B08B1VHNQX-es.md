@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rqG3ZbDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1VHNQX-es'
+slug: 'B08B1VHNQX-es Tablets 10.1 Pulgadas Android 9.0 Tablet PC 64Go ROM 4Go...'
+tags: lte, ram, tablet, teclado
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

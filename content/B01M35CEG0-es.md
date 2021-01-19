@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y+uggLIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M35CEG0-es'
+slug: 'B01M35CEG0-es TECKNET Ratón Inalámbrico Delgado 2.4G Mouse Inalámbrico...'
+tags: ordenador, ratón
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

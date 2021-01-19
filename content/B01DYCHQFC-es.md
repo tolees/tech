@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413yFjCyLfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DYCHQFC-es'
+slug: 'B01DYCHQFC-es Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

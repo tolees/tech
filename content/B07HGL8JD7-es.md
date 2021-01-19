@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+lm+KoKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGL8JD7-es'
+slug: 'B07HGL8JD7-es Engel RS8100Y - Receptor TV satélite HD PVR con WiFi Negro'
+tags: wifi
 actualPrice: 88.5 EUR
 currency: EUR
 price: 88.5

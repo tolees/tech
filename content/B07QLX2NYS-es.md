@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Yna7qz6zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLX2NYS-es'
+slug: 'B07QLX2NYS-es Teléfono Celular Bolsa con Clip de Cinturón 6.3" Bolsa...'
+tags: móvil
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

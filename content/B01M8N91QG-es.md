@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414EpfL1RGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8N91QG-es'
+slug: 'B01M8N91QG-es Polk Audio MagniFi Mini - Barra de Sonido y Subwoofer...'
+tags: bluetooth
 actualPrice: 225.25 EUR
 currency: EUR
 price: 225.25

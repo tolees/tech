@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318ZJC0ePUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC5PTYW-es'
+slug: 'B07TC5PTYW-es AUKEY Webcam FHD Cámara de videoconferencia 1080p con USB...'
+tags: 1080p, ordenador
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

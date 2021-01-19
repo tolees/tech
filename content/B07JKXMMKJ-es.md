@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D2E94UDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKXMMKJ-es'
+slug: 'B07JKXMMKJ-es XINYUNEW Funda Huawei Mate 20 Lite 360 Grados...'
+tags: huawei
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

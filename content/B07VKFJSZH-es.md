@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41itEZIWjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKFJSZH-es'
+slug: 'B07VKFJSZH-es Gigaset GL390 - teléfono móvil para Mayores con Teclas...'
+tags: gigaset, móvil
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o6kOTa5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005M17IZC-es'
+slug: 'B005M17IZC-es Sennheiser RS 120 II - Auriculares de diadema abiertos...'
+tags: auriculares
 actualPrice: 77.8 EUR
 currency: EUR
 price: 77.8

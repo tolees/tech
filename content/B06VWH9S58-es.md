@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61e8FsFGIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWH9S58-es'
+slug: 'B06VWH9S58-es Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico...'
+tags: bluetooth, altavoz
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

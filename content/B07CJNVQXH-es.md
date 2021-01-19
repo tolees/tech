@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJNVQXH-es'
+slug: 'B07CJNVQXH-es VTIN Mini Auriculares Bluetooth 4.1 Manos Libres Blutooth...'
+tags: auriculares, bluetooth
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

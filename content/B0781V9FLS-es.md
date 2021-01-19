@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dS9Gi82nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781V9FLS-es'
+slug: 'B0781V9FLS-es EZVIZ 720P FHD IP Cámara de Seguridad y Vigilancia 2.4 GHz...'
+tags: alexa, wifi, google, home
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vpLeHpe5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSEKBYG-es'
+slug: 'B01MSEKBYG-es Sony XDRS41DR.EU8 - Radio portátil Digital Dab/Dab+/FM...'
+tags: sony, altavoz
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

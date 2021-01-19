@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xFEazRx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722NYZDG-es'
+slug: 'B0722NYZDG-es Logitech M590 Silent Ratón Inalámbrico Multi-Dispositivos...'
+tags: bluetooth, logitech, ratón
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

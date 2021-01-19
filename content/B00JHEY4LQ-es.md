@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pHp32vIBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JHEY4LQ-es'
+slug: 'B00JHEY4LQ-es JVC CS-J620X Altavoces 1 Multicolor'
+tags: jvc
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

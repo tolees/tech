@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uA4DkLoqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKKYXDB-es'
+slug: 'B07VKKYXDB-es GANYUE Adaptador Bluetooth 5.0 Transceptor de Audio...'
+tags: auriculares, bluetooth
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

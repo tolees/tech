@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n1TYA-1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PXKT1B-es'
+slug: 'B087PXKT1B-es Webcam PC con Microfono NIYPS HD 1080P Webcam para...'
+tags: 1080p
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

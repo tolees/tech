@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51W4lQLfaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E97GIA-es'
+slug: 'B001E97GIA-es Canon EF 18-200mm f/3.5-5.6 IS - Objetivo para Canon...'
+tags: canon
 actualPrice: 490.64 EUR
 currency: EUR
 price: 490.64

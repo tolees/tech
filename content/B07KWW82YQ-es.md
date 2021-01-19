@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wp6TDHx8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWW82YQ-es'
+slug: 'B07KWW82YQ-es L&WB Una Pantalla inalámbrica Adaptador WiFi dongle 1080P...'
+tags: 1080p, wifi
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EshoxEbUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M35FNWJ-es'
+slug: 'B01M35FNWJ-es Kyocera Ecosys P5021cdn - Impresora láser a color 21 ppm...'
+tags: impresora, smartphone, tablet
 actualPrice: 150 EUR
 currency: EUR
 price: 150

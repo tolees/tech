@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MfpYTvsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZS4QNH-es'
+slug: 'B07XZS4QNH-es Lenovo Legion Y540 - Ordenador portátil Gaming de 15.6"...'
+tags: lenovo, ordenador, ram, teclado, full, hd
 actualPrice: 1299.0 EUR
 currency: EUR
 price: 1299.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mbFLOllkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018WJTTG6-es'
+slug: 'B018WJTTG6-es ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit...'
+tags: asus, gigabit, wifi
 actualPrice: 223.0 EUR
 currency: EUR
 price: 223.0

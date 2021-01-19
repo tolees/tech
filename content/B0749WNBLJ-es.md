@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418HLEgpCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749WNBLJ-es'
+slug: 'B0749WNBLJ-es SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de...'
+tags: sandisk
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

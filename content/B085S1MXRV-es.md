@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ziSWRrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S1MXRV-es'
+slug: 'B085S1MXRV-es Cudy WR1300 AC1200 Mbps Router inalámbrico Gigabit WiFi...'
+tags: gigabit, wifi
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

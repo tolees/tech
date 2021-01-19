@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O2PFuTyUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8XK9GC-es'
+slug: 'B07Y8XK9GC-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
+tags: ram, smartphone, xiaomi
 actualPrice: 188.99 EUR
 currency: EUR
 price: 188.99

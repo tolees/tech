@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tVEuNaY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMNK27-es'
+slug: 'B07TRMNK27-es Motorola One Action - Smartphone Dual SIM Triple cámara:...'
+tags: motorola, smartphone
 actualPrice: 172.0 EUR
 currency: EUR
 price: 172.0

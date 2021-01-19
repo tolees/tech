@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418ANvb+1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6P4LRN-es'
+slug: 'B07K6P4LRN-es FR·TEC - Auricular Gaming Headset Inari - PS4 Xbox One...'
+tags: nintendo, ps4, xbox, nintendo, switch
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

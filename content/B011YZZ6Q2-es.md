@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/215T2pywPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011YZZ6Q2-es'
+slug: 'B011YZZ6Q2-es Huawei Technology Ltd - Huawei E3531i-2 3 G Hi-Link USB...'
+tags: huawei
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

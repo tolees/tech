@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZioI8QPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KANYY8U-es'
+slug: 'B01KANYY8U-es Rankie Cable DisplayPort a DVI 1080P 1 8m Negro'
+tags: 1080p
 actualPrice: 6.36 EUR
 currency: EUR
 price: 6.36

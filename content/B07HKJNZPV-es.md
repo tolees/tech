@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d9hhfU6PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKJNZPV-es'
+slug: 'B07HKJNZPV-es RICOO Mesa de Centro Estancia Design WM080-W-ER la Mesa de...'
+tags: móvil
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

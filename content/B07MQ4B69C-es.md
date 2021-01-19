@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410VWqnr4kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ4B69C-es'
+slug: 'B07MQ4B69C-es UniqueMe Funda para Huawei P30 Lite Ultra [Slim Thin] TPU...'
+tags: huawei
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

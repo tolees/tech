@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bDjVnw5lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BWS2KR-es'
+slug: 'B087BWS2KR-es SHYOSUCCE Soporte para Portátil Aluminio Ventilado...'
+tags: dell, huawei, ordenador, samsung
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

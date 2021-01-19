@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zt2i1rqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV7PYZM-es'
+slug: 'B07PV7PYZM-es SODIAL Teclado Inalámbrico Bluetooth para Teléfono Móvil...'
+tags: bluetooth, móvil, ordenador, teclado
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

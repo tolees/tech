@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Aj4RHWQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW5PZPL-es'
+slug: 'B01LW5PZPL-es Apple Funda Smart Battery Case para el iPhone 7 - Blanco'
+tags: apple, iphone
 actualPrice: 91.77 EUR
 currency: EUR
 price: 91.77

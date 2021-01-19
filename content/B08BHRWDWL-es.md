@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wCn2UpfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHRWDWL-es'
+slug: 'B08BHRWDWL-es Mouse para juegos Bluetooth mouse inalámbrico recargable...'
+tags: bluetooth
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

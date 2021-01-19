@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zyO4WHA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB538QB-es'
+slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional...'
+tags: ordenador, ram, teclado
 actualPrice: 1513.51 EUR
 currency: EUR
 price: 1513.51

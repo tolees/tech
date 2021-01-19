@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rMw2EsDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G8NHMGW-es'
+slug: 'B01G8NHMGW-es HP X900 Wired Mouse USB Óptico 1000DPI Ambidextro Negro -...'
+tags: ratón
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

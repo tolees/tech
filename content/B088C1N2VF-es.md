@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C8aMNETNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088C1N2VF-es'
+slug: 'B088C1N2VF-es P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos...'
+tags: teclado
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

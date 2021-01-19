@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sFwk6b8CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IH2U7P0-es'
+slug: 'B01IH2U7P0-es SODIAL 5 PCS de 3.5 pulgadas IDE Portatil Sata HDD Estuche...'
+tags: disco, duro
 actualPrice: 10.04 EUR
 currency: EUR
 price: 10.04

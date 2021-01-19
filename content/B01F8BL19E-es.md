@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZR5tOhqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F8BL19E-es'
+slug: 'B01F8BL19E-es AUKEY SK-M13 - Mini-Altavoz inalámbrico portátil con...'
+tags: bluetooth
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

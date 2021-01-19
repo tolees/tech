@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L4f%2BJvNaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXCP5X9-es'
+slug: 'B01LXCP5X9-es LOBKIN Auriculares Bluetooth Deportivos Resistentes Al...'
+tags: auriculares, bluetooth
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

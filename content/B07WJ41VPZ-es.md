@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FAZGiSd4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJ41VPZ-es'
+slug: 'B07WJ41VPZ-es NAIXUES 2020 Smartwatch Niños Reloj Inteligente para Niños...'
+tags: smartwatch
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KZbnutBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9Z9N7H-es'
+slug: 'B07Y9Z9N7H-es Guzack Brazalete Deportivo Brazalete Correr Móvil para...'
+tags: galaxy, iphone, móvil, samsung
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

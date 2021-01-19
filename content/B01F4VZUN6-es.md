@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJdGNWIsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F4VZUN6-es'
+slug: 'B01F4VZUN6-es HP PageWide 377dw A4 Wifi - Impresora multifunción 300 x...'
+tags: impresora, wifi
 actualPrice: 324.79 EUR
 currency: EUR
 price: 324.79

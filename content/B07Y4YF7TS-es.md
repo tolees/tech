@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TC4jyBE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4YF7TS-es'
+slug: 'B07Y4YF7TS-es HP Pavilion Gaming TG01-0024ns - Ordenador de sobremesa de...'
+tags: ordenador, ram
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

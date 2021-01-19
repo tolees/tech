@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bwoqg8GFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4S2SP3-es'
+slug: 'B07N4S2SP3-es Motorola Moto G7 Power – Smartphone Android 9 pantalla 6.2...'
+tags: motorola, ram, smartphone
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

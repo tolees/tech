@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tk0+9sMVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS5QJ5L-es'
+slug: 'B07TS5QJ5L-es Mini Camara Espia FREDI/Cámara Oculta HD 1080P Spy Mini...'
+tags: 1080p, wifi
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

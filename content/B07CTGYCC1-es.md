@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K3H9MNwRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTGYCC1-es'
+slug: 'B07CTGYCC1-es Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con...'
+tags: auriculares, ps4, xbox
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

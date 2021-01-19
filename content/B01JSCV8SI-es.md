@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3144wNTSxNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JSCV8SI-es'
+slug: 'B01JSCV8SI-es SAMSUNG EE-GN930BW Micro USB USB Tipo C Blanco Adaptador...'
+tags: samsung
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

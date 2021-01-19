@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ypR62MCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WYQYJ8-es'
+slug: 'B086WYQYJ8-es Moviles Libres 4G 16GB ROM Android 9.0 Pie 5MP+8MP 4800mAh...'
+tags: microsd, smartphone
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

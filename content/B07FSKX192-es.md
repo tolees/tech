@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xGilwOTQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSKX192-es'
+slug: 'B07FSKX192-es Fujifilm XF10 Cámara Digital 1 Dorado'
+tags: fujifilm
 actualPrice: 410.99 EUR
 currency: EUR
 price: 410.99

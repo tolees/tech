@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FSmnb0N1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5BEHA2-es'
+slug: 'B01F5BEHA2-es LifeVit BT-125 Termómetro inteligente para Bebé conexión...'
+tags: bluetooth
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

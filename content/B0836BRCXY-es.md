@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zIknaaUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836BRCXY-es'
+slug: 'B0836BRCXY-es WiFi repetidor Extensor de Red WiFi -300Mbps Mini Wireless...'
+tags: wifi
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

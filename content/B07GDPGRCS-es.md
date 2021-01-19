@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lDv5rW-9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDPGRCS-es'
+slug: 'B07GDPGRCS-es Cargador de Coche batería Adaptador 19.5V 4.62A 90W DELL...'
+tags: dell
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

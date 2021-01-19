@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bjUYMB-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DC7DIJ8-es'
+slug: 'B00DC7DIJ8-es Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4...'
+tags: auriculares, galaxy, samsung
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

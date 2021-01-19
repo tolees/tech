@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZJGKDN-es'
+slug: 'B07VZJGKDN-es Motorola Moto E6 Plus pantalla 6 1" max vision doble...'
+tags: motorola
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

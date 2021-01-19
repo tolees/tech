@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314PGGE4dgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9LCBH3-es'
+slug: 'B07H9LCBH3-es Apple Funda Leather Folio para el iPhone XS - Negro'
+tags: apple, iphone
 actualPrice: 96.45 EUR
 currency: EUR
 price: 96.45

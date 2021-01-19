@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r0Q4yFrpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL2L2M5-es'
+slug: 'B07XL2L2M5-es MSI Prestige 15 A10SC-060XES - Ordenador portátil 15.6"...'
+tags: ordenador, ram, teclado
 actualPrice: 1349.0 EUR
 currency: EUR
 price: 1349.0

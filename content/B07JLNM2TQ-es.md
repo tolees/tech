@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nlFmeKbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLNM2TQ-es'
+slug: 'B07JLNM2TQ-es KFD Adaptador 15V 4A 65W Cargador Portatil para Microsoft...'
+tags: microsoft
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

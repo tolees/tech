@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eWsHq5cQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUCGMNQ-es'
+slug: 'B01FUCGMNQ-es Panasonic HC-V180 - Videocámara de 50x O.I.S de 5 Ejes...'
+tags: panasonic
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wSdQPtaQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKXC82M-es'
+slug: 'B07RKXC82M-es Funda protectora de piel para móvil 4"-6" con cremallera y...'
+tags: móvil
 actualPrice: 9 EUR
 currency: EUR
 price: 9

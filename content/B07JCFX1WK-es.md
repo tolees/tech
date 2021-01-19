@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314qvC8ZbVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCFX1WK-es'
+slug: 'B07JCFX1WK-es Lenovo Yoga730 - Ordenador portátil táctil Convertible...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 917.4 EUR
 currency: EUR
 price: 917.4

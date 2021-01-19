@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RyhdQZKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Y8XNZ5-es'
+slug: 'B079Y8XNZ5-es JBL Tune 600BTNC - Auriculares supraaurales inalámbricos...'
+tags: auriculares
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412QvUUR%2BoL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKJ5XN2-es'
+slug: 'B07VKJ5XN2-es Auriculares Bluetooth Auriculares inalámbricos 4.2...'
+tags: auriculares, bluetooth, auriculares, estéreo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

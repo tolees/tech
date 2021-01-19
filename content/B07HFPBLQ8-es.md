@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418OKCK-vML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFPBLQ8-es'
+slug: 'B07HFPBLQ8-es Trust GXT 4376 - Ruptor Auriculares Gaming con Unidades...'
+tags: auriculares
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

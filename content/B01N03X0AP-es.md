@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kIkDmHWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N03X0AP-es'
+slug: 'B01N03X0AP-es Beschoi - 77mm Filtro de Camára Lente Packs de Filtros...'
+tags: canon, nikon
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

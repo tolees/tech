@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wu7fTDVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDI6OKS-es'
+slug: 'B01FDI6OKS-es motorola TLKR T92 H2O PMR - Walkie-Talkie IP67 Resistente...'
+tags: motorola
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

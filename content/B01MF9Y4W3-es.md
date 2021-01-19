@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wKWXwA33L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF9Y4W3-es'
+slug: 'B01MF9Y4W3-es Motorola Smart Nursery Dream Machine - Vigilabebés audio...'
+tags: motorola
 actualPrice: 29.02 EUR
 currency: EUR
 price: 29.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316JcT0uQzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XV8VHD3-es'
+slug: 'B07XV8VHD3-es Suunto 5 Reloj Deportivo Unisex-Adult Blanco/Negro One Size'
+tags: suunto
 actualPrice: 257.0 EUR
 currency: EUR
 price: 257.0

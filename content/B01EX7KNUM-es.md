@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y-qmG6FeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EX7KNUM-es'
+slug: 'B01EX7KNUM-es ASUS PCE-AC88 - Tarjeta de Red Wi-Fi PCI-e AC3100 Dual-...'
+tags: asus
 actualPrice: 76.37 EUR
 currency: EUR
 price: 76.37

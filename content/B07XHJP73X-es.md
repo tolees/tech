@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ySF0bizlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHJP73X-es'
+slug: 'B07XHJP73X-es Smatree Funda para portátil Funda para portátil de 14...'
+tags: asus
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

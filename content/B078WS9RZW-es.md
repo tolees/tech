@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WS9RZW-es'
+slug: 'B078WS9RZW-es Sony MHC-V71D - Sistema Audio Bluetooth Luces de Fiesta...'
+tags: bluetooth, sony
 actualPrice: 367.94 EUR
 currency: EUR
 price: 367.94

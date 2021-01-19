@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oTaRSz1bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWYVKMT-es'
+slug: 'B07NWYVKMT-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
+tags: galaxy, samsung, smartphone
 actualPrice: 661.0 EUR
 currency: EUR
 price: 661.0

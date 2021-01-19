@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31nOA1ul5uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVXSG3T-es'
+slug: 'B07MVXSG3T-es HyperX Predator HX432C16PB3A/16 - Memoria RAM DDR4 16GB...'
+tags: ram
 actualPrice: 107.95 EUR
 currency: EUR
 price: 107.95

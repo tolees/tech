@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPV2NZ8-es'
+slug: 'B00LPV2NZ8-es iRobot 4419696 Xlife Batería original para el robot...'
+tags: irobot, roomba
 actualPrice: 74.09 EUR
 currency: EUR
 price: 74.09

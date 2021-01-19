@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+btaorbaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FYQK3NW-es'
+slug: 'B08FYQK3NW-es Auriculares Bluetooth Auriculares inalámbricos IPx5 a...'
+tags: auriculares, bluetooth
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411JjdyebLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NL4NN-es'
+slug: 'B0872NL4NN-es Funda Transparente Compatible para Xiaomi Mi 8 Carcasa...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

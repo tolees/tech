@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bX2cfkDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCMKPFW-es'
+slug: 'B07YCMKPFW-es MAFENGWO Moviles Libres Baratos 4G Teléfono Móvil de 5 2...'
+tags: móvil, smartphone
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

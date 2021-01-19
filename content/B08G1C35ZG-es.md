@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dWpZJgXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1C35ZG-es'
+slug: 'B08G1C35ZG-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
+tags: auriculares, bluetooth
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

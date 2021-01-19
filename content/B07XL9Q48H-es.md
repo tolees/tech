@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dOf-UHTEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL9Q48H-es'
+slug: 'B07XL9Q48H-es Enchufe Inteligente WiFi Lunvon Toma de Interruptor Remoto...'
+tags: wifi, google, home
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

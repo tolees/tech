@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NULrXee5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CVVJGM-es'
+slug: 'B082CVVJGM-es KISME para Espejo Flip Funda Samsung Galaxy A51 Funda...'
+tags: galaxy, samsung
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zx97I2pcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSBHZS5-es'
+slug: 'B07WSBHZS5-es WAVLINK Sistema de malla WiFi para todo el hogar AC1200 de...'
+tags: gigabit, wifi
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

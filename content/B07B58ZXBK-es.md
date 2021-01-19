@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+WM0sdgNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B58ZXBK-es'
+slug: 'B07B58ZXBK-es Beurer IPO61 BT Pulsioxímetro de dedo con Bluetooth...'
+tags: bluetooth
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

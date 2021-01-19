@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gurRAwkTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829FNZCK-es'
+slug: 'B0829FNZCK-es Gioteck - Mando inalambrico Bluetooth negro Gioteck WX-4...'
+tags: bluetooth, nintendo, nintendo, switch
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

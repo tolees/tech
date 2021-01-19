@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Y-NghPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCPWP1P-es'
+slug: 'B07DCPWP1P-es Garmin Fenix 5 Banda TOPsic Silicona Reemplazo Correa con...'
+tags: garmin
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

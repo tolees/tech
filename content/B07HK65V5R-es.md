@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UzwvoMeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK65V5R-es'
+slug: 'B07HK65V5R-es Altavoz Bluetooth con Luz Nocturna Amouhom lámpara en el...'
+tags: bluetooth, altavoz
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

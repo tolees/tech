@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Sbqgt6-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013PUUKYW-es'
+slug: 'B013PUUKYW-es Gigaset S30851-H2519-R101 - Enchufe inteligente...'
+tags: gigaset
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

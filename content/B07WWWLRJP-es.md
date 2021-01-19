@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XdRLOxdUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWWLRJP-es'
+slug: 'B07WWWLRJP-es Sonos One SL - Altavoz Inteligente Compacto y Potente con...'
+tags: altavoz
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

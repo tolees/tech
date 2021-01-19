@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yoz13mPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838FN1PC-es'
+slug: 'B0838FN1PC-es PICILOO Cargador USB de Pared Dos Enchufe USB Pared...'
+tags: galaxy, huawei, iphone, samsung, xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

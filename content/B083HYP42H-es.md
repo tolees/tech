@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ne3o1inOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HYP42H-es'
+slug: 'B083HYP42H-es Patrones de Ciervos de Dibujos Animados Amarillos...'
+tags: móvil
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

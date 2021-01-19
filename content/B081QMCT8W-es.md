@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411bx0eQYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QMCT8W-es'
+slug: 'B081QMCT8W-es HP OMEN 15-dh0017ns - Ordenador portátil de 15.6" FullHD...'
+tags: ordenador, ram, teclado
 actualPrice: 1099.99 EUR
 currency: EUR
 price: 1099.99

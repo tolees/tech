@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6MN5ZL-es'
+slug: 'B07Z6MN5ZL-es ASUS ROG STRIX G531GV-AL172 - Portátil Gaming de 15 6"...'
+tags: asus, ram, teclado
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

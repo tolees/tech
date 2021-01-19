@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147JyxnO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P20CKJC-es'
+slug: 'B00P20CKJC-es VATI Hojas desprendibles Kill Geniales Diseño Sticker...'
+tags: apple
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

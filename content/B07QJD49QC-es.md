@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UvP-4+DlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJD49QC-es'
+slug: 'B07QJD49QC-es Impresora láser multifunción color Canon i-Sensys MF643Cdw...'
+tags: canon, impresora, wifi
 actualPrice: 256.73 EUR
 currency: EUR
 price: 256.73

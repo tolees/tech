@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RU4uByPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJ2L8P-es'
+slug: 'B07TTJ2L8P-es Belkin SoundForm - Auriculares USB-C para Samsung Galaxy...'
+tags: auriculares, galaxy, samsung
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

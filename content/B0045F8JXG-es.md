@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412K6C+AuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0045F8JXG-es'
+slug: 'B0045F8JXG-es Dymo S0915440 - Impresoras de etiquetas con teclado ABC'
+tags: teclado
 actualPrice: 123.8 EUR
 currency: EUR
 price: 123.8

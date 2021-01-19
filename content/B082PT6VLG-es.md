@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FdiSNaOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PT6VLG-es'
+slug: 'B082PT6VLG-es ANEWSIR 3 Piezas Protector de Pantalla para Samsung Galaxy...'
+tags: galaxy, samsung
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

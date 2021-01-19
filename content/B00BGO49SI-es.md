@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qji0NO5QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGO49SI-es'
+slug: 'B00BGO49SI-es Suunto Core Red Rubber Strap Correa para Relojes Unisex...'
+tags: suunto
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

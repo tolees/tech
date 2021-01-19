@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416vQUS0WYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKL6PK9-es'
+slug: 'B07RKL6PK9-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 1 TB...'
+tags: sandisk
 actualPrice: 344.99 EUR
 currency: EUR
 price: 344.99

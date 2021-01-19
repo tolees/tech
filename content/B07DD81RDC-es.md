@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bXh0uYdpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD81RDC-es'
+slug: 'B07DD81RDC-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED...'
+tags: ratón
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

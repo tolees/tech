@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fpqMW0E2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBSSZ18-es'
+slug: 'B07YBSSZ18-es NewZC Bridas Ajustables para Cables 120 Unidades 15 x 1 2...'
+tags: ordenador
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

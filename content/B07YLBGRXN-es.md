@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ewSmX-eJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLBGRXN-es'
+slug: 'B07YLBGRXN-es Philips Dect T Teléfono Inalámbrico'
+tags: dect
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

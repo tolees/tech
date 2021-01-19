@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K0dK94COL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGT87F7-es'
+slug: 'B07PGT87F7-es Samsung Galaxy Tab S5e - Tablet de 10.5" UltraHD WiFi + 4G...'
+tags: galaxy, ram, samsung, tablet, wifi
 actualPrice: 484.41 EUR
 currency: EUR
 price: 484.41

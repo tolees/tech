@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvrRZOV7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QY2DC6-es'
+slug: 'B083QY2DC6-es HYGF Auriculares Bluetooth Auriculares inalámbricos 5.0...'
+tags: apple, auriculares, bluetooth
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

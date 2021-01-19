@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XQnDyfdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW7GT7H-es'
+slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable...'
+tags: dell, galaxy, samsung
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

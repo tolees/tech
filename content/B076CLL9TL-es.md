@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f0mlcYY-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CLL9TL-es'
+slug: 'B076CLL9TL-es TECLADO BLUETOOTH UNIVERSAL BLANCO'
+tags: bluetooth, teclado
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

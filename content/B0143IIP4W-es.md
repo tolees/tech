@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EHyls+HaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0143IIP4W-es'
+slug: 'B0143IIP4W-es SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC...'
+tags: sandisk
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

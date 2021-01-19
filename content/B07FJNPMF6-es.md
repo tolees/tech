@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L12cpHJOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJNPMF6-es'
+slug: 'B07FJNPMF6-es WANFEI Pulsera Xiaomi Mi Band 3 Correa Band 3 Correa de...'
+tags: xiaomi
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

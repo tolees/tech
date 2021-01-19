@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xswICv0IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817MVKDQ-es'
+slug: 'B0817MVKDQ-es IVSO Protector de Pantalla con Funda para Huawei MediaPad...'
+tags: huawei
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

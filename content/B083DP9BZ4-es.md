@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418ULTOJpvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DP9BZ4-es'
+slug: 'B083DP9BZ4-es Auriculares Inalámbricos Bluetooth 5.0 Syllable Cascos...'
+tags: auriculares, bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

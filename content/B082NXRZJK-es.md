@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NXRZJK-es'
+slug: 'B082NXRZJK-es [Actualizado] Proyector Full HD 1080p Nativo Soporta 4K...'
+tags: 1080p, full, hd
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

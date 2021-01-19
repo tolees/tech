@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ58Q7V-es'
+slug: 'B08HZ58Q7V-es Disco Duro Externo 2TB USB-C Disco Duro Externo para PC...'
+tags: xbox, disco, duro
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

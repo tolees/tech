@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uh3Mz23kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSK21KL-es'
+slug: 'B07YSK21KL-es Slabo 2 x Protector de Pantalla para Amazon Kindle Oasis...'
+tags: kindle
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

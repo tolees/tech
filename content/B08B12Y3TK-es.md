@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cdhm4u+AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B12Y3TK-es'
+slug: 'B08B12Y3TK-es Estación de Carga USB Multifunción con 4 Puertos Qi...'
+tags: galaxy, huawei, iphone
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UzdYnYdaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F5C3TJ-es'
+slug: 'B075F5C3TJ-es K KYUER A42-G750 Batería para ASUS ROG G750J G750JH-DB71...'
+tags: asus
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

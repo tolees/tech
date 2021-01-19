@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416IgVPtzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C81ND1Z-es'
+slug: 'B07C81ND1Z-es Altavoz Portátil Bluetooth Muzili Altavoz Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

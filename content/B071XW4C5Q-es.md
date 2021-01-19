@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413N81x2zsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XW4C5Q-es'
+slug: 'B071XW4C5Q-es Withings Body+ Báscula inteligente con conexión Wi-Fi...'
+tags: bluetooth, móvil, withings
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

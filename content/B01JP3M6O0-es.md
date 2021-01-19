@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iOyq0gdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JP3M6O0-es'
+slug: 'B01JP3M6O0-es Irobot Braava jet Paños de Limpieza para Fregar Lavables Azul'
+tags: irobot
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mR8P-j4SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDL24NS-es'
+slug: 'B07WDL24NS-es GC Pro Cargador para Portátil DELL XPS 13 9343 9350 9360...'
+tags: dell, ordenador
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

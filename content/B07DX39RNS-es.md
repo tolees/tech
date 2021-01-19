@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IlUjQSn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX39RNS-es'
+slug: 'B07DX39RNS-es Samsung Original Tipo C Cargador rápido EP-TA20EBE Color...'
+tags: galaxy, samsung
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

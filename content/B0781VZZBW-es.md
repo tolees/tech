@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eOWwc5uuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VZZBW-es'
+slug: 'B0781VZZBW-es Razer Cynosa Chroma - Teclado Gaming con iluminación Razer...'
+tags: teclado
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

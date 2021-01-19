@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h1-0nwwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CN82IWK-es'
+slug: 'B00CN82IWK-es Sony HVLF20M - Flash con Zapata para DSC-RX1; DSC-HX50;...'
+tags: sony
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

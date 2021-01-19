@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aWkB7CYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3FK8JK-es'
+slug: 'B07V3FK8JK-es Autel MaxiSys MS906BT OBD2 Bluetooth Herramienta de...'
+tags: bluetooth
 actualPrice: 1229.0 EUR
 currency: EUR
 price: 1229.0

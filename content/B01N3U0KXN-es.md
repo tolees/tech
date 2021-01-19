@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3U0KXN-es'
+slug: 'B01N3U0KXN-es Auna Melodia Radio Dab Bluetooth minicadena con...'
+tags: bluetooth
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

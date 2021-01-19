@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31voYAfqG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VGJ3LB-es'
+slug: 'B078VGJ3LB-es Sony WI-C300W - Auriculares Inalámbricos Bluetooth NFC...'
+tags: auriculares, bluetooth, sony
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oY97+eu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W6JNKF-es'
+slug: 'B078W6JNKF-es Corsair Dark Core RGB SE Ratón óptico para Juegos...'
+tags: ratón
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

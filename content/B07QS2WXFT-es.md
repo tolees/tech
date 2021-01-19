@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xVWIF-vsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS2WXFT-es'
+slug: 'B07QS2WXFT-es Vieta Pro Easy - Altavoz inalámbrico True Wireless...'
+tags: bluetooth, altavoz
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

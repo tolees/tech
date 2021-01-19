@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vmLItsmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQE8CJW-es'
+slug: 'B01MQE8CJW-es Corsair Harpoon RGB Ratón Óptico para Juegos 6 000 PPP...'
+tags: ratón
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

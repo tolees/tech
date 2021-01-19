@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HOZpGUFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZC1KF-es'
+slug: 'B07MVZC1KF-es LoraTap Interruptor Persianas WiFi Interruptor Táctil de...'
+tags: alexa, wifi, google, assistant
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

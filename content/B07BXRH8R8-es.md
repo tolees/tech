@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RkQCMrkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXRH8R8-es'
+slug: 'B07BXRH8R8-es MSI Pro 16T 7M-030XEU - Ordenador de sobremesa Todo en uno...'
+tags: ordenador, ram
 actualPrice: 339.34 EUR
 currency: EUR
 price: 339.34

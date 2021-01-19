@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C+FDRqkZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07318PMHL-es'
+slug: 'B07318PMHL-es Logitech Slim Combo Funda para iPad iPad Pro 10.5 Pulgadas...'
+tags: logitech
 actualPrice: 113.51 EUR
 currency: EUR
 price: 113.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWYHHJQ-es'
+slug: 'B07GWYHHJQ-es auna Ultrasonic BT Boombox - Bluetooth hasta 10 m Puerto...'
+tags: bluetooth
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

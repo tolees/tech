@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UQ3eP1etL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4LWQF3-es'
+slug: 'B07W4LWQF3-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
+tags: apple, auriculares, bluetooth
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

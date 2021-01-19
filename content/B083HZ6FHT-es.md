@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zVJyAcZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ6FHT-es'
+slug: 'B083HZ6FHT-es Caja del teléfono móvil TPU Blanco Mate en Relieve...'
+tags: iphone, móvil
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oI2DJNEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHQJV15-es'
+slug: 'B07DHQJV15-es Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
+tags: galaxy, iphone, samsung
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

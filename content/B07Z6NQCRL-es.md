@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z87hoW0sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6NQCRL-es'
+slug: 'B07Z6NQCRL-es ASUS ZenBook UX410UA-GV426 - Portátil de 14" FullHD Intel...'
+tags: asus, ram, teclado
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

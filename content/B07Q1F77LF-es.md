@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51koOi-0ocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1F77LF-es'
+slug: 'B07Q1F77LF-es IVSO Funda Carcasa para Nuevo Kindle 10th Generation 2019...'
+tags: kindle
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

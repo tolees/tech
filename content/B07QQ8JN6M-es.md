@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K-fAZKJyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ8JN6M-es'
+slug: 'B07QQ8JN6M-es Ordenador PORTATIL 15DA0172NS INN4000 4GB 128GB SSD 15 6"...'
+tags: ordenador
 actualPrice: 273.05 EUR
 currency: EUR
 price: 273.05

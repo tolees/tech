@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UaXVMbybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833MW3DS-es'
+slug: 'B0833MW3DS-es Bombilla Inteligente E27 WIFI de 8W LED Compatible con...'
+tags: alexa, wifi, google, home
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

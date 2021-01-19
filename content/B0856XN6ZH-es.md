@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sLEjzPizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856XN6ZH-es'
+slug: 'B0856XN6ZH-es KFD 120W Adaptador Cargador Portátil para MSI Gx740 CX62...'
+tags: asus
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

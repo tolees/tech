@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y6NLVDK-es'
+slug: 'B06Y6NLVDK-es Powerextra Batería Nikon EN EL14 y EN-EL14a con Cargador...'
+tags: nikon
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

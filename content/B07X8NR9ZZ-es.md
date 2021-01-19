@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wjLStUy+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8NR9ZZ-es'
+slug: 'B07X8NR9ZZ-es Baseus Cable USB Tipo C Cargador Quick Charge 3.0 Tipo c...'
+tags: galaxy, huawei, samsung, sony
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

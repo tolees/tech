@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fk2aLXl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB68LQZ-es'
+slug: 'B07TB68LQZ-es OurLeeme Enchufe Inteligente de WiFi tomacorriente de...'
+tags: alexa, wifi
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

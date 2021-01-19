@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iugM35evL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J75VJ6W-es'
+slug: 'B01J75VJ6W-es HOMCOM Mesa de Ordenador PC Madera en Forma L Esquinera...'
+tags: impresora, móvil, ordenador
 actualPrice: 104.54 EUR
 currency: EUR
 price: 104.54

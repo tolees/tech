@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CmGNEg8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MY9DS-es'
+slug: 'B07W5MY9DS-es Bovon Brazalete Movil Running Brazalete Deportivo Movil...'
+tags: galaxy, iphone, xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

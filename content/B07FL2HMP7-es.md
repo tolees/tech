@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uokJ8VwNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL2HMP7-es'
+slug: 'B07FL2HMP7-es LG 24MK600M-B - Monitor FHD de 60 4 cm 23 8" con Panel IPS...'
+tags: ips
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

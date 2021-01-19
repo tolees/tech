@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416f4BJ0gaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HPMGAFA-es'
+slug: 'B00HPMGAFA-es Tamron SP 150-600 MM F/5-6 3 Di VC USD - Objetivo para...'
+tags: nikon
 actualPrice: 854.0 EUR
 currency: EUR
 price: 854.0

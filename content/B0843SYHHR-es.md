@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sl7dIrmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0843SYHHR-es'
+slug: 'B0843SYHHR-es PRIXTON Lumière - Proyector portatil / Proyector LED...'
+tags: microsd, full, hd
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

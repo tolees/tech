@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wstw772TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HMWSNG-es'
+slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
+tags: 1080p, bluetooth, wifi, altavoz
 actualPrice: 226.57 EUR
 currency: EUR
 price: 226.57

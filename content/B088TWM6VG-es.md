@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nj5pvET8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TWM6VG-es'
+slug: 'B088TWM6VG-es NOV8Tech - Cámara web Full HD 1080p con micrófono para...'
+tags: 1080p, ordenador, full, hd
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

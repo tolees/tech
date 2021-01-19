@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Z5BY7A+8L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00STGS7TI-es'
+slug: 'B00STGS7TI-es Energy Sistem Tower 5 - Sistema de sonido Bluetooth 60 W...'
+tags: bluetooth
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

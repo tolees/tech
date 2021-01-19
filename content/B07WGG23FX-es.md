@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qbamaxEZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGG23FX-es'
+slug: 'B07WGG23FX-es CUBOT Quest 4G Smartphone IP68 Robusto 4GB RAM + 64GB ROM...'
+tags: ram, smartphone
 actualPrice: 144.22 EUR
 currency: EUR
 price: 144.22

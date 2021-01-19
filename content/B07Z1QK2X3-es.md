@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410SJ2YnfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1QK2X3-es'
+slug: 'B07Z1QK2X3-es NETVUE Camaras de Vigilancia WiFi Exterior 1080P Visión...'
+tags: 1080p, alexa, wifi
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

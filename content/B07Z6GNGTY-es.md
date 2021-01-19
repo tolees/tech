@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516jPlYbkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6GNGTY-es'
+slug: 'B07Z6GNGTY-es Trípode de teléfono móvil Trípodes de cámara Flexibles...'
+tags: bluetooth, iphone, móvil, samsung
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

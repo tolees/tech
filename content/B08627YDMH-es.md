@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dfXQA771L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08627YDMH-es'
+slug: 'B08627YDMH-es Oihxse Funda Compatible con Samsung Galaxy S6 Edge Carcasa...'
+tags: galaxy, samsung
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

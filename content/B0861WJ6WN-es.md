@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41De9Kr8RML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861WJ6WN-es'
+slug: 'B0861WJ6WN-es LG gram 14Z90N-V-AR50B - Ordenador portátil ultraligero de...'
+tags: ips, ordenador, ram, teclado
 actualPrice: 959.0 EUR
 currency: EUR
 price: 959.0

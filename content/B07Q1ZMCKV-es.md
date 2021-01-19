@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dRRdjn4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1ZMCKV-es'
+slug: 'B07Q1ZMCKV-es 2X Funda Xiaomi Redmi Note 7 Cárcasa Silicona Transparente...'
+tags: móvil, xiaomi
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

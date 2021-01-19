@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Djwb4BgNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS36C1L-es'
+slug: 'B07RS36C1L-es Jvchengxi Funda Protectora para Galaxy Watch Active...'
+tags: galaxy
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

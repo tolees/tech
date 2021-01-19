@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLJL6T-es'
+slug: 'B077MLJL6T-es Clarilou Funda Smartphone - Diseño Exclusivo Love Yourself...'
+tags: smartphone
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

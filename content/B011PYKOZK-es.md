@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311YMp-nX-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011PYKOZK-es'
+slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
+tags: bluetooth, iphone
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

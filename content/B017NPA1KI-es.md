@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DrLuM7RWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NPA1KI-es'
+slug: 'B017NPA1KI-es Tiempo de saldos mesa de PC soporte plegable ordenador...'
+tags: ordenador, tablet
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

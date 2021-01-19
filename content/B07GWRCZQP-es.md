@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JLvgDBg6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWRCZQP-es'
+slug: 'B07GWRCZQP-es JBL Charge 4 - Altavoz inalámbrico portátil Impermeable...'
+tags: bluetooth, altavoz
 actualPrice: 106.25 EUR
 currency: EUR
 price: 106.25

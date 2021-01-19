@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DRG4hfs+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KV1IMMU-es'
+slug: 'B01KV1IMMU-es ratón gaming HAVIT RGB 10000 DPI y 14 botones...'
+tags: ratón
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

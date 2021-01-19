@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-HazCFIWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SYKYMZ-es'
+slug: 'B085SYKYMZ-es Funda iPhone 11 6.1" Silicona Anti-Golpes Detalles...'
+tags: apple, iphone
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

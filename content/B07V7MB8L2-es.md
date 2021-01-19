@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BvTGKy5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7MB8L2-es'
+slug: 'B07V7MB8L2-es HP Smart Tank Plus 570 - Impresora multifunción imprime...'
+tags: impresora, móvil
 actualPrice: 238.0 EUR
 currency: EUR
 price: 238.0

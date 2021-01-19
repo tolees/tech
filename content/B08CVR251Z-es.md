@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417qmRUJ4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVR251Z-es'
+slug: 'B08CVR251Z-es XINFULUK Ratón inalámbrico de 2 4 GHz Ratón para Juegos...'
+tags: ratón
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

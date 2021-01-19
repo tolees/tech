@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xgAwz-tYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHRF4YC-es'
+slug: 'B07WHRF4YC-es GC Pro Cargador para Portátil Lenovo B560 B570 G530 G550...'
+tags: lenovo, ordenador
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

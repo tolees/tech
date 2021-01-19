@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eExDhXX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8KMCWZ-es'
+slug: 'B07K8KMCWZ-es MOSNOVO Funda para iPhone XR Transparente Carcasa para...'
+tags: iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

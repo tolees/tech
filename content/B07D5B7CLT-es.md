@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iAmqWs6FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5B7CLT-es'
+slug: 'B07D5B7CLT-es Funda Huawei P20 Flexible TPU Silicona Moda Lindo Case...'
+tags: huawei
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QlL5R1KvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D3FSQ3-es'
+slug: 'B075D3FSQ3-es Trust Gaming GXT 344 Creon - Auriculares Gaming para PC...'
+tags: auriculares, ps4, xbox
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

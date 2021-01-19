@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ET6E4B6EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LSBB8P-es'
+slug: 'B087LSBB8P-es Oihxse Cristal Compatible con Samsung Galaxy A80/A90 Funda...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

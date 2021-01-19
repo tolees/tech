@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TZjUDFDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BFQ34N-es'
+slug: 'B086BFQ34N-es Oihxse Funda Compatible con Xiaomi Redmi GO/Redmi 5A...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

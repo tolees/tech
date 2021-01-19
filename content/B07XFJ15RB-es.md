@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zhZfK321L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFJ15RB-es'
+slug: 'B07XFJ15RB-es Arbily Auriculares Inalámbricos Bluetooth 5.0 con Caja de...'
+tags: auriculares, bluetooth
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

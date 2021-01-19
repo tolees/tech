@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s3ul4MDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075B2LFJF-es'
+slug: 'B075B2LFJF-es Altavoz Bluetooth10W Altavoz de Bicicleta Bluetooth 5.0...'
+tags: bluetooth, altavoz
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

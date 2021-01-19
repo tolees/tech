@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qS9mx5uGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXWKFLY-es'
+slug: 'B07HXWKFLY-es JeVx Altavoz Furgoneta Volkswagen T1 Bluetooth USB para...'
+tags: bluetooth, altavoz
 actualPrice: 44.91 EUR
 currency: EUR
 price: 44.91

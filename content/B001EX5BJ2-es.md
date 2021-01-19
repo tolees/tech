@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SH6V-kMTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EX5BJ2-es'
+slug: 'B001EX5BJ2-es Canon PG-510 Cartucho de tinta original Negro para...'
+tags: canon, impresora
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

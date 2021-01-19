@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lTQCUXnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFSYZZ3-es'
+slug: 'B07FFSYZZ3-es HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador...'
+tags: ordenador
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

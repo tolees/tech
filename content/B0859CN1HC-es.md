@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B6veb7HHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0859CN1HC-es'
+slug: 'B0859CN1HC-es Oihxse Funda Xiaomi Mi 10 5G Ultra Delgado Transparente...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sJbAuIfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCN36FW-es'
+slug: 'B08BCN36FW-es Interruptor de reinicio del botón Interruptor de circuito...'
+tags: wifi
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

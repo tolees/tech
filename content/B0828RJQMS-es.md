@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41anvakTJRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828RJQMS-es'
+slug: 'B0828RJQMS-es Adaptador WiFi de Largo Alcance USB 17500Mbps Dongle...'
+tags: wifi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

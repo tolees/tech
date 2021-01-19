@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mvww4A2GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PC4UGZS-es'
+slug: 'B00PC4UGZS-es Trust Yvi - Ratón óptico inalámbrico Dream Catcher'
+tags: ratón
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YVa2YpUhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X54JDS4-es'
+slug: 'B07X54JDS4-es YINSAN Auriculares Gaming para PS4 Cascos Gaming Premium...'
+tags: auriculares, ps4, nintendo, switch
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

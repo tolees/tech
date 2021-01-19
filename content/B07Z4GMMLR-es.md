@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DwV-LdMQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4GMMLR-es'
+slug: 'B07Z4GMMLR-es LENCENT Cargador USB Pared con 2 Puerto[2 Unidades]...'
+tags: huawei, iphone, móvil, samsung, xiaomi
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

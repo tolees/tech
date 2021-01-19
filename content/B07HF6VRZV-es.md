@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nx0vCbH3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF6VRZV-es'
+slug: 'B07HF6VRZV-es Pengo 4K HDMI Pass-Through Grabber Capturadora de Video...'
+tags: ps4, xbox
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

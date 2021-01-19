@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I+QpEfOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0I0K0E-es'
+slug: 'B01M0I0K0E-es Assassin s Creed: The Ezio Collection - Xbox One'
+tags: xbox
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

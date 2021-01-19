@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o5JaKOirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL9M47Q-es'
+slug: 'B07SL9M47Q-es FreeLeben Xiaomi Scooter Eléctrico Disco de Freno Disco de...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

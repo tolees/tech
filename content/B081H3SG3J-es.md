@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Zs9IZzEzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081H3SG3J-es'
+slug: 'B081H3SG3J-es Mpow Barra de Sonido Atlavoz Bluetooth 5.0 para PC/TV 20W...'
+tags: bluetooth, altavoz
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

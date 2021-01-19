@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MCfT24O-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ3JGL8-es'
+slug: 'B07XZ3JGL8-es Micrófono inalámbrico con auriculares 2 en 1 EXJOY del...'
+tags: auriculares
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

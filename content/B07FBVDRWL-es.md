@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bdKM8bkhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBVDRWL-es'
+slug: 'B07FBVDRWL-es AOC 24V2Q – Monitor de 24” Full HD IPS Resolución 1920 x...'
+tags: ips, full, hd
 actualPrice: 111.57 EUR
 currency: EUR
 price: 111.57

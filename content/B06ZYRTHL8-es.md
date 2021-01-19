@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s9UtCwSIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYRTHL8-es'
+slug: 'B06ZYRTHL8-es ASUS VZ27AQ - Monitor Eye Care de 27 Pulgadas WQHD IPS...'
+tags: asus, ips
 actualPrice: 269.19 EUR
 currency: EUR
 price: 269.19

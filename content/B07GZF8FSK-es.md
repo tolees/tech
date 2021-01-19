@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-tkZIl5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZF8FSK-es'
+slug: 'B07GZF8FSK-es [1-Pack]para Samsung Galaxy S9 Protector de Pantalla...'
+tags: galaxy, samsung
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

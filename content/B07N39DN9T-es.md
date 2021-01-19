@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yg8I5bIKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39DN9T-es'
+slug: 'B07N39DN9T-es QITAYO Funda Huawei P30 Lite de Tup Suave Carcasa...'
+tags: huawei
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

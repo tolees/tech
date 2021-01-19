@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yVp5fCtwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SW4NZCW-es'
+slug: 'B07SW4NZCW-es iWalker Smart Pulsera Fitness Tracker Pulsera Actividad de...'
+tags: huawei, iphone, xiaomi
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EEjuc--jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRPYW1L-es'
+slug: 'B08CRPYW1L-es Panamar 360 Grados de rotación de 9.7/10.1 Pulgadas Tablet...'
+tags: tablet
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

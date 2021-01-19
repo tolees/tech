@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ISJ4oqroL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6HZBC3-es'
+slug: 'B07D6HZBC3-es LiuShan BQ Aquaris M10 Funda Folio Soporte PU Cuero Con...'
+tags: tablet
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

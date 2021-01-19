@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AsSNd872L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QV61BYL-es'
+slug: 'B07QV61BYL-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
+tags: gps, iphone, móvil, samsung
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

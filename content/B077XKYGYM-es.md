@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XHD8bWJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XKYGYM-es'
+slug: 'B077XKYGYM-es LW Cable de tendido electrónico de alta calidad Cable de...'
+tags: gigabit
 actualPrice: 68.79 EUR
 currency: EUR
 price: 68.79

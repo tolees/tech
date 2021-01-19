@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oF4ri1shL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQCZ52X-es'
+slug: 'B07RQCZ52X-es STAROVER Cartucho de Tóner Compatible Reemplazo para HP...'
+tags: impresora
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

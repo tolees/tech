@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E2NyVAHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PTLSH9G-es'
+slug: 'B00PTLSH9G-es Anker Cargador USB Charging Hub 60W 6 Puertos USB...'
+tags: galaxy, iphone, xiaomi
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

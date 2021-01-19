@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A6nFk1tqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HCYTRCY-es'
+slug: 'B00HCYTRCY-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
+tags: ratón
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

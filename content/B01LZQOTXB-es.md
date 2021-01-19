@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417yrjELbyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZQOTXB-es'
+slug: 'B01LZQOTXB-es Pioneer SE-MJ553BT - Auriculares inalámbricos Bluetooth...'
+tags: apple, auriculares, bluetooth, pioneer
 actualPrice: 35.39 EUR
 currency: EUR
 price: 35.39

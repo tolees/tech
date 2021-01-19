@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g-fHEeztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNBBMG2-es'
+slug: 'B07GNBBMG2-es Neewer 48 Centímetros LED Anillo de Luz Blanco con Soporte...'
+tags: móvil
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

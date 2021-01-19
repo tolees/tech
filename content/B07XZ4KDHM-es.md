@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41go%2B5Ktn5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ4KDHM-es'
+slug: 'B07XZ4KDHM-es 2019 Nuevo Toque Auriculares Bluetooth Auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 59 EUR
 currency: EUR
 price: 59

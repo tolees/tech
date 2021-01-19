@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XF46ammjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1WXXJQ-es'
+slug: 'B07P1WXXJQ-es Ombar Teclado Mecánico Gaming 105 Teclas y Switches Blue...'
+tags: teclado
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

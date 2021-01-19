@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412VYVxzjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3QQ7BB-es'
+slug: 'B07Z3QQ7BB-es HP 14-dk0017ns - Ordenador portátil de 14" FullHD AMD...'
+tags: ordenador, ram, teclado
 actualPrice: 508.28 EUR
 currency: EUR
 price: 508.28

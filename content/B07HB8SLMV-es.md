@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4104McrVzLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB8SLMV-es'
+slug: 'B07HB8SLMV-es SanDisk Extreme - Tarjeta de memoria microSDXC para...'
+tags: sandisk
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

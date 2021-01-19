@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qPES13WvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013SLCFPU-es'
+slug: 'B013SLCFPU-es Logitech M535 Ratón Inalámbrico Bluetooth Sensor Láser...'
+tags: bluetooth, logitech, ratón
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

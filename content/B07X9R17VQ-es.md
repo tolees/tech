@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4195Ln2o1DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9R17VQ-es'
+slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil...'
+tags: huawei, iphone, samsung
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

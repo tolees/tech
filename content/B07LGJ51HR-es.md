@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZJyS2QNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGJ51HR-es'
+slug: 'B07LGJ51HR-es Funda iPhone X Funda iPhone XS Libro Carcasa iPhone X con...'
+tags: iphone
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

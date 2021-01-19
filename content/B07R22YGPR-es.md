@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BqqQ6DbL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R22YGPR-es'
+slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
+tags: gps, iphone, móvil, smartphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

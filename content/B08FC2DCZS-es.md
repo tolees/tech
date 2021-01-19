@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41miTW6sycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC2DCZS-es'
+slug: 'B08FC2DCZS-es Batería HAC-003 de Repuesto Antank para Consola de Juegos...'
+tags: nintendo, nintendo, switch
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

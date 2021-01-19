@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB827NV-es'
+slug: 'B07SB827NV-es HP Laser MFP 135a - Impresora láser multifunción imprime...'
+tags: impresora
 actualPrice: 97.8 EUR
 currency: EUR
 price: 97.8

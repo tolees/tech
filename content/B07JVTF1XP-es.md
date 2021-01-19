@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qe-G36l4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVTF1XP-es'
+slug: 'B07JVTF1XP-es MEDION MD61178 - Ordenador portátil de 15.6" Full HD Intel...'
+tags: ordenador, ram, full, hd
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

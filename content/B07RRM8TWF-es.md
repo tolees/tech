@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UG4GQ9-4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRM8TWF-es'
+slug: 'B07RRM8TWF-es RGB Tira Led Alexa Uzone WiFi 5050 RGB 5m Luces de Tira...'
+tags: alexa, wifi, google, home
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

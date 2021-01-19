@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YLcZE4RZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZLSFBH-es'
+slug: 'B08BZLSFBH-es GAOAG Extensor WiFi 2020 Negro'
+tags: wifi
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

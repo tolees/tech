@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BIbUCvdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RO9QE0-es'
+slug: 'B000RO9QE0-es Philips SHE1350/00 Auriculares intrauditivos'
+tags: auriculares
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

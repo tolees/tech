@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZympT5T0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W45LYY8-es'
+slug: 'B07W45LYY8-es OtterBox Commuter - Funda de Protección para Apple iPhone...'
+tags: apple, iphone
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

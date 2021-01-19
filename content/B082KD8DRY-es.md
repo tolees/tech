@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Pz+CNgifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KD8DRY-es'
+slug: 'B082KD8DRY-es Auriculares Verdaderos de Bluetooth TicPods 2 Auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

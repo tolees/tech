@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hWkGGiGzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYSGRL4-es'
+slug: 'B07TYSGRL4-es Hd 1080p HDMI VGA Adaptador Convertidor Hembra Cable de...'
+tags: 1080p
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

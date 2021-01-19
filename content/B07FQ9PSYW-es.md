@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gjYVL2eRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ9PSYW-es'
+slug: 'B07FQ9PSYW-es Aigoss Receptor Bluetooth USB Adaptador de Audio Bluetooth...'
+tags: bluetooth
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

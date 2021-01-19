@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fm5PNZzpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VZKYS7-es'
+slug: 'B085VZKYS7-es Toner Kingdom Cartucho de Toner Compatible Reemplazo para...'
+tags: impresora
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

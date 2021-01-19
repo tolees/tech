@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SAi9ywoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W11MJK6-es'
+slug: 'B07W11MJK6-es ZIPRINT 1800 Páginas Tóner Compatible Samsung MLT-D111L...'
+tags: samsung
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

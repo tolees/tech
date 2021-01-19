@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411BnzPplbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CHHNRY-es'
+slug: 'B081CHHNRY-es JYHEHOT Alfombrillas de ratón reposamuñecas para teclado y...'
+tags: ratón, teclado
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

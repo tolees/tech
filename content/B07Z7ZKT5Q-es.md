@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xFgUSPEJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7ZKT5Q-es'
+slug: 'B07Z7ZKT5Q-es Oihxse Compatible con Samsung Galaxy Note 9 Funda Silicona...'
+tags: galaxy, samsung
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

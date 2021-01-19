@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r4NieP+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQPM3QW-es'
+slug: 'B07VQPM3QW-es Samsung Galaxy Watch Active2 - Smartwatch Bluetooth Plata...'
+tags: bluetooth, galaxy, samsung, smartwatch
 actualPrice: 224.93 EUR
 currency: EUR
 price: 224.93

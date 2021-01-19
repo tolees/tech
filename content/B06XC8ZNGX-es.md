@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31F38cgOP2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC8ZNGX-es'
+slug: 'B06XC8ZNGX-es Lenovo V510-15Ikb Ordenador portátil 15 6" HD Intel...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 231.71 EUR
 currency: EUR
 price: 231.71

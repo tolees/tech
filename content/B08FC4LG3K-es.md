@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jFXjmBZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC4LG3K-es'
+slug: 'B08FC4LG3K-es eXtremeRate Botones Completos para Xbox One S/X Botón de...'
+tags: xbox
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

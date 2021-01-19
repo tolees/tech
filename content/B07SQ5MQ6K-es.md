@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DMaLW1SJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ5MQ6K-es'
+slug: 'B07SQ5MQ6K-es Anker PowerCore Essential 20000 PD Batería Externa...'
+tags: iphone, samsung
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

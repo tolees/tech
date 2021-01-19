@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BjDgsrlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB472BQ-es'
+slug: 'B07XB472BQ-es Ansblue Correa Compatible para Garmin Vivofit 4 Correa...'
+tags: garmin
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415ZpvAbrQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089S34NVS-es'
+slug: 'B089S34NVS-es SP-Cow Adaptador Bluetooth 4.2 USB Dongle WiFi Antena...'
+tags: bluetooth, wifi
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

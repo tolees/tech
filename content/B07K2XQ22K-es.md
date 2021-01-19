@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bYrvZAwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2XQ22K-es'
+slug: 'B07K2XQ22K-es Samsung Galaxy A9 Smartphone 4G Octa-Core Ram de 6 GB...'
+tags: bluetooth, galaxy, ram, samsung, smartphone
 actualPrice: 359.9 EUR
 currency: EUR
 price: 359.9

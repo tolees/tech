@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVtJGw3CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074D5NXT7-es'
+slug: 'B074D5NXT7-es Numark DJ2GO2 - Controlador de DJ Ultraportátil de 2...'
+tags: auriculares
 actualPrice: 59 EUR
 currency: EUR
 price: 59

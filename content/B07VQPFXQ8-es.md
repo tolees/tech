@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LcxE7UdOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQPFXQ8-es'
+slug: 'B07VQPFXQ8-es PowerA - Mando inalámbrico mejorado Spyro Nintendo Switch'
+tags: nintendo, nintendo, switch
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

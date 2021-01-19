@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LKXYMD-es'
+slug: 'B086LKXYMD-es Sony WFXB700B True Wireless - Auriculares Totalmente...'
+tags: auriculares, bluetooth, sony
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52
@@ -26,9 +27,9 @@ Está [Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluet
 ℹ️:
 
 - Resistencia IPX4
-- Conexión Bluetooth simultánea en ambos auriculares
+- Totalmente inalámbrico
 - Hasta 18h de batería con caja (9 h de uso sin caja)
 - Llamadas manos libres
-- Totalmente inalámbrico
+- Conexión Bluetooth simultánea en ambos auriculares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21)

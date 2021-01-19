@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Dm5CQZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005EJH6RW-es'
+slug: 'B005EJH6RW-es AmazonBasics - Ratón con 3 botones y cable USB 5V - 100mA...'
+tags: ratón
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

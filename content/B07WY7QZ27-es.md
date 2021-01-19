@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q2dkuoIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WY7QZ27-es'
+slug: 'B07WY7QZ27-es Impresora Multifuncional Canon PIXMA TS5350 Negra Wifi de...'
+tags: canon, impresora, wifi
 actualPrice: 66.82 EUR
 currency: EUR
 price: 66.82

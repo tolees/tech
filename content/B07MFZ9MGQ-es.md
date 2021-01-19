@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V3CYle-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFZ9MGQ-es'
+slug: 'B07MFZ9MGQ-es Fitbit Versa Lite - Reloj Deportivo Smartwatch Adultos...'
+tags: smartwatch
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

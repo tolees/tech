@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TquDP9ONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJSSKZM-es'
+slug: 'B07YJSSKZM-es Tablet 10 Pulgadas Android 8.1 Tablet Procesador Quad-Core...'
+tags: bluetooth, ram, tablet
 actualPrice: 78.19 EUR
 currency: EUR
 price: 78.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GUcviIkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IF2CP1G-es'
+slug: 'B01IF2CP1G-es KLIM™ Cool – Refrigerador para Ordenador Portátil –...'
+tags: ordenador
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

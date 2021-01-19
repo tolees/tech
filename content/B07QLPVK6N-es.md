@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bB9EX8WhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLPVK6N-es'
+slug: 'B07QLPVK6N-es Guzack Riñonera Deportivo Bolso Cintura Cinturón Running...'
+tags: iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

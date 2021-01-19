@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DvnT1EhYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCZN2HR-es'
+slug: 'B07ZCZN2HR-es Moviles Libres DOOGEE X90 Android 8.1 Smartphones Libres...'
+tags: bluetooth, móvil
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

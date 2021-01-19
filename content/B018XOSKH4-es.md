@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410S394ZG4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018XOSKH4-es'
+slug: 'B018XOSKH4-es Toshiba X300 4TB 4000GB Serial ATA III - Disco Duro Serial...'
+tags: toshiba, disco, duro
 actualPrice: 122.59 EUR
 currency: EUR
 price: 122.59

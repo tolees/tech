@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qSDbubPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XQP83N-es'
+slug: 'B082XQP83N-es Auriculares Bluetooth Mpow Auriculares Inalámbrico 5.0...'
+tags: auriculares, bluetooth
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41190y8w+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CDB3BQR-es'
+slug: 'B07CDB3BQR-es Corsair HS70 Wireless - Auriculares inalámbricos para...'
+tags: auriculares
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

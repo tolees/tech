@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iPVenneQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ8FFTT-es'
+slug: 'B07SZ8FFTT-es Auriculares Fresh n Rebel Clam Misty Mint | Auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 61.68 EUR
 currency: EUR
 price: 61.68

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41twQnO+pDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KNGGCN-es'
+slug: 'B076KNGGCN-es MSI WS63VR 7RL-072ES - Ordenador portátil de 15.6" UHD...'
+tags: ordenador, ram
 actualPrice: 1957.65 EUR
 currency: EUR
 price: 1957.65

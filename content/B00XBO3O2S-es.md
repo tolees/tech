@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XBO3O2S-es'
+slug: 'B00XBO3O2S-es Mars Gaming MKHA1 - Teclado gaming para PC respuesta...'
+tags: teclado
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

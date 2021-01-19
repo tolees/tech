@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tzMZU9bXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZDYWRL-es'
+slug: 'B077ZDYWRL-es Auna iTuner 320 - Radio con Internet Sintonizador HiFi...'
+tags: wifi
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

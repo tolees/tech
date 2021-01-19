@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21amEDclMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0893CHDSH-es'
+slug: 'B0893CHDSH-es LG SN9YG - Barra de Sonido Hi-Res con Dolby Atmos 24...'
+tags: bluetooth, wifi
 actualPrice: 616.25 EUR
 currency: EUR
 price: 616.25

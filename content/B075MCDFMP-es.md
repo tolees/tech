@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IncDIqVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MCDFMP-es'
+slug: 'B075MCDFMP-es Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del...'
+tags: ps4, xbox
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

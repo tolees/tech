@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61I6Lgl4qhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822VNMFM-es'
+slug: 'B0822VNMFM-es MRSTER Funda Compatible con Xiaomi Redmi Note 8 3D Brillos...'
+tags: xiaomi
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

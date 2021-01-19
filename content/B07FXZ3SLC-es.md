@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YumpSzfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXZ3SLC-es'
+slug: 'B07FXZ3SLC-es Corsair K70 RGB MK.2 Teclado Mecánico USB Alámbrico Tamaño...'
+tags: teclado
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

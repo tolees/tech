@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s9D0kCG5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RWSYCN-es'
+slug: 'B073RWSYCN-es GPC Image TN1050 Cartuchos de Tóner reemplazo Compatible...'
+tags: impresora
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

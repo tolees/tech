@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51omL5eb7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCQG8P3-es'
+slug: 'B07ZCQG8P3-es JE Cargador Inalámbrico Coche Qi 15W Carga Rápida Cargador...'
+tags: galaxy
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CiEIUZyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078RCBRHR-es'
+slug: 'B078RCBRHR-es TUKA Mouse Pad Alfombrilla de ratón con el cojín de muñeca...'
+tags: ratón
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

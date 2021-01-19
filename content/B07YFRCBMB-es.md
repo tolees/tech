@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jBfhkEZUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFRCBMB-es'
+slug: 'B07YFRCBMB-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para El...'
+tags: alexa, wifi, google, assistant
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dqRi9xC0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMQ3V5N-es'
+slug: 'B07WMQ3V5N-es Fintie Funda con Teclado Español Ñ para Huawei MediaPad T3...'
+tags: bluetooth, huawei, teclado
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

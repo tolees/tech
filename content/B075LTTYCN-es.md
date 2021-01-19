@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OV0cDCUoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LTTYCN-es'
+slug: 'B075LTTYCN-es Mac Audio MPS - Minicadena Dab+ Dab+ Bluetooth USB CD AUX...'
+tags: bluetooth
 actualPrice: 158.3 EUR
 currency: EUR
 price: 158.3

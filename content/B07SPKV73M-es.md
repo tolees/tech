@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kqAnCgPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPKV73M-es'
+slug: 'B07SPKV73M-es Philips Hue Pack de 2 Bombillas Inteligentes LED GU10 con...'
+tags: alexa, bluetooth, google, home
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

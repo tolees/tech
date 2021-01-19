@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9VNCV2-es'
+slug: 'B07L9VNCV2-es Auriculares Inalámbricos Verdaderos iHaper TWS Audífonos...'
+tags: auriculares
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

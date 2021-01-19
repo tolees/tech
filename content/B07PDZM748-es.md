@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tETTrk2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDZM748-es'
+slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled...'
+tags: galaxy, ram, samsung, smartphone
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

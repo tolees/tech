@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418lN+JsmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSJMCJ3-es'
+slug: 'B07WSJMCJ3-es MODAUTO Soporte de Videojuego Soporte de Juego de Carreras...'
+tags: logitech
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

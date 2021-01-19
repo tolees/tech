@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZEHaiVKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB6L5TR-es'
+slug: 'B07RB6L5TR-es Lenovo Legion Y44w - Monitor de 43.4" Pantalla UHD 3840 x...'
+tags: lenovo
 actualPrice: 873.0 EUR
 currency: EUR
 price: 873.0

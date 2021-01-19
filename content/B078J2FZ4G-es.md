@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qzbp4uoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078J2FZ4G-es'
+slug: 'B078J2FZ4G-es D-Link COVR-C1203 - Kit WiFi Mesh/Malla con 3 Puntos de...'
+tags: wifi
 actualPrice: 156.09 EUR
 currency: EUR
 price: 156.09

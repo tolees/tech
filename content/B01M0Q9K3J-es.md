@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3102JdceEZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0Q9K3J-es'
+slug: 'B01M0Q9K3J-es Auriculares Inalámbricos Powerbeats3 Wireless Bluetooth -...'
+tags: auriculares, bluetooth
 actualPrice: 150.45 EUR
 currency: EUR
 price: 150.45

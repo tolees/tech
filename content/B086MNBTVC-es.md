@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZmZhOplhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MNBTVC-es'
+slug: 'B086MNBTVC-es RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019...'
+tags: apple
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

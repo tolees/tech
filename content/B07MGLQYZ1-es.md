@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VLhKtdEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGLQYZ1-es'
+slug: 'B07MGLQYZ1-es EZVIZ Cámara de vigilancia WiFi interior 1080p PTZ cámara...'
+tags: 1080p, alexa, wifi
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

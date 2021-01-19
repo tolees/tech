@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+OMmha+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XGRGR6-es'
+slug: 'B083XGRGR6-es SATECHI Adaptador Multi-Puertos Tipo-C Delgado con...'
+tags: gigabit, microsoft
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

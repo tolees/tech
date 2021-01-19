@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51roG-6FhUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH6X6VC-es'
+slug: 'B07LH6X6VC-es WeightWorld Plataforma Vibratoria 3D para Adelgazar y...'
+tags: bluetooth
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

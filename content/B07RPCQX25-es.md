@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j8qicow9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPCQX25-es'
+slug: 'B07RPCQX25-es HP Laserjet Pro M404dn - Impresora Láser Monocromo A4...'
+tags: gigabit, impresora
 actualPrice: 166.94 EUR
 currency: EUR
 price: 166.94

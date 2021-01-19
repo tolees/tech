@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RCuz+j-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPWJJPL-es'
+slug: 'B06XPWJJPL-es Samsung M471A1K43CB1-CRC 8GB DDR4 2400MH módulo de Memoria...'
+tags: samsung
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

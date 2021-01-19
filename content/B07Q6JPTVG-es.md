@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GTRnkqEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6JPTVG-es'
+slug: 'B07Q6JPTVG-es 3 en 1 Multi Cable de Carga GIANAC Nylon Multiple USB...'
+tags: galaxy, kindle, sony, xiaomi
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

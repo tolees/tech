@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lq5ujhNJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJTL5XJ-es'
+slug: 'B07PJTL5XJ-es Corsair K70 MK.2 RGB Low Profile Teclado mecánico para...'
+tags: teclado
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

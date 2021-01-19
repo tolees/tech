@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gjeb4X2VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711LMQVQ-es'
+slug: 'B0711LMQVQ-es COOSA Correa de Recambio Brazalete Extensibles Coloridos...'
+tags: xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

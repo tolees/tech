@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y3kp7LwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BF16JS-es'
+slug: 'B000BF16JS-es Canon Cartucho de tinta Negro para...'
+tags: canon
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

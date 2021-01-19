@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I+bH3iEgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCDX3YV-es'
+slug: 'B07LCDX3YV-es Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

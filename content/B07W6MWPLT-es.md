@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O7FmcFHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6MWPLT-es'
+slug: 'B07W6MWPLT-es DOOGEE S60 Lite Smartphone Al Aire Libre Robusto 4G Face...'
+tags: gps, móvil, smartphone
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

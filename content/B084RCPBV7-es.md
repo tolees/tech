@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oZcbt2vqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RCPBV7-es'
+slug: 'B084RCPBV7-es NK Body CAM Live Stream - Cámara Personal de Transmisión...'
+tags: wifi, altavoz
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

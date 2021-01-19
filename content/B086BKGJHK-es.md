@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41khdYd9MlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BKGJHK-es'
+slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

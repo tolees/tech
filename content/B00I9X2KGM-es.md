@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519vhRU+hOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I9X2KGM-es'
+slug: 'B00I9X2KGM-es Sony DSC-HX400V - Cámara compacta de 20.4 MP pantalla de...'
+tags: sony, full, hd
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0
@@ -25,13 +26,13 @@ Ahora mismo tienes [Sony DSC-HX400V - Cámara compacta de 20.4 MP  pantalla de 3
 
 🔎:
 
-- Grabación de vídeo 1080p Full HD
 - Sensor de 21.1 Mp
-- Estabilizador de imagen optical
 - NFC, Wi-Fi
+- Estabilizador de imagen optical
+- Pantalla de 3 pulgadas
 - Color negro
 - Zoom óptico 50x (24 -1200 mm)
-- Pantalla de 3 pulgadas
 - Peso del producto: 635 g
+- Grabación de vídeo 1080p Full HD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I9X2KGM/?tag=tolees-21)

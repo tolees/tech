@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifP5iw-UL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THKK4M8-es'
+slug: 'B07THKK4M8-es Lncoon Localizador GPS para Niños Antirrobo Rastreo...'
+tags: gps
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qbqc+46aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYXPTRS-es'
+slug: 'B07XYXPTRS-es UCMDA Funda para Xiaomi Redmi Note 8 Pro con Protector de...'
+tags: xiaomi
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

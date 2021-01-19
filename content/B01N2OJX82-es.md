@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BjoHDJzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2OJX82-es'
+slug: 'B01N2OJX82-es Mixoo Stylus Lapiz Táctil Capacitivo con Puntas de 2...'
+tags: apple
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

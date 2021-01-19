@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t3B9FvtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK958TH-es'
+slug: 'B07XK958TH-es Seagate One Touch SSD 500 GB Disco duro externo portátil...'
+tags: disco, duro
 actualPrice: 77.11 EUR
 currency: EUR
 price: 77.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OiML5UF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765B8YMB-es'
+slug: 'B0765B8YMB-es Honeywell Home Wi-Fi C2 Cámara Seguridad angular 145° en...'
+tags: 1080p
 actualPrice: 74.23 EUR
 currency: EUR
 price: 74.23

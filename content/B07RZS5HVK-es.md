@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OUOsP5TcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZS5HVK-es'
+slug: 'B07RZS5HVK-es Anpollo Alfombrilla para ratón Speed Gaming XXL 900 x 400...'
+tags: ratón
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

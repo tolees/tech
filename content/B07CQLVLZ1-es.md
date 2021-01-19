@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aR4QpsfPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQLVLZ1-es'
+slug: 'B07CQLVLZ1-es iGPSPORT S60 Soporte Frontal para Manillar Bicicleta para...'
+tags: garmin, gps
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

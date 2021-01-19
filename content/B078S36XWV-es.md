@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ve6mS7UoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S36XWV-es'
+slug: 'B078S36XWV-es AOC G2590VXQ - Monitor de 24.5" 75 Hz Full HD 1920 x 1080...'
+tags: full, hd
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

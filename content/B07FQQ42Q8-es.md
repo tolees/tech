@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kOhF-6IrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQQ42Q8-es'
+slug: 'B07FQQ42Q8-es Lenovo Yoga 530-14IKB - Ordenador Portátil táctil...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

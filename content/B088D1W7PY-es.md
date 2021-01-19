@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+UoVX2rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D1W7PY-es'
+slug: 'B088D1W7PY-es Younsea Correa Galaxy Watch Active 2 Correas de Acero...'
+tags: galaxy
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tykRh58qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPMC9H2-es'
+slug: 'B07JPMC9H2-es Pioneer Club 5 Altavoz de Bluetooth LED Iluminación Voice...'
+tags: bluetooth, iphone, pioneer, altavoz
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

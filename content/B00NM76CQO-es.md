@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNPrRsycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NM76CQO-es'
+slug: 'B00NM76CQO-es StarTech.com PXTNB2SEU1M - Cable de alimentación estándar...'
+tags: ordenador
 actualPrice: 4.12 EUR
 currency: EUR
 price: 4.12

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ql2pYhRVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9M4TV4-es'
+slug: 'B07L9M4TV4-es iHaper Auriculares Inalámbricos BT4.2 - Auriculares...'
+tags: auriculares
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

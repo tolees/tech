@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G5uuvM7ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F3XSM6I-es'
+slug: 'B00F3XSM6I-es Netgear JGS524PE-100EUS - Smart Switch gestionable 24...'
+tags: gigabit, netgear
 actualPrice: 246.8 EUR
 currency: EUR
 price: 246.8

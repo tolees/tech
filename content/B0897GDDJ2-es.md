@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sKIW+gbHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897GDDJ2-es'
+slug: 'B0897GDDJ2-es ieGeek Webcam 1080P con Soporte USB PC Cámara Web con...'
+tags: 1080p, full, hd
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

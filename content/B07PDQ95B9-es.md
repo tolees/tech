@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310Bq1DypZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDQ95B9-es'
+slug: 'B07PDQ95B9-es Webcam 1080P AUSDOM HD Cámara para Ordenador con Micrófono...'
+tags: 1080p, ordenador
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

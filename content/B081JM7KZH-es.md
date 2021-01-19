@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JM7KZH-es'
+slug: 'B081JM7KZH-es DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran...'
+tags: 1080p
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

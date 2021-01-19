@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419BWHVXYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PZFL6N-es'
+slug: 'B079PZFL6N-es Fujifilm FUJ105231 - Pel?cula instant instax mini pink...'
+tags: fujifilm
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

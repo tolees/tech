@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21tfT1j0-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ9Y7ZN-es'
+slug: 'B07MZ9Y7ZN-es Samsung EP-P5200 Interior Negro - Cargador Interior...'
+tags: samsung
 actualPrice: 52.56 EUR
 currency: EUR
 price: 52.56

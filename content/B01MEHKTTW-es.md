@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SqZLItmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MEHKTTW-es'
+slug: 'B01MEHKTTW-es Tecnoware Sistema de alimentación ininterrumpida SAI Era...'
+tags: wifi
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

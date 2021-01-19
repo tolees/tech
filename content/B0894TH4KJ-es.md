@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zkw3N+XeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894TH4KJ-es'
+slug: 'B0894TH4KJ-es Adaptador Bluetooth 5.0 Receptor Transmisor Bluetooth 2 en...'
+tags: auriculares, bluetooth
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

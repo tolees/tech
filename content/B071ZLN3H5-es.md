@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eL7TUTnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZLN3H5-es'
+slug: 'B071ZLN3H5-es Motorola Moto E4 - Smartphone Libre de 5" HD 2.800 mAh de...'
+tags: motorola, ram, smartphone
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UsWVn3jqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZC1FWL-es'
+slug: 'B07WZC1FWL-es Asbww | Dron GPS con Cámara Full HD 1080p para...'
+tags: 1080p, gps, full, hd
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

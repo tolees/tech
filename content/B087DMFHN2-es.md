@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IZLL3zUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087DMFHN2-es'
+slug: 'B087DMFHN2-es Acer Aspire 5 - Ordenador Portátil de 14" FullHD Intel...'
+tags: ordenador, ram
 actualPrice: 729.99 EUR
 currency: EUR
 price: 729.99

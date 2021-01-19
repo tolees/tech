@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410d6S3GujL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT3FK5T-es'
+slug: 'B07VT3FK5T-es Moviles Libres Blackview A80 Pro Smartphone Libre 2020...'
+tags: ram, smartphone
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

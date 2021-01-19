@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uY99Fr+1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784RWD7B-es'
+slug: 'B0784RWD7B-es XP-PEN Artist15.6 IPS Monitor de Dibujo 8192 Niveles de...'
+tags: ips
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

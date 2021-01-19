@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GANnDqQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JBPJL5-es'
+slug: 'B075JBPJL5-es Fujifilm X-E3 - Cámara Evil de 24.3 MP y kit cuerpo con...'
+tags: fujifilm
 actualPrice: 838.95 EUR
 currency: EUR
 price: 838.95

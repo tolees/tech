@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311mupBtLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08951DYFL-es'
+slug: 'B08951DYFL-es Disco Flash teléfono móvil u Disco USB 3.0 Giratorio OTG...'
+tags: móvil
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

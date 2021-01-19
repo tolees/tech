@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aQhnf23TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL6M8PZ-es'
+slug: 'B07DL6M8PZ-es SwitchBot Hub Plus - Mando a distancia inteligente IR para...'
+tags: alexa, google, home
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

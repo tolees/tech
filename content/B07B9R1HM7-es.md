@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ikmz1-N7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9R1HM7-es'
+slug: 'B07B9R1HM7-es LG OK45 Microcadena Home Audio Mini System Multi Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 100.27 EUR
 currency: EUR
 price: 100.27

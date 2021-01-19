@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dl8ze616L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYNDKD6-es'
+slug: 'B07QYNDKD6-es Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD Intel...'
+tags: ram, teclado
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

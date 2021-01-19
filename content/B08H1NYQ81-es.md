@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oeoFo6z3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H1NYQ81-es'
+slug: 'B08H1NYQ81-es Pkila Fusion Diseñado para Sony Xperia 5 II Funda Cover...'
+tags: sony
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

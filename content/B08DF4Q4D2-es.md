@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kHtd1OZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DF4Q4D2-es'
+slug: 'B08DF4Q4D2-es KingShark Funda Silicone Case para Samsung Galaxy Note 20...'
+tags: galaxy, samsung
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

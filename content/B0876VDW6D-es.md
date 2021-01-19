@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416GufChIhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876VDW6D-es'
+slug: 'B0876VDW6D-es Disco Duro Externo 2 TB klfjskldjflksjdkfd. 2TB Negro'
+tags: disco, duro
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

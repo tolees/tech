@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41krw4GgbKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYVLN3W-es'
+slug: 'B07PYVLN3W-es TOPVISION Proyector Cine en Casa de 5500 Lúmenes 720P...'
+tags: 1080p, full, hd
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

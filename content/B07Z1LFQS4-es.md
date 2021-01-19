@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iyFLPVyNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1LFQS4-es'
+slug: 'B07Z1LFQS4-es Jvchengxi Funda Protectora para Galaxy Watch Active 2 40mm...'
+tags: galaxy, samsung
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

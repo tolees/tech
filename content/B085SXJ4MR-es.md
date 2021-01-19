@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ibWodYdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SXJ4MR-es'
+slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
+tags: móvil
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

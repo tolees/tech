@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410YHyUvslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRLH66H-es'
+slug: 'B07DRLH66H-es Homyl - Cerradura antirrobo para Cable de Seguridad para...'
+tags: ordenador
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

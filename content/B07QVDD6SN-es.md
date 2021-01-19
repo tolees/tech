@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DCFhbvNOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVDD6SN-es'
+slug: 'B07QVDD6SN-es Funda XiaoMi Mi 9 SE con Cristal Templado AChris 3 en 1...'
+tags: xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

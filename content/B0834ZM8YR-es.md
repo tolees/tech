@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834ZM8YR-es'
+slug: 'B0834ZM8YR-es Netac Tarjeta de Memoria de 256GB Tarjeta Memoria...'
+tags: móvil
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

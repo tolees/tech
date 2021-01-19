@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410qVYXMzSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2QYK1P-es'
+slug: 'B07T2QYK1P-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
+tags: iphone
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

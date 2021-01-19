@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4BPBXG-es'
+slug: 'B07T4BPBXG-es HP Wireless Mouse 220 3FV66AA - Ratón inalámbrico Color Negro'
+tags: ratón
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

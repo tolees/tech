@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QlNJrHWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJZWQ5C-es'
+slug: 'B07XJZWQ5C-es KASTEWILL Adaptador Bluetooth 5.0 Receptor Transmisor...'
+tags: bluetooth
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

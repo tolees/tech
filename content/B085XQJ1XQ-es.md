@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VRs2DNtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XQJ1XQ-es'
+slug: 'B085XQJ1XQ-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

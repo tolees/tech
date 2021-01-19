@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EJwkj142L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZR6QK-es'
+slug: 'B07YYZR6QK-es Ulefone Armor X5 2020 4G IP68 Impermeable Smartphone...'
+tags: gps, smartphone
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

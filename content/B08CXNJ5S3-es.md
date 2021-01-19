@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rCrp4n+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXNJ5S3-es'
+slug: 'B08CXNJ5S3-es Cargador Coche USB Tipo C PD3.0+QC3.0 para Samsung S10 S20...'
+tags: huawei, samsung, xiaomi
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d0jaoroLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZT1FTX-es'
+slug: 'B07JZT1FTX-es Cable de Cargador Micro USB Trenzado Duradero Cable de...'
+tags: galaxy, samsung
 actualPrice: 3.18 EUR
 currency: EUR
 price: 3.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dJRn4WKIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WHHZFS-es'
+slug: 'B082WHHZFS-es SteelSeries Apex 5 - Teclado mecánico híbrido para Gaming...'
+tags: teclado
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D5q+7jU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0837MDTQ8-es'
+slug: 'B0837MDTQ8-es GPS coches 7 Pulgadas Navegadores GPS para Coche Navegador...'
+tags: gps
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k0b+RxfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCK9BCZ-es'
+slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal Digitales...'
+tags: apple, galaxy, iphone, kindle, samsung
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

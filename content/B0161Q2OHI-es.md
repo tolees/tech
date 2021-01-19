@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s6zf8ez4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0161Q2OHI-es'
+slug: 'B0161Q2OHI-es Beurer BC57 - Tensiómetro de muñeca función Bluetooth...'
+tags: bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

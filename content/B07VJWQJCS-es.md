@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jzl3Uzn9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJWQJCS-es'
+slug: 'B07VJWQJCS-es Lenovo Legion Y27gq-20 27.0 " QHD TN G-Sync Pro Gaming...'
+tags: lenovo
 actualPrice: 485.9 EUR
 currency: EUR
 price: 485.9

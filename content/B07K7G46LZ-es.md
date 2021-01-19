@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ArsOumd+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7G46LZ-es'
+slug: 'B07K7G46LZ-es Viedouce Mochila para Portátiles Escolares Mochilas...'
+tags: auriculares
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

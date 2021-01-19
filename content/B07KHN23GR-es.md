@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cEhfW8fzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHN23GR-es'
+slug: 'B07KHN23GR-es UniqueMe Funda Huawei Mate 20 X Ultra [Slim Thin] TPU...'
+tags: huawei
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

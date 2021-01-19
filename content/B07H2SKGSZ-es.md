@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FJhDpr64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2SKGSZ-es'
+slug: 'B07H2SKGSZ-es Funda para iPhone X/XS ZHIKE Diseño de una Sola Pieza...'
+tags: iphone
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

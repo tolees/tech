@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vtd9xfgvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FXYSV5-es'
+slug: 'B075FXYSV5-es Qubo Ares BL - Smartphone de 2.4" Memoria de 32 MB cámara...'
+tags: smartphone
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

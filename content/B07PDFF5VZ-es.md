@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ip7Xt6flL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDFF5VZ-es'
+slug: 'B07PDFF5VZ-es PRIXTON - Reloj Inteligente Hombre/Mujer-Reloj Smartwatch...'
+tags: gps, smartwatch
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

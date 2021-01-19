@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uv1yp8QjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTXXSAK-es'
+slug: 'B00MTXXSAK-es Samyang F1220506101 - Objetivo fotográfico CSC-Mirrorless...'
+tags: sony
 actualPrice: 298.98 EUR
 currency: EUR
 price: 298.98

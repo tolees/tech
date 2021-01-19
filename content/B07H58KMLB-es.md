@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416iX8eozJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H58KMLB-es'
+slug: 'B07H58KMLB-es Garmin Instinct - Reloj con GPS Unisex Rojo 1'
+tags: garmin, gps
 actualPrice: 235.98 EUR
 currency: EUR
 price: 235.98

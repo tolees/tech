@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G3HzuD+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3ZSR7D-es'
+slug: 'B07Y3ZSR7D-es HUAWEI 4G Mobile WiFi - Mobile WiFi 4G LTE CAT4 Piunto de...'
+tags: huawei, lte, wifi
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

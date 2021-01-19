@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ezpvqgNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDD4HCC-es'
+slug: 'B06XDD4HCC-es Samsung SWA-9000S/EN- Altavoces 2.0 canales Negro'
+tags: samsung
 actualPrice: 123.06 EUR
 currency: EUR
 price: 123.06

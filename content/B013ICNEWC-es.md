@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417sp3ggkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013ICNEWC-es'
+slug: 'B013ICNEWC-es KabelDirekt 5m Cable de Extensión HDMI compatible con HDMI...'
+tags: 1080p, ps4, xbox, full, hd
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

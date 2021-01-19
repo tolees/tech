@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NyzfVKsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3KRWTR-es'
+slug: 'B08B3KRWTR-es Lamicall Soporte de Almohada para Tablet - Almohada...'
+tags: iphone, samsung, tablet
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

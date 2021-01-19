@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ic2sibi9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWTMG1C-es'
+slug: 'B07MWTMG1C-es Gigabyte Technology - GeForce RTX 2060 GAMING OC PRO BLACK...'
+tags: gigabyte
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9

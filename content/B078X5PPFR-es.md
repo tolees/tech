@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UU9yBi1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078X5PPFR-es'
+slug: 'B078X5PPFR-es Lenovo LEGION Y25f - Monitor de 24.5" Pantalla Full HD LED...'
+tags: lenovo, full, hd
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

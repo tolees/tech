@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ld6Ay-7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSR774R-es'
+slug: 'B07BSR774R-es Corsair HS70 Auriculares Inalámbricos para Juegos Sonido...'
+tags: auriculares
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GxwDLKYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CDGC4Q-es'
+slug: 'B085CDGC4Q-es FMPC Carcasa con Cuerda Samsung Galaxy A6 Plus 2018...'
+tags: galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411XH+18UuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YRC9PL-es'
+slug: 'B084YRC9PL-es AR-Gun Brazalete Deportivo Pack 2 uds valido para...'
+tags: galaxy, iphone, samsung
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

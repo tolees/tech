@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zAuS64hsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZMV7RL2-es'
+slug: 'B00ZMV7RL2-es Rankie Adaptador HDMI a VGA 1080P con Audio 3.5 mm Cable y...'
+tags: 1080p
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

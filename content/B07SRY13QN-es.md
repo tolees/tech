@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T900Ito1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRY13QN-es'
+slug: 'B07SRY13QN-es Philips Hue Pack de 3 Bombillas Inteligentes LED E27 con...'
+tags: alexa, bluetooth, google, home
 actualPrice: 162.39 EUR
 currency: EUR
 price: 162.39

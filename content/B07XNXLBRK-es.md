@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tOd48HiJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNXLBRK-es'
+slug: 'B07XNXLBRK-es SUNLU Impresora 3D DIY FDM 310 x 310 x 400 mm tamaño...'
+tags: impresora
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

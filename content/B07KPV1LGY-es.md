@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nHLQIZhRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPV1LGY-es'
+slug: 'B07KPV1LGY-es Brazalete Deportivo Brazalete Running Armband Movil...'
+tags: huawei, iphone, samsung
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

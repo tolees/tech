@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412g3EL4NoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1YTL1U-es'
+slug: 'B01D1YTL1U-es atFoliX Lámina Protectora de plástico Cristal compatible...'
+tags: sony
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

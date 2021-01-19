@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MaGUj-QWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T5BVVP-es'
+slug: 'B085T5BVVP-es Funda para Samsung Galaxy A71 + [2 Pack] Cristal Templado...'
+tags: galaxy, samsung
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

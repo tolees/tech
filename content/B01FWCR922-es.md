@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-rDVMW3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FWCR922-es'
+slug: 'B01FWCR922-es Corsair K70 LUX - Teclado mecánico Gaming retroiluminación...'
+tags: teclado
 actualPrice: 102.49 EUR
 currency: EUR
 price: 102.49

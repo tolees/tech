@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317opepNcEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGBJ8Y0-es'
+slug: 'B01BGBJ8Y0-es Logitech C270 Webcam HD 720p/30fps Video-Llamadaso HD...'
+tags: logitech
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bBu9veTGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQ4BM0K-es'
+slug: 'B01LQ4BM0K-es Razer Goliathus Control Fissure Medium - Suave alfombrilla...'
+tags: ratón
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

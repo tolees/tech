@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ygS3E81CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQY3QLS-es'
+slug: 'B07CQY3QLS-es TOSING 008 Micrófono de Karaoke Inalámbrico Bluetooth...'
+tags: bluetooth, altavoz
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

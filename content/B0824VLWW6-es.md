@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51up-YJ9sKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824VLWW6-es'
+slug: 'B0824VLWW6-es Auriculares Bluetooth Auriculares Inalámbricos Bluetooth...'
+tags: auriculares, bluetooth
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

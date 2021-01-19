@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aB85n1OqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GV1G9GK-es'
+slug: 'B01GV1G9GK-es TomTom Funda protectora clásica para todos los navegadores...'
+tags: tomtom
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

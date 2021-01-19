@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C3Xn-bLqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BC3TYDM-es'
+slug: 'B01BC3TYDM-es TECKNET Ratón con Cable Cable USB de 1 5 m 6 Botones hasta...'
+tags: ratón
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

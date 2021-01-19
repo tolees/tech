@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZBLKzX-LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5YM2DN-es'
+slug: 'B07F5YM2DN-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
+tags: canon, nikon, sony
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

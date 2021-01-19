@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nMDF8QfmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7TLJTL-es'
+slug: 'B07R7TLJTL-es Alapmk Diseñado Especialmente La Funda Protectora de Cuero...'
+tags: asus, galaxy, ordenador
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

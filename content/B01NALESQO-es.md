@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GZmRd-Q4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NALESQO-es'
+slug: 'B01NALESQO-es Crucial CT16G4RFS4266 - Memoria RAM de 16 GB DDR4 2666...'
+tags: ram
 actualPrice: 79.13 EUR
 currency: EUR
 price: 79.13

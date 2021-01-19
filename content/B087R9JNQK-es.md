@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+Bon4rnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087R9JNQK-es'
+slug: 'B087R9JNQK-es OOWOLF HD Webcam Cámara Web Full HD 1080P con Micrófono...'
+tags: 1080p, full, hd
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

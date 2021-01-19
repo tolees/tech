@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sTXae-JIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZBGV11-es'
+slug: 'B086ZBGV11-es Railway Empire - Nintendo Switch Edition'
+tags: nintendo, nintendo, switch
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

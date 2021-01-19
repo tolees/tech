@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314uJ5bHNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZNYFMM-es'
+slug: 'B07CZNYFMM-es DURAGADGET Práctico Divisor De Auriculares para...'
+tags: auriculares
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ROs7kl4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFJ86TH-es'
+slug: 'B07GFJ86TH-es Panasonic Lumix DC-LX100 II - Cámara Compacta Premium de...'
+tags: bluetooth, panasonic, wifi
 actualPrice: 806.65 EUR
 currency: EUR
 price: 806.65

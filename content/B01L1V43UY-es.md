@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-BusKKsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L1V43UY-es'
+slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
+tags: iphone, wacom
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

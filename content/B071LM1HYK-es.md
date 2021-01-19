@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dtUvo4eFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LM1HYK-es'
+slug: 'B071LM1HYK-es HP Z4N74AA - Monitor curvo Full HD de 27" 1920 x 1080...'
+tags: full, hd
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

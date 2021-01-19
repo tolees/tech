@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZuWsWQGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZT7GMF-es'
+slug: 'B089ZT7GMF-es Altavoz Bluetooth portátil con Luz de 5 Modos Recargable...'
+tags: bluetooth, altavoz
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

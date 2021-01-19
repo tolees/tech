@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d5UbtkIjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD6BFPB-es'
+slug: 'B07YD6BFPB-es GPC Image 20 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
+tags: canon
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

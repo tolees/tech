@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412AozkbeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS8JTNM-es'
+slug: 'B07WS8JTNM-es Power Bank PD 3.0 Batería Externa15800mAh con USB C QC 3.0...'
+tags: huawei, iphone, samsung
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

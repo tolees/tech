@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31phGLhxtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF9LLMM-es'
+slug: 'B07KF9LLMM-es GOZAR Scooter Eléctrico Motocicleta Bloqueo O Forma...'
+tags: xiaomi
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

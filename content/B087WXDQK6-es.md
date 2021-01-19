@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+uLbsOr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WXDQK6-es'
+slug: 'B087WXDQK6-es Swonuk USB Cámara Web 1080P con Micrófono Computadora...'
+tags: 1080p
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

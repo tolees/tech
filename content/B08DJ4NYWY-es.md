@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ4NYWY-es'
+slug: 'B08DJ4NYWY-es Disco Duro Externo 2 TB Disco Duro Externo USB3.0 para PC...'
+tags: xbox, disco, duro
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

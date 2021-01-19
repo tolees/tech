@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jDXluvZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVDCDQM-es'
+slug: 'B07GVDCDQM-es UniqueMe Funda para iPhone XS 2018 / iPhone X 2017 Ultra...'
+tags: iphone
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

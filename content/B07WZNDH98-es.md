@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VT++ROkOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZNDH98-es'
+slug: 'B07WZNDH98-es Tablet 10.1 Pulgadas barats 4G Android 9.0 Pie 32GB...'
+tags: bluetooth, ram, tablet, wifi
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

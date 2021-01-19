@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515hsRN9ZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9LZK04-es'
+slug: 'B01N9LZK04-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
+tags: playstation, ps4
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

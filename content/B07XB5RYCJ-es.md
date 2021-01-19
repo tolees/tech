@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HcXKG-INL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB5RYCJ-es'
+slug: 'B07XB5RYCJ-es Mini Pluma para cámara-Bolígrafo de cámara espía-Pluma...'
+tags: 1080p
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

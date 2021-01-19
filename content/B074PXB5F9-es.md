@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419Tc8KrRSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PXB5F9-es'
+slug: 'B074PXB5F9-es Trust Ziva - Teclado Gaming Layout español Negro'
+tags: teclado
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

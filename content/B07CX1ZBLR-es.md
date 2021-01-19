@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JJ5+rGilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CX1ZBLR-es'
+slug: 'B07CX1ZBLR-es Belkin Boost Up Soporte de Carga Inalámbrica de 10 W...'
+tags: galaxy, huawei, iphone, samsung
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FTzNYdTgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQCJPYS-es'
+slug: 'B07NQCJPYS-es ESR Funda para iPad Air 3ª generación 2019/ iPad 2019 con...'
+tags: apple
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

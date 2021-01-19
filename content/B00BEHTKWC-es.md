@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317vAV2EpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BEHTKWC-es'
+slug: 'B00BEHTKWC-es Sonos Playbar barra de sonido HiFi - sonido envolvente...'
+tags: altavoz
 actualPrice: 598.0 EUR
 currency: EUR
 price: 598.0

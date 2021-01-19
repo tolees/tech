@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512MH-eVQIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX7FZHQ-es'
+slug: 'B07RX7FZHQ-es FIFA 20 - PlayStation 4 [Importación inglesa]'
+tags: playstation
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KS49+UTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLW5HK-es'
+slug: 'B085LLW5HK-es MKTOSASA - Auriculares intraurales inalámbricos Bluetooth®...'
+tags: auriculares
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

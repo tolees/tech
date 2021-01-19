@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jyKDVphWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPN563F-es'
+slug: 'B07ZPN563F-es Anker Soundcore Strike 1 Gaming Auriculares auriculares de...'
+tags: auriculares, ps4, xbox
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

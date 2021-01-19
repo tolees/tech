@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GgXyc+LZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPBWTK1-es'
+slug: 'B07MPBWTK1-es Transmisor FM Manos Libres Bluetooth para Coche...'
+tags: bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

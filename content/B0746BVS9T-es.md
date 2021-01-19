@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F2O0xBt6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746BVS9T-es'
+slug: 'B0746BVS9T-es Billetera Cuero Funda para Huawei P10 Lite Careynoce...'
+tags: huawei
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

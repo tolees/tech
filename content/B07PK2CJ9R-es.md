@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mdw5p+aiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK2CJ9R-es'
+slug: 'B07PK2CJ9R-es Ofertas móviles 4.0 pulgadas HD Teeno Smartphone Oferta...'
+tags: ram, smartphone
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

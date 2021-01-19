@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xjfR2J-BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2WWP8F-es'
+slug: 'B07W2WWP8F-es AVIWIS Compatible with Samsung Huawei OnePlus 6T Kindle...'
+tags: huawei, kindle, samsung
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

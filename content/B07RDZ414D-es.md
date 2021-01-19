@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c5x+7aylL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDZ414D-es'
+slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD...'
+tags: ordenador, ram, teclado
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

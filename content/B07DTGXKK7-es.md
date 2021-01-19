@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51u-h8NFAML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTGXKK7-es'
+slug: 'B07DTGXKK7-es AOC C27G1 - Monitor Gaming Curvo de 27" con Pantalla Full...'
+tags: full, hd
 actualPrice: 214.05 EUR
 currency: EUR
 price: 214.05

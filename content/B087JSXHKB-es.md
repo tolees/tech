@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tjB3-eUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JSXHKB-es'
+slug: 'B087JSXHKB-es Magnético Cable USB Tipo C RAVIAD [2 Pack 1M] Magnetico...'
+tags: galaxy, huawei, xiaomi
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

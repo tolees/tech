@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q37QM1V-es'
+slug: 'B07Q37QM1V-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda...'
+tags: xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

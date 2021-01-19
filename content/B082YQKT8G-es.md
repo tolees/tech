@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416kPsjvKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YQKT8G-es'
+slug: 'B082YQKT8G-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con...'
+tags: huawei
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

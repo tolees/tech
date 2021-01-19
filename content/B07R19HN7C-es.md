@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416eg5e02+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R19HN7C-es'
+slug: 'B07R19HN7C-es Regleta Inteligente WiFi Smart Power Stripcon 4 Zócalos y...'
+tags: alexa, wifi, google, assistant
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

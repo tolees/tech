@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L5cG68wvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1HXYCV-es'
+slug: 'B08B1HXYCV-es Anillo de Luz con Tripode doosl 10" Regulables Selfies...'
+tags: iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

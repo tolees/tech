@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-KtNuyZSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y4NVNW-es'
+slug: 'B077Y4NVNW-es Xiaomi Mi A1 - Smartphone libre de 5.5" 4G WiFi Bluetooth...'
+tags: bluetooth, ram, smartphone, wifi, xiaomi
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

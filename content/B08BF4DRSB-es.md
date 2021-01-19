@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pH3YtwQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BF4DRSB-es'
+slug: 'B08BF4DRSB-es AFXMATE - Auriculares Bluetooth con cancelación de ruido...'
+tags: auriculares, bluetooth
 actualPrice: 26.17 EUR
 currency: EUR
 price: 26.17

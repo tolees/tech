@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BXQQfKtoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWZPNZY-es'
+slug: 'B07TWZPNZY-es Alcatel 1S - Smartphone de 5.5" Octacore RAM de 4 GB...'
+tags: ram, smartphone
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313mJNo5jyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VTVGSDW-es'
+slug: 'B06VTVGSDW-es Logitech Spotlight Presentador Inalámbrico 2.4 GHz y...'
+tags: bluetooth, logitech
 actualPrice: 80.53 EUR
 currency: EUR
 price: 80.53

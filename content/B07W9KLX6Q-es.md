@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vVsrZjf5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9KLX6Q-es'
+slug: 'B07W9KLX6Q-es Auriculares inalámbricos Philips SHB2515BK/10 auriculares...'
+tags: auriculares, bluetooth
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

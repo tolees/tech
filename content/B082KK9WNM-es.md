@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519f6cCJPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KK9WNM-es'
+slug: 'B082KK9WNM-es BANLVS Smartwatch Reloj Inteligente IP67 con Correa...'
+tags: smartwatch
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

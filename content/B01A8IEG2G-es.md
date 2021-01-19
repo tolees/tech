@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j1UYufEaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8IEG2G-es'
+slug: 'B01A8IEG2G-es RAMPOW Cable Micro USB 2 4A Carga Rápida [2 Pack] -...'
+tags: galaxy, kindle, motorola, samsung, sony
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

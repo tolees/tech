@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517FEDF%2BttL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7TNX27-es'
+slug: 'B07Z7TNX27-es Smartwatch Reloj Inteligente Mujer Hombre Pulsera de...'
+tags: huawei, iphone, samsung, smartwatch, xiaomi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

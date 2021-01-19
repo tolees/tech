@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D1175MIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVKMZLW-es'
+slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM ieGeek Adaptador de Audio...'
+tags: auriculares, bluetooth
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oi+M7BxfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W14F5CQ-es'
+slug: 'B07W14F5CQ-es Blurams Snowman 1080p FHD Cámara de Vigilancia en Domo...'
+tags: 1080p
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

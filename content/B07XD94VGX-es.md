@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zEtIA7CLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD94VGX-es'
+slug: 'B07XD94VGX-es Teclado y Raton Inalambrico Español TedGem 2.4G Teclado...'
+tags: teclado
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

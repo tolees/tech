@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iQDHQKxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGVJ9GY-es'
+slug: 'B06WGVJ9GY-es Beyerdynamic MMX 300 - Auriculares de gamimg con micrófono...'
+tags: auriculares
 actualPrice: 245.0 EUR
 currency: EUR
 price: 245.0

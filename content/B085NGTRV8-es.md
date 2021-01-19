@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416sXIsxVvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NGTRV8-es'
+slug: 'B085NGTRV8-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
+tags: móvil
 actualPrice: 199.89 EUR
 currency: EUR
 price: 199.89

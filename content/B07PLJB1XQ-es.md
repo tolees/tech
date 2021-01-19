@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412KHUX9vqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLJB1XQ-es'
+slug: 'B07PLJB1XQ-es PRIXTON – Reloj Inteligente Smartwatch para Android e iOS...'
+tags: smartwatch
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

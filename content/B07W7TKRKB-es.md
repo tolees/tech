@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518KzhOnUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TKRKB-es'
+slug: 'B07W7TKRKB-es LEGO Friends - Heladería Móvil Set de Construcción de...'
+tags: móvil
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

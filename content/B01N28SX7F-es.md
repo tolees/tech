@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311hgCUKHeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N28SX7F-es'
+slug: 'B01N28SX7F-es Primux TW01 - Torre de Sonido con Bluetooth 30W FM Color...'
+tags: bluetooth
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

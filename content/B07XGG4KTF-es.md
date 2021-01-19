@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iHBt6ejEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGG4KTF-es'
+slug: 'B07XGG4KTF-es LK [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 8...'
+tags: xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

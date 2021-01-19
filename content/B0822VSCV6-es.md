@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b1urh0a0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822VSCV6-es'
+slug: 'B0822VSCV6-es Funda para Xiaomi Mi Note 10 / Note 10 Pro 360 Grados...'
+tags: xiaomi
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BYH4XiwAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KLG8QB-es'
+slug: 'B077KLG8QB-es Garmin Vívomove HR- Reloj híbrido con pantalla oculta y...'
+tags: garmin
 actualPrice: 158.87 EUR
 currency: EUR
 price: 158.87

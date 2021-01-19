@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rg8b4z43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFV6D3-es'
+slug: 'B07TBFV6D3-es IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action...'
+tags: wifi
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

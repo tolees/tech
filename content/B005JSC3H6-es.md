@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312LSiU8YZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JSC3H6-es'
+slug: 'B005JSC3H6-es Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para...'
+tags: panasonic
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

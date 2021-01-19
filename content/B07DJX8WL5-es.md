@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nbwItCmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJX8WL5-es'
+slug: 'B07DJX8WL5-es TEKKIWEAR. DMX121BK. Smartwatch Phone H1 Dual Core con...'
+tags: gps, smartwatch
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

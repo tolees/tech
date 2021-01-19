@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXF7TX5-es'
+slug: 'B08FXF7TX5-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Note 10/Note...'
+tags: xiaomi
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

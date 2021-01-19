@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UV0E+++QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QLBP9K-es'
+slug: 'B075QLBP9K-es Cable Guy Sonic The Hedgehog de Sega Soporte de sujeción o...'
+tags: smartphone
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

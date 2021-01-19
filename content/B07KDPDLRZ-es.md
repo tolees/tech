@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I6ZT7dh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDPDLRZ-es'
+slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
+tags: playstation, ps4, sony
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

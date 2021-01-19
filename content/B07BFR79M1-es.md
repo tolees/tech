@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H8CmLhDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFR79M1-es'
+slug: 'B07BFR79M1-es Microsoft Surface Book 2 - Ordenador portátil convertible...'
+tags: microsoft, ordenador, ram, teclado
 actualPrice: 2171.99 EUR
 currency: EUR
 price: 2171.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416W81eHIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B03ADXE-es'
+slug: 'B01B03ADXE-es Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP Super...'
+tags: panasonic, wifi
 actualPrice: 285.76 EUR
 currency: EUR
 price: 285.76

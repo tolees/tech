@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513sRb-733L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CST672P-es'
+slug: 'B07CST672P-es FSKE 90W 20V 4.5A ADLX65NDC3A ADLX90NLC3A ADLX65SLC2A...'
+tags: lenovo, ordenador
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

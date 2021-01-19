@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BVZe0QqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TFKNCY-es'
+slug: 'B083TFKNCY-es NETVIP Repetidor WiFi AC1200 Extensor WiFi Amplificador...'
+tags: wifi
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

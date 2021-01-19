@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDSRZZM-es'
+slug: 'B07QDSRZZM-es FREDI Cámara de vigilancia para Exteriores 1080P HD...'
+tags: 1080p
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

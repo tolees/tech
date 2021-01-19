@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ndrafyhUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CTSFP0K-es'
+slug: 'B01CTSFP0K-es Arvok 13 13 3 Pulgadas Funda Protectora para...'
+tags: ordenador
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

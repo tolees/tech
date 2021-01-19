@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2XSS5C-es'
+slug: 'B06Y2XSS5C-es PRIXTON - Soporte para Tablet Coche/Soporte Universal de...'
+tags: tablet
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

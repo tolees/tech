@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416cH524ceL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRNJMCG-es'
+slug: 'B07NRNJMCG-es Apexcam 4K 20MP Cámara Deportiva WiFi EIS Ultra HD Cámara...'
+tags: wifi
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

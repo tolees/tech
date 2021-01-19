@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OFkU3SFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRZGLR6-es'
+slug: 'B07WRZGLR6-es MP3 BENJIE 16GB 1.8" Reproductor de MP3 Pantalla Táctil...'
+tags: bluetooth, altavoz
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

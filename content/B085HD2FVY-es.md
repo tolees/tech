@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A3rkUODpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HD2FVY-es'
+slug: 'B085HD2FVY-es Zambrero 550 551 Reemplazo para Canon PGI-550XL CLI-551XL...'
+tags: canon
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

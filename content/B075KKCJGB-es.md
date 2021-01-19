@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qHcfabV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KKCJGB-es'
+slug: 'B075KKCJGB-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con...'
+tags: sandisk
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

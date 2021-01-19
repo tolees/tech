@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PWJ0SQz2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P0FO1P0-es'
+slug: 'B00P0FO1P0-es UGREEN Cable Impresora para HP Epson Cable Largo de...'
+tags: canon, impresora, ordenador, samsung, disco, duro
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

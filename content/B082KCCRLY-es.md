@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mErcT8mkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KCCRLY-es'
+slug: 'B082KCCRLY-es LAYJOY Funda Xiaomi Redmi 8A Ligera Carcasa Silicona Suave...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

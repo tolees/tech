@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Pj87jQp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYJ9RGN-es'
+slug: 'B07FYJ9RGN-es Adaptador Cargador Compatible para Portátil ASUS Comp. 65w...'
+tags: asus
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

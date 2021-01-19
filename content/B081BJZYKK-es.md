@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414IAS16DSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJZYKK-es'
+slug: 'B081BJZYKK-es Jvchengxi Funda Protectora para Huawei Watch GT 2 46mm...'
+tags: huawei
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

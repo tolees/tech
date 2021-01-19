@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s1mFc9NLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNHG84W-es'
+slug: 'B07HNHG84W-es TOPELEK Luz de Lectura Recargable con 60H de Autonomía...'
+tags: tablet
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

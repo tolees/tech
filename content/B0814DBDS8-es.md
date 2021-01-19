@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517Bg6izxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814DBDS8-es'
+slug: 'B0814DBDS8-es LBLA FPV Drone con Cámara WiFi Live Video Headless Modo...'
+tags: wifi
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TZ+wDuPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KNM1TM-es'
+slug: 'B003KNM1TM-es QTX 8 – Controlador para QR8 altavoz armario'
+tags: altavoz
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

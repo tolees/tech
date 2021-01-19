@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dJ8EuWZbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP13W9V-es'
+slug: 'B07PP13W9V-es Android TV Box Android 8.1 TV Box Amlogic S905W Quad-Core...'
+tags: ram, wifi
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

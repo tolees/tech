@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ce9BhHVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAZRVU0-es'
+slug: 'B01LAZRVU0-es BigBen RR15METRO - Radio despertador pantalla LED de 2"...'
+tags: altavoz
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

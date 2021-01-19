@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Xh1FO6s3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V8B6ORS-es'
+slug: 'B00V8B6ORS-es Suunto - Smart Sensor Black HR Belt - Cinturón soporte...'
+tags: suunto
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

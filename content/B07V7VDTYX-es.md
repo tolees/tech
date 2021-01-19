@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nYVkc46pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7VDTYX-es'
+slug: 'B07V7VDTYX-es Orzly Gaming Keyboard and Mouse and Mouse Pad and Gaming...'
+tags: ps4, xbox
 actualPrice: 44.27 EUR
 currency: EUR
 price: 44.27

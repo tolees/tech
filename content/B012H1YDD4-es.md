@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cTyr9d07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012H1YDD4-es'
+slug: 'B012H1YDD4-es TECKNET Tarjeta de Sonido USB Tarjeta de Sonido Externa...'
+tags: auriculares, ordenador
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

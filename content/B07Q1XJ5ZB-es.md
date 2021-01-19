@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q0CxhOlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1XJ5ZB-es'
+slug: 'B07Q1XJ5ZB-es Huawei P30 Pro - Smartphone de 6.47" Kirin 980 Octa-Core...'
+tags: huawei, ram, smartphone
 actualPrice: 619.0 EUR
 currency: EUR
 price: 619.0

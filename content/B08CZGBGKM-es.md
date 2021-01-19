@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mRLdTc6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZGBGKM-es'
+slug: 'B08CZGBGKM-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
+tags: xbox, disco, duro
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

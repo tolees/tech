@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ex0i8GGyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPL21CW-es'
+slug: 'B07ZPL21CW-es Lenovo S145-15IWL - Ordenador portátil 15.6" FullHD Intel...'
+tags: lenovo, ordenador, ram, teclado
 actualPrice: 381.65 EUR
 currency: EUR
 price: 381.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3137E+9Be-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWAR461-es'
+slug: 'B01LWAR461-es Apple Beats Solo3 Auriculares de Diadema Inalámbricos - Plata'
+tags: apple, auriculares
 actualPrice: 109.2 EUR
 currency: EUR
 price: 109.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wnoA4YmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DGWR34-es'
+slug: 'B082DGWR34-es Edifier Studio R1700BT 2.0 - Altavoz con Bluetooth Color...'
+tags: bluetooth, altavoz
 actualPrice: 112.51 EUR
 currency: EUR
 price: 112.51

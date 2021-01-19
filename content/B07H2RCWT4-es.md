@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EEJ66+0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2RCWT4-es'
+slug: 'B07H2RCWT4-es ESR Auriculares inalámbricos con Controladores duales...'
+tags: auriculares, bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

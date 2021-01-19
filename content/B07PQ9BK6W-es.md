@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5176LE3vP9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ9BK6W-es'
+slug: 'B07PQ9BK6W-es Apple iPad mini - Tablet 20 1 cm 7.9" 2048 x 1536 Pixeles...'
+tags: apple, tablet
 actualPrice: 496 EUR
 currency: EUR
 price: 496

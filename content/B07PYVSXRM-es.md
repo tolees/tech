@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E4+p6DiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYVSXRM-es'
+slug: 'B07PYVSXRM-es Cámara de seguridad al aire libre Panamalar Smart 1080p...'
+tags: 1080p, alexa, smartphone, wifi
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415LBa5dzpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQ21ZT0-es'
+slug: 'B01LQ21ZT0-es HP LaserJet M203dw - Impresora láser A4 Wifi 1200 x 1200...'
+tags: impresora, wifi
 actualPrice: 158.44 EUR
 currency: EUR
 price: 158.44

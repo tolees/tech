@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FZ32XQX-es'
+slug: 'B08FZ32XQX-es LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa...'
+tags: xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

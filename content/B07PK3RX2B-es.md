@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4165ZVDHcEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK3RX2B-es'
+slug: 'B07PK3RX2B-es Tronsmart RGB Alfombrilla de Ratón Gaming XXL 800 x 300 x...'
+tags: ratón
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

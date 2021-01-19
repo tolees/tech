@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419prRDSQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YT3NYY1-es'
+slug: 'B07YT3NYY1-es Redmi Note 8 Pro– Smartphone con Pantalla 6 53" FullHD+...'
+tags: smartphone
 actualPrice: 220.45 EUR
 currency: EUR
 price: 220.45

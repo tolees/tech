@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c1w0vtu-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7YFHHR-es'
+slug: 'B07F7YFHHR-es Ferilinso Funda para Xiaomi Redmi Note 6 Pro Híbrido...'
+tags: xiaomi
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

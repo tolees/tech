@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YumpSzfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYBPZXT-es'
+slug: 'B07FYBPZXT-es Corsair K70 MK.2 RGB Teclado Mecánico Gaming...'
+tags: teclado
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

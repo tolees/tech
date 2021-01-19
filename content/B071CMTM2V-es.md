@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZezwZ3P3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CMTM2V-es'
+slug: 'B071CMTM2V-es Razer Kraken 7.1 V2: sonido envolvente 7.1 - Micrófono...'
+tags: auriculares, ps4
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

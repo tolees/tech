@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21gQeTqOMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6NXEY7-es'
+slug: 'B01N6NXEY7-es Sony HT-ST5000 - Barra de Sonido 7.1.2 Canales 800 W Dolby...'
+tags: bluetooth, sony
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

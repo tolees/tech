@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aWbqPjN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FYVXXZ-es'
+slug: 'B079FYVXXZ-es Samsung Protective Standing Cover - Funda para Galaxy S9+...'
+tags: galaxy, samsung
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

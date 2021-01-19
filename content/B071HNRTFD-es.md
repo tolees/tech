@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+j2EHFzqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HNRTFD-es'
+slug: 'B071HNRTFD-es Sony NWWS623 Walkman - Reproductor de MP3 deportivo...'
+tags: bluetooth, sony
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

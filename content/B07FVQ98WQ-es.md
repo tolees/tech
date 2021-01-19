@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61DrLaWAk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVQ98WQ-es'
+slug: 'B07FVQ98WQ-es Eazyhurry - Funda con tapa para iPhone 6 y 6S incluye...'
+tags: iphone
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

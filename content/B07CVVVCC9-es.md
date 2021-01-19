@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fktV03VfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVVVCC9-es'
+slug: 'B07CVVVCC9-es Samsung muf-64be4/eu 64gb 3.0 3.1 Gen 1 Conector USB Tipo...'
+tags: samsung
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

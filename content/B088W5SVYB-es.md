@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4199l6WNLWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088W5SVYB-es'
+slug: 'B088W5SVYB-es Oihxse Compatible con Motorola Moto G6 Plus Silicona Funda...'
+tags: motorola
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

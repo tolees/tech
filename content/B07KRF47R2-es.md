@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b3v5JC47L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRF47R2-es'
+slug: 'B07KRF47R2-es TianTa Funda para Galaxy Tab S3 9.7 Case Híbrido Tres...'
+tags: galaxy, samsung
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nWJdpoqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8VHS4J-es'
+slug: 'B07R8VHS4J-es Anpollo Alfombrilla de Ratón Alfombrilla de Ratón...'
+tags: ordenador, ratón
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

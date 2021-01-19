@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414NPwXJwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895FDF8Y-es'
+slug: 'B0895FDF8Y-es LIDEDE Adaptador USB a HDMI USB 3.0 a HDMI Full HD 1080P...'
+tags: 1080p, full, hd
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

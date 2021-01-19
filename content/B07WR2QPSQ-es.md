@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rfZ1vVZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR2QPSQ-es'
+slug: 'B07WR2QPSQ-es TENDOMI Humidificador Bebé Humidificador WiFi Inteligente...'
+tags: alexa, wifi, google, home
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

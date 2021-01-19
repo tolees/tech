@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qsj83I8tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWV3Z5S-es'
+slug: 'B07WWV3Z5S-es ELTD Funda + Protector Pantalla para Samsung Galaxy Tab A...'
+tags: galaxy, samsung
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316JVMJ2PFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ4KFJM-es'
+slug: 'B08DJ4KFJM-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
+tags: xbox, disco, duro
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

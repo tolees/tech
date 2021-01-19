@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GHArhGaTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCJJZ7Y-es'
+slug: 'B06XCJJZ7Y-es SADES SA902 USB Virtual 7.1 envolvente sonido Gaming...'
+tags: auriculares
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

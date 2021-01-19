@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BGbjn9nZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LL92BMI-es'
+slug: 'B01LL92BMI-es Cámara Yuntab Warrior G1S de 32 GB para deportes al aire...'
+tags: 1080p
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

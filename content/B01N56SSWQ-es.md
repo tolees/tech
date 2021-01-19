@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419WWiBRZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N56SSWQ-es'
+slug: 'B01N56SSWQ-es Pioneer SE-MS7BT-S - Auriculares de Tipo Diadema Bluetooth...'
+tags: auriculares, bluetooth, pioneer
 actualPrice: 75.32 EUR
 currency: EUR
 price: 75.32

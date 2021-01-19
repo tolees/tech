@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z8JyCTyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2JVDCH-es'
+slug: 'B06Y2JVDCH-es Case Logic LAPS111BRK - Funda para Ordenador portátil de...'
+tags: ordenador
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

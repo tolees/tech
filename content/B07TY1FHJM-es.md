@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cboJ80AhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1FHJM-es'
+slug: 'B07TY1FHJM-es PRIXTON Windows Cleaner Spire BT200 - Robot...'
+tags: móvil
 actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95

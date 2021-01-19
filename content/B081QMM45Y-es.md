@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SwEY5XVOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QMM45Y-es'
+slug: 'B081QMM45Y-es HP Pavilion 15-bc527ns - Ordenador portátil de 15.6"...'
+tags: ordenador, ram, teclado
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G0xniazhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2D87BV-es'
+slug: 'B07G2D87BV-es Auriculares Gaming Stereo Sony Oficial PS4 Bigben Interactive'
+tags: auriculares, ps4, sony
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

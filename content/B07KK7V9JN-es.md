@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y0+Yvq6aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK7V9JN-es'
+slug: 'B07KK7V9JN-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth Lámpara...'
+tags: bluetooth, iphone, kindle, ordenador, altavoz
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

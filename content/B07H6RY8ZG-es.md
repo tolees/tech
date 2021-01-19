@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4136ElGKjiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6RY8ZG-es'
+slug: 'B07H6RY8ZG-es Auriculares para Dormir Lauva Suaves y Cómodos Auriculares...'
+tags: auriculares
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

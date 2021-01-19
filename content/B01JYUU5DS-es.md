@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JJMXVBgjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYUU5DS-es'
+slug: 'B01JYUU5DS-es Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria...'
+tags: sandisk
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

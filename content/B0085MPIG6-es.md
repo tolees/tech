@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s+tYHUYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085MPIG6-es'
+slug: 'B0085MPIG6-es Lenovo 0A36307 batería Recargable - Batería/Pila...'
+tags: lenovo
 actualPrice: 78.13 EUR
 currency: EUR
 price: 78.13

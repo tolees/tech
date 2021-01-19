@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EfoUkjE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BTQHNC-es'
+slug: 'B088BTQHNC-es LUROON Soporte Tablet Soporte Teléfono Altura de ángulo...'
+tags: móvil, samsung, smartphone, tablet
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

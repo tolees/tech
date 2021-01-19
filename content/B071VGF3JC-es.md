@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KJxp5xn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VGF3JC-es'
+slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de...'
+tags: ram, smartphone, sony, full, hd
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

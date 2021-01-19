@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OkgKcBr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7VV9VT-es'
+slug: 'B07Z7VV9VT-es Bestcool Gorra Bluetooth Bluetooth Sombrero Hombre Gorra...'
+tags: auriculares, bluetooth
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

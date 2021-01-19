@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G+0pAVKRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JM35RG-es'
+slug: 'B071JM35RG-es Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD...'
+tags: sony
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UIVpW5b1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVXQ4SF-es'
+slug: 'B07DVXQ4SF-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
+tags: teclado
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

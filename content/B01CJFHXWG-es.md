@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cF96VIgSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJFHXWG-es'
+slug: 'B01CJFHXWG-es HP Color LaserJet Pro MFP M377dw - Impresora láser a color...'
+tags: gigabit, impresora
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

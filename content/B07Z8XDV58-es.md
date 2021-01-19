@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8XDV58-es'
+slug: 'B07Z8XDV58-es 2019 Nuevo Auriculares Bluetooth inalámbricos BT5.0 Touch...'
+tags: auriculares, bluetooth
 actualPrice: 59 EUR
 currency: EUR
 price: 59

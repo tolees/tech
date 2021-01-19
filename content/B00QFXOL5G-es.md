@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qDdiwiqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QFXOL5G-es'
+slug: 'B00QFXOL5G-es WD Black - Disco duro de alto rendimiento para ordenadores...'
+tags: disco, duro
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

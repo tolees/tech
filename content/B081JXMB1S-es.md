@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NvqF-5rpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JXMB1S-es'
+slug: 'B081JXMB1S-es Camara Fotos Infantil Cámara de Fotos para Niños con HD...'
+tags: 1080p
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P4EQYD0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYBDF0Y-es'
+slug: 'B01CYBDF0Y-es AUKEY Cable USB C a USB A 3.0 1m x 3 Nylón Cable USB Tipo...'
+tags: galaxy, nintendo, samsung, nintendo, switch
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

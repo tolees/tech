@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DBoeLlBLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078B7KQMR-es'
+slug: 'B078B7KQMR-es Crosstour Cámara De Coche 1080P Full HD Dash CAM 12MP 3"...'
+tags: 1080p, full, hd
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

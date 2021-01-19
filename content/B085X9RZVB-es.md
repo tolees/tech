@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dt2Z+gdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085X9RZVB-es'
+slug: 'B085X9RZVB-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

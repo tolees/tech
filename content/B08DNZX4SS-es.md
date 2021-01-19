@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iLpkEyryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZX4SS-es'
+slug: 'B08DNZX4SS-es Power Theory Protector Pantalla Cristal Templado para...'
+tags: nintendo, nintendo, switch
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

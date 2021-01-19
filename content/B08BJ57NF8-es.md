@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J2HAHVMhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ57NF8-es'
+slug: 'B08BJ57NF8-es Cinturón de Cintura para Correr HAISSKY Deportiva...'
+tags: iphone
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

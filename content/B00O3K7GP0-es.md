@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLn6IuWSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O3K7GP0-es'
+slug: 'B00O3K7GP0-es EDIFIER Studio R2000DB - Sistema de altavoces 2.0 120...'
+tags: bluetooth
 actualPrice: 239.8 EUR
 currency: EUR
 price: 239.8

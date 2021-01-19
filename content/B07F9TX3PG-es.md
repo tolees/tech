@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w5G0+mbWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9TX3PG-es'
+slug: 'B07F9TX3PG-es Lenovo C24 - Monitor de 23.6" Pantalla FullHD/IPS 1920 x...'
+tags: lenovo
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

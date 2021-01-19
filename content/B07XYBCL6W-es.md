@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XmT4EegJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYBCL6W-es'
+slug: 'B07XYBCL6W-es MSI Immerse GH50 - Auriculares 2.0 USB Sonido Virtual 7.1...'
+tags: auriculares
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

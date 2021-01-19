@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GG7LZX-es'
+slug: 'B075GG7LZX-es HP Laser Jet Pro M254dw - Impresora color hasta 21 ppm...'
+tags: impresora, disco, duro
 actualPrice: 204.93 EUR
 currency: EUR
 price: 204.93

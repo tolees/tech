@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hhq7cZIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYW9RY5-es'
+slug: 'B07RYW9RY5-es Silicon FBE-SU020TBPHDA60S3KFE - Disco Duro Externo 2 TB...'
+tags: disco, duro
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

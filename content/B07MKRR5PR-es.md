@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HEfQOF15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKRR5PR-es'
+slug: 'B07MKRR5PR-es OMRON RS3 Intelli IT - Tensiómetro de muñeca con...'
+tags: bluetooth
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

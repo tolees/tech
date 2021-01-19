@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l6nMZAnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYQPYKR-es'
+slug: 'B07MYQPYKR-es Cable de consola USB BENFEI 1 8m USB a RJ45 Compatible con...'
+tags: netgear
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dzzjejA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK8C7N2-es'
+slug: 'B07DK8C7N2-es Samyang SA7071 - Objetivo AF 85 mm F1.4 para Canon EF'
+tags: canon
 actualPrice: 578.7 EUR
 currency: EUR
 price: 578.7

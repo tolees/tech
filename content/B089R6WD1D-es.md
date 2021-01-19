@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HoOPZK4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R6WD1D-es'
+slug: 'B089R6WD1D-es LJP Funda Huawei Y9S Funda Huawei Honor 9X Antigolpes...'
+tags: huawei
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

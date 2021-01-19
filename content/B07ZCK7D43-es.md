@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bl6W7q5-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCK7D43-es'
+slug: 'B07ZCK7D43-es Tableta de 10.1 Pulgadas 4g LTE con Funda Plateada Android...'
+tags: bluetooth, lte, ram, tablet, altavoz
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

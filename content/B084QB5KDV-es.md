@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PmaRXVPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QB5KDV-es'
+slug: 'B084QB5KDV-es Correa de Repuesto de Silicona Anti-pérdida de Dos Colores...'
+tags: smartwatch, xiaomi
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

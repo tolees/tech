@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vZPLvWfpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9KT7J6-es'
+slug: 'B07T9KT7J6-es Vieta Pro Upper - Altavoz portátil Bluetooth Radio FM...'
+tags: bluetooth, altavoz
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

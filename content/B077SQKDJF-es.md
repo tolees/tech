@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eTfZmJD+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SQKDJF-es'
+slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces...'
+tags: bluetooth, altavoz
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

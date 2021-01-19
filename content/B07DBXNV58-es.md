@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eIvdu+uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXNV58-es'
+slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido Soporte de Carga...'
+tags: galaxy, iphone, samsung
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

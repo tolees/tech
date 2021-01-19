@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aLg-01hTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8SHDVM-es'
+slug: 'B07Z8SHDVM-es PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil...'
+tags: móvil, teclado
 actualPrice: 30.88 EUR
 currency: EUR
 price: 30.88

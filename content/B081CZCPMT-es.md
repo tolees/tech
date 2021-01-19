@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qFgyj0DiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CZCPMT-es'
+slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke Micrófono...'
+tags: bluetooth, altavoz
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

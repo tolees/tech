@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514mZNJrDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJDL5VM-es'
+slug: 'B08BJDL5VM-es Alfombra Musical - juguetes niños 1 2 3 4 5 6 años Musical...'
+tags: teclado
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

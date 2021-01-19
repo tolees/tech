@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VAzOWL0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BU29SI6-es'
+slug: 'B01BU29SI6-es Sony Xperia X 12 7 cm 5" 3 GB 32 GB 4G Oro 2620 mAh -...'
+tags: smartphone, sony
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

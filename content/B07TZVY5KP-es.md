@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LLFvQ01rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZVY5KP-es'
+slug: 'B07TZVY5KP-es QTshine Batería Externa 25800mAh Power Bank [Pantalla LCD...'
+tags: móvil
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

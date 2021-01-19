@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MieFBjLNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDFBLXJ-es'
+slug: 'B07DDFBLXJ-es Panasonic KX-TU150EXR - Teléfono Móvil Dual SIm Pantalla...'
+tags: móvil, panasonic
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

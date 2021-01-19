@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8aNZ-m6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0837JTT7H-es'
+slug: 'B0837JTT7H-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
+tags: bluetooth, altavoz
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

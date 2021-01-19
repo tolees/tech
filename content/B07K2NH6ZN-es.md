@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/11TbmUGAqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NH6ZN-es'
+slug: 'B07K2NH6ZN-es Apple Adaptador de USB-C a Toma para Auriculares de 3 5 mm'
+tags: apple, auriculares
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

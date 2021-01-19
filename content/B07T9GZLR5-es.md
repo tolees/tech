@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GR2V1992L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9GZLR5-es'
+slug: 'B07T9GZLR5-es Ibywind Protector de Pantalla para Xiaomi Mi 9T / Mi 9T...'
+tags: xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

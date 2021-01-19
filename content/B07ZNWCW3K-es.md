@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417aqAyAPUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNWCW3K-es'
+slug: 'B07ZNWCW3K-es OneOdio FUSION A7 Auricurales Circumaurales Inalámbricos...'
+tags: bluetooth
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KGe0yMf0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF8NK5X-es'
+slug: 'B07DF8NK5X-es Jabra Talk 15 – Auricular Monoaural In-Ear Llamadas...'
+tags: gps
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

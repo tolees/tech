@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mF5Iv+AgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KX7CQD-es'
+slug: 'B082KX7CQD-es Abeyete Ratón óptico Forma Vertical Diseño Ergonómico...'
+tags: ratón
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

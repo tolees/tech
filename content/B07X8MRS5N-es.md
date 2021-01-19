@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wPp+xHzQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8MRS5N-es'
+slug: 'B07X8MRS5N-es DIGITNOW! Dongle de Captura de Video HDMI USB 3.0 y...'
+tags: 1080p, full, hd
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

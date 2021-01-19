@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mQSlm9-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833VWGHM-es'
+slug: 'B0833VWGHM-es Cudy AX3000 WiFi 6 Adaptador PCIe Tarjeta WiFi pc...'
+tags: bluetooth, wifi
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

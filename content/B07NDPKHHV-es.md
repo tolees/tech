@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPKHHV-es'
+slug: 'B07NDPKHHV-es MEDION X30 RGB - Ordenador de sobremesa gaming Intel Core...'
+tags: ordenador, ram
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

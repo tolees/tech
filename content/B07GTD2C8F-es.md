@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419ylKAVSPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTD2C8F-es'
+slug: 'B07GTD2C8F-es devolo Magic 2 WiFi: Extensión PLC 2400 Mbps LAN y WiFi ac'
+tags: plc, wifi
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

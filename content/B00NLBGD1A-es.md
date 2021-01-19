@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xBlAF5J8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NLBGD1A-es'
+slug: 'B00NLBGD1A-es Canon Pancake EF-S 24 mm f/2.8 STM - Objetivo para Canon...'
+tags: canon
 actualPrice: 148.5 EUR
 currency: EUR
 price: 148.5

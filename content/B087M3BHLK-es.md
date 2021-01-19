@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3188TkBfFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M3BHLK-es'
+slug: 'B087M3BHLK-es Oihxse Silicona Funda con Samsung Galaxy M10 TPU Flexible...'
+tags: galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

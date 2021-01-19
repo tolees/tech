@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tHqLXztGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9JMSDX-es'
+slug: 'B08C9JMSDX-es eXtremeRate Carcasa Completa para Nintendo Switch Funda...'
+tags: nintendo, nintendo, switch
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

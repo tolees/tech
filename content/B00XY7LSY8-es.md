@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41emZSdyrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XY7LSY8-es'
+slug: 'B00XY7LSY8-es Arduino starter kit para principiantes K030007 [manual en...'
+tags: arduino
 actualPrice: 79.8 EUR
 currency: EUR
 price: 79.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ov2w4uoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQ58MZM-es'
+slug: 'B07RQ58MZM-es QYD - Cargador original para portátil Lenovo Yoga pro 4...'
+tags: lenovo
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

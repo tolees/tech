@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413uL1nosFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QPFM3M-es'
+slug: 'B089QPFM3M-es WEOFUN Protector de Pantalla Samsung A9 2018 3-Unidades...'
+tags: samsung
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

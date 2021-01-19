@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416MoLmzuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5RXNRN-es'
+slug: 'B07S5RXNRN-es HalfSun Impermeable IP67 Smartwatch HD Color Screen...'
+tags: smartwatch
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

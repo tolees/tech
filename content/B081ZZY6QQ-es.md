@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JbXUAmGwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ZZY6QQ-es'
+slug: 'B081ZZY6QQ-es 2019 Nuevo Altavoz Bluetooth portátil Altavoz Bluetooth a...'
+tags: bluetooth, altavoz
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

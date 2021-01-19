@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KD+bbeAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHQK2V8-es'
+slug: 'B08BHQK2V8-es Moviles Libres CUBOT P40 6.2" Pantalla Android 10 4GB RAM...'
+tags: ram, smartphone
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

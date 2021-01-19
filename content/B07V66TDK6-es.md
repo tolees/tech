@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BIF4nlONL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V66TDK6-es'
+slug: 'B07V66TDK6-es Moviles Libres 4G Smartphone Libre 6 0 Pulgadas Android...'
+tags: gps, ram, smartphone, wifi
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8
