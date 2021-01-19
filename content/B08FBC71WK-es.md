@@ -26,11 +26,11 @@ Está [MSI GS66 Stealth 10SE-616XES - Ordenador portátil Gaming de 15.6" FullHD
 
 ℹ️:
 
-- Sin sistema operativo
-- Pantalla de 15.6" FHD (1920*1080), 240Hz Thin Bezel, close to 100%sRGB
 - Tarjeta grafica Nvidia GeForce RTX 2060, GDDR6 6 GB
-- Almacenamiento de 1TB SSD NVMe PCIe Gen3x4
-- Procesador Intel Core i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
 - Memoria RAM de 32GB, 16 GB x 2 (3200 MHz)
+- Almacenamiento de 1TB SSD NVMe PCIe Gen3x4
+- Pantalla de 15.6" FHD (1920*1080), 240Hz Thin Bezel, close to 100%sRGB
+- Procesador Intel Core i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
+- Sin sistema operativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FBC71WK/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Lenovo L24q-30 - Monitor de 23.8 " QHD  2560x1440 pixeles  1
 
 🔎:
 
-- 4 ms y 75hz - atrévete a jugar con este monitor, tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
-- Diseño elegante - este monitor ergonómico casi sin bordes dispone de la tecnología TUV low blue light para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
 - 23. 8" QHD IPS - esta pantalla ips de 23. 8" pulgadas ofrece imágenes nítidas gracias a su resolución qhd
 - Cable incluido y puertoshdmi y dp - conéctate a través del cable HDMI de 1, 8m que viene incluido
+- Diseño elegante - este monitor ergonómico casi sin bordes dispone de la tecnología TUV low blue light para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
+- 4 ms y 75hz - atrévete a jugar con este monitor, tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PFWJTJ/?tag=tolees-21)
