@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ASNE9E6-es Hori - Funda rígida Pokémon Espada y Escudo Nintendo Switch'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

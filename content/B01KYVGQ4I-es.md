@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KYVGQ4I-es YATEK Localizador GPS portatil Inteligente gsm para...'
-tags: gps
+tags: tole.es, gps
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

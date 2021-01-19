@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFY7FWP-es Fossil Smartwatch para Mujer con Correa en Acero...'
-tags: smartwatch
+tags: tole.es, smartwatch
 actualPrice: 167.4 EUR
 currency: EUR
 price: 167.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3PCHZP-es SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y...'
-tags: sandisk
+tags: tole.es, sandisk
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

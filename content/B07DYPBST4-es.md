@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYPBST4-es Veeki - Ratón inalámbrico Bluetooth Ultrafino Portátil con...'
-tags: bluetooth, ordenador, ratón
+tags: tole.es, bluetooth, ordenador, ratón
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5HVMR7-es Samsung Book Cover EF-BT720 - Funda para Galaxy Tab S5e negro'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

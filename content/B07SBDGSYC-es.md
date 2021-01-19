@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBDGSYC-es SoundPEATS Auriculares inalámbricos Auriculares TWS...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

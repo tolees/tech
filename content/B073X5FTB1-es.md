@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X5FTB1-es Sony SBH24 Dentro de oído Binaural Inalámbrico Blanco -...'
-tags: auriculares, sony
+tags: tole.es, auriculares, sony
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

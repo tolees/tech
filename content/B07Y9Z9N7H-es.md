@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9Z9N7H-es Guzack Brazalete Deportivo Brazalete Correr Móvil para...'
-tags: galaxy, iphone, móvil, samsung
+tags: tole.es, galaxy, iphone, móvil, samsung
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

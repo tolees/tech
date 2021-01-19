@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JQRGH-es Auriculares Bluetooth Manos Libres Oreja Auricular...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

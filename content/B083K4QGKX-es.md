@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083K4QGKX-es LEADSTAR Templado Protector Pantalla para Samsung Galaxy...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

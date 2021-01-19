@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8MW2ZR-es GPD P2 MAX 8.9 Pulgadas Ultrabook portátil Mini PC...'
-tags: ram
+tags: tole.es, ram
 actualPrice: 789.99 EUR
 currency: EUR
 price: 789.99

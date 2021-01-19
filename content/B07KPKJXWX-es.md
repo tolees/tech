@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKJXWX-es Pioneer PHA-M70-H - Amplificador de Sonido Personal Color...'
-tags: pioneer
+tags: tole.es, pioneer
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

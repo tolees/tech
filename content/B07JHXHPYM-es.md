@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHXHPYM-es dodocool Soporte Auriculares para Cascos Gaming Headphone...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

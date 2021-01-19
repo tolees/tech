@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774QCZF6-es aotengou Kit de reemplazo para iRobot Roomba 500 Serie 600...'
-tags: irobot, roomba
+tags: tole.es, irobot, roomba
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

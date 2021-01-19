@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V79SZF8-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

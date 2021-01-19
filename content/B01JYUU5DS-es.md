@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYUU5DS-es Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria...'
-tags: sandisk
+tags: tole.es, sandisk
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

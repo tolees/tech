@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1RD4TM-es Samoleus Gaming Auriculares con Microfono Cascos Gaming...'
-tags: auriculares, playstation, ps4, xbox
+tags: tole.es, auriculares, playstation, ps4, xbox
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

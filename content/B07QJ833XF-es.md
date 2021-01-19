@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ833XF-es Michael Kors Smartwatch Pantalla táctil para Mujer de...'
-tags: smartwatch
+tags: tole.es, smartwatch
 actualPrice: 343.85 EUR
 currency: EUR
 price: 343.85

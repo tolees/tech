@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJT6R63-es Hanek Funda iPhone 7/8 Funda de móvil con cordón para...'
-tags: iphone, móvil
+tags: tole.es, iphone, móvil
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

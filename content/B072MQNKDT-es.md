@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MQNKDT-es Nuevo Apple MacBook de 12 pulgadas Intel Core m3 de doble...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

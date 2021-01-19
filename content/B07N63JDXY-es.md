@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N63JDXY-es AP35 Mini PC Desktop License Windows 10 Multimedia Office...'
-tags: ram, wifi
+tags: tole.es, ram, wifi
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

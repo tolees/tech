@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QMWDP5-es Huyeta Stylus Pen para Apple Pencil Lápiz Stylus...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

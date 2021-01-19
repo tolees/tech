@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

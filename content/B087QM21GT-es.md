@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QM21GT-es Huawei Pen - Lápiz óptico para MatePad Pro'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

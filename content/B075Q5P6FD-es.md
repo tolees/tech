@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Q5P6FD-es FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

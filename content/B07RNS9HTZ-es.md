@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNS9HTZ-es Corsair M55 RGB PRO Ratón Óptico Tamaño Único Negro'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

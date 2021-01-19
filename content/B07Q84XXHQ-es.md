@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q84XXHQ-es Mksutary Mesa Ordenador Portatil Soporte de Portátil Mesa...'
-tags: ordenador, ratón
+tags: tole.es, ordenador, ratón
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

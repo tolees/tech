@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GQMHJP-es Moviles Libres 4G Android 9.0 Teléfono Móvil Libre de 5.5...'
-tags: móvil, smartphone
+tags: tole.es, móvil, smartphone
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

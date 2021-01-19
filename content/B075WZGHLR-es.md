@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WZGHLR-es Philips Audio BT55W/00 - Mini Altavoz Bluetooth...'
-tags: bluetooth, iphone, tablet, altavoz
+tags: tole.es, bluetooth, iphone, tablet, altavoz
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

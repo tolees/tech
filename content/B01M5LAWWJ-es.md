@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5LAWWJ-es Brother MFC-J6530DW - Impresora multifunción de Tinta...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 190.98 EUR
 currency: EUR
 price: 190.98

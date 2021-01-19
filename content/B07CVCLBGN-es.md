@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
-tags: galaxy, móvil, tablet, nintendo, switch
+tags: tole.es, galaxy, móvil, tablet, nintendo, switch
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

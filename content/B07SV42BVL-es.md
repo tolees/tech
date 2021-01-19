@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV42BVL-es Diyeeni Ratón para Juegos con Cable Metal USB USB...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQE8CJW-es Corsair Harpoon RGB Ratón Óptico para Juegos 6 000 PPP...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

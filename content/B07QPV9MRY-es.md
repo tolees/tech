@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPV9MRY-es JETech Protector de Pantalla Compatible con Apple iPad 7...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

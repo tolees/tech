@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003CQE2M6-es JVC HA-EB75- - Auriculares in er 5 posiciones 3.5 mm color...'
-tags: auriculares, jvc
+tags: tole.es, auriculares, jvc
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

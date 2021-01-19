@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJLB541-es MSI GS65 Stealth Thin 8RE-604XES - Ordenador portátil...'
-tags: ordenador, ram, teclado
+tags: tole.es, ordenador, ram, teclado
 actualPrice: 1499.99 EUR
 currency: EUR
 price: 1499.99

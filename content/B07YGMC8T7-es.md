@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGMC8T7-es Meridiem Games - Resident Evil Arcade Mini Nintendo Switch'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3XQ2KL-es Samsung EP-LN920CBEGWW Cargador de coche Dual con Carga...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

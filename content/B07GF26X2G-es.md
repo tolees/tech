@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF26X2G-es YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda Suave Silicona...'
-tags: garmin
+tags: tole.es, garmin
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQTYRC4-es HUAWEI 02452312 - Cargador de Coche Dual USB Super Charge...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

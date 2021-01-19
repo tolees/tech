@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK958TH-es Seagate One Touch SSD 500 GB Disco duro externo portátil...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 77.11 EUR
 currency: EUR
 price: 77.11

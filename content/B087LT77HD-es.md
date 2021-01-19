@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LT77HD-es Oihxse Silicona Funda con Samsung Galaxy A21 TPU Flexible...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

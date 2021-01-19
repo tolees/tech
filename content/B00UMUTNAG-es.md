@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UMUTNAG-es Yuntab Q88 A33 - Tablet de 7" WiFi Allwinner A33 1.5 GHz...'
-tags: ram, tablet, wifi
+tags: tole.es, ram, tablet, wifi
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWAR461-es Apple Beats Solo3 Auriculares de Diadema Inalámbricos - Plata'
-tags: apple, auriculares
+tags: tole.es, apple, auriculares
 actualPrice: 109.2 EUR
 currency: EUR
 price: 109.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHGCSYS-es Reposamuñecas Ankengs Ordenador Apoyabrazos para...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

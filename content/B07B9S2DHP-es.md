@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9S2DHP-es HUAWEI Band 2 Pro Black ERIS'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

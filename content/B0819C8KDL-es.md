@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819C8KDL-es PUTORSEN® Soporte de Monitor pc de Premium - Elevador de...'
-tags: impresora, ordenador
+tags: tole.es, impresora, ordenador
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

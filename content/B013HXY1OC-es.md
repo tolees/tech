@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013HXY1OC-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para...'
-tags: canon
+tags: tole.es, canon
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

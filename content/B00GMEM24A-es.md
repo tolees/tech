@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W para...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

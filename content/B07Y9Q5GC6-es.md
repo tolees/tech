@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9Q5GC6-es Auriculares Inalambricos Bluetooth iAmotus Cascos...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 23.54 EUR
 currency: EUR
 price: 23.54

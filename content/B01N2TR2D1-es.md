@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TR2D1-es WITHLIN Paquete de fotografía profesional - deporte...'
-tags: canon, nikon, pentax, sony
+tags: tole.es, canon, nikon, pentax, sony
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

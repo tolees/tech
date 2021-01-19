@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVMWPR4-es Mini Cámara Espía Oculta 1080P DIY Portátil Encubierta...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

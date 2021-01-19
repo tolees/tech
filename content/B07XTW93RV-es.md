@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTW93RV-es Sennheiser RS175-U - Auriculares inalámbricos para...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 189.12 EUR
 currency: EUR
 price: 189.12

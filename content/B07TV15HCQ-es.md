@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV15HCQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
-tags: 1080p, playstation
+tags: tole.es, 1080p, playstation
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

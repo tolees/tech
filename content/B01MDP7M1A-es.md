@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDP7M1A-es Microsoft Surface Pro - Cargador para laptop'
-tags: microsoft
+tags: tole.es, microsoft
 actualPrice: 75.09 EUR
 currency: EUR
 price: 75.09

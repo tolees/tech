@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

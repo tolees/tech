@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCIS5I8-es Belkin MIXIT - Cable de Lightning a USB con certificación...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

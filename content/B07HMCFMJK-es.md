@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMCFMJK-es MSI GS73 Stealth 8RD-006XES - Ordenador portátil gaming...'
-tags: ordenador, ram, teclado
+tags: tole.es, ordenador, ram, teclado
 actualPrice: 1110 EUR
 currency: EUR
 price: 1110

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BBV08FE-es Conceptronic CNBCOMLOCK18 - Candado de Seguridad para...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

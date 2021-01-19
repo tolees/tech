@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABOIEK-es Beurer BF 700 - Báscula de baño diagnóstica Bluetooth...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 46.41 EUR
 currency: EUR
 price: 46.41

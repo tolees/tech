@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG6BYX2-es mCover - Carcasa rígida para portátil DELL Chromebook 3100...'
-tags: dell
+tags: tole.es, dell
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

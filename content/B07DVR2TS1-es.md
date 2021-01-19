@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVR2TS1-es Edifier W860NB Auriculares Bluetooth aptX con Smart Touch...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 59.68 EUR
 currency: EUR
 price: 59.68

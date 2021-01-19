@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYQWP6V-es BACKTURE Luces Discoteca Iluminación de Escenarios...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

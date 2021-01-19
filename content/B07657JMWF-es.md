@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07657JMWF-es Auna Stealth Bar 60 Altavoz soundbar 2.1 Canales 80 W...'
-tags: altavoz
+tags: tole.es, altavoz
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

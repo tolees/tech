@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH3QGQZ-es JOTO MLT-D111S 1 Negro 1000 Páginas Cartucho de Tóner...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

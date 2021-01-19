@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GK63WEE-es Linksys LGS108-EU - Unmanaged Switch Gigabit de Escritorio...'
-tags: gigabit
+tags: tole.es, gigabit
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

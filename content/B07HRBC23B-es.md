@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRBC23B-es ASUS RT-AX88U - Router Gaming AX6000 Doble Banda Gigabit...'
-tags: asus, gigabit, wifi
+tags: tole.es, asus, gigabit, wifi
 actualPrice: 297.0 EUR
 currency: EUR
 price: 297.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NALESQO-es Crucial CT16G4RFS4266 - Memoria RAM de 16 GB DDR4 2666...'
-tags: ram
+tags: tole.es, ram
 actualPrice: 79.13 EUR
 currency: EUR
 price: 79.13

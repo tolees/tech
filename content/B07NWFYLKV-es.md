@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWFYLKV-es Soporte Tablet Coche Soporte iPad Tablet Soporte...'
-tags: huawei, samsung, tablet, xiaomi
+tags: tole.es, huawei, samsung, tablet, xiaomi
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

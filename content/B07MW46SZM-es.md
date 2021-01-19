@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW46SZM-es ANEWSIR [2 Pack] Protector de Pantalla para Xiaomi Redmi...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

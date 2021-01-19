@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F94C3JL-es HP Spectre 700 - Ratón Recargable Bluetooth 1600 dpi...'
-tags: bluetooth, ratón
+tags: tole.es, bluetooth, ratón
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

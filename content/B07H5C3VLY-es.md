@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5C3VLY-es Jabra Elite Active 65t - Auriculares inalámbricos para...'
-tags: alexa, auriculares, bluetooth
+tags: tole.es, alexa, auriculares, bluetooth
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

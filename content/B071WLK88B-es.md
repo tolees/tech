@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WLK88B-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 112.98 EUR
 currency: EUR
 price: 112.98

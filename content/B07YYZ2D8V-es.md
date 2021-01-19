@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYZ2D8V-es Beats Auriculares Solo Pro Wireless de Beats con...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 208.0 EUR
 currency: EUR
 price: 208.0

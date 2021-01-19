@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXOXDM3-es TENMOS X96 Ratón Gaming inalámbrico Recargable Silenciosa...'
-tags: ordenador, ratón
+tags: tole.es, ordenador, ratón
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VEEZ19G-es JVC HA-FX10-B-E - Auriculares In-Ear Color Negro'
-tags: auriculares, jvc
+tags: tole.es, auriculares, jvc
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVLQPZL-es Garmin Vivomove 3 sport 44 - Reloj inteligente color gris'
-tags: garmin
+tags: tole.es, garmin
 actualPrice: 170.25 EUR
 currency: EUR
 price: 170.25

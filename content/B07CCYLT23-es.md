@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCYLT23-es Mando con cable PowerA para Nintendo Switch'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

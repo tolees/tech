@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QEZ1GOO-es LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

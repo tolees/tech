@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKJNZPV-es RICOO Mesa de Centro Estancia Design WM080-W-ER la Mesa de...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

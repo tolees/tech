@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YRTS86-es Amazfit Bip Smart Watch Glonass GPS Monitor de frecuencia...'
-tags: gps
+tags: tole.es, gps
 actualPrice: 66.86 EUR
 currency: EUR
 price: 66.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TNX6NW-es Phipuds Webcam PC Full HD 1080P con Micrófono Webcam...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

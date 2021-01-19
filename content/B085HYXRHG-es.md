@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HYXRHG-es Blukar Auriculares In Ear Auriculares con Cable y...'
-tags: auriculares, huawei, iphone, samsung, xiaomi
+tags: tole.es, auriculares, huawei, iphone, samsung, xiaomi
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WQJXND-es Samsung Pro - Disco Estado Solido SSD 256 GB 560...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 96.46 EUR
 currency: EUR
 price: 96.46

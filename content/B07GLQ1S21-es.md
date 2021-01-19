@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLQ1S21-es SUNYDEAL Cargador de portátil 90W HP Pavilion DV4 DV5 DV6...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

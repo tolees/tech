@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBYM6M7-es E EGOWAY - Batería de Repuesto para Apple MacBook Pro...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

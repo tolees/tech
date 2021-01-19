@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MJXHKK-es Oihxse Funda para Xiaomi Redmi S2/Y2 Transparente Estuche...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

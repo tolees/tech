@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HT6CTZJ-es ECHTPower Ratón Vertical Inalámbrico Diseño Ergonómico dpi...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

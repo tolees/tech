@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W11KJGD-es havit Ratón Gaming 7 Botones Mouse Gaming programables...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

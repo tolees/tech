@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9DHPS7-es Energy Urban Box 2 Altavoz portátil con Bluetooth y...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

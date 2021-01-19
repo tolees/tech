@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WP17BH-es ELTD Funda + Película templada [combinación] para Samsung...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

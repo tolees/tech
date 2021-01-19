@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono...'
-tags: playstation, sony
+tags: tole.es, playstation, sony
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

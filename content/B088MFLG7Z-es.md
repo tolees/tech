@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MFLG7Z-es TedGem Webcam Web CAM Webcam 1080p Camara Web Webcam Full...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

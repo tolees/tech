@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNJGM1G-es UNBREAKcable Protector de Pantalla para iPhone X iPhone XS...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

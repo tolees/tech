@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHSHTQJ-es Radio de escritorio portátil Sangean WR-7 sintonizador FM-...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 53.09 EUR
 currency: EUR
 price: 53.09

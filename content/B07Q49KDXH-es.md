@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q49KDXH-es Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico...'
-tags: móvil, smartphone
+tags: tole.es, móvil, smartphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

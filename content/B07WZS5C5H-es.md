@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZS5C5H-es ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

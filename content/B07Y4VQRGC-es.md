@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4VQRGC-es Compatible con Samsung Galaxy S10 Plus funda transparente...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

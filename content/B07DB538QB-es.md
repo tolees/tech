@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional...'
-tags: ordenador, ram, teclado
+tags: tole.es, ordenador, ram, teclado
 actualPrice: 1513.51 EUR
 currency: EUR
 price: 1513.51

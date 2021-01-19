@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5DL8B5-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
-tags: apple, ram
+tags: tole.es, apple, ram
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

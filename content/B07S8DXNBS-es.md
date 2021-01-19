@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8DXNBS-es HP Color Laserjet Pro M454dw - Impresora Láser Monocromo...'
-tags: gigabit, impresora
+tags: tole.es, gigabit, impresora
 actualPrice: 294.15 EUR
 currency: EUR
 price: 294.15

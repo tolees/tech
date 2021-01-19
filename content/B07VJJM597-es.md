@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJJM597-es Gigaset GX290 - Smartphone Resistente - 6.1" - Robusto -...'
-tags: gigaset, smartphone
+tags: tole.es, gigaset, smartphone
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

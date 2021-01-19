@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PQPSY8-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
-tags: bluetooth, gps, ram, tablet, wifi, full, hd
+tags: tole.es, bluetooth, gps, ram, tablet, wifi, full, hd
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

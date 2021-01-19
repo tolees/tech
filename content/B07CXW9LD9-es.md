@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXW9LD9-es Belkin - Cable de audio de 3.5 mm con conector Lightning...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

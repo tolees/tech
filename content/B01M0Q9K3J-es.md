@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0Q9K3J-es Auriculares Inalámbricos Powerbeats3 Wireless Bluetooth -...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 150.45 EUR
 currency: EUR
 price: 150.45

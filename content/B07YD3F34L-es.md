@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD3F34L-es Alfombrilla de ratón EVA con reposamuñecas para...'
-tags: ratón, teclado
+tags: tole.es, ratón, teclado
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

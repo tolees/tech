@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPLRB16-es Sabrent Funda rígida a prueba de golpes EVA para disco...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

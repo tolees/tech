@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKDXDH3-es iAmotus Ratón Inalámbrico Recargable 2.4G Ratón Óptico...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

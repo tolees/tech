@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1LHYYP-es Hohem 3-Axis Gimbal Stabilizer for Smartphone iSteady...'
-tags: smartphone
+tags: tole.es, smartphone
 actualPrice: 75.24 EUR
 currency: EUR
 price: 75.24

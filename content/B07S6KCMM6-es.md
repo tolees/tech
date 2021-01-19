@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6KCMM6-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

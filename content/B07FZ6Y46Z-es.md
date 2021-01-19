@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ6Y46Z-es CableDeconn HDMI to 3RCA Cable HDMI to 3RCA AV Composite...'
-tags: fire, tv, stick
+tags: tole.es, fire, tv, stick
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

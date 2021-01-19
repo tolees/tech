@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF1T94K-es Lenovo Legion Y530 - Ordenador portátil gaming de 15.6"...'
-tags: lenovo, ordenador, ram, teclado
+tags: tole.es, lenovo, ordenador, ram, teclado
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

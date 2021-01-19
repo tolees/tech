@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLFZZBD-es FSKE 45W 20V 2.25A ADLX45NCC3A ADLX45NDC3A PA-1650-72...'
-tags: lenovo, ordenador
+tags: tole.es, lenovo, ordenador
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

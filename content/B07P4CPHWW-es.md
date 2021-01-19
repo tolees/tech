@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4CPHWW-es AGPTEK Z05 Micrófono de Solapa Omnidireccional Micrófono...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

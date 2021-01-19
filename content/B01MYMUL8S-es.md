@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYMUL8S-es Vaultskin Eton Armour - Funda de cuero para iPhone 7 cognac'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

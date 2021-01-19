@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0LIS66-es Sony Xperia XZ Forest Blue - Telefono movil con pantalla...'
-tags: ram, sony
+tags: tole.es, ram, sony
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

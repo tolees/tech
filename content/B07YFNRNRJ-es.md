@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFNRNRJ-es Ferilinso Funda para Xiaomi Redmi 8 Carcasa [Reforzar la...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

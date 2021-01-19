@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHPD5HS-es Belkin MIXIT - Cable metálico de Lightning a USB con...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

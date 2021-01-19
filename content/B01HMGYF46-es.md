@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMGYF46-es Canon MAXIFY MB2750 - Impresora de inyección de tinta 2...'
-tags: canon, impresora
+tags: tole.es, canon, impresora
 actualPrice: 128.67 EUR
 currency: EUR
 price: 128.67

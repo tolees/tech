@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K14SDZB-es Ejeas E1 Auriculares Motocicleta Cascos Bluetooth 4.1...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

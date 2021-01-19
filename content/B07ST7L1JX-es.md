@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable...'
-tags: ips
+tags: tole.es, ips
 actualPrice: 209.3 EUR
 currency: EUR
 price: 209.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LPKG7P-es Oihxse Silicona Funda con Huawei Nova 3i/P Smart/Enjoy 7S...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

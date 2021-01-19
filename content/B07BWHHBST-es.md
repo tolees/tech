@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWHHBST-es Gritin Auriculares Auriculares con Cable y Micrófono In...'
-tags: auriculares, huawei, iphone, samsung, xiaomi
+tags: tole.es, auriculares, huawei, iphone, samsung, xiaomi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

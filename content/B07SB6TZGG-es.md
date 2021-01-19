@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB6TZGG-es HP Laser MFP 135w - Impresora láser multifunción imprime...'
-tags: impresora, wifi
+tags: tole.es, impresora, wifi
 actualPrice: 118.8 EUR
 currency: EUR
 price: 118.8

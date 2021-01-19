@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W143STJ-es Todotumovil Protector de Pantalla Xiaomi Mi 9 SE Mi9 SE...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

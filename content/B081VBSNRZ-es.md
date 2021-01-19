@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VBSNRZ-es Adaptador USB C HDMI 3 en 1 uni Hub USB C HDMI 4K HDMI...'
-tags: galaxy, huawei
+tags: tole.es, galaxy, huawei
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

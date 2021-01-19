@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQQPM85-es Altavoz Bluetooth Ducha Impermeable con Ventosa Extraíble...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

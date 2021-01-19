@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UVRU6G-es SteelSeries QcK+ - Alfombrilla de ratón de juego 450mm x...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

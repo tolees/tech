@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZ6FHT-es Caja del teléfono móvil TPU Blanco Mate en Relieve...'
-tags: iphone, móvil
+tags: tole.es, iphone, móvil
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

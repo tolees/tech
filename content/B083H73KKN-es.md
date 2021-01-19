@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083H73KKN-es Lenovo ThinkPad E595 - Ordenador portátil 15.6" FullHD AMD...'
-tags: lenovo, ordenador, ram
+tags: tole.es, lenovo, ordenador, ram
 actualPrice: 749.99 EUR
 currency: EUR
 price: 749.99

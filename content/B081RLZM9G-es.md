@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RLZM9G-es McNory Soporte Magnético Movil Coche 2 PC Mini Móvil Coche...'
-tags: galaxy, gps, iphone, móvil, smartphone
+tags: tole.es, galaxy, gps, iphone, móvil, smartphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

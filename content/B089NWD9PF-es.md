@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NWD9PF-es Typicshop Tapa Cámara Ultra Delgada 0.85mm Webcam Cover...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

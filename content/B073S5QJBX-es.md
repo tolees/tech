@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S5QJBX-es GPC Image 6 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
-tags: canon
+tags: tole.es, canon
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZQFX4-es Puma Future Runner Premium Zapatillas Unisex Adulto Azul...'
-tags: galaxy
+tags: tole.es, galaxy
 actualPrice: 27.68 EUR
 currency: EUR
 price: 27.68

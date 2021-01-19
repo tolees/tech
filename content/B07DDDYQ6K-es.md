@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDDYQ6K-es Organizador de escritorio multifuncional con tableta de...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

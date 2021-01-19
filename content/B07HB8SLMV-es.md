@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB8SLMV-es SanDisk Extreme - Tarjeta de memoria microSDXC para...'
-tags: sandisk
+tags: tole.es, sandisk
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

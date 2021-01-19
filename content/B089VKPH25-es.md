@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VKPH25-es WOWDSGN Proyector Giratorio de Luz Estelar de Música con...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

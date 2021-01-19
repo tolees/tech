@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWWLRJP-es Sonos One SL - Altavoz Inteligente Compacto y Potente con...'
-tags: altavoz
+tags: tole.es, altavoz
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

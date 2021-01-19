@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GVPDNV-es Makeblock 125089936 Juguete programable - Juguetes...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 98.1 EUR
 currency: EUR
 price: 98.1

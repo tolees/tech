@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLHX6WG-es Guardabarros Patinete Electrico Guardabarros Scooter...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

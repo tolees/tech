@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LMD5RX-es MKTOSASA - Cargador Organizador inalámbrico de línea...'
-tags: smartphone
+tags: tole.es, smartphone
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

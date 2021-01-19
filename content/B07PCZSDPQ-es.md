@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCZSDPQ-es Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos...'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

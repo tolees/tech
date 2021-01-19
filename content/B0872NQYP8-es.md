@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NQYP8-es Funda Transparente Compatible para Huawei Nova 5 Carcasa...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

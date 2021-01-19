@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZTBXNZ-es Belkin ScreenForce TemperedCurve - Protección de Pantalla...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

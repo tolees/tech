@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST5KJQP-es LG Tone HBS-835S - Auriculares con Altavoz Externo Sonido...'
-tags: auriculares, bluetooth, altavoz
+tags: tole.es, auriculares, bluetooth, altavoz
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

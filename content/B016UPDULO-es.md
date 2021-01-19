@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016UPDULO-es AOC E2270SWHN - Monitor de 21.5" Full HD resolución 1920 x...'
-tags: full, hd
+tags: tole.es, full, hd
 actualPrice: 70.24 EUR
 currency: EUR
 price: 70.24

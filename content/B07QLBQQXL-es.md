@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLBQQXL-es LeYi Funda iPhone SE 2020/6 / 6S / 7/8 Armor Carcasa con...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

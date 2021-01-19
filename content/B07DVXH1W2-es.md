@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVXH1W2-es TENGGO Reemplazo De Banda De Reloj Pulsera Correa De...'
-tags: garmin
+tags: tole.es, garmin
 actualPrice: 7.05 EUR
 currency: EUR
 price: 7.05

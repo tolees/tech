@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H35FJ6V-es Caseflex CS000002AP - Carcasa de gel transparente para...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

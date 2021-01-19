@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5VM5CJ-es Mini Enfriador de Aire Portátil 4 en 1 Acondicionador de...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

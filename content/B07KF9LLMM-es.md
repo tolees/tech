@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF9LLMM-es GOZAR Scooter Eléctrico Motocicleta Bloqueo O Forma...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

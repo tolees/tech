@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757VBPKM-es Sony Xperia XZ1 - Smartphone de 5.2" Bluetooth Octa Core...'
-tags: bluetooth, ram, smartphone, sony
+tags: tole.es, bluetooth, ram, smartphone, sony
 actualPrice: 259 EUR
 currency: EUR
 price: 259

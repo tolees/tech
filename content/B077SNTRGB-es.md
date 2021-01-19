@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SNTRGB-es InvisibleShield Ultra Clear Protective Case - Funda...'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

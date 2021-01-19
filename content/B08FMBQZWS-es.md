@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMBQZWS-es BESINPO - Carcasa para Samsung Galaxy A41 2020 antigolpes...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

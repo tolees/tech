@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLCT43K-es Apple Watch Series 5 GPS + Cellular 40 mm Acero Inoxidable...'
-tags: apple, gps
+tags: tole.es, apple, gps
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

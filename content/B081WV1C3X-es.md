@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WV1C3X-es Siikii Soporte para teléfono móvil Soporte para teléfono...'
-tags: iphone, móvil
+tags: tole.es, iphone, móvil
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

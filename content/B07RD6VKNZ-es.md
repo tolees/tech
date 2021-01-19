@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RD6VKNZ-es Samsung Galaxy A20e - Smartphone de 5.8" Super AMOLED 13...'
-tags: galaxy, ram, samsung, smartphone
+tags: tole.es, galaxy, ram, samsung, smartphone
 actualPrice: 141.7 EUR
 currency: EUR
 price: 141.7
@@ -26,10 +26,10 @@ Está [Samsung Galaxy A20e - Smartphone de 5.8" Super AMOLED  13 MP  3 GB RAM  3
 
 ℹ️:
 
+- Dispone de sensor de huella dactilar | dual-sim (nano + sim); procesador octa-core (dual core 1. 6 ghz + 1. 35 ghz)
+- 3 gb de ram; memoria interna de 32 gb y ranura para micro-sd hasta 512 gb
+- Cámara posterior: dos cámaras traseras (13 mp, f1.9 - 5 mp, f2.2) y cámara frontal: 8 mp
 - Batería de 3000 mah; cargador rápido tipo c
 - Pantalla de 5.8” super amoled; display 720 x 1560 (hd+)
-- 3 gb de ram; memoria interna de 32 gb y ranura para micro-sd hasta 512 gb
-- Dispone de sensor de huella dactilar | dual-sim (nano + sim); procesador octa-core (dual core 1. 6 ghz + 1. 35 ghz)
-- Cámara posterior: dos cámaras traseras (13 mp, f1.9 - 5 mp, f2.2) y cámara frontal: 8 mp
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RD6VKNZ/?tag=tolees-21)

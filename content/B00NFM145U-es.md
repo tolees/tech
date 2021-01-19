@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFM145U-es Pioneer X-PM12 - Microcadena 38 W estéreo Bluetooth USB...'
-tags: bluetooth, pioneer
+tags: tole.es, bluetooth, pioneer
 actualPrice: 125.8 EUR
 currency: EUR
 price: 125.8

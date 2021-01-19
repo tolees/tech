@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave...'
-tags: canon, nikon, sony
+tags: tole.es, canon, nikon, sony
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

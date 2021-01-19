@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JMXNMB-es Anpollo Alfombrilla de Ratón ergonómica de Gel Adecuado...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

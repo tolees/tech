@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas Móvil Carro de exhibición...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

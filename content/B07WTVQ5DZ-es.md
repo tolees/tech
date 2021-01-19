@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTVQ5DZ-es DUODUOGO Tablet 10 Pulgadas Buenas 4GB RAM 64GB ROM...'
-tags: ram, tablet, teclado
+tags: tole.es, ram, tablet, teclado
 actualPrice: 90.09 EUR
 currency: EUR
 price: 90.09

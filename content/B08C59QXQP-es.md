@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C59QXQP-es ESR Funda de Cristal Templado para Samsung Note 20/Note 20...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

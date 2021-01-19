@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXQF162-es Samsung Galaxy Note10 Smartphone Dual SIM 8GB RAM 256GB...'
-tags: galaxy, ram, samsung, smartphone
+tags: tole.es, galaxy, ram, samsung, smartphone
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

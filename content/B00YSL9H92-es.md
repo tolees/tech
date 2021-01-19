@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YSL9H92-es ASUS RP-N12 - Repetidor/Punto Acceso inalámbrico N300...'
-tags: asus
+tags: tole.es, asus
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQQHBOO-es WD My Passport - Disco Duro Portátil de 3 TB y Software de...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 85.07 EUR
 currency: EUR
 price: 85.07

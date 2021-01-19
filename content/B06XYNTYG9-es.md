@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYNTYG9-es CASIO - Teclado LK-136 61 Teclas Luminosas'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

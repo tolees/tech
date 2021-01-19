@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894JJGXV-es 0BEST Webcam 1080P Full HD con Microfono y Trípode...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

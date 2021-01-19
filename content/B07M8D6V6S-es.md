@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8D6V6S-es HP Pavilion 27 B&O - Monitor 27 IPS FHD Audio Bang &...'
-tags: ips
+tags: tole.es, ips
 actualPrice: 279.65 EUR
 currency: EUR
 price: 279.65

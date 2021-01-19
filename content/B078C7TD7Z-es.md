@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078C7TD7Z-es Motorola Talkabout T82 Extrem - Walki-Talkis Alcance hasta...'
-tags: motorola
+tags: tole.es, motorola
 actualPrice: 74.97 EUR
 currency: EUR
 price: 74.97

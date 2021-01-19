@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X26HCC8-es HP OMEN 15-dc1032ns - Portátil Gaming de 15.6" FullHD...'
-tags: ram, teclado
+tags: tole.es, ram, teclado
 actualPrice: 1299.99 EUR
 currency: EUR
 price: 1299.99

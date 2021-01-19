@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FQPTTC-es Camara de Fotos Camara Fotos Full HD 2.7K 24MP...'
-tags: full, hd
+tags: tole.es, full, hd
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

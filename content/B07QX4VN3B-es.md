@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QX4VN3B-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
-tags: gps, iphone, móvil, samsung
+tags: tole.es, gps, iphone, móvil, samsung
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

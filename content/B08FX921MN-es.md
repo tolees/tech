@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FX921MN-es Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

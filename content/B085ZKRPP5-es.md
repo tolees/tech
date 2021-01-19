@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZKRPP5-es AIMIUVEI Smartwatch Reloj Inteligente Mujer Hombre IP67...'
-tags: gps, smartwatch
+tags: tole.es, gps, smartwatch
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFQGST-es HP 22fw - Monitor 22 Pulgadas 54 6 cm 1920 x 1080 Pixeles...'
-tags: full, hd
+tags: tole.es, full, hd
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

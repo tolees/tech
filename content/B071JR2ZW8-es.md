@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JR2ZW8-es ASUS XG-C100C - Adaptador de Red 10 Gigabit PCI Express...'
-tags: asus, gigabit
+tags: tole.es, asus, gigabit
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

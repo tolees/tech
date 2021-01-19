@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTNHHY8-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LNR2XK-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
-tags: galaxy, huawei, iphone
+tags: tole.es, galaxy, huawei, iphone
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LJZKJL-es Sony SEL1635GM - Objetivo Sony montura E color negro'
-tags: sony
+tags: tole.es, sony
 actualPrice: 2149.0 EUR
 currency: EUR
 price: 2149.0

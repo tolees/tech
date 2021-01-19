@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYHLFWW-es Daewoo S0421164 Altavoces Bluetooth DBT-10 12W'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

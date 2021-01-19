@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
-tags: galaxy, kindle, ps4, samsung, sony, xbox
+tags: tole.es, galaxy, kindle, ps4, samsung, sony, xbox
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

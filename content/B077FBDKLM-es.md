@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077FBDKLM-es Denver Sdq-52001G Tarjeta Dual Sim De 5 2" 3G Quad Core 1...'
-tags: ram
+tags: tole.es, ram
 actualPrice: 71.46 EUR
 currency: EUR
 price: 71.46

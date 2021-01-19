@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG131ST-es Fullmosa Compatible Correa Apple Watch Series 5 Series 4...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

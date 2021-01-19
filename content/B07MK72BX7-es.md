@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK72BX7-es EZVIZ Cámara de vigilancia WiFi interior 1080p PTZ cámara...'
-tags: 1080p, alexa, wifi
+tags: tole.es, 1080p, alexa, wifi
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLBGRXN-es Philips Dect T Teléfono Inalámbrico'
-tags: dect
+tags: tole.es, dect
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

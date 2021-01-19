@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y24MRV-es HKY 65W 15V 4A Adaptador Cargador para Microsoft Surface...'
-tags: microsoft
+tags: tole.es, microsoft
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

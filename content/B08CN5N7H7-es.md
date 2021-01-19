@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN5N7H7-es Anker Powerbank-Portable USB móvil Energien-Bank-Kasten...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

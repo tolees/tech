@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8N91QG-es Polk Audio MagniFi Mini - Barra de Sonido y Subwoofer...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 225.25 EUR
 currency: EUR
 price: 225.25

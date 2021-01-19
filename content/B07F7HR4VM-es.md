@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HR4VM-es Yamaha MusicCast 50 - Altavoz Color Negro'
-tags: altavoz
+tags: tole.es, altavoz
 actualPrice: 399.2 EUR
 currency: EUR
 price: 399.2

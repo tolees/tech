@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMGX3RV-es LG 34GL750-B - Monitor Gaming Curvo UltraWide WFHD de 86.7...'
-tags: ips, ultrawide
+tags: tole.es, ips, ultrawide
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDTVHDL-es Haihuic portugués Pegatinas de Teclado Etiqueta Adhesiva...'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Y59CTK-es Altavoz Mosqueton iWotto Bluetooth Speaker Hook iWotto...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

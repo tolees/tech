@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011LBGW0S-es Ansmann Los Pitufos - La luz nocturna móvil Papá Pitufo'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

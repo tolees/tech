@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LLC3DB-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

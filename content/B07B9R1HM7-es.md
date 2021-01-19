@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9R1HM7-es LG OK45 Microcadena Home Audio Mini System Multi Bluetooth...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 100.27 EUR
 currency: EUR
 price: 100.27

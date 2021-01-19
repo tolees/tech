@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNDN23V-es 【Versión Actualizado】 Mpow S15 Dual EQ Auriculares...'
-tags: auriculares, bluetooth, iphone
+tags: tole.es, auriculares, bluetooth, iphone
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

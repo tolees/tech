@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N48OJR5-es Brother MFCJ5330DW - Impresora multifunción de tinta...'
-tags: impresora, wifi
+tags: tole.es, impresora, wifi
 actualPrice: 150.96 EUR
 currency: EUR
 price: 150.96

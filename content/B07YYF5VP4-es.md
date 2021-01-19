@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYF5VP4-es Cámara para Niños Hommie cámara de Video 1080p HD con...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

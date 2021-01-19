@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPQW48Y-es Sony MHC-V82D - Sistema de Audio de Alta Potencia...'
-tags: bluetooth, sony
+tags: tole.es, bluetooth, sony
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TB1FHC-es Gigaset E260 - Teléfono inalámbrico teclas grandes...'
-tags: gigaset
+tags: tole.es, gigaset
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

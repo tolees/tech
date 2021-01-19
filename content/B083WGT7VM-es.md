@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WGT7VM-es Mini Proyector 5200 Lumens Mini Proyector portátil...'
-tags: 1080p, altavoz, full, hd
+tags: tole.es, 1080p, altavoz, full, hd
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

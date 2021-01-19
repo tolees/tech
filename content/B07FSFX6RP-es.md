@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSFX6RP-es TomTom GPS para coche GO Essential 5 pulgadas con tráfico...'
-tags: gps, tomtom, wifi
+tags: tole.es, gps, tomtom, wifi
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

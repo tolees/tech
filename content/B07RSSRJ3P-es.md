@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSSRJ3P-es HONOR 20 - Smartphone Android 9 6 26" FHD 48MP + 16MP +...'
-tags: bluetooth, ram, smartphone
+tags: tole.es, bluetooth, ram, smartphone
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

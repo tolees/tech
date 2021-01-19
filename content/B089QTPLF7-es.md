@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QTPLF7-es LUMBRILL - Soporte para ordenador portátil con 9 niveles...'
-tags: dell, lenovo, ordenador
+tags: tole.es, dell, lenovo, ordenador
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

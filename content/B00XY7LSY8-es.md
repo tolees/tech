@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XY7LSY8-es Arduino starter kit para principiantes K030007 [manual en...'
-tags: arduino
+tags: tole.es, arduino
 actualPrice: 79.8 EUR
 currency: EUR
 price: 79.8

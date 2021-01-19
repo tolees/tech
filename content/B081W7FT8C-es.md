@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W7FT8C-es QHOHQ Funda para Samsung Galaxy A51 Cases Silicona Slim...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J74RRL-es Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
-tags: auriculares, bluetooth, samsung
+tags: tole.es, auriculares, bluetooth, samsung
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GNEE3TQ-es Plataforma Vibratoria Bluefin Fitness Ultra Slim | 5...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

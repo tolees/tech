@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ30OZI-es Toshiba Portege Z30-C-16J - Ordenador portátil de 13.3"...'
-tags: ordenador, teclado, toshiba, full, hd
+tags: tole.es, ordenador, teclado, toshiba, full, hd
 actualPrice: 1101.47 EUR
 currency: EUR
 price: 1101.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHCG9Y4-es Candy Rapidò RO16106DWHC7/1S - Lavadora carga frontal...'
-tags: bluetooth, wifi
+tags: tole.es, bluetooth, wifi
 actualPrice: 364.39 EUR
 currency: EUR
 price: 364.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7QWD2V-es Compatible con iPhone XS Max Carcasa transparente de...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXZ3SLC-es Corsair K70 RGB MK.2 Teclado Mecánico USB Alámbrico Tamaño...'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

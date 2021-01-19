@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRHMBLW-es TECHGEAR Vanguard Funda Compatible con Nuevo Samsung...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

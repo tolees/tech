@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VXWDD4-es 20M Tiras-Led Música Bluetooth TASMOR Tira led RGB 5050...'
-tags: bluetooth, móvil
+tags: tole.es, bluetooth, móvil
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

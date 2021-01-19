@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZWX2DK-es Mars gaming MAK1 Teclado Gaming Pulsación Optimizada...'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

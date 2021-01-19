@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDZFYXX-es KFD 45W Adaptador de Corriente Cargador portátil para...'
-tags: lenovo
+tags: tole.es, lenovo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

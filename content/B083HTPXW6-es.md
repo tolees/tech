@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HTPXW6-es Hosome Repetidor WiFi 5GHz / 2.4GHz Amplificador WiFi...'
-tags: wifi
+tags: tole.es, wifi
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

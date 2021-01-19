@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PGM4Y5-es Transcend MTS420S - SSD Disco Duro Solido de 240 GB M.2...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 46.94 EUR
 currency: EUR
 price: 46.94

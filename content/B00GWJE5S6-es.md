@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión...'
-tags: sony
+tags: tole.es, sony
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

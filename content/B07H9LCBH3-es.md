@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9LCBH3-es Apple Funda Leather Folio para el iPhone XS - Negro'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 96.45 EUR
 currency: EUR
 price: 96.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7CT1Y6-es Campark Webcam PC 1080P Full HD con Micrófono Estéreo USB...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS3GRLV-es Zerone Monitor Riser Soporte Stand Desktop Monitor Riser...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

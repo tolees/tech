@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGQL379-es BUBOS 14-15.4 Pulgadas Funda para Laptop con asa...'
-tags: asus, dell, lenovo, samsung, sony
+tags: tole.es, asus, dell, lenovo, samsung, sony
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

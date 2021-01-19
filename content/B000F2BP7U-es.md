@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000F2BP7U-es 3M EM500GPS - Ratón óptico USB ergonómico Color Negro'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 57.53 EUR
 currency: EUR
 price: 57.53

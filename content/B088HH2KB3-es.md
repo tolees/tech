@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088HH2KB3-es Xiaomi Poco F2 Pro - Smartphone de 6.67" 5 G Super AMOLED...'
-tags: ram, smartphone, xiaomi
+tags: tole.es, ram, smartphone, xiaomi
 actualPrice: 389.0 EUR
 currency: EUR
 price: 389.0

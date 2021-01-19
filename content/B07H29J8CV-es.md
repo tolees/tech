@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H29J8CV-es ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

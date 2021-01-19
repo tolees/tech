@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B66SVJI-es Xiaomi Portable 10000mAh de gran capacidad Segura Mi banco...'
-tags: iphone, samsung, xiaomi
+tags: tole.es, iphone, samsung, xiaomi
 actualPrice: 27.06 EUR
 currency: EUR
 price: 27.06

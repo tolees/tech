@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B4PXNSR-es Capturadora de vídeo HDMI USB 2.0 Tarjeta de Captura de...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 23.28 EUR
 currency: EUR
 price: 23.28

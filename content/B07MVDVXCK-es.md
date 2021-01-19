@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVDVXCK-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
-tags: huawei, iphone, samsung, smartphone
+tags: tole.es, huawei, iphone, samsung, smartphone
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

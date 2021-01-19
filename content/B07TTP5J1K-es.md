@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTP5J1K-es GIGABYTE X570 AORUS Master'
-tags: gigabyte
+tags: tole.es, gigabyte
 actualPrice: 358.5 EUR
 currency: EUR
 price: 358.5

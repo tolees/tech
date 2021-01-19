@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QMLWV2-es HP Pavilion 15-bc519ns - Ordenador portátil de 15.6"...'
-tags: ordenador, ram, teclado
+tags: tole.es, ordenador, ram, teclado
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

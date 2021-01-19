@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKD9PHJ-es Ratón inalámbrico recargable wireless mouse inphic mouse...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

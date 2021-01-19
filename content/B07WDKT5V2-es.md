@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDKT5V2-es Mars Gaming MH4X auriculares + mic DSP 7.1 SENSUS HAPTIC...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 24.82 EUR
 currency: EUR
 price: 24.82

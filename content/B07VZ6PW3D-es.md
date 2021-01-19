@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZ6PW3D-es Showyoo Fitness Pulsera de Actividad Inteligente...'
-tags: gps
+tags: tole.es, gps
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

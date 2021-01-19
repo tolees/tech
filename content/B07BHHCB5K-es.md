@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHHCB5K-es KROM Khami - NXKROMKHAMI - Auriculares Gaming Estéreo...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

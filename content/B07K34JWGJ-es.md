@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K34JWGJ-es auna DigiPlug FM - Radio de Enchufe Radio con RDS...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

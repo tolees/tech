@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824LV5VM-es UMIDIGI Reloj Inteligente Uwatch3 5ATM Impermeable...'
-tags: smartwatch
+tags: tole.es, smartwatch
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

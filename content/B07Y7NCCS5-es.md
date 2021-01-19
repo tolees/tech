@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7NCCS5-es MEDION AKOYA M80 - PCC964 Ordenador de sobremesa Intel...'
-tags: ordenador, ram
+tags: tole.es, ordenador, ram
 actualPrice: 379.99 EUR
 currency: EUR
 price: 379.99

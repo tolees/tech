@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819FL7DY-es PUTORSEN® Soporte de impresora debajo del escritorio con...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 34.87 EUR
 currency: EUR
 price: 34.87

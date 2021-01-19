@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBVFJNB-es LJP Funda iPhone XR Suave PU Cuero Carcasa y TPU Funda...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

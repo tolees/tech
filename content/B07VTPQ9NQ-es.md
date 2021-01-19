@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTPQ9NQ-es LarmTek Cámara web 1080P Full HD con cubierta de cámara...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

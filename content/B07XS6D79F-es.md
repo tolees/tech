@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS6D79F-es Apple Watch Correa Loop Deportiva Gris Hierro 44 mm - Regular'
-tags: apple
+tags: tole.es, apple
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y34HSJB-es Powerextra Pantalla LCD Flash Speedlite 2.4G Kit de...'
-tags: canon, nikon, panasonic, pentax, sony
+tags: tole.es, canon, nikon, panasonic, pentax, sony
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

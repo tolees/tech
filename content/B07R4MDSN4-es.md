@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4MDSN4-es COOLEAD Adaptador USB 3.0 a VGA 1080P Conversor USB 3.0 to...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

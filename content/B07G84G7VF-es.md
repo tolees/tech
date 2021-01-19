@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G84G7VF-es MiraBox Game Capture HDMI - USB 3.0 1080P 60FPS HD...'
-tags: 1080p, playstation, xbox
+tags: tole.es, 1080p, playstation, xbox
 actualPrice: 81.59 EUR
 currency: EUR
 price: 81.59

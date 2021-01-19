@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6JMMLD-es Homyl Caja Estuche para Bolsa Funda para Ordenador...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

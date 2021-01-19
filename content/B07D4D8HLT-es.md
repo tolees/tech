@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4D8HLT-es ALWUP Cascos PS4 Gaming Auriculares Gaming PS4 Xbox One...'
-tags: auriculares, nintendo, playstation, ps4, xbox, nintendo, switch
+tags: tole.es, auriculares, nintendo, playstation, ps4, xbox, nintendo, switch
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

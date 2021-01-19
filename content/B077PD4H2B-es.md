@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PD4H2B-es 7Magic Compatible Cartucho de Tóner para Brother TN1050 TN...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

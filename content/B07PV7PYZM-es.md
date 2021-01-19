@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV7PYZM-es SODIAL Teclado Inalámbrico Bluetooth para Teléfono Móvil...'
-tags: bluetooth, móvil, ordenador, teclado
+tags: tole.es, bluetooth, móvil, ordenador, teclado
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

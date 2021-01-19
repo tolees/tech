@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7NM2FB-es Cocoda Tripode para Movil Flexible Palo Selfie Mini...'
-tags: bluetooth, galaxy, iphone, samsung
+tags: tole.es, bluetooth, galaxy, iphone, samsung
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

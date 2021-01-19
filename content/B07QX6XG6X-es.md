@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QX6XG6X-es Garmin Drive 5 EU-MT-S Europa - Navegador 5 pulgadas'
-tags: garmin
+tags: tole.es, garmin
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

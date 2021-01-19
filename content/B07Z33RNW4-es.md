@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z33RNW4-es Roccat Kone Pure Ultra - Ratón ergonómico para Juegos...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 55.03 EUR
 currency: EUR
 price: 55.03

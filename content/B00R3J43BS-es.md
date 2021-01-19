@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R3J43BS-es Lavolta 90W 65W 40W Cargador - 7.9 x 5.5 mm - Adaptador...'
-tags: lenovo
+tags: tole.es, lenovo
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

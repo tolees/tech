@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SQLHRF-es Victure Cámara Deportiva 4k WiFi Camara Acción Deporte...'
-tags: wifi
+tags: tole.es, wifi
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

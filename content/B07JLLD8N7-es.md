@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLLD8N7-es TECKEPIC Fitness Tracker Color Screen Activity Tracker...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

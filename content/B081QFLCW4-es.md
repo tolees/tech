@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QFLCW4-es Newskill Serike Switch Blue - Teclado Mecánico Gaming con...'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

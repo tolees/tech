@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08828WRWQ-es ASUS ROG Strix Z490-G Gaming - Placa Base Gaming mATX...'
-tags: asus
+tags: tole.es, asus
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

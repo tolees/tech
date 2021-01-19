@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQ35HBQ-es Kingston KVR16LS11/8 Memoria RAM PC3L-12800 CL11 204 Pin...'
-tags: ram
+tags: tole.es, ram
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

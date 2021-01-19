@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JS1WJP0-es Anker 2 Pack Cable Lightning Cargador iPhone [Apple MFi...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

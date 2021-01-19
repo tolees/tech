@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLJB1XQ-es PRIXTON – Reloj Inteligente Smartwatch para Android e iOS...'
-tags: smartwatch
+tags: tole.es, smartwatch
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

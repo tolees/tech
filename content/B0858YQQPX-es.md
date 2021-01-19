@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0858YQQPX-es Oihxse Animal Serie Case Compatible con Xiaomi Redmi S2...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D61JTPG-es DigitalTech® - Mando Universal para televisores Samsung...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

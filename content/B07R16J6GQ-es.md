@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R16J6GQ-es Proyector4500 Lúmenes Excelvan Proyector de Video Portátil...'
-tags: 1080p, ps4, full, hd
+tags: tole.es, 1080p, ps4, full, hd
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

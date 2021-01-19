@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGSF2MM-es Energy Beat Box 2+ Lightcube Beat Lights TWS Bluetooth...'
-tags: bluetooth, microsd
+tags: tole.es, bluetooth, microsd
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RXN74D-es MRCOOL Lámpara de Noche con Altavoz Bluetooth Lámpara de...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

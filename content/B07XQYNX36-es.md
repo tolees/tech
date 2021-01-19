@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQYNX36-es Apple Funda Leather Folio para el iPhone 11 Pro MAX - Negro'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

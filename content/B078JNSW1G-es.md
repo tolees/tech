@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JNSW1G-es AIRENA USB Bluetooth Nano Adaptador Stick Dongle para PC...'
-tags: auriculares, bluetooth, teclado
+tags: tole.es, auriculares, bluetooth, teclado
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

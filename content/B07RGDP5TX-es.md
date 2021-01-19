@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGDP5TX-es Funda cartera Huawei P30 con una solapa para llevar...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

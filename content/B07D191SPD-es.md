@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D191SPD-es Garmin Smartwatch Vivoactive 3 GPS Mano Ciclismo Unisex...'
-tags: garmin, gps, smartwatch
+tags: tole.es, garmin, gps, smartwatch
 actualPrice: 208.5 EUR
 currency: EUR
 price: 208.5

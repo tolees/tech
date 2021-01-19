@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYDMB1Q-es Auriculares inalámbricos Bluetooth 5.0 Etrigger TWS...'
-tags: auriculares, bluetooth, huawei, iphone, samsung
+tags: tole.es, auriculares, bluetooth, huawei, iphone, samsung
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

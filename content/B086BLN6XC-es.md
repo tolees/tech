@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BLN6XC-es Auriculares inalámbricos Tribit FlyBuds 1 Auriculares...'
-tags: auriculares, bluetooth, iphone
+tags: tole.es, auriculares, bluetooth, iphone
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ1JG3S-es Ozone Neon X40 - OZNEONX40 - Ratón Gaming 7200 DPI RGB...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

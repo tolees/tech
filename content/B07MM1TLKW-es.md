@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM1TLKW-es upHere Rendimiento Alto Ventilador para Ordenador 140mm...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

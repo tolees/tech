@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C Lector...'
-tags: huawei, samsung, xiaomi
+tags: tole.es, huawei, samsung, xiaomi
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

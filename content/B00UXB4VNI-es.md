@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UXB4VNI-es Muvit MUSCP0825 - MCA Protector de pantalla para Samsung...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

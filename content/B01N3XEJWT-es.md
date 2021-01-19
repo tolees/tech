@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3XEJWT-es Kyocera Ecosys M2635dn Impresora monocromática Todo en uno...'
-tags: impresora, móvil, smartphone, tablet
+tags: tole.es, impresora, móvil, smartphone, tablet
 actualPrice: 309.94 EUR
 currency: EUR
 price: 309.94

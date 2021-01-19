@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWKURZP-es Raking soporte tablet soporte de trípode para tableta...'
-tags: tablet
+tags: tole.es, tablet
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

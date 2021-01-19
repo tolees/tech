@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

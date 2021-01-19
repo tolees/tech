@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBSNTRZ-es Memoria Flash 4 en 1 128 GB Compatible con iPhone y...'
-tags: iphone, tablet
+tags: tole.es, iphone, tablet
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

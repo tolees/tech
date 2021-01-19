@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BBWMGNK-es Sony SELP18200 - Objetivo para Sony Distancia Focal...'
-tags: sony
+tags: tole.es, sony
 actualPrice: 703.31 EUR
 currency: EUR
 price: 703.31

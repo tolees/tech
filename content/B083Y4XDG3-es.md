@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Y4XDG3-es PRIXTON IP1080p - Cámara IP Full HD Cámara de Vigilancia...'
-tags: móvil, wifi, altavoz, full, hd
+tags: tole.es, móvil, wifi, altavoz, full, hd
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

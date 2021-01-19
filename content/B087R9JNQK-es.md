@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087R9JNQK-es OOWOLF HD Webcam Cámara Web Full HD 1080P con Micrófono...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

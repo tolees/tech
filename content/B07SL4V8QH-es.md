@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL4V8QH-es ALASTA® Espejo | Espejo Grandes de Pared | 120x80 | Brasil...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 284.0 EUR
 currency: EUR
 price: 284.0

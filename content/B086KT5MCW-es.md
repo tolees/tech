@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KT5MCW-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFMGZ14-es Brother HL-L6300DW - Impresora láser Profesional Monocromo...'
-tags: impresora, wifi
+tags: tole.es, impresora, wifi
 actualPrice: 409.66 EUR
 currency: EUR
 price: 409.66

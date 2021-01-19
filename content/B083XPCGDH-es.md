@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XPCGDH-es yobola Auriculares Bluetooth Inalámbrico Bluetooth 5.0...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

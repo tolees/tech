@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRVM993-es Syncwire Funda iPhone 11 UltraRock Funda Protectora de...'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

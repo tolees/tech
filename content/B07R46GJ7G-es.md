@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R46GJ7G-es Yosh Funda Impermeable para teléfono móvil Compatible con...'
-tags: galaxy, huawei, iphone, móvil, samsung, xiaomi
+tags: tole.es, galaxy, huawei, iphone, móvil, samsung, xiaomi
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

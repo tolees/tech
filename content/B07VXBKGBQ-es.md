@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXBKGBQ-es PowerA - Mando inalámbrico mejorado Pokémon Graffiti...'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

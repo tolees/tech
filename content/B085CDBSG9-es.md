@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDBSG9-es FMPC Carcasa con Cuerda Samsung Galaxy A51 Cristal TPU...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

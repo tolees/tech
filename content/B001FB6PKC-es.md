@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FB6PKC-es Tamron SP AF 90 mm F/2.8 di Macro 1:1 - Objetivo para...'
-tags: nikon
+tags: tole.es, nikon
 actualPrice: 373.0 EUR
 currency: EUR
 price: 373.0

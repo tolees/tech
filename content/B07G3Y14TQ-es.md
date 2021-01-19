@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3Y14TQ-es Acer Aspire 3 A315-53-561Y - Ordenador portátil de 15.6"...'
-tags: ordenador, ram, teclado
+tags: tole.es, ordenador, ram, teclado
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

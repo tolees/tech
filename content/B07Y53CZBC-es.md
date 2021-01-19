@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y53CZBC-es Compatible con Huawei P30 Pro funda transparente de...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFS94X4-es HANPURE Adaptador USB Bluetooth 4.0 - Bluetooth 4.0 Dongle...'
-tags: auriculares, bluetooth, teclado
+tags: tole.es, auriculares, bluetooth, teclado
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT7ALMP-es Fresh N Rebel Rockbox Slice - Altavoz portátil con...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

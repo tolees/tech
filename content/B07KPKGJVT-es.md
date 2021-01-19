@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

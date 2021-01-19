@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C4QL66Y-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128...'
-tags: sandisk
+tags: tole.es, sandisk
 actualPrice: 130.46 EUR
 currency: EUR
 price: 130.46

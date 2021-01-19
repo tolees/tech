@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH9HRNK-es GadFull 2 Piezas HD Protector de Pantalla para iPhone 6 e...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

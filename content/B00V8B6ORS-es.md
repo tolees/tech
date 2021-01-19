@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V8B6ORS-es Suunto - Smart Sensor Black HR Belt - Cinturón soporte...'
-tags: suunto
+tags: tole.es, suunto
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

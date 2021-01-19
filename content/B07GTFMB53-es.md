@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTFMB53-es Aigital 300Mbps Repetidor WiFi Router inalámbrico Long...'
-tags: wifi
+tags: tole.es, wifi
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

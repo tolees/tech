@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB1RYG7-es Travis Touch - Traductor Inteligente de Bolsillo a 105...'
-tags: lte
+tags: tole.es, lte
 actualPrice: 199 EUR
 currency: EUR
 price: 199

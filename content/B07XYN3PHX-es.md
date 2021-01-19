@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYN3PHX-es FMPC Funda Compatible con Samsung Galaxy J4 2018 Caso...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

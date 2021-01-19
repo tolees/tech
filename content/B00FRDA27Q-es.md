@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FRDA27Q-es Microsoft – Bluetooth Mobile Mouse 3600 Inalámbrico Azul'
-tags: bluetooth, microsoft
+tags: tole.es, bluetooth, microsoft
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

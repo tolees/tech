@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQDOANK-es Sennheiser Game Zero - Auriculares de Diadema Cerrados...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 181.97 EUR
 currency: EUR
 price: 181.97

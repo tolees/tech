@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XW4C5Q-es Withings Body+ Báscula inteligente con conexión Wi-Fi...'
-tags: bluetooth, móvil, withings
+tags: tole.es, bluetooth, móvil, withings
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

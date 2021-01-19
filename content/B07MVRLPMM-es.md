@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVRLPMM-es HP Z3700 - Ratón'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

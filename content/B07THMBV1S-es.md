@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THMBV1S-es Moviles Libres Baratos 4G 16GB ROM /Memoria Extendida 128...'
-tags: móvil, smartphone, wifi
+tags: tole.es, móvil, smartphone, wifi
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK1HM1B-es Enchufe Inteligente Wi-Fi Smart Plug 16A 3680W Mide el...'
-tags: alexa, google, assistant
+tags: tole.es, alexa, google, assistant
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

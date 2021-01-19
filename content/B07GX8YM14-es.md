@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX8YM14-es Amortiguador de Goma Flexible V2 Anti Holgura y Vibración...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EY6AV50-es Olympus Objetivo M.Zuiko Digital ED 12-40 mm F2.8 Pro Zoom...'
-tags: panasonic
+tags: tole.es, panasonic
 actualPrice: 838.0 EUR
 currency: EUR
 price: 838.0

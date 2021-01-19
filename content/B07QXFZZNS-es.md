@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXFZZNS-es Brazalete deportivo Universal Impermeable Teléfono Móvil...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

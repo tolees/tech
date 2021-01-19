@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W2KY1VD-es AUKEY Soporte Coche Móvil Magnetico 2 Pack Salpicadero...'
-tags: gps, iphone, móvil, samsung
+tags: tole.es, gps, iphone, móvil, samsung
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

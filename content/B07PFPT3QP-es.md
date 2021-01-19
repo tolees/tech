@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFPT3QP-es Belkin Boost Up Base de carga inalámbrica 10 W cargador...'
-tags: galaxy, iphone, samsung
+tags: tole.es, galaxy, iphone, samsung
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

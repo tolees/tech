@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DGXR9G-es FNBK Funda para Samsung Galaxy S10 Plus Funda de Piel con...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

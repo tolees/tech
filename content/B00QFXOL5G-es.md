@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QFXOL5G-es WD Black - Disco duro de alto rendimiento para ordenadores...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

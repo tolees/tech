@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0042T7VGQ-es Logitech K800 Teclado Inalámbrico Retroiluminado para...'
-tags: logitech, teclado
+tags: tole.es, logitech, teclado
 actualPrice: 104.46 EUR
 currency: EUR
 price: 104.46

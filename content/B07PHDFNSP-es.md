@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHDFNSP-es Lenovo ThinkPad E590 - Ordenador portátil 15.6" FullHD...'
-tags: lenovo, ordenador, ram, teclado
+tags: tole.es, lenovo, ordenador, ram, teclado
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

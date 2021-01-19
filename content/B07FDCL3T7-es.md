@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDCL3T7-es WANFEI Pulsera Xiaomi Mi Band 3 Correa Band 3 Correa de...'
-tags: xiaomi
+tags: tole.es, xiaomi
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

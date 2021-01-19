@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0156IF3ZW-es Pioneer SE-MJ503-W - Auriculares blanco'
-tags: auriculares, pioneer
+tags: tole.es, auriculares, pioneer
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

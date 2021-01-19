@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB5QWY9-es Lenovo L24e-20 23.8 " FHD VA FreeSync Gaming Monitor 4 ms...'
-tags: lenovo
+tags: tole.es, lenovo
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

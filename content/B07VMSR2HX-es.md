@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMSR2HX-es Sennheiser PC 8.2 Chat Auriculares con Cable para Casual...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 56.51 EUR
 currency: EUR
 price: 56.51

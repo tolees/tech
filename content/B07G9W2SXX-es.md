@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9W2SXX-es Garmin Vivosmart 4 Pulsera de Actividad Adultos Unisex...'
-tags: garmin
+tags: tole.es, garmin
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

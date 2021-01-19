@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB13GLV-es Energy Sistem Headphones BT Urban 2 Radio White...'
-tags: auriculares, bluetooth, microsd
+tags: tole.es, auriculares, bluetooth, microsd
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTY81CD-es K KYUER 47WH PA5013U-1BRS Batería para Toshiba Portege...'
-tags: toshiba
+tags: tole.es, toshiba
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

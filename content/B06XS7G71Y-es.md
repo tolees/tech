@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS7G71Y-es Apple Funda Smart Cover para el iPad - Gris carbón'
-tags: apple
+tags: tole.es, apple
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VTVGSDW-es Logitech Spotlight Presentador Inalámbrico 2.4 GHz y...'
-tags: bluetooth, logitech
+tags: tole.es, bluetooth, logitech
 actualPrice: 80.53 EUR
 currency: EUR
 price: 80.53

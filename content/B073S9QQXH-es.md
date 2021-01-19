@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S9QQXH-es Jabra Elite Sport – Auriculares Deportivos Inalámbricos...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

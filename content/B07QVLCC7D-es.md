@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVLCC7D-es DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

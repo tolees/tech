@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

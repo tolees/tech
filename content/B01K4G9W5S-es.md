@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4G9W5S-es ESR Protector Pantalla para iPhone 7 Plus/8 Plus [2...'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

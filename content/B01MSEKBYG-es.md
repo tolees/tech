@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSEKBYG-es Sony XDRS41DR.EU8 - Radio portátil Digital Dab/Dab+/FM...'
-tags: sony, altavoz
+tags: tole.es, sony, altavoz
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

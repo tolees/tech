@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
-tags: 1080p, bluetooth, wifi, altavoz
+tags: tole.es, 1080p, bluetooth, wifi, altavoz
 actualPrice: 226.57 EUR
 currency: EUR
 price: 226.57

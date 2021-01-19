@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZLTQMK-es WD My Book Duo Disco duro externo de Sobremesa de 6 TB con...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 224.25 EUR
 currency: EUR
 price: 224.25

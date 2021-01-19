@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTSQZZ7-es TopMate Power Bank - Cargador portátil de 20000 mAh...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

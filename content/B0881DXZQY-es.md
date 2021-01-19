@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda Suave PU Cuero Flip...'
-tags: sony
+tags: tole.es, sony
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

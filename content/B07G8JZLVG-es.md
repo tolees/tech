@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8JZLVG-es Polar Vantage V Pulsómetro con GPS Unisex Adulto Blanco...'
-tags: gps
+tags: tole.es, gps
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

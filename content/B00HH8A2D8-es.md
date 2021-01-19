@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HH8A2D8-es Sony HDR-CX240E - Videocámara color negro'
-tags: sony
+tags: tole.es, sony
 actualPrice: 174.0 EUR
 currency: EUR
 price: 174.0

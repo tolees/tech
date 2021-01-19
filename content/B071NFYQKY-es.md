@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NFYQKY-es Mini Ventilador USB COO Mini USB Ventilador de Mesa...'
-tags: ordenador
+tags: tole.es, ordenador
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

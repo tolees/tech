@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1JCFYM-es cradle HR Funda Protectora para Huawei MediaPad T3 8 de 8...'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

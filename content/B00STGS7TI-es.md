@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STGS7TI-es Energy Sistem Tower 5 - Sistema de sonido Bluetooth 60 W...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

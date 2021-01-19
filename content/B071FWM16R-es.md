@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FWM16R-es Lenovo L24i-10 - Monitor de 23.8" Pantalla FullHD/IPS 1920...'
-tags: lenovo
+tags: tole.es, lenovo
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

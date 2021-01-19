@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1HXYCV-es Anillo de Luz con Tripode doosl 10" Regulables Selfies...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

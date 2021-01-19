@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JM2VSRU-es HP Laserjet Pro M227sdn - Impresora láser multifunción 800...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

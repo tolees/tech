@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPGTXQ8-es Macally ASTAND soporte de aluminio para portátiles Apple...'
-tags: apple
+tags: tole.es, apple
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

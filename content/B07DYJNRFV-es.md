@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYJNRFV-es Jevogh JLY03-1 HD Dash Cam 170°Grand Angle 1080P avec...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

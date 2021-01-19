@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMTHB5N-es Victure Camara Deportiva 4k WiFi 16MP Impermeable Cámara...'
-tags: wifi
+tags: tole.es, wifi
 actualPrice: 59.11 EUR
 currency: EUR
 price: 59.11

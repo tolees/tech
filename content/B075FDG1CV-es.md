@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FDG1CV-es Cargador De Coche Mario POW Nintendo Switch'
-tags: nintendo, nintendo, switch
+tags: tole.es, nintendo, nintendo, switch
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

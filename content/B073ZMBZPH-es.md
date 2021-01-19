@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZMBZPH-es WD My Book Duo Disco duro externo de Sobremesa de 4 TB con...'
-tags: disco, duro
+tags: tole.es, disco, duro
 actualPrice: 104.97 EUR
 currency: EUR
 price: 104.97

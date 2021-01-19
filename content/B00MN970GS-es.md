@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MN970GS-es Suunto - Smart Sensor HR Black - Módulo Sensor de...'
-tags: suunto
+tags: tole.es, suunto
 actualPrice: 62.27 EUR
 currency: EUR
 price: 62.27

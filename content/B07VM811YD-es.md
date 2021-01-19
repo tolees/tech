@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM811YD-es TekHome 2019 Nueva Cámara de Fotos para Niños con 32GB...'
-tags: 1080p
+tags: tole.es, 1080p
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719FKQKL-es BigBen Interactive TW12CDPARIS3 - Torre Multimedia con...'
-tags: bluetooth
+tags: tole.es, bluetooth
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

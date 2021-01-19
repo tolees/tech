@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4PBVW9-es Adaptador Cargador Nuevo Compatible para Portátil Toshiba...'
-tags: toshiba
+tags: tole.es, toshiba
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

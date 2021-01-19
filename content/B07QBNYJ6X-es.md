@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBNYJ6X-es SanDisk Cruzer Blade- Memoria USB 2.0 Pack 3 Unidades de...'
-tags: sandisk
+tags: tole.es, sandisk
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

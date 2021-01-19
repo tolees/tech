@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos...'
-tags: auriculares, bluetooth, huawei, iphone, samsung, xiaomi
+tags: tole.es, auriculares, bluetooth, huawei, iphone, samsung, xiaomi
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

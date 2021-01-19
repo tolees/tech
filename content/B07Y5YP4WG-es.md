@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5YP4WG-es Powcan Gorro Bluetooth V5.0 Inalámbricos Sombrero...'
-tags: auriculares, bluetooth, altavoz
+tags: tole.es, auriculares, bluetooth, altavoz
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMG5RC1-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC...'
-tags: xbox, disco, duro
+tags: tole.es, xbox, disco, duro
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

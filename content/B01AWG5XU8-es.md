@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWG5XU8-es LG 34UM88-P - Monitor Profesional UltraWide QHD de 86 36...'
-tags: ips, ultrawide
+tags: tole.es, ips, ultrawide
 actualPrice: 334.18 EUR
 currency: EUR
 price: 334.18

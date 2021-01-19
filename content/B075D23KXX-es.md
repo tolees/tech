@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D23KXX-es Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 268.88 EUR
 currency: EUR
 price: 268.88

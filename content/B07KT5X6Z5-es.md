@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT5X6Z5-es Cámara de Video Digital HD-100 Full HD 1080P Pantalla TFT...'
-tags: 1080p, full, hd
+tags: tole.es, 1080p, full, hd
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

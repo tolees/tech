@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014KH8BRW-es Logitech C615 Webcam Portátil Full HD 1080p/30ims Video-...'
-tags: logitech, full, hd
+tags: tole.es, logitech, full, hd
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

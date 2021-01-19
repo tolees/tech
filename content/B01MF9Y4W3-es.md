@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF9Y4W3-es Motorola Smart Nursery Dream Machine - Vigilabebés audio...'
-tags: motorola
+tags: tole.es, motorola
 actualPrice: 29.02 EUR
 currency: EUR
 price: 29.02

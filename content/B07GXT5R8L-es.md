@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXT5R8L-es NGS Wild Punk 1- Altavoz Bluetooth con Doble Subwoofer...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

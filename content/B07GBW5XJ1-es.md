@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBW5XJ1-es Baseus Soporte Móvil Coche Soporte del Coche Móvil...'
-tags: iphone, móvil, samsung
+tags: tole.es, iphone, móvil, samsung
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

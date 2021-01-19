@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JB9D2R1-es DENGC Ratón inalámbrico para Juegos de 2.4G 4 Botones...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V1VVYQ-es NILLKIN Funda para iPhone 11 Pro 5.8" [Protección de la...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

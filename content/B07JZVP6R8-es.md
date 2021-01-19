@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZVP6R8-es Sigma F1.4 DC DN Contemporary - Objetivo 56 mm para Sony E...'
-tags: sony
+tags: tole.es, sony
 actualPrice: 404.65 EUR
 currency: EUR
 price: 404.65

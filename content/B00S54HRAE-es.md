@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XTLFHM-es AUKEY Auriculares Inalámbricos Bluetooth 5 Sport Carga...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

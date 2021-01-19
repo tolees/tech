@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MTXXSAK-es Samyang F1220506101 - Objetivo fotográfico CSC-Mirrorless...'
-tags: sony
+tags: tole.es, sony
 actualPrice: 298.98 EUR
 currency: EUR
 price: 298.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN3M5BZ-es NGS Premium Speaker WildRock - Altavoz portátil con...'
-tags: bluetooth, altavoz
+tags: tole.es, bluetooth, altavoz
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

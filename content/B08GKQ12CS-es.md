@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKQ12CS-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

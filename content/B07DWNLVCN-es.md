@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWNLVCN-es YZCX Auriculares Gaming G2000 USB 3.5mm Estéreo Gaming...'
-tags: auriculares, tablet
+tags: tole.es, auriculares, tablet
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

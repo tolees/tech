@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCCGWRQ-es ASUS RT-AC58U V2 - Router WiFi 5 AC1300 MU-MIMO 4 Gigabit...'
-tags: asus, gigabit, wifi
+tags: tole.es, asus, gigabit, wifi
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KH6YPP4-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
-tags: 1080p, alexa, wifi
+tags: tole.es, 1080p, alexa, wifi
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

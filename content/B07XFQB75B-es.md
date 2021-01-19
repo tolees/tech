@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional...'
-tags: móvil
+tags: tole.es, móvil
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSZCDCB-es K KYUER EB-BT810ABA EB-BT810ABE Tablet Batería para...'
-tags: galaxy, samsung, tablet
+tags: tole.es, galaxy, samsung, tablet
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

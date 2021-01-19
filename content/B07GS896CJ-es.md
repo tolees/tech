@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS896CJ-es Lenovo Legion Y920-17IKB - Ordenador portátil gaming de...'
-tags: lenovo, ordenador, ram, teclado
+tags: tole.es, lenovo, ordenador, ram, teclado
 actualPrice: 1549.0 EUR
 currency: EUR
 price: 1549.0

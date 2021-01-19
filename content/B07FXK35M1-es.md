@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXK35M1-es SJCAM SJ8 PRO - Cámara de acción 4 K/60FPS WiFi para...'
-tags: wifi
+tags: tole.es, wifi
 actualPrice: 189.22 EUR
 currency: EUR
 price: 189.22

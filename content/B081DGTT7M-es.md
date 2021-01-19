@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DGTT7M-es FNBK Funda para iPhone 11 Pro Max Case Funda Móvil PU en...'
-tags: iphone, móvil
+tags: tole.es, iphone, móvil
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

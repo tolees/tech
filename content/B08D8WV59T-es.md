@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D8WV59T-es Docooler Auriculares inalámbricos BT 5.0 Alta fidelidad...'
-tags: auriculares, auriculares, estéreo
+tags: tole.es, auriculares, auriculares, estéreo
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

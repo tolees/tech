@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S8VH6Q-es Mars Gaming MRS0 altavoces 10W subwoofer conector directo...'
-tags: auriculares
+tags: tole.es, auriculares
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

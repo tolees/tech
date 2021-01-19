@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0898Z1QPR-es WINMI para Samsung Galaxy A20e Funda Tapa Trasera de...'
-tags: galaxy, samsung
+tags: tole.es, galaxy, samsung
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

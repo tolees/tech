@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0142OHJJY-es Mochila Cámara Réflex - [Multi-Capa] Mochila Fotografía...'
-tags: canon, nikon, sony
+tags: tole.es, canon, nikon, sony
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

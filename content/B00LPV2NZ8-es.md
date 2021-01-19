@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPV2NZ8-es iRobot 4419696 Xlife Batería original para el robot...'
-tags: irobot, roomba
+tags: tole.es, irobot, roomba
 actualPrice: 74.09 EUR
 currency: EUR
 price: 74.09

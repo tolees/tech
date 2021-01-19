@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLC2B3G-es Aioneus Cargador iPhone 5Pack Cable iPhone 1+1+1.5+1.5+2 M...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

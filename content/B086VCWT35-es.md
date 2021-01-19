@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida...'
-tags: huawei, samsung
+tags: tole.es, huawei, samsung
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

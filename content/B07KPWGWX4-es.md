@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPWGWX4-es Brazalete Deportivo Brazalete Running Armband Movil...'
-tags: huawei, iphone, samsung
+tags: tole.es, huawei, iphone, samsung
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRCQWGO-es Samsung C27H711 27" Wide Quad HD VA Monitor para PC - 300...'
-tags: samsung
+tags: tole.es, samsung
 actualPrice: 275.89 EUR
 currency: EUR
 price: 275.89

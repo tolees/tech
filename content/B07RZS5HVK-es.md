@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZS5HVK-es Anpollo Alfombrilla para ratón Speed Gaming XXL 900 x 400...'
-tags: ratón
+tags: tole.es, ratón
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

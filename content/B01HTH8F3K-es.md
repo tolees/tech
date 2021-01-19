@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTH8F3K-es Anker Altavoz Bluetooth Soundcore Mini Super Altavoz...'
-tags: bluetooth, iphone, samsung, altavoz
+tags: tole.es, bluetooth, iphone, samsung, altavoz
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

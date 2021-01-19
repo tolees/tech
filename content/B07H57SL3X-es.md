@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño...'
-tags: bluetooth, iphone, samsung, altavoz
+tags: tole.es, bluetooth, iphone, samsung, altavoz
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

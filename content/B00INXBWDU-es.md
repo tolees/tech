@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00INXBWDU-es Huawei E5330 - Punto de Acceso inalámbrico Hotspot HSPA+'
-tags: huawei
+tags: tole.es, huawei
 actualPrice: 45.64 EUR
 currency: EUR
 price: 45.64

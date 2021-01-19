@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QQJPNW-es Filamento PLA Oro Ultra Seda 1.75mm ERYONE Impresión 3D...'
-tags: impresora
+tags: tole.es, impresora
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

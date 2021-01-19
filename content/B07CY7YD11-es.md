@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY7YD11-es Motorola Moto G6 – Smartphone libre Android pantalla de...'
-tags: motorola, ram, smartphone
+tags: tole.es, motorola, ram, smartphone
 actualPrice: 199.77 EUR
 currency: EUR
 price: 199.77

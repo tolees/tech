@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QCFTG2-es Auriculares inalámbricos Bluetooth 5.0 con Reproductor...'
-tags: auriculares, bluetooth
+tags: tole.es, auriculares, bluetooth
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

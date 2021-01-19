@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DVDN7TF-es WiseWolf Teclado gaming de una mano profesional sensación...'
-tags: teclado
+tags: tole.es, teclado
 actualPrice: 22.71 EUR
 currency: EUR
 price: 22.71

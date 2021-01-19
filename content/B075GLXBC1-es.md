@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GLXBC1-es HP Color Laserjet Pro MFP M281fdw – Impresora multifunción...'
-tags: impresora, wifi
+tags: tole.es, impresora, wifi
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0
