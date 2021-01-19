@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMRHY7M-es Smartwatch Reloj Inteligente Mujer Hombre Niños Fitness...'
-tags: tole.es, auriculares, bluetooth, smartwatch
+tags: [ 'tole.es','auriculares','bluetooth','smartwatch', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

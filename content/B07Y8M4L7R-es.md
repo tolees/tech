@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8M4L7R-es 2.0 Altavoces HiFi estantería Altavoces pc...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 66.52 EUR
 currency: EUR
 price: 66.52

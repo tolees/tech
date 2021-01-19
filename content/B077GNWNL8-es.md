@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GNWNL8-es MATONE Soporte Movil Bicicleta Soporte Universal Manillar...'
-tags: tole.es, iphone, samsung
+tags: [ 'tole.es','iphone','samsung', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

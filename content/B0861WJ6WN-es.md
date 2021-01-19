@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861WJ6WN-es LG gram 14Z90N-V-AR50B - Ordenador portátil ultraligero de...'
-tags: tole.es, ips, ordenador, ram, teclado
+tags: [ 'tole.es','ips','ordenador','ram','teclado', ]
 actualPrice: 959.0 EUR
 currency: EUR
 price: 959.0

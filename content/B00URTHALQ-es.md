@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00URTHALQ-es Panasonic DMR-BWT640EC9 - Grabador de BLU-Ray Full HD 3D...'
-tags: tole.es, panasonic, wifi, disco, duro, full, hd
+tags: [ 'tole.es','panasonic','wifi','disco','duro','full','hd', ]
 actualPrice: 394.94 EUR
 currency: EUR
 price: 394.94

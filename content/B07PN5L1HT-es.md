@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN5L1HT-es XYC EC USB C a HDMI y VGA 4 en 1 Hub Tipo C a VGA HDMI 4K...'
-tags: tole.es, dell, huawei, samsung
+tags: [ 'tole.es','dell','huawei','samsung', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

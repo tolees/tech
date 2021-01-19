@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YY7VF1-es Brinonac Pantalla para iPhone 6s 4.7" Pantalla Táctil LCD...'
-tags: tole.es, iphone, altavoz
+tags: [ 'tole.es','iphone','altavoz', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

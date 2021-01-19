@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RMNCVK-es NGS Roller Lingo Black - Altavoz Portátil de 20W...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

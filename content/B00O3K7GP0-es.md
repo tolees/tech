@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O3K7GP0-es EDIFIER Studio R2000DB - Sistema de altavoces 2.0 120...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 239.8 EUR
 currency: EUR
 price: 239.8

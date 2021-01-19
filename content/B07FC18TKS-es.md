@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC18TKS-es Cascos Bluetooth Inalámbricos OLTA Auriculares Plegable...'
-tags: tole.es, auriculares, bluetooth, iphone, microsd
+tags: [ 'tole.es','auriculares','bluetooth','iphone','microsd', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

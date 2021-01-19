@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KM3PWY-es YuanLey 5 Port Gigabit PoE Switch with 4 Port PoE+...'
-tags: tole.es, gigabit
+tags: [ 'tole.es','gigabit', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

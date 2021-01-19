@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6MYTBP-es FTVOGUE SOS - Reloj inteligente para niños y niñas con GPS...'
-tags: tole.es, gps
+tags: [ 'tole.es','gps', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

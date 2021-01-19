@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ5MQ6K-es Anker PowerCore Essential 20000 PD Batería Externa...'
-tags: tole.es, iphone, samsung
+tags: [ 'tole.es','iphone','samsung', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

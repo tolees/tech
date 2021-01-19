@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD1RGD1-es Epson Workforce WF 3720 DWF - Impresora Multifunción Color...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 135.18 EUR
 currency: EUR
 price: 135.18

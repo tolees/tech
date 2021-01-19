@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWNLFW-es DURAGADGET Cable De Audio Monitor ASUS VX229H VX239H...'
-tags: tole.es, asus
+tags: [ 'tole.es','asus', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

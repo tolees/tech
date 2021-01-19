@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZBSPWF-es [1-Pack]para Samsung Galaxy S8 Protector de Pantalla...'
-tags: tole.es, galaxy, samsung
+tags: [ 'tole.es','galaxy','samsung', ]
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

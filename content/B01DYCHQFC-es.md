@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DYCHQFC-es Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

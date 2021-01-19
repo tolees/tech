@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYM8X3X-es Philips 327E8QJAB - Monitor de 32" FHD resolucion 1920 x...'
-tags: tole.es, ips
+tags: [ 'tole.es','ips', ]
 actualPrice: 236.83 EUR
 currency: EUR
 price: 236.83

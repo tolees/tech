@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004WBL86S-es Panasonic AAA 750mAh NiMH 4-BL Batería/Pila recargable 750...'
-tags: tole.es, panasonic
+tags: [ 'tole.es','panasonic', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2HQD1H-es ZTE Blade L8 - Smartphone 5" 18:9 TFT Quad Core 1GB RAM...'
-tags: tole.es, ram, smartphone
+tags: [ 'tole.es','ram','smartphone', ]
 actualPrice: 49.01 EUR
 currency: EUR
 price: 49.01

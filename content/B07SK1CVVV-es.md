@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK1CVVV-es Enchufe Inteligente WiFi TECKIN 16A 3300W Smart Plug...'
-tags: tole.es, alexa, wifi, google, home
+tags: [ 'tole.es','alexa','wifi','google','home', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

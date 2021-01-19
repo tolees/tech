@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV3P5QF-es TSUPY HUB USB C 11 en 1 Thunderbolt Hub Tipo C con HDMI 4K...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

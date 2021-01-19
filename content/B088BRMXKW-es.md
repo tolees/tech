@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BRMXKW-es havit Teclados mecánico Gaming de una Mano y Ratón Teclado...'
-tags: tole.es, ratón, teclado
+tags: [ 'tole.es','ratón','teclado', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

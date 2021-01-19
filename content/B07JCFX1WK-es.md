@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCFX1WK-es Lenovo Yoga730 - Ordenador portátil táctil Convertible...'
-tags: tole.es, lenovo, ordenador, ram, teclado
+tags: [ 'tole.es','lenovo','ordenador','ram','teclado', ]
 actualPrice: 917.4 EUR
 currency: EUR
 price: 917.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PXQWD5-es Cámara Web HD Pro Con Micrófono Cámara USB Para PC 1080P...'
-tags: tole.es, 1080p, full, hd
+tags: [ 'tole.es','1080p','full','hd', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JCRZ6XS-es Crucial CT2K102464BF186D Kit de memoria RAM de 16 GB 8 GB...'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 80.76 EUR
 currency: EUR
 price: 80.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de...'
-tags: tole.es, bluetooth, teclado
+tags: [ 'tole.es','bluetooth','teclado', ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

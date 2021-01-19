@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHRTYPL-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
-tags: tole.es, huawei, iphone, samsung, xiaomi
+tags: [ 'tole.es','huawei','iphone','samsung','xiaomi', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

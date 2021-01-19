@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZR9G24P-es SPACEKEEPER Carro de Almacenamiento Delgado de 4 Niveles...'
-tags: tole.es, móvil
+tags: [ 'tole.es','móvil', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

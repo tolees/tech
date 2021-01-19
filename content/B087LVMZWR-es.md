@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LVMZWR-es Oihxse Cristal Compatible con Samsung Galaxy S20+/S20 Plus...'
-tags: tole.es, galaxy, samsung
+tags: [ 'tole.es','galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

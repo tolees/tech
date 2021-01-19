@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil...'
-tags: tole.es, huawei, iphone, samsung
+tags: [ 'tole.es','huawei','iphone','samsung', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

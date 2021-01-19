@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga...'
-tags: tole.es, galaxy, iphone
+tags: [ 'tole.es','galaxy','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

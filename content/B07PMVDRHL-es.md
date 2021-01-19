@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMVDRHL-es Altavoz Bluetooth Luz de Nocturna Careslong lámpara de...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

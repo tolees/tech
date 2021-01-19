@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFK5PZD-es UGREEN Cargador USB C 30W Cargador Carga Rapida Power...'
-tags: tole.es, iphone, samsung, xiaomi
+tags: [ 'tole.es','iphone','samsung','xiaomi', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

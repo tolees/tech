@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISNZ62I-es Reticare 352L-0215-B - Protector intensive de ojos para...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

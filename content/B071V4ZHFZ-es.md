@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071V4ZHFZ-es TomTom GO Professional 620 Navegación Profesional para...'
-tags: tole.es, smartphone, tomtom
+tags: [ 'tole.es','smartphone','tomtom', ]
 actualPrice: 319.96 EUR
 currency: EUR
 price: 319.96

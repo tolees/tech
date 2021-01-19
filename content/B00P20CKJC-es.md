@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P20CKJC-es VATI Hojas desprendibles Kill Geniales Diseño Sticker...'
-tags: tole.es, apple
+tags: [ 'tole.es','apple', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

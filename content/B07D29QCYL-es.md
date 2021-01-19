@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D29QCYL-es Hitchy Trípode Movil Trípode iPhone 42" Pulgadas 106cm...'
-tags: tole.es, bluetooth, iphone, móvil
+tags: [ 'tole.es','bluetooth','iphone','móvil', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

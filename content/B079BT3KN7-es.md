@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BT3KN7-es Funda MacBook Pro 13"/MacBook Air 2018 Sleeve Antracita -...'
-tags: tole.es, dell, ordenador
+tags: [ 'tole.es','dell','ordenador', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTKKD6-es Sony SRS-XB41B Altavoz Portátil Bluetooth Extra Bass Modo...'
-tags: tole.es, bluetooth, smartphone, sony, altavoz
+tags: [ 'tole.es','bluetooth','smartphone','sony','altavoz', ]
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

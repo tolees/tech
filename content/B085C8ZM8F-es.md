@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C8ZM8F-es ELTD Funda + Película templada [combinación] para Huawei...'
-tags: tole.es, huawei
+tags: [ 'tole.es','huawei', ]
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

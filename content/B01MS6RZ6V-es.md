@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS6RZ6V-es USB WiFi Adaptador iAmotus WiFi Antenna 600Mbps Mini USB...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

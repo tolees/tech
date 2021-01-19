@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TMHMCS-es Mifa Cámara Web T60 Webcam PC Cámara de Computadora 1080P...'
-tags: tole.es, 1080p, full, hd
+tags: [ 'tole.es','1080p','full','hd', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

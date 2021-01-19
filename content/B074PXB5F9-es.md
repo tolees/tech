@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PXB5F9-es Trust Ziva - Teclado Gaming Layout español Negro'
-tags: tole.es, teclado
+tags: [ 'tole.es','teclado', ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012N04AIC-es DEEPCOOL Soporte Monitor PC Inteligente Elevador Monitor...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 33.58 EUR
 currency: EUR
 price: 33.58

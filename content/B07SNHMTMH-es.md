@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNHMTMH-es FreeLeben Xiaomi Scooter Eléctrico Disco de Freno Disco de...'
-tags: tole.es, xiaomi
+tags: [ 'tole.es','xiaomi', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

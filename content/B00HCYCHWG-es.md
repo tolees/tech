@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HCYCHWG-es WD Elements Desktop - Disco duro externo de sobremesa de 3...'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 82.59 EUR
 currency: EUR
 price: 82.59

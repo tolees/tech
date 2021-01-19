@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4QJTD4-es GTPLAYER Silla Gaming Escritorio Oficina Gamer Ordenador...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

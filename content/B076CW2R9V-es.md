@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CW2R9V-es JVC HA-FX9BT-A-E Dentro de oído Binaural Inalámbrico Azul...'
-tags: tole.es, auriculares, jvc
+tags: [ 'tole.es','auriculares','jvc', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

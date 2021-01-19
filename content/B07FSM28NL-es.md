@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSM28NL-es Juego de Alfombrilla para ratón y reposamuñecas para...'
-tags: tole.es, ordenador, ratón, teclado
+tags: [ 'tole.es','ordenador','ratón','teclado', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

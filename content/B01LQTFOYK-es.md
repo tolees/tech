@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQTFOYK-es Logitech G213 Prodigy Teclado Gaming Retroiluminación RGB...'
-tags: tole.es, logitech, teclado
+tags: [ 'tole.es','logitech','teclado', ]
 actualPrice: 65.22 EUR
 currency: EUR
 price: 65.22

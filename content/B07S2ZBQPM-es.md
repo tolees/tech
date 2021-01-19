@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2ZBQPM-es Lowepro LP37259-PWW Photo Active Mochila para cámara...'
-tags: tole.es, canon, nikon, sony, tablet
+tags: [ 'tole.es','canon','nikon','sony','tablet', ]
 actualPrice: 109.94 EUR
 currency: EUR
 price: 109.94

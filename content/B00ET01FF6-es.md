@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ET01FF6-es Canon CL-546XL Cartucho de tinta original Tricolor XL para...'
-tags: tole.es, canon, impresora
+tags: [ 'tole.es','canon','impresora', ]
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

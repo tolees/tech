@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM4V7NR-es Logitech C920s HD Pro Webcam Full HD 1080p/30fps Video-...'
-tags: tole.es, logitech, full, hd
+tags: [ 'tole.es','logitech','full','hd', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

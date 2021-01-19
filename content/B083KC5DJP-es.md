@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KC5DJP-es 2020 Auriculares inalámbricos Bluetooth con cancelación de...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

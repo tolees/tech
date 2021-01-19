@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD5Y8LJ-es Ferilinso[2 Pack Cristal Templado para Xiaomi Redmi Note 6...'
-tags: tole.es, xiaomi
+tags: [ 'tole.es','xiaomi', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

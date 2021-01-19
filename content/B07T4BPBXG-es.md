@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4BPBXG-es HP Wireless Mouse 220 3FV66AA - Ratón inalámbrico Color Negro'
-tags: tole.es, ratón
+tags: [ 'tole.es','ratón', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

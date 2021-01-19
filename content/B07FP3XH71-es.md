@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP3XH71-es ANTIEE BTY-L77 Batería para Ordenador portátil for MSI...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

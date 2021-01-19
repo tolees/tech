@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHBZKGB-es Alcatel 3 - Smartphone RAM de 3 GB Camara 13 MP bateria...'
-tags: tole.es, ram, smartphone
+tags: [ 'tole.es','ram','smartphone', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

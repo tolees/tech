@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006Y4FU6A-es Gigaset SL910 - Teléfono Inalámbrico con Pantalla táctil...'
-tags: tole.es, bluetooth, gigaset
+tags: [ 'tole.es','bluetooth','gigaset', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

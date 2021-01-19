@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FKD6H8-es TMEZON Webcam 1080P cámara Web USB cámara de computadora...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

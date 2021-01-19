@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STXFZFL-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
-tags: tole.es, apple, auriculares, bluetooth
+tags: [ 'tole.es','apple','auriculares','bluetooth', ]
 actualPrice: 166.99 EUR
 currency: EUR
 price: 166.99

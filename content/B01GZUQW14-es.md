@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZUQW14-es i-Buy La cubierta del teclado de silicona para el MacBook...'
-tags: tole.es, teclado
+tags: [ 'tole.es','teclado', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

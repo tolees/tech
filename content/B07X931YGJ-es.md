@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X931YGJ-es Vigorun Reloj Inteligente Pantalla Táctil Smartwatch para...'
-tags: tole.es, smartwatch
+tags: [ 'tole.es','smartwatch', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

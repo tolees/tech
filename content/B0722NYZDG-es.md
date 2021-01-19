@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722NYZDG-es Logitech M590 Silent Ratón Inalámbrico Multi-Dispositivos...'
-tags: tole.es, bluetooth, logitech, ratón
+tags: [ 'tole.es','bluetooth','logitech','ratón', ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

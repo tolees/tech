@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QLSMZ8-es HP 14s-dq0000ns - Ordenador portátil de 14" HD Intel...'
-tags: tole.es, ordenador, ram, teclado
+tags: [ 'tole.es','ordenador','ram','teclado', ]
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

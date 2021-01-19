@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS91TRQ-es Sony WI-C600N - Auriculares Neckband inalámbricos...'
-tags: tole.es, auriculares, bluetooth, sony
+tags: [ 'tole.es','auriculares','bluetooth','sony', ]
 actualPrice: 121.9 EUR
 currency: EUR
 price: 121.9

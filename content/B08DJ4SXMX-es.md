@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ4SXMX-es Tarjeta de captura de juegos ZasLuke USB 3.0 4K Audio...'
-tags: tole.es, 1080p, nintendo, ps4, xbox, nintendo, switch
+tags: [ 'tole.es','1080p','nintendo','ps4','xbox','nintendo','switch', ]
 actualPrice: 61.55 EUR
 currency: EUR
 price: 61.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG4S78P-es BaZhaHei Monedero MóVil Con Estampado de Flores de Dama...'
-tags: tole.es, móvil
+tags: [ 'tole.es','móvil', ]
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

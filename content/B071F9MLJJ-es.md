@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F9MLJJ-es Western Digital WD10SPZX - Disco Duro Interno HDD 1TB 5400...'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 41.04 EUR
 currency: EUR
 price: 41.04

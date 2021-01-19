@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y15QFYT-es TOSCIDO 4G LTE Tablet 10 Pulgadas1920*1200 IPS HD -...'
-tags: tole.es, ips, lte, ram, tablet, wifi, altavoz
+tags: [ 'tole.es','ips','lte','ram','tablet','wifi','altavoz', ]
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

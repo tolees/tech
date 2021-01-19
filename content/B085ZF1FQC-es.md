@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZF1FQC-es LarmTek 1080P Full HD Webcam cámara para ordenador...'
-tags: tole.es, 1080p, ordenador, full, hd
+tags: [ 'tole.es','1080p','ordenador','full','hd', ]
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

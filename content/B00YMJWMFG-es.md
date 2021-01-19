@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YMJWMFG-es SODIAL R 1GB 1G DDR RAM Memoria Ordenador portatil 333MHZ...'
-tags: tole.es, ordenador, ram
+tags: [ 'tole.es','ordenador','ram', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

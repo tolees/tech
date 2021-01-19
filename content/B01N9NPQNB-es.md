@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9NPQNB-es VULKKANO Blast el Altavoz Bluetooth más potente con 30W...'
-tags: tole.es, bluetooth, móvil, ordenador, altavoz
+tags: [ 'tole.es','bluetooth','móvil','ordenador','altavoz', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

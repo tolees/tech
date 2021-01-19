@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBU1NJ4-es Epson ET-2650 EcoTank Impresora de inyección de tinta 3 en...'
-tags: tole.es, impresora, wifi
+tags: [ 'tole.es','impresora','wifi', ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

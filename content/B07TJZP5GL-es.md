@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJZP5GL-es Dash Cam Lncoon JC200 3G/WiFi Dual Cámara para Coche 1080P...'
-tags: tole.es, 1080p, gps
+tags: [ 'tole.es','1080p','gps', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

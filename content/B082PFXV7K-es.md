@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PFXV7K-es Seagate Barracuda Fast SSD STJM500400 Unidad de Estado...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 96.58 EUR
 currency: EUR
 price: 96.58

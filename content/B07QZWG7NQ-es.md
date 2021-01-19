@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZWG7NQ-es Lámparas de Pie WIFI Wellwerks Lámpara de Salón...'
-tags: tole.es, alexa, wifi
+tags: [ 'tole.es','alexa','wifi', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

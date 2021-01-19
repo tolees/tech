@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PYS1JK-es Artix Auriculares Plegables con Micrófono Auriculares...'
-tags: tole.es, auriculares, auriculares, estéreo
+tags: [ 'tole.es','auriculares','auriculares','estéreo', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

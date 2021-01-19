@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VH55WF-es UGREEN 2X Adaptador Micro USB a Tipo C con OTG Adaptador...'
-tags: tole.es, huawei, samsung, xiaomi
+tags: [ 'tole.es','huawei','samsung','xiaomi', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQPM3QW-es Samsung Galaxy Watch Active2 - Smartwatch Bluetooth Plata...'
-tags: tole.es, bluetooth, galaxy, samsung, smartwatch
+tags: [ 'tole.es','bluetooth','galaxy','samsung','smartwatch', ]
 actualPrice: 224.93 EUR
 currency: EUR
 price: 224.93

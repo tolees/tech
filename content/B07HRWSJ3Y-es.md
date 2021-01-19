@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRWSJ3Y-es ASUS TUF Z390-PRO GAMING - Placa base Gaming ATX Intel de...'
-tags: tole.es, asus
+tags: [ 'tole.es','asus', ]
 actualPrice: 158.93 EUR
 currency: EUR
 price: 158.93

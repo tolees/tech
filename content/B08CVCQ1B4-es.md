@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVCQ1B4-es eXtremeRate Botones para Joycons de Nintendo Switch Botón...'
-tags: tole.es, nintendo, nintendo, switch
+tags: [ 'tole.es','nintendo','nintendo','switch', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

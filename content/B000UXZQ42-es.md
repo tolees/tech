@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UXZQ42-es Logitech ClearChat Comfort USB Binaural Negro -...'
-tags: tole.es, auriculares, logitech
+tags: [ 'tole.es','auriculares','logitech', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

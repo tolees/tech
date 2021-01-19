@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9ZRPPK-es Bluedio T7 Auriculares Bluetooth Cancelación de Ruido...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PVXSRM-es ESR Adaptador USB C a HDMI 4K[Thunderbolt 3] Adaptador USB...'
-tags: tole.es, galaxy, huawei
+tags: [ 'tole.es','galaxy','huawei', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

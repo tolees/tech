@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07547TWLT-es Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

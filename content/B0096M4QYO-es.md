@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0096M4QYO-es Microsoft – Comfort Mouse 4500 Negro'
-tags: tole.es, microsoft
+tags: [ 'tole.es','microsoft', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

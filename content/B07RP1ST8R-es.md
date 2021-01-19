@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP1ST8R-es Xiaomi Mi - Ratón inalámbrico Color Blanco'
-tags: tole.es, ratón, xiaomi
+tags: [ 'tole.es','ratón','xiaomi', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

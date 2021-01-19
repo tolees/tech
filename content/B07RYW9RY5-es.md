@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYW9RY5-es Silicon FBE-SU020TBPHDA60S3KFE - Disco Duro Externo 2 TB...'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

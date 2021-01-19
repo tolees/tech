@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3T2GHX-es REGALPRIX Alfombrilla para ratón Personalizada con tu Foto...'
-tags: tole.es, ratón
+tags: [ 'tole.es','ratón', ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

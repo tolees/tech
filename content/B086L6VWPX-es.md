@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086L6VWPX-es Lector de Tarjetas Micro USB – SD Micro SD y MMC - Lector...'
-tags: tole.es, smartphone
+tags: [ 'tole.es','smartphone', ]
 actualPrice: 5.32 EUR
 currency: EUR
 price: 5.32

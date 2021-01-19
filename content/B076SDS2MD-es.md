@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SDS2MD-es Bose SoundSport Free - Auriculares intraurales...'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 131.4 EUR
 currency: EUR
 price: 131.4

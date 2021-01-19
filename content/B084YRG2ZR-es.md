@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YRG2ZR-es UROZETTA Mobile WiFi Hotspot con 20 GB España Data 4G...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

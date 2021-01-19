@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFHSDTR-es Beats Auriculares Plata mate'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

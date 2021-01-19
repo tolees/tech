@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058VDTO0-es Jabra Drive – Altavoz Bluetooth para Automóvil Micrófono y...'
-tags: tole.es, bluetooth, gps, altavoz
+tags: [ 'tole.es','bluetooth','gps','altavoz', ]
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

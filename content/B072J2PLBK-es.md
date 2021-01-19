@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J2PLBK-es Lenovo L24q-10 - Monitor de 60 45 cm 23 8 " QHD 2560 x...'
-tags: tole.es, lenovo
+tags: [ 'tole.es','lenovo', ]
 actualPrice: 186.15 EUR
 currency: EUR
 price: 186.15

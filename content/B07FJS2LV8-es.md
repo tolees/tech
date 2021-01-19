@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJS2LV8-es Mars Gaming MRK0 teclado gaming iluminación RGB capacidad...'
-tags: tole.es, teclado
+tags: [ 'tole.es','teclado', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

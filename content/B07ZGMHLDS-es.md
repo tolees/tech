@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGMHLDS-es Auriculares Bluetooth SYOSIN TWS Auriculares Inalambricos...'
-tags: tole.es, auriculares, bluetooth, iphone
+tags: [ 'tole.es','auriculares','bluetooth','iphone', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

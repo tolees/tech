@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001ARCFA-es AKG K240 Studio - Semi Open - Auriculares profesionales...'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

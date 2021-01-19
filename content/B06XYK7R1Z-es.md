@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYK7R1Z-es Insta360 ONE - Cámara 360 grados deportiva Resolución 4K...'
-tags: tole.es, bluetooth, microsd
+tags: [ 'tole.es','bluetooth','microsd', ]
 actualPrice: 196.5 EUR
 currency: EUR
 price: 196.5

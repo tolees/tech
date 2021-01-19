@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSGPN8X-es Ufesa RD2500D WIFI - Radiador de Aceite Wifi & App con...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 128.0 EUR
 currency: EUR
 price: 128.0

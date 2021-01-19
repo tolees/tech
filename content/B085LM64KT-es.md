@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LM64KT-es ACEMATE Bombilla inteligente LED 2.4G WiFi Regulable...'
-tags: tole.es, alexa, wifi, google, home
+tags: [ 'tole.es','alexa','wifi','google','home', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

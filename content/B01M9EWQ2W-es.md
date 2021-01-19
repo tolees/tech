@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9EWQ2W-es Logitech G Saitek Flight - Dispositivo de Juego de...'
-tags: tole.es, logitech
+tags: [ 'tole.es','logitech', ]
 actualPrice: 117.72 EUR
 currency: EUR
 price: 117.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

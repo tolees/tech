@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
-tags: tole.es, galaxy, iphone, samsung
+tags: [ 'tole.es','galaxy','iphone','samsung', ]
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXZR6ZO-es Moulinex i-Companion HF9001 - Robot de cocina Bluetooth 13...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

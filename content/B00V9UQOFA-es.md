@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V9UQOFA-es KFD 65W Adaptador Cargador portátil para Intel NUC...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

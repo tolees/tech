@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BYKMT1-es Metronic 495421 - Adaptadores PLC con enchufe extra blanco'
-tags: tole.es, plc
+tags: [ 'tole.es','plc', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

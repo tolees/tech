@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B5SKK78-es Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 GB...'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 43.76 EUR
 currency: EUR
 price: 43.76

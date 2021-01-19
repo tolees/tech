@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWNDXQQ-es Impresora de inyección de tinta Canon PIXMA iP110 Negra...'
-tags: tole.es, canon, impresora, wifi
+tags: [ 'tole.es','canon','impresora','wifi', ]
 actualPrice: 243.73 EUR
 currency: EUR
 price: 243.73

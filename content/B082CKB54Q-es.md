@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CKB54Q-es 2019 Auriculares inalámbricos Bluetooth con cancelación de...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4SSVMK-es Ayete Ratón Vertical 2.4 G Ratón Ergonómico Óptico...'
-tags: tole.es, ordenador, ratón
+tags: [ 'tole.es','ordenador','ratón', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

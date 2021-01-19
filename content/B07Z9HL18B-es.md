@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9HL18B-es Meridiem Games - Meridiem Games - One Piece Arcade Mini...'
-tags: tole.es, nintendo, nintendo, switch
+tags: [ 'tole.es','nintendo','nintendo','switch', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

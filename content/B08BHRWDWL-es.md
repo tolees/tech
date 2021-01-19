@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHRWDWL-es Mouse para juegos Bluetooth mouse inalámbrico recargable...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

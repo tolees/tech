@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YWBMR9-es Mesa para ordenador portátil bandeja para servir el...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

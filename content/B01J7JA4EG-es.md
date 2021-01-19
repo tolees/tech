@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J7JA4EG-es Hiditec Ratón Gaming Alámbrico Blitz - Sensor Profesional...'
-tags: tole.es, ordenador, ps4, ratón, xbox
+tags: [ 'tole.es','ordenador','ps4','ratón','xbox', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

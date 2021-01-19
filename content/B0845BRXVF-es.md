@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0845BRXVF-es Energy Sistem Style 3 Auriculares inalambricos True...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

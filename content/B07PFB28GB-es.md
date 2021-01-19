@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFB28GB-es Estera del cojín del resto de muñeca del ratón del juego...'
-tags: tole.es, ordenador, ratón
+tags: [ 'tole.es','ordenador','ratón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

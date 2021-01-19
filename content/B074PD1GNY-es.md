@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PD1GNY-es AboveTEK - Soporte de ventosa para teléfono móvil gran...'
-tags: tole.es, móvil
+tags: [ 'tole.es','móvil', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

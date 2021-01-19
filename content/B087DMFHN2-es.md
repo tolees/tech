@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087DMFHN2-es Acer Aspire 5 - Ordenador Portátil de 14" FullHD Intel...'
-tags: tole.es, ordenador, ram
+tags: [ 'tole.es','ordenador','ram', ]
 actualPrice: 729.99 EUR
 currency: EUR
 price: 729.99

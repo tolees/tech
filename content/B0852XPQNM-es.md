@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0852XPQNM-es Kosiy Repetidor de Red WiFi Amplificador Amplificador...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

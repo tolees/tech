@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721MRQHG-es Panasonic Lumix DC-TZ90EG-K Cámara Compacta de 20 3 MP...'
-tags: tole.es, panasonic, wifi
+tags: [ 'tole.es','panasonic','wifi', ]
 actualPrice: 325.0 EUR
 currency: EUR
 price: 325.0

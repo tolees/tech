@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8JNYSG-es Anoopsyche Hub USB C 10 en 1 Aluminio Adaptador USB C Hub...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

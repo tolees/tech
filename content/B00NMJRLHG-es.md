@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NMJRLHG-es Devolo 9370 - Adaptador de comunicación por línea...'
-tags: tole.es, gigabit
+tags: [ 'tole.es','gigabit', ]
 actualPrice: 45.68 EUR
 currency: EUR
 price: 45.68

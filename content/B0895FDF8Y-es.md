@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895FDF8Y-es LIDEDE Adaptador USB a HDMI USB 3.0 a HDMI Full HD 1080P...'
-tags: tole.es, 1080p, full, hd
+tags: [ 'tole.es','1080p','full','hd', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

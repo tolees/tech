@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXN7V8P-es Rocketek Surface Pro Cargador 36W 12V 2.58A Adaptador para...'
-tags: tole.es, microsoft
+tags: [ 'tole.es','microsoft', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKBCXLY-es Raspberry Placa Base PI 3 Modelo A+ Cortex a 1.4GHZ WiFi...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02

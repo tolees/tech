@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYBLPNA-es Invision Soporte de Pared para TV Ultra Fuerte – para...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

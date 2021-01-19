@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M8Y5PF-es Oihxse Cristal Compatible con Xiaomi Redmi Note 5 Pro/Note...'
-tags: tole.es, xiaomi
+tags: [ 'tole.es','xiaomi', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LPHVXV-es HyperX HX-MPFS-M Fury S Pro - Alfombrilla de ratón para...'
-tags: tole.es, ratón
+tags: [ 'tole.es','ratón', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

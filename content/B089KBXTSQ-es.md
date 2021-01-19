@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KBXTSQ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
-tags: tole.es, apple, auriculares, bluetooth, huawei, iphone, samsung
+tags: [ 'tole.es','apple','auriculares','bluetooth','huawei','iphone','samsung', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

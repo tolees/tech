@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6DW1FY-es yootech Cargador Inalámbrico Rápido 2 Pack 7.5W para...'
-tags: tole.es, galaxy, iphone
+tags: [ 'tole.es','galaxy','iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

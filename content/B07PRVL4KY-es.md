@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRVL4KY-es Yosou Cable USB C [2Pack 2M] Cargador USB Tipo C Rápida...'
-tags: tole.es, galaxy, huawei, samsung, sony, xiaomi
+tags: [ 'tole.es','galaxy','huawei','samsung','sony','xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

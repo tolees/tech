@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X63CPVJ-es Amazon Fire TV Stick con mando por voz Alexa + Echo Dot...'
-tags: tole.es, alexa, fire, tv, stick
+tags: [ 'tole.es','alexa','fire','tv','stick', ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLT36Q8-es Fujifilm X-T30 Cuerpo cámara de Objetivo Intercambiable...'
-tags: tole.es, fujifilm
+tags: [ 'tole.es','fujifilm', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M9BKQ7-es Oihxse Silicona Funda con Huawei P40 Pro TPU Flexible...'
-tags: tole.es, huawei
+tags: [ 'tole.es','huawei', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

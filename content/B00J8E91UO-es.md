@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J8E91UO-es HyperX Fury - Memoria RAM de 8 GB 1866 MHz DDR3 Non-ECC...'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 48.11 EUR
 currency: EUR
 price: 48.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CTSFP0K-es Arvok 13 13 3 Pulgadas Funda Protectora para...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

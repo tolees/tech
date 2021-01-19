@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQZ68HP-es CHOETECH Cargador Inalámbrico Wireless Charger con QC 3.0...'
-tags: tole.es, samsung, sony
+tags: [ 'tole.es','samsung','sony', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

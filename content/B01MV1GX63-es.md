@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MV1GX63-es Logitech M100 Ratón con Cable USB 3 Botones Seguimiento...'
-tags: tole.es, logitech, ratón
+tags: [ 'tole.es','logitech','ratón', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

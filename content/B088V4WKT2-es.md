@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088V4WKT2-es HP Chromebook x360 12b-ca0000ns - Ordenador portátil de...'
-tags: tole.es, ordenador, ram, teclado
+tags: [ 'tole.es','ordenador','ram','teclado', ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084G7JZCJ-es MAJORITY Oakcastle ED100 - Reproductor de CD y DVD Externo...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

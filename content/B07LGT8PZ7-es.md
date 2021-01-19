@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGT8PZ7-es Decodificador TDT Terrestre - Leelbox Digital TV HD...'
-tags: tole.es, 1080p, full, hd
+tags: [ 'tole.es','1080p','full','hd', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

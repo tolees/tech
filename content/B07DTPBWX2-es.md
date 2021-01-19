@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTPBWX2-es HP ProDesk 400 G4 Mini - Ordenador de sobremesa...'
-tags: tole.es, ordenador, ram, ratón, teclado
+tags: [ 'tole.es','ordenador','ram','ratón','teclado', ]
 actualPrice: 293.0 EUR
 currency: EUR
 price: 293.0

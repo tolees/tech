@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQ0MPBC-es Sunstech PXRC5CDWD - Giradiscos Bluetooth CD Cassette...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 123.14 EUR
 currency: EUR
 price: 123.14

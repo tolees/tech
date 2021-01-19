@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R17YFKG-es Disco Duro Externo Portátil DE 2 5" 160 GB USB 3.0 SATA...'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 38.54 EUR
 currency: EUR
 price: 38.54

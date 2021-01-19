@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KNL6IP2-es AUKEY Hub USB 3.0 4 Puertos Aluminio SuperSpeed 5Gbps con...'
-tags: tole.es, apple, ordenador
+tags: [ 'tole.es','apple','ordenador', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

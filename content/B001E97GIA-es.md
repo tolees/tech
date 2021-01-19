@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E97GIA-es Canon EF 18-200mm f/3.5-5.6 IS - Objetivo para Canon...'
-tags: tole.es, canon
+tags: [ 'tole.es','canon', ]
 actualPrice: 490.64 EUR
 currency: EUR
 price: 490.64

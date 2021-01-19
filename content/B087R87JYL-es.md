@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087R87JYL-es DIGITNOW! USB 3.0 HD Grabadora Video Live Gamer Portable...'
-tags: tole.es, 1080p, full, hd
+tags: [ 'tole.es','1080p','full','hd', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

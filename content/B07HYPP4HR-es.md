@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYPP4HR-es Lenovo Ideapad 720S-13IKBR - Ordenador Portátil ultrafino...'
-tags: tole.es, lenovo, ordenador, ram, teclado
+tags: [ 'tole.es','lenovo','ordenador','ram','teclado', ]
 actualPrice: 786.8 EUR
 currency: EUR
 price: 786.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VDCTCI-es Nikon AF-S 14-24mm F2.8 G - Objetivo con Montura para...'
-tags: tole.es, nikon
+tags: [ 'tole.es','nikon', ]
 actualPrice: 1652.65 EUR
 currency: EUR
 price: 1652.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLX8KK-es MKTOSASA - Auriculares Bluetooth® Doble función:...'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

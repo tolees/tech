@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2T1M6X-es MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD...'
-tags: tole.es, ordenador, ram, teclado
+tags: [ 'tole.es','ordenador','ram','teclado', ]
 actualPrice: 849.99 EUR
 currency: EUR
 price: 849.99

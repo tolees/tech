@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005M17IZC-es Sennheiser RS 120 II - Auriculares de diadema abiertos...'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 77.8 EUR
 currency: EUR
 price: 77.8

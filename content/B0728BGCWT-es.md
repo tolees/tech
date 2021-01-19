@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728BGCWT-es MONITOR HP 23.8 1 VH240A LED IPS FHD 1920X1080 A 60 HZ...'
-tags: tole.es, ips
+tags: [ 'tole.es','ips', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

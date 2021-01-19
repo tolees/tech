@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X42ST4S-es DYNASONIC - Auriculares Bluetooth Inalámbricos Juveniles...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

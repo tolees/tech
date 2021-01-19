@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS37Y3J-es Philips Hue White Ambiance bombilla LED inteligente E27...'
-tags: tole.es, alexa, bluetooth, google, home
+tags: [ 'tole.es','alexa','bluetooth','google','home', ]
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

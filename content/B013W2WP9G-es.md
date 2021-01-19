@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013W2WP9G-es OTGMemoria USB 2.0 Colourstone 32GB Pendrive del Puerto...'
-tags: tole.es, huawei, samsung
+tags: [ 'tole.es','huawei','samsung', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

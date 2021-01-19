@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNFFKNR-es Dericam High Definition Webcam HD Computer Camera 2...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

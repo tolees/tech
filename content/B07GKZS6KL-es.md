@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKZS6KL-es uni Adaptador USB C a USB 3.1[OTG] Adaptador USB...'
-tags: tole.es, huawei, samsung
+tags: [ 'tole.es','huawei','samsung', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

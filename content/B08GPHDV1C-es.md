@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GPHDV1C-es BAITITON NVME 240GB SSD M.2 2280 PCIe Express GEN3.0x4...'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ33HR8-es Relaxdays Mesa Ordenador Portátil para Cama y Sofá con...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773SV4RQ-es Tatkraft Vanessa Mesa de Ordenador Portátil con Ruedas y...'
-tags: tole.es, ordenador, ratón
+tags: [ 'tole.es','ordenador','ratón', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C96CJV0-es Brother - Impresora láser Profesional Monocromo Bandeja...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 229.14 EUR
 currency: EUR
 price: 229.14

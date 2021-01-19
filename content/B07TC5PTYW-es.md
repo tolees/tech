@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC5PTYW-es AUKEY Webcam FHD Cámara de videoconferencia 1080p con USB...'
-tags: tole.es, 1080p, ordenador
+tags: [ 'tole.es','1080p','ordenador', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

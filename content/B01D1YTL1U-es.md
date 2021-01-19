@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1YTL1U-es atFoliX Lámina Protectora de plástico Cristal compatible...'
-tags: tole.es, sony
+tags: [ 'tole.es','sony', ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

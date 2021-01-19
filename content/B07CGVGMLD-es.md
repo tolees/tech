@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGVGMLD-es Logitech G305 Lightspeed Ratón Gaming Inalámbrico Captor...'
-tags: tole.es, logitech, ratón
+tags: [ 'tole.es','logitech','ratón', ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

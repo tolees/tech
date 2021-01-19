@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLZ7Q3F-es Roxtak Micrófono Karaoke Bluetooth UHF Micrófonos...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 74.89 EUR
 currency: EUR
 price: 74.89

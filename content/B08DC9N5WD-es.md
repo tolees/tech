@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DC9N5WD-es UMIDIGI Reloj Inteligente con Esfera Personalizada...'
-tags: tole.es, smartwatch
+tags: [ 'tole.es','smartwatch', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HNRTFD-es Sony NWWS623 Walkman - Reproductor de MP3 deportivo...'
-tags: tole.es, bluetooth, sony
+tags: [ 'tole.es','bluetooth','sony', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

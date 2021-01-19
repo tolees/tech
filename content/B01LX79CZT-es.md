@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX79CZT-es NK Tunnel Cámara Deportiva subacuática 4K Ultra HD 16MP...'
-tags: tole.es, toshiba, wifi
+tags: [ 'tole.es','toshiba','wifi', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07797RTPN-es Gigaset A270 Duo - 2 Teléfonos inalámbricos manos libres...'
-tags: tole.es, gigaset
+tags: [ 'tole.es','gigaset', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJS0SR4-es Sony ICF-S80 - Radio de Ducha de 0.5W Blanco'
-tags: tole.es, sony
+tags: [ 'tole.es','sony', ]
 actualPrice: 42.74 EUR
 currency: EUR
 price: 42.74

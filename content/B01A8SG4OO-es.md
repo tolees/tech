@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A8SG4OO-es Canon PowerShot SX540 HS - Cámara digital de 20.3 Mp...'
-tags: tole.es, canon, wifi
+tags: [ 'tole.es','canon','wifi', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

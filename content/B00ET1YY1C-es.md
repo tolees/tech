@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ET1YY1C-es Lavolta 65W 45W Cargador - 4.0 x 1.7 mm - Adaptador Pare...'
-tags: tole.es, lenovo
+tags: [ 'tole.es','lenovo', ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

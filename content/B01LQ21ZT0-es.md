@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQ21ZT0-es HP LaserJet M203dw - Impresora láser A4 Wifi 1200 x 1200...'
-tags: tole.es, impresora, wifi
+tags: [ 'tole.es','impresora','wifi', ]
 actualPrice: 158.44 EUR
 currency: EUR
 price: 158.44

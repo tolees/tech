@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNSH7FQ-es AWESAFE GPS para Coche con Pantalla Táctil HD de 7...'
-tags: tole.es, gps
+tags: [ 'tole.es','gps', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

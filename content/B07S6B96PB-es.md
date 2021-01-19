@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6B96PB-es JIALONG Grande Alfombrilla de Ratón Ordenador XXL...'
-tags: tole.es, ordenador, ratón
+tags: [ 'tole.es','ordenador','ratón', ]
 actualPrice: 7.57 EUR
 currency: EUR
 price: 7.57

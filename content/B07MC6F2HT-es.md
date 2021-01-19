@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC6F2HT-es cámara Oculta del Altavoz del Bluetooth cámara Nana...'
-tags: tole.es, 1080p, bluetooth, altavoz
+tags: [ 'tole.es','1080p','bluetooth','altavoz', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

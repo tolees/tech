@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB13SK3-es Energy Sistem Headphones BT Urban 2 Radio Black...'
-tags: tole.es, auriculares, bluetooth, microsd
+tags: [ 'tole.es','auriculares','bluetooth','microsd', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

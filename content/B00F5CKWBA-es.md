@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5CKWBA-es AmazonBasics - Funda de disco duro color negro y naranja'
-tags: tole.es, disco, duro
+tags: [ 'tole.es','disco','duro', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

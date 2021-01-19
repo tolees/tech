@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMZMSH0-es EDIFIER Luna E25 – Sistema de Altavoces 2.0 74 Vatios con...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 135.2 EUR
 currency: EUR
 price: 135.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2RP83T-es Apple iPad Pro 11 pulgadas Wi-Fi 512GB - Gris Espacial...'
-tags: tole.es, apple
+tags: [ 'tole.es','apple', ]
 actualPrice: 1045.0 EUR
 currency: EUR
 price: 1045.0

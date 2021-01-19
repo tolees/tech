@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYW3FNH-es Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria...'
-tags: tole.es, bluetooth, gps, ram, tablet, wifi
+tags: [ 'tole.es','bluetooth','gps','ram','tablet','wifi', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

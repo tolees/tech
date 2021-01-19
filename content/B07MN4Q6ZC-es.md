@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN4Q6ZC-es iGPSPORT HR60 pulsómetros Brazalete Compatible con Ant+ y...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

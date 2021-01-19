@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRR9NB7-es Samsung MU-PA500G 500 GB Oro - Unidades externas de Estado...'
-tags: tole.es, samsung
+tags: [ 'tole.es','samsung', ]
 actualPrice: 100.16 EUR
 currency: EUR
 price: 100.16

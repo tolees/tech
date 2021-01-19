@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VK5BMQ-es Garmin GRSOPFR - Soporte Bici.garmin Forerunner Universal'
-tags: tole.es, garmin
+tags: [ 'tole.es','garmin', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

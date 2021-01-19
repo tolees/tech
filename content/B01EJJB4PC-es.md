@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EJJB4PC-es Microsoft p3q-00012 V2 Adaptador de Pantalla inalámbrico'
-tags: tole.es, microsoft
+tags: [ 'tole.es','microsoft', ]
 actualPrice: 61.01 EUR
 currency: EUR
 price: 61.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P22LQL-es Sistema de comunicación para Motocicleta Casco Bluetooth...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQJJQ5T-es Huawei Watch GT 2 Elegant Smartwatch con Caja de 46 mm...'
-tags: tole.es, bluetooth, gps, huawei, smartwatch
+tags: [ 'tole.es','bluetooth','gps','huawei','smartwatch', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

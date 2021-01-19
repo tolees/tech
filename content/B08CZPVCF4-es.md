@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZPVCF4-es USB 2.0 Switch 4 Puertos Conmutador KVM 2 Entradas y 4...'
-tags: tole.es, ratón, teclado, disco, duro
+tags: [ 'tole.es','ratón','teclado','disco','duro', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NYQPB6U-es HP Officejet Pro 6230 - Impresora de tinta- B/N 18 PPM...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 65.44 EUR
 currency: EUR
 price: 65.44

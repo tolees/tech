@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKGY77X-es PINALL 2 Cartucho Compatible HP 302XL para HP DeskJet 3639...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 39.86 EUR
 currency: EUR
 price: 39.86

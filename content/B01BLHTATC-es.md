@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLHTATC-es Primewire 10m Cable de Red Gigabit Ethernet Cat 7-10000...'
-tags: tole.es, gigabit
+tags: [ 'tole.es','gigabit', ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

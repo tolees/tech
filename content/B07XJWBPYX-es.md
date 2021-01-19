@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJWBPYX-es Protector de Pantalla para Dragon Touch K10 Tablet 10.1...'
-tags: tole.es, tablet
+tags: [ 'tole.es','tablet', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

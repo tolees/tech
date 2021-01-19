@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BF16JS-es Canon Cartucho de tinta Negro para...'
-tags: tole.es, canon
+tags: [ 'tole.es','canon', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

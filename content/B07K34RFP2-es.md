@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K34RFP2-es GIGABYTE AORUS AP850GM – Fuente de alimentación 850W...'
-tags: tole.es, gigabyte
+tags: [ 'tole.es','gigabyte', ]
 actualPrice: 109.03 EUR
 currency: EUR
 price: 109.03
@@ -26,10 +26,10 @@ Ahora mismo tienes [GIGABYTE AORUS AP850GM – Fuente de alimentación  850W  Ac
 
 🔎:
 
-- Diseño completamente modular, ayudando a una instalación más eficiente ayudando a una mejor ventilación del equipo.
-- Condensadores 100% japoneses de alta calidad, con una durabilidad 4 veces superior a los condensadores convencionales.
-- Ventilador de aspas de 140mm con Smart control. El ventilador se parará cuando el sistema se encuentre por debajo del 20% de carga, silenciando todo ruido.
 - Certificación de eficiencia 80 Plus Gold: Funciona sin calentarse y emplea menos energía que las fuentes de alimentación sin certificación, logrando un menor consumo.
 - Protección contra picos de corriente OCP, sobretensión OVP, UVP Protección de bajo voltaje, protección contra sobrecarga OLP/protección SCP, OPP, cortocircuitos sobrecalentamiento OTP
+- Condensadores 100% japoneses de alta calidad, con una durabilidad 4 veces superior a los condensadores convencionales.
+- Diseño completamente modular, ayudando a una instalación más eficiente ayudando a una mejor ventilación del equipo.
+- Ventilador de aspas de 140mm con Smart control. El ventilador se parará cuando el sistema se encuentre por debajo del 20% de carga, silenciando todo ruido.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K34RFP2/?tag=tolees-21)

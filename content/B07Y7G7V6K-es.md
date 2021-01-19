@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7G7V6K-es XPLORA 4 - Teléfono Reloj 4G para niños SIM no incluida -...'
-tags: tole.es, gps
+tags: [ 'tole.es','gps', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

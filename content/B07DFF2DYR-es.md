@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFF2DYR-es Adaptador Soporte Extensión Vástago Montaje En Equipo de...'
-tags: tole.es, garmin
+tags: [ 'tole.es','garmin', ]
 actualPrice: 20.74 EUR
 currency: EUR
 price: 20.74

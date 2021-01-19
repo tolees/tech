@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo...'
-tags: tole.es, bluetooth, iphone, samsung, altavoz
+tags: [ 'tole.es','bluetooth','iphone','samsung','altavoz', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCMDKF9-es Barra de Sonido Bluetooth 4.2 de 32 Pulgadas Sistema Bass...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

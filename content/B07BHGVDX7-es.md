@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHGVDX7-es MSI - MSI Pro 16T 7M-023XEU - Ordenador de sobremesa todo...'
-tags: tole.es, ordenador, ram
+tags: [ 'tole.es','ordenador','ram', ]
 actualPrice: 339.33 EUR
 currency: EUR
 price: 339.33

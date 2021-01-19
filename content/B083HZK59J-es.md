@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZK59J-es Carcasa del teléfono Conejo Amarillo Resistente a los...'
-tags: tole.es, móvil
+tags: [ 'tole.es','móvil', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT365MX-es Vieta Pro Goody - Altavoz inalámbrico True Wireless...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

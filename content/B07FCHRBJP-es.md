@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCHRBJP-es hevc Receptor de Satélite Kepnix Nano Adaptador WiFi...'
-tags: tole.es, 1080p, wifi
+tags: [ 'tole.es','1080p','wifi', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

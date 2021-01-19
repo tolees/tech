@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1LD9QM-es Mesa de Cama para Ordenador portátil Plegable portátil con...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

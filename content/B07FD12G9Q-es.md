@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD12G9Q-es Auriculares XIAOMI IN-Ear Headphone Pro 2 Black'
-tags: tole.es, auriculares, xiaomi
+tags: [ 'tole.es','auriculares','xiaomi', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

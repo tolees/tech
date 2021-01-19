@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMT1MPM-es HOMCOM Piano Infantil 37 Teclas Teclado Electrónico Juego...'
-tags: tole.es, teclado
+tags: [ 'tole.es','teclado', ]
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

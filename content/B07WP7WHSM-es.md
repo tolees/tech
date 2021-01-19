@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP7WHSM-es Funda Protectora para Huawei MediaPad M6 10.8 Pulgadas...'
-tags: tole.es, huawei
+tags: [ 'tole.es','huawei', ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

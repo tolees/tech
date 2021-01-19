@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8GM42T-es KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos 7...'
-tags: tole.es, ratón
+tags: [ 'tole.es','ratón', ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

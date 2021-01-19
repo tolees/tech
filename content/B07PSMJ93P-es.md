@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSMJ93P-es Camara Vigilancia Cámara de Seguridad WiFi 1080p Cámara de...'
-tags: tole.es, 1080p, alexa, wifi
+tags: [ 'tole.es','1080p','alexa','wifi', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG8XJBX-es GOZAR Scooter Eléctrico Antirrobo De Acero Alambre Bloqueo...'
-tags: tole.es, xiaomi
+tags: [ 'tole.es','xiaomi', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

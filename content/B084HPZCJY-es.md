@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HPZCJY-es Set Deportivo iwotto Auriculares Led Bluetooth con...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

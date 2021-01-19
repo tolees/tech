@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZD88CTT-es IKOHS NETBOT LS23 - Robot Aspirador Láser Aspira Barre...'
-tags: tole.es, wifi
+tags: [ 'tole.es','wifi', ]
 actualPrice: 329.95 EUR
 currency: EUR
 price: 329.95

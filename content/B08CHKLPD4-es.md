@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHKLPD4-es SOOTEWAY Adaptador Bluetooth 5.0 Transmisor Receptor 2 en...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

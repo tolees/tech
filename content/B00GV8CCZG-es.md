@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GV8CCZG-es Magnat Monitor Supreme Sub 202 - Altavoz'
-tags: tole.es, altavoz
+tags: [ 'tole.es','altavoz', ]
 actualPrice: 219.67 EUR
 currency: EUR
 price: 219.67

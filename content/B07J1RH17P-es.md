@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1RH17P-es Cargador USB Multipuerto LENCENT Ladron Enchufes 4.4A 5V...'
-tags: tole.es, iphone, samsung
+tags: [ 'tole.es','iphone','samsung', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

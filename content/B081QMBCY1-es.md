@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QMBCY1-es HP OMEN 15-dh0018ns - Ordenador portátil de 15.6" FullHD...'
-tags: tole.es, ordenador, ram, teclado
+tags: [ 'tole.es','ordenador','ram','teclado', ]
 actualPrice: 1399.99 EUR
 currency: EUR
 price: 1399.99

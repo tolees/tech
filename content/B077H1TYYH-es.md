@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077H1TYYH-es Acer KG1 KG251Q - Monitor Gaming de 24.5" Full HD LED 1ms...'
-tags: tole.es, full, hd
+tags: [ 'tole.es','full','hd', ]
 actualPrice: 119 EUR
 currency: EUR
 price: 119

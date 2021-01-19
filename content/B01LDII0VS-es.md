@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LDII0VS-es Sony SEL50M28.SYX - Lente Prime Macro Montura E de 55mm F2 8'
-tags: tole.es, sony
+tags: [ 'tole.es','sony', ]
 actualPrice: 495.0 EUR
 currency: EUR
 price: 495.0

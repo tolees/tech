@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N28SX7F-es Primux TW01 - Torre de Sonido con Bluetooth 30W FM Color...'
-tags: tole.es, bluetooth
+tags: [ 'tole.es','bluetooth', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

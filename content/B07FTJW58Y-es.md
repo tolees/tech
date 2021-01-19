@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTJW58Y-es Lamicall Soporte para Móvil con Cuello de Cisne : Soporte...'
-tags: tole.es, huawei, móvil, samsung
+tags: [ 'tole.es','huawei','móvil','samsung', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

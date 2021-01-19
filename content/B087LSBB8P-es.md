@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LSBB8P-es Oihxse Cristal Compatible con Samsung Galaxy A80/A90 Funda...'
-tags: tole.es, galaxy, samsung
+tags: [ 'tole.es','galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ2VZI3-es Netgear GS110EMX-100PES - Switch de Red Smart Plus...'
-tags: tole.es, gigabit, netgear
+tags: [ 'tole.es','gigabit','netgear', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

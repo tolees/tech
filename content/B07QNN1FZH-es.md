@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNN1FZH-es Alsoar – Repuesto para Samsung A7 2018 funda para teléfono...'
-tags: tole.es, galaxy, móvil, samsung
+tags: [ 'tole.es','galaxy','móvil','samsung', ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

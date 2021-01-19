@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTUDWQ-es Canon consumible papel fotográfico plus semi-brillante...'
-tags: tole.es, canon
+tags: [ 'tole.es','canon', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

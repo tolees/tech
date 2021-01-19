@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY6KRTD-es Teléfono OnePlus 8 Verde Glacial | 6.55” Pantalla Fluid...'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

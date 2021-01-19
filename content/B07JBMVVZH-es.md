@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBMVVZH-es Ushining Teléfono Móvil Libre Teléfono Móvil para Personas...'
-tags: tole.es, bluetooth, móvil
+tags: [ 'tole.es','bluetooth','móvil', ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

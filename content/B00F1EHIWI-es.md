@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F1EHIWI-es Sony MDRXD150 - Auriculares de Diadema Cerrados Negro'
-tags: tole.es, auriculares, sony
+tags: [ 'tole.es','auriculares','sony', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

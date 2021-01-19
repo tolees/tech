@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8M4YTM-es VLikeze- Mesa de Cama para Ordenador portátil Plegable...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 37.04 EUR
 currency: EUR
 price: 37.04

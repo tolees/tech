@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9S61CS-es Cressi Kangaroo Dry Pouch Bolsa Impermeable para Teléfono...'
-tags: tole.es, móvil
+tags: [ 'tole.es','móvil', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

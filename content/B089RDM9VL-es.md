@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RDM9VL-es TOSING Q9 micrófono de karaoke inalámbrico Bluetooth luces...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

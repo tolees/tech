@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5CVXJV-es TIANSE Filamento de PLA para la impresora 3D / Pluma 3d 1...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

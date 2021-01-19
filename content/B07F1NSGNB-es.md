@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1NSGNB-es Vernee M6 Smartphone 4G de Pantalla Grande 5.7 Pulgadas...'
-tags: tole.es, ram, smartphone
+tags: [ 'tole.es','ram','smartphone', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

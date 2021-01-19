@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WS41DX-es Sony WHCH500H.CE7 - Auriculares inalámbricos de Diadema...'
-tags: tole.es, auriculares, sony
+tags: [ 'tole.es','auriculares','sony', ]
 actualPrice: 48.32 EUR
 currency: EUR
 price: 48.32

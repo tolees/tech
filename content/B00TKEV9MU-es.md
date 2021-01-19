@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKEV9MU-es Sony ICD-TX650 - Grabadora de voz digital ultra delgada de...'
-tags: tole.es, sony
+tags: [ 'tole.es','sony', ]
 actualPrice: 141.54 EUR
 currency: EUR
 price: 141.54

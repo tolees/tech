@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NLDJZT-es LUDOS Ultra Auriculares con Micrófono y Cable Máxima...'
-tags: tole.es, auriculares
+tags: [ 'tole.es','auriculares', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

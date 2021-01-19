@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3BTSDM-es Hevanto 15W Cargador Inalámbrico 15W Wireless Carga para...'
-tags: tole.es, galaxy, iphone
+tags: [ 'tole.es','galaxy','iphone', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

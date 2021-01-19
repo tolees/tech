@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798QSXMQ-es LG 29WK500-P - Monitor Profesional UltraWide FHD de 73 cm...'
-tags: tole.es, ips, ultrawide
+tags: [ 'tole.es','ips','ultrawide', ]
 actualPrice: 198.0 EUR
 currency: EUR
 price: 198.0

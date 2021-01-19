@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2NH6ZN-es Apple Adaptador de USB-C a Toma para Auriculares de 3 5 mm'
-tags: tole.es, apple, auriculares
+tags: [ 'tole.es','apple','auriculares', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

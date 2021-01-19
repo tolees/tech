@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBF27Q3-es Eje RAM MTB MAXLE Stealth 12x142mm L167 Negro'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

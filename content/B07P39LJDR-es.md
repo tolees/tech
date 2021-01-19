@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales...'
-tags: tole.es, iphone, móvil, xiaomi
+tags: [ 'tole.es','iphone','móvil','xiaomi', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

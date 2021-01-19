@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HPMGAFA-es Tamron SP 150-600 MM F/5-6 3 Di VC USD - Objetivo para...'
-tags: tole.es, nikon
+tags: [ 'tole.es','nikon', ]
 actualPrice: 854.0 EUR
 currency: EUR
 price: 854.0

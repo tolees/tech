@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003V0QEV0-es Logitech K120 Teclado con Cable Business para Windows...'
-tags: tole.es, logitech, teclado
+tags: [ 'tole.es','logitech','teclado', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNT728Z-es Fujifilm X-T30 Kit cámara con Objetivo Intercambiable...'
-tags: tole.es, fujifilm
+tags: [ 'tole.es','fujifilm', ]
 actualPrice: 838.95 EUR
 currency: EUR
 price: 838.95

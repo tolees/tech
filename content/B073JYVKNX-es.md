@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JYVKNX-es SanDisk Ultra Tarjeta de memoria microSDXC con adaptador...'
-tags: tole.es, sandisk
+tags: [ 'tole.es','sandisk', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
@@ -26,11 +26,11 @@ En este momento está [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador 
 
 🔎:
 
+- Velocidades de transferencia de hasta 100 MB/s
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
+- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
 - Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
 - Compatible con microSDHC y microSDXC que admiten dispositivos host
-- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Los resultados y la compatibilidad con el video full HD (1920 x 1080) pueden variar según el dispositivo, los atributos de archivo y otros factores
-- Velocidades de transferencia de hasta 100 MB/s
-- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073JYVKNX/?tag=tolees-21)

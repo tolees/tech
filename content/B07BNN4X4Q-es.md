@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNN4X4Q-es Garmin dēzl 780 LMT-D Fijo 6.95" TFT Pantalla táctil 437g...'
-tags: tole.es, garmin, gps, microsd
+tags: [ 'tole.es','garmin','gps','microsd', ]
 actualPrice: 399 EUR
 currency: EUR
 price: 399

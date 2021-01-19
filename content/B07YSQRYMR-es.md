@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSQRYMR-es runya Teclado Numérico Inalámbrico 2.4G Mini 18 Teclas...'
-tags: tole.es, ordenador, teclado
+tags: [ 'tole.es','ordenador','teclado', ]
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF9M2PK-es HyperX Fury HX432C16FB3AK2/16 Memoria RAM DIMM DDR4 Kit...'
-tags: tole.es, ram
+tags: [ 'tole.es','ram', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

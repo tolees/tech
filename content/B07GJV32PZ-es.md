@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJV32PZ-es CMYBabee Cartucho de Tóner Compatible Repuesto para HP 79A...'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ8FFTT-es Auriculares Fresh n Rebel Clam Misty Mint | Auriculares...'
-tags: tole.es, auriculares, bluetooth
+tags: [ 'tole.es','auriculares','bluetooth', ]
 actualPrice: 61.68 EUR
 currency: EUR
 price: 61.68

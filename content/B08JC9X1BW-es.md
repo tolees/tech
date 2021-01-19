@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JC9X1BW-es DENGC M20 Wi Computer Mice Mouse 1000Dpi Ratón para Juegos...'
-tags: tole.es, ratón
+tags: [ 'tole.es','ratón', ]
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

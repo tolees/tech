@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084N5GR3M-es Lenovo S340 -14IIL- Ordenador portátil de 14" FullHD Intel...'
-tags: tole.es, lenovo, ordenador, ram
+tags: [ 'tole.es','lenovo','ordenador','ram', ]
 actualPrice: 679.0 EUR
 currency: EUR
 price: 679.0

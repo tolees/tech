@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUB7PLC-es E-Vitta EVBP003002 - Mochila para Ordenador portátil de...'
-tags: tole.es, ordenador
+tags: [ 'tole.es','ordenador', ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

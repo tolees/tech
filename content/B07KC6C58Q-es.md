@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KC6C58Q-es Mini Camara Espia Oculta DEXILIO 1080P Vigilancia...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

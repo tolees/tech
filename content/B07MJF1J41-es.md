@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJF1J41-es MSI GS63 Stealth 8RE-063XES - Ordenador portátil gaming...'
-tags: tole.es, ordenador, ram, teclado
+tags: [ 'tole.es','ordenador','ram','teclado', ]
 actualPrice: 1249.0 EUR
 currency: EUR
 price: 1249.0

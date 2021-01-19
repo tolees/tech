@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2OO8VX-es Brother MFCJ5730DW - Impresora multifunción tinta color'
-tags: tole.es, impresora
+tags: [ 'tole.es','impresora', ]
 actualPrice: 205.65 EUR
 currency: EUR
 price: 205.65

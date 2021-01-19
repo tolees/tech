@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MCLPNC-es FR·TEC - Dragon Ball Super Grips 1 Star para Nintendo Switch'
-tags: tole.es, nintendo, nintendo, switch
+tags: [ 'tole.es','nintendo','nintendo','switch', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

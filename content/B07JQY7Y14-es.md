@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQY7Y14-es ASUS PB60-B3105ZV - Mini ordenador de sobremesa Intel Core...'
-tags: tole.es, asus, ordenador, ram
+tags: [ 'tole.es','asus','ordenador','ram', ]
 actualPrice: 519.0 EUR
 currency: EUR
 price: 519.0

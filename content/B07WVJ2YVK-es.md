@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVJ2YVK-es MII-V Mini PC Desktop Ordenador License Windows 10...'
-tags: tole.es, ordenador, ram, wifi
+tags: [ 'tole.es','ordenador','ram','wifi', ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

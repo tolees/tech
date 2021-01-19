@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS6RGKD-es Lenovo Q24i-10 23.8 " FHD IPS FreeSync Gaming Monitor 75...'
-tags: tole.es, ips, lenovo
+tags: [ 'tole.es','ips','lenovo', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

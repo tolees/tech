@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PR7M5T-es WACCET Cámara Web HD 1080p PC Webcam con Microfono USB...'
-tags: tole.es, 1080p
+tags: [ 'tole.es','1080p', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

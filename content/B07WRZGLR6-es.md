@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRZGLR6-es MP3 BENJIE 16GB 1.8" Reproductor de MP3 Pantalla Táctil...'
-tags: tole.es, bluetooth, altavoz
+tags: [ 'tole.es','bluetooth','altavoz', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99
