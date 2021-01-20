@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 8 Pro - Smartphone de  con un 26.02 % de descuento'
-date: 2021-01-19 06:29:51
+date: 2021-01-20 21:04:34
 image: 'https://m.media-amazon.com/images/I/418jZLCFKdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZK52FQ3-es'
+slug: 'B07ZK52FQ3-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
+tags: [ 'ram','smartphone','xiaomi', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21'
 descuento: '26.02'
-average: '213.45000000000002'
+average: '208.63333333333333'
 ---
 
 En este momento está [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  128 GB ROM  cámara cuádruple de 64 MP  MTK Helio G90T  4G  bateria de 4500 mAh  Ocean Blue [US Version]](https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21) a 199.0 EUR (original: 269.0 EUR) (26.02 %  de descuento) en el siguiente enlace!
@@ -25,9 +26,9 @@ En este momento está [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB 
 
 🔎:
 
+- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
+- Cámara cuádruple de 64 MP con ultra alta resolución, con video 4K y cámara selfie de 20 MP
 - Procesador gaming Helio G90T con sistema de refrigeración líquida; antena Wi-Fi X, el arma secreta para los gamers profesionales
 - Batería de 4500 mAh con carga rápida de 18 W
-- Cámara cuádruple de 64 MP con ultra alta resolución, con video 4K y cámara selfie de 20 MP
-- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21)
