@@ -26,11 +26,11 @@ Tienes [Logitech R500 Presentador Inalámbrico  2.4 GHz con Receptor USB  Punter
 
 ℹ️:
 
-- Administración de Pilas Inteligente: El R500 funciona durante 12 meses con una sola pila AAA; cuando la carga es baja, el R500 entra en modo de ahorro de energía y desactiva el láser
-- Compatibilidad Universal: El presentador R500 se ha optimizado para funcionar con Windows, macOS, iOS, Android, y con software de presentación como PowerPoint, Keynote, PDF, Google Slides y Prezi
 - Conectividad Doble: Conecte el R500 al ordenador con el receptor USB o tecnología Bluetooth de bajo consumo y usa la base integrada para guardar el receptor USB en el R500 cuando no se está usando
-- Pruebe Logitech R700 para adecuada Comodidad: Pantalla LCD, temporizador con vibración y radio de acción inalámbrico de 30 m
-- Aplicación Logitech Presentación: Con el software Logitech Presentation, disponible para descargar, el R500 se empareja para personalizar funciones de botones, y otras acciones
 - Radio de Acción de 20 Metros: Muévase y presente con plena libertad a una distancia de hasta 20 m y disfruta de un láser potente y claro para su audiencia en salas de reuniones medianas y grandes
+- Compatibilidad Universal: El presentador R500 se ha optimizado para funcionar con Windows, macOS, iOS, Android, y con software de presentación como PowerPoint, Keynote, PDF, Google Slides y Prezi
+- Aplicación Logitech Presentación: Con el software Logitech Presentation, disponible para descargar, el R500 se empareja para personalizar funciones de botones, y otras acciones
+- Administración de Pilas Inteligente: El R500 funciona durante 12 meses con una sola pila AAA; cuando la carga es baja, el R500 entra en modo de ahorro de energía y desactiva el láser
+- Pruebe Logitech R700 para adecuada Comodidad: Pantalla LCD, temporizador con vibración y radio de acción inalámbrico de 30 m
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CKDJ55F/?tag=tolees-21)
