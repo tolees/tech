@@ -26,10 +26,10 @@ Ahora mismo tienes [MSI Vpro-WS63 8SLV-013ES - Ordenador portátil de 15.6" UHD 
 
 🔎:
 
-- Windows 10 Pro
-- Disco SSD de 512 GB NVMe y 1 TB HDD,SATA
 - Procesador Intel Core i7-8850H (6 núcleos, 9 MB Cache, 2.6 GHz hasta 4.3 GHz)
-- Memoria RAM 32GB DDR4
 - Tarjeta grafica Nvidia Quadro P4200, 8GB GDDR5
+- Windows 10 Pro
+- Memoria RAM 32GB DDR4
+- Disco SSD de 512 GB NVMe y 1 TB HDD,SATA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DX5C7QT/?tag=tolees-21)
