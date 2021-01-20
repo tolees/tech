@@ -26,9 +26,9 @@ En este momento está [VISSQH 3 Set Antena WiFi 12dBi de Alta Ganancia Doble Ban
 
 🔎:
 
-- ★ Las antenas de alto rendimiento del enrutador inalámbrico pueden darle a su red inalámbrica más potencia y distancia y ayudar a eliminar puntos muertos en su red. Trabaje con un enrutador con conector RP-SMA y aumente el alcance inalámbrico.
 - ★ Todos los enrutadores WLAN y todas las tarjetas de red con interfaz SMA pueden utilizar esta antena.
 - ★ Conector RP SMA (rosca interior, orificio interior) puede aumentar su señal de radio incluso con una distancia de recepción larga.
+- ★ Las antenas de alto rendimiento del enrutador inalámbrico pueden darle a su red inalámbrica más potencia y distancia y ayudar a eliminar puntos muertos en su red. Trabaje con un enrutador con conector RP-SMA y aumente el alcance inalámbrico.
 - ★ La antena WiFi de doble banda está hecha de material de alta calidad, resistente y duradero.
 - ★ Antena omnidireccional, enrutador WiFi de banda dual 2.4G / 5.8G y tarjeta WiFi, también es una antena SMA omnidireccional de 12dB.
 
