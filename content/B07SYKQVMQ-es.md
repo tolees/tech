@@ -26,10 +26,10 @@ Ahora mismo tienes [MSI WS75 9TL-609ES - Ordenador portátil de 17.3 " FHD  Inte
 
 🔎:
 
-- Sistema operativo windows 10 pro
+- Procesador coffeelake refresh i7-9750h+hm370 (6 núcleos, 12 mb cache, 2.6 ghz hasta 4.5 ghz)
 - Memoria ram de 32 gb (16gb2) ddr iv, 2666mhz
 - Tarjeta gráfica nvidia quadro rtx4000 de 8 gb gddr6
+- Sistema operativo windows 10 pro
 - Disco ssd de 1 tb
-- Procesador coffeelake refresh i7-9750h+hm370 (6 núcleos, 12 mb cache, 2.6 ghz hasta 4.5 ghz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYKQVMQ/?tag=tolees-21)

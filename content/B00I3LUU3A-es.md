@@ -26,10 +26,10 @@ En este momento está [Sony MDR-EX110LP - Auriculares in-ear  color rojo](https:
 
 🔎:
 
-- Auriculares internos con diafragmas de neodimio de 9 mm
-- Tipo de cable: en forma de Y
-- Sensibilidades: 103 dB/mW
 - Rango de frecuencia: 5-24.000 Hz
+- Tipo de cable: en forma de Y
 - Impedancia: 16 ohmios (1 kHz)
+- Auriculares internos con diafragmas de neodimio de 9 mm
+- Sensibilidades: 103 dB/mW
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUU3A/?tag=tolees-21)
