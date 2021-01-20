@@ -28,8 +28,8 @@ Está [Tenda Nova Mw3 Mesh - AC1200 Router Sistema Wifi De Red En Malla  2 Pack 
 
 - Puerto fast ethernet 10/100, trabaja en doble banda (867 mbps/5 ghz + 300 mbps/2.4 ghz), selecciona automáticamente la mejor señal y frecuencia, ofreciendo la mejor experiencia de red
 - Puerto fast ethernet 10/100, trabaja en doble banda (867 mbps/5 ghz + 300 mbps/2.4 ghz), selecciona automáticamente la mejor señal y frecuencia, ofreciendo la mejor experiencia de red
-- Diseño sencillo y elegante que se integra en cualquier entorno dando un toque de decoración; compatible con todos los proveedores de internet, con alexa, smart tv, sistemas de seguridad y otros dispositivos compatibles
 - Tecnología mu-mimo admite hasta 40 dispositivos conectados al mismo tiempo, con beamforming señal más potente que traspasa mejor las paredes ofreciendo más cobertura
+- Diseño sencillo y elegante que se integra en cualquier entorno dando un toque de decoración; compatible con todos los proveedores de internet, con alexa, smart tv, sistemas de seguridad y otros dispositivos compatibles
 - Plug and play enchufar y listo, configuración sencilla, pack 1 (cobertura hasta 100 metros), pack 2 (cobertura hasta 200 metros), pack 3 (cobertura hasta 300 metros), puede agregar hasta 5 nodos para una cobertura de más de 500 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CY9XT6P/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Trust Gaming GXT 960 Graphin Ligero ratón para Gaming RGB  74 Gramos  ha
 
 - El cable trenzado de arrastre cero garantiza un movimiento suave
 - Tasa de sondeo ajustable de hasta 1000 Hz para un control de alta capacidad de respuesta
-- Iluminación RGB personalizable con efecto de respiración y arco iris
-- Carcasa perforada de solo 74 gramos para una respuesta rápida del ratón. Sensor óptico de alta precisión de hasta 10 000 ppp
 - Incluye 2 botones para pulgar de fácil acceso. Almohadillas de deslizamiento con fricción ultrabaja
+- Carcasa perforada de solo 74 gramos para una respuesta rápida del ratón. Sensor óptico de alta precisión de hasta 10 000 ppp
+- Iluminación RGB personalizable con efecto de respiración y arco iris
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C7VF11G/?tag=tolees-21)
