@@ -26,10 +26,10 @@ Ahora mismo tienes [Samsung USB Duo Plus 64GB  USB Tipo C y 3.1 ](https://www.am
 
 🔎:
 
+- Duplica la conectividad
 - Dos memorias USB en una
 - Conéctala como quieras
 - Resistencia con confianza
 - Memoria USB multifunción con conector USB Tipo C y USB 3.1, ofreciendo velocidades de escritura de hasta 300MB/s
-- Duplica la conectividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HPVSKFV/?tag=tolees-21)
