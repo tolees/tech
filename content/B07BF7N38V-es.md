@@ -26,8 +26,8 @@ En este momento está [Mesa de Ordenador Escritorio de Oficina Mesa de PC Mesa c
 
 🔎:
 
-- ✅Dimensiones totales: 100x52x75cm (LxANxAL), dimensiones de cajón: 23.5x26x8cm (LxANxAL), dimensiones del armario: 28x28x28cm, dimensiones de bandeja: 60x30cm (LxAN), dimensiones de estante para torre: 34x24cm (LxAN). Capacidad máx. de carga: 100 kg
 - ✅Gran capacidad: Cuenta con un tablero amplio de operación, 1 bandeja extraíble para teclado y ratón, 1 cajón y 1 puerta para guardar objetos, 1 estante para torre que garantiza espacio suficiente de almacenaje.
+- ✅Dimensiones totales: 100x52x75cm (LxANxAL), dimensiones de cajón: 23.5x26x8cm (LxANxAL), dimensiones del armario: 28x28x28cm, dimensiones de bandeja: 60x30cm (LxAN), dimensiones de estante para torre: 34x24cm (LxAN). Capacidad máx. de carga: 100 kg
 - ✅Diseño práctico: El estante de torre tiene barra protectora para fijar mejor la torre. Bandeja de teclado con guía silenciosa y lisa. Las patas con antideslizantes para aumente estabilidad.
 - ✅Hecha de tablero MDF con revestimiento de melamina, muy resistente y fácil de limpiar. El marco es de metal con revestimiento en polvo que proporciona gran estabilidad
 - ✅Mueble multiusos: Mesa de escritorio ideal para usar en casa o en la oficina. Su diseño moderno combina la simplicidad y la elegancia, con instrucciones de instalación ilustradas y herramientas necesarias para montaje

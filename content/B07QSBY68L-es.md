@@ -26,10 +26,10 @@ En este momento está [Exquisite Gaming - Cable Guy Boba Fett  Star Wars  Soport
 
 🔎:
 
-- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
-- Compatible con todos los teléfonos móviles o smartphones actuales
 - Personaje Boba Fett de la exitosa saga Star Wars
-- Producto con licencia oficial de Disney
+- Compatible con todos los teléfonos móviles o smartphones actuales
 - Compatible con mando o controller PS4, Xbox one
+- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
+- Producto con licencia oficial de Disney
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QSBY68L/?tag=tolees-21)
