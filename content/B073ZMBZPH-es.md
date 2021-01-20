@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZMBZPH-es WD My Book Duo Disco duro externo de Sobremesa de 4 TB con...'
+sku: 'B073ZMBZPH-es'
 tags: [ 'disco','duro', ]
 actualPrice: 104.97 EUR
 currency: EUR

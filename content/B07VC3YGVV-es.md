@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC3YGVV-es SAMSUNG LED View Cover EF-NN975 para Galaxy Note10+ 5 g Plata'
+sku: 'B07VC3YGVV-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 39.99 EUR
 currency: EUR

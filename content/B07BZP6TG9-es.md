@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZP6TG9-es New Bee Cargador Inalámbrico 5W con Soporte Auriculares...'
+sku: 'B07BZP6TG9-es'
 tags: [ 'auriculares','iphone','samsung', ]
 actualPrice: 13.99 EUR
 currency: EUR

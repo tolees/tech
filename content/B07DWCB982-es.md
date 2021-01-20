@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWCB982-es mysunny Ratón Bluetooth Raton Recargable inalámbrico ratón...'
+sku: 'B07DWCB982-es'
 tags: [ 'bluetooth','ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR

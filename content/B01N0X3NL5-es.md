@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0X3NL5-es Anker PowerCore Speed 20000 Cargador Móvil Portátil rápido...'
+sku: 'B01N0X3NL5-es'
 tags: [ 'iphone','móvil','samsung', ]
 actualPrice: 36.99 EUR
 currency: EUR

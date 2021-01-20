@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
+sku: 'B07XJZKRVL-es'
 tags: [ 'apple', ]
 actualPrice: 22.99 EUR
 currency: EUR

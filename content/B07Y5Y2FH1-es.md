@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5Y2FH1-es G-Technology G-Drive Mobile USB-C - Disco Duro Externo 5...'
+sku: 'B07Y5Y2FH1-es'
 tags: [ 'disco','duro', ]
 actualPrice: 161.56 EUR
 currency: EUR

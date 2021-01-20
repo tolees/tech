@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas Móvil Carro de exhibición...'
+sku: 'B074TC3YWH-es'
 tags: [ 'móvil', ]
 actualPrice: 78.99 EUR
 currency: EUR

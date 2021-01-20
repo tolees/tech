@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARQWN6U-es Netgear gs324 Switch 24 Puertos gigabit unmanaged ethernet...'
+sku: 'B01ARQWN6U-es'
 tags: [ 'gigabit','netgear', ]
 actualPrice: 84.99 EUR
 currency: EUR

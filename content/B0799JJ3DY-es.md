@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga...'
+sku: 'B0799JJ3DY-es'
 tags: [ 'galaxy','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR

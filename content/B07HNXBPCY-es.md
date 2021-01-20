@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNXBPCY-es Sigma F4.5-6.3 DG OS HSM Sport - Teleobjetivo Zoom 60-600...'
+sku: 'B07HNXBPCY-es'
 tags: [ 'canon', ]
 actualPrice: 1681.9 EUR
 currency: EUR

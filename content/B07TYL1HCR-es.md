@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYL1HCR-es SeeKool Z83-V Mini PC Ordenador de sobremesa Soporte...'
+sku: 'B07TYL1HCR-es'
 tags: [ 'ordenador','ram','wifi', ]
 actualPrice: 115.99 EUR
 currency: EUR

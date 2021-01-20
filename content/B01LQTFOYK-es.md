@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQTFOYK-es Logitech G213 Prodigy Teclado Gaming Retroiluminación RGB...'
+sku: 'B01LQTFOYK-es'
 tags: [ 'logitech','teclado', ]
 actualPrice: 65.22 EUR
 currency: EUR

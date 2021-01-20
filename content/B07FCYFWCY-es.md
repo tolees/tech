@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCYFWCY-es Logitech Slim Combo Funda para iPad con Teclado...'
+sku: 'B07FCYFWCY-es'
 tags: [ 'bluetooth','logitech','teclado', ]
 actualPrice: 99.0 EUR
 currency: EUR

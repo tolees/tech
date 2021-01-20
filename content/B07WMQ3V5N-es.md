@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMQ3V5N-es Fintie Funda con Teclado Español Ñ para Huawei MediaPad T3...'
+sku: 'B07WMQ3V5N-es'
 tags: [ 'bluetooth','huawei','teclado', ]
 actualPrice: 38.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLNLC8F-es NANTING Funda de Silicona para Airpods Funda Protectora...'
+sku: 'B08BLNLC8F-es'
 tags: [ 'apple', ]
 actualPrice: 8.99 EUR
 currency: EUR

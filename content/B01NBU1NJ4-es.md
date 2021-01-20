@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBU1NJ4-es Epson ET-2650 EcoTank Impresora de inyección de tinta 3 en...'
+sku: 'B01NBU1NJ4-es'
 tags: [ 'impresora','wifi', ]
 actualPrice: 229.99 EUR
 currency: EUR

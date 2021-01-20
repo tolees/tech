@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ8FFTT-es Auriculares Fresh n Rebel Clam Misty Mint | Auriculares...'
+sku: 'B07SZ8FFTT-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 61.68 EUR
 currency: EUR

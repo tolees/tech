@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XY7LSY8-es Arduino starter kit para principiantes K030007 [manual en...'
+sku: 'B00XY7LSY8-es'
 tags: [ 'arduino', ]
 actualPrice: 79.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPDGW8B-es J Jecent Cable USB Tipo C [3-Pack] 3.3 ft/1M Trenzado de...'
+sku: 'B07BPDGW8B-es'
 tags: [ 'galaxy','samsung','sony', ]
 actualPrice: 7.19 EUR
 currency: EUR

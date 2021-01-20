@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXRP84V-es Ayete Ratón Inalámbrico Mini Ratón Inalámbrico Ratón...'
+sku: 'B07QXRP84V-es'
 tags: [ 'ratón', ]
 actualPrice: 10.79 EUR
 currency: EUR

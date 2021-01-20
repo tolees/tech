@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NXRZJK-es [Actualizado] Proyector Full HD 1080p Nativo Soporta 4K...'
+sku: 'B082NXRZJK-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 135.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721MRQHG-es Panasonic Lumix DC-TZ90EG-K Cámara Compacta de 20 3 MP...'
+sku: 'B0721MRQHG-es'
 tags: [ 'panasonic','wifi', ]
 actualPrice: 325.0 EUR
 currency: EUR

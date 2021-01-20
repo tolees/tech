@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTJW58Y-es Lamicall Soporte para Móvil con Cuello de Cisne : Soporte...'
+sku: 'B07FTJW58Y-es'
 tags: [ 'huawei','móvil','samsung', ]
 actualPrice: 16.99 EUR
 currency: EUR

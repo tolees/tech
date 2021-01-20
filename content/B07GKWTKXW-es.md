@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKWTKXW-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
+sku: 'B07GKWTKXW-es'
 tags: [ 'auriculares','móvil','smartphone','tablet', ]
 actualPrice: 13.58 EUR
 currency: EUR

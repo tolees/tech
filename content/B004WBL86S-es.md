@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004WBL86S-es Panasonic AAA 750mAh NiMH 4-BL Batería/Pila recargable 750...'
+sku: 'B004WBL86S-es'
 tags: [ 'panasonic', ]
 actualPrice: 10.95 EUR
 currency: EUR

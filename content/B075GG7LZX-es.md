@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GG7LZX-es HP Laser Jet Pro M254dw - Impresora color hasta 21 ppm...'
+sku: 'B075GG7LZX-es'
 tags: [ 'impresora','disco','duro', ]
 actualPrice: 204.93 EUR
 currency: EUR

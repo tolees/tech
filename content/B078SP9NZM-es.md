@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SP9NZM-es Teléfono móvil con Tapa para Personas Mayores Teclas...'
+sku: 'B078SP9NZM-es'
 tags: [ 'móvil', ]
 actualPrice: 36.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB1RYG7-es Travis Touch - Traductor Inteligente de Bolsillo a 105...'
+sku: 'B07HB1RYG7-es'
 tags: [ 'lte', ]
 actualPrice: 199 EUR
 currency: EUR

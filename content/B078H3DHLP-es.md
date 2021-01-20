@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078H3DHLP-es Microsoft Classic IntelliMouse - Ratón Mano Derecha Óptico...'
+sku: 'B078H3DHLP-es'
 tags: [ 'microsoft','ratón', ]
 actualPrice: 31.72 EUR
 currency: EUR

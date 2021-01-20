@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M8Y5PF-es Oihxse Cristal Compatible con Xiaomi Redmi Note 5 Pro/Note...'
+sku: 'B087M8Y5PF-es'
 tags: [ 'xiaomi', ]
 actualPrice: 8.98 EUR
 currency: EUR

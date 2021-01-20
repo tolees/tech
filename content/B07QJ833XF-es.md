@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ833XF-es Michael Kors Smartwatch Pantalla táctil para Mujer de...'
+sku: 'B07QJ833XF-es'
 tags: [ 'smartwatch', ]
 actualPrice: 343.85 EUR
 currency: EUR

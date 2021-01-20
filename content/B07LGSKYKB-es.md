@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGSKYKB-es TOOGOO Nuevo Cable De Cargador De Cable De Carga USB De...'
+sku: 'B07LGSKYKB-es'
 tags: [ 'xiaomi', ]
 actualPrice: 2.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KD8DRY-es Auriculares Verdaderos de Bluetooth TicPods 2 Auriculares...'
+sku: 'B082KD8DRY-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 79.99 EUR
 currency: EUR

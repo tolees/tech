@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075B2LFJF-es Altavoz Bluetooth10W Altavoz de Bicicleta Bluetooth 5.0...'
+sku: 'B075B2LFJF-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 34.99 EUR
 currency: EUR

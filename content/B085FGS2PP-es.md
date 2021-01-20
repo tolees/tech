@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085FGS2PP-es realme 5I – Smartphone de 6.5” LCD multi-touch 4 GB RAM +...'
+sku: 'B085FGS2PP-es'
 tags: [ 'ram','smartphone', ]
 actualPrice: 131.4 EUR
 currency: EUR

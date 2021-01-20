@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M35BLSP-es 2017 Quad cuádruple 4 pirámide 3 + 1 LCD LED TFT Monitor...'
+sku: 'B01M35BLSP-es'
 tags: [ 'ordenador', ]
 actualPrice: 34.33 EUR
 currency: EUR

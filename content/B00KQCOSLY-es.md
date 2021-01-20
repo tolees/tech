@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQCOSLY-es HyperX HX316LS9IB/4 Impact - Memoria RAM 1600 MHz DDR3L...'
+sku: 'B00KQCOSLY-es'
 tags: [ 'ram', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LTYJW9-es Oihxse Cristal Compatible con Xiaomi Redmi Note 8T Funda...'
+sku: 'B087LTYJW9-es'
 tags: [ 'xiaomi', ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGDLPCC-es Seagate Backup Plus Ultra Touch 2TB Disco duro externo HDD...'
+sku: 'B07LGDLPCC-es'
 tags: [ 'disco','duro', ]
 actualPrice: 82.99 EUR
 currency: EUR

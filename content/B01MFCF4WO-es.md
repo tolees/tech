@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFCF4WO-es L-Link LL-KB-816-COMBO - Kit Teclado + Ratón USB color negro'
+sku: 'B01MFCF4WO-es'
 tags: [ 'ratón','teclado', ]
 actualPrice: 4.45 EUR
 currency: EUR

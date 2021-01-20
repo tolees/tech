@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW327KM-es KLIM™ Pods - Auriculares inalámbricos Bluetooth +...'
+sku: 'B07TW327KM-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 39.97 EUR
 currency: EUR

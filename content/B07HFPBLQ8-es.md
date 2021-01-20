@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFPBLQ8-es Trust GXT 4376 - Ruptor Auriculares Gaming con Unidades...'
+sku: 'B07HFPBLQ8-es'
 tags: [ 'auriculares', ]
 actualPrice: 27.99 EUR
 currency: EUR

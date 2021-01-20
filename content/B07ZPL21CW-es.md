@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPL21CW-es Lenovo S145-15IWL - Ordenador portátil 15.6" FullHD Intel...'
+sku: 'B07ZPL21CW-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 381.65 EUR
 currency: EUR

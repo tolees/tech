@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756Z1XTW-es Razer Basilisk Ratón con Cable para Juegos FPS con Sensor...'
+sku: 'B0756Z1XTW-es'
 tags: [ 'ratón', ]
 actualPrice: 39.9 EUR
 currency: EUR

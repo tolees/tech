@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6H2WF7-es AmazonBasics - Minialfombrilla de ratón para videojuegos'
+sku: 'B06X6H2WF7-es'
 tags: [ 'ratón', ]
 actualPrice: 6.1 EUR
 currency: EUR

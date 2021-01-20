@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DGQ1TT-es PIPIKA Cable Cargador iPhone [2pack-1.8M] MFI Cable...'
+sku: 'B089DGQ1TT-es'
 tags: [ 'iphone', ]
 actualPrice: 5.09 EUR
 currency: EUR

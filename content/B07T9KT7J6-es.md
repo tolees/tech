@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9KT7J6-es Vieta Pro Upper - Altavoz portátil Bluetooth Radio FM...'
+sku: 'B07T9KT7J6-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 50.15 EUR
 currency: EUR

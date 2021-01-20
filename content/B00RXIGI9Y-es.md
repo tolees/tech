@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXIGI9Y-es Sony XS-FB1330 - Altavoces coaxiales de 3 vías 240W 13 cm...'
+sku: 'B00RXIGI9Y-es'
 tags: [ 'sony', ]
 actualPrice: 40.17 EUR
 currency: EUR

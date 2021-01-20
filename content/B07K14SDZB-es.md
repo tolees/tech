@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K14SDZB-es Ejeas E1 Auriculares Motocicleta Cascos Bluetooth 4.1...'
+sku: 'B07K14SDZB-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R3Q9JT-es Coener Ratón Inalámbrico Recargable Mouse Wireless 2.4G...'
+sku: 'B083R3Q9JT-es'
 tags: [ 'ratón', ]
 actualPrice: 11.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086L6VWPX-es Lector de Tarjetas Micro USB – SD Micro SD y MMC - Lector...'
+sku: 'B086L6VWPX-es'
 tags: [ 'smartphone', ]
 actualPrice: 5.32 EUR
 currency: EUR

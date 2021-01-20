@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JM2VSRU-es HP Laserjet Pro M227sdn - Impresora láser multifunción 800...'
+sku: 'B01JM2VSRU-es'
 tags: [ 'impresora', ]
 actualPrice: 199.0 EUR
 currency: EUR

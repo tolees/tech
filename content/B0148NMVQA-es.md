@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
+sku: 'B0148NMVQA-es'
 tags: [ 'alexa','apple','google','assistant', ]
 actualPrice: 66.98 EUR
 currency: EUR

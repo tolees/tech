@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLX2NYS-es Teléfono Celular Bolsa con Clip de Cinturón 6.3" Bolsa...'
+sku: 'B07QLX2NYS-es'
 tags: [ 'móvil', ]
 actualPrice: 6.99 EUR
 currency: EUR

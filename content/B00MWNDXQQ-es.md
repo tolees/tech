@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWNDXQQ-es Impresora de inyección de tinta Canon PIXMA iP110 Negra...'
+sku: 'B00MWNDXQQ-es'
 tags: [ 'canon','impresora','wifi', ]
 actualPrice: 243.73 EUR
 currency: EUR

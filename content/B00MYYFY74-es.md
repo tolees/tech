@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MYYFY74-es Sennheiser Momentum in-Ear G Auriculares 3.5 mm 1/8"...'
+sku: 'B00MYYFY74-es'
 tags: [ 'auriculares', ]
 actualPrice: 48.29 EUR
 currency: EUR

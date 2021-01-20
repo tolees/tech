@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4BHM6W-es DOOGEE N20 Smartphone Libres 2019 Android 9.0 4G Teléfono...'
+sku: 'B07W4BHM6W-es'
 tags: [ 'móvil','smartphone', ]
 actualPrice: 119.99 EUR
 currency: EUR

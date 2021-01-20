@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ5YZX1-es Ferilinso 8 Pack Straps Bracelet para Xiaomi Mi Band 4C +...'
+sku: 'B08DJ5YZX1-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

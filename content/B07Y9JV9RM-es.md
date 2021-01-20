@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9JV9RM-es Candy Rapidò ROW 4966DWHC/1-S - Lavasecadora 9+6Kgs WiFi &...'
+sku: 'B07Y9JV9RM-es'
 tags: [ 'bluetooth','wifi', ]
 actualPrice: 438.99 EUR
 currency: EUR

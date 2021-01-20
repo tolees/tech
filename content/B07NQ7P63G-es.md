@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ7P63G-es SAMSUNG Galaxy Fit Pulsera de Actividad Negro AMOLED 2 41...'
+sku: 'B07NQ7P63G-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 64.84 EUR
 currency: EUR

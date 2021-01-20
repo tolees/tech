@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LSH4NH-es Walkie Talkie Profesional TACKLIFE-MTR01 Talkie walkie...'
+sku: 'B078LSH4NH-es'
 tags: [ 'auriculares', ]
 actualPrice: 28.34 EUR
 currency: EUR

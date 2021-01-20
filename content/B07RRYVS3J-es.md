@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRYVS3J-es JVC HA-S35BT - Auriculares Inalámbrico Diadema Binaural...'
+sku: 'B07RRYVS3J-es'
 tags: [ 'auriculares','jvc', ]
 actualPrice: 26.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JPW8H7-es Gigaset A170 - Teléfono Inalámbrico Pantalla Iluminada...'
+sku: 'B077JPW8H7-es'
 tags: [ 'gigaset', ]
 actualPrice: 15.92 EUR
 currency: EUR

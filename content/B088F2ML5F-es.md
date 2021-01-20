@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088F2ML5F-es QHOHQ Funda para Xiaomi Redmi 9 con 2 Unidades Protector...'
+sku: 'B088F2ML5F-es'
 tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR

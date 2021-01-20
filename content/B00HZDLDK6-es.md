@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HZDLDK6-es Impresora de inyección de tinta Canon PIXMA iX6850 Negra Wifi'
+sku: 'B00HZDLDK6-es'
 tags: [ 'canon','impresora','wifi', ]
 actualPrice: 185.0 EUR
 currency: EUR

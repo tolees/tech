@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GHHZ3W-es sumgott Soporte Portátil Aluminio Ventilado Soporte...'
+sku: 'B089GHHZ3W-es'
 tags: [ 'dell','ordenador', ]
 actualPrice: 16.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z9YXDTW-es One For All URC1912 - Mando a Distancia de reemplazo para...'
+sku: 'B00Z9YXDTW-es'
 tags: [ 'sony', ]
 actualPrice: 13.99 EUR
 currency: EUR

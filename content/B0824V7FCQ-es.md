@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824V7FCQ-es ANWIKE Webcam HD 1080P con micrófono Webcam para...'
+sku: 'B0824V7FCQ-es'
 tags: [ '1080p', ]
 actualPrice: 21.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMSR2HX-es Sennheiser PC 8.2 Chat Auriculares con Cable para Casual...'
+sku: 'B07VMSR2HX-es'
 tags: [ 'auriculares', ]
 actualPrice: 56.51 EUR
 currency: EUR

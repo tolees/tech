@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSW0E02-es Epson WFDS310 - Escáner de Color móvil A4 Capacidad de USB...'
+sku: 'B01MSW0E02-es'
 tags: [ 'móvil', ]
 actualPrice: 209.49 EUR
 currency: EUR

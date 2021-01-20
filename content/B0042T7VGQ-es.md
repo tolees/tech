@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0042T7VGQ-es Logitech K800 Teclado Inalámbrico Retroiluminado para...'
+sku: 'B0042T7VGQ-es'
 tags: [ 'logitech','teclado', ]
 actualPrice: 104.46 EUR
 currency: EUR

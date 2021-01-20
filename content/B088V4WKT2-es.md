@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088V4WKT2-es HP Chromebook x360 12b-ca0000ns - Ordenador portátil de...'
+sku: 'B088V4WKT2-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 350.0 EUR
 currency: EUR

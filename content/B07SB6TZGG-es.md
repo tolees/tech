@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB6TZGG-es HP Laser MFP 135w - Impresora láser multifunción imprime...'
+sku: 'B07SB6TZGG-es'
 tags: [ 'impresora','wifi', ]
 actualPrice: 118.8 EUR
 currency: EUR

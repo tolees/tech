@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el...'
+sku: 'B082KYWDL4-es'
 tags: [ 'iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR

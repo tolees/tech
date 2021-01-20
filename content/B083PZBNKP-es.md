@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PZBNKP-es HyperX Fury HX432C16FB3K2/64 Memoria RAM 64GB 3200MHz DDR4...'
+sku: 'B083PZBNKP-es'
 tags: [ 'ram', ]
 actualPrice: 376.04 EUR
 currency: EUR

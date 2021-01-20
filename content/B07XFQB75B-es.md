@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional...'
+sku: 'B07XFQB75B-es'
 tags: [ 'móvil', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRHMBLW-es TECHGEAR Vanguard Funda Compatible con Nuevo Samsung...'
+sku: 'B07TRHMBLW-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 15.95 EUR
 currency: EUR

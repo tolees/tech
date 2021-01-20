@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1X5ZFV-es Anker PowerPort Mini Dual Cargador de Pared Ultracompacto...'
+sku: 'B07X1X5ZFV-es'
 tags: [ 'iphone','samsung', ]
 actualPrice: 9.99 EUR
 currency: EUR

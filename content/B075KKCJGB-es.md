@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KKCJGB-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con...'
+sku: 'B075KKCJGB-es'
 tags: [ 'sandisk', ]
 actualPrice: 6.98 EUR
 currency: EUR

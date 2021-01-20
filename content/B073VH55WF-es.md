@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VH55WF-es UGREEN 2X Adaptador Micro USB a Tipo C con OTG Adaptador...'
+sku: 'B073VH55WF-es'
 tags: [ 'huawei','samsung','xiaomi', ]
 actualPrice: 8.49 EUR
 currency: EUR

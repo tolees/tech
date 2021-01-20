@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN4Q6ZC-es iGPSPORT HR60 pulsómetros Brazalete Compatible con Ant+ y...'
+sku: 'B07MN4Q6ZC-es'
 tags: [ 'bluetooth', ]
 actualPrice: 54.9 EUR
 currency: EUR

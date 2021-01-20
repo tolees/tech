@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GQ2QYF-es AUKEH Cargador Surface 15V 2.58A 44W Adaptador de...'
+sku: 'B086GQ2QYF-es'
 tags: [ 'microsoft', ]
 actualPrice: 26.89 EUR
 currency: EUR

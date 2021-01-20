@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DVDN7TF-es WiseWolf Teclado gaming de una mano profesional sensación...'
+sku: 'B08DVDN7TF-es'
 tags: [ 'teclado', ]
 actualPrice: 22.71 EUR
 currency: EUR

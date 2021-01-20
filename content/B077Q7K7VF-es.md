@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Q7K7VF-es Luxtude Bateria Externa para iPhone 5000mAh Powerbank Slim...'
+sku: 'B077Q7K7VF-es'
 tags: [ 'apple','iphone', ]
 actualPrice: 31.99 EUR
 currency: EUR

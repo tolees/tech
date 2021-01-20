@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NQF2DP-es Funda para teléfono Sports Girl Pattern Resistente a los...'
+sku: 'B083NQF2DP-es'
 tags: [ 'móvil', ]
 actualPrice: 2.39 EUR
 currency: EUR

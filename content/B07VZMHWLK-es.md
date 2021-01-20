@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZMHWLK-es Vernee M7 2019 Teléfono Móvil Libre Dual SIM 4GB RAM 64GB...'
+sku: 'B07VZMHWLK-es'
 tags: [ 'móvil','ram','smartphone', ]
 actualPrice: 97.18 EUR
 currency: EUR

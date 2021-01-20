@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829DZH2W-es Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Unidad de Estado...'
+sku: 'B0829DZH2W-es'
 tags: [ 'disco','duro', ]
 actualPrice: 239.99 EUR
 currency: EUR

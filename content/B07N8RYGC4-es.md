@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8RYGC4-es Anker Soundbuds - Auriculares in-Ear inalámbricos con...'
+sku: 'B07N8RYGC4-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR

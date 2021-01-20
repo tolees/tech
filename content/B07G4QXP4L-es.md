@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4QXP4L-es Trust Gaming GXT 4130 Pitt - Ratón inalámbrico de Gaming...'
+sku: 'B07G4QXP4L-es'
 tags: [ 'ratón', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4G2GPY-es Thule TSA313 - Maletín Resistente para Apple MacBook de...'
+sku: 'B01N4G2GPY-es'
 tags: [ 'apple', ]
 actualPrice: 57.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZD9C61-es Goldoars Wii a HDMI Adaptador Conversor de Wii a HDMI...'
+sku: 'B07JZD9C61-es'
 tags: [ 'wii', ]
 actualPrice: 11.8 EUR
 currency: EUR

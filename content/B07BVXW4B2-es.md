@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVXW4B2-es TomTom GO Basic - Navegador para coche 5 pulgadas...'
+sku: 'B07BVXW4B2-es'
 tags: [ 'smartphone','tomtom', ]
 actualPrice: 129 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJLB541-es MSI GS65 Stealth Thin 8RE-604XES - Ordenador portátil...'
+sku: 'B07MJLB541-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1499.99 EUR
 currency: EUR

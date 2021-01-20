@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXT2JZB-es Garmin ETREX 32x GPS de Mano con Pantalla Color de 2.2” y...'
+sku: 'B07RXT2JZB-es'
 tags: [ 'garmin','gps', ]
 actualPrice: 194.9 EUR
 currency: EUR

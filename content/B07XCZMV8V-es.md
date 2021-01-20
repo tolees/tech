@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCZMV8V-es QTshine Batería Externa 26800mAh Cargador Portátil Ultra...'
+sku: 'B07XCZMV8V-es'
 tags: [ 'smartphone', ]
 actualPrice: 23.95 EUR
 currency: EUR

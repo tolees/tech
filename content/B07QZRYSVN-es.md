@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZRYSVN-es DYNASONIC - Dynapro 12 - Altavoz Inalámbrico Sistema Audio...'
+sku: 'B07QZRYSVN-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 115.0 EUR
 currency: EUR

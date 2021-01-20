@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFW5ZCZ-es PUMA Smash v2 SD V Inf Zapatillas Unisex Niños Galaxy Blue...'
+sku: 'B07KFW5ZCZ-es'
 tags: [ 'galaxy', ]
 actualPrice: 11.79 EUR
 currency: EUR

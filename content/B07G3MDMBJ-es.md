@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3MDMBJ-es Motorola One - Smartphone Android One pantalla de 5.9’’...'
+sku: 'B07G3MDMBJ-es'
 tags: [ 'motorola','ram','smartphone', ]
 actualPrice: 165.25 EUR
 currency: EUR

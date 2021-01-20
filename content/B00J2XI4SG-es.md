@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J2XI4SG-es Polar V650 - Ciclocomputador de ciclismo con GPS'
+sku: 'B00J2XI4SG-es'
 tags: [ 'gps', ]
 actualPrice: 184.18 EUR
 currency: EUR

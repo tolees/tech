@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MVHKTZQ-es Anker Cargador USB de Pared 36W 7.2A con 4 Puertos PowerIQ...'
+sku: 'B00MVHKTZQ-es'
 tags: [ 'iphone','motorola','samsung','xiaomi', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077J2HFD2-es KROM Kernel Tkl - NXKROMKRNLTKL - Teclado Mecánico Español...'
+sku: 'B077J2HFD2-es'
 tags: [ 'teclado', ]
 actualPrice: 39.91 EUR
 currency: EUR

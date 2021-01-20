@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor...'
+sku: 'B085SW6HJK-es'
 tags: [ 'bluetooth', ]
 actualPrice: 9.49 EUR
 currency: EUR

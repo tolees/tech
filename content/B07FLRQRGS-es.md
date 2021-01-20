@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLRQRGS-es KLIM - Alfombrilla de ratón M - Superficie Amplia -...'
+sku: 'B07FLRQRGS-es'
 tags: [ 'ratón', ]
 actualPrice: 9.97 EUR
 currency: EUR

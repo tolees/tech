@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014X35XLU-es Panasonic LUMIX H-H025 - Objetivo Focal fija para cámaras...'
+sku: 'B014X35XLU-es'
 tags: [ 'panasonic', ]
 actualPrice: 169.13 EUR
 currency: EUR

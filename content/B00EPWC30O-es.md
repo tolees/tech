@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPWC30O-es Sony SEL50F18B - Objetivo para Sony distancia focal fija...'
+sku: 'B00EPWC30O-es'
 tags: [ 'sony', ]
 actualPrice: 277.11 EUR
 currency: EUR

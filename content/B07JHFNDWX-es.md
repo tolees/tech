@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHFNDWX-es SAMSUNG EB-P1100C batería Externa Plata Polímero de Litio...'
+sku: 'B07JHFNDWX-es'
 tags: [ 'samsung', ]
 actualPrice: 13.12 EUR
 currency: EUR

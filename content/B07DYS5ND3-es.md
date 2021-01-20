@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYS5ND3-es Acer KG1 KG241P LED Display 61 cm 24" Full HD Plana Negro...'
+sku: 'B07DYS5ND3-es'
 tags: [ 'full','hd', ]
 actualPrice: 149.99 EUR
 currency: EUR

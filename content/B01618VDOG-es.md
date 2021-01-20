@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01618VDOG-es Fujifilm Instax Mini 70 - Cámara Analógica Instantánea ISO...'
+sku: 'B01618VDOG-es'
 tags: [ 'fujifilm', ]
 actualPrice: 83.6 EUR
 currency: EUR

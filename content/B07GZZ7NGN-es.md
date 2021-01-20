@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZZ7NGN-es Symphonized DRV Bluetooth Auriculares de tapón...'
+sku: 'B07GZZ7NGN-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JCB2QWX-es QLJ Ratón inalámbrico de 2.4GHz Ratón para Juegos...'
+sku: 'B08JCB2QWX-es'
 tags: [ 'ratón', ]
 actualPrice: 3.72 EUR
 currency: EUR

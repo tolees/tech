@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KW4T69A-es Inateck Carcasa Disco Duro 2.5" USB 3.0 Caja Externa con...'
+sku: 'B00KW4T69A-es'
 tags: [ 'disco','duro', ]
 actualPrice: 9.99 EUR
 currency: EUR

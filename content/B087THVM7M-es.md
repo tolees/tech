@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087THVM7M-es Cámara Web con Micrófono Cámara Web 1080P HD Enfoque...'
+sku: 'B087THVM7M-es'
 tags: [ '1080p', ]
 actualPrice: 33.99 EUR
 currency: EUR

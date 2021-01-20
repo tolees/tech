@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K1DQF40-es Ozone M10 - Ratón 2000 dpi'
+sku: 'B01K1DQF40-es'
 tags: [ 'ratón', ]
 actualPrice: 13.74 EUR
 currency: EUR

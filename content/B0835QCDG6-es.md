@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0835QCDG6-es EXPLORER - Papel blanco multiusos para impresora - A4 80gr...'
+sku: 'B0835QCDG6-es'
 tags: [ 'impresora', ]
 actualPrice: 40.44 EUR
 currency: EUR

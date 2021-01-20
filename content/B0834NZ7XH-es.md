@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834NZ7XH-es UGREEN HUB USB C 6 En 1 Adaptador USB C a 4K HDMI 2...'
+sku: 'B0834NZ7XH-es'
 tags: [ 'dell', ]
 actualPrice: 31.99 EUR
 currency: EUR

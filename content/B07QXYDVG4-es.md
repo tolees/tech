@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXYDVG4-es USB C a HDMI VGA Adaptador Tipo C 4K HDMI y 1080P VGA para...'
+sku: 'B07QXYDVG4-es'
 tags: [ '1080p','galaxy','huawei','samsung', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051YHVU2-es Cablesson Ivuna Micro HDMI de extensión 0.5m - hasta 1080p...'
+sku: 'B0051YHVU2-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 9.56 EUR
 currency: EUR

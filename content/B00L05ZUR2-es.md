@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L05ZUR2-es Fujifilm Fujinon - XF18-135mm F3.5-5.6 R OIS WR Distancia...'
+sku: 'B00L05ZUR2-es'
 tags: [ 'fujifilm', ]
 actualPrice: 646.12 EUR
 currency: EUR

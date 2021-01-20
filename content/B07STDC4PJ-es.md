@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STDC4PJ-es Bluefin Fitness CURV 2.0 Elliptical Cross Trainer Elíptica...'
+sku: 'B07STDC4PJ-es'
 tags: [ 'smartphone', ]
 actualPrice: 519.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2OO8VX-es Brother MFCJ5730DW - Impresora multifunción tinta color'
+sku: 'B01N2OO8VX-es'
 tags: [ 'impresora', ]
 actualPrice: 205.65 EUR
 currency: EUR

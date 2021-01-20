@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8D6V6S-es HP Pavilion 27 B&O - Monitor 27 IPS FHD Audio Bang &...'
+sku: 'B07M8D6V6S-es'
 tags: [ 'ips', ]
 actualPrice: 279.65 EUR
 currency: EUR

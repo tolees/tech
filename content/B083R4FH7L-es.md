@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R4FH7L-es JOOWIN Repetidor WiFi 1200Mbps Amplificador Señal WiFi...'
+sku: 'B083R4FH7L-es'
 tags: [ 'wifi', ]
 actualPrice: 39.09 EUR
 currency: EUR

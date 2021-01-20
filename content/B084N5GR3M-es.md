@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084N5GR3M-es Lenovo S340 -14IIL- Ordenador portátil de 14" FullHD Intel...'
+sku: 'B084N5GR3M-es'
 tags: [ 'lenovo','ordenador','ram', ]
 actualPrice: 679.0 EUR
 currency: EUR

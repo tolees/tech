@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KM7Z3T-es Xinda Huawei MediaPad T3 8.0 Funda - Ultra delgado ligero...'
+sku: 'B072KM7Z3T-es'
 tags: [ 'huawei','tablet', ]
 actualPrice: 7.03 EUR
 currency: EUR

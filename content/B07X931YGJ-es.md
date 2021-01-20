@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X931YGJ-es Vigorun Reloj Inteligente Pantalla Táctil Smartwatch para...'
+sku: 'B07X931YGJ-es'
 tags: [ 'smartwatch', ]
 actualPrice: 30.39 EUR
 currency: EUR

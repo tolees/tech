@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG6BYX2-es mCover - Carcasa rígida para portátil DELL Chromebook 3100...'
+sku: 'B07VG6BYX2-es'
 tags: [ 'dell', ]
 actualPrice: 19.99 EUR
 currency: EUR

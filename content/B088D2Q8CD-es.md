@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D2Q8CD-es JOOWIN Repetidor WiFi Amplificador WiFi de 2 4 GHz / 300...'
+sku: 'B088D2Q8CD-es'
 tags: [ 'wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR

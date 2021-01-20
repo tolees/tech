@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6B96PB-es JIALONG Grande Alfombrilla de Ratón Ordenador XXL...'
+sku: 'B07S6B96PB-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 7.57 EUR
 currency: EUR

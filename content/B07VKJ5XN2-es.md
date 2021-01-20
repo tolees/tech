@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKJ5XN2-es Auriculares Bluetooth Auriculares inalámbricos 4.2...'
+sku: 'B07VKJ5XN2-es'
 tags: [ 'auriculares','bluetooth','auriculares','estéreo', ]
 actualPrice: 19.99 EUR
 currency: EUR

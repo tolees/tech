@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable Ratón Ordenador...'
+sku: 'B085XYJTLC-es'
 tags: [ 'bluetooth','ordenador','ratón', ]
 actualPrice: 12.23 EUR
 currency: EUR

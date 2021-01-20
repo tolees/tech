@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDC779T-es ROCONTRIP Estuche de Silicona con Cuello Ajustable y...'
+sku: 'B07YDC779T-es'
 tags: [ 'galaxy','huawei','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GLXBC1-es HP Color Laserjet Pro MFP M281fdw – Impresora multifunción...'
+sku: 'B075GLXBC1-es'
 tags: [ 'impresora','wifi', ]
 actualPrice: 309.0 EUR
 currency: EUR

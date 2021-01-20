@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XPCGDH-es yobola Auriculares Bluetooth Inalámbrico Bluetooth 5.0...'
+sku: 'B083XPCGDH-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR

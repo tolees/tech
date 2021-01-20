@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BF4DRSB-es AFXMATE - Auriculares Bluetooth con cancelación de ruido...'
+sku: 'B08BF4DRSB-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 26.17 EUR
 currency: EUR

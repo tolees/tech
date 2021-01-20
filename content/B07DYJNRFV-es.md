@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYJNRFV-es Jevogh JLY03-1 HD Dash Cam 170°Grand Angle 1080P avec...'
+sku: 'B07DYJNRFV-es'
 tags: [ '1080p', ]
 actualPrice: 12.63 EUR
 currency: EUR

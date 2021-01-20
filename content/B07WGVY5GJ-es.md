@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGVY5GJ-es Monuary 13 Piezas Correa para Xiaomi Mi Smart Band 4 / Mi...'
+sku: 'B07WGVY5GJ-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.64 EUR
 currency: EUR

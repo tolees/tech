@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RO9QE0-es Philips SHE1350/00 Auriculares intrauditivos'
+sku: 'B000RO9QE0-es'
 tags: [ 'auriculares', ]
 actualPrice: 5.09 EUR
 currency: EUR

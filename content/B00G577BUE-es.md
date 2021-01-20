@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G577BUE-es Samsung GE83X Microondas con Grill 23 Litros de Capacidad...'
+sku: 'B00G577BUE-es'
 tags: [ 'samsung', ]
 actualPrice: 114.99 EUR
 currency: EUR

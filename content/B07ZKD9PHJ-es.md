@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKD9PHJ-es Ratón inalámbrico recargable wireless mouse inphic mouse...'
+sku: 'B07ZKD9PHJ-es'
 tags: [ 'ratón', ]
 actualPrice: 15.99 EUR
 currency: EUR

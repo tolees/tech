@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THMBV1S-es Moviles Libres Baratos 4G 16GB ROM /Memoria Extendida 128...'
+sku: 'B07THMBV1S-es'
 tags: [ 'móvil','smartphone','wifi', ]
 actualPrice: 49.9 EUR
 currency: EUR

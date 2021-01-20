@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KGSC68-es Micrófono Inalámbrico Recargable Sistema de UHF Dual...'
+sku: 'B082KGSC68-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 54.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DPGBTC-es Jabra Elite 45h – Auriculares inalámbricos On-Ear...'
+sku: 'B084DPGBTC-es'
 tags: [ 'auriculares', ]
 actualPrice: 79.99 EUR
 currency: EUR

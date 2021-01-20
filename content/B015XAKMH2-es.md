@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015XAKMH2-es MagiDeal USB 3.0 Micro B Poder Cable Cargador Para Disco...'
+sku: 'B015XAKMH2-es'
 tags: [ 'toshiba','disco','duro', ]
 actualPrice: 3.97 EUR
 currency: EUR

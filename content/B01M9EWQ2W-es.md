@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9EWQ2W-es Logitech G Saitek Flight - Dispositivo de Juego de...'
+sku: 'B01M9EWQ2W-es'
 tags: [ 'logitech', ]
 actualPrice: 117.72 EUR
 currency: EUR

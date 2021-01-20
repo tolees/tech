@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899Z2PPF-es PiAEK Controlador para Nintendo Switch Controlador...'
+sku: 'B0899Z2PPF-es'
 tags: [ 'bluetooth','nintendo','nintendo','switch', ]
 actualPrice: 25.99 EUR
 currency: EUR

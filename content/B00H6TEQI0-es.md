@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H6TEQI0-es Prestige Cartridge Cartucho de Tinta con Chip de Alta...'
+sku: 'B00H6TEQI0-es'
 tags: [ 'dell', ]
 actualPrice: 9.29 EUR
 currency: EUR

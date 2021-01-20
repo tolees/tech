@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3U9SPI-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
+sku: 'B01N3U9SPI-es'
 tags: [ 'auriculares','móvil','smartphone','tablet', ]
 actualPrice: 12.9 EUR
 currency: EUR

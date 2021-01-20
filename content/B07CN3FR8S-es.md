@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN3FR8S-es Cielo Estrellado 36W Lámpara de techo Regulable Plafón LED...'
+sku: 'B07CN3FR8S-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B5SKL40-es Kingston KCP313SD8/8 - Memoria RAM para portátil de 8 GB...'
+sku: 'B01B5SKL40-es'
 tags: [ 'ram', ]
 actualPrice: 43.66 EUR
 currency: EUR

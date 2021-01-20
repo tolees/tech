@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FBVDRWL-es AOC 24V2Q – Monitor de 24” Full HD IPS Resolución 1920 x...'
+sku: 'B07FBVDRWL-es'
 tags: [ 'ips','full','hd', ]
 actualPrice: 111.57 EUR
 currency: EUR

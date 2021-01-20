@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FZ5BJEQ-es K-EDGE 353003001 Garmin Stem Mount Adjustable Adultos...'
+sku: 'B00FZ5BJEQ-es'
 tags: [ 'garmin', ]
 actualPrice: 34.99 EUR
 currency: EUR

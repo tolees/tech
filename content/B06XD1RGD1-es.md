@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD1RGD1-es Epson Workforce WF 3720 DWF - Impresora Multifunción Color...'
+sku: 'B06XD1RGD1-es'
 tags: [ 'impresora', ]
 actualPrice: 135.18 EUR
 currency: EUR

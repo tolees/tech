@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XD2SWN-es yootech Adaptador USB C a USB 3.0 [4 Pack] OTG con Uso en...'
+sku: 'B082XD2SWN-es'
 tags: [ 'huawei','samsung', ]
 actualPrice: 5.09 EUR
 currency: EUR

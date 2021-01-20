@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M35CEG0-es TECKNET Ratón Inalámbrico Delgado 2.4G Mouse Inalámbrico...'
+sku: 'B01M35CEG0-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR

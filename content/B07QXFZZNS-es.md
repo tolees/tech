@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXFZZNS-es Brazalete deportivo Universal Impermeable Teléfono Móvil...'
+sku: 'B07QXFZZNS-es'
 tags: [ 'móvil', ]
 actualPrice: 7.49 EUR
 currency: EUR

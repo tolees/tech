@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SQXVF7A-es HEXBUG Nano 480-3031 - Ratón Mini Robot Inteligente...'
+sku: 'B00SQXVF7A-es'
 tags: [ 'ratón', ]
 actualPrice: 13.53 EUR
 currency: EUR

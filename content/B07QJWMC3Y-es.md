@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJWMC3Y-es Enchufe inteligente wifi，SOONAN Interruptor Control Remoto...'
+sku: 'B07QJWMC3Y-es'
 tags: [ 'alexa','google','assistant', ]
 actualPrice: 8.75 EUR
 currency: EUR

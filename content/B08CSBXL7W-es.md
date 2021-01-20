@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSBXL7W-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
+sku: 'B08CSBXL7W-es'
 tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 25.99 EUR
 currency: EUR

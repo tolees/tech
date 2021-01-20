@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F566XXQ-es Longspeed Universal 360 Degree Car Auto Mount Sticky...'
+sku: 'B08F566XXQ-es'
 tags: [ 'móvil', ]
 actualPrice: 6.86 EUR
 currency: EUR

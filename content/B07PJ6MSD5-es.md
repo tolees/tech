@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ6MSD5-es QueenDer Alfombrilla de Ratón Alfombrilla de Ratón...'
+sku: 'B07PJ6MSD5-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 4.56 EUR
 currency: EUR

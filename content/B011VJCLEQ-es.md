@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011VJCLEQ-es TECKNET Base de Refrigeración para Ordenador Portátil con...'
+sku: 'B011VJCLEQ-es'
 tags: [ 'ordenador', ]
 actualPrice: 24.99 EUR
 currency: EUR

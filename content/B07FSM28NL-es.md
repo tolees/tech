@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSM28NL-es Juego de Alfombrilla para ratón y reposamuñecas para...'
+sku: 'B07FSM28NL-es'
 tags: [ 'ordenador','ratón','teclado', ]
 actualPrice: 13.99 EUR
 currency: EUR

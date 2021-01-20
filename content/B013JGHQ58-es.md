@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013JGHQ58-es Sony ICF-306 - Radio analógica portátil FM/AM color negro'
+sku: 'B013JGHQ58-es'
 tags: [ 'sony', ]
 actualPrice: 24.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSXX3NS-es Intel Optane Memory Unidad de Estado sólido M.2 32 GB PCI...'
+sku: 'B06XSXX3NS-es'
 tags: [ 'disco','duro', ]
 actualPrice: 52.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGVGMLD-es Logitech G305 Lightspeed Ratón Gaming Inalámbrico Captor...'
+sku: 'B07CGVGMLD-es'
 tags: [ 'logitech','ratón', ]
 actualPrice: 47.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDJJKL4-es MSI P65 Creator 9SF-1017ES - Ordenador portátil de 15.6"...'
+sku: 'B07XDJJKL4-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2999.0 EUR
 currency: EUR

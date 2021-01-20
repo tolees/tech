@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRLHJ8Q-es Auriculares inalámbricos Bluetooth Auriculares...'
+sku: 'B08BRLHJ8Q-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR

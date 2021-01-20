@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2XJD8W-es TOPESEL 32GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive...'
+sku: 'B07L2XJD8W-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 10.18 EUR
 currency: EUR

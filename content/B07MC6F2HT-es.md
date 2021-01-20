@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC6F2HT-es cámara Oculta del Altavoz del Bluetooth cámara Nana...'
+sku: 'B07MC6F2HT-es'
 tags: [ '1080p','bluetooth','altavoz', ]
 actualPrice: 52.99 EUR
 currency: EUR

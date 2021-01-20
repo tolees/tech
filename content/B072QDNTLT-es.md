@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QDNTLT-es mCover - Carcasa rígida para portátil DELL Chromebook 11...'
+sku: 'B072QDNTLT-es'
 tags: [ 'dell', ]
 actualPrice: 20.99 EUR
 currency: EUR

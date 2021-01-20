@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017COPPR4-es Fonestar BEAR-400R - Altavoz portátil Karaoke'
+sku: 'B017COPPR4-es'
 tags: [ 'altavoz', ]
 actualPrice: 61.15 EUR
 currency: EUR

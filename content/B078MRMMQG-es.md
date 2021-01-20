@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MRMMQG-es Altavoz portátil Micrófono con altavoz USB de Kaysuda para...'
+sku: 'B078MRMMQG-es'
 tags: [ 'microsoft','altavoz', ]
 actualPrice: 50.99 EUR
 currency: EUR

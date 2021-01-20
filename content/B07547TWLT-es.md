@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07547TWLT-es Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla...'
+sku: 'B07547TWLT-es'
 tags: [ 'wifi', ]
 actualPrice: 55.49 EUR
 currency: EUR

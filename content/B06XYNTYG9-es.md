@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYNTYG9-es CASIO - Teclado LK-136 61 Teclas Luminosas'
+sku: 'B06XYNTYG9-es'
 tags: [ 'teclado', ]
 actualPrice: 103.2 EUR
 currency: EUR

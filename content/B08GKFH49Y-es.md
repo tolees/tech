@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKFH49Y-es Amazfit Neo - Smartwatch Green'
+sku: 'B08GKFH49Y-es'
 tags: [ 'smartwatch', ]
 actualPrice: 29.9 EUR
 currency: EUR
@@ -26,10 +27,10 @@ Tienes [Amazfit Neo - Smartwatch Green](https://www.amazon.es/dp/B08GKFH49Y/?tag
 
 🔎:
 
-- Monitoreo de frecuencia cardíaca
-- Monitoreo del sueño
-- Resistente al agua hasta 50 metros
 - Pantalla siempre encendida
 - Duración de la batería de 28 días
+- Monitoreo del sueño
+- Monitoreo de frecuencia cardíaca
+- Resistente al agua hasta 50 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GKFH49Y/?tag=tolees-21)

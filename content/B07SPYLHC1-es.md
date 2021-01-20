@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPYLHC1-es SenPuSi HUB USB C 6-EN-1 Concentrador con HDMI 4K 2 USB...'
+sku: 'B07SPYLHC1-es'
 tags: [ 'huawei', ]
 actualPrice: 29.99 EUR
 currency: EUR

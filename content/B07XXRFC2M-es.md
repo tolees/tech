@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXRFC2M-es Simpeak Funda Compatible con Xiaomi Redmi Note 8 Pro+...'
+sku: 'B07XXRFC2M-es'
 tags: [ 'xiaomi', ]
 actualPrice: 6.99 EUR
 currency: EUR

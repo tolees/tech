@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4G3LF-es VicTsing Adaptador VGA a HDMI Convertidor de Video 1080P...'
+sku: 'B072K4G3LF-es'
 tags: [ '1080p', ]
 actualPrice: 14.99 EUR
 currency: EUR

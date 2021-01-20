@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789FZHX6-es Tenda PW201A+PW200 Adaptadores de comunicación por línea...'
+sku: 'B0789FZHX6-es'
 tags: [ 'plc','wifi', ]
 actualPrice: 35.69 EUR
 currency: EUR

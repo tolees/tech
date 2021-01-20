@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSXRWG6-es actecom USB 2.0 Cable de Impresora escáner Cable de Alta...'
+sku: 'B01CSXRWG6-es'
 tags: [ 'canon','dell','impresora','samsung', ]
 actualPrice: 4.2 EUR
 currency: EUR

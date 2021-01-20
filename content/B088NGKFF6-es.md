@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NGKFF6-es UGREEN Cargador de Coche con LED 24W 4.8A Doble Puerto...'
+sku: 'B088NGKFF6-es'
 tags: [ 'huawei','iphone','samsung','xiaomi', ]
 actualPrice: 10.99 EUR
 currency: EUR

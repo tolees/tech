@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8JNYSG-es Anoopsyche Hub USB C 10 en 1 Aluminio Adaptador USB C Hub...'
+sku: 'B07Q8JNYSG-es'
 tags: [ '1080p', ]
 actualPrice: 47.99 EUR
 currency: EUR

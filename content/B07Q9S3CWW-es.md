@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9S3CWW-es Samsung Galaxy Tab A Wi Fi SM-T510 64GB Black DE Version'
+sku: 'B07Q9S3CWW-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 225.0 EUR
 currency: EUR

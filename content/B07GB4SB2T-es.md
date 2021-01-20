@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB4SB2T-es Samsung Galaxy Watch Bluetooth Reloj inteligente con...'
+sku: 'B07GB4SB2T-es'
 tags: [ 'bluetooth','galaxy','gps','samsung', ]
 actualPrice: 201.89 EUR
 currency: EUR

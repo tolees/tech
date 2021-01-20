@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBD9R6-es Netgear R6700 Router WiFi Nighthawk AC1750 Doble Banda 4...'
+sku: 'B07NDBD9R6-es'
 tags: [ 'gigabit','netgear','wifi', ]
 actualPrice: 109.9 EUR
 currency: EUR

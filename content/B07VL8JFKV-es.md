@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL8JFKV-es Auriculares Bluetooth 5.0 Ayete Auriculares Inalámbricos...'
+sku: 'B07VL8JFKV-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 16.14 EUR
 currency: EUR

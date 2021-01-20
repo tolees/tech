@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBMVVZH-es Ushining Teléfono Móvil Libre Teléfono Móvil para Personas...'
+sku: 'B07JBMVVZH-es'
 tags: [ 'bluetooth','móvil', ]
 actualPrice: 22.89 EUR
 currency: EUR

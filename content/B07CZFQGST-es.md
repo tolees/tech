@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFQGST-es HP 22fw - Monitor 22 Pulgadas 54 6 cm 1920 x 1080 Pixeles...'
+sku: 'B07CZFQGST-es'
 tags: [ 'full','hd', ]
 actualPrice: 94.0 EUR
 currency: EUR

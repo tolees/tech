@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCTNZRC-es Edifier R1280DB Altavoces de Estante con Bluetooth -...'
+sku: 'B01NCTNZRC-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 102.99 EUR
 currency: EUR

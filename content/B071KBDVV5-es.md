@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KBDVV5-es Logitech MeetUp Sistema de Cámara para Conferencias Webcam...'
+sku: 'B071KBDVV5-es'
 tags: [ 'logitech', ]
 actualPrice: 919.0 EUR
 currency: EUR

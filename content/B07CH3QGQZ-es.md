@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH3QGQZ-es JOTO MLT-D111S 1 Negro 1000 Páginas Cartucho de Tóner...'
+sku: 'B07CH3QGQZ-es'
 tags: [ 'samsung', ]
 actualPrice: 15.09 EUR
 currency: EUR

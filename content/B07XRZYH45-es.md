@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRZYH45-es Trust GXT 764 Glide-Flex - XXL Alfombrilla de ratón RGB...'
+sku: 'B07XRZYH45-es'
 tags: [ 'ratón', ]
 actualPrice: 27.89 EUR
 currency: EUR

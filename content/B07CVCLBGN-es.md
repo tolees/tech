@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
+sku: 'B07CVCLBGN-es'
 tags: [ 'galaxy','móvil','tablet','nintendo','switch', ]
 actualPrice: 19.79 EUR
 currency: EUR

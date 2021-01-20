@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNSH7FQ-es AWESAFE GPS para Coche con Pantalla Táctil HD de 7...'
+sku: 'B07MNSH7FQ-es'
 tags: [ 'gps', ]
 actualPrice: 65.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2N9W8L-es Apple iPad Pro 11 pulgadas Wi-Fi 512GB - Plata Modelo...'
+sku: 'B07K2N9W8L-es'
 tags: [ 'apple', ]
 actualPrice: 1059.0 EUR
 currency: EUR

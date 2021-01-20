@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886CYPHP-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
+sku: 'B0886CYPHP-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 21.24 EUR
 currency: EUR

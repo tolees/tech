@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PXQWD5-es Cámara Web HD Pro Con Micrófono Cámara USB Para PC 1080P...'
+sku: 'B086PXQWD5-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 18.99 EUR
 currency: EUR

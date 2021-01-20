@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQQHBOO-es WD My Passport - Disco Duro Portátil de 3 TB y Software de...'
+sku: 'B01LQQHBOO-es'
 tags: [ 'disco','duro', ]
 actualPrice: 85.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6JNL92-es HANPURE Bluetooth USB PC Adaptador Bluetooth USB USB...'
+sku: 'B07K6JNL92-es'
 tags: [ 'auriculares','bluetooth','teclado', ]
 actualPrice: 11.99 EUR
 currency: EUR

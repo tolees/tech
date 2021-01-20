@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJRBD8G-es SMARTWATCH XIAOMI AMAZFIT BIP LITE GLOBAL 1 28 PULSOMETRO...'
+sku: 'B07XJRBD8G-es'
 tags: [ 'smartwatch','xiaomi', ]
 actualPrice: 59.99 EUR
 currency: EUR

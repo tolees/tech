@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo...'
+sku: 'B016MOI1XK-es'
 tags: [ 'bluetooth','iphone','samsung','altavoz', ]
 actualPrice: 28.89 EUR
 currency: EUR

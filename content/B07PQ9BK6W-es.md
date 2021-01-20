@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ9BK6W-es Apple iPad mini - Tablet 20 1 cm 7.9" 2048 x 1536 Pixeles...'
+sku: 'B07PQ9BK6W-es'
 tags: [ 'apple','tablet', ]
 actualPrice: 496 EUR
 currency: EUR

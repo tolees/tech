@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GX71VL8-es Auriculares Bluetooth 5.1 Auriculares inalámbricos IPx7 a...'
+sku: 'B08GX71VL8-es'
 tags: [ 'auriculares','bluetooth','auriculares','estéreo', ]
 actualPrice: 33.99 EUR
 currency: EUR

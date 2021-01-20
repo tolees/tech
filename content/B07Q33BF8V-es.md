@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q33BF8V-es HP 15-dw0010ns - Ordenador portátil de 15.6" HD Intel Core...'
+sku: 'B07Q33BF8V-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 469.99 EUR
 currency: EUR

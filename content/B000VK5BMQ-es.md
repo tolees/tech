@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VK5BMQ-es Garmin GRSOPFR - Soporte Bici.garmin Forerunner Universal'
+sku: 'B000VK5BMQ-es'
 tags: [ 'garmin', ]
 actualPrice: 10.95 EUR
 currency: EUR

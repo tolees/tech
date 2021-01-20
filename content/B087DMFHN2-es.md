@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087DMFHN2-es Acer Aspire 5 - Ordenador Portátil de 14" FullHD Intel...'
+sku: 'B087DMFHN2-es'
 tags: [ 'ordenador','ram', ]
 actualPrice: 729.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZTQLB2-es HP DeskJet 3764 - Impresora de tinta multifunción 8 ppm...'
+sku: 'B07GZTQLB2-es'
 tags: [ 'impresora','wifi', ]
 actualPrice: 59.0 EUR
 currency: EUR

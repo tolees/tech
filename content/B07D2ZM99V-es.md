@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos...'
+sku: 'B07D2ZM99V-es'
 tags: [ 'galaxy','gps','iphone','motorola','móvil','samsung', ]
 actualPrice: 7.99 EUR
 currency: EUR

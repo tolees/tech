@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHHCB5K-es KROM Khami - NXKROMKHAMI - Auriculares Gaming Estéreo...'
+sku: 'B07BHHCB5K-es'
 tags: [ 'auriculares', ]
 actualPrice: 20.99 EUR
 currency: EUR

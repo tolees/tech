@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRQNDF-es Motorola Baby Comfort C35 - Vigilabebés vídeo con pantalla...'
+sku: 'B07LFRQNDF-es'
 tags: [ 'motorola', ]
 actualPrice: 99.99 EUR
 currency: EUR

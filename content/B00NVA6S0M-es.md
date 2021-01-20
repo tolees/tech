@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVA6S0M-es CSL - 5m Cable de Red Gigabit Ethernet LAN Cat.6 RJ45-10...'
+sku: 'B00NVA6S0M-es'
 tags: [ 'gigabit', ]
 actualPrice: 9.99 EUR
 currency: EUR

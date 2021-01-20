@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1NMUGY-es Pioneer X-EM26-B - Sistema Micro con Bluetooth Radio FM y...'
+sku: 'B01M1NMUGY-es'
 tags: [ 'bluetooth','pioneer', ]
 actualPrice: 100.0 EUR
 currency: EUR

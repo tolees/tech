@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS91TRQ-es Sony WI-C600N - Auriculares Neckband inalámbricos...'
+sku: 'B07MS91TRQ-es'
 tags: [ 'auriculares','bluetooth','sony', ]
 actualPrice: 121.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LDXQ3B3-es Cikuso 3pzs Pegatinas Escudo de Camara de plastico...'
+sku: 'B07LDXQ3B3-es'
 tags: [ 'ordenador','tablet', ]
 actualPrice: 2.2 EUR
 currency: EUR

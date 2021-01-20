@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de...'
+sku: 'B07XQ6QBSR-es'
 tags: [ 'bluetooth','teclado', ]
 actualPrice: 15.25 EUR
 currency: EUR

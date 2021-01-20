@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08593JQNK-es Oihxse Funda Xiaomi Redmi 7 Ultra Delgado Transparente TPU...'
+sku: 'B08593JQNK-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.98 EUR
 currency: EUR

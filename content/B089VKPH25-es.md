@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VKPH25-es WOWDSGN Proyector Giratorio de Luz Estelar de Música con...'
+sku: 'B089VKPH25-es'
 tags: [ 'bluetooth', ]
 actualPrice: 36.99 EUR
 currency: EUR

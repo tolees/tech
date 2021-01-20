@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB4KPFV-es NetVue Camara Vigilancia WiFi Interior 1080P Smart A.I....'
+sku: 'B07TB4KPFV-es'
 tags: [ '1080p','alexa','wifi', ]
 actualPrice: 29.99 EUR
 currency: EUR

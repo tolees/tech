@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RMNCVK-es NGS Roller Lingo Black - Altavoz Portátil de 20W...'
+sku: 'B084RMNCVK-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 32.98 EUR
 currency: EUR

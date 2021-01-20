@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNFFKNR-es Dericam High Definition Webcam HD Computer Camera 2...'
+sku: 'B07FNFFKNR-es'
 tags: [ '1080p', ]
 actualPrice: 29.49 EUR
 currency: EUR

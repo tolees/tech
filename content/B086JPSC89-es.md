@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JPSC89-es iVANKY Cable Alargador HDMI 2 Metros Cable Extensión HDMI...'
+sku: 'B086JPSC89-es'
 tags: [ '1080p','xbox','full','hd', ]
 actualPrice: 9.99 EUR
 currency: EUR

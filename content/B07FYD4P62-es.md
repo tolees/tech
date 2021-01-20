@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYD4P62-es Corsair Strafe RGB MK.2 - Teclado mecánico para Juegos...'
+sku: 'B07FYD4P62-es'
 tags: [ 'teclado', ]
 actualPrice: 113.22 EUR
 currency: EUR

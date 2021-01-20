@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A8SG4OO-es Canon PowerShot SX540 HS - Cámara digital de 20.3 Mp...'
+sku: 'B01A8SG4OO-es'
 tags: [ 'canon','wifi', ]
 actualPrice: 239.0 EUR
 currency: EUR

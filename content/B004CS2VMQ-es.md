@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004CS2VMQ-es Samyang F1110601101 AE - Objectivo para Canon 14 mm IF ED...'
+sku: 'B004CS2VMQ-es'
 tags: [ 'canon', ]
 actualPrice: 315.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A8ZWNES-es Samyang F1121903101 - Objetivo fotográfico DSLR para Nikon...'
+sku: 'B00A8ZWNES-es'
 tags: [ 'nikon', ]
 actualPrice: 311.03 EUR
 currency: EUR

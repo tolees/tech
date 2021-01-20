@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075CPTYM6-es Razer BlackWidow Chroma V2 Teclado de Gaming USB/Alámbrico...'
+sku: 'B075CPTYM6-es'
 tags: [ 'teclado', ]
 actualPrice: 126.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8RPD32-es Carcasa compatible con Huawei P9 diseño de mármol silicona...'
+sku: 'B07Z8RPD32-es'
 tags: [ 'huawei','móvil', ]
 actualPrice: 9.99 EUR
 currency: EUR

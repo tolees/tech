@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXV8P42-es Salomon Pioneer X Cascos de esquí Hombre Negro L 59-62 cm'
+sku: 'B07VXV8P42-es'
 tags: [ 'pioneer', ]
 actualPrice: 55.99 EUR
 currency: EUR

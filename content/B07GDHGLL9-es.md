@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDHGLL9-es Thrustmaster - Auriculares De Gaming Multiplataforma con...'
+sku: 'B07GDHGLL9-es'
 tags: [ 'auriculares', ]
 actualPrice: 64.95 EUR
 currency: EUR

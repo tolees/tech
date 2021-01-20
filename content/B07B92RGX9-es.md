@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B92RGX9-es Panasonic LEICA DG VARIO-ELMARIT H-ES50200 - Objetivo Tele...'
+sku: 'B07B92RGX9-es'
 tags: [ 'panasonic', ]
 actualPrice: 1449.3 EUR
 currency: EUR

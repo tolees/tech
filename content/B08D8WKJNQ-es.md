@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D8WKJNQ-es Docooler Auriculares inalámbricos BT 5.0 Alta fidelidad...'
+sku: 'B08D8WKJNQ-es'
 tags: [ 'auriculares','auriculares','estéreo', ]
 actualPrice: 15.99 EUR
 currency: EUR

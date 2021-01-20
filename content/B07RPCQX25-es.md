@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPCQX25-es HP Laserjet Pro M404dn - Impresora Láser Monocromo A4...'
+sku: 'B07RPCQX25-es'
 tags: [ 'gigabit','impresora', ]
 actualPrice: 166.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W98JTSC-es Antena TV Interior NinkBox Antena TV HDTV Digital con...'
+sku: 'B07W98JTSC-es'
 tags: [ '1080p', ]
 actualPrice: 19.99 EUR
 currency: EUR

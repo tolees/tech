@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RYNX33-es Asus ROG Gladius II Origin - Ratón óptico optimizado para...'
+sku: 'B079RYNX33-es'
 tags: [ 'asus','ratón', ]
 actualPrice: 68.39 EUR
 currency: EUR

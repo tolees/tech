@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YC6XL9G-es MISKQ Funda giratoria Universal para teléfono de 360...'
+sku: 'B07YC6XL9G-es'
 tags: [ 'móvil','xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR

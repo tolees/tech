@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004YAJBZC-es Sony LCSAMB - Bolsa Compatible con los Modelos Alpha SLT'
+sku: 'B004YAJBZC-es'
 tags: [ 'sony', ]
 actualPrice: 36.94 EUR
 currency: EUR

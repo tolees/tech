@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHCG9Y4-es Candy Rapidò RO16106DWHC7/1S - Lavadora carga frontal...'
+sku: 'B07YHCG9Y4-es'
 tags: [ 'bluetooth','wifi', ]
 actualPrice: 364.39 EUR
 currency: EUR

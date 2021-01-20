@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8VHS4J-es Anpollo Alfombrilla de Ratón Alfombrilla de Ratón...'
+sku: 'B07R8VHS4J-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DP9BZ4-es Auriculares Inalámbricos Bluetooth 5.0 Syllable Cascos...'
+sku: 'B083DP9BZ4-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR

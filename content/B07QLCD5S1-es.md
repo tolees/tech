@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLCD5S1-es kinokoo Película de Vidrio Templado para Fuji...'
+sku: 'B07QLCD5S1-es'
 tags: [ 'fujifilm', ]
 actualPrice: 8.99 EUR
 currency: EUR

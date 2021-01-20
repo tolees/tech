@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QLSMZ8-es HP 14s-dq0000ns - Ordenador portátil de 14" HD Intel...'
+sku: 'B081QLSMZ8-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 339.99 EUR
 currency: EUR

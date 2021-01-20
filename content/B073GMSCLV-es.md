@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GMSCLV-es Lysport Cámara Web De 1080P HD Webcam con Micrófono...'
+sku: 'B073GMSCLV-es'
 tags: [ '1080p', ]
 actualPrice: 28.99 EUR
 currency: EUR

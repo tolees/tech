@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1XGRHQ-es TPLGO 24 Tarjetas NFC para the Legend of Zelda Breath of...'
+sku: 'B07Q1XGRHQ-es'
 tags: [ 'wii', ]
 actualPrice: 16.56 EUR
 currency: EUR

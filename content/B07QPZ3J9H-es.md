@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPZ3J9H-es Flybiz Receptor Transmisor Bluetooth 5.0 2 en 1 Adaptador...'
+sku: 'B07QPZ3J9H-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 27.99 EUR
 currency: EUR

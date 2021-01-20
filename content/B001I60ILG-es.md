@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001I60ILG-es König CMP-MIC9 - Mini micrófono omnidireccional flexible...'
+sku: 'B001I60ILG-es'
 tags: [ 'móvil', ]
 actualPrice: 7.0 EUR
 currency: EUR

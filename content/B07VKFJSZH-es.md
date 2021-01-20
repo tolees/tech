@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKFJSZH-es Gigaset GL390 - teléfono móvil para Mayores con Teclas...'
+sku: 'B07VKFJSZH-es'
 tags: [ 'gigaset','móvil', ]
 actualPrice: 34.9 EUR
 currency: EUR

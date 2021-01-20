@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MA15Z2D-es Gigaset AS405 Duo - Teléfono Inalámbrico Pack de 2...'
+sku: 'B01MA15Z2D-es'
 tags: [ 'gigaset', ]
 actualPrice: 42.42 EUR
 currency: EUR

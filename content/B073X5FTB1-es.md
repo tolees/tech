@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X5FTB1-es Sony SBH24 Dentro de oído Binaural Inalámbrico Blanco -...'
+sku: 'B073X5FTB1-es'
 tags: [ 'auriculares','sony', ]
 actualPrice: 24.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW2J1SZ-es VicTsing Transmisor FM Bluetooth Coche Manos Libres...'
+sku: 'B07DW2J1SZ-es'
 tags: [ 'bluetooth', ]
 actualPrice: 9.99 EUR
 currency: EUR

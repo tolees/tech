@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9ZRPPK-es Bluedio T7 Auriculares Bluetooth Cancelación de Ruido...'
+sku: 'B07Q9ZRPPK-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR

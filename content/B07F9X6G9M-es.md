@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth...'
+sku: 'B07F9X6G9M-es'
 tags: [ 'bluetooth','logitech','teclado', ]
 actualPrice: 83.66 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLFKGR-es Kenwood DNX5190DABS - Navegador GPS 17 1 cm/6 75" Pantalla...'
+sku: 'B07RMLFKGR-es'
 tags: [ 'gps', ]
 actualPrice: 441.82 EUR
 currency: EUR

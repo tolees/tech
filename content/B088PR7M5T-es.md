@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PR7M5T-es WACCET Cámara Web HD 1080p PC Webcam con Microfono USB...'
+sku: 'B088PR7M5T-es'
 tags: [ '1080p', ]
 actualPrice: 20.39 EUR
 currency: EUR

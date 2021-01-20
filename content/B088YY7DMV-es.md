@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088YY7DMV-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
+sku: 'B088YY7DMV-es'
 tags: [ 'wifi', ]
 actualPrice: 29.99 EUR
 currency: EUR

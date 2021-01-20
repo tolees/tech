@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EIXO56O-es IntimaTe WM Heart Silla de Escritorio de Oficina de PU...'
+sku: 'B01EIXO56O-es'
 tags: [ 'ordenador', ]
 actualPrice: 71.99 EUR
 currency: EUR

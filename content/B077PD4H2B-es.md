@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PD4H2B-es 7Magic Compatible Cartucho de Tóner para Brother TN1050 TN...'
+sku: 'B077PD4H2B-es'
 tags: [ 'impresora', ]
 actualPrice: 15.79 EUR
 currency: EUR

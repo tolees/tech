@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KNMLWMT-es Thomson MIC201IBT - Microcadena Bluetooth con reproductor...'
+sku: 'B07KNMLWMT-es'
 tags: [ 'bluetooth', ]
 actualPrice: 102.3 EUR
 currency: EUR

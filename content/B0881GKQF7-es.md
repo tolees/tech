@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881GKQF7-es DOQAUS Auriculares Diadema [3 Modo EQ] Alta fidelidad...'
+sku: 'B0881GKQF7-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 23.99 EUR
 currency: EUR

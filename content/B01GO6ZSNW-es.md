@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GO6ZSNW-es Energy Sistem MP4 Touch Bluetooth Bluetooth 8 GB Táctil...'
+sku: 'B01GO6ZSNW-es'
 tags: [ 'bluetooth','microsd', ]
 actualPrice: 32.71 EUR
 currency: EUR

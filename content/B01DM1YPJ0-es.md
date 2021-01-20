@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DM1YPJ0-es Woxter SO26-057 Big Bass 500 R - Altavoces 2.1 150W...'
+sku: 'B01DM1YPJ0-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 74.99 EUR
 currency: EUR

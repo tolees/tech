@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS7C63T-es ASUS ROG Strix Z390-E Gaming LGA1151 Intel 8th and 9th Gen...'
+sku: 'B07HS7C63T-es'
 tags: [ 'asus', ]
 actualPrice: 217.9 EUR
 currency: EUR

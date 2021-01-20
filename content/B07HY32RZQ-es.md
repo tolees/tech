@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY32RZQ-es EZVIZ 303100908 Camara IP WiFi C3A White'
+sku: 'B07HY32RZQ-es'
 tags: [ 'wifi', ]
 actualPrice: 89.0 EUR
 currency: EUR

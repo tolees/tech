@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08269FVYD-es Adaptador de cámara USB Adaptador OTG Hembra USB...'
+sku: 'B08269FVYD-es'
 tags: [ 'iphone','ratón','teclado', ]
 actualPrice: 11.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWKQR24-es Krom KENON - NXKROMKENON - Ratón Gaming Color Negro'
+sku: 'B07HWKQR24-es'
 tags: [ 'ratón', ]
 actualPrice: 19.99 EUR
 currency: EUR

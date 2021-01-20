@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CYWY210-es Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible...'
+sku: 'B00CYWY210-es'
 tags: [ 'ratón', ]
 actualPrice: 13.9 EUR
 currency: EUR

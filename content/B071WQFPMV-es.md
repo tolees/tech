@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WQFPMV-es DYNASONIC - Altavoz Karaoke Bluetooth 10W Color Rosa |...'
+sku: 'B071WQFPMV-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 34.3 EUR
 currency: EUR

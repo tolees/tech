@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV2LHH6-es HP Pavilion Gaming 690-0031ns - Ordenador de sobremesa...'
+sku: 'B07MV2LHH6-es'
 tags: [ 'ordenador','ram', ]
 actualPrice: 699.99 EUR
 currency: EUR

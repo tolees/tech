@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFCWS7V-es F Fityle 2 Par Altavoz Subwoofer 4X Línea de Montaje...'
+sku: 'B07HFCWS7V-es'
 tags: [ 'altavoz', ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DLTJQY5-es USB C Auriculares Tipo C con Cable y Micrófono para Google...'
+sku: 'B08DLTJQY5-es'
 tags: [ 'auriculares','huawei','samsung','xiaomi', ]
 actualPrice: 14.98 EUR
 currency: EUR

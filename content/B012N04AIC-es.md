@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012N04AIC-es DEEPCOOL Soporte Monitor PC Inteligente Elevador Monitor...'
+sku: 'B012N04AIC-es'
 tags: [ 'ordenador', ]
 actualPrice: 33.58 EUR
 currency: EUR

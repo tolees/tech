@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009X85ZBE-es Playgro Juguete Colgante Ratón Clip Clop Desde el...'
+sku: 'B009X85ZBE-es'
 tags: [ 'ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR

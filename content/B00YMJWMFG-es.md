@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YMJWMFG-es SODIAL R 1GB 1G DDR RAM Memoria Ordenador portatil 333MHZ...'
+sku: 'B00YMJWMFG-es'
 tags: [ 'ordenador','ram', ]
 actualPrice: 5.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WV1C3X-es Siikii Soporte para teléfono móvil Soporte para teléfono...'
+sku: 'B081WV1C3X-es'
 tags: [ 'iphone','móvil', ]
 actualPrice: 39.99 EUR
 currency: EUR

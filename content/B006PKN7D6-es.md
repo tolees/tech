@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006PKN7D6-es USB-C Cargador de Portátil Fuente de Alimentación 65W MAX:...'
+sku: 'B006PKN7D6-es'
 tags: [ 'asus','dell','lenovo','samsung', ]
 actualPrice: 34.17 EUR
 currency: EUR

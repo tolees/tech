@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD5PKC8-es HP Elite 8300 - Ordenador de sobremesa Intel Core i7-3770...'
+sku: 'B07SD5PKC8-es'
 tags: [ 'ordenador','ram','wifi', ]
 actualPrice: 397.0 EUR
 currency: EUR

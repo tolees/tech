@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719FKQKL-es BigBen Interactive TW12CDPARIS3 - Torre Multimedia con...'
+sku: 'B0719FKQKL-es'
 tags: [ 'bluetooth', ]
 actualPrice: 84.9 EUR
 currency: EUR

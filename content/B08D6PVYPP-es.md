@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6PVYPP-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+sku: 'B08D6PVYPP-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR

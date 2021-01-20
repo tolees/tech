@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S9QQXH-es Jabra Elite Sport – Auriculares Deportivos Inalámbricos...'
+sku: 'B073S9QQXH-es'
 tags: [ 'auriculares', ]
 actualPrice: 186.99 EUR
 currency: EUR

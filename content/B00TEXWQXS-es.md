@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TEXWQXS-es Netgear EX7000 Repetidor WiFi Mesh AC1900 amplificador...'
+sku: 'B00TEXWQXS-es'
 tags: [ 'gigabit','netgear','wifi', ]
 actualPrice: 115.95 EUR
 currency: EUR

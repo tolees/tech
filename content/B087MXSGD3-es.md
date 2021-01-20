@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MXSGD3-es Disco Duro Externo Disco Duro portátil de 1TB 2TB Slim...'
+sku: 'B087MXSGD3-es'
 tags: [ 'disco','duro', ]
 actualPrice: 49.99 EUR
 currency: EUR

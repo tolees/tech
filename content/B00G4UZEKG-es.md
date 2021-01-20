@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G4UZEKG-es SALCAR - 2.HDD SATA-SATA 3.0 SATA I II III Bahía de Disco...'
+sku: 'B00G4UZEKG-es'
 tags: [ 'disco','duro', ]
 actualPrice: 8.99 EUR
 currency: EUR

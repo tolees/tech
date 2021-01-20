@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQZDWVR-es Ibywind Xiaomi Mi Mix 3 Protector de Pantalla [2...'
+sku: 'B07KQZDWVR-es'
 tags: [ 'xiaomi', ]
 actualPrice: 10.31 EUR
 currency: EUR

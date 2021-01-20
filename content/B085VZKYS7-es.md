@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VZKYS7-es Toner Kingdom Cartucho de Toner Compatible Reemplazo para...'
+sku: 'B085VZKYS7-es'
 tags: [ 'impresora', ]
 actualPrice: 16.1 EUR
 currency: EUR

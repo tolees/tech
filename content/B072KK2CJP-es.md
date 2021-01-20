@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KK2CJP-es HP Spectre Bluetooth 500 Bluetooth Óptico 1600DPI Negro -...'
+sku: 'B072KK2CJP-es'
 tags: [ 'bluetooth','ratón', ]
 actualPrice: 40.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YP8ND52-es VicTsing Altavoz Bluetooth Ducha Impermeable radio FM y...'
+sku: 'B00YP8ND52-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 19.99 EUR
 currency: EUR

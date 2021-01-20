@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTUDWQ-es Canon consumible papel fotográfico plus semi-brillante...'
+sku: 'B000KTUDWQ-es'
 tags: [ 'canon', ]
 actualPrice: 14.09 EUR
 currency: EUR

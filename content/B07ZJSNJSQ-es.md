@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJSNJSQ-es Hanek Funda iPhone XR Funda de móvil con cordón para...'
+sku: 'B07ZJSNJSQ-es'
 tags: [ 'iphone','móvil', ]
 actualPrice: 19.92 EUR
 currency: EUR

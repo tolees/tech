@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECEVFFO-es Sandisk 64GB Extreme Pro CF - Memoria Compact Flash de 64...'
+sku: 'B00ECEVFFO-es'
 tags: [ 'sandisk', ]
 actualPrice: 79.82 EUR
 currency: EUR

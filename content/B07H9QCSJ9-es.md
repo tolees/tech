@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9QCSJ9-es Apple Funda Silicone Case para el iPhone XS Max - Negro'
+sku: 'B07H9QCSJ9-es'
 tags: [ 'apple','iphone', ]
 actualPrice: 34.97 EUR
 currency: EUR

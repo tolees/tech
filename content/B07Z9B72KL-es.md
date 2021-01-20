@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9B72KL-es SOOPSON Alfombrilla de ratón para Juegos de Gel para...'
+sku: 'B07Z9B72KL-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 1.27 EUR
 currency: EUR

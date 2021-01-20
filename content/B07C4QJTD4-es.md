@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4QJTD4-es GTPLAYER Silla Gaming Escritorio Oficina Gamer Ordenador...'
+sku: 'B07C4QJTD4-es'
 tags: [ 'ordenador', ]
 actualPrice: 169.99 EUR
 currency: EUR

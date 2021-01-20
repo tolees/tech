@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CV7RFV5-es Auriculares Inalambricos Auriculares Bluetooth 5.0...'
+sku: 'B08CV7RFV5-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR

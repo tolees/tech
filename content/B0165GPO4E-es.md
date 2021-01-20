@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0165GPO4E-es Manos libres Originales Samsung EO-EG920BW Blancos No en...'
+sku: 'B0165GPO4E-es'
 tags: [ 'samsung', ]
 actualPrice: 4.99 EUR
 currency: EUR

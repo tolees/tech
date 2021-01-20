@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R2W2RP-es TECLAST Ordenador Portátil F7S 14.1" FullHD 8GB RAM 128GB...'
+sku: 'B089R2W2RP-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 299.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMVDRHL-es Altavoz Bluetooth Luz de Nocturna Careslong lámpara de...'
+sku: 'B07PMVDRHL-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 19.99 EUR
 currency: EUR

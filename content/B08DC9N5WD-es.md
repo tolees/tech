@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DC9N5WD-es UMIDIGI Reloj Inteligente con Esfera Personalizada...'
+sku: 'B08DC9N5WD-es'
 tags: [ 'smartwatch', ]
 actualPrice: 25.49 EUR
 currency: EUR

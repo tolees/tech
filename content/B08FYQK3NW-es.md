@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FYQK3NW-es Auriculares Bluetooth Auriculares inalámbricos IPx5 a...'
+sku: 'B08FYQK3NW-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR

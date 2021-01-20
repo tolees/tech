@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKFQFJH-es Ratón Bluetooth Ratón inalámbrico Bluetooth recargable...'
+sku: 'B08DKFQFJH-es'
 tags: [ 'bluetooth','ratón', ]
 actualPrice: 13.99 EUR
 currency: EUR

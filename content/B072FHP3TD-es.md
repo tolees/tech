@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FHP3TD-es IBRA - 2m Cable de Antena HDTV Premium | Cable coaxial...'
+sku: 'B072FHP3TD-es'
 tags: [ 'full','hd', ]
 actualPrice: 7.73 EUR
 currency: EUR

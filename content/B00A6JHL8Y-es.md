@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A6JHL8Y-es RivaCase 8231 Bolsa para Ordenador portátil hasta 39 6 cm...'
+sku: 'B00A6JHL8Y-es'
 tags: [ 'ordenador', ]
 actualPrice: 28.14 EUR
 currency: EUR

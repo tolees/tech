@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZLJ5MG-es SanDisk Memoria Flash Ultra USB 3.0 de 512 GB hasta 130...'
+sku: 'B083ZLJ5MG-es'
 tags: [ 'sandisk', ]
 actualPrice: 83.49 EUR
 currency: EUR

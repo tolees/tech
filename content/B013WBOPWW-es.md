@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WBOPWW-es Sostenedor para télefono móvil Breett soporte universal de...'
+sku: 'B013WBOPWW-es'
 tags: [ 'gps','iphone','móvil', ]
 actualPrice: 9.95 EUR
 currency: EUR

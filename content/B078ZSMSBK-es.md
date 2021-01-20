@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZSMSBK-es HP Z24n G2 - Monitor profesional de 24” ajustable en...'
+sku: 'B078ZSMSBK-es'
 tags: [ 'ips', ]
 actualPrice: 274.9 EUR
 currency: EUR

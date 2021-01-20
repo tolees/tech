@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTJC59X-es BONAI Bateria Externa Wireless 12000mAh 2 In 1 Cargador...'
+sku: 'B07FTJC59X-es'
 tags: [ 'galaxy','iphone','móvil','samsung', ]
 actualPrice: 24.99 EUR
 currency: EUR

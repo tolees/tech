@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSDVRP5-es ZhuoFan Funda Xiaomi Redmi Note 6 Pro Cárcasa Silicona 3D...'
+sku: 'B07MSDVRP5-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

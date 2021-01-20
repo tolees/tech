@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SJRMB6-es Cámara web Dericam HD 1080P cámara web USB para...'
+sku: 'B083SJRMB6-es'
 tags: [ '1080p', ]
 actualPrice: 28.93 EUR
 currency: EUR

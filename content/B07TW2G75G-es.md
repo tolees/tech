@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW2G75G-es Lenovo S340-15IWL - Ordenador portátil 15.6" FullHD Intel...'
+sku: 'B07TW2G75G-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 641.16 EUR
 currency: EUR

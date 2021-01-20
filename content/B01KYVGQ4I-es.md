@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KYVGQ4I-es YATEK Localizador GPS portatil Inteligente gsm para...'
+sku: 'B01KYVGQ4I-es'
 tags: [ 'gps', ]
 actualPrice: 95.2 EUR
 currency: EUR

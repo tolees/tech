@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G76RDBH-es PRIXTON - Tocadiscos de Vinilos Vintage y Reproductor mp3...'
+sku: 'B07G76RDBH-es'
 tags: [ 'bluetooth', ]
 actualPrice: 54.95 EUR
 currency: EUR

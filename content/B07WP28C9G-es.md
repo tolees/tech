@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP28C9G-es AROYI Carcasa Xiaomi Redmi Note 8 Funda Silicona &...'
+sku: 'B07WP28C9G-es'
 tags: [ 'smartphone','xiaomi', ]
 actualPrice: 8.98 EUR
 currency: EUR

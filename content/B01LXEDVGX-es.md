@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXEDVGX-es HP Spectre 13-v101ns - Ordenador portátil de 13.3" Intel...'
+sku: 'B01LXEDVGX-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1352.05 EUR
 currency: EUR

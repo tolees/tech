@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUCGMNQ-es Panasonic HC-V180 - Videocámara de 50x O.I.S de 5 Ejes...'
+sku: 'B01FUCGMNQ-es'
 tags: [ 'panasonic', ]
 actualPrice: 169.15 EUR
 currency: EUR

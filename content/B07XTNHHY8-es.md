@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTNHHY8-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
+sku: 'B07XTNHHY8-es'
 tags: [ 'iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T18P2QH-es INPHIC - Ratón Gaming con Cable Ratón Gamer ergonómico USB...'
+sku: 'B07T18P2QH-es'
 tags: [ 'ordenador','ratón', ]
 actualPrice: 13.99 EUR
 currency: EUR

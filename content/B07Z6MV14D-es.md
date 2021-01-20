@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6MV14D-es ASUS ROG Strix - Portátil Gaming de 17 3" FullHD Intel...'
+sku: 'B07Z6MV14D-es'
 tags: [ 'asus','ram','teclado', ]
 actualPrice: 1486.78 EUR
 currency: EUR

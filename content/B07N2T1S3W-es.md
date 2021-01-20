@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2T1S3W-es LG HF80LSR Proyector Full HD 1920 x 1080 hasta 120" Fuente...'
+sku: 'B07N2T1S3W-es'
 tags: [ 'bluetooth','full','hd', ]
 actualPrice: 949.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRXF15N-es Tenda Wireless Router Adaptador USB WiFi Enrutador Wi-Fi...'
+sku: 'B07CRXF15N-es'
 tags: [ 'wifi', ]
 actualPrice: 59.49 EUR
 currency: EUR

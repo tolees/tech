@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVNBT8J-es Unidad de disco duro externo delgada unidad de...'
+sku: 'B08CVNBT8J-es'
 tags: [ 'disco','duro', ]
 actualPrice: 55.99 EUR
 currency: EUR

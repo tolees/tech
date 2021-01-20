@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894HSVXL-es AtailorBird Alfombrilla Ratón Grande Alfombrilla...'
+sku: 'B0894HSVXL-es'
 tags: [ 'ratón','teclado', ]
 actualPrice: 13.99 EUR
 currency: EUR

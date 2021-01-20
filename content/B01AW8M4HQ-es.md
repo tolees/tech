@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AW8M4HQ-es Fujifilm X-A5 Kit con ópticas Fujinon XC15-45mm +...'
+sku: 'B01AW8M4HQ-es'
 tags: [ 'fujifilm', ]
 actualPrice: 444.63 EUR
 currency: EUR

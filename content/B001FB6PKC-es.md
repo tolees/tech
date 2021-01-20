@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FB6PKC-es Tamron SP AF 90 mm F/2.8 di Macro 1:1 - Objetivo para...'
+sku: 'B001FB6PKC-es'
 tags: [ 'nikon', ]
 actualPrice: 373.0 EUR
 currency: EUR

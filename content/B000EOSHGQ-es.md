@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EOSHGQ-es Nikon AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED - Objetivo...'
+sku: 'B000EOSHGQ-es'
 tags: [ 'nikon', ]
 actualPrice: 784.8 EUR
 currency: EUR

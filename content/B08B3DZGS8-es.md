@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3DZGS8-es FAGORY Ratón Inalámbrico 2 4 GHz con Mini Receptor USB 7...'
+sku: 'B08B3DZGS8-es'
 tags: [ 'ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR

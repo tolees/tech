@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEHKTTW-es Tecnoware Sistema de alimentación ininterrumpida SAI Era...'
+sku: 'B01MEHKTTW-es'
 tags: [ 'wifi', ]
 actualPrice: 89.9 EUR
 currency: EUR

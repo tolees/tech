@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHTGLL2-es ALCATEL 3X Smartphone Quad Core 1.28 GHz Android N 5.7"...'
+sku: 'B07CHTGLL2-es'
 tags: [ 'ram','smartphone', ]
 actualPrice: 99.99 EUR
 currency: EUR

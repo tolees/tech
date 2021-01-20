@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBZ1G61-es Ushining Teléfono Móvils Basico Teléfono Móvil para...'
+sku: 'B07VBZ1G61-es'
 tags: [ 'móvil', ]
 actualPrice: 16.04 EUR
 currency: EUR

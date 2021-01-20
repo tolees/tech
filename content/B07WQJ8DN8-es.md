@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQJ8DN8-es Polar Ignite – Reloj de fitness con GPS integrado...'
+sku: 'B07WQJ8DN8-es'
 tags: [ 'gps', ]
 actualPrice: 182.99 EUR
 currency: EUR

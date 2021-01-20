@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q5VBVK-es Cámara Digital para Niños 8MP Digital Cámaras Fotos...'
+sku: 'B087Q5VBVK-es'
 tags: [ '1080p', ]
 actualPrice: 23.89 EUR
 currency: EUR

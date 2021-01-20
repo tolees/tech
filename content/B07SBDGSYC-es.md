@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBDGSYC-es SoundPEATS Auriculares inalámbricos Auriculares TWS...'
+sku: 'B07SBDGSYC-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 28.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KMQ9HL-es Proyector WiMiUS 5500 Lúmenes Proyector Portátil Full HD...'
+sku: 'B082KMQ9HL-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 88.05 EUR
 currency: EUR

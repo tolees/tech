@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CR7LTVL-es Abasic Correa de Reloj Reemplazo Compatible con Galaxy...'
+sku: 'B08CR7LTVL-es'
 tags: [ 'galaxy', ]
 actualPrice: 4.9 EUR
 currency: EUR

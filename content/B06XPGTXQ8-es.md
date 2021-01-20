@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPGTXQ8-es Macally ASTAND soporte de aluminio para portátiles Apple...'
+sku: 'B06XPGTXQ8-es'
 tags: [ 'apple', ]
 actualPrice: 29.0 EUR
 currency: EUR

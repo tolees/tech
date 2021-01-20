@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKCLQHD-es AmazonBasics - Funda para ordenador portátil urbana de 39...'
+sku: 'B07QKCLQHD-es'
 tags: [ 'ordenador', ]
 actualPrice: 10.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKGY77X-es PINALL 2 Cartucho Compatible HP 302XL para HP DeskJet 3639...'
+sku: 'B07YKGY77X-es'
 tags: [ 'impresora', ]
 actualPrice: 39.86 EUR
 currency: EUR

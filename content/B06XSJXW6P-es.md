@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSJXW6P-es RLSOCO Externo CD Burner CD-RW DVD-R Combo Reader Writer...'
+sku: 'B06XSJXW6P-es'
 tags: [ 'apple','asus', ]
 actualPrice: 11.99 EUR
 currency: EUR

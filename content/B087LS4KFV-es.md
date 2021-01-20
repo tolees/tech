@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LS4KFV-es Oihxse Silicona Funda con Sony Xperia 10 TPU Flexible...'
+sku: 'B087LS4KFV-es'
 tags: [ 'sony', ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YMZ4S6-es Mini Ventilador USB COO Mini USB Ventilador de Mesa...'
+sku: 'B071YMZ4S6-es'
 tags: [ 'ordenador', ]
 actualPrice: 10.99 EUR
 currency: EUR

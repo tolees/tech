@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXC716L-es Hoover AWMPD 410 LH8/1-S - Lavadora carga frontal 10Kgs...'
+sku: 'B07GXC716L-es'
 tags: [ 'bluetooth','wifi', ]
 actualPrice: 508.95 EUR
 currency: EUR

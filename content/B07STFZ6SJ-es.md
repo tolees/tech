@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFZ6SJ-es Coronel Tapiocca Red Maletín Ordenador Red 39 x 27 x 7 cm...'
+sku: 'B07STFZ6SJ-es'
 tags: [ 'ordenador', ]
 actualPrice: 46.39 EUR
 currency: EUR

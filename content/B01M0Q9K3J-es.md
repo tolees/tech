@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0Q9K3J-es Auriculares Inalámbricos Powerbeats3 Wireless Bluetooth -...'
+sku: 'B01M0Q9K3J-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 150.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWWLRJP-es Sonos One SL - Altavoz Inteligente Compacto y Potente con...'
+sku: 'B07WWWLRJP-es'
 tags: [ 'altavoz', ]
 actualPrice: 159.0 EUR
 currency: EUR

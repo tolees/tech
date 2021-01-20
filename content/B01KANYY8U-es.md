@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KANYY8U-es Rankie Cable DisplayPort a DVI 1080P 1 8m Negro'
+sku: 'B01KANYY8U-es'
 tags: [ '1080p', ]
 actualPrice: 6.36 EUR
 currency: EUR

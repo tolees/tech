@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UXZQ42-es Logitech ClearChat Comfort USB Binaural Negro -...'
+sku: 'B000UXZQ42-es'
 tags: [ 'auriculares','logitech', ]
 actualPrice: 57.99 EUR
 currency: EUR

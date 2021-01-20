@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2VLJL1-es Edifier W820BT Auriculares Bluetooth - Auricular...'
+sku: 'B07G2VLJL1-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 38.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTJ7XHQ-es Ferilinso Protector de Lente de cámara para Huawei Mate 20...'
+sku: 'B07GTJ7XHQ-es'
 tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR

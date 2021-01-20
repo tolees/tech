@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M78H8XM-es MSI GS65 Stealth 8SG-031ES - Ordenador portátil Gaming...'
+sku: 'B07M78H8XM-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2294.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822VSCV6-es Funda para Xiaomi Mi Note 10 / Note 10 Pro 360 Grados...'
+sku: 'B0822VSCV6-es'
 tags: [ 'xiaomi', ]
 actualPrice: 12.99 EUR
 currency: EUR

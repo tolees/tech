@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWY4PJ1-es Auriculares In Ear Zorara Auriculares Estéreo 9D Aislante...'
+sku: 'B07XWY4PJ1-es'
 tags: [ 'auriculares','auriculares','estéreo', ]
 actualPrice: 7.99 EUR
 currency: EUR

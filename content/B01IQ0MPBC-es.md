@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQ0MPBC-es Sunstech PXRC5CDWD - Giradiscos Bluetooth CD Cassette...'
+sku: 'B01IQ0MPBC-es'
 tags: [ 'bluetooth', ]
 actualPrice: 123.14 EUR
 currency: EUR

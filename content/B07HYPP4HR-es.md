@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYPP4HR-es Lenovo Ideapad 720S-13IKBR - Ordenador Portátil ultrafino...'
+sku: 'B07HYPP4HR-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 786.8 EUR
 currency: EUR

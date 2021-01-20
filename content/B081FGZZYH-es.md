@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FGZZYH-es HP Color Laserjet Pro MFP M282NW Impresora Láser 8.5 x 14...'
+sku: 'B081FGZZYH-es'
 tags: [ 'impresora', ]
 actualPrice: 271.2 EUR
 currency: EUR

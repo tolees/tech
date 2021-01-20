@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KNKBQ1-es Crucial CT8G4SFS8266 Memoria RAM de 8 GB DDR4 2666 MT/s...'
+sku: 'B071KNKBQ1-es'
 tags: [ 'ram', ]
 actualPrice: 30.98 EUR
 currency: EUR

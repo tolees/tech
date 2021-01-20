@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNWL2D3-es Fujifilm X-T30 Kit con Objetivo XF18-55mmF2.8-4 R LM OIS...'
+sku: 'B07NNWL2D3-es'
 tags: [ 'fujifilm', ]
 actualPrice: 1099.9 EUR
 currency: EUR

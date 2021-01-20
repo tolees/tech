@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB394TR-es LEXIN 2x B4FM Intercomunicador Casco Moto Moto Bluetooth...'
+sku: 'B07GB394TR-es'
 tags: [ 'bluetooth', ]
 actualPrice: 159.99 EUR
 currency: EUR

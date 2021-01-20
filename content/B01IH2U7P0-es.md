@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IH2U7P0-es SODIAL 5 PCS de 3.5 pulgadas IDE Portatil Sata HDD Estuche...'
+sku: 'B01IH2U7P0-es'
 tags: [ 'disco','duro', ]
 actualPrice: 10.04 EUR
 currency: EUR

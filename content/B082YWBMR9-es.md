@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YWBMR9-es Mesa para ordenador portátil bandeja para servir el...'
+sku: 'B082YWBMR9-es'
 tags: [ 'ordenador', ]
 actualPrice: 34.9 EUR
 currency: EUR

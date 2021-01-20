@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NFYQKY-es Mini Ventilador USB COO Mini USB Ventilador de Mesa...'
+sku: 'B071NFYQKY-es'
 tags: [ 'ordenador', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HR4VM-es Yamaha MusicCast 50 - Altavoz Color Negro'
+sku: 'B07F7HR4VM-es'
 tags: [ 'altavoz', ]
 actualPrice: 399.2 EUR
 currency: EUR

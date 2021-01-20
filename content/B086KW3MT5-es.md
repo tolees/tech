@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KW3MT5-es WINMI Para Motorola Moto G8 Power Funda Translúcido...'
+sku: 'B086KW3MT5-es'
 tags: [ 'motorola', ]
 actualPrice: 8.55 EUR
 currency: EUR

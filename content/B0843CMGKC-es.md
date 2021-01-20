@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843CMGKC-es PRIXTON Cinema Mini - Mini Proyector Portatil / Proyector...'
+sku: 'B0843CMGKC-es'
 tags: [ 'microsd','full','hd', ]
 actualPrice: 39.95 EUR
 currency: EUR

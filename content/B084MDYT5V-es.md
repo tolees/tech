@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084MDYT5V-es 2020 Nuevos Auriculares inalámbricos Bluetooth Touch...'
+sku: 'B084MDYT5V-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 23.99 EUR
 currency: EUR

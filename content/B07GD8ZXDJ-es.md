@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GD8ZXDJ-es Emporio Armani Smartwatch ART5007'
+sku: 'B07GD8ZXDJ-es'
 tags: [ 'smartwatch', ]
 actualPrice: 255.0 EUR
 currency: EUR

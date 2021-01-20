@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843SYHHR-es PRIXTON Lumière - Proyector portatil / Proyector LED...'
+sku: 'B0843SYHHR-es'
 tags: [ 'microsd','full','hd', ]
 actualPrice: 89.95 EUR
 currency: EUR

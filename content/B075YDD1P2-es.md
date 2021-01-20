@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YDD1P2-es Razer - Auriculares Gamer inalámbricos'
+sku: 'B075YDD1P2-es'
 tags: [ 'auriculares', ]
 actualPrice: 133.9 EUR
 currency: EUR

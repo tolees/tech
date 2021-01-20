@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C96CJV0-es Brother - Impresora láser Profesional Monocromo Bandeja...'
+sku: 'B01C96CJV0-es'
 tags: [ 'impresora', ]
 actualPrice: 229.14 EUR
 currency: EUR

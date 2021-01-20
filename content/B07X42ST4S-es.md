@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X42ST4S-es DYNASONIC - Auriculares Bluetooth Inalámbricos Juveniles...'
+sku: 'B07X42ST4S-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 24.4 EUR
 currency: EUR

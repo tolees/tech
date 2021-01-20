@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJHQLTK-es AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio Templado...'
+sku: 'B07ZJHQLTK-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7NJ1FX-es HP Smart Tank Plus 555 - Impresora multifunción imprime...'
+sku: 'B07V7NJ1FX-es'
 tags: [ 'impresora','móvil', ]
 actualPrice: 201.0 EUR
 currency: EUR

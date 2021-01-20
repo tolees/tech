@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVFWW42-es [4-Pack] Protector de Pantalla para iPhone 6s iPhone 6...'
+sku: 'B07JVFWW42-es'
 tags: [ 'iphone', ]
 actualPrice: 4.63 EUR
 currency: EUR

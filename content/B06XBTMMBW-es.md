@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBTMMBW-es Sony SRS-XB10 Altavoz Inalámbrico Portátil Bluetooth Azul'
+sku: 'B06XBTMMBW-es'
 tags: [ 'bluetooth','sony','altavoz', ]
 actualPrice: 49.61 EUR
 currency: EUR

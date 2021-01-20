@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792CYMCN-es Acer ED242QR LED Display 59 9 cm 23.6" Full HD Curva Negro...'
+sku: 'B0792CYMCN-es'
 tags: [ 'full','hd', ]
 actualPrice: 134.0 EUR
 currency: EUR

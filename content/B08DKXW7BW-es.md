@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKXW7BW-es Xiaomi Mi True Wireless Earphones 2S.'
+sku: 'B08DKXW7BW-es'
 tags: [ 'xiaomi', ]
 actualPrice: 50.99 EUR
 currency: EUR
@@ -27,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi True Wireless Earphones 2S.](https://www.amazon.es
 🔎:
 
 - Carga rápida en 1 hora.
+- Sonido de alta calidad.
+- Compatible con cargador inalámbrico.
 - Máxima comodidad gracias a su diseño ergonómico.
 - Cada auricular funciona independientemente de la otra.
-- Compatible con cargador inalámbrico.
 - 5 horas de batería con carga completa, 24 horas con la carcasa de carga.
-- Sonido de alta calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DKXW7BW/?tag=tolees-21)

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7TLJTL-es Alapmk Diseñado Especialmente La Funda Protectora de Cuero...'
+sku: 'B07R7TLJTL-es'
 tags: [ 'asus','galaxy','ordenador', ]
 actualPrice: 21.99 EUR
 currency: EUR

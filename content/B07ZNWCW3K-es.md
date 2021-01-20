@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNWCW3K-es OneOdio FUSION A7 Auricurales Circumaurales Inalámbricos...'
+sku: 'B07ZNWCW3K-es'
 tags: [ 'bluetooth', ]
 actualPrice: 38.24 EUR
 currency: EUR

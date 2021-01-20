@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F9MLJJ-es Western Digital WD10SPZX - Disco Duro Interno HDD 1TB 5400...'
+sku: 'B071F9MLJJ-es'
 tags: [ 'disco','duro', ]
 actualPrice: 41.04 EUR
 currency: EUR

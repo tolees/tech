@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPKHHV-es MEDION X30 RGB - Ordenador de sobremesa gaming Intel Core...'
+sku: 'B07NDPKHHV-es'
 tags: [ 'ordenador','ram', ]
 actualPrice: 579.99 EUR
 currency: EUR

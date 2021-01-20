@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087R9JNQK-es OOWOLF HD Webcam Cámara Web Full HD 1080P con Micrófono...'
+sku: 'B087R9JNQK-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 25.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQRSQQT-es Suunto 9 Baro Reloj deportivo GPS con batería de larga...'
+sku: 'B07HQRSQQT-es'
 tags: [ 'gps','suunto', ]
 actualPrice: 552.98 EUR
 currency: EUR

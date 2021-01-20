@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HH8A2D8-es Sony HDR-CX240E - Videocámara color negro'
+sku: 'B00HH8A2D8-es'
 tags: [ 'sony', ]
 actualPrice: 174.0 EUR
 currency: EUR

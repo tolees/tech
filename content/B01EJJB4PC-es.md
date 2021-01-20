@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EJJB4PC-es Microsoft p3q-00012 V2 Adaptador de Pantalla inalámbrico'
+sku: 'B01EJJB4PC-es'
 tags: [ 'microsoft', ]
 actualPrice: 61.01 EUR
 currency: EUR

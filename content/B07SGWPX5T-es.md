@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGWPX5T-es Cocoda Soporte Tablet Universal Soportes Movil iPad Mesa...'
+sku: 'B07SGWPX5T-es'
 tags: [ 'galaxy','iphone','samsung','tablet', ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHGH3K7-es Solar PowerBank 26800mAh Cargador Solar QI Carga...'
+sku: 'B07XHGH3K7-es'
 tags: [ 'móvil', ]
 actualPrice: 35.62 EUR
 currency: EUR

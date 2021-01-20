@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KBP5RV-es Fitbit Ionic El Smartwatch Deportivo Carbón/Gris Cobalto'
+sku: 'B074KBP5RV-es'
 tags: [ 'smartwatch', ]
 actualPrice: 199.95 EUR
 currency: EUR

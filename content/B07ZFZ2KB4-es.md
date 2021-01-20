@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFZ2KB4-es FR-TEC - Auriculares Gaming Headset Sword Azul Nintendo...'
+sku: 'B07ZFZ2KB4-es'
 tags: [ 'auriculares','nintendo','nintendo','switch', ]
 actualPrice: 16.52 EUR
 currency: EUR

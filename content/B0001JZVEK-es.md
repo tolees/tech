@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001JZVEK-es D-Link DGS-1005D – Switch de red con 5 puertos Gigabit...'
+sku: 'B0001JZVEK-es'
 tags: [ 'gigabit', ]
 actualPrice: 17.0 EUR
 currency: EUR

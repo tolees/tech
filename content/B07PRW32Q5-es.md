@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRW32Q5-es Reebok Cinta de Correr SL8.0 - Motor 3HP DC - Velocidad...'
+sku: 'B07PRW32Q5-es'
 tags: [ 'bluetooth', ]
 actualPrice: 1039.0 EUR
 currency: EUR

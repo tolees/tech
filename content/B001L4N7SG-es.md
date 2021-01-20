@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001L4N7SG-es Panasonic RP-HS47E-W - Auriculares de Clip Compactos...'
+sku: 'B001L4N7SG-es'
 tags: [ 'auriculares','panasonic', ]
 actualPrice: 12.76 EUR
 currency: EUR

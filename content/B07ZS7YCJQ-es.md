@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZS7YCJQ-es Houzetek Comedero Automático Gatos/Perros dispensador de...'
+sku: 'B07ZS7YCJQ-es'
 tags: [ '1080p','wifi', ]
 actualPrice: 169.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNJGM1G-es UNBREAKcable Protector de Pantalla para iPhone X iPhone XS...'
+sku: 'B07JNJGM1G-es'
 tags: [ 'iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR

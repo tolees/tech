@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVX3TCI-es MELON N89A Antena wifi exterior e interior 2000mw + 24 dbi...'
+sku: 'B00EVX3TCI-es'
 tags: [ 'wifi', ]
 actualPrice: 28.95 EUR
 currency: EUR

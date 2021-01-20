@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT7V58N-es Withings Pulse HR-Pulsera conectada de Actividad Unisex...'
+sku: 'B07QT7V58N-es'
 tags: [ 'withings', ]
 actualPrice: 79.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC2PH2Z-es OLTA Auriculares In-Ear con micrófono Auriculares para...'
+sku: 'B07FC2PH2Z-es'
 tags: [ 'auriculares','móvil', ]
 actualPrice: 12.99 EUR
 currency: EUR

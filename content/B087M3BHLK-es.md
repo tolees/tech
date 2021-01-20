@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M3BHLK-es Oihxse Silicona Funda con Samsung Galaxy M10 TPU Flexible...'
+sku: 'B087M3BHLK-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KNM1TM-es QTX 8 – Controlador para QR8 altavoz armario'
+sku: 'B003KNM1TM-es'
 tags: [ 'altavoz', ]
 actualPrice: 29.49 EUR
 currency: EUR

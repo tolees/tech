@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRVL4KY-es Yosou Cable USB C [2Pack 2M] Cargador USB Tipo C Rápida...'
+sku: 'B07PRVL4KY-es'
 tags: [ 'galaxy','huawei','samsung','sony','xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MLXOOB0-es Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20 W con...'
+sku: 'B00MLXOOB0-es'
 tags: [ 'bluetooth','sony', ]
 actualPrice: 160.0 EUR
 currency: EUR

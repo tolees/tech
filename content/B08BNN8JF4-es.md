@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNN8JF4-es NEWHEY Bolsa Mensajero Maletin Hombre Vintage Resistentes...'
+sku: 'B08BNN8JF4-es'
 tags: [ 'ordenador', ]
 actualPrice: 37.86 EUR
 currency: EUR

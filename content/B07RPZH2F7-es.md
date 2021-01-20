@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPZH2F7-es Godox AD200Pro Pocket Flash Portatil inalámbrico TTL con...'
+sku: 'B07RPZH2F7-es'
 tags: [ 'fujifilm','nikon','sony', ]
 actualPrice: 283.48 EUR
 currency: EUR

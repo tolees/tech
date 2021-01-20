@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP1ST8R-es Xiaomi Mi - Ratón inalámbrico Color Blanco'
+sku: 'B07RP1ST8R-es'
 tags: [ 'ratón','xiaomi', ]
 actualPrice: 10.99 EUR
 currency: EUR

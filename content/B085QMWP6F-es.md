@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QMWP6F-es NGS Roller Coaster Blue - Altavoz portátil de 10W...'
+sku: 'B085QMWP6F-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 19.49 EUR
 currency: EUR

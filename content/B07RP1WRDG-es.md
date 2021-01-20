@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP1WRDG-es Urban Armor Gear Plyo Funda para Apple Ipad Air 3 2019 /...'
+sku: 'B07RP1WRDG-es'
 tags: [ 'apple', ]
 actualPrice: 49.99 EUR
 currency: EUR

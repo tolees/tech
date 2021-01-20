@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVRLPMM-es HP Z3700 - Ratón'
+sku: 'B07MVRLPMM-es'
 tags: [ 'ratón', ]
 actualPrice: 14.99 EUR
 currency: EUR

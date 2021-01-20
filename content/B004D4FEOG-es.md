@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004D4FEOG-es GO Inks E-711 – Juego de 4 cartuchos de tinta para...'
+sku: 'B004D4FEOG-es'
 tags: [ 'impresora', ]
 actualPrice: 9.0 EUR
 currency: EUR

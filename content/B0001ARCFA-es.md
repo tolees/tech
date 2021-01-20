@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001ARCFA-es AKG K240 Studio - Semi Open - Auriculares profesionales...'
+sku: 'B0001ARCFA-es'
 tags: [ 'auriculares', ]
 actualPrice: 49.0 EUR
 currency: EUR

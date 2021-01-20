@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STXFZFL-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
+sku: 'B07STXFZFL-es'
 tags: [ 'apple','auriculares','bluetooth', ]
 actualPrice: 166.99 EUR
 currency: EUR

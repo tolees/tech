@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZDHYJ7-es Xuanbeier Funda Carcasa Compatible con Samsung Galaxy Tab...'
+sku: 'B07SZDHYJ7-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 12.99 EUR
 currency: EUR

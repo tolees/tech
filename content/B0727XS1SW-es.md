@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0727XS1SW-es HOREVO Plafonnier Plafón LED Lámpara de Techo con Altavoz...'
+sku: 'B0727XS1SW-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 50.99 EUR
 currency: EUR

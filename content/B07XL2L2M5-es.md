@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL2L2M5-es MSI Prestige 15 A10SC-060XES - Ordenador portátil 15.6"...'
+sku: 'B07XL2L2M5-es'
 tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1349.0 EUR
 currency: EUR

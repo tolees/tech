@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLX8KK-es MKTOSASA - Auriculares Bluetooth® Doble función:...'
+sku: 'B085LLX8KK-es'
 tags: [ 'auriculares', ]
 actualPrice: 38.25 EUR
 currency: EUR

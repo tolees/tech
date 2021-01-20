@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734DH4NX-es Asus ROG Pugio - Ratón óptico por cable diseño ambidiestro...'
+sku: 'B0734DH4NX-es'
 tags: [ 'asus','ratón', ]
 actualPrice: 49.99 EUR
 currency: EUR

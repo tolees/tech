@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFMXHXJ-es Riñonera Running cintura cinturón deportiva Belt botella...'
+sku: 'B07YFMXHXJ-es'
 tags: [ 'iphone','samsung', ]
 actualPrice: 19.99 EUR
 currency: EUR

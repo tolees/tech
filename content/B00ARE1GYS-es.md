@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ARE1GYS-es Samsung GE87M-X/Xec - Microondas con Grill 800 W/ 1100 W...'
+sku: 'B00ARE1GYS-es'
 tags: [ 'samsung', ]
 actualPrice: 109.0 EUR
 currency: EUR

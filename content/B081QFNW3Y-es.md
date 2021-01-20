@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QFNW3Y-es Newskill Suiko Switch Red - Teclado Mecánico Gaming con...'
+sku: 'B081QFNW3Y-es'
 tags: [ 'teclado', ]
 actualPrice: 58.99 EUR
 currency: EUR

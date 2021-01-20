@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QBSV87-es Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsillo Color Negro'
+sku: 'B077QBSV87-es'
 tags: [ 'xiaomi','altavoz', ]
 actualPrice: 24.99 EUR
 currency: EUR

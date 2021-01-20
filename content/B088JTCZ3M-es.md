@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088JTCZ3M-es Foyar - Tarjeta de captura HDMI USB 3.0 1080P 4K 60 fps...'
+sku: 'B088JTCZ3M-es'
 tags: [ '1080p', ]
 actualPrice: 20.0 EUR
 currency: EUR

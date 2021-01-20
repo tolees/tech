@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLM1GKE-es ASUS DUAL-GTX1060-3G - Tarjeta gráfica Dual NVIDIA GeForce...'
+sku: 'B01KLM1GKE-es'
 tags: [ 'asus', ]
 actualPrice: 210.49 EUR
 currency: EUR

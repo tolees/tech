@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFJ15RB-es Arbily Auriculares Inalámbricos Bluetooth 5.0 con Caja de...'
+sku: 'B07XFJ15RB-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 9.99 EUR
 currency: EUR

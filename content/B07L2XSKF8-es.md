@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2XSKF8-es TOPESEL 64GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive...'
+sku: 'B07L2XSKF8-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 11.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZ62JRZ-es HP OMEN 400 - Ratón para gaming negro'
+sku: 'B07DZ62JRZ-es'
 tags: [ 'ratón', ]
 actualPrice: 19.99 EUR
 currency: EUR

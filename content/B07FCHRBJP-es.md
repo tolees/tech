@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCHRBJP-es hevc Receptor de Satélite Kepnix Nano Adaptador WiFi...'
+sku: 'B07FCHRBJP-es'
 tags: [ '1080p','wifi', ]
 actualPrice: 25.99 EUR
 currency: EUR

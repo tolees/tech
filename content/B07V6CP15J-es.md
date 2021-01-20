@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6CP15J-es Mixcder E7 Auriculares Bluetooth 5.0 con Cancelacón Activa...'
+sku: 'B07V6CP15J-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 48.44 EUR
 currency: EUR

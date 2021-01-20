@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTPP64-es TopMate Cargador portátil Power Bank 20000 mAh Batería...'
+sku: 'B07WVTPP64-es'
 tags: [ 'móvil', ]
 actualPrice: 13.99 EUR
 currency: EUR

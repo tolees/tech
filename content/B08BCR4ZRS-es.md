@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCR4ZRS-es MSI B550M Pro-VDH WiFi - Placa Base Pro Series AMD Ryzen...'
+sku: 'B08BCR4ZRS-es'
 tags: [ 'wifi', ]
 actualPrice: 109.9 EUR
 currency: EUR

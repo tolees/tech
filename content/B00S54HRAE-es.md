@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
+sku: 'B00S54HRAE-es'
 tags: [ 'iphone', ]
 actualPrice: 26.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THGN2BH-es Unico - Altavoz Bluetooth 5 0 Luces LED Altavoces...'
+sku: 'B07THGN2BH-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 22.99 EUR
 currency: EUR

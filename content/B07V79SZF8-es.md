@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V79SZF8-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
+sku: 'B07V79SZF8-es'
 tags: [ 'ordenador', ]
 actualPrice: 31.99 EUR
 currency: EUR

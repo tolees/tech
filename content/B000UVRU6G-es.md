@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UVRU6G-es SteelSeries QcK+ - Alfombrilla de ratón de juego 450mm x...'
+sku: 'B000UVRU6G-es'
 tags: [ 'ratón', ]
 actualPrice: 13.99 EUR
 currency: EUR

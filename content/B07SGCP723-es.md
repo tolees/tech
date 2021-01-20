@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGCP723-es Lixada Antideslizante Bicicleta Soporte de Teléfono...'
+sku: 'B07SGCP723-es'
 tags: [ 'móvil', ]
 actualPrice: 13.99 EUR
 currency: EUR

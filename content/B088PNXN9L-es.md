@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PNXN9L-es ASUS TUF Gaming FX505DV-AL116 - Ordenador portátil de...'
+sku: 'B088PNXN9L-es'
 tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 999.0 EUR
 currency: EUR

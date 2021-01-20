@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPCAJDC-es HP 20kd - Monitor de 19 5" IPS 1440 x 900 8 ms VGA 60 Hz...'
+sku: 'B01DPCAJDC-es'
 tags: [ 'ips', ]
 actualPrice: 75.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBQCFCF-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
+sku: 'B07NBQCFCF-es'
 tags: [ 'apple', ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF9LLMM-es GOZAR Scooter Eléctrico Motocicleta Bloqueo O Forma...'
+sku: 'B07KF9LLMM-es'
 tags: [ 'xiaomi', ]
 actualPrice: 18.53 EUR
 currency: EUR

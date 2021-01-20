@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MFLG7Z-es TedGem Webcam Web CAM Webcam 1080p Camara Web Webcam Full...'
+sku: 'B088MFLG7Z-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 21.24 EUR
 currency: EUR

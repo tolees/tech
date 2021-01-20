@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SCGNT-es Nuevo Apple iPad Pro de 11 Pulgadas con Wi-Fi + Cellular y...'
+sku: 'B0863SCGNT-es'
 tags: [ 'apple', ]
 actualPrice: 1350.01 EUR
 currency: EUR

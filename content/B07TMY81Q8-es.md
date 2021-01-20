@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMY81Q8-es Funda Bateria para iPhone X/XS/10 FLYLINKTECH 4000mAh...'
+sku: 'B07TMY81Q8-es'
 tags: [ 'iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR

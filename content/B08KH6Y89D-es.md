@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KH6Y89D-es Echo Show 5: mantén el contacto con la ayuda de Alexa...'
+sku: 'B08KH6Y89D-es'
 tags: [ '1080p','alexa','wifi', ]
 actualPrice: 214.99 EUR
 currency: EUR

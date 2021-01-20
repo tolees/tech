@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089T3SHSN-es Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD Intel...'
+sku: 'B089T3SHSN-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 579.99 EUR
 currency: EUR

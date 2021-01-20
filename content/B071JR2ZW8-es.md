@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JR2ZW8-es ASUS XG-C100C - Adaptador de Red 10 Gigabit PCI Express...'
+sku: 'B071JR2ZW8-es'
 tags: [ 'asus','gigabit', ]
 actualPrice: 77.99 EUR
 currency: EUR

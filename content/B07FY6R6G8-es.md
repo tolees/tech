@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY6R6G8-es Corsair K70 MK.2 RGB - Teclado mecánico Gaming...'
+sku: 'B07FY6R6G8-es'
 tags: [ 'teclado', ]
 actualPrice: 129.99 EUR
 currency: EUR

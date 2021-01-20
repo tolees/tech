@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QSLGK6-es VGANA Funda y Xiaomi Redmi Note 9S 360° Soporte Magnético...'
+sku: 'B086QSLGK6-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

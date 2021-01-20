@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4R8QGM-es Sony Alpha ILCE7M3 + SEL2870 - Cámara de 24.2 MP color negro'
+sku: 'B07B4R8QGM-es'
 tags: [ 'sony', ]
 actualPrice: 2124.15 EUR
 currency: EUR

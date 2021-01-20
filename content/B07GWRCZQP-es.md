@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWRCZQP-es JBL Charge 4 - Altavoz inalámbrico portátil Impermeable...'
+sku: 'B07GWRCZQP-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 106.25 EUR
 currency: EUR

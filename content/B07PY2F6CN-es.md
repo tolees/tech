@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY2F6CN-es 2X Funda Xiaomi Redmi Note 7 Cárcasa Silicona Transparente...'
+sku: 'B07PY2F6CN-es'
 tags: [ 'móvil','xiaomi', ]
 actualPrice: 1.01 EUR
 currency: EUR

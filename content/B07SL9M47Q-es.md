@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL9M47Q-es FreeLeben Xiaomi Scooter Eléctrico Disco de Freno Disco de...'
+sku: 'B07SL9M47Q-es'
 tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

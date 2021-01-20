@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX2SKMX-es Belkin Valet Charger - Batería externa de 6700 mAh para...'
+sku: 'B01LX2SKMX-es'
 tags: [ 'apple','iphone', ]
 actualPrice: 83.34 EUR
 currency: EUR

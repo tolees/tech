@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K3HEYWK-es Trust Sura - Ratón óptico inalámbrico Negro y Gris'
+sku: 'B00K3HEYWK-es'
 tags: [ 'ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR

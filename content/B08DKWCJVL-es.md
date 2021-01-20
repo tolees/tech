@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKWCJVL-es Xuanbeier Ultra Delgado Funda Compatible con Samsung...'
+sku: 'B08DKWCJVL-es'
 tags: [ 'galaxy','samsung', ]
 actualPrice: 12.95 EUR
 currency: EUR

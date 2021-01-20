@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYTXQSG-es BANLVS 1080P Cámara IP WiFi Cámara de Vigilancia WiFi...'
+sku: 'B07QYTXQSG-es'
 tags: [ '1080p','wifi', ]
 actualPrice: 25.99 EUR
 currency: EUR

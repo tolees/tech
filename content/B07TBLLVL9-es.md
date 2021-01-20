@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBLLVL9-es VicTsing Ratón Inalámbrico Recargable Portátil Silencioso...'
+sku: 'B07TBLLVL9-es'
 tags: [ 'ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR

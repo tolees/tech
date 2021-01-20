@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HNRTFD-es Sony NWWS623 Walkman - Reproductor de MP3 deportivo...'
+sku: 'B071HNRTFD-es'
 tags: [ 'bluetooth','sony', ]
 actualPrice: 125.0 EUR
 currency: EUR

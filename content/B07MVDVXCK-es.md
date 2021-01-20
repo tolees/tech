@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVDVXCK-es Lápiz Capacitivo con Estación de Carga magnética Soporte...'
+sku: 'B07MVDVXCK-es'
 tags: [ 'huawei','iphone','samsung','smartphone', ]
 actualPrice: 28.99 EUR
 currency: EUR

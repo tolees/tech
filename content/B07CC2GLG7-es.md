@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CC2GLG7-es Gigabyte AERO15X v8'
+sku: 'B07CC2GLG7-es'
 tags: [ 'gigabyte', ]
 actualPrice: 1945.12 EUR
 currency: EUR

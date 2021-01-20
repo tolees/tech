@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1JKVP2-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+sku: 'B08G1JKVP2-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 22.99 EUR
 currency: EUR

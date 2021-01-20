@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW9YCFW-es Gohepi Reemplazo para Canon 580XXL 581XXL PGI-580 CLI-581...'
+sku: 'B07RW9YCFW-es'
 tags: [ 'canon', ]
 actualPrice: 15.29 EUR
 currency: EUR

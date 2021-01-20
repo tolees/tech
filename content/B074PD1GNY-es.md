@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PD1GNY-es AboveTEK - Soporte de ventosa para teléfono móvil gran...'
+sku: 'B074PD1GNY-es'
 tags: [ 'móvil', ]
 actualPrice: 39.99 EUR
 currency: EUR

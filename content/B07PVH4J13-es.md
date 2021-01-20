@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVH4J13-es Hanmir Ventilador de Mano con Bluetooth Mini Ventilador...'
+sku: 'B07PVH4J13-es'
 tags: [ 'bluetooth', ]
 actualPrice: 7.78 EUR
 currency: EUR

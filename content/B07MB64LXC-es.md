@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB64LXC-es Sileu Funda Tablet e iPad Carcasa de Silicona para Niños -...'
+sku: 'B07MB64LXC-es'
 tags: [ 'tablet', ]
 actualPrice: 18.79 EUR
 currency: EUR

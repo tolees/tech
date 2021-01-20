@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFHEYFS-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
+sku: 'B01BFHEYFS-es'
 tags: [ 'asus', ]
 actualPrice: 11.5 EUR
 currency: EUR

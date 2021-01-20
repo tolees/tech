@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHX4PQQ-es Logitech R500 Presentador Inalámbrico 2.4 GHz con Receptor...'
+sku: 'B07CHX4PQQ-es'
 tags: [ 'logitech', ]
 actualPrice: 19.9 EUR
 currency: EUR

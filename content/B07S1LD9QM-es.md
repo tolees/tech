@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1LD9QM-es Mesa de Cama para Ordenador portátil Plegable portátil con...'
+sku: 'B07S1LD9QM-es'
 tags: [ 'ordenador', ]
 actualPrice: 42.0 EUR
 currency: EUR

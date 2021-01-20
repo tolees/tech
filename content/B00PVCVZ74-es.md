@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PVCVZ74-es D-Link DWA-582 – Tarjeta de Red Interna WiFi AC1200 PCI-...'
+sku: 'B00PVCVZ74-es'
 tags: [ 'wifi', ]
 actualPrice: 37.99 EUR
 currency: EUR

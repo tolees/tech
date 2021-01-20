@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HCYTRCY-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
+sku: 'B00HCYTRCY-es'
 tags: [ 'ratón', ]
 actualPrice: 12.99 EUR
 currency: EUR

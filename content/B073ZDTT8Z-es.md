@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZDTT8Z-es ESR Funda para iPhone SE/8/7 [Funda TPU][No...'
+sku: 'B073ZDTT8Z-es'
 tags: [ 'iphone', ]
 actualPrice: 6.29 EUR
 currency: EUR

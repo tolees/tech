@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WXDQK6-es Swonuk USB Cámara Web 1080P con Micrófono Computadora...'
+sku: 'B087WXDQK6-es'
 tags: [ '1080p', ]
 actualPrice: 28.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6NQCRL-es ASUS ZenBook UX410UA-GV426 - Portátil de 14" FullHD Intel...'
+sku: 'B07Z6NQCRL-es'
 tags: [ 'asus','ram','teclado', ]
 actualPrice: 599.99 EUR
 currency: EUR

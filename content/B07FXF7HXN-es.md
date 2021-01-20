@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXF7HXN-es AmazonBasics - auriculares supraurales ligeros Negro'
+sku: 'B07FXF7HXN-es'
 tags: [ 'auriculares', ]
 actualPrice: 15.99 EUR
 currency: EUR

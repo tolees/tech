@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHP4W36-es Soundcore Flare Bluetooth Lautsprecher von Anker Tragbarer...'
+sku: 'B07BHP4W36-es'
 tags: [ 'bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L7QQBM2-es Panasonic KX-TGB210 - Teléfono fijo inalámbrico LCD...'
+sku: 'B00L7QQBM2-es'
 tags: [ 'panasonic', ]
 actualPrice: 17.99 EUR
 currency: EUR

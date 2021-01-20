@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V8B6R6G-es Suunto - Smart Sensor Black HR Belt - Cinturón soporte...'
+sku: 'B00V8B6R6G-es'
 tags: [ 'suunto', ]
 actualPrice: 20.99 EUR
 currency: EUR

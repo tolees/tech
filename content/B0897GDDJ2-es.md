@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897GDDJ2-es ieGeek Webcam 1080P con Soporte USB PC Cámara Web con...'
+sku: 'B0897GDDJ2-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 8.49 EUR
 currency: EUR

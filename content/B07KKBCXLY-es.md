@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKBCXLY-es Raspberry Placa Base PI 3 Modelo A+ Cortex a 1.4GHZ WiFi...'
+sku: 'B07KKBCXLY-es'
 tags: [ 'wifi', ]
 actualPrice: 25.02 EUR
 currency: EUR

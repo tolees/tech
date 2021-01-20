@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JH92KW-es JOOWIN Adaptador WiFi USB AC 650Mbps Dual Banda...'
+sku: 'B087JH92KW-es'
 tags: [ 'wifi', ]
 actualPrice: 11.19 EUR
 currency: EUR

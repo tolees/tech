@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J75VJ6W-es HOMCOM Mesa de Ordenador PC Madera en Forma L Esquinera...'
+sku: 'B01J75VJ6W-es'
 tags: [ 'impresora','móvil','ordenador', ]
 actualPrice: 104.54 EUR
 currency: EUR

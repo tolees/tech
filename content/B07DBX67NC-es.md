@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBX67NC-es Anker Power Wave Ladepad 10 W Cargador inalámbrico Qi de...'
+sku: 'B07DBX67NC-es'
 tags: [ 'galaxy','iphone','samsung', ]
 actualPrice: 12.89 EUR
 currency: EUR

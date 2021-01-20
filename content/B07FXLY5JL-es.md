@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXLY5JL-es Brother DCPL3510CDWG1 3IN1 Impresora LED DCPL3510CDW...'
+sku: 'B07FXLY5JL-es'
 tags: [ 'impresora', ]
 actualPrice: 218.99 EUR
 currency: EUR

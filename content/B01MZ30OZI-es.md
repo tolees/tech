@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ30OZI-es Toshiba Portege Z30-C-16J - Ordenador portátil de 13.3"...'
+sku: 'B01MZ30OZI-es'
 tags: [ 'ordenador','teclado','toshiba','full','hd', ]
 actualPrice: 1101.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S8VH6Q-es Mars Gaming MRS0 altavoces 10W subwoofer conector directo...'
+sku: 'B075S8VH6Q-es'
 tags: [ 'auriculares', ]
 actualPrice: 15.6 EUR
 currency: EUR

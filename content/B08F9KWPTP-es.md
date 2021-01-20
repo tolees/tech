@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9KWPTP-es Auriculares Bluetooth Auriculares inalámbricos...'
+sku: 'B08F9KWPTP-es'
 tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR

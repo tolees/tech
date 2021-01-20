@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZVY5KP-es QTshine Batería Externa 25800mAh Power Bank [Pantalla LCD...'
+sku: 'B07TZVY5KP-es'
 tags: [ 'móvil', ]
 actualPrice: 14.02 EUR
 currency: EUR

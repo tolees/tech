@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LHQCHS-es ASUS ROG Strix GeForce GTX 1660 Super Advanced Edition -...'
+sku: 'B082LHQCHS-es'
 tags: [ 'asus', ]
 actualPrice: 311.47 EUR
 currency: EUR

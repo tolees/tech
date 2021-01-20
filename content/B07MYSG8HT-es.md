@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYSG8HT-es Ushining Teléfono Móvil Basico Teléfono Móvil para...'
+sku: 'B07MYSG8HT-es'
 tags: [ 'bluetooth','móvil', ]
 actualPrice: 14.89 EUR
 currency: EUR

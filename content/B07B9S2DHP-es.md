@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9S2DHP-es HUAWEI Band 2 Pro Black ERIS'
+sku: 'B07B9S2DHP-es'
 tags: [ 'huawei', ]
 actualPrice: 23.04 EUR
 currency: EUR

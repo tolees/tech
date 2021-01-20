@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLV8JTJ-es Amazfit GTR 42mm - Smartwatch con medición óptica de la...'
+sku: 'B07XLV8JTJ-es'
 tags: [ 'smartwatch', ]
 actualPrice: 99.0 EUR
 currency: EUR

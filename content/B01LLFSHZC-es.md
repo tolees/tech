@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLFSHZC-es Sharon BT - Báscula digital inalámbrica con Bluetooth...'
+sku: 'B01LLFSHZC-es'
 tags: [ 'bluetooth', ]
 actualPrice: 26.99 EUR
 currency: EUR

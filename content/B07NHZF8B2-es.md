@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHZF8B2-es Adaptador de Conector de Auriculares USB C a 3 5 mm...'
+sku: 'B07NHZF8B2-es'
 tags: [ 'auriculares','huawei','xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR

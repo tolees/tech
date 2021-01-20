@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNQ8WJT-es Funda Xiaomi 8 Lite Mi 8X con Cristal Templado AChris 3 en...'
+sku: 'B07PNQ8WJT-es'
 tags: [ 'xiaomi', ]
 actualPrice: 6.99 EUR
 currency: EUR

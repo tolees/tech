@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK8DXVM-es VTIN R2 Altavoces portátiles Bluetooth Altavoz portátil...'
+sku: 'B07DK8DXVM-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 23.39 EUR
 currency: EUR

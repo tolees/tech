@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O3K7GP0-es EDIFIER Studio R2000DB - Sistema de altavoces 2.0 120...'
+sku: 'B00O3K7GP0-es'
 tags: [ 'bluetooth', ]
 actualPrice: 239.8 EUR
 currency: EUR

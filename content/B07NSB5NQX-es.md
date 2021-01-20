@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSB5NQX-es Need Escritorios Mesa de Ordenador 138x55cm Escritorio de...'
+sku: 'B07NSB5NQX-es'
 tags: [ 'ordenador', ]
 actualPrice: 61.1 EUR
 currency: EUR

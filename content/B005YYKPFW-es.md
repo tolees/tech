@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005YYKPFW-es Panasonic NN-J151 - Microondas con Grill 1000 W 20 L 4...'
+sku: 'B005YYKPFW-es'
 tags: [ 'panasonic', ]
 actualPrice: 109.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7VNSC7-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
+sku: 'B07W7VNSC7-es'
 tags: [ 'apple','auriculares','bluetooth', ]
 actualPrice: 199.99 EUR
 currency: EUR

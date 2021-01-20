@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GCCQ6C-es ASUS K543UA-GQ3203 - Ordenador portátil de 15.6" HD Intel...'
+sku: 'B088GCCQ6C-es'
 tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 329.0 EUR
 currency: EUR

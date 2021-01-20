@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH5F1X8-es UGREEN Cable Cargador iPhone 90 Grados Cable Lightning...'
+sku: 'B07QH5F1X8-es'
 tags: [ 'apple','iphone', ]
 actualPrice: 11.69 EUR
 currency: EUR

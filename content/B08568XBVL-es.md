@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08568XBVL-es Mars Gaming MK320 Teclado RGB H-Mech Reposamuñecas...'
+sku: 'B08568XBVL-es'
 tags: [ 'teclado', ]
 actualPrice: 19.99 EUR
 currency: EUR

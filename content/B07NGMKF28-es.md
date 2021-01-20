@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGMKF28-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
+sku: 'B07NGMKF28-es'
 tags: [ 'ram','teclado', ]
 actualPrice: 740.93 EUR
 currency: EUR

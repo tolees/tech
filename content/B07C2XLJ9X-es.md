@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2XLJ9X-es HETP Pulsera de Actividad Reloj Inteligente con Pulsómetro...'
+sku: 'B07C2XLJ9X-es'
 tags: [ 'gps', ]
 actualPrice: 27.19 EUR
 currency: EUR

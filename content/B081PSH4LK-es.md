@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PSH4LK-es 8CH NVR 1080P Kit de Camara vigilancia WiFi Exterior...'
+sku: 'B081PSH4LK-es'
 tags: [ '1080p','móvil','wifi', ]
 actualPrice: 169.99 EUR
 currency: EUR

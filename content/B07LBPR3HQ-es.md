@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBPR3HQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
+sku: 'B07LBPR3HQ-es'
 tags: [ '1080p','playstation', ]
 actualPrice: 5.99 EUR
 currency: EUR

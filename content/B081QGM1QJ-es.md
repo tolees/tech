@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QGM1QJ-es Newskill Suiko Switch Brown - Teclado Mecánico Gaming con...'
+sku: 'B081QGM1QJ-es'
 tags: [ 'teclado', ]
 actualPrice: 58.99 EUR
 currency: EUR

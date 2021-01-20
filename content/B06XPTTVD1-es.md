@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPTTVD1-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
+sku: 'B06XPTTVD1-es'
 tags: [ 'auriculares','móvil','smartphone','tablet', ]
 actualPrice: 15.18 EUR
 currency: EUR

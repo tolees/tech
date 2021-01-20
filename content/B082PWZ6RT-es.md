@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PWZ6RT-es ACEPC Mini PC 8 GB RAM 120 GB Rom Mini computadora ......'
+sku: 'B082PWZ6RT-es'
 tags: [ 'ram', ]
 actualPrice: 187.9 EUR
 currency: EUR

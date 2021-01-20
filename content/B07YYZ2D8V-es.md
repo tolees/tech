@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYZ2D8V-es Beats Auriculares Solo Pro Wireless de Beats con...'
+sku: 'B07YYZ2D8V-es'
 tags: [ 'auriculares', ]
 actualPrice: 208.0 EUR
 currency: EUR

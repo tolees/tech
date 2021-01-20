@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5YNFQH-es tomtoc 15 4" Maletín Portátil Protector de 360° para 16"...'
+sku: 'B07P5YNFQH-es'
 tags: [ 'dell','microsoft', ]
 actualPrice: 22.94 EUR
 currency: EUR

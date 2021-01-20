@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDK27GN-es PC Teclado Mecánico para Juegos LED Mezclado con...'
+sku: 'B07YDK27GN-es'
 tags: [ 'teclado', ]
 actualPrice: 40.99 EUR
 currency: EUR

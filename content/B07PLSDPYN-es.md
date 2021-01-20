@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLSDPYN-es UGREEN Cable USB C a USB C Cable PD 20V 3A 60W Carga...'
+sku: 'B07PLSDPYN-es'
 tags: [ 'huawei','samsung','xiaomi', ]
 actualPrice: 6.79 EUR
 currency: EUR

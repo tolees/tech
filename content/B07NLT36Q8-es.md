@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLT36Q8-es Fujifilm X-T30 Cuerpo cámara de Objetivo Intercambiable...'
+sku: 'B07NLT36Q8-es'
 tags: [ 'fujifilm', ]
 actualPrice: 749.0 EUR
 currency: EUR

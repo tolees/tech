@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886XJYYS-es Sony WFSP800N - Auriculares True Wireless Cancelación de...'
+sku: 'B0886XJYYS-es'
 tags: [ 'auriculares','bluetooth','sony', ]
 actualPrice: 169.99 EUR
 currency: EUR

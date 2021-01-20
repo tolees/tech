@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M18GKV-es KUPVALON Adaptador inalámbrico de Pantalla WiFi Dongle...'
+sku: 'B087M18GKV-es'
 tags: [ '1080p','wifi', ]
 actualPrice: 27.99 EUR
 currency: EUR

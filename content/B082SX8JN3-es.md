@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SX8JN3-es Ratón inalámbrico de 2.4GHz Ratón Inteligente para Juegos...'
+sku: 'B082SX8JN3-es'
 tags: [ 'ratón', ]
 actualPrice: 1.58 EUR
 currency: EUR

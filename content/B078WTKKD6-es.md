@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTKKD6-es Sony SRS-XB41B Altavoz Portátil Bluetooth Extra Bass Modo...'
+sku: 'B078WTKKD6-es'
 tags: [ 'bluetooth','smartphone','sony','altavoz', ]
 actualPrice: 103.2 EUR
 currency: EUR

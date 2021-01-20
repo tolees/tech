@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1VQ53X-es Sony Remote Commander RMF-TX310E RMF-TX310E'
+sku: 'B07L1VQ53X-es'
 tags: [ 'sony', ]
 actualPrice: 25.0 EUR
 currency: EUR

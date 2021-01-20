@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS8S9S2-es Fujifilm XF10 - Cámara digital de 24.2 MP color negro'
+sku: 'B07FS8S9S2-es'
 tags: [ 'fujifilm', ]
 actualPrice: 405.99 EUR
 currency: EUR

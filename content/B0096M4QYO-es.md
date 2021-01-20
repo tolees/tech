@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0096M4QYO-es Microsoft – Comfort Mouse 4500 Negro'
+sku: 'B0096M4QYO-es'
 tags: [ 'microsoft', ]
 actualPrice: 19.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A5NK6F0-es TECKNET Alfombrilla de Ratón Apoyo de Gel Cojín...'
+sku: 'B01A5NK6F0-es'
 tags: [ 'ratón', ]
 actualPrice: 8.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KGRXRH-es SanDisk Ultra 3D - SSD con hasta 550 MB/s de velocidad de...'
+sku: 'B071KGRXRH-es'
 tags: [ 'sandisk', ]
 actualPrice: 52.99 EUR
 currency: EUR

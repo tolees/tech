@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYNHD99-es Lenovo Yoga 530-14ARR - Portátil táctil convertible 14"...'
+sku: 'B07HYNHD99-es'
 tags: [ 'lenovo','ram','teclado', ]
 actualPrice: 699.99 EUR
 currency: EUR

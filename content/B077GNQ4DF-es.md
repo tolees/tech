@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GNQ4DF-es CHOETECH Hub USB C 5 En 1 USB Tipo C a HDMI Adaptador con...'
+sku: 'B077GNQ4DF-es'
 tags: [ 'huawei', ]
 actualPrice: 16.14 EUR
 currency: EUR

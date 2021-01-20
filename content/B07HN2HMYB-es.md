@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HN2HMYB-es Denon DHT-S316 Altavoz soundbar Negro Inalámbrico y...'
+sku: 'B07HN2HMYB-es'
 tags: [ 'denon','altavoz', ]
 actualPrice: 218.0 EUR
 currency: EUR

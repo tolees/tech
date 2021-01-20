@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748N1BZD-es Bose SoundLink® Micro Altavoz con Bluetooth Inalámbrico...'
+sku: 'B0748N1BZD-es'
 tags: [ 'bluetooth','altavoz', ]
 actualPrice: 100.58 EUR
 currency: EUR

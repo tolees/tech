@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZDK4VN-es Epson EH-TW650 | Proyector Home Cinema Full HD 1080p con...'
+sku: 'B074ZDK4VN-es'
 tags: [ '1080p','full','hd', ]
 actualPrice: 538.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGDP5TX-es Funda cartera Huawei P30 con una solapa para llevar...'
+sku: 'B07RGDP5TX-es'
 tags: [ 'huawei', ]
 actualPrice: 15.99 EUR
 currency: EUR

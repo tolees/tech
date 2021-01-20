@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2WWP8F-es AVIWIS Compatible with Samsung Huawei OnePlus 6T Kindle...'
+sku: 'B07W2WWP8F-es'
 tags: [ 'huawei','kindle','samsung', ]
 actualPrice: 7.64 EUR
 currency: EUR
