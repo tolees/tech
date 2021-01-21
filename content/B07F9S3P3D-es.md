@@ -27,10 +27,10 @@ En este momento está [VGUARD Ratón Gaming con Cable  4 DPI Adjustables hasta 2
 
 🔎:
 
-- ♥ 7 colors Breathing light (Blue, purple, red, green, yellow, cyan, light yellow as you wish) CE, FC, RoSH approved, 4 Hot keys(left click + right click are not included) make rapid and convenient adjustment, light control, turn on or off, "boss key" drag you back to deskstop immediately, 1.4m wire.
-- ♥ Ergonomic right hand design offers extremely comfortable mechanical solid feeling, easy to find a good position for your gaming hand, frosted texture skin, enjoy in your champion show.
 - ♥ High precision opical mouse with 4 kinds adjustable DPI(800 / 1200 / 1600 /2400), high sensitivity & fluent tracking under rapid movement, stable cursor, optimized data transfer, no lagging, super quiet, meets all requests in your mind.
-- ♥ 24 months warranty without any hesitation, professional after-sale service. Top gaming equipment.
+- ♥ Ergonomic right hand design offers extremely comfortable mechanical solid feeling, easy to find a good position for your gaming hand, frosted texture skin, enjoy in your champion show.
 - ♥ USB Self-auto installation & wide compatibility, when plug the USB cable, it will install by itself, recognize and compatible with all operating system such windows series, vista, XP, Mac OS/Linux or lastest ones.
+- ♥ 24 months warranty without any hesitation, professional after-sale service. Top gaming equipment.
+- ♥ 7 colors Breathing light (Blue, purple, red, green, yellow, cyan, light yellow as you wish) CE, FC, RoSH approved, 4 Hot keys(left click + right click are not included) make rapid and convenient adjustment, light control, turn on or off, "boss key" drag you back to deskstop immediately, 1.4m wire.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F9S3P3D/?tag=tolees-21)

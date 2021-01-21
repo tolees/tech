@@ -27,10 +27,10 @@ Tienes [Roffie Webcam Full HD 1080p Video Web CAM Dual Micrófono Integrado PC p
 
 ℹ️:
 
-- 【Sup apoyo al cliente confiable】el equipo de servicio profesional le ofrece sugerencias y soluciones sobre la cámara web oportunamente. Siéntase libre de usar esta cámara web para video en línea, transmisión, conferencias, comentarios de juegos, clases, etc.
-- 【Calidad de video hd 1080p completo】la cámara web UC20 utiliza una lente de cámara profesional CMOS, una tecnología de imagen dinámica amplia y una lente gran angular ultra clara, que brinda un video suave de 1080p a 30 fps, lo que hace que su imagen sea lo suficientemente clara.
 - 【Corrección automática de la luz】la cámara web UC20 puede corregir automáticamente el brillo de la imagen, procesar los píxeles demasiado brillantes u oscuros, y finalmente forma una imagen de alta calidad. Transmita videos claros incluso con poca luz
-- 【Micrófonos reductores de ruido dual】con dos micrófonos incorporados, reducción automática de ruido, grabación de audio estéreo, la cámara UC20 Roffie captura lo más auténtico y el audio, sin temor a un entorno ruidoso.
+- 【Sup apoyo al cliente confiable】el equipo de servicio profesional le ofrece sugerencias y soluciones sobre la cámara web oportunamente. Siéntase libre de usar esta cámara web para video en línea, transmisión, conferencias, comentarios de juegos, clases, etc.
 - 【USB 2.0 direct plug & play】no es necesario instalar ningún controlador, la cámara web UC20 funciona con la mayoría de los sistemas: Windows, Mac OS y Android, plataformas y aplicaciones: Skype, Youtube, Xbox One, Hangouts de Google, MSN, OBS, Camtasi, Zoom y así.
+- 【Calidad de video hd 1080p completo】la cámara web UC20 utiliza una lente de cámara profesional CMOS, una tecnología de imagen dinámica amplia y una lente gran angular ultra clara, que brinda un video suave de 1080p a 30 fps, lo que hace que su imagen sea lo suficientemente clara.
+- 【Micrófonos reductores de ruido dual】con dos micrófonos incorporados, reducción automática de ruido, grabación de audio estéreo, la cámara UC20 Roffie captura lo más auténtico y el audio, sin temor a un entorno ruidoso.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0878VGZZ5/?tag=tolees-21)

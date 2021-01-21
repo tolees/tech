@@ -27,12 +27,12 @@ Ahora mismo tienes [Panasonic KX-TU466EXWE - Teléfono Móvil para Mayores  Pant
 
 🔎:
 
-- Teléfono móvil con tapa, tipo "concha" resistente a golpes y caídas accidentales
+- Gran pantalla a color de 2.4" y compatible con el uso de audífonos
 - Con Función GPS, para saber la localización a través del botón SOS o una solicitud externa
+- Modo noche para una mejor visualización en entornos de poca luz
 - Fácil de ver y uso: tres tamaños de fuentes, cámara con flash, marcación audible, llamada prioritaria con conversación de manos libres
 - Batería de larga duración: duración de la batería de 5 h de habla y 600 h de inactividad
-- Gran pantalla a color de 2.4" y compatible con el uso de audífonos
-- Modo noche para una mejor visualización en entornos de poca luz
+- Teléfono móvil con tapa, tipo "concha" resistente a golpes y caídas accidentales
 - Botón SOS que permite enviar SMS y llamar hasta 5 números
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S22JTNC/?tag=tolees-21)
