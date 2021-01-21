@@ -1,26 +1,27 @@
 ---
 layout: post
-title: 'Adaptador convertidor Scart a HDMI  Adap al 23.54 % de rebaja'
-date: 2021-01-20 03:08:31
+title: 'Adaptador convertidor Scart a HDMI  Adap al 29.43 % de rebaja'
+date: 2021-01-21 03:19:54
 image: 'https://m.media-amazon.com/images/I/41O8unYU5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08SK3WZ9C-es Adaptador convertidor Scart a HDMI Adaptador Scart a HDMI...'
+sku: 'B08SK3WZ9C-es'
 tags: [ '1080p','xbox', ]
-actualPrice: 12.99 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 12.99
+price: 11.99
 comparePrice: 16.99 EUR
 prodname: 'Adaptador convertidor Scart a HDMI  Adaptador Scart a HDMI Compatible con Salida HDMI 1080P / 720P para HDTV STB VHS Xbox PS3 Monitor Proyector Sky DVD BLU-Ray Player  etc'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08SK3WZ9C/?tag=tolees-21'
-descuento: '23.54'
-average: '12.99'
+descuento: '29.43'
+average: '12.49'
 ---
 
-Tienes [Adaptador convertidor Scart a HDMI  Adaptador Scart a HDMI Compatible con Salida HDMI 1080P / 720P para HDTV STB VHS Xbox PS3 Monitor Proyector Sky DVD BLU-Ray Player  etc](https://www.amazon.es/dp/B08SK3WZ9C/?tag=tolees-21) con precio final de  12.99 EUR (original: 16.99 EUR) (23.54 %  de rebaja) aqui!
+Tienes [Adaptador convertidor Scart a HDMI  Adaptador Scart a HDMI Compatible con Salida HDMI 1080P / 720P para HDTV STB VHS Xbox PS3 Monitor Proyector Sky DVD BLU-Ray Player  etc](https://www.amazon.es/dp/B08SK3WZ9C/?tag=tolees-21) con precio final de  11.99 EUR (original: 16.99 EUR) (29.43 %  de rebaja) aqui!
 
 [![Adaptador convertidor Scart a HDMI  Adap](https://m.media-amazon.com/images/I/41O8unYU5kL._SL200_.jpg)](https://www.amazon.es/dp/B08SK3WZ9C/?tag=tolees-21)
 
