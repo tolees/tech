@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 17.18 % en OnePlus N100 Midnight Frost  Escarcha de'
-date: 2021-01-18 19:44:51
+date: 2021-01-21 14:10:11
 image: 'https://m.media-amazon.com/images/I/31ZBRsVJmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY7XG5N-es'
+slug: 'B07XY7XG5N-es OnePlus N100 Midnight Frost Escarcha de Medianoche |...'
+sku: 'B07XY7XG5N-es'
+tags: [ 'ram', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21'
 descuento: '17.18'
-average: '168.27538461538458'
+average: '167.56148148148145'
 ---
 
 Tienes [OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD + de 6.52"| 4GB RAM + 64GB de Almacenamiento | Triple cámara | Batería de 5000 mAh | Dual SIM | 4G](https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21) con un 17.18 % de descuento con precio de oferta de 149.0 EUR (original: 179.9 EUR) en el siguiente enlace!
@@ -27,8 +29,8 @@ Tienes [OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD +
 
 - 4 GB de RAM + 64 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 460
 - Diseñado para la fotografía con su sistema de cámara triple y una cámara frontal de 8 MP
-- Rendimiento superior que lo lleva más lejos; batería de 5000 mAh y OxygenOS
 - Pantalla HD+ de 6.52 " equipada con modo de lectura y modo nocturno para una mejor experiencia de visualización
 - Experimenta un mejor sonido El N100 está equipado con un conector para auriculares de 3.5 mm y altavoces estéreo duales integrados
+- Rendimiento superior que lo lleva más lejos; batería de 5000 mAh y OxygenOS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21)

@@ -27,10 +27,10 @@ Ahora mismo tienes [Lenovo Ideacentre 510-15ICB - Ordenador de sobremesa  Intel 
 
 🔎:
 
+- Tarjeta gráfica integrada Intel UHD Graphics 630
 - Almacenamiento de 512GB SSD M.2 (2280) PCIe NVMe
+- Procesador Intel Core i5-8400, HexaCore 2.8 GHz to 4GHz, 9MB
 - Sistema Operativo: Windows Home 10
 - Memoria RAM de 8GB DDR4, 2666Mhz
-- Procesador Intel Core i5-8400, HexaCore 2.8 GHz to 4GHz, 9MB
-- Tarjeta gráfica integrada Intel UHD Graphics 630
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QZ3XZG2/?tag=tolees-21)
