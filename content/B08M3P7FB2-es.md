@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Lenovo Legion 5 - Portátil Gaming 15.6"  al 16.67 % de descuento'
-date: 2021-01-12 16:55:54
+date: 2021-01-21 17:55:07
 image: 'https://m.media-amazon.com/images/I/41IVg7nDFKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08M3P7FB2-es'
+slug: 'B08M3P7FB2-es Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 120Hz Intel...'
+sku: 'B08M3P7FB2-es'
+tags: [ 'lenovo','ram','teclado', ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99
@@ -25,11 +27,11 @@ Ahora mismo tienes [Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 120Hz  Intel
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 240Hz, 500 nits
-- Sin sistema operativo
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2933)
 - Procesador Intel Core i7-10750H (6C/12T, 2.6/5.0GHz, 12MB)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
+- Sin sistema operativo
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2933)
+- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 240Hz, 500 nits
 
-[Visítala!!!](https://www.amazon.es/dp/B08M3P7FB2/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B08M3P7FB2/?tag=tolees-21)

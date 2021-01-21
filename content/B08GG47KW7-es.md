@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'MSI MPG Trident 3 10SI-022EU - Ordenador al 16.67 % de descuento'
-date: 2021-01-16 08:16:36
+date: 2021-01-21 17:31:18
 image: 'https://m.media-amazon.com/images/I/3118kqE+TtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GG47KW7-es'
+slug: 'B08GG47KW7-es MSI MPG Trident 3 10SI-022EU - Ordenador de sobremesa...'
+sku: 'B08GG47KW7-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99
@@ -25,10 +27,10 @@ Ahora mismo tienes [MSI MPG Trident 3 10SI-022EU - Ordenador de sobremesa  Intel
 
 🔎:
 
-- Procesador Intel Core i5-10400F (6 núcleos, 12 MB cache, 2. 9 GHz hasta 4. 3 GHz)
+- Tipo de conectividad: Wi-Fi Built In
 - Tarjeta grafica GeForce 1660 Super Aero ITX OC de 6 GB GDDR 6
 - Memoria RAM de 8 GB, DDR 4
-- Tipo de conectividad: Wi-Fi Built In
 - Sistema operativo Windows 10 Home
+- Procesador Intel Core i5-10400F (6 núcleos, 12 MB cache, 2. 9 GHz hasta 4. 3 GHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GG47KW7/?tag=tolees-21)
