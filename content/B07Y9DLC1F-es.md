@@ -27,8 +27,8 @@ Está [BENTOBEN Phone Stand  Apple Watch Stand  Titular de Carga Holder para iWa
 
 ℹ️:
 
-- Funciona con Apple Watch Series 5 / Series 4 / Series 3 / Series 2 / Series 1 en tamaño de 38 mm y 42 mm, soporte de teléfonos inteligentes y modelos de tableta y AirPods, compatible con cable de carga / cargador magnético de Apple Watch de metal y plástico
 - El resistente y duradero ABS y el caucho garantizan la estabilidad, el soporte híbrido para teléfono celular de escritorio es universal perfectamente compatible con todo tipo de teléfonos inteligentes, iPad y lectores electrónicos, como iPhone X XS Max XR 6S 7 8 6 Plus, Samsung Galaxy S9 / S9 Plus, HUAWEI y todos los otros teléfonos celulares.
+- Funciona con Apple Watch Series 5 / Series 4 / Series 3 / Series 2 / Series 1 en tamaño de 38 mm y 42 mm, soporte de teléfonos inteligentes y modelos de tableta y AirPods, compatible con cable de carga / cargador magnético de Apple Watch de metal y plástico
 - Admite el modo de mesita de noche Apple Watch (WatchOS 2 y la última versión), el soporte y su reloj Apple se convertirán en un reloj despertador de escritorio / mesita de noche, puede verificar la hora en medio de la noche con tanta facilidad.
 - El soporte funcional con soporte para cargador de reloj Apple, soporte para cargador de teléfono celular, soporte para cargador de ápodos y soporte para lápiz Apple (dos ángulos), también se puede usar como soporte cuando se usa para ver y atar el teléfono.
 - Ángulo perfecto para el escritorio o la mesa con vistas tanto verticales como horizontales. Soporte de carga sin mover el soporte. La exquisita ranura para cable de silicona y el diseño del orificio para cable derecho mantienen el cable de carga en orden y hacen que su escritorio se vea ordenado.
