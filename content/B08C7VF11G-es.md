@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 960 Graphin Ligero rató al 25.01 % de descuento'
-date: 2021-01-20 15:28:09
+date: 2021-01-21 16:16:07
 image: 'https://m.media-amazon.com/images/I/41Gdu3qys7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08C7VF11G-es Trust Gaming GXT 960 Graphin Ligero ratón para Gaming RGB...'
+sku: 'B08C7VF11G-es'
 tags: [ 'ratón', ]
 actualPrice: 29.99 EUR
 currency: EUR
@@ -27,9 +28,9 @@ Está [Trust Gaming GXT 960 Graphin Ligero ratón para Gaming RGB  74 Gramos  ha
 ℹ️:
 
 - Iluminación RGB personalizable con efecto de respiración y arco iris
-- Tasa de sondeo ajustable de hasta 1000 Hz para un control de alta capacidad de respuesta
 - Incluye 2 botones para pulgar de fácil acceso. Almohadillas de deslizamiento con fricción ultrabaja
-- Carcasa perforada de solo 74 gramos para una respuesta rápida del ratón. Sensor óptico de alta precisión de hasta 10 000 ppp
 - El cable trenzado de arrastre cero garantiza un movimiento suave
+- Carcasa perforada de solo 74 gramos para una respuesta rápida del ratón. Sensor óptico de alta precisión de hasta 10 000 ppp
+- Tasa de sondeo ajustable de hasta 1000 Hz para un control de alta capacidad de respuesta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C7VF11G/?tag=tolees-21)
