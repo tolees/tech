@@ -27,9 +27,9 @@ Tienes [SanDisk Extreme Pro 32 GB SDCFXPS-032G-X46 Extreme Pro 160MB/s CompactFl
 
 ℹ️:
 
-- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
 - Optimizado para la captura de vídeo 4K
-- Velocidades de transferencia de hasta 160 MB/s
 - Velocidades de escritura hasta 150 MB/s
+- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
+- Velocidades de transferencia de hasta 160 MB/s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ECEVEP0/?tag=tolees-21)
