@@ -27,11 +27,11 @@ Ahora mismo tienes [AVM FRITZ!WLAN Repeater 310 International - Repetidor/Extens
 
 🔎:
 
-- Es tan pequeño como una tarjeta de crédito, solo pesa 63 gr. y consume 3 W en modo operativo, amplía la red inalámbrica con toda fiabilidad a velocidades de hasta 300 Mbps
-- Contenido de la caja: FRITZ!WLAN Repeater 310, guía rápida de instalación en Español
-- ¡Nota! Para configurar el repetidor, consulte el sitio web del fabricante
-- Compatible con cualquier router inalámbrico que soporta 802.11 n/g/b, se adapta al FRITZ!Box
-- LEDs que indican la calidad WiFi y ayudan a encontrar la posición óptima para el repetidor, fácil de instalar con solo presionar un botón
 - Permite conexiones WiFi estables y rápidas con velocidades de hasta 300 Mbps en la banda de 2.4 GHz, Mesh, WPS para una configuración sencilla, seguridad inalámbrica con WPA2
+- LEDs que indican la calidad WiFi y ayudan a encontrar la posición óptima para el repetidor, fácil de instalar con solo presionar un botón
+- Compatible con cualquier router inalámbrico que soporta 802.11 n/g/b, se adapta al FRITZ!Box
+- Es tan pequeño como una tarjeta de crédito, solo pesa 63 gr. y consume 3 W en modo operativo, amplía la red inalámbrica con toda fiabilidad a velocidades de hasta 300 Mbps
+- ¡Nota! Para configurar el repetidor, consulte el sitio web del fabricante
+- Contenido de la caja: FRITZ!WLAN Repeater 310, guía rápida de instalación en Español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DVM67LK/?tag=tolees-21)
