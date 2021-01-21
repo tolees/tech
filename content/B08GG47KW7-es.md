@@ -28,9 +28,9 @@ Ahora mismo tienes [MSI MPG Trident 3 10SI-022EU - Ordenador de sobremesa  Intel
 🔎:
 
 - Tarjeta grafica GeForce 1660 Super Aero ITX OC de 6 GB GDDR 6
+- Sistema operativo Windows 10 Home
 - Procesador Intel Core i5-10400F (6 núcleos, 12 MB cache, 2. 9 GHz hasta 4. 3 GHz)
 - Memoria RAM de 8 GB, DDR 4
 - Tipo de conectividad: Wi-Fi Built In
-- Sistema operativo Windows 10 Home
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GG47KW7/?tag=tolees-21)
