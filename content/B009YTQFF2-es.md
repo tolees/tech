@@ -27,9 +27,9 @@ Ahora mismo tienes [SAMYANG 8 mm f/3.5 UMC CS II fisheye lens - for Canon](https
 
 🔎:
 
-- Con revestimiento UMC anti-reflectante
 - Incluye parasol extraíble
 - Compatible con Canon EF-S
+- Con revestimiento UMC anti-reflectante
 - Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
 - Campo de visión diagonal de 180°
 
