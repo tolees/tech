@@ -27,9 +27,9 @@ Ahora mismo tienes [Technaxx Musicman MA - Altavoz portátil  Jack 3.5 mm  USB  
 
 🔎:
 
-- Reproduce MP3 y radio FM
 - Con puertos para Flasf USB, 3.5 mm y soporte para tarjetas MicroSD
-- Sistema de altavoces portátiles con pantalla LCD
 - Cubierta de aluminio durable
+- Reproduce MP3 y radio FM
+- Sistema de altavoces portátiles con pantalla LCD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00592OIRA/?tag=tolees-21)
