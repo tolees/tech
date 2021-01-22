@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Descuento del 22.12 % en Sony BDPS1700B  Reproductor de Blu-ray D'
-date: 2021-01-20 19:17:09
+date: 2021-01-22 00:31:26
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01B7ABF00-es Sony BDPS1700B Reproductor de Blu-ray Disc Negro Tamaño Único'
+sku: 'B01B7ABF00-es'
 tags: [ 'sony', ]
 actualPrice: 73.99 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21'
 descuento: '22.12'
-average: '77.58701492537314'
+average: '77.56037037037038'
 ---
 
 Tienes [Sony BDPS1700B  Reproductor de Blu-ray Disc  Negro  Tamaño Único](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21) con un 22.12 % de descuento con precio de oferta de 73.99 EUR (original: 95.0 EUR) en el siguiente enlace!
@@ -27,9 +28,9 @@ Tienes [Sony BDPS1700B  Reproductor de Blu-ray Disc  Negro  Tamaño Único](http
 ℹ️:
 
 - Consumo de energía: 8.5 W
-- Interfaz de salida de video: HDMI
 - Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
-- Disfruta de colores vivos con Triluminos Colour
 - Disfruta de todas tus películas en calidad Full HD
+- Disfruta de colores vivos con Triluminos Colour
+- Interfaz de salida de video: HDMI
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21)
