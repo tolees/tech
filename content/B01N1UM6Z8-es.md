@@ -27,10 +27,10 @@ En este momento está [UNYKAch 51792 Carcasa del Ordenador Ventilador - Ventilad
 
 🔎:
 
-- Iluminación: led
 - Unykach 51792; adecuado para: caja pc
-- Tipo: ventilador
-- Diámetro del ventilador: 12.cm; color del producto: negro
 - Rojo
+- Diámetro del ventilador: 12.cm; color del producto: negro
+- Iluminación: led
+- Tipo: ventilador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N1UM6Z8/?tag=tolees-21)
