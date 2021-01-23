@@ -27,10 +27,10 @@ En este momento está [Kosiy Repetidor de Red WiFi Amplificador  Amplificador Se
 
 🔎:
 
-- 【Indicadores inteligentes】 Los indicadores de señal de diferentes colores indican si la señal WiFi es buena a esta distancia, lo ayudan a encontrar la mejor extensión. Puede ver intuitivamente el estado de funcionamiento actual del wifi amplificador inalámbrico. Cuando este indicador es verde, el estado de la conexión es el mejor.
 - 【Dos modos】 El amplificador WiFi se puede usar como repetidor / AP. Con 20 metros de cobertura WiFi al eliminar los rincones muertos; El AP conmutable de modo extensible WiFi se puede conectar a una red cableada y transformar Internet por cable en un punto de acceso Wi-Fi. Este amplificador señal wifi le permite acceder a la red inalámbrica en cualquier momento
-- 【Compatibilidad fuerte】 Compatible con la mayoría de los enrutadores y dispositivos terminales inalámbricos existentes al cumplir con los estándares IEEE 802.11b / g / n. Amplificador wifi Hay 2 antenas externas que garantizan una señal wifi más estable.
 - 【 Es fácil de configurar】 No se necesita aplicación, los usuarios pueden instalar un amplificador señal wifi personal en pocos minutos (si tiene problemas de instalación del repetidor wifi, comuníquese con el servicio al cliente). El tamaño en miniatura y el tomacorriente de pared facilitan la colocación en el hogar y los viajes.
+- 【Indicadores inteligentes】 Los indicadores de señal de diferentes colores indican si la señal WiFi es buena a esta distancia, lo ayudan a encontrar la mejor extensión. Puede ver intuitivamente el estado de funcionamiento actual del wifi amplificador inalámbrico. Cuando este indicador es verde, el estado de la conexión es el mejor.
+- 【Compatibilidad fuerte】 Compatible con la mayoría de los enrutadores y dispositivos terminales inalámbricos existentes al cumplir con los estándares IEEE 802.11b / g / n. Amplificador wifi Hay 2 antenas externas que garantizan una señal wifi más estable.
 - 【Amplificador Señal Wifi de 300 Mbps】 Este wifi amplificador permite la transmisión inalámbrica de alta velocidad de hasta 300 Mbps (2.4 GHz). El repetidor wifi se puede conectar a 10 dispositivos. Ideal para juegos en línea y otras actividades intensivas de ancho de banda.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KXND918/?tag=tolees-21)

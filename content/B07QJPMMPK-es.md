@@ -27,11 +27,11 @@ Ahora mismo tienes [Alcatel 5024D 1S - Smartphone con pantalla de 5.5"  3GB RAM/
 
 🔎:
 
-- Chipset Octa-Core
-- Pantalla Full View 5.5’’ 18:9 HD+
-- Battery: 3000mAh
-- Doble cámara trasera de 13MP + 2MP con flash led y Cámara frontal (selfie) de 8MP
-- Sistema Operativo: Android Pie
 - Memoria: 3RAM y 32GB ROM ampliable con tarjeta MicroSD
+- Battery: 3000mAh
+- Sistema Operativo: Android Pie
+- Pantalla Full View 5.5’’ 18:9 HD+
+- Doble cámara trasera de 13MP + 2MP con flash led y Cámara frontal (selfie) de 8MP
+- Chipset Octa-Core
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QJPMMPK/?tag=tolees-21)

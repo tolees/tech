@@ -27,10 +27,10 @@ Tienes [Amazfit Neo - Smartwatch Green](https://www.amazon.es/dp/B08GKFH49Y/?tag
 
 🔎:
 
-- Monitoreo de frecuencia cardíaca
 - Monitoreo del sueño
-- Resistente al agua hasta 50 metros
 - Pantalla siempre encendida
+- Monitoreo de frecuencia cardíaca
 - Duración de la batería de 28 días
+- Resistente al agua hasta 50 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GKFH49Y/?tag=tolees-21)
