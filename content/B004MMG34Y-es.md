@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDRE9LPB - Auriculares de Botón  Co al 39.00 % de rebaja'
-date: 2021-01-22 05:20:28
+date: 2021-01-23 05:42:40
 image: 'https://m.media-amazon.com/images/I/317LEpyNkSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004MMG34Y/?tag=tolees-21'
 descuento: '39.00'
-average: '4.881698113207544'
+average: '4.88163636363636'
 ---
 
 Tienes [Sony MDRE9LPB - Auriculares de Botón  Color Negro  In Ear](https://www.amazon.es/dp/B004MMG34Y/?tag=tolees-21) con precio final de  4.88 EUR (original: 8.0 EUR) (39.00 %  de rebaja) aqui!
@@ -27,10 +27,10 @@ Tienes [Sony MDRE9LPB - Auriculares de Botón  Color Negro  In Ear](https://www.
 
 🔎:
 
-- Cable de 1.2 m duradero y ligero
 - Disponible en varios colores
 - Diafragma de neodimio
 - Auriculares internos ligeros con diafragma de 13.5 mm
 - Rango de frecuencia: 18 Hz a 22 kHz
+- Cable de 1.2 m duradero y ligero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004MMG34Y/?tag=tolees-21)
