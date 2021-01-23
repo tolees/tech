@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'havit Teclado mecánico Gaming y ratón Es al 17.55 % de descuento'
-date: 2021-01-21 13:07:13
+title: 'havit Teclado mecánico Gaming y ratón Es al 16.07 % de descuento'
+date: 2021-01-23 10:36:01
 image: 'https://m.media-amazon.com/images/I/51iAGAhJsBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'ratón','teclado', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99
-comparePrice: 56.99 EUR
+comparePrice: 55.99 EUR
 prodname: 'havit Teclado mecánico Gaming y ratón Español Teclados Gaming con Cable  Azul Anti-Efecto Fantasma de 105 Teclas  Ratón Gaming programable  Negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZCT96NV/?tag=tolees-21'
-descuento: '17.55'
-average: '39.05666666666667'
+descuento: '16.07'
+average: '41.04'
 ---
 
-Está [havit Teclado mecánico Gaming y ratón Español Teclados Gaming con Cable  Azul Anti-Efecto Fantasma de 105 Teclas  Ratón Gaming programable  Negro](https://www.amazon.es/dp/B07ZCT96NV/?tag=tolees-21) con 17.55 de descuento por 46.99 EUR (original: 56.99 EUR) en el siguiente enlace!
+Está [havit Teclado mecánico Gaming y ratón Español Teclados Gaming con Cable  Azul Anti-Efecto Fantasma de 105 Teclas  Ratón Gaming programable  Negro](https://www.amazon.es/dp/B07ZCT96NV/?tag=tolees-21) con 16.07 de descuento por 46.99 EUR (original: 55.99 EUR) en el siguiente enlace!
 
 [![havit Teclado mecánico Gaming y ratón Es](https://m.media-amazon.com/images/I/51iAGAhJsBL._SL200_.jpg)](https://www.amazon.es/dp/B07ZCT96NV/?tag=tolees-21)
 
 ℹ️:
 
-- 【Brillo claro, durabilidad y comodidad ergonómica】 La carcasa superior de aleación de aluminio de alta calidad garantiza una mayor vida útil del producto. El diseño suspendido del teclado proporciona una experiencia cómoda de juegos y escritura durante mucho tiempo.
 - 【Teclas de función con amplia compatibilidad】 El teclado gaming español tiene un total de 12 combinaciones de teclas multimedia. Funciona con sistemas Windows, Linux, Chrome y MAC OS. (* Nota: las combinaciones de teclas de acceso directo multimedia no están disponibles en el sistema MAC / Linux)
+- 【Teclado gaming mecánico profesional anti-efecto fantasma】 Su diseño clásico proporciona una retroalimentación táctil, con comandos de teclas precisos y sensibles para escribir y jugar. 100% anti-efecto fantasma con key rollover completo, la elección perfecta para diferentes juegos.
+- 【Brillo claro, durabilidad y comodidad ergonómica】 La carcasa superior de aleación de aluminio de alta calidad garantiza una mayor vida útil del producto. El diseño suspendido del teclado proporciona una experiencia cómoda de juegos y escritura durante mucho tiempo.
 - 【 7 teclas Ratón programable para juegos】 6 niveles: 800-1600-2400-3200-4000-4800 . Con 7 teclas programables, puede definir fácilmente cualquier propiedad. La función de retroiluminación y botón RGB se puede personalizar a través del controlador. Apague fácilmente la luz del mouse con el botón de luz.
 - 【Varios modos de luz con brillo ajustable】 La retroiluminación del teclado gaming se puede cambiar entre 21 modos diferentes de efectos de luz LED preestablecidos. El brillo y la velocidad de cambio de luz son ajustables.
-- 【Teclado gaming mecánico profesional anti-efecto fantasma】 Su diseño clásico proporciona una retroalimentación táctil, con comandos de teclas precisos y sensibles para escribir y jugar. 100% anti-efecto fantasma con key rollover completo, la elección perfecta para diferentes juegos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZCT96NV/?tag=tolees-21)
