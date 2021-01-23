@@ -27,10 +27,10 @@ Tienes [MSI Modern 14 B10MW-026XES - Ordenador portátil de 14" FHD  Intel Core 
 
 ℹ️:
 
-- Tarjeta grafica UMA
 - Memoria RAM de 16 GB x 2666 MHz)
-- Sin sistema operativo
 - Procesador Comet lake I7-10510U (8 núcleos, 8 MB Cache, 1.8 GHz hasta 4.9 GHz)
+- Sin sistema operativo
 - Disco de 512 GB NVMe PCIe SSD
+- Tarjeta grafica UMA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BJRC5DZ/?tag=tolees-21)
