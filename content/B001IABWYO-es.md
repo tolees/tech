@@ -27,10 +27,10 @@ Está [TECKNET Ratón Inalámbrico Bluetooth  Pro Wireless Mouse con Indicador d
 
 ℹ️:
 
-- 2600 DPI (alta precisión) con 5 niveles ajustables (800/1200/1600/2000/2600) para un funcionamiento normal o en modo juego
 - Funciona con computadoras compatibles con Bluetooth que ejecutan Windows 2000, XP, VISTA, 7, 8, 10 (Nota: los botones laterales no se pueden usar en Mac o en el sistema IOS)
-- Bluetooth Wireless Version 3.0 Conexión Bluetooth inalámbrica elegante entre el mouse y la computadora a distancias de hasta 15 metros
 - La goma suave y la forma sobresaliente le brindan comodidad continua durante todo el día. Clics 8 millones de veces durante la vida útil del producto. Duración de la batería hasta 24 meses de duración de la batería
 - Tecnología TruWave para un control preciso del cursor inteligente sobre muchos tipos de superficies. Batería: 2 x AAA (NO INCLUIDAS)
+- Bluetooth Wireless Version 3.0 Conexión Bluetooth inalámbrica elegante entre el mouse y la computadora a distancias de hasta 15 metros
+- 2600 DPI (alta precisión) con 5 niveles ajustables (800/1200/1600/2000/2600) para un funcionamiento normal o en modo juego
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IABWYO/?tag=tolees-21)

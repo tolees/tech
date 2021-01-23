@@ -28,9 +28,9 @@ En este momento está [superpow - Xiaomi MI Redmi Airdots 2 Auriculares Inalámb
 🔎:
 
 - 【Reducción de ruido estéreo】: El auricular bluetooth proporciona modos estéreo y mono. Con un controlador dinámico de 7,2 mm y un sistema inteligente de reducción de ruido
-- 【Auriculares Bluetooth con micrófono】 : Auriculares deportivos Bluetooth con micrófono incorporado, puede responder o colgar llamadas fácilmente
-- 【Auriculares Bluetooth 5.0】 : El auricular bluetooth está equipado con un chip Bluetooth 5.0, la velocidad de transmisión de datos es el doble que la de la generación anterior, tiene una mejor conexión
 - 【Tiempo de uso】 : Una sola carga puede proporcionar 4 horas de duración de la batería, mientras que la caja de carga puede proporcionar 12 horas de duración de la batería, aproximadamente 15 horas de películas, 12 horas de música
+- 【Auriculares Bluetooth 5.0】 : El auricular bluetooth está equipado con un chip Bluetooth 5.0, la velocidad de transmisión de datos es el doble que la de la generación anterior, tiene una mejor conexión
+- 【Auriculares Bluetooth con micrófono】 : Auriculares deportivos Bluetooth con micrófono incorporado, puede responder o colgar llamadas fácilmente
 - 【Lista de empaque】: 1 * Xiaomi MI Redmi Airdots 2; 1 * caja de carga; 3 * tapones para los oídos (S / M / L); 1 * manual de usuario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y53JMRR/?tag=tolees-21)

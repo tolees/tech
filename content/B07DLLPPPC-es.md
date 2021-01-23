@@ -27,10 +27,10 @@ Ahora mismo tienes [LexonElec K108 Teclado de Juego de una Sola Mano K108 Teclad
 
 🔎:
 
+- El teclado mecánico RS-7 tiene 35 teclas, diseño portátil para que puedas llevarlo a todas partes en cualquier momento, ideal para el control con una mano. Controles multimedia dedicados de fácil acceso, es conveniente y fácil de cambiar entre juegos.
+- Los interruptores mecánicos azules proporcionan un clic satisfactorio y retroalimentación táctil por lo que nunca hay incertidumbre si se ha presionado una tecla, y la tecnología anti-fantasma significa que tus pulsaciones nunca se pierden, FN + ~: intercambio de funciones entre G1, G2, G3, G4, G5, G y 7, 8, 9, 0, =, M.
 - Ergonómica: el reposamanos integrado y la barra espaciadora y las teclas especialmente posicionadas están diseñados tanto para la velocidad durante el juego como para la comodidad para cuando la sesión de juego dura mucho. El cable integrado de 1,6 mUSB está trenzado para mayor durabilidad.
 - FN + ESC: conmutación de 7 modos de luz, FN + 1/2/3/4: ajuste de brillo y velocidad, configuraciones de retroiluminación LED arcoíris, incluyendo patrones de color e iluminación que responden a tus pulsaciones. Cada llave para construir el aspecto que mejor te personifica.
-- Los interruptores mecánicos azules proporcionan un clic satisfactorio y retroalimentación táctil por lo que nunca hay incertidumbre si se ha presionado una tecla, y la tecnología anti-fantasma significa que tus pulsaciones nunca se pierden, FN + ~: intercambio de funciones entre G1, G2, G3, G4, G5, G y 7, 8, 9, 0, =, M.
-- El teclado mecánico RS-7 tiene 35 teclas, diseño portátil para que puedas llevarlo a todas partes en cualquier momento, ideal para el control con una mano. Controles multimedia dedicados de fácil acceso, es conveniente y fácil de cambiar entre juegos.
 - Plug and Play: no requiere software adicional o firmware, sistema operativo para PC de sobremesa, ordenador portátil, Windows 7, 8, 10, iOS, Android, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DLLPPPC/?tag=tolees-21)

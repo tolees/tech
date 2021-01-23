@@ -27,12 +27,12 @@ Tienes [Tamron AF 16-300 mm F/3.5-6.3 Di II VC PZD MACRO - Objetivo para Canon  
 
 ℹ️:
 
-- Funciones adicionales como sensor APS-C, baja dispersión, asférica Múltiple, compensación de vibración
-- Aparatos compatibles: SLR
-- Con función enfoque manual, autofoco PZD, Motor Ultrasónico Piezoeléctrico
 - Distancia focal de 16 - 300 mm, con apertura mínima f/22 - f/40 y máxima f/3.5 - f/6.3
+- Funciones adicionales como sensor APS-C, baja dispersión, asférica Múltiple, compensación de vibración
 - Contiene un ángulo de visión de 82° 12’ - 5° 20, estabilizador de imagen óptico, relación de reproducción 1:2.9
 - Peso del producto: 540 g
 - Objetivo Macro con distancia mínima de enfoque de 0.39 m y enfoque interno
+- Con función enfoque manual, autofoco PZD, Motor Ultrasónico Piezoeléctrico
+- Aparatos compatibles: SLR
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JM15OCW/?tag=tolees-21)

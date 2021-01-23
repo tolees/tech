@@ -27,10 +27,10 @@ En este momento está [DAMGOO - Amplificador Digital con Bluetooth  Amplificador
 
 🔎:
 
-- -Amplio rango de voltaje de entrada: DC 4,5 V-27 V, puede ser alimentado por 12 V o 24 V, potencia de salida es de 50 Wx2. Dos métodos de alimentación, el módulo amplificador digital está equipado con bloques de cableado y enchufe de 2,1 mm CC que es compatible con la mayoría de los puertos de alimentación del portátil.
-- -Los altavoces 4-8Ω son altamente recomendables para este amplificador digital DAMGOO.
-- - Dos formas de entrada de audio: el usuario puede conectarse directamente con Bluetooth inalámbrico 3.0/4.0/4.1, o elegir el modo de los auriculares (línea in).
 - - Sin sonido POP: no hay sonido POP al encender este módulo, saltando canción o pausa.
 - - Función de protección: esta placa de amplificador de audio está diseñada con carcasa protectora acrílica, protección de conexión inversa, protección contra sobretensión, protección contra sobrecalentamiento, protección contra cortocircuitos.
+- -Amplio rango de voltaje de entrada: DC 4,5 V-27 V, puede ser alimentado por 12 V o 24 V, potencia de salida es de 50 Wx2. Dos métodos de alimentación, el módulo amplificador digital está equipado con bloques de cableado y enchufe de 2,1 mm CC que es compatible con la mayoría de los puertos de alimentación del portátil.
+- - Dos formas de entrada de audio: el usuario puede conectarse directamente con Bluetooth inalámbrico 3.0/4.0/4.1, o elegir el modo de los auriculares (línea in).
+- -Los altavoces 4-8Ω son altamente recomendables para este amplificador digital DAMGOO.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SHRM5H8/?tag=tolees-21)
