@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A41 - Smartphone 6.1" Sup con un 28.09 % de descuento'
-date: 2021-01-23 12:24:59
+date: 2021-01-24 18:33:20
 image: 'https://m.media-amazon.com/images/I/416cqVjJanL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08778JXCT/?tag=tolees-21'
 descuento: '28.09'
-average: '220.92421875'
+average: '220.744696969697'
 ---
 
 En este momento está [Samsung Galaxy A41 - Smartphone 6.1" Super AMOLED  4GB RAM  64GB ROM   Negro [Versión española]](https://www.amazon.es/dp/B08778JXCT/?tag=tolees-21) a 215.0 EUR (original: 299.0 EUR) (28.09 %  de descuento) en el siguiente enlace!
