@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Nintendo - Set De Dos Mandos Joy-Con  Co al 24.45 % de descuento'
-date: 2021-01-19 12:26:34
+date: 2021-01-23 23:46:15
 image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B072BZ66JL-es Nintendo - Set De Dos Mandos Joy-Con Color Verde Neón /...'
-tags: tole.es, nintendo, nintendo, switch
+sku: 'B072BZ66JL-es'
+tags: [ 'nintendo','nintendo','switch', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21'
 descuento: '24.45'
-average: '74.29688679245284'
+average: '74.1800925925926'
 ---
 
 Está [Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Nintendo Switch ](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21) con 24.45 de descuento por 67.99 EUR (original: 89.99 EUR) en el siguiente enlace!
