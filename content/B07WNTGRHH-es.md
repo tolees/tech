@@ -27,10 +27,10 @@ Ahora mismo tienes [SAXTEL - Carcasa inferior del portátil Reemplazar la cubier
 
 🔎:
 
-- Montaje: para Lenovo G50-80 G50-70 G50-30 G50-45 serise laptop
+- Reconstruir la apariencia de su computadora portátil
 - Reemplaza el número de pieza: AP0TH000400
 - Paquete incluido: 1 x caja inferior
 - Color: negro
-- Reconstruir la apariencia de su computadora portátil
+- Montaje: para Lenovo G50-80 G50-70 G50-30 G50-45 serise laptop
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WNTGRHH/?tag=tolees-21)
