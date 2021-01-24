@@ -27,9 +27,9 @@ Está [Samsung EVO Plus - Tarjeta de memoria microSD de 32 GB con adaptador SD  
 
 ℹ️:
 
-- Escritura: 20Mb/s
-- Aplicación de uso: teléfono móvil, teléfono inteligente y tableta
 - Lectura: 95Mb/s
+- Escritura: 20Mb/s
 - Graba vídeos Full HD
+- Aplicación de uso: teléfono móvil, teléfono inteligente y tableta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XFSZGCC/?tag=tolees-21)

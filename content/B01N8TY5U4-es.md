@@ -28,8 +28,8 @@ Tienes [Nikon D5600 - Cámara réflex de 24.2 MP  pantalla táctil de 3"  Full H
 🔎:
 
 - Pantalla táctil LCD TFT abatible con una diagonal de 3 pulgadas
-- Sensor CMOS de formato DX de 24,2 MP
-- Grabación de vídeo en Full HD
 - Objetivo AFS DX 18-140 G VR
+- Grabación de vídeo en Full HD
+- Sensor CMOS de formato DX de 24,2 MP
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N8TY5U4/?tag=tolees-21)
