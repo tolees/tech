@@ -27,10 +27,10 @@ Tienes [Samsung Disco Duro Externo PSSD X5 500GB](https://www.amazon.es/dp/B07GL
 
 🔎:
 
-- Thermal Management Technology, encriptación AES 256-bit
 - Interfaz ThunderboltTM 3
 - Nuestro nuevo SSD portátil X5 ha sido diseñado pensando en aquellos profesionales que necesitan renderizar o compilar contenido en alta resolución de forma más rápida.
-- Velocidad secuencial de escritura: 2,300MB/s
 - Velocidad secuencial de lectura: 2,800MB/s
+- Velocidad secuencial de escritura: 2,300MB/s
+- Thermal Management Technology, encriptación AES 256-bit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21)
