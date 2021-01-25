@@ -27,9 +27,9 @@ Está [Disco duro externo  disco duro externo portátil de 1 TB 2 TB HDD externo
 
 ℹ️:
 
-- Garantía de 1 año de garantía del fabricante con servicio de soporte técnico gratuito
 - Transferencia rápida de datos: disco duro externo, velocidad de transferencia súper rápida con USB 2.0, que lectura es 5 veces más rápida que los discos duros habituales, asegurando un uso rápido y estable
 - Compatibilidad del sistema: Microsoft Windows 10/Windows 8.1/Windows 8/Windows 7/Apple MAC/Android y mucho más
+- Garantía de 1 año de garantía del fabricante con servicio de soporte técnico gratuito
 - Disco duro externo portátil ultra delgado protegido por una funda resistente y duradera, que es ligero y práctico, se adapta cómodamente a tu palma o cabe en el bolsillo.
 - Plug and Play: este disco duro externo está listo para usar sin software para instalar, simplemente conéctalo y listo.
 
