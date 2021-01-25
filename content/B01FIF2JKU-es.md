@@ -27,9 +27,9 @@ Ahora mismo tienes [Energy Sistem Headphones DJ2 Black Mic  Auriculares Estilo D
 
 🔎:
 
+- - FOLDABLE: système de pliage qui rend facile son transport et qui permet de les stocker à votre aise dans une poche ou sac à dos.
+- - MICROPHONE & CONTROL TALK: microphone intégré sur le câble pour parler sans besoin de sortir le smartphone de la poche. La fonction de contrôle vous permet de répondre à vos appels ou gérer la lecture de la musique avec un simple bouton.
 - - FLIP-UP EAR CUPS: Rotation verticale 180º des écouteurs qui permet de les placer sur une seule oreille.
 - - DJ HEADPHONES: Casque serre-tête style DJ avec drivers néodyme 40 mm qui offrent un son puissant et enrichi en graves.
-- - MICROPHONE & CONTROL TALK: microphone intégré sur le câble pour parler sans besoin de sortir le smartphone de la poche. La fonction de contrôle vous permet de répondre à vos appels ou gérer la lecture de la musique avec un simple bouton.
-- - FOLDABLE: système de pliage qui rend facile son transport et qui permet de les stocker à votre aise dans une poche ou sac à dos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FIF2JKU/?tag=tolees-21)
