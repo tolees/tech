@@ -28,9 +28,9 @@ En este momento está [Disco duro externo  disco duro externo portátil de 1 TB 
 🔎:
 
 - Funciona con USB 3.0 y USB 2.0 para ofrecer velocidades de transferencia ultrarrápidas de hasta 5.0 Gbit/s (625 MB/s).
+- Compatibilidad del sistema: Microsoft Windows 10/Windows 8.1/Windows 8/Windows 7/Apple MAC/Android y mucho más.
+- Plug and Play: este disco duro externo está listo para usar sin software para instalar, simplemente conéctalo y listo.
 - Hay 1 TB y 2 TB para tus elecciones, todo lo suficientemente grande como para almacenar grandes cantidades de datos. Su puerto tipo C soporta la inserción libre en ambos lados, mejorando la vida útil y su comodidad de uso.
 - Lo que obtienes: 1 disco duro portátil, 1 cable USB.
-- Plug and Play: este disco duro externo está listo para usar sin software para instalar, simplemente conéctalo y listo.
-- Compatibilidad del sistema: Microsoft Windows 10/Windows 8.1/Windows 8/Windows 7/Apple MAC/Android y mucho más.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PTH12X8/?tag=tolees-21)
