@@ -27,8 +27,8 @@ En este momento está [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](ht
 
 🔎:
 
-- No requiere enchufe
 - Función mute y rellamada
+- No requiere enchufe
 - Montaje en pared
 - 10 marcaciones directas
 
