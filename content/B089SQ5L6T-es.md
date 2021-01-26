@@ -27,9 +27,9 @@ Está [Asus TUF Gaming VG27WQ1B - Monitor gaming curvo de 27   WQHD  2560 x 1440
 
 ℹ️:
 
+- La tecnología ASUS Extreme Low Motion Blur (ELMB) y los 165 Hz de refresco de pantalla, permiten un tiempo de respuesta de 1 ms (MPRT) junto con la sincronización adaptativa, eliminando el ghosting
 - Modelo sin marcos para conseguir una óptima experiencia jugando
 - Monitor curvo gaming de 27 con resolución WQHD (2560 x 1440) muestra imágenes detalladas y nítidas
-- La tecnología ASUS Extreme Low Motion Blur (ELMB) y los 165 Hz de refresco de pantalla, permiten un tiempo de respuesta de 1 ms (MPRT) junto con la sincronización adaptativa, eliminando el ghosting
 - Tecnología FreeSync Premium, compatible con DP y puertos HDMI, que ofrece velocidades de actualización variables para baja latencia, stottern y sin roturas durante el juego
 - La curvatura 1500R hace que la experiencia de juego sea completamente inmersiva
 
