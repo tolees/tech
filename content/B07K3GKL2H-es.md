@@ -27,13 +27,13 @@ Ahora mismo tienes [Vieta Pro Hubbie - Altavoz inalámbrico portátil  con bluet
 
 🔎:
 
-- The battery life is 4 hours and the battery charge is only 1.5 hours, so you can make the most of your music playback
-- It has IPX4 water resistance so you dont worry about splashing water
-- It has a USB player to enjoy the music you put on your pen drive and forget your smartphone
-- Compact and portable design. It stands out for its rubber and pastel finishes. In addition, it surprises the quality sound considering its small size.
-- This speaker has bluetooth technology and stands out for having a deep and resounding sound
+- Enjoy its voice call function, you can answer all your calls from the speaker
 - Stand out by the radio, you can use the speaker to listen to your favorite stations
 - It is very easy to carry and carry everywhere; thanks to the rope, you can hang it from your backpack or bag
-- Enjoy its voice call function, you can answer all your calls from the speaker
+- The battery life is 4 hours and the battery charge is only 1.5 hours, so you can make the most of your music playback
+- Compact and portable design. It stands out for its rubber and pastel finishes. In addition, it surprises the quality sound considering its small size.
+- It has IPX4 water resistance so you dont worry about splashing water
+- It has a USB player to enjoy the music you put on your pen drive and forget your smartphone
+- This speaker has bluetooth technology and stands out for having a deep and resounding sound
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K3GKL2H/?tag=tolees-21)
