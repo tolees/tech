@@ -27,10 +27,10 @@ Ahora mismo tienes [KEYESTUDIO LCD Kit 1602/16 X 2 I2C/TWI Pantalla LCD Módulo 
 
 🔎:
 
-- Plug and play, ya que es perfectamente compatible con la Biblioteca de cristal líquido Arduino
-- Construido con la interfaz Arduino IIC / I2C para guardar 5 puertos IO (la LCD 1602 original necesita 7 puertos IO para estar en funcionamiento)
+- Pantalla brillante y clara: fondo azul y luz de fondo blanca, contraste ajustable
 - Tiene video, diagrama de conexión, código simple para su referencia, así como certificación FCC (es excelente y realmente seguro)
 - I602 está equipado con 4 pines en total. SCL debe estar conectado a analógico 5, SDA a analógico 4, VCC a + 5V y GND a tierraado a anal¨gico 5, SDA a anal¨gico 4, VCC a + 5V y GND a tierra
-- Pantalla brillante y clara: fondo azul y luz de fondo blanca, contraste ajustable
+- Construido con la interfaz Arduino IIC / I2C para guardar 5 puertos IO (la LCD 1602 original necesita 7 puertos IO para estar en funcionamiento)
+- Plug and play, ya que es perfectamente compatible con la Biblioteca de cristal líquido Arduino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GKY5B2G/?tag=tolees-21)

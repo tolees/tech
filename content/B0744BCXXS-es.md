@@ -27,10 +27,10 @@ Tienes [TP-Link T1500G-8T TL-SG2008  Smart Switch Jetstream Gigabit  Puerto 8 IE
 
 🔎:
 
-- QoS L2/L3/L4 y IGMP snooping optimizando así aplicaciones de voz y vídeo
-- Características de seguridad avanzadas incluyendo unión IP-MAC-Puerto, ACL, Seguridad de Puertos, Defensa DoS, Control de Tormentas, DHCP Snooping, 802.1X, y Autenticación Radius
-- Modos WEB/CLI, SNMP, RMON aportan abundantes características de gestión
-- Conexiones Ethernet Gigabit en todos los puertos proporcionando una velocidad altísima de transferencia de datos
 - Puerto 8 compatible con PoE 802.3af permitiendo suministro eléctrico desde una fuente PoE
+- Características de seguridad avanzadas incluyendo unión IP-MAC-Puerto, ACL, Seguridad de Puertos, Defensa DoS, Control de Tormentas, DHCP Snooping, 802.1X, y Autenticación Radius
+- Conexiones Ethernet Gigabit en todos los puertos proporcionando una velocidad altísima de transferencia de datos
+- Modos WEB/CLI, SNMP, RMON aportan abundantes características de gestión
+- QoS L2/L3/L4 y IGMP snooping optimizando así aplicaciones de voz y vídeo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0744BCXXS/?tag=tolees-21)

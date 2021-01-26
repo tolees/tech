@@ -27,10 +27,10 @@ Está [Maxesla WiFi Adaptador AC 600Mbps Mini USB WiFi Receptor Dual Band 2.4G/5
 
 ℹ️:
 
-- Mini tamaño: adaptador wifi de diseño compacto y fácil de transportar, no es necesario quitarlo después de que salga de su computadora portátil o pc.
-- Banda dual segura: Obtenga 433Mbps de velocidad inalámbrica utilizando la banda WIFI de 5 GHz o 150Mbps de velocidad utilizando la banda WIFI de 2.4 GHz. Pulse el botón WPS para utilizar el cifrado de seguridad inalámbrica de forma fácil.
 - Estación/AP modo: Este adaptador wifi se puede como señal receptor en modo utilizar en el ordenador y portátil, que no tienen señal WLAN incorporado o débil, despedida de conexión de cable.
 - Perfecta compatibilidad: Soporta Windows 10/8/7/XP/vista, Mac OS, estándares IEEE 802.11ac,compatible 802/b/g/n periféricos;soporte la computadora, PC, ordenador portátil, computadora de escritorio y cuaderno etc.
+- Mini tamaño: adaptador wifi de diseño compacto y fácil de transportar, no es necesario quitarlo después de que salga de su computadora portátil o pc.
 - Fácil de usar: antes de conectar el adaptador de red inalámbrica en el puerto usb, PRIMERO instale los controladores a través del CD MINI, o descargue el controlador desde https://a.ei72.com/b6zp para instalar. Una vez que haya ejecutado el software, simplemente puede insertar el adaptador para conectarse.
+- Banda dual segura: Obtenga 433Mbps de velocidad inalámbrica utilizando la banda WIFI de 5 GHz o 150Mbps de velocidad utilizando la banda WIFI de 2.4 GHz. Pulse el botón WPS para utilizar el cifrado de seguridad inalámbrica de forma fácil.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PNQ6JWC/?tag=tolees-21)

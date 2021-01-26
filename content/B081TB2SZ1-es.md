@@ -27,10 +27,10 @@ Está [HP EliteDesk 800 G2 Desktop Mini USDT Intel Quad Core i5 256 GB SSD Disco
 
 ℹ️:
 
-- Rendimiento – Procesador Intel Core i5 6500 hasta 4 x 3,60 GHz – fiable y potente. Calidad: sólida, robusta y de alta calidad.
-- Ordenador de alta calidad: ideal para oficina, negocios, empresas, empresas, empresas, autónomos, escuela, escuela, escuela, universitarios, trabajo de oficina en casa, navegar en casa – al mejor precio.
+- Seguridad y servicio: 12 meses de garantía sobre el distribuidor it-versand-com. Reacondicionado, probado y limpiado, técnicamente impecable, buen estado óptico.
 - Fácil de conectar, incluye cable de alimentación. Software Microsoft Windows 10 Pro de 64 bits, preinstalado y completamente configurado de it-versand-com.
 - Equipamiento: disco duro de 256 GB SSD, memoria RAM rápida de 8 GB. Factor de forma ultra pequeña: Green IT de bajo consumo, silencioso y de bajo consumo.
-- Seguridad y servicio: 12 meses de garantía sobre el distribuidor it-versand-com. Reacondicionado, probado y limpiado, técnicamente impecable, buen estado óptico.
+- Rendimiento – Procesador Intel Core i5 6500 hasta 4 x 3,60 GHz – fiable y potente. Calidad: sólida, robusta y de alta calidad.
+- Ordenador de alta calidad: ideal para oficina, negocios, empresas, empresas, empresas, autónomos, escuela, escuela, escuela, universitarios, trabajo de oficina en casa, navegar en casa – al mejor precio.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TB2SZ1/?tag=tolees-21)
