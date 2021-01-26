@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.08 % en TP-Link TL-SG1005D - Gigabit Switch de R'
-date: 2021-01-24 17:54:43
+date: 2021-01-25 23:51:14
 image: 'https://m.media-amazon.com/images/I/317hNOQceKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YMTNVEM/?tag=tolees-21'
 descuento: '23.08'
-average: '13.0314450867051'
+average: '13.031264367816'
 ---
 
 Tienes [TP-Link TL-SG1005D - Gigabit Switch de Red con 5 Puertos  10/100/1000Mbps  Sin Configuración ](https://www.amazon.es/dp/B00YMTNVEM/?tag=tolees-21) con un 23.08 % de descuento con precio de oferta de 13.0 EUR (original: 16.9 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Tienes [TP-Link TL-SG1005D - Gigabit Switch de Red con 5 Puertos  10/100/1000Mbp
 
 ℹ️:
 
-- Plug and play, no requiere configuración
 - Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
+- Plug and play, no requiere configuración
 - La tecnología green ethernet ahorra energía hasta un 80 por ciento
-- Switch gigabit de 5 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - El control de flujo IEEE 8023 x proporciona una transferencia de datos confiable
+- Switch gigabit de 5 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00YMTNVEM/?tag=tolees-21)
