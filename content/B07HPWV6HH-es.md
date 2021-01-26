@@ -27,10 +27,10 @@ Está [Samsung USB Duo Plus 128GB  USB Tipo C y 3.1 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Resistencia con confianza
 - Conéctala como quieras
 - Memoria USB multifunción con conector USB Tipo C y USB 3.1, ofreciendo velocidades de escritura de hasta 300MB/s
-- Resistencia con confianza
-- Dos memorias USB en una
 - Duplica la conectividad
+- Dos memorias USB en una
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HPWV6HH/?tag=tolees-21)
