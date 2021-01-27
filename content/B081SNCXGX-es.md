@@ -27,10 +27,10 @@ Está [DTK 14V 3A 42W Cargadores y Adaptadores para Portátiles y Netbooks para 
 
 ℹ️:
 
-- Adecuado para monitores Samsung de 15, 17, 19, 22 y 24 pulgadas
-- NOTA - ATENCIÓN POR FAVOR: Verifique que la interfaz del cargador que elija coincida con su computadora portátil. La punta del conector: 6,5 * 4,4 MM
 - Cargador para laptop / notebook con cable de alimentación. Rango de voltaje de entrada: 100-240V / Salida: 14V 3A 42W Conector: 6.5*4.4mm. La longitud total del cable se extiende a 2.8M
-- Todos los productos DTK están certificados por CE, FCC para seguridad. Directrices estrictas de compatibilidad y cumplimiento de estándares para la seguridad del medio ambiente.
 - Los adaptadores de CA fabricados con materiales de la más alta calidad e incluyen funciones de protección de la computadora portátil contra voltaje incorrecto, cortocircuito y calentamiento excesivo interno. 100% de compatibilidad con el original.
+- NOTA - ATENCIÓN POR FAVOR: Verifique que la interfaz del cargador que elija coincida con su computadora portátil. La punta del conector: 6,5 * 4,4 MM
+- Todos los productos DTK están certificados por CE, FCC para seguridad. Directrices estrictas de compatibilidad y cumplimiento de estándares para la seguridad del medio ambiente.
+- Adecuado para monitores Samsung de 15, 17, 19, 22 y 24 pulgadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081SNCXGX/?tag=tolees-21)
