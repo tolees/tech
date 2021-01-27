@@ -27,10 +27,10 @@ Ahora mismo tienes [Auriculares Bluetooth  Bluedio Ei Auriculares Inalámbricos 
 
 🔎:
 
-- ♫ 【Smart Touch Control】: la función de control táctil fácil de usar en cada lado admite reproducción / pausa, Siri, cambiar pistas y manejar llamadas telefónicas fácilmente.
-- ♫ 【Micrófonos con cancelación de ruido ambiental (ENC)】: actualice la función ENC del micrófono equipado para reducir el ruido ambiental de manera efectiva, lo que le permite disfrutar de un audio nítido mejorado y un efecto de llamada telefónica durante la comunicación comercial.
 - ♫ 【Tecnología de carga inalámbrica】: el estuche que es compatible con el cargador inalámbrico (no incluido) le ofrece un método de carga más conveniente y le permite deshacerse del cable.
-- ♫ 【Hasta 40 horas de tiempo de reproducción】: aproximadamente 1,5 horas de carga de los auriculares le brindan aproximadamente 8 horas de reproducción continua, el mini estuche de carga portátil puede recargarse 4 veces más. Tiempo total de reproducción hasta 40 h.
+- ♫ 【Smart Touch Control】: la función de control táctil fácil de usar en cada lado admite reproducción / pausa, Siri, cambiar pistas y manejar llamadas telefónicas fácilmente.
 - ♫ 【Bluetooth 5.0 y emparejamiento automático】: emparejamiento fácil, rápido y sin preocupaciones con solo abrir el estuche de carga. Las luces LED brillantes señalarán el proceso de emparejamiento y se conectarán rápidamente a través del teléfono inteligente Bluetooth. Empareje rápido y sin esfuerzo para comenzar a disfrutar más rápido.
+- ♫ 【Micrófonos con cancelación de ruido ambiental (ENC)】: actualice la función ENC del micrófono equipado para reducir el ruido ambiental de manera efectiva, lo que le permite disfrutar de un audio nítido mejorado y un efecto de llamada telefónica durante la comunicación comercial.
+- ♫ 【Hasta 40 horas de tiempo de reproducción】: aproximadamente 1,5 horas de carga de los auriculares le brindan aproximadamente 8 horas de reproducción continua, el mini estuche de carga portátil puede recargarse 4 veces más. Tiempo total de reproducción hasta 40 h.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KFK2VSX/?tag=tolees-21)
