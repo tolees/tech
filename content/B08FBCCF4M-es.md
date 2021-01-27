@@ -27,8 +27,8 @@ Tienes [MSI GS75 Stealth 10SE-816XES - Ordenador portátil Gaming de 17.3" FullH
 
 🔎:
 
-- Memoria RAM de 16 GB x 2 (3200 MHz)
 - Disco de 1 TB NVMe PCIe Gen3x4 SSD
+- Memoria RAM de 16 GB x 2 (3200 MHz)
 - Tarjeta grafica GeForce RTX 2060, GDDR6 6 GB
 - Sin sistema operativo
 - Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
