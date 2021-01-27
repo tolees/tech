@@ -27,10 +27,10 @@ Está [Tuo3eu - Monitor de 9 Pulgadas  Mini Portátil Seguridad Monitor 1024 * 6
 
 ℹ️:
 
-- 💎【Imágenes claras 】una pantalla de monitor TFT súper de 9 pulgadas con alta resolución HD 1024 x 600, la imagen es clara y exquisita, proporciona excelentes detalles de color, estabilidad y resistencia contra interferencia, brinda un excelente disfrute visual.
-- 🎃【Nuevas características】 Interconexión inalámbrica de teléfonos móviles, que puede usar la misma pantalla del teléfono móvil en la pantalla para lograr navegación en línea en tiempo real, advertencia electrónica de perros, audio y video, juegos de entretenimiento.
-- 🎁【Altavoz incorporado】Los altavoces integrados proporcionan una reproducción de sonido potente, nítida y natural, haciendo que todas sus escenas suenen geniales.
-- 🌟【Use Uso muy extenso】 Con puertos de entrada ricos que incluyen AV (RCA), VGA, HDMI, puede usarse perfectamente como monitor de seguridad CCTV, monitor de PC, monitor Raspberry PI, monitor de pantalla de automóvil, monitor DSLR, pantalla de mini TV, etc.
 - 🎆【Operación fácil】 El diseño del botón táctil hace que la operación sea más conveniente. el menú OSD de muchos idiomas puede completar rápidamente varias configuraciones. Los botones no se dañarán durante mucho tiempo. También está equipado con un control remoto, Puede usar el control remoto para controlar el monitor. (sin función táctil en la pantalla).
+- 🎁【Altavoz incorporado】Los altavoces integrados proporcionan una reproducción de sonido potente, nítida y natural, haciendo que todas sus escenas suenen geniales.
+- 💎【Imágenes claras 】una pantalla de monitor TFT súper de 9 pulgadas con alta resolución HD 1024 x 600, la imagen es clara y exquisita, proporciona excelentes detalles de color, estabilidad y resistencia contra interferencia, brinda un excelente disfrute visual.
+- 🌟【Use Uso muy extenso】 Con puertos de entrada ricos que incluyen AV (RCA), VGA, HDMI, puede usarse perfectamente como monitor de seguridad CCTV, monitor de PC, monitor Raspberry PI, monitor de pantalla de automóvil, monitor DSLR, pantalla de mini TV, etc.
+- 🎃【Nuevas características】 Interconexión inalámbrica de teléfonos móviles, que puede usar la misma pantalla del teléfono móvil en la pantalla para lograr navegación en línea en tiempo real, advertencia electrónica de perros, audio y video, juegos de entretenimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087LTNJM1/?tag=tolees-21)

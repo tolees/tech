@@ -27,15 +27,15 @@ Tienes [Apple MacBook Pro  de 13 pulgadas  16 GB RAM  512 GB Almacenamiento 
 
 🔎:
 
-- Almacenamiento SSD ultrarrápido
-- Teclado Magic Keyboard retroiluminado
 - Hasta 10 horas de autonomía
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Wifi 802.11ac
 - Intel Iris Plus Graphics
-- Trackpad Force Touch
 - Espectacular pantalla Retina con tecnología True Tone
-- Cuatro puertos Thunderbolt 3 (USB-C)
 - Touch Bar y Touch ID
+- Teclado Magic Keyboard retroiluminado
+- Trackpad Force Touch
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Almacenamiento SSD ultrarrápido
+- Wifi 802.11ac
+- Cuatro puertos Thunderbolt 3 (USB-C)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
