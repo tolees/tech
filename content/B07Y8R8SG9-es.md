@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Pro 7 - Ordenador port al 19.94 % de rebaja'
-date: 2021-01-26 10:44:37
+date: 2021-01-27 10:57:54
 image: 'https://m.media-amazon.com/images/I/31NuINmVUXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,12 +27,12 @@ Tienes [Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Cor
 
 🔎:
 
-- Procesador Intel 10ª Gen. Core i5-1035G4, 1.1GHz
-- Tarjeta gráfica Intel Graphics
-- Memoria RAM de 8GB LPDDR4X
-- Disco duro sólido de 256GB
 - Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
 - Sistema operativo Windows 10 Home
+- Memoria RAM de 8GB LPDDR4X
+- Disco duro sólido de 256GB
+- Tarjeta gráfica Intel Graphics
+- Procesador Intel 10ª Gen. Core i5-1035G4, 1.1GHz
 - No incluye Type Cover (funda con teclado)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y8R8SG9/?tag=tolees-21)

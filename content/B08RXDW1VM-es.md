@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco M3 - Smartphone 4+64GB  Pant al 15.44 % de descuento'
-date: 2021-01-26 09:06:40
+date: 2021-01-27 10:51:34
 image: 'https://m.media-amazon.com/images/I/41qnk8JrXgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08RXDW1VM/?tag=tolees-21'
 descuento: '15.44'
-average: '137.5'
+average: '135.2'
 ---
 
 Está [Xiaomi Poco M3 - Smartphone 4+64GB  Pantalla 6 53" FHD+ con Dot Drop  Snapdragon 662  Cámara Triple de 48 MP con IA  batería de 6000 mAh Azul Molón Blue](https://www.amazon.es/dp/B08RXDW1VM/?tag=tolees-21) con 15.44 de descuento por 126.0 EUR (original: 149.0 EUR) en el siguiente enlace!
