@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix G15 G512LU-HN161 - Portát al 21.44 % de descuento'
-date: 2021-01-25 14:39:50
+date: 2021-01-27 09:47:38
 image: 'https://m.media-amazon.com/images/I/41ohVQQ6chL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,11 +27,11 @@ Está [ASUS ROG Strix G15 G512LU-HN161 - Portátil Gaming de 15.6" FullHD 144Hz 
 
 ℹ️:
 
-- Memoria RAM 16GB (8GB*2) DDR4 2933MHz
-- Almacenamiento 1TB SSD M.2 NVMe PCIe 3.0
-- Tarjeta gráfica NVIDIA GeForce GTX 1660Ti con ROG Boost 6GB GDDR6 VRAM
 - Sin sistema operativo
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
 - Pantalla de 15.6" FullHD (1920x1080) 144Hz
+- Almacenamiento 1TB SSD M.2 NVMe PCIe 3.0
+- Tarjeta gráfica NVIDIA GeForce GTX 1660Ti con ROG Boost 6GB GDDR6 VRAM
+- Memoria RAM 16GB (8GB*2) DDR4 2933MHz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DNJWV6T/?tag=tolees-21)
