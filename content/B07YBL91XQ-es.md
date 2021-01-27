@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi GMR4015GL - Regleta al 16.68 % de descuento'
-date: 2021-01-25 13:05:11
+date: 2021-01-27 16:21:25
 image: 'https://m.media-amazon.com/images/I/31G1weCxvmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YBL91XQ/?tag=tolees-21'
 descuento: '16.68'
-average: '13.6324657534246'
+average: '13.602'
 ---
 
 Está [Xiaomi GMR4015GL - Regleta](https://www.amazon.es/dp/B07YBL91XQ/?tag=tolees-21) con 16.68 de descuento por 12.49 EUR (original: 14.99 EUR) en el siguiente enlace!
