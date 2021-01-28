@@ -27,10 +27,10 @@ Tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom
 
 ℹ️:
 
+- Con licencia oficial para Nintendo
+- Libertad inalámbrica Bluetooth
 - Luces LED de alimentación, asignación de botones, número del jugador y advertencia de batería baja
 - Incluye mandos de movimiento y botones de control avanzado de juego
-- Libertad inalámbrica Bluetooth
-- Con licencia oficial para Nintendo
 - Mando ergonómico con disposición de botones estándar y diseño Doom 25
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21)

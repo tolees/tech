@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung U32J592 - Monitor de 32    4K  4 ms  60 Hz  FreeSync
 🔎:
 
 - Monitor 32 4k uhd
-- Game mode
 - Panel va para negros más profundos
-- Mil millones de colores
 - Amd freesync
+- Mil millones de colores
+- Game mode
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CTHWKQC/?tag=tolees-21)

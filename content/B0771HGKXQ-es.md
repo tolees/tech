@@ -27,10 +27,10 @@ Está [Tronsmart Mega Altavoz Bluetooth  Sonido Digital 3D  Panel Táctil  40W A
 
 ℹ️:
 
-- ♫Panel Táctil con Luz LED♫ Cuenta con un panel táctil totalmente integrado con un exclusivo mecanismo de volumen deslizable para su control.
-- ♫Bluetooth 5.0, NFC, Tarjeta TF y AUX♫ Compatible con cualquier dispositivo Bluetooth. Conexión con dispositivos hasta a 20 metros de distancia. Además la función NFC y la tarjeta TF le ayuda conectar a su dispositivo mas fácilmente. La toma AUX incorporada de 3,5 mm proporciona una alternativa para dispositivos de audio que no son compatibles con Bluetooth.
-- ♫True Wireless Stereo♫ La tecnología TWS que permite la CONEXIÓN DE DOS ALTAVOCES Tronsmart Mega para conseguir sonido en estéreo y disfrutar de una experiencia inmersiva.
-- ♫ Drivers de 40W con Audio DSP♫ Los drivers de audio de 40W con DSP y con Sonido Digital 3D permiten llenar incluso las habitaciones más grandes con un sonido nítido y claro. Es un compañero perfecto en fiestas o para practicar actividades al aire libre.
 - ♫Tiempo de Reproducción Amplio♫ Con batería de litio de 2x3300mAh incorporadas, permite hasta 15 horas de funcionamiento en un nivel de volumen del 20%-30%. Además, podrás responder llamadas con manos libres desde el propio altavoz aún en situaciones exteriores, gracias a su micrófono incorporado con eliminación de ruido.
+- ♫True Wireless Stereo♫ La tecnología TWS que permite la CONEXIÓN DE DOS ALTAVOCES Tronsmart Mega para conseguir sonido en estéreo y disfrutar de una experiencia inmersiva.
+- ♫Bluetooth 5.0, NFC, Tarjeta TF y AUX♫ Compatible con cualquier dispositivo Bluetooth. Conexión con dispositivos hasta a 20 metros de distancia. Además la función NFC y la tarjeta TF le ayuda conectar a su dispositivo mas fácilmente. La toma AUX incorporada de 3,5 mm proporciona una alternativa para dispositivos de audio que no son compatibles con Bluetooth.
+- ♫ Drivers de 40W con Audio DSP♫ Los drivers de audio de 40W con DSP y con Sonido Digital 3D permiten llenar incluso las habitaciones más grandes con un sonido nítido y claro. Es un compañero perfecto en fiestas o para practicar actividades al aire libre.
+- ♫Panel Táctil con Luz LED♫ Cuenta con un panel táctil totalmente integrado con un exclusivo mecanismo de volumen deslizable para su control.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0771HGKXQ/?tag=tolees-21)
