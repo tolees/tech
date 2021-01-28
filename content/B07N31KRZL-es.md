@@ -28,9 +28,9 @@ Está [Transcend Usd300S Tarjeta Microsd de 256Gb  Clase 10   V30  A1  Hasta 95 
 ℹ️:
 
 - Software RecoveRx
+- Cumple con el estándar A1 para aplicaciones móviles
+- Clase de velocidad 10, U3, hasta 95 MBs de Lectura
 - Velocidad de Escritura hasta 40 MBs
 - Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
-- Clase de velocidad 10, U3, hasta 95 MBs de Lectura
-- Cumple con el estándar A1 para aplicaciones móviles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N31KRZL/?tag=tolees-21)
