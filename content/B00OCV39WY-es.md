@@ -27,13 +27,13 @@ Tienes [Panasonic KX-TGC310 - Teléfono Fijo Inalámbrico  LCD  Identificador De
 
 🔎:
 
-- Modo ECO con un toque: ahorra de la batería y del consumo de luz
-- Agenda de 50 nombres y números y rellamada de 10 números de memoria
-- Batería de 16h uso continuo y en espera de 200h
-- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos. Su aspecto elegante queda bien con los interiores
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
-- Fácil uso- Conéctalo a la corriente y listo
 - Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
+- Fácil uso- Conéctalo a la corriente y listo
+- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos. Su aspecto elegante queda bien con los interiores
+- Batería de 16h uso continuo y en espera de 200h
+- Agenda de 50 nombres y números y rellamada de 10 números de memoria
+- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 - DECT con pantalla : LCD 1.6"
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OCV39WY/?tag=tolees-21)
