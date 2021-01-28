@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco M3 - Smartphone 128GB  4GB R al 16.76 % de descuento'
-date: 2021-01-26 21:39:01
+date: 2021-01-28 01:13:04
 image: 'https://m.media-amazon.com/images/I/41EiqNxr2QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08P4MW2RB/?tag=tolees-21'
 descuento: '16.76'
-average: '169.0'
+average: '165.0'
 ---
 
 Ahora mismo tienes [Xiaomi Poco M3 - Smartphone 128GB  4GB RAM  Dual Sim  Power Black](https://www.amazon.es/dp/B08P4MW2RB/?tag=tolees-21) a 149.0 EUR (original: 179.0 EUR) (16.76 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Xiaomi Poco M3 - Smartphone 128GB  4GB RAM  Dual Sim  Power 
 🔎:
 
 - Cámara: Triple, 48MP+2MP+2MP
-- Procesador: Snapdragon 662 2GHz
 - Batería: 6000 mAh
+- Procesador: Snapdragon 662 2GHz
 - Pantalla: 6.53", 1080 x 2340 pixels
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P4MW2RB/?tag=tolees-21)
