@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Ultimate Ears Boom 3 Altavoz Portátil In al 29.68 % de descuento'
-date: 2020-06-26 15:18:34
+title: 'Ultimate Ears Boom 3 Altavoz Portátil In al 23.23 % de descuento'
+date: 2021-01-28 14:08:59
 image: 'https://m.media-amazon.com/images/I/41x-nLudKXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,23 +9,28 @@ author: ring
 slug: 'B07G6CQQYG-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
 sku: 'B07G6CQQYG-es'
 tags: [ 'bluetooth','altavoz', ]
-actualPrice: 109.0 EUR
+actualPrice: 119.0 EUR
 currency: EUR
-price: 109.0
+price: 119.0
 comparePrice: 155.0 EUR
 prodname: 'Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Azul'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G6CQQYG/?tag=tolees-21'
-descuento: '29.68'
-average: '97.975'
+descuento: '23.23'
+average: '104.983333333333'
 ---
 
-Está [Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Azul](https://www.amazon.es/dp/B07G6CQQYG/?tag=tolees-21) con 29.68 de descuento por 109.0 EUR (original: 155.0 EUR) en el siguiente enlace!
+Está [Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Azul](https://www.amazon.es/dp/B07G6CQQYG/?tag=tolees-21) con 23.23 de descuento por 119.0 EUR (original: 155.0 EUR) en el siguiente enlace!
 
 [![Ultimate Ears Boom 3 Altavoz Portátil In](https://m.media-amazon.com/images/I/41x-nLudKXL._SL200_.jpg)](https://www.amazon.es/dp/B07G6CQQYG/?tag=tolees-21)
 
 ℹ️:
 
+- El Magic Button: Con BOOM 3 puedes reproducir, poner en pausa y omitir pistas directamente desde este pequeño altavoz, controla la música y crea playlists para Apple Music y Deezer Premium
+- Duración de Batería: BOOM 3 funciona con la misma tecnología de batería que algunos de los coches eléctricos más cotizados; BOOM 3 tiene energía para tu música durante 15 h con una sola carga
+- Impermeable y Flotante Como Pez: Tiene un grado de protección IP67 que lo hace resistente al agua y el polvo, y puede sumergirse por completo durante 30 minutos
+- Carga Inalámbrica con Power Up: BOOM 3 se carga de forma inalámbrica con la base POWER UP, no incluido, para que puedas llevártelo donde quieras; su base Power Up se conecta con micro USB
+- Sonido Espacial de 360°: Con el mini altavoz BOOM 3 hemos optimizando nuestro emblemático diseño cilíndrico, para ofrecer audio inmersivo y estereofónico en todas las direcciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G6CQQYG/?tag=tolees-21)

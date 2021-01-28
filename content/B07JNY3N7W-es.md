@@ -27,9 +27,9 @@ Ahora mismo tienes [Panasonic KX-TGC210 - Teléfono fijo inalámbrico  LCD  iden
 
 🔎:
 
-- Llamada en conferencia con línea exterior, intercomunicador (entre unidades portátiles)
-- Melodía polifónica del timbre
 - Use su unidad portátil como alarma
+- Melodía polifónica del timbre
+- Llamada en conferencia con línea exterior, intercomunicador (entre unidades portátiles)
 - Reduzca las llamadas no deseadas, como las de publicidad
 - Agenda compartida, memoria de rellamada (hasta 10 números de teléfono)
 
