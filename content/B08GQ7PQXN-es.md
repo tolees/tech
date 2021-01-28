@@ -28,9 +28,9 @@ Ahora mismo tienes [Energy Sistem - Energy Tower 5 g2  65 W  Bluetooth 5.0  True
 🔎:
 
 - - RADIO FM: Función radio FM para sintonizar cualquier emisora en tu torre de sonido y escuchar todos los programas.
-- - USB/MICROSD MP3 PLAYER: Reproduce archivos MP3 desde tarjetas microSD y memorias USB con capacidad de hasta 128 GB o entrada de audio de 3,5 mm.
 - - TRUE WIRELESS STEREO: Conecta dos towers para reproducir simultáneamente cualquier canción con la tecnología True Wireless y duplica la potencia.
-- - 65 W: Altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 W para reproducir música en el hogar.
 - - BLUETOOTH 5.0: Sistema de sonido 2.1 en forma de torre con Bluetooth 5.0 que permite conectar tu smartphone, tablet o cualquier otro dispositivo bluetooth de forma inalámbrica.
+- - 65 W: Altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 W para reproducir música en el hogar.
+- - USB/MICROSD MP3 PLAYER: Reproduce archivos MP3 desde tarjetas microSD y memorias USB con capacidad de hasta 128 GB o entrada de audio de 3,5 mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GQ7PQXN/?tag=tolees-21)
