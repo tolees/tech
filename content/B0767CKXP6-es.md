@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Intel NUC BLKNUC7I3DNK2E- Ordenador Mini al 18.83 % de descuento'
-date: 2021-01-27 06:15:17
+title: 'Intel NUC BLKNUC7I3DNK2E- Ordenador Mini al 19.60 % de descuento'
+date: 2021-01-28 06:33:37
 image: 'https://m.media-amazon.com/images/I/31ztJz0CjgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B0767CKXP6-es Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC Intel Core...'
 sku: 'B0767CKXP6-es'
 tags: [ 'ordenador','ram', ]
-actualPrice: 227.26 EUR
+actualPrice: 225.1 EUR
 currency: EUR
-price: 227.26
+price: 225.1
 comparePrice: 279.99 EUR
 prodname: 'Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21'
-descuento: '18.83'
-average: '237.783099041533'
+descuento: '19.60'
+average: '237.742707006369'
 ---
 
-Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 ](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21) con 18.83 de descuento por 227.26 EUR (original: 279.99 EUR) en el siguiente enlace!
+Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 ](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21) con 19.60 de descuento por 225.1 EUR (original: 279.99 EUR) en el siguiente enlace!
 
 [![Intel NUC BLKNUC7I3DNK2E- Ordenador Mini](https://m.media-amazon.com/images/I/31ztJz0CjgL._SL200_.jpg)](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21)
 
 ℹ️:
 
-- Memoria interna máxima de 32 GB
-- Procesador Intel Core i3
-- Tecnología de virtualización Intel para E / S dirigida (VT-d)
 - Tipos de memoria compatibles DDR4-SDRAM
 - Tipo de ranuras de memoria SO-DIMM
+- Memoria interna máxima de 32 GB
+- Tecnología de virtualización Intel para E / S dirigida (VT-d)
+- Procesador Intel Core i3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21)

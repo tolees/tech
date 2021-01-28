@@ -27,10 +27,10 @@ Ahora mismo tienes [Logitech M705 Marathon Ratón Inalámbrico  Embalaje de Busi
 
 🔎:
 
-- Seguimiento láser: Ofrece un control preciso, rápido y uniforme del cursor en superficies por las que los ratones ópticos estándar no navegan bien, como las muy pulidas o de madera.*** ***Funciona en casi cualquier tipo de superficie, excepto cristal o espejos.
-- Tres años de duración de las pilas, más clics. Más desplazamientos. Más acciones. Logitech Marathon Mouse M705 usa mucha menos energía que los ratones inalámbricos comparables de otras empresas. Eso significa que pueden pasar hasta tres años antes de tener que cambiar las pilas.* *La duración de las pilas depende del uso.
-- Receptor Logitech Unifying: El minúsculo receptor inalámbrico permanece en el portátil. No hay que desconectarlo para llevar el portátil de un sitio a otro y no hay que preocuparse por si se rompe o se pierde. Y puedes agregar fácilmente ratones o teclados inalámbricos compatibles al mismo receptor.
 - Diseñado para el control: La forma anatómica para la mano derecha proporciona una posición natural y cómoda y pone a tu alcance un control que se puedes personalizar. Dos botones para el pulgar permiten el paso rápido de una página Web a otra.** **Requiere instalación de software.
 - Desplazamiento superrápido: Desplázate a gran velocidad por documentos y páginas Web con un solo giro del botón rueda metálico sin apenas fricción.
+- Receptor Logitech Unifying: El minúsculo receptor inalámbrico permanece en el portátil. No hay que desconectarlo para llevar el portátil de un sitio a otro y no hay que preocuparse por si se rompe o se pierde. Y puedes agregar fácilmente ratones o teclados inalámbricos compatibles al mismo receptor.
+- Seguimiento láser: Ofrece un control preciso, rápido y uniforme del cursor en superficies por las que los ratones ópticos estándar no navegan bien, como las muy pulidas o de madera.*** ***Funciona en casi cualquier tipo de superficie, excepto cristal o espejos.
+- Tres años de duración de las pilas, más clics. Más desplazamientos. Más acciones. Logitech Marathon Mouse M705 usa mucha menos energía que los ratones inalámbricos comparables de otras empresas. Eso significa que pueden pasar hasta tres años antes de tener que cambiar las pilas.* *La duración de las pilas depende del uso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W4DHT47/?tag=tolees-21)
