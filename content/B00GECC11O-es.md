@@ -27,8 +27,8 @@ Está [Linksys LGS116P-EU - Unmanaged Switch Gigabit PoE+ de Escritorio para Emp
 
 ℹ️:
 
-- Funciones de ahorro energético
 - Conexión sencilla Plug & Play
+- Funciones de ahorro energético
 - Función de optimización del rendimiento QoS (Calidad del Servicio)
 - Rendimiento Gigabit para minimizar los tiempos de transferencia
 - 8 puertos Gigabit Ethernet de autodetección
