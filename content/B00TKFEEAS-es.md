@@ -27,9 +27,9 @@ Tienes [Seagate Technology - Seagate Expansion Portable  1 TB  Disco duro exter
 
 ℹ️:
 
-- Velocidad de rotación de 5400 rpm
-- Disco duro externo con una capacidad de 1 TB
 - Es alimentado por USB
+- Velocidad de rotación de 5400 rpm
 - Funciona con USB 3.0 y USB 2.0 para ofrecer una velocidad de transferencia rápida
+- Disco duro externo con una capacidad de 1 TB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TKFEEAS/?tag=tolees-21)
