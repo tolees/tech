@@ -27,10 +27,10 @@ Ahora mismo tienes [Sony ICF-P26 - Radio portátil  con altavoz y sintonizador A
 
 🔎:
 
-- Indicadores de estado de carga y sintonización LED
 - Correa de mano integrada para una mayor portabilidad
-- Toma de auriculares dedicada para una escucha personal
-- Sintonizador de radio AM/FM integrado
+- Indicadores de estado de carga y sintonización LED
 - Funciona con 2 pilas AA
+- Sintonizador de radio AM/FM integrado
+- Toma de auriculares dedicada para una escucha personal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21)
