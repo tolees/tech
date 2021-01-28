@@ -28,8 +28,8 @@ Tienes [SAMSUNG Cargador Original EP-TA20EBE  Carga Rápida  Cable USB-C 1.5m  p
 🔎:
 
 - Compatible devices: Smartphone
-- Carga rápida
 - Componentes incluidos: Cargador + Cable
 - Connector type: USB
+- Carga rápida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079YXDHXG/?tag=tolees-21)
