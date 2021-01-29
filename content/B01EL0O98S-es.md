@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HP OfficeJet 200 Mobile - Impresora port con un 22.31 % de descuento'
-date: 2021-01-27 09:40:14
+title: 'HP OfficeJet 200 Mobile - Impresora port con un 23.01 % de descuento'
+date: 2021-01-29 02:14:42
 image: 'https://m.media-amazon.com/images/I/319srrY1aFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B01EL0O98S-es HP OfficeJet 200 Mobile - Impresora portátil tinta color...'
 sku: 'B01EL0O98S-es'
 tags: [ 'impresora', ]
-actualPrice: 221.0 EUR
+actualPrice: 219.0 EUR
 currency: EUR
-price: 221.0
+price: 219.0
 comparePrice: 284.45 EUR
 prodname: 'HP OfficeJet 200 Mobile - Impresora portátil  tinta  color  Wi-Fi  USB  CZ993A '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21'
-descuento: '22.31'
-average: '210.795238095238'
+descuento: '23.01'
+average: '211.168181818182'
 ---
 
-En este momento está [HP OfficeJet 200 Mobile - Impresora portátil  tinta  color  Wi-Fi  USB  CZ993A ](https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21) a 221.0 EUR (original: 284.45 EUR) (22.31 %  de descuento) en el siguiente enlace!
+En este momento está [HP OfficeJet 200 Mobile - Impresora portátil  tinta  color  Wi-Fi  USB  CZ993A ](https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21) a 219.0 EUR (original: 284.45 EUR) (23.01 %  de descuento) en el siguiente enlace!
 
 [![HP OfficeJet 200 Mobile - Impresora port](https://m.media-amazon.com/images/I/319srrY1aFL._SL200_.jpg)](https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21)
 
 🔎:
 
-- Imprime con velocidades de 10/7 ppm (negro/color)
-- Bandeja de entrada principal de 50 hojas
 - Conectividad fiable gracias a la conexión Wi-Fi Direct, USB
-- Esta impresora es compatible con los cartuchos de tinta originales HP 62
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
+- Esta impresora es compatible con los cartuchos de tinta originales HP 62
+- Bandeja de entrada principal de 50 hojas
+- Imprime con velocidades de 10/7 ppm (negro/color)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21)
