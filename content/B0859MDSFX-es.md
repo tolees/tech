@@ -27,12 +27,12 @@ Tienes [TP-Link [Nuevo] TL-PA7017P Kit AV1000 Gigabit Powerline Starter Kit | Si
 
 🔎:
 
-- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
-- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
-- HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
-- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
 - ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
+- HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
+- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
 - Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
 - Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
+- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
+- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0859MDSFX/?tag=tolees-21)

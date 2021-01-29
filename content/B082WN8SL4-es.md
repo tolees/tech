@@ -27,9 +27,9 @@ Tienes [Samsung Galaxy A51 - Smartphone 128GB  4GB  Azul](https://www.amazon.es/
 
 🔎:
 
-- Batería: 4000 mAh
-- Cámara: Cuádruple, 48MP+12MP +5MP+5MP
-- Procesador: Exynos 9611 2.3GHz
 - Pantalla: 6.5", 1080 x 2400 pixels
+- Cámara: Cuádruple, 48MP+12MP +5MP+5MP
+- Batería: 4000 mAh
+- Procesador: Exynos 9611 2.3GHz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082WN8SL4/?tag=tolees-21)
