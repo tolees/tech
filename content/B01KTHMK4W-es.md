@@ -28,9 +28,9 @@ Tienes [Yamaha PSR-F51 - Teclado digital portátil para principiantes o estudian
 🔎:
 
 - El F51 cuenta con 61 teclas, 120 voces y 114 ritmos de todas las partes del mundo; disfruta de un sonido realista y de gran calidad en cualquier situación gracias a sus potentes altavoces
-- PSR-F51 es un teclado portátil sencillo e intuitivo al alcance de todos; todo el mundo lo encontrará fácil de manejar y tocar; adecuado para principiantes o estudiantes
-- Contenido de envío: Yamaha teclado portátil PSR-F5 para principiantes o estudiantes, adaptador AC, conector de salida para auriculares, atril y manual de instrucciones, color negro
 - Aprende a tocar de forma divertida y fácil: gracias al intuitivo panel codificado por colores y con pantalla digital, solo tendrás que seleccionar las combinaciones de ritmos y voces que quieras
 - Disfruta de este teclado y de su potente sonido en compañía: con el Modo Dúo podrán tocar dos personas en secciones idénticas del teclado, muy útil para el directo o los ensayos
+- Contenido de envío: Yamaha teclado portátil PSR-F5 para principiantes o estudiantes, adaptador AC, conector de salida para auriculares, atril y manual de instrucciones, color negro
+- PSR-F51 es un teclado portátil sencillo e intuitivo al alcance de todos; todo el mundo lo encontrará fácil de manejar y tocar; adecuado para principiantes o estudiantes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KTHMK4W/?tag=tolees-21)
