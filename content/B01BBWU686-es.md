@@ -27,10 +27,10 @@ Está [Sony NWE394L.CEW - Reproductor MP3  reproducción de música  foto  radio
 
 ℹ️:
 
-- Larga batería de hasta 35 horas escuchando MP3
 - Capacidad 8GB
-- Funciones de reproducción de música, fotos y radio FM
+- Larga batería de hasta 35 horas escuchando MP3
 - Nuevo panel frontal de alumino
 - Control de volumen y bloqueo en el lateral del dispositivo
+- Funciones de reproducción de música, fotos y radio FM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BBWU686/?tag=tolees-21)
