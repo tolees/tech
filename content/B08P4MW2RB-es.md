@@ -27,9 +27,9 @@ Ahora mismo tienes [Xiaomi Poco M3 - Smartphone 128GB  4GB RAM  Dual Sim  Power 
 
 🔎:
 
-- Cámara: Triple, 48MP+2MP+2MP
-- Batería: 6000 mAh
 - Procesador: Snapdragon 662 2GHz
+- Batería: 6000 mAh
 - Pantalla: 6.53", 1080 x 2340 pixels
+- Cámara: Triple, 48MP+2MP+2MP
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P4MW2RB/?tag=tolees-21)
