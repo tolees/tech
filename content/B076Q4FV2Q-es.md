@@ -27,12 +27,12 @@ Ahora mismo tienes [Olympus Objetivo M.Zuiko Digital ED 17 mm F1.2 Pro  Longitu
 
 🔎:
 
-- Contenido del embalaje: objetivo, tapa del objetivo LC-62D, capucha del objetivo LH-66, tapa del objetivo LR-2 MFT (trasera), bolsa del objetivo LSC-0811, tarjeta de garantía
 - El bokeh suave y la resolución aseguran un rendimiento óptico óptimo, que se refleja en la calidad de las imágenes
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
-- Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja, arquitectura y retrato; equivalente a un objetivo de 34 mm 35 mm
 - Óptimo procesamiento y bayoneta de metal de alta calidad
-- Gracias a su construcción a prueba de polvo y salpicaduras y resistente a las heladas, el objetivo desafía todas las condiciones climáticas y ofrece resultados incluso en condiciones difíciles
+- Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja, arquitectura y retrato; equivalente a un objetivo de 34 mm 35 mm
 - El autoenfoque rápido y altamente preciso garantiza resultados nítidos bajo cualquier condición
+- Gracias a su construcción a prueba de polvo y salpicaduras y resistente a las heladas, el objetivo desafía todas las condiciones climáticas y ofrece resultados incluso en condiciones difíciles
+- Contenido del embalaje: objetivo, tapa del objetivo LC-62D, capucha del objetivo LH-66, tapa del objetivo LR-2 MFT (trasera), bolsa del objetivo LSC-0811, tarjeta de garantía
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076Q4FV2Q/?tag=tolees-21)
