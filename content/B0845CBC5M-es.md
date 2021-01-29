@@ -27,9 +27,9 @@ Tienes [Energy Sistem Earphones Sport 6 True Wireless  Auriculares intrauditivos
 
 ℹ️:
 
-- - IPX7: Resistente al agua y al sudor. Entrena y cuando acabes, lávalos cómodamente.
 - - BATERIA: Dispone de 5 horas de batería en los auriculares. Además con su charging case, obtienes 15 horas extra en cada carga.
-- - TRUE WIRELESS STEREO: True Wireless Stereo que envía vía Bluetooth la señal del smartphone al auricular y de un auricular a otro para una reproducción sin cables.
 - - SECURE-FIT+: Auricular de diseño intrauditivo con sujeción flexible que se adapta a la forma de tu oreja. Seguridad y confort para que no te preocupes de nada.
+- - TRUE WIRELESS STEREO: True Wireless Stereo que envía vía Bluetooth la señal del smartphone al auricular y de un auricular a otro para una reproducción sin cables.
+- - IPX7: Resistente al agua y al sudor. Entrena y cuando acabes, lávalos cómodamente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845CBC5M/?tag=tolees-21)
