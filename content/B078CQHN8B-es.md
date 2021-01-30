@@ -28,10 +28,10 @@ En este momento está [Panasonic KX-TGK212 - Teléfono fijo inalámbrico de dise
 
 🔎:
 
+- Teléfono doble/duo
+- Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
 - Teléfono inalámbrico digital de diseño con memoria con agenda para 50 elementos (nombre número)
 - Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
-- Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
-- Teléfono doble/duo
 - Duración batería en reposo 200hs
 - Pantalla LCD retroiluminada en blanco de 1.5"
 
