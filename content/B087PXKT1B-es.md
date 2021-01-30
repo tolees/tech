@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Webcam PC con Microfono NIYPS HD 1080P Webcam para Portatil /Ordenador/MAC USB 2.0 Web Camera PC para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PXKT1B/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

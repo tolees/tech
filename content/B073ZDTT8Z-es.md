@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ESR Funda para iPhone SE/8/7 [Funda TPU][No amarillea][Tapa trasera de solo 1 1 mm] [Esquinas con Absorción de Golpes][Funda de Silicona Flexible] Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZDTT8Z/?tag=tolees-21'
 descuento: '21.28'
 average: '6.29'

@@ -16,6 +16,7 @@ comparePrice: 409.0 EUR
 prodname: 'Samyang F1110601101 AE - Objectivo para Canon   14 mm IF ED UMC  Ultra Wide Angle Lens   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004CS2VMQ/?tag=tolees-21'
 descuento: '22.79'
 average: '301.59714285714284'

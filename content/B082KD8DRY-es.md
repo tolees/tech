@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Auriculares Verdaderos de Bluetooth  TicPods 2 Auriculares Inalámbricos  Detección en la Oreja  Calidad de Sonido Superior  Control Táctil/Voz/Control de Gesto  Asistente de Voz IPX4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KD8DRY/?tag=tolees-21'
 descuento: '20.00'
 average: '79.99'

@@ -16,6 +16,7 @@ comparePrice: 1499.99 EUR
 prodname: 'MSI GS63 Stealth 8RE-063XES - Ordenador portátil gaming 15.6" FullHD 120Hz Coffeelake i7-8750H  16GB RAM  512GB SSD  Nvidia GTX 1060 6GB  sin sistema op.  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJF1J41/?tag=tolees-21'
 descuento: '16.73'
 average: '1264.5'

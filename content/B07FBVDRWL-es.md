@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'AOC 24V2Q – Monitor de 24” Full HD  IPS  Resolución 1920 x 1080  Freesync Flickerfree  Lowblue Light  HDMI  Displayport   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FBVDRWL/?tag=tolees-21'
 descuento: '20.30'
 average: '116.5375'

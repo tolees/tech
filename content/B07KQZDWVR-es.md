@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Ibywind Xiaomi Mi Mix 3 Protector de Pantalla [2 Piezas]-3D Cobertura Total de Cristal Templado Protectores de Pantalla con Kit de aplicación fácil Instalar para Xiaomi Mi Mix 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQZDWVR/?tag=tolees-21'
 descuento: '20.63'
 average: '10.31'

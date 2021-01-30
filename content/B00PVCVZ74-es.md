@@ -16,6 +16,7 @@ comparePrice: 47.9 EUR
 prodname: 'D-Link DWA-582 – Tarjeta de Red Interna  WiFi AC1200 PCI-Express  Antenas externas de Alta Ganancia  Compatible Windows  Linux  WPS  encriptación WPA2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PVCVZ74/?tag=tolees-21'
 descuento: '20.69'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 600.0 EUR
 prodname: 'Sony SEL50M28.SYX - Lente Prime Macro Montura E de 55mm F2 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LDII0VS/?tag=tolees-21'
 descuento: '17.50'
 average: '551.4'

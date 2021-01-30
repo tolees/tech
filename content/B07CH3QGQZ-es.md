@@ -16,6 +16,7 @@ comparePrice: 17.79 EUR
 prodname: 'JOTO MLT-D111S  1 Negro 1000 Páginas  Cartucho de Tóner Compatible para Samsung D111S 111S con Samsung Xpress SL-M2070 M2070W M2070F M2070FW M2026W M2026 M2020W M2020 M2022 M2022W M2021 M2021W M2078W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CH3QGQZ/?tag=tolees-21'
 descuento: '15.18'
 average: '16.04'

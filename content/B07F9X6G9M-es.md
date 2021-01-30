@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Logitech Slim Folio Funda para iPad con Teclado Bluetooth  iPad 5a & 6a Generation  A1893  A1954  A1822  A1823   14 Teclas de Acceso Directo de iOs  Batería   Disposición QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9X6G9M/?tag=tolees-21'
 descuento: '20.32'
 average: '74.324'

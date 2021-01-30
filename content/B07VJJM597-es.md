@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Gigaset GX290 - Smartphone Resistente - 6.1" - Robusto - IP68 - HD+ - Octa-Core - cámara Trasera Dual 13+2Mpx - Frontal 8Mpx'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJJM597/?tag=tolees-21'
 descuento: '16.72'
 average: '257.3273333333333'

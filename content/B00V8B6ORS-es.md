@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Suunto - Smart Sensor Black HR Belt - Cinturón soporte para monitor del ritmo cardiaco - Color coral  rojo  - Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V8B6ORS/?tag=tolees-21'
 descuento: '18.40'
 average: '20.695'

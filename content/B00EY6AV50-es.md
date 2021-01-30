@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Olympus Objetivo M.Zuiko Digital ED 12-40 mm F2.8 Pro  Zoom estándar  Adecuado para Todas Las Cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EY6AV50/?tag=tolees-21'
 descuento: '16.12'
 average: '839.5550000000001'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'AVerMedia Live Streamer WEBCAM 313: Full HD 1080p  dos micrófonos incorporados  pestaña de seguridad y giro 360º. Ideal teletrabajo  videoconferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1X93HW/?tag=tolees-21'
 descuento: '15.01'
 average: '65.24'

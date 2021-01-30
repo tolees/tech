@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Suunto - Smart Sensor HR Black - Módulo Sensor de frecuencia cardiaca + Cinturón negro - Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MN970GS/?tag=tolees-21'
 descuento: '22.16'
 average: '57.10142857142857'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pioneer SE-MJ503-W - Auriculares  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0156IF3ZW/?tag=tolees-21'
 descuento: '20.36'
 average: '15.92'

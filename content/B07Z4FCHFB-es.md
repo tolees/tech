@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'KATUMO Funda para iPad 10.2 2019 / iPad 7th Generation Carcasa Auto-Sueño/Estela Ultra Delgado Protectora Cover Case para Apple iPad 10.2 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4FCHFB/?tag=tolees-21'
 descuento: '23.87'
 average: '10.65'

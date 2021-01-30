@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Rankie Cable DisplayPort a DVI  1080P  1 8m  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KANYY8U/?tag=tolees-21'
 descuento: '20.40'
 average: '7.338'

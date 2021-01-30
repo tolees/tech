@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Energy Sistem Music Box BZ6 - Altavoz con Bluetooth y Display retroiluminado  2.1 estéreo portátil  12 W de Potencia Real  Bluetooth 4.0  Lector USB/SD  Radio FM  Audio-In  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P2QPT9Y/?tag=tolees-21'
 descuento: '15.54'
 average: '50.36000000000001'

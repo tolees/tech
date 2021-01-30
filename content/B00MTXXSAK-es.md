@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Samyang F1220506101 - Objetivo fotográfico CSC-Mirrorless para Sony E  Distancia Focal Fija 12mm  Apertura f/2-22 NCS CS  diámetro Filtro: 67mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTXXSAK/?tag=tolees-21'
 descuento: '18.98'
 average: '287.65250000000003'

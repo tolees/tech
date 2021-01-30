@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Auriculares Inalambricos Bluetooth 5.0 Auriculares Deportivos con Cargue Su Teléfono 3000 mAh Caja de Carga 190Hrs Autonomía Reducción Ruido CVC8.0 HD Micrófono Mini In-Ear Auricular para Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9SLPPD/?tag=tolees-21'
 descuento: '20.01'
 average: '32.79'

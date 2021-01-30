@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Apple MacBook Air  de 13 pulgadas  Último Modelo  8GB RAM  256GB de almacenamiento  Intel Core i5 a 1 6GHz  - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6GTJ1L/?tag=tolees-21'
 descuento: '24.02'
 average: '1119.0'

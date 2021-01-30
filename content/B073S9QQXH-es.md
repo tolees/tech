@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Jabra Elite Sport – Auriculares Deportivos Inalámbricos  Aplicación Fitness Integrada para Llamadas y Música  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S9QQXH/?tag=tolees-21'
 descuento: '15.00'
 average: '187.24473684210528'

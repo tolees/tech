@@ -16,6 +16,7 @@ comparePrice: 2599.99 EUR
 prodname: 'HP Elite Dragonfly - Ordenador portátil Convertible de 13.3" FHD  Intel Core i7-8565U  16GB RAM  512GB SSD + 32GB 3D Xpoint SSD  Intel Graphics  Windows 10 Pro   Azul - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08421MCCY/?tag=tolees-21'
 descuento: '16.35'
 average: '2174.99'

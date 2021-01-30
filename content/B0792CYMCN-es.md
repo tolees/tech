@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Acer ED242QR LED Display 59 9 cm  23.6"  Full HD Curva Negro - Monitor  59 9 cm  23.6"   1920 x 1080 Pixeles  Full HD  LED  4 ms  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792CYMCN/?tag=tolees-21'
 descuento: '16.24'
 average: '138.76500000000001'

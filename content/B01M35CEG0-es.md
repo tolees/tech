@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TECKNET Ratón Inalámbrico Delgado  2.4G Mouse Inalámbrico Mini con Diseño Ergonómico 18 Meses de Duración de Batería  Compatible con Laptop  PC  Ordenador  Chromebook  Notebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M35CEG0/?tag=tolees-21'
 descuento: '16.68'
 average: '9.656666666666666'

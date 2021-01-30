@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Ansblue Correa Compatible para Garmin Vivofit 4 Correa  Smooth Silicone Replacement Wristbands Correa Compatible para Garmin Vivofit 4  Pulsera Mujer Hombre Strap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB472BQ/?tag=tolees-21'
 descuento: '24.02'
 average: '7.53'

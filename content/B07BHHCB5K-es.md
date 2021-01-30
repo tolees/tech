@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'KROM Khami - NXKROMKHAMI - Auriculares Gaming  Estéreo  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHHCB5K/?tag=tolees-21'
 descuento: '15.70'
 average: '23.596666666666664'

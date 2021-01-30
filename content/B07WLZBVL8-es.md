@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Adaptador Usb Inalámbrico Del Adaptador 4G Lte Adaptador De Módem Usb 150Mbps Con Ranura Para Tarjeta Sim Universal De Punto De Acceso Wifi - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLZBVL8/?tag=tolees-21'
 descuento: '24.01'
 average: '19.43444444444444'

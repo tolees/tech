@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Verbatim Disco Duro Portátil Store  n  Go USB 3.0 de 500 GB* en Color Plateado - Disco Duro Externo  500 GB  Micro-USB B  3.0  3.1 Gen 1   5400 RPM  4800 Mbit/s  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZOQDE7G/?tag=tolees-21'
 descuento: '24.41'
 average: '52.84'

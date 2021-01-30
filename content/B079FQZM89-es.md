@@ -16,6 +16,7 @@ comparePrice: 102.36 EUR
 prodname: 'Fractal Design Meshify C – TG Midi-Tower Negro  Transparente Carcasa de Ordenador - Caja de Ordenador  Midi-Tower  PC  Vidrio  ATX ITX Micro-ATX  Negro  Transparente  3 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FQZM89/?tag=tolees-21'
 descuento: '17.82'
 average: '84.12'

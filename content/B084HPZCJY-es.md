@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Set Deportivo iwotto  Auriculares Led Bluetooth con Riñonera Reflectante  Auriculares Led Deportivos con Riñonera Sport  Runners'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HPZCJY/?tag=tolees-21'
 descuento: '20.04'
 average: '20.75'

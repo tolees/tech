@@ -16,6 +16,7 @@ comparePrice: 43.79 EUR
 prodname: 'JBL Clip 3 Altavoz inalámbrico portátil con Bluetooth – Parlante resistente al agua  IPX7  – 10h de música continua – Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9JSL2W/?tag=tolees-21'
 descuento: '18.02'
 average: '35.9'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'ELTD Funda + Película templada [combinación] para Huawei Mediapad T3 10  Fundas Duras Case + Vidrio Templado Glass Film para Huawei Mediapad T3 10 Pulgadas Tableta  Negro+1 Pack+1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085C8ZM8F/?tag=tolees-21'
 descuento: '15.03'
 average: '12.32'

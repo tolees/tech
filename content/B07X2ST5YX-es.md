@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Realme 3 Pro 6GB 128GB Smartphone  6 3   Snapdragon 710 4045mAh 16+5 Cámara Dual VOOC Carga rápida 3 0 [Azul] [Versión Global]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2ST5YX/?tag=tolees-21'
 descuento: '16.06'
 average: '205.0'

@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Garmin VIRB 360 C&ampaacutemara de accci&ampoacuten con GPS y Control de Voz incorporados  Unisex  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071J8CGMC/?tag=tolees-21'
 descuento: '15.48'
 average: '650.7733333333333'

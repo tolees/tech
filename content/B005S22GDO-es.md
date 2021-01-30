@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'T’NB Ratón Óptico Inalámbrico Blanco - Ultra Compacto  Ideal para Portátil PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005S22GDO/?tag=tolees-21'
 descuento: '23.33'
 average: '9.89'

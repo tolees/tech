@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'MSI Immerse GH50 - Auriculares  2.0 USB  Sonido Virtual 7.1  2 Conductores de neodimio de 40 mm  RGB Mystic Light  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYBCL6W/?tag=tolees-21'
 descuento: '17.65'
 average: '69.99'

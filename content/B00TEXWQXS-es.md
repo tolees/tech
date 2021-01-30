@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Netgear EX7000 Repetidor WiFi Mesh AC1900  amplificador WiFi doble banda  velocidad de hasta 1900 Mbps  5 Puertos LAN Gigabit  compatibilidad universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TEXWQXS/?tag=tolees-21'
 descuento: '22.69'
 average: '114.78333333333333'

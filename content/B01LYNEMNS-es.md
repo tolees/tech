@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Metz 311184 - Flash M400 para Pentax  ISO 100 y 105 mm  luz de vídeo LED  Zoom motorizado 24-105 mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYNEMNS/?tag=tolees-21'
 descuento: '20.08'
 average: '199.0'

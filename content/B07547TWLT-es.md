@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla Táctil EIS Anti-Vibración Control Remoto WiFi Camara Acuatica de 40M con 2 Baterías con Kit de Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07547TWLT/?tag=tolees-21'
 descuento: '20.72'
 average: '64.21222222222224'

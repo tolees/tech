@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Corsair K70 RGB MK.2 Teclado Mecánico  USB  Alámbrico  Tamaño Único  Cherry MX Red  Suave y rápido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXZ3SLC/?tag=tolees-21'
 descuento: '23.53'
 average: '139.98833333333334'

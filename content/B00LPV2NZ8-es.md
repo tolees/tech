@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'iRobot 4419696 Xlife Batería original para el robot aspirador iRobot Roomba'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPV2NZ8/?tag=tolees-21'
 descuento: '17.67'
 average: '73.33666666666666'

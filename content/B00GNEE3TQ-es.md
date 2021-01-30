@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Plataforma Vibratoria Bluefin Fitness Ultra Slim | 5 Programas + 180 Niveles | Altavoces Bluetooth | Fácil de Guardar | Elegante Diseño Británico | Rendimiento de Por Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GNEE3TQ/?tag=tolees-21'
 descuento: '20.00'
 average: '186.74545454545455'

@@ -16,6 +16,7 @@ comparePrice: 1249.0 EUR
 prodname: 'Apple Mac mini  Modelo Anterior  8GB RAM  256GB de almacenamiento '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2NZM4G/?tag=tolees-21'
 descuento: '24.02'
 average: '1008.45'

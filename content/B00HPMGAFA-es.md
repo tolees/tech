@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Tamron SP 150-600 MM F/5-6 3 Di VC USD - Objetivo para Nikon  Distancia Focal 150-600mm  Apertura f/5-6.3  estabilizador  diámetro: 95mm  Color Negro - Incluye Parasol y Montura para trípode'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HPMGAFA/?tag=tolees-21'
 descuento: '22.29'
 average: '868.9580000000001'

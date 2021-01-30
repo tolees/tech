@@ -16,6 +16,7 @@ comparePrice: 369.9 EUR
 prodname: 'Gigabyte AORUS GeForce RTX 2060 XTREME 6G  Rev 1.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCC5L7J/?tag=tolees-21'
 descuento: '16.11'
 average: '310.3'

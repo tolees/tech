@@ -16,6 +16,7 @@ comparePrice: 278.07 EUR
 prodname: 'Michael Kors Smartwatch Pantalla táctil para Mujer de Connected con Correa en Acero Inoxidable MKT5066'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH3NXD1/?tag=tolees-21'
 descuento: '17.65'
 average: '269.6'

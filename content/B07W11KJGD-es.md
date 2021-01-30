@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'havit Ratón Gaming 7 Botones Mouse Gaming programables Iluminación RGB [800-1600-2400-4800] para Windows7/8/10/Xp/Vista/Linux（MS733）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W11KJGD/?tag=tolees-21'
 descuento: '15.01'
 average: '13.377500000000001'

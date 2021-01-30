@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Withings Body+ Báscula inteligente con conexión Wi-Fi  medición de la grasa corporal  IMC  masa muscular y porcentaje de agua corporal  sincronización con la aplicación móvil por Bluetooth o Wi-Fi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XW4C5Q/?tag=tolees-21'
 descuento: '20.04'
 average: '83.958'

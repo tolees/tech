@@ -16,6 +16,7 @@ comparePrice: 25.87 EUR
 prodname: 'PUTORSEN® Soporte de Monitor pc de Premium - Elevador de Monitor 14 4cm de Altura para Laptop  Ordenador  PC  Impresora  Soporte Metálico Ergonómico de Escritorio para Monitor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819C8KDL/?tag=tolees-21'
 descuento: '15.04'
 average: '23.06142857142857'

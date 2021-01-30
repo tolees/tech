@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Energy Urban Box 2 Altavoz portátil con Bluetooth y Tecnología True Wireless  10W  USB/microSD MP3 Player  FM Radio  - Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9DHPS7/?tag=tolees-21'
 descuento: '20.10'
 average: '15.9'

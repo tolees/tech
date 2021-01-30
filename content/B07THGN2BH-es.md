@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Unico - Altavoz Bluetooth 5 0 Luces LED  Altavoces Bluetooth  Doble Altavoz Stereo  Micrófono  Inalámbrico. Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THGN2BH/?tag=tolees-21'
 descuento: '20.70'
 average: '22.665'

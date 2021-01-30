@@ -16,6 +16,7 @@ comparePrice: 13.89 EUR
 prodname: 'Goldoars Wii a HDMI Adaptador  Conversor de Wii a HDMI 720P/1080P con Cable HDMI con Puerto HDMI y Jack 3.5mm – Soporta Todos Los Modos de Visualización Wii  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZD9C61/?tag=tolees-21'
 descuento: '15.05'
 average: '11.8'

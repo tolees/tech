@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Lenovo S340-15IWL - Ordenador portátil 15.6" FullHD  Intel Core i5-8265U  8GB de RAM  1TB de SSD  Intel UHD Graphics  Windows10  gris - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW2G75G/?tag=tolees-21'
 descuento: '19.75'
 average: '641.16'

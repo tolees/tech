@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Relaxdays Mesa Ordenador Portátil para Cama y Sofá con Cajón  Bambú  24 x 60 x 35 cm  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ33HR8/?tag=tolees-21'
 descuento: '16.18'
 average: '39.655'

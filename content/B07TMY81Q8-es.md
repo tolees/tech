@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Funda Bateria para iPhone X/XS/10  FLYLINKTECH 4000mAh Batería Cargador Externa para iPhone X/XS/10 5.8   Recargable Backup Charger Case Portátil Power Bank Case  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMY81Q8/?tag=tolees-21'
 descuento: '17.40'
 average: '21.275714285714287'

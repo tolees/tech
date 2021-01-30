@@ -16,6 +16,7 @@ comparePrice: 45.85 EUR
 prodname: 'HUAWEI Nano Memory Tarjeta de Memoria 128 g para mate20/mate20 Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCF56KF/?tag=tolees-21'
 descuento: '22.16'
 average: '44.43'

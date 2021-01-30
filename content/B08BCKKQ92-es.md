@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SYOSIN Luz de Anillo  Palo Selfie Anillo de Luz LED con Trípode Control Remoto Inalámbrico 3 Colores para Móvil Selfie Maquillaje Youtube TIK Tok Live'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCKKQ92/?tag=tolees-21'
 descuento: '15.01'
 average: '16.14'

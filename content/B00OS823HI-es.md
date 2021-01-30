@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD a color de 2.8"  modo eco y visión nocturna  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OS823HI/?tag=tolees-21'
 descuento: '21.42'
 average: '99.16421052631578'

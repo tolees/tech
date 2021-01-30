@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Ratón ergonómico Vertical inalámbrico  Hommie Ratón Inalámbrico Bluetooth  2 4 GHz con Mini Receptor USB  con 800/1200/1600/2000/2400 dpi  Ideal para PC/Mac/Portátil  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YLJMZ1/?tag=tolees-21'
 descuento: '18.19'
 average: '26.99'

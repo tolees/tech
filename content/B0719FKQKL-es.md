@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'BigBen Interactive TW12CDPARIS3 - Torre Multimedia con diseño Paris  Sistema 2.0  60 W  Bluetooth  USB  Tarjeta SD  Radio FM  LED  Mando a Distancia '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719FKQKL/?tag=tolees-21'
 descuento: '15.02'
 average: '84.9'

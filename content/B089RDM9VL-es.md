@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'TOSING Q9 micrófono de karaoke inalámbrico Bluetooth  luces LED de baile  micrófono de altavoz portátil para regalo  juguetes de viaje para fiestas compatibles con Android/iPhone/iPad/Sony/PC Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089RDM9VL/?tag=tolees-21'
 descuento: '22.73'
 average: '33.99'

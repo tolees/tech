@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Cámara Web con Micrófono  Cámara Web 1080P HD Enfoque Automático Cámara Web con Transmisión por Computadora -Cámara USB con Computadora para PC Computadora Portátil De Escritorio Video Llamada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087THVM7M/?tag=tolees-21'
 descuento: '17.08'
 average: '34.596000000000004'

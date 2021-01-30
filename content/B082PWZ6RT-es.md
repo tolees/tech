@@ -16,6 +16,7 @@ comparePrice: 223.46 EUR
 prodname: 'ACEPC Mini PC 8 GB RAM 120 GB Rom Mini computadora ... gris 6 GB RAM + 64GB ROM Win 10 Celeron J3455'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PWZ6RT/?tag=tolees-21'
 descuento: '15.91'
 average: '187.9'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Anker Cargador USB Charging Hub  60W  6 Puertos USB  Tecnología PowerIQ  para iPhone 6s / 6/6 Plus  iPad Air 2 / Mini 3  Galaxy S6 / Edge/Plus  Note 5  Xiaomi  BQ y Muchos más.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PTLSH9G/?tag=tolees-21'
 descuento: '23.09'
 average: '22.13285714285714'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Mars Gaming MH4X  auriculares + mic DSP 7.1 SENSUS HAPTIC  RGB  PC/PS4/Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKT5V2/?tag=tolees-21'
 descuento: '16.99'
 average: '24.82'

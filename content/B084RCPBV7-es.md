@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'NK Body CAM Live Stream - Cámara Personal de Transmisión en Directo 720p HD - 2.5 Horas de Batería  Micro y Altavoz  WiFi  LiveAction con la App  3 Modos de Grabación  Memoria 64GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RCPBV7/?tag=tolees-21'
 descuento: '20.00'
 average: '34.0'

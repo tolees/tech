@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Apple Smart Keyboard  para el iPad de 10 2 pulgadas  el iPad Air de 10 5 pulgadas  el iPad Pro de 10 5 pulgadas  - Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073Q3QPLV/?tag=tolees-21'
 descuento: '17.36'
 average: '152.57'

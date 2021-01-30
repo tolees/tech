@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Sharon BT - Báscula digital inalámbrica con Bluetooth  análisis corporal de peso  grasa corporal  porcentaje de agua  masa muscular  masa ósea y valores de IMC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLFSHZC/?tag=tolees-21'
 descuento: '15.63'
 average: '28.49'

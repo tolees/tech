@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Cristal Compatible con Samsung Galaxy A80/A90 Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LSBB8P/?tag=tolees-21'
 descuento: '18.21'
 average: '8.98'

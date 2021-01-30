@@ -16,6 +16,7 @@ comparePrice: 46.09 EUR
 prodname: 'Gigaset A270 Duo - 2 Teléfonos inalámbricos manos libres  gran pantalla iluminada  agenda 80 Contactos  color negro  5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07797RTPN/?tag=tolees-21'
 descuento: '15.40'
 average: '37.04'

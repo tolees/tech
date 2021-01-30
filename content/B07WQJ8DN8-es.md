@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Polar Ignite – Reloj de fitness con GPS integrado  pulsómetro de muñeca  guías de entrenamiento -  hombre/mujer-  negro/cobre M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQJ8DN8/?tag=tolees-21'
 descuento: '20.40'
 average: '195.13166666666666'

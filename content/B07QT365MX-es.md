@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Vieta Pro Goody - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT365MX/?tag=tolees-21'
 descuento: '24.99'
 average: '42.74666666666667'

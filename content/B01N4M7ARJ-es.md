@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares para niños  iClever Volumen Limitado Cascos para niños sobre el oído Auriculares para bebés con diseño estéreo Ajustable Cat para Tablets iPhone iPad PC MP3  púrpura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4M7ARJ/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

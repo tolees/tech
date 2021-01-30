@@ -16,6 +16,7 @@ comparePrice: 36.79 EUR
 prodname: 'Ink Seller - Cartuchos de tinta para impresora compatibles con HP 301XL de repuesto para DeskJet 1000  1050 y 1050A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5ARU9A/?tag=tolees-21'
 descuento: '19.57'
 average: '29.59'

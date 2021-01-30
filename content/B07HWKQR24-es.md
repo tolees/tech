@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Krom KENON - NXKROMKENON - Ratón Gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWKQR24/?tag=tolees-21'
 descuento: '19.72'
 average: '18.06'

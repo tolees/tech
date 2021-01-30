@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: '0BEST Webcam 1080P Full HD con Microfono y Trípode Multifunción  Web Cámara Portátil USB para PC  Compatible con Skype  MSN  Facebook  para Videollamadas  Conferencias  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894JJGXV/?tag=tolees-21'
 descuento: '15.16'
 average: '28.656666666666666'

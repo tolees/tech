@@ -16,6 +16,7 @@ comparePrice: 26.93 EUR
 prodname: 'HOTLIFE - Ratón para videojuegos  6400 DPI  7 botones programables con iluminación RGB  sensor óptico USB  cable USB  para gaming  color negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFWCWFS/?tag=tolees-21'
 descuento: '15.08'
 average: '22.835'

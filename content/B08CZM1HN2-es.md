@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Quntis Lámpara de Monitor para Ordenador portátil Brillos en la Pantalla Luz LED para Leer y cuidar Tus Ojos Alimentación USB Ahorra Espacio con Esta lámpara de Escritorio para tu Oficina en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZM1HN2/?tag=tolees-21'
 descuento: '20.04'
 average: '19.99'

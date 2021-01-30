@@ -16,6 +16,7 @@ comparePrice: 1269.0 EUR
 prodname: 'Apple iPad Pro  11 pulgadas  Wi-Fi  512GB  - Plata  Modelo Anterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2N9W8L/?tag=tolees-21'
 descuento: '16.55'
 average: '1128.5433333333333'

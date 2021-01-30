@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'GTPLAYER Silla Gaming Escritorio Oficina Gamer Ordenador Tela Despacho Juvenil Garantía de 2 años Silla Ergonomica con Cojín Reposabrazos 2D Ajustables Respaldo Reclinable Color Azúl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C4QJTD4/?tag=tolees-21'
 descuento: '15.00'
 average: '169.99'

@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Fujifilm X-T30  Kit cámara con Objetivo Intercambiable XC15-45/3.5-5.6  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNT728Z/?tag=tolees-21'
 descuento: '16.02'
 average: '804.1800000000001'

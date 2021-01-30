@@ -16,6 +16,7 @@ comparePrice: 14.3 EUR
 prodname: 'Cable de consola USB  BENFEI 1 8m USB a RJ45  Compatible con Cisco  Netgear  Ubiquity  LINKSYS  TP-Link  routers/conmutadores para ordenadores portátiles en Windows  Mac  Linux  chip FTDI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYQPYKR/?tag=tolees-21'
 descuento: '16.15'
 average: '11.99'

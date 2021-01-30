@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Yosh Funda Impermeable para teléfono móvil  Compatible con iPhone XR XS X MAX 11 11pro Samsung Galaxy S20 Plus S10 A71 Xiaomi Mi 10 Huawei P30 BQ Aquaris hasta 7 5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R46GJ7G/?tag=tolees-21'
 descuento: '20.02'
 average: '10.39'

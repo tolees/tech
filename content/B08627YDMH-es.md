@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Funda Compatible con Samsung Galaxy S6 Edge Carcasa Clear View Ultra Slim Standing Flip Tipo Inteligente Estuche PU Piel 360° Protectora Resistente Anti-Choque Case Cover  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08627YDMH/?tag=tolees-21'
 descuento: '15.41'
 average: '10.98'

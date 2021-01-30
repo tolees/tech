@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Sony ICD-TX650 - Grabadora de voz digital ultra delgada de 16GB  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TKEV9MU/?tag=tolees-21'
 descuento: '21.37'
 average: '142.14499999999998'

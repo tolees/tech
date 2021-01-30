@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'AVIWIS Compatible with Samsung  Huawei  OnePlus 6T  Kindle  Cavo Micro USB [2Pezzi 1M] Nylon Magnet Cavi Micro USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W2WWP8F/?tag=tolees-21'
 descuento: '15.02'
 average: '8.9525'

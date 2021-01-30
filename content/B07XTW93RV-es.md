@@ -16,6 +16,7 @@ comparePrice: 243.05 EUR
 prodname: 'Sennheiser RS175-U - Auriculares inalámbricos para televisión Digital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTW93RV/?tag=tolees-21'
 descuento: '22.19'
 average: '189.12'

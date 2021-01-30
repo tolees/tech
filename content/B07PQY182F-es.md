@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'UGREEN Cable USB C  3A Cable USB Tipo C a USB A 2.0 Nylon Trenzado Carga Rápida para Samsung S20 S10 S9 A50  Galaxy Tab  Xiaomi Redmi 9  Note 7  8  Mi 9  A2  A1  Mi 6  Pocophone F1  LG G6  2 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQY182F/?tag=tolees-21'
 descuento: '15.02'
 average: '8.423333333333332'

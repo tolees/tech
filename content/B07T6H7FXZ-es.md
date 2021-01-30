@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Linksys EA7300 Router WiFi de Doble Banda MU-MIMO AC1750 MAX-Stream para el Hogar  Router Inalámbrico Rápido  Streaming en UHD 4K  Juego Multijugador y 4 Puertos Gigabit '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6H7FXZ/?tag=tolees-21'
 descuento: '16.67'
 average: '76.82333333333332'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Altavoz de Acoplamiento portátil para Echo Dot 3ª generación  Echo Dot 3  – Echo Dot no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD83BBP/?tag=tolees-21'
 descuento: '20.00'
 average: '44.99'

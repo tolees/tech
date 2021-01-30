@@ -16,6 +16,7 @@ comparePrice: 31.94 EUR
 prodname: 'Xiaomi Portable 10000mAh de gran capacidad Segura Mi banco de la energía para el iPhone 6 6 Plus Samsung HTC Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B66SVJI/?tag=tolees-21'
 descuento: '15.28'
 average: '28.276666666666667'

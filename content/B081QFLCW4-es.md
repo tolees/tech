@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Newskill Serike Switch Blue - Teclado Mecánico Gaming con Reposamuñecas Plegable Incluido  Teclas con grabación Macro  20 Modos de iluminación RGB  - Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QFLCW4/?tag=tolees-21'
 descuento: '19.94'
 average: '39.99'

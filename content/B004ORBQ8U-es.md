@@ -16,6 +16,7 @@ comparePrice: 690.1 EUR
 prodname: 'OKI 403922 - Impresora matricial  USB  240 x 216 dpi  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ORBQ8U/?tag=tolees-21'
 descuento: '16.82'
 average: '574.02'

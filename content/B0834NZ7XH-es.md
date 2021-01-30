@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'UGREEN HUB USB C  6 En 1 Adaptador USB C a 4K HDMI  2 Puertos USB 3.0  Lector Tarjeta SD TF  100W Power Delivery  Concentrador USB C para Macbook Pro 2020  Macbook Air 2020  Dell XPS 17 15 13'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834NZ7XH/?tag=tolees-21'
 descuento: '20.01'
 average: '31.99'

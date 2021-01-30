@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Aquapac Funda iPhone 6+SIMILARES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S54HRAE/?tag=tolees-21'
 descuento: '17.85'
 average: '26.7'

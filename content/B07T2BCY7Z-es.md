@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Biomar Labs® 4 pcs 3D Gel Pegatinas Bandera Nacional España Spain Silicona Adhesivo Autos Coches Motos Ciclomotores Bicicletas Ordenador Portátil F 21'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2BCY7Z/?tag=tolees-21'
 descuento: '17.63'
 average: '7.99'

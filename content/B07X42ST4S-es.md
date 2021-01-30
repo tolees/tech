@@ -16,6 +16,7 @@ comparePrice: 31.51 EUR
 prodname: 'DYNASONIC - Auriculares Bluetooth Inalámbricos Juveniles para Niños/Niñas/Chicos/Chicas  Rosa | Auriculares Inalámbricos Kawaii  Cute  Animales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X42ST4S/?tag=tolees-21'
 descuento: '22.56'
 average: '34.23714285714286'

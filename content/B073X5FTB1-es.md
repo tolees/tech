@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Sony SBH24 Dentro de oído Binaural Inalámbrico Blanco - Auriculares  Inalámbrico  Dentro de oído  Binaural  Intraaural  15 g  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X5FTB1/?tag=tolees-21'
 descuento: '19.63'
 average: '23.905'

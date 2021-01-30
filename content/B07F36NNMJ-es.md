@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Feelkaeu Teclado Bluetooth Inalámbrico 3.0 QWERTY Español con Multi Touchpad con Funda PU Cuero Soporte - Compatible 9.6"/9.7"/10.1" Cualquier Windows/Android Tablet Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F36NNMJ/?tag=tolees-21'
 descuento: '19.25'
 average: '32.29'

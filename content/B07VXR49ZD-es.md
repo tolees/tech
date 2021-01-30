@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin vívoactive 4S - Reloj inteligente con GPS y funciones de control de la salud durante todo el día  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXR49ZD/?tag=tolees-21'
 descuento: '20.33'
 average: '239.0'

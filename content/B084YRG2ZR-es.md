@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'UROZETTA Mobile WiFi Hotspot con 20 GB España Data 4G Router WiFi portátil UZ-201 para Viajar al Extranjero Mifi Desbloqueado a Todas Las Redes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YRG2ZR/?tag=tolees-21'
 descuento: '17.65'
 average: '139.99'

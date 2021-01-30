@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Corsair Harpoon RGB Ratón Óptico para Juegos  6 000 PPP Óptico Sensor  Peso Ligero  6 Botones Programables  Retroiluminación LED RGB  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQE8CJW/?tag=tolees-21'
 descuento: '20.04'
 average: '19.138571428571428'

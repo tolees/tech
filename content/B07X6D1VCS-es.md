@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Leathlux 6 x Funda Xiaomi Redmi Note 8 Pro  6 Unidades Carcasas Juntas Ultra Fina Silicona TPU Flexible Colores Carcasas Xiaomi Redmi Note 8 Pro - Translúcido Rosa Verte Azul Rojo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6D1VCS/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Sony NW-WS623 Walkman  - Reproductor de MP3 Deportivo  Resistente al Agua y al Polvo con Tecnología Inalámbrica Bluetooth   color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NTXYNY/?tag=tolees-21'
 descuento: '16.67'
 average: '136.89499999999998'

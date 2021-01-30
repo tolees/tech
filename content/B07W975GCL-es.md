@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Marchpower Cable iPhone 3Pack 2M  Cable Lightning-[Apple MFi Certificado]-Cable Cargador iPhone Compatible con iPhone SE 2020/11/11 Pro/11 Pro MAX/X/XS/XS Max/XR/8/8 Plus/7/7 Plus/6s/6s Plus/6/6 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W975GCL/?tag=tolees-21'
 descuento: '17.66'
 average: '13.323333333333332'

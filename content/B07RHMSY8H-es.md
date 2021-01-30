@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'ACEPC Fanless Mini PC  T6 Intel Atom Z8350 Computer Stick con Windows 10 Pro 64 Bit/2GB DDR+32GB eMMC/4K HD/Bluetooth 4.2/Dual Band WiFi AC/USB 3.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHMSY8H/?tag=tolees-21'
 descuento: '22.09'
 average: '108.2775'

@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Nikon 200-500 mm Lente para cámara de Fotos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013D1BI9Y/?tag=tolees-21'
 descuento: '20.21'
 average: '1208.0666666666666'

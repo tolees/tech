@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Jvchengxi Funda con Protector de Pantalla Compatible con Samsung Galaxy Watch Active 2 44mm  PC Cubierta Estuche HD Antiarañazos Vidrio Templado Funda Protectora para Galaxy Watch Active 2  Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FB898GF/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

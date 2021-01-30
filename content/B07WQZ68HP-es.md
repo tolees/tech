@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'CHOETECH Cargador Inalámbrico  Wireless Charger con QC 3.0 Adaptador  15W para LG Sony  10 W para Samsung S20/S10/S9/S8/Note10/Huawei  7.5W para iPhone11/11Pro/SE 2020/XS/XR/X/8/8 Plus-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQZ68HP/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

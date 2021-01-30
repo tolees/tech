@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funda para Xiaomi Redmi Note 8 Pro  Adsorción Magnética Parachoques de Metal con 360 Grados Protección Case Cover Transparente Ambos Lados Vidrio Templado Cubierta para Xiaomi Redmi Note 8 Pro - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1L8JVG/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

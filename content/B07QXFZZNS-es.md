@@ -16,6 +16,7 @@ comparePrice: 9.79 EUR
 prodname: 'Brazalete deportivo Universal Impermeable Teléfono Móvil Brazo Bolsa de Viaje Cartera Bolsa para Deportes al aire libre/correr/Fitness para iphone/Samsung Galaxy/Moto/Huawei/Xiaomi/etc y Otros Moviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXFZZNS/?tag=tolees-21'
 descuento: '23.49'
 average: '7.49'

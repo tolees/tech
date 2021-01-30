@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Huawei Watch GT 2 Elegant  Smartwatch con Caja de 46 mm  hasta 2 Semanas de Batería  Pantalla Táctil AMOLED de 1.39"  GPS  15 Modos Deportivos  Llamadas Bluetooth   Gris  Titaniun Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQJJQ5T/?tag=tolees-21'
 descuento: '17.92'
 average: '242.33333333333334'

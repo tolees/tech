@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD  Intel Core i5-1035G1  8 GB RAM  512 GB SSD  Intel UHD Graphics  Windows 10 Home  gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089T3SHSN/?tag=tolees-21'
 descuento: '17.14'
 average: '579.99'

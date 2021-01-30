@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'PUMA Smash v2 SD V Inf  Zapatillas Unisex Niños  Galaxy Blue White  21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFW5ZCZ/?tag=tolees-21'
 descuento: '17.61'
 average: '11.79'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'K KYUER 47WH PA5013U-1BRS Batería para Toshiba Portege Z830 Z835 Z930 Z935 Z830-S8302 S8301 Z835-P330 P360 P370 Z930-16G 14L 14N 14C 11F 151 153 S9301 S9302 Z935-P300 Ultrabook Notebook Laptop Battery'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTY81CD/?tag=tolees-21'
 descuento: '18.60'
 average: '39.88'

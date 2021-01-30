@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'AUNA Connect 120 - Radio por Internet  Digital  WLAN  Reproductor en Red  Dab/Dab+/FM con RDS  Bluetooth  AUX  Puerto MP3-USB  Despertador  Visualización Hora  Modo sueño  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HILG0SE/?tag=tolees-21'
 descuento: '16.67'
 average: '99.99'

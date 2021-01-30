@@ -16,6 +16,7 @@ comparePrice: 56.94 EUR
 prodname: 'Kingston KCP313SD8/8 - Memoria RAM para portátil de 8 GB  1333 MHz SODIMM  DDR3  1.5 V  CL9  204 Pines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B5SKL40/?tag=tolees-21'
 descuento: '23.32'
 average: '45.045'

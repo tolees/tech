@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'DYNASONIC - Altavoz Bluetooth con Karaoke 2 Micrófonos Radio y Lector USB SD  Color Rosa | Altavoz Inalámbrico Karaoke'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PW82KRL/?tag=tolees-21'
 descuento: '19.65'
 average: '44.70428571428572'

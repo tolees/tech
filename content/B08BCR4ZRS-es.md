@@ -16,6 +16,7 @@ comparePrice: 129.91 EUR
 prodname: 'MSI B550M Pro-VDH WiFi - Placa Base Pro Series  AMD Ryzen 3000 3rd Gen AM4  DDR4  M.2  USB 3.2 Gen 1  Front Type-C  Wi-Fi  HDMI  Micro ATX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCR4ZRS/?tag=tolees-21'
 descuento: '15.40'
 average: '109.9'

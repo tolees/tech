@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Star Wars - The Resistance  Edad 6+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575RRNH/?tag=tolees-21'
 descuento: '22.22'
 average: '68.49'

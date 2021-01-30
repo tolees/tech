@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ShellBox Fundas Impermeables Original iPhone 11 bajo el Agua  Prueba de Vida  A Prueba de choques  A Prueba de Polvo  Cubierta Protectora de Cuerpo Completo de 360 ° Protector de teléfono  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KYWDL4/?tag=tolees-21'
 descuento: '15.01'
 average: '17.990000000000002'

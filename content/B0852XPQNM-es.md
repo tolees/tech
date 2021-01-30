@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Kosiy Repetidor de Red WiFi Amplificador  Amplificador Señal WiFi Repetidor WiFi 300Mbps  Amplificador WiFi 2.4GHz Extensor de WiFi con 2 Antenas Externas  Conecta 10 Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852XPQNM/?tag=tolees-21'
 descuento: '16.67'
 average: '22.389999999999997'

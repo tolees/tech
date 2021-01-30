@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsillo  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QBSV87/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

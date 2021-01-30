@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fujifilm Instax Wide - Película fotográfica instantánea de gran formato  2 x 10 hojas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21'
 descuento: '20.06'
 average: '15.977142857142857'

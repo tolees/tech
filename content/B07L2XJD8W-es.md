@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'TOPESEL 32GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive USB C Pendrives Llave Portátiles para Samsung Galaxy S8  S8 Plus  Note 8  LG G6  V30  Google Pixel XL  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2XJD8W/?tag=tolees-21'
 descuento: '15.03'
 average: '10.18'

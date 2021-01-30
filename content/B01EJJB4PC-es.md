@@ -16,6 +16,7 @@ comparePrice: 73.21 EUR
 prodname: 'Microsoft p3q-00012 V2 Adaptador de Pantalla inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EJJB4PC/?tag=tolees-21'
 descuento: '16.66'
 average: '61.01'

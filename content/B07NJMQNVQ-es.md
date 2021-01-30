@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'Lenovo Yoga 530-14IKB - Portátil Táctil Convertible 14" FullHD  Intel Core i5-8250U  8GB RAM  256GB SSD  Windows 10  Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJMQNVQ/?tag=tolees-21'
 descuento: '17.78'
 average: '738.3523076923077'

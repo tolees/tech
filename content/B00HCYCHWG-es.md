@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'WD Elements Desktop - Disco duro externo de sobremesa de 3 TB  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HCYCHWG/?tag=tolees-21'
 descuento: '16.58'
 average: '87.235'

@@ -16,6 +16,7 @@ comparePrice: 83.94 EUR
 prodname: 'Thrustmaster - Auriculares De Gaming Multiplataforma con Licencia Oficial De La Fuerza Aérea De EE.UU  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDHGLL9/?tag=tolees-21'
 descuento: '22.62'
 average: '75.78833333333334'

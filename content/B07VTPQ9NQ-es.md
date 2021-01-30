@@ -16,6 +16,7 @@ comparePrice: 25.89 EUR
 prodname: 'LarmTek Cámara web 1080P Full HD con cubierta de cámara web cámara de computadora portátil para conferencias y videollamadas cámara web Pro Stream con videollamadas Plug and Play micrófono incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTPQ9NQ/?tag=tolees-21'
 descuento: '19.43'
 average: '29.066000000000003'

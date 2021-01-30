@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Lenovo C24 - Monitor de 23.6"  Pantalla FullHD/IPS  1920 x 1080 pixeles  tiempo de respuesta de 1ms  VGA  HDMI  1000:1   Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9TX3PG/?tag=tolees-21'
 descuento: '15.00'
 average: '84.99'

@@ -16,6 +16,7 @@ comparePrice: 302.99 EUR
 prodname: 'Epson ET-2650 EcoTank  Impresora de inyección de tinta 3 en 1  Wifi  pantalla LCD  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBU1NJ4/?tag=tolees-21'
 descuento: '24.09'
 average: '223.2329268292683'

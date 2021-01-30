@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Canon EF 18-200mm f/3.5-5.6 IS - Objetivo para Canon  Distancia Focal 18-200mm  Apertura f/3.5-36  Zoom óptico 11x estabilizador  diámetro: 72mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E97GIA/?tag=tolees-21'
 descuento: '18.23'
 average: '464.44250000000005'

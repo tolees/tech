@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Kloius Mini Rastreador GPS portátil con Dispositivo Inteligente Anti-pérdida de Forma Redonda Bluetooth Informática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897F4GZK/?tag=tolees-21'
 descuento: '23.12'
 average: '23.95'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'HP Color Laserjet Pro MFP M281fdw – Impresora multifunción láser  WiFi  fax  copiar  escanear  imprimir en color  21ppm   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GLXBC1/?tag=tolees-21'
 descuento: '22.56'
 average: '307.55458333333326'

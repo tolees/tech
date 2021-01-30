@@ -16,6 +16,7 @@ comparePrice: 1649.0 EUR
 prodname: 'Microsoft Surface Laptop 3 - Ordenador portátil de 15" táctil  AMD Ryzen 5-3580U  8GB RAM  256GB SSD  AMD Radeon Vega 9  Windows 10 Home  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8RCRML/?tag=tolees-21'
 descuento: '20.98'
 average: '1302.99'

@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Bang & Olufsen Beoplay H4 - Auriculares inalámbricos  1a Generación  -  Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6S83CL/?tag=tolees-21'
 descuento: '23.20'
 average: '239.7'

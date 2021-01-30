@@ -16,6 +16,7 @@ comparePrice: 12.97 EUR
 prodname: 'AmazonBasics - Funda para ordenador portátil urbana de 39 62 cm  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKCLQHD/?tag=tolees-21'
 descuento: '19.12'
 average: '10.646'

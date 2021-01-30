@@ -16,6 +16,7 @@ comparePrice: 26.59 EUR
 prodname: 'FSKE 90W 20V 4.5A ADLX65NDC3A ADLX90NLC3A ADLX65SLC2A Cargador del Ordenador Portátil para Lenovo V110 L440 X240 T470S AC Adaptador  Notebook EUR Power Supply 11 * 5.0mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CST672P/?tag=tolees-21'
 descuento: '18.80'
 average: '21.59'

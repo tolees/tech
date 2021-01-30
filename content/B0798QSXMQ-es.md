@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'LG 29WK500-P - Monitor Profesional UltraWide FHD de 73 cm  29"  con Panel IPS  2560 x 1080 píxeles  21:9  250 cd/m²  sRGB >99%  1000:1  5 ms  75 Hz  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798QSXMQ/?tag=tolees-21'
 descuento: '23.55'
 average: '186.90666666666667'

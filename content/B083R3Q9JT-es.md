@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Coener Ratón Inalámbrico Recargable  Mouse Wireless 2.4G Mute de Mouse Inalambrico  Ultra Delgado 1600 dpi Ajustable para Portatil/Computadora/Windows/Linux/Vista/PC/Mac  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R3Q9JT/?tag=tolees-21'
 descuento: '15.01'
 average: '11.89'

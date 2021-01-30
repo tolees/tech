@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Sony LCSAMB - Bolsa Compatible con los Modelos Alpha SLT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004YAJBZC/?tag=tolees-21'
 descuento: '17.91'
 average: '36.94'

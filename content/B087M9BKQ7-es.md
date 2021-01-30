@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Silicona Funda con Huawei P40 Pro TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  D5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087M9BKQ7/?tag=tolees-21'
 descuento: '18.21'
 average: '8.98'

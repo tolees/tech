@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'HyperX Fury - Memoria RAM de 16 GB  1600 MHz DDR3 Non-ECC CL10 DIMM  Kit 2x8 GB   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J8E8YES/?tag=tolees-21'
 descuento: '22.60'
 average: '84.69444444444444'

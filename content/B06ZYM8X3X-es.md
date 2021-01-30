@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Philips 327E8QJAB - Monitor de 32" FHD  resolucion 1920 x 1080  IPS  VESA  Altavoces  HDMI  Displayport '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYM8X3X/?tag=tolees-21'
 descuento: '20.79'
 average: '225.32379310344828'

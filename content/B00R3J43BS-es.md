@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'Lavolta 90W 65W 40W Cargador - 7.9 x 5.5 mm - Adaptador per Lenovo Thinkpad Edge 11 13 14 15 Serie B490 B590 T400 T410 T420 T420s T430 T430s T500 T510 T520 T530 T61 X201 X201s X220 X220t X230 X301 X61'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R3J43BS/?tag=tolees-21'
 descuento: '15.46'
 average: '21.88'

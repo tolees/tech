@@ -16,6 +16,7 @@ comparePrice: 3899.99 EUR
 prodname: 'MSI P65 Creator 9SF-1017ES - Ordenador portátil de 15.6" UHD  Coffeelake refresh i9-9880H  64GB RAM  2TB SSD  Nvidia RTX 2070 MAX Q  Windows 10 Pro  plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDJJKL4/?tag=tolees-21'
 descuento: '23.10'
 average: '2999.0'

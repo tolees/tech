@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'F Fityle Altavoz de Audio Impermeable Repuestos de Reparación  78x78x40mm  Negro  A Prueba de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCVYSJ1/?tag=tolees-21'
 descuento: '16.65'
 average: '10.11857142857143'

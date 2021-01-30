@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Lenovo Yoga 530-14ARR - Portátil Táctil Convertible de 14" HD  AMD Ryzen3 2200U  4GB RAM  128GB SSD  Windows 10  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LB9CKV6/?tag=tolees-21'
 descuento: '16.67'
 average: '457.408425925926'

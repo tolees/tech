@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Hoover AWMPD 410 LH8/1-S - Lavadora carga frontal 10Kgs  1400rpm  WiFi & Bluetooth  motor inverter  función vapor  51dBA  clase A+++ -50%  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXC716L/?tag=tolees-21'
 descuento: '15.03'
 average: '508.95'

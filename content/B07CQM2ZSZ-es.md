@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'CHOETECH Cable USB C a HDMI  [4K@60Hz] Cable HDMI a USB Tipo C 3.1 para MacBook Pro/Macbook Air 2020/2019/2018  iMac 2017 iPad Pro  Galaxy S20/S10/S9/S8/Note10  Huawei P40/P30/Mate 30 Pro/Mate 20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQM2ZSZ/?tag=tolees-21'
 descuento: '15.01'
 average: '14.590000000000002'

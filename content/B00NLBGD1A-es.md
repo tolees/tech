@@ -16,6 +16,7 @@ comparePrice: 185.99 EUR
 prodname: 'Canon Pancake EF-S 24 mm f/2.8 STM - Objetivo para Canon  distancia focal 24 mm  apertura f/2.8  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NLBGD1A/?tag=tolees-21'
 descuento: '20.16'
 average: '150.5525'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Energy Headphones 2 Auriculares inalámbricos con Bluetooth  Circumaural  Plegable  bateria Recargable Audio-in  Ruby Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5R8JC1/?tag=tolees-21'
 descuento: '15.02'
 average: '25.423333333333332'

@@ -16,6 +16,7 @@ comparePrice: 11.09 EUR
 prodname: 'GOZAR Scooter Eléctrico Antirrobo De Acero Alambre Bloqueo Frenos De Disco Ruedas Locker para Xiaomi Mijia M365 - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG8XJBX/?tag=tolees-21'
 descuento: '16.50'
 average: '9.26'

@@ -16,6 +16,7 @@ comparePrice: 44.42 EUR
 prodname: 'Jelly Comb Teclado retroiluminado inalámbrico Bluetooth - Diseño QWERTY Reino Unido para portátil / computadora / Windows  espacio [gris]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NRZNSG/?tag=tolees-21'
 descuento: '19.18'
 average: '35.8'

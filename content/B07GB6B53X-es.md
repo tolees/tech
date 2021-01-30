@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'FSKE® 45W 20V 2.25A Cargador del Ordenador portátil para Lenovo ADP-45DW C Power Supply  Ideapad 320 320S 710S 520 520S 500 310 100S 110 Miix 510 Yoga 710 Notebook EUR Adaptador 4.0 * 1.7mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB6B53X/?tag=tolees-21'
 descuento: '20.01'
 average: '21.59'

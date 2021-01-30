@@ -16,6 +16,7 @@ comparePrice: 45.79 EUR
 prodname: 'Disco Duro Externo Portátil DE 2 5" 160 GB USB 3.0 SATA HDD de Almacenamiento para Escritorio  Portátil  MacBook  Chromebook  500GB  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R17YFKG/?tag=tolees-21'
 descuento: '15.83'
 average: '38.54'

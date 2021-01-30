@@ -16,6 +16,7 @@ comparePrice: 1999.0 EUR
 prodname: 'Sigma F4.5-6.3 DG OS HSM Sport - Teleobjetivo Zoom 60-600 mm para Canon  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNXBPCY/?tag=tolees-21'
 descuento: '15.86'
 average: '1681.9'

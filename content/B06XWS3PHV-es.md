@@ -16,6 +16,7 @@ comparePrice: 524.0 EUR
 prodname: 'BenQ PD2710QC - Monitor Profesional para Diseñadores de 27" 2K QHD  2560x1440  USB-C  IPS  100% sRGB/Rec.709  10 Bits  CAD/CAM  HDMI  DP  RJ-45  Altura ajustable  Eye-care  antireflejos  - Negro /Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWS3PHV/?tag=tolees-21'
 descuento: '18.13'
 average: '436.34222222222223'

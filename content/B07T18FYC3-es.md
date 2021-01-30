@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'POWERAXIS Antena de TV  Antena Interior HDTV  100 Millas Gama de Recepción  Amplificador de Señal Más Canales de TV Gratis  Soporte 4K 1080P HD VHF UHF y Antena de TV de Mayor Alcance'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T18FYC3/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

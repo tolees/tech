@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'GVDV Funda de portátil de Fieltro de 13 3 Pulgadas antirrobo - Funda para computadora portátil Bolsa Compatible para MacBook Pro Retina/MacBook Air /12.9" iPad Pro  HP  ASUS  Acer  DELL  Lenovo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFFT219/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

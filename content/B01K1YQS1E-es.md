@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Andoer Flashes con zapata Flash Speedlite para Cámara Canon Nikon Olympus Pentax AD-560ⅡUniversal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K1YQS1E/?tag=tolees-21'
 descuento: '16.67'
 average: '33.32333333333334'

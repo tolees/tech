@@ -16,6 +16,7 @@ comparePrice: 2669.0 EUR
 prodname: 'Canon EOS RP - Cámara mirroless de 26.2 MP  Wi-Fi  Bluetooth  Sensor Dual Pixel CMOS AF  ISO  4K  AF con Baja iluminación  Disparos en Serie de 5 fps  DIGIC 8  USB 3.1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJQGRR/?tag=tolees-21'
 descuento: '21.68'
 average: '2079.826666666667'

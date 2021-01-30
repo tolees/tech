@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'ZoeeTree S4-black Altavoz Bluetooth Portatiles Inalámbrico Portátil 4.2 Estéreo con 10W Driver Doble  Llamadas Manos Libres 3.5mm  AUX/Tarjetas y Ranura para Tarjetas TF  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XH7D7J/?tag=tolees-21'
 descuento: '19.98'
 average: '19.832105263157892'

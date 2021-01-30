@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Cristal Compatible con Samsung Galaxy S20+/S20 Plus Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LVMZWR/?tag=tolees-21'
 descuento: '18.21'
 average: '8.98'

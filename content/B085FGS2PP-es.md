@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'realme 5I – Smartphone de 6.5” LCD multi-touch  4 GB RAM + 64 GB ROM  Procesador OctaCore Snapdragon 665 AIE  Cuádruple Cámara AI 12MP Ultra Gran Angular  Dual Sim  Color Aqua Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FGS2PP/?tag=tolees-21'
 descuento: '17.36'
 average: '141.13333333333335'

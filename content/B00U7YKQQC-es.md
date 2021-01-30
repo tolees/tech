@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Samsung BT-EOEG920BR - Auriculares oficiales in-ear  color rojo- Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U7YKQQC/?tag=tolees-21'
 descuento: '15.74'
 average: '9.26'

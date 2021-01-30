@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Silicona Funda con Huawei Mate 10 TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  C4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LZQMBT/?tag=tolees-21'
 descuento: '18.21'
 average: '8.98'

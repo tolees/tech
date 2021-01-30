@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Amazfit - Reloj Inteligente Smartwatch Amazfit Bip Lite Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4RBV7T/?tag=tolees-21'
 descuento: '20.18'
 average: '47.77545454545455'

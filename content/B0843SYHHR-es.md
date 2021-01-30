@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PRIXTON Lumière - Proyector portatil / Proyector LED Portable Full HD  5.000 Lúmenes  Conexión HDMI  USB  MicroSD  Aux in  AV in  Altavoces Integrados y Mando a Distancia Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0843SYHHR/?tag=tolees-21'
 descuento: '18.19'
 average: '89.95'

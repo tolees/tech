@@ -16,6 +16,7 @@ comparePrice: 31.94 EUR
 prodname: 'Reticare 352L-0215-B - Protector intensive  de ojos para ordenador portátil de 15.6    16:9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ISNZ62I/?tag=tolees-21'
 descuento: '16.19'
 average: '25.781111111111112'

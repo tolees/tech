@@ -16,6 +16,7 @@ comparePrice: 1499.99 EUR
 prodname: 'ASUS ROG STRIX G531GV-AL172 - Portátil Gaming de 15 6" FullHD  Intel Core i7-9750H  16GB RAM  1TB SSD  GeForce RTX2060-6GB  sin sistema operativo   - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6MN5ZL/?tag=tolees-21'
 descuento: '20.07'
 average: '1199.0'

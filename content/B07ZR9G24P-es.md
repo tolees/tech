@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SPACEKEEPER Carro de Almacenamiento Delgado de 4 Niveles Organizador de estantería móvil Torre Deslizante Carro de Servicio rodante Estante de Cocina Baño Cuarto de Lavado Lugares Estrechos  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZR9G24P/?tag=tolees-21'
 descuento: '15.01'
 average: '22.09'

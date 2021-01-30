@@ -16,6 +16,7 @@ comparePrice: 1799.0 EUR
 prodname: 'Lenovo Legion Y540 - Ordenador portátil Gaming de 15.6" Full HD  Intel Core i7-9750H  16GB de RAM  1TB HDD + 512GB SSD  Nvidia GTX2060-6GB + Gráfica Integrada  W10  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZT6NR8/?tag=tolees-21'
 descuento: '16.62'
 average: '1565.22'

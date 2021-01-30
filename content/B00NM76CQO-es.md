@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'StarTech.com PXTNB2SEU1M - Cable de alimentación estándar  Cable Europeo a C7 para Ordenador portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NM76CQO/?tag=tolees-21'
 descuento: '17.43'
 average: '4.322'

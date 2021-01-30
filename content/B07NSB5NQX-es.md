@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Need Escritorios Mesa de Ordenador 138x55cm Escritorio de Oficina Mesa de Estudio Puesto de Trabajo Mesa de Conferencias Talla Grande  Teca Color & Blanco Pata AC3BW-140-N'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSB5NQX/?tag=tolees-21'
 descuento: '23.62'
 average: '61.1'

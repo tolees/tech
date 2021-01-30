@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'DYNASONIC - Altavoz Karaoke Bluetooth 10W  Color Rosa | Reproductor mp3 inalámbrico portátil  Lector USB SD  Radio FM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WQFPMV/?tag=tolees-21'
 descuento: '20.21'
 average: '34.914'

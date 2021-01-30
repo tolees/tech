@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Urban Armor Gear Maleta Universal para Apple MacBook Pro  Microsoft Surface Book 2 / Laptop 3 etc.  Cubierta Protectora Universal de hasta 15"  Bolsillo Interior  Lazo para la Mano  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0842Y7XLH/?tag=tolees-21'
 descuento: '24.98'
 average: '30.0'

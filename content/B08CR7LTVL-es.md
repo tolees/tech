@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Abasic Correa de Reloj Reemplazo Compatible con Galaxy Watch 42mm / Active / Active2  la Correa de Reloj Watch Band Accessorios  20mm  Ejercito Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CR7LTVL/?tag=tolees-21'
 descuento: '16.95'
 average: '4.9'

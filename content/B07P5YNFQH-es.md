@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'tomtoc 15 4" Maletín Portátil Protector de 360° para 16" MacBook Pro 2019 15" Old MacBook Pro Retina  Dell XPS 15  Microsoft Surface Book 2  The New Razer Blade 15  Bolsillo Organizador de Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5YNFQH/?tag=tolees-21'
 descuento: '15.01'
 average: '22.94'

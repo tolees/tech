@@ -16,6 +16,7 @@ comparePrice: 379.0 EUR
 prodname: 'ASUS RT-AX88U - Router Gaming AX6000 Doble Banda Gigabit  Triple VLAN  certificado Wifi 6  Ai-Mesh soportado  WTFast Acelerador de Juegos  Adaptive QoS  AiProtection PRO  OFDMA  MU-MIMO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRBC23B/?tag=tolees-21'
 descuento: '21.64'
 average: '296.57473684210527'

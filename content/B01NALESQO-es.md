@@ -16,6 +16,7 @@ comparePrice: 96.95 EUR
 prodname: 'Crucial CT16G4RFS4266 - Memoria RAM de 16 GB  DDR4  2666 MT/s  PC4-21300  Single Rank x4  ECC  Registered  DIMM  288 Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NALESQO/?tag=tolees-21'
 descuento: '18.38'
 average: '80.455'

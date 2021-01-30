@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'CRAPHY Trípode de Cámara Móvil Monopie Ligero Aluminio 165cm con Cabezal Giratorio de 3 Vías 1/4" Placa de liberación rápida para Smartphone Móviles Cámaras Canon Sony Nikon Olympus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083S6K1HD/?tag=tolees-21'
 descuento: '20.76'
 average: '29.31'

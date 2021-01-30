@@ -16,6 +16,7 @@ comparePrice: 104.05 EUR
 prodname: 'Crucial CT2K102464BF186D Kit de memoria RAM de 16 GB  8 GB x 2   DDR3  1866 MT/s  PC3-14900  SODIMM  204-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JCRZ6XS/?tag=tolees-21'
 descuento: '22.38'
 average: '81.94800000000001'

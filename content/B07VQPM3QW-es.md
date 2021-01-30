@@ -16,6 +16,7 @@ comparePrice: 272.99 EUR
 prodname: 'Samsung Galaxy Watch Active2 -  Smartwatch  Bluetooth  Plata  44 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQPM3QW/?tag=tolees-21'
 descuento: '17.61'
 average: '224.825'

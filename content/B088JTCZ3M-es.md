@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Foyar - Tarjeta de captura HDMI  USB 3.0  1080P  4K  60 fps  tarjeta de captura de vídeo  conversor para juegos en streaming o emisión en directo  para sistemas Windows y OS X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088JTCZ3M/?tag=tolees-21'
 descuento: '23.02'
 average: '20.0'

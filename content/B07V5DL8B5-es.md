@@ -16,6 +16,7 @@ comparePrice: 1249.0 EUR
 prodname: 'Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  128GB de almacenamiento  - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5DL8B5/?tag=tolees-21'
 descuento: '20.02'
 average: '1025.9857142857143'

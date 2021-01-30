@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'UGREEN Cable USB Tipo C 90 Grados  Cable USB 2.0 a USB C Carga Rápida  Cable USB C Codo para Xiaomi Mi A2  A3  Redmi Note 7  Redmi Note 8 Pro  Pocophone  Samsung A50  iPad Pro 2020  2018  3 Metros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKMPH53/?tag=tolees-21'
 descuento: '15.01'
 average: '10.19'

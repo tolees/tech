@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Belkin Boost Charge 10K - Batería externa con conector Lightning + cable Lightning  cargador portátil de 10000 mAh para iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8  7  6  5 y iPad   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1TRBLW/?tag=tolees-21'
 descuento: '16.43'
 average: '61.989999999999995'

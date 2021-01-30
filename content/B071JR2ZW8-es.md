@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ASUS XG-C100C - Adaptador de Red 10 Gigabit PCI Express  QoS Integrado  RJ-45  Compatible con Windows 10 y Linux '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JR2ZW8/?tag=tolees-21'
 descuento: '22.00'
 average: '77.74'

@@ -16,6 +16,7 @@ comparePrice: 198.8 EUR
 prodname: 'HP Laserjet Pro M404dn - Impresora Láser Monocromo  A4 Negro  hasta 38 ppm  de 750 a 4000 Páginas al Mes  1 USB 2.0 de Alta Velocidad  1 USB Host  1 Red Gigabit Ethernet 101001000T  Doble Cara '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPCQX25/?tag=tolees-21'
 descuento: '16.03'
 average: '181.00363636363636'

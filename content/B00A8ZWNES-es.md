@@ -16,6 +16,7 @@ comparePrice: 379.0 EUR
 prodname: 'Samyang F1121903101 - Objetivo fotográfico DSLR para Nikon F Ae  Distancia Focal Fija 8mm  Apertura f/3.5-22 UMC  Ojo de Pez  CSII   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A8ZWNES/?tag=tolees-21'
 descuento: '17.93'
 average: '304.01'

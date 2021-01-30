@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ESR Funda de Cristal Templado para Samsung Note 20/Note 20 5G[Funda Cristal Templado 9H] [Resistente Arañazos][Marco TPU Flexible][Funda Protectora para Samsung Note 20 2020][Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C59QXQP/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

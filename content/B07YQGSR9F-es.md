@@ -16,6 +16,7 @@ comparePrice: 1299 EUR
 prodname: 'MSI GF65 Thin 9SD-038XES - Ordenador portátil de 15.6"  i7-9750H  RAM de 16 GB  1 TB NVMe PCIe Gen3x4 SSD  GeForce GTX 1660 Ti GDDR6 6GB  Free Dos  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQGSR9F/?tag=tolees-21'
 descuento: '17.36'
 average: '1073.55'

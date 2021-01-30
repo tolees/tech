@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Beurer BF 700 - Báscula de baño diagnóstica Bluetooth  compatible con App en español Health Manager  pantalla LCD grandes dígitos  2.3 cm   2 electrodos  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NABOIEK/?tag=tolees-21'
 descuento: '22.52'
 average: '46.41'

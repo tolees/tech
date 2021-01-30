@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Apple Funda Smart Battery Case  para el iPhone 7  - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW5PZPL/?tag=tolees-21'
 descuento: '22.88'
 average: '91.84333333333333'

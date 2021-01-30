@@ -16,6 +16,7 @@ comparePrice: 1159 EUR
 prodname: 'Apple iPhone XS Max  de 64GB  - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6H7QZ8/?tag=tolees-21'
 descuento: '21.89'
 average: '1044.2716666666668'

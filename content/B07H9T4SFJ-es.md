@@ -16,6 +16,7 @@ comparePrice: 569.99 EUR
 prodname: 'Canon EF-M - Objetivo de 32 mm f/1.4 STM  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9T4SFJ/?tag=tolees-21'
 descuento: '21.11'
 average: '449.65'

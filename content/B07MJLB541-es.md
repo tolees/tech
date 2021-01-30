@@ -16,6 +16,7 @@ comparePrice: 1899.99 EUR
 prodname: 'MSI GS65 Stealth Thin 8RE-604XES - Ordenador portátil Gaming Ultrafino 15.6" FullHD 144Hz Coffeelake i7-8750H  16GB RAM  1TB SSD  Nvidia GTX 1060 6GB  sin Sistema op.  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJLB541/?tag=tolees-21'
 descuento: '21.05'
 average: '1618.606'

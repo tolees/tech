@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'LONGER Orange 10 Impresora 3D  Resina Impresora 3D SLA con Iluminación LED Paralela  Cuerpo de Metal Completo  98mm x 55mm x 140mm Tamaño de Impresión  Advertencia de Temperatura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TK79NGD/?tag=tolees-21'
 descuento: '15.00'
 average: '179.99'

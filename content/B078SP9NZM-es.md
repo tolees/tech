@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Teléfono móvil con Tapa para Personas Mayores  Teclas Grandes  Isheep SG220 gsm  Pantalla de 2 4 Pulgadas  tecla de Emergencia  cámara  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SP9NZM/?tag=tolees-21'
 descuento: '17.82'
 average: '35.89999999999999'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TECKNET Base de Refrigeración para Ordenador Portátil con 2 Ventiladores Silenciosos y Potencias  9-16 Pulgadas  iluminación LED  2 USB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011VJCLEQ/?tag=tolees-21'
 descuento: '16.67'
 average: '27.19'

@@ -16,6 +16,7 @@ comparePrice: 329.43 EUR
 prodname: 'ASUS VX24AH - Monitor de 23.8"  2560 x 1440 píxeles  300 lúmenes  HDMI  Altavoces   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QLL01BA/?tag=tolees-21'
 descuento: '15.30'
 average: '263.93'

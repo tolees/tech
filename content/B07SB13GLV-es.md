@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Energy Sistem Headphones BT Urban 2 Radio White  Auriculares inalambricos  Reproductor MP3 microSD  Radio  Bluetooth '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB13GLV/?tag=tolees-21'
 descuento: '20.08'
 average: '18.405'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AOLVO Funda Game para iPhone X/XS/MAX/XR  IPhone8/8 Plus  iPhone 7/7 Plus  iPhone 6/6Plus  Funda Protectora De Teléfono 3D Retro con 36 Juegos Pequeños  Pantalla A Todo Color Game Case'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDW6FR2/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

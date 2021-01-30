@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Canon CLI-581XL C Cartucho de tinta original Cian XL para impresora de inyeccion de tinta PIXMA TS9150  TS6151  TS9155  TS6150  TS8151  TR8550  TR7550  TS8150  TS8152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751LG7KQ/?tag=tolees-21'
 descuento: '24.22'
 average: '15.49'

@@ -16,6 +16,7 @@ comparePrice: 77.31 EUR
 prodname: 'AVM FRITZ!WLAN Repeater 1750E International - Repetidor/Extensor WiFi AC+N  banda dual  450 Mbps en 2 4GHz y 1300 Mbps en 5 GHz   Mesh  punto de acceso WiFi  WPS  interfaz en Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RVDOQXG/?tag=tolees-21'
 descuento: '22.40'
 average: '64.495'

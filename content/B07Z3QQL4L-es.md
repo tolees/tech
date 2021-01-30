@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Vozehui - Correa para Garmin Vivofit 4  silicona suave  para Garmin Vivofit 4  con cierre de hebilla de metal seguro  tamaño grande y pequeño  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3QQL4L/?tag=tolees-21'
 descuento: '24.02'
 average: '7.53'

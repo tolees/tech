@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Anillo de Luz con Tripode  doosl 10" Regulables Selfies Anillo de Luz con Remoto Inalámbrico para iPhone Móviles para Maquillaje  Videos de Youtube  Fotografías  Tomas  TikTok- con 3 Modos de Luces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1HXYCV/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

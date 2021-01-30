@@ -16,6 +16,7 @@ comparePrice: 879.0 EUR
 prodname: 'Logitech PTZ Pro Camera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PTMQ98/?tag=tolees-21'
 descuento: '23.78'
 average: '625.3266666666667'

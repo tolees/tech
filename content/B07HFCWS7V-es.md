@@ -16,6 +16,7 @@ comparePrice: 22.79 EUR
 prodname: 'F Fityle 2 Par Altavoz Subwoofer 4X Línea de Montaje Tweeter Al2 Coches Equipo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFCWS7V/?tag=tolees-21'
 descuento: '16.67'
 average: '16.624'

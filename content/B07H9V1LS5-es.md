@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Apple Funda Silicone Case  para el iPhone XS  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9V1LS5/?tag=tolees-21'
 descuento: '24.47'
 average: '36.0925'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'MELON N89A Antena wifi exterior e interior 2000mw + 24 dbi 10 metros usb. Receptor inalámbrico externo con módulo wireless Ralink RT3070. Compatible auditoria  wifislax  beini  backtrack.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVX3TCI/?tag=tolees-21'
 descuento: '17.17'
 average: '28.95'

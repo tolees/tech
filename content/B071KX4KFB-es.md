@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Huawei E5573C – Wi-Fi móvil  150Mbps de Velocidad de Descarga  Wi-Fi Hotspot/Router de bajo Consumo energético  Ranura de Tarjeta SIM  hasta un máximo de 10 usuarios  1 Usuario vía USB   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KX4KFB/?tag=tolees-21'
 descuento: '18.10'
 average: '57.275000000000006'

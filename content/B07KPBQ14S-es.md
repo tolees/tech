@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Interruptor de Persiana wifi  Frontoppy Interruptor Inteligente Inalambrico  Persianas eléctricas Interruptor interruptor pared tactil  Control Inteligente con Aplicación o Voz   Ewelink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPBQ14S/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

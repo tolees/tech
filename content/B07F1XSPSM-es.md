@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Proze TWS-02 Auriculares Inalámbricos Bluetooth 5.0 - Sonido HD 20H Micrófono IP67'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1XSPSM/?tag=tolees-21'
 descuento: '18.27'
 average: '45.95'

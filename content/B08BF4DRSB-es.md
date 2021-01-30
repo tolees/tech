@@ -16,6 +16,7 @@ comparePrice: 34.7 EUR
 prodname: 'AFXMATE - Auriculares Bluetooth con cancelación de ruido  IPX5 impermeables  auriculares in-ear inalámbricos  con maletín de carga y micrófono integrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BF4DRSB/?tag=tolees-21'
 descuento: '24.58'
 average: '26.17'

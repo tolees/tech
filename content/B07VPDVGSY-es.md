@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Jslai Niños Smartwatch Imprägniern Inteligente Relojes Telefono  LBS Tracker de Alarma SOS Infantil Relojes de Pulsera Cámara Reloj móvil Mejor Regalo para Niño niña de 3-12 años  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPDVGSY/?tag=tolees-21'
 descuento: '18.61'
 average: '34.99'

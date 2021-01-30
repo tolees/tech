@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'SUNLU Filamento PLA 1.75mm 5kg Impresora 3D Filamento  Precisión Dimensional +/- 0.02 mm  PLA Blanco Plata Rojo  Amarillo Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9RY3C9/?tag=tolees-21'
 descuento: '15.56'
 average: '68.39'

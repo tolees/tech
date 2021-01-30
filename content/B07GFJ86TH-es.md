@@ -16,6 +16,7 @@ comparePrice: 949.9 EUR
 prodname: 'Panasonic Lumix DC-LX100 II - Cámara Compacta Premium de 17 MP  Sensor de 4/3"  Objetivo F1.7-F2.8 de 24-75 mm  Zoom de 3X  Táctil  4K  Wifi  Bluetooth  RAW   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFJ86TH/?tag=tolees-21'
 descuento: '15.08'
 average: '823.325'

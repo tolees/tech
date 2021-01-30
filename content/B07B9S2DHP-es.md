@@ -16,6 +16,7 @@ comparePrice: 29.48 EUR
 prodname: 'HUAWEI Band 2 Pro Black  ERIS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9S2DHP/?tag=tolees-21'
 descuento: '21.85'
 average: '23.465'

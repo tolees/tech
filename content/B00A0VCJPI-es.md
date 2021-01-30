@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.61 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2021-01-28 22:50:08
+date: 2021-01-30 09:55:28
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 22.95 EUR
 prodname: 'TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21'
 descuento: '21.61'
-average: '16.7612389380531'
+average: '16.7684457478006'
 ---
 
 Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21) con un 21.61 % de descuento con precio de oferta de 17.99 EUR (original: 22.95 EUR) en el siguiente enlace!
@@ -27,10 +28,10 @@ Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 M
 
 ℹ️:
 
-- Dos antenas internas: Señales más potentes que nunca, la cobertura de Wi-Fi hasta 300Mbps, amplifica perfectamente hasta toda su casa
 - Configuración fácil: Sólo necesita pulsar el botón range extender para ampliar fácilmente la cobertura inalámbrica
-- Un puerto ethernet: Permite funcionar al extensor como adaptador inalámbrico para conectar dispositivos cableados
-- 5 indicadores: Representan la intensidad de señal actual que recibe, puede ayudar a encontrar la ubicación idónea para colocar el extensor de rango
 - Bajo consumo: Sólo 3w, amplia wi-fi de su casa todos los días sin notar el consumo de luz
+- Un puerto ethernet: Permite funcionar al extensor como adaptador inalámbrico para conectar dispositivos cableados
+- Dos antenas internas: Señales más potentes que nunca, la cobertura de Wi-Fi hasta 300Mbps, amplifica perfectamente hasta toda su casa
+- 5 indicadores: Representan la intensidad de señal actual que recibe, puede ayudar a encontrar la ubicación idónea para colocar el extensor de rango
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21)

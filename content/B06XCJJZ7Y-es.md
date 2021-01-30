@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'SADES SA902 USB Virtual 7.1 envolvente sonido Gaming Headset  Gaming auriculares con micrófono inteligente cancelación de ruido LED luz para PC y Mac negro& azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCJJZ7Y/?tag=tolees-21'
 descuento: '15.01'
 average: '24.29'

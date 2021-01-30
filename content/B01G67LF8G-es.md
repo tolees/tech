@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Netgear EX7300 Repetidor WiFi Mesh AC2200  Amplificador WiFi Doble Banda  Velocidad de hasta 2200 Mbps  puerto lan Gigabit  Compatibilidad Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21'
 descuento: '20.09'
 average: '78.4'

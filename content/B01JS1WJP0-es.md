@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Anker  2 Pack  Cable Lightning Cargador iPhone [Apple MFi Certificado / 180 cm] -Nylon Cable para iPhone XS/XS MAX/XR/X  iPad Pro Air 2  iPad Mini 4 3 2  iPod Touch 5th Gen / 6th Gen/Nano 7th Gen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JS1WJP0/?tag=tolees-21'
 descuento: '21.06'
 average: '16.99'

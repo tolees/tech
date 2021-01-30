@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jabra Elite Active 45e – Auriculares Deportivos Bluetooth con Protección Impermeable para Llamadas Inalámbricas y Música  Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPK4GRZ/?tag=tolees-21'
 descuento: '20.09'
 average: '68.82'

@@ -16,6 +16,7 @@ comparePrice: 102.99 EUR
 prodname: 'Brother HL-1210W - Impresora láser monocromo compacta con WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUB8J3Q/?tag=tolees-21'
 descuento: '24.28'
 average: '79.362'

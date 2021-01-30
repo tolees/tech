@@ -16,6 +16,7 @@ comparePrice: 1109.0 EUR
 prodname: 'Samsung Galaxy Note10+ SM-N975F - Smartphone  Dual SIM  12 GB RAM  256 GB Memoria  10 MP Dual Pixel AF  Blanco  White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYT8BMC/?tag=tolees-21'
 descuento: '21.64'
 average: '847.8952631578948'

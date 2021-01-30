@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Tenda PW201A N300 Extensor de Red por Linea elétrica WiFi  AV200  300Mbps WiFi  PLC LAN HomePlugAV '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GSB2PJ/?tag=tolees-21'
 descuento: '15.01'
 average: '26.31'

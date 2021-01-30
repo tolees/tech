@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rocketek Surface Pro Cargador  36W 12V 2.58A Adaptador para Microsoft Surface Pro 6 y Surface Laptop Surface Pro 3 y Pro 4 Surface Book y Surface Pro con Cable de alimentación de 5.25 pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXN7V8P/?tag=tolees-21'
 descuento: '15.01'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'soges Mesa Ordenador Gran Escritorio de Esquina Moderna Escritorio para Oficina Escritorio   150+150  x 55 x 76 cm LD-Z01-MO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2RXZPJ/?tag=tolees-21'
 descuento: '18.18'
 average: '101.49'

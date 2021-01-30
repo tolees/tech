@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 GB  1600 MHz SODIMM  DDR3L  1.35 V  CL11  204 Pines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21'
 descuento: '23.21'
 average: '43.83'

@@ -16,6 +16,7 @@ comparePrice: 2099.99 EUR
 prodname: 'ASUS ROG Strix G731GW-EV010T - Portátil Gaming de 17.3" FullHD 144Hz  Intel Core i7-9750H  16GB RAM  512GB SSD  NVIDIA GeForce RTX2070  Windows 10 Home  Metal Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5LR1VT/?tag=tolees-21'
 descuento: '20.01'
 average: '1710.4440000000002'

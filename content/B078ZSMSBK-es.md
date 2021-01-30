@@ -16,6 +16,7 @@ comparePrice: 349.69 EUR
 prodname: 'HP Z24n G2 - Monitor profesional de 24” ajustable en altura  WUXGA antireflejo; 1920 X 1200; IPS LED; 300 cd/m; 5ms; 99% sRGB; 8bits; 16:10; DVI-D; HDMI 1.4; DisplayPort 1.2  2 x USB-C; 2 x USB 3.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZSMSBK/?tag=tolees-21'
 descuento: '21.39'
 average: '262.81499999999994'

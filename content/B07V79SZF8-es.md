@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Base de Refrigeración para Ordenador Portátil 12"-17.3"  Base Portatil Gaming de enfriamiento Rápido con LED Azul  5 Ventiladores Ultra Silenciosos  2 Puertos USB  7 Niveles de Diseño Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V79SZF8/?tag=tolees-21'
 descuento: '20.01'
 average: '31.99'

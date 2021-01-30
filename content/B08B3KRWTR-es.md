@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lamicall Soporte de Almohada para Tablet - Almohada Soporte Sofá Cama para 2020 iPad Pro 9.7  10.5  12.9  iPad Air 2 3 4  iPad Mini 2 3 4  Switch  Samsung Tab  iPhone  Otras Tablets - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3KRWTR/?tag=tolees-21'
 descuento: '15.01'
 average: '25.49'

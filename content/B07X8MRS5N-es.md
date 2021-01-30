@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'DIGITNOW! Dongle de Captura de Video HDMI USB 3.0 y Dispositivo de Tarjeta HDMI Dongle Full HD 1080P Video Audio HDMI to USB Converter Converter para Windows Linux Sistema Os X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8MRS5N/?tag=tolees-21'
 descuento: '20.00'
 average: '119.99'

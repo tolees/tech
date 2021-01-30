@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'yootech Cargador Inalámbrico Rápido  2 Pack 7.5W para iPhone 11/11 Pro/11 Pro MAX/XS MAX/XR/XS/X/8+/8 10W Qi Wireless Charger para Galaxy S20/Note 10+/S10/S10E/S9/Note 8/S8  AirPods Pro No Adaptador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6DW1FY/?tag=tolees-21'
 descuento: '20.84'
 average: '18.985'

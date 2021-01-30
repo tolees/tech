@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'EZVIZ 303100908 Camara IP WiFi C3A White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY32RZQ/?tag=tolees-21'
 descuento: '18.35'
 average: '89.0'

@@ -16,6 +16,7 @@ comparePrice: 409.95 EUR
 prodname: 'IKOHS NETBOT LS23 - Robot Aspirador Láser  Aspira  Barre  Friega y Pasa la Mopa  Mapeo 3d Láser  con Filtro Hepa  Navegación Inteligente  App con Mapa  Wifi  Programable  Autonomía: 120-160 minutos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZD88CTT/?tag=tolees-21'
 descuento: '19.51'
 average: '329.95'

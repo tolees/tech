@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Panasonic RF-3500E9-K - Radio Portátil  FM/AM/LW/SW  1000 mW  Largo Alcance  Sintonizador Analógico  Fácil y Simple de Usar  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZSUOUQ/?tag=tolees-21'
 descuento: '17.48'
 average: '33.0'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Lenovo L24i-10 - Monitor de 23.8"  Pantalla FullHD/IPS  1920 x 1080 pixeles  tiempo de respuesta de 4 ms  VGA  HDMI  1000:1  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FWM16R/?tag=tolees-21'
 descuento: '20.13'
 average: '108.95428571428572'

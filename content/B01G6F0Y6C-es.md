@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Teclado mecánico AK33 de Lexon tech  teclado para juegos con cable USB con retroiluminación LED azul  teclado compactos de 82 teclas  interruptores azul negro  mecanógrafos y jugadores de juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G6F0Y6C/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vieta Pro Upper - Altavoz portátil  Bluetooth  Radio FM  micrófono integrado  True Wireless Dual pair  Reproductor USB  Lector de tarjeta Micro SD  Resistencia al agua IPX6  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9KT7J6/?tag=tolees-21'
 descuento: '22.85'
 average: '50.15'

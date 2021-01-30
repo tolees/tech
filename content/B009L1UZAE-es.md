@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HP X4500 - Ratón inalámbrico  USB  Sensor láser  Windows XP/Vista/7  Color Metal Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009L1UZAE/?tag=tolees-21'
 descuento: '16.67'
 average: '22.695'

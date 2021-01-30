@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HOREVO Plafonnier Plafón LED Lámpara de Techo con Altavoz Bluetooth  24W D40cm  Luz blanca Tono ajustable + Luz de colores  APP Disponible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0727XS1SW/?tag=tolees-21'
 descuento: '15.00'
 average: '50.99'

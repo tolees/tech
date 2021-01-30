@@ -16,6 +16,7 @@ comparePrice: 93.16 EUR
 prodname: 'Razer Ornata Chroma - Teclado Gaming  Estándar con USB  Alámbrico  Interruptor de Membrana Teclas de Membrana  ES Layout  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5B5I4H/?tag=tolees-21'
 descuento: '19.51'
 average: '68.62464285714286'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'TECKNET Tarjeta de Sonido USB  Tarjeta de Sonido Externa Audio y Microfono 3.5mm para su Ordenador o Laptop Conecta Altavoces estéreo  Auriculares y micrófono  Silver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012H1YDD4/?tag=tolees-21'
 descuento: '24.47'
 average: '7.37'

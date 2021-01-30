@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'TP-Link EAP225-Outdoor Omada AC1200 Punto de Acceso inalámbrico– Impermeable  Resistente al Polvo  Protección contra Rayos  Roaming Continuo  Gigabit  PoE de Suministro eléctrico  EAP225-Outdoor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21'
 descuento: '24.53'
 average: '77.92399999999999'

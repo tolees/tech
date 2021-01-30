@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Fujifilm Fujinon XF 55-200 mm f/3.5-4.8 LM OIS - Objetivo para Fujifilm con Montura X  Distancia Focal 55-200 mm  Apertura f/3.5-4.8  Zoom óptico 3.6X estabilizador   Color Negro [Importado]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CE613FE/?tag=tolees-21'
 descuento: '15.00'
 average: '624.1666666666666'

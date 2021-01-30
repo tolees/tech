@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Panasonic NN-J151 - Microondas con Grill  1000 W  20 L  4 niveles  Grill Cuarzo 1100 W  Plato Giratorio 255 mm  9 modos  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005YYKPFW/?tag=tolees-21'
 descuento: '19.26'
 average: '100.72714285714285'

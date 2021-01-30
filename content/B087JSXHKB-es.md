@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Magnético Cable USB Tipo C  RAVIAD [2 Pack  1M] Magnetico Cargador Tipo C Carga Rápido y Sincronización Cargador iman para Galaxy S10/S9/S8/Note10  Xiaomi Mi A2/A1  Huawei P30/P20  Xperia XZ  LG G7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JSXHKB/?tag=tolees-21'
 descuento: '15.02'
 average: '9.05'

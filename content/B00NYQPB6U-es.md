@@ -16,6 +16,7 @@ comparePrice: 84.45 EUR
 prodname: 'HP Officejet Pro 6230 - Impresora de tinta- B/N 18 PPM  color 10 PPM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NYQPB6U/?tag=tolees-21'
 descuento: '22.51'
 average: '48.33222222222222'

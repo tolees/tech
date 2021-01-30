@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: '[Actualizado] Proyector Full HD 1080p Nativo  Soporta 4K  5000 Lúmenes  ABOX LED Proyector  Resolución Nativa 1920 * 1080P  Proyector de Vídeo para Cine en Casa de 250"  Contraste 4000: 1  Modelo A6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NXRZJK/?tag=tolees-21'
 descuento: '15.00'
 average: '164.5614285714286'

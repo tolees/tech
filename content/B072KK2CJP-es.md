@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP Spectre Bluetooth 500 Bluetooth Óptico 1600DPI Negro - Ratón  Bluetooth  Rueda  Óptico  1600 DPI  Universal  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KK2CJP/?tag=tolees-21'
 descuento: '18.14'
 average: '32.455'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Newskill Suiko Switch Brown - Teclado Mecánico Gaming con Reposamuñecas Incluido  Teclas con grabación Macro  20 Modos de iluminación RGB  - Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QGM1QJ/?tag=tolees-21'
 descuento: '15.67'
 average: '58.99'

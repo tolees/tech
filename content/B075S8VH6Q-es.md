@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mars Gaming MRS0  altavoces 10W  subwoofer  conector directo auriculares  USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S8VH6Q/?tag=tolees-21'
 descuento: '21.80'
 average: '13.49'

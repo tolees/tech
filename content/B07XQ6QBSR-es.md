@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'OMOTON Teclado Bluetooth Español Compatible con Sistema de iOS/iPadOS  iPad Pro 12.9 2020 / iPad Pro/iPad Air/iPad Mini  No Sirve para iMac  Macbook - Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ6QBSR/?tag=tolees-21'
 descuento: '15.23'
 average: '15.25'

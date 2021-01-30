@@ -16,6 +16,7 @@ comparePrice: 669.99 EUR
 prodname: 'ASUS PB60-B3105ZV - Mini ordenador de sobremesa  Intel Core i3-8100T  8 GB RAM  128 GB SSD  Intel UHD Graphics 630  Windows 10 Pro Original  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQY7Y14/?tag=tolees-21'
 descuento: '22.54'
 average: '528.4666666666667'

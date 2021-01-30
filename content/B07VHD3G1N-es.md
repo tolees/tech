@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'SatIntegral S-1412 HD Rocket  Receptor satélite Full HD  H.265 HEVC   S1412 mas USB-WiFi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHD3G1N/?tag=tolees-21'
 descuento: '19.05'
 average: '85.0'

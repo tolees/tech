@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Reawul Alfombrilla de Ratón RGB Extra Grande  tapete de Juego de Microfibra para Computadora Extended con Luces  Base de Goma Impermeable y Antideslizante para Gamers y Portátiles - 800 x 300 x 4 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFG9QPL/?tag=tolees-21'
 descuento: '17.25'
 average: '23.99'

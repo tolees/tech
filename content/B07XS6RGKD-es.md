@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Lenovo Q24i-10 23.8 " FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms HDMI+VGA 3 lados sin bordes con altavoces  2 x 3W  - Negro / peana gris metalizada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XS6RGKD/?tag=tolees-21'
 descuento: '21.57'
 average: '148.63388888888886'

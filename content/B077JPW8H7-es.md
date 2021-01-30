@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Gigaset A170 - Teléfono Inalámbrico  Pantalla Iluminada  Agenda de 50 Contactos  Volumen Ajustable  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JPW8H7/?tag=tolees-21'
 descuento: '20.00'
 average: '15.92'

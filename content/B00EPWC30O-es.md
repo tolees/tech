@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Sony SEL50F18B - Objetivo para Sony  distancia focal fija 50mm  apertura f/1.8-22  estabilizador  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPWC30O/?tag=tolees-21'
 descuento: '20.83'
 average: '277.875'

@@ -16,6 +16,7 @@ comparePrice: 26.09 EUR
 prodname: 'Otterbox Symmetry - Funda para Apple iPhone XR  diseño RAD Mickey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7T5W2U/?tag=tolees-21'
 descuento: '17.32'
 average: '21.87'

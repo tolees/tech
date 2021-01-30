@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'J Jecent Cable USB Tipo C [3-Pack] 3.3 ft/1M Trenzado de Nailon Carga Rápida Cargador Type C Datos Cable para Samsung Galaxy S8/S8+/S9/S9+/Note 8 Sony Xperia Google Pixel LG G5/G6  Plata Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPDGW8B/?tag=tolees-21'
 descuento: '20.02'
 average: '7.19'

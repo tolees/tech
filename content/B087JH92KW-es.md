@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'JOOWIN Adaptador WiFi USB AC 650Mbps Dual Banda 2.4Ghz/5Ghz Adaptador Micro USB Inalámbrico Signal Booster para PC Desktop Laptop Win7/8.1/10/XP/Vista/MAC 10.6-10.15'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JH92KW/?tag=tolees-21'
 descuento: '20.01'
 average: '11.19'

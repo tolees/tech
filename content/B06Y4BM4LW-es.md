@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'Canon PowerShot SX730 HS - Cámara digital de 20.3 MP  Video Full HD  WiFi  Bluetooth   Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4BM4LW/?tag=tolees-21'
 descuento: '16.94'
 average: '301.98333333333335'

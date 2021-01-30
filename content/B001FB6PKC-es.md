@@ -16,6 +16,7 @@ comparePrice: 489.0 EUR
 prodname: 'Tamron SP AF 90 mm F/2.8 di Macro 1:1 - Objetivo para Nikon  Distancia Focal Fija 90mm  Apertura f/2.8  Macro  diámetro: 55mm  Negro  272ENII '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FB6PKC/?tag=tolees-21'
 descuento: '23.72'
 average: '441.0'

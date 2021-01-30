@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'AWESAFE GPS para Coche con Pantalla Táctil HD de 7 Pulgadas Reproductor Multimedia Navegador GPS con Mapa de Europa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNSH7FQ/?tag=tolees-21'
 descuento: '16.46'
 average: '65.99'

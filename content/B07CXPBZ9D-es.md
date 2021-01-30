@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TENMOS K6 Raton Inalambrico Gaming  LED Recargable Óptico Inalámbrico Ratón Ergonómicos Inalámbricos Portatil con Receptor USB  3 dpi Ajustables Y 6 Botones  para Mac/Laptop/PC/Notebook  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXPBZ9D/?tag=tolees-21'
 descuento: '15.01'
 average: '11.89'

@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'BANLVS Smartwatch Reloj Inteligente IP67 con Correa Reemplazable Pulsómetro  Monitor de Sueño  Presión Arterial  1.4 Inch Pantalla Táctil Completa Reloj Inteligente para Mujer Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KK9WNM/?tag=tolees-21'
 descuento: '17.86'
 average: '47.611000000000004'

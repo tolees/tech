@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'WiFi repetidor Extensor de Red WiFi -300Mbps Mini Wireless Extensor de Rango Inalámbrico Ap Amplificador Repeater Booster Wireless N 2.4GHz Universal EU Enchufe  N300  Puerto LAN  WPS  Aigital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836BRCXY/?tag=tolees-21'
 descuento: '24.49'
 average: '21.89'

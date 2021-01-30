@@ -16,6 +16,7 @@ comparePrice: 2999.99 EUR
 prodname: 'ASUS GX701GXR-H6097T - Portátil Gaming de 15 6" FullHD  Intel Core i7-9750H  32GB RAM  1TB SSD  NVIDIA RTX2080-8GB  Windows 10   Aluminio - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6NKCZN/?tag=tolees-21'
 descuento: '20.03'
 average: '2599.495'

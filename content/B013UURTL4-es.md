@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Huawei Unlocked E3372h-320 LTE / 4G 150 Mbps USB Dongle de banda ancha móvil  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013UURTL4/?tag=tolees-21'
 descuento: '18.39'
 average: '33.756'

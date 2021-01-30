@@ -16,6 +16,7 @@ comparePrice: 26.38 EUR
 prodname: 'Panasonic Eneloop SY3052647 - Pack 8 Pilas Recargables  AA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JZBX8DQ/?tag=tolees-21'
 descuento: '24.37'
 average: '22.375'

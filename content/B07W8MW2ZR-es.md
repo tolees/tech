@@ -16,6 +16,7 @@ comparePrice: 949.99 EUR
 prodname: 'GPD P2 MAX 8.9 Pulgadas Ultrabook portátil Mini PC Portátil Laptop UMPC Pantalla táctil Tableta CPU Intel m3-8100Y GPU HD Graphics 615 WIN10 16GB RAM / 512GB ROM  Negro ámbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8MW2ZR/?tag=tolees-21'
 descuento: '16.84'
 average: '789.99'

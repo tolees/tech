@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Ayete Ratón Inalámbrico Mini Ratón Inalámbrico Ratón óptico Silencioso Click Ultra Delgado 1600 dpi para Computadora Portátil PC Portátil Computadora Mac  E1800Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXRP84V/?tag=tolees-21'
 descuento: '16.94'
 average: '10.79'

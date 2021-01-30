@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Yamaha MusicCast 50 - Altavoz  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7HR4VM/?tag=tolees-21'
 descuento: '20.00'
 average: '404.8225'

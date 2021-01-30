@@ -16,6 +16,7 @@ comparePrice: 234.9 EUR
 prodname: 'Impresora de inyección de tinta Canon PIXMA iX6850 Negra Wifi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZDLDK6/?tag=tolees-21'
 descuento: '21.24'
 average: '176.0'

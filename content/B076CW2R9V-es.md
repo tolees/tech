@@ -16,6 +16,7 @@ comparePrice: 17.05 EUR
 prodname: 'JVC HA-FX9BT-A-E Dentro de oído Binaural Inalámbrico Azul - Auriculares  Inalámbrico  Dentro de oído  Binaural  Intraaural  20-20000 Hz  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CW2R9V/?tag=tolees-21'
 descuento: '23.81'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 289.9 EUR
 prodname: 'Impresora de inyección de tinta Canon PIXMA iP110 Negra Wifi portatil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MWNDXQQ/?tag=tolees-21'
 descuento: '15.93'
 average: '216.8245'

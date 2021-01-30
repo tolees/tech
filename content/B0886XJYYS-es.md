@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Sony WFSP800N - Auriculares True Wireless  Cancelación de ruido  Bluetooth  Extra Bass  hasta 18 h de batería  resistente al agua y polvo IP55  óptimo para deporte y trabajar con manos libres  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886XJYYS/?tag=tolees-21'
 descuento: '15.00'
 average: '179.96'

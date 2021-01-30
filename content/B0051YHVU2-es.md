@@ -16,6 +16,7 @@ comparePrice: 12.08 EUR
 prodname: 'Cablesson Ivuna Micro HDMI de extensión 0.5m - hasta 1080p - v1.4/2.0 Audio y Vídeo - Conecta a Dispositivos Alta definición utilizando el Conector HDMI Micro al Nuevo PC o TV 1080p 4K2K 3D Full HD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051YHVU2/?tag=tolees-21'
 descuento: '20.86'
 average: '9.56'

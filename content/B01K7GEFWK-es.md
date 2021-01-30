@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Logitech M220 Ratón Inalámbrico  Botones Silenciosos  2.4 GHz con Nano-Receptor USB  Seguimiento Óptico 1000 DPI  Batería 18 Meses  Ambidiestro  Compatible con PC/Mac/Portátil  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7GEFWK/?tag=tolees-21'
 descuento: '15.43'
 average: '20.59'

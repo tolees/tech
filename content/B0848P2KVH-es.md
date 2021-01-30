@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: '7hSevenOn Home Termostato WiFi para Calefacción o Aire Acondicionado vía Smartphone/App'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848P2KVH/?tag=tolees-21'
 descuento: '20.00'
 average: '34.82'

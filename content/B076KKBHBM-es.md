@@ -16,6 +16,7 @@ comparePrice: 36.26 EUR
 prodname: 'Samsung M471A5244CB0-CRC - Memoria DRAM de 4 GB  1.2 V  ddr4  Color Verde Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KKBHBM/?tag=tolees-21'
 descuento: '16.63'
 average: '30.23'

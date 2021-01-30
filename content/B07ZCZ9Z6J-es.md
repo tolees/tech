@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Bqeel 【Promoción】 Raspberry Pi 4 Model B 【2GB RAM+64GB SD Card 】con 4K BT 5.0 WiFi 2.4G/5G/1000M Ethernet 2*USB 3.0/USB 2.0 USB-C Adaptador de Corriente con Interruptor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCZ9Z6J/?tag=tolees-21'
 descuento: '15.00'
 average: '78.64384615384614'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'AmazonBasics - Minialfombrilla de ratón para videojuegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6H2WF7/?tag=tolees-21'
 descuento: '23.65'
 average: '5.563333333333333'

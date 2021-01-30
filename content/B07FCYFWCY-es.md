@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Logitech Slim Combo Funda para iPad con Teclado Inalámbrico Bluetooth Retroiluminado  para iPad  Modelos: A1893  A1954  A1822  A1823   Batería de Adecuada Duración  Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCYFWCY/?tag=tolees-21'
 descuento: '20.80'
 average: '100.66666666666667'

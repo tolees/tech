@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Funda para iPhone 6 6s  Ultra-Delgado Disipadores de Calor Carcasa 360° Anti-Sobrecalentamiento Anti-Arañazos Anti caída Totalmente Protectora Caso de Plástico Duro Case Cover  iPhone 6 6S  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNPDQMR/?tag=tolees-21'
 descuento: '15.38'
 average: '6.996666666666667'

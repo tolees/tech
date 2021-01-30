@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'WD Blue Wd5000Lpcx - Disco Duro de 2 5" para Ordenadores Portátiles  500 GB  5.400 RPM  Sata A 6 GB/S  Caché 16 MB   Metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013QFRZL2/?tag=tolees-21'
 descuento: '18.36'
 average: '36.879444444444445'

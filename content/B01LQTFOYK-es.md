@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'Logitech G213 Prodigy Teclado Gaming  Retroiluminación RGB LIGHTSYNC  Resistente a Salpicaduras  Personalizable  Controles Multimedia  Disposición QWERTY Inglés US  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQTFOYK/?tag=tolees-21'
 descuento: '20.45'
 average: '66.58800000000001'

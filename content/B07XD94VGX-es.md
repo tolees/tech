@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Teclado y Raton Inalambrico Español  TedGem 2.4G Teclado Inalambrico USB Teclado Raton Inalambrico PC Ergonómico Teclado Inalambrico PC con 105 Tecla para Windows 7/8/10/2000 / XP/Vista/Mac OS  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD94VGX/?tag=tolees-21'
 descuento: '15.01'
 average: '22.78125'

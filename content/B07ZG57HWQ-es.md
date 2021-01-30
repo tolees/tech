@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'HP - Monitor Pc 80 01 Cm  31 5  Hp 32F Full HD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG57HWQ/?tag=tolees-21'
 descuento: '15.00'
 average: '194.65'

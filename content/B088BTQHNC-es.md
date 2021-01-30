@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'LUROON Soporte Tablet Soporte Teléfono Altura de ángulo Ajustable Soporte Móvil para Smartphone  iPad Pro  iPad Air  iPad Mini  Samsung Tab  Facetime  Teletrabajo  Transmisión en Vivo etc.  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BTQHNC/?tag=tolees-21'
 descuento: '15.01'
 average: '15.29'

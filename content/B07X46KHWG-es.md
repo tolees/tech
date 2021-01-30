@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: 'Camara Vigilancia WiFi Interior  NIYPS HD 1080P Camara Vigilancia Bebe con Vision Nocturna  Audio de 2 Vías  Sensor Movimiento y Cloud  Camara IP para Bebe/Ancianos/Mascota Monitoreo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X46KHWG/?tag=tolees-21'
 descuento: '15.01'
 average: '33.47'

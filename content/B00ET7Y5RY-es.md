@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Canon PG-545 Cartucho de tinta original Negro para Impresora de Inyeccion de tinta Pixma TS3150-TS3151-MX495-MG2450-MG2550-MG2550S-MG2555S-MG2950-MG3050-MG3051-MG3052-MG3053-IP2850'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ET7Y5RY/?tag=tolees-21'
 descuento: '16.56'
 average: '15.02'

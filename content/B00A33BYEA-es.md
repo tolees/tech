@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Netgear GS208-100PES - Switch 8 Puertos Gigabit 10/100/1000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A33BYEA/?tag=tolees-21'
 descuento: '17.05'
 average: '18.939999999999998'

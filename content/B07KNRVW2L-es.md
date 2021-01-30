@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ADWITS Cable Adaptador USB A a USB C  USB 3.0 Macho a Tipo C 3.1 Conversor de Datos y Carga Hembra para PC portátil Samsung Note HTC 10 LG G5 Lumia950 y más  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KNRVW2L/?tag=tolees-21'
 descuento: '20.03'
 average: '6.39'

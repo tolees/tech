@@ -16,6 +16,7 @@ comparePrice: 133.63 EUR
 prodname: 'LG OK45  Microcadena  Home Audio Mini System  Multi Bluetooth 4.0  Altavoz Iluminado  Reproductor MP3 y WMA  Entrada de Micrófono   220W  Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9R1HM7/?tag=tolees-21'
 descuento: '24.96'
 average: '103.56333333333333'

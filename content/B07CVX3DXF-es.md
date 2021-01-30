@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'VicTsing 1080P HDMI a VGA Video Adaptador de Cable Conversor para PC Portátil HDTV Proyectores  Raspberry Pi y Otros Dispositivos de Entrada HDMI  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVX3DXF/?tag=tolees-21'
 descuento: '17.02'
 average: '8.29'

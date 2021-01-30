@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Western Digital WD10SPZX - Disco Duro Interno HDD  1TB  5400  SATA  128 MB  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071F9MLJJ/?tag=tolees-21'
 descuento: '21.08'
 average: '42.696666666666665'

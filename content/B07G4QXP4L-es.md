@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Trust Gaming GXT 4130 Pitt - Ratón inalámbrico de Gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4QXP4L/?tag=tolees-21'
 descuento: '17.40'
 average: '19.24'

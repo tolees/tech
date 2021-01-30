@@ -16,6 +16,7 @@ comparePrice: 3199.99 EUR
 prodname: 'MSI Vortex W25 8SL-083ES - Ordenador workstation  Intel Core i7-8700  32GB RAM  512GB SDD + 1TB HDD  Nvidia Quadro P4200-8GB   Windows 10 Pro  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7MRDZS/?tag=tolees-21'
 descuento: '21.88'
 average: '2166.6566666666668'

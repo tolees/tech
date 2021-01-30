@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Adaptador de Conector de Auriculares USB C a 3 5 mm  Adaptador y Conector y convertidor de Auriculares Tipo C  admite Llamadas/música para Huawei Mate10 Pro / P20 / P20  Xiaomi MI6 / 6X / MIX2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHZF8B2/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

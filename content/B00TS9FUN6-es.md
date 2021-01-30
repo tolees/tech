@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Samyang F1111106101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 50mm  Apertura f/1.4-22 AS UMC  diámetro Filtro: 77mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TS9FUN6/?tag=tolees-21'
 descuento: '20.75'
 average: '339.99'

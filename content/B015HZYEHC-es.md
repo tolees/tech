@@ -16,6 +16,7 @@ comparePrice: 429 EUR
 prodname: 'Apple iPad mini 4  Wi-Fi  128GB  - Gris espacial  Modelo precedente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HZYEHC/?tag=tolees-21'
 descuento: '20.98'
 average: '359.0'

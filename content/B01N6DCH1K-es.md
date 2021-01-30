@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'CHOETECH USB C a HDMI Adaptador[4k@60Hz] USB Tipo C a HDMI Adaptador para MacBookAir /MacBookPro 2020-2018 iMac iPadPro Samsung S20+/S10/Note10/S8/S9+  Huawei P40/P30/P20/Mate30/Mate20/Mate20Pro/10Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6DCH1K/?tag=tolees-21'
 descuento: '20.01'
 average: '11.993333333333334'

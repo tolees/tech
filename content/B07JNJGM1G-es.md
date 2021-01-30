@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'UNBREAKcable Protector de Pantalla para iPhone X iPhone XS [2 Pack]-Cristal Vidrio Templado iPhone X/XS [2.5d Borde Redondo] [9H Dureza] [Alta Definicion] 5.8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNJGM1G/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

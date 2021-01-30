@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'EDIFIER Studio R2000DB - Sistema de altavoces 2.0  120 Vatios  con Bluetooth  entrada digital y mando a distancia. Color negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O3K7GP0/?tag=tolees-21'
 descuento: '20.04'
 average: '239.8'

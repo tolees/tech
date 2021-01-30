@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Abeyete Ratón óptico Forma Vertical Diseño Ergonómico Prevención de Codo de tenista 2.4 G Óptico Ratón Recargable con USB Ratón Inalámbrico Portátil 3 Ajustables 1000/1600/2400 dpi 6 Botones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KX7CQD/?tag=tolees-21'
 descuento: '19.71'
 average: '19.000769230769233'

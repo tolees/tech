@@ -16,6 +16,7 @@ comparePrice: 55.51 EUR
 prodname: 'Transcend MTS420S - SSD Disco Duro Solido de 240 GB M.2 2242 SATA III  3D TLC  hasta 560 MB/s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PGM4Y5/?tag=tolees-21'
 descuento: '15.44'
 average: '48.726'

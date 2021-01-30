@@ -16,6 +16,7 @@ comparePrice: 31.6 EUR
 prodname: 'Sony Remote Commander  RMF-TX310E   RMF-TX310E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1VQ53X/?tag=tolees-21'
 descuento: '20.89'
 average: '25.0'

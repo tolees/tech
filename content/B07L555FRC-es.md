@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mpow Auriculares Bluetooth Deportivos  Flame Inalámbricos Running IPX7 Impermeable Auriculares Cascos V4.1 In-Ear  Correr con Micrófono Cancelación de Ruido CVC 6.0 para Gimnasio Viajes Deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L555FRC/?tag=tolees-21'
 descuento: '20.01'
 average: '24.49'

@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Garmin ETREX 32x GPS de Mano con Pantalla Color de 2.2” y Mapa TopoActive preinstalado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXT2JZB/?tag=tolees-21'
 descuento: '22.04'
 average: '231.33499999999998'

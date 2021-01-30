@@ -16,6 +16,7 @@ comparePrice: 1618.17 EUR
 prodname: 'Autel MaxiSys MS906BT OBD2 Bluetooth Herramienta de Diagnóstico con MV108 Cámara de Inspección  Codificación ECU  Control Bidireccional  Codificación de Claves  Actualizado DS808K MS906  Solo Inglés '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3FK8JK/?tag=tolees-21'
 descuento: '24.05'
 average: '1229.0'

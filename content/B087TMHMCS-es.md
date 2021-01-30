@@ -16,6 +16,7 @@ comparePrice: 54.8 EUR
 prodname: 'Mifa Cámara Web  T60 Webcam PC  Cámara de Computadora 1080P Full HD con Micrófono y Luz Indicadora de Privacidad  Webcams con Rotación de 360 Grados  Webcam USB para PC para Videoconferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TMHMCS/?tag=tolees-21'
 descuento: '16.08'
 average: '45.99'

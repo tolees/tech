@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'ASUS PCE-AC88 - Tarjeta de Red  Wi-Fi PCI-e AC3100  Dual-Band  4T4R  1024 QAM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX7KNUM/?tag=tolees-21'
 descuento: '22.86'
 average: '77.58'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Webcam Mac Full HD 720P con Micrófono  Web CAM USB 2.0 para PC  Web CAM Portátil Streaming para Videollamadas  Grabación  Estudios  Conferencias  Skype  Laptop  Camara Web para 2000  XP 7 8 10  Vista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNGTTHZ/?tag=tolees-21'
 descuento: '17.79'
 average: '14.79'

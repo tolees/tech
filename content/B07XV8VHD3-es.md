@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Suunto 5 Reloj Deportivo  Unisex-Adult  Blanco/Negro  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XV8VHD3/?tag=tolees-21'
 descuento: '21.88'
 average: '256.49666666666667'

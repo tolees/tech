@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Tapa Webcam 8 Piezas Cubierta Camara Portatil  KIWI design Webcam Cover con un Paño Limpio para Macbook Pro Macbook Air PC Mac iPhone Laptop iPad Smartphone  4 Negro  2 Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NFSL2G/?tag=tolees-21'
 descuento: '15.02'
 average: '6.79'

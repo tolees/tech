@@ -16,6 +16,7 @@ comparePrice: 3.2 EUR
 prodname: 'TOOGOO Nuevo Cable De Cargador De Cable De Carga USB De Reemplazo para El Reloj Inteligente Xiaomi Mi Band 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGSKYKB/?tag=tolees-21'
 descuento: '20.94'
 average: '2.1533333333333333'

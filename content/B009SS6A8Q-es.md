@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'M-Audio Axiom AIR Mini 32 - Teclado controlador MIDI USB de 32 teclas sensibles a la velocidad  8 pads + ProTools | First M-Audio Edition  Eleven Lite  Ableton Live Lite  AIR Music Tech - Xpand!2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SS6A8Q/?tag=tolees-21'
 descuento: '19.99'
 average: '64.0'

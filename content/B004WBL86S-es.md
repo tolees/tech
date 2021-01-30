@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'Panasonic AAA 750mAh NiMH 4-BL Batería/Pila recargable  750 mAh  1.2 V  44.5 mm  10.5 mm  13 g   Color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WBL86S/?tag=tolees-21'
 descuento: '16.35'
 average: '10.95'

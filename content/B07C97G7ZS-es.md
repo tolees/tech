@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Intel nuc  Intel Core™ i3-4010U  Mini PC  Mini PC sin Ventilador 2HDMI  2LAN  6 * RS232  4USB3.0  4USB2.0  Wi-Fi  Bluetooth 4.0  Windows 10 （OEM No Key 8GB RAM / 128GB SSD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C97G7ZS/?tag=tolees-21'
 descuento: '15.00'
 average: '313.65'

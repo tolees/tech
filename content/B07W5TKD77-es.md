@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'MSI PS42 Modern 8MO-208XES  Ordenador Portátil de 14" FHD  Intel Core i5-8265U  16GB RAM  512GB SSD  tarjeta gráfica integrada  sin sistema operativo  plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5TKD77/?tag=tolees-21'
 descuento: '23.08'
 average: '765.64'

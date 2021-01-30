@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Krom KOPA - NXKROMKPST - Auriculares Micro Gaming Pro ESTÉREO  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011UU3KC8/?tag=tolees-21'
 descuento: '24.67'
 average: '14.99'

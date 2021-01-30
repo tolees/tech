@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Energy Sistem Style 3 Auriculares inalambricos True Wireless  20h de autonomía  Estuche de Carga inalámbrica  Llamadas stéreo  micrófono Integrado conectividad automática  Bluetooth 5.0  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0845BRXVF/?tag=tolees-21'
 descuento: '20.00'
 average: '27.92'

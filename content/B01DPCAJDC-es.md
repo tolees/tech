@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'HP 20kd - Monitor de 19 5"  IPS  1440 x 900  8 ms  VGA  60 Hz   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DPCAJDC/?tag=tolees-21'
 descuento: '23.59'
 average: '75.65'

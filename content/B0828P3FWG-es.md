@@ -16,6 +16,7 @@ comparePrice: 10.89 EUR
 prodname: 'Correa del Reloj Compatible con Apple Watch de 38mm 40mm 42mm 44mm  Pulsera para Reloj de Reemplazo de Acero Inoxidable con Imán para iWatch Series 5/4/3/2/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828P3FWG/?tag=tolees-21'
 descuento: '15.06'
 average: '10.396666666666667'

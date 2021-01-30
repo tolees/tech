@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Netgear gs324 Switch 24 Puertos gigabit unmanaged  ethernet de sobremesa o Bastidor  Caja de Metal sin Ventilador  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARQWN6U/?tag=tolees-21'
 descuento: '15.00'
 average: '83.96'

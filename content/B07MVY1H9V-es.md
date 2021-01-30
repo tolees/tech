@@ -16,6 +16,7 @@ comparePrice: 23.35 EUR
 prodname: 'Anivia 1080P Full HD Webcam with Webcam Cover  Cámara para computadora portátil para conferencias y videollamadas  cámara Web Pro Stream con videollamadas Plug and Play  micrófono Incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVY1H9V/?tag=tolees-21'
 descuento: '22.96'
 average: '22.75'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'JIALONG Grande Alfombrilla de Ratón Ordenador XXL  900x400x3mm  Speed Gaming Mouse Pad con Superficie de Tela Suave  precisión y Velocidad mejoradas  diseñada para Videojuegos Gamers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6B96PB/?tag=tolees-21'
 descuento: '24.22'
 average: '7.57'

@@ -16,6 +16,7 @@ comparePrice: 137 EUR
 prodname: 'Corsair Strafe RGB MK.2 - Teclado mecánico para Juegos  retroiluminación LED RGB  Cherry MX Rojo  QWERTY Español   CH-9104110-ES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYD4P62/?tag=tolees-21'
 descuento: '17.36'
 average: '121.11'

@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Disco duro externo tipo C USB 3.1 portátil 1 TB 2 TB HDD externo compatible con Mac portátil y PC  2 TB  dorado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFYMJR9/?tag=tolees-21'
 descuento: '15.26'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 97.5 EUR
 prodname: 'RICOO Mesa de Centro Estancia Design WM080-W-ER la Mesa de salón Auxiliar día móvil de Trabajo Moderno con Dos Planes/Cuadrado Rectangular de Madera Color Blanco y Roble Rústico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKJNZPV/?tag=tolees-21'
 descuento: '17.96'
 average: '79.99'

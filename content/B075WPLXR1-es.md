@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'HOMCOM Silla de Escritorio y Oficina Juvenil Silla de Ordenador Ergonómica con Altura Ajustable y Tejido de Malla 59x61x93-103cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WPLXR1/?tag=tolees-21'
 descuento: '21.61'
 average: '73.515'

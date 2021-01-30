@@ -16,6 +16,7 @@ comparePrice: 1699.99 EUR
 prodname: 'HP OMEN 15-dh0018ns - Ordenador portátil de 15.6" FullHD 240 hz  Intel Core i7-9750H  16 GB de RAM  1 TB SSD  NVIDIA GeForce RTX 2060-6GB  sin sistema operativo  Negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QMBCY1/?tag=tolees-21'
 descuento: '17.65'
 average: '1449.99'

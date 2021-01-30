@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'ANWIKE Webcam HD 1080P con micrófono  Webcam para computadora con transmisión automática con Enfoque automático para computadora portátil/computadora de Escritorio/Mac  para Video Llamada/Conferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824V7FCQ/?tag=tolees-21'
 descuento: '15.97'
 average: '28.10666666666667'

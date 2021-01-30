@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'OTGMemoria USB 2.0  Colourstone 32GB Pendrive del Puerto Dual Compatible con Samsung Huawei Smartphones y Tablets Memoria Externa  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013W2WP9G/?tag=tolees-21'
 descuento: '15.02'
 average: '7.773333333333333'

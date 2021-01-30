@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'HP Smart Tank Plus 555 - Impresora multifunción  imprime  copia y escanea desde el móvil   conectividad Wi-Fi  incluye hasta 3 años de tinta  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7NJ1FX/?tag=tolees-21'
 descuento: '19.28'
 average: '178.74166666666667'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Tronsmart T6 Altavoz Bluetooth  25W 360° Sonido Grave Subwoofer con 15 Horas de Reproducción Continua Manos Libres Inalámbrico Portátil Altavoz para Móvil -Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TBCG41/?tag=tolees-21'
 descuento: '20.00'
 average: '37.790000000000006'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Ayuly Ratón Gaming Ratones Gaming Programable 2400 dpi Ratón Gamer Ergonómico Óptico Gaming Mouse Wired para PC/Ordenadores Portátil/Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHBY3HX/?tag=tolees-21'
 descuento: '15.01'
 average: '14.59'

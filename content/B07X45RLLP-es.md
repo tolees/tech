@@ -16,6 +16,7 @@ comparePrice: 429.99 EUR
 prodname: 'Teléfono Móvil Libres Todoterreno  DOOGEE S95 Smartphone Libre Resistente 4G  Helio P90 6GB+128GB 5150mAh  Cámaras Triples 48MP+8MP+8MP+16MP  6.3 Inch FHD+ IP68 Impermeable  Carga Inalámbrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X45RLLP/?tag=tolees-21'
 descuento: '23.26'
 average: '329.99'

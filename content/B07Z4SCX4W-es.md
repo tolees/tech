@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Microsoft Surface Pro 7 Estación Acoplamiento  Nueva Base Surface 7 para Adaptador con Carga USB C PD  Tipo C Puerto  3 Puertos USB 3.0  SD/TF Ranuras Tarjetas para MS 7 Surface Pro 7 Hub Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4SCX4W/?tag=tolees-21'
 descuento: '15.01'
 average: '18.69'

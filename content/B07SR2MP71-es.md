@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SeeKool Receptor WiFi AC600 Dual Band 5.8 GHz 600Mbps o 2 4 GHz 150 Mbps WLAN Adaptador USB Inalámbrico con Antena Desmontable WiFi Dongel para Windows XP/Vista/7/8/10  Mac OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR2MP71/?tag=tolees-21'
 descuento: '20.79'
 average: '10.29'

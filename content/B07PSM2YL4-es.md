@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'K KYUER 4450mAh T4450E Tablet Batería para Samsung Galaxy Tab 3 8.0 P8200 P8210 SM-T3100 T3110 SM-T310 Wi-FI  SM-T311 3G & WiFi  SM-T315 T315T 3G  4G/LTE&Wi-FI  T4450C T4450U with Installation Tools'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSM2YL4/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

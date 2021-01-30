@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ECHTPower Ratón Vertical Inalámbrico Diseño Ergonómico  dpi Ajustable  6 Botones para PC/Laptop/Notebook mit Windows/Mac/Linux- Protege el Brazo Ideal para Uso de Oficina a Largo Plazo  V002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HT6CTZJ/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

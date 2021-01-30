@@ -16,6 +16,7 @@ comparePrice: 1799.99 EUR
 prodname: 'ASUS ROG Strix - Portátil Gaming de 17 3" FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  GeForce RTX2070-8GB  Sin Sistema Operativo  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6MV14D/?tag=tolees-21'
 descuento: '17.40'
 average: '1543.385'

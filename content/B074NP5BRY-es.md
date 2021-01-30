@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Xinda Acer Iconia One 10 B3-A40 Funda - Slim Fit Folio Smart Case Funda Tablet Carcasa con Stand para Acer Iconia One 10 B3-A40 10.1 Inch Tablet '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NP5BRY/?tag=tolees-21'
 descuento: '24.92'
 average: '7.5'

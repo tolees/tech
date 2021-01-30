@@ -16,6 +16,7 @@ comparePrice: 49.5 EUR
 prodname: 'SAMSUNG LED View Cover  EF-NN975  para Galaxy Note10+ 5 g  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC3YGVV/?tag=tolees-21'
 descuento: '19.21'
 average: '39.99'

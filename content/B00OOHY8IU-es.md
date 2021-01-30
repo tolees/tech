@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'CoastaCloud iPad 2 3 4 Funda con Teclado Bluetooth iPad 2/3/4 Funda Cubierta Protectora con Teclado Inalambrico QWERTY Español  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OOHY8IU/?tag=tolees-21'
 descuento: '15.01'
 average: '22.94'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Auriculares Inalámbricos Powerbeats3 Wireless  Bluetooth  - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0Q9K3J/?tag=tolees-21'
 descuento: '24.76'
 average: '148.0275'

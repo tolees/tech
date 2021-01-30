@@ -16,6 +16,7 @@ comparePrice: 29.09 EUR
 prodname: 'Maclean MC 676 -Soporte para iPad 2/3/4/Air/Air2 de Pared Estuche antirrobo Tablet TPV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C5XBSUK/?tag=tolees-21'
 descuento: '18.94'
 average: '23.696666666666665'

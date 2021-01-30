@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'JVC HA-S35BT - Auriculares  Inalámbrico  Diadema  Binaural  Supraaural  20-20000 Hz  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRYVS3J/?tag=tolees-21'
 descuento: '17.12'
 average: '25.59125'

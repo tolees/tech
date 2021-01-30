@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth  Auriculares Bluetooth 5.0 Emparejamiento Automático Mini Twins Auriculares  Control Táctil Deporte Micrófono Auriculares 130 Horas 2600mAh LCD Estuche de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KT5MCW/?tag=tolees-21'
 descuento: '23.08'
 average: '29.99'

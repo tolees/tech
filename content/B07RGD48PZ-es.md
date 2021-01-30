@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'G-Color Laptop Stand / Soporte / Stand Portátil y Ergonómico para Laptop  Plegable y Ajustable Soporte para Computadora/ Ordenador Portátil  iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGD48PZ/?tag=tolees-21'
 descuento: '15.39'
 average: '23.991999999999997'

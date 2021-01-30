@@ -16,6 +16,7 @@ comparePrice: 6.29 EUR
 prodname: 'Anpollo Alfombrilla de Ratón ergonómica de Gel  Adecuado para computadoras y computadoras portátiles  reposamuñecas para Mouse contra Problemas de tendones  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078JMXNMB/?tag=tolees-21'
 descuento: '15.10'
 average: '5.34'

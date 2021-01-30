@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Samsung MU-PA500G 500 GB Oro - Unidades externas de Estado sólido  500 GB  USB Tipo C  3.1  3.1 Gen 2   540 MB/s  Protección Mediante contraseña  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRR9NB7/?tag=tolees-21'
 descuento: '19.87'
 average: '100.16'

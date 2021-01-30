@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'Asus ROG Gladius II Origin - Ratón óptico optimizado para juegos FPS con conectividad por cable e iluminación Aura Sync  sensor de 12000 ppp'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RYNX33/?tag=tolees-21'
 descuento: '22.28'
 average: '69.25999999999999'

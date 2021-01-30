@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'SeeKool Z83-V Mini PC Ordenador de sobremesa Soporte Windows 10 Home Sistema  4GB RAM 64GB ROM  Intel Atom x5-Z8350 Procesador  Dual-Band WiFi  1000 Mbps LAN  4K  con Puertos HDMI/USB 3.0/VGA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYL1HCR/?tag=tolees-21'
 descuento: '22.67'
 average: '117.99'

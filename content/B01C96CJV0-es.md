@@ -16,6 +16,7 @@ comparePrice: 296.99 EUR
 prodname: 'Brother - Impresora láser Profesional Monocromo  Bandeja 250 Hojas  40 ppm  USB 2.0  Memoria de 256 MB  Doble Cara automática  Ethernet  Color Gris carbón  HLL5100DNG1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C96CJV0/?tag=tolees-21'
 descuento: '22.85'
 average: '184.4311111111111'

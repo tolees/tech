@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'QTX 8 – Controlador para QR8 altavoz armario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KNM1TM/?tag=tolees-21'
 descuento: '15.74'
 average: '29.49'

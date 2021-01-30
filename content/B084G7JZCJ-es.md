@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'MAJORITY Oakcastle ED100 - Reproductor de CD y DVD Externo  Modelo Mini para Ordenador Portátil  PC  Puerto USB C  USB 3.0 Ocultos  Universal  Multiregión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084G7JZCJ/?tag=tolees-21'
 descuento: '22.78'
 average: '17.45'

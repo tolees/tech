@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sonos One SL - Altavoz Inteligente  Compacto y Potente  con Control táctil y conectividad con AirPlay2  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWWLRJP/?tag=tolees-21'
 descuento: '20.10'
 average: '163.97'

@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'iBetter Diseño para Xiaomi Redmi Note 8 Funda  Fina de Silicona [Resistente a los arañazos ] Funda para Xiaomi Redmi Note 8 Smartphone. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6DQ5TB/?tag=tolees-21'
 descuento: '16.81'
 average: '5.2'

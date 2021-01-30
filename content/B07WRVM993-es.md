@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Syncwire Funda iPhone 11  UltraRock Funda Protectora de iPhone XI con Protección Avanzada contra Caídas y Tecnología de protección de colchón de aire para Apple iPhone 11 6 1”  2019   Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRVM993/?tag=tolees-21'
 descuento: '20.02'
 average: '11.256666666666668'

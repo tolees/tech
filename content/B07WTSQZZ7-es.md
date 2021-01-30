@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'TopMate Power Bank - Cargador portátil de 20000 mAh  batería Externa con Entrada y Salida de Tipo C  diseño de Fibra de Carbono para móvil y Algunos portátiles  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTSQZZ7/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

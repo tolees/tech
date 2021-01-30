@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dexler Dual Wireless Speakers - Sal Y Pimienta - Altavoz PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YPCDDG/?tag=tolees-21'
 descuento: '23.64'
 average: '22.9'

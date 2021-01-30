@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ENEGON Batería Sustituida 2 Paquetes  y Cargador para Canon BP-511 BP-511A y Canon EOS 5D 10D 20D 20Da 30D 40D 50D 300D D30 D60 Rebel PowerShot G1 G2 G3 Pro1 Pro90 Pro90IS y más cámaras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9WBVVC/?tag=tolees-21'
 descuento: '18.53'
 average: '21.99'

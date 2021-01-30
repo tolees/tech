@@ -16,6 +16,7 @@ comparePrice: 1379.0 EUR
 prodname: 'Toshiba Portege Z30-C-16J - Ordenador portátil de 13.3" Full HD  Intel Core i5-6200U  8 GB  256 GB SSD  Intel HD Graphics 520  Windows 10 Pro  - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ30OZI/?tag=tolees-21'
 descuento: '20.13'
 average: '1104.7785714285715'

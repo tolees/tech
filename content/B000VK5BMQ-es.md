@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Garmin GRSOPFR - Soporte Bici.garmin Forerunner Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VK5BMQ/?tag=tolees-21'
 descuento: '15.70'
 average: '10.95'

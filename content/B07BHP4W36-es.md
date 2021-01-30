@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Soundcore Flare Bluetooth Lautsprecher von Anker  Tragbarer & Kompakter Lautsprecher mit 360° Rundum-Sound  Fantastischer Bass  Stimmungs-LED-Licht  IPX7 Wasserfest  12h Spielzeit für Partys  Schwarz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHP4W36/?tag=tolees-21'
 descuento: '20.00'
 average: '69.99'

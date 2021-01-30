@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'ASUS 4G-AC68U - Router inalámbrico Gigabit AC1900 4G LTE  Cat 6  indicador señal LTE  Servidor y Cliente VPN  USB 3.0  compatible con Ai Mesh wifi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779FFCXC/?tag=tolees-21'
 descuento: '17.73'
 average: '221.9983333333333'

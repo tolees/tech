@@ -16,6 +16,7 @@ comparePrice: 96.8 EUR
 prodname: 'LaCie Mobile Drive  2 TB  Disco duro externo HDD portátil  plata  USB-C  USB 3.0  Thunderbolt 3  para Mac  PC  ordenador de sobremesa  estación de trabajo y ordenador portátil  STHG2000400 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQDD442/?tag=tolees-21'
 descuento: '16.86'
 average: '90.13833333333334'

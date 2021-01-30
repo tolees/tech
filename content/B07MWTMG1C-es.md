@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Gigabyte Technology - GeForce RTX 2060 GAMING OC PRO BLACK 6G  GV-N2060GAMINGOC   Tarjeta grafica  negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWTMG1C/?tag=tolees-21'
 descuento: '18.44'
 average: '354.9'

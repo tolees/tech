@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'UGREEN Cable Impresora para HP Epson  Cable Largo de Impresora a Ordenador USB 2.0 Tipo A a Tipo B para Impresora Brother  Canon  Lexmark  Samsung  Escáner  Disco Duro  Fotografía Digital 1.5 Metros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P0FO1P0/?tag=tolees-21'
 descuento: '15.02'
 average: '8.09'

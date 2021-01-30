@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JOOWIN Repetidor WiFi 1200Mbps Amplificador Señal WiFi Banda Dual 2.4GHz y 5GHz Extensor de Red WiFi Enrutador Inalámbrico Punto Acceso Blanco 3 Modos  4 Antenas  Puerto LAN/WAN  WPS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R4FH7L/?tag=tolees-21'
 descuento: '21.80'
 average: '39.09'

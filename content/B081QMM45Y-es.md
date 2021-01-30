@@ -16,6 +16,7 @@ comparePrice: 999.99 EUR
 prodname: 'HP Pavilion 15-bc527ns - Ordenador portátil de 15.6" FullHD  Intel Core i7-9750H  8GB de RAM  512GB SSD  NVIDIA GeForce GTX 1650-4GB  sin sistema operativo  Negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QMM45Y/?tag=tolees-21'
 descuento: '20.00'
 average: '799.99'

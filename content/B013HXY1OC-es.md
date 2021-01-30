@@ -16,6 +16,7 @@ comparePrice: 235.0 EUR
 prodname: 'Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Canon  distancia focal 18-200mm  apertura f/3.5-6.3  estabilizador óptico  diámetro filtro: 62mm   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013HXY1OC/?tag=tolees-21'
 descuento: '15.32'
 average: '199.28875'

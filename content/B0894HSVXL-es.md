@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'AtailorBird Alfombrilla Ratón Grande Alfombrilla Escritorio 800x400x2mm Antideslizante e Impermeable Cuero PU Ideal para Portátil  Teclado  Hogar y Oficina Hoja Azul/Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894HSVXL/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

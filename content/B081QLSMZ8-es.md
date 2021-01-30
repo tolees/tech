@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'HP 14s-dq0000ns - Ordenador portátil de 14" HD  Intel Celeron N4000  8 GB de RAM  256 GB SSD   Intel UHD Graphics  Windows 10   Blanco - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QLSMZ8/?tag=tolees-21'
 descuento: '15.00'
 average: '329.99'

@@ -16,6 +16,7 @@ comparePrice: 194.99 EUR
 prodname: 'G-Technology G-Drive Mobile USB-C - Disco Duro Externo  5 TB  Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5Y2FH1/?tag=tolees-21'
 descuento: '17.14'
 average: '161.56'

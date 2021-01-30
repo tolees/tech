@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Mini Proyector  5200 Lumens Mini Proyector portátil Compatible con proyector HD Full HD 1080P  para Entretenimiento en Cine en casa con Altavoz estéreo de Alta fidelidad Incorporado  LED 55000 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WGT7VM/?tag=tolees-21'
 descuento: '23.53'
 average: '65.0'

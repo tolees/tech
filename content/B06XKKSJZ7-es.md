@@ -16,6 +16,7 @@ comparePrice: 38.47 EUR
 prodname: 'Mophie Juice Pack Air Funda para teléfono móvil 14 cm  5.5"  Rojo - Fundas para teléfonos móviles  Funda  Apple  iPhone 8 Plus  iPhone 7 Plus  14 cm  5.5"   Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKKSJZ7/?tag=tolees-21'
 descuento: '22.15'
 average: '29.95'

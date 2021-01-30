@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'CMYBabee Cartucho de Tóner Compatible Repuesto para HP 79A CF279A para HP LaserJet Pro MFP M26 M26nw M26a HP LaserJet Pro M12 M12w M12a Impresora  2 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJV32PZ/?tag=tolees-21'
 descuento: '19.31'
 average: '16.05'

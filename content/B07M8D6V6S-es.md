@@ -16,6 +16,7 @@ comparePrice: 329 EUR
 prodname: 'HP Pavilion 27 B&O - Monitor  27    IPS FHD  Audio Bang & Olufsen  USB-C Video  Webcam Emergente  sin Bordes   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8D6V6S/?tag=tolees-21'
 descuento: '15.00'
 average: '252.5341666666667'

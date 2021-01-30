@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'JOOWIN Repetidor WiFi  Amplificador WiFi de 2 4 GHz / 300 Mbps  Amplificador de señal WiFi con Amplia Cobertura  Extensor WiFi con Botón WPS  Modo 3 en 1  Repetidor/Enrutador/Ap   Puerto Ethernet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088D2Q8CD/?tag=tolees-21'
 descuento: '16.67'
 average: '20.19'

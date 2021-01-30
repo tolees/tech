@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'Siikii Soporte para teléfono móvil Soporte para teléfono Soporte para Cuello de Cisne Soporte Universal para iPhone teléfono Inteligente Tableta práctica Giro de 360 ° 360（blanco-18）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WV1C3X/?tag=tolees-21'
 descuento: '18.39'
 average: '39.99'

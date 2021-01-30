@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Beelink BT3-X Mini PC  Mini Ordenador de Sobremesa con Windows 10  HDMI  Intel Apollo Lake Celeron J3355  4G LPDDR4 + 64G eMMC + 128GB MSATA SSD  2.4G / 5.8G WiFi  4K  BT 4.0  1000Mbps LAN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHS98YM/?tag=tolees-21'
 descuento: '20.00'
 average: '166.0'

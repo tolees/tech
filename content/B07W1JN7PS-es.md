@@ -16,6 +16,7 @@ comparePrice: 43.58 EUR
 prodname: 'RUIZU H1 Reproductor de MP3 con Pantalla táctil y Bluetooth  8 GB  Reproductor de música con Altavoz Integrado  Compatible con Radio FM  grabación de vídeo  Libro electrónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1JN7PS/?tag=tolees-21'
 descuento: '20.15'
 average: '34.8'

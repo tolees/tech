@@ -16,6 +16,7 @@ comparePrice: 17.61 EUR
 prodname: 'HEXBUG Nano 480-3031 - Ratón Mini Robot Inteligente Juguete para Gatos Ratón robótico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SQXVF7A/?tag=tolees-21'
 descuento: '23.17'
 average: '13.003333333333334'

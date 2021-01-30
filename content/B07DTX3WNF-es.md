@@ -16,6 +16,7 @@ comparePrice: 89.04 EUR
 prodname: 'Brother MFCJ497DWG1 4IN1 Impresora de inyección de Tinta MFCJ497DW A4/Duplex/WLAN/Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTX3WNF/?tag=tolees-21'
 descuento: '20.43'
 average: '70.85'

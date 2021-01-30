@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'Fujifilm X-T30 Kit con Objetivo XF18-55mmF2.8-4 R LM OIS  Kit Cámara con Objetivo Intercambiable XF18-55/2.8-4  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNWL2D3/?tag=tolees-21'
 descuento: '15.33'
 average: '1129.1533333333334'

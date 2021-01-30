@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQQHBW6/?tag=tolees-21'
 descuento: '24.71'
 average: '118.65666666666667'

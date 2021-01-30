@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Omars Batería Externa 20000mAh PowerBank Bateria Portatil para Movil con 3 Salidas  USB C 5V 3A y 2 x USB-A 5V 2.4A   2 entradas para iPhone X/ 8/7/ 6s  Samsung S8 / S8  Huawei  iPad y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9R17VQ/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

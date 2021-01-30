@@ -16,6 +16,7 @@ comparePrice: 239 EUR
 prodname: 'SJCAM SJ8 PRO - Cámara de acción 4 K/60FPS WiFi para deportes  pantalla táctil de 2 3 pulgadas  lente gran angular de 170°  zoom digital EIS 8X  cámara impermeable  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXK35M1/?tag=tolees-21'
 descuento: '20.83'
 average: '189.22'

@@ -16,6 +16,7 @@ comparePrice: 113.99 EUR
 prodname: 'Samsung Pro - Disco Estado Solido SSD  256 GB  560 megabytes/s  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21'
 descuento: '15.38'
 average: '89.45666666666666'

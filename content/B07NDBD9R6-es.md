@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Netgear R6700 Router WiFi Nighthawk AC1750  Doble Banda  4 Puertos Gigabit  protección Armor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDBD9R6/?tag=tolees-21'
 descuento: '15.40'
 average: '110.735'

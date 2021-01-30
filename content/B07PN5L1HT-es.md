@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'XYC EC USB C a HDMI y VGA  4 en 1 Hub Tipo C a VGA HDMI 4K UHD USB3.0 y PD3.0  USB-C Adaptador para MacBook Pro/iMac/Air Chromebook Pixel DELL XPS Huawei Samsung Smartphones y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN5L1HT/?tag=tolees-21'
 descuento: '20.01'
 average: '23.74'

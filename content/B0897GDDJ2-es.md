@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'ieGeek Webcam 1080P con Soporte  USB PC Cámara Web con Micrófono y Full HD para Skype  FaceTime  Estudios  Conferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897GDDJ2/?tag=tolees-21'
 descuento: '22.75'
 average: '9.24'

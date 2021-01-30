@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Antena TV Interior  NinkBox Antena TV HDTV Digital con Amplificador de Señal Inteligente  Alcance de 120 Millas  Soporte Canales de 1080P 4K Gratis y Todos los Tipos de TV.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W98JTSC/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

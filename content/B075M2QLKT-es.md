@@ -16,6 +16,7 @@ comparePrice: 61.95 EUR
 prodname: 'STAROVER Reemplazo Cartucho de Tóner Compatible para HP 201A 201X CF400A CF400X CF401X CF402X CF403X para HP Color Laserjet Pro MFP M252dw M252n M277dw M277n M274n M274dw Impresora  4 Paquete '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075M2QLKT/?tag=tolees-21'
 descuento: '15.01'
 average: '52.65'

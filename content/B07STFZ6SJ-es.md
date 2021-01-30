@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Coronel Tapiocca Red  Maletín Ordenador Red  39 x 27 x 7 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFZ6SJ/?tag=tolees-21'
 descuento: '20.00'
 average: '40.69'

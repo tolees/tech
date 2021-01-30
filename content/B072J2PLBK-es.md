@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Lenovo L24q-10 - Monitor de 60 45 cm  23 8 "  QHD  2560 x 1440 pixeles  tiempo de respuesta de 4 ms  HDMI  1000:1  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072J2PLBK/?tag=tolees-21'
 descuento: '15.00'
 average: '183.024'

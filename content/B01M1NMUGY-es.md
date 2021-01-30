@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Pioneer X-EM26-B - Sistema Micro  con Bluetooth Radio FM y USB Frontal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1NMUGY/?tag=tolees-21'
 descuento: '22.48'
 average: '99.66666666666667'

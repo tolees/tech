@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'NANTING Funda de Silicona para Airpods  Funda Protectora Divertida Divertida para Apple Airpods 1 y 2  Llavero Suave y Divertido Kawaii Fun niñas o Parejas  Aguacate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLNLC8F/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

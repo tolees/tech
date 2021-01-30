@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Anpollo Alfombrilla Gaming 900x400x3mm Alfombrilla Raton Ordenador XXL Alfombrilla Raton Base para Mesa Grande Negro Serpiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WD8GHB6/?tag=tolees-21'
 descuento: '15.01'
 average: '13.865'

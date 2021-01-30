@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Altavoz portátil Micrófono con altavoz USB de Kaysuda para Skype Negocio de Microsoft Lync y otras llamadas VoIP  Seminario web  Teléfono  Centro de llamadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MRMMQG/?tag=tolees-21'
 descuento: '15.00'
 average: '50.99'

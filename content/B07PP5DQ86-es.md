@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'Luces nocturnas Altavoz Bluetooth  Ranipobo Sensor táctil Lámpara de cabecera con reloj despertador  Reproductor de música MP3 Radio FM  Lámpara LED de control táctil Regulable Luces cálidas 7 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP5DQ86/?tag=tolees-21'
 descuento: '20.01'
 average: '21.98'

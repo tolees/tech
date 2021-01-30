@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Reulin - Cable de Red Gigabit Ethernet de 12 m Cat 7A Ultra Delgado  Velocidad de hasta 40 Gbs-1000 MHz Compatible con Cat5 Cat6 Cat7 Cat7A+ Router módem para Redes de Alta Velocidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL3YKJL/?tag=tolees-21'
 descuento: '16.51'
 average: '13.86'

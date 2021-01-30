@@ -16,6 +16,7 @@ comparePrice: 33.37 EUR
 prodname: 'Trust GXT 4376 - Ruptor Auriculares Gaming con Unidades acústicas de 50 mm  Sonido Envolvente 7.1 e iluminación  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFPBLQ8/?tag=tolees-21'
 descuento: '16.12'
 average: '33.656666666666666'

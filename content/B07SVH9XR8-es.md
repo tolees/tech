@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fujifilm Instax Mini LiPlay Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVH9XR8/?tag=tolees-21'
 descuento: '17.75'
 average: '146.4975'

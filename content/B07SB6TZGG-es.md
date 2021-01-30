@@ -16,6 +16,7 @@ comparePrice: 147.99 EUR
 prodname: 'HP Laser MFP 135w - Impresora láser multifunción  imprime  copia y escanea  20 ppm  LED  USB 2.0 de alta velocidad  WiFi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB6TZGG/?tag=tolees-21'
 descuento: '19.72'
 average: '121.60499999999999'

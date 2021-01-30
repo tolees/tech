@@ -16,6 +16,7 @@ comparePrice: 247.8 EUR
 prodname: 'Samsung Galaxy Watch Bluetooth  Reloj inteligente con SAMOLED  Pantalla táctil  GPS  satélite   Oro rosa  42 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB4SB2T/?tag=tolees-21'
 descuento: '18.53'
 average: '237.045'

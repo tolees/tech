@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Garmin vivofit Jr - Tracker de actividad para niños  rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW8SVRB/?tag=tolees-21'
 descuento: '24.29'
 average: '53.482000000000006'

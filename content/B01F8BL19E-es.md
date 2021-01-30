@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'AUKEY SK-M13 - Mini-Altavoz inalámbrico portátil con Bluetooth  Grado de Protección  IP65   Construido en Micrófono  6 Horas de Reproducción  para Smartphones  Fiesta  Viajes  Playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8BL19E/?tag=tolees-21'
 descuento: '16.67'
 average: '22.13285714285714'

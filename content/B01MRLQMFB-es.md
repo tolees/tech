@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'HP Envy 27s - Monitor IPS 4K Ultra HD  3840 x 2160 Pixeles  LED  4K Ultra HD  IPS  1300:1  AMD FreeSync  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRLQMFB/?tag=tolees-21'
 descuento: '20.04'
 average: '400.41400000000004'

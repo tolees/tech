@@ -16,6 +16,7 @@ comparePrice: 11.96 EUR
 prodname: 'Prestige Cartridge Cartucho de Tinta con Chip de Alta Capacidad Compatible con DELL Serie 31 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H6TEQI0/?tag=tolees-21'
 descuento: '22.32'
 average: '9.29'

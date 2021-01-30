@@ -16,6 +16,7 @@ comparePrice: 255.35 EUR
 prodname: 'HP Laserjet Pro M227sdn - Impresora láser multifunción  800 MHz Velocidad del procesador  AirPrint 1.5  USB 2.0  ethernet 10/100 Base-TX  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JM2VSRU/?tag=tolees-21'
 descuento: '22.07'
 average: '199.51000000000002'

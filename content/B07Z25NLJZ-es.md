@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Brinonac Pantalla para iPhone 8  4.7" Táctil LCD de Repuesto Ensamblaje de Marco Digitalizador con Herramienta de reparación y Protector de Pantalla  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z25NLJZ/?tag=tolees-21'
 descuento: '15.01'
 average: '23.79'

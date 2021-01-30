@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'JETech Banda Correa Reemplazable Compatible con Apple Watch 44 mm y 42 mm  Acero Inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117MD8NA/?tag=tolees-21'
 descuento: '15.02'
 average: '11.03'

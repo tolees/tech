@@ -16,6 +16,7 @@ comparePrice: 5.53 EUR
 prodname: 'L-Link LL-KB-816-COMBO - Kit Teclado + Ratón USB  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFCF4WO/?tag=tolees-21'
 descuento: '19.53'
 average: '5.659000000000001'

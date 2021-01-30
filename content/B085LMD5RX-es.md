@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'MKTOSASA - Cargador Organizador inalámbrico de línea Nature con función Soporte para Smartphone - 25.5x1.4x13.5 Bambú'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LMD5RX/?tag=tolees-21'
 descuento: '20.05'
 average: '31.1'

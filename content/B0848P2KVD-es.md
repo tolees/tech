@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: '7hSevenOn Home Enchufe WiFi Compacto Control vía Smartphone/App'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848P2KVD/?tag=tolees-21'
 descuento: '20.01'
 average: '13.563333333333334'

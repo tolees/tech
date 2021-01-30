@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'RLSOCO Externo CD Burner CD-RW DVD-R Combo Reader Writer Player USB2.0/3.0 Funda para Macbook Air/Pro/Laptop  Desktop  ASUS  Apple Mac  LG  Apple MD564ZM  Windows  etc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSJXW6P/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

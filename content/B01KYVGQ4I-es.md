@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'YATEK Localizador GPS portatil Inteligente  gsm para Personas y Mayores con botón S.O.S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KYVGQ4I/?tag=tolees-21'
 descuento: '20.00'
 average: '95.2'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lamicall Soporte Tablet Coche  Soporte Tablet para Reposacabezas : Soporte Base Ajustable para 4.7"~13" Tablets para Pad 2018 Pro 9.7  10.5  Air Mini 1 2 3 4  Phone  Otras Tablets - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STT3TXJ/?tag=tolees-21'
 descuento: '15.01'
 average: '16.139999999999997'

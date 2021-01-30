@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'COO ES Ratón Inalámbrico Óptico 2.4G Portable  Ratón con Nano Receptor USB  Diseño Simétrico y Ergonómico  3 dpi Adjustable 1600  para PC  Portátil  Ordenador  Mac  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089W7Z8QJ/?tag=tolees-21'
 descuento: '23.09'
 average: '10.74'

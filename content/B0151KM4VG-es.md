@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'TOSHIBA P300 Disco duro interno 2 TB – 3 5"  pulgadas  – Disco duro SATA  HDD  – 7200 RPM – 6 GB/s – Para juegos  ordenadores  equipos de escritorio  estaciones de trabajo y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0151KM4VG/?tag=tolees-21'
 descuento: '24.13'
 average: '62.87875'

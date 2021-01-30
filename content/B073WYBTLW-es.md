@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'auna LS-46 Pareja de Soportes para Altavoz - Columnas de Aluminio  Plancha de Cristal  Elegante diseño  Reducción Vibraciones  10 kg Carga máxima por Soporte  Pies para altav'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WYBTLW/?tag=tolees-21'
 descuento: '22.22'
 average: '69.99'

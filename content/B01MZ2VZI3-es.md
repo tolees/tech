@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Netgear GS110EMX-100PES - Switch de Red Smart Plus gestionable  8 Puertos Gigabit y 2 Puertos 10G/MultiGigabit con Montaje en Pared o Bastidor  sin Ventilador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ2VZI3/?tag=tolees-21'
 descuento: '20.04'
 average: '199.9'

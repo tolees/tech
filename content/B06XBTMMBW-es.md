@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Sony SRS-XB10  Altavoz Inalámbrico Portátil  Bluetooth  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBTMMBW/?tag=tolees-21'
 descuento: '17.32'
 average: '49.391999999999996'

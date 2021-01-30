@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Tumdem Mesa para Ordenador Plegable Soporte para Laptop 7"-17" Portátil de Aluminio  Soporta hasta 15kg  360 Degree Ajustable con Rejillas de Ventilación  Altura Regulable para una Postura Ergonómica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM18P9C/?tag=tolees-21'
 descuento: '23.06'
 average: '29.66333333333333'

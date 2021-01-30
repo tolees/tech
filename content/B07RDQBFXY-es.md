@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Corsair Harpoon RGB PRO  Óptico Ratón Para Juegos  USB  Tamaño Único  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQBFXY/?tag=tolees-21'
 descuento: '16.67'
 average: '24.175714285714285'

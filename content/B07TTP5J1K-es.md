@@ -16,6 +16,7 @@ comparePrice: 474.9 EUR
 prodname: 'GIGABYTE X570 AORUS Master'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTP5J1K/?tag=tolees-21'
 descuento: '24.51'
 average: '355.66333333333336'

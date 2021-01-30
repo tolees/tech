@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'TECKNET Teclado Mecánico Gaming Teclado Gaming Español Switches Marrón Led Multicolor con 8 Modos de iluminación  105 Teclas 100% Anti-ghosting  Reposa-Muñecas Removible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBDWR4F/?tag=tolees-21'
 descuento: '24.10'
 average: '43.85666666666667'

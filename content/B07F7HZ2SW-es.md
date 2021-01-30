@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Yamaha MusicCast 20 - Altavoz  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7HZ2SW/?tag=tolees-21'
 descuento: '20.00'
 average: '194.55'

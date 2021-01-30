@@ -16,6 +16,7 @@ comparePrice: 29.43 EUR
 prodname: 'Huawei Technology Ltd - Huawei E3531i-2 3 G Hi-Link USB Stick HSPA + 21.6Mbps Blanco dongle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011YZZ6Q2/?tag=tolees-21'
 descuento: '21.00'
 average: '23.25'

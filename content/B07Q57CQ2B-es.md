@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Abridor de Puerta Garaje Inteligente Wifi  Maxcio Garaje Interruptor WiFi Mando Remoto por APP  Registro de Historia Consulta de Estado en Tiempo Real  No Necesita Hub '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q57CQ2B/?tag=tolees-21'
 descuento: '22.98'
 average: '29.206666666666667'

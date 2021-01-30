@@ -16,6 +16,7 @@ comparePrice: 51.65 EUR
 prodname: 'Gigaset AS690 Duo - Teléfono Inalámbrico  Pack de 2 Unidades  Manos Libres  Pantalla de Gran Contraste  Agenda de 100 Contactos  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ1H78N/?tag=tolees-21'
 descuento: '22.65'
 average: '39.95'

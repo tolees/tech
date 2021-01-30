@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ztotops Funda for Samsung Galaxy Tab S6 10.5 2019 SM-T860/T865  con Soporte de Pencil  Respaldo magnético Inteligente Smart Cover Auto-Sueño/Estela para Samsung Galaxy Tab S5e 10.5 Pulgadas Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1LPFP4/?tag=tolees-21'
 descuento: '15.01'
 average: '16.14'

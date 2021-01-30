@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Candy Rapidò RO16106DWHC7/1S - Lavadora carga frontal 10Kgs  9 ciclos rápidos  1600rpm  WiFi & Bluetooth  motor inverter  panel control en escotilla  función vapor  51dB  Clase A+++-40%AA  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHCG9Y4/?tag=tolees-21'
 descuento: '18.84'
 average: '356.46999999999997'

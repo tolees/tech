@@ -16,6 +16,7 @@ comparePrice: 36.78 EUR
 prodname: 'Amplificador Señal WiFi  300Mbps/2.4 GHz Repetidores WiFi Amplificador Extensor de WiFi con Largo Alcance Modo Punto de Acceso/Repeater/Router/Cliente 2 Puerto LAN / WAN  4 Antenas Externas  WPS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088YY7DMV/?tag=tolees-21'
 descuento: '18.46'
 average: '29.99'

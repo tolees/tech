@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'AUKEY Auriculares Inalámbricos Bluetooth 5 Sport  Carga Rápida USB-C  Deportivos IPX5 Impermeable  Micrófono Incorporado  Control Táctil  Reproducción de 25 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086XTLFHM/?tag=tolees-21'
 descuento: '15.00'
 average: '32.53285714285715'

@@ -16,6 +16,7 @@ comparePrice: 49.97 EUR
 prodname: 'KLIM™ Pods - Auriculares inalámbricos Bluetooth + Excelente Sonido + Óptimo Aislamiento + Emparejamiento fácil y rápido + Batería de Larga duración 30H + Cascos Bluetooth NUEVOS 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW327KM/?tag=tolees-21'
 descuento: '20.01'
 average: '36.61333333333334'

@@ -16,6 +16,7 @@ comparePrice: 2700.0 EUR
 prodname: 'Sony SEL1635GM - Objetivo Sony montura E  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LJZKJL/?tag=tolees-21'
 descuento: '20.41'
 average: '2106.622'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Amazfit Bip  Smart Watch  Glonass GPS Monitor de frecuencia cardiaca de reloj deportivo ultra-liviano 1.82 "  impermeable IP68 - Versión UE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YRTS86/?tag=tolees-21'
 descuento: '16.41'
 average: '56.135000000000005'

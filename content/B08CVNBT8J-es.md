@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Unidad de disco duro externo  delgada  unidad de almacenamiento portátil  compatible con PC  portátil y Mac negro 2 tb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVNBT8J/?tag=tolees-21'
 descuento: '15.15'
 average: '55.99'

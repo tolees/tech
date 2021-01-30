@@ -16,6 +16,7 @@ comparePrice: 93.99 EUR
 prodname: 'Roxtak Micrófono Karaoke Bluetooth  UHF Micrófonos Inalámbrico Profesional Portátil  Receptor de Micrófono Dual con Pantalla LCD para Fiesta de Karaoke  KTV  Lugares de Entretenimiento  Boda y Reunión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLZ7Q3F/?tag=tolees-21'
 descuento: '20.32'
 average: '74.08200000000001'

@@ -16,6 +16,7 @@ comparePrice: 500.86 EUR
 prodname: 'Panasonic DMR-BWT640EC9 - Grabador de BLU-Ray  Full HD  3D  Escaldo 4K  WiFi Incorporado  Disco Duro de 250 GB  Graba Tus Programas Favoritos  TV Anywhere  Grabación Remota  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00URTHALQ/?tag=tolees-21'
 descuento: '21.15'
 average: '393.94000000000005'

@@ -16,6 +16,7 @@ comparePrice: 749.99 EUR
 prodname: 'Lenovo S540 - Ordenador portátil ultrafino 14" FullHD  Intel Core i5-8265U  12GB RAM  512GB SSD  Intel UHD Graphics  sin sistema operativo  Gris - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PF3XH8/?tag=tolees-21'
 descuento: '20.13'
 average: '599.0'

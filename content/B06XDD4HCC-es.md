@@ -16,6 +16,7 @@ comparePrice: 163.82 EUR
 prodname: 'Samsung SWA-9000S/EN- Altavoces  2.0 canales   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDD4HCC/?tag=tolees-21'
 descuento: '24.88'
 average: '143.44'

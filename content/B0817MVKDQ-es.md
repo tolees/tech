@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'IVSO Protector de Pantalla con Funda para Huawei MediaPad T5 10  Slim PU Protectora Carcasa Cover para Huawei MediaPad T5 10.1 Pulgadas 2018  Negro + 1 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817MVKDQ/?tag=tolees-21'
 descuento: '15.38'
 average: '11.0'

@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Canon PowerShot SX620 HS - Cámara digital compacta de 20 2 Mp  pantalla de 3"  zoom óptico 25x  WiFi  NFC  video Full HD   blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKQK30U/?tag=tolees-21'
 descuento: '18.13'
 average: '180.875'

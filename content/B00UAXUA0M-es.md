@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Suunto Ambit3 Sport Black Strap Correa para Relojes  Unisex  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UAXUA0M/?tag=tolees-21'
 descuento: '20.03'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Adaptador Cargador Nuevo Compatible para Portátil ASUS X553M 19v 2 37a 4.0mm * 1.35mm // Protección contra Cortocircuitos  sobrecorriente y sobrecalentamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BFHEYFS/?tag=tolees-21'
 descuento: '23.08'
 average: '11.5'

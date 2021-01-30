@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'HP 15-dw0010ns - Ordenador portátil de 15.6" HD  Intel Core i3-7020U  8GB RAM  256GB SSD  Intel Graphics  Windows 10  color plata - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q33BF8V/?tag=tolees-21'
 descuento: '21.67'
 average: '407.6823076923077'

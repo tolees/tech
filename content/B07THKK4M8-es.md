@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lncoon Localizador GPS para Niños Antirrobo Rastreo GPS/Geo-Cerca/SOS Alarma/Hablador bidireccional  GPS Tracker para Niños Mayores Mascotas Equipaje con Aplicación  Servicio de Plataforma de 1 año '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THKK4M8/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

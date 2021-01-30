@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'ASUNCELL Batería del Ordenador portátil para ASUS X551 X451 X451C X451CA X551C X551CA X551CA-SX024H X551CA-SX029H X551CA-DH21 X551CA-0051A2117U A31N1319 D550MA-DS01 D550MA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1L4C4H/?tag=tolees-21'
 descuento: '19.06'
 average: '16.99'

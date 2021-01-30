@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'Acer Aspire 5 - Ordenador Portátil de 14" FullHD  Intel Core i7-10510U  8GB RAM  512GB SSD  UMA  Windows 10 Home  Plata  Qwerty Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087DMFHN2/?tag=tolees-21'
 descuento: '18.89'
 average: '764.7425000000001'

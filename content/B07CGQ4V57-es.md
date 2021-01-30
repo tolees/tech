@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Garmin Zumo 346LMT-S - Navegador de Moto de 4.3”  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGQ4V57/?tag=tolees-21'
 descuento: '19.88'
 average: '280.42'

@@ -16,6 +16,7 @@ comparePrice: 42.87 EUR
 prodname: '2017 Quad cuádruple 4 pirámide  3 + 1  LCD LED TFT Monitor del ordenador soporte de escritorio para pantalla plana – totalmente ajustable de pie Heavy Duty 3 pantallas de 15 "a 25"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M35BLSP/?tag=tolees-21'
 descuento: '19.92'
 average: '34.33'

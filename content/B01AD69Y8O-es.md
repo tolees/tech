@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'Panasonic HC-W580 - Videocámara de 50x  O.I.S de 5 Ejes  F1.8 - F4.2  Zoom 28 mm - 1740 mm  HD  HDR  SD  Time-Lapse  Zoom 90x Inteligente  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AD69Y8O/?tag=tolees-21'
 descuento: '17.36'
 average: '324.72'

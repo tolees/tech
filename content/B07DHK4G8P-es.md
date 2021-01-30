@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: '[Diseño LED Tacto] Altavoz Bluetooth  XLEADER Altavoces Bluetooth Portátiles con Sonido HD/12 Horas de reproducción/Soporte Micro SD para iPhone Teléfono Inteligente iPad Tableta Laptop Echo Dot Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHK4G8P/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

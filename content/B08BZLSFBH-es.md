@@ -16,6 +16,7 @@ comparePrice: 36.91 EUR
 prodname: 'GAOAG Extensor WiFi 2020  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZLSFBH/?tag=tolees-21'
 descuento: '18.07'
 average: '30.205000000000002'

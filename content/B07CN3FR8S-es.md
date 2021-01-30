@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'Cielo Estrellado 36W Lámpara de techo Regulable Plafón LED con Altavoz Bluetooth  APP + Mando a distancia  blanca cálida/fría RGB cambio de color  para niños sala estudiantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN3FR8S/?tag=tolees-21'
 descuento: '23.08'
 average: '69.99'

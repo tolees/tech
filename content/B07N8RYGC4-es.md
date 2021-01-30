@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'Anker Soundbuds - Auriculares in-Ear inalámbricos con Bluetooth  batería de 10 Horas  protección IPX7  Bluetooth 5.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8RYGC4/?tag=tolees-21'
 descuento: '24.54'
 average: '22.156666666666666'

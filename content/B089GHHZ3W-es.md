@@ -16,6 +16,7 @@ comparePrice: 19.58 EUR
 prodname: 'sumgott Soporte Portátil  Aluminio Ventilado Soporte Ordenador Portátil Plegable  Ergonomic Adjustable Laptop Stand  Ligero Soporte Mesa para Macbook DELL XPS  HP  PC y Otros 9-15.6” Portatiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GHHZ3W/?tag=tolees-21'
 descuento: '17.57'
 average: '16.14'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'GPC Image TN1050 Cartuchos de Tóner reemplazo Compatible para Brother DCP-1510 DCP-1512 HL-1110 HL-1210W DCP-1612 DCP-1610W HL-1112 MFC-1810 MFC-1910W Impresora  1000 páginas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RWSYCN/?tag=tolees-21'
 descuento: '15.01'
 average: '15.29'

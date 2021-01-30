@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'ICZI Cable DisplayPort a HDMI 1.8m  Cable Adaptador DP a HDMI 1080P con Conector Chapado en Oro  Macho a Macho para PC Ordenador  Pantalla TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HIB4O6Y/?tag=tolees-21'
 descuento: '15.01'
 average: '10.19'

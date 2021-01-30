@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Logitech K120 Teclado con Cable Business para Windows  Tamaño Normal  Resistante a Líquido  Barra Espaciadora Curvada  PC/Portátil  Disposición AZERTY Francés  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003V0QEV0/?tag=tolees-21'
 descuento: '16.16'
 average: '16.935555555555556'

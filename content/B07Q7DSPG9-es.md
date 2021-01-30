@@ -16,6 +16,7 @@ comparePrice: 609.99 EUR
 prodname: 'HP 15-dw0016ns - Ordenador portátil de 15.6" HD  Intel Core i5-8265U  8GB RAM  256GB SSD  Intel Graphics  Windows 10  color plata - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7DSPG9/?tag=tolees-21'
 descuento: '18.03'
 average: '502.594'

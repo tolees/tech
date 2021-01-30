@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Sennheiser RS 120 II - Auriculares de diadema abiertos inalámbricos  negro y plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005M17IZC/?tag=tolees-21'
 descuento: '21.41'
 average: '68.19666666666666'

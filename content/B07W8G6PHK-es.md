@@ -16,6 +16,7 @@ comparePrice: 57.96 EUR
 prodname: 'Aigoss Radio Coche Bluetooth para 2 DIN Reproductor MP5 de 7" Pantalla Tactil Autoradio Estéreo Manos Libres Radio con Cámara de Visión Trasera  Bluetooth/FM/USB/AUX/TF/Mirror Link'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8G6PHK/?tag=tolees-21'
 descuento: '18.93'
 average: '46.99'

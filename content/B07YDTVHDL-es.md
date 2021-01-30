@@ -16,6 +16,7 @@ comparePrice: 1.49 EUR
 prodname: 'Haihuic portugués Pegatinas de Teclado  Etiqueta Adhesiva de Vinilo Mate con Letras Blancas para PC Computadora Portátil Portátil Teclados de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDTVHDL/?tag=tolees-21'
 descuento: '20.13'
 average: '1.25'

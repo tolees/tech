@@ -16,6 +16,7 @@ comparePrice: 849.99 EUR
 prodname: 'ASUS TUF Gaming FX505DD-BQ067 - Ordenador portátil de 15.6"  AMD Ryzen 7 3750H APU  8 GB RAM  512 GB SSD  NVIDIA GeForce GTX1050  sin Sistema operativo  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFWMJKP/?tag=tolees-21'
 descuento: '17.65'
 average: '761.62'

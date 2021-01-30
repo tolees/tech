@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Soporte Portatil  Laptop Stand Aluminio Ventilado Refrigeración Soporte para Portatil Mesa  Adjustable Soporte Ordenador para MacBook Pro/Air  HP  iPad  Samsung  Dell y Otros 10-15.6” Portatiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CSQ3VSW/?tag=tolees-21'
 descuento: '16.30'
 average: '14.22'

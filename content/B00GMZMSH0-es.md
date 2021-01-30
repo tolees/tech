@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'EDIFIER Luna E25 – Sistema de Altavoces 2.0  74 Vatios  con Bluetooth  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GMZMSH0/?tag=tolees-21'
 descuento: '20.00'
 average: '135.2'

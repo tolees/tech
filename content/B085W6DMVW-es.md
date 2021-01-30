@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'DYNASONIC - Altavoz Bluetooth Portatil con Modo Karaoke y Micrófono  Radio FM y Lector USB SD  Modelo Rosa   2 Micros TWS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085W6DMVW/?tag=tolees-21'
 descuento: '20.00'
 average: '44.150000000000006'

@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Lenovo S145-15IIL - Ordenador portátil 15.6" FullHD  Intel Core i7-1065G7  8GB RAM  512GB SSD  Intel Iris Plus Graphics  sin sistema operativo  Gris-Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084N5BDYN/?tag=tolees-21'
 descuento: '17.03'
 average: '581.8910000000001'

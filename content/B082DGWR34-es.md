@@ -16,6 +16,7 @@ comparePrice: 149.8 EUR
 prodname: 'Edifier Studio R1700BT 2.0 - Altavoz con Bluetooth  Color Blanco y Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DGWR34/?tag=tolees-21'
 descuento: '24.89'
 average: '112.51'

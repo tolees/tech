@@ -16,6 +16,7 @@ comparePrice: 18.02 EUR
 prodname: 'Samsung EP-LN920CBEGWW  Cargador de coche Dual con Carga rápida y cable USB-C incluído  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3XQ2KL/?tag=tolees-21'
 descuento: '17.04'
 average: '14.95'

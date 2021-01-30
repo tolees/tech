@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'LG HF80LSR  Proyector Full HD  1920 x 1080 hasta 120"  Fuente Láser  150.000:1  Mini Jack 3.5 mm  LAN RJ45  Smart Share  Miracast   Bluetooth  HDMI  USB  FHD 2000 Lúmenes  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2T1S3W/?tag=tolees-21'
 descuento: '20.85'
 average: '987.8333333333334'

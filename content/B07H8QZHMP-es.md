@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Quality Printing 3D Kit de Mejora para Xiaomi Mijia M365 Pro M187  Espaciador para Usar Neumático de 10 Pulgadas  Accesorios Patinete xiaomi m365  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8QZHMP/?tag=tolees-21'
 descuento: '16.61'
 average: '12.5'

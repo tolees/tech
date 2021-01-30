@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro 2019 5.8"   [2.5d Borde Redondo] [9H Dureza] [Alta Definicion] Protector de Pantalla + Transparente TPU Silicona Ultra Fino Shell Protection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZS5C5H/?tag=tolees-21'
 descuento: '20.20'
 average: '5.470000000000001'

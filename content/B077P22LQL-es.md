@@ -16,6 +16,7 @@ comparePrice: 97.99 EUR
 prodname: 'Sistema de comunicación para Motocicleta Casco Bluetooth Interphone 1000M FreedConn T-MAX para 6 pasajeros Intercomunicador grupal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P22LQL/?tag=tolees-21'
 descuento: '23.47'
 average: '74.99'

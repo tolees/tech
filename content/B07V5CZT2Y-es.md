@@ -16,6 +16,7 @@ comparePrice: 52.59 EUR
 prodname: 'WiMiUS Cámara de Caza 16MP 1080P  Camara Caza con 940nm 32pcs Luz Invisible  Camara Caza Nocturna Velocidad de Disparo de 0.5s de hasta 20m  Impermeable Ip66 para Vigilancia  Cazar-Upgrade'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5CZT2Y/?tag=tolees-21'
 descuento: '23.96'
 average: '51.99'

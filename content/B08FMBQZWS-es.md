@@ -16,6 +16,7 @@ comparePrice: 26.54 EUR
 prodname: 'BESINPO - Carcasa para Samsung Galaxy A41 2020  antigolpes  transparente de 360 grados '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FMBQZWS/?tag=tolees-21'
 descuento: '19.52'
 average: '21.36'

@@ -16,6 +16,7 @@ comparePrice: 235.0 EUR
 prodname: 'Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Nikon  Distancia Focal 18-200mm  Apertura f/3.5-6.3  Estabilizador Óptico  Diámetro Filtro 62mm  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013HXY21E/?tag=tolees-21'
 descuento: '15.36'
 average: '196.49142857142854'

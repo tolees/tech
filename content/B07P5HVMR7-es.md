@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Samsung Book Cover  EF-BT720  - Funda para Galaxy Tab S5e  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5HVMR7/?tag=tolees-21'
 descuento: '22.92'
 average: '42.44'

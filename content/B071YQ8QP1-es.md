@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Samsung S24H850 24" Wide Quad HD  - Monitor  para PC  60 5 cm  23.8"   2560 x 1440 Pixeles  Wide Quad HD  LED  5 ms  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YQ8QP1/?tag=tolees-21'
 descuento: '20.37'
 average: '275.9466666666667'

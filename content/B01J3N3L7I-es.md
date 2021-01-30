@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'HOMCOM Silla de Oficina Juvenil Silla de Ordenador para Niños Altura Regulable Giratoria 360° Respaldo Cuero Sintetico Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J3N3L7I/?tag=tolees-21'
 descuento: '15.00'
 average: '82.49'

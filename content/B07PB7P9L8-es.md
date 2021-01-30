@@ -16,6 +16,7 @@ comparePrice: 22.89 EUR
 prodname: 'TAIFU 19V 3 42A Adaptador Cargador para Portátil ASUS VivoBook S14 S15 S406UA S510U S430FA D540NA E406SA UX430UA X551 X553S Zenbook UX331UA UX443FN Medion Akoya S3409 E3213 Fuente alimentación 65W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB7P9L8/?tag=tolees-21'
 descuento: '22.24'
 average: '17.8'

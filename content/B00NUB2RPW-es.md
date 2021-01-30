@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'SanDisk SDCFXSB-064G-G46 - Tarjeta de Memoria de 64 GB  Velocidad de Lectura de 120 MB/s  Velocidad de Escritura de 85 MB/s  UDMA 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUB2RPW/?tag=tolees-21'
 descuento: '15.98'
 average: '47.567142857142855'

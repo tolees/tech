@@ -16,6 +16,7 @@ comparePrice: 35.7 EUR
 prodname: 'RivaCase 8231 Bolsa para Ordenador portátil hasta 39 6 cm  15 6 Pulgadas  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A6JHL8Y/?tag=tolees-21'
 descuento: '21.18'
 average: '28.540000000000003'

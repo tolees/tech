@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Zommuei Adaptador Bluetooth USB  Mini Receptor Bluetooth y Transmisor Bluetooth 5.0 2 en 1 Adaptador de Dongle Bluetooth con Audio Inalámbrico 3.5MM Cable para PC/TV/Auriculares/Altavoces/Radio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081J79VTB/?tag=tolees-21'
 descuento: '23.52'
 average: '7.423333333333333'

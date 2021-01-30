@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Microsoft – Comfort Mouse 4500  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0096M4QYO/?tag=tolees-21'
 descuento: '20.08'
 average: '19.9'

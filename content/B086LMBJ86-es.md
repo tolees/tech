@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Sony WHCH710N - Auriculares inalámbricos Noise Cancelling  Batería 35 h  Carga rápida  Llamadas Manos Libres  diseño Compacto Alrededor de la Oreja  óptimo para Trabajar en casa   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LMBJ86/?tag=tolees-21'
 descuento: '16.67'
 average: '127.5'

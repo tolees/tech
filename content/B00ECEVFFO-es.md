@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Sandisk 64GB Extreme Pro CF - Memoria Compact Flash de 64 GB  Alcance de Temperatura operativa: -25-85 °c  CompactFlash  CF   160 MB/s   Negro y Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ECEVFFO/?tag=tolees-21'
 descuento: '23.97'
 average: '80.63499999999999'

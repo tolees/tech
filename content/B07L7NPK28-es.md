@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AUKEY Auriculares Bluetooth Inalámbricos Deportivos  Auricular Impermeable  8 Horas Reproducción de Música  Micrófono Incorporado  para iPhone  Samsung  Huawei  Xiaomi ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7NPK28/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

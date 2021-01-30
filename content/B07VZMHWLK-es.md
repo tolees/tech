@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'Vernee M7  2019  Teléfono Móvil Libre Dual SIM 4GB RAM 64GB ROM Triple Cámara Trasera 13MP Frontal 8MP 6.1 Pulgadas 3 Ranura Tarjeta 3500mAh Carga Rápida 5V/2A Face ID Huella Smartphone 4G - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZMHWLK/?tag=tolees-21'
 descuento: '19.00'
 average: '112.38000000000001'

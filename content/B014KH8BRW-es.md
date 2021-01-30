@@ -16,6 +16,7 @@ comparePrice: 92.99 EUR
 prodname: 'Logitech C615 Webcam Portátil  Full HD 1080p/30ims  Video-Llamadas en Pantalla Panorámica  Plegable  Corrección HD  Enfoque Automático  Skype  FaceTime  Hangouts  PC/Mac/Portátil/Macbook/Tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014KH8BRW/?tag=tolees-21'
 descuento: '18.28'
 average: '79.65666666666667'

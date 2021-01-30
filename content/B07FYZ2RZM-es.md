@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Park and Charge - Organizador de mando a distancia con ranuras para teléfono y tablet  soporte para dispositivo  organizador de cables multiusos  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYZ2RZM/?tag=tolees-21'
 descuento: '20.00'
 average: '24.0'

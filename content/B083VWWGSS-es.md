@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Hanbee 15 Piezas Correas para Xiaomi Mi Band 5  4 Piezas TPU Protector Pantalla para Xiaomi Mi Band 5  Silicona Correa de Repuesto Suave  Pulseras para Xiaomi Mi Band 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VWWGSS/?tag=tolees-21'
 descuento: '20.02'
 average: '8.99'

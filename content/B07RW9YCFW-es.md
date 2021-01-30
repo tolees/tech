@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Gohepi Reemplazo para Canon 580XXL 581XXL PGI-580 CLI-581 Cartuchos de Tinta Compatiable con Canon Pixma TR7550 TR8550 TS8150 TS6150 TS6151 TS8151 TS8152 TS9150 TS9155  5 Color-PGBK/BK/C/M/Y '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW9YCFW/?tag=tolees-21'
 descuento: '15.01'
 average: '15.29'

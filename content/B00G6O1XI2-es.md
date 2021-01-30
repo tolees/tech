@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'KHOMO APP-IPA-5-360-BRW Funda para Tablet 24 6 cm  9.7"  Libro Marrón - Fundas para Tablets  Libro  Apple  iPad Air  24 6 cm  9.7"   Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G6O1XI2/?tag=tolees-21'
 descuento: '21.02'
 average: '7.1'

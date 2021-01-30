@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Anker iPhone 11 Charger  USB C to Lightning Cable [6ft Apple Mfi Certified] Powerline+ II Nylon Braided Cable for iPhone 11/11 Pro / 11 Pro MAX/X/XS MAX/XR / 8 Plus  Supports Power Delivery'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMBR4CC/?tag=tolees-21'
 descuento: '16.68'
 average: '14.99'

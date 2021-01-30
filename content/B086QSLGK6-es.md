@@ -16,6 +16,7 @@ comparePrice: 9.55 EUR
 prodname: 'VGANA Funda y Xiaomi Redmi Note 9S  360° Soporte Magnético Anillo Metálico Soporte la Protección Carcasa. Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QSLGK6/?tag=tolees-21'
 descuento: '16.34'
 average: '7.99'

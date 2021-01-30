@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ESR Protector Pantalla para iPhone 7 Plus/8 Plus [2 Piezas][Fácil de Instalar] Cristal Templado 9H Dureza [3D Touch Compatible]  Anti-Huella para Apple iPhone 8 Plus/7 Plus/6s Plus/6 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4G9W5S/?tag=tolees-21'
 descuento: '15.02'
 average: '6.79'

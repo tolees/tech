@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'HP Sprocket Studio - Impresora  300 PPP  Bluetooth 5.0  tecnología de sublimación del Color '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PJPMLC/?tag=tolees-21'
 descuento: '23.80'
 average: '98.99'

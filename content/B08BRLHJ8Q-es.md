@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth  Auriculares inalámbricos 3D estéreo HD  emparejamiento automático para Llamadas binaurales  con Estuche de Carga portátil para Samsung/iPhone/AirPods'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRLHJ8Q/?tag=tolees-21'
 descuento: '23.54'
 average: '26.656666666666666'

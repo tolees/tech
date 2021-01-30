@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FAGORY Ratón Inalámbrico  2 4 GHz con Mini Receptor USB  7 Botones  4800DPI  5 dpi Adjustables   para Computadora  Computadora Portátil  PC  MacBook Plug and play'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3DZGS8/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

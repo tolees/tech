@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Baseus Cable USB C  USB Tipo C  2 Unidades de 2 M + 1 M   Cable de Carga rápida Trenzado de Nailon para Samsung Galaxy S9 S8 Note 8 9  Pixel  LG V30 G6 G5  Black-Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH1WSGN/?tag=tolees-21'
 descuento: '16.68'
 average: '9.847142857142858'

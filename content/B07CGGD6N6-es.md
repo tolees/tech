@@ -16,6 +16,7 @@ comparePrice: 47.68 EUR
 prodname: '7XINbox VGP-BPS35A batería portatil 14.8V 40Wh 2670mAh E341239 Repuesto Batería para Sony Vaio Fit 14E 15E Series Svf142c29l Svf142c29u Svf14215sc Svf15216sc Svf15218sc Mh29581 Mh29634 BPS35A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGGD6N6/?tag=tolees-21'
 descuento: '16.36'
 average: '39.88'

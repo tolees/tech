@@ -16,6 +16,7 @@ comparePrice: 6.45 EUR
 prodname: 'Philips SHE1350/00 Auriculares intrauditivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21'
 descuento: '21.09'
 average: '5.913333333333333'

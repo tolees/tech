@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Brinonac Pantalla para iPhone 6s  4.7" Pantalla Táctil LCD con botón de Inicio Cámara Frontal  Sensor de proximidad  Altavoz  ensamblaje de Marco digitalizador y Kit de reparación  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YY7VF1/?tag=tolees-21'
 descuento: '20.01'
 average: '21.59'

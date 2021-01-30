@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JIALONG Alfombrilla de Ratón Grande Gaming Mouse Pad XXL 900x400mm  Lavable  Base de Caucho para Gamers Ordenador  PC y Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9C3NF5/?tag=tolees-21'
 descuento: '15.01'
 average: '12.74'

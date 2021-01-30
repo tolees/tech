@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Anpollo Alfombrilla de Ratón  Alfombrilla de Ratón Ordenador Gaming Superficie Texturizada Suave y Cómoda con Base de Goma Antideslizante-900x400x3mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8VHS4J/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

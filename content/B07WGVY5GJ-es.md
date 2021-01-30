@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Monuary 13 Piezas Correa para Xiaomi Mi Smart Band 4 / Mi Band 3 Pulsera  Silicona Reloj de Recambio Brazalete Coloridos Correas para Xiaomi Mi Band 3/4 [Compatible con Mi Smart Band 4]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGVY5GJ/?tag=tolees-21'
 descuento: '15.02'
 average: '8.09'

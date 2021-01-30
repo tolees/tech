@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Microsoft Surface Pro - Cargador para laptop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDP7M1A/?tag=tolees-21'
 descuento: '16.56'
 average: '75.09'

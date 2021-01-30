@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'RIIMUHIR-Protector de Pantalla para Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite [2 Unidades]  [Anti-Huella Digital] [HD Transparente]  Vidrio Templado para Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FXF7TX5/?tag=tolees-21'
 descuento: '19.11'
 average: '8.89'

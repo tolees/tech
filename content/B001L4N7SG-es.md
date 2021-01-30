@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'Panasonic RP-HS47E-W - Auriculares de Clip Compactos Plegables  108 dB  Auriculares Poliamida  Diseño ultradelgado  3.5 mm  32 Ohmio   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001L4N7SG/?tag=tolees-21'
 descuento: '17.62'
 average: '11.004999999999999'

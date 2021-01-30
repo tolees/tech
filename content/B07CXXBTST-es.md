@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Samsung EVO Select - Tarjeta de Memoria microSDXC de 32 GB con Adaptador SD  95 MB/s  UHS1  Color Verde y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXXBTST/?tag=tolees-21'
 descuento: '23.09'
 average: '10.736666666666668'

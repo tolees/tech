@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'WELPOP PGI-580XXL CLI-581XXL Compatible para Canon PGI-580 CLI-581 Alta Capacidad Cartuchos de Tinta con Canon Pixma TS6150 TS8150 TS9150 TS6151 TS8151 TS8152 TS9155 TR7550 TR8550  PGBK/BK/C/M/Y '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPQK28S/?tag=tolees-21'
 descuento: '15.39'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auriculares Fresh  n Rebel Clam Misty Mint | Auriculares Bluetooth para colocar sobre las orejas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ8FFTT/?tag=tolees-21'
 descuento: '22.89'
 average: '61.68'

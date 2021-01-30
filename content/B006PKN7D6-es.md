@@ -16,6 +16,7 @@ comparePrice: 44.1 EUR
 prodname: 'USB-C Cargador de Portátil Fuente de Alimentación 65W MAX: UL Listed 2A Garantía para Lenovo Yoga 910 920 370 720-13 ThinkPad T470 GX20M33579 4X20M26268 DELL XPS ASUS Acer Chromebook Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006PKN7D6/?tag=tolees-21'
 descuento: '22.52'
 average: '34.17'

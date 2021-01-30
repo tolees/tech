@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Irobot Braava jet Paños de Limpieza para Fregar Lavables  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JP3M6O0/?tag=tolees-21'
 descuento: '18.51'
 average: '15.705'

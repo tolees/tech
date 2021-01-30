@@ -16,6 +16,7 @@ comparePrice: 83.99 EUR
 prodname: 'AWESAFE 4K GPS Cámara de Coche Dashcam con Full HD 170 Ángulo  Cámara para Coche con Soporte Magnético con G-Sensor  Detección de Movimiento  Grabación en Bucle y Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDG6CXP/?tag=tolees-21'
 descuento: '17.86'
 average: '68.99'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'SanDisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con hasta 150 MB/s de Velocidad de Lectura  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KKCJGB/?tag=tolees-21'
 descuento: '22.36'
 average: '7.2299999999999995'

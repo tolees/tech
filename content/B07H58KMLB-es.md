@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin Instinct - Reloj con GPS  Unisex  Rojo  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H58KMLB/?tag=tolees-21'
 descuento: '21.34'
 average: '237.51'

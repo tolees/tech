@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Apple Watch Correa Loop Deportiva Gris Hierro  44 mm  - Regular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XS6D79F/?tag=tolees-21'
 descuento: '20.43'
 average: '38.99'

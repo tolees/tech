@@ -16,6 +16,7 @@ comparePrice: 3549.99 EUR
 prodname: 'MSI GS65 Stealth 9SG-453ES - Ordenador portátil de 15.6" FHD  Intel Core i7-9750H  16*2 GB RAM  2 TB SSD  GeForce RTX 2080 MAX Q de 8 GB GDDR6  Windows 10 Home  - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM3NTJF/?tag=tolees-21'
 descuento: '22.00'
 average: '2769.0'

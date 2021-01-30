@@ -16,6 +16,7 @@ comparePrice: 27.82 EUR
 prodname: 'Crucial CT51264BF160BJ Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  Single Rank  SODIMM  204-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RBN6I6/?tag=tolees-21'
 descuento: '24.51'
 average: '20.7'

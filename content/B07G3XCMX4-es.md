@@ -16,6 +16,7 @@ comparePrice: 999.99 EUR
 prodname: 'Acer Predator Helios 300 PH315-51-50Y7 - Ordenador portátil de 15.6" Full HD  Intel Core i5-8300H  8 GB RAM  1TB HDD  128GB SSD  Nvidia GeForce GTX1060  Linux  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3XCMX4/?tag=tolees-21'
 descuento: '23.10'
 average: '752.3333333333334'

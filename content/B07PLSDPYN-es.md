@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'UGREEN Cable USB C a USB C  Cable PD 20V 3A 60W Carga Rápida USB Tipo C para Macbook Pro 16   2019  iMac  iPad Pro 2020  Nexus 5X 6P  Samsung S20 S10  Huawei P40 P30 P20 Lite  Xiaomi Mi 10  1 Metro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLSDPYN/?tag=tolees-21'
 descuento: '15.02'
 average: '8.456666666666667'

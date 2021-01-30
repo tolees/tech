@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'Acer Aspire 3 - Ordenador portátil de 15.6" FullHD  AMD Ryzen 3 3200U  8GB de RAM  256GB SSD  UMA  Windows 10 Home  - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPFK9V4/?tag=tolees-21'
 descuento: '22.22'
 average: '349.99'

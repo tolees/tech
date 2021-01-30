@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'AOC C27G1 - Monitor Gaming Curvo de 27" con Pantalla Full HD e-Sports  VA  1ms  AMD FreeSync  144Hz  Sin Marco  Ajustable en altura y FlickerFree   Color Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTGXKK7/?tag=tolees-21'
 descuento: '17.67'
 average: '206.525'

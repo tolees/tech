@@ -16,6 +16,7 @@ comparePrice: 18.21 EUR
 prodname: 'Juego de Alfombrilla para ratón y reposamuñecas para Teclado con Relleno de Gel ergonómico y Soporte para cojín de muñeca con Espuma de Memoria para Ordenador y portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSM28NL/?tag=tolees-21'
 descuento: '23.17'
 average: '13.99'

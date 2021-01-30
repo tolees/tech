@@ -16,6 +16,7 @@ comparePrice: 158.99 EUR
 prodname: 'Samsung S27R350 - Monitor de 27   sin marcos  Full HD  5 ms  75 Hz  FreeSync  Flicker-Free  LED  IPS  16:9  1000:1  250 cd/m²  178°  HDMI  InfinityEdge  Base en V  Plata / Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VGYB3T/?tag=tolees-21'
 descuento: '15.72'
 average: '142.33333333333334'

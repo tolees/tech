@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bluedio T7 Auriculares Bluetooth Cancelación de Ruido Activa Personalizada  Estéreo Hi-Fi  30 Horas de reproducción  Bluetooth 5.0  Auriculares inalámbricos con micrófono para PC/Celular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9ZRPPK/?tag=tolees-21'
 descuento: '20.00'
 average: '43.99'

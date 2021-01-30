@@ -16,6 +16,7 @@ comparePrice: 32.52 EUR
 prodname: 'JideTech Cámara Web 1080P Autofocus con micrófono  cámara USB para computadora portátil de Escritorio  cámara Web de videoconferencia Plug and Play para conferencias Web  MSN y Skype …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WTLQN9/?tag=tolees-21'
 descuento: '15.01'
 average: '33.78000000000001'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Jelly Comb Ratón Bluetooth  2.4G + Bluetooth 4.0 Mouse óptico inalámbrico recargable para PC/Mac/Tablet/Laptop y Windows/Mac/Linux/iOS/iPadOS  2.4G + Bluetooth  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3R9YC9/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

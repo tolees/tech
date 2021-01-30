@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Anoopsyche Hub USB C 10 en 1  Aluminio Adaptador USB C Hub con HDMI 4K  1080P VGA  PD 100W  4 USB 3.0/2.0  Lector Tarjetas SD/TF  RJ45  para MacBook  Chromebox Pixel  Más Dispositivos de Tipo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8JNYSG/?tag=tolees-21'
 descuento: '18.65'
 average: '46.987500000000004'

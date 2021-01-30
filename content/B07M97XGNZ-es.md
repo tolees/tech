@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'SATECHI Cargador Adaptador de Viaje de 75W Dual Tipo-C PD con 2 USB-C PD y 2 USB 3.0 - Compatible con 2020/2019/2018 MacBook Pro  2020/2018 MacBook Air  2020/2018 iPad Pro  iPhone 11 Plus/11'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M97XGNZ/?tag=tolees-21'
 descuento: '20.00'
 average: '65.19'

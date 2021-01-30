@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Anpollo Alfombrilla para ratón Speed Gaming XXL 900 x 400 x 3mm | XXL Mousepad/Mouse Pad | Base para Mesa/Grandes Dimensiones | Mejora la precisión y la Velocidad | Resistente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZS5HVK/?tag=tolees-21'
 descuento: '15.01'
 average: '10.165'

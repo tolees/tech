@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth 5.0  Etrigger TWS  auriculares inalámbricos con cancelación de ruido IPX5  resistentes al agua  compatibles con iPhone  Samsung  Huawei y funda de carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYDMB1Q/?tag=tolees-21'
 descuento: '21.43'
 average: '32.99'

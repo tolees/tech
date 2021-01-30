@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Lenovo S145-15IWL - Ordenador portátil 15.6" FullHD  Intel Core i3-8145U  8GB de RAM  512GB SSD  Intel UHD Graphics  Windows 10  Gris- Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPL21CW/?tag=tolees-21'
 descuento: '23.52'
 average: '437.522'

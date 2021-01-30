@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: '3 en 1 Multi Cable de Carga   GIANAC Nylon Multiple USB Cargador Cable Micro USB Tipo C para Smartphones  Tablets  Xiaomi  Galaxy  Honor  Sony  OnePlus  LG  Kindle [1.5M]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6JPTVG/?tag=tolees-21'
 descuento: '16.71'
 average: '5.573333333333333'

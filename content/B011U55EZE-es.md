@@ -16,6 +16,7 @@ comparePrice: 232.81 EUR
 prodname: 'Apple iPod touch  de 32GB  - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011U55EZE/?tag=tolees-21'
 descuento: '17.80'
 average: '191.37'

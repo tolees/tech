@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Lenovo L27q - Monitor de 27"  Pantalla QHD/IPS  2560 x 1440 pixeles  tiempo de respuesta de 4 ms  HDMI   Color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QZXNDT/?tag=tolees-21'
 descuento: '18.52'
 average: '219.99'

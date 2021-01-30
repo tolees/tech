@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin Vívomove HR-   Reloj híbrido con pantalla oculta y agujas   correa de silicona negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077KLG8QB/?tag=tolees-21'
 descuento: '20.56'
 average: '158.87'

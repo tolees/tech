@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Seagate Barracuda Fast SSD STJM500400 Unidad de Estado sólido Externa portátil de 500 GB  USB-C  USB 3.0 para PC  Ordenador portátil y Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PFXV7K/?tag=tolees-21'
 descuento: '19.45'
 average: '96.58'

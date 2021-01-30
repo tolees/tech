@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'McNory Soporte Magnético Movil Coche  2 PC  Mini Móvil Coche Iman Rejillas 360°Universal Soporte Teléfono para iPhone XS MAX/XR/X /8 Plus/7 Galaxy Note9/8/S8 Smartphone Dispositivo GPS ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RLZM9G/?tag=tolees-21'
 descuento: '21.76'
 average: '9.156666666666666'

@@ -16,6 +16,7 @@ comparePrice: 577.99 EUR
 prodname: 'Brother ADS2800W - Escáner departamental de alta velocidad  doble cara automático  pantalla táctil  tarjeta de red  WiFi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AWGDBDY/?tag=tolees-21'
 descuento: '21.80'
 average: '448.8276388888888'

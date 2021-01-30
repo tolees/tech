@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Leolee Ratón Inalámbrico con Tipo C  2.4G USB Delgado Silencioso Portátil óptico Sólabis Ratones Inalámbricos con Nano dpi Ratón Home&Office para PC  Ordenador Portátil  MacBook Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833PWXNC/?tag=tolees-21'
 descuento: '15.01'
 average: '11.89'

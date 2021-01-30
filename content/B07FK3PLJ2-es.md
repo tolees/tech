@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Samsung MG23J5133AK/EC Microondas con Grill  23 Litros de Capacidad  Potencia 800W/1100W  Interior Cerámico Enamel  Color Negro Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK3PLJ2/?tag=tolees-21'
 descuento: '24.94'
 average: '86.75999999999999'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'NILLKIN Funda para iPhone 11 Pro 5.8"  [Protección de la cámara] Estuche híbrido Parachoques Premium no voluminoso Delgado Funda rígida para PC para iPhone 11 Pro 5.8"  2019  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V1VVYQ/?tag=tolees-21'
 descuento: '16.94'
 average: '11.03'

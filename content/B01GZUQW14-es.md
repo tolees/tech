@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'i-Buy La cubierta del teclado de silicona para el MacBook Air&Pro de 13&15 pulgadas[teclado Europea español]- arco iris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZUQW14/?tag=tolees-21'
 descuento: '22.60'
 average: '5.9366666666666665'

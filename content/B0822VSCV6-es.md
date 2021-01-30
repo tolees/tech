@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Funda para Xiaomi Mi Note 10 / Note 10 Pro  360 Grados Delantera y Trasera de Transparente Vidrio Templado Case Cover  Fuerte Tecnología de Adsorción Magnética Metal Bumper Cubierta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822VSCV6/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

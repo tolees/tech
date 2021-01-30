@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Xuanbeier Ultra Delgado Funda Compatible con Samsung Galaxy Tab A7 10.4 Pulgadas SM-T500/T505/T507 2020 Tableta la Función de Reposo/Activación Automática Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKWCJVL/?tag=tolees-21'
 descuento: '18.81'
 average: '12.95'

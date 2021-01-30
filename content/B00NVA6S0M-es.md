@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'CSL - 5m Cable de Red Gigabit Ethernet LAN Cat.6 RJ45-10 100 1000Mbit s - Cable de conexión a Red - UTP - Compatible con Cat.5 Cat.5e Cat.7 - Conmutador Router módem'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NVA6S0M/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

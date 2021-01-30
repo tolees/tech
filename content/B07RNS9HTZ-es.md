@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Corsair M55 RGB PRO  Ratón Óptico  Tamaño Único  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNS9HTZ/?tag=tolees-21'
 descuento: '24.98'
 average: '30.331111111111106'

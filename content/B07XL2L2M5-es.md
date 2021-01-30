@@ -16,6 +16,7 @@ comparePrice: 1599.99 EUR
 prodname: 'MSI Prestige 15 A10SC-060XES - Ordenador portátil 15.6" FullHD  Intel Core i7-10710U  16GB RAM  1TB SSD  Nvidia GTX1650-4GB MAX-Q  sin sistema operativo  negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL2L2M5/?tag=tolees-21'
 descuento: '15.69'
 average: '1450.0724999999998'

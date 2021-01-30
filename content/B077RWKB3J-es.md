@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sennheiser GSP 600 - Auriculares Cerrados para Juegos Profesionales  Color Negro y Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077RWKB3J/?tag=tolees-21'
 descuento: '17.44'
 average: '192.9375'

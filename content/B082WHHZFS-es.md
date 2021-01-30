@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'SteelSeries Apex 5 - Teclado mecánico híbrido para Gaming  Iluminación RGB por tecla  Display Inteligente OLED  Teclado QWERTY Americano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WHHZFS/?tag=tolees-21'
 descuento: '23.08'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'ELTD Funda + Película templada [combinación] para Samsung Galaxy Tab S6 Lite  Fundas Duras Case + Vidrio Templado Glass Film para Samsung Galaxy Tab S6 Lite 10.4 Tableta  Negro+1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WP17BH/?tag=tolees-21'
 descuento: '20.74'
 average: '11.85'

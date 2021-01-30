@@ -16,6 +16,7 @@ comparePrice: 39.61 EUR
 prodname: 'Microsoft Classic IntelliMouse - Ratón  Mano Derecha  Óptico  USB  3200 dpi  Negro  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078H3DHLP/?tag=tolees-21'
 descuento: '19.92'
 average: '31.72'

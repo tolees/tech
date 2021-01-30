@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'AVM FRITZ!Box 7490 International - Modem Router WiFi AC 1750  banda dual  Mesh  VDSL  ADSL2+  4 x LAN Gigabit  2 puertos USB 3.0  centralita telefónica  VoIP  base DECT  interfaz en Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H3IC3FC/?tag=tolees-21'
 descuento: '19.54'
 average: '176.80999999999997'

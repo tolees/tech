@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Anker Paquete de Carga inalámbrica  PowerPort Wireless 5 Pad y Soporte  Qi-Certified Ultra-Slim Wireless Charger Compatible iPhone XS MAX/XR/XS/X / 8/8 Plus y más  Adaptador de CA no Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCN9FQS/?tag=tolees-21'
 descuento: '23.08'
 average: '29.99'

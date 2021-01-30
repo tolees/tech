@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Trust Sydney - Maletín para Ordenador portátil de 16"  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Trust'
 buyurl: 'https://www.amazon.es/dp/B004O8AJFK/?tag=tolees-21'
 descuento: '27.79'
 average: '27.33'
@@ -27,12 +28,12 @@ En este momento está [Trust Sydney - Maletín para Ordenador portátil de 16"  
 
 🔎:
 
-- Interior acolchado para proteger el ordenador
-- Material robusto de alta resistencia al uso pesado
 - Doble cremallera metálica y correas de cinta velcro
-- Sección principal expandible que se ajusta a casi todos los tamaños de ordenador portátil con pantallas de hasta 16" (385 x 266 x 44 mm)
-- Compartimientos adicionales para guardar su iPod, reproductor de MP3, PDA, fuente de alimentación, etc.
-- Acabado de alta calidad en material robusto con calces metálicos y cierres de cremallera
+- Interior acolchado para proteger el ordenador
 - Resistente correa ajustable para el hombro con calces metálicos y almohadilla
+- Material robusto de alta resistencia al uso pesado
+- Compartimientos adicionales para guardar su iPod, reproductor de MP3, PDA, fuente de alimentación, etc.
+- Sección principal expandible que se ajusta a casi todos los tamaños de ordenador portátil con pantallas de hasta 16" (385 x 266 x 44 mm)
+- Acabado de alta calidad en material robusto con calces metálicos y cierres de cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004O8AJFK/?tag=tolees-21)

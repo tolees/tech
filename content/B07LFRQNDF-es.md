@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Motorola Baby Comfort C35 - Vigilabebés vídeo con pantalla LCD a color de 2.8"  Color White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFRQNDF/?tag=tolees-21'
 descuento: '16.67'
 average: '99.99'

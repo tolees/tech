@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Raspberry Placa Base PI 3 Modelo A+  Cortex a 1.4GHZ  WiFi 5GHZ  11811853 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKBCXLY/?tag=tolees-21'
 descuento: '21.81'
 average: '23.104999999999997'

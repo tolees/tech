@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'VicTsing Ratón Inalámbrico Recargable Portátil  Silencioso con Adaptador USB C  Type C  3 Niveles de dpi Ajustable  800/1200/1600   Compatible con PC  Computadora  Mac  Windows para Viajes  Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBLLVL9/?tag=tolees-21'
 descuento: '15.40'
 average: '12.440000000000001'

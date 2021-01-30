@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Cámara web Dericam HD 1080P  cámara web USB para conferencias  enseñanza en línea  transmisión en vivo y juegos con micrófono dual incorporado y cubierta para cámara web'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SJRMB6/?tag=tolees-21'
 descuento: '17.32'
 average: '29.584'

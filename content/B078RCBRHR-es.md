@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'TUKA Mouse Pad Alfombrilla de ratón con el cojín de muñeca de Gel  Alfombrilla de ratón con Gel  Mouse Pad Gel  Vaca lechera  TKC5100 dairycow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078RCBRHR/?tag=tolees-21'
 descuento: '15.82'
 average: '7.45'

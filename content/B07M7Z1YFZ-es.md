@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'CAISON Laptop Manga Caso Compatible con 12.3 Pulgada Microsoft Surface Pro 6 Microsoft Surface Pro 7/11 Pulgada MacBook Air'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7Z1YFZ/?tag=tolees-21'
 descuento: '15.30'
 average: '14.923333333333334'

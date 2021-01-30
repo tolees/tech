@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'KASTEWILL Adaptador Bluetooth 5.0 Receptor Transmisor  3-in-1Dual Antena Receptor 100M Amplio Rango con RCA  AUX  Óptico Digital para el hogar/TV/Coche o el Sistema Estéreo del Hoga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJZWQ5C/?tag=tolees-21'
 descuento: '19.57'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Funda cartera Huawei P30 con una solapa para llevar tarjeta de credito y dinero  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGDP5TX/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

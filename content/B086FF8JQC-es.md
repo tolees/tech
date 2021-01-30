@@ -16,6 +16,7 @@ comparePrice: 419.99 EUR
 prodname: 'MEDION E14403 - Portátil 14" FullHD  Intel Core i3-7020U  4GB RAM  128GB SSD  Intel UHD Graphics  Windows 10   gris - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086FF8JQC/?tag=tolees-21'
 descuento: '22.14'
 average: '356.5'

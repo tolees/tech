@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'HKY 65W 15V 4A Adaptador Cargador para Microsoft Surface Book 1 2 Surface Pro 3/4/5/6 Surface Go Surface Laptop 1 2 Surface 1706 1800 1735 1736 Alim Puerto de Carga USB 2.0 5V 1A Carga del teléfono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Y24MRV/?tag=tolees-21'
 descuento: '20.01'
 average: '23.19'

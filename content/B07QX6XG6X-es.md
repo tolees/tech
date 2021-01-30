@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Garmin Drive 5 EU-MT-S Europa - Navegador 5 pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QX6XG6X/?tag=tolees-21'
 descuento: '20.00'
 average: '62.970000000000006'

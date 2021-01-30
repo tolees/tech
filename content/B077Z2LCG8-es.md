@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: '2X Cable USB C  UGREEN Cable USB Tipo C a USB A 2.0 Nylon Trenzado Carga Rápida para Móvil USB Type C Samsung S10 S9 A50 S8  Xiaomi Redmi Note 8 Redmi Note 7 Mi 9 Mi A3 Mi A2  BQ Aquaris X  2 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z2LCG8/?tag=tolees-21'
 descuento: '15.05'
 average: '10.612857142857143'

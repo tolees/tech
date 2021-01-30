@@ -16,6 +16,7 @@ comparePrice: 269 EUR
 prodname: 'HP Laser Jet Pro M254dw - Impresora color  hasta 21 ppm  ethernet y Wi-Fi  pantalla táctil en color de 6.9 cm  800 MHZ  inalámbrico  DDR de 128 MB  disco duro de 2 GB  Windows 7  8  8.1 y 10  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GG7LZX/?tag=tolees-21'
 descuento: '23.82'
 average: '182.255'

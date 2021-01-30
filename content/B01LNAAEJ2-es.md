@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Anker Cable USB Powerline + USB-C a USB 3.0  1  8m   Alta Durabilidad  para Dispositivos USB Tipo C  incluidos Galaxy S8  S8 +  MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LNAAEJ2/?tag=tolees-21'
 descuento: '23.09'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Asus VP228HE - Monitor LCD de 21.5" para PC  1920 x 1080  Full HD  1 ms  HDMI  200 CD/m²  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MD1GDWK/?tag=tolees-21'
 descuento: '22.03'
 average: '89.43076923076923'

@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'PRIXTON IP1080p - Cámara IP Full HD  Cámara de Vigilancia con WiFi y Visión Nocturna para Interior  Hogar  Tienda  Altavoz y Micrófono Integrados  Conexión App móvil con Acceso a 6 usuarios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Y4XDG3/?tag=tolees-21'
 descuento: '23.86'
 average: '34.95'

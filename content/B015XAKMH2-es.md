@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'MagiDeal USB 3.0 Micro B Poder Cable Cargador Para Disco Duro Externo Toshiba Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015XAKMH2/?tag=tolees-21'
 descuento: '20.44'
 average: '4.146190476190477'

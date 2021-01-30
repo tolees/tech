@@ -16,6 +16,7 @@ comparePrice: 18.88 EUR
 prodname: 'Ushining Teléfono Móvils Basico  Teléfono Móvil para Personas Mayores Teclas Grandes con Tapa Pantalla de 1 8 Pulgadas  Marcación Rápida  Dual SIM  Cámara  Reproductor MP3  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBZ1G61/?tag=tolees-21'
 descuento: '15.04'
 average: '15.47'

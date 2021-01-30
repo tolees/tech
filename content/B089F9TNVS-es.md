@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Blackview BV6900  2020  Móvil Libre Resistente IP68  Telefono Antigolpes Corning Gorilla Glass de 5.84 Pulgadas  16MP Cuatro cámaras traseras 4GB+64GB Batería de 5580mAh Carga Rápida de 18W NFC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F9TNVS/?tag=tolees-21'
 descuento: '20.00'
 average: '199.99'

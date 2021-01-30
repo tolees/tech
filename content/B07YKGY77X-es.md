@@ -16,6 +16,7 @@ comparePrice: 46.9 EUR
 prodname: 'PINALL 2 Cartucho Compatible HP 302XL para HP DeskJet 3639 3630 OfficeJet 3831 3830 3833 OfficeJet 5230 5232 4655 4650Envy 4525 4500 4520 Impresora  1 Negro / 1 Color '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKGY77X/?tag=tolees-21'
 descuento: '15.01'
 average: '39.86'

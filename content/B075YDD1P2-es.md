@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Razer - Auriculares Gamer inalámbricos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YDD1P2/?tag=tolees-21'
 descuento: '21.23'
 average: '127.09666666666666'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Babacom Raton Inalámbrico Recargable  Ratón Ordenador 2.4GHz Silencioso con Receptor USB & Adaptador Tipo C & Bluetooth  Mouse Inalambrico con 4 Niveles de dpi Ajustables para Portatil PC iPad iMac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XYJTLC/?tag=tolees-21'
 descuento: '23.51'
 average: '12.91'

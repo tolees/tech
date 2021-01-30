@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AUKEY Auriculares Bluetooth 5  Auriculares Inalambricos 7 Horas de Reproducción por Carga  Sonido Superior  Control Táctil  Carga Inalámbrica Qi  Impermeabilidad IPX5  Key Series T10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWPP6N5/?tag=tolees-21'
 descuento: '15.02'
 average: '73.2609090909091'

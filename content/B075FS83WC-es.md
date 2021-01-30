@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Auriculares Bluetooth HAVIT Auricular Inalámbricos Cascos Deportivos V4.2 IPX5 impermeable Magnéticos In-ear Estéreocon Mic para Xiaomi  Samsung  Huawei y otros I39 Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FS83WC/?tag=tolees-21'
 descuento: '23.09'
 average: '19.829999999999995'

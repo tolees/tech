@@ -16,6 +16,7 @@ comparePrice: 256.99 EUR
 prodname: 'ASUS ROG Strix Z490-G Gaming - Placa Base Gaming mATX Intel de 10a Gen LGA 1200 con VRM de 14 Fases  AI Overclocking & Cooling  LAN 2.5 GB Ethernet  USB 3.2 Gen 2  SATA e iluminación RGB Aura Sync'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08828WRWQ/?tag=tolees-21'
 descuento: '22.21'
 average: '199.9'

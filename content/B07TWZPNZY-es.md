@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Alcatel 1S - Smartphone de 5.5"  Octacore  RAM de 4 GB  memoria interna de 64 GB  ampliable micro SD  cámara trasera 16+2 MP  frontal 8 MP  color oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWZPNZY/?tag=tolees-21'
 descuento: '23.84'
 average: '99.0'

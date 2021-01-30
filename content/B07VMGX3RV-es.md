@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'LG 34GL750-B - Monitor Gaming Curvo UltraWide WFHD de 86.7 cm  34"  con Panel IPS  2560 x 1080 píxeles  21:9  1 ms MBR  144Hz  FreeSync 2  300 CD/m²  1000:1  sRGB >99%  DP x1  HDMI x2  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMGX3RV/?tag=tolees-21'
 descuento: '16.67'
 average: '428.15000000000003'

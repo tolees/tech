@@ -16,6 +16,7 @@ comparePrice: 147.54 EUR
 prodname: 'Samsung MLT-D203L - Tóner para impresoras láser ProXpress SL-M3320/3820/4020  M3370/3870/4070  5000 páginas   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CGXPEZU/?tag=tolees-21'
 descuento: '18.73'
 average: '114.45'

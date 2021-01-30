@@ -16,6 +16,7 @@ comparePrice: 5.79 EUR
 prodname: '[4-Pack] Protector de Pantalla para iPhone 6s  iPhone 6  Cristal Templado  iSOUL [2.5d Borde Redondo] [9H Dureza] [Alta Definicion]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVFWW42/?tag=tolees-21'
 descuento: '20.03'
 average: '4.63'

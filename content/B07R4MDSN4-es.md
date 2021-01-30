@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'COOLEAD Adaptador USB 3.0 a VGA 1080P Conversor USB 3.0 to VGA Interfaz Cable Externa Video 1080P Display Convertidor de USB a VGA Connector USB a VGA Tarjeta Gráfica Externa para PC portátil Windows'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4MDSN4/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

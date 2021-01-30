@@ -16,6 +16,7 @@ comparePrice: 65.5 EUR
 prodname: 'Samsung EP-P5200 Interior Negro - Cargador  Interior  Corriente alterna  10 V  2 1 A  Cargador inalámbrico  1 2 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ9Y7ZN/?tag=tolees-21'
 descuento: '19.76'
 average: '52.56'

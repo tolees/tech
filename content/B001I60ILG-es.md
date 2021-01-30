@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'König CMP-MIC9 - Mini micrófono omnidireccional flexible para portátil  móvil y videocámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001I60ILG/?tag=tolees-21'
 descuento: '22.14'
 average: '4.32'

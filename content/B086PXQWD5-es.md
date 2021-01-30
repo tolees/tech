@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Cámara Web HD Pro Con Micrófono  Cámara USB Para PC 1080P Cámara Web Con Ángulo De Visión Amplio De 90 Grados Full HD Y Micrófono Incorporado Cámara Web De Transmisión En Vivo Giratoria Flexible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PXQWD5/?tag=tolees-21'
 descuento: '15.60'
 average: '17.494999999999997'

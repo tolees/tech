@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'VicTsing Adaptador VGA a HDMI  Convertidor de Video 1080P  con Puerto de Audio y Micro USB  Dos Cables Incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4G3LF/?tag=tolees-21'
 descuento: '21.02'
 average: '14.74'

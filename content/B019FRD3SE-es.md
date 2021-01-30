@@ -16,6 +16,7 @@ comparePrice: 44.76 EUR
 prodname: 'Crucial CT2K4G4SFS624A Kit de Memoria RAM de 8 GB  4 GB x 2  DDR4  2400 MT/s  PC4-19200  Single Rank x 16  SODIMM  260-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FRD3SE/?tag=tolees-21'
 descuento: '24.33'
 average: '34.56142857142857'

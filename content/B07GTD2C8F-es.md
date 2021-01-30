@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'devolo Magic 2 WiFi: Extensión PLC  2400 Mbps  LAN y WiFi ac '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTD2C8F/?tag=tolees-21'
 descuento: '19.18'
 average: '102.32666666666667'

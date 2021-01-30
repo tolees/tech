@@ -16,6 +16,7 @@ comparePrice: 24.41 EUR
 prodname: 'Mi Pocket Speaker 2 White Altavoz Xiaomi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1Z8YXG/?tag=tolees-21'
 descuento: '18.11'
 average: '23.541666666666664'

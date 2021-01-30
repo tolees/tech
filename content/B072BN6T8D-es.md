@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Samsung Mc28M6055CS/EC - Horno-Microondas con grill  900W/1500W/2100W  28 litros  interior de cerÃ¡mica  ventana EasyView y funciÃ³n horno hasta 200Âº C  51 7 x 31 x 46 3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BN6T8D/?tag=tolees-21'
 descuento: '15.00'
 average: '185.71'

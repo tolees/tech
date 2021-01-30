@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Brother DCPL3510CDWG1 3IN1 Impresora LED DCPL3510CDW A4/Duplex/WLAN/Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXLY5JL/?tag=tolees-21'
 descuento: '21.51'
 average: '223.86'

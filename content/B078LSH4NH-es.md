@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Walkie Talkie Profesional  TACKLIFE-MTR01 Talkie walkie Recargable 3-4 Km con 16 Canales  PMR 446 MHz  2 Auriculares y Cargador USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LSH4NH/?tag=tolees-21'
 descuento: '19.01'
 average: '33.86'

@@ -16,6 +16,7 @@ comparePrice: 36.12 EUR
 prodname: 'Otterbox Defender Funda Anti Caídas Robusta para Samsung Galaxy S10+ Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N9GDT4H/?tag=tolees-21'
 descuento: '15.01'
 average: '30.7'

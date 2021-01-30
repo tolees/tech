@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'CASIO - Teclado LK-136 61 Teclas Luminosas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYNTYG9/?tag=tolees-21'
 descuento: '17.44'
 average: '103.2'

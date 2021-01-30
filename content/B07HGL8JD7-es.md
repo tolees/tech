@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Engel RS8100Y - Receptor TV satélite HD PVR con WiFi  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGL8JD7/?tag=tolees-21'
 descuento: '18.81'
 average: '88.13875'

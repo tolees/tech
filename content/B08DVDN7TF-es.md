@@ -16,6 +16,7 @@ comparePrice: 26.91 EUR
 prodname: 'WiseWolf Teclado gaming de una mano profesional  sensación de teclado mecánico  accesorio gaming para videojuegos  39 teclas retroiluminadas RGB  con cable USB.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DVDN7TF/?tag=tolees-21'
 descuento: '15.61'
 average: '26.14636363636364'

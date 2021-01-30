@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Sony HDR-CX240E - Videocámara  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HH8A2D8/?tag=tolees-21'
 descuento: '20.91'
 average: '167.58571428571426'

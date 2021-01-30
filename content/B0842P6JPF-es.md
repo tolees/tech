@@ -16,6 +16,7 @@ comparePrice: 18.67 EUR
 prodname: 'IBRA Cable de Red LAN Gigabit Ethernet CAT8  RJ45  SSTP 40Gbps 2000Mhz - Redondo Negro 4M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0842P6JPF/?tag=tolees-21'
 descuento: '22.28'
 average: '13.36'

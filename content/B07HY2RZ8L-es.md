@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Fujifilm Instax SQ6 - Cámara Analógica Instantánea Formato Cuadrado  Color Rojo Rubí  Square'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY2RZ8L/?tag=tolees-21'
 descuento: '23.02'
 average: '111.0'

@@ -16,6 +16,7 @@ comparePrice: 9.72 EUR
 prodname: 'Ferilinso 8 Pack Straps Bracelet para Xiaomi Mi Band 4C + 4 Pack Protector de Pantalla  Pulsera de Silicona Brazalete de Repuesto Reemplazo Extensible Compatible con Mi Band 4C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJ5YZX1/?tag=tolees-21'
 descuento: '17.80'
 average: '7.99'

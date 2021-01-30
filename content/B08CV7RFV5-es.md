@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares Inalambricos Auriculares Bluetooth 5.0  Auricular táctiles Auriculares Inalámbricos estéreo 3D Auriculares internos con Estuche de Carga Mini Micrófono bidireccional Incorporado IPX5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CV7RFV5/?tag=tolees-21'
 descuento: '15.01'
 average: '17.49'

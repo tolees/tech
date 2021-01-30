@@ -16,6 +16,7 @@ comparePrice: 1299.99 EUR
 prodname: 'ASUS TUF Gaming FX505DV-AL116 - Ordenador portátil de 15.6" FullHD  AMD Ryzen 7 3750H  16GB RAM  1TB SSD  GeForce RTX 2060-6GB  sin sistema operativo  Negro Sigilo - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PNXN9L/?tag=tolees-21'
 descuento: '23.15'
 average: '1010.4712499999999'

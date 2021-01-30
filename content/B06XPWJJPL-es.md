@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Samsung M471A1K43CB1-CRC 8GB DDR4 2400MH módulo de Memoria  8 GB  1 x 8 GB  DDR4  2400 MHz  260-Pin SO-DIMM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPWJJPL/?tag=tolees-21'
 descuento: '22.03'
 average: '49.9'

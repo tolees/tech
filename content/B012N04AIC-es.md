@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'DEEPCOOL Soporte Monitor PC Inteligente  Elevador Monitor Ajustable para Monitor y Ordenador Portátil con 4 Puertos USB y Audio HD /Mic  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012N04AIC/?tag=tolees-21'
 descuento: '16.03'
 average: '33.58'

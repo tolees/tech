@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'DUX DUCIS Funda Carcasa para Samsung Galaxy Tab S6 Lite 10.4  Ultra Delgado Silm Stand Función Smart Fundas Duras Cover Case para Tab S6 Lite 10.4" P610/P615 2020  PC - Rosado Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WLVBJC/?tag=tolees-21'
 descuento: '15.01'
 average: '10.19'

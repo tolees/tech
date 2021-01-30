@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica para iPhone 11/11 Pro/11 Pro MAX/XS MAX/XR/XS/X/8Plus/8 10W Cargador Inducción para Samsung S20/S10/Note10 15W MAX Output para LG V50/G7/G8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTK8X4M/?tag=tolees-21'
 descuento: '17.66'
 average: '13.656666666666666'

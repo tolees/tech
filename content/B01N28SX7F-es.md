@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Primux TW01 - Torre de Sonido con Bluetooth  30W  FM  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N28SX7F/?tag=tolees-21'
 descuento: '21.84'
 average: '39.0'

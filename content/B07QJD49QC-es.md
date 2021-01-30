@@ -16,6 +16,7 @@ comparePrice: 331.81 EUR
 prodname: 'Impresora láser multifunción color Canon i-Sensys MF643Cdw blanca Wifi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJD49QC/?tag=tolees-21'
 descuento: '22.63'
 average: '247.54000000000002'

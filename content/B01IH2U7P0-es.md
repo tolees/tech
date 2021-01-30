@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'SODIAL 5 PCS de 3.5 pulgadas IDE Portatil Sata HDD Estuche externo de disco duro Caja dura de proteccion de plastico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IH2U7P0/?tag=tolees-21'
 descuento: '20.00'
 average: '10.04'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Lector de Tarjetas Micro USB – SD  Micro SD y MMC - Lector de Tarjetas USB 2.0 para Smartphone  portátil  Tablet. OTG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086L6VWPX/?tag=tolees-21'
 descuento: '23.89'
 average: '5.32'

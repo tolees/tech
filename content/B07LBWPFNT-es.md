@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'iWotto Altavoces Duo Estereo Bluetooth Imantados  Stereo Duo speakers BT Magnetized  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBWPFNT/?tag=tolees-21'
 descuento: '20.24'
 average: '21.1875'

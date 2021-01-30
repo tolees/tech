@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Legrand 050178 Enchufe con Cabezal Móvil Orientable  3680 W  230 V  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQRMZ4N/?tag=tolees-21'
 descuento: '16.58'
 average: '1.51'

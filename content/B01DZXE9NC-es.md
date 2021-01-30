@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Alesis Recital - Teclado de Piano Digital con 88 Teclas Semi-contrapesadas de Tamaño Completo  Fuente de Alimentación  Altavoces Incorporados y 5 voces de Primera Calidad  diseñado para principiantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DZXE9NC/?tag=tolees-21'
 descuento: '24.75'
 average: '203.16'

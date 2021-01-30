@@ -16,6 +16,7 @@ comparePrice: 68.09 EUR
 prodname: 'Radio de escritorio portátil Sangean WR-7  sintonizador FM-RDS  Bluetooth  entrada auxiliar  altavoz incorporado  batería recargable  recargable    nogal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHSHTQJ/?tag=tolees-21'
 descuento: '22.03'
 average: '53.09'

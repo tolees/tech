@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Symphonized DRV Bluetooth Auriculares de tapón inalámbricos  con Aislamiento de Ruido  Auriculares con micrófono y Control de Volumen  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZZ7NGN/?tag=tolees-21'
 descuento: '16.67'
 average: '29.99'

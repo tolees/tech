@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Bluefin Fitness CURV 2.0 Elliptical Cross Trainer Elíptica para casa Air Walker/Compacta/Consola de Fitness Digital LCD/Bluetooth/Aplicación para Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STDC4PJ/?tag=tolees-21'
 descuento: '20.03'
 average: '519.0'

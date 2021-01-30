@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Logitech K800 Teclado Inalámbrico Retroiluminado para Windows  Tecnología Inlámbrica 2 4 GHz con Receptor USB Unifying  Teclas con Perfilado Laser  Recargable  PC/Portátil  Disposición QWERTY Inglés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0042T7VGQ/?tag=tolees-21'
 descuento: '16.43'
 average: '104.045'

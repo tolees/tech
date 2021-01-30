@@ -16,6 +16,7 @@ comparePrice: 750.0 EUR
 prodname: 'Sony BDVN7200WB.CEL - Equipo de Home Cinema 5.1 de 1200W  BLU-Ray  3D  4K  USB  HDMI   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IJ7J4YY/?tag=tolees-21'
 descuento: '20.13'
 average: '632.96'

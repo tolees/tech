@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Spigen Urban Fit diseñado para Apple Airpods Funda para Airpods 1 y 2 [luz LED Visible] - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X44LSZG/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Sharp DR-I470 GR  Radio Internet Digital Estéreo con Dab/Dab+/Fm  Bluetooth V2.1 + Edr  Función despertador y de Repetición de Alarma  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRZ97X4/?tag=tolees-21'
 descuento: '22.81'
 average: '129.465'

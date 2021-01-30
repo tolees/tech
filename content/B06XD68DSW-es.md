@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Antena Omnidireccional Terrestre para Exterior - 4G LTE DVB-T/T2 - 12/24/220V - Impermeable  Kit completo de cables y Amplificador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD68DSW/?tag=tolees-21'
 descuento: '21.46'
 average: '69.9'

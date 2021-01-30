@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Sony WHCH500H.CE7 - Auriculares inalámbricos de Diadema  diafragma de 30 mm  Manos Libres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WS41DX/?tag=tolees-21'
 descuento: '19.47'
 average: '38.90736842105264'

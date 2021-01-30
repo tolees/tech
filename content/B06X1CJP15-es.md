@@ -16,6 +16,7 @@ comparePrice: 700.0 EUR
 prodname: 'Vibox Kaleidos SA4-102 Gaming PC Ordenador de sobremesa con 2 Juegos Gratis  Windows 10 Pro OS  22" HD Monitor  3 8GHz AMD A6 Dual-Core Procesador  Radeon R5 Gráficos Chip  16GB DDR4 RAM  1TB HDD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X1CJP15/?tag=tolees-21'
 descuento: '17.86'
 average: '574.95'

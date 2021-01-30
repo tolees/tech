@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'MEE audio X10 - Auriculares In-Ear Bluetooth sin Cable  Resistencia al Sudor IPX5 y 23 Horas de Autonomía con Funda Cargador  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R54MYJS/?tag=tolees-21'
 descuento: '20.89'
 average: '70.41'

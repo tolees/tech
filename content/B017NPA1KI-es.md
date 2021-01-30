@@ -16,6 +16,7 @@ comparePrice: 22.23 EUR
 prodname: 'Tiempo de saldos  mesa de PC  soporte plegable  ordenador portátil  tablet  mesa con ventiladores.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NPA1KI/?tag=tolees-21'
 descuento: '15.61'
 average: '18.76'

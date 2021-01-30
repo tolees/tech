@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'QTshine Batería Externa 25800mAh  Power Bank [Pantalla LCD Digital] Ultra Capacidad Cargador Portátil Móvil con 2 Puertos USB Carga Alta Velocidad para Smartphones Tabletas y Más Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZVY5KP/?tag=tolees-21'
 descuento: '15.03'
 average: '19.742500000000003'

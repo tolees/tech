@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Auriculares Inalambricos Bluetooth  iAmotus Cascos Inalámbricos Bluetooth HiFi Mini Twins Sonido Estéreo In-Ear con Control Táctil  40 Horas Reproducción para Teléfono Celular/Running/Android/iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9Q5GC6/?tag=tolees-21'
 descuento: '24.04'
 average: '27.173333333333332'

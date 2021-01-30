@@ -16,6 +16,7 @@ comparePrice: 523.29 EUR
 prodname: 'Fujifilm X-A5 Kit con ópticas Fujinon XC15-45mm + XC50-230mm  Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AW8M4HQ/?tag=tolees-21'
 descuento: '15.03'
 average: '444.63'

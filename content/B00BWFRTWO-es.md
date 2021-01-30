@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Sony CMT-SBT100 - Microcadena Hi-Fi de 50W  estéreo  CD  Am/FM  Bluetooth  NFC  USB   Negro y Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BWFRTWO/?tag=tolees-21'
 descuento: '18.89'
 average: '214.13230769230768'

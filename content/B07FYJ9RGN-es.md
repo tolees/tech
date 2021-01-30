@@ -16,6 +16,7 @@ comparePrice: 15.91 EUR
 prodname: 'Adaptador Cargador Compatible para Portátil ASUS Comp. 65w F540LA F540L 19v 3 42a 4.0mm * 1.35mm // Protección contra Cortocircuitos  sobrecorriente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYJ9RGN/?tag=tolees-21'
 descuento: '19.61'
 average: '12.79'

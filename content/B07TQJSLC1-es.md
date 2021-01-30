@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'TECHGEAR Vanguard Funda Compatible con Nuevo Samsung Galaxy Tab A 10.1" 2019  SM-T510 / SM-T515  - Resistente a Prueba de choques Carcasa con Soporte Integrado y Correa de Hombro conectable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQJSLC1/?tag=tolees-21'
 descuento: '20.05'
 average: '15.95'

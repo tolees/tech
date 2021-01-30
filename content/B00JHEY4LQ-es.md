@@ -16,6 +16,7 @@ comparePrice: 23.5 EUR
 prodname: 'JVC CS-J620X  Altavoces  1  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JHEY4LQ/?tag=tolees-21'
 descuento: '23.66'
 average: '19.765'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Homfa Mesa Gaming PC Escritorio Gaming Mesa para Ordenador con Portavaso Gancho para Auriculares Soporte para Gamepad Alfombrilla de Ratón Negro 110x55x75cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DXFVP71/?tag=tolees-21'
 descuento: '15.00'
 average: '128.99'

@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Rankie Adaptador de Red  USB 3 0 a RJ45 10/100/1000Mbps Gigabit Ethernet  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010SEARPU/?tag=tolees-21'
 descuento: '15.04'
 average: '11.176400000000001'

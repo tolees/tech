@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Videocámara Videocamara 2.7K Full HD 30 MP Cámara de Video para Youtube Videocámara Digital con 18X Zoom Digital con Micrófono táctil de 3.0 Pulgadas IPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FM16PN/?tag=tolees-21'
 descuento: '23.08'
 average: '99.99'

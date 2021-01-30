@@ -16,6 +16,7 @@ comparePrice: 204.45 EUR
 prodname: 'HP LaserJet M203dw - Impresora láser  A4  Wifi  1200 x 1200 DPI   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQ21ZT0/?tag=tolees-21'
 descuento: '22.50'
 average: '156.94'

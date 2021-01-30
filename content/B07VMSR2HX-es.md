@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Sennheiser PC 8.2 Chat  Auriculares con Cable para Casual Gaming  e-Learning y música  micrófono con cancelación de Ruido  Control de Llamadas  micrófono Plegable  Alta Comodidad: conectividad USB-A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMSR2HX/?tag=tolees-21'
 descuento: '19.16'
 average: '56.51'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Victure 1080P Cámara de Seguridad Exteriores Inalámbrica para el Hogar con Batería Recargable Detección de Movimiento PIR y Audio Bidireccional IP65 Prueba de Agua y Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKVH6CR/?tag=tolees-21'
 descuento: '22.22'
 average: '85.99'

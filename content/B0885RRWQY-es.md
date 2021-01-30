@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Wodgreat Repetidor WiFi 300 Mbit/s  2.4 GHz  Amplificador WiFi Extensor Repetidor de Señal WiFi con Repetidor Inalámbrico con Botón WPS y Puerto Ethernet  Modo Repetidor y Ap Fácil de configurar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885RRWQY/?tag=tolees-21'
 descuento: '17.66'
 average: '16.07333333333333'

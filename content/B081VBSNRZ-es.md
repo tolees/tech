@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Adaptador USB C HDMI 3 en 1  uni Hub USB C HDMI  4K HDMI  100W de Carga  USB 3.0  Compatible con iPad Pro 2018  MacBook  Galaxy S20  Note 10  Huawei P40 - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VBSNRZ/?tag=tolees-21'
 descuento: '16.01'
 average: '18.99'

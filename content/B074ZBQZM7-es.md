@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Epson EH-TW5650 | Proyector Home Cinema 3D Full HD 1080p | 2500 lúmenes | Alto Contraste 60.000:1 | Lámpara Larga Duración 7500 horas | Pantalla Hasta 300” | Tecnología 3LCD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZBQZM7/?tag=tolees-21'
 descuento: '22.66'
 average: '841.5766666666667'

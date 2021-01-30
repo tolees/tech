@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Hoover HF522NPW H-Free 500 - Aspiradora Escoba sin Cable  WiFi  Almacenaje 69 cm  Especial Hogar y Coche  Ion Litio 22 V  40 Mins  Cepillo Motorizado Led  Accesorios Pelo Mascota  Rincones y Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZH8MH5/?tag=tolees-21'
 descuento: '20.00'
 average: '175.2'

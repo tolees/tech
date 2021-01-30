@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'HP 14s-dq0003ns - Ordenador portátil 14" HD  Intel Core i3-8130U  8 GB RAM  512 GB SSD  Intel UHD Graphics 620  Windows 10 Home  Blanco - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YBZF2B/?tag=tolees-21'
 descuento: '17.36'
 average: '413.21'

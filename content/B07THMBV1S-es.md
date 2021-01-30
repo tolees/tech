@@ -16,6 +16,7 @@ comparePrice: 59.96 EUR
 prodname: 'Moviles Libres Baratos 4G 16GB ROM /Memoria Extendida 128 GB  5.0 Pulgadas 5MP Cámara Smartphone Libre Dual SIM 4G WiFi Moviles Baratos y Buenos Smartphone Batería 2800mAh J3 2020  Móvil Libre B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THMBV1S/?tag=tolees-21'
 descuento: '16.78'
 average: '49.9'

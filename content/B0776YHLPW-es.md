@@ -16,6 +16,7 @@ comparePrice: 179 EUR
 prodname: 'Apple Funda de piel  para el MacBook de 12 pulgadas  - Azul noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776YHLPW/?tag=tolees-21'
 descuento: '24.59'
 average: '98.71000000000001'

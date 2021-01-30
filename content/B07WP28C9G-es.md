@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AROYI Carcasa Xiaomi Redmi Note 8 Funda Silicona & Protector Pantalla Cristal Templado  Slim Suave TPU Bumper Case Cover Anti-arañazos Antigolpes Caja para Xiaomi Redmi Note 8 Smartphone - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP28C9G/?tag=tolees-21'
 descuento: '18.29'
 average: '8.98'

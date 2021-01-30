@@ -16,6 +16,7 @@ comparePrice: 219.9 EUR
 prodname: 'Polar V650 - Ciclocomputador de ciclismo con GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J2XI4SG/?tag=tolees-21'
 descuento: '16.24'
 average: '184.18'

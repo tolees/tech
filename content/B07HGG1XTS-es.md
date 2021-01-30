@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JBL Tune 500BT - Auriculares supraaurales inalámbricos con conexiones multipunto y asistente de voz  batería de 16 h  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGG1XTS/?tag=tolees-21'
 descuento: '15.00'
 average: '38.06'

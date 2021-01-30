@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'TOPESEL Memoria USB 64GB Tipo C USB 3.0 Dual 2 en 1 OTG Flash Drive Pendrives Impermeable  Mini Llave USB Portátiles para Samsung Galaxy S8  S8 Plus  Note 8  LG G6  V30  Google Pixel XL  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MT7PDLF/?tag=tolees-21'
 descuento: '15.02'
 average: '14.43'

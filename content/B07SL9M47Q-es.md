@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'FreeLeben Xiaomi Scooter Eléctrico Disco de Freno Disco de Freno Pieza de Repuesto Accesorio para Xiaomi M365 Scooter Eléctrico  120mm  for Xiaomi M365 Pro  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL9M47Q/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

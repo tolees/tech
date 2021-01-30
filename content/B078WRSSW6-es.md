@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco estado solido SSD  550 megabytes/s  color verde/negro  2 TB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WRSSW6/?tag=tolees-21'
 descuento: '21.83'
 average: '246.78866666666667'

@@ -16,6 +16,7 @@ comparePrice: 649.99 EUR
 prodname: 'ASUS TP412FA-EC082T - Portátil de 14" FullHD  Intel Core i3-8145U  8GB RAM  256GB SSD  Intel Graphics  Windows 10  Gris - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RSFML7/?tag=tolees-21'
 descuento: '23.08'
 average: '499.99'

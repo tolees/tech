@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Cascos Inalámbrico con aptX Baja Latencia  Auriculares Bluetooth de Diadema Plegable August EP650 con Micrófono  NFC Auriculares Estéreo Inalámbricos para TV  Móvil  PC - Autonomía 15 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FZLV9G8/?tag=tolees-21'
 descuento: '20.00'
 average: '39.96'

@@ -16,6 +16,7 @@ comparePrice: 143.96 EUR
 prodname: 'DYNASONIC - Dynapro 12 - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portatil TWS | Lector USB Bluetooth Radio FM y Micrófonos  Color Negro  DYNAPRO 12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZRYSVN/?tag=tolees-21'
 descuento: '20.12'
 average: '139.14666666666668'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: '【Última Versión】 Auriculares Inalambricos Deporte Bluetooth 5.0  AXLOIE Audífonos Bluetooth Impermeable IPX7 Estéreo Auténticos Sonido Hi-Fi 25 Horas Autonomía para iPhone Samsung Huawei Tableta etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7SPHLB/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

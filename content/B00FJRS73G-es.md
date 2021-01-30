@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'SanDisk Cruzer Force - Memoria USB 2.0 de 64 GB  Color Negro  Metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FJRS73G/?tag=tolees-21'
 descuento: '17.57'
 average: '13.18'

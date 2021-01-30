@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'HP 22fw - Monitor 22 Pulgadas  54 6 cm  1920 x 1080 Pixeles  Full HD  LED  5 ms  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFQGST/?tag=tolees-21'
 descuento: '21.01'
 average: '98.13666666666667'

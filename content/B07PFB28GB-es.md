@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Estera del cojín del resto de muñeca del ratón del juego del gel  almohadilla ergonómica de la comodidad de la ayuda de muñeca del gel para la oficina del ordenador portátil del ordenador--YISK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFB28GB/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

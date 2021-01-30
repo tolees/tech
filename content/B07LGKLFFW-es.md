@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Tribit MaxSound Plus - Altavoz Bluetooth  24 W  con Potente Sonido  XBass  protección IPX7 Resistente al Agua  20 Horas  Alcance del Bluetooth de 30 m para Fiestas  Viajes  Aire Libre  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGKLFFW/?tag=tolees-21'
 descuento: '23.86'
 average: '47.81'

@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'A-Tech ~ Dual Band Wireless-AC 9260 para Intel 9260NGW NGFF 802.11ac MU-MIMO 1730Mbps 1.73Gbps WiFi + Bluetooth 5.0 Fit Windows 10  1.73Gbps  2.4G y 5G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9WKJ77/?tag=tolees-21'
 descuento: '17.36'
 average: '20.0'

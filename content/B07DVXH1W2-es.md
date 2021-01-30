@@ -16,6 +16,7 @@ comparePrice: 9.16 EUR
 prodname: 'TENGGO Reemplazo De Banda De Reloj Pulsera Correa De Pulsera para Garmin Vivofit Jr Junior Tracker-#02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVXH1W2/?tag=tolees-21'
 descuento: '23.03'
 average: '7.05'

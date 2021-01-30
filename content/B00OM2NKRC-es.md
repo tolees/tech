@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'HOMCOM Silla de Juego Escitorio Silla Giratorio de Ordenador para Jóvenes Ergonómica Regulable con Ruedas Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OM2NKRC/?tag=tolees-21'
 descuento: '15.00'
 average: '98.69'

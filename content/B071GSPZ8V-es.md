@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Xinda Huawei MediaPad T3 8.0 Funda - Ultra delgado ligero Smart carcasa con función atril para Huawei MediaPad T3 8.0 inch Tablet 2017 liberación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GSPZ8V/?tag=tolees-21'
 descuento: '20.02'
 average: '7.19'

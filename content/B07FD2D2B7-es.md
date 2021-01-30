@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'INFILAND Funda para Microsoft Surface Pro 7 2019 / Surface Pro 6 2018 / Surface Pro 5 2017 / Surface Pro 4  PU Cuero Soporte Frontal Case Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD2D2B7/?tag=tolees-21'
 descuento: '18.19'
 average: '26.99'

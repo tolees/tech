@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Panasonic KX-TU150EXR - Teléfono Móvil Dual SIm  Pantalla de 2.4"  3G  Memoria de 2 GB  Botón de Emergencia  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDFBLXJ/?tag=tolees-21'
 descuento: '20.08'
 average: '30.47'

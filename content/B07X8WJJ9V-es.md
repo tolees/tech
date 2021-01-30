@@ -16,6 +16,7 @@ comparePrice: 849 EUR
 prodname: 'Garmin - Reloj GPS con Pulsómetro Fenix 6X Zafiro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8WJJ9V/?tag=tolees-21'
 descuento: '17.36'
 average: '701.61'

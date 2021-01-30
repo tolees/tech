@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Silicon FBE-SU020TBPHDA60S3KFE - Disco Duro Externo  2 TB  Resistente al Agua  USB 3.0  Resistente a los Golpes A60  Resistente a los Golpes  2.5"  810 G y IPX4   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYW9RY5/?tag=tolees-21'
 descuento: '20.00'
 average: '79.99'

@@ -16,6 +16,7 @@ comparePrice: 22.85 EUR
 prodname: 'Primewire 15m Cable de Red Gigabit Ethernet Cat 7-10000 Mbit s - Cable de Conexión - Cable Cat7 en Bruto con apantallamiento S FTP PIMF y Conector RJ45 - Punto de Acceso Switch Router Modem - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLJP97W/?tag=tolees-21'
 descuento: '23.63'
 average: '17.45'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Ayete Ratón Vertical 2.4 G Ratón Ergonómico Óptico Prevención de Codo de tenista/Enfermedad del ratón Recargable USB Inalámbrico Ratón con 3 Niveles Ajustables dpi para Ordenador PC Notebook etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4SSVMK/?tag=tolees-21'
 descuento: '15.01'
 average: '18.69'

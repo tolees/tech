@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Beats Auriculares  Plata mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFHSDTR/?tag=tolees-21'
 descuento: '24.98'
 average: '91.17999999999999'

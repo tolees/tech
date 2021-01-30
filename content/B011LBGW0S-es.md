@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ansmann Los Pitufos - La luz nocturna móvil Papá Pitufo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011LBGW0S/?tag=tolees-21'
 descuento: '19.96'
 average: '14.896666666666667'

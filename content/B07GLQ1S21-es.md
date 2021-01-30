@@ -16,6 +16,7 @@ comparePrice: 17.19 EUR
 prodname: 'SUNYDEAL Cargador de portátil 90W HP Pavilion DV4 DV5 DV6 DV7 19V 4 74A - Alimentación  Adaptador  Ordenador Portatil Transformador -  12 Meses de garantía y Cable de alimentación Europeo Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLQ1S21/?tag=tolees-21'
 descuento: '20.94'
 average: '13.59'

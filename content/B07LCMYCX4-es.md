@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'VicTsing Ratón Bluetooth Inalámbrico Portátil 4.0 & 2.4G  Wireless Mouse con Modo Dual  5 dpi Adjustables para PC  Computadora  Tableta Andorid  Móviles Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCMYCX4/?tag=tolees-21'
 descuento: '23.82'
 average: '15.542380952380952'

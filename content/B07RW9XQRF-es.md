@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Hisense H32B5600  Auriculares  1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW9XQRF/?tag=tolees-21'
 descuento: '16.17'
 average: '180.18'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'iHaper Auriculares Inalámbricos BT4.2 - Auriculares Deportivos Estéreo In-Ear con Micrófono  16 Horas de Tiempo de Juego  IPX5 a Prueba de Agua  Neck Band  Active Noise Canceling  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9M4TV4/?tag=tolees-21'
 descuento: '22.51'
 average: '33.24'

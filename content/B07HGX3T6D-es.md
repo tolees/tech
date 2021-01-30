@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Cámara de Vigilancia 2MP  Cámara De Seguridad  Aottom 1080P CCTV Cámara Dome AHD 3000TVL  Lente de 3.6mm  24 IR Led  TVI/CVI/AHD/CVBS Switchable  Apoyo UTC  BNC  IP66'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGX3T6D/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

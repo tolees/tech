@@ -16,6 +16,7 @@ comparePrice: 639.0 EUR
 prodname: 'Black Shark 2 8GB+128GB Azul con Pro Kit  Black Shark Funda Protectora + Mandos de Gamepad Versiones Izquierda/Derecha  Dual SIM  Snapdragon 855  Adreno 640 GPU  Nuevo  Móvil  Teléfono de Juego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNNL89Z/?tag=tolees-21'
 descuento: '23.70'
 average: '465.5055555555556'

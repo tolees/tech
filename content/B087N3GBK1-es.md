@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Cocoda Soporte Tablet  Portátil Soporte iPad con Ajustable Altura y Angulo  Soporte Movil Mesa Compatible con iPhone  Samsung  Huawei  iPad Mini  Tablet  Videollamada  Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087N3GBK1/?tag=tolees-21'
 descuento: '15.02'
 average: '8.49'

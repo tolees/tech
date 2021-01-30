@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SPC Ángel - Cámara vigilabebé  inteligente Wi-Fi  visión nocturna 10m  alarma de movimiento  115º de visión  1080p HD  dual speaker  control remoto mediante aplicación   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGFWMSF/?tag=tolees-21'
 descuento: '22.47'
 average: '57.38999999999999'

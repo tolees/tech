@@ -16,6 +16,7 @@ comparePrice: 73.99 EUR
 prodname: 'SMARTWATCH XIAOMI AMAZFIT BIP LITE GLOBAL 1 28   PULSOMETRO PINK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJRBD8G/?tag=tolees-21'
 descuento: '18.92'
 average: '46.656666666666666'

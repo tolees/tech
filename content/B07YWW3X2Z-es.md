@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Hub USB C  Adaptador USB C a USB 5 en 1  4 Puertos USB 3.0 y 1 Puerto de Carga Tipo C a PD 5Gbps  Concentrador USB C para MacBook Air Pro Huawei P20 Samsung S10 y Otros Dispositivos con USB C  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWW3X2Z/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 38.71 EUR
 prodname: 'Crucial CT8G4SFS8266 Memoria RAM de 8 GB  DDR4  2666 MT/s  PC4-21300  Single Rank x 8  SODIMM  260-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KNKBQ1/?tag=tolees-21'
 descuento: '19.97'
 average: '32.422'

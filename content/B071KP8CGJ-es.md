@@ -16,6 +16,7 @@ comparePrice: 76.22 EUR
 prodname: 'Crucial CT16G4SFD8266 Memoria RAM de 16 GB  DDR4  2666 MT/s  PC4-21300  Dual Rank x 8  SODIMM  260-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KP8CGJ/?tag=tolees-21'
 descuento: '22.46'
 average: '60.23769230769231'

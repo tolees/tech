@@ -16,6 +16,7 @@ comparePrice: 411.37 EUR
 prodname: 'ASUS ROG Strix GeForce GTX 1660 Super Advanced Edition - Tarjeta Gráfica  Memoria GDDR6  Ventiladores Axial-Tech  DirectCU II  Auto-Extreme  FanConnect II '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082LHQCHS/?tag=tolees-21'
 descuento: '24.28'
 average: '311.47'

@@ -16,6 +16,7 @@ comparePrice: 14.62 EUR
 prodname: 'SODIAL Teclado Inalámbrico Bluetooth para Teléfono Móvil con Funda De Cuero PU Mini Inalámbrico Portátil Aluminio Ordenador Portátil Funda De Cuero - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV7PYZM/?tag=tolees-21'
 descuento: '17.99'
 average: '12.175'

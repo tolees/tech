@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'HP Envy Photo 6230 – Impresora multifunción inalámbrica  tinta  Wi-Fi  copiar  escanear  impresión a doble cara  1200 x 1200 ppp  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07514HXLT/?tag=tolees-21'
 descuento: '24.93'
 average: '71.08333333333333'

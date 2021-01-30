@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'AOC 27V2Q – Monitor de 27” Full HD  IPS  Resolución 1920x1080  FreeSync FlickerFree  Lowblue Light  HDMI  Displayport '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FBW3PBM/?tag=tolees-21'
 descuento: '17.81'
 average: '152.98'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'HyperX HX-MPFS-M Fury S Pro - Alfombrilla de ratón para Gaming  tamaño M  36cm x 30cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LPHVXV/?tag=tolees-21'
 descuento: '17.34'
 average: '13.523333333333333'

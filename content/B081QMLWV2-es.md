@@ -16,6 +16,7 @@ comparePrice: 749.99 EUR
 prodname: 'HP Pavilion 15-bc519ns - Ordenador portátil de 15.6" FullHD  Intel Core i5-9300H  8 GB de RAM  512 GB SSD  NVIDIA GeForce GTX 1050-3GB  sin sistema operativo  Negro sombra - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QMLWV2/?tag=tolees-21'
 descuento: '20.00'
 average: '649.99'

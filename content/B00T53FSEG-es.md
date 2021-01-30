@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Panasonic Lumix DMC-FT30 - Cámara Acuática Sumergible de 16.1 MP  8 metros  F3.9 - 5.7  Zoom de 9x  Resistencia a Golpes y Polvo   Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T53FSEG/?tag=tolees-21'
 descuento: '16.61'
 average: '125.98333333333333'

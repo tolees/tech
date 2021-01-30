@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Tryone Soporte Tablet Móvil Multiángulo - Soporte con Cuello de Cisne Brazo para iPad Serie/Nintendo Switch/Samsung Galaxy Tabs/Huawei Mediapad/Kindle Fire y más  75cm de Longitud Total Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVCLBGN/?tag=tolees-21'
 descuento: '17.51'
 average: '18.89'

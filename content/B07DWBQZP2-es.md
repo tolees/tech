@@ -16,6 +16,7 @@ comparePrice: 250.99 EUR
 prodname: 'Seagate Fast SSD  1 TB  Disco duro externo portátil SSD  USB-C  USB 3.0 para PC  ordenador portátil y Mac  2 meses de suscripción a Adobe CC Photography  STCM100040 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWBQZP2/?tag=tolees-21'
 descuento: '22.19'
 average: '166.44545454545454'

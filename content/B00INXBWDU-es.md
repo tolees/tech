@@ -16,6 +16,7 @@ comparePrice: 60.49 EUR
 prodname: 'Huawei E5330 - Punto de Acceso inalámbrico Hotspot HSPA+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00INXBWDU/?tag=tolees-21'
 descuento: '24.55'
 average: '46.912'

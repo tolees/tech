@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Lenovo Ideapad 720S-13IKBR - Ordenador Portátil ultrafino 13.3" FullHD  Intel Core i5-8250U  8GB RAM  256GB SSD  Windows 10  Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYPP4HR/?tag=tolees-21'
 descuento: '21.24'
 average: '928.3435714285714'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'USB 2.0 Switch 4 Puertos Conmutador KVM 2 Entradas y 4 Salidas  Ladron USB KVM con 2 Cable USB para Compartir 4 Dispositivos de Teclado  Ratón  Memorias USB  Disco Duro  Impresoras  Escáneres  etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZPVCF4/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'RCB Patinete Eléctrico 8.5 Pulgadas  Scooter Plegable  Scooter Eléctrico Ligero  Bluetooth y APP Incorporada  Batería 7.5Ah de Larga Duración   Scooter para Adultos y Adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFDKMT8/?tag=tolees-21'
 descuento: '15.04'
 average: '322.04999999999995'

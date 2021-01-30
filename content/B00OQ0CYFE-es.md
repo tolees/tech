@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UGREEN Hub USB 3.0 - 4 Puertos Altas Velocidades de Transmisión con cable de 1M para Raspberry pi 4  Disco Duro Externo  Lector de tarjetas  Móviles y Windows Surface  Ultrabook  ect  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OQ0CYFE/?tag=tolees-21'
 descuento: '15.01'
 average: '12.623333333333333'

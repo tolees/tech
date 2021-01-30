@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Nikon Coolpix A900 - Cámara compacta de 20.3"  WiFi  Bluetooth  4K UHD  CMOS  Nikkor  modo PSAM  zoom 35x  reducción de la vibración  AF  TFT LCD inclinable  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C672JPS/?tag=tolees-21'
 descuento: '18.65'
 average: '432.84222222222223'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Oakcastle Internet Radio WiFi  Spotify Connect  Bluetooth  Alarma Dual  Line in  Control de Aplicaciones  Pantalla a Color  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081D7B3XJ/?tag=tolees-21'
 descuento: '18.20'
 average: '44.95'

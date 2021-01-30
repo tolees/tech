@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'Zerone Monitor Riser Soporte Stand  Desktop Monitor Riser de estantería de la pantalla elevador de la pantalla soporte para ordenador  portátil  organizador de escritorio  3 de capa estante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS3GRLV/?tag=tolees-21'
 descuento: '23.87'
 average: '26.59'

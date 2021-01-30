@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Apple Adaptador de USB-C a Toma para Auriculares de 3 5 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2NH6ZN/?tag=tolees-21'
 descuento: '20.10'
 average: '7.99'

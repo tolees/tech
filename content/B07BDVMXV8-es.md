@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Suunto 3 Fitness - Reloj Multideporte con GPS y pulsómetro incorporado  Pantalla Matricial  Unisex Adulto   Ocean '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDVMXV8/?tag=tolees-21'
 descuento: '19.60'
 average: '172.99333333333334'

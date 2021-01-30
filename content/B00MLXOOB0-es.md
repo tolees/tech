@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20 W con Bluetooth y NFC  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MLXOOB0/?tag=tolees-21'
 descuento: '15.79'
 average: '155.67142857142855'

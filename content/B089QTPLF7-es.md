@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'LUMBRILL - Soporte para ordenador portátil con 9 niveles de altura ajustable y ergonómico para ordenador portátil Lenovo  MacBook Pro Air  iPad  Dell XPS  HP y más 10-17 pulgadas  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QTPLF7/?tag=tolees-21'
 descuento: '15.39'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'STANLEY STST1-79231 - Taller móvil para herramientas 2 en 1  56 x 38 2 x 76 4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2J9N7K/?tag=tolees-21'
 descuento: '23.97'
 average: '77.49571428571429'

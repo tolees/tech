@@ -16,6 +16,7 @@ comparePrice: 122.99 EUR
 prodname: 'HOMCOM Mesa de Ordenador PC Madera en Forma L Esquinera con Bandeja Móvil Soporte de Impresora Amplio Espacio Ruedas Escritorio de Oficina 165x145x86cm Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J75VJ6W/?tag=tolees-21'
 descuento: '15.00'
 average: '104.54'

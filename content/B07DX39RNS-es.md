@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Samsung Original Tipo C Cargador rápido EP-TA20EBE Color Negro Incluye USB Tipo C Cable de Carga Rápida Galaxy S8 S8 S8 S9 Plus S9+ A3 A5 A7 2017 USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX39RNS/?tag=tolees-21'
 descuento: '21.65'
 average: '9.014'

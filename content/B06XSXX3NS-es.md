@@ -16,6 +16,7 @@ comparePrice: 65.77 EUR
 prodname: 'Intel Optane Memory Unidad de Estado sólido M.2 32 GB PCI Express 3.0 3D Xpoint NVMe - Disco Duro sólido  32 GB  M.2  1350 MB/s '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSXX3NS/?tag=tolees-21'
 descuento: '19.60'
 average: '50.50333333333333'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Docooler Tarjeta de Memoria 32G de Gran Capacidad Clase 10 TF Tarjeta Flash Tarjeta TFMemoria de Alta Velocidad para Smartphone  2PCS 32GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9PSQJB/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

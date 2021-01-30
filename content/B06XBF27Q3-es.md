@@ -16,6 +16,7 @@ comparePrice: 27.82 EUR
 prodname: 'Eje RAM MTB MAXLE Stealth 12x142mm L167 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBF27Q3/?tag=tolees-21'
 descuento: '20.96'
 average: '21.99'

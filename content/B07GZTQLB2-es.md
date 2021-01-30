@@ -16,6 +16,7 @@ comparePrice: 76.83 EUR
 prodname: 'HP DeskJet 3764 - Impresora de tinta multifunción  8 ppm  4800 x 1200 DPI  A4  Wifi  Escanea  Copia  60 hojas  Modo silencioso   Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZTQLB2/?tag=tolees-21'
 descuento: '23.21'
 average: '55.978823529411756'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Logitech Slim Combo Funda para iPad  iPad Pro 10.5 Pulgadas   2a Generación Modelos: A1701  A1709  A1852   Teclas Retroiluminadas  Smart Conector  Disposición QWERTY Español  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07318PMHL/?tag=tolees-21'
 descuento: '18.34'
 average: '111.345'

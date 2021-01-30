@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Trust Ziva - Teclado Gaming  Layout español  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PXB5F9/?tag=tolees-21'
 descuento: '24.47'
 average: '7.854999999999999'

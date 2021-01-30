@@ -16,6 +16,7 @@ comparePrice: 111.44 EUR
 prodname: 'LaCie 1 TB Rugged Mini USB 3.0  2.5 Pulgadas  Disco Duro Externo portátil para PC et Mac  Resistente a Golpes y caídas  LAC301558 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058VIWTM/?tag=tolees-21'
 descuento: '23.73'
 average: '84.99'

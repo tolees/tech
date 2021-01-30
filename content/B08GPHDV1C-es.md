@@ -16,6 +16,7 @@ comparePrice: 43.19 EUR
 prodname: 'BAITITON NVME 240GB SSD M.2 2280 PCIe Express GEN3.0x4 Disco Duro Interno Unidad de Estado sólido de Alto Rendimiento de Lectura 1800 MB/s de Escritura 1000 MB/s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GPHDV1C/?tag=tolees-21'
 descuento: '16.67'
 average: '35.99'

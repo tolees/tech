@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Xiaomi Poco F2 Pro - Smartphone de 6.67"  5 G Super AMOLED Screen  1082 x 2400 pixels  Qualcomm SM 8250 Snapdragon 865  4700 mAh  Quad Camera  8 K Video  6 GB/128 GB RAM   Electric Purple [EU version]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088HH2KB3/?tag=tolees-21'
 descuento: '22.04'
 average: '389.21959999999996'

@@ -16,6 +16,7 @@ comparePrice: 53.16 EUR
 prodname: 'AUKEY Webcam FHD  Cámara de videoconferencia 1080p  con USB para Ordenador de Escritorio o portátil para videollamada de Pantalla Ancha y grabación de Videos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TC5PTYW/?tag=tolees-21'
 descuento: '15.37'
 average: '39.23944444444445'

@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'HP Pavilion Gaming 690-0031ns - Ordenador de sobremesa  Intel Core i5-8400  8GM RAM  1TB HDD  NVIDIA GeForce GTX1060-3GB  Windows 10 Home   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV2LHH6/?tag=tolees-21'
 descuento: '22.22'
 average: '693.614'

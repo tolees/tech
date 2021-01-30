@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'HP Laser MFP 135a - Impresora láser multifunción  imprime  copia y escanea  20 ppm  LED  USB 2.0 de alta velocidad   blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB827NV/?tag=tolees-21'
 descuento: '24.19'
 average: '108.09374999999999'

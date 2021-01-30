@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'SanDisk Memoria Flash Ultra USB 3.0 de 16 GB  hasta 130 MB/s velocidad de lectura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DQG9DDU/?tag=tolees-21'
 descuento: '24.04'
 average: '4.8726666666666665'

@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Monitor AOC Q3279VWFD8 - Pantalla para PC de 32" QHD  resolución 2560x1440  IPS  FreeSync  Displayport  HDMI   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG41Y8Z/?tag=tolees-21'
 descuento: '16.67'
 average: '199.99'

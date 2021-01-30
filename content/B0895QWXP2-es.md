@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'RIWNNI [2 Unidades] Protector Pantalla para iPad 8 2020/iPad 7 2019/iPad 10.2/iPad Air 3/iPad Pro 10.5  Ultra Fino Antirreflejo Mate Película de Papel  Escritura o Dibujo  Compatible con Apple Pencil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895QWXP2/?tag=tolees-21'
 descuento: '20.01'
 average: '16.79'

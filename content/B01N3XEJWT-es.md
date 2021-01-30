@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Kyocera Ecosys M2635dn Impresora monocromática Todo en uno Multifunctional | Imprime - Copia - Escanea - Fax | Soporte de impresión móvil a través de Smartphone y Tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3XEJWT/?tag=tolees-21'
 descuento: '22.51'
 average: '369.23999999999995'

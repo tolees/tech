@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Microsoft Surface Arc - Ratón Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF5F7NH/?tag=tolees-21'
 descuento: '23.34'
 average: '68.99'

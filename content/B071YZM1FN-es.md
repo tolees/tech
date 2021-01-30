@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Romoss Batería Externa Móvil 20000 mAh  Power Bank 2 Salidas Compatible Universal con Todos los Teléfonos【Diseño único para Superficie】'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YZM1FN/?tag=tolees-21'
 descuento: '20.01'
 average: '17.32333333333333'

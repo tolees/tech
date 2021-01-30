@@ -16,6 +16,7 @@ comparePrice: 289.98 EUR
 prodname: 'Polk Audio MagniFi Mini - Barra de Sonido y Subwoofer Inalámbrico  con Asistente de Google  Bluetooth  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8N91QG/?tag=tolees-21'
 descuento: '22.32'
 average: '242.42333333333332'

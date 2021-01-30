@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Logitech G305 Ratón Gaming Inalámbrico  12000 DPI  Mano Derecha  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGNDZR3/?tag=tolees-21'
 descuento: '23.15'
 average: '47.64'

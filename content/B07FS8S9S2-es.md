@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Fujifilm XF10 - Cámara digital de 24.2 MP  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FS8S9S2/?tag=tolees-21'
 descuento: '18.64'
 average: '373.72333333333336'

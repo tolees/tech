@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'Panasonic RP-HTF295E-K Auriculares de Diadema Cerrados  Cable Largo  Sonido Hi-Fi  Aislamiento de Ruido  Diseño Ergonómico  Unidad de Control 40 mm  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DSZ88G/?tag=tolees-21'
 descuento: '17.33'
 average: '23.1'

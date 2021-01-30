@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Reposamuñecas  Ankengs Ordenador Apoyabrazos para  ergonómico ajustable del escritorio de la computadora apoyabrazos  Ideal para Usar en el Hogar y la Oficina  reposabrazos de muñeca ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHGCSYS/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

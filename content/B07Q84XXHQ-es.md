@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Mksutary Mesa Ordenador Portatil  Soporte de Portátil  Mesa para Ordenador Base Ajustable y Plegable  Color Negro Soporte de Ratón para Notebook PC Laptop Ordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q84XXHQ/?tag=tolees-21'
 descuento: '15.39'
 average: '31.790000000000003'

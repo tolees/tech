@@ -16,6 +16,7 @@ comparePrice: 2.93 EUR
 prodname: 'Alfombrilla de Ratón con Reposamuñecas Cojín de Ratón Gel Mouse Pad Varios Colores - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEEC66K/?tag=tolees-21'
 descuento: '22.18'
 average: '2.28'

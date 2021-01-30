@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Hosome Repetidor WiFi 5GHz / 2.4GHz Amplificador WiFi 1200Mbps  Repetidor Señal WiFi 4 en 1 Modo Repetidor de WiFi Ampliador de Cobertura Puerto de Ethernet  Antena Dual  WPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HTPXW6/?tag=tolees-21'
 descuento: '16.67'
 average: '32.565'

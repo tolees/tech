@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'QueenDer Alfombrilla de Ratón  Alfombrilla de Ratón Ordenador Juegos con Borde Cosido Base de Goma Antideslizante  Suave y Cómoda Superficie Texturizada para Computadora Portátil PC Oficina-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ6MSD5/?tag=tolees-21'
 descuento: '23.87'
 average: '4.764285714285714'

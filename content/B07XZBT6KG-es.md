@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Dell - PC Optiplex 7010 SFF- Ordenador de sobremesa  Intel Core i5-3470  8GB de RAM  Disco SSD de 240GB  Lector DVD  Windows 10 Pro ES 64  - Negro  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZBT6KG/?tag=tolees-21'
 descuento: '16.87'
 average: '228.16666666666669'

@@ -16,6 +16,7 @@ comparePrice: 59.61 EUR
 prodname: 'JeVx Altavoz Furgoneta Volkswagen T1 Bluetooth USB para Pendrive Lector de Tarjetas de Memoria Micro SD Radio FM Portatil Reproductor de Musica Mp3 VW Camioneta Van Altavoces  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXWKFLY/?tag=tolees-21'
 descuento: '24.66'
 average: '44.91'

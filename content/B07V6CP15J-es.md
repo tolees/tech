@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Mixcder E7 Auriculares Bluetooth 5.0 con Cancelacón Activa de Ruido  Cascos Inalámbricos Bluetooth con Micrófono  Hi-Fi Sonido Estéreo  Carga Rápida  30 Horas de Juego  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6CP15J/?tag=tolees-21'
 descuento: '15.00'
 average: '53.57'

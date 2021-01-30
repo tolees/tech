@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'GANYUE Adaptador Bluetooth 5.0 Transceptor de Audio Inalámbrico Bluetooth USB Transmisor Receptor 2 en 1 con Cable Auxiliar Digital de 3.5 mm para TV  Altavoces  PC  Auriculares Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKKYXDB/?tag=tolees-21'
 descuento: '15.04'
 average: '8.365'

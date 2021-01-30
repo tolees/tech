@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Lenovo L24e-20 23.8 " FHD VA FreeSync Gaming Monitor 4 ms VGA+HDMI 3 lados sin bordes - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB5QWY9/?tag=tolees-21'
 descuento: '16.67'
 average: '100.44914285714285'

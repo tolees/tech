@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'AboveTEK - Soporte de ventosa para teléfono móvil  gran almohadilla adhesiva para tableta en cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PD1GNY/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

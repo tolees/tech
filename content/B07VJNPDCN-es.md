@@ -16,6 +16,7 @@ comparePrice: 9.84 EUR
 prodname: 'ESR Funda Transparente para iPhone 11 Pro MAX  Carcasa Protectora de iPhone XI con Suave TPU  Funda Delgada de Suave Silicona para iPhone Pro MAX 6 5”  2019 . Transparente Serie Essential Zero.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJNPDCN/?tag=tolees-21'
 descuento: '22.87'
 average: '8.056666666666667'

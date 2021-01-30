@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'ZhuoFan Funda Xiaomi Redmi Note 6 Pro  Cárcasa Silicona 3D Cristal Templado con Dibujos Antigolpes Design de Protector Case Cover Piel Fundas para Movil Xiaomi Redmi Note 6Pro  Coco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSDVRP5/?tag=tolees-21'
 descuento: '19.70'
 average: '7.99'

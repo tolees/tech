@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Seagate Backup Plus Ultra Touch  2TB  Disco duro externo  HDD  Blanco  USB-C  USB 3.0  1 año de Mylio Create  2 meses de suscripción a Adobe CC Photography  STHH2000402 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGDLPCC/?tag=tolees-21'
 descuento: '20.95'
 average: '86.52'

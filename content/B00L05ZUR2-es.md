@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Fujifilm Fujinon - XF18-135mm F3.5-5.6 R OIS WR  Distancia Focal 18-135mm  Apertura f/3.5-5.6  Zoom óptico 7.5X estabilizador óptico  diámetro: 67 mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L05ZUR2/?tag=tolees-21'
 descuento: '19.13'
 average: '646.14'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Sony  ZS-RS60BT - Radio Boombox CD de 4W  estéreo  USB  Bluetooth  NFC    negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULNENTA/?tag=tolees-21'
 descuento: '16.15'
 average: '102.92'

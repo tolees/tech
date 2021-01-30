@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'KROM Kernel Tkl - NXKROMKRNLTKL - Teclado Mecánico Español Gaming RGB  Color Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J2HFD2/?tag=tolees-21'
 descuento: '20.02'
 average: '39.457272727272716'

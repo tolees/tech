@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Fujifilm XF10  Cámara Digital  1  Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSKX192/?tag=tolees-21'
 descuento: '17.64'
 average: '379.995'

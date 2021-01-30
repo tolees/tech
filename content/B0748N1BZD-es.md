@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Bose SoundLink® Micro  Altavoz con Bluetooth  Inalámbrico Micro-USB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748N1BZD/?tag=tolees-21'
 descuento: '16.15'
 average: '100.58'

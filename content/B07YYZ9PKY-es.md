@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Beats Solo Pro con cancelación de ruido - Auriculares supraaurales inalámbricos - Chip Apple H1  Bluetooth de Clase 1  22 horas de sonido ininterrumpido - Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYZ9PKY/?tag=tolees-21'
 descuento: '23.99'
 average: '238.99666666666667'

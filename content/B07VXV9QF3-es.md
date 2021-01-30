@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Salomon Pioneer X Cascos de esquí  Hombre  Negro  XL  62-64 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXV9QF3/?tag=tolees-21'
 descuento: '22.23'
 average: '55.99'

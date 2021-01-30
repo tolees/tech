@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'YOOTECH Cargador Inducción Rápido  2 pack  7.5W Qi wireless carga para iPhone 11/11 Pro/11 Pro Max/Xs Max/XR/XS/X/8+/8  10W para Galaxy Note 10/S10/S10+/S9/S10E/S9+/S8/S7/S6  AirPods Pro No Adaptador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCMDK18/?tag=tolees-21'
 descuento: '22.74'
 average: '16.99'

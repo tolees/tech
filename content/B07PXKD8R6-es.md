@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Lileng Ventilador USB  Ventilador de Escritorio de Metal USB de 10 16cm Mini Ventilador silencioso portátil Ventilador de refrigeración Ordenador portátil PC Mesa de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXKD8R6/?tag=tolees-21'
 descuento: '20.02'
 average: '8.14111111111111'

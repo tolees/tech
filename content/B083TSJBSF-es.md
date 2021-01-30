@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ShinePick Micrófono Karaoke Bluetooth  Microfono Inalámbrico Karaoke Portátil con Altavoz para Niños Canta Partido Musica  Compatible con Android/iOS PC  AUX o Teléfono Inteligente  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TSJBSF/?tag=tolees-21'
 descuento: '15.01'
 average: '18.99'

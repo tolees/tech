@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Numark DJ2GO2 - Controlador de DJ Ultraportátil de 2 Canales para Serato DJ Lite  Interfaz Audio Incorporada  Controles de Rendimiento de Pad  Crossfader y Rueda de Desplazamiento  Salida Auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074D5NXT7/?tag=tolees-21'
 descuento: '15.70'
 average: '53.5'

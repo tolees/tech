@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips Dect T  Teléfono Inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLBGRXN/?tag=tolees-21'
 descuento: '20.58'
 average: '31.76'

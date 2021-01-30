@@ -16,6 +16,7 @@ comparePrice: 2359.0 EUR
 prodname: 'Gigabyte AERO15X v8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CC2GLG7/?tag=tolees-21'
 descuento: '17.54'
 average: '1865.8233333333333'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Slabo 2 x Protector de Pantalla para Amazon Kindle Oasis 10.ª generación  2019  | Kindle Oasis 9.ª generación  2017  lámina de Protectora Ultra Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YSK21KL/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

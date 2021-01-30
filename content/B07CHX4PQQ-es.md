@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Logitech R500 Presentador Inalámbrico  2.4 GHz con Receptor USB  Puntero Láser Digital Rojo  Distancia de 30 Metros  6 Botones  Compatible con PC  Gris/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHX4PQQ/?tag=tolees-21'
 descuento: '23.43'
 average: '27.153999999999996'

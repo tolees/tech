@@ -16,6 +16,7 @@ comparePrice: 180.8 EUR
 prodname: 'Seagate Barracuda Fast SSD de 1 TB  Disco duro externo portátil SSD  USB-C  USB 3.0 para PC  ordenador portátil y Mac  STJM1000400 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PGPHWZ/?tag=tolees-21'
 descuento: '15.93'
 average: '154.20666666666668'

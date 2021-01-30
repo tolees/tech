@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ibywind Protector de Pantalla para Xiaomi Mi 9T / Mi 9T Pro [2 Piezas] con Cristal templado para lente de cámara trasera Atrás Pegatina Protectora Fibra de Carbono Incluyendo Kit de instalación fácil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9GZLR5/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

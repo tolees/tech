@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'TECKNET Alfombrilla de Ratón Apoyo de Gel  Cojín Alfombrilla de Ratón  Base de Goma no Deslizante  - Superficie Texturizada Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A5NK6F0/?tag=tolees-21'
 descuento: '18.89'
 average: '8.59'

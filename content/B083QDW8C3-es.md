@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Winnes Reloj Inteligente Niño  Reloj Smartwatch Niños Niña GPS Soporte GPS + LBS de Doble Posicionamiento Geo-Cerca/intercomunicador de Voz Reloj Phone para niño  S12G Nergo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QDW8C3/?tag=tolees-21'
 descuento: '15.69'
 average: '42.99'

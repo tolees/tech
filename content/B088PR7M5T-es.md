@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'WACCET Cámara Web HD 1080p PC Webcam con Microfono  USB Cámara para PC/Mac/Laptop/MacBook  Streaming Cámara para Videollamadas  Estudio  Clase en línea  Conferencias  Grabación  Juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PR7M5T/?tag=tolees-21'
 descuento: '21.55'
 average: '20.39'

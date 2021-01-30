@@ -16,6 +16,7 @@ comparePrice: 2.98 EUR
 prodname: 'Silver Electronics Bombilla PLC 2Pin 4200k  26 watts  Blanco  17.2 x 3.4 x 0.03 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PRZ8AI/?tag=tolees-21'
 descuento: '16.11'
 average: '2.5'

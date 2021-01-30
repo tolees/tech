@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Arduino starter kit para principiantes K030007 [manual en español]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XY7LSY8/?tag=tolees-21'
 descuento: '19.39'
 average: '79.57142857142857'

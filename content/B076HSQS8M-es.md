@@ -16,6 +16,7 @@ comparePrice: 132.09 EUR
 prodname: 'JVC KD-R992BT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HSQS8M/?tag=tolees-21'
 descuento: '24.31'
 average: '100.78250000000001'

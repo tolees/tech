@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Bose® SoundSport ® - Auriculares in-ear para Apple  color Energy Green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117RFPAE/?tag=tolees-21'
 descuento: '20.00'
 average: '87.45'

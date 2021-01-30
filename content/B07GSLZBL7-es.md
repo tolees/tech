@@ -16,6 +16,7 @@ comparePrice: 378.99 EUR
 prodname: 'Brother DCP-L3550CDW - Impresora multifunción  Wifi  USB 2.0  512 MB  800 MHz  18 ppm  400 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSLZBL7/?tag=tolees-21'
 descuento: '15.89'
 average: '292.5163636363636'

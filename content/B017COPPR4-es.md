@@ -16,6 +16,7 @@ comparePrice: 73.2 EUR
 prodname: 'Fonestar BEAR-400R - Altavoz portátil Karaoke'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017COPPR4/?tag=tolees-21'
 descuento: '16.46'
 average: '61.15'

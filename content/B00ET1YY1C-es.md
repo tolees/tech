@@ -16,6 +16,7 @@ comparePrice: 23.77 EUR
 prodname: 'Lavolta 65W 45W Cargador - 4.0 x 1.7 mm - Adaptador Pare Lenovo B50-10 B50-50 IdeaPad 5 Slim 1 C340 C630 D330 L340 S145 S340 S540 100 110 310 320 330 510 530s Yoga 510 520 530 Flex 4 5 6 Miix 510 520'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ET1YY1C/?tag=tolees-21'
 descuento: '16.83'
 average: '19.77'

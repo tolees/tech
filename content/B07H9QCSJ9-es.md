@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Apple Funda Silicone Case  para el iPhone XS Max  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9QCSJ9/?tag=tolees-21'
 descuento: '22.29'
 average: '38.31333333333333'

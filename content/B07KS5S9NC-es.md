@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'LoongGate USB 3 0 Cable a Macho a B Macho Angulado  90 Grado Conector USB 3 0 Cable para Impresora  Portátil  Dock  Am-BM 2m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KS5S9NC/?tag=tolees-21'
 descuento: '20.82'
 average: '7.76'

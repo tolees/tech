@@ -16,6 +16,7 @@ comparePrice: 247.9 EUR
 prodname: 'QNAP QNA-T310G1S - Adaptador Thunderbolt3 de un Puerto a SFP+ de un Solo Puerto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTLP44W/?tag=tolees-21'
 descuento: '16.76'
 average: '206.36'

@@ -16,6 +16,7 @@ comparePrice: 759.0 EUR
 prodname: 'Samsung Galaxy Tab S4 - Tablet de 10.5  4G  RAM de 4 GB  memoria interna de 64 GB  Qualcomm Snapdragon 835  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNT6J3W/?tag=tolees-21'
 descuento: '18.58'
 average: '585.756'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'GEEETECH A20M Impresora 3d con Mix de color de impresión integrada  Prusa I3 rápido de Kit DIY de montaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1X2RKB/?tag=tolees-21'
 descuento: '20.05'
 average: '359.0'

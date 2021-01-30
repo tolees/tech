@@ -16,6 +16,7 @@ comparePrice: 6.02 EUR
 prodname: 'SODIAL R  1GB 1G DDR RAM Memoria Ordenador portatil 333MHZ PC2700 NON-ECC PC DIMM 200 Pines'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YMJWMFG/?tag=tolees-21'
 descuento: '16.28'
 average: '5.04'

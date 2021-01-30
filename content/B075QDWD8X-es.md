@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jelly Comb Ratón Inalámbrico de 2 4 GHz con Receptor Nano para Ordenador Portátil/Macbook/Tableta  Preciso y Silencioso  Negro y Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QDWD8X/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

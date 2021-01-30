@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'SAMSUNG EE-GN930BW Micro USB USB Tipo C Blanco Adaptador de Cable - Adaptador para Cable  Micro USB  USB Tipo C  Blanco - Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JSCV8SI/?tag=tolees-21'
 descuento: '15.66'
 average: '8.934999999999999'

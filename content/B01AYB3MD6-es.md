@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Invision Soporte de Pared para TV para 24-55 Pulgadas Pantallas LED LCD 4K Plasma Curvadas  Doble Brazo  Inclinable y Giratorio con Cable HDMI 1080p y Nivel de Burbuja  MAX VESA 400x400mm  HDTV-DL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AYB3MD6/?tag=tolees-21'
 descuento: '21.68'
 average: '32.160000000000004'

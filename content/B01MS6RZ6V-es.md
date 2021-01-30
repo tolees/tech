@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'USB WiFi Adaptador  iAmotus WiFi Antenna 600Mbps Mini USB WiFi Dual Band 2.4G/5G  Receptor WiFi para PC Laptop Desktop WiFi Dongle Soporte Windows 10/8/7/Vista/XP MacOS Y Linux'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS6RZ6V/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

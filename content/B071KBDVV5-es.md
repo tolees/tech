@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Logitech MeetUp  Sistema de Cámara para Conferencias  Webcam Ultra HD 4K/1080p/720p  3 Micrófonos/Altavoces Personalizables  Amplio Campo Visual 120°  PC/Mac/Portátil/Macbook/Tablet  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KBDVV5/?tag=tolees-21'
 descuento: '16.38'
 average: '883.7008333333334'

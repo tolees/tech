@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0  Syllable Cascos Bluetooth AptX Estéreo In-Ear Mini Qualcomm QCC3020 Chip 4 Ponentes Carga Rápida 60h Tiempo de Reproducción Touch-Control IPX7 Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DP9BZ4/?tag=tolees-21'
 descuento: '20.00'
 average: '49.190000000000005'

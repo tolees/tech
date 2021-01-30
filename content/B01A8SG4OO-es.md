@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Canon PowerShot SX540 HS - Cámara digital de 20.3 Mp  pantalla de 3”  zoom óptico de 50x  NFC  WiFi   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8SG4OO/?tag=tolees-21'
 descuento: '20.33'
 average: '231.39666666666668'

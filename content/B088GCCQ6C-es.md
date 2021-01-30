@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'ASUS K543UA-GQ3203 - Ordenador portátil de 15.6" HD  Intel Core i3-6100U   8GB RAM  256GB SSD  Intel Graphics  Sin sistema operativo  Gris Estrella - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GCCQ6C/?tag=tolees-21'
 descuento: '17.75'
 average: '329.0'

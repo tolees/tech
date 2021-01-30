@@ -16,6 +16,7 @@ comparePrice: 2500.0 EUR
 prodname: 'Sony Alpha ILCE7M3 + SEL2870 - Cámara de 24.2 MP  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4R8QGM/?tag=tolees-21'
 descuento: '15.03'
 average: '2088.88'

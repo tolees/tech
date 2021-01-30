@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Energy Sistem Tower 5 - Sistema de sonido Bluetooth  60 W  Touch panel  USB/SD y FM  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STGS7TI/?tag=tolees-21'
 descuento: '20.00'
 average: '68.17875'

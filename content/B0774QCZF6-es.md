@@ -16,6 +16,7 @@ comparePrice: 21.68 EUR
 prodname: 'aotengou Kit de reemplazo para iRobot Roomba 500 Serie 600 529 585 595 620 630 650 660 670 671 Accesorios de reemplazo de vacío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774QCZF6/?tag=tolees-21'
 descuento: '18.96'
 average: '17.57'

@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'ASUS ZenBook 14 UX433FA New -A5243T - Portátil de 14"  i7-8565U  8GB RAM  256GB SSD  Windows 10 Home  Metal Plata Carámbano - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTVTN7Q/?tag=tolees-21'
 descuento: '19.91'
 average: '764.495'

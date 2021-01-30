@@ -16,6 +16,7 @@ comparePrice: 268.8 EUR
 prodname: 'Samsung Galaxy Tab A Wi Fi SM-T510 64GB  Black DE Version'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9S3CWW/?tag=tolees-21'
 descuento: '16.29'
 average: '225.0'

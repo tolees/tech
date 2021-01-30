@@ -16,6 +16,7 @@ comparePrice: 1099.99 EUR
 prodname: 'HP Obelisk Desktop 7VZ40EA - Ordenador de sobremesa  Intel Core i5-9400F  16 GB RAM  512 GB SSD + HDD de 1 TB   NVIDIA GeForce GTX1660Ti 6GB  Sin sistema operativo  negro intenso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBR79W2/?tag=tolees-21'
 descuento: '22.73'
 average: '849.99'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Solar PowerBank 26800mAh Cargador Solar  QI Carga inalámbrico  batería Externa de 4 Puertos  USB/QI   Carga rápida 3.1A Tipo C para Tabletas  Teléfono móvil  Linterna LED 18 para Viajes de Campamento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHGH3K7/?tag=tolees-21'
 descuento: '20.83'
 average: '42.3975'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'AOC E2270SWHN - Monitor de 21.5" Full HD  resolución 1920 x 1080 Pixels  tecnología WLED  Contraste 600:1  5 ms  VESA  HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016UPDULO/?tag=tolees-21'
 descuento: '21.95'
 average: '74.07571428571428'

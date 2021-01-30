@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'Epson EH-TW650 | Proyector Home Cinema Full HD 1080p con Wi-Fi | 3100 lúmenes | Contraste 15.000:1 | Lámpara Larga Duración 7500 horas | Pantalla Hasta 300” | Tecnología 3LCD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZDK4VN/?tag=tolees-21'
 descuento: '23.00'
 average: '526.915512820513'

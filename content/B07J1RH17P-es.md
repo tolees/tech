@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Cargador USB Multipuerto  LENCENT Ladron Enchufes  4.4A 5V Adaptador para Viaje  Adaptadores de Enchufe Universal inglés/eeuu/EU/AUS para iPad  iPhone  Samsung Teléfonos Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1RH17P/?tag=tolees-21'
 descuento: '23.54'
 average: '12.829285714285714'

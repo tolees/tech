@@ -16,6 +16,7 @@ comparePrice: 379.89 EUR
 prodname: 'Apple iPad Air 2 64GB Wi-Fi - Gris Espacial  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4CMSVS/?tag=tolees-21'
 descuento: '16.03'
 average: '319.0'

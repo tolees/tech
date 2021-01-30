@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'AKG K240 Studio - Semi Open - Auriculares profesionales  6.00 x 9.20 x 6.00 pulgadas  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001ARCFA/?tag=tolees-21'
 descuento: '15.52'
 average: '48.169999999999995'

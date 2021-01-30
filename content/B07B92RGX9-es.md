@@ -16,6 +16,7 @@ comparePrice: 1799.9 EUR
 prodname: 'Panasonic LEICA DG VARIO-ELMARIT H-ES50200 - Objetivo Tele Zoom para cámaras de montura M4/3  Focal 50-200 mm  F2.8-F4  lentes asféricas  tamaño filtro 67 mm  resistente agua/polvo/congelación   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B92RGX9/?tag=tolees-21'
 descuento: '19.48'
 average: '1449.3'

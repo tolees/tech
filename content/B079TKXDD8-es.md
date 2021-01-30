@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable guy Groot  soporte de sujeción o carga para mando de consola y/o smartphone de tu personaje favorito con licencia de Marvel Avengers Infinity War. Producto con licencia oficial. Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TKXDD8/?tag=tolees-21'
 descuento: '16.01'
 average: '20.79'

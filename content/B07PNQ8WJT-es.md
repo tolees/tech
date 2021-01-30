@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Funda Xiaomi 8 Lite Mi 8X con Cristal Templado  AChris 3 en 1 Hard Caja Caso Skin Case Cover Carcasa Ultra Fina Anti-rasguños Choque Resistente Case [Compatible con Carga Inalámbrica]- Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNQ8WJT/?tag=tolees-21'
 descuento: '18.63'
 average: '6.99'

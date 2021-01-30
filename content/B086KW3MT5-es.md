@@ -16,6 +16,7 @@ comparePrice: 11.05 EUR
 prodname: 'WINMI Para Motorola Moto G8 Power Funda Translúcido Elegante 360 °Complete Protection Espejo Brillante Standing Mirror Flip Funda para Motorola Moto G8 Power-Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KW3MT5/?tag=tolees-21'
 descuento: '22.62'
 average: '8.55'

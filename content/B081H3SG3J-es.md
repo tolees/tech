@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Mpow Barra de Sonido  Atlavoz Bluetooth 5.0 para PC/TV  20W Mini Altavoz Bluetooth  con USB/AUX/Ranura TF  para PC/ Móviles/Tableta/Ordenador Portátil y ect.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081H3SG3J/?tag=tolees-21'
 descuento: '15.21'
 average: '21.19'

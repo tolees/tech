@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'NEWYES Tableta de Escritura LCD  Pizarra Digital  Tablet para Niños 12 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IGOC9UU/?tag=tolees-21'
 descuento: '15.01'
 average: '22.79'

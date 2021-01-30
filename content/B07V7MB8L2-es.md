@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'HP Smart Tank Plus 570 - Impresora multifunción  imprime  copia y escanea desde el móvil   conectividad Wi-Fi  incluye hasta 3 años de tinta  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7MB8L2/?tag=tolees-21'
 descuento: '20.40'
 average: '238.0'

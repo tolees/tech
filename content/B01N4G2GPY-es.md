@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Thule TSA313 - Maletín Resistente para Apple MacBook de 13"/iPad  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4G2GPY/?tag=tolees-21'
 descuento: '17.73'
 average: '57.55'

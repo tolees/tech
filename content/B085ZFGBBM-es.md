@@ -16,6 +16,7 @@ comparePrice: 30.19 EUR
 prodname: 'SUMKUMY Cargador Coche USB Carga Rápida QC3.0  [7 en 1] 4 Puertos USB y 3 Puertos Adaptador De Encendedor De Cigarrillos 12V/24V para GPS  Dash CAM  Sat Nav  iPhone Teléfono  iPad  Tableta  y etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZFGBBM/?tag=tolees-21'
 descuento: '23.85'
 average: '22.99'

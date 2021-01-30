@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SenPuSi HUB USB C   6-EN-1  Concentrador con HDMI 4K  2 USB 3.0  USB-C  Carga de PD  TF  SD  Adaptador Compatible Macbook Pro 2018  Macbook Air Huawei P20  más USB Dispositivos Tipo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPYLHC1/?tag=tolees-21'
 descuento: '16.67'
 average: '29.99'

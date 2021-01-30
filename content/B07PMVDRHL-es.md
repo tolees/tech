@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Altavoz Bluetooth Luz de Nocturna Careslong lámpara de cabecera portátil sensible al tacto de 7 colores regulable  lámpara de con despertador reproductor de MP3/radio FM/Despert de Música'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMVDRHL/?tag=tolees-21'
 descuento: '18.37'
 average: '21.389999999999997'

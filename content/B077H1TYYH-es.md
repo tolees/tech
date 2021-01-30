@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Acer KG1 KG251Q - Monitor Gaming de 24.5"  Full HD  LED  1ms  75Hz  FreeSync  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077H1TYYH/?tag=tolees-21'
 descuento: '20.66'
 average: '109.495'

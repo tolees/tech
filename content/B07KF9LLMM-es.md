@@ -16,6 +16,7 @@ comparePrice: 24.09 EUR
 prodname: 'GOZAR Scooter Eléctrico Motocicleta Bloqueo O Forma Antirrobo Bloqueo para Xiaomi Mijia M365 Es2 Scooter - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF9LLMM/?tag=tolees-21'
 descuento: '23.08'
 average: '18.53'

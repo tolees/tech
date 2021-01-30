@@ -16,6 +16,7 @@ comparePrice: 91.99 EUR
 prodname: 'G-Technology G-Drive Mobile USB-C - Disco Duro Portátil  1 TB  Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK212QD/?tag=tolees-21'
 descuento: '18.47'
 average: '75.0'

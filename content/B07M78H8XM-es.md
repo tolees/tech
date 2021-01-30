@@ -16,6 +16,7 @@ comparePrice: 2799.99 EUR
 prodname: 'MSI GS65 Stealth 8SG-031ES - Ordenador portátil Gaming Ultrafino 15.6" FullHD 144Hz Coffeelake i7-8750H  32GB RAM  512GB SSD  Nvidia RTX 2080 8GB  Windows 10 Advanced  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M78H8XM/?tag=tolees-21'
 descuento: '18.04'
 average: '2321.955'

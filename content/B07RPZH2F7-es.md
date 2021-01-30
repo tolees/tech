@@ -16,6 +16,7 @@ comparePrice: 373.0 EUR
 prodname: 'Godox AD200Pro Pocket Flash Portatil inalámbrico TTL con Cabeza Intercambiable  Speedlite/Bombilla Descubierta  GN52 GN60 1 / 8000s HSS 2.4G Wireless X System 200W para Nikon Sony Fujifilm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPZH2F7/?tag=tolees-21'
 descuento: '24.00'
 average: '343.16'

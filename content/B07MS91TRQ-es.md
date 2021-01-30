@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Sony WI-C600N - Auriculares Neckband inalámbricos  Bluetooth  Noise Cancelling con Inteligencia Artificial de una pulsación  AINC   Modo Sonido Ambiente para no perderte ningún Sonido Esencial  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS91TRQ/?tag=tolees-21'
 descuento: '18.73'
 average: '102.39428571428572'

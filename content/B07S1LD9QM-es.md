@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Mesa de Cama para Ordenador portátil  Plegable  portátil  con Ranura para Taza  Soporte para portátil  Bandeja de Desayuno para sofá  Cama  terraza  balcón  jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1LD9QM/?tag=tolees-21'
 descuento: '24.99'
 average: '44.5'

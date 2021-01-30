@@ -16,6 +16,7 @@ comparePrice: 1129.0 EUR
 prodname: 'LG gram 14Z90N-V-AR50B - Ordenador portátil ultraligero de 14" FullHD IPS  Intel Core i5-1035G7  8GB RAM  256GB SSD  Windows 10 Home  Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861WJ6WN/?tag=tolees-21'
 descuento: '15.06'
 average: '938.5649999999999'

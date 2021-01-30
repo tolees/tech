@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Powerbeats Pro - Auriculares intraurales inalámbricos - Chip Apple H1  Bluetooth de Clase 1  9 horas de sonido ininterrumpido  resistentes al sudor - Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4LWQF3/?tag=tolees-21'
 descuento: '20.02'
 average: '191.5857142857143'

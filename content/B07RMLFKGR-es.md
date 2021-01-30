@@ -16,6 +16,7 @@ comparePrice: 534.6 EUR
 prodname: 'Kenwood DNX5190DABS - Navegador GPS  17 1 cm/6 75"  Pantalla táctil TFT Fija  2 1 kg   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLFKGR/?tag=tolees-21'
 descuento: '17.36'
 average: '441.82'

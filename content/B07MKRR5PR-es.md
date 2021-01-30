@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'OMRON RS3 Intelli IT - Tensiómetro de muñeca con conectividad Bluetooth para uso doméstico o externo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKRR5PR/?tag=tolees-21'
 descuento: '20.00'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Gigaset GL390 - teléfono móvil para Mayores con Teclas Grandes - botón SOS 3 Llamadas directas - Máxima sencillez y Visibilidad.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKFJSZH/?tag=tolees-21'
 descuento: '18.82'
 average: '34.9'

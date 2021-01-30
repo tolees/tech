@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Winnes Reloj Inteligente Niño  Reloj Smartwatch Niños Niña GPS Soporte GPS + LBS de Doble Posicionamiento Geo-Cerca/intercomunicador de Voz Reloj Phone para niño  M05 Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081R77RMT/?tag=tolees-21'
 descuento: '16.67'
 average: '29.99'

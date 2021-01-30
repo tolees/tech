@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TIANSE Filamento de PLA para la impresora 3D / Pluma 3d  1 kg 1 75 mm Cian '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5CVXJV/?tag=tolees-21'
 descuento: '17.11'
 average: '16.57'

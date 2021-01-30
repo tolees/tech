@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Altavoz Bluetooth  portátil ajustable 7 colores  sonido estéreo de 360 °  con 12 horas de reproducción  funciona con teléfonos móviles  tabletas  ordenadores portátiles y ordenadores de sobremesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNVDZWS/?tag=tolees-21'
 descuento: '24.15'
 average: '21.99'

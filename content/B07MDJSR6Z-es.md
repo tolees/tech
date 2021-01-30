@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Aftershokz Trekz Air - Auriculares de conducción ósea inalámbricos Open-Ear  Orejas Libres  con Estuche de Transporte  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDJSR6Z/?tag=tolees-21'
 descuento: '20.00'
 average: '103.95666666666666'

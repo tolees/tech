@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'NGS Roller Coaster Blue - Altavoz portátil de 10W Compatible con Tecnología Bluetooth y True Wireless  USB/Micro SD-AUX IN   Resistente al Agua IPX6. Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085QMWP6F/?tag=tolees-21'
 descuento: '22.01'
 average: '19.49'

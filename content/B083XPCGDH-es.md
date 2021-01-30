@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'yobola Auriculares Bluetooth Inalámbrico  Bluetooth 5.0 Auriculares 56H Reproducción 3D Stereo HD Cascos Inalámbricos  Binaural Call Auto Pairing  Auriculares Inalámbricos con Funda de Carga Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XPCGDH/?tag=tolees-21'
 descuento: '21.22'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 1699.99 EUR
 prodname: 'Canon EF 70-200mm f/2.8L USM - Objetivo para Canon  Distancia Focal 70-200mm  Apertura f/2.8-32  Zoom óptico 2.8X diámetro: 77mm  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005LESG/?tag=tolees-21'
 descuento: '19.88'
 average: '1175.975'

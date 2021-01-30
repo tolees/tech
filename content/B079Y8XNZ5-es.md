@@ -16,6 +16,7 @@ comparePrice: 66.6 EUR
 prodname: 'JBL Tune 600BTNC - Auriculares supraaurales inalámbricos con cancelación de ruido activa  batería de hasta 12 horas con BT y NC activo  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y8XNZ5/?tag=tolees-21'
 descuento: '19.53'
 average: '53.59'

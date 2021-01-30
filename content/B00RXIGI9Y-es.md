@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Sony XS-FB1330 - Altavoces coaxiales de 3 vías  240W  13 cm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RXIGI9Y/?tag=tolees-21'
 descuento: '19.66'
 average: '40.17'

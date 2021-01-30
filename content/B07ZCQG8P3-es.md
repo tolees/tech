@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'JE Cargador Inalámbrico Coche  Qi 15W Carga Rápida Cargador Inalámbrico Coche Soporte iPhone11/11Pro/11Pro Max/Xs/XR/XS/X/8/8 Plus  Galaxy Edge Note  Incluir Cargador de Coche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCQG8P3/?tag=tolees-21'
 descuento: '18.53'
 average: '23.189999999999998'

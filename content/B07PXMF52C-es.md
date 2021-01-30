@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anker PowerCore Slim 10000 Cargador portátil Ultrafino  batería Exterior compacta de 10000 mAh  tecnología de Carga de Gran Velocidad PowerIQ y VoltageBoost  para iPhone  Samsung Galaxy y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXMF52C/?tag=tolees-21'
 descuento: '20.01'
 average: '36.79'

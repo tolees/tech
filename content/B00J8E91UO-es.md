@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'HyperX Fury - Memoria RAM de 8 GB  1866 MHz DDR3 Non-ECC CL10 DIMM   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J8E91UO/?tag=tolees-21'
 descuento: '23.62'
 average: '42.015'

@@ -16,6 +16,7 @@ comparePrice: 25.7 EUR
 prodname: 'Canon CL-546XL Cartucho de tinta original Tricolor XL para Impresora de Inyeccion de tinta Pixma TS3150-TS3151-MX495-MG2450-MG2550-MG2550S-MG2555S-MG2950-MG3050-MG3051-MG3052-MG3053-IP2850'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ET01FF6/?tag=tolees-21'
 descuento: '16.46'
 average: '21.47'

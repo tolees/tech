@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'Brother DR2300 - Tambor para Impresora  Duración Estimada: 12.000 Páginas   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LTT16WC/?tag=tolees-21'
 descuento: '21.59'
 average: '71.95666666666666'

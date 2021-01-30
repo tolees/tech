@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'NGS Artica Pride- Auriculares de Diadema  estéreo  inalámbricos  Bluetooth  con micrófono  7 Horas de autonomía  Manos Libres  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8ZDYY1/?tag=tolees-21'
 descuento: '15.22'
 average: '14.37'

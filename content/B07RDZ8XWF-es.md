@@ -16,6 +16,7 @@ comparePrice: 1099.99 EUR
 prodname: 'ASUS ROG Strix G531GT-BQ020 - Ordenador portátil de 15.6" FullHD  Intel Core i7-9750H  8 GB RAM  256 GB SSD  GeForce GTX1650-4GB  Sin sistema operativo  negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDZ8XWF/?tag=tolees-21'
 descuento: '18.27'
 average: '892.2433333333333'

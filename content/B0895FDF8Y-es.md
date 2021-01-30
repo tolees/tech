@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LIDEDE Adaptador USB a HDMI  USB 3.0 a HDMI Full HD 1080P  Macho a Hembra  de vídeo y Audio multipantalla Compatible con Windows 7/8/10  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895FDF8Y/?tag=tolees-21'
 descuento: '16.60'
 average: '10.0'

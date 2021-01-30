@@ -16,6 +16,7 @@ comparePrice: 9.54 EUR
 prodname: 'Yosou Cable USB C [2Pack 2M] Cargador USB Tipo C Rápida Carga movil para Samsung Galaxy S9 S8 S10  Huawei P20 P10 P9  Sony  HTC  Pixel  gopro  OnePlus  LG  Xiaomi Redmi Note 7 Mi 9 Mi A2 Mi 8 etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRVL4KY/?tag=tolees-21'
 descuento: '16.25'
 average: '7.99'

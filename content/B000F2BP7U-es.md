@@ -16,6 +16,7 @@ comparePrice: 74.17 EUR
 prodname: '3M EM500GPS - Ratón óptico USB ergonómico  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000F2BP7U/?tag=tolees-21'
 descuento: '22.43'
 average: '57.53'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Teléfono Celular Bolsa con Clip de Cinturón  6.3" Bolsa Funda para Cinturón Vertical Clip Caso Bolsas de Cintura Hombre Teléfono Móvil para Cinturón para Deportes Senderismo Camping Aire Libre Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLX2NYS/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

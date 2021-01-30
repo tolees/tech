@@ -16,6 +16,7 @@ comparePrice: 1449.99 EUR
 prodname: 'MSI GS73 Stealth 8RD-006XES - Ordenador portátil gaming ultrafino 17.3" FullHD 120Hz Intel Core i7-8750H  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX 1050Ti 4GB  Sin sistema op.  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMCFMJK/?tag=tolees-21'
 descuento: '23.45'
 average: '1110'

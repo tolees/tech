@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Amarillo Club'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STXFZFL/?tag=tolees-21'
 descuento: '16.48'
 average: '156.69500000000002'

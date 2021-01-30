@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Cherry MX Speed  Rápido y altamente preciso  - [QWERTY Español]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FWCR922/?tag=tolees-21'
 descuento: '21.16'
 average: '91.24'

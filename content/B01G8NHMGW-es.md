@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'HP X900 Wired Mouse USB Óptico 1000DPI Ambidextro Negro - Ratón  Ambidextro  Óptico  USB  1000 dpi  70 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G8NHMGW/?tag=tolees-21'
 descuento: '22.70'
 average: '4.6664'

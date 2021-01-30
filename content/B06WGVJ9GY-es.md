@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Beyerdynamic MMX 300 - Auriculares de gamimg con micrófono  Segunda generación  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGVJ9GY/?tag=tolees-21'
 descuento: '18.06'
 average: '246.33333333333334'

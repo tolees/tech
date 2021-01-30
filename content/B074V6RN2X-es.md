@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'LEGO Mindstorms - EV3  Set de Robots de Juguete 5 en 1 Programables con Servo Motor y Bluetooth  Kit para Aprender a Programar para Niñas y Niños  31313 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074V6RN2X/?tag=tolees-21'
 descuento: '23.91'
 average: '292.61'

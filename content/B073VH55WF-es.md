@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'UGREEN 2X Adaptador Micro USB a Tipo C con OTG  Adaptador USB C Macho a Micro USB Hembra para Carga y Transferir Dato Rápido  Adaptador USB Tipo C con Llavero para Samsung Xiaomi Huawei MacBook Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VH55WF/?tag=tolees-21'
 descuento: '15.02'
 average: '8.24'

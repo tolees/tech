@@ -16,6 +16,7 @@ comparePrice: 10.65 EUR
 prodname: 'kinokoo Película de Vidrio Templado para Fuji X-T30/X-T20/X-T10/X-E3/X-A2/X30/XF10 Crystal Clear Film Protector de Pantalla Fujifilm X-T30 sin Burbujas/antiarañazos  Paquete de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLCD5S1/?tag=tolees-21'
 descuento: '15.59'
 average: '8.99'

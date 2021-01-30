@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Kingston KVR16LS11/8 Memoria RAM  PC3L-12800  CL11  204 Pin SODIMM  8GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CQ35HBQ/?tag=tolees-21'
 descuento: '17.91'
 average: '43.267142857142865'

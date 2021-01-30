@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Suunto 9 Baro Reloj deportivo GPS con batería de larga duración y medición del ritmo cardiaco en la muñeca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQRSQQT/?tag=tolees-21'
 descuento: '20.89'
 average: '552.98'

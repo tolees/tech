@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'D-Link DUB-M420 - Hub USB tipo C  4 en 1  adaptador USB C con HDMI 4K y 1080p  2 puertos USB3.0/USB2.0  1 puerto USB C para cargador hasta 60W y datos  sin instalación  compatible con Windows y Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQBDK4L/?tag=tolees-21'
 descuento: '17.74'
 average: '22.21'

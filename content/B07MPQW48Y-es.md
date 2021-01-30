@@ -16,6 +16,7 @@ comparePrice: 750.0 EUR
 prodname: 'Sony MHC-V82D - Sistema de Audio de Alta Potencia  Bluetooth  Sonido 360 y Graves a Larga Distancia  Luces de Fiesta 360  Control por Voz y Gestos  conectividad con Smartphones  HDMI   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPQW48Y/?tag=tolees-21'
 descuento: '20.13'
 average: '599.0'

@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Edifier Studio R1700BT – Sistema de Altavoces 2.0  66 Vatios  con Bluetooth y Mando a Distancia  color Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MXY21LW/?tag=tolees-21'
 descuento: '20.48'
 average: '120.52399999999999'

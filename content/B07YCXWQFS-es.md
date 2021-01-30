@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Anova Culinary | Sous Vide Precision Cooker  WiFi  | 1000 Vatios | Negro y Plata | App Anova incluida.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCXWQFS/?tag=tolees-21'
 descuento: '24.66'
 average: '165.0'

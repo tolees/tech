@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'TomTom GO Professional 620  Navegación Profesional para Vehículos Grandes  Tomtom Traffic para toda la vida a traves de Smartphone  6 pulgadas   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071V4ZHFZ/?tag=tolees-21'
 descuento: '20.00'
 average: '313.35499999999996'

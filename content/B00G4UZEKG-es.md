@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'SALCAR - 2.HDD SATA-SATA 3.0  SATA I II III  Bahía de Disco Duro 2nd ODD SSD Hard Drive Caddy 9 5mm Universal portátil de CD/DVD-ROM para Notebooks sustituye SuperDrive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G4UZEKG/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

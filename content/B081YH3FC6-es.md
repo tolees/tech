@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'CADA 1080P Full HD Autofocus Webcam  CA601 USB cámara con cubierta de cámara web  cámara web para videollamadas y grabación para escritorio o portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YH3FC6/?tag=tolees-21'
 descuento: '15.00'
 average: '37.205238095238094'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Newskill EOS - Ratón para Gaming RGB  10 perfiles configurables por el Usuario según el Modo de iluminación  Profesional  Sensor óptico 16000 dpi  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX45YD6/?tag=tolees-21'
 descuento: '20.02'
 average: '39.604'

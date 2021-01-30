@@ -16,6 +16,7 @@ comparePrice: 238.0 EUR
 prodname: 'Fitbit Ionic  El Smartwatch Deportivo  Carbón/Gris Cobalto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KBP5RV/?tag=tolees-21'
 descuento: '15.99'
 average: '199.6'

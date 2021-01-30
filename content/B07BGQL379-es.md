@@ -16,6 +16,7 @@ comparePrice: 15.29 EUR
 prodname: 'BUBOS 14-15.4 Pulgadas Funda para Laptop con asa Compatible con MacBook Pro/Surface Book Samsung Sony ASUS Acer Lenovo DELL Chromebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGQL379/?tag=tolees-21'
 descuento: '15.04'
 average: '12.99'

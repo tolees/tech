@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Funda para iPhone 11 Adsorcion Magnetica Carcasa 360 Grados Protección Case Estuche Doble Untre Delgada Vidrio Templado Marco Aluminio Anti Choque Metal Flip Cover'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTNHHY8/?tag=tolees-21'
 descuento: '23.17'
 average: '9.95'

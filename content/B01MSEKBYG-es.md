@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Sony XDRS41DR.EU8 - Radio portátil Digital  Dab/Dab+/FM  Altavoz  5 presintonías Digitales y 5 analógicas  Pantalla LCD  Temporizador  Adaptador CA  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSEKBYG/?tag=tolees-21'
 descuento: '23.33'
 average: '70.83'

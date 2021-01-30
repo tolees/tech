@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PRIXTON - Tocadiscos de Vinilos Vintage y Reproductor mp3 de Musica Mediante Bluetooth y USB  2 Altavoces Incorporados  Diseño de Maleta  Color Morado | VC410'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G76RDBH/?tag=tolees-21'
 descuento: '21.44'
 average: '54.95'

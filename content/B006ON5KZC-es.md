@@ -16,6 +16,7 @@ comparePrice: 90.03 EUR
 prodname: 'Corsair Mac Memory - Memoria para Apple Mac de 16 GB  2 x 8 GB  DDR3  SODIMM  1333 MHz  CL9  certificada por Apple   CMSA16GX3M2A1333C9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006ON5KZC/?tag=tolees-21'
 descuento: '17.25'
 average: '74.27333333333333'

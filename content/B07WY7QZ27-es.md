@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Impresora Multifuncional Canon PIXMA TS5350 Negra Wifi de inyección de tinta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WY7QZ27/?tag=tolees-21'
 descuento: '15.42'
 average: '66.82'

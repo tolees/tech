@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'LONOSUN Adaptador inalámbrico WiFi Dongle-USB 1200 Mbps  Plug and Play  no Requiere instalación de Controlador   Adaptador USB WiFi para PC/Computadora de Escritorio/portátil/Tableta con Antena Dual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJYT4RX/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

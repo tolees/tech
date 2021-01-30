@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'RockJam RJ549 - Piano de Teclado Eléctrico Portátil  de 49 Teclas con Fuente de Alimentación  Soporte para Partituras y Aplicación Simply Piano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8KF4LC/?tag=tolees-21'
 descuento: '15.56'
 average: '37.99'

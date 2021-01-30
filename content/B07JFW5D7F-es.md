@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Pihen USB C3.0 a Cable Micro-B  Cable de sincronización  Cable de Datos para Toshiba  Seagate  Samsung  WD  mi Pasaporte y más Disco Duro Externo.  2m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFW5D7F/?tag=tolees-21'
 descuento: '20.02'
 average: '6.87'

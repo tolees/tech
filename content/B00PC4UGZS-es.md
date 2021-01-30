@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Trust Yvi - Ratón óptico inalámbrico  Dream Catcher'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PC4UGZS/?tag=tolees-21'
 descuento: '17.32'
 average: '9.245000000000001'

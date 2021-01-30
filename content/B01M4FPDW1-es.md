@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'JARBO MLT-D101S Cartuchos de tóner Compatible para Samsung MLT-D101S Samsung ML-2160 ML-2164 ML-2165 ML-2165W ML-2168 SCX-3400 SCX-3405 SCX-3405W SCX-3400F SCX-3405F SCX-3405FW SF-760P  2 de Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4FPDW1/?tag=tolees-21'
 descuento: '19.36'
 average: '24.99'

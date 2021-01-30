@@ -16,6 +16,7 @@ comparePrice: 16.59 EUR
 prodname: 'Canon PG-510 Cartucho de tinta original Negro para Impresora de Inyeccion de tinta Pixma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001EX5BJ2/?tag=tolees-21'
 descuento: '15.67'
 average: '13.99'

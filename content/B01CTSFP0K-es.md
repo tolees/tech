@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Arvok 13 13 3 Pulgadas Funda Protectora para Portátiles/Impermeable Ordenador Portátil Caso/Neopreno del Portátil Bolsa para MacBook Air/Pro/Acer/ASUS/DELL/Lenovo/HP/Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CTSFP0K/?tag=tolees-21'
 descuento: '20.02'
 average: '7.59'

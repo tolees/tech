@@ -16,6 +16,7 @@ comparePrice: 153.82 EUR
 prodname: 'MONITOR HP 23.8 1 VH240A LED IPS   FHD 1920X1080 A 60 HZ   16:9   250CD/M2   5MS   178º/178º   NEGRO   VGA -HDMI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728BGCWT/?tag=tolees-21'
 descuento: '16.14'
 average: '133.94'

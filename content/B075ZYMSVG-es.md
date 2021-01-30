@@ -16,6 +16,7 @@ comparePrice: 200.55 EUR
 prodname: 'InnJoo LeapBook A100 - Portátil  Intel CherryTrail-T3 Quad core Z8350 hasta 1.84Ghz  2 GB Memoria RAM  32 GB Memoria ROM  Licencia Windows 10 Oficial  Rojo  14"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZYMSVG/?tag=tolees-21'
 descuento: '16.89'
 average: '151.56'

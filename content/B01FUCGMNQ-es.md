@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Panasonic HC-V180 - Videocámara de 50x  O.I.S de 5 Ejes  F1.8 - F4.2  Zoom 28 mm - 174 mm  HD  SD  Time - Lapse  Zoom 90x Inteligente  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUCGMNQ/?tag=tolees-21'
 descuento: '15.38'
 average: '167.97500000000002'

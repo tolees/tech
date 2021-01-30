@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Fujifilm Instax Mini Monochrome - Película Instantánea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZJ004O/?tag=tolees-21'
 descuento: '22.47'
 average: '8.52'

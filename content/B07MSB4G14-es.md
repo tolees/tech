@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'VGUARD [4 Unidades] Protector de Pantalla para Xiaomi Mi 9  Cristal Vidrio Templado Premium para Xiaomi Mi 9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSB4G14/?tag=tolees-21'
 descuento: '16.81'
 average: '4.95'

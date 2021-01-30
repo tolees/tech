@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Auriculares In Ear  Zorara Auriculares Estéreo 9D Aislante de Ruido con Micrófono y Control de Volumen Auriculares con Cable de 3.5 mm Compatible con Más Teléfonos Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWY4PJ1/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

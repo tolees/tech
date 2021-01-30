@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SoundPEATS Auriculares inalámbricos  Auriculares TWS Bluetooth 5.0 In-Ear Cascos Inalámbricos Bluetooth con Caja de Carga Portátil Sonido de Alta Definición  Control Tactil  IPX5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBDGSYC/?tag=tolees-21'
 descuento: '20.01'
 average: '30.975714285714286'

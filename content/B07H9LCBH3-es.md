@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Apple Funda Leather Folio  para el iPhone XS  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9LCBH3/?tag=tolees-21'
 descuento: '18.95'
 average: '96.45'

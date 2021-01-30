@@ -16,6 +16,7 @@ comparePrice: 449.9 EUR
 prodname: 'Panasonic Lumix G DC-GX880KECD - Cámara Evil de 16 MP  M4/3  Pantalla táctil abatible  tecnología DFD  WiFi  4K  tamaño Bolsillo  - Kit con Objetivo Lumix Vario 12-32mm / F3.5-5.6  Color Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X91TKTP/?tag=tolees-21'
 descuento: '18.38'
 average: '375.9642857142858'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Rankie Adaptador DVI a HDMI  1080P  Clavija HDTV Convertidor  2 Unidades  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZMVGTA2/?tag=tolees-21'
 descuento: '15.02'
 average: '5.94'

@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'TECLAST Ordenador Portátil F7S 14.1" FullHD  8GB RAM 128GB ROM  Intel Apollow Lake 3350  Intel UHD Graphics 500  Windows 10  Espacio Gris  Teclado QWERTY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R2W2RP/?tag=tolees-21'
 descuento: '16.67'
 average: '299.99'

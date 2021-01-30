@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'Brother MFC-J6530DW - Impresora multifunción de Tinta  Ethernet  6 8 cm  250 Hojas A3  22/20 ppm Mono/Color   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5LAWWJ/?tag=tolees-21'
 descuento: '16.60'
 average: '190.98'

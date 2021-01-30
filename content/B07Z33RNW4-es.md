@@ -16,6 +16,7 @@ comparePrice: 65.34 EUR
 prodname: 'Roccat Kone Pure Ultra - Ratón ergonómico para Juegos  16000 dpi Sensor óptico RGB Iluminación Ultra Light  Negro  ROC-11-730'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z33RNW4/?tag=tolees-21'
 descuento: '15.78'
 average: '55.03'

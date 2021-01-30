@@ -16,6 +16,7 @@ comparePrice: 184.45 EUR
 prodname: 'HP LaserJet M203dn - Impresora láser  PCL 5c  PCL 6  PDF 1.5  PWG  1200 x 1200 DPI  A4   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQ21XLK/?tag=tolees-21'
 descuento: '18.93'
 average: '149.70857142857145'

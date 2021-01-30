@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'INQMEGAPRO 1080P PTZ Dome Cámara de Vigilancia Inalámbrica IP66 Impermeable Cámara de Seguridad  Colorido Visión Nocturna  Audio Bidireccional  Detection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DRGFTYX/?tag=tolees-21'
 descuento: '20.00'
 average: '71.99'

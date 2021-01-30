@@ -16,6 +16,7 @@ comparePrice: 34.8 EUR
 prodname: 'MKTOSASA - Original cubitera con Potente Altavoz de 5W de Potencia. En Resistente Material de Acabado translúcido  con conexión Bluetooth® 5.0 e iluminación LED Inteligente - 24.5x29x23.5 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LL6ZPP/?tag=tolees-21'
 descuento: '19.97'
 average: '27.85'

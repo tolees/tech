@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Adaptador Cargador Nuevo Compatible para Portátil Toshiba Satellite L50-B L50-C 19v 3 42a 5.5mm * 2.5mm // Protección contra Cortocircuitos  sobrecorriente y sobrecalentamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C4PBVW9/?tag=tolees-21'
 descuento: '23.08'
 average: '11.5'

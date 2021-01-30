@@ -16,6 +16,7 @@ comparePrice: 95.35 EUR
 prodname: 'Seagate BarraCuda  2TB  Disco duro interno  HDD  2 5 in  SATA 6 Gb/s  5400 r.p.m.  caché de 128 MB para ordenador portátil y PC  ST2000LM015 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXRWWB6/?tag=tolees-21'
 descuento: '17.29'
 average: '77.6425'

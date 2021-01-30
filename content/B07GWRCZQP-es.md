@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'JBL Charge 4 - Altavoz inalámbrico portátil Impermeable con Bluetooth  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWRCZQP/?tag=tolees-21'
 descuento: '15.00'
 average: '106.25'

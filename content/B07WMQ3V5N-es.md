@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Fintie Funda con Teclado Español Ñ para Huawei MediaPad T3 10 - Carcasa SlimShell con Soporte y Teclado Español Bluetooth Inalámbrico Magnético Desmontable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMQ3V5N/?tag=tolees-21'
 descuento: '17.02'
 average: '38.99'

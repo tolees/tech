@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Protector de Pantalla para Dragon Touch K10 Tablet 10.1 pulgadas  3 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJWBPYX/?tag=tolees-21'
 descuento: '23.09'
 average: '12.99'

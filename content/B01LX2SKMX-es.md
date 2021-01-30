@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Belkin Valet Charger - Batería externa de 6700 mAh para Apple Watch 5/4/3/2/1 + iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8  7  6  5  con certificación Mfi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX2SKMX/?tag=tolees-21'
 descuento: '16.65'
 average: '81.89'

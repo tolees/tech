@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Spigen USB Tipo C Cargador Coche  Essential [Rápido 5.4A] Built-in Tipo C Cargador Coche Carga Rapida Cargador Coche Tipo C para Galaxy S9/S8/Note 8  LG G6  OnePlus 5  Huawei P20/P10/Mate 10 - F25QC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018MRYW5G/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

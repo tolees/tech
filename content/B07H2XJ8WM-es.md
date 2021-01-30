@@ -16,6 +16,7 @@ comparePrice: 3149.0 EUR
 prodname: 'Nikon Z6 - Cámara sin Espejos de 24.5 MP  Pantalla LCD de 3.2"  Sensor CMOS  resolución 4K/UHD  WiFi  Bluetooth  Negro - Kit Cuerpo con Objetivo Zoom NIKKOR Z 24–70mm f/4 S y Adaptador de Montura FTZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2XJ8WM/?tag=tolees-21'
 descuento: '21.82'
 average: '2480.895'

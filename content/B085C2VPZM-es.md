@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'nonda Hub USB C 4 en 1  3 Puertos USB de 3.0 y 1 Puerto de Carga USB-C  Hub Thunderbolt 3 a USB 3.0  Compatible con MacBook Pro 2019 / Air 2018  DELL XPS  Surface Go  iPad Pro 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085C2VPZM/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

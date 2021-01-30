@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Mini Ventilador USB  COO Mini USB Ventilador de Mesa Recargable con Luz de Flash  Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NFYQKY/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

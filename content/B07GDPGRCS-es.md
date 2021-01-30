@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Cargador de Coche batería Adaptador 19.5V 4.62A 90W DELL Latitude XPS Precision Vostro Adamo Studio Inspiron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDPGRCS/?tag=tolees-21'
 descuento: '21.71'
 average: '18.0'

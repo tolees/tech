@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Logitech G305 Lightspeed Ratón Gaming Inalámbrico  Captor Hero 12 000 dpi  Ultra-Ligero  Batería de 250h  Memoría Integrada  Compatible con PC/Mac  Versión Alemana  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGVGMLD/?tag=tolees-21'
 descuento: '23.37'
 average: '47.85'

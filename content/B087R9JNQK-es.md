@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OOWOLF HD Webcam  Cámara Web Full HD 1080P con Micrófono Reductor de Ruido USB 2.0 30 fps Plug and Play  para Skype  Estudios  Conferencias  Grabación  Juegos  Lecciones en Líne  Transmisión en Vivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087R9JNQK/?tag=tolees-21'
 descuento: '15.01'
 average: '25.49'

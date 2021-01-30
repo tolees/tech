@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'ALASTA® Espejo | Espejo Grandes de Pared | 120x80 | Brasil | Espejo LED con Luminoso LED | Altavoz Bluetooth - Seleccione Tipo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL4V8QH/?tag=tolees-21'
 descuento: '23.04'
 average: '284.0'

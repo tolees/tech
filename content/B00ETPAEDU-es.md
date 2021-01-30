@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Logitech G602 Ratón Inalámbrico  2 500 dpi  11 Botones Programables  Batería de 250h  Memoría Integada  Compatible con PC/Mac  Versión Alemana Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ETPAEDU/?tag=tolees-21'
 descuento: '20.00'
 average: '57.4275'

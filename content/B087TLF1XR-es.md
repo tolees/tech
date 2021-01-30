@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'ZXSL Cámara Web de 1080p  con micrófono  para transmisión de videoconferencia de Conferencia，Cámara de Video portátil Adecuada para PC  computadora portátil  computadora de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TLF1XR/?tag=tolees-21'
 descuento: '15.03'
 average: '33.94230769230769'

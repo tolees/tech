@@ -16,6 +16,7 @@ comparePrice: 41.29 EUR
 prodname: 'KIYEDAM Auriculares inalámbricos Bluetooth en el oído con cancelación de ruido CVC8.0  3500 mAh  funda de carga 140H tiempo de reproducción  auriculares inalámbricos para gimnasio  correr  deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HZTBN3/?tag=tolees-21'
 descuento: '17.15'
 average: '34.21'

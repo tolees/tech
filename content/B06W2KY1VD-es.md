@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'AUKEY Soporte Coche Móvil Magnetico  2 Pack  Salpicadero Soporte Teléfono Coche para iPhone 7 / 6s / 6 / 5s / 5  Samsung Note 8 / S8  Echo Dot  LG y Dispositivo GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W2KY1VD/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

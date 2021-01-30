@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'Crucial CT4G4SFS8266 Memoria RAM de 4GB  DDR4  2666 MT/s  PC4-21300  SODIMM  260-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HP78DZ5/?tag=tolees-21'
 descuento: '22.23'
 average: '17.397272727272725'

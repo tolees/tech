@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Suunto 9 Baro Reloj Multideporte GPS sin cinturón de frecuencia cardíaca  Unisex Adulto  Blanco  24.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5QCF39/?tag=tolees-21'
 descuento: '23.37'
 average: '459.0'

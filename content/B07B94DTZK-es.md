@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: '19V 3.16A 60W Adaptador de CA / cargador de computadora portátil para Samsung AD-6019R 0335A1960 CPA09-004A R580 R540E R540 R440I R480I R430I NP270E4E NP270E5E con cable de alimentación de 3 patas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94DTZK/?tag=tolees-21'
 descuento: '15.80'
 average: '15.99'

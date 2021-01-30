@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'HOMCOM Piano Infantil 37 Teclas Teclado Electrónico Juego de Piano Regalo Juguete Educativo para Niños +3 Años con Micrófono Taburete Luces y 22 Canciones USB/MP3 Karaoke Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMT1MPM/?tag=tolees-21'
 descuento: '20.01'
 average: '31.19'

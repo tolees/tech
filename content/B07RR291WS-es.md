@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Beeasy Funda Samsung Galaxy S9 Plus Antigolpes Rígida Robusta Antigravedad Carcasa S9+ Resistente al Impacto Militar Duradera Blindada Fuerte de Seguridad al Aire Libre Case Cover Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR291WS/?tag=tolees-21'
 descuento: '20.84'
 average: '18.99'

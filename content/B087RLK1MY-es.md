@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares Inalambricos 5.0 Auriculares Bluetooth In Ear con Microfono Cascos Hi-Fi Estéreo CVC8.0 Reducción Ruido 20H Tiempo Juego IPX5 Impermeable para iPhone Xiaomi Huawei etc Smartphone.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RLK1MY/?tag=tolees-21'
 descuento: '15.01'
 average: '24.656666666666666'

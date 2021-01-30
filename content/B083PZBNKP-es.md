@@ -16,6 +16,7 @@ comparePrice: 457.99 EUR
 prodname: 'HyperX Fury  HX432C16FB3K2/64  Memoria RAM 64GB 3200MHz DDR4 CL16 DIMM  Kit 2x32GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PZBNKP/?tag=tolees-21'
 descuento: '17.89'
 average: '376.04'

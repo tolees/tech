@@ -16,6 +16,7 @@ comparePrice: 19.92 EUR
 prodname: 'Sony SRSXB01R - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT4D9QW/?tag=tolees-21'
 descuento: '19.73'
 average: '15.7475'

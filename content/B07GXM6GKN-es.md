@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'EdwayBuy Smartwatch  Amazfit Bip Relojes Deportivos con GPS Bluetooth IP68 a Prueba de Agua Pantalla Táctil Monitor de Frecuencia Cardíaca 45 Días Batería Ultra Larga Vida Versión Global Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXM6GKN/?tag=tolees-21'
 descuento: '23.32'
 average: '71.2225'

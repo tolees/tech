@@ -16,6 +16,7 @@ comparePrice: 707.0 EUR
 prodname: 'Sigma 24 mm/F 1.4 DG HSM Art - Objetivo para Nikon  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00THPJ4R4/?tag=tolees-21'
 descuento: '17.36'
 average: '657.1771428571429'

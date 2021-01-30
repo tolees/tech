@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Lenovo S340 -14IIL- Ordenador portátil de 14" FullHD  Intel Core i5-1035G1  8GB de RAM  512GB SSD  Intel UHD Graphics  Windows10  Gris-Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084N5GR3M/?tag=tolees-21'
 descuento: '15.02'
 average: '628.5949999999999'

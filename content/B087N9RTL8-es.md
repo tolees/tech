@@ -16,6 +16,7 @@ comparePrice: 59.27 EUR
 prodname: 'Disco Duro Externo Disco Duro portátil de 1TB 2TB Slim Compatible con PC  computadora portátil y Mac  2TB  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087N9RTL8/?tag=tolees-21'
 descuento: '15.66'
 average: '49.99'

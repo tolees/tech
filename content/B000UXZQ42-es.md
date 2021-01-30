@@ -16,6 +16,7 @@ comparePrice: 69.5 EUR
 prodname: 'Logitech ClearChat Comfort USB Binaural Negro - Auriculares con micrófono  Binaural  Negro  Alámbrico  20-20000 Hz  100-10000 Hz  USB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UXZQ42/?tag=tolees-21'
 descuento: '16.56'
 average: '57.99'

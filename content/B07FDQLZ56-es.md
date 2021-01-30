@@ -16,6 +16,7 @@ comparePrice: 147.9 EUR
 prodname: 'Polaroid Snap Touch 2.0 - Cámara digital portátil instantánea de 13 Mp  Bluetooth  pantalla táctil LCD  tecnología Zink sin tinta y nueva aplicación  copias adhesivas de 5 x 7.6 cm  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDQLZ56/?tag=tolees-21'
 descuento: '24.84'
 average: '139.41500000000002'

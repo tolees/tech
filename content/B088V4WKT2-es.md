@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'HP Chromebook x360 12b-ca0000ns - Ordenador portátil de 12" HD  Intel Celeron N4000  4 GB RAM  64 GB eMMC  Intel UHD 600  Chrome OS  gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088V4WKT2/?tag=tolees-21'
 descuento: '22.22'
 average: '360.0'

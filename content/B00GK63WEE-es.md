@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Linksys LGS108-EU - Unmanaged Switch Gigabit de Escritorio para Empresas  8 Puertos  optimización del Rendimiento  Ahorro de energía  Plug and Play   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GK63WEE/?tag=tolees-21'
 descuento: '22.84'
 average: '27.0'

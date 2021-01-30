@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Veetop Cable Ethernet Cat 8 de Red con Conectores rj45 Oro para 40 Gigabit Internet LAN Plano 0.3m x 2 Piezas Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLZ2GZG/?tag=tolees-21'
 descuento: '20.02'
 average: '15.98'

@@ -16,6 +16,7 @@ comparePrice: 21.69 EUR
 prodname: 'Tronsmart RGB Alfombrilla de Ratón Gaming XXL  800 x 300 x 4.0mm  Spire-10 Modos Efectos de Luces Superficie Texturizada Suave y Cómoda con Base de Goma Antideslizante para Gamers PC y Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK3RX2B/?tag=tolees-21'
 descuento: '20.01'
 average: '17.35'

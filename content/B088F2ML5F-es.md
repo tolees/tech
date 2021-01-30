@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'QHOHQ Funda para Xiaomi Redmi 9 con 2 Unidades Protector de Pantalla  Carcasa Anti-Choques y Anti- Arañazos - Cristal Templado Membrana - [9H Dureza] - [Anti-Arañazos]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088F2ML5F/?tag=tolees-21'
 descuento: '18.20'
 average: '7.3580000000000005'

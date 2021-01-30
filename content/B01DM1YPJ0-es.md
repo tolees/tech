@@ -16,6 +16,7 @@ comparePrice: 91.0 EUR
 prodname: 'Woxter SO26-057 Big Bass 500 R - Altavoces 2.1  150W  Bluetooth  Leds  Subwoofer de Madera  Conexión de Auriculares y Jack De 3.5mm para Conectar Dispositivos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DM1YPJ0/?tag=tolees-21'
 descuento: '17.59'
 average: '69.82499999999999'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'UGREEN Hub USB 3.0 con 3 USB Puertos y Gigabit Ethernet 1000 para Xiaomi Mi Box S Mi Box 3  Tarjeta de Red LAN RJ45 para Acer Aspire Toshiba Satellite Pro  CHUWI AeroBook  HP 15  Lenovo ideapad 330'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9YBCBT/?tag=tolees-21'
 descuento: '15.01'
 average: '22.24'

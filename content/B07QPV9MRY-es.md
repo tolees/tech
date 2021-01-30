@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'JETech Protector de Pantalla Compatible con Apple iPad 7  10 2 Pulgadas  2019 Modelo  7ª Generación   Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPV9MRY/?tag=tolees-21'
 descuento: '15.02'
 average: '7.898888888888889'

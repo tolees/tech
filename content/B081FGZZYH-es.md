@@ -16,6 +16,7 @@ comparePrice: 327.9 EUR
 prodname: 'HP Color Laserjet Pro MFP M282NW Impresora Láser  8.5 x 14 Pulgadas  USB  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081FGZZYH/?tag=tolees-21'
 descuento: '17.29'
 average: '271.2'

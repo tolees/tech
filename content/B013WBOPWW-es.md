@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Sostenedor para télefono móvil  Breett soporte universal de clip para el teléfono móvil Soporte perezoso flexible brazos largos para iPhone 6 plus/6/5s/5/4S/4  dispositivos de GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013WBOPWW/?tag=tolees-21'
 descuento: '17.01'
 average: '9.95'

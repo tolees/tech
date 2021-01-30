@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'AtailorBird Funda para PC Portátil 13-14 Pulgadas Bolsa de Ordenador Resistente e Impermeable Protectora para Laptop Multifuncional para MacBook Air MacBook Pro - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMTTW5P/?tag=tolees-21'
 descuento: '20.02'
 average: '14.41857142857143'

@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Metronic 495421 - Adaptadores PLC con enchufe extra  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BYKMT1/?tag=tolees-21'
 descuento: '20.84'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Panasonic KX-TG1611 - Teléfono fijo inalámbrico  LCD  identificador de llamadas  agenda de 50 números  tecla de navegación  alarma  reloj   color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005GGQWS2/?tag=tolees-21'
 descuento: '16.49'
 average: '18.62833333333333'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'AOC 27B1H Monitor IPS de 27" con Pantalla FHD  1920 x 1080  60 Hz  No VESA  VGA  HDMI  Sin Bordes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1L3XGL/?tag=tolees-21'
 descuento: '20.67'
 average: '130.676'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luxtude Bateria Externa para iPhone 5000mAh  Powerbank Slim para iPhone  Bateria Portatil Movil Ultrafino con Lightning Cable Incorporado  Apple MFI Certificado  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Q7K7VF/?tag=tolees-21'
 descuento: '20.01'
 average: '31.99'

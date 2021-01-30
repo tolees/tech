@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Sabrent Caja Ultra Slim USB 3.0 a 2.5 Pulgadas SATA Disco Duro Externo de Aluminio [Optimizado para SSD  Soporte UASP SATA III] Plata  EC-UM30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MQ97QGE/?tag=tolees-21'
 descuento: '22.75'
 average: '8.49'

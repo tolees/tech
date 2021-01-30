@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'Reebok Cinta de Correr SL8.0 - Motor 3HP DC - Velocidad máxima: 20 km/h - 18 Niveles de inclinación - 90% Montada - Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRW32Q5/?tag=tolees-21'
 descuento: '20.02'
 average: '1119.0'

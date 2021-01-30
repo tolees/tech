@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Tatkraft Vanessa Mesa de Ordenador Portátil con Ruedas y Soporte para Ratón Escritorio Laptop Altura Ajustable Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773SV4RQ/?tag=tolees-21'
 descuento: '17.65'
 average: '139.99'

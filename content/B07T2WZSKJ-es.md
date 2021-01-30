@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Camara Vigilancia WiFi Interior Bagotte Cámara IP WiFi 1080P 360° Control Remoto Visión Nocturna 2-Vías Audio Bidireccional Detección Movimiento & Alarma Email iOS/Android/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2WZSKJ/?tag=tolees-21'
 descuento: '21.74'
 average: '33.99'

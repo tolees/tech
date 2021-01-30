@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos 4.2 Auriculares Bluetooth In-Ear Auriculares estéreo In-Ear Manos Libres con micrófono para teléfono Inteligente y portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKJ5XN2/?tag=tolees-21'
 descuento: '23.09'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Anker Cargador USB de Pared 36W  7.2A  con 4 Puertos PowerIQ Cargador de Red Universal 110-240V para iPhone  iPad  Samsung  BQ  Xiaomi  Motorola  Nokia y más.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MVHKTZQ/?tag=tolees-21'
 descuento: '20.01'
 average: '14.99'

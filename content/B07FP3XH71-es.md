@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'ANTIEE BTY-L77 Batería para Ordenador portátil for MSI GT72 2QD GT72S 6QF GT80 2QE Series WT72 MS-1781 MS-1783 2PE-022CN 2QD-1019XCN 2QD-292XCN - 11.1V 83.25Wh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP3XH71/?tag=tolees-21'
 descuento: '15.65'
 average: '59.88'

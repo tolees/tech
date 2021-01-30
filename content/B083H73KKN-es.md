@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'Lenovo ThinkPad E595 - Ordenador portátil 15.6" FullHD  AMD Ryzen 5 3500U  16GB RAM  512GB SSD  AMD Radeon Vega 8 Graphics  Windows 10 Pro   Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083H73KKN/?tag=tolees-21'
 descuento: '16.67'
 average: '760.8233333333334'

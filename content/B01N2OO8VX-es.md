@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Brother MFCJ5730DW - Impresora multifunción tinta color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2OO8VX/?tag=tolees-21'
 descuento: '17.74'
 average: '200.685'

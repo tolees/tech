@@ -16,6 +16,7 @@ comparePrice: 1599.0 EUR
 prodname: 'Nuevo Apple iPad Pro  de 11 Pulgadas  con Wi-Fi + Cellular y 1 TB  - Plata  2.ª generación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863SCGNT/?tag=tolees-21'
 descuento: '15.57'
 average: '1433.9033333333334'

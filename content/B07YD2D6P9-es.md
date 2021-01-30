@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Xiaomi Mi 9 Lite – Smartphone con Pantalla AMOLED FullHD de 6 39"  Qualcomm SD710 2.2GHz  Triple cámara de 48 + 8 + 2 MP y Selfie de 32MP  NFC  4030 mAh  6GB+64GB  Color Gris ónice [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD2D6P9/?tag=tolees-21'
 descuento: '24.77'
 average: '246.13285714285715'

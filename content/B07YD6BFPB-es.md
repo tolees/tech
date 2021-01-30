@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'GPC Image 20 Pack PGI-570XL CLI-571XL Cartucho de Tinta Compatible para Canon PGI-570 CLI-571 XL para Canon Pixma MG5750 TS5053 TS5050 MG6850 MG5751 TS5051 TS6051 MG6852 TS5055 MG5753 TS6050 MG6851'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD6BFPB/?tag=tolees-21'
 descuento: '23.11'
 average: '17.756666666666664'

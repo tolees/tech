@@ -16,6 +16,7 @@ comparePrice: 749.99 EUR
 prodname: 'ASUS ZenBook UX410UA-GV426 - Portátil de 14" FullHD  Intel Core i7-8550U  8GB RAM  128GB SSD + 1TB HDD  Sin sistema operativo  Gris Cuartzo - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6NQCRL/?tag=tolees-21'
 descuento: '20.00'
 average: '599.99'

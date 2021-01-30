@@ -16,6 +16,7 @@ comparePrice: 15.67 EUR
 prodname: 'DR2300 Tambor Compatible con Brother Tambor DR 2300  1 Negro  para impresora Brother DCP-L2500D DCP- L2520DW DCP-L2540DN Hl-L2360DN MFC-L2700DW HL-L 2300 D DCP L2540 MFC-L 2701 MFC-L 2701 DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJRY8BC/?tag=tolees-21'
 descuento: '17.36'
 average: '13.219999999999999'

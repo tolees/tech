@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'AOC G2590VXQ - Monitor de 24.5" 75 Hz Full HD  1920 x 1080 Pixeles  Altavoces  1 ms  FreeSync  Flickerfree   Shadow Control  Displayport  HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S36XWV/?tag=tolees-21'
 descuento: '19.37'
 average: '129.0'

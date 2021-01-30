@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'PRIXTON Windows Cleaner Spire BT200 - Robot Limpiacristales Automático con Programas de Limpieza Inteligentes  Limpiador de Ventanas con Control Remoto Desde Mando o móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1FHJM/?tag=tolees-21'
 descuento: '21.42'
 average: '197.2125'

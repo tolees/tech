@@ -16,6 +16,7 @@ comparePrice: 299 EUR
 prodname: 'Lenovo V510-15Ikb Ordenador portátil 15 6" HD  Intel Celeron N3550  4GB RAM  500GB HDD  Windows 10  Negro. Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC8ZNGX/?tag=tolees-21'
 descuento: '22.51'
 average: '246.11'

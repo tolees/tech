@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Auriculares XIAOMI IN-Ear Headphone Pro 2 Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD12G9Q/?tag=tolees-21'
 descuento: '20.16'
 average: '19.88'

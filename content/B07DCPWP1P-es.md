@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Garmin Fenix 5 Banda  TOPsic Silicona Reemplazo Correa con 2pzs Destornilladores para Garmin Fenix 5 / Forunner 935 Smart Watch  13.5cm-22.5cm  no Adapta a Fenix 5x  5s  amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCPWP1P/?tag=tolees-21'
 descuento: '18.20'
 average: '8.99'

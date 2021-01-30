@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Logitech M535 Ratón Inalámbrico  Bluetooth  Sensor Láser Óptico 1000 DPI  Batería 10 Meses  PC/Mac/Portátil   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013SLCFPU/?tag=tolees-21'
 descuento: '17.62'
 average: '33.6788888888889'

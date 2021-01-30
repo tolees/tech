@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Altavoz Mosqueton iWotto Bluetooth  Speaker Hook iWotto Bluetooth  Altavoz Portatil Blanco  White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Y59CTK/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

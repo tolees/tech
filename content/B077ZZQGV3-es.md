@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Corsair MM100 - Alfombrilla de ratón para Juego  Superficie paño  Tela  Tamaño Medio  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZZQGV3/?tag=tolees-21'
 descuento: '19.02'
 average: '8.09'

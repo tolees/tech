@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Coener T9 Ratón Inalámbrico Delgado Portatil Silencioso Ratón con Receptor Nano 1600 dpi Mango Ergonómico Wireless Mouse para Macbook  PC  Ordenador Portáti  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM1JWPJ/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

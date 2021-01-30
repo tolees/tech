@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Toshiba X300 4TB 4000GB Serial ATA III - Disco Duro  Serial ATA III  Unidad de Disco Duro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XOSKH4/?tag=tolees-21'
 descuento: '22.90'
 average: '121.87875000000001'

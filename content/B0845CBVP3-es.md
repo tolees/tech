@@ -16,6 +16,7 @@ comparePrice: 649.99 EUR
 prodname: 'Acer A515-54 - Ordenador portátil de 15.6" FullHD  Intel Core i5-8265U  8GB de RAM  1TB HDD + 128GB SSD  Intel HD Graphics 620  Windows 10 Home  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0845CBVP3/?tag=tolees-21'
 descuento: '15.38'
 average: '537.49'

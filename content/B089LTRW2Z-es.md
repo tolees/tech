@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Fanlce Repetidor WiFi  Banda Dual Amplificador de WiFi Inteligente Sin Interrupción 300Mbps 2.4GHz Inalámbrico con WPS Button Puerto Fast Ethernet  WPS  Modo Ap Punto Acceso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LTRW2Z/?tag=tolees-21'
 descuento: '17.76'
 average: '15.39'

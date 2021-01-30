@@ -16,6 +16,7 @@ comparePrice: 1269.0 EUR
 prodname: 'Apple iPad Pro  11 pulgadas  Wi-Fi  512GB  - Gris Espacial  Modelo Anterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2RP83T/?tag=tolees-21'
 descuento: '17.65'
 average: '1095.4'

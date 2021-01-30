@@ -16,6 +16,7 @@ comparePrice: 249 EUR
 prodname: 'Travis Touch - Traductor Inteligente de Bolsillo a 105 Idiomas Con Pantalla Táctil  4G LTE  Hotspot y Carga Inalámbrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB1RYG7/?tag=tolees-21'
 descuento: '20.08'
 average: '199'

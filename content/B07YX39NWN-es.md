@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'IVSO Español Funda con Teclado Español Ñ para Samsung Galaxy Tab A T590/T595 10.5 2018  Slim Funda con 7 Colores Retroiluminado Removible Wireless Teclado con Ñ  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YX39NWN/?tag=tolees-21'
 descuento: '15.00'
 average: '32.29'

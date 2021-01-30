@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Sony Stativ VCT-SGR1 tripode Cámara de acción 3 Pata s  Negro - Trípode  Cámara de acción  0 997 kg  3 Pata s   10 6 cm  Negro  Universal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLFZ1WH/?tag=tolees-21'
 descuento: '19.67'
 average: '96.39'

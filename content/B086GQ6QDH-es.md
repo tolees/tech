@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'FSKE 33W 19V 1.75A Cargador de computadora portátil con Fuente de alimentación para ASUS Zenbook UX303 X553M X540S  UX31 X200 X200C X200CA X200M R540 R540S Notebook Adaptador de CA EUR 4.0 * 1.35 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086GQ6QDH/?tag=tolees-21'
 descuento: '22.74'
 average: '16.99'

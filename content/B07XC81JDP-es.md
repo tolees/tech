@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'SEBSON Báscula de Grasa Corporal Bluetooth con App  digital bascula baño analisis corporal  11 valores  - peso  grasa  agua  muscular  IMC  etc - Balanza Personal 180kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC81JDP/?tag=tolees-21'
 descuento: '19.57'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'GC Pro Cargador para Portátil DELL XPS 13 9343 9350 9360 Inspiron 15 3552 3567 5368 5551 5567 Ordenador Adaptador de Corriente  19.5V 2.31A 45W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDL24NS/?tag=tolees-21'
 descuento: '24.31'
 average: '21.95'

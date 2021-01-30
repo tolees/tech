@@ -16,6 +16,7 @@ comparePrice: 14 EUR
 prodname: 'DigitalTech® - Mando Universal para televisores Samsung Smart 3D. Compatible con más de 340 Modelos de mandos Samsung.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D61JTPG/?tag=tolees-21'
 descuento: '19.43'
 average: '11.28'

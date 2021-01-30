@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rytaki Lector de Tarjetas XQD SD USB 3.0  Lector de Tarjetas 4 en 1 XQD Lector de Tarjetas de Memoria Compatible con Sony G/M Series  Lexar 2933x / 1400x Tarjeta USB Mark XQD  Tarjeta SD/SDHC/SDXC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087J8B8MQ/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

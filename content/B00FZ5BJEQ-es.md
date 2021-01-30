@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'K-EDGE 353003001 Garmin Stem Mount Adjustable  Adultos Unisex  Negro Anodize  ESTÁNDAR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FZ5BJEQ/?tag=tolees-21'
 descuento: '16.67'
 average: '37.31'

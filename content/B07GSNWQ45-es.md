@@ -16,6 +16,7 @@ comparePrice: 540.99 EUR
 prodname: 'Brother MFC-L3770CDW - Impresora multifunción  Wifi  USB 2.0  512 MB  800 MHz  24 ppm  430 W  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSNWQ45/?tag=tolees-21'
 descuento: '17.30'
 average: '379.99'

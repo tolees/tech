@@ -16,6 +16,7 @@ comparePrice: 9.36 EUR
 prodname: 'Flycoo bisagra Gancho Hebilla de la Cerradura de la Aleta Plegable Conjunto de Bucle para XIAOMI M365 electrónico Vespa Piezas de Repuesto Parte accesoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J68X3XV/?tag=tolees-21'
 descuento: '19.98'
 average: '7.49'

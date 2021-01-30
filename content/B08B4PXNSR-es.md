@@ -16,6 +16,7 @@ comparePrice: 28.28 EUR
 prodname: 'Capturadora de vídeo HDMI  USB 2.0 Tarjeta de Captura de Audio con Salida de Bucle HDMI 1080P Portátil HD Video Grabador Dispositivo Video Live Grabación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B4PXNSR/?tag=tolees-21'
 descuento: '17.68'
 average: '23.28'

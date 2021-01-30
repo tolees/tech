@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TECKNET Ratón con Cable Cable USB de 1 5 m  6 Botones  hasta 2000 dpi  Superficie Antihuellas para Computadora Portátil  PC  Computadora Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BC3TYDM/?tag=tolees-21'
 descuento: '21.56'
 average: '10.19'

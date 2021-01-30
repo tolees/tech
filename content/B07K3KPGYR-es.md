@@ -16,6 +16,7 @@ comparePrice: 226.9 EUR
 prodname: 'Harman Kardon Onyx 5 - Altavoz portátil Bluetooth 4.2  Conector Jack y batería Recargable  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3KPGYR/?tag=tolees-21'
 descuento: '21.82'
 average: '134.4561111111111'

@@ -16,6 +16,7 @@ comparePrice: 277.99 EUR
 prodname: 'Epson WFDS310 - Escáner de Color móvil A4  Capacidad de USB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSW0E02/?tag=tolees-21'
 descuento: '24.64'
 average: '209.49'

@@ -16,6 +16,7 @@ comparePrice: 15.55 EUR
 prodname: 'Zambrero 550 551 Reemplazo para Canon PGI-550XL CLI-551XL Cartuchos de tinta Compatible con Canon PIXMA IP7250 IP8750 MX925 MG5650 IX6850 MX725 MG5550 MG6350 MG6450 MX920  5 Colores  15 Paquetes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HD2FVY/?tag=tolees-21'
 descuento: '15.05'
 average: '14.770000000000001'

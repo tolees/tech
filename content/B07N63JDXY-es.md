@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'AP35 Mini PC Desktop License Windows 10 Multimedia Office Computer 4GB Ram LPDDR4 64GB eMMC Intel Apollo Lake Celeron Processor J3355  HDD&SD Tarjeta expandible  Dual HDMI 4K Display Dual WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N63JDXY/?tag=tolees-21'
 descuento: '18.76'
 average: '129.9'

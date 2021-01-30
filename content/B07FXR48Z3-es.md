@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Corsair Strafe RGB MK.2 MX Silent- Teclado mecánico para Juegos  retroiluminación LED RGB  Cherry MX Silent  QWERTY Español   CH-9104113-ES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXR48Z3/?tag=tolees-21'
 descuento: '24.88'
 average: '139.29333333333332'

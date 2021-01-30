@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Tenda PW201A+PW200 Adaptadores de comunicación por línea eléctrica  AV200 Wifi  PLC  Powerline Alta Velocidad 300Mbps  Puerto Ethernet '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0789FZHX6/?tag=tolees-21'
 descuento: '18.87'
 average: '37.67'

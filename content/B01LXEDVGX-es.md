@@ -16,6 +16,7 @@ comparePrice: 1599.99 EUR
 prodname: 'HP Spectre 13-v101ns - Ordenador portátil de 13.3"  Intel Core i7-7500U  8 GB de RAM  SDD de 256 GB  Intel HD Graphics 620  Windows 10 Home 64  Plateado ceniza oscuro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXEDVGX/?tag=tolees-21'
 descuento: '15.50'
 average: '1352.05'

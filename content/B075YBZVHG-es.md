@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'MIFA Altavoz Bluetooth  Tecnología TWS y DSP  IP45 Impermeable y Anti-Polvo con Entrada el Audio de 3 5 mm  10W con 2200 mAh Batería Li-Ion  Tarjetas Micro SD y Micrófono Incorporado  Graffiti'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YBZVHG/?tag=tolees-21'
 descuento: '23.09'
 average: '24.656666666666666'

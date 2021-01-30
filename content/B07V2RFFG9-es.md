@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Haehne 12" LCD Writing Tablet  Tableta Gráfica  Tablets de Escritura LCD  Portátil Tableta de Dibujo Adecuada para el Hogar  Escuela  Oficina  Pintura  Mini Pizarra para Niños Que aprenden  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2RFFG9/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

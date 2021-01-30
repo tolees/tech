@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Ordenador PORTATIL 15DA0172NS INN4000 4GB 128GB SSD 15 6" NO OW10H Azul Lumiere HP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ8JN6M/?tag=tolees-21'
 descuento: '21.98'
 average: '242.26'

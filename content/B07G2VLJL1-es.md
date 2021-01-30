@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Edifier W820BT Auriculares Bluetooth - Auricular Inalámbrico Plegable con Batería de 80 Horas de duración - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2VLJL1/?tag=tolees-21'
 descuento: '23.48'
 average: '38.25'

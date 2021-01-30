@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Sunstech PXRC5CDWD - Giradiscos  Bluetooth  CD  Cassette  Encoding  USB  SD  MMC  AM  FM  color madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IQ0MPBC/?tag=tolees-21'
 descuento: '23.03'
 average: '123.14'

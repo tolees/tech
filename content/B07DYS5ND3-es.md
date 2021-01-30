@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Acer KG1 KG241P LED Display 61 cm  24"  Full HD Plana Negro - Monitor  61 cm  24"   1920 x 1080 Pixeles  Full HD  LED  1 ms  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYS5ND3/?tag=tolees-21'
 descuento: '16.67'
 average: '152.40750000000003'

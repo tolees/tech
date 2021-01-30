@@ -16,6 +16,7 @@ comparePrice: 5.6 EUR
 prodname: 'actecom USB 2.0 Cable de Impresora escáner Cable de Alta Velocidad 480 Mbps USB a a B Macho para HP  Canon  Lexmark  Epson  DELL  Xerox  Samsung etc  1 5 m  Color Negro USB 2.0 Título'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSXRWG6/?tag=tolees-21'
 descuento: '25.00'
 average: '4.2'

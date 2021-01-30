@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'E EGOWAY - Batería de Repuesto para Apple MacBook Pro A1278 A1322  10 95 V  6000 mAh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBYM6M7/?tag=tolees-21'
 descuento: '15.00'
 average: '64.59'

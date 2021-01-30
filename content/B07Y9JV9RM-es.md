@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Candy Rapidò ROW 4966DWHC/1-S - Lavasecadora 9+6Kgs  WiFi & Bluetooth  motor inverter  panel control en escotilla  función vapor  7 programas rápidos  1400rpm  51dBA  Clase AAA  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9JV9RM/?tag=tolees-21'
 descuento: '20.04'
 average: '438.99'

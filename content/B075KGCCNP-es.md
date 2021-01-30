@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Skyee [2 Unidades Soporte Movil Coche Magnético Pegar en la Salpicadero  Pared  Universal Soporte Teléfono iman con 4 Piezas Placa Metálicas Soporte para Llaves  GPS  Smartphone  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KGCCNP/?tag=tolees-21'
 descuento: '22.86'
 average: '9.87888888888889'

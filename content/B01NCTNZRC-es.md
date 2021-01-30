@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Edifier R1280DB Altavoces de Estante con Bluetooth - Entrada óptica - Monitores de Estudio Inalámbricos - Altavoz de Campo Cercano de 4 pulgadas - 42w RMS - Grano de madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCTNZRC/?tag=tolees-21'
 descuento: '20.16'
 average: '108.32333333333332'

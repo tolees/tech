@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Panasonic KX-TGB210 - Teléfono fijo inalámbrico  LCD  identificador de llamadas  agenda de 50 números  tecla de navegación  alarma  reloj   Blanco  TGB21 Solo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L7QQBM2/?tag=tolees-21'
 descuento: '21.61'
 average: '19.155'

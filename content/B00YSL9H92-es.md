@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'ASUS RP-N12 - Repetidor/Punto Acceso inalámbrico N300  Antenas externas  WPS  Puerto LAN   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YSL9H92/?tag=tolees-21'
 descuento: '21.44'
 average: '17.096'

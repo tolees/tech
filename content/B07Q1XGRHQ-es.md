@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'TPLGO 24 Tarjetas NFC para the Legend of Zelda Breath of The Wild Botw Switch Wii U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1XGRHQ/?tag=tolees-21'
 descuento: '15.03'
 average: '16.56'

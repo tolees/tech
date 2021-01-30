@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'AmazonBasics - Ratón con 3 botones y cable USB  5V - 100mA  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005EJH6RW/?tag=tolees-21'
 descuento: '18.13'
 average: '6.903333333333334'

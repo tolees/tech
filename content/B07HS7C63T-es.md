@@ -16,6 +16,7 @@ comparePrice: 259.9 EUR
 prodname: 'ASUS ROG Strix Z390-E Gaming LGA1151  Intel 8th and 9th Gen  ATX DDR4 DP HDMI M.2 USB 3.1 Gen2 802.11 AC Wi-Fi Gaming Motherboard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS7C63T/?tag=tolees-21'
 descuento: '16.16'
 average: '230.9'

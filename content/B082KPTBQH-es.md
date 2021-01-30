@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'PiAEK WiFi Adaptador USB 1200Mbps Antena WiFi USB AC 5dBi Dual Band 5.8G/2.4G Receptor WiFi USB para PC Laptop para Windows 10/7/8/XP/Vista Linux Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KPTBQH/?tag=tolees-21'
 descuento: '18.19'
 average: '17.99'

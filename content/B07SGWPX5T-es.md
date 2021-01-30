@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Cocoda Soporte Tablet  Universal Soportes Movil iPad Mesa con Ventosa Grande Más Fuerte  Porta Sujeta Tablets para Baño/Pared/Cocina/Oficina/Coche  Compatible con iPhone iPad Samsung Galaxy Tab y Más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGWPX5T/?tag=tolees-21'
 descuento: '19.24'
 average: '20.389999999999997'

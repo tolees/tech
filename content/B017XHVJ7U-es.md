@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Rii Rk105 RGB Teclado y Ratón Retroiluminado con Cables  Pack de teclado y ratón para gamers para PC Gamers  Oficina  Diseño Gráfico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XHVJ7U/?tag=tolees-21'
 descuento: '15.01'
 average: '17.089999999999996'

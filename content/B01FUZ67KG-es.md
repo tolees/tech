@@ -16,6 +16,7 @@ comparePrice: 650.86 EUR
 prodname: 'Panasonic DMR-BWT850EC - Grabador y Reproductor de BLU-Ray  Full HD  3D  Escaldo 4K  Wi-Fi Incorporado  Disco Duro de 1 TB  Graba Tus Programas Favoritos  TV Anywhere  Grabación Remota  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUZ67KG/?tag=tolees-21'
 descuento: '21.58'
 average: '510.4'

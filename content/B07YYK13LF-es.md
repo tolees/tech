@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SanDisk Ultra Dual Drive Go para Dispositivos con USB Type-C  64 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYK13LF/?tag=tolees-21'
 descuento: '20.01'
 average: '16.439999999999998'

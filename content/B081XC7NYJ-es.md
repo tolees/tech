@@ -16,6 +16,7 @@ comparePrice: 236.99 EUR
 prodname: 'GOODTEL Ordenador Portátil de 14 Pulgadas hasta 2.0GHz  4G RAM 64G ROM Quad-Core Windows 10  1080p IPS  M.2 Slot WiFi USB 38Wh  HD Video Port  Adecuado para Trabajo Pelicula Entretenimiento  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081XC7NYJ/?tag=tolees-21'
 descuento: '15.00'
 average: '219.5471428571429'

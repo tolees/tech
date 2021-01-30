@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'ivencase Funda Xiaomi Redmi Note 8 + Cristal Templado  para Xiaomi Redmi Note 8 Funda 3 in 1 Rígida PC Protective Anti-rasguños Case Cover Caso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP4L7M6/?tag=tolees-21'
 descuento: '16.68'
 average: '10.323333333333334'

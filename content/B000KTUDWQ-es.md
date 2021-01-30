@@ -16,6 +16,7 @@ comparePrice: 18.19 EUR
 prodname: 'Canon consumible papel fotográfico plus semi-brillante SG-201 20x25 cm 20 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KTUDWQ/?tag=tolees-21'
 descuento: '22.54'
 average: '14.09'

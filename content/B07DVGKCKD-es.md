@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Toshiba MG06ACA10TE - Disco Duro  3.5"  10000 GB  7200 RPM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVGKCKD/?tag=tolees-21'
 descuento: '19.50'
 average: '321.99'

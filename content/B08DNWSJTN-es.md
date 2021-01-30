@@ -16,6 +16,7 @@ comparePrice: 13.04 EUR
 prodname: 'RIIMUHIR-Protector de Pantalla para Xiaomi Mi Band 5 [4 Unidades]  [Fácil de Instalar] TPU Protector de Pantalla para Xiaomi Mi Band 5  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNWSJTN/?tag=tolees-21'
 descuento: '23.39'
 average: '11.515'

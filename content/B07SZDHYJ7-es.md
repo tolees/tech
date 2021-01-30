@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Xuanbeier Funda Carcasa Compatible con Samsung Galaxy Tab A 10.1 Pulgadas SM - T510 T515 2019 Versión Ultra Delgada con Función de Soporte  Z-Star '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZDHYJ7/?tag=tolees-21'
 descuento: '18.56'
 average: '12.99'

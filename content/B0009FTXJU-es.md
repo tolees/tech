@@ -16,6 +16,7 @@ comparePrice: 36.7 EUR
 prodname: 'Canon EW-73B - Parasol para Objetivos Canon EF-S  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009FTXJU/?tag=tolees-21'
 descuento: '15.56'
 average: '30.99'

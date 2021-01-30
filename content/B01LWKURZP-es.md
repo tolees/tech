@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Raking soporte tablet  soporte de trípode para tableta portátil plegable de altura ajustable giratorio para iPad/iPad Mini y otras tabletas de 7-10 Pulgadas  con bolsa de transporte y linterna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWKURZP/?tag=tolees-21'
 descuento: '21.90'
 average: '28.89'

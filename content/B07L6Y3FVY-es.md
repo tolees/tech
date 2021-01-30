@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'K&F Concept - Soporte Estabilizador de Smartphone para Grabar Video con Asa Compatible con Micrófono  LED Luz  Apple iPhone Samsung y Todos los teléfonos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6Y3FVY/?tag=tolees-21'
 descuento: '24.11'
 average: '25.17'

@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'Monitor portátil TFT LED de 10.1 pulgadas 1366 x 768 con HDMI VGA BNC Puerto AV Construido en Altavoz para cámara de copia de seguridad para automóvil PC TV cámara Raspberry Pi Ventana 7 8 10 OS  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLV7SXD/?tag=tolees-21'
 descuento: '15.74'
 average: '74.98'

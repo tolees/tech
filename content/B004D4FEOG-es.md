@@ -16,6 +16,7 @@ comparePrice: 11.78 EUR
 prodname: 'GO Inks E-711 – Juego de 4 cartuchos de tinta para impresora negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004D4FEOG/?tag=tolees-21'
 descuento: '23.60'
 average: '9.0'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Denon DHT-S316 Altavoz soundbar Negro Inalámbrico y alámbrico - Barra de Sonido  DTS Dolby Digital  Inalámbrico y alámbrico  A2DP  0 3 W  900 mm  82 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HN2HMYB/?tag=tolees-21'
 descuento: '21.86'
 average: '215.31199999999998'

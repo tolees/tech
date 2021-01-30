@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'HETP Pulsera de Actividad  Reloj Inteligente con Pulsómetro y Presión Arterial Relojes Deportivos GPS Impermeable IP67 Monitor de Ritmo Cardíaco Actividad Pulsera Mujer Hombre Reloj Fitness Podómetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2XLJ9X/?tag=tolees-21'
 descuento: '20.01'
 average: '30.34'

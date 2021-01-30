@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'HP 300 - Teclado y ratón inalámbricos  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4QPC6R/?tag=tolees-21'
 descuento: '22.32'
 average: '21.79'

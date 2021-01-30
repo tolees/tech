@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'ANEWSIR [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 8 Cristal Templado Xiaomi Redmi Note 8 [9H Dureza] [Alta Definicion]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5B2KRD/?tag=tolees-21'
 descuento: '17.36'
 average: '4.95'

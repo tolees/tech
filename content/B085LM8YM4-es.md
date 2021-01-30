@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'MKTOSASA - Altavoz bailarín de Original diseño Que Baila al Ritmo de la música. Conectividad Bluetooth® 5.0  con 3W de Potencia y función Manos Libres - 5.1x8.4x5.1 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LM8YM4/?tag=tolees-21'
 descuento: '20.11'
 average: '15.1'

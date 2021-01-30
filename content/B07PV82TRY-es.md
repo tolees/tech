@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'ZIPRINT 5 Multipack Toner Compatible Samsung CLT-404C Samsung CLT-K404S CLT-C404S CLT-M404S CLT-Y404S para Samsung Xpress C430  Xpress C430W  Xpress C480  Xpress C480W  Xpress C480FN  Xpress C480FW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV82TRY/?tag=tolees-21'
 descuento: '16.16'
 average: '83.0'

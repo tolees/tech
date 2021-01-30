@@ -16,6 +16,7 @@ comparePrice: 22.45 EUR
 prodname: 'Xiaomi Mi Bluetooth Headphone Blanco - Auriculares Bluetooth Xiaomi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758G1HZM/?tag=tolees-21'
 descuento: '15.41'
 average: '18.99'

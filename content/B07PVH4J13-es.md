@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Hanmir Ventilador de Mano con Bluetooth Mini Ventilador USB Ventilador Portátil de 3 Velocidad  para Oficina  Hogar  Viajes  Ejercicio al Aire Libre  etc.- Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVH4J13/?tag=tolees-21'
 descuento: '22.12'
 average: '9.183333333333334'

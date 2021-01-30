@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'DOQAUS Auriculares Diadema  [3 Modo EQ] Alta fidelidad Estéreo Cascos Inalámbrico Bluetooth con Micrófono Incorporado y Doble Controlador de 40 mm  para Móviles/Xiaomi/iPhone/PC/TV  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881GKQF7/?tag=tolees-21'
 descuento: '17.25'
 average: '23.99'

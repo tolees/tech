@@ -16,6 +16,7 @@ comparePrice: 29.89 EUR
 prodname: 'Ushining Teléfono Móvil Libre  Teléfono Móvil para Personas Mayores Teclas Grandes con Tapa Pantalla de 1 8 Pulgadas  Dual SIM  Cámara  Bluetooth  Reproductor MP3  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBMVVZH/?tag=tolees-21'
 descuento: '23.42'
 average: '22.89'

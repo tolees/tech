@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Cocoda Soporte Portatil  8 Niveles Adjustable Ventilado Refrigeracion Laptop Stand Plegable  Aluminio Soporte Ordenador Portátil Mesa para MacBook Pro Air  PC  Lenovo  HP y Otros 10.2-15.6” Portatiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WZXDT4/?tag=tolees-21'
 descuento: '15.01'
 average: '14.39'

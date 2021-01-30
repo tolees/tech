@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auriculares Inalámbricos 132H Bajo Profundo 6D Estéreo CVC 8.0  IPX8 Impermeable in-Ear Sport Auriculares con Digital Display Estuche de Carga 3500mAH  Control Tactil  Mic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824YYNQF/?tag=tolees-21'
 descuento: '17.50'
 average: '32.99'

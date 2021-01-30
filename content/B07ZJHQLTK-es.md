@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio Templado  [Reforzar la versión con Cuatro Esquinas] Cristal Silicona Ultra Suave Flexible TPU Gel Carcasa Protección Caso para Xiaomi Mi A3 - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJHQLTK/?tag=tolees-21'
 descuento: '24.02'
 average: '6.2925'

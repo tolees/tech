@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth 5.1 Auriculares inalámbricos IPx7 a Prueba de Sudor Auriculares estéreo 3D a Prueba de Agua Auriculares Deportivos táctiles compatibles con Android/Airpods/iPhone/Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GX71VL8/?tag=tolees-21'
 descuento: '15.00'
 average: '33.99'

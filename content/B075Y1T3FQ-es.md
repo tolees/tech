@@ -16,6 +16,7 @@ comparePrice: 29.19 EUR
 prodname: 'Tinta Original CaNON Multipack Rp-108 Tinta Color + Papel Fotografico Imprime hasta 108 Impresiones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Y1T3FQ/?tag=tolees-21'
 descuento: '15.59'
 average: '24.64'

@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Pioneer X-PM12 - Microcadena  38 W  estéreo  Bluetooth  USB frontal   color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFM145U/?tag=tolees-21'
 descuento: '18.84'
 average: '146.59666666666666'

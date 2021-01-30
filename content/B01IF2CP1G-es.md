@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'KLIM™ Cool – Refrigerador para Ordenador Portátil – Ventilador de Alto Rendimiento para Una Rápida Refrigeración  Aspiradora de Aire USB  Rojo [Nueva Versión 2020 ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IF2CP1G/?tag=tolees-21'
 descuento: '16.68'
 average: '20.97'

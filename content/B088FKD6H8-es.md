@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'TMEZON Webcam 1080P  cámara Web USB  cámara de computadora HD para Skype  FaceTime  Hangouts  PC/Mac/Laptop/MacBook/Tablet con micrófono Incorporado Enfoque Automático y Reducción de Ruido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21'
 descuento: '24.25'
 average: '24.99'

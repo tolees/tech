@@ -16,6 +16,7 @@ comparePrice: 47.8 EUR
 prodname: 'MKTOSASA - Auriculares Bluetooth® Doble función: Auriculares+Altavoces. Panel de Control Integrado  función Manos Libres  Radio FM y Ranura para Tarjetas Micro SD de hasta 32GB - 18x18x8.5 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LLX8KK/?tag=tolees-21'
 descuento: '19.98'
 average: '38.25'

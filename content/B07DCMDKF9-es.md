@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Barra de Sonido Bluetooth 4.2 de 32 Pulgadas  Sistema Bass réflex  Sonido Virtual Envolvente  Cable óptico Incluido  tecnología DSP  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCMDKF9/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

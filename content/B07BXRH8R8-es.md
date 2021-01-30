@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'MSI Pro 16T 7M-030XEU - Ordenador de sobremesa Todo en uno táctil de 15.6" HD  Intel Celeron3865U  4GB RAM  500GB HDD  Intel Graphics HD610  sin Sistema operativo  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXRH8R8/?tag=tolees-21'
 descuento: '24.59'
 average: '346.59'

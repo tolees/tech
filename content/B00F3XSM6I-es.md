@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Netgear JGS524PE-100EUS - Smart Switch gestionable  24 Puertos Gigabit PoE y Montaje en Bastidor  alimentación a través de Ethernet de 12 Puertos y 100 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F3XSM6I/?tag=tolees-21'
 descuento: '17.73'
 average: '241.51142857142852'

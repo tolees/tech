@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'WOWDSGN Proyector Giratorio de Luz Estelar de Música con Bluetooth y Temporizador  Control Remoto  para decoración  fiesta para niños  regalo para bebés.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VKPH25/?tag=tolees-21'
 descuento: '17.78'
 average: '36.99'

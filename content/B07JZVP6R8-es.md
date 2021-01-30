@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Sigma F1.4 DC DN Contemporary - Objetivo 56 mm para Sony E  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZVP6R8/?tag=tolees-21'
 descuento: '15.52'
 average: '404.65'

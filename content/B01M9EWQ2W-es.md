@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Logitech G Saitek Flight - Dispositivo de Juego de Simulación con Aceleración y Palanca X52 Hotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9EWQ2W/?tag=tolees-21'
 descuento: '24.05'
 average: '120.72142857142858'

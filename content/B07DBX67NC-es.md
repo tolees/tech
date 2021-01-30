@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Anker Power Wave Ladepad  10 W Cargador inalámbrico  Qi de Certificado  Compatible con iPhone XS Max/XR/XS/X/8/8 Plus  10 W rápido Cargas  Samsung Galaxy S9/S9 +/S8/S8 + y Muchos más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21'
 descuento: '19.39'
 average: '15.55'

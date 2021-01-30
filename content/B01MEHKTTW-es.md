@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'Tecnoware Sistema de alimentación ininterrumpida SAI Era Plus 750 con 2 Salidas Schuko  Potencia de 750 VA  Autonomía de Hasta 40 Min con Módem Router WiFi o 10 Min con PC   Estabilización AVR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MEHKTTW/?tag=tolees-21'
 descuento: '21.14'
 average: '89.9'

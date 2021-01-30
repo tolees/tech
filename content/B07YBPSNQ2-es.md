@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HP Slimline 290-a0022ns - Ordenador torre de sobremesa  AMD Dual-Core A4   4GB RAM  256GB SSD  AMD Radeon R3  Sin sistema operativo   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBPSNQ2/?tag=tolees-21'
 descuento: '15.00'
 average: '169.99'

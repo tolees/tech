@@ -16,6 +16,7 @@ comparePrice: 382.79 EUR
 prodname: 'HP Color Laserjet Pro M454dw - Impresora Láser Monocromo  A4 Negro  hasta 27 ppm  de 750 a 4000 Páginas al Mes  1 USB 2.0   1 USB Host  1 Red Gigabit Ethernet 10/100/1000T  Wi-Fi  Una cara '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8DXNBS/?tag=tolees-21'
 descuento: '23.16'
 average: '285.142'

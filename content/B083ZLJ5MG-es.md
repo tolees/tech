@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'SanDisk Memoria Flash Ultra USB 3.0 de 512 GB  hasta 130 MB/s velocidad de lectura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZLJ5MG/?tag=tolees-21'
 descuento: '21.23'
 average: '83.49'

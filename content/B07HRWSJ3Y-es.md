@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'ASUS TUF Z390-PRO GAMING - Placa base Gaming ATX Intel de 8a y 9a gen. LGA1151 con OptiMem II  iluminación Aura Sync RGB  DDR4 4266+ MHz  M.2 a 32 Gbps  Intel Optane memory y USB 3.1 Gen. 2 nativo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRWSJ3Y/?tag=tolees-21'
 descuento: '16.35'
 average: '152.61666666666667'

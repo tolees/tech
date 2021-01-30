@@ -16,6 +16,7 @@ comparePrice: 294.99 EUR
 prodname: 'Epson LQ-350 - Impresora matricial  24 Pines  USB 2.0  200-240 V   Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AC3S0ES/?tag=tolees-21'
 descuento: '21.55'
 average: '226.83'

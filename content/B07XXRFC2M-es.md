@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Simpeak Funda Compatible con Xiaomi Redmi Note 8 Pro+ Cristal Vidrio Templado  TPU Silicona Ultra Fino Protector de Pantalla y Case de Cristal  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXRFC2M/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

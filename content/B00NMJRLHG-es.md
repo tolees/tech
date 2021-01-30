@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Devolo 9370 - Adaptador de comunicación por línea eléctrica  Gigabit Ethernet  dLAN 1200+  128 bits AES   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NMJRLHG/?tag=tolees-21'
 descuento: '23.74'
 average: '45.68'

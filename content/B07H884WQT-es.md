@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'ACEPC Mini PC Windows 10 Pro Intel Atom x5-Z8350 Procesador 4GB Ram 64GB EMMC Admite 2.5 Pulgadas SATA SSD/HDMI y VGA Salida Doble/Banda Dual Wi-Fi/Bluetooth 4.2 / 4K Micro computadora de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H884WQT/?tag=tolees-21'
 descuento: '15.00'
 average: '127.10399999999998'

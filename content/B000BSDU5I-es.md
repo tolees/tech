@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Suunto MC-2 G Mirror Compass Brújula Profesional  Unisex  Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BSDU5I/?tag=tolees-21'
 descuento: '16.01'
 average: '58.49'

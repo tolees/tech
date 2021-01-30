@@ -16,6 +16,7 @@ comparePrice: 41.39 EUR
 prodname: 'Mesa para ordenador portátil  bandeja para servir el desayuno  soporte para portátil  mesa estable portátil  bandeja para cama con ranura para tazas  mesa multifunción  60 x 40 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YWBMR9/?tag=tolees-21'
 descuento: '15.68'
 average: '34.9'

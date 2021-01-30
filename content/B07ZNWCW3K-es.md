@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'OneOdio FUSION A7 Auricurales Circumaurales Inalámbricos de Cable 3.5mm  Diadema Cerrado 90°Ajustable Auricurales Plegables Bluetooth con Micrófono de 40mm y Sonido Profesional de DJ  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNWCW3K/?tag=tolees-21'
 descuento: '15.00'
 average: '38.24'

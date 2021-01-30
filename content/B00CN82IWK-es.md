@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Sony HVLF20M - Flash con Zapata para DSC-RX1; DSC-HX50; DSC-HX50V; SLT-A58K; SLT-A58Y  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CN82IWK/?tag=tolees-21'
 descuento: '19.45'
 average: '144.99'

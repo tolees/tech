@@ -16,6 +16,7 @@ comparePrice: 26.62 EUR
 prodname: 'mCover - Carcasa rígida para portátil DELL Chromebook 11 3189 Series 2017 11.6"  NO Compatible con 210-ACDU / 3120 / 3180 Series   DELL Chromebook 11" Model 3189  2 en 1   Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QDNTLT/?tag=tolees-21'
 descuento: '21.15'
 average: '20.99'

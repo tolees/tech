@@ -16,6 +16,7 @@ comparePrice: 7.89 EUR
 prodname: 'Funda Protectora Antigolpes Ultra fino para 11" 13" 15" 15 6" Ordenador Portátil Laptop Tableta MacBook Pro Air - para 15 6"  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FLZSZ5A/?tag=tolees-21'
 descuento: '17.74'
 average: '5.5925'

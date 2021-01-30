@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Inateck Carcasa Disco Duro 2.5" USB 3.0  Caja Externa con UASP de HDD SSD SATA I/II/III de 7mm 9.5mm de Altura  No Requiere Herramientas  FE2005'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW4T69A/?tag=tolees-21'
 descuento: '23.09'
 average: '10.561428571428573'

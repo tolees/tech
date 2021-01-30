@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Sony SRS-XB41B  Altavoz Portátil Bluetooth  Extra Bass  Modo Sonido Live  Party Booster  Luces de Fiesta Llamativas  Conector USB para Cargar Smartphone   Inalámbrico y Alámbrico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTKKD6/?tag=tolees-21'
 descuento: '20.00'
 average: '117.16454545454548'

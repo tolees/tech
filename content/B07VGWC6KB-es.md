@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Fintie Funda para Tablet YOTOPT 10.1"  YUNTAB K107 / K17 de 10.1"  KXD 10"  BEISTA 10"  ibowin 10.1"  SANNUO 10"  Dragon Touch K10 de 10.1"  TOSICDO 10 Pulgadas con Función de Soporte Cielo Estrellado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGWC6KB/?tag=tolees-21'
 descuento: '17.40'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'WAVLINK Sistema de malla WiFi para todo el hogar AC1200 de banda dual con Touchlink cobertura de hasta 3000pies cuadrados sin zonas inactivas WiFi  3puertos Gigabit Ethernet en cada enrutador de malla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSBHZS5/?tag=tolees-21'
 descuento: '16.67'
 average: '149.99'

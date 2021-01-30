@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Lenovo L22e-20 21.5 " FHD VA FreeSync Gaming Monitor 4 ms VGA+HDMI 3 lados sin bordes - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9WWSHD/?tag=tolees-21'
 descuento: '20.00'
 average: '82.95666666666665'

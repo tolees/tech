@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m 3 Piezas Cable de Datos Lightning Compatible con iPhone SE 2020 11 XS MAX XR X 8 Plus 7 Plus 6S 6 Plus 5 5S 5C SE iPad iPod'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HDNWLT/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

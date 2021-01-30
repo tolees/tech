@@ -16,6 +16,7 @@ comparePrice: 1499.99 EUR
 prodname: 'ASUS ROG Strix G731GU-H7154T - Portátil Gaming de 17 3" 120Hz FullHD  i7-9750H  16GB RAM  512GB SSD  GeForce GTX1660Ti  Windows 10 Home  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6NQNSL/?tag=tolees-21'
 descuento: '20.07'
 average: '1199.495'

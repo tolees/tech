@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Mars Gaming MAH1V2  Auriculares  Surround 7.1  Tarjeta USB  Cancelación Ruido  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNP3V59/?tag=tolees-21'
 descuento: '19.53'
 average: '13.545555555555556'

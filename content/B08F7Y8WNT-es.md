@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Disco duro externo de 1 TB 2 TB USB 3.0  apto para PC  Mac  escritorio  portátil  MacBook  Chromebook  2 TB  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F7Y8WNT/?tag=tolees-21'
 descuento: '16.67'
 average: '54.99'

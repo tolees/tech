@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos IPx5 a Prueba de Sudor Auriculares 3D estéreo a Prueba de Agua Toque Auriculares Deportivos Funciona Compatible con Android/Airpods/iPhone/Apple  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FYQK3NW/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

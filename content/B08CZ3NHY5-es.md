@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Mini PC Procesador Intel Apollo Lake Celeron J3455  hasta 2.3 GHz  Mini Desktop Computer Windows 10 LPDDR4 8G/SSD 128G HDMI VGA 2.4G+5G doble marca WiFi BT4.2 USB3.0 Compatible con Linux Auto Power On'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZ3NHY5/?tag=tolees-21'
 descuento: '15.00'
 average: '184.99'

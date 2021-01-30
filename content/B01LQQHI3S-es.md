@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'WD My Passport - Disco Duro Portátil de 1 TB y Software de Copia de Seguridad Automática  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQQHI3S/?tag=tolees-21'
 descuento: '20.67'
 average: '58.64333333333333'

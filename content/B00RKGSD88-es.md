@@ -16,6 +16,7 @@ comparePrice: 19.15 EUR
 prodname: 'Advance VE-NB35 - Base de refrigeración para Ordenador portátil de 15"  2 x Ventiladores de 125 mm  LED Azul   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RKGSD88/?tag=tolees-21'
 descuento: '20.89'
 average: '15.15'

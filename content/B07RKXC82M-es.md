@@ -16,6 +16,7 @@ comparePrice: 11 EUR
 prodname: 'Funda protectora de piel para móvil 4"-6" con cremallera y asa de transporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKXC82M/?tag=tolees-21'
 descuento: '18.18'
 average: '9'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi Note 7/ Note 7S/ Note 7 Pro  Ultra [Slim Thin] Resistente a los arañazos TPU Caucho Piel Suave Silicona Funda Protectora  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM5F7QD/?tag=tolees-21'
 descuento: '23.47'
 average: '8.43'

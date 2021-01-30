@@ -16,6 +16,7 @@ comparePrice: 172.29 EUR
 prodname: 'JBL Charge 3 - Altavoz inalámbrico portátil  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQVNWIO/?tag=tolees-21'
 descuento: '23.34'
 average: '156.15705882352944'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'EUREKA ERGONOMIC - Escritorio para Videojuegos Z1S Pro  Mesa para Videojuegos  Escritorio Superior para PC con Alfombrilla para ratón  Luces RGB  gestión de Cables  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1DMXTT/?tag=tolees-21'
 descuento: '16.72'
 average: '249.0'

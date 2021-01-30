@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'SOOTEWAY Adaptador Bluetooth 5.0 Transmisor Receptor 2 en 1 Empareja 2 receptores Jack 3 5 mm Baja latencia para TV/Coche/Audio/Música'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHKLPD4/?tag=tolees-21'
 descuento: '18.76'
 average: '15.990000000000002'

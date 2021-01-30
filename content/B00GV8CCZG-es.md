@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Magnat Monitor Supreme Sub 202 - Altavoz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GV8CCZG/?tag=tolees-21'
 descuento: '21.27'
 average: '219.67'

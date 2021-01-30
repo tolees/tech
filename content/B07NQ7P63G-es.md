@@ -16,6 +16,7 @@ comparePrice: 77.41 EUR
 prodname: 'SAMSUNG Galaxy Fit Pulsera de Actividad Negro AMOLED 2 41 cm  0.95"  - Rastreadores de Actividad  Pulsera de Actividad  Negro  Negro  Single Prong Strap Buckle  50 m  5 ATM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ7P63G/?tag=tolees-21'
 descuento: '16.24'
 average: '106.8778947368421'

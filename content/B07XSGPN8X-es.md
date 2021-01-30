@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Ufesa RD2500D WIFI - Radiador de Aceite Wifi & App con 2500W  dispone de Pantalla Digital Táctil   Temporizador de 24h  11 elementos tipo Convector  Temperatura Regulable de 3 Niveles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XSGPN8X/?tag=tolees-21'
 descuento: '19.99'
 average: '128.0'

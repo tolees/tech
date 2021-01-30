@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Samsung GE83X Microondas con Grill  23 Litros de Capacidad  Interior Cerámico Enamel  Potencia 800W/1200W  6 niveles de potencia  Color Acero Espejo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G577BUE/?tag=tolees-21'
 descuento: '22.83'
 average: '112.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ratón inalámbrico recargable wireless mouse inphic mouse deslizante mouse inalámbrico 2.4G con receptor USB para PC laptop Mac MacBook computadora de escritorio blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKD9PHJ/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 352.99 EUR
 prodname: 'Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4 33ppm - Impresora multifunción  Inyección de tinta  5760 x 1440 DPI  100 hojas  A4  Impresión directa  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21'
 descuento: '23.83'
 average: '244.705'

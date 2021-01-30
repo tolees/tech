@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'HP Color LaserJet Pro MFP M377dw - Impresora láser a color A4  hasta 24 ppm  750 a 4000 páginas al mes  USB 2.0 alta velocidad y de fácil acceso  Red Gigabit Ethernet 10/100/1000 Base-TX incorporado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJFHXWG/?tag=tolees-21'
 descuento: '16.09'
 average: '359.99'

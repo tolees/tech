@@ -16,6 +16,7 @@ comparePrice: 16.19 EUR
 prodname: 'PUMA Smash v2 SD Jr  Zapatillas Unisex Niños  Galaxy Blue White  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXW5CG/?tag=tolees-21'
 descuento: '17.17'
 average: '13.41'

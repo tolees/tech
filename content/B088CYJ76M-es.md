@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Cámara Web 1080P con Micrófono  Computadora Portátil PC de Escritorio Webcam Full HD para Videoconferencia  Estudios  Juegos Conferencias  Grabación  con Clip Giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CYJ76M/?tag=tolees-21'
 descuento: '24.22'
 average: '25.0'

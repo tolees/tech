@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Soundcore de Anker Altavoces Bluetooth con sonido estéreo potente  24 horas de reproducción  alcance de Bluetooth de 20 metros y micrófono integrado. Altavoz inalámbrico portátil  ideal para iPhone  Samsung y muchos dispositivos más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016MOI1XK/?tag=tolees-21'
 descuento: '15.00'
 average: '29.39'

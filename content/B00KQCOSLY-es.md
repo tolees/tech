@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'HyperX HX316LS9IB/4 Impact - Memoria RAM 1600 MHz DDR3L CL9 SODIMM 1.35 V  4 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KQCOSLY/?tag=tolees-21'
 descuento: '19.36'
 average: '23.965999999999998'

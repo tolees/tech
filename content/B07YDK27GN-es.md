@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PC Teclado Mecánico para Juegos  LED Mezclado con Retroiluminación USB con Cable de 82 Teclas  Anti-Fantasma  Teclado Ergonómico de Computadora Jugar Juegos y Tipeos Switches Azul  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDK27GN/?tag=tolees-21'
 descuento: '18.00'
 average: '40.99'

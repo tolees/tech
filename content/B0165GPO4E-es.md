@@ -16,6 +16,7 @@ comparePrice: 6.55 EUR
 prodname: 'Manos libres Originales Samsung EO-EG920BW Blancos  No en el embalaje al por menor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0165GPO4E/?tag=tolees-21'
 descuento: '23.82'
 average: '4.546666666666667'

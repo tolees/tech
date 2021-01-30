@@ -16,6 +16,7 @@ comparePrice: 467.03 EUR
 prodname: 'Canon EF 50mm f/1.4 USM - Objetivo para Canon  distancia focal fija 50mm  apertura f/1.4  diámetro: 58mm  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00009XVCZ/?tag=tolees-21'
 descuento: '24.63'
 average: '339.557'

@@ -16,6 +16,7 @@ comparePrice: 999.99 EUR
 prodname: 'ASUS ZenBook 14 UX431FA-AM021T - Ordenador portátil de 14"  Intel Core i7-8565U  8 GB RAM  256 GB SSD  Intel UHD 620  Windows 10 Home  Metal Azul Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFXBW6K/?tag=tolees-21'
 descuento: '20.00'
 average: '824.9449999999999'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'mCover - Carcasa rígida para portátil DELL Chromebook 3100 2 en 1  2019 11 6"  bisagra de 360º   no Compatible con 3181 2 en 1  210/3120/3180/3189/5190/3100 no 2 en 1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG6BYX2/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

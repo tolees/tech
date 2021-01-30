@@ -16,6 +16,7 @@ comparePrice: 999.99 EUR
 prodname: 'Lenovo Legion Y530 - Ordenador portátil gaming de 15.6" FullHD  Intel Core i7-8750H  8GB de RAM  512GB SSD  Nvidia GTX1050-4GB  Windows10  negro. Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NF1T94K/?tag=tolees-21'
 descuento: '20.00'
 average: '827.0575'

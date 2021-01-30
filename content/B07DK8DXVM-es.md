@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'VTIN R2 Altavoces portátiles Bluetooth  Altavoz portátil IPX6 a Prueba de Agua  14W estéreo HD  20 Horas de Vida útil  Adecuado para Todas Las Actividades al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK8DXVM/?tag=tolees-21'
 descuento: '16.43'
 average: '24.426363636363636'

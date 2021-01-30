@@ -16,6 +16,7 @@ comparePrice: 161.99 EUR
 prodname: 'Epson Workforce WF 3720 DWF - Impresora Multifunción Color  Inyección de tinta  4800 x 2400 ppp '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD1RGD1/?tag=tolees-21'
 descuento: '16.55'
 average: '105.81'

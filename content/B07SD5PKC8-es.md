@@ -16,6 +16,7 @@ comparePrice: 494.0 EUR
 prodname: 'HP Elite 8300 - Ordenador de sobremesa  Intel Core i7-3770  16GB de RAM  Disco SSD 240GB + 500GB HDD  Lector DVD  Grafica 2GB  WiFi PCI  Windows 10 Pro ES 64  - Negro  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD5PKC8/?tag=tolees-21'
 descuento: '19.64'
 average: '397.0'

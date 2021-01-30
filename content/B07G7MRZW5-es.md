@@ -16,6 +16,7 @@ comparePrice: 2299.9 EUR
 prodname: 'Panasonic Lumix DC-G9L  Cámara Evil de 20.3 MP  20FPS AFC Raw  Estabilizador Óptico de 5 Ejes  Live Mos  4K Ultra HD  Pantalla Táctil  Kit con Objetivo Leica 12-60mm / F2.8-F4  Bluetooth  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7MRZW5/?tag=tolees-21'
 descuento: '20.47'
 average: '1671.1933333333334'

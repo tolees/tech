@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jabra Elite 45h – Auriculares inalámbricos On-Ear compactos y Plegables – hasta 50 Horas de batería – tecnología de Llamadas a Dos micrófonos – Color Negro Titanio  Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DPGBTC/?tag=tolees-21'
 descuento: '20.00'
 average: '79.99'

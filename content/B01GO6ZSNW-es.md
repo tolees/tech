@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Energy Sistem MP4 Touch Bluetooth  Bluetooth  8 GB  Táctil  Radio FM y microSD  – Verde Mint'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GO6ZSNW/?tag=tolees-21'
 descuento: '23.75'
 average: '34.375'

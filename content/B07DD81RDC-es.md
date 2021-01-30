@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TENMOS T85 Raton Inalambrico Gaming  2.4G USB LED Recargable Ratón Inalámbrico silencioso óptico  Sleep Automático  Mango Ergonómico  3 dpi Ajustable  6 Botones para Mac/PC/Portatil/Ordenador  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD81RDC/?tag=tolees-21'
 descuento: '15.01'
 average: '12.256666666666668'

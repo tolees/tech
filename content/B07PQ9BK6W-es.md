@@ -16,6 +16,7 @@ comparePrice: 589 EUR
 prodname: 'Apple iPad mini - Tablet  20 1 cm  7.9"   2048 x 1536 Pixeles  64 GB  3G  iOS 12  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ9BK6W/?tag=tolees-21'
 descuento: '15.79'
 average: '495.0'

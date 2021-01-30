@@ -16,6 +16,7 @@ comparePrice: 939.0 EUR
 prodname: 'Nikon AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED - Objetivo con montura para Nikon  distancia focal fija 105mm  apertura f/2.8  estabilizador de imagen '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000EOSHGQ/?tag=tolees-21'
 descuento: '16.42'
 average: '784.8'

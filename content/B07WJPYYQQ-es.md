@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Mars Gaming MKXTKL  teclado mecánico switch rojo  LED 5 colores 10 efectos  PT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJPYYQQ/?tag=tolees-21'
 descuento: '23.24'
 average: '22.95'

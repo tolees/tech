@@ -16,6 +16,7 @@ comparePrice: 1549.99 EUR
 prodname: 'HP OMEN 15-dc1032ns - Portátil Gaming de 15.6" FullHD  Intel Core i7-9750H  32GB RAM  1TB HDD + 512GB SSD  NVIDIA GeForce GTX 1650-4GB  FreeDOS  negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X26HCC8/?tag=tolees-21'
 descuento: '16.13'
 average: '1295.264545454546'

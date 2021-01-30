@@ -16,6 +16,7 @@ comparePrice: 254.91 EUR
 prodname: 'ASUS DUAL-GTX1060-3G - Tarjeta gráfica  Dual  NVIDIA GeForce GTX 1060  3 GB  GDDR5  HDMI  DVI  DP  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KLM1GKE/?tag=tolees-21'
 descuento: '17.43'
 average: '210.49'

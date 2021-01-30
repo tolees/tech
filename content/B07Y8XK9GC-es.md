@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  64 GB ROM  cámara cuádruple de 64 MP  MTK Helio G90T  4G  batería de 4500 mAh  Pearl White [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8XK9GC/?tag=tolees-21'
 descuento: '24.10'
 average: '206.25818181818184'

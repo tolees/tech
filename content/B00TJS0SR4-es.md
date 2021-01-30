@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Sony ICF-S80 - Radio de Ducha de 0.5W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TJS0SR4/?tag=tolees-21'
 descuento: '22.29'
 average: '42.74'

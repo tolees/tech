@@ -16,6 +16,7 @@ comparePrice: 499.9 EUR
 prodname: 'Polar Vantage V Pulsómetro con GPS  Unisex Adulto  Blanco  White   M/L-Circunferencia de la muñeca 155-210 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8JZLVG/?tag=tolees-21'
 descuento: '20.18'
 average: '368.95'

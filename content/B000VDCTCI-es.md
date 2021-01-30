@@ -16,6 +16,7 @@ comparePrice: 2069.0 EUR
 prodname: 'Nikon AF-S 14-24mm F2.8 G - Objetivo con Montura para Nikon  Distancia Focal 14-24mm  Apertura f/2.8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VDCTCI/?tag=tolees-21'
 descuento: '20.12'
 average: '1652.65'

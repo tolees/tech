@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi 8 Carcasa [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba de Goma  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFNRNRJ/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

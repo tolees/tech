@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'Olympus OM-D E-M10 Mark-II - Cámara EVIL de 16.1 MP  pantalla 3"  estabilizador óptico  vídeo Full HD  WiFi  kit cámara 14-42mm con objetivo 40-150mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013QWFLKC/?tag=tolees-21'
 descuento: '17.28'
 average: '727.2733333333333'

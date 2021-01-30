@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HCYTRCY/?tag=tolees-21'
 descuento: '23.54'
 average: '10.81'

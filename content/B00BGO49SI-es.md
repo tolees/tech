@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Suunto Core Red Rubber Strap Correa para Relojes  Unisex  Rojo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGO49SI/?tag=tolees-21'
 descuento: '18.70'
 average: '30.776666666666667'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos Bluetooth5.0 In-Ear Mini Auriculares Auriculares emparejamiento automático emergente Deportivos para Funciona con Todos los Dispositivos Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F9KWPTP/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'HP Wireless Mouse 220 3FV66AA - Ratón inalámbrico  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4BPBXG/?tag=tolees-21'
 descuento: '22.34'
 average: '8.69'

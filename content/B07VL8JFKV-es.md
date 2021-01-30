@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Ayete Auriculares Inalámbricos Mini Twins Sonido Estéreo In-Ear Cascos Bluetooth Inalambricos de Carga para la Mayoría de Móviles  J11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL8JFKV/?tag=tolees-21'
 descuento: '15.01'
 average: '16.714'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'GREENSKY Cartucho de Tinta de Repuesto para Epson 502XL Compatible con Epson Workforce WF-2860DWF WF-2865DWF Epson Expression Home XP-5100 Impresora XP-5105 2 Negro  1 Cian  1 Magenta  1 Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089Q5ZKC2/?tag=tolees-21'
 descuento: '15.66'
 average: '20.355'

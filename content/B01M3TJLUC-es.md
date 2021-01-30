@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'UBMSA cargador unicornio 2600mAh Cargadores Horse portátil de la batería Diversión Pokemon GO cargador externo del banco de la energía para el iPhone Samsung compatible con todos los smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3TJLUC/?tag=tolees-21'
 descuento: '22.64'
 average: '14.69'

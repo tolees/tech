@@ -16,6 +16,7 @@ comparePrice: 41.98 EUR
 prodname: 'Tenda Ph3 Adaptador de Red Gigabit Powerline  1000Mbps  Ahorro de Energía  Plug & Play  Compatible con Otros Adaptadores de Marca  Juego de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21'
 descuento: '16.34'
 average: '35.12'

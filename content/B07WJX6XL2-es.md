@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Cámara IP  Srihome 3MP Cámara de Vigilancia FHD con Visión Nocturna Cámara de Mascota Detección de Movimiento  Audio de 2 Vías  2.4GHz WiFi  Compatible con iOS/Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJX6XL2/?tag=tolees-21'
 descuento: '16.67'
 average: '29.63230769230769'

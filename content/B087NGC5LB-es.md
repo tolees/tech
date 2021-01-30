@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'StillCool Cámara Web Full HD 1080P con Micrófono  USB 2.0 Webcam Portátil para PC con Clip Giratorio para Videollamadas Estudios Conferencias  Grabación  Juegos con Clip Giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NGC5LB/?tag=tolees-21'
 descuento: '16.67'
 average: '29.99'

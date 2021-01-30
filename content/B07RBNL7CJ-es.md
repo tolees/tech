@@ -16,6 +16,7 @@ comparePrice: 58.16 EUR
 prodname: 'Ratón Gaming inalámbrico/cableado  DELUX Ratón para juegos de PC  16000DPI  16.8 millones RGB Color Backlit  Peso y equilibrio ajustables  ambas manos ratón  controles personalizados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBNL7CJ/?tag=tolees-21'
 descuento: '20.93'
 average: '45.99'

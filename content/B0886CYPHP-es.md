@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth  Auriculares Bluetooth 5.0 Emparejamiento Automático Mini Twins In-Ear Auriculares  Control Táctil  HiFi Estéreo  IP7 Impermeable  LED Pantalla  con Caja de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886CYPHP/?tag=tolees-21'
 descuento: '15.01'
 average: '21.24'

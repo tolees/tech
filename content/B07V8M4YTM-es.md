@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'VLikeze- Mesa de Cama para Ordenador portátil  Plegable  portátil  con Ranura para Taza  Soporte para portátil  Bandeja de Desayuno para sofá  Cama  terraza  balcón  jardín  Color Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8M4YTM/?tag=tolees-21'
 descuento: '17.51'
 average: '37.14'

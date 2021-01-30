@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'KNOK Funda Colgante movil con Cuerda para Colgar iPhone X/iPhone XS - Carcasa de móvil iPhone Samsung Huawei con Correa Colgante - con Cordon para Llevar en el Cuello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5SXW8F/?tag=tolees-21'
 descuento: '20.08'
 average: '19.9'

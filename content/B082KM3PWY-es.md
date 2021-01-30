@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'YuanLey 5 Port Gigabit PoE Switch with 4 Port PoE+  802.3af/at 78W de Potencia Incorporada  Sin Ventilador  Metal  Plug & Play No Administrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KM3PWY/?tag=tolees-21'
 descuento: '20.00'
 average: '39.99'

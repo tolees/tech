@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Withings Pulse HR-Pulsera conectada de Actividad  Unisex Adulto  Negro  18 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT7V58N/?tag=tolees-21'
 descuento: '20.01'
 average: '79.95333333333333'

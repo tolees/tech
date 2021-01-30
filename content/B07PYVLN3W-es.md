@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'TOPVISION Proyector Cine en Casa de 5500 Lúmenes 720P Nativa Mini Proyector Portátil Soporte 1080P Full HD  Proyector LED de 60000 Horas con Pantalla Máx de 240" Compatible con HDMI/VGA/USB/AV/SD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYVLN3W/?tag=tolees-21'
 descuento: '24.29'
 average: '76.38999999999999'

@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Acer Nitro 5 - Ordenador Portátil de 15.6" FullHD  AMD Ryzen 5 3550H  8GB de RAM  512GB SSD  AMD Radeon RX 560X  Windows 10 Home  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QVYB1X/?tag=tolees-21'
 descuento: '18.75'
 average: '649.99'

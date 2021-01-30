@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'SAMSUNG EB-P1100C batería Externa Plata Polímero de Litio 10000 mAh - Baterías externas  Plata  Universal  Polímero de Litio  10000 mAh  USB  9 V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHFNDWX/?tag=tolees-21'
 descuento: '22.78'
 average: '13.12'

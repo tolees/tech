@@ -16,6 +16,7 @@ comparePrice: 183.99 EUR
 prodname: 'Brother MFCJ5330DW - Impresora multifunción de tinta profesional  conexión WiFi  con tecnología de inyección de tinta  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N48OJR5/?tag=tolees-21'
 descuento: '17.95'
 average: '136.48000000000002'

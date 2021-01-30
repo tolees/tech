@@ -16,6 +16,7 @@ comparePrice: 24.69 EUR
 prodname: 'LarmTek 1080P Full HD Webcam  cámara para ordenador portátil para conferencias y videollamadas  cámara web Pro Stream con video llamada  W2 Pro  Reino Unido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZF1FQC/?tag=tolees-21'
 descuento: '15.03'
 average: '24.214000000000002'

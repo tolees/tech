@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Beats Auriculares Solo Pro Wireless de Beats con cancelación de Ruido  More Matte Collection  Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYZ2D8V/?tag=tolees-21'
 descuento: '20.00'
 average: '208.0'

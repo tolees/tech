@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Razer BlackWidow Chroma V2  Teclado de Gaming  USB/Alámbrico  Negro RGB  QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075CPTYM6/?tag=tolees-21'
 descuento: '15.59'
 average: '117.53'

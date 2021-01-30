@@ -16,6 +16,7 @@ comparePrice: 429.9 EUR
 prodname: 'Panasonic Lumix DC-TZ90EG-K Cámara Compacta de 20 3 MP  Super Zoom  10fps  Objetivo F3.3-F6.4 de 24-720mm  Zoom de 30X  Pantalla Abatible  4K  Wifi  RAW  HDMI  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721MRQHG/?tag=tolees-21'
 descuento: '24.40'
 average: '293.198'

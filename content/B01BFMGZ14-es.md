@@ -16,6 +16,7 @@ comparePrice: 520.99 EUR
 prodname: 'Brother HL-L6300DW - Impresora láser Profesional Monocromo  Bandeja 520 Hojas  46 ppm  USB 2.0  Memoria de 256 MB  Doble Cara automática  Ethernet  WiFi  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BFMGZ14/?tag=tolees-21'
 descuento: '21.37'
 average: '403.125'
