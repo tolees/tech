@@ -28,13 +28,13 @@ Tienes [Panasonic KX-TG6811SPB - Teléfono Fijo Inalámbrico  Pantalla LCD de 1.
 
 🔎:
 
-- Equipo homologado para el uso en la red telefónica Española; modo ECO con un toque: ahorra de la batería y del consumo de luz
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
-- Batería de 15 h uso continuo y en espera de 170 h
-- Agenda de 120 nombres y números e historial de llamada
-- DECT con pantalla: LCD 1.8" y teclado iluminado
 - Fácil uso: conéctalo a la corriente y listo
-- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 - Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
+- Equipo homologado para el uso en la red telefónica Española; modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
+- Agenda de 120 nombres y números e historial de llamada
+- Batería de 15 h uso continuo y en espera de 170 h
+- DECT con pantalla: LCD 1.8" y teclado iluminado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BY619PO/?tag=tolees-21)
