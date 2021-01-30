@@ -27,9 +27,9 @@ Tienes [Tecnostyl PC101/2 - Soporte de Ordenador de sobremesa  9 x 8 x 41 cm  4 
 
 ℹ️:
 
-- Tiene 4 brazos con ruedas para un fácil transporte
 - Hecho de material de plástico y metal
-- Con una altura de 9 centímetros
+- Tiene 4 brazos con ruedas para un fácil transporte
 - Compatibilidad universal con PCs
+- Con una altura de 9 centímetros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BXQZBNG/?tag=tolees-21)
