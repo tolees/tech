@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hagibis Receptor Bluetooth 5.0 Kits de m al 15.01 % de descuento'
-date: 2021-01-28 12:56:24
+date: 2021-01-30 13:30:40
 image: 'https://m.media-amazon.com/images/I/318mu29e5wL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 16.99 EUR
 prodname: 'Hagibis Receptor Bluetooth 5.0 Kits de manos libres para automóvil Bluetooth  Audio AUX 3.5mm Jack Receptor inalámbrico de música estéreo para altavoces de automóvil y hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Hagibis'
 buyurl: 'https://www.amazon.es/dp/B07YCSK7LK/?tag=tolees-21'
 descuento: '15.01'
-average: '15.8525'
+average: '15.57'
 ---
 
 Ahora mismo tienes [Hagibis Receptor Bluetooth 5.0 Kits de manos libres para automóvil Bluetooth  Audio AUX 3.5mm Jack Receptor inalámbrico de música estéreo para altavoces de automóvil y hogar](https://www.amazon.es/dp/B07YCSK7LK/?tag=tolees-21) a 14.44 EUR (original: 16.99 EUR) (15.01 %  de descuento) en el siguiente enlace!

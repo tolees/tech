@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony PS-LX310BT - Tocadiscos  Conectivid al 20.40 % de descuento'
-date: 2021-01-29 07:26:15
+date: 2021-01-30 13:13:52
 image: 'https://m.media-amazon.com/images/I/31PuszawzLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 250.0 EUR
 prodname: 'Sony PS-LX310BT - Tocadiscos  Conectividad Bluetooth  admite Salidas de línea y Fono  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07MFBCCQG/?tag=tolees-21'
 descuento: '20.40'
-average: '191.447234042552'
+average: '191.75551020408'
 ---
 
 Ahora mismo tienes [Sony PS-LX310BT - Tocadiscos  Conectividad Bluetooth  admite Salidas de línea y Fono  Negro](https://www.amazon.es/dp/B07MFBCCQG/?tag=tolees-21) a 199.0 EUR (original: 250.0 EUR) (20.40 %  de descuento) en el siguiente enlace!
@@ -27,10 +28,10 @@ Ahora mismo tienes [Sony PS-LX310BT - Tocadiscos  Conectividad Bluetooth  admite
 
 🔎:
 
-- Dos velocidades de funcionamiento: 33 y 45 rpm
-- Admite salidas de línea y fono gracias al ecualizador fonográfico integrado
 - Conectividad Bluetooth sencilla
 - Reproducción automática en un paso para un funcionamiento sencillo
+- Admite salidas de línea y fono gracias al ecualizador fonográfico integrado
+- Dos velocidades de funcionamiento: 33 y 45 rpm
 - Brazo tonal con nuevo diseño para una reproducción clara y detallada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MFBCCQG/?tag=tolees-21)

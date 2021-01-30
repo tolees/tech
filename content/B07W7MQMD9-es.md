@@ -28,12 +28,12 @@ Tienes [Logitech G502 HERO High Performance Gaming Mouse Special Edition  HERO 2
 
 🔎:
 
+- World’s NO.1 Best Selling Gaming Gear Brand - Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Gaming Keyboard, Mice, & PC Headset in units
+- HERO Gaming Sensor: Next generation HERO mouse sensor delivers precision tracking up to 25600 DPI with zero smoothing, filtering or acceleration
+- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
 - 11 programmable buttons and dual mode hyper-fast scroll wheel: The Logitech wired gaming mouse gives you fully customisable control over your gameplay
 - LIGHTSYNC technology: Logitech G LIGHTSYNC technology provides fully customisable RGB lighting that can also synchronise with your gaming
-- HERO Gaming Sensor: Next generation HERO mouse sensor delivers precision tracking up to 25600 DPI with zero smoothing, filtering or acceleration
 - Adjustable weights: Match your playing style. Arrange up to five 3.6 g weights for a personalised weight and balance configuration
 - Mechanical Switch Button Tensioning: A metal spring tensioning system and metal pivot hinges are built into left and right computer gaming mouse buttons for a crisp, clean click feel with rapid click feedback
-- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
-- World’s NO.1 Best Selling Gaming Gear Brand - Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Gaming Keyboard, Mice, & PC Headset in units
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21)
