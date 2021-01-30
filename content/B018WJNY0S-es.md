@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.69 % en Brother PJ-722 - Impresora térmica portá'
-date: 2021-01-24 03:01:03
+date: 2021-01-30 14:35:56
 image: 'https://m.media-amazon.com/images/I/4169Tc2uuZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 484.99 EUR
 prodname: 'Brother PJ-722 - Impresora térmica portátil A4  8ppm y 200ppp  Interfaz USB '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Brother'
 buyurl: 'https://www.amazon.es/dp/B018WJNY0S/?tag=tolees-21'
 descuento: '15.69'
-average: '393.1925'
+average: '394.400769230769'
 ---
 
 Tienes [Brother PJ-722 - Impresora térmica portátil A4  8ppm y 200ppp  Interfaz USB ](https://www.amazon.es/dp/B018WJNY0S/?tag=tolees-21) con un 15.69 % de descuento con precio de oferta de 408.9 EUR (original: 484.99 EUR) en el siguiente enlace!
@@ -27,10 +28,10 @@ Tienes [Brother PJ-722 - Impresora térmica portátil A4  8ppm y 200ppp  Interfa
 
 ℹ️:
 
-- Resolución de 200 ppp
 - Tamaño A4
+- Impresión hoja a hoja, rollo de papel o rollo precortado
 - Interfaz USB
 - Velocidad de impresión de 8 páginas por minuto
-- Impresión hoja a hoja, rollo de papel o rollo precortado
+- Resolución de 200 ppp
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B018WJNY0S/?tag=tolees-21)
