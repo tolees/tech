@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips Dect T - Philips D2501W/34 - Tel al 22.84 % de descuento'
-date: 2021-01-29 01:51:40
+title: 'Philips Dect T - Philips D2501W/34 - Tel al 21.55 % de descuento'
+date: 2021-01-30 07:34:55
 image: 'https://m.media-amazon.com/images/I/31+fC8qamJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,19 @@ author: ring
 slug: 'B07YM3WRV1-es Philips Dect T - Philips D2501W/34 - Teléfono Fijo...'
 sku: 'B07YM3WRV1-es'
 tags: [ 'dect', ]
-actualPrice: 27.0 EUR
+actualPrice: 27.45 EUR
 currency: EUR
-price: 27.0
+price: 27.45
 comparePrice: 34.99 EUR
 prodname: 'Philips Dect T - Philips D2501W/34 - Teléfono Fijo Inalámbrico  16 Horas  Retroiluminación  HQ-Sound  Manos Libres  Identificador de Llamadas  Agenda 50 Nombres y números  Plug & Play  Eco+  Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YM3WRV1/?tag=tolees-21'
-descuento: '22.84'
-average: '24.6655932203391'
+descuento: '21.55'
+average: '24.7568852459017'
 ---
 
-Está [Philips Dect T - Philips D2501W/34 - Teléfono Fijo Inalámbrico  16 Horas  Retroiluminación  HQ-Sound  Manos Libres  Identificador de Llamadas  Agenda 50 Nombres y números  Plug & Play  Eco+  Blanco](https://www.amazon.es/dp/B07YM3WRV1/?tag=tolees-21) con 22.84 de descuento por 27.0 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Philips Dect T - Philips D2501W/34 - Teléfono Fijo Inalámbrico  16 Horas  Retroiluminación  HQ-Sound  Manos Libres  Identificador de Llamadas  Agenda 50 Nombres y números  Plug & Play  Eco+  Blanco](https://www.amazon.es/dp/B07YM3WRV1/?tag=tolees-21) con 21.55 de descuento por 27.45 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![Philips Dect T - Philips D2501W/34 - Tel](https://m.media-amazon.com/images/I/31+fC8qamJL._SL200_.jpg)](https://www.amazon.es/dp/B07YM3WRV1/?tag=tolees-21)
 
