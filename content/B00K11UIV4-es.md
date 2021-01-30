@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer T2U Adaptador WiFi USB  R al 54.21 % de rebaja'
-date: 2021-01-28 22:45:44
+date: 2021-01-30 10:35:16
 image: 'https://m.media-amazon.com/images/I/31GdwDAAZ0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 34.9 EUR
 prodname: 'TP-Link Archer T2U Adaptador WiFi USB  Receptor WiFi con Doble Banda AC 600 MBps  Mini Tamaño  USB 2.0  Seguridad avanzada  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00K11UIV4/?tag=tolees-21'
 descuento: '54.21'
-average: '14.86609375'
+average: '14.8832307692307'
 ---
 
 Tienes [TP-Link Archer T2U Adaptador WiFi USB  Receptor WiFi con Doble Banda AC 600 MBps  Mini Tamaño  USB 2.0  Seguridad avanzada  negro](https://www.amazon.es/dp/B00K11UIV4/?tag=tolees-21) con precio final de  15.98 EUR (original: 34.9 EUR) (54.21 %  de rebaja) aqui!
