@@ -29,9 +29,9 @@ En este momento está [Energy Sistem Headphones BT Urban 2 Radio Violet  Auricul
 🔎:
 
 - - MICROSD MP3 PLAYER: Toda tu música sin ataduras. Escucha tu música a través de tarjetas SD de XX GB.
-- - BLUETOOTH: Conexión Bluetooth 4.2 para reproducir toda la música de tu smartphones sin cables.
 - - BATERÍA RECARGABLE: Utiliza los auriculares durante XX gracias a su batería. Música, radio, llamadas,…
-- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo
 - - RADIO FM: Sintoniza todas tus emisoras favoritas sin dispositivos adicionales, solo necesitas los auriculares
+- - BLUETOOTH: Conexión Bluetooth 4.2 para reproducir toda la música de tu smartphones sin cables.
+- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SC2LBM8/?tag=tolees-21)
