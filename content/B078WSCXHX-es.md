@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony UBP-X700B  Reproductor de BLU-Ray 4 con un 20.36 % de descuento'
-date: 2021-01-29 19:25:12
+date: 2021-01-31 01:37:51
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 220.0 EUR
 prodname: 'Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Vision  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21'
 descuento: '20.36'
-average: '179.008076923077'
+average: '178.950378787879'
 ---
 
 En este momento está [Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Vision  Negro](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21) a 175.2 EUR (original: 220.0 EUR) (20.36 %  de descuento) en el siguiente enlace!
