@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Epson EcoTank ET‑2750 5760 x 1440DPI Iny con un 23.83 % de descuento'
-date: 2020-10-05 07:35:48
+title: 'Epson EcoTank ET‑2750 5760 x 1440DPI Iny con un 43.36 % de descuento'
+date: 2021-01-31 09:53:57
 image: 'https://m.media-amazon.com/images/I/41InWq06aaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,31 @@ author: ring
 slug: 'B075D23KXX-es Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4...'
 sku: 'B075D23KXX-es'
 tags: [ 'impresora', ]
-actualPrice: 268.88 EUR
+actualPrice: 199.92 EUR
 currency: EUR
-price: 268.88
+price: 199.92
 comparePrice: 352.99 EUR
 prodname: 'Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4 33ppm - Impresora multifunción  Inyección de tinta  5760 x 1440 DPI  100 hojas  A4  Impresión directa  Negro '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Epson'
 buyurl: 'https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21'
-descuento: '23.83'
-average: '244.705'
+descuento: '43.36'
+average: '229.776666666667'
 ---
 
-En este momento está [Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4 33ppm - Impresora multifunción  Inyección de tinta  5760 x 1440 DPI  100 hojas  A4  Impresión directa  Negro ](https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21) a 268.88 EUR (original: 352.99 EUR) (23.83 %  de descuento) en el siguiente enlace!
+En este momento está [Epson EcoTank ET‑2750 5760 x 1440DPI Inyección de tinta A4 33ppm - Impresora multifunción  Inyección de tinta  5760 x 1440 DPI  100 hojas  A4  Impresión directa  Negro ](https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21) a 199.92 EUR (original: 352.99 EUR) (43.36 %  de descuento) en el siguiente enlace!
 
 [![Epson EcoTank ET‑2750 5760 x 1440DPI Iny](https://m.media-amazon.com/images/I/41InWq06aaL._SL200_.jpg)](https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21)
 
 🔎:
 
+- | Impresión a un coste extraordinariamente bajo | Imprime hasta 14 000 páginas en negro y 5 200 en color
+- Dispositivos compatibles: SD, SDHC, SDXC
+- | Ahorro medio de un 90% en los costes de tinta | Incluye el equivalente a 88 cartuchos de tinta
+- | Wi-Fi y aplicaciones | Impresión desde dispositivos móviles
+- | Dúplex | Impresión a doble cara automática
+- | Sistema de recarga de tinta de última generación | Disfruta de recargas sin problemas ni complicaciones con las botellas de tinta mejoradas
+- | 3 en 1 con pantalla LCD | Impresión, copia y escaneado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075D23KXX/?tag=tolees-21)
