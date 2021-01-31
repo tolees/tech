@@ -28,10 +28,10 @@ Está [NITROPC - PC Gamer VX *REBAJAS*  CPU Intel 10100  4/8N x 4 30Ghz  turbo  
 
 ℹ️:
 
-- RAM: 8 Gb 2400 MHZ DDR4
 - (PRECIO *REBAJAS*) Antes 815€ ahora 611,22€
-- SSD: 240GB, HDD: 1 TB SATA 6 GB/S
 - CPU: INTEL 10100 4,30 GHZ x 4/8 núcleos (turbo) / GRÁFICA: NVIDIA GTX 1050Ti 4GB
+- SSD: 240GB, HDD: 1 TB SATA 6 GB/S
+- RAM: 8 Gb 2400 MHZ DDR4
 - * Producto 100% Español* Windows 10 de 64 bits versión preliminar, 100% testeado, 2 años de garantía Premium incluida.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B012D56MDI/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Haverland 321123 SmartBox - Hub / puente de conexión con
 🔎:
 
 - Con el sistema de haverland smartbox podrás programar y configurar tus emisores haverland compatibles, el sistema smartbox permite conectar hasta 30 radiadores compatibles.
-- Compatible con alexa.
-- La smartbox de Haverland es la herramienta que te permite la conexión y control de los emisores WI, IRIS y ePOINT; conéctalo con el router y descargate nuestra aplicación gratuita para disfrutar de todas sus ventajas.
 - Fabricado en España. Garantía oficial Haverland 2 años.
+- La smartbox de Haverland es la herramienta que te permite la conexión y control de los emisores WI, IRIS y ePOINT; conéctalo con el router y descargate nuestra aplicación gratuita para disfrutar de todas sus ventajas.
 - Este pack incluye el puente a través del cual podrás programar y personalizar la calefacción de tu casa, junto con todos los accesorios y cables necesarios para su conexión
+- Compatible con alexa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017BHKWJ8/?tag=tolees-21)

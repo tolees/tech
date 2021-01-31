@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Mi Router 4A Gigabit Edition](https://www.amazon.es/d
 
 🔎:
 
-- Model Number: Mi Router 4A Gigabit Edition
 - Country of origin:- Spain
 - Item Package Quantity: 1
 - Router Xiaomi
+- Model Number: Mi Router 4A Gigabit Edition
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WDLJWQG/?tag=tolees-21)

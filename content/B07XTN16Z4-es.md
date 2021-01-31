@@ -28,10 +28,10 @@ Tienes [DYNASONIC -  3ª Gen  Altavoz Bluetooth Portatil con Modo Karaoke y Micr
 
 🔎:
 
+- Sus medidas (alto: 29 cm, ancho: 14 cm, profundidad: 12 cm: lo hacen fácilmente portable, muy cómodo de usar e ideal para divertirse con amigos con modo karaoke, gracias al cual podemos enchufar dos micrófonos
 - Altavoces bluetooth tecnología tws portatiles compatibles con ordenadores, móviles y todos los dispositivos con tecnología bluetooth, distancia de funcionamiento de 10m
 - Entrada aux in para minijack de 3.5mm, cable incluido: doble entrada de micrófonos (dos incluido en la caja), para usar a modo de karaoke con modo eco
 - La batería de este dispositivo es interna y recargable la ranura que tiene en su parte inferior es para añadir una batería extra tipo bl-5c (que no viene incluida y no es necesaria)
 - Ranuras para memorias usb y microsd para introducir y escuchar tu música favorita, sintonizador de radio fm con el que podrás escuchar tus emisoras favoritas; atención al cliente escribiéndonos a través del pedido
-- Sus medidas (alto: 29 cm, ancho: 14 cm, profundidad: 12 cm: lo hacen fácilmente portable, muy cómodo de usar e ideal para divertirse con amigos con modo karaoke, gracias al cual podemos enchufar dos micrófonos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XTN16Z4/?tag=tolees-21)
