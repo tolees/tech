@@ -30,8 +30,8 @@ En este momento está [Brother MFCL2710DW - Impresora multifunción láser monoc
 
 - Bandeja de 250 hojas, ranura manual y ADF para 50 hojas
 - Red cableada, Wifi, Wifi Direct y conexión móvil
+- Impresora, copiadora y escáner y fax
 - Ahorro con la impresión automática a doble cara
 - Productividad con una velocidad de impresión de 30 ppm
-- Impresora, copiadora y escáner y fax
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078CR5Y3K/?tag=tolees-21)

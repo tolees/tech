@@ -28,11 +28,11 @@ Ahora mismo tienes [Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y 450Mbps 
 
 🔎:
 
-- Velocidad 2200 Mbps
-- Detección automática de dispositivos IOT Xiaomi sin introducir contraseña.
-- 7 antenas.
-- Mi AIOT Antena
-- Hasta 128 dispositivos.
 - Qualcomm CPU
+- Velocidad 2200 Mbps
+- Hasta 128 dispositivos.
+- Detección automática de dispositivos IOT Xiaomi sin introducir contraseña.
+- Mi AIOT Antena
+- 7 antenas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21)

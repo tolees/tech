@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONY CLASSICAL - Concierto de Año Nuevo  al 15.80 % de descuento'
-date: 2021-01-30 13:30:00
+date: 2021-01-31 13:46:07
 image: 'https://m.media-amazon.com/images/I/51P-BrlEHcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SONY CLASSICAL'
 buyurl: 'https://www.amazon.es/dp/B08M8BKZ72/?tag=tolees-21'
 descuento: '15.80'
-average: '18.24'
+average: '17.79'
 ---
 
 Ahora mismo tienes [SONY CLASSICAL - Concierto de Año Nuevo 2021 [Blu-ray]](https://www.amazon.es/dp/B08M8BKZ72/?tag=tolees-21) a 15.99 EUR (original: 18.99 EUR) (15.80 %  de descuento) en el siguiente enlace!
