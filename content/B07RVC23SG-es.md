@@ -29,9 +29,9 @@ En este momento está [Sony WH-XB900N - Auriculares Inalámbricos Noise Cancelli
 🔎:
 
 - Diseño elegante y plegable
-- Escucha con un solo toque con tecnología inalámbrica nfc o bluetooth
-- Llamadas con manos libres para mayor comodidad
 - Escucha durante todo el día gracias a la batería de 30 horas de duración
 - Sonido extra bass y noise cancelling digital
+- Llamadas con manos libres para mayor comodidad
+- Escucha con un solo toque con tecnología inalámbrica nfc o bluetooth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RVC23SG/?tag=tolees-21)
