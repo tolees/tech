@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem Outdoor Box Beast Altavoz Bluetooth  60W  Blue
 
 🔎:
 
-- - CONECTIVIDAD: reproduce tu música a través de Bluetooth, reproductor MP3 USB y microSD, entrada de audio de 3,5 mm o utilizando la radio. Una gran variedad de opciones para que en cada aventura elijas la forma de escuchar tu música.
-- - BATTERY: 2600 mAh te aportan 14 horas de batería para escuchar toda tu música, y carga en tan solo 3 horas.
 - - SHOCKPROOF y SPLASHPROOF: un altavoz resistente a condiciones extremas, los golpes o las salpicaduras de agua ya no son un problema.
+- - CONECTIVIDAD: reproduce tu música a través de Bluetooth, reproductor MP3 USB y microSD, entrada de audio de 3,5 mm o utilizando la radio. Una gran variedad de opciones para que en cada aventura elijas la forma de escuchar tu música.
 - - 60 W: Máxima potencia en este altavoz con el que disfrutar de tu música en cualquier exterior .
+- - BATTERY: 2600 mAh te aportan 14 horas de batería para escuchar toda tu música, y carga en tan solo 3 horas.
 - - 36 MESES DE GARANTÍA: disfruta del producto con una garantía especial de 36 meses. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21)

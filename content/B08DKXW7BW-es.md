@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi True Wireless Earphones 2S.](https://www.amazon.es
 
 🔎:
 
-- Compatible con cargador inalámbrico.
 - Carga rápida en 1 hora.
-- Sonido de alta calidad.
 - Cada auricular funciona independientemente de la otra.
+- Sonido de alta calidad.
+- Compatible con cargador inalámbrico.
 - 5 horas de batería con carga completa, 24 horas con la carcasa de carga.
 - Máxima comodidad gracias a su diseño ergonómico.
 

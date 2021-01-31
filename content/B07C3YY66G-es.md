@@ -28,9 +28,9 @@ Está [Kingston SUV500MS/480G - Disco Duro sólido de 480 GB  mSATA ](https://w
 
 ℹ️:
 
-- 10 veces más rápidas que los discos duros de 7200 RPM
-- Disponibles en varios tamaños (2.5”/M.2/mSATA)
-- Unidad de autocifrado (SED) AES de 256 bits basado en hardware (SED) y TCG Opal 2.0
 - Varias capacidades hasta 960 GB
+- 10 veces más rápidas que los discos duros de 7200 RPM
+- Unidad de autocifrado (SED) AES de 256 bits basado en hardware (SED) y TCG Opal 2.0
+- Disponibles en varios tamaños (2.5”/M.2/mSATA)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C3YY66G/?tag=tolees-21)

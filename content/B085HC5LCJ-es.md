@@ -28,10 +28,10 @@ Tienes [Canon Pixma TR150 Impresora con bateria  negro](https://www.amazon.es/dp
 
 ℹ️:
 
-- Almacena hasta 5 plantillas personalizadas en la impresora para una impresión más rápida
-- Función de copia con teléfono inteligente con Canon Print
+- Pantalla Oled de 1.44", interfaz sencilla para un mejor control y mantenimiento
 - Impresión rápida, 5.5 ipm en color y 9 ipm en blanco y negro
 - Carga la batería por USB donde quieras, ya sea en el coche, en la oficina o en casa
-- Pantalla Oled de 1.44", interfaz sencilla para un mejor control y mantenimiento
+- Función de copia con teléfono inteligente con Canon Print
+- Almacena hasta 5 plantillas personalizadas en la impresora para una impresión más rápida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085HC5LCJ/?tag=tolees-21)

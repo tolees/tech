@@ -28,12 +28,12 @@ Está [Netatmo Valvulas Termostaticas Wifi Inteligente Módulo adicional para el
 
 ℹ️:
 
-- Modo Confort o Eco: puedes elegir entre dos modos de calefacción; el modo Prioridad Confort permite a las Válvulas calentar ciertas habitaciones a una temperatura superior a la del Termostato y el modo Prioridad Eco, al contrario, les ordena limitar la temperatura
-- Control a distancia y con la voz: controla la Válvula Inteligente Adicional para Radiador a distancia con tu smartphone, tableta u ordenador y gracias a la compatibilidad con Amazon Alexa, Apple HomeKit y el Asistente de Google, disfruta de la libertad que te dan los comandos de voz
-- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
 - Ahorra Energía: ahorra todavÍa más energÍa cuando utilices la calefacción en tu casa
-- Una calefacción inteligente: la función Auto-Adapt tiene en cuenta la temperatura exterior y las características térmicas de tu hogar para garantizar la temperatura deseada
-- Compatibilidad: la Válvula Inteligente Adicional para Radiadores es compatible con más del 90 % de los radiadores de agua caliente; se suministran adaptadores con cada Válvula para poder instalarla en el cuerpo de la válvula de tus radiadores
+- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
 - Accesorio: la Válvula Inteligente Adicional para Radiador funciona solo con el Termostato Inteligente Netatmo y el Starter Pack - Válvulas Inteligentes para Radiador; controla la temperatura de tu hogar con precisión
+- Una calefacción inteligente: la función Auto-Adapt tiene en cuenta la temperatura exterior y las características térmicas de tu hogar para garantizar la temperatura deseada
+- Modo Confort o Eco: puedes elegir entre dos modos de calefacción; el modo Prioridad Confort permite a las Válvulas calentar ciertas habitaciones a una temperatura superior a la del Termostato y el modo Prioridad Eco, al contrario, les ordena limitar la temperatura
+- Compatibilidad: la Válvula Inteligente Adicional para Radiadores es compatible con más del 90 % de los radiadores de agua caliente; se suministran adaptadores con cada Válvula para poder instalarla en el cuerpo de la válvula de tus radiadores
+- Control a distancia y con la voz: controla la Válvula Inteligente Adicional para Radiador a distancia con tu smartphone, tableta u ordenador y gracias a la compatibilidad con Amazon Alexa, Apple HomeKit y el Asistente de Google, disfruta de la libertad que te dan los comandos de voz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072VNG96T/?tag=tolees-21)
