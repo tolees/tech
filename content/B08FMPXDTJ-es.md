@@ -28,12 +28,12 @@ En este momento está [Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" 
 
 🔎:
 
-- Tamaño_nombre/color_nombre
-- El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
-- Ranuras de memoria disponibles: 1
-- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
 - Sistema de triple cámara trasera de 13 mp con ia, video full hd a 30fps y cámara frontal selfie de 5 mp
+- El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
 - Batería de alta capacidad de 5000 mah con carga rápida de 10w.
+- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
+- Ranuras de memoria disponibles: 1
+- Tamaño_nombre/color_nombre
 - Tipo de pantalla: LCD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21)
