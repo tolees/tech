@@ -28,10 +28,10 @@ Está [Gigaset AS405 Trio - Teléfono Inalámbrico  Pack 3 Unidades  Manos Libre
 
 ℹ️:
 
+- Gran autonomia. 18 h en conversación y 200 h en espera
 - Agenda de 100 contactos
 - 3 teléfonos para repartir por tus habitaciones
 - Manos libres
-- Gran autonomia. 18 h en conversación y 200 h en espera
 - Llamadas gratuitas enrte los terminales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ABV7C1C/?tag=tolees-21)
