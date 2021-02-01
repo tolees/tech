@@ -28,10 +28,10 @@ Tienes [Energy Sistem - Urban Box 5+  20 W  TWS  Bluetooth 5.0  USB/microSD MP3 
 
 ℹ️:
 
-- - TRUE WIRELESS STEREO: 20 W de potencia y tecnología True Wireless para conectar simultáneamente dos dispositivos y duplicar el sonido. Integra doble membrana para el realce de graves.
-- - SPLASHPROOF: altavoz portátil recubierto de tela resistente a salpicaduras, cinta para colgar y bolsa de transporte incluida para su protección.
-- - BLUETOOTH & HANDS-FREE: conexión Bluetooth 5.0 para reproducir música desde el smartphone, tablet o dispositivo inalámbrico. Función manos libres para recibir llamadas.
-- - BATERIA: Batería de litio recargable con 12 horas de autonomía y conector de carga USB Tipo C.
 - - FM RADIO & USB/MICROSD MP3 PLAYER: cuenta con radio FM integrada, reproduce archivos MP3 desde tarjetas microSD y memorias USB con capacidad de hasta 64 GB y tiene entrada de audio de 3,5 mm.
+- - BLUETOOTH & HANDS-FREE: conexión Bluetooth 5.0 para reproducir música desde el smartphone, tablet o dispositivo inalámbrico. Función manos libres para recibir llamadas.
+- - SPLASHPROOF: altavoz portátil recubierto de tela resistente a salpicaduras, cinta para colgar y bolsa de transporte incluida para su protección.
+- - TRUE WIRELESS STEREO: 20 W de potencia y tecnología True Wireless para conectar simultáneamente dos dispositivos y duplicar el sonido. Integra doble membrana para el realce de graves.
+- - BATERIA: Batería de litio recargable con 12 horas de autonomía y conector de carga USB Tipo C.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HZ145HK/?tag=tolees-21)
