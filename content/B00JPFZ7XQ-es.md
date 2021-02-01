@@ -28,10 +28,10 @@ Ahora mismo tienes [aiino italian ideas - Aiino Hard Shell - Funda Dura para por
 
 🔎:
 
-- Permite que el dispositivo libere el calor no deseado
-- Permite abrir y cerrar completamente el MacBook y acceder a todos sus puertos: USB, Thunderbolt, HDMI, tarjeta SD, alimentación y auriculares
-- Resistencia a los arañazos y protege de rozaduras
 - Delgado, ligero y durable
+- Permite que el dispositivo libere el calor no deseado
+- Resistencia a los arañazos y protege de rozaduras
 - Con acabado mate. Aspecto elegante, divertido y llamativo
+- Permite abrir y cerrar completamente el MacBook y acceder a todos sus puertos: USB, Thunderbolt, HDMI, tarjeta SD, alimentación y auriculares
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JPFZ7XQ/?tag=tolees-21)

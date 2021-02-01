@@ -28,7 +28,7 @@ Tienes [Warner Bros. Interactive Entertainment - Batman Arkham Collection  Stand
 
 ℹ️:
 
-- Batman Arkham collection brings you the definitive versions of Rocksteadys Arkham trilogy games, including all post-launch content, in one complete collection
 - experience two of the most critically acclaimed titles of the last generation - Batman: Arkham Asylum and Batman: Arkham City, with fully remastered and updated visuals
+- Batman Arkham collection brings you the definitive versions of Rocksteadys Arkham trilogy games, including all post-launch content, in one complete collection
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083T65GQX/?tag=tolees-21)
