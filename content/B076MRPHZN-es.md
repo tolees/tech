@@ -28,10 +28,10 @@ Está [Decotech - Altavoz Bluetooth con Linterna led  inalámbrico  Uso Interior
 
 ℹ️:
 
-- Altavoz bluetooth con 10 vatios de sonido
-- Uso en interiores y exteriores – grado de resistencia al agua ip65
 - Diseño original en forma de linterna con acabado metálico
+- Uso en interiores y exteriores – grado de resistencia al agua ip65
 - Elegante lámpara inalámbrica de diseño decotech con doble funcionalidad: incorpora un altavoz bluetooth y ofrece luz con efecto de llamas vivas que creará un ambiente dulce y cálido
+- Altavoz bluetooth con 10 vatios de sonido
 - Orificio en el lado inferior para enroscarlo a un soporte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076MRPHZN/?tag=tolees-21)
