@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Redmi 9C NFC-Smartphone con Panta con un 19.47 % de descuento'
-date: 2021-01-31 07:42:07
+title: 'Xiaomi Redmi 9C NFC-Smartphone con Panta con un 20.13 % de descuento'
+date: 2021-02-01 07:48:03
 image: 'https://m.media-amazon.com/images/I/41AAp25enVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B08FMPXDTJ-es Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53"...'
 sku: 'B08FMPXDTJ-es'
 tags: [ 'xiaomi', ]
-actualPrice: 119.99 EUR
+actualPrice: 119.0 EUR
 currency: EUR
-price: 119.99
+price: 119.0
 comparePrice: 149.0 EUR
 prodname: 'Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" DotDrop  3GB+64GB  Triple cámara trasera de 13MP con IA  MediaTek Helio G35  Batería de 5000 mAh  10 W de carga rápida   Gris [Ver.Española]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21'
-descuento: '19.47'
-average: '140.815274725275'
+descuento: '20.13'
+average: '140.346129032258'
 ---
 
-En este momento está [Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" DotDrop  3GB+64GB  Triple cámara trasera de 13MP con IA  MediaTek Helio G35  Batería de 5000 mAh  10 W de carga rápida   Gris [Ver.Española]](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21) a 119.99 EUR (original: 149.0 EUR) (19.47 %  de descuento) en el siguiente enlace!
+En este momento está [Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" DotDrop  3GB+64GB  Triple cámara trasera de 13MP con IA  MediaTek Helio G35  Batería de 5000 mAh  10 W de carga rápida   Gris [Ver.Española]](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21) a 119.0 EUR (original: 149.0 EUR) (20.13 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Redmi 9C NFC-Smartphone con Panta](https://m.media-amazon.com/images/I/41AAp25enVL._SL200_.jpg)](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21)
 
 🔎:
 
+- Tamaño_nombre/color_nombre
+- Ranuras de memoria disponibles: 1
 - Sistema de triple cámara trasera de 13 mp con ia, video full hd a 30fps y cámara frontal selfie de 5 mp
 - El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
-- Batería de alta capacidad de 5000 mah con carga rápida de 10w.
 - Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
-- Ranuras de memoria disponibles: 1
-- Tamaño_nombre/color_nombre
+- Batería de alta capacidad de 5000 mah con carga rápida de 10w.
 - Tipo de pantalla: LCD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21)
