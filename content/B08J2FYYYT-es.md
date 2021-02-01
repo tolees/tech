@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7 C - Cámara Evil de fotogram al 20.00 % de descuento'
-date: 2021-01-31 08:24:30
+date: 2021-02-01 20:29:57
 image: 'https://m.media-amazon.com/images/I/31G3wxEKiQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08J2FYYYT/?tag=tolees-21'
 descuento: '20.00'
-average: '1802.35'
+average: '1781.95833333333'
 ---
 
 Ahora mismo tienes [Sony Alpha 7 C - Cámara Evil de fotograma Completo  compacta y Ligera  Enfoque automático a Tiempo Real  24.2 MP  Sistema de estabilización de 5 Ejes  batería de Gran Capacidad  - Plata](https://www.amazon.es/dp/B08J2FYYYT/?tag=tolees-21) a 1680.0 EUR (original: 2100.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -31,7 +31,7 @@ Ahora mismo tienes [Sony Alpha 7 C - Cámara Evil de fotograma Completo  compact
 - MANEJO INTUITIVO: Estabilización de imagen de hasta 5 pasos, pantalla táctil de ángulo variable, batería Z para mayor duración, interfaz de audio digital con entrada para micrófono y auriculares y una mejor resistencia al polvo y humedad
 - ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: Sujeto siempre enfocado y nítido gracias al AF con seguimiento en tiempo real de Sony, que incluso puede seguir el enfoque en ojos (humanos y animales) y también en modo vídeo (humanos)
 - CALIDAD PROFESIONAL EN TAMAÑO COMPACTO: La potencia de un sensor retroiluminado de fotograma completo CMOS dentro de un cuerpo ligero y compacto que te seguirá ahí donde vayas
-- CAPTURA LA VIDA TAL Y COMO LA VES: con 24MP, grabación de vídeo en 4K e ISO 100-51200, la Alpha 7 C captura todos los detalles en cualquier situación de iluminación
 - COMPARTE TUS CREACIONES FÁCILMENTE: Descarga gratis en tu dispositivo la aplicación Imaging Edge de Sony y comparte fácilmente tu contenido
+- CAPTURA LA VIDA TAL Y COMO LA VES: con 24MP, grabación de vídeo en 4K e ISO 100-51200, la Alpha 7 C captura todos los detalles en cualquier situación de iluminación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08J2FYYYT/?tag=tolees-21)
