@@ -28,10 +28,10 @@ Ahora mismo tienes [Ziyituod Antena WiFi Externa 2.4G / 5.8G Base Magnética de 
 
 🔎:
 
-- ➤Aplicaciones: Transmisor AV TP-Link Dlink Netgear Belkin Router Wifi Hotspots móviles 2G 3G 4G LTE GSM Inalámbrico Bluetooth HSDPA UMTS DCS Conector de antena
-- ➤Cable: 2M | Paquete: 1x antena WiFi RP SMA
-- ➤Rango de frecuencia: 2.4 / 5.8ghz | Ganancia: 6dbi | Serie de productos: Antena doble RP-SMA
-- ➤Admite señal 802.11 b / g / n / ac / ax, antena Wlan para puntos de acceso y tarjetas Wifi enrutador PCI PCE Wifi Stick
 - ➤Longitud del cable: 200 cm / 6,5 pies | Longitud de la antena: 18 cm | Radiación: antena omnidireccional
+- ➤Admite señal 802.11 b / g / n / ac / ax, antena Wlan para puntos de acceso y tarjetas Wifi enrutador PCI PCE Wifi Stick
+- ➤Aplicaciones: Transmisor AV TP-Link Dlink Netgear Belkin Router Wifi Hotspots móviles 2G 3G 4G LTE GSM Inalámbrico Bluetooth HSDPA UMTS DCS Conector de antena
+- ➤Rango de frecuencia: 2.4 / 5.8ghz | Ganancia: 6dbi | Serie de productos: Antena doble RP-SMA
+- ➤Cable: 2M | Paquete: 1x antena WiFi RP SMA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GJXZ1T2/?tag=tolees-21)
