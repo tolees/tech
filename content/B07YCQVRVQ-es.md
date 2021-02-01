@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi GPX4015RT  2.1 W  Lightstrip Plus al 20.02 % de descuento'
-date: 2021-01-27 15:50:46
+date: 2021-02-01 10:22:29
 image: 'https://m.media-amazon.com/images/I/41nN5TD-GyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 9.99 EUR
 prodname: 'Xiaomi GPX4015RT  2.1 W  Lightstrip Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07YCQVRVQ/?tag=tolees-21'
 descuento: '20.02'
-average: '9.38181818181818'
+average: '9.26583333333333'
 ---
 
 Ahora mismo tienes [Xiaomi GPX4015RT  2.1 W  Lightstrip Plus](https://www.amazon.es/dp/B07YCQVRVQ/?tag=tolees-21) a 7.99 EUR (original: 9.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
@@ -27,8 +28,8 @@ Ahora mismo tienes [Xiaomi GPX4015RT  2.1 W  Lightstrip Plus](https://www.amazon
 
 🔎:
 
-- Xiaomi
 - DESCONOCIDO
+- Xiaomi
 - Lightstrip Plus
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YCQVRVQ/?tag=tolees-21)
