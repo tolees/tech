@@ -28,14 +28,14 @@ Tienes [Sharp PS-919 BK  Party Speaker con TWS  Bluetooth 5.0 Puerto USB  Sonido
 
 🔎:
 
-- Altavoz woofer 1 x 4 pulgadas altavoces tweeter 2 x 2 pulgadas
+- Espectáculo de luces multicolor con diferentes modos
 - Impermeable ipx5
-- 3d surrounding y efecto super bass
 - Bateria integrada con hasta 14 horas de reproduccion
 - Conectividad 1 x bluetooth 5.0, 1 x 3.5 mm entrada aux, 1 x uspara reproduccion o carga
-- Potencia de salida: 130.0 vatios
-- Espectáculo de luces multicolor con diferentes modos
+- 3d surrounding y efecto super bass
 - Potenvia: 130 w
+- Potencia de salida: 130.0 vatios
+- Altavoz woofer 1 x 4 pulgadas altavoces tweeter 2 x 2 pulgadas
 - Ps-919 (bk) con twstrue wireless stereo – para conectar un segundo ps-919 via bluetooth
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XY7W4SD/?tag=tolees-21)
