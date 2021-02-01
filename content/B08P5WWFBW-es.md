@@ -28,8 +28,8 @@ Tienes [Energy Sistem Gaming Keyboard ESG K2 Ghosthunter  Teclado de Membrana  U
 
 ℹ️:
 
-- - Smooth and optimal typing: Teclado de membrana con pulsación suave y optimizada para una mayor durabilidad.
 - - Anti-ghosting (19 keys): Teclado de membrana con función anti-ghosting para evitar que presiones cualquier tecla y desconectes de la partida.
+- - Smooth and optimal typing: Teclado de membrana con pulsación suave y optimizada para una mayor durabilidad.
 - - LED effects: Tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P5WWFBW/?tag=tolees-21)

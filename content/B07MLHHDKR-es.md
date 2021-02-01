@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony SRS-XB12  Altavoz Inalámbrico Portátil  Bluetooth  Ex
 
 🔎:
 
+- Resistente al agua y al polvo (calificación IP67)
 - Diseño compacto y portátil
 - Hasta 16 horas de duración de la batería
-- Extra Bass para un sonido rotundo y profundo
 - Se suministra con correa desmontable
-- Resistente al agua y al polvo (calificación IP67)
+- Extra Bass para un sonido rotundo y profundo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLHHDKR/?tag=tolees-21)
