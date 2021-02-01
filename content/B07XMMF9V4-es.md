@@ -28,10 +28,10 @@ Tienes [OMOTON Ratón Bluetooth  Ratón Inalámbrico Compatible con Macbook  iPa
 
 🔎:
 
-- ⭐ Compatible con sistema de Windows, iPadOS (Superior a Versión 13), MacOS, Android y Linux. iMac, Macbook, iPad, Lenovo, Asus, HP, Surface, etc.
-- 🍀 La tapa del ratón se puede abrir, entonces hay un hueco para poner un pila AA. (un pila AA no incluida)
 - 💎 Atención, si utiliza el ratón en iPad, actualiza el sistema iPadOS 13 o superior, entonces ajustar ¨AssistiveTouch¨.
-- ⭐ Ratón bluetooth inalámbrico, tres CPI 800/1200/1600 ajustable, sin receptor, sin cable, ligero y fácil de usar, utiliza más comodidad.
 - ⭐ Tecnología Bluetooth 5.0 (3.0), no necesita código cuando está conectado. NOTA, al uso en iPad y MacBook, la dirección del uso de la rueda, es opuesta a la normal forma en ordenador.
+- ⭐ Compatible con sistema de Windows, iPadOS (Superior a Versión 13), MacOS, Android y Linux. iMac, Macbook, iPad, Lenovo, Asus, HP, Surface, etc.
+- ⭐ Ratón bluetooth inalámbrico, tres CPI 800/1200/1600 ajustable, sin receptor, sin cable, ligero y fácil de usar, utiliza más comodidad.
+- 🍀 La tapa del ratón se puede abrir, entonces hay un hueco para poner un pila AA. (un pila AA no incluida)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XMMF9V4/?tag=tolees-21)

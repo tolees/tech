@@ -28,10 +28,10 @@ Tienes [MINIS FORUM - Mini PC AMD Ryzen 5 3550H | 16 GB RAM 512 GB PCle SSD | Ra
 
 🔎:
 
-- Multitud de Puertos y Conectores: USB-C, USB 3.1, HDMI, DisplayPort, 2 Gigabit Ethernet, Wifi6 (AX200), Bluetooth 5.1, Conector de Audio de 3.5mm. Conexión Simultánea a 3 Pantallas UHD de 4K/60Hz.
 - Energética y Ergonómicamente Eficiente. Ahorra Espacio de Escritorio y Consume Menos Energía que Equipos Equivalentes. Funciona de Manera Casi Silenciosa Gracias a su Ventilador de Calidad y a un Diseño Inteligente del Flujo de Aire. Diseño con Marcos Metálicos.
+- CPU AMD RYZEN 5 3550H de Altas Prestaciones con Gráficos Radeon Vega 8. 16Gb de Memoria RAM DDR4 de Doble Canal (2 x 8Gb) y unidad PCle SSD M.2 de 512 Gb. Preinstalado con Windows 10 pro 64-Bit.
 - Certificaciones y Soporte: FCC, CE, ROSH. 2 Año de Garantía y Soporte 24/7. Funciones: RTC WakeUp / Wake-On-Lan / Autoencendido (configurable en BIOS) / Arranque desde Red.
 - Mini PC Elegante de Pequeño Tamaño. Fácil de Configurar, Fácil de Actualizar y Fácil de Instalar. Múltiples Escenarios de Uso: Juegos, Oficina, Media Center, Mini Servidor, Educación, Señalética.
-- CPU AMD RYZEN 5 3550H de Altas Prestaciones con Gráficos Radeon Vega 8. 16Gb de Memoria RAM DDR4 de Doble Canal (2 x 8Gb) y unidad PCle SSD M.2 de 512 Gb. Preinstalado con Windows 10 pro 64-Bit.
+- Multitud de Puertos y Conectores: USB-C, USB 3.1, HDMI, DisplayPort, 2 Gigabit Ethernet, Wifi6 (AX200), Bluetooth 5.1, Conector de Audio de 3.5mm. Conexión Simultánea a 3 Pantallas UHD de 4K/60Hz.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LZ34BRC/?tag=tolees-21)

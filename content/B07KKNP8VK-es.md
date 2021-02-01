@@ -29,8 +29,8 @@ En este momento está [LG 32UK550-B - Monitor 4K UHD de 80 cm  31 5"  con panel 
 🔎:
 
 - Colores vivos y mejor contraste con HDR10
-- Tecnología RADEON FreeSync para disfrutar de la acción sin parpadeos
 - Muestra por encima del 95% del espectro de color DCI-P3
+- Tecnología RADEON FreeSync para disfrutar de la acción sin parpadeos
 - Amplía contenidos en la pantalla sin que pierdan resolución ni nitidez gracias a la tecnología Super Resolution+
 - Ajusta mediante hardware la configuración del color para mantener la precisión en cualquier juego o contenido audiovisual
 
