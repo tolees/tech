@@ -29,8 +29,8 @@ Está [Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con hasta 150 MB/s de
 ℹ️:
 
 - Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
-- Hasta 150 MB/s de velocidades de lectura
 - Transfiere una película completa en menos de 30 segundos
+- Hasta 150 MB/s de velocidades de lectura
 - La memoria flash USB 3.0 SanDisk Ultra Flair es compatible con con puertos USB 3.0 y 2.0
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B015CH1JIW/?tag=tolees-21)

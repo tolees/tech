@@ -28,11 +28,11 @@ En este momento está [ASUS TUF Gaming F15 FX506LH-BQ030 - Portátil de 15.6" Fu
 
 🔎:
 
-- Procesador Intel Core i7-10750H
-- Tarjeta gráfica NVIDIA GTX1650 para una máxima experiencia de juego y trabajo
-- Almacenamiento de 1TB de SSD
-- Sin sistema operativo
 - Pantalla de 15.6" FullHD (1920x1080)
 - Diseñado para ser portátil y durar más tiempo: equipado con más capacidad de batería, un chasis más compacto y durabilidad militar
+- Procesador Intel Core i7-10750H
+- Almacenamiento de 1TB de SSD
+- Tarjeta gráfica NVIDIA GTX1650 para una máxima experiencia de juego y trabajo
+- Sin sistema operativo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DNKR748/?tag=tolees-21)

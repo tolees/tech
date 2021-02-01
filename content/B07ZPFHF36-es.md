@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Netgear GS324P Switch de red no gestiona al 19.03 % de descuento'
-date: 2021-01-03 23:42:37
+date: 2021-01-31 23:10:54
 image: 'https://m.media-amazon.com/images/I/31cBWwaUfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPFHF36-es'
+slug: 'B07ZPFHF36-es Netgear GS324P Switch de red no gestionable con 24 puertos...'
+sku: 'B07ZPFHF36-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 224.2 EUR
 currency: EUR
 price: 224.2
@@ -14,6 +16,7 @@ comparePrice: 276.9 EUR
 prodname: 'Netgear GS324P Switch de red no gestionable con 24 puertos Gigabit Ethernet  16 puertos PoE+ y 190W  montaje de sobremesa y bastidor  carcasa metálica y sin ventilador'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Netgear'
 buyurl: 'https://www.amazon.es/dp/B07ZPFHF36/?tag=tolees-21'
 descuento: '19.03'
 average: '224.2'
@@ -25,10 +28,10 @@ Está [Netgear GS324P Switch de red no gestionable con 24 puertos Gigabit Ethern
 
 ℹ️:
 
-- Opciones de montaje versátiles: montaje en sobremesa, pared o bastidor, se incluyen todas las sujecciones necesarias
-- Configuración de conexión de red: switch de red de 24 gigabits (10/100/1000 mbit/s)
-- Funcionamiento silencioso: el diseño sin ventilador garantiza un funcionamiento silencioso independientemente de la ubicación, ideal para entornos sensibles al ruido
-- Plug and play: configuración sencilla del switch de distribución lan, no se requiere software ni configuración
 - Alimentación a través de ethernet: 16 puertos poe + con un gasto de energía total de 190 w
+- Configuración de conexión de red: switch de red de 24 gigabits (10/100/1000 mbit/s)
+- Plug and play: configuración sencilla del switch de distribución lan, no se requiere software ni configuración
+- Opciones de montaje versátiles: montaje en sobremesa, pared o bastidor, se incluyen todas las sujecciones necesarias
+- Funcionamiento silencioso: el diseño sin ventilador garantiza un funcionamiento silencioso independientemente de la ubicación, ideal para entornos sensibles al ruido
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07ZPFHF36/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZPFHF36/?tag=tolees-21)
