@@ -28,9 +28,9 @@ En este momento está [Panasonic ER-GC71 - Cortador de barba / cabello con 39 co
 
 🔎:
 
-- El embalaje puede variar
-- Práctico: 39 configuraciones de longitud precisa de 1 mm a 20 mm en pasos de 0,5 mm (0,5 mm sin accesorio de peine)
 - Volumen de suministro: 1x recortadora de cabello Panasonic ER-GC71, 1x fuente de alimentación, 1 x bolsa de almacenamiento, 2x accesorios de peine, 1x cepillo de limpieza, 1 x aceite.
 - Cuchillas de alta precisión: las cuchillas X profesionales garantizan un recorte preciso y seguro.
+- Práctico: 39 configuraciones de longitud precisa de 1 mm a 20 mm en pasos de 0,5 mm (0,5 mm sin accesorio de peine)
+- El embalaje puede variar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21)
