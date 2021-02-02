@@ -29,9 +29,9 @@ Ahora mismo tienes [Richgv Tableta de Escritura LCD  11 Pulgadas Tablet de Dibuj
 🔎:
 
 - Tamaño: 29.7 * 20.9 * 0.8cm, Peso: 260g. Se incluye un lápiz óptico de 11,8 cm. La tableta es ligera y portátil, también lo suficientemente pequeña como para que los niños la sostengan en las manos.
-- Esta tableta se puede utilizar para el aprendizaje preescolar como escribir y dibujar, los adultos pueden usarlo para dejar el mensaje, tomar notas rápidas y memo, grabar minutos de reunión, etc.
-- La tableta es de reciclaje y el medio ambiente, con una batería de botón CR2016 (potencia completa), podría soportar un máximo de 10000 veces eliminar. La batería es reemplazable.
 - Una simple pulsación para borrar toda la pantalla, fácil para que los niños operen. Para evitar la eliminación accidental de contenido importante, puede activar el botón de bloqueo para bloquear la pantalla.
 - La pantalla no es un daño a los ojos de los niños, sin parpadear, sin radiación. No se produce manchas de tinta ni polvo, mantén las manos limpias. El panel LCD es a prueba de agua, sin embargo, evite hundirlo en el agua.
+- Esta tableta se puede utilizar para el aprendizaje preescolar como escribir y dibujar, los adultos pueden usarlo para dejar el mensaje, tomar notas rápidas y memo, grabar minutos de reunión, etc.
+- La tableta es de reciclaje y el medio ambiente, con una batería de botón CR2016 (potencia completa), podría soportar un máximo de 10000 veces eliminar. La batería es reemplazable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XDYKYWK/?tag=tolees-21)
