@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.87 % en Microsoft – Wired Keyboard 600 Español'
-date: 2021-01-27 00:36:14
+date: 2021-02-02 16:23:38
 image: 'https://m.media-amazon.com/images/I/41wUlFnt+XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 18.9 EUR
 prodname: 'Microsoft – Wired Keyboard 600 Español'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B0055ZWOSG/?tag=tolees-21'
 descuento: '15.87'
-average: '13.3637037037037'
+average: '13.5386206896552'
 ---
 
 Tienes [Microsoft – Wired Keyboard 600 Español](https://www.amazon.es/dp/B0055ZWOSG/?tag=tolees-21) con un 15.87 % de descuento con precio de oferta de 15.9 EUR (original: 18.9 EUR) en el siguiente enlace!
@@ -27,11 +28,11 @@ Tienes [Microsoft – Wired Keyboard 600 Español](https://www.amazon.es/dp/B005
 
 ℹ️:
 
-- Compatible con Windows
-- Diseño ergonómico
 - Diseño anti-derrame
-- Conectividad mediante cable USB
-- Teclas silencionas
+- Compatible con Windows
 - Tecla Inicio de Windows
+- Teclas silencionas
+- Conectividad mediante cable USB
+- Diseño ergonómico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0055ZWOSG/?tag=tolees-21)
