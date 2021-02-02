@@ -29,8 +29,8 @@ Ahora mismo tienes [Nikon AI Adaptador  K&F Concept Cámara Adaptador para Objet
 🔎:
 
 - 【Aspecto de diseño exclusivo】Marca de K&F Concept, fabricado por un equipo profesional para los entusiastas de la fotografía, en la seguridad de la cámara / lente para formar una línea recta, poner estable, no es fácil de deslizar, más seguro.
-- 【Material actualizado】Transferencia perfecta con alta exactitud, y el cuerpo es consiste de la aleación de aluminio-cobre, el Objetivo con el material de cobre fino que no desgasta la lente, la mano de obra es muy refinada, muy durable.
 - 【Compatible con la cámara SONY NEX】Este Convertidor Permite montar los Lentes Nikon AI Series a la cámara SONY NEX cámara digital, por ejemplo: Sony NEX-3 NEX-3C NEX-3N NEX-5 NEX-5C NEX-5N NEX-5R NEX-5T NEX-6 NEX-7 NEX-F3 NEX-VG10 VG20.
+- 【Material actualizado】Transferencia perfecta con alta exactitud, y el cuerpo es consiste de la aleación de aluminio-cobre, el Objetivo con el material de cobre fino que no desgasta la lente, la mano de obra es muy refinada, muy durable.
 - 【Material actualizado】Transferencia perfecta con alta exactitud, y el cuerpo es consiste de la aleación de aluminio-cobre, el Objetivo con el material de cobre fino que no desgasta la lente, la mano de obra es muy refinada, muy durable.
 - 【Enfoque a infinito】No hay contactos eléctricos en el anillo del adaptador. La exposición y el enfoque tiene que ser ajustado manualmente. Y gracias al adaptador de ajuste preciso, el enfoque es posible hasta el infinito y le permite tomar imágenes nítidas de objetos distantes incluso al anochecer y de noche.
 
