@@ -28,10 +28,10 @@ Tienes [PRIXTON VC400 - Tocadiscos de Vinilo Vintage  Reproductor de vinilo y Re
 
 ℹ️:
 
-- Tocadiscos vintage con una velocidad de 33.3/45/78 RPM.
-- Reproductor vinilo y convertidor de vinilos a WAV para digitalizar tu música antigua favorita.
 - Tocadiscos bluetooth con 2 altavoces de 3W, salida RCA, puerto USB y auriculares / line in.
+- Tocadiscos vintage con una velocidad de 33.3/45/78 RPM.
 - Si no tienes disco, puedes escuchar la música de tu dispositivo mediante bluetooth.
+- Reproductor vinilo y convertidor de vinilos a WAV para digitalizar tu música antigua favorita.
 - Tocadiscos retro con aguja de cerámica incluida y diseño de maleta vintage.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q3GK65V/?tag=tolees-21)
