@@ -28,10 +28,10 @@ Tienes [K&F Concept Adaptador de Lentes  Adaptador Lentes Compatible para Nikon 
 
 ℹ️:
 
+- 【Estructura Única】Una característica especial del adaptador es el anillo de apertura incorporado. El anillo se utiliza para ajustar la apertura del objetivo. Gracias al anillo de apertura, el adaptador también es ideal para G-Nikon.
 - 【Preocupación de Instalación】Sin transmisión electrónica de datos, conexión puramente mecánica. El iris, el enfoque y el zoom deben configurarse en la lente. El enfoque al infinito es posible con todos los objetivos.
-- 【Aspecto de diseño exclusivo】La apariencia cuadrada de diseño exclusivo corresponde al estilo de la cámara Fuji. La cámara y el objetivo forman una línea recta por seguridad. Son estables, no resbaladizas y seguras.
 - 【Materiales y Facilidad】Marca de punto rojo para un montaje preciso, fácil de instalar y quitar.Hecho con precisión de aleación de aluminio y cobre de alta calidad. La lente no está desgastada ni rasgada por la precisa bayoneta de cobre. Es duradero y cómodo de usar.
 - 【Compatible Función】Con este adaptador de lente, puede conectar lentes Nikon G / F / AI / AIS / D a Fujifilm X-mount FX X-Pro1 X-Pro2 X-E1 X-M1 X-A1 X-E2 X-T1 X-A2 X-T10 X -Utilice E2s X-T2 X-A3.
-- 【Estructura Única】Una característica especial del adaptador es el anillo de apertura incorporado. El anillo se utiliza para ajustar la apertura del objetivo. Gracias al anillo de apertura, el adaptador también es ideal para G-Nikon.
+- 【Aspecto de diseño exclusivo】La apariencia cuadrada de diseño exclusivo corresponde al estilo de la cámara Fuji. La cámara y el objetivo forman una línea recta por seguridad. Son estables, no resbaladizas y seguras.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087CRN55W/?tag=tolees-21)
