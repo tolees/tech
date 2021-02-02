@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zexrow Mando para Nintendo Switch  Mando al 21.55 % de rebaja'
-date: 2021-02-01 10:35:54
+date: 2021-02-02 14:26:42
 image: 'https://m.media-amazon.com/images/I/415b65pDBCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Zexrow'
 buyurl: 'https://www.amazon.es/dp/B088TRGW4W/?tag=tolees-21'
 descuento: '21.55'
-average: '23.35'
+average: '23.2819540229885'
 ---
 
 Tienes [Zexrow Mando para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch](https://www.amazon.es/dp/B088TRGW4W/?tag=tolees-21) con precio final de  20.39 EUR (original: 25.99 EUR) (21.55 %  de rebaja) aqui!
