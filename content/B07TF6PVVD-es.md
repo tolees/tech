@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iAmotus Ratón Inalámbrico  2.4GHz Wirele al 36.69 % de descuento'
-date: 2021-01-28 09:01:27
+date: 2021-02-02 11:46:04
 image: 'https://m.media-amazon.com/images/I/41zmsh4H-pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 14.99 EUR
 prodname: 'iAmotus Ratón Inalámbrico  2.4GHz Wireless Ratón Silencioso Optico 3DPI de Ajustable con Nano USB Receptor de Mouse Ergonómico para Escritorio/Windows/Linux/Vista/PC/Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: 'iAmotus'
 buyurl: 'https://www.amazon.es/dp/B07TF6PVVD/?tag=tolees-21'
 descuento: '36.69'
-average: '9.71727272727273'
+average: '9.71277227722772'
 ---
 
 Está [iAmotus Ratón Inalámbrico  2.4GHz Wireless Ratón Silencioso Optico 3DPI de Ajustable con Nano USB Receptor de Mouse Ergonómico para Escritorio/Windows/Linux/Vista/PC/Mac](https://www.amazon.es/dp/B07TF6PVVD/?tag=tolees-21) con 36.69 de descuento por 9.49 EUR (original: 14.99 EUR) en el siguiente enlace!
