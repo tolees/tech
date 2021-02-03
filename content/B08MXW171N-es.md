@@ -28,10 +28,10 @@ Está [LG XBOOM Go PL2B Azul Celeste - Altavoz Bluetooth de 5W de Potencia con S
 
 ℹ️:
 
-- 5w para disfrutar de la música donde quieras; lg pone el sonido; tú eliges el lugar
-- Conectividad bluetooth 5.0; la conexión que con mayor calidad y menor consumo de batería
-- Ahora con diseño en color hielo azul para disfrutar de la música de calidad en cualquier lugar
 - 10h de música sin parar gracias a la batería de larga duración de lg xboom go pl2
+- Conectividad bluetooth 5.0; la conexión que con mayor calidad y menor consumo de batería
+- 5w para disfrutar de la música donde quieras; lg pone el sonido; tú eliges el lugar
 - Calidad de sonido meridian; el lg xboom go pl2 marca el ritmo con la tecnología meridian para disfrutar de un sonido de alta calidad
+- Ahora con diseño en color hielo azul para disfrutar de la música de calidad en cualquier lugar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MXW171N/?tag=tolees-21)
