@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Sony SEL35F18F - Objetivo de Montura E   al 20.44 % de rebaja'
-date: 2021-02-02 02:47:49
+title: 'Sony FE 35mm f/1.8 - Full-Frame  Gran An al 17.45 % de rebaja'
+date: 2021-02-03 20:51:02
 image: 'https://m.media-amazon.com/images/I/31sgZxqu0NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8X4KGG-es Sony SEL35F18F - Objetivo de Montura E Prime Estándar F1.8...'
+slug: 'B07V8X4KGG-es Sony FE 35mm f/1.8 - Full-Frame Gran Angular Objetivo...'
 sku: 'B07V8X4KGG-es'
 tags: [ 'sony', ]
-actualPrice: 556.94 EUR
+actualPrice: 577.84 EUR
 currency: EUR
-price: 556.94
+price: 577.84
 comparePrice: 700.0 EUR
-prodname: 'Sony SEL35F18F - Objetivo de Montura E  Prime Estándar F1.8  Seguimiento AF Silencioso  Apertura Circular de 9 Láminas  Diseño Resistente al Polvo y Humedad '
+prodname: 'Sony FE 35mm f/1.8 - Full-Frame  Gran Angular  Objetivo Prime  SEL35F18F '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21'
-descuento: '20.44'
-average: '530.144519230769'
+descuento: '17.45'
+average: '531.044433962264'
 ---
 
-Tienes [Sony SEL35F18F - Objetivo de Montura E  Prime Estándar F1.8  Seguimiento AF Silencioso  Apertura Circular de 9 Láminas  Diseño Resistente al Polvo y Humedad ](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21) con precio final de  556.94 EUR (original: 700.0 EUR) (20.44 %  de rebaja) aqui!
+Tienes [Sony FE 35mm f/1.8 - Full-Frame  Gran Angular  Objetivo Prime  SEL35F18F ](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21) con precio final de  577.84 EUR (original: 700.0 EUR) (17.45 %  de rebaja) aqui!
 
-[![Sony SEL35F18F - Objetivo de Montura E  ](https://m.media-amazon.com/images/I/31sgZxqu0NL._SL200_.jpg)](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21)
+[![Sony FE 35mm f/1.8 - Full-Frame  Gran An](https://m.media-amazon.com/images/I/31sgZxqu0NL._SL200_.jpg)](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21)
 
 🔎:
 
-- Seguimiento af silencioso y fiable para vídeos y fotos
-- Objetivo prime estándar con una rápida apertura f1,8
-- Diseño resistente al polvo y la humedad
-- Apertura circular de 9 láminas para un suave bokeh
-- Un elemento asférico para obtener una alta resolución en todo el encuadre
+- ERGONOMÍA CONVENIENTE: El conmutador de modo de enfoque, que permite alternar de forma instantánea entre los modos de enfoque automático y manual junto con un botón de fijación de enfoque personalizable para un disparo eficiente y versátil
+- SIEMPRE FIABLE: Un diseño resistente al polvo y a la humedad ofrece la fiabilidad necesaria para el uso en exteriores y en condiciones adversas
+- MAGNÍFICO BOKEH DE FONDO: Un suave bokeh gracias a un mecanismo de apertura circular de 9 láminas que permite lograr un bokeh natural
+- ENFOQUE AUTOMÁTICO FIABLE: La reducida profundidad de campo disponible con una amplia apertura de F1,8 hace que el enfoque sea fundamental. El sistema de accionamiento AF de motor lineal de alta precisión garantiza un enfoque preciso y súper rápido
+- RÁPIDO Y PRECISO: Linear Response MF garantiza que la anilla de enfoque responda de forma directa y lineal para permitir un control discreto al usar el enfoque manual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V8X4KGG/?tag=tolees-21)

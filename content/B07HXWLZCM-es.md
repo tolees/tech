@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - Green Cell® Ultra Serie A41-K56 Batería p
 
 🔎:
 
-- Las celdas originales Panasonic garantizan un mayor tiempo de trabajo con la batería que en el caso de las baterías originales
-- La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil
 - La batería de la renombrada marca Green Cell de la serie ULTRA. Es una batería de la serie más alta, dedicada a los usuarios más exigentes y que garantiza unos parámetros mejores que las baterías originales
-- Compatible con los ordenadores portátiles: ASUS K56 K56C K56CA K56CB K56CM S56 S56C S56CA S56CB S56CM R550 R550C R550CA R550CB R550CM | 100% compatible con la batería A41-K56
 - Capacidad: 3400 mAh | Tensión: 14.4V | Número de celdas: 4 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
+- Las celdas originales Panasonic garantizan un mayor tiempo de trabajo con la batería que en el caso de las baterías originales
+- Compatible con los ordenadores portátiles: ASUS K56 K56C K56CA K56CB K56CM S56 S56C S56CA S56CB S56CM R550 R550C R550CA R550CB R550CM | 100% compatible con la batería A41-K56
+- La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HXWLZCM/?tag=tolees-21)
