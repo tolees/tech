@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'YI Technology - YI Camara Vigilancia 108 al 33.34 % de descuento'
-date: 2021-01-27 09:58:56
+title: 'YI Camara Vigilancia 1080p Camara IP Cam al 33.34 % de descuento'
+date: 2021-02-03 09:35:04
 image: 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR82BSA-es YI Technology - YI Camara Vigilancia 1080p Camara IP...'
+slug: 'B01MR82BSA-es YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia...'
 sku: 'B01MR82BSA-es'
 tags: [ '1080p','alexa','wifi', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
-prodname: 'YI Technology - YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco'
+prodname: 'YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: 'YI'
 buyurl: 'https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21'
 descuento: '33.34'
-average: '32.588'
+average: '32.9404761904762'
 ---
 
-Ahora mismo tienes [YI Technology - YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![YI Technology - YI Camara Vigilancia 108](https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg)](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
+[![YI Camara Vigilancia 1080p Camara IP Cam](https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg)](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
 
 🔎:
 
-- ALMACENAMIENTO EN LA NUBE: Almacenamiento gratuito de 7 días en YI Cloud de todos los videos de la actividad detectada con cifrado avanzado end-to-end para una privacidad completa. - ALMACENAMIENTO LOCAL: La cámara también admite tarjetas Micro SD con capacidad de almacenamiento desde 4 hasta 64 GB.
-- FUNCIONA CON ALEXA (ECHO SHOW) - YI Cámara Domo 1080p es 100% compatible con Echo Show (Alexa). Habilita la skill YI Home en tu aplicación Amazon Alexa y combina los dos dispositivos para ver la transmisión en vivo de tu cámara wi-fi directamente en la pantalla de tu Echo Show.
 - MONITORIZACIÓN AUTOMÁTICA - MODO PANORÁMICO: la cámara de seguridad controlará automáticamente un área de 360 °, girando 20 ° cada 10 segundos. - MODO FAVORITOS: el usuario también puede marcar hasta 8 zonas favoritas para navegar con mayor frecuencia. Ideal para grandes espacios.
-- DETECCIÓN Y SEGUIMIENTO DE MOVIMIENTO CON NOTIFICACIONES PUSH - Detección de movimiento con grabaciones de vídeo de 6 segundos - Seguimiento de movimiento con grabaciones de 10 segundos - Detección de llanto de bebés - Notificaciones push en el móvil con frecuencia y nivel de sensibilidad ajustables a través de la aplicación YI Home.
+- ALMACENAMIENTO EN LA NUBE: Almacenamiento de 24 horas en YI Cloud de todos los videos de la actividad detectada, con suscripciones opcionales para tiempos más largos de grabación y almacenamiento. - ALMACENAMIENTO LOCAL: La cámara también admite tarjetas Micro SD con capacidad de almacenamiento de hasta 64 GB.
 - COBERTURA DE 360 ° FULL HD CON VISIÓN NOCTURNA NO INVASIVA - Videos y transmisión en vivo en 1080P a 20 fps - Rotación horizontal y vertical con control remoto - Gran angular de 110 ° con zoom digital 4x - Visión nocturna no invasiva con luces IR y LED de estado ajustables (ideal para dormir sin interrupciones).
+- DETECCIÓN Y SEGUIMIENTO DE MOVIMIENTO CON NOTIFICACIONES PUSH - Detección de movimiento con grabaciones de vídeo de 6 segundos - Seguimiento de movimiento con grabaciones de 10 segundos - Detección de llanto de bebés - Notificaciones push en el móvil con frecuencia y nivel de sensibilidad ajustables a través de la aplicación YI Home.
+- FUNCIONA CON ALEXA (ECHO SHOW) - YI Cámara Domo 1080p es 100% compatible con Echo Show (Alexa). Habilita la skill YI Home en tu aplicación Amazon Alexa y combina los dos dispositivos para ver la transmisión en vivo de tu cámara wi-fi directamente en la pantalla de tu Echo Show.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
