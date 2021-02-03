@@ -28,9 +28,9 @@ En este momento está [Fujifilm Instax Mini 9 - Cámara instantánea  Cámara co
 
 🔎:
 
-- Dial de ajuste del brillo
-- Cámara mini 9 y carga de 10 fotografías instantáneas incluidas
 - Tamaño de la imagen de 46 x 62 mm
+- Cámara mini 9 y carga de 10 fotografías instantáneas incluidas
+- Dial de ajuste del brillo
 - Tamaño de la foto de 54 x 86 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075ZHW3YN/?tag=tolees-21)
