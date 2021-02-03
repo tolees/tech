@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FengWings PA5185U-1BRS PA5184U-1BRS PA51 al 17.10 % de rebaja'
-date: 2021-02-02 07:31:08
+date: 2021-02-03 11:23:11
 image: 'https://m.media-amazon.com/images/I/41SU6umeIXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [FengWings PA5185U-1BRS PA5184U-1BRS PA5186U-1BRS - Batería para portát
 
 🔎:
 
+- Garantía de 12 meses
+- Voltaje: 14,8 V. Capacidad: 2800 mAh. 45 Wh. Tipo de batería: ion de litio
 - Certificación: UE EN (IEC) 62133, CE / FCC / RoHS
 - Modelos compatibles: Toshiba Satellite E45-B / L50-B / C50-B / C50D-B / C55-B / L55-B
 - 100% compatible con P/N:PA5185U-1BRS; PA5184U-1BRS; PA5186U-1BRS; G71C000HS510; G71C000HS110
-- Voltaje: 14,8 V. Capacidad: 2800 mAh. 45 Wh. Tipo de batería: ion de litio
-- Garantía de 12 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WR9NPH9/?tag=tolees-21)
