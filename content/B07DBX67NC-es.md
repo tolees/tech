@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Anker Power Wave Ladepad  10 W Cargador  al 19.39 % de descuento'
-date: 2020-02-23 17:59:28
-image: 'https://m.media-amazon.com/images/I/31tER0mi8wL._AC_._SL200_.jpg'
+title: 'Cargador inalámbrico de Anker PowerWave  al 20.01 % de descuento'
+date: 2021-02-02 23:27:17
+image: 'https://m.media-amazon.com/images/I/31W-36nCulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBX67NC-es Anker Power Wave Ladepad 10 W Cargador inalámbrico Qi de...'
+slug: 'B07DBX67NC-es Cargador inalámbrico de Anker PowerWave Pad compatible con...'
 sku: 'B07DBX67NC-es'
-tags: [ 'galaxy','iphone','samsung', ]
-actualPrice: 12.89 EUR
+tags: [ 'galaxy','iphone', ]
+actualPrice: 12.79 EUR
 currency: EUR
-price: 12.89
+price: 12.79
 comparePrice: 15.99 EUR
-prodname: 'Anker Power Wave Ladepad  10 W Cargador inalámbrico  Qi de Certificado  Compatible con iPhone XS Max/XR/XS/X/8/8 Plus  10 W rápido Cargas  Samsung Galaxy S9/S9 +/S8/S8 + y Muchos más'
+prodname: 'Cargador inalámbrico de Anker PowerWave Pad  compatible con iPhone 11  11 Pro  11 Pro Max  XR  XS  X  8  8 Plus  Carga rápida de 10 W Galaxy S20/S10/S9  Note 10 y más  sin adaptador de CA '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Anker'
 buyurl: 'https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21'
-descuento: '19.39'
-average: '15.55'
+descuento: '20.01'
+average: '14.7614285714286'
 ---
 
-Ahora mismo tienes [Anker Power Wave Ladepad  10 W Cargador inalámbrico  Qi de Certificado  Compatible con iPhone XS Max/XR/XS/X/8/8 Plus  10 W rápido Cargas  Samsung Galaxy S9/S9 +/S8/S8 + y Muchos más](https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21) a 12.89 EUR (original: 15.99 EUR) (19.39 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Cargador inalámbrico de Anker PowerWave Pad  compatible con iPhone 11  11 Pro  11 Pro Max  XR  XS  X  8  8 Plus  Carga rápida de 10 W Galaxy S20/S10/S9  Note 10 y más  sin adaptador de CA ](https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21) a 12.79 EUR (original: 15.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Anker Power Wave Ladepad  10 W Cargador ](https://m.media-amazon.com/images/I/31tER0mi8wL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21)
+[![Cargador inalámbrico de Anker PowerWave ](https://m.media-amazon.com/images/I/31W-36nCulL._SL200_.jpg)](https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21)
 
 🔎:
 
+- NEED FOR SPEED: el moderno chipset garantiza cargas de 10 W para Samsung Galaxy y 5 W para iPhones - 10% más rápido que otros cargadores similares.
+- Compatible con fundas: PowerWave carga sin esfuerzo a través de fundas protectoras. Los accesorios de metal y las tarjetas de crédito pueden limitar la carga.
+- Lo que obtienes: una almohadilla de carga PowerWave, un cable micro USB de 90 cm de largo.
+- Antideslizante: el diseño delgado se ve elegante y se adapta perfectamente a cualquier escritorio y oficina. Al mismo tiempo, el material de la superficie de TPU proporciona un agarre firme.
+- El ancla Plus: cierra a los más de 30 millones de clientes felices. Carga Anker.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DBX67NC/?tag=tolees-21)
