@@ -28,11 +28,11 @@ Está [Objetivo Samyang 24mm. F/1.4 para Canon EF](https://www.amazon.es/dp/B007
 
 ℹ️:
 
+- Con revestimiento umc anti-reflectante
+- Enfoque manual
+- Compatible con filtros de 77mm
+- Gran angular para cámaras con sensor full frame o aps-c
 - Montura para canon ef
 - Incluye parasol extraíble
-- Enfoque manual
-- Gran angular para cámaras con sensor full frame o aps-c
-- Compatible con filtros de 77mm
-- Con revestimiento umc anti-reflectante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00746TSTM/?tag=tolees-21)
