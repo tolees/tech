@@ -28,9 +28,9 @@ En este momento está [JBL Flip Essential - altavoz portátil con Bluetooth resi
 
 🔎:
 
-- Potencia de salida total 30W
 - 20 horas de reproducción
 - Resistente al agua según la clase de protección IPX7
+- Potencia de salida total 30W
 - Tiene un acabado elegante con un material de tela duradero
 - Transmisión inalámbrica a través de Bluetooth
 
