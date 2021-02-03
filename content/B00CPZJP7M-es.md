@@ -28,10 +28,10 @@ Ahora mismo tienes [Cooler Master NotePal U2 PLUS Base de Refrigeración para Or
 
 🔎:
 
+- ESTRUCTURA ALUMINIO LIGERO - Suave acabado tipo chorro de arena, estructura diseñada con precisión permite un flujo de aire de alto volumen y conserva una durabilidad excepcional.
+- GESTIÓN DE CABLEADO ORDENADO - El exceso de cableado se puede envolver convenientemente alrededor de 2 carretes integrados en la parte trasera permitiendo un espacio de trabajo ordenado.
+- VENTILADORES DE REFRIGERACIÓN MOVIBLES - Presenta dos ventiladores desmontables de 80mm (21 dBA, 1200 RPM, 31 CFM por ventilador), los abanicos de refrigeración se pueden ubicar, a través de un simple mecanismo de sujeción, en cualquier lugar a lo largo de la base (tipo rejilla) para así apuntar a zonas de calor específicas.
 - BASE FUNCIONAL Y TRANSPORTE SEGURO - Durante el transporte, el U2 PLUS se convierte en una funda protectora tipo maletín duradera con almohadillas de goma la cual incluye una banda de seguridad para garantizar que el hardware esté seguro y protegido. Para portátiles de hasta 17".
 - ÁNGULO DIGITACION ERGONÓMICO - Los ordenadores portátiles son causa famosa de dolor ergonómico; el NotePal U2 PLUS se posiciona en un cómodo y bajo ángulo para así mantener la posición de la muñeca lo más neutral posible.
-- GESTIÓN DE CABLEADO ORDENADO - El exceso de cableado se puede envolver convenientemente alrededor de 2 carretes integrados en la parte trasera permitiendo un espacio de trabajo ordenado.
-- ESTRUCTURA ALUMINIO LIGERO - Suave acabado tipo chorro de arena, estructura diseñada con precisión permite un flujo de aire de alto volumen y conserva una durabilidad excepcional.
-- VENTILADORES DE REFRIGERACIÓN MOVIBLES - Presenta dos ventiladores desmontables de 80mm (21 dBA, 1200 RPM, 31 CFM por ventilador), los abanicos de refrigeración se pueden ubicar, a través de un simple mecanismo de sujeción, en cualquier lugar a lo largo de la base (tipo rejilla) para así apuntar a zonas de calor específicas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CPZJP7M/?tag=tolees-21)

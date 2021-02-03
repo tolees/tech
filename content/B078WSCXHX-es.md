@@ -28,10 +28,10 @@ En este momento está [Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Visi
 
 🔎:
 
-- Dimensiones del producto: 21.7 x 32 x 4.5 cm
+- Claridad visual del Blu-ray 4K Ultra HD
 - Reproduce la mayoría de discos y formatos de archivo
 - Escucha música en múltiples formatos
+- Dimensiones del producto: 21.7 x 32 x 4.5 cm
 - Salidas HDMI duales para separar audio y vídeo
-- Claridad visual del Blu-ray 4K Ultra HD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21)
