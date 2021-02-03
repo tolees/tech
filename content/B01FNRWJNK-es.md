@@ -28,10 +28,10 @@ Está [HP Z3700 RF Raton óptico inalámbrico 1200DPI Azul  Ambidiestro  - Rató
 
 ℹ️:
 
-- Tecnología de detección de movimientos: Óptico
-- Factor de forma: Ambidextro
 - Resolución de movimiento de 1200 DPI
+- Factor de forma: Ambidextro
 - Interfaz del dispositivo: RF inalámbrico
+- Tecnología de detección de movimientos: Óptico
 - Uso recomendado: PC/ordenador portátil
 - Tipo de desplazamiento: Rueda
 
