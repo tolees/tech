@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron AF 18-200 mm F/3.5-6.3 XR Di II V al 15.32 % de descuento'
-date: 2020-08-20 08:22:49
+date: 2021-02-04 18:37:51
 image: 'https://m.media-amazon.com/images/I/51CChj7ZcSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 235.0 EUR
 prodname: 'Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Canon  distancia focal 18-200mm  apertura f/3.5-6.3  estabilizador óptico  diámetro filtro: 62mm   color negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tamron'
 buyurl: 'https://www.amazon.es/dp/B013HXY1OC/?tag=tolees-21'
 descuento: '15.32'
-average: '199.28875'
+average: '199.266538461538'
 ---
 
 Está [Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Canon  distancia focal 18-200mm  apertura f/3.5-6.3  estabilizador óptico  diámetro filtro: 62mm   color negro](https://www.amazon.es/dp/B013HXY1OC/?tag=tolees-21) con 15.32 de descuento por 199.0 EUR (original: 235.0 EUR) en el siguiente enlace!
@@ -28,5 +28,10 @@ Está [Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Canon  
 
 ℹ️:
 
+- Estabilización de imagen VC y AF mejorado con solo 400gr
+- Intervalo de longitud focal: 18 - 200 mm
+- Distancia más cercana de enfoque: 0.49 m
+- Óptica digital para cámaras Canon con espejo de objetivo intercambiable (Sensores APS-C)
+- Di II: Óptica digital para sensores APS-C o similar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013HXY1OC/?tag=tolees-21)
