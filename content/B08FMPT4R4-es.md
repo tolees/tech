@@ -30,8 +30,8 @@ Tienes [Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" DotDrop  3GB+64
 
 - OS: Android 10
 - Procesador: Mediatek Helio G35 2.3GHz
-- Cámara: Triple, 13MP+5MP+2MP
 - Pantalla: 6.53", 720 x 1600 pixels
+- Cámara: Triple, 13MP+5MP+2MP
 - Batería: 5000 mAh
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FMPT4R4/?tag=tolees-21)
