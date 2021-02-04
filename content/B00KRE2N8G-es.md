@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola C1001  Teléfono Fijo  DC-in jac con un 20.01 % de descuento'
-date: 2021-02-03 02:18:31
+date: 2021-02-04 02:45:09
 image: 'https://m.media-amazon.com/images/I/31JuOOQPR5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21'
 descuento: '20.01'
-average: '16.198'
+average: '16.1922222222222'
 ---
 
 En este momento está [Motorola C1001  Teléfono Fijo  DC-in jack  Negro](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21) a 15.99 EUR (original: 19.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [Motorola C1001  Teléfono Fijo  DC-in jack  Negro](https:
 
 🔎:
 
-- Habilidad para nombrar terminales
+- Estación base / dispositivo de seguridad
 - Habilidad para nombrar terminales
 - Control de volumen del timbre del auricular - 5 niveles y apagado
+- Habilidad para nombrar terminales
 - 1 base, expandible hasta 4 auriculares
 - Modo de marcación - tono / pulso
-- Estación base / dispositivo de seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21)
