@@ -28,11 +28,11 @@ Tienes [ASUS ROG Strix G17 G712LW-EV023 - Portátil Gaming de 17.3" FullHD 144Hz
 
 🔎:
 
-- Sin sistema operativo
 - Memoria RAM 32GB (16GB*2) DDR4 2933MHz
+- Almacenamiento 1TB SSD M.2 NVMe PCIe 3.0
+- Sin sistema operativo
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
 - Tarjeta gráfica NVIDIA GeForce RTX 2070 8GB GDDR6 VRAM
-- Almacenamiento 1TB SSD M.2 NVMe PCIe 3.0
 - Pantalla de 17.3" FullHD (1920x1080)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DNK3P4P/?tag=tolees-21)
