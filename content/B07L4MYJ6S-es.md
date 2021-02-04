@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Lenovo L27m - 28 27.0 Inch FHD IPS FreeS al 28.57 % de descuento'
-date: 2020-09-03 08:48:42
+title: 'Lenovo L27m-28 27.0 " FHD IPS FreeSync G al 21.43 % de descuento'
+date: 2021-02-04 22:59:17
 image: 'https://m.media-amazon.com/images/I/41Xi77cciBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4MYJ6S-es Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor...'
+slug: 'B07L4MYJ6S-es Lenovo L27m-28 27.0 " FHD IPS FreeSync Gaming Monitor 75...'
 sku: 'B07L4MYJ6S-es'
 tags: [ 'ips','lenovo', ]
-actualPrice: 199.99 EUR
+actualPrice: 219.99 EUR
 currency: EUR
-price: 199.99
+price: 219.99
 comparePrice: 279.99 EUR
-prodname: 'Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USB Type-C 3-side borderless - Raven Black'
+prodname: 'Lenovo L27m-28 27.0 " FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USBType-C 3 lados sin bordes - Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21'
-descuento: '28.57'
-average: '213.32333333333332'
+descuento: '21.43'
+average: '214.275714285714'
 ---
 
-Está [Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USB Type-C 3-side borderless - Raven Black](https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21) con 28.57 de descuento por 199.99 EUR (original: 279.99 EUR) en el siguiente enlace!
+Está [Lenovo L27m-28 27.0 " FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USBType-C 3 lados sin bordes - Negro](https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21) con 21.43 de descuento por 219.99 EUR (original: 279.99 EUR) en el siguiente enlace!
 
-[![Lenovo L27m - 28 27.0 Inch FHD IPS FreeS](https://m.media-amazon.com/images/I/41Xi77cciBL._SL200_.jpg)](https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21)
+[![Lenovo L27m-28 27.0 " FHD IPS FreeSync G](https://m.media-amazon.com/images/I/41Xi77cciBL._SL200_.jpg)](https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21)
 
 ℹ️:
 
+- 27" Full HD IPS: Esta pantalla IPS de 27" pulgadas ofrece una experiencia de usuario fantástica e imágenes nítidas y óptimas gracias a su resolución Full HD (1920 x 1080)
+- Diseño elegante: Este monitor ergonómico casi sin bordes dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
+- FreeSync: Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
+- 4 ms y 75Hz: Atrévete a jugar con este monitor, tendrás una imagen más fluida gracias a su tiempo de respuesta de 4 ms
+- Puertos HDMI, VGA y USBType:C: Conéctate a través del cable HDMI de 1.8 m que viene incluido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21)
