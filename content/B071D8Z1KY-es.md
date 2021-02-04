@@ -29,7 +29,7 @@ Está [Microsoft Surface Keyboard  Gris  QWERTY español](https://www.amazon.es/
 ℹ️:
 
 - Bluetooth inalámbrico 4.0 o superior con un alcance de hasta 15 metros
-- Respuesta y fuerza de retorno optimizadas
 - Hasta 12 meses de duración de la batería
+- Respuesta y fuerza de retorno optimizadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071D8Z1KY/?tag=tolees-21)
