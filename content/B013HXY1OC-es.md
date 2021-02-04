@@ -28,9 +28,9 @@ Está [Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Canon  
 
 ℹ️:
 
-- Estabilización de imagen VC y AF mejorado con solo 400gr
-- Intervalo de longitud focal: 18 - 200 mm
 - Distancia más cercana de enfoque: 0.49 m
+- Intervalo de longitud focal: 18 - 200 mm
+- Estabilización de imagen VC y AF mejorado con solo 400gr
 - Óptica digital para cámaras Canon con espejo de objetivo intercambiable (Sensores APS-C)
 - Di II: Óptica digital para sensores APS-C o similar
 

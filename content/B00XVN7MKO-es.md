@@ -29,9 +29,9 @@ Ahora mismo tienes [NGS MONRAY Entrerprise  Maletín de Nylon para Ordenador por
 🔎:
 
 - Múltiples bolsillos para llevar documentos o diversos objetos.
-- Múltiples compartimentos para transportar diferentes periféricos o documentos.
-- Dimensiones: 40 x 32 x 4 cm
 - Maletín para el ordenador portátil de hasta 15.6", practico, selecto y discreto, para las personas que aprecian la estética y la vanguardia.
 - Capacidad: 15.6"
+- Dimensiones: 40 x 32 x 4 cm
+- Múltiples compartimentos para transportar diferentes periféricos o documentos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XVN7MKO/?tag=tolees-21)
