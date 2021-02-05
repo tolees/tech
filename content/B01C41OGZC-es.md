@@ -28,10 +28,10 @@ Está [MARSGAMING - Mars Gaming MPII650  Fuente De Alimentación Para Ordenador 
 
 ℹ️:
 
+- Consigue una eficiencia alta del 85+ para un mayor ahorro de energía y una larga vida útil
 - Alojada en una caja con recubrimiento negro mate y rejilla negra; está fabricada conforme a las normas y directivas exigidas por la UE
 - Cuenta con una potente tecnología de rail único de 12 V la capacitan para un rendimiento prolongado, estable y potente
-- Contiene un ventilador de 12 cm con sistema antivibraciones y sistema inteligente de control de velocidad
 - Sus cables largos (1x 20+4 PIN, 1x 12V 4+4 PIN, 3x SATA, 2x PATA, 1x FDD) ofrecen una máxima compatibilidad
-- Consigue una eficiencia alta del 85+ para un mayor ahorro de energía y una larga vida útil
+- Contiene un ventilador de 12 cm con sistema antivibraciones y sistema inteligente de control de velocidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C41OGZC/?tag=tolees-21)
