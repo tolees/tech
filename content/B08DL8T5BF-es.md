@@ -28,11 +28,11 @@ Tienes [Gigabyte AORUS 7 KB-7ES1130SD - Ordenador portátil de 17.3" FHD 144Hz  
 
 ℹ️:
 
-- Memoria RAM de 16GB, 8GBx2 2666Mhz
 - Pantalla de 17.3" 144Hz FHD
 - Almacenamiento de 512GB SSD
-- Tarjeta gráfica Nvidia GeForce RTX 2060 GDDR6 6G
 - Sin sistema Operativo
 - Procesador Intel Core i7-10750H
+- Memoria RAM de 16GB, 8GBx2 2666Mhz
+- Tarjeta gráfica Nvidia GeForce RTX 2060 GDDR6 6G
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DL8T5BF/?tag=tolees-21)
