@@ -28,10 +28,10 @@ Ahora mismo tienes [Fujifilm X-A7 Kit cámara con Objetivo Intercambiable XC15-4
 
 🔎:
 
+- Sensor de imagen cmos aps-c de 24,2 mp.
 - Diseño compacto y ligero, pesa solo 320 g.
 - Funciones y rendimiento de vídeo avanzados
-- Cámara perfecta para creadores de contenido y vloggers
-- Sensor de imagen cmos aps-c de 24,2 mp.
 - Pantalla táctil lcd de 3,5 pulgadas.
+- Cámara perfecta para creadores de contenido y vloggers
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XFFYDLX/?tag=tolees-21)
