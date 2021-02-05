@@ -28,10 +28,10 @@ Tienes [OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD +
 
 ℹ️:
 
-- Pantalla HD+ de 6.52 " equipada con modo de lectura y modo nocturno para una mejor experiencia de visualización
-- 4 GB de RAM + 64 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 460
 - Experimenta un mejor sonido El N100 está equipado con un conector para auriculares de 3.5 mm y altavoces estéreo duales integrados
 - Diseñado para la fotografía con su sistema de cámara triple y una cámara frontal de 8 MP
+- 4 GB de RAM + 64 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 460
 - Rendimiento superior que lo lleva más lejos; batería de 5000 mAh y OxygenOS
+- Pantalla HD+ de 6.52 " equipada con modo de lectura y modo nocturno para una mejor experiencia de visualización
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21)

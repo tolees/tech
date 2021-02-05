@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RAVPOWER Cargador de Coche 24W 4.8A Dual al 46.19 % de descuento'
-date: 2021-02-01 22:06:56
+date: 2021-02-05 22:13:07
 image: 'https://m.media-amazon.com/images/I/31aO0bl+bbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RAVPower'
 buyurl: 'https://www.amazon.es/dp/B01B4FR41C/?tag=tolees-21'
 descuento: '46.19'
-average: '9.46058823529412'
+average: '9.36735849056605'
 ---
 
 Está [RAVPOWER Cargador de Coche 24W 4.8A Dual USB Adaptador Automóvil con Tecnología iSmart  Funda de Material de Aluminio  Compatible con iPad  Samsung Galaxy  LG Nexus y Más – Negro](https://www.amazon.es/dp/B01B4FR41C/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
