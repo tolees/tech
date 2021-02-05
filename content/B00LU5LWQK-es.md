@@ -30,8 +30,8 @@ Tienes [Kenu Airframe + - Soporte portátil de smartphone o de GPS para coches  
 
 - Mantén tu smartphone al nivel de tu visión y listo para buscar direcciones por GPS, escuchar música y realizar llamadas en modo manos libres.
 - Airframe+ es extensible y se adapta a los smartphones y las fundas más grandes
-- Se coloca en las salidas de aire mediante un agarre giratorio que sujeta el Airframe+ a cualquier tipo de salida de aire : rejillas horizontales, verticales, diagonales, anchas/delgadas
 - Airframe+ se adapta a toda la gama de smartphones y phablets hasta pantallas de 6"
 - El agarre giratorio está recubierto de silicona para mantener tu auto libre de rasguños
+- Se coloca en las salidas de aire mediante un agarre giratorio que sujeta el Airframe+ a cualquier tipo de salida de aire : rejillas horizontales, verticales, diagonales, anchas/delgadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LU5LWQK/?tag=tolees-21)
