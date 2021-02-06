@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Cynosa Lite - Teclado de juegos ti con un 40.03 % de descuento'
-date: 2021-02-04 17:00:51
+date: 2021-02-06 20:05:21
 image: 'https://m.media-amazon.com/images/I/31+cX4ttlTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07YT168QJ/?tag=tolees-21'
 descuento: '40.03'
-average: '33.7253846153846'
+average: '33.4578571428572'
 ---
 
 En este momento está [Razer Cynosa Lite - Teclado de juegos tipo Membrana  Gaming  con interruptores de suspensión completa  totalmente programable  vistas cromadas RGB  ES Layout](https://www.amazon.es/dp/B07YT168QJ/?tag=tolees-21) a 29.98 EUR (original: 49.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [Razer Cynosa Lite - Teclado de juegos tipo Membrana  Gami
 🔎:
 
 - Admite Razer Synapse: Finalmente, un teclado adecuado; con Razer Synapse, los botones se pueden reasignar, asignar macros, personalizar la iluminación y personalizar completamente el juego; con esta herramienta unificada para la configuración del hardware, no hay límites en lo que respecta al diseño personal
-- Teclas totalmente programables: cada tecla individual se puede asignar para que se le pueda asignar una función diferente o puede tener la función de varias teclas simultáneamente usando una macro
+- Diseño robusto a prueba de salpicaduras: no se preocupe si la reacción a un partido violento es demasiado violenta; gracias a la carcasa a prueba de salpicaduras, los líquidos derramados accidentalmente Razer Cynosa Lite no causan ningún problema, lo que optimiza la vida útil del teclado
 - Desarrollado por Razer Chroma: 16.8 millones de opciones de color aseguran una experiencia de juego absolutamente individual, fácil de ajustar con Razer Synapse; rollover de 10 teclas
 - Teclas de calidad de torneo: Ofrecen comodidad, de modo que cada pulsación de tecla se sienta; cada vez que presiona un botón, puede sentir todo el recorrido de la tecla y la retroalimentación táctil, para obtener la precisión en el calor del momento
-- Diseño robusto a prueba de salpicaduras: no se preocupe si la reacción a un partido violento es demasiado violenta; gracias a la carcasa a prueba de salpicaduras, los líquidos derramados accidentalmente Razer Cynosa Lite no causan ningún problema, lo que optimiza la vida útil del teclado
+- Teclas totalmente programables: cada tecla individual se puede asignar para que se le pueda asignar una función diferente o puede tener la función de varias teclas simultáneamente usando una macro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YT168QJ/?tag=tolees-21)
