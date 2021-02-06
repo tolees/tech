@@ -28,10 +28,10 @@ En este momento está [Belkin base de carga PowerHouse para Apple Watch + iPhone
 
 🔎:
 
-- Compatible con iPhone 11, 11 Pro/Pro Max, XS, XS Max, XR, X, 8/8 Plus y modelos anteriores de iPhone (con conector Lightning)
-- La rueda VersaCase eleva/desciende el conector Lightning (compatible con funda) para ajustarlo a la mayoría de fundas de móvil
 - Incluye un módulo de carga magnética para Apple Watch
+- La rueda VersaCase eleva/desciende el conector Lightning (compatible con funda) para ajustarlo a la mayoría de fundas de móvil
 - Sostiene con seguridad al Apple Watch sobre la superficie
 - Incluye un conector Lightning integrado para iPhone
+- Compatible con iPhone 11, 11 Pro/Pro Max, XS, XS Max, XR, X, 8/8 Plus y modelos anteriores de iPhone (con conector Lightning)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K1LJVD8/?tag=tolees-21)

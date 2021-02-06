@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple iPad Pro  de 12 9 Pulgadas  con Wi-Fi y 512�
 
 🔎:
 
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Face ID para autenticarse de forma segura y usar Apple Pay
-- Cámara frontal TrueDepth de 7 Mpx
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Hasta 10 horas de autonomía
-- Redes wifi 802.11ax
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Chip A12Z Bionic con Neural Engine
-- Pantalla Liquid Retina de 12,9 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Redes wifi 802.11ax
+- Chip A12Z Bionic con Neural Engine
+- Hasta 10 horas de autonomía
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Cámara frontal TrueDepth de 7 Mpx
+- Pantalla Liquid Retina de 12,9 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863RCQPT/?tag=tolees-21)
