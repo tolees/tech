@@ -28,12 +28,12 @@ Está [HUAWEI Watch 2 - Smartwatch Android  Bluetooth  WiFi  4G  Color Negro  Ca
 
 ℹ️:
 
-- El GPS se puede conectar a la tecnología GLONASS
-- Dispone de Wi-Fi y Bluetooth 4.1
-- Frecuencias de trabajo (solo edición 4G): LTE: B1, B3, B7, B8, B39 y B41 (2555-2655 MHz) / UMTS: B1, B2 y B8 / TD-SCDMA: B34 y B39 / GSM: 900 y 1800
+- Sistema operativo: Wear OS 2.0 by Google; Sistema operativo móvil admitido: Android 4.4+/iOS 9.0+
 - Sensor de luz ambiental y sensor de frecuencia cardíaca
+- Dispone de Wi-Fi y Bluetooth 4.1
+- El GPS se puede conectar a la tecnología GLONASS
+- Frecuencias de trabajo (solo edición 4G): LTE: B1, B3, B7, B8, B39 y B41 (2555-2655 MHz) / UMTS: B1, B2 y B8 / TD-SCDMA: B34 y B39 / GSM: 900 y 1800
 - Conectividad: Bluetooth: Bluetooth 2.4 GHz 4.1 BLE + BR / EDR Wi-Fi: 2,4 GHz 802.11b / g / n
 - Es compatible con Android
-- Sistema operativo: Wear OS 2.0 by Google; Sistema operativo móvil admitido: Android 4.4+/iOS 9.0+
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XBTT9S6/?tag=tolees-21)
