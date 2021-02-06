@@ -29,9 +29,9 @@ Ahora mismo tienes [Western Digital - WD My Passport disco duro portátil](https
 🔎:
 
 - Wd discovery le permite importar contenido desde redes sociales y almacenamiento en la nube
-- Protección mediante contraseña con cifrado de hardware aes de 256 bits
-- Estilo innovador con una elegante carcasa metálica
 - Hasta 5.tb de capacidad
 - Preparado para usb-c y compatible con usb 3.0
+- Protección mediante contraseña con cifrado de hardware aes de 256 bits
+- Estilo innovador con una elegante carcasa metálica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WZYM7RQ/?tag=tolees-21)
