@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Intel NUC BLKNUC7I3DNH2E - Ordenador Min al 17.78 % de descuento'
-date: 2021-02-05 03:47:35
+title: 'Intel NUC BLKNUC7I3DNH2E - Ordenador Min al 16.40 % de descuento'
+date: 2021-02-06 09:30:28
 image: 'https://m.media-amazon.com/images/I/41Q3jCMgOyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B0767DQNRM-es Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC Intel Core...'
 sku: 'B0767DQNRM-es'
 tags: [ 'ordenador','ram', ]
-actualPrice: 230.21 EUR
+actualPrice: 234.07 EUR
 currency: EUR
-price: 230.21
+price: 234.07
 comparePrice: 279.99 EUR
 prodname: 'Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC  Intel Core i3-7100U  Espacio de 2.5" para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Intel'
 buyurl: 'https://www.amazon.es/dp/B0767DQNRM/?tag=tolees-21'
-descuento: '17.78'
-average: '233.699148936171'
+descuento: '16.40'
+average: '233.704335664336'
 ---
 
-Ahora mismo tienes [Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC  Intel Core i3-7100U  Espacio de 2.5" para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 ](https://www.amazon.es/dp/B0767DQNRM/?tag=tolees-21) a 230.21 EUR (original: 279.99 EUR) (17.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC  Intel Core i3-7100U  Espacio de 2.5" para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 ](https://www.amazon.es/dp/B0767DQNRM/?tag=tolees-21) a 234.07 EUR (original: 279.99 EUR) (16.40 %  de descuento) en el siguiente enlace!
 
 [![Intel NUC BLKNUC7I3DNH2E - Ordenador Min](https://m.media-amazon.com/images/I/41Q3jCMgOyL._SL200_.jpg)](https://www.amazon.es/dp/B0767DQNRM/?tag=tolees-21)
 
 🔎:
 
-- Con 2 canales de memoria
-- Cuenta con tipo de memoria DDR4-2133 1.2 V SO-DIMM
-- Tiene 4 puertos USB
 - Cuenta con gráficos del procesador Intel HD Graphics 620
+- Con 2 canales de memoria
+- Tiene 4 puertos USB
+- Cuenta con tipo de memoria DDR4-2133 1.2 V SO-DIMM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0767DQNRM/?tag=tolees-21)
