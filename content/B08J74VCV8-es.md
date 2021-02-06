@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple Watch Series 6  GPS + Cellular  40 mm  Ca
 
 🔎:
 
-- Mide tu oxígeno en sangre con una app y un sensor nuevos.
-- Sincroniza música, podcasts y audiolibros.
-- Diseño apto para nadar.
-- El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
-- Controla tu ritmo cardiaco con la app ECG.
 - Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
-- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
-- La pantalla Retina siempre activa brilla 2,5 veces más en exteriores cuando tienes la muñeca en reposo.
-- El chip S6 SiP es hasta un 20 % más rápido que el del Series 5
+- Controla tu ritmo cardiaco con la app ECG.
+- Diseño apto para nadar.
 - Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
+- La pantalla Retina siempre activa brilla 2,5 veces más en exteriores cuando tienes la muñeca en reposo.
+- Mide tu oxígeno en sangre con una app y un sensor nuevos.
+- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
+- El chip S6 SiP es hasta un 20 % más rápido que el del Series 5
+- El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
+- Sincroniza música, podcasts y audiolibros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J74VCV8/?tag=tolees-21)
