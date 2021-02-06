@@ -28,10 +28,10 @@ Tienes [Radio Cassette Portátil AIWA BBTC-550  Bluetooth  CD  USB](https://www.
 
 🔎:
 
-- Puerto USB para reproducción de archivos .mp3.
-- Conexión Bluetooth 5.0.
+- Radio Cassette Portátil con función grabación de cassettes.
 - Sintonizador de Radio FM portátil y entrada AUX IN
 - Lector de CDs con tecnología japonesa.
-- Radio Cassette Portátil con función grabación de cassettes.
+- Conexión Bluetooth 5.0.
+- Puerto USB para reproducción de archivos .mp3.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GSNYV9R/?tag=tolees-21)
