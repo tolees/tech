@@ -28,9 +28,9 @@ En este momento está [SAMSUNG Pro - Disco Estado Solido SSD  2 TB  560 megabyte
 
 🔎:
 
-- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 - Dispone de interfaz SATA
 - Lectura secuencial: 560MB/s
 - Escritura secuencial: 530MB/s
+- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQT88J/?tag=tolees-21)
