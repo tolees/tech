@@ -28,9 +28,9 @@ En este momento está [ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda
 
 🔎:
 
-- Seguridad profesional: AiProtection protege todos los dispositivos conectados a la red doméstica contra ataques externos
 - Toma el control: la app ASUS Lyra permite configurar la red, administrar el ancho de banda y te informa acerca de cualquier problema técnico
-- Supervisión familiar: esta función permite monitorizar y controlar desde tu dispositivo móvil la actividad en línea y el uso de aplicaciones de los miembros familiares
 - Conexiones rápidas en cualquier circunstancia: al desplazarte por casa, siempre estarás conectado al nodo que ofrezca la mejor señal
+- Seguridad profesional: AiProtection protege todos los dispositivos conectados a la red doméstica contra ataques externos
+- Supervisión familiar: esta función permite monitorizar y controlar desde tu dispositivo móvil la actividad en línea y el uso de aplicaciones de los miembros familiares
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VJTCBL/?tag=tolees-21)
