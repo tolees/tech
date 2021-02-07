@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9C NFC-Smartphone con Panta al 16.11 % de rebaja'
-date: 2021-02-04 09:08:19
+date: 2021-02-07 07:56:57
 image: 'https://m.media-amazon.com/images/I/41EcDCvikbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08FMPT4R4/?tag=tolees-21'
 descuento: '16.11'
-average: '140.257894736843'
+average: '138.804761904763'
 ---
 
 Tienes [Xiaomi Redmi 9C NFC-Smartphone con Pantalla HD+ de 6.53" DotDrop  3GB+64GB  Triple cámara trasera de 13MP con IA  MediaTek Helio G35  Batería de 5000 mAh  10 W de carga rápida   Azul [Ver.Española]](https://www.amazon.es/dp/B08FMPT4R4/?tag=tolees-21) con precio final de  125.0 EUR (original: 149.0 EUR) (16.11 %  de rebaja) aqui!
