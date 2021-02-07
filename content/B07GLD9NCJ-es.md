@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Disco Duro Externo PSSD X5 500GB al 21.48 % de rebaja'
-date: 2021-01-25 10:41:28
+title: 'Samsung Disco Duro Externo PSSD X5 500GB al 23.35 % de rebaja'
+date: 2021-02-07 16:45:44
 image: 'https://m.media-amazon.com/images/I/31wLLRICKfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B07GLD9NCJ-es Samsung Disco Duro Externo PSSD X5 500GB'
 sku: 'B07GLD9NCJ-es'
 tags: [ 'samsung','disco','duro', ]
-actualPrice: 210.42 EUR
+actualPrice: 205.42 EUR
 currency: EUR
-price: 210.42
+price: 205.42
 comparePrice: 267.99 EUR
 prodname: 'Samsung Disco Duro Externo PSSD X5 500GB'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21'
-descuento: '21.48'
-average: '210.42'
+descuento: '23.35'
+average: '207.086666666667'
 ---
 
-Tienes [Samsung Disco Duro Externo PSSD X5 500GB](https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21) con precio final de  210.42 EUR (original: 267.99 EUR) (21.48 %  de rebaja) aqui!
+Tienes [Samsung Disco Duro Externo PSSD X5 500GB](https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21) con precio final de  205.42 EUR (original: 267.99 EUR) (23.35 %  de rebaja) aqui!
 
 [![Samsung Disco Duro Externo PSSD X5 500GB](https://m.media-amazon.com/images/I/31wLLRICKfL._SL200_.jpg)](https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21)
 
 🔎:
 
-- Interfaz ThunderboltTM 3
 - Nuestro nuevo SSD portátil X5 ha sido diseñado pensando en aquellos profesionales que necesitan renderizar o compilar contenido en alta resolución de forma más rápida.
-- Velocidad secuencial de lectura: 2,800MB/s
-- Velocidad secuencial de escritura: 2,300MB/s
+- Interfaz ThunderboltTM 3
 - Thermal Management Technology, encriptación AES 256-bit
+- Velocidad secuencial de escritura: 2,300MB/s
+- Velocidad secuencial de lectura: 2,800MB/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GLD9NCJ/?tag=tolees-21)
