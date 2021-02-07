@@ -28,10 +28,10 @@ Ahora mismo tienes [Disco Duro Kingdian  60 / 120 / 240 / 480 Gb  Ssd con 128 Mb
 
 🔎:
 
-- Rendimiento optimizado para las necesidades informáticas diarias
-- Número de artículo: tipo ultrafino de 7 mm para S280, 120 GB
 - Tipo de interfaz: TLC SATA III 2.5
 - Rendimiento para lectura/escritura de datos secuenciales (hasta): 559,7/381 MB/s
+- Número de artículo: tipo ultrafino de 7 mm para S280, 120 GB
 - MTBF: 1 500 000 horas; retención de datos: 10 años (el valor mayor de los dos)
+- Rendimiento optimizado para las necesidades informáticas diarias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01B2OR2TY/?tag=tolees-21)
