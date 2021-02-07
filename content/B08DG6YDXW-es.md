@@ -28,10 +28,10 @@ Está [Trust Taro Pack Teclado y Ratón con Cable - Disposición QWERTY Español
 
 ℹ️:
 
-- REDUCCIÓN DE RUIDO - Taro ha sido diseñado para ser hasta un 50% más silencioso para que no molestes a tus compañeros al trabajar
-- RESISTENTE A LOS VERTIDOS - El teclado es resistente a los vertidos, por lo que se puede continuar con el trabajo sin problemas si se derrama algo de bebida
-- PLUG AND PLAY - Basta conectar el cable USB de 180 cm de largo y este juego fácil de usar funcionará automáticamente en cualquier PC o portátil Windows, MacOS y ChromeOS
-- RATÓN INCLUIDO - Este juego se suministra con un cómodo ratón, adecuado para usuarios zurdos y diestros
 - DISPOSICIÓN PARA ESPAÑOL DE TAMAÑO COMPLETO - El juego de teclado y ratón silencioso Taro de Trust tiene una disposición QWERTY para idioma español (llevando las letras "ñ" y "ç") de tamaño completo e incluye un teclado numérico para una productividad óptima
+- RATÓN INCLUIDO - Este juego se suministra con un cómodo ratón, adecuado para usuarios zurdos y diestros
+- REDUCCIÓN DE RUIDO - Taro ha sido diseñado para ser hasta un 50% más silencioso para que no molestes a tus compañeros al trabajar
+- PLUG AND PLAY - Basta conectar el cable USB de 180 cm de largo y este juego fácil de usar funcionará automáticamente en cualquier PC o portátil Windows, MacOS y ChromeOS
+- RESISTENTE A LOS VERTIDOS - El teclado es resistente a los vertidos, por lo que se puede continuar con el trabajo sin problemas si se derrama algo de bebida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DG6YDXW/?tag=tolees-21)
