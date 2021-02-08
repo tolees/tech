@@ -29,10 +29,10 @@ En este momento está [Lenovo Yoga S730 - Ordenador portátil Ultrafino 13.3" Fu
 🔎:
 
 - Memoria RAM de 8 GB DDR4, 2400MHz
-- Procesador Intel Core i5-8265U, QuadCore 1.6GHz hasta 3.9GHz, 6MB
-- Tarjeta gráfica Intel UHD Graphics 620
 - Sistema Operativo: Windows Home 10
 - Pantalla de 13.3" Full HD, 1920x1080 pixeles
+- Tarjeta gráfica Intel UHD Graphics 620
+- Procesador Intel Core i5-8265U, QuadCore 1.6GHz hasta 3.9GHz, 6MB
 - Almacenamiento de 256GB SSD M.2 PCIe NVMe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NL3ZYJS/?tag=tolees-21)

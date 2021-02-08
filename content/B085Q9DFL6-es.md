@@ -28,11 +28,11 @@ Está [HUAWEI P40 Lite E - Smartphone con pantalla FullView de 6 39"  Kirin 710 
 
 ℹ️:
 
-- Pantalla FullView Con una pantalla FullView de 6 39" HUAWEI P40 lite E ofrece una vista más amplia con un ratio de pantalla del 90 15% para una experiencia totalmente inmersiva
-- Batería de gran capacidad Con su potente batería de 4200 mAh pasarás el día con una sola carga
 - Triple cámara IA de 48MP HUAWEI P40 lite E es tu estudio fotográfico personal con 3 inteligentes cámaras traseras La cámara principal de 48MP una cámara ultra gran angular de 8MP y una cámara de profundidad de 2MP muestran todos los detalles con claridad y permiten ver más lejos más ancho y claro
 - Rendimiento sobresaliente Equipado con el chip Kirin 810 que trae su propio arsenal tecnológico formidable HUAWEI P40 Lite E está equipado con 4 GB de RAM y una memoria interna de 64 GB de ROM ampliables hasta 512 GB
 - El producto viene con Android 10 AOSP y Huawei Mobile Services (HMS) No contiene los servicios de Google (GMS) preinstalados tales como Google Play Store Gmail YouTube Google Maps etc
+- Batería de gran capacidad Con su potente batería de 4200 mAh pasarás el día con una sola carga
 - Rápido suave inteligente el motor de aceleración de escenarios completos de desarrollo propio de HUAWEI realiza múltiples optimizaciones y brinda una experiencia fluida sin lags El smartphone siempre funciona como nuevo
+- Pantalla FullView Con una pantalla FullView de 6 39" HUAWEI P40 lite E ofrece una vista más amplia con un ratio de pantalla del 90 15% para una experiencia totalmente inmersiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085Q9DFL6/?tag=tolees-21)
