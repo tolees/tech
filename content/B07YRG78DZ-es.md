@@ -28,11 +28,11 @@ En este momento está [ASUS ZenBook 14 UX434FAC-A5188T - Portátil de 14" FullHD
 
 🔎:
 
+- Procesador Intel Core i7-10510u (4 núcleos, 8 subprocesos, caché: 9MB smartcache, 1.80GHz hasta 4.90GHz, 64-bit)
+- Memoria: 16GB LPDDR3 2133MHz
 - Tarjeta gráfica Intel UHD
 - 512GB SSD M.2 PCIe Gen3 x2 NVMe
-- Pantalla de 14" FullHD (1920x1080)
-- Procesador Intel Core i7-10510u (4 núcleos, 8 subprocesos, caché: 9MB smartcache, 1.80GHz hasta 4.90GHz, 64-bit)
 - Sistema operativo Windows 10 Home (64Bits)
-- Memoria: 16GB LPDDR3 2133MHz
+- Pantalla de 14" FullHD (1920x1080)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YRG78DZ/?tag=tolees-21)
