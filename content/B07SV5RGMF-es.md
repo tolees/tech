@@ -28,10 +28,10 @@ Tienes [Reolink Argus PT Cámara IP Exterior WiFi 1080P  355°/140° Pan & Tilt 
 
 ℹ️:
 
-- Sensor de Movimiento PIR y Alertas Instantáneas: Envia alertas a través de notificaciones, correos electrónicos, alertas de sirena o mensajes de voz pregrabados en tiempo real, y registra la detección de movimiento en la tarjeta Micro SD para su reproducción (No incluye tarjeta micro SD). Al configurar la sensibilidad al movimiento y el horario PIR, no se perderá nada.
+- Sin Cables y sin Problemas: Con función de impermedable y una batería recargable incorporada, puede disfrutar de la flexibilidad y la movilidad que esta cámara de vigilancia trae tanto para exteriores como para interiores, en cualquier lugar dentro del rango de señal de Wi-Fi
+- Fuente de Alimentación Ininterrumpida: Argus PT cámara de vigilancia se carga mediante un adaptador de alimentación universal de 5V/2A o mediante el panel solar Reolink, conveniente y rentable * (el adaptador de alimentación y el panel solar Reolink se venden por separado).
 - Vista en Vivo y Audio Bidireccional: Admite acceso remoto a la vista en vivo a través de la Reolink App o el cliente para mantenerse al pendiente de su bebé, mascotas o propiedad; Escuche e responda gracias al micrófono y altavoz incorporados.
 - P/T Flexible y 1080p HD: Transmite y graba hasta 1080p de calidad HD y captura videos de visión nocturna en color (hasta 33 pies) incluso en entornos con poca luz. Argus PT gira 355° horizontalmente y 140° verticalmente, cubre más y pierde menos.
-- Fuente de Alimentación Ininterrumpida: Argus PT cámara de vigilancia se carga mediante un adaptador de alimentación universal de 5V/2A o mediante el panel solar Reolink, conveniente y rentable * (el adaptador de alimentación y el panel solar Reolink se venden por separado).
-- Sin Cables y sin Problemas: Con función de impermedable y una batería recargable incorporada, puede disfrutar de la flexibilidad y la movilidad que esta cámara de vigilancia trae tanto para exteriores como para interiores, en cualquier lugar dentro del rango de señal de Wi-Fi
+- Sensor de Movimiento PIR y Alertas Instantáneas: Envia alertas a través de notificaciones, correos electrónicos, alertas de sirena o mensajes de voz pregrabados en tiempo real, y registra la detección de movimiento en la tarjeta Micro SD para su reproducción (No incluye tarjeta micro SD). Al configurar la sensibilidad al movimiento y el horario PIR, no se perderá nada.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SV5RGMF/?tag=tolees-21)
