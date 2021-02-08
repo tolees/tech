@@ -28,13 +28,13 @@ Tienes [Microsoft – Sculpt Ergonomic Desktop  Ratón y teclado QWERTY español
 
 ℹ️:
 
-- Ergonómico
-- Compatible con Windows
-- Teclado numérico separado
 - Rueda de desplazamiento en cuatro direcciones
-- Arco natural: imita la forma curva de las yemas de los dedos
-- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
 - Botón Windows/Botón Atrás
 - Reposamanos acolchado
+- Ergonómico
+- Teclado numérico separado
+- Arco natural: imita la forma curva de las yemas de los dedos
+- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
+- Compatible con Windows
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FO10ZK0/?tag=tolees-21)
