@@ -28,10 +28,10 @@ Ahora mismo tienes [Funda para Nuevo iPad 9.7" 2018/2017  VAGHVEO Cubierta Estuc
 
 🔎:
 
-- La tapa funciona perfectamente, se mantiene cerca y hace que el sueño/despertar sea todo, para reducir la pérdida de energía y energía.
 - Los recortes de la cubierta trasera de goma son precisos para la cámara, botones de alimentación, altavoces, controles de volumen y conector de auriculares.
-- Diseñado para Apple iPad 9.7 pulgadas 2017 (iPad 5) y 2018 (iPad 6). Funda sólo compatible con iPad A1893/A1954/A1822/A1823.
 - Funda fina premium para iPad, la cubierta trasera suave es de goma y flexible, antiarañazos, a prueba de golpes, antideslizante, no resbaladiza. Agradable textura que proporciona un gran agarre, no dejará ninguna huella de los dedos en la funda.
+- Diseñado para Apple iPad 9.7 pulgadas 2017 (iPad 5) y 2018 (iPad 6). Funda sólo compatible con iPad A1893/A1954/A1822/A1823.
+- La tapa funciona perfectamente, se mantiene cerca y hace que el sueño/despertar sea todo, para reducir la pérdida de energía y energía.
 - Múltiples imanes integrados que mantienen el soporte cuando está plegado/enrollado. Posición vertical para la visualización, posición de tumbado para tecleo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F9WX7PW/?tag=tolees-21)

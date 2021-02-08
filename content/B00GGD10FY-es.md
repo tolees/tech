@@ -28,10 +28,10 @@ Tienes [Netgear JGS524E-200EUS - Smart switch gestionable  24 puertos Gigabit y 
 
 ℹ️:
 
-- Supervisión Sencilla: control del estado de la red y del cableado con las estadísticas de puerto y de estado del cable
-- Funcionamiento en red esencial: segmentación y priorización de tráfico con VLAN, QoS, snooping de IGMP, limitación de velocidad y control del tráfico
-- Colocacion flexible (sobremesa): factor de forma de montaje en bastidor 1U
-- Gigabit Ethernet: 24 puertos Gigabit Ethernet que ofrecen hasta 2000 Mbps de ancho de banda dedicado y sin bloqueos por puerto
 - Instalación Sencilla: instalación y configuración con una interfaz web fácil de usar
+- Gigabit Ethernet: 24 puertos Gigabit Ethernet que ofrecen hasta 2000 Mbps de ancho de banda dedicado y sin bloqueos por puerto
+- Funcionamiento en red esencial: segmentación y priorización de tráfico con VLAN, QoS, snooping de IGMP, limitación de velocidad y control del tráfico
+- Supervisión Sencilla: control del estado de la red y del cableado con las estadísticas de puerto y de estado del cable
+- Colocacion flexible (sobremesa): factor de forma de montaje en bastidor 1U
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GGD10FY/?tag=tolees-21)

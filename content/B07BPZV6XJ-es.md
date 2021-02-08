@@ -28,10 +28,10 @@ Está [TopEsct 2018/2017 Edición iPad 9.7"/ iPad Air Funda para Niños Shock Pr
 
 ℹ️:
 
+- Diseñada para su precioso Apple iPad Air(A1474,A1475,A1476),2017 Nuevo iPad 9.7(A1822,A1823), 2018 Nuevo iPad 9.7(A1893 A1954)
+- Cool y flexible mango para tomar tu iPad cualquier lugar.
+- Planteado el bisel de la pantalla bordes oferce protección extra cuando caer.Preciso corte para los botones de los controles y camaras, poyar la función de reconocimiento de la huella digital.
 - Construido de policarbonato que resistente al impacto y doble protección debido a la silicona manga interior.
 - Por favor, busca "TopEsct iPad Case" para otros estilos y opciones de color.
-- Planteado el bisel de la pantalla bordes oferce protección extra cuando caer.Preciso corte para los botones de los controles y camaras, poyar la función de reconocimiento de la huella digital.
-- Cool y flexible mango para tomar tu iPad cualquier lugar.
-- Diseñada para su precioso Apple iPad Air(A1474,A1475,A1476),2017 Nuevo iPad 9.7(A1822,A1823), 2018 Nuevo iPad 9.7(A1893 A1954)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BPZV6XJ/?tag=tolees-21)

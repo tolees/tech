@@ -29,9 +29,9 @@ Está [Basesailor - Adaptador USB C Hembra a USB Macho  3 Pack  Adaptador de Cab
 ℹ️:
 
 - Con este pequeño dongle conectado a un puerto USB estándar disponible, sus dispositivos heredados (cargador, banco de energía, computadora) pueden convertirse en una plataforma habilitada para USB-C.
+- Este adaptador ofrece velocidades de transferencia de datos de hasta 480 Mbps entre dispositivos conectados y también admite hasta 2 amperios de potencia de salida para cargar sus dispositivos. Disfruta de la carga rápida y segura.
 - Puede conectar fácilmente cualquier periférico USB-C (cable USB tipo C, unidad flash USB tipo C, concentrador USB tipo C) que utiliza el nuevo conector USB-C.
 - TENGA EN CUENTA LA LIMITACIÓN: este es un adaptador USB-C hembra a USB-A macho diseñado para cargar o transferir datos y NO admitirá la transmisión de señales de video. ​(Último resultado de la prueba: este producto no funciona con el cargador inalámbrico MagSafe debido a la incompatibilidad de los protocolos de carga. Por lo tanto, el cargador MagSafe debe emparejarse con un adaptador de corriente USB-C)
 - Nuestro dongle con cuerpo de aleación de aluminio ocupa muy poco espacio y se puede conectar directamente al extremo de su hardware USB-A, por lo que no tendrá que preocuparse por llevarlo consigo.
-- Este adaptador ofrece velocidades de transferencia de datos de hasta 480 Mbps entre dispositivos conectados y también admite hasta 2 amperios de potencia de salida para cargar sus dispositivos. Disfruta de la carga rápida y segura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LVJQL6M/?tag=tolees-21)
