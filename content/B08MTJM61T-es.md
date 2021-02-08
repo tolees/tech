@@ -28,10 +28,10 @@ Está [TECLAST F7S Ordenador Portatil 14.1 Pulgadas  Portátil Pc 8GB RAM 128GB 
 
 ℹ️:
 
-- 👍【Funciona Genial Por Colegio y Oficina】 Va fluido para tareas de ofimática como navegación por internet, trabajos en Word o Power Point y programas que usan en el colegio y la oficina.
-- 👍【Teclado y Touchpad Más Grande】Ordenador portátil equipado con un teclado de tamaño completo y teclas grandes. Tanto las teclas como el trackpad son grandes y ocupan casi todo el espacio, esta optimización da una mejor experiencia al escribir y te evita usar un ratón externo.
-- 👍【Procesador Intel Dual-Core Rápido】Portátil pc F7S equipado con un procesador Apollo Lake de dual núcleos y una frecuencia de ráfagas de hasta 2,4 GHz. Gráficos Intel HD 500, 8 GB de RAM y 128 GB de ROM. Soporta extensión SSD sin desmontaje o expansión de la capacidad de la tarjeta TF.
-- 👍【Gran capacidad de la batería】Hasta 38000mWh ofrecen una mayor duración de la batería. Además, el dispositivo con mini-HDMI puede conectarse al proyector y tiene 2 USB 3.0, AC Dual-band WiFi y Bluetooth 4.2, etc.
 - 👍【Cuerpo Metálico, Portátil Fino y Ligero】El material metálico hace que el cuerpo tenga sólo 7 mm de espesor y pese sólo 1,5 kg. La pantalla de 14.1 pulgadas 2.5 D IPS ofrece imágenes más nítidas y vivas que la pantalla de otros materiales.
+- 👍【Gran capacidad de la batería】Hasta 38000mWh ofrecen una mayor duración de la batería. Además, el dispositivo con mini-HDMI puede conectarse al proyector y tiene 2 USB 3.0, AC Dual-band WiFi y Bluetooth 4.2, etc.
+- 👍【Funciona Genial Por Colegio y Oficina】 Va fluido para tareas de ofimática como navegación por internet, trabajos en Word o Power Point y programas que usan en el colegio y la oficina.
+- 👍【Procesador Intel Dual-Core Rápido】Portátil pc F7S equipado con un procesador Apollo Lake de dual núcleos y una frecuencia de ráfagas de hasta 2,4 GHz. Gráficos Intel HD 500, 8 GB de RAM y 128 GB de ROM. Soporta extensión SSD sin desmontaje o expansión de la capacidad de la tarjeta TF.
+- 👍【Teclado y Touchpad Más Grande】Ordenador portátil equipado con un teclado de tamaño completo y teclas grandes. Tanto las teclas como el trackpad son grandes y ocupan casi todo el espacio, esta optimización da una mejor experiencia al escribir y te evita usar un ratón externo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MTJM61T/?tag=tolees-21)
