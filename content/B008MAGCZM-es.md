@@ -28,8 +28,8 @@ En este momento está [Walimex - Easycover ECC5D3 - Funda de silicona para Canon
 
 🔎:
 
-- Conserva todas sus funciones intactas
 - Es una carcasa de silicona perfectamente amoldable al cuerpo de la cámara
+- Conserva todas sus funciones intactas
 - Protege contra golpes, arañazos, polvo y arena
 - Lleva incluido 2 protectores de pantalla y un paño limpiador
 
