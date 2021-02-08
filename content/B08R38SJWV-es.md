@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MINIS FORUM - Mini PC AMD Ryzen 5 Pro 25 con un 15.00 % de descuento'
-date: 2021-02-05 22:23:01
+date: 2021-02-07 22:22:05
 image: 'https://m.media-amazon.com/images/I/41fHuZERSvL._SL200_.jpg'
 comments: true
 category: ofertas
