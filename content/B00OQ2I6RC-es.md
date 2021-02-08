@@ -28,12 +28,12 @@ Está [Apple Mac Mini  Core i5 de Intel de Doble núcleo a 2  8 GHz ](https://ww
 
 ℹ️:
 
-- Macos mojave, inspirado en profesionales pero desarrollado para todo el mundo; con modo oscuro, pilas, capturas de pantalla más fáciles de hacer, nuevas apps integradas y mucho más
+- Gigabit ethernet y wi-fi 802.11ac
+- Cuatro puertos thunderbolt 3 (usb-c), un hdmi 2.0 y dos usb
+- Procesador intel core i3 de cuatro núcleos o i5 de seis núcleos de octava generación
 - Almacenamiento ssd ultrarrápido
 - 8 gb de ddr4 a 2.666 mhz
+- Macos mojave, inspirado en profesionales pero desarrollado para todo el mundo; con modo oscuro, pilas, capturas de pantalla más fáciles de hacer, nuevas apps integradas y mucho más
 - Gráficos intel uhd graphics 630
-- Procesador intel core i3 de cuatro núcleos o i5 de seis núcleos de octava generación
-- Cuatro puertos thunderbolt 3 (usb-c), un hdmi 2.0 y dos usb
-- Gigabit ethernet y wi-fi 802.11ac
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OQ2I6RC/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi NUN4126GL Monitor Temperatura y Humedad 2 Blanco  43 
 
 🔎:
 
-- Interconnect with other smart device a través de Bluetooth gateway
-- Elegante diseño con pantalla LCD de 1,5 pulgadas.
 - Batería de botón de encendido y apagado de 1 año.
 - Fácil de colocar o colocar en la pared.
+- Elegante diseño con pantalla LCD de 1,5 pulgadas.
+- Interconnect with other smart device a través de Bluetooth gateway
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7KVDJW/?tag=tolees-21)

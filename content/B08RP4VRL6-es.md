@@ -28,10 +28,10 @@ Está [Xiaomi Redmi Note 9T 5G Smartphone - 5G procesador MediaTek Dimensity 800
 
 ℹ️:
 
-- [Procesador 5G], MediaTek Dimensity 800U con 5G Dual SIM. Varias rutas de datos en todo momento hacen que la conexión sea más rápida y fluida. 5G + 5G dual SIM te permite disfrutar de una experiencia 5G completa, tanto para el trabajo como para el entretenimiento.
 - [Batería todo el día], batería de ciclo de carga alta de 5000 mAh (típico). La batería de 5000 mAh (Typ) no lo decepcionará con sus 15 horas de navegación, 18 horas de reproducción de video u 11 horas de juego. Una vez que la batería se agota, el cargador rápido de 18 W le permite cargar el 33% en solo 30 minutos, asegurándose de que siempre esté listo para comenzar.
 - [Sistema multimedia inmersivo], DotDisplay de 6.53 ", equipado con Corning Gorilla Glass 5 y resolución 2340x1080 FHD +. Los primeros altavoces duales de la serie Redmi Note, que también admiten el intercambio automático de canales de sonido L / R.
 - [Triple cámara de 48MP], cámara de alta resolución con herramientas creativas. Capture los momentos adecuados con los modos adecuados. Capture libremente momentos de su vida, juegue con varios modos para convertir lo que ve en obras de arte creativas.
 - Detalles que te hacen elegir Redmi Note, compatible con NFC, nano-revestimiento a prueba de salpicaduras, conector para auriculares de 3,5 mm.
+- [Procesador 5G], MediaTek Dimensity 800U con 5G Dual SIM. Varias rutas de datos en todo momento hacen que la conexión sea más rápida y fluida. 5G + 5G dual SIM te permite disfrutar de una experiencia 5G completa, tanto para el trabajo como para el entretenimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RP4VRL6/?tag=tolees-21)
