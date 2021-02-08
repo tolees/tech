@@ -28,11 +28,11 @@ En este momento está [SAMSUNG WW90T554DTT/S3 Lavadora Addwash Serie 5  9kg en b
 
 🔎:
 
-- Inteligencia Artificial: A través de un análisis de tus hábitos, te sugiere programas y te muestra las opciones recomendadas en función a las condiciones meteorológicas y el tipo de colada
-- Auto Cycle Link: Empareja lavadora y secadora y deja que el ciclo de secado se configure solo
 - Tecnología AddWash: ¿Te has encontrado un calcetín en el fondo del cesto cuando ya tenías puesta la lavadora? ¿Te gustaría añadir un extra de suavizante al final del ciclo de aclarado para potenciar la fragancia? Con AddWashTM es posible en cualquier momento del ciclo y sin vaciar el agua del tambor
+- Inteligencia Artificial: A través de un análisis de tus hábitos, te sugiere programas y te muestra las opciones recomendadas en función a las condiciones meteorológicas y el tipo de colada
 - Dimensiones de producto: 60cm x 85cm x 55cm (ancho x alto x profundo)
-- Función WiFi con SmartThings: ¡Deja de preocuparte por llegar a casa a tiempo para tender la ropa! A través de tu Smartphone y la app SmartThings puedes controlar tu lavadora desde donde estés: iniciar o pausar el lavado, elegir y controlar los programas, o incluso la temperatura o revoluciones
 - Tecnología EcoBubble: Excelentes resultados en agua fría. El agua con detergente se mezcla con aire antes de entrar en el tambor, generando una capa de burbujas que penetra más rápido en las prendas y las protege de la fricción entre ellas
+- Función WiFi con SmartThings: ¡Deja de preocuparte por llegar a casa a tiempo para tender la ropa! A través de tu Smartphone y la app SmartThings puedes controlar tu lavadora desde donde estés: iniciar o pausar el lavado, elegir y controlar los programas, o incluso la temperatura o revoluciones
+- Auto Cycle Link: Empareja lavadora y secadora y deja que el ciclo de secado se configure solo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CHGXKH8/?tag=tolees-21)

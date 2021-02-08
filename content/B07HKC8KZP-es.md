@@ -29,9 +29,9 @@ En este momento está [Beurer BM54 - Tensiómetro de brazo con Bluetooth  color 
 🔎:
 
 - Transmisión: mediante Bluetooth 4.0 Smart con descarga gratuita del software heathmanager
-- Memoria 2 x 60 mediciones (2 personas). fecha y hora. Mensaje en caso de error
 - Calcula los valores medios de la mañana y noche de los últimos 7 días
-- Medición automática, detección arritmia
 - Gran pantalla LCD XL de fácil lectura con luz y desconexión automática
+- Medición automática, detección arritmia
+- Memoria 2 x 60 mediciones (2 personas). fecha y hora. Mensaje en caso de error
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKC8KZP/?tag=tolees-21)
