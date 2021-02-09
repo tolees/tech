@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAIFU Adaptador de Corriente de 9V 2A 18 con un 17.66 % de descuento'
-date: 2021-02-08 00:39:36
+date: 2021-02-09 13:53:26
 image: 'https://m.media-amazon.com/images/I/41ofQX3ZoEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [TAIFU Adaptador de Corriente de 9V 2A 18W Cargador para D
 
 🔎:
 
+- Dimensiones de la clavija: 5,5 x 2,5 mm ✔ Importante Polaridad: exterior negativo (-) e interior positivo (+)
 - Entrada: AC 100-240V 50-60Hz, Salida: 9voltios, 2 amperios, 18 vatios
 - ❤Garantía: reembolso gratuito en 30 días; Garantía del producto en 3 años. // Certificación CE, ROHS, TUV, UL, GS, BS, REACH
-- Compatible con: Adaptador de corriente para la placa Arduino Uno, placa Arduino UNO R3, cámara CCTV, reproductor de CD, reproductor de DVD, enrutador, módem ADSL, impresora, cámara de vigilancia, impresoras de etiquetas, LED-Strips, Router, routers, Embedded-Systeme, pantallas, accesorios de informática, NAS, Mini-PCs, Pantallas TFT, Arduino, radio portátil y más.
-- Dimensiones de la clavija: 5,5 x 2,5 mm ✔ Importante Polaridad: exterior negativo (-) e interior positivo (+)
 - Compatible con: RockJam Keyboard RJ-661,RockJam RJ761,RockJam RJ654 ,Roberts Stream 218 205 207 202 R250, Pure Evoke 2 DAB Digital Radio,PURE Evoke-1XT
+- Compatible con: Adaptador de corriente para la placa Arduino Uno, placa Arduino UNO R3, cámara CCTV, reproductor de CD, reproductor de DVD, enrutador, módem ADSL, impresora, cámara de vigilancia, impresoras de etiquetas, LED-Strips, Router, routers, Embedded-Systeme, pantallas, accesorios de informática, NAS, Mini-PCs, Pantallas TFT, Arduino, radio portátil y más.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TZGRXVQ/?tag=tolees-21)
