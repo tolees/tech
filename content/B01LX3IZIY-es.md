@@ -28,8 +28,8 @@ En este momento está [Samsonite Openroad Tablet Crossover M 7.9" Bolso Bandoler
 
 🔎:
 
-- Urban collection
-- Messenger bag
 - Tablet
+- Messenger bag
+- Urban collection
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LX3IZIY/?tag=tolees-21)
