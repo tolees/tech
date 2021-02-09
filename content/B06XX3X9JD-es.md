@@ -30,10 +30,10 @@ Tienes [Tarjeta de memoria SanDisk Extreme 128 GB microSDXC para Smartphone  tab
 
 - Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
 - Incluye la categoría A1
+- Diseñada para Smartphone y tabletas Android, así como para cámaras MIL
+- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
+- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
 - Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
 - Velocidades de lectura/escritura de hasta 100 MB/s / 90 MB/s para disparar y transferir rápido
-- Diseñada para Smartphone y tabletas Android, así como para cámaras MIL
-- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
-- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XX3X9JD/?tag=tolees-21)
