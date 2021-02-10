@@ -28,8 +28,8 @@ Tienes [Case Logic Huxton - Maletín para Ordenador de 13"  Color Negro](https:/
 
 🔎:
 
-- Compartimento especial para un iPad o tabletas de 10,1 pulgadas
 - Asas acolchadas que facilitan el transporte
+- Compartimento especial para un iPad o tabletas de 10,1 pulgadas
 - Maletín delgado para proteger y transportar su portátil de 13"
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013LDVO9I/?tag=tolees-21)
