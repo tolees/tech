@@ -28,10 +28,10 @@ Está [Smartphone Huawei Mate20 Pro de 128 GB / 6 GB con tarjeta SIM sencilla - 
 
 ℹ️:
 
+- 6.39 AMOLED táctil
 - 24 MP cámara frontal
+- Android 9 (Pie)
 - Capacidad de la batería: 4200 mAh
 - Triple 40 MP / 20 MP / 8 cámaras principales MP
-- 6.39 AMOLED táctil
-- Android 9 (Pie)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J6NMTVG/?tag=tolees-21)
