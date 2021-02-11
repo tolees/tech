@@ -29,9 +29,9 @@ Tienes [Lifeprint - Impresora Wi-Fi  Realidad Aumentada  Impresión de Fotos Des
 🔎:
 
 - Tecnología de hiperfoto: Con Lifeprint puedes imprimir tus fotos en vivo de Snapchat u otras redes sociales, GIF animados y mucho más. Y con la conexión WI-FI puedes imprimir en cualquier lugar, incluso de forma remota
+- Fácil de usar: No se necesita tinta porque Lifeprint usa solo la película ZINK, lo que permite un proceso de impresión de bajo impacto ambiental. Formato de foto: 7.6 x 11.6 cm
 - En el Equipo: En el paquete también encontraras: guía rápida con realidad aumentada, cable de carga USB, 5 hojas de papel fotográfico con tecnología ZINK
 - Características técnicas: Es resistente al agua, puede realizar hasta 20 impresiones con una sola carga de batería. Dimensiones: Longitud: 16 cm; Ancho: 11,6 cm; Profundidad: 2,54 cm; Peso: 341 g
-- Fácil de usar: No se necesita tinta porque Lifeprint usa solo la película ZINK, lo que permite un proceso de impresión de bajo impacto ambiental. Formato de foto: 7.6 x 11.6 cm
 - Las fotos toman vida: Lifeprint es una impresora con realidad aumentada (a través de una aplicación gratuita) que le permite imprimir instantáneamente sus fotos y videos directamente desde el iPhone o las redes sociales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077BV9FJY/?tag=tolees-21)
