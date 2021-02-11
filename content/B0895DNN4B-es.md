@@ -29,9 +29,9 @@ Tienes [MINISFORUM - Mini PC 8GB de RAM Actualizable SSD de 256 GB Procesador In
 🔎:
 
 - 3.【Capacidad Flexible】U700 ha instalado unidades de estado sólido de 256 GB y puede ampliar el almacenamiento mediante un disco duro SATA de 2,5 pulgadas o una tarjeta TF (hasta 128 GB) para sus necesidades personales.
-- 2.【Memoria Actualizable】U700 ha instalado DDR3L-1600MT/s 8GB de RAM y puede ser actualizado hasta 32GB.es portátil y poderoso lo cual puede reemplazar la pesada y grande PC de escritorio fácilmente.
-- 4.【Tres Pantallas de Video】U700 está equipado con HDMI, Mini DP y USB-C de reproducción de vídeo, que le permiten realizar varias tareas con facilidad.Transmitir video 4K, editar medios, trabajar desde casa, o terminar tu tarea.Prepárate para unos gráficos, sonido y rendimiento increíbles.
 - 5.【SPECS】3 x puertos USB 3.0,2 x puertos Gigabit Ethernet,1 x USB-C Port，1 x Puerto HDMI,1 x Puerto Mini DP,Wi-Fi de doble banda,BT 5.0,incluyendo soporte de montaje y soporte del sistema Linux.
+- 4.【Tres Pantallas de Video】U700 está equipado con HDMI, Mini DP y USB-C de reproducción de vídeo, que le permiten realizar varias tareas con facilidad.Transmitir video 4K, editar medios, trabajar desde casa, o terminar tu tarea.Prepárate para unos gráficos, sonido y rendimiento increíbles.
 - 1.【Intel Core i5】Comes con procesador Intel Core i5-5257U,2.70 GHz -3.10 GHz de frecuencia de procesador,Intel Iris Graphics 6100,U700 Mini PC trae un rendimiento más poderoso y una experiencia maravillosa.
+- 2.【Memoria Actualizable】U700 ha instalado DDR3L-1600MT/s 8GB de RAM y puede ser actualizado hasta 32GB.es portátil y poderoso lo cual puede reemplazar la pesada y grande PC de escritorio fácilmente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0895DNN4B/?tag=tolees-21)

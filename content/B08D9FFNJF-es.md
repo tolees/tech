@@ -28,10 +28,10 @@ Tienes [Lenovo IdeaPad Flex 5 14IIL05 - Portátil Convertible 14" FullHD  Intel 
 
 🔎:
 
-- Tarjeta gráfica Intel UHD Graphics
-- Pantalla de 14" FHD (1920x1080) IPS 250nits
 - Memoria RAM de 8GB Soldered DDR4
-- Procesador Intel Core i5-1035G1 (4C / 8T, 1.0 / 3.6GHz, 6MB)
 - Almacenamiento de 256GB SSD M.2 2242 PCIe NVMe
+- Tarjeta gráfica Intel UHD Graphics
+- Procesador Intel Core i5-1035G1 (4C / 8T, 1.0 / 3.6GHz, 6MB)
+- Pantalla de 14" FHD (1920x1080) IPS 250nits
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D9FFNJF/?tag=tolees-21)
