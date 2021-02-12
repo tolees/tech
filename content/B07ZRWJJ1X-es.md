@@ -28,10 +28,10 @@ Está [axelens Guantes Pantalla Táctil de Invierno Deportivos Unisex Calientes 
 
 ℹ️:
 
-- FUNCIÓN PANTALLA TÁCTIL: serás libre de utilizar smartphones, teléfonos móviles, tablets y otros dispositivos de pantalla táctil sin tener que quitarlos.
+- ELÁSTICOS Y A LA MODA: Guantes invernales perfectos para realizar deportes en espacios cerrados y al aire libre tales como excurisionismo, ciclismo, carrera, jogging, moto, scooter, etc. Funcionales y a la moda.
 - DISPONIBLES EN DOS COLORES: elige el tuyo. ***recomendamos una talla mas grande a su talla habitual***
 - INIGUALABLE CALIDAD: tejido técnico en Lycra, tejido conductor y silicona son perfectos para los deportes al aire libre, haciendo respirar la mano y manteniendo el calor. Costura robusta con acabados de excelente calidad que garantizan una mayor duración.
-- ELÁSTICOS Y A LA MODA: Guantes invernales perfectos para realizar deportes en espacios cerrados y al aire libre tales como excurisionismo, ciclismo, carrera, jogging, moto, scooter, etc. Funcionales y a la moda.
+- FUNCIÓN PANTALLA TÁCTIL: serás libre de utilizar smartphones, teléfonos móviles, tablets y otros dispositivos de pantalla táctil sin tener que quitarlos.
 - CALIENTES Y LIGEROS: cuando están siendo usados no pesan, las manos se mantienen calientes sin generar sudor y ocupan muy poco espacio en el bolsillo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZRWJJ1X/?tag=tolees-21)
