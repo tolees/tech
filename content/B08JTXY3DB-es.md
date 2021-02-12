@@ -28,10 +28,10 @@ En este momento está [Corsair KATAR PRO WIRELESS Ratón para Juegos  Sensor Óp
 
 🔎:
 
-- Forma simétrica compacta: Estupenda para quienes agarran el ratón con la punta de los dedos o con todo el dedo
 - Juego a toda velocidad: Juegua con la tecnología rápida SLIPSTREAM CORSAIR WIRELESS inferior a 1 ms, o conéctalo a una amplia variedad de dispositivos con Bluetooth de baja latencia
-- Sensor óptico de 10.000 ppp: El sensor PMW3325 de PixArt ofrece la precisión y el seguimiento de alta precisión necesarios para ganar
 - Juegue durante días: Funciona con una única pila AA, con hasta 135 horas de duración de la batería
+- Sensor óptico de 10.000 ppp: El sensor PMW3325 de PixArt ofrece la precisión y el seguimiento de alta precisión necesarios para ganar
+- Forma simétrica compacta: Estupenda para quienes agarran el ratón con la punta de los dedos o con todo el dedo
 - Ligero y ágil: El KATAR PRO WIRELESS, con solo 96 g de peso, es óptimo para que el usuario pueda pasar varias horas jugando a FPS o MOBA trepidantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JTXY3DB/?tag=tolees-21)

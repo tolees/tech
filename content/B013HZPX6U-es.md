@@ -29,7 +29,7 @@ Está [Mad Catz - R.A.T. Pro S Ratón Gaming  PC ](https://www.amazon.es/dp/B013
 ℹ️:
 
 - Electronics
-- 0728658045388
 - C0401876
+- 0728658045388
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013HZPX6U/?tag=tolees-21)
