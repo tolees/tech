@@ -28,12 +28,12 @@ Está [HP Z3700 RF Raton óptico inalámbrico 1200DPI Azul  Ambidiestro  - Rató
 
 ℹ️:
 
-- Supports Windows 7, 8, 10, Mac OS 10.3 or later and Chrome OS
-- Rest easy with an HP standard 1 year limited warranty
-- The USB receiver fits conveniently inside the mouse, for effortless portability
-- With up to 16 months of life on a single AA battery2, this mouse was designed to push the limits
+- Just pop in the battery, plug in the USB receiver, and you’re good to go; no need to install anything
 - 1200 optical sensors give you exceptional accuracy and incredible speed
 - Blue LED technology lets your mouse function on a wide range of surfaces, so you can work from almost anywhere
-- Just pop in the battery, plug in the USB receiver, and you’re good to go; no need to install anything
+- Rest easy with an HP standard 1 year limited warranty
+- The USB receiver fits conveniently inside the mouse, for effortless portability
+- Supports Windows 7, 8, 10, Mac OS 10.3 or later and Chrome OS
+- With up to 16 months of life on a single AA battery2, this mouse was designed to push the limits
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FNRWJNK/?tag=tolees-21)

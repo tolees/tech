@@ -28,12 +28,12 @@ Está [Trust Evon - Juego de Altavoces inalámbricos 2.1 de 30W con Bluetooth  N
 
 ℹ️:
 
-- Potente subwoofer de tipo down-firing para bajos graves
-- Potente sonido procedente de un diseño compacto
 - Para utilizar con PC, tabletas, teléfonos, TV, DVD, CD, MP3 u otros dispositivos de audio
+- Potencia máxima de 30 W (RMS de 15 W)
+- Control de bajos y de volumen
+- Potente sonido procedente de un diseño compacto
+- Potente subwoofer de tipo down-firing para bajos graves
 - Conéctelo a la red o disfrute de la tecnología Bluetooth inalámbrica
 - Inteligente gestión de la alimentación: entra en modo de reposo cuando no está en uso
-- Control de bajos y de volumen
-- Potencia máxima de 30 W (RMS de 15 W)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GO2OG66/?tag=tolees-21)
