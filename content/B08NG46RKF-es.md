@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite Coral + Animal Cros al 21.67 % de descuento'
-date: 2021-02-11 23:22:24
+date: 2021-02-13 05:06:56
 image: 'https://m.media-amazon.com/images/I/41IucYQtsPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08NG46RKF/?tag=tolees-21'
 descuento: '21.67'
-average: '241.346153846153'
+average: '241.031707317072'
 ---
 
 Está [Nintendo Switch Lite Coral + Animal Crossing New Horizons + 3 meses Nintendo Shop Online](https://www.amazon.es/dp/B08NG46RKF/?tag=tolees-21) con 21.67 de descuento por 234.9 EUR (original: 299.9 EUR) en el siguiente enlace!
