@@ -28,10 +28,10 @@ Tienes [Amazon Basics - Divisor de 5 salidas para múltiples auriculares  Negro]
 
 🔎:
 
-- Puede enviar sonido a 5 auriculares a la vez. Cable auxiliar incluido para conectar a un dispositivo.
-- El adaptador de auriculares divide la línea en 5 puertos auxiliares (3,5 mm) para compartir fácilmente el sonido con hasta 5 personas.
-- Mezcla canciones fácilmente; utiliza los controles estándar de cada dispositivo conectado para las funciones de mezcla y fundido de canciones.
 - Hecho de plástico ABS con cable de PVC; tamaño compacto; elección de color; ideal para viajar o para el aula.
+- El adaptador de auriculares divide la línea en 5 puertos auxiliares (3,5 mm) para compartir fácilmente el sonido con hasta 5 personas.
+- Puede enviar sonido a 5 auriculares a la vez. Cable auxiliar incluido para conectar a un dispositivo.
+- Mezcla canciones fácilmente; utiliza los controles estándar de cada dispositivo conectado para las funciones de mezcla y fundido de canciones.
 - Funciona con cualquier dispositivo con un puerto AUX, incluidos smartphones, tabletas, ordenadores portátiles, etc.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0719LFLKG/?tag=tolees-21)
