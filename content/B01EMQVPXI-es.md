@@ -28,11 +28,11 @@ Está [HP OfficeJet Pro 8210 - Impresora tinta  color  Wi-Fi  Ethernet  compatib
 
 ℹ️:
 
-- Promoción: Imprime 6 meses gratis con HP Instant Ink. Válido hasta el 30/04. Más información en amazon.es/hp
+- Esta impresora es compatible con los cartuchos de tinta originales HP 953 y con el servicio automático de tinta a domicilio HP Instant Ink: ahorra en impresión y recibe la tinta en casa
+- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático y Ethernet
+- Bandeja de entrada principal de 250 hojas, bandeja de salida de hasta 150 hojas
 - Imprime con velocidades de impresión de 22/18 ppm (negro/color)
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
-- Bandeja de entrada principal de 250 hojas, bandeja de salida de hasta 150 hojas
-- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático y Ethernet
-- Esta impresora es compatible con los cartuchos de tinta originales HP 953 y con el servicio automático de tinta a domicilio HP Instant Ink: ahorra en impresión y recibe la tinta en casa
+- Promoción: Imprime 6 meses gratis con HP Instant Ink. Válido hasta el 30/04. Más información en amazon.es/hp
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EMQVPXI/?tag=tolees-21)
