@@ -28,8 +28,8 @@ Tienes [Seagate Technology - Seagate Backup Plus Hub  6 TB  Disco duro externo 
 
 ℹ️:
 
-- Aproveche la suscripción gratuita de dos meses al plan de Adobe Creative Cloud Photography para acceder a aplicaciones de edición de fotos y vídeos
 - Almacene y acceda a contenido durante los próximos años con 6 TB de espacio masivo en una unidad USB
+- Aproveche la suscripción gratuita de dos meses al plan de Adobe Creative Cloud Photography para acceder a aplicaciones de edición de fotos y vídeos
 - Utilice la unidad sin problemas entre Windows y Mac mediante la instalación del controlador NTFS para Mac
 - Este concentrador una es unidad de disco duro para Mac y Windows que le permite cargar dispositivos móviles y transferir archivos desde cámaras USB y unidades USB a través de sus dos puertos USB 3.1
 
