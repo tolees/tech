@@ -28,10 +28,10 @@ Está [DAXGD Lupa de Pantalla con Altavoz para teléfono Inteligente  Lupa de te
 
 ℹ️:
 
-- Apto para todos los teléfonos inteligentes, como iPhone X / 8/8 Plus / 7 / 7Plus / 6 / 6s, para teléfonos inteligentes Samsung Galaxy S7 Note 6/5/4/3 Edge Android.
-- Puede seguir usando el amplificador de pantalla de video de película HD 3D para ver películas.
 - Esta ampliadora de pantalla de teléfono móvil adopta la tecnología óptica de zoom HD, no necesita batería.
+- Puede seguir usando el amplificador de pantalla de video de película HD 3D para ver películas.
 - Lupa con pantalla de teléfono con altavoz Bluetooth: un buen regalo para los niños, ayúdelos a proteger sus ojos de una distancia cercana. El mejor regalo para los viejos, ayúdalos a ver la pantalla más clara. Es un gran regalo para cualquier fiesta y para cualquiera.
+- Apto para todos los teléfonos inteligentes, como iPhone X / 8/8 Plus / 7 / 7Plus / 6 / 6s, para teléfonos inteligentes Samsung Galaxy S7 Note 6/5/4/3 Edge Android.
 - Diseño plegable para viajes de negocios. Puede usar este proyector de teléfono en cualquier lugar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LDCCGC/?tag=tolees-21)
