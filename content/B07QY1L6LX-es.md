@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy Brava CDPN 2D360PX - Lavavajillas  al 18.69 % de descuento'
-date: 2021-02-12 23:48:47
+date: 2021-02-13 23:57:40
 image: 'https://m.media-amazon.com/images/I/31u7tMheuzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Candy'
 buyurl: 'https://www.amazon.es/dp/B07QY1L6LX/?tag=tolees-21'
 descuento: '18.69'
-average: '428.776818181818'
+average: '427.775652173913'
 ---
 
 Está [Candy Brava CDPN 2D360PX - Lavavajillas 60 cm independiente  13 servicios  WiFi & Bluetooth  programa rápido 39   47dBA  clase A++  inox](https://www.amazon.es/dp/B07QY1L6LX/?tag=tolees-21) con 18.69 de descuento por 405.75 EUR (original: 499.0 EUR) en el siguiente enlace!
