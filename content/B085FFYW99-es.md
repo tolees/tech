@@ -29,8 +29,8 @@ Tienes [realme 6 – Smartphone de 6.5”  8 GB RAM + 128 GB ROM  Procesador Oct
 🔎:
 
 - Pantalla: 6.5", 1080 x 2400 pixels
-- Batería: 4300 mAh
-- Procesador: Mediatek Helio G90T 2.05Ghz
 - Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Procesador: Mediatek Helio G90T 2.05Ghz
+- Batería: 4300 mAh
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085FFYW99/?tag=tolees-21)
