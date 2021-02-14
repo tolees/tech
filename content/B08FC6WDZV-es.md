@@ -28,10 +28,10 @@ Está [nonda Adaptador USB C a USB 3.0  USB-C Hembra a USB 3.0 Macho  USB Tipo C
 
 ℹ️:
 
-- [Plug Play] Adaptador OTG, no necesita controlador/software adicional, adaptador USB a USB C, no soporta la transmisión de señales de vídeo
-- [Super duradero] El cuerpo de aleación de zinc evita arañazos, el conector USB a de primera calidad pasa 10, 000 + prueba de empuje/extracción
 - [Transferencia de datos rápida] Transferencia de datos de hasta 5 Gbps, velocidad de transferencia de datos USB 3.0 estándar en ambos lados
 - [Garantía de 1 año] No dude en actualizar a la garantía de 3 años registrándose en el programa de adaptadores USB-C de Nonda.
+- [Plug Play] Adaptador OTG, no necesita controlador/software adicional, adaptador USB a USB C, no soporta la transmisión de señales de vídeo
 - [Carga rápida] Hasta 3 amperios de corriente de salida, carga rápida USB tipo C hembra a USB a macho adaptador
+- [Super duradero] El cuerpo de aleación de zinc evita arañazos, el conector USB a de primera calidad pasa 10, 000 + prueba de empuje/extracción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FC6WDZV/?tag=tolees-21)

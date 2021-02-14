@@ -29,8 +29,8 @@ Está [EACHINE E520S Drone con Camara HD Drone 4k Drone GPS Drones con Camaras P
 ℹ️:
 
 - El modo de posicionamiento GPS proporciona un vuelo más preciso. - Sígueme: el avión reparará el teléfono móvil de control y seguirá al operador en cualquier dirección que se mueva. - Modo de vuelo Waypoint, solo dibuja una ruta en la pantalla, el helicóptero como el camino de entrega.
-- Con la función wifi 5G se puede conectar la APLICACIÓN, el sistema APK para tomar fotos / video, la transmisión en tiempo real a través de la imagen de la cámara del teléfono - La distancia wifi 5G wifi hasta 250m.
 - Batería potente y vuelo estable Disfrute de hasta 16 minutos de tiempo de vuelo con cada batería. Disfrute de más diversión en cada vuelo gracias a la alta potencia de la batería. La función Altitude-Hold asegura una altitud constante del dron, gracias a esta función es posible obtener imágenes aéreas y videos excepcionales.
+- Con la función wifi 5G se puede conectar la APLICACIÓN, el sistema APK para tomar fotos / video, la transmisión en tiempo real a través de la imagen de la cámara del teléfono - La distancia wifi 5G wifi hasta 250m.
 - 4K HD Cámara La nueva cámara 4K HD tiene una apertura de 90 grados, gracias a ella puedes divertirte y ver todo en alta definición mientras pilotas tu modelo.
 - Función: arriba / abajo, adelante / atrás, girar a la izquierda / derecha, vuelo lateral, velocidad de vuelo de 3 niveles, luz LED, posicionamiento GPS, Sígueme, vuelo circundante, vuelo de waypoint, modo de retención de altitud, modo sin cabeza, retorno de una tecla, One Key Takeoff / Landing, WiFi FPV, Cámara / Video
 
