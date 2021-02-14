@@ -28,10 +28,10 @@ Ahora mismo tienes [APEMAN A80 Action CAM 4K WiFi 20MP EIS Cámara subacuática 
 
 🔎:
 
-- Cámara de 20 MP con resolución 4K Ultra HD.
+- 24 accesorios/bolso portátil gratuito, todos los accesorios son compatibles con GoPro.
 - Resistente al agua hasta 40 metros de profundidad, ideal para todos los deportes bajo el agua.
+- Cámara de 20 MP con resolución 4K Ultra HD.
 - HDMI, USB, puertos AV para la conexión con ordenadores, televisores y proyectores. Grabación de bucle, timelapse, también puede utilizarse como cámara de coche o webcam.
 - Función WiFi integrada: para conectividad inalámbrica que transmite imágenes y vídeos a tu smartphone y tablet fácilmente a través de la aplicación (OKCam).
-- 24 accesorios/bolso portátil gratuito, todos los accesorios son compatibles con GoPro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTDR2TY/?tag=tolees-21)
