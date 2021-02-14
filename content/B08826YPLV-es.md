@@ -28,10 +28,10 @@ Está [ASUS Prime Z490-A - Placa Base ATX Intel de 10a Gen LGA 1200 con VRM 12+2
 
 ℹ️:
 
-- Socket Intel LGA 1200 para la 10a gen de procesadores Intel Core
-- 5-Way Optimization: Ajustes de todo el sistema que optimizan el overclocking y la refrigeración para tareas intensivas de la CPU y la GPU
+- Refrigeración por IA: Administra y controla todos los ventiladores basándose en la carga del sistema y la temperatura actual
 - Suministro energético mejorado: 12+2 etapas de potencia DrMOS, PCB de 6 capas, tomas de alimentación ProCool, chokes de aleación y condensadores resistentes para una alimentación estable
 - Overclocking por IA: Optimiza el rendimiento de la CPU de forma instantánea tomando como referencia la CPU y el cooler, ofreciéndote resultados similares a los que consiguen los expertos
-- Refrigeración por IA: Administra y controla todos los ventiladores basándose en la carga del sistema y la temperatura actual
+- Socket Intel LGA 1200 para la 10a gen de procesadores Intel Core
+- 5-Way Optimization: Ajustes de todo el sistema que optimizan el overclocking y la refrigeración para tareas intensivas de la CPU y la GPU
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08826YPLV/?tag=tolees-21)
