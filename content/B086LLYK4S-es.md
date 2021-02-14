@@ -29,9 +29,9 @@ Tienes [Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35
 🔎:
 
 - Diseño compacto
-- Opción de conexión por cable
-- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
-- Noise Cancelling dual
 - Hasta 35 h de batería
+- Noise Cancelling dual
+- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
+- Opción de conexión por cable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21)

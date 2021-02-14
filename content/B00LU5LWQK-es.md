@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.48 % en Kenu Airframe + - Soporte portátil de sm'
-date: 2021-02-04 22:25:31
+date: 2021-02-14 12:41:47
 image: 'https://m.media-amazon.com/images/I/31bn1KYqPLL._SL200_.jpg'
 comments: true
 category: ofertas

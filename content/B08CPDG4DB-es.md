@@ -28,10 +28,10 @@ Tienes [MSI Meg Trident X 10SD-853EU - Ordenador de sobremesa  Intel Core i7-107
 
 🔎:
 
-- Tarjeta grafica GeForce RTX 2070 Super Ventus GP, 8 GB de GDDR 6
-- Procesador Intel Core i7 10700K (8 núcleos, 16 MB cache, 3.7 GHz hasta 5.1 GHz)
-- Memoria RAM de 16 GB DDR4
-- Disco du 512 GB NVMe M.2, HDD de 1 TB
 - Sistema operativo Windows 10 Home
+- Memoria RAM de 16 GB DDR4
+- Procesador Intel Core i7 10700K (8 núcleos, 16 MB cache, 3.7 GHz hasta 5.1 GHz)
+- Tarjeta grafica GeForce RTX 2070 Super Ventus GP, 8 GB de GDDR 6
+- Disco du 512 GB NVMe M.2, HDD de 1 TB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CPDG4DB/?tag=tolees-21)

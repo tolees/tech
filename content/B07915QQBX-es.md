@@ -28,10 +28,10 @@ Tienes [Netgear LB2120 Módem 4 G con ranura SIM  WiFi N150  copia de seguridad 
 
 ℹ️:
 
-- Dos conectores disponibles para mejorar la recepción de la señal
-- Compatible con las tarjetas SIM de todos los operadores
 - Módem 4G con ranura sim, adecuado para evitar cortes en la conexión en caso de problemas en la línea fija
-- Velocidad Ethernet 150 Mbps de bajada y 50 Mbps de subida
+- Compatible con las tarjetas SIM de todos los operadores
 - Puerto Gigabit Ethernet para la conexión passthrough
+- Dos conectores disponibles para mejorar la recepción de la señal
+- Velocidad Ethernet 150 Mbps de bajada y 50 Mbps de subida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07915QQBX/?tag=tolees-21)
