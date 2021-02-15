@@ -28,9 +28,9 @@ En este momento está [Nikon AF-S DX 18-200mm F3.5-5.6 G ED VR II - Objetivo con
 
 🔎:
 
-- Montura para Nikon
-- Calidad adecuada del producto garantizada por el fabricante
 - Tipo del producto: Objetivo
+- Calidad adecuada del producto garantizada por el fabricante
 - En formato DX
+- Montura para Nikon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002JCSV8A/?tag=tolees-21)
