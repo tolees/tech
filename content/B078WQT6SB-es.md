@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung EVO M.2 - Disco Estado Solido SS al 31.15 % de descuento'
-date: 2021-02-10 17:18:23
+date: 2021-02-14 23:35:32
 image: 'https://m.media-amazon.com/images/I/41kQxnpDnFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQT6SB/?tag=tolees-21'
 descuento: '31.15'
-average: '154.439285714285'
+average: '151.484375'
 ---
 
 Está [Samsung EVO M.2 - Disco Estado Solido SSD  1 TB  550 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQT6SB/?tag=tolees-21) con 31.15 de descuento por 130.8 EUR (original: 189.99 EUR) en el siguiente enlace!
