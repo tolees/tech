@@ -28,10 +28,10 @@ En este momento está [SteelSeries Rival 650  Ratón de Juego Inalámbrico Quant
 
 🔎:
 
-- Más de 24 horas de duración de la batería con carga completa o 10 horas con 15 minutos de carga rápida
-- La distancia de elevación más precisa y baja del mundo, personalizable desde 0,5 mm a 2 mm
 - Sensor para esports con seguimiento 1 a 1 exclusivo óptico TrueMove3+ con 12 000 CPI y 350 IPS
+- Más de 24 horas de duración de la batería con carga completa o 10 horas con 15 minutos de carga rápida
 - Quantum Wireless libera la necesidad de usar cables con un rendimiento sin retardo
+- La distancia de elevación más precisa y baja del mundo, personalizable desde 0,5 mm a 2 mm
 - Personalizable con 256 configuraciones de peso del centro de gravedad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HBDTXJ3/?tag=tolees-21)

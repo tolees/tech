@@ -28,10 +28,10 @@ Tienes [TAMOWA Bateria Externa 10000mAh Power Bank  Bateria Externa Movil con 2 
 
 🔎:
 
-- ❤【Carga segura con protección múltiple】Garantiza la seguridad del usuario mediante sobrecarga, sobrecarga, sobrecalentamiento, sobretensión, sobrecorriente y protección contra cortocircuitos.Un año de garantía gratis.
-- ❤【4 Indicadores LED】La batería extera con 4 indicadores LED (25% -50% -75% -100%) . El indicador LED muestra la energía restante al cargar para asegurarse de que conoce la energía disponible.
-- ❤【Diseño súper delgado】13.95*6.7*1.6cm, 220.5g, fácil de guardar en su bolsillo y llevar a cualquier parte. Superconfort en la mano, antisudor y antideslizante.La carcasa de avanzada ignífuga evita que la batería se dañe.
 - ❤【2 Entradas】Los puertos de entrada en los que puede elegir el Type-C o Micro USB para recargar el power bank, El puerto de entrada de 5V / 2A se carga dos veces más rápido que el puerto de entrada de 1A, lo que le permite ahorrar más tiempo.
+- ❤【Diseño súper delgado】13.95*6.7*1.6cm, 220.5g, fácil de guardar en su bolsillo y llevar a cualquier parte. Superconfort en la mano, antisudor y antideslizante.La carcasa de avanzada ignífuga evita que la batería se dañe.
+- ❤【4 Indicadores LED】La batería extera con 4 indicadores LED (25% -50% -75% -100%) . El indicador LED muestra la energía restante al cargar para asegurarse de que conoce la energía disponible.
+- ❤【Carga segura con protección múltiple】Garantiza la seguridad del usuario mediante sobrecarga, sobrecarga, sobrecalentamiento, sobretensión, sobrecorriente y protección contra cortocircuitos.Un año de garantía gratis.
 - ❤【2 Salidas USB】Los puertos de salida USB dobles pueden cargar 2 dispositivos al mismo tiempo. Hasta 2.1A para la salida de USB, Se recarga 2 veces más rápido.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083Z39GSJ/?tag=tolees-21)
