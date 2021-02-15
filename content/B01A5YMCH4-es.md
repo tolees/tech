@@ -28,8 +28,8 @@ Tienes [Learning Resources- Code & Go Conjunto de Actividades del ratón Robot  
 
 🔎:
 
-- Incluye guiacute;a de actividades multilinguuml;e
 - Introduce habilidades de codificacioacute;n praacute;cticas
+- Incluye guiacute;a de actividades multilinguuml;e
 - Incluye 10 tarjetas de actividad y 30 tarjetas de codificacioacute;n
 - Funciona con pilas aaa (no incluidas)
 - Una introduccioacute;n temprana a stem
