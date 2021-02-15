@@ -28,12 +28,12 @@ Ahora mismo tienes [Nokia 2.4 -Smartphone 6 5   HD+  3GB RAM  64GB ROM  Cámara 
 
 🔎:
 
-- Concéntrate en lo importante con la cámara dual con tecnología ia
-- Pantalla 6.5” hd+
-- Más de 2 días gracias a su batería de 4500 y su inteligencia
-- Biometría con sensor de huella y desbloqueo facial
-- Tamaño de pantalla: 6.5 inches
 - Parte posterior con textura nano 3D de un solo color
+- Pantalla 6.5” hd+
+- Concéntrate en lo importante con la cámara dual con tecnología ia
 - Sistema operativo: Android
+- Biometría con sensor de huella y desbloqueo facial
+- Más de 2 días gracias a su batería de 4500 y su inteligencia
+- Tamaño de pantalla: 6.5 inches
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LVV2RZJ/?tag=tolees-21)
