@@ -29,10 +29,10 @@ Está [MSI Infinite X Plus 9SD-655EU - Ordenador de sobremesa Gaming  Intel Core
 ℹ️:
 
 - Procesador Intel Core i7-9700KF (8 núcleos, 12 MB cache, 3. 6 GHz hasta 4. 9 GHz)
+- Fuente de alimentación: 750W
 - Memoria RAM 16GB (8GB x 2) DDR4 2400MHz
 - Almacenamiento de 2TB HDD y 512GB SSD
-- Fuente de alimentación: 750W
-- Tarjeta grafica GeForce RTX 2070 Super Ventus XS, 8 GB de 8 GB GDDR 6
 - Sistema operativo Windows 10 Home
+- Tarjeta grafica GeForce RTX 2070 Super Ventus XS, 8 GB de 8 GB GDDR 6
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GG5HJ1F/?tag=tolees-21)
