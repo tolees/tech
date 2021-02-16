@@ -28,11 +28,11 @@ Tienes [Olympus Objetivo M.Zuiko Digital ED 40-150 mm F2.8 PRO  teleobjetivo  a
 
 ℹ️:
 
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 - Funcionamiento profesional gracias al botón Fn dedicado, mecanismo de embrague de enfoque manual y capucha automática del objetivo
-- El teleobjetivo a prueba de polvo y salpicaduras es sorprendentemente fácil de transportar gracias a su diseño compacto y brilla con la alta calidad de imagen y un enfoque rápido para imágenes nítidas
-- La distancia mínima de enfoque de solo 70 cm en todas las distancias focales asegura imágenes de cerca desde todos los ángulos de disparo
-- Óptimo acabado, bayoneta de metal de alta calidad y límite de primeros planos para la fotografía telemacro
 - Ámbitos de aplicación: viajes, deportes, naturaleza, luz baja y retratos; equivalente a un objetivo de 35 mm de 80 - 300 mm
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- El teleobjetivo a prueba de polvo y salpicaduras es sorprendentemente fácil de transportar gracias a su diseño compacto y brilla con la alta calidad de imagen y un enfoque rápido para imágenes nítidas
+- Óptimo acabado, bayoneta de metal de alta calidad y límite de primeros planos para la fotografía telemacro
+- La distancia mínima de enfoque de solo 70 cm en todas las distancias focales asegura imágenes de cerca desde todos los ángulos de disparo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NED5VHC/?tag=tolees-21)
