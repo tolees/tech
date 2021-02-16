@@ -28,10 +28,10 @@ Está [Docooler Funda para Kindle Paperwhite  10.ª generación  2018  6.7 Pulga
 
 ℹ️:
 
+- El tacto de la tela recuerda a la cubierta de un libro y es impermeable. Tiene un interior de PVC que protege la pantalla.
 - Diseño delgado y liviano para que pueda leer durante horas con total comodidad.
 - Se abre y se cierra como la cubierta de un libro y activa o desactiva automáticamente su máquina.
-- El tacto de la tela recuerda a la cubierta de un libro y es impermeable. Tiene un interior de PVC que protege la pantalla.
-- La tapa magnetizada mantiene la tapa bien cerrada.Disipación rápida de aire y calor.
 - Resistente al agua y fácil de limpiar, material exterior impermeable y diseño libre de polvo.
+- La tapa magnetizada mantiene la tapa bien cerrada.Disipación rápida de aire y calor.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SC2BW1Z/?tag=tolees-21)
