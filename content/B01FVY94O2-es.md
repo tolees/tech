@@ -28,9 +28,9 @@ Ahora mismo tienes [VicTsing - Vtin Punker -Altavoz Bluetooth   Premium 20W con 
 
 🔎:
 
+- A pueba de salpicaduras impacto: impermeable nivel de ipx5, resitente a impacto; diseñado portatíl para llevarse dondequiera
 - Tiempo de trabajo de 30 horas: con 4400mah pila litia incorporada, se puede trabaja 25 horas en volumen de 70%; micrófono incorporado ruido-eliminado se le hace manos libre
 - Fuerte bass: altavoz bluetooth portatil le ofrece sonido bajo fuerte con rediador pasivo y dos drivers de subwoofer; tono claro, tiple bueno, bajo fuerte para todas canciones
-- A pueba de salpicaduras impacto: impermeable nivel de ipx5, resitente a impacto; diseñado portatíl para llevarse dondequiera
 - Sonido estéreo: dual-drivers 10w ofrece sonido claro y melodioso, gran alcance; le ofrece excelente experiencia de escuchar música
 - Transmisión bluetooth y aux: fácil conecta a otros dispositivos, como mp3; tablets, soporta conexión aux-in cable de audio, incluso si no hay dispositivos bluetooth, también se puede disfrutar de la música hermosa
 
