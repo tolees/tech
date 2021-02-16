@@ -28,10 +28,10 @@ En este momento está [TAIFU Adaptador de Corriente de 9V 2A 18W Cargador para D
 
 🔎:
 
+- Entrada: AC 100-240V 50-60Hz, Salida: 9voltios, 2 amperios, 18 vatios
+- Compatible con: RockJam Keyboard RJ-661,RockJam RJ761,RockJam RJ654 ,Roberts Stream 218 205 207 202 R250, Pure Evoke 2 DAB Digital Radio,PURE Evoke-1XT
+- Dimensiones de la clavija: 5,5 x 2,5 mm ✔ Importante Polaridad: exterior negativo (-) e interior positivo (+)
 - Compatible con: Adaptador de corriente para la placa Arduino Uno, placa Arduino UNO R3, cámara CCTV, reproductor de CD, reproductor de DVD, enrutador, módem ADSL, impresora, cámara de vigilancia, impresoras de etiquetas, LED-Strips, Router, routers, Embedded-Systeme, pantallas, accesorios de informática, NAS, Mini-PCs, Pantallas TFT, Arduino, radio portátil y más.
 - ❤Garantía: reembolso gratuito en 30 días; Garantía del producto en 3 años. // Certificación CE, ROHS, TUV, UL, GS, BS, REACH
-- Entrada: AC 100-240V 50-60Hz, Salida: 9voltios, 2 amperios, 18 vatios
-- Dimensiones de la clavija: 5,5 x 2,5 mm ✔ Importante Polaridad: exterior negativo (-) e interior positivo (+)
-- Compatible con: RockJam Keyboard RJ-661,RockJam RJ761,RockJam RJ654 ,Roberts Stream 218 205 207 202 R250, Pure Evoke 2 DAB Digital Radio,PURE Evoke-1XT
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TZGRXVQ/?tag=tolees-21)
