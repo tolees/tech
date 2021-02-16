@@ -28,11 +28,11 @@ En este momento está [ASUS TUF Gaming F15 FX506LI-HN011 - Portátil de 15.6 " F
 
 🔎:
 
-- Memoria RAM de 8 GB, DDR 4
-- Tarjeta grafica GeForce GTX 1650 Ti de 4 GB GDDR6
-- Sin Sistema operativo
-- Procesador Intel i5-10300H ( 4 núcleos, 8 MB cache, 2.5 GHz hasta 4.5 GHz)
-- Pantalla de 15.6" FullHD (1920 x 1080)
 - Almacenamiento de 512 GB M.2 NVMe PCIe
+- Procesador Intel i5-10300H ( 4 núcleos, 8 MB cache, 2.5 GHz hasta 4.5 GHz)
+- Sin Sistema operativo
+- Memoria RAM de 8 GB, DDR 4
+- Pantalla de 15.6" FullHD (1920 x 1080)
+- Tarjeta grafica GeForce GTX 1650 Ti de 4 GB GDDR6
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NTPWTJD/?tag=tolees-21)
