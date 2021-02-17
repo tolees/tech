@@ -28,10 +28,10 @@ En este momento está [JIALONG Alfombrilla de ratón Grande Alfombrilla Gaming r
 
 🔎:
 
-- Dimensión 90x40cm: El diseño extendido proporciona un área utilizable más grande para cubrir el teclado, el ratón y otras cosas de escritorio, para jugar o para la oficina.
 - Hecho de material ambiental con Certificado ROHS para garantizar la seguridad. Es ambiental, no tóxico y seguro de usar. Sin daño al cuerpo humano
+- Base de goma antideslizante: La estabilidad es muy buena y la base de material base de goma natural que proporciona agarre pesado que evita el deslizamiento o el movimiento del mousepad.
 - Súper cómoda 2.5mm de grosor: La alfombrilla de ratón profesional de juego proporciona un juego más cómodo y mejor experiencia de trabajo, reduce la fatiga de la mano, portable y duradera para el uso a largo plazo, se puede lavar.
 - Tela profesional: La superficie de la tela de Lycra hace que la alfombrilla quede más firme y lisa con la tecnología de impresión de alta precisión y con muchos más detalles del dibujo.
-- Base de goma antideslizante: La estabilidad es muy buena y la base de material base de goma natural que proporciona agarre pesado que evita el deslizamiento o el movimiento del mousepad.
+- Dimensión 90x40cm: El diseño extendido proporciona un área utilizable más grande para cubrir el teclado, el ratón y otras cosas de escritorio, para jugar o para la oficina.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XSB7WQ3/?tag=tolees-21)
