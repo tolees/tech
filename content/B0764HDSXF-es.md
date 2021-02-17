@@ -29,9 +29,9 @@ Tienes [HP 27w - Monitor de 27" FullHD  1920×1080  2073k   IPS  16:9  VGA x1  H
 🔎:
 
 - Retroiluminación LED
+- Resolución de la pantalla: FHD (1920 x 1080 a 60 Hz)
 - El diseño de micro-borde ofrece más pantalla en menos espacio
 - Pantalla IPS de 27 pulgadas dispone de ángulos de visualización de 178º
 - Controles en pantalla
-- Resolución de la pantalla: FHD (1920 x 1080 a 60 Hz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0764HDSXF/?tag=tolees-21)
