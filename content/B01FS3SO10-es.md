@@ -29,11 +29,11 @@ Tienes [LEXIBOOK- Disney Soy Luna-Reproductor Radio CD  Altavoz Portátil  Rosa 
 ℹ️:
 
 - Infantil.
-- Lector de CD de carga superior.
-- Radio CD Portátil
-- Potencia de salida 2 x 0.8W.
 - Alimentacio AC o 6 Pilas de tipo C/LR14 (no incluido).
-- Tomas de entrada de audio de 3,5 mm.
 - Diseño Soy Luna.
+- Radio CD Portátil
+- Lector de CD de carga superior.
+- Tomas de entrada de audio de 3,5 mm.
+- Potencia de salida 2 x 0.8W.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21)
