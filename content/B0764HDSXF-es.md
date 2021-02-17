@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 27w - Monitor de 27" FullHD  1920×108 al 16.76 % de rebaja'
-date: 2021-02-14 14:45:34
+date: 2021-02-17 04:30:32
 image: 'https://m.media-amazon.com/images/I/51lUd+EJBxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B0764HDSXF/?tag=tolees-21'
 descuento: '16.76'
-average: '137.605434782608'
+average: '138.080208333333'
 ---
 
 Tienes [HP 27w - Monitor de 27" FullHD  1920×1080  2073k   IPS  16:9  VGA x1  HDMI x1  60 Hz  5ms  Negro](https://www.amazon.es/dp/B0764HDSXF/?tag=tolees-21) con precio final de  149.0 EUR (original: 179.0 EUR) (16.76 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [HP 27w - Monitor de 27" FullHD  1920×1080  2073k   IPS  16:9  VGA x1  H
 
 🔎:
 
-- Pantalla IPS de 27 pulgadas dispone de ángulos de visualización de 178º
-- Controles en pantalla
-- Retroiluminación LED
 - Resolución de la pantalla: FHD (1920 x 1080 a 60 Hz)
+- Controles en pantalla
 - El diseño de micro-borde ofrece más pantalla en menos espacio
+- Retroiluminación LED
+- Pantalla IPS de 27 pulgadas dispone de ángulos de visualización de 178º
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0764HDSXF/?tag=tolees-21)
