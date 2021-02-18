@@ -29,8 +29,8 @@ Tienes [Kingston KVR13S9S8/4 - Memoria RAM de 4 GB  1333 MHz DDR3 Non-ECC CL9 SO
 ℹ️:
 
 - Todos los productos de Kingston están respaldados por el respaldo de una empresa con un historial de más de 30 años de confiabilidad del producto y un compromiso con nuestros clientes
-- Toda la memoria ValueRAM probada al 100%
 - Diseñadas y ensayadas para ajustarse a las normas JEDEC
+- Toda la memoria ValueRAM probada al 100%
 - Compruebe siempre la compatibilidad con el fabricante antes de comprar este módulo DRAM
 - ValueRAM es ideal para los constructores de sistemas y aquellos que compran memoria por especificación
 
