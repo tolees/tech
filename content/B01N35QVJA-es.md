@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.54 % en Intel NUC 7I5BNH - Kit ordenador Mini PC'
-date: 2021-02-17 12:21:38
+date: 2021-02-18 12:41:46
 image: 'https://m.media-amazon.com/images/I/411telAbRoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intel'
 buyurl: 'https://www.amazon.es/dp/B01N35QVJA/?tag=tolees-21'
 descuento: '38.54'
-average: '276.140917431192'
+average: '275.594954954954'
 ---
 
 Tienes [Intel NUC 7I5BNH - Kit ordenador Mini PC  Intel Core i5-7260U  Espacio para hasta 32 GB SODIMM DDR4 RAM  Espacio para disco M.2 + 2.5" SSD/HDD ](https://www.amazon.es/dp/B01N35QVJA/?tag=tolees-21) con un 38.54 % de descuento con precio de oferta de 245.84 EUR (original: 399.99 EUR) en el siguiente enlace!
