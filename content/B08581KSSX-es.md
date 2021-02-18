@@ -28,9 +28,9 @@ Está [HONOR Magic Watch 2  46mm  - Smartwatch Flax Brown](https://www.amazon.es
 
 ℹ️:
 
-- Frecuencia cardíaca TruSeen 3.5 en tiempo real 24h y monitorización de la calidad del sueño TruSleep 2.0 y del estrés TruRelax
 - AMOLED 1.39” True Color, 454 x 454 326 ppi
 - 15 tipos de deporte y estilos de natación
+- Frecuencia cardíaca TruSeen 3.5 en tiempo real 24h y monitorización de la calidad del sueño TruSleep 2.0 y del estrés TruRelax
 - 5 ATM (50mt)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08581KSSX/?tag=tolees-21)
