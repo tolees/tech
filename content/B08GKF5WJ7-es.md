@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazfit Neo - Smartwatch Black](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Monitoreo del sueño
-- Duración de la batería de 28 días
-- Resistente al agua hasta 50 metros
 - Monitoreo de frecuencia cardíaca
+- Resistente al agua hasta 50 metros
 - Pantalla siempre encendida
+- Duración de la batería de 28 días
+- Monitoreo del sueño
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GKF5WJ7/?tag=tolees-21)
