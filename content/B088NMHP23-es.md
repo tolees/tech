@@ -28,10 +28,10 @@ En este momento está [Google Nest Wifi - Router Mesh  1GB RAM  4GB flash  Bluet
 
 🔎:
 
+- Sistema escalable y flexible: añade routers y puntos de acceso adicionales a casas de cualquier tamaño
 - Punto Wifi: Hasta 90 metros cuadrados por punto
 - Router Wi‑Fi: Hasta 120 metros cuadrados por router
 - Router Wifi y punto Wifi: Wi-Fi en malla 802.11s expandible
 - Admite las configuraciones de estrella y cadena en margarita
-- Sistema escalable y flexible: añade routers y puntos de acceso adicionales a casas de cualquier tamaño
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088NMHP23/?tag=tolees-21)
