@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A10SC-067XES - Ordenador al 20.00 % de rebaja'
-date: 2021-02-16 21:21:59
+date: 2021-02-19 17:30:53
 image: 'https://m.media-amazon.com/images/I/31F4hEo7fjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B083NQ94GX/?tag=tolees-21'
 descuento: '20.00'
-average: '1260.72347826087'
+average: '1258.19291666667'
 ---
 
 Tienes [MSI Prestige 14 A10SC-067XES - Ordenador portátil de 14" FullHD  Intel Core i7-10710U  16GB RAM  1TB SSD  Nvidia GTX1650-4GB  sin sistema operativo  blanco - Teclado QWERTY Español](https://www.amazon.es/dp/B083NQ94GX/?tag=tolees-21) con precio final de  1199.99 EUR (original: 1499.99 EUR) (20.00 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [MSI Prestige 14 A10SC-067XES - Ordenador portátil de 14" FullHD  Intel 
 
 🔎:
 
-- Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 - Tarjeta gráfica Nvidia GeForce GTX1650-4GB
+- Memoria RAM 16GB DDR3 2133Mhz
 - Procesador Intel Core i7-10710U (1.10Ghz,12MB)
 - Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
 - Sin sistema operativo
-- Memoria RAM 16GB DDR3 2133Mhz
+- Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083NQ94GX/?tag=tolees-21)

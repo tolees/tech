@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI MEG Trident X 10SE-852EU - Ordenador al 18.52 % de rebaja'
-date: 2021-02-17 10:49:01
+date: 2021-02-19 17:03:23
 image: 'https://m.media-amazon.com/images/I/31EZPIsu54L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [MSI MEG Trident X 10SE-852EU - Ordenador de sobremesa  Intel Core i7-107
 
 🔎:
 
-- Disco du 512 GB M.2 PCEI, HDD de 1 TB
+- Procesador Intel Core i7-10700K (8 núcleos, 16 MB, 3. 7 GHz hasta 5. 1 GHz)
 - Tarjeta grafica GeForce RTX 2080 Super Ventus XS, 8 GB de 8 GB GDDR 6
+- Disco du 512 GB M.2 PCEI, HDD de 1 TB
 - Memoria RAM de 32 GB, DDR 4
 - Sistema operativo Windows 10 Home
-- Procesador Intel Core i7-10700K (8 núcleos, 16 MB, 3. 7 GHz hasta 5. 1 GHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CNM94VT/?tag=tolees-21)
