@@ -28,10 +28,10 @@ Tienes [MSI MEG Trident X 10SE-852EU - Ordenador de sobremesa  Intel Core i7-107
 
 🔎:
 
-- Procesador Intel Core i7-10700K (8 núcleos, 16 MB, 3. 7 GHz hasta 5. 1 GHz)
 - Tarjeta grafica GeForce RTX 2080 Super Ventus XS, 8 GB de 8 GB GDDR 6
 - Disco du 512 GB M.2 PCEI, HDD de 1 TB
-- Memoria RAM de 32 GB, DDR 4
 - Sistema operativo Windows 10 Home
+- Memoria RAM de 32 GB, DDR 4
+- Procesador Intel Core i7-10700K (8 núcleos, 16 MB, 3. 7 GHz hasta 5. 1 GHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CNM94VT/?tag=tolees-21)
