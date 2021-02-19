@@ -28,9 +28,9 @@ Ahora mismo tienes [Western Digital - WD My Passport disco duro portátil](https
 
 🔎:
 
-- Wd Discovery software for drive management
-- Usb-c ready, USB 3.0 compatible
 - Innovative style with refined metal cover
+- Usb-c ready, USB 3.0 compatible
+- Wd Discovery software for drive management
 - Up to 5TB of capacity
 - Password protection
 
