@@ -28,10 +28,10 @@ Está [Trust Arys - Barra de sonido para ordenador  USB  color negro](https://ww
 
 ℹ️:
 
-- Forma horizontal que ahorra espacio y encaja debajo de cualquier monitor de ordenador
-- Rejilla metálica para protección adicional
 - Control de volumen de gran tamaño, iluminado y de fácil acceso en el frontal
 - Salida de potencia máxima de 12 W (6 vatios RMS)
 - Alimentado por USB, no requiere alimentación de red
+- Forma horizontal que ahorra espacio y encaja debajo de cualquier monitor de ordenador
+- Rejilla metálica para protección adicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GPWY8S6/?tag=tolees-21)
