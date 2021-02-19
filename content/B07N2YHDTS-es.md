@@ -28,10 +28,10 @@ Ahora mismo tienes [LG WK7 - Altavoz con Inteligencia Artificial y Asistente de 
 
 🔎:
 
-- Chromecast integrado
 - Tecnología MERIDIAN
+- Chromecast integrado
 - WiFi y Bluetooth
-- Asistente de Google integrado
 - Audio de alta resolución Hi-Res
+- Asistente de Google integrado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N2YHDTS/?tag=tolees-21)
