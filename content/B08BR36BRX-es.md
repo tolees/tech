@@ -28,8 +28,8 @@ Está [IUBEST 100ml Kit Limpieza Cabezales Impresora  Limpiador de boquillas par
 
 ℹ️:
 
-- Qué hay en la caja: 1x líquido limpiador de 200 ml, 1x jeringa, 1x manguera de silicona, 1x par de guantes, 1x instrucción
 - El kit de limpieza IUBEST puede limpiar tinta colorante, tinta pigmentada, tinta de sublimación y tinta comestible para eliminar las marcas ilegibles causadas por la obstrucción del cabezal de impresión (rayas verticales, rayas horizontales, impresión de texto o patrones incompletos)
+- Qué hay en la caja: 1x líquido limpiador de 200 ml, 1x jeringa, 1x manguera de silicona, 1x par de guantes, 1x instrucción
 - La tasa de éxito es superior al 98%. No es necesario desmontar el cabezal de impresión, lo que hace que la limpieza sea más cómoda y sencilla
 - Adecuado para la limpieza del cabezal de impresión de todas las impresoras Epson, Canon, Brother, HP, Lexmark, Kodak y Samsung
 - Contiene ingredientes poderosos como enzimas activas, limpieza fuerte, es amigable con el medio ambiente y no atacaría el cabezal de impresión
