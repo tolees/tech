@@ -30,7 +30,7 @@ En este momento está [Ubiquiti Networks NanoStationM LocoM5 - Repetidor CPE 5 G
 
 - Consumo energético de 5.5 w y frecuencia de banda de 5170 - 5875
 - Intervalo de temperatura operativa de -30 - 75° c
-- Ganancia de la antena máxima de 13 dBi
 - Antena mimo y tasa de transferencia máxima de 150 mbit/s
+- Ganancia de la antena máxima de 13 dBi
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HXT8FPS/?tag=tolees-21)

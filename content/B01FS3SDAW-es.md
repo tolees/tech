@@ -28,10 +28,10 @@ En este momento está [Soy Luna - Lexibook Altavoz Karaoke Portátil con Micróf
 
 🔎:
 
-- Fácil de transportar para cantar en cualquier sitio
+- Dimensiones: 20.6 x 17.4 x 9.4 cm
 - Compatible con cualquier reproductor multimedia equipado con una salida de audio
 - Incluye un micrófono
 - 1 amplificador portátil con un potente altavoz de 10 vatios de sonido
-- Dimensiones: 20.6 x 17.4 x 9.4 cm
+- Fácil de transportar para cantar en cualquier sitio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01FS3SDAW/?tag=tolees-21)
