@@ -28,10 +28,10 @@ En este momento está [LG XBOOM CK43 - Equipo de Sonido de Alta Potencia  Potenc
 
 🔎:
 
-- Control desde el móvil con LG Bluetooth, USB dual para grabar y reproducir a la vez, lector de CD y Antena FM
-- EZ File Search, controla fácilmente el volumen y pista con unas ruedas suaves en la parte frontal
-- Modo Multi Jukebox, para conectar hasta tres dispositivos diferentes para crear la lista de reproducción
 - LG TV Sound Sync, vincula tu microcadena a tu TV LG compatible y disfruta de tus películas y series con el mejor sonido
+- Modo Multi Jukebox, para conectar hasta tres dispositivos diferentes para crear la lista de reproducción
+- EZ File Search, controla fácilmente el volumen y pista con unas ruedas suaves en la parte frontal
 - Equipo de sonido LG con 300 W de potencia para una experiencia de audio espectacular
+- Control desde el móvil con LG Bluetooth, USB dual para grabar y reproducir a la vez, lector de CD y Antena FM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B9N2T3D/?tag=tolees-21)
