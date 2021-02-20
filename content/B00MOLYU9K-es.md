@@ -28,10 +28,10 @@ Tienes [Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital](htt
 
 🔎:
 
-- Disfruta de las mejores condiciones para jugar
-- Este producto sólo contiene contenido digital
-- Plataforma recomendada: PlayStation 4
-- Tipo de producto: tarjeta de Sony
 - Disponible con almacenamiento online
+- Tipo de producto: tarjeta de Sony
+- Este producto sólo contiene contenido digital
+- Disfruta de las mejores condiciones para jugar
+- Plataforma recomendada: PlayStation 4
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
