@@ -28,8 +28,8 @@ Tienes [Technaxx MusicMan BT-X34 - Altavoz Bluetooth con Alexa integrada   color
 
 ℹ️:
 
-- Altavoz Bluetooth
 - Altavoz WiFi puede conectar hasta 8 dispositivos recibibles dentro de la red WiFi
+- Altavoz Bluetooth
 - Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.
 - Altavoces estéreo “Multiroom” (2x 5W para muchas habitaciones) & función Bluetooth
 - Responde preguntas, toca música & da informaciones (p.ej. noticias, clima, deportes, tráfico, horas de apertura, etc.)
