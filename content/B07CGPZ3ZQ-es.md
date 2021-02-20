@@ -28,10 +28,10 @@ En este momento está [Logitech G305 Lightspeed Ratón Gaming Inalámbrico  Capt
 
 🔎:
 
-- Duración de Pilas Extralarga: El sensor HERO y la tecnología inalámbrica LIGHTSPEED ofrecen una eficiencia extrema, permite hasta 250 horas de uso con una sola pila AA
-- Sensor HERO 16K: El ratón para gaming óptico ofrece sublime respuesta precisa y constante a cualquier velocidad en toda la gama de dpi 200-12.000 dpi
 - Juega en Cualquier Lugar: El diseño ligero, compacto y duradero, y el almacenamiento integrado para el nano receptor USB hacen de G305 un gran compañero de viaje
 - Tecnología Inalámbrica Lightspeed: La latencia hace la diferencia, LIGHTSPEED es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
+- Sensor HERO 16K: El ratón para gaming óptico ofrece sublime respuesta precisa y constante a cualquier velocidad en toda la gama de dpi 200-12.000 dpi
+- Duración de Pilas Extralarga: El sensor HERO y la tecnología inalámbrica LIGHTSPEED ofrecen una eficiencia extrema, permite hasta 250 horas de uso con una sola pila AA
 - Ligero: En Logitech G, un ratón inalámbrico para gaming no tiene que ser pesado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CGPZ3ZQ/?tag=tolees-21)
