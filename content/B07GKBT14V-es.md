@@ -28,10 +28,10 @@ Tienes [Western Digital - WD My Passport Ultra - Disco Duro Externo para Mac de 
 
 🔎:
 
+- WD Discovery le permite importar contenido desde redes sociales y almacenamiento en la nube
 - Protección mediante contraseña con cifrado de hardware AES de 256 bits
 - Preparado para USB-C y compatible con USB 3.0
-- Estilo innovador con una elegante carcasa metálica
 - Hasta 4 TB de capacidad
-- WD Discovery le permite importar contenido desde redes sociales y almacenamiento en la nube
+- Estilo innovador con una elegante carcasa metálica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GKBT14V/?tag=tolees-21)
