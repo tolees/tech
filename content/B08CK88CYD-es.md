@@ -28,10 +28,10 @@ En este momento está [Arbily Auriculares Inalambricos con Dual Microfono  【Ú
 
 🔎:
 
-- 【Comfortable Fit & IPX7 Waterproof】The headphone structure follows an ergonomic design to offer a comfortable wearing experience. You wont slip during exercise. The F8 wireless headphones suitable for exercise or workouts with IPX7 waterproof. Please contact us if you have any questions.
-- 【110 Hours Playtime】Arbily Bluetooth earbuds support fast charging. The 15-minute fast charge gives earphones 90 minutes of playtime. They last about 10 hours on a single full charge. In addition, the 2500mAh charging case offers an additional 100 hours playtime for the earphones. In addition, the charging case with USB connection can also be used as a power bank.
 - 【Latest Updated Version】As an updated version, F8 Bluetooth headphones have enhanced bass, faster charging speed, and better noise cancellation in the earbuds and microphones. In addition, the wireless headphones have been switched from physical button operation to intelligent touch control.
 - 【4 Microphones for Clear Calls】 The earphones are equipped with 4 microphones to collect call voices and reduce noise. Thanks to ambient noises reduction technology, the headphones effectively suppress 90% of the noise. It makes the call crystal clear! The Bluetooth earphones can be used in mono mode for phone calls and work on two channels so that you can enjoy stereo sound.
+- 【110 Hours Playtime】Arbily Bluetooth earbuds support fast charging. The 15-minute fast charge gives earphones 90 minutes of playtime. They last about 10 hours on a single full charge. In addition, the 2500mAh charging case offers an additional 100 hours playtime for the earphones. In addition, the charging case with USB connection can also be used as a power bank.
 - 【Easy to Use】After opening the charging case, the wireless earphones switch on automatically and establish a connection to the last connected device. You can use touch controls to adjust the volume or just skip songs. To provide the best listening experience, our wireless earbuds come with 4 pairs of eartips of different sizes that are suitable for everyone.
+- 【Comfortable Fit & IPX7 Waterproof】The headphone structure follows an ergonomic design to offer a comfortable wearing experience. You wont slip during exercise. The F8 wireless headphones suitable for exercise or workouts with IPX7 waterproof. Please contact us if you have any questions.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CK88CYD/?tag=tolees-21)
