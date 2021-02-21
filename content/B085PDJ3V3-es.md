@@ -28,13 +28,13 @@ En este momento está [Acer Chromebook 714 - Portátil Táctil 14" FullHD  Intel
 
 🔎:
 
-- Almacenamiento de 64GB eMMc
-- Tarjeta gráfica Integrada Intel UHD Graphics
-- Sistema operativo Chrome OS
 - procesador Intel Core i3-8130U (2 núcleos, 4 MB de caché, 2,20 GHz hasta 3,4 GHz)
-- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano (requiere conexión a internet)
-- Pantalla de 14" FullHD 1920x1080 píxeles, IPS
-- Memoria RAM de 4GB DDR4 SDRAM
 - Descubre Chromebook, una generación de portátiles sencillos, rápidos que funcionan con el sistema operativo “Chrome OS” desarrollado por Google
+- Memoria RAM de 4GB DDR4 SDRAM
+- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano (requiere conexión a internet)
+- Tarjeta gráfica Integrada Intel UHD Graphics
+- Pantalla de 14" FullHD 1920x1080 píxeles, IPS
+- Almacenamiento de 64GB eMMc
+- Sistema operativo Chrome OS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085PDJ3V3/?tag=tolees-21)
