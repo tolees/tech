@@ -28,10 +28,10 @@ Está [Bebinca Smartwatch Reloj Inteligente con Cronómetro  Pulsera Actividad p
 
 ℹ️:
 
-- 【Resistente al agua + correa reemplazable】 Impermeable IP68 que no debería preocupar si este reloj se moja, ya sea mientras nada en la piscina o corre bajo la lluvia, incluso cuando te duchas. La correa de gel de sílice con un diseño convexo ergonómico, suave y acogedor, viene con una correa de metal adicional.
-- 【Recordatorio inteligente】 Notificaciones de llamadas, SMS y mensajes de APP como Facebook Whatsapp Messenger Twitter y LinkedIn. Cuando llega una llamada o un mensaje, el reloj le recordará las vibraciones, nunca pierda ninguna llamada o mensaje importado.
 - 【Meter Medidor de presión arterial】 El monitoreo preciso de la frecuencia cardíaca y la presión arterial incluye la presión arterial sistólica y diastólica. 24 horas de monitoreo en tiempo real, le permite saber más sobre su propia salud y vivir una vida más saludable.
 - 【Rastreador de actividad】 Verifique el tiempo y los pasos diarios o mientras hace deporte, puede medir las calorías quemadas y controlar las zonas cardiovasculares (quemador de grasa, cardio y pico). La pantalla en color súper clara de 1.2 pulgadas con toque completo lo hace más cómodo de usar.
+- 【Resistente al agua + correa reemplazable】 Impermeable IP68 que no debería preocupar si este reloj se moja, ya sea mientras nada en la piscina o corre bajo la lluvia, incluso cuando te duchas. La correa de gel de sílice con un diseño convexo ergonómico, suave y acogedor, viene con una correa de metal adicional.
+- 【Recordatorio inteligente】 Notificaciones de llamadas, SMS y mensajes de APP como Facebook Whatsapp Messenger Twitter y LinkedIn. Cuando llega una llamada o un mensaje, el reloj le recordará las vibraciones, nunca pierda ninguna llamada o mensaje importado.
 - 【Compatibilidad y Garantía】Es compatible con iOS 8.2 y posterior y Android 4.4 y posterior (no para iPad, tableta o PC), instale la aplicación "H Band" en su teléfono y asocie el dispositivo. 30 días de devolución sin preocupaciones y 2 años de garantía con un servicio accesible y amigable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RT7Y6B1/?tag=tolees-21)
