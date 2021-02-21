@@ -2,7 +2,7 @@
 layout: post
 title: 'KROM Kernel Tkl - NXKROMKRNLTKL - Teclad al 20.02 % de descuento'
 date: 2020-03-13 22:58:53
-image: 'https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.457272727272716'
 
 Ahora mismo tienes [KROM Kernel Tkl - NXKROMKRNLTKL - Teclado Mecánico Español Gaming RGB  Color Negro.](https://www.amazon.es/dp/B077J2HFD2/?tag=tolees-21) a 39.91 EUR (original: 49.9 EUR) (20.02 %  de descuento) en el siguiente enlace!
 
-[![KROM Kernel Tkl - NXKROMKRNLTKL - Teclad](https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL200_.jpg)](https://www.amazon.es/dp/B077J2HFD2/?tag=tolees-21)
+[![KROM Kernel Tkl - NXKROMKRNLTKL - Teclad](https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL400_.jpg)](https://www.amazon.es/dp/B077J2HFD2/?tag=tolees-21)
 
 🔎:
 

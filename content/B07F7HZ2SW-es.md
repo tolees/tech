@@ -2,7 +2,7 @@
 layout: post
 title: 'Yamaha MusicCast 20 - Altavoz  Color Neg al 20.00 % de descuento'
 date: 2020-03-21 08:32:42
-image: 'https://m.media-amazon.com/images/I/41ehh5NdW+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ehh5NdW+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '194.55'
 
 Ahora mismo tienes [Yamaha MusicCast 20 - Altavoz  Color Negro](https://www.amazon.es/dp/B07F7HZ2SW/?tag=tolees-21) a 183.2 EUR (original: 229.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Yamaha MusicCast 20 - Altavoz  Color Neg](https://m.media-amazon.com/images/I/41ehh5NdW+L._SL200_.jpg)](https://www.amazon.es/dp/B07F7HZ2SW/?tag=tolees-21)
+[![Yamaha MusicCast 20 - Altavoz  Color Neg](https://m.media-amazon.com/images/I/41ehh5NdW+L._SL400_.jpg)](https://www.amazon.es/dp/B07F7HZ2SW/?tag=tolees-21)
 
 🔎:
 

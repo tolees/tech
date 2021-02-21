@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony Remote Commander  RMF-TX310E   RMF- con un 20.89 % de descuento'
 date: 2020-09-16 11:19:35
-image: 'https://m.media-amazon.com/images/I/416y5f84+wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416y5f84+wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 En este momento está [Sony Remote Commander  RMF-TX310E   RMF-TX310E](https://www.amazon.es/dp/B07L1VQ53X/?tag=tolees-21) a 25.0 EUR (original: 31.6 EUR) (20.89 %  de descuento) en el siguiente enlace!
 
-[![Sony Remote Commander  RMF-TX310E   RMF-](https://m.media-amazon.com/images/I/416y5f84+wL._SL200_.jpg)](https://www.amazon.es/dp/B07L1VQ53X/?tag=tolees-21)
+[![Sony Remote Commander  RMF-TX310E   RMF-](https://m.media-amazon.com/images/I/416y5f84+wL._SL400_.jpg)](https://www.amazon.es/dp/B07L1VQ53X/?tag=tolees-21)
 
 🔎:
 

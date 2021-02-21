@@ -2,7 +2,7 @@
 layout: post
 title: 'UGREEN HUB USB C  6 En 1 Adaptador USB C al 20.01 % de descuento'
 date: 2020-10-03 08:27:05
-image: 'https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Ahora mismo tienes [UGREEN HUB USB C  6 En 1 Adaptador USB C a 4K HDMI  2 Puertos USB 3.0  Lector Tarjeta SD TF  100W Power Delivery  Concentrador USB C para Macbook Pro 2020  Macbook Air 2020  Dell XPS 17 15 13](https://www.amazon.es/dp/B0834NZ7XH/?tag=tolees-21) a 31.99 EUR (original: 39.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![UGREEN HUB USB C  6 En 1 Adaptador USB C](https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL200_.jpg)](https://www.amazon.es/dp/B0834NZ7XH/?tag=tolees-21)
+[![UGREEN HUB USB C  6 En 1 Adaptador USB C](https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL400_.jpg)](https://www.amazon.es/dp/B0834NZ7XH/?tag=tolees-21)
 
 🔎:
 

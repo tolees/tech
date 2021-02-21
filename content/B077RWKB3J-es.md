@@ -2,7 +2,7 @@
 layout: post
 title: 'Sennheiser GSP 600 - Auriculares Cerrado con un 17.44 % de descuento'
 date: 2020-05-23 22:27:32
-image: 'https://m.media-amazon.com/images/I/413yYP1lbvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413yYP1lbvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '192.9375'
 
 En este momento está [Sennheiser GSP 600 - Auriculares Cerrados para Juegos Profesionales  Color Negro y Rojo](https://www.amazon.es/dp/B077RWKB3J/?tag=tolees-21) a 205.57 EUR (original: 249.0 EUR) (17.44 %  de descuento) en el siguiente enlace!
 
-[![Sennheiser GSP 600 - Auriculares Cerrado](https://m.media-amazon.com/images/I/413yYP1lbvL._SL200_.jpg)](https://www.amazon.es/dp/B077RWKB3J/?tag=tolees-21)
+[![Sennheiser GSP 600 - Auriculares Cerrado](https://m.media-amazon.com/images/I/413yYP1lbvL._SL400_.jpg)](https://www.amazon.es/dp/B077RWKB3J/?tag=tolees-21)
 
 🔎:
 

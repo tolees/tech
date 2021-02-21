@@ -2,7 +2,7 @@
 layout: post
 title: 'Panasonic AAA 750mAh NiMH 4-BL Batería/P al 16.35 % de descuento'
 date: 2020-03-16 16:09:48
-image: 'https://m.media-amazon.com/images/I/518dIwzvjRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518dIwzvjRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 Está [Panasonic AAA 750mAh NiMH 4-BL Batería/Pila recargable  750 mAh  1.2 V  44.5 mm  10.5 mm  13 g   Color blanco](https://www.amazon.es/dp/B004WBL86S/?tag=tolees-21) con 16.35 de descuento por 10.95 EUR (original: 13.09 EUR) en el siguiente enlace!
 
-[![Panasonic AAA 750mAh NiMH 4-BL Batería/P](https://m.media-amazon.com/images/I/518dIwzvjRL._SL200_.jpg)](https://www.amazon.es/dp/B004WBL86S/?tag=tolees-21)
+[![Panasonic AAA 750mAh NiMH 4-BL Batería/P](https://m.media-amazon.com/images/I/518dIwzvjRL._SL400_.jpg)](https://www.amazon.es/dp/B004WBL86S/?tag=tolees-21)
 
 ℹ️:
 

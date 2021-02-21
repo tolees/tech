@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.80 % en Apple iPod touch  de 32GB  - Oro'
 date: 2020-03-06 15:48:43
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '191.37'
 
 Tienes [Apple iPod touch  de 32GB  - Oro](https://www.amazon.es/dp/B011U55EZE/?tag=tolees-21) con un 17.80 % de descuento con precio de oferta de 191.37 EUR (original: 232.81 EUR) en el siguiente enlace!
 
-[![Apple iPod touch  de 32GB  - Oro](None._SL200_)](https://www.amazon.es/dp/B011U55EZE/?tag=tolees-21)
+[![Apple iPod touch  de 32GB  - Oro](None._SL400_)](https://www.amazon.es/dp/B011U55EZE/?tag=tolees-21)
 
 ℹ️:
 

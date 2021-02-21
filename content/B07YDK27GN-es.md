@@ -2,7 +2,7 @@
 layout: post
 title: 'PC Teclado Mecánico para Juegos  LED Mez al 18.00 % de descuento'
 date: 2020-08-10 02:10:13
-image: 'https://m.media-amazon.com/images/I/41-2fiPIY7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-2fiPIY7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Ahora mismo tienes [PC Teclado Mecánico para Juegos  LED Mezclado con Retroiluminación USB con Cable de 82 Teclas  Anti-Fantasma  Teclado Ergonómico de Computadora Jugar Juegos y Tipeos Switches Azul  Blanco ](https://www.amazon.es/dp/B07YDK27GN/?tag=tolees-21) a 40.99 EUR (original: 49.99 EUR) (18.00 %  de descuento) en el siguiente enlace!
 
-[![PC Teclado Mecánico para Juegos  LED Mez](https://m.media-amazon.com/images/I/41-2fiPIY7L._SL200_.jpg)](https://www.amazon.es/dp/B07YDK27GN/?tag=tolees-21)
+[![PC Teclado Mecánico para Juegos  LED Mez](https://m.media-amazon.com/images/I/41-2fiPIY7L._SL400_.jpg)](https://www.amazon.es/dp/B07YDK27GN/?tag=tolees-21)
 
 🔎:
 

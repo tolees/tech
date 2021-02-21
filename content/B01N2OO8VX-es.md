@@ -2,7 +2,7 @@
 layout: post
 title: 'Brother MFCJ5730DW - Impresora multifunc con un 17.74 % de descuento'
 date: 2020-03-06 09:00:07
-image: 'https://m.media-amazon.com/images/I/41YBFS0WuiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YBFS0WuiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '200.685'
 
 En este momento está [Brother MFCJ5730DW - Impresora multifunción tinta color](https://www.amazon.es/dp/B01N2OO8VX/?tag=tolees-21) a 205.65 EUR (original: 249.99 EUR) (17.74 %  de descuento) en el siguiente enlace!
 
-[![Brother MFCJ5730DW - Impresora multifunc](https://m.media-amazon.com/images/I/41YBFS0WuiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N2OO8VX/?tag=tolees-21)
+[![Brother MFCJ5730DW - Impresora multifunc](https://m.media-amazon.com/images/I/41YBFS0WuiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N2OO8VX/?tag=tolees-21)
 
 🔎:
 

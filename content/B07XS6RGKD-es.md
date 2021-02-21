@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Q24i-10 23.8 " FHD IPS FreeSync G al 21.57 % de descuento'
 date: 2020-10-11 06:29:30
-image: 'https://m.media-amazon.com/images/I/51BhsCyyBgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BhsCyyBgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '148.63388888888886'
 
 Está [Lenovo Q24i-10 23.8 " FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms HDMI+VGA 3 lados sin bordes con altavoces  2 x 3W  - Negro / peana gris metalizada](https://www.amazon.es/dp/B07XS6RGKD/?tag=tolees-21) con 21.57 de descuento por 149.0 EUR (original: 189.99 EUR) en el siguiente enlace!
 
-[![Lenovo Q24i-10 23.8 " FHD IPS FreeSync G](https://m.media-amazon.com/images/I/51BhsCyyBgL._SL200_.jpg)](https://www.amazon.es/dp/B07XS6RGKD/?tag=tolees-21)
+[![Lenovo Q24i-10 23.8 " FHD IPS FreeSync G](https://m.media-amazon.com/images/I/51BhsCyyBgL._SL400_.jpg)](https://www.amazon.es/dp/B07XS6RGKD/?tag=tolees-21)
 
 ℹ️:
 

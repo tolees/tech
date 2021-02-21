@@ -2,7 +2,7 @@
 layout: post
 title: 'HOTLIFE - Ratón para videojuegos  6400 D con un 15.08 % de descuento'
 date: 2020-10-07 16:56:24
-image: 'https://m.media-amazon.com/images/I/41AnhYdpUiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AnhYdpUiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.835'
 
 En este momento está [HOTLIFE - Ratón para videojuegos  6400 DPI  7 botones programables con iluminación RGB  sensor óptico USB  cable USB  para gaming  color negro ](https://www.amazon.es/dp/B08GFWCWFS/?tag=tolees-21) a 22.87 EUR (original: 26.93 EUR) (15.08 %  de descuento) en el siguiente enlace!
 
-[![HOTLIFE - Ratón para videojuegos  6400 D](https://m.media-amazon.com/images/I/41AnhYdpUiL._SL200_.jpg)](https://www.amazon.es/dp/B08GFWCWFS/?tag=tolees-21)
+[![HOTLIFE - Ratón para videojuegos  6400 D](https://m.media-amazon.com/images/I/41AnhYdpUiL._SL400_.jpg)](https://www.amazon.es/dp/B08GFWCWFS/?tag=tolees-21)
 
 🔎:
 

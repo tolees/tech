@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Yoga 530-14IKB - Portátil Táctil  al 17.78 % de descuento'
 date: 2020-09-27 12:32:27
-image: 'https://m.media-amazon.com/images/I/31QGbNBFJDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QGbNBFJDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '738.3523076923077'
 
 Ahora mismo tienes [Lenovo Yoga 530-14IKB - Portátil Táctil Convertible 14" FullHD  Intel Core i5-8250U  8GB RAM  256GB SSD  Windows 10  Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B07NJMQNVQ/?tag=tolees-21) a 739.99 EUR (original: 899.99 EUR) (17.78 %  de descuento) en el siguiente enlace!
 
-[![Lenovo Yoga 530-14IKB - Portátil Táctil ](https://m.media-amazon.com/images/I/31QGbNBFJDL._SL200_.jpg)](https://www.amazon.es/dp/B07NJMQNVQ/?tag=tolees-21)
+[![Lenovo Yoga 530-14IKB - Portátil Táctil ](https://m.media-amazon.com/images/I/31QGbNBFJDL._SL400_.jpg)](https://www.amazon.es/dp/B07NJMQNVQ/?tag=tolees-21)
 
 🔎:
 

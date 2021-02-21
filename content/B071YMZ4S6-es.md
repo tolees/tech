@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Ventilador USB  COO Mini USB Ventil al 21.44 % de descuento'
 date: 2020-08-23 03:32:50
-image: 'https://m.media-amazon.com/images/I/413hrjY-XcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413hrjY-XcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Está [Mini Ventilador USB  COO Mini USB Ventilador de Mesa Recargable con Luz de Flash  Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc  Blanco ](https://www.amazon.es/dp/B071YMZ4S6/?tag=tolees-21) con 21.44 de descuento por 10.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Mini Ventilador USB  COO Mini USB Ventil](https://m.media-amazon.com/images/I/413hrjY-XcL._SL200_.jpg)](https://www.amazon.es/dp/B071YMZ4S6/?tag=tolees-21)
+[![Mini Ventilador USB  COO Mini USB Ventil](https://m.media-amazon.com/images/I/413hrjY-XcL._SL400_.jpg)](https://www.amazon.es/dp/B071YMZ4S6/?tag=tolees-21)
 
 ℹ️:
 

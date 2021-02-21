@@ -2,7 +2,7 @@
 layout: post
 title: 'Otterbox Symmetry - Funda para Apple iPh al 17.32 % de descuento'
 date: 2020-07-16 17:43:04
-image: 'https://m.media-amazon.com/images/I/516140RjQQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516140RjQQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.87'
 
 Ahora mismo tienes [Otterbox Symmetry - Funda para Apple iPhone XR  diseño RAD Mickey](https://www.amazon.es/dp/B00Z7T5W2U/?tag=tolees-21) a 21.57 EUR (original: 26.09 EUR) (17.32 %  de descuento) en el siguiente enlace!
 
-[![Otterbox Symmetry - Funda para Apple iPh](https://m.media-amazon.com/images/I/516140RjQQL._SL200_.jpg)](https://www.amazon.es/dp/B00Z7T5W2U/?tag=tolees-21)
+[![Otterbox Symmetry - Funda para Apple iPh](https://m.media-amazon.com/images/I/516140RjQQL._SL400_.jpg)](https://www.amazon.es/dp/B00Z7T5W2U/?tag=tolees-21)
 
 🔎:
 

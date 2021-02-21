@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.84 % en Sony CMT-X3CD - Sistema Hi-Fi Compacto d'
 date: 2020-05-04 12:18:24
-image: 'https://m.media-amazon.com/images/I/51Fi3xxizLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fi3xxizLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '151.302'
 
 Tienes [Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20W con Bluetooth y NFC  Blanco](https://www.amazon.es/dp/B00MLXOOIS/?tag=tolees-21) con un 15.84 % de descuento con precio de oferta de 159.9 EUR (original: 190.0 EUR) en el siguiente enlace!
 
-[![Sony CMT-X3CD - Sistema Hi-Fi Compacto d](https://m.media-amazon.com/images/I/51Fi3xxizLL._SL200_.jpg)](https://www.amazon.es/dp/B00MLXOOIS/?tag=tolees-21)
+[![Sony CMT-X3CD - Sistema Hi-Fi Compacto d](https://m.media-amazon.com/images/I/51Fi3xxizLL._SL400_.jpg)](https://www.amazon.es/dp/B00MLXOOIS/?tag=tolees-21)
 
 ℹ️:
 

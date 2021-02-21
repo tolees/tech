@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial CT51264BF160BJ Memoria RAM de 4  al 24.51 % de descuento'
 date: 2020-03-22 20:46:41
-image: 'https://m.media-amazon.com/images/I/51GpVE2caUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GpVE2caUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.7'
 
 Está [Crucial CT51264BF160BJ Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  Single Rank  SODIMM  204-Pin ](https://www.amazon.es/dp/B009RBN6I6/?tag=tolees-21) con 24.51 de descuento por 21.0 EUR (original: 27.82 EUR) en el siguiente enlace!
 
-[![Crucial CT51264BF160BJ Memoria RAM de 4 ](https://m.media-amazon.com/images/I/51GpVE2caUL._SL200_.jpg)](https://www.amazon.es/dp/B009RBN6I6/?tag=tolees-21)
+[![Crucial CT51264BF160BJ Memoria RAM de 4 ](https://m.media-amazon.com/images/I/51GpVE2caUL._SL400_.jpg)](https://www.amazon.es/dp/B009RBN6I6/?tag=tolees-21)
 
 ℹ️:
 

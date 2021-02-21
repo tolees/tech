@@ -2,7 +2,7 @@
 layout: post
 title: 'Metronic 495421 - Adaptadores PLC con en al 20.84 % de descuento'
 date: 2020-05-25 10:41:09
-image: 'https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.99'
 
 Está [Metronic 495421 - Adaptadores PLC con enchufe extra  blanco](https://www.amazon.es/dp/B076BYKMT1/?tag=tolees-21) con 20.84 de descuento por 37.99 EUR (original: 47.99 EUR) en el siguiente enlace!
 
-[![Metronic 495421 - Adaptadores PLC con en](https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL200_.jpg)](https://www.amazon.es/dp/B076BYKMT1/?tag=tolees-21)
+[![Metronic 495421 - Adaptadores PLC con en](https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL400_.jpg)](https://www.amazon.es/dp/B076BYKMT1/?tag=tolees-21)
 
 ℹ️:
 

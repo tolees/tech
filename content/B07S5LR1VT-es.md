@@ -2,7 +2,7 @@
 layout: post
 title: 'ASUS ROG Strix G731GW-EV010T - Portátil  al 20.01 % de descuento'
 date: 2020-09-16 03:18:50
-image: 'https://m.media-amazon.com/images/I/41UqHcQvpcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UqHcQvpcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1710.4440000000002'
 
 Está [ASUS ROG Strix G731GW-EV010T - Portátil Gaming de 17.3" FullHD 144Hz  Intel Core i7-9750H  16GB RAM  512GB SSD  NVIDIA GeForce RTX2070  Windows 10 Home  Metal Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07S5LR1VT/?tag=tolees-21) con 20.01 de descuento por 1679.69 EUR (original: 2099.99 EUR) en el siguiente enlace!
 
-[![ASUS ROG Strix G731GW-EV010T - Portátil ](https://m.media-amazon.com/images/I/41UqHcQvpcL._SL200_.jpg)](https://www.amazon.es/dp/B07S5LR1VT/?tag=tolees-21)
+[![ASUS ROG Strix G731GW-EV010T - Portátil ](https://m.media-amazon.com/images/I/41UqHcQvpcL._SL400_.jpg)](https://www.amazon.es/dp/B07S5LR1VT/?tag=tolees-21)
 
 ℹ️:
 

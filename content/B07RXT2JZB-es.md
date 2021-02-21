@@ -2,7 +2,7 @@
 layout: post
 title: 'Garmin ETREX 32x GPS de Mano con Pantall al 22.04 % de descuento'
 date: 2020-03-12 11:34:05
-image: 'https://m.media-amazon.com/images/I/41j39g+p0tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j39g+p0tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '231.33499999999998'
 
 Ahora mismo tienes [Garmin ETREX 32x GPS de Mano con Pantalla Color de 2.2” y Mapa TopoActive preinstalado](https://www.amazon.es/dp/B07RXT2JZB/?tag=tolees-21) a 194.9 EUR (original: 249.99 EUR) (22.04 %  de descuento) en el siguiente enlace!
 
-[![Garmin ETREX 32x GPS de Mano con Pantall](https://m.media-amazon.com/images/I/41j39g+p0tL._SL200_.jpg)](https://www.amazon.es/dp/B07RXT2JZB/?tag=tolees-21)
+[![Garmin ETREX 32x GPS de Mano con Pantall](https://m.media-amazon.com/images/I/41j39g+p0tL._SL400_.jpg)](https://www.amazon.es/dp/B07RXT2JZB/?tag=tolees-21)
 
 🔎:
 

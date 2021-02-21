@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer - Auriculares Gamer inalámbricos al 21.23 % de descuento'
 date: 2020-02-09 20:03:05
-image: 'https://m.media-amazon.com/images/I/51iqEJ-dJlL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iqEJ-dJlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '127.09666666666666'
 
 Ahora mismo tienes [Razer - Auriculares Gamer inalámbricos](https://www.amazon.es/dp/B075YDD1P2/?tag=tolees-21) a 133.9 EUR (original: 169.99 EUR) (21.23 %  de descuento) en el siguiente enlace!
 
-[![Razer - Auriculares Gamer inalámbricos](https://m.media-amazon.com/images/I/51iqEJ-dJlL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075YDD1P2/?tag=tolees-21)
+[![Razer - Auriculares Gamer inalámbricos](https://m.media-amazon.com/images/I/51iqEJ-dJlL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075YDD1P2/?tag=tolees-21)
 
 🔎:
 

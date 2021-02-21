@@ -2,7 +2,7 @@
 layout: post
 title: 'Teléfono móvil con Tapa para Personas Ma al 17.82 % de rebaja'
 date: 2020-04-22 11:48:27
-image: 'https://m.media-amazon.com/images/I/31td-FwPaWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31td-FwPaWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.89999999999999'
 
 Tienes [Teléfono móvil con Tapa para Personas Mayores  Teclas Grandes  Isheep SG220 gsm  Pantalla de 2 4 Pulgadas  tecla de Emergencia  cámara  Negro](https://www.amazon.es/dp/B078SP9NZM/?tag=tolees-21) con precio final de  36.9 EUR (original: 44.9 EUR) (17.82 %  de rebaja) aqui!
 
-[![Teléfono móvil con Tapa para Personas Ma](https://m.media-amazon.com/images/I/31td-FwPaWL._SL200_.jpg)](https://www.amazon.es/dp/B078SP9NZM/?tag=tolees-21)
+[![Teléfono móvil con Tapa para Personas Ma](https://m.media-amazon.com/images/I/31td-FwPaWL._SL400_.jpg)](https://www.amazon.es/dp/B078SP9NZM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Smartwatch Pantalla táctil  al 17.65 % de descuento'
 date: 2020-06-04 18:49:57
-image: 'https://m.media-amazon.com/images/I/41fHM8MzTcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fHM8MzTcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '269.6'
 
 Está [Michael Kors Smartwatch Pantalla táctil para Mujer de Connected con Correa en Acero Inoxidable MKT5066](https://www.amazon.es/dp/B07QH3NXD1/?tag=tolees-21) con 17.65 de descuento por 229.0 EUR (original: 278.07 EUR) en el siguiente enlace!
 
-[![Michael Kors Smartwatch Pantalla táctil ](https://m.media-amazon.com/images/I/41fHM8MzTcL._SL200_.jpg)](https://www.amazon.es/dp/B07QH3NXD1/?tag=tolees-21)
+[![Michael Kors Smartwatch Pantalla táctil ](https://m.media-amazon.com/images/I/41fHM8MzTcL._SL400_.jpg)](https://www.amazon.es/dp/B07QH3NXD1/?tag=tolees-21)
 
 ℹ️:
 

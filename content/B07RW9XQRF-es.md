@@ -2,7 +2,7 @@
 layout: post
 title: 'Hisense H32B5600  Auriculares  1  Negro al 16.17 % de rebaja'
 date: 2020-04-19 17:33:52
-image: 'https://m.media-amazon.com/images/I/51EQU-FP2RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EQU-FP2RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '180.18'
 
 Tienes [Hisense H32B5600  Auriculares  1  Negro](https://www.amazon.es/dp/B07RW9XQRF/?tag=tolees-21) con precio final de  183.58 EUR (original: 219.0 EUR) (16.17 %  de rebaja) aqui!
 
-[![Hisense H32B5600  Auriculares  1  Negro](https://m.media-amazon.com/images/I/51EQU-FP2RL._SL200_.jpg)](https://www.amazon.es/dp/B07RW9XQRF/?tag=tolees-21)
+[![Hisense H32B5600  Auriculares  1  Negro](https://m.media-amazon.com/images/I/51EQU-FP2RL._SL400_.jpg)](https://www.amazon.es/dp/B07RW9XQRF/?tag=tolees-21)
 
 🔎:
 

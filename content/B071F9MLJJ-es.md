@@ -2,7 +2,7 @@
 layout: post
 title: 'Western Digital WD10SPZX - Disco Duro In al 21.08 % de rebaja'
 date: 2020-08-21 07:17:48
-image: 'https://m.media-amazon.com/images/I/41NnF-GoItL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NnF-GoItL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.696666666666665'
 
 Tienes [Western Digital WD10SPZX - Disco Duro Interno HDD  1TB  5400  SATA  128 MB  Color Azul](https://www.amazon.es/dp/B071F9MLJJ/?tag=tolees-21) con precio final de  41.04 EUR (original: 52.0 EUR) (21.08 %  de rebaja) aqui!
 
-[![Western Digital WD10SPZX - Disco Duro In](https://m.media-amazon.com/images/I/41NnF-GoItL._SL200_.jpg)](https://www.amazon.es/dp/B071F9MLJJ/?tag=tolees-21)
+[![Western Digital WD10SPZX - Disco Duro In](https://m.media-amazon.com/images/I/41NnF-GoItL._SL400_.jpg)](https://www.amazon.es/dp/B071F9MLJJ/?tag=tolees-21)
 
 🔎:
 

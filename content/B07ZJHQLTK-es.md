@@ -2,7 +2,7 @@
 layout: post
 title: 'AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio al 24.02 % de descuento'
 date: 2020-05-28 09:05:50
-image: 'https://m.media-amazon.com/images/I/51Wo8R466YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Wo8R466YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.2925'
 
 Ahora mismo tienes [AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio Templado  [Reforzar la versión con Cuatro Esquinas] Cristal Silicona Ultra Suave Flexible TPU Gel Carcasa Protección Caso para Xiaomi Mi A3 - Transparente](https://www.amazon.es/dp/B07ZJHQLTK/?tag=tolees-21) a 7.59 EUR (original: 9.99 EUR) (24.02 %  de descuento) en el siguiente enlace!
 
-[![AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio](https://m.media-amazon.com/images/I/51Wo8R466YL._SL200_.jpg)](https://www.amazon.es/dp/B07ZJHQLTK/?tag=tolees-21)
+[![AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio](https://m.media-amazon.com/images/I/51Wo8R466YL._SL400_.jpg)](https://www.amazon.es/dp/B07ZJHQLTK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony XS-FB1330 - Altavoces coaxiales de  al 19.66 % de rebaja'
 date: 2020-01-28 12:32:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQHnjgIoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQHnjgIoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.17'
 
 Tienes [Sony XS-FB1330 - Altavoces coaxiales de 3 vías  240W  13 cm   Negro](https://www.amazon.es/dp/B00RXIGI9Y/?tag=tolees-21) con precio final de  40.17 EUR (original: 50 EUR) (19.66 %  de rebaja) aqui!
 
-[![Sony XS-FB1330 - Altavoces coaxiales de ](https://images-eu.ssl-images-amazon.com/images/I/41PQHnjgIoL._SL200_.jpg)](https://www.amazon.es/dp/B00RXIGI9Y/?tag=tolees-21)
+[![Sony XS-FB1330 - Altavoces coaxiales de ](https://images-eu.ssl-images-amazon.com/images/I/41PQHnjgIoL._SL400_.jpg)](https://www.amazon.es/dp/B00RXIGI9Y/?tag=tolees-21)
 
 🔎:
 

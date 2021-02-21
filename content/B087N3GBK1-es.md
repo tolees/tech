@@ -2,7 +2,7 @@
 layout: post
 title: 'Cocoda Soporte Tablet  Portátil Soporte  al 15.02 % de descuento'
 date: 2020-09-13 16:45:16
-image: 'https://m.media-amazon.com/images/I/41k91dBbjhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k91dBbjhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.49'
 
 Está [Cocoda Soporte Tablet  Portátil Soporte iPad con Ajustable Altura y Angulo  Soporte Movil Mesa Compatible con iPhone  Samsung  Huawei  iPad Mini  Tablet  Videollamada  Escritorio](https://www.amazon.es/dp/B087N3GBK1/?tag=tolees-21) con 15.02 de descuento por 8.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Cocoda Soporte Tablet  Portátil Soporte ](https://m.media-amazon.com/images/I/41k91dBbjhL._SL200_.jpg)](https://www.amazon.es/dp/B087N3GBK1/?tag=tolees-21)
+[![Cocoda Soporte Tablet  Portátil Soporte ](https://m.media-amazon.com/images/I/41k91dBbjhL._SL400_.jpg)](https://www.amazon.es/dp/B087N3GBK1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HP 14s-dq0003ns - Ordenador portátil 14" al 17.36 % de descuento'
 date: 2020-05-13 13:34:43
-image: 'https://m.media-amazon.com/images/I/41P6A+3iHSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P6A+3iHSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '413.21'
 
 Ahora mismo tienes [HP 14s-dq0003ns - Ordenador portátil 14" HD  Intel Core i3-8130U  8 GB RAM  512 GB SSD  Intel UHD Graphics 620  Windows 10 Home  Blanco - Teclado QWERTY Español](https://www.amazon.es/dp/B086YBZF2B/?tag=tolees-21) a 413.21 EUR (original: 499.99 EUR) (17.36 %  de descuento) en el siguiente enlace!
 
-[![HP 14s-dq0003ns - Ordenador portátil 14"](https://m.media-amazon.com/images/I/41P6A+3iHSL._SL200_.jpg)](https://www.amazon.es/dp/B086YBZF2B/?tag=tolees-21)
+[![HP 14s-dq0003ns - Ordenador portátil 14"](https://m.media-amazon.com/images/I/41P6A+3iHSL._SL400_.jpg)](https://www.amazon.es/dp/B086YBZF2B/?tag=tolees-21)
 
 🔎:
 

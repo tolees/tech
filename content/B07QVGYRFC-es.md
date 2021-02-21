@@ -2,7 +2,7 @@
 layout: post
 title: 'SatIntegral S-1412 HD Rocket  Receptor s al 20.00 % de descuento'
 date: 2020-05-18 13:51:49
-image: 'https://m.media-amazon.com/images/I/41M9qZii3+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M9qZii3+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.0'
 
 Ahora mismo tienes [SatIntegral S-1412 HD Rocket  Receptor satélite Full HD  H.265 HEVC ](https://www.amazon.es/dp/B07QVGYRFC/?tag=tolees-21) a 80.0 EUR (original: 100.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![SatIntegral S-1412 HD Rocket  Receptor s](https://m.media-amazon.com/images/I/41M9qZii3+L._SL200_.jpg)](https://www.amazon.es/dp/B07QVGYRFC/?tag=tolees-21)
+[![SatIntegral S-1412 HD Rocket  Receptor s](https://m.media-amazon.com/images/I/41M9qZii3+L._SL400_.jpg)](https://www.amazon.es/dp/B07QVGYRFC/?tag=tolees-21)
 
 🔎:
 

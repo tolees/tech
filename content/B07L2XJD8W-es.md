@@ -2,7 +2,7 @@
 layout: post
 title: 'TOPESEL 32GB Memoria USB 3.0 Tipo C Dual con un 15.03 % de descuento'
 date: 2020-09-16 16:42:34
-image: 'https://m.media-amazon.com/images/I/41wBYzgGShL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wBYzgGShL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.18'
 
 En este momento está [TOPESEL 32GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive USB C Pendrives Llave Portátiles para Samsung Galaxy S8  S8 Plus  Note 8  LG G6  V30  Google Pixel XL  Negro](https://www.amazon.es/dp/B07L2XJD8W/?tag=tolees-21) a 10.18 EUR (original: 11.98 EUR) (15.03 %  de descuento) en el siguiente enlace!
 
-[![TOPESEL 32GB Memoria USB 3.0 Tipo C Dual](https://m.media-amazon.com/images/I/41wBYzgGShL._SL200_.jpg)](https://www.amazon.es/dp/B07L2XJD8W/?tag=tolees-21)
+[![TOPESEL 32GB Memoria USB 3.0 Tipo C Dual](https://m.media-amazon.com/images/I/41wBYzgGShL._SL400_.jpg)](https://www.amazon.es/dp/B07L2XJD8W/?tag=tolees-21)
 
 🔎:
 

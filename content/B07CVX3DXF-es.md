@@ -2,7 +2,7 @@
 layout: post
 title: 'VicTsing 1080P HDMI a VGA Video Adaptado con un 17.02 % de descuento'
 date: 2020-08-21 20:15:29
-image: 'https://m.media-amazon.com/images/I/415yjuY2ntL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415yjuY2ntL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.29'
 
 En este momento está [VicTsing 1080P HDMI a VGA Video Adaptador de Cable Conversor para PC Portátil HDTV Proyectores  Raspberry Pi y Otros Dispositivos de Entrada HDMI  Color Negro](https://www.amazon.es/dp/B07CVX3DXF/?tag=tolees-21) a 8.29 EUR (original: 9.99 EUR) (17.02 %  de descuento) en el siguiente enlace!
 
-[![VicTsing 1080P HDMI a VGA Video Adaptado](https://m.media-amazon.com/images/I/415yjuY2ntL._SL200_.jpg)](https://www.amazon.es/dp/B07CVX3DXF/?tag=tolees-21)
+[![VicTsing 1080P HDMI a VGA Video Adaptado](https://m.media-amazon.com/images/I/415yjuY2ntL._SL400_.jpg)](https://www.amazon.es/dp/B07CVX3DXF/?tag=tolees-21)
 
 🔎:
 

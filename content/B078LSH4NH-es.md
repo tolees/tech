@@ -2,7 +2,7 @@
 layout: post
 title: 'Walkie Talkie Profesional  TACKLIFE-MTR0 al 19.01 % de rebaja'
 date: 2020-06-04 20:00:59
-image: 'https://m.media-amazon.com/images/I/51ivMhB7A2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ivMhB7A2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.86'
 
 Tienes [Walkie Talkie Profesional  TACKLIFE-MTR01 Talkie walkie Recargable 3-4 Km con 16 Canales  PMR 446 MHz  2 Auriculares y Cargador USB](https://www.amazon.es/dp/B078LSH4NH/?tag=tolees-21) con precio final de  28.34 EUR (original: 34.99 EUR) (19.01 %  de rebaja) aqui!
 
-[![Walkie Talkie Profesional  TACKLIFE-MTR0](https://m.media-amazon.com/images/I/51ivMhB7A2L._SL200_.jpg)](https://www.amazon.es/dp/B078LSH4NH/?tag=tolees-21)
+[![Walkie Talkie Profesional  TACKLIFE-MTR0](https://m.media-amazon.com/images/I/51ivMhB7A2L._SL400_.jpg)](https://www.amazon.es/dp/B078LSH4NH/?tag=tolees-21)
 
 🔎:
 

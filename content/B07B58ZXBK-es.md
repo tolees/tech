@@ -2,7 +2,7 @@
 layout: post
 title: 'Beurer IPO61 BT Pulsioxímetro de dedo co con un 23.53 % de descuento'
 date: 2020-03-25 16:43:43
-image: 'https://m.media-amazon.com/images/I/41+WM0sdgNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+WM0sdgNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.682'
 
 En este momento está [Beurer IPO61 BT Pulsioxímetro de dedo con Bluetooth  medidor de saturación de oxigeno en la sangre y el pulso  6 vistas  app Health Manager  color blanco y plata  78 gramos](https://www.amazon.es/dp/B07B58ZXBK/?tag=tolees-21) a 53.45 EUR (original: 69.9 EUR) (23.53 %  de descuento) en el siguiente enlace!
 
-[![Beurer IPO61 BT Pulsioxímetro de dedo co](https://m.media-amazon.com/images/I/41+WM0sdgNL._SL200_.jpg)](https://www.amazon.es/dp/B07B58ZXBK/?tag=tolees-21)
+[![Beurer IPO61 BT Pulsioxímetro de dedo co](https://m.media-amazon.com/images/I/41+WM0sdgNL._SL400_.jpg)](https://www.amazon.es/dp/B07B58ZXBK/?tag=tolees-21)
 
 🔎:
 

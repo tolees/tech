@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Cristal Compatible con Samsung Ga con un 18.21 % de descuento'
 date: 2020-05-10 18:36:08
-image: 'https://m.media-amazon.com/images/I/51ET6E4B6EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ET6E4B6EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 En este momento está [Oihxse Cristal Compatible con Samsung Galaxy A80/A90 Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores B8 ](https://www.amazon.es/dp/B087LSBB8P/?tag=tolees-21) a 8.98 EUR (original: 10.98 EUR) (18.21 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Cristal Compatible con Samsung Ga](https://m.media-amazon.com/images/I/51ET6E4B6EL._SL200_.jpg)](https://www.amazon.es/dp/B087LSBB8P/?tag=tolees-21)
+[![Oihxse Cristal Compatible con Samsung Ga](https://m.media-amazon.com/images/I/51ET6E4B6EL._SL400_.jpg)](https://www.amazon.es/dp/B087LSBB8P/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'USB 2.0 Switch 4 Puertos Conmutador KVM  al 23.09 % de rebaja'
 date: 2020-08-05 17:19:12
-image: 'https://m.media-amazon.com/images/I/31UYFVgEO8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UYFVgEO8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [USB 2.0 Switch 4 Puertos Conmutador KVM 2 Entradas y 4 Salidas  Ladron USB KVM con 2 Cable USB para Compartir 4 Dispositivos de Teclado  Ratón  Memorias USB  Disco Duro  Impresoras  Escáneres  etc](https://www.amazon.es/dp/B08CZPVCF4/?tag=tolees-21) con precio final de  19.99 EUR (original: 25.99 EUR) (23.09 %  de rebaja) aqui!
 
-[![USB 2.0 Switch 4 Puertos Conmutador KVM ](https://m.media-amazon.com/images/I/31UYFVgEO8L._SL200_.jpg)](https://www.amazon.es/dp/B08CZPVCF4/?tag=tolees-21)
+[![USB 2.0 Switch 4 Puertos Conmutador KVM ](https://m.media-amazon.com/images/I/31UYFVgEO8L._SL400_.jpg)](https://www.amazon.es/dp/B08CZPVCF4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Shure MV5-LTG   micrófono de condensador al 16.13 % de rebaja'
 date: 2020-03-03 14:56:24
-image: 'https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.9'
 
 Tienes [Shure MV5-LTG   micrófono de condensador digital para USB y lightning  3 modos de DSP preprogramados  previo integrado  monitorización de latencia cero  jack de auriculares  captura de audio de alta calidad de 24bit / 48Khz.](https://www.amazon.es/dp/B010W6W9EQ/?tag=tolees-21) con precio final de  99.8 EUR (original: 119.0 EUR) (16.13 %  de rebaja) aqui!
 
-[![Shure MV5-LTG   micrófono de condensador](https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B010W6W9EQ/?tag=tolees-21)
+[![Shure MV5-LTG   micrófono de condensador](https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B010W6W9EQ/?tag=tolees-21)
 
 🔎:
 

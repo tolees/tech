@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.04 % en EDIFIER Studio R2000DB - Sistema de alta'
 date: 2020-01-10 21:20:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLn6IuWSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLn6IuWSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '239.8'
 
 Tienes [EDIFIER Studio R2000DB - Sistema de altavoces 2.0  120 Vatios  con Bluetooth  entrada digital y mando a distancia. Color negro.](https://www.amazon.es/dp/B00O3K7GP0/?tag=tolees-21) con un 20.04 % de descuento con precio de oferta de 239.8 EUR (original: 299.9 EUR) en el siguiente enlace!
 
-[![EDIFIER Studio R2000DB - Sistema de alta](https://images-eu.ssl-images-amazon.com/images/I/41%2BLn6IuWSL._SL200_.jpg)](https://www.amazon.es/dp/B00O3K7GP0/?tag=tolees-21)
+[![EDIFIER Studio R2000DB - Sistema de alta](https://images-eu.ssl-images-amazon.com/images/I/41%2BLn6IuWSL._SL400_.jpg)](https://www.amazon.es/dp/B00O3K7GP0/?tag=tolees-21)
 
 ℹ️:
 

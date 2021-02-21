@@ -2,7 +2,7 @@
 layout: post
 title: 'Sigma F4.5-6.3 DG OS HSM Sport - Teleobj al 15.86 % de descuento'
 date: 2020-04-22 12:12:04
-image: 'https://m.media-amazon.com/images/I/31tX5tPwzrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tX5tPwzrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1681.9'
 
 Ahora mismo tienes [Sigma F4.5-6.3 DG OS HSM Sport - Teleobjetivo Zoom 60-600 mm para Canon  Color Negro](https://www.amazon.es/dp/B07HNXBPCY/?tag=tolees-21) a 1681.9 EUR (original: 1999.0 EUR) (15.86 %  de descuento) en el siguiente enlace!
 
-[![Sigma F4.5-6.3 DG OS HSM Sport - Teleobj](https://m.media-amazon.com/images/I/31tX5tPwzrL._SL200_.jpg)](https://www.amazon.es/dp/B07HNXBPCY/?tag=tolees-21)
+[![Sigma F4.5-6.3 DG OS HSM Sport - Teleobj](https://m.media-amazon.com/images/I/31tX5tPwzrL._SL400_.jpg)](https://www.amazon.es/dp/B07HNXBPCY/?tag=tolees-21)
 
 🔎:
 

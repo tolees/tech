@@ -2,7 +2,7 @@
 layout: post
 title: 'Withings Pulse HR-Pulsera conectada de A con un 20.01 % de descuento'
 date: 2020-09-15 16:41:33
-image: 'https://m.media-amazon.com/images/I/31njSoNoHgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31njSoNoHgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.95333333333333'
 
 En este momento está [Withings Pulse HR-Pulsera conectada de Actividad  Unisex Adulto  Negro  18 mm](https://www.amazon.es/dp/B07QT7V58N/?tag=tolees-21) a 79.95 EUR (original: 99.95 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Withings Pulse HR-Pulsera conectada de A](https://m.media-amazon.com/images/I/31njSoNoHgL._SL200_.jpg)](https://www.amazon.es/dp/B07QT7V58N/?tag=tolees-21)
+[![Withings Pulse HR-Pulsera conectada de A](https://m.media-amazon.com/images/I/31njSoNoHgL._SL400_.jpg)](https://www.amazon.es/dp/B07QT7V58N/?tag=tolees-21)
 
 🔎:
 

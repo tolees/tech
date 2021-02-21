@@ -2,7 +2,7 @@
 layout: post
 title: 'Asus ROG Gladius II Origin - Ratón óptic con un 22.28 % de descuento'
 date: 2020-09-09 11:02:22
-image: 'https://m.media-amazon.com/images/I/21gd8EzxokL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21gd8EzxokL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.25999999999999'
 
 En este momento está [Asus ROG Gladius II Origin - Ratón óptico optimizado para juegos FPS con conectividad por cable e iluminación Aura Sync  sensor de 12000 ppp](https://www.amazon.es/dp/B079RYNX33/?tag=tolees-21) a 68.39 EUR (original: 87.99 EUR) (22.28 %  de descuento) en el siguiente enlace!
 
-[![Asus ROG Gladius II Origin - Ratón óptic](https://m.media-amazon.com/images/I/21gd8EzxokL._SL200_.jpg)](https://www.amazon.es/dp/B079RYNX33/?tag=tolees-21)
+[![Asus ROG Gladius II Origin - Ratón óptic](https://m.media-amazon.com/images/I/21gd8EzxokL._SL400_.jpg)](https://www.amazon.es/dp/B079RYNX33/?tag=tolees-21)
 
 🔎:
 

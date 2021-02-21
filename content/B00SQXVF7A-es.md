@@ -2,7 +2,7 @@
 layout: post
 title: 'HEXBUG Nano 480-3031 - Ratón Mini Robot  al 23.17 % de descuento'
 date: 2020-01-06 09:02:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BOZ30DTtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BOZ30DTtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.003333333333334'
 
 Ahora mismo tienes [HEXBUG Nano 480-3031 - Ratón Mini Robot Inteligente Juguete para Gatos Ratón robótico](https://www.amazon.es/dp/B00SQXVF7A/?tag=tolees-21) a 13.53 EUR (original: 17.61 EUR) (23.17 %  de descuento) en el siguiente enlace!
 
-[![HEXBUG Nano 480-3031 - Ratón Mini Robot ](https://images-eu.ssl-images-amazon.com/images/I/41%2BOZ30DTtL._SL200_.jpg)](https://www.amazon.es/dp/B00SQXVF7A/?tag=tolees-21)
+[![HEXBUG Nano 480-3031 - Ratón Mini Robot ](https://images-eu.ssl-images-amazon.com/images/I/41%2BOZ30DTtL._SL400_.jpg)](https://www.amazon.es/dp/B00SQXVF7A/?tag=tolees-21)
 
 🔎:
 

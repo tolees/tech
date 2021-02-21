@@ -2,7 +2,7 @@
 layout: post
 title: 'USB WiFi Adaptador  iAmotus WiFi Antenna al 21.44 % de descuento'
 date: 2020-06-26 09:40:32
-image: 'https://m.media-amazon.com/images/I/41E0n2NNXgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E0n2NNXgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Está [USB WiFi Adaptador  iAmotus WiFi Antenna 600Mbps Mini USB WiFi Dual Band 2.4G/5G  Receptor WiFi para PC Laptop Desktop WiFi Dongle Soporte Windows 10/8/7/Vista/XP MacOS Y Linux](https://www.amazon.es/dp/B01MS6RZ6V/?tag=tolees-21) con 21.44 de descuento por 10.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![USB WiFi Adaptador  iAmotus WiFi Antenna](https://m.media-amazon.com/images/I/41E0n2NNXgL._SL200_.jpg)](https://www.amazon.es/dp/B01MS6RZ6V/?tag=tolees-21)
+[![USB WiFi Adaptador  iAmotus WiFi Antenna](https://m.media-amazon.com/images/I/41E0n2NNXgL._SL400_.jpg)](https://www.amazon.es/dp/B01MS6RZ6V/?tag=tolees-21)
 
 ℹ️:
 

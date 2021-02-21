@@ -2,7 +2,7 @@
 layout: post
 title: 'Pioneer X-EM26-B - Sistema Micro  con Bl al 22.48 % de descuento'
 date: 2020-04-22 07:45:27
-image: 'https://m.media-amazon.com/images/I/31c9H2D-hpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31c9H2D-hpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.66666666666667'
 
 Está [Pioneer X-EM26-B - Sistema Micro  con Bluetooth Radio FM y USB Frontal ](https://www.amazon.es/dp/B01M1NMUGY/?tag=tolees-21) con 22.48 de descuento por 100.0 EUR (original: 129.0 EUR) en el siguiente enlace!
 
-[![Pioneer X-EM26-B - Sistema Micro  con Bl](https://m.media-amazon.com/images/I/31c9H2D-hpL._SL200_.jpg)](https://www.amazon.es/dp/B01M1NMUGY/?tag=tolees-21)
+[![Pioneer X-EM26-B - Sistema Micro  con Bl](https://m.media-amazon.com/images/I/31c9H2D-hpL._SL400_.jpg)](https://www.amazon.es/dp/B01M1NMUGY/?tag=tolees-21)
 
 ℹ️:
 

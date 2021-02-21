@@ -2,7 +2,7 @@
 layout: post
 title: 'Huawei Unlocked E3372h-320 LTE / 4G 150  al 18.39 % de rebaja'
 date: 2020-10-02 15:46:06
-image: 'https://m.media-amazon.com/images/I/31GHqojem6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GHqojem6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.756'
 
 Tienes [Huawei Unlocked E3372h-320 LTE / 4G 150 Mbps USB Dongle de banda ancha móvil  blanco ](https://www.amazon.es/dp/B013UURTL4/?tag=tolees-21) con precio final de  39.99 EUR (original: 49.0 EUR) (18.39 %  de rebaja) aqui!
 
-[![Huawei Unlocked E3372h-320 LTE / 4G 150 ](https://m.media-amazon.com/images/I/31GHqojem6L._SL200_.jpg)](https://www.amazon.es/dp/B013UURTL4/?tag=tolees-21)
+[![Huawei Unlocked E3372h-320 LTE / 4G 150 ](https://m.media-amazon.com/images/I/31GHqojem6L._SL400_.jpg)](https://www.amazon.es/dp/B013UURTL4/?tag=tolees-21)
 
 🔎:
 

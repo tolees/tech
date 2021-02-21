@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung EP-LN920CBEGWW  Cargador de coch al 17.04 % de descuento'
 date: 2020-02-11 17:32:16
-image: 'https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Ahora mismo tienes [Samsung EP-LN920CBEGWW  Cargador de coche Dual con Carga rápida y cable USB-C incluído  color negro](https://www.amazon.es/dp/B01M3XQ2KL/?tag=tolees-21) a 14.95 EUR (original: 18.02 EUR) (17.04 %  de descuento) en el siguiente enlace!
 
-[![Samsung EP-LN920CBEGWW  Cargador de coch](https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M3XQ2KL/?tag=tolees-21)
+[![Samsung EP-LN920CBEGWW  Cargador de coch](https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M3XQ2KL/?tag=tolees-21)
 
 🔎:
 

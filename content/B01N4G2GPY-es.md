@@ -2,7 +2,7 @@
 layout: post
 title: 'Thule TSA313 - Maletín Resistente para A al 17.73 % de descuento'
 date: 2020-07-20 05:14:12
-image: 'https://m.media-amazon.com/images/I/5185t4IiyiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5185t4IiyiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.55'
 
 Ahora mismo tienes [Thule TSA313 - Maletín Resistente para Apple MacBook de 13"/iPad  Color Negro](https://www.amazon.es/dp/B01N4G2GPY/?tag=tolees-21) a 57.55 EUR (original: 69.95 EUR) (17.73 %  de descuento) en el siguiente enlace!
 
-[![Thule TSA313 - Maletín Resistente para A](https://m.media-amazon.com/images/I/5185t4IiyiL._SL200_.jpg)](https://www.amazon.es/dp/B01N4G2GPY/?tag=tolees-21)
+[![Thule TSA313 - Maletín Resistente para A](https://m.media-amazon.com/images/I/5185t4IiyiL._SL400_.jpg)](https://www.amazon.es/dp/B01N4G2GPY/?tag=tolees-21)
 
 🔎:
 

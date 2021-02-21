@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.95 % en Brother MFCJ5330DW - Impresora multifunc'
 date: 2020-03-13 18:41:07
-image: 'https://m.media-amazon.com/images/I/41QHWhtOYJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QHWhtOYJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '136.48000000000002'
 
 Tienes [Brother MFCJ5330DW - Impresora multifunción de tinta profesional  conexión WiFi  con tecnología de inyección de tinta  Negro](https://www.amazon.es/dp/B01N48OJR5/?tag=tolees-21) con un 17.95 % de descuento con precio de oferta de 150.96 EUR (original: 183.99 EUR) en el siguiente enlace!
 
-[![Brother MFCJ5330DW - Impresora multifunc](https://m.media-amazon.com/images/I/41QHWhtOYJL._SL200_.jpg)](https://www.amazon.es/dp/B01N48OJR5/?tag=tolees-21)
+[![Brother MFCJ5330DW - Impresora multifunc](https://m.media-amazon.com/images/I/41QHWhtOYJL._SL400_.jpg)](https://www.amazon.es/dp/B01N48OJR5/?tag=tolees-21)
 
 ℹ️:
 

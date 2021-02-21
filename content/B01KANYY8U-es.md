@@ -2,7 +2,7 @@
 layout: post
 title: 'Rankie Cable DisplayPort a DVI  1080P  1 con un 20.40 % de descuento'
 date: 2020-09-28 00:00:03
-image: 'https://m.media-amazon.com/images/I/41ZioI8QPKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZioI8QPKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.338'
 
 En este momento está [Rankie Cable DisplayPort a DVI  1080P  1 8m  Negro](https://www.amazon.es/dp/B01KANYY8U/?tag=tolees-21) a 6.36 EUR (original: 7.99 EUR) (20.40 %  de descuento) en el siguiente enlace!
 
-[![Rankie Cable DisplayPort a DVI  1080P  1](https://m.media-amazon.com/images/I/41ZioI8QPKL._SL200_.jpg)](https://www.amazon.es/dp/B01KANYY8U/?tag=tolees-21)
+[![Rankie Cable DisplayPort a DVI  1080P  1](https://m.media-amazon.com/images/I/41ZioI8QPKL._SL400_.jpg)](https://www.amazon.es/dp/B01KANYY8U/?tag=tolees-21)
 
 🔎:
 

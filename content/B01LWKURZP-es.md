@@ -2,7 +2,7 @@
 layout: post
 title: 'Raking soporte tablet  soporte de trípod al 21.90 % de descuento'
 date: 2020-06-22 06:04:30
-image: 'https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.89'
 
 Está [Raking soporte tablet  soporte de trípode para tableta portátil plegable de altura ajustable giratorio para iPad/iPad Mini y otras tabletas de 7-10 Pulgadas  con bolsa de transporte y linterna](https://www.amazon.es/dp/B01LWKURZP/?tag=tolees-21) con 21.90 de descuento por 28.89 EUR (original: 36.99 EUR) en el siguiente enlace!
 
-[![Raking soporte tablet  soporte de trípod](https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL200_.jpg)](https://www.amazon.es/dp/B01LWKURZP/?tag=tolees-21)
+[![Raking soporte tablet  soporte de trípod](https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL400_.jpg)](https://www.amazon.es/dp/B01LWKURZP/?tag=tolees-21)
 
 ℹ️:
 

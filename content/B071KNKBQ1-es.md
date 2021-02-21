@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial CT8G4SFS8266 Memoria RAM de 8 GB al 19.97 % de descuento'
 date: 2020-08-21 10:41:08
-image: 'https://m.media-amazon.com/images/I/51I9PbkKSOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51I9PbkKSOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.422'
 
 Está [Crucial CT8G4SFS8266 Memoria RAM de 8 GB  DDR4  2666 MT/s  PC4-21300  Single Rank x 8  SODIMM  260-Pin ](https://www.amazon.es/dp/B071KNKBQ1/?tag=tolees-21) con 19.97 de descuento por 30.98 EUR (original: 38.71 EUR) en el siguiente enlace!
 
-[![Crucial CT8G4SFS8266 Memoria RAM de 8 GB](https://m.media-amazon.com/images/I/51I9PbkKSOL._SL200_.jpg)](https://www.amazon.es/dp/B071KNKBQ1/?tag=tolees-21)
+[![Crucial CT8G4SFS8266 Memoria RAM de 8 GB](https://m.media-amazon.com/images/I/51I9PbkKSOL._SL400_.jpg)](https://www.amazon.es/dp/B071KNKBQ1/?tag=tolees-21)
 
 ℹ️:
 

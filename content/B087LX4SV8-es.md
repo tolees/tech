@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Cristal Compatible con Huawei Mat con un 18.21 % de descuento'
 date: 2020-05-24 19:02:48
-image: 'https://m.media-amazon.com/images/I/41mbehcWXWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mbehcWXWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 En este momento está [Oihxse Cristal Compatible con Huawei Mate 10 Lite Funda Transparente TPU Silicona Estuche Airbag Esquinas Anti-Choque Anti Rasguños Diseño Rosa Flower Caso  Flores A6 ](https://www.amazon.es/dp/B087LX4SV8/?tag=tolees-21) a 8.98 EUR (original: 10.98 EUR) (18.21 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Cristal Compatible con Huawei Mat](https://m.media-amazon.com/images/I/41mbehcWXWL._SL200_.jpg)](https://www.amazon.es/dp/B087LX4SV8/?tag=tolees-21)
+[![Oihxse Cristal Compatible con Huawei Mat](https://m.media-amazon.com/images/I/41mbehcWXWL._SL400_.jpg)](https://www.amazon.es/dp/B087LX4SV8/?tag=tolees-21)
 
 🔎:
 

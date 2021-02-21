@@ -2,7 +2,7 @@
 layout: post
 title: 'HUAWEI Band 2 Pro Black  ERIS al 21.85 % de descuento'
 date: 2020-03-02 17:18:40
-image: 'https://m.media-amazon.com/images/I/31+Kls1LnCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+Kls1LnCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.465'
 
 Ahora mismo tienes [HUAWEI Band 2 Pro Black  ERIS](https://www.amazon.es/dp/B07B9S2DHP/?tag=tolees-21) a 23.04 EUR (original: 29.48 EUR) (21.85 %  de descuento) en el siguiente enlace!
 
-[![HUAWEI Band 2 Pro Black  ERIS](https://m.media-amazon.com/images/I/31+Kls1LnCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B9S2DHP/?tag=tolees-21)
+[![HUAWEI Band 2 Pro Black  ERIS](https://m.media-amazon.com/images/I/31+Kls1LnCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B9S2DHP/?tag=tolees-21)
 
 🔎:
 

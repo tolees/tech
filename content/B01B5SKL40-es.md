@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.32 % en Kingston KCP313SD8/8 - Memoria RAM para '
 date: 2020-04-09 11:37:05
-image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.045'
 
 Tienes [Kingston KCP313SD8/8 - Memoria RAM para portátil de 8 GB  1333 MHz SODIMM  DDR3  1.5 V  CL9  204 Pines ](https://www.amazon.es/dp/B01B5SKL40/?tag=tolees-21) con un 23.32 % de descuento con precio de oferta de 43.66 EUR (original: 56.94 EUR) en el siguiente enlace!
 
-[![Kingston KCP313SD8/8 - Memoria RAM para ](https://m.media-amazon.com/images/I/41M0bVlQsmL._SL200_.jpg)](https://www.amazon.es/dp/B01B5SKL40/?tag=tolees-21)
+[![Kingston KCP313SD8/8 - Memoria RAM para ](https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg)](https://www.amazon.es/dp/B01B5SKL40/?tag=tolees-21)
 
 ℹ️:
 

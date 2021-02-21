@@ -2,7 +2,7 @@
 layout: post
 title: 'Epson WFDS310 - Escáner de Color móvil A al 24.64 % de descuento'
 date: 2020-05-29 21:31:24
-image: 'https://m.media-amazon.com/images/I/31hjrh7SQBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hjrh7SQBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '209.49'
 
 Ahora mismo tienes [Epson WFDS310 - Escáner de Color móvil A4  Capacidad de USB  Negro](https://www.amazon.es/dp/B01MSW0E02/?tag=tolees-21) a 209.49 EUR (original: 277.99 EUR) (24.64 %  de descuento) en el siguiente enlace!
 
-[![Epson WFDS310 - Escáner de Color móvil A](https://m.media-amazon.com/images/I/31hjrh7SQBL._SL200_.jpg)](https://www.amazon.es/dp/B01MSW0E02/?tag=tolees-21)
+[![Epson WFDS310 - Escáner de Color móvil A](https://m.media-amazon.com/images/I/31hjrh7SQBL._SL400_.jpg)](https://www.amazon.es/dp/B01MSW0E02/?tag=tolees-21)
 
 🔎:
 

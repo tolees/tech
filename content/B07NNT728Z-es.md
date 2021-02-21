@@ -2,7 +2,7 @@
 layout: post
 title: 'Fujifilm X-T30  Kit cámara con Objetivo  con un 16.02 % de descuento'
 date: 2020-03-07 20:31:47
-image: 'https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '804.1800000000001'
 
 En este momento está [Fujifilm X-T30  Kit cámara con Objetivo Intercambiable XC15-45/3.5-5.6  Color Negro](https://www.amazon.es/dp/B07NNT728Z/?tag=tolees-21) a 838.95 EUR (original: 999.0 EUR) (16.02 %  de descuento) en el siguiente enlace!
 
-[![Fujifilm X-T30  Kit cámara con Objetivo ](https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NNT728Z/?tag=tolees-21)
+[![Fujifilm X-T30  Kit cámara con Objetivo ](https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NNT728Z/?tag=tolees-21)
 
 🔎:
 

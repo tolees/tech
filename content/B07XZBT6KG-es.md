@@ -2,7 +2,7 @@
 layout: post
 title: 'Dell - PC Optiplex 7010 SFF- Ordenador d al 16.87 % de descuento'
 date: 2020-07-18 07:04:48
-image: 'https://m.media-amazon.com/images/I/41f3J2-jMmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f3J2-jMmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '228.16666666666669'
 
 Está [Dell - PC Optiplex 7010 SFF- Ordenador de sobremesa  Intel Core i5-3470  8GB de RAM  Disco SSD de 240GB  Lector DVD  Windows 10 Pro ES 64  - Negro  Reacondicionado ](https://www.amazon.es/dp/B07XZBT6KG/?tag=tolees-21) con 16.87 de descuento por 207.0 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![Dell - PC Optiplex 7010 SFF- Ordenador d](https://m.media-amazon.com/images/I/41f3J2-jMmL._SL200_.jpg)](https://www.amazon.es/dp/B07XZBT6KG/?tag=tolees-21)
+[![Dell - PC Optiplex 7010 SFF- Ordenador d](https://m.media-amazon.com/images/I/41f3J2-jMmL._SL400_.jpg)](https://www.amazon.es/dp/B07XZBT6KG/?tag=tolees-21)
 
 ℹ️:
 

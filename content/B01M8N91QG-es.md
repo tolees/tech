@@ -2,7 +2,7 @@
 layout: post
 title: 'Polk Audio MagniFi Mini - Barra de Sonid al 22.32 % de descuento'
 date: 2020-03-24 08:59:56
-image: 'https://m.media-amazon.com/images/I/414EpfL1RGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414EpfL1RGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '242.42333333333332'
 
 Está [Polk Audio MagniFi Mini - Barra de Sonido y Subwoofer Inalámbrico  con Asistente de Google  Bluetooth  color Negro](https://www.amazon.es/dp/B01M8N91QG/?tag=tolees-21) con 22.32 de descuento por 225.25 EUR (original: 289.98 EUR) en el siguiente enlace!
 
-[![Polk Audio MagniFi Mini - Barra de Sonid](https://m.media-amazon.com/images/I/414EpfL1RGL._SL200_.jpg)](https://www.amazon.es/dp/B01M8N91QG/?tag=tolees-21)
+[![Polk Audio MagniFi Mini - Barra de Sonid](https://m.media-amazon.com/images/I/414EpfL1RGL._SL400_.jpg)](https://www.amazon.es/dp/B01M8N91QG/?tag=tolees-21)
 
 ℹ️:
 

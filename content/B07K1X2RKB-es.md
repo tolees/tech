@@ -2,7 +2,7 @@
 layout: post
 title: 'GEEETECH A20M Impresora 3d con Mix de co al 20.05 % de descuento'
 date: 2020-02-01 03:55:51
-image: 'https://m.media-amazon.com/images/I/418Jm1h9YzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418Jm1h9YzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '359.0'
 
 Ahora mismo tienes [GEEETECH A20M Impresora 3d con Mix de color de impresión integrada  Prusa I3 rápido de Kit DIY de montaje](https://www.amazon.es/dp/B07K1X2RKB/?tag=tolees-21) a 319.0 EUR (original: 399.0 EUR) (20.05 %  de descuento) en el siguiente enlace!
 
-[![GEEETECH A20M Impresora 3d con Mix de co](https://m.media-amazon.com/images/I/418Jm1h9YzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K1X2RKB/?tag=tolees-21)
+[![GEEETECH A20M Impresora 3d con Mix de co](https://m.media-amazon.com/images/I/418Jm1h9YzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K1X2RKB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '7Magic Compatible Cartucho de Tóner para al 15.02 % de descuento'
 date: 2020-08-09 23:13:43
-image: 'https://m.media-amazon.com/images/I/51RXZ-pCcSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RXZ-pCcSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.79'
 
 Ahora mismo tienes [7Magic Compatible Cartucho de Tóner para Brother TN1050 TN 1050 para Brother DCP-1510 DCP-1612W HL-1110 MFC-1810 MFC-1910W HL-1212W HL-1210W DCP-1610W DCP-1512 HL-1112 Impresora 2 Negro ](https://www.amazon.es/dp/B077PD4H2B/?tag=tolees-21) a 15.79 EUR (original: 18.58 EUR) (15.02 %  de descuento) en el siguiente enlace!
 
-[![7Magic Compatible Cartucho de Tóner para](https://m.media-amazon.com/images/I/51RXZ-pCcSL._SL200_.jpg)](https://www.amazon.es/dp/B077PD4H2B/?tag=tolees-21)
+[![7Magic Compatible Cartucho de Tóner para](https://m.media-amazon.com/images/I/51RXZ-pCcSL._SL400_.jpg)](https://www.amazon.es/dp/B077PD4H2B/?tag=tolees-21)
 
 🔎:
 

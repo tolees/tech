@@ -2,7 +2,7 @@
 layout: post
 title: 'AOC C24G1 - Monitor Gaming Curvo de 24”  con un 15.42 % de descuento'
 date: 2020-08-03 07:48:09
-image: 'https://m.media-amazon.com/images/I/51qT8qm0gBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qT8qm0gBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '197.44285714285715'
 
 En este momento está [AOC C24G1 - Monitor Gaming Curvo de 24” con Pantalla Full HD e-Sports  VA  1ms  AMD FreeSync  144Hz  Sin Marco  Ajustable en altura y FlickerFree   Color Negro/Rojo](https://www.amazon.es/dp/B07DTN4BM8/?tag=tolees-21) a 169.15 EUR (original: 199.99 EUR) (15.42 %  de descuento) en el siguiente enlace!
 
-[![AOC C24G1 - Monitor Gaming Curvo de 24” ](https://m.media-amazon.com/images/I/51qT8qm0gBL._SL200_.jpg)](https://www.amazon.es/dp/B07DTN4BM8/?tag=tolees-21)
+[![AOC C24G1 - Monitor Gaming Curvo de 24” ](https://m.media-amazon.com/images/I/51qT8qm0gBL._SL400_.jpg)](https://www.amazon.es/dp/B07DTN4BM8/?tag=tolees-21)
 
 🔎:
 

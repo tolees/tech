@@ -2,7 +2,7 @@
 layout: post
 title: 'Ferilinso Funda para Xiaomi Redmi Note 7 al 23.47 % de descuento'
 date: 2020-08-14 08:30:42
-image: 'https://m.media-amazon.com/images/I/51948uYR1HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51948uYR1HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.43'
 
 Ahora mismo tienes [Ferilinso Funda para Xiaomi Redmi Note 7/ Note 7S/ Note 7 Pro  Ultra [Slim Thin] Resistente a los arañazos TPU Caucho Piel Suave Silicona Funda Protectora  Transparente ](https://www.amazon.es/dp/B07MM5F7QD/?tag=tolees-21) a 6.88 EUR (original: 8.99 EUR) (23.47 %  de descuento) en el siguiente enlace!
 
-[![Ferilinso Funda para Xiaomi Redmi Note 7](https://m.media-amazon.com/images/I/51948uYR1HL._SL200_.jpg)](https://www.amazon.es/dp/B07MM5F7QD/?tag=tolees-21)
+[![Ferilinso Funda para Xiaomi Redmi Note 7](https://m.media-amazon.com/images/I/51948uYR1HL._SL400_.jpg)](https://www.amazon.es/dp/B07MM5F7QD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsi al 16.67 % de descuento'
 date: 2020-06-25 08:24:27
-image: 'https://m.media-amazon.com/images/I/41gmGrw329L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gmGrw329L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsillo  Color Negro](https://www.amazon.es/dp/B077QBSV87/?tag=tolees-21) a 24.99 EUR (original: 29.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
-[![Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsi](https://m.media-amazon.com/images/I/41gmGrw329L._SL200_.jpg)](https://www.amazon.es/dp/B077QBSV87/?tag=tolees-21)
+[![Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsi](https://m.media-amazon.com/images/I/41gmGrw329L._SL400_.jpg)](https://www.amazon.es/dp/B077QBSV87/?tag=tolees-21)
 
 🔎:
 

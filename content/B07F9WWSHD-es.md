@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo L22e-20 21.5 " FHD VA FreeSync Ga al 20.00 % de rebaja'
 date: 2020-09-13 05:30:20
-image: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.95666666666665'
 
 Tienes [Lenovo L22e-20 21.5 " FHD VA FreeSync Gaming Monitor 4 ms VGA+HDMI 3 lados sin bordes - Negro](https://www.amazon.es/dp/B07F9WWSHD/?tag=tolees-21) con precio final de  79.99 EUR (original: 99.99 EUR) (20.00 %  de rebaja) aqui!
 
-[![Lenovo L22e-20 21.5 " FHD VA FreeSync Ga](https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg)](https://www.amazon.es/dp/B07F9WWSHD/?tag=tolees-21)
+[![Lenovo L22e-20 21.5 " FHD VA FreeSync Ga](https://m.media-amazon.com/images/I/51qB-HwrSvL._SL400_.jpg)](https://www.amazon.es/dp/B07F9WWSHD/?tag=tolees-21)
 
 🔎:
 

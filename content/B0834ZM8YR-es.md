@@ -2,7 +2,7 @@
 layout: post
 title: 'Netac Tarjeta de Memoria de 256GB  Tarje con un 24.49 % de descuento'
 date: 2020-09-24 07:35:24
-image: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 En este momento está [Netac Tarjeta de Memoria de 256GB  Tarjeta Memoria microSDXC A1  U3  C10  V30  4K  667X  UHS-I Velocidad de Lectura hasta 100 MB/s  Tarjeta TF para Móvil  Cámara Deportiva  Gopro  Tableta  Dashcam](https://www.amazon.es/dp/B0834ZM8YR/?tag=tolees-21) a 36.99 EUR (original: 48.99 EUR) (24.49 %  de descuento) en el siguiente enlace!
 
-[![Netac Tarjeta de Memoria de 256GB  Tarje](https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg)](https://www.amazon.es/dp/B0834ZM8YR/?tag=tolees-21)
+[![Netac Tarjeta de Memoria de 256GB  Tarje](https://m.media-amazon.com/images/I/41c18mSLTQL._SL400_.jpg)](https://www.amazon.es/dp/B0834ZM8YR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sennheiser RS175-U - Auriculares inalámb con un 22.19 % de descuento'
 date: 2020-04-12 12:42:43
-image: 'https://m.media-amazon.com/images/I/41M0dV9dBYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M0dV9dBYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '189.12'
 
 En este momento está [Sennheiser RS175-U - Auriculares inalámbricos para televisión Digital](https://www.amazon.es/dp/B07XTW93RV/?tag=tolees-21) a 189.12 EUR (original: 243.05 EUR) (22.19 %  de descuento) en el siguiente enlace!
 
-[![Sennheiser RS175-U - Auriculares inalámb](https://m.media-amazon.com/images/I/41M0dV9dBYL._SL200_.jpg)](https://www.amazon.es/dp/B07XTW93RV/?tag=tolees-21)
+[![Sennheiser RS175-U - Auriculares inalámb](https://m.media-amazon.com/images/I/41M0dV9dBYL._SL400_.jpg)](https://www.amazon.es/dp/B07XTW93RV/?tag=tolees-21)
 
 🔎:
 

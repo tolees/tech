@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.00 % en HP Pavilion 15-bc527ns - Ordenador portá'
 date: 2020-06-30 19:21:21
-image: 'https://m.media-amazon.com/images/I/41SwEY5XVOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SwEY5XVOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '799.99'
 
 Tienes [HP Pavilion 15-bc527ns - Ordenador portátil de 15.6" FullHD  Intel Core i7-9750H  8GB de RAM  512GB SSD  NVIDIA GeForce GTX 1650-4GB  sin sistema operativo  Negro - teclado QWERTY Español](https://www.amazon.es/dp/B081QMM45Y/?tag=tolees-21) con un 20.00 % de descuento con precio de oferta de 799.99 EUR (original: 999.99 EUR) en el siguiente enlace!
 
-[![HP Pavilion 15-bc527ns - Ordenador portá](https://m.media-amazon.com/images/I/41SwEY5XVOL._SL200_.jpg)](https://www.amazon.es/dp/B081QMM45Y/?tag=tolees-21)
+[![HP Pavilion 15-bc527ns - Ordenador portá](https://m.media-amazon.com/images/I/41SwEY5XVOL._SL400_.jpg)](https://www.amazon.es/dp/B081QMM45Y/?tag=tolees-21)
 
 ℹ️:
 

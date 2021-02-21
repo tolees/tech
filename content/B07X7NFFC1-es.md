@@ -2,7 +2,7 @@
 layout: post
 title: 'AROYI Carcasa Xiaomi Redmi Note 8 Pro Fu al 21.93 % de descuento'
 date: 2020-05-27 19:55:59
-image: 'https://m.media-amazon.com/images/I/51AsWhu69sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AsWhu69sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.58'
 
 Está [AROYI Carcasa Xiaomi Redmi Note 8 Pro Funda Silicona & Protector Pantalla Cristal Templado  Slim Suave TPU Bumper Case Cover Anti-arañazos Antigolpes Caja para Xiaomi Redmi Note 8 Pro - Negro](https://www.amazon.es/dp/B07X7NFFC1/?tag=tolees-21) con 21.93 de descuento por 8.58 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![AROYI Carcasa Xiaomi Redmi Note 8 Pro Fu](https://m.media-amazon.com/images/I/51AsWhu69sL._SL200_.jpg)](https://www.amazon.es/dp/B07X7NFFC1/?tag=tolees-21)
+[![AROYI Carcasa Xiaomi Redmi Note 8 Pro Fu](https://m.media-amazon.com/images/I/51AsWhu69sL._SL400_.jpg)](https://www.amazon.es/dp/B07X7NFFC1/?tag=tolees-21)
 
 ℹ️:
 

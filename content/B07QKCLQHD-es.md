@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Funda para ordenador port al 19.12 % de descuento'
 date: 2020-08-02 20:45:20
-image: 'https://m.media-amazon.com/images/I/41dSprfaU2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dSprfaU2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.646'
 
 Ahora mismo tienes [AmazonBasics - Funda para ordenador portátil urbana de 39 62 cm  azul](https://www.amazon.es/dp/B07QKCLQHD/?tag=tolees-21) a 10.49 EUR (original: 12.97 EUR) (19.12 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Funda para ordenador port](https://m.media-amazon.com/images/I/41dSprfaU2L._SL200_.jpg)](https://www.amazon.es/dp/B07QKCLQHD/?tag=tolees-21)
+[![AmazonBasics - Funda para ordenador port](https://m.media-amazon.com/images/I/41dSprfaU2L._SL400_.jpg)](https://www.amazon.es/dp/B07QKCLQHD/?tag=tolees-21)
 
 🔎:
 

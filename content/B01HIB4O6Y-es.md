@@ -2,7 +2,7 @@
 layout: post
 title: 'ICZI Cable DisplayPort a HDMI 1.8m  Cabl al 15.01 % de descuento'
 date: 2020-08-09 23:09:53
-image: 'https://m.media-amazon.com/images/I/41GhgGeO1vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GhgGeO1vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.19'
 
 Está [ICZI Cable DisplayPort a HDMI 1.8m  Cable Adaptador DP a HDMI 1080P con Conector Chapado en Oro  Macho a Macho para PC Ordenador  Pantalla TV](https://www.amazon.es/dp/B01HIB4O6Y/?tag=tolees-21) con 15.01 de descuento por 10.19 EUR (original: 11.99 EUR) en el siguiente enlace!
 
-[![ICZI Cable DisplayPort a HDMI 1.8m  Cabl](https://m.media-amazon.com/images/I/41GhgGeO1vL._SL200_.jpg)](https://www.amazon.es/dp/B01HIB4O6Y/?tag=tolees-21)
+[![ICZI Cable DisplayPort a HDMI 1.8m  Cabl](https://m.media-amazon.com/images/I/41GhgGeO1vL._SL400_.jpg)](https://www.amazon.es/dp/B01HIB4O6Y/?tag=tolees-21)
 
 ℹ️:
 

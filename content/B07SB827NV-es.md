@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Laser MFP 135a - Impresora láser mult al 24.19 % de descuento'
 date: 2020-08-26 19:30:49
-image: 'https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.09374999999999'
 
 Ahora mismo tienes [HP Laser MFP 135a - Impresora láser multifunción  imprime  copia y escanea  20 ppm  LED  USB 2.0 de alta velocidad   blanco](https://www.amazon.es/dp/B07SB827NV/?tag=tolees-21) a 97.8 EUR (original: 129.0 EUR) (24.19 %  de descuento) en el siguiente enlace!
 
-[![HP Laser MFP 135a - Impresora láser mult](https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL200_.jpg)](https://www.amazon.es/dp/B07SB827NV/?tag=tolees-21)
+[![HP Laser MFP 135a - Impresora láser mult](https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL400_.jpg)](https://www.amazon.es/dp/B07SB827NV/?tag=tolees-21)
 
 🔎:
 

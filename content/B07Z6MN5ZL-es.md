@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.07 % en ASUS ROG STRIX G531GV-AL172 - Portátil G'
 date: 2020-03-02 16:11:45
-image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1199.0'
 
 Tienes [ASUS ROG STRIX G531GV-AL172 - Portátil Gaming de 15 6" FullHD  Intel Core i7-9750H  16GB RAM  1TB SSD  GeForce RTX2060-6GB  sin sistema operativo   - Teclado QWERTY Español](https://www.amazon.es/dp/B07Z6MN5ZL/?tag=tolees-21) con un 20.07 % de descuento con precio de oferta de 1199.0 EUR (original: 1499.99 EUR) en el siguiente enlace!
 
-[![ASUS ROG STRIX G531GV-AL172 - Portátil G](https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Z6MN5ZL/?tag=tolees-21)
+[![ASUS ROG STRIX G531GV-AL172 - Portátil G](https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Z6MN5ZL/?tag=tolees-21)
 
 ℹ️:
 

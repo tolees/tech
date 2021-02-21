@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.93 % en Impresora de inyección de tinta Canon PI'
 date: 2020-06-15 20:01:17
-image: 'https://m.media-amazon.com/images/I/51qjEMlIAFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qjEMlIAFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '216.8245'
 
 Tienes [Impresora de inyección de tinta Canon PIXMA iP110 Negra Wifi portatil](https://www.amazon.es/dp/B00MWNDXQQ/?tag=tolees-21) con un 15.93 % de descuento con precio de oferta de 243.73 EUR (original: 289.9 EUR) en el siguiente enlace!
 
-[![Impresora de inyección de tinta Canon PI](https://m.media-amazon.com/images/I/51qjEMlIAFL._SL200_.jpg)](https://www.amazon.es/dp/B00MWNDXQQ/?tag=tolees-21)
+[![Impresora de inyección de tinta Canon PI](https://m.media-amazon.com/images/I/51qjEMlIAFL._SL400_.jpg)](https://www.amazon.es/dp/B00MWNDXQQ/?tag=tolees-21)
 
 ℹ️:
 

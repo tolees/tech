@@ -2,7 +2,7 @@
 layout: post
 title: 'Acer Predator Helios 300 PH315-51-50Y7 - al 23.10 % de rebaja'
 date: 2020-05-08 14:23:04
-image: 'https://m.media-amazon.com/images/I/41d0pFOeYVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d0pFOeYVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '752.3333333333334'
 
 Tienes [Acer Predator Helios 300 PH315-51-50Y7 - Ordenador portátil de 15.6" Full HD  Intel Core i5-8300H  8 GB RAM  1TB HDD  128GB SSD  Nvidia GeForce GTX1060  Linux  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07G3XCMX4/?tag=tolees-21) con precio final de  769.0 EUR (original: 999.99 EUR) (23.10 %  de rebaja) aqui!
 
-[![Acer Predator Helios 300 PH315-51-50Y7 -](https://m.media-amazon.com/images/I/41d0pFOeYVL._SL200_.jpg)](https://www.amazon.es/dp/B07G3XCMX4/?tag=tolees-21)
+[![Acer Predator Helios 300 PH315-51-50Y7 -](https://m.media-amazon.com/images/I/41d0pFOeYVL._SL400_.jpg)](https://www.amazon.es/dp/B07G3XCMX4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Epson EH-TW5650 | Proyector Home Cinema  al 22.66 % de descuento'
 date: 2020-09-02 17:45:40
-image: 'https://m.media-amazon.com/images/I/41zAms11XSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zAms11XSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '841.5766666666667'
 
 Ahora mismo tienes [Epson EH-TW5650 | Proyector Home Cinema 3D Full HD 1080p | 2500 lúmenes | Alto Contraste 60.000:1 | Lámpara Larga Duración 7500 horas | Pantalla Hasta 300” | Tecnología 3LCD](https://www.amazon.es/dp/B074ZBQZM7/?tag=tolees-21) a 850.0 EUR (original: 1099.0 EUR) (22.66 %  de descuento) en el siguiente enlace!
 
-[![Epson EH-TW5650 | Proyector Home Cinema ](https://m.media-amazon.com/images/I/41zAms11XSL._SL200_.jpg)](https://www.amazon.es/dp/B074ZBQZM7/?tag=tolees-21)
+[![Epson EH-TW5650 | Proyector Home Cinema ](https://m.media-amazon.com/images/I/41zAms11XSL._SL400_.jpg)](https://www.amazon.es/dp/B074ZBQZM7/?tag=tolees-21)
 
 🔎:
 

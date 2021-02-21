@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Smart Tank Plus 555 - Impresora multi al 19.28 % de descuento'
 date: 2020-08-21 15:58:04
-image: 'https://m.media-amazon.com/images/I/31Rxt5BTTaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Rxt5BTTaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '178.74166666666667'
 
 Está [HP Smart Tank Plus 555 - Impresora multifunción  imprime  copia y escanea desde el móvil   conectividad Wi-Fi  incluye hasta 3 años de tinta  negro](https://www.amazon.es/dp/B07V7NJ1FX/?tag=tolees-21) con 19.28 de descuento por 201.0 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![HP Smart Tank Plus 555 - Impresora multi](https://m.media-amazon.com/images/I/31Rxt5BTTaL._SL200_.jpg)](https://www.amazon.es/dp/B07V7NJ1FX/?tag=tolees-21)
+[![HP Smart Tank Plus 555 - Impresora multi](https://m.media-amazon.com/images/I/31Rxt5BTTaL._SL400_.jpg)](https://www.amazon.es/dp/B07V7NJ1FX/?tag=tolees-21)
 
 ℹ️:
 

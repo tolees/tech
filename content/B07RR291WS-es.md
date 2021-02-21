@@ -2,7 +2,7 @@
 layout: post
 title: 'Beeasy Funda Samsung Galaxy S9 Plus Anti al 20.84 % de descuento'
 date: 2020-03-08 08:50:33
-image: 'https://m.media-amazon.com/images/I/51CfuEcZX0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CfuEcZX0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [Beeasy Funda Samsung Galaxy S9 Plus Antigolpes Rígida Robusta Antigravedad Carcasa S9+ Resistente al Impacto Militar Duradera Blindada Fuerte de Seguridad al Aire Libre Case Cover Rojo](https://www.amazon.es/dp/B07RR291WS/?tag=tolees-21) con 20.84 de descuento por 18.99 EUR (original: 23.99 EUR) en el siguiente enlace!
 
-[![Beeasy Funda Samsung Galaxy S9 Plus Anti](https://m.media-amazon.com/images/I/51CfuEcZX0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RR291WS/?tag=tolees-21)
+[![Beeasy Funda Samsung Galaxy S9 Plus Anti](https://m.media-amazon.com/images/I/51CfuEcZX0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RR291WS/?tag=tolees-21)
 
 ℹ️:
 

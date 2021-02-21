@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPad mini - Tablet  20 1 cm  7.9"  al 15.79 % de descuento'
 date: 2020-02-08 09:36:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5176LE3vP9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5176LE3vP9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '495.0'
 
 Está [Apple iPad mini - Tablet  20 1 cm  7.9"   2048 x 1536 Pixeles  64 GB  3G  iOS 12  Plata ](https://www.amazon.es/dp/B07PQ9BK6W/?tag=tolees-21) con 15.79 de descuento por 496 EUR (original: 589 EUR) en el siguiente enlace!
 
-[![Apple iPad mini - Tablet  20 1 cm  7.9" ](https://images-eu.ssl-images-amazon.com/images/I/5176LE3vP9L._SL200_.jpg)](https://www.amazon.es/dp/B07PQ9BK6W/?tag=tolees-21)
+[![Apple iPad mini - Tablet  20 1 cm  7.9" ](https://images-eu.ssl-images-amazon.com/images/I/5176LE3vP9L._SL400_.jpg)](https://www.amazon.es/dp/B07PQ9BK6W/?tag=tolees-21)
 
 ℹ️:
 

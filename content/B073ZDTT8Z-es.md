@@ -2,7 +2,7 @@
 layout: post
 title: 'ESR Funda para iPhone SE/8/7 [Funda TPU] con un 21.28 % de descuento'
 date: 2020-06-05 07:01:05
-image: 'https://m.media-amazon.com/images/I/41nXtxW0ppL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nXtxW0ppL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.29'
 
 En este momento está [ESR Funda para iPhone SE/8/7 [Funda TPU][No amarillea][Tapa trasera de solo 1 1 mm] [Esquinas con Absorción de Golpes][Funda de Silicona Flexible] Transparente](https://www.amazon.es/dp/B073ZDTT8Z/?tag=tolees-21) a 6.29 EUR (original: 7.99 EUR) (21.28 %  de descuento) en el siguiente enlace!
 
-[![ESR Funda para iPhone SE/8/7 [Funda TPU]](https://m.media-amazon.com/images/I/41nXtxW0ppL._SL200_.jpg)](https://www.amazon.es/dp/B073ZDTT8Z/?tag=tolees-21)
+[![ESR Funda para iPhone SE/8/7 [Funda TPU]](https://m.media-amazon.com/images/I/41nXtxW0ppL._SL400_.jpg)](https://www.amazon.es/dp/B073ZDTT8Z/?tag=tolees-21)
 
 🔎:
 

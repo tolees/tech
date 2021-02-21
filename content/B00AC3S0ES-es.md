@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.55 % en Epson LQ-350 - Impresora matricial  24 P'
 date: 2020-04-24 11:50:21
-image: 'https://m.media-amazon.com/images/I/41ETZed4ryL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ETZed4ryL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '226.83'
 
 Tienes [Epson LQ-350 - Impresora matricial  24 Pines  USB 2.0  200-240 V   Color Gris](https://www.amazon.es/dp/B00AC3S0ES/?tag=tolees-21) con un 21.55 % de descuento con precio de oferta de 231.43 EUR (original: 294.99 EUR) en el siguiente enlace!
 
-[![Epson LQ-350 - Impresora matricial  24 P](https://m.media-amazon.com/images/I/41ETZed4ryL._SL200_.jpg)](https://www.amazon.es/dp/B00AC3S0ES/?tag=tolees-21)
+[![Epson LQ-350 - Impresora matricial  24 P](https://m.media-amazon.com/images/I/41ETZed4ryL._SL400_.jpg)](https://www.amazon.es/dp/B00AC3S0ES/?tag=tolees-21)
 
 ℹ️:
 

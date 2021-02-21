@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Wireless Mouse 220 3FV66AA - Ratón in al 22.34 % de rebaja'
 date: 2020-08-17 09:13:01
-image: 'https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.69'
 
 Tienes [HP Wireless Mouse 220 3FV66AA - Ratón inalámbrico  Color Negro](https://www.amazon.es/dp/B07T4BPBXG/?tag=tolees-21) con precio final de  8.69 EUR (original: 11.19 EUR) (22.34 %  de rebaja) aqui!
 
-[![HP Wireless Mouse 220 3FV66AA - Ratón in](https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL200_.jpg)](https://www.amazon.es/dp/B07T4BPBXG/?tag=tolees-21)
+[![HP Wireless Mouse 220 3FV66AA - Ratón in](https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL400_.jpg)](https://www.amazon.es/dp/B07T4BPBXG/?tag=tolees-21)
 
 🔎:
 

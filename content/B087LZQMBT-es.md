@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Silicona Funda con Huawei Mate 10 al 18.21 % de descuento'
 date: 2020-05-21 11:35:50
-image: 'https://m.media-amazon.com/images/I/41mFOdTczjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mFOdTczjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Ahora mismo tienes [Oihxse Silicona Funda con Huawei Mate 10 TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  C4 ](https://www.amazon.es/dp/B087LZQMBT/?tag=tolees-21) a 8.98 EUR (original: 10.98 EUR) (18.21 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Silicona Funda con Huawei Mate 10](https://m.media-amazon.com/images/I/41mFOdTczjL._SL200_.jpg)](https://www.amazon.es/dp/B087LZQMBT/?tag=tolees-21)
+[![Oihxse Silicona Funda con Huawei Mate 10](https://m.media-amazon.com/images/I/41mFOdTczjL._SL400_.jpg)](https://www.amazon.es/dp/B087LZQMBT/?tag=tolees-21)
 
 🔎:
 

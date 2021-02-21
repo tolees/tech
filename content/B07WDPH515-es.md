@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 21.26 % en Quntis Cable iPhone [Apple MFi Certifica'
 date: 2020-06-30 08:33:40
-image: 'https://m.media-amazon.com/images/I/41+cbu031iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+cbu031iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.59'
 
 Tienes [Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m Piezas Cable de Datos Lightning Compatible con iPhone SE 2020 11 11 Pro 11 Pro MAX XS MAX XR X 8 Plus 7 Plus 6S 6 Plus 5 5S 5C SE iPad](https://www.amazon.es/dp/B07WDPH515/?tag=tolees-21) con un 21.26 % de descuento con precio de oferta de 12.59 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Quntis Cable iPhone [Apple MFi Certifica](https://m.media-amazon.com/images/I/41+cbu031iL._SL200_.jpg)](https://www.amazon.es/dp/B07WDPH515/?tag=tolees-21)
+[![Quntis Cable iPhone [Apple MFi Certifica](https://m.media-amazon.com/images/I/41+cbu031iL._SL400_.jpg)](https://www.amazon.es/dp/B07WDPH515/?tag=tolees-21)
 
 ℹ️:
 

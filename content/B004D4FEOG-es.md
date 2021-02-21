@@ -2,7 +2,7 @@
 layout: post
 title: 'GO Inks E-711 – Juego de 4 cartuchos de  al 23.60 % de rebaja'
 date: 2020-09-30 11:02:28
-image: 'https://m.media-amazon.com/images/I/51tXTHVRohL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tXTHVRohL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Tienes [GO Inks E-711 – Juego de 4 cartuchos de tinta para impresora negro](https://www.amazon.es/dp/B004D4FEOG/?tag=tolees-21) con precio final de  9.0 EUR (original: 11.78 EUR) (23.60 %  de rebaja) aqui!
 
-[![GO Inks E-711 – Juego de 4 cartuchos de ](https://m.media-amazon.com/images/I/51tXTHVRohL._SL200_.jpg)](https://www.amazon.es/dp/B004D4FEOG/?tag=tolees-21)
+[![GO Inks E-711 – Juego de 4 cartuchos de ](https://m.media-amazon.com/images/I/51tXTHVRohL._SL400_.jpg)](https://www.amazon.es/dp/B004D4FEOG/?tag=tolees-21)
 
 🔎:
 

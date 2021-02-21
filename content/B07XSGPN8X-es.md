@@ -2,7 +2,7 @@
 layout: post
 title: 'Ufesa RD2500D WIFI - Radiador de Aceite  con un 19.99 % de descuento'
 date: 2020-10-12 22:02:11
-image: 'https://m.media-amazon.com/images/I/41HgljiFA4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HgljiFA4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '128.0'
 
 En este momento está [Ufesa RD2500D WIFI - Radiador de Aceite Wifi & App con 2500W  dispone de Pantalla Digital Táctil   Temporizador de 24h  11 elementos tipo Convector  Temperatura Regulable de 3 Niveles](https://www.amazon.es/dp/B07XSGPN8X/?tag=tolees-21) a 128.0 EUR (original: 159.99 EUR) (19.99 %  de descuento) en el siguiente enlace!
 
-[![Ufesa RD2500D WIFI - Radiador de Aceite ](https://m.media-amazon.com/images/I/41HgljiFA4L._SL200_.jpg)](https://www.amazon.es/dp/B07XSGPN8X/?tag=tolees-21)
+[![Ufesa RD2500D WIFI - Radiador de Aceite ](https://m.media-amazon.com/images/I/41HgljiFA4L._SL400_.jpg)](https://www.amazon.es/dp/B07XSGPN8X/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Base de Refrigeración para Ordenador Por con un 20.01 % de descuento'
 date: 2020-06-12 13:31:17
-image: 'https://m.media-amazon.com/images/I/51xJPOGVqLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xJPOGVqLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 En este momento está [Base de Refrigeración para Ordenador Portátil 12"-17.3"  Base Portatil Gaming de enfriamiento Rápido con LED Azul  5 Ventiladores Ultra Silenciosos  2 Puertos USB  7 Niveles de Diseño Ajustable](https://www.amazon.es/dp/B07V79SZF8/?tag=tolees-21) a 31.99 EUR (original: 39.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Base de Refrigeración para Ordenador Por](https://m.media-amazon.com/images/I/51xJPOGVqLL._SL200_.jpg)](https://www.amazon.es/dp/B07V79SZF8/?tag=tolees-21)
+[![Base de Refrigeración para Ordenador Por](https://m.media-amazon.com/images/I/51xJPOGVqLL._SL400_.jpg)](https://www.amazon.es/dp/B07V79SZF8/?tag=tolees-21)
 
 🔎:
 

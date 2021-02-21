@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Legion Y540 - Ordenador portatil  al 19.94 % de descuento'
 date: 2020-08-01 22:19:53
-image: 'https://m.media-amazon.com/images/I/41rj61ibpBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rj61ibpBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1066.693'
 
 Ahora mismo tienes [Lenovo Legion Y540 - Ordenador portatil Gaming de 15.6" Full HD  Intel Core i7-9750H  16GB de RAM  1TB HDD + 512GB SSD  Nvidia GTX1650-4GB+ Gráfica Integrada  SinSo  Negro](https://www.amazon.es/dp/B07TY7YKXT/?tag=tolees-21) a 999.99 EUR (original: 1249.0 EUR) (19.94 %  de descuento) en el siguiente enlace!
 
-[![Lenovo Legion Y540 - Ordenador portatil ](https://m.media-amazon.com/images/I/41rj61ibpBL._SL200_.jpg)](https://www.amazon.es/dp/B07TY7YKXT/?tag=tolees-21)
+[![Lenovo Legion Y540 - Ordenador portatil ](https://m.media-amazon.com/images/I/41rj61ibpBL._SL400_.jpg)](https://www.amazon.es/dp/B07TY7YKXT/?tag=tolees-21)
 
 🔎:
 

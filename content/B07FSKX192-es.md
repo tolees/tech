@@ -2,7 +2,7 @@
 layout: post
 title: 'Fujifilm XF10  Cámara Digital  1  Dorado al 17.64 % de descuento'
 date: 2020-03-05 21:05:37
-image: 'https://m.media-amazon.com/images/I/41xGilwOTQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xGilwOTQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '379.995'
 
 Ahora mismo tienes [Fujifilm XF10  Cámara Digital  1  Dorado](https://www.amazon.es/dp/B07FSKX192/?tag=tolees-21) a 410.99 EUR (original: 499.0 EUR) (17.64 %  de descuento) en el siguiente enlace!
 
-[![Fujifilm XF10  Cámara Digital  1  Dorado](https://m.media-amazon.com/images/I/41xGilwOTQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FSKX192/?tag=tolees-21)
+[![Fujifilm XF10  Cámara Digital  1  Dorado](https://m.media-amazon.com/images/I/41xGilwOTQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FSKX192/?tag=tolees-21)
 
 🔎:
 

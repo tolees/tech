@@ -2,7 +2,7 @@
 layout: post
 title: 'Xiaomi Mi Bluetooth Headphone Blanco - A al 15.41 % de descuento'
 date: 2020-06-01 09:16:23
-image: 'https://m.media-amazon.com/images/I/31JH10fBn7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JH10fBn7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [Xiaomi Mi Bluetooth Headphone Blanco - Auriculares Bluetooth Xiaomi](https://www.amazon.es/dp/B0758G1HZM/?tag=tolees-21) con 15.41 de descuento por 18.99 EUR (original: 22.45 EUR) en el siguiente enlace!
 
-[![Xiaomi Mi Bluetooth Headphone Blanco - A](https://m.media-amazon.com/images/I/31JH10fBn7L._SL200_.jpg)](https://www.amazon.es/dp/B0758G1HZM/?tag=tolees-21)
+[![Xiaomi Mi Bluetooth Headphone Blanco - A](https://m.media-amazon.com/images/I/31JH10fBn7L._SL400_.jpg)](https://www.amazon.es/dp/B0758G1HZM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LarmTek Cámara web 1080P Full HD con cub al 19.43 % de rebaja'
 date: 2020-08-20 11:31:08
-image: 'https://m.media-amazon.com/images/I/41RZnw8jiJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RZnw8jiJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.066000000000003'
 
 Tienes [LarmTek Cámara web 1080P Full HD con cubierta de cámara web cámara de computadora portátil para conferencias y videollamadas cámara web Pro Stream con videollamadas Plug and Play micrófono incorporado](https://www.amazon.es/dp/B07VTPQ9NQ/?tag=tolees-21) con precio final de  20.86 EUR (original: 25.89 EUR) (19.43 %  de rebaja) aqui!
 
-[![LarmTek Cámara web 1080P Full HD con cub](https://m.media-amazon.com/images/I/41RZnw8jiJL._SL200_.jpg)](https://www.amazon.es/dp/B07VTPQ9NQ/?tag=tolees-21)
+[![LarmTek Cámara web 1080P Full HD con cub](https://m.media-amazon.com/images/I/41RZnw8jiJL._SL400_.jpg)](https://www.amazon.es/dp/B07VTPQ9NQ/?tag=tolees-21)
 
 🔎:
 

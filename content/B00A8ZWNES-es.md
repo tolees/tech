@@ -2,7 +2,7 @@
 layout: post
 title: 'Samyang F1121903101 - Objetivo fotográfi con un 17.93 % de descuento'
 date: 2020-03-23 10:56:40
-image: 'https://m.media-amazon.com/images/I/41IGBa4JSFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IGBa4JSFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '304.01'
 
 En este momento está [Samyang F1121903101 - Objetivo fotográfico DSLR para Nikon F Ae  Distancia Focal Fija 8mm  Apertura f/3.5-22 UMC  Ojo de Pez  CSII   Negro](https://www.amazon.es/dp/B00A8ZWNES/?tag=tolees-21) a 311.03 EUR (original: 379.0 EUR) (17.93 %  de descuento) en el siguiente enlace!
 
-[![Samyang F1121903101 - Objetivo fotográfi](https://m.media-amazon.com/images/I/41IGBa4JSFL._SL200_.jpg)](https://www.amazon.es/dp/B00A8ZWNES/?tag=tolees-21)
+[![Samyang F1121903101 - Objetivo fotográfi](https://m.media-amazon.com/images/I/41IGBa4JSFL._SL400_.jpg)](https://www.amazon.es/dp/B00A8ZWNES/?tag=tolees-21)
 
 🔎:
 

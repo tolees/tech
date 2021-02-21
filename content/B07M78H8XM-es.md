@@ -2,7 +2,7 @@
 layout: post
 title: 'MSI GS65 Stealth 8SG-031ES - Ordenador p con un 18.04 % de descuento'
 date: 2020-02-06 23:22:03
-image: 'https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2321.955'
 
 En este momento está [MSI GS65 Stealth 8SG-031ES - Ordenador portátil Gaming Ultrafino 15.6" FullHD 144Hz Coffeelake i7-8750H  32GB RAM  512GB SSD  Nvidia RTX 2080 8GB  Windows 10 Advanced  Teclado QWERTY Español](https://www.amazon.es/dp/B07M78H8XM/?tag=tolees-21) a 2294.91 EUR (original: 2799.99 EUR) (18.04 %  de descuento) en el siguiente enlace!
 
-[![MSI GS65 Stealth 8SG-031ES - Ordenador p](https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M78H8XM/?tag=tolees-21)
+[![MSI GS65 Stealth 8SG-031ES - Ordenador p](https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M78H8XM/?tag=tolees-21)
 
 🔎:
 

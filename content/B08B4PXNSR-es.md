@@ -2,7 +2,7 @@
 layout: post
 title: 'Capturadora de vídeo HDMI  USB 2.0 Tarje al 17.68 % de rebaja'
 date: 2020-10-03 05:16:10
-image: 'https://m.media-amazon.com/images/I/41ox1sGr2NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ox1sGr2NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.28'
 
 Tienes [Capturadora de vídeo HDMI  USB 2.0 Tarjeta de Captura de Audio con Salida de Bucle HDMI 1080P Portátil HD Video Grabador Dispositivo Video Live Grabación](https://www.amazon.es/dp/B08B4PXNSR/?tag=tolees-21) con precio final de  23.28 EUR (original: 28.28 EUR) (17.68 %  de rebaja) aqui!
 
-[![Capturadora de vídeo HDMI  USB 2.0 Tarje](https://m.media-amazon.com/images/I/41ox1sGr2NL._SL200_.jpg)](https://www.amazon.es/dp/B08B4PXNSR/?tag=tolees-21)
+[![Capturadora de vídeo HDMI  USB 2.0 Tarje](https://m.media-amazon.com/images/I/41ox1sGr2NL._SL400_.jpg)](https://www.amazon.es/dp/B08B4PXNSR/?tag=tolees-21)
 
 🔎:
 

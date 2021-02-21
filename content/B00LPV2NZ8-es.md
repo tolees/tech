@@ -2,7 +2,7 @@
 layout: post
 title: 'iRobot 4419696 Xlife Batería original pa con un 17.67 % de descuento'
 date: 2020-06-24 00:56:35
-image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.33666666666666'
 
 En este momento está [iRobot 4419696 Xlife Batería original para el robot aspirador iRobot Roomba](https://www.amazon.es/dp/B00LPV2NZ8/?tag=tolees-21) a 74.09 EUR (original: 89.99 EUR) (17.67 %  de descuento) en el siguiente enlace!
 
-[![iRobot 4419696 Xlife Batería original pa](https://m.media-amazon.com/images/I/31THZNiFfVL._SL200_.jpg)](https://www.amazon.es/dp/B00LPV2NZ8/?tag=tolees-21)
+[![iRobot 4419696 Xlife Batería original pa](https://m.media-amazon.com/images/I/31THZNiFfVL._SL400_.jpg)](https://www.amazon.es/dp/B00LPV2NZ8/?tag=tolees-21)
 
 🔎:
 

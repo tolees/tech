@@ -2,7 +2,7 @@
 layout: post
 title: 'SJCAM SJ8 PRO - Cámara de acción 4 K/60F al 20.83 % de descuento'
 date: 2020-01-10 15:37:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iORo5x-GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iORo5x-GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '189.22'
 
 Está [SJCAM SJ8 PRO - Cámara de acción 4 K/60FPS WiFi para deportes  pantalla táctil de 2 3 pulgadas  lente gran angular de 170°  zoom digital EIS 8X  cámara impermeable  color negro](https://www.amazon.es/dp/B07FXK35M1/?tag=tolees-21) con 20.83 de descuento por 189.22 EUR (original: 239 EUR) en el siguiente enlace!
 
-[![SJCAM SJ8 PRO - Cámara de acción 4 K/60F](https://images-eu.ssl-images-amazon.com/images/I/41iORo5x-GL._SL200_.jpg)](https://www.amazon.es/dp/B07FXK35M1/?tag=tolees-21)
+[![SJCAM SJ8 PRO - Cámara de acción 4 K/60F](https://images-eu.ssl-images-amazon.com/images/I/41iORo5x-GL._SL400_.jpg)](https://www.amazon.es/dp/B07FXK35M1/?tag=tolees-21)
 
 ℹ️:
 

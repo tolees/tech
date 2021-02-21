@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.06 % en Fujifilm Instax Wide - Película fotográf'
 date: 2020-04-11 18:37:33
-image: 'https://m.media-amazon.com/images/I/41c3j0ip-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c3j0ip-WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.977142857142857'
 
 Tienes [Fujifilm Instax Wide - Película fotográfica instantánea de gran formato  2 x 10 hojas ](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21) con un 20.06 % de descuento con precio de oferta de 15.98 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Fujifilm Instax Wide - Película fotográf](https://m.media-amazon.com/images/I/41c3j0ip-WL._SL200_.jpg)](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21)
+[![Fujifilm Instax Wide - Película fotográf](https://m.media-amazon.com/images/I/41c3j0ip-WL._SL400_.jpg)](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21)
 
 ℹ️:
 

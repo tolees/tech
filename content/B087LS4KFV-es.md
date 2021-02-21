@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Silicona Funda con Sony Xperia 10 al 18.21 % de rebaja'
 date: 2020-05-17 16:35:56
-image: 'https://m.media-amazon.com/images/I/3188TkBfFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3188TkBfFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Oihxse Silicona Funda con Sony Xperia 10 TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  C6 ](https://www.amazon.es/dp/B087LS4KFV/?tag=tolees-21) con precio final de  8.98 EUR (original: 10.98 EUR) (18.21 %  de rebaja) aqui!
 
-[![Oihxse Silicona Funda con Sony Xperia 10](https://m.media-amazon.com/images/I/3188TkBfFHL._SL200_.jpg)](https://www.amazon.es/dp/B087LS4KFV/?tag=tolees-21)
+[![Oihxse Silicona Funda con Sony Xperia 10](https://m.media-amazon.com/images/I/3188TkBfFHL._SL400_.jpg)](https://www.amazon.es/dp/B087LS4KFV/?tag=tolees-21)
 
 🔎:
 

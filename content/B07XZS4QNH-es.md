@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Legion Y540 - Ordenador portátil  al 23.54 % de rebaja'
 date: 2020-03-13 13:17:58
-image: 'https://m.media-amazon.com/images/I/41MfpYTvsYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MfpYTvsYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1368.12125'
 
 Tienes [Lenovo Legion Y540 - Ordenador portátil Gaming de 15.6" Full HD  Intel Core i7-9750H  16GB de RAM  1TB HDD + 512GB SSD  Nvidia RTX2060-6GB  SinSO  Negro. Teclado QWERTY español](https://www.amazon.es/dp/B07XZS4QNH/?tag=tolees-21) con precio final de  1299.0 EUR (original: 1699.0 EUR) (23.54 %  de rebaja) aqui!
 
-[![Lenovo Legion Y540 - Ordenador portátil ](https://m.media-amazon.com/images/I/41MfpYTvsYL._SL200_.jpg)](https://www.amazon.es/dp/B07XZS4QNH/?tag=tolees-21)
+[![Lenovo Legion Y540 - Ordenador portátil ](https://m.media-amazon.com/images/I/41MfpYTvsYL._SL400_.jpg)](https://www.amazon.es/dp/B07XZS4QNH/?tag=tolees-21)
 
 🔎:
 

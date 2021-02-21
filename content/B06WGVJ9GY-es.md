@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyerdynamic MMX 300 - Auriculares de ga al 18.06 % de rebaja'
 date: 2020-05-25 19:33:16
-image: 'https://m.media-amazon.com/images/I/41iQDHQKxwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iQDHQKxwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '246.33333333333334'
 
 Tienes [Beyerdynamic MMX 300 - Auriculares de gamimg con micrófono  Segunda generación  Color Negro](https://www.amazon.es/dp/B06WGVJ9GY/?tag=tolees-21) con precio final de  245.0 EUR (original: 299.0 EUR) (18.06 %  de rebaja) aqui!
 
-[![Beyerdynamic MMX 300 - Auriculares de ga](https://m.media-amazon.com/images/I/41iQDHQKxwL._SL200_.jpg)](https://www.amazon.es/dp/B06WGVJ9GY/?tag=tolees-21)
+[![Beyerdynamic MMX 300 - Auriculares de ga](https://m.media-amazon.com/images/I/41iQDHQKxwL._SL400_.jpg)](https://www.amazon.es/dp/B06WGVJ9GY/?tag=tolees-21)
 
 🔎:
 

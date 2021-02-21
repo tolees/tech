@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo S540 - Ordenador portátil ultrafi con un 20.13 % de descuento'
 date: 2020-08-17 16:11:05
-image: 'https://m.media-amazon.com/images/I/51SFa1oaX7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SFa1oaX7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '599.0'
 
 En este momento está [Lenovo S540 - Ordenador portátil ultrafino 14" FullHD  Intel Core i5-8265U  12GB RAM  512GB SSD  Intel UHD Graphics  sin sistema operativo  Gris - Teclado QWERTY español](https://www.amazon.es/dp/B082PF3XH8/?tag=tolees-21) a 599.0 EUR (original: 749.99 EUR) (20.13 %  de descuento) en el siguiente enlace!
 
-[![Lenovo S540 - Ordenador portátil ultrafi](https://m.media-amazon.com/images/I/51SFa1oaX7L._SL200_.jpg)](https://www.amazon.es/dp/B082PF3XH8/?tag=tolees-21)
+[![Lenovo S540 - Ordenador portátil ultrafi](https://m.media-amazon.com/images/I/51SFa1oaX7L._SL400_.jpg)](https://www.amazon.es/dp/B082PF3XH8/?tag=tolees-21)
 
 🔎:
 

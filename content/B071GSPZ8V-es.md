@@ -2,7 +2,7 @@
 layout: post
 title: 'Xinda Huawei MediaPad T3 8.0 Funda - Ult con un 20.02 % de descuento'
 date: 2020-08-22 08:01:11
-image: 'https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.19'
 
 En este momento está [Xinda Huawei MediaPad T3 8.0 Funda - Ultra delgado ligero Smart carcasa con función atril para Huawei MediaPad T3 8.0 inch Tablet 2017 liberación](https://www.amazon.es/dp/B071GSPZ8V/?tag=tolees-21) a 7.19 EUR (original: 8.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
 
-[![Xinda Huawei MediaPad T3 8.0 Funda - Ult](https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL200_.jpg)](https://www.amazon.es/dp/B071GSPZ8V/?tag=tolees-21)
+[![Xinda Huawei MediaPad T3 8.0 Funda - Ult](https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL400_.jpg)](https://www.amazon.es/dp/B071GSPZ8V/?tag=tolees-21)
 
 🔎:
 

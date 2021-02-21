@@ -2,7 +2,7 @@
 layout: post
 title: 'Campark X20 Cámara Deportiva 4k Ultra HD al 20.72 % de descuento'
 date: 2020-07-23 06:26:56
-image: 'https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.21222222222224'
 
 Ahora mismo tienes [Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla Táctil EIS Anti-Vibración Control Remoto WiFi Camara Acuatica de 40M con 2 Baterías con Kit de Accesorios](https://www.amazon.es/dp/B07547TWLT/?tag=tolees-21) a 55.49 EUR (original: 69.99 EUR) (20.72 %  de descuento) en el siguiente enlace!
 
-[![Campark X20 Cámara Deportiva 4k Ultra HD](https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL200_.jpg)](https://www.amazon.es/dp/B07547TWLT/?tag=tolees-21)
+[![Campark X20 Cámara Deportiva 4k Ultra HD](https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL400_.jpg)](https://www.amazon.es/dp/B07547TWLT/?tag=tolees-21)
 
 🔎:
 

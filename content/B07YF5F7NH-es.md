@@ -2,7 +2,7 @@
 layout: post
 title: 'Microsoft Surface Arc - Ratón Azul al 23.34 % de descuento'
 date: 2020-06-21 13:42:40
-image: 'https://m.media-amazon.com/images/I/21EPlLUJTxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21EPlLUJTxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.99'
 
 Ahora mismo tienes [Microsoft Surface Arc - Ratón Azul](https://www.amazon.es/dp/B07YF5F7NH/?tag=tolees-21) a 68.99 EUR (original: 89.99 EUR) (23.34 %  de descuento) en el siguiente enlace!
 
-[![Microsoft Surface Arc - Ratón Azul](https://m.media-amazon.com/images/I/21EPlLUJTxL._SL200_.jpg)](https://www.amazon.es/dp/B07YF5F7NH/?tag=tolees-21)
+[![Microsoft Surface Arc - Ratón Azul](https://m.media-amazon.com/images/I/21EPlLUJTxL._SL400_.jpg)](https://www.amazon.es/dp/B07YF5F7NH/?tag=tolees-21)
 
 🔎:
 

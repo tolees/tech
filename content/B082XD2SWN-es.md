@@ -2,7 +2,7 @@
 layout: post
 title: 'yootech Adaptador USB C a USB 3.0 [4 Pac al 15.03 % de descuento'
 date: 2020-09-17 10:52:01
-image: 'https://m.media-amazon.com/images/I/41-Oa8hAILL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Oa8hAILL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Ahora mismo tienes [yootech Adaptador USB C a USB 3.0 [4 Pack]  OTG con Uso en Paralelo，Conector de tranferencia de Datos para Samsung  Huawei  MacBook Pro 2019/2018  ChromeBook Pixel y Otros Dispositivos con USB C-Gris](https://www.amazon.es/dp/B082XD2SWN/?tag=tolees-21) a 5.09 EUR (original: 5.99 EUR) (15.03 %  de descuento) en el siguiente enlace!
 
-[![yootech Adaptador USB C a USB 3.0 [4 Pac](https://m.media-amazon.com/images/I/41-Oa8hAILL._SL200_.jpg)](https://www.amazon.es/dp/B082XD2SWN/?tag=tolees-21)
+[![yootech Adaptador USB C a USB 3.0 [4 Pac](https://m.media-amazon.com/images/I/41-Oa8hAILL._SL400_.jpg)](https://www.amazon.es/dp/B082XD2SWN/?tag=tolees-21)
 
 🔎:
 

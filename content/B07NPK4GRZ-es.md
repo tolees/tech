@@ -2,7 +2,7 @@
 layout: post
 title: 'Jabra Elite Active 45e – Auriculares Dep al 20.09 % de rebaja'
 date: 2020-07-15 10:42:54
-image: 'https://m.media-amazon.com/images/I/31yPqwUuakL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yPqwUuakL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.82'
 
 Tienes [Jabra Elite Active 45e – Auriculares Deportivos Bluetooth con Protección Impermeable para Llamadas Inalámbricas y Música  Azul Marino](https://www.amazon.es/dp/B07NPK4GRZ/?tag=tolees-21) con precio final de  79.9 EUR (original: 99.99 EUR) (20.09 %  de rebaja) aqui!
 
-[![Jabra Elite Active 45e – Auriculares Dep](https://m.media-amazon.com/images/I/31yPqwUuakL._SL200_.jpg)](https://www.amazon.es/dp/B07NPK4GRZ/?tag=tolees-21)
+[![Jabra Elite Active 45e – Auriculares Dep](https://m.media-amazon.com/images/I/31yPqwUuakL._SL400_.jpg)](https://www.amazon.es/dp/B07NPK4GRZ/?tag=tolees-21)
 
 🔎:
 

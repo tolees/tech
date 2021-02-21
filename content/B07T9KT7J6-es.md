@@ -2,7 +2,7 @@
 layout: post
 title: 'Vieta Pro Upper - Altavoz portátil  Blue al 22.85 % de descuento'
 date: 2020-02-27 09:42:48
-image: 'https://m.media-amazon.com/images/I/41vZPLvWfpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vZPLvWfpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.15'
 
 Está [Vieta Pro Upper - Altavoz portátil  Bluetooth  Radio FM  micrófono integrado  True Wireless Dual pair  Reproductor USB  Lector de tarjeta Micro SD  Resistencia al agua IPX6  color gris](https://www.amazon.es/dp/B07T9KT7J6/?tag=tolees-21) con 22.85 de descuento por 50.15 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Vieta Pro Upper - Altavoz portátil  Blue](https://m.media-amazon.com/images/I/41vZPLvWfpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T9KT7J6/?tag=tolees-21)
+[![Vieta Pro Upper - Altavoz portátil  Blue](https://m.media-amazon.com/images/I/41vZPLvWfpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T9KT7J6/?tag=tolees-21)
 
 ℹ️:
 

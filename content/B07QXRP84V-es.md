@@ -2,7 +2,7 @@
 layout: post
 title: 'Ayete Ratón Inalámbrico Mini Ratón Inalá al 16.94 % de rebaja'
 date: 2020-06-07 08:30:55
-image: 'https://m.media-amazon.com/images/I/41F4U41nBgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F4U41nBgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.79'
 
 Tienes [Ayete Ratón Inalámbrico Mini Ratón Inalámbrico Ratón óptico Silencioso Click Ultra Delgado 1600 dpi para Computadora Portátil PC Portátil Computadora Mac  E1800Black ](https://www.amazon.es/dp/B07QXRP84V/?tag=tolees-21) con precio final de  10.79 EUR (original: 12.99 EUR) (16.94 %  de rebaja) aqui!
 
-[![Ayete Ratón Inalámbrico Mini Ratón Inalá](https://m.media-amazon.com/images/I/41F4U41nBgL._SL200_.jpg)](https://www.amazon.es/dp/B07QXRP84V/?tag=tolees-21)
+[![Ayete Ratón Inalámbrico Mini Ratón Inalá](https://m.media-amazon.com/images/I/41F4U41nBgL._SL400_.jpg)](https://www.amazon.es/dp/B07QXRP84V/?tag=tolees-21)
 
 🔎:
 

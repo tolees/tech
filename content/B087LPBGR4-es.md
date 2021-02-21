@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Silicona Funda con Samsung Galaxy al 18.21 % de rebaja'
 date: 2020-05-19 11:36:19
-image: 'https://m.media-amazon.com/images/I/41eUIuRmeAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eUIuRmeAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Oihxse Silicona Funda con Samsung Galaxy A20S TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  C9 ](https://www.amazon.es/dp/B087LPBGR4/?tag=tolees-21) con precio final de  8.98 EUR (original: 10.98 EUR) (18.21 %  de rebaja) aqui!
 
-[![Oihxse Silicona Funda con Samsung Galaxy](https://m.media-amazon.com/images/I/41eUIuRmeAL._SL200_.jpg)](https://www.amazon.es/dp/B087LPBGR4/?tag=tolees-21)
+[![Oihxse Silicona Funda con Samsung Galaxy](https://m.media-amazon.com/images/I/41eUIuRmeAL._SL400_.jpg)](https://www.amazon.es/dp/B087LPBGR4/?tag=tolees-21)
 
 🔎:
 

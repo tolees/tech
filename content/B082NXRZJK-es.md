@@ -2,7 +2,7 @@
 layout: post
 title: '[Actualizado] Proyector Full HD 1080p Na al 15.00 % de descuento'
 date: 2020-04-28 19:32:06
-image: 'https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '164.5614285714286'
 
 Ahora mismo tienes [[Actualizado] Proyector Full HD 1080p Nativo  Soporta 4K  5000 Lúmenes  ABOX LED Proyector  Resolución Nativa 1920 * 1080P  Proyector de Vídeo para Cine en Casa de 250"  Contraste 4000: 1  Modelo A6](https://www.amazon.es/dp/B082NXRZJK/?tag=tolees-21) a 135.99 EUR (original: 159.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
 
-[![[Actualizado] Proyector Full HD 1080p Na](https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL200_.jpg)](https://www.amazon.es/dp/B082NXRZJK/?tag=tolees-21)
+[![[Actualizado] Proyector Full HD 1080p Na](https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL400_.jpg)](https://www.amazon.es/dp/B082NXRZJK/?tag=tolees-21)
 
 🔎:
 

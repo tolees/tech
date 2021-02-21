@@ -2,7 +2,7 @@
 layout: post
 title: 'POWERAXIS Antena de TV  Antena Interior  con un 15.80 % de descuento'
 date: 2020-03-30 09:33:15
-image: 'https://m.media-amazon.com/images/I/41-ZSIOvmSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-ZSIOvmSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [POWERAXIS Antena de TV  Antena Interior HDTV  100 Millas Gama de Recepción  Amplificador de Señal Más Canales de TV Gratis  Soporte 4K 1080P HD VHF UHF y Antena de TV de Mayor Alcance](https://www.amazon.es/dp/B07T18FYC3/?tag=tolees-21) a 15.99 EUR (original: 18.99 EUR) (15.80 %  de descuento) en el siguiente enlace!
 
-[![POWERAXIS Antena de TV  Antena Interior ](https://m.media-amazon.com/images/I/41-ZSIOvmSL._SL200_.jpg)](https://www.amazon.es/dp/B07T18FYC3/?tag=tolees-21)
+[![POWERAXIS Antena de TV  Antena Interior ](https://m.media-amazon.com/images/I/41-ZSIOvmSL._SL400_.jpg)](https://www.amazon.es/dp/B07T18FYC3/?tag=tolees-21)
 
 🔎:
 

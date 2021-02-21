@@ -2,7 +2,7 @@
 layout: post
 title: 'Nikon 200-500 mm Lente para cámara de Fo al 20.21 % de rebaja'
 date: 2020-09-21 15:07:37
-image: 'https://m.media-amazon.com/images/I/41mejLLUl7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mejLLUl7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1208.0666666666666'
 
 Tienes [Nikon 200-500 mm Lente para cámara de Fotos](https://www.amazon.es/dp/B013D1BI9Y/?tag=tolees-21) con precio final de  1196.1 EUR (original: 1499.0 EUR) (20.21 %  de rebaja) aqui!
 
-[![Nikon 200-500 mm Lente para cámara de Fo](https://m.media-amazon.com/images/I/41mejLLUl7L._SL200_.jpg)](https://www.amazon.es/dp/B013D1BI9Y/?tag=tolees-21)
+[![Nikon 200-500 mm Lente para cámara de Fo](https://m.media-amazon.com/images/I/41mejLLUl7L._SL400_.jpg)](https://www.amazon.es/dp/B013D1BI9Y/?tag=tolees-21)
 
 🔎:
 

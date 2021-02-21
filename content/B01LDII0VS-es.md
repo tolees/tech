@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.50 % en Sony SEL50M28.SYX - Lente Prime Macro Mo'
 date: 2020-09-24 16:48:06
-image: 'https://m.media-amazon.com/images/I/31SYcct3zWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SYcct3zWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '551.4'
 
 Tienes [Sony SEL50M28.SYX - Lente Prime Macro Montura E de 55mm F2 8](https://www.amazon.es/dp/B01LDII0VS/?tag=tolees-21) con un 17.50 % de descuento con precio de oferta de 495.0 EUR (original: 600.0 EUR) en el siguiente enlace!
 
-[![Sony SEL50M28.SYX - Lente Prime Macro Mo](https://m.media-amazon.com/images/I/31SYcct3zWL._SL200_.jpg)](https://www.amazon.es/dp/B01LDII0VS/?tag=tolees-21)
+[![Sony SEL50M28.SYX - Lente Prime Macro Mo](https://m.media-amazon.com/images/I/31SYcct3zWL._SL400_.jpg)](https://www.amazon.es/dp/B01LDII0VS/?tag=tolees-21)
 
 ℹ️:
 

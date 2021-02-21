@@ -2,7 +2,7 @@
 layout: post
 title: 'Brother DR2300 - Tambor para Impresora   al 21.59 % de descuento'
 date: 2020-04-23 15:24:57
-image: 'https://m.media-amazon.com/images/I/51rGMgcvDpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rGMgcvDpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.95666666666666'
 
 Está [Brother DR2300 - Tambor para Impresora  Duración Estimada: 12.000 Páginas   Negro](https://www.amazon.es/dp/B00LTT16WC/?tag=tolees-21) con 21.59 de descuento por 68.99 EUR (original: 87.99 EUR) en el siguiente enlace!
 
-[![Brother DR2300 - Tambor para Impresora  ](https://m.media-amazon.com/images/I/51rGMgcvDpL._SL200_.jpg)](https://www.amazon.es/dp/B00LTT16WC/?tag=tolees-21)
+[![Brother DR2300 - Tambor para Impresora  ](https://m.media-amazon.com/images/I/51rGMgcvDpL._SL400_.jpg)](https://www.amazon.es/dp/B00LTT16WC/?tag=tolees-21)
 
 ℹ️:
 

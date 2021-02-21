@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Z24n G2 - Monitor profesional de 24”  con un 21.39 % de descuento'
 date: 2020-10-12 00:58:08
-image: 'https://m.media-amazon.com/images/I/414NCtHTVmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414NCtHTVmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '262.81499999999994'
 
 En este momento está [HP Z24n G2 - Monitor profesional de 24” ajustable en altura  WUXGA antireflejo; 1920 X 1200; IPS LED; 300 cd/m; 5ms; 99% sRGB; 8bits; 16:10; DVI-D; HDMI 1.4; DisplayPort 1.2  2 x USB-C; 2 x USB 3.0 ](https://www.amazon.es/dp/B078ZSMSBK/?tag=tolees-21) a 274.9 EUR (original: 349.69 EUR) (21.39 %  de descuento) en el siguiente enlace!
 
-[![HP Z24n G2 - Monitor profesional de 24” ](https://m.media-amazon.com/images/I/414NCtHTVmL._SL200_.jpg)](https://www.amazon.es/dp/B078ZSMSBK/?tag=tolees-21)
+[![HP Z24n G2 - Monitor profesional de 24” ](https://m.media-amazon.com/images/I/414NCtHTVmL._SL400_.jpg)](https://www.amazon.es/dp/B078ZSMSBK/?tag=tolees-21)
 
 🔎:
 

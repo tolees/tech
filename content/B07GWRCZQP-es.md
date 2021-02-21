@@ -2,7 +2,7 @@
 layout: post
 title: 'JBL Charge 4 - Altavoz inalámbrico portá al 15.00 % de descuento'
 date: 2020-06-01 07:26:57
-image: 'https://m.media-amazon.com/images/I/41JLvgDBg6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JLvgDBg6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.25'
 
 Ahora mismo tienes [JBL Charge 4 - Altavoz inalámbrico portátil Impermeable con Bluetooth  Color Azul](https://www.amazon.es/dp/B07GWRCZQP/?tag=tolees-21) a 106.25 EUR (original: 125.0 EUR) (15.00 %  de descuento) en el siguiente enlace!
 
-[![JBL Charge 4 - Altavoz inalámbrico portá](https://m.media-amazon.com/images/I/41JLvgDBg6L._SL200_.jpg)](https://www.amazon.es/dp/B07GWRCZQP/?tag=tolees-21)
+[![JBL Charge 4 - Altavoz inalámbrico portá](https://m.media-amazon.com/images/I/41JLvgDBg6L._SL400_.jpg)](https://www.amazon.es/dp/B07GWRCZQP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Newskill Serike Switch Blue - Teclado Me al 19.94 % de rebaja'
 date: 2020-03-11 08:40:50
-image: 'https://m.media-amazon.com/images/I/415oteQW20L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415oteQW20L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Tienes [Newskill Serike Switch Blue - Teclado Mecánico Gaming con Reposamuñecas Plegable Incluido  Teclas con grabación Macro  20 Modos de iluminación RGB  - Color Negro](https://www.amazon.es/dp/B081QFLCW4/?tag=tolees-21) con precio final de  39.99 EUR (original: 49.95 EUR) (19.94 %  de rebaja) aqui!
 
-[![Newskill Serike Switch Blue - Teclado Me](https://m.media-amazon.com/images/I/415oteQW20L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081QFLCW4/?tag=tolees-21)
+[![Newskill Serike Switch Blue - Teclado Me](https://m.media-amazon.com/images/I/415oteQW20L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081QFLCW4/?tag=tolees-21)
 
 🔎:
 

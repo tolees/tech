@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 18.89 % en TECKNET Alfombrilla de Ratón Apoyo de Ge'
 date: 2020-08-24 03:19:39
-image: 'https://m.media-amazon.com/images/I/41fVMt45E8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fVMt45E8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Tienes [TECKNET Alfombrilla de Ratón Apoyo de Gel  Cojín Alfombrilla de Ratón  Base de Goma no Deslizante  - Superficie Texturizada Impermeable](https://www.amazon.es/dp/B01A5NK6F0/?tag=tolees-21) con un 18.89 % de descuento con precio de oferta de 8.59 EUR (original: 10.59 EUR) en el siguiente enlace!
 
-[![TECKNET Alfombrilla de Ratón Apoyo de Ge](https://m.media-amazon.com/images/I/41fVMt45E8L._SL200_.jpg)](https://www.amazon.es/dp/B01A5NK6F0/?tag=tolees-21)
+[![TECKNET Alfombrilla de Ratón Apoyo de Ge](https://m.media-amazon.com/images/I/41fVMt45E8L._SL400_.jpg)](https://www.amazon.es/dp/B01A5NK6F0/?tag=tolees-21)
 
 ℹ️:
 

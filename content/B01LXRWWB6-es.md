@@ -2,7 +2,7 @@
 layout: post
 title: 'Seagate BarraCuda  2TB  Disco duro inter al 17.29 % de descuento'
 date: 2020-07-12 02:05:33
-image: 'https://m.media-amazon.com/images/I/41cxaDypHpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cxaDypHpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.6425'
 
 Está [Seagate BarraCuda  2TB  Disco duro interno  HDD  2 5 in  SATA 6 Gb/s  5400 r.p.m.  caché de 128 MB para ordenador portátil y PC  ST2000LM015 ](https://www.amazon.es/dp/B01LXRWWB6/?tag=tolees-21) con 17.29 de descuento por 78.86 EUR (original: 95.35 EUR) en el siguiente enlace!
 
-[![Seagate BarraCuda  2TB  Disco duro inter](https://m.media-amazon.com/images/I/41cxaDypHpL._SL200_.jpg)](https://www.amazon.es/dp/B01LXRWWB6/?tag=tolees-21)
+[![Seagate BarraCuda  2TB  Disco duro inter](https://m.media-amazon.com/images/I/41cxaDypHpL._SL400_.jpg)](https://www.amazon.es/dp/B01LXRWWB6/?tag=tolees-21)
 
 ℹ️:
 

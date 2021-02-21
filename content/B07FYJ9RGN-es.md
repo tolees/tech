@@ -2,7 +2,7 @@
 layout: post
 title: 'Adaptador Cargador Compatible para Portá al 19.61 % de rebaja'
 date: 2020-09-20 09:45:43
-image: 'https://m.media-amazon.com/images/I/51Pj87jQp2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pj87jQp2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.79'
 
 Tienes [Adaptador Cargador Compatible para Portátil ASUS Comp. 65w F540LA F540L 19v 3 42a 4.0mm * 1.35mm // Protección contra Cortocircuitos  sobrecorriente](https://www.amazon.es/dp/B07FYJ9RGN/?tag=tolees-21) con precio final de  12.79 EUR (original: 15.91 EUR) (19.61 %  de rebaja) aqui!
 
-[![Adaptador Cargador Compatible para Portá](https://m.media-amazon.com/images/I/51Pj87jQp2L._SL200_.jpg)](https://www.amazon.es/dp/B07FYJ9RGN/?tag=tolees-21)
+[![Adaptador Cargador Compatible para Portá](https://m.media-amazon.com/images/I/51Pj87jQp2L._SL400_.jpg)](https://www.amazon.es/dp/B07FYJ9RGN/?tag=tolees-21)
 
 🔎:
 

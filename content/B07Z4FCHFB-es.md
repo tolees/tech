@@ -2,7 +2,7 @@
 layout: post
 title: 'KATUMO Funda para iPad 10.2 2019 / iPad  al 23.87 % de rebaja'
 date: 2020-10-03 08:26:05
-image: 'https://m.media-amazon.com/images/I/41BH5As2gsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BH5As2gsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.65'
 
 Tienes [KATUMO Funda para iPad 10.2 2019 / iPad 7th Generation Carcasa Auto-Sueño/Estela Ultra Delgado Protectora Cover Case para Apple iPad 10.2 Pulgadas](https://www.amazon.es/dp/B07Z4FCHFB/?tag=tolees-21) con precio final de  10.65 EUR (original: 13.99 EUR) (23.87 %  de rebaja) aqui!
 
-[![KATUMO Funda para iPad 10.2 2019 / iPad ](https://m.media-amazon.com/images/I/41BH5As2gsL._SL200_.jpg)](https://www.amazon.es/dp/B07Z4FCHFB/?tag=tolees-21)
+[![KATUMO Funda para iPad 10.2 2019 / iPad ](https://m.media-amazon.com/images/I/41BH5As2gsL._SL400_.jpg)](https://www.amazon.es/dp/B07Z4FCHFB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Netgear EX7300 Repetidor WiFi Mesh AC220 con un 20.09 % de descuento'
 date: 2020-02-24 13:31:29
-image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '78.4'
 
 En este momento está [Netgear EX7300 Repetidor WiFi Mesh AC2200  Amplificador WiFi Doble Banda  Velocidad de hasta 2200 Mbps  puerto lan Gigabit  Compatibilidad Universal](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21) a 79.9 EUR (original: 99.99 EUR) (20.09 %  de descuento) en el siguiente enlace!
 
-[![Netgear EX7300 Repetidor WiFi Mesh AC220](https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21)
+[![Netgear EX7300 Repetidor WiFi Mesh AC220](https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21)
 
 🔎:
 

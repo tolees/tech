@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.03 % en Sunstech PXRC5CDWD - Giradiscos  Bluetoo'
 date: 2020-01-11 06:24:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51194fZPEpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51194fZPEpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '123.14'
 
 Tienes [Sunstech PXRC5CDWD - Giradiscos  Bluetooth  CD  Cassette  Encoding  USB  SD  MMC  AM  FM  color madera](https://www.amazon.es/dp/B01IQ0MPBC/?tag=tolees-21) con un 23.03 % de descuento con precio de oferta de 123.14 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![Sunstech PXRC5CDWD - Giradiscos  Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/51194fZPEpL._SL200_.jpg)](https://www.amazon.es/dp/B01IQ0MPBC/?tag=tolees-21)
+[![Sunstech PXRC5CDWD - Giradiscos  Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/51194fZPEpL._SL400_.jpg)](https://www.amazon.es/dp/B01IQ0MPBC/?tag=tolees-21)
 
 ℹ️:
 

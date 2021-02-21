@@ -2,7 +2,7 @@
 layout: post
 title: 'AKG K240 Studio - Semi Open - Auriculare al 15.52 % de descuento'
 date: 2020-10-01 10:35:52
-image: 'https://m.media-amazon.com/images/I/41Wg0qUZazL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wg0qUZazL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.169999999999995'
 
 Está [AKG K240 Studio - Semi Open - Auriculares profesionales  6.00 x 9.20 x 6.00 pulgadas  negro](https://www.amazon.es/dp/B0001ARCFA/?tag=tolees-21) con 15.52 de descuento por 49.0 EUR (original: 58.0 EUR) en el siguiente enlace!
 
-[![AKG K240 Studio - Semi Open - Auriculare](https://m.media-amazon.com/images/I/41Wg0qUZazL._SL200_.jpg)](https://www.amazon.es/dp/B0001ARCFA/?tag=tolees-21)
+[![AKG K240 Studio - Semi Open - Auriculare](https://m.media-amazon.com/images/I/41Wg0qUZazL._SL400_.jpg)](https://www.amazon.es/dp/B0001ARCFA/?tag=tolees-21)
 
 ℹ️:
 

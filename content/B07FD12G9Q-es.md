@@ -2,7 +2,7 @@
 layout: post
 title: 'Auriculares XIAOMI IN-Ear Headphone Pro  al 20.16 % de rebaja'
 date: 2020-01-26 04:34:10
-image: 'https://m.media-amazon.com/images/I/31R4hH8PdZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R4hH8PdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.88'
 
 Tienes [Auriculares XIAOMI IN-Ear Headphone Pro 2 Black](https://www.amazon.es/dp/B07FD12G9Q/?tag=tolees-21) con precio final de  19.88 EUR (original: 24.9 EUR) (20.16 %  de rebaja) aqui!
 
-[![Auriculares XIAOMI IN-Ear Headphone Pro ](https://m.media-amazon.com/images/I/31R4hH8PdZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FD12G9Q/?tag=tolees-21)
+[![Auriculares XIAOMI IN-Ear Headphone Pro ](https://m.media-amazon.com/images/I/31R4hH8PdZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FD12G9Q/?tag=tolees-21)
 
 🔎:
 

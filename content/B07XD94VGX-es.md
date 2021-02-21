@@ -2,7 +2,7 @@
 layout: post
 title: 'Teclado y Raton Inalambrico Español  Ted al 15.01 % de rebaja'
 date: 2020-09-05 08:15:53
-image: 'https://m.media-amazon.com/images/I/41zEtIA7CLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zEtIA7CLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.78125'
 
 Tienes [Teclado y Raton Inalambrico Español  TedGem 2.4G Teclado Inalambrico USB Teclado Raton Inalambrico PC Ergonómico Teclado Inalambrico PC con 105 Tecla para Windows 7/8/10/2000 / XP/Vista/Mac OS  Negro ](https://www.amazon.es/dp/B07XD94VGX/?tag=tolees-21) con precio final de  19.54 EUR (original: 22.99 EUR) (15.01 %  de rebaja) aqui!
 
-[![Teclado y Raton Inalambrico Español  Ted](https://m.media-amazon.com/images/I/41zEtIA7CLL._SL200_.jpg)](https://www.amazon.es/dp/B07XD94VGX/?tag=tolees-21)
+[![Teclado y Raton Inalambrico Español  Ted](https://m.media-amazon.com/images/I/41zEtIA7CLL._SL400_.jpg)](https://www.amazon.es/dp/B07XD94VGX/?tag=tolees-21)
 
 🔎:
 

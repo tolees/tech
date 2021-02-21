@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 23.54 % en HP - Ratón Inalámbrico HP 200 con Perfil'
 date: 2020-10-12 14:02:14
-image: 'https://m.media-amazon.com/images/I/31A6nFk1tqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A6nFk1tqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.81'
 
 Tienes [HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Plateado](https://www.amazon.es/dp/B00HCYTRCY/?tag=tolees-21) con un 23.54 % de descuento con precio de oferta de 12.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![HP - Ratón Inalámbrico HP 200 con Perfil](https://m.media-amazon.com/images/I/31A6nFk1tqL._SL200_.jpg)](https://www.amazon.es/dp/B00HCYTRCY/?tag=tolees-21)
+[![HP - Ratón Inalámbrico HP 200 con Perfil](https://m.media-amazon.com/images/I/31A6nFk1tqL._SL400_.jpg)](https://www.amazon.es/dp/B00HCYTRCY/?tag=tolees-21)
 
 ℹ️:
 

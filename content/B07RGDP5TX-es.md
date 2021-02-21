@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 20.01 % en Funda cartera Huawei P30 con una solapa '
 date: 2020-05-01 14:21:19
-image: 'https://m.media-amazon.com/images/I/51DnCDAccpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DnCDAccpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Tienes [Funda cartera Huawei P30 con una solapa para llevar tarjeta de credito y dinero  Azul](https://www.amazon.es/dp/B07RGDP5TX/?tag=tolees-21) con un 20.01 % de descuento con precio de oferta de 15.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Funda cartera Huawei P30 con una solapa ](https://m.media-amazon.com/images/I/51DnCDAccpL._SL200_.jpg)](https://www.amazon.es/dp/B07RGDP5TX/?tag=tolees-21)
+[![Funda cartera Huawei P30 con una solapa ](https://m.media-amazon.com/images/I/51DnCDAccpL._SL400_.jpg)](https://www.amazon.es/dp/B07RGDP5TX/?tag=tolees-21)
 
 ℹ️:
 

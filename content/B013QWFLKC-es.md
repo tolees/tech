@@ -2,7 +2,7 @@
 layout: post
 title: 'Olympus OM-D E-M10 Mark-II - Cámara EVIL con un 17.28 % de descuento'
 date: 2020-02-26 09:34:01
-image: 'https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '727.2733333333333'
 
 En este momento está [Olympus OM-D E-M10 Mark-II - Cámara EVIL de 16.1 MP  pantalla 3"  estabilizador óptico  vídeo Full HD  WiFi  kit cámara 14-42mm con objetivo 40-150mm   Negro](https://www.amazon.es/dp/B013QWFLKC/?tag=tolees-21) a 744.45 EUR (original: 899.99 EUR) (17.28 %  de descuento) en el siguiente enlace!
 
-[![Olympus OM-D E-M10 Mark-II - Cámara EVIL](https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013QWFLKC/?tag=tolees-21)
+[![Olympus OM-D E-M10 Mark-II - Cámara EVIL](https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B013QWFLKC/?tag=tolees-21)
 
 🔎:
 

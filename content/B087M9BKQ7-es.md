@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Silicona Funda con Huawei P40 Pro al 18.21 % de descuento'
 date: 2020-05-31 16:22:27
-image: 'https://m.media-amazon.com/images/I/41IJpEHn3yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IJpEHn3yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Ahora mismo tienes [Oihxse Silicona Funda con Huawei P40 Pro TPU Flexible Suave Transparente Protector Estuche Airbag Esquinas Reforzadas Ultra-Delgado Elefante Patrón Anti-Choque Caso  D5 ](https://www.amazon.es/dp/B087M9BKQ7/?tag=tolees-21) a 8.98 EUR (original: 10.98 EUR) (18.21 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Silicona Funda con Huawei P40 Pro](https://m.media-amazon.com/images/I/41IJpEHn3yL._SL200_.jpg)](https://www.amazon.es/dp/B087M9BKQ7/?tag=tolees-21)
+[![Oihxse Silicona Funda con Huawei P40 Pro](https://m.media-amazon.com/images/I/41IJpEHn3yL._SL400_.jpg)](https://www.amazon.es/dp/B087M9BKQ7/?tag=tolees-21)
 
 🔎:
 

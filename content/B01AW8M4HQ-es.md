@@ -2,7 +2,7 @@
 layout: post
 title: 'Fujifilm X-A5 Kit con ópticas Fujinon XC al 15.03 % de rebaja'
 date: 2020-03-05 21:04:51
-image: 'https://m.media-amazon.com/images/I/41Z0semHz9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z0semHz9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '444.63'
 
 Tienes [Fujifilm X-A5 Kit con ópticas Fujinon XC15-45mm + XC50-230mm  Color marrón](https://www.amazon.es/dp/B01AW8M4HQ/?tag=tolees-21) con precio final de  444.63 EUR (original: 523.29 EUR) (15.03 %  de rebaja) aqui!
 
-[![Fujifilm X-A5 Kit con ópticas Fujinon XC](https://m.media-amazon.com/images/I/41Z0semHz9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AW8M4HQ/?tag=tolees-21)
+[![Fujifilm X-A5 Kit con ópticas Fujinon XC](https://m.media-amazon.com/images/I/41Z0semHz9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01AW8M4HQ/?tag=tolees-21)
 
 🔎:
 

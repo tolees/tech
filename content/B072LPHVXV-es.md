@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX HX-MPFS-M Fury S Pro - Alfombrill al 17.34 % de descuento'
 date: 2020-06-14 09:15:58
-image: 'https://m.media-amazon.com/images/I/31BNbaEs1vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BNbaEs1vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.523333333333333'
 
 Ahora mismo tienes [HyperX HX-MPFS-M Fury S Pro - Alfombrilla de ratón para Gaming  tamaño M  36cm x 30cm ](https://www.amazon.es/dp/B072LPHVXV/?tag=tolees-21) a 12.39 EUR (original: 14.99 EUR) (17.34 %  de descuento) en el siguiente enlace!
 
-[![HyperX HX-MPFS-M Fury S Pro - Alfombrill](https://m.media-amazon.com/images/I/31BNbaEs1vL._SL200_.jpg)](https://www.amazon.es/dp/B072LPHVXV/?tag=tolees-21)
+[![HyperX HX-MPFS-M Fury S Pro - Alfombrill](https://m.media-amazon.com/images/I/31BNbaEs1vL._SL400_.jpg)](https://www.amazon.es/dp/B072LPHVXV/?tag=tolees-21)
 
 🔎:
 

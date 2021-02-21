@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 22.22 % en Garmin Vívofit Jr. 2 - Monitor de activi'
 date: 2020-06-29 06:45:45
-image: 'https://m.media-amazon.com/images/I/41UkmVhCY2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UkmVhCY2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.49'
 
 Tienes [Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Star Wars - The Resistance  Edad 6+](https://www.amazon.es/dp/B07575RRNH/?tag=tolees-21) con un 22.22 % de descuento con precio de oferta de 69.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Garmin Vívofit Jr. 2 - Monitor de activi](https://m.media-amazon.com/images/I/41UkmVhCY2L._SL200_.jpg)](https://www.amazon.es/dp/B07575RRNH/?tag=tolees-21)
+[![Garmin Vívofit Jr. 2 - Monitor de activi](https://m.media-amazon.com/images/I/41UkmVhCY2L._SL400_.jpg)](https://www.amazon.es/dp/B07575RRNH/?tag=tolees-21)
 
 ℹ️:
 

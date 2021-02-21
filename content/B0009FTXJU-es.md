@@ -2,7 +2,7 @@
 layout: post
 title: 'Canon EW-73B - Parasol para Objetivos Ca al 15.56 % de rebaja'
 date: 2020-04-21 09:37:25
-image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 Tienes [Canon EW-73B - Parasol para Objetivos Canon EF-S  Negro](https://www.amazon.es/dp/B0009FTXJU/?tag=tolees-21) con precio final de  30.99 EUR (original: 36.7 EUR) (15.56 %  de rebaja) aqui!
 
-[![Canon EW-73B - Parasol para Objetivos Ca](https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg)](https://www.amazon.es/dp/B0009FTXJU/?tag=tolees-21)
+[![Canon EW-73B - Parasol para Objetivos Ca](https://m.media-amazon.com/images/I/31POXFEMExL._SL400_.jpg)](https://www.amazon.es/dp/B0009FTXJU/?tag=tolees-21)
 
 🔎:
 
