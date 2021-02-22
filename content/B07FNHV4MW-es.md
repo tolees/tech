@@ -28,11 +28,11 @@ Tienes [Logitech MX Vertical Ratón Inalámbrico Ergonómico  Multi-Ordenador  2
 
 🔎:
 
-- Posición de sujeción natural, este ratón vertical se ha diseñado y probado con los criterios establecidos por expertos ergonomistas para óptimizar la postura y reducir la tensión muscular
-- Forma cómoda y superficie texturizada: Logitech MX Vertical tiene una forma ergonómica pensada para la mano humana y es suave al tacto
-- Compatibilidad: Windows 8, Windows 10 o posteriores, macOS 10.13 o posteriores, iPadOS 13.1 o posteriores 5, Linux
 - Compatibilidad con Easy-Switch y Flow: puedes emparejar hasta tres dispositivos y alternar el uso entre ellos con sólo pulsar un botón o mover el cursor de una pantalla a otra con Logitech Flow
 - Ángulo Vertical de 57° que óptimiza Postura: Logitech MX Vertical cuenta con un ángulo vertical de 57° del ratón que reduce la presión en la muñeca para trabajar con su ordenador
+- Compatibilidad: Windows 8, Windows 10 o posteriores, macOS 10.13 o posteriores, iPadOS 13.1 o posteriores 5, Linux
 - Rendimiento óptimo: el sensor de hasta 4000 dpi de precisión reduce hasta cuatro veces el movimiento de la mano y la fatiga
+- Posición de sujeción natural, este ratón vertical se ha diseñado y probado con los criterios establecidos por expertos ergonomistas para óptimizar la postura y reducir la tensión muscular
+- Forma cómoda y superficie texturizada: Logitech MX Vertical tiene una forma ergonómica pensada para la mano humana y es suave al tacto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FNHV4MW/?tag=tolees-21)
