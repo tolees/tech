@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR Punto de acceso WiFi WAX214  vel al 20.00 % de descuento'
-date: 2021-02-22 07:16:21
+date: 2021-02-23 08:43:47
 image: 'https://m.media-amazon.com/images/I/21FuXUwiIaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [NETGEAR Punto de acceso WiFi WAX214  velocidad WiFi AX1800 d
 
 🔎:
 
-- Compacto y asequible - Es adecuado para tiendas comerciales, vestíbulos y salas de espera de oficinas, consultas médicas y otros profesionales, entre otros; fácil instalación en techo o en pared
-- Fácil manejo - construido para una fácil instalación y asistente de configuración; sin cables complicados, sin instalación profesional, ni costes añadidos de equipos informáticos
 - El WAX214 puede ser alimentado por PoE o un adaptador de corriente; un (1) puerto Ethernet 10/100/1000 Mbps (RJ-45) PoE con Auto Uplink (Auto MDI-X)
-- Ultímate WIFI 6 rendimiento y cobertura - Obtenga cobertura inalámbrica para ubicaciones orientadas al cliente con velocidad PoE AX1800 (banda doble de hasta 600 + 1200 Mbps)
 - Compatibilidad y preparado para el futuro - Wifi 6 (802.11ax) es compatible con dispositivos WiFi 5 (802.11ac) y de generación anterior
+- Compacto y asequible - Es adecuado para tiendas comerciales, vestíbulos y salas de espera de oficinas, consultas médicas y otros profesionales, entre otros; fácil instalación en techo o en pared
+- Ultímate WIFI 6 rendimiento y cobertura - Obtenga cobertura inalámbrica para ubicaciones orientadas al cliente con velocidad PoE AX1800 (banda doble de hasta 600 + 1200 Mbps)
+- Fácil manejo - construido para una fácil instalación y asistente de configuración; sin cables complicados, sin instalación profesional, ni costes añadidos de equipos informáticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NSM2GBJ/?tag=tolees-21)
