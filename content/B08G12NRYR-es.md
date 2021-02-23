@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Mini Proyector VicTsing Proyector WiFi 6 al 15.00 % de descuento'
-date: 2021-02-06 23:55:12
-image: 'https://m.media-amazon.com/images/I/51sP1FKzV8L._SL200_.jpg'
+title: 'Mini Proyector VicTsing Proyector WiFi 6 al 18.17 % de descuento'
+date: 2021-02-23 20:09:25
+image: 'https://m.media-amazon.com/images/I/51sP1FKzV8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08G12NRYR-es Mini Proyector VicTsing Proyector WiFi 6000 Lúmenes Mini...'
 sku: 'B08G12NRYR-es'
 tags: [ 'wifi','full','hd', ]
-actualPrice: 93.49 EUR
+actualPrice: 90.0 EUR
 currency: EUR
-price: 93.49
+price: 90.0
 comparePrice: 109.99 EUR
 prodname: 'Mini Proyector VicTsing Proyector WiFi 6000 Lúmenes Mini Proyector Portátil de Native 720P Soporta Full HD Pantalla Táctil 80000Horas TV Stick/Smartphone/PC/iPad/Chromecast/PS4/USB/IOS/Android/DVD'
 country: 'es'
 flag: '🇪🇸'
 brand: 'VicTsing'
 buyurl: 'https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21'
-descuento: '15.00'
-average: '99.7425773195875'
+descuento: '18.17'
+average: '101.068803418803'
 ---
 
-Ahora mismo tienes [Mini Proyector VicTsing Proyector WiFi 6000 Lúmenes Mini Proyector Portátil de Native 720P Soporta Full HD Pantalla Táctil 80000Horas TV Stick/Smartphone/PC/iPad/Chromecast/PS4/USB/IOS/Android/DVD](https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21) a 93.49 EUR (original: 109.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mini Proyector VicTsing Proyector WiFi 6000 Lúmenes Mini Proyector Portátil de Native 720P Soporta Full HD Pantalla Táctil 80000Horas TV Stick/Smartphone/PC/iPad/Chromecast/PS4/USB/IOS/Android/DVD](https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21) a 90.0 EUR (original: 109.99 EUR) (18.17 %  de descuento) en el siguiente enlace!
 
-[![Mini Proyector VicTsing Proyector WiFi 6](https://m.media-amazon.com/images/I/51sP1FKzV8L._SL200_.jpg)](https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21)
+[![Mini Proyector VicTsing Proyector WiFi 6](https://m.media-amazon.com/images/I/51sP1FKzV8L._SL400_.jpg)](https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21)
 
 🔎:
 
-- 💝【Pantalla táctil de alta tecnología】El pequeño proyector utiliza una pantalla táctil en lugar de pequeños botones en la parte superior. Este diseño hace que el proyector se vea más ordenado, más moderno y de mayor calidad que otros proyectores, y sus íconos de control táctil se volverán más brillantes durante el uso, lo que lo hace más fácil y conveniente de usar en la oscuridad.
-- 💝【Tu cine en casa móvil】El mini proyector portátil pesa solo 2.64 libras, admite una distancia de proyección de 1.75 metros a 5 metros y se puede llevar a cualquier lugar para construir un cine en casa. Con un tamaño de imagen de 0,75 a 3 metros, utilizando la función de zoom, puede reducir la imagen entre un 100% y un 50%. El mini proyector portátil es una opción firme para reuniones familiares, camping, karaoke y fiestas de cumpleaños.
-- 💝【Sonido envolvente estéreo envolvente】VicTsing mini proyector WiFi tiene dos altavoces estéreo HiFi de 5W con sistema de sonido SRS, que puede proporcionar sonido envolvente estéreo como si estuviera en una sala de cine, lo que le permite disfrutar de películas. También puede conectarlo a altavoces externos, auriculares u otros dispositivos de audio para lograr el mejor efecto de visualización.
-- 💝【Imagen de película súper clara】El proyector de vídeo VicTsing es un verdadero proyector de resolución nativa 720P que admite vídeo Full HD 1080P. Tiene 6000 lúmenes, contraste de imagen 7500:1, 100% restauración de imágenes de película y colores, texto claro sin píxeles. Tiene buena intensidad lumínica, tanto en condiciones oscuras como en habitaciones con un poco más de luz.
-- 💝【2 pasos para compartir pantalla】El proyector VicTsing WiFi admite proyección con cable e inalámbrica. A través de la conexión WIFI, solo se necesitan 2 pasos para proyectar la pantalla del dispositivo del sistema iOS/Android/Windows 10/Mac a la pared o cortina y deshacerse del cable. Fáciles e instantáneas.
+- 💝【85% más brillante que un proyector similar】Este es un excelente mini beamer con una resolución de 1280x720P,que puede emitir 6000 lúmenes de luz,imágenes muy claras,colores brillantes y una relación de contraste equilibrada de 7500:1.VicTsing proyector WiFi son 80% más brillantes que el proyector normal,pueden producir un sonido claro y tienen efectos envolventes estéreo.También puede conectarlo a altavoces externos,auriculares u otros dispositivos de audio según sea necesario.
+- 💝【Ajuste el tamaño de la pantalla como desee】Este mini proyector protatil admite un rango de proyección de 2 a 5 m y puede proyectar un tamaño de imagen de 0,75 a 3 m.También puede ajustar el enfoque y la inclinación vertical (±15°) para asegurarse de que puede obtener el mejor efecto de proyección sin importar cómo utilice el mini proyector wifi VicTsing.
+- 💝【Iseño único de la pantalla táctil】El exquisito diseño y la pantalla táctil hacen que todo el Mini proyector sea más elegante.En comparación con el mini proyector anterior,es más atractivo en apariencia y modernidad, compacidad!Mientras está en uso,el icono de control táctil del mini proyector se ilumina para que pueda usarlo fácilmente en la oscuridad.El sonido del ventilador es muy tranquilo y no te molesta al ver una movie.
+- 💝【Pequeño proyector portátil WiFi 】Proyector portátil WiFi que proporciona el máximo rendimiento a un precio asequible. La operatividad del proyector también es muy buena, se puede instalar en cada mochila pequeña, la bolsa en el ámbito de entrega también es muy práctico, puede proteger el proyector de daños, muy adecuado para el uso móvil.
+- 💝【Sincronización de pantalla inalámbrica】VicTsing proyector wifi también proporciona sincronización de pantalla inalámbrica y capacidades de proyección,eliminando la necesidad de un adaptador adicional para la sincronización de pantalla. El proyector wifi es compatible con cualquier pc con TV,PS4,X-Box,iOS o smartphone Android.Usted puede disfrutar de películas de alta calidad en casa con amigos y familiares.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G12NRYR/?tag=tolees-21)
