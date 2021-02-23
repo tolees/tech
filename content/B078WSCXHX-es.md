@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Sony UBP-X700B  Reproductor de BLU-Ray 4 con un 20.45 % de descuento'
-date: 2021-02-09 22:59:15
-image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
+title: 'Sony UBP-X700B  Reproductor de BLU-Ray 4 con un 20.46 % de descuento'
+date: 2021-02-23 04:40:25
+image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078WSCXHX-es Sony UBP-X700B Reproductor de BLU-Ray 4K UHD Dolby Vision...'
 sku: 'B078WSCXHX-es'
 tags: [ 'sony', ]
-actualPrice: 175.0 EUR
+actualPrice: 174.99 EUR
 currency: EUR
-price: 175.0
+price: 174.99
 comparePrice: 220.0 EUR
 prodname: 'Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Vision  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21'
-descuento: '20.45'
-average: '178.479'
+descuento: '20.46'
+average: '178.433092105263'
 ---
 
-En este momento está [Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Vision  Negro](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21) a 175.0 EUR (original: 220.0 EUR) (20.45 %  de descuento) en el siguiente enlace!
+En este momento está [Sony UBP-X700B  Reproductor de BLU-Ray 4K UHD  Dolby Vision  Negro](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21) a 174.99 EUR (original: 220.0 EUR) (20.46 %  de descuento) en el siguiente enlace!
 
-[![Sony UBP-X700B  Reproductor de BLU-Ray 4](https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg)](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21)
+[![Sony UBP-X700B  Reproductor de BLU-Ray 4](https://m.media-amazon.com/images/I/21pokmSsDNL._SL400_.jpg)](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21)
 
 🔎:
 
-- Claridad visual del Blu-ray 4K Ultra HD
-- Escucha música en múltiples formatos
+- Salidas HDMI duales para separar audio y vídeo
 - Reproduce la mayoría de discos y formatos de archivo
 - Dimensiones del producto: 21.7 x 32 x 4.5 cm
-- Salidas HDMI duales para separar audio y vídeo
+- Escucha música en múltiples formatos
+- Claridad visual del Blu-ray 4K Ultra HD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WSCXHX/?tag=tolees-21)
