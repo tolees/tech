@@ -28,10 +28,10 @@ Está [MSI Modern 15 A11SB-011ES - Ordenador portátil de 15.6" FHD  Intel Core 
 
 ℹ️:
 
-- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
-- Sistema operativo Windows10 Home Plus
 - Tarjeta gráfica NVIDIA GeForce MX450, 2 GB GDDR5
-- Memoria RAM DDR IV 16 GB (3200 MHz)
 - Disco SSD de 1 TB NVMe PCIe Gen3x4
+- Sistema operativo Windows10 Home Plus
+- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
+- Memoria RAM DDR IV 16 GB (3200 MHz)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LG6HXGJ/?tag=tolees-21)
