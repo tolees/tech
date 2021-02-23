@@ -28,10 +28,10 @@ Tienes [Gigaset AS470 Trio - Teléfono  Teléfono DECT  Terminal inalámbrico  A
 
 🔎:
 
-- Compatible con caja de adsl
-- Diseñado y fabricado en Alemania
-- Pantalla ultra legible
 - Manos libres sonido hsp. Resolución: 96 x 64 píxeles
+- Diseñado y fabricado en Alemania
+- Compatible con caja de adsl
+- Pantalla ultra legible
 - Agenda de hasta 100 contactos
 - Bloqueo de llamadas. Combino: 155 x 49 x 34 mm
 
