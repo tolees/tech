@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sony PSN Plus - Tarjeta para 365 días  R al 16.42 % de rebaja'
-date: 2021-02-20 11:06:08
-image: 'https://m.media-amazon.com/images/I/31GMuqUQOEL._SL200_.jpg'
+date: 2021-02-23 10:19:10
+image: 'https://m.media-amazon.com/images/I/31GMuqUQOEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21'
 descuento: '16.42'
-average: '55.0901923076923'
+average: '55.101582278481'
 ---
 
 Tienes [Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21) con precio final de  55.99 EUR (original: 66.99 EUR) (16.42 %  de rebaja) aqui!
 
-[![Sony PSN Plus - Tarjeta para 365 días  R](https://m.media-amazon.com/images/I/31GMuqUQOEL._SL200_.jpg)](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
+[![Sony PSN Plus - Tarjeta para 365 días  R](https://m.media-amazon.com/images/I/31GMuqUQOEL._SL400_.jpg)](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
 
 🔎:
 
-- Disponible con almacenamiento online
 - Tipo de producto: tarjeta de Sony
-- Este producto sólo contiene contenido digital
-- Disfruta de las mejores condiciones para jugar
 - Plataforma recomendada: PlayStation 4
+- Disfruta de las mejores condiciones para jugar
+- Disponible con almacenamiento online
+- Este producto sólo contiene contenido digital
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
