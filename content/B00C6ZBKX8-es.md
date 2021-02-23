@@ -29,9 +29,9 @@ En este momento está [Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DV
 🔎:
 
 - Señal de vídeo analógica: NTSC, PAL
-- Dimensión de la pantalla: 2.4 pulgadas
 - Reproduce contenidos mediante USB
-- Reproducción de DVD/CD multiformato
+- Dimensión de la pantalla: 2.4 pulgadas
 - Longitud focal mínima: 35 mm
+- Reproducción de DVD/CD multiformato
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21)
