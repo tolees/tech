@@ -28,9 +28,9 @@ Tienes [JBL Charge 4 - Altavoz inalámbrico portátil con Bluetooth  resistente 
 
 ℹ️:
 
-- Conecte sobre 100 JBL altavoz con JBL Connect +
-- Tiempo de juego de hasta 20 horas con una batería de ion de litio 7800 mAh fuerte (Power Bank)
 - Resistente al agua de acuerdo con clase de protección ipx24
+- Tiempo de juego de hasta 20 horas con una batería de ion de litio 7800 mAh fuerte (Power Bank)
+- Conecte sobre 100 JBL altavoz con JBL Connect +
 - Contenido del envío: 1x JBL Altavoz Charge 4 Inalámbrico Portátil color azul / JBL Connect+: sincroniza más de 100 altavoces al mismo tiempo
 - Conecte hasta 2 smartphones a través de Bluetooth para sonido inalámbrico potente
 
