@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A51 - Dual SIM  Smartphon al 40.92 % de descuento'
-date: 2021-02-22 22:48:33
+date: 2021-02-24 04:21:44
 image: 'https://m.media-amazon.com/images/I/41TH0UtWaqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21'
 descuento: '40.92'
-average: '254.512061855667'
+average: '254.139489795915'
 ---
 
 Ahora mismo tienes [Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOLED  4 GB RAM  128 GB ROM  cámara Trasera 48.0 MP + 12.0 MP + 5.0 MP + 5 MP  cámara Frontal 32 MP  Azul [Versión española]](https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21) a 218.0 EUR (original: 369.0 EUR) (40.92 %  de descuento) en el siguiente enlace!
