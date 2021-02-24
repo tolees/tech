@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ASUS ZenBook 14 UX425EA-HM038T - Portáti al 21.83 % de descuento'
-date: 2021-02-23 04:45:54
+title: 'ASUS ZenBook 14 UX425EA-HM038T - Portáti al 18.27 % de descuento'
+date: 2021-02-24 10:34:23
 image: 'https://m.media-amazon.com/images/I/41C9xqLe-wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B08NTPKM1H-es ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD...'
 sku: 'B08NTPKM1H-es'
 tags: [ 'asus','ram','teclado', ]
-actualPrice: 859.9 EUR
+actualPrice: 899.0 EUR
 currency: EUR
-price: 859.9
+price: 899.0
 comparePrice: 1099.99 EUR
 prodname: 'ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 10 Home  Gris Pino - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21'
-descuento: '21.83'
-average: '883.829999999999'
+descuento: '18.27'
+average: '884.55238095238'
 ---
 
-Está [ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 10 Home  Gris Pino - Teclado QWERTY español](https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21) con 21.83 de descuento por 859.9 EUR (original: 1099.99 EUR) en el siguiente enlace!
+Está [ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 10 Home  Gris Pino - Teclado QWERTY español](https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21) con 18.27 de descuento por 899.0 EUR (original: 1099.99 EUR) en el siguiente enlace!
 
 [![ASUS ZenBook 14 UX425EA-HM038T - Portáti](https://m.media-amazon.com/images/I/41C9xqLe-wL._SL400_.jpg)](https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21)
 
 ℹ️:
 
-- Tarjeta grafica Iris Xe
-- Pantalla de 14" FullHD (1920 x 1080) 16:9 Anti-glare display sRGB: 100%
-- Almacenamiento de 512GB M.2 NVMe PCIe 3.0 SSD
+- Sistema operativo Windows 10 Home
 - Memoria RAM de 8 GB, LPDDR4X
 - Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
-- Sistema operativo Windows 10 Home
+- Almacenamiento de 512GB M.2 NVMe PCIe 3.0 SSD
+- Tarjeta grafica Iris Xe
+- Pantalla de 14" FullHD (1920 x 1080) 16:9 Anti-glare display sRGB: 100%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21)
