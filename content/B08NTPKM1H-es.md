@@ -28,11 +28,11 @@ Está [ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD  Intel Core i5-
 
 ℹ️:
 
-- Sistema operativo Windows 10 Home
-- Memoria RAM de 8 GB, LPDDR4X
 - Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
-- Almacenamiento de 512GB M.2 NVMe PCIe 3.0 SSD
 - Tarjeta grafica Iris Xe
+- Almacenamiento de 512GB M.2 NVMe PCIe 3.0 SSD
+- Sistema operativo Windows 10 Home
 - Pantalla de 14" FullHD (1920 x 1080) 16:9 Anti-glare display sRGB: 100%
+- Memoria RAM de 8 GB, LPDDR4X
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NTPKM1H/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Gigaset AS470 Trio - Teléfono  Teléfono DECT  Terminal inalámbrico  A
 
 🔎:
 
-- Bloqueo de llamadas. Combino: 155 x 49 x 34 mm
-- Diseñado y fabricado en Alemania
+- Agenda de hasta 100 contactos
 - Compatible con caja de adsl
+- Diseñado y fabricado en Alemania
+- Bloqueo de llamadas. Combino: 155 x 49 x 34 mm
 - Manos libres sonido hsp. Resolución: 96 x 64 píxeles
 - Pantalla ultra legible
-- Agenda de hasta 100 contactos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BVVP4MQ/?tag=tolees-21)
