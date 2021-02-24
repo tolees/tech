@@ -28,10 +28,10 @@ Tienes [Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515F/DS Black [Versión It
 
 🔎:
 
-- Pantalla: 6.5", 1080 x 2400 pixels
+- Cámara: Cuádruple, 48MP+12MP +5MP+5MP
 - Versión Italiana: Algunas funcionalidades (Samsung Pay, Samsung Members) pueden no funcionar en España.
 - Batería: 4000 mAh
+- Pantalla: 6.5", 1080 x 2400 pixels
 - Procesador: Exynos 9611 2.3GHz
-- Cámara: Cuádruple, 48MP+12MP +5MP+5MP
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082WP34RL/?tag=tolees-21)
