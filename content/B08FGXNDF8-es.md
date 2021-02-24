@@ -28,8 +28,8 @@ En este momento está [MSI GF65 Thin 10SER-884XES - Ordenador portátil Gaming d
 
 🔎:
 
-- Sin sistema operativo
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Sin sistema operativo
 - Pantalla de 15.6" FullHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
 - Memoria RAM de 16GB DDRIV (8GBx2) 2666 MHz
 - Tarjeta gráfica NVIDIA RTX2060, GDDR6 6 GB
