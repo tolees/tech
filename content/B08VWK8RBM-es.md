@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9T con NFC Cámara cuádruple con un 17.22 % de descuento'
-date: 2021-02-22 21:12:57
+date: 2021-02-25 15:23:38
 image: 'https://m.media-amazon.com/images/I/41rwYJoEwIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Xiaomi Redmi 9T con NFC Cámara cuádruple de 48 MP con I
 
 🔎:
 
+- Sensor de huellas en el lateralPara un fácil y rápido desbloqueo
+- Batería de 6000 mAh (typ) Energía duradera sin peso extra
 - Procesador Snapdragon 662 Rápido y eficaz
 - NFC* multifuncional Es compatible con Google Pay
-- Batería de 6000 mAh (typ) Energía duradera sin peso extra
 - Cámara cuádruple de 48 MPTodo lo que necesitas para hacer fotos profesionales
-- Sensor de huellas en el lateralPara un fácil y rápido desbloqueo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VWK8RBM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Corsair K60 RGB Pro Teclado Mecánico para Juegos  Interruptores Cherry V
 
 ℹ️:
 
-- Disfrute de un nivel de inmersión sin precedentes al jugar a juegos con integración de iCUE, puesto que la iluminación RGB reacciona dinámicamente ante las acciones y eventos del juego en tiempo real.
-- Ilumine su escritorio con la retroiluminación RGB dinámica en cada tecla, completamente personalizable con colores y efectos prácticamente ilimitados, todo realzado gracias a las teclas con resplandor amplificado y una fila inferior con teclas de formato estándar.
 - Una robusta estructura de aluminio cepillado con anodización en negro ofrece un aspecto moderno y estiloso, así como varios años de durabilidad a prueba de batalla.
+- Disfrute de un nivel de inmersión sin precedentes al jugar a juegos con integración de iCUE, puesto que la iluminación RGB reacciona dinámicamente ante las acciones y eventos del juego en tiempo real.
 - El potente software CORSAIR iCUE permite controlar la iluminación RGB dinámica, asignar teclas y programar macros personalizadas, así como sincronizar toda la iluminación del sistema con todos los dispositivos de CORSAIR compatibles con iCUE.
+- Ilumine su escritorio con la retroiluminación RGB dinámica en cada tecla, completamente personalizable con colores y efectos prácticamente ilimitados, todo realzado gracias a las teclas con resplandor amplificado y una fila inferior con teclas de formato estándar.
 - Los interruptores mecánicos CHERRY VIOLA 100% alemanes ofrecen un suave recorrido lineal con entradas precisas y rápidas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KQ86HPJ/?tag=tolees-21)
