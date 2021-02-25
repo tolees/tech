@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEXIN FT4 Pro Intercomunicador de Casco  al 16.30 % de descuento'
-date: 2021-02-19 21:41:03
-image: 'https://m.media-amazon.com/images/I/41REP+0f-dL._SL200_.jpg'
+date: 2021-02-25 11:06:31
+image: 'https://m.media-amazon.com/images/I/41REP+0f-dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '152.99'
 
 Está [LEXIN FT4 Pro Intercomunicador de Casco  con Estroboscopio SOS  Auriculares Bluetooth para Motocicleta para Navegación y Teléfono Móvil  Comunicador Distancia De Comunicación Larga es hasta 2000M](https://www.amazon.es/dp/B084GQYC31/?tag=tolees-21) con 16.30 de descuento por 152.99 EUR (original: 182.78 EUR) en el siguiente enlace!
 
-[![LEXIN FT4 Pro Intercomunicador de Casco ](https://m.media-amazon.com/images/I/41REP+0f-dL._SL200_.jpg)](https://www.amazon.es/dp/B084GQYC31/?tag=tolees-21)
+[![LEXIN FT4 Pro Intercomunicador de Casco ](https://m.media-amazon.com/images/I/41REP+0f-dL._SL400_.jpg)](https://www.amazon.es/dp/B084GQYC31/?tag=tolees-21)
 
 ℹ️:
 
