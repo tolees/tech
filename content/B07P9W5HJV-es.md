@@ -28,10 +28,10 @@ Tienes [SanDisk UHS-I  Tarjeta de Memoria microSDXC con Adaptador SD  hasta 160�
 
 ℹ️:
 
-- Compatibilidad 4k uhd con uhs speed class 3 (u3) y video speed class 30 (v30)
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos x
 - Obtén la aplicación sandisk memory zone para gestionar los archivos fácilmente (disponible en google play)
 - Ideal para smartphones y tabletas android, cámaras de acción y drones
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos x
 - Hasta 160 mb/s de velocidad de lectura y 90 mb/s de velocidad de escritura para disparar y transferir rápido
+- Compatibilidad 4k uhd con uhs speed class 3 (u3) y video speed class 30 (v30)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P9W5HJV/?tag=tolees-21)
