@@ -29,9 +29,9 @@ En este momento está [Proyector de cine en casa Zerone HD 1080P  mini proyector
 🔎:
 
 - 【Claros efectos de sonido estéreo y se apoyan varios formatos de medios】 Altavoz estéreo incorporado, no necesita conexión a un altavoz de audio externo, y puede disfrutar de vídeos y música en cualquier momento y lugar. Soporta la mayoría de formatos de audio, vídeo e imagen y enriquece tu experiencia visual.
-- 【Interfaz de entrada múltiple】Soporta entradas HDMI, AV y USB. Se puede conectar fácilmente a varios dispositivos multimedia, como por ejemplo ejemplo, una caja de TV, un ordenador portátil, un ordenador de sobremesa, una cámara digital, dispositivos equipados con HDMI y más vías.
-- 【Pantalla HD 1080p】 Resolución de hasta 1920 x 1080, colores brillantes y detalles, imágenes y vídeos claros y naturales en una gran pantalla.
 - La mejor experiencia visual: Soporta el ajuste manual del enfoque y permite una distancia de proyección de 24 a 60 pulgadas. La relación de aspecto de la imagen es de 4: 3. Cuando se utilizan bombillas LED de 10W a 24W y bajo consumo de energía para fuentes de luz inocuas y no producen radiación. Respetuoso con el medio ambiente y duradero.
 - Mini cine en casa privado con diseño mini super-mini se ve como un smartphone, que se puede llevar fácilmente en viajes, películas, vídeos, juegos en ambientes oscuros, ya sea en casa o al aire libre para el patio, viajes, camping, etc.
+- 【Interfaz de entrada múltiple】Soporta entradas HDMI, AV y USB. Se puede conectar fácilmente a varios dispositivos multimedia, como por ejemplo ejemplo, una caja de TV, un ordenador portátil, un ordenador de sobremesa, una cámara digital, dispositivos equipados con HDMI y más vías.
+- 【Pantalla HD 1080p】 Resolución de hasta 1920 x 1080, colores brillantes y detalles, imágenes y vídeos claros y naturales en una gran pantalla.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5GT1J8/?tag=tolees-21)
