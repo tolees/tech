@@ -30,7 +30,7 @@ En este momento está [Focus Home Interactive - SnowRunner - PS4](https://www.am
 
 - Conduce solo o en el modo cooperativo de 4 jugadores y amplía tu experiencia de SnowRunner
 - Enfréntate a entornos extremos en un avanzado motor de física
-- Completa decenas de misiones desafiantes en un mundo interconectado
 - 40 vehículos que desbloquear, mejorar y personalizar
+- Completa decenas de misiones desafiantes en un mundo interconectado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083VBBVGK/?tag=tolees-21)
