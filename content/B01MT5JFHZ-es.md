@@ -28,10 +28,10 @@ Tienes [Sony MDR-XB550AP  Auriculares de Diadema Extra Bass  micrófono Integrad
 
 ℹ️:
 
-- Almohadillas acolchadas para una comodidad prolongada
-- Diadema metálica adaptable para un ajuste perfecto
+- Micrófono con mando integrado compatible con Smartphones
 - Extra Bass para sonidos profundos y potentes
 - Elige uno de los 5 colores que mejor se adapta a tu estilo
-- Micrófono con mando integrado compatible con Smartphones
+- Almohadillas acolchadas para una comodidad prolongada
+- Diadema metálica adaptable para un ajuste perfecto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MT5JFHZ/?tag=tolees-21)

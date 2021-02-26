@@ -28,10 +28,10 @@ Tienes [Xiaomi Mi LPN4013GL - Bascula de baño  electrodos de acero inoxidable  
 
 🔎:
 
-- Gran precisión
-- Hasta 10 datos que importan
-- Electrodos de acero inoxidable
 - Escala II
+- Electrodos de acero inoxidable
+- Hasta 10 datos que importan
 - Unidades: catties, kilogramos, libras (conmutable)
+- Gran precisión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077Q9BWFJ/?tag=tolees-21)
