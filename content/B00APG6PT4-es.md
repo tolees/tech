@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'STANLEY 1-70-326 - Taller móvil 3 en 1 al 25.89 % de rebaja'
-date: 2021-02-14 11:41:51
-image: 'https://m.media-amazon.com/images/I/41CQxZM5tkL._SL200_.jpg'
+date: 2021-02-26 02:26:10
+image: 'https://m.media-amazon.com/images/I/41CQxZM5tkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00APG6PT4/?tag=tolees-21'
 descuento: '25.89'
-average: '43.824010989011'
+average: '43.7496195652174'
 ---
 
 Tienes [STANLEY 1-70-326 - Taller móvil 3 en 1](https://www.amazon.es/dp/B00APG6PT4/?tag=tolees-21) con precio final de  36.98 EUR (original: 49.9 EUR) (25.89 %  de rebaja) aqui!
 
-[![STANLEY 1-70-326 - Taller móvil 3 en 1](https://m.media-amazon.com/images/I/41CQxZM5tkL._SL200_.jpg)](https://www.amazon.es/dp/B00APG6PT4/?tag=tolees-21)
+[![STANLEY 1-70-326 - Taller móvil 3 en 1](https://m.media-amazon.com/images/I/41CQxZM5tkL._SL400_.jpg)](https://www.amazon.es/dp/B00APG6PT4/?tag=tolees-21)
 
 🔎:
 
