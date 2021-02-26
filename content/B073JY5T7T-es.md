@@ -28,11 +28,11 @@ Ahora mismo tienes [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD 
 
 🔎:
 
-- Load apps faster with A1 performance class. Operating temperature : -25ºC to 85ºC, storage temperature: -40ºC to 85ºC
-- This product has been certified to meet Googles compatibility standards; Chromebook and the Works With Chromebook badge are trademarks of Google LLC
-- Up to 100 MB/s transfer speeds
 - Up to 512 GB capacity
 - UHS speed class U1 and speed class 10 for Full HD video recording and playback
+- This product has been certified to meet Googles compatibility standards; Chromebook and the Works With Chromebook badge are trademarks of Google LLC
+- Load apps faster with A1 performance class. Operating temperature : -25ºC to 85ºC, storage temperature: -40ºC to 85ºC
+- Up to 100 MB/s transfer speeds
 - Compatibility - Compatible with microSDHC and microSDXC supporting host devices
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21)
