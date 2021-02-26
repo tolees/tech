@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI P Smart 2021 - Smartphone de 6 67 al 26.64 % de descuento'
-date: 2021-02-25 20:29:38
+date: 2021-02-26 21:20:31
 image: 'https://m.media-amazon.com/images/I/41Zac+cPuiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08KSGTS86/?tag=tolees-21'
 descuento: '26.64'
-average: '176.996666666667'
+average: '174.7475'
 ---
 
 Está [HUAWEI P Smart 2021 - Smartphone de 6 67 Pulgadas Full HD  4GB de RAM y 128 GB de ROM  22.5W HUAWEI Supercharge  5000 mAh de batería  Cuádruple cámara 48 MP  Negro [Versión ES/PT]](https://www.amazon.es/dp/B08KSGTS86/?tag=tolees-21) con 26.64 de descuento por 168.0 EUR (original: 229.0 EUR) en el siguiente enlace!
