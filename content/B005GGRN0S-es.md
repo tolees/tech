@@ -28,14 +28,14 @@ Tienes [Panasonic KX-TG1611SPH - Teléfono Fijo Inalámbrico DECT  LCD  Identifi
 
 ℹ️:
 
-- Funciones: Múltiples teléfonos - 6; Bases múltiples - 3
-- Registro de llamada: 50 artículos (número y nombres)
-- Retro iluminación de LCD: ámbar
-- Identificador de llamada: Compatibilidad con identificador de llamada: sí
 - Tecla de navegación: Sí
 - Indentificación de llamada audible: No
+- Retro iluminación de LCD: ámbar
+- Registro de llamada: 50 artículos (número y nombres)
+- Funciones: Múltiples teléfonos - 6; Bases múltiples - 3
 - Jack de auriculares: No
-- Potenciado de Voz: No
 - Altavoz: No
+- Identificador de llamada: Compatibilidad con identificador de llamada: sí
+- Potenciado de Voz: No
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005GGRN0S/?tag=tolees-21)

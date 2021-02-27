@@ -29,8 +29,8 @@ Está [Intel NUC BOXNUC7I5BNHXF - Ordenador Mini PC  Intel Core i5-7260U  4 GB D
 ℹ️:
 
 - Incluye garantía de 3 años y software adicional descargable valorado en 300€
-- 4K Ultra HD, soporta hasta tres displays 4K
 - Intel Optane System Accelerator de 16GB
+- 4K Ultra HD, soporta hasta tres displays 4K
 - Memoria interna de 1 TB HDD y RAM de 4GB DDR4
 - Procesador Intel Core i5-7260U y sistema operativo Windows 10
 
