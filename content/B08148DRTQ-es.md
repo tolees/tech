@@ -29,9 +29,9 @@ En este momento está [KATUMO Funda para Samsung Galaxy Tab A 10.1 2019 360° Ro
 🔎:
 
 - Cuero Artificial: La cubierta para Tableta Tab A 10.1 2019 de cuero artificial es resistente, rígida, protege de golpes, ara?azos y le da un toque elegante
+- Forma de Soporte: Conveniente soporte posición para ver la película o escribir
+- 360° Giratoria: El funda es 360 grados GIRATORIA, convertible entre formatos horizontal y vertical
 - Excelente Calidad: Con precisos agujeros que proporcionan total acceso a todos los controles y características
 - Compatibilidad: Funda compatiable con Samsung Galaxy Tab A 10.1 2019 Model.(SM-T510/SM-T515)
-- 360° Giratoria: El funda es 360 grados GIRATORIA, convertible entre formatos horizontal y vertical
-- Forma de Soporte: Conveniente soporte posición para ver la película o escribir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08148DRTQ/?tag=tolees-21)

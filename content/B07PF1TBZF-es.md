@@ -28,8 +28,8 @@ Está [Corsair Carbide Series 175R RGB - Caja de Ordenador para Juegos  Medio-To
 
 ℹ️:
 
-- Despejado y clásico: defina su estilo con bordes curvados, un acabado pulido con retroiluminación en la parte delantera y con un ventilador RGB con seis LED RGB personalizables
 - Panel lateral de cristal templado: muestre los componentes de su sistema con una ventana transparente a su PC
+- Despejado y clásico: defina su estilo con bordes curvados, un acabado pulido con retroiluminación en la parte delantera y con un ventilador RGB con seis LED RGB personalizables
 - Cubierta completa de la fuente de alimentación: oculte la fuente de alimentación y los cables, creando un diseño óptimo de forma fácil
 - Compatible con control RGB desde la placa base: conecte el ventilador RGB incluido a una placa base compatible Asus, Gigabyte o MSI y personaliza controlar la iluminación RGB de los ventiladores
 - Óptimo potencial de refrigeración: puede alojar un máximo de 6 ventiladores de 120 mm o 4 de 140 mm o varios radiadores de diversos tamaños hasta 360 mm
