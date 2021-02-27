@@ -28,10 +28,10 @@ En este momento está [Xiaomi Redmi 9T con NFC Cámara cuádruple de 48 MP con I
 
 🔎:
 
-- Procesador Snapdragon 662 Rápido y eficaz
-- Batería de 6000 mAh (typ) Energía duradera sin peso extra
-- Sensor de huellas en el lateralPara un fácil y rápido desbloqueo
 - Cámara cuádruple de 48 MPTodo lo que necesitas para hacer fotos profesionales
 - NFC* multifuncional Es compatible con Google Pay
+- Sensor de huellas en el lateralPara un fácil y rápido desbloqueo
+- Batería de 6000 mAh (typ) Energía duradera sin peso extra
+- Procesador Snapdragon 662 Rápido y eficaz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VWZY1P8/?tag=tolees-21)
