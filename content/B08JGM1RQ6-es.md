@@ -28,9 +28,9 @@ Está [AUKEY Auriculares Inalámbricos Deportivos  Sonido aptX  Micrófonos CVC 
 
 ℹ️:
 
-- Impresionante sonido estéreo: los potentes controladores de altavoz de 12 mm / 0,36 ”ofrecen audio de alta fidelidad con una respuesta de graves más profundos. Al estar integrado de un chip Qualcomm 3020 Bluetooth 5 avanzado, con soporte integrado para AptX y AAC, garantiza una conexión sólida.
 - Contenido del paquete: Auténticos auriculares inalámbricos AUKEY EP-T32, estuche de carga, tres pares de almohadillas para los oídos (S / M / L), cable USB-C, manual de usuario, guía de inicio rápido.
 - Ajuste seguro: auriculares Bluetooth elegantes adecuados para tu estilo de vida activo. Su diseño cómodo y seguro con ganchos para colocar en tus orejas te garantiza un ajuste firme, ya sea que estés en movimiento, en la pista o en el gimnasio.
+- Impresionante sonido estéreo: los potentes controladores de altavoz de 12 mm / 0,36 ”ofrecen audio de alta fidelidad con una respuesta de graves más profundos. Al estar integrado de un chip Qualcomm 3020 Bluetooth 5 avanzado, con soporte integrado para AptX y AAC, garantiza una conexión sólida.
 - Tiempo de reproducción de 35 horas: 7 horas de reproducción simplemente con una sola carga, que se extienden a 35 horas de reproducción incluyendo el estuche de carga. Podrás recargar el estuche con carga inalámbrica o carga rápida USB-C
 - Impermeabilidad IPX8: los auriculares EP-T32 cuentan con una carcasa impermeable que garantizan una protección más alta con clasificación IPX8 a prueba de sudor y de lluvia. Soporta los entrenamientos más duros y las carreras en las condiciones más duras
 
