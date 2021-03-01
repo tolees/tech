@@ -28,10 +28,10 @@ Ahora mismo tienes [INFILAND Kindle 10th 2019 X  Menta Verde ](https://www.amazo
 
 🔎:
 
-- Hecho de cuero sintético duradero con interior suave para evitar arañazos.
-- Diseñado por INFILAND exclusivamente para Amazon All-new Kindle (10ª generación – 2019 lanzamiento) (no es compatible con Kindle Paperwhite 10ª generación 2018 lanzamiento).
-- Ultra delgada y ultra ligera. Protege tu dispositivo sin añadir volumen o peso innecesario.
-- Con función de encendido y apagado automático. Permite que el dispositivo se active automáticamente o se apague automáticamente al encender o apagar la funda protectora. Hay una variedad de colores brillantes e interesantes para elegir.
 - 100% nuevo, ligero, ultra delgado, diseño único, decente.
+- Diseñado por INFILAND exclusivamente para Amazon All-new Kindle (10ª generación – 2019 lanzamiento) (no es compatible con Kindle Paperwhite 10ª generación 2018 lanzamiento).
+- Hecho de cuero sintético duradero con interior suave para evitar arañazos.
+- Con función de encendido y apagado automático. Permite que el dispositivo se active automáticamente o se apague automáticamente al encender o apagar la funda protectora. Hay una variedad de colores brillantes e interesantes para elegir.
+- Ultra delgada y ultra ligera. Protege tu dispositivo sin añadir volumen o peso innecesario.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NR8KN22/?tag=tolees-21)
