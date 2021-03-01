@@ -28,10 +28,10 @@ Ahora mismo tienes [Rii i4 Mini Bluetooth Teclado inalámbrico retroiluminado  2
 
 🔎:
 
-- Teclado dual, ligero y adaptable, perfecto para juegos, trabajo y viajes.
 - Cambia de modo fácilmente: Pulsando fn+tab cambias al modo Bluetooth y pulsando FN+Caps cambias al modo inalámbrico. ¡Conecta y controla tu ordenador y tu televisión al mismo tiempo!
 - La conexión inalámbrica es compatible con casi cualquier receptor Bluetooth. Ha sido probada en Amazon Fire Stick, Smart TV (comprobar compatibilidad del fabricante con dispositivos externos), Apple iOS 4 y sup. iPhone, iPad, MacOS 6.0 y sup., Mini PC, Samsung Galaxy Tab, Android 4 y superior...
-- No crea congestión de redes. La conexión Bluetooth es independiente (necesita un receptor Bluetooth compatible con tu dispositivo, no está incluido). La conexión inalámbrica es de conexión y sincronización inmediata.
 - Teclado inalámbrico de larga duración. Incluye una batería recargable de Ion-Litio de gran potencia que permite enviar la señal a gran distancia en espacios abiertos. Te permite un control absoluto de tus dispositivos inalámbricos de la manera más cómoda y sencilla
+- Teclado dual, ligero y adaptable, perfecto para juegos, trabajo y viajes.
+- No crea congestión de redes. La conexión Bluetooth es independiente (necesita un receptor Bluetooth compatible con tu dispositivo, no está incluido). La conexión inalámbrica es de conexión y sincronización inmediata.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQBRRR7/?tag=tolees-21)

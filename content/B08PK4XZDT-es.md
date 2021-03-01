@@ -28,10 +28,10 @@ Tienes [Yizhet Hub USB Ethernet 3.0  3 Puertos USB 3.0 USB Hub Ethernet Adaptado
 
 🔎:
 
-- ✤ 3 puertos USB 3.0 proporcionan una alta velocidad de transferencia de datos de hasta 5Gbps, compatible con dispositivos USB 2.0 / 1.1.
-- ✤ La protección contra sobretensiones incorporada y conector niquelado que mantienen sus dispositivos y los datos seguros.
 - ✤ HUB USB 3.0 5GBPS VELOCIDAD: Fácilmente expande 3 puertos USB 3.0 para su portátil, ultrabook o sobremesa y disfrutas de la 5Gbps velocidad de transferencia siendo aún más productiva.
-- ✤ Amplia Compatibilidad - Este USB 3.0 Ethernet Hub es compatible con Windows 10 / 8.1 / 8/7 / XP / Vista, Mac OS y Linux.
 - ✤ El puerto RJ45 Gigabit Ethernet incorporado proporciona una velocidades de red de 1000Mbps super rápidas,también es compatible con Ethernet 10/100
+- ✤ Amplia Compatibilidad - Este USB 3.0 Ethernet Hub es compatible con Windows 10 / 8.1 / 8/7 / XP / Vista, Mac OS y Linux.
+- ✤ La protección contra sobretensiones incorporada y conector niquelado que mantienen sus dispositivos y los datos seguros.
+- ✤ 3 puertos USB 3.0 proporcionan una alta velocidad de transferencia de datos de hasta 5Gbps, compatible con dispositivos USB 2.0 / 1.1.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PK4XZDT/?tag=tolees-21)
