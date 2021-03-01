@@ -30,8 +30,8 @@ Está [LEZUN - 3D Lupa de Pantall para Móvil 12 Pulgadas Pantalla de Móvil Amp
 
 - 【Material de marco】:El marco de lupa de pantalla está hecho de tablero de fibra, que es plegable y no es fácil de romper. El marco plegable de diamante es duradero y estable, lo que puede proteger eficazmente el teléfono para que no se resbale.
 - 【Fácil de cargar】:Amplificador imagen movil adopta un diseño plegable, que es cómodo de llevar al salir. El ángulo del teléfono móvil también se puede ajustar arbitrariamente para un mejor efecto de visualización. Adecuado para interior, camping, viajes, ocio, en cualquier lugar, etc. Además, los niños y los ancianos también pueden usarlo fácilmente.
+- 【Material de la lente】: Lupa movil utiliza la última lente azul Fresnel, que es más de alta definición, protege más los ojos que las lentes ordinarias y no es fácil de causar fatiga visual. Y un diseño antirreflectante estricto, la lente no tiene interferencia de luz.
 - 【Función dual】: Lupa para pantalla movil puede actuar como un soporte para teléfono móvil, liberando nuestras manos. Al mismo tiempo, la pantalla se agranda, para que podamos mantener una distancia adecuada del teléfono móvil y proteger mejor nuestra vista.
 - 【Tamaño adecuado】: Tamaño de pantalla: 12 pulgadas; Tamaño aproximado: 25.5*21.8*8mm.lupa para móvil puede plegar para facilitar su transporte.Es un buen pantalla aumento para movil.
-- 【Material de la lente】: Lupa movil utiliza la última lente azul Fresnel, que es más de alta definición, protege más los ojos que las lentes ordinarias y no es fácil de causar fatiga visual. Y un diseño antirreflectante estricto, la lente no tiene interferencia de luz.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R5XB21L/?tag=tolees-21)

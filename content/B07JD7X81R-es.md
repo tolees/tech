@@ -28,10 +28,10 @@ Está [Ubiquiti Spain - Ubiquiti Networks UFiber Loco pasarel y Controlador 10 1
 
 ℹ️:
 
-- Processor Specs MIPS-32, 240 MHz
-- Memory Information 128 MB DDR3
-- LAN: (1) Gigabit Ethernet Port
 - GPON Speeds: 2.488 Gbps Downstream (RX), 1.244 Gbps Upstream (TX)
+- Memory Information 128 MB DDR3
+- Processor Specs MIPS-32, 240 MHz
+- LAN: (1) Gigabit Ethernet Port
 - WAN: (1) GPON Port
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JD7X81R/?tag=tolees-21)
