@@ -1,30 +1,30 @@
 ---
 layout: post
-title: ' Nueva versión  2018 Rii X8 Mini Teclado con un 33.81 % de descuento'
-date: 2021-02-13 20:20:23
-image: 'https://m.media-amazon.com/images/I/51dhWoHDc2L._SL200_.jpg'
+title: ' Nueva versión  2018 Rii X8 Mini Teclado con un 18.70 % de descuento'
+date: 2021-03-01 00:17:03
+image: 'https://m.media-amazon.com/images/I/51dhWoHDc2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07C6FM8PD-es Nueva versión 2018 Rii X8 Mini Teclado inalámbrico Teclado...'
 sku: 'B07C6FM8PD-es'
 tags: [ 'teclado', ]
-actualPrice: 15.88 EUR
+actualPrice: 18.69 EUR
 currency: EUR
-price: 15.88
-comparePrice: 23.99 EUR
+price: 18.69
+comparePrice: 22.99 EUR
 prodname: ' Nueva versión  2018 Rii X8 Mini Teclado inalámbrico  Teclado retroiluminado con Pantalla táctil 2.4GHz y Rueda de Scroll  Dispone de 8 Cambios de Color'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rii'
 buyurl: 'https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21'
-descuento: '33.81'
-average: '18.6772727272727'
+descuento: '18.70'
+average: '19.4874999999999'
 ---
 
-En este momento está [ Nueva versión  2018 Rii X8 Mini Teclado inalámbrico  Teclado retroiluminado con Pantalla táctil 2.4GHz y Rueda de Scroll  Dispone de 8 Cambios de Color](https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21) a 15.88 EUR (original: 23.99 EUR) (33.81 %  de descuento) en el siguiente enlace!
+En este momento está [ Nueva versión  2018 Rii X8 Mini Teclado inalámbrico  Teclado retroiluminado con Pantalla táctil 2.4GHz y Rueda de Scroll  Dispone de 8 Cambios de Color](https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21) a 18.69 EUR (original: 22.99 EUR) (18.70 %  de descuento) en el siguiente enlace!
 
-[![ Nueva versión  2018 Rii X8 Mini Teclado](https://m.media-amazon.com/images/I/51dhWoHDc2L._SL200_.jpg)](https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21)
+[![ Nueva versión  2018 Rii X8 Mini Teclado](https://m.media-amazon.com/images/I/51dhWoHDc2L._SL400_.jpg)](https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21)
 
 🔎:
 
