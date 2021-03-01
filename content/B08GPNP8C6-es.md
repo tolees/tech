@@ -31,9 +31,9 @@ Está [Samsung Galaxy M51 Smartphone de 6.7" FHD+ | Móvil Libre | Super Baterí
 - Hasta 512 GB de tarjeta Micro SD, memoria expandible para fotos, música y más.
 - Batería: batería de litio de 7.000 mAh¹, de alto rendimiento con función de carga móvil rápida de 25 vatios
 - Cámara: cámara principal de 64 MP, cámara de profundidad de 5 MP, cámara ultra gran angular de 8 MP y cámara frontal de 32 MP
-- Smartphone con sistema operativo Android V10
 - Pantalla: Pantalla Super AMOLED infinity U, con FHD + de 6,7 pulgadas, resolución de 2340 x 1080 píxeles, densidad de píxeles de 404 PPI y compatibilidad con 16 millones de colores
 - Procesador Qualcomm Snapdragon 730
 - Componentes incluidos: teléfono / adaptador de viaje / cable de datos / eyector SIM / tarjeta de garantía
+- Smartphone con sistema operativo Android V10
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GPNP8C6/?tag=tolees-21)
