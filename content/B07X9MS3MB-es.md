@@ -29,9 +29,9 @@ En este momento está [Lauson 01TT15 Tocadiscos Diseño Vintage Coche de Colecci
 🔎:
 
 - Este tocadiscos tiene dos altavoces integrado de 3 W de potencia, Función Bluetooth para escuchar tu música streaming desde tus dispositivos moviles. Entrada AUX-in, salida para conectar audífonos y RCA para altavoz externo
-- Tocadiscos con Velocímetro, tiene la función de subir y bajar volumen, Además de sintonizar tus emisoras de Radio FM favoritas. Garantía extendida hasta 5 años con la marca Lauson.
-- Reproductor con Función Auto-Stop en los Tocadiscos Lauson, tus vinilos se detendrán automáticamente al finalizar la reprodución. Además, puedes reproducir musica desde tus USB, Smartphone o cualquier dispositivo compatible
 - Tocadiscos con diseño Retro Muscle Car, reproduce y convierte Discos de vinilos a 3 velocidades diferentes (33/45/78 RPM). Con la función encoding puedes grabar/digitalizar tus vinilos a un USB
 - Tocadiscos Vintage con Diseño de Muscle Car Americano - Coches de Colección. Diferenciate y hazte con nuestros tocadiscos de diseño con velocimetro, para los amantes de los coches americanos de colección
+- Reproductor con Función Auto-Stop en los Tocadiscos Lauson, tus vinilos se detendrán automáticamente al finalizar la reprodución. Además, puedes reproducir musica desde tus USB, Smartphone o cualquier dispositivo compatible
+- Tocadiscos con Velocímetro, tiene la función de subir y bajar volumen, Además de sintonizar tus emisoras de Radio FM favoritas. Garantía extendida hasta 5 años con la marca Lauson.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X9MS3MB/?tag=tolees-21)
