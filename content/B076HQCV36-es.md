@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Altavoz DENON Envaya DSB-150-BT/BK Color al 39.03 % de descuento'
-date: 2021-03-01 13:44:23
+date: 2021-03-02 17:52:54
 image: 'https://m.media-amazon.com/images/I/41Xop3VBU7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Altavoz DENON Envaya DSB-150-BT/BK Color Negro Bluetooth  Resistente al A
 
 ℹ️:
 
-- Tiempo de carga 2.5 horas.
-- Bluetooth v4.1
 - Entrada analógica mini-jack de 3,5 mm.
+- Tiempo de carga 2.5 horas.
 - Botones de control e indicador de batería.
+- Bluetooth v4.1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQCV36/?tag=tolees-21)
