@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa?
 
 🔎:
 
-- Compatible con llamadas con manos libres y asistente de voz
-- Audio inalámbrico con tecnología bluetooth
-- Unidades de diafragma de 9 mm para un sonido claro y nítido
-- Hasta 15 horas de duración de batería
 - Cables flexibles y ligeros
+- Audio inalámbrico con tecnología bluetooth
+- Hasta 15 horas de duración de batería
+- Compatible con llamadas con manos libres y asistente de voz
+- Unidades de diafragma de 9 mm para un sonido claro y nítido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXSV2GP/?tag=tolees-21)
