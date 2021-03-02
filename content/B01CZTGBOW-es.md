@@ -28,10 +28,10 @@ Está [Logitech G G900  Ratón  Negro](https://www.amazon.es/dp/B01CZTGBOW/?tag=
 
 ℹ️:
 
-- Diseño de botones con pivote mecánico que incluye un sistema de tensión
+- Comodidad en sesiones de uso prolongadas y mayor rapidez de respuesta al movimiento
 - Sensor con precisión el movimiento de la mano en la pantalla
 - Diseño para uso ambidiestro que permite usarlo con la mano izquierda o derecha
-- Comodidad en sesiones de uso prolongadas y mayor rapidez de respuesta al movimiento
+- Diseño de botones con pivote mecánico que incluye un sistema de tensión
 - Conexión inalámbrica profesional con cable y sin cable, sin renunciar al rendimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CZTGBOW/?tag=tolees-21)
