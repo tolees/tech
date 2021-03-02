@@ -29,8 +29,8 @@ Está [Microsoft SWV-00003- USB-C Travel HUB  Color Negro](https://www.amazon.es
 ℹ️:
 
 - Compatible con los PC modernos y portátiles Surface que tienen un puerto USB-C
-- Admite la carga de accesorios compatibles pero no la carga de portátiles
 - Convierte tu portátil en un complemento de productividad con este elegante adaptador multipuerto
+- Admite la carga de accesorios compatibles pero no la carga de portátiles
 - Adaptador multipuerto que incluye USB-C que se puede utilizar mientras se carga, 1 USB-A (3.1/Gen 2), VGA, Gigabit Ethernet y HDMI 2.0 con salida de vídeo 4K a 60 Hz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088MS31PS/?tag=tolees-21)
