@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.13 % en Xiaomi Redmi Note 9 Smartphone 4GB 128GB'
-date: 2021-03-01 09:58:48
+date: 2021-03-02 10:45:56
 image: 'https://m.media-amazon.com/images/I/41dDeOpR2QL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08865HBWC/?tag=tolees-21'
 descuento: '23.13'
-average: '190.52950819672'
+average: '190.180483870966'
 ---
 
 Tienes [Xiaomi Redmi Note 9 Smartphone 4GB 128GB  48MP Quad Camera  6.53”FHD + DotDisplay  5020 mAh  3.5mm Headphone Jack NFC  Forest Green Verde [European version]](https://www.amazon.es/dp/B08865HBWC/?tag=tolees-21) con un 23.13 % de descuento con precio de oferta de 168.89 EUR (original: 219.7 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi Note 9 Smartphone 4GB 128GB  48MP Quad Camera  6.53”FHD +
 
 ℹ️:
 
-- OS: Android 10
-- Batería: 5020 mAh
-- Procesador: Mediatek Helio G85 2GHz
 - Pantalla: 6.53", 1080 x 2340 pixels
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Procesador: Mediatek Helio G85 2GHz
+- Batería: 5020 mAh
+- OS: Android 10
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08865HBWC/?tag=tolees-21)
