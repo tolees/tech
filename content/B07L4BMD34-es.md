@@ -29,9 +29,9 @@ Tienes [BrosTrend - Extensor WiFi de 1200 Mb/s  amplificador de señal repetido
 🔎:
 
 - Compatibilidad universal: Amplía la cobertura de red de cualquier router inalámbrico o puerta de enlace ISP en el mercado mediante el uso de este extensor WiFi para el hogar; el color blanco y el diseño compacto de enchufe de pared de este extensor se mezclan fácilmente con la decoración de tu hogar.
+- Velocidad Wi-Fi AC1200: Con una velocidad extendida simultáneamente de 867 Mb/s en la banda WiFi de 5 GHz y 300 Mb/s en la banda de 2,4 GHz, disfruta de la transmisión de vídeo 4K en línea, juegos multijugador, música, etc., conecta tus dispositivos WiFi a la red extendida mediante este amplificador de señal WiFi sin búfer ni interrupción.
 - Cobertura inalámbrica extendida: Añade cobertura Wi-Fi de hasta 111,5 m². y conecta hasta 20 dispositivos como smartphones, tabletas, ordenadores portátiles, altavoces, cámaras IP, dispositivos IoT y más, mediante el uso de este amplificador WiFi para el hogar.
 - Se configura en segundos: Pulsa el botón WPS de tu router y de este extensor de red WiFi, extiende al instante la cobertura de tu red; el led inteligente en el extensor indica la fuerza de la señal con el router; muévelo a cualquier toma de corriente después de la configuración inicial.
 - Función de puente WiFi: Este extensor de alcance inalámbrico de Internet tiene 1 puerto Ethernet rápido, conecta un dispositivo con cable a WiFi, como Smart TV, impresora, reproductor de Blu-Ray, consola de videojuegos; también es compatible con el modo de punto de acceso para crear una nueva red WiFi AC1200.
-- Velocidad Wi-Fi AC1200: Con una velocidad extendida simultáneamente de 867 Mb/s en la banda WiFi de 5 GHz y 300 Mb/s en la banda de 2,4 GHz, disfruta de la transmisión de vídeo 4K en línea, juegos multijugador, música, etc., conecta tus dispositivos WiFi a la red extendida mediante este amplificador de señal WiFi sin búfer ni interrupción.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L4BMD34/?tag=tolees-21)

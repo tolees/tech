@@ -28,10 +28,10 @@ Está [Sony - The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=
 
 ℹ️:
 
-- Los jugadores asumirán el control de Ellie
 - Plataforma del juego: PlayStation 4
+- Los jugadores asumirán el control de Ellie
 - Tipo de producto: videojuego
-- Es un juego para un solo jugador
 - Es un videojuego de acción y aventura
+- Es un juego para un solo jugador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21)
