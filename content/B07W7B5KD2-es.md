@@ -28,10 +28,10 @@ Ahora mismo tienes [ORICO Docking Station 5 Bay Typ C Carcasa magnética de Disc
 
 🔎:
 
-- Diseño innovador: se ha actualizado la antigua puerta para la carcasa HDD y se utilizó la estructura magnética para completar la instalación en solo 3 segundos. El ventilador en la parte posterior del producto ofrece una buena disipación del calor.
+- Capacidad de 50 TB: admite todos los discos duros SATA de 3,5 pulgadas y un solo disco de almacenamiento de 10 TB, conveniente para el respaldo y el intercambio de datos.
 - Transmisión súper rápida: disco duro usb 3.1 type c, disco duro interno SATA, con HDD / SSD SATA de 2,5 pulgadas y 3,5 pulgadas, conecta la velocidad de transmisión de alta velocidad USB 3.1 hasta 5 Gbps.
 - Garantía: ORICO Technologies Co., Ltd proporciona 12 meses de garantía y soporte técnico de por vida.
-- Capacidad de 50 TB: admite todos los discos duros SATA de 3,5 pulgadas y un solo disco de almacenamiento de 10 TB, conveniente para el respaldo y el intercambio de datos.
 - Protección múltiple: anti-sobretensión, sobrecorriente, sobrecalentamiento, cortocircuito, fugas y otros proyectos de protección múltiple para garantizar la seguridad de la transmisión de datos. Compatible con Soporta Windows XP / Vista / 7/8, Mac OS X 10.2 y superior y Linux
+- Diseño innovador: se ha actualizado la antigua puerta para la carcasa HDD y se utilizó la estructura magnética para completar la instalación en solo 3 segundos. El ventilador en la parte posterior del producto ofrece una buena disipación del calor.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7B5KD2/?tag=tolees-21)
