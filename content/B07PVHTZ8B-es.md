@@ -28,10 +28,10 @@ En este momento está [ASUNCELL - 5200mAh 593553-001 Batería del ordenador port
 
 🔎:
 
-- 2 años de servicio de garantía sin problemas. Compruebe si esta batería es compatible con su computadora antes de comprarla. Los números de pieza de baterías y computadoras compatibles se enumeran a continuación
-- Tipo de batería: Li-ion; Capacidad: 5200mAh; Células: 6 celdas Voltaje: 11.1 V Compatible con: 10.8V
 - Tiempo de operación previsto: Alrededor de 2-3 horas. El tiempo real de operación dependerá de cuánta electricidad requiera el dispositivo y cómo la use
+- Tipo de batería: Li-ion; Capacidad: 5200mAh; Células: 6 celdas Voltaje: 11.1 V Compatible con: 10.8V
 - Compatible con HP 2000 / 2000z-100 CTO / 430 / 431 / 630 / 631 / 635 / 636 Notebook PC Envy 15-1100 / 17-1000, G32 G42 G42t G56 G62 G72, Pavilion dm4-1000 / dv3-2200 / dv5-2000 / dv6-3000 / dv6-4000 / dv6-6000 / dv7-1400 / dv7-4000 / dv7-5000 / dv7-6000 g4 g6 g7 COMPAQ Presario CQ32 CQ42 CQ43 CQ56 CQ62 CQ630 CQ72, 586006-321 586006-361 586007-541 586028-341 588178-141 593553-001 93554-001 593562-001 GSTNN-Q62C HSTNN-178C HSTNN-179C HSTNN-181C HSTNN-CBOW HSTNN-CBOX HSTNN-F01C HSTNN
+- 2 años de servicio de garantía sin problemas. Compruebe si esta batería es compatible con su computadora antes de comprarla. Los números de pieza de baterías y computadoras compatibles se enumeran a continuación
 - Sobrecarga y descarga, sobretensión, protección contra cortocircuitos, certificación CE / FCC / RoHS para seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PVHTZ8B/?tag=tolees-21)
