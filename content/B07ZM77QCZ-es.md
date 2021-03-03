@@ -28,9 +28,9 @@ Ahora mismo tienes [Vida Elettronica - Lenovo Ideapad - Ordenador portátil 15.6
 
 🔎:
 
-- Listo para usar, no necesita configuración con instalación de todos los controladores del sistema, y las actualizaciones con Windows 10 Pro 64 bits, Antivirus, Libre Office 2019 software de fotoritocco, aplicación de solicitud de teleasistencia con soporte técnico incluido .y aplicación de escritorio para la creación del disco de restauración del portátil. Cada producto se prueba y preestablecido para garantizar un alto estándar de calidad. Garantía italiana. 2 años
-- Cámara web a color, 3 USB, 1 HDMI 1.4b, 1 Bluetooth, WiFi, 1 combo auriculares/micrófono, 1 alimentador CA, ranura de expansión, 1 lector de tarjetas digitales multiformato, soporta SD, SDHC, la duración de la batería va de un mínimo de 2 horas a un máximo de 4,5 horas según la configuración que se establece y el uso del portátil
 - Ordenador portátil Lenovo SSD color Silver modelo Ideapad Slim con procesador Amd 3020e, procesador de última generación que sustituye a la versión A4 9125e.
 - CPU AMD A4 3020e hasta 2,6 GHz. Con tarjeta gráfica nueva Radeon R3 (2 núcleos) Memoria 8 GB de SDRAM SSD M.2 PCI de 256 GB
+- Listo para usar, no necesita configuración con instalación de todos los controladores del sistema, y las actualizaciones con Windows 10 Pro 64 bits, Antivirus, Libre Office 2019 software de fotoritocco, aplicación de solicitud de teleasistencia con soporte técnico incluido .y aplicación de escritorio para la creación del disco de restauración del portátil. Cada producto se prueba y preestablecido para garantizar un alto estándar de calidad. Garantía italiana. 2 años
+- Cámara web a color, 3 USB, 1 HDMI 1.4b, 1 Bluetooth, WiFi, 1 combo auriculares/micrófono, 1 alimentador CA, ranura de expansión, 1 lector de tarjetas digitales multiformato, soporta SD, SDHC, la duración de la batería va de un mínimo de 2 horas a un máximo de 4,5 horas según la configuración que se establece y el uso del portátil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZM77QCZ/?tag=tolees-21)
