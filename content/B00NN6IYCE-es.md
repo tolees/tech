@@ -29,11 +29,11 @@ Está [Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de 12.8 MP  Sensor d
 ℹ️:
 
 - RAW, la misma nitidez que en negativo: la cámara LX100 puede capturar imágenes en formato RAW, así las conserva con el nivel mínimo de procesado
+- WiFi y subida fácil: gracias a la conectividad WiFi y al acceso directo a las redes sociales, podrás subir a Internet fácilmente tu próxima publicación para inspirar a tus seguidores con tus increíbles fotos de viajes
+- Para tener mayor control de encuadre e integrar asistencia de enfoque manual y autonómico de forma intuitiva y sensible, el visor ofrece un aumento de 35mm
+- Controles de enfoque intuitivos: la selección de enfoque utiliza la detección de microcontrastes para ofrecer una visualización gráfica intuitiva y en tiempo real de las distintas áreas de enfoque
 - Vídeos en 4K: con esta resolución es posible capturar más luz, más profundidad de detalles y más color, y tienes más flexibilidad durante la edición
 - Live View Finder de alta definición para detalles precisos: incluye visor OLED de alta resolución de 2.764 millones de puntos
-- Para tener mayor control de encuadre e integrar asistencia de enfoque manual y autonómico de forma intuitiva y sensible, el visor ofrece un aumento de 35mm
-- WiFi y subida fácil: gracias a la conectividad WiFi y al acceso directo a las redes sociales, podrás subir a Internet fácilmente tu próxima publicación para inspirar a tus seguidores con tus increíbles fotos de viajes
 - Cámara compacta foto y vídeo 4K con objetivo LEICA 24-75mm con zoom óptico 3.1x y otras características como: Sensor Live MOS de 12.8 MP, pantalla de 3 pulgadas y estabilizador de imagen óptico
-- Controles de enfoque intuitivos: la selección de enfoque utiliza la detección de microcontrastes para ofrecer una visualización gráfica intuitiva y en tiempo real de las distintas áreas de enfoque
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NN6IYCE/?tag=tolees-21)
