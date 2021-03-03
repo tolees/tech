@@ -28,10 +28,10 @@ Está [POWERADD Pilot Pro4 Power Bank 26800mAh Batería Externa Móvil Carga Rap
 
 ℹ️:
 
-- Alta Capacidad de 26800mAh puede cargar iPhone 7 10 veces, Galaxy S6 8.5 veces y iPad Air 2 3 veces. Ideal para viaje largo, camping y otras actividades al aire libre.
-- Salida-Tres puertos USB (5V/2.1A, 5V/2.1A, 5V/2.1A) con un total de salida 5V/4.2A rápido le permite cargar 3 dispositivos simultáneamente y convenientemente.
-- Construido en auto detectar IC puede identificar sus dispositivos corriente de carga de salida más adecuada.
 - Entrada-Dos puertos USB (5V/2.0A, 5V/2.0A) con entrada rápida total de 4.0A se ahorrará mucho tiempo para cargarla en su totalidad. Totalmente tiempo de carga: 16-20H con un puerto (5V/2A); 8-10H con dos puertos (5V/4A).
+- Alta Capacidad de 26800mAh puede cargar iPhone 7 10 veces, Galaxy S6 8.5 veces y iPad Air 2 3 veces. Ideal para viaje largo, camping y otras actividades al aire libre.
+- Construido en auto detectar IC puede identificar sus dispositivos corriente de carga de salida más adecuada.
+- Salida-Tres puertos USB (5V/2.1A, 5V/2.1A, 5V/2.1A) con un total de salida 5V/4.2A rápido le permite cargar 3 dispositivos simultáneamente y convenientemente.
 - La bateria recargable de Li-polímero celular con una enorme capacidad 26800mah es capaz de almacenar una enorme cantidad de energía. Es un compañero perfecto para la gente en viaje.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081F1JMMM/?tag=tolees-21)
