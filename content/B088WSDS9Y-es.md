@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEKAN Adaptador WiFi  USB 3.0 AC 1200Mbp al 15.01 % de rebaja'
-date: 2021-03-02 13:31:19
+date: 2021-03-03 14:09:48
 image: 'https://m.media-amazon.com/images/I/412tQqzNxeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NEKAN'
 buyurl: 'https://www.amazon.es/dp/B088WSDS9Y/?tag=tolees-21'
 descuento: '15.01'
-average: '16.5935087719297'
+average: '16.5417241379309'
 ---
 
 Tienes [NEKAN Adaptador WiFi  USB 3.0 AC 1200Mbps Dongle 802.11 con Dual Band 5Ghz / 2.4Ghz  Antena de Alta Ganancia de 5dBi WiFi Receptor para PC Desktop Tablet  Compatible con Windows XP/7/8/8.1/10.](https://www.amazon.es/dp/B088WSDS9Y/?tag=tolees-21) con precio final de  13.59 EUR (original: 15.99 EUR) (15.01 %  de rebaja) aqui!
