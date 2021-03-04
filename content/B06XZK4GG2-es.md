@@ -28,10 +28,10 @@ Ahora mismo tienes [Brother HL-L8260CDW - Impresora láser  Color  WiFi  Doble C
 
 🔎:
 
-- Dúplex automático de impresión
-- Bandeja de entrada de 250 hojas
-- Bandeja multipropósito de 50 hojas
 - Velocidad de impresión de hasta 31ppm color y monocromo
+- Bandeja multipropósito de 50 hojas
+- Bandeja de entrada de 250 hojas
+- Dúplex automático de impresión
 - Conexión a red Ethernet y WiFi
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XZK4GG2/?tag=tolees-21)
