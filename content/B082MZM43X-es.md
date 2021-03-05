@@ -28,10 +28,10 @@ En este momento está [Lenovo G25-10 24.5 " FHD TN G-Sync Gaming Monitor 144 Hz 
 
 🔎:
 
-- FreeSync: Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
+- 25" Full HD TN: Esta pantalla TN de 25" pulgadas ofrece una experiencia de usuario fantástica e imágenes nítidas y óptimas gracias a su resolución Full HD (1920 x 1080)
 - Puertos HDMI y DP: Conéctate a través del cable HDMI de 1.8 m que viene incluido
+- FreeSync: Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
 - 1 ms y 144Hz: Atrévete a jugar con este monitor, tendrás una imagen más fluida gracias a su tiempo de respuesta impresionante de 1 ms
 - Diseño elegante: Este monitor ergonómico casi sin bordes dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
-- 25" Full HD TN: Esta pantalla TN de 25" pulgadas ofrece una experiencia de usuario fantástica e imágenes nítidas y óptimas gracias a su resolución Full HD (1920 x 1080)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082MZM43X/?tag=tolees-21)

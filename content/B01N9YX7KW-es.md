@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung Led View  Funda para smartphone Samsung Galaxy S8 Pl
 
 🔎:
 
-- Discreta y funcional, protege a la vez que realza su revolucionario diseño
 - Producto no compatible con Samsung Galaxy S8
-- Confortable, segura, discreta, estilizada… todo son ventajas en una funda tan minimalista que no notarás que la llevas
 - Garantiza seguridad y durabilidad
+- Discreta y funcional, protege a la vez que realza su revolucionario diseño
+- Confortable, segura, discreta, estilizada… todo son ventajas en una funda tan minimalista que no notarás que la llevas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N9YX7KW/?tag=tolees-21)
