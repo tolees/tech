@@ -28,11 +28,11 @@ Tienes [Apple AirPods con estuche de carga inalámbrica  2ª generación ](https
 
 ℹ️:
 
-- Cambio fácil de un dispositivo a otro
-- Estuche de carga inalámbrica para disfrutar de más de 24horas de autonomía
 - El estuche se puede cargar sin cables mediante un cargador con certificación Qi outilizando el conector Lightning
-- Configuración sencilla con todos tus dispositivos Apple
+- Cambio fácil de un dispositivo a otro
 - Ajuste universal para una gran comodidad todo el día
+- Estuche de carga inalámbrica para disfrutar de más de 24horas de autonomía
+- Configuración sencilla con todos tus dispositivos Apple
 - Activación y conexión automáticas
 - Acceso rápido a Siri con solo decir «Oye Siri»
 
