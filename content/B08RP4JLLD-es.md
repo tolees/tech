@@ -30,8 +30,8 @@ Tienes [Xiaomi Redmi Note 9T 5G  Pantalla FHD+ de 6.53"  4GB+64 GB  Cámara trip
 
 - Cámara triple trasera de 48MP. Cámara de alta resolución con herramientas creativas. Y cámara frontal selfie de 13MP
 - Pantalla de 6.53" DotDisplay, equipada con Corning Gorilla Glass 5 y una resolución de 2340x1080 FHD+
+- Redmi Note 9T. Preparados, listos, 5G!
 - Procesador MediaTek Dimensity 800U y Bateria de 5000 mAh con carga rápida de 18W.
 - Duplica tu experiencia 5G. La doble tarjeta SIM 5G+5G te permite disfrutar de una completa experiencia 5G
-- Redmi Note 9T. Preparados, listos, 5G!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RP4JLLD/?tag=tolees-21)

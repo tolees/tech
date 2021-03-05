@@ -28,7 +28,7 @@ Tienes [Kingston A400 SSD SA400S37/240G - Disco duro sólido interno 2.5" SATA 2
 
 ℹ️:
 
-- Kingston SSD A400 Solid State Drive (2. 5 Inch SATA 3), 240 GB.
 - Kingston Solid State Drive are Operating System independent and will run on any system supporting a standard Serial Advanced Technology Attachment interface
+- Kingston SSD A400 Solid State Drive (2. 5 Inch SATA 3), 240 GB.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21)
