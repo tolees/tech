@@ -28,9 +28,9 @@ Está [Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de 6.53" DotDisplay  3
 
 ℹ️:
 
-- Procesador: Mediatek Helio G85 2GHz
 - OS: Android 10
 - Batería: 5020 mAh
+- Procesador: Mediatek Helio G85 2GHz
 - Pantalla: 6.53", 1080 x 2340 pixels
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 
