@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TUREWELL - Android TV Box  T9 Android 9. al 15.00 % de descuento'
-date: 2021-03-05 18:02:30
+date: 2021-03-06 22:11:49
 image: 'https://m.media-amazon.com/images/I/41JhzbInAWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TUREWELL'
 buyurl: 'https://www.amazon.es/dp/B07W6NS1VC/?tag=tolees-21'
 descuento: '15.00'
-average: '31.7388709677418'
+average: '31.7029687499999'
 ---
 
 Está [TUREWELL - Android TV Box  T9 Android 9.0 TV Box 2GB RAM / 16GB ROM RK3318 Quad-Core Support 2.4 / 5Ghz WiFi BT4.0 4K 3D HDMI DLNA Smart TV Box](https://www.amazon.es/dp/B07W6NS1VC/?tag=tolees-21) con 15.00 de descuento por 30.59 EUR (original: 35.99 EUR) en el siguiente enlace!
