@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-W830 - Cámara compacta de 20.1  al 29.29 % de descuento'
-date: 2021-03-05 17:59:36
+date: 2021-03-06 19:28:57
 image: 'https://m.media-amazon.com/images/I/51FRCiphQFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Sony DSC-W830 - Cámara compacta de 20.1 Mp  pantalla de 2.7"  zoom ópti
 
 ℹ️:
 
-- Captura imágenes panorámicas con el barrido de 360°
-- Camara compacta con sensor Super HAD CCD de 20.1 MP
-- Enfoque automático y modo Fiesta integrado
 - Lente de zoom óptico de 8x y modo vídeo HD 720p
+- Enfoque automático y modo Fiesta integrado
+- Camara compacta con sensor Super HAD CCD de 20.1 MP
+- Captura imágenes panorámicas con el barrido de 360°
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HH8A6XE/?tag=tolees-21)
