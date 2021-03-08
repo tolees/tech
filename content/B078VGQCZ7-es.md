@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony WFSP700NP.CE7 - Auriculares deportivos totalmente inal�
 
 🔎:
 
-- Auriculares con sujeción segura que se mantienen cómodamente en las orejas
 - Totalmente inalámbricos con transmisión Bluetooth
+- Auriculares con sujeción segura que se mantienen cómodamente en las orejas
 - El modo sonido ambiente te permite escuchar los sonidos esenciales
 - Llamadas fáciles con manos libres con solo pulsar un botón
 - La función Noise Cancelling digital te permite escuchar sin distracciones

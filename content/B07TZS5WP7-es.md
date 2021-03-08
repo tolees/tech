@@ -28,11 +28,11 @@ Ahora mismo tienes [Lenovo Tab M10 - Tablet de 10.1" HD/IPS  Qualcomm Snapdragon
 
 🔎:
 
+- Procesador Qualcomm Snapdragon 429 (4C, 4x A53 @2.0GHz)
+- Tarjeta gráfica Integrada Qualcomm Adreno 504 GPU
+- Almacenamiento de 32GB eMMC
+- Pantalla táctil de 10.1" HD 1280x800 píxeles, IPS, 300nits
 - Sistema operativo Android
 - Memoria RAM de 2GB Soldered
-- Tarjeta gráfica Integrada Qualcomm Adreno 504 GPU
-- Pantalla táctil de 10.1" HD 1280x800 píxeles, IPS, 300nits
-- Procesador Qualcomm Snapdragon 429 (4C, 4x A53 @2.0GHz)
-- Almacenamiento de 32GB eMMC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TZS5WP7/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [POWERADD EnergyCell II Batería Externa USB C 26800mAh con PD 30W Carga 
 
 🔎:
 
-- Protección múltiple, facilidad de uso seguridad -Construido con batería del polímero del litio. Le ofrece la protección de sobrepotencia, contra sobrecalentamiento, contra cortocircuitos, contra sobrecorriente para proteger a usted y a sus dispositivos.
-- Enorme capacidad de 26800mAh, Esta batería externa es compatible al mayor móvil y otros dispositivos electrónicos, satisfaga sus diferentes necesidades de carga, puede carga iPhone 8:9 veces, Galaxy S8:5.5veces, MacBook 12inch:1.5 veces, carga el iPhone 8 hasta en un 50% en solo 30 minutos.
-- La salida de tipo C alcanza hasta 30W que coincide con el cargador original de CA MacBook, por lo que puede cargar todos los dispositivos, incluyendo un MacBook en todo momento. Cargar su móvil, tableta y MacBook con velocidad rápida.
 - 2 entrada y 3 salida más conveniente, resuelve el problema de la carga simultánea de múltiples dispositivos. Además, obtendrás: Batería Externa 26800mAh x1, manual de usuariox1, 3-en-1 Cable x1 y funda de protección.
+- La salida de tipo C alcanza hasta 30W que coincide con el cargador original de CA MacBook, por lo que puede cargar todos los dispositivos, incluyendo un MacBook en todo momento. Cargar su móvil, tableta y MacBook con velocidad rápida.
 - USB C PD 30W-El puerto bidireccional USB tipo-C admite entrada y salida rápidas, en tan sólo tarda 4 horas en cargarse a través del puerto de tipo C (se recomienda utiliza el adaptador PD).
+- Enorme capacidad de 26800mAh, Esta batería externa es compatible al mayor móvil y otros dispositivos electrónicos, satisfaga sus diferentes necesidades de carga, puede carga iPhone 8:9 veces, Galaxy S8:5.5veces, MacBook 12inch:1.5 veces, carga el iPhone 8 hasta en un 50% en solo 30 minutos.
+- Protección múltiple, facilidad de uso seguridad -Construido con batería del polímero del litio. Le ofrece la protección de sobrepotencia, contra sobrecalentamiento, contra cortocircuitos, contra sobrecorriente para proteger a usted y a sus dispositivos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08519GFHF/?tag=tolees-21)

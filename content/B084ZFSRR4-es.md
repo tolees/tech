@@ -28,10 +28,10 @@ Tienes [POWERADD EnergyCell Cargador Portátil 26800mAh Batería Externa con 2 E
 
 🔎:
 
-- Tres puertos de salida: La velocidad de carga de un puerto es de 5V/3A, garantiza la carga de alta velocidad para 3 dispositivos al mismo tiempo. Compatible con casi cualquier dispositivo alimentado por USB.
-- Dos puertos de entrada, puede cargar su batería externa al mismo tiempo, cada puerto es de 5V/2.1A y puede alcanzar una velocidad hasta 4.2A, aumentando en gran medida la velocidad de carga del cargador portátil.
-- Paquete incluido: Batería externa 26800mAh x1, funda de protección x1, usuario manual x1, 3 en 1 cable x1 (Puede cargar su teléfono móvil sin preocupaciones, sin importar si está equipado con un micro puerto, tipo C o el puerto para iPhone)
 - Tamaño compacto: Es más compacto y exquisito que la mayoría de los cargador portátil 26800 mAh, el tamaño es 17.8x7.3x2.5cm. Es un buen socio para su viaje de negocios.
 - Gran capacidad 26800mAh power bank: Ofrece 10 cargas para el iphone 8, 6.5 cargas para el Galaxy S8, 2 cargas para el iPadAir 2. No te preocupes por perder el contacto con la gente cuando estás fuera por el móvil sin energía.
+- Dos puertos de entrada, puede cargar su batería externa al mismo tiempo, cada puerto es de 5V/2.1A y puede alcanzar una velocidad hasta 4.2A, aumentando en gran medida la velocidad de carga del cargador portátil.
+- Paquete incluido: Batería externa 26800mAh x1, funda de protección x1, usuario manual x1, 3 en 1 cable x1 (Puede cargar su teléfono móvil sin preocupaciones, sin importar si está equipado con un micro puerto, tipo C o el puerto para iPhone)
+- Tres puertos de salida: La velocidad de carga de un puerto es de 5V/3A, garantiza la carga de alta velocidad para 3 dispositivos al mismo tiempo. Compatible con casi cualquier dispositivo alimentado por USB.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084ZFSRR4/?tag=tolees-21)
