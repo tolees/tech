@@ -28,10 +28,10 @@ Tienes [UGREEN Cargador USB C 30W  Cargador Carga Rapida Power Delivery 3.0  Car
 
 ℹ️:
 
-- Se desconecta automáticamente: Cuando el móvil está completamente cargado, se desconecta automáticamente, y al mismo tiempo tiene multiprotecciones contra la sobrecarga y sobretensión, preveniendo así los posibles daños a la batería o el mismo cargador.
-- Cargador Carga Rapida 30W: Cargador Carga Rapida puede cargar tu dispositivo hasta un 50 % más rápido que la carga estándar de 5 W. Especialmente utilizado en iPhone 12, 12 Pro, 12 Mini, 12 Pro Max, 9, 11, XR, XS, X, 8, SE 2020 y iPad pro 2018 2020 ahorra mucho tiempo.
-- Diseñado específicamente para Xiaomi: 30W Cargador USB C Power Delivery 3.0 ofrece una carga más rápida, la función de carga rápida llena la batería de tu Xiaomi Mi, Redmi K20 pro, Redmi Note 8 de 0 a 50% en 30 minutos.
 - Compatible con los moviles con PD 3.0, PD 2.0, QC 3.0, QC2.0, BC1.2, com Nintendo Switch, airpods pro, Huawei P30, P20, Mate 20, Google Pixel 3 XL, 2XL, XL, Xiaomi Redmi Note 7, Redmi Note 8, A3, Mi9, MIX 2,Mi 6, Nokia 9 PureView, 8 Sirocco, 8, 7, 7 Plus.
+- Cargador Carga Rapida 30W: Cargador Carga Rapida puede cargar tu dispositivo hasta un 50 % más rápido que la carga estándar de 5 W. Especialmente utilizado en iPhone 12, 12 Pro, 12 Mini, 12 Pro Max, 9, 11, XR, XS, X, 8, SE 2020 y iPad pro 2018 2020 ahorra mucho tiempo.
+- Se desconecta automáticamente: Cuando el móvil está completamente cargado, se desconecta automáticamente, y al mismo tiempo tiene multiprotecciones contra la sobrecarga y sobretensión, preveniendo así los posibles daños a la batería o el mismo cargador.
+- Diseñado específicamente para Xiaomi: 30W Cargador USB C Power Delivery 3.0 ofrece una carga más rápida, la función de carga rápida llena la batería de tu Xiaomi Mi, Redmi K20 pro, Redmi Note 8 de 0 a 50% en 30 minutos.
 - Incorporado chip IC: Cuenta con "sistema de seguridad" , el sistema puede reducir el calor dinámicamente eligiendo la ruta más fría, para que regular la temperatura evitando sobrecalentamientos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFK5PZD/?tag=tolees-21)

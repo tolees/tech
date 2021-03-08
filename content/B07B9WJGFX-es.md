@@ -28,10 +28,10 @@ Tienes [STAROVER Cartucho de Tóner Compatible Repuesto para HP 79A CF279A para 
 
 🔎:
 
-- Excelente rendimiento de impresión: la tasa de transferencia de tóner es superior al 90 por ciento; la tasa de tóner residuos es inferior al 5 por ciento; la restauración del color es superior al 95 por ciento
 - Lo que recibirá: paquete de 2 CF279A (79A)
 - Rendimiento de página: 1,000 páginas por negro
 - Funciona perfectamente con: HP LaserJet Pro MFP M26 M26nw M26a, HP LaserJet Pro MFP M12 M12w M12a Printer
 - Componentes de grado superior: molde nuevo, grado A OPC, tóner polimerizado avanzado
+- Excelente rendimiento de impresión: la tasa de transferencia de tóner es superior al 90 por ciento; la tasa de tóner residuos es inferior al 5 por ciento; la restauración del color es superior al 95 por ciento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B9WJGFX/?tag=tolees-21)
