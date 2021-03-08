@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'ELEGIANT Aro de Luz Trípode  Anillo de L con un 19.06 % de descuento'
-date: 2021-02-10 20:16:07
-image: 'https://m.media-amazon.com/images/I/411ft-Q4w-L._SL200_.jpg'
+title: 'ELEGIANT Aro de Luz Trípode  Anillo de L con un 36.27 % de descuento'
+date: 2021-03-08 16:20:44
+image: 'https://m.media-amazon.com/images/I/411ft-Q4w-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B083ZQNBXK-es ELEGIANT Aro de Luz Trípode Anillo de Luz LED para Móvil...'
 sku: 'B083ZQNBXK-es'
 tags: [ 'móvil', ]
-actualPrice: 16.99 EUR
+actualPrice: 12.74 EUR
 currency: EUR
-price: 16.99
-comparePrice: 20.99 EUR
+price: 12.74
+comparePrice: 19.99 EUR
 prodname: 'ELEGIANT Aro de Luz Trípode  Anillo de Luz LED para Móvil con 10 Colores RGB + 10 Niveles de Brillo para Fotografía  Grabación de Vídeo  Maquillaje  Transmisión en Vivo  Vlog  Youtube  TIK Tok'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ELEGIANT'
 buyurl: 'https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21'
-descuento: '19.06'
-average: '20.2264705882353'
+descuento: '36.27'
+average: '19.5708'
 ---
 
-En este momento está [ELEGIANT Aro de Luz Trípode  Anillo de Luz LED para Móvil con 10 Colores RGB + 10 Niveles de Brillo para Fotografía  Grabación de Vídeo  Maquillaje  Transmisión en Vivo  Vlog  Youtube  TIK Tok](https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21) a 16.99 EUR (original: 20.99 EUR) (19.06 %  de descuento) en el siguiente enlace!
+En este momento está [ELEGIANT Aro de Luz Trípode  Anillo de Luz LED para Móvil con 10 Colores RGB + 10 Niveles de Brillo para Fotografía  Grabación de Vídeo  Maquillaje  Transmisión en Vivo  Vlog  Youtube  TIK Tok](https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21) a 12.74 EUR (original: 19.99 EUR) (36.27 %  de descuento) en el siguiente enlace!
 
-[![ELEGIANT Aro de Luz Trípode  Anillo de L](https://m.media-amazon.com/images/I/411ft-Q4w-L._SL200_.jpg)](https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21)
+[![ELEGIANT Aro de Luz Trípode  Anillo de L](https://m.media-amazon.com/images/I/411ft-Q4w-L._SL400_.jpg)](https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21)
 
 🔎:
 
-- 【10 RGB Color for Option & 10 Adjustable Brightness Levels】: ELEGIANT LED ring light has 10 light colors - not only warm, warm white, white, but also 7 color changes namely red, green, blue, mixed white, yellow, pink, orange are available. Each light color has 10 different brightness. The bright colors can create unique atmosphere and meet your different needs in different occasions.
-- 【360 ° Rotatable Ring Frame & 20 cm Adjustable Tripod】: The ring light frame can be rotated vertically by 360 degrees. You can create the three angles according to your needs. The 20cm tripod stand with screw plug can be freely assembled and folded. You can also adjust the height of the tripod.
-- 【High Quality Material & Curved Light Cover】: The frame is made of aluminum and the lampshade is made of polypropylene which give you more comfortable using experience. What is more, the unique curved LED light cover makes the light softer, more balanced and wider.
-- 【8.0” LED Ring Light & 2700k to 5500K adjustable】: Equipped with stable tripod, ELEGIANT EGL-03 Selfie ring light is more powerful than the existing ring lights. The width of the ring is 1.14 inches. The table ring light consists of 72 pcs LED beads which can provide you provide a better lighting effect on your makeup, video shooting and so on. Our color temperature is adjustable from 2700k to 5500K.
-- 【With USB Port & Extensive Use】: Our selfie ring light tripod is with USB port. You can plug the USB connector into PC, adapter or power Bank. Plug and play. Simple power supply. This ring light can be used for YouTube video, live streaming, make-up, desktop, selfie, portrait, volg, make-up etc. Please feel free to contact us if you need help as this one comes with 18 month warranty.
+- ▶ 【10 cambios de color RGB & 10 niveles de brillo】: la luz de anillo ELEGIANT LED tiene 10 colores de luz, no solo cálidos, blancos cálidos, blancos, sino también 7 cambios de colores, a saber, rojo, verde, azul, blanco mixto, amarillo, rosa, naranja disponibles. Cada color de luz tiene 10 brillos diferentes. Los colores brillantes pueden crear una atmósfera única y satisfacer sus diversas necesidades.
+- ▶ 【Con conexión USB & Uso extenso】: Nuestro trípode de luz de anillo selfie es con conexión USB. Con el controlador 3A puede encender la luz del anillo LED directamente, cambiar los modos y controlar los niveles de luz. Puede enchufar el conector USB a una PC, adaptador o banda de alimentación. Plug and play. Fuente de alimentación fácil. Esta luz de anillo se puede usar para videos de YouTube, transmisión en vivo, maquillaje, escritorio, selfie, retrato, maquillaje, etc.
+- ▶ 【Anillo de luz LED de 8 pulgadas & 2700k a 5500K ajustable】: ELEGIANT Selfie ring light con trípode es más potente. El diámetro de la luz del anillo es de 8 pulgadas y el ancho del anillo es de 1,14 pulgadas. La luz del anillo de mesa consta de 72 piezas de cuentas LED. Nuestra temperatura de color es ajustable de 2700k a 5500K.
+- ▶ 【Marco del anillo giratorio de 360 ​​° & Trípode ajustable】: El marco de la luz del anillo se puede girar verticalmente 360 ​​grados. Puede crear los tres ángulos según sus necesidades. El trípode de 20 cm con tapón de rosca se puede montar y plegar libremente. También puede ajustar la altura del trípode.
+- ▶ 【Material de alta calidad & Cubierta de luz curvada】: El marco está hecho de aluminio y la pantalla de la lámpara está hecha de polipropileno. El trípode está hecho de metal, por lo que no tiene que preocuparse por romperse o desmoronarse; la cubierta de luz LED curva hace que la luz sea más suave, más uniforme y más ancha.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083ZQNBXK/?tag=tolees-21)
