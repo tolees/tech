@@ -28,10 +28,10 @@ Está [QueenDer Ratón Gaming[7200DPI] Ratón para Juegos Wired Profesional Cabl
 
 ℹ️:
 
+- 【Plug & Play】 QueenDer está equipado con el sensor preciso disponible en el mercado, el control del cursor inteligente, conciso y fácil de usar. El monitoreo en muchas superficies diferentes es uniforme y sin errores, con más de 5,000,000 de clics en tiempos de vida útil
 - 【Excelente experiencia en juegos de PC】 El mouse para juegos profesionales es su arma para los juegos de PC. Hecho de material de caucho de alta calidad, con textura de acabado de materia. Con un botón sensible y un diseño suave, el jugador ganará los desafíos
-- 【DPI ajustable】4 niveles de DPI: 1200/2400/4800/7200 DPI, use el botón DPI para cambiar. Use la combinación de teclas "IE adelante / atrás" + DPI para cambiar el modo de luz de fondo (respiración de ciclo de 4 colores → respiración monocromática → silencio → respiración de ciclo de 4 colores), también puede optar por encender o apagar la luz de fondo presionando prolongadamente DPI
 - 【Sistema compatible】 Windows XP, Vista, Me, Win2000 / 7/8/10, Mac OS o el último sistema operativo
 - 【Diseño ergonómico】 Las curvas naturales encajan perfectamente en su palma, mientras que el lado inferior deslizante proporciona un control flexible. El diseño ergonómico para diestros con superficie de pintura de goma, ofrece una experiencia increíble que garantiza una forma cómoda entre los dedos y el mango de estilo garra
-- 【Plug & Play】 QueenDer está equipado con el sensor preciso disponible en el mercado, el control del cursor inteligente, conciso y fácil de usar. El monitoreo en muchas superficies diferentes es uniforme y sin errores, con más de 5,000,000 de clics en tiempos de vida útil
+- 【DPI ajustable】4 niveles de DPI: 1200/2400/4800/7200 DPI, use el botón DPI para cambiar. Use la combinación de teclas "IE adelante / atrás" + DPI para cambiar el modo de luz de fondo (respiración de ciclo de 4 colores → respiración monocromática → silencio → respiración de ciclo de 4 colores), también puede optar por encender o apagar la luz de fondo presionando prolongadamente DPI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DMGS1MX/?tag=tolees-21)

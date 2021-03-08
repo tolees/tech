@@ -28,10 +28,10 @@ En este momento está [Jelly Comb Funda con Teclado Español Ñ para Samsung Tab
 
 🔎:
 
-- Teclado Bluetooth retroiluminado de siete colores: puede cambiar fácilmente el color y el brillo del teclado presionando la tecla Fn con la tecla de luz o presionando directamente la tecla de luz.
-- Funda protectora para Samsung: esta funda con teclado está especialmente diseñada para la Samsung Tab S7 (SM-T870 / 875). Con su elegante diseño, la funda protege tu Samsung Tab de arañazos y caídas.
 - Teclado portátil: el teclado Bluetooth para Samsung Tab S7 está conectado magnéticamente a la funda protectora y se puede quitar o colocar directamente cuando sea necesario.
 - Los ángulos de visión son ajustables y hacen que trabajar, aprender y entretenerse sea más agradable.
+- Funda protectora para Samsung: esta funda con teclado está especialmente diseñada para la Samsung Tab S7 (SM-T870 / 875). Con su elegante diseño, la funda protege tu Samsung Tab de arañazos y caídas.
 - Teclado recargable: el teclado tiene una batería recargable de 650 mAh incorporada y puede funcionar durante 220 horas sin luz de fondo o 6 horas con luz de fondo. El tiempo de espera es de hasta 800 horas.
+- Teclado Bluetooth retroiluminado de siete colores: puede cambiar fácilmente el color y el brillo del teclado presionando la tecla Fn con la tecla de luz o presionando directamente la tecla de luz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H1Y38SD/?tag=tolees-21)
