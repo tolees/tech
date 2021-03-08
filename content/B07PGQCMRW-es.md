@@ -28,10 +28,10 @@ Ahora mismo tienes [Huawei Funda - Flip Wallet Cover Negra para Huawei P30 Pro](
 
 🔎:
 
-- Soporte de sobremesa: no
 - Funciones de protección: crash-proof, dust-resistant, protección contra arañazos
-- Compatibilidad: huawei p30 pro
 - Huawei funda para p30 pro
+- Soporte de sobremesa: no
+- Compatibilidad: huawei p30 pro
 - Tamaño máximo de pantalla: 16, 4 cm (6.47")
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PGQCMRW/?tag=tolees-21)

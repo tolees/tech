@@ -28,10 +28,10 @@ Tienes [MOZA Aircross 2 Estabilizador Gimbal de 3 Ejes para cámaras compactas  
 
 🔎:
 
+- 📷Peso Gimbal 950 g (2 libbre); Carga 3,2 kg (7 libbre). Compatible con una amplia gama de cámaras y objetivos
+- 📷Nota: i focus m no está incluido en el paquete. Si lo necesita, puede comprarlo por separado. Si tiene alguna pregunta, no dude en ponerse en contacto conmigo.
+- 📷Batería de 12 horas de duración, con sólo 1,5 horas para una carga completa
 - 📷MOZA AirCross 2 incluye todas las funciones de captura creativa de los Gimbal MOZA, con modos de captura adicionales para expresar toda tu creatividad. Timelapse; Motion Timelapse; Motion Control; Panorama.
 - 📷Panel de control intuitivo: Smart Wheel, pantalla OLED y Smart Trigger. Fácil instalación: auto-tuning, design de bloqueo de tres ejes, soporta el modo vertical y puede fijarse en todo lugar.
-- 📷Peso Gimbal 950 g (2 libbre); Carga 3,2 kg (7 libbre). Compatible con una amplia gama de cámaras y objetivos
-- 📷Batería de 12 horas de duración, con sólo 1,5 horas para una carga completa
-- 📷Nota: i focus m no está incluido en el paquete. Si lo necesita, puede comprarlo por separado. Si tiene alguna pregunta, no dude en ponerse en contacto conmigo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WRSW269/?tag=tolees-21)

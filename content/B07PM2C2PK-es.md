@@ -28,8 +28,8 @@ Ahora mismo tienes [Huawei TWS CM-H1C - Auriculares con Bluetooth  Color Blanco 
 
 🔎:
 
-- Talla Única
 - Color: Blanco
 - Huawei TWS CM-H1C - Auriculares con Bluetooth, color blanco
+- Talla Única
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PM2C2PK/?tag=tolees-21)
