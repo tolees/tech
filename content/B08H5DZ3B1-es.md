@@ -29,8 +29,8 @@ Está [ASUS VP229HE Monitor Eye Care ASUS VP229HE: 21.5 Pulgadas  FHD  Full HD 1
 ℹ️:
 
 - Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon. Compatible con tarjetas gráficas NVIDIA GeForce serie GTX 10, GTX 16, RTX 20 y otras más recientes
-- Pantalla LED FHD (1920x1080) de 21.5" con 178 de ángulo de visión
 - Interfaz de puertos completa: HDMI y D-sub
+- Pantalla LED FHD (1920x1080) de 21.5" con 178 de ángulo de visión
 - Hasta 75 Hz de frecuencia de refresco con Adaptive-Sync/FreeSync para eliminar defectos de la imagen y disfrutar de una reproducción vídeo perfecta
 - Para asegurar una visualización más cómoda, los monitores Eye Care de ASUS tienen certificación Antiparpadeo y Luz azul de baja intensidad de los laboratorios TÜV Rheinland
 
