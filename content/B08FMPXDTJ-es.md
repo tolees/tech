@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9C NFC-Smartphone de 6.53"  con un 21.48 % de descuento'
-date: 2021-03-08 21:59:09
+date: 2021-03-09 22:02:24
 image: 'https://m.media-amazon.com/images/I/41AAp25enVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21'
 descuento: '21.48'
-average: '134.626174496642'
+average: '134.392715231785'
 ---
 
 En este momento está [Xiaomi Redmi 9C NFC-Smartphone de 6.53" HD+  3GB+64GB  3x cámara trasera de 13MP con IA  MediaTek Helio G35  Batería 5000 mAh  10 W carga rápida   Gris [Versión ES/PT]](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21) a 117.0 EUR (original: 149.0 EUR) (21.48 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [Xiaomi Redmi 9C NFC-Smartphone de 6.53" HD+  3GB+64GB  3x
 
 🔎:
 
+- Batería de alta capacidad de 5000 mah con carga rápida de 10w.
 - Cargador tipo A
-- Tamaño_nombre/color_nombre
+- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
 - El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
+- Tamaño_nombre/color_nombre
+- Tipo de pantalla: LCD
 - Sistema de triple cámara trasera de 13 mp con ia, video full hd a 30fps y cámara frontal selfie de 5 mp
 - Ranuras de memoria disponibles: 1
-- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
-- Batería de alta capacidad de 5000 mah con carga rápida de 10w.
-- Tipo de pantalla: LCD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21)

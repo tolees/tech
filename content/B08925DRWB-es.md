@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.01 % en Axloie Altavoz Portátil Bluetooth 5.0 Al'
-date: 2021-03-08 21:26:38
+date: 2021-03-09 22:23:18
 image: 'https://m.media-amazon.com/images/I/31TwGt6cOdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Axloie'
 buyurl: 'https://www.amazon.es/dp/B08925DRWB/?tag=tolees-21'
 descuento: '15.01'
-average: '19.3173469387755'
+average: '19.2861073825503'
 ---
 
 Tienes [Axloie Altavoz Portátil Bluetooth 5.0 Altavoz Inalámbrico con Graves Profundos Sonido Estéreo 10H de Reproducción Tarjeta TF/AUX Micrófono Incorporado para Viajes Fiesta Casa  Negro ](https://www.amazon.es/dp/B08925DRWB/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 16.99 EUR (original: 19.99 EUR) en el siguiente enlace!
