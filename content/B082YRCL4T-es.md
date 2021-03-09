@@ -29,9 +29,9 @@ Tienes [SteelSeries Apex 3 - Teclado RGB para Gaming  Iluminación RGB de 10 Zon
 🔎:
 
 - Reposamuñecas magnético superior: brinda confort y soporte completo para las palmas de las manos
-- La distribución de teclado de este producto es español qwerty; la distribución diferirá de las imágenes del producto, que tienen el teclado americano qwerty
 - Switches silenciosos para gaming: 20.millones de pulsaciones con un bajo nivel de fricción y ruido
-- Resistencia al agua ip32: evita daños accidentales por líquidos vertidos
 - Iluminación rgb de 10 zonas: esquema de color y efectos reactivos
+- La distribución de teclado de este producto es español qwerty; la distribución diferirá de las imágenes del producto, que tienen el teclado americano qwerty
+- Resistencia al agua ip32: evita daños accidentales por líquidos vertidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082YRCL4T/?tag=tolees-21)

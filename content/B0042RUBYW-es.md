@@ -29,8 +29,8 @@ Ahora mismo tienes [Canon Cartucho 728 - Tóner  2100 páginas  compatible con i
 🔎:
 
 - Tipo de embalaje: caja
-- Cantidad por paquete: 1 pieza
 - Rendimiento de impresión de tóner negro: 2100 páginas
+- Cantidad por paquete: 1 pieza
 - Tecnología de impresión: impresión láser
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0042RUBYW/?tag=tolees-21)
