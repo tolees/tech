@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony PS-LX310BT - Tocadiscos  Conectividad Bluetooth  admite
 
 🔎:
 
-- Two operating speeds: 33 1/3 and 45 revolutions per minute and 3 increment modes to adjust the volume instantly.
 - From jazz rhythms to classic concerts, hip-hop and pop, you will appreciate the warm and fluid sound of the vinyl thanks to the carefully crafted parts and the design
+- Two operating speeds: 33 1/3 and 45 revolutions per minute and 3 increment modes to adjust the volume instantly.
 - Designed in a minimalist style for easy control. Simply press "play" and your vinyl turntable will start playing your recording from the last connected device.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MFBCCQG/?tag=tolees-21)
