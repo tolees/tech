@@ -28,9 +28,9 @@ Tienes [Canon EF 85mm f/1.8 USM - Objetivo para Canon  Distancia Focal Fija 85mm
 
 ℹ️:
 
-- Motor de enfoque USM con enfoque manual continuo
-- Teleobjetivo mediano/corto
 - Tamaño de filtro de 58 mm
+- Motor de enfoque USM con enfoque manual continuo
 - Distancia mínima de enfoque de 85 cm
+- Teleobjetivo mediano/corto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00005NPOB/?tag=tolees-21)
