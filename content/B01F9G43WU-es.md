@@ -28,8 +28,8 @@ En este momento está [SanDisk SDSSDA-240G Plus – Disco sólido interno de 240
 
 🔎:
 
-- Ofrece resistencia probada a golpes y vibraciones
 - Hasta 20 veces más rápida que un disco duro estándar
+- Ofrece resistencia probada a golpes y vibraciones
 - 240 GB: velocidades de lectura/escritura de hasta 535 MB/s/445 MB/s
 - Arranque, apagado, carga de aplicaciones y respuesta más rápidos
 
