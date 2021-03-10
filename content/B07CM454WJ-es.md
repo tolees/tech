@@ -28,10 +28,10 @@ Tienes [Mini cámara  Mini Cam 1080P SPY Hide Camera sansnail HD Baby Sitter Net
 
 🔎:
 
-- 【 récord duradero 】 La cámara HD puede cargarse desde cargador DC-5 V mientras se trabaja y continua la grabación de vídeo, el tiempo feliz no puede se interrumpe, también el cable con puede ser conectado a la pantalla tv Out para la visualización y la transmisión de los datos.
-- 【 clara visión nocturna 】 Clear Night Vision con 6 unidades IR LED se ilumina para la iluminación mínima mínima, pero sin luz roja visible a infrarrojos en forma que nadie lo nota. La mini cámara portátil se puede utilizar como una cámara web, dos botones son fáciles de aprender y usar la mini cámara de acción.
 - 【 Grabación de Ciclo 】 grabación del ciclo de apoyo y función MOTION detection con modo 1080P/720P, resolución fotográfica de 12 millones de píxeles (4032 * 3024), archivos bucles guardados.
+- 【 récord duradero 】 La cámara HD puede cargarse desde cargador DC-5 V mientras se trabaja y continua la grabación de vídeo, el tiempo feliz no puede se interrumpe, también el cable con puede ser conectado a la pantalla tv Out para la visualización y la transmisión de los datos.
 - 【 ventajas 】 Tarjeta TF de 16 GB (tarjeta de memoria), micrófono incorporado, incluyendo los accesorios que admiten solo sansnail: Reset Pin y tarjeta TF de 16 GB. Gracias por haber elegido el Marca sansnail. Le ofrecemos una garantía de un año.
+- 【 clara visión nocturna 】 Clear Night Vision con 6 unidades IR LED se ilumina para la iluminación mínima mínima, pero sin luz roja visible a infrarrojos en forma que nadie lo nota. La mini cámara portátil se puede utilizar como una cámara web, dos botones son fáciles de aprender y usar la mini cámara de acción.
 - 【 HD 1080P 】 Super Mini Mini cámara piloto oculta con resoluciones 1080p/720p, volumen de diseño cuadrado compacto de aproximadamente 0,65 cu., imagen de alta calidad y se adapta a todos los tipos de herramientas portátiles, soporte y clip puede Soled el mini DV.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CM454WJ/?tag=tolees-21)
