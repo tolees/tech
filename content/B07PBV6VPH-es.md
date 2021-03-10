@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GeekerChip 2.5   HDD SSD Hard Drive Cadd al 15.02 % de descuento'
-date: 2021-03-08 21:51:08
+date: 2021-03-10 10:34:51
 image: 'https://m.media-amazon.com/images/I/51d+hOMKOVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GeekerChip'
 buyurl: 'https://www.amazon.es/dp/B07PBV6VPH/?tag=tolees-21'
 descuento: '15.02'
-average: '7.70011235955054'
+average: '7.68999999999998'
 ---
 
 Está [GeekerChip 2.5   HDD SSD Hard Drive Caddy 9.5mm Soporte Adaptador óptica bahías de Disco Duro Caddy SATA 2nd 2.5   HDD/SSD para HP/ASUS/Acer/DELL/Lenovo/Laptops etc](https://www.amazon.es/dp/B07PBV6VPH/?tag=tolees-21) con 15.02 de descuento por 6.79 EUR (original: 7.99 EUR) en el siguiente enlace!
