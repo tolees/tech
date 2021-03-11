@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ITSHINY - Camara Fotos Infantil - Cámara al 15.16 % de descuento'
-date: 2021-03-10 11:54:30
+date: 2021-03-11 16:17:39
 image: 'https://m.media-amazon.com/images/I/51jV8Wzv7HL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ITSHINY'
 buyurl: 'https://www.amazon.es/dp/B07ZJHRJ1L/?tag=tolees-21'
 descuento: '15.16'
-average: '32.4185714285715'
+average: '32.1791891891892'
 ---
 
 Está [ITSHINY - Camara Fotos Infantil - Cámara Fotos Niños con Pantalla Grande de 3 5 Pulgadas 1080P HD 12MP Incorporada Tarjeta SD de 32GB USB Recargable Cámara Digital Selfie Niñas Niños Cumpleaños Navidad Regalos](https://www.amazon.es/dp/B07ZJHRJ1L/?tag=tolees-21) con 15.16 de descuento por 27.99 EUR (original: 32.99 EUR) en el siguiente enlace!
