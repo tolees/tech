@@ -28,12 +28,12 @@ Tienes [Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Cor
 
 🔎:
 
-- Tarjeta gráfica Intel Graphics
-- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
-- Procesador Intel 10ª Gen. Core i5-1035G4, 1.1GHz
-- Memoria RAM de 8GB LPDDR4X
-- Disco duro sólido de 256GB
 - Sistema operativo Windows 10 Home
+- Procesador Intel 10ª Gen. Core i5-1035G4, 1.1GHz
+- Disco duro sólido de 256GB
+- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
+- Memoria RAM de 8GB LPDDR4X
 - No incluye Type Cover (funda con teclado)
+- Tarjeta gráfica Intel Graphics
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y8R8SG9/?tag=tolees-21)
