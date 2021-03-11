@@ -28,9 +28,9 @@ En este momento está [Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits 
 
 🔎:
 
-- Edición del juego: básica
 - Plataforma: PlayStation 4
 - Rango ESRB: T (adolescente)
+- Edición del juego: básica
 - Clasificación PEGI: 16
 - Género: acción/aventura
 

@@ -29,9 +29,9 @@ Tienes [Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Blueto
 ℹ️:
 
 - Reducción automática de transmisión de energía y libre de radiación en modo standby
-- 500 de números de registros en libreta de direcciones
-- Bluetooth y micro USB para sincronizar los datos con el PC
 - Estándares DECT: DECT, GAP
+- Bluetooth y micro USB para sincronizar los datos con el PC
+- 500 de números de registros en libreta de direcciones
 - Ajuste de volumen con las teclas laterales del terminal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21)
