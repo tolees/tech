@@ -29,9 +29,9 @@ Ahora mismo tienes [Samsung Galaxy Watch - Reloj Inteligente  Bluetooth  Oro-ros
 🔎:
 
 - El altavoz y micrófono integrados en Galaxy Watch le permiten comunicarse en modo manos libres
-- Resistente al agua
 - Memoria interna: 1.5 GB
-- Pantalla de 1.3 pulgadas
 - Localización: GPS, Glonass
+- Pantalla de 1.3 pulgadas
+- Resistente al agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GRJPJDY/?tag=tolees-21)
