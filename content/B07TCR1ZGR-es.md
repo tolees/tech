@@ -28,11 +28,11 @@ Está [Michael Kors Lexington Connected Smartwatch Gen 5 con tecnología Wear OS
 
 ℹ️:
 
-- Acelera los pagos con tu reloj gracias a Google Pay
 - Los smartwatches que funcionan con la tecnología Wear.OS by Google funcionan con teléfonos iPhone y Android
-- Funciona varios días con una única carga en modo de batería ampliada
 - Seguimiento de actividad y frecuencia cardíaca, GPS incorporado para seguimiento de distancias, diseño apto para nadar
 - Acelera los pagos con tu reloj gracias a Google Pay
+- Funciona varios días con una única carga en modo de batería ampliada
 - Ahora con un altavoz para alertas audibles y para coger llamadas de teléfono, respuestas de Google Assistant y mucho más
+- Acelera los pagos con tu reloj gracias a Google Pay
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TCR1ZGR/?tag=tolees-21)

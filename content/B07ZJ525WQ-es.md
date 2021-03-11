@@ -28,10 +28,10 @@ Tienes [Amazfit Stratos 3 Smartwatch Reloj Inteligente 19 modos deporte Activiti
 
 ℹ️:
 
-- The watch is also equipped with authoritative Firstbeat algorithms used by professional sports teams. They provide you with various professional data, so you can dramatically improve your exercise capacity while avoiding the risk of injuries caused by excessive workouts.
 - The Amazfit Stratos 3 comes with 19 professional sports modes and provides rich workout data to satisfy various users’ needs.
+- You can switch anytime to the Ultra endurance mode for an amazing 14-day battery life, while maintaining various functions such as 24-hour heart-rate monitoring, notifications, and 11 sports modes.
+- The watch is also equipped with authoritative Firstbeat algorithms used by professional sports teams. They provide you with various professional data, so you can dramatically improve your exercise capacity while avoiding the risk of injuries caused by excessive workouts.
 - Storage and play your music directly from your Stratos 3 by connecting it to Bluetooth earphones. Enjoy the freedom of a phone free run!
 - Users can choose three navigation combinations (GPS + Beidou, GPS + GLONASS, GPS + Galileo). Further improve the positioning speed and trajectory accuracy.
-- You can switch anytime to the Ultra endurance mode for an amazing 14-day battery life, while maintaining various functions such as 24-hour heart-rate monitoring, notifications, and 11 sports modes.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZJ525WQ/?tag=tolees-21)
