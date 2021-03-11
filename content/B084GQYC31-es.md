@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEXIN FT4 Pro Intercomunicador de Casco  al 16.30 % de descuento'
-date: 2021-02-25 11:06:31
+date: 2021-03-11 20:48:30
 image: 'https://m.media-amazon.com/images/I/41REP+0f-dL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [LEXIN FT4 Pro Intercomunicador de Casco  con Estroboscopio SOS  Auricular
 ℹ️:
 
 - 【Servicio al cliente】 LEXIN FT4 Pro le ofrece una garantía de dos años, por lo que si tiene problemas de calidad mientras lo usa, comuníquese con el vendedor en cualquier momento.
-- 【Comunicación SIMULTÁNEA de 4 vías】 Admite hasta 4 personas para emparejar y usar. LEXIN FT4 Pro puede ser utilizado por 3 conductores o puede conectarse entre el conductor y el pasajero. El rango de conexión para 4 personas alcanza los 2000Km.
 - 【4.0 Auriculares Bluetooth】 La mejor opción para escuchar música. También puede conectarse a la navegación para escuchar el programa de navegación y escuchar la estación de radio en tiempo real usando la función FM incorporada del walkie-talkie.
-- 【Con SoS Strobe】 El primer intercomunicador de casco en la industria con SOS strobe. Los prácticos faros manos libres facilitan la verificación de fallas de motocicletas por la noche.
 - 【Luz de ajuste LED RGB con 7 colores ajustables】 LEXIN FT4 Pro está diseñado con luz LED, 7 colores disponibles. Al conducir por las calles de la ciudad por la noche, debes ser el piloto más genial y único.
+- 【Comunicación SIMULTÁNEA de 4 vías】 Admite hasta 4 personas para emparejar y usar. LEXIN FT4 Pro puede ser utilizado por 3 conductores o puede conectarse entre el conductor y el pasajero. El rango de conexión para 4 personas alcanza los 2000Km.
+- 【Con SoS Strobe】 El primer intercomunicador de casco en la industria con SOS strobe. Los prácticos faros manos libres facilitan la verificación de fallas de motocicletas por la noche.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084GQYC31/?tag=tolees-21)
