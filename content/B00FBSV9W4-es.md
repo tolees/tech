@@ -28,10 +28,10 @@ Tienes [SanDisk SDCFXPS-256G-X46 256 GB Extreme Pro 160 MB/s CompactFlash Card  
 
 🔎:
 
-- Velocidades de escritura hasta 150 MB/s
-- Velocidades de transferencia de hasta 160 MB/s
-- Memoria de almacenamiento de 256 GB
-- Optimizado para la captura de vídeo 4K
 - Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
+- Optimizado para la captura de vídeo 4K
+- Memoria de almacenamiento de 256 GB
+- Velocidades de transferencia de hasta 160 MB/s
+- Velocidades de escritura hasta 150 MB/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FBSV9W4/?tag=tolees-21)
