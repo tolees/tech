@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.01 % en SUPOLA WiFi Antena USB WiFi Adaptador AC'
-date: 2021-03-10 09:20:41
+date: 2021-03-11 09:40:10
 image: 'https://m.media-amazon.com/images/I/31rwzVGlBwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SUPOLA'
 buyurl: 'https://www.amazon.es/dp/B07HVP5YYM/?tag=tolees-21'
 descuento: '15.01'
-average: '12.874022988506'
+average: '12.8628409090912'
 ---
 
 Tienes [SUPOLA WiFi Antena USB WiFi Adaptador AC600Mbps Driver Free-Auto WiFi Dongle 5dBi Dual Band 2.4GHz/5GHz Mini Receptor para PC/Desktop/Laptop Soporte Windows10/8/8.1/7 MacOS X 10.9-10.15](https://www.amazon.es/dp/B07HVP5YYM/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 11.89 EUR (original: 13.99 EUR) en el siguiente enlace!
