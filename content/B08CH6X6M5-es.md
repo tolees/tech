@@ -29,9 +29,9 @@ Tienes [Xiaomi Redmi 9A - Smartphone 32GB  2GB RAM  Dual Sim  Sky Blue](https://
 ℹ️:
 
 - Batería: 5000 mAh
-- Pantalla: 6.53", 720 x 1600 pixels
 - OS: Android 10
 - Procesador: Mediatek Helio G25 2GHz
 - Cámara: 13 MP
+- Pantalla: 6.53", 720 x 1600 pixels
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CH6X6M5/?tag=tolees-21)
