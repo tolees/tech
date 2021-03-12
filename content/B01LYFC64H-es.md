@@ -29,8 +29,8 @@ Tienes [E-Vitta EVBP001008 - Mochila para Ordenador portátil de 16"  Multicolor
 🔎:
 
 - Cómodas y reforzadas correas de hombro
-- Interior acolchado y reforzado, con departamento exclusivo de Ordenador y otro para Tablet
 - Asas de transporte para una mayor comodidad
+- Interior acolchado y reforzado, con departamento exclusivo de Ordenador y otro para Tablet
 - Bolsillo exterior frontal y dos bolsillos exteriores laterales
 - Dos compartimentos separados en el interior y dos bolsillos de gran capacidad para guardar documentos, bolígrafos, accesorios
 
