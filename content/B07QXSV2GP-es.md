@@ -28,11 +28,11 @@ Ahora mismo tienes [Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa?
 
 🔎:
 
-- Stream quality sound all day
-- 15 hour battery and 10 minute charge for 60 minute playback
-- Easy hands-free calling
-- BLUETOOTH
-- Easy operation with buttons
 - Wear all day, keep on listening
+- 15 hour battery and 10 minute charge for 60 minute playback
+- Easy operation with buttons
+- Easy hands-free calling
+- Stream quality sound all day
+- BLUETOOTH
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXSV2GP/?tag=tolees-21)
