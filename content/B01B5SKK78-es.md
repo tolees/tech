@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Kingston KCP3L16SD8/8 - Memoria RAM para con un 22.97 % de descuento'
-date: 2021-02-20 03:38:41
-image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL200_.jpg'
+date: 2021-03-12 02:06:10
+image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21'
 descuento: '22.97'
-average: '43.865'
+average: '43.872'
 ---
 
 En este momento está [Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 GB  1600 MHz SODIMM  DDR3L  1.35 V  CL11  204 Pines ](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21) a 43.9 EUR (original: 56.99 EUR) (22.97 %  de descuento) en el siguiente enlace!
 
-[![Kingston KCP3L16SD8/8 - Memoria RAM para](https://m.media-amazon.com/images/I/41M0bVlQsmL._SL200_.jpg)](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21)
+[![Kingston KCP3L16SD8/8 - Memoria RAM para](https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg)](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21)
 
 🔎:
 
-- Velocidad de memoria del reloj: 1600 MHz
-- Memoria interna: 8 GB
-- Tipo de memoria interna: DDR3L
 - Voltaje de memoria, 1.35 V
+- Memoria interna: 8 GB
+- Velocidad de memoria del reloj: 1600 MHz
+- Tipo de memoria interna: DDR3L
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21)
