@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-Zx110Apb - Auriculares para Sma al 35.05 % de descuento'
-date: 2021-03-11 10:56:07
+date: 2021-03-12 15:56:41
 image: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21'
 descuento: '35.05'
-average: '12.8181761006289'
+average: '12.8203105590062'
 ---
 
 Está [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 Mw  Android y Iphone   Negro  20 X 15 X 3 5 cm](https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21) con 35.05 de descuento por 12.99 EUR (original: 20.0 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Contro
 ℹ️:
 
 - Diafragmas tipo cúpula de 30 mm
-- Diseño ligero para la máxima comodidad
-- Rango de frecuencia de 12 Hz a 22 kHz
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
+- Rango de frecuencia de 12 Hz a 22 kHz
+- Diseño ligero para la máxima comodidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21)
