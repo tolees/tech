@@ -28,12 +28,12 @@ Está [Apple Magic Mouse 2  Plata](https://www.amazon.es/dp/B016UPAVDE/?tag=tole
 
 ℹ️:
 
-- El ratón Magic Mouse 2 está operativo en cuanto lo sacas de la caja y se conecta a tu Mac de forma automática.
 - Y con la superficie Multi-Touch puedes hacer gestos sencillos, como pasar de una web a otra o desplazarte por tus documentos.
-- Puerto Lightning
-- Conexión inalámbrica
-- Bluetooth
 - Olvídate de las pilas de toda la vida, porque el ratón Magic Mouse 2 es totalmente recargable.
+- Conexión inalámbrica
 - Es más ligero, lleva menos piezas gracias a la batería integrada y a su parte inferior uniforme, y ha ganado en estabilidad. Por eso se mueve con más fluidez por tu mesa.
+- El ratón Magic Mouse 2 está operativo en cuanto lo sacas de la caja y se conecta a tu Mac de forma automática.
+- Bluetooth
+- Puerto Lightning
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016UPAVDE/?tag=tolees-21)
