@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL50F18F.SYX Objetivo Fijo  FE 50  al 46.36 % de descuento'
-date: 2021-03-12 04:27:03
+date: 2021-03-13 10:46:10
 image: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21'
 descuento: '46.36'
-average: '184.535894308946'
+average: '184.475120967745'
 ---
 
 Está [Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21) con 46.36 de descuento por 177.0 EUR (original: 330.0 EUR) en el siguiente enlace!
@@ -30,9 +30,9 @@ Está [Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo](
 
 - Tipo de lente: Lente principal
 - Compacta, ligera y fácil de llevar
-- Dimensiones del producto: 10.4 x 8.7 x 11.9 cm
 - El objetivo tiene un diseño óptico que permite conseguir imágenes claras reduciendo la distorsión cromática
 - Apertura máxima de F1.8 para capturas con poca luz
 - Apertura circular de 7 láminas para obtener un efecto de desenfoque
+- Dimensiones del producto: 10.4 x 8.7 x 11.9 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21)
