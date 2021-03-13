@@ -28,8 +28,8 @@ Ahora mismo tienes [Apple estuche de carga inalámbrica para los AirPods](https:
 
 🔎:
 
-- El estuche se puede cargar sin cables mediante una base de carga compatible con la tecnología Qi o utilizando el conector Lightning
-- Los AirPods se cargan en un momento dentro del estuche
 - Compatible con los AirPods (1.a generación o posterior)
+- Los AirPods se cargan en un momento dentro del estuche
+- El estuche se puede cargar sin cables mediante una base de carga compatible con la tecnología Qi o utilizando el conector Lightning
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NLMX2CP/?tag=tolees-21)
