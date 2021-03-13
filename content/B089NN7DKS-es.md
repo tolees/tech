@@ -30,8 +30,8 @@ Ahora mismo tienes [XITODA Funda para Lenovo Tab M10 FHD Plus TB-X606F TB-X606X 
 
 - La tira magnética incorporada proporciona la función del sueño / de la estela.
 - La funda tiene la capacidad de voltear para transformar el caso en un soporte de visualización y soporte de teclado.
+- Hecho por el exterior de cuero durable de la PU y el interior suave de la microfibra
 - Diseñado específicamente para Lenovo Tab M10 FHD Plus TB-X606F/TB-X606X 10,3 Pulgadas(!!Esta funda No apto Lenovo Tab M10 TB-X605F/L y TB-X505F/L 10,1 Pulgadas).
 - Protección del dispositivo contra arañazos, polvo, golpes y huellas dactilares
-- Hecho por el exterior de cuero durable de la PU y el interior suave de la microfibra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089NN7DKS/?tag=tolees-21)

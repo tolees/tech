@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Pro X - Ordenador port con un 19.89 % de descuento'
-date: 2021-03-10 11:40:59
+date: 2021-03-13 09:25:12
 image: 'https://m.media-amazon.com/images/I/31b7pH8RokL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [Microsoft Surface Pro X - Ordenador portátil 2 en 1 de 1
 
 🔎:
 
+- No incluye Type Cover, funda con teclado
 - Microsoft SQ2 Adreno 690
 - Pantalla táctil de 13 pulgadas, 2880x1920 pixels
-- No incluye Type Cover, funda con teclado
-- Disco duro sólido de 256GB
-- Sistema operativo Windows 10 Home
 - Lo Surface más delgado y siempre conectado con solo 774g
 - Memoria RAM de 16GB LPDDR4X
+- Disco duro sólido de 256GB
+- Sistema operativo Windows 10 Home
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZXJPTL/?tag=tolees-21)
