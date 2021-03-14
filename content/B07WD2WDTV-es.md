@@ -29,9 +29,9 @@ Ahora mismo tienes [HYcase Estuche para Samsung Galaxy A20E Silicona IMD TPU Ult
 🔎:
 
 - Esta carcasa ha sido diseñada específicamente para el Samsung Galaxy A20E, para garantizar una protección completa y discreción.
-- Si por alguna razón no está satisfecho con algún producto, no dude en contactarnos y haremos todo lo posible para resolver su problema de manera rápida y eficiente.
-- Proporcionar una protección completa, todas las esquinas, bordes y parte posterior están completamente cubiertos.
 - Ultra delgado y completamente transparente: Silicona IMD suave de TPU Funda protectora delgada y súper liviana, la belleza natural del diseño de su teléfono. Protector - Resistente a golpes, arañazos y desgarros y evita la acumulación de polvo y aceite.
+- Proporcionar una protección completa, todas las esquinas, bordes y parte posterior están completamente cubiertos.
 - Samsung Galaxy A20E ofrecen un buen agarre y un perfil delgado. La transparencia intensa muestra el diseño original del teléfono móvil.
+- Si por alguna razón no está satisfecho con algún producto, no dude en contactarnos y haremos todo lo posible para resolver su problema de manera rápida y eficiente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WD2WDTV/?tag=tolees-21)
