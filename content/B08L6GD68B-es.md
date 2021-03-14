@@ -29,9 +29,9 @@ En este momento está [Lenovo IdeaPad Duet 3 - Portátil 2 en 1 de 13.3" WUXGA  
 🔎:
 
 - Tarjeta gráfica integrada Intel UHD Graphics 605
-- Pantalla de 10.3" WUXGA (1920x1200) IPS, 340 nits, Lenovo Digital Pen, Lenovo IdeaPad Duet 3 Folio
-- Almacenamiento de 128GB eMMC 5.1
 - Procesador Intel Pentium Silver N5030 (4C / 4T, 1.1 / 3.1GHz, 4MB)
+- Almacenamiento de 128GB eMMC 5.1
 - Memoria RAM de 8GB Soldered DDR4-2400
+- Pantalla de 10.3" WUXGA (1920x1200) IPS, 340 nits, Lenovo Digital Pen, Lenovo IdeaPad Duet 3 Folio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L6GD68B/?tag=tolees-21)
