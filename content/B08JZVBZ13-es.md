@@ -28,12 +28,12 @@ En este momento está [Microsoft Surface Laptop Go - Ordenador portátil 2 en 1 
 
 🔎:
 
+- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
 - Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
+- Unidad SSD 128GB
+- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
 - Sistema operativo Windows 10 Home in S mode
 - Memoria RAM de 8GB
-- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
-- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
-- Unidad SSD 128GB
 - Procesador 10th Gen Intel Core i5-1035G1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZVBZ13/?tag=tolees-21)
