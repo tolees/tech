@@ -28,9 +28,9 @@ Ahora mismo tienes [Sigma 16 mm F1.4 DC DN Contemporary - Objetivo para Sony E  
 
 🔎:
 
-- Ofrece una distancia focal de 24mm, equivalente en 35mm, para la montura Sony-E
-- Parasol grande incluido para evitar rayos de luz incidente
 - Calidad de imagen equiparable a la de nuestra serie Art
+- Parasol grande incluido para evitar rayos de luz incidente
+- Ofrece una distancia focal de 24mm, equivalente en 35mm, para la montura Sony-E
 - Resistente al polvo y las salpicaduras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077BWD2BB/?tag=tolees-21)
