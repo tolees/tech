@@ -28,9 +28,9 @@ Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa 
 
 🔎:
 
-- Plug-and-play para ordenadores windows
 - Rápidas transferencias de datos
-- Almacenamiento adicional de alta capacidad
+- Plug-and-play para ordenadores windows
 - Calidad wd por dentro y por fuera
+- Almacenamiento adicional de alta capacidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VXKF1L4/?tag=tolees-21)
