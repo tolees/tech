@@ -28,10 +28,10 @@ Está [Feelworld F6 Plus 5.5 Pulgadas On Camera Field Monitor DSLR Cámara Panta
 
 ℹ️:
 
-- 【Actualización de firmware y software】 Interfaz agregar entrada DC 5V: Tipo-C, puede usar flexiblemente el banco de energía del teléfono móvil para alimentar el monitor; La función avanzada agrega: forma de onda, alcance vectorial, espejo automático, nueve cuadrículas, color falso (tipo 2).
-- 【 Ideal cámara de socio 】Diseño de salida eficiente de CC. Con una batería ficticia (opcional), puede alimentar su cámara DSLR o sin espejo en cualquier momento, extender el tiempo de ejecución de su cámara, mientras que proporciona una pantalla más utilizable.
-- 【 Custom 3D LUT support 】 La función de carga de LUT hace que la calibración del color sea más fácil e intuitiva, lo que le ayuda a optimizar el flujo de trabajo de manera eficiente. Puede cargar el cubo 3D LUT a F6 Plus a través de la tarjeta SD.
 - 【 Placa de batería de doble propósito flexible 】 Placa de batería incorporada de dos en uno. Compatible con las baterías de la serie F y Canon LP-E6 de Sony, proporcionando condiciones de trabajo de larga duración. No es necesario comprar placas de batería por separado. (Nota: no hay baterías incluidas.)
+- 【 Ideal cámara de socio 】Diseño de salida eficiente de CC. Con una batería ficticia (opcional), puede alimentar su cámara DSLR o sin espejo en cualquier momento, extender el tiempo de ejecución de su cámara, mientras que proporciona una pantalla más utilizable.
 - 【 Nueva pantalla táctil innovadora 】 Deshacerse de los botones complicados! Todas las funciones están a su alcance. Su pantalla táctil le permite ampliar su imagen libremente con un gesto de pellizcar y acceder a los ajustes del menú convenientemente.
+- 【 Custom 3D LUT support 】 La función de carga de LUT hace que la calibración del color sea más fácil e intuitiva, lo que le ayuda a optimizar el flujo de trabajo de manera eficiente. Puede cargar el cubo 3D LUT a F6 Plus a través de la tarjeta SD.
+- 【Actualización de firmware y software】 Interfaz agregar entrada DC 5V: Tipo-C, puede usar flexiblemente el banco de energía del teléfono móvil para alimentar el monitor; La función avanzada agrega: forma de onda, alcance vectorial, espejo automático, nueve cuadrículas, color falso (tipo 2).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQYX86P/?tag=tolees-21)
