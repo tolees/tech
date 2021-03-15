@@ -28,10 +28,10 @@ Tienes [Alcatel S250  Teléfono DECT Inalámbrico  Altavoz  50 Entradas  Identif
 
 ℹ️:
 
-- 10 niveles de volumen del auricular, 10 clásicos tipos de melodía , 10 melodías de llamada en al auricular, 5 niveles de volumen de la melodía de llamada en el auricular + silencio
+- Agenda de 50 nombres y números para llamar fácilmente a sus contactos preferidos
 - Tipo de pantalla pantalla alfanumérica (14 segmentos) menú rotatorio intuitivo , visualización de la hora o del nombre del teléfono presionando una tecla, 11 idiomas del menú
 - Función manos libres para poder compartir sus conversaciones y hablar con total libertad
 - Registro de las 10 ultimas llamadas entrantes para no perder ninguna llamada
-- Agenda de 50 nombres y números para llamar fácilmente a sus contactos preferidos
+- 10 niveles de volumen del auricular, 10 clásicos tipos de melodía , 10 melodías de llamada en al auricular, 5 niveles de volumen de la melodía de llamada en el auricular + silencio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01K4JP5DI/?tag=tolees-21)
