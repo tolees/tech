@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital - WD Elements Desktop -  con un 19.93 % de descuento'
-date: 2021-03-09 13:12:28
+title: 'Western Digital - WD Elements Desktop -  con un 31.25 % de descuento'
+date: 2021-03-15 07:53:30
 image: 'https://m.media-amazon.com/images/I/31FLxlT6AYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B07Y3KDVZH-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07Y3KDVZH-es'
 tags: [ 'disco','duro', ]
-actualPrice: 256.2 EUR
+actualPrice: 219.99 EUR
 currency: EUR
-price: 256.2
+price: 219.99
 comparePrice: 319.99 EUR
 prodname: 'Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 14 TB  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21'
-descuento: '19.93'
-average: '245.246666666667'
+descuento: '31.25'
+average: '241.638571428571'
 ---
 
-En este momento está [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 14 TB  color negro](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21) a 256.2 EUR (original: 319.99 EUR) (19.93 %  de descuento) en el siguiente enlace!
+En este momento está [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 14 TB  color negro](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21) a 219.99 EUR (original: 319.99 EUR) (31.25 %  de descuento) en el siguiente enlace!
 
 [![Western Digital - WD Elements Desktop - ](https://m.media-amazon.com/images/I/31FLxlT6AYL._SL400_.jpg)](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21)
 
 🔎:
 
-- Almacenamiento adicional de alta capacidad
-- Calidad wd por dentro y por fuera
 - Plug-and-play para ordenadores windows
+- Calidad wd por dentro y por fuera
 - Rápidas transferencias de datos
+- Almacenamiento adicional de alta capacidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21)
