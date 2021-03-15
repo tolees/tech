@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9C NFC-Smartphone de 6.53"  con un 20.14 % de descuento'
-date: 2021-03-13 16:26:26
+date: 2021-03-14 22:59:52
 image: 'https://m.media-amazon.com/images/I/41AAp25enVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21'
 descuento: '20.14'
-average: '133.906242038215'
+average: '133.718616352199'
 ---
 
 En este momento está [Xiaomi Redmi 9C NFC-Smartphone de 6.53" HD+  3GB+64GB  3x cámara trasera de 13MP con IA  MediaTek Helio G35  Batería 5000 mAh  10 W carga rápida   Gris [Versión ES/PT]](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21) a 118.99 EUR (original: 149.0 EUR) (20.14 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [Xiaomi Redmi 9C NFC-Smartphone de 6.53" HD+  3GB+64GB  3x
 
 🔎:
 
-- Sistema de triple cámara trasera de 13 mp con ia, video full hd a 30fps y cámara frontal selfie de 5 mp
+- Tipo de pantalla: LCD
+- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
+- Ranuras de memoria disponibles: 1
+- El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
 - Tamaño_nombre/color_nombre
 - Cargador tipo A
 - Batería de alta capacidad de 5000 mah con carga rápida de 10w.
-- Ranuras de memoria disponibles: 1
-- El redmi 9c cuenta con una pantalla inmersiva hd+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja tüv rheinland
-- Tipo de pantalla: LCD
-- Procesador mediatek helio g85, procesador de 8 núcleos de alto rendimiento.
+- Sistema de triple cámara trasera de 13 mp con ia, video full hd a 30fps y cámara frontal selfie de 5 mp
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPXDTJ/?tag=tolees-21)
