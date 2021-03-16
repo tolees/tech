@@ -5,7 +5,7 @@ date: 2020-05-20 11:13:04
 image: 'https://m.media-amazon.com/images/I/41guRxGW7BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HPZCJY-es Set Deportivo iwotto Auriculares Led Bluetooth con...'
 sku: 'B084HPZCJY-es'
 tags: [ 'auriculares','bluetooth', ]

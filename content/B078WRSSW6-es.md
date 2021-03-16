@@ -5,7 +5,7 @@ date: 2020-09-17 00:06:48
 image: 'https://m.media-amazon.com/images/I/41VWHKQbavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WRSSW6-es Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco estado solido SSD...'
 sku: 'B078WRSSW6-es'
 tags: [ 'samsung', ]

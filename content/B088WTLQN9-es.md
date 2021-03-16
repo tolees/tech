@@ -5,7 +5,7 @@ date: 2020-09-20 23:58:43
 image: 'https://m.media-amazon.com/images/I/41k1-vlkJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WTLQN9-es JideTech Cámara Web 1080P Autofocus con micrófono cámara...'
 sku: 'B088WTLQN9-es'
 tags: [ '1080p', ]

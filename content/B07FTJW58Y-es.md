@@ -5,7 +5,7 @@ date: 2020-06-12 10:58:20
 image: 'https://m.media-amazon.com/images/I/41CkHOx3xGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTJW58Y-es Lamicall Soporte para Móvil con Cuello de Cisne : Soporte...'
 sku: 'B07FTJW58Y-es'
 tags: [ 'huawei','móvil','samsung', ]

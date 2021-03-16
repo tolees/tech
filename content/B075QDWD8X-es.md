@@ -5,7 +5,7 @@ date: 2020-06-14 15:31:40
 image: 'https://m.media-amazon.com/images/I/41g+secWZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QDWD8X-es Jelly Comb Ratón Inalámbrico de 2 4 GHz con Receptor Nano...'
 sku: 'B075QDWD8X-es'
 tags: [ 'ordenador','ratón', ]

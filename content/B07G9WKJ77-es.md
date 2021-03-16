@@ -5,7 +5,7 @@ date: 2020-07-14 14:41:50
 image: 'https://m.media-amazon.com/images/I/51b2apvnphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9WKJ77-es A-Tech ~ Dual Band Wireless-AC 9260 para Intel 9260NGW...'
 sku: 'B07G9WKJ77-es'
 tags: [ 'bluetooth','wifi', ]

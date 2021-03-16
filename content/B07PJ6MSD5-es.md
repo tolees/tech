@@ -5,7 +5,7 @@ date: 2020-08-27 04:30:32
 image: 'https://m.media-amazon.com/images/I/31GxSN0s2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ6MSD5-es QueenDer Alfombrilla de Ratón Alfombrilla de Ratón...'
 sku: 'B07PJ6MSD5-es'
 tags: [ 'ordenador','ratón', ]

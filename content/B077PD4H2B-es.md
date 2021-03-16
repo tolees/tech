@@ -5,7 +5,7 @@ date: 2020-08-09 23:13:43
 image: 'https://m.media-amazon.com/images/I/51RXZ-pCcSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PD4H2B-es 7Magic Compatible Cartucho de Tóner para Brother TN1050 TN...'
 sku: 'B077PD4H2B-es'
 tags: [ 'impresora', ]

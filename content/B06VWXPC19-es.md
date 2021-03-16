@@ -5,7 +5,7 @@ date: 2020-08-01 11:30:18
 image: 'https://m.media-amazon.com/images/I/415anEL6nLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VWXPC19-es Sony SRS-XB10 Altavoz Inalámbrico Portátil Bluetooth Negro'
 sku: 'B06VWXPC19-es'
 tags: [ 'altavoz','bluetooth','sony', ]

@@ -5,7 +5,7 @@ date: 2020-07-08 13:22:43
 image: 'https://m.media-amazon.com/images/I/41JOLFIr6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2XLJ9X-es HETP Pulsera de Actividad Reloj Inteligente con Pulsómetro...'
 sku: 'B07C2XLJ9X-es'
 tags: [ 'gps', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 23:55:58
 image: 'https://m.media-amazon.com/images/I/41iOyq0gdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JP3M6O0-es Irobot Braava jet Paños de Limpieza para Fregar Lavables Azul'
 sku: 'B01JP3M6O0-es'
 tags: [ 'irobot', ]

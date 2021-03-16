@@ -5,7 +5,7 @@ date: 2020-10-01 20:53:23
 image: 'https://m.media-amazon.com/images/I/31UQ3eP1etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4LWQF3-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
 sku: 'B07W4LWQF3-es'
 tags: [ 'apple','auriculares','bluetooth', ]

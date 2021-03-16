@@ -5,7 +5,7 @@ date: 2020-09-23 15:15:53
 image: 'https://m.media-amazon.com/images/I/310JbwPh7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084G7JZCJ-es MAJORITY Oakcastle ED100 - Reproductor de CD y DVD Externo...'
 sku: 'B084G7JZCJ-es'
 tags: [ 'ordenador', ]

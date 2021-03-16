@@ -5,7 +5,7 @@ date: 2020-04-02 08:22:51
 image: 'https://m.media-amazon.com/images/I/41ve6mS7UoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S36XWV-es AOC G2590VXQ - Monitor de 24.5" 75 Hz Full HD 1920 x 1080...'
 sku: 'B078S36XWV-es'
 tags: [ 'full','hd', ]

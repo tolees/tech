@@ -5,7 +5,7 @@ date: 2020-04-04 17:02:26
 image: 'https://m.media-amazon.com/images/I/51POl3wp5YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLCD5S1-es kinokoo Película de Vidrio Templado para Fuji...'
 sku: 'B07QLCD5S1-es'
 tags: [ 'fujifilm', ]

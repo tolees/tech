@@ -5,7 +5,7 @@ date: 2020-02-03 19:11:46
 image: 'https://m.media-amazon.com/images/I/511cvIV1aHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JS1WJP0-es Anker 2 Pack Cable Lightning Cargador iPhone [Apple MFi...'
 sku: 'B01JS1WJP0-es'
 tags: [ 'iphone', ]

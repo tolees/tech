@@ -5,7 +5,7 @@ date: 2020-07-31 13:05:21
 image: 'https://m.media-amazon.com/images/I/41Ce2TfISfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PTMQ98-es Logitech PTZ Pro Camera'
 sku: 'B073PTMQ98-es'
 tags: [ 'logitech', ]

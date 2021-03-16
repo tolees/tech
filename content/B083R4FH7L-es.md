@@ -5,7 +5,7 @@ date: 2020-06-14 22:02:04
 image: 'https://m.media-amazon.com/images/I/41XWtrTWlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R4FH7L-es JOOWIN Repetidor WiFi 1200Mbps Amplificador Señal WiFi...'
 sku: 'B083R4FH7L-es'
 tags: [ 'wifi', ]

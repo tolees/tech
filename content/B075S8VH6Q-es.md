@@ -5,7 +5,7 @@ date: 2020-05-13 19:23:50
 image: 'https://m.media-amazon.com/images/I/41I9YFKJB8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S8VH6Q-es Mars Gaming MRS0 altavoces 10W subwoofer conector directo...'
 sku: 'B075S8VH6Q-es'
 tags: [ 'auriculares', ]

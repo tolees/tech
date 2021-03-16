@@ -5,7 +5,7 @@ date: 2020-08-14 01:13:16
 image: 'https://m.media-amazon.com/images/I/31rVsrTU9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLZBVL8-es Adaptador Usb Inalámbrico Del Adaptador 4G Lte Adaptador...'
 sku: 'B07WLZBVL8-es'
 tags: [ 'lte','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-08-10 06:38:19
 image: 'https://m.media-amazon.com/images/I/31Ji3QoNl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCN9FQS-es Anker Paquete de Carga inalámbrica PowerPort Wireless 5...'
 sku: 'B07CCN9FQS-es'
 tags: [ 'iphone', ]

@@ -5,7 +5,7 @@ date: 2020-04-23 15:24:57
 image: 'https://m.media-amazon.com/images/I/51rGMgcvDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LTT16WC-es Brother DR2300 - Tambor para Impresora Duración Estimada:...'
 sku: 'B00LTT16WC-es'
 tags: [ 'impresora', ]

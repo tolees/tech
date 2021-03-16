@@ -5,7 +5,7 @@ date: 2020-06-22 06:04:30
 image: 'https://m.media-amazon.com/images/I/41n6-Eg3tRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWKURZP-es Raking soporte tablet soporte de trípode para tableta...'
 sku: 'B01LWKURZP-es'
 tags: [ 'tablet', ]

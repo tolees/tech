@@ -5,7 +5,7 @@ date: 2020-10-10 13:40:39
 image: 'https://m.media-amazon.com/images/I/41RkQCMrkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXRH8R8-es MSI Pro 16T 7M-030XEU - Ordenador de sobremesa Todo en uno...'
 sku: 'B07BXRH8R8-es'
 tags: [ 'ordenador','ram', ]

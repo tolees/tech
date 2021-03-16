@@ -5,7 +5,7 @@ date: 2020-09-09 11:02:22
 image: 'https://m.media-amazon.com/images/I/21gd8EzxokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RYNX33-es Asus ROG Gladius II Origin - Ratón óptico optimizado para...'
 sku: 'B079RYNX33-es'
 tags: [ 'asus','ratón', ]

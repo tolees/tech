@@ -5,7 +5,7 @@ date: 2020-10-04 07:43:59
 image: 'https://m.media-amazon.com/images/I/41D27zkvBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HILG0SE-es AUNA Connect 120 - Radio por Internet Digital WLAN...'
 sku: 'B01HILG0SE-es'
 tags: [ 'bluetooth', ]

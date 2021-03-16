@@ -5,7 +5,7 @@ date: 2020-07-08 13:18:15
 image: 'https://m.media-amazon.com/images/I/41eHnkZl-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DM1YPJ0-es Woxter SO26-057 Big Bass 500 R - Altavoces 2.1 150W...'
 sku: 'B01DM1YPJ0-es'
 tags: [ 'auriculares','bluetooth', ]

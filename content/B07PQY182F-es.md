@@ -5,7 +5,7 @@ date: 2020-09-27 23:00:25
 image: 'https://m.media-amazon.com/images/I/41MoPlIJGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQY182F-es UGREEN Cable USB C 3A Cable USB Tipo C a USB A 2.0 Nylon...'
 sku: 'B07PQY182F-es'
 tags: [ 'galaxy','samsung','xiaomi', ]

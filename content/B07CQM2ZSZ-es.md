@@ -5,7 +5,7 @@ date: 2020-07-13 00:18:10
 image: 'https://m.media-amazon.com/images/I/41qCNoAnRNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQM2ZSZ-es CHOETECH Cable USB C a HDMI [4K@60Hz] Cable HDMI a USB...'
 sku: 'B07CQM2ZSZ-es'
 tags: [ 'galaxy','huawei', ]

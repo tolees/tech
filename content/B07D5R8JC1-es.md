@@ -5,7 +5,7 @@ date: 2020-04-26 00:30:53
 image: 'https://m.media-amazon.com/images/I/41a5XDuck9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5R8JC1-es Energy Headphones 2 Auriculares inalámbricos con Bluetooth...'
 sku: 'B07D5R8JC1-es'
 tags: [ 'auriculares','bluetooth', ]

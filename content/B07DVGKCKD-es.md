@@ -5,7 +5,7 @@ date: 2020-08-27 02:41:56
 image: 'https://m.media-amazon.com/images/I/41h4KdgwjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVGKCKD-es Toshiba MG06ACA10TE - Disco Duro 3.5" 10000 GB 7200 RPM'
 sku: 'B07DVGKCKD-es'
 tags: [ 'disco','duro','toshiba', ]

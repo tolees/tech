@@ -5,7 +5,7 @@ date: 2020-02-29 13:37:10
 image: 'https://m.media-amazon.com/images/I/41y-qmG6FeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EX7KNUM-es ASUS PCE-AC88 - Tarjeta de Red Wi-Fi PCI-e AC3100 Dual-...'
 sku: 'B01EX7KNUM-es'
 tags: [ 'asus', ]

@@ -5,7 +5,7 @@ date: 2020-05-28 16:08:59
 image: 'https://m.media-amazon.com/images/I/41QbZUa5eoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNQ8WJT-es Funda Xiaomi 8 Lite Mi 8X con Cristal Templado AChris 3 en...'
 sku: 'B07PNQ8WJT-es'
 tags: [ 'xiaomi', ]

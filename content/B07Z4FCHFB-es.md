@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:05
 image: 'https://m.media-amazon.com/images/I/41BH5As2gsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4FCHFB-es KATUMO Funda para iPad 10.2 2019 / iPad 7th Generation...'
 sku: 'B07Z4FCHFB-es'
 tags: [ 'apple', ]

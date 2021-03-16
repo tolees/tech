@@ -5,7 +5,7 @@ date: 2020-06-06 23:25:54
 image: 'https://m.media-amazon.com/images/I/51TYFYLL+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVFWW42-es [4-Pack] Protector de Pantalla para iPhone 6s iPhone 6...'
 sku: 'B07JVFWW42-es'
 tags: [ 'iphone', ]

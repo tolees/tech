@@ -5,7 +5,7 @@ date: 2020-01-10 15:37:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iORo5x-GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXK35M1-es SJCAM SJ8 PRO - Cámara de acción 4 K/60FPS WiFi para...'
 sku: 'B07FXK35M1-es'
 tags: [ 'wifi', ]

@@ -5,7 +5,7 @@ date: 2020-06-12 10:38:21
 image: 'https://m.media-amazon.com/images/I/51YZbT+q+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWS3PHV-es BenQ PD2710QC - Monitor Profesional para Diseñadores de...'
 sku: 'B06XWS3PHV-es'
 tags: [ 'ips', ]

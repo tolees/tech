@@ -5,7 +5,7 @@ date: 2020-02-02 11:27:32
 image: 'https://m.media-amazon.com/images/I/51ic2sibi9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWTMG1C-es Gigabyte Technology - GeForce RTX 2060 GAMING OC PRO BLACK...'
 sku: 'B07MWTMG1C-es'
 tags: [ 'gigabyte', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 17:04:52
 image: 'https://m.media-amazon.com/images/I/319MBS4mOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HCYCHWG-es WD Elements Desktop - Disco duro externo de sobremesa de 3...'
 sku: 'B00HCYCHWG-es'
 tags: [ 'disco','duro', ]

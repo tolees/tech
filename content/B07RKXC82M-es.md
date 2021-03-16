@@ -5,7 +5,7 @@ date: 2020-01-16 10:21:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wSdQPtaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKXC82M-es Funda protectora de piel para móvil 4"-6" con cremallera y...'
 sku: 'B07RKXC82M-es'
 tags: [ 'móvil', ]

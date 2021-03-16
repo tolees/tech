@@ -5,7 +5,7 @@ date: 2020-06-11 21:15:34
 image: 'https://m.media-amazon.com/images/I/31IgK+inwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MXSGD3-es Disco Duro Externo Disco Duro portátil de 1TB 2TB Slim...'
 sku: 'B087MXSGD3-es'
 tags: [ 'disco','duro', ]

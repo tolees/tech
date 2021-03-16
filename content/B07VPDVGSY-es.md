@@ -5,7 +5,7 @@ date: 2020-01-06 22:01:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513qBRQ1baL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPDVGSY-es Jslai Niños Smartwatch Imprägniern Inteligente Relojes...'
 sku: 'B07VPDVGSY-es'
 tags: [ 'móvil','smartwatch', ]

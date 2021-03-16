@@ -5,7 +5,7 @@ date: 2020-08-26 23:21:44
 image: 'https://m.media-amazon.com/images/I/41bqmaW2rHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VKPH25-es WOWDSGN Proyector Giratorio de Luz Estelar de Música con...'
 sku: 'B089VKPH25-es'
 tags: [ 'bluetooth', ]

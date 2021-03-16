@@ -5,7 +5,7 @@ date: 2020-07-10 13:02:55
 image: 'https://m.media-amazon.com/images/I/61nWJdpoqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8VHS4J-es Anpollo Alfombrilla de Ratón Alfombrilla de Ratón...'
 sku: 'B07R8VHS4J-es'
 tags: [ 'ordenador','ratón', ]

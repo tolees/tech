@@ -5,7 +5,7 @@ date: 2020-08-24 03:19:39
 image: 'https://m.media-amazon.com/images/I/41fVMt45E8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A5NK6F0-es TECKNET Alfombrilla de Ratón Apoyo de Gel Cojín...'
 sku: 'B01A5NK6F0-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-08-25 02:30:29
 image: 'https://m.media-amazon.com/images/I/31x1QMm2PjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVX3TCI-es MELON N89A Antena wifi exterior e interior 2000mw + 24 dbi...'
 sku: 'B00EVX3TCI-es'
 tags: [ 'wifi', ]

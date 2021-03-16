@@ -5,7 +5,7 @@ date: 2020-02-11 18:21:45
 image: 'https://m.media-amazon.com/images/I/3191ErTRGEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U7YKQQC-es Samsung BT-EOEG920BR - Auriculares oficiales in-ear color...'
 sku: 'B00U7YKQQC-es'
 tags: [ 'auriculares','samsung', ]

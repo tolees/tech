@@ -5,7 +5,7 @@ date: 2020-06-05 00:06:42
 image: 'https://m.media-amazon.com/images/I/51RJmOjZ6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0856RQBB2-es Videocámara Videocamara 2.7K Full HD 30 MP Cámara de Video...'
 sku: 'B0856RQBB2-es'
 tags: [ 'full','hd','ips', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 10:06:55
 image: 'https://m.media-amazon.com/images/I/31br5f1vEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JPW8H7-es Gigaset A170 - Teléfono Inalámbrico Pantalla Iluminada...'
 sku: 'B077JPW8H7-es'
 tags: [ 'gigaset', ]

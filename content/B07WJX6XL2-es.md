@@ -5,7 +5,7 @@ date: 2020-04-10 09:44:56
 image: 'https://m.media-amazon.com/images/I/41-+58WZmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJX6XL2-es Cámara IP Srihome 3MP Cámara de Vigilancia FHD con Visión...'
 sku: 'B07WJX6XL2-es'
 tags: [ 'wifi', ]

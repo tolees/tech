@@ -5,7 +5,7 @@ date: 2020-08-15 08:01:18
 image: 'https://m.media-amazon.com/images/I/416zbGYA1dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Y24MRV-es HKY 65W 15V 4A Adaptador Cargador para Microsoft Surface...'
 sku: 'B085Y24MRV-es'
 tags: [ 'microsoft', ]

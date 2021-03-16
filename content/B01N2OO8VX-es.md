@@ -5,7 +5,7 @@ date: 2020-03-06 09:00:07
 image: 'https://m.media-amazon.com/images/I/41YBFS0WuiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2OO8VX-es Brother MFCJ5730DW - Impresora multifunción tinta color'
 sku: 'B01N2OO8VX-es'
 tags: [ 'impresora', ]

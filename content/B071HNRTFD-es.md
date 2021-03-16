@@ -5,7 +5,7 @@ date: 2020-04-18 13:53:41
 image: 'https://m.media-amazon.com/images/I/31+j2EHFzqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HNRTFD-es Sony NWWS623 Walkman - Reproductor de MP3 deportivo...'
 sku: 'B071HNRTFD-es'
 tags: [ 'bluetooth','sony', ]

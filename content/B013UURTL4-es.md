@@ -5,7 +5,7 @@ date: 2020-10-02 15:46:06
 image: 'https://m.media-amazon.com/images/I/31GHqojem6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013UURTL4-es Huawei Unlocked E3372h-320 LTE / 4G 150 Mbps USB Dongle de...'
 sku: 'B013UURTL4-es'
 tags: [ 'huawei','lte','móvil', ]

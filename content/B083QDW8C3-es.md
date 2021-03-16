@@ -5,7 +5,7 @@ date: 2020-08-06 05:29:37
 image: 'https://m.media-amazon.com/images/I/51TMk5qPgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QDW8C3-es Winnes Reloj Inteligente Niño Reloj Smartwatch Niños Niña...'
 sku: 'B083QDW8C3-es'
 tags: [ 'gps','smartwatch', ]

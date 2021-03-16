@@ -5,7 +5,7 @@ date: 2020-09-16 01:30:49
 image: 'https://m.media-amazon.com/images/I/41ncb2UACML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de...'
 sku: 'B07XQ6QBSR-es'
 tags: [ 'bluetooth','teclado', ]

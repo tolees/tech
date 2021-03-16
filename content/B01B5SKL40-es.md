@@ -5,7 +5,7 @@ date: 2020-04-09 11:37:05
 image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B5SKL40-es Kingston KCP313SD8/8 - Memoria RAM para portátil de 8 GB...'
 sku: 'B01B5SKL40-es'
 tags: [ 'ram', ]

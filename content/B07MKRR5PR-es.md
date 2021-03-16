@@ -5,7 +5,7 @@ date: 2020-08-12 07:25:35
 image: 'https://m.media-amazon.com/images/I/41HEfQOF15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKRR5PR-es OMRON RS3 Intelli IT - Tensiómetro de muñeca con...'
 sku: 'B07MKRR5PR-es'
 tags: [ 'bluetooth', ]

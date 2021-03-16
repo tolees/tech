@@ -5,7 +5,7 @@ date: 2020-02-01 03:55:51
 image: 'https://m.media-amazon.com/images/I/418Jm1h9YzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1X2RKB-es GEEETECH A20M Impresora 3d con Mix de color de impresión...'
 sku: 'B07K1X2RKB-es'
 tags: [ 'impresora', ]

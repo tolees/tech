@@ -5,7 +5,7 @@ date: 2020-02-23 20:35:03
 image: 'https://m.media-amazon.com/images/I/31rcY0iFxzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IJ7J4YY-es Sony BDVN7200WB.CEL - Equipo de Home Cinema 5.1 de 1200W...'
 sku: 'B00IJ7J4YY-es'
 tags: [ 'sony', ]

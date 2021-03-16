@@ -5,7 +5,7 @@ date: 2020-08-15 13:16:15
 image: 'https://m.media-amazon.com/images/I/31SejFxwE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNS9HTZ-es Corsair M55 RGB PRO Ratón Óptico Tamaño Único Negro'
 sku: 'B07RNS9HTZ-es'
 tags: [ 'ratón', ]

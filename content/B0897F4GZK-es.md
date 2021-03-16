@@ -5,7 +5,7 @@ date: 2020-06-20 19:09:32
 image: 'https://m.media-amazon.com/images/I/51DzI64L+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897F4GZK-es Kloius Mini Rastreador GPS portátil con Dispositivo...'
 sku: 'B0897F4GZK-es'
 tags: [ 'bluetooth','gps', ]

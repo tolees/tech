@@ -5,7 +5,7 @@ date: 2020-06-14 08:12:44
 image: 'https://m.media-amazon.com/images/I/41ZrjgExohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01618VDOG-es Fujifilm Instax Mini 70 - Cámara Analógica Instantánea ISO...'
 sku: 'B01618VDOG-es'
 tags: [ 'fujifilm', ]

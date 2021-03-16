@@ -5,7 +5,7 @@ date: 2020-08-22 04:53:29
 image: 'https://m.media-amazon.com/images/I/41VIxFvncwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QTRR1Z-es BTNEEU Cámara Web HD 1080p Webcam con Microfono para PC...'
 sku: 'B088QTRR1Z-es'
 tags: [ '1080p','ordenador', ]

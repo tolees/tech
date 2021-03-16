@@ -5,7 +5,7 @@ date: 2020-09-28 17:08:15
 image: 'https://m.media-amazon.com/images/I/41BklyW4a-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7G7V6K-es XPLORA 4 - Teléfono Reloj 4G para niños SIM no incluida -...'
 sku: 'B07Y7G7V6K-es'
 tags: [ 'gps', ]

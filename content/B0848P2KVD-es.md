@@ -5,7 +5,7 @@ date: 2020-06-24 06:25:10
 image: 'https://m.media-amazon.com/images/I/31gWZPRq89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848P2KVD-es 7hSevenOn Home Enchufe WiFi Compacto Control vía...'
 sku: 'B0848P2KVD-es'
 tags: [ 'wifi', ]

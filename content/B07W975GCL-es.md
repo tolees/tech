@@ -5,7 +5,7 @@ date: 2020-06-27 08:15:23
 image: 'https://m.media-amazon.com/images/I/41G8iK-dI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W975GCL-es Marchpower Cable iPhone 3Pack 2M Cable Lightning-[Apple...'
 sku: 'B07W975GCL-es'
 tags: [ 'iphone', ]

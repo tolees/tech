@@ -5,7 +5,7 @@ date: 2020-08-24 01:00:43
 image: 'https://m.media-amazon.com/images/I/41mF5Iv+AgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KX7CQD-es Abeyete Ratón óptico Forma Vertical Diseño Ergonómico...'
 sku: 'B082KX7CQD-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 06:41:03
 image: 'https://m.media-amazon.com/images/I/51qSjTRtAWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R46GJ7G-es Yosh Funda Impermeable para teléfono móvil Compatible con...'
 sku: 'B07R46GJ7G-es'
 tags: [ 'galaxy','huawei','iphone','móvil','samsung','xiaomi', ]

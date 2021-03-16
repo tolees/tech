@@ -5,7 +5,7 @@ date: 2020-01-15 13:53:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Xow%2BkDDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte...'
 sku: 'B07Y7SPHLB-es'
 tags: [ 'auriculares','bluetooth','huawei','iphone','samsung', ]

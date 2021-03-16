@@ -5,7 +5,7 @@ date: 2020-08-21 11:01:07
 image: 'https://m.media-amazon.com/images/I/413EuRKq1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGKLFFW-es Tribit MaxSound Plus - Altavoz Bluetooth 24 W con Potente...'
 sku: 'B07LGKLFFW-es'
 tags: [ 'altavoz','bluetooth', ]

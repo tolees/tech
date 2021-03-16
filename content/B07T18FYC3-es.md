@@ -5,7 +5,7 @@ date: 2020-03-30 09:33:15
 image: 'https://m.media-amazon.com/images/I/41-ZSIOvmSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T18FYC3-es POWERAXIS Antena de TV Antena Interior HDTV 100 Millas...'
 sku: 'B07T18FYC3-es'
 tags: [ '1080p', ]

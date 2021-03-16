@@ -5,7 +5,7 @@ date: 2020-03-10 12:28:08
 image: 'https://m.media-amazon.com/images/I/31jg01B2ZYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Y59CTK-es Altavoz Mosqueton iWotto Bluetooth Speaker Hook iWotto...'
 sku: 'B083Y59CTK-es'
 tags: [ 'altavoz','bluetooth', ]

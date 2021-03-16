@@ -5,7 +5,7 @@ date: 2020-09-24 07:35:24
 image: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834ZM8YR-es Netac Tarjeta de Memoria de 256GB Tarjeta Memoria...'
 sku: 'B0834ZM8YR-es'
 tags: [ 'móvil', ]

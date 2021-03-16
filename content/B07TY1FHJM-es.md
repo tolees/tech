@@ -5,7 +5,7 @@ date: 2020-08-04 07:57:14
 image: 'https://m.media-amazon.com/images/I/31cboJ80AhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1FHJM-es PRIXTON Windows Cleaner Spire BT200 - Robot...'
 sku: 'B07TY1FHJM-es'
 tags: [ 'móvil', ]

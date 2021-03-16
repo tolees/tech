@@ -5,7 +5,7 @@ date: 2020-05-09 08:29:44
 image: 'https://m.media-amazon.com/images/I/41TUyCI0toL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081D7B3XJ-es Oakcastle Internet Radio WiFi Spotify Connect Bluetooth...'
 sku: 'B081D7B3XJ-es'
 tags: [ 'bluetooth','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-03-24 17:32:23
 image: 'https://m.media-amazon.com/images/I/51Rq5CekZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLFSHZC-es Sharon BT - Báscula digital inalámbrica con Bluetooth...'
 sku: 'B01LLFSHZC-es'
 tags: [ 'bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-03-25 11:10:29
 image: 'https://m.media-amazon.com/images/I/31XdRLOxdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWWLRJP-es Sonos One SL - Altavoz Inteligente Compacto y Potente con...'
 sku: 'B07WWWLRJP-es'
 tags: [ 'altavoz', ]

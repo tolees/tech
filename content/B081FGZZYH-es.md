@@ -5,7 +5,7 @@ date: 2020-06-18 08:02:28
 image: 'https://m.media-amazon.com/images/I/41TsTQhNWXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FGZZYH-es HP Color Laserjet Pro MFP M282NW Impresora Láser 8.5 x 14...'
 sku: 'B081FGZZYH-es'
 tags: [ 'impresora', ]

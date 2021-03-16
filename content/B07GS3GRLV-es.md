@@ -5,7 +5,7 @@ date: 2020-09-09 14:30:44
 image: 'https://m.media-amazon.com/images/I/31Oa4UHibZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS3GRLV-es Zerone Monitor Riser Soporte Stand Desktop Monitor Riser...'
 sku: 'B07GS3GRLV-es'
 tags: [ 'ordenador', ]

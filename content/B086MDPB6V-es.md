@@ -5,7 +5,7 @@ date: 2020-09-29 09:27:49
 image: 'https://m.media-amazon.com/images/I/31T5Z4rQvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MDPB6V-es MSI GT76 Titan DT 9SFS-264ES - Ordenador portátil de 17.3"...'
 sku: 'B086MDPB6V-es'
 tags: [ 'ordenador','ram','teclado', ]

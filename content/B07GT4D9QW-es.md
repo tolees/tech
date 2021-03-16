@@ -5,7 +5,7 @@ date: 2020-06-01 06:26:58
 image: 'https://m.media-amazon.com/images/I/51N3XL6HmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT4D9QW-es Sony SRSXB01R - Altavoz inalámbrico portátil Compacto...'
 sku: 'B07GT4D9QW-es'
 tags: [ 'altavoz','bluetooth','sony', ]

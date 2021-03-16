@@ -5,7 +5,7 @@ date: 2020-03-27 16:54:38
 image: 'https://m.media-amazon.com/images/I/41jjMRrGk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005LESG-es Canon EF 70-200mm f/2.8L USM - Objetivo para Canon...'
 sku: 'B00005LESG-es'
 tags: [ 'canon', ]

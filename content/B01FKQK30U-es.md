@@ -5,7 +5,7 @@ date: 2020-03-16 18:16:15
 image: 'https://m.media-amazon.com/images/I/41iDRvkACZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKQK30U-es Canon PowerShot SX620 HS - Cámara digital compacta de 20 2...'
 sku: 'B01FKQK30U-es'
 tags: [ 'canon','full','hd','wifi', ]

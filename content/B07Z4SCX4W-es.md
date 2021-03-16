@@ -5,7 +5,7 @@ date: 2020-09-13 23:01:14
 image: 'https://m.media-amazon.com/images/I/51BIWull-fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4SCX4W-es Microsoft Surface Pro 7 Estación Acoplamiento Nueva Base...'
 sku: 'B07Z4SCX4W-es'
 tags: [ 'microsoft', ]

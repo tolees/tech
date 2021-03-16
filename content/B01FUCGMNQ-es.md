@@ -5,7 +5,7 @@ date: 2020-03-21 08:59:30
 image: 'https://m.media-amazon.com/images/I/31eWsHq5cQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUCGMNQ-es Panasonic HC-V180 - Videocámara de 50x O.I.S de 5 Ejes...'
 sku: 'B01FUCGMNQ-es'
 tags: [ 'panasonic', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 12:24:01
 image: 'https://m.media-amazon.com/images/I/31j8qicow9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPCQX25-es HP Laserjet Pro M404dn - Impresora Láser Monocromo A4...'
 sku: 'B07RPCQX25-es'
 tags: [ 'gigabit','impresora', ]

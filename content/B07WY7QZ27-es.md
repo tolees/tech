@@ -5,7 +5,7 @@ date: 2020-04-13 14:28:48
 image: 'https://m.media-amazon.com/images/I/31Q2dkuoIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WY7QZ27-es Impresora Multifuncional Canon PIXMA TS5350 Negra Wifi de...'
 sku: 'B07WY7QZ27-es'
 tags: [ 'canon','impresora','wifi', ]

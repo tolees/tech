@@ -5,7 +5,7 @@ date: 2020-09-13 10:44:22
 image: 'https://m.media-amazon.com/images/I/51W4lQLfaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001E97GIA-es Canon EF 18-200mm f/3.5-5.6 IS - Objetivo para Canon...'
 sku: 'B001E97GIA-es'
 tags: [ 'canon', ]

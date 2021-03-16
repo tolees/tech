@@ -5,7 +5,7 @@ date: 2020-05-31 16:35:42
 image: 'https://m.media-amazon.com/images/I/41sweTLSmHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PD1GNY-es AboveTEK - Soporte de ventosa para teléfono móvil gran...'
 sku: 'B074PD1GNY-es'
 tags: [ 'móvil', ]

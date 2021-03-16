@@ -5,7 +5,7 @@ date: 2020-05-12 11:21:04
 image: 'https://m.media-amazon.com/images/I/41XvAfhcmdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084N5BDYN-es Lenovo S145-15IIL - Ordenador portátil 15.6" FullHD Intel...'
 sku: 'B084N5BDYN-es'
 tags: [ 'lenovo','ordenador','ram', ]

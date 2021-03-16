@@ -5,7 +5,7 @@ date: 2020-05-27 21:13:26
 image: 'https://m.media-amazon.com/images/I/51kGdhZmo9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSB4G14-es VGUARD [4 Unidades] Protector de Pantalla para Xiaomi Mi 9...'
 sku: 'B07MSB4G14-es'
 tags: [ 'xiaomi', ]

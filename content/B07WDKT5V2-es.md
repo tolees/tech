@@ -5,7 +5,7 @@ date: 2020-01-20 18:11:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411QSFWcJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDKT5V2-es Mars Gaming MH4X auriculares + mic DSP 7.1 SENSUS HAPTIC...'
 sku: 'B07WDKT5V2-es'
 tags: [ 'auriculares', ]

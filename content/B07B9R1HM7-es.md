@@ -5,7 +5,7 @@ date: 2020-07-06 18:18:50
 image: 'https://m.media-amazon.com/images/I/51ikmz1-N7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9R1HM7-es LG OK45 Microcadena Home Audio Mini System Multi Bluetooth...'
 sku: 'B07B9R1HM7-es'
 tags: [ 'altavoz','bluetooth', ]

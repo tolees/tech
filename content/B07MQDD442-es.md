@@ -5,7 +5,7 @@ date: 2020-10-03 03:10:42
 image: 'https://m.media-amazon.com/images/I/31S8lFLim0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQDD442-es LaCie Mobile Drive 2 TB Disco duro externo HDD portátil...'
 sku: 'B07MQDD442-es'
 tags: [ 'disco','duro','ordenador', ]

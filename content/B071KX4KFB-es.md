@@ -5,7 +5,7 @@ date: 2020-03-10 13:49:35
 image: 'https://m.media-amazon.com/images/I/31LB5slDvKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KX4KFB-es Huawei E5573C – Wi-Fi móvil 150Mbps de Velocidad de...'
 sku: 'B071KX4KFB-es'
 tags: [ 'huawei','móvil', ]

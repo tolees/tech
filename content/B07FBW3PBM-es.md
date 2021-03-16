@@ -5,7 +5,7 @@ date: 2020-06-14 14:48:56
 image: 'https://m.media-amazon.com/images/I/51WWFsg1ORL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FBW3PBM-es AOC 27V2Q – Monitor de 27” Full HD IPS Resolución...'
 sku: 'B07FBW3PBM-es'
 tags: [ 'full','hd','ips', ]

@@ -5,7 +5,7 @@ date: 2020-06-23 02:15:26
 image: 'https://m.media-amazon.com/images/I/31nyGnc648L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FLZSZ5A-es Funda Protectora Antigolpes Ultra fino para 11" 13" 15" 15...'
 sku: 'B01FLZSZ5A-es'
 tags: [ 'ordenador', ]

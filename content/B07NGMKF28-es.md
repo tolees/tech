@@ -5,7 +5,7 @@ date: 2020-10-12 07:00:50
 image: 'https://m.media-amazon.com/images/I/411RPOqqW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGMKF28-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
 sku: 'B07NGMKF28-es'
 tags: [ 'ram','teclado', ]

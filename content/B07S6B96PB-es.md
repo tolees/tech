@@ -5,7 +5,7 @@ date: 2020-06-13 08:27:02
 image: 'https://m.media-amazon.com/images/I/51-fyjzbZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6B96PB-es JIALONG Grande Alfombrilla de Ratón Ordenador XXL...'
 sku: 'B07S6B96PB-es'
 tags: [ 'ordenador','ratón', ]

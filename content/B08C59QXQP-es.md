@@ -5,7 +5,7 @@ date: 2020-08-21 15:36:41
 image: 'https://m.media-amazon.com/images/I/51WZK18nl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C59QXQP-es ESR Funda de Cristal Templado para Samsung Note 20/Note 20...'
 sku: 'B08C59QXQP-es'
 tags: [ 'samsung', ]

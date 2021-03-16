@@ -5,7 +5,7 @@ date: 2020-08-12 01:45:51
 image: 'https://m.media-amazon.com/images/I/41pUlhawC1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ21XLK-es HP LaserJet M203dn - Impresora láser PCL 5c PCL 6 PDF 1.5...'
 sku: 'B01LQ21XLK-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-10-07 09:30:40
 image: 'https://m.media-amazon.com/images/I/41J3sH+iX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YH3FC6-es CADA 1080P Full HD Autofocus Webcam CA601 USB cámara con...'
 sku: 'B081YH3FC6-es'
 tags: [ '1080p','full','hd', ]

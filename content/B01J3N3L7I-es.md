@@ -5,7 +5,7 @@ date: 2020-08-17 16:56:52
 image: 'https://m.media-amazon.com/images/I/31jDR6owtdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J3N3L7I-es HOMCOM Silla de Oficina Juvenil Silla de Ordenador para...'
 sku: 'B01J3N3L7I-es'
 tags: [ 'ordenador', ]

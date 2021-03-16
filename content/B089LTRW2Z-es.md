@@ -5,7 +5,7 @@ date: 2020-09-03 17:57:12
 image: 'https://m.media-amazon.com/images/I/41F9XfP1oVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LTRW2Z-es Fanlce Repetidor WiFi Banda Dual Amplificador de WiFi...'
 sku: 'B089LTRW2Z-es'
 tags: [ 'wifi', ]

@@ -5,7 +5,7 @@ date: 2020-06-02 01:45:45
 image: 'https://m.media-amazon.com/images/I/31+jDl+NPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KBDVV5-es Logitech MeetUp Sistema de Cámara para Conferencias Webcam...'
 sku: 'B071KBDVV5-es'
 tags: [ 'logitech', ]

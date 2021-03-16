@@ -5,7 +5,7 @@ date: 2020-04-08 12:34:38
 image: 'https://m.media-amazon.com/images/I/5141MMrYg4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHGH3K7-es Solar PowerBank 26800mAh Cargador Solar QI Carga...'
 sku: 'B07XHGH3K7-es'
 tags: [ 'móvil', ]

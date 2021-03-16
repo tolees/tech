@@ -5,7 +5,7 @@ date: 2020-05-30 09:55:06
 image: 'https://m.media-amazon.com/images/I/41Ixtm67kFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3QQL4L-es Vozehui - Correa para Garmin Vivofit 4 silicona suave para...'
 sku: 'B07Z3QQL4L-es'
 tags: [ 'garmin', ]

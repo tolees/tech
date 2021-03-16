@@ -5,7 +5,7 @@ date: 2020-02-04 08:11:49
 image: 'https://m.media-amazon.com/images/I/31VyqDFX1vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQBDK4L-es D-Link DUB-M420 - Hub USB tipo C 4 en 1 adaptador USB C...'
 sku: 'B07XQBDK4L-es'
 tags: [ '1080p', ]

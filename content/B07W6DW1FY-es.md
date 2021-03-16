@@ -5,7 +5,7 @@ date: 2020-03-19 07:26:08
 image: 'https://m.media-amazon.com/images/I/41nBAq+f+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6DW1FY-es yootech Cargador Inalámbrico Rápido 2 Pack 7.5W para...'
 sku: 'B07W6DW1FY-es'
 tags: [ 'galaxy','iphone', ]

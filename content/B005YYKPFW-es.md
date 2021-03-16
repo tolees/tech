@@ -5,7 +5,7 @@ date: 2020-05-04 12:13:04
 image: 'https://m.media-amazon.com/images/I/31huOMNVzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005YYKPFW-es Panasonic NN-J151 - Microondas con Grill 1000 W 20 L 4...'
 sku: 'B005YYKPFW-es'
 tags: [ 'panasonic', ]

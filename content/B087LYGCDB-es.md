@@ -5,7 +5,7 @@ date: 2020-05-12 11:35:58
 image: 'https://m.media-amazon.com/images/I/41a+GzEwxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LYGCDB-es Oihxse Cristal Compatible con Samsung Galaxy J730/J7 Pro...'
 sku: 'B087LYGCDB-es'
 tags: [ 'galaxy','samsung', ]

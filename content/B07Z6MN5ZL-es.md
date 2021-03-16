@@ -5,7 +5,7 @@ date: 2020-03-02 16:11:45
 image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6MN5ZL-es ASUS ROG STRIX G531GV-AL172 - Portátil Gaming de 15 6"...'
 sku: 'B07Z6MN5ZL-es'
 tags: [ 'asus','ram','teclado', ]

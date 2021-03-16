@@ -5,7 +5,7 @@ date: 2020-05-25 14:02:24
 image: 'https://m.media-amazon.com/images/I/414hVdzvJwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M27ZZS-es Oihxse Silicona Funda con Xiaomi Mi 8 TPU Flexible Suave...'
 sku: 'B087M27ZZS-es'
 tags: [ 'xiaomi', ]

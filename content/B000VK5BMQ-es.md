@@ -5,7 +5,7 @@ date: 2020-09-13 04:15:51
 image: 'https://m.media-amazon.com/images/I/31fn735yklL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VK5BMQ-es Garmin GRSOPFR - Soporte Bici.garmin Forerunner Universal'
 sku: 'B000VK5BMQ-es'
 tags: [ 'garmin', ]

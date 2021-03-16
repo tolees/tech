@@ -5,7 +5,7 @@ date: 2020-08-18 22:31:51
 image: 'https://m.media-amazon.com/images/I/51MLvx7hvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STDC4PJ-es Bluefin Fitness CURV 2.0 Elliptical Cross Trainer Elíptica...'
 sku: 'B07STDC4PJ-es'
 tags: [ 'smartphone', ]

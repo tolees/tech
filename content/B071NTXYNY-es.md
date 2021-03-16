@@ -5,7 +5,7 @@ date: 2020-04-18 13:54:10
 image: 'https://m.media-amazon.com/images/I/41+fDKWtZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NTXYNY-es Sony NW-WS623 Walkman - Reproductor de MP3 Deportivo...'
 sku: 'B071NTXYNY-es'
 tags: [ 'bluetooth','sony', ]

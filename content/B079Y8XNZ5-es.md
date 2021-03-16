@@ -5,7 +5,7 @@ date: 2020-07-02 09:43:17
 image: 'https://m.media-amazon.com/images/I/31RyhdQZKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y8XNZ5-es JBL Tune 600BTNC - Auriculares supraaurales inalámbricos...'
 sku: 'B079Y8XNZ5-es'
 tags: [ 'auriculares', ]

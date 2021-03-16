@@ -5,7 +5,7 @@ date: 2020-09-15 13:23:04
 image: 'https://m.media-amazon.com/images/I/41Lq5ujhNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJTL5XJ-es Corsair K70 MK.2 RGB Low Profile Teclado mecánico para...'
 sku: 'B07PJTL5XJ-es'
 tags: [ 'teclado', ]

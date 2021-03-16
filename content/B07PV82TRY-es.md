@@ -5,7 +5,7 @@ date: 2020-08-17 11:27:16
 image: 'https://m.media-amazon.com/images/I/51aArPw+lvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV82TRY-es ZIPRINT 5 Multipack Toner Compatible Samsung CLT-404C...'
 sku: 'B07PV82TRY-es'
 tags: [ 'samsung', ]

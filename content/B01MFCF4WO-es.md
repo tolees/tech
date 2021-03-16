@@ -5,7 +5,7 @@ date: 2020-06-18 11:27:56
 image: 'https://m.media-amazon.com/images/I/41s4U6OEpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFCF4WO-es L-Link LL-KB-816-COMBO - Kit Teclado + Ratón USB color negro'
 sku: 'B01MFCF4WO-es'
 tags: [ 'ratón','teclado', ]

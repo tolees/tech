@@ -5,7 +5,7 @@ date: 2020-09-20 11:00:55
 image: 'https://m.media-amazon.com/images/I/41ZiyoGW23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YY7VF1-es Brinonac Pantalla para iPhone 6s 4.7" Pantalla Táctil LCD...'
 sku: 'B081YY7VF1-es'
 tags: [ 'altavoz','iphone', ]

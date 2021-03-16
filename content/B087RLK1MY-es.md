@@ -5,7 +5,7 @@ date: 2020-09-30 15:10:45
 image: 'https://m.media-amazon.com/images/I/31-9NW1ji0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RLK1MY-es Auriculares Inalambricos 5.0 Auriculares Bluetooth In Ear...'
 sku: 'B087RLK1MY-es'
 tags: [ 'auriculares','bluetooth','huawei','iphone','xiaomi', ]

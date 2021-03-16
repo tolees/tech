@@ -5,7 +5,7 @@ date: 2020-02-21 00:42:30
 image: 'https://m.media-amazon.com/images/I/41TC+OUcaKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7MRZW5-es Panasonic Lumix DC-G9L Cámara Evil de 20.3 MP 20FPS AFC...'
 sku: 'B07G7MRZW5-es'
 tags: [ 'bluetooth','panasonic', ]

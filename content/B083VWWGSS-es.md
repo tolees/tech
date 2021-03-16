@@ -5,7 +5,7 @@ date: 2020-09-29 18:35:00
 image: 'https://m.media-amazon.com/images/I/51yBC4y6nIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VWWGSS-es Hanbee 15 Piezas Correas para Xiaomi Mi Band 5 4 Piezas...'
 sku: 'B083VWWGSS-es'
 tags: [ 'xiaomi', ]

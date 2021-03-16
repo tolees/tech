@@ -5,7 +5,7 @@ date: 2020-08-24 00:00:45
 image: 'https://m.media-amazon.com/images/I/51evBiGDRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXPBZ9D-es TENMOS K6 Raton Inalambrico Gaming LED Recargable Óptico...'
 sku: 'B07CXPBZ9D-es'
 tags: [ 'ratón', ]

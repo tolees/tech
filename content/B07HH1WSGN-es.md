@@ -5,7 +5,7 @@ date: 2020-02-03 15:39:14
 image: 'https://m.media-amazon.com/images/I/41pNQRBHvvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH1WSGN-es Baseus Cable USB C USB Tipo C 2 Unidades de 2 M + 1 M...'
 sku: 'B07HH1WSGN-es'
 tags: [ 'galaxy','samsung', ]

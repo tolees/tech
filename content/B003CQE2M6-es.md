@@ -5,7 +5,7 @@ date: 2020-08-25 00:00:48
 image: 'https://m.media-amazon.com/images/I/414S2NLkRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003CQE2M6-es JVC HA-EB75- - Auriculares in er 5 posiciones 3.5 mm color...'
 sku: 'B003CQE2M6-es'
 tags: [ 'auriculares','jvc', ]

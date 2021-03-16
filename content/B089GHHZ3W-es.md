@@ -5,7 +5,7 @@ date: 2020-09-20 23:01:37
 image: 'https://m.media-amazon.com/images/I/518g0W1SMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GHHZ3W-es sumgott Soporte Portátil Aluminio Ventilado Soporte...'
 sku: 'B089GHHZ3W-es'
 tags: [ 'dell','ordenador', ]

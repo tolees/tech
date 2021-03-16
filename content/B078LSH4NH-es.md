@@ -5,7 +5,7 @@ date: 2020-06-04 20:00:59
 image: 'https://m.media-amazon.com/images/I/51ivMhB7A2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LSH4NH-es Walkie Talkie Profesional TACKLIFE-MTR01 Talkie walkie...'
 sku: 'B078LSH4NH-es'
 tags: [ 'auriculares', ]

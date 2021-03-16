@@ -5,7 +5,7 @@ date: 2020-04-03 08:04:04
 image: 'https://m.media-amazon.com/images/I/31Zs9IZzEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081H3SG3J-es Mpow Barra de Sonido Atlavoz Bluetooth 5.0 para PC/TV 20W...'
 sku: 'B081H3SG3J-es'
 tags: [ 'altavoz','bluetooth', ]

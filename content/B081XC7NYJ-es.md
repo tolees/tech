@@ -5,7 +5,7 @@ date: 2020-08-09 23:08:26
 image: 'https://m.media-amazon.com/images/I/41CvbzS0NTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081XC7NYJ-es GOODTEL Ordenador Portátil de 14 Pulgadas hasta 2.0GHz 4G...'
 sku: 'B081XC7NYJ-es'
 tags: [ '1080p','ips','ordenador','ram','wifi', ]

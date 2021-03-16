@@ -5,7 +5,7 @@ date: 2020-09-16 16:38:42
 image: 'https://m.media-amazon.com/images/I/51dQA9i1rQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8PFGJD-es Micrófono Karaoke Bluetooth FISHOAKY Microfono Inalámbrico...'
 sku: 'B07Z8PFGJD-es'
 tags: [ 'bluetooth', ]

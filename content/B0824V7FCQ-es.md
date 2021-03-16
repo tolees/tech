@@ -5,7 +5,7 @@ date: 2020-08-24 21:29:10
 image: 'https://m.media-amazon.com/images/I/41BXxegcAjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824V7FCQ-es ANWIKE Webcam HD 1080P con micrófono Webcam para...'
 sku: 'B0824V7FCQ-es'
 tags: [ '1080p', ]

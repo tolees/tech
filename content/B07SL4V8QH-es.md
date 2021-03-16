@@ -5,7 +5,7 @@ date: 2020-08-04 06:55:10
 image: 'https://m.media-amazon.com/images/I/41Q+XGRzpIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL4V8QH-es ALASTA® Espejo | Espejo Grandes de Pared | 120x80 | Brasil...'
 sku: 'B07SL4V8QH-es'
 tags: [ 'altavoz','bluetooth', ]

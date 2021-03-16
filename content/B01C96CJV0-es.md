@@ -5,7 +5,7 @@ date: 2020-09-18 07:38:25
 image: 'https://m.media-amazon.com/images/I/31D2-7gUK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C96CJV0-es Brother - Impresora láser Profesional Monocromo Bandeja...'
 sku: 'B01C96CJV0-es'
 tags: [ 'impresora', ]

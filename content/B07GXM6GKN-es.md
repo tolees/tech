@@ -5,7 +5,7 @@ date: 2020-05-29 01:32:16
 image: 'https://m.media-amazon.com/images/I/41AoWPJnnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXM6GKN-es EdwayBuy Smartwatch Amazfit Bip Relojes Deportivos con GPS...'
 sku: 'B07GXM6GKN-es'
 tags: [ 'bluetooth','gps','smartwatch', ]

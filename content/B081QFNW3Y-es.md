@@ -5,7 +5,7 @@ date: 2020-10-02 11:10:35
 image: 'https://m.media-amazon.com/images/I/317pYn1CisL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QFNW3Y-es Newskill Suiko Switch Red - Teclado Mecánico Gaming con...'
 sku: 'B081QFNW3Y-es'
 tags: [ 'teclado', ]

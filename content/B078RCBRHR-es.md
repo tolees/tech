@@ -5,7 +5,7 @@ date: 2020-07-29 19:01:39
 image: 'https://m.media-amazon.com/images/I/41CiEIUZyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078RCBRHR-es TUKA Mouse Pad Alfombrilla de ratón con el cojín de muñeca...'
 sku: 'B078RCBRHR-es'
 tags: [ 'ratón', ]

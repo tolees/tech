@@ -5,7 +5,7 @@ date: 2020-04-11 18:37:33
 image: 'https://m.media-amazon.com/images/I/41c3j0ip-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005NPPQ-es Fujifilm Instax Wide - Película fotográfica instantánea de...'
 sku: 'B00005NPPQ-es'
 tags: [ 'fujifilm', ]

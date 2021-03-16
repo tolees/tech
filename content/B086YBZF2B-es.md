@@ -5,7 +5,7 @@ date: 2020-05-13 13:34:43
 image: 'https://m.media-amazon.com/images/I/41P6A+3iHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YBZF2B-es HP 14s-dq0003ns - Ordenador portátil 14" HD Intel Core...'
 sku: 'B086YBZF2B-es'
 tags: [ 'ordenador','ram','teclado', ]

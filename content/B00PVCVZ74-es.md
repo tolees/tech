@@ -5,7 +5,7 @@ date: 2020-04-05 01:55:35
 image: 'https://m.media-amazon.com/images/I/411iOwGaSKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVCVZ74-es D-Link DWA-582 – Tarjeta de Red Interna WiFi AC1200 PCI-...'
 sku: 'B00PVCVZ74-es'
 tags: [ 'wifi', ]

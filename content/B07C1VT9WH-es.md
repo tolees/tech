@@ -5,7 +5,7 @@ date: 2020-07-16 10:28:53
 image: 'https://m.media-amazon.com/images/I/51LH58zpPlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1VT9WH-es GEARGO Webcam Cover Tapa Webcam Ultra Delgada 0.7mm...'
 sku: 'B07C1VT9WH-es'
 tags: [ 'ordenador', ]

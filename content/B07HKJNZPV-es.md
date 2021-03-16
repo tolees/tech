@@ -5,7 +5,7 @@ date: 2020-02-14 12:32:31
 image: 'https://m.media-amazon.com/images/I/41d9hhfU6PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKJNZPV-es RICOO Mesa de Centro Estancia Design WM080-W-ER la Mesa de...'
 sku: 'B07HKJNZPV-es'
 tags: [ 'móvil', ]

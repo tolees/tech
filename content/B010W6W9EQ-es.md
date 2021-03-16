@@ -5,7 +5,7 @@ date: 2020-03-03 14:56:24
 image: 'https://m.media-amazon.com/images/I/41lykfDrMBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010W6W9EQ-es Shure MV5-LTG micrófono de condensador digital para USB y...'
 sku: 'B010W6W9EQ-es'
 tags: [ 'auriculares', ]

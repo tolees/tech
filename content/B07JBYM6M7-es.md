@@ -5,7 +5,7 @@ date: 2020-08-23 23:59:12
 image: 'https://m.media-amazon.com/images/I/41VT0X3cZaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBYM6M7-es E EGOWAY - Batería de Repuesto para Apple MacBook Pro...'
 sku: 'B07JBYM6M7-es'
 tags: [ 'apple', ]

@@ -5,7 +5,7 @@ date: 2020-04-21 00:27:11
 image: 'https://m.media-amazon.com/images/I/51-VPYAJNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CGXPEZU-es Samsung MLT-D203L - Tóner para impresoras láser ProXpress...'
 sku: 'B00CGXPEZU-es'
 tags: [ 'samsung', ]

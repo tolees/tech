@@ -5,7 +5,7 @@ date: 2020-06-22 08:12:45
 image: 'https://m.media-amazon.com/images/I/31+AERJajOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4RBV7T-es Amazfit - Reloj Inteligente Smartwatch Amazfit Bip Lite Azul'
 sku: 'B07Z4RBV7T-es'
 tags: [ 'smartwatch', ]

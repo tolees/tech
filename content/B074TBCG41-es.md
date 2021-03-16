@@ -5,7 +5,7 @@ date: 2020-05-18 06:47:22
 image: 'https://m.media-amazon.com/images/I/51dpbwLhRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TBCG41-es Tronsmart T6 Altavoz Bluetooth 25W 360° Sonido Grave...'
 sku: 'B074TBCG41-es'
 tags: [ 'altavoz','bluetooth','móvil', ]

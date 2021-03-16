@@ -5,7 +5,7 @@ date: 2020-08-30 23:57:48
 image: 'https://m.media-amazon.com/images/I/410+3UGCBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TLF1XR-es ZXSL Cámara Web de 1080p con micrófono para transmisión de...'
 sku: 'B087TLF1XR-es'
 tags: [ '1080p', ]

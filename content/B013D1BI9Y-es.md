@@ -5,7 +5,7 @@ date: 2020-09-21 15:07:37
 image: 'https://m.media-amazon.com/images/I/41mejLLUl7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013D1BI9Y-es Nikon 200-500 mm Lente para cámara de Fotos'
 sku: 'B013D1BI9Y-es'
 tags: [ 'nikon', ]

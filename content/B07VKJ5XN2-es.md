@@ -5,7 +5,7 @@ date: 2020-09-22 15:02:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412QvUUR%2BoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKJ5XN2-es Auriculares Bluetooth Auriculares inalámbricos 4.2...'
 sku: 'B07VKJ5XN2-es'
 tags: [ 'auriculares','bluetooth','estéreo', ]

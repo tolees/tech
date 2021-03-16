@@ -5,7 +5,7 @@ date: 2020-04-21 17:38:23
 image: 'https://m.media-amazon.com/images/I/41zejPCATXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6NBMJ6-es ASUS TUF Gaming FX505DV-AL014 - Portátil Gaming de 15 6"...'
 sku: 'B07Z6NBMJ6-es'
 tags: [ 'asus','ram','teclado', ]

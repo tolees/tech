@@ -5,7 +5,7 @@ date: 2020-06-20 20:32:16
 image: 'https://m.media-amazon.com/images/I/41Un0PcprAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVH4J13-es Hanmir Ventilador de Mano con Bluetooth Mini Ventilador...'
 sku: 'B07PVH4J13-es'
 tags: [ 'bluetooth', ]

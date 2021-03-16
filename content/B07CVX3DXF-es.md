@@ -5,7 +5,7 @@ date: 2020-08-21 20:15:29
 image: 'https://m.media-amazon.com/images/I/415yjuY2ntL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVX3DXF-es VicTsing 1080P HDMI a VGA Video Adaptador de Cable...'
 sku: 'B07CVX3DXF-es'
 tags: [ '1080p', ]

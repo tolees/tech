@@ -5,7 +5,7 @@ date: 2020-08-03 14:57:48
 image: 'https://m.media-amazon.com/images/I/417aqAyAPUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNWCW3K-es OneOdio FUSION A7 Auricurales Circumaurales Inalámbricos...'
 sku: 'B07ZNWCW3K-es'
 tags: [ 'bluetooth', ]

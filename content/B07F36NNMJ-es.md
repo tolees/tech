@@ -5,7 +5,7 @@ date: 2020-07-19 22:02:01
 image: 'https://m.media-amazon.com/images/I/51cq3Z6r03L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F36NNMJ-es Feelkaeu Teclado Bluetooth Inalámbrico 3.0 QWERTY Español...'
 sku: 'B07F36NNMJ-es'
 tags: [ 'bluetooth','tablet','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-06-10 23:58:48
 image: 'https://m.media-amazon.com/images/I/316JcT0uQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XV8VHD3-es Suunto 5 Reloj Deportivo Unisex-Adult Blanco/Negro One Size'
 sku: 'B07XV8VHD3-es'
 tags: [ 'suunto', ]

@@ -5,7 +5,7 @@ date: 2020-08-14 13:37:30
 image: 'https://m.media-amazon.com/images/I/41EfJV8dEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCMYCX4-es VicTsing Ratón Bluetooth Inalámbrico Portátil 4.0 & 2.4G...'
 sku: 'B07LCMYCX4-es'
 tags: [ 'bluetooth','ratón', ]

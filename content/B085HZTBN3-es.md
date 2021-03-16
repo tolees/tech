@@ -5,7 +5,7 @@ date: 2020-08-25 03:18:20
 image: 'https://m.media-amazon.com/images/I/418+UfQeIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HZTBN3-es KIYEDAM Auriculares inalámbricos Bluetooth en el oído con...'
 sku: 'B085HZTBN3-es'
 tags: [ 'auriculares','bluetooth', ]

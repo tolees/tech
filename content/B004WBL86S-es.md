@@ -5,7 +5,7 @@ date: 2020-03-16 16:09:48
 image: 'https://m.media-amazon.com/images/I/518dIwzvjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WBL86S-es Panasonic AAA 750mAh NiMH 4-BL Batería/Pila recargable 750...'
 sku: 'B004WBL86S-es'
 tags: [ 'panasonic', ]

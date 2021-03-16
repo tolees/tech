@@ -5,7 +5,7 @@ date: 2020-04-14 00:31:29
 image: 'https://m.media-amazon.com/images/I/51mK4XsIhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1JN7PS-es RUIZU H1 Reproductor de MP3 con Pantalla táctil y...'
 sku: 'B07W1JN7PS-es'
 tags: [ 'altavoz','bluetooth', ]

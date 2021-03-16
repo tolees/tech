@@ -5,7 +5,7 @@ date: 2020-09-19 16:24:58
 image: 'https://m.media-amazon.com/images/I/31Rk8sznfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EPWC30O-es Sony SEL50F18B - Objetivo para Sony distancia focal fija...'
 sku: 'B00EPWC30O-es'
 tags: [ 'sony', ]

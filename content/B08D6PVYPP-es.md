@@ -5,7 +5,7 @@ date: 2020-09-10 13:34:31
 image: 'https://m.media-amazon.com/images/I/31c+4xzM2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6PVYPP-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08D6PVYPP-es'
 tags: [ 'auriculares','bluetooth', ]

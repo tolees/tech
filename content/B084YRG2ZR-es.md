@@ -5,7 +5,7 @@ date: 2020-10-12 03:40:20
 image: 'https://m.media-amazon.com/images/I/413Qmx-b5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YRG2ZR-es UROZETTA Mobile WiFi Hotspot con 20 GB España Data 4G...'
 sku: 'B084YRG2ZR-es'
 tags: [ 'wifi', ]

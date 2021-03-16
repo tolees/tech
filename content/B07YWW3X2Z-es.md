@@ -5,7 +5,7 @@ date: 2020-07-19 08:40:19
 image: 'https://m.media-amazon.com/images/I/41kDbKuHinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWW3X2Z-es Hub USB C Adaptador USB C a USB 5 en 1 4 Puertos USB 3.0 y...'
 sku: 'B07YWW3X2Z-es'
 tags: [ 'huawei','samsung', ]

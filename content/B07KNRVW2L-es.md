@@ -5,7 +5,7 @@ date: 2020-10-06 09:15:39
 image: 'https://m.media-amazon.com/images/I/31AQVcdqKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNRVW2L-es ADWITS Cable Adaptador USB A a USB C USB 3.0 Macho a Tipo...'
 sku: 'B07KNRVW2L-es'
 tags: [ 'samsung', ]

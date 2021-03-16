@@ -5,7 +5,7 @@ date: 2020-08-04 07:56:55
 image: 'https://m.media-amazon.com/images/I/41pfuQLB8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1L3XGL-es AOC 27B1H Monitor IPS de 27" con Pantalla FHD 1920 x 1080...'
 sku: 'B07D1L3XGL-es'
 tags: [ 'ips', ]

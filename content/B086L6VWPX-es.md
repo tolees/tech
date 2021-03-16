@@ -5,7 +5,7 @@ date: 2020-08-29 08:00:47
 image: 'https://m.media-amazon.com/images/I/419ueiRtYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086L6VWPX-es Lector de Tarjetas Micro USB – SD Micro SD y MMC - Lector...'
 sku: 'B086L6VWPX-es'
 tags: [ 'smartphone', ]

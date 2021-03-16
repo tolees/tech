@@ -5,7 +5,7 @@ date: 2020-05-19 16:35:09
 image: 'https://m.media-amazon.com/images/I/51K30tEl0XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY2RZ8L-es Fujifilm Instax SQ6 - Cámara Analógica Instantánea Formato...'
 sku: 'B07HY2RZ8L-es'
 tags: [ 'fujifilm', ]

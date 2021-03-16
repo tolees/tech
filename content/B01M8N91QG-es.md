@@ -5,7 +5,7 @@ date: 2020-03-24 08:59:56
 image: 'https://m.media-amazon.com/images/I/414EpfL1RGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8N91QG-es Polk Audio MagniFi Mini - Barra de Sonido y Subwoofer...'
 sku: 'B01M8N91QG-es'
 tags: [ 'bluetooth', ]

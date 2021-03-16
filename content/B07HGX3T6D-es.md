@@ -5,7 +5,7 @@ date: 2020-01-05 20:46:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517Ph30V4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGX3T6D-es Cámara de Vigilancia 2MP Cámara De Seguridad Aottom 1080P...'
 sku: 'B07HGX3T6D-es'
 tags: [ '1080p', ]

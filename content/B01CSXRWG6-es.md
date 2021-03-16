@@ -5,7 +5,7 @@ date: 2020-06-27 01:31:01
 image: 'https://m.media-amazon.com/images/I/41MBBusZENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSXRWG6-es actecom USB 2.0 Cable de Impresora escáner Cable de Alta...'
 sku: 'B01CSXRWG6-es'
 tags: [ 'canon','dell','impresora','samsung', ]

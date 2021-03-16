@@ -5,7 +5,7 @@ date: 2020-05-26 10:42:45
 image: 'https://m.media-amazon.com/images/I/41hdV1zuDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRVL4KY-es Yosou Cable USB C [2Pack 2M] Cargador USB Tipo C Rápida...'
 sku: 'B07PRVL4KY-es'
 tags: [ 'galaxy','huawei','samsung','sony','xiaomi', ]

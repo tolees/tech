@@ -5,7 +5,7 @@ date: 2020-06-18 15:02:49
 image: 'https://m.media-amazon.com/images/I/41aOyqEyLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YLJMZ1-es Ratón ergonómico Vertical inalámbrico Hommie Ratón...'
 sku: 'B082YLJMZ1-es'
 tags: [ 'bluetooth','ratón', ]

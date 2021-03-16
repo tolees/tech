@@ -5,7 +5,7 @@ date: 2020-10-03 05:16:10
 image: 'https://m.media-amazon.com/images/I/41ox1sGr2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4PXNSR-es Capturadora de vídeo HDMI USB 2.0 Tarjeta de Captura de...'
 sku: 'B08B4PXNSR-es'
 tags: [ '1080p', ]

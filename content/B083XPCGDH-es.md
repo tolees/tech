@@ -5,7 +5,7 @@ date: 2020-08-08 10:23:23
 image: 'https://m.media-amazon.com/images/I/31XumnyagpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XPCGDH-es yobola Auriculares Bluetooth Inalámbrico Bluetooth 5.0...'
 sku: 'B083XPCGDH-es'
 tags: [ 'auriculares','bluetooth', ]

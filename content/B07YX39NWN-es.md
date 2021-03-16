@@ -5,7 +5,7 @@ date: 2020-08-23 23:59:08
 image: 'https://m.media-amazon.com/images/I/51tX4xRTAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YX39NWN-es IVSO Español Funda con Teclado Español Ñ para Samsung...'
 sku: 'B07YX39NWN-es'
 tags: [ 'galaxy','samsung','teclado', ]

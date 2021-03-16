@@ -5,7 +5,7 @@ date: 2020-09-14 00:04:47
 image: 'https://m.media-amazon.com/images/I/41FqhGWRGlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHBY3HX-es Ayuly Ratón Gaming Ratones Gaming Programable 2400 dpi...'
 sku: 'B07QHBY3HX-es'
 tags: [ 'ratón', ]

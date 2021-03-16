@@ -5,7 +5,7 @@ date: 2020-09-14 09:47:38
 image: 'https://m.media-amazon.com/images/I/413gs+cdOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058VIWTM-es LaCie 1 TB Rugged Mini USB 3.0 2.5 Pulgadas Disco Duro...'
 sku: 'B0058VIWTM-es'
 tags: [ 'disco','duro', ]

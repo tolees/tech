@@ -5,7 +5,7 @@ date: 2020-08-17 01:04:03
 image: 'https://m.media-amazon.com/images/I/51bXh0uYdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD81RDC-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED...'
 sku: 'B07DD81RDC-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-07-26 13:12:43
 image: 'https://m.media-amazon.com/images/I/31gameleO-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PZBNKP-es HyperX Fury HX432C16FB3K2/64 Memoria RAM 64GB 3200MHz DDR4...'
 sku: 'B083PZBNKP-es'
 tags: [ 'ram', ]

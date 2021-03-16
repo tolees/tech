@@ -5,7 +5,7 @@ date: 2020-01-18 08:15:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rBlx2lpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC81JDP-es SEBSON Báscula de Grasa Corporal Bluetooth con App digital...'
 sku: 'B07XC81JDP-es'
 tags: [ 'bluetooth', ]

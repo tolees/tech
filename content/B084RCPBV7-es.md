@@ -5,7 +5,7 @@ date: 2020-06-10 13:46:07
 image: 'https://m.media-amazon.com/images/I/31oZcbt2vqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RCPBV7-es NK Body CAM Live Stream - Cámara Personal de Transmisión...'
 sku: 'B084RCPBV7-es'
 tags: [ 'altavoz','wifi', ]

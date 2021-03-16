@@ -5,7 +5,7 @@ date: 2020-05-23 22:27:32
 image: 'https://m.media-amazon.com/images/I/413yYP1lbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077RWKB3J-es Sennheiser GSP 600 - Auriculares Cerrados para Juegos...'
 sku: 'B077RWKB3J-es'
 tags: [ 'auriculares', ]

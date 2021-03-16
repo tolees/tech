@@ -5,7 +5,7 @@ date: 2020-08-29 14:00:45
 image: 'https://m.media-amazon.com/images/I/51sozZ0-2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMTTW5P-es AtailorBird Funda para PC Portátil 13-14 Pulgadas Bolsa de...'
 sku: 'B07RMTTW5P-es'
 tags: [ 'ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-06-08 07:07:17
 image: 'https://m.media-amazon.com/images/I/31mKb6eoj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDBD9R6-es Netgear R6700 Router WiFi Nighthawk AC1750 Doble Banda 4...'
 sku: 'B07NDBD9R6-es'
 tags: [ 'gigabit','netgear','wifi', ]

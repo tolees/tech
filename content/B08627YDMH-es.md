@@ -5,7 +5,7 @@ date: 2020-08-31 13:01:54
 image: 'https://m.media-amazon.com/images/I/41dfXQA771L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08627YDMH-es Oihxse Funda Compatible con Samsung Galaxy S6 Edge Carcasa...'
 sku: 'B08627YDMH-es'
 tags: [ 'galaxy','samsung', ]

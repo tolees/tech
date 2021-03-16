@@ -5,7 +5,7 @@ date: 2020-08-10 17:19:35
 image: 'https://m.media-amazon.com/images/I/41rjbqQ71tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSM2YL4-es K KYUER 4450mAh T4450E Tablet Batería para Samsung Galaxy...'
 sku: 'B07PSM2YL4-es'
 tags: [ 'galaxy','samsung','tablet','wifi', ]

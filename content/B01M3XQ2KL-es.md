@@ -5,7 +5,7 @@ date: 2020-02-11 17:32:16
 image: 'https://m.media-amazon.com/images/I/41D8l+KfcML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3XQ2KL-es Samsung EP-LN920CBEGWW Cargador de coche Dual con Carga...'
 sku: 'B01M3XQ2KL-es'
 tags: [ 'samsung', ]

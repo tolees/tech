@@ -5,7 +5,7 @@ date: 2020-02-06 20:38:04
 image: 'https://m.media-amazon.com/images/I/41ze4ojds2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRW32Q5-es Reebok Cinta de Correr SL8.0 - Motor 3HP DC - Velocidad...'
 sku: 'B07PRW32Q5-es'
 tags: [ 'bluetooth', ]

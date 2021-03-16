@@ -5,7 +5,7 @@ date: 2020-06-21 07:48:40
 image: 'https://m.media-amazon.com/images/I/316Ol3lWdQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS91TRQ-es Sony WI-C600N - Auriculares Neckband inalámbricos...'
 sku: 'B07MS91TRQ-es'
 tags: [ 'auriculares','bluetooth','sony', ]

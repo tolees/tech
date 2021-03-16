@@ -5,7 +5,7 @@ date: 2020-09-07 16:29:01
 image: 'https://m.media-amazon.com/images/I/41AacH8VchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1RH17P-es Cargador USB Multipuerto LENCENT Ladron Enchufes 4.4A 5V...'
 sku: 'B07J1RH17P-es'
 tags: [ 'iphone','samsung', ]

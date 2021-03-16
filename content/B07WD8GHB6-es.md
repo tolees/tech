@@ -5,7 +5,7 @@ date: 2020-09-14 00:05:40
 image: 'https://m.media-amazon.com/images/I/41hprvXZFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD8GHB6-es Anpollo Alfombrilla Gaming 900x400x3mm Alfombrilla Raton...'
 sku: 'B07WD8GHB6-es'
 tags: [ 'ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 08:15:44
 image: 'https://m.media-amazon.com/images/I/41BS+I2ooLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBLLVL9-es VicTsing Ratón Inalámbrico Recargable Portátil Silencioso...'
 sku: 'B07TBLLVL9-es'
 tags: [ 'ratón', ]

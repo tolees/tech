@@ -5,7 +5,7 @@ date: 2020-03-12 00:14:57
 image: 'https://m.media-amazon.com/images/I/51Ty+rT1aBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9RY3C9-es SUNLU Filamento PLA 1.75mm 5kg Impresora 3D Filamento...'
 sku: 'B07X9RY3C9-es'
 tags: [ 'impresora', ]

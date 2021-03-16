@@ -5,7 +5,7 @@ date: 2020-09-22 01:50:08
 image: 'https://m.media-amazon.com/images/I/51veUyrOQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C6XZ2PL-es BANLVS Smartwatch Reloj Inteligente IP67 con Correa...'
 sku: 'B08C6XZ2PL-es'
 tags: [ 'smartwatch', ]

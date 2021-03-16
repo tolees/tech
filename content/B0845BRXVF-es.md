@@ -5,7 +5,7 @@ date: 2020-08-22 09:58:04
 image: 'https://m.media-amazon.com/images/I/31sQWZJln4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0845BRXVF-es Energy Sistem Style 3 Auriculares inalambricos True...'
 sku: 'B0845BRXVF-es'
 tags: [ 'auriculares','bluetooth', ]

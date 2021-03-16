@@ -5,7 +5,7 @@ date: 2020-07-21 12:21:10
 image: 'https://m.media-amazon.com/images/I/41yV1Fh+umL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HDNWLT-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m 3...'
 sku: 'B084HDNWLT-es'
 tags: [ 'iphone', ]

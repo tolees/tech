@@ -5,7 +5,7 @@ date: 2020-07-02 14:34:23
 image: 'https://m.media-amazon.com/images/I/31WDbcEjrpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0165GPO4E-es Manos libres Originales Samsung EO-EG920BW Blancos No en...'
 sku: 'B0165GPO4E-es'
 tags: [ 'samsung', ]

@@ -5,7 +5,7 @@ date: 2020-05-03 09:44:46
 image: 'https://m.media-amazon.com/images/I/41SwEY5XVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QMLWV2-es HP Pavilion 15-bc519ns - Ordenador portátil de 15.6"...'
 sku: 'B081QMLWV2-es'
 tags: [ 'ordenador','ram','teclado', ]

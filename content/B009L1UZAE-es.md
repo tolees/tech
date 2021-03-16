@@ -5,7 +5,7 @@ date: 2020-04-09 18:14:51
 image: 'https://m.media-amazon.com/images/I/31B2dBIH8hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009L1UZAE-es HP X4500 - Ratón inalámbrico USB Sensor láser Windows...'
 sku: 'B009L1UZAE-es'
 tags: [ 'ratón', ]

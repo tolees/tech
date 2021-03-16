@@ -5,7 +5,7 @@ date: 2020-07-29 11:08:13
 image: 'https://m.media-amazon.com/images/I/41Gc3LZEz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBZ1G61-es Ushining Teléfono Móvils Basico Teléfono Móvil para...'
 sku: 'B07VBZ1G61-es'
 tags: [ 'móvil', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 11:03:31
 image: 'https://m.media-amazon.com/images/I/51qwQEwaIaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV66DZB-es Ferilinso Funda para Xiaomi Mi A3 Funda [Reforzar la...'
 sku: 'B07TV66DZB-es'
 tags: [ 'xiaomi', ]

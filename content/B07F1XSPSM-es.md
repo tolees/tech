@@ -5,7 +5,7 @@ date: 2020-03-12 10:41:58
 image: 'https://m.media-amazon.com/images/I/41MJ6ihM8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1XSPSM-es Proze TWS-02 Auriculares Inalámbricos Bluetooth 5.0 -...'
 sku: 'B07F1XSPSM-es'
 tags: [ 'auriculares','bluetooth', ]

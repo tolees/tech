@@ -5,7 +5,7 @@ date: 2020-05-28 06:34:24
 image: 'https://m.media-amazon.com/images/I/51v0x21namL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1L8JVG-es Funda para Xiaomi Redmi Note 8 Pro Adsorción Magnética...'
 sku: 'B07Z1L8JVG-es'
 tags: [ 'xiaomi', ]

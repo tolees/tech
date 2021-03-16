@@ -5,7 +5,7 @@ date: 2020-09-04 15:15:34
 image: 'https://m.media-amazon.com/images/I/41bdKM8bkhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FBVDRWL-es AOC 24V2Q – Monitor de 24” Full HD IPS Resolución 1920 x...'
 sku: 'B07FBVDRWL-es'
 tags: [ 'full','hd','ips', ]

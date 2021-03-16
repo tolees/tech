@@ -5,7 +5,7 @@ date: 2020-02-13 04:43:05
 image: 'https://m.media-amazon.com/images/I/51KB-I220cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X44LSZG-es Spigen Urban Fit diseñado para Apple Airpods Funda para...'
 sku: 'B07X44LSZG-es'
 tags: [ 'apple', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 06:57:03
 image: 'https://m.media-amazon.com/images/I/41uD1YinpWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VBSNRZ-es Adaptador USB C HDMI 3 en 1 uni Hub USB C HDMI 4K HDMI...'
 sku: 'B081VBSNRZ-es'
 tags: [ 'galaxy','huawei', ]

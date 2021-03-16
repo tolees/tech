@@ -5,7 +5,7 @@ date: 2020-01-15 16:42:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oRCz2Y94L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J2XI4SG-es Polar V650 - Ciclocomputador de ciclismo con GPS'
 sku: 'B00J2XI4SG-es'
 tags: [ 'gps', ]

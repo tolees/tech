@@ -5,7 +5,7 @@ date: 2020-09-08 14:20:23
 image: 'https://m.media-amazon.com/images/I/41L5cG68wvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1HXYCV-es Anillo de Luz con Tripode doosl 10" Regulables Selfies...'
 sku: 'B08B1HXYCV-es'
 tags: [ 'iphone', ]

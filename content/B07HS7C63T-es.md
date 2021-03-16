@@ -5,7 +5,7 @@ date: 2020-02-27 13:43:36
 image: 'https://m.media-amazon.com/images/I/51g+hC6ccRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS7C63T-es ASUS ROG Strix Z390-E Gaming LGA1151 Intel 8th and 9th Gen...'
 sku: 'B07HS7C63T-es'
 tags: [ 'asus', ]

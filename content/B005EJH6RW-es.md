@@ -5,7 +5,7 @@ date: 2020-08-31 19:46:21
 image: 'https://m.media-amazon.com/images/I/416Dm5CQZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005EJH6RW-es AmazonBasics - Ratón con 3 botones y cable USB 5V - 100mA...'
 sku: 'B005EJH6RW-es'
 tags: [ 'ratón', ]

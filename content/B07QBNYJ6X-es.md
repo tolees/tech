@@ -5,7 +5,7 @@ date: 2020-06-11 05:54:06
 image: 'https://m.media-amazon.com/images/I/519TcaT0dzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBNYJ6X-es SanDisk Cruzer Blade- Memoria USB 2.0 Pack 3 Unidades de...'
 sku: 'B07QBNYJ6X-es'
 tags: [ 'sandisk', ]

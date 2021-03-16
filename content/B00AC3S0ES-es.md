@@ -5,7 +5,7 @@ date: 2020-04-24 11:50:21
 image: 'https://m.media-amazon.com/images/I/41ETZed4ryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AC3S0ES-es Epson LQ-350 - Impresora matricial 24 Pines USB 2.0...'
 sku: 'B00AC3S0ES-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 17:33:37
 image: 'https://m.media-amazon.com/images/I/41emZSdyrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XY7LSY8-es Arduino starter kit para principiantes K030007 [manual en...'
 sku: 'B00XY7LSY8-es'
 tags: [ 'arduino', ]

@@ -5,7 +5,7 @@ date: 2020-04-23 17:00:46
 image: 'https://m.media-amazon.com/images/I/41X5exGgxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WS41DX-es Sony WHCH500H.CE7 - Auriculares inalámbricos de Diadema...'
 sku: 'B078WS41DX-es'
 tags: [ 'auriculares','sony', ]

@@ -5,7 +5,7 @@ date: 2020-08-28 23:55:20
 image: 'https://m.media-amazon.com/images/I/41GXmwg7YUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFQHSKR-es Fanlce Repetidor WiFi，Banda Dual Amplificador de WiFi...'
 sku: 'B07YFQHSKR-es'
 tags: [ 'wifi', ]

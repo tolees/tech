@@ -5,7 +5,7 @@ date: 2020-02-22 14:42:39
 image: 'https://m.media-amazon.com/images/I/51RJmOjZ6uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FM16PN-es Videocámara Videocamara 2.7K Full HD 30 MP Cámara de Video...'
 sku: 'B083FM16PN-es'
 tags: [ 'full','hd','ips', ]

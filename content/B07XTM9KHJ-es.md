@@ -5,7 +5,7 @@ date: 2020-09-20 16:51:16
 image: 'https://m.media-amazon.com/images/I/417R4c8cM2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTM9KHJ-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
 sku: 'B07XTM9KHJ-es'
 tags: [ 'iphone', ]

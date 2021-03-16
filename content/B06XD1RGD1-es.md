@@ -5,7 +5,7 @@ date: 2020-09-30 10:39:53
 image: 'https://m.media-amazon.com/images/I/31c-jriPvFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD1RGD1-es Epson Workforce WF 3720 DWF - Impresora Multifunción Color...'
 sku: 'B06XD1RGD1-es'
 tags: [ 'impresora', ]

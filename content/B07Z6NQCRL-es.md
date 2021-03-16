@@ -5,7 +5,7 @@ date: 2020-01-13 22:19:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z87hoW0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6NQCRL-es ASUS ZenBook UX410UA-GV426 - Portátil de 14" FullHD Intel...'
 sku: 'B07Z6NQCRL-es'
 tags: [ 'asus','ram','teclado', ]

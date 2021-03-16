@@ -5,7 +5,7 @@ date: 2020-09-22 05:04:42
 image: 'https://m.media-amazon.com/images/I/518AQdRAS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4G9W5S-es ESR Protector Pantalla para iPhone 7 Plus/8 Plus [2...'
 sku: 'B01K4G9W5S-es'
 tags: [ 'apple','iphone', ]

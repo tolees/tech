@@ -5,7 +5,7 @@ date: 2020-08-19 17:15:14
 image: 'https://m.media-amazon.com/images/I/31u4EyTG7fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S9QQXH-es Jabra Elite Sport – Auriculares Deportivos Inalámbricos...'
 sku: 'B073S9QQXH-es'
 tags: [ 'auriculares', ]

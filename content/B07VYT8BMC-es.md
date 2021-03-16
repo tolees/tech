@@ -5,7 +5,7 @@ date: 2020-05-22 00:22:47
 image: 'https://m.media-amazon.com/images/I/31g0fzvfgvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYT8BMC-es Samsung Galaxy Note10+ SM-N975F - Smartphone Dual SIM 12...'
 sku: 'B07VYT8BMC-es'
 tags: [ 'galaxy','ram','samsung','smartphone', ]

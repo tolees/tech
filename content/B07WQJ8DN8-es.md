@@ -5,7 +5,7 @@ date: 2020-06-02 13:33:12
 image: 'https://m.media-amazon.com/images/I/41JuF8+nMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQJ8DN8-es Polar Ignite – Reloj de fitness con GPS integrado...'
 sku: 'B07WQJ8DN8-es'
 tags: [ 'gps', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 23:00:57
 image: 'https://m.media-amazon.com/images/I/4144nNkBdTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C8ZM8F-es ELTD Funda + Película templada [combinación] para Huawei...'
 sku: 'B085C8ZM8F-es'
 tags: [ 'huawei', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 07:13:28
 image: 'https://m.media-amazon.com/images/I/41-rDVMW3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FWCR922-es Corsair K70 LUX - Teclado mecánico Gaming retroiluminación...'
 sku: 'B01FWCR922-es'
 tags: [ 'teclado', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 11:37:10
 image: 'https://m.media-amazon.com/images/I/41olonnP+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EOSHGQ-es Nikon AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED - Objetivo...'
 sku: 'B000EOSHGQ-es'
 tags: [ 'nikon', ]

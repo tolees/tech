@@ -5,7 +5,7 @@ date: 2020-02-27 07:56:34
 image: 'https://m.media-amazon.com/images/I/51RobhEsLKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFDKMT8-es RCB Patinete Eléctrico 8.5 Pulgadas Scooter Plegable...'
 sku: 'B07ZFDKMT8-es'
 tags: [ 'bluetooth', ]

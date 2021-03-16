@@ -5,7 +5,7 @@ date: 2020-09-26 09:45:16
 image: 'https://m.media-amazon.com/images/I/41aw-AVNrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08421MCCY-es HP Elite Dragonfly - Ordenador portátil Convertible de...'
 sku: 'B08421MCCY-es'
 tags: [ 'ordenador','ram','teclado', ]

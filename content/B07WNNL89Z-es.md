@@ -5,7 +5,7 @@ date: 2020-07-03 12:31:32
 image: 'https://m.media-amazon.com/images/I/410DVKM-yCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNNL89Z-es Black Shark 2 8GB+128GB Azul con Pro Kit Black Shark Funda...'
 sku: 'B07WNNL89Z-es'
 tags: [ 'móvil', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 01:01:57
 image: 'https://m.media-amazon.com/images/I/31mHLNxzgYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A33BYEA-es Netgear GS208-100PES - Switch 8 Puertos Gigabit 10/100/1000'
 sku: 'B00A33BYEA-es'
 tags: [ 'gigabit','netgear', ]

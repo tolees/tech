@@ -5,7 +5,7 @@ date: 2020-09-13 23:01:44
 image: 'https://m.media-amazon.com/images/I/51fm5PNZzpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VZKYS7-es Toner Kingdom Cartucho de Toner Compatible Reemplazo para...'
 sku: 'B085VZKYS7-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-03-18 12:02:21
 image: 'https://m.media-amazon.com/images/I/31zx97I2pcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSBHZS5-es WAVLINK Sistema de malla WiFi para todo el hogar AC1200 de...'
 sku: 'B07WSBHZS5-es'
 tags: [ 'gigabit','wifi', ]

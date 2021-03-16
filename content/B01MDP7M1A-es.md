@@ -5,7 +5,7 @@ date: 2020-08-21 07:27:57
 image: 'https://m.media-amazon.com/images/I/31DAJ28VlUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDP7M1A-es Microsoft Surface Pro - Cargador para laptop'
 sku: 'B01MDP7M1A-es'
 tags: [ 'microsoft', ]

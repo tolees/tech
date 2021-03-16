@@ -5,7 +5,7 @@ date: 2020-06-15 18:32:31
 image: 'https://m.media-amazon.com/images/I/41tupVwdxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ETPAEDU-es Logitech G602 Ratón Inalámbrico 2 500 dpi 11 Botones...'
 sku: 'B00ETPAEDU-es'
 tags: [ 'logitech','ratón', ]

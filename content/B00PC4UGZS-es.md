@@ -5,7 +5,7 @@ date: 2020-01-11 08:38:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mvww4A2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PC4UGZS-es Trust Yvi - Ratón óptico inalámbrico Dream Catcher'
 sku: 'B00PC4UGZS-es'
 tags: [ 'ratón', ]

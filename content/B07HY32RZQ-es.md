@@ -5,7 +5,7 @@ date: 2020-09-28 18:00:20
 image: 'https://m.media-amazon.com/images/I/31ib8bj7JrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY32RZQ-es EZVIZ 303100908 Camara IP WiFi C3A White'
 sku: 'B07HY32RZQ-es'
 tags: [ 'wifi', ]

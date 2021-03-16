@@ -5,7 +5,7 @@ date: 2020-03-13 22:58:53
 image: 'https://m.media-amazon.com/images/I/41DnWS+Kw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077J2HFD2-es KROM Kernel Tkl - NXKROMKRNLTKL - Teclado Mecánico Español...'
 sku: 'B077J2HFD2-es'
 tags: [ 'teclado', ]

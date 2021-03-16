@@ -5,7 +5,7 @@ date: 2020-02-23 23:39:03
 image: 'https://m.media-amazon.com/images/I/411JUZtBoBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ2VZI3-es Netgear GS110EMX-100PES - Switch de Red Smart Plus...'
 sku: 'B01MZ2VZI3-es'
 tags: [ 'gigabit','netgear', ]

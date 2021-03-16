@@ -5,7 +5,7 @@ date: 2020-09-20 06:45:26
 image: 'https://m.media-amazon.com/images/I/41aQP-3SawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2VLJL1-es Edifier W820BT Auriculares Bluetooth - Auricular...'
 sku: 'B07G2VLJL1-es'
 tags: [ 'auriculares','bluetooth', ]

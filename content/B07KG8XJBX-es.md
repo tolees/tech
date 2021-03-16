@@ -5,7 +5,7 @@ date: 2020-05-31 05:18:43
 image: 'https://m.media-amazon.com/images/I/51-ZXhdOK7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG8XJBX-es GOZAR Scooter Eléctrico Antirrobo De Acero Alambre Bloqueo...'
 sku: 'B07KG8XJBX-es'
 tags: [ 'xiaomi', ]

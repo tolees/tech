@@ -5,7 +5,7 @@ date: 2020-08-29 12:00:59
 image: 'https://m.media-amazon.com/images/I/41wPp+xHzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8MRS5N-es DIGITNOW! Dongle de Captura de Video HDMI USB 3.0 y...'
 sku: 'B07X8MRS5N-es'
 tags: [ '1080p','full','hd', ]

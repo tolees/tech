@@ -5,7 +5,7 @@ date: 2020-08-08 00:33:37
 image: 'https://m.media-amazon.com/images/I/41SRLuGa7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PWZ6RT-es ACEPC Mini PC 8 GB RAM 120 GB Rom Mini computadora ......'
 sku: 'B082PWZ6RT-es'
 tags: [ 'ram', ]

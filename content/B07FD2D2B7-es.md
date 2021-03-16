@@ -5,7 +5,7 @@ date: 2020-03-23 16:32:08
 image: 'https://m.media-amazon.com/images/I/41fQjK5dG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD2D2B7-es INFILAND Funda para Microsoft Surface Pro 7 2019 / Surface...'
 sku: 'B07FD2D2B7-es'
 tags: [ 'microsoft', ]

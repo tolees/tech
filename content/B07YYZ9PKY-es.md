@@ -5,7 +5,7 @@ date: 2020-07-23 18:24:25
 image: 'https://m.media-amazon.com/images/I/41pMoavQw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYZ9PKY-es Beats Solo Pro con cancelación de ruido - Auriculares...'
 sku: 'B07YYZ9PKY-es'
 tags: [ 'apple','auriculares','bluetooth', ]

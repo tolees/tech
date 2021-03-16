@@ -5,7 +5,7 @@ date: 2020-08-06 21:02:35
 image: 'https://m.media-amazon.com/images/I/31OTkaGILYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHX4PQQ-es Logitech R500 Presentador Inalámbrico 2.4 GHz con Receptor...'
 sku: 'B07CHX4PQQ-es'
 tags: [ 'logitech', ]

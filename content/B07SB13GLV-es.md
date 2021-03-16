@@ -5,7 +5,7 @@ date: 2020-08-14 16:17:18
 image: 'https://m.media-amazon.com/images/I/3167EePpXxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB13GLV-es Energy Sistem Headphones BT Urban 2 Radio White...'
 sku: 'B07SB13GLV-es'
 tags: [ 'auriculares','bluetooth','microsd', ]

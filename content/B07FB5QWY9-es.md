@@ -5,7 +5,7 @@ date: 2020-09-04 06:52:33
 image: 'https://m.media-amazon.com/images/I/51BavqidXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB5QWY9-es Lenovo L24e-20 23.8 " FHD VA FreeSync Gaming Monitor 4 ms...'
 sku: 'B07FB5QWY9-es'
 tags: [ 'lenovo', ]

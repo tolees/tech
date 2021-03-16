@@ -5,7 +5,7 @@ date: 2020-10-02 17:45:57
 image: 'https://m.media-amazon.com/images/I/41oWOy2hOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ISNZ62I-es Reticare 352L-0215-B - Protector intensive de ojos para...'
 sku: 'B00ISNZ62I-es'
 tags: [ 'ordenador', ]

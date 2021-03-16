@@ -5,7 +5,7 @@ date: 2020-08-17 01:03:52
 image: 'https://m.media-amazon.com/images/I/41sKIW+gbHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897GDDJ2-es ieGeek Webcam 1080P con Soporte USB PC Cámara Web con...'
 sku: 'B0897GDDJ2-es'
 tags: [ '1080p','full','hd', ]

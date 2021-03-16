@@ -5,7 +5,7 @@ date: 2020-08-12 13:15:53
 image: 'https://m.media-amazon.com/images/I/51wvoNhN4LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFNRNRJ-es Ferilinso Funda para Xiaomi Redmi 8 Carcasa [Reforzar la...'
 sku: 'B07YFNRNRJ-es'
 tags: [ 'xiaomi', ]

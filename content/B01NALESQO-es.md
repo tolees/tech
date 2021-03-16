@@ -5,7 +5,7 @@ date: 2020-02-13 18:21:04
 image: 'https://m.media-amazon.com/images/I/41GZmRd-Q4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NALESQO-es Crucial CT16G4RFS4266 - Memoria RAM de 16 GB DDR4 2666...'
 sku: 'B01NALESQO-es'
 tags: [ 'ram', ]

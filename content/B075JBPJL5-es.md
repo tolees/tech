@@ -5,7 +5,7 @@ date: 2020-04-22 13:32:06
 image: 'https://m.media-amazon.com/images/I/51GANnDqQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JBPJL5-es Fujifilm X-E3 - Cámara Evil de 24.3 MP y kit cuerpo con...'
 sku: 'B075JBPJL5-es'
 tags: [ 'fujifilm', ]

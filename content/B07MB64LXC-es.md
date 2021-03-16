@@ -5,7 +5,7 @@ date: 2020-03-16 09:30:12
 image: 'https://m.media-amazon.com/images/I/41BZiAArt7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MB64LXC-es Sileu Funda Tablet e iPad Carcasa de Silicona para Niños -...'
 sku: 'B07MB64LXC-es'
 tags: [ 'tablet', ]

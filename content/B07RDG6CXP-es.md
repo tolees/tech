@@ -5,7 +5,7 @@ date: 2020-06-30 13:18:14
 image: 'https://m.media-amazon.com/images/I/41KcDWvku1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDG6CXP-es AWESAFE 4K GPS Cámara de Coche Dashcam con Full HD 170...'
 sku: 'B07RDG6CXP-es'
 tags: [ 'full','gps','hd', ]

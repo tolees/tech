@@ -5,7 +5,7 @@ date: 2020-10-02 09:16:15
 image: 'https://m.media-amazon.com/images/I/41lnpsAfIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0151KM4VG-es TOSHIBA P300 Disco duro interno 2 TB – 3 5" pulgadas –...'
 sku: 'B0151KM4VG-es'
 tags: [ 'disco','duro','toshiba', ]

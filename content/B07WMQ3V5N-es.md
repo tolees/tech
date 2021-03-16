@@ -5,7 +5,7 @@ date: 2020-05-08 20:39:26
 image: 'https://m.media-amazon.com/images/I/41dqRi9xC0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMQ3V5N-es Fintie Funda con Teclado Español Ñ para Huawei MediaPad T3...'
 sku: 'B07WMQ3V5N-es'
 tags: [ 'bluetooth','huawei','teclado', ]

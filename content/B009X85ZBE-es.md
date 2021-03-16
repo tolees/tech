@@ -5,7 +5,7 @@ date: 2020-10-01 10:03:10
 image: 'https://m.media-amazon.com/images/I/31-L7m9TXPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009X85ZBE-es Playgro Juguete Colgante Ratón Clip Clop Desde el...'
 sku: 'B009X85ZBE-es'
 tags: [ 'ratón', ]

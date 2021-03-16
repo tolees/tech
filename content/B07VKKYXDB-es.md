@@ -5,7 +5,7 @@ date: 2020-09-20 22:58:39
 image: 'https://m.media-amazon.com/images/I/41uA4DkLoqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKKYXDB-es GANYUE Adaptador Bluetooth 5.0 Transceptor de Audio...'
 sku: 'B07VKKYXDB-es'
 tags: [ 'auriculares','bluetooth', ]

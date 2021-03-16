@@ -5,7 +5,7 @@ date: 2020-10-03 09:15:49
 image: 'https://m.media-amazon.com/images/I/41i1u9qXDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08828WRWQ-es ASUS ROG Strix Z490-G Gaming - Placa Base Gaming mATX...'
 sku: 'B08828WRWQ-es'
 tags: [ 'asus', ]

@@ -5,7 +5,7 @@ date: 2020-05-10 09:14:43
 image: 'https://m.media-amazon.com/images/I/41Q9vCcs4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTKKD6-es Sony SRS-XB41B Altavoz Portátil Bluetooth Extra Bass Modo...'
 sku: 'B078WTKKD6-es'
 tags: [ 'altavoz','bluetooth','smartphone','sony', ]

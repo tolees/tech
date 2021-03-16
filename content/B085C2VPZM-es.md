@@ -5,7 +5,7 @@ date: 2020-10-05 22:21:40
 image: 'https://m.media-amazon.com/images/I/319DgMociuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C2VPZM-es nonda Hub USB C 4 en 1 3 Puertos USB de 3.0 y 1 Puerto de...'
 sku: 'B085C2VPZM-es'
 tags: [ 'dell', ]

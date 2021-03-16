@@ -5,7 +5,7 @@ date: 2020-07-19 10:51:52
 image: 'https://m.media-amazon.com/images/I/41tCNmtHiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9Q5GC6-es Auriculares Inalambricos Bluetooth iAmotus Cascos...'
 sku: 'B07Y9Q5GC6-es'
 tags: [ 'auriculares','bluetooth', ]

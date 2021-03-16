@@ -5,7 +5,7 @@ date: 2020-06-25 08:24:27
 image: 'https://m.media-amazon.com/images/I/41gmGrw329L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QBSV87-es Xiaomi Mi 2 FXR4063GL - Altavoz de Bolsillo Color Negro'
 sku: 'B077QBSV87-es'
 tags: [ 'altavoz','xiaomi', ]

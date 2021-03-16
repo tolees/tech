@@ -5,7 +5,7 @@ date: 2020-01-13 15:28:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RMQQ5Ex4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017COPPR4-es Fonestar BEAR-400R - Altavoz portátil Karaoke'
 sku: 'B017COPPR4-es'
 tags: [ 'altavoz', ]

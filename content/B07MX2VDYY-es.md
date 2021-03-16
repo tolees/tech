@@ -5,7 +5,7 @@ date: 2020-04-29 11:35:00
 image: 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX2VDYY-es Apple Smart Battery Case for iPhone XR - White'
 sku: 'B07MX2VDYY-es'
 tags: [ 'apple','iphone', ]

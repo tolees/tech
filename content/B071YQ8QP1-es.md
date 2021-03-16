@@ -5,7 +5,7 @@ date: 2020-03-06 00:18:03
 image: 'https://m.media-amazon.com/images/I/51N49AI4O+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YQ8QP1-es Samsung S24H850 24" Wide Quad HD - Monitor para PC 60 5 cm...'
 sku: 'B071YQ8QP1-es'
 tags: [ 'samsung', ]

@@ -5,7 +5,7 @@ date: 2020-08-10 19:57:37
 image: 'https://m.media-amazon.com/images/I/41hyRwra9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR84F8B-es SPACEKEEPER Carro de Almacenamiento de 3 Niveles...'
 sku: 'B07ZR84F8B-es'
 tags: [ 'móvil', ]

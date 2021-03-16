@@ -5,7 +5,7 @@ date: 2020-05-03 09:14:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iuc5hHROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBMVVZH-es Ushining Teléfono Móvil Libre Teléfono Móvil para Personas...'
 sku: 'B07JBMVVZH-es'
 tags: [ 'bluetooth','móvil', ]

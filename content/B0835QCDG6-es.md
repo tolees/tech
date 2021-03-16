@@ -5,7 +5,7 @@ date: 2020-03-17 11:49:09
 image: 'https://m.media-amazon.com/images/I/412-RUsu9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0835QCDG6-es EXPLORER - Papel blanco multiusos para impresora - A4 80gr...'
 sku: 'B0835QCDG6-es'
 tags: [ 'impresora', ]

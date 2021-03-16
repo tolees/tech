@@ -5,7 +5,7 @@ date: 2020-07-03 13:31:55
 image: 'https://m.media-amazon.com/images/I/51aBl1cjgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WBOPWW-es Sostenedor para télefono móvil Breett soporte universal de...'
 sku: 'B013WBOPWW-es'
 tags: [ 'gps','iphone','móvil', ]

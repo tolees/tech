@@ -5,7 +5,7 @@ date: 2020-08-24 02:45:47
 image: 'https://m.media-amazon.com/images/I/4181PZfLVPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087J8B8MQ-es Rytaki Lector de Tarjetas XQD SD USB 3.0 Lector de...'
 sku: 'B087J8B8MQ-es'
 tags: [ 'sony', ]

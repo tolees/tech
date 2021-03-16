@@ -5,7 +5,7 @@ date: 2020-06-07 01:36:07
 image: 'https://m.media-amazon.com/images/I/51XhXOc5IvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2ST5YX-es Realme 3 Pro 6GB 128GB Smartphone 6 3 Snapdragon 710...'
 sku: 'B07X2ST5YX-es'
 tags: [ 'smartphone', ]

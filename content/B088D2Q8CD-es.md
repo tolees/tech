@@ -5,7 +5,7 @@ date: 2020-09-25 13:47:05
 image: 'https://m.media-amazon.com/images/I/31DPi7fsWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D2Q8CD-es JOOWIN Repetidor WiFi Amplificador WiFi de 2 4 GHz / 300...'
 sku: 'B088D2Q8CD-es'
 tags: [ 'wifi', ]

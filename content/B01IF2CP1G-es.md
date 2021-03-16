@@ -5,7 +5,7 @@ date: 2020-07-27 01:45:45
 image: 'https://m.media-amazon.com/images/I/51GUcviIkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IF2CP1G-es KLIM™ Cool – Refrigerador para Ordenador Portátil –...'
 sku: 'B01IF2CP1G-es'
 tags: [ 'ordenador', ]

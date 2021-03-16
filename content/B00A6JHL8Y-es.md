@@ -5,7 +5,7 @@ date: 2020-08-17 01:30:36
 image: 'https://m.media-amazon.com/images/I/41vBHBl9AiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A6JHL8Y-es RivaCase 8231 Bolsa para Ordenador portátil hasta 39 6 cm...'
 sku: 'B00A6JHL8Y-es'
 tags: [ 'ordenador', ]

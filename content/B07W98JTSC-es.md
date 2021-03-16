@@ -5,7 +5,7 @@ date: 2020-01-07 12:02:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RGw9Y8vdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W98JTSC-es Antena TV Interior NinkBox Antena TV HDTV Digital con...'
 sku: 'B07W98JTSC-es'
 tags: [ '1080p', ]

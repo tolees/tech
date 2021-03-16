@@ -5,7 +5,7 @@ date: 2020-10-05 00:02:22
 image: 'https://m.media-amazon.com/images/I/51eQ6fgfsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z2LCG8-es 2X Cable USB C UGREEN Cable USB Tipo C a USB A 2.0 Nylon...'
 sku: 'B077Z2LCG8-es'
 tags: [ 'móvil','samsung','xiaomi', ]

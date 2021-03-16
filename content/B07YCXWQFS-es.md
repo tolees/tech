@@ -5,7 +5,7 @@ date: 2020-03-30 11:55:51
 image: 'https://m.media-amazon.com/images/I/41UxQOxIydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCXWQFS-es Anova Culinary | Sous Vide Precision Cooker WiFi | 1000...'
 sku: 'B07YCXWQFS-es'
 tags: [ 'wifi', ]

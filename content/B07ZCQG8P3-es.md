@@ -5,7 +5,7 @@ date: 2020-07-21 18:27:59
 image: 'https://m.media-amazon.com/images/I/51omL5eb7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCQG8P3-es JE Cargador Inalámbrico Coche Qi 15W Carga Rápida Cargador...'
 sku: 'B07ZCQG8P3-es'
 tags: [ 'galaxy', ]

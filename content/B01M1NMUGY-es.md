@@ -5,7 +5,7 @@ date: 2020-04-22 07:45:27
 image: 'https://m.media-amazon.com/images/I/31c9H2D-hpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1NMUGY-es Pioneer X-EM26-B - Sistema Micro con Bluetooth Radio FM y...'
 sku: 'B01M1NMUGY-es'
 tags: [ 'bluetooth','pioneer', ]

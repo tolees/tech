@@ -5,7 +5,7 @@ date: 2020-03-22 20:46:41
 image: 'https://m.media-amazon.com/images/I/51GpVE2caUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RBN6I6-es Crucial CT51264BF160BJ Memoria RAM de 4 GB DDR3L 1600 MT/s...'
 sku: 'B009RBN6I6-es'
 tags: [ 'ram', ]

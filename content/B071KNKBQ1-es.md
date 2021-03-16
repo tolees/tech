@@ -5,7 +5,7 @@ date: 2020-08-21 10:41:08
 image: 'https://m.media-amazon.com/images/I/51I9PbkKSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KNKBQ1-es Crucial CT8G4SFS8266 Memoria RAM de 8 GB DDR4 2666 MT/s...'
 sku: 'B071KNKBQ1-es'
 tags: [ 'ram', ]

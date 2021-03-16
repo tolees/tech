@@ -5,7 +5,7 @@ date: 2020-08-22 00:46:17
 image: 'https://m.media-amazon.com/images/I/41zbZLqjinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4MDSN4-es COOLEAD Adaptador USB 3.0 a VGA 1080P Conversor USB 3.0 to...'
 sku: 'B07R4MDSN4-es'
 tags: [ '1080p', ]

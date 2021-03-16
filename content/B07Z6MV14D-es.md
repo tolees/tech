@@ -5,7 +5,7 @@ date: 2020-03-20 16:31:28
 image: 'https://m.media-amazon.com/images/I/41nqblm1UiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6MV14D-es ASUS ROG Strix - Portátil Gaming de 17 3" FullHD Intel...'
 sku: 'B07Z6MV14D-es'
 tags: [ 'asus','ram','teclado', ]

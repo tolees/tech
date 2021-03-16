@@ -5,7 +5,7 @@ date: 2020-06-08 14:10:42
 image: 'https://m.media-amazon.com/images/I/41MXOau5jCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8JZLVG-es Polar Vantage V Pulsómetro con GPS Unisex Adulto Blanco...'
 sku: 'B07G8JZLVG-es'
 tags: [ 'gps', ]

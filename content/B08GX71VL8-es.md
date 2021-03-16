@@ -5,7 +5,7 @@ date: 2020-09-26 13:36:45
 image: 'https://m.media-amazon.com/images/I/31R9pGOSvPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GX71VL8-es Auriculares Bluetooth 5.1 Auriculares inalámbricos IPx7 a...'
 sku: 'B08GX71VL8-es'
 tags: [ 'auriculares','bluetooth','estéreo', ]

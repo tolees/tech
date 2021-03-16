@@ -5,7 +5,7 @@ date: 2020-09-15 01:50:42
 image: 'https://m.media-amazon.com/images/I/51N8fJF5jML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMBQZWS-es BESINPO - Carcasa para Samsung Galaxy A41 2020 antigolpes...'
 sku: 'B08FMBQZWS-es'
 tags: [ 'galaxy','samsung', ]

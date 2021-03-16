@@ -5,7 +5,7 @@ date: 2020-09-22 07:52:19
 image: 'https://m.media-amazon.com/images/I/41Bsy7KwyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FZLV9G8-es Cascos Inalámbrico con aptX Baja Latencia Auriculares...'
 sku: 'B00FZLV9G8-es'
 tags: [ 'auriculares','bluetooth','estéreo','móvil', ]

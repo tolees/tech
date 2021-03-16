@@ -5,7 +5,7 @@ date: 2020-01-23 08:04:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3148-chaP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNMLWMT-es Thomson MIC201IBT - Microcadena Bluetooth con reproductor...'
 sku: 'B07KNMLWMT-es'
 tags: [ 'bluetooth', ]

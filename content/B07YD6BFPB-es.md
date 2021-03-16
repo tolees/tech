@@ -5,7 +5,7 @@ date: 2020-08-17 00:39:49
 image: 'https://m.media-amazon.com/images/I/51d5UbtkIjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD6BFPB-es GPC Image 20 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
 sku: 'B07YD6BFPB-es'
 tags: [ 'canon', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 14:36:04
 image: 'https://m.media-amazon.com/images/I/41lFq+zIJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078N3LHXS-es Yodoit para Pantalla iPhone 6s Plus Negro Conjunto de...'
 sku: 'B078N3LHXS-es'
 tags: [ 'iphone', ]

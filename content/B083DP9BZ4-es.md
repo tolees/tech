@@ -5,7 +5,7 @@ date: 2020-07-16 16:47:07
 image: 'https://m.media-amazon.com/images/I/418ULTOJpvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DP9BZ4-es Auriculares Inalámbricos Bluetooth 5.0 Syllable Cascos...'
 sku: 'B083DP9BZ4-es'
 tags: [ 'auriculares','bluetooth', ]

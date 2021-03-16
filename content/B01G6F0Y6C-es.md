@@ -5,7 +5,7 @@ date: 2020-05-10 12:32:07
 image: 'https://m.media-amazon.com/images/I/51pwSrbED0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G6F0Y6C-es Teclado mecánico AK33 de Lexon tech teclado para juegos...'
 sku: 'B01G6F0Y6C-es'
 tags: [ 'teclado', ]

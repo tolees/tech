@@ -5,7 +5,7 @@ date: 2020-03-28 20:43:06
 image: 'https://m.media-amazon.com/images/I/41lVrlfuF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRHMBLW-es TECHGEAR Vanguard Funda Compatible con Nuevo Samsung...'
 sku: 'B07TRHMBLW-es'
 tags: [ 'galaxy','samsung', ]

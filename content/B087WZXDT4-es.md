@@ -5,7 +5,7 @@ date: 2020-09-15 15:48:00
 image: 'https://m.media-amazon.com/images/I/418pkD4IasL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WZXDT4-es Cocoda Soporte Portatil 8 Niveles Adjustable Ventilado...'
 sku: 'B087WZXDT4-es'
 tags: [ 'lenovo','ordenador', ]

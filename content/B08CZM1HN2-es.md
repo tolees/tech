@@ -5,7 +5,7 @@ date: 2020-08-15 05:21:49
 image: 'https://m.media-amazon.com/images/I/41uicEJFYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZM1HN2-es Quntis Lámpara de Monitor para Ordenador portátil Brillos...'
 sku: 'B08CZM1HN2-es'
 tags: [ 'ordenador', ]

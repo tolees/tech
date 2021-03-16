@@ -5,7 +5,7 @@ date: 2020-01-09 15:59:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51B4qJLUOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFWMJKP-es ASUS TUF Gaming FX505DD-BQ067 - Ordenador portátil de...'
 sku: 'B07RFWMJKP-es'
 tags: [ 'asus','ordenador','ram','teclado', ]

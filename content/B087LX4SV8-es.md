@@ -5,7 +5,7 @@ date: 2020-05-24 19:02:48
 image: 'https://m.media-amazon.com/images/I/41mbehcWXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LX4SV8-es Oihxse Cristal Compatible con Huawei Mate 10 Lite Funda...'
 sku: 'B087LX4SV8-es'
 tags: [ 'huawei', ]

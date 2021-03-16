@@ -5,7 +5,7 @@ date: 2020-08-28 06:00:55
 image: 'https://m.media-amazon.com/images/I/31rMw2EsDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G8NHMGW-es HP X900 Wired Mouse USB Óptico 1000DPI Ambidextro Negro -...'
 sku: 'B01G8NHMGW-es'
 tags: [ 'ratón', ]

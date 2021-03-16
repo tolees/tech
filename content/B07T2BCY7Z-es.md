@@ -5,7 +5,7 @@ date: 2020-05-27 09:21:08
 image: 'https://m.media-amazon.com/images/I/51xlJR1ufuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2BCY7Z-es Biomar Labs® 4 pcs 3D Gel Pegatinas Bandera Nacional...'
 sku: 'B07T2BCY7Z-es'
 tags: [ 'ordenador', ]

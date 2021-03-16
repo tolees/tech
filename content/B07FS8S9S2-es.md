@@ -5,7 +5,7 @@ date: 2020-03-05 21:06:12
 image: 'https://m.media-amazon.com/images/I/51cbCr6N2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FS8S9S2-es Fujifilm XF10 - Cámara digital de 24.2 MP color negro'
 sku: 'B07FS8S9S2-es'
 tags: [ 'fujifilm', ]

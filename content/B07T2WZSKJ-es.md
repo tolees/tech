@@ -5,7 +5,7 @@ date: 2020-04-03 09:07:03
 image: 'https://m.media-amazon.com/images/I/41rsq6nSdnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2WZSKJ-es Camara Vigilancia WiFi Interior Bagotte Cámara IP WiFi...'
 sku: 'B07T2WZSKJ-es'
 tags: [ '1080p','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 05:00:52
 image: 'https://m.media-amazon.com/images/I/31zXkBZ1ePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087N9RTL8-es Disco Duro Externo Disco Duro portátil de 1TB 2TB Slim...'
 sku: 'B087N9RTL8-es'
 tags: [ 'disco','duro', ]

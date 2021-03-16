@@ -5,7 +5,7 @@ date: 2020-04-14 09:02:08
 image: 'https://m.media-amazon.com/images/I/41uh3Mz23kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSK21KL-es Slabo 2 x Protector de Pantalla para Amazon Kindle Oasis...'
 sku: 'B07YSK21KL-es'
 tags: [ 'kindle', ]

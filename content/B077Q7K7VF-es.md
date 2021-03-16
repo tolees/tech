@@ -5,7 +5,7 @@ date: 2020-03-03 21:11:24
 image: 'https://m.media-amazon.com/images/I/41kXpL0iCOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Q7K7VF-es Luxtude Bateria Externa para iPhone 5000mAh Powerbank Slim...'
 sku: 'B077Q7K7VF-es'
 tags: [ 'apple','iphone', ]

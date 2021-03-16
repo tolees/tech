@@ -5,7 +5,7 @@ date: 2020-07-13 00:13:34
 image: 'https://m.media-amazon.com/images/I/41An4h2BVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5KK17R-es Suunto 9 Baro Reloj Multideporte GPS sin cinturón de...'
 sku: 'B07D5KK17R-es'
 tags: [ 'gps','suunto', ]

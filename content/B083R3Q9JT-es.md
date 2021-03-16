@@ -5,7 +5,7 @@ date: 2020-07-04 07:31:04
 image: 'https://m.media-amazon.com/images/I/412M81QWkKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R3Q9JT-es Coener Ratón Inalámbrico Recargable Mouse Wireless 2.4G...'
 sku: 'B083R3Q9JT-es'
 tags: [ 'ratón', ]

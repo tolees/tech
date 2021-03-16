@@ -5,7 +5,7 @@ date: 2020-09-15 18:52:00
 image: 'https://m.media-amazon.com/images/I/41lDv5rW-9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDPGRCS-es Cargador de Coche batería Adaptador 19.5V 4.62A 90W DELL...'
 sku: 'B07GDPGRCS-es'
 tags: [ 'dell', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 16:04:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ql2pYhRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9M4TV4-es iHaper Auriculares Inalámbricos BT4.2 - Auriculares...'
 sku: 'B07L9M4TV4-es'
 tags: [ 'auriculares', ]

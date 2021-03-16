@@ -5,7 +5,7 @@ date: 2020-05-30 10:06:20
 image: 'https://m.media-amazon.com/images/I/31v2gyWvWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MPXKZ-es Huawei E5885 - Wi-Fi Móvil 300Mbps de conexión inalámbrica...'
 sku: 'B0797MPXKZ-es'
 tags: [ 'huawei','móvil', ]

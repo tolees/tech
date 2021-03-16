@@ -5,7 +5,7 @@ date: 2020-05-26 01:52:53
 image: 'https://m.media-amazon.com/images/I/41qFSOyd8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5XBSUK-es Maclean MC 676 -Soporte para iPad 2/3/4/Air/Air2 de Pared...'
 sku: 'B01C5XBSUK-es'
 tags: [ 'tablet', ]

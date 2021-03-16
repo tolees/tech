@@ -5,7 +5,7 @@ date: 2020-08-13 04:30:19
 image: 'https://m.media-amazon.com/images/I/31z5PvgMYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7GEFWK-es Logitech M220 Ratón Inalámbrico Botones Silenciosos 2.4...'
 sku: 'B01K7GEFWK-es'
 tags: [ 'logitech','ratón', ]

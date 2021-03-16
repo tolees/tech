@@ -5,7 +5,7 @@ date: 2020-10-01 16:03:25
 image: 'https://m.media-amazon.com/images/I/31o57wf3W+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WPLXR1-es HOMCOM Silla de Escritorio y Oficina Juvenil Silla de...'
 sku: 'B075WPLXR1-es'
 tags: [ 'ordenador', ]

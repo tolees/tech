@@ -5,7 +5,7 @@ date: 2020-07-19 19:22:35
 image: 'https://m.media-amazon.com/images/I/31Bsmj6ihfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN2HMYB-es Denon DHT-S316 Altavoz soundbar Negro Inalámbrico y...'
 sku: 'B07HN2HMYB-es'
 tags: [ 'altavoz','denon', ]

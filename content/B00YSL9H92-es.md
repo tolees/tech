@@ -5,7 +5,7 @@ date: 2020-02-01 16:05:55
 image: 'https://m.media-amazon.com/images/I/31Fl-2sjU8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YSL9H92-es ASUS RP-N12 - Repetidor/Punto Acceso inalámbrico N300...'
 sku: 'B00YSL9H92-es'
 tags: [ 'asus', ]

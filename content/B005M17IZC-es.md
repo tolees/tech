@@ -5,7 +5,7 @@ date: 2020-05-15 21:53:27
 image: 'https://m.media-amazon.com/images/I/41o6kOTa5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005M17IZC-es Sennheiser RS 120 II - Auriculares de diadema abiertos...'
 sku: 'B005M17IZC-es'
 tags: [ 'auriculares', ]

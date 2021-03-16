@@ -5,7 +5,7 @@ date: 2020-05-16 11:49:12
 image: 'https://m.media-amazon.com/images/I/31MjS+O9oLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLFZ1WH-es Sony Stativ VCT-SGR1 tripode Cámara de acción 3 Pata s...'
 sku: 'B07DLFZ1WH-es'
 tags: [ 'sony', ]

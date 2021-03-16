@@ -5,7 +5,7 @@ date: 2020-01-14 17:07:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4YgbPrNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGNDZR3-es Logitech G305 Ratón Gaming Inalámbrico 12000 DPI Mano...'
 sku: 'B07CGNDZR3-es'
 tags: [ 'logitech','ratón', ]

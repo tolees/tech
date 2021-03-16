@@ -5,7 +5,7 @@ date: 2020-06-16 01:44:42
 image: 'https://m.media-amazon.com/images/I/31c2dFNphML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LLX8KK-es MKTOSASA - Auriculares Bluetooth® Doble función:...'
 sku: 'B085LLX8KK-es'
 tags: [ 'auriculares', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 11:15:55
 image: 'https://m.media-amazon.com/images/I/41miHWbYWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073Q3QPLV-es Apple Smart Keyboard para el iPad de 10 2 pulgadas el iPad...'
 sku: 'B073Q3QPLV-es'
 tags: [ 'apple', ]

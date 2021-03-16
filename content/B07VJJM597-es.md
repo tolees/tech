@@ -5,7 +5,7 @@ date: 2020-06-02 04:45:14
 image: 'https://m.media-amazon.com/images/I/61oB5ortJSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJJM597-es Gigaset GX290 - Smartphone Resistente - 6.1" - Robusto -...'
 sku: 'B07VJJM597-es'
 tags: [ 'gigaset','smartphone', ]

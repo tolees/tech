@@ -5,7 +5,7 @@ date: 2020-06-05 13:16:20
 image: 'https://m.media-amazon.com/images/I/41oOi956OxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QX6XG6X-es Garmin Drive 5 EU-MT-S Europa - Navegador 5 pulgadas'
 sku: 'B07QX6XG6X-es'
 tags: [ 'garmin', ]

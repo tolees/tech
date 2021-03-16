@@ -5,7 +5,7 @@ date: 2020-08-14 21:15:46
 image: 'https://m.media-amazon.com/images/I/41jJkNTRlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ET1YY1C-es Lavolta 65W 45W Cargador - 4.0 x 1.7 mm - Adaptador Pare...'
 sku: 'B00ET1YY1C-es'
 tags: [ 'lenovo', ]

@@ -5,7 +5,7 @@ date: 2020-07-27 00:03:27
 image: 'https://m.media-amazon.com/images/I/419siWxhQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9C3NF5-es JIALONG Alfombrilla de Ratón Grande Gaming Mouse Pad XXL...'
 sku: 'B07S9C3NF5-es'
 tags: [ 'ordenador','ratón', ]

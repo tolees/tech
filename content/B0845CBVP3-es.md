@@ -5,7 +5,7 @@ date: 2020-04-01 18:51:33
 image: 'https://m.media-amazon.com/images/I/41D1frl6blL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0845CBVP3-es Acer A515-54 - Ordenador portátil de 15.6" FullHD Intel...'
 sku: 'B0845CBVP3-es'
 tags: [ 'ordenador','ram','teclado', ]

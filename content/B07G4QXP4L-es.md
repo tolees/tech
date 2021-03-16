@@ -5,7 +5,7 @@ date: 2020-01-02 11:05:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aRWJR04fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4QXP4L-es Trust Gaming GXT 4130 Pitt - Ratón inalámbrico de Gaming...'
 sku: 'B07G4QXP4L-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-06-20 02:16:10
 image: 'https://m.media-amazon.com/images/I/41OcA1P61pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YMJWMFG-es SODIAL R 1GB 1G DDR RAM Memoria Ordenador portatil 333MHZ...'
 sku: 'B00YMJWMFG-es'
 tags: [ 'ordenador','ram', ]

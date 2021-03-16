@@ -5,7 +5,7 @@ date: 2020-09-28 06:39:09
 image: 'https://m.media-amazon.com/images/I/31O2PFuTyUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8XK9GC-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
 sku: 'B07Y8XK9GC-es'
 tags: [ 'ram','smartphone','xiaomi', ]

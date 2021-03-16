@@ -5,7 +5,7 @@ date: 2020-03-09 19:31:52
 image: 'https://m.media-amazon.com/images/I/41yFh6rkmJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD2D6P9-es Xiaomi Mi 9 Lite – Smartphone con Pantalla AMOLED FullHD...'
 sku: 'B07YD2D6P9-es'
 tags: [ 'smartphone','xiaomi', ]

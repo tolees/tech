@@ -5,7 +5,7 @@ date: 2020-06-15 01:19:10
 image: 'https://m.media-amazon.com/images/I/31Pz+CNgifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KD8DRY-es Auriculares Verdaderos de Bluetooth TicPods 2 Auriculares...'
 sku: 'B082KD8DRY-es'
 tags: [ 'auriculares','bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 22:08:49
 image: 'https://m.media-amazon.com/images/I/41P09HhHdPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013W2WP9G-es OTGMemoria USB 2.0 Colourstone 32GB Pendrive del Puerto...'
 sku: 'B013W2WP9G-es'
 tags: [ 'huawei','samsung', ]

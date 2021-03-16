@@ -5,7 +5,7 @@ date: 2020-08-02 19:22:30
 image: 'https://m.media-amazon.com/images/I/41-htHcgaML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKBCXLY-es Raspberry Placa Base PI 3 Modelo A+ Cortex a 1.4GHZ WiFi...'
 sku: 'B07KKBCXLY-es'
 tags: [ 'wifi', ]

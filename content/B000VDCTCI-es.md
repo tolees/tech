@@ -5,7 +5,7 @@ date: 2020-02-10 14:16:55
 image: 'https://m.media-amazon.com/images/I/41fZkP2LS5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VDCTCI-es Nikon AF-S 14-24mm F2.8 G - Objetivo con Montura para...'
 sku: 'B000VDCTCI-es'
 tags: [ 'nikon', ]

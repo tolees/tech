@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:31
 image: 'https://m.media-amazon.com/images/I/61U+RynjH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07258ZQTZ-es DETUOSI Funda iPad 9.7 2017 Ultra Slim Fundas iPad 9.7...'
 sku: 'B07258ZQTZ-es'
 tags: [ 'apple','tablet', ]

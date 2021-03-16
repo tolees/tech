@@ -5,7 +5,7 @@ date: 2020-08-27 16:25:13
 image: 'https://m.media-amazon.com/images/I/41O+t7gdDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RLZM9G-es McNory Soporte Magnético Movil Coche 2 PC Mini Móvil Coche...'
 sku: 'B081RLZM9G-es'
 tags: [ 'galaxy','gps','iphone','móvil','smartphone', ]

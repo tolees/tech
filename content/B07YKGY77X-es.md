@@ -5,7 +5,7 @@ date: 2020-09-20 22:59:44
 image: 'https://m.media-amazon.com/images/I/519VYS9tuQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKGY77X-es PINALL 2 Cartucho Compatible HP 302XL para HP DeskJet 3639...'
 sku: 'B07YKGY77X-es'
 tags: [ 'impresora', ]

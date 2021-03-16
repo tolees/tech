@@ -5,7 +5,7 @@ date: 2020-08-08 06:48:58
 image: 'https://m.media-amazon.com/images/I/41PGTcMM2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV7RFV5-es Auriculares Inalambricos Auriculares Bluetooth 5.0...'
 sku: 'B08CV7RFV5-es'
 tags: [ 'auriculares','bluetooth', ]

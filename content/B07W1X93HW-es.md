@@ -5,7 +5,7 @@ date: 2020-08-27 09:45:40
 image: 'https://m.media-amazon.com/images/I/41pGcSj76kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1X93HW-es AVerMedia Live Streamer WEBCAM 313: Full HD 1080p dos...'
 sku: 'B07W1X93HW-es'
 tags: [ '1080p','full','hd', ]

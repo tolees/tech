@@ -5,7 +5,7 @@ date: 2020-08-27 18:33:32
 image: 'https://m.media-amazon.com/images/I/31iGrvhMyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QND4VZ6-es Samsung MU-PA500R 500 GB Rojo - Unidades externas de...'
 sku: 'B07QND4VZ6-es'
 tags: [ 'samsung', ]

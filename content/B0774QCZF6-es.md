@@ -5,7 +5,7 @@ date: 2020-08-31 18:46:18
 image: 'https://m.media-amazon.com/images/I/51nL3zScNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774QCZF6-es aotengou Kit de reemplazo para iRobot Roomba 500 Serie 600...'
 sku: 'B0774QCZF6-es'
 tags: [ 'irobot','roomba', ]

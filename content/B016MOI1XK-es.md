@@ -5,7 +5,7 @@ date: 2020-09-01 12:30:28
 image: 'https://m.media-amazon.com/images/I/41HSKI9dWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo...'
 sku: 'B016MOI1XK-es'
 tags: [ 'altavoz','bluetooth','iphone','samsung', ]

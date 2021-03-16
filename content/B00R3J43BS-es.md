@@ -5,7 +5,7 @@ date: 2020-07-15 04:30:51
 image: 'https://m.media-amazon.com/images/I/41jJkNTRlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R3J43BS-es Lavolta 90W 65W 40W Cargador - 7.9 x 5.5 mm - Adaptador...'
 sku: 'B00R3J43BS-es'
 tags: [ 'lenovo', ]

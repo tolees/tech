@@ -5,7 +5,7 @@ date: 2020-09-07 09:31:29
 image: 'https://m.media-amazon.com/images/I/31-rxODUZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFYMJR9-es Disco duro externo tipo C USB 3.1 portátil 1 TB 2 TB HDD...'
 sku: 'B08FFYMJR9-es'
 tags: [ 'disco','duro', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 20:04:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uMuEiECQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LHQCHS-es ASUS ROG Strix GeForce GTX 1660 Super Advanced Edition -...'
 sku: 'B082LHQCHS-es'
 tags: [ 'asus', ]

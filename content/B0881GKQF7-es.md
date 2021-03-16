@@ -5,7 +5,7 @@ date: 2020-09-24 18:03:37
 image: 'https://m.media-amazon.com/images/I/41wHEzcYaTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881GKQF7-es DOQAUS Auriculares Diadema [3 Modo EQ] Alta fidelidad...'
 sku: 'B0881GKQF7-es'
 tags: [ 'auriculares','bluetooth', ]

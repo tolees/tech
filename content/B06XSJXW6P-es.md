@@ -5,7 +5,7 @@ date: 2020-10-10 03:31:27
 image: 'https://m.media-amazon.com/images/I/51BjqdnnM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSJXW6P-es RLSOCO Externo CD Burner CD-RW DVD-R Combo Reader Writer...'
 sku: 'B06XSJXW6P-es'
 tags: [ 'apple','asus', ]

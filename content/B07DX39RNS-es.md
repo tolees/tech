@@ -5,7 +5,7 @@ date: 2020-07-03 23:22:29
 image: 'https://m.media-amazon.com/images/I/41IlUjQSn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX39RNS-es Samsung Original Tipo C Cargador rápido EP-TA20EBE Color...'
 sku: 'B07DX39RNS-es'
 tags: [ 'galaxy','samsung', ]

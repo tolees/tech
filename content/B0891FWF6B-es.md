@@ -5,7 +5,7 @@ date: 2020-06-24 19:00:21
 image: 'https://m.media-amazon.com/images/I/41Nb9dC9a-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0891FWF6B-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de...'
 sku: 'B0891FWF6B-es'
 tags: [ 'smartphone','xiaomi', ]

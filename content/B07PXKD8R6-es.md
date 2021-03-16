@@ -5,7 +5,7 @@ date: 2020-08-18 07:15:51
 image: 'https://m.media-amazon.com/images/I/51uJXl0juHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXKD8R6-es Lileng Ventilador USB Ventilador de Escritorio de Metal...'
 sku: 'B07PXKD8R6-es'
 tags: [ 'ordenador', ]

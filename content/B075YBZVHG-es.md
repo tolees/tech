@@ -5,7 +5,7 @@ date: 2020-06-17 14:57:14
 image: 'https://m.media-amazon.com/images/I/51LYi2R46CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YBZVHG-es MIFA Altavoz Bluetooth Tecnología TWS y DSP IP45...'
 sku: 'B075YBZVHG-es'
 tags: [ 'altavoz','bluetooth', ]

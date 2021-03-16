@@ -5,7 +5,7 @@ date: 2020-03-22 20:49:43
 image: 'https://m.media-amazon.com/images/I/51vpLeHpe5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSEKBYG-es Sony XDRS41DR.EU8 - Radio portátil Digital Dab/Dab+/FM...'
 sku: 'B01MSEKBYG-es'
 tags: [ 'altavoz','sony', ]

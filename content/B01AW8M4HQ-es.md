@@ -5,7 +5,7 @@ date: 2020-03-05 21:04:51
 image: 'https://m.media-amazon.com/images/I/41Z0semHz9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AW8M4HQ-es Fujifilm X-A5 Kit con ópticas Fujinon XC15-45mm +...'
 sku: 'B01AW8M4HQ-es'
 tags: [ 'fujifilm', ]

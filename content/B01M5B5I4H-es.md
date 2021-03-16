@@ -5,7 +5,7 @@ date: 2020-09-20 13:27:24
 image: 'https://m.media-amazon.com/images/I/41Mx-bvb4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5B5I4H-es Razer Ornata Chroma - Teclado Gaming Estándar con USB...'
 sku: 'B01M5B5I4H-es'
 tags: [ 'teclado', ]

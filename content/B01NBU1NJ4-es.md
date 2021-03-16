@@ -5,7 +5,7 @@ date: 2020-06-06 16:43:54
 image: 'https://m.media-amazon.com/images/I/316THPfUBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBU1NJ4-es Epson ET-2650 EcoTank Impresora de inyección de tinta 3 en...'
 sku: 'B01NBU1NJ4-es'
 tags: [ 'impresora','wifi', ]

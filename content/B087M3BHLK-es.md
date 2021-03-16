@@ -5,7 +5,7 @@ date: 2020-05-14 22:53:44
 image: 'https://m.media-amazon.com/images/I/3188TkBfFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M3BHLK-es Oihxse Silicona Funda con Samsung Galaxy M10 TPU Flexible...'
 sku: 'B087M3BHLK-es'
 tags: [ 'galaxy','samsung', ]

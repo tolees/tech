@@ -5,7 +5,7 @@ date: 2020-02-07 11:26:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjDdlUy5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYSG8HT-es Ushining Teléfono Móvil Basico Teléfono Móvil para...'
 sku: 'B07MYSG8HT-es'
 tags: [ 'bluetooth','móvil', ]

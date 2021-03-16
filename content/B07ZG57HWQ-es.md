@@ -5,7 +5,7 @@ date: 2020-08-19 10:09:06
 image: 'https://m.media-amazon.com/images/I/412P2Dt9xDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZG57HWQ-es HP - Monitor Pc 80 01 Cm 31 5 Hp 32F Full HD'
 sku: 'B07ZG57HWQ-es'
 tags: [ 'full','hd', ]

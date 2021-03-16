@@ -5,7 +5,7 @@ date: 2020-07-31 10:47:02
 image: 'https://m.media-amazon.com/images/I/51OPGPBesHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1CJP15-es Vibox Kaleidos SA4-102 Gaming PC Ordenador de sobremesa...'
 sku: 'B06X1CJP15-es'
 tags: [ 'ordenador','ram', ]

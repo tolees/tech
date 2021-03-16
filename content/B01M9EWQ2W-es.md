@@ -5,7 +5,7 @@ date: 2020-09-26 09:21:41
 image: 'https://m.media-amazon.com/images/I/516-gUv1BkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9EWQ2W-es Logitech G Saitek Flight - Dispositivo de Juego de...'
 sku: 'B01M9EWQ2W-es'
 tags: [ 'logitech', ]

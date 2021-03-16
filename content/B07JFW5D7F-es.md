@@ -5,7 +5,7 @@ date: 2020-08-15 08:01:28
 image: 'https://m.media-amazon.com/images/I/41iHoLdratL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFW5D7F-es Pihen USB C3.0 a Cable Micro-B Cable de sincronización...'
 sku: 'B07JFW5D7F-es'
 tags: [ 'disco','duro','samsung','toshiba', ]

@@ -5,7 +5,7 @@ date: 2020-08-11 11:41:10
 image: 'https://m.media-amazon.com/images/I/41+bVU7S0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR9G24P-es SPACEKEEPER Carro de Almacenamiento Delgado de 4 Niveles...'
 sku: 'B07ZR9G24P-es'
 tags: [ 'móvil', ]

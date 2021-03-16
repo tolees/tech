@@ -5,7 +5,7 @@ date: 2020-03-29 02:15:39
 image: 'https://m.media-amazon.com/images/I/41GR2V1992L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9GZLR5-es Ibywind Protector de Pantalla para Xiaomi Mi 9T / Mi 9T...'
 sku: 'B07T9GZLR5-es'
 tags: [ 'xiaomi', ]

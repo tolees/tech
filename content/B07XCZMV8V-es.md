@@ -5,7 +5,7 @@ date: 2020-08-16 07:51:50
 image: 'https://m.media-amazon.com/images/I/31jsn+OIXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCZMV8V-es QTshine Batería Externa 26800mAh Cargador Portátil Ultra...'
 sku: 'B07XCZMV8V-es'
 tags: [ 'smartphone', ]

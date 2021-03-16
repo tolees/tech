@@ -5,7 +5,7 @@ date: 2020-05-13 22:09:59
 image: 'https://m.media-amazon.com/images/I/31XqPKSJIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGFWMSF-es SPC Ángel - Cámara vigilabebé inteligente Wi-Fi visión...'
 sku: 'B07HGFWMSF-es'
 tags: [ '1080p', ]

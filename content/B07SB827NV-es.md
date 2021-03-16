@@ -5,7 +5,7 @@ date: 2020-08-26 19:30:49
 image: 'https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB827NV-es HP Laser MFP 135a - Impresora láser multifunción imprime...'
 sku: 'B07SB827NV-es'
 tags: [ 'impresora', ]

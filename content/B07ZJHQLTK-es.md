@@ -5,7 +5,7 @@ date: 2020-05-28 09:05:50
 image: 'https://m.media-amazon.com/images/I/51Wo8R466YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJHQLTK-es AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio Templado...'
 sku: 'B07ZJHQLTK-es'
 tags: [ 'xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-03-22 12:13:36
 image: 'https://m.media-amazon.com/images/I/51VHoPQq9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728BGCWT-es MONITOR HP 23.8 1 VH240A LED IPS FHD 1920X1080 A 60 HZ...'
 sku: 'B0728BGCWT-es'
 tags: [ 'ips', ]

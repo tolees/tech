@@ -5,7 +5,7 @@ date: 2020-02-08 13:38:06
 image: 'https://m.media-amazon.com/images/I/316fP9ZYIML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV2LHH6-es HP Pavilion Gaming 690-0031ns - Ordenador de sobremesa...'
 sku: 'B07MV2LHH6-es'
 tags: [ 'ordenador','ram', ]

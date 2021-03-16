@@ -5,7 +5,7 @@ date: 2020-06-29 06:45:45
 image: 'https://m.media-amazon.com/images/I/41UkmVhCY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07575RRNH-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
 sku: 'B07575RRNH-es'
 tags: [ 'garmin', ]

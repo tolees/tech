@@ -5,7 +5,7 @@ date: 2020-10-08 19:31:36
 image: 'https://m.media-amazon.com/images/I/41jt2vhDp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GV8CCZG-es Magnat Monitor Supreme Sub 202 - Altavoz'
 sku: 'B00GV8CCZG-es'
 tags: [ 'altavoz', ]

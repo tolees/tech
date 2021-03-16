@@ -5,7 +5,7 @@ date: 2020-04-30 17:11:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2B68RyZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB1RYG7-es Travis Touch - Traductor Inteligente de Bolsillo a 105...'
 sku: 'B07HB1RYG7-es'
 tags: [ 'lte', ]

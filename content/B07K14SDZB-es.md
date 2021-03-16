@@ -5,7 +5,7 @@ date: 2020-10-03 18:24:37
 image: 'https://m.media-amazon.com/images/I/41EniJh188L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K14SDZB-es Ejeas E1 Auriculares Motocicleta Cascos Bluetooth 4.1...'
 sku: 'B07K14SDZB-es'
 tags: [ 'auriculares','bluetooth', ]

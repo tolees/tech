@@ -5,7 +5,7 @@ date: 2020-05-14 08:08:03
 image: 'https://m.media-amazon.com/images/I/51KCj3CoseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFQGST-es HP 22fw - Monitor 22 Pulgadas 54 6 cm 1920 x 1080 Pixeles...'
 sku: 'B07CZFQGST-es'
 tags: [ 'full','hd', ]

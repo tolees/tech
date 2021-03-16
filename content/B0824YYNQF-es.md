@@ -5,7 +5,7 @@ date: 2020-06-06 13:32:25
 image: 'https://m.media-amazon.com/images/I/51Djh8fM4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824YYNQF-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos 132H...'
 sku: 'B0824YYNQF-es'
 tags: [ 'auriculares','bluetooth', ]

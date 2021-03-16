@@ -5,7 +5,7 @@ date: 2020-03-01 08:47:41
 image: 'https://m.media-amazon.com/images/I/41a9dfdoz5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QLL01BA-es ASUS VX24AH - Monitor de 23.8" 2560 x 1440 píxeles 300...'
 sku: 'B00QLL01BA-es'
 tags: [ 'asus', ]

@@ -5,7 +5,7 @@ date: 2020-07-23 06:32:22
 image: 'https://m.media-amazon.com/images/I/51Z1CfUrccL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088V4WKT2-es HP Chromebook x360 12b-ca0000ns - Ordenador portátil de...'
 sku: 'B088V4WKT2-es'
 tags: [ 'ordenador','ram','teclado', ]

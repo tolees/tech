@@ -5,7 +5,7 @@ date: 2020-07-29 10:00:08
 image: 'https://m.media-amazon.com/images/I/41pWm700kpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDTVHDL-es Haihuic portugués Pegatinas de Teclado Etiqueta Adhesiva...'
 sku: 'B07YDTVHDL-es'
 tags: [ 'teclado', ]

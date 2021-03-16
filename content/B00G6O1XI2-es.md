@@ -5,7 +5,7 @@ date: 2020-09-19 08:02:47
 image: 'https://m.media-amazon.com/images/I/41RPJg-RsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6O1XI2-es KHOMO APP-IPA-5-360-BRW Funda para Tablet 24 6 cm 9.7"...'
 sku: 'B00G6O1XI2-es'
 tags: [ 'apple','tablet', ]

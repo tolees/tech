@@ -5,7 +5,7 @@ date: 2020-07-29 20:45:17
 image: 'https://m.media-amazon.com/images/I/41g9VubaIHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6ML6V8-es ASUS ROG Zephyrus M GU502GV-AZ038T - Portátil Gaming de 15...'
 sku: 'B07Z6ML6V8-es'
 tags: [ 'asus','ram','teclado', ]

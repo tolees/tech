@@ -5,7 +5,7 @@ date: 2020-08-22 20:15:20
 image: 'https://m.media-amazon.com/images/I/41EplmDOscL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011VJCLEQ-es TECKNET Base de Refrigeración para Ordenador Portátil con...'
 sku: 'B011VJCLEQ-es'
 tags: [ 'ordenador', ]

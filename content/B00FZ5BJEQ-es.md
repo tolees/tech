@@ -5,7 +5,7 @@ date: 2020-06-11 14:24:45
 image: 'https://m.media-amazon.com/images/I/41zCrbuqFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FZ5BJEQ-es K-EDGE 353003001 Garmin Stem Mount Adjustable Adultos...'
 sku: 'B00FZ5BJEQ-es'
 tags: [ 'garmin', ]

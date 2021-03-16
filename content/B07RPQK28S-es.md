@@ -5,7 +5,7 @@ date: 2020-06-22 07:36:07
 image: 'https://m.media-amazon.com/images/I/517XwAlS7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPQK28S-es WELPOP PGI-580XXL CLI-581XXL Compatible para Canon PGI-580...'
 sku: 'B07RPQK28S-es'
 tags: [ 'canon', ]

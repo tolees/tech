@@ -5,7 +5,7 @@ date: 2020-06-26 16:31:57
 image: 'https://m.media-amazon.com/images/I/51-HRV8NBFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGWPX5T-es Cocoda Soporte Tablet Universal Soportes Movil iPad Mesa...'
 sku: 'B07SGWPX5T-es'
 tags: [ 'galaxy','iphone','samsung','tablet', ]

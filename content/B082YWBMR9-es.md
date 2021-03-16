@@ -5,7 +5,7 @@ date: 2020-06-18 23:46:09
 image: 'https://m.media-amazon.com/images/I/41Otgk21uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YWBMR9-es Mesa para ordenador portátil bandeja para servir el...'
 sku: 'B082YWBMR9-es'
 tags: [ 'ordenador', ]

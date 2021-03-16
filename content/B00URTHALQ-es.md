@@ -5,7 +5,7 @@ date: 2020-03-07 11:33:41
 image: 'https://m.media-amazon.com/images/I/31Le-XtjEnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00URTHALQ-es Panasonic DMR-BWT640EC9 - Grabador de BLU-Ray Full HD 3D...'
 sku: 'B00URTHALQ-es'
 tags: [ 'disco','duro','full','hd','panasonic','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 08:51:28
 image: 'https://m.media-amazon.com/images/I/51zR0FJNLtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMVDRHL-es Altavoz Bluetooth Luz de Nocturna Careslong lámpara de...'
 sku: 'B07PMVDRHL-es'
 tags: [ 'altavoz','bluetooth', ]

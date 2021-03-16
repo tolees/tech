@@ -5,7 +5,7 @@ date: 2020-10-05 00:09:23
 image: 'https://m.media-amazon.com/images/I/41Xfh-rqUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ3NHY5-es Mini PC Procesador Intel Apollo Lake Celeron J3455 hasta...'
 sku: 'B08CZ3NHY5-es'
 tags: [ 'wifi', ]

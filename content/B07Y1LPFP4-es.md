@@ -5,7 +5,7 @@ date: 2020-07-19 22:05:42
 image: 'https://m.media-amazon.com/images/I/41RHCp0iJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1LPFP4-es Ztotops Funda for Samsung Galaxy Tab S6 10.5 2019...'
 sku: 'B07Y1LPFP4-es'
 tags: [ 'galaxy','samsung', ]

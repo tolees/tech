@@ -5,7 +5,7 @@ date: 2020-08-05 17:23:55
 image: 'https://m.media-amazon.com/images/I/51ZjfCqNCoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084N5GR3M-es Lenovo S340 -14IIL- Ordenador portátil de 14" FullHD Intel...'
 sku: 'B084N5GR3M-es'
 tags: [ 'lenovo','ordenador','ram', ]

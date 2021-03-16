@@ -5,7 +5,7 @@ date: 2020-06-30 08:33:40
 image: 'https://m.media-amazon.com/images/I/41+cbu031iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDPH515-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m Piezas...'
 sku: 'B07WDPH515-es'
 tags: [ 'iphone', ]

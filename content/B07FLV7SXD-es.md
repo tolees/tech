@@ -5,7 +5,7 @@ date: 2020-07-16 04:04:18
 image: 'https://m.media-amazon.com/images/I/51xbq88r1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLV7SXD-es Monitor portátil TFT LED de 10.1 pulgadas 1366 x 768 con...'
 sku: 'B07FLV7SXD-es'
 tags: [ 'altavoz', ]

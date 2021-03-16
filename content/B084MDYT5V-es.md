@@ -5,7 +5,7 @@ date: 2020-06-06 18:14:24
 image: 'https://m.media-amazon.com/images/I/41go+5Ktn5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MDYT5V-es 2020 Nuevos Auriculares inalámbricos Bluetooth Touch...'
 sku: 'B084MDYT5V-es'
 tags: [ 'auriculares','bluetooth', ]

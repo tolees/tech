@@ -5,7 +5,7 @@ date: 2020-02-23 14:31:30
 image: 'https://m.media-amazon.com/images/I/51roFJmIuTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5CVXJV-es TIANSE Filamento de PLA para la impresora 3D / Pluma 3d 1...'
 sku: 'B06Y5CVXJV-es'
 tags: [ 'impresora', ]

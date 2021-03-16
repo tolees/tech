@@ -5,7 +5,7 @@ date: 2020-04-05 12:15:34
 image: 'https://m.media-amazon.com/images/I/410P0hXk5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MXY21LW-es Edifier Studio R1700BT – Sistema de Altavoces 2.0 66...'
 sku: 'B00MXY21LW-es'
 tags: [ 'bluetooth', ]

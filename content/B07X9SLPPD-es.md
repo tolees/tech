@@ -5,7 +5,7 @@ date: 2020-02-05 07:52:17
 image: 'https://m.media-amazon.com/images/I/51wqsAwsHUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9SLPPD-es Auriculares Inalambricos Bluetooth 5.0 Auriculares...'
 sku: 'B07X9SLPPD-es'
 tags: [ 'auriculares','bluetooth','smartphone', ]

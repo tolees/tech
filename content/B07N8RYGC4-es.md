@@ -5,7 +5,7 @@ date: 2020-06-29 12:05:49
 image: 'https://m.media-amazon.com/images/I/31ZC9pdv9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8RYGC4-es Anker Soundbuds - Auriculares in-Ear inalámbricos con...'
 sku: 'B07N8RYGC4-es'
 tags: [ 'auriculares','bluetooth', ]

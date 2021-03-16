@@ -5,7 +5,7 @@ date: 2020-07-08 20:16:35
 image: 'https://m.media-amazon.com/images/I/41dSOsgwqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WQJXND-es Samsung Pro - Disco Estado Solido SSD 256 GB 560...'
 sku: 'B078WQJXND-es'
 tags: [ 'samsung', ]

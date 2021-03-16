@@ -5,7 +5,7 @@ date: 2020-04-08 07:08:20
 image: 'https://m.media-amazon.com/images/I/4129f5KnLuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779FFCXC-es ASUS 4G-AC68U - Router inalámbrico Gigabit AC1900 4G LTE...'
 sku: 'B0779FFCXC-es'
 tags: [ 'asus','gigabit','lte','wifi', ]

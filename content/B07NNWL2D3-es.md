@@ -5,7 +5,7 @@ date: 2020-04-12 10:07:33
 image: 'https://m.media-amazon.com/images/I/51yFiTfYkKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNWL2D3-es Fujifilm X-T30 Kit con Objetivo XF18-55mmF2.8-4 R LM OIS...'
 sku: 'B07NNWL2D3-es'
 tags: [ 'fujifilm', ]

@@ -5,7 +5,7 @@ date: 2020-01-11 22:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419ylKAVSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTD2C8F-es devolo Magic 2 WiFi: Extensión PLC 2400 Mbps LAN y WiFi ac'
 sku: 'B07GTD2C8F-es'
 tags: [ 'plc','wifi', ]

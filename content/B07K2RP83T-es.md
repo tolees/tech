@@ -5,7 +5,7 @@ date: 2020-04-22 17:04:28
 image: 'https://m.media-amazon.com/images/I/41NEJEVz-QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2RP83T-es Apple iPad Pro 11 pulgadas Wi-Fi 512GB - Gris Espacial...'
 sku: 'B07K2RP83T-es'
 tags: [ 'apple', ]

@@ -5,7 +5,7 @@ date: 2020-05-05 06:25:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NUJeFwBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077H1TYYH-es Acer KG1 KG251Q - Monitor Gaming de 24.5" Full HD LED 1ms...'
 sku: 'B077H1TYYH-es'
 tags: [ 'full','hd', ]

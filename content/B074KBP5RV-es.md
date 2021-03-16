@@ -5,7 +5,7 @@ date: 2020-07-13 19:22:30
 image: 'https://m.media-amazon.com/images/I/410Y2u9Sf-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KBP5RV-es Fitbit Ionic El Smartwatch Deportivo Carbón/Gris Cobalto'
 sku: 'B074KBP5RV-es'
 tags: [ 'smartwatch', ]

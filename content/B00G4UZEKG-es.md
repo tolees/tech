@@ -5,7 +5,7 @@ date: 2020-07-04 18:45:49
 image: 'https://m.media-amazon.com/images/I/41oM5L8arpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G4UZEKG-es SALCAR - 2.HDD SATA-SATA 3.0 SATA I II III Bahía de Disco...'
 sku: 'B00G4UZEKG-es'
 tags: [ 'disco','duro', ]

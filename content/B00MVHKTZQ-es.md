@@ -5,7 +5,7 @@ date: 2020-08-10 06:25:26
 image: 'https://m.media-amazon.com/images/I/31a4maCKRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MVHKTZQ-es Anker Cargador USB de Pared 36W 7.2A con 4 Puertos PowerIQ...'
 sku: 'B00MVHKTZQ-es'
 tags: [ 'iphone','motorola','samsung','xiaomi', ]

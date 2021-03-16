@@ -5,7 +5,7 @@ date: 2020-07-16 17:43:04
 image: 'https://m.media-amazon.com/images/I/516140RjQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7T5W2U-es Otterbox Symmetry - Funda para Apple iPhone XR diseño RAD...'
 sku: 'B00Z7T5W2U-es'
 tags: [ 'apple','iphone', ]

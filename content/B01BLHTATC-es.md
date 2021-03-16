@@ -5,7 +5,7 @@ date: 2020-08-29 00:36:03
 image: 'https://m.media-amazon.com/images/I/41xLmkXSyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLHTATC-es Primewire 10m Cable de Red Gigabit Ethernet Cat 7-10000...'
 sku: 'B01BLHTATC-es'
 tags: [ 'gigabit', ]

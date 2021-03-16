@@ -5,7 +5,7 @@ date: 2020-05-27 07:43:18
 image: 'https://m.media-amazon.com/images/I/41qT+5Iqj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GCCQ6C-es ASUS K543UA-GQ3203 - Ordenador portátil de 15.6" HD Intel...'
 sku: 'B088GCCQ6C-es'
 tags: [ 'asus','ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 11:31:08
 image: 'https://m.media-amazon.com/images/I/41RZnw8jiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTPQ9NQ-es LarmTek Cámara web 1080P Full HD con cubierta de cámara...'
 sku: 'B07VTPQ9NQ-es'
 tags: [ '1080p','full','hd', ]

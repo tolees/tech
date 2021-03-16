@@ -5,7 +5,7 @@ date: 2020-10-01 05:51:32
 image: 'https://m.media-amazon.com/images/I/51TwYDO9eOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLM1GKE-es ASUS DUAL-GTX1060-3G - Tarjeta gráfica Dual NVIDIA GeForce...'
 sku: 'B01KLM1GKE-es'
 tags: [ 'asus', ]

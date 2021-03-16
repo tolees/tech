@@ -5,7 +5,7 @@ date: 2020-08-24 00:03:28
 image: 'https://m.media-amazon.com/images/I/51nrmiJGndL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV3P5QF-es TSUPY HUB USB C 11 en 1 Thunderbolt Hub Tipo C con HDMI 4K...'
 sku: 'B07TV3P5QF-es'
 tags: [ '1080p', ]

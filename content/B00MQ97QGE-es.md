@@ -5,7 +5,7 @@ date: 2020-06-21 22:11:02
 image: 'https://m.media-amazon.com/images/I/31J1sm4iucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MQ97QGE-es Sabrent Caja Ultra Slim USB 3.0 a 2.5 Pulgadas SATA Disco...'
 sku: 'B00MQ97QGE-es'
 tags: [ 'disco','duro', ]

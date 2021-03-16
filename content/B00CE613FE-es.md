@@ -5,7 +5,7 @@ date: 2020-03-26 06:08:22
 image: 'https://m.media-amazon.com/images/I/41i9k8cxwPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CE613FE-es Fujifilm Fujinon XF 55-200 mm f/3.5-4.8 LM OIS - Objetivo...'
 sku: 'B00CE613FE-es'
 tags: [ 'fujifilm', ]

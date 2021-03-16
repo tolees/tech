@@ -5,7 +5,7 @@ date: 2020-03-06 15:48:43
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011U55EZE-es Apple iPod touch de 32GB - Oro'
 sku: 'B011U55EZE-es'
 tags: [ 'apple', ]

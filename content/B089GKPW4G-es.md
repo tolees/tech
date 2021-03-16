@@ -5,7 +5,7 @@ date: 2020-08-27 10:37:39
 image: 'https://m.media-amazon.com/images/I/51LI5ecd9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
 sku: 'B089GKPW4G-es'
 tags: [ 'galaxy','huawei','iphone','móvil','samsung','xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 15:01:22
 image: 'https://m.media-amazon.com/images/I/41uEvL90DFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TK79NGD-es LONGER Orange 10 Impresora 3D Resina Impresora 3D SLA con...'
 sku: 'B07TK79NGD-es'
 tags: [ 'impresora', ]

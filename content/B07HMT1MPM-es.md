@@ -5,7 +5,7 @@ date: 2020-10-07 06:16:57
 image: 'https://m.media-amazon.com/images/I/41VJkw9tqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMT1MPM-es HOMCOM Piano Infantil 37 Teclas Teclado Electrónico Juego...'
 sku: 'B07HMT1MPM-es'
 tags: [ 'teclado', ]

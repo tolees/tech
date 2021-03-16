@@ -5,7 +5,7 @@ date: 2020-02-26 19:06:26
 image: 'https://m.media-amazon.com/images/I/41kWCJtPlHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7DSPG9-es HP 15-dw0016ns - Ordenador portátil de 15.6" HD Intel Core...'
 sku: 'B07Q7DSPG9-es'
 tags: [ 'ordenador','ram','teclado', ]

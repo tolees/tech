@@ -5,7 +5,7 @@ date: 2020-05-18 18:22:15
 image: 'https://m.media-amazon.com/images/I/31phGLhxtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF9LLMM-es GOZAR Scooter Eléctrico Motocicleta Bloqueo O Forma...'
 sku: 'B07KF9LLMM-es'
 tags: [ 'xiaomi', ]

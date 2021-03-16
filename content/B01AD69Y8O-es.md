@@ -5,7 +5,7 @@ date: 2020-03-24 14:19:16
 image: 'https://m.media-amazon.com/images/I/41UjaCnqHmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AD69Y8O-es Panasonic HC-W580 - Videocámara de 50x O.I.S de 5 Ejes...'
 sku: 'B01AD69Y8O-es'
 tags: [ 'panasonic', ]

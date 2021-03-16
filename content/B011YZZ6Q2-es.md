@@ -5,7 +5,7 @@ date: 2020-03-15 18:50:15
 image: 'https://m.media-amazon.com/images/I/215T2pywPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011YZZ6Q2-es Huawei Technology Ltd - Huawei E3531i-2 3 G Hi-Link USB...'
 sku: 'B011YZZ6Q2-es'
 tags: [ 'huawei', ]

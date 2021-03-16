@@ -5,7 +5,7 @@ date: 2020-08-12 13:31:09
 image: 'https://m.media-amazon.com/images/I/41lOn8K9bxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011LBGW0S-es Ansmann Los Pitufos - La luz nocturna móvil Papá Pitufo'
 sku: 'B011LBGW0S-es'
 tags: [ 'móvil', ]

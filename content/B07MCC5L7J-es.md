@@ -5,7 +5,7 @@ date: 2020-02-19 21:42:07
 image: 'https://m.media-amazon.com/images/I/51zJgaXAv+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCC5L7J-es Gigabyte AORUS GeForce RTX 2060 XTREME 6G Rev 1.0'
 sku: 'B07MCC5L7J-es'
 tags: [ 'gigabyte', ]

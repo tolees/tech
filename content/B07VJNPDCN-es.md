@@ -5,7 +5,7 @@ date: 2020-07-21 08:34:46
 image: 'https://m.media-amazon.com/images/I/51tXAaH2tVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJNPDCN-es ESR Funda Transparente para iPhone 11 Pro MAX Carcasa...'
 sku: 'B07VJNPDCN-es'
 tags: [ 'iphone', ]

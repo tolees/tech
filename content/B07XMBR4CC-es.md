@@ -5,7 +5,7 @@ date: 2020-07-19 23:17:37
 image: 'https://m.media-amazon.com/images/I/419f+Y2YNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMBR4CC-es Anker iPhone 11 Charger USB C to Lightning Cable [6ft...'
 sku: 'B07XMBR4CC-es'
 tags: [ 'apple','iphone', ]

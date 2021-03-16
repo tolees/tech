@@ -5,7 +5,7 @@ date: 2020-07-13 12:45:54
 image: 'https://m.media-amazon.com/images/I/31TYK107uHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGG1XTS-es JBL Tune 500BT - Auriculares supraaurales inalámbricos con...'
 sku: 'B07HGG1XTS-es'
 tags: [ 'auriculares', ]

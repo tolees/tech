@@ -5,7 +5,7 @@ date: 2020-09-26 18:55:21
 image: 'https://m.media-amazon.com/images/I/31pD6pQsh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086FF8JQC-es MEDION E14403 - Portátil 14" FullHD Intel Core i3-7020U...'
 sku: 'B086FF8JQC-es'
 tags: [ 'ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 14:32:49
 image: 'https://m.media-amazon.com/images/I/311hgCUKHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N28SX7F-es Primux TW01 - Torre de Sonido con Bluetooth 30W FM Color...'
 sku: 'B01N28SX7F-es'
 tags: [ 'bluetooth', ]

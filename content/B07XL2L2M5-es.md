@@ -5,7 +5,7 @@ date: 2020-08-02 09:30:52
 image: 'https://m.media-amazon.com/images/I/31r0Q4yFrpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL2L2M5-es MSI Prestige 15 A10SC-060XES - Ordenador portátil 15.6"...'
 sku: 'B07XL2L2M5-es'
 tags: [ 'ordenador','ram','teclado', ]

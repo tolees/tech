@@ -5,7 +5,7 @@ date: 2020-04-21 09:37:25
 image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009FTXJU-es Canon EW-73B - Parasol para Objetivos Canon EF-S Negro'
 sku: 'B0009FTXJU-es'
 tags: [ 'canon', ]

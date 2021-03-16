@@ -5,7 +5,7 @@ date: 2020-06-17 16:35:04
 image: 'https://m.media-amazon.com/images/I/51jqYyj8I+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJQGRR-es Canon EOS RP - Cámara mirroless de 26.2 MP Wi-Fi Bluetooth...'
 sku: 'B07NJJQGRR-es'
 tags: [ 'bluetooth','canon', ]

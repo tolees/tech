@@ -5,7 +5,7 @@ date: 2020-09-26 15:23:46
 image: 'https://m.media-amazon.com/images/I/41iugM35evL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J75VJ6W-es HOMCOM Mesa de Ordenador PC Madera en Forma L Esquinera...'
 sku: 'B01J75VJ6W-es'
 tags: [ 'impresora','móvil','ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 16:39:11
 image: 'https://m.media-amazon.com/images/I/318ZJC0ePUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC5PTYW-es AUKEY Webcam FHD Cámara de videoconferencia 1080p con USB...'
 sku: 'B07TC5PTYW-es'
 tags: [ '1080p','ordenador', ]

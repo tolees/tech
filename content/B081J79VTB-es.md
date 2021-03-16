@@ -5,7 +5,7 @@ date: 2020-07-13 00:29:06
 image: 'https://m.media-amazon.com/images/I/51QET+hQO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081J79VTB-es Zommuei Adaptador Bluetooth USB Mini Receptor Bluetooth y...'
 sku: 'B081J79VTB-es'
 tags: [ 'bluetooth', ]

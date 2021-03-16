@@ -5,7 +5,7 @@ date: 2020-07-28 07:34:37
 image: 'https://m.media-amazon.com/images/I/31v+AynvhaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXMF52C-es Anker PowerCore Slim 10000 Cargador portátil Ultrafino...'
 sku: 'B07PXMF52C-es'
 tags: [ 'galaxy','iphone','samsung', ]

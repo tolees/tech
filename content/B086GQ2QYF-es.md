@@ -5,7 +5,7 @@ date: 2020-08-26 07:50:21
 image: 'https://m.media-amazon.com/images/I/41t4A8DvwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GQ2QYF-es AUKEH Cargador Surface 15V 2.58A 44W Adaptador de...'
 sku: 'B086GQ2QYF-es'
 tags: [ 'microsoft', ]

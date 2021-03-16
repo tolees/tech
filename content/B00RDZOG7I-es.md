@@ -5,7 +5,7 @@ date: 2020-05-09 08:08:49
 image: 'https://m.media-amazon.com/images/I/31arhSS0KBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RDZOG7I-es Netgear GSS116E-100EUS - Click Switch gestionable Smart...'
 sku: 'B00RDZOG7I-es'
 tags: [ 'gigabit','netgear', ]

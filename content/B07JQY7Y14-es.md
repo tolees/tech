@@ -5,7 +5,7 @@ date: 2020-09-10 18:32:09
 image: 'https://m.media-amazon.com/images/I/21+44IOLVlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQY7Y14-es ASUS PB60-B3105ZV - Mini ordenador de sobremesa Intel Core...'
 sku: 'B07JQY7Y14-es'
 tags: [ 'asus','ordenador','ram', ]

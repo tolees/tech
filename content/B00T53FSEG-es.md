@@ -5,7 +5,7 @@ date: 2020-08-11 15:22:11
 image: 'https://m.media-amazon.com/images/I/41j+jlXZ23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T53FSEG-es Panasonic Lumix DMC-FT30 - Cámara Acuática Sumergible de...'
 sku: 'B00T53FSEG-es'
 tags: [ 'panasonic', ]

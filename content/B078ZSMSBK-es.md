@@ -5,7 +5,7 @@ date: 2020-10-12 00:58:08
 image: 'https://m.media-amazon.com/images/I/414NCtHTVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZSMSBK-es HP Z24n G2 - Monitor profesional de 24” ajustable en...'
 sku: 'B078ZSMSBK-es'
 tags: [ 'ips', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 20:04:54
 image: 'https://m.media-amazon.com/images/I/41I02+eTJQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6S83CL-es Bang & Olufsen Beoplay H4 - Auriculares inalámbricos 1a...'
 sku: 'B01N6S83CL-es'
 tags: [ 'auriculares', ]

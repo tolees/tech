@@ -5,7 +5,7 @@ date: 2020-09-25 02:45:58
 image: 'https://m.media-amazon.com/images/I/31f0iRXjsvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGQL379-es BUBOS 14-15.4 Pulgadas Funda para Laptop con asa...'
 sku: 'B07BGQL379-es'
 tags: [ 'asus','dell','lenovo','samsung','sony', ]

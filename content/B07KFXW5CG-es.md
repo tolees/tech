@@ -5,7 +5,7 @@ date: 2020-02-08 20:38:17
 image: 'https://m.media-amazon.com/images/I/41MOGETywlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXW5CG-es PUMA Smash v2 SD Jr Zapatillas Unisex Niños Galaxy Blue...'
 sku: 'B07KFXW5CG-es'
 tags: [ 'galaxy', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 07:31:43
 image: 'https://m.media-amazon.com/images/I/21roBgjum4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHFNDWX-es SAMSUNG EB-P1100C batería Externa Plata Polímero de Litio...'
 sku: 'B07JHFNDWX-es'
 tags: [ 'samsung', ]

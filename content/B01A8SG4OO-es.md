@@ -5,7 +5,7 @@ date: 2020-09-16 07:28:36
 image: 'https://m.media-amazon.com/images/I/41PaTqIRNUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8SG4OO-es Canon PowerShot SX540 HS - Cámara digital de 20.3 Mp...'
 sku: 'B01A8SG4OO-es'
 tags: [ 'canon','wifi', ]

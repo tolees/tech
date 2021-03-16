@@ -5,7 +5,7 @@ date: 2020-01-18 11:57:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mWX1euzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DZXE9NC-es Alesis Recital - Teclado de Piano Digital con 88 Teclas...'
 sku: 'B01DZXE9NC-es'
 tags: [ 'teclado', ]

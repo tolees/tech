@@ -5,7 +5,7 @@ date: 2020-01-14 00:55:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nOA1ul5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVXSG3T-es HyperX Predator HX432C16PB3A/16 - Memoria RAM DDR4 16GB...'
 sku: 'B07MVXSG3T-es'
 tags: [ 'ram', ]

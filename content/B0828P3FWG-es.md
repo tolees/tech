@@ -5,7 +5,7 @@ date: 2020-09-12 19:32:16
 image: 'https://m.media-amazon.com/images/I/51PnS-driQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828P3FWG-es Correa del Reloj Compatible con Apple Watch de 38mm 40mm...'
 sku: 'B0828P3FWG-es'
 tags: [ 'apple', ]

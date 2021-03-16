@@ -5,7 +5,7 @@ date: 2020-01-22 15:08:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fFEAK1GzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8D6V6S-es HP Pavilion 27 B&O - Monitor 27 IPS FHD Audio Bang &...'
 sku: 'B07M8D6V6S-es'
 tags: [ 'ips', ]

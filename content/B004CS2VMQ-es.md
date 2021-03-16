@@ -5,7 +5,7 @@ date: 2020-09-24 16:47:11
 image: 'https://m.media-amazon.com/images/I/411-iz-z64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004CS2VMQ-es Samyang F1110601101 AE - Objectivo para Canon 14 mm IF ED...'
 sku: 'B004CS2VMQ-es'
 tags: [ 'canon', ]

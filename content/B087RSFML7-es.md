@@ -5,7 +5,7 @@ date: 2020-06-17 08:07:29
 image: 'https://m.media-amazon.com/images/I/41HkeQCFjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RSFML7-es ASUS TP412FA-EC082T - Portátil de 14" FullHD Intel Core...'
 sku: 'B087RSFML7-es'
 tags: [ 'asus','ram','teclado', ]

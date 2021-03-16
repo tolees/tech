@@ -5,7 +5,7 @@ date: 2020-05-17 17:35:57
 image: 'https://m.media-amazon.com/images/I/41UoOeI803L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M8Y5PF-es Oihxse Cristal Compatible con Xiaomi Redmi Note 5 Pro/Note...'
 sku: 'B087M8Y5PF-es'
 tags: [ 'xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-03-15 20:03:06
 image: 'https://m.media-amazon.com/images/I/41YIYDsN1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEEC66K-es Alfombrilla de Ratón con Reposamuñecas Cojín de Ratón Gel...'
 sku: 'B01HEEC66K-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 08:02:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IU%2BmMkEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9GDT4H-es Otterbox Defender Funda Anti Caídas Robusta para Samsung...'
 sku: 'B07N9GDT4H-es'
 tags: [ 'galaxy','samsung', ]

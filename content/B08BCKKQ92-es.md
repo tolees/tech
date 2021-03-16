@@ -5,7 +5,7 @@ date: 2020-10-04 12:48:16
 image: 'https://m.media-amazon.com/images/I/51EZItZS-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCKKQ92-es SYOSIN Luz de Anillo Palo Selfie Anillo de Luz LED con...'
 sku: 'B08BCKKQ92-es'
 tags: [ 'móvil', ]

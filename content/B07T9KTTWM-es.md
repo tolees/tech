@@ -5,7 +5,7 @@ date: 2020-02-27 08:03:38
 image: 'https://m.media-amazon.com/images/I/413i2-Dt4dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9KTTWM-es Vieta Pro Upper - Altavoz portátil Bluetooth Radio FM...'
 sku: 'B07T9KTTWM-es'
 tags: [ 'altavoz','bluetooth', ]

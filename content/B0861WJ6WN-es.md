@@ -5,7 +5,7 @@ date: 2020-07-18 22:00:49
 image: 'https://m.media-amazon.com/images/I/41De9Kr8RML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861WJ6WN-es LG gram 14Z90N-V-AR50B - Ordenador portátil ultraligero de...'
 sku: 'B0861WJ6WN-es'
 tags: [ 'ips','ordenador','ram','teclado', ]

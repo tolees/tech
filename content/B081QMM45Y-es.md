@@ -5,7 +5,7 @@ date: 2020-06-30 19:21:21
 image: 'https://m.media-amazon.com/images/I/41SwEY5XVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QMM45Y-es HP Pavilion 15-bc527ns - Ordenador portátil de 15.6"...'
 sku: 'B081QMM45Y-es'
 tags: [ 'ordenador','ram','teclado', ]

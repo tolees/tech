@@ -5,7 +5,7 @@ date: 2020-03-11 16:41:34
 image: 'https://m.media-amazon.com/images/I/516SkaB96gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZDHYJ7-es Xuanbeier Funda Carcasa Compatible con Samsung Galaxy Tab...'
 sku: 'B07SZDHYJ7-es'
 tags: [ 'galaxy','samsung', ]

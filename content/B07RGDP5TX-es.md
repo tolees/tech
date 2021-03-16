@@ -5,7 +5,7 @@ date: 2020-05-01 14:21:19
 image: 'https://m.media-amazon.com/images/I/51DnCDAccpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGDP5TX-es Funda cartera Huawei P30 con una solapa para llevar...'
 sku: 'B07RGDP5TX-es'
 tags: [ 'huawei', ]

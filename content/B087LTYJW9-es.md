@@ -5,7 +5,7 @@ date: 2020-04-28 19:05:29
 image: 'https://m.media-amazon.com/images/I/41mbehcWXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LTYJW9-es Oihxse Cristal Compatible con Xiaomi Redmi Note 8T Funda...'
 sku: 'B087LTYJW9-es'
 tags: [ 'xiaomi', ]

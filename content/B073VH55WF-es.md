@@ -5,7 +5,7 @@ date: 2020-07-27 00:05:40
 image: 'https://m.media-amazon.com/images/I/51-YmgSfllL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VH55WF-es UGREEN 2X Adaptador Micro USB a Tipo C con OTG Adaptador...'
 sku: 'B073VH55WF-es'
 tags: [ 'huawei','samsung','xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 03:48:30
 image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FXF7TX5-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Note 10/Note...'
 sku: 'B08FXF7TX5-es'
 tags: [ 'xiaomi', ]

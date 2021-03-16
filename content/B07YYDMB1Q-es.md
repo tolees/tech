@@ -5,7 +5,7 @@ date: 2020-08-20 15:16:32
 image: 'https://m.media-amazon.com/images/I/41tjtjIZxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYDMB1Q-es Auriculares inalámbricos Bluetooth 5.0 Etrigger TWS...'
 sku: 'B07YYDMB1Q-es'
 tags: [ 'auriculares','bluetooth','huawei','iphone','samsung', ]

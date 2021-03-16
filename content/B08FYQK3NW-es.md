@@ -5,7 +5,7 @@ date: 2020-08-19 21:16:23
 image: 'https://m.media-amazon.com/images/I/41+btaorbaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FYQK3NW-es Auriculares Bluetooth Auriculares inalámbricos IPx5 a...'
 sku: 'B08FYQK3NW-es'
 tags: [ 'auriculares','bluetooth', ]

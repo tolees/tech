@@ -5,7 +5,7 @@ date: 2020-08-21 12:30:21
 image: 'https://m.media-amazon.com/images/I/414NPwXJwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895FDF8Y-es LIDEDE Adaptador USB a HDMI USB 3.0 a HDMI Full HD 1080P...'
 sku: 'B0895FDF8Y-es'
 tags: [ '1080p','full','hd', ]

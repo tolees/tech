@@ -5,7 +5,7 @@ date: 2020-04-12 23:44:11
 image: 'https://m.media-amazon.com/images/I/41-NuYS1I+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ORBQ8U-es OKI 403922 - Impresora matricial USB 240 x 216 dpi Color...'
 sku: 'B004ORBQ8U-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-06-21 03:47:14
 image: 'https://m.media-amazon.com/images/I/4188QucBCZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRVM993-es Syncwire Funda iPhone 11 UltraRock Funda Protectora de...'
 sku: 'B07WRVM993-es'
 tags: [ 'apple','iphone', ]

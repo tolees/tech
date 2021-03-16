@@ -5,7 +5,7 @@ date: 2020-09-28 17:05:28
 image: 'https://m.media-amazon.com/images/I/21hFJ8s6hcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886XJYYS-es Sony WFSP800N - Auriculares True Wireless Cancelación de...'
 sku: 'B0886XJYYS-es'
 tags: [ 'auriculares','bluetooth','sony', ]

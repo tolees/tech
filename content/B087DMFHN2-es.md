@@ -5,7 +5,7 @@ date: 2020-08-05 05:47:36
 image: 'https://m.media-amazon.com/images/I/412IZLL3zUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087DMFHN2-es Acer Aspire 5 - Ordenador Portátil de 14" FullHD Intel...'
 sku: 'B087DMFHN2-es'
 tags: [ 'ordenador','ram', ]

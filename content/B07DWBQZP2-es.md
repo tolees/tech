@@ -5,7 +5,7 @@ date: 2020-09-06 08:31:03
 image: 'https://m.media-amazon.com/images/I/41OVSwUFkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWBQZP2-es Seagate Fast SSD 1 TB Disco duro externo portátil SSD...'
 sku: 'B07DWBQZP2-es'
 tags: [ 'disco','duro','ordenador', ]

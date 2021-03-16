@@ -5,7 +5,7 @@ date: 2020-10-12 08:25:36
 image: 'https://m.media-amazon.com/images/I/41shmp0IyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WYBTLW-es auna LS-46 Pareja de Soportes para Altavoz - Columnas de...'
 sku: 'B073WYBTLW-es'
 tags: [ 'altavoz', ]

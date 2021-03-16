@@ -5,7 +5,7 @@ date: 2020-09-19 13:32:34
 image: 'https://m.media-amazon.com/images/I/31x8q5MvspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SWGQSH-es Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil...'
 sku: 'B082SWGQSH-es'
 tags: [ 'ratón', ]

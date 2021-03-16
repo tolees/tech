@@ -5,7 +5,7 @@ date: 2020-06-30 01:45:40
 image: 'https://m.media-amazon.com/images/I/41B2ak3I8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q84XXHQ-es Mksutary Mesa Ordenador Portatil Soporte de Portátil Mesa...'
 sku: 'B07Q84XXHQ-es'
 tags: [ 'ordenador','ratón', ]

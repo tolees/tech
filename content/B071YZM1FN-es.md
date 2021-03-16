@@ -5,7 +5,7 @@ date: 2020-06-29 07:48:25
 image: 'https://m.media-amazon.com/images/I/31oQFgvh-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YZM1FN-es Romoss Batería Externa Móvil 20000 mAh Power Bank 2...'
 sku: 'B071YZM1FN-es'
 tags: [ 'móvil', ]

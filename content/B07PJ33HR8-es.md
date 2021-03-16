@@ -5,7 +5,7 @@ date: 2020-10-03 20:31:52
 image: 'https://m.media-amazon.com/images/I/41Sb6gp1nwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ33HR8-es Relaxdays Mesa Ordenador Portátil para Cama y Sofá con...'
 sku: 'B07PJ33HR8-es'
 tags: [ 'ordenador', ]

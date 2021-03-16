@@ -5,7 +5,7 @@ date: 2020-09-14 02:51:19
 image: 'https://m.media-amazon.com/images/I/31cTyr9d07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012H1YDD4-es TECKNET Tarjeta de Sonido USB Tarjeta de Sonido Externa...'
 sku: 'B012H1YDD4-es'
 tags: [ 'auriculares','ordenador', ]

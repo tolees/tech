@@ -5,7 +5,7 @@ date: 2020-08-22 19:15:24
 image: 'https://m.media-amazon.com/images/I/31iFF1KbkpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MV1GX63-es Logitech M100 Ratón con Cable USB 3 Botones Seguimiento...'
 sku: 'B01MV1GX63-es'
 tags: [ 'logitech','ratón', ]

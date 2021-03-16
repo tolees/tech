@@ -5,7 +5,7 @@ date: 2020-09-02 14:53:39
 image: 'https://m.media-amazon.com/images/I/31BvTGKy5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7MB8L2-es HP Smart Tank Plus 570 - Impresora multifunción imprime...'
 sku: 'B07V7MB8L2-es'
 tags: [ 'impresora','móvil', ]

@@ -5,7 +5,7 @@ date: 2020-08-10 05:37:52
 image: 'https://m.media-amazon.com/images/I/51Oam9qVR7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNPDQMR-es Funda para iPhone 6 6s Ultra-Delgado Disipadores de Calor...'
 sku: 'B07PNPDQMR-es'
 tags: [ 'iphone', ]

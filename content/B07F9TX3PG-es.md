@@ -5,7 +5,7 @@ date: 2020-04-13 06:57:20
 image: 'https://m.media-amazon.com/images/I/41w5G0+mbWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9TX3PG-es Lenovo C24 - Monitor de 23.6" Pantalla FullHD/IPS 1920 x...'
 sku: 'B07F9TX3PG-es'
 tags: [ 'lenovo', ]

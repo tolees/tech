@@ -5,7 +5,7 @@ date: 2020-03-15 12:21:33
 image: 'https://m.media-amazon.com/images/I/41P2SP1vdfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GLXBC1-es HP Color Laserjet Pro MFP M281fdw – Impresora multifunción...'
 sku: 'B075GLXBC1-es'
 tags: [ 'impresora','wifi', ]

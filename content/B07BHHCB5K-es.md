@@ -5,7 +5,7 @@ date: 2020-04-06 04:12:12
 image: 'https://m.media-amazon.com/images/I/41NzYULD18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHHCB5K-es KROM Khami - NXKROMKHAMI - Auriculares Gaming Estéreo...'
 sku: 'B07BHHCB5K-es'
 tags: [ 'auriculares', ]

@@ -5,7 +5,7 @@ date: 2020-02-06 23:30:40
 image: 'https://m.media-amazon.com/images/I/518HvmQIaaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CPTYM6-es Razer BlackWidow Chroma V2 Teclado de Gaming USB/Alámbrico...'
 sku: 'B075CPTYM6-es'
 tags: [ 'teclado', ]

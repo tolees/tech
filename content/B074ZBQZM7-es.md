@@ -5,7 +5,7 @@ date: 2020-09-02 17:45:40
 image: 'https://m.media-amazon.com/images/I/41zAms11XSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZBQZM7-es Epson EH-TW5650 | Proyector Home Cinema 3D Full HD 1080p |...'
 sku: 'B074ZBQZM7-es'
 tags: [ '1080p','full','hd', ]

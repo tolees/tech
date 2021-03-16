@@ -5,7 +5,7 @@ date: 2020-09-12 16:30:33
 image: 'https://m.media-amazon.com/images/I/41Sl7dIrmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843SYHHR-es PRIXTON Lumière - Proyector portatil / Proyector LED...'
 sku: 'B0843SYHHR-es'
 tags: [ 'full','hd','microsd', ]

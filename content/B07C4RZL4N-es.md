@@ -5,7 +5,7 @@ date: 2020-07-27 11:19:28
 image: 'https://m.media-amazon.com/images/I/512QSBqwwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4RZL4N-es Adaptador Cargador Nuevo Compatible para Portátil Toshiba...'
 sku: 'B07C4RZL4N-es'
 tags: [ 'toshiba', ]

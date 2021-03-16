@@ -5,7 +5,7 @@ date: 2020-03-31 09:37:21
 image: 'https://m.media-amazon.com/images/I/31x7mv8K4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYZ2D8V-es Beats Auriculares Solo Pro Wireless de Beats con...'
 sku: 'B07YYZ2D8V-es'
 tags: [ 'auriculares', ]

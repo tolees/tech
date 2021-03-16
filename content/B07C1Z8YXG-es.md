@@ -5,7 +5,7 @@ date: 2020-09-12 07:58:12
 image: 'https://m.media-amazon.com/images/I/41QLV1yVc0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1Z8YXG-es Mi Pocket Speaker 2 White Altavoz Xiaomi'
 sku: 'B07C1Z8YXG-es'
 tags: [ 'altavoz','xiaomi', ]

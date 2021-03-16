@@ -5,7 +5,7 @@ date: 2020-05-08 16:31:54
 image: 'https://m.media-amazon.com/images/I/41RF+gFvhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LY3WPS-es Oihxse Cristal Compatible con iPhone XS/X Funda...'
 sku: 'B087LY3WPS-es'
 tags: [ 'iphone', ]

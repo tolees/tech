@@ -5,7 +5,7 @@ date: 2020-08-15 21:11:41
 image: 'https://m.media-amazon.com/images/I/41BIbUCvdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RO9QE0-es Philips SHE1350/00 Auriculares intrauditivos'
 sku: 'B000RO9QE0-es'
 tags: [ 'auriculares', ]

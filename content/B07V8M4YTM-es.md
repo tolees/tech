@@ -5,7 +5,7 @@ date: 2020-06-19 19:46:44
 image: 'https://m.media-amazon.com/images/I/51z7ZSIA+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8M4YTM-es VLikeze- Mesa de Cama para Ordenador portátil Plegable...'
 sku: 'B07V8M4YTM-es'
 tags: [ 'ordenador', ]

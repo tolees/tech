@@ -5,7 +5,7 @@ date: 2020-08-17 16:19:45
 image: 'https://m.media-amazon.com/images/I/31r4NieP+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQPM3QW-es Samsung Galaxy Watch Active2 - Smartwatch Bluetooth Plata...'
 sku: 'B07VQPM3QW-es'
 tags: [ 'bluetooth','galaxy','samsung','smartwatch', ]

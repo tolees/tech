@@ -5,7 +5,7 @@ date: 2020-09-25 15:10:32
 image: 'https://m.media-amazon.com/images/I/41GRmIolJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894HSVXL-es AtailorBird Alfombrilla Ratón Grande Alfombrilla...'
 sku: 'B0894HSVXL-es'
 tags: [ 'ratón','teclado', ]

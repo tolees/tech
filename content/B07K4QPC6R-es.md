@@ -5,7 +5,7 @@ date: 2020-08-14 16:15:45
 image: 'https://m.media-amazon.com/images/I/41Qgv8PdFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4QPC6R-es HP 300 - Teclado y ratón inalámbricos color negro'
 sku: 'B07K4QPC6R-es'
 tags: [ 'ratón','teclado', ]

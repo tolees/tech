@@ -5,7 +5,7 @@ date: 2020-10-06 08:39:53
 image: 'https://m.media-amazon.com/images/I/41WfYvIAq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088HH2KB3-es Xiaomi Poco F2 Pro - Smartphone de 6.67" 5 G Super AMOLED...'
 sku: 'B088HH2KB3-es'
 tags: [ 'ram','smartphone','xiaomi', ]

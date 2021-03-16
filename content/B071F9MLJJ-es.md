@@ -5,7 +5,7 @@ date: 2020-08-21 07:17:48
 image: 'https://m.media-amazon.com/images/I/41NnF-GoItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F9MLJJ-es Western Digital WD10SPZX - Disco Duro Interno HDD 1TB 5400...'
 sku: 'B071F9MLJJ-es'
 tags: [ 'disco','duro', ]

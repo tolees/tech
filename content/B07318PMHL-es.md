@@ -5,7 +5,7 @@ date: 2020-02-25 15:32:30
 image: 'https://m.media-amazon.com/images/I/41C+FDRqkZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07318PMHL-es Logitech Slim Combo Funda para iPad iPad Pro 10.5 Pulgadas...'
 sku: 'B07318PMHL-es'
 tags: [ 'logitech', ]

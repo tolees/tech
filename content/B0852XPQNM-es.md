@@ -5,7 +5,7 @@ date: 2020-06-20 12:02:10
 image: 'https://m.media-amazon.com/images/I/31+UJm-b5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0852XPQNM-es Kosiy Repetidor de Red WiFi Amplificador Amplificador...'
 sku: 'B0852XPQNM-es'
 tags: [ 'wifi', ]

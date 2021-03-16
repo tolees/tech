@@ -5,7 +5,7 @@ date: 2020-05-31 14:22:02
 image: 'https://m.media-amazon.com/images/I/31vmLItsmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQE8CJW-es Corsair Harpoon RGB Ratón Óptico para Juegos 6 000 PPP...'
 sku: 'B01MQE8CJW-es'
 tags: [ 'ratón', ]

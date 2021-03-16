@@ -5,7 +5,7 @@ date: 2020-09-20 09:45:43
 image: 'https://m.media-amazon.com/images/I/51Pj87jQp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYJ9RGN-es Adaptador Cargador Compatible para Portátil ASUS Comp. 65w...'
 sku: 'B07FYJ9RGN-es'
 tags: [ 'asus', ]

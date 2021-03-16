@@ -5,7 +5,7 @@ date: 2020-03-31 17:43:31
 image: 'https://m.media-amazon.com/images/I/41fBFvDR9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MN970GS-es Suunto - Smart Sensor HR Black - Módulo Sensor de...'
 sku: 'B00MN970GS-es'
 tags: [ 'suunto', ]

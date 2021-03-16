@@ -5,7 +5,7 @@ date: 2020-04-02 03:39:51
 image: 'https://m.media-amazon.com/images/I/31He3O7depL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GK63WEE-es Linksys LGS108-EU - Unmanaged Switch Gigabit de Escritorio...'
 sku: 'B00GK63WEE-es'
 tags: [ 'gigabit', ]

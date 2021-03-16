@@ -5,7 +5,7 @@ date: 2020-03-21 16:16:48
 image: 'https://m.media-amazon.com/images/I/41K2pOZecbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6GTJ1L-es Apple MacBook Air de 13 pulgadas Último Modelo 8GB RAM...'
 sku: 'B07V6GTJ1L-es'
 tags: [ 'apple','ram', ]

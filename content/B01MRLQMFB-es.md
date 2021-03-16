@@ -5,7 +5,7 @@ date: 2020-01-24 12:35:35
 image: 'https://m.media-amazon.com/images/I/41Bhei0e8xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRLQMFB-es HP Envy 27s - Monitor IPS 4K Ultra HD 3840 x 2160 Pixeles...'
 sku: 'B01MRLQMFB-es'
 tags: [ 'ips', ]

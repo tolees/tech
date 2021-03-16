@@ -5,7 +5,7 @@ date: 2020-06-08 00:09:03
 image: 'https://m.media-amazon.com/images/I/31TUQWxpoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDJSR6Z-es Aftershokz Trekz Air - Auriculares de conducción ósea...'
 sku: 'B07MDJSR6Z-es'
 tags: [ 'auriculares', ]

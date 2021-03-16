@@ -5,7 +5,7 @@ date: 2020-09-09 20:02:08
 image: 'https://m.media-amazon.com/images/I/41L5ZeMw8KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHKLPD4-es SOOTEWAY Adaptador Bluetooth 5.0 Transmisor Receptor 2 en...'
 sku: 'B08CHKLPD4-es'
 tags: [ 'bluetooth', ]

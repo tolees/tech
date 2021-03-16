@@ -5,7 +5,7 @@ date: 2020-01-28 12:32:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQHnjgIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RXIGI9Y-es Sony XS-FB1330 - Altavoces coaxiales de 3 vías 240W 13 cm...'
 sku: 'B00RXIGI9Y-es'
 tags: [ 'sony', ]

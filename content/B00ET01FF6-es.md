@@ -5,7 +5,7 @@ date: 2020-05-27 09:58:00
 image: 'https://m.media-amazon.com/images/I/41B5mCucF4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ET01FF6-es Canon CL-546XL Cartucho de tinta original Tricolor XL para...'
 sku: 'B00ET01FF6-es'
 tags: [ 'canon','impresora', ]

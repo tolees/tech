@@ -5,7 +5,7 @@ date: 2020-05-17 08:36:41
 image: 'https://m.media-amazon.com/images/I/31Kev4VCA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQRMZ4N-es Legrand 050178 Enchufe con Cabezal Móvil Orientable 3680 W...'
 sku: 'B01MQRMZ4N-es'
 tags: [ 'móvil', ]

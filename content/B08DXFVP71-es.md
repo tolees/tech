@@ -5,7 +5,7 @@ date: 2020-08-25 18:03:57
 image: 'https://m.media-amazon.com/images/I/41wCW+4OdgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXFVP71-es Homfa Mesa Gaming PC Escritorio Gaming Mesa para Ordenador...'
 sku: 'B08DXFVP71-es'
 tags: [ 'auriculares','ordenador','ratón', ]

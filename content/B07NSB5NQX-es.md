@@ -5,7 +5,7 @@ date: 2020-01-24 19:38:08
 image: 'https://m.media-amazon.com/images/I/411IYPp-0EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSB5NQX-es Need Escritorios Mesa de Ordenador 138x55cm Escritorio de...'
 sku: 'B07NSB5NQX-es'
 tags: [ 'ordenador', ]

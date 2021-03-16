@@ -5,7 +5,7 @@ date: 2020-10-08 13:32:10
 image: 'https://m.media-amazon.com/images/I/41sKdrTMcnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYZ2RZM-es Park and Charge - Organizador de mando a distancia con...'
 sku: 'B07FYZ2RZM-es'
 tags: [ 'tablet', ]

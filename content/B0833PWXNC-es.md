@@ -5,7 +5,7 @@ date: 2020-07-13 00:24:25
 image: 'https://m.media-amazon.com/images/I/31jpl3mJDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833PWXNC-es Leolee Ratón Inalámbrico con Tipo C 2.4G USB Delgado...'
 sku: 'B0833PWXNC-es'
 tags: [ 'ordenador','ratón', ]

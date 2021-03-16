@@ -5,7 +5,7 @@ date: 2020-08-27 08:54:31
 image: 'https://m.media-amazon.com/images/I/41kBeuMhtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL3YKJL-es Reulin - Cable de Red Gigabit Ethernet de 12 m Cat 7A...'
 sku: 'B07ZL3YKJL-es'
 tags: [ 'gigabit', ]

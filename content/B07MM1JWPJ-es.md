@@ -5,7 +5,7 @@ date: 2020-07-20 01:31:26
 image: 'https://m.media-amazon.com/images/I/31L3a3tNBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM1JWPJ-es Coener T9 Ratón Inalámbrico Delgado Portatil Silencioso...'
 sku: 'B07MM1JWPJ-es'
 tags: [ 'ordenador','ratón', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 06:16:02
 image: 'https://m.media-amazon.com/images/I/41MZ7ytdDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QZXNDT-es Lenovo L27q - Monitor de 27" Pantalla QHD/IPS 2560 x 1440...'
 sku: 'B083QZXNDT-es'
 tags: [ 'lenovo', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 21:11:37
 image: 'https://m.media-amazon.com/images/I/410S394ZG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018XOSKH4-es Toshiba X300 4TB 4000GB Serial ATA III - Disco Duro Serial...'
 sku: 'B018XOSKH4-es'
 tags: [ 'disco','duro','toshiba', ]

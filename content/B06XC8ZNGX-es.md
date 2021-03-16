@@ -5,7 +5,7 @@ date: 2020-01-15 18:42:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31F38cgOP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC8ZNGX-es Lenovo V510-15Ikb Ordenador portátil 15 6" HD Intel...'
 sku: 'B06XC8ZNGX-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

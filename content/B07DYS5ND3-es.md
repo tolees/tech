@@ -5,7 +5,7 @@ date: 2020-03-16 19:16:32
 image: 'https://m.media-amazon.com/images/I/51kkLiuAXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYS5ND3-es Acer KG1 KG241P LED Display 61 cm 24" Full HD Plana Negro...'
 sku: 'B07DYS5ND3-es'
 tags: [ 'full','hd', ]

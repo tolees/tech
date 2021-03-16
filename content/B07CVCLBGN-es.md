@@ -5,7 +5,7 @@ date: 2020-06-20 04:16:27
 image: 'https://m.media-amazon.com/images/I/41rAemjafSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
 sku: 'B07CVCLBGN-es'
 tags: [ 'galaxy','móvil','nintendo','switch','tablet', ]

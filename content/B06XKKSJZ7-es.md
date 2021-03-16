@@ -5,7 +5,7 @@ date: 2020-09-10 05:04:15
 image: 'https://m.media-amazon.com/images/I/41FHRAc75YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKKSJZ7-es Mophie Juice Pack Air Funda para teléfono móvil 14 cm 5.5"...'
 sku: 'B06XKKSJZ7-es'
 tags: [ 'apple','iphone','móvil', ]

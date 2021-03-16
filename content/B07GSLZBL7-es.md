@@ -5,7 +5,7 @@ date: 2020-10-12 20:19:38
 image: 'https://m.media-amazon.com/images/I/41lNc39M-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSLZBL7-es Brother DCP-L3550CDW - Impresora multifunción Wifi USB 2.0...'
 sku: 'B07GSLZBL7-es'
 tags: [ 'impresora','wifi', ]

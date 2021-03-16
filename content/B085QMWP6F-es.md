@@ -5,7 +5,7 @@ date: 2020-06-14 07:15:41
 image: 'https://m.media-amazon.com/images/I/412O+ZMLbtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QMWP6F-es NGS Roller Coaster Blue - Altavoz portátil de 10W...'
 sku: 'B085QMWP6F-es'
 tags: [ 'altavoz','bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-09-12 08:08:33
 image: 'https://m.media-amazon.com/images/I/416SvXNjToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS5S9NC-es LoongGate USB 3 0 Cable a Macho a B Macho Angulado 90...'
 sku: 'B07KS5S9NC-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 13:50:50
 image: 'https://m.media-amazon.com/images/I/21m7Y66fO6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQG9DDU-es SanDisk Memoria Flash Ultra USB 3.0 de 16 GB hasta 130...'
 sku: 'B00DQG9DDU-es'
 tags: [ 'sandisk', ]

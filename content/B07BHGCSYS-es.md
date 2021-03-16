@@ -5,7 +5,7 @@ date: 2020-06-12 14:08:45
 image: 'https://m.media-amazon.com/images/I/41MMbVBi9BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHGCSYS-es Reposamuñecas Ankengs Ordenador Apoyabrazos para...'
 sku: 'B07BHGCSYS-es'
 tags: [ 'ordenador', ]

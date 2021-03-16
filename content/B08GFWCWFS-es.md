@@ -5,7 +5,7 @@ date: 2020-10-07 16:56:24
 image: 'https://m.media-amazon.com/images/I/41AnhYdpUiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFWCWFS-es HOTLIFE - Ratón para videojuegos 6400 DPI 7 botones...'
 sku: 'B08GFWCWFS-es'
 tags: [ 'ratón', ]

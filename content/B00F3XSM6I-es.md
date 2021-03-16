@@ -5,7 +5,7 @@ date: 2020-05-24 14:13:52
 image: 'https://m.media-amazon.com/images/I/31G5uuvM7ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3XSM6I-es Netgear JGS524PE-100EUS - Smart Switch gestionable 24...'
 sku: 'B00F3XSM6I-es'
 tags: [ 'gigabit','netgear', ]

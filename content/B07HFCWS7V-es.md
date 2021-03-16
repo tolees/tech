@@ -5,7 +5,7 @@ date: 2020-06-02 09:01:20
 image: 'https://m.media-amazon.com/images/I/41lCFMoxXBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFCWS7V-es F Fityle 2 Par Altavoz Subwoofer 4X Línea de Montaje...'
 sku: 'B07HFCWS7V-es'
 tags: [ 'altavoz', ]

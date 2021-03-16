@@ -5,7 +5,7 @@ date: 2020-06-06 17:39:32
 image: 'https://m.media-amazon.com/images/I/41MpvAeAPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW82KRL-es DYNASONIC - Altavoz Bluetooth con Karaoke 2 Micrófonos...'
 sku: 'B07PW82KRL-es'
 tags: [ 'altavoz','bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 07:31:16
 image: 'https://m.media-amazon.com/images/I/414t5QKhRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CC2GLG7-es Gigabyte AERO15X v8'
 sku: 'B07CC2GLG7-es'
 tags: [ 'gigabyte', ]

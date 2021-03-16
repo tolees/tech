@@ -5,7 +5,7 @@ date: 2020-02-06 23:21:42
 image: 'https://m.media-amazon.com/images/I/31JlKzuv0sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM3NTJF-es MSI GS65 Stealth 9SG-453ES - Ordenador portátil de 15.6"...'
 sku: 'B07RM3NTJF-es'
 tags: [ 'ordenador','ram','teclado', ]

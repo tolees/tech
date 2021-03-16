@@ -5,7 +5,7 @@ date: 2020-02-17 20:17:59
 image: 'https://m.media-amazon.com/images/I/41D2F75r-0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSD9BJ2-es MSI GS63 Stealth 8RD-060ES - Ordenador portátil Gaming...'
 sku: 'B07MSD9BJ2-es'
 tags: [ 'ordenador','ram','teclado', ]

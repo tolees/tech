@@ -5,7 +5,7 @@ date: 2020-09-27 23:58:42
 image: 'https://m.media-amazon.com/images/I/416DigJWYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9YBCBT-es UGREEN Hub USB 3.0 con 3 USB Puertos y Gigabit Ethernet...'
 sku: 'B07T9YBCBT-es'
 tags: [ 'gigabit','lenovo','toshiba','xiaomi', ]

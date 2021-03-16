@@ -5,7 +5,7 @@ date: 2020-09-25 09:10:36
 image: 'https://m.media-amazon.com/images/I/41No+JkBFXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DRGFTYX-es INQMEGAPRO 1080P PTZ Dome Cámara de Vigilancia Inalámbrica...'
 sku: 'B08DRGFTYX-es'
 tags: [ '1080p', ]

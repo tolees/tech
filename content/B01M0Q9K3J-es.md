@@ -5,7 +5,7 @@ date: 2020-05-12 13:48:21
 image: 'https://m.media-amazon.com/images/I/3102JdceEZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0Q9K3J-es Auriculares Inalámbricos Powerbeats3 Wireless Bluetooth -...'
 sku: 'B01M0Q9K3J-es'
 tags: [ 'auriculares','bluetooth', ]

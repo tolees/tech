@@ -5,7 +5,7 @@ date: 2020-04-08 02:42:22
 image: 'https://m.media-amazon.com/images/I/3144wNTSxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JSCV8SI-es SAMSUNG EE-GN930BW Micro USB USB Tipo C Blanco Adaptador...'
 sku: 'B01JSCV8SI-es'
 tags: [ 'samsung', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 16:35:43
 image: 'https://m.media-amazon.com/images/I/31P41myVc-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVTPP64-es TopMate Cargador portátil Power Bank 20000 mAh Batería...'
 sku: 'B07WVTPP64-es'
 tags: [ 'móvil', ]

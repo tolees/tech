@@ -5,7 +5,7 @@ date: 2020-08-10 02:10:13
 image: 'https://m.media-amazon.com/images/I/41-2fiPIY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDK27GN-es PC Teclado Mecánico para Juegos LED Mezclado con...'
 sku: 'B07YDK27GN-es'
 tags: [ 'teclado', ]

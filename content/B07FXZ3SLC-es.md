@@ -5,7 +5,7 @@ date: 2020-07-19 09:08:49
 image: 'https://m.media-amazon.com/images/I/41YumpSzfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXZ3SLC-es Corsair K70 RGB MK.2 Teclado Mecánico USB Alámbrico Tamaño...'
 sku: 'B07FXZ3SLC-es'
 tags: [ 'teclado', ]

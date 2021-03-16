@@ -5,7 +5,7 @@ date: 2020-08-16 10:40:43
 image: 'https://m.media-amazon.com/images/I/311arRyR7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FS83WC-es Auriculares Bluetooth HAVIT Auricular Inalámbricos Cascos...'
 sku: 'B075FS83WC-es'
 tags: [ 'auriculares','bluetooth','huawei','samsung','xiaomi', ]

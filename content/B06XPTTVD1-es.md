@@ -5,7 +5,7 @@ date: 2020-08-18 07:17:58
 image: 'https://m.media-amazon.com/images/I/51T02gj6b5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPTTVD1-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
 sku: 'B06XPTTVD1-es'
 tags: [ 'auriculares','móvil','smartphone','tablet', ]

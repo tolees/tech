@@ -5,7 +5,7 @@ date: 2020-07-25 09:17:29
 image: 'https://m.media-amazon.com/images/I/41Tnt0jvqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083S6K1HD-es CRAPHY Trípode de Cámara Móvil Monopie Ligero Aluminio...'
 sku: 'B083S6K1HD-es'
 tags: [ 'canon','móvil','nikon','smartphone','sony', ]

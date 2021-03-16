@@ -5,7 +5,7 @@ date: 2020-05-08 14:23:04
 image: 'https://m.media-amazon.com/images/I/41d0pFOeYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3XCMX4-es Acer Predator Helios 300 PH315-51-50Y7 - Ordenador...'
 sku: 'B07G3XCMX4-es'
 tags: [ 'full','hd','ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-01-22 20:33:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xibk%2Bx7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXV8P42-es Salomon Pioneer X Cascos de esquí Hombre Negro L 59-62 cm'
 sku: 'B07VXV8P42-es'
 tags: [ 'pioneer', ]

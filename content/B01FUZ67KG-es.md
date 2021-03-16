@@ -5,7 +5,7 @@ date: 2020-01-06 08:51:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21r%2B6wlnaDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUZ67KG-es Panasonic DMR-BWT850EC - Grabador y Reproductor de BLU-Ray...'
 sku: 'B01FUZ67KG-es'
 tags: [ 'disco','duro','full','hd','panasonic', ]

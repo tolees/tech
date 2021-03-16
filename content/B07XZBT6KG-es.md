@@ -5,7 +5,7 @@ date: 2020-07-18 07:04:48
 image: 'https://m.media-amazon.com/images/I/41f3J2-jMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZBT6KG-es Dell - PC Optiplex 7010 SFF- Ordenador de sobremesa Intel...'
 sku: 'B07XZBT6KG-es'
 tags: [ 'dell','ordenador','ram', ]

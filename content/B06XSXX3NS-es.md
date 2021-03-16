@@ -5,7 +5,7 @@ date: 2020-05-15 07:50:32
 image: 'https://m.media-amazon.com/images/I/51rfNqu-ggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSXX3NS-es Intel Optane Memory Unidad de Estado sólido M.2 32 GB PCI...'
 sku: 'B06XSXX3NS-es'
 tags: [ 'disco','duro', ]

@@ -5,7 +5,7 @@ date: 2020-10-09 15:40:12
 image: 'https://m.media-amazon.com/images/I/41XC69PcmfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNP3V59-es Mars Gaming MAH1V2 Auriculares Surround 7.1 Tarjeta USB...'
 sku: 'B07DNP3V59-es'
 tags: [ 'auriculares', ]

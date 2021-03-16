@@ -5,7 +5,7 @@ date: 2020-04-04 08:03:51
 image: 'https://m.media-amazon.com/images/I/41OeDfI+pRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JR2ZW8-es ASUS XG-C100C - Adaptador de Red 10 Gigabit PCI Express...'
 sku: 'B071JR2ZW8-es'
 tags: [ 'asus','gigabit', ]

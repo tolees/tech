@@ -5,7 +5,7 @@ date: 2020-05-18 13:46:49
 image: 'https://m.media-amazon.com/images/I/41cAP9qXFnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK8DXVM-es VTIN R2 Altavoces portátiles Bluetooth Altavoz portátil...'
 sku: 'B07DK8DXVM-es'
 tags: [ 'altavoz','bluetooth', ]

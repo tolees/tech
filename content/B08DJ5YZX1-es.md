@@ -5,7 +5,7 @@ date: 2020-08-13 17:48:03
 image: 'https://m.media-amazon.com/images/I/518saZ4PBGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5YZX1-es Ferilinso 8 Pack Straps Bracelet para Xiaomi Mi Band 4C +...'
 sku: 'B08DJ5YZX1-es'
 tags: [ 'xiaomi', ]

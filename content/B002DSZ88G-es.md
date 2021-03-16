@@ -5,7 +5,7 @@ date: 2020-01-05 13:07:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IQm-2gbEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DSZ88G-es Panasonic RP-HTF295E-K Auriculares de Diadema Cerrados...'
 sku: 'B002DSZ88G-es'
 tags: [ 'auriculares','panasonic', ]

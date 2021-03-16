@@ -5,7 +5,7 @@ date: 2020-08-05 17:19:12
 image: 'https://m.media-amazon.com/images/I/31UYFVgEO8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZPVCF4-es USB 2.0 Switch 4 Puertos Conmutador KVM 2 Entradas y 4...'
 sku: 'B08CZPVCF4-es'
 tags: [ 'disco','duro','ratón','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 09:34:01
 image: 'https://m.media-amazon.com/images/I/41hTT7vOFVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013QWFLKC-es Olympus OM-D E-M10 Mark-II - Cámara EVIL de 16.1 MP...'
 sku: 'B013QWFLKC-es'
 tags: [ 'full','hd','wifi', ]

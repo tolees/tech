@@ -5,7 +5,7 @@ date: 2020-02-14 00:58:57
 image: 'https://m.media-amazon.com/images/I/41nWzlmU96L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UAXUA0M-es Suunto Ambit3 Sport Black Strap Correa para Relojes Unisex...'
 sku: 'B00UAXUA0M-es'
 tags: [ 'suunto', ]

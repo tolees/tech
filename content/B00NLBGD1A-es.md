@@ -5,7 +5,7 @@ date: 2020-06-15 17:37:29
 image: 'https://m.media-amazon.com/images/I/41xBlAF5J8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NLBGD1A-es Canon Pancake EF-S 24 mm f/2.8 STM - Objetivo para Canon...'
 sku: 'B00NLBGD1A-es'
 tags: [ 'canon', ]

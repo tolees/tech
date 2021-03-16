@@ -5,7 +5,7 @@ date: 2020-10-09 12:24:24
 image: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP78DZ5-es Crucial CT4G4SFS8266 Memoria RAM de 4GB DDR4 2666 MT/s...'
 sku: 'B07HP78DZ5-es'
 tags: [ 'ram', ]

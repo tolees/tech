@@ -5,7 +5,7 @@ date: 2020-03-16 09:32:07
 image: 'https://m.media-amazon.com/images/I/41YJ2G2Yg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZS5C5H-es ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro...'
 sku: 'B07WZS5C5H-es'
 tags: [ 'iphone', ]

@@ -5,7 +5,7 @@ date: 2020-03-30 11:41:13
 image: 'https://m.media-amazon.com/images/I/410aphwCT3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCF56KF-es HUAWEI Nano Memory Tarjeta de Memoria 128 g para...'
 sku: 'B07JCF56KF-es'
 tags: [ 'huawei', ]

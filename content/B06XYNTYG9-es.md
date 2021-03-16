@@ -5,7 +5,7 @@ date: 2020-06-18 11:36:50
 image: 'https://m.media-amazon.com/images/I/41P8T445y5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYNTYG9-es CASIO - Teclado LK-136 61 Teclas Luminosas'
 sku: 'B06XYNTYG9-es'
 tags: [ 'teclado', ]

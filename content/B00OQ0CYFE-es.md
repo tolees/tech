@@ -5,7 +5,7 @@ date: 2020-08-31 00:21:35
 image: 'https://m.media-amazon.com/images/I/31qHg6s1bWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OQ0CYFE-es UGREEN Hub USB 3.0 - 4 Puertos Altas Velocidades de...'
 sku: 'B00OQ0CYFE-es'
 tags: [ 'disco','duro', ]

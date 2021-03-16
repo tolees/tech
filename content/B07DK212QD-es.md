@@ -5,7 +5,7 @@ date: 2020-08-05 04:00:58
 image: 'https://m.media-amazon.com/images/I/31cuX2cZQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK212QD-es G-Technology G-Drive Mobile USB-C - Disco Duro Portátil 1...'
 sku: 'B07DK212QD-es'
 tags: [ 'disco','duro', ]

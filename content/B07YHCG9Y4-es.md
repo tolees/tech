@@ -5,7 +5,7 @@ date: 2020-09-28 11:46:02
 image: 'https://m.media-amazon.com/images/I/41Po7kBx5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YHCG9Y4-es Candy Rapidò RO16106DWHC7/1S - Lavadora carga frontal...'
 sku: 'B07YHCG9Y4-es'
 tags: [ 'bluetooth','wifi', ]

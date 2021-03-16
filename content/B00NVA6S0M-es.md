@@ -5,7 +5,7 @@ date: 2020-07-19 14:09:01
 image: 'https://m.media-amazon.com/images/I/41vvY5SYh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVA6S0M-es CSL - 5m Cable de Red Gigabit Ethernet LAN Cat.6 RJ45-10...'
 sku: 'B00NVA6S0M-es'
 tags: [ 'gigabit', ]

@@ -5,7 +5,7 @@ date: 2020-09-02 23:15:40
 image: 'https://m.media-amazon.com/images/I/51cE82NqdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGVY5GJ-es Monuary 13 Piezas Correa para Xiaomi Mi Smart Band 4 / Mi...'
 sku: 'B07WGVY5GJ-es'
 tags: [ 'xiaomi', ]

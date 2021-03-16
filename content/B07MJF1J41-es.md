@@ -5,7 +5,7 @@ date: 2020-02-17 20:17:18
 image: 'https://m.media-amazon.com/images/I/41GfzKHlpDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJF1J41-es MSI GS63 Stealth 8RE-063XES - Ordenador portátil gaming...'
 sku: 'B07MJF1J41-es'
 tags: [ 'ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-09-27 22:22:54
 image: 'https://m.media-amazon.com/images/I/51tJ2zj1zgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRWSJ3Y-es ASUS TUF Z390-PRO GAMING - Placa base Gaming ATX Intel de...'
 sku: 'B07HRWSJ3Y-es'
 tags: [ 'asus', ]

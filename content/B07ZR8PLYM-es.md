@@ -5,7 +5,7 @@ date: 2020-08-12 06:42:58
 image: 'https://m.media-amazon.com/images/I/414ivAIuySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR8PLYM-es SPACEKEEPER Carro de Almacenamiento Delgado de 3 Niveles...'
 sku: 'B07ZR8PLYM-es'
 tags: [ 'móvil', ]

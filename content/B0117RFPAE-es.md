@@ -5,7 +5,7 @@ date: 2020-03-10 11:28:31
 image: 'https://m.media-amazon.com/images/I/315bgTACS8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0117RFPAE-es Bose® SoundSport ® - Auriculares in-ear para Apple color...'
 sku: 'B0117RFPAE-es'
 tags: [ 'apple','auriculares', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 00:09:03
 image: 'https://m.media-amazon.com/images/I/418OKCK-vML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFPBLQ8-es Trust GXT 4376 - Ruptor Auriculares Gaming con Unidades...'
 sku: 'B07HFPBLQ8-es'
 tags: [ 'auriculares', ]

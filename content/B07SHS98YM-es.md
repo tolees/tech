@@ -5,7 +5,7 @@ date: 2020-09-18 06:19:40
 image: 'https://m.media-amazon.com/images/I/41d-NZh+W9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHS98YM-es Beelink BT3-X Mini PC Mini Ordenador de Sobremesa con...'
 sku: 'B07SHS98YM-es'
 tags: [ 'ordenador','wifi', ]

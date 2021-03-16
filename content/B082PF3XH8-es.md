@@ -5,7 +5,7 @@ date: 2020-08-17 16:11:05
 image: 'https://m.media-amazon.com/images/I/51SFa1oaX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PF3XH8-es Lenovo S540 - Ordenador portátil ultrafino 14" FullHD...'
 sku: 'B082PF3XH8-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

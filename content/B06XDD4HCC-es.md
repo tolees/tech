@@ -5,7 +5,7 @@ date: 2020-03-19 22:25:14
 image: 'https://m.media-amazon.com/images/I/413ezpvqgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDD4HCC-es Samsung SWA-9000S/EN- Altavoces 2.0 canales Negro'
 sku: 'B06XDD4HCC-es'
 tags: [ 'samsung', ]

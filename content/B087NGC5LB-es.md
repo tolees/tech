@@ -5,7 +5,7 @@ date: 2020-06-22 03:45:38
 image: 'https://m.media-amazon.com/images/I/41IA6y-BobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NGC5LB-es StillCool Cámara Web Full HD 1080P con Micrófono USB 2.0...'
 sku: 'B087NGC5LB-es'
 tags: [ '1080p','full','hd', ]

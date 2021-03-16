@@ -5,7 +5,7 @@ date: 2020-05-30 08:15:39
 image: 'https://m.media-amazon.com/images/I/41b1urh0a0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822VSCV6-es Funda para Xiaomi Mi Note 10 / Note 10 Pro 360 Grados...'
 sku: 'B0822VSCV6-es'
 tags: [ 'xiaomi', ]

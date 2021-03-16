@@ -5,7 +5,7 @@ date: 2020-04-28 14:38:09
 image: 'https://m.media-amazon.com/images/I/314M06aDoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8DXNBS-es HP Color Laserjet Pro M454dw - Impresora Láser Monocromo...'
 sku: 'B07S8DXNBS-es'
 tags: [ 'gigabit','impresora', ]

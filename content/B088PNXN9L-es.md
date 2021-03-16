@@ -5,7 +5,7 @@ date: 2020-09-24 09:27:58
 image: 'https://m.media-amazon.com/images/I/41zejPCATXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088PNXN9L-es ASUS TUF Gaming FX505DV-AL116 - Ordenador portátil de...'
 sku: 'B088PNXN9L-es'
 tags: [ 'asus','ordenador','ram','teclado', ]

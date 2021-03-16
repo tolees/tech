@@ -5,7 +5,7 @@ date: 2020-07-01 08:19:43
 image: 'https://m.media-amazon.com/images/I/41SsW1MbhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q57CQ2B-es Abridor de Puerta Garaje Inteligente Wifi Maxcio Garaje...'
 sku: 'B07Q57CQ2B-es'
 tags: [ 'wifi', ]

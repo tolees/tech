@@ -5,7 +5,7 @@ date: 2020-09-29 00:17:45
 image: 'https://m.media-amazon.com/images/I/518e3f86NWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQRSQQT-es Suunto 9 Baro Reloj deportivo GPS con batería de larga...'
 sku: 'B07HQRSQQT-es'
 tags: [ 'gps','suunto', ]

@@ -5,7 +5,7 @@ date: 2020-07-06 21:50:20
 image: 'https://m.media-amazon.com/images/I/313IcmqH8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF9M2PK-es HyperX Fury HX432C16FB3AK2/16 Memoria RAM DIMM DDR4 Kit...'
 sku: 'B07WF9M2PK-es'
 tags: [ 'ram', ]

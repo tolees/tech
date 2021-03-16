@@ -5,7 +5,7 @@ date: 2020-07-09 03:33:44
 image: 'https://m.media-amazon.com/images/I/41xGRYL2kYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGD48PZ-es G-Color Laptop Stand / Soporte / Stand Portátil y...'
 sku: 'B07RGD48PZ-es'
 tags: [ 'ordenador', ]

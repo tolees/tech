@@ -5,7 +5,7 @@ date: 2020-02-10 20:28:43
 image: 'https://m.media-amazon.com/images/I/41q+xS3BUVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J2PLBK-es Lenovo L24q-10 - Monitor de 60 45 cm 23 8 " QHD 2560 x...'
 sku: 'B072J2PLBK-es'
 tags: [ 'lenovo', ]

@@ -5,7 +5,7 @@ date: 2020-04-22 05:08:07
 image: 'https://m.media-amazon.com/images/I/416f4BJ0gaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HPMGAFA-es Tamron SP 150-600 MM F/5-6 3 Di VC USD - Objetivo para...'
 sku: 'B00HPMGAFA-es'
 tags: [ 'nikon', ]

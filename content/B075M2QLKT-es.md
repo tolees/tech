@@ -5,7 +5,7 @@ date: 2020-06-14 22:05:10
 image: 'https://m.media-amazon.com/images/I/51P8ndnBrfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075M2QLKT-es STAROVER Reemplazo Cartucho de Tóner Compatible para HP...'
 sku: 'B075M2QLKT-es'
 tags: [ 'impresora', ]

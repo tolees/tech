@@ -5,7 +5,7 @@ date: 2020-08-07 04:15:42
 image: 'https://m.media-amazon.com/images/I/51ENEdQByEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J8E8YES-es HyperX Fury - Memoria RAM de 16 GB 1600 MHz DDR3 Non-ECC...'
 sku: 'B00J8E8YES-es'
 tags: [ 'ram', ]

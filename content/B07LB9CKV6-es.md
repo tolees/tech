@@ -5,7 +5,7 @@ date: 2020-08-25 16:50:17
 image: 'https://m.media-amazon.com/images/I/31f+nmLX1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB9CKV6-es Lenovo Yoga 530-14ARR - Portátil Táctil Convertible de 14"...'
 sku: 'B07LB9CKV6-es'
 tags: [ 'lenovo','ram','teclado', ]

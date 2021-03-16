@@ -5,7 +5,7 @@ date: 2020-09-17 09:32:16
 image: 'https://m.media-amazon.com/images/I/31zrauUgoJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OM2NKRC-es HOMCOM Silla de Juego Escitorio Silla Giratorio de...'
 sku: 'B00OM2NKRC-es'
 tags: [ 'ordenador', ]

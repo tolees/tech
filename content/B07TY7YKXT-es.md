@@ -5,7 +5,7 @@ date: 2020-08-01 22:19:53
 image: 'https://m.media-amazon.com/images/I/41rj61ibpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY7YKXT-es Lenovo Legion Y540 - Ordenador portatil Gaming de 15.6"...'
 sku: 'B07TY7YKXT-es'
 tags: [ 'full','hd','lenovo','ordenador','ram', ]

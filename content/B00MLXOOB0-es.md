@@ -5,7 +5,7 @@ date: 2020-05-26 10:09:27
 image: 'https://m.media-amazon.com/images/I/51NBmmj708L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MLXOOB0-es Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20 W con...'
 sku: 'B00MLXOOB0-es'
 tags: [ 'bluetooth','sony', ]

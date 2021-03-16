@@ -5,7 +5,7 @@ date: 2020-07-12 02:01:58
 image: 'https://m.media-amazon.com/images/I/31362DnDh0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZZQGV3-es Corsair MM100 - Alfombrilla de ratón para Juego Superficie...'
 sku: 'B077ZZQGV3-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:57:07
 image: 'https://m.media-amazon.com/images/I/5154w3vBJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLC2B3G-es Aioneus Cargador iPhone 5Pack Cable iPhone 1+1+1.5+1.5+2 M...'
 sku: 'B07TLC2B3G-es'
 tags: [ 'iphone', ]

@@ -5,7 +5,7 @@ date: 2020-09-06 11:50:01
 image: 'https://m.media-amazon.com/images/I/518GXW6rwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00THPJ4R4-es Sigma 24 mm/F 1.4 DG HSM Art - Objetivo para Nikon Color...'
 sku: 'B00THPJ4R4-es'
 tags: [ 'nikon', ]

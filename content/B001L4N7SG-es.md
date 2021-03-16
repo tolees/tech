@@ -5,7 +5,7 @@ date: 2020-08-21 11:36:59
 image: 'https://m.media-amazon.com/images/I/31OYA+YrIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001L4N7SG-es Panasonic RP-HS47E-W - Auriculares de Clip Compactos...'
 sku: 'B001L4N7SG-es'
 tags: [ 'auriculares','panasonic', ]

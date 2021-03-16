@@ -5,7 +5,7 @@ date: 2020-01-06 19:22:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVtJGw3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074D5NXT7-es Numark DJ2GO2 - Controlador de DJ Ultraportátil de 2...'
 sku: 'B074D5NXT7-es'
 tags: [ 'auriculares', ]

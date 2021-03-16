@@ -5,7 +5,7 @@ date: 2020-02-03 06:34:47
 image: 'https://m.media-amazon.com/images/I/41sWM9QfNCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN5L1HT-es XYC EC USB C a HDMI y VGA 4 en 1 Hub Tipo C a VGA HDMI 4K...'
 sku: 'B07PN5L1HT-es'
 tags: [ 'dell','huawei','samsung', ]

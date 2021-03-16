@@ -5,7 +5,7 @@ date: 2020-06-13 08:08:25
 image: 'https://m.media-amazon.com/images/I/51H5mzKeFTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPDGW8B-es J Jecent Cable USB Tipo C [3-Pack] 3.3 ft/1M Trenzado de...'
 sku: 'B07BPDGW8B-es'
 tags: [ 'galaxy','samsung','sony', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 09:09:26
 image: 'https://m.media-amazon.com/images/I/41L2D8gdmsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTY81CD-es K KYUER 47WH PA5013U-1BRS Batería para Toshiba Portege...'
 sku: 'B07PTY81CD-es'
 tags: [ 'toshiba', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 14:02:14
 image: 'https://m.media-amazon.com/images/I/31A6nFk1tqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HCYTRCY-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
 sku: 'B00HCYTRCY-es'
 tags: [ 'ratón', ]

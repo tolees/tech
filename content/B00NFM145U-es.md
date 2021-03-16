@@ -5,7 +5,7 @@ date: 2020-01-29 13:12:55
 image: 'https://m.media-amazon.com/images/I/41MbPqsHeYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFM145U-es Pioneer X-PM12 - Microcadena 38 W estéreo Bluetooth USB...'
 sku: 'B00NFM145U-es'
 tags: [ 'bluetooth','pioneer', ]

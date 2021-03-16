@@ -5,7 +5,7 @@ date: 2020-02-05 19:07:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE8TWmxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TJS0SR4-es Sony ICF-S80 - Radio de Ducha de 0.5W Blanco'
 sku: 'B00TJS0SR4-es'
 tags: [ 'sony', ]

@@ -5,7 +5,7 @@ date: 2020-04-12 10:50:36
 image: 'https://m.media-amazon.com/images/I/41MwmC6UfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5ARU9A-es Ink Seller - Cartuchos de tinta para impresora compatibles...'
 sku: 'B01N5ARU9A-es'
 tags: [ 'impresora', ]

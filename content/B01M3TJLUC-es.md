@@ -5,7 +5,7 @@ date: 2020-01-15 11:22:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JSD3qcUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3TJLUC-es UBMSA cargador unicornio 2600mAh Cargadores Horse portátil...'
 sku: 'B01M3TJLUC-es'
 tags: [ 'iphone','samsung', ]

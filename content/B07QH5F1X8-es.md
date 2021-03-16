@@ -5,7 +5,7 @@ date: 2020-03-28 07:15:22
 image: 'https://m.media-amazon.com/images/I/41tZiT9f3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH5F1X8-es UGREEN Cable Cargador iPhone 90 Grados Cable Lightning...'
 sku: 'B07QH5F1X8-es'
 tags: [ 'apple','iphone', ]

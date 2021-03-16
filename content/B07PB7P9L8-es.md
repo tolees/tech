@@ -5,7 +5,7 @@ date: 2020-09-30 19:15:50
 image: 'https://m.media-amazon.com/images/I/41O82IkQTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB7P9L8-es TAIFU 19V 3 42A Adaptador Cargador para Portátil ASUS...'
 sku: 'B07PB7P9L8-es'
 tags: [ 'asus', ]

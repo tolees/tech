@@ -5,7 +5,7 @@ date: 2020-08-12 15:19:08
 image: 'https://m.media-amazon.com/images/I/31G7QNL5kzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTK8X4M-es Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica...'
 sku: 'B07ZTK8X4M-es'
 tags: [ 'iphone','samsung', ]

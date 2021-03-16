@@ -5,7 +5,7 @@ date: 2020-08-12 13:31:07
 image: 'https://m.media-amazon.com/images/I/51CIctlm56L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MRMMQG-es Altavoz portátil Micrófono con altavoz USB de Kaysuda para...'
 sku: 'B078MRMMQG-es'
 tags: [ 'altavoz','microsoft', ]

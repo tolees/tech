@@ -5,7 +5,7 @@ date: 2020-08-22 08:01:11
 image: 'https://m.media-amazon.com/images/I/41x4pUZ8HBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GSPZ8V-es Xinda Huawei MediaPad T3 8.0 Funda - Ultra delgado ligero...'
 sku: 'B071GSPZ8V-es'
 tags: [ 'huawei','tablet', ]

@@ -5,7 +5,7 @@ date: 2020-04-13 00:43:14
 image: 'https://m.media-amazon.com/images/I/412vTPpTjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HH8A2D8-es Sony HDR-CX240E - Videocámara color negro'
 sku: 'B00HH8A2D8-es'
 tags: [ 'sony', ]

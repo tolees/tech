@@ -5,7 +5,7 @@ date: 2020-10-02 01:41:54
 image: 'https://m.media-amazon.com/images/I/4191HoQyksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKWCJVL-es Xuanbeier Ultra Delgado Funda Compatible con Samsung...'
 sku: 'B08DKWCJVL-es'
 tags: [ 'galaxy','samsung', ]

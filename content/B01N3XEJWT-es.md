@@ -5,7 +5,7 @@ date: 2020-10-07 19:07:34
 image: 'https://m.media-amazon.com/images/I/31FcfS6Sl7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3XEJWT-es Kyocera Ecosys M2635dn Impresora monocromática Todo en uno...'
 sku: 'B01N3XEJWT-es'
 tags: [ 'impresora','móvil','smartphone','tablet', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 01:16:38
 image: 'https://m.media-amazon.com/images/I/31kOhF-6IrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQQ42Q8-es Lenovo Yoga 530-14IKB - Ordenador Portátil táctil...'
 sku: 'B07FQQ42Q8-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

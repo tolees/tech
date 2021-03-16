@@ -5,7 +5,7 @@ date: 2020-05-16 07:53:23
 image: 'https://m.media-amazon.com/images/I/41FTzNYdTgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQCJPYS-es ESR Funda para iPad Air 3ª generación 2019/ iPad 2019 con...'
 sku: 'B07NQCJPYS-es'
 tags: [ 'apple', ]

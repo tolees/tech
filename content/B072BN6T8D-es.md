@@ -5,7 +5,7 @@ date: 2020-07-28 18:59:46
 image: 'https://m.media-amazon.com/images/I/31Z7F2pokqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BN6T8D-es Samsung Mc28M6055CS/EC - Horno-Microondas con grill...'
 sku: 'B072BN6T8D-es'
 tags: [ 'samsung', ]

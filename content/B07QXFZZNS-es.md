@@ -5,7 +5,7 @@ date: 2020-03-30 18:08:13
 image: 'https://m.media-amazon.com/images/I/51iCDg9ikYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXFZZNS-es Brazalete deportivo Universal Impermeable Teléfono Móvil...'
 sku: 'B07QXFZZNS-es'
 tags: [ 'móvil', ]

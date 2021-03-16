@@ -5,7 +5,7 @@ date: 2020-05-05 12:13:54
 image: 'https://m.media-amazon.com/images/I/41giB5Z9wgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYM8X3X-es Philips 327E8QJAB - Monitor de 32" FHD resolucion 1920 x...'
 sku: 'B06ZYM8X3X-es'
 tags: [ 'ips', ]

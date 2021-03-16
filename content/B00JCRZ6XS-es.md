@@ -5,7 +5,7 @@ date: 2020-10-06 00:49:30
 image: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JCRZ6XS-es Crucial CT2K102464BF186D Kit de memoria RAM de 16 GB 8 GB...'
 sku: 'B00JCRZ6XS-es'
 tags: [ 'ram', ]

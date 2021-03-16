@@ -5,7 +5,7 @@ date: 2020-07-12 02:05:33
 image: 'https://m.media-amazon.com/images/I/41cxaDypHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXRWWB6-es Seagate BarraCuda 2TB Disco duro interno HDD 2 5 in SATA 6...'
 sku: 'B01LXRWWB6-es'
 tags: [ 'disco','duro','ordenador', ]

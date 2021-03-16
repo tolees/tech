@@ -5,7 +5,7 @@ date: 2020-09-16 19:44:29
 image: 'https://m.media-amazon.com/images/I/51u97c5VivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FB6PKC-es Tamron SP AF 90 mm F/2.8 di Macro 1:1 - Objetivo para...'
 sku: 'B001FB6PKC-es'
 tags: [ 'nikon', ]

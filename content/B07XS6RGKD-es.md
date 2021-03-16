@@ -5,7 +5,7 @@ date: 2020-10-11 06:29:30
 image: 'https://m.media-amazon.com/images/I/51BhsCyyBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS6RGKD-es Lenovo Q24i-10 23.8 " FHD IPS FreeSync Gaming Monitor 75...'
 sku: 'B07XS6RGKD-es'
 tags: [ 'ips','lenovo', ]

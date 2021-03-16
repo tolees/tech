@@ -5,7 +5,7 @@ date: 2020-05-29 07:35:58
 image: 'https://m.media-amazon.com/images/I/41ml4vFXjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G76RDBH-es PRIXTON - Tocadiscos de Vinilos Vintage y Reproductor mp3...'
 sku: 'B07G76RDBH-es'
 tags: [ 'bluetooth', ]

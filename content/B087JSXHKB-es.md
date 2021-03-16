@@ -5,7 +5,7 @@ date: 2020-09-28 00:06:13
 image: 'https://m.media-amazon.com/images/I/41tjB3-eUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JSXHKB-es Magnético Cable USB Tipo C RAVIAD [2 Pack 1M] Magnetico...'
 sku: 'B087JSXHKB-es'
 tags: [ 'galaxy','huawei','xiaomi', ]

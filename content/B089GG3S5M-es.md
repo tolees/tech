@@ -5,7 +5,7 @@ date: 2020-10-04 13:13:13
 image: 'https://m.media-amazon.com/images/I/41hzAaUV92L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GG3S5M-es TACKLIFE Trípode de Cámara 48cm-1.5m 360° Trípode Portátil...'
 sku: 'B089GG3S5M-es'
 tags: [ 'bluetooth', ]

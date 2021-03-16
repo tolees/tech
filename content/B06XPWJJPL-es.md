@@ -5,7 +5,7 @@ date: 2020-07-17 13:01:47
 image: 'https://m.media-amazon.com/images/I/51RCuz+j-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPWJJPL-es Samsung M471A1K43CB1-CRC 8GB DDR4 2400MH módulo de Memoria...'
 sku: 'B06XPWJJPL-es'
 tags: [ 'samsung', ]

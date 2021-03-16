@@ -5,7 +5,7 @@ date: 2020-09-25 17:30:29
 image: 'https://m.media-amazon.com/images/I/31edvtr552L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQBFXY-es Corsair Harpoon RGB PRO Óptico Ratón Para Juegos USB...'
 sku: 'B07RDQBFXY-es'
 tags: [ 'ratón', ]

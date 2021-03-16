@@ -5,7 +5,7 @@ date: 2020-08-30 18:48:27
 image: 'https://m.media-amazon.com/images/I/41JEq7IQaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886CYPHP-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
 sku: 'B0886CYPHP-es'
 tags: [ 'auriculares','bluetooth', ]

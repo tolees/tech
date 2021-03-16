@@ -5,7 +5,7 @@ date: 2020-09-24 07:58:52
 image: 'https://m.media-amazon.com/images/I/51OgV8qNHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Y1T3FQ-es Tinta Original CaNON Multipack Rp-108 Tinta Color + Papel...'
 sku: 'B075Y1T3FQ-es'
 tags: [ 'canon', ]

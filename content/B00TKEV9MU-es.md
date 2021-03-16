@@ -5,7 +5,7 @@ date: 2020-08-21 16:54:48
 image: 'https://m.media-amazon.com/images/I/31FkIPLNciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKEV9MU-es Sony ICD-TX650 - Grabadora de voz digital ultra delgada de...'
 sku: 'B00TKEV9MU-es'
 tags: [ 'sony', ]

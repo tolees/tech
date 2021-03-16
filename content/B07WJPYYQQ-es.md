@@ -5,7 +5,7 @@ date: 2020-04-10 16:09:26
 image: 'https://m.media-amazon.com/images/I/510JC6RiBTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJPYYQQ-es Mars Gaming MKXTKL teclado mecánico switch rojo LED 5...'
 sku: 'B07WJPYYQQ-es'
 tags: [ 'teclado', ]

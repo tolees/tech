@@ -5,7 +5,7 @@ date: 2020-09-13 23:03:09
 image: 'https://m.media-amazon.com/images/I/41xjfR2J-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2WWP8F-es AVIWIS Compatible with Samsung Huawei OnePlus 6T Kindle...'
 sku: 'B07W2WWP8F-es'
 tags: [ 'huawei','kindle','samsung', ]

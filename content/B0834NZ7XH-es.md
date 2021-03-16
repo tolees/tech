@@ -5,7 +5,7 @@ date: 2020-10-03 08:27:05
 image: 'https://m.media-amazon.com/images/I/31Rlq3xK+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834NZ7XH-es UGREEN HUB USB C 6 En 1 Adaptador USB C a 4K HDMI 2...'
 sku: 'B0834NZ7XH-es'
 tags: [ 'dell', ]

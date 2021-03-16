@@ -5,7 +5,7 @@ date: 2020-01-31 09:11:23
 image: 'https://m.media-amazon.com/images/I/31v6hA6GUUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZZ7NGN-es Symphonized DRV Bluetooth Auriculares de tapón...'
 sku: 'B07GZZ7NGN-es'
 tags: [ 'auriculares','bluetooth', ]

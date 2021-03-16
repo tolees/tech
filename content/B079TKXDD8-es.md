@@ -5,7 +5,7 @@ date: 2020-08-22 08:34:47
 image: 'https://m.media-amazon.com/images/I/41Cp888DH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TKXDD8-es Cable guy Groot soporte de sujeción o carga para mando de...'
 sku: 'B079TKXDD8-es'
 tags: [ 'smartphone', ]

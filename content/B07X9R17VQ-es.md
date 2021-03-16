@@ -5,7 +5,7 @@ date: 2020-04-28 17:17:17
 image: 'https://m.media-amazon.com/images/I/4195Ln2o1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil...'
 sku: 'B07X9R17VQ-es'
 tags: [ 'huawei','iphone','samsung', ]

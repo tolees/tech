@@ -5,7 +5,7 @@ date: 2020-04-08 16:48:32
 image: 'https://m.media-amazon.com/images/I/31EJM1rcXfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005GGQWS2-es Panasonic KX-TG1611 - Teléfono fijo inalámbrico LCD...'
 sku: 'B005GGQWS2-es'
 tags: [ 'panasonic', ]

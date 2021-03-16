@@ -5,7 +5,7 @@ date: 2020-10-12 22:02:11
 image: 'https://m.media-amazon.com/images/I/41HgljiFA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XSGPN8X-es Ufesa RD2500D WIFI - Radiador de Aceite Wifi & App con...'
 sku: 'B07XSGPN8X-es'
 tags: [ 'wifi', ]

@@ -5,7 +5,7 @@ date: 2020-03-07 20:31:31
 image: 'https://m.media-amazon.com/images/I/415aHRUPMYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLT36Q8-es Fujifilm X-T30 Cuerpo cámara de Objetivo Intercambiable...'
 sku: 'B07NLT36Q8-es'
 tags: [ 'fujifilm', ]

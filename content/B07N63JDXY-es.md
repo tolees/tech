@@ -5,7 +5,7 @@ date: 2020-04-16 18:14:53
 image: 'https://m.media-amazon.com/images/I/31QdD5Hhk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N63JDXY-es AP35 Mini PC Desktop License Windows 10 Multimedia Office...'
 sku: 'B07N63JDXY-es'
 tags: [ 'ram','wifi', ]

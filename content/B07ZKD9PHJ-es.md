@@ -5,7 +5,7 @@ date: 2020-03-27 10:28:44
 image: 'https://m.media-amazon.com/images/I/31GrHBVin2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKD9PHJ-es Ratón inalámbrico recargable wireless mouse inphic mouse...'
 sku: 'B07ZKD9PHJ-es'
 tags: [ 'ratón', ]

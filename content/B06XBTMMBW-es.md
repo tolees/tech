@@ -5,7 +5,7 @@ date: 2020-09-23 06:15:58
 image: 'https://m.media-amazon.com/images/I/41iEa4vHmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XBTMMBW-es Sony SRS-XB10 Altavoz Inalámbrico Portátil Bluetooth Azul'
 sku: 'B06XBTMMBW-es'
 tags: [ 'altavoz','bluetooth','sony', ]

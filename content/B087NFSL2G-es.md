@@ -5,7 +5,7 @@ date: 2020-07-10 22:10:21
 image: 'https://m.media-amazon.com/images/I/41jqO5MOkGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NFSL2G-es Tapa Webcam 8 Piezas Cubierta Camara Portatil KIWI design...'
 sku: 'B087NFSL2G-es'
 tags: [ 'iphone','smartphone', ]

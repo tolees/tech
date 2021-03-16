@@ -5,7 +5,7 @@ date: 2020-09-11 08:02:43
 image: 'https://m.media-amazon.com/images/I/413+0ApHVDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P2QPT9Y-es Energy Sistem Music Box BZ6 - Altavoz con Bluetooth y...'
 sku: 'B00P2QPT9Y-es'
 tags: [ 'altavoz','bluetooth', ]

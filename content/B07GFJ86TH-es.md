@@ -5,7 +5,7 @@ date: 2020-03-23 06:48:31
 image: 'https://m.media-amazon.com/images/I/31ROs7kl4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFJ86TH-es Panasonic Lumix DC-LX100 II - Cámara Compacta Premium de...'
 sku: 'B07GFJ86TH-es'
 tags: [ 'bluetooth','panasonic','wifi', ]

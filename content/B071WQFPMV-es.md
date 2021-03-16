@@ -5,7 +5,7 @@ date: 2020-09-22 09:22:44
 image: 'https://m.media-amazon.com/images/I/51lgy9gCqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WQFPMV-es DYNASONIC - Altavoz Karaoke Bluetooth 10W Color Rosa |...'
 sku: 'B071WQFPMV-es'
 tags: [ 'altavoz','bluetooth', ]

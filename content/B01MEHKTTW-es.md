@@ -5,7 +5,7 @@ date: 2020-07-19 16:23:45
 image: 'https://m.media-amazon.com/images/I/41SqZLItmfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEHKTTW-es Tecnoware Sistema de alimentación ininterrumpida SAI Era...'
 sku: 'B01MEHKTTW-es'
 tags: [ 'wifi', ]

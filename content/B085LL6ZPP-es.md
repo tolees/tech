@@ -5,7 +5,7 @@ date: 2020-07-17 13:14:14
 image: 'https://m.media-amazon.com/images/I/316CgRGa8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LL6ZPP-es MKTOSASA - Original cubitera con Potente Altavoz de 5W de...'
 sku: 'B085LL6ZPP-es'
 tags: [ 'altavoz', ]

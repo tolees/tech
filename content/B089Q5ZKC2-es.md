@@ -5,7 +5,7 @@ date: 2020-10-05 00:08:15
 image: 'https://m.media-amazon.com/images/I/518qLVFHtIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Q5ZKC2-es GREENSKY Cartucho de Tinta de Repuesto para Epson 502XL...'
 sku: 'B089Q5ZKC2-es'
 tags: [ 'impresora', ]

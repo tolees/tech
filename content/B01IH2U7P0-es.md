@@ -5,7 +5,7 @@ date: 2020-09-23 04:00:48
 image: 'https://m.media-amazon.com/images/I/41sFwk6b8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IH2U7P0-es SODIAL 5 PCS de 3.5 pulgadas IDE Portatil Sata HDD Estuche...'
 sku: 'B01IH2U7P0-es'
 tags: [ 'disco','duro', ]

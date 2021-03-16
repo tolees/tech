@@ -5,7 +5,7 @@ date: 2020-02-19 09:21:30
 image: 'https://m.media-amazon.com/images/I/413yFjCyLfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DYCHQFC-es Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth...'
 sku: 'B01DYCHQFC-es'
 tags: [ 'altavoz','bluetooth', ]

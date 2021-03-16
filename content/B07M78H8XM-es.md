@@ -5,7 +5,7 @@ date: 2020-02-06 23:22:03
 image: 'https://m.media-amazon.com/images/I/419h8a+q9bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M78H8XM-es MSI GS65 Stealth 8SG-031ES - Ordenador portátil Gaming...'
 sku: 'B07M78H8XM-es'
 tags: [ 'ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 18:13:40
 image: 'https://m.media-amazon.com/images/I/41Q0d27G4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR2MP71-es SeeKool Receptor WiFi AC600 Dual Band 5.8 GHz 600Mbps o 2...'
 sku: 'B07SR2MP71-es'
 tags: [ 'wifi', ]

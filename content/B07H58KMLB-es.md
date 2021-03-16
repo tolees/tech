@@ -5,7 +5,7 @@ date: 2020-10-10 16:13:21
 image: 'https://m.media-amazon.com/images/I/416iX8eozJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H58KMLB-es Garmin Instinct - Reloj con GPS Unisex Rojo 1'
 sku: 'B07H58KMLB-es'
 tags: [ 'garmin','gps', ]

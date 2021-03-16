@@ -5,7 +5,7 @@ date: 2020-01-30 15:55:00
 image: 'https://m.media-amazon.com/images/I/41MieFBjLNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDFBLXJ-es Panasonic KX-TU150EXR - Teléfono Móvil Dual SIm Pantalla...'
 sku: 'B07DDFBLXJ-es'
 tags: [ 'móvil','panasonic', ]

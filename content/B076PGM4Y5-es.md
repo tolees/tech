@@ -5,7 +5,7 @@ date: 2020-09-15 05:01:47
 image: 'https://m.media-amazon.com/images/I/51CTJOi9O-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PGM4Y5-es Transcend MTS420S - SSD Disco Duro Solido de 240 GB M.2...'
 sku: 'B076PGM4Y5-es'
 tags: [ 'disco','duro', ]

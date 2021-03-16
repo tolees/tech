@@ -5,7 +5,7 @@ date: 2020-03-06 07:48:39
 image: 'https://m.media-amazon.com/images/I/318NoeMT9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THGN2BH-es Unico - Altavoz Bluetooth 5 0 Luces LED Altavoces...'
 sku: 'B07THGN2BH-es'
 tags: [ 'altavoz','bluetooth', ]

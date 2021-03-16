@@ -5,7 +5,7 @@ date: 2020-04-12 12:42:43
 image: 'https://m.media-amazon.com/images/I/41M0dV9dBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTW93RV-es Sennheiser RS175-U - Auriculares inalámbricos para...'
 sku: 'B07XTW93RV-es'
 tags: [ 'auriculares', ]

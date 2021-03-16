@@ -5,7 +5,7 @@ date: 2020-04-16 00:33:19
 image: 'https://m.media-amazon.com/images/I/41qji0NO5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGO49SI-es Suunto Core Red Rubber Strap Correa para Relojes Unisex...'
 sku: 'B00BGO49SI-es'
 tags: [ 'suunto', ]

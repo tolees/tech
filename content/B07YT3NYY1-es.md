@@ -5,7 +5,7 @@ date: 2020-06-03 21:13:33
 image: 'https://m.media-amazon.com/images/I/419prRDSQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YT3NYY1-es Redmi Note 8 Pro– Smartphone con Pantalla 6 53" FullHD+...'
 sku: 'B07YT3NYY1-es'
 tags: [ 'smartphone', ]

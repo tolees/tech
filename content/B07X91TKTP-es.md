@@ -5,7 +5,7 @@ date: 2020-07-13 18:06:59
 image: 'https://m.media-amazon.com/images/I/31qRnpaIlZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X91TKTP-es Panasonic Lumix G DC-GX880KECD - Cámara Evil de 16 MP M4/3...'
 sku: 'B07X91TKTP-es'
 tags: [ 'panasonic','wifi', ]

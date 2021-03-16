@@ -5,7 +5,7 @@ date: 2020-04-23 19:07:43
 image: 'https://m.media-amazon.com/images/I/51aWkB7CYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3FK8JK-es Autel MaxiSys MS906BT OBD2 Bluetooth Herramienta de...'
 sku: 'B07V3FK8JK-es'
 tags: [ 'bluetooth', ]

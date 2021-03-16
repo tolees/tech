@@ -5,7 +5,7 @@ date: 2020-10-02 22:48:30
 image: 'https://m.media-amazon.com/images/I/41gZyPYX4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG41Y8Z-es Monitor AOC Q3279VWFD8 - Pantalla para PC de 32" QHD...'
 sku: 'B07CG41Y8Z-es'
 tags: [ 'ips', ]

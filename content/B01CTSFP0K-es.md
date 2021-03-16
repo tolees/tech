@@ -5,7 +5,7 @@ date: 2020-08-22 20:15:43
 image: 'https://m.media-amazon.com/images/I/61ndrafyhUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CTSFP0K-es Arvok 13 13 3 Pulgadas Funda Protectora para...'
 sku: 'B01CTSFP0K-es'
 tags: [ 'ordenador', ]

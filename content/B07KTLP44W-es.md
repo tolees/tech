@@ -5,7 +5,7 @@ date: 2020-01-16 08:38:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41O11g%2BbVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTLP44W-es QNAP QNA-T310G1S - Adaptador Thunderbolt3 de un Puerto a...'
 sku: 'B07KTLP44W-es'
 tags: [ 'qnap', ]

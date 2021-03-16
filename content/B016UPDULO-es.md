@@ -5,7 +5,7 @@ date: 2020-09-07 22:52:42
 image: 'https://m.media-amazon.com/images/I/41fB8fo5nhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016UPDULO-es AOC E2270SWHN - Monitor de 21.5" Full HD resolución 1920 x...'
 sku: 'B016UPDULO-es'
 tags: [ 'full','hd', ]

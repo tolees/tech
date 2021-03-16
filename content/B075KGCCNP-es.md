@@ -5,7 +5,7 @@ date: 2020-05-31 12:28:40
 image: 'https://m.media-amazon.com/images/I/41l93XYzH+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KGCCNP-es Skyee [2 Unidades Soporte Movil Coche Magnético Pegar en...'
 sku: 'B075KGCCNP-es'
 tags: [ 'gps','smartphone', ]

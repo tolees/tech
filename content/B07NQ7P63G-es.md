@@ -5,7 +5,7 @@ date: 2020-08-17 00:22:09
 image: 'https://m.media-amazon.com/images/I/318s3TXZnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ7P63G-es SAMSUNG Galaxy Fit Pulsera de Actividad Negro AMOLED 2 41...'
 sku: 'B07NQ7P63G-es'
 tags: [ 'galaxy','samsung', ]

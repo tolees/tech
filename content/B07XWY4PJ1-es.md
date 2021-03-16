@@ -5,7 +5,7 @@ date: 2020-04-15 18:08:23
 image: 'https://m.media-amazon.com/images/I/41QGBYCGZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWY4PJ1-es Auriculares In Ear Zorara Auriculares Estéreo 9D Aislante...'
 sku: 'B07XWY4PJ1-es'
 tags: [ 'auriculares','estéreo', ]

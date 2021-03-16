@@ -5,7 +5,7 @@ date: 2020-08-15 00:38:57
 image: 'https://m.media-amazon.com/images/I/41MSlJd4aWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6DCH1K-es CHOETECH USB C a HDMI Adaptador[4k@60Hz] USB Tipo C a HDMI...'
 sku: 'B01N6DCH1K-es'
 tags: [ 'huawei','samsung', ]

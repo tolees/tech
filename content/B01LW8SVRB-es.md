@@ -5,7 +5,7 @@ date: 2020-06-01 13:51:25
 image: 'https://m.media-amazon.com/images/I/41aoVQ9HgUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW8SVRB-es Garmin vivofit Jr - Tracker de actividad para niños rojo'
 sku: 'B01LW8SVRB-es'
 tags: [ 'garmin', ]

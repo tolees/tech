@@ -5,7 +5,7 @@ date: 2020-03-05 10:03:01
 image: 'https://m.media-amazon.com/images/I/411bx0eQYGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QMBCY1-es HP OMEN 15-dh0018ns - Ordenador portátil de 15.6" FullHD...'
 sku: 'B081QMBCY1-es'
 tags: [ 'ordenador','ram','teclado', ]

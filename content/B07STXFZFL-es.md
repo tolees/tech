@@ -5,7 +5,7 @@ date: 2020-09-06 12:25:23
 image: 'https://m.media-amazon.com/images/I/412igb4uVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STXFZFL-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
 sku: 'B07STXFZFL-es'
 tags: [ 'apple','auriculares','bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 17:49:32
 image: 'https://m.media-amazon.com/images/I/312yOyoxM3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWGDBDY-es Brother ADS2800W - Escáner departamental de alta velocidad...'
 sku: 'B01AWGDBDY-es'
 tags: [ 'wifi', ]

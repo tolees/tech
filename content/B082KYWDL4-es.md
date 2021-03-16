@@ -5,7 +5,7 @@ date: 2020-05-31 12:34:01
 image: 'https://m.media-amazon.com/images/I/51o-gSv7lQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el...'
 sku: 'B082KYWDL4-es'
 tags: [ 'iphone', ]

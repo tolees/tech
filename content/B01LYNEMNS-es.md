@@ -5,7 +5,7 @@ date: 2020-02-03 20:48:21
 image: 'https://m.media-amazon.com/images/I/41htgGuQxEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYNEMNS-es Metz 311184 - Flash M400 para Pentax ISO 100 y 105 mm luz...'
 sku: 'B01LYNEMNS-es'
 tags: [ 'pentax', ]

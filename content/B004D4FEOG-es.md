@@ -5,7 +5,7 @@ date: 2020-09-30 11:02:28
 image: 'https://m.media-amazon.com/images/I/51tXTHVRohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004D4FEOG-es GO Inks E-711 – Juego de 4 cartuchos de tinta para...'
 sku: 'B004D4FEOG-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-07-18 12:02:46
 image: 'https://m.media-amazon.com/images/I/41S2jb9EBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OS823HI-es Motorola Baby MBP 33S - Vigilabebés vídeo con pantalla LCD...'
 sku: 'B00OS823HI-es'
 tags: [ 'motorola', ]

@@ -5,7 +5,7 @@ date: 2020-05-24 07:32:42
 image: 'https://m.media-amazon.com/images/I/41U94HvtlCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULNENTA-es Sony ZS-RS60BT - Radio Boombox CD de 4W estéreo USB...'
 sku: 'B00ULNENTA-es'
 tags: [ 'bluetooth','sony', ]

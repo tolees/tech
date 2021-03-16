@@ -5,7 +5,7 @@ date: 2020-07-07 12:06:00
 image: 'https://m.media-amazon.com/images/I/41lcL6S0sXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H884WQT-es ACEPC Mini PC Windows 10 Pro Intel Atom x5-Z8350...'
 sku: 'B07H884WQT-es'
 tags: [ 'ram', ]

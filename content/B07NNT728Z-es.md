@@ -5,7 +5,7 @@ date: 2020-03-07 20:31:47
 image: 'https://m.media-amazon.com/images/I/417J-fIFhKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNT728Z-es Fujifilm X-T30 Kit cámara con Objetivo Intercambiable...'
 sku: 'B07NNT728Z-es'
 tags: [ 'fujifilm', ]

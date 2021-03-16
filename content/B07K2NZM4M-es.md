@@ -5,7 +5,7 @@ date: 2020-02-19 16:47:39
 image: 'https://m.media-amazon.com/images/I/41QNzMvYUJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2NZM4M-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
 sku: 'B07K2NZM4M-es'
 tags: [ 'apple','ram', ]

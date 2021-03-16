@@ -5,7 +5,7 @@ date: 2020-09-15 16:41:38
 image: 'https://m.media-amazon.com/images/I/413N81x2zsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XW4C5Q-es Withings Body+ Báscula inteligente con conexión Wi-Fi...'
 sku: 'B071XW4C5Q-es'
 tags: [ 'bluetooth','móvil','withings', ]

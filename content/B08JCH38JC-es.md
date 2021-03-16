@@ -5,7 +5,7 @@ date: 2020-09-17 15:11:34
 image: 'https://m.media-amazon.com/images/I/311hppX1RzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JCH38JC-es Ratón Vertical ergonómico inalámbrico de 2 4G 6 Botones...'
 sku: 'B08JCH38JC-es'
 tags: [ 'ordenador','ratón', ]

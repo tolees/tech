@@ -5,7 +5,7 @@ date: 2020-06-29 14:50:15
 image: 'https://m.media-amazon.com/images/I/41pmarnjSuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9ZRPPK-es Bluedio T7 Auriculares Bluetooth Cancelación de Ruido...'
 sku: 'B07Q9ZRPPK-es'
 tags: [ 'auriculares','bluetooth', ]

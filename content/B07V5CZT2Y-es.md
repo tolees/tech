@@ -5,7 +5,7 @@ date: 2020-02-20 13:24:52
 image: 'https://m.media-amazon.com/images/I/51drkPbT2EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5CZT2Y-es WiMiUS Cámara de Caza 16MP 1080P Camara Caza con 940nm...'
 sku: 'B07V5CZT2Y-es'
 tags: [ '1080p', ]

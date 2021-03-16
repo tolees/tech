@@ -5,7 +5,7 @@ date: 2020-05-30 11:19:10
 image: 'https://m.media-amazon.com/images/I/516smO4A1hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVXH1W2-es TENGGO Reemplazo De Banda De Reloj Pulsera Correa De...'
 sku: 'B07DVXH1W2-es'
 tags: [ 'garmin', ]

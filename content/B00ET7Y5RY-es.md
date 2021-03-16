@@ -5,7 +5,7 @@ date: 2020-05-19 16:07:37
 image: 'https://m.media-amazon.com/images/I/41eeLpg0XGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ET7Y5RY-es Canon PG-545 Cartucho de tinta original Negro para...'
 sku: 'B00ET7Y5RY-es'
 tags: [ 'canon','impresora', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 20:50:14
 image: 'https://m.media-amazon.com/images/I/416ADkdFo0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8XZ6SF-es Skechers Girls Go Walk 4- Kindle Low-Top Sneakers Black...'
 sku: 'B01N8XZ6SF-es'
 tags: [ 'kindle', ]

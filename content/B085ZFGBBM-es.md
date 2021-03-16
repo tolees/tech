@@ -5,7 +5,7 @@ date: 2020-08-02 18:39:04
 image: 'https://m.media-amazon.com/images/I/410bWEfZkmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZFGBBM-es SUMKUMY Cargador Coche USB Carga Rápida QC3.0 [7 en 1] 4...'
 sku: 'B085ZFGBBM-es'
 tags: [ 'gps','iphone', ]

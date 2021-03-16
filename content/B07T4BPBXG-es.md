@@ -5,7 +5,7 @@ date: 2020-08-17 09:13:01
 image: 'https://m.media-amazon.com/images/I/31Ta4RZsN2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4BPBXG-es HP Wireless Mouse 220 3FV66AA - Ratón inalámbrico Color Negro'
 sku: 'B07T4BPBXG-es'
 tags: [ 'ratón', ]

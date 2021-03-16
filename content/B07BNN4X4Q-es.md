@@ -5,7 +5,7 @@ date: 2020-01-13 17:16:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhYad78CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNN4X4Q-es Garmin dēzl 780 LMT-D Fijo 6.95" TFT Pantalla táctil 437g...'
 sku: 'B07BNN4X4Q-es'
 tags: [ 'garmin','gps','microsd', ]

@@ -5,7 +5,7 @@ date: 2020-04-13 07:28:54
 image: 'https://m.media-amazon.com/images/I/417p8jjL4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZMHWLK-es Vernee M7 2019 Teléfono Móvil Libre Dual SIM 4GB RAM 64GB...'
 sku: 'B07VZMHWLK-es'
 tags: [ 'móvil','ram','smartphone', ]

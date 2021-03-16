@@ -5,7 +5,7 @@ date: 2020-09-20 22:17:14
 image: 'https://m.media-amazon.com/images/I/417VQHISdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSNWQ45-es Brother MFC-L3770CDW - Impresora multifunción Wifi USB 2.0...'
 sku: 'B07GSNWQ45-es'
 tags: [ 'impresora','wifi', ]

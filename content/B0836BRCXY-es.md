@@ -5,7 +5,7 @@ date: 2020-06-06 13:09:33
 image: 'https://m.media-amazon.com/images/I/31zIknaaUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836BRCXY-es WiFi repetidor Extensor de Red WiFi -300Mbps Mini Wireless...'
 sku: 'B0836BRCXY-es'
 tags: [ 'wifi', ]

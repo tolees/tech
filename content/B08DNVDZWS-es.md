@@ -5,7 +5,7 @@ date: 2020-09-21 22:56:44
 image: 'https://m.media-amazon.com/images/I/512RmjxLicL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNVDZWS-es Altavoz Bluetooth portátil ajustable 7 colores sonido...'
 sku: 'B08DNVDZWS-es'
 tags: [ 'altavoz','bluetooth', ]

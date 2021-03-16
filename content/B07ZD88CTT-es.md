@@ -5,7 +5,7 @@ date: 2020-07-21 10:08:41
 image: 'https://m.media-amazon.com/images/I/516yFBlb5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZD88CTT-es IKOHS NETBOT LS23 - Robot Aspirador Láser Aspira Barre...'
 sku: 'B07ZD88CTT-es'
 tags: [ 'wifi', ]

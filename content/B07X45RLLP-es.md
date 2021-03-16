@@ -5,7 +5,7 @@ date: 2020-07-26 09:26:14
 image: 'https://m.media-amazon.com/images/I/41EmLDyYVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X45RLLP-es Teléfono Móvil Libres Todoterreno DOOGEE S95 Smartphone...'
 sku: 'B07X45RLLP-es'
 tags: [ 'móvil','smartphone', ]

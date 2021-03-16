@@ -5,7 +5,7 @@ date: 2020-05-16 07:37:28
 image: 'https://m.media-amazon.com/images/I/21UJWM8fRmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W2KY1VD-es AUKEY Soporte Coche Móvil Magnetico 2 Pack Salpicadero...'
 sku: 'B06W2KY1VD-es'
 tags: [ 'gps','iphone','móvil','samsung', ]

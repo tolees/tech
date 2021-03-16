@@ -5,7 +5,7 @@ date: 2020-02-02 18:46:13
 image: 'https://m.media-amazon.com/images/I/41FiYEHzJ+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTX3WNF-es Brother MFCJ497DWG1 4IN1 Impresora de inyección de Tinta...'
 sku: 'B07DTX3WNF-es'
 tags: [ 'impresora', ]

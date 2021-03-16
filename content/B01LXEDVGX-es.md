@@ -5,7 +5,7 @@ date: 2020-07-13 00:14:49
 image: 'https://m.media-amazon.com/images/I/41iQtpmQylL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXEDVGX-es HP Spectre 13-v101ns - Ordenador portátil de 13.3" Intel...'
 sku: 'B01LXEDVGX-es'
 tags: [ 'ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 15:10:41
 image: 'https://m.media-amazon.com/images/I/31wmUBlefhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRZ97X4-es Sharp DR-I470 GR Radio Internet Digital Estéreo con...'
 sku: 'B07HRZ97X4-es'
 tags: [ 'bluetooth', ]

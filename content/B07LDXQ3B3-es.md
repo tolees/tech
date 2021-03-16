@@ -5,7 +5,7 @@ date: 2020-06-22 08:15:48
 image: 'https://m.media-amazon.com/images/I/313zuUL0IzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LDXQ3B3-es Cikuso 3pzs Pegatinas Escudo de Camara de plastico...'
 sku: 'B07LDXQ3B3-es'
 tags: [ 'ordenador','tablet', ]

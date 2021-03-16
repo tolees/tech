@@ -5,7 +5,7 @@ date: 2020-02-29 20:31:19
 image: 'https://m.media-amazon.com/images/I/41qDcUJCQaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QVYB1X-es Acer Nitro 5 - Ordenador Portátil de 15.6" FullHD AMD...'
 sku: 'B083QVYB1X-es'
 tags: [ 'ordenador','ram','teclado', ]

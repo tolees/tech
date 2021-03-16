@@ -5,7 +5,7 @@ date: 2020-01-26 10:38:42
 image: 'https://m.media-amazon.com/images/I/41GN6xs3GyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4M7ARJ-es Auriculares para niños iClever Volumen Limitado Cascos...'
 sku: 'B01N4M7ARJ-es'
 tags: [ 'auriculares','iphone', ]

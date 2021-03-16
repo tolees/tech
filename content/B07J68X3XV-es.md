@@ -5,7 +5,7 @@ date: 2020-05-29 14:37:25
 image: 'https://m.media-amazon.com/images/I/41DfWj0vOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J68X3XV-es Flycoo bisagra Gancho Hebilla de la Cerradura de la Aleta...'
 sku: 'B07J68X3XV-es'
 tags: [ 'xiaomi', ]

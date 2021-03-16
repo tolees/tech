@@ -5,7 +5,7 @@ date: 2020-08-27 06:00:22
 image: 'https://m.media-amazon.com/images/I/41WS-Xa7hUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZF1FQC-es LarmTek 1080P Full HD Webcam cámara para ordenador...'
 sku: 'B085ZF1FQC-es'
 tags: [ '1080p','full','hd','ordenador', ]

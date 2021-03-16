@@ -5,7 +5,7 @@ date: 2020-09-08 15:00:50
 image: 'https://m.media-amazon.com/images/I/41jFy15-p+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KH8BRW-es Logitech C615 Webcam Portátil Full HD 1080p/30ims Video-...'
 sku: 'B014KH8BRW-es'
 tags: [ 'full','hd','logitech', ]

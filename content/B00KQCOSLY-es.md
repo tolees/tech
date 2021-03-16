@@ -5,7 +5,7 @@ date: 2020-07-30 15:01:15
 image: 'https://m.media-amazon.com/images/I/51pJj0SYANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KQCOSLY-es HyperX HX316LS9IB/4 Impact - Memoria RAM 1600 MHz DDR3L...'
 sku: 'B00KQCOSLY-es'
 tags: [ 'ram', ]

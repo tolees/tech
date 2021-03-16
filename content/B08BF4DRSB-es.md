@@ -5,7 +5,7 @@ date: 2020-09-07 17:07:21
 image: 'https://m.media-amazon.com/images/I/41pH3YtwQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BF4DRSB-es AFXMATE - Auriculares Bluetooth con cancelación de ruido...'
 sku: 'B08BF4DRSB-es'
 tags: [ 'auriculares','bluetooth', ]

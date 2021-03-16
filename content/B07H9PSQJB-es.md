@@ -5,7 +5,7 @@ date: 2020-03-12 22:45:22
 image: 'https://m.media-amazon.com/images/I/41dqz-SakWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9PSQJB-es Docooler Tarjeta de Memoria 32G de Gran Capacidad Clase 10...'
 sku: 'B07H9PSQJB-es'
 tags: [ 'smartphone', ]

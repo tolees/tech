@@ -5,7 +5,7 @@ date: 2020-04-19 17:33:52
 image: 'https://m.media-amazon.com/images/I/51EQU-FP2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW9XQRF-es Hisense H32B5600 Auriculares 1 Negro'
 sku: 'B07RW9XQRF-es'
 tags: [ 'auriculares', ]

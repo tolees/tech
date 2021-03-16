@@ -5,7 +5,7 @@ date: 2020-07-23 23:43:23
 image: 'https://m.media-amazon.com/images/I/51HcjUqk4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ30OZI-es Toshiba Portege Z30-C-16J - Ordenador portátil de 13.3"...'
 sku: 'B01MZ30OZI-es'
 tags: [ 'full','hd','ordenador','teclado','toshiba', ]

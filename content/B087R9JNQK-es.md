@@ -5,7 +5,7 @@ date: 2020-07-19 22:02:21
 image: 'https://m.media-amazon.com/images/I/41A+Bon4rnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087R9JNQK-es OOWOLF HD Webcam Cámara Web Full HD 1080P con Micrófono...'
 sku: 'B087R9JNQK-es'
 tags: [ '1080p','full','hd', ]

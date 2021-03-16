@@ -5,7 +5,7 @@ date: 2020-04-17 11:38:36
 image: 'https://m.media-amazon.com/images/I/31XquONIKaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRQNDF-es Motorola Baby Comfort C35 - Vigilabebés vídeo con pantalla...'
 sku: 'B07LFRQNDF-es'
 tags: [ 'motorola', ]

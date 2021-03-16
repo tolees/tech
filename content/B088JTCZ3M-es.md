@@ -5,7 +5,7 @@ date: 2020-07-27 17:21:32
 image: 'https://m.media-amazon.com/images/I/41cimoBxJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088JTCZ3M-es Foyar - Tarjeta de captura HDMI USB 3.0 1080P 4K 60 fps...'
 sku: 'B088JTCZ3M-es'
 tags: [ '1080p', ]

@@ -5,7 +5,7 @@ date: 2020-05-15 07:26:34
 image: 'https://m.media-amazon.com/images/I/51I7Fbg9PvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VGYB3T-es Samsung S27R350 - Monitor de 27 sin marcos Full HD 5 ms 75...'
 sku: 'B083VGYB3T-es'
 tags: [ 'full','hd','ips','samsung', ]

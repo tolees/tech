@@ -5,7 +5,7 @@ date: 2020-08-09 23:16:00
 image: 'https://m.media-amazon.com/images/I/31cvtF7ze7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0789FZHX6-es Tenda PW201A+PW200 Adaptadores de comunicación por línea...'
 sku: 'B0789FZHX6-es'
 tags: [ 'plc','wifi', ]

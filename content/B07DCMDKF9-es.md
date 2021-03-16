@@ -5,7 +5,7 @@ date: 2020-08-22 08:36:25
 image: 'https://m.media-amazon.com/images/I/31sTNx3HoiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCMDKF9-es Barra de Sonido Bluetooth 4.2 de 32 Pulgadas Sistema Bass...'
 sku: 'B07DCMDKF9-es'
 tags: [ 'bluetooth', ]

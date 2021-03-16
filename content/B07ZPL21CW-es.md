@@ -5,7 +5,7 @@ date: 2020-02-05 22:12:56
 image: 'https://m.media-amazon.com/images/I/41ex0i8GGyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPL21CW-es Lenovo S145-15IWL - Ordenador portátil 15.6" FullHD Intel...'
 sku: 'B07ZPL21CW-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-07-19 22:04:47
 image: 'https://m.media-amazon.com/images/I/41SgQGzsCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819C8KDL-es PUTORSEN® Soporte de Monitor pc de Premium - Elevador de...'
 sku: 'B0819C8KDL-es'
 tags: [ 'impresora','ordenador', ]

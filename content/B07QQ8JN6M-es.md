@@ -5,7 +5,7 @@ date: 2020-02-21 15:49:49
 image: 'https://m.media-amazon.com/images/I/41K-fAZKJyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQ8JN6M-es Ordenador PORTATIL 15DA0172NS INN4000 4GB 128GB SSD 15 6"...'
 sku: 'B07QQ8JN6M-es'
 tags: [ 'ordenador', ]

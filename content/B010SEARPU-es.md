@@ -5,7 +5,7 @@ date: 2020-10-07 19:15:57
 image: 'https://m.media-amazon.com/images/I/41zBGmvPIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010SEARPU-es Rankie Adaptador de Red USB 3 0 a RJ45 10/100/1000Mbps...'
 sku: 'B010SEARPU-es'
 tags: [ 'gigabit', ]

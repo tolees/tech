@@ -5,7 +5,7 @@ date: 2020-10-01 05:43:25
 image: 'https://m.media-amazon.com/images/I/41lvzL0NdnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZTQLB2-es HP DeskJet 3764 - Impresora de tinta multifunción 8 ppm...'
 sku: 'B07GZTQLB2-es'
 tags: [ 'impresora','wifi', ]

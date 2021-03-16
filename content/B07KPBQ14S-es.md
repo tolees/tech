@@ -5,7 +5,7 @@ date: 2020-06-06 14:42:50
 image: 'https://m.media-amazon.com/images/I/413H32Er5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPBQ14S-es Interruptor de Persiana wifi Frontoppy Interruptor...'
 sku: 'B07KPBQ14S-es'
 tags: [ 'wifi', ]

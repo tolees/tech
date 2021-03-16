@@ -5,7 +5,7 @@ date: 2020-06-07 08:30:55
 image: 'https://m.media-amazon.com/images/I/41F4U41nBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXRP84V-es Ayete Ratón Inalámbrico Mini Ratón Inalámbrico Ratón...'
 sku: 'B07QXRP84V-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-09-07 13:27:31
 image: 'https://m.media-amazon.com/images/I/41o6vp-e+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLFKGR-es Kenwood DNX5190DABS - Navegador GPS 17 1 cm/6 75" Pantalla...'
 sku: 'B07RMLFKGR-es'
 tags: [ 'gps', ]

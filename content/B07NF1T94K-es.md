@@ -5,7 +5,7 @@ date: 2020-03-13 09:34:34
 image: 'https://m.media-amazon.com/images/I/41CVWQbZy6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF1T94K-es Lenovo Legion Y530 - Ordenador portátil gaming de 15.6"...'
 sku: 'B07NF1T94K-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

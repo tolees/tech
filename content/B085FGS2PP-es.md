@@ -5,7 +5,7 @@ date: 2020-06-14 11:09:30
 image: 'https://m.media-amazon.com/images/I/41EeJX-3AiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FGS2PP-es realme 5I – Smartphone de 6.5” LCD multi-touch 4 GB RAM +...'
 sku: 'B085FGS2PP-es'
 tags: [ 'ram','smartphone', ]

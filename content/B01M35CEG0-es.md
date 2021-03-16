@@ -5,7 +5,7 @@ date: 2020-06-12 01:43:00
 image: 'https://m.media-amazon.com/images/I/41Y+uggLIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M35CEG0-es TECKNET Ratón Inalámbrico Delgado 2.4G Mouse Inalámbrico...'
 sku: 'B01M35CEG0-es'
 tags: [ 'ordenador','ratón', ]

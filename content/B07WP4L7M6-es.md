@@ -5,7 +5,7 @@ date: 2020-05-28 07:40:22
 image: 'https://m.media-amazon.com/images/I/417xOI33ZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP4L7M6-es ivencase Funda Xiaomi Redmi Note 8 + Cristal Templado para...'
 sku: 'B07WP4L7M6-es'
 tags: [ 'xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-08-31 00:27:32
 image: 'https://m.media-amazon.com/images/I/510N-eET8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WP17BH-es ELTD Funda + Película templada [combinación] para Samsung...'
 sku: 'B087WP17BH-es'
 tags: [ 'galaxy','samsung', ]

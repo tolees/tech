@@ -5,7 +5,7 @@ date: 2020-01-14 14:32:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZGMyNDASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDZ8XWF-es ASUS ROG Strix G531GT-BQ020 - Ordenador portátil de 15.6"...'
 sku: 'B07RDZ8XWF-es'
 tags: [ 'asus','ordenador','ram','teclado', ]

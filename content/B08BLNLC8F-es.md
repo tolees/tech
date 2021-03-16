@@ -5,7 +5,7 @@ date: 2020-08-09 09:37:26
 image: 'https://m.media-amazon.com/images/I/410eK2AU14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLNLC8F-es NANTING Funda de Silicona para Airpods Funda Protectora...'
 sku: 'B08BLNLC8F-es'
 tags: [ 'apple', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 12:25:03
 image: 'https://m.media-amazon.com/images/I/31Ww65zT9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQZ68HP-es CHOETECH Cargador Inalámbrico Wireless Charger con QC 3.0...'
 sku: 'B07WQZ68HP-es'
 tags: [ 'samsung','sony', ]

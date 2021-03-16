@@ -5,7 +5,7 @@ date: 2020-01-12 19:31:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h7j45adqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L555FRC-es Mpow Auriculares Bluetooth Deportivos Flame Inalámbricos...'
 sku: 'B07L555FRC-es'
 tags: [ 'auriculares','bluetooth', ]

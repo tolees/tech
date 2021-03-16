@@ -5,7 +5,7 @@ date: 2020-08-17 03:50:25
 image: 'https://m.media-amazon.com/images/I/41cG6wcJeDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNWSJTN-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Band 5 [4...'
 sku: 'B08DNWSJTN-es'
 tags: [ 'xiaomi', ]

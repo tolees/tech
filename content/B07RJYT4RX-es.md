@@ -5,7 +5,7 @@ date: 2020-09-19 01:39:40
 image: 'https://m.media-amazon.com/images/I/51EMNK1U3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJYT4RX-es LONOSUN Adaptador inalámbrico WiFi Dongle-USB 1200 Mbps...'
 sku: 'B07RJYT4RX-es'
 tags: [ 'wifi', ]

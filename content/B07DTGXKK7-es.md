@@ -5,7 +5,7 @@ date: 2020-01-12 12:38:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51u-h8NFAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTGXKK7-es AOC C27G1 - Monitor Gaming Curvo de 27" con Pantalla Full...'
 sku: 'B07DTGXKK7-es'
 tags: [ 'full','hd', ]

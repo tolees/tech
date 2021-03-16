@@ -5,7 +5,7 @@ date: 2020-04-27 18:33:14
 image: 'https://m.media-amazon.com/images/I/31mjfQ6jUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HZDLDK6-es Impresora de inyección de tinta Canon PIXMA iX6850 Negra Wifi'
 sku: 'B00HZDLDK6-es'
 tags: [ 'canon','impresora','wifi', ]

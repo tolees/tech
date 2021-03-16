@@ -5,7 +5,7 @@ date: 2020-08-09 11:04:53
 image: 'https://m.media-amazon.com/images/I/51D60eQZCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PGPHWZ-es Seagate Barracuda Fast SSD de 1 TB Disco duro externo...'
 sku: 'B082PGPHWZ-es'
 tags: [ 'disco','duro','ordenador', ]

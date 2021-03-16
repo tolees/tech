@@ -5,7 +5,7 @@ date: 2020-09-05 00:00:31
 image: 'https://m.media-amazon.com/images/I/61+EW5apSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5YNFQH-es tomtoc 15 4" Maletín Portátil Protector de 360° para 16"...'
 sku: 'B07P5YNFQH-es'
 tags: [ 'dell','microsoft', ]

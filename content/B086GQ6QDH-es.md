@@ -5,7 +5,7 @@ date: 2020-07-31 11:33:47
 image: 'https://m.media-amazon.com/images/I/51amqW3NPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GQ6QDH-es FSKE 33W 19V 1.75A Cargador de computadora portátil con...'
 sku: 'B086GQ6QDH-es'
 tags: [ 'asus', ]

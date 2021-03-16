@@ -5,7 +5,7 @@ date: 2020-10-09 18:58:25
 image: 'https://m.media-amazon.com/images/I/41mR8P-j4SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDL24NS-es GC Pro Cargador para Portátil DELL XPS 13 9343 9350 9360...'
 sku: 'B07WDL24NS-es'
 tags: [ 'dell','ordenador', ]

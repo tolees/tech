@@ -5,7 +5,7 @@ date: 2020-08-14 18:28:53
 image: 'https://m.media-amazon.com/images/I/41krw4GgbKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYVLN3W-es TOPVISION Proyector Cine en Casa de 5500 Lúmenes 720P...'
 sku: 'B07PYVLN3W-es'
 tags: [ '1080p','full','hd', ]

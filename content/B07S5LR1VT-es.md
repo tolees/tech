@@ -5,7 +5,7 @@ date: 2020-09-16 03:18:50
 image: 'https://m.media-amazon.com/images/I/41UqHcQvpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5LR1VT-es ASUS ROG Strix G731GW-EV010T - Portátil Gaming de 17.3"...'
 sku: 'B07S5LR1VT-es'
 tags: [ 'asus','ram','teclado', ]

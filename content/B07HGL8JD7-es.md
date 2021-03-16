@@ -5,7 +5,7 @@ date: 2020-10-11 13:34:37
 image: 'https://m.media-amazon.com/images/I/31+lm+KoKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGL8JD7-es Engel RS8100Y - Receptor TV satélite HD PVR con WiFi Negro'
 sku: 'B07HGL8JD7-es'
 tags: [ 'wifi', ]

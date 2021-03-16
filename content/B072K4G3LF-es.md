@@ -5,7 +5,7 @@ date: 2020-07-17 18:46:00
 image: 'https://m.media-amazon.com/images/I/51NAzUniJuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4G3LF-es VicTsing Adaptador VGA a HDMI Convertidor de Video 1080P...'
 sku: 'B072K4G3LF-es'
 tags: [ '1080p', ]

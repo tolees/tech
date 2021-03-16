@@ -5,7 +5,7 @@ date: 2020-06-09 14:46:28
 image: 'https://m.media-amazon.com/images/I/51tTbg5do9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RMNCVK-es NGS Roller Lingo Black - Altavoz Portátil de 20W...'
 sku: 'B084RMNCVK-es'
 tags: [ 'altavoz','bluetooth', ]

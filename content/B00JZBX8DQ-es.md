@@ -5,7 +5,7 @@ date: 2020-02-08 01:29:52
 image: 'https://m.media-amazon.com/images/I/51WXyAzzbtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JZBX8DQ-es Panasonic Eneloop SY3052647 - Pack 8 Pilas Recargables AA'
 sku: 'B00JZBX8DQ-es'
 tags: [ 'panasonic', ]

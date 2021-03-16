@@ -5,7 +5,7 @@ date: 2020-03-04 22:45:21
 image: 'https://m.media-amazon.com/images/I/31CFAHTjPqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751LG7KQ-es Canon CLI-581XL C Cartucho de tinta original Cian XL para...'
 sku: 'B0751LG7KQ-es'
 tags: [ 'canon','impresora', ]

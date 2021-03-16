@@ -5,7 +5,7 @@ date: 2020-04-18 01:31:37
 image: 'https://m.media-amazon.com/images/I/21bXGmopxkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PRZ8AI-es Silver Electronics Bombilla PLC 2Pin 4200k 26 watts Blanco...'
 sku: 'B007PRZ8AI-es'
 tags: [ 'plc', ]

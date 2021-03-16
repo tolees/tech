@@ -5,7 +5,7 @@ date: 2020-03-10 13:36:44
 image: 'https://m.media-amazon.com/images/I/417dofjPe+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GO6ZSNW-es Energy Sistem MP4 Touch Bluetooth Bluetooth 8 GB Táctil...'
 sku: 'B01GO6ZSNW-es'
 tags: [ 'bluetooth','microsd', ]

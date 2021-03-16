@@ -5,7 +5,7 @@ date: 2020-03-21 13:33:27
 image: 'https://m.media-amazon.com/images/I/31wnoA4YmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DGWR34-es Edifier Studio R1700BT 2.0 - Altavoz con Bluetooth Color...'
 sku: 'B082DGWR34-es'
 tags: [ 'altavoz','bluetooth', ]

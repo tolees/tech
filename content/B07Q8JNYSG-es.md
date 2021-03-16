@@ -5,7 +5,7 @@ date: 2020-07-08 13:38:28
 image: 'https://m.media-amazon.com/images/I/41V+KfWnjxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8JNYSG-es Anoopsyche Hub USB C 10 en 1 Aluminio Adaptador USB C Hub...'
 sku: 'B07Q8JNYSG-es'
 tags: [ '1080p', ]

@@ -5,7 +5,7 @@ date: 2020-06-14 13:31:42
 image: 'https://m.media-amazon.com/images/I/41KAw9abnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RKGSD88-es Advance VE-NB35 - Base de refrigeración para Ordenador...'
 sku: 'B00RKGSD88-es'
 tags: [ 'ordenador', ]

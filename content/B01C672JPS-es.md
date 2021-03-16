@@ -5,7 +5,7 @@ date: 2020-04-18 06:48:15
 image: 'https://m.media-amazon.com/images/I/41GcuzxTMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C672JPS-es Nikon Coolpix A900 - Cámara compacta de 20.3" WiFi...'
 sku: 'B01C672JPS-es'
 tags: [ 'bluetooth','nikon','wifi', ]

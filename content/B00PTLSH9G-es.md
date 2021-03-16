@@ -5,7 +5,7 @@ date: 2020-05-20 09:28:30
 image: 'https://m.media-amazon.com/images/I/31E2NyVAHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PTLSH9G-es Anker Cargador USB Charging Hub 60W 6 Puertos USB...'
 sku: 'B00PTLSH9G-es'
 tags: [ 'galaxy','iphone','xiaomi', ]

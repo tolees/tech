@@ -5,7 +5,7 @@ date: 2020-05-12 13:17:09
 image: 'https://m.media-amazon.com/images/I/51wn6YqXgdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGQ4V57-es Garmin Zumo 346LMT-S - Navegador de Moto de 4.3” Color Negro'
 sku: 'B07CGQ4V57-es'
 tags: [ 'garmin', ]

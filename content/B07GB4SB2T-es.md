@@ -5,7 +5,7 @@ date: 2020-06-21 15:07:04
 image: 'https://m.media-amazon.com/images/I/31PA0AuejdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB4SB2T-es Samsung Galaxy Watch Bluetooth Reloj inteligente con...'
 sku: 'B07GB4SB2T-es'
 tags: [ 'bluetooth','galaxy','gps','samsung', ]

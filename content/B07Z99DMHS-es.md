@@ -5,7 +5,7 @@ date: 2020-09-23 15:04:26
 image: 'https://m.media-amazon.com/images/I/51qGqZM4NuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z99DMHS-es SOOPSON Alfombrilla de ratón para Juegos de Gel para...'
 sku: 'B07Z99DMHS-es'
 tags: [ 'ordenador','ratón', ]

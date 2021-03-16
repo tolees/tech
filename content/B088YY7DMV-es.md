@@ -5,7 +5,7 @@ date: 2020-08-13 01:02:49
 image: 'https://m.media-amazon.com/images/I/41pRUYrAu0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088YY7DMV-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
 sku: 'B088YY7DMV-es'
 tags: [ 'wifi', ]

@@ -5,7 +5,7 @@ date: 2020-06-18 05:55:25
 image: 'https://m.media-amazon.com/images/I/41qHN8YuOJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKZS6KL-es uni Adaptador USB C a USB 3.1[OTG] Adaptador USB...'
 sku: 'B07GKZS6KL-es'
 tags: [ 'huawei','samsung', ]

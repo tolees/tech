@@ -5,7 +5,7 @@ date: 2020-10-12 14:44:30
 image: 'https://m.media-amazon.com/images/I/51UJ0P-MjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0842P6JPF-es IBRA Cable de Red LAN Gigabit Ethernet CAT8 RJ45 SSTP...'
 sku: 'B0842P6JPF-es'
 tags: [ 'gigabit', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 21:32:03
 image: 'https://m.media-amazon.com/images/I/314PGGE4dgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9LCBH3-es Apple Funda Leather Folio para el iPhone XS - Negro'
 sku: 'B07H9LCBH3-es'
 tags: [ 'apple','iphone', ]

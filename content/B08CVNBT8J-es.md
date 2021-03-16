@@ -5,7 +5,7 @@ date: 2020-09-01 09:45:41
 image: 'https://m.media-amazon.com/images/I/31EsIsZbGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVNBT8J-es Unidad de disco duro externo delgada unidad de...'
 sku: 'B08CVNBT8J-es'
 tags: [ 'disco','duro', ]

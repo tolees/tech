@@ -5,7 +5,7 @@ date: 2020-05-15 16:47:09
 image: 'https://m.media-amazon.com/images/I/51k5O9IJzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792CYMCN-es Acer ED242QR LED Display 59 9 cm 23.6" Full HD Curva Negro...'
 sku: 'B0792CYMCN-es'
 tags: [ 'full','hd', ]

@@ -5,7 +5,7 @@ date: 2020-07-23 06:26:56
 image: 'https://m.media-amazon.com/images/I/51x+Cf4YB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07547TWLT-es Campark X20 Cámara Deportiva 4k Ultra HD 20MP Pantalla...'
 sku: 'B07547TWLT-es'
 tags: [ 'wifi', ]

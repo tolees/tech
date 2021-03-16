@@ -5,7 +5,7 @@ date: 2020-06-29 10:39:27
 image: 'https://m.media-amazon.com/images/I/31tkWSZsQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Y4XDG3-es PRIXTON IP1080p - Cámara IP Full HD Cámara de Vigilancia...'
 sku: 'B083Y4XDG3-es'
 tags: [ 'altavoz','full','hd','móvil','wifi', ]

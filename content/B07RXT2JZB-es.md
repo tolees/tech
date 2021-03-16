@@ -5,7 +5,7 @@ date: 2020-03-12 11:34:05
 image: 'https://m.media-amazon.com/images/I/41j39g+p0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXT2JZB-es Garmin ETREX 32x GPS de Mano con Pantalla Color de 2.2” y...'
 sku: 'B07RXT2JZB-es'
 tags: [ 'garmin','gps', ]

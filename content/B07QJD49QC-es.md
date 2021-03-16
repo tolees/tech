@@ -5,7 +5,7 @@ date: 2020-03-04 04:22:00
 image: 'https://m.media-amazon.com/images/I/31UvP-4+DlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJD49QC-es Impresora láser multifunción color Canon i-Sensys MF643Cdw...'
 sku: 'B07QJD49QC-es'
 tags: [ 'canon','impresora','wifi', ]

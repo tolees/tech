@@ -5,7 +5,7 @@ date: 2020-04-28 19:32:06
 image: 'https://m.media-amazon.com/images/I/51ZkoMmQjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NXRZJK-es [Actualizado] Proyector Full HD 1080p Nativo Soporta 4K...'
 sku: 'B082NXRZJK-es'
 tags: [ '1080p','full','hd', ]

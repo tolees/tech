@@ -5,7 +5,7 @@ date: 2020-08-28 08:27:36
 image: 'https://m.media-amazon.com/images/I/51bmIKrCIaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHSHTQJ-es Radio de escritorio portátil Sangean WR-7 sintonizador FM-...'
 sku: 'B07DHSHTQJ-es'
 tags: [ 'altavoz','bluetooth', ]

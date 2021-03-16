@@ -5,7 +5,7 @@ date: 2020-04-24 10:55:49
 image: 'https://m.media-amazon.com/images/I/51JU5PSkfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V4ZHFZ-es TomTom GO Professional 620 Navegación Profesional para...'
 sku: 'B071V4ZHFZ-es'
 tags: [ 'smartphone','tomtom', ]

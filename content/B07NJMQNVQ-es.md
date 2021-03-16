@@ -5,7 +5,7 @@ date: 2020-09-27 12:32:27
 image: 'https://m.media-amazon.com/images/I/31QGbNBFJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJMQNVQ-es Lenovo Yoga 530-14IKB - Portátil Táctil Convertible 14"...'
 sku: 'B07NJMQNVQ-es'
 tags: [ 'lenovo','ram','teclado', ]

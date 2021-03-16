@@ -5,7 +5,7 @@ date: 2020-09-14 00:04:54
 image: 'https://m.media-amazon.com/images/I/51A3rkUODpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HD2FVY-es Zambrero 550 551 Reemplazo para Canon PGI-550XL CLI-551XL...'
 sku: 'B085HD2FVY-es'
 tags: [ 'canon', ]

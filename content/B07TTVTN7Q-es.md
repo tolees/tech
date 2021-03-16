@@ -5,7 +5,7 @@ date: 2020-01-29 13:49:03
 image: 'https://m.media-amazon.com/images/I/31b8lTgEXnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTVTN7Q-es ASUS ZenBook 14 UX433FA New -A5243T - Portátil de 14"...'
 sku: 'B07TTVTN7Q-es'
 tags: [ 'asus','ram','teclado', ]

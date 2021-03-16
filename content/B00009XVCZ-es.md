@@ -5,7 +5,7 @@ date: 2020-10-03 12:16:51
 image: 'https://m.media-amazon.com/images/I/517W0-gDK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00009XVCZ-es Canon EF 50mm f/1.4 USM - Objetivo para Canon distancia...'
 sku: 'B00009XVCZ-es'
 tags: [ 'canon', ]

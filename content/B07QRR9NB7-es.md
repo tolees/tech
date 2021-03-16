@@ -5,7 +5,7 @@ date: 2020-10-12 14:31:35
 image: 'https://m.media-amazon.com/images/I/31hJX0tixnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRR9NB7-es Samsung MU-PA500G 500 GB Oro - Unidades externas de Estado...'
 sku: 'B07QRR9NB7-es'
 tags: [ 'samsung', ]

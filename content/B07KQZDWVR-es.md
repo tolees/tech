@@ -5,7 +5,7 @@ date: 2020-05-27 21:38:21
 image: 'https://m.media-amazon.com/images/I/510ZwmuQEiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQZDWVR-es Ibywind Xiaomi Mi Mix 3 Protector de Pantalla [2...'
 sku: 'B07KQZDWVR-es'
 tags: [ 'xiaomi', ]

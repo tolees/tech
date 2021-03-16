@@ -5,7 +5,7 @@ date: 2020-07-14 15:31:10
 image: 'https://m.media-amazon.com/images/I/41Q6bknf+YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STT3TXJ-es Lamicall Soporte Tablet Coche Soporte Tablet para...'
 sku: 'B07STT3TXJ-es'
 tags: [ 'tablet', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 11:00:44
 image: 'https://m.media-amazon.com/images/I/41Jk39hp2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JH92KW-es JOOWIN Adaptador WiFi USB AC 650Mbps Dual Banda...'
 sku: 'B087JH92KW-es'
 tags: [ 'wifi', ]

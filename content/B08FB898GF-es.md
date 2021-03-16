@@ -5,7 +5,7 @@ date: 2020-09-24 18:40:55
 image: 'https://m.media-amazon.com/images/I/51szV8y3S2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FB898GF-es Jvchengxi Funda con Protector de Pantalla Compatible con...'
 sku: 'B08FB898GF-es'
 tags: [ 'galaxy','samsung', ]

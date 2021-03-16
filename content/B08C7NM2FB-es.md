@@ -5,7 +5,7 @@ date: 2020-09-20 23:02:09
 image: 'https://m.media-amazon.com/images/I/41G1kFK1WDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7NM2FB-es Cocoda Tripode para Movil Flexible Palo Selfie Mini...'
 sku: 'B08C7NM2FB-es'
 tags: [ 'bluetooth','galaxy','iphone','samsung', ]

@@ -5,7 +5,7 @@ date: 2020-02-06 16:38:25
 image: 'https://m.media-amazon.com/images/I/3152rSobAPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YPCDDG-es Dexler Dual Wireless Speakers - Sal Y Pimienta - Altavoz PC'
 sku: 'B079YPCDDG-es'
 tags: [ 'altavoz', ]

@@ -5,7 +5,7 @@ date: 2020-06-12 11:45:42
 image: 'https://m.media-amazon.com/images/I/41dQ9FVJyAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KW3MT5-es WINMI Para Motorola Moto G8 Power Funda Translúcido...'
 sku: 'B086KW3MT5-es'
 tags: [ 'motorola', ]

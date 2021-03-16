@@ -5,7 +5,7 @@ date: 2020-07-20 15:31:19
 image: 'https://m.media-amazon.com/images/I/41qy-GixTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ON5KZC-es Corsair Mac Memory - Memoria para Apple Mac de 16 GB 2 x 8...'
 sku: 'B006ON5KZC-es'
 tags: [ 'apple', ]

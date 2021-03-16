@@ -5,7 +5,7 @@ date: 2020-08-09 23:21:32
 image: 'https://m.media-amazon.com/images/I/41Kd2yu8zAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DVDN7TF-es WiseWolf Teclado gaming de una mano profesional sensación...'
 sku: 'B08DVDN7TF-es'
 tags: [ 'teclado', ]

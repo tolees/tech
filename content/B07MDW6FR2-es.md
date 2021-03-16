@@ -5,7 +5,7 @@ date: 2020-03-05 20:32:03
 image: 'https://m.media-amazon.com/images/I/51iIWKKcq0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDW6FR2-es AOLVO Funda Game para iPhone X/XS/MAX/XR IPhone8/8 Plus...'
 sku: 'B07MDW6FR2-es'
 tags: [ 'iphone', ]

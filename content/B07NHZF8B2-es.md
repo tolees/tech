@@ -5,7 +5,7 @@ date: 2020-04-17 10:37:10
 image: 'https://m.media-amazon.com/images/I/413r3KrjAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHZF8B2-es Adaptador de Conector de Auriculares USB C a 3 5 mm...'
 sku: 'B07NHZF8B2-es'
 tags: [ 'auriculares','huawei','xiaomi', ]

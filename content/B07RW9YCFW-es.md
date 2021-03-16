@@ -5,7 +5,7 @@ date: 2020-06-28 22:04:37
 image: 'https://m.media-amazon.com/images/I/51EtyKKSNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW9YCFW-es Gohepi Reemplazo para Canon 580XXL 581XXL PGI-580 CLI-581...'
 sku: 'B07RW9YCFW-es'
 tags: [ 'canon', ]

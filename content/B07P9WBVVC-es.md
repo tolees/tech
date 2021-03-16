@@ -5,7 +5,7 @@ date: 2020-04-08 18:05:40
 image: 'https://m.media-amazon.com/images/I/41qmNyIQeqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9WBVVC-es ENEGON Batería Sustituida 2 Paquetes y Cargador para Canon...'
 sku: 'B07P9WBVVC-es'
 tags: [ 'canon', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 11:06:18
 image: 'https://m.media-amazon.com/images/I/41Pt-ulFiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZSUOUQ-es Panasonic RF-3500E9-K - Radio Portátil FM/AM/LW/SW 1000 mW...'
 sku: 'B002ZSUOUQ-es'
 tags: [ 'panasonic', ]

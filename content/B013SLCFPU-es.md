@@ -5,7 +5,7 @@ date: 2020-06-16 11:31:20
 image: 'https://m.media-amazon.com/images/I/31qPES13WvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013SLCFPU-es Logitech M535 Ratón Inalámbrico Bluetooth Sensor Láser...'
 sku: 'B013SLCFPU-es'
 tags: [ 'bluetooth','logitech','ratón', ]

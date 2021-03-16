@@ -5,7 +5,7 @@ date: 2020-01-17 09:50:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XakVT2jQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8WJJ9V-es Garmin - Reloj GPS con Pulsómetro Fenix 6X Zafiro'
 sku: 'B07X8WJJ9V-es'
 tags: [ 'garmin','gps', ]

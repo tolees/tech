@@ -5,7 +5,7 @@ date: 2020-09-03 10:26:03
 image: 'https://m.media-amazon.com/images/I/41mGy0q0XYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6H7FXZ-es Linksys EA7300 Router WiFi de Doble Banda MU-MIMO AC1750...'
 sku: 'B07T6H7FXZ-es'
 tags: [ 'gigabit','wifi', ]

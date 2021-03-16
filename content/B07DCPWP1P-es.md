@@ -5,7 +5,7 @@ date: 2020-07-18 20:44:44
 image: 'https://m.media-amazon.com/images/I/416Y-NghPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCPWP1P-es Garmin Fenix 5 Banda TOPsic Silicona Reemplazo Correa con...'
 sku: 'B07DCPWP1P-es'
 tags: [ 'garmin', ]

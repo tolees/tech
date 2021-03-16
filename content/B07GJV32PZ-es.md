@@ -5,7 +5,7 @@ date: 2020-08-09 23:44:48
 image: 'https://m.media-amazon.com/images/I/519EFQp4owL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJV32PZ-es CMYBabee Cartucho de Tóner Compatible Repuesto para HP 79A...'
 sku: 'B07GJV32PZ-es'
 tags: [ 'impresora', ]

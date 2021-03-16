@@ -5,7 +5,7 @@ date: 2020-03-14 10:28:56
 image: 'https://m.media-amazon.com/images/I/41yTI9h5mxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCVYSJ1-es F Fityle Altavoz de Audio Impermeable Repuestos de...'
 sku: 'B07HCVYSJ1-es'
 tags: [ 'altavoz', ]

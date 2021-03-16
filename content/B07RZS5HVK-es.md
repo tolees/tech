@@ -5,7 +5,7 @@ date: 2020-07-05 22:01:52
 image: 'https://m.media-amazon.com/images/I/51OUOsP5TcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZS5HVK-es Anpollo Alfombrilla para ratón Speed Gaming XXL 900 x 400...'
 sku: 'B07RZS5HVK-es'
 tags: [ 'ratón', ]

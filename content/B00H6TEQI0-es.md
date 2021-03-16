@@ -5,7 +5,7 @@ date: 2020-03-08 12:29:28
 image: 'https://m.media-amazon.com/images/I/413jzVNg+OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H6TEQI0-es Prestige Cartridge Cartucho de Tinta con Chip de Alta...'
 sku: 'B00H6TEQI0-es'
 tags: [ 'dell', ]

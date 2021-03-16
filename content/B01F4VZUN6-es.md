@@ -5,7 +5,7 @@ date: 2020-01-15 23:07:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJdGNWIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F4VZUN6-es HP PageWide 377dw A4 Wifi - Impresora multifunción 300 x...'
 sku: 'B01F4VZUN6-es'
 tags: [ 'impresora','wifi', ]

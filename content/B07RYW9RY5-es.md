@@ -5,7 +5,7 @@ date: 2020-05-26 12:42:54
 image: 'https://m.media-amazon.com/images/I/51hhq7cZIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYW9RY5-es Silicon FBE-SU020TBPHDA60S3KFE - Disco Duro Externo 2 TB...'
 sku: 'B07RYW9RY5-es'
 tags: [ 'disco','duro', ]

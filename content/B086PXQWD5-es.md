@@ -5,7 +5,7 @@ date: 2020-07-11 11:25:30
 image: 'https://m.media-amazon.com/images/I/41RyPV1j2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PXQWD5-es Cámara Web HD Pro Con Micrófono Cámara USB Para PC 1080P...'
 sku: 'B086PXQWD5-es'
 tags: [ '1080p','full','hd', ]

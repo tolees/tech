@@ -5,7 +5,7 @@ date: 2020-05-16 19:35:41
 image: 'https://m.media-amazon.com/images/I/31eooy7ll7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LPKG7P-es Oihxse Silicona Funda con Huawei Nova 3i/P Smart/Enjoy 7S...'
 sku: 'B087LPKG7P-es'
 tags: [ 'huawei', ]

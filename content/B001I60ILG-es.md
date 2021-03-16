@@ -5,7 +5,7 @@ date: 2020-07-15 21:23:44
 image: 'https://m.media-amazon.com/images/I/41WsCaHLV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001I60ILG-es König CMP-MIC9 - Mini micrófono omnidireccional flexible...'
 sku: 'B001I60ILG-es'
 tags: [ 'móvil', ]

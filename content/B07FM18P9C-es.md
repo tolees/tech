@@ -5,7 +5,7 @@ date: 2020-06-25 00:01:31
 image: 'https://m.media-amazon.com/images/I/51P8HgDUW7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM18P9C-es Tumdem Mesa para Ordenador Plegable Soporte para Laptop...'
 sku: 'B07FM18P9C-es'
 tags: [ 'ordenador', ]

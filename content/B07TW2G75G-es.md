@@ -5,7 +5,7 @@ date: 2020-06-11 05:16:14
 image: 'https://m.media-amazon.com/images/I/410u7AGd72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW2G75G-es Lenovo S340-15IWL - Ordenador portátil 15.6" FullHD Intel...'
 sku: 'B07TW2G75G-es'
 tags: [ 'lenovo','ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 19:33:16
 image: 'https://m.media-amazon.com/images/I/41iQDHQKxwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGVJ9GY-es Beyerdynamic MMX 300 - Auriculares de gamimg con micrófono...'
 sku: 'B06WGVJ9GY-es'
 tags: [ 'auriculares', ]

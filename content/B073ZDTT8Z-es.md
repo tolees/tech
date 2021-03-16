@@ -5,7 +5,7 @@ date: 2020-06-05 07:01:05
 image: 'https://m.media-amazon.com/images/I/41nXtxW0ppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZDTT8Z-es ESR Funda para iPhone SE/8/7 [Funda TPU][No...'
 sku: 'B073ZDTT8Z-es'
 tags: [ 'iphone', ]

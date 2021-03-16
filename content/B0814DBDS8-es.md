@@ -5,7 +5,7 @@ date: 2020-07-09 17:48:43
 image: 'https://m.media-amazon.com/images/I/517Bg6izxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814DBDS8-es LBLA FPV Drone con Cámara WiFi Live Video Headless Modo...'
 sku: 'B0814DBDS8-es'
 tags: [ 'wifi', ]

@@ -5,7 +5,7 @@ date: 2020-06-30 14:18:17
 image: 'https://m.media-amazon.com/images/I/31Ay56-IsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9S3CWW-es Samsung Galaxy Tab A Wi Fi SM-T510 64GB Black DE Version'
 sku: 'B07Q9S3CWW-es'
 tags: [ 'galaxy','samsung', ]

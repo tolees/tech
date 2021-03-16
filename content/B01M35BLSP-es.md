@@ -5,7 +5,7 @@ date: 2020-09-21 21:52:23
 image: 'https://m.media-amazon.com/images/I/51r-fYSqGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M35BLSP-es 2017 Quad cuádruple 4 pirámide 3 + 1 LCD LED TFT Monitor...'
 sku: 'B01M35BLSP-es'
 tags: [ 'ordenador', ]

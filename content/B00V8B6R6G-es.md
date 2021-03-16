@@ -5,7 +5,7 @@ date: 2020-04-24 16:08:58
 image: 'https://m.media-amazon.com/images/I/21j-qr8HfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V8B6R6G-es Suunto - Smart Sensor Black HR Belt - Cinturón soporte...'
 sku: 'B00V8B6R6G-es'
 tags: [ 'suunto', ]

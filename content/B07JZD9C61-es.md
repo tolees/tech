@@ -5,7 +5,7 @@ date: 2020-07-19 23:20:28
 image: 'https://m.media-amazon.com/images/I/41PqNc0lmFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZD9C61-es Goldoars Wii a HDMI Adaptador Conversor de Wii a HDMI...'
 sku: 'B07JZD9C61-es'
 tags: [ 'wii', ]

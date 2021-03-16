@@ -5,7 +5,7 @@ date: 2020-04-26 18:32:48
 image: 'https://m.media-amazon.com/images/I/31Aj4RHWQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW5PZPL-es Apple Funda Smart Battery Case para el iPhone 7 - Blanco'
 sku: 'B01LW5PZPL-es'
 tags: [ 'apple','iphone', ]

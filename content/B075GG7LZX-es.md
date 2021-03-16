@@ -5,7 +5,7 @@ date: 2020-01-21 13:37:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GG7LZX-es HP Laser Jet Pro M254dw - Impresora color hasta 21 ppm...'
 sku: 'B075GG7LZX-es'
 tags: [ 'disco','duro','impresora', ]

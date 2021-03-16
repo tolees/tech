@@ -5,7 +5,7 @@ date: 2020-08-12 20:20:23
 image: 'https://m.media-amazon.com/images/I/41unV1ijeVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TEXWQXS-es Netgear EX7000 Repetidor WiFi Mesh AC1900 amplificador...'
 sku: 'B00TEXWQXS-es'
 tags: [ 'gigabit','netgear','wifi', ]

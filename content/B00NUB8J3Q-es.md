@@ -5,7 +5,7 @@ date: 2020-02-28 09:49:02
 image: 'https://m.media-amazon.com/images/I/31LHmQpFjzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUB8J3Q-es Brother HL-1210W - Impresora láser monocromo compacta con...'
 sku: 'B00NUB8J3Q-es'
 tags: [ 'impresora','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 15:58:04
 image: 'https://m.media-amazon.com/images/I/31Rxt5BTTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7NJ1FX-es HP Smart Tank Plus 555 - Impresora multifunción imprime...'
 sku: 'B07V7NJ1FX-es'
 tags: [ 'impresora','móvil', ]

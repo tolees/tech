@@ -5,7 +5,7 @@ date: 2020-08-24 01:31:49
 image: 'https://m.media-amazon.com/images/I/41Dc1UIKZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLJP97W-es Primewire 15m Cable de Red Gigabit Ethernet Cat 7-10000...'
 sku: 'B01BLJP97W-es'
 tags: [ 'gigabit', ]

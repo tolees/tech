@@ -5,7 +5,7 @@ date: 2020-10-05 09:15:28
 image: 'https://m.media-amazon.com/images/I/41X3RxNad4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006PKN7D6-es USB-C Cargador de Portátil Fuente de Alimentación 65W MAX:...'
 sku: 'B006PKN7D6-es'
 tags: [ 'asus','dell','lenovo','samsung', ]

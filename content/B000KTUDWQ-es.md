@@ -5,7 +5,7 @@ date: 2020-02-07 14:32:00
 image: 'https://m.media-amazon.com/images/I/41x8Y0-WjgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KTUDWQ-es Canon consumible papel fotográfico plus semi-brillante...'
 sku: 'B000KTUDWQ-es'
 tags: [ 'canon', ]

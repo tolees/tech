@@ -5,7 +5,7 @@ date: 2020-10-04 13:13:18
 image: 'https://m.media-amazon.com/images/I/41yzy7MoUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7VFDQF-es Enchufe de pared con USB 2.8A Schuko Enchufe Blanco...'
 sku: 'B07P7VFDQF-es'
 tags: [ 'smartphone','tablet', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 10:41:09
 image: 'https://m.media-amazon.com/images/I/31kUu7r0Z-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BYKMT1-es Metronic 495421 - Adaptadores PLC con enchufe extra blanco'
 sku: 'B076BYKMT1-es'
 tags: [ 'plc', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 12:15:25
 image: 'https://m.media-amazon.com/images/I/51AGDS5TgUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894JJGXV-es 0BEST Webcam 1080P Full HD con Microfono y Trípode...'
 sku: 'B0894JJGXV-es'
 tags: [ '1080p','full','hd', ]

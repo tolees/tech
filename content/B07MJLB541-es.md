@@ -5,7 +5,7 @@ date: 2020-05-19 12:35:43
 image: 'https://m.media-amazon.com/images/I/316hyhJ71rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJLB541-es MSI GS65 Stealth Thin 8RE-604XES - Ordenador portátil...'
 sku: 'B07MJLB541-es'
 tags: [ 'ordenador','ram','teclado', ]

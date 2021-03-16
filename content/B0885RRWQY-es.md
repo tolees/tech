@@ -5,7 +5,7 @@ date: 2020-07-23 21:11:19
 image: 'https://m.media-amazon.com/images/I/41H+iyxpb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0885RRWQY-es Wodgreat Repetidor WiFi 300 Mbit/s 2.4 GHz Amplificador...'
 sku: 'B0885RRWQY-es'
 tags: [ 'wifi', ]

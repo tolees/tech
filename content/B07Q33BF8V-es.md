@@ -5,7 +5,7 @@ date: 2020-03-12 05:45:13
 image: 'https://m.media-amazon.com/images/I/41kWCJtPlHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q33BF8V-es HP 15-dw0010ns - Ordenador portátil de 15.6" HD Intel Core...'
 sku: 'B07Q33BF8V-es'
 tags: [ 'ordenador','ram','teclado', ]

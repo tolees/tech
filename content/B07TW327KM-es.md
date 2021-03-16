@@ -5,7 +5,7 @@ date: 2020-07-30 14:33:20
 image: 'https://m.media-amazon.com/images/I/41GFeJGIoLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW327KM-es KLIM™ Pods - Auriculares inalámbricos Bluetooth +...'
 sku: 'B07TW327KM-es'
 tags: [ 'auriculares','bluetooth', ]

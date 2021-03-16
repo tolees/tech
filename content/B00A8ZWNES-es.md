@@ -5,7 +5,7 @@ date: 2020-03-23 10:56:40
 image: 'https://m.media-amazon.com/images/I/41IGBa4JSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A8ZWNES-es Samyang F1121903101 - Objetivo fotográfico DSLR para Nikon...'
 sku: 'B00A8ZWNES-es'
 tags: [ 'nikon', ]

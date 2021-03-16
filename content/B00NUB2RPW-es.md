@@ -5,7 +5,7 @@ date: 2020-10-03 20:43:24
 image: 'https://m.media-amazon.com/images/I/31VZEbDUhdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUB2RPW-es SanDisk SDCFXSB-064G-G46 - Tarjeta de Memoria de 64 GB...'
 sku: 'B00NUB2RPW-es'
 tags: [ 'sandisk', ]

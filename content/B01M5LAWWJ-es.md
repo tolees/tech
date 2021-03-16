@@ -5,7 +5,7 @@ date: 2020-01-05 16:23:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qCB3r0tQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5LAWWJ-es Brother MFC-J6530DW - Impresora multifunción de Tinta...'
 sku: 'B01M5LAWWJ-es'
 tags: [ 'impresora', ]

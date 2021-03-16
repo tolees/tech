@@ -5,7 +5,7 @@ date: 2020-06-14 17:49:03
 image: 'https://m.media-amazon.com/images/I/31ewSmX-eJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLBGRXN-es Philips Dect T Teléfono Inalámbrico'
 sku: 'B07YLBGRXN-es'
 tags: [ 'dect', ]

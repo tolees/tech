@@ -5,7 +5,7 @@ date: 2020-05-23 10:02:52
 image: 'https://m.media-amazon.com/images/I/41zYObCS4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LVMZWR-es Oihxse Cristal Compatible con Samsung Galaxy S20+/S20 Plus...'
 sku: 'B087LVMZWR-es'
 tags: [ 'galaxy','samsung', ]

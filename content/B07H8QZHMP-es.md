@@ -5,7 +5,7 @@ date: 2020-02-29 06:11:25
 image: 'https://m.media-amazon.com/images/I/41I06U4n0gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8QZHMP-es Quality Printing 3D Kit de Mejora para Xiaomi Mijia M365...'
 sku: 'B07H8QZHMP-es'
 tags: [ 'xiaomi', ]

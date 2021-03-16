@@ -5,7 +5,7 @@ date: 2020-06-18 14:20:25
 image: 'https://m.media-amazon.com/images/I/41eSaM+M75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT365MX-es Vieta Pro Goody - Altavoz inalámbrico True Wireless...'
 sku: 'B07QT365MX-es'
 tags: [ 'altavoz','bluetooth', ]

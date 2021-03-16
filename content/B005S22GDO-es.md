@@ -5,7 +5,7 @@ date: 2020-09-07 03:16:24
 image: 'https://m.media-amazon.com/images/I/31lw+FgaHXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005S22GDO-es T’NB Ratón Óptico Inalámbrico Blanco - Ultra Compacto...'
 sku: 'B005S22GDO-es'
 tags: [ 'ratón', ]

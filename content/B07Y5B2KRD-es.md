@@ -5,7 +5,7 @@ date: 2020-03-05 17:31:27
 image: 'https://m.media-amazon.com/images/I/51HJy5gcoAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5B2KRD-es ANEWSIR [3 Pack] Protector de Pantalla para Xiaomi Redmi...'
 sku: 'B07Y5B2KRD-es'
 tags: [ 'xiaomi', ]

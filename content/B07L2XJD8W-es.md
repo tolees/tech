@@ -5,7 +5,7 @@ date: 2020-09-16 16:42:34
 image: 'https://m.media-amazon.com/images/I/41wBYzgGShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2XJD8W-es TOPESEL 32GB Memoria USB 3.0 Tipo C Dual OTG Flash Drive...'
 sku: 'B07L2XJD8W-es'
 tags: [ 'galaxy','samsung', ]

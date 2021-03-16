@@ -5,7 +5,7 @@ date: 2020-08-29 02:16:06
 image: 'https://m.media-amazon.com/images/I/41C3Xn-bLqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BC3TYDM-es TECKNET Ratón con Cable Cable USB de 1 5 m 6 Botones hasta...'
 sku: 'B01BC3TYDM-es'
 tags: [ 'ratón', ]

@@ -5,7 +5,7 @@ date: 2020-07-27 01:00:58
 image: 'https://m.media-amazon.com/images/I/51DzqLgEGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WLVBJC-es DUX DUCIS Funda Carcasa para Samsung Galaxy Tab S6 Lite...'
 sku: 'B088WLVBJC-es'
 tags: [ 'galaxy','samsung', ]

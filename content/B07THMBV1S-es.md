@@ -5,7 +5,7 @@ date: 2020-08-05 11:38:25
 image: 'https://m.media-amazon.com/images/I/51KosUPRTEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THMBV1S-es Moviles Libres Baratos 4G 16GB ROM /Memoria Extendida 128...'
 sku: 'B07THMBV1S-es'
 tags: [ 'móvil','smartphone','wifi', ]

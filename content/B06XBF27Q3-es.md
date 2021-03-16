@@ -5,7 +5,7 @@ date: 2020-04-09 21:55:10
 image: 'https://m.media-amazon.com/images/I/412qCOoRscL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XBF27Q3-es Eje RAM MTB MAXLE Stealth 12x142mm L167 Negro'
 sku: 'B06XBF27Q3-es'
 tags: [ 'ram', ]

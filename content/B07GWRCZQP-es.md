@@ -5,7 +5,7 @@ date: 2020-06-01 07:26:57
 image: 'https://m.media-amazon.com/images/I/41JLvgDBg6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWRCZQP-es JBL Charge 4 - Altavoz inalámbrico portátil Impermeable...'
 sku: 'B07GWRCZQP-es'
 tags: [ 'altavoz','bluetooth', ]

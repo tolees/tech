@@ -5,7 +5,7 @@ date: 2020-09-11 08:12:50
 image: 'https://m.media-amazon.com/images/I/41yRswIfEQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQTFOYK-es Logitech G213 Prodigy Teclado Gaming Retroiluminación RGB...'
 sku: 'B01LQTFOYK-es'
 tags: [ 'logitech','teclado', ]

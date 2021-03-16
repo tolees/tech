@@ -5,7 +5,7 @@ date: 2020-04-01 11:57:39
 image: 'https://m.media-amazon.com/images/I/41eqZ0zqr9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BSDU5I-es Suunto MC-2 G Mirror Compass Brújula Profesional Unisex...'
 sku: 'B000BSDU5I-es'
 tags: [ 'suunto', ]

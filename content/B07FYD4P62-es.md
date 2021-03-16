@@ -5,7 +5,7 @@ date: 2020-01-11 23:03:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51psmQMUetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYD4P62-es Corsair Strafe RGB MK.2 - Teclado mecánico para Juegos...'
 sku: 'B07FYD4P62-es'
 tags: [ 'teclado', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 16:05:59
 image: 'https://m.media-amazon.com/images/I/31gCcEBYK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083H73KKN-es Lenovo ThinkPad E595 - Ordenador portátil 15.6" FullHD AMD...'
 sku: 'B083H73KKN-es'
 tags: [ 'lenovo','ordenador','ram', ]

@@ -5,7 +5,7 @@ date: 2020-09-06 08:45:37
 image: 'https://m.media-amazon.com/images/I/31VNPrRsycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NM76CQO-es StarTech.com PXTNB2SEU1M - Cable de alimentación estándar...'
 sku: 'B00NM76CQO-es'
 tags: [ 'ordenador', ]

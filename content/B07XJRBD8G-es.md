@@ -5,7 +5,7 @@ date: 2020-02-04 12:51:37
 image: 'https://m.media-amazon.com/images/I/418fYRNxQlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJRBD8G-es SMARTWATCH XIAOMI AMAZFIT BIP LITE GLOBAL 1 28 PULSOMETRO...'
 sku: 'B07XJRBD8G-es'
 tags: [ 'smartwatch','xiaomi', ]

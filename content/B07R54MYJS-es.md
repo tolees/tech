@@ -5,7 +5,7 @@ date: 2020-07-16 06:41:41
 image: 'https://m.media-amazon.com/images/I/413q9rcR1YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R54MYJS-es MEE audio X10 - Auriculares In-Ear Bluetooth sin Cable...'
 sku: 'B07R54MYJS-es'
 tags: [ 'auriculares','bluetooth', ]

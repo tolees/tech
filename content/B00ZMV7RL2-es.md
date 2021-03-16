@@ -5,7 +5,7 @@ date: 2020-09-27 23:58:39
 image: 'https://m.media-amazon.com/images/I/41zAuS64hsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZMV7RL2-es Rankie Adaptador HDMI a VGA 1080P con Audio 3.5 mm Cable y...'
 sku: 'B00ZMV7RL2-es'
 tags: [ '1080p', ]

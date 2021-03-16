@@ -5,7 +5,7 @@ date: 2020-10-05 01:01:32
 image: 'https://m.media-amazon.com/images/I/41NyzfVKsqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3KRWTR-es Lamicall Soporte de Almohada para Tablet - Almohada...'
 sku: 'B08B3KRWTR-es'
 tags: [ 'iphone','samsung','tablet', ]

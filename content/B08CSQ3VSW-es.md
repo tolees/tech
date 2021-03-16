@@ -5,7 +5,7 @@ date: 2020-10-02 00:35:50
 image: 'https://m.media-amazon.com/images/I/41HsKhjoN8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CSQ3VSW-es Soporte Portatil Laptop Stand Aluminio Ventilado...'
 sku: 'B08CSQ3VSW-es'
 tags: [ 'dell','ordenador','samsung', ]

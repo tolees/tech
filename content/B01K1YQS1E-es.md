@@ -5,7 +5,7 @@ date: 2020-05-14 09:19:10
 image: 'https://m.media-amazon.com/images/I/51iSFt2okNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K1YQS1E-es Andoer Flashes con zapata Flash Speedlite para Cámara...'
 sku: 'B01K1YQS1E-es'
 tags: [ 'canon','nikon','pentax', ]

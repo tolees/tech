@@ -5,7 +5,7 @@ date: 2020-01-27 02:20:31
 image: 'https://m.media-amazon.com/images/I/41xHyLT9olL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BFMGZ14-es Brother HL-L6300DW - Impresora láser Profesional Monocromo...'
 sku: 'B01BFMGZ14-es'
 tags: [ 'impresora','wifi', ]

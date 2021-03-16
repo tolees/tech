@@ -5,7 +5,7 @@ date: 2020-09-26 11:34:04
 image: 'https://m.media-amazon.com/images/I/41XmT4EegJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYBCL6W-es MSI Immerse GH50 - Auriculares 2.0 USB Sonido Virtual 7.1...'
 sku: 'B07XYBCL6W-es'
 tags: [ 'auriculares', ]

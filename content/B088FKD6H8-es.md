@@ -5,7 +5,7 @@ date: 2020-07-16 06:45:48
 image: 'https://m.media-amazon.com/images/I/41hiLvwHlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FKD6H8-es TMEZON Webcam 1080P cámara Web USB cámara de computadora...'
 sku: 'B088FKD6H8-es'
 tags: [ '1080p', ]

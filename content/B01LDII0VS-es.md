@@ -5,7 +5,7 @@ date: 2020-09-24 16:48:06
 image: 'https://m.media-amazon.com/images/I/31SYcct3zWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LDII0VS-es Sony SEL50M28.SYX - Lente Prime Macro Montura E de 55mm F2 8'
 sku: 'B01LDII0VS-es'
 tags: [ 'sony', ]

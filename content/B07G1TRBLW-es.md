@@ -5,7 +5,7 @@ date: 2020-05-28 05:31:35
 image: 'https://m.media-amazon.com/images/I/3178Z-hvbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector...'
 sku: 'B07G1TRBLW-es'
 tags: [ 'iphone', ]

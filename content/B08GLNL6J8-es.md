@@ -5,7 +5,7 @@ date: 2020-09-23 12:50:55
 image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLNL6J8-es UniqueMe [2 Pack] Protector de Pantalla para Xiaomi Mi...'
 sku: 'B08GLNL6J8-es'
 tags: [ 'xiaomi', ]

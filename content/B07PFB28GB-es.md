@@ -5,7 +5,7 @@ date: 2020-08-21 05:45:43
 image: 'https://m.media-amazon.com/images/I/41KbSLH9EjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFB28GB-es Estera del cojín del resto de muñeca del ratón del juego...'
 sku: 'B07PFB28GB-es'
 tags: [ 'ordenador','ratón', ]

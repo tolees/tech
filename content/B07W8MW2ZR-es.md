@@ -5,7 +5,7 @@ date: 2020-07-14 08:56:42
 image: 'https://m.media-amazon.com/images/I/41KX2BD7u6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8MW2ZR-es GPD P2 MAX 8.9 Pulgadas Ultrabook portátil Mini PC...'
 sku: 'B07W8MW2ZR-es'
 tags: [ 'ram', ]

@@ -5,7 +5,7 @@ date: 2020-04-04 05:24:04
 image: 'https://m.media-amazon.com/images/I/51a5YO1iDgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V1VVYQ-es NILLKIN Funda para iPhone 11 Pro 5.8" [Protección de la...'
 sku: 'B082V1VVYQ-es'
 tags: [ 'iphone', ]

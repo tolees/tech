@@ -5,7 +5,7 @@ date: 2020-01-21 08:45:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lrkZsL3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6H7QZ8-es Apple iPhone XS Max de 64GB - Plata'
 sku: 'B07J6H7QZ8-es'
 tags: [ 'apple','iphone', ]

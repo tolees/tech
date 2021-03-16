@@ -5,7 +5,7 @@ date: 2020-06-28 22:07:20
 image: 'https://m.media-amazon.com/images/I/51h8goef3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OOHY8IU-es CoastaCloud iPad 2 3 4 Funda con Teclado Bluetooth iPad...'
 sku: 'B00OOHY8IU-es'
 tags: [ 'bluetooth','teclado', ]

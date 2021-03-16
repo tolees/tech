@@ -5,7 +5,7 @@ date: 2020-05-12 14:36:20
 image: 'https://m.media-amazon.com/images/I/31M+2t33zBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDVMXV8-es Suunto 3 Fitness - Reloj Multideporte con GPS y pulsómetro...'
 sku: 'B07BDVMXV8-es'
 tags: [ 'gps','suunto', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 11:36:19
 image: 'https://m.media-amazon.com/images/I/41eUIuRmeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LPBGR4-es Oihxse Silicona Funda con Samsung Galaxy A20S TPU Flexible...'
 sku: 'B087LPBGR4-es'
 tags: [ 'galaxy','samsung', ]

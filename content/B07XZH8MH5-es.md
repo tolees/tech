@@ -5,7 +5,7 @@ date: 2020-04-26 03:55:27
 image: 'https://m.media-amazon.com/images/I/41NWtyz8CnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZH8MH5-es Hoover HF522NPW H-Free 500 - Aspiradora Escoba sin Cable...'
 sku: 'B07XZH8MH5-es'
 tags: [ 'wifi', ]

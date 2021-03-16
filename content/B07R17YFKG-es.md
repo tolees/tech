@@ -5,7 +5,7 @@ date: 2020-04-22 07:32:41
 image: 'https://m.media-amazon.com/images/I/41+RM8ghcOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R17YFKG-es Disco Duro Externo Portátil DE 2 5" 160 GB USB 3.0 SATA...'
 sku: 'B07R17YFKG-es'
 tags: [ 'disco','duro', ]

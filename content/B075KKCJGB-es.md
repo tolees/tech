@@ -5,7 +5,7 @@ date: 2020-10-07 13:20:30
 image: 'https://m.media-amazon.com/images/I/41qHcfabV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KKCJGB-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con...'
 sku: 'B075KKCJGB-es'
 tags: [ 'sandisk', ]

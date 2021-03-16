@@ -5,7 +5,7 @@ date: 2020-08-09 23:09:53
 image: 'https://m.media-amazon.com/images/I/41GhgGeO1vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HIB4O6Y-es ICZI Cable DisplayPort a HDMI 1.8m Cable Adaptador DP a...'
 sku: 'B01HIB4O6Y-es'
 tags: [ '1080p','ordenador', ]

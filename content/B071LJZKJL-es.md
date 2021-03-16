@@ -5,7 +5,7 @@ date: 2020-09-24 16:52:30
 image: 'https://m.media-amazon.com/images/I/411d3TSEzXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LJZKJL-es Sony SEL1635GM - Objetivo Sony montura E color negro'
 sku: 'B071LJZKJL-es'
 tags: [ 'sony', ]

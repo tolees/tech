@@ -5,7 +5,7 @@ date: 2020-04-04 04:23:09
 image: 'https://m.media-amazon.com/images/I/51icHRcN07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6DQ5TB-es iBetter Diseño para Xiaomi Redmi Note 8 Funda Fina de...'
 sku: 'B07X6DQ5TB-es'
 tags: [ 'xiaomi', ]

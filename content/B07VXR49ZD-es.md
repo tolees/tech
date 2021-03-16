@@ -5,7 +5,7 @@ date: 2020-08-19 08:09:24
 image: 'https://m.media-amazon.com/images/I/41DwmM5SHdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXR49ZD-es Garmin vívoactive 4S - Reloj inteligente con GPS y...'
 sku: 'B07VXR49ZD-es'
 tags: [ 'garmin','gps', ]

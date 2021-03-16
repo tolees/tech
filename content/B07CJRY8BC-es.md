@@ -5,7 +5,7 @@ date: 2020-02-24 01:03:14
 image: 'https://m.media-amazon.com/images/I/41-lMOymuML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJRY8BC-es DR2300 Tambor Compatible con Brother Tambor DR 2300 1...'
 sku: 'B07CJRY8BC-es'
 tags: [ 'impresora', ]

@@ -5,7 +5,7 @@ date: 2020-03-03 10:53:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OCFB0VBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776YHLPW-es Apple Funda de piel para el MacBook de 12 pulgadas - Azul...'
 sku: 'B0776YHLPW-es'
 tags: [ 'apple', ]

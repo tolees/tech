@@ -5,7 +5,7 @@ date: 2020-05-18 07:25:24
 image: 'https://m.media-amazon.com/images/I/31sEDixr7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos...'
 sku: 'B07L7NPK28-es'
 tags: [ 'auriculares','bluetooth','huawei','iphone','samsung','xiaomi', ]

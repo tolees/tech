@@ -5,7 +5,7 @@ date: 2020-04-01 01:17:36
 image: 'https://m.media-amazon.com/images/I/313HQWxsmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0096M4QYO-es Microsoft – Comfort Mouse 4500 Negro'
 sku: 'B0096M4QYO-es'
 tags: [ 'microsoft', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 19:03:51
 image: 'https://m.media-amazon.com/images/I/41xqTwNwjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088PR7M5T-es WACCET Cámara Web HD 1080p PC Webcam con Microfono USB...'
 sku: 'B088PR7M5T-es'
 tags: [ '1080p', ]

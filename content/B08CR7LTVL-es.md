@@ -5,7 +5,7 @@ date: 2020-07-22 08:32:52
 image: 'https://m.media-amazon.com/images/I/41Zdy2wvAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CR7LTVL-es Abasic Correa de Reloj Reemplazo Compatible con Galaxy...'
 sku: 'B08CR7LTVL-es'
 tags: [ 'galaxy', ]

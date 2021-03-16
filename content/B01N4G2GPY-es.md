@@ -5,7 +5,7 @@ date: 2020-07-20 05:14:12
 image: 'https://m.media-amazon.com/images/I/5185t4IiyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4G2GPY-es Thule TSA313 - Maletín Resistente para Apple MacBook de...'
 sku: 'B01N4G2GPY-es'
 tags: [ 'apple', ]

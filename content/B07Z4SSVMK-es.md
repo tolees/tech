@@ -5,7 +5,7 @@ date: 2020-06-21 23:03:24
 image: 'https://m.media-amazon.com/images/I/416VP5xdD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4SSVMK-es Ayete Ratón Vertical 2.4 G Ratón Ergonómico Óptico...'
 sku: 'B07Z4SSVMK-es'
 tags: [ 'ordenador','ratón', ]

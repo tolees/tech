@@ -5,7 +5,7 @@ date: 2020-01-06 09:02:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BOZ30DTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SQXVF7A-es HEXBUG Nano 480-3031 - Ratón Mini Robot Inteligente...'
 sku: 'B00SQXVF7A-es'
 tags: [ 'ratón', ]

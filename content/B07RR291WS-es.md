@@ -5,7 +5,7 @@ date: 2020-03-08 08:50:33
 image: 'https://m.media-amazon.com/images/I/51CfuEcZX0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR291WS-es Beeasy Funda Samsung Galaxy S9 Plus Antigolpes Rígida...'
 sku: 'B07RR291WS-es'
 tags: [ 'galaxy','samsung', ]

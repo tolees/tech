@@ -5,7 +5,7 @@ date: 2020-06-02 06:50:17
 image: 'https://m.media-amazon.com/images/I/51aDege7FwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X26HCC8-es HP OMEN 15-dc1032ns - Portátil Gaming de 15.6" FullHD...'
 sku: 'B07X26HCC8-es'
 tags: [ 'ram','teclado', ]

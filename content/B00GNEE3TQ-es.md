@@ -5,7 +5,7 @@ date: 2020-07-16 12:33:05
 image: 'https://m.media-amazon.com/images/I/51yZCEG88sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GNEE3TQ-es Plataforma Vibratoria Bluefin Fitness Ultra Slim | 5...'
 sku: 'B00GNEE3TQ-es'
 tags: [ 'bluetooth', ]

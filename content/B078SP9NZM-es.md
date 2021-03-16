@@ -5,7 +5,7 @@ date: 2020-04-22 11:48:27
 image: 'https://m.media-amazon.com/images/I/31td-FwPaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SP9NZM-es Teléfono móvil con Tapa para Personas Mayores Teclas...'
 sku: 'B078SP9NZM-es'
 tags: [ 'móvil', ]

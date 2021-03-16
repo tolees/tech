@@ -5,7 +5,7 @@ date: 2020-03-28 19:16:00
 image: 'https://m.media-amazon.com/images/I/41yKG4hTJGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AYB3MD6-es Invision Soporte de Pared para TV para 24-55 Pulgadas...'
 sku: 'B01AYB3MD6-es'
 tags: [ '1080p', ]

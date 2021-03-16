@@ -5,7 +5,7 @@ date: 2020-06-12 17:02:26
 image: 'https://m.media-amazon.com/images/I/41KTNmpWgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable Ratón Ordenador...'
 sku: 'B085XYJTLC-es'
 tags: [ 'bluetooth','ordenador','ratón', ]

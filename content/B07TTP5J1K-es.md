@@ -5,7 +5,7 @@ date: 2020-09-19 04:40:46
 image: 'https://m.media-amazon.com/images/I/51tVAMDpsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTP5J1K-es GIGABYTE X570 AORUS Master'
 sku: 'B07TTP5J1K-es'
 tags: [ 'gigabyte', ]

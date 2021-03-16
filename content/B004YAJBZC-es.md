@@ -5,7 +5,7 @@ date: 2020-04-24 07:41:08
 image: 'https://m.media-amazon.com/images/I/51LGF28ISrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004YAJBZC-es Sony LCSAMB - Bolsa Compatible con los Modelos Alpha SLT'
 sku: 'B004YAJBZC-es'
 tags: [ 'sony', ]

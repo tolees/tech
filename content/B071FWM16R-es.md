@@ -5,7 +5,7 @@ date: 2020-03-15 08:25:52
 image: 'https://m.media-amazon.com/images/I/51tnbtC+1-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FWM16R-es Lenovo L24i-10 - Monitor de 23.8" Pantalla FullHD/IPS 1920...'
 sku: 'B071FWM16R-es'
 tags: [ 'lenovo', ]

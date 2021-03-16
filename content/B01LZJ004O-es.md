@@ -5,7 +5,7 @@ date: 2020-02-06 04:54:05
 image: 'https://m.media-amazon.com/images/I/41C37STVa8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZJ004O-es Fujifilm Instax Mini Monochrome - Película Instantánea'
 sku: 'B01LZJ004O-es'
 tags: [ 'fujifilm', ]

@@ -5,7 +5,7 @@ date: 2020-07-19 22:05:15
 image: 'https://m.media-amazon.com/images/I/41it4oNyTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLSDPYN-es UGREEN Cable USB C a USB C Cable PD 20V 3A 60W Carga...'
 sku: 'B07PLSDPYN-es'
 tags: [ 'huawei','samsung','xiaomi', ]

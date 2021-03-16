@@ -5,7 +5,7 @@ date: 2020-03-14 16:51:33
 image: 'https://m.media-amazon.com/images/I/41FOfQxhtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6NKCZN-es ASUS GX701GXR-H6097T - Portátil Gaming de 15 6" FullHD...'
 sku: 'B07Z6NKCZN-es'
 tags: [ 'asus','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-07-10 00:35:59
 image: 'https://m.media-amazon.com/images/I/41Qtl65rqXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6CP15J-es Mixcder E7 Auriculares Bluetooth 5.0 con Cancelacón Activa...'
 sku: 'B07V6CP15J-es'
 tags: [ 'auriculares','bluetooth', ]

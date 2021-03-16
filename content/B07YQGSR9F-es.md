@@ -5,7 +5,7 @@ date: 2020-01-10 07:22:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414VJoUGBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQGSR9F-es MSI GF65 Thin 9SD-038XES - Ordenador portátil de 15.6"...'
 sku: 'B07YQGSR9F-es'
 tags: [ 'ordenador','ram','teclado', ]

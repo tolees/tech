@@ -5,7 +5,7 @@ date: 2020-06-21 07:01:40
 image: 'https://m.media-amazon.com/images/I/41VoO8rW3ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3R9YC9-es Jelly Comb Ratón Bluetooth 2.4G + Bluetooth 4.0 Mouse...'
 sku: 'B07T3R9YC9-es'
 tags: [ 'bluetooth','ratón', ]

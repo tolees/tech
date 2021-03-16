@@ -5,7 +5,7 @@ date: 2020-01-22 18:08:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifP5iw-UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THKK4M8-es Lncoon Localizador GPS para Niños Antirrobo Rastreo...'
 sku: 'B07THKK4M8-es'
 tags: [ 'gps', ]

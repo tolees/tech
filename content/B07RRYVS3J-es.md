@@ -5,7 +5,7 @@ date: 2020-09-09 17:08:26
 image: 'https://m.media-amazon.com/images/I/31Ui2bbnWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRYVS3J-es JVC HA-S35BT - Auriculares Inalámbrico Diadema Binaural...'
 sku: 'B07RRYVS3J-es'
 tags: [ 'auriculares','jvc', ]

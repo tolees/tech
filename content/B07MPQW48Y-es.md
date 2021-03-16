@@ -5,7 +5,7 @@ date: 2020-02-23 20:09:17
 image: 'https://m.media-amazon.com/images/I/31NehTKunwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPQW48Y-es Sony MHC-V82D - Sistema de Audio de Alta Potencia...'
 sku: 'B07MPQW48Y-es'
 tags: [ 'bluetooth','sony', ]

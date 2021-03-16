@@ -5,7 +5,7 @@ date: 2020-04-09 15:50:16
 image: 'https://m.media-amazon.com/images/I/41NWtjERYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07514HXLT-es HP Envy Photo 6230 – Impresora multifunción inalámbrica...'
 sku: 'B07514HXLT-es'
 tags: [ 'impresora', ]

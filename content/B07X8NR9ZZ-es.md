@@ -5,7 +5,7 @@ date: 2020-06-22 01:33:38
 image: 'https://m.media-amazon.com/images/I/51wjLStUy+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8NR9ZZ-es Baseus Cable USB Tipo C Cargador Quick Charge 3.0 Tipo c...'
 sku: 'B07X8NR9ZZ-es'
 tags: [ 'galaxy','huawei','samsung','sony', ]

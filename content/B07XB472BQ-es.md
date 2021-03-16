@@ -5,7 +5,7 @@ date: 2020-05-30 17:24:29
 image: 'https://m.media-amazon.com/images/I/41BjDgsrlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB472BQ-es Ansblue Correa Compatible para Garmin Vivofit 4 Correa...'
 sku: 'B07XB472BQ-es'
 tags: [ 'garmin', ]

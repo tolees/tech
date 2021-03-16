@@ -5,7 +5,7 @@ date: 2020-05-28 11:00:03
 image: 'https://m.media-amazon.com/images/I/31cuX2cZQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5Y2FH1-es G-Technology G-Drive Mobile USB-C - Disco Duro Externo 5...'
 sku: 'B07Y5Y2FH1-es'
 tags: [ 'disco','duro', ]

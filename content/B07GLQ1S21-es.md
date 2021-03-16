@@ -5,7 +5,7 @@ date: 2020-08-05 13:25:58
 image: 'https://m.media-amazon.com/images/I/41D3QLEXNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLQ1S21-es SUNYDEAL Cargador de portátil 90W HP Pavilion DV4 DV5 DV6...'
 sku: 'B07GLQ1S21-es'
 tags: [ 'ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-07-08 17:38:07
 image: 'https://m.media-amazon.com/images/I/41esWxN0MaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1L4C4H-es ASUNCELL Batería del Ordenador portátil para ASUS X551...'
 sku: 'B07Q1L4C4H-es'
 tags: [ 'asus','ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:55:37
 image: 'https://m.media-amazon.com/images/I/51rDgYILCeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida...'
 sku: 'B086VCWT35-es'
 tags: [ 'huawei','samsung', ]

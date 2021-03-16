@@ -5,7 +5,7 @@ date: 2020-07-15 10:42:54
 image: 'https://m.media-amazon.com/images/I/31yPqwUuakL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPK4GRZ-es Jabra Elite Active 45e – Auriculares Deportivos Bluetooth...'
 sku: 'B07NPK4GRZ-es'
 tags: [ 'auriculares','bluetooth', ]

@@ -5,7 +5,7 @@ date: 2020-07-30 09:37:24
 image: 'https://m.media-amazon.com/images/I/51GTRnkqEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6JPTVG-es 3 en 1 Multi Cable de Carga GIANAC Nylon Multiple USB...'
 sku: 'B07Q6JPTVG-es'
 tags: [ 'galaxy','kindle','sony','xiaomi', ]

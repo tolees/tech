@@ -5,7 +5,7 @@ date: 2020-01-13 10:41:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZTpLjd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHMSY8H-es ACEPC Fanless Mini PC T6 Intel Atom Z8350 Computer Stick...'
 sku: 'B07RHMSY8H-es'
 tags: [ 'wifi', ]

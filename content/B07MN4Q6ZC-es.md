@@ -5,7 +5,7 @@ date: 2020-03-21 20:37:21
 image: 'https://m.media-amazon.com/images/I/41peU93E8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN4Q6ZC-es iGPSPORT HR60 pulsómetros Brazalete Compatible con Ant+ y...'
 sku: 'B07MN4Q6ZC-es'
 tags: [ 'bluetooth', ]

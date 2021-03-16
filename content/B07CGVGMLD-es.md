@@ -5,7 +5,7 @@ date: 2020-07-09 22:36:37
 image: 'https://m.media-amazon.com/images/I/31KPUqwpFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGVGMLD-es Logitech G305 Lightspeed Ratón Gaming Inalámbrico Captor...'
 sku: 'B07CGVGMLD-es'
 tags: [ 'logitech','ratón', ]

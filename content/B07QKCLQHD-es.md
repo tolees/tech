@@ -5,7 +5,7 @@ date: 2020-08-02 20:45:20
 image: 'https://m.media-amazon.com/images/I/41dSprfaU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKCLQHD-es AmazonBasics - Funda para ordenador portátil urbana de 39...'
 sku: 'B07QKCLQHD-es'
 tags: [ 'ordenador', ]

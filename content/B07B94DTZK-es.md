@@ -5,7 +5,7 @@ date: 2020-07-07 00:16:32
 image: 'https://m.media-amazon.com/images/I/51FK32lfgpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B94DTZK-es 19V 3.16A 60W Adaptador de CA / cargador de computadora...'
 sku: 'B07B94DTZK-es'
 tags: [ 'samsung', ]

@@ -5,7 +5,7 @@ date: 2020-01-25 15:27:49
 image: 'https://m.media-amazon.com/images/I/41BYH4XiwAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077KLG8QB-es Garmin Vívomove HR- Reloj híbrido con pantalla oculta y...'
 sku: 'B077KLG8QB-es'
 tags: [ 'garmin', ]

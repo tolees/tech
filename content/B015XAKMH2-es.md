@@ -5,7 +5,7 @@ date: 2020-09-23 05:30:43
 image: 'https://m.media-amazon.com/images/I/41HDFxE3+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015XAKMH2-es MagiDeal USB 3.0 Micro B Poder Cable Cargador Para Disco...'
 sku: 'B015XAKMH2-es'
 tags: [ 'disco','duro','toshiba', ]

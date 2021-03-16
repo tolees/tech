@@ -5,7 +5,7 @@ date: 2020-04-22 12:12:04
 image: 'https://m.media-amazon.com/images/I/31tX5tPwzrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNXBPCY-es Sigma F4.5-6.3 DG OS HSM Sport - Teleobjetivo Zoom 60-600...'
 sku: 'B07HNXBPCY-es'
 tags: [ 'canon', ]

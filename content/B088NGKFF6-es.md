@@ -5,7 +5,7 @@ date: 2020-10-05 12:33:16
 image: 'https://m.media-amazon.com/images/I/31-gAPXMvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NGKFF6-es UGREEN Cargador de Coche con LED 24W 4.8A Doble Puerto...'
 sku: 'B088NGKFF6-es'
 tags: [ 'huawei','iphone','samsung','xiaomi', ]

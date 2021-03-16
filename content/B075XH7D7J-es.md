@@ -5,7 +5,7 @@ date: 2020-04-24 10:41:25
 image: 'https://m.media-amazon.com/images/I/51Fuj823dLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XH7D7J-es ZoeeTree S4-black Altavoz Bluetooth Portatiles Inalámbrico...'
 sku: 'B075XH7D7J-es'
 tags: [ 'altavoz','bluetooth', ]

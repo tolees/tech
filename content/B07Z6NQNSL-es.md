@@ -5,7 +5,7 @@ date: 2020-01-22 16:46:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T1KlCRtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6NQNSL-es ASUS ROG Strix G731GU-H7154T - Portátil Gaming de 17 3"...'
 sku: 'B07Z6NQNSL-es'
 tags: [ 'asus','ram','teclado', ]

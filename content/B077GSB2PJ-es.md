@@ -5,7 +5,7 @@ date: 2020-06-21 22:06:45
 image: 'https://m.media-amazon.com/images/I/41NALxBCQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GSB2PJ-es Tenda PW201A N300 Extensor de Red por Linea elétrica WiFi...'
 sku: 'B077GSB2PJ-es'
 tags: [ 'plc','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-05-17 18:13:47
 image: 'https://m.media-amazon.com/images/I/41SH6V-kMTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001EX5BJ2-es Canon PG-510 Cartucho de tinta original Negro para...'
 sku: 'B001EX5BJ2-es'
 tags: [ 'canon','impresora', ]

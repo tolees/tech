@@ -5,7 +5,7 @@ date: 2020-04-15 08:50:06
 image: 'https://m.media-amazon.com/images/I/3170Sqb2kJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBR79W2-es HP Obelisk Desktop 7VZ40EA - Ordenador de sobremesa Intel...'
 sku: 'B07YBR79W2-es'
 tags: [ 'ordenador','ram', ]

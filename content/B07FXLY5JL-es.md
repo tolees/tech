@@ -5,7 +5,7 @@ date: 2020-04-18 16:02:40
 image: 'https://m.media-amazon.com/images/I/41Kf1KX7rYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXLY5JL-es Brother DCPL3510CDWG1 3IN1 Impresora LED DCPL3510CDW...'
 sku: 'B07FXLY5JL-es'
 tags: [ 'impresora', ]

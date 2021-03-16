@@ -5,7 +5,7 @@ date: 2020-06-12 13:31:17
 image: 'https://m.media-amazon.com/images/I/51xJPOGVqLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V79SZF8-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
 sku: 'B07V79SZF8-es'
 tags: [ 'ordenador', ]

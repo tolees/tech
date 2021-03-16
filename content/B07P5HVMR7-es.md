@@ -5,7 +5,7 @@ date: 2020-09-17 12:36:22
 image: 'https://m.media-amazon.com/images/I/21tRD+libJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5HVMR7-es Samsung Book Cover EF-BT720 - Funda para Galaxy Tab S5e negro'
 sku: 'B07P5HVMR7-es'
 tags: [ 'galaxy','samsung', ]

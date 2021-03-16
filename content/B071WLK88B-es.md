@@ -5,7 +5,7 @@ date: 2020-09-30 08:42:52
 image: 'https://m.media-amazon.com/images/I/31KK-prXanL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WLK88B-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
 sku: 'B071WLK88B-es'
 tags: [ 'apple', ]

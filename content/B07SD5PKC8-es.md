@@ -5,7 +5,7 @@ date: 2020-07-18 12:26:59
 image: 'https://m.media-amazon.com/images/I/31I2E1mAhcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD5PKC8-es HP Elite 8300 - Ordenador de sobremesa Intel Core i7-3770...'
 sku: 'B07SD5PKC8-es'
 tags: [ 'ordenador','ram','wifi', ]

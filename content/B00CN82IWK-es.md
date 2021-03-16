@@ -5,7 +5,7 @@ date: 2020-03-31 17:32:30
 image: 'https://m.media-amazon.com/images/I/41h1-0nwwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CN82IWK-es Sony HVLF20M - Flash con Zapata para DSC-RX1; DSC-HX50;...'
 sku: 'B00CN82IWK-es'
 tags: [ 'sony', ]

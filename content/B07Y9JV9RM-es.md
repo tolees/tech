@@ -5,7 +5,7 @@ date: 2020-08-14 12:39:22
 image: 'https://m.media-amazon.com/images/I/41h+eW743hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9JV9RM-es Candy Rapidò ROW 4966DWHC/1-S - Lavasecadora 9+6Kgs WiFi &...'
 sku: 'B07Y9JV9RM-es'
 tags: [ 'bluetooth','wifi', ]

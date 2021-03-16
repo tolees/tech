@@ -5,7 +5,7 @@ date: 2020-05-28 17:44:18
 image: 'https://m.media-amazon.com/images/I/31pitDPXDcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGSKYKB-es TOOGOO Nuevo Cable De Cargador De Cable De Carga USB De...'
 sku: 'B07LGSKYKB-es'
 tags: [ 'xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-06-15 20:01:17
 image: 'https://m.media-amazon.com/images/I/51qjEMlIAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MWNDXQQ-es Impresora de inyección de tinta Canon PIXMA iP110 Negra...'
 sku: 'B00MWNDXQQ-es'
 tags: [ 'canon','impresora','wifi', ]

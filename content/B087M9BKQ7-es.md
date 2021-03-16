@@ -5,7 +5,7 @@ date: 2020-05-31 16:22:27
 image: 'https://m.media-amazon.com/images/I/41IJpEHn3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M9BKQ7-es Oihxse Silicona Funda con Huawei P40 Pro TPU Flexible...'
 sku: 'B087M9BKQ7-es'
 tags: [ 'huawei', ]

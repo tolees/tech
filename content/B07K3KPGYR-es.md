@@ -5,7 +5,7 @@ date: 2020-08-28 18:11:06
 image: 'https://m.media-amazon.com/images/I/41vOFfoXzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3KPGYR-es Harman Kardon Onyx 5 - Altavoz portátil Bluetooth 4.2...'
 sku: 'B07K3KPGYR-es'
 tags: [ 'altavoz','bluetooth', ]

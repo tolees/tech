@@ -5,7 +5,7 @@ date: 2020-03-18 23:04:47
 image: 'https://m.media-amazon.com/images/I/311SfWYvd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RVDOQXG-es AVM FRITZ!WLAN Repeater 1750E International -...'
 sku: 'B00RVDOQXG-es'
 tags: [ 'wifi', ]

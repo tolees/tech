@@ -5,7 +5,7 @@ date: 2020-01-26 04:34:10
 image: 'https://m.media-amazon.com/images/I/31R4hH8PdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD12G9Q-es Auriculares XIAOMI IN-Ear Headphone Pro 2 Black'
 sku: 'B07FD12G9Q-es'
 tags: [ 'auriculares','xiaomi', ]

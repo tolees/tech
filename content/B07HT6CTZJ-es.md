@@ -5,7 +5,7 @@ date: 2020-01-14 07:58:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418rRKp1HzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HT6CTZJ-es ECHTPower Ratón Vertical Inalámbrico Diseño Ergonómico dpi...'
 sku: 'B07HT6CTZJ-es'
 tags: [ 'ratón', ]

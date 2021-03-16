@@ -5,7 +5,7 @@ date: 2020-09-25 12:43:32
 image: 'https://m.media-amazon.com/images/I/31cibSTihsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGGD6N6-es 7XINbox VGP-BPS35A batería portatil 14.8V 40Wh 2670mAh...'
 sku: 'B07CGGD6N6-es'
 tags: [ 'sony', ]

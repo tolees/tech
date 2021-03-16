@@ -5,7 +5,7 @@ date: 2020-09-11 08:19:14
 image: 'https://m.media-amazon.com/images/I/31UJdfMuC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X5FTB1-es Sony SBH24 Dentro de oído Binaural Inalámbrico Blanco -...'
 sku: 'B073X5FTB1-es'
 tags: [ 'auriculares','sony', ]

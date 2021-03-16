@@ -5,7 +5,7 @@ date: 2020-04-27 11:18:01
 image: 'https://m.media-amazon.com/images/I/41o-GC7-uxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TS9FUN6-es Samyang F1111106101 - Objetivo fotográfico DSLR para Sony...'
 sku: 'B00TS9FUN6-es'
 tags: [ 'sony', ]

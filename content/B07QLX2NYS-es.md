@@ -5,7 +5,7 @@ date: 2020-01-25 10:21:56
 image: 'https://m.media-amazon.com/images/I/51Yna7qz6zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLX2NYS-es Teléfono Celular Bolsa con Clip de Cinturón 6.3" Bolsa...'
 sku: 'B07QLX2NYS-es'
 tags: [ 'móvil', ]

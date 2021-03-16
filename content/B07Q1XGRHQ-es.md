@@ -5,7 +5,7 @@ date: 2020-09-28 00:03:24
 image: 'https://m.media-amazon.com/images/I/41gcBXzor6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1XGRHQ-es TPLGO 24 Tarjetas NFC para the Legend of Zelda Breath of...'
 sku: 'B07Q1XGRHQ-es'
 tags: [ 'wii', ]

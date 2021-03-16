@@ -5,7 +5,7 @@ date: 2020-04-18 03:29:53
 image: 'https://m.media-amazon.com/images/I/41burplp9-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYL1HCR-es SeeKool Z83-V Mini PC Ordenador de sobremesa Soporte...'
 sku: 'B07TYL1HCR-es'
 tags: [ 'ordenador','ram','wifi', ]

@@ -5,7 +5,7 @@ date: 2020-03-27 16:19:41
 image: 'https://m.media-amazon.com/images/I/41MzphxVmRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2N9W8L-es Apple iPad Pro 11 pulgadas Wi-Fi 512GB - Plata Modelo...'
 sku: 'B07K2N9W8L-es'
 tags: [ 'apple', ]

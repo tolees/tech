@@ -5,7 +5,7 @@ date: 2020-04-19 13:20:39
 image: 'https://m.media-amazon.com/images/I/317zXChxbcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5TKD77-es MSI PS42 Modern 8MO-208XES Ordenador Portátil de 14" FHD...'
 sku: 'B07W5TKD77-es'
 tags: [ 'ordenador','ram','teclado', ]

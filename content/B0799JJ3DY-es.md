@@ -5,7 +5,7 @@ date: 2020-08-10 16:47:38
 image: 'https://m.media-amazon.com/images/I/31XA2dE+b2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga...'
 sku: 'B0799JJ3DY-es'
 tags: [ 'galaxy','iphone', ]

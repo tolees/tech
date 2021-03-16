@@ -5,7 +5,7 @@ date: 2020-06-10 18:42:09
 image: 'https://m.media-amazon.com/images/I/21TlZcNUEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LM8YM4-es MKTOSASA - Altavoz bailarín de Original diseño Que Baila...'
 sku: 'B085LM8YM4-es'
 tags: [ 'altavoz', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 13:32:28
 image: 'https://m.media-amazon.com/images/I/41LW0mQF0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth...'
 sku: 'B07F9X6G9M-es'
 tags: [ 'bluetooth','logitech','teclado', ]

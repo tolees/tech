@@ -5,7 +5,7 @@ date: 2020-04-03 14:02:56
 image: 'https://m.media-amazon.com/images/I/41Iex9P-lEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
 sku: 'B07H5SXW8F-es'
 tags: [ 'huawei','iphone','móvil','samsung', ]

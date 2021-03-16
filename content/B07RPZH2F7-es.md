@@ -5,7 +5,7 @@ date: 2020-07-15 11:55:18
 image: 'https://m.media-amazon.com/images/I/41SIfGcT2WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPZH2F7-es Godox AD200Pro Pocket Flash Portatil inalámbrico TTL con...'
 sku: 'B07RPZH2F7-es'
 tags: [ 'fujifilm','nikon','sony', ]

@@ -5,7 +5,7 @@ date: 2020-04-04 13:11:26
 image: 'https://m.media-amazon.com/images/I/419Tc8KrRSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PXB5F9-es Trust Ziva - Teclado Gaming Layout español Negro'
 sku: 'B074PXB5F9-es'
 tags: [ 'teclado', ]

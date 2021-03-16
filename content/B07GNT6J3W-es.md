@@ -5,7 +5,7 @@ date: 2020-09-24 08:42:16
 image: 'https://m.media-amazon.com/images/I/41APUd6zGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNT6J3W-es Samsung Galaxy Tab S4 - Tablet de 10.5 4G RAM de 4 GB...'
 sku: 'B07GNT6J3W-es'
 tags: [ 'galaxy','ram','samsung','tablet', ]

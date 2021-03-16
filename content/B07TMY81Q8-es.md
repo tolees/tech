@@ -5,7 +5,7 @@ date: 2020-09-07 16:16:06
 image: 'https://m.media-amazon.com/images/I/41IkcG2r6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMY81Q8-es Funda Bateria para iPhone X/XS/10 FLYLINKTECH 4000mAh...'
 sku: 'B07TMY81Q8-es'
 tags: [ 'iphone', ]

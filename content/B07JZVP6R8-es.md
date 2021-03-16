@@ -5,7 +5,7 @@ date: 2020-03-25 11:46:32
 image: 'https://m.media-amazon.com/images/I/31Vj6IUb-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZVP6R8-es Sigma F1.4 DC DN Contemporary - Objetivo 56 mm para Sony E...'
 sku: 'B07JZVP6R8-es'
 tags: [ 'sony', ]

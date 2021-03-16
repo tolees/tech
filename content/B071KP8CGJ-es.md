@@ -5,7 +5,7 @@ date: 2020-09-27 02:30:48
 image: 'https://m.media-amazon.com/images/I/51I9PbkKSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KP8CGJ-es Crucial CT16G4SFD8266 Memoria RAM de 16 GB DDR4 2666 MT/s...'
 sku: 'B071KP8CGJ-es'
 tags: [ 'ram', ]

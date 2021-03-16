@@ -5,7 +5,7 @@ date: 2020-03-09 23:04:33
 image: 'https://m.media-amazon.com/images/I/41Z7H3xq0jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JM2VSRU-es HP Laserjet Pro M227sdn - Impresora láser multifunción 800...'
 sku: 'B01JM2VSRU-es'
 tags: [ 'impresora', ]

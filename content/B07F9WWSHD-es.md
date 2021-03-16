@@ -5,7 +5,7 @@ date: 2020-09-13 05:30:20
 image: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9WWSHD-es Lenovo L22e-20 21.5 " FHD VA FreeSync Gaming Monitor 4 ms...'
 sku: 'B07F9WWSHD-es'
 tags: [ 'lenovo', ]

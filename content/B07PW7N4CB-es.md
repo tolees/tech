@@ -5,7 +5,7 @@ date: 2020-09-13 23:01:09
 image: 'https://m.media-amazon.com/images/I/31l6Mld-FCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW7N4CB-es UGREEN Cable USB Tipo C a Lightning Cable iPhone 11 Apple...'
 sku: 'B07PW7N4CB-es'
 tags: [ 'apple','iphone', ]

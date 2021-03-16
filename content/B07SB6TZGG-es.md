@@ -5,7 +5,7 @@ date: 2020-10-10 10:28:53
 image: 'https://m.media-amazon.com/images/I/31Okdv1cySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB6TZGG-es HP Laser MFP 135w - Impresora láser multifunción imprime...'
 sku: 'B07SB6TZGG-es'
 tags: [ 'impresora','wifi', ]

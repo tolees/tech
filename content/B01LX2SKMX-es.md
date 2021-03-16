@@ -5,7 +5,7 @@ date: 2020-07-23 14:45:48
 image: 'https://m.media-amazon.com/images/I/31YjnV4ArwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX2SKMX-es Belkin Valet Charger - Batería externa de 6700 mAh para...'
 sku: 'B01LX2SKMX-es'
 tags: [ 'apple','iphone', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 17:02:40
 image: 'https://m.media-amazon.com/images/I/41dJRn4WKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WHHZFS-es SteelSeries Apex 5 - Teclado mecánico híbrido para Gaming...'
 sku: 'B082WHHZFS-es'
 tags: [ 'teclado', ]

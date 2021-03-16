@@ -5,7 +5,7 @@ date: 2020-10-02 13:30:44
 image: 'https://m.media-amazon.com/images/I/41-NeV48ThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZUQW14-es i-Buy La cubierta del teclado de silicona para el MacBook...'
 sku: 'B01GZUQW14-es'
 tags: [ 'teclado', ]

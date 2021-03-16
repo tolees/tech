@@ -5,7 +5,7 @@ date: 2020-09-30 00:57:25
 image: 'https://m.media-amazon.com/images/I/41YrABc7npL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6H2WF7-es AmazonBasics - Minialfombrilla de ratón para videojuegos'
 sku: 'B06X6H2WF7-es'
 tags: [ 'ratón', ]

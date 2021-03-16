@@ -5,7 +5,7 @@ date: 2020-05-21 18:09:56
 image: 'https://m.media-amazon.com/images/I/21Z5BY7A+8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STGS7TI-es Energy Sistem Tower 5 - Sistema de sonido Bluetooth 60 W...'
 sku: 'B00STGS7TI-es'
 tags: [ 'bluetooth', ]

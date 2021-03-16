@@ -5,7 +5,7 @@ date: 2020-05-07 11:26:01
 image: 'https://m.media-amazon.com/images/I/41dhHiZAY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKVH6CR-es Victure 1080P Cámara de Seguridad Exteriores Inalámbrica...'
 sku: 'B07XKVH6CR-es'
 tags: [ '1080p', ]

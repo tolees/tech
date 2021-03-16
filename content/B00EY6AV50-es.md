@@ -5,7 +5,7 @@ date: 2020-06-03 12:48:55
 image: 'https://m.media-amazon.com/images/I/41iGEkys9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EY6AV50-es Olympus Objetivo M.Zuiko Digital ED 12-40 mm F2.8 Pro Zoom...'
 sku: 'B00EY6AV50-es'
 tags: [ 'panasonic', ]

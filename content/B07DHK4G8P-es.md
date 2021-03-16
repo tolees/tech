@@ -5,7 +5,7 @@ date: 2020-06-01 05:49:03
 image: 'https://m.media-amazon.com/images/I/41mGJA+YpWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHK4G8P-es [Diseño LED Tacto] Altavoz Bluetooth XLEADER Altavoces...'
 sku: 'B07DHK4G8P-es'
 tags: [ 'altavoz','bluetooth','iphone', ]

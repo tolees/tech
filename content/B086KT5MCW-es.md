@@ -5,7 +5,7 @@ date: 2020-06-23 04:33:33
 image: 'https://m.media-amazon.com/images/I/51a79LtY0NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KT5MCW-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
 sku: 'B086KT5MCW-es'
 tags: [ 'auriculares','bluetooth', ]

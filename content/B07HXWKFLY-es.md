@@ -5,7 +5,7 @@ date: 2020-02-06 16:06:49
 image: 'https://m.media-amazon.com/images/I/41qS9mx5uGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HXWKFLY-es JeVx Altavoz Furgoneta Volkswagen T1 Bluetooth USB para...'
 sku: 'B07HXWKFLY-es'
 tags: [ 'altavoz','bluetooth', ]

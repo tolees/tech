@@ -5,7 +5,7 @@ date: 2020-05-24 15:35:33
 image: 'https://m.media-amazon.com/images/I/31jbW-MDRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LYZ78Y-es Oihxse Silicona Funda con Xiaomi Redmi GO TPU Flexible...'
 sku: 'B087LYZ78Y-es'
 tags: [ 'xiaomi', ]

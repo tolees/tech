@@ -5,7 +5,7 @@ date: 2020-07-15 08:48:50
 image: 'https://m.media-amazon.com/images/I/41ZR5tOhqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F8BL19E-es AUKEY SK-M13 - Mini-Altavoz inalámbrico portátil con...'
 sku: 'B01F8BL19E-es'
 tags: [ 'bluetooth', ]

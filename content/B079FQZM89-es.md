@@ -5,7 +5,7 @@ date: 2020-09-21 20:05:58
 image: 'https://m.media-amazon.com/images/I/41I7bLmZEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FQZM89-es Fractal Design Meshify C – TG Midi-Tower Negro...'
 sku: 'B079FQZM89-es'
 tags: [ 'ordenador', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 23:00:21
 image: 'https://m.media-amazon.com/images/I/41JbTReEQBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QDNTLT-es mCover - Carcasa rígida para portátil DELL Chromebook 11...'
 sku: 'B072QDNTLT-es'
 tags: [ 'dell', ]

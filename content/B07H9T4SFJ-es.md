@@ -5,7 +5,7 @@ date: 2020-08-09 16:31:52
 image: 'https://m.media-amazon.com/images/I/51P3i+Iq9pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9T4SFJ-es Canon EF-M - Objetivo de 32 mm f/1.4 STM Color Negro'
 sku: 'B07H9T4SFJ-es'
 tags: [ 'canon', ]

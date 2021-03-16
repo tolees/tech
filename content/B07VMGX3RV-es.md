@@ -5,7 +5,7 @@ date: 2020-07-07 18:18:21
 image: 'https://m.media-amazon.com/images/I/51EHk9fXvfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMGX3RV-es LG 34GL750-B - Monitor Gaming Curvo UltraWide WFHD de 86.7...'
 sku: 'B07VMGX3RV-es'
 tags: [ 'ips','ultrawide', ]

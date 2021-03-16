@@ -5,7 +5,7 @@ date: 2020-10-05 00:59:36
 image: 'https://m.media-amazon.com/images/I/41tXvDyT1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZMVGTA2-es Rankie Adaptador DVI a HDMI 1080P Clavija HDTV Convertidor...'
 sku: 'B00ZMVGTA2-es'
 tags: [ '1080p', ]

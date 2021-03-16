@@ -5,7 +5,7 @@ date: 2020-09-30 22:00:49
 image: 'https://m.media-amazon.com/images/I/317pYn1CisL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QGM1QJ-es Newskill Suiko Switch Brown - Teclado Mecánico Gaming con...'
 sku: 'B081QGM1QJ-es'
 tags: [ 'teclado', ]

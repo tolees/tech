@@ -5,7 +5,7 @@ date: 2020-08-14 20:34:41
 image: 'https://m.media-amazon.com/images/I/51SQBXQ3H6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NRZNSG-es Jelly Comb Teclado retroiluminado inalámbrico Bluetooth -...'
 sku: 'B082NRZNSG-es'
 tags: [ 'bluetooth','teclado', ]

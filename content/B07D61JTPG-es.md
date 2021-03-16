@@ -5,7 +5,7 @@ date: 2020-01-28 12:30:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414pIGNdn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D61JTPG-es DigitalTech® - Mando Universal para televisores Samsung...'
 sku: 'B07D61JTPG-es'
 tags: [ 'samsung', ]

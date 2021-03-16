@@ -5,7 +5,7 @@ date: 2020-09-13 23:00:52
 image: 'https://m.media-amazon.com/images/I/31sIgNOoTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARQWN6U-es Netgear gs324 Switch 24 Puertos gigabit unmanaged ethernet...'
 sku: 'B01ARQWN6U-es'
 tags: [ 'gigabit','netgear', ]

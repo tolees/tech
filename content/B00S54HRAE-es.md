@@ -5,7 +5,7 @@ date: 2020-07-30 18:05:28
 image: 'https://m.media-amazon.com/images/I/41Plr9M3OhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
 sku: 'B00S54HRAE-es'
 tags: [ 'iphone', ]

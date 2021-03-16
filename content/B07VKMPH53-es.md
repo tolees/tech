@@ -5,7 +5,7 @@ date: 2020-06-21 22:06:08
 image: 'https://m.media-amazon.com/images/I/41QhjlEk8sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados Cable USB 2.0 a USB C...'
 sku: 'B07VKMPH53-es'
 tags: [ 'samsung','xiaomi', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 20:17:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KDq9Wok7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMCFMJK-es MSI GS73 Stealth 8RD-006XES - Ordenador portátil gaming...'
 sku: 'B07HMCFMJK-es'
 tags: [ 'ordenador','ram','teclado', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 06:49:17
 image: 'https://m.media-amazon.com/images/I/41gE3f0Y0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X46KHWG-es Camara Vigilancia WiFi Interior NIYPS HD 1080P Camara...'
 sku: 'B07X46KHWG-es'
 tags: [ '1080p','wifi', ]

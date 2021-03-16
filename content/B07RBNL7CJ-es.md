@@ -5,7 +5,7 @@ date: 2020-06-21 18:31:25
 image: 'https://m.media-amazon.com/images/I/41pIEnSJO8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBNL7CJ-es Ratón Gaming inalámbrico/cableado DELUX Ratón para juegos...'
 sku: 'B07RBNL7CJ-es'
 tags: [ 'ratón', ]

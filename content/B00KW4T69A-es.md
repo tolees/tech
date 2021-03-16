@@ -5,7 +5,7 @@ date: 2020-09-14 00:01:59
 image: 'https://m.media-amazon.com/images/I/31xErPcSdtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KW4T69A-es Inateck Carcasa Disco Duro 2.5" USB 3.0 Caja Externa con...'
 sku: 'B00KW4T69A-es'
 tags: [ 'disco','duro', ]

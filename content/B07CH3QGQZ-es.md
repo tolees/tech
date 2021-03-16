@@ -5,7 +5,7 @@ date: 2020-01-27 03:07:07
 image: 'https://m.media-amazon.com/images/I/31Cg1cT5GaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CH3QGQZ-es JOTO MLT-D111S 1 Negro 1000 Páginas Cartucho de Tóner...'
 sku: 'B07CH3QGQZ-es'
 tags: [ 'samsung', ]

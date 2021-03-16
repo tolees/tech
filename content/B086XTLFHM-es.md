@@ -5,7 +5,7 @@ date: 2020-09-24 10:43:41
 image: 'https://m.media-amazon.com/images/I/31+dpuY27iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086XTLFHM-es AUKEY Auriculares Inalámbricos Bluetooth 5 Sport Carga...'
 sku: 'B086XTLFHM-es'
 tags: [ 'auriculares','bluetooth', ]

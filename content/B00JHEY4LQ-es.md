@@ -5,7 +5,7 @@ date: 2020-02-28 09:46:02
 image: 'https://m.media-amazon.com/images/I/51pHp32vIBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JHEY4LQ-es JVC CS-J620X Altavoces 1 Multicolor'
 sku: 'B00JHEY4LQ-es'
 tags: [ 'jvc', ]

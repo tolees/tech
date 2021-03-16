@@ -5,7 +5,7 @@ date: 2020-06-01 22:01:24
 image: 'https://m.media-amazon.com/images/I/41nlEX+0eSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6D1VCS-es Leathlux 6 x Funda Xiaomi Redmi Note 8 Pro 6 Unidades...'
 sku: 'B07X6D1VCS-es'
 tags: [ 'xiaomi', ]

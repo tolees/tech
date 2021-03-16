@@ -5,7 +5,7 @@ date: 2020-08-03 23:31:18
 image: 'https://m.media-amazon.com/images/I/41641vQTPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5WXD8K-es Mini Enfriador de Aire Portátil 4 en 1 Acondicionador de...'
 sku: 'B08B5WXD8K-es'
 tags: [ 'móvil', ]

@@ -5,7 +5,7 @@ date: 2020-09-05 13:25:25
 image: 'https://m.media-amazon.com/images/I/41iPVenneQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ8FFTT-es Auriculares Fresh n Rebel Clam Misty Mint | Auriculares...'
 sku: 'B07SZ8FFTT-es'
 tags: [ 'auriculares','bluetooth', ]
