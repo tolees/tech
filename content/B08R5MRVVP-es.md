@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 15.00 % en Tronsmart Force 2 Altavoz Bluetooth Port'
-date: 2021-02-28 14:04:47
+date: 2021-03-16 14:24:44
 image: 'https://m.media-amazon.com/images/I/41pfeY694gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08R5MRVVP-es Tronsmart Force 2 Altavoz Bluetooth Portátil 30W Batería...'
 sku: 'B08R5MRVVP-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth','tronsmart', ]
 actualPrice: 51.84 EUR
 currency: EUR
 price: 51.84
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tronsmart'
 buyurl: 'https://www.amazon.es/dp/B08R5MRVVP/?tag=tolees-21'
 descuento: '15.00'
-average: '59.4362264150943'
+average: '59.4723076923078'
 ---
 
 Tienes [Tronsmart Force 2 Altavoz Bluetooth Portátil 30W  Batería de 24 horas  Impermeable IPX7  Graves Profundos 360°  Altavoz Inalámbrico Exterior con Micrófono y Manos Libres para Camping Viaje  Aire Libre](https://www.amazon.es/dp/B08R5MRVVP/?tag=tolees-21) con un 15.00 % de descuento con precio de oferta de 51.84 EUR (original: 60.99 EUR) en el siguiente enlace!

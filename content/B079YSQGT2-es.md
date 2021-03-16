@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'TP-Link EAP225-Outdoor Omada AC1200 Punt al 24.53 % de descuento'
-date: 2020-05-05 10:21:45
+title: 'TP-Link EAP225-Outdoor Omada AC1200 Punt al 32.59 % de descuento'
+date: 2021-03-16 14:59:45
 image: 'https://m.media-amazon.com/images/I/2177LLXUzbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YSQGT2-es TP-Link EAP225-Outdoor Omada AC1200 Punto de Acceso...'
+slug: 'B079YSQGT2-es TP-Link EAP225-Outdoor Omada AC1200 Punto de acceso...'
 sku: 'B079YSQGT2-es'
-tags: [ 'gigabit', ]
-actualPrice: 79.99 EUR
+tags: [ 'gigabit','tp-link', ]
+actualPrice: 71.45 EUR
 currency: EUR
-price: 79.99
+price: 71.45
 comparePrice: 105.99 EUR
-prodname: 'TP-Link EAP225-Outdoor Omada AC1200 Punto de Acceso inalámbrico– Impermeable  Resistente al Polvo  Protección contra Rayos  Roaming Continuo  Gigabit  PoE de Suministro eléctrico  EAP225-Outdoor '
+prodname: 'TP-Link EAP225-Outdoor Omada AC1200 Punto de acceso inalámbrico– Impermeable  Resistente al polvo  Protección contra rayos  802.11ac wave 2  Gigabit  PoE de suministro eléctrico  EAP225-Outdoor '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21'
-descuento: '24.53'
-average: '77.92399999999999'
+descuento: '32.59'
+average: '77.3354545454545'
 ---
 
-Ahora mismo tienes [TP-Link EAP225-Outdoor Omada AC1200 Punto de Acceso inalámbrico– Impermeable  Resistente al Polvo  Protección contra Rayos  Roaming Continuo  Gigabit  PoE de Suministro eléctrico  EAP225-Outdoor ](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21) a 79.99 EUR (original: 105.99 EUR) (24.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [TP-Link EAP225-Outdoor Omada AC1200 Punto de acceso inalámbrico– Impermeable  Resistente al polvo  Protección contra rayos  802.11ac wave 2  Gigabit  PoE de suministro eléctrico  EAP225-Outdoor ](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21) a 71.45 EUR (original: 105.99 EUR) (32.59 %  de descuento) en el siguiente enlace!
 
 [![TP-Link EAP225-Outdoor Omada AC1200 Punt](https://m.media-amazon.com/images/I/2177LLXUzbL._SL400_.jpg)](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21)
 
 🔎:
 
+- Cubierta duradera y resistente a inclemencias meteorológicas para aplicaciones Wi-Fi de exterior
+- Hasta 1200Mbps con tecnología 2×2 MIMO
+- Alta potencia de transmisión y antenas de alta ganancia proporcionan una gran cobertura de área
+- Controlador Gratuito Software Omada habilita a los administradores que gestionen fácilmente cientos de EAPs
+- Es perfecto para distancias cortas y ofrece una solución económica para la conexión dentro de racks y entre racks adyacentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21)
