@@ -28,10 +28,10 @@ Ahora mismo tienes [Jelly Comb Teclado numérico inalámbrico con retroiluminaci
 
 🔎:
 
-- Teclado numérico recargable: este teclado numérico inalámbrico tiene batería recargable incorporada y puede funcionar durante 220 horas sin retroiluminación o 10 horas con retroiluminación encendida.
-- Compatibilidad: esta almohadilla numérica USB es compatible con ordenador, ordenador portátil, PC con sistema de Windows, por favor, compruebe esto cuidadosamente antes de comprar.
-- Teclado numérico delgado y duradero: este mini teclado numérico retroiluminado portátil está hecho de material de aluminio resistente, muy duradero. La dimensión del teclado numérico es de 140 x 116 x 11,6 mm, delgado y portátil. Con 34 teclas totalmente funcionales, es una buena opción para teclado numérico externo.
-- Almohadilla de número retroiluminada de 7 colores: este teclado numérico inalámbrico tiene 7 colores de retroiluminación conmutable, 3 niveles de brillo, por lo que se puede utilizar incluso en la oscuridad, elegante y útil.
 - Plug and Play: este teclado numérico USB se conecta a tu ordenador a través de un dongle USB 2.4, proporcionando una conexión estable, plug and play, no requiere controlador, muy fácil de usar. Bullet Point
+- Teclado numérico recargable: este teclado numérico inalámbrico tiene batería recargable incorporada y puede funcionar durante 220 horas sin retroiluminación o 10 horas con retroiluminación encendida.
+- Almohadilla de número retroiluminada de 7 colores: este teclado numérico inalámbrico tiene 7 colores de retroiluminación conmutable, 3 niveles de brillo, por lo que se puede utilizar incluso en la oscuridad, elegante y útil.
+- Teclado numérico delgado y duradero: este mini teclado numérico retroiluminado portátil está hecho de material de aluminio resistente, muy duradero. La dimensión del teclado numérico es de 140 x 116 x 11,6 mm, delgado y portátil. Con 34 teclas totalmente funcionales, es una buena opción para teclado numérico externo.
+- Compatibilidad: esta almohadilla numérica USB es compatible con ordenador, ordenador portátil, PC con sistema de Windows, por favor, compruebe esto cuidadosamente antes de comprar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BKLNL72/?tag=tolees-21)

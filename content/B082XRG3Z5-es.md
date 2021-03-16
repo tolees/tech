@@ -28,12 +28,12 @@ Tienes [Sharp PS-919  WH  Altavoz con TWS  Bluetooth 5.0  Puerto USB  Sonido 3D 
 
 ℹ️:
 
+- Ps-919 (wh) con twstrue wireless stereo – para conectar un segundo ps-919 via bluetooth
+- Espectáculo de luces multicolor con diferentes modos
 - Altavoz woofer 1 x 4 pulgadas altavoces tweeter 2 x 2 pulgadas
 - Conectividad 1 x bluetooth 5.0, 1 x 3.5 mm entrada aux, 1 x uspara reproduccion o carga
-- 3d surrounding y efecto super bass
-- Ps-919 (wh) con twstrue wireless stereo – para conectar un segundo ps-919 via bluetooth
 - Bateria integrada con hasta 14 horas de reproduccion
-- Espectáculo de luces multicolor con diferentes modos
+- 3d surrounding y efecto super bass
 - Potenvia: 130 w
 - Impermeable ipx5
 
