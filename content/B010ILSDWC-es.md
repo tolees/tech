@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.65 % en Gigaset S850 - Teléfono inalámbrico con '
-date: 2021-03-12 22:38:42
+date: 2021-03-16 11:10:40
 image: 'https://m.media-amazon.com/images/I/31UdVzce5AL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigaset'
 buyurl: 'https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21'
 descuento: '17.65'
-average: '75.7444444444444'
+average: '75.2169230769231'
 ---
 
 Tienes [Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Bluetooth  pantalla en color  agenda de 500 contactos  conexión auriculares  protección de llamadas anónimas](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21) con un 17.65 % de descuento con precio de oferta de 74.03 EUR (original: 89.9 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Blueto
 
 ℹ️:
 
-- Reducción automática de transmisión de energía y libre de radiación en modo standby
-- Estándares DECT: DECT, GAP
 - Bluetooth y micro USB para sincronizar los datos con el PC
+- Estándares DECT: DECT, GAP
+- Reducción automática de transmisión de energía y libre de radiación en modo standby
 - 500 de números de registros en libreta de direcciones
 - Ajuste de volumen con las teclas laterales del terminal
 

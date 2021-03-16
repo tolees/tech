@@ -29,9 +29,9 @@ En este momento está [Nacon - Silla gaming PS4 official - 350ESS](https://www.a
 🔎:
 
 - Peso máximo del usuario: 110 kg
-- Silla de juego desarrollada específicamente para acoger todo tipo de morfología y ofrecer confort adaptada a las sesiones de juego
-- 5 ruedas
 - Diseño ergonómico, altura regulable y reposabrazos
 - Reposabrazos confortables
+- 5 ruedas
+- Silla de juego desarrollada específicamente para acoger todo tipo de morfología y ofrecer confort adaptada a las sesiones de juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LJNKFSW/?tag=tolees-21)
