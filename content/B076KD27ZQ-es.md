@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD...'
 sku: 'B076KD27ZQ-es'
-tags: [ 'samsung','toshiba','disco','duro', ]
+tags: [ 'disco','duro','samsung','toshiba', ]
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

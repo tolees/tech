@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07FSR93MQ-es Hori - Controlador D-Pad L Super Mario Nintendo Switch'
 sku: 'B07FSR93MQ-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

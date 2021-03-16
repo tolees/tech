@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DNZZS3W-es Mandos para Nintendo Switch EasySMX Mando Switch'
 sku: 'B08DNZZS3W-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

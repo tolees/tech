@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B010SWJVS6-es JBL Xtreme - Altavoz Bluetooth portátil cancelación de...'
 sku: 'B010SWJVS6-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

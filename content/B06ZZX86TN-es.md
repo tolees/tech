@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06ZZX86TN-es Samsung S27E330H Monitor para Gaming de 27" LCD Full HD...'
 sku: 'B06ZZX86TN-es'
-tags: [ 'samsung','full','hd', ]
+tags: [ 'full','hd','samsung', ]
 actualPrice: 142.15 EUR
 currency: EUR
 price: 142.15

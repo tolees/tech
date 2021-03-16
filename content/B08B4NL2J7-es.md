@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08B4NL2J7-es Elyco Funda Protectora para Nintendo Switch Silicone Grip...'
 sku: 'B08B4NL2J7-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

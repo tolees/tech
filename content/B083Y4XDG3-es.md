@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083Y4XDG3-es PRIXTON IP1080p - Cámara IP Full HD Cámara de Vigilancia...'
 sku: 'B083Y4XDG3-es'
-tags: [ 'móvil','wifi','altavoz','full','hd', ]
+tags: [ 'altavoz','full','hd','móvil','wifi', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

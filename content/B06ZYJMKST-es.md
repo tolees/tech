@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06ZYJMKST-es Ardistel - N-Switch Game Traveler Deluxe NNS50 MK Nintendo...'
 sku: 'B06ZYJMKST-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

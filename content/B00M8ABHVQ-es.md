@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00M8ABHVQ-es SanDisk Ultra II - Disco Duro sólido Interno SSD de 960 GB...'
 sku: 'B00M8ABHVQ-es'
-tags: [ 'sandisk','disco','duro', ]
+tags: [ 'disco','duro','sandisk', ]
 actualPrice: 227.42 EUR
 currency: EUR
 price: 227.42

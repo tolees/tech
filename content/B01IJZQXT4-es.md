@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01IJZQXT4-es Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico...'
 sku: 'B01IJZQXT4-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

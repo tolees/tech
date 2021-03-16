@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HPP2DMM-es Marshall Stanmore II Altavoz Bluetooth - Blanco EU'
 sku: 'B07HPP2DMM-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 208.25 EUR
 currency: EUR
 price: 208.25

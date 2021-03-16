@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GDMMKP5-es Gioteck - Auricular Estereo con cable azul y negro TX-30...'
 sku: 'B07GDMMKP5-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08C9GLRMW-es eXtremeRate Carcasa Semitransparente para Joy-con de...'
 sku: 'B08C9GLRMW-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

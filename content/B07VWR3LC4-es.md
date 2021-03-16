@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VWR3LC4-es Netvue Cámaras de Vigilancia WiFi Interior Full HD 1080P...'
 sku: 'B07VWR3LC4-es'
-tags: [ '1080p','alexa','wifi','full','hd', ]
+tags: [ '1080p','alexa','full','hd','wifi', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

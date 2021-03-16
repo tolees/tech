@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084DJ9J8C-es Funda + protector LCD para consola Nintendo Switch Lite...'
 sku: 'B084DJ9J8C-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

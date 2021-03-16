@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07J5MWNP8-es Hori - Controlador D-Pad L Pikachu Nintendo Switch'
 sku: 'B07J5MWNP8-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

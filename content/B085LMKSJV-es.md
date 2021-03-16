@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función...'
 sku: 'B085LMKSJV-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

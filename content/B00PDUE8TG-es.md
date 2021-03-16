@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00PDUE8TG-es Ultimate Ears Megaboom - Altavoz portátil Bluetooth 360...'
 sku: 'B00PDUE8TG-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 168.91 EUR
 currency: EUR
 price: 168.91

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NDDLVZY-es Samsung Galaxy S10e - Smartphone 128GB Dual SIM Pantalla...'
 sku: 'B07NDDLVZY-es'
-tags: [ 'galaxy','samsung','smartphone','full','hd', ]
+tags: [ 'full','galaxy','hd','samsung','smartphone', ]
 actualPrice: 569.0 EUR
 currency: EUR
 price: 569.0

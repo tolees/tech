@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QZRVY84-es Altavoz Bluetooth Portátil IP67 Impermeable Estéreo...'
 sku: 'B07QZRVY84-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

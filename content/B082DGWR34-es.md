@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082DGWR34-es Edifier Studio R1700BT 2.0 - Altavoz con Bluetooth Color...'
 sku: 'B082DGWR34-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 112.51 EUR
 currency: EUR
 price: 112.51

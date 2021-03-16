@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08G4FNVB5-es Disco Duro Externo 2tb Type C USB 3.1 Disco Duro Externo...'
 sku: 'B08G4FNVB5-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

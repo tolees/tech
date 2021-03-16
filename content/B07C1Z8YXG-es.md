@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07C1Z8YXG-es Mi Pocket Speaker 2 White Altavoz Xiaomi'
 sku: 'B07C1Z8YXG-es'
-tags: [ 'xiaomi','altavoz', ]
+tags: [ 'altavoz','xiaomi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

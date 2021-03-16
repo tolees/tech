@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079DRQ3FZ-es DYNASONIC - Altavoz Bluetooth con Karaoke 10W |...'
 sku: 'B079DRQ3FZ-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

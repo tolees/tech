@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085ZF1FQC-es LarmTek 1080P Full HD Webcam cámara para ordenador...'
 sku: 'B085ZF1FQC-es'
-tags: [ '1080p','ordenador','full','hd', ]
+tags: [ '1080p','full','hd','ordenador', ]
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

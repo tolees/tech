@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086ZBGV11-es Railway Empire - Nintendo Switch Edition'
 sku: 'B086ZBGV11-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

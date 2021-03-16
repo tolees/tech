@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07BXMT36M-es Mini Proyector Tenswall Portátil DLP Video Proyectors...'
 sku: 'B07BXMT36M-es'
-tags: [ '1080p','bluetooth','ordenador','full','hd', ]
+tags: [ '1080p','bluetooth','full','hd','ordenador', ]
 actualPrice: 209 EUR
 currency: EUR
 price: 209

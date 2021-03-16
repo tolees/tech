@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DX7KQ39-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
 sku: 'B07DX7KQ39-es'
-tags: [ 'bluetooth','microsd','altavoz', ]
+tags: [ 'altavoz','bluetooth','microsd', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

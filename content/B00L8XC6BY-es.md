@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00L8XC6BY-es Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio -...'
 sku: 'B00L8XC6BY-es'
-tags: [ '1080p','ps4','xbox','full','hd', ]
+tags: [ '1080p','full','hd','ps4','xbox', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

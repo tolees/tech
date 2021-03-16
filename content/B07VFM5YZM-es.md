@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VFM5YZM-es [2 Pack] UniqueMe Protector de Pantalla para Nintendo...'
 sku: 'B07VFM5YZM-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06VWH9S58-es Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico...'
 sku: 'B06VWH9S58-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

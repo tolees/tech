@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01MSEKBYG-es Sony XDRS41DR.EU8 - Radio portátil Digital Dab/Dab+/FM...'
 sku: 'B01MSEKBYG-es'
-tags: [ 'sony','altavoz', ]
+tags: [ 'altavoz','sony', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

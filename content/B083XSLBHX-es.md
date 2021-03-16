@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083XSLBHX-es Disco Duro Externo 1 TB Disco Duro Externo para PC Mac...'
 sku: 'B083XSLBHX-es'
-tags: [ 'ps4','xbox','disco','duro', ]
+tags: [ 'disco','duro','ps4','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

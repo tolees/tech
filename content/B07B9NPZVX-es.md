@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07B9NPZVX-es JBL Tuner Radio Portátil DAB/DAB+ – Altavoz portátil...'
 sku: 'B07B9NPZVX-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 70.59 EUR
 currency: EUR
 price: 70.59

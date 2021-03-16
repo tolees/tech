@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NDSJLSP-es Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide...'
 sku: 'B07NDSJLSP-es'
-tags: [ 'ram','smartphone','sony','full','hd', ]
+tags: [ 'full','hd','ram','smartphone','sony', ]
 actualPrice: 295.35 EUR
 currency: EUR
 price: 295.35

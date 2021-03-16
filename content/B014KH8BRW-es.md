@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B014KH8BRW-es Logitech C615 Webcam Portátil Full HD 1080p/30ims Video-...'
 sku: 'B014KH8BRW-es'
-tags: [ 'logitech','full','hd', ]
+tags: [ 'full','hd','logitech', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

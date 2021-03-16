@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083R3XPWC-es Auriculares Bluetooth Deportivos Auriculares Inalambricos...'
 sku: 'B083R3XPWC-es'
-tags: [ 'auriculares','bluetooth','altavoz', ]
+tags: [ 'altavoz','auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

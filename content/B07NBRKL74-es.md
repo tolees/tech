@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NBRKL74-es Riuty Inteligente Lámpara de Escritorio con Altavoz con...'
 sku: 'B07NBRKL74-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

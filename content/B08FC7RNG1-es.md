@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08FC7RNG1-es REDSTORM Mando para Nintendo Switch mando pro switch...'
 sku: 'B08FC7RNG1-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

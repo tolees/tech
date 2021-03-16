@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074WJ5QB4-es Creative Labs Halo - Altavoz Inalámbrico portable con...'
 sku: 'B074WJ5QB4-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

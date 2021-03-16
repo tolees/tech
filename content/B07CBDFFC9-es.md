@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CBDFFC9-es Harvest Moon: La luz de la esperanza Edición Coleccionista...'
 sku: 'B07CBDFFC9-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

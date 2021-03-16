@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TQRWCH9-es Maegoo Mando Controlador Inalámbrico para Nintendo Switch...'
 sku: 'B07TQRWCH9-es'
-tags: [ 'bluetooth','nintendo','nintendo','switch', ]
+tags: [ 'bluetooth','nintendo','switch', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

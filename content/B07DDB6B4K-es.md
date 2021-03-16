@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos Maegoo Nintendo Switch...'
 sku: 'B07DDB6B4K-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

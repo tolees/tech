@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B088GSKT3J-es Proyector WiFi BOSNAS Mini Proyector Portátil 5800 Lúmenes...'
 sku: 'B088GSKT3J-es'
-tags: [ '1080p','ps4','wifi','full','hd', ]
+tags: [ '1080p','full','hd','ps4','wifi', ]
 actualPrice: 129.69 EUR
 currency: EUR
 price: 129.69

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B072NY13LW-es Philips 223V7QHSB/00 - Monitor IPS de 21.5" Full HD...'
 sku: 'B072NY13LW-es'
-tags: [ 'ips','full','hd', ]
+tags: [ 'full','hd','ips', ]
 actualPrice: 89 EUR
 currency: EUR
 price: 89

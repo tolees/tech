@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke Micrófono...'
 sku: 'B081CZCPMT-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

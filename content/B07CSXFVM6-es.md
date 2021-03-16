@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CSXFVM6-es JBL Go Plus Altavoz Inalámbrico Portátil con Bluetooth...'
 sku: 'B07CSXFVM6-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

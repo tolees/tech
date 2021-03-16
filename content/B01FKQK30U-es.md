@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01FKQK30U-es Canon PowerShot SX620 HS - Cámara digital compacta de 20 2...'
 sku: 'B01FKQK30U-es'
-tags: [ 'canon','wifi','full','hd', ]
+tags: [ 'canon','full','hd','wifi', ]
 actualPrice: 179.3 EUR
 currency: EUR
 price: 179.3

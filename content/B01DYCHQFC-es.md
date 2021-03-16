@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01DYCHQFC-es Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth...'
 sku: 'B01DYCHQFC-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

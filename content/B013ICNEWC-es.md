@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B013ICNEWC-es KabelDirekt 5m Cable de Extensión HDMI compatible con HDMI...'
 sku: 'B013ICNEWC-es'
-tags: [ '1080p','ps4','xbox','full','hd', ]
+tags: [ '1080p','full','hd','ps4','xbox', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

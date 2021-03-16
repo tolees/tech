@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0837JYGWY-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
 sku: 'B0837JYGWY-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

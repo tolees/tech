@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00URTHALQ-es Panasonic DMR-BWT640EC9 - Grabador de BLU-Ray Full HD 3D...'
 sku: 'B00URTHALQ-es'
-tags: [ 'panasonic','wifi','disco','duro','full','hd', ]
+tags: [ 'disco','duro','full','hd','panasonic','wifi', ]
 actualPrice: 394.94 EUR
 currency: EUR
 price: 394.94

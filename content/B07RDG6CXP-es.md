@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RDG6CXP-es AWESAFE 4K GPS Cámara de Coche Dashcam con Full HD 170...'
 sku: 'B07RDG6CXP-es'
-tags: [ 'gps','full','hd', ]
+tags: [ 'full','gps','hd', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

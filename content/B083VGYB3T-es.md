@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083VGYB3T-es Samsung S27R350 - Monitor de 27 sin marcos Full HD 5 ms 75...'
 sku: 'B083VGYB3T-es'
-tags: [ 'ips','samsung','full','hd', ]
+tags: [ 'full','hd','ips','samsung', ]
 actualPrice: 134.0 EUR
 currency: EUR
 price: 134.0

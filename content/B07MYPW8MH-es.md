@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MYPW8MH-es ALWUP Cascos PS4 Gaming Auriculares para Juegos PS4 Xbox...'
 sku: 'B07MYPW8MH-es'
-tags: [ 'auriculares','nintendo','playstation','ps4','xbox','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','playstation','ps4','switch','xbox', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

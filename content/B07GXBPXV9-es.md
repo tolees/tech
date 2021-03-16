@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GXBPXV9-es PNI ZN101 - Ordenador portátil de 10.6" Intel Z8350 2 GB...'
 sku: 'B07GXBPXV9-es'
-tags: [ 'ordenador','ram','disco','duro', ]
+tags: [ 'disco','duro','ordenador','ram', ]
 actualPrice: 219.26 EUR
 currency: EUR
 price: 219.26

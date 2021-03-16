@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B083Y59CTK-es Altavoz Mosqueton iWotto Bluetooth Speaker Hook iWotto...'
 sku: 'B083Y59CTK-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

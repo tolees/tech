@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07X54JDS4-es YINSAN Auriculares Gaming para PS4 Cascos Gaming Premium...'
 sku: 'B07X54JDS4-es'
-tags: [ 'auriculares','ps4','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','ps4','switch', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

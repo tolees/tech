@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08GLG3ZDW-es Osaloe Switch HDMI 1x4 1 Entrada y 4 Salidas Conmutador...'
 sku: 'B08GLG3ZDW-es'
-tags: [ '1080p','ps4','xbox','full','hd', ]
+tags: [ '1080p','full','hd','ps4','xbox', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

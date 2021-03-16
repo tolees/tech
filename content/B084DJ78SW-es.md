@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084DJ78SW-es Funda + protector LCD para consola Nintendo Switch edición...'
 sku: 'B084DJ78SW-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

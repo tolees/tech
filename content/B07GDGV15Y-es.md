@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GDGV15Y-es ShinePick Auriculares Gaming 3.5mm Cancelación De Ruido...'
 sku: 'B07GDGV15Y-es'
-tags: [ 'auriculares','nintendo','ps4','tablet','xbox','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','ps4','switch','tablet','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

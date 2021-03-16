@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07W1JN7PS-es RUIZU H1 Reproductor de MP3 con Pantalla táctil y...'
 sku: 'B07W1JN7PS-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

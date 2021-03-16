@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B085LLNL63-es MKTOSASA-Set de Altavoz con Auriculares intraurales...'
 sku: 'B085LLNL63-es'
-tags: [ 'auriculares','altavoz', ]
+tags: [ 'altavoz','auriculares', ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

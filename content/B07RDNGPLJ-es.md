@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RDNGPLJ-es Funda para Nintendo Switch Case de protección para...'
 sku: 'B07RDNGPLJ-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CL1LYT3-es Zerone Mini Altavoz Bluetooth Wireless portátil estéreo...'
 sku: 'B07CL1LYT3-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

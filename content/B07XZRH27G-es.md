@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07XZRH27G-es Lenovo Legion Y540 - Ordenador portátil Gaming de 15.6"...'
 sku: 'B07XZRH27G-es'
-tags: [ 'lenovo','ordenador','ram','teclado','full','hd', ]
+tags: [ 'full','hd','lenovo','ordenador','ram','teclado', ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

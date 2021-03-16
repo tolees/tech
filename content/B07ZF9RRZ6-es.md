@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07ZF9RRZ6-es Wake Up Light Despertador Luz Inteligente - 2019 Upgrade...'
 sku: 'B07ZF9RRZ6-es'
-tags: [ 'alexa','wifi','google','home', ]
+tags: [ 'alexa','google','home','wifi', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01N45IF6N-es muveacoustics a-Plus inalámbrico portátil Bluetooth...'
 sku: 'B01N45IF6N-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

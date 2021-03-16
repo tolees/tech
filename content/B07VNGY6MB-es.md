@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VNGY6MB-es PowerA - Mando inalámbrico mejorado Pokémon Great Ball...'
 sku: 'B07VNGY6MB-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

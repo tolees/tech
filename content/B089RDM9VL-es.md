@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B089RDM9VL-es TOSING Q9 micrófono de karaoke inalámbrico Bluetooth luces...'
 sku: 'B089RDM9VL-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

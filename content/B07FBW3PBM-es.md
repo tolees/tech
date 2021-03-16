@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07FBW3PBM-es AOC 27V2Q – Monitor de 27” Full HD IPS Resolución...'
 sku: 'B07FBW3PBM-es'
-tags: [ 'ips','full','hd', ]
+tags: [ 'full','hd','ips', ]
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

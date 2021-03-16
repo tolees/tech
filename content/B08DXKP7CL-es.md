@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DXKP7CL-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DXKP7CL-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

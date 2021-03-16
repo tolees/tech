@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08FRBZYDL-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
 sku: 'B08FRBZYDL-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

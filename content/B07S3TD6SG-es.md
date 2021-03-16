@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07S3TD6SG-es HEYSTOP Carcasa Nintendo Switch Funda Nintendo Switch con...'
 sku: 'B07S3TD6SG-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

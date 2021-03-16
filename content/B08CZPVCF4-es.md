@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CZPVCF4-es USB 2.0 Switch 4 Puertos Conmutador KVM 2 Entradas y 4...'
 sku: 'B08CZPVCF4-es'
-tags: [ 'ratón','teclado','disco','duro', ]
+tags: [ 'disco','duro','ratón','teclado', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

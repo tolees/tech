@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B078HMWSNG-es Yaufey Mini proyector proyector DLP inalámbrico portátil...'
 sku: 'B078HMWSNG-es'
-tags: [ '1080p','bluetooth','wifi','altavoz', ]
+tags: [ '1080p','altavoz','bluetooth','wifi', ]
 actualPrice: 226.57 EUR
 currency: EUR
 price: 226.57

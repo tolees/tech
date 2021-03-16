@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B089NB6SQD-es FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz...'
 sku: 'B089NB6SQD-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

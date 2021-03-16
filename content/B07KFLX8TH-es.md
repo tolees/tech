@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KFLX8TH-es Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo...'
 sku: 'B07KFLX8TH-es'
-tags: [ 'auriculares','ps4','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','ps4','switch', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

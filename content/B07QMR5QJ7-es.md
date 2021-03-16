@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QMR5QJ7-es Vieta Pro Round Up - Altavoz inalámbrico Bluetooth radio...'
 sku: 'B07QMR5QJ7-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

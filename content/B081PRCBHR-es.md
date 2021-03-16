@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B081PRCBHR-es Tablet 10 Pulgadas 4G Full HD 4GB de RAM 64GB de ROM...'
 sku: 'B081PRCBHR-es'
-tags: [ 'bluetooth','gps','ram','tablet','wifi','full','hd', ]
+tags: [ 'bluetooth','full','gps','hd','ram','tablet','wifi', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

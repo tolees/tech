@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VQPFXQ8-es PowerA - Mando inalámbrico mejorado Spyro Nintendo Switch'
 sku: 'B07VQPFXQ8-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

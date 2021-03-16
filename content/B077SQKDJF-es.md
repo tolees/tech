@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces...'
 sku: 'B077SQKDJF-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

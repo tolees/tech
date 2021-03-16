@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B075YBZVHG-es MIFA Altavoz Bluetooth Tecnología TWS y DSP IP45...'
 sku: 'B075YBZVHG-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

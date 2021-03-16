@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Z9HWPBZ-es Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini...'
 sku: 'B07Z9HWPBZ-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Q1X7QZ8-es DYNASONIC - ITK Altavoz Bluetooth con Karaoke Radio...'
 sku: 'B07Q1X7QZ8-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

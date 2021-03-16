@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WVQYLNH-es Orzly Paquete de Accesorios para Nintendo Switch Lite –...'
 sku: 'B07WVQYLNH-es'
-tags: [ 'auriculares','nintendo','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','switch', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

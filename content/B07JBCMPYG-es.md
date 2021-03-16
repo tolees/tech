@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JBCMPYG-es Energy Urban Box 7 BassTube Altavoz portátil con Sonido...'
 sku: 'B07JBCMPYG-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QZ22JZP-es God Eater 3 for Nintendo Switch'
 sku: 'B07QZ22JZP-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

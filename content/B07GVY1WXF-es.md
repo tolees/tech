@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07GVY1WXF-es Mando Inalámbrico Mejorado Negro Nintendo Switch'
 sku: 'B07GVY1WXF-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 39.72 EUR
 currency: EUR
 price: 39.72

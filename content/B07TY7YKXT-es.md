@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07TY7YKXT-es Lenovo Legion Y540 - Ordenador portatil Gaming de 15.6"...'
 sku: 'B07TY7YKXT-es'
-tags: [ 'lenovo','ordenador','ram','full','hd', ]
+tags: [ 'full','hd','lenovo','ordenador','ram', ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

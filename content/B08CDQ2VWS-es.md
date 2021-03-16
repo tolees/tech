@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CDQ2VWS-es Disco Duro Externo 2 TB Disco Duro Externo USB3.0 para PC...'
 sku: 'B08CDQ2VWS-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

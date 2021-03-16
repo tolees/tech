@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QLRGBD6-es Amplificador de voz WinBridge con micrófono con cable...'
 sku: 'B07QLRGBD6-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 64 EUR
 currency: EUR
 price: 64

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PW82KRL-es DYNASONIC - Altavoz Bluetooth con Karaoke 2 Micrófonos...'
 sku: 'B07PW82KRL-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

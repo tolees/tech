@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DJ3HNL3-es Disco Duro Externo 1 TB USB3.0 para PC Mac MacBook Xbox...'
 sku: 'B08DJ3HNL3-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

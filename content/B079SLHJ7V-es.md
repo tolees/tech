@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079SLHJ7V-es WWE 2K18 - Nintendo Switch [Importación inglesa]'
 sku: 'B079SLHJ7V-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

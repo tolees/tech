@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B082FJNG51-es VTIN Altavoz Bluetooth con Sonido HD 5W Mini Altavoz...'
 sku: 'B082FJNG51-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

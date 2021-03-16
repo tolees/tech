@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07DWBQZP2-es Seagate Fast SSD 1 TB Disco duro externo portátil SSD...'
 sku: 'B07DWBQZP2-es'
-tags: [ 'ordenador','disco','duro', ]
+tags: [ 'disco','duro','ordenador', ]
 actualPrice: 195.29 EUR
 currency: EUR
 price: 195.29

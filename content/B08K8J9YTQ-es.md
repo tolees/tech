@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08K8J9YTQ-es eXtremeRate Protector para Dock de Nintendo Switch Dock...'
 sku: 'B08K8J9YTQ-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

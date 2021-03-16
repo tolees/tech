@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Z6CNGF1-es Mando para conmutador / Switch Lite mando inalámbrico para...'
 sku: 'B07Z6CNGF1-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

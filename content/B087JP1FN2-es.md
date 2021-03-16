@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B087JP1FN2-es Disco Duro Externo 2 TB Type C USB3.1 Disco Duro Externo...'
 sku: 'B087JP1FN2-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

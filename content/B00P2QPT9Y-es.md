@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00P2QPT9Y-es Energy Sistem Music Box BZ6 - Altavoz con Bluetooth y...'
 sku: 'B00P2QPT9Y-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

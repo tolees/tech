@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07V7PMVQJ-es Call of Cthulhu - Nintendo Switch'
 sku: 'B07V7PMVQJ-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

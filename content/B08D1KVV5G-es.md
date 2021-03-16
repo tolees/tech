@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08D1KVV5G-es Echo Dot 3.ª generación - Altavoz inteligente con reloj y...'
 sku: 'B08D1KVV5G-es'
-tags: [ 'alexa','wifi','altavoz', ]
+tags: [ 'alexa','altavoz','wifi', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

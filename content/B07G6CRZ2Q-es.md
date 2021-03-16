@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07G6CRZ2Q-es Ultimate Ears Boom 3 Altavoz portátil Bluetooth Magic...'
 sku: 'B07G6CRZ2Q-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 89.91 EUR
 currency: EUR
 price: 89.91

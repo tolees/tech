@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B071VGF3JC-es Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de...'
 sku: 'B071VGF3JC-es'
-tags: [ 'ram','smartphone','sony','full','hd', ]
+tags: [ 'full','hd','ram','smartphone','sony', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

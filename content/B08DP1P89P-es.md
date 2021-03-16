@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DP1P89P-es Controller para Nintendo Switch EasySMX Mandos Nintendo...'
 sku: 'B08DP1P89P-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

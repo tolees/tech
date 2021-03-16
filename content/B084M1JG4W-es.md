@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084M1JG4W-es Mini cámara espía Oculta Diseño de Cargador USB Full HD...'
 sku: 'B084M1JG4W-es'
-tags: [ '1080p','wifi','full','hd', ]
+tags: [ '1080p','full','hd','wifi', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074TBCG41-es Tronsmart T6 Altavoz Bluetooth 25W 360° Sonido Grave...'
 sku: 'B074TBCG41-es'
-tags: [ 'bluetooth','móvil','altavoz', ]
+tags: [ 'altavoz','bluetooth','móvil', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

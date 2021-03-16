@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07CD5KL6R-es MEDION S3409 - MD 60999 - Ordenador portátil de 13.3" Full...'
 sku: 'B07CD5KL6R-es'
-tags: [ 'ordenador','ram','teclado','full','hd', ]
+tags: [ 'full','hd','ordenador','ram','teclado', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

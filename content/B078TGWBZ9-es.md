@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico...'
 sku: 'B078TGWBZ9-es'
-tags: [ 'bluetooth','nintendo','nintendo','switch', ]
+tags: [ 'bluetooth','nintendo','switch', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

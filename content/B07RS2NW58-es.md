@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07RS2NW58-es HKC AT24A-DE All-in-One-PC 24 Pulgadas Full HD - 4 GB RAM...'
 sku: 'B07RS2NW58-es'
-tags: [ 'bluetooth','ram','wifi','full','hd', ]
+tags: [ 'bluetooth','full','hd','ram','wifi', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

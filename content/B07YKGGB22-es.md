@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07YKGGB22-es Altavoz Bluetooth 30W VTIN B2 Altavoz Bluetooth Estéreo...'
 sku: 'B07YKGGB22-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

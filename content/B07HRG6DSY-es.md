@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HRG6DSY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
 sku: 'B07HRG6DSY-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

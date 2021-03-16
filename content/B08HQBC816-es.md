@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08HQBC816-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
 sku: 'B08HQBC816-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

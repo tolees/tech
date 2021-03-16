@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08BHRD64Y-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
 sku: 'B08BHRD64Y-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

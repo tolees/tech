@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CXLJ5LX-es Hattahh Disco Duro Externo Portátil 2TB Type C USB3.1...'
 sku: 'B08CXLJ5LX-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

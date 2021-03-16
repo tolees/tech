@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08FQQ4JCN-es eXtremeRate Multicolores LED Botones para Mando Nintendo...'
 sku: 'B08FQQ4JCN-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08FQTK3VL-es eXtremeRate Multicolores LED Botones para Mando Nintendo...'
 sku: 'B08FQTK3VL-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

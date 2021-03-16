@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
 sku: 'B07JKYM3N4-es'
-tags: [ 'auriculares','nintendo','ps4','xbox','auriculares','estéreo','nintendo','switch', ]
+tags: [ 'auriculares','estéreo','nintendo','ps4','switch','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

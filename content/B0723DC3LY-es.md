@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0723DC3LY-es AmazonBasics - Kit de empuñaduras para mandos Joy-Con de...'
 sku: 'B0723DC3LY-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DKRQ6FB-es Elyco Boxing Grip para Nintendo Switch Empuñadura de Boxeo...'
 sku: 'B08DKRQ6FB-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

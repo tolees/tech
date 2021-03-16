@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08DJ5GSTK-es Disco Duro Externo 2tb USB 3.1 Type C Disco Duro Externo...'
 sku: 'B08DJ5GSTK-es'
-tags: [ 'xbox','disco','duro', ]
+tags: [ 'disco','duro','xbox', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

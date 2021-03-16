@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SR9VZQ3-es Altavoz inalámbrico Altavoces LED inalámbricos Bluetooth...'
 sku: 'B07SR9VZQ3-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

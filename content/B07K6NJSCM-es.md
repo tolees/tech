@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07K6NJSCM-es FR·TEC - Auriculares Gaming Headset Genbu - PS4 Xbox One...'
 sku: 'B07K6NJSCM-es'
-tags: [ 'auriculares','nintendo','ps4','xbox','nintendo','switch', ]
+tags: [ 'auriculares','nintendo','ps4','switch','xbox', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

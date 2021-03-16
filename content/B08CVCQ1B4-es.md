@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CVCQ1B4-es eXtremeRate Botones para Joycons de Nintendo Switch Botón...'
 sku: 'B08CVCQ1B4-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

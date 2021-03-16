@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07KBGQPFG-es P Prettyia Almohadilla Antipolvo con Joystick para...'
 sku: 'B07KBGQPFG-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

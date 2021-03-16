@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07HBMZRJT-es Hori - Funda Rígida Pokémon Let s Go Nintendo Switch'
 sku: 'B07HBMZRJT-es'
-tags: [ 'nintendo','nintendo','switch', ]
+tags: [ 'nintendo','switch', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01INSCBTS-es Libratone ONE Style - Altavoz con Bluetooth y función...'
 sku: 'B01INSCBTS-es'
-tags: [ 'bluetooth','altavoz', ]
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

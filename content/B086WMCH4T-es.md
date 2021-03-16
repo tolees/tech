@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086WMCH4T-es Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS MediaTek...'
 sku: 'B086WMCH4T-es'
-tags: [ 'bluetooth','lenovo','ram','tablet','wifi','full','hd', ]
+tags: [ 'bluetooth','full','hd','lenovo','ram','tablet','wifi', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

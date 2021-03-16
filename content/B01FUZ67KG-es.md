@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01FUZ67KG-es Panasonic DMR-BWT850EC - Grabador y Reproductor de BLU-Ray...'
 sku: 'B01FUZ67KG-es'
-tags: [ 'panasonic','disco','duro','full','hd', ]
+tags: [ 'disco','duro','full','hd','panasonic', ]
 actualPrice: 510.4 EUR
 currency: EUR
 price: 510.4
