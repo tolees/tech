@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'MSI GF65 Thin 10SER-884XES - Ordenador p con un 21.43 % de descuento'
-date: 2021-03-15 23:41:03
+date: 2021-03-17 05:23:36
 image: 'https://m.media-amazon.com/images/I/31jD5Rz26WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FGXNDF8-es MSI GF65 Thin 10SER-884XES - Ordenador portátil Gaming de...'
 sku: 'B08FGXNDF8-es'
-tags: [ 'ordenador','ram','teclado', ]
+tags: [ 'msi','ordenador','ram','teclado', ]
 actualPrice: 1099.99 EUR
 currency: EUR
 price: 1099.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08FGXNDF8/?tag=tolees-21'
 descuento: '21.43'
-average: '1097.92172413794'
+average: '1098.05516129034'
 ---
 
 En este momento está [MSI GF65 Thin 10SER-884XES - Ordenador portátil Gaming de 15.6" FullHD 144Hz  Intel Core i7-10750H  16GB RAM  512GB SSD  RTX2060-6GB  Sin sistema operativo  negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08FGXNDF8/?tag=tolees-21) a 1099.99 EUR (original: 1399.99 EUR) (21.43 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [MSI GF65 Thin 10SER-884XES - Ordenador portátil Gaming d
 
 🔎:
 
-- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.00 GHz)
 - Tarjeta gráfica NVIDIA RTX2060, GDDR6 6 GB
 - Memoria RAM de 16GB DDRIV (8GBx2) 2666 MHz
-- Sin sistema operativo
 - Pantalla de 15.6" FullHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
+- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.00 GHz)
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Sin sistema operativo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FGXNDF8/?tag=tolees-21)
