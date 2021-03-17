@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTM9KH-es Koch Media - Blair Witch - Xbox One'
 sku: 'B081TTM9KH-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Deportes y aire libre','Discos duros externos','Dispositivos GPS deportivos','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Figuras interactivas para Nintendo 3DS y 2DS','GPS para carrera','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Informática','Juegos para Nintendo Switch','Juegos para Xbox One','Móviles','Móviles y smartphones libres','Packs de accesorios para PlayStation 4','Portátiles','Proyectores','Repetidores de red','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Videojuegos','koch media','xbox', ]
+tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Deportes y aire libre','Discos duros externos','Dispositivos GPS deportivos','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Figuras interactivas para Nintendo 3DS y 2DS','GPS para carrera','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Informática','Juegos para Nintendo Switch','Juegos para Xbox One','Móviles','Móviles y smartphones libres','Packs de accesorios para PlayStation 4','Portátiles','Proyectores','Repetidores de red','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Videojuegos','koch media','xbox', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95
@@ -28,10 +28,10 @@ Tienes [Koch Media - Blair Witch - Xbox One](https://www.amazon.es/dp/B081TTM9KH
 
 🔎:
 
-- Inspirado en el universo cinematográfico de la Bruja de Blair, experimenta una nueva historia a través de un juego de terror psicológico que estudia tus reacciones para causar miedo y estrés
+- De las mentes creativas detrás del aclamado Layers of Fear llega este título en el que experimentarás un miedo que inundará tu mente a través una historia original basada en la leyenda de la Bruja de Blair
 - Es 1996; un joven desaparece en el bosque de Black Hills cerca de Burkittsville, Maryland; encarnamos a Ellis, un policía novato con un pasado problemático, que se une a la investigación
+- Inspirado en el universo cinematográfico de la Bruja de Blair, experimenta una nueva historia a través de un juego de terror psicológico que estudia tus reacciones para causar miedo y estrés
 - Lo que empieza como una búsqueda normal pronto se convierte en una pesadilla sin fin mientras te enfrentas a tus miedos y a la bruja de Blair, una fuerza misteriosa que se aparece en los bosques
 - Acompañado solo por tu fiel perro Bullet, ábrete camino a través de un bosque maldito que distorsiona el tiempo y el espacio
-- De las mentes creativas detrás del aclamado Layers of Fear llega este título en el que experimentarás un miedo que inundará tu mente a través una historia original basada en la leyenda de la Bruja de Blair
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081TTM9KH/?tag=tolees-21)

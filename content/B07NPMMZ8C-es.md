@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPMMZ8C-es Seagate Technology - Seagate Expansion Desktop 10 TB Disco...'
 sku: 'B07NPMMZ8C-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','ordenador','seagate technology', ]
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Comunicación móvil y accesorios','Discos duros externos','Electrónica','Informática','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','disco','duro','ordenador','seagate technology', ]
 actualPrice: 184.98 EUR
 currency: EUR
 price: 184.98

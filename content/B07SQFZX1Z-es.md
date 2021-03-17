@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFZX1Z-es THQ NORDIC - Darksiders Genesis - Nintendo Switch'
 sku: 'B07SQFZX1Z-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Proyectores','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Videojuegos','nintendo','switch','thq nordic', ]
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Comunicación móvil y accesorios','Discos duros externos','Electrónica','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Videojuegos','nintendo','switch','thq nordic', ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25
@@ -30,7 +30,7 @@ Está [THQ NORDIC - Darksiders Genesis - Nintendo Switch](https://www.amazon.es/
 
 - Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
 - Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
-- Guerra y Lucha deberán de cazar a estos demonios
 - Guerra y Lucha han recibido una nueva misión
+- Guerra y Lucha deberán de cazar a estos demonios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21)

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'PRIXTON Goya P20 - Mini Proyector Portat al 22.23 % de descuento'
-date: 2021-03-04 01:34:40
+date: 2021-03-17 19:07:41
 image: 'https://m.media-amazon.com/images/I/31rY3Vhev4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQBVZ16-es PRIXTON Goya P20 - Mini Proyector Portatil / Proyector...'
 sku: 'B07XQBVZ16-es'
-tags: [ 'microsd', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','microsd','prixton', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PRIXTON'
 buyurl: 'https://www.amazon.es/dp/B07XQBVZ16/?tag=tolees-21'
 descuento: '22.23'
-average: '68.8500000000001'
+average: '68.9094594594595'
 ---
 
 Está [PRIXTON Goya P20 - Mini Proyector Portatil / Proyector Cine en Casa de 2.800 Lumens  2 Altavoces y Mando a Distancia Incluido  50.000 Horas Reproducción  Entradas: VGA  2xHDMI  USB2.0  MicroSD y AV](https://www.amazon.es/dp/B07XQBVZ16/?tag=tolees-21) con 22.23 de descuento por 69.95 EUR (original: 89.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [PRIXTON Goya P20 - Mini Proyector Portatil / Proyector Cine en Casa de 2.
 
 ℹ️:
 
-- Proyector mini: Conexión directa de todo tipo de reproductores vía HDMI.
-- Proyector para reproducción de video, audio, foto y textos.
-- Proyector LED: Luz LED blanca 40 Ansi Lumens / Contraste 500:1.
-- Proyector cine en casa: Resolución real 800 x 480. Con salida de hasta 2.800 lumens. Compatible con Full HD.
 - Mini portatil proyector 2 altavoces de estéreo integrados y mando a distancia incluido.
+- Proyector para reproducción de video, audio, foto y textos.
+- Proyector cine en casa: Resolución real 800 x 480. Con salida de hasta 2.800 lumens. Compatible con Full HD.
+- Proyector mini: Conexión directa de todo tipo de reproductores vía HDMI.
+- Proyector LED: Luz LED blanca 40 Ansi Lumens / Contraste 500:1.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XQBVZ16/?tag=tolees-21)
