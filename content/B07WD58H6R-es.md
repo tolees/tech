@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD58H6R-es Sony WH-CH510 - Auriculares inalámbricos bluetooth de...'
 sku: 'B07WD58H6R-es'
-tags: [ 'Accesorios','Adaptadores de red','Adaptadores de red Bluetooth','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces y pantallas inteligentes Echo','Audio para coche','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas LED','Cargadores de medios digitales para coche','Comunicación móvil y accesorios','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Electrónica para coche','Electrónica para vehículos','Equipos de audio y Hi-Fi','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Paquetes de dispositivos','Puntos de acceso inalámbrico','Ratones','Repetidores de red','TV, vídeo y home cinema','Teclados, ratones y periféricos de entrada','Televisores','auriculares','bluetooth','sony', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Adaptadores de red','Adaptadores de red Bluetooth','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Altavoces y pantallas inteligentes Echo','Audio para coche','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Bancos de energía portátiles para teléfonos móviles','Bombillas','Bombillas LED','Cargadores de medios digitales para coche','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Dispositivos internos','Electrónica','Electrónica para coche','Electrónica para vehículos','Equipos de audio y Hi-Fi','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Paquetes de dispositivos','Productos de limpieza para el hogar','Puntos de acceso inalámbrico','Ratones','Ratones para gamers para PC','Repetidores de red','Salud y cuidado personal','Smartwatches','TV, vídeo y home cinema','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Televisores','Videojuegos','auriculares','bluetooth','sony', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
@@ -28,14 +28,14 @@ Está [Sony WH-CH510 - Auriculares inalámbricos bluetooth de diadema con hasta 
 
 ℹ️:
 
-- Escucha más matices gracias a la unidad de diafragma de 30.mm
+- Función de carga rápida y hasta 35.horas de duración de batería para utilizarlos durante todo el día
+- Alcance máximo de comunicación: 10 m
+- Sistema de comunicación: Especificación Bluetooth versión 5.0
+- Perfiles Bluetooth compatibles: A2DP / AVRCP / HFP / HSP
 - Sencillas funciones de llamadas con manos libres y comandos del asistente de voz con micrófono
 - Conexión bluetooth inalámbrica para disfrutar de un movimiento sin restricciones
-- Función de carga rápida y hasta 35.horas de duración de batería para utilizarlos durante todo el día
-- Perfiles Bluetooth compatibles: A2DP / AVRCP / HFP / HSP
-- ¡Nota!: Este modelo no es compatible con televisores
-- Sistema de comunicación: Especificación Bluetooth versión 5.0
-- Alcance máximo de comunicación: 10 m
 - Cascos giratorios, compactos y ligeros para fácil itar el transporte
+- Escucha más matices gracias a la unidad de diafragma de 30.mm
+- ¡Nota!: Este modelo no es compatible con televisores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WD58H6R/?tag=tolees-21)

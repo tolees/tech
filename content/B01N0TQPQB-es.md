@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0TQPQB-es Kingston A400 SSD SA400S37/480G - Disco duro sólido...'
 sku: 'B01N0TQPQB-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces y pantallas inteligentes Echo','Comunicación móvil y accesorios','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Electrónica','Equipos de audio y Hi-Fi','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','disco','duro','kingston', ]
+tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Altavoces y pantallas inteligentes Echo','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos internos','Electrónica','Equipos de audio y Hi-Fi','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','Tecnología para vestir','Videojuegos','disco','duro','kingston', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99
@@ -29,8 +29,8 @@ Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 4
 ℹ️:
 
 - Rendimiento óptimo para la transferencia de archivos
-- Capacidad de la memoria: 480 GB
-- Fiable y resistente
 - Velocidad de grabación: 450 MB/s
+- Fiable y resistente
+- Capacidad de la memoria: 480 GB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21)
