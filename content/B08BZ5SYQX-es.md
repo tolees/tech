@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ5SYQX-es ASUS VivoBook 15 F515JA-BR097T - Portátil de 15.6" HD...'
 sku: 'B08BZ5SYQX-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Informática','Móviles','Móviles y smartphones libres','Portátiles','asus','ram','teclado', ]
+tags: [ 'Accesorios','Accesorios para Juegos PC','Adaptadores','Adaptadores USB','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Barebones','Bombillas','Bombillas Wi-Fi','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hogar y cocina','Iluminación','Informática','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Portátiles','Ratones','Ratones para gamers para PC','Robots aspiradores','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Videojuegos','asus','ram','teclado', ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99
@@ -28,11 +28,11 @@ Tienes [ASUS VivoBook 15 F515JA-BR097T - Portátil de 15.6" HD  Intel Core i3-10
 
 ℹ️:
 
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Pantalla de 15.6" HD (1366 x 768)
-- Windows 10 Home
-- Memoria RAM de 8GB DDR4-SDRAM
 - Procesador Intel Core i3-1005G1 (4MB Cache, 1.2GHz)
 - Almacenamiento de 256GB SSD
+- Windows 10 Home
+- Pantalla de 15.6" HD (1366 x 768)
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB DDR4-SDRAM
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZ5SYQX/?tag=tolees-21)

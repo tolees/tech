@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'SanDisk Extreme PRO - Tarjeta de memoria con un 38.91 % de descuento'
+date: 2021-03-17 20:06:26
+image: 'https://m.media-amazon.com/images/I/4143CjbrHrL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B06XYHN68L-es SanDisk Extreme PRO - Tarjeta de memoria de 32 GB...'
+sku: 'B06XYHN68L-es'
+tags: [ 'Accesorios','Accesorios para Juegos PC','Adaptadores','Adaptadores USB','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hogar y cocina','Informática','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Ratones','Ratones para gamers para PC','Robots aspiradores','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Videojuegos','sandisk', ]
+actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
+comparePrice: 17.99 EUR
+prodname: 'SanDisk Extreme PRO - Tarjeta de memoria de 32 GB microSDHC UHS-I + adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U3  V30 y A1'
+country: 'es'
+flag: '🇪🇸'
+brand: 'SanDisk'
+buyurl: 'https://www.amazon.es/dp/B06XYHN68L/?tag=tolees-21'
+descuento: '38.91'
+average: '14.3771428571429'
+---
+
+En este momento está [SanDisk Extreme PRO - Tarjeta de memoria de 32 GB microSDHC UHS-I + adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U3  V30 y A1](https://www.amazon.es/dp/B06XYHN68L/?tag=tolees-21) a 10.99 EUR (original: 17.99 EUR) (38.91 %  de descuento) en el siguiente enlace!
+
+[![SanDisk Extreme PRO - Tarjeta de memoria](https://m.media-amazon.com/images/I/4143CjbrHrL._SL400_.jpg)](https://www.amazon.es/dp/B06XYHN68L/?tag=tolees-21)
+
+🔎:
+
+- Rendimiento de vídeo profesional con estándar UHS Speed Class 3 (U3), para grabar vídeo Full HD y 4K UHD
+- Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
+- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
+- Velocidades y el rendimiento profesional definitivo para Smartphones y tabletas Android y cámaras MIL habilitados para vídeo 4K Ultra HD
+- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
+- Velocidades de lectura/escritura de hasta 100 MB/s / 90 MB/s para disparar y transferir a velocidades extremas
+- Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B06XYHN68L/?tag=tolees-21)
