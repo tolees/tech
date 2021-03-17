@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6M7YLT-es Nintendo Switch Lite - Consola Amarillo'
 sku: 'B07V6M7YLT-es'
-tags: [ 'Accesorios','Accesorios para monitores','Almacenamiento de datos','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Brazos y soportes para monitores','Básculas','Básculas digitales','Comunicación móvil y accesorios','Consolas Nintendo Switch','Discos duros sólidos internos','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Monitores de diagnóstico y salud','Móviles','Móviles y smartphones libres','Salud y cuidado personal','Suministros y equipamiento médico','Tablets','Videojuegos','nintendo','switch', ]
+tags: [ 'Accesorios','Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Accesorios para monitores','Adaptadores de red','Adaptadores de red Bluetooth','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Audio para coche','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas LED','Brazos y soportes para monitores','Básculas','Básculas digitales','Cargadores de medios digitales para coche','Climatización y calefacción','Comunicación móvil y accesorios','Consolas Nintendo Switch','Custom Stores','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Electrónica para coche','Electrónica para vehículos','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hogar y cocina','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Juegos para Nintendo Switch','Monitores de diagnóstico y salud','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Paquetes de dispositivos','Puntos de acceso inalámbrico','Purificadores de aire','Ratones','Repetidores de red','Salud y cuidado personal','Specialty Stores','Suministros y equipamiento médico','TV, vídeo y home cinema','Tablets','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','nintendo','switch', ]
 actualPrice: 194.9 EUR
 currency: EUR
 price: 194.9
@@ -28,13 +28,13 @@ Ahora mismo tienes [Nintendo Switch Lite - Consola Amarillo](https://www.amazon.
 
 🔎:
 
-- Se lanzará en tres colores: amarillo, gris y turquesa.
 - Permite jugar con todos los títulos de Nintendo Switch que sean compatibles con el modo portátil.
 - Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
-- En el caso de juegos que no sean compatibles con el modo portátil, los jugadores pueden conectar mandos Joy-Con (a la venta por separado) de manera inalámbrica a Nintendo Switch Lite. Los usuarios deberán tener un dispositivo para cargar los mandos Joy-Con, como, por ejemplo, el soporte de carga para mandos Joy-Con.
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
-- Se pueden conectar hasta ocho consolas Nintendo Switch o Nintendo Switch Lite para jugar a juegos competitivos o cooperativos, tanto en multijugador local como online.
-- Cómo comprobar si un programa es compatible con el modo portátil: En el caso de programas con tarjeta de juego, busca el símbolo del modo portátil en el reverso de la caja.
 - Compacta y ligera para que sea fácil de transportar.
+- Se pueden conectar hasta ocho consolas Nintendo Switch o Nintendo Switch Lite para jugar a juegos competitivos o cooperativos, tanto en multijugador local como online.
+- Se lanzará en tres colores: amarillo, gris y turquesa.
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
+- En el caso de juegos que no sean compatibles con el modo portátil, los jugadores pueden conectar mandos Joy-Con (a la venta por separado) de manera inalámbrica a Nintendo Switch Lite. Los usuarios deberán tener un dispositivo para cargar los mandos Joy-Con, como, por ejemplo, el soporte de carga para mandos Joy-Con.
+- Cómo comprobar si un programa es compatible con el modo portátil: En el caso de programas con tarjeta de juego, busca el símbolo del modo portátil en el reverso de la caja.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V6M7YLT/?tag=tolees-21)

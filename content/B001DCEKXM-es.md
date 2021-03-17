@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DCEKXM-es Suunto Core All - Reloj de exterior para todas las...'
 sku: 'B001DCEKXM-es'
-tags: [ 'Accesorios','Accesorios para monitores','Almacenamiento de datos','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Brazos y soportes para monitores','Básculas','Básculas digitales','Clientes de streaming','Comunicación móvil y accesorios','Consolas Nintendo Switch','Discos duros sólidos internos','Dispositivos para el streaming','Electrónica','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Monitores de diagnóstico y salud','Móviles','Móviles y smartphones libres','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Salud y cuidado personal','Suministros y equipamiento médico','Tablets','Videojuegos','suunto', ]
+tags: [ 'Accesorios','Accesorios para Echo Dot (3.ª generación)','Accesorios para dispositivos Amazon','Accesorios para monitores','Adaptadores de red','Adaptadores de red Bluetooth','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Audio para coche','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas LED','Brazos y soportes para monitores','Básculas','Básculas digitales','Cargadores de medios digitales para coche','Clientes de streaming','Climatización y calefacción','Comunicación móvil y accesorios','Consolas Nintendo Switch','Custom Stores','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Dispositivos para el streaming','Electrónica','Electrónica para coche','Electrónica para vehículos','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hogar y cocina','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Juegos para Nintendo Switch','Monitores de diagnóstico y salud','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Paquetes de dispositivos','Puntos de acceso inalámbrico','Purificadores de aire','Ratones','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Repetidores de red','Salud y cuidado personal','Specialty Stores','Suministros y equipamiento médico','TV, vídeo y home cinema','Tablets','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','suunto', ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99
@@ -28,11 +28,11 @@ Está [Suunto Core All - Reloj de exterior para todas las altitudes  sumergible 
 
 ℹ️:
 
-- Medición de la altitud barométrica, Monitorización de la altitud con gráficos, Brújula, Mide la profundidad para bucear (10 m)
-- Menú multilingüe (inglés, alemán, francés, español).
 - Contenido: 1 x Reloj Outdoor para todas las altitudes, SS014279010, All Black, Carcasa resistente, No incluye batería: CR 2032
 - Muy resistente gracias a estar hecho de acero inoxidable con cristal de zafiro, Sumergible hasta 30m (ISO6425), Cómodo gracias a su ligereza
-- Alerta de tormentas, Temperatura, Hora, Fecha y función de alarma, 12 meses de duración de la batería en modo hora
+- Medición de la altitud barométrica, Monitorización de la altitud con gráficos, Brújula, Mide la profundidad para bucear (10 m)
+- Menú multilingüe (inglés, alemán, francés, español).
 - No incluye GPS integrado.
+- Alerta de tormentas, Temperatura, Hora, Fecha y función de alarma, 12 meses de duración de la batería en modo hora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001DCEKXM/?tag=tolees-21)
