@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VMLYHJ-es Cecotec Conga 2690 - Robot aspirador y fregasuelos iTech...'
 sku: 'B084VMLYHJ-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Equipos de audio y Hi-Fi','Hogar y cocina','Informática','Memorias USB','Robots aspiradores','alexa','assistant','cecotec','google', ]
+tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Memorias USB','Ratones','Robots aspiradores','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','alexa','assistant','cecotec','google', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0
@@ -28,10 +28,10 @@ Tienes [Cecotec Conga 2690 - Robot aspirador y fregasuelos  iTech Camera 360  Fr
 
 🔎:
 
-- Gracias a su Memory Control, el robot memoriza el recorrido para poder encontrar la ruta más rápida y eficiente de limpieza y para volver a la base de carga, una vez terminada la limpieza. Gracias a este sistema, el robot sabe perfectamente donde se encuentra, por donde ha pasado y por donde no ha pasado.
-- Sistema Virtual Map que te mostrará en la aplicación el mapa de tu hogar y lo guardará. El robot irá creando el mapa a medida que realiza la limpieza. Crea zonas restringidas gracias a su Magnetic Strip. Sistema Turbo Clean Carpet que activa el modo Turbo en alfombras. Programable los 7 días de la semana, 24 horas al día.
-- Tecnología 4 in 1 con tanque mixto. El robot aspira, friega, barre y pasa la mopa. Además, es capaz de aspirar, barrer y pasar la mopa o fregar a la vez. Gracias a su sistema Total Surface el robot cubrirá toda la superficie recorrida. Incluye cepillo de silicona apto para animales. Incluye cepillo Jalisco para aspirar hasta la suciedad más fina.
 - Navegación inteligente iTech Camara 360 para una mayor precisión e interactividad tecnológica. Sistema ForceClean con una potente turbina que maximiza la gran potencia de succión hasta 2700 Pa. Conectividad total gracias a la compatibilidad con redes Wi-Fi 5GHz.
+- Tecnología 4 in 1 con tanque mixto. El robot aspira, friega, barre y pasa la mopa. Además, es capaz de aspirar, barrer y pasar la mopa o fregar a la vez. Gracias a su sistema Total Surface el robot cubrirá toda la superficie recorrida. Incluye cepillo de silicona apto para animales. Incluye cepillo Jalisco para aspirar hasta la suciedad más fina.
+- Gracias a su Memory Control, el robot memoriza el recorrido para poder encontrar la ruta más rápida y eficiente de limpieza y para volver a la base de carga, una vez terminada la limpieza. Gracias a este sistema, el robot sabe perfectamente donde se encuentra, por donde ha pasado y por donde no ha pasado.
 - Aplicación para Smartphone. Cuenta con tres modos de fregado por control electrónico aptos para cualquier tipo de superficie. Diseñado con 10 modos de limpieza inteligentes. Conecta el robot con Alexa y Google Assistant. La limpieza por áreas o puntual permite seleccionar el punto exacto que quieras que limpie.
+- Sistema Virtual Map que te mostrará en la aplicación el mapa de tu hogar y lo guardará. El robot irá creando el mapa a medida que realiza la limpieza. Crea zonas restringidas gracias a su Magnetic Strip. Sistema Turbo Clean Carpet que activa el modo Turbo en alfombras. Programable los 7 días de la semana, 24 horas al día.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084VMLYHJ/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QXQ86Y-es Razer Viper UltimateRatón Inalámbrico para Juegos Ratón...'
 sku: 'B081QXQ86Y-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hogar y cocina','Informática','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Ratones','Ratones para gamers para PC','Robots aspiradores','Teclados, ratones y periféricos de entrada','Videojuegos','ratón','razer', ]
+tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Ratones','Ratones para gamers para PC','Robots aspiradores','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','ratón','razer', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99
@@ -28,10 +28,10 @@ Está [Razer Viper UltimateRatón Inalámbrico para Juegos  Ratón Gaming  Ambid
 
 ℹ️:
 
+- Sensor óptico Razer Focus+ 20K: Un sensor de 20 000 PPP con una precisión de resolución del 99,6 % asegura que se registre hasta el movimiento más leve del ratón, ofreciéndote un gran nivel de precisión para realizar disparos ganadores y maniobras elusivas
 - Switches ópticos para ratones Razer: Cada clic que haces se realiza a la velocidad de la luz, sin desactivación de rebote, por lo que siempre serás el primero en apretar el gatillo, los switches también duran hasta 70 millones de clics
 - Tecnología inalámbrica rápida Razer HyperSpeed: Con una transmisión de gran velocidad, una latencia muy baja y un cambio fluido de frecuencia en los entornos con más ruido, ni te darás cuenta de que están jugando con un ratón inalámbrico
 - Peso ligero de 74 g Diseñado para deportes electrónicos: El ratón Razer Viper Ultimate es el ratón inalámbrico para juegos más ligero, que además aprovecha todo su potencial con su diseño ambidiestro real, su peso óptimo está diseñado para un control más rápido y suave
 - Hasta 70 horas de duración de la batería: Una eficiencia energética inalámbrica óptimizada hace que funcione a un rendimiento óptimo durante hasta 70 horas seguidas, cárgalo una vez a la semana para disfrutar de 10 horas de juego diario
-- Sensor óptico Razer Focus+ 20K: Un sensor de 20 000 PPP con una precisión de resolución del 99,6 % asegura que se registre hasta el movimiento más leve del ratón, ofreciéndote un gran nivel de precisión para realizar disparos ganadores y maniobras elusivas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21)
