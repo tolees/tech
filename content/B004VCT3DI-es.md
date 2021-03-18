@@ -28,9 +28,9 @@ En este momento está [Sony Mdre9Lpl - Auriculares de Botón  Blanco y Azul  5](
 
 🔎:
 
+- Rango de frecuencia: 18 Hz a 22 kHz
 - Diafragma de neodimio (13,5 mm)
 - Disponible en varios colores
-- Rango de frecuencia: 18 Hz a 22 kHz
 - Auriculares internos ligeros con diafragma de 13,5 mm, 18 Hz-20 kHz, tapones de silicona, diversos colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004VCT3DI/?tag=tolees-21)

@@ -28,14 +28,14 @@ En este momento está [realme Watch - Smartwatch  pantalla de 1.4"  frecuencia c
 
 🔎:
 
-- Monitor de frecuencia cardíaca en tiempo real
-- Esfera del reloj personalizado
+- Móvil compatible con Portugal
 - Monitor de nivel de oxígeno en sangre
 - Controles de música y cámara
 - 2 años de garantía del fabricante (ES)
 - Rastreador de actividad inteligente
-- Móvil compatible con Portugal
+- Esfera del reloj personalizado
 - 14 modos de deporte
 - Pantalla táctil a color grande de 1,4"
+- Monitor de frecuencia cardíaca en tiempo real
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089NZG3Z3/?tag=tolees-21)
