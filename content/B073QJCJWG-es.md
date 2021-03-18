@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'ASUS RP-AC55- Repetidor Extensor de Red  con un 20.32 % de descuento'
-date: 2021-03-14 01:08:36
+date: 2021-03-18 01:54:51
 image: 'https://m.media-amazon.com/images/I/31YFk-ihcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QJCJWG-es ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble...'
 sku: 'B073QJCJWG-es'
-tags: [ 'asus','gigabit','wifi', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Sistemas WiFi Mesh','Tarjetas de red','asus','gigabit','wifi', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21'
 descuento: '20.32'
-average: '54.2463157894736'
+average: '54.2651282051281'
 ---
 
 En este momento está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble Banda  Puerto LAN Gigabit  Modo Punto Acceso  indicador LED señal ](https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21) a 54.98 EUR (original: 69.0 EUR) (20.32 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble
 
 🔎:
 
-- Configuración sencilla: Encuentra el mejor emplazamiento con el indicador LED de señal y conéctalo con un clic
-- Modos de uso: repetidor, punto de acceso y puente de medios
 - ASUS Extender App: Configúralo sin tocar el ordenador, cuando quieras y desde cualquier lugar
+- Modos de uso: repetidor, punto de acceso y puente de medios
 - Aumenta la zona de cobertura inalámbrica a lo largo de tu hogar: dos antenas externas de dos bandas para cubrir todas las estancias con Wi-Fi de alta velocidad
 - Extiende la conectividad inalámbrica de tu router con hasta 1200 Mbps de velocidad combinada
+- Configuración sencilla: Encuentra el mejor emplazamiento con el indicador LED de señal y conéctalo con un clic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21)
