@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQ8JN6M-es Ordenador PORTATIL 15DA0172NS INN4000 4GB 128GB SSD 15 6"...'
 sku: 'B07QQ8JN6M-es'
+tags: [ 'ordenador', ]
 actualPrice: 273.05 EUR
 currency: EUR
 price: 273.05

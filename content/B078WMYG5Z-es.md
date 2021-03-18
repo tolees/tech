@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WMYG5Z-es AiRunTech Cinturón de Correr para Botellas de Agua Bolsa...'
 sku: 'B078WMYG5Z-es'
+tags: [ 'móvil', ]
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

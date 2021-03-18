@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMPPBK3-es ELEGOO PLA Filamento de Impresora 3D Precisión Dimensional...'
 sku: 'B07JMPPBK3-es'
+tags: [ 'impresora', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

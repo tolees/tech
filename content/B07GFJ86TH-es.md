@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFJ86TH-es Panasonic Lumix DC-LX100 II - Cámara Compacta Premium de...'
 sku: 'B07GFJ86TH-es'
+tags: [ 'bluetooth','panasonic','wifi', ]
 actualPrice: 806.65 EUR
 currency: EUR
 price: 806.65

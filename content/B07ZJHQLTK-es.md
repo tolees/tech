@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJHQLTK-es AROYI Funda Xiaomi Mi A3 + 2 Pack Vidrio Templado...'
 sku: 'B07ZJHQLTK-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

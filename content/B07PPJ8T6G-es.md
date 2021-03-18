@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPJ8T6G-es Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled...'
 sku: 'B07PPJ8T6G-es'
+tags: [ 'galaxy','ram','samsung','smartphone', ]
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

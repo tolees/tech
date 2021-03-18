@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVWYRWM-es Alcatel 3088X - Teléfono móvil de 2.4" Wi-Fi RAM de 4 GB...'
 sku: 'B07TVWYRWM-es'
+tags: [ 'bluetooth','móvil','ram', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

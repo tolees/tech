@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JSXHKB-es Magnético Cable USB Tipo C RAVIAD [2 Pack 1M] Magnetico...'
 sku: 'B087JSXHKB-es'
+tags: [ 'galaxy','huawei','xiaomi', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

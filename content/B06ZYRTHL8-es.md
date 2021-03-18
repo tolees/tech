@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYRTHL8-es ASUS VZ27AQ - Monitor Eye Care de 27 Pulgadas WQHD IPS...'
 sku: 'B06ZYRTHL8-es'
+tags: [ 'asus','ips', ]
 actualPrice: 269.19 EUR
 currency: EUR
 price: 269.19

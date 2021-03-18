@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTMKPPM-es Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail...'
 sku: 'B07VTMKPPM-es'
+tags: [ 'gigabit','ordenador','wifi', ]
 actualPrice: 138.0 EUR
 currency: EUR
 price: 138.0

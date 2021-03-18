@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RVDOQXG-es AVM FRITZ!WLAN Repeater 1750E International -...'
 sku: 'B00RVDOQXG-es'
+tags: [ 'wifi', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NUB2RPW-es SanDisk SDCFXSB-064G-G46 - Tarjeta de Memoria de 64 GB...'
 sku: 'B00NUB2RPW-es'
+tags: [ 'sandisk', ]
 actualPrice: 45.36 EUR
 currency: EUR
 price: 45.36

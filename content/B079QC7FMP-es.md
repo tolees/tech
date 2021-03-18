@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QC7FMP-es Corsair HS60 Surround 7.1 - Auriculares Gaming con...'
 sku: 'B079QC7FMP-es'
+tags: [ 'auriculares', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

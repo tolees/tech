@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081V8W4ZQ-es KIWI design Oculus Quest/Oculus Rift Correa Ajustable para...'
 sku: 'B081V8W4ZQ-es'
+tags: [ 'auriculares', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

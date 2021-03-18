@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6NAG12-es Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200 N300 +...'
 sku: 'B00M6NAG12-es'
+tags: [ 'gigabit', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKWTKXW-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
 sku: 'B07GKWTKXW-es'
+tags: [ 'auriculares','móvil','smartphone','tablet', ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

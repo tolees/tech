@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP5DQ86-es Luces nocturnas Altavoz Bluetooth Ranipobo Sensor táctil...'
 sku: 'B07PP5DQ86-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 21.58 EUR
 currency: EUR
 price: 21.58

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKK35BT-es WD My Passport Ultra - Disco Duro Externo para Mac de 2 TB...'
 sku: 'B07GKK35BT-es'
+tags: [ 'disco','duro', ]
 actualPrice: 98.37 EUR
 currency: EUR
 price: 98.37

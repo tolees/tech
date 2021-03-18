@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A33BYEA-es Netgear GS208-100PES - Switch 8 Puertos Gigabit 10/100/1000'
 sku: 'B00A33BYEA-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

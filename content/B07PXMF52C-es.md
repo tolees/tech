@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXMF52C-es Anker PowerCore Slim 10000 Cargador portátil Ultrafino...'
 sku: 'B07PXMF52C-es'
+tags: [ 'galaxy','iphone','samsung', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

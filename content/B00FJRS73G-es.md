@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FJRS73G-es SanDisk Cruzer Force - Memoria USB 2.0 de 64 GB Color...'
 sku: 'B00FJRS73G-es'
+tags: [ 'sandisk', ]
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

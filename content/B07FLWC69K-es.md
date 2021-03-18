@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLWC69K-es KLIM - Alfombrilla de ratón XL - Superficie Amplia -...'
 sku: 'B07FLWC69K-es'
+tags: [ 'ratón', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

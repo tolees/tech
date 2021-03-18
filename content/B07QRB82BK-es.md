@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRB82BK-es Samsung Galaxy Tab A - Tablet de 10.1" Full HD Wifi + 4G...'
 sku: 'B07QRB82BK-es'
+tags: [ 'full','galaxy','hd','ram','samsung','tablet','wifi', ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

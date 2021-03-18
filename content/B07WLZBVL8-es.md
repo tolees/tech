@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLZBVL8-es Adaptador Usb Inalámbrico Del Adaptador 4G Lte Adaptador...'
 sku: 'B07WLZBVL8-es'
+tags: [ 'lte','wifi', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

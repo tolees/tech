@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003QPMC3O-es Samsung CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas'
 sku: 'B003QPMC3O-es'
+tags: [ 'samsung', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

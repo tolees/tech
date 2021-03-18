@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDRY863-es Suunto 3 Fitness - Reloj Multideporte con GPS y pulsómetro...'
 sku: 'B07BDRY863-es'
+tags: [ 'gps','suunto', ]
 actualPrice: 144.56 EUR
 currency: EUR
 price: 144.56

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKX747F-es Denon AVR-S650H 5.2 - Receptor AV de Red 4 K Wi-Fi...'
 sku: 'B07RKX747F-es'
+tags: [ 'bluetooth','denon', ]
 actualPrice: 355.99 EUR
 currency: EUR
 price: 355.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KVKQ1Y-es Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream...'
 sku: 'B071KVKQ1Y-es'
+tags: [ 'gigabit', ]
 actualPrice: 111.15 EUR
 currency: EUR
 price: 111.15

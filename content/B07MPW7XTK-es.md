@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPW7XTK-es HP OMEN Gaming 875-0013ns - Ordenador de sobremesa Intel...'
 sku: 'B07MPW7XTK-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 1049.99 EUR
 currency: EUR
 price: 1049.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824VLWW6-es Auriculares Bluetooth Auriculares Inalámbricos Bluetooth...'
 sku: 'B0824VLWW6-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

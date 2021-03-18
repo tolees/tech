@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1Z8YXG-es Mi Pocket Speaker 2 White Altavoz Xiaomi'
 sku: 'B07C1Z8YXG-es'
+tags: [ 'altavoz','xiaomi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

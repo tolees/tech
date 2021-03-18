@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NTXYNY-es Sony NW-WS623 Walkman - Reproductor de MP3 Deportivo...'
 sku: 'B071NTXYNY-es'
+tags: [ 'bluetooth','sony', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

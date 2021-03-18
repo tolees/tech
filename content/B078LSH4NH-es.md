@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LSH4NH-es Walkie Talkie Profesional TACKLIFE-MTR01 Talkie walkie...'
 sku: 'B078LSH4NH-es'
+tags: [ 'auriculares', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

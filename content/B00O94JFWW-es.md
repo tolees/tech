@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O94JFWW-es Fujifilm instax Mini 8 Kit - cámaras con impresión...'
 sku: 'B00O94JFWW-es'
+tags: [ 'fujifilm', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

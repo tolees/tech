@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LOJ64HS-es Corsair K65 Lux RGB Teclado Mecánico Gaming Cherry MX Red...'
 sku: 'B01LOJ64HS-es'
+tags: [ 'teclado', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

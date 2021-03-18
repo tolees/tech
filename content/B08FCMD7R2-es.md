@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCMD7R2-es Auriculares Bluetooth Auriculares inalámbricos...'
 sku: 'B08FCMD7R2-es'
+tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

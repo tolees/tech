@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTX3WNF-es Brother MFCJ497DWG1 4IN1 Impresora de inyección de Tinta...'
 sku: 'B07DTX3WNF-es'
+tags: [ 'impresora', ]
 actualPrice: 70.85 EUR
 currency: EUR
 price: 70.85

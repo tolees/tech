@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143IIP4W-es SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC...'
 sku: 'B0143IIP4W-es'
+tags: [ 'sandisk', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

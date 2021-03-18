@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL32GHC-es FONCBIEN Alfombrilla De Ratón Gaming 220 × 220 Mm En...'
 sku: 'B07DL32GHC-es'
+tags: [ 'ordenador','ratón', ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

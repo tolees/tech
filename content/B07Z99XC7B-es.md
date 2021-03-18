@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z99XC7B-es SOOPSON Alfombrilla para ratón Gaming Alfombrilla de Gel...'
 sku: 'B07Z99XC7B-es'
+tags: [ 'ordenador','ratón', ]
 actualPrice: 1.27 EUR
 currency: EUR
 price: 1.27

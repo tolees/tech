@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK8DXVM-es VTIN R2 Altavoces portátiles Bluetooth Altavoz portátil...'
 sku: 'B07DK8DXVM-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON Paquete de 2 y Smart LED...'
 sku: 'B07PWVFPTJ-es'
+tags: [ 'sony', ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

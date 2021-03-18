@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDQBFXY-es Corsair Harpoon RGB PRO Óptico Ratón Para Juegos USB...'
 sku: 'B07RDQBFXY-es'
+tags: [ 'ratón', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

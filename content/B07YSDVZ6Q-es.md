@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSDVZ6Q-es NEXCURIO Funda Silicona Galaxy Note 10 Carcasa...'
 sku: 'B07YSDVZ6Q-es'
+tags: [ 'galaxy','móvil','samsung', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

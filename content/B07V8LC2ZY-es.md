@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8LC2ZY-es Sistema de alarma inalámbrico PNI SafeHouse HS550 Wifi GSM...'
 sku: 'B07V8LC2ZY-es'
+tags: [ 'wifi', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

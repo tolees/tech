@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KK2CJP-es HP Spectre Bluetooth 500 Bluetooth Óptico 1600DPI Negro -...'
 sku: 'B072KK2CJP-es'
+tags: [ 'bluetooth','ratón', ]
 actualPrice: 40.92 EUR
 currency: EUR
 price: 40.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGD48PZ-es G-Color Laptop Stand / Soporte / Stand Portátil y...'
 sku: 'B07RGD48PZ-es'
+tags: [ 'ordenador', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

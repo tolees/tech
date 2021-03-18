@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX45YD6-es Newskill EOS - Ratón para Gaming RGB 10 perfiles...'
 sku: 'B07DX45YD6-es'
+tags: [ 'ratón', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

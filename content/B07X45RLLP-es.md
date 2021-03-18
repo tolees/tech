@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X45RLLP-es Teléfono Móvil Libres Todoterreno DOOGEE S95 Smartphone...'
 sku: 'B07X45RLLP-es'
+tags: [ 'móvil','smartphone', ]
 actualPrice: 329.99 EUR
 currency: EUR
 price: 329.99

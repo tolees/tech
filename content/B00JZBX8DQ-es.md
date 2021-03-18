@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZBX8DQ-es Panasonic Eneloop SY3052647 - Pack 8 Pilas Recargables AA'
 sku: 'B00JZBX8DQ-es'
+tags: [ 'panasonic', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

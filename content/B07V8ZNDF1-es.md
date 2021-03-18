@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8ZNDF1-es ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15...'
 sku: 'B07V8ZNDF1-es'
+tags: [ 'asus','ram','teclado', ]
 actualPrice: 971.93 EUR
 currency: EUR
 price: 971.93

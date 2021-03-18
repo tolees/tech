@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y62H8YR-es Fujifilm Instax Mini 9 - Cámara instantanea solo cámara...'
 sku: 'B06Y62H8YR-es'
+tags: [ 'fujifilm', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

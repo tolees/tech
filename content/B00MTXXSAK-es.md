@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTXXSAK-es Samyang F1220506101 - Objetivo fotográfico CSC-Mirrorless...'
 sku: 'B00MTXXSAK-es'
+tags: [ 'sony', ]
 actualPrice: 298.98 EUR
 currency: EUR
 price: 298.98

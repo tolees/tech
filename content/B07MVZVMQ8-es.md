@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVZVMQ8-es WD My Passport Go 500 GB disco duro sólido externo -...'
 sku: 'B07MVZVMQ8-es'
+tags: [ 'disco','duro', ]
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

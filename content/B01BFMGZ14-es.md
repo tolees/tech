@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BFMGZ14-es Brother HL-L6300DW - Impresora láser Profesional Monocromo...'
 sku: 'B01BFMGZ14-es'
+tags: [ 'impresora','wifi', ]
 actualPrice: 409.66 EUR
 currency: EUR
 price: 409.66

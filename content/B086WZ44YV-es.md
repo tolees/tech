@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p USB2.0 con micrófono...'
 sku: 'B086WZ44YV-es'
+tags: [ '1080p','full','hd', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

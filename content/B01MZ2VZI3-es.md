@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ2VZI3-es Netgear GS110EMX-100PES - Switch de Red Smart Plus...'
 sku: 'B01MZ2VZI3-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

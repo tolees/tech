@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3FL2M1-es HP OMEN Obelisk 875-0003ns - Ordenador de Sobremesa Gaming...'
 sku: 'B07J3FL2M1-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

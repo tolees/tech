@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IED0ITM-es ZOWEETEK® Hub USB 3.0 de 3 Puertos + 1 Puerto Ethernet...'
 sku: 'B01IED0ITM-es'
+tags: [ 'gigabit','tablet', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

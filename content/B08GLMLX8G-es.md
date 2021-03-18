@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLMLX8G-es SNUNGPHIR® 4pcs Protector de Pantalla para Xiaomi Mi Band...'
 sku: 'B08GLMLX8G-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

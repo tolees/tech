@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M3BHLK-es Oihxse Silicona Funda con Samsung Galaxy M10 TPU Flexible...'
 sku: 'B087M3BHLK-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Y2RHR9-es Clevefun - Cable USB C 1 m 2 unidades nailon resistente...'
 sku: 'B089Y2RHR9-es'
+tags: [ 'galaxy','samsung','sony','xiaomi', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZ4Y2SG-es Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2...'
 sku: 'B07GZ4Y2SG-es'
+tags: [ 'canon', ]
 actualPrice: 1018.36 EUR
 currency: EUR
 price: 1018.36

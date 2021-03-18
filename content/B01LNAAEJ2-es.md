@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LNAAEJ2-es Anker Cable USB Powerline + USB-C a USB 3.0 1 8m Alta...'
 sku: 'B01LNAAEJ2-es'
+tags: [ 'galaxy', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPDBKKQ-es Apple iPhone XS de 512GB - Oro'
 sku: 'B07HPDBKKQ-es'
+tags: [ 'apple','iphone', ]
 actualPrice: 938.9 EUR
 currency: EUR
 price: 938.9

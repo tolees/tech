@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824YYNQF-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos 132H...'
 sku: 'B0824YYNQF-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

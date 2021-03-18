@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5ZVQ6Z-es MEDION ERAZER P6705 - Ordenador portátil de 15.6" FullHD...'
 sku: 'B07R5ZVQ6Z-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 579.0 EUR
 currency: EUR
 price: 579.0

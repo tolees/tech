@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LTRW2Z-es Fanlce Repetidor WiFi Banda Dual Amplificador de WiFi...'
 sku: 'B089LTRW2Z-es'
+tags: [ 'wifi', ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

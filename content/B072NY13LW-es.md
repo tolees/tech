@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072NY13LW-es Philips 223V7QHSB/00 - Monitor IPS de 21.5" Full HD...'
 sku: 'B072NY13LW-es'
+tags: [ 'full','hd','ips', ]
 actualPrice: 89 EUR
 currency: EUR
 price: 89

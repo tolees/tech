@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KWF11D-es ONTA® Deporte Ligero Plegable Auriculares Cascos con...'
 sku: 'B072KWF11D-es'
+tags: [ 'auriculares','iphone','ordenador', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

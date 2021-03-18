@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4YF7TS-es HP Pavilion Gaming TG01-0024ns - Ordenador de sobremesa de...'
 sku: 'B07Y4YF7TS-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

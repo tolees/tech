@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075F5C3TJ-es K KYUER A42-G750 Batería para ASUS ROG G750J G750JH-DB71...'
 sku: 'B075F5C3TJ-es'
+tags: [ 'asus', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

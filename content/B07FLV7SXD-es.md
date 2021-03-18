@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLV7SXD-es Monitor portátil TFT LED de 10.1 pulgadas 1366 x 768 con...'
 sku: 'B07FLV7SXD-es'
+tags: [ 'altavoz', ]
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

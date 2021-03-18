@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQQ42Q8-es Lenovo Yoga 530-14IKB - Ordenador Portátil táctil...'
 sku: 'B07FQQ42Q8-es'
+tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

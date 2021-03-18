@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7Y8WNT-es Disco duro externo de 1 TB 2 TB USB 3.0 apto para PC Mac...'
 sku: 'B08F7Y8WNT-es'
+tags: [ 'disco','duro', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RWSYCN-es GPC Image TN1050 Cartuchos de Tóner reemplazo Compatible...'
 sku: 'B073RWSYCN-es'
+tags: [ 'impresora', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

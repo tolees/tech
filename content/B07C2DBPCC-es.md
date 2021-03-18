@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2DBPCC-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
 sku: 'B07C2DBPCC-es'
+tags: [ 'motorola','samsung','sony', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

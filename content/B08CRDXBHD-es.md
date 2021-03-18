@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRDXBHD-es Auriculares inalámbricos de diadema para TV con estación...'
 sku: 'B08CRDXBHD-es'
+tags: [ 'auriculares', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC81JDP-es SEBSON Báscula de Grasa Corporal Bluetooth con App digital...'
 sku: 'B07XC81JDP-es'
+tags: [ 'bluetooth', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD81RDC-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED...'
 sku: 'B07DD81RDC-es'
+tags: [ 'ratón', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

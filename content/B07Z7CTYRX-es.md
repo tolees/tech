@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada extra grande...'
 sku: 'B07Z7CTYRX-es'
+tags: [ 'ordenador','ratón','teclado', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GOW2X4O-es Silver HT - Funda universal gripcase con teclado 9"-10.1"...'
 sku: 'B00GOW2X4O-es'
+tags: [ 'teclado', ]
 actualPrice: 36.53 EUR
 currency: EUR
 price: 36.53

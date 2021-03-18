@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D61JTPG-es DigitalTech® - Mando Universal para televisores Samsung...'
 sku: 'B07D61JTPG-es'
+tags: [ 'samsung', ]
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB827NV-es HP Laser MFP 135a - Impresora láser multifunción imprime...'
 sku: 'B07SB827NV-es'
+tags: [ 'impresora', ]
 actualPrice: 97.8 EUR
 currency: EUR
 price: 97.8

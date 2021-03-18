@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KBDVV5-es Logitech MeetUp Sistema de Cámara para Conferencias Webcam...'
 sku: 'B071KBDVV5-es'
+tags: [ 'logitech', ]
 actualPrice: 919.0 EUR
 currency: EUR
 price: 919.0

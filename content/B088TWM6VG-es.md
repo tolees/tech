@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TWM6VG-es NOV8Tech - Cámara web Full HD 1080p con micrófono para...'
 sku: 'B088TWM6VG-es'
+tags: [ '1080p','full','hd','ordenador', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

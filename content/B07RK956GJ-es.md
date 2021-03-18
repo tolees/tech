@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Garmin Forerunner 245 - Reloj multisport al 16.67 % de descuento'
-date: 2021-03-06 19:31:51
+date: 2021-03-18 14:49:41
 image: 'https://m.media-amazon.com/images/I/41SdxkOzX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK956GJ-es Garmin Forerunner 245 - Reloj multisport con GPS - Burdeos'
 sku: 'B07RK956GJ-es'
+tags: [ 'Deportes y aire libre','Dispositivos GPS deportivos','Electrónica y dispositivos para el deporte','GPS para carrera','garmin','gps', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Garmin'
 buyurl: 'https://www.amazon.es/dp/B07RK956GJ/?tag=tolees-21'
 descuento: '16.67'
-average: '245.972857142857'
+average: '246.865555555556'
 ---
 
 Está [Garmin Forerunner 245 - Reloj multisport con GPS - Burdeos](https://www.amazon.es/dp/B07RK956GJ/?tag=tolees-21) con 16.67 de descuento por 249.99 EUR (original: 299.99 EUR) en el siguiente enlace!

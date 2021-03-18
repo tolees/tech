@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWK9GJ1-es HUAWEI Smart View Flip Case 16 2 cm 6.39" Folio Negro -...'
 sku: 'B07HWK9GJ1-es'
+tags: [ 'huawei', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9WKJ77-es A-Tech ~ Dual Band Wireless-AC 9260 para Intel 9260NGW...'
 sku: 'B07G9WKJ77-es'
+tags: [ 'bluetooth','wifi', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

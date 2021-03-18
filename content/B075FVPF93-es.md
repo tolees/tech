@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FVPF93-es D-Link DIR-878 – Router WiFi Gaming AC1900 MU-MIMO Dual-...'
 sku: 'B075FVPF93-es'
+tags: [ 'gigabit','wifi', ]
 actualPrice: 76.93 EUR
 currency: EUR
 price: 76.93

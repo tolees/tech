@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB6L5TR-es Lenovo Legion Y44w - Monitor de 43.4" Pantalla UHD 3840 x...'
 sku: 'B07RB6L5TR-es'
+tags: [ 'lenovo', ]
 actualPrice: 873.0 EUR
 currency: EUR
 price: 873.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFK6BJL-es Arbily Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B07TFK6BJL-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

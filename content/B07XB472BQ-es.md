@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB472BQ-es Ansblue Correa Compatible para Garmin Vivofit 4 Correa...'
 sku: 'B07XB472BQ-es'
+tags: [ 'garmin', ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

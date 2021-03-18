@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDDDJRN-es Samsung Galaxy S10 - Smartphone de 6.1” Dual SIM 128 GB...'
 sku: 'B07NDDDJRN-es'
+tags: [ 'galaxy','samsung','smartphone', ]
 actualPrice: 639.95 EUR
 currency: EUR
 price: 639.95

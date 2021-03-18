@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3KJ9QB-es Auriculares inalámbricos Bluetooth sobre la Oreja...'
 sku: 'B07V3KJ9QB-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

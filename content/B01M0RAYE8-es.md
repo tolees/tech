@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0RAYE8-es BenQ W1090 Proyector 1080P modo Deporte pantalla grande de...'
 sku: 'B01M0RAYE8-es'
+tags: [ '1080p','altavoz', ]
 actualPrice: 629.77 EUR
 currency: EUR
 price: 629.77

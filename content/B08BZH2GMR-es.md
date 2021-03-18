@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de...'
 sku: 'B08BZH2GMR-es'
+tags: [ 'sony', ]
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

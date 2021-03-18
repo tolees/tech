@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6E3EZO-es Lenovo Ideacentre AIO 910-27ISH - Ordenador de sobremesa...'
 sku: 'B01N6E3EZO-es'
+tags: [ 'lenovo','ordenador','ram','ratón','teclado', ]
 actualPrice: 972.59 EUR
 currency: EUR
 price: 972.59

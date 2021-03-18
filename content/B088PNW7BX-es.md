@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088PNW7BX-es ASUS ROG Zephyrus M15 GU502LV-AZ057T - Ordenador portátil...'
 sku: 'B088PNW7BX-es'
+tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 1499.0 EUR
 currency: EUR
 price: 1499.0

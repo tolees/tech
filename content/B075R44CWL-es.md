@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R44CWL-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
 sku: 'B075R44CWL-es'
+tags: [ 'bluetooth', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

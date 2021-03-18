@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WMAQOHE-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
 sku: 'B00WMAQOHE-es'
+tags: [ 'motorola','samsung','sony', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

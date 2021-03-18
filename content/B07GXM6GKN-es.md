@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXM6GKN-es EdwayBuy Smartwatch Amazfit Bip Relojes Deportivos con GPS...'
 sku: 'B07GXM6GKN-es'
+tags: [ 'bluetooth','gps','smartwatch', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

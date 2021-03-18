@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009SS6A8Q-es M-Audio Axiom AIR Mini 32 - Teclado controlador MIDI USB...'
 sku: 'B009SS6A8Q-es'
+tags: [ 'teclado', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal...'
 sku: 'B083HQGBSV-es'
+tags: [ 'xiaomi', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

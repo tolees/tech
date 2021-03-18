@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RS4DV2-es Ayotu Estuche de Colores para Kindle Paperwhite-Se Adapta...'
 sku: 'B075RS4DV2-es'
+tags: [ 'kindle', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

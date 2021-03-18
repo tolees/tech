@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010SEARPU-es Rankie Adaptador de Red USB 3 0 a RJ45 10/100/1000Mbps...'
 sku: 'B010SEARPU-es'
+tags: [ 'gigabit', ]
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

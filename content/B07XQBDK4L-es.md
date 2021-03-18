@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQBDK4L-es D-Link DUB-M420 - Hub USB tipo C 4 en 1 adaptador USB C...'
 sku: 'B07XQBDK4L-es'
+tags: [ '1080p', ]
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

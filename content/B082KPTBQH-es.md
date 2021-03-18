@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KPTBQH-es PiAEK WiFi Adaptador USB 1200Mbps Antena WiFi USB AC 5dBi...'
 sku: 'B082KPTBQH-es'
+tags: [ 'wifi', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVX3DXF-es VicTsing 1080P HDMI a VGA Video Adaptador de Cable...'
 sku: 'B07CVX3DXF-es'
+tags: [ '1080p', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

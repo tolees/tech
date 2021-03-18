@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNLJXSR-es Android 7.0 Nougat Tablet 10 Pulgadas con Ranuras para...'
 sku: 'B07XNLJXSR-es'
+tags: [ 'bluetooth','gps','ram','tablet','wifi', ]
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UAXUA0M-es Suunto Ambit3 Sport Black Strap Correa para Relojes Unisex...'
 sku: 'B00UAXUA0M-es'
+tags: [ 'suunto', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

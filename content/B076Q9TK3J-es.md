@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Q9TK3J-es Olympus Objetivo - M.Zuiko Digital ED 45 mm F1.2 Pro...'
 sku: 'B076Q9TK3J-es'
+tags: [ 'panasonic', ]
 actualPrice: 879.99 EUR
 currency: EUR
 price: 879.99

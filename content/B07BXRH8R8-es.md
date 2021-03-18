@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXRH8R8-es MSI Pro 16T 7M-030XEU - Ordenador de sobremesa Todo en uno...'
 sku: 'B07BXRH8R8-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 339.34 EUR
 currency: EUR
 price: 339.34

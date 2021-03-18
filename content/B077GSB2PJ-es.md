@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GSB2PJ-es Tenda PW201A N300 Extensor de Red por Linea elétrica WiFi...'
 sku: 'B077GSB2PJ-es'
+tags: [ 'plc','wifi', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

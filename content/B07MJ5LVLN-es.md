@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ5LVLN-es Lenovo Ideapad 330-15IKBR Ordenador Platinum Grey'
 sku: 'B07MJ5LVLN-es'
+tags: [ 'lenovo','ordenador', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

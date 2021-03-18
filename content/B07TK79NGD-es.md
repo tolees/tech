@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TK79NGD-es LONGER Orange 10 Impresora 3D Resina Impresora 3D SLA con...'
 sku: 'B07TK79NGD-es'
+tags: [ 'impresora', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

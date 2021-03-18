@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EX7KNUM-es ASUS PCE-AC88 - Tarjeta de Red Wi-Fi PCI-e AC3100 Dual-...'
 sku: 'B01EX7KNUM-es'
+tags: [ 'asus', ]
 actualPrice: 76.37 EUR
 currency: EUR
 price: 76.37

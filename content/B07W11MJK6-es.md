@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W11MJK6-es ZIPRINT 1800 Páginas Tóner Compatible Samsung MLT-D111L...'
 sku: 'B07W11MJK6-es'
+tags: [ 'samsung', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

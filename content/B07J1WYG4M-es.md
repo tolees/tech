@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1WYG4M-es Fnatic Streak Teclado mecánico para Juegos Esports...'
 sku: 'B07J1WYG4M-es'
+tags: [ 'teclado', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZR84F8B-es SPACEKEEPER Carro de Almacenamiento de 3 Niveles...'
 sku: 'B07ZR84F8B-es'
+tags: [ 'móvil', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

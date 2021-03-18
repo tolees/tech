@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7RSGJB-es Pioneer MVH-S110UB Autoradio Negro'
 sku: 'B07H7RSGJB-es'
+tags: [ 'pioneer', ]
 actualPrice: 45.39 EUR
 currency: EUR
 price: 45.39

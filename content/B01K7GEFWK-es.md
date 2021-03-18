@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7GEFWK-es Logitech M220 Ratón Inalámbrico Botones Silenciosos 2.4...'
 sku: 'B01K7GEFWK-es'
+tags: [ 'logitech','ratón', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

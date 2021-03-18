@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJYT4RX-es LONOSUN Adaptador inalámbrico WiFi Dongle-USB 1200 Mbps...'
 sku: 'B07RJYT4RX-es'
+tags: [ 'wifi', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

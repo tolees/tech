@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9RY3C9-es SUNLU Filamento PLA 1.75mm 5kg Impresora 3D Filamento...'
 sku: 'B07X9RY3C9-es'
+tags: [ 'impresora', ]
 actualPrice: 68.39 EUR
 currency: EUR
 price: 68.39

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LAWLPW-es Logitech K120 Teclado con Cable Business para Windows...'
 sku: 'B004LAWLPW-es'
+tags: [ 'logitech','teclado', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

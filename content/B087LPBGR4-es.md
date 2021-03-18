@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LPBGR4-es Oihxse Silicona Funda con Samsung Galaxy A20S TPU Flexible...'
 sku: 'B087LPBGR4-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

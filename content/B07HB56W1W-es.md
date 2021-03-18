@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB56W1W-es Woxter Stinger RX 1100 H - Auriculares Gaming...'
 sku: 'B07HB56W1W-es'
+tags: [ 'auriculares', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

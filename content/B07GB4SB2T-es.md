@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB4SB2T-es Samsung Galaxy Watch Bluetooth Reloj inteligente con...'
 sku: 'B07GB4SB2T-es'
+tags: [ 'bluetooth','galaxy','gps','samsung', ]
 actualPrice: 201.89 EUR
 currency: EUR
 price: 201.89

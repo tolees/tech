@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS9FUN6-es Samyang F1111106101 - Objetivo fotográfico DSLR para Sony...'
 sku: 'B00TS9FUN6-es'
+tags: [ 'sony', ]
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

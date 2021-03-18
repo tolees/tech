@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XH7D7J-es ZoeeTree S4-black Altavoz Bluetooth Portatiles Inalámbrico...'
 sku: 'B075XH7D7J-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARQWN6U-es Netgear gs324 Switch 24 Puertos gigabit unmanaged ethernet...'
 sku: 'B01ARQWN6U-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

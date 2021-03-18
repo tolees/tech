@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6JPTVG-es 3 en 1 Multi Cable de Carga GIANAC Nylon Multiple USB...'
 sku: 'B07Q6JPTVG-es'
+tags: [ 'galaxy','kindle','sony','xiaomi', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

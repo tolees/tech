@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFH3RJK-es Mini tamaño pequeño gsm 1800/900 Rda8851 teléfono Celular...'
 sku: 'B08BFH3RJK-es'
+tags: [ 'móvil', ]
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

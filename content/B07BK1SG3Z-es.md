@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BK1SG3Z-es PISEN - Batería externa PowerCube 20 000 mAh cargador...'
 sku: 'B07BK1SG3Z-es'
+tags: [ 'móvil', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

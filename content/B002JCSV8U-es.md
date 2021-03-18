@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSV8U-es Nikon AF-S 70-200mm F/2.8 G ED VRII - Objetivo con montura...'
 sku: 'B002JCSV8U-es'
+tags: [ 'nikon', ]
 actualPrice: 1700.72 EUR
 currency: EUR
 price: 1700.72

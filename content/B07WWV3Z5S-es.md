@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWV3Z5S-es ELTD Funda + Protector Pantalla para Samsung Galaxy Tab A...'
 sku: 'B07WWV3Z5S-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

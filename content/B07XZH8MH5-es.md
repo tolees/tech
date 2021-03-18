@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZH8MH5-es Hoover HF522NPW H-Free 500 - Aspiradora Escoba sin Cable...'
 sku: 'B07XZH8MH5-es'
+tags: [ 'wifi', ]
 actualPrice: 175.2 EUR
 currency: EUR
 price: 175.2

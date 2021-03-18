@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S8CECKQ-es Energy Sistem Earphones Urban 2 Black Auriculares In-Ear...'
 sku: 'B00S8CECKQ-es'
+tags: [ 'auriculares', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

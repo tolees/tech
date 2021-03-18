@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGQL379-es BUBOS 14-15.4 Pulgadas Funda para Laptop con asa...'
 sku: 'B07BGQL379-es'
+tags: [ 'asus','dell','lenovo','samsung','sony', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

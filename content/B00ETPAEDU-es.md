@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ETPAEDU-es Logitech G602 Ratón Inalámbrico 2 500 dpi 11 Botones...'
 sku: 'B00ETPAEDU-es'
+tags: [ 'logitech','ratón', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

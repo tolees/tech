@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716NTS4G-es Ringke Funda para Xiaomi Mi 6 [Fusion] Protector de TPU...'
 sku: 'B0716NTS4G-es'
+tags: [ 'xiaomi', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

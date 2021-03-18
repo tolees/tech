@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ELAYLRI-es TRIXES Almohadilla de Gel para teclados y Alfombrilla para...'
 sku: 'B00ELAYLRI-es'
+tags: [ 'ratón', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

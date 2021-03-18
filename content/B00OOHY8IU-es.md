@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OOHY8IU-es CoastaCloud iPad 2 3 4 Funda con Teclado Bluetooth iPad...'
 sku: 'B00OOHY8IU-es'
+tags: [ 'bluetooth','teclado', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

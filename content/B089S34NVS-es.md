@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089S34NVS-es SP-Cow Adaptador Bluetooth 4.2 USB Dongle WiFi Antena...'
 sku: 'B089S34NVS-es'
+tags: [ 'bluetooth','wifi', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

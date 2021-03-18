@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QZXNDT-es Lenovo L27q - Monitor de 27" Pantalla QHD/IPS 2560 x 1440...'
 sku: 'B083QZXNDT-es'
+tags: [ 'lenovo', ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

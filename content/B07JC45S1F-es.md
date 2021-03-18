@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC45S1F-es Pioneer DJ HDJ-X5BT-W Auriculares Bluetooth Blanco'
 sku: 'B07JC45S1F-es'
+tags: [ 'auriculares','bluetooth','pioneer', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6DRP87-es Primewire - 0 25m Cable de Red Cat 8 - Gigabit Ethernet...'
 sku: 'B08D6DRP87-es'
+tags: [ 'gigabit', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

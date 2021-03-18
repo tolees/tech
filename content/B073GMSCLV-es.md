@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GMSCLV-es Lysport Cámara Web De 1080P HD Webcam con Micrófono...'
 sku: 'B073GMSCLV-es'
+tags: [ '1080p', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

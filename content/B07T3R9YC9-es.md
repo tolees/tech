@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3R9YC9-es Jelly Comb Ratón Bluetooth 2.4G + Bluetooth 4.0 Mouse...'
 sku: 'B07T3R9YC9-es'
+tags: [ 'bluetooth','ratón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTN4BM8-es AOC C24G1 - Monitor Gaming Curvo de 24” con Pantalla Full...'
 sku: 'B07DTN4BM8-es'
+tags: [ 'full','hd', ]
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

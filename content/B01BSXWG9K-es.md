@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon...'
 sku: 'B01BSXWG9K-es'
+tags: [ 'canon', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

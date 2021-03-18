@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9Q5GC6-es Auriculares Inalambricos Bluetooth iAmotus Cascos...'
 sku: 'B07Y9Q5GC6-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 23.54 EUR
 currency: EUR
 price: 23.54

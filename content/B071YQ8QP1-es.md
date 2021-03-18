@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YQ8QP1-es Samsung S24H850 24" Wide Quad HD - Monitor para PC 60 5 cm...'
 sku: 'B071YQ8QP1-es'
+tags: [ 'samsung', ]
 actualPrice: 277.92 EUR
 currency: EUR
 price: 277.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GQ6QDH-es FSKE 33W 19V 1.75A Cargador de computadora portátil con...'
 sku: 'B086GQ6QDH-es'
+tags: [ 'asus', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

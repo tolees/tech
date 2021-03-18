@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZXLH33-es Lenovo Ideapad 530S-14IKB Ordenador Portátil Full HD Intel...'
 sku: 'B07PZXLH33-es'
+tags: [ 'full','hd','lenovo','ordenador','ram','teclado', ]
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

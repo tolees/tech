@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KNRVW2L-es ADWITS Cable Adaptador USB A a USB C USB 3.0 Macho a Tipo...'
 sku: 'B07KNRVW2L-es'
+tags: [ 'samsung', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

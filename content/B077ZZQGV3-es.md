@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZZQGV3-es Corsair MM100 - Alfombrilla de ratón para Juego Superficie...'
 sku: 'B077ZZQGV3-es'
+tags: [ 'ratón', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

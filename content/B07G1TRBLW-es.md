@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector...'
 sku: 'B07G1TRBLW-es'
+tags: [ 'iphone', ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

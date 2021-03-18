@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQCJPYS-es ESR Funda para iPad Air 3ª generación 2019/ iPad 2019 con...'
 sku: 'B07NQCJPYS-es'
+tags: [ 'apple', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

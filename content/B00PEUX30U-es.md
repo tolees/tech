@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PEUX30U-es Auriculares plegables JVC HA-S180-W color blanco'
 sku: 'B00PEUX30U-es'
+tags: [ 'auriculares','jvc', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

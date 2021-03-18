@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKW7D3D-es Nikon COOLPIX P1000 - Cámara compacta tipo Bridge 16 MP...'
 sku: 'B07FKW7D3D-es'
+tags: [ 'nikon', ]
 actualPrice: 782.0 EUR
 currency: EUR
 price: 782.0

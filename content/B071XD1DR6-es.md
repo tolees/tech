@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XD1DR6-es Xiaomi Mi Band 2 Fitness Smartband Pulsera de actividad...'
 sku: 'B071XD1DR6-es'
+tags: [ 'smartband','xiaomi', ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

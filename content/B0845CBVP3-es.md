@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0845CBVP3-es Acer A515-54 - Ordenador portátil de 15.6" FullHD Intel...'
 sku: 'B0845CBVP3-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 549.99 EUR
 currency: EUR
 price: 549.99

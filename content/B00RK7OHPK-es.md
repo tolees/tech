@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RK7OHPK-es Sony Action CAM FDR-X1000VR - Videocámara Deportiva Video...'
 sku: 'B00RK7OHPK-es'
+tags: [ 'gps','sony', ]
 actualPrice: 333.3 EUR
 currency: EUR
 price: 333.3

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFDKMT8-es RCB Patinete Eléctrico 8.5 Pulgadas Scooter Plegable...'
 sku: 'B07ZFDKMT8-es'
+tags: [ 'bluetooth', ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

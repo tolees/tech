@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPFK9V4-es Acer Aspire 3 - Ordenador portátil de 15.6" FullHD AMD...'
 sku: 'B07ZPFK9V4-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

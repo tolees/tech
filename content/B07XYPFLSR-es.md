@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYPFLSR-es Olympus OM-D E-M5 Mark III Micro Four Thirds carcasa de la...'
 sku: 'B07XYPFLSR-es'
+tags: [ 'bluetooth', ]
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99

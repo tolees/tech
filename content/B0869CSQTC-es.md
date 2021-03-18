@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales...'
 sku: 'B0869CSQTC-es'
+tags: [ 'móvil', ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

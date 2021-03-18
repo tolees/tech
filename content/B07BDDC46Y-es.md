@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDDC46Y-es N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico...'
 sku: 'B07BDDC46Y-es'
+tags: [ 'wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

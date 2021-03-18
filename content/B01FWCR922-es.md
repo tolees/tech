@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FWCR922-es Corsair K70 LUX - Teclado mecánico Gaming retroiluminación...'
 sku: 'B01FWCR922-es'
+tags: [ 'teclado', ]
 actualPrice: 102.49 EUR
 currency: EUR
 price: 102.49

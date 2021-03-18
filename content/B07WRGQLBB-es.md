@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRGQLBB-es Black Shark 2 8GB+128GB Negro con Pro Kit Black Shark...'
 sku: 'B07WRGQLBB-es'
+tags: [ 'móvil', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

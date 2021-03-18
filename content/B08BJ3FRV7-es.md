@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ3FRV7-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08BJ3FRV7-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

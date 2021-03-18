@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RCPBV7-es NK Body CAM Live Stream - Cámara Personal de Transmisión...'
 sku: 'B084RCPBV7-es'
+tags: [ 'altavoz','wifi', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

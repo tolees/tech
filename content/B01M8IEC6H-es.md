@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8IEC6H-es Razer Gigantus - Alfombrilla de ratón con superficie extra...'
 sku: 'B01M8IEC6H-es'
+tags: [ 'ratón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

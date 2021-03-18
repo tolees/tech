@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYVLN3W-es TOPVISION Proyector Cine en Casa de 5500 Lúmenes 720P...'
 sku: 'B07PYVLN3W-es'
+tags: [ '1080p','full','hd', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

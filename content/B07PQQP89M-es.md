@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQQP89M-es Msi Infinite s 8rb-015xes - Ordenador de sobremesa Intel...'
 sku: 'B07PQQP89M-es'
+tags: [ 'ordenador','ram', ]
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

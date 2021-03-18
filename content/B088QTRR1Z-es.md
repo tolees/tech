@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QTRR1Z-es BTNEEU Cámara Web HD 1080p Webcam con Microfono para PC...'
 sku: 'B088QTRR1Z-es'
+tags: [ '1080p','ordenador', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

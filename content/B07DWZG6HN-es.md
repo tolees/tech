@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWZG6HN-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
 sku: 'B07DWZG6HN-es'
+tags: [ 'altavoz','bluetooth','microsd', ]
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

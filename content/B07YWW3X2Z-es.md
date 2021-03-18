@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWW3X2Z-es Hub USB C Adaptador USB C a USB 5 en 1 4 Puertos USB 3.0 y...'
 sku: 'B07YWW3X2Z-es'
+tags: [ 'huawei','samsung', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

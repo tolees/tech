@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHGCSYS-es Reposamuñecas Ankengs Ordenador Apoyabrazos para...'
 sku: 'B07BHGCSYS-es'
+tags: [ 'ordenador', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

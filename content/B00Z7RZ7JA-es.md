@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7RZ7JA-es Otterbox Alpha Flex Protector de Pantalla Flexible y...'
 sku: 'B00Z7RZ7JA-es'
+tags: [ 'samsung', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

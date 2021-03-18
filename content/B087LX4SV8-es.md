@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LX4SV8-es Oihxse Cristal Compatible con Huawei Mate 10 Lite Funda...'
 sku: 'B087LX4SV8-es'
+tags: [ 'huawei', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

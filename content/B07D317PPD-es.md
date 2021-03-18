@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D317PPD-es Amazfit Pace - Reloj inteligente para correr con GPS'
 sku: 'B07D317PPD-es'
+tags: [ 'gps', ]
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

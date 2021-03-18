@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008BT28VQ-es Samsung CLT-M406S - Tóner para Samsung CLP-360/365/368...'
 sku: 'B008BT28VQ-es'
+tags: [ 'samsung', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

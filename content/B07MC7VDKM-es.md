@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC7VDKM-es Microsoft Surface Laptop 2 - Ordenador portátil ultrafino...'
 sku: 'B07MC7VDKM-es'
+tags: [ 'microsoft','ordenador','ram','teclado', ]
 actualPrice: 788.02 EUR
 currency: EUR
 price: 788.02

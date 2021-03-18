@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCK8XXR-es Aigital [Versión Español] Bluetooth Manos Libres Coche Kit...'
 sku: 'B07ZCK8XXR-es'
+tags: [ 'bluetooth','gps', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

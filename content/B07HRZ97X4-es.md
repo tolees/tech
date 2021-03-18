@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRZ97X4-es Sharp DR-I470 GR Radio Internet Digital Estéreo con...'
 sku: 'B07HRZ97X4-es'
+tags: [ 'bluetooth', ]
 actualPrice: 138.93 EUR
 currency: EUR
 price: 138.93

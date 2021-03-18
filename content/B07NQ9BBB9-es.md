@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ9BBB9-es Samsung Galaxy Watch Active Reloj Inteligente Negro...'
 sku: 'B07NQ9BBB9-es'
+tags: [ 'galaxy','gps','samsung', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

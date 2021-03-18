@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YP8ND52-es VicTsing Altavoz Bluetooth Ducha Impermeable radio FM y...'
 sku: 'B00YP8ND52-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F8BL19E-es AUKEY SK-M13 - Mini-Altavoz inalámbrico portátil con...'
 sku: 'B01F8BL19E-es'
+tags: [ 'bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

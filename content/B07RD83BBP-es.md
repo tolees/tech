@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RD83BBP-es Altavoz de Acoplamiento portátil para Echo Dot 3ª...'
 sku: 'B07RD83BBP-es'
+tags: [ 'altavoz', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

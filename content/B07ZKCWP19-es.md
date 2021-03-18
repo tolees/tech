@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKCWP19-es INPHIC Ratón inalámbrico Recargable Mouse Deslizante Mouse...'
 sku: 'B07ZKCWP19-es'
+tags: [ 'ratón', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

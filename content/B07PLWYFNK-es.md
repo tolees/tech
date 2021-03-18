@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLWYFNK-es 1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable...'
 sku: 'B07PLWYFNK-es'
+tags: [ '1080p', ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

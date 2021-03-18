@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GC7PJP2-es Auriculares Bluetooth Auriculares inalámbricos...'
 sku: 'B08GC7PJP2-es'
+tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

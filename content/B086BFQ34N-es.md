@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BFQ34N-es Oihxse Funda Compatible con Xiaomi Redmi GO/Redmi 5A...'
 sku: 'B086BFQ34N-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

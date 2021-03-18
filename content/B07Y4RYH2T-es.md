@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED...'
 sku: 'B07Y4RYH2T-es'
+tags: [ 'galaxy','huawei','iphone','móvil','nintendo','samsung','switch', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK212QD-es G-Technology G-Drive Mobile USB-C - Disco Duro Portátil 1...'
 sku: 'B07DK212QD-es'
+tags: [ 'disco','duro', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

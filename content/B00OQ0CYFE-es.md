@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OQ0CYFE-es UGREEN Hub USB 3.0 - 4 Puertos Altas Velocidades de...'
 sku: 'B00OQ0CYFE-es'
+tags: [ 'disco','duro', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

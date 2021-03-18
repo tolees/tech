@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZSKS25-es Epson Workforce Pro WF-C5710DWF - Impresora multifunción...'
 sku: 'B078ZSKS25-es'
+tags: [ 'impresora', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

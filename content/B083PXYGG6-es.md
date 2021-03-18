@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PXYGG6-es Adaptador USB C a HDMI VGA KOOPAO 2 en 1 Tipo C...'
 sku: 'B083PXYGG6-es'
+tags: [ '1080p','dell','galaxy','huawei', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

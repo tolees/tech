@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM78CK8-es Verdadero Auricular inalámbrico Bluetooth Auriculares...'
 sku: 'B07VM78CK8-es'
+tags: [ 'auriculares','bluetooth','estéreo', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

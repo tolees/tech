@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q46BTK7-es DURAGADGET Cable De Audio Portátil Medion Erazer X7853 -...'
 sku: 'B07Q46BTK7-es'
+tags: [ 'lenovo', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

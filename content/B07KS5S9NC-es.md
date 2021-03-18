@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS5S9NC-es LoongGate USB 3 0 Cable a Macho a B Macho Angulado 90...'
 sku: 'B07KS5S9NC-es'
+tags: [ 'impresora', ]
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

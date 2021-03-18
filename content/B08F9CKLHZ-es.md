@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9CKLHZ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
 sku: 'B08F9CKLHZ-es'
+tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW5PZPL-es Apple Funda Smart Battery Case para el iPhone 7 - Blanco'
 sku: 'B01LW5PZPL-es'
+tags: [ 'apple','iphone', ]
 actualPrice: 91.77 EUR
 currency: EUR
 price: 91.77

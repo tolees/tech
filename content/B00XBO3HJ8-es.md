@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XBO3HJ8-es Mars Gaming MKHA0 - Teclado gaming para PC respuesta...'
 sku: 'B00XBO3HJ8-es'
+tags: [ 'teclado', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

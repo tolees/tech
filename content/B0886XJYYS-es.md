@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886XJYYS-es Sony WFSP800N - Auriculares True Wireless Cancelación de...'
 sku: 'B0886XJYYS-es'
+tags: [ 'auriculares','bluetooth','sony', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

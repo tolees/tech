@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QMM45Y-es HP Pavilion 15-bc527ns - Ordenador portátil de 15.6"...'
 sku: 'B081QMM45Y-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

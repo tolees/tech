@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08421MCCY-es HP Elite Dragonfly - Ordenador portátil Convertible de...'
 sku: 'B08421MCCY-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2174.99 EUR
 currency: EUR
 price: 2174.99

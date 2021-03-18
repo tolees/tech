@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HCSZVTM-es LK Funda para Samsung Galaxy A51 + [2 Pack] Protector de...'
 sku: 'B08HCSZVTM-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NGC5LB-es StillCool Cámara Web Full HD 1080P con Micrófono USB 2.0...'
 sku: 'B087NGC5LB-es'
+tags: [ '1080p','full','hd', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

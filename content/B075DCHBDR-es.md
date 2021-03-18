@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DCHBDR-es BigBen Sound BTLSUNICORN - Altavoz Wireless Luminoso...'
 sku: 'B075DCHBDR-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

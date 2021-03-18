@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXPBZ9D-es TENMOS K6 Raton Inalambrico Gaming LED Recargable Óptico...'
 sku: 'B07CXPBZ9D-es'
+tags: [ 'ratón', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

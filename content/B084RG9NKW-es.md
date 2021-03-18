@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RG9NKW-es El más Nuevo Estuche de Soporte de Espejo Inteligente...'
 sku: 'B084RG9NKW-es'
+tags: [ 'móvil','smartphone', ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

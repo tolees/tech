@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3K2R5B-es XPLORA 3S - Smartwatch Resistente al Agua para tu hijo SIM...'
 sku: 'B07G3K2R5B-es'
+tags: [ 'gps','smartwatch', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

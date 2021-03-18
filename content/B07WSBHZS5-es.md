@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSBHZS5-es WAVLINK Sistema de malla WiFi para todo el hogar AC1200 de...'
 sku: 'B07WSBHZS5-es'
+tags: [ 'gigabit','wifi', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

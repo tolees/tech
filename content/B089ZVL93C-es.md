@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZVL93C-es GiiYoon-3 Piezas Protector de Pantalla para Xiaomi Redmi...'
 sku: 'B089ZVL93C-es'
+tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

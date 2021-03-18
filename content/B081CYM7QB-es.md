@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CYM7QB-es ORITO Bateria Externa 26800mAh Power Bank USB C PD18W &...'
 sku: 'B081CYM7QB-es'
+tags: [ 'móvil', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

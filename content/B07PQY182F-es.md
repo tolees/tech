@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQY182F-es UGREEN Cable USB C 3A Cable USB Tipo C a USB A 2.0 Nylon...'
 sku: 'B07PQY182F-es'
+tags: [ 'galaxy','samsung','xiaomi', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

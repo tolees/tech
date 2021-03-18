@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N48OJR5-es Brother MFCJ5330DW - Impresora multifunción de tinta...'
 sku: 'B01N48OJR5-es'
+tags: [ 'impresora','wifi', ]
 actualPrice: 150.96 EUR
 currency: EUR
 price: 150.96

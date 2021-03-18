@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00THPJ4R4-es Sigma 24 mm/F 1.4 DG HSM Art - Objetivo para Nikon Color...'
 sku: 'B00THPJ4R4-es'
+tags: [ 'nikon', ]
 actualPrice: 584.3 EUR
 currency: EUR
 price: 584.3

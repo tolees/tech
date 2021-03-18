@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TW4F4GH-es Lenovo S145-15IWL - Ordenador portátil 15.6" HD Intel...'
 sku: 'B07TW4F4GH-es'
+tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

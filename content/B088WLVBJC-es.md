@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WLVBJC-es DUX DUCIS Funda Carcasa para Samsung Galaxy Tab S6 Lite...'
 sku: 'B088WLVBJC-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

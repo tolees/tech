@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNN3DX4-es BONTEC Smart Plug WiFi Outlet Mini Interruptor de conexión...'
 sku: 'B07PNN3DX4-es'
+tags: [ 'wifi', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

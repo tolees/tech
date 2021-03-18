@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2RFFG9-es Haehne 12" LCD Writing Tablet Tableta Gráfica Tablets de...'
 sku: 'B07V2RFFG9-es'
+tags: [ 'tablet', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

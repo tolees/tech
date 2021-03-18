@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDFBLXJ-es Panasonic KX-TU150EXR - Teléfono Móvil Dual SIm Pantalla...'
 sku: 'B07DDFBLXJ-es'
+tags: [ 'móvil','panasonic', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

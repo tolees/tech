@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZHMJW8-es nakw88 Universal Montaje Lateral Magnético Soporte con...'
 sku: 'B086ZHMJW8-es'
+tags: [ 'móvil','ordenador', ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

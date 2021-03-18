@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5JK1LJ-es Logitech G512 SE Teclado Gaming Mecánico Retroiluminado...'
 sku: 'B07W5JK1LJ-es'
+tags: [ 'logitech','teclado', ]
 actualPrice: 85.62 EUR
 currency: EUR
 price: 85.62

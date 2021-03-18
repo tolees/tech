@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCQG8P3-es JE Cargador Inalámbrico Coche Qi 15W Carga Rápida Cargador...'
 sku: 'B07ZCQG8P3-es'
+tags: [ 'galaxy', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

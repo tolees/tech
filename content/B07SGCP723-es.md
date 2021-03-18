@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGCP723-es Lixada Antideslizante Bicicleta Soporte de Teléfono...'
 sku: 'B07SGCP723-es'
+tags: [ 'móvil', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

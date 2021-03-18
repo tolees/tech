@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M63JWYH-es Yutwo Funda Huawei P20 5.8 Estuche Protector de 360 Grados...'
 sku: 'B07M63JWYH-es'
+tags: [ 'huawei', ]
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

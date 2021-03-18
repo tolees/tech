@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCTNZRC-es Edifier R1280DB Altavoces de Estante con Bluetooth -...'
 sku: 'B01NCTNZRC-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

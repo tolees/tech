@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LTT16WC-es Brother DR2300 - Tambor para Impresora Duración Estimada:...'
 sku: 'B00LTT16WC-es'
+tags: [ 'impresora', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

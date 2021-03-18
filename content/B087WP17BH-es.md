@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WP17BH-es ELTD Funda + Película templada [combinación] para Samsung...'
 sku: 'B087WP17BH-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

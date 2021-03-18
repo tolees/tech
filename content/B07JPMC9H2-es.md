@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPMC9H2-es Pioneer Club 5 Altavoz de Bluetooth LED Iluminación Voice...'
 sku: 'B07JPMC9H2-es'
+tags: [ 'altavoz','bluetooth','iphone','pioneer', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

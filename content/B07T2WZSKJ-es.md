@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2WZSKJ-es Camara Vigilancia WiFi Interior Bagotte Cámara IP WiFi...'
 sku: 'B07T2WZSKJ-es'
+tags: [ '1080p','wifi', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

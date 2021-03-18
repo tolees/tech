@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDXBTL1-es SanDisk Cruzer Fit Memoria Flash 50 Negro/Plata'
 sku: 'B07MDXBTL1-es'
+tags: [ 'sandisk', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

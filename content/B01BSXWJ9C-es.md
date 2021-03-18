@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSXWJ9C-es DURAGADGET Funda/Riñonera Rosa Sumergible para Canon...'
 sku: 'B01BSXWJ9C-es'
+tags: [ 'canon', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

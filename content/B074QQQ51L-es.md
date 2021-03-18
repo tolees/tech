@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074QQQ51L-es RHA S500 Universal: Auriculares Intrauditivos Compactos...'
 sku: 'B074QQQ51L-es'
+tags: [ 'auriculares', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

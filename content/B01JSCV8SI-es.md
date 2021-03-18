@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JSCV8SI-es SAMSUNG EE-GN930BW Micro USB USB Tipo C Blanco Adaptador...'
 sku: 'B01JSCV8SI-es'
+tags: [ 'samsung', ]
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

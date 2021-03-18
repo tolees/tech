@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC1CGVD-es Regalos Originales para Hombre y Mujer Sombrero Bluetooth...'
 sku: 'B07WC1CGVD-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

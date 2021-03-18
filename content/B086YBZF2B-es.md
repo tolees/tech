@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YBZF2B-es HP 14s-dq0003ns - Ordenador portátil 14" HD Intel Core...'
 sku: 'B086YBZF2B-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 413.21 EUR
 currency: EUR
 price: 413.21

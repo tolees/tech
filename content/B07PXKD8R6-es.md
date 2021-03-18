@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXKD8R6-es Lileng Ventilador USB Ventilador de Escritorio de Metal...'
 sku: 'B07PXKD8R6-es'
+tags: [ 'ordenador', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

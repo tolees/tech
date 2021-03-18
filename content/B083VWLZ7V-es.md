@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083VWLZ7V-es PULEN [3 Unidades] Protector de Pantalla Compatible con...'
 sku: 'B083VWLZ7V-es'
+tags: [ 'xiaomi', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

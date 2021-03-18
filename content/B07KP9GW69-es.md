@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KP9GW69-es DlandHome Mesa Auxiliar En Forma de U con Ruedas Cesta...'
 sku: 'B07KP9GW69-es'
+tags: [ 'ordenador', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

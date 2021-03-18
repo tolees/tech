@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXSFWHY-es LolaPix Cartera Personalizada con tu Foto/Diseño/Texto....'
 sku: 'B07YXSFWHY-es'
+tags: [ 'smartphone', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

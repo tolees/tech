@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC5J84Y-es Panamami 2.5 a 3.5 Pulgadas Unidad de Disco Duro SSD HDD...'
 sku: 'B07VC5J84Y-es'
+tags: [ 'disco','duro', ]
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

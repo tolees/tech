@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FM16PN-es Videocámara Videocamara 2.7K Full HD 30 MP Cámara de Video...'
 sku: 'B083FM16PN-es'
+tags: [ 'full','hd','ips', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

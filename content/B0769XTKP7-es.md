@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0769XTKP7-es Altavoz Autoamplificado 400W 12" ThunderSound Biwond'
 sku: 'B0769XTKP7-es'
+tags: [ 'altavoz', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

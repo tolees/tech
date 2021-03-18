@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FLZSZ5A-es Funda Protectora Antigolpes Ultra fino para 11" 13" 15" 15...'
 sku: 'B01FLZSZ5A-es'
+tags: [ 'ordenador', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

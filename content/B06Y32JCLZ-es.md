@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y32JCLZ-es Arvok 15 6 Pulgadas Funda Protectora para...'
 sku: 'B06Y32JCLZ-es'
+tags: [ 'ordenador', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

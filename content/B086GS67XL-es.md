@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GS67XL-es Oihxse Transparente Funda para Xiaomi Redmi 6A Ultrafina...'
 sku: 'B086GS67XL-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

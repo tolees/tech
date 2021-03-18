@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078TFLJ4R-es VICTSING Altavoz Bluetooth Portátil Altavoz inalámbrico...'
 sku: 'B078TFLJ4R-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

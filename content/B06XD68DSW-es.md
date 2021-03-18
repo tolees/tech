@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD68DSW-es Antena Omnidireccional Terrestre para Exterior - 4G LTE...'
 sku: 'B06XD68DSW-es'
+tags: [ 'lte', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

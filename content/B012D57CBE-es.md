@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012D57CBE-es NITROPC - PC Gamer VX *Rebajas de marzo 2020* CPU Ryzen 4...'
 sku: 'B012D57CBE-es'
+tags: [ 'ordenador','ram','wifi', ]
 actualPrice: 704.21 EUR
 currency: EUR
 price: 704.21

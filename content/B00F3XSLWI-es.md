@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F3XSLWI-es Netgear JGS516PE-100EUS - Smart Switch gestionable 16...'
 sku: 'B00F3XSLWI-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3CLMW8-es Leathlux Funda Xiaomi Redmi Note 8 Pro + 2 x Protector de...'
 sku: 'B07X3CLMW8-es'
+tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0897F4GZK-es Kloius Mini Rastreador GPS portátil con Dispositivo...'
 sku: 'B0897F4GZK-es'
+tags: [ 'bluetooth','gps', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

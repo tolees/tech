@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW1XGN5-es GPC Image 12 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
 sku: 'B07NW1XGN5-es'
+tags: [ 'canon', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001JIQQM8-es Goobay 51824 - Cable HDMI 1080p 3D 10 m negro'
 sku: 'B001JIQQM8-es'
+tags: [ '1080p', ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

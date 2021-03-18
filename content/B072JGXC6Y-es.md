@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JGXC6Y-es Panasonic Lumix DC-GH5L - Cámara EVIL de 20.3 MP Pantalla...'
 sku: 'B072JGXC6Y-es'
+tags: [ 'bluetooth','panasonic', ]
 actualPrice: 1532.97 EUR
 currency: EUR
 price: 1532.97

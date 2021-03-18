@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYJ9RGN-es Adaptador Cargador Compatible para Portátil ASUS Comp. 65w...'
 sku: 'B07FYJ9RGN-es'
+tags: [ 'asus', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'SanDisk Ultra Tarjeta de Memoria microSD al 19.75 % de descuento'
-date: 2021-03-16 20:44:57
+date: 2021-03-18 14:48:23
 image: 'https://m.media-amazon.com/images/I/51hzuGd7ihL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08GY8NHF2-es SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador...'
 sku: 'B08GY8NHF2-es'
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','sandisk', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99
@@ -27,11 +28,11 @@ Ahora mismo tienes [SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD 
 
 🔎:
 
+- Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
 - Ideal para smartphones y tabletas Android, así como para cámaras compactas
 - Capacidad de almacenamiento de memoria: 256
-- Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento a1
 - Clase 10 para la grabación y reproducción de vídeo de alta definición
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GY8NHF2/?tag=tolees-21)

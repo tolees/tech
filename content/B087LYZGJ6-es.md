@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LYZGJ6-es L3 Tech Estuche rígido para Samsung T7 Touch SSD portátil...'
 sku: 'B087LYZGJ6-es'
+tags: [ 'samsung', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

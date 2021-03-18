@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YD6BFPB-es GPC Image 20 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
 sku: 'B07YD6BFPB-es'
+tags: [ 'canon', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

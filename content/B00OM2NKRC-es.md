@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OM2NKRC-es HOMCOM Silla de Juego Escitorio Silla Giratorio de...'
 sku: 'B00OM2NKRC-es'
+tags: [ 'ordenador', ]
 actualPrice: 89.24 EUR
 currency: EUR
 price: 89.24

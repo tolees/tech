@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OG5SDPY-es DURAGADGET Riñonera Ajustable para Samsung HMX-QF30BP/EDC...'
 sku: 'B00OG5SDPY-es'
+tags: [ 'samsung', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

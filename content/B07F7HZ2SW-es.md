@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7HZ2SW-es Yamaha MusicCast 20 - Altavoz Color Negro'
 sku: 'B07F7HZ2SW-es'
+tags: [ 'altavoz', ]
 actualPrice: 183.2 EUR
 currency: EUR
 price: 183.2

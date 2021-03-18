@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0842Y7XLH-es Urban Armor Gear Maleta Universal para Apple MacBook Pro...'
 sku: 'B0842Y7XLH-es'
+tags: [ 'apple','microsoft', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

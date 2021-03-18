@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PHO8SI-es HP C9380A - Cabezal de Impresora Gris y Negro fotográfico'
 sku: 'B000PHO8SI-es'
+tags: [ 'impresora', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

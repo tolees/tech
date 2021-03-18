@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751LG7KQ-es Canon CLI-581XL C Cartucho de tinta original Cian XL para...'
 sku: 'B0751LG7KQ-es'
+tags: [ 'canon','impresora', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

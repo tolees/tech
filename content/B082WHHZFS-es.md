@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WHHZFS-es SteelSeries Apex 5 - Teclado mecánico híbrido para Gaming...'
 sku: 'B082WHHZFS-es'
+tags: [ 'teclado', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

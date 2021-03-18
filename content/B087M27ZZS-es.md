@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M27ZZS-es Oihxse Silicona Funda con Xiaomi Mi 8 TPU Flexible Suave...'
 sku: 'B087M27ZZS-es'
+tags: [ 'xiaomi', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

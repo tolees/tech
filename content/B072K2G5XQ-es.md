@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K2G5XQ-es Philips SHQ1255TBK Auriculares para Deporte con Cable...'
 sku: 'B072K2G5XQ-es'
+tags: [ 'auriculares', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

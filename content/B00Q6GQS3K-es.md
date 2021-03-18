@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q6GQS3K-es KEEP OUT KEP-F80S - Teclado Gaming retroiluminado Color Negro'
 sku: 'B00Q6GQS3K-es'
+tags: [ 'teclado', ]
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

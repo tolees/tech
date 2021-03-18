@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EY6AU6K-es Olympus OM-D E-M1 - Cámara Evil de 16 MP Pantalla de 3"...'
 sku: 'B00EY6AU6K-es'
+tags: [ 'wifi', ]
 actualPrice: 736.35 EUR
 currency: EUR
 price: 736.35

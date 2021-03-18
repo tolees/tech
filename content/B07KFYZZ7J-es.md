@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYZZ7J-es PUMA Vista Lux Zapatillas Unisex Adulto Galaxy Blue-High...'
 sku: 'B07KFYZZ7J-es'
+tags: [ 'galaxy', ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

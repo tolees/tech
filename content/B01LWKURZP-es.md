@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWKURZP-es Raking soporte tablet soporte de trípode para tableta...'
 sku: 'B01LWKURZP-es'
+tags: [ 'tablet', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

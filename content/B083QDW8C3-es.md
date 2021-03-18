@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QDW8C3-es Winnes Reloj Inteligente Niño Reloj Smartwatch Niños Niña...'
 sku: 'B083QDW8C3-es'
+tags: [ 'gps','smartwatch', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

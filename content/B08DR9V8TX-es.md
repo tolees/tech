@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR9V8TX-es Tarjeta de captura de video USB 2.0 HDMI Video HD 1080P...'
 sku: 'B08DR9V8TX-es'
+tags: [ '1080p', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQ21XLK-es HP LaserJet M203dn - Impresora láser PCL 5c PCL 6 PDF 1.5...'
 sku: 'B01LQ21XLK-es'
+tags: [ 'impresora', ]
 actualPrice: 149.53 EUR
 currency: EUR
 price: 149.53

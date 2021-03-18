@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY1GMN9-es Belkin - Cable de Audio de 3 5 mm con Conector Lightning...'
 sku: 'B07CY1GMN9-es'
+tags: [ 'iphone', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

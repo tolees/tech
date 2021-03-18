@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C81ND1Z-es Altavoz Portátil Bluetooth Muzili Altavoz Bluetooth...'
 sku: 'B07C81ND1Z-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

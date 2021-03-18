@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWW82YQ-es L&WB Una Pantalla inalámbrica Adaptador WiFi dongle 1080P...'
 sku: 'B07KWW82YQ-es'
+tags: [ '1080p','wifi', ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

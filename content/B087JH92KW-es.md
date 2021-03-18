@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JH92KW-es JOOWIN Adaptador WiFi USB AC 650Mbps Dual Banda...'
 sku: 'B087JH92KW-es'
+tags: [ 'wifi', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

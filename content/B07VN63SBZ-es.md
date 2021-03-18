@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN63SBZ-es OFICINAS MONTIEL Mesa Escritorio Oficina Blanca de Madera...'
 sku: 'B07VN63SBZ-es'
+tags: [ 'ordenador', ]
 actualPrice: 230.0 EUR
 currency: EUR
 price: 230.0

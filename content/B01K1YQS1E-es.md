@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K1YQS1E-es Andoer Flashes con zapata Flash Speedlite para Cámara...'
 sku: 'B01K1YQS1E-es'
+tags: [ 'canon','nikon','pentax', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

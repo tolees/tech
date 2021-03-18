@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFET6TE-es Fisher Price Móvil musical 3 en 1 juguete y proyector de...'
 sku: 'B00NFET6TE-es'
+tags: [ 'móvil', ]
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

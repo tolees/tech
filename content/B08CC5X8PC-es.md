@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CC5X8PC-es Compatible para Samsung Galaxy Note 10 Lite Silicone Case...'
 sku: 'B08CC5X8PC-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

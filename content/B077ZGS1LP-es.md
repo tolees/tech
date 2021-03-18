@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZGS1LP-es Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10...'
 sku: 'B077ZGS1LP-es'
+tags: [ 'gigabit','netgear', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

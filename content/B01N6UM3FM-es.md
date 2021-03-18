@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6UM3FM-es Fellowes Foam Fusion Plus Touch - Alfombrilla con...'
 sku: 'B01N6UM3FM-es'
+tags: [ 'ratón', ]
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FRD3SE-es Crucial CT2K4G4SFS624A Kit de Memoria RAM de 8 GB 4 GB x 2...'
 sku: 'B019FRD3SE-es'
+tags: [ 'ram', ]
 actualPrice: 33.87 EUR
 currency: EUR
 price: 33.87

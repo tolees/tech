@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085QMWP6F-es NGS Roller Coaster Blue - Altavoz portátil de 10W...'
 sku: 'B085QMWP6F-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

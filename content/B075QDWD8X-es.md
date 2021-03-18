@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QDWD8X-es Jelly Comb Ratón Inalámbrico de 2 4 GHz con Receptor Nano...'
 sku: 'B075QDWD8X-es'
+tags: [ 'ordenador','ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

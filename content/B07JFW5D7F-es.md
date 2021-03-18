@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFW5D7F-es Pihen USB C3.0 a Cable Micro-B Cable de sincronización...'
 sku: 'B07JFW5D7F-es'
+tags: [ 'disco','duro','samsung','toshiba', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

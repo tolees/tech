@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P2QPT9Y-es Energy Sistem Music Box BZ6 - Altavoz con Bluetooth y...'
 sku: 'B00P2QPT9Y-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

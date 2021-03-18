@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2BCY7Z-es Biomar Labs® 4 pcs 3D Gel Pegatinas Bandera Nacional...'
 sku: 'B07T2BCY7Z-es'
+tags: [ 'ordenador', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

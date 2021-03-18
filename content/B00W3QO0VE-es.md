@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W3QO0VE-es Nokia Lumia 640 XL - Smartphone 5.7" 3G Qualcomm MSM8926...'
 sku: 'B00W3QO0VE-es'
+tags: [ 'ram','smartphone', ]
 actualPrice: 132.43 EUR
 currency: EUR
 price: 132.43

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012H8IRLQ-es Garmin HRM-Swim - Pulsometro deportivo color Azul'
 sku: 'B012H8IRLQ-es'
+tags: [ 'garmin', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

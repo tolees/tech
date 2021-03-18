@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4RB5CG-es Panasonic SCUX100EK Home Audio Mini System Microcadena...'
 sku: 'B01N4RB5CG-es'
+tags: [ 'bluetooth','panasonic', ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

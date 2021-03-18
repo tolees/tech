@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779FFCXC-es ASUS 4G-AC68U - Router inalámbrico Gigabit AC1900 4G LTE...'
 sku: 'B0779FFCXC-es'
+tags: [ 'asus','gigabit','lte','wifi', ]
 actualPrice: 246.0 EUR
 currency: EUR
 price: 246.0

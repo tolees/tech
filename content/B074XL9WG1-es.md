@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074XL9WG1-es Microsoft Surface ARC Mouse Bluetooth Gris Claro'
 sku: 'B074XL9WG1-es'
+tags: [ 'bluetooth','microsoft', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

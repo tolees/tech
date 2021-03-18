@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E7WR92S-es NGSIN Blue - Ratón Portátil con Cable Retráctil ratón...'
 sku: 'B01E7WR92S-es'
+tags: [ 'ratón', ]
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

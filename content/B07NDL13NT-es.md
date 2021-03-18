@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL13NT-es HUAWEI 55030361 - Impresora portatil'
 sku: 'B07NDL13NT-es'
+tags: [ 'huawei','impresora', ]
 actualPrice: 96.01 EUR
 currency: EUR
 price: 96.01

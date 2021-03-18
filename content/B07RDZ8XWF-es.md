@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDZ8XWF-es ASUS ROG Strix G531GT-BQ020 - Ordenador portátil de 15.6"...'
 sku: 'B07RDZ8XWF-es'
+tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 899.01 EUR
 currency: EUR
 price: 899.01

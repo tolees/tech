@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GQJFX9-es Canon BG-E21 - Empuñadura para Canon EOS 6D Mark II Color...'
 sku: 'B073GQJFX9-es'
+tags: [ 'canon', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

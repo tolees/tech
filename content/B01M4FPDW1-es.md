@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4FPDW1-es JARBO MLT-D101S Cartuchos de tóner Compatible para Samsung...'
 sku: 'B01M4FPDW1-es'
+tags: [ 'samsung', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

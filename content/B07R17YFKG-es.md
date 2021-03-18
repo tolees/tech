@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R17YFKG-es Disco Duro Externo Portátil DE 2 5" 160 GB USB 3.0 SATA...'
 sku: 'B07R17YFKG-es'
+tags: [ 'disco','duro', ]
 actualPrice: 38.54 EUR
 currency: EUR
 price: 38.54

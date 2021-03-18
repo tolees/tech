@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4QPC6R-es HP 300 - Teclado y ratón inalámbricos color negro'
 sku: 'B07K4QPC6R-es'
+tags: [ 'ratón','teclado', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

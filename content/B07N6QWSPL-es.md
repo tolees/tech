@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6QWSPL-es MSI Clutch GM50 - Ratón para Gaming Sensor óptico PMW-3330...'
 sku: 'B07N6QWSPL-es'
+tags: [ 'ratón', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

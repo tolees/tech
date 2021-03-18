@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLP9N8N-es ANEWSIR [2 Pack Protector de Pantalla para Huawei P30 Lite...'
 sku: 'B07PLP9N8N-es'
+tags: [ 'huawei', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

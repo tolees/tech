@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVX6P5N-es TOOBUR Pulsera de Actividad Inteligente IP68 Impermeable...'
 sku: 'B07WVX6P5N-es'
+tags: [ 'smartwatch', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

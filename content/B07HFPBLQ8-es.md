@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFPBLQ8-es Trust GXT 4376 - Ruptor Auriculares Gaming con Unidades...'
 sku: 'B07HFPBLQ8-es'
+tags: [ 'auriculares', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

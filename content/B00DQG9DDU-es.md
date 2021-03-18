@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DQG9DDU-es SanDisk Memoria Flash Ultra USB 3.0 de 16 GB hasta 130...'
 sku: 'B00DQG9DDU-es'
+tags: [ 'sandisk', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

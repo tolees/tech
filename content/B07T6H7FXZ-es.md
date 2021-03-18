@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6H7FXZ-es Linksys EA7300 Router WiFi de Doble Banda MU-MIMO AC1750...'
 sku: 'B07T6H7FXZ-es'
+tags: [ 'gigabit','wifi', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CHHNRY-es JYHEHOT Alfombrillas de ratón reposamuñecas para teclado y...'
 sku: 'B081CHHNRY-es'
+tags: [ 'ratón','teclado', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

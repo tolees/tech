@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXXBTST-es Samsung EVO Select - Tarjeta de Memoria microSDXC de 32 GB...'
 sku: 'B07CXXBTST-es'
+tags: [ 'samsung', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

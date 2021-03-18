@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4J7KH6-es CooSpo Zwift Ant - Adaptador de Receptor USB para Garmin...'
 sku: 'B07D4J7KH6-es'
+tags: [ 'garmin', ]
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

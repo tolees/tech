@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZG57HWQ-es HP - Monitor Pc 80 01 Cm 31 5 Hp 32F Full HD'
 sku: 'B07ZG57HWQ-es'
+tags: [ 'full','hd', ]
 actualPrice: 194.65 EUR
 currency: EUR
 price: 194.65

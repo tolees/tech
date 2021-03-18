@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR8NBQB-es Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo...'
 sku: 'B07CR8NBQB-es'
+tags: [ 'garmin','gps','smartwatch', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

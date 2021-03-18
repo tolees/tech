@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018XNGO5A-es Aftershokz Trekz Titanium Auriculares deportivas con...'
 sku: 'B018XNGO5A-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 58.39 EUR
 currency: EUR
 price: 58.39

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZOQDE7G-es Verbatim Disco Duro Portátil Store n Go USB 3.0 de 500 GB*...'
 sku: 'B00ZOQDE7G-es'
+tags: [ 'disco','duro', ]
 actualPrice: 52.84 EUR
 currency: EUR
 price: 52.84

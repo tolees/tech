@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJTL5XJ-es Corsair K70 MK.2 RGB Low Profile Teclado mecánico para...'
 sku: 'B07PJTL5XJ-es'
+tags: [ 'teclado', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

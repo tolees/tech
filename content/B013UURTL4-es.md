@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013UURTL4-es Huawei Unlocked E3372h-320 LTE / 4G 150 Mbps USB Dongle de...'
 sku: 'B013UURTL4-es'
+tags: [ 'huawei','lte','móvil', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

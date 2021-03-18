@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZLNF3W-es Motorola Moto E4 - Smartphone Libre de 5" HD 2.800 mAh de...'
 sku: 'B071ZLNF3W-es'
+tags: [ 'motorola','ram','smartphone', ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCJJZ7Y-es SADES SA902 USB Virtual 7.1 envolvente sonido Gaming...'
 sku: 'B06XCJJZ7Y-es'
+tags: [ 'auriculares', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

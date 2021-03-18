@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081XC7NYJ-es GOODTEL Ordenador Portátil de 14 Pulgadas hasta 2.0GHz 4G...'
 sku: 'B081XC7NYJ-es'
+tags: [ '1080p','ips','ordenador','ram','wifi', ]
 actualPrice: 201.44 EUR
 currency: EUR
 price: 201.44

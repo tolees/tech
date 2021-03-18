@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8RF1MM-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note...'
 sku: 'B07F8RF1MM-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

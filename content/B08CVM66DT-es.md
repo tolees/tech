@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVM66DT-es Altavoz inalámbrico portátil A10 Caja de Sonido estéreo...'
 sku: 'B08CVM66DT-es'
+tags: [ 'altavoz', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

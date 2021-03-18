@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y6BW86Z-es Fujifilm Instax Mini 9 - Cámara instantánea Solo cámara Verde'
 sku: 'B06Y6BW86Z-es'
+tags: [ 'fujifilm', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

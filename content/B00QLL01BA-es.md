@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QLL01BA-es ASUS VX24AH - Monitor de 23.8" 2560 x 1440 píxeles 300...'
 sku: 'B00QLL01BA-es'
+tags: [ 'asus', ]
 actualPrice: 279.04 EUR
 currency: EUR
 price: 279.04

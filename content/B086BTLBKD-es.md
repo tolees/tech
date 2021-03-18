@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BTLBKD-es Oihxse Funda Compatible con Samsung Galaxy C9 Pro Carcasa...'
 sku: 'B086BTLBKD-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

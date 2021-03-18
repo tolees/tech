@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRX5M3D-es MSI Alpha 15 A3DDK-001XES - Ordenador Portátil Gaming de...'
 sku: 'B07ZRX5M3D-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 929.0 EUR
 currency: EUR
 price: 929.0

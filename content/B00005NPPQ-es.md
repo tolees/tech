@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005NPPQ-es Fujifilm Instax Wide - Película fotográfica instantánea de...'
 sku: 'B00005NPPQ-es'
+tags: [ 'fujifilm', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQGSR9F-es MSI GF65 Thin 9SD-038XES - Ordenador portátil de 15.6"...'
 sku: 'B07YQGSR9F-es'
+tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1073.55 EUR
 currency: EUR
 price: 1073.55

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNSCNWK-es Mars Gaming MH318 - Auriculares gaming surround 7.1...'
 sku: 'B07DNSCNWK-es'
+tags: [ 'auriculares', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

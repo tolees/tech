@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L7QUBM8-es Panasonic KX-TGB212SPB - Teléfono fijo digital DECT Dúo...'
 sku: 'B00L7QUBM8-es'
+tags: [ 'dect','panasonic', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

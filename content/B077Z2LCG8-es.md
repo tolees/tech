@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z2LCG8-es 2X Cable USB C UGREEN Cable USB Tipo C a USB A 2.0 Nylon...'
 sku: 'B077Z2LCG8-es'
+tags: [ 'móvil','samsung','xiaomi', ]
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

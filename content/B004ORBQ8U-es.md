@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ORBQ8U-es OKI 403922 - Impresora matricial USB 240 x 216 dpi Color...'
 sku: 'B004ORBQ8U-es'
+tags: [ 'impresora', ]
 actualPrice: 574.02 EUR
 currency: EUR
 price: 574.02

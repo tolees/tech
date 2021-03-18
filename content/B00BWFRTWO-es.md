@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BWFRTWO-es Sony CMT-SBT100 - Microcadena Hi-Fi de 50W estéreo CD...'
 sku: 'B00BWFRTWO-es'
+tags: [ 'bluetooth','sony', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

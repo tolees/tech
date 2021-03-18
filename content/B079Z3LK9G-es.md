@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z3LK9G-es Logitech MX900 - Teclado Estándar Inalámbrico Bluetooth...'
 sku: 'B079Z3LK9G-es'
+tags: [ 'bluetooth','logitech','ratón','teclado', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

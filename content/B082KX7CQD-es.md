@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KX7CQD-es Abeyete Ratón óptico Forma Vertical Diseño Ergonómico...'
 sku: 'B082KX7CQD-es'
+tags: [ 'ratón', ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

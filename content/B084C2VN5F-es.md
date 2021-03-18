@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084C2VN5F-es DYNASONIC - Dynapro8 TWS - Altavoz Inalámbrico Sistema...'
 sku: 'B084C2VN5F-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

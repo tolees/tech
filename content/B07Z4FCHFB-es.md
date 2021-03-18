@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4FCHFB-es KATUMO Funda para iPad 10.2 2019 / iPad 7th Generation...'
 sku: 'B07Z4FCHFB-es'
+tags: [ 'apple', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

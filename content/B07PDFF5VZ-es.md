@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDFF5VZ-es PRIXTON - Reloj Inteligente Hombre/Mujer-Reloj Smartwatch...'
 sku: 'B07PDFF5VZ-es'
+tags: [ 'gps','smartwatch', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

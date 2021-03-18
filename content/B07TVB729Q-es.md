@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVB729Q-es Funda con Teclado Español Ñ para Samsung Galaxy Tab A 10.1...'
 sku: 'B07TVB729Q-es'
+tags: [ 'bluetooth','galaxy','samsung','teclado', ]
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

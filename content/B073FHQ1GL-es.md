@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FHQ1GL-es HP Officejet Pro 7730 – Impresora multifunción de formato...'
 sku: 'B073FHQ1GL-es'
+tags: [ 'impresora', ]
 actualPrice: 173.0 EUR
 currency: EUR
 price: 173.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0037NX6JY-es Canon RC-6 - Mando a Distancia para cámaras Digitales...'
 sku: 'B0037NX6JY-es'
+tags: [ 'canon', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAYUP7W-es Tenda Ph3 Adaptador de Red Gigabit Powerline 1000Mbps...'
 sku: 'B01NAYUP7W-es'
+tags: [ 'gigabit', ]
 actualPrice: 35.12 EUR
 currency: EUR
 price: 35.12

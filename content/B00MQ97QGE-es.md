@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MQ97QGE-es Sabrent Caja Ultra Slim USB 3.0 a 2.5 Pulgadas SATA Disco...'
 sku: 'B00MQ97QGE-es'
+tags: [ 'disco','duro', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

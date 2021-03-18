@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082M2RXZK-es Aigital Transmisor Receptor Bluetooth 5.0 2 en 1 Adaptador...'
 sku: 'B082M2RXZK-es'
+tags: [ 'altavoz','bluetooth','tablet', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

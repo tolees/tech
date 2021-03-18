@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N10KEPP-es Cable HDMI Premium 1.4V 3D Alta Velocidad Ultra HD...'
 sku: 'B01N10KEPP-es'
+tags: [ '1080p','full','hd', ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

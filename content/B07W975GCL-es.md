@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W975GCL-es Marchpower Cable iPhone 3Pack 2M Cable Lightning-[Apple...'
 sku: 'B07W975GCL-es'
+tags: [ 'iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

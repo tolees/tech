@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCJH92M-es Ringke Fusion-X Compatible con Funda Huawei Mate 20 Pro...'
 sku: 'B07KCJH92M-es'
+tags: [ 'huawei', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

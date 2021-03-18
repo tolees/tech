@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009TZC0Y6-es D-Link GO-SW-8G - Switch 8 Puertos Gigabit Ethernet LAN...'
 sku: 'B009TZC0Y6-es'
+tags: [ 'gigabit', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FYG4NZY-es Wanme Correas Compatible con Xiaomi Mi Band 5 Pulsera...'
 sku: 'B08FYG4NZY-es'
+tags: [ 'xiaomi', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

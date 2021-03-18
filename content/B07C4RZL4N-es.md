@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C4RZL4N-es Adaptador Cargador Nuevo Compatible para Portátil Toshiba...'
 sku: 'B07C4RZL4N-es'
+tags: [ 'toshiba', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

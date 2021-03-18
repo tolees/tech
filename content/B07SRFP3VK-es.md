@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRFP3VK-es Amore Funda Carcasa para Huawei Mediapad M6 10.8 2019 con...'
 sku: 'B07SRFP3VK-es'
+tags: [ 'huawei', ]
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZR3W2Q-es KERUN Funda para Samsung Galaxy A21S Carcasa [Ranuras para...'
 sku: 'B08BZR3W2Q-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

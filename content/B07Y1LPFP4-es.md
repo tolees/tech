@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1LPFP4-es Ztotops Funda for Samsung Galaxy Tab S6 10.5 2019...'
 sku: 'B07Y1LPFP4-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

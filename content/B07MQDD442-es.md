@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQDD442-es LaCie Mobile Drive 2 TB Disco duro externo HDD portátil...'
 sku: 'B07MQDD442-es'
+tags: [ 'disco','duro','ordenador', ]
 actualPrice: 80.48 EUR
 currency: EUR
 price: 80.48

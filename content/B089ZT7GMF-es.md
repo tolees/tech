@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZT7GMF-es Altavoz Bluetooth portátil con Luz de 5 Modos Recargable...'
 sku: 'B089ZT7GMF-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

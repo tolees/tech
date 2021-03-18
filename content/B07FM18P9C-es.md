@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM18P9C-es Tumdem Mesa para Ordenador Plegable Soporte para Laptop...'
 sku: 'B07FM18P9C-es'
+tags: [ 'ordenador', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

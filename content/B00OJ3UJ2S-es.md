@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a...'
 sku: 'B00OJ3UJ2S-es'
+tags: [ 'disco','duro', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

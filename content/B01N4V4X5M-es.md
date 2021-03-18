@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en Anker SoundCore Boost Altavoz Bluetooth '
-date: 2021-03-15 12:38:08
+date: 2021-03-18 14:40:59
 image: 'https://m.media-amazon.com/images/I/417ZT+WpqiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4V4X5M-es Anker SoundCore Boost Altavoz Bluetooth portátil 20W con...'
 sku: 'B01N4V4X5M-es'
+tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','anker','bluetooth','iphone','samsung', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

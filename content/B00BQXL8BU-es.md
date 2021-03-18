@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQXL8BU-es Sigma 30 mm/F 1 4 DC/HSM - Objetivo para Canon Distancia...'
 sku: 'B00BQXL8BU-es'
+tags: [ 'canon', ]
 actualPrice: 428.09 EUR
 currency: EUR
 price: 428.09

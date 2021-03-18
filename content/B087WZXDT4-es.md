@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WZXDT4-es Cocoda Soporte Portatil 8 Niveles Adjustable Ventilado...'
 sku: 'B087WZXDT4-es'
+tags: [ 'lenovo','ordenador', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

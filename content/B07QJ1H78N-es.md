@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ1H78N-es Gigaset AS690 Duo - Teléfono Inalámbrico Pack de 2...'
 sku: 'B07QJ1H78N-es'
+tags: [ 'gigaset', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

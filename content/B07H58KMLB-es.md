@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H58KMLB-es Garmin Instinct - Reloj con GPS Unisex Rojo 1'
 sku: 'B07H58KMLB-es'
+tags: [ 'garmin','gps', ]
 actualPrice: 235.98 EUR
 currency: EUR
 price: 235.98

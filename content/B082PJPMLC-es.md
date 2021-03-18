@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PJPMLC-es HP Sprocket Studio - Impresora 300 PPP Bluetooth 5.0...'
 sku: 'B082PJPMLC-es'
+tags: [ 'bluetooth','impresora', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

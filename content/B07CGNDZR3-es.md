@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGNDZR3-es Logitech G305 Ratón Gaming Inalámbrico 12000 DPI Mano...'
 sku: 'B07CGNDZR3-es'
+tags: [ 'logitech','ratón', ]
 actualPrice: 47.64 EUR
 currency: EUR
 price: 47.64

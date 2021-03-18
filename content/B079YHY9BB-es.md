@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje...'
 sku: 'B079YHY9BB-es'
+tags: [ 'sony', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFGLGS7-es Beats Auriculares Negro'
 sku: 'B07HFGLGS7-es'
+tags: [ 'auriculares', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

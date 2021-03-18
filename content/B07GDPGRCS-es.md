@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDPGRCS-es Cargador de Coche batería Adaptador 19.5V 4.62A 90W DELL...'
 sku: 'B07GDPGRCS-es'
+tags: [ 'dell', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117RFPAE-es Bose® SoundSport ® - Auriculares in-ear para Apple color...'
 sku: 'B0117RFPAE-es'
+tags: [ 'apple','auriculares', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

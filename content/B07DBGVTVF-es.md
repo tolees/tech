@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBGVTVF-es Lenovo Ideapad 320-15AST - Ordenador Portátil 15.6" HD AMD...'
 sku: 'B07DBGVTVF-es'
+tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

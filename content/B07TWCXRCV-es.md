@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWCXRCV-es Fertuo Funda para Xiaomi Redmi 7A Carcasa Libro con Tapa...'
 sku: 'B07TWCXRCV-es'
+tags: [ 'xiaomi', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

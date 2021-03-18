@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNFKKHP-es HyperX Predator - Memoria RAM de 16 GB DDR4 3333 MHz CL16...'
 sku: 'B07GNFKKHP-es'
+tags: [ 'ram', ]
 actualPrice: 88.15 EUR
 currency: EUR
 price: 88.15

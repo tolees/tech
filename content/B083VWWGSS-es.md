@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083VWWGSS-es Hanbee 15 Piezas Correas para Xiaomi Mi Band 5 4 Piezas...'
 sku: 'B083VWWGSS-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

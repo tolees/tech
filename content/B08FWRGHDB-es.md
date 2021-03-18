@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FWRGHDB-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos 156H...'
 sku: 'B08FWRGHDB-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

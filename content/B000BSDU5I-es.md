@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BSDU5I-es Suunto MC-2 G Mirror Compass Brújula Profesional Unisex...'
 sku: 'B000BSDU5I-es'
+tags: [ 'suunto', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CW6CJN-es Astro Gaming A20 - Auriculares Gaming Inalámbricos Astro...'
 sku: 'B076CW6CJN-es'
+tags: [ 'auriculares', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

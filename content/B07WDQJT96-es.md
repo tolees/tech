@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDQJT96-es Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED 4 GB...'
 sku: 'B07WDQJT96-es'
+tags: [ 'galaxy','ram','samsung','smartphone', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

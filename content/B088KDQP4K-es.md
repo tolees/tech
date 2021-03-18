@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KDQP4K-es LK Protector de Pantalla para Xiaomi Note 10 Lite...'
 sku: 'B088KDQP4K-es'
+tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

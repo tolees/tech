@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N63JDXY-es AP35 Mini PC Desktop License Windows 10 Multimedia Office...'
 sku: 'B07N63JDXY-es'
+tags: [ 'ram','wifi', ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

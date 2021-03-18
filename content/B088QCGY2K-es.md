@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QCGY2K-es IMBZBK Funda para Xiaomi Redmi Note 9 + [2 Pack] Protector...'
 sku: 'B088QCGY2K-es'
+tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

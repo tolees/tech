@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PGPHWZ-es Seagate Barracuda Fast SSD de 1 TB Disco duro externo...'
 sku: 'B082PGPHWZ-es'
+tags: [ 'disco','duro','ordenador', ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

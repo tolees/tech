@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PTLSH9G-es Anker Cargador USB Charging Hub 60W 6 Puertos USB...'
 sku: 'B00PTLSH9G-es'
+tags: [ 'galaxy','iphone','xiaomi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

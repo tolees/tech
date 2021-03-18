@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KXXGM5-es Aire Acondicionado Portatil Aire Acondicionado Móvil con...'
 sku: 'B085KXXGM5-es'
+tags: [ 'móvil', ]
 actualPrice: 219.89 EUR
 currency: EUR
 price: 219.89

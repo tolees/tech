@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005JSC3H6-es Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para...'
 sku: 'B005JSC3H6-es'
+tags: [ 'panasonic', ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

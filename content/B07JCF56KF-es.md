@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCF56KF-es HUAWEI Nano Memory Tarjeta de Memoria 128 g para...'
 sku: 'B07JCF56KF-es'
+tags: [ 'huawei', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

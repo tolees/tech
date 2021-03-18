@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB6B53X-es FSKE® 45W 20V 2.25A Cargador del Ordenador portátil para...'
 sku: 'B07GB6B53X-es'
+tags: [ 'lenovo','ordenador', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

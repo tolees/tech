@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YH3FC6-es CADA 1080P Full HD Autofocus Webcam CA601 USB cámara con...'
 sku: 'B081YH3FC6-es'
+tags: [ '1080p','full','hd', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CUKZNP4-es Amazon - Funda protectora para Kindle color blanco y gris...'
 sku: 'B01CUKZNP4-es'
+tags: [ 'kindle', ]
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

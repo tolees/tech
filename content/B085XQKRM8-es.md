@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XQKRM8-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085XQKRM8-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

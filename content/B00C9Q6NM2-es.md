@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C9Q6NM2-es SanDisk SDCZ71-032G-B35 Memoria USB 2.0 de 32 GB Plateado'
 sku: 'B00C9Q6NM2-es'
+tags: [ 'sandisk', ]
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

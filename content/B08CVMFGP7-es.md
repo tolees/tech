@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVMFGP7-es Reloj Deportivo Inteligente Edición para jóvenes...'
 sku: 'B08CVMFGP7-es'
+tags: [ 'gps', ]
 actualPrice: 74.62 EUR
 currency: EUR
 price: 74.62

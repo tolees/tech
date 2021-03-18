@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYZ9PKY-es Beats Solo Pro con cancelación de ruido - Auriculares...'
 sku: 'B07YYZ9PKY-es'
+tags: [ 'apple','auriculares','bluetooth', ]
 actualPrice: 228.0 EUR
 currency: EUR
 price: 228.0

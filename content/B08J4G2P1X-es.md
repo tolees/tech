@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J4G2P1X-es Molyflower Mini ratón óptico inalámbrico para Juegos de...'
 sku: 'B08J4G2P1X-es'
+tags: [ 'ratón', ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZZ7NGN-es Symphonized DRV Bluetooth Auriculares de tapón...'
 sku: 'B07GZZ7NGN-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

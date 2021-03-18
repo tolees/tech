@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KKBHBM-es Samsung M471A5244CB0-CRC - Memoria DRAM de 4 GB 1.2 V ddr4...'
 sku: 'B076KKBHBM-es'
+tags: [ 'samsung', ]
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

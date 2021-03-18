@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8V7PW2-es Samsung Led View - Funda para Galaxy Note 9 color negro-...'
 sku: 'B07F8V7PW2-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 50.47 EUR
 currency: EUR
 price: 50.47

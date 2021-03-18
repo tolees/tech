@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KHQRN6-es FAGORY Webcam HD 1080p Webcam Digital portátil con...'
 sku: 'B088KHQRN6-es'
+tags: [ '1080p', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

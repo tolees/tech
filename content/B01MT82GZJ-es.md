@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT82GZJ-es Sony ICD-PX370 Grabadora De Voz Digital USB Si estándar Negro'
 sku: 'B01MT82GZJ-es'
+tags: [ 'sony', ]
 actualPrice: 46.47 EUR
 currency: EUR
 price: 46.47

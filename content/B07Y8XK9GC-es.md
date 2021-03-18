@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8XK9GC-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
 sku: 'B07Y8XK9GC-es'
+tags: [ 'ram','smartphone','xiaomi', ]
 actualPrice: 188.99 EUR
 currency: EUR
 price: 188.99

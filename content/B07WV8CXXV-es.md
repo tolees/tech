@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WV8CXXV-es SAMSUNG Galaxy Watch Active 2 SM-R830NSSAPHE - Smartwatch...'
 sku: 'B07WV8CXXV-es'
+tags: [ 'bluetooth','galaxy','samsung','smartwatch', ]
 actualPrice: 265.0 EUR
 currency: EUR
 price: 265.0

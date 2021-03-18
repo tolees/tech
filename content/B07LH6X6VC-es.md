@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH6X6VC-es WeightWorld Plataforma Vibratoria 3D para Adelgazar y...'
 sku: 'B07LH6X6VC-es'
+tags: [ 'bluetooth', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001E97GIA-es Canon EF 18-200mm f/3.5-5.6 IS - Objetivo para Canon...'
 sku: 'B001E97GIA-es'
+tags: [ 'canon', ]
 actualPrice: 490.64 EUR
 currency: EUR
 price: 490.64

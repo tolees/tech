@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XGRGR6-es SATECHI Adaptador Multi-Puertos Tipo-C Delgado con...'
 sku: 'B083XGRGR6-es'
+tags: [ 'gigabit','microsoft', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

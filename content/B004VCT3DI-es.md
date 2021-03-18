@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VCT3DI-es Sony Mdre9Lpl - Auriculares de Botón Blanco y Azul 5'
 sku: 'B004VCT3DI-es'
+tags: [ 'auriculares','sony', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

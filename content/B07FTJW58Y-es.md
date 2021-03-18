@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTJW58Y-es Lamicall Soporte para Móvil con Cuello de Cisne : Soporte...'
 sku: 'B07FTJW58Y-es'
+tags: [ 'huawei','móvil','samsung', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

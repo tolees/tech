@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQQHI3S-es WD My Passport - Disco Duro Portátil de 1 TB y Software de...'
 sku: 'B01LQQHI3S-es'
+tags: [ 'disco','duro', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

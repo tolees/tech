@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQKFLJT-es Kindle ahora con luz frontal integrada blanco'
 sku: 'B07FQKFLJT-es'
+tags: [ 'kindle', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

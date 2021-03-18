@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGGD6N6-es 7XINbox VGP-BPS35A batería portatil 14.8V 40Wh 2670mAh...'
 sku: 'B07CGGD6N6-es'
+tags: [ 'sony', ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

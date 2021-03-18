@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión...'
 sku: 'B00GWJE5S6-es'
+tags: [ 'sony', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

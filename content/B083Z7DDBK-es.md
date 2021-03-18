@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Z7DDBK-es Panamami Auricular Individual de 3 5 mm Auricular con...'
 sku: 'B083Z7DDBK-es'
+tags: [ 'auriculares', ]
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DP1FTU-es Shure SRH440 - Auriculares de diadema cerrados'
 sku: 'B002DP1FTU-es'
+tags: [ 'auriculares', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

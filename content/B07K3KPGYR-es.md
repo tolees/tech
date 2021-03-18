@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3KPGYR-es Harman Kardon Onyx 5 - Altavoz portátil Bluetooth 4.2...'
 sku: 'B07K3KPGYR-es'
+tags: [ 'altavoz','bluetooth', ]
 actualPrice: 177.4 EUR
 currency: EUR
 price: 177.4

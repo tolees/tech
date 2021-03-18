@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C7LQYQM-es COOLAPA LED Strip Lights Impermeable IP65 Color Changing...'
 sku: 'B08C7LQYQM-es'
+tags: [ 'bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

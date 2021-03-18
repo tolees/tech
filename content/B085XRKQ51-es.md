@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XRKQ51-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085XRKQ51-es'
+tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011LBGW0S-es Ansmann Los Pitufos - La luz nocturna móvil Papá Pitufo'
 sku: 'B011LBGW0S-es'
+tags: [ 'móvil', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

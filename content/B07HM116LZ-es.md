@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM116LZ-es ADWITS USB 3.1 Gen2 10Gbps Tipo-C a NVMe M.2 Adaptador SSD...'
 sku: 'B07HM116LZ-es'
+tags: [ 'samsung', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

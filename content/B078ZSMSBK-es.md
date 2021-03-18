@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZSMSBK-es HP Z24n G2 - Monitor profesional de 24” ajustable en...'
 sku: 'B078ZSMSBK-es'
+tags: [ 'ips', ]
 actualPrice: 274.9 EUR
 currency: EUR
 price: 274.9

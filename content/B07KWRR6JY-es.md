@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWRR6JY-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
 sku: 'B07KWRR6JY-es'
+tags: [ 'ram','smartphone','xiaomi', ]
 actualPrice: 319 EUR
 currency: EUR
 price: 319

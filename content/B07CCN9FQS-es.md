@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCN9FQS-es Anker Paquete de Carga inalámbrica PowerPort Wireless 5...'
 sku: 'B07CCN9FQS-es'
+tags: [ 'iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

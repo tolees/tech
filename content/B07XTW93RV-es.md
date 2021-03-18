@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTW93RV-es Sennheiser RS175-U - Auriculares inalámbricos para...'
 sku: 'B07XTW93RV-es'
+tags: [ 'auriculares', ]
 actualPrice: 189.12 EUR
 currency: EUR
 price: 189.12

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881GKQF7-es DOQAUS Auriculares Diadema [3 Modo EQ] Alta fidelidad...'
 sku: 'B0881GKQF7-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

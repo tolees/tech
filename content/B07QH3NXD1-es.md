@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH3NXD1-es Michael Kors Smartwatch Pantalla táctil para Mujer de...'
 sku: 'B07QH3NXD1-es'
+tags: [ 'smartwatch', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

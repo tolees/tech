@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F36NNMJ-es Feelkaeu Teclado Bluetooth Inalámbrico 3.0 QWERTY Español...'
 sku: 'B07F36NNMJ-es'
+tags: [ 'bluetooth','tablet','teclado', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

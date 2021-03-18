@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0178A0ICE-es Microsoft – Wireless Comfort Desktop 5050 Ratón y teclado...'
 sku: 'B0178A0ICE-es'
+tags: [ 'microsoft','ratón','teclado', ]
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

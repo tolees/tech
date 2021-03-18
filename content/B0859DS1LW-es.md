@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0859DS1LW-es Oihxse Animal Serie Case Compatible con Huawei Y5...'
 sku: 'B0859DS1LW-es'
+tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBDWR4F-es TECKNET Teclado Mecánico Gaming Teclado Gaming Español...'
 sku: 'B07TBDWR4F-es'
+tags: [ 'teclado', ]
 actualPrice: 33.39 EUR
 currency: EUR
 price: 33.39

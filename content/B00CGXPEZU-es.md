@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CGXPEZU-es Samsung MLT-D203L - Tóner para impresoras láser ProXpress...'
 sku: 'B00CGXPEZU-es'
+tags: [ 'samsung', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

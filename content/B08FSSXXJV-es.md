@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FSSXXJV-es i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B08FSSXXJV-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

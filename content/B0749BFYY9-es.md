@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749BFYY9-es Corsair Void PRO RGB Wireless Auriculares para Juegos 7.1...'
 sku: 'B0749BFYY9-es'
+tags: [ 'auriculares', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

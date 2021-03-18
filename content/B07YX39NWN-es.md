@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YX39NWN-es IVSO Español Funda con Teclado Español Ñ para Samsung...'
 sku: 'B07YX39NWN-es'
+tags: [ 'galaxy','samsung','teclado', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

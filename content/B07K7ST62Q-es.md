@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7ST62Q-es Trust GXT 101P GAV - Ratón Gaming de 4800 PPP con 6...'
 sku: 'B07K7ST62Q-es'
+tags: [ 'ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido Soporte de Carga...'
 sku: 'B07DBXNV58-es'
+tags: [ 'galaxy','iphone','samsung', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

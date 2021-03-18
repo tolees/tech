@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBNL7CJ-es Ratón Gaming inalámbrico/cableado DELUX Ratón para juegos...'
 sku: 'B07RBNL7CJ-es'
+tags: [ 'ratón', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

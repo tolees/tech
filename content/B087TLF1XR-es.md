@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TLF1XR-es ZXSL Cámara Web de 1080p con micrófono para transmisión de...'
 sku: 'B087TLF1XR-es'
+tags: [ '1080p', ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

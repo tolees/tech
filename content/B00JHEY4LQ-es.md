@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JHEY4LQ-es JVC CS-J620X Altavoces 1 Multicolor'
 sku: 'B00JHEY4LQ-es'
+tags: [ 'jvc', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

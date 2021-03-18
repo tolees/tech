@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRK42J2-es Black Shark 2 8GB+128GB Azul con Switch Kit Black Shark...'
 sku: 'B07WRK42J2-es'
+tags: [ 'móvil', ]
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

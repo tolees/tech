@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNCSQXF-es Aerocool Cs105Rd Caja De Ordenador Con Ventana Acrílica...'
 sku: 'B07HNCSQXF-es'
+tags: [ 'ordenador', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

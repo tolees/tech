@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JM7KZH-es DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran...'
 sku: 'B081JM7KZH-es'
+tags: [ '1080p', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

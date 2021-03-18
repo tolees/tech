@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9GDT4H-es Otterbox Defender Funda Anti Caídas Robusta para Samsung...'
 sku: 'B07N9GDT4H-es'
+tags: [ 'galaxy','samsung', ]
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

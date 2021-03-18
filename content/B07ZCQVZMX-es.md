@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCQVZMX-es Compatible con la funda de iPhoneX silicona flexible...'
 sku: 'B07ZCQVZMX-es'
+tags: [ 'móvil', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

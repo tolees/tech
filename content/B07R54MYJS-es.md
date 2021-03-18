@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R54MYJS-es MEE audio X10 - Auriculares In-Ear Bluetooth sin Cable...'
 sku: 'B07R54MYJS-es'
+tags: [ 'auriculares','bluetooth', ]
 actualPrice: 70.41 EUR
 currency: EUR
 price: 70.41

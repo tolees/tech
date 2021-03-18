@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDD4HCC-es Samsung SWA-9000S/EN- Altavoces 2.0 canales Negro'
 sku: 'B06XDD4HCC-es'
+tags: [ 'samsung', ]
 actualPrice: 123.06 EUR
 currency: EUR
 price: 123.06
