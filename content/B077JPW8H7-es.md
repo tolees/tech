@@ -28,10 +28,10 @@ Ahora mismo tienes [Gigaset A170 - Teléfono Inalámbrico  Pantalla Iluminada  A
 
 🔎:
 
+- Volumen ajustable
+- Pantalla grafica iluminada con identificación de llamada
+- Gran autonomía: hasta 18 h de conversación y 200 h en reposo
 - Agenda de 50 contactos
 - Conéctate y habla: rápida y fácil instalación
-- Volumen ajustable
-- Gran autonomía: hasta 18 h de conversación y 200 h en reposo
-- Pantalla grafica iluminada con identificación de llamada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077JPW8H7/?tag=tolees-21)
