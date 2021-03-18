@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FKNWVY-es ARRYNN Funda Huawei P40 Lite Cover Huawei P40 Lite Premium...'
 sku: 'B088FKNWVY-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Cables USB','Cables y accesorios','Cables y conectores','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','huawei', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','huawei', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

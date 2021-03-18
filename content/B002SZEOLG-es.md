@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SZEOLG-es TP-Link Adaptador wifi USB inalámbrico Compatible con...'
 sku: 'B002SZEOLG-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Componentes','Dispositivos de red','Dispositivos internos','Informática','Sistemas WiFi Mesh','Tarjetas de red','tp-link','wifi', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Routers','Sistemas WiFi Mesh','Tarjetas de red','tp-link','wifi', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95
@@ -29,8 +29,8 @@ Ahora mismo tienes [TP-Link Adaptador wifi USB inalámbrico Compatible con Raspb
 🔎:
 
 - Sistema operativo - compatible con raspberry pi, windows10/8.1/8/7/xp, mac os x 10.6-10.11, linux (kernel 2.6.18 ~ 4.4.3)
-- Quick setup security - encriptación sencilla de la red inalámbrica con tal sólo pulsar el botón qss
 - Antena externa desmontable - lo que permite orientarlas mejor y sustituirlas por antenas de mayores prestaciones
+- Quick setup security - encriptación sencilla de la red inalámbrica con tal sólo pulsar el botón qss
 - Excelente velocidad inalámbrica n – hasta 150mbps, la mejor experiencia de reproducción de vídeo hd en streaming o llamadas a través de internet
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002SZEOLG/?tag=tolees-21)

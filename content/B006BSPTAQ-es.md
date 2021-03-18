@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006BSPTAQ-es TP-Link TL-WN881ND - WIFI Adaptador PCI Express Tarjeta de...'
 sku: 'B006BSPTAQ-es'
-tags: [ 'Componentes','Dispositivos de red','Dispositivos internos','Informática','Sistemas WiFi Mesh','Tarjetas de red','tp-link','wifi', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Sistemas WiFi Mesh','Tarjetas de red','tp-link','wifi', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98
@@ -28,9 +28,9 @@ Está [TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps
 
 ℹ️:
 
-- La tecnología MIMO proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
+- Apoyo a raspberry pi
 - Configure fácilmente una conexión de alta seguridad gracias a la función WPS (Wi-Fi Protected Setup)
 - Velocidad inalámbrica N de hasta 300 Mbps, adecuada para la transmisión de vídeo, juegos online y llamadas a través de Internet
-- Apoyo a raspberry pi
+- La tecnología MIMO proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)

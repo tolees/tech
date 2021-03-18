@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H8DYKL-es FOSITAN TL-160S LED Video Light 160 LED 3200K 5500K Ultra...'
 sku: 'B071H8DYKL-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Cables USB','Cables y accesorios','Cables y conectores','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','canon','nikon','panasonic','pentax','samsung','sony', ]
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','canon','nikon','panasonic','pentax','samsung','sony', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
