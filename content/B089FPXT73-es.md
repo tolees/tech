@@ -28,11 +28,11 @@ En este momento está [MSI Prestige 15 A10SC-295ES - Ordenador portátil de 15.6
 
 🔎:
 
+- Memoria RAM de 16 GB DDR IV (2666 MHz)
+- Almacenamiento de 1TB SSD NVMe PCIe ( 512GB SSD*2 )
+- Pantalla de 15.6" Full HD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 - Procesador Intel Core I7-10710U (4 núcleos, 8 MB Cache, 1.80 GHz hasta 4.90 GHz)
 - Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR5 4 GB
-- Memoria RAM de 16 GB DDR IV (2666 MHz)
-- Pantalla de 15.6" Full HD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 - Sistema operativo Windows 10 Home
-- Almacenamiento de 1TB SSD NVMe PCIe ( 512GB SSD*2 )
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089FPXT73/?tag=tolees-21)

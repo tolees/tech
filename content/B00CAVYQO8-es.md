@@ -29,12 +29,12 @@ En este momento está [Samsung MG23F301TCK Encimera 23L 800W Negro - Microondas 
 🔎:
 
 - Revestimiento interno: Cerámica
+- Profundidad: 392 mm
 - Descripción del producto: Samsung MG23F301TCK
 - Frecuencia de entrada AC: 50 Hz
-- Altura: 275 mm
-- Profundidad: 392 mm
-- Potencia instalada: 1.200 W
-- Ancho: 489 mm
 - Voltaje de entrada AC: 230 V
+- Ancho: 489 mm
+- Altura: 275 mm
+- Potencia instalada: 1.200 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CAVYQO8/?tag=tolees-21)
