@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T6KS9C-es HP Z5000 - Ratón inalámbrico Bluetooth con luz indicadora...'
 sku: 'B075T6KS9C-es'
-tags: [ 'Ratones','bluetooth','hp','ratón', ]
+tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','bluetooth','hp','ratón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -29,8 +29,8 @@ Tienes [HP Z5000 - Ratón inalámbrico Bluetooth con luz indicadora de batería 
 🔎:
 
 - Funciona con cualquier PC con Bluetooth 4.0 (para MacBook después de 2016). No hay ninguna puerta para trabajar en Mac OS.
+- Diseño ambidiestro para una mayor facilidad de control con rueda de desplazamiento central
 - Duración de la batería hasta 6 meses con una sola carga y LED indicador de carga
 - Diseño ultrafino con laterales redondeados
-- Diseño ambidiestro para una mayor facilidad de control con rueda de desplazamiento central
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075T6KS9C/?tag=tolees-21)
