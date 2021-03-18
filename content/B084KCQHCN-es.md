@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KCQHCN-es Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED...'
 sku: 'B084KCQHCN-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Teclados, ratones y periféricos de entrada','galaxy','ram','samsung','smartphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Teclados, ratones y periféricos de entrada','galaxy','ram','samsung','smartphone', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0
@@ -28,12 +28,12 @@ Tienes [Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED  12GB RAM  128GB
 
 🔎:
 
-- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
-- 12 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
 - SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
 - Teleobjetivo de 64 MP cámara frontal de 10 MP cámara gran angular de 12MP y un gran zoom espacial de 30x captura el mundo que te rodea como nunca antes
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
-- Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
 - La batería de Galaxy S20+ contiene 4 500 mAh para que puedas funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
+- 12 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
+- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
+- Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084KCQHCN/?tag=tolees-21)
