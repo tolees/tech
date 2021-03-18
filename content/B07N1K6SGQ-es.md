@@ -1,32 +1,42 @@
 ---
 layout: post
-title: 'Ecovacs Deebot OZMO 900 - Robot Aspirado al 25.06 % de descuento'
-date: 2020-05-22 18:42:09
-image: 'https://m.media-amazon.com/images/I/31J2v65Q7+L._SL400_.jpg'
+title: 'Ecovacs Deebot OZMO 900 - Robot Aspirado al 38.15 % de descuento'
+date: 2021-03-17 23:28:00
+image: 'https://m.media-amazon.com/images/I/31M22GROosL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07N1K6SGQ-es Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre...'
 sku: 'B07N1K6SGQ-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Adaptadores','Adaptadores USB','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Barebones','Bombillas','Bombillas Wi-Fi','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Iluminación','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Portátiles','Ratones','Ratones para gamers para PC','Robots aspiradores','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Televisores','Videojuegos','alexa','wifi', ]
-actualPrice: 299.0 EUR
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Cables USB','Cables y accesorios','Cables y conectores','Dispositivos de red','Hogar y cocina','Informática','Robots aspiradores','Routers','Webcams y telefonía VoIP','alexa','ecovacs','wifi', ]
+actualPrice: 246.79 EUR
 currency: EUR
-price: 299.0
+price: 246.79
 comparePrice: 399.0 EUR
 prodname: 'Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'ECOVACS'
 buyurl: 'https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21'
-descuento: '25.06'
-average: '307.65714285714284'
+descuento: '38.15'
+average: '302.364347826087'
 ---
 
-Está [Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21) con 25.06 de descuento por 299.0 EUR (original: 399.0 EUR) en el siguiente enlace!
+Está [Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21) con 38.15 de descuento por 246.79 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![Ecovacs Deebot OZMO 900 - Robot Aspirado](https://m.media-amazon.com/images/I/31J2v65Q7+L._SL400_.jpg)](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
+[![Ecovacs Deebot OZMO 900 - Robot Aspirado](https://m.media-amazon.com/images/I/31M22GROosL._SL400_.jpg)](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
 
 ℹ️:
 
+- Control por Alexa & Google Home; mapa visual e informe limpieza, Límites virtuales y modo Área
+- La tecnología de Navegación Smart Navi 3.0 equipa a tu robot con láser, permitiéndole navegar de manera inteligente y desarrolar un mapa preciso de tu hogar
+- Carga automática: Recarga y reanuda la limpieza; autonomía (min): 100; detecta obstáculos y escaleras
+- Utilizando la aplicación ECOVACS, se pueden crear barreras virtuales con el móvil en el mapa para priorizar o bloquear áreas para que el aspirador inteligente automático limpie donde sea necesario
+- 4 modos de limpieza: Auto (Limpieza sistemática habitación por habitación); Área (Seleccione áreas prioritarias de limpieza), Personalizado (Dibuje áreas específicas en el mapa que requieran limpieza)
+- Contenido de envío: 1x Robot aspirador ECOVACS DEEBOT OZMO 900 /1x Cepillo principal/4x Cepillos laterales/2x filtro de polvo fino/1x Estación de carga
+- Para limpieza en profundidad, utilice el cepillo principal, adecuado para moquetas o alfombras, mientras que la aspiración directa se adapta a suelos duros o al pelo de animales
+- Tecnología de Fregado: Tecnología OZMO que permite al robot aspirar y fregar de manera simultánea regulando con bomba inteligente el flujo de agua que has elegido desde la App
+- Así podrás programar tu robot estableciendo límites virtuales para indicarle las zonas a evitar al realizar la limpieza
+- Modo MAX (Duplica el poder de succión para una limpieza en profundidad); modo de succión: Succión Intercambiable (Succión directa & Cepillo Principal V)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
