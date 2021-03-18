@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CM454WJ-es Mini cámara Mini Cam 1080P SPY Hide Camera sansnail HD...'
 sku: 'B07CM454WJ-es'
-tags: [ '1080p', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

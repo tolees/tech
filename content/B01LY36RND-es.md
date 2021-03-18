@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY36RND-es Audio Pro Addon T5 - Altavoz inalámbrico Color Rosa empolvado'
 sku: 'B01LY36RND-es'
-tags: [ 'altavoz', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

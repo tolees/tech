@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS48L9C-es Apple iPhone 11 Pro 256 GB - de en Verde Noche'
 sku: 'B07XS48L9C-es'
-tags: [ 'Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

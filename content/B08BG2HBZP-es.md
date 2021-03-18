@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG2HBZP-es WisFox Combo de Teclado y Mouse Inalámbricos 2.4G Mouse de...'
 sku: 'B08BG2HBZP-es'
-tags: [ 'teclado', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

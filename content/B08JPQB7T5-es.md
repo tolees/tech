@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JPQB7T5-es LucaSng - Proyector de Luz Estelar 2 en 1 LED Cambiar...'
 sku: 'B08JPQB7T5-es'
-tags: [ 'bluetooth', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

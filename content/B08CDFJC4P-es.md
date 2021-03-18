@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDFJC4P-es Willful Smartwatch Pantalla de 1 3 Pulgadas Reloj...'
 sku: 'B08CDFJC4P-es'
-tags: [ 'smartwatch', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

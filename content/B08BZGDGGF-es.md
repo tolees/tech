@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZGDGGF-es RAMPOW Cable USB Tipo C Cable USB C 3A Carga Rápida...'
 sku: 'B08BZGDGGF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo portátil','Accesorios para tablets','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Bricolaje y herramientas','Cables USB','Cables y accesorios','Cables y conectores','Comunicación móvil y accesorios','Cámaras de vigilancia','Cámaras de vigilancia en domo','Discos duros externos','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Fotografía y videocámaras','Fundas blandas para tablets','Fundas para tablets','Impresoras fotográficas portátiles','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Instalación eléctrica','Memorias USB','Monitores','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','TV, vídeo y home cinema','Tarjetas SD','Tarjetas de memoria','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Telefonía fija y accesorios','Televisores','Teléfonos VoIP','galaxy','rampow','samsung','sony','xiaomi', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

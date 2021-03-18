@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NRHR75-es BOIFUN Webcam 1080P con Micrófono para PC Full HD Cámara...'
 sku: 'B089NRHR75-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

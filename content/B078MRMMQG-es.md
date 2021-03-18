@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MRMMQG-es Altavoz portátil Micrófono con altavoz USB de Kaysuda para...'
 sku: 'B078MRMMQG-es'
-tags: [ 'altavoz','microsoft', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

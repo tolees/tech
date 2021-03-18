@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08PPTGX12-es Samsung Galaxy S21 Ultra EF-PG99PTBEGWW - Silicona Funda...'
 sku: 'B08PPTGX12-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','galaxy','samsung', ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

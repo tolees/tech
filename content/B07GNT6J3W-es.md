@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNT6J3W-es Samsung Galaxy Tab S4 - Tablet de 10.5 4G RAM de 4 GB...'
 sku: 'B07GNT6J3W-es'
-tags: [ 'galaxy','ram','samsung','tablet', ]
 actualPrice: 618.0 EUR
 currency: EUR
 price: 618.0

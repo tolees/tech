@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085C9ZGSG-es Soundcore Trance Go Altavoz Bluetooth para Exteriores con...'
 sku: 'B085C9ZGSG-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

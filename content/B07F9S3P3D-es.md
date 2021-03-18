@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9S3P3D-es VGUARD Ratón Gaming con Cable 4 DPI Adjustables hasta 2400...'
 sku: 'B07F9S3P3D-es'
-tags: [ 'ratón', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

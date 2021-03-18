@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005GGQWS2-es Panasonic KX-TG1611 - Teléfono fijo inalámbrico LCD...'
 sku: 'B005GGQWS2-es'
-tags: [ 'panasonic', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD8GHB6-es Anpollo Alfombrilla Gaming 900x400x3mm Alfombrilla Raton...'
 sku: 'B07WD8GHB6-es'
-tags: [ 'ordenador', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RK956GJ-es Garmin Forerunner 245 - Reloj multisport con GPS - Burdeos'
 sku: 'B07RK956GJ-es'
-tags: [ 'garmin','gps', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

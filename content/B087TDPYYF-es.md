@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TDPYYF-es Goeco Lupa de Pantalla de teléfono Amplificador de...'
 sku: 'B087TDPYYF-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para móviles','Ampliadores y magnificadores para pantallas de teléfonos móviles','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Cables USB','Cables y accesorios','Cables y conectores','Comunicación móvil y accesorios','Deportes y aire libre','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Hogar y cocina','Informática','Monitores de actividad','Robots aspiradores','Routers','Smartwatches','Tecnología para vestir','Webcams y telefonía VoIP','goeco','móvil', ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

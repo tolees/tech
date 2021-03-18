@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGC3HVL-es Teclado y Raton Inalambrico Español TedGem 2.4G Ergonómico...'
 sku: 'B07XGC3HVL-es'
-tags: [ 'ordenador','teclado', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

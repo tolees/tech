@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076MQJSQK-es STAROVER Cartucho de Tóner Compatible Reemplazo para HP...'
 sku: 'B076MQJSQK-es'
-tags: [ 'impresora', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

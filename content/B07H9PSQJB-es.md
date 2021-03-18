@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9PSQJB-es Docooler Tarjeta de Memoria 32G de Gran Capacidad Clase 10...'
 sku: 'B07H9PSQJB-es'
-tags: [ 'smartphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

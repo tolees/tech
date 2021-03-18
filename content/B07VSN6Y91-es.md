@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSN6Y91-es Beikell Protector Pantalla Xiaomi Redmi Note 7/7 Pro [4...'
 sku: 'B07VSN6Y91-es'
-tags: [ 'xiaomi', ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

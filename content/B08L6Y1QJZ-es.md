@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L6Y1QJZ-es Apple iPhone SE 256 GB - en Negro'
 sku: 'B08L6Y1QJZ-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 553.63 EUR
 currency: EUR
 price: 553.63

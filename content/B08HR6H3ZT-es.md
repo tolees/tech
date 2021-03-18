@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HR6H3ZT-es Spigen Funda Ultra Hybrid para Xiaomi Mi 10T y para Xiaomi...'
 sku: 'B08HR6H3ZT-es'
-tags: [ 'spigen','xiaomi', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

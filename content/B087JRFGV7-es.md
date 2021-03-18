@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JRFGV7-es Mpow Adaptador Bluetooth 5.0 USB Transmisor Receptor...'
 sku: 'B087JRFGV7-es'
-tags: [ 'bluetooth', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

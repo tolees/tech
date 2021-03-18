@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LMFR9V3-es iporachx - Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B08LMFR9V3-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPQ7MDH-es CHcase para Xiaomi Mi 10T Lite Funda 360 Rotating Ring...'
 sku: 'B08PPQ7MDH-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

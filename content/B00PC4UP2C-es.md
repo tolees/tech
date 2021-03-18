@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PC4UP2C-es Trust Arys - Set de Altavoces de Ordenador 2.0 28 W...'
 sku: 'B00PC4UP2C-es'
-tags: [ 'ordenador', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS58JD1-es Apple iPhone 11 Pro 512 GB - de en Verde Noche'
 sku: 'B07XS58JD1-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para teclados y ratones','Alfombrillas de ratón','Almacenamiento de datos','Almacenamiento de datos externo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Deportes y aire libre','Electrónica','Electrónica y dispositivos para el deporte','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación infantil nocturna','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos para PlayStation 5','Juegos y Accesorios para PC','Lámparas e iluminación infantil','Memorias USB','Monitores de actividad','Móviles','Móviles y smartphones libres','Ratones para gamers para PC','Robots aspiradores','Tablets','Teclados para gamers para PC','Teclados, ratones y periféricos de entrada','Videojuegos','apple','iphone', ]
 actualPrice: 1049.0 EUR
 currency: EUR
 price: 1049.0

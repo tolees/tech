@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073F8HDB4-es POWERADD Cargador Solar 12000mAh Colgado Batería Externa...'
 sku: 'B073F8HDB4-es'
-tags: [ 'móvil', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

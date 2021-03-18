@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T1QZBZ6-es CAMECHO - [1G+16G] Android Radio de Coche para VW GPS...'
 sku: 'B08T1QZBZ6-es'
-tags: [ 'bluetooth','gps','wifi', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

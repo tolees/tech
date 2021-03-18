@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7Z1YFZ-es CAISON Laptop Manga Caso Compatible con 12.3 Pulgada...'
 sku: 'B07M7Z1YFZ-es'
-tags: [ 'microsoft', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

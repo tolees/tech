@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MWJRDL9-es ieGeek Camara de Vigilancia Exterior con Doble Antena WiFi...'
 sku: 'B08MWJRDL9-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

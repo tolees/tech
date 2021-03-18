@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXQKX37-es Londo Alfombrilla Oval para ratón de Cuero con Apoyo para...'
 sku: 'B07GXQKX37-es'
-tags: [ 'ratón', ]
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

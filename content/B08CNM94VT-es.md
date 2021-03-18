@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNM94VT-es MSI MEG Trident X 10SE-852EU - Ordenador de sobremesa...'
 sku: 'B08CNM94VT-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 2199.99 EUR
 currency: EUR
 price: 2199.99

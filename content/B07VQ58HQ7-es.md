@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQ58HQ7-es Funda Samsung Galaxy A60 Funda Samsung A60 Libro Carcasa...'
 sku: 'B07VQ58HQ7-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

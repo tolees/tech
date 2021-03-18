@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XQHPCL-es Steelseries Rival 3 Ratón para Juegos Sensor Óptico...'
 sku: 'B082XQHPCL-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Dispositivos internos','Electrónica','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Videojuegos','ratón','steelseries', ]
 actualPrice: 26.29 EUR
 currency: EUR
 price: 26.29

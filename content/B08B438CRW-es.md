@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B438CRW-es Sony SRS-XB23 - Altavoz Bluetooth Potente con Luces Extra...'
 sku: 'B08B438CRW-es'
-tags: [ 'bluetooth','sony','altavoz', ]
 actualPrice: 84.92 EUR
 currency: EUR
 price: 84.92

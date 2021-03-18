@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XQSSC2T-es Apple Funda Transparente para el iPhone 11'
 sku: 'B07XQSSC2T-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

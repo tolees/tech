@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XWY4PJ1-es Auriculares In Ear Zorara Auriculares Estéreo 9D Aislante...'
 sku: 'B07XWY4PJ1-es'
-tags: [ 'auriculares','estéreo', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZRNXTQ-es FR·TEC - Grips XL Amarillo Neón - Nintendo Switch'
 sku: 'B074ZRNXTQ-es'
-tags: [ 'nintendo','switch', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

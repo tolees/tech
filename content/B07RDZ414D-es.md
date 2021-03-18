@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD...'
 sku: 'B07RDZ414D-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

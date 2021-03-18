@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YKBGYZ-es Nintendo - Mario Tennis Aces'
 sku: 'B078YKBGYZ-es'
-tags: [ 'Electrónica','Hardware y juegos para Nintendo Switch','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','TV, vídeo y home cinema','Televisores','Videojuegos','nintendo', ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

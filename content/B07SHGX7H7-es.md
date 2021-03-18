@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHGX7H7-es Xiaomi Mi Air Purifier 2H EU version - Purificador de aire...'
 sku: 'B07SHGX7H7-es'
-tags: [ 'xiaomi', ]
 actualPrice: 105.9 EUR
 currency: EUR
 price: 105.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos AIWONS Audífonos...'
 sku: 'B07SYHJXBS-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

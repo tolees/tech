@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFRSP6-es Auriculares inalámbricos Bluetooth Micrófono con...'
 sku: 'B082SFRSP6-es'
-tags: [ 'auriculares','bluetooth','móvil','samsung', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

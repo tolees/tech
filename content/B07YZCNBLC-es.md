@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZCNBLC-es PRIXTON - Robot Aspirador Fregasuelos Barre y...'
 sku: 'B07YZCNBLC-es'
-tags: [ 'móvil','wifi', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

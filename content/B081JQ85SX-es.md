@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave...'
 sku: 'B081JQ85SX-es'
-tags: [ 'canon','nikon','sony', ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa...'
 sku: 'B08BWRGXFX-es'
-tags: [ 'huawei', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

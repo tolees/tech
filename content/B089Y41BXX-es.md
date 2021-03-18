@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Y41BXX-es Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B089Y41BXX-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

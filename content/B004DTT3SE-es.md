@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004DTT3SE-es Trust Sydney - Maletín para Ordenador portátil de hasta 17.3"'
 sku: 'B004DTT3SE-es'
-tags: [ 'ordenador', ]
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

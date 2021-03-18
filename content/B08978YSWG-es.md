@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08978YSWG-es Donerton - Auriculares Bluetooth Deportivos Auriculares...'
 sku: 'B08978YSWG-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

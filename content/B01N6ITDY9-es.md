@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6ITDY9-es Creative Labs Sound BlasterX H7 Tournament Edition -...'
 sku: 'B01N6ITDY9-es'
-tags: [ 'auriculares', ]
 actualPrice: 131.01 EUR
 currency: EUR
 price: 131.01

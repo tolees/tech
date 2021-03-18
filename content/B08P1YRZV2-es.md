@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P1YRZV2-es UPERCT - Monitor Portátil Pantalla Táctil 4K UPERFECT 15...'
 sku: 'B08P1YRZV2-es'
-tags: [ 'móvil', ]
 actualPrice: 489.99 EUR
 currency: EUR
 price: 489.99

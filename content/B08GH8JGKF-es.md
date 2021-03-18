@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GH8JGKF-es Power A - Mando con Cable Mejorado Powera Para Nintendo...'
 sku: 'B08GH8JGKF-es'
-tags: [ 'nintendo','nintendo','switch', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

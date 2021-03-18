@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0837BNSX2-es Vieta Pro VHP-TW20LP - Auricular Bluetooth 5.0 con función...'
 sku: 'B0837BNSX2-es'
-tags: [ 'bluetooth', ]
 actualPrice: 65.07 EUR
 currency: EUR
 price: 65.07

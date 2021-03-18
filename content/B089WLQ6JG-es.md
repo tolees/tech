@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WLQ6JG-es Auriculares Inalámbricos Auriculares Bluetooth 5.0...'
 sku: 'B089WLQ6JG-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

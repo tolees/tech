@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GNXLMWW-es SYOSIN Tripode Movil Extendable Palo Selfie Mini Tripode...'
 sku: 'B08GNXLMWW-es'
-tags: [ 'bluetooth','galaxy','iphone','samsung','xiaomi', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

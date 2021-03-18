@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZXE9NC-es Alesis Recital - Teclado de Piano Digital con 88 Teclas...'
 sku: 'B01DZXE9NC-es'
-tags: [ 'teclado', ]
 actualPrice: 203.16 EUR
 currency: EUR
 price: 203.16

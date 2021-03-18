@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079Z4HS7S-es Sharp HT-SB140MT 2.0 Barra de Sonido Cine en casa...'
 sku: 'B079Z4HS7S-es'
-tags: [ 'bluetooth', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

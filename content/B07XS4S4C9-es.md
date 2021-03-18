@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS4S4C9-es Apple iPhone 11 Pro MAX 512 GB - Plata'
 sku: 'B07XS4S4C9-es'
-tags: [ 'Fundas y carcasas para teléfonos móviles','apple','iphone', ]
 actualPrice: 1215.41 EUR
 currency: EUR
 price: 1215.41

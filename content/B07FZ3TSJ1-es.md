@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa Intel Core...'
 sku: 'B07FZ3TSJ1-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

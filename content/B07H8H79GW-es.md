@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8H79GW-es Pioneer DEH-S110UBG - Sintonizador RDS con CD Color Negro'
 sku: 'B07H8H79GW-es'
-tags: [ 'pioneer', ]
 actualPrice: 58.75 EUR
 currency: EUR
 price: 58.75

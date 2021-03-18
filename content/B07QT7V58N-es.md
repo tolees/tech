@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QT7V58N-es Withings Pulse HR Activity Tracker - Pulsera de Actividad...'
 sku: 'B07QT7V58N-es'
-tags: [ 'withings', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C9LZTYD-es AGPTEK Smartwatch Hombre Reloj Inteligente de HD Pantalla...'
 sku: 'B08C9LZTYD-es'
-tags: [ 'smartwatch', ]
 actualPrice: 34.54 EUR
 currency: EUR
 price: 34.54

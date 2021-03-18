@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TZVJXLG-es Lecover Auriculares Inalámbricos Bluetooth 5.1 Auriculares...'
 sku: 'B08TZVJXLG-es'
-tags: [ 'auriculares','bluetooth','samsung','xiaomi', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

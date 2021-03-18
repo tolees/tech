@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1CCNYH-es Razer Raiju Tournament 2019Mando de juegos inalámbrico y...'
 sku: 'B07N1CCNYH-es'
-tags: [ 'bluetooth','móvil','ps4', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

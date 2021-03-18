@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T18FYC3-es POWERAXIS Antena de TV Antena Interior HDTV 100 Millas...'
 sku: 'B07T18FYC3-es'
-tags: [ '1080p', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

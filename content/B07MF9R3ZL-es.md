@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MF9R3ZL-es Sony HT-X8500 Barra de Sonido 2.1 Dolby Atmos DTS:X...'
 sku: 'B07MF9R3ZL-es'
-tags: [ 'bluetooth','sony', ]
 actualPrice: 315.0 EUR
 currency: EUR
 price: 315.0

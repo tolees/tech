@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZVSJZS-es YINSAN Cascos Gaming Auriculares Premium Stereo con...'
 sku: 'B07QZVSJZS-es'
-tags: [ 'auriculares', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

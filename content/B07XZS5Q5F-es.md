@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZS5Q5F-es Lenovo Legion Y540 - Ordenador portátil Gaming de 17.3"...'
 sku: 'B07XZS5Q5F-es'
-tags: [ 'lenovo','ordenador','ram', ]
 actualPrice: 1299.0 EUR
 currency: EUR
 price: 1299.0

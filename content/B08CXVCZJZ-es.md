@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXVCZJZ-es BIGGERFIVE Vigor Pulsera Actividad Inteligente Reloj...'
 sku: 'B08CXVCZJZ-es'
-tags: [ 'smartwatch', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

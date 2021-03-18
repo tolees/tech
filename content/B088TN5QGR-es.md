@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TN5QGR-es LABISTS Impresora 3D Profesional Tamaño de Impresión 220 x...'
 sku: 'B088TN5QGR-es'
-tags: [ 'impresora', ]
 actualPrice: 195.49 EUR
 currency: EUR
 price: 195.49

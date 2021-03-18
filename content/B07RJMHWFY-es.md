@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RJMHWFY-es AWESAFE GPS para Coches con 7 Pulgadas Pantalla LCD con...'
 sku: 'B07RJMHWFY-es'
-tags: [ 'bluetooth','gps', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QJCJWG-es ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble...'
 sku: 'B073QJCJWG-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','asus','gigabit','wifi', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

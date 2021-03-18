@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JCH38JC-es Ratón Vertical ergonómico inalámbrico de 2 4G 6 Botones...'
 sku: 'B08JCH38JC-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

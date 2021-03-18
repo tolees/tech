@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5NDDSR-es Samsung T45F Monitor 27 Pulgadas IPS Panel Full HD 1080p...'
 sku: 'B08L5NDDSR-es'
-tags: [ '1080p','ips','samsung','full','hd', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RMSSH8-es MSI Pro 24X 10M-042EU - Ordenador de sobremesa de 23.8"...'
 sku: 'B087RMSSH8-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 736.6 EUR
 currency: EUR
 price: 736.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086BJG21Z-es LG 38WN75C-B - Monitor Profesional Curvo UltraWide QHD+ de...'
 sku: 'B086BJG21Z-es'
-tags: [ 'auriculares','ips','ultrawide', ]
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

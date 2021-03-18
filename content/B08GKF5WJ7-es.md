@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKF5WJ7-es Amazfit Neo - Smartwatch Black'
 sku: 'B08GKF5WJ7-es'
-tags: [ 'smartwatch', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

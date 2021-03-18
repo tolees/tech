@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7B9BL9-es NETVIP Repetidor WiFi 300Mbit/s Wireless WiFi Extensor...'
 sku: 'B07H7B9BL9-es'
-tags: [ 'wifi', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

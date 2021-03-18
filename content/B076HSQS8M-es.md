@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HSQS8M-es JVC KD-R992BT'
 sku: 'B076HSQS8M-es'
-tags: [ 'jvc', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYZ2RZM-es Park and Charge - Organizador de mando a distancia con...'
 sku: 'B07FYZ2RZM-es'
-tags: [ 'tablet', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

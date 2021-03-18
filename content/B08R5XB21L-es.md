@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5XB21L-es LEZUN - 3D Lupa de Pantall para Móvil 12 Pulgadas Pantalla...'
 sku: 'B08R5XB21L-es'
-tags: [ 'móvil', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

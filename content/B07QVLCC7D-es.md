@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVLCC7D-es DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio...'
 sku: 'B07QVLCC7D-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

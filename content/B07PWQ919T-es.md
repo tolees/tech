@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PWQ919T-es Beexcellent - Auriculares Bluetooth de Diadema Cascos...'
 sku: 'B07PWQ919T-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

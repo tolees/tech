@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081H3SG3J-es Mpow Barra de Sonido Atlavoz Bluetooth 5.0 para PC/TV 20W...'
 sku: 'B081H3SG3J-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

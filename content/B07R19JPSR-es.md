@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R19JPSR-es Provide the best 4pcs / Set Universal de reemplazo...'
 sku: 'B07R19JPSR-es'
-tags: [ 'móvil', ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F412XPQ-es HUAWEI Watch FIT - Smartwatch con Cuerpo de Metal Pantalla...'
 sku: 'B08F412XPQ-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Dispositivos internos','Electrónica','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','Tecnología para vestir','Videojuegos','gps','huawei','smartwatch', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

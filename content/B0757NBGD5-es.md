@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0757NBGD5-es Pioneer DEH-S100UB Autorradio Rojo'
 sku: 'B0757NBGD5-es'
-tags: [ 'pioneer', ]
 actualPrice: 70.9 EUR
 currency: EUR
 price: 70.9

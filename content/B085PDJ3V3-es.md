@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PDJ3V3-es Acer Chromebook 714 - Portátil Táctil 14" FullHD Intel...'
 sku: 'B085PDJ3V3-es'
-tags: [ 'ram','teclado', ]
 actualPrice: 509.0 EUR
 currency: EUR
 price: 509.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD47QY7-es Victure Reproductor MP3 Bluetooth 4.1 Clip Running...'
 sku: 'B07XD47QY7-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

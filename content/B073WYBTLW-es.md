@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WYBTLW-es auna LS-46 Pareja de Soportes para Altavoz - Columnas de...'
 sku: 'B073WYBTLW-es'
-tags: [ 'altavoz', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

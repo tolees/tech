@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1VQ53X-es Sony Remote Commander RMF-TX310E RMF-TX310E'
 sku: 'B07L1VQ53X-es'
-tags: [ 'sony', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

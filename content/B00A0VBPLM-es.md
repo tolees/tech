@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A0VBPLM-es TP-Link TL-PA4010KIT - Adaptadores por Línea Eléctrica AV...'
 sku: 'B00A0VBPLM-es'
-tags: [ 'plc', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

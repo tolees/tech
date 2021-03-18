@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y3JXGPL-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
 sku: 'B07Y3JXGPL-es'
-tags: [ 'disco','duro','western digital', ]
 actualPrice: 300.36 EUR
 currency: EUR
 price: 300.36

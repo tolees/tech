@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DGG3QW-es Seagate Backup Plus Hub STEL10000400 Unidad de disco duro...'
 sku: 'B076DGG3QW-es'
-tags: [ 'disco','duro','ordenador', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

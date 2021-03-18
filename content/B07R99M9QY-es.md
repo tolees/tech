@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R99M9QY-es ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil...'
 sku: 'B07R99M9QY-es'
-tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

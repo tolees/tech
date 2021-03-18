@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4JVCZ-es Proyector WiFi WiMiUS 5800 Proyector WiFi Portátil Full HD...'
 sku: 'B08DJ4JVCZ-es'
-tags: [ '1080p','Accesorios','Accesorios para Juegos PC','Adaptadores','Adaptadores USB','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Barebones','Bombillas','Bombillas Wi-Fi','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Discos duros externos','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hogar y cocina','Iluminación','Informática','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Ratones','Ratones para gamers para PC','Robots aspiradores','Smartwatches','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','full','hd','wifi','wimius', ]
 actualPrice: 68.89 EUR
 currency: EUR
 price: 68.89

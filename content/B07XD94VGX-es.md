@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD94VGX-es Teclado y Raton Inalambrico Español TedGem 2.4G Teclado...'
 sku: 'B07XD94VGX-es'
-tags: [ 'teclado', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0732RBR3J-es HP 22w - Monitor 21.5" Full HD 1920 x 1080 pixeles tiempo...'
 sku: 'B0732RBR3J-es'
-tags: [ 'full','hd', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

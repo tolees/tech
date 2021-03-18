@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GNK18VJ-es XP-PEN Artist 12 HD IPS Tableta Gráfica de Dibujo Digital...'
 sku: 'B07GNK18VJ-es'
-tags: [ 'ips', ]
 actualPrice: 203.99 EUR
 currency: EUR
 price: 203.99

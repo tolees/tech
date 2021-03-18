@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQN8M5Z-es Dragon Touch WT01 Cámara Digital con Pantalla Táctil 3.0"...'
 sku: 'B08HQN8M5Z-es'
-tags: [ 'ips','wifi', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

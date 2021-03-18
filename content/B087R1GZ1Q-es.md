@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087R1GZ1Q-es yootech Adaptador USB C Hembra a USB 3.1 Macho 2 Pack...'
 sku: 'B087R1GZ1Q-es'
-tags: [ 'iphone', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

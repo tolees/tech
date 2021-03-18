@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J6LW4PR-es Nuevo Apple iPad Air de 10 9 Pulgadas con Wi-Fi + Cellular...'
 sku: 'B08J6LW4PR-es'
-tags: [ 'apple', ]
 actualPrice: 648.0 EUR
 currency: EUR
 price: 648.0

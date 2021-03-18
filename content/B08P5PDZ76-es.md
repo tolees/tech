@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P5PDZ76-es HCCH - Antena TV Interior Antena HDTV Digital De 150...'
 sku: 'B08P5PDZ76-es'
-tags: [ '1080p', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

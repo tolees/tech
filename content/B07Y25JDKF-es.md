@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y25JDKF-es SPC Epic - Teléfono móvil Números y letras grandes Agenda...'
 sku: 'B07Y25JDKF-es'
-tags: [ 'móvil', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

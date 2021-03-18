@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JVB2S3P-es DuoTen Altavoz Bluetooth Altavoz Portatil Bluetooth Con...'
 sku: 'B08JVB2S3P-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

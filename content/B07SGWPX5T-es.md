@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGWPX5T-es Cocoda Soporte Tablet Universal Soportes Movil iPad Mesa...'
 sku: 'B07SGWPX5T-es'
-tags: [ 'galaxy','iphone','samsung','tablet', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

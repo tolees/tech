@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PSBBMM-es Bqeel Raspberry Pi 4 Model B 【4GB RAM+32GB SD Card 】...'
 sku: 'B082PSBBMM-es'
-tags: [ 'wifi', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

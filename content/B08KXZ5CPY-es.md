@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KXZ5CPY-es Epson EB-FH06 - Proyector Full HD de 1080p relación de...'
 sku: 'B08KXZ5CPY-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 551.99 EUR
 currency: EUR
 price: 551.99

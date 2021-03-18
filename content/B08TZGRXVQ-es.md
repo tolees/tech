@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TZGRXVQ-es TAIFU Adaptador de Corriente de 9V 2A 18W Cargador para...'
 sku: 'B08TZGRXVQ-es'
-tags: [ 'arduino','impresora','móvil', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

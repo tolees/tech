@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWKFQD6-es ASUS ROG Gaming Wrist Rest'
 sku: 'B07HWKFQD6-es'
-tags: [ 'asus', ]
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

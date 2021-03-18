@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD2D2B7-es INFILAND Funda para Microsoft Surface Pro 7 2019 / Surface...'
 sku: 'B07FD2D2B7-es'
-tags: [ 'microsoft', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYF94N8-es Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1...'
 sku: 'B07CYF94N8-es'
-tags: [ 'iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

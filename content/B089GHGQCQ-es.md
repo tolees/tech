@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089GHGQCQ-es Orangeck Auriculares Bluetooth 5.0 Auricular Inalámbrico...'
 sku: 'B089GHGQCQ-es'
-tags: [ 'auriculares','bluetooth','smartphone', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

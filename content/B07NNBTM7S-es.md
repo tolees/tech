@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NNBTM7S-es Jabra Move Style Edition – Auriculares On-Ear Conexión...'
 sku: 'B07NNBTM7S-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

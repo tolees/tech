@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RSVN89-es Regleta Inteligente con 3 Zócalos Control Individual...'
 sku: 'B085RSVN89-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para móviles','Ampliadores y magnificadores para pantallas de teléfonos móviles','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Cables USB','Cables y accesorios','Cables y conectores','Clientes de streaming','Comunicación móvil y accesorios','Consolas Nintendo Switch','Deportes y aire libre','Dispositivos de red','Dispositivos para el streaming','Electrónica','Electrónica y dispositivos para el deporte','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Instalación eléctrica','Monitores de actividad','Móviles','Móviles y smartphones libres','Robots aspiradores','Routers','Smartwatches','Tablets','Tecnología para vestir','Tiras LED de interior','Videojuegos','Webcams y telefonía VoIP','alexa','google','gosund','home','wifi', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

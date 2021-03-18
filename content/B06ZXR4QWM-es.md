@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZXR4QWM-es ZTE A610 Plus - Smartphone Libre de 5.5" Cámara Principal...'
 sku: 'B06ZXR4QWM-es'
-tags: [ 'smartphone', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

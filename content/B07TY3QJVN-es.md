@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY3QJVN-es Alcatel 1S - Smartphone de 5.5" Octacore RAM de 4 GB...'
 sku: 'B07TY3QJVN-es'
-tags: [ 'ram','smartphone', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear soporte de sujeción o carga para...'
 sku: 'B07NGTKWWM-es'
-tags: [ 'smartphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

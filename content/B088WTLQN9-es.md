@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WTLQN9-es JideTech Cámara Web 1080P Autofocus con micrófono cámara...'
 sku: 'B088WTLQN9-es'
-tags: [ '1080p', ]
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

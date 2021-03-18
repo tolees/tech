@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5ARU9A-es Ink Seller - Cartuchos de tinta para impresora compatibles...'
 sku: 'B01N5ARU9A-es'
-tags: [ 'impresora', ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

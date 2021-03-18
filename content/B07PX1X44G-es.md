@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX1X44G-es Xnuoyo 17.3" Mochila Portatil para 12-17 Pulgadas...'
 sku: 'B07PX1X44G-es'
-tags: [ 'auriculares','ordenador', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

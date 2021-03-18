@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD9LY7S-es Fujifilm Instax Mini 70 - Cámara analógica instantánea ISO...'
 sku: 'B01HD9LY7S-es'
-tags: [ 'fujifilm', ]
 actualPrice: 89.94 EUR
 currency: EUR
 price: 89.94

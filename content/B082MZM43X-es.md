@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082MZM43X-es Lenovo G25-10 24.5 " FHD TN G-Sync Gaming Monitor 144 Hz 1...'
 sku: 'B082MZM43X-es'
-tags: [ 'lenovo', ]
 actualPrice: 190.95 EUR
 currency: EUR
 price: 190.95

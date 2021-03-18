@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZYLT62S-es MCHENG 14 Pulgada Funda Laptop para MacBook Pro Bolsa a...'
 sku: 'B07ZYLT62S-es'
-tags: [ 'asus','lenovo','toshiba', ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

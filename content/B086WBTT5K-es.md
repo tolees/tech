@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086WBTT5K-es JOOWIN WiFi Adaptador USB wifi usb 1300Mbps WiFi Antena...'
 sku: 'B086WBTT5K-es'
-tags: [ 'tablet','wifi', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

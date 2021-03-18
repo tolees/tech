@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
 sku: 'B076LJHZVD-es'
-tags: [ 'galaxy','iphone','samsung', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

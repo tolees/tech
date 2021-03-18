@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ST75NM-es WONEW Anillo de Luz LED 10" de Escritorio 3 Colores 10...'
 sku: 'B083ST75NM-es'
-tags: [ 'bluetooth', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

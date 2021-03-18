@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHY92R4-es PiAEK Adaptador WiFi USB 1200Mbps USB 3.0 Dongle WiFi...'
 sku: 'B08BHY92R4-es'
-tags: [ 'wifi', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

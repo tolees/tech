@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011UU3KC8-es Krom KOPA - NXKROMKPST - Auriculares Micro Gaming Pro...'
 sku: 'B011UU3KC8-es'
-tags: [ 'auriculares', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

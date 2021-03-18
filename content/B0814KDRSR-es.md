@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814KDRSR-es VicTsing Ratón Inalámbrico Recargable 2.4G Raton...'
 sku: 'B0814KDRSR-es'
-tags: [ 'ratón', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9XXC1M-es ENEGON Batería de Repuesto Paquete de 2 y Kit de Cargador...'
 sku: 'B07P9XXC1M-es'
-tags: [ 'nikon', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

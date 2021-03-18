@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8RYGC4-es Anker Soundbuds - Auriculares in-Ear inalámbricos con...'
 sku: 'B07N8RYGC4-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

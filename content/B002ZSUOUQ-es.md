@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ZSUOUQ-es Panasonic RF-3500E9-K - Radio Portátil FM/AM/LW/SW 1000 mW...'
 sku: 'B002ZSUOUQ-es'
-tags: [ 'panasonic', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

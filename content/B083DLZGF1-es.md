@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083DLZGF1-es UNBREAKcable Soporte Magnético Teléfono Móvil Coche...'
 sku: 'B083DLZGF1-es'
-tags: [ 'huawei','iphone','móvil','samsung', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

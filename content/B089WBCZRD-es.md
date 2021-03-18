@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WBCZRD-es Xiaomi Redmi 9 - Smartphone 3GB 32GB Pantalla FHD+ de...'
 sku: 'B089WBCZRD-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

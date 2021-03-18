@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPT7SW3-es ivoler Correas para Xiaomi Mi Band 4 / Mi Band 3 [20...'
 sku: 'B07ZPT7SW3-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

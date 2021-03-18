@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZXI7UFC-es Panasonic Lumix DMC-G7KEC - Cámara EVIL de 16 MP Pantalla...'
 sku: 'B00ZXI7UFC-es'
-tags: [ 'panasonic', ]
 actualPrice: 621.1 EUR
 currency: EUR
 price: 621.1

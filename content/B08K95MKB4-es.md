@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K95MKB4-es NEWHEY Maletin Portatil 15.6 Pulgadas Maletin Ordenador...'
 sku: 'B08K95MKB4-es'
-tags: [ 'ordenador', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

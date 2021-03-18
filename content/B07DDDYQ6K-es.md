@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDDYQ6K-es Organizador de escritorio multifuncional con tableta de...'
 sku: 'B07DDDYQ6K-es'
-tags: [ 'móvil', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

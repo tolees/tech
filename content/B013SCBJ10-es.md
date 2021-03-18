@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013SCBJ10-es Netgear EX6120 Amplificador de WiFi AC1200 Mbps repetidor...'
 sku: 'B013SCBJ10-es'
-tags: [ 'netgear','wifi', ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

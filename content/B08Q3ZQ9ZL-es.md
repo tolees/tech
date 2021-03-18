@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q3ZQ9ZL-es GOOJODOQ Funda con Teclado para iPad Air 4 10.9" 2020'
 sku: 'B08Q3ZQ9ZL-es'
-tags: [ 'teclado', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

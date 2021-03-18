@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SW94XFD-es Fintie Funda Compatible con Samsung Galaxy Tab A 10.1 2019...'
 sku: 'B07SW94XFD-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

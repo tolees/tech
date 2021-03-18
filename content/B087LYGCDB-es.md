@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LYGCDB-es Oihxse Cristal Compatible con Samsung Galaxy J730/J7 Pro...'
 sku: 'B087LYGCDB-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

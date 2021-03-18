@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HS8K4C7-es Sharp GX-BT280 BL - Altavoz Bluetooth portátil 20 W...'
 sku: 'B07HS8K4C7-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

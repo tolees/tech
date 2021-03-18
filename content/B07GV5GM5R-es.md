@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GV5GM5R-es ELEGIANT Altavoz PC Altavoces USB para Ordenador Mini...'
 sku: 'B07GV5GM5R-es'
-tags: [ 'móvil','ordenador','altavoz', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

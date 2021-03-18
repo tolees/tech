@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVHL121-es REDSTORM Mando para Nintendo Switch Turbo y Giroscopio...'
 sku: 'B08CVHL121-es'
-tags: [ 'bluetooth','nintendo','nintendo','switch', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

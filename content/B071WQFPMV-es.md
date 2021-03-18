@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WQFPMV-es DYNASONIC - Altavoz Karaoke Bluetooth 10W Color Rosa |...'
 sku: 'B071WQFPMV-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

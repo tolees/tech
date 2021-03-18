@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CVZFZD-es Cámara Web AUKEY de 1080p Cámara de Computadora USB Full...'
 sku: 'B087CVZFZD-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

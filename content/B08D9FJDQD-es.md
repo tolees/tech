@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9FJDQD-es Ajustable Mesa de Cama para Portátil NEARPOW Mesa Plegable...'
 sku: 'B08D9FJDQD-es'
-tags: [ 'ordenador', ]
 actualPrice: 46.74 EUR
 currency: EUR
 price: 46.74

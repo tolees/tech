@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LNP7XN9-es Cecotec Calefactor cerámico ReadyWarm 6350 Ceramic Touch...'
 sku: 'B08LNP7XN9-es'
-tags: [ 'wifi', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

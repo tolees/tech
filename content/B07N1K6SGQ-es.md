@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1K6SGQ-es Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre...'
 sku: 'B07N1K6SGQ-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Cables USB','Cables y accesorios','Cables y conectores','Dispositivos de red','Hogar y cocina','Informática','Robots aspiradores','Routers','Webcams y telefonía VoIP','alexa','ecovacs','wifi', ]
 actualPrice: 246.79 EUR
 currency: EUR
 price: 246.79

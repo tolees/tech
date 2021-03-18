@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1DMXTT-es EUREKA ERGONOMIC - Escritorio para Videojuegos Z1S Pro...'
 sku: 'B07V1DMXTT-es'
-tags: [ 'ratón', ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

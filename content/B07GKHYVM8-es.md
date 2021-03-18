@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKHYVM8-es ZOLO Liberty True-Wireless Auriculares autonomía de hasta...'
 sku: 'B07GKHYVM8-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

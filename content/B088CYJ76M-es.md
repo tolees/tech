@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CYJ76M-es Cámara Web 1080P con Micrófono Computadora Portátil PC de...'
 sku: 'B088CYJ76M-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

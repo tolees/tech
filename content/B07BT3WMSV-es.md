@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BT3WMSV-es Neewer F100 7" 1280x800 IPS Pantalla Kit de Monitor Campo...'
 sku: 'B07BT3WMSV-es'
-tags: [ 'ips', ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

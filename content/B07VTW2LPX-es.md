@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VTW2LPX-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07VTW2LPX-es'
-tags: [ 'disco','duro','western digital', ]
 actualPrice: 101.0 EUR
 currency: EUR
 price: 101.0

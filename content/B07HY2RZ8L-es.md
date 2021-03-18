@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY2RZ8L-es Fujifilm Instax SQ6 - Cámara Analógica Instantánea Formato...'
 sku: 'B07HY2RZ8L-es'
-tags: [ 'fujifilm', ]
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

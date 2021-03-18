@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073GXZZYD-es AMANKA VGA a HDMI Adaptador Convertidor de Video 1080P...'
 sku: 'B073GXZZYD-es'
-tags: [ '1080p', ]
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

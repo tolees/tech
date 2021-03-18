@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG6YDXW-es Trust Taro Pack Teclado y Ratón con Cable - Disposición...'
 sku: 'B08DG6YDXW-es'
-tags: [ 'ordenador','ratón','teclado', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

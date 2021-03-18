@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94DTZK-es 19V 3.16A 60W Adaptador de CA / cargador de computadora...'
 sku: 'B07B94DTZK-es'
-tags: [ 'samsung', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

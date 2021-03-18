@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNNL89Z-es Black Shark 2 8GB+128GB Azul con Pro Kit Black Shark Funda...'
 sku: 'B07WNNL89Z-es'
-tags: [ 'móvil', ]
 actualPrice: 487.55 EUR
 currency: EUR
 price: 487.55

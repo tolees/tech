@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719FKQKL-es BigBen Interactive TW12CDPARIS3 - Torre Multimedia con...'
 sku: 'B0719FKQKL-es'
-tags: [ 'bluetooth', ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G19NLQF-es Meidong Barra de Sonido para TV Bluetooth 4.2 Inalámbrico...'
 sku: 'B08G19NLQF-es'
-tags: [ 'bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

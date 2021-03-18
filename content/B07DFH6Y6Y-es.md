@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFH6Y6Y-es Proyector DR.Q con Pantalla de Proyección 5000 Lúmenes...'
 sku: 'B07DFH6Y6Y-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

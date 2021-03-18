@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZTLLJ2-es GoPro AMCRU-001 - Lector de Tarjetas MicroSD Portátil con...'
 sku: 'B01LZTLLJ2-es'
-tags: [ 'microsd', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

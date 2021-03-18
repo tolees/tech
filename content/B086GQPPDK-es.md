@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086GQPPDK-es IVSO Backlit Español Ñ Teclado para Lenovo Tab M10 FHD...'
 sku: 'B086GQPPDK-es'
-tags: [ 'lenovo','teclado', ]
 actualPrice: 32.25 EUR
 currency: EUR
 price: 32.25

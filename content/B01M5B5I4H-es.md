@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5B5I4H-es Razer Ornata Chroma - Teclado Gaming Estándar con USB...'
 sku: 'B01M5B5I4H-es'
-tags: [ 'teclado', ]
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

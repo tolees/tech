@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de...'
 sku: 'B07ZRKF8VN-es'
-tags: [ 'nikon', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

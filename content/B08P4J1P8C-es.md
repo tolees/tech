@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4J1P8C-es RAVIAD Cable USB Tipo C [2Pack 3M] Cargador Tipo C Carga...'
 sku: 'B08P4J1P8C-es'
-tags: [ 'galaxy','huawei', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

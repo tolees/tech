@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZVBZ13-es Microsoft Surface Laptop Go - Ordenador portátil 2 en 1 de...'
 sku: 'B08JZVBZ13-es'
-tags: [ 'microsoft','ordenador','ram', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

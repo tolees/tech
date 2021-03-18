@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z3V9WT-es HP LaserJet Pro M28w - Impresora multifunción láser USB...'
 sku: 'B079Z3V9WT-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

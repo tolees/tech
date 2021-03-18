@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTT6QGL-es Molyflower 1 PC Cámara Web HD 1080P Cámara de Video de...'
 sku: 'B08BTT6QGL-es'
-tags: [ '1080p', ]
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

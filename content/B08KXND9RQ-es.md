@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KXND9RQ-es Condikey - Videocámara 4K WiFi Cámara Digital UHD Vlogging...'
 sku: 'B08KXND9RQ-es'
-tags: [ 'condikey','wifi', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

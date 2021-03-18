@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015YP7CYM-es Beurer BM57 - Tensiometro de brazo con bluetooth color blanco'
 sku: 'B015YP7CYM-es'
-tags: [ 'bluetooth', ]
 actualPrice: 58.04 EUR
 currency: EUR
 price: 58.04

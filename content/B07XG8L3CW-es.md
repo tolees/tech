@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG8L3CW-es Muzili Auriculares Bluetooth Deportivos V5.0 IPX7...'
 sku: 'B07XG8L3CW-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','auriculares','bluetooth','muzili', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNH9TJS-es HDMI a SCART Convertidor convierte la señal digital de...'
 sku: 'B08DNH9TJS-es'
-tags: [ '1080p', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

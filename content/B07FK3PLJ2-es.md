@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK3PLJ2-es Samsung MG23J5133AK/EC Microondas con Grill 23 Litros de...'
 sku: 'B07FK3PLJ2-es'
-tags: [ 'samsung', ]
 actualPrice: 81.82 EUR
 currency: EUR
 price: 81.82

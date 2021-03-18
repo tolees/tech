@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYNLWC1-es Panasonic ER-GB43-K503 - Recortador WET&DRY de barba para...'
 sku: 'B07XYNLWC1-es'
-tags: [ 'Cortapelos y barberos','panasonic', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

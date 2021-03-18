@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T5LLKS2-es Toner Kingdom 20 Pack 570XL 571XL Cartuchos de Tinta...'
 sku: 'B08T5LLKS2-es'
-tags: [ 'canon', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

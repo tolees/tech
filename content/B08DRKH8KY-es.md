@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRKH8KY-es MSI Modern 14 B10RBSW-064XES - Ordenador portátil...'
 sku: 'B08DRKH8KY-es'
-tags: [ 'Portátiles','msi','ordenador','ram','teclado', ]
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99

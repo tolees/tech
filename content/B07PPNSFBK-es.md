@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPNSFBK-es Seagate Technology - Seagate Game Drive 2 TB Unidad de...'
 sku: 'B07PPNSFBK-es'
-tags: [ 'Accesorios','Accesorios para PlayStation 4','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Discos duros externos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Hardware y juegos para PlayStation 4','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Switches de red','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','Videojuegos','disco','duro','ps4','seagate technology', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

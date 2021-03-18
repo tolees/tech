@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDY3SJF-es LG 24MP59G-P - Monitor Gaming de 60 4 cm 23 8" Full HD...'
 sku: 'B06XDY3SJF-es'
-tags: [ 'ips','full','hd', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

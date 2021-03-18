@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQX7DS2-es Pnakqil Funda Xiaomi Redmi 7A Clear Transparente Silicona...'
 sku: 'B07WQX7DS2-es'
-tags: [ 'xiaomi', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

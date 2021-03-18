@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGGW3QF-es Pecute Juguete para Gatos con Diseño de Torre con 4...'
 sku: 'B07JGGW3QF-es'
-tags: [ 'ratón', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

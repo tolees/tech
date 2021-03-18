@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FSVXNC2-es CNYMANY - Ratón Gaming Programable 8 Botones Programables...'
 sku: 'B08FSVXNC2-es'
-tags: [ 'ratón', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YZM1FN-es Romoss Batería Externa Móvil 20000 mAh Power Bank 2...'
 sku: 'B071YZM1FN-es'
-tags: [ 'móvil', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

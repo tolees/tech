@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016UPAVDE-es Apple Magic Mouse 2 Plata'
 sku: 'B016UPAVDE-es'
-tags: [ 'apple', ]
 actualPrice: 71.98 EUR
 currency: EUR
 price: 71.98

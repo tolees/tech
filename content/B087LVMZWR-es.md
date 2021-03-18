@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LVMZWR-es Oihxse Cristal Compatible con Samsung Galaxy S20+/S20 Plus...'
 sku: 'B087LVMZWR-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

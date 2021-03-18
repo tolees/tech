@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I9X2KGM-es Sony DSC-HX400V - Cámara compacta de 20.4 MP pantalla de...'
 sku: 'B00I9X2KGM-es'
-tags: [ 'sony','full','hd', ]
 actualPrice: 391.79 EUR
 currency: EUR
 price: 391.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSXX3NS-es Intel Optane Memory Unidad de Estado sólido M.2 32 GB PCI...'
 sku: 'B06XSXX3NS-es'
-tags: [ 'disco','duro', ]
 actualPrice: 52.88 EUR
 currency: EUR
 price: 52.88

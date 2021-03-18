@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DG2YF4G-es VICTSING Pack Teclado y Ratón Inalámbrico 2.4 GHz QWERTY...'
 sku: 'B07DG2YF4G-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

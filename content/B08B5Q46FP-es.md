@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B5Q46FP-es POWERADD Batería Externa 10000mAh Power Bank 18W Cargador...'
 sku: 'B08B5Q46FP-es'
-tags: [ 'huawei','iphone','samsung','xiaomi', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

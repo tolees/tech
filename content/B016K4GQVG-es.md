@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016K4GQVG-es UBIQUITI Networks - Ubiquiti UAP-AC-LITE - Punto de acceso...'
 sku: 'B016K4GQVG-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Barebones','Dispositivos de red','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','ubiquiti','ubiquiti networks', ]
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

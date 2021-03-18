@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084P34JWN-es Cecotec Robot aspirador y fregasuelos Conga 2290 Panoramic...'
 sku: 'B084P34JWN-es'
-tags: [ 'Adaptadores de red','Adaptadores de red USB','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Dispositivos de red','Hogar y cocina','Informática','Monitores','Robots aspiradores','Transceptores de red','alexa','cecotec', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

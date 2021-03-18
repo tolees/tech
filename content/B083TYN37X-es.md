@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TYN37X-es MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para...'
 sku: 'B083TYN37X-es'
-tags: [ 'auriculares', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNWSJTN-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Band 5 [4...'
 sku: 'B08DNWSJTN-es'
-tags: [ 'xiaomi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

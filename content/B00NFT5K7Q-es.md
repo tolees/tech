@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFT5K7Q-es E-Vitta EVUN000298 - Funda con soporte para tablet de...'
 sku: 'B00NFT5K7Q-es'
-tags: [ 'tablet', ]
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

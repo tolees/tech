@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBW5XJ1-es Baseus Soporte Móvil Coche Soporte del Coche Móvil...'
 sku: 'B07GBW5XJ1-es'
-tags: [ 'iphone','móvil','samsung', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFL59D2-es Energy Sistem Fabric Box 1+ Pocket Blueberry Altavoz...'
 sku: 'B07HFL59D2-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

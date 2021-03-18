@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JY4DCJJ-es Sendowtek Auriculares sem fios Diadema com microfone...'
 sku: 'B08JY4DCJJ-es'
-tags: [ 'auriculares','bluetooth','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

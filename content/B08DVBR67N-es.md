@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DVBR67N-es Samsung Galaxy Watch3 Smartwatch de 41mm I LTE I Reloj...'
 sku: 'B08DVBR67N-es'
-tags: [ 'galaxy','lte','samsung','smartwatch', ]
 actualPrice: 332.7 EUR
 currency: EUR
 price: 332.7

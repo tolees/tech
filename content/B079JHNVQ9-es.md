@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JHNVQ9-es Cámara IP Cámara de Vigilancia QZT 1080P WiFi con Visión...'
 sku: 'B079JHNVQ9-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

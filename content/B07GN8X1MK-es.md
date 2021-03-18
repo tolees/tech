@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN8X1MK-es ZIGLINT Cargador Inalámbrico Coche Rápido Cargador Qi de...'
 sku: 'B07GN8X1MK-es'
-tags: [ 'galaxy','huawei','iphone','móvil','samsung','xiaomi', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

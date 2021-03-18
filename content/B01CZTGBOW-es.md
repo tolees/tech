@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CZTGBOW-es Logitech G G900 Ratón Negro'
 sku: 'B01CZTGBOW-es'
-tags: [ 'logitech','ratón', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

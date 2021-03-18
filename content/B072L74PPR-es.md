@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072L74PPR-es UrChoiceLtd Teclado Ratón Teclado Arcoiris Arcoiris...'
 sku: 'B072L74PPR-es'
-tags: [ 'ordenador','ratón','teclado', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

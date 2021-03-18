@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPWY8S6-es Trust Arys - Barra de sonido para ordenador USB color negro'
 sku: 'B07GPWY8S6-es'
-tags: [ 'ordenador', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F1T33DC-es WAVLINK AC1200 Dual Band WiFi Gigabit Range Extender...'
 sku: 'B07F1T33DC-es'
-tags: [ 'gigabit','wifi', ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

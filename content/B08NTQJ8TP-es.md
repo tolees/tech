@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTQJ8TP-es ASUS ZenBook 14 UX425EA-HM165T - Portátil de 14 " FullHD...'
 sku: 'B08NTQJ8TP-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1019.92 EUR
 currency: EUR
 price: 1019.92

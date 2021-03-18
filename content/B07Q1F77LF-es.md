@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1F77LF-es IVSO Funda Carcasa para Nuevo Kindle 10th Generation 2019...'
 sku: 'B07Q1F77LF-es'
-tags: [ 'kindle', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

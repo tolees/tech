@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBR79W2-es HP Obelisk Desktop 7VZ40EA - Ordenador de sobremesa Intel...'
 sku: 'B07YBR79W2-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 849.99 EUR
 currency: EUR
 price: 849.99

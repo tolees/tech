@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PJV9JCW-es EMPIRE GAMING - Pack Hellhounds Layout QWERTY Español...'
 sku: 'B07PJV9JCW-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

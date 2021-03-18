@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3DKQHC-es Panasonic NN-K10JWMEPG Microondas Compacto 20 L 800 W 2...'
 sku: 'B07D3DKQHC-es'
-tags: [ 'panasonic', ]
 actualPrice: 92.53 EUR
 currency: EUR
 price: 92.53

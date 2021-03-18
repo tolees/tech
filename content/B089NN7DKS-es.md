@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NN7DKS-es XITODA Funda para Lenovo Tab M10 FHD Plus TB-X606F...'
 sku: 'B089NN7DKS-es'
-tags: [ 'lenovo','tablet', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WB4Q4S-es RAVIAD - Cable Cargador iPhone [3Pack 2M] Cable Lightning...'
 sku: 'B082WB4Q4S-es'
-tags: [ 'iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

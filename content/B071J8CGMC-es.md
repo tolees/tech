@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J8CGMC-es Garmin VIRB 360 C&ampaacutemara de accci&ampoacuten con...'
 sku: 'B071J8CGMC-es'
-tags: [ 'garmin','gps', ]
 actualPrice: 676.16 EUR
 currency: EUR
 price: 676.16

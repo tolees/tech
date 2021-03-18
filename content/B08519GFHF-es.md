@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08519GFHF-es POWERADD EnergyCell II Batería Externa USB C 26800mAh con...'
 sku: 'B08519GFHF-es'
-tags: [ 'huawei','iphone','móvil','samsung','xiaomi', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

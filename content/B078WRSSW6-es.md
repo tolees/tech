@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WRSSW6-es Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco estado solido SSD...'
 sku: 'B078WRSSW6-es'
-tags: [ 'samsung', ]
 actualPrice: 281.41 EUR
 currency: EUR
 price: 281.41

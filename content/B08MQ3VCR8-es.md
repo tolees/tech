@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQ3VCR8-es ANSGEC Soporte Portatil Todo aluminio estable soporte para...'
 sku: 'B08MQ3VCR8-es'
-tags: [ 'dell','ordenador', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

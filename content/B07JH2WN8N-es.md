@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JH2WN8N-es Coener T9 Ratón Inalámbrico Delgado Portatil Silencioso...'
 sku: 'B07JH2WN8N-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

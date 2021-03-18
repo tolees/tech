@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LEP4CQS-es Panasonic KX-TGB213 - Teléfono fijo inalámbrico Trío LCD...'
 sku: 'B00LEP4CQS-es'
-tags: [ 'panasonic', ]
 actualPrice: 43.91 EUR
 currency: EUR
 price: 43.91

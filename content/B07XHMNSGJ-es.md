@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHMNSGJ-es Inventor EVA II Pro Wifi 20 litros/día Deshumidificador...'
 sku: 'B07XHMNSGJ-es'
-tags: [ 'wifi', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

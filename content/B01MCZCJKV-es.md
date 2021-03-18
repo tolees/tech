@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MCZCJKV-es Trust Ziva - Auriculares con micrófono para ordenador...'
 sku: 'B01MCZCJKV-es'
-tags: [ 'auriculares','ordenador', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

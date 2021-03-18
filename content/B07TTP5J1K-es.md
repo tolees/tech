@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTP5J1K-es GIGABYTE X570 AORUS Master'
 sku: 'B07TTP5J1K-es'
-tags: [ 'gigabyte', ]
 actualPrice: 358.5 EUR
 currency: EUR
 price: 358.5

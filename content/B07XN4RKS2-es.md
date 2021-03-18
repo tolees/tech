@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XN4RKS2-es PITAYA - Transmisor Bluetooth Adaptador Bluetooth Emisor...'
 sku: 'B07XN4RKS2-es'
-tags: [ 'bluetooth', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

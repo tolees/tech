@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08593JQNK-es Oihxse Funda Xiaomi Redmi 7 Ultra Delgado Transparente TPU...'
 sku: 'B08593JQNK-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014SQ2VQM-es Tamron SP - Objetivo para Canon DSLR Distancia Focal Fija...'
 sku: 'B014SQ2VQM-es'
-tags: [ 'canon', ]
 actualPrice: 550.36 EUR
 currency: EUR
 price: 550.36

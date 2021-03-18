@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S6MF67Q-es Generial - Disco duro externo de 2 TB portátil para PC...'
 sku: 'B08S6MF67Q-es'
-tags: [ 'ordenador','disco','duro', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

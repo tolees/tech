@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085BP7ZC5-es Xiaomi XM200023 Robot Aspirador 33 W 0.3 litros 76...'
 sku: 'B085BP7ZC5-es'
-tags: [ 'xiaomi', ]
 actualPrice: 294.99 EUR
 currency: EUR
 price: 294.99

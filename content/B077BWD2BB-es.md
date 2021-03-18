@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077BWD2BB-es Sigma 16 mm F1.4 DC DN Contemporary - Objetivo para Sony E...'
 sku: 'B077BWD2BB-es'
-tags: [ 'sony', ]
 actualPrice: 338.0 EUR
 currency: EUR
 price: 338.0

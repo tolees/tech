@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFH59F7-es Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la...'
 sku: 'B07RFH59F7-es'
-tags: [ 'huawei', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

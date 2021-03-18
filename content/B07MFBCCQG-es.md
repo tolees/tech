@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MFBCCQG-es Sony PS-LX310BT - Tocadiscos Conectividad Bluetooth admite...'
 sku: 'B07MFBCCQG-es'
-tags: [ 'bluetooth','sony', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

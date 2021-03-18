@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848P2KVH-es 7hSevenOn Home Termostato WiFi para Calefacción o Aire...'
 sku: 'B0848P2KVH-es'
-tags: [ 'wifi', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087TDQJTV-es VAVA - USB C HUB 9 en 1 Concentrador Type C HDMI 4K PD...'
 sku: 'B087TDQJTV-es'
-tags: [ 'dell','samsung', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

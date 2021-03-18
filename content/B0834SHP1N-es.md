@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834SHP1N-es yootech Adaptador USB C a USB 3.0 [4 Pack] Uso en Paralelo...'
 sku: 'B0834SHP1N-es'
-tags: [ 'huawei','samsung', ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

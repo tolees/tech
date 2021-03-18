@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQBVZ16-es PRIXTON Goya P20 - Mini Proyector Portatil / Proyector...'
 sku: 'B07XQBVZ16-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Adaptadores','Adaptadores USB','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Barebones','Bombillas','Bombillas Wi-Fi','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hogar y cocina','Iluminación','Informática','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Ratones','Ratones para gamers para PC','Robots aspiradores','Smartwatches','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','microsd','prixton', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

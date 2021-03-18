@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LMVBZW-es HUAWEI P40 Lite - Smartphone 6.4" Kirin 810 6GB RAM 128GB...'
 sku: 'B085LMVBZW-es'
-tags: [ 'huawei','ram','smartphone', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

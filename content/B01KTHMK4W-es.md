@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KTHMK4W-es Yamaha PSR-F51 - Teclado digital portátil para...'
 sku: 'B01KTHMK4W-es'
-tags: [ 'teclado', ]
 actualPrice: 98.95 EUR
 currency: EUR
 price: 98.95

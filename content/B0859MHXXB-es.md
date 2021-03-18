@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0859MHXXB-es [New] TP-Link AC1900 - Router inalámbrico Doble Banda 2 4...'
 sku: 'B0859MHXXB-es'
-tags: [ 'wifi', ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

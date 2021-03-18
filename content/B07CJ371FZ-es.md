@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJ371FZ-es Panasonic SC-HTB200EGK - Barra de Sonido para el Hogar...'
 sku: 'B07CJ371FZ-es'
-tags: [ 'panasonic', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

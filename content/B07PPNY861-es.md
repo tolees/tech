@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPNY861-es Soundcore Flare Mini Altavoz Bluetooth Altavoz inalámbrico...'
 sku: 'B07PPNY861-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

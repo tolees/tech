@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8E8YES-es HyperX Fury - Memoria RAM de 16 GB 1600 MHz DDR3 Non-ECC...'
 sku: 'B00J8E8YES-es'
-tags: [ 'ram', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

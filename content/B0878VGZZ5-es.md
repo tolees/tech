@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0878VGZZ5-es Roffie Webcam Full HD 1080p Video Web CAM Dual Micrófono...'
 sku: 'B0878VGZZ5-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

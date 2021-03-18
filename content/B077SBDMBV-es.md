@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SBDMBV-es Razer Lancehead Tournament Edition - Ratón para gaming...'
 sku: 'B077SBDMBV-es'
-tags: [ 'ratón', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

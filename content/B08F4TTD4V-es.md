@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F4TTD4V-es Adaptador usb ethernet RAMPOW Adaptador ethernet a USB A...'
 sku: 'B08F4TTD4V-es'
-tags: [ 'dell','gigabit', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

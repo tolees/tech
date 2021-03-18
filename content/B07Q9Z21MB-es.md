@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q9Z21MB-es VAESIDA - Funda para MacBook Pro de 13 pulgadas funda para...'
 sku: 'B07Q9Z21MB-es'
-tags: [ 'teclado', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P15VTHY-es Cargador USB C Amoner 20w y Cable de Carga para iPhone...'
 sku: 'B08P15VTHY-es'
-tags: [ 'iphone', ]
 actualPrice: 10.57 EUR
 currency: EUR
 price: 10.57

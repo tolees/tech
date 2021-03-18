@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08598FXBN-es Oihxse Funda Samsung Galaxy S6 Ultra Delgado Transparente...'
 sku: 'B08598FXBN-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

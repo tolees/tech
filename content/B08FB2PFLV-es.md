@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FB2PFLV-es JBL Partybox 310 - Altavoz portátil Bluetooth con sonido...'
 sku: 'B08FB2PFLV-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

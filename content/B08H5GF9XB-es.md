@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H5GF9XB-es ASUS VP229Q Monitor Eye Care ASUS VP229Q: 21.5" FHD 1920 x...'
 sku: 'B08H5GF9XB-es'
-tags: [ 'asus','ips', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

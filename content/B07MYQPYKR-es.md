@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYQPYKR-es Cable de consola USB BENFEI 1 8m USB a RJ45 Compatible con...'
 sku: 'B07MYQPYKR-es'
-tags: [ 'netgear', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

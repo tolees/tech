@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PV82TRY-es ZIPRINT 5 Multipack Toner Compatible Samsung CLT-404C...'
 sku: 'B07PV82TRY-es'
-tags: [ 'samsung', ]
 actualPrice: 83.0 EUR
 currency: EUR
 price: 83.0

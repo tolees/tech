@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDQB5P5-es Altavoz 30W Portátil Bluetooth 5.0 AY Impermeable IPX7...'
 sku: 'B07FDQB5P5-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','ay','bluetooth', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

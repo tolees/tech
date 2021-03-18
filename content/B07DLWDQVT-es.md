@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLWDQVT-es DURAGADGET Trípode Profesional para Cámara Fujifilm X-T100...'
 sku: 'B07DLWDQVT-es'
-tags: [ 'fujifilm','sony', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

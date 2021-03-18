@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SWLCSTB-es Adikao - Tiras LED WiFi 10M Luces LED RGB SMD 5050 con...'
 sku: 'B08SWLCSTB-es'
-tags: [ 'wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

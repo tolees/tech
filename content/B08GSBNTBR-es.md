@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSBNTBR-es Karinear Webcam con Micrófono Cámara Web de Full HD 2K...'
 sku: 'B08GSBNTBR-es'
-tags: [ 'full','hd', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

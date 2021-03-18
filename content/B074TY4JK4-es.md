@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074TY4JK4-es MIFA Mini Altavoz Portátil Bluetooth 4.2 Impermeable IP56...'
 sku: 'B074TY4JK4-es'
-tags: [ 'bluetooth','microsd','altavoz', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

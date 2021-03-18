@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DTTKZS-es Ringke Fusion Compatible con Funda Samsung Galaxy Note 8...'
 sku: 'B074DTTKZS-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

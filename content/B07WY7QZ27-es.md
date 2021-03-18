@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WY7QZ27-es Impresora Multifuncional Canon PIXMA TS5350 Negra Wifi de...'
 sku: 'B07WY7QZ27-es'
-tags: [ 'canon','impresora','wifi', ]
 actualPrice: 66.82 EUR
 currency: EUR
 price: 66.82

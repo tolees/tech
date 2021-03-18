@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPV2NZ8-es iRobot 4419696 Xlife Batería original para el robot...'
 sku: 'B00LPV2NZ8-es'
-tags: [ 'irobot','roomba', ]
 actualPrice: 74.09 EUR
 currency: EUR
 price: 74.09

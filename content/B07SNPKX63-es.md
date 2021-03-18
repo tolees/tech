@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNPKX63-es Amazon - Echo Show 8: mantén el contacto con la ayuda de...'
 sku: 'B07SNPKX63-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Altavoces','Altavoces y pantallas inteligentes Echo','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','alexa','amazon', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GVDLXM-es RAYROW - Reproductor de CD portátil montaje en pared...'
 sku: 'B088GVDLXM-es'
-tags: [ 'auriculares','bluetooth','altavoz', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

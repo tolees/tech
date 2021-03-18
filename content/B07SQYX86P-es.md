@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQYX86P-es Feelworld F6 Plus 5.5 Pulgadas On Camera Field Monitor...'
 sku: 'B07SQYX86P-es'
-tags: [ 'ips','full','hd', ]
 actualPrice: 159.59 EUR
 currency: EUR
 price: 159.59

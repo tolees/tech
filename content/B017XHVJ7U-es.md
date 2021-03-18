@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XHVJ7U-es Rii Rk105 RGB Teclado y Ratón Retroiluminado con Cables...'
 sku: 'B017XHVJ7U-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

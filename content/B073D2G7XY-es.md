@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073D2G7XY-es Canon EOS 6D MK II - Cámara digital réflex de 26.2 MP...'
 sku: 'B073D2G7XY-es'
-tags: [ 'bluetooth','canon','wifi', ]
 actualPrice: 1299.0 EUR
 currency: EUR
 price: 1299.0

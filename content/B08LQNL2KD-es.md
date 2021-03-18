@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LQNL2KD-es PHILIPS AUDIO - Philips B8405/10 Barra de Sonido con...'
 sku: 'B08LQNL2KD-es'
-tags: [ 'bluetooth', ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

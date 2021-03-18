@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM271QT-es Energy Sistem Tower 7 Torre de Sonido con Bluetooth...'
 sku: 'B07FM271QT-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Ratones','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','bluetooth','energy sistem', ]
 actualPrice: 107.9 EUR
 currency: EUR
 price: 107.9

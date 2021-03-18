@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP1DJ1H-es Samsung Monitor U32R590C | Monitor Curvo 32 4K sin marcos...'
 sku: 'B07NP1DJ1H-es'
-tags: [ 'samsung', ]
 actualPrice: 336.45 EUR
 currency: EUR
 price: 336.45

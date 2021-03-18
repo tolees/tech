@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJP6V6W-es Bose QuietComfort Earbuds - Auriculares realmente...'
 sku: 'B08CJP6V6W-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 189.63 EUR
 currency: EUR
 price: 189.63

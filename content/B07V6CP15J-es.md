@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6CP15J-es Mixcder E7 Auriculares Bluetooth 5.0 con Cancelacón Activa...'
 sku: 'B07V6CP15J-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

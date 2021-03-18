@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9KJMCG-es DOQAUS Auriculares Bluetooth Diadema [52 Hrs de...'
 sku: 'B07T9KJMCG-es'
-tags: [ 'Auriculares para equipo de audio','auriculares','bluetooth','doqaus', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

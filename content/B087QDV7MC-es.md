@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QDV7MC-es havit Webcam 1080P Cámara Web Full HD USB 2.0 con...'
 sku: 'B087QDV7MC-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

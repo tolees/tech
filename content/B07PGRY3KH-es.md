@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGRY3KH-es Funda con Teclado Samsung Galaxy Tab S4 Funda para Samsung...'
 sku: 'B07PGRY3KH-es'
-tags: [ 'bluetooth','galaxy','samsung','teclado', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

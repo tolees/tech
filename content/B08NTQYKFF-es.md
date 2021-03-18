@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTQYKFF-es ASUS ROG Strix G15 G512LV-HN221 - Portátil Gaming de 15.6...'
 sku: 'B08NTQYKFF-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1149.0 EUR
 currency: EUR
 price: 1149.0

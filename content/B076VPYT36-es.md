@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VPYT36-es Tenda Mw6 Nova - Sistema Mesh WiFi para todo el Hogar...'
 sku: 'B076VPYT36-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Barebones','Dispositivos de red','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Sistemas WiFi Mesh','alexa','tenda','wifi', ]
 actualPrice: 124.58 EUR
 currency: EUR
 price: 124.58

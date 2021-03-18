@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHMSY8H-es ACEPC Fanless Mini PC T6 Intel Atom Z8350 Computer Stick...'
 sku: 'B07RHMSY8H-es'
-tags: [ 'wifi', ]
 actualPrice: 93.41 EUR
 currency: EUR
 price: 93.41

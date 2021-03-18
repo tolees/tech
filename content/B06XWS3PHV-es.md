@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWS3PHV-es BenQ PD2710QC - Monitor Profesional para Diseñadores de...'
 sku: 'B06XWS3PHV-es'
-tags: [ 'ips', ]
 actualPrice: 429.01 EUR
 currency: EUR
 price: 429.01

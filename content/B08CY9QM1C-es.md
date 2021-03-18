@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY9QM1C-es MSI Creator 15 A10SD-276ES - Ordenador portátil de 15.6"...'
 sku: 'B08CY9QM1C-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1699.0 EUR
 currency: EUR
 price: 1699.0

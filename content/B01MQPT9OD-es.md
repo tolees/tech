@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQPT9OD-es ELEGOO Conjunto Mas Completo y Avanzado de Iniciación...'
 sku: 'B01MQPT9OD-es'
-tags: [ 'Barebones','Eléctrica industrial','Industria, empresas y ciencia','Informática','arduino','elegoo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

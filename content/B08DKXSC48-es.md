@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKXSC48-es Mafiti Alfombrilla de Ratón Grande Gaming Mouse Pad XXL...'
 sku: 'B08DKXSC48-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

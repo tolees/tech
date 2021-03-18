@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV4X16K-es Faburo Set de Cámara de Fotos Digital para Niños Cámara...'
 sku: 'B07VV4X16K-es'
-tags: [ '1080p', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

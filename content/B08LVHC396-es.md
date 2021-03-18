@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVHC396-es BIGGERFIVE Pulsera Actividad Inteligente Reloj Inteligente...'
 sku: 'B08LVHC396-es'
-tags: [ 'smartwatch', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

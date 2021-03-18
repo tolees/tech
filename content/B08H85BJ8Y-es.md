@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H85BJ8Y-es SAMSUNG - Barra de Sonido HW-T430/ZF de 100 W Dolby...'
 sku: 'B08H85BJ8Y-es'
-tags: [ 'bluetooth','samsung', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

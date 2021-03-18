@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQ4CXVK-es Konifo - Full HD 1080P Webcam Con Micrófono Para PC Cámara...'
 sku: 'B08JQ4CXVK-es'
-tags: [ '1080p','ordenador','full','hd', ]
 actualPrice: 21.92 EUR
 currency: EUR
 price: 21.92

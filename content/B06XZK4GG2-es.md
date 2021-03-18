@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XZK4GG2-es Brother HL-L8260CDW - Impresora láser Color WiFi Doble...'
 sku: 'B06XZK4GG2-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 303.97 EUR
 currency: EUR
 price: 303.97

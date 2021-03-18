@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DMGS1MX-es QueenDer Ratón Gaming[7200DPI] Ratón para Juegos Wired...'
 sku: 'B07DMGS1MX-es'
-tags: [ 'ratón', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

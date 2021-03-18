@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KK2ZRP-es HP Spectre Bluetooth 500 Bluetooth Blue LED 1600DPI...'
 sku: 'B072KK2ZRP-es'
-tags: [ 'bluetooth','ratón', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

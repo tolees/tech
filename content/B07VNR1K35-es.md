@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNR1K35-es Hunletai Cable iPhone Cable Lightning [2M 3Pack] Trenzado...'
 sku: 'B07VNR1K35-es'
-tags: [ 'iphone', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KV1IMMU-es ratón gaming HAVIT RGB 10000 DPI y 14 botones...'
 sku: 'B01KV1IMMU-es'
-tags: [ 'ratón', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

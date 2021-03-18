@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00380XNZS-es Panasonic ER-1411 - Cortapelos profesional Versión Importada'
 sku: 'B00380XNZS-es'
-tags: [ 'panasonic', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

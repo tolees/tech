@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTD2C8F-es devolo Magic 2 WiFi: Extensión PLC 2400 Mbps LAN y WiFi ac'
 sku: 'B07GTD2C8F-es'
-tags: [ 'plc','wifi', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QNPK1Z7-es Vieta Pro Goody - Altavoz inalámbrico True Wireless...'
 sku: 'B07QNPK1Z7-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

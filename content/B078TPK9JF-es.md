@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078TPK9JF-es Toshiba THN-M203K0160EA Tarjeta de memoria 16 GB MicroSDXC...'
 sku: 'B078TPK9JF-es'
-tags: [ 'toshiba', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

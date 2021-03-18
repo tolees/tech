@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QM8RNX-es Muvit I/O MIODDUW1 - Nube personal portátil de 1 TB WiFi...'
 sku: 'B077QM8RNX-es'
-tags: [ 'Discos duros externos','muvit','wifi', ]
 actualPrice: 104.16 EUR
 currency: EUR
 price: 104.16

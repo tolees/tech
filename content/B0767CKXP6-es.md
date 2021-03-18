@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0767CKXP6-es Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC Intel Core...'
 sku: 'B0767CKXP6-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 228.07 EUR
 currency: EUR
 price: 228.07

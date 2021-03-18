@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2KZM8X-es Asus TUF Nvidia GeForce GTX 1650 4 GB Power OC Edition...'
 sku: 'B08F2KZM8X-es'
-tags: [ 'asus', ]
 actualPrice: 233.25 EUR
 currency: EUR
 price: 233.25

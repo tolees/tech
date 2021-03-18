@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
 sku: 'B06ZYLJYXZ-es'
-tags: [ 'galaxy','samsung','sony', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

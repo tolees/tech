@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEEC66K-es Alfombrilla de Ratón con Reposamuñecas Cojín de Ratón Gel...'
 sku: 'B01HEEC66K-es'
-tags: [ 'ratón', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

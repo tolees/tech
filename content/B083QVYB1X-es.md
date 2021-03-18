@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QVYB1X-es Acer Nitro 5 - Ordenador Portátil de 15.6" FullHD AMD...'
 sku: 'B083QVYB1X-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

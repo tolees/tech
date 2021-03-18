@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005LESG-es Canon EF 70-200mm f/2.8L USM - Objetivo para Canon...'
 sku: 'B00005LESG-es'
-tags: [ 'canon', ]
 actualPrice: 1361.95 EUR
 currency: EUR
 price: 1361.95

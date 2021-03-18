@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0881X5XNB-es DYNASONIC - 3ª Gen Altavoz Bluetooth TWS Incorporado...'
 sku: 'B0881X5XNB-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

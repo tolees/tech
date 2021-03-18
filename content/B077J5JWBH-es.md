@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077J5JWBH-es Pioneer Dj - Pioneer DM-40BT altavoz De 2 vías Blanco...'
 sku: 'B077J5JWBH-es'
-tags: [ 'pioneer','altavoz', ]
 actualPrice: 156.9 EUR
 currency: EUR
 price: 156.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5R8JC1-es Energy Headphones 2 Auriculares inalámbricos con Bluetooth...'
 sku: 'B07D5R8JC1-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8L1Y5C-es loonBonnie Reloj Inteligente Resistente al Agua para...'
 sku: 'B08B8L1Y5C-es'
-tags: [ 'smartwatch', ]
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

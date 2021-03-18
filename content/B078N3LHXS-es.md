@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078N3LHXS-es Yodoit para Pantalla iPhone 6s Plus Negro Conjunto de...'
 sku: 'B078N3LHXS-es'
-tags: [ 'iphone', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

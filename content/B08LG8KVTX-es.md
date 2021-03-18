@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LG8KVTX-es Ouwegaga Pack 3 Correa de Repuesto Compatible con Apple...'
 sku: 'B08LG8KVTX-es'
-tags: [ 'apple', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

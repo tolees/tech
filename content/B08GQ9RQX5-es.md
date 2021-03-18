@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GQ9RQX5-es HUAWEI Watch GT 2 Pro - Smartwatch con Pantalla AMOLED de...'
 sku: 'B08GQ9RQX5-es'
-tags: [ 'huawei','smartwatch', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

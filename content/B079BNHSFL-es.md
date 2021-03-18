@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079BNHSFL-es XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con...'
 sku: 'B079BNHSFL-es'
-tags: [ 'ips', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

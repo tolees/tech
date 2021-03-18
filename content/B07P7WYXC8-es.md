@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7WYXC8-es Trust Gaming GXT 408 Cobra - Auriculares multiplataforma...'
 sku: 'B07P7WYXC8-es'
-tags: [ 'auriculares', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

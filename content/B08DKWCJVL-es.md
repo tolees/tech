@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKWCJVL-es Xuanbeier Ultra Delgado Funda Compatible con Samsung...'
 sku: 'B08DKWCJVL-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

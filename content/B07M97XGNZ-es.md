@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M97XGNZ-es SATECHI Cargador Adaptador de Viaje de 75W Dual Tipo-C PD...'
 sku: 'B07M97XGNZ-es'
-tags: [ 'iphone', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

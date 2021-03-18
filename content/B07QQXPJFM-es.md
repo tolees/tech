@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQXPJFM-es Vieta Pro Round Up - Altavoz inalámbrico Bluetooth radio...'
 sku: 'B07QQXPJFM-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

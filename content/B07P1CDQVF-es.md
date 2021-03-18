@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1CDQVF-es SATECHI Tipo-C de Aluminio a Adaptador de Conector para...'
 sku: 'B07P1CDQVF-es'
-tags: [ 'auriculares','galaxy','microsoft','samsung', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

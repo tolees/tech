@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQD2DJY-es iCozzier 15-15 6 Pulgadas Funda para portátil con Espuma...'
 sku: 'B01HQD2DJY-es'
-tags: [ 'asus','lenovo', ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

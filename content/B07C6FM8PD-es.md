@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C6FM8PD-es Nueva versión 2018 Rii X8 Mini Teclado inalámbrico Teclado...'
 sku: 'B07C6FM8PD-es'
-tags: [ 'teclado', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

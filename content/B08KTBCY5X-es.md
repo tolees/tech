@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTBCY5X-es Móvil Resistente 4G Blackview BV4900 Android 10...'
 sku: 'B08KTBCY5X-es'
-tags: [ 'gps','móvil','smartphone', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

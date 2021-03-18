@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0872QXP3G-es Zambrero CE285A 85A Cartucho Tóner Compatible para HP...'
 sku: 'B0872QXP3G-es'
-tags: [ 'canon', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

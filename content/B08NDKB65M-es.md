@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDKB65M-es AtailorBird Funda Ordenador Portátil 14" Cuero de PU...'
 sku: 'B08NDKB65M-es'
-tags: [ 'ordenador', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

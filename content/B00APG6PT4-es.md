@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00APG6PT4-es STANLEY 1-70-326 - Taller móvil 3 en 1'
 sku: 'B00APG6PT4-es'
-tags: [ 'móvil', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

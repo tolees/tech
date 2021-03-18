@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHG4Q4Y-es Active Era® Báscula Grasa Corporal Inteligente - Báscula...'
 sku: 'B07SHG4Q4Y-es'
-tags: [ 'bluetooth', ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

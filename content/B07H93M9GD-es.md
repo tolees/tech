@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H93M9GD-es Bovon Transmisor FM Bluetooth Transmisor de Radio...'
 sku: 'B07H93M9GD-es'
-tags: [ 'bluetooth', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084YVYVLL-es SNAPTAIN S5C Drone con Cámara 1080P HD Avión WiFi FPV por...'
 sku: 'B084YVYVLL-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

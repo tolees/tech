@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWJ9YND-es Auriculares Inalámbricos Mpow MDots Auriculares Bluetooth...'
 sku: 'B08KWJ9YND-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPWJJPL-es Samsung M471A1K43CB1-CRC 8GB DDR4 2400MH módulo de Memoria...'
 sku: 'B06XPWJJPL-es'
-tags: [ 'samsung', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

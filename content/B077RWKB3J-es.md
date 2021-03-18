@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077RWKB3J-es Sennheiser GSP 600 - Auriculares Cerrados para Juegos...'
 sku: 'B077RWKB3J-es'
-tags: [ 'auriculares', ]
 actualPrice: 205.57 EUR
 currency: EUR
 price: 205.57

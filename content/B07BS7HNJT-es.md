@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BS7HNJT-es Soporte para Portátil Lamicall Multiángulo Soporte -...'
 sku: 'B07BS7HNJT-es'
-tags: [ 'dell','lenovo','samsung', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

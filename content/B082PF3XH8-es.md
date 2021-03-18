@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PF3XH8-es Lenovo S540 - Ordenador portátil ultrafino 14" FullHD...'
 sku: 'B082PF3XH8-es'
-tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JGHUM2-es Sony ICF-P26 - Radio portátil con altavoz y sintonizador...'
 sku: 'B013JGHUM2-es'
-tags: [ 'Accesorios','Accesorios para PlayStation 4','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Antenas de red','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Discos duros externos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Hardware y juegos para PlayStation 4','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Radios portátiles','Soportes de regazo para portátiles y netbooks','Switches de red','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','Videojuegos','altavoz','sony', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

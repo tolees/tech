@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JP3M6O0-es Irobot Braava jet Paños de Limpieza para Fregar Lavables Azul'
 sku: 'B01JP3M6O0-es'
-tags: [ 'irobot', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

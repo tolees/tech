@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9WJGFX-es STAROVER Cartucho de Tóner Compatible Repuesto para HP 79A...'
 sku: 'B07B9WJGFX-es'
-tags: [ 'impresora', ]
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

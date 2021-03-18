@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G42KLZZ-es ESR 2 Pack Protector de Pantalla Compatible con iPhone 11...'
 sku: 'B07G42KLZZ-es'
-tags: [ 'iphone', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

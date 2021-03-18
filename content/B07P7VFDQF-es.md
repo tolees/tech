@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7VFDQF-es Enchufe de pared con USB 2.8A Schuko Enchufe Blanco...'
 sku: 'B07P7VFDQF-es'
-tags: [ 'smartphone','tablet', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

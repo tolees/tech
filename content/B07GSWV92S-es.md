@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSWV92S-es Jaybird X4 Auriculares Inalámbricos Bluetooth Deportivos...'
 sku: 'B07GSWV92S-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 112.76 EUR
 currency: EUR
 price: 112.76

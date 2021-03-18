@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JYJFG7F-es AGPTEK Webcam 1080P Full HD 105°con Micrófono Estéreo...'
 sku: 'B08JYJFG7F-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

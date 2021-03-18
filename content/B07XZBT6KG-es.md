@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZBT6KG-es Dell - PC Optiplex 7010 SFF- Ordenador de sobremesa Intel...'
 sku: 'B07XZBT6KG-es'
-tags: [ 'dell','ordenador','ram', ]
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

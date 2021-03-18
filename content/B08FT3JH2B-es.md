@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FT3JH2B-es DINKALEN Webcam Webcam 1080P Full HD Micrófono Integrado...'
 sku: 'B08FT3JH2B-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

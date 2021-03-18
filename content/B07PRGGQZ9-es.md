@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PRGGQZ9-es flintronic Bolsa Cintura Táctica Bolso Cinturón Táctica...'
 sku: 'B07PRGGQZ9-es'
-tags: [ 'móvil', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKHWZBL-es LxTek Compatible Cartuchos de Tóner Reemplazo para Samsung...'
 sku: 'B07FKHWZBL-es'
-tags: [ 'samsung', ]
 actualPrice: 56.34 EUR
 currency: EUR
 price: 56.34

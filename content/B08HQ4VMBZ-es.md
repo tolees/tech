@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ4VMBZ-es PINDOWS Webcam 1080P con Micrófono para PC Webcam Full HD...'
 sku: 'B08HQ4VMBZ-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

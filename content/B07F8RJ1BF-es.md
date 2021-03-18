@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F8RJ1BF-es EVOLAND Plataforma Vibratoria Máquina de Ejercicio...'
 sku: 'B07F8RJ1BF-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

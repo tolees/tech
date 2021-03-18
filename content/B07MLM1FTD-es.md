@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLM1FTD-es L3 Tech Estuche rígido para SanDisk SSD portátil SDSSDE60...'
 sku: 'B07MLM1FTD-es'
-tags: [ 'sandisk', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

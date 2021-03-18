@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7GEG9W-es Logitech M220 Ratón Inalámbrico Botones Silenciosos 2.4...'
 sku: 'B01K7GEG9W-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Ratones','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','logitech','ratón', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

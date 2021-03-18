@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNWCW3K-es OneOdio FUSION A7 Auricurales Circumaurales Inalámbricos...'
 sku: 'B07ZNWCW3K-es'
-tags: [ 'bluetooth', ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MXQYC7T-es NAIXUES Smartwatch Mujer Reloj Inteligente IP68 con 24...'
 sku: 'B08MXQYC7T-es'
-tags: [ 'smartwatch', ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

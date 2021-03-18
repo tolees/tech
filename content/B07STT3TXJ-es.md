@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STT3TXJ-es Lamicall Soporte Tablet Coche Soporte Tablet para...'
 sku: 'B07STT3TXJ-es'
-tags: [ 'tablet', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

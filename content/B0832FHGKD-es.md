@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0832FHGKD-es Rii RK907 USB - Teclado con Cable QWERTY español Negro.'
 sku: 'B0832FHGKD-es'
-tags: [ 'teclado', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KZT8SWM-es Rii RM800+ Ratón Inalámbrico 2.4 GHz con Mini Receptor USB...'
 sku: 'B08KZT8SWM-es'
-tags: [ 'ratón', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

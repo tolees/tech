@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGPYKLP-es Tenda ac10 router wifi inalámbrico gigabit ac1200 doble...'
 sku: 'B07DGPYKLP-es'
-tags: [ 'gigabit','wifi', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

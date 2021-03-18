@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PXKT1B-es Webcam PC con Microfono NIYPS HD 1080P Webcam para...'
 sku: 'B087PXKT1B-es'
-tags: [ '1080p', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

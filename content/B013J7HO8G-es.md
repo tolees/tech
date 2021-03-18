@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013J7HO8G-es Toshiba X300 - Disco Duro Interno de 4 TB 3.5"'
 sku: 'B013J7HO8G-es'
-tags: [ 'disco','duro','toshiba', ]
 actualPrice: 116.26 EUR
 currency: EUR
 price: 116.26

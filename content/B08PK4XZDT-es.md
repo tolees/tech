@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PK4XZDT-es Yizhet Hub USB Ethernet 3.0 3 Puertos USB 3.0 USB Hub...'
 sku: 'B08PK4XZDT-es'
-tags: [ 'gigabit', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N7CPNMW-es RUNACC Llanta Libre Reemplazo de llanta sólida Llanta con...'
 sku: 'B07N7CPNMW-es'
-tags: [ 'xiaomi', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

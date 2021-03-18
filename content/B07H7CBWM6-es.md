@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7CBWM6-es HP Sprocket 200 1AS85A Impresora Bluetooth Tamaño Único...'
 sku: 'B07H7CBWM6-es'
-tags: [ 'bluetooth','impresora', ]
 actualPrice: 84.31 EUR
 currency: EUR
 price: 84.31

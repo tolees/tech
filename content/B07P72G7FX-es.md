@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P72G7FX-es OMOTON Protector Pantalla Samsung Galaxy Tab A 10.1 T510/...'
 sku: 'B07P72G7FX-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

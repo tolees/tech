@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088K8DXYQ-es BANLVS Smartwatch 1.4 Inch Reloj Inteligente IP67 con...'
 sku: 'B088K8DXYQ-es'
-tags: [ 'smartwatch', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

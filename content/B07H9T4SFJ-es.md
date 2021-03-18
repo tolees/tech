@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9T4SFJ-es Canon EF-M - Objetivo de 32 mm f/1.4 STM Color Negro'
 sku: 'B07H9T4SFJ-es'
-tags: [ 'canon', ]
 actualPrice: 449.65 EUR
 currency: EUR
 price: 449.65

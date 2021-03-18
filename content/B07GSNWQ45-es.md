@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSNWQ45-es Brother MFC-L3770CDW - Impresora multifunción Wifi USB 2.0...'
 sku: 'B07GSNWQ45-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 447.42 EUR
 currency: EUR
 price: 447.42

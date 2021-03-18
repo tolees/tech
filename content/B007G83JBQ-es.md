@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007G83JBQ-es T nB Auriculares Diadema HiFi - con Cable Extra Largo de 8...'
 sku: 'B007G83JBQ-es'
-tags: [ 'auriculares', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

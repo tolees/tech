@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QXQ86Y-es Razer Viper UltimateRatón Inalámbrico para Juegos Ratón...'
 sku: 'B081QXQ86Y-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Cámaras compactas digitales','Cámaras digitales','Electrónica','Equipos de audio y Hi-Fi','Fotografía y videocámaras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Juegos y Accesorios para PC','Memorias USB','Móviles','Móviles y smartphones libres','Ratones','Ratones para gamers para PC','Robots aspiradores','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','ratón','razer', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

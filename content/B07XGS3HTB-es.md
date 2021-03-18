@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGS3HTB-es ERUW - Tableta de Escritura Color LCD 10 Pulgadas Tablet...'
 sku: 'B07XGS3HTB-es'
-tags: [ 'tablet', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

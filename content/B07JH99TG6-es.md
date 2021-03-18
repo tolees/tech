@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JH99TG6-es Sony CEE Games New Gen - Uncharted Collection Hits -...'
 sku: 'B07JH99TG6-es'
-tags: [ 'sony', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

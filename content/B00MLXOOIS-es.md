@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MLXOOIS-es Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20W con...'
 sku: 'B00MLXOOIS-es'
-tags: [ 'bluetooth','sony', ]
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

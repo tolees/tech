@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0851ZCVQ9-es Leelbox - Xiaomi Mi True Wireless Earbuds Basic 2...'
 sku: 'B0851ZCVQ9-es'
-tags: [ 'auriculares','bluetooth','xiaomi', ]
 actualPrice: 16.67 EUR
 currency: EUR
 price: 16.67

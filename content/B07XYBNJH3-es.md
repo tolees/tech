@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYBNJH3-es Teléfono OnePlus 8 Onyx Black| 6.55” Pantalla Fluid AMOLED...'
 sku: 'B07XYBNJH3-es'
-tags: [ 'ram', ]
 actualPrice: 487.23 EUR
 currency: EUR
 price: 487.23

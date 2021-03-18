@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYH6H4Z-es Amazfit Stratos Reloj Inteligente Multideporte con VO2max...'
 sku: 'B07CYH6H4Z-es'
-tags: [ 'gps', ]
 actualPrice: 125.84 EUR
 currency: EUR
 price: 125.84

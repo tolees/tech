@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07574TYWW-es Bowers & Wilkins PX - Auriculares inalámbricos con...'
 sku: 'B07574TYWW-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 265.98 EUR
 currency: EUR
 price: 265.98

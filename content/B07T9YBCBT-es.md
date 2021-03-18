@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9YBCBT-es UGREEN Hub USB 3.0 con 3 USB Puertos y Gigabit Ethernet...'
 sku: 'B07T9YBCBT-es'
-tags: [ 'gigabit','lenovo','toshiba','xiaomi', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

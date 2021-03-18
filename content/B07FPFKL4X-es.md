@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FPFKL4X-es AUKEY Hub USB 3.0 de 4 Puertos de Datos Ultrafino de...'
 sku: 'B07FPFKL4X-es'
-tags: [ 'apple','dell','microsoft', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

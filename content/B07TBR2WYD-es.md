@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TBR2WYD-es Babacom Soporte Portatil Aleación de Aluminio Ventilado...'
 sku: 'B07TBR2WYD-es'
-tags: [ 'dell','ordenador', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

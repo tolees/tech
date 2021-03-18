@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDTVHDL-es Haihuic portugués Pegatinas de Teclado Etiqueta Adhesiva...'
 sku: 'B07YDTVHDL-es'
-tags: [ 'teclado', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

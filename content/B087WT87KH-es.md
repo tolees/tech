@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087WT87KH-es Wewant Toner D111S Reemplazo para Samsung MLT-D111S D111L...'
 sku: 'B087WT87KH-es'
-tags: [ 'samsung', ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

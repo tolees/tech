@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08627YDMH-es Oihxse Funda Compatible con Samsung Galaxy S6 Edge Carcasa...'
 sku: 'B08627YDMH-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

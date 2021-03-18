@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L8BC2B4-es XP-PEN Artist 15.6 Pro Tableta Gráfica15.6 Pulgadas HD IPS...'
 sku: 'B07L8BC2B4-es'
-tags: [ 'ips', ]
 actualPrice: 373.99 EUR
 currency: EUR
 price: 373.99

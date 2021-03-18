@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9NGRKF-es con Estuche de Transporte EWA Mini Altavoz portátil...'
 sku: 'B07F9NGRKF-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

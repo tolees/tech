@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NSM2GBJ-es NETGEAR Punto de acceso WiFi WAX214 velocidad WiFi AX1800...'
 sku: 'B08NSM2GBJ-es'
-tags: [ 'netgear','wifi', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

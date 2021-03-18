@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYLN8H1-es HP Pavilion 15-cw0001ns - Ordenador Portátil 15.6" FullHD...'
 sku: 'B07DYLN8H1-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

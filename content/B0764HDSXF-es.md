@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764HDSXF-es HP 27w - Monitor de 27" FullHD 1920×1080 2073k IPS 16:9...'
 sku: 'B0764HDSXF-es'
-tags: [ 'Adaptadores de red','Adaptadores de red USB','Dispositivos de red','Informática','Monitores','Transceptores de red','hp','ips', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

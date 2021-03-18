@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DWC76D4-es Samsung Galaxy Tab S7+ - Tablet de 12.4" QHD Wifi...'
 sku: 'B08DWC76D4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Adaptadores de red','Adaptadores de red USB','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Dispositivos de red','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hogar y cocina','Informática','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Monitores','Robots aspiradores','Tablets','Transceptores de red','Videojuegos','galaxy','ram','samsung','tablet','wifi', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

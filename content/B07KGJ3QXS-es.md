@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGJ3QXS-es Garza ® Smarthome - Cámara de Vigilancia Interior...'
 sku: 'B07KGJ3QXS-es'
-tags: [ 'wifi', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5KK17R-es Suunto 9 Baro Reloj Multideporte GPS sin cinturón de...'
 sku: 'B07D5KK17R-es'
-tags: [ 'gps','suunto', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

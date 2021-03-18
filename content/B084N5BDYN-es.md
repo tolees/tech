@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N5BDYN-es Lenovo S145-15IIL - Ordenador portátil 15.6" FullHD Intel...'
 sku: 'B084N5BDYN-es'
-tags: [ 'lenovo','ordenador','ram', ]
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

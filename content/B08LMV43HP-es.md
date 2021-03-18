@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LMV43HP-es IUBEST 200ml Kit Limpieza Cabezales Impresora Limpiador de...'
 sku: 'B08LMV43HP-es'
-tags: [ 'canon','impresora', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

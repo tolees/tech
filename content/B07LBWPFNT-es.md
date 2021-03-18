@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBWPFNT-es iWotto Altavoces Duo Estereo Bluetooth Imantados Stereo...'
 sku: 'B07LBWPFNT-es'
-tags: [ 'bluetooth', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

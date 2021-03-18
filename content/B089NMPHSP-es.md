@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NMPHSP-es iporachx - Altavoz Bluetooth Ducha Altavoces Bluetooth 5.0...'
 sku: 'B089NMPHSP-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

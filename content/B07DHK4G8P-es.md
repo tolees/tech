@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHK4G8P-es [Diseño LED Tacto] Altavoz Bluetooth XLEADER Altavoces...'
 sku: 'B07DHK4G8P-es'
-tags: [ 'altavoz','bluetooth','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

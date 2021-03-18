@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVFXCPL-es Linksys WHW0303B - Sistema Velop WiFi mesh tribanda para...'
 sku: 'B07RVFXCPL-es'
-tags: [ 'wifi', ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

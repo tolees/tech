@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZR8PLYM-es SPACEKEEPER Carro de Almacenamiento Delgado de 3 Niveles...'
 sku: 'B07ZR8PLYM-es'
-tags: [ 'móvil', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

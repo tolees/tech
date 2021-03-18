@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1SYTTT-es SSD SanDisk Ultra 3D de 4 TB con hasta 560 MB/s de...'
 sku: 'B07W1SYTTT-es'
-tags: [ 'sandisk', ]
 actualPrice: 434.99 EUR
 currency: EUR
 price: 434.99

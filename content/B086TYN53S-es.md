@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086TYN53S-es HKY 45W 19V Adaptador de Cargador para Portátil Acer...'
 sku: 'B086TYN53S-es'
-tags: [ 'asus', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

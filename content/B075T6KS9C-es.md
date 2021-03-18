@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T6KS9C-es HP Z5000 - Ratón inalámbrico Bluetooth con luz indicadora...'
 sku: 'B075T6KS9C-es'
-tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','bluetooth','hp','ratón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

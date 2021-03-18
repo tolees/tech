@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BKLNL72-es Jelly Comb Teclado numérico inalámbrico con...'
 sku: 'B08BKLNL72-es'
-tags: [ 'jelly comb','ordenador','teclado', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

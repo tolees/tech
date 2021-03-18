@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CKDJVYC-es Teckin 1080P FHD Cámara de Vigilancia WiFi Interior Visión...'
 sku: 'B08CKDJVYC-es'
-tags: [ '1080p','wifi','google','home', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

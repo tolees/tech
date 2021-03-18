@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZGDRSHP-es UGREEN Cable USB Tipo C 90 Grados 2 Pack 1m+2m Cable USB C...'
 sku: 'B07ZGDRSHP-es'
-tags: [ 'samsung','sony','xiaomi', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

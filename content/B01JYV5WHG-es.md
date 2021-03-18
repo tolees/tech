@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JYV5WHG-es AUKEY Cable USB C a USB A [3 X 2m] Cable Tipo C para Carga...'
 sku: 'B01JYV5WHG-es'
-tags: [ 'galaxy','huawei','samsung', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

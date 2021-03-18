@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2ST5YX-es Realme 3 Pro 6GB 128GB Smartphone 6 3 Snapdragon 710...'
 sku: 'B07X2ST5YX-es'
-tags: [ 'smartphone', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

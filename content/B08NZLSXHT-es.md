@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NZLSXHT-es Huayue 500Pcs Tornillos Portatiles Tornillos Electronica...'
 sku: 'B08NZLSXHT-es'
-tags: [ 'dell','lenovo','ordenador','samsung','sony', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

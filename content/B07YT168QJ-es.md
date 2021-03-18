@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YT168QJ-es Razer Cynosa Lite - Teclado de juegos tipo Membrana Gaming...'
 sku: 'B07YT168QJ-es'
-tags: [ 'teclado', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HCYTRCY-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
 sku: 'B00HCYTRCY-es'
-tags: [ 'Ratones','hp','ratón', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

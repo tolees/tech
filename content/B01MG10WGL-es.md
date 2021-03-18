@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MG10WGL-es NANOCABLE 10.99.0101 - Adaptador para Disco Duro de 7 0mm...'
 sku: 'B01MG10WGL-es'
-tags: [ 'disco','duro', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

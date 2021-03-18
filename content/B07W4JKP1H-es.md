@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4JKP1H-es Dierya - DK61E 60% Teclado mecánico para Juegos Teclado...'
 sku: 'B07W4JKP1H-es'
-tags: [ 'teclado', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

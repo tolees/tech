@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6H2WF7-es AmazonBasics - Minialfombrilla de ratón para videojuegos'
 sku: 'B06X6H2WF7-es'
-tags: [ 'ratón', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

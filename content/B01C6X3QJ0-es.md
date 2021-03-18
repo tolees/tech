@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6X3QJ0-es Hori - Auriculares Gaming Pro PS4'
 sku: 'B01C6X3QJ0-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Televisores','Videojuegos','auriculares','hori','ps4', ]
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

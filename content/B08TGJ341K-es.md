@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TGJ341K-es Vikaster - Webcam 1080P Full HD con Micrófono Y cubierta...'
 sku: 'B08TGJ341K-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

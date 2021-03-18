@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2ZKBQ7-es Monrodbitt Caja de Banco de energía portátil Banco de...'
 sku: 'B07K2ZKBQ7-es'
-tags: [ 'móvil', ]
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

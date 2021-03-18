@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VGN1CY-es Samsung HW-T450 - Barra de Sonido Sonido 200W 2.1Ch...'
 sku: 'B083VGN1CY-es'
-tags: [ 'bluetooth','samsung', ]
 actualPrice: 176.89 EUR
 currency: EUR
 price: 176.89

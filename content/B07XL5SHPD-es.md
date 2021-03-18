@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL5SHPD-es Apple Funda Silicone Case para el iPhone 11 Pro MAX -...'
 sku: 'B07XL5SHPD-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

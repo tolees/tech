@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXG5LBW-es YunLone Cámara para Niños 12MP Selfie Cámara Digital 1080P...'
 sku: 'B08CXG5LBW-es'
-tags: [ '1080p', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

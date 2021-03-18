@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTCPHLA-es Samsung Flip - Funda para móvil Galaxy S4 Con tapa...'
 sku: 'B00BTCPHLA-es'
-tags: [ 'galaxy','móvil','samsung', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

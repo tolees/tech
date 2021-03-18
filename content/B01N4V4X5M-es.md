@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4V4X5M-es Anker SoundCore Boost Altavoz Bluetooth portátil 20W con...'
 sku: 'B01N4V4X5M-es'
-tags: [ 'bluetooth','iphone','samsung','altavoz', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

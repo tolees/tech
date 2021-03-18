@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZNYFMM-es DURAGADGET Práctico Divisor De Auriculares para...'
 sku: 'B07CZNYFMM-es'
-tags: [ 'auriculares', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

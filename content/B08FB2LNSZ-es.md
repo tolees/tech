@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FB2LNSZ-es JBL Tune 215 Auriculares inalámbricos con Bluetooth Sonido...'
 sku: 'B08FB2LNSZ-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

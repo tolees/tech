@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL1LYT3-es Zerone Mini Altavoz Bluetooth Wireless portátil estéreo...'
 sku: 'B07CL1LYT3-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

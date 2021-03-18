@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHS98YM-es Beelink BT3-X Mini PC Mini Ordenador de Sobremesa con...'
 sku: 'B07SHS98YM-es'
-tags: [ 'ordenador','wifi', ]
 actualPrice: 143.2 EUR
 currency: EUR
 price: 143.2

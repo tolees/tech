@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM ieGeek Adaptador de Audio...'
 sku: 'B07QVKMZLW-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

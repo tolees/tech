@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCBBC2C-es VersionTECH. - Soporte Portátil Mesa 6 Ángulos Ajustables...'
 sku: 'B00UCBBC2C-es'
-tags: [ 'Accesorios','Accesorios para PlayStation 4','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Discos duros externos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Hardware y juegos para PlayStation 4','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Soportes de regazo para portátiles y netbooks','Switches de red','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','Videojuegos','dell','ordenador','versiontech.', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3SSTHP-es Panamar Nuevo Cable de Cargador de batería de...'
 sku: 'B08D3SSTHP-es'
-tags: [ 'galaxy','samsung','tablet', ]
 actualPrice: 1.05 EUR
 currency: EUR
 price: 1.05

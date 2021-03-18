@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BL1CKV6-es JETlifetech Limpiador de Cabezales de Impresora Limpiador...'
 sku: 'B08BL1CKV6-es'
-tags: [ 'impresora', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

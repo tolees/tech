@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RKZP12-es OWAYKEY - Amplificador Bluetooth 50 W + 50 W 2 canales...'
 sku: 'B086RKZP12-es'
-tags: [ 'bluetooth', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

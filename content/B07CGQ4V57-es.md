@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGQ4V57-es Garmin Zumo 346LMT-S - Navegador de Moto de 4.3” Color Negro'
 sku: 'B07CGQ4V57-es'
-tags: [ 'garmin', ]
 actualPrice: 280.42 EUR
 currency: EUR
 price: 280.42

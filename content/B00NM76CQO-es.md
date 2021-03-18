@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NM76CQO-es StarTech.com PXTNB2SEU1M - Cable de alimentación estándar...'
 sku: 'B00NM76CQO-es'
-tags: [ 'ordenador', ]
 actualPrice: 4.12 EUR
 currency: EUR
 price: 4.12

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDXDK57-es USB C Hub 8 en 1 Abask Adaptador USB C con 4K HDMI Puerto...'
 sku: 'B07TDXDK57-es'
-tags: [ 'dell','gigabit', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

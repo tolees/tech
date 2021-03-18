@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J74VCV8-es Apple Watch Series 6 GPS + Cellular 40 mm Caja de Aluminio...'
 sku: 'B08J74VCV8-es'
-tags: [ 'apple','gps', ]
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

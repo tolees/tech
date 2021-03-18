@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C5HZJCR-es Sony SRSLSR200.CE7 - Altavoz de Mano para TV Color Blanco'
 sku: 'B08C5HZJCR-es'
-tags: [ 'sony','altavoz', ]
 actualPrice: 141.0 EUR
 currency: EUR
 price: 141.0

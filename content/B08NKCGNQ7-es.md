@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NKCGNQ7-es Xiaomi Poco M3 - Smartphone 4+64GB Pantalla 6 53" FHD+ con...'
 sku: 'B08NKCGNQ7-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

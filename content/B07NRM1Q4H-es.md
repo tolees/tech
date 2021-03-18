@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRM1Q4H-es Ideal Swan - Mesa para Ordenador Soporte para Portátil con...'
 sku: 'B07NRM1Q4H-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

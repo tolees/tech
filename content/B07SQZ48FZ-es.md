@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQZ48FZ-es WACCET Bolsa Tubo Frontal de Scooter Impermeable Bolsa...'
 sku: 'B07SQZ48FZ-es'
-tags: [ 'xiaomi', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5Y2FH1-es G-Technology G-Drive Mobile USB-C - Disco Duro Externo 5...'
 sku: 'B07Y5Y2FH1-es'
-tags: [ 'disco','duro', ]
 actualPrice: 161.56 EUR
 currency: EUR
 price: 161.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3S4ZHW-es WAVLINK Ultra HD/5K USB 3.0 & USB C Universal Docking...'
 sku: 'B07B3S4ZHW-es'
-tags: [ 'gigabit', ]
 actualPrice: 144.39 EUR
 currency: EUR
 price: 144.39

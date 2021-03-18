@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZYMSVG-es InnJoo LeapBook A100 - Portátil Intel CherryTrail-T3 Quad...'
 sku: 'B075ZYMSVG-es'
-tags: [ 'ram', ]
 actualPrice: 166.68 EUR
 currency: EUR
 price: 166.68

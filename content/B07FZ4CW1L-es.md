@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FZ4CW1L-es Vbestlife - Tarjeta de red de tarjeta Wifi tarjeta de red...'
 sku: 'B07FZ4CW1L-es'
-tags: [ 'wifi', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

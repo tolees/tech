@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IQS8UHC-es HP OfficeJet 250 Mobile AiO - Impresora multifunción tinta...'
 sku: 'B01IQS8UHC-es'
-tags: [ 'impresora', ]
 actualPrice: 298.99 EUR
 currency: EUR
 price: 298.99

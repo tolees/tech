@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L5ZX4Y4-es RuoCherg Alfombrillas de Ratón RGB 12 Modos Led Gaming...'
 sku: 'B07L5ZX4Y4-es'
-tags: [ 'ratón', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

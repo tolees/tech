@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZPP48J-es TECLAST P20HD Tablet PC 4GB RAM 64GB ROM 4G LTE GPS TF...'
 sku: 'B08BZPP48J-es'
-tags: [ 'bluetooth','gps','ips','lte','ram','tablet','full','hd', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

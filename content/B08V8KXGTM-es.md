@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V8KXGTM-es ResponseBridge - Amplificador de voz inalambrico Bluetooth...'
 sku: 'B08V8KXGTM-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

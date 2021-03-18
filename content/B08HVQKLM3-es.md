@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVQKLM3-es AUKEY Auriculares Inalámbricos Bluetooth 5 Detección en la...'
 sku: 'B08HVQKLM3-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

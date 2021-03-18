@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001I60ILG-es König CMP-MIC9 - Mini micrófono omnidireccional flexible...'
 sku: 'B001I60ILG-es'
-tags: [ 'móvil', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

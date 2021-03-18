@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQ86HPJ-es Corsair K60 RGB Pro Teclado Mecánico para Juegos...'
 sku: 'B08KQ86HPJ-es'
-tags: [ 'teclado', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

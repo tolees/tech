@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KYU5LV8-es EasySMX Auriculares Niños [Regalos Originales] Cascos de...'
 sku: 'B01KYU5LV8-es'
-tags: [ 'auriculares','iphone','tablet', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

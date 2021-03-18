@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZSLLZH-es HP DeskJet 3750 - Impresora de tinta multifunción 8 ppm...'
 sku: 'B07GZSLLZH-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

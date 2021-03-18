@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZXJPTL-es Microsoft Surface Pro X - Ordenador portátil 2 en 1 de 13"...'
 sku: 'B08JZXJPTL-es'
-tags: [ 'lte','microsoft','ordenador','ram','wifi', ]
 actualPrice: 1360.99 EUR
 currency: EUR
 price: 1360.99

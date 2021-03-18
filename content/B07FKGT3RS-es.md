@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKGT3RS-es LxTek Compatible Reemplazo para Samsung MLT-D111S D111S...'
 sku: 'B07FKGT3RS-es'
-tags: [ 'samsung', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

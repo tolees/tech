@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ4Q6ND-es MOEVERT Soporte Portatil Ajustable Soporte para Ordenador...'
 sku: 'B08HQ4Q6ND-es'
-tags: [ 'dell','ordenador', ]
 actualPrice: 25.06 EUR
 currency: EUR
 price: 25.06

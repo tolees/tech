@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LQNL42Z-es Altavoz Portátil Anker Soundcore Motion Boom de Exterior...'
 sku: 'B08LQNL42Z-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

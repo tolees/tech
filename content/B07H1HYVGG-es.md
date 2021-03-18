@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H1HYVGG-es Hunterspider V-9 Auriculares para videojuegos con...'
 sku: 'B07H1HYVGG-es'
-tags: [ 'auriculares', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

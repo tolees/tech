@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089SJLN81-es Zamkol ZK306 Altavoz Bluetooth 30W Altavoces Bluetooth...'
 sku: 'B089SJLN81-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

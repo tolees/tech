@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M9PN5PS-es VESSTT Cargador inalámbrico Cargador inalámbrico rápido...'
 sku: 'B08M9PN5PS-es'
-tags: [ 'galaxy','iphone','samsung','xiaomi', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

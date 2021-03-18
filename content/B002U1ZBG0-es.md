@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002U1ZBG0-es SanDisk Cruzer Blade - Memoria USB de 2.0 de 16 GB'
 sku: 'B002U1ZBG0-es'
-tags: [ 'sandisk', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P47DM1P-es Samsung Space Monitor de 27 WQHD con Marcos Estrechos 2560...'
 sku: 'B07P47DM1P-es'
-tags: [ 'samsung', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

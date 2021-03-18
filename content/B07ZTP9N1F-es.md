@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTP9N1F-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
 sku: 'B07ZTP9N1F-es'
-tags: [ 'altavoz','auriculares','bluetooth','huawei', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

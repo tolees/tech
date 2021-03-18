@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLK63LG-es BTNEEU Soporte Móvil Moto Impermeable Soporte Telefono...'
 sku: 'B08HLK63LG-es'
-tags: [ 'gps','móvil', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

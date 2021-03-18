@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTVTN7Q-es ASUS ZenBook 14 UX433FA New -A5243T - Portátil de 14"...'
 sku: 'B07TTVTN7Q-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 679.99 EUR
 currency: EUR
 price: 679.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AC3S0ES-es Epson LQ-350 - Impresora matricial 24 Pines USB 2.0...'
 sku: 'B00AC3S0ES-es'
-tags: [ 'impresora', ]
 actualPrice: 231.43 EUR
 currency: EUR
 price: 231.43

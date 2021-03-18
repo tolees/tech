@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCC5L7J-es Gigabyte AORUS GeForce RTX 2060 XTREME 6G Rev 1.0'
 sku: 'B07MCC5L7J-es'
-tags: [ 'gigabyte', ]
 actualPrice: 310.3 EUR
 currency: EUR
 price: 310.3

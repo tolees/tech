@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LMD5RX-es MKTOSASA - Cargador Organizador inalámbrico de línea...'
 sku: 'B085LMD5RX-es'
-tags: [ 'smartphone', ]
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

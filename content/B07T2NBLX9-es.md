@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2NBLX9-es Spigen Funda Ultra Hybrid Compatible con iPhone 11 -...'
 sku: 'B07T2NBLX9-es'
-tags: [ 'iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

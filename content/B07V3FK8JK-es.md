@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3FK8JK-es Autel MaxiSys MS906BT OBD2 Bluetooth Herramienta de...'
 sku: 'B07V3FK8JK-es'
-tags: [ 'bluetooth', ]
 actualPrice: 1229.0 EUR
 currency: EUR
 price: 1229.0

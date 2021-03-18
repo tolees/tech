@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895FDF8Y-es LIDEDE Adaptador USB a HDMI USB 3.0 a HDMI Full HD 1080P...'
 sku: 'B0895FDF8Y-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

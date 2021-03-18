@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G6LZVWH-es Ultimate Ears Megaboom 3 Altavoz Portátil Inalámbrico...'
 sku: 'B07G6LZVWH-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

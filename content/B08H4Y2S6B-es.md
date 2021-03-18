@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H4Y2S6B-es Tiksounds Auriculares Bluetooth Auriculares Inalambricos...'
 sku: 'B08H4Y2S6B-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

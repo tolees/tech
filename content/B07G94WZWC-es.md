@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G94WZWC-es Michael Kors Smartwatch para Mujer con tecnología Wear OS...'
 sku: 'B07G94WZWC-es'
-tags: [ 'gps','smartwatch','altavoz', ]
 actualPrice: 285.0 EUR
 currency: EUR
 price: 285.0

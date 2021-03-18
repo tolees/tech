@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VMCU9CO-es HyperX Impact HX318LS11IB/4 Memoria RAM 1866 MHz DDR3L...'
 sku: 'B00VMCU9CO-es'
-tags: [ 'ram', ]
 actualPrice: 26.41 EUR
 currency: EUR
 price: 26.41

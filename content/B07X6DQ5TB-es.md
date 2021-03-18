@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6DQ5TB-es iBetter Diseño para Xiaomi Redmi Note 8 Funda Fina de...'
 sku: 'B07X6DQ5TB-es'
-tags: [ 'xiaomi', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULNENTA-es Sony ZS-RS60BT - Radio Boombox CD de 4W estéreo USB...'
 sku: 'B00ULNENTA-es'
-tags: [ 'bluetooth','sony', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

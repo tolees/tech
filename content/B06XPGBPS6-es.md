@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XPGBPS6-es Logitech G413 Teclado Gaming Mecánico Teclas...'
 sku: 'B06XPGBPS6-es'
-tags: [ 'logitech','teclado', ]
 actualPrice: 82.35 EUR
 currency: EUR
 price: 82.35

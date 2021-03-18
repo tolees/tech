@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBJKQM-es Cooler Master MasterBox MB511 Midi-Tower Negro Azul - Caja...'
 sku: 'B07CZBJKQM-es'
-tags: [ 'ordenador', ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

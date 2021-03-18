@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJRSYW7-es MSI Modern 14 B10MW-050XES - Ordenador portátil de 14" FHD...'
 sku: 'B08BJRSYW7-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 878.63 EUR
 currency: EUR
 price: 878.63

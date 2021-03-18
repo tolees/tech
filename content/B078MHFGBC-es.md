@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MHFGBC-es HOREVO 24W Ø 38cm Cuadrada Lámpara plafón de techo con...'
 sku: 'B078MHFGBC-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

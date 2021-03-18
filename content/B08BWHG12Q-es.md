@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BWHG12Q-es HOMCOM Mesa Gaming para Ordenador PC Escritorio de Oficina...'
 sku: 'B08BWHG12Q-es'
-tags: [ 'auriculares','ordenador', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

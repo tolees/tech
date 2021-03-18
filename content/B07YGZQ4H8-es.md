@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGZQ4H8-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/64GB...'
 sku: 'B07YGZQ4H8-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Ratones','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','kingston','microsd', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

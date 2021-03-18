@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P17LT3N-es Minis Forum Mini PC Intel Core i3-1005G1 Processor 16GB...'
 sku: 'B08P17LT3N-es'
-tags: [ 'ram', ]
 actualPrice: 382.49 EUR
 currency: EUR
 price: 382.49

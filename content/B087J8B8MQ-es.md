@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087J8B8MQ-es Rytaki Lector de Tarjetas XQD SD USB 3.0 Lector de...'
 sku: 'B087J8B8MQ-es'
-tags: [ 'sony', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

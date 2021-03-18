@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6ML6V8-es ASUS ROG Zephyrus M GU502GV-AZ038T - Portátil Gaming de 15...'
 sku: 'B07Z6ML6V8-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1549.0 EUR
 currency: EUR
 price: 1549.0

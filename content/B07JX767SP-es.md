@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JX767SP-es 6800mAh 14.4V Capacidad de la batería Ni-MH para iRobot...'
 sku: 'B07JX767SP-es'
-tags: [ 'irobot','roomba', ]
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

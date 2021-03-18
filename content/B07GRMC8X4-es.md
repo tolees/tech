@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRMC8X4-es Samsung Galaxy Watch - Reloj Inteligente Bluetooth Plata...'
 sku: 'B07GRMC8X4-es'
-tags: [ 'bluetooth','galaxy','samsung', ]
 actualPrice: 218.9 EUR
 currency: EUR
 price: 218.9

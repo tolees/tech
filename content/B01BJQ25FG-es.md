@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BJQ25FG-es NGS Fog Black - Ratón Óptico Inalámbrico 2.4GHz Ratón para...'
 sku: 'B01BJQ25FG-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

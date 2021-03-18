@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CSQ3VSW-es Soporte Portatil Laptop Stand Aluminio Ventilado...'
 sku: 'B08CSQ3VSW-es'
-tags: [ 'dell','ordenador','samsung', ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

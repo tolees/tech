@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SSH1LP-es Auriculares inalámbricos Bluetooth Auriculares...'
 sku: 'B089SSH1LP-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

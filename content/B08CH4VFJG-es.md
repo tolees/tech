@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CH4VFJG-es AKASO Cámara de Vigilancia Exterior Cámara IP WiFi de...'
 sku: 'B08CH4VFJG-es'
-tags: [ '1080p','alexa','wifi','google','home', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

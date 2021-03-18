@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0856SY9QN-es Dierya - Teclado mecánico para Juegos 60% True RGB con...'
 sku: 'B0856SY9QN-es'
-tags: [ 'bluetooth','teclado', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

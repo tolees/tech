@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ISLQZ2E-es AUKEY Cable USB C a USB 3.0 A 2M Nylón Cable USB Tipo C de...'
 sku: 'B01ISLQZ2E-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

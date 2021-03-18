@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZM77QCZ-es Vida Elettronica - Lenovo Ideapad - Ordenador portátil...'
 sku: 'B07ZM77QCZ-es'
-tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 525.87 EUR
 currency: EUR
 price: 525.87

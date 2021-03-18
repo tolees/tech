@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0759VQCQG-es Microsoft Signature Type Cover - Funda con teclado para...'
 sku: 'B0759VQCQG-es'
-tags: [ 'microsoft','teclado', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

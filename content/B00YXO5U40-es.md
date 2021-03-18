@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YXO5U40-es Turtle Beach Recon 50X Auriculares Gaming Xbox One PS4 PS5...'
 sku: 'B00YXO5U40-es'
-tags: [ 'auriculares','nintendo','ps4','ps5','xbox','nintendo','switch', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

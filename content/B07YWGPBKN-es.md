@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YWGPBKN-es [Nuevo] 1Mii Receptor Bluetooth 5.0 Adaptador Audio...'
 sku: 'B07YWGPBKN-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

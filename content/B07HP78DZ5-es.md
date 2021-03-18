@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP78DZ5-es Crucial CT4G4SFS8266 Memoria RAM de 4GB DDR4 2666 MT/s...'
 sku: 'B07HP78DZ5-es'
-tags: [ 'ram', ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

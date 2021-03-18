@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07514HXLT-es HP Envy Photo 6230 – Impresora multifunción inalámbrica...'
 sku: 'B07514HXLT-es'
-tags: [ 'impresora', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

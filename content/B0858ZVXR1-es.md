@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858ZVXR1-es Oihxse Funda Huawei P Smart 2019/Honor 10 Lite Ultra...'
 sku: 'B0858ZVXR1-es'
-tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

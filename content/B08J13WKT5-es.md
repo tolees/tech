@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J13WKT5-es Sony Local - El Arbol y El Bosque'
 sku: 'B08J13WKT5-es'
-tags: [ 'sony', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

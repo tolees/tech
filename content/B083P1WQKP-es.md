@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083P1WQKP-es Proyector YABER Mini Proyector WiFi 2021 Actualizado...'
 sku: 'B083P1WQKP-es'
-tags: [ '1080p','ps4','wifi','full','hd', ]
 actualPrice: 79.09 EUR
 currency: EUR
 price: 79.09

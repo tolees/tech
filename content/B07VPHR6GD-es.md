@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPHR6GD-es XP-PEN Artist 13.3 Pro Tableta Gráfica 13.3 Pulgadas HD...'
 sku: 'B07VPHR6GD-es'
-tags: [ 'ips', ]
 actualPrice: 280.49 EUR
 currency: EUR
 price: 280.49

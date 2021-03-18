@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4RBV7T-es Amazfit - Reloj Inteligente Smartwatch Amazfit Bip Lite Azul'
 sku: 'B07Z4RBV7T-es'
-tags: [ 'smartwatch', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

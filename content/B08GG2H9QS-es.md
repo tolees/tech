@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GG2H9QS-es DCUKPST Repetidor WiFi 1200Mbps Amplificador Señal WiFi 5G...'
 sku: 'B08GG2H9QS-es'
-tags: [ 'wifi', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

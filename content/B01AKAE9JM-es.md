@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AKAE9JM-es Kingston DataTraveler 2000 DT2000/32GB - Memoria USB 3.0...'
 sku: 'B01AKAE9JM-es'
-tags: [ 'teclado', ]
 actualPrice: 89.03 EUR
 currency: EUR
 price: 89.03

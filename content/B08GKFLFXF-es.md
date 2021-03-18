@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKFLFXF-es Amazfit Neo - Smartwatch Orange Rojo'
 sku: 'B08GKFLFXF-es'
-tags: [ 'smartwatch', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

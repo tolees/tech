@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MAZHS8Q-es NanoCable 10.99.0002 - Adaptador metálico de 3.5" para...'
 sku: 'B01MAZHS8Q-es'
-tags: [ 'ordenador', ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

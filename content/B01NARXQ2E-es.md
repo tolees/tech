@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NARXQ2E-es Panasonic Lumix DC-FZ82 - Cámara Bridge de 18.1 MP Zoom de...'
 sku: 'B01NARXQ2E-es'
-tags: [ 'panasonic','wifi', ]
 actualPrice: 295.0 EUR
 currency: EUR
 price: 295.0

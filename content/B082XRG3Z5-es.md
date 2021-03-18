@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XRG3Z5-es Sharp PS-919 WH Altavoz con TWS Bluetooth 5.0 Puerto USB...'
 sku: 'B082XRG3Z5-es'
-tags: [ 'altavoz','bluetooth','sharp', ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

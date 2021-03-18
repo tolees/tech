@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SQ87CS6-es Genericn - Disco duro externo de 2 TB para ordenador...'
 sku: 'B08SQ87CS6-es'
-tags: [ 'ordenador','disco','duro', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

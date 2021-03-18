@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVX9TWR-es HP 250 - Ratón inalámbrico Negro'
 sku: 'B07GVX9TWR-es'
-tags: [ 'ratón', ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

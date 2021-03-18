@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJG1YV7-es MSI GF63 Thin 10SCSR-876XES - Ordenador portátil Gaming de...'
 sku: 'B08HJG1YV7-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

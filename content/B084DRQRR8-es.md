@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DRQRR8-es ASUS ROG Zephyrus S GX531GXR-AZ063T - Ordenador portátil...'
 sku: 'B084DRQRR8-es'
-tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 1999.0 EUR
 currency: EUR
 price: 1999.0

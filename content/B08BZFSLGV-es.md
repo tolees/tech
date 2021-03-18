@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZFSLGV-es RAMPOW Cable USB C Cable USB Tipo C [1M+2M+3M] Cargador...'
 sku: 'B08BZFSLGV-es'
-tags: [ 'galaxy','samsung','sony','xiaomi', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

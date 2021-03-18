@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRLXBBV-es MSI Clutch GM11 - Ratón para Juegos'
 sku: 'B07WRLXBBV-es'
-tags: [ 'ratón', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

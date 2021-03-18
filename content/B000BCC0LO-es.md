@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BCC0LO-es D-Link DGS-108 - Switch de red 8 puertos Gigabit RJ-45...'
 sku: 'B000BCC0LO-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para móviles','Ampliadores y magnificadores para pantallas de teléfonos móviles','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Bricolaje y herramientas','Cables USB','Cables y accesorios','Cables y conectores','Clientes de streaming','Comunicación móvil y accesorios','Consolas Nintendo Switch','Deportes y aire libre','Dispositivos de red','Dispositivos para el streaming','Electrónica','Electrónica y dispositivos para el deporte','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Instalación eléctrica','Monitores de actividad','Móviles','Móviles y smartphones libres','Radios portátiles','Robots aspiradores','Routers','Smartwatches','Switches de red','Tablets','Tecnología para vestir','Tiras LED de interior','Videojuegos','Webcams y telefonía VoIP','d-link','gigabit', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

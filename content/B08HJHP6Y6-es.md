@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJHP6Y6-es Xiaomi Mi 10T Pantalla 6.67" Fhd+ Dotdisplay 6Gb+128Gb...'
 sku: 'B08HJHP6Y6-es'
-tags: [ 'xiaomi', ]
 actualPrice: 375.0 EUR
 currency: EUR
 price: 375.0

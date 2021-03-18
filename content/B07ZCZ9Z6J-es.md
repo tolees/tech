@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCZ9Z6J-es Bqeel 【Promoción】 Raspberry Pi 4 Model B 【2GB RAM+64GB SD...'
 sku: 'B07ZCZ9Z6J-es'
-tags: [ 'wifi', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYBPZXT-es Corsair K70 MK.2 RGB Teclado Mecánico Gaming...'
 sku: 'B07FYBPZXT-es'
-tags: [ 'teclado', ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

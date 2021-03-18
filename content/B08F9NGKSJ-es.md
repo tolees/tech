@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
 sku: 'B08F9NGKSJ-es'
-tags: [ 'auriculares','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

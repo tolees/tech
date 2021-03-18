@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR36WL6-es Dwfit Pulsera Actividad Inteligente Reloj Inteligente para...'
 sku: 'B08FR36WL6-es'
-tags: [ 'dwfit','smartwatch', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

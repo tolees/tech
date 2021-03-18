@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IJ7J4YY-es Sony BDVN7200WB.CEL - Equipo de Home Cinema 5.1 de 1200W...'
 sku: 'B00IJ7J4YY-es'
-tags: [ 'sony', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

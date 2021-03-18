@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JYC4XM-es SanDisk Ultra Tarjeta de memoria microSDXC con adaptador...'
 sku: 'B073JYC4XM-es'
-tags: [ 'sandisk', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

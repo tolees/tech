@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010RXXY48-es TP-Link RE450 Extensor de Rango de Repetidor WiFi de Banda...'
 sku: 'B010RXXY48-es'
-tags: [ 'gigabit','wifi', ]
 actualPrice: 59.22 EUR
 currency: EUR
 price: 59.22

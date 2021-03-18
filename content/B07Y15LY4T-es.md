@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y15LY4T-es Mini Cámara Espía Oculta Mini Cámara de Vigilancia con...'
 sku: 'B07Y15LY4T-es'
-tags: [ '1080p', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

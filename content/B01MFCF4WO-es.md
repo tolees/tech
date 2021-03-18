@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFCF4WO-es L-Link LL-KB-816-COMBO - Kit Teclado + Ratón USB color negro'
 sku: 'B01MFCF4WO-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

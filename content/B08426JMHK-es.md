@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08426JMHK-es Xiaomi Powerbank MI 18W Fast Charge Power Bank 3 10000MAH...'
 sku: 'B08426JMHK-es'
-tags: [ 'xiaomi', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

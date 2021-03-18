@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPBGQGL-es Linksys Router WiFi 5 de Doble Banda E5400 Router...'
 sku: 'B07VPBGQGL-es'
-tags: [ 'wifi', ]
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

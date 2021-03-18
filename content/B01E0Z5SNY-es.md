@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E0Z5SNY-es Jabra Biz 1500 - Auriculares estéreo para contact centers...'
 sku: 'B01E0Z5SNY-es'
-tags: [ 'auriculares','auriculares','estéreo', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

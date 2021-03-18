@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YF44BYX-es Microsoft Surface Pro Signature - Funda con teclado plata'
 sku: 'B07YF44BYX-es'
-tags: [ 'microsoft','teclado', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

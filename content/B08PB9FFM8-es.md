@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PB9FFM8-es Togala - Smartwatch Reloj Inteligente Mujer Pantalla TFT...'
 sku: 'B08PB9FFM8-es'
-tags: [ 'smartwatch', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LKNPFYH-es Odec Auriculares Inalámbricos Auriculares Bluetooth 5...'
 sku: 'B08LKNPFYH-es'
-tags: [ 'auriculares','bluetooth','odec', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

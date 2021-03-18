@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QY1L6LX-es Candy Brava CDPN 2D360PX - Lavavajillas 60 cm...'
 sku: 'B07QY1L6LX-es'
-tags: [ 'bluetooth','wifi', ]
 actualPrice: 401.84 EUR
 currency: EUR
 price: 401.84

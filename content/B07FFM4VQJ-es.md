@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFM4VQJ-es Fossil - Reloj Gen 4 Smartwatch con correa de cuero - FTW6015'
 sku: 'B07FFM4VQJ-es'
-tags: [ 'smartwatch', ]
 actualPrice: 189.89 EUR
 currency: EUR
 price: 189.89

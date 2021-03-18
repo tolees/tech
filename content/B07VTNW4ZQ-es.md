@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VTNW4ZQ-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07VTNW4ZQ-es'
-tags: [ 'disco','duro','western digital', ]
 actualPrice: 112.79 EUR
 currency: EUR
 price: 112.79

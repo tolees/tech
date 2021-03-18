@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BP5B38J-es Gelrova Soporte Portatil Aluminio Ventilado Refrigeración...'
 sku: 'B08BP5B38J-es'
-tags: [ 'lenovo','ordenador', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F4VZUN6-es HP PageWide 377dw A4 Wifi - Impresora multifunción 300 x...'
 sku: 'B01F4VZUN6-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 324.79 EUR
 currency: EUR
 price: 324.79

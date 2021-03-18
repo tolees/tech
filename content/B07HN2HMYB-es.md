@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN2HMYB-es Denon DHT-S316 Altavoz soundbar Negro Inalámbrico y...'
 sku: 'B07HN2HMYB-es'
-tags: [ 'altavoz','denon', ]
 actualPrice: 218.0 EUR
 currency: EUR
 price: 218.0

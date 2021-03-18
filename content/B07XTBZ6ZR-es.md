@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTBZ6ZR-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truedot...'
 sku: 'B07XTBZ6ZR-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

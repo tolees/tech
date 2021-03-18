@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TH19RFZ-es LESHP - Auriculares inalámbricos Bluetooth Earbuds -...'
 sku: 'B08TH19RFZ-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

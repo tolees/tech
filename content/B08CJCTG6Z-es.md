@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CJCTG6Z-es Bose Sport Earbuds - Auriculares realmente inalámbricos -...'
 sku: 'B08CJCTG6Z-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 133.05 EUR
 currency: EUR
 price: 133.05

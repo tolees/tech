@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011YZZ6Q2-es Huawei Technology Ltd - Huawei E3531i-2 3 G Hi-Link USB...'
 sku: 'B011YZZ6Q2-es'
-tags: [ 'huawei', ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

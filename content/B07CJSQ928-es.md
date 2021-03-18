@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJSQ928-es XP-Pen 22E Pro Tableta Digital de Dibujo Gráfico HD IPS...'
 sku: 'B07CJSQ928-es'
-tags: [ 'ips', ]
 actualPrice: 469.99 EUR
 currency: EUR
 price: 469.99

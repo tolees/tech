@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087Q5VBVK-es Cámara Digital para Niños 8MP Digital Cámaras Fotos...'
 sku: 'B087Q5VBVK-es'
-tags: [ '1080p', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

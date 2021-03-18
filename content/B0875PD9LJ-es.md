@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0875PD9LJ-es AIKELA V5.0 - Auriculares Bluetooth inalámbricos con...'
 sku: 'B0875PD9LJ-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

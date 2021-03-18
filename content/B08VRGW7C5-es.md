@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRGW7C5-es Aoixuaio - Auriculares Bluetooth Sonido Estéreo 3D...'
 sku: 'B08VRGW7C5-es'
-tags: [ 'aoixuaio','auriculares','bluetooth', ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

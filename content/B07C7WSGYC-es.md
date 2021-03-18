@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C7WSGYC-es Linksys VLP0103 - Sistema Velop WiFi mesh dual band para...'
 sku: 'B07C7WSGYC-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Barebones','Dispositivos de red','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Sistemas WiFi Mesh','linksys','wifi', ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

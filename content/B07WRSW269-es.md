@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRSW269-es MOZA Aircross 2 Estabilizador Gimbal de 3 Ejes para...'
 sku: 'B07WRSW269-es'
-tags: [ 'canon','sony', ]
 actualPrice: 339.15 EUR
 currency: EUR
 price: 339.15

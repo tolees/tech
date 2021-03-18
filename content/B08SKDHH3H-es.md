@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SKDHH3H-es LG Tone Free HBS-FN7W - Auriculares True Wireless...'
 sku: 'B08SKDHH3H-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

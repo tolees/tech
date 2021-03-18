@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08QN9K8M4-es Motorola Moto E7 - Smartphone de 6.5" HD+ MAX Vision...'
 sku: 'B08QN9K8M4-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo portátil','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Deportes y aire libre','Discos duros externos','Dispositivos GPS deportivos','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Figuras interactivas para Nintendo 3DS y 2DS','GPS para carrera','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Informática','Juegos para Nintendo Switch','Juegos para Xbox One','Móviles','Móviles y smartphones libres','Packs de accesorios para PlayStation 4','Portátiles','Proyectores','Ratones','Receptores de TV','Receptores de TV por satélite','Repetidores de red','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','motorola','smartphone', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

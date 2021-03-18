@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L7YYGFX-es Altavoz Bluetooth Potente Tronsmart Force 40W Altavoz...'
 sku: 'B07L7YYGFX-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QMVRSDK-es ONLYU 580XXL Compatible para Canon PGI-580XXL CLI-581XXL...'
 sku: 'B07QMVRSDK-es'
-tags: [ 'canon', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

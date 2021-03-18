@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H5DZ3B1-es ASUS VP229HE Monitor Eye Care ASUS VP229HE: 21.5 Pulgadas...'
 sku: 'B08H5DZ3B1-es'
-tags: [ 'asus','ips','full','hd', ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

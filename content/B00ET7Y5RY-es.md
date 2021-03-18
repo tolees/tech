@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ET7Y5RY-es Canon PG-545 Cartucho de tinta original Negro para...'
 sku: 'B00ET7Y5RY-es'
-tags: [ 'canon','impresora', ]
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9GZLR5-es Ibywind Protector de Pantalla para Xiaomi Mi 9T / Mi 9T...'
 sku: 'B07T9GZLR5-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KO0T5VA-es Kodak Photo Printer Mini WiFi - Impresora fotográfica...'
 sku: 'B01KO0T5VA-es'
-tags: [ 'impresora','wifi', ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6JQS8C-es Kingston A400 SSD SA400S37/120G - Disco duro sólido...'
 sku: 'B01N6JQS8C-es'
-tags: [ 'Discos duros sólidos internos','disco','duro','kingston', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

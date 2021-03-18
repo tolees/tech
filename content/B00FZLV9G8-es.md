@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FZLV9G8-es Cascos Inalámbrico con aptX Baja Latencia Auriculares...'
 sku: 'B00FZLV9G8-es'
-tags: [ 'auriculares','bluetooth','estéreo','móvil', ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

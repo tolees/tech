@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0836T6RTX-es Sunany 11 Pulgadas Color Tableta de Escritura LCD Tableta...'
 sku: 'B0836T6RTX-es'
-tags: [ 'tablet', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

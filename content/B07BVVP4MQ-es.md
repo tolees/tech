@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BVVP4MQ-es Gigaset AS470 Trio - Teléfono Teléfono DECT Terminal...'
 sku: 'B07BVVP4MQ-es'
-tags: [ 'dect','gigaset','altavoz', ]
 actualPrice: 60.74 EUR
 currency: EUR
 price: 60.74

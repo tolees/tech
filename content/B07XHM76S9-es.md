@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XHM76S9-es DYNASONIC - DynaTwins - Auriculares Bluetooth Inalámbricos...'
 sku: 'B07XHM76S9-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

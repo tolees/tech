@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NMCRJXG-es Cámara Vigilancia WiFi Interior Apeman 1080P Cámara IP...'
 sku: 'B07NMCRJXG-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JSBWSG-es Fujifilm X-A3 CAMEL - Cámara EVIL de 24 MP pantalla táctil...'
 sku: 'B075JSBWSG-es'
-tags: [ 'fujifilm','full','hd','wifi', ]
 actualPrice: 464.56 EUR
 currency: EUR
 price: 464.56

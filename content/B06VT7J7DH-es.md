@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VT7J7DH-es EDIMAX RG21S INALAMBRICO ENRUTADOR AC2600 2.4/5 GHz Dual...'
 sku: 'B06VT7J7DH-es'
-tags: [ 'gigabit', ]
 actualPrice: 127.79 EUR
 currency: EUR
 price: 127.79

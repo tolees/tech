@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JBG26M-es Rii RM500 Ratón inalámbrico 2.4G. Ratón óptico portátil...'
 sku: 'B087JBG26M-es'
-tags: [ 'ratón', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZFMSY8G-es AUKEY Adaptador USB C a Micro USB 3 Pack con OTG USB Type...'
 sku: 'B07ZFMSY8G-es'
-tags: [ 'galaxy','huawei','samsung', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

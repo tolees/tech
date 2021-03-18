@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085X9RZVB-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085X9RZVB-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

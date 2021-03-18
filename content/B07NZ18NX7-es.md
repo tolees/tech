@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZ18NX7-es Parasol Profesional de Repuesto para Lente de Objetivo...'
 sku: 'B07NZ18NX7-es'
-tags: [ 'nikon', ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

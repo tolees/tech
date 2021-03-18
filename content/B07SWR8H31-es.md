@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWR8H31-es Fmway Funda Carcasa para Huawei Mediapad M6 10.8 2019 con...'
 sku: 'B07SWR8H31-es'
-tags: [ 'huawei', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

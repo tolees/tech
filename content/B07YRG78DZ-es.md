@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YRG78DZ-es ASUS ZenBook 14 UX434FAC-A5188T - Portátil de 14" FullHD...'
 sku: 'B07YRG78DZ-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

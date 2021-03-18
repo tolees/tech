@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK3RX2B-es Tronsmart RGB Alfombrilla de Ratón Gaming XXL 800 x 300 x...'
 sku: 'B07PK3RX2B-es'
-tags: [ 'ratón', ]
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

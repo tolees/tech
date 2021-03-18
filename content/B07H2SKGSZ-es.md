@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2SKGSZ-es Funda para iPhone X/XS ZHIKE Diseño de una Sola Pieza...'
 sku: 'B07H2SKGSZ-es'
-tags: [ 'iphone', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T8DHB2Y-es Mpow Auriculares Micrófono PC Auriculares Telefono...'
 sku: 'B07T8DHB2Y-es'
-tags: [ 'auriculares', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

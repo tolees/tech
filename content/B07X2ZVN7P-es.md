@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2ZVN7P-es Crosstour Proyector Wi-Fi Mini Proyector Portátil para...'
 sku: 'B07X2ZVN7P-es'
-tags: [ 'iphone','smartphone','full','hd', ]
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

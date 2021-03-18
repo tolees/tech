@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5TKD77-es MSI PS42 Modern 8MO-208XES Ordenador Portátil de 14" FHD...'
 sku: 'B07W5TKD77-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 729.99 EUR
 currency: EUR
 price: 729.99

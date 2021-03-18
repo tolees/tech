@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB49JSM-es Vamvo Proyector Full HD 1080P Mini Proyector L4200 con...'
 sku: 'B07RB49JSM-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

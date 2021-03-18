@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0087O4CKK-es Targus - AMW060EU - Targus Wireless Optical Laptop Mouse...'
 sku: 'B0087O4CKK-es'
-tags: [ 'ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

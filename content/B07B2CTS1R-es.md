@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B2CTS1R-es U-Kiss Mesa Plegable Ordenador Portatil Base Ajustable y...'
 sku: 'B07B2CTS1R-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

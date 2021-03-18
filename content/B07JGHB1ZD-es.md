@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGHB1ZD-es ACEPC AK1 Mini PC 6GB RAM + 128GB SSD Intel Celeron J3455...'
 sku: 'B07JGHB1ZD-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 161.49 EUR
 currency: EUR
 price: 161.49

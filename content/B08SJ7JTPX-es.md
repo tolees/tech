@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SJ7JTPX-es Disco duro externo de 1 TB y 2 TB portátil resistente...'
 sku: 'B08SJ7JTPX-es'
-tags: [ 'ordenador','disco','duro', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

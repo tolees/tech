@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BR36BRX-es IUBEST 100ml Kit Limpieza Cabezales Impresora Limpiador de...'
 sku: 'B08BR36BRX-es'
-tags: [ 'canon','impresora', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

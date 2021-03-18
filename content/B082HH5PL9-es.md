@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HH5PL9-es Proyector Wifi VicTsing Mini Proyector Portátil en Casa...'
 sku: 'B082HH5PL9-es'
-tags: [ '1080p','bluetooth','victsing','wifi', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

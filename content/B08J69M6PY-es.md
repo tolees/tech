@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J69M6PY-es Apple Watch Series 6 GPS + Cellular 40 mm Caja de Acero...'
 sku: 'B08J69M6PY-es'
-tags: [ 'apple','gps', ]
 actualPrice: 597.19 EUR
 currency: EUR
 price: 597.19

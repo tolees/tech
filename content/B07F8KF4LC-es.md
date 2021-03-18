@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8KF4LC-es RockJam RJ549 - Piano de Teclado Eléctrico Portátil de 49...'
 sku: 'B07F8KF4LC-es'
-tags: [ 'teclado', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086JRXFF8-es WisFox Combo de Teclado y Ratón Inalámbricos 2.4GHz...'
 sku: 'B086JRXFF8-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

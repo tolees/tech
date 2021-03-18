@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HM4RJDM-es SAMSUNG Galaxy Tab A 7 | Tablet de 10.4\" WiFi Procesador...'
 sku: 'B08HM4RJDM-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para móviles','Ampliadores y magnificadores para pantallas de teléfonos móviles','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares para equipo de audio','Auriculares y accesorios','Bombillas','Bombillas Wi-Fi','Bombillas de color','Bombillas de uso específico','Cables USB','Cables y accesorios','Cables y conectores','Clientes de streaming','Comunicación móvil y accesorios','Deportes y aire libre','Dispositivos de red','Dispositivos para el streaming','Electrónica','Electrónica y dispositivos para el deporte','Equipos de audio y Hi-Fi','Hogar y cocina','Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Informática','Monitores de actividad','Robots aspiradores','Routers','Smartwatches','Tablets','Tecnología para vestir','Tiras LED de interior','Webcams y telefonía VoIP','galaxy','ram','samsung','tablet','wifi', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

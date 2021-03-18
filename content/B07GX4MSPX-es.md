@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GX4MSPX-es VTech - Móvil proyector cuenta ovejitas juguete de cuna...'
 sku: 'B07GX4MSPX-es'
-tags: [ 'móvil', ]
 actualPrice: 34.6 EUR
 currency: EUR
 price: 34.6

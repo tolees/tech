@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCTFT78-es HUAWEI FreeBuds Pro - Auriculares inalámbricos Bluetooth...'
 sku: 'B08HCTFT78-es'
-tags: [ 'auriculares','bluetooth','huawei', ]
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

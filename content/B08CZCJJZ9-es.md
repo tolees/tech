@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZCJJZ9-es AQOTER Adaptador WiFi USB Receptor WiFi Dongle Inalámbrico...'
 sku: 'B08CZCJJZ9-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Routers','Sistemas WiFi Mesh','Tarjetas de red','aqoter','wifi', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

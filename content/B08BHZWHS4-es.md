@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHZWHS4-es NA - Proyector de estrellas proyector de luz LED de noche...'
 sku: 'B08BHZWHS4-es'
-tags: [ 'galaxy', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

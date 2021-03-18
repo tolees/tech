@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKKYXDB-es GANYUE Adaptador Bluetooth 5.0 Transceptor de Audio...'
 sku: 'B07VKKYXDB-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

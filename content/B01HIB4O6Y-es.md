@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HIB4O6Y-es ICZI Cable DisplayPort a HDMI 1.8m Cable Adaptador DP a...'
 sku: 'B01HIB4O6Y-es'
-tags: [ '1080p','ordenador', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

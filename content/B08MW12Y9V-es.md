@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MW12Y9V-es ACPURI Soporte Portatil Mesa Ajustable para portátil de...'
 sku: 'B08MW12Y9V-es'
-tags: [ 'dell','lenovo', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

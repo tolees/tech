@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR2MP71-es SeeKool Receptor WiFi AC600 Dual Band 5.8 GHz 600Mbps o 2...'
 sku: 'B07SR2MP71-es'
-tags: [ 'wifi', ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

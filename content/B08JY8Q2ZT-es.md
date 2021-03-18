@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JY8Q2ZT-es Auriculares Deportivos inalámbricos Sendowtek Auriculares...'
 sku: 'B08JY8Q2ZT-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

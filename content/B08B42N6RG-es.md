@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B42N6RG-es Sony SRS-XB33 - Altavoz Bluetooth Potente con Luces Extra...'
 sku: 'B08B42N6RG-es'
-tags: [ 'bluetooth','sony','altavoz', ]
 actualPrice: 127.42 EUR
 currency: EUR
 price: 127.42

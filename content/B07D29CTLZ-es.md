@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D29CTLZ-es TACKLIFE Cortadora de Setos Eléctrica 40V 2.5 Ah con...'
 sku: 'B07D29CTLZ-es'
-tags: [ 'samsung', ]
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PJWRDKZ-es LG SN4R - Barra de Sonido 4.1 420W de Potencia DTS...'
 sku: 'B08PJWRDKZ-es'
-tags: [ 'bluetooth', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

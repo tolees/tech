@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6S83CL-es Bang & Olufsen Beoplay H4 - Auriculares inalámbricos 1a...'
 sku: 'B01N6S83CL-es'
-tags: [ 'auriculares', ]
 actualPrice: 230.4 EUR
 currency: EUR
 price: 230.4

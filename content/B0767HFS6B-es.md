@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767HFS6B-es Biwond Thundersound Altavoces Autoamplificados 470W TS15”...'
 sku: 'B0767HFS6B-es'
-tags: [ 'bluetooth', ]
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

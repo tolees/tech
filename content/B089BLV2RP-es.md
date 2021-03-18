@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089BLV2RP-es ASUS ROG Strix SCAR 17 G732LXS-HG014T - Portátil Gaming de...'
 sku: 'B089BLV2RP-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 2519.31 EUR
 currency: EUR
 price: 2519.31

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z8WJN8B-es Tronsmart T6 Mini Altavoces Bluetooth 15W 24 Horas de...'
 sku: 'B07Z8WJN8B-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

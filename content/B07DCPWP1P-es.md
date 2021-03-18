@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCPWP1P-es Garmin Fenix 5 Banda TOPsic Silicona Reemplazo Correa con...'
 sku: 'B07DCPWP1P-es'
-tags: [ 'garmin', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

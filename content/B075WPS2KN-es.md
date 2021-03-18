@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B075WPS2KN-es'
-tags: [ 'teclado', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

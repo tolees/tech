@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z8PFGJD-es Micrófono Karaoke Bluetooth FISHOAKY Microfono Inalámbrico...'
 sku: 'B07Z8PFGJD-es'
-tags: [ 'bluetooth', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

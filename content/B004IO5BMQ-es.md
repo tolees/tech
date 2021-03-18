@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004IO5BMQ-es Logitech M235 Ratón Inalámbrico 2.4 GHz con Receptor USB...'
 sku: 'B004IO5BMQ-es'
-tags: [ 'logitech','ratón', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RNPK8K8-es Xiaomi Redmi Note 9T 5G Pantalla FHD+ de 6.53" 4GB+64 GB...'
 sku: 'B08RNPK8K8-es'
-tags: [ 'xiaomi', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

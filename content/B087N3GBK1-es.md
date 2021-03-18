@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087N3GBK1-es Cocoda Soporte Tablet Portátil Soporte iPad con Ajustable...'
 sku: 'B087N3GBK1-es'
-tags: [ 'huawei','iphone','samsung','tablet', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

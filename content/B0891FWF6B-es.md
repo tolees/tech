@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0891FWF6B-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de...'
 sku: 'B0891FWF6B-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

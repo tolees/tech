@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T1QHJW7-es GIANAC Cable USB Tipo C 5Pack [0.25M 0.5M 1M 2M 3M] 3A...'
 sku: 'B07T1QHJW7-es'
-tags: [ 'galaxy','huawei','xiaomi', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2XLJ9X-es HETP Pulsera de Actividad Reloj Inteligente con Pulsómetro...'
 sku: 'B07C2XLJ9X-es'
-tags: [ 'gps', ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

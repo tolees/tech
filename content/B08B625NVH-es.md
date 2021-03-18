@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B625NVH-es Longspeed TLW03 4.0 Pulsera Inteligente Smartband...'
 sku: 'B08B625NVH-es'
-tags: [ 'smartband', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

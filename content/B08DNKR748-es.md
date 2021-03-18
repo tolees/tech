@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNKR748-es ASUS TUF Gaming F15 FX506LH-BQ030 - Portátil de 15.6"...'
 sku: 'B08DNKR748-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

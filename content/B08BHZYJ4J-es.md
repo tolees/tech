@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHZYJ4J-es GUORUI - Webcam 1080P Full HD con Micrófono Y Cubierta de...'
 sku: 'B08BHZYJ4J-es'
-tags: [ '1080p','full','guorui','hd', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

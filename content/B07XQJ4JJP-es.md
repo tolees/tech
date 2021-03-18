@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQJ4JJP-es QHOHQ Funda para Samsung Galaxy A50S A50 A30S Cases...'
 sku: 'B07XQJ4JJP-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

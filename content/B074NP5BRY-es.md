@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NP5BRY-es Xinda Acer Iconia One 10 B3-A40 Funda - Slim Fit Folio...'
 sku: 'B074NP5BRY-es'
-tags: [ 'tablet', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L55CCC4-es JPARR Soporte Tablet Móvil Soporte Tablet Mesa Ajustable...'
 sku: 'B08L55CCC4-es'
-tags: [ 'kindle','móvil','tablet', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

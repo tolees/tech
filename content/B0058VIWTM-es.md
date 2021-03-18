@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058VIWTM-es LaCie 1 TB Rugged Mini USB 3.0 2.5 Pulgadas Disco Duro...'
 sku: 'B0058VIWTM-es'
-tags: [ 'disco','duro', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

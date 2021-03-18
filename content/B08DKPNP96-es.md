@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKPNP96-es Samsung Galaxy Tab S7 - Tablet Android 4G de 11.0" I 128...'
 sku: 'B08DKPNP96-es'
-tags: [ 'galaxy','samsung','tablet', ]
 actualPrice: 675.56 EUR
 currency: EUR
 price: 675.56

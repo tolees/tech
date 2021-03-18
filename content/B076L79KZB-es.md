@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076L79KZB-es Plantronics RIG 100HX Monoaural Diadema Negro Gris...'
 sku: 'B076L79KZB-es'
-tags: [ 'auriculares', ]
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

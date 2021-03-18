@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKFH49Y-es Amazfit Neo - Smartwatch Green'
 sku: 'B08GKFH49Y-es'
-tags: [ 'smartwatch', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

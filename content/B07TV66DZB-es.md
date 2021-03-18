@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV66DZB-es Ferilinso Funda para Xiaomi Mi A3 Funda [Reforzar la...'
 sku: 'B07TV66DZB-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

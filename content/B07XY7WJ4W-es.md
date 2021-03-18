@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY7WJ4W-es TP-Link Deco P9 3-pack - PLC Mesh Wi-Fi Híbrido con...'
 sku: 'B07XY7WJ4W-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Comunicación móvil y accesorios','Discos duros externos','Dispositivos de red','Electrónica','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Videojuegos','alexa','plc','tp-link','wifi', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

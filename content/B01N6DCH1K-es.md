@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6DCH1K-es CHOETECH USB C a HDMI Adaptador[4k@60Hz] USB Tipo C a HDMI...'
 sku: 'B01N6DCH1K-es'
-tags: [ 'huawei','samsung', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

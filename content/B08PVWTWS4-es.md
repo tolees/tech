@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PVWTWS4-es Bluewheel Electromobility - Bluewheel 6.5" Patinete...'
 sku: 'B08PVWTWS4-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 183.2 EUR
 currency: EUR
 price: 183.2

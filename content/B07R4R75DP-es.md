@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R4R75DP-es Pacrate - Auriculares Gaming PS4 Auriculares con Micrófono...'
 sku: 'B07R4R75DP-es'
-tags: [ 'auriculares','nintendo','ps4','xbox','nintendo','switch', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

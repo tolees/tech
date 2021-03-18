@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRK7G8S-es Black Shark 2 8GB+128GB Negro con Switch Kit Black Shark...'
 sku: 'B07WRK7G8S-es'
-tags: [ 'móvil', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

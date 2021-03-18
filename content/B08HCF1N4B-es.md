@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCF1N4B-es HUAWEI FreeBuds Pro Blanco - Auriculares inalámbricos...'
 sku: 'B08HCF1N4B-es'
-tags: [ 'auriculares','bluetooth','huawei', ]
 actualPrice: 138.0 EUR
 currency: EUR
 price: 138.0

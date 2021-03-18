@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTCH9JQ-es devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 adaptadores...'
 sku: 'B07GTCH9JQ-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Barebones','Dispositivos de red','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','devolo','wifi', ]
 actualPrice: 121.17 EUR
 currency: EUR
 price: 121.17

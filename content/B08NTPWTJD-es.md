@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTPWTJD-es ASUS TUF Gaming F15 FX506LI-HN011 - Portátil de 15.6 "...'
 sku: 'B08NTPWTJD-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

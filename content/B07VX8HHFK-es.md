@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VX8HHFK-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07VX8HHFK-es'
-tags: [ 'disco','duro','western digital', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

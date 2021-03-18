@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HR1S1YM-es Sharp HT-SB147 2.0 Barra de Sonido Cine en casa Bluetooth...'
 sku: 'B08HR1S1YM-es'
-tags: [ 'bluetooth', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

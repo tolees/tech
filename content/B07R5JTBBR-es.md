@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5JTBBR-es FreedConn Accesorio de Clip de Casco de intercomunicador...'
 sku: 'B07R5JTBBR-es'
-tags: [ 'bluetooth', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

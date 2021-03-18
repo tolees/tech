@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ66F3P-es NEWHEY Funda Portatil 13-14 Pulgadas Funda para Macbook...'
 sku: 'B08DJ66F3P-es'
-tags: [ 'ordenador', ]
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

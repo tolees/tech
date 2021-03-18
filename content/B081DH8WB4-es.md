@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DH8WB4-es Cover compatible con OnePlus 6 funda Clear Ultradünn...'
 sku: 'B081DH8WB4-es'
-tags: [ 'móvil', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

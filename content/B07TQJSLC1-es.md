@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQJSLC1-es TECHGEAR Vanguard Funda Compatible con Nuevo Samsung...'
 sku: 'B07TQJSLC1-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

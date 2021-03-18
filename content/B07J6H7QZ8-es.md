@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6H7QZ8-es Apple iPhone XS Max de 64GB - Plata'
 sku: 'B07J6H7QZ8-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 905.26 EUR
 currency: EUR
 price: 905.26

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX892VV-es Apple Smart Battery Case for iPhone XR - Black'
 sku: 'B07MX892VV-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

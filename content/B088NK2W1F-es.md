@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NK2W1F-es JSAUX Adaptador USB C a USB [2Pack] USB-C Hembra a Tipo A...'
 sku: 'B088NK2W1F-es'
-tags: [ 'huawei','iphone','samsung', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

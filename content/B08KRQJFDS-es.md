@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KRQJFDS-es sony computer entertainment of america - DS4 Black + Fifa 21'
 sku: 'B08KRQJFDS-es'
-tags: [ 'sony', ]
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCQSBN1-es Teclado Gaming Rii RM400 Combo Rainbow Retroiluminación...'
 sku: 'B07HCQSBN1-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

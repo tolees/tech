@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQ91XNK-es Seagate Technology - Seagate Portable Drive Unidad de...'
 sku: 'B07DQ91XNK-es'
-tags: [ 'ordenador','disco','duro', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

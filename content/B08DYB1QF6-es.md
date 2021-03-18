@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DYB1QF6-es MSI Optix G241V - Monitor Gaming de 23.8" FullHD 75Hz 1920...'
 sku: 'B08DYB1QF6-es'
-tags: [ '1080p','ips', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

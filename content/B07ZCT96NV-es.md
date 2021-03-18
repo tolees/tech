@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZCT96NV-es havit Teclado mecánico Gaming y ratón Español Teclados...'
 sku: 'B07ZCT96NV-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KP2NCHN-es Zamkol Altavoz Bluetooth 5.0 IPX7 Impermeable 24H de...'
 sku: 'B08KP2NCHN-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

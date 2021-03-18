@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSJGT2D-es Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de...'
 sku: 'B07WSJGT2D-es'
-tags: [ 'kindle', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

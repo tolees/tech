@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085NVNN4S-es Prtukyt - Auriculares Cerrados Inalámbricos 6S Alta...'
 sku: 'B085NVNN4S-es'
-tags: [ 'auriculares','auriculares','estéreo', ]
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVKTP53-es Anker PowerExpand+ Hub USB-C hub adaptador USB-C 7 en 1...'
 sku: 'B07ZVKTP53-es'
-tags: [ 'Accesorios','Hubs USB','Informática','anker','microsd', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

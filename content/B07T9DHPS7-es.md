@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T9DHPS7-es Energy Urban Box 2 Altavoz portátil con Bluetooth y...'
 sku: 'B07T9DHPS7-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

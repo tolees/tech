@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0863RCQPT-es Nuevo Apple iPad Pro de 12 9 Pulgadas con Wi-Fi y 512 GB -...'
 sku: 'B0863RCQPT-es'
-tags: [ 'apple', ]
 actualPrice: 1142.0 EUR
 currency: EUR
 price: 1142.0

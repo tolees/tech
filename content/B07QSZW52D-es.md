@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QSZW52D-es SIMUER 3Pcs Bolsa de Riñonera Impermeable Funda con Triple...'
 sku: 'B07QSZW52D-es'
-tags: [ 'móvil', ]
 actualPrice: 9.18 EUR
 currency: EUR
 price: 9.18

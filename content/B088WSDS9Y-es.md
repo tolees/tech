@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088WSDS9Y-es NEKAN Adaptador WiFi USB 3.0 AC 1200Mbps Dongle 802.11 con...'
 sku: 'B088WSDS9Y-es'
-tags: [ 'tablet','wifi', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

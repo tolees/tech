@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084ZFSRR4-es POWERADD EnergyCell Cargador Portátil 26800mAh Batería...'
 sku: 'B084ZFSRR4-es'
-tags: [ 'huawei','iphone','móvil','samsung','xiaomi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

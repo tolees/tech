@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GCQV9K-es AE WISH ANEWISH - Ratón Inalámbrico Bluetooth Compatible...'
 sku: 'B085GCQV9K-es'
-tags: [ 'bluetooth','ratón', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FGXNDF8-es MSI GF65 Thin 10SER-884XES - Ordenador portátil Gaming de...'
 sku: 'B08FGXNDF8-es'
-tags: [ 'Portátiles','msi','ordenador','ram','teclado', ]
 actualPrice: 1126.4 EUR
 currency: EUR
 price: 1126.4

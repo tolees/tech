@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XT9X2N4-es Lamicall Soporte Tablet Multiángulo Soporte Tablet -...'
 sku: 'B07XT9X2N4-es'
-tags: [ 'iphone','samsung','tablet', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

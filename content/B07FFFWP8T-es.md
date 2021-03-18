@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFFWP8T-es Sony CEE Games New Gen - El Desenlace Del Ladrón Hits -...'
 sku: 'B07FFFWP8T-es'
-tags: [ 'sony', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

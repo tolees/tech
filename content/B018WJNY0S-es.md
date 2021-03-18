@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018WJNY0S-es Brother PJ-722 - Impresora térmica portátil A4 8ppm y...'
 sku: 'B018WJNY0S-es'
-tags: [ 'impresora', ]
 actualPrice: 387.66 EUR
 currency: EUR
 price: 387.66

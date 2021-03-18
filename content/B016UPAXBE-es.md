@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016UPAXBE-es Apple Magic Keyboard - Español'
 sku: 'B016UPAXBE-es'
-tags: [ 'Accesorios','Accesorios de teléfonos móviles para coches','Accesorios para PlayStation 4','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para tablets','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Antenas de red','Audio y vídeo portátil','Auriculares para equipo de audio','Auriculares y accesorios','Componentes','Componentes y piezas para portátiles','Comunicación móvil y accesorios','Cunas de teléfonos móviles para coches','Discos duros externos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Hardware y juegos para PlayStation 4','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Radios portátiles','Soportes de regazo para portátiles y netbooks','Switches de red','TV, vídeo y home cinema','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Televisores','Teléfonos analógicos','Videojuegos','apple', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

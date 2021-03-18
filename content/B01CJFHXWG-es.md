@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CJFHXWG-es HP Color LaserJet Pro MFP M377dw - Impresora láser a color...'
 sku: 'B01CJFHXWG-es'
-tags: [ 'gigabit','impresora', ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

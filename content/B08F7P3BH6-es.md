@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F7P3BH6-es MPOW Soundhot R9 Altavoz Bluetooth a Prueba de Agua...'
 sku: 'B08F7P3BH6-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

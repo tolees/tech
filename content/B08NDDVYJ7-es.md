@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDDVYJ7-es Tiras LED 10M WOANWAY Tiras luces LED RGB Bluetooth con...'
 sku: 'B08NDDVYJ7-es'
-tags: [ 'bluetooth', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

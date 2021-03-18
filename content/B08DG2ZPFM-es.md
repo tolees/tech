@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG2ZPFM-es HolyHigh Auriculares Inalámbricos Deportivos Auriculares...'
 sku: 'B08DG2ZPFM-es'
-tags: [ 'auriculares', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

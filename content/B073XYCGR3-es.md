@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XYCGR3-es Xinda Huawei Mediapad T3 7 Funda- Slim Smart Cover Funda...'
 sku: 'B073XYCGR3-es'
-tags: [ 'huawei','wifi', ]
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

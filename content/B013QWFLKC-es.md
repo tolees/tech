@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013QWFLKC-es Olympus OM-D E-M10 Mark-II - Cámara EVIL de 16.1 MP...'
 sku: 'B013QWFLKC-es'
-tags: [ 'full','hd','wifi', ]
 actualPrice: 744.45 EUR
 currency: EUR
 price: 744.45

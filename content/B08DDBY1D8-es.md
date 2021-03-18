@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DDBY1D8-es Dpofirs - Disco Duro Móvil Mecánico Pequeño portátil...'
 sku: 'B08DDBY1D8-es'
-tags: [ 'móvil','disco','duro', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

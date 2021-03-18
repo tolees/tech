@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5MRVVP-es Tronsmart Force 2 Altavoz Bluetooth Portátil 30W Batería...'
 sku: 'B08R5MRVVP-es'
-tags: [ 'altavoz','bluetooth','tronsmart', ]
 actualPrice: 51.84 EUR
 currency: EUR
 price: 51.84

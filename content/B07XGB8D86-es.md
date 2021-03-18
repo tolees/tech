@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGB8D86-es Huawei Watch GT2 Sport - Smartwatch con Caja de 46 Mm...'
 sku: 'B07XGB8D86-es'
-tags: [ 'bluetooth','gps','huawei','smartwatch', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

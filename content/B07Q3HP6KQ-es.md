@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3HP6KQ-es Belkin F4U092btSGY - Hub Multimedia USB-C con Cable USB-C...'
 sku: 'B07Q3HP6KQ-es'
-tags: [ 'gigabit', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

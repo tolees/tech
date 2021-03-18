@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01089BDVM-es VicTsing Ratón Inalámbrico Mini Portátil 2.4G con Receptor...'
 sku: 'B01089BDVM-es'
-tags: [ 'ratón', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHD3G1N-es SatIntegral S-1412 HD Rocket Receptor satélite Full HD...'
 sku: 'B07VHD3G1N-es'
-tags: [ 'full','hd', ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

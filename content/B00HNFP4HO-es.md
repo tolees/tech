@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HNFP4HO-es TP-LINK TL-WR840N - Router WiFi 300 Mbps'
 sku: 'B00HNFP4HO-es'
-tags: [ 'wifi', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

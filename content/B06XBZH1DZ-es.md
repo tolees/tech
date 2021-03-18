@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XBZH1DZ-es RockJam Kit de 61 Teclado de piano digital Banco Soporte...'
 sku: 'B06XBZH1DZ-es'
-tags: [ 'auriculares','teclado', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

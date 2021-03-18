@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y8RH66Y-es Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de...'
 sku: 'B07Y8RH66Y-es'
-tags: [ 'microsoft','ordenador','ram', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8L5SH6-es MyHGRC - Mando a distancia para reproductor de DVD...'
 sku: 'B07W8L5SH6-es'
-tags: [ 'samsung', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

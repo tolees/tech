@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WQXQFXP-es XINGDOZ Powerbank 31200 mAh batería externa cargador...'
 sku: 'B07WQXQFXP-es'
-tags: [ 'dell','lenovo', ]
 actualPrice: 103.75 EUR
 currency: EUR
 price: 103.75

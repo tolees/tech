@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PVHTZ8B-es ASUNCELL - 5200mAh 593553-001 Batería del ordenador...'
 sku: 'B07PVHTZ8B-es'
-tags: [ 'ordenador', ]
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHZMFDJ-es FYTENG Perfectamente Compatible con La Pulseras Xiaomi Mi...'
 sku: 'B08BHZMFDJ-es'
-tags: [ 'xiaomi', ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

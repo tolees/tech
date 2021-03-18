@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013HXY21E-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para...'
 sku: 'B013HXY21E-es'
-tags: [ 'nikon', ]
 actualPrice: 198.9 EUR
 currency: EUR
 price: 198.9

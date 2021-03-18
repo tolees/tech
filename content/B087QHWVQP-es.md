@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QHWVQP-es Swonuk Cámara Web 1080P con Micrófono Computadora Portátil...'
 sku: 'B087QHWVQP-es'
-tags: [ '1080p', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

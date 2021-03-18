@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QDVXYB-es Portátil PC 14.1 Pulgadas TECLAST F7S Ordenador Portatil...'
 sku: 'B089QDVXYB-es'
-tags: [ 'ips','ordenador','ram', ]
 actualPrice: 271.99 EUR
 currency: EUR
 price: 271.99

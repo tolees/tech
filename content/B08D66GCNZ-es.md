@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D66GCNZ-es Shayson Teclado Electrónico Piano 37 Teclas Teclado de...'
 sku: 'B08D66GCNZ-es'
-tags: [ 'teclado', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

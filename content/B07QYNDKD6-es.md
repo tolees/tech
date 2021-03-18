@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYNDKD6-es Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD Intel...'
 sku: 'B07QYNDKD6-es'
-tags: [ 'ram','teclado', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

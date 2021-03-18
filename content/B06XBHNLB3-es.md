@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBHNLB3-es HP Deskjet 3733 - Impresora multifunción Wi-Fi USB 2.0 600...'
 sku: 'B06XBHNLB3-es'
-tags: [ 'impresora', ]
 actualPrice: 49.68 EUR
 currency: EUR
 price: 49.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ1FY86-es Corsair K95 RGB Platinum - Teclado mecánico Gaming Cherry...'
 sku: 'B06XJ1FY86-es'
-tags: [ 'teclado', ]
 actualPrice: 136.71 EUR
 currency: EUR
 price: 136.71

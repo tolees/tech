@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081Y9D4BY-es OPOLAR Recargable Soplador de Polvo Aire Comprimido...'
 sku: 'B081Y9D4BY-es'
-tags: [ 'teclado', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

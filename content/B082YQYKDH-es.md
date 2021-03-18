@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082YQYKDH-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con...'
 sku: 'B082YQYKDH-es'
-tags: [ 'huawei', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

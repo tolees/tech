@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KLHYG3-es Razer Cynosa V2Teclado para juegos Teclado Gaming de...'
 sku: 'B089KLHYG3-es'
-tags: [ 'teclado', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

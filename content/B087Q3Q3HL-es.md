@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087Q3Q3HL-es Cocoda Tripode para Movil 126cm Tripode Cámara Extensible...'
 sku: 'B087Q3Q3HL-es'
-tags: [ 'Electrónica','Fotografía y videocámaras','Trípodes completos','Trípodes y monopies','bluetooth','cocoda','iphone','samsung', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

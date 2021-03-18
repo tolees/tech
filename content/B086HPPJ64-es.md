@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HPPJ64-es Auriculares Inalámbricos Bluetooth Donerton Auriculares...'
 sku: 'B086HPPJ64-es'
-tags: [ 'auriculares','bluetooth','donerton', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

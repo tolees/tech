@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDJX5BW-es Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y...'
 sku: 'B07TDJX5BW-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZK9HRHC-es HONOR Sport smartwatch Pulsera de Actividad Inteligente...'
 sku: 'B07ZK9HRHC-es'
-tags: [ 'smartwatch', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

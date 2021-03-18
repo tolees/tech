@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F3R7NJZ-es GIANAC - Cable Cargador iPhone [5Pack 0.25M 0.5M 1M 2M 3M]...'
 sku: 'B08F3R7NJZ-es'
-tags: [ 'apple','iphone', ]
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

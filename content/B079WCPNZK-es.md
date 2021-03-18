@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD Intel...'
 sku: 'B079WCPNZK-es'
-tags: [ 'lenovo','ordenador','ram','teclado', ]
 actualPrice: 183.11 EUR
 currency: EUR
 price: 183.11

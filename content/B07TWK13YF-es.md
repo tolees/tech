@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWK13YF-es Belkin Boost Charger - Cargador para coche USB-C 18 W con...'
 sku: 'B07TWK13YF-es'
-tags: [ 'iphone', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

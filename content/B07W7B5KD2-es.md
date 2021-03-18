@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7B5KD2-es ORICO Docking Station 5 Bay Typ C Carcasa magnética de...'
 sku: 'B07W7B5KD2-es'
-tags: [ 'disco','duro', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

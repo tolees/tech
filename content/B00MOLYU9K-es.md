@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MOLYU9K-es Sony PSN Plus - Tarjeta para 365 días Reedición Código...'
 sku: 'B00MOLYU9K-es'
-tags: [ 'sony', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

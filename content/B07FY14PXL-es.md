@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FY14PXL-es Beshoop - Auricular Bluetooth V5.0 Ultra peso ligero 12g...'
 sku: 'B07FY14PXL-es'
-tags: [ 'auriculares','bluetooth','huawei','iphone','móvil','samsung','sony','xiaomi', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

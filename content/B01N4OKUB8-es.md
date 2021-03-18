@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4OKUB8-es RAMPOW Cable USB Tipo C a USB A 3.0 Cable USB C Carga...'
 sku: 'B01N4OKUB8-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

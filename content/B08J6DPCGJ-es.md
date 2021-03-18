@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J6DPCGJ-es Nuevo Apple iPad de 10 2 Pulgadas con Wi-Fi + Cellular y...'
 sku: 'B08J6DPCGJ-es'
-tags: [ 'apple', ]
 actualPrice: 439.0 EUR
 currency: EUR
 price: 439.0

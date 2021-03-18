@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7NFFC1-es AROYI Carcasa Xiaomi Redmi Note 8 Pro Funda Silicona &...'
 sku: 'B07X7NFFC1-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.58 EUR
 currency: EUR
 price: 8.58

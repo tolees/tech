@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9R15DC-es ECOVACS DEEBOT OZMO 950 Care Robot Aspirador 2 en 1 con...'
 sku: 'B08D9R15DC-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para móviles','Ampliadores y magnificadores para pantallas de teléfonos móviles','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Cables USB','Cables y accesorios','Cables y conectores','Comunicación móvil y accesorios','Deportes y aire libre','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Hogar y cocina','Informática','Monitores de actividad','Robots aspiradores','Routers','Smartwatches','Tecnología para vestir','Webcams y telefonía VoIP','alexa','ecovacs','google','home', ]
 actualPrice: 486.9 EUR
 currency: EUR
 price: 486.9

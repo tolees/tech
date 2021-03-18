@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKRCCJ8-es WiMiUS Cámara de Caza 20MP 1080P 30FPS Camara Caza con...'
 sku: 'B07RKRCCJ8-es'
-tags: [ '1080p', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKJ5XN2-es Auriculares Bluetooth Auriculares inalámbricos 4.2...'
 sku: 'B07VKJ5XN2-es'
-tags: [ 'auriculares','bluetooth','estéreo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

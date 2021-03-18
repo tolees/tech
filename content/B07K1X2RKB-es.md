@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1X2RKB-es GEEETECH A20M Impresora 3d con Mix de color de impresión...'
 sku: 'B07K1X2RKB-es'
-tags: [ 'impresora', ]
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

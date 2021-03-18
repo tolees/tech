@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFL3N75-es Auriculares inalámbricos Bluetooth ENACFIRE E60 V5.0 8...'
 sku: 'B07WFL3N75-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

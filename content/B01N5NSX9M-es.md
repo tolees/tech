@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5NSX9M-es AUKEY Soporte Móvil Coche Magnético Universal 2 Pack para...'
 sku: 'B01N5NSX9M-es'
-tags: [ 'gps','iphone','móvil','samsung','smartphone', ]
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

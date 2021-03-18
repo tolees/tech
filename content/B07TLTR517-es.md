@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLTR517-es Potensic T25 GPS Drone FPV RC Drone con Cámara 1080P HD...'
 sku: 'B07TLTR517-es'
-tags: [ '1080p','gps','wifi', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

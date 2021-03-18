@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B8OSVCK-es DELL KB216 - Teclado USB Universal QWERTY Internacional de...'
 sku: 'B01B8OSVCK-es'
-tags: [ 'dell','teclado', ]
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DL8T5BF-es Gigabyte AORUS 7 KB-7ES1130SD - Ordenador portátil de...'
 sku: 'B08DL8T5BF-es'
-tags: [ 'gigabyte','ordenador','ram','teclado', ]
 actualPrice: 1209.99 EUR
 currency: EUR
 price: 1209.99

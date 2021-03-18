@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWQRVTK-es Alcatel 30.26 Teléfono Móvil 1 Gris Metálico'
 sku: 'B07GWQRVTK-es'
-tags: [ 'móvil', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X3XD1BW-es Sony NWA55L - Reproductor de Audio Walkman 16 GB Hi-Res...'
 sku: 'B07X3XD1BW-es'
-tags: [ 'sony', ]
 actualPrice: 166.38 EUR
 currency: EUR
 price: 166.38

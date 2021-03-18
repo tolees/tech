@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CHCZ132-es EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note...'
 sku: 'B08CHCZ132-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

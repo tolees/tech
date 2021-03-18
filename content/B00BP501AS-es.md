@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BP501AS-es Crucial RAM CT2KIT51264BF160BJ 8 GB 2 x 4 GB DDR3 1600 MHz...'
 sku: 'B00BP501AS-es'
-tags: [ 'ram', ]
 actualPrice: 46.8 EUR
 currency: EUR
 price: 46.8

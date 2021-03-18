@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J2BC24G-es Diesel Smartwatch Pantalla táctil para Hombre de Connected...'
 sku: 'B07J2BC24G-es'
-tags: [ 'smartwatch', ]
 actualPrice: 295.21 EUR
 currency: EUR
 price: 295.21

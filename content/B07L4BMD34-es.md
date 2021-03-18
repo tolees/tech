@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L4BMD34-es BrosTrend - Extensor WiFi de 1200 Mb/s amplificador de...'
 sku: 'B07L4BMD34-es'
-tags: [ 'wifi', ]
 actualPrice: 47.77 EUR
 currency: EUR
 price: 47.77

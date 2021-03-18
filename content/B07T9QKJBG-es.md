@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9QKJBG-es YuhooTech Funda con Cuerda para Xiaomi Mi 9 [Moda y...'
 sku: 'B07T9QKJBG-es'
-tags: [ 'xiaomi', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

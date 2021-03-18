@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave...'
 sku: 'B07WMFWXXR-es'
-tags: [ 'iphone', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

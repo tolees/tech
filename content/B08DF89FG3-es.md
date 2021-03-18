@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DF89FG3-es HolyHigh Auriculares Inalambricos Auriculares Bluetooth...'
 sku: 'B08DF89FG3-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

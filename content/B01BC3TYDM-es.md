@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BC3TYDM-es TECKNET Ratón con Cable Cable USB de 1 5 m 6 Botones hasta...'
 sku: 'B01BC3TYDM-es'
-tags: [ 'ratón', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

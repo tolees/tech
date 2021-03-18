@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCSK7LK-es Hagibis Receptor Bluetooth 5.0 Kits de Manos Libres para...'
 sku: 'B07YCSK7LK-es'
-tags: [ 'bluetooth', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

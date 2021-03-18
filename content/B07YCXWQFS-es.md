@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCXWQFS-es Anova Culinary | Sous Vide Precision Cooker WiFi | 1000...'
 sku: 'B07YCXWQFS-es'
-tags: [ 'wifi', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

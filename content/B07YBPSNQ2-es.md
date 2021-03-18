@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBPSNQ2-es HP Slimline 290-a0022ns - Ordenador torre de sobremesa AMD...'
 sku: 'B07YBPSNQ2-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

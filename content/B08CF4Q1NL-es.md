@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CF4Q1NL-es Panasonic batteries - Panasonic EVERYDAY POWER Pila...'
 sku: 'B08CF4Q1NL-es'
-tags: [ 'panasonic', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

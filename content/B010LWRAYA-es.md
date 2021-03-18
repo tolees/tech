@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010LWRAYA-es GHB Sades Auriculares Gaming Cascos con Microfono SA-901...'
 sku: 'B010LWRAYA-es'
-tags: [ 'auriculares','ordenador', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

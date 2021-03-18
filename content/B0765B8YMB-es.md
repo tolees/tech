@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765B8YMB-es Honeywell Home Wi-Fi C2 Cámara Seguridad angular 145° en...'
 sku: 'B0765B8YMB-es'
-tags: [ '1080p', ]
 actualPrice: 74.23 EUR
 currency: EUR
 price: 74.23

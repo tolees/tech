@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081X5BT6H-es RAVIAD Cable Cargador iPhone [1.8M 3Pack] Cable Lightning...'
 sku: 'B081X5BT6H-es'
-tags: [ 'iphone', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

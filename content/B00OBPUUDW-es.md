@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OBPUUDW-es Sharkoon Skiller Pro - Teclado USB Juego QWERTY Inglés de...'
 sku: 'B00OBPUUDW-es'
-tags: [ 'teclado', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

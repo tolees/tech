@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721MKXQ2-es AUKEY Webcam 1080P Full HD con Micrófono Estéreo Cámara...'
 sku: 'B0721MKXQ2-es'
-tags: [ '1080p','Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','aukey','full','hd', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

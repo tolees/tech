@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJNPDCN-es ESR Funda Transparente para iPhone 11 Pro MAX Carcasa...'
 sku: 'B07VJNPDCN-es'
-tags: [ 'iphone', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

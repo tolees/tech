@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MJWBW6-es EUMI Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
 sku: 'B084MJWBW6-es'
-tags: [ 'smartwatch', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

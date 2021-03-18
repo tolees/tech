@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PLZGLN-es Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico...'
 sku: 'B077PLZGLN-es'
-tags: [ 'ratón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

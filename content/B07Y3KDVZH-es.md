@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y3KDVZH-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07Y3KDVZH-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','western digital', ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

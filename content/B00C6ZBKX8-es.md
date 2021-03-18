@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C6ZBKX8-es Sony DVPSR370B - Reproductor de DVDs con USB CD-R/RW...'
 sku: 'B00C6ZBKX8-es'
-tags: [ 'sony', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

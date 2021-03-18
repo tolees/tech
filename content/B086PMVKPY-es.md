@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086PMVKPY-es Tronsmart Onyx Ace Auriculares inalámbricos bluetooth 5.0...'
 sku: 'B086PMVKPY-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

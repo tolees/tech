@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y211AFM-es Anker 4 Puertos HUB USB 3.0 Ultra Slim Data Hub para...'
 sku: 'B00Y211AFM-es'
-tags: [ 'móvil', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

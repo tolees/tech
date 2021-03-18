@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PFRFKX-es TP-Link TL-MR100 4G LTE Router Cat 4 3G Router Speed up to...'
 sku: 'B085PFRFKX-es'
-tags: [ 'lte', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

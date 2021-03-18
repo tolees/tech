@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXF7TX5-es RIIMUHIR-Protector de Pantalla para Xiaomi Mi Note 10/Note...'
 sku: 'B08FXF7TX5-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY1FHJM-es PRIXTON Windows Cleaner Spire BT200 - Robot...'
 sku: 'B07TY1FHJM-es'
-tags: [ 'móvil', ]
 actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95

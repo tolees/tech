@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8YG7F3-es El disco de almacenamiento del disco flash el disco de...'
 sku: 'B08B8YG7F3-es'
-tags: [ 'apple','móvil', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

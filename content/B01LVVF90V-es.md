@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LVVF90V-es Apple iPhone 7 - Smartphone de 4.7" 32 GB oro rosa'
 sku: 'B01LVVF90V-es'
-tags: [ 'apple','iphone','smartphone', ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

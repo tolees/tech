@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076J6TW7M-es PC Webcam 1080P PAPALOOK PA452 Pro Web Camera...'
 sku: 'B076J6TW7M-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

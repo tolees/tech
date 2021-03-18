@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3T2GHX-es REGALPRIX Alfombrilla para ratón Personalizada con tu Foto...'
 sku: 'B06X3T2GHX-es'
-tags: [ 'ratón', ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

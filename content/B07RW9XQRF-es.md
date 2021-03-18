@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW9XQRF-es Hisense H32B5600 Auriculares 1 Negro'
 sku: 'B07RW9XQRF-es'
-tags: [ 'auriculares', ]
 actualPrice: 183.58 EUR
 currency: EUR
 price: 183.58

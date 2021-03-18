@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082G1C1KC-es Linksys MX5300 Sistema Velop WiFi 6 mesh tribanda para...'
 sku: 'B082G1C1KC-es'
-tags: [ 'wifi', ]
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

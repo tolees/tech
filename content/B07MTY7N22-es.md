@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTY7N22-es Logitech G935 Auriculares Gaming RGB Inalámbrico Sonido...'
 sku: 'B07MTY7N22-es'
-tags: [ 'auriculares','logitech','nintendo','switch', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

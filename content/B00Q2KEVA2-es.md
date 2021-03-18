@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q2KEVA2-es Sony Alpha 7 II - Cámara evil de fotograma completo con...'
 sku: 'B00Q2KEVA2-es'
-tags: [ 'sony', ]
 actualPrice: 1200.89 EUR
 currency: EUR
 price: 1200.89

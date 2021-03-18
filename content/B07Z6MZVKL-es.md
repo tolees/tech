@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6MZVKL-es Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de...'
 sku: 'B07Z6MZVKL-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1799.0 EUR
 currency: EUR
 price: 1799.0

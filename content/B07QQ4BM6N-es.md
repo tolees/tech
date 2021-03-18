@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQ4BM6N-es TaoTronics Cascos Inalambricos Bluetooth 5.0 Auriculares...'
 sku: 'B07QQ4BM6N-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 46.74 EUR
 currency: EUR
 price: 46.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSY7VK3-es HUION Kamvas Pro 16 Tableta Gráfica con Pantalla Monitor...'
 sku: 'B07RSY7VK3-es'
-tags: [ 'ips', ]
 actualPrice: 364.65 EUR
 currency: EUR
 price: 364.65

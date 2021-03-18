@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HRWN15-es Mini Proyector FANGOR Mini Video Proyector portátil con...'
 sku: 'B083HRWN15-es'
-tags: [ 'bluetooth','fire','stick','tv','xbox', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

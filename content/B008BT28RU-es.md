@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008BT28RU-es HP - Samsung CLT-K406S/ELS - Tóner para Samsung CLP-360/...'
 sku: 'B008BT28RU-es'
-tags: [ 'samsung', ]
 actualPrice: 50.97 EUR
 currency: EUR
 price: 50.97

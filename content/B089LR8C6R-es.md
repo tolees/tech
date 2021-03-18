@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LR8C6R-es Campark Webcam 1080P Cámara Web con Micrófono Enfoque...'
 sku: 'B089LR8C6R-es'
-tags: [ '1080p', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

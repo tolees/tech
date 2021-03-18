@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0016MNAAI-es Beyerdynamic DT 770 PRO 80 Ohm Auriculares de estudio'
 sku: 'B0016MNAAI-es'
-tags: [ 'auriculares', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

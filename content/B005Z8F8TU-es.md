@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005Z8F8TU-es Hercules 4780507 - Auriculares con Diadema Tipo Dj 50 mm...'
 sku: 'B005Z8F8TU-es'
-tags: [ 'auriculares', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

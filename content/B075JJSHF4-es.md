@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JJSHF4-es Fujifilm X-E3 - Cámara Evil de 24.3 MP y kit cuerpo con...'
 sku: 'B075JJSHF4-es'
-tags: [ 'fujifilm', ]
 actualPrice: 698.0 EUR
 currency: EUR
 price: 698.0

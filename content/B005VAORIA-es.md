@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VAORIA-es Plantronics 81960-15 - Auriculares con micrófono Color Negro'
 sku: 'B005VAORIA-es'
-tags: [ 'auriculares', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

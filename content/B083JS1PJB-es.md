@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JS1PJB-es Hommie Tarjeta de Red WiFi WiFi-6 Wireless Dual Band...'
 sku: 'B083JS1PJB-es'
-tags: [ 'bluetooth','wifi', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

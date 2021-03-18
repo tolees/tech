@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KMSVRQ-es LABISTS Impresora 3D Impresora Mini y Portátil con...'
 sku: 'B082KMSVRQ-es'
-tags: [ 'impresora', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

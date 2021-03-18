@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en...'
 sku: 'B08BTRKD3B-es'
-tags: [ 'móvil', ]
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

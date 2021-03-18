@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L3ZP2MG-es HP Z3700 RF Raton óptico inalámbrico 1200DPI Plateado...'
 sku: 'B01L3ZP2MG-es'
-tags: [ 'ratón', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777X5MDT-es ASUS ROG Strix XG35VQ - Monitor Curvo de Gaming 35...'
 sku: 'B0777X5MDT-es'
-tags: [ 'asus', ]
 actualPrice: 628.99 EUR
 currency: EUR
 price: 628.99

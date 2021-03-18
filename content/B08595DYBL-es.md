@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08595DYBL-es Oihxse Animal Serie Case Compatible con Huawei Mate 20...'
 sku: 'B08595DYBL-es'
-tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

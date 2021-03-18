@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LMBJ86-es Sony WHCH710N - Auriculares inalámbricos Noise Cancelling...'
 sku: 'B086LMBJ86-es'
-tags: [ 'auriculares','sony', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

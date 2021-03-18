@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDKKS88-es UGREEN Cable USB Tipo C 90 Grados Carga Rápida 3A Cable...'
 sku: 'B07PDKKS88-es'
-tags: [ 'huawei','móvil','samsung','xiaomi', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

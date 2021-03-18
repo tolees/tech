@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXXRGGH-es FLYLAND Hub USB C Adaptador Tipo C Hub con 1080P VGA...'
 sku: 'B07XXXRGGH-es'
-tags: [ '1080p','Accesorios','Hubs USB','Informática','flyland', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

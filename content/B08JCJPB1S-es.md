@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCJPB1S-es Amazfit Bip U Smartwatch Fitness Reloj Inteligente 60+...'
 sku: 'B08JCJPB1S-es'
-tags: [ 'gps','smartwatch', ]
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

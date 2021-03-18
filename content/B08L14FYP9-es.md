@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L14FYP9-es iporachx - Smartwatch Pantalla Táctil de 1.4" Relojes...'
 sku: 'B08L14FYP9-es'
-tags: [ 'iporachx','smartwatch', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

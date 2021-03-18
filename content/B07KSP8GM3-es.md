@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSP8GM3-es PowerLocus P2 – Auriculares Bluetooth inalambricos de...'
 sku: 'B07KSP8GM3-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DD4RZ1L-es Tronsmart T6 MAX Altavoz Bluetooth 60W 20h de Reproducción...'
 sku: 'B08DD4RZ1L-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

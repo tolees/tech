@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NH97NCM-es yootech Soporte Movil Multiángulo Soporte Teléfono...'
 sku: 'B08NH97NCM-es'
-tags: [ 'galaxy','huawei','samsung','xiaomi', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

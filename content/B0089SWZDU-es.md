@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0089SWZDU-es Canon EF 40mm f/2.8 STM - Objetivo para Canon Distancia...'
 sku: 'B0089SWZDU-es'
-tags: [ 'canon', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

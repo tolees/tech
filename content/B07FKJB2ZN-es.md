@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKJB2ZN-es Victure 1080P Cámara IP WiFi Cámara de Vigilancia FHD con...'
 sku: 'B07FKJB2ZN-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

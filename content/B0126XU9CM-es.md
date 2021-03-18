@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0126XU9CM-es Maxesla Adaptador de Bluetooth 4.0 Bluetooth USB PC...'
 sku: 'B0126XU9CM-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

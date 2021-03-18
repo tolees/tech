@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TFXWY3-es VicTsing Ratón Bluetooth Ratón Inalámbrico Ultra-Delgado...'
 sku: 'B083TFXWY3-es'
-tags: [ 'bluetooth','ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K4JP5DI-es Alcatel S250 Teléfono DECT Inalámbrico Altavoz 50 Entradas...'
 sku: 'B01K4JP5DI-es'
-tags: [ 'dect','altavoz', ]
 actualPrice: 18.63 EUR
 currency: EUR
 price: 18.63

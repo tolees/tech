@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792S3SMB-es Techole HUB USB 3.0 Aluminio USB Hub Ethernet Adaptador...'
 sku: 'B0792S3SMB-es'
-tags: [ 'gigabit', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

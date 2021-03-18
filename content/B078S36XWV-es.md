@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078S36XWV-es AOC G2590VXQ - Monitor de 24.5" 75 Hz Full HD 1920 x 1080...'
 sku: 'B078S36XWV-es'
-tags: [ 'full','hd', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

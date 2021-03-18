@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVXS5FX-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
 sku: 'B07YVXS5FX-es'
-tags: [ 'apple','auriculares','bluetooth', ]
 actualPrice: 146.4 EUR
 currency: EUR
 price: 146.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KY5Z6XD-es LEXIN FT4 Auriculares Intercomunicador Moto Bluetooth...'
 sku: 'B07KY5Z6XD-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

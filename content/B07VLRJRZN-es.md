@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLRJRZN-es LUDOS Clamor Auriculares con Micrófono y Cable Cascos...'
 sku: 'B07VLRJRZN-es'
-tags: [ 'auriculares','huawei','iphone','ordenador','samsung','xiaomi', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1X93HW-es AVerMedia Live Streamer WEBCAM 313: Full HD 1080p dos...'
 sku: 'B07W1X93HW-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 67.91 EUR
 currency: EUR
 price: 67.91

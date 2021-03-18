@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FHJLE6M-es Numark Party Mix - Controlador de DJ plug-and-play de 2...'
 sku: 'B01FHJLE6M-es'
-tags: [ 'auriculares', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

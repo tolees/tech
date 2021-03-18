@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDHGLL9-es Thrustmaster - Auriculares De Gaming Multiplataforma con...'
 sku: 'B07GDHGLL9-es'
-tags: [ 'auriculares', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

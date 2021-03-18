@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDBC1L7-es Amazon - Echo Show 5: mantén el contacto con la ayuda de...'
 sku: 'B07KDBC1L7-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Altavoces y pantallas inteligentes Echo','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos internos','Electrónica','Equipos de audio y Hi-Fi','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Pantallas inteligentes','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','Tecnología para vestir','Videojuegos','alexa','amazon', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

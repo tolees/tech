@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749WNBLJ-es SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de...'
 sku: 'B0749WNBLJ-es'
-tags: [ 'sandisk', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

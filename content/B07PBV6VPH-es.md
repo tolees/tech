@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBV6VPH-es GeekerChip 2.5 HDD SSD Hard Drive Caddy 9.5mm Soporte...'
 sku: 'B07PBV6VPH-es'
-tags: [ 'disco','duro', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVSCK67-es INPHIC Alfombrilla Ratón Grande Gaming Mouse Pad 700 x 300...'
 sku: 'B07PVSCK67-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Teclados, ratones y periféricos de entrada','inphic','ratón', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

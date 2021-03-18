@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8XVSTX-es Veetop Cable Ethernet Cat 8 de Red Negro con Conectores...'
 sku: 'B07G8XVSTX-es'
-tags: [ 'gigabit', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDRZCXG-es MEDION AKOYA M80 - PCC893 Ordenador de sobremesa Intel...'
 sku: 'B07NDRZCXG-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 389.99 EUR
 currency: EUR
 price: 389.99

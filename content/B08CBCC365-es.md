@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CBCC365-es Dpofirs - Enrutador WiFi 4G 3G + de Bolsillo USB Enrutador...'
 sku: 'B08CBCC365-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Cables USB','Cables y accesorios','Cables y conectores','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','dpofirs','lte','wifi', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

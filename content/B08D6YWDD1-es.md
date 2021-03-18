@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D6YWDD1-es Adaptador de Corriente USB de 12 W de Apple'
 sku: 'B08D6YWDD1-es'
-tags: [ 'apple', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

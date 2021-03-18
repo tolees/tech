@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YT122DS-es Razer Kraken X USBCascos Gaming Auriculares Gaming con...'
 sku: 'B07YT122DS-es'
-tags: [ 'auriculares', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

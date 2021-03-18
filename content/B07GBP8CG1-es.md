@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBP8CG1-es Talentech Ember - Ratón ergonómico RGB USB con cable para...'
 sku: 'B07GBP8CG1-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

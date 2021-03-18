@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SLM4B6-es Brazalete Deportivo para Correr Brazalete Móvil Deportivo...'
 sku: 'B081SLM4B6-es'
-tags: [ 'huawei','iphone','móvil','samsung', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

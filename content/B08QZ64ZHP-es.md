@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZ64ZHP-es Mpow BH283 Adaptador Bluetooth 4.2 Transmisor Receptor 2...'
 sku: 'B08QZ64ZHP-es'
-tags: [ 'bluetooth', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

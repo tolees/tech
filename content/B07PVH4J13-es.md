@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVH4J13-es Hanmir Ventilador de Mano con Bluetooth Mini Ventilador...'
 sku: 'B07PVH4J13-es'
-tags: [ 'bluetooth', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

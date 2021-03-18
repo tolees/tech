@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYK13LF-es SanDisk Ultra Dual Drive Go para Dispositivos con USB...'
 sku: 'B07YYK13LF-es'
-tags: [ 'sandisk', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

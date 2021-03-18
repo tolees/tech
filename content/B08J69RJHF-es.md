@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J69RJHF-es OMOTON Combo Teclado y Ratón Inalámbrico para Windows...'
 sku: 'B08J69RJHF-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

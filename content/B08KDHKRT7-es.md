@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KDHKRT7-es Hangrui Cámara Digital para Niños Cámara Fotos Infantil...'
 sku: 'B08KDHKRT7-es'
-tags: [ '1080p','ips', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKJQ66K-es RuoCherg - Alfombrilla de Ratón RGB Extra Grande Ordenador...'
 sku: 'B07QKJQ66K-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

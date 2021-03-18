@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V8HKSWS-es Proyector WiFi BOSNAS Mini Proyector Portátil Native 720P...'
 sku: 'B08V8HKSWS-es'
-tags: [ '1080p','ps4','smartphone','wifi','full','hd', ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

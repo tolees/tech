@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5GT1J8-es Proyector de cine en casa Zerone HD 1080P mini proyector...'
 sku: 'B07M5GT1J8-es'
-tags: [ '1080p', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

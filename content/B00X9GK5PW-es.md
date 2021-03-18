@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9GK5PW-es Toshiba TransMemory U301 - Memoria USB de 32 GB Color Blanco'
 sku: 'B00X9GK5PW-es'
-tags: [ 'toshiba', ]
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

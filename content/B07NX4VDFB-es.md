@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NX4VDFB-es MFI Certified 1TB Disco Duro Externo para...'
 sku: 'B07NX4VDFB-es'
-tags: [ 'iphone','disco','duro', ]
 actualPrice: 108.79 EUR
 currency: EUR
 price: 108.79

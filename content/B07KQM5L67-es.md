@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQM5L67-es Trust Gaming GXT 165 Celox - Ratón gaming RGB de alta...'
 sku: 'B07KQM5L67-es'
-tags: [ 'ratón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

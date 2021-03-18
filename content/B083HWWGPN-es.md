@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HWWGPN-es Ritokme Auriculares intrauditivos inalámbricos estéreo...'
 sku: 'B083HWWGPN-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

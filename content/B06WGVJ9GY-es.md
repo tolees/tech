@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGVJ9GY-es Beyerdynamic MMX 300 - Auriculares de gamimg con micrófono...'
 sku: 'B06WGVJ9GY-es'
-tags: [ 'auriculares', ]
 actualPrice: 245.0 EUR
 currency: EUR
 price: 245.0

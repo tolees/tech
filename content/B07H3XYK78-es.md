@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3XYK78-es Fujifilm X-T3 - Cámara de objetivo intercambiable sin...'
 sku: 'B07H3XYK78-es'
-tags: [ 'bluetooth','fujifilm','wifi', ]
 actualPrice: 1099.9 EUR
 currency: EUR
 price: 1099.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7NWZ8C-es Rii RK900+ Teclado Gaming con sensibilidad mecánica...'
 sku: 'B07S7NWZ8C-es'
-tags: [ 'ratón','rii','teclado', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

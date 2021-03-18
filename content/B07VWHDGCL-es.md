@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWHDGCL-es Abafia Adaptador Bluetooth USB V5.0 2-en-1 Receptor...'
 sku: 'B07VWHDGCL-es'
-tags: [ 'bluetooth', ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

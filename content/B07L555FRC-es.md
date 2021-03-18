@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L555FRC-es Mpow Auriculares Bluetooth Deportivos Flame Inalámbricos...'
 sku: 'B07L555FRC-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017NPA1KI-es Tiempo de saldos mesa de PC soporte plegable ordenador...'
 sku: 'B017NPA1KI-es'
-tags: [ 'ordenador','tablet', ]
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

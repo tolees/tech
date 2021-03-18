@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D25PK4G-es Bloomy Shop - Funda para Huawei MediaPad M5 10 8 Pulgadas...'
 sku: 'B07D25PK4G-es'
-tags: [ 'huawei', ]
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

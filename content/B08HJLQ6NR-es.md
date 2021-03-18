@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJLQ6NR-es Xiaomi Mi 10T Pro Pantalla 6.67" Fhd+ Dotdisplay 8Gb+256Gb...'
 sku: 'B08HJLQ6NR-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Teclados, ratones y periféricos de entrada','xiaomi', ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

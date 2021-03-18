@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DKMTF2K-es Garmin Fenix 5 Plus - Reloj GPS multideporte Plata con...'
 sku: 'B07DKMTF2K-es'
-tags: [ 'garmin','gps', ]
 actualPrice: 464.86 EUR
 currency: EUR
 price: 464.86

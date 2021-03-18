@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJHTFVW-es Xiaomi Mi 10T Pro Pantalla 6.67" Fhd+ Dotdisplay 8Gb+128Gb...'
 sku: 'B08HJHTFVW-es'
-tags: [ 'xiaomi', ]
 actualPrice: 504.72 EUR
 currency: EUR
 price: 504.72

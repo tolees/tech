@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6NKCZN-es ASUS GX701GXR-H6097T - Portátil Gaming de 15 6" FullHD...'
 sku: 'B07Z6NKCZN-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 2399.0 EUR
 currency: EUR
 price: 2399.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SJGQ9T1-es Tronsmart T6 Plus Altavoz Bluetooth 40W Altavoces...'
 sku: 'B07SJGQ9T1-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BK18BQ-es MinAbblie - Drone con Camara Drone Apto para Principiantes...'
 sku: 'B088BK18BQ-es'
-tags: [ '1080p','wifi', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

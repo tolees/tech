@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XM5KRVX-es Jinhoo - Proyector Proyector WiFi Proyector 5500 Lumens...'
 sku: 'B07XM5KRVX-es'
-tags: [ '1080p','wifi','full','hd', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

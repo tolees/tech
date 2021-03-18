@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7C29JK-es Donerton Auriculares Bluetooth Bluetooth 5.1 In-Ear...'
 sku: 'B08C7C29JK-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFXBW6K-es ASUS ZenBook 14 UX431FA-AM021T - Ordenador portátil de 14"...'
 sku: 'B07RFXBW6K-es'
-tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

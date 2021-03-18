@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q57CQ2B-es Abridor de Puerta Garaje Inteligente Wifi Maxcio Garaje...'
 sku: 'B07Q57CQ2B-es'
-tags: [ 'wifi', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

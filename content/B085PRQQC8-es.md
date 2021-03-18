@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085PRQQC8-es Tronsmart T6 Plus Edición Mejorada Altavoz Bluetooth 40W...'
 sku: 'B085PRQQC8-es'
-tags: [ 'altavoz','bluetooth','tronsmart', ]
 actualPrice: 60.34 EUR
 currency: EUR
 price: 60.34

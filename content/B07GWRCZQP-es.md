@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWRCZQP-es JBL Charge 4 - Altavoz inalámbrico portátil Impermeable...'
 sku: 'B07GWRCZQP-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 106.25 EUR
 currency: EUR
 price: 106.25

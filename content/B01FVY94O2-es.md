@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FVY94O2-es VicTsing - Vtin Punker -Altavoz Bluetooth Premium 20W con...'
 sku: 'B01FVY94O2-es'
-tags: [ 'bluetooth','huawei','xiaomi','altavoz', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

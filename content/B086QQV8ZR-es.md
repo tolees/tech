@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QQV8ZR-es Rii Ratón inalámbrico 2.4G. Ratón óptico portátil...'
 sku: 'B086QQV8ZR-es'
-tags: [ 'ratón', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

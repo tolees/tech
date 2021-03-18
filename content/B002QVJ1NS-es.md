@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QVJ1NS-es Targus AMU75EU - Ratón Compacto'
 sku: 'B002QVJ1NS-es'
-tags: [ 'Ratones','ratón','targus', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

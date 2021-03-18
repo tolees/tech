@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08911QWRW-es ELTD Webcam Cámara USB HD 1080P para videollamadas...'
 sku: 'B08911QWRW-es'
-tags: [ '1080p', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

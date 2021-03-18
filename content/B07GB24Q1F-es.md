@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GB24Q1F-es Michael Kors Smartwatch MKT5049'
 sku: 'B07GB24Q1F-es'
-tags: [ 'smartwatch', ]
 actualPrice: 200.39 EUR
 currency: EUR
 price: 200.39

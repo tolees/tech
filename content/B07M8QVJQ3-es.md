@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8QVJQ3-es Auriculares Bluetooth HOMSCAM Auriculares inalámbricos QCY...'
 sku: 'B07M8QVJQ3-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

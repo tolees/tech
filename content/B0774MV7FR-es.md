@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0774MV7FR-es WAVLINK USB 3.0 Universal Docking Station Multifuncional...'
 sku: 'B0774MV7FR-es'
-tags: [ 'gigabit', ]
 actualPrice: 73.94 EUR
 currency: EUR
 price: 73.94

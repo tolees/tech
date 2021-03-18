@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6C9DPK-es TP-Link Adaptador USB a Gigabit Ethernet 4 en 1 Hub USB...'
 sku: 'B01M6C9DPK-es'
-tags: [ 'Adaptadores de red','Adaptadores de red USB','Dispositivos de red','Informática','Transceptores de red','gigabit','tp-link','xiaomi', ]
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

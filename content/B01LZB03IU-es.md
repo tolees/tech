@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZB03IU-es AGUSTINA GUERRERO La Volátil Carcasa para Mac -...'
 sku: 'B01LZB03IU-es'
-tags: [ 'apple', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

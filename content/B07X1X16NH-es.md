@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1X16NH-es Alcatel 2019G Metallic Silver Pantalla 2.4" Teléfono Móvil...'
 sku: 'B07X1X16NH-es'
-tags: [ 'bluetooth','móvil', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

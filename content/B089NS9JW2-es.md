@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NS9JW2-es Xiaomi Band 5 Unisex adulto Negro Normal'
 sku: 'B089NS9JW2-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Cables USB','Cables y accesorios','Cables y conectores','Deportes y aire libre','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Hogar y cocina','Informática','Monitores de actividad','Robots aspiradores','Routers','Smartwatches','Tecnología para vestir','Webcams y telefonía VoIP','xiaomi', ]
 actualPrice: 27.75 EUR
 currency: EUR
 price: 27.75

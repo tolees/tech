@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JNJGM1G-es UNBREAKcable Protector Pantalla para iPhone 11 Pro/iPhone...'
 sku: 'B07JNJGM1G-es'
-tags: [ 'iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

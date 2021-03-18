@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z69LWK9-es ELEGIANT Altavoces PC 10W Altavoz 2.0 USB Gaming Sobremesa...'
 sku: 'B07Z69LWK9-es'
-tags: [ 'móvil','ordenador','altavoz', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

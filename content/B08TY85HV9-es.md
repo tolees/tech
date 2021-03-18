@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TY85HV9-es Sony Local - El Madrileño'
 sku: 'B08TY85HV9-es'
-tags: [ 'sony', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0812ZD5RW-es Crosstour CT9700 Cámara Deportiva nativa 4K50fps con...'
 sku: 'B0812ZD5RW-es'
-tags: [ 'wifi', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

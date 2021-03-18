@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FC7RSJ6-es Anillo de luz AGPTEK Aro de Luz de 10 2 Pulgadas con un...'
 sku: 'B08FC7RSJ6-es'
-tags: [ 'móvil', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

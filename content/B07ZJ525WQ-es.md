@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJ525WQ-es Amazfit Stratos 3 Smartwatch Reloj Inteligente 19 modos...'
 sku: 'B07ZJ525WQ-es'
-tags: [ 'gps','smartwatch', ]
 actualPrice: 159.71 EUR
 currency: EUR
 price: 159.71

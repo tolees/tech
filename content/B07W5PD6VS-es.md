@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PD6VS-es Dierya DK61E 60% Teclado mecánico para Juegos Teclado PBT...'
 sku: 'B07W5PD6VS-es'
-tags: [ 'teclado', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00005NPOB-es Canon EF 85mm f/1.8 USM - Objetivo para Canon Distancia...'
 sku: 'B00005NPOB-es'
-tags: [ 'canon', ]
 actualPrice: 379.0 EUR
 currency: EUR
 price: 379.0

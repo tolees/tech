@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WP34RL-es Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515F/DS...'
 sku: 'B082WP34RL-es'
-tags: [ 'galaxy','ram','samsung', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

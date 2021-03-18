@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B7CHPJ-es NETGEAR Repetidor Wifi 6 Mesh EAX20 Amplificador señal...'
 sku: 'B086B7CHPJ-es'
-tags: [ 'netgear','wifi', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

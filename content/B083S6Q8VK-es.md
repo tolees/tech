@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083S6Q8VK-es Auriculares de Diadema Inalámbricos con Cancelación de...'
 sku: 'B083S6Q8VK-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

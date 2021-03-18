@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVSQ7NY-es PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 3 3200G...'
 sku: 'B07ZVSQ7NY-es'
-tags: [ 'ordenador', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

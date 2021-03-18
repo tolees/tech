@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTPKM1H-es ASUS ZenBook 14 UX425EA-HM038T - Portátil de 14 " FullHD...'
 sku: 'B08NTPKM1H-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

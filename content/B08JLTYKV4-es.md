@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JLTYKV4-es Anozer Soporte Plegable Tableta Movil Soporte de Aluminio...'
 sku: 'B08JLTYKV4-es'
-tags: [ 'galaxy','huawei','iphone','kindle','samsung','xiaomi', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

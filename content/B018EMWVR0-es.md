@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EMWVR0-es Brother PJ-763MFi - Impresora térmica portátil A4 8ppm y...'
 sku: 'B018EMWVR0-es'
-tags: [ 'Electrónica','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','TV, vídeo y home cinema','Televisores','bluetooth','brother','impresora', ]
 actualPrice: 570.44 EUR
 currency: EUR
 price: 570.44

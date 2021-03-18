@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9W5EA0-es Trust Reno - Auriculares con micrófono para PC Color Negro'
 sku: 'B01N9W5EA0-es'
-tags: [ 'auriculares', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

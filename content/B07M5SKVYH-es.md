@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5SKVYH-es RAMPOW Adaptador USB Tipo C a USB 3.1[OTG] Aluminio...'
 sku: 'B07M5SKVYH-es'
-tags: [ 'huawei','samsung', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

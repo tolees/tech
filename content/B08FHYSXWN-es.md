@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FHYSXWN-es TaoTronics Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B08FHYSXWN-es'
-tags: [ 'auriculares','bluetooth','altavoz', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

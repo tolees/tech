@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQW2YW2-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
 sku: 'B07WQW2YW2-es'
-tags: [ 'apple', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

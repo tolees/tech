@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DJ80RC-es Fellowes - Smart Suites - Soporte Elevador para Monitor de...'
 sku: 'B001DJ80RC-es'
-tags: [ 'fellowes','ordenador', ]
 actualPrice: 30.69 EUR
 currency: EUR
 price: 30.69

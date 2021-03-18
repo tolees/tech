@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYDM7CP-es Tronsmart Auriculares Gaming Sonido Envolvente 7.1-Drivers...'
 sku: 'B07KYDM7CP-es'
-tags: [ 'auriculares', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

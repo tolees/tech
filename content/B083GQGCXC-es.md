@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQGCXC-es TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM...'
 sku: 'B083GQGCXC-es'
-tags: [ 'bluetooth','gps','tablet','wifi', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

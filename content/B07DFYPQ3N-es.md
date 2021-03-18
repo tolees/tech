@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFYPQ3N-es Koch - Team Sonic Racing Nintendo Switch'
 sku: 'B07DFYPQ3N-es'
-tags: [ 'Adaptadores de red','Adaptadores de red USB','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Dispositivos de red','Hardware y juegos para Nintendo Switch','Hogar y cocina','Informática','Juegos para Nintendo Switch','Monitores','Robots aspiradores','Transceptores de red','Videojuegos','koch','nintendo','switch', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

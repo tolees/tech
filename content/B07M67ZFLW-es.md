@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M67ZFLW-es Seagate Technology - Seagate Backup Plus 4 TB Disco duro...'
 sku: 'B07M67ZFLW-es'
-tags: [ 'disco','duro', ]
 actualPrice: 101.73 EUR
 currency: EUR
 price: 101.73

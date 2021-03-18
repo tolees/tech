@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXFQRDK-es MLG Tools Trampas para Ratón Paquete de 6 Trampas Cargado...'
 sku: 'B01AXFQRDK-es'
-tags: [ 'ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

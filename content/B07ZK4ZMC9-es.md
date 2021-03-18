@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZK4ZMC9-es Microsoft RJN-00003 – Bluetooth Mouse Negro'
 sku: 'B07ZK4ZMC9-es'
-tags: [ 'bluetooth','microsoft', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

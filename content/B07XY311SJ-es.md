@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XY311SJ-es Xiaomi Redmi Note 8 Pro Teléfono Pantalla Completa de...'
 sku: 'B07XY311SJ-es'
-tags: [ 'xiaomi', ]
 actualPrice: 203.0 EUR
 currency: EUR
 price: 203.0

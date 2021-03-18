@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZG6WTH-es HyperX HX-MPFS-S-SM FURY S Speed Edition Pro - Alfombrilla...'
 sku: 'B07CZG6WTH-es'
-tags: [ 'ratón', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

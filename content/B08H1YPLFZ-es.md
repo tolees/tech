@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1YPLFZ-es KOOTION 64GB Pendrive USB C 3.0 Memoria USB Tipo C 64 Giga...'
 sku: 'B08H1YPLFZ-es'
-tags: [ 'huawei','ordenador','samsung','xiaomi', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

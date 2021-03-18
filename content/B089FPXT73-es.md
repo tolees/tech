@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089FPXT73-es MSI Prestige 15 A10SC-295ES - Ordenador portátil de 15.6"...'
 sku: 'B089FPXT73-es'
-tags: [ 'msi','ordenador','ram','teclado', ]
 actualPrice: 1361.0 EUR
 currency: EUR
 price: 1361.0

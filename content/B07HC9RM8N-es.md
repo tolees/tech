@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HC9RM8N-es SupCase Funda para iWatch Series SE/6/5/4 44 mm [UB Pro]...'
 sku: 'B07HC9RM8N-es'
-tags: [ 'apple', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

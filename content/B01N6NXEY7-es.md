@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6NXEY7-es Sony HT-ST5000 - Barra de Sonido 7.1.2 Canales 800 W Dolby...'
 sku: 'B01N6NXEY7-es'
-tags: [ 'bluetooth','sony', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

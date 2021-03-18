@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HF3GSTC-es ATOYX Drone con Cámara 720 HD Drone Plegable con App WiFi...'
 sku: 'B07HF3GSTC-es'
-tags: [ 'wifi', ]
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

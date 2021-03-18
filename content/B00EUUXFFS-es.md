@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EUUXFFS-es Logitech Z150 Sistema de Altavoces Compacto Entrada Audio...'
 sku: 'B00EUUXFFS-es'
-tags: [ 'auriculares','logitech', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

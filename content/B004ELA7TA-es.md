@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ELA7TA-es Jabra Speak 410 - Altavoz Portátil para Conferencias con...'
 sku: 'B004ELA7TA-es'
-tags: [ 'altavoz','microsoft', ]
 actualPrice: 91.56 EUR
 currency: EUR
 price: 91.56

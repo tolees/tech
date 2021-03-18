@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ7MX8J-es XINFULUK Ratón óptico inalámbrico de 2 4 GHz para Juegos y...'
 sku: 'B08DJ7MX8J-es'
-tags: [ 'ratón', ]
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

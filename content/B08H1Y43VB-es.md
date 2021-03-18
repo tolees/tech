@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1Y43VB-es STAROVER Cartuchos de Tinta Compatible para Canon PGI-570...'
 sku: 'B08H1Y43VB-es'
-tags: [ 'canon', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

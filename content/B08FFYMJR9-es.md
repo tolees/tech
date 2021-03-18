@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFYMJR9-es Disco duro externo tipo C USB 3.1 portátil 1 TB 2 TB HDD...'
 sku: 'B08FFYMJR9-es'
-tags: [ 'disco','duro', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

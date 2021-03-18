@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XLRVQWT-es Suunto 5 Reloj Deportivo GPS Ligero y Compacto Seguimiento...'
 sku: 'B07XLRVQWT-es'
-tags: [ 'gps','suunto', ]
 actualPrice: 247.98 EUR
 currency: EUR
 price: 247.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JHDH4R2-es ASUS ROG Zephyrus GX550LXS-HF073T - Ordenador portátil...'
 sku: 'B08JHDH4R2-es'
-tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 2699.0 EUR
 currency: EUR
 price: 2699.0

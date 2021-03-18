@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828P3FWG-es Correa del Reloj Compatible con Apple Watch de 38mm 40mm...'
 sku: 'B0828P3FWG-es'
-tags: [ 'apple', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

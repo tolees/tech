@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086JL51WX-es Proyector BIGASUO Mini Proyector Soporte HD 1080P...'
 sku: 'B086JL51WX-es'
-tags: [ '1080p','bluetooth','ps4', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

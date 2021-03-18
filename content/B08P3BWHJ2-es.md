@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P3BWHJ2-es Auriculares Inalámbricos Bluetooth 5 con Micrófonos...'
 sku: 'B08P3BWHJ2-es'
-tags: [ 'auriculares','bcmaster','bluetooth', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZY883JH-es Logitech G413 Teclado Gaming Mecánico Teclas...'
 sku: 'B06ZY883JH-es'
-tags: [ 'logitech','teclado', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

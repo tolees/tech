@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GCQC89V-es Bqeel Marco de Fotos Digital Inteligente con Wi-Fi de 10.1...'
 sku: 'B08GCQC89V-es'
-tags: [ 'ips', ]
 actualPrice: 113.04 EUR
 currency: EUR
 price: 113.04

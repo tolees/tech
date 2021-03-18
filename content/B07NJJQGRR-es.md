@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJQGRR-es Canon EOS RP - Cámara mirroless de 26.2 MP Wi-Fi Bluetooth...'
 sku: 'B07NJJQGRR-es'
-tags: [ 'bluetooth','canon', ]
 actualPrice: 2090.4 EUR
 currency: EUR
 price: 2090.4

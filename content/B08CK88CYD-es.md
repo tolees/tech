@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CK88CYD-es Arbily Auriculares Inalambricos con Dual Microfono 【Último...'
 sku: 'B08CK88CYD-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

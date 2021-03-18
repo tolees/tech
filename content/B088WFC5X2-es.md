@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WFC5X2-es Oihxse Compatible con Huawei Honor 8 Lite Silicona Funda...'
 sku: 'B088WFC5X2-es'
-tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

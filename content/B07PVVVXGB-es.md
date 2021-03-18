@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVVVXGB-es Garmin Forerunner 45S/P Reloj Multisport Adulto Unisex...'
 sku: 'B07PVVVXGB-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Comunicación móvil y accesorios','Deportes y aire libre','Discos duros externos','Dispositivos GPS deportivos','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Figuras interactivas para Nintendo 3DS y 2DS','GPS para carrera','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Informática','Juegos para Nintendo Switch','Móviles','Móviles y smartphones libres','Portátiles','Proyectores','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Videojuegos','garmin', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

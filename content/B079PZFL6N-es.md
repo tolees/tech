@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PZFL6N-es Fujifilm FUJ105231 - Pel?cula instant instax mini pink...'
 sku: 'B079PZFL6N-es'
-tags: [ 'fujifilm', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

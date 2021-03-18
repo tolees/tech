@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074SFNC3V-es Soporte Tablet Coche Soporte Reposacabezas POOPHUNS...'
 sku: 'B074SFNC3V-es'
-tags: [ 'galaxy','samsung','tablet', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

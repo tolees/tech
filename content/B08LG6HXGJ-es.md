@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LG6HXGJ-es MSI Modern 15 A11SB-011ES - Ordenador portátil de 15.6"...'
 sku: 'B08LG6HXGJ-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1243.0 EUR
 currency: EUR
 price: 1243.0

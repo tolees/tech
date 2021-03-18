@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083NQ94GX-es MSI Prestige 14 A10SC-067XES - Ordenador portátil de 14"...'
 sku: 'B083NQ94GX-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1199.99 EUR
 currency: EUR
 price: 1199.99

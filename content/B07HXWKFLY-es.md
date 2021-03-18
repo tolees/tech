@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HXWKFLY-es JeVx Altavoz Furgoneta Volkswagen T1 Bluetooth USB para...'
 sku: 'B07HXWKFLY-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 44.91 EUR
 currency: EUR
 price: 44.91

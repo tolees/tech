@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9MS3MB-es Lauson 01TT15 Tocadiscos Diseño Vintage Coche de Colección...'
 sku: 'B07X9MS3MB-es'
-tags: [ 'bluetooth', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

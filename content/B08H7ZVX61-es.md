@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H7ZVX61-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08H7ZVX61-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

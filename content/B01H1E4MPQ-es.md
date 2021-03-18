@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H1E4MPQ-es LG OM5560 - Microcadena 500 W con Bluetooth 4.0 y USB...'
 sku: 'B01H1E4MPQ-es'
-tags: [ 'bluetooth', ]
 actualPrice: 209.41 EUR
 currency: EUR
 price: 209.41

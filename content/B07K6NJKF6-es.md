@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6NJKF6-es GeekerChip Adaptador USB C a Micro USB Micro USB a Type C...'
 sku: 'B07K6NJKF6-es'
-tags: [ 'galaxy','xiaomi', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0885RRWQY-es Wodgreat Repetidor WiFi 300 Mbit/s 2.4 GHz Amplificador...'
 sku: 'B0885RRWQY-es'
-tags: [ 'wifi', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

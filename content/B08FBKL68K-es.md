@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBKL68K-es SAMSUNG Galaxy Watch 3 Bluetooth 45mm - Smartwatch Mystic...'
 sku: 'B08FBKL68K-es'
-tags: [ 'bluetooth','galaxy','samsung','smartwatch', ]
 actualPrice: 305.1 EUR
 currency: EUR
 price: 305.1

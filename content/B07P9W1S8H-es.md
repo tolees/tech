@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9W1S8H-es Philips SHB-3175BK/00 BASS+ Auriculares Wireless negro'
 sku: 'B07P9W1S8H-es'
-tags: [ 'auriculares', ]
 actualPrice: 32.21 EUR
 currency: EUR
 price: 32.21

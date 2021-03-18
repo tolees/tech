@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7D1QNK-es Adaptador WiFi USB WiFi Antena USB WiFi Adaptador...'
 sku: 'B08F7D1QNK-es'
-tags: [ 'wifi', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

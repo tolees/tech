@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081QX9V2Y-es Razer DeathAdder V2 - Ratón para Juegos USB con Cable con...'
 sku: 'B081QX9V2Y-es'
-tags: [ 'ratón', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P36JGZ9-es nonda Cable USB Tipo C 20V/5A 100W 2M Cable de Carga...'
 sku: 'B08P36JGZ9-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

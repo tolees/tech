@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L3NM4G8-es Alfombrilla Ratón RGB - UCMDA Alfombrilla Gaming 14 Modos...'
 sku: 'B08L3NM4G8-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

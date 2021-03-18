@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBWU596-es Sony NWE394B.CEW - Reproductor MP3 reproducción de música...'
 sku: 'B01BBWU596-es'
-tags: [ 'sony', ]
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

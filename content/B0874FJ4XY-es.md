@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0874FJ4XY-es LIFEBEE Smartwatch Reloj Inteligente Impermeable IP68 con...'
 sku: 'B0874FJ4XY-es'
-tags: [ 'lifebee','smartwatch', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PY3JT5H-es HP 25MX - Monitor de 25" FullHD 1920x1080 IPS LED 16:9 1...'
 sku: 'B07PY3JT5H-es'
-tags: [ 'ips', ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

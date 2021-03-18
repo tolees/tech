@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVM1P52-es Babacom Soporte Portatil Ajustable Elevador Portatil Mesa...'
 sku: 'B08NVM1P52-es'
-tags: [ 'dell','lenovo','ordenador', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

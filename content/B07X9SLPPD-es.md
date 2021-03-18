@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9SLPPD-es Auriculares Inalambricos Bluetooth 5.0 Auriculares...'
 sku: 'B07X9SLPPD-es'
-tags: [ 'auriculares','bluetooth','smartphone', ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

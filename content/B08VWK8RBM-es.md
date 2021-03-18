@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWK8RBM-es Xiaomi Redmi 9T con NFC Cámara cuádruple de 48 MP con IA...'
 sku: 'B08VWK8RBM-es'
-tags: [ 'xiaomi', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M9J4GCU-es ELEGOO Conjunto Avanzado de Iniciación Compatible con...'
 sku: 'B01M9J4GCU-es'
-tags: [ 'arduino', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

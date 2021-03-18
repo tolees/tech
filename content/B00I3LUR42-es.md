@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LUR42-es Sony MDR-EX15LP - Auriculares In-Ear Blanco'
 sku: 'B00I3LUR42-es'
-tags: [ 'auriculares','sony', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

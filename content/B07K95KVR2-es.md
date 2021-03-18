@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K95KVR2-es Motorola Lifestyle VerveLoop200 - Auriculares...'
 sku: 'B07K95KVR2-es'
-tags: [ 'auriculares','motorola', ]
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

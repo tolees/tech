@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLLD8N7-es TECKEPIC Fitness Tracker Color Screen Activity Tracker...'
 sku: 'B07JLLD8N7-es'
-tags: [ 'bluetooth', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

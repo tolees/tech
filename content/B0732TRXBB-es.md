@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0732TRXBB-es HP 24w 1CA86AA - Monitor 24" Full HD 1920 x 1080 pixeles...'
 sku: 'B0732TRXBB-es'
-tags: [ 'full','hd', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

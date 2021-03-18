@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RZ63X8Y-es Zoeley Soporte Portátil Soporte Ordenador Portátil Mesa...'
 sku: 'B08RZ63X8Y-es'
-tags: [ 'dell','lenovo','ordenador', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

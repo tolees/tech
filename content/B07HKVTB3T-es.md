@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKVTB3T-es Apple Watch Series 3 GPS con caja de 38 mm de aluminio en...'
 sku: 'B07HKVTB3T-es'
-tags: [ 'apple','gps', ]
 actualPrice: 193.0 EUR
 currency: EUR
 price: 193.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J2FYYYT-es Sony Alpha 7 C - Cámara Evil de fotograma Completo...'
 sku: 'B08J2FYYYT-es'
-tags: [ 'sony', ]
 actualPrice: 1785.0 EUR
 currency: EUR
 price: 1785.0

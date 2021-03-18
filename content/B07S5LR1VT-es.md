@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5LR1VT-es ASUS ROG Strix G731GW-EV010T - Portátil Gaming de 17.3"...'
 sku: 'B07S5LR1VT-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1679.69 EUR
 currency: EUR
 price: 1679.69

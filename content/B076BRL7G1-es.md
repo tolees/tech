@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076BRL7G1-es Auriculares JVC HA-FX21BT-BE Bluetooth Resistentes a...'
 sku: 'B076BRL7G1-es'
-tags: [ 'auriculares','bluetooth','jvc', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

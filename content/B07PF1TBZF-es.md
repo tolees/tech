@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PF1TBZF-es Corsair Carbide Series 175R RGB - Caja de Ordenador para...'
 sku: 'B07PF1TBZF-es'
-tags: [ 'ordenador', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

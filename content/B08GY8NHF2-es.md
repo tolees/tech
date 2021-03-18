@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GY8NHF2-es SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador...'
 sku: 'B08GY8NHF2-es'
-tags: [ 'sandisk', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

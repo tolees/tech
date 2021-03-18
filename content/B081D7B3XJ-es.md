@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081D7B3XJ-es Oakcastle Internet Radio WiFi Spotify Connect Bluetooth...'
 sku: 'B081D7B3XJ-es'
-tags: [ 'bluetooth','wifi', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

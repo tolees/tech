@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH1WSGN-es Baseus Cable USB C USB Tipo C 2 Unidades de 2 M + 1 M...'
 sku: 'B07HH1WSGN-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

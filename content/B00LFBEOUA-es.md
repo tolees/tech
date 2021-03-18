@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LFBEOUA-es Logitech G402 - Ratón para gaming con 8 botones...'
 sku: 'B00LFBEOUA-es'
-tags: [ 'logitech','ratón', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

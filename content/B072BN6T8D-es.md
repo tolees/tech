@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BN6T8D-es Samsung Mc28M6055CS/EC - Horno-Microondas con grill...'
 sku: 'B072BN6T8D-es'
-tags: [ 'samsung', ]
 actualPrice: 194.65 EUR
 currency: EUR
 price: 194.65

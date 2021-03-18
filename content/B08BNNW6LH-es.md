@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BNNW6LH-es artfone CF241A Teléfono Móvil para Personas Mayores Teclas...'
 sku: 'B08BNNW6LH-es'
-tags: [ 'móvil', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

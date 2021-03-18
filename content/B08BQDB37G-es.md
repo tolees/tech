@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BQDB37G-es XIAOMI Mi Electric Scooter 1S Black Versión básica'
 sku: 'B08BQDB37G-es'
-tags: [ 'xiaomi', ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

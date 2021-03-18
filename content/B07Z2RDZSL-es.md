@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z2RDZSL-es Monuary 5 Piezas Correas Compatible con Xiaomi Mi Band 4 /...'
 sku: 'B07Z2RDZSL-es'
-tags: [ 'xiaomi', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

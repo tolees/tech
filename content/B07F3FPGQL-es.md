@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3FPGQL-es HP OMEN 15-dc0000ns - Portátil Gaming de 15.6" FullHD...'
 sku: 'B07F3FPGQL-es'
-tags: [ 'ram','teclado', ]
 actualPrice: 1049.99 EUR
 currency: EUR
 price: 1049.99

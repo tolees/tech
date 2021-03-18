@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BTQHNC-es LUROON Soporte Tablet Soporte Teléfono Altura de ángulo...'
 sku: 'B088BTQHNC-es'
-tags: [ 'móvil','samsung','smartphone','tablet', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

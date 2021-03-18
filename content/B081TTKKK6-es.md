@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TTKKK6-es ELEGIANT Altavoces PC Sobremesa 10W Altavoz Bluetooth 5.0...'
 sku: 'B081TTKKK6-es'
-tags: [ 'bluetooth','móvil','ordenador','altavoz', ]
 actualPrice: 31.29 EUR
 currency: EUR
 price: 31.29

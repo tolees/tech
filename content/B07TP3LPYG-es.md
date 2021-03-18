@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TP3LPYG-es Teclado Gaming WisFox Colorido Arco Lris LED...'
 sku: 'B07TP3LPYG-es'
-tags: [ 'teclado', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

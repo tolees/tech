@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLPXZC2-es Mpow H7 Cascos Bluetooth Diadema 25hrs de Reproducir Hi-Fi...'
 sku: 'B07BLPXZC2-es'
-tags: [ 'auriculares','bluetooth','móvil', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

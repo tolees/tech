@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRJSSKP-es 10A Control remoto inalámbrico inteligente para el hogar...'
 sku: 'B08CRJSSKP-es'
-tags: [ 'wifi', ]
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

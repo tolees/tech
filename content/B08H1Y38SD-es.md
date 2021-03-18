@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1Y38SD-es Jelly Comb Funda con Teclado Español Ñ para Samsung Tab S7...'
 sku: 'B08H1Y38SD-es'
-tags: [ 'bluetooth','samsung','teclado', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

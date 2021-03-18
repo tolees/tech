@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M5GHSMR-es Lámpara Proyector Amouhom Proyector Estrellas & Océano 2...'
 sku: 'B08M5GHSMR-es'
-tags: [ 'bluetooth', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

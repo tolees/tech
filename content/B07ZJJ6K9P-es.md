@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJJ6K9P-es ITSHINY - Camara Fotos Infantil - Cámara Fotos Niños con...'
 sku: 'B07ZJJ6K9P-es'
-tags: [ '1080p', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

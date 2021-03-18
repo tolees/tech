@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFYQ9PH-es HONOR Router 3 WiFi 6 Plus 3000Mbps Router inalámbrico...'
 sku: 'B08DFYQ9PH-es'
-tags: [ 'wifi', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

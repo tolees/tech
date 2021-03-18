@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P1TW74C-es YUDOXN - Set de Cámara de Fotos Digital para Niños con...'
 sku: 'B08P1TW74C-es'
-tags: [ '1080p', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

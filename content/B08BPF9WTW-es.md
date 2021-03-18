@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BPF9WTW-es MSI Creator 17 A10SE-627ES - Ordenador portátil de 17.3"...'
 sku: 'B08BPF9WTW-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 2399.99 EUR
 currency: EUR
 price: 2399.99

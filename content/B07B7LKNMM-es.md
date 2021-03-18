@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B7LKNMM-es Lemnoi - Ejeas V6 Pro Auriculares Intercomunicador Moto...'
 sku: 'B07B7LKNMM-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

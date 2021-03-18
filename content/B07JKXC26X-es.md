@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKXC26X-es Memoria USB Universal de 64 GB Pen Drive Tipo C Micro USB...'
 sku: 'B07JKXC26X-es'
-tags: [ 'móvil','ordenador', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

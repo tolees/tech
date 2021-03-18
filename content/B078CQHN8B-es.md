@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078CQHN8B-es Panasonic KX-TGK212 - Teléfono fijo inalámbrico de diseño...'
 sku: 'B078CQHN8B-es'
-tags: [ 'panasonic', ]
 actualPrice: 59.29 EUR
 currency: EUR
 price: 59.29

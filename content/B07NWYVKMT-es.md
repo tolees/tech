@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWYVKMT-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
 sku: 'B07NWYVKMT-es'
-tags: [ 'galaxy','samsung','smartphone', ]
 actualPrice: 661.0 EUR
 currency: EUR
 price: 661.0

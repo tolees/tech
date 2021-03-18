@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SMCX11J-es BeWlaner - Repetidor WiFi Banda Dual Amplificador de WiFi...'
 sku: 'B08SMCX11J-es'
-tags: [ 'wifi', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

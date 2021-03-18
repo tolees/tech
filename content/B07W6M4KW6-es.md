@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6M4KW6-es KLIM Fusion Auriculares Audio - De Larga Duración + 5 Años...'
 sku: 'B07W6M4KW6-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

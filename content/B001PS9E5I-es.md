@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001PS9E5I-es TP-Link TL-PoE150S Gigabit Ethernet PoE Inyector Plug-and-...'
 sku: 'B001PS9E5I-es'
-tags: [ 'gigabit', ]
 actualPrice: 20.76 EUR
 currency: EUR
 price: 20.76

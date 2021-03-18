@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPC6LNW-es Samsung Galaxy A31 - Smartphone 6.4" Super AMOLED teléfono...'
 sku: 'B08GPC6LNW-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Comunicación móvil y accesorios','Deportes y aire libre','Discos duros externos','Dispositivos GPS deportivos','Dispositivos de red','Electrónica','Electrónica y dispositivos para el deporte','Figuras interactivas para Nintendo 3DS y 2DS','GPS para carrera','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos para Nintendo Switch','Móviles','Móviles y smartphones libres','Packs de accesorios para PlayStation 4','Portátiles','Proyectores','Routers','Sistemas WiFi Mesh','Sistemas precursores y micro consolas','Smartwatches','TV, vídeo y home cinema','Tecnología para vestir','Videojuegos','galaxy','ram','samsung','smartphone', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KT5MCW-es Auriculares Inalámbricos Bluetooth Auriculares Bluetooth...'
 sku: 'B086KT5MCW-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

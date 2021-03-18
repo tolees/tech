@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0151KM4VG-es TOSHIBA P300 Disco duro interno 2 TB – 3 5" pulgadas –...'
 sku: 'B0151KM4VG-es'
-tags: [ 'disco','duro','toshiba', ]
 actualPrice: 60.62 EUR
 currency: EUR
 price: 60.62

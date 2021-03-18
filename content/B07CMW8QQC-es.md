@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMW8QQC-es Barra de Sonido Bluetooth Estink 20W Altavoz de Inalámbric...'
 sku: 'B07CMW8QQC-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

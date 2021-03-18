@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1V3NRR-es ELTD Teclado Estuche para Samsung Galaxy Tab a7 10.4...'
 sku: 'B08F1V3NRR-es'
-tags: [ 'galaxy','samsung','teclado', ]
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

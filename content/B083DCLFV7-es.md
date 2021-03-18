@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083DCLFV7-es Auriculares inalámbricos Dudios Bluetooth 5.0 Air...'
 sku: 'B083DCLFV7-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

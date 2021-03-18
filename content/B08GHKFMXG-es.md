@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GHKFMXG-es Judneer Auriculares Bluetooth 5.1 Auriculares Inalámblicos...'
 sku: 'B08GHKFMXG-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

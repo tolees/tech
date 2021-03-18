@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZ3S9L9-es Hoidokly 3 in 1 Wireless Charger Qi 7.5W Fast Charging...'
 sku: 'B07TZ3S9L9-es'
-tags: [ 'iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

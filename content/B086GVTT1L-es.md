@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GVTT1L-es Oihxse Compatible con Huawei Honor V10 Lite/8X Funda Suave...'
 sku: 'B086GVTT1L-es'
-tags: [ 'huawei', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

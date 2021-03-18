@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQVCK5W-es ODLICNO 3G Teléfono Móvil para Personas Mayores Teclas...'
 sku: 'B08FQVCK5W-es'
-tags: [ 'Móviles de teclas grandes','móvil','odlicno', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJF6VWB-es DOOGEE S96 Pro 8GB RAM + 128GB ROM Movil Libre Cámara...'
 sku: 'B08QJF6VWB-es'
-tags: [ 'gps','móvil','ram','smartphone', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

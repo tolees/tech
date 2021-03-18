@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQPPNLK-es Xiaomi Mi Casual Daypack Orange'
 sku: 'B07KQPPNLK-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

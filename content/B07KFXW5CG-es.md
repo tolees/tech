@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFXW5CG-es PUMA Smash v2 SD Jr Zapatillas Unisex Niños Galaxy Blue...'
 sku: 'B07KFXW5CG-es'
-tags: [ 'galaxy', ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

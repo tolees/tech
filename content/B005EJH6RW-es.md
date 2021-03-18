@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005EJH6RW-es AmazonBasics - Ratón con 3 botones y cable USB 5V - 100mA...'
 sku: 'B005EJH6RW-es'
-tags: [ 'ratón', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

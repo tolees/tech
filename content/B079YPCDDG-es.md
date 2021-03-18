@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YPCDDG-es Dexler Dual Wireless Speakers - Sal Y Pimienta - Altavoz PC'
 sku: 'B079YPCDDG-es'
-tags: [ 'altavoz', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

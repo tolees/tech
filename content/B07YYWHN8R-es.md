@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YYWHN8R-es Pingxia - Portátiles Mini impresora térmica PeriPage...'
 sku: 'B07YYWHN8R-es'
-tags: [ 'impresora', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

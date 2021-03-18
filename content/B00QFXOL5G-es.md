@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QFXOL5G-es WD Black - Disco duro de alto rendimiento para ordenadores...'
 sku: 'B00QFXOL5G-es'
-tags: [ 'disco','duro', ]
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

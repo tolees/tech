@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0746QNCJQ-es Plantronics Blackwire 5220 - Auriculares con micrófono...'
 sku: 'B0746QNCJQ-es'
-tags: [ 'auriculares', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

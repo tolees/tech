@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y8Q92HZ-es Microsoft Surface Laptop 3 - Ordenador portátil de 15"...'
 sku: 'B07Y8Q92HZ-es'
-tags: [ 'microsoft','ordenador','ram','teclado', ]
 actualPrice: 1049.0 EUR
 currency: EUR
 price: 1049.0

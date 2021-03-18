@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWS52MI-es Panasonic Eneloop SY3052630 - Pack 4 Pilas Recargables AA'
 sku: 'B00IWS52MI-es'
-tags: [ 'panasonic', ]
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

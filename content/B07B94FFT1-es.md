@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B94FFT1-es SiKER Adaptador de CA Tipo C de 45 W USB/Cargador de...'
 sku: 'B07B94FFT1-es'
-tags: [ 'dell','lenovo', ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

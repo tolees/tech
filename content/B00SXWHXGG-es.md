@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SXWHXGG-es TaoTronics Altavoz Bluetooth Ducha Impermeable Inalámbrico...'
 sku: 'B00SXWHXGG-es'
-tags: [ 'altavoz','bluetooth','taotronics', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

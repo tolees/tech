@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCDFHLB-es Anker Soundcore Mini 3 Altavoz Bluetooth Speaker...'
 sku: 'B08FCDFHLB-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

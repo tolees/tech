@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KNRV54-es HUAWEI P40 lite 5G - Smartphone de 6.5" Cuádruple Cámara...'
 sku: 'B088KNRV54-es'
-tags: [ 'huawei','ram','smartphone', ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

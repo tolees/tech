@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006LNTSP8-es Logitech MK220 Combo Teclado y Ratón Inalámbrico para...'
 sku: 'B006LNTSP8-es'
-tags: [ 'logitech','ratón','teclado', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

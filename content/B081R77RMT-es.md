@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081R77RMT-es Winnes Reloj Inteligente Niño Reloj Smartwatch Niños Niña...'
 sku: 'B081R77RMT-es'
-tags: [ 'gps','smartwatch', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

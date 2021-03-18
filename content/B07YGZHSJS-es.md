@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGZHSJS-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/16GB...'
 sku: 'B07YGZHSJS-es'
-tags: [ 'microsd', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

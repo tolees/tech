@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y698TWW-es Fujifilm Instax Mini 9 - Cámara instantánea Solo cámara Rosa'
 sku: 'B06Y698TWW-es'
-tags: [ 'fujifilm', ]
 actualPrice: 63.39 EUR
 currency: EUR
 price: 63.39

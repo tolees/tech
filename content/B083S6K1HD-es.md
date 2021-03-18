@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S6K1HD-es CRAPHY Trípode de Cámara Móvil Monopie Ligero Aluminio...'
 sku: 'B083S6K1HD-es'
-tags: [ 'canon','móvil','nikon','smartphone','sony', ]
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

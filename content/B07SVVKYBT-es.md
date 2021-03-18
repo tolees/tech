@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVVKYBT-es BNC a HDMI Convertidor Monitor a HDMI HD 1080P / 720P...'
 sku: 'B07SVVKYBT-es'
-tags: [ '1080p', ]
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GLK9JX6-es Xiaomi Smartphone Redmi Note 8 Pro 6 53 Fhd+ 6Gb/128Gb...'
 sku: 'B08GLK9JX6-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

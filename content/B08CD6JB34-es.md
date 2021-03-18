@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CD6JB34-es VicTsing Mini Proyector Portatil WiFi Proyector Bluetooth...'
 sku: 'B08CD6JB34-es'
-tags: [ '1080p','bluetooth','wifi','full','hd', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

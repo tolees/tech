@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083TPXSP2-es Baseus 11 in 1 USB C Hub Adapter Aluminio Tipo C Docking...'
 sku: 'B083TPXSP2-es'
-tags: [ 'gigabit', ]
 actualPrice: 63.29 EUR
 currency: EUR
 price: 63.29

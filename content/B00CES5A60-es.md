@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CES5A60-es Logitech C930e Business Webcam Video-Llamadas Full HD...'
 sku: 'B00CES5A60-es'
-tags: [ 'full','hd','logitech', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

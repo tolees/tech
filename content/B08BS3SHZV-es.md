@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BS3SHZV-es [Nuevo] TP-Link M7000 Router 4G móvil Wifi MiFi 4G Cat4...'
 sku: 'B08BS3SHZV-es'
-tags: [ 'móvil','wifi', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

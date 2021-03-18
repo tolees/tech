@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF128KW-es UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate...'
 sku: 'B07HF128KW-es'
-tags: [ 'huawei', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

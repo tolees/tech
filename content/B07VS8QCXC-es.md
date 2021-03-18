@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS8QCXC-es Seagate Technology - Seagate Portable Drive Unidad de...'
 sku: 'B07VS8QCXC-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Dispositivos internos','Electrónica','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','Tecnología para vestir','Videojuegos','disco','duro','ordenador','seagate technology', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

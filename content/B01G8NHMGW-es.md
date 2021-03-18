@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G8NHMGW-es HP X900 Wired Mouse USB Óptico 1000DPI Ambidextro Negro -...'
 sku: 'B01G8NHMGW-es'
-tags: [ 'ratón', ]
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

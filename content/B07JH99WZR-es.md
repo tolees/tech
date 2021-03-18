@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JH99WZR-es Sony - Saber Es Poder: Generaciones'
 sku: 'B07JH99WZR-es'
-tags: [ 'sony', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

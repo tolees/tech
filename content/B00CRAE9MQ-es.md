@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CRAE9MQ-es Samyang F1110901101 - Objetivo fotográfico DSLR para Canon...'
 sku: 'B00CRAE9MQ-es'
-tags: [ 'canon', ]
 actualPrice: 691.95 EUR
 currency: EUR
 price: 691.95

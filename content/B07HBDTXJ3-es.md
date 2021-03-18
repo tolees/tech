@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HBDTXJ3-es SteelSeries Rival 650 Ratón de Juego Inalámbrico Quantum...'
 sku: 'B07HBDTXJ3-es'
-tags: [ 'ratón', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

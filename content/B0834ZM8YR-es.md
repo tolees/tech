@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834ZM8YR-es Netac Tarjeta de Memoria de 256GB Tarjeta Memoria...'
 sku: 'B0834ZM8YR-es'
-tags: [ 'móvil', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

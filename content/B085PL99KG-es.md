@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PL99KG-es realme X50 Pro – Smartphone 5G de 6.44” 8 GB RAM + 128 GB...'
 sku: 'B085PL99KG-es'
-tags: [ 'microsd','ram','smartphone', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

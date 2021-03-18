@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082CYJQ8Y-es GIANAC - Cable Micro USB 3 Pack [2M] Trenzado de Nylon...'
 sku: 'B082CYJQ8Y-es'
-tags: [ 'galaxy','kindle','samsung','sony', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

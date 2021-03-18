@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X1CHFJ5-es Tenda AC6 Router inalámbrico inteligente de Doble Banda...'
 sku: 'B06X1CHFJ5-es'
-tags: [ 'wifi', ]
 actualPrice: 23.51 EUR
 currency: EUR
 price: 23.51

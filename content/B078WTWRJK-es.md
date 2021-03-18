@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTWRJK-es Sony SRSXB41R - Altavoz portátil Bluetooth Extra Bass Modo...'
 sku: 'B078WTWRJK-es'
-tags: [ 'altavoz','bluetooth','smartphone','sony', ]
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

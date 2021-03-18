@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892ZYWHW-es funfunfly Webcam PC con Microfono HD 1080P Webcam para...'
 sku: 'B0892ZYWHW-es'
-tags: [ '1080p', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

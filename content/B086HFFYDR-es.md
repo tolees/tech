@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HFFYDR-es ASUS ROG Zephyrus G GA502DU-AL064 - Portátil Gaming de...'
 sku: 'B086HFFYDR-es'
-tags: [ 'asus','ram','teclado', ]
 actualPrice: 1057.16 EUR
 currency: EUR
 price: 1057.16

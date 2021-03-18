@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X91TKTP-es Panasonic Lumix G DC-GX880KECD - Cámara Evil de 16 MP M4/3...'
 sku: 'B07X91TKTP-es'
-tags: [ 'panasonic','wifi', ]
 actualPrice: 367.2 EUR
 currency: EUR
 price: 367.2

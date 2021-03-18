@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KGJCZP2-es Proyector WiFi Bluetooth 1080P WiMiUS 7500 Proyector Full...'
 sku: 'B08KGJCZP2-es'
-tags: [ '1080p','bluetooth','wifi','full','hd', ]
 actualPrice: 218.34 EUR
 currency: EUR
 price: 218.34

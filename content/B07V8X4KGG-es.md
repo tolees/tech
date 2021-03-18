@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V8X4KGG-es Sony FE 35mm f/1.8 - Full-Frame Gran Angular Objetivo...'
 sku: 'B07V8X4KGG-es'
-tags: [ 'sony', ]
 actualPrice: 594.0 EUR
 currency: EUR
 price: 594.0

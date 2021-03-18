@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089SX9S8P-es ELEGIANT Webcam Cámara Web 1080P HD PC Cámara de Ordenador...'
 sku: 'B089SX9S8P-es'
-tags: [ '1080p','ordenador', ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

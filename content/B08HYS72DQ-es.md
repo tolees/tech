@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYS72DQ-es VAVA bebé monitor Vigilabebés con cámara y audio con...'
 sku: 'B08HYS72DQ-es'
-tags: [ 'ips', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVFN3HJ-es JOYACCESS - Webcam con microfono para pc Web cámara 1080p...'
 sku: 'B08HVFN3HJ-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

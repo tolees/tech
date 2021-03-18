@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6ZHH69-es Alcatel 2053D - Teléfono Móvil Dual SIM de 2.4" 2G RAM de...'
 sku: 'B07L6ZHH69-es'
-tags: [ 'alcatel','bluetooth','móvil','ram', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

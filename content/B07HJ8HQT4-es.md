@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJ8HQT4-es ASUS ZenScreen GO MB16AP - Monitor portátil de 15.6" 39.6...'
 sku: 'B07HJ8HQT4-es'
-tags: [ 'asus','ips','full','hd', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

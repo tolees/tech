@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N5DD6RN-es Xiaomi Poco M3 - Smartphone 4+128GB Pantalla 6 53" FHD+...'
 sku: 'B08N5DD6RN-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 129.94 EUR
 currency: EUR
 price: 129.94

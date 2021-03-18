@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L6GD68B-es Lenovo IdeaPad Duet 3 - Portátil 2 en 1 de 13.3" WUXGA...'
 sku: 'B08L6GD68B-es'
-tags: [ 'lenovo','ram','teclado', ]
 actualPrice: 449.65 EUR
 currency: EUR
 price: 449.65

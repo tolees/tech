@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM1JWPJ-es Coener T9 Ratón Inalámbrico Delgado Portatil Silencioso...'
 sku: 'B07MM1JWPJ-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

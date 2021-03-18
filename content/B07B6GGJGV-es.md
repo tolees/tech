@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6GGJGV-es Robot aspirador iRobot Roomba 981 Alta potencia y Power...'
 sku: 'B07B6GGJGV-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces','Altavoces de suelo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Equipos de audio y Hi-Fi','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Memorias USB','Ratones','Robots aspiradores','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Televisores','Videojuegos','irobot','roomba', ]
 actualPrice: 639.54 EUR
 currency: EUR
 price: 639.54

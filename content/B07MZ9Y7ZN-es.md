@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ9Y7ZN-es Samsung EP-P5200 Interior Negro - Cargador Interior...'
 sku: 'B07MZ9Y7ZN-es'
-tags: [ 'samsung', ]
 actualPrice: 52.56 EUR
 currency: EUR
 price: 52.56

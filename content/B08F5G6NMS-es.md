@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F5G6NMS-es yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub...'
 sku: 'B08F5G6NMS-es'
-tags: [ 'tablet', ]
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

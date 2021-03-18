@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFGFSSP-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
 sku: 'B07LFGFSSP-es'
-tags: [ 'apple', ]
 actualPrice: 59.87 EUR
 currency: EUR
 price: 59.87

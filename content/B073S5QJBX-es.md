@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073S5QJBX-es GPC Image 6 Pack PGI-570XL CLI-571XL Cartucho de Tinta...'
 sku: 'B073S5QJBX-es'
-tags: [ 'canon', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

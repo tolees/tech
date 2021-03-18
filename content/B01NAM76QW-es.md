@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAM76QW-es TECKNET Teclado Mecánico Gaming Teclado Gaming con...'
 sku: 'B01NAM76QW-es'
-tags: [ 'teclado', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

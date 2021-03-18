@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A5YMCH4-es Learning Resources- Code & Go Conjunto de Actividades del...'
 sku: 'B01A5YMCH4-es'
-tags: [ 'ratón', ]
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

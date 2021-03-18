@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RYHWY4B-es Wodgreat Repetidor WiFi 1200Mbps Amplificador Señal WiFi...'
 sku: 'B08RYHWY4B-es'
-tags: [ 'wifi', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

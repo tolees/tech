@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WSCXHX-es Sony UBP-X700B Reproductor de BLU-Ray 4K UHD Dolby Vision...'
 sku: 'B078WSCXHX-es'
-tags: [ 'sony', ]
 actualPrice: 175.0 EUR
 currency: EUR
 price: 175.0

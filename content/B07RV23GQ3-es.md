@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV23GQ3-es ELZO Soporte Plegable de Aluminio para Ordenador Portátil...'
 sku: 'B07RV23GQ3-es'
-tags: [ 'ordenador', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

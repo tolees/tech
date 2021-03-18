@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FS83WC-es Auriculares Bluetooth HAVIT Auricular Inalámbricos Cascos...'
 sku: 'B075FS83WC-es'
-tags: [ 'auriculares','bluetooth','huawei','samsung','xiaomi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

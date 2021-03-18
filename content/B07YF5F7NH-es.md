@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YF5F7NH-es Microsoft Surface Arc - Ratón Azul'
 sku: 'B07YF5F7NH-es'
-tags: [ 'microsoft','ratón', ]
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81

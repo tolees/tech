@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711LMQVQ-es COOSA Correa de Recambio Brazalete Extensibles Coloridos...'
 sku: 'B0711LMQVQ-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

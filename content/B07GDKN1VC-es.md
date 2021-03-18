@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDKN1VC-es Eyoyo Cámara Monitor E5 5 Pulgadas 4K HDMI 1920x1080 Mini...'
 sku: 'B07GDKN1VC-es'
-tags: [ 'canon','ips','nikon','sony', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

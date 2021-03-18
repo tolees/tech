@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V4BGDKU-es Tp-Link UE300 -Adaptador USB 3.0 A Gigabit Ethernet...'
 sku: 'B00V4BGDKU-es'
-tags: [ 'gigabit', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

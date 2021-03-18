@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MS31PS-es Microsoft SWV-00003- USB-C Travel HUB Color Negro'
 sku: 'B088MS31PS-es'
-tags: [ 'microsoft', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

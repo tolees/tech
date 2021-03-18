@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSM2YL4-es K KYUER 4450mAh T4450E Tablet Batería para Samsung Galaxy...'
 sku: 'B07PSM2YL4-es'
-tags: [ 'galaxy','samsung','tablet','wifi', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

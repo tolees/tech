@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ2G1CW-es Xiaomi 18082 Regleta Blanco'
 sku: 'B07DJ2G1CW-es'
-tags: [ 'xiaomi', ]
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

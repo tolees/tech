@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB7RQC3-es Mustriend Tocadiscos de Madera 33/45/78 Velocidad con...'
 sku: 'B07JB7RQC3-es'
-tags: [ 'altavoz','auriculares', ]
 actualPrice: 68.18 EUR
 currency: EUR
 price: 68.18

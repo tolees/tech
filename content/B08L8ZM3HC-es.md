@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L8ZM3HC-es Techole VGA a HDMI Aluminio VGA a HDMI Adaptador 1080P con...'
 sku: 'B08L8ZM3HC-es'
-tags: [ '1080p', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

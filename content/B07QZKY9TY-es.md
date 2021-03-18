@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZKY9TY-es Tosuny Flexible Teclado de Silicona Impermeable Teclado...'
 sku: 'B07QZKY9TY-es'
-tags: [ 'bluetooth','teclado', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

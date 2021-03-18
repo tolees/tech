@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HVP5YYM-es SUPOLA WiFi Antena USB WiFi Adaptador AC600Mbps Driver...'
 sku: 'B07HVP5YYM-es'
-tags: [ 'wifi', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

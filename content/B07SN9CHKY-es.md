@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SN9CHKY-es HoYiXi Funda para Samsung Galaxy Tab A 10.1 2019 Anti-Drop...'
 sku: 'B07SN9CHKY-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

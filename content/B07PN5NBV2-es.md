@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN5NBV2-es Estuche rígido para Sony Wh-CH510 / Sony WH-CH500 Sony...'
 sku: 'B07PN5NBV2-es'
-tags: [ 'auriculares','bluetooth','sony', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

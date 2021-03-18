@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7MB8L2-es HP Smart Tank Plus 570 - Impresora multifunción imprime...'
 sku: 'B07V7MB8L2-es'
-tags: [ 'impresora','móvil', ]
 actualPrice: 238.0 EUR
 currency: EUR
 price: 238.0

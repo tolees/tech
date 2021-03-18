@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDLJWQG-es Xiaomi Mi Router 4A Gigabit Edition'
 sku: 'B07WDLJWQG-es'
-tags: [ 'gigabit','xiaomi', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLMX2CP-es Apple estuche de carga inalámbrica para los AirPods'
 sku: 'B07NLMX2CP-es'
-tags: [ 'apple', ]
 actualPrice: 72.01 EUR
 currency: EUR
 price: 72.01

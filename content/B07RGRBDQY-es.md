@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGRBDQY-es Proyector APEMAN 6000 Lúmen Mini Proyector Soporte 1080p...'
 sku: 'B07RGRBDQY-es'
-tags: [ '1080p','altavoz', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

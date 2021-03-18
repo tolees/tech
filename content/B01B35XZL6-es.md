@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B35XZL6-es Yamaha NP-12 Piaggero - Teclado digital portátil sencillo...'
 sku: 'B01B35XZL6-es'
-tags: [ 'teclado', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KLG8QB-es Garmin Vívomove HR- Reloj híbrido con pantalla oculta y...'
 sku: 'B077KLG8QB-es'
-tags: [ 'garmin', ]
 actualPrice: 158.87 EUR
 currency: EUR
 price: 158.87

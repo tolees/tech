@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K7M4BW4-es iporachx - Auriculares Bluetooth Deportivos V5.1 IPX7...'
 sku: 'B08K7M4BW4-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

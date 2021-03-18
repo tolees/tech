@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHHBYDY-es Anykuu Webcam 1080p Full HD con Micrófono Webcam USB...'
 sku: 'B08BHHBYDY-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

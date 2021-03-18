@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJF95TJ-es Impresora térmica de recibos 300 mm/s 80 mm Excelvan AUTO-...'
 sku: 'B07CJF95TJ-es'
-tags: [ 'impresora', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

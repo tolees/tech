@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P5WWFBW-es Energy Sistem Gaming Keyboard ESG K2 Ghosthunter Teclado...'
 sku: 'B08P5WWFBW-es'
-tags: [ 'teclado', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

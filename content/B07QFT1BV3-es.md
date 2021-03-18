@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFT1BV3-es HoYiXi Funda para Nuevo Kindle 2019 Kindle Estuche 2019...'
 sku: 'B07QFT1BV3-es'
-tags: [ 'kindle', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

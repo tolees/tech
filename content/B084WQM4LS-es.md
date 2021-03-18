@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WQM4LS-es LFDZ XIDU PhilPad XT133A Funda Soporte Cuero con Slim PU...'
 sku: 'B084WQM4LS-es'
-tags: [ 'tablet', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

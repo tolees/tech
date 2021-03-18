@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078B7KQMR-es Crosstour Cámara De Coche 1080P Full HD Dash CAM 12MP 3"...'
 sku: 'B078B7KQMR-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

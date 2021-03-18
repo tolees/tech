@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G12NRYR-es Mini Proyector VicTsing Proyector WiFi 6000 Lúmenes Mini...'
 sku: 'B08G12NRYR-es'
-tags: [ 'wifi','full','hd', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

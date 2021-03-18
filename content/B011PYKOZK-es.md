@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
 sku: 'B011PYKOZK-es'
-tags: [ 'bluetooth','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

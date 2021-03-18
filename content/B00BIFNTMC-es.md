@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BIFNTMC-es Anker AK-UBA 2.4G Ratón Inalámbrico óptico ergonómico...'
 sku: 'B00BIFNTMC-es'
-tags: [ 'ratón', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

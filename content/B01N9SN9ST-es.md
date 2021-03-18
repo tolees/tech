@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9SN9ST-es Toshiba N300 HDEXR01ZNA51- Disco duro interno 4 TB'
 sku: 'B01N9SN9ST-es'
-tags: [ 'disco','duro','toshiba', ]
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

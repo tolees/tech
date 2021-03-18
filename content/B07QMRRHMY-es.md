@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMRRHMY-es DURAGADGET Cable De Audio Portátil Lenovo Ideapad...'
 sku: 'B07QMRRHMY-es'
-tags: [ 'lenovo', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

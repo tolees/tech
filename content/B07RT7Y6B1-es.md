@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RT7Y6B1-es Bebinca Smartwatch Reloj Inteligente con Cronómetro...'
 sku: 'B07RT7Y6B1-es'
-tags: [ 'huawei','iphone','samsung','smartwatch', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

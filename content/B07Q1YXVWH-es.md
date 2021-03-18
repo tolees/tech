@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1YXVWH-es DOQAUS Auriculares Inalámbricos Diadema [52 Hrs de...'
 sku: 'B07Q1YXVWH-es'
-tags: [ 'Auriculares para equipo de audio','auriculares','bluetooth','doqaus', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

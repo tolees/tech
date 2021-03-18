@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZBD15I-es AUKEY Cámara de Coche Full HD 1080P Dash Cam...'
 sku: 'B01LZBD15I-es'
-tags: [ '1080p','full','hd', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076D6JNZV-es KYG Bolsa Estanca 20L Impermeable Seca Set de Bolsa...'
 sku: 'B076D6JNZV-es'
-tags: [ 'móvil', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ANI7HI2-es Jabra Speak 510 - Altavoz portátil para conferencias con...'
 sku: 'B00ANI7HI2-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 100.79 EUR
 currency: EUR
 price: 100.79

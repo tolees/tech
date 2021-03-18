@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDDSLFB-es Presentamos el router/extensor wifi de malla Amazon eero Pro'
 sku: 'B07WDDSLFB-es'
-tags: [ 'eero','wifi', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

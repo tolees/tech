@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCRS6LJ-es OUKITEL WP5 Pro Android 10.0 4GB RAM+64GB ROM Movil...'
 sku: 'B08DCRS6LJ-es'
-tags: [ 'móvil','smartphone', ]
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

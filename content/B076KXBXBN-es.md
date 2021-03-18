@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076KXBXBN-es Trust Ziva - Teclado y ratón inalámbricos layout español...'
 sku: 'B076KXBXBN-es'
-tags: [ 'ratón','teclado', ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

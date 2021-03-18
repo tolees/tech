@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MJPGPKZ-es Tiksounds Auriculares Bluetooth Auriculares Inalambricos...'
 sku: 'B08MJPGPKZ-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

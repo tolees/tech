@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VJ6DPF-es Mesa de cama para ordenador portátil escritorio de regazo...'
 sku: 'B084VJ6DPF-es'
-tags: [ 'ordenador', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

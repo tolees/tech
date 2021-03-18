@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005GGQLRE-es Panasonic KX-TG1611 Teléfono Fijo Inalámbrico LCD...'
 sku: 'B005GGQLRE-es'
-tags: [ 'dect','panasonic', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

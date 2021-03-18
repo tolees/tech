@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WDJJ7H-es Xiaomi Mi Electric Scooter PRO 2 Black Versión básica'
 sku: 'B089WDJJ7H-es'
-tags: [ 'xiaomi', ]
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

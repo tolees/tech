@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJ78NLC-es TicWatch Pro 3 reloj inteligente con GPS para hombres y...'
 sku: 'B08FJ78NLC-es'
-tags: [ 'gps', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

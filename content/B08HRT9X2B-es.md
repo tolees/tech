@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HRT9X2B-es HONOR Watch GS Pro - GPS Multideporte Smartwatch con...'
 sku: 'B08HRT9X2B-es'
-tags: [ 'Smartwatches','gps','honor','smartwatch', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

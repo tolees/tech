@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PCR462N-es Haofy Bombilla Bluetooth Altavoz E26 / E27 RGB Cambio de...'
 sku: 'B07PCR462N-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

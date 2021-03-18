@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858WBJ3R-es Oihxse Funda Samsung Galaxy J3 2017/J330/J3 Pro Ultra...'
 sku: 'B0858WBJ3R-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

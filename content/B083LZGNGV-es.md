@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LZGNGV-es Samsung - Funda Clear View para Galaxy S20+ negro'
 sku: 'B083LZGNGV-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

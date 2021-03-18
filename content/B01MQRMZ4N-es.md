@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQRMZ4N-es Legrand 050178 Enchufe con Cabezal Móvil Orientable 3680 W...'
 sku: 'B01MQRMZ4N-es'
-tags: [ 'móvil', ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

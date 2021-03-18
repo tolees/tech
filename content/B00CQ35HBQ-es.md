@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CQ35HBQ-es Kingston KVR16LS11/8 Memoria RAM PC3L-12800 CL11 204 Pin...'
 sku: 'B00CQ35HBQ-es'
-tags: [ 'ram', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

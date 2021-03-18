@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084GQYC31-es LEXIN FT4 Pro Intercomunicador de Casco con Estroboscopio...'
 sku: 'B084GQYC31-es'
-tags: [ 'auriculares','bluetooth','móvil', ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

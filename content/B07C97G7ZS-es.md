@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C97G7ZS-es Intel nuc Intel Core™ i3-4010U Mini PC Mini PC sin...'
 sku: 'B07C97G7ZS-es'
-tags: [ 'bluetooth','ram', ]
 actualPrice: 313.65 EUR
 currency: EUR
 price: 313.65

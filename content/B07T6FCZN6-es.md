@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor...'
 sku: 'B07T6FCZN6-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

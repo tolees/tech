@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0827JKDJ2-es Vicloon Cepillo de Botellas 8 Pcs Azul Cepillo de Limpieza...'
 sku: 'B0827JKDJ2-es'
-tags: [ 'ordenador','teclado', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

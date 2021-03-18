@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCT2GMY-es Vankyo Tablet para Niños con Cámaras de 5MP y 2MP Tablet...'
 sku: 'B08DCT2GMY-es'
-tags: [ 'ram','tablet','wifi', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

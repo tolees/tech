@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LZJQKWM-es Cocoda Tripode para Movil Aleación de Aluminio Palo Selfie...'
 sku: 'B08LZJQKWM-es'
-tags: [ 'bluetooth','iphone', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

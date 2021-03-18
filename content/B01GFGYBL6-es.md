@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GFGYBL6-es Samsung S24F352 - Monitor de 24" Full HD 4 ms 60 Hz LED...'
 sku: 'B01GFGYBL6-es'
-tags: [ 'samsung','full','hd', ]
 actualPrice: 111.14 EUR
 currency: EUR
 price: 111.14

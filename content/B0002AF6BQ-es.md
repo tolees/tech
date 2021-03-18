@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002AF6BQ-es Fellowes 29702 - Alfombrilla estándar para ratón 22.9 x...'
 sku: 'B0002AF6BQ-es'
-tags: [ 'ratón', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

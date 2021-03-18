@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTTX7MX-es Netgear GS308-300PES Switch 8 Puertos 10/100/1000 Switch...'
 sku: 'B07PTTX7MX-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Altavoces','Altavoces y pantallas inteligentes Echo','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Switches de red','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','gigabit','netgear', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

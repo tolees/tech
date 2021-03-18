@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable...'
 sku: 'B07JW7GT7H-es'
-tags: [ 'dell','galaxy','samsung', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

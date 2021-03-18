@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CSC7HBG-es etguuds [2Pack 1M] Cable USB Tipo C Cable USB A a USB C...'
 sku: 'B08CSC7HBG-es'
-tags: [ 'galaxy','samsung','sony', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

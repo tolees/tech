@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0Q6J8P-es 14.4V 2600mAh Bateria de laptop L12L4E01 L12S4E01 L12M4E01...'
 sku: 'B01M0Q6J8P-es'
-tags: [ 'lenovo', ]
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

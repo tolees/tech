@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SP9NZM-es Teléfono móvil con Tapa para Personas Mayores Teclas...'
 sku: 'B078SP9NZM-es'
-tags: [ 'móvil', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKWKFF6-es FELiCON K109 Juegos De una Sola Mano Teclado Mecánico USB...'
 sku: 'B07GKWKFF6-es'
-tags: [ 'ordenador','teclado', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082D87HGH-es Lintelek Reloj Inteligente Mujer Hombre Smartwatch con...'
 sku: 'B082D87HGH-es'
-tags: [ 'smartwatch', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMS4BFC-es Maxesla WiFi Adaptador AC 1200Mbps USB WiFi Receptor Dual...'
 sku: 'B07PMS4BFC-es'
-tags: [ 'tablet','wifi', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

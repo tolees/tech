@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W2WQHPQ-es Toner Kingdom 550XL 551XL Cartuchos de Tinta compatibles...'
 sku: 'B08W2WQHPQ-es'
-tags: [ 'canon', ]
 actualPrice: 18.46 EUR
 currency: EUR
 price: 18.46

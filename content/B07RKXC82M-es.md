@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKXC82M-es Funda protectora de piel para móvil 4"-6" con cremallera y...'
 sku: 'B07RKXC82M-es'
-tags: [ 'móvil', ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

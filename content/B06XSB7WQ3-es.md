@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XSB7WQ3-es JIALONG Alfombrilla de ratón Grande Alfombrilla Gaming...'
 sku: 'B06XSB7WQ3-es'
-tags: [ 'ordenador','ratón', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

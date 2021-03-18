@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8T8RF1-es ONLYU Cartucho de Tinta Compatible Reemplazo para Epson...'
 sku: 'B07H8T8RF1-es'
-tags: [ 'impresora', ]
 actualPrice: 26.36 EUR
 currency: EUR
 price: 26.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4QX3W9-es GRDE - Auriculares Bluetooth 3-en 1 Estéreo Auriculares...'
 sku: 'B08P4QX3W9-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFKFMLY-es AGPTEK Pulsera de Actividad Inteligente Impermeable IP67...'
 sku: 'B07DFKFMLY-es'
-tags: [ 'gps', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

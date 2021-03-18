@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GLTVT62-es Sony XAV-AX1000 - Reproductor 2DIN para coche Apple...'
 sku: 'B07GLTVT62-es'
-tags: [ 'apple','bluetooth','sony', ]
 actualPrice: 240.0 EUR
 currency: EUR
 price: 240.0

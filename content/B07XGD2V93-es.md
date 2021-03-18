@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGD2V93-es Michael Kors Connected Smartwatch con tecnología Wear OS...'
 sku: 'B07XGD2V93-es'
-tags: [ 'gps','smartwatch','altavoz', ]
 actualPrice: 270.11 EUR
 currency: EUR
 price: 270.11

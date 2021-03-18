@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7KD2VK-es KLIM Cyclone - Base de Refrigeración para Portátil +...'
 sku: 'B01N7KD2VK-es'
-tags: [ 'ordenador', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

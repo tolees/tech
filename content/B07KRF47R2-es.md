@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRF47R2-es TianTa Funda para Galaxy Tab S3 9.7 Case Híbrido Tres...'
 sku: 'B07KRF47R2-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

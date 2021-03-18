@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DXMY99G-es AUKEY Cargador portátil Powerbank 10000 mAh Banco de...'
 sku: 'B08DXMY99G-es'
-tags: [ 'iphone', ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

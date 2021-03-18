@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7DSPG9-es HP 15-dw0016ns - Ordenador portátil de 15.6" HD Intel Core...'
 sku: 'B07Q7DSPG9-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KY32HFR-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B08KY32HFR-es'
-tags: [ 'disco','duro', ]
 actualPrice: 360.99 EUR
 currency: EUR
 price: 360.99

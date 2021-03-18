@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FHV36V-es LAYJOY Funda Samsung Galaxy A71 Ligera Silicona Carcasa...'
 sku: 'B088FHV36V-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

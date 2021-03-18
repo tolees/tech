@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1VT9WH-es GEARGO Webcam Cover Tapa Webcam Ultra Delgada 0.7mm...'
 sku: 'B07C1VT9WH-es'
-tags: [ 'ordenador', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

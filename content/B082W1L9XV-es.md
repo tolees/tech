@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082W1L9XV-es unbrand - gsm Teléfono Móvil Simple para Ancianos con...'
 sku: 'B082W1L9XV-es'
-tags: [ 'móvil', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

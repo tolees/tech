@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLP44W-es QNAP QNA-T310G1S - Adaptador Thunderbolt3 de un Puerto a...'
 sku: 'B07KTLP44W-es'
-tags: [ 'qnap', ]
 actualPrice: 206.36 EUR
 currency: EUR
 price: 206.36

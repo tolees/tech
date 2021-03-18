@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLJ6M95-es Controlador Tina @ Wii Nunchuck 2 paquetes de repuesto...'
 sku: 'B08HLJ6M95-es'
-tags: [ 'wii', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

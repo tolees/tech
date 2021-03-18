@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JR98W6Q-es Jabra Evolve 65t - Auriculares Verdaderamente Inalámbricos...'
 sku: 'B07JR98W6Q-es'
-tags: [ 'auriculares','bluetooth','microsoft', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

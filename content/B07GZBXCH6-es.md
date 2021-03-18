@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZBXCH6-es eufy Smart Scale C1 con Bluetooth Pantalla LED Grande 13...'
 sku: 'B07GZBXCH6-es'
-tags: [ 'bluetooth', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

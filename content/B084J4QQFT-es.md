@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084J4QQFT-es Amazon - Nuevo Echo Dot 4.ª generación | Altavoz...'
 sku: 'B084J4QQFT-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Altavoces','Altavoces inteligentes','Altavoces y pantallas inteligentes Echo','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Electrónica','Equipos de audio y Hi-Fi','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Switches de red','Teclados, ratones y periféricos de entrada','Telefonía fija y accesorios','Teléfonos analógicos','alexa','altavoz','amazon', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

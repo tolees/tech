@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SS33ZLW-es DURAGADGET Cable De Audio Compatible con Portátil Samsung...'
 sku: 'B07SS33ZLW-es'
-tags: [ 'samsung', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

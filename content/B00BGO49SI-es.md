@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BGO49SI-es Suunto Core Red Rubber Strap Correa para Relojes Unisex...'
 sku: 'B00BGO49SI-es'
-tags: [ 'suunto', ]
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

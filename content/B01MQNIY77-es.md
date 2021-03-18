@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQNIY77-es Pioneer SE-MS5T-R - Auriculares de tipo diadema HiRes...'
 sku: 'B01MQNIY77-es'
-tags: [ 'auriculares','pioneer','smartphone', ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

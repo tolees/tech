@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR4QM9S-es Samsung Galaxy Tab S5e Wi Fi SM-T720 64GB plateado alemán...'
 sku: 'B07NR4QM9S-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 267.35 EUR
 currency: EUR
 price: 267.35

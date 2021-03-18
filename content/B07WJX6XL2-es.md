@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJX6XL2-es Cámara IP Srihome 3MP Cámara de Vigilancia FHD con Visión...'
 sku: 'B07WJX6XL2-es'
-tags: [ 'wifi', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

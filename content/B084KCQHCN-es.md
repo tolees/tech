@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KCQHCN-es Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED...'
 sku: 'B084KCQHCN-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Accesorios para teclados y ratones','Adaptadores de red','Adaptadores de red USB','Alfombrillas de ratón','Antenas de red','Auriculares para equipo de audio','Auriculares y accesorios','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','Teclados, ratones y periféricos de entrada','galaxy','ram','samsung','smartphone', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

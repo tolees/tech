@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825LRWD7-es Pnakqil Funda Xiaomi Redmi Note 8T Transparente Silicona...'
 sku: 'B0825LRWD7-es'
-tags: [ 'xiaomi', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081H5PZCC-es VicTsing Ratón Inalámbrico Mini Portátil 2.4G con Receptor...'
 sku: 'B081H5PZCC-es'
-tags: [ 'ratón', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

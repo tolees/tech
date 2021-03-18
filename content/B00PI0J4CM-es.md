@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PI0J4CM-es Fisher-Price Móvil ositos voladores juguete de cuna...'
 sku: 'B00PI0J4CM-es'
-tags: [ 'móvil', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LL2SNK8-es AtailorBird Funda Ordenador Portatil 15 6 Pulgadas Bolsa...'
 sku: 'B08LL2SNK8-es'
-tags: [ 'ordenador', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

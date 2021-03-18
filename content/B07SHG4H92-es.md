@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHG4H92-es Soundcore Life Q10 Auriculares Bluetooth Inalámbricos con...'
 sku: 'B07SHG4H92-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

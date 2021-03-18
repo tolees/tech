@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJ2KBFG-es Mini Altavoz Bluetooth Portátil Vtin K1 Altavoz Portátil...'
 sku: 'B07XJ2KBFG-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

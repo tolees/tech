@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKVH6CR-es Victure 1080P Cámara de Seguridad Exteriores Inalámbrica...'
 sku: 'B07XKVH6CR-es'
-tags: [ '1080p', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

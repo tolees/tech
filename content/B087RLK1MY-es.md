@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RLK1MY-es Auriculares Inalambricos 5.0 Auriculares Bluetooth In Ear...'
 sku: 'B087RLK1MY-es'
-tags: [ 'auriculares','bluetooth','huawei','iphone','xiaomi', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

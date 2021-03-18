@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG2VNW9-es SteelSeries Arctis 5 Auriculares De Juego Iluminados Por...'
 sku: 'B07GG2VNW9-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Adaptadores de red','Adaptadores de red USB','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Dispositivos de red','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hogar y cocina','Informática','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Monitores','Robots aspiradores','Transceptores de red','Videojuegos','auriculares','playstation','steelseries', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

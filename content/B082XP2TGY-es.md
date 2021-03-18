@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XP2TGY-es OfficeWorld MLT-D116S MLT-D116L Reemplazo para Samsung...'
 sku: 'B082XP2TGY-es'
-tags: [ 'samsung', ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

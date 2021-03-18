@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W11KJGD-es havit Ratón Gaming 7 Botones Mouse Gaming programables...'
 sku: 'B07W11KJGD-es'
-tags: [ 'ratón', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

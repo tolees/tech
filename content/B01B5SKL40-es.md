@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B5SKL40-es Kingston KCP313SD8/8 - Memoria RAM para portátil de 8 GB...'
 sku: 'B01B5SKL40-es'
-tags: [ 'ram', ]
 actualPrice: 43.66 EUR
 currency: EUR
 price: 43.66

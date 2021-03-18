@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DTK1UJC-es Ozone TRIFX - OZTRIFX - Auriculares in-Ear para Gaming'
 sku: 'B01DTK1UJC-es'
-tags: [ 'auriculares', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

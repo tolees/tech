@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PRPNFZ2-es Garmin Instinct - Reloj con GPS Unisex Azul Cielo 1'
 sku: 'B07PRPNFZ2-es'
-tags: [ 'garmin','gps', ]
 actualPrice: 232.49 EUR
 currency: EUR
 price: 232.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005GGRN0S-es Panasonic KX-TG1611SPH - Teléfono Fijo Inalámbrico DECT...'
 sku: 'B005GGRN0S-es'
-tags: [ 'dect','panasonic', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

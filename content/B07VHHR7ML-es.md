@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHHR7ML-es Amazfit GTR 47mm Reloj inteligente Smartwatch Deportivo...'
 sku: 'B07VHHR7ML-es'
-tags: [ 'gps','smartwatch', ]
 actualPrice: 98.9 EUR
 currency: EUR
 price: 98.9

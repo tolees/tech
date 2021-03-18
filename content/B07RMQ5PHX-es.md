@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RMQ5PHX-es ASUS VG27VQ - Monitor de Gaming Curvo de 27" Full HD 165...'
 sku: 'B07RMQ5PHX-es'
-tags: [ 'asus','full','hd', ]
 actualPrice: 209.98 EUR
 currency: EUR
 price: 209.98

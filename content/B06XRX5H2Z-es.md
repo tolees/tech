@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRX5H2Z-es LG SJ4 Barra de sonido Subwoofer inalámbrico Bluetooth Negro'
 sku: 'B06XRX5H2Z-es'
-tags: [ 'bluetooth', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

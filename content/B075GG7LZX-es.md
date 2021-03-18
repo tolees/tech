@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GG7LZX-es HP Laser Jet Pro M254dw - Impresora color hasta 21 ppm...'
 sku: 'B075GG7LZX-es'
-tags: [ 'disco','duro','impresora', ]
 actualPrice: 204.93 EUR
 currency: EUR
 price: 204.93

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z3QQL4L-es Vozehui - Correa para Garmin Vivofit 4 silicona suave para...'
 sku: 'B07Z3QQL4L-es'
-tags: [ 'garmin', ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

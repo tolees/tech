@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXGQI1F-es HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro -...'
 sku: 'B01MXGQI1F-es'
-tags: [ 'Ratones','hp','ratón', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

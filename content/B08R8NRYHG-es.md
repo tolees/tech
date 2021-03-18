@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08R8NRYHG-es Lamicall Soporte Movil Bicicleta Soporte Motocicleta -...'
 sku: 'B08R8NRYHG-es'
-tags: [ 'Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','huawei','iphone','lamicall','samsung', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

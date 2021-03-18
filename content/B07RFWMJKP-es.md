@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFWMJKP-es ASUS TUF Gaming FX505DD-BQ067 - Ordenador portátil de...'
 sku: 'B07RFWMJKP-es'
-tags: [ 'asus','ordenador','ram','teclado', ]
 actualPrice: 699.99 EUR
 currency: EUR
 price: 699.99

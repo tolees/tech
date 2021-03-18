@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MT7PDLF-es TOPESEL Memoria USB 64GB Tipo C USB 3.0 Dual 2 en 1 OTG...'
 sku: 'B07MT7PDLF-es'
-tags: [ 'galaxy','samsung', ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

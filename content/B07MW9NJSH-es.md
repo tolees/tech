@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MW9NJSH-es PNY XLR8 CS3030 Unidad de Estado sólido M.2 1000 GB PCI...'
 sku: 'B07MW9NJSH-es'
-tags: [ 'disco','duro', ]
 actualPrice: 126.45 EUR
 currency: EUR
 price: 126.45

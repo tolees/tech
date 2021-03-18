@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0767DQNRM-es Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC Intel Core...'
 sku: 'B0767DQNRM-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 235.33 EUR
 currency: EUR
 price: 235.33

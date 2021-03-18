@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BY61ATO-es Panasonic KX-TG7851 - Teléfono fijo inalámbrico LCD de...'
 sku: 'B00BY61ATO-es'
-tags: [ 'panasonic', ]
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

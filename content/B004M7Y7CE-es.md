@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004M7Y7CE-es JVC HA-S160-W - HAS160W Auricular Flat White'
 sku: 'B004M7Y7CE-es'
-tags: [ 'jvc', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076KXPH11-es Intel NUC BOXNUC7I5BNHXF - Ordenador Mini PC Intel Core...'
 sku: 'B076KXPH11-es'
-tags: [ 'ordenador','ram', ]
 actualPrice: 578.64 EUR
 currency: EUR
 price: 578.64

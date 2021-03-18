@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083SF6FXX-es Dericam 1080P Cámara Web Cámara Web USB Cámara de...'
 sku: 'B083SF6FXX-es'
-tags: [ '1080p', ]
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

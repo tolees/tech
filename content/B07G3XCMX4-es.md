@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3XCMX4-es Acer Predator Helios 300 PH315-51-50Y7 - Ordenador...'
 sku: 'B07G3XCMX4-es'
-tags: [ 'full','hd','ordenador','ram','teclado', ]
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

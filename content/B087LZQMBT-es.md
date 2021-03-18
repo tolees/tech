@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LZQMBT-es Oihxse Silicona Funda con Huawei Mate 10 TPU Flexible...'
 sku: 'B087LZQMBT-es'
-tags: [ 'huawei', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PC5DKZQ-es Samsung 870 EVO 1000 GB Negro'
 sku: 'B08PC5DKZQ-es'
-tags: [ 'samsung', ]
 actualPrice: 121.99 EUR
 currency: EUR
 price: 121.99

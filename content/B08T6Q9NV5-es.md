@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T6Q9NV5-es QXQ Auriculares Inalambricos Cascos Inhalabricos con AptX...'
 sku: 'B08T6Q9NV5-es'
-tags: [ 'auriculares', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856XWK5P-es Jabra Speak 750 - Altavoz Portátil para Conferencias con...'
 sku: 'B0856XWK5P-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 233.86 EUR
 currency: EUR
 price: 233.86

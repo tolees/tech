@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB776FL-es QHOHQ Funda para Xiaomi Redmi Note 8 Pro Cases Silicona...'
 sku: 'B07XB776FL-es'
-tags: [ 'xiaomi', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT3L5X2-es Panasonic SC-AKX320 - Equipo de Sonido de Alta Potencia...'
 sku: 'B07QT3L5X2-es'
-tags: [ 'bluetooth','panasonic', ]
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

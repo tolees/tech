@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCF75BC-es ⭐️KLIM™ Chroma - Teclado gaming ESPAÑOL + Teclado USB...'
 sku: 'B01NCF75BC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Adaptadores de red','Adaptadores de red USB','Almacenamiento de datos','Almacenamiento de datos externo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Auriculares para equipo de audio','Auriculares y accesorios','Comunicación móvil y accesorios','Dispositivos de red','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Hogar y cocina','Impresoras de tinta','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos para Nintendo Switch','Juegos para PlayStation 5','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Memorias USB','Monitores','Móviles','Móviles y smartphones libres','Robots aspiradores','Tablets','Teclados para gamers para PC','Transceptores de red','Videojuegos','klim','ps4','teclado','xbox', ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ18KY8-es Master & Dynamic MW50+ - Auricular bluetooth color plata'
 sku: 'B07DJ18KY8-es'
-tags: [ 'bluetooth', ]
 actualPrice: 264.06 EUR
 currency: EUR
 price: 264.06

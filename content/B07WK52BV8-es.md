@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK52BV8-es Bowers & Wilkins PX5 Auriculares Supraurales Bluetooth con...'
 sku: 'B07WK52BV8-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

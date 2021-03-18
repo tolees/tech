@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DDDGWIY-es TaoTronics Adaptador Bluetooth 5.0 Transmisor Receptor 2...'
 sku: 'B01DDDGWIY-es'
-tags: [ 'bluetooth', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893BXZVR-es LG SN7CY - Barra de sonido Hi-Res con Dolby Atmos 24...'
 sku: 'B0893BXZVR-es'
-tags: [ 'bluetooth', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IDU0T1Y-es Sabrent Adaptador de Cable de Impresora USB a Paralelo...'
 sku: 'B00IDU0T1Y-es'
-tags: [ 'impresora', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PBGSC2-es GAOAG Extensor WiFi 2020 Negro'
 sku: 'B086PBGSC2-es'
-tags: [ 'wifi', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

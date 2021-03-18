@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGYXCQ9-es Logitech MK470 Combo Teclado y Ratón Inalámbrico para...'
 sku: 'B07VGYXCQ9-es'
-tags: [ 'logitech','ratón','teclado', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

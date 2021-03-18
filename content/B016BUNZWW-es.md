@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016BUNZWW-es ASUS Tengo rt3117bt Auto/Interior 90w Negro Adaptador e...'
 sku: 'B016BUNZWW-es'
-tags: [ 'asus', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

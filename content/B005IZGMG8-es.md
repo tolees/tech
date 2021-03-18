@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005IZGMG8-es Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo LCD...'
 sku: 'B005IZGMG8-es'
-tags: [ 'panasonic', ]
 actualPrice: 36.31 EUR
 currency: EUR
 price: 36.31

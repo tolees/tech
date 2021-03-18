@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3TJLUC-es UBMSA cargador unicornio 2600mAh Cargadores Horse portátil...'
 sku: 'B01M3TJLUC-es'
-tags: [ 'iphone','samsung', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

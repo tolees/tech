@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0827VNDVV-es Vicloon Alfombrilla de Ratón RGB Extra Grande Grandes Mapa...'
 sku: 'B0827VNDVV-es'
-tags: [ 'ratón', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

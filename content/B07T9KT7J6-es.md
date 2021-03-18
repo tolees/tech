@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9KT7J6-es Vieta Pro Upper - Altavoz portátil Bluetooth Radio FM...'
 sku: 'B07T9KT7J6-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

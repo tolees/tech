@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WC6HCK-es Xiaomi Redmi 9 - Smartphone de 6.53" FHD+ 4 GB y 64 GB...'
 sku: 'B089WC6HCK-es'
-tags: [ 'smartphone','xiaomi', ]
 actualPrice: 144.89 EUR
 currency: EUR
 price: 144.89

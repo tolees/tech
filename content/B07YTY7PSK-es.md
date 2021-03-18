@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YTY7PSK-es 1Mii Transmisor Receptor Bluetooth 5.0 Audio Bypass 3 en 1...'
 sku: 'B07YTY7PSK-es'
-tags: [ '1mii','auriculares','bluetooth', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

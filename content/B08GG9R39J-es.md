@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GG9R39J-es nonda Cable USB Tipo C 20V/3A 60W [2 Pack/2M+2M] Cable de...'
 sku: 'B08GG9R39J-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Cables USB','Cables y accesorios','Cables y conectores','Componentes','Dispositivos de red','Dispositivos internos','Informática','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','galaxy','nonda','samsung', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

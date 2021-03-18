@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087NJ2VG2-es Babacom Soporte Tablet Portátil Soporte Movil Mesa...'
 sku: 'B087NJ2VG2-es'
-tags: [ 'kindle','samsung','tablet', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

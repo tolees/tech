@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N4THZHW-es PINDOWS PC Webcam con Microfono Webcam 2K Full HD Cámara...'
 sku: 'B08N4THZHW-es'
-tags: [ 'full','hd', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

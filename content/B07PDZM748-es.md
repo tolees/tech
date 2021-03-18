@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled...'
 sku: 'B07PDZM748-es'
-tags: [ 'galaxy','ram','samsung','smartphone', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

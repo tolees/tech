@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KWWGPB-es Mipelo MLT-D111S D111S Cartuchos de Tóner 2 Negro...'
 sku: 'B075KWWGPB-es'
-tags: [ 'impresora', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

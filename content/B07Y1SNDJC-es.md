@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1SNDJC-es ELTD Funda con Teclado Español Ñ para Samsung Galaxy Tab A...'
 sku: 'B07Y1SNDJC-es'
-tags: [ 'galaxy','samsung','teclado', ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VP5WG78-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07VP5WG78-es'
-tags: [ 'disco','duro','western digital', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

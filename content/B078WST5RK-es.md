@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WST5RK-es Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado...'
 sku: 'B078WST5RK-es'
-tags: [ 'Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Altavoces y pantallas inteligentes Echo','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos internos','Electrónica','Equipos de audio y Hi-Fi','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Pantallas inteligentes','Productos de limpieza para el hogar','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','Tecnología para vestir','Videojuegos','samsung', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

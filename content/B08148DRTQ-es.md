@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08148DRTQ-es KATUMO Funda para Samsung Galaxy Tab A 10.1 2019 360°...'
 sku: 'B08148DRTQ-es'
-tags: [ 'galaxy','samsung','tablet', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

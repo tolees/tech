@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072J44KRH-es Taygeer Maletin Portatil 15 6 Pulgadas Bandolera para...'
 sku: 'B072J44KRH-es'
-tags: [ 'ordenador', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

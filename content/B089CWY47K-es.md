@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089CWY47K-es Concentrador HUB USB C VAVA Adaptador USB C 7En1 Para...'
 sku: 'B089CWY47K-es'
-tags: [ 'dell', ]
 actualPrice: 22.44 EUR
 currency: EUR
 price: 22.44

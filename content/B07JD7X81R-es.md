@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JD7X81R-es Ubiquiti Spain - Ubiquiti Networks UFiber Loco pasarel y...'
 sku: 'B07JD7X81R-es'
-tags: [ 'ubiquiti', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

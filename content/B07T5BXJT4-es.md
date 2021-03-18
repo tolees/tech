@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T5BXJT4-es K&F Concept Panel Luz LED para Teléfono Móvil Foco Luz Led...'
 sku: 'B07T5BXJT4-es'
-tags: [ 'móvil', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

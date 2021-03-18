@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KZ4XLUQ-es Canon EF 24-105mm f/4L IS II USM - Objetivo Canon EF...'
 sku: 'B01KZ4XLUQ-es'
-tags: [ 'canon', ]
 actualPrice: 931.3 EUR
 currency: EUR
 price: 931.3

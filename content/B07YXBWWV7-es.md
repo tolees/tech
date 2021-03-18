@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXBWWV7-es Kenwood KMM-BT306 - Radio para Coche con USB y Manos...'
 sku: 'B07YXBWWV7-es'
-tags: [ 'bluetooth', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

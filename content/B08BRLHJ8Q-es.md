@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRLHJ8Q-es Auriculares inalámbricos Bluetooth Auriculares...'
 sku: 'B08BRLHJ8Q-es'
-tags: [ 'auriculares','bluetooth', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

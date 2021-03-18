@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PJ5DBCC-es Panasonic ER-GD51-K503 Recortadora de Barba Recargable...'
 sku: 'B07PJ5DBCC-es'
-tags: [ 'panasonic', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

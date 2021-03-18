@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089W32BKF-es Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y...'
 sku: 'B089W32BKF-es'
-tags: [ 'ram','wifi','xiaomi', ]
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

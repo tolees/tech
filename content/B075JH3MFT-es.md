@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JH3MFT-es Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP color negro'
 sku: 'B075JH3MFT-es'
-tags: [ 'fujifilm', ]
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

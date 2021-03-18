@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R5MMBG5-es Fujifilm Instax Mini 9 - Cámara instantanea solo cámara...'
 sku: 'B07R5MMBG5-es'
-tags: [ 'fujifilm', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBCCF4M-es MSI GS75 Stealth 10SE-816XES - Ordenador portátil Gaming...'
 sku: 'B08FBCCF4M-es'
-tags: [ 'ordenador','ram','teclado', ]
 actualPrice: 1599.0 EUR
 currency: EUR
 price: 1599.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFK5PZD-es UGREEN Cargador USB C 30W Cargador Carga Rapida Power...'
 sku: 'B07YFK5PZD-es'
-tags: [ 'iphone','samsung','xiaomi', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

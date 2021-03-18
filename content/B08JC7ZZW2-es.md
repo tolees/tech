@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JC7ZZW2-es QLJ Ratón inalámbrico de 2 4 GHz Ratón para Juegos...'
 sku: 'B08JC7ZZW2-es'
-tags: [ 'ratón', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

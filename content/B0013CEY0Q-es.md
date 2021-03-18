@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013CEY0Q-es Fellowes Memory Foam - Reposamuñecas para teclado negro'
 sku: 'B0013CEY0Q-es'
-tags: [ 'teclado', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

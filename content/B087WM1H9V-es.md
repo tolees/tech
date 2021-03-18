@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WM1H9V-es FirstE Altavoz Portatil Bluetooth Luces LED Cambian Color...'
 sku: 'B087WM1H9V-es'
-tags: [ 'altavoz','bluetooth', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

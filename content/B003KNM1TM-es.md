@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003KNM1TM-es QTX 8 – Controlador para QR8 altavoz armario'
 sku: 'B003KNM1TM-es'
-tags: [ 'altavoz', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089YGBKV2-es IVSO Español Teclado para Samsung Galaxy Tab S6 Lite...'
 sku: 'B089YGBKV2-es'
-tags: [ 'galaxy','samsung','teclado', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

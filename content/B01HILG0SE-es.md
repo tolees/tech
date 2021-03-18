@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HILG0SE-es AUNA Connect 120 - Radio por Internet Digital WLAN...'
 sku: 'B01HILG0SE-es'
-tags: [ 'bluetooth', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

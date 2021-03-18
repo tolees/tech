@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNHV4MW-es Logitech MX Vertical Ratón Inalámbrico Ergonómico Multi-...'
 sku: 'B07FNHV4MW-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo portátil','Accesorios para Juegos PC','Accesorios para móviles','Adaptadores de red','Adaptadores de red Bluetooth','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Altavoces','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Altavoces y pantallas inteligentes Echo','Audio y vídeo portátil','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Componentes','Comunicación móvil y accesorios','Cuidado y limpieza del hogar','Discos duros externos','Discos duros sólidos internos','Dispositivos Amazon','Dispositivos Amazon y Accesorios','Dispositivos de red','Dispositivos internos','Electrónica','Equipos de audio y Hi-Fi','Impresoras fotográficas','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Juegos y Accesorios para PC','Memoria principal','Móviles','Móviles y smartphones libres','Pantallas inteligentes','Productos de limpieza para el hogar','Ratones','Ratones para gamers para PC','Salud y cuidado personal','Smartwatches','TV, vídeo y home cinema','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Televisores','Videojuegos','logitech','ratón', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

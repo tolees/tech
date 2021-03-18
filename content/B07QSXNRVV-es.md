@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSXNRVV-es JETech Protector de Pantalla Compatible con Huawei...'
 sku: 'B07QSXNRVV-es'
-tags: [ 'huawei', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08TBFKRVK-es YIONESHOP - Adaptador de euroconector a HDMI convertidor...'
 sku: 'B08TBFKRVK-es'
-tags: [ '1080p','Accesorios','Accesorios de audio y vídeo portátil','Accesorios para TV, vídeo y home cinema','Accesorios para tablets','Almacenamiento de datos','Almacenamiento de datos externo','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Bricolaje y herramientas','Cables USB','Cables y accesorios','Cables y conectores','Comunicación móvil y accesorios','Conversores de vídeo','Cámaras de vigilancia','Cámaras de vigilancia en domo','Discos duros externos','Electrónica','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Fotografía y videocámaras','Fundas blandas para tablets','Fundas para tablets','Impresoras fotográficas portátiles','Impresoras láser y de tinta','Impresoras y accesorios','Informática','Instalación eléctrica','Memorias USB','Monitores','Móviles','Móviles y smartphones libres','Ratones','Smartwatches','TV, vídeo y home cinema','Tarjetas SD','Tarjetas de memoria','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Telefonía fija y accesorios','Televisores','Teléfonos VoIP','xbox','yioneshop', ]
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

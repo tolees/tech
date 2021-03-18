@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4SGNHQ-es Milipow Cargador 127W 15V 8A adaptador de repuesto...'
 sku: 'B08V4SGNHQ-es'
-tags: [ 'microsoft','tablet', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

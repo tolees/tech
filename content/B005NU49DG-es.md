@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005NU49DG-es Crucial CT2K51264BD160B - Kit de memoria RAM de 8 GB 4 GB...'
 sku: 'B005NU49DG-es'
-tags: [ 'ram', ]
 actualPrice: 43.55 EUR
 currency: EUR
 price: 43.55

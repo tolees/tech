@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C3FMWLQ-es QueenDer Adaptador Bluetooth Bluetooth 4.0 USB V4.0+ EDR...'
 sku: 'B07C3FMWLQ-es'
-tags: [ 'auriculares','bluetooth','impresora','teclado', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB5QWY9-es Lenovo L24e-20 23.8 " FHD VA FreeSync Gaming Monitor 4 ms...'
 sku: 'B07FB5QWY9-es'
-tags: [ 'lenovo', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

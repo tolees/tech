@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCYBG52-es D DOLITY Altavoz de Graves Rango Completo Altavoz...'
 sku: 'B07HCYBG52-es'
-tags: [ 'altavoz', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWDP1VD-es Sony Alpha 6400 - Cámara evil APS-C con objetivo zoom...'
 sku: 'B07MWDP1VD-es'
-tags: [ 'sony', ]
 actualPrice: 974.0 EUR
 currency: EUR
 price: 974.0

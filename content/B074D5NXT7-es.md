@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074D5NXT7-es Numark DJ2GO2 - Controlador de DJ Ultraportátil de 2...'
 sku: 'B074D5NXT7-es'
-tags: [ 'auriculares', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

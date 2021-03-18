@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VW6KSH5-es Victure Cámara de Caza Vigilancia 20MP 1080P con Diseño...'
 sku: 'B07VW6KSH5-es'
-tags: [ '1080p', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

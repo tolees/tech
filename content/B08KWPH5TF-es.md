@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWPH5TF-es Belkin OVA020zz - Protector de pantalla antimicrobiano...'
 sku: 'B08KWPH5TF-es'
-tags: [ 'iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

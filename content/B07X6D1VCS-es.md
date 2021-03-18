@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6D1VCS-es Leathlux 6 x Funda Xiaomi Redmi Note 8 Pro 6 Unidades...'
 sku: 'B07X6D1VCS-es'
-tags: [ 'xiaomi', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CRPV4UK-es DOSS SoundBox - Altavoz Bluetooth con Tacto Sensible...'
 sku: 'B01CRPV4UK-es'
-tags: [ 'bluetooth','altavoz', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

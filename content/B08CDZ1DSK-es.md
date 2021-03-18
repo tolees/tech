@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDZ1DSK-es Proyector WiFi WiMiUS 5800 Proyector de Video Portátil...'
 sku: 'B08CDZ1DSK-es'
-tags: [ '1080p','smartphone','wifi', ]
 actualPrice: 90.09 EUR
 currency: EUR
 price: 90.09
