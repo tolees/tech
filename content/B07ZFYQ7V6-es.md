@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFYQ7V6-es FR-TEC - Cargador para Mando Playstation 4 Estación de...'
 sku: 'B07ZFYQ7V6-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','playstation','ps4', ]
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

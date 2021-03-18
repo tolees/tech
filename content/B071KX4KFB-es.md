@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KX4KFB-es Huawei E5573C – Wi-Fi móvil 150Mbps de Velocidad de...'
 sku: 'B071KX4KFB-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','huawei','móvil', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','huawei','móvil', ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

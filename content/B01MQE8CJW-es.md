@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQE8CJW-es Corsair Harpoon RGB Ratón Óptico para Juegos 6 000 PPP...'
 sku: 'B01MQE8CJW-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','ratón', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','ratón', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

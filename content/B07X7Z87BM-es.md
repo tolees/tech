@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7Z87BM-es perfk Enrutador Móvil 4g Punto de Acceso Móvil WiFi para...'
 sku: 'B07X7Z87BM-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','lte','móvil','wifi', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','lte','móvil','wifi', ]
 actualPrice: 47.34 EUR
 currency: EUR
 price: 47.34

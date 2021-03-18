@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0893CHDSH-es LG SN9YG - Barra de Sonido Hi-Res con Dolby Atmos 24...'
 sku: 'B0893CHDSH-es'
-tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','bluetooth','wifi', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','bluetooth','wifi', ]
 actualPrice: 616.25 EUR
 currency: EUR
 price: 616.25

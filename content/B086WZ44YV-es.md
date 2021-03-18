@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p USB2.0 con micrófono...'
 sku: 'B086WZ44YV-es'
-tags: [ '1080p','Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','full','hd', ]
+tags: [ '1080p','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','full','hd', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

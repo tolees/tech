@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad...'
 sku: 'B00K6KP9G4-es'
-tags: [ '1080p','Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','playstation','ps4','xbox', ]
+tags: [ '1080p','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','playstation','ps4','xbox', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

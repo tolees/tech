@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de...'
 sku: 'B071RZT6N9-es'
-tags: [ '1080p','Accesorios','Accesorios de audio y vídeo para ordenadores','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','Webcams y telefonía VoIP','disco','duro', ]
+tags: [ '1080p','Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Adaptadores de red USB','Barebones','Componentes','Dispositivos de red','Dispositivos internos','Eléctrica industrial','Industria, empresas y ciencia','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Puntos de acceso inalámbrico','Repetidores de red','Routers','Sistemas WiFi Mesh','Tarjetas de red','disco','duro', ]
 actualPrice: 199.79 EUR
 currency: EUR
 price: 199.79
