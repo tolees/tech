@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HCYTRCY-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
 sku: 'B00HCYTRCY-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para móviles','Afeitado y depilación','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Comunicación móvil y accesorios','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Discos duros externos','Discos duros sólidos internos','Electrónica','Fundas y carcasas para teléfonos móviles','Hardware y juegos para Nintendo Switch','Informática','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Memorias USB','Móviles','Móviles de teclas grandes','Móviles y smartphones libres','Portátiles','Ratones','Smartwatches','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','hp','ratón', ]
+tags: [ 'Ratones','hp','ratón', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

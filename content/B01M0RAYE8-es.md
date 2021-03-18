@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0RAYE8-es BenQ W1090 Proyector 1080P modo Deporte pantalla grande de...'
 sku: 'B01M0RAYE8-es'
-tags: [ '1080p','Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para móviles','Accesorios para portátiles y netbooks','Afeitado y depilación','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Bolsas y fundas para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Discos duros externos','Discos duros sólidos internos','Dispositivos de Internet móvil','Dispositivos de red','Electrónica','Fundas blandas para portátiles y netbooks','Fundas y carcasas para teléfonos móviles','Hardware y juegos para Nintendo Switch','Informática','Instrumentos musicales','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Memorias USB','Móviles','Móviles de teclas grandes','Móviles y smartphones libres','Portátiles','Ratones','Smartwatches','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','altavoz', ]
+tags: [ '1080p','altavoz', ]
 actualPrice: 629.77 EUR
 currency: EUR
 price: 629.77

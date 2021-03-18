@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNL6TJF-es Habitdesign 0M2314M - Mesa de Ordenador con Bandeja...'
 sku: 'B07JNL6TJF-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para móviles','Accesorios para portátiles y netbooks','Afeitado y depilación','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Bolsas y fundas para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Discos duros externos','Discos duros sólidos internos','Dispositivos de Internet móvil','Dispositivos de red','Electrónica','Fundas blandas para portátiles y netbooks','Fundas y carcasas para teléfonos móviles','Hardware y juegos para Nintendo Switch','Informática','Instrumentos musicales','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Memorias USB','Móviles','Móviles de teclas grandes','Móviles y smartphones libres','Portátiles','Ratones','Smartwatches','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','ordenador', ]
+tags: [ 'ordenador', ]
 actualPrice: 37.83 EUR
 currency: EUR
 price: 37.83

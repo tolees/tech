@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRKH8KY-es MSI Modern 14 B10RBSW-064XES - Ordenador portátil...'
 sku: 'B08DRKH8KY-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Discos duros sólidos internos','Electrónica','Informática','Portátiles','Smartwatches','Tecnología para vestir','msi','ordenador','ram','teclado', ]
+tags: [ 'Portátiles','msi','ordenador','ram','teclado', ]
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99
@@ -28,11 +28,11 @@ En este momento está [MSI Modern 14 B10RBSW-064XES - Ordenador portátil Ultraf
 
 🔎:
 
-- Memoria RAM de 16GB DDR IV (2666 MHz)
 - Sin sistema operativo
+- Memoria RAM de 16GB DDR IV (2666 MHz)
 - Almacenamiento de 512GB NVMe PCIe SSD
-- Tarjeta gráfica NVIDIA GeForce MX350, 2 GB GDDR5
 - Procesador Intel Core i7-10510U (4 núcleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
 - Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Tarjeta gráfica NVIDIA GeForce MX350, 2 GB GDDR5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRKH8KY/?tag=tolees-21)

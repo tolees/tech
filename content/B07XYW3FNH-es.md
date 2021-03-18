@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYW3FNH-es Tablets 10 Pulgadas Android 8.0 3GB RAM 64GB Memoria...'
 sku: 'B07XYW3FNH-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para móviles','Accesorios para portátiles y netbooks','Afeitado y depilación','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Bolsas y fundas para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Discos duros externos','Discos duros sólidos internos','Dispositivos de Internet móvil','Dispositivos de red','Electrónica','Fundas blandas para portátiles y netbooks','Fundas y carcasas para teléfonos móviles','Hardware y juegos para Nintendo Switch','Informática','Instrumentos musicales','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Memorias USB','Móviles','Móviles de teclas grandes','Móviles y smartphones libres','Portátiles','Ratones','Smartwatches','Teclados, ratones y periféricos de entrada','Tecnología para vestir','Videojuegos','bluetooth','gps','ram','tablet','wifi', ]
+tags: [ 'bluetooth','gps','ram','tablet','wifi', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

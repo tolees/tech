@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6JQS8C-es Kingston A400 SSD SA400S37/120G - Disco duro sólido...'
 sku: 'B01N6JQS8C-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Discos duros sólidos internos','Electrónica','Informática','Smartwatches','Tecnología para vestir','disco','duro','kingston', ]
+tags: [ 'Discos duros sólidos internos','disco','duro','kingston', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
@@ -28,9 +28,9 @@ En este momento está [Kingston A400 SSD SA400S37/120G - Disco duro sólido inte
 
 🔎:
 
-- Rendimiento óptimo para la transferencia de archivos
-- Capacidad del disco duro: 120 GB
 - Velocidad de grabación: 320 MB/s
 - Fiable y resistente
+- Rendimiento óptimo para la transferencia de archivos
+- Capacidad del disco duro: 120 GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N6JQS8C/?tag=tolees-21)

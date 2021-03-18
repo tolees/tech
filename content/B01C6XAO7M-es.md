@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6XAO7M-es HORI - Volante Mario Kart Pro Deluxe Nintendo Switch/PC'
 sku: 'B01C6XAO7M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Afeitado y depilación','Almacenamiento de datos','Almacenamiento de datos externo','Almacenamiento de datos internos','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Comunicación móvil y accesorios','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Discos duros externos','Discos duros sólidos internos','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Memorias USB','Móviles','Móviles de teclas grandes','Portátiles','Smartwatches','Tecnología para vestir','Videojuegos','hori','nintendo','switch', ]
+tags: [ 'Accesorios para Juegos PC','Mandos para Nintendo Switch','hori','nintendo','switch', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Deluxe  Nintendo Switch/PC ](h
 
 🔎:
 
+- Incluye pedales analógicos para una experiencia de conducción más realista
+- Compatible también con otros juegos de carreras para Nintendo Switch
 - Botones programables
 - Levas de cambio secuencial en el volante
-- Incluye pedales analógicos para una experiencia de conducción más realista
 - Licencia oficial de Nintendo
-- Compatible también con otros juegos de carreras para Nintendo Switch
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C6XAO7M/?tag=tolees-21)
