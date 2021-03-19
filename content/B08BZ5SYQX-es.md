@@ -28,11 +28,11 @@ Tienes [ASUS VivoBook 15 F515JA-BR097T - Portátil de 15.6" HD  Intel Core i3-10
 
 ℹ️:
 
-- Memoria RAM de 8GB DDR4-SDRAM
 - Almacenamiento de 256GB SSD
+- Windows 10 Home
+- Memoria RAM de 8GB DDR4-SDRAM
+- Tarjeta gráfica integrada Intel UHD Graphics
 - Procesador Intel Core i3-1005G1 (4MB Cache, 1.2GHz)
 - Pantalla de 15.6" HD (1366 x 768)
-- Windows 10 Home
-- Tarjeta gráfica integrada Intel UHD Graphics
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZ5SYQX/?tag=tolees-21)
