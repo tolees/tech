@@ -28,10 +28,10 @@ Tienes [Lenovo M10 FHD Plus- Tablet de 10.3" Full HD/IPS  MediaTek Helio P22T  4
 
 🔎:
 
-- RAM de 4GB Soldered
-- Almacenamiento de 64GB ampliables hasta 256GB
 - MediaTek Helio P22T (8C, 8x A53 @2.3GHz)
-- Sistema Operativo Android 9.0
+- Almacenamiento de 64GB ampliables hasta 256GB
+- RAM de 4GB Soldered
 - Pantalla de 10.3" FHD (1920x1200) TDDI 330nits
+- Sistema Operativo Android 9.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086WMCH4T/?tag=tolees-21)

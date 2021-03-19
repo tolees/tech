@@ -29,7 +29,7 @@ Ahora mismo tienes [Case Logic Huxton - Maletín para Ordenador de 15"  Color Az
 🔎:
 
 - Asas acolchadas que facilitan el transporte
-- Maletín delgado para proteger y transportar su portátil de 15,6"
 - Compartimento especial para un iPad o tabletas de 10,1 pulgadas
+- Maletín delgado para proteger y transportar su portátil de 15,6"
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013LDW2BW/?tag=tolees-21)
