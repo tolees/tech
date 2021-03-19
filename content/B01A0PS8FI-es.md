@@ -29,7 +29,7 @@ En este momento está [BG BE THE GAME - Cascos Gaming BG Typhoon - Auriculares c
 🔎:
 
 - Altavoces de 40mm
-- Ergonómico
 - Ideal para Gamming
+- Ergonómico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01A0PS8FI/?tag=tolees-21)
