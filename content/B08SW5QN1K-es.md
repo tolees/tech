@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'DOOGEE S88 Plus [2021] Móvil Resistente  al 25.06 % de descuento'
-date: 2021-03-17 17:07:20
+date: 2021-03-19 12:48:43
 image: 'https://m.media-amazon.com/images/I/51UYn40QsPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08SW5QN1K-es DOOGEE S88 Plus [2021] Móvil Resistente 10000mAh Batería...'
 sku: 'B08SW5QN1K-es'
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','doogee','móvil','smartphone', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0
