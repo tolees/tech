@@ -28,9 +28,9 @@ Ahora mismo tienes [HP Z3700 RF Raton óptico inalámbrico 1200DPI Plateado  Amb
 
 🔎:
 
-- Dimensiones del producto: 10 x 2.5 x 6 cm
-- Fácil de instalar
 - Utiliza la tecnología de detección de movimientos óptica
+- Fácil de instalar
+- Dimensiones del producto: 10 x 2.5 x 6 cm
 - Ratón de forma ambidiestro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L3ZP2MG/?tag=tolees-21)
