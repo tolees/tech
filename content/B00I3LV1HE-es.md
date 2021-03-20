@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Sony MDR-EX15AP - Auriculares in-ear  co al 30.10 % de descuento'
-date: 2021-03-18 04:18:27
+date: 2021-03-20 01:49:33
 image: 'https://m.media-amazon.com/images/I/415+IscsKiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00I3LV1HE-es Sony MDR-EX15AP - Auriculares in-ear con micrófono negro'
 sku: 'B00I3LV1HE-es'
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','sony', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21'
 descuento: '30.10'
-average: '6.14036496350365'
+average: '6.15258992805755'
 ---
 
 Está [Sony MDR-EX15AP - Auriculares in-ear  con micrófono   negro](https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21) con 30.10 de descuento por 6.99 EUR (original: 10.0 EUR) en el siguiente enlace!
@@ -27,12 +28,12 @@ Está [Sony MDR-EX15AP - Auriculares in-ear  con micrófono   negro](https://www
 
 ℹ️:
 
-- Auriculares internos ligeros con diafragma de 9 mm, 8 hz-22 khz, tapones de silicona, diversos colores
-- Tipo de conectividad: Alámbrico
 - Longitud del cable: 1.2
-- Diafragmas de neodimio (9 mm)
 - Dispositivos compatibles: Todos los dispositivos jack 3,5 mm
+- Diafragmas de neodimio (9 mm)
+- Auriculares internos ligeros con diafragma de 9 mm, 8 hz-22 khz, tapones de silicona, diversos colores
 - Disponible en diversos colores
 - Rango de frecuencia 8 hz-22 khz
+- Tipo de conectividad: Alámbrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21)
