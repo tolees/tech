@@ -28,11 +28,11 @@ Está [Apple Magic Keyboard - Español](https://www.amazon.es/dp/B016UPAXBE/?tag
 
 ℹ️:
 
-- Requisitos del sistema: Ordenador Mac con Bluetooth y OS X 10.11 o posterior, Dispositivo iPad con iPadOS, Dispositivos iOS con iOS 9.1 o posterior
 - El Magic Keyboard es un teclado con un diseño elegante, batería recargable y grandes prestaciones.
-- Permite escribir con mayor comodidad y precisión, gracias a su perfil estilizado y a un mecanismo de tijera debajo de cada tecla que mejora su estabilidad.
+- Se enlaza de forma automática al Mac para que puedas usarlo enseguida y, como la batería es de larga duración, no tendrás que cargarlo hasta dentro de un mes o más.
 - Conexiones y ampliación: Bluetooth, Puerto Lightning, Conexión inalámbrica
 - Compatibilidad: iPhone, iPad, iPad Air, iPad mini, iPad Pro, MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini
-- Se enlaza de forma automática al Mac para que puedas usarlo enseguida y, como la batería es de larga duración, no tendrás que cargarlo hasta dentro de un mes o más.
+- Permite escribir con mayor comodidad y precisión, gracias a su perfil estilizado y a un mecanismo de tijera debajo de cada tecla que mejora su estabilidad.
+- Requisitos del sistema: Ordenador Mac con Bluetooth y OS X 10.11 o posterior, Dispositivo iPad con iPadOS, Dispositivos iOS con iOS 9.1 o posterior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016UPAXBE/?tag=tolees-21)

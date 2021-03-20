@@ -28,10 +28,10 @@ Está [BELK Funda Dura Compatible con MacBook Pro 13 Pulgadas 2020-2016 con/sin 
 
 ℹ️:
 
+- COMPATIBILIDAD: Solo apto para Versión 2020 2019 2018 MacBook Pro 13 pulgadas con/sin Touch Bar (Modelos: A2338 A2289 A2251 A2159 A1989 A1708 A1706) Comprueba el número de modelo "AXXXX" en la parte posterior del portátil antes de realizar la compra.
+- NUEVA TECNOLOGÍA: esta cubierta de carcasa adopta un nuevo proceso IMD para que el patrón se vea más claro y brillante, no se desvanecerá con el tiempo, mantendrá su computadora portátil atractiva todo el tiempo. Diseño ahuecado que hace brillar el logo a través de la carcasa.
+- CONTENIDO DEL PAQUETE: 1 funda superior de patrón, 1 carcasa inferior transparente, 1 cubierta de teclado transparente, BELK 1 año de garantía. Si tiene alguna pregunta antes y después de la compra, no dude en contactarnos.
 - PROTECCIÓN COMPLETA: el material de primera calidad es más duradero, previene marcas de huellas dactilares, resbalamientos y rayones. La cubierta del teclado a juego puede evitar el polvo y las manchas.
 - CONVENIENTE: Diseño brillante de dos piezas fácil de instalar y quitar, acceso completo a todos los botones y funciones. 4 patas de goma para mantener tu notebook estable y seguro, ventilado completamente para un desembolso de calor seguro.
-- COMPATIBILIDAD: Solo apto para Versión 2020 2019 2018 MacBook Pro 13 pulgadas con/sin Touch Bar (Modelos: A2338 A2289 A2251 A2159 A1989 A1708 A1706) Comprueba el número de modelo "AXXXX" en la parte posterior del portátil antes de realizar la compra.
-- CONTENIDO DEL PAQUETE: 1 funda superior de patrón, 1 carcasa inferior transparente, 1 cubierta de teclado transparente, BELK 1 año de garantía. Si tiene alguna pregunta antes y después de la compra, no dude en contactarnos.
-- NUEVA TECNOLOGÍA: esta cubierta de carcasa adopta un nuevo proceso IMD para que el patrón se vea más claro y brillante, no se desvanecerá con el tiempo, mantendrá su computadora portátil atractiva todo el tiempo. Diseño ahuecado que hace brillar el logo a través de la carcasa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H56KLPM/?tag=tolees-21)
