@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA860RE - Repetidor de red Wi al 20.01 % de descuento'
-date: 2021-03-19 19:35:59
+date: 2021-03-20 19:43:26
 image: 'https://m.media-amazon.com/images/I/31oFcmO22FL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21'
 descuento: '20.01'
-average: '22.5793913043477'
+average: '22.6035042735041'
 ---
 
 Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21) con 20.01 de descuento por 23.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cober
 
 ℹ️:
 
+- El modo Extensor de Cobertura amplifica la señal inalámbrica perfectamente hasta zonas donde antes no llegaba o que son difíciles de cablear
 - 2 antenas externas fijas le proporcionan una cobertura WiFi excelente y una alta fiabilidad
+- Puente Ethernet: Convierta dispositivos cableados en inalámbricos
 - Su enchufe extra le asegura de que no pierde ninguna toma de corriente
 - Fácil Gestión: Amplíe fácilmente la cobertura inalámbrica con sólo pulsar el botón Range Extender
-- El modo Extensor de Cobertura amplifica la señal inalámbrica perfectamente hasta zonas donde antes no llegaba o que son difíciles de cablear
-- Puente Ethernet: Convierta dispositivos cableados en inalámbricos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21)
