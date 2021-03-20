@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Altavoz Portátil Bluetooth 20W  Mpow R6  con un 20.87 % de descuento'
+date: 2021-03-19 23:22:37
+image: 'https://m.media-amazon.com/images/I/41YyhsaczDL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07VX2CB8T-es Altavoz Portátil Bluetooth 20W Mpow R6 Altavoz Bluetooth...'
+sku: 'B07VX2CB8T-es'
+tags: [ 'Altavoces','Altavoces para el exterior','Electrónica','Equipos de audio y Hi-Fi','altavoz','bluetooth','mpow','móvil', ]
+actualPrice: 22.94 EUR
+currency: EUR
+price: 22.94
+comparePrice: 28.99 EUR
+prodname: 'Altavoz Portátil Bluetooth 20W  Mpow R6 Altavoz Bluetooth TWS  Impermerable IPX7  Altavoz Portátil Exterior  Bass+ y Hi-Fi  24H de Reproducción  para Móvil  Tableta  Fiesta  Oficina'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Mpow'
+buyurl: 'https://www.amazon.es/dp/B07VX2CB8T/?tag=tolees-21'
+descuento: '20.87'
+average: '25.6642268041236'
+---
+
+En este momento está [Altavoz Portátil Bluetooth 20W  Mpow R6 Altavoz Bluetooth TWS  Impermerable IPX7  Altavoz Portátil Exterior  Bass+ y Hi-Fi  24H de Reproducción  para Móvil  Tableta  Fiesta  Oficina](https://www.amazon.es/dp/B07VX2CB8T/?tag=tolees-21) a 22.94 EUR (original: 28.99 EUR) (20.87 %  de descuento) en el siguiente enlace!
+
+[![Altavoz Portátil Bluetooth 20W  Mpow R6 ](https://m.media-amazon.com/images/I/41YyhsaczDL._SL400_.jpg)](https://www.amazon.es/dp/B07VX2CB8T/?tag=tolees-21)
+
+🔎:
+
+- 【Tws 1+1＞2&Manos Libres】mpow r6 admite 2 altavoces bluetooth emparejados con el mismo dispositivo simultáneamente para lograr el sonido estéreo verdadero de 360º y el doble volumen; por su característica, este altavoz bluetooth tws es perfecto para fiestas en el patio, picnics, reuniones, campamentos, caminatas, trekking, etc; Micrófono incorporado con tecnología integrada de cancelación de ruido y eso para llamadas más cristalinas y claras.
+- 【Impermeable ipx7】significa que el altavoz portátil mpow r6 es totalmente resistente a agua y polvo; no se preocupe más cuando lo utiliza alrededor de piscina o en playas; también adecuado para el clima como tormenta, lluvia o nieve; diseño robusto y duradero con materiales exteriores ultrarresistentes, ideales para disfrutar de la música al aire libre
+- 【Ligero y portátil】mpow r6 altavoz portátil pequeño solo pesa 348g, menos que una botellita de agua; con su aspecto compacto, es fácil de ponerlo en esquinas o brechas de sus maletas o mochilas; contiene con una cuerda de nylon de cologar para agarrar a muñeca o atar a bicicletas, mochilas cuando haces actividades al aire libre
+- 【20w impresionante bass up&Sonido Estéreo】si eres hincha de música mereces el altavoz bluetooth r6 que satisface su necesidades de el sonido alto nítido y el sonido bajo potente; debe mencionar el botón bass + con el que mejora el sonido bajo (bass) sin perder el alto rendimiento de los medios y agudos; recomentable para la mayoría de tipos de música como pop rock eletrónica clásica y ect
+- 【30horas de reproducción】contiene con una batería de 4000 mah mpow altavoz bluetooth portátil proporcinará un tiempo de reproducción de 30 horas con solo una carga completa; también admite largo tiempo de llamada de manos libres
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07VX2CB8T/?tag=tolees-21)
