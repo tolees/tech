@@ -28,9 +28,9 @@ Tienes [Thumbs Up! Stormtrooper - Altavoz con Bluetooth  Blanco](https://www.ama
 
 🔎:
 
+- Micrófono incorporado
 - Potencia 2W.
 - saca foto con tu smartphone utilizando el boton de alimentacion de altavoz
 - puede funcionar durante 3 - 4 horas
-- Micrófono incorporado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073WJ9YTJ/?tag=tolees-21)
