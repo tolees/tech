@@ -28,11 +28,11 @@ En este momento está [Motorola C1001  Teléfono Fijo  DC-in jack  Negro](https:
 
 🔎:
 
-- Habilidad para nombrar terminales
+- Control de volumen del timbre del auricular - 5 niveles y apagado
 - Habilidad para nombrar terminales
 - Modo de marcación - tono / pulso
-- 1 base, expandible hasta 4 auriculares
-- Control de volumen del timbre del auricular - 5 niveles y apagado
+- Habilidad para nombrar terminales
 - Estación base / dispositivo de seguridad
+- 1 base, expandible hasta 4 auriculares
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21)
