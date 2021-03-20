@@ -28,10 +28,10 @@ Ahora mismo tienes [Bose SoundSport - Auriculares inalámbricos  Bluetooth  NFC 
 
 🔎:
 
-- Cubiertas StayHear+ para una mayor estabilidad y comodidad
 - Emparejamiento Bluetooth y NFC
 - Micrófono en el cable para llamadas y música
 - Sonido equilibrado a cualquier volumen
+- Cubiertas StayHear+ para una mayor estabilidad y comodidad
 - Control mediante la aplicación Bose Connect
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L7PSJFO/?tag=tolees-21)
