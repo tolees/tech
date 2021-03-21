@@ -28,8 +28,8 @@ Tienes [Gigaset DA210 - Teléfono Fijo con Cable  Color Blanco](https://www.amaz
 
 ℹ️:
 
-- Sencillo
 - Se puede poner en pared
+- Sencillo
 - Led de aviso llamada entrante
 - No necesita enchufe
 
