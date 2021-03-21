@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-S20R - Barra de Sonido  5.1 Cana con un 20.40 % de descuento'
-date: 2021-03-19 21:01:02
+date: 2021-03-21 02:17:48
 image: 'https://m.media-amazon.com/images/I/21U0hJ8qy+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21'
 descuento: '20.40'
-average: '202.648846153846'
+average: '202.58'
 ---
 
 En este momento está [Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  400 W  USB  HDMI ARC  Conexiones ópticas y analógicas  Sonido de Cine  Negro](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21) a 199.0 EUR (original: 250.0 EUR) (20.40 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  4
 
 🔎:
 
-- Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
+- Reproducción de audio mediante USB
 - Conectividad Bluetooth sencilla para transmisión de música
 - Llena la habitación con auténtico sonido Surround de 5.1 canales
 - Modos de sonido para películas y música mejoradas
-- Reproducción de audio mediante USB
+- Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21)
