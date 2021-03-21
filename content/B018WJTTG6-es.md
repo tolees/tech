@@ -29,13 +29,13 @@ Está [ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit  triple VLAN  Ai
 ℹ️:
 
 - Estándar de red: IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac, IPv4, IPv6
-- Compatible con AiMesh: Conecta routers de ASUS compatibles y crea un versátil sistema Wi-Fi de red mallada para toda la casa
-- Router Wi-Fi 802.11ac ultrarrápido con una velocidad de datos dual-band combinada de hasta 3167 Mbps para disfrutar de juegos online con baja latencia
-- Tecnología Broadcom NitroQAM con hasta 2167 Mbps en la banda 5 GHz y hasta 1000 Mbps en la de 2,4 GHz
-- Funcionalidad Triple-VLAN, compatible con los servicios triple-play (Internet, Voz IP y TV) de tu operador, ofrece gestión automática de direcciones IP, servidor y cliente OpenVPN
-- Procesador dual-core a 1,4 GHz que mejora la velocidad USB y WAN/LAN
 - Link Aggregation con hasta 2 Gbps de velocidad por cable para un acceso más rápido con más dispositivos
+- Tecnología Broadcom NitroQAM con hasta 2167 Mbps en la banda 5 GHz y hasta 1000 Mbps en la de 2,4 GHz
+- Router Wi-Fi 802.11ac ultrarrápido con una velocidad de datos dual-band combinada de hasta 3167 Mbps para disfrutar de juegos online con baja latencia
 - Diseño de antenas 4x4 con tecnología AiRadar para una cobertura adecuada
 - Velocidad de datos: 802.11a : 6,9,12,18,24,36,48,54 Mbps; 802.11b : 1, 2, 5.5, 11 Mbps;802.11g : 6,9,12,18,24,36,48,54 Mbps; 802.11n: hasta 600 Mbps; 802.11ac: hasta 1734 Mbps; 1024QAM (2.4GHz) : hasta 1000 Mbps; 1024QAM (5GHz) : hasta 2167 Mbps
+- Compatible con AiMesh: Conecta routers de ASUS compatibles y crea un versátil sistema Wi-Fi de red mallada para toda la casa
+- Funcionalidad Triple-VLAN, compatible con los servicios triple-play (Internet, Voz IP y TV) de tu operador, ofrece gestión automática de direcciones IP, servidor y cliente OpenVPN
+- Procesador dual-core a 1,4 GHz que mejora la velocidad USB y WAN/LAN
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B018WJTTG6/?tag=tolees-21)
