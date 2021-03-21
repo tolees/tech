@@ -28,10 +28,10 @@ Tienes [HyperX Alloy Core RGB - Teclado de membrana para videojuegos - Silencios
 
 🔎:
 
-- Controles multimedia especializados
 - Barra de iluminación única y efectos de luz RGB dinámicos
-- Teclas silenciosas, con gran respuesta y función Anti-Ghosting
 - Carcasa sólida y duradera, Resistente a salpicaduras*
+- Controles multimedia especializados
+- Teclas silenciosas, con gran respuesta y función Anti-Ghosting
 - Botones de acceso rápido para ajustar brillo, modos de iluminación y modo de juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08934QWQY/?tag=tolees-21)
