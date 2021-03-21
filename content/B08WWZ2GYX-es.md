@@ -29,9 +29,9 @@ Ahora mismo tienes [LolaPix Alfombrilla ratón papá. Regalos Personalizados. D�
 🔎:
 
 - 🖱️ La alfombrilla ratón papá posée una base antideslizante para facilitar el desplazamiento del ratón.
+- 📐 La alfombrilla ratón papá mide 18x22 cm y pesa 72 gr. El material es muy flexible.
 - 🖼️ La alfombrilla ratón papá tiene forma rectangular y esquinas redondeadas.
 - 🧼 Nuestra alfombrilla ratón papá es resistente al polvo y las manchas. Fácil limpieza.
 - 🎨 Las imágenes en nuestra alfombrilla ratón papá tienen una gran durabilidad y son muy resistentes al roce. Se imprime sobre fondo blanco, con lo que se respetan todos los colores de la foto original.
-- 📐 La alfombrilla ratón papá mide 18x22 cm y pesa 72 gr. El material es muy flexible.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WWZ2GYX/?tag=tolees-21)
