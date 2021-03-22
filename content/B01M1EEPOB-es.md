@@ -29,9 +29,9 @@ Está [Apple EarPods con conector Lightning](https://www.amazon.es/dp/B01M1EEPOB
 ℹ️:
 
 - Mayor protección contra el agua y el sudor
+- Controla la reproducción de música y vídeo
+- Bajos más profundos y con más matices
 - Diseñados por Apple
 - Responde y cuelga llamadas
-- Bajos más profundos y con más matices
-- Controla la reproducción de música y vídeo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1EEPOB/?tag=tolees-21)
