@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'MSI Pro 24X 10M-042EU - Ordenador de sob con un 18.15 % de descuento'
-date: 2021-03-14 20:41:22
+date: 2021-03-22 05:49:22
 image: 'https://m.media-amazon.com/images/I/41OPnVIT6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RMSSH8-es MSI Pro 24X 10M-042EU - Ordenador de sobremesa de 23.8"...'
 sku: 'B087RMSSH8-es'
+tags: [ 'Informática','Portátiles','msi','ordenador','ram', ]
 actualPrice: 736.6 EUR
 currency: EUR
 price: 736.6
@@ -27,10 +28,6 @@ En este momento está [MSI Pro 24X 10M-042EU - Ordenador de sobremesa de 23.8" F
 
 🔎:
 
-- Tarjeta gráfica IntelHD Graphics
-- Memoria RAM de 8 GB SO-DIMM DDR4
-- Sistema operativo Windows 10 Mobile
-- Disco SSD de 512 GB
-- Procesador Intel Core i5-10210U (4 núcleos, 6 MB Cache, 1.6 GHz hasta 4.2 GHz)
+- MSI PRO 24X 10M-042EU
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087RMSSH8/?tag=tolees-21)
