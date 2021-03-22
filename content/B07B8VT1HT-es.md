@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'JBL GO 2 - Altavoz inalámbrico portátil  al 31.44 % de descuento'
-date: 2021-03-17 17:14:37
+date: 2021-03-22 22:39:53
 image: 'https://m.media-amazon.com/images/I/51jews7-9sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07B8VT1HT-es JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B07B8VT1HT-es'
+tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','bluetooth','jbl', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99
@@ -30,7 +31,7 @@ Está [JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth  resistente al ag
 - Grab and Go, los altavoces GO 2 son resistentes, fáciles de transportar en la mano y perfectos para guardar en cualquier bolso / cuenta con un micrófono de calidad para usarlo como manos libres
 - ¡Qué el ritmo no pare! escucha hasta 5 horas de tu música favorita con sonido de alta fidelidad, el altavoz con cancelación de ruido incorporado es ideal para llamadas con mayor claridad
 - Contenido del envío: 1 x altavoz GO 2 inalámbrico portátil, incluye adaptador y cable de carga, color gris, disponible en otros colores
-- El sol, la playa y tus altavoces impermeables, úsalo en la piscina o mientras te duchas, este Boombox resistente al agua te lo hace todo mucho más fácil, mojarlo ya no es problema
 - Bocina con Bluetooth para móvil o tablet, no te preocupes si no dispones de Bluetooth, ya que puedes conectar el cable de audio al altavoz y disfrutar igualmente de tu música
+- El sol, la playa y tus altavoces impermeables, úsalo en la piscina o mientras te duchas, este Boombox resistente al agua te lo hace todo mucho más fácil, mojarlo ya no es problema
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B8VT1HT/?tag=tolees-21)

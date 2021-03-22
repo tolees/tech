@@ -28,11 +28,11 @@ Ahora mismo tienes [Krom Teclado Gaming Kernel TKL -NXKROMKRNLTKL - Teclado Meca
 
 🔎:
 
-- Tipo cable: trenzado; dimensiones: 361x22,5x133,5 mm;peso: 950 +/- 30 g
 - Conexión: USB chapado en oro; consumo de enrgía: 100-260 ma; voltaje: 5.0 +/- 0.25 v; longitud cable: 180cm
-- Teclado Español
-- Teclado Español
-- Marcos: asignación de función macro en cualquier tecla; memoria interna: 64kb; fuerza de accionamiento 60 +/- 10g; 1000 hz
 - Compatibilidad: Windows 7 / 8 / 8.1 / 10
+- Teclado Español
+- Teclado Español
+- Tipo cable: trenzado; dimensiones: 361x22,5x133,5 mm;peso: 950 +/- 30 g
+- Marcos: asignación de función macro en cualquier tecla; memoria interna: 64kb; fuerza de accionamiento 60 +/- 10g; 1000 hz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077J2HFD2/?tag=tolees-21)
