@@ -28,8 +28,8 @@ Está [Crucial P2 CT250P2SSD8 Disco Duro sólido Interno SSD de 250GB  de hasta 
 
 ℹ️:
 
-- La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
-- Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
 - Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
+- Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
+- La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086BKGSC1/?tag=tolees-21)
