@@ -28,10 +28,10 @@ Está [Adaptador Displayport a HDMI 2 PCS  Benfei DP  Puerto de Pantalla  Conver
 
 ℹ️:
 
-- DISEÑO COMPACTO: el adaptador portátil Benfei DisplayPort a HDMI de diseño compacto conecta una computadora, computadora de escritorio, computadora portátil u otros dispositivos con puerto DisplayPort a un monitor, proyector, HDTV u otros dispositivos con puerto HDMI; Meta este dispositivo ligero en su bolso o bolsillo para hacer una presentación comercial con su computadora portátil y proyector, o extienda la pantalla de su escritorio a un monitor o televisor; Se requiere un cable HDMI.
 - DISEÑO DE LOS Pestillos: el conector DisplayPort con pestillos proporciona una conexión segura, los pestillos mejorarán la estabilidad de la conexión en el uso. Cuando lo desconectes, presiona el botón real y fácil de extraer.
+- ESTABILIDAD SUPERIOR: el chip IC avanzado incorporado convierte la señal DisplayPort en señal HDMI; NO es un convertidor bidireccional y no puede transmitir señales desde HDMI a DisplayPort
 - GARANTÍA DE 18 MESES: la exclusiva garantía incondicional de 18 meses de Benfei garantiza la protección a largo plazo de su compra; Servicio al cliente amigable y de fácil acceso para resolver sus problemas a tiempo
 - RENDIMIENTO INCREÍBLE: el convertidor DisplayPort macho a HDMI hembra admite resoluciones de hasta 1920x1080 @ 60Hz (1080p Full HD) incluyendo 720p, 1600x1200, 1280x1024 para monitores o proyectores de alta definición, admite un paso de audio impecable para canales digitales sin comprimir 7.1, 5.1 o 2 ; El conector DisplayPort chapado en oro resiste la corrosión y la abrasión y mejora el rendimiento de transmisión de la señal; El alivio de tensión moldeado aumenta la durabilidad del cable
-- ESTABILIDAD SUPERIOR: el chip IC avanzado incorporado convierte la señal DisplayPort en señal HDMI; NO es un convertidor bidireccional y no puede transmitir señales desde HDMI a DisplayPort
+- DISEÑO COMPACTO: el adaptador portátil Benfei DisplayPort a HDMI de diseño compacto conecta una computadora, computadora de escritorio, computadora portátil u otros dispositivos con puerto DisplayPort a un monitor, proyector, HDTV u otros dispositivos con puerto HDMI; Meta este dispositivo ligero en su bolso o bolsillo para hacer una presentación comercial con su computadora portátil y proyector, o extienda la pantalla de su escritorio a un monitor o televisor; Se requiere un cable HDMI.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FB1CWXW/?tag=tolees-21)
