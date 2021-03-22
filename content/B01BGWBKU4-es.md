@@ -28,10 +28,10 @@ Tienes [TRIXES Mini Teclado con Cable USB Teclado Delgado Plateado y Blanco – 
 
 🔎:
 
-- LIVIANO; La construcción liviana y simple hace que nuestro teclado sea fácil de transportar
 - COLOR CLÁSICO; Teclas Plata y Blancas y Estructura de aluminio. Diseñado para complementar un ambiente de oficina moderno y minimalista.
 - DIMENSIONES; 28.5cm x 12 x 2cm (largo x ancho x alto). La longitud del cable del teclado USB es de 1.5M
-- QWERTY; Reconocerás el diseño familiar de nuestro teclado USB, que es el estándar habitual en las máquinas de escribir y teclados en inglés, el término QWERTY deriva de la secuencia de las seis letras principales: Q W E R T  Y .
+- LIVIANO; La construcción liviana y simple hace que nuestro teclado sea fácil de transportar
 - DISEÑO DELGADO Y ELEGANTE; El diseño fino y aerodinámico de nuestro teclado, cuenta con teclas planas, combina estilo y funcionalidad. También es increíblemente compacto y portátil, por lo que es ideal para el viaje diario. Puedes sentirte seguro con nuestro teclado, que es muy confiable y duradero.
+- QWERTY; Reconocerás el diseño familiar de nuestro teclado USB, que es el estándar habitual en las máquinas de escribir y teclados en inglés, el término QWERTY deriva de la secuencia de las seis letras principales: Q W E R T  Y .
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BGWBKU4/?tag=tolees-21)

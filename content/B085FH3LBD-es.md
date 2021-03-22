@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Samsung EVO Select 64 GB microSD 100 MB/ con un 38.78 % de descuento'
-date: 2020-10-08 18:57:20
+title: 'Samsung EVO Select - Tarjeta de Memoria  con un 23.82 % de descuento'
+date: 2021-03-22 06:33:19
 image: 'https://m.media-amazon.com/images/I/41Q1SsX7c-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B085FH3LBD-es Samsung EVO Select 64 GB microSD 100 MB/s Velocidad Full...'
+slug: 'B085FH3LBD-es Samsung EVO Select - Tarjeta de Memoria microSD de 64 GB...'
 sku: 'B085FH3LBD-es'
-tags: [ 'full','hd','microsd','samsung','smartphone','tablet', ]
-actualPrice: 12.85 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','full','hd','microsd','samsung','smartphone', ]
+actualPrice: 15.99 EUR
 currency: EUR
-price: 12.85
+price: 15.99
 comparePrice: 20.99 EUR
-prodname: 'Samsung EVO Select 64 GB microSD 100 MB/s  Velocidad  Full HD & 4K UHD  Tarjeta de Memoria Incluye Adaptador SD para Smartphone  Tablet  cámara de acción  dron y portátil'
+prodname: 'Samsung EVO Select - Tarjeta de Memoria microSD de 64 GB  100 MB/s  Full HD y 4 K UHD  Incluye Adaptador SD para Smartphone  Tableta  cámara de acción  dron y portátil'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21'
-descuento: '38.78'
-average: '13.123333333333335'
+descuento: '23.82'
+average: '13.84'
 ---
 
-En este momento está [Samsung EVO Select 64 GB microSD 100 MB/s  Velocidad  Full HD & 4K UHD  Tarjeta de Memoria Incluye Adaptador SD para Smartphone  Tablet  cámara de acción  dron y portátil](https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21) a 12.85 EUR (original: 20.99 EUR) (38.78 %  de descuento) en el siguiente enlace!
+En este momento está [Samsung EVO Select - Tarjeta de Memoria microSD de 64 GB  100 MB/s  Full HD y 4 K UHD  Incluye Adaptador SD para Smartphone  Tableta  cámara de acción  dron y portátil](https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21) a 15.99 EUR (original: 20.99 EUR) (23.82 %  de descuento) en el siguiente enlace!
 
-[![Samsung EVO Select 64 GB microSD 100 MB/](https://m.media-amazon.com/images/I/41Q1SsX7c-L._SL400_.jpg)](https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21)
+[![Samsung EVO Select - Tarjeta de Memoria ](https://m.media-amazon.com/images/I/41Q1SsX7c-L._SL400_.jpg)](https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21)
 
 🔎:
 
+- Alta velocidad: apto para grabación Full HD con hasta 100 MB/s de velocidad de transferencia (UHS-I U1)
+- Alta seguridad para tus datos gracias a la protección cuádruple de 4 capas: resistente al agua, a la temperatura, a prueba de rayos X y a prueba de imán
+- Gran compatibilidad: gracias al adaptador SD incluido es compatible con una amplia gama de dispositivos
+- Tarjeta de memoria microSD optimizada a la velocidad, perfecta para su uso en smartphones, tabletas, cámaras de 360°, cámaras de acción Full HD y drones
+- Gran capacidad: 64 GB de capacidad de almacenamiento para hasta 3 horas de grabación de vídeo 4K UHD o 18. 800 fotos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21)
