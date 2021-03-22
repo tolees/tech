@@ -28,10 +28,10 @@ Tienes [HP 25MX - Monitor de 25" FullHD  1920x1080  IPS LED  16:9  1 HDMI 2.0  1
 
 ℹ️:
 
+- Pantalla FHD / 1080p con micro-borde
+- Velocidad de actualización de 144 Hz
 - Tecnología AMD FreeSync; modo Low blue light
 - Soporte de ajuste de altura; iluminación ambiental
-- Pantalla FHD / 1080p con micro-borde
 - Tiempo de respuesta de 1 ms con Overdrive
-- Velocidad de actualización de 144 Hz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PY3JT5H/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Corsair K65 Rapidfire RGB Teclado Mecánico Gaming  Cherry MX Speed  Ráp
 
 ℹ️:
 
-- Iluminación estática: cambia cualquier tecla del teclado a la configuración de color y brillo que prefieras; puedes crear, guardar y cargar patrones personalizados para tus juegos favoritos
 - Atención: el teclado no tiene teclas numéricas
 - Cambio de color: cambia de color con las diversas paletas de color y la velocidad que desees; puedes definir el cambio de color en todo el teclado o solo en las teclas que decidas
+- Iluminación estática: cambia cualquier tecla del teclado a la configuración de color y brillo que prefieras; puedes crear, guardar y cargar patrones personalizados para tus juegos favoritos
 - Escritura reactiva: configura la escritura reactiva para una única tecla o crea un efecto de ondulación en varias teclas
 - Fluctuaciones y ondulaciones: personaliza la paleta de color, dirección, duración y velocidad, y haz fluir las ondas por todo el teclado o solo en las teclas que desees
 
