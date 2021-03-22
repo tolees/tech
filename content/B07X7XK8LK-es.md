@@ -28,11 +28,11 @@ En este momento está [Newskill Scylla - Auriculares Gaming Inalámbricos con Mi
 
 🔎:
 
-- Efectos de retroiluminación rgb y colores fijos
-- Compatible de forma inalámbrica: PC/PS4
 - Completamente libre de cables y micrófono totalmente removible
 - Compatible vía cable: Xbox One/Smartphone
-- Conexión mediante usb o jack de 3.5mm
+- Efectos de retroiluminación rgb y colores fijos
 - Tiempo de uso: 12 horas con volumen medio y luces apagadas
+- Compatible de forma inalámbrica: PC/PS4
+- Conexión mediante usb o jack de 3.5mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X7XK8LK/?tag=tolees-21)

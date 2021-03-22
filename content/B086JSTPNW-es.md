@@ -28,14 +28,14 @@ Está [Realme C3 - Smartphone de 6.5" LCD multi-touch  2 GB RAM + 32 GB ROM  Pro
 
 ℹ️:
 
-- Cámara Dual AI de 12MP, chroma boost y grabación slow motion
-- Pantalla de 6.5” Mini drop Fullscreen, con relación pantalla-cuerpo del 89.8%
-- 2 años de garantía del fabricante (ES)
-- Móvil compatible con Portugal
+- Procesador Helio G70 OctaCore 12nm
 - Diseño Sunrise con superficie antihuellas
 - IPS LCD capacitive touchscreen, 16M colors
-- Procesador Helio G70 OctaCore 12nm
 - 4 ranuras para tarjetas: 2 para SIM + 1 para MicroSD
+- Cámara Dual AI de 12MP, chroma boost y grabación slow motion
+- Móvil compatible con Portugal
 - Sistema Operativo Realme UI
+- 2 años de garantía del fabricante (ES)
+- Pantalla de 6.5” Mini drop Fullscreen, con relación pantalla-cuerpo del 89.8%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086JSTPNW/?tag=tolees-21)

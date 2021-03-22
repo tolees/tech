@@ -28,10 +28,10 @@ Tienes [PawHut Árbol para Gatos Rascador Grande con Nidos Plataformas Casetas R
 
 ℹ️:
 
-- ✅Práctico y Funcional: Fabricado con materiales ecológicos. El sisal es muy duradero y cuidará las uñas del gato, permitiendo de esta manera proteger los muebles de cualquier arañazo
-- ✅Estable y Confortable: Estructura hecha de tablero madera aglomerado. Los postes son muy gruesos, por lo que la estructura es estable y resistente. Está cubierto de terciopelo 400g/㎡ , con un tacto cómodo y suave para tu gato
-- ✅Diseño elegante: Fantástico árbol rascador para gatos con un bonito y elegante diseño. Perfecto para colocar en cualquier lugar de tu hogar ya que combinará perfectamente con el resto de muebles
 - ✅Fácil de Montar: Incluye instrucciones y todos los accesorios necesarios para su montaje. Dimensiones totales: 50x35x131cm (LxANxAL), diámetro del sisal natural: Φ4mm. Capacidad máx. de carga: 15 kg
 - ✅Centro de Juegos: Equipado con 1 caseta, 2 plataformas, 1 nido, 1 escalera y 4 ratones de juego. Tu gato podrá realizar una amplia variedad de entrenamientos
+- ✅Práctico y Funcional: Fabricado con materiales ecológicos. El sisal es muy duradero y cuidará las uñas del gato, permitiendo de esta manera proteger los muebles de cualquier arañazo
+- ✅Diseño elegante: Fantástico árbol rascador para gatos con un bonito y elegante diseño. Perfecto para colocar en cualquier lugar de tu hogar ya que combinará perfectamente con el resto de muebles
+- ✅Estable y Confortable: Estructura hecha de tablero madera aglomerado. Los postes son muy gruesos, por lo que la estructura es estable y resistente. Está cubierto de terciopelo 400g/㎡ , con un tacto cómodo y suave para tu gato
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FY9Q15S/?tag=tolees-21)
