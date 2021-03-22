@@ -29,9 +29,9 @@ Ahora mismo tienes [IKOHS Air Pure Studio - Purificador Ventilador sin aspas  35
 🔎:
 
 - Silencioso, de motor eficiente DC, con conectividad Wifi y APP y, sobre todo, con un diseño revolucionario y decorativo.
-- Aire fresco y puro: el aire ventilado procede de la parte inferior de la estancia, donde se acumula el aire más frio. Pasa por un filtro HEPA y una luz ultravioleta, lo que elimina el 99,9% de polvo, polen, ácaros, gérmenes y bacterias.
-- El diseño que combina un ventilador de torre sin aspas y un purificador de aire de alta eficiencia con filtro HEPA H13 y luz ultravioleta bactericida.
-- Fácil de usar desde su mando a distancia,o desde la APP. Programa el temporizador, la potencia y las 9 velocidades. Con un ángulo de oscilación de 90°, consigue ventilar aire purificado de forma eficiente allí donde lo coloques.
 - Ultrasilencioso: Tan solo 40dB de sonido generando un caudal de aire de 5.8m/s a máxima potencia, ideal para estancias de 10 a 20m². Medidas: 23,5x23,0x59,2 cm .
+- El diseño que combina un ventilador de torre sin aspas y un purificador de aire de alta eficiencia con filtro HEPA H13 y luz ultravioleta bactericida.
+- Aire fresco y puro: el aire ventilado procede de la parte inferior de la estancia, donde se acumula el aire más frio. Pasa por un filtro HEPA y una luz ultravioleta, lo que elimina el 99,9% de polvo, polen, ácaros, gérmenes y bacterias.
+- Fácil de usar desde su mando a distancia,o desde la APP. Programa el temporizador, la potencia y las 9 velocidades. Con un ángulo de oscilación de 90°, consigue ventilar aire purificado de forma eficiente allí donde lo coloques.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DP2TDBF/?tag=tolees-21)
