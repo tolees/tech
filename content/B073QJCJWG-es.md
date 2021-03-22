@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AC55- Repetidor Extensor de Red  con un 20.32 % de descuento'
-date: 2021-03-20 10:38:27
+date: 2021-03-22 17:47:48
 image: 'https://m.media-amazon.com/images/I/31YFk-ihcyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21'
 descuento: '20.32'
-average: '54.2829999999999'
+average: '54.2999999999999'
 ---
 
 En este momento está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble Banda  Puerto LAN Gigabit  Modo Punto Acceso  indicador LED señal ](https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21) a 54.98 EUR (original: 69.0 EUR) (20.32 %  de descuento) en el siguiente enlace!

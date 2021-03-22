@@ -28,10 +28,10 @@ Ahora mismo tienes [HyperX Alloy FPS Pro  Teclado Mecánico de Gaming  USB  Mult
 
 🔎:
 
-- Diseño portátil con cable extraíble
-- Teclas mecánicas Cherry MX; teclas retroiluminadas en rojo HyperX con efectos de luz dinámicos
-- Estructura sólida de acero
 - Modo de juego; 100% Anti-Ghosting y funciones N-key rollover
 - Diseño ultraminimalista sin tenkey (TKL) óptimo para los jugadores profesionales de FPS
+- Diseño portátil con cable extraíble
+- Estructura sólida de acero
+- Teclas mecánicas Cherry MX; teclas retroiluminadas en rojo HyperX con efectos de luz dinámicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BKHP2NK/?tag=tolees-21)
