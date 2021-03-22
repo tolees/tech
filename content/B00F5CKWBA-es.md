@@ -28,9 +28,9 @@ Tienes [AmazonBasics - Amazon Basics - Funda de disco duro  color negro y naranj
 
 ℹ️:
 
-- Tamaño externo: 14.7 x 10.7 x 3 cm
 - Bolsillo interior de malla para guardar los cables de conexión.
 - Funda compacta para guardar y transportar discos duros portátiles medianos y grandes.
+- Tamaño externo: 14.7 x 10.7 x 3 cm
 - Cinta interior y cierre de cremallera para fijar el disco duro.
 - Su fino diseño permite guardarlo con facilidad en cualquier mochila o maletín.
 

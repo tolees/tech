@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem Earphones Style 6 Auricular True Wireless Whit
 
 🔎:
 
-- - CHARGING CASE: La mejor manera de transportar tus auriculares, una pequeña caja, que además de transportarlos, los carga para que nunca te quedes sin bateria
 - - EASY CONNECT: los auriculares se emparejan entre si automáticamente. Disfruta tu música de la forma más sencilla.
-- - CONTRO DE REPRODUCCIÓN: Responde llamadas desde el auricular, sube o baja el volumen, avanza o retrocede la cancion.
 - - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
 - - TRUE WIRELESS STEREO: Gracias a esta tecnología, podrás disfrutar de la mejor música, donde quieras, sin un solo cable. Solo sácalos de la charging case, y se conectan automáticamente a tu smartphone
+- - CHARGING CASE: La mejor manera de transportar tus auriculares, una pequeña caja, que además de transportarlos, los carga para que nunca te quedes sin bateria
+- - CONTRO DE REPRODUCCIÓN: Responde llamadas desde el auricular, sube o baja el volumen, avanza o retrocede la cancion.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGKYKYW/?tag=tolees-21)

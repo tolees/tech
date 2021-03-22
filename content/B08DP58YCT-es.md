@@ -29,9 +29,9 @@ En este momento está [Lenovo D27-30 - Monitor de 27"  Pantalla FullHD  FreeSync
 🔎:
 
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Monitor de 27" con resolución FullHD (1920 x 1080 píxeles) y tecnología EyeComfort para cuidar tu vista
-- Ajuste en inclinación de -5° a 22°
-- Puertos HDMI y VGA, y cable HDMI incluido
 - 4 ms: con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
+- Monitor de 27" con resolución FullHD (1920 x 1080 píxeles) y tecnología EyeComfort para cuidar tu vista
+- Puertos HDMI y VGA, y cable HDMI incluido
+- Ajuste en inclinación de -5° a 22°
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21)
