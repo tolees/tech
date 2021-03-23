@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH510 - Auriculares inalámbricos al 28.02 % de rebaja'
-date: 2021-03-20 10:48:01
+date: 2021-03-23 10:05:53
 image: 'https://m.media-amazon.com/images/I/3176rsELDaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07WD5B99P/?tag=tolees-21'
 descuento: '28.02'
-average: '37.5582222222223'
+average: '37.4914893617022'
 ---
 
 Tienes [Sony WH-CH510 - Auriculares inalámbricos Bluetooth de Diadema con hasta 35h de autonomía  Blanco](https://www.amazon.es/dp/B07WD5B99P/?tag=tolees-21) con precio final de  35.99 EUR (original: 50.0 EUR) (28.02 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Sony WH-CH510 - Auriculares inalámbricos Bluetooth de Diadema con hasta
 
 🔎:
 
-- Cascos giratorios, compactos y ligeros para fácil itar el transporte
 - Conexión bluetooth inalámbrica para disfrutar de un movimiento sin restricciones
 - Sencillas funciones de llamadas con manos libres y comandos del asistente de voz con micrófono
+- Cascos giratorios, compactos y ligeros para fácil itar el transporte
 - Escucha más matices gracias a la unidad de diafragma de 30. Mm
 - Función de carga rápida y hasta 35 horas de duración de batería para utilizarlos durante todo el día
 

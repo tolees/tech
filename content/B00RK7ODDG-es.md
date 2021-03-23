@@ -28,11 +28,11 @@ Ahora mismo tienes [Sony Handycam HDR-CX405 - Videocámara de 9.2 Mp  pantalla d
 
 🔎:
 
-- Grabación AVCHD y XAVC S (HD 50 Mbps)
-- Optical SteadyShot con modo Activo inteligente
-- Peso del producto: 191 g
-- Lente ZEISS gran angular de 26.8 mm con zoom óptico de 30x
-- Sensor CMOS Exmor R
 - Zoom de imagen nítida de 60x
+- Peso del producto: 191 g
+- Sensor CMOS Exmor R
+- Grabación AVCHD y XAVC S (HD 50 Mbps)
+- Lente ZEISS gran angular de 26.8 mm con zoom óptico de 30x
+- Optical SteadyShot con modo Activo inteligente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00RK7ODDG/?tag=tolees-21)
