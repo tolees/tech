@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone Posavasos Consola Nintendo  Cor con un 26.18 % de descuento'
-date: 2021-03-21 18:28:04
+date: 2021-03-22 23:19:20
 image: 'https://m.media-amazon.com/images/I/51SyDnoMNBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Paladone'
 buyurl: 'https://www.amazon.es/dp/B078YHCXWX/?tag=tolees-21'
 descuento: '26.18'
-average: '8.31571428571428'
+average: '8.06555555555556'
 ---
 
 En este momento está [Paladone Posavasos Consola Nintendo  Corcho  Multicolor  8x8x1 cm](https://www.amazon.es/dp/B078YHCXWX/?tag=tolees-21) a 7.19 EUR (original: 9.74 EUR) (26.18 %  de descuento) en el siguiente enlace!
