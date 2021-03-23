@@ -28,11 +28,11 @@ Ahora mismo tienes [Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 120Hz  Intel
 
 🔎:
 
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2933)
-- Procesador Intel Core i7-10750H (6C/12T, 2.6/5.0GHz, 12MB)
-- Sin sistema operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 240Hz, 500 nits
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Sin sistema operativo
+- Procesador Intel Core i7-10750H (6C/12T, 2.6/5.0GHz, 12MB)
+- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 240Hz, 500 nits
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2933)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M3P7FB2/?tag=tolees-21)
