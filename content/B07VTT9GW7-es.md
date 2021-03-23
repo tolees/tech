@@ -28,10 +28,10 @@ Ahora mismo tienes [Logitech G815 Lightspeed - Teclado mecánico para juegos  GL
 
 🔎:
 
-- Conexión de paso de usb - el cable usb especial adicional conecta la conexión de paso usb 2.0 a su propia entrada, para dar la máxima potencía y velocidad de datos
 - Teclas g programables - cinco exclusivas teclas g que pueden programarse con macros y comandos personalizados por perfil de juego o aplicación; requiere el uso de logitech g hub para configurar y gestionar fácilmente perfiles, comandos y mucho más
-- Construcción premium en al-mg - bellamente diseñado, el g815 utiliza una aleación de aluminio de grado aeronáutico para ofrecer un diseño increíblemente fino pero resistente y duradero
+- Conexión de paso de usb - el cable usb especial adicional conecta la conexión de paso usb 2.0 a su propia entrada, para dar la máxima potencía y velocidad de datos
 - Los interruptores para gaming de alto rendimiento ofrecen la velocidad, la precisión y el rendimiento de un interruptor mecánico con la mitad de altura; el interruptor gl táctil produce una clara protuberancia en el punto de actuación; existen tres opciones: gl táctil, gl lineal o gl clicky
 - Rgb lightsync - la iluminación rgb de próxima generación se sincroniza con tu contenido de gaming y de entretenimiento; personaliza cada tecla o crea animaciones personalizadas a partir de 16.8 millones de colores con el software logitech g hub
+- Construcción premium en al-mg - bellamente diseñado, el g815 utiliza una aleación de aluminio de grado aeronáutico para ofrecer un diseño increíblemente fino pero resistente y duradero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VTT9GW7/?tag=tolees-21)

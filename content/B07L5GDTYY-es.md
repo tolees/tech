@@ -28,9 +28,9 @@ Tienes [Amazon - Kindle Oasis  ahora con luz cálida ajustable  resistente al ag
 
 ℹ️:
 
+- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Acceso instantáneo a millones de libros.
 - Diseño fino, ligero y ergonómico con botones de paso de página.
-- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Nuestra mejor pantalla Paperwhite de 7 pulgadas con resolución de 300 ppp y diseño frontal sin bordes.
 - Se lee como en papel impreso gracias a la última tecnología E-Ink.
 - Resistente al agua (IPX8) para que puedas leer en la bañera o en la piscina.
