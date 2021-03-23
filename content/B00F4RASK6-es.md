@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Apple Cable de Conector Lightning a USB  al 42.89 % de descuento'
-date: 2021-03-18 10:23:59
+title: 'Apple Cable de Conector Lightning a USB  al 17.14 % de descuento'
+date: 2021-03-23 02:29:20
 image: 'https://m.media-amazon.com/images/I/31WUTr5oiVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00F4RASK6-es Apple Cable de Conector Lightning a USB 2m'
 sku: 'B00F4RASK6-es'
-actualPrice: 19.99 EUR
+tags: [ 'Accesorios','Cables Lightning','Cables y accesorios','Cables y conectores','Informática','apple', ]
+actualPrice: 29.0 EUR
 currency: EUR
-price: 19.99
+price: 29.0
 comparePrice: 35.0 EUR
 prodname: 'Apple Cable de Conector Lightning a USB  2m '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21'
-descuento: '42.89'
-average: '18.7611111111111'
+descuento: '17.14'
+average: '19.785'
 ---
 
-Está [Apple Cable de Conector Lightning a USB  2m ](https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21) con 42.89 de descuento por 19.99 EUR (original: 35.0 EUR) en el siguiente enlace!
+Está [Apple Cable de Conector Lightning a USB  2m ](https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21) con 17.14 de descuento por 29.0 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Apple Cable de Conector Lightning a USB ](https://m.media-amazon.com/images/I/31WUTr5oiVL._SL400_.jpg)](https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21)
 
