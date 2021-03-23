@@ -28,11 +28,11 @@ En este momento está [MSI GF75 Thin 10SCSR-245XES- Ordenador portátil Gaming d
 
 🔎:
 
+- Sin sistema operativo
 - Display 17.3" FHD 144Hz 45% NTSC
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.00 GHz)
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti, GDDR6 4 GB
-- Sin sistema operativo
-- Almacenamiento de 512GB SSD NVMe PCIe +1 TB (SATA) 7200 rpm
 - Memoria RAM DDR IV 16 GB (2666 MHz)
+- Almacenamiento de 512GB SSD NVMe PCIe +1 TB (SATA) 7200 rpm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BJ7WVK8/?tag=tolees-21)
