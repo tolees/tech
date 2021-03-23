@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston KCP3L16SD8/8 - Memoria RAM para con un 24.72 % de descuento'
-date: 2021-03-21 18:15:53
+date: 2021-03-23 05:31:27
 image: 'https://m.media-amazon.com/images/I/41M0bVlQsmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21'
 descuento: '24.72'
-average: '43.71'
+average: '43.5942857142857'
 ---
 
 En este momento está [Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 GB  1600 MHz SODIMM  DDR3L  1.35 V  CL11  204 Pines ](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21) a 42.9 EUR (original: 56.99 EUR) (24.72 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 G
 
 🔎:
 
-- Tipo de memoria interna: DDR3L
-- Velocidad de memoria del reloj: 1600 MHz
 - Voltaje de memoria, 1.35 V
 - Memoria interna: 8 GB
+- Tipo de memoria interna: DDR3L
+- Velocidad de memoria del reloj: 1600 MHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21)
