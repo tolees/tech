@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'ASUS ZenBook Flip 13 UX363EA-EM087T - Po con un 25.85 % de descuento'
+date: 2021-03-23 04:57:49
+image: 'https://m.media-amazon.com/images/I/41OLtSjzHqL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08NTSGTRD-es ASUS ZenBook Flip 13 UX363EA-EM087T - Portátil Convertible...'
+sku: 'B08NTSGTRD-es'
+tags: [ 'Informática','Portátiles','asus','ram','teclado', ]
+actualPrice: 889.0 EUR
+currency: EUR
+price: 889.0
+comparePrice: 1199.0 EUR
+prodname: 'ASUS ZenBook Flip 13 UX363EA-EM087T - Portátil Convertible de 13.3 " FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 10 Home   Gris Pino - Teclado QWERTY español'
+country: 'es'
+flag: '🇪🇸'
+brand: 'ASUS'
+buyurl: 'https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21'
+descuento: '25.85'
+average: '889.0'
+---
+
+En este momento está [ASUS ZenBook Flip 13 UX363EA-EM087T - Portátil Convertible de 13.3 " FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 10 Home   Gris Pino - Teclado QWERTY español](https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21) a 889.0 EUR (original: 1199.0 EUR) (25.85 %  de descuento) en el siguiente enlace!
+
+[![ASUS ZenBook Flip 13 UX363EA-EM087T - Po](https://m.media-amazon.com/images/I/41OLtSjzHqL._SL400_.jpg)](https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21)
+
+🔎:
+
+- Tarjeta grafica Iris Xe
+- Disco du 512GB M.2 NVMe PCIe
+- Memoria RAM de 8GB, LPDDR4X
+- Sistema operativo Windows 10 Home
+- Pantalla de 13.3" FullHD (1920 x 1080)
+- Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21)
