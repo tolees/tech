@@ -28,10 +28,10 @@ Está [Garmin Varia RVR315 Ciclismo  Adultos Unisex  Negro  Radar de visión Tra
 
 ℹ️:
 
+- Conectividad Bluetooth y ANT+, compatible con la aplicación Varia y otras apps de terceros.
 - Monta con facilidad este elegante y compacto dispositivo en el sillín de casi cualquier bicicleta de carretera.
 - Funciona a la perfección con un ciclocomputador Edge o con un smartphone compatible, así como con determinados relojes Garmin.
-- Disfruta de hasta 7 horas de batería.
-- Conectividad Bluetooth y ANT+, compatible con la aplicación Varia y otras apps de terceros.
 - Alertas visuales y sonoras para avisarte de los vehículos que se aproximan por detrás, a una distancia de hasta 140 metros.
+- Disfruta de hasta 7 horas de batería.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0891VRTPJ/?tag=tolees-21)
