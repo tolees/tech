@@ -28,10 +28,10 @@ En este momento está [Dell E2016HV - Monitor de 19.5 HD  LED  200 CD/m² 600:1 
 
 🔎:
 
-- Ajustes de posición de pantalla: inclinación
-- Tiempo de respuesta: 5 ms
-- Tipo de pantalla: LCD con retroiluminación LED / matriz activa TFT
-- Resolución nativa de 1600 x 900
 - Pantalla de 19.5" con resolución de 1600 x 900
+- Tipo de pantalla: LCD con retroiluminación LED / matriz activa TFT
+- Tiempo de respuesta: 5 ms
+- Resolución nativa de 1600 x 900
+- Ajustes de posición de pantalla: inclinación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MYE8LYU/?tag=tolees-21)

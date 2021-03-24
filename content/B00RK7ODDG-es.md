@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Handycam HDR-CX405 - Videocámara de al 31.67 % de descuento'
-date: 2021-03-23 08:29:50
+date: 2021-03-24 15:09:55
 image: 'https://m.media-amazon.com/images/I/419m247gC9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00RK7ODDG/?tag=tolees-21'
 descuento: '31.67'
-average: '205.930731707316'
+average: '205.887441860464'
 ---
 
 Ahora mismo tienes [Sony Handycam HDR-CX405 - Videocámara de 9.2 Mp  pantalla de 2.7"  zoom óptico 30x  estabilizador óptico  vídeo Full HD   negro](https://www.amazon.es/dp/B00RK7ODDG/?tag=tolees-21) a 205.0 EUR (original: 300.0 EUR) (31.67 %  de descuento) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [Sony Handycam HDR-CX405 - Videocámara de 9.2 Mp  pantalla d
 🔎:
 
 - Zoom de imagen nítida de 60x
-- Peso del producto: 191 g
-- Sensor CMOS Exmor R
-- Grabación AVCHD y XAVC S (HD 50 Mbps)
-- Lente ZEISS gran angular de 26.8 mm con zoom óptico de 30x
 - Optical SteadyShot con modo Activo inteligente
+- Peso del producto: 191 g
+- Grabación AVCHD y XAVC S (HD 50 Mbps)
+- Sensor CMOS Exmor R
+- Lente ZEISS gran angular de 26.8 mm con zoom óptico de 30x
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00RK7ODDG/?tag=tolees-21)
