@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.01 % en Aothia - Alfombrilla de escritorio alfom'
-date: 2021-03-22 20:13:01
+date: 2021-03-24 02:14:20
 image: 'https://m.media-amazon.com/images/I/41-9nacTs5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Aothia'
 buyurl: 'https://www.amazon.es/dp/B08N6D5DFT/?tag=tolees-21'
 descuento: '15.01'
-average: '17.69'
+average: '17.5636842105263'
 ---
 
 Tienes [Aothia - Alfombrilla de escritorio alfombrilla de escritorio multifuncional de cuero PU de doble cara alfombrilla de ratón suave e impermeable para oficina/hogar  80cmx40cm Negro/gris oscuro ](https://www.amazon.es/dp/B08N6D5DFT/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 15.29 EUR (original: 17.99 EUR) en el siguiente enlace!
