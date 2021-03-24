@@ -28,10 +28,10 @@ En este momento está [OnePlus 7T Smartphone Frosted Silver | 6.55”/16 6 cm AM
 
 🔎:
 
-- 16,6 cm / 6.55" pantalla amoled- para una increíble experiencia multimedia, más velocidad y una claridad sorprendente
 - 3800 mah de bateria- tecnología de carga rápida warp charge 30 (carga para 1 día en 20 minutos) / sistema operativo android q
 - Pantalla ultra fluida - alta resolución con tasa de refresco de 90-hz - hacer scroll, swipe y cambiar de aplicaciones es más cómodo que nunca
 - 8 gb de ram y 128 gb de almacenamiento interno para un mejor rendimiento, mejor gestión de procesos para grandes cantidades de datos con el último procesador de qualcomm snapdragon 855+
+- 16,6 cm / 6.55" pantalla amoled- para una increíble experiencia multimedia, más velocidad y una claridad sorprendente
 - Triple cámara trasera - sensor principal de 48mpm 2x zoom, sensor de gran angular de 16mp, cámara selfie de 16mp, nightscape 2.0, personal photo studio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XJ4S3Y8/?tag=tolees-21)
