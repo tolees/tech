@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer BlackWidow V3 Tenkeyless - Teclado con un 20.18 % de descuento'
-date: 2021-03-22 13:04:01
+date: 2021-03-25 20:08:32
 image: 'https://m.media-amazon.com/images/I/41PrYJGWDWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Razer BlackWidow V3 Tenkeyless - Teclado mecánico para j
 
 🔎:
 
+- Switches mecánicos verdes Razer: Siente y oye la respuesta de cada pulsación de tecla, con un diseño clásico que ofrece un accionamiento optimizado y puntos de reinicio para disfrutar de un mejor rendimiento al jugar
 - Teclas totalmente programables: Haz que tu nivel y tu juego sean más eficientes al asignar las funciones que quieras con Razer Synapse 3 y ajusta el teclado para que se adapte a tu estilo de juego creando y guardando perfiles y macros únicos
 - Diseño compacto: El diseño sin teclado numérico permite un posicionamiento más sencillo para que tu configuración sea óptima; además, es adecuado para aquellos jugadores que prefieren un escritorio minimalista
-- Switches mecánicos verdes Razer: Siente y oye la respuesta de cada pulsación de tecla, con un diseño clásico que ofrece un accionamiento optimizado y puntos de reinicio para disfrutar de un mejor rendimiento al jugar
 - Opciones de enrutamiento de cable: El teclado está diseñado con ranuras que te permiten plegar el cable y sacarlo en cualquier dirección, para que puedas mantener tu escritorio despejado
 - Con tecnología Razer Chroma RGB: Con 16,8 millones de colores y una amplia gama de efectos a elegir, puedes personalizar el teclado y disfrutar de mayor inmersión con efectos de iluminación dinámicos que se activan al jugar con los títulos integrados en Chroma
 
