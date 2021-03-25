@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alcatel 2053D - Teléfono Móvil Dual SIM  al 20.01 % de rebaja'
-date: 2021-03-24 01:01:35
+date: 2021-03-25 05:08:35
 image: 'https://m.media-amazon.com/images/I/31hFVL9CN4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alcatel'
 buyurl: 'https://www.amazon.es/dp/B07L6ZHH69/?tag=tolees-21'
 descuento: '20.01'
-average: '24.4246996466429'
+average: '24.4216491228068'
 ---
 
 Tienes [Alcatel 2053D - Teléfono Móvil Dual SIM de 2.4"  2G  RAM de 4 MB  Cámara VGA de 1.3 MP   Bluetooth  Negro [Versión ES/PT]](https://www.amazon.es/dp/B07L6ZHH69/?tag=tolees-21) con precio final de  23.99 EUR (original: 29.99 EUR) (20.01 %  de rebaja) aqui!

@@ -29,9 +29,9 @@ Tienes [AMANKA Mini Conversor AV a HDMI Convertidor Compuesto RCA CVBS Transform
 🔎:
 
 - ♛ RCA a HDMI Convertidor: Plug y Play , No necesita ningún tipo de instalación, No hay controladores de software complicados.Bajo consumo, Se conecta directamente a un puerto USB
-- ♛ Soporta NTSC y PAL dos estándar formatos de TV y 720 / 1080P con un interruptor de selección.
 - ♛ Ayude a su viejo dispositivo RCA A / V al nuevo equipo HDMI, transmita audio y video simultáneamente sin retraso. hace que la imagen sea clara y estable, sin parpadeo ni distorsión.
-- ♛ Simplemente enchufe los cables AV estándar compuestos (amarillo, rojo, blanco) en la entrada, la salida de un cable HDMI desde el convertidor a su TV, etc
 - ♛ Amplia compatibilidad : Adaptador AV a HDMI es compatible con PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N estándar. Adecuado para conectar dispositivos AV con entrada compuesta, como PS4, Xbox, DVD, Blu-ray, consolas de juegos, PC a dispositivos con salida HDMI, como proyector de video, monitor, TV, etc.
+- ♛ Simplemente enchufe los cables AV estándar compuestos (amarillo, rojo, blanco) en la entrada, la salida de un cable HDMI desde el convertidor a su TV, etc
+- ♛ Soporta NTSC y PAL dos estándar formatos de TV y 720 / 1080P con un interruptor de selección.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XRQ9T29/?tag=tolees-21)
