@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P2 CT2000P2SSD8 Disco Duro sólid con un 22.52 % de descuento'
-date: 2021-03-23 17:27:16
+date: 2021-03-24 23:00:45
 image: 'https://m.media-amazon.com/images/I/417boNgGEOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B08GVDNTGJ/?tag=tolees-21'
 descuento: '22.52'
-average: '197.43'
+average: '193.07'
 ---
 
 En este momento está [Crucial P2 CT2000P2SSD8 Disco Duro sólido Interno SSD de 2TB  de hasta 2400 MB/s  3D NAND  NVMe  PCIe  M.2 ](https://www.amazon.es/dp/B08GVDNTGJ/?tag=tolees-21) a 179.99 EUR (original: 232.31 EUR) (22.52 %  de descuento) en el siguiente enlace!

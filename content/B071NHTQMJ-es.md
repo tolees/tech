@@ -29,7 +29,7 @@ Está [Sony NP-FZ100 Camera/Camcorder Battery 2280 mAh - Camera/Camcorder Batter
 ℹ️:
 
 - Modelo NP-FZ100, batería recargable serie Z, con tecnología Infolithium
-- Marca: Sony
 - Producto de alta calidad, con diseño funcional
+- Marca: Sony
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NHTQMJ/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [Trust Gaming GXT 608 - Set de Altavoces iluminados Gaming 2.
 
 🔎:
 
-- Iluminación LED parpadeante: reacciona al ritmo de su música
-- Control del volumen y de los bajos en la parte frontal del altavoz
-- Conexión directa de 3,5 mm para los auriculares
-- La luz LED se puede encender o apagar
-- Potencia máxima de 36 W (RMS de 18 W)
 - Conexión de audio de 3,5 mm adicional para conectar un Smartphone o una tableta
+- Control del volumen y de los bajos en la parte frontal del altavoz
+- Potencia máxima de 36 W (RMS de 18 W)
+- La luz LED se puede encender o apagar
+- Iluminación LED parpadeante: reacciona al ritmo de su música
+- Conexión directa de 3,5 mm para los auriculares
 - Alimentado por USB, no requiere alimentación de pared
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FJN12FE/?tag=tolees-21)
