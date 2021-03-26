@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 15.27 % en Kingston KVR16LS11/8 Memoria RAM  PC3L-1'
-date: 2021-03-16 07:07:39
+date: 2021-03-26 12:34:02
 image: 'https://m.media-amazon.com/images/I/41PJXaTW0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CQ35HBQ-es Kingston KVR16LS11/8 Memoria RAM PC3L-12800 CL11 204 Pin...'
 sku: 'B00CQ35HBQ-es'
+tags: [ 'Componentes','Dispositivos internos','Informática','Memoria principal','kingston','ram', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B00CQ35HBQ/?tag=tolees-21'
 descuento: '15.27'
-average: '43.4130769230768'
+average: '43.5192857142856'
 ---
 
 Tienes [Kingston KVR16LS11/8 Memoria RAM  PC3L-12800  CL11  204 Pin SODIMM  8GB](https://www.amazon.es/dp/B00CQ35HBQ/?tag=tolees-21) con un 15.27 % de descuento con precio de oferta de 44.9 EUR (original: 52.99 EUR) en el siguiente enlace!
@@ -27,10 +28,10 @@ Tienes [Kingston KVR16LS11/8 Memoria RAM  PC3L-12800  CL11  204 Pin SODIMM  8GB]
 
 ℹ️:
 
-- Las memorias Kingston están testeadas al 100%
-- Factor de forma: 204-pin SO-DIMM
-- Memoria Interna Kingston KVR16LS11/8 SODIMM de 8 GB, DDR3L, 1600MHz, Non-ECC, CL11, 1.35 V
 - Los módulos de memoria ValueRAM de Kingston Technology están fabricados con componentes de primer nivel (Grade A)
+- Memoria Interna Kingston KVR16LS11/8 SODIMM de 8 GB, DDR3L, 1600MHz, Non-ECC, CL11, 1.35 V
 - Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones
+- Factor de forma: 204-pin SO-DIMM
+- Las memorias Kingston están testeadas al 100%
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CQ35HBQ/?tag=tolees-21)

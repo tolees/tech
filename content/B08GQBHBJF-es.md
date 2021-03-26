@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'HUAWEI WATCH GT 2 Pro - Smartwatch con p con un 30.10 % de descuento'
-date: 2021-03-10 08:50:19
+date: 2021-03-26 13:55:03
 image: 'https://m.media-amazon.com/images/I/41YVV9c8x-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GQBHBJF-es HUAWEI WATCH GT 2 Pro - Smartwatch con pantalla AMOLED de...'
 sku: 'B08GQBHBJF-es'
+tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','bluetooth','gps','huawei','smartwatch', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08GQBHBJF/?tag=tolees-21'
 descuento: '30.10'
-average: '253.0'
+average: '236.500000000001'
 ---
 
 En este momento está [HUAWEI WATCH GT 2 Pro - Smartwatch con pantalla AMOLED de 1.39"  hasta dos semanas de batería  GPS y GLONASS  SpO2  +100 modos de entrenamiento  llamadas bluetooth  color gris](https://www.amazon.es/dp/B08GQBHBJF/?tag=tolees-21) a 209.0 EUR (original: 299.0 EUR) (30.10 %  de descuento) en el siguiente enlace!
@@ -27,10 +28,11 @@ En este momento está [HUAWEI WATCH GT 2 Pro - Smartwatch con pantalla AMOLED de
 
 🔎:
 
-- 100+ Workout Modes: Supporting precise data tracking for 100+ workout modes, including 17 professional modes and 85 custom modes, the smart watch helps track all the way you move.
-- Efficient Wireless Charging: Up to 2 weeks of battery life provides continuous power for your efficient life. With 5 minutes of wireless quick charge, you can use it for 10 hours. It also supports reverse charging from your phone when there is lack of chargers.
-- Bluetooth Calling: You can receive, reject or mute calls and check the history directly on your HUAWEI WATCH GT 2 Pro through Bluetooth connection with the phone.
-- Oxygen Saturation Detection: Supporting intelligent single-time SpO2 level measuring, you can detect the level of oxygen in the blood no matter when you are working or climbing.
-- 1.39" AMOLED Sapphire Display: The wear-resistant sapphire watch dial pairs seamlessly with the titanium frame for a lightweight and solid design. The glossy and skin-friendly ceramic back ensures a comfortable wearing.
+- 【Carga inalámbrica eficiente】Hasta 2 semanas de duración de la batería proporcionan energía continua para una vida eficiente. Con 5 minutos de carga rápida inalámbrica, puedes utilizarlo durante 10 horas. También admite la carga inversa desde tu smartphone
+- 【Esquí y snorwboard】HUAWEI WATCH GT 2 Pro proporciona datos completos como la frecuencia cardíaca, velocidad media, pendiente máxima, distancia para el esquí de fondo, rutas, etc.
+- 【Llamadas Bluetooth】Puedes recibir, rechazar o silenciar llamadas y verificar el historial directamente en tu HUAWEI WATCH GT 2 Pro a través de la conexión Bluetooth con tu smartphone
+- 【Más de 100 modos de entrenamiento】Con un seguimiento de datos preciso para más de 100 modos de entrenamiento, incluidos 17 modos profesionales y 85 modos personalizados, el smartwatch te ayuda a rastrear todos los movimientos. Además, el nuevo modo Golf Driving Range es capaz de analizar la postura del swing de forma inteligente y proporcionar referencias de datos para mejoras
+- 【Pantalla de 1.39" AMOLED con cristal de zafiro】La esfera del reloj de zafiro, resistente al desgaste, se combina a la perfección con el marco de titanio para un diseño ligero y sólido. La parte posterior de cerámica brillante y agradable para la piel garantiza un uso cómodo
+- 【Detección de saturación de oxígeno】Al admitir la medición inteligente del nivel de SpO2 una sola vez, puedes detectar el nivel de oxígeno en la sangre sin importar si estás trabajando o escalando.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GQBHBJF/?tag=tolees-21)
