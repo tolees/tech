@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P2 CT2000P2SSD8 Disco Duro sólid con un 22.52 % de descuento'
-date: 2021-03-24 23:00:45
+date: 2021-03-26 09:04:08
 image: 'https://m.media-amazon.com/images/I/417boNgGEOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B08GVDNTGJ/?tag=tolees-21'
 descuento: '22.52'
-average: '193.07'
+average: '190.454'
 ---
 
 En este momento está [Crucial P2 CT2000P2SSD8 Disco Duro sólido Interno SSD de 2TB  de hasta 2400 MB/s  3D NAND  NVMe  PCIe  M.2 ](https://www.amazon.es/dp/B08GVDNTGJ/?tag=tolees-21) a 179.99 EUR (original: 232.31 EUR) (22.52 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Crucial P2 CT2000P2SSD8 Disco Duro sólido Interno SSD de
 
 🔎:
 
-- Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
 - Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
+- Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
 - La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GVDNTGJ/?tag=tolees-21)
