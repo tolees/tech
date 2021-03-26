@@ -28,10 +28,10 @@ Está [EasyULT Ratón Vertical Inalámbrico  Ratón Portátil óptico Ergonómic
 
 ℹ️:
 
-- Con la avanzada tecnología inalámbrica de 2.4GHz, puede trabajar de manera estable y rápida a una distancia de 10 metros, sin modo de interferencia, conexión inalámbrica de 2.4G, moverse libremente.
-- Batería incorporada, fácil de cargar a través del cable USB. 6 botones, rueda de desplazamiento de botón, DPI, botón izquierdo, botón derecho, "" Adelante "" y "Atrás" ofrecen una comodidad notable al navegar por Internet. Un receptor USB en la parte inferior del mouse, ¡solo Plug and Play! (Nota: el receptor USB se encuentra en la parte inferior del mouse)
-- Diseño ergonómico superior, diseño ergonómico desarrollado científicamente para fomentar una posición saludable de la muñeca, el diseño vertical correcto que mantiene la mano y el brazo de una manera más natural. Reduce efectivamente la tensión y el dolor en la muñeca en comparación con un ratón normal (Nota: es un mouse diestro)
 - 800-1200-1600DPI, conmutable con el botón DPI. ofrece un seguimiento suave y preciso en una superficie más grande que los ratones ópticos estándar, pudiendo reducir la velocidad de las actividades que garantizan la precisión, como la corrección del color o la edición de imágenes o la velocidad de navegación.
 - Compatible con Windows 7, 8, 10, Windows XP, Vista, ME, 2000 y Mac OS, o el último sistema. Admite Plug & Play: simplemente conecte el nano receptor USB suministrado al puerto USB de la computadora, no se requiere un controlador adicional. (NOTA: los botones de avance y retroceso no se reconocen en Mac).
+- Batería incorporada, fácil de cargar a través del cable USB. 6 botones, rueda de desplazamiento de botón, DPI, botón izquierdo, botón derecho, "" Adelante "" y "Atrás" ofrecen una comodidad notable al navegar por Internet. Un receptor USB en la parte inferior del mouse, ¡solo Plug and Play! (Nota: el receptor USB se encuentra en la parte inferior del mouse)
+- Con la avanzada tecnología inalámbrica de 2.4GHz, puede trabajar de manera estable y rápida a una distancia de 10 metros, sin modo de interferencia, conexión inalámbrica de 2.4G, moverse libremente.
+- Diseño ergonómico superior, diseño ergonómico desarrollado científicamente para fomentar una posición saludable de la muñeca, el diseño vertical correcto que mantiene la mano y el brazo de una manera más natural. Reduce efectivamente la tensión y el dolor en la muñeca en comparación con un ratón normal (Nota: es un mouse diestro)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B1G1SHN/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Sony BDPS1700B  Reproductor de Blu-ray Disc  Negro  Tamaño Único](http
 
 ℹ️:
 
-- Interfaz de salida de video: HDMI
 - Disfruta de colores vivos con Triluminos Colour
+- Interfaz de salida de video: HDMI
 - Disfruta de todas tus películas en calidad Full HD
 - Consumo de energía: 8.5 W
 - Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
