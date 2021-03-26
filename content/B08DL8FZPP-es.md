@@ -28,11 +28,11 @@ En este momento está [Gigabyte AORUS 5 SB-7ES1130SD - Ordenador portátil de 15
 
 🔎:
 
-- Almacenamiento de 512GB SSD
-- Procesador Intel Core i7-10750H
 - Memoria RAM de 16GB, 8GBx2 2666Mhz
-- Sin sistema Operativo
-- Pantalla de 15.6" Bisel delgado FHD 144Hz IPS mate LCD
+- Almacenamiento de 512GB SSD
 - Tarjeta gráfica Nvidia GeForce GTX 1660 Ti GDDR6 6G
+- Procesador Intel Core i7-10750H
+- Pantalla de 15.6" Bisel delgado FHD 144Hz IPS mate LCD
+- Sin sistema Operativo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DL8FZPP/?tag=tolees-21)
