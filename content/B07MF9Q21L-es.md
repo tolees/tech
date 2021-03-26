@@ -31,7 +31,7 @@ Está [Sony SRS-XB12  Altavoz  Inalámbrico y alámbrico  MicroUSB  Tamaño Úni
 - Hasta 16 horas de duración de la batería
 - Se suministra con correa desmontable
 - Extra Bass para un sonido rotundo y profundo
-- Resistente al agua y al polvo (calificación IP67)
 - Diseño compacto y portátil
+- Resistente al agua y al polvo (calificación IP67)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MF9Q21L/?tag=tolees-21)
