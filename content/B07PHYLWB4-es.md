@@ -30,8 +30,8 @@ Tienes [Newskill Ratón Gaming habrok con Sensor óptico  16000 dpi   botón Lat
 
 - Aceleración máxima de hasta: 50 g
 - Hasta 20 millones de pulsaciones
-- Sensor pixart 3360 (hasta 16000 dpi)
 - Velocidad máxima ips: 250ips
 - Iluminación rgb (software incluido)
+- Sensor pixart 3360 (hasta 16000 dpi)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PHYLWB4/?tag=tolees-21)
