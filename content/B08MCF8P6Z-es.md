@@ -28,11 +28,11 @@ Está [HP Pavilion X360 14-dw1023ns - Ordenador portátil convertible de 14" Ful
 
 ℹ️:
 
-- Pantalla de 14" FullHD Táctil
-- Windows 10
-- Tarjeta gráfica Integrada Intel Iris Xe
 - Almacenamiento de 512GB SSD
-- 8GB de memoria RAM
+- Windows 10
+- Pantalla de 14" FullHD Táctil
 - Procesador Intel Core i7-1165G7
+- 8GB de memoria RAM
+- Tarjeta gráfica Integrada Intel Iris Xe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MCF8P6Z/?tag=tolees-21)
