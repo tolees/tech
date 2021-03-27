@@ -29,9 +29,9 @@ Tienes [SAMSUNG Galaxy Fit2 Negro con acelerómetro  giroscopio  Monitor de frec
 🔎:
 
 - Reloj deportivo: compacto, deportivo y atractivo; diseñado para la comodidad y el estilo
+- Pulsera de actividad con monitor del ritmo cardíaco: échale un ojo a tu salud diaria y monitoriza tu ritmo cardíaco con la aplicación Samsung health
 - Gran autonomía: tu pulsera de actividad lista cuando tú lo estés, con una autonomía de 15 días¹
 - Pulsera de actividad: detecta cuando te estresas y te recomienda ejercicios de respiración para ayudarte a relajarte; y cuando ya estás en la cama, está activo para monitorizar tu sueño³
 - Reloj resistente al agua: la correa estriada lo hace resistente al sudor y la certificación 5atm significa que es resistente al agua hasta los 50.m 2
-- Pulsera de actividad con monitor del ritmo cardíaco: échale un ojo a tu salud diaria y monitoriza tu ritmo cardíaco con la aplicación Samsung health
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H5MP84J/?tag=tolees-21)

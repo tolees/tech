@@ -28,10 +28,10 @@ En este momento está [EACHINE E58 Drone con Camara HD 2.0MP 720p Wide Angel Dro
 
 🔎:
 
-- Se pueden ajustar tres velocidades: velocidad lenta, velocidad normal, rápida. Puede elegir diferentes velocidades para la fotografía aérea. Toma tus propios videos exclusivos.
-- Drone con altitud mantenida: con el sensor de presión de aire, puede bloquear con precisión la altura y la ubicación, estable estacionario, desde cualquier ángulo de disparo es conveniente, el modo de retención alta lo hace estable y puede tomar fotos más claras.
 - Drone con trayectoria rastreada: bajo el control del teléfono celular, luego abra el vuelo de trayectoria y dibuje la trayectoria en la pantalla, para que el dron siga la ruta de vuelo que ha dibujado.
 - Drone con Wifi: este dron se puede conectar con Wifi. Puede tomar fotos, videos y obtener transmisiones en tiempo real a través de la imagen de la cámara del teléfono celular con el sistema APK.
+- Drone con altitud mantenida: con el sensor de presión de aire, puede bloquear con precisión la altura y la ubicación, estable estacionario, desde cualquier ángulo de disparo es conveniente, el modo de retención alta lo hace estable y puede tomar fotos más claras.
+- Se pueden ajustar tres velocidades: velocidad lenta, velocidad normal, rápida. Puede elegir diferentes velocidades para la fotografía aérea. Toma tus propios videos exclusivos.
 - Drone con cámara gran angular HD: con la cámara gran angular de 2.0MP 720P, puede grabar videos e imágenes de alta resolución en muchos tipos de entornos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VLGHZ8P/?tag=tolees-21)
