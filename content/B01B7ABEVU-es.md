@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony BDPS3700 - Reproductor de Blu-ray D al 23.65 % de descuento'
-date: 2021-03-26 09:24:24
+date: 2021-03-27 20:12:19
 image: 'https://m.media-amazon.com/images/I/31gzf2xpqrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01B7ABEVU/?tag=tolees-21'
 descuento: '23.65'
-average: '89.1590800000001'
+average: '89.1180555555557'
 ---
 
 Ahora mismo tienes [Sony BDPS3700 - Reproductor de Blu-ray Disc  con CD  DVD  Wi-Fi  función de duplicado de pantalla  USB reproductor  tiempos de carga mejorados ](https://www.amazon.es/dp/B01B7ABEVU/?tag=tolees-21) a 83.99 EUR (original: 110.0 EUR) (23.65 %  de descuento) en el siguiente enlace!

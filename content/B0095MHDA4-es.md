@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson WorkForce WF-2010W - Impresora col al 33.40 % de rebaja'
-date: 2021-03-22 18:39:07
+date: 2021-03-27 19:47:13
 image: 'https://m.media-amazon.com/images/I/41zsMB1oeJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epson'
 buyurl: 'https://www.amazon.es/dp/B0095MHDA4/?tag=tolees-21'
 descuento: '33.40'
-average: '61.58375'
+average: '61.387'
 ---
 
 Tienes [Epson WorkForce WF-2010W - Impresora color  inyección de tinta  WiFi y Ethernet   color negro](https://www.amazon.es/dp/B0095MHDA4/?tag=tolees-21) con precio final de  60.6 EUR (original: 90.99 EUR) (33.40 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Epson WorkForce WF-2010W - Impresora color  inyección de tinta  WiFi y 
 
 🔎:
 
-- Carga de trabajo de 3.000 páginas al mes
-- Tamaño compacto para ahorrar espacio
 - Imprime más páginas con las tintas Epson
+- Tamaño compacto para ahorrar espacio
+- Carga de trabajo de 3.000 páginas al mes
 - Flexible, conectividad WiFi y Ethernet
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0095MHDA4/?tag=tolees-21)

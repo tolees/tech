@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony XAV-AX1000 - Reproductor 2DIN para  al 20.00 % de descuento'
-date: 2021-03-21 01:34:08
+date: 2021-03-27 20:45:29
 image: 'https://m.media-amazon.com/images/I/419MYY3PYFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07GLTVT62/?tag=tolees-21'
 descuento: '20.00'
-average: '233.547333333334'
+average: '233.950625000001'
 ---
 
 Ahora mismo tienes [Sony XAV-AX1000 - Reproductor 2DIN para coche  Apple CarPlay  bluetooth y NFC  pantalla táctil de 6 2"  control por voz  EXTRA BASS  Siri Eyes Free y potencia de 55W x 4  sonido DSO   negro](https://www.amazon.es/dp/B07GLTVT62/?tag=tolees-21) a 240.0 EUR (original: 300.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Sony XAV-AX1000 - Reproductor 2DIN para coche  Apple CarPlay
 🔎:
 
 - EXTRABASS añade potencia a los graves
-- Crea altavoces virtuales en el salpicadero con el organizador dinámico de sonido
 - Cámara de visión trasera para aparcar con facilidad
+- Crea altavoces virtuales en el salpicadero con el organizador dinámico de sonido
 - Botón giratorio de volumen para un control sencillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GLTVT62/?tag=tolees-21)
