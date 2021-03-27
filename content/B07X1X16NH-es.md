@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alcatel 2019G Metallic Silver Pantalla 2 al 16.67 % de descuento'
-date: 2021-03-21 14:25:58
+date: 2021-03-27 17:59:25
 image: 'https://m.media-amazon.com/images/I/41ZPyMQ+QcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alcatel'
 buyurl: 'https://www.amazon.es/dp/B07X1X16NH/?tag=tolees-21'
 descuento: '16.67'
-average: '25.1642857142856'
+average: '25.1548648648647'
 ---
 
 Está [Alcatel 2019G Metallic Silver Pantalla 2.4" Teléfono Móvil Fácil Uso Teclas Grandes Camara 2mpx Bluetooth BT 2.1 FM Radio Linterna  Boton SOS Grabador [Versión ES/PT]](https://www.amazon.es/dp/B07X1X16NH/?tag=tolees-21) con 16.67 de descuento por 24.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -29,12 +29,12 @@ Está [Alcatel 2019G Metallic Silver Pantalla 2.4" Teléfono Móvil Fácil Uso T
 ℹ️:
 
 - Procesador SC6531F
-- Boton SOS
-- Pantalla 2 4” QVGA display
 - Bluetooth 2 1 + EDR
+- Pantalla 2 4” QVGA display
 - Memoria 16MB + 8MB
-- Bateria 970mAh
+- Boton SOS
 - Sistema operativo: Thread X
 - Camara 2MP
+- Bateria 970mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X1X16NH/?tag=tolees-21)
