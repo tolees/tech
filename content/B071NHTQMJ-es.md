@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NP-FZ100 Camera/Camcorder Battery 2 al 22.23 % de descuento'
-date: 2021-03-26 02:28:31
+date: 2021-03-27 07:38:29
 image: 'https://m.media-amazon.com/images/I/31SefXu62GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B071NHTQMJ/?tag=tolees-21'
 descuento: '22.23'
-average: '81.90786407767'
+average: '81.6808571428572'
 ---
 
 Está [Sony NP-FZ100 Camera/Camcorder Battery 2280 mAh - Camera/Camcorder Batteries  2280 mAh  Cámara  Sony  α9  7.2 V  16.4 WH   Color Negro](https://www.amazon.es/dp/B071NHTQMJ/?tag=tolees-21) con 22.23 de descuento por 69.99 EUR (original: 90.0 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Sony NP-FZ100 Camera/Camcorder Battery 2280 mAh - Camera/Camcorder Batter
 ℹ️:
 
 - Marca: Sony
-- Modelo NP-FZ100, batería recargable serie Z, con tecnología Infolithium
 - Producto de alta calidad, con diseño funcional
+- Modelo NP-FZ100, batería recargable serie Z, con tecnología Infolithium
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NHTQMJ/?tag=tolees-21)
