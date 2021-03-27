@@ -29,8 +29,8 @@ Ahora mismo tienes [Samsung Galaxy A10 - Smartphone de 6.2" HD Infinity  32 GB  
 🔎:
 
 - Disfruta de energía sin límites gracias a su batería de 3400 mah, dispone de carga rápida de 15 w
-- Diseño con pantalla 6.2” infinity-v hd+ tft (720 x 1520)
 - Cámara principal de 13 mp y cámara frontal de 5 mp para un espectacular enfoque
+- Diseño con pantalla 6.2” infinity-v hd+ tft (720 x 1520)
 - Memoria de 32 gb y con ranura para microsd (hasta 512gb), 2 gb de ram
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SG3Z7KM/?tag=tolees-21)

@@ -29,8 +29,8 @@ Está [Motorola TLKR T92 H2O PMR - Walkie-Talkie  IP67  Resistente a la Intemper
 ℹ️:
 
 - Alcance de hasta 10 km
-- Con 8 canales y 121 bajo canales
-- Potencia de transmisión de 500 mW
 - Resistente a la intemperie (IP67)
+- Potencia de transmisión de 500 mW
+- Con 8 canales y 121 bajo canales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FDI6OKS/?tag=tolees-21)
