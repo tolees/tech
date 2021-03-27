@@ -28,10 +28,10 @@ Ahora mismo tienes [Lifeprint Impresora portátil de Fotos y vídeos  2x3 para D
 
 🔎:
 
-- IMPRIME DESDE REDES SOCIALES: imprime Snaps guardados, Facebook, Instagram, Apple Live Photos, GIF en movimiento y más. Imagínate las posibilidades del vídeo del gato. ¡Las fotos 2x3 de Lifeprint también son pegatinas! Perfectas para decorar tus paredes, álbumes de fotos y MacBook.
-- REALIDAD AUMENTADA: Las hiperfotos de realidad aumentada de Lifeprint hacen que tus fotos cobren vida por arte de magia en tus manos.
-- PRIMERA IMPRESORA FOTOGRÁFICA COMPARTIDA DEL MUNDO: conéctate fácilmente con tus amigos de Lifeprint y comparte fotos reales directamente con las impresoras de los demás en todo el mundo. ¿Alguien tiene alguna tarjeta de Navidad? Bluetooth para impresión inalámbrica de hasta 9 m. Lo hace aún más mágico.
 - SUPERPEQUEÑA Y PORTÁTIL: lleva Lifeprint a fiestas, conciertos y festivales, y comparte fotos allí con amigos. Estarás contento de haberlo hecho.
+- REALIDAD AUMENTADA: Las hiperfotos de realidad aumentada de Lifeprint hacen que tus fotos cobren vida por arte de magia en tus manos.
 - PAQUETE DE EDICIÓN FOTOGRÁFICA COMPLETA: añade filtros, texto, memes, pegatinas y más. Diviértete y vuélvete loco.
+- PRIMERA IMPRESORA FOTOGRÁFICA COMPARTIDA DEL MUNDO: conéctate fácilmente con tus amigos de Lifeprint y comparte fotos reales directamente con las impresoras de los demás en todo el mundo. ¿Alguien tiene alguna tarjeta de Navidad? Bluetooth para impresión inalámbrica de hasta 9 m. Lo hace aún más mágico.
+- IMPRIME DESDE REDES SOCIALES: imprime Snaps guardados, Facebook, Instagram, Apple Live Photos, GIF en movimiento y más. Imagínate las posibilidades del vídeo del gato. ¡Las fotos 2x3 de Lifeprint también son pegatinas! Perfectas para decorar tus paredes, álbumes de fotos y MacBook.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VFBD2KZ/?tag=tolees-21)
