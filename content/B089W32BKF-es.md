@@ -1,37 +1,33 @@
 ---
 layout: post
-title: 'Xiaomi Mi AIOT Router AC2350 WiFi 1733Mb al 20.57 % de descuento'
-date: 2021-02-19 17:32:04
-image: 'https://m.media-amazon.com/images/I/41MjVzgG13L._SL200_.jpg'
+title: 'Xiaomi Mi AIOT Router AC2350 WiFi 1733Mb al 22.60 % de descuento'
+date: 2021-03-27 18:28:06
+image: 'https://m.media-amazon.com/images/I/41MjVzgG13L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089W32BKF-es Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y...'
 sku: 'B089W32BKF-es'
-actualPrice: 47.65 EUR
+tags: [ 'Dispositivos de red','Informática','Routers','ram','wifi','xiaomi', ]
+actualPrice: 46.43 EUR
 currency: EUR
-price: 47.65
+price: 46.43
 comparePrice: 59.99 EUR
 prodname: 'Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y 450Mbps a 2.4GHz  802.11a/b/g/n/AC  802.3/3u/3ab  RAM 128MB  7 Antenas  hasta 128 Dispositivos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21'
-descuento: '20.57'
-average: '47.4233333333333'
+descuento: '22.60'
+average: '47.3064705882353'
 ---
 
-Ahora mismo tienes [Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y 450Mbps a 2.4GHz  802.11a/b/g/n/AC  802.3/3u/3ab  RAM 128MB  7 Antenas  hasta 128 Dispositivos](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21) a 47.65 EUR (original: 59.99 EUR) (20.57 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y 450Mbps a 2.4GHz  802.11a/b/g/n/AC  802.3/3u/3ab  RAM 128MB  7 Antenas  hasta 128 Dispositivos](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21) a 46.43 EUR (original: 59.99 EUR) (22.60 %  de descuento) en el siguiente enlace!
 
-[![Xiaomi Mi AIOT Router AC2350 WiFi 1733Mb](https://m.media-amazon.com/images/I/41MjVzgG13L._SL200_.jpg)](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21)
+[![Xiaomi Mi AIOT Router AC2350 WiFi 1733Mb](https://m.media-amazon.com/images/I/41MjVzgG13L._SL400_.jpg)](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21)
 
 🔎:
 
-- Mi AIOT Antena
-- Detección automática de dispositivos IOT Xiaomi sin introducir contraseña.
-- Velocidad 2200 Mbps
-- Qualcomm CPU
-- Hasta 128 dispositivos.
-- 7 antenas.
+- *2200 MbpsOfrece velocidades de Wi-Fi de hasta1733 Mbps en la banda de 5 GHzy 450Mbps en 2.4GHzbanda.*CPU de Qualcomm*Velocidades cableadas GigabitPuertos Gigabit Ethernet (1 WAN +3 LAN) ofrecen el máximo velocidad de cableado.*7 antenas externas y alimentación*Hasta 128 dispositivos*Antena Mi AIoT
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21)
