@@ -28,12 +28,12 @@ Tienes [Samyang F1313006101 - Objetivo para vídeo VDSLR para Sony E  Distancia 
 
 ℹ️:
 
-- Incluye parasol extraíble
-- Con revestimiento UMC anti-reflectante
-- Con soportes compatibles con el sistema de enfoque Follow Focus
 - Montura para Sony E
-- Enfoque manual
 - Semi teleobjetivo para cámaras con sensor Full Frame
+- Con soportes compatibles con el sistema de enfoque Follow Focus
 - Compatible con filtros de 72mm
+- Incluye parasol extraíble
+- Enfoque manual
+- Con revestimiento UMC anti-reflectante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TQXIHLQ/?tag=tolees-21)

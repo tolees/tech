@@ -28,10 +28,10 @@ Está [Tenda N300 A9 Wireless Repetidor Extensor de Red WiFi Inalámbrico Amplia
 
 ℹ️:
 
-- CONFIGURACIÓN RÁPIDA Y SENSILLA: Un botón de extensión, 3 pasos con configurar y interfaz de configuracuración rápida de Smartphone o tableta. Soporta SSID oculto
 - 2 ATENAS OMINIDITECCIONALES: Atenas externas de 3dBi hace wifi más fuerte, más estable y más rápido. Amplifica la señal Realiza la wifi ubicua
-- AMPLIA COMPATIBILIDAD: Compatible con 99% de routers en el mercado. Se aplica a casa grande, oficina SOHO, sitios de negocios de tamaño pequeño
+- CONFIGURACIÓN RÁPIDA Y SENSILLA: Un botón de extensión, 3 pasos con configurar y interfaz de configuracuración rápida de Smartphone o tableta. Soporta SSID oculto
 - PORTÁTIL Y CÓMODO: Con el diseño simple y elegante, el repetidor es ligero, compacto y portátil. Y el LED indicador enseña las condiciones
 - COBERTURAS SIN FISURAS: Auto-re-conexión a una señal WiFi más fuerte
+- AMPLIA COMPATIBILIDAD: Compatible con 99% de routers en el mercado. Se aplica a casa grande, oficina SOHO, sitios de negocios de tamaño pequeño
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WWHJZF6/?tag=tolees-21)
