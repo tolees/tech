@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony HTRT4 - Barra de Sonido  5.1 Canales con Altavoces Tras
 
 🔎:
 
+- Conectividad Bluetooth sencilla con NFC de un solo toque
 - Reproducción de audio mediante USB
 - Llena la habitación con auténtico sonido Surround de 5.1 canalé
 - Conexiones con código de colores para una configuración sencilla
-- Conectividad Bluetooth sencilla con NFC de un solo toque
 - Altavoces traseros alargados para disfrutar del sonido a la altura ideal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0725FTG7Y/?tag=tolees-21)
