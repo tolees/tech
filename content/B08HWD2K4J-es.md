@@ -28,10 +28,10 @@ Tienes [Rii RM301 Ratón Bluetooth，Ratón inalámbrico Bluetooth recargable si
 
 🔎:
 
-- RATÓN BLUETOOTH CON MODO DUAL (BT 4.0 + 2.4GHz).Dispone de una conexión Bluetooth (Sincronice el BT de su dispositivo con "Bluetooth 4.0 BLE", fácil de conectar, IMPORTANTE: cuando se conecte a través del bluetooth, no coloque el receptor USB 2.4G pues ocasiona problemas de conexión) . O puede usar su conexión inalámbrica 2.4G, Plug& Play, solo conéctelo y listo.
-- AHORRO ENERGÉTICO: Este ratón Inalámbrico/Bluetooth entrará automáticamente en modo de suspensión después de unos minutos de inactividad para ahorrar energía y se activa de nuevo haciendo clic en cualquier botón.
-- CLIC SILENCIOSO Y ALTA SENSIBILIDAD: Dispone de varios niveles de DPI ajustables entre 800, 1200 y 1600 para satisfacer todas sus necesidades. El clic silencioso permite un entorno de trabajo tranquilo
 - AMPLIA COMPATIBILIDAD: El modo Bluetooth es compatible con Windows / Android / Linux / MAC. 【NOTA: Se requiere compatibilidad con BT4.0: Windows 8.0 o superior; MacOS 10.10 o superior; iPad OS 13 o superior / Android 4.3 o superior. Compruebe o actualice el sistema operativo antes de realizar la compra.
+- CLIC SILENCIOSO Y ALTA SENSIBILIDAD: Dispone de varios niveles de DPI ajustables entre 800, 1200 y 1600 para satisfacer todas sus necesidades. El clic silencioso permite un entorno de trabajo tranquilo
+- AHORRO ENERGÉTICO: Este ratón Inalámbrico/Bluetooth entrará automáticamente en modo de suspensión después de unos minutos de inactividad para ahorrar energía y se activa de nuevo haciendo clic en cualquier botón.
+- RATÓN BLUETOOTH CON MODO DUAL (BT 4.0 + 2.4GHz).Dispone de una conexión Bluetooth (Sincronice el BT de su dispositivo con "Bluetooth 4.0 BLE", fácil de conectar, IMPORTANTE: cuando se conecte a través del bluetooth, no coloque el receptor USB 2.4G pues ocasiona problemas de conexión) . O puede usar su conexión inalámbrica 2.4G, Plug& Play, solo conéctelo y listo.
 - DISEÑO ERGONÓMICO: Con un diseño delgado y ergonómico y una superficie lisa esmerilada, este mouse Inalámbrico/Bluetooth cabe cómodamente en su mano, brindando una experiencia de usuario increíblemente cómoda, permitiendo su uso más prolongado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HWD2K4J/?tag=tolees-21)
