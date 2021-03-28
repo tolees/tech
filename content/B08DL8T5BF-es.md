@@ -28,11 +28,11 @@ Tienes [Gigabyte AORUS 7 KB-7ES1130SD - Ordenador portátil de 17.3" FHD 144Hz  
 
 ℹ️:
 
-- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12 MB Cache, 2.60 GHz hasta 5.00 GHz)
-- Memoria RAM de 16GB, 8GBx2 2666Mhz
-- Pantalla de 17.3" Bisel delgado FHD 144Hz IPS mate LCD
 - Sin sistema Operativo
-- Almacenamiento de 512GB SSD
+- Pantalla de 17.3" Bisel delgado FHD 144Hz IPS mate LCD
 - Tarjeta gráfica Nvidia GeForce RTX 2060 GDDR6 6GB
+- Almacenamiento de 512GB SSD
+- Memoria RAM de 16GB, 8GBx2 2666Mhz
+- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12 MB Cache, 2.60 GHz hasta 5.00 GHz)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DL8T5BF/?tag=tolees-21)
