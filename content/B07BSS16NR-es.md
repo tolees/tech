@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transcend Usd300S Tarjeta Microsd de 64G al 25.36 % de descuento'
-date: 2021-03-24 00:34:00
+date: 2021-03-28 17:25:54
 image: 'https://m.media-amazon.com/images/I/51rJBggiJdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Transcend'
 buyurl: 'https://www.amazon.es/dp/B07BSS16NR/?tag=tolees-21'
 descuento: '25.36'
-average: '9.05391304347825'
+average: '9.11599999999999'
 ---
 
 Está [Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs de Lectura](https://www.amazon.es/dp/B07BSS16NR/?tag=tolees-21) con 25.36 de descuento por 9.83 EUR (original: 13.17 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs
 
 ℹ️:
 
-- Software RecoveRx
-- Clase de velocidad 10, U1, hasta 95 MBs de Lectura
 - Velocidad de Escritura hasta 25 MBs
+- Clase de velocidad 10, U1, hasta 95 MBs de Lectura
+- Software RecoveRx
 - Cumple con el estándar A1 para aplicaciones móviles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BSS16NR/?tag=tolees-21)
