@@ -28,10 +28,10 @@ Tienes [OMOTON Combo Teclado y Ratón Inalámbrico para Windows  Conexión 2.4GH
 
 🔎:
 
-- 💗 Conexión 2.4G: después de insertar el receptor de USB, solo necesita poner las pilas (NO incluyen), deslice el interruptor a ON, el teclado y ratón se conecta el dispositivo automáticamente.
+- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
 - 💗 Modo de ahorro de energía: el teclado y ratón entrará en el modo de sueño automáticamente después de 8 minutos de inactividad.
 - 💗 Ratón inalámbrico con tres niveles del DPI, 800dpi, 1200dpi (predetermiento), 1600dpi.
-- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
 - 💗 Paquete: teclado inalámbrico, ratón inalámbrico, receptor USB (dentro del ratón), manual de usuarios.
+- 💗 Conexión 2.4G: después de insertar el receptor de USB, solo necesita poner las pilas (NO incluyen), deslice el interruptor a ON, el teclado y ratón se conecta el dispositivo automáticamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J69RJHF/?tag=tolees-21)
