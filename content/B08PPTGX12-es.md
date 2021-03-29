@@ -28,8 +28,8 @@ Ahora mismo tienes [Samsung Galaxy S21 Ultra EF-PG99PTBEGWW - Silicona Funda con
 
 🔎:
 
-- Ten tu S Pen siempre a mano; la Silicone Cover ha sido actualizada para adaptarse a la gran incorporación del Galaxy S21 Ultra 5G - el S Pen; simplemente coloca el S Pen en el práctico soporte interior para tenerlo a mano siempre que lo necesites
 - Añade más comodidad al agarre de tu teléfono con la Silicone Cover; el material ofrece una textura suave que se siente genial en tus manos
 - El S Pen funciona con fluidez y precisión, con una punta de 0.7 mm y 4096 niveles de presión; para usarlo con tu Galaxy S21 Ultra 5G, simplemente colócalo sobre la pantalla y haz clic en el botón S Pen para empezar a escribir o usarlo para editar
+- Ten tu S Pen siempre a mano; la Silicone Cover ha sido actualizada para adaptarse a la gran incorporación del Galaxy S21 Ultra 5G - el S Pen; simplemente coloca el S Pen en el práctico soporte interior para tenerlo a mano siempre que lo necesites
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPTGX12/?tag=tolees-21)
