@@ -28,9 +28,9 @@ En este momento está [Spigen Funda Ultra Hybrid para Xiaomi Mi 10T y para Xiaom
 
 🔎:
 
-- Recortes para que las funciones opcionales sean accesibles
 - Tecnología de Air cushion para la protección de todas las esquinas
 - Biseles elevados para proteger la pantalla y la cámara de superficies planas
 - Tecnología híbrida hecha de parachoques de TPU y trasera de policarbonato
+- Recortes para que las funciones opcionales sean accesibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HR6H3ZT/?tag=tolees-21)
