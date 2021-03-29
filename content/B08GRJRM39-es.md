@@ -28,11 +28,11 @@ Tienes [Honor Watch GS Pro - Smartwatch Charcoal Black](https://www.amazon.es/dp
 
 🔎:
 
-- Tamaño de pantalla: 1.39 inches
-- Duración de la batería de 25 días
-- Monitor de SpO2
-- 100+ Modos de entrenamiento
 - Función de ruta de regreso con navegación "breadcrumb"
+- Monitor de SpO2
+- Tamaño de pantalla: 1.39 inches
 - GPS incorporado, hasta 48 horas de batería cuando el GPS está activo
+- Duración de la batería de 25 días
+- 100+ Modos de entrenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GRJRM39/?tag=tolees-21)

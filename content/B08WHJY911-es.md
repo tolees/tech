@@ -28,10 +28,10 @@ Está [Jetwing N1507P7 - Ordenador portátil 15 6" FullHD  Intel Core i3-1005G1 
 
 ℹ️:
 
-- Sistema Operativo: Windows 10
-- Procesador Intel Core i3-1005G1, 1.2Ghz
+- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
 - Memoria RAM de 8GB LPDDR4
 - Almacenamiento de 256GB SSD
-- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
+- Procesador Intel Core i3-1005G1, 1.2Ghz
+- Sistema Operativo: Windows 10
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WHJY911/?tag=tolees-21)

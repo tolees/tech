@@ -28,9 +28,9 @@ Ahora mismo tienes [Tamron SP - Objetivo para Nikon DSLR  Distancia Focal Fija 3
 
 🔎:
 
-- Distancia mínima de enfoque 0,2 (7.9")
 - Óptica digital angular con distancia focal fija para cámaras Nikon DSLR de formato completo o APS-C de óptica intercambiable
 - VC (Estabilización de imagen). Di (Óptica digital para formato completo). USD (Motor ultrasónico silencioso)
 - Incluye parasol
+- Distancia mínima de enfoque 0,2 (7.9")
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014SQ2VLM/?tag=tolees-21)

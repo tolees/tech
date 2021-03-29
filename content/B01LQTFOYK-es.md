@@ -28,11 +28,11 @@ Está [Logitech G213 Prodigy Teclado Gaming  Retroiluminación RGB LIGHTSYNC  Re
 
 ℹ️:
 
-- Rendimiento para Gaming: El teclado G213 para PC está dotado de teclas Logitech G Mech-Dome ajustadas especialmente para ofrecer un perfil de rendimiento global similar al de un teclado mecánico
 - Controles Multimedia: Los controles multimedia de G213 permiten reproducir, poner en pausa y silenciar música y vídeos al instante
 - Reposamanos Integrados y Patas Ajustables: El ajuste de ángulo en dos niveles te permite colocar el teclado tal y como quieres, mientras el reposamanos integrado alivia la incomodidad o la fatiga
-- Resistente a Salpicaduras y Duradero: La membrana y el armazón de teclas del teclado USB G213 ofrece resistencia a salpicaduras probada con hasta 60 ml de líquido
+- Rendimiento para Gaming: El teclado G213 para PC está dotado de teclas Logitech G Mech-Dome ajustadas especialmente para ofrecer un perfil de rendimiento global similar al de un teclado mecánico
 - Teclas Inteligente para el Gaming: El teclado para gaming Logitech G213 ofrece una matriz de prevención de efecto fantasma programada para controlar varias teclas
+- Resistente a Salpicaduras y Duradero: La membrana y el armazón de teclas del teclado USB G213 ofrece resistencia a salpicaduras probada con hasta 60 ml de líquido
 - La Calidad Logitech: Descubre nuestros teclados y ratones con cable, inalámbricos o Bluetooth y accesorios para tablets o diseñados para el gaming como teclados mecánicos y ratones precisos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LQTFOYK/?tag=tolees-21)
