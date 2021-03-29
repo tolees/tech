@@ -28,8 +28,8 @@ En este momento está [Namco - Marvel s Avengers - Xbox One  Edición Deluxe ](h
 
 🔎:
 
-- Seis placas de identificación de obsidiana exclusivas para personalizar tus cosmeticos en el juego
 - Un mes gratis de Marvel Unlimited disponible solo en ingles
+- Seis placas de identificación de obsidiana exclusivas para personalizar tus cosmeticos en el juego
 - Pack de atuendos de obsidiana exclusivo para tus Avengers
 - 72 horas de acceso anticiPado
 
