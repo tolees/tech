@@ -28,9 +28,9 @@ En este momento está [HP Sprocket Impresora fotográfica instantánea portátil
 
 🔎:
 
-- Escanea tu procket con tu Smartphone y la aplicación Sprocket
-- Conector: Bluetooth
 - Papel foto brillante
+- Conector: Bluetooth
+- Escanea tu procket con tu Smartphone y la aplicación Sprocket
 - Velocidad máxima en impresión a color: 1 ppm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GFP7H8C/?tag=tolees-21)
