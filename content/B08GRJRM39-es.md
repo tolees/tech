@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honor Watch GS Pro - Smartwatch Charcoal al 20.06 % de rebaja'
-date: 2021-03-25 02:47:23
+date: 2021-03-29 06:18:17
 image: 'https://m.media-amazon.com/images/I/410wTZsclqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HONOR'
 buyurl: 'https://www.amazon.es/dp/B08GRJRM39/?tag=tolees-21'
 descuento: '20.06'
-average: '179.0'
+average: '177.0'
 ---
 
 Tienes [Honor Watch GS Pro - Smartwatch Charcoal Black](https://www.amazon.es/dp/B08GRJRM39/?tag=tolees-21) con precio final de  149.0 EUR (original: 186.4 EUR) (20.06 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [Honor Watch GS Pro - Smartwatch Charcoal Black](https://www.amazon.es/dp
 
 🔎:
 
-- 100+ Modos de entrenamiento
 - GPS incorporado, hasta 48 horas de batería cuando el GPS está activo
-- Duración de la batería de 25 días
-- Tamaño de pantalla: 1.39 inches
 - Función de ruta de regreso con navegación "breadcrumb"
+- Tamaño de pantalla: 1.39 inches
 - Monitor de SpO2
+- 100+ Modos de entrenamiento
+- Duración de la batería de 25 días
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GRJRM39/?tag=tolees-21)

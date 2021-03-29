@@ -28,10 +28,10 @@ Está [memumi Case para iPhone 12 Ultrafina 0.3 mm Revestimiento Mate Protector 
 
 ℹ️:
 
-- 【Servicio al Cliente de Amazon】: Si tiene algún problema con este producto, puede contactarnos, le proporcionaremos una solución satisfactoria dentro de las 24 horas.
-- [PROTECTOR ULTRA DELGADO]: Con un grosor menor a 0.3 mm proteje a la perfección su Phone 2020. mantiene el iPhone delgado al máximo. Con una sensación similar al uso sin funda de teléfono.
-- [EXCLEENTE PROTECCIÓN]: Hecho con PP (polipropileno), la fuerza de cualquier impacto se distribuye proporcionalmente en todo el teléfono brindando mayor protección
 - [DISEÑADO PARA PROTEGER LA CÁMARA]: El borde elevado de 0,5 mm ayuda a proteger su cámara de roces contra superficies, golpes y situaciones cotidianas.
+- 【Servicio al Cliente de Amazon】: Si tiene algún problema con este producto, puede contactarnos, le proporcionaremos una solución satisfactoria dentro de las 24 horas.
 - [SIEMPRE LIMPIA Y ELEGANTE]: El proceso y terminado obtenido en el PP brinda gran facilidad de limpieza, reduce los arañazos y nunca deja residuos de huella digital.
+- [EXCLEENTE PROTECCIÓN]: Hecho con PP (polipropileno), la fuerza de cualquier impacto se distribuye proporcionalmente en todo el teléfono brindando mayor protección
+- [PROTECTOR ULTRA DELGADO]: Con un grosor menor a 0.3 mm proteje a la perfección su Phone 2020. mantiene el iPhone delgado al máximo. Con una sensación similar al uso sin funda de teléfono.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HCR1KXX/?tag=tolees-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'OMOTON Combo Teclado y Ratón Inalámbrico al 15.01 % de rebaja'
-date: 2021-03-08 01:06:30
+date: 2021-03-29 06:35:44
 image: 'https://m.media-amazon.com/images/I/41Boax9qtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J69RJHF-es OMOTON Combo Teclado y Ratón Inalámbrico para Windows...'
 sku: 'B08J69RJHF-es'
+tags: [ 'Accesorios','Informática','Packs de teclado y ratón','Teclados, ratones y periféricos de entrada','omoton','ratón','teclado', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24
@@ -27,10 +28,10 @@ Tienes [OMOTON Combo Teclado y Ratón Inalámbrico para Windows  Conexión 2.4GH
 
 🔎:
 
-- 💗 Ratón inalámbrico con tres niveles del DPI, 800dpi, 1200dpi (predetermiento), 1600dpi.
-- 💗 Modo de ahorro de energía: el teclado y ratón entrará en el modo de sueño automáticamente después de 8 minutos de inactividad.
-- 💗 Conexión 2.4G: después de insertar el receptor de USB, solo necesita poner las pilas (NO incluyen), deslice el interruptor a ON, el teclado y ratón se conecta el dispositivo automáticamente.
-- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
 - 💗 Paquete: teclado inalámbrico, ratón inalámbrico, receptor USB (dentro del ratón), manual de usuarios.
+- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
+- 💗 Ratón inalámbrico con tres niveles del DPI, 800dpi, 1200dpi (predetermiento), 1600dpi.
+- 💗 Conexión 2.4G: después de insertar el receptor de USB, solo necesita poner las pilas (NO incluyen), deslice el interruptor a ON, el teclado y ratón se conecta el dispositivo automáticamente.
+- 💗 Modo de ahorro de energía: el teclado y ratón entrará en el modo de sueño automáticamente después de 8 minutos de inactividad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J69RJHF/?tag=tolees-21)
