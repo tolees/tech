@@ -29,8 +29,8 @@ Tienes [Gigaset A170 Trio - Teléfono Inalámbrico  Pack de 3 Unidadesds  Pantal
 🔎:
 
 - Pack de tres uds; pon un teléfono en cada habitación
-- Solo necesita una conexion a la linea telefónica
 - Llamadas gratuitas entre los terminales
+- Solo necesita una conexion a la linea telefónica
 - Agenda de 50 contactos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077JTL9ZD/?tag=tolees-21)
