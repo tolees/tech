@@ -28,10 +28,10 @@ Ahora mismo tienes [Toshiba MG06ACA10TE - Disco Duro  3.5"  10000 GB  7200 RPM ]
 
 🔎:
 
-- Flexibilidad en tamaño de bloque y opciones SIE y SED
 - Tecnología Persistent Write Cache
-- Disco duro SATA o SAS de 3.5 
+- Flexibilidad en tamaño de bloque y opciones SIE y SED
 - Tecnología de bandeja estable de Toshiba
+- Disco duro SATA o SAS de 3.5 
 - Operación 24/7
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DVGKCKD/?tag=tolees-21)

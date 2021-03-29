@@ -28,10 +28,10 @@ Tienes [JETech Protector de Pantalla para iPhone 8 Plus  iPhone 7 Plus  iPhone 6
 
 🔎:
 
+- Paquete al por menor incluye: 3 Unidades de protector de pantalla de cristal templado, paño de limpieza, instrucciones, tarjeta de servicio al cliente
 - Libre de polvo, huellas dactilares libre, instalación de una pulsación súper easiy, libre de burbujas
-- Hecho con 0,33 mm de espesor de alta calidad premium de vidrio templado con bordes redondeados en exclusiva para iPhone 8 Plus, iPhone 7 Plus, iPhone 6s Plus y iPhone 6 Plus 5,5"
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo). De mayor sensibilidad , alta transparencia
 - [3D Touch Compatibles]. NOTA: Debido al borde redondo del iPhone 8 Plus, iPhone 7 Plus, iPhone 6s Plus y iPhone 6 Plus, el protector de pantalla no cubrirá toda la pantalla, pero sólo el área plana (Por favor refiérase a las imágenes de los productos)
-- Paquete al por menor incluye: 3 Unidades de protector de pantalla de cristal templado, paño de limpieza, instrucciones, tarjeta de servicio al cliente
+- Hecho con 0,33 mm de espesor de alta calidad premium de vidrio templado con bordes redondeados en exclusiva para iPhone 8 Plus, iPhone 7 Plus, iPhone 6s Plus y iPhone 6 Plus 5,5"
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N0Z89UU/?tag=tolees-21)
