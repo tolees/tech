@@ -28,10 +28,10 @@ Tienes [Rii 2-Pack Ratón inalámbrico RM100+  para PC  Portátil  Windows  Ofim
 
 ℹ️:
 
-- Alta sensibilidad: Respuestas precisas y rápidas del sensor óptico gracias a sus 1000 dpi, con una tasa de refresco de 3600 fps (frames por segundo). Sensor óptico de última generación que asegura una precisión mimétrica y un tracking perfecto en una amplia variedad de superficies.
 - Fácil de usar: Sin necesidad de drivers ni instalación gracias a su firmware interno Plug&Play.
-- Receptor inalámbrico: olvídate de molestos cables gracias a su receptor USB Plug&Play con hasta 10m de distancia de transmisión.
-- Sistemas Operativos compatibles: Windows, Android, Linux. Especial para Oficce (Ofimática).
 - Contenido del paquete: 2x ratones inalámbricos Rii RM100+, uno negro y otro de color rosa, 1x receptor Nano USB. Se necesita pilas AA (No incluidas)
+- Sistemas Operativos compatibles: Windows, Android, Linux. Especial para Oficce (Ofimática).
+- Receptor inalámbrico: olvídate de molestos cables gracias a su receptor USB Plug&Play con hasta 10m de distancia de transmisión.
+- Alta sensibilidad: Respuestas precisas y rápidas del sensor óptico gracias a sus 1000 dpi, con una tasa de refresco de 3600 fps (frames por segundo). Sensor óptico de última generación que asegura una precisión mimétrica y un tracking perfecto en una amplia variedad de superficies.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NVM5QDJ/?tag=tolees-21)

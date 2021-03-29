@@ -28,10 +28,10 @@ Tienes [TopEsct iPad 2 Funda Niños Shock Proof Material Silicona Lightweight Ki
 
 ℹ️:
 
-- Construido de policarbonato que resistente al impacto y doble protección debido a la silicona manga interior.
-- Planteado el bisel de la pantalla bordes oferce protección extra cuando caer.Preciso corte para los botones de los controles y camaras, poyar la función de reconocimiento de la huella digital.
 - Cool y flexible mango para tomar tu iPad cualquier lugar.
-- Diseñada para su precioso Apple iPad 2(A1395,A1396,A1397),iPad 3(A1403,A1416,A1430),iPad 4(A1458,A1459,A1460)
 - Por favor, busca "TopEsct iPad Case" para otros estilos y opciones de color.
+- Diseñada para su precioso Apple iPad 2(A1395,A1396,A1397),iPad 3(A1403,A1416,A1430),iPad 4(A1458,A1459,A1460)
+- Planteado el bisel de la pantalla bordes oferce protección extra cuando caer.Preciso corte para los botones de los controles y camaras, poyar la función de reconocimiento de la huella digital.
+- Construido de policarbonato que resistente al impacto y doble protección debido a la silicona manga interior.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078XZ7KR5/?tag=tolees-21)

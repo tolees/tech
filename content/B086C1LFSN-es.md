@@ -28,9 +28,9 @@ Está [NearPow Mesa de Cama para Portátil Ajustable Plegable Sofá Mesa de Desa
 
 ℹ️:
 
+- Fácil de usar - Totalmente montado, dos botones en cada lado con bloqueo automático, permite cambios fácilmente en altura, las patas se pueden ajustar a 5 alturas diferentes (ajustable de 24 a 32 cm), además se pueden usar dos pinzas para ajustar el ángulo de la superficie, la superficie se puede ajustar en 3 ángulos diferentes (de 0 - 30 °). Las secciones anti-deslizantes para ratón y muñecas en la parte inferior mantienen tu portátil seguro mientras se inclina
 - Material de Alta calidad - Material de la hoja EO, aluminio ABS, silicona antideslizante; Tamaño de escritorio: 60x33x0.9cm. Peso: 1.42 kg
 - Portátil - Mesa auxiliar plegable cama es ligero pero robusto, dobleces planos para el ahorro de espacio de almacenamiento y portabilidad. Soluciones ejecutivas de oficina, configure su laptop o escritorio en cualquier lugar, sea en la casa o en la oficina
-- Fácil de usar - Totalmente montado, dos botones en cada lado con bloqueo automático, permite cambios fácilmente en altura, las patas se pueden ajustar a 5 alturas diferentes (ajustable de 24 a 32 cm), además se pueden usar dos pinzas para ajustar el ángulo de la superficie, la superficie se puede ajustar en 3 ángulos diferentes (de 0 - 30 °). Las secciones anti-deslizantes para ratón y muñecas en la parte inferior mantienen tu portátil seguro mientras se inclina
 - Servicio Post-venta: Si tiene algún problema, envíenos un mensaje. Nuestro equipo de servicio al cliente responderá entre 24 horas con una respuesta profesional
 - Multifuncional - Mesa ordenador cama como una estación de trabajo portátil, una mesa de comedor, un mini escritorio infantil, un escritorio, de pie para el trabajo de oficina, una bandeja para cama para comer, un soporte para portátil,libro o tableta
 
