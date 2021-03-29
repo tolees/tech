@@ -28,12 +28,12 @@ Ahora mismo tienes [Apple Funda Transparente  para el iPhone 11 Pro MAX ](https:
 
 🔎:
 
-- Compatibility: iPhone 11 Pro Max
-- Thin, light, and easy to grip—this Apple-designed case shows off the brilliant colored finish of iPhone 11 Pro Max while providing extra protection.
 - Just like every Apple-designed case, it’s put through thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-- On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimized to prevent yellowing over time.
-- Made from a blend of optically clear polycarbonate and flexible TPU materials, the iPhone 11 Pro Max Clear Case provides a solid, comfortable feel.
+- Compatibility: iPhone 11 Pro Max
 - The back is designed to be sturdy while the sides are made from a softer, more flexible material that fits right over the buttons for an improved grip.
 - And when it’s time to wirelessly charge, just leave the case on and set it on your Qi-certified charger.
+- Made from a blend of optically clear polycarbonate and flexible TPU materials, the iPhone 11 Pro Max Clear Case provides a solid, comfortable feel.
+- On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimized to prevent yellowing over time.
+- Thin, light, and easy to grip—this Apple-designed case shows off the brilliant colored finish of iPhone 11 Pro Max while providing extra protection.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XQXZWVT/?tag=tolees-21)
