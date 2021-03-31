@@ -28,11 +28,11 @@ Está [D-Link GO-SW-5G/E - Gigabit Ethernet  10/100/1000  switch - Switch de red
 
 ℹ️:
 
+- Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - No necesita configuración: enchufar, conectar y listo
+- 5 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
 - Sin ventilador, funcionamiento silencioso
 - Formato sobremesa y tamaño muy reducido
-- Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
-- 5 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
 - Indicadores led del estado de conexión y actividad en cada puerto
 - D-Link Green: Los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
 
