@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Touch Drone Plegable GPS con Cáma al 15.77 % de descuento'
-date: 2021-03-29 01:35:25
+date: 2021-03-31 17:23:17
 image: 'https://m.media-amazon.com/images/I/41AzAK027eL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dragon Touch'
 buyurl: 'https://www.amazon.es/dp/B08DK4S91B/?tag=tolees-21'
 descuento: '15.77'
-average: '127.140851063831'
+average: '126.773125000002'
 ---
 
 Está [Dragon Touch Drone Plegable GPS con Cámara 1080P HD Avión con WiFi FPV Control Remoto Modo sin Cabeza RC Quadcopter Drone para Niños Principiantes Adultos](https://www.amazon.es/dp/B08DK4S91B/?tag=tolees-21) con 15.77 de descuento por 109.49 EUR (original: 129.99 EUR) en el siguiente enlace!
