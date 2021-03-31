@@ -29,8 +29,8 @@ Ahora mismo tienes [Fellowes 29700 - Alfombrilla de ratón  azul](https://www.am
 🔎:
 
 - Base antideslizante de 5 mm
-- Dimensiones del alfombrilla: 23 x 19 cm
 - Superficie hecha de tela de poliéster
+- Dimensiones del alfombrilla: 23 x 19 cm
 - Cómodo, resistente y fácil de usar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002AFTEA/?tag=tolees-21)

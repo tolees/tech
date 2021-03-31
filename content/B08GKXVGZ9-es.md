@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips B6405/10 Barra de Sonido TV con  al 32.77 % de rebaja'
-date: 2021-03-22 13:09:01
+title: 'Philips B6405/10 Barra de Sonido TV con  al 31.79 % de rebaja'
+date: 2021-03-31 21:12:44
 image: 'https://m.media-amazon.com/images/I/21RXsDyLspL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Altavoces','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi'
 actualPrice: 165.99 EUR
 currency: EUR
 price: 165.99
-comparePrice: 246.91 EUR
+comparePrice: 243.36 EUR
 prodname: 'Philips B6405/10 Barra de Sonido TV con Subwoofer Inalámbrico  2.1 Canales  140 W de Potencia  Bluetooth  Dolby Audio  HDMI ARC  Diseño Ultracompacto con Soporte Montaje en Pared  Modelo 2020/2021'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B08GKXVGZ9/?tag=tolees-21'
-descuento: '32.77'
+descuento: '31.79'
 average: '165.99'
 ---
 
-Tienes [Philips B6405/10 Barra de Sonido TV con Subwoofer Inalámbrico  2.1 Canales  140 W de Potencia  Bluetooth  Dolby Audio  HDMI ARC  Diseño Ultracompacto con Soporte Montaje en Pared  Modelo 2020/2021](https://www.amazon.es/dp/B08GKXVGZ9/?tag=tolees-21) con precio final de  165.99 EUR (original: 246.91 EUR) (32.77 %  de rebaja) aqui!
+Tienes [Philips B6405/10 Barra de Sonido TV con Subwoofer Inalámbrico  2.1 Canales  140 W de Potencia  Bluetooth  Dolby Audio  HDMI ARC  Diseño Ultracompacto con Soporte Montaje en Pared  Modelo 2020/2021](https://www.amazon.es/dp/B08GKXVGZ9/?tag=tolees-21) con precio final de  165.99 EUR (original: 243.36 EUR) (31.79 %  de rebaja) aqui!
 
 [![Philips B6405/10 Barra de Sonido TV con ](https://m.media-amazon.com/images/I/21RXsDyLspL._SL400_.jpg)](https://www.amazon.es/dp/B08GKXVGZ9/?tag=tolees-21)
 
