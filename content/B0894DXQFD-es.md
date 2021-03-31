@@ -29,9 +29,9 @@ Tienes [OMOTON Pack Teclado y Ratón Inalámbrico Delgado para Windows  Teclado 
 🔎:
 
 - 💗 Conexión 2.4G: después de insertar el receptor de USB, solo necesita poner las pilas (NO incluyen), deslice el interruptor a ON, el teclado y ratón se conecta el dispositivo automáticamente.
-- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
 - 💗 Modo de ahorro de energía: el teclado y ratón entrará en el modo de sueño automáticamente después de 8 minutos de inactividad.
 - 💗 Paquete: teclado inalámbrico, ratón inalámbrico, receptor USB (dentro del ratón), manual de usuarios.
 - 💗 Ratón Inalámbrico, tres niveles del DPI, 800dpi, 1200dpi (predetermiento), 1600dpi.
+- 🍀 Compatible con Windows XP / 7 / 8 / 10 / VISTA. El receptor USB está en la trasera del ratón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0894DXQFD/?tag=tolees-21)
