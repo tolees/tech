@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.72 % en TP-Link TL-WR940N Router Inalámbrico Rep'
-date: 2021-03-29 06:59:13
+date: 2021-03-31 16:15:24
 image: 'https://m.media-amazon.com/images/I/31FzFYNy4lL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00VVHONRM/?tag=tolees-21'
 descuento: '19.72'
-average: '20.6471621621624'
+average: '20.6298684210528'
 ---
 
 Tienes [TP-Link TL-WR940N Router Inalámbrico Repetidor de WIFI Punto de Acceso N450 MBps  Alta Sensibilidad  WPS  4 LAN  1 WAN  Tecnología 3 x 3 MIMO  Negro](https://www.amazon.es/dp/B00VVHONRM/?tag=tolees-21) con un 19.72 % de descuento con precio de oferta de 19.99 EUR (original: 24.9 EUR) en el siguiente enlace!

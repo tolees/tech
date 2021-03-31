@@ -29,7 +29,7 @@ En este momento está [Western Digital WD Purple 4TB para videovigilancia - 3.5 
 🔎:
 
 - Un plus de capacidad para tus archivos
-- Fácil uso
 - Compatible Windows
+- Fácil uso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071KVB4F8/?tag=tolees-21)
