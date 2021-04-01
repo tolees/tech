@@ -28,8 +28,8 @@ Ahora mismo tienes [Seva Import Real Madrid Auriculares Casco  Blanco  Talla Ún
 
 🔎:
 
-- Real madrid negro misc
-- Auricular casco seva import seva import auricular casco real madrid blanco/negro
 - Rollo precinto -, perfil sin perfil, material:, color blanco/negro
+- Auricular casco seva import seva import auricular casco real madrid blanco/negro
+- Real madrid negro misc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BWSTBRQ/?tag=tolees-21)
