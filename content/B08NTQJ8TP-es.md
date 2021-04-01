@@ -29,10 +29,10 @@ En este momento está [ASUS ZenBook 14 UX425EA-HM165T - Portátil de 14 " FullHD
 🔎:
 
 - Tarjeta grafica Iris Xe
-- Almacenamiento 512GB M.2 NVMe PCIe 3.0 SSD
-- Memoria RAM 16GB LPDDR4X on board
-- Procesador Intel Core i7-1165G7 ( 4 núcleos, 12 MB cache, 2.8 GHz hasta 4.7 GHz)
-- Pantalla de 14" FullHD (1920 x 1080) 16:9 Anti-glare display sRGB: 100%
 - Sistema operativo Windows 10 Home
+- Memoria RAM 16GB LPDDR4X on board
+- Pantalla de 14" FullHD (1920 x 1080) 16:9 Anti-glare display sRGB: 100%
+- Procesador Intel Core i7-1165G7 ( 4 núcleos, 12 MB cache, 2.8 GHz hasta 4.7 GHz)
+- Almacenamiento 512GB M.2 NVMe PCIe 3.0 SSD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NTQJ8TP/?tag=tolees-21)
