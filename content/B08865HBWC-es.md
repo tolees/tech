@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi Note 9 Smartphone 4GB 128GB  48MP Quad Camera  6.53”FHD +
 
 ℹ️:
 
-- OS: Android 10
+- Procesador: Mediatek Helio G85 2GHz
 - Pantalla: 6.53", 1080 x 2340 pixels
 - Batería: 5020 mAh
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
-- Procesador: Mediatek Helio G85 2GHz
+- OS: Android 10
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08865HBWC/?tag=tolees-21)

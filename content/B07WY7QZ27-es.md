@@ -28,8 +28,8 @@ Ahora mismo tienes [Impresora Multifuncional Canon PIXMA TS5350 Negra Wifi de in
 
 🔎:
 
-- Sin complicaciones, gracias a la configuración táctil y la pantalla de oled de 1.44
 - Compatible con tintas pg-560, cl-561, pg-560 xl y cl-561 xl
+- Sin complicaciones, gracias a la configuración táctil y la pantalla de oled de 1.44
 - Impresión automática a doble cara
 - Impresión, copia, escaneo por wi-fi
 - Diseño único, elegante y minimalista, con una barra de leds que indican el estado del equipo; disponible en varios colores modernos y atractivos
