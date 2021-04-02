@@ -28,10 +28,10 @@ En este momento está [ESR 2 Unidades  Protector de Pantalla Compatible con iPho
 
 🔎:
 
-- [3D + Protección Máxima]: Bordes curvados especialmente diseñados para proteger su precioso iPhone XR del polvo y de las fracturas en los bordes, protegiendo efectivamente tu iPhone.
+- ★★Garantía de por Vida★★: ESR ofrece servicio al cliente profesional, la protección de pantalla ESR para iPhone XR está garantizada de por vida. ★★
 - [Compatible con Reconocimiento Facial]: diseñado minuciosamente para el iPhone XR, no causa ningún tipo de interferencia con la función de reconocimiento facial. (Diseñado exclusivamente para Apple iPhone XR)
 - [Kit de Instalación Fácil]: El adhesivo de eliminación de polvo y la tela incluidos garantizan una aplicación sin burbujas ni polvo.
-- ★★Garantía de por Vida★★: ESR ofrece servicio al cliente profesional, la protección de pantalla ESR para iPhone XR está garantizada de por vida. ★★
 - [5X Más Fuerte]: el protector de pantalla ESR para iPhone se ha sometido a 5 procesos de temperatura y puede soportar una presión de 22 libras, protegiendo la pantalla de otros tipos de daños.
+- [3D + Protección Máxima]: Bordes curvados especialmente diseñados para proteger su precioso iPhone XR del polvo y de las fracturas en los bordes, protegiendo efectivamente tu iPhone.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G3TCNHX/?tag=tolees-21)
