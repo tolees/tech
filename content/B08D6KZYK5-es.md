@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Descuento del 50.00 % en Proyector YABER V3 6000 Bluetooth Mini P'
-date: 2021-03-10 08:51:48
+title: 'Descuento del 25.00 % en Proyector YABER V3 6000 Bluetooth Mini P'
+date: 2021-04-02 14:39:18
 image: 'https://m.media-amazon.com/images/I/412bq+GXVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6KZYK5-es Proyector YABER V3 6000 Bluetooth Mini Proyector Portátil...'
 sku: 'B08D6KZYK5-es'
-actualPrice: 79.99 EUR
+tags: [ '1080p','Electrónica','Proyectores','TV, vídeo y home cinema','bluetooth','full','hd','yaber', ]
+actualPrice: 59.99 EUR
 currency: EUR
-price: 79.99
-comparePrice: 159.99 EUR
+price: 59.99
+comparePrice: 79.99 EUR
 prodname: 'Proyector YABER V3 6000 Bluetooth Mini Proyector Portátil Soporta Full HD 1080P  Video Proyector 720P Cine en Casa 80000 Horas  Función Zoom  para iOS/Android/TV Stick/PS4 Altavoz/Auricular Bluetooth'
 country: 'es'
 flag: '🇪🇸'
 brand: 'YABER'
 buyurl: 'https://www.amazon.es/dp/B08D6KZYK5/?tag=tolees-21'
-descuento: '50.00'
-average: '80.8748837209304'
+descuento: '25.00'
+average: '80.3740425531917'
 ---
 
-Tienes [Proyector YABER V3 6000 Bluetooth Mini Proyector Portátil Soporta Full HD 1080P  Video Proyector 720P Cine en Casa 80000 Horas  Función Zoom  para iOS/Android/TV Stick/PS4 Altavoz/Auricular Bluetooth](https://www.amazon.es/dp/B08D6KZYK5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 79.99 EUR (original: 159.99 EUR) en el siguiente enlace!
+Tienes [Proyector YABER V3 6000 Bluetooth Mini Proyector Portátil Soporta Full HD 1080P  Video Proyector 720P Cine en Casa 80000 Horas  Función Zoom  para iOS/Android/TV Stick/PS4 Altavoz/Auricular Bluetooth](https://www.amazon.es/dp/B08D6KZYK5/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![Proyector YABER V3 6000 Bluetooth Mini P](https://m.media-amazon.com/images/I/412bq+GXVQL._SL400_.jpg)](https://www.amazon.es/dp/B08D6KZYK5/?tag=tolees-21)
 

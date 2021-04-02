@@ -28,10 +28,10 @@ Tienes [VOOE Batería Externa 25800mAh [Versión Mejorada] Power Bank Ultra Capa
 
 ℹ️:
 
-- 【Dual Puertos y Indicador de Estado LED Power Bank】Los puertos de salida USB dobles pueden cargar 2 dispositivos al mismo tiempo ( 5 V / 2.1 A y 5 V / 1A) ; Con 4 LED que muestran la energía restante y el estado de carga en el cargador portátil.
-- 【Lo Que Obtiene】25800mAh Batería Externa, Cable Micro USB, Manual del usuario; Ofrecemos 24 meses después del servicio de venta, si tiene algún problema, no dude en contactarnos, le responderemos en 24 horas.
-- 【Carga Alta Velocidad y Segura】Adoptando automáticamente la técnica de identificación, los cargadores portátiles pueden cambiar la corriente de carga dependiendo de los diferentes dispositivos. Y tenga una protección múltiple de CI para evitar sobrecargas, corrientes excesivas, cortocircuitos o sobrecalentamiento durante la carga.
 - 【Ultra Capacidad de 25800mAh External Battery】Ultra capacidad de 25800mAh batería externa mejorada puede carga cualquier smartphones para 6-8 veces, perfecta para la vida diaria, viajes, fiestas.
+- 【Lo Que Obtiene】25800mAh Batería Externa, Cable Micro USB, Manual del usuario; Ofrecemos 24 meses después del servicio de venta, si tiene algún problema, no dude en contactarnos, le responderemos en 24 horas.
 - 【Modelo Compatible】VOOE cargador portátil móvil te ayudará a cargar todos tus dispositivos en todo momento. Es universalmente compatible con todos los productos mediante un cable de carga USB, incluyendo teléfonos inteligentes de iOS y Android, tabletas, reproductores de mp3 / mp4 y muchos otros productos.
+- 【Dual Puertos y Indicador de Estado LED Power Bank】Los puertos de salida USB dobles pueden cargar 2 dispositivos al mismo tiempo ( 5 V / 2.1 A y 5 V / 1A) ; Con 4 LED que muestran la energía restante y el estado de carga en el cargador portátil.
+- 【Carga Alta Velocidad y Segura】Adoptando automáticamente la técnica de identificación, los cargadores portátiles pueden cambiar la corriente de carga dependiendo de los diferentes dispositivos. Y tenga una protección múltiple de CI para evitar sobrecargas, corrientes excesivas, cortocircuitos o sobrecalentamiento durante la carga.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NR5JPYH/?tag=tolees-21)
