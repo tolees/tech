@@ -29,8 +29,8 @@ En este momento está [Kingston KCP3L16SD8/8 - Memoria RAM para portátil de 8 G
 🔎:
 
 - Tipo de memoria interna: DDR3L
-- Memoria interna: 8 GB
 - Voltaje de memoria, 1.35 V
+- Memoria interna: 8 GB
 - Velocidad de memoria del reloj: 1600 MHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B5SKK78/?tag=tolees-21)

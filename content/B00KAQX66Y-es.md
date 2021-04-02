@@ -28,9 +28,9 @@ Está [Canon EF-S 10-18 mm f:4.5-5.6 IS STM - Objetivo para Canon  Estabilizador
 
 ℹ️:
 
+- Apertura f/4.5-5.6, distancia focal 10-18 mm
+- Estabilizador de la imagen de 4 pasos
 - Haz clic aquí para comprobar si este producto es compatible con tu modelo
 - Distancia mínima de enfoque de 0.22 m
-- Estabilizador de la imagen de 4 pasos
-- Apertura f/4.5-5.6, distancia focal 10-18 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KAQX66Y/?tag=tolees-21)
