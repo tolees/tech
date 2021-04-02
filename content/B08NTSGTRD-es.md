@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook Flip 13 UX363EA-EM087T - Po con un 25.85 % de descuento'
-date: 2021-03-23 04:57:49
+date: 2021-04-02 03:31:38
 image: 'https://m.media-amazon.com/images/I/41OLtSjzHqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [ASUS ZenBook Flip 13 UX363EA-EM087T - Portátil Convertib
 
 🔎:
 
-- Pantalla de 13.3" FullHD (1920 x 1080)
-- Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
-- Memoria RAM de 8GB, LPDDR4X
-- Sistema operativo Windows 10 Home
-- Tarjeta grafica Iris Xe
 - Disco du 512GB M.2 NVMe PCIe
+- Memoria RAM de 8GB, LPDDR4X
+- Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
+- Tarjeta grafica Iris Xe
+- Sistema operativo Windows 10 Home
+- Pantalla de 13.3" FullHD (1920 x 1080)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21)
