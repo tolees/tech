@@ -28,9 +28,9 @@ Está [MARSGAMING - Mars Gaming MMX  Ratón Gaming Óptico 12400DPI  Chroma RGB 
 
 ℹ️:
 
-- 8 botones mecánicos HUANO configurables por Software
-- Ratón gaming con iluminación RGB Chroma y 12400 DPI
 - Diseño ergonómico, conector USB, cable trenzado y compatibilidad con Windows/Mac/Linux
 - Iluminación CHROMA RGB con efecto respiración
+- 8 botones mecánicos HUANO configurables por Software
+- Ratón gaming con iluminación RGB Chroma y 12400 DPI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WJPX6J1/?tag=tolees-21)

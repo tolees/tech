@@ -28,8 +28,8 @@ Tienes [Pioneer DEH-S100UB Autorradio  Rojo](https://www.amazon.es/dp/B0757NBGD5
 
 ℹ️:
 
-- CD y USB Frontal
 - Reproducción de archivos (MP3, WMA, WAV, FLAC)
+- CD y USB Frontal
 - Color botonera rojo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0757NBGD5/?tag=tolees-21)
