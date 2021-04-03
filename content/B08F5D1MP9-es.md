@@ -28,10 +28,10 @@ Tienes [Ccylez - Mini proyector portátil  1080P HD LED Video Proyector  Home Th
 
 🔎:
 
-- Con puertos HDMI, AV, USB y tarjeta de memoria, se puede conectar de manera flexible a varios dispositivos, como cajas de TV, computadoras portátiles, unidades USB y teléfonos inteligentes, etc.
 - Altavoces de alta fidelidad incorporados, calidad de sonido impactante HIFI, puede experimentar una excelente calidad de sonido en el sitio, enriqueciendo el nivel de sonido y numerosas interfaces para satisfacer sus necesidades.
 - El diseño portátil y la operación simple hacen que sea fácil de transportar y configurar. Puedes disfrutar de videojuegos, series de televisión y partidos de fútbol con tu amante o familia en cualquier lugar.
 - El tamaño mini pesa 0.3 kg, con múltiples conexiones y parlantes incorporados, para que pueda disfrutar de películas de alta definición en su propia habitación.
 - El proyector de video admite una resolución de 1920x1080, una relación de contraste de 800: 1 y un flujo luminoso de 1800. Y la vida útil del LED puede llegar hasta 30,000 horas.
+- Con puertos HDMI, AV, USB y tarjeta de memoria, se puede conectar de manera flexible a varios dispositivos, como cajas de TV, computadoras portátiles, unidades USB y teléfonos inteligentes, etc.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F5D1MP9/?tag=tolees-21)
