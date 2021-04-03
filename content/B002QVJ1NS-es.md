@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Targus AMU75EU - Ratón Compacto al 46.76 % de descuento'
-date: 2021-03-18 08:26:51
+date: 2021-04-03 14:12:19
 image: 'https://m.media-amazon.com/images/I/313OgaVXlZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B002QVJ1NS-es Targus AMU75EU - Ratón Compacto'
 sku: 'B002QVJ1NS-es'
+tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','ratón','targus', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Targus'
 buyurl: 'https://www.amazon.es/dp/B002QVJ1NS/?tag=tolees-21'
 descuento: '46.76'
-average: '7.419'
+average: '7.35095238095238'
 ---
 
 Está [Targus AMU75EU - Ratón Compacto](https://www.amazon.es/dp/B002QVJ1NS/?tag=tolees-21) con 46.76 de descuento por 5.99 EUR (original: 11.25 EUR) en el siguiente enlace!

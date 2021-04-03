@@ -28,10 +28,10 @@ Tienes [ESR Funda Compatible con iPhone 11 2019  6 1”  Carcasa Antigolpes y An
 
 ℹ️:
 
+- [Protección mejorada para pantalla y cámara]: La cámara y la pantalla de tu iPhone 11 estarán más protegidas gracias a sus bordes ligeramente elevados, que evitan que la lente o la pantalla se rayen al colocarlo sobre una superficie plana.
 - [Protección invisible]: Con solo 1,1 mm de grosor, ofrece una protección extra sin añadir volumen a tu dispositivo. Su TPU transparente es antiamarilleante, lo que asegura una transparencia duradera.
 - [Compatibilidad]: Diseñada especialmente para iPhone 11 6,1” (2019).
 - [Evita el efecto mojado] Su diseño con micro puntos en la parte interior evita la apariencia húmeda y pegajosa, tan común entre las fundas transparentes, ayudando así a mantener el bonito diseño de tu iPhone 11.
 - [TPU flexible con esquinas Air-Guard]: La combinación de TPU flexible y esquinas Air-Guard con absorción de golpes ayuda a proteger tu iPhone 11 contra caídas y otros impactos.
-- [Protección mejorada para pantalla y cámara]: La cámara y la pantalla de tu iPhone 11 estarán más protegidas gracias a sus bordes ligeramente elevados, que evitan que la lente o la pantalla se rayen al colocarlo sobre una superficie plana.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VG7PMC5/?tag=tolees-21)
