@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thule TSLB315MIN - Mochila para Ordenado con un 25.29 % de descuento'
-date: 2021-03-31 03:13:52
+date: 2021-04-03 19:37:06
 image: 'https://m.media-amazon.com/images/I/31W5B1yX19L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Thule'
 buyurl: 'https://www.amazon.es/dp/B01MRXF63T/?tag=tolees-21'
 descuento: '25.29'
-average: '85.7399999999999'
+average: '85.8917647058823'
 ---
 
 En este momento está [Thule TSLB315MIN - Mochila para Ordenador portátil 15"  Apple MacBook Pro de 15" o PC de 15.6"  Color Azul Marino](https://www.amazon.es/dp/B01MRXF63T/?tag=tolees-21) a 89.61 EUR (original: 119.95 EUR) (25.29 %  de descuento) en el siguiente enlace!
