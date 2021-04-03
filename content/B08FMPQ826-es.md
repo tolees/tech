@@ -28,10 +28,10 @@ Está [Xiaomi Redmi 9C NFC-Smartphone de 6.53"  3GB+64GB  Triple cámara trasera
 
 ℹ️:
 
-- Pantalla: 6.53", 720 x 1600 pixels
-- OS: Android 10
-- Procesador: Mediatek Helio G35 2.3GHz
-- Batería: 5000 mAh
 - Cámara: Triple, 13MP+5MP+2MP
+- OS: Android 10
+- Batería: 5000 mAh
+- Procesador: Mediatek Helio G35 2.3GHz
+- Pantalla: 6.53", 720 x 1600 pixels
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FMPQ826/?tag=tolees-21)

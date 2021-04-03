@@ -28,10 +28,10 @@ Tienes [PDP - Mando Afterglow Deluxe Con Cable  Nintendo Switch ](https://www.am
 
 🔎:
 
-- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
-- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB.
 - Vistoso diseño de luz LED con colores personalizables y diversos modos de iluminación.
-- Ajusta el volumen sobre la marcha con la cruceta y el botón de función.
 - Con licencia oficial de Nintendo.
+- Ajusta el volumen sobre la marcha con la cruceta y el botón de función.
+- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB.
+- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V3SZY39/?tag=tolees-21)
