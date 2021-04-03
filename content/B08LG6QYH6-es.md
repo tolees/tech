@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 B11SB-008ES - Ordenador po al 32.48 % de descuento'
-date: 2021-03-28 14:36:50
+date: 2021-04-03 18:50:27
 image: 'https://m.media-amazon.com/images/I/31bjbnstbSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Está [MSI Modern 14 B11SB-008ES - Ordenador portátil de 14" FullHD  Intel Core
 
 ℹ️:
 
-- Tipo de memoria del ordenador: dram
-- Disco ssd de 1 tb nvme pcie gen3x4
+- Procesador intel core i7-1165g7 (4 núcleos, 12 mb cache, 4.70 ghz)
 - Sistema operativo: Windows 10 Pro
 - Memoria ram ddr iv 16 gb (3200 mhz)
-- Tarjeta gráfica nvidia geforce mx450, 2 gb gddr5
-- Capacidad del disco duro (GB): 1.0 TB
-- Procesador intel core i7-1165g7 (4 núcleos, 12 mb cache, 4.70 ghz)
 - Sistema operativo windows10 home plus
+- Tarjeta gráfica nvidia geforce mx450, 2 gb gddr5
+- Tipo de memoria del ordenador: dram
+- Disco ssd de 1 tb nvme pcie gen3x4
+- Capacidad del disco duro (GB): 1.0 TB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LG6QYH6/?tag=tolees-21)
