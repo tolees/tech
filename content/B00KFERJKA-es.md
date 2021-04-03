@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.67 % en Escáner de documentos Canon imageFORMULA'
-date: 2021-04-01 23:10:57
+date: 2021-04-03 09:27:59
 image: 'https://m.media-amazon.com/images/I/31pLiK4h+rL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B00KFERJKA/?tag=tolees-21'
 descuento: '17.67'
-average: '246.037142857143'
+average: '244.206666666667'
 ---
 
 Tienes [Escáner de documentos Canon imageFORMULA P-215II   15 ppm  20 hojas ADF  escáner portatil ](https://www.amazon.es/dp/B00KFERJKA/?tag=tolees-21) con un 17.67 % de descuento con precio de oferta de 237.8 EUR (original: 288.85 EUR) en el siguiente enlace!
