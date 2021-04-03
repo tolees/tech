@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WI-C200 - Auriculares in ear inalám con un 28.90 % de descuento'
-date: 2021-04-01 21:36:57
+date: 2021-04-03 02:51:07
 image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21'
 descuento: '28.90'
-average: '28.4933333333333'
+average: '28.4916129032258'
 ---
 
 En este momento está [Sony WI-C200 - Auriculares in ear inalámbricos más ligeros y con hasta 15 h de autonomía  negro](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21) a 28.44 EUR (original: 40.0 EUR) (28.90 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Sony WI-C200 - Auriculares in ear inalámbricos más lige
 
 🔎:
 
-- Protección de contenido compatible: SCMS-T
-- Hasta 15 horas de duración de batería
-- Audio inalámbrico con tecnología bluetooth
-- Cables flexibles y ligeros
-- Unidades de diafragma de 9.mm para un sonido claro y nítido
 - Formatos de audio compatibles: SBC, AAC
 - Compatible con llamadas con manos libres y asistente de voz
+- Audio inalámbrico con tecnología bluetooth
+- Hasta 15 horas de duración de batería
+- Unidades de diafragma de 9.mm para un sonido claro y nítido
+- Protección de contenido compatible: SCMS-T
+- Cables flexibles y ligeros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21)
