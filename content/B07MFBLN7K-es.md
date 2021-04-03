@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung MZ-V7S500BW 970 EVO Plus - Unida al 41.61 % de descuento'
-date: 2021-04-02 01:02:09
+title: 'Samsung MZ-V7S500BW 970 EVO Plus - Unida al 40.94 % de descuento'
+date: 2021-04-03 04:27:43
 image: 'https://m.media-amazon.com/images/I/416rM0BbODL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07MFBLN7K-es Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD 500 GB M.2...'
 sku: 'B07MFBLN7K-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung', ]
-actualPrice: 87.0 EUR
+actualPrice: 87.99 EUR
 currency: EUR
-price: 87.0
+price: 87.99
 comparePrice: 148.99 EUR
 prodname: 'Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21'
-descuento: '41.61'
-average: '98.4093402777762'
+descuento: '40.94'
+average: '98.3374827586192'
 ---
 
-Ahora mismo tienes [Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21) a 87.0 EUR (original: 148.99 EUR) (41.61 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21) a 87.99 EUR (original: 148.99 EUR) (40.94 %  de descuento) en el siguiente enlace!
 
 [![Samsung MZ-V7S500BW 970 EVO Plus - Unida](https://m.media-amazon.com/images/I/416rM0BbODL._SL400_.jpg)](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21)
 

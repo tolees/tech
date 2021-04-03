@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faburo Set de Cámara de Fotos Digital pa al 27.86 % de descuento'
-date: 2021-04-02 00:54:48
+date: 2021-04-03 05:46:45
 image: 'https://m.media-amazon.com/images/I/51A3cdW6SjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Faburo'
 buyurl: 'https://www.amazon.es/dp/B07VV4X16K/?tag=tolees-21'
 descuento: '27.86'
-average: '24.9372985781989'
+average: '24.8792018779341'
 ---
 
 Está [Faburo Set de Cámara de Fotos Digital para Niños  Cámara Infantil con Tarjeta de Memoria Micro SD 32GB  Cámara Digital Video cámara Infantil para Niños Niñas Regalos de cumpleaños  1080P  Rosa](https://www.amazon.es/dp/B07VV4X16K/?tag=tolees-21) con 27.86 de descuento por 18.75 EUR (original: 25.99 EUR) en el siguiente enlace!
