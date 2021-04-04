@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WiFi Videocámara UHD 26MP FamBrow Videoc con un 26.17 % de descuento'
-date: 2021-04-02 00:29:07
+date: 2021-04-04 18:45:58
 image: 'https://m.media-amazon.com/images/I/51QpH6p3bOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FamBrow'
 buyurl: 'https://www.amazon.es/dp/B08BJ7M6X3/?tag=tolees-21'
 descuento: '26.17'
-average: '120.848594594596'
+average: '120.824148936172'
 ---
 
 En este momento está [WiFi Videocámara UHD 26MP FamBrow Videocamara de Vlogging Youtube IR Visión Nocturna 30FPS 16X Zoom Cámara de Video Pantalla Giratoria con Micrófono Control Remoto 2 Batería](https://www.amazon.es/dp/B08BJ7M6X3/?tag=tolees-21) a 95.97 EUR (original: 129.99 EUR) (26.17 %  de descuento) en el siguiente enlace!
