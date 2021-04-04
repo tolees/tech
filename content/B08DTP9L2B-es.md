@@ -28,10 +28,10 @@ Ahora mismo tienes [IEsafy 2 Piezas Power Bank 10000mAh Ultra-Compacto Cargador 
 
 🔎:
 
-- 【Seguridad】El banco de energía es mucho más seguro que otros batería de iones de litio. Además, puedes llevarlo fácilmente, incluso en aviones.
 - 【Comparte Los Dos Con Su Familia】Contienen un Negro Power Bank y un Blanco, y 2 cables. Puede usarlo con su novio/a para sus móviles en la marcha o en la bar. Muy ideal para regalo de San Valentin!
 - 【Obtenga 2 Power Banks por Gasta Menos Dineros】Más económico y asequible en comparación con otros batería, contiene un total de Cargador Portátil de 10000mAh x2, Micro USB cable x1, USB C Cable x1, Usuario Manual x1.
-- 【2 Entradas de USB C / Micro y USB Salida】El batería portátil tiene 2 opciones para cargarse por los dos entradas. La USB salida para los teléfonos o otros equipos. Cargar el movil y cargarse son más convenientes.
+- 【Seguridad】El banco de energía es mucho más seguro que otros batería de iones de litio. Además, puedes llevarlo fácilmente, incluso en aviones.
 - 【Ultra Compacto】El tamaño de cada uno es de 10.7x5,1x2.5cm, y 169g de peso, muy ligero y delgado, puede llevarlos a donde quiera. Fácil de ponerlo en una bolsa. Increíblemente portátil!
+- 【2 Entradas de USB C / Micro y USB Salida】El batería portátil tiene 2 opciones para cargarse por los dos entradas. La USB salida para los teléfonos o otros equipos. Cargar el movil y cargarse son más convenientes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DTP9L2B/?tag=tolees-21)

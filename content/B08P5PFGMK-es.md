@@ -28,9 +28,9 @@ Tienes [Jinhuaxin Telescopio Monocular  12 x 50 HD Monocular Impermeable monocul
 
 ℹ️:
 
-- 【Ergonómico】: Telescopio monocular con acabado de goma para resistencia a los golpes y agarre firme y cómodo, duradero, que se puede utilizar normalmente en entornos hostiles. El rendimiento de visión nocturna baja hace que funcione bien en visión nocturna como conciertos o partidos de fútbol por la noche.
 - 【Con soporte para teléfono móvil y trípode】: telescopio monocular equipado con un robusto trípode extensible y un clip para teléfono con el que puede tomar fácilmente una foto o un video HD. Adecuado para iPhone 12/11 / XR / Xs / X, iPhone 8/7/6, Samsung Galaxy s10 / s9 / s8 / note 10/9/8, Huawei Mate 30 20, LG, MI, Sony y la mayoría de los teléfonos inteligentes.
 - 【Alta transmisión de luz, prisma HD BAK4】: Telescopio monocular profesional, recubrimiento de lente totalmente multicapa y prisma BAK4 interno. El reflejo de la luz y la distorsión mínima, la óptica multicapa garantizan una transmisión de luz y un brillo superiores. El sistema de prisma tiene una pupila de salida perfectamente redonda que proporciona una imagen de alta calidad.
+- 【Ergonómico】: Telescopio monocular con acabado de goma para resistencia a los golpes y agarre firme y cómodo, duradero, que se puede utilizar normalmente en entornos hostiles. El rendimiento de visión nocturna baja hace que funcione bien en visión nocturna como conciertos o partidos de fútbol por la noche.
 - 【Monocular con zoom de 12x50】: monocular de alto rendimiento de 12x50, un aumento de 12x y un monocular con un diámetro de objetivo de 50 mm garantizan una imagen más clara y brillante. Obtenga la mejor vista de sus aventuras al aire libre. Perfecto para la observación de aves, caza, senderismo, camping, turismo, etc.
 - 【Amplia aplicación】: Telescopios monoculares Regalos ideales para niños, entusiastas del aire libre, entusiastas de EDC e incluso para todos. Ideal para la caza, la escalada, la observación de aves, la vida silvestre y el paisaje, conciertos, deportes, caminatas, campamentos y viajes. Adecuado para la mayoría de teléfonos inteligentes.
 
