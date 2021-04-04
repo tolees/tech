@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'RAVIAD 3 en 1 Multi Cable de Carga  Nylo con un 50.05 % de descuento'
-date: 2021-02-20 17:46:33
-image: 'https://m.media-amazon.com/images/I/41exXx3icdL._SL200_.jpg'
+date: 2021-04-04 17:28:39
+image: 'https://m.media-amazon.com/images/I/41exXx3icdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8K3PHZ-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
 sku: 'B07P8K3PHZ-es'
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','galaxy','huawei','kindle','raviad', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
@@ -18,12 +19,12 @@ flag: '🇪🇸'
 brand: 'RAVIAD'
 buyurl: 'https://www.amazon.es/dp/B07P8K3PHZ/?tag=tolees-21'
 descuento: '50.05'
-average: '5.69'
+average: '5.63615384615385'
 ---
 
 En este momento está [RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C para Android Galaxy S9/ S8/ S7/ A5  Huawei P20  Honor  Kindle  LG](https://www.amazon.es/dp/B07P8K3PHZ/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![RAVIAD 3 en 1 Multi Cable de Carga  Nylo](https://m.media-amazon.com/images/I/41exXx3icdL._SL200_.jpg)](https://www.amazon.es/dp/B07P8K3PHZ/?tag=tolees-21)
+[![RAVIAD 3 en 1 Multi Cable de Carga  Nylo](https://m.media-amazon.com/images/I/41exXx3icdL._SL400_.jpg)](https://www.amazon.es/dp/B07P8K3PHZ/?tag=tolees-21)
 
 🔎:
 
