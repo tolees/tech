@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Razer Viper UltimateRatón Inalámbrico pa al 34.67 % de descuento'
-date: 2021-03-17 20:09:28
+title: 'Razer Viper UltimateRatón Inalámbrico pa al 36.67 % de descuento'
+date: 2021-04-04 12:22:10
 image: 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B081QXQ86Y-es Razer Viper UltimateRatón Inalámbrico para Juegos Ratón...'
 sku: 'B081QXQ86Y-es'
-actualPrice: 97.99 EUR
+tags: [ 'Accesorios','Accesorios para Juegos PC','Informática','Juegos y Accesorios para PC','Ratones','Ratones para gamers para PC','Teclados, ratones y periféricos de entrada','Videojuegos','ratón','razer', ]
+actualPrice: 94.99 EUR
 currency: EUR
-price: 97.99
+price: 94.99
 comparePrice: 149.99 EUR
 prodname: 'Razer Viper UltimateRatón Inalámbrico para Juegos  Ratón Gaming  Ambidiestro  Ligero y Rápido  Sensor Óptico 20.000 Dpi  RGB Chroma  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21'
-descuento: '34.67'
-average: '103.126923076923'
+descuento: '36.67'
+average: '102.042'
 ---
 
-Está [Razer Viper UltimateRatón Inalámbrico para Juegos  Ratón Gaming  Ambidiestro  Ligero y Rápido  Sensor Óptico 20.000 Dpi  RGB Chroma  Negro](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21) con 34.67 de descuento por 97.99 EUR (original: 149.99 EUR) en el siguiente enlace!
+Está [Razer Viper UltimateRatón Inalámbrico para Juegos  Ratón Gaming  Ambidiestro  Ligero y Rápido  Sensor Óptico 20.000 Dpi  RGB Chroma  Negro](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21) con 36.67 de descuento por 94.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Razer Viper UltimateRatón Inalámbrico pa](https://m.media-amazon.com/images/I/21t1F+8gqSL._SL400_.jpg)](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21)
 
