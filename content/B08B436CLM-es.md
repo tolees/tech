@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Sony SRS-XB33 - Altavoz Bluetooth Potent al 32.53 % de descuento'
+date: 2021-04-04 03:10:13
+image: 'https://m.media-amazon.com/images/I/41TBagNEo6L._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08B436CLM-es Sony SRS-XB33 - Altavoz Bluetooth Potente con Luces Extra...'
+sku: 'B08B436CLM-es'
+tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','bluetooth','sony', ]
+actualPrice: 101.2 EUR
+currency: EUR
+price: 101.2
+comparePrice: 150.0 EUR
+prodname: 'Sony SRS-XB33 - Altavoz Bluetooth Potente  con Luces  Extra Bass  Resistente al Agua  Polvo  óxido  Golpes y Larga duración de batería de hasta 24h'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Sony'
+buyurl: 'https://www.amazon.es/dp/B08B436CLM/?tag=tolees-21'
+descuento: '32.53'
+average: '101.2'
+---
+
+Está [Sony SRS-XB33 - Altavoz Bluetooth Potente  con Luces  Extra Bass  Resistente al Agua  Polvo  óxido  Golpes y Larga duración de batería de hasta 24h](https://www.amazon.es/dp/B08B436CLM/?tag=tolees-21) con 32.53 de descuento por 101.2 EUR (original: 150.0 EUR) en el siguiente enlace!
+
+[![Sony SRS-XB33 - Altavoz Bluetooth Potent](https://m.media-amazon.com/images/I/41TBagNEo6L._SL400_.jpg)](https://www.amazon.es/dp/B08B436CLM/?tag=tolees-21)
+
+ℹ️:
+
+- Haz tu fiesta aún más grande, conecta hasta 100 altavoces inalámbricos compatibles o haz stereo pair
+- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
+- Carga tu smartphone directamente desde tu altavoz SRS-XB33
+- Ilumínalo todo y mueve tu esqueleto con el altavoz customizable y multicolor
+- Altavoz portátil resistente al agua, al polvo, al óxido (IP67), al agua salada y a los golpes (hasta 1.2 m) con hasta 24h de batería
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B436CLM/?tag=tolees-21)
