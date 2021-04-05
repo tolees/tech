@@ -28,9 +28,9 @@ Tienes [Altavoz Bluetooth Ducha Impermeable con Ventosa Extraíble  AGPTEK Radio
 
 ℹ️:
 
-- 【Radio FM】Más de 30 emisoras de radio se pueden encontrar y guardar automáticamente, puedes escuchar la radio FM favorita en deportes al aire libre, casa, playa, piscina, cocin y baño,etc.
 - 【Micrófono Incorporado】Así que usted puede tomar una llamada telefónica a través de este altavoz en el coche, cuarto de baño, en el hogar y la oficina ect., siempre y cuando el altavoz se conecta a su teléfono.
 - 【Sonido Nítido de Alta Calidad】Altavoz 3W proporcionan un sonido es muy equilibrado, fuerte y lleno, rico en graves, y le brindan un mejor disfrute de la música, Radio y llamada. Ahora puede ver instruccion de detalla en nuetro Web (AGPTEK S1B User Manual). Si tiene algun duda, puede conectarnos, gracias
+- 【Radio FM】Más de 30 emisoras de radio se pueden encontrar y guardar automáticamente, puedes escuchar la radio FM favorita en deportes al aire libre, casa, playa, piscina, cocin y baño,etc.
 - 【Bluetooth V4.1】 Se utiliza la última tecnología Bluetooth 4.1 para maximizar la compatibilidad del dispositivo y la velocidad de emparejamiento. Fácil conexión al dispositivos, como MP3, Tableta, smartphone ect. Soporta una distancia de hasta 10 metros.
 - 【Reloj & Ventosa Súper Fuerte】 Con pantalla LED que mostrar la hora claramente y la emisora de radio. (Nota: En el modo FM, la función de ajuste no está disponible.), Diseño con Ventosa Extraíble, diseño de copa de succión, fácil de colgar en la pared, vidrio, encimeras, lado bañera o cualquiera superficie lisa.
 

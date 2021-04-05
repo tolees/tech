@@ -28,10 +28,10 @@ Ahora mismo tienes [TaoTronics Adaptador Bluetooth 5.0 Transmisor Receptor 2 en 
 
 🔎:
 
-- 【Cable Libre de Itinerancia】: Mantener su viejo estéreo o auriculares con cable vivo con la nueva conexión inalámbrica Bluetooth, empareje con el teléfono inteligente o una tableta de más de 9 metros de distancia, y disfrutar de un gran cable de conexión de la música
-- 【3,5mm ＆ Óptica】: Se obtiene la máxima flexibilidad con soporte tanto para 3,5 mm (AUX y RCA) y Óptica Digital TOSLINK, tanto de entrada como de salida son compatibles
 - 【Transmisor ＆ Receptor 2 en 1】: Un adaptador portátil de Bluetooth 5.0 para usar como transmisor o receptor, puede emparejarse con dos auriculares / altavoces a la vez
-- 【15 Horas de Uso y Re-emparejarse Automatico】: La batería interna soporta carga y transmisión al mismo tiempo, y se vuelve a sincronizar automáticamente con los dispositivos emparejados anteriormente
 - 【Retraso Bajo】: La tecnología aptX baja latencia eliminan retardo de audio Bluetooth, por lo que puede ver la televisión / película / vídeo y escuchar el sonido de alta claridad en perfecta sincronización. Nota: aptX Low Latency SOLAMENTE es compatible con el modo TX
+- 【3,5mm ＆ Óptica】: Se obtiene la máxima flexibilidad con soporte tanto para 3,5 mm (AUX y RCA) y Óptica Digital TOSLINK, tanto de entrada como de salida son compatibles
+- 【15 Horas de Uso y Re-emparejarse Automatico】: La batería interna soporta carga y transmisión al mismo tiempo, y se vuelve a sincronizar automáticamente con los dispositivos emparejados anteriormente
+- 【Cable Libre de Itinerancia】: Mantener su viejo estéreo o auriculares con cable vivo con la nueva conexión inalámbrica Bluetooth, empareje con el teléfono inteligente o una tableta de más de 9 metros de distancia, y disfrutar de un gran cable de conexión de la música
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N34G7IT/?tag=tolees-21)
