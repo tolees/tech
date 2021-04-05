@@ -29,8 +29,8 @@ En este momento está [Fujifilm Instax Mini 9 - Cámara instantánea  Solo cáma
 🔎:
 
 - La lente macro de aproximación ¡puedes hacer fotos de cerca (35cm)
-- Incluye una correa a juego y un sticker de regalo
 - Dispone de espejo para selfies
+- Incluye una correa a juego y un sticker de regalo
 - Dial de ajuste del brillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06Y698TWW/?tag=tolees-21)
