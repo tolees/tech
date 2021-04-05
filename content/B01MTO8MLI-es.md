@@ -30,8 +30,8 @@ En este momento está [Uoopo LC223XL Compatible Cartuchos de tinta Brother LC223
 
 - Impresoras compatibles : Brother MFC-J480DW, MFC-J880DW, MFC-J680DW, DCP-J562DW, MFC-J5320DW, MFC-J5720DW, MFC-J5625DW, MFC-J4620DW, MFC-J4420DW, MFC-J4625DW, MFC-J5620DW, DCP-J4120DW
 - Página de Rendimiento: Cada cartucho de tinta negra imprime más de 750 páginas. Cada cartucho de color imprime más de 650 páginas (5% de cobertura).
+- Todos los productos Uoopo están certificados según ISO 9001, ISO14001, ROHS, CE y MSDS. Vida colorida de tinta de gran calidad, Para asegurar la impresión liso y el color fino, > 95% de reducción fuert.
 - Paquete incluido: Uoopo 223 XL Compatible Brother lc223 lc223XL lc 223 lc 223XL Cartuchos de tinta, Juego de 15 (6 Negro, 3 Cian, 3 Magenta, 3 Amarillo)
 - Uoopo se compromete a proporcionarle productos compatibles de alto valor: cartuchos de tinta. Chips de alta tecnología para garantizar la compatibilidad. Una variedad de tintas de alta calidad garantizan una impresión suave y colores delicados. Fácil de instalar y muy bajo costo.
-- Todos los productos Uoopo están certificados según ISO 9001, ISO14001, ROHS, CE y MSDS. Vida colorida de tinta de gran calidad, Para asegurar la impresión liso y el color fino, > 95% de reducción fuert.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MTO8MLI/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [KOOTION 64GB Pendrive USB C 3.0 Memoria USB Tipo C 64 Giga OTG USB C Stic
 
 ℹ️:
 
-- Simplemente conecte su pendrive y podrá ver videos o escuchar su música desde su dispositivo, para que pueda tomar fotografías y descargar archivos directamente a su dispositivo.
 - Fabricado en metal y ABS, cómodo de sujetar. Disponen de 2 sombreros para mayor protección en ambos lados del polvo o manchas.
 - Pendrive 2 en 1: cuenta con conexiones duales USB A 3.0 y USB tipo C, lo que hace que la transferencia de archivos sea realmente fácil para transferir archivos, música y películas entre teléfonos inteligentes Android y tabletas y PC con Android.
+- Simplemente conecte su pendrive y podrá ver videos o escuchar su música desde su dispositivo, para que pueda tomar fotografías y descargar archivos directamente a su dispositivo.
 - Garantía de 1 año: KOOTION ofrece un buen servicio postventa al cliente. Mantienes un problema con el producto, no dude en contactar con nosotros primero, the resolveremos el problema cuanto antes.
 - Nada mejor que agregar 64GB de memoria al instante a su dispositivo, cuando desea mantener su teléfono limpio y con memoria libre.
 

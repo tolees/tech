@@ -28,10 +28,10 @@ Ahora mismo tienes [BENFEI DisplayPort a VGA 2 Paquete Adaptador DP a VGA Chapad
 
 🔎:
 
-- Espejo audio y vídeo desde su ordenador a un HDTV con HDMI y configurar su monitor para un escritorio o pantallas extendido.
-- Soporta vídeo de hasta 1920 x 1200 / 1080P (Full HD) y audio impecable paso a paso para digital 7.1, 5.1 o 2 canales sin comprimir.
 - Conecta un ordenador equipado con DisplayPort a un HDTV, monitor o proyector con salida HDMI.
+- Soporta vídeo de hasta 1920 x 1200 / 1080P (Full HD) y audio impecable paso a paso para digital 7.1, 5.1 o 2 canales sin comprimir.
 - Cordón chapado en oro, conductores de cobre descubiertos y lámina y blindaje trenzado que se combinan para proporcionar un rendimiento de cable superior y conectividad fiable.
+- Espejo audio y vídeo desde su ordenador a un HDTV con HDMI y configurar su monitor para un escritorio o pantallas extendido.
 - Conexión hermética, conector DisplayPort con cierres para evitar que se suelte.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FR8LM2S/?tag=tolees-21)
