@@ -28,13 +28,13 @@ Ahora mismo tienes [Acer - 612786 Monitor de 21.5 pulgadas  pantalla LED  1920 x
 
 🔎:
 
-- Angulo de visión horizontal y vertical de 178°
-- Soporte VESA de 100 x 100
-- 450 mW (en espera)
 - Puertos de entrada VGA, DVI, HDMI
-- Pantalla de 21.5" con una resolución de 1920 x 1080 pixeles con 16.78 millones colores
-- Brillo de pantalla: 200 cd/m² y un tiempo de respuesta de 5 ms
+- 450 mW (en espera)
 - 350 mW (apagado)
+- Pantalla de 21.5" con una resolución de 1920 x 1080 pixeles con 16.78 millones colores
 - 18.10 W (clasificación ENERGY STAR)
+- Soporte VESA de 100 x 100
+- Brillo de pantalla: 200 cd/m² y un tiempo de respuesta de 5 ms
+- Angulo de visión horizontal y vertical de 178°
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Z03HSP2/?tag=tolees-21)
