@@ -30,9 +30,9 @@ Ahora mismo tienes [Gigaset AS405 Duo - Teléfono Inalámbrico  Pack de 2 Unidad
 
 - Letra tamaño gigante
 - Pantalla iluminada
-- Telefono duo; pon un teléfono en el salón y otro en una habitación
 - Llamadas gratuitas ente los terminales
 - Una sola conexion a la red telefonica; los telefonos se conectan a la base
+- Telefono duo; pon un teléfono en el salón y otro en una habitación
 - Agenda 100 contactos
 - Manos libres
 
