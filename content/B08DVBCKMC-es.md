@@ -28,9 +28,9 @@ En este momento está [realme C11 - Smartphone de 6.52"  2 GB de RAM + 32 GB de 
 
 🔎:
 
-- 6.52" (16.5cm) Mini-drop Fullscreen
-- 5000mAh Massive Battery
 - 2 Años de garantía del fabricante (ES)
+- 6.52" (16.5cm) Mini-drop Fullscreen
 - Diseño geométrico
+- 5000mAh Massive Battery
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DVBCKMC/?tag=tolees-21)
