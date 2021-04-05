@@ -28,10 +28,10 @@ Ahora mismo tienes [RuoCherg Alfombrillas de Ratón RGB  Grande LED Gaming Mouse
 
 🔎:
 
+- 【Fácil de Usar】Alimentado por USB y no requiere controlador. Presionar el botón una vez puede cambiar los modos LED. Presionando y sosteniendo el botón por 3 segundos puede apagarlo.
+- 【Modos de iluminación RGB】Diseñado con bordes iluminados transparentes, RGB Gaming Mouse Pad 4 mm Super Glow Fiber, 10 modos de iluminación, 7 tipos de luz monocromática. La función de memoria ayuda a recordar su última opción de modo de luz.
+- 【Ultra Surface Smooth & Impermeable】Tejido de seda tratado para asegurar un movimiento suave. Optimizado para un movimiento rápido, manteniendo excelente velocidad y control durante el juego. Este cojín de ratón tiene un revestimiento impermeable para evitar daños causados ​​por bebidas derramadas u otros accidentes.
 - 【Applic Amplia aplicabilidad】La superficie de 300 mm x 250 mm ofrece espacio suficiente para el ratón para jugar de forma competitiva y, además, encaja en su sistema de escritorio. Disponible para todos los tipos de mouse, tamaño ideal para uso diario.
 - 【Base de goma antideslizante】La base de goma antideslizante resistente evita que este cojín de ratón resbale o se mueva. No se preocupe por el deslizamiento o la deriva en el escritorio mientras lo está utilizando. Este mouse pad es liviano y fácil de transportar. Fácil de plegar, adecuado para viajar.
-- 【Modos de iluminación RGB】Diseñado con bordes iluminados transparentes, RGB Gaming Mouse Pad 4 mm Super Glow Fiber, 10 modos de iluminación, 7 tipos de luz monocromática. La función de memoria ayuda a recordar su última opción de modo de luz.
-- 【Fácil de Usar】Alimentado por USB y no requiere controlador. Presionar el botón una vez puede cambiar los modos LED. Presionando y sosteniendo el botón por 3 segundos puede apagarlo.
-- 【Ultra Surface Smooth & Impermeable】Tejido de seda tratado para asegurar un movimiento suave. Optimizado para un movimiento rápido, manteniendo excelente velocidad y control durante el juego. Este cojín de ratón tiene un revestimiento impermeable para evitar daños causados ​​por bebidas derramadas u otros accidentes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0871YYFW2/?tag=tolees-21)
