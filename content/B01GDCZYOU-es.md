@@ -28,13 +28,13 @@ Está [Asus ROG Spatha - Ratón gaming con 12 botones pAsus ROGramables  hasta 8
 
 ℹ️:
 
-- Más flexibilidad, conexión por cable e inalámbrica
+- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
+- Interfaz ROG Armoury para personalizar los botones, rendimiento e iluminación
+- Memoria flash integrada para guardar tus perfiles
+- Chasis de magnesio muy resistente
 - Efectos RGB personalizables en tres áreas
 - Zócalos intercambiables para personalizar la resistencia al clic de los botones
-- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
-- Memoria flash integrada para guardar tus perfiles
+- Más flexibilidad, conexión por cable e inalámbrica
 - 12 botones programables, diseño optimizado para juegos MMO
-- Chasis de magnesio muy resistente
-- Interfaz ROG Armoury para personalizar los botones, rendimiento e iluminación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GDCZYOU/?tag=tolees-21)

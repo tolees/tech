@@ -28,10 +28,10 @@ Está [Sony NW-WS414 Reproductor de MP3 todo-en-uno impermeable  8 GB - Negro](h
 
 ℹ️:
 
+- Walkman resistente al agua salada para actividades deportivas
+- Formatos compatibles: MP3/WMA/PCM lineal/AAC
 - Autonomía de batería de hasta 12 horas
 - Diseño todo en uno sin cables adicionales
-- Walkman resistente al agua salada para actividades deportivas
 - Modo de carga rápida para aproximativo 3 minutos permiten unos 60 minutos de reproducción
-- Formatos compatibles: MP3/WMA/PCM lineal/AAC
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21)
