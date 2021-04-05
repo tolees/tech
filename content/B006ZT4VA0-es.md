@@ -28,10 +28,10 @@ Tienes [Amazon Basics - Atril ajustable para tablet](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Distribuido por Amazon; garantía de un año de Amazon Basics.
 - Compatible con Apple iPad 1, iPad 2, Nuevo iPad, Kindle Fire, Kindle Fire HD, Kindle Touch, Kindle y otros tablets y e-readers con o sin funda.
+- Distribuido por Amazon; garantía de un año de Amazon Basics.
 - Se envía en un paquete abrefácil de Amazon.
-- Extremadamente portátil, cabe en cualquier bolsa o bolsillo.
 - El diseño antideslizante fija el soporte a las superficies planas.
+- Extremadamente portátil, cabe en cualquier bolsa o bolsillo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006ZT4VA0/?tag=tolees-21)
