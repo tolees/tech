@@ -28,10 +28,10 @@ En este momento está [KOOTION Tarjeta MicroSD 64GB Micro SD 64GB Memoria Micro 
 
 🔎:
 
-- ▲ Servicio al cliente postventa：Kootion ofrece 2 año de garantía. Si tiene un problema con el producto, no dude en contactar con nosotros primero, le resolveremos el problema cuanto antes.
-- ▲ Amplia aplicación: la tarjeta de Memoria SDXC es perfecta para teléfonos inteligentes Android, tabletas, cámaras digitales, switch, cámaras deportivas, drones y sistema de vigilancia, etc. Se puede usar para almacenar o hacer copias de seguridad de fotos de alta resolución, videos, documentos, música y más.
-- ▲ Alta velocidad de transferencia: la tarjeta de memoria micro SD adopta (U3 V30 A1) y le proporciona 90 MB/s(Máxima de hasta 100MB/s) de velocidad de lectura y 35MB/s de velocidad de escritura, y admite grabación de video 4K Full HD. (La velocidad puede variar según el dispositivo host, la interfaz, las condiciones de uso y otros factores).
-- ▲ Atención: La forma predeterminada de la tarjeta micro SD es EXFAT y la capacidad real es un poco menos que la marcada, eso es normal, no se preocupe.
 - ▲ Confiabilidad y seguridad: la tarjeta TF utiliza el chip de alta calidad, presenta resistencia al agua, antimagnético, a prueba de golpes, resistente a altas o bajas temperaturas y siempre mantiene los datos seguros.
+- ▲ Amplia aplicación: la tarjeta de Memoria SDXC es perfecta para teléfonos inteligentes Android, tabletas, cámaras digitales, switch, cámaras deportivas, drones y sistema de vigilancia, etc. Se puede usar para almacenar o hacer copias de seguridad de fotos de alta resolución, videos, documentos, música y más.
+- ▲ Atención: La forma predeterminada de la tarjeta micro SD es EXFAT y la capacidad real es un poco menos que la marcada, eso es normal, no se preocupe.
+- ▲ Servicio al cliente postventa：Kootion ofrece 2 año de garantía. Si tiene un problema con el producto, no dude en contactar con nosotros primero, le resolveremos el problema cuanto antes.
+- ▲ Alta velocidad de transferencia: la tarjeta de memoria micro SD adopta (U3 V30 A1) y le proporciona 90 MB/s(Máxima de hasta 100MB/s) de velocidad de lectura y 35MB/s de velocidad de escritura, y admite grabación de video 4K Full HD. (La velocidad puede variar según el dispositivo host, la interfaz, las condiciones de uso y otros factores).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WF7L8BK/?tag=tolees-21)

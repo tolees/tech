@@ -28,10 +28,10 @@ En este momento está [DLveer Funda para Lenovo Tab M10 HD  Modelo:TB-X306X / TB
 
 🔎:
 
-- DLveer Lenovo Tab M10 HD 10.1 2020 Funda,Sólo para nuevo Lenovo Tab HD M10(2nd Generation)tableta. No es compatible con otro Lenovo modelo.
-- DLveer Funda para Lenovo Tab M10 HD 2nd Generation , Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.
-- DLveer Lenovo Tab M10 HD 2nd 10.1 funda,Tres veces plegables: Conveniente soporte posición para ver la película o escribir.
 - DLveer Lenovo Tab M10 HD Funda(TB-X306X / TB-X306F),Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos.
+- DLveer Lenovo Tab M10 HD 2nd 10.1 funda,Tres veces plegables: Conveniente soporte posición para ver la película o escribir.
+- DLveer Funda para Lenovo Tab M10 HD 2nd Generation , Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.
 - DLveer Funda para Lenovo Tab M10 10.1 2020,Hecho con PC y PU.Exterior sintético y interior liso para la protección.
+- DLveer Lenovo Tab M10 HD 10.1 2020 Funda,Sólo para nuevo Lenovo Tab HD M10(2nd Generation)tableta. No es compatible con otro Lenovo modelo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NH95D8T/?tag=tolees-21)
