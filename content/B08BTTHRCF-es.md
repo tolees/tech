@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS S425MC-A3200G0040 - Sobremesa de 20 con un 20.04 % de descuento'
-date: 2021-03-22 17:05:19
+date: 2021-04-06 19:45:58
 image: 'https://m.media-amazon.com/images/I/412FzjgipEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ En este momento está [ASUS S425MC-A3200G0040 - Sobremesa de 20L  Ryzen 3 3200G 
 
 🔎:
 
-- Dos puertos de transmisión video independientes (VGA + DVI-D)
 - Sin sistema operativo
-- 3 puertos de expansión: 1x PCIex1 + 2x PCIex16
-- Memoria RAM de 8GB (8GB) DDR4 2666MHz
-- Tarjeta gráfica integrada AMD Radeon RX Vega 8 Graphics
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe 3.0
 - Tamaño de la caja 20 L con un diseño adaptado para una facilidad de coger
-- Procesador AMD Ryzen 3 3200G APU (4 Núcleos, 4 Subprocesos, Caché: 2MB & 4MB Level 2&3, 3.60GHz hasta 4.00GHz, 64-bit)
+- Memoria RAM de 8GB (8GB) DDR4 2666MHz
 - Conectividad completa: 10 puertos USB
+- Dos puertos de transmisión video independientes (VGA + DVI-D)
+- 3 puertos de expansión: 1x PCIex1 + 2x PCIex16
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe 3.0
+- Procesador AMD Ryzen 3 3200G APU (4 Núcleos, 4 Subprocesos, Caché: 2MB & 4MB Level 2&3, 3.60GHz hasta 4.00GHz, 64-bit)
+- Tarjeta gráfica integrada AMD Radeon RX Vega 8 Graphics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BTTHRCF/?tag=tolees-21)

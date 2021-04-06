@@ -28,10 +28,10 @@ Ahora mismo tienes [XIAOKOA USB PC Micrófono  Plug and Play Computadora Omnidir
 
 🔎:
 
-- 【Micrófono flexible】： Los cuellos de ganso flexibles de 360 ° garantizan que pueda ajustar el ángulo, la altura o el giro adecuados para mostrar su voz perfecta.
-- 【Micrófono omnidireccional】：Recoge el sonido en todas las direcciones.Con alta sensibilidad, la distancia de recogida es larga.La calidad del sonido es clara y estable.El sonido es real y no distorsionado.
 - 【Luz LED】: Luces LED incorporadas.Le puede proporcionar un ambiente elegante.Encienda el interruptor del micrófono, el micrófono comienza a funcionar y la luz LED se enciende.Apague los interruptores del micrófono y todos dejarán de funcionar.Puede mostrar efectos de iluminación y hacer que su micrófono sea más elegante.
-- 【Micrófono usb】: El micrófono utiliza un puerto USB.Plug and play. No es necesario instalar controladores.Es compatible con una variedad de sistemas informáticos.Es compatible con una variedad de sistemas Windows y sistemas Mac.
 - 【Micrófono multiusos】: Se puede utilizar en una variedad de situaciones. Tales como: chat en línea, videoconferencia, juegos, grabación de videos, grabación de sonidos, discursos.
+- 【Micrófono omnidireccional】：Recoge el sonido en todas las direcciones.Con alta sensibilidad, la distancia de recogida es larga.La calidad del sonido es clara y estable.El sonido es real y no distorsionado.
+- 【Micrófono usb】: El micrófono utiliza un puerto USB.Plug and play. No es necesario instalar controladores.Es compatible con una variedad de sistemas informáticos.Es compatible con una variedad de sistemas Windows y sistemas Mac.
+- 【Micrófono flexible】： Los cuellos de ganso flexibles de 360 ° garantizan que pueda ajustar el ángulo, la altura o el giro adecuados para mostrar su voz perfecta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXGLGRG/?tag=tolees-21)
