@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NW-WS414 Reproductor de MP3 todo-en al 28.37 % de descuento'
-date: 2021-04-05 16:15:38
+date: 2021-04-06 21:14:25
 image: 'https://m.media-amazon.com/images/I/41ywcW19YIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21'
 descuento: '28.37'
-average: '101.217272727273'
+average: '99.9450000000002'
 ---
 
 Está [Sony NW-WS414 Reproductor de MP3 todo-en-uno impermeable  8 GB - Negro](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21) con 28.37 de descuento por 85.95 EUR (original: 120.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sony NW-WS414 Reproductor de MP3 todo-en-uno impermeable  8 GB - Negro](h
 
 ℹ️:
 
-- Walkman resistente al agua salada para actividades deportivas
-- Formatos compatibles: MP3/WMA/PCM lineal/AAC
-- Autonomía de batería de hasta 12 horas
-- Diseño todo en uno sin cables adicionales
 - Modo de carga rápida para aproximativo 3 minutos permiten unos 60 minutos de reproducción
+- Autonomía de batería de hasta 12 horas
+- Formatos compatibles: MP3/WMA/PCM lineal/AAC
+- Walkman resistente al agua salada para actividades deportivas
+- Diseño todo en uno sin cables adicionales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21)

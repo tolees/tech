@@ -29,9 +29,9 @@ Ahora mismo tienes [NewBull Barra de Sensor de Movimiento Remoto con Cable IR Ra
 🔎:
 
 - ✮ Sensor / barra de sensor de repuesto para las consolas Wii y Wii U.
-- ✮ No importa dónde se coloque la barra del sensor, su controlador debe estar hacia la dirección de la barra del sensor.
-- ✮ Fácil de conectar y usar, todo lo que tiene que hacer es ajustar la calibración del sensor.
 - ✮ El cable largo le permite montar el sensor sobre su TV o en la pared sin preocuparse de estirar el cable.
 - ✮ Incluye soporte con adhesivo para una fácil conexión a la televisión, monitor o cualquier superficie lisa. (Sistema de Wii no incluido).
+- ✮ Fácil de conectar y usar, todo lo que tiene que hacer es ajustar la calibración del sensor.
+- ✮ No importa dónde se coloque la barra del sensor, su controlador debe estar hacia la dirección de la barra del sensor.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CPQZRG2/?tag=tolees-21)
