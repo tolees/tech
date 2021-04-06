@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital - WD My Passport disco d al 18.23 % de descuento'
-date: 2021-03-25 02:50:33
+title: 'Western Digital - WD My Passport disco d al 25.74 % de descuento'
+date: 2021-04-06 10:56:46
 image: 'https://m.media-amazon.com/images/I/41l7ACmNooL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07VSH3ML6-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07VSH3ML6-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','western digital', ]
-actualPrice: 109.0 EUR
+actualPrice: 98.99 EUR
 currency: EUR
-price: 109.0
+price: 98.99
 comparePrice: 133.3 EUR
 prodname: 'Western Digital - WD My Passport disco duro portátil'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07VSH3ML6/?tag=tolees-21'
-descuento: '18.23'
-average: '107.0404'
+descuento: '25.74'
+average: '106.177857142857'
 ---
 
-Está [Western Digital - WD My Passport disco duro portátil](https://www.amazon.es/dp/B07VSH3ML6/?tag=tolees-21) con 18.23 de descuento por 109.0 EUR (original: 133.3 EUR) en el siguiente enlace!
+Está [Western Digital - WD My Passport disco duro portátil](https://www.amazon.es/dp/B07VSH3ML6/?tag=tolees-21) con 25.74 de descuento por 98.99 EUR (original: 133.3 EUR) en el siguiente enlace!
 
 [![Western Digital - WD My Passport disco d](https://m.media-amazon.com/images/I/41l7ACmNooL._SL400_.jpg)](https://www.amazon.es/dp/B07VSH3ML6/?tag=tolees-21)
 
