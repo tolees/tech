@@ -28,11 +28,11 @@ En este momento está [Asus MB169C+ - Monitor portátil de 15.6" FullHD  1920x10
 
 🔎:
 
-- Asus MB169C+, monitor portátil de 15.6" FullHD (1920 x 1080) con funda plegable
-- Entrada de señal de tipo DisplayPort vía USB-C
-- Tecnología de visualización: LED
 - Ofrece un brillo de 220 cd/m2 con tiempo de respuesta de 5 ms
+- Tecnología de visualización: LED
 - Relación de aspecto 16:9 y de contraste 700:1
+- Entrada de señal de tipo DisplayPort vía USB-C
 - Tecnología Conectividad USB-C
+- Asus MB169C+, monitor portátil de 15.6" FullHD (1920 x 1080) con funda plegable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B6JD88E/?tag=tolees-21)
