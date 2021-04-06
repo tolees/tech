@@ -28,10 +28,10 @@ Ahora mismo tienes [Advanced GQ EMF-390 Multi-Field Electromagnetic Radiation 3-
 
 🔎:
 
-- RF hasta 10 GHz y EMF hasta 400kHz
+- analizador de espectro de radiofrecuencia incorporado y navegador GQ RF para el control de RF en tiempo real.
 - sugerencia de seguridad le permite entender la situación actual al instante.
 - Identificar / reconocer las posibles fuentes comunes, como la línea eléctrica, Torre de la célula, microondas, etc. estático
-- analizador de espectro de radiofrecuencia incorporado y navegador GQ RF para el control de RF en tiempo real.
 - Múltiples sensores de alta sensibilidad para la detección instalados Línea de alimentación, medidores inteligentes, teléfonos celulares, microondas, etc.
+- RF hasta 10 GHz y EMF hasta 400kHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JGJ897T/?tag=tolees-21)
