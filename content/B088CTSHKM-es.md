@@ -29,9 +29,9 @@ En este momento está [EXTRASTAR 15V 16V 18.5V 19V 19.5V 20V 4.5A 90W Cargador d
 🔎:
 
 - Cargador universal: cargador para computadora portátil de 90 W universal Compatible para la mayoría de las computadoras portátiles. Plug and play, fácil de usar con ajuste automático de voltaje. Puede alimentar sus computadoras portátiles de diferentes marcas con solo un cable de alimentación para computadora portátil.
-- Alta calidad: EXTRASTAR Cargador universal para computadora portátil hecho de materiales duraderos y de alta calidad. Con características de protección contra voltaje incorrecto, cortocircuito, sobrecalentamiento interno
-- Ampliamente compatible：EXTRASTAR Cargador universal para computadora portátil 90w con carga de alta velocidad, compatibilidad para la mayoría de las computadoras portátiles y ultrabooks de la marca. Para Acer DELL HP Fujitsu Gateway Lenovo Samsung Sony Toshiba Laptop y así sucesivamente.
 - Amplio voltaje de salida, 15v-20v - Voltaje de entrada: mundial 100-240V, 50 - 60Hz. Voltaje de salida: DC 15V, 16V, 18. 5V, 19V, 19. 5V, 20V, max 90W.
 - Certificación de seguridad: lista RoHs y CE,cumplir con las normas nacionales de seguridad.
+- Alta calidad: EXTRASTAR Cargador universal para computadora portátil hecho de materiales duraderos y de alta calidad. Con características de protección contra voltaje incorrecto, cortocircuito, sobrecalentamiento interno
+- Ampliamente compatible：EXTRASTAR Cargador universal para computadora portátil 90w con carga de alta velocidad, compatibilidad para la mayoría de las computadoras portátiles y ultrabooks de la marca. Para Acer DELL HP Fujitsu Gateway Lenovo Samsung Sony Toshiba Laptop y así sucesivamente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CTSHKM/?tag=tolees-21)

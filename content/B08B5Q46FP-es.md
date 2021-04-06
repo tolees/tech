@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'POWERADD Batería Externa 10000mAh Power  al 18.19 % de descuento'
-date: 2021-03-03 15:06:33
+title: 'POWERADD Batería Externa 10000mAh Power  al 45.48 % de descuento'
+date: 2021-04-06 15:58:36
 image: 'https://m.media-amazon.com/images/I/31r7IfQ8XiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5Q46FP-es POWERADD Batería Externa 10000mAh Power Bank 18W Cargador...'
 sku: 'B08B5Q46FP-es'
-actualPrice: 17.99 EUR
+tags: [ 'Accesorios para móviles','Bancos de energía portátiles para teléfonos móviles','Cargadores para móviles','Comunicación móvil y accesorios','Electrónica','huawei','iphone','poweradd','samsung','xiaomi', ]
+actualPrice: 11.99 EUR
 currency: EUR
-price: 17.99
+price: 11.99
 comparePrice: 21.99 EUR
 prodname: 'POWERADD Batería Externa 10000mAh Power Bank 18W Cargador Portatil Ultra Compacto Batería Portátil Carga Rapida QC 3.0 para Xiaomi  Samsung  Huawei  iPhone  Airpods  Tablets y Más Dispositivos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'POWERADD'
 buyurl: 'https://www.amazon.es/dp/B08B5Q46FP/?tag=tolees-21'
-descuento: '18.19'
-average: '17.99'
+descuento: '45.48'
+average: '17.6370588235294'
 ---
 
-Está [POWERADD Batería Externa 10000mAh Power Bank 18W Cargador Portatil Ultra Compacto Batería Portátil Carga Rapida QC 3.0 para Xiaomi  Samsung  Huawei  iPhone  Airpods  Tablets y Más Dispositivos](https://www.amazon.es/dp/B08B5Q46FP/?tag=tolees-21) con 18.19 de descuento por 17.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+Está [POWERADD Batería Externa 10000mAh Power Bank 18W Cargador Portatil Ultra Compacto Batería Portátil Carga Rapida QC 3.0 para Xiaomi  Samsung  Huawei  iPhone  Airpods  Tablets y Más Dispositivos](https://www.amazon.es/dp/B08B5Q46FP/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![POWERADD Batería Externa 10000mAh Power ](https://m.media-amazon.com/images/I/31r7IfQ8XiL._SL400_.jpg)](https://www.amazon.es/dp/B08B5Q46FP/?tag=tolees-21)
 
