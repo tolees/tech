@@ -28,10 +28,10 @@ Tienes [Zacro Convertidor de Wii a HDMI Real 720P 1080P HD Salida de Audio Video
 
 ℹ️:
 
-- Conversión de reconocimiento automático 720p o 1080p.
-- Soporta todos los modos de visualización de Wii (NTSC 480i 480p, PAL 576i). El indicador LED muestra el estado y el modo de visualización actual .
-- El conector de audio adicional de 3.5 mm te permite conectar auriculares o parlantes, para que puedas disfrutar de juegos por la noche sin preocuparte de molestar a los demás.
 - Se conecta al puerto de video estándar de Wii y a un puerto HDMI estándar; Convierta su Nintendo Wii a un dispositivo compatible con HDMI con audio de 3.5 mm.
+- Soporta todos los modos de visualización de Wii (NTSC 480i 480p, PAL 576i). El indicador LED muestra el estado y el modo de visualización actual .
+- Conversión de reconocimiento automático 720p o 1080p.
 - Vídeo y audio en formato HDMI digital completo, ¡sin pérdida de transmisión! Funciona con el monitor DVI. Plug and play sobre la marcha .
+- El conector de audio adicional de 3.5 mm te permite conectar auriculares o parlantes, para que puedas disfrutar de juegos por la noche sin preocuparte de molestar a los demás.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BBNJY5M/?tag=tolees-21)

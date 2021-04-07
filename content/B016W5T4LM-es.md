@@ -28,9 +28,9 @@ Tienes [Thomson WS02 - Altavoz portátil](https://www.amazon.es/dp/B016W5T4LM/?t
 
 🔎:
 
+- Cómoda asa de transporte con acabado de polipiel
 - Bluetooth 4.0 con emparejamiento NFC
 - Altavoz inalámbrico portátil
 - Potencia de salida 12 W
-- Cómoda asa de transporte con acabado de polipiel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016W5T4LM/?tag=tolees-21)
