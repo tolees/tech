@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital - WD Elements - Disco du al 24.08 % de descuento'
-date: 2021-03-23 10:06:15
+title: 'Western Digital - WD Elements - Disco du al 21.06 % de descuento'
+date: 2021-04-07 09:19:10
 image: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B06XG892ZH-es Western Digital - WD Elements - Disco duro externo...'
 sku: 'B06XG892ZH-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','western digital', ]
-actualPrice: 80.99 EUR
+actualPrice: 84.21 EUR
 currency: EUR
-price: 80.99
+price: 84.21
 comparePrice: 106.68 EUR
 prodname: 'Western Digital - WD Elements - Disco duro externo portátil de 3 TB con USB 3.0  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21'
-descuento: '24.08'
-average: '81.5651219512195'
+descuento: '21.06'
+average: '81.6132558139535'
 ---
 
-Ahora mismo tienes [Western Digital - WD Elements - Disco duro externo portátil de 3 TB con USB 3.0  color negro](https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21) a 80.99 EUR (original: 106.68 EUR) (24.08 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Western Digital - WD Elements - Disco duro externo portátil de 3 TB con USB 3.0  color negro](https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21) a 84.21 EUR (original: 106.68 EUR) (21.06 %  de descuento) en el siguiente enlace!
 
 [![Western Digital - WD Elements - Disco du](https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL400_.jpg)](https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21)
 

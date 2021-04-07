@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thomson WS02 - Altavoz portátil al 26.93 % de rebaja'
-date: 2021-04-05 22:33:19
+date: 2021-04-07 10:24:02
 image: 'https://m.media-amazon.com/images/I/51NpNiRiu1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Thomson WS02 - Altavoz portátil](https://www.amazon.es/dp/B016W5T4LM/?t
 
 🔎:
 
-- Altavoz inalámbrico portátil
 - Bluetooth 4.0 con emparejamiento NFC
+- Altavoz inalámbrico portátil
 - Potencia de salida 12 W
 - Cómoda asa de transporte con acabado de polipiel
 
