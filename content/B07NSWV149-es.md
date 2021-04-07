@@ -28,10 +28,10 @@ Tienes [Gigabyte Technology - Gigabyte AORUS RGB M.2 NVMe SSD 512GB - Disco Duro
 
 🔎:
 
-- Peso del producto: 31.8 kg
 - Velocidad de escritura: 2000 MB/s
+- Componente para: PC y ordenador portátil
+- Peso del producto: 31.8 kg
 - Intervalo de temperatura operativa: 0 - 70 °C
 - Dimensiones del producto: 0.2 x 2.2 x 8 cm
-- Componente para: PC y ordenador portátil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NSWV149/?tag=tolees-21)
