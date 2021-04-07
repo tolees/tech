@@ -28,10 +28,10 @@ Está [Trípode de Cámara TACKLIFE 41cm/16in-136.5cm/54in   Trípode Ligero de 
 
 ℹ️:
 
-- 📸【Obturador Inalámbrico Bluetooth+Burbuja Horizontal】Se puede conectar a Bluetooth y controlar de forma remota, lo que proporciona más posibilidades para surotaje. El diseño de la burbuja horizontal puede ver intuitivamente si el equipo y el suelo están nivelados y evitar que la imagen se incline
-- 📸【Plataforma Desmontable + Soporte para Teléfono】La base es desmontable para facilitar la instalación de la cámara. Está equipado con un soporte para teléfono móvil que es conveniente para colocar el teléfono móvil
-- 📸【Rotación de Múltiples Ángulos +3 Cerradura de Piernas】El ángulo se puede ajustar en las direcciones horizontal y vertical girando el mango y los botones. Hay tres cerraduras de piernas para controlar la altura para satisfacer sus diversas necesidades
 - 📸【 Ajuste de Altura + Peso Máximo de Carga】Longitud de transporte: 43 cm / 17 pulgadas. Ajuste de altura de trabajo: 41 cm / 16 pulgadas - 140 cm / 55 pulgadas. Peso neto: 0,59 kg. Capacidad de carga：3 kg
 - 📸【Contenido del Paquete】 1 x trípode de cámara, 1 x bolsa de transporte, 1 x manual en español (incluidos otros idiomas), 1 x tarjeta de garantía de 24 meses, 1 x control remoto Bluetooth, 1 x soporte para teléfono
+- 📸【Rotación de Múltiples Ángulos +3 Cerradura de Piernas】El ángulo se puede ajustar en las direcciones horizontal y vertical girando el mango y los botones. Hay tres cerraduras de piernas para controlar la altura para satisfacer sus diversas necesidades
+- 📸【Obturador Inalámbrico Bluetooth+Burbuja Horizontal】Se puede conectar a Bluetooth y controlar de forma remota, lo que proporciona más posibilidades para surotaje. El diseño de la burbuja horizontal puede ver intuitivamente si el equipo y el suelo están nivelados y evitar que la imagen se incline
+- 📸【Plataforma Desmontable + Soporte para Teléfono】La base es desmontable para facilitar la instalación de la cámara. Está equipado con un soporte para teléfono móvil que es conveniente para colocar el teléfono móvil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVM7RJ6/?tag=tolees-21)

@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Descuento del 41.35 % en Sony Alpha ILCE-7K - Cámara EVIL  sensor'
-date: 2021-02-25 14:32:15
+title: 'Descuento del 40.40 % en Sony Alpha ILCE-7K - Cámara EVIL  sensor'
+date: 2021-04-07 17:34:01
 image: 'https://m.media-amazon.com/images/I/510OOSmhdnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FWUDEEC-es Sony Alpha ILCE-7K - Cámara EVIL sensor Full Frame de 35...'
 sku: 'B00FWUDEEC-es'
-actualPrice: 821.1 EUR
+tags: [ 'Cámaras EVIL digitales','Cámaras digitales','Electrónica','Fotografía y videocámaras','full','hd','sony', ]
+actualPrice: 450.0 EUR
 currency: EUR
-price: 821.1
-comparePrice: 1400.0 EUR
+price: 450.0
+comparePrice: 755.0 EUR
 prodname: 'Sony Alpha ILCE-7K - Cámara EVIL  sensor Full Frame de 35 mm  24.3 Mp  procesado en 16 bits  visor OLED  vídeo Full HD  Wi-Fi y NFC  objetivo 28-70 mm f/3.5-5.6 OSS   color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00FWUDEEC/?tag=tolees-21'
-descuento: '41.35'
-average: '792.486896551724'
+descuento: '40.40'
+average: '781.070666666667'
 ---
 
-Tienes [Sony Alpha ILCE-7K - Cámara EVIL  sensor Full Frame de 35 mm  24.3 Mp  procesado en 16 bits  visor OLED  vídeo Full HD  Wi-Fi y NFC  objetivo 28-70 mm f/3.5-5.6 OSS   color negro](https://www.amazon.es/dp/B00FWUDEEC/?tag=tolees-21) con un 41.35 % de descuento con precio de oferta de 821.1 EUR (original: 1400.0 EUR) en el siguiente enlace!
+Tienes [Sony Alpha ILCE-7K - Cámara EVIL  sensor Full Frame de 35 mm  24.3 Mp  procesado en 16 bits  visor OLED  vídeo Full HD  Wi-Fi y NFC  objetivo 28-70 mm f/3.5-5.6 OSS   color negro](https://www.amazon.es/dp/B00FWUDEEC/?tag=tolees-21) con un 40.40 % de descuento con precio de oferta de 450.0 EUR (original: 755.0 EUR) en el siguiente enlace!
 
 [![Sony Alpha ILCE-7K - Cámara EVIL  sensor](https://m.media-amazon.com/images/I/510OOSmhdnL._SL400_.jpg)](https://www.amazon.es/dp/B00FWUDEEC/?tag=tolees-21)
 
