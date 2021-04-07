@@ -28,10 +28,10 @@ Está [TP-Link TL-SG1008D - Gigabit Switch de Red con 8 Puertos  10/100/1000Mbps
 
 ℹ️:
 
+- La tecnología green ethernet ahorra energía hasta un 80 por ciento
+- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
 - Plug and play, no requiere configuración
 - Switch gigabit de 8 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - El control de flujo IEEE 8023 x proporciona una transferencia de datos confiable
-- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
-- La tecnología green ethernet ahorra energía hasta un 80 por ciento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YMTI6WO/?tag=tolees-21)

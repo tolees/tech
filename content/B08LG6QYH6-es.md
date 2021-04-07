@@ -28,13 +28,13 @@ Está [MSI Modern 14 B11SB-008ES - Ordenador portátil de 14" FullHD  Intel Core
 
 ℹ️:
 
+- Capacidad del disco duro (GB): 1.0 TB
+- Tarjeta gráfica nvidia geforce mx450, 2 gb gddr5
+- Procesador intel core i7-1165g7 (4 núcleos, 12 mb cache, 4.70 ghz)
+- Sistema operativo windows10 home plus
 - Memoria ram ddr iv 16 gb (3200 mhz)
 - Sistema operativo: Windows 10 Pro
-- Disco ssd de 1 tb nvme pcie gen3x4
-- Sistema operativo windows10 home plus
-- Tarjeta gráfica nvidia geforce mx450, 2 gb gddr5
-- Capacidad del disco duro (GB): 1.0 TB
 - Tipo de memoria del ordenador: dram
-- Procesador intel core i7-1165g7 (4 núcleos, 12 mb cache, 4.70 ghz)
+- Disco ssd de 1 tb nvme pcie gen3x4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LG6QYH6/?tag=tolees-21)
