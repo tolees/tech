@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Sandisk Ultra Flair Memoria Flash USB 3. al 44.49 % de descuento'
-date: 2021-03-08 08:40:39
+title: 'Sandisk Ultra Flair Memoria Flash USB 3. al 22.36 % de descuento'
+date: 2021-04-07 05:54:45
 image: 'https://m.media-amazon.com/images/I/319eGONQ8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CH1JIW-es Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con...'
 sku: 'B015CH1JIW-es'
-actualPrice: 4.99 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
+actualPrice: 6.98 EUR
 currency: EUR
-price: 4.99
+price: 6.98
 comparePrice: 8.99 EUR
 prodname: 'Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con hasta 150 MB/s de Velocidad de Lectura  Silver'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B015CH1JIW/?tag=tolees-21'
-descuento: '44.49'
-average: '6.38950819672131'
+descuento: '22.36'
+average: '6.4771875'
 ---
 
-Está [Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con hasta 150 MB/s de Velocidad de Lectura  Silver](https://www.amazon.es/dp/B015CH1JIW/?tag=tolees-21) con 44.49 de descuento por 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!
+Está [Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con hasta 150 MB/s de Velocidad de Lectura  Silver](https://www.amazon.es/dp/B015CH1JIW/?tag=tolees-21) con 22.36 de descuento por 6.98 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![Sandisk Ultra Flair Memoria Flash USB 3.](https://m.media-amazon.com/images/I/319eGONQ8oL._SL400_.jpg)](https://www.amazon.es/dp/B015CH1JIW/?tag=tolees-21)
 
