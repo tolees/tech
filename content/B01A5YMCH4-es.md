@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Learning Resources- Code & Go Conjunto d al 18.50 % de rebaja'
-date: 2021-04-04 13:01:26
+date: 2021-04-07 07:23:52
 image: 'https://m.media-amazon.com/images/I/51GP0cYZANL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Learning Resources'
 buyurl: 'https://www.amazon.es/dp/B01A5YMCH4/?tag=tolees-21'
 descuento: '18.50'
-average: '54.9487006960554'
+average: '54.9433487297918'
 ---
 
 Tienes [Learning Resources- Code & Go Conjunto de Actividades del ratón Robot  Color  XLR-LER2831 ](https://www.amazon.es/dp/B01A5YMCH4/?tag=tolees-21) con precio final de  53.79 EUR (original: 66.0 EUR) (18.50 %  de rebaja) aqui!
