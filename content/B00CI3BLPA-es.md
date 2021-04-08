@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital 1TB Elements USB 3.0 - D con un 31.62 % de descuento'
-date: 2021-04-02 21:21:49
+date: 2021-04-08 09:31:36
 image: 'https://m.media-amazon.com/images/I/31tDbgfegyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B00CI3BLPA/?tag=tolees-21'
 descuento: '31.62'
-average: '57.07'
+average: '56.9647368421053'
 ---
 
 En este momento está [Western Digital 1TB Elements USB 3.0 - Disco Duro Externo  1000 GB  USB 3.0  6 35 cm  2.5"   Alámbrico  5000 Mbit/s  480  5000 Mbit/s  Negro](https://www.amazon.es/dp/B00CI3BLPA/?tag=tolees-21) a 55.07 EUR (original: 80.53 EUR) (31.62 %  de descuento) en el siguiente enlace!

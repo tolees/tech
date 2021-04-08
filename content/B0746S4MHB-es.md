@@ -29,9 +29,9 @@ Tienes [Nacon - Mando Compacto  Color Naranja  PS4 ](https://www.amazon.es/dp/B0
 🔎:
 
 - Superficie “Soft touch” para un agarre perfecto incluso en sesiones de juego largas
-- Conector para auriculares de 3,5 mm
+- Panel táctil totalmente funcional
 - Longitud del cable: aprox. 3 m
 - 2 motores de vibración Indicador LED de jugador
-- Panel táctil totalmente funcional
+- Conector para auriculares de 3,5 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0746S4MHB/?tag=tolees-21)
