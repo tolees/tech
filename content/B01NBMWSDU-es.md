@@ -28,10 +28,10 @@ Está [LONPOO - LP-099 Reproductor de DVD  Compact DVD Player  Full HD HDMI  USB
 
 ℹ️:
 
-- ▶ CONEXIONES: entrada USB, puerto RCA / HDMI compatible con la mayoría de los televisores.Conecte el reproductor de DVD al televisor a través del cable RCA suministrado o el cable HDMI.
-- ▶ IMAGEN DE ALTA CALIDAD: reproductor de DVD HD de 2.0 canales con puerto HDMI, experimenta una imagen de alta calidad y un sonido impresionante. (* Nota: no es un reproductor de Blu-ray,No es compatible con archivos de formato MP4)
+- ▶ MULTI-REGION DVDs: solución MTK + lente Sanyo (estable), 1/2/3/4/5/6 libre de múltiples regiones y 7 menús de idioma OSD para usar en todo el mundo.(Actualización: cable HDMI incluido)
 - ▶ CONTROL REMOTO: controle el reproductor de DVD y su configuración con el control remoto suministrado.
 - ▶ Garantía de un año y garantía de devolución de dinero de 45 días, soporte técnico de por vida, cualquier pregunta, no dude en contactarnos.
-- ▶ MULTI-REGION DVDs: solución MTK + lente Sanyo (estable), 1/2/3/4/5/6 libre de múltiples regiones y 7 menús de idioma OSD para usar en todo el mundo.(Actualización: cable HDMI incluido)
+- ▶ CONEXIONES: entrada USB, puerto RCA / HDMI compatible con la mayoría de los televisores.Conecte el reproductor de DVD al televisor a través del cable RCA suministrado o el cable HDMI.
+- ▶ IMAGEN DE ALTA CALIDAD: reproductor de DVD HD de 2.0 canales con puerto HDMI, experimenta una imagen de alta calidad y un sonido impresionante. (* Nota: no es un reproductor de Blu-ray,No es compatible con archivos de formato MP4)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBMWSDU/?tag=tolees-21)

@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple MacBook Pro  de 13 Pulgadas  16 GB RAM  1�
 
 🔎:
 
+- Intel Iris Plus Graphics
+- Trackpad Force Touch
+- Wifi 802.11ac
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Touch Bar y Touch ID
 - Procesador Intel Core i5 de cuatro núcleos de décima generación
 - Almacenamiento SSD ultrarrápido
-- Intel Iris Plus Graphics
-- Wifi 802.11ac
-- Touch Bar y Touch ID
+- Teclado Magic Keyboard retroiluminado
 - Hasta 10 horas de autonomía
 - Espectacular pantalla Retina con tecnología True Tone
-- Teclado Magic Keyboard retroiluminado
-- Trackpad Force Touch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21)
