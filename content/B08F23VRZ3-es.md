@@ -28,8 +28,8 @@ En este momento está [FYCJI - Mando TV Samsung Reemplazo BN59-01247A Ajuste par
 
 🔎:
 
-- Sin necesidad de configuracion: No requiere programación ni configuración, simplemente inserte las baterías (no incluidas) y comience a usar el mando de reemplazo de su Samsung.
 - Compatible 100% con los modelos de mando universal Samsung: UE40KU6079 UE40KU6070 UE49KS7500 UE50KU6070 UE55K6300 UE55KS7000 UE32K5572 UE55KS7500 UE55KS9000 UE55KU6000 UE55KU6070 UE55KU6500 UE55KU6670 UE49K5572 UE55KU6092U UE60KU6020 UE65KS9000.
+- Sin necesidad de configuracion: No requiere programación ni configuración, simplemente inserte las baterías (no incluidas) y comience a usar el mando de reemplazo de su Samsung.
 - Mando Samsung bn59-01247a Mando tv Samsung Reemplazo perfecto: Son exactamente iguales al mando a distancia original de Samsung TV. Puede reemplazar directamente el viejo o danado. Cubre todas las funciones del Mando a Distancia para Samsung original.
 - Servicio postventa: Hecho de ABS de alta calidad, es muy duradero y no tiene olor. Yofrecemos una política de devolución de 5 años. Si tiene preguntas sobre nuestros productos o servicios, no dude en contactarnos.
 - Instrucciones de uso: Mando a Distancia de Repuesto para Samsung BN59-01247A el diseño liviano y ergonómico lo hace muy cómodo, Apto para todos. El botón tiene una buena elasticidad, es suficiente presionar el botón ligeramente, funciona perfectamente.

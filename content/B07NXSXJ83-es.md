@@ -28,10 +28,10 @@ En este momento está [JETech Protector Pantalla de Privacidad Compatible iPhone
 
 🔎:
 
-- [Protección de privacidad] La pantalla solo es visible para las personas directamente en frente de la pantalla; Protege tu privacidad personal de manera efectiva
 - [Compatible con iPhone 11/XR] Especialmente diseñado para iPhone 11 y iPhone XR（6,1 pulgadas); Se adapta perfectamente a su pantalla y ofrece una gran protección para su iPhone. NOTA: Debido al borde redondo del iPhone 11 y iPhone XR, el protector de pantalla no cubrirá la pantalla completa, pero sólo el área plana
-- [Perfecto Servicio] El paquete incluye: Protector de pantalla de vidrio templado * 2, kit de limpieza de pantalla * 2, instrucciones, tarjeta de servicio al cliente
 - [Buena Calidad] Hecho de Cristal templado premium ultra delgado （0,33 mm); Resiste los arañazos hasta 9H.
+- [Protección de privacidad] La pantalla solo es visible para las personas directamente en frente de la pantalla; Protege tu privacidad personal de manera efectiva
 - [Buena experiencia de usuario] Sin polvo, sin huellas dactilares, sin burbujas y Compatible la mayoría de las fundas por diseño de borde abierto
+- [Perfecto Servicio] El paquete incluye: Protector de pantalla de vidrio templado * 2, kit de limpieza de pantalla * 2, instrucciones, tarjeta de servicio al cliente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NXSXJ83/?tag=tolees-21)

@@ -30,8 +30,8 @@ Ahora mismo tienes [Samsung Galaxy Watch Active2 SM-R830 - Smartwatch Bluetooth 
 
 - Pantalla más amplia
 - Siempre conectado incluso sin tu smartphone
-- Seguimiento de frecuencia cardíaca
 - Seguimiento de ejercicio
+- Seguimiento de frecuencia cardíaca
 - Resistente al agua y al polvo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VSQT87Q/?tag=tolees-21)
