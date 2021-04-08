@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP - Samsung CLT-K406S/ELS - Tóner para  con un 52.89 % de descuento'
-date: 2021-04-07 09:19:14
+date: 2021-04-08 11:20:42
 image: 'https://m.media-amazon.com/images/I/31L30me1lCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B008BT28RU/?tag=tolees-21'
 descuento: '52.89'
-average: '43.9'
+average: '40.858'
 ---
 
 En este momento está [HP - Samsung CLT-K406S/ELS - Tóner para Samsung CLP-360/ 365/ 368  CLX-3300/ 3305  negro](https://www.amazon.es/dp/B008BT28RU/?tag=tolees-21) a 28.69 EUR (original: 60.9 EUR) (52.89 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [HP - Samsung CLT-K406S/ELS - Tóner para Samsung CLP-360/
 
 🔎:
 
+- 1500 páginas
 - Tóner color negro
 - Compatible con Samsung CLP-360/CLP-365 CLX-3300/CLX-3305
-- 1500 páginas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008BT28RU/?tag=tolees-21)
