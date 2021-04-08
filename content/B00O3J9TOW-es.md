@@ -28,9 +28,9 @@ Tienes [SilverStone SST-NB05B - Disipador para Notebook Noble Breeze  3x USB 3.0
 
 🔎:
 
-- Compatible con casi todos los portátiles
 - Ventilador de flujo cruzado a medida para una excelente refrigeración y baja sonoridad
 -  Ángulo de 8 grados para la mejor ergonomía y ángulo de visionado
+- Compatible con casi todos los portátiles
 - Ligero y compacto, fácil de transportar
 - Incluye un conector de red Base-T (RJ45) 10/100:Acepta notebooks de hasta 17” de ancho
 
