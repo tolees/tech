@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 20.85 % en TP-Link TL-MR100  4G LTE Router  Cat 4  '
-date: 2021-03-09 21:26:09
+date: 2021-04-08 07:32:55
 image: 'https://m.media-amazon.com/images/I/41SXao8h6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PFRFKX-es TP-Link TL-MR100 4G LTE Router Cat 4 3G Router Speed up to...'
 sku: 'B085PFRFKX-es'
+tags: [ 'Dispositivos de red','Informática','Routers','lte','tp-link', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99
@@ -27,11 +28,11 @@ Tienes [TP-Link TL-MR100  4G LTE Router  Cat 4   3G Router  Speed up to 300Mpbs 
 
 ℹ️:
 
+- Red 4G de vanguardia: comparta el acceso a Internet con hasta 32 dispositivos Wi-Fi y disfrute de velocidades de descarga de hasta 150 Mbps
 - Modo de enrutador Wi-Fi: conecte un cable Ethernet al puerto LAN / WAN para un acceso flexible como una opción de respaldo si no puede obtener una conexión 4G
-- Funciones de software avanzadas: control parental, red de invitados y reenvío NAT, lo ayudan a mejorar la seguridad y eficacia de su red
 - Mejor señal: disfrute de conexiones estables y eficientes para cada dispositivo gracias a sus 2 antenas LTE externas desmontables en cualquier lugar
 - TL-MR100, enrutador inalámbrico N 4G LTE de 300 Mbps, le brinda una conexión Wi-Fi estable y fluida.
+- Funciones de software avanzadas: control parental, red de invitados y reenvío NAT, lo ayudan a mejorar la seguridad y eficacia de su red
 - Conecte una tarjeta SIM y juegue: no se necesitan configuraciones, la compatibilidad de las tarjetas SIM en más de 100 países está asegurada por años de pruebas de campo
-- Red 4G de vanguardia: comparta el acceso a Internet con hasta 32 dispositivos Wi-Fi y disfrute de velocidades de descarga de hasta 150 Mbps
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085PFRFKX/?tag=tolees-21)

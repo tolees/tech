@@ -28,9 +28,9 @@ En este momento está [ASUS P3B - Proyector  0.45" DLP  WXGA 1280 x 800  800 lú
 
 🔎:
 
-- Distancia de 0.43 - 3.44 metros
-- Hasta 800 lúmenes
-- Resolución WXGA 1280 x 800
 - Tecnología DLP, 30.000 horas de batería para RGB LED
+- Resolución WXGA 1280 x 800
+- Hasta 800 lúmenes
+- Distancia de 0.43 - 3.44 metros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016AW8ICS/?tag=tolees-21)
