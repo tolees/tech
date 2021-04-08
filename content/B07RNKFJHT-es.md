@@ -28,10 +28,10 @@ Ahora mismo tienes [Beelink U55 Mini PC Ordenador de Sobremesa con Windows 10  C
 
 🔎:
 
-- [Buen rendimiento de disipación de calor] El excelente ventilador de enfriamiento incorporado asegura una disipación de calor eficiente y rápida. Ahorro de energía, protección del medio ambiente y bajo consumo de energía. (Se incluye soporte de montaje) Consejos: ¡Para la primera activación de la mini PC, debe estar fuera de línea!
 - [Procesador i3-5005U] Equipado con CPU Intel Core i3-5005U (2C/4T, 3M Cache, hasta 2.0GHz) y preinstalado sistema Windows 10. Procesador de plataforma de escritorio de bajo consumo, rendimiento estable y confiable, menos demora y retraso.
-- [Soportes inalámbricos multifuncionales] 5.8G + 2.4G WiFi de banda dual, 1000Mbps LAN, BT 4.0. Capacidades excepcionales de conectividad. Abra la página web en segundos, descargue el archivo rápidamente, vea el video sin búfer, juegue el juego no se atascará.
 - [8GB DDR3L + 256GB SSD] Aumenta dramáticamente la velocidad de arranque, lectura y escritura. El SSD de 256 GB proporciona suficiente capacidad para almacenar imágenes, videos, música y más. Puede ampliar la memoria con TF Card (hasta 128 GB), M.2 2280 SSD (128 GB hasta 1 TB), HDD de 2,5 pulgadas (500 GB hasta 2 TB) [Nota: si se usa M.2 2280 SSD para extender, es necesario quitar primero el SSD original]
 - [Pantalla de pantalla dual] Admite la pantalla de pantalla dual con puerto de salida dual HDMI 1.4, lo que aumenta considerablemente la eficiencia del trabajo. Con Intel HD Graphics 5500, es compatible con la reproducción de video UHD 4K@800MHz, disfrutando de una imagen clara y vívida cuando juega o mira películas.
+- [Soportes inalámbricos multifuncionales] 5.8G + 2.4G WiFi de banda dual, 1000Mbps LAN, BT 4.0. Capacidades excepcionales de conectividad. Abra la página web en segundos, descargue el archivo rápidamente, vea el video sin búfer, juegue el juego no se atascará.
+- [Buen rendimiento de disipación de calor] El excelente ventilador de enfriamiento incorporado asegura una disipación de calor eficiente y rápida. Ahorro de energía, protección del medio ambiente y bajo consumo de energía. (Se incluye soporte de montaje) Consejos: ¡Para la primera activación de la mini PC, debe estar fuera de línea!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RNKFJHT/?tag=tolees-21)
