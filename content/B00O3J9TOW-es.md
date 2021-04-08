@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SilverStone SST-NB05B - Disipador para N al 22.17 % de rebaja'
-date: 2021-03-29 20:16:10
+date: 2021-04-08 13:15:32
 image: 'https://m.media-amazon.com/images/I/31Q0giVVDQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [SilverStone SST-NB05B - Disipador para Notebook Noble Breeze  3x USB 3.0
 
 🔎:
 
--  Ángulo de 8 grados para la mejor ergonomía y ángulo de visionado
-- Ligero y compacto, fácil de transportar
 - Compatible con casi todos los portátiles
 - Ventilador de flujo cruzado a medida para una excelente refrigeración y baja sonoridad
+-  Ángulo de 8 grados para la mejor ergonomía y ángulo de visionado
+- Ligero y compacto, fácil de transportar
 - Incluye un conector de red Base-T (RJ45) 10/100:Acepta notebooks de hasta 17” de ancho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O3J9TOW/?tag=tolees-21)
