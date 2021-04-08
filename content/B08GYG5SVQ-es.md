@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.78 % en SanDisk Ultra Tarjeta de Memoria microSD'
-date: 2021-04-05 12:00:47
+date: 2021-04-08 05:20:52
 image: 'https://m.media-amazon.com/images/I/31ncF5kWHvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD  hasta 120 M
 
 ℹ️:
 
-- Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento A1
 - Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
-- Clase 10 para la grabación y reproducción de vídeo de alta definición
 - Capacidad de almacenamiento de memoria: 400
+- Clase 10 para la grabación y reproducción de vídeo de alta definición
+- Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento A1
 - Ideal para smartphones y tabletas Android, así como para cámaras compactas
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08GYG5SVQ/?tag=tolees-21)

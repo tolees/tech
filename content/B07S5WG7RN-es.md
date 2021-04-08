@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Meridiem Games - AeternoBlade II - Ninte al 75.02 % de descuento'
-date: 2021-04-05 20:24:10
+title: 'Meridiem Games - AeternoBlade II - Ninte al 42.41 % de descuento'
+date: 2021-04-08 05:31:19
 image: 'https://m.media-amazon.com/images/I/51xXBJm1+wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07S5WG7RN-es Meridiem Games - AeternoBlade II - Nintendo Switch...'
 sku: 'B07S5WG7RN-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','meridiem games','nintendo','switch', ]
-actualPrice: 9.99 EUR
+actualPrice: 23.03 EUR
 currency: EUR
-price: 9.99
+price: 23.03
 comparePrice: 39.99 EUR
 prodname: 'Meridiem Games - AeternoBlade II - Nintendo Switch [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07S5WG7RN/?tag=tolees-21'
-descuento: '75.02'
-average: '19.326'
+descuento: '42.41'
+average: '19.9433333333333'
 ---
 
-Ahora mismo tienes [Meridiem Games - AeternoBlade II - Nintendo Switch [Importación inglesa]](https://www.amazon.es/dp/B07S5WG7RN/?tag=tolees-21) a 9.99 EUR (original: 39.99 EUR) (75.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Meridiem Games - AeternoBlade II - Nintendo Switch [Importación inglesa]](https://www.amazon.es/dp/B07S5WG7RN/?tag=tolees-21) a 23.03 EUR (original: 39.99 EUR) (42.41 %  de descuento) en el siguiente enlace!
 
 [![Meridiem Games - AeternoBlade II - Ninte](https://m.media-amazon.com/images/I/51xXBJm1+wL._SL400_.jpg)](https://www.amazon.es/dp/B07S5WG7RN/?tag=tolees-21)
 
