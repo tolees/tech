@@ -29,8 +29,8 @@ Tienes [LOETAD Ratón Vertical Ergonómico Ratón Inalámbrico Silencio 2 4 G Ra
 🔎:
 
 - Función de Sueño: El mouse vertical inalámbrico con función de suspensión automática puede ahorrar energía y extender la vida útil de la batería. Después de 8-10 minutos de inactividad, el mouse inalámbrico vertical se pone automáticamente en espera
-- El Paquete Incluye: Mouse Ergonómico LOETAD (que incluye 2 baterías AAA) ; Receptor USB 2.4G (Nota: el receptor USB se encuentra en la parte inferior del mouse); Manual en español
 - Sensibilidad Ajustable & Características Silenciosas: DPI ajustable para cambiar la sensibilidad del puntero del mouse (800/1200/1600), las teclas tienen una función de silencio para no molestar a los otros miembros de la familia
+- El Paquete Incluye: Mouse Ergonómico LOETAD (que incluye 2 baterías AAA) ; Receptor USB 2.4G (Nota: el receptor USB se encuentra en la parte inferior del mouse); Manual en español
 - Bueno para la Salud de las Manos: El mouse vertical ergonómico está diseñado para el posicionamiento natural de las manos y la máxima comodidad. Los usuarios diestros pueden percibir así la reducción de la tensión de la muñeca y la mano, mejorando así su salud
 - Botón de Acceso Directo: Puede navegar por la red más rápidamente vía el botón siguiente / anterior en el costado del mouse inalámbrico para brindar mayor comodidad a las personas que trabajan largas horas en la computadora. Radio de acción: 10 metros
 
