@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Duet 3 - Portátil 2 en 1  con un 27.99 % de descuento'
-date: 2021-04-06 12:07:29
+date: 2021-04-08 19:42:05
 image: 'https://m.media-amazon.com/images/I/41nQpEms5wL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08L6GD68B/?tag=tolees-21'
 descuento: '27.99'
-average: '426.983333333333'
+average: '415.65'
 ---
 
 En este momento está [Lenovo IdeaPad Duet 3 - Portátil 2 en 1 de 13.3" WUXGA  Intel Pentium Silver N5030  8GB RAM  128GB eMMC  Intel UHD Graphics 605  Windows 10 Home S   Lenovo Digital Pen  Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B08L6GD68B/?tag=tolees-21) a 381.65 EUR (original: 529.99 EUR) (27.99 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Lenovo IdeaPad Duet 3 - Portátil 2 en 1 de 13.3" WUXGA  
 
 🔎:
 
-- Procesador Intel Pentium Silver N5030 (4C / 4T, 1.1 / 3.1GHz, 4MB)
-- Tarjeta gráfica integrada Intel UHD Graphics 605
-- Pantalla de 10.3" WUXGA (1920x1200) IPS, 340 nits, Lenovo Digital Pen, Lenovo IdeaPad Duet 3 Folio
-- Almacenamiento de 128GB eMMC 5.1
 - Memoria RAM de 8GB Soldered DDR4-2400
+- Procesador Intel Pentium Silver N5030 (4C / 4T, 1.1 / 3.1GHz, 4MB)
+- Pantalla de 10.3" WUXGA (1920x1200) IPS, 340 nits, Lenovo Digital Pen, Lenovo IdeaPad Duet 3 Folio
+- Tarjeta gráfica integrada Intel UHD Graphics 605
+- Almacenamiento de 128GB eMMC 5.1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L6GD68B/?tag=tolees-21)

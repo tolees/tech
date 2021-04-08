@@ -28,10 +28,10 @@ Tienes [VicTsing Pack de Teclado y Ratón para Juegos con Cable Recubierto de Me
 
 🔎:
 
-- 【Ratón】Tamaño perfecto: 121.1 × 7.5 × 3.9 cm y forma ergonómica. 6 botones programables incluyendo 2 botones laterales. 4 DPI ajustables: 1000/1600/2400 / 3200.DPI. Luz indicadora: 1000 (verde), 1600 (púrpura), 2400 (azul) y 3200 (rojo). Después de configurar el DPI, la luz de fondo del ratón ingresará en el modo de degradado automáticamente.
 - 【Teclado 】Panel de metal, a prueba de golpes y resistente al desgaste para una alta durabilidad. Tapa del teclado gaming con raton de altura media para una respuesta más rápida y una mejor sensación de pulsación. Claves transmisivas de luz para jugar fresco en la oscuridad. 19 teclas Anti-ghosting y 12 teclas multimedia que proporcionan una respuesta rápida y una experiencia de juego fantástica.
-- 【Cómodo y Duradero】Tanto el pack teclado y ratón gaming están hechos de un revestimiento especial similar a la piel, suave y cómodo. Probado en más de 3 millones de pulsaciones, el teclado y raton PS4 es duradero y los clics responden 【Versión mejorada del producto】
 - 【Fantástica Luz de Fondo LED】Incluyendo el teclado gaming retroiluminado arco iris para juegos y el ratón gaming colorido retroiluminado LED. Teclado: 2 modos con retroiluminación para la opción, brillo ajustable y velocidad de respiración; Ratón: retroiluminación degradada de 4 colores (azul, rojo, púrpura, verde). Fantástico para los gamers.
+- 【Ratón】Tamaño perfecto: 121.1 × 7.5 × 3.9 cm y forma ergonómica. 6 botones programables incluyendo 2 botones laterales. 4 DPI ajustables: 1000/1600/2400 / 3200.DPI. Luz indicadora: 1000 (verde), 1600 (púrpura), 2400 (azul) y 3200 (rojo). Después de configurar el DPI, la luz de fondo del ratón ingresará en el modo de degradado automáticamente.
 - 【Compatibilidad】Compatible con Win XP, Win7, Win8, Win10, Vista7, Vista8, Linux y Mac OS. El teclado gaming con leds es compatible con PS4.Nota: 1. Las teclas de acceso directo de multimedia del teclado no están disponibles en el sistema MAC. 2.Los botones laterales del mouse no están disponibles en Mac OS
+- 【Cómodo y Duradero】Tanto el pack teclado y ratón gaming están hechos de un revestimiento especial similar a la piel, suave y cómodo. Probado en más de 3 millones de pulsaciones, el teclado y raton PS4 es duradero y los clics responden 【Versión mejorada del producto】
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KTX9ZJM/?tag=tolees-21)

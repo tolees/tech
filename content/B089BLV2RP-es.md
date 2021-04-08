@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS ROG Strix SCAR 17 G732LXS-HG014T - Portátil Gaming de 
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe 3.0
 - Windows 10 Home
 - Pantalla de 17.3" FullHD (1920x1080) 16:9 IPS 300Hz Antirreflejos
-- Tarjeta gráfica NVIDIA GeForce RTX 2080 SUPER 8GB GDDR6 VRAM
-- Memoria RAM 32GB (16GBx2) DDR4 3200MHz
 - Procesador Intel Core i7-10875H (2.30Ghz, 16MB)
+- Memoria RAM 32GB (16GBx2) DDR4 3200MHz
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe 3.0
+- Tarjeta gráfica NVIDIA GeForce RTX 2080 SUPER 8GB GDDR6 VRAM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089BLV2RP/?tag=tolees-21)

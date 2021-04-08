@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.01 % en Rii K12+ Mini Teclado compacto con touch'
-date: 2021-04-04 23:01:42
+date: 2021-04-08 19:24:36
 image: 'https://m.media-amazon.com/images/I/41znrOpxKDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rii'
 buyurl: 'https://www.amazon.es/dp/B00ZCFTT00/?tag=tolees-21'
 descuento: '15.01'
-average: '18.5065714285714'
+average: '18.4644444444444'
 ---
 
 Tienes [Rii K12+ Mini Teclado compacto con touchpad multitoque integrado  WiFi 2.4 GHz  USB incorporado  cubierta de Acero Inoxidable ultra-resistente  Color Negro - QWERTY Español](https://www.amazon.es/dp/B00ZCFTT00/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 16.99 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [Rii K12+ Mini Teclado compacto con touchpad multitoque integrado  WiFi 2
 ℹ️:
 
 - 12-meter wireless range
-- Cubierta trasera de aluminio de alta resistencia de la aviación con lustre metálico encantador
-- Batería recargable incorporada del Li-ion con dos modos de la función auto del sueño (3 minutos y 2 horas) para ahorrar la energía que chasca cualquier llave para activar la gama sin hilos de 12 metros
 - Teclado inalámbrico ultra delgado y mini tamaño 2.4GHz con TouchpadPerfect para los PCs y Smart TVs
 - X-estilo teclas silenciosas y Multi-dedo touchpad de 3.8 pulgadas
+- Cubierta trasera de aluminio de alta resistencia de la aviación con lustre metálico encantador
+- Batería recargable incorporada del Li-ion con dos modos de la función auto del sueño (3 minutos y 2 horas) para ahorrar la energía que chasca cualquier llave para activar la gama sin hilos de 12 metros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZCFTT00/?tag=tolees-21)
