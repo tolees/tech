@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG GV301QH-K6069T - Ordenador Port con un 15.00 % de descuento'
-date: 2021-04-03 02:11:05
+date: 2021-04-08 08:45:09
 image: 'https://m.media-amazon.com/images/I/41qVeldHXGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [ASUS ROG GV301QH-K6069T - Ordenador Portátil Gaming de 1
 
 🔎:
 
-- Windows 10 Home
+- Procesador AMD Ryzen 7 5800HS (2.8GHz, 16MB)
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 13.4" WUXGA (1920 x 1200)
 - Almacenamiento de 512GB M.2 NVMe PCIe
+- Windows 10 Home
 - Memoria RAM de 16GB (en placa) LPDDR4x
-- Procesador AMD Ryzen 7 5800HS (2.8GHz, 16MB)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGSJJZF/?tag=tolees-21)
