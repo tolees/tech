@@ -28,10 +28,10 @@ En este momento está [iKross Soporte para Tablet 7-12 Pulgadas  Soporte de Coch
 
 🔎:
 
-- La estructura es muy fuerte. Se puede remover después de instalarlo.
-- Compatible con: Apple iPad Pro 12.9, iPad Pro 10.5 / 9.7, iPad Air 2, iPad 3, 4, iPad Air, iPad Mini 4, 3,Samsung Galaxy Tab, Google Nexus, ASUS Transformer Book, Memo Pad, VivoTab, Nintendo Switch Tablet, Microsoft Surface, Dell Venue, Lenovo Idea Tab, Acer Iconia Tab y más
 - Montaje de asiento de auto y soporte para asiento trasero para tablet de 7-12 pulgadas ( 11.5 a 26.5cm de anchura ) como Apple iPad, Samsung Galaxy tab, Lenovo, BQ Edison y más.
 - El ángulos de inclinación de tablet es adjustable, la función de rotación e inclinación de 360 grados. Los pasajeros puenden ver el tablet con buena visibilidad.
+- La estructura es muy fuerte. Se puede remover después de instalarlo.
+- Compatible con: Apple iPad Pro 12.9, iPad Pro 10.5 / 9.7, iPad Air 2, iPad 3, 4, iPad Air, iPad Mini 4, 3,Samsung Galaxy Tab, Google Nexus, ASUS Transformer Book, Memo Pad, VivoTab, Nintendo Switch Tablet, Microsoft Surface, Dell Venue, Lenovo Idea Tab, Acer Iconia Tab y más
 - La barra es adjustable, puede compartir el tablet con su familia.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HFNH8JQ/?tag=tolees-21)
