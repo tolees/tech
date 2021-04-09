@@ -29,10 +29,10 @@ Está [ASUS ROG Strix G15 G512LW-HN069 - Portátil Gaming de 15.6" FullHD 144Hz 
 ℹ️:
 
 - Procesador Intel Core i7-10750H
-- Almacenamiento de 1TB de SSD
+- Memoria RAM de 16GB
 - Sin sistema operativo
 - Tarjeta gráfica RTX2070 - 8GB DDR6
 - Pantalla de 15.6" FullHD (1920x1080) 144 Hz
-- Memoria RAM de 16GB
+- Almacenamiento de 1TB de SSD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DNJL6GB/?tag=tolees-21)
