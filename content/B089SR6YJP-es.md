@@ -30,8 +30,8 @@ Está [ASUS - TUF Gaming VG32VQ1B - Monitor curvo para juegos de 31.5"  WQHD 256
 
 - Monitor curvo gaming de 31.5 con resolución WQHD (2560 x 1440) muestra imágenes detalladas y nítidas
 - La tecnología ASUS Extreme Low Motion Blur (ELMB ) y los 165 Hz de refresco de pantalla, permiten un tiempo de respuesta de 1 ms (MPRT) junto con la sincronización adaptativa, eliminando el ghosting
-- La curvatura 1500R hace que la experiencia de juego sea completamente inmersiva
 - Modelo sin marcos para conseguir una óptima experiencia jugando
+- La curvatura 1500R hace que la experiencia de juego sea completamente inmersiva
 - Tecnología FreeSync Premium, compatible con DP y puertos HDMI, que ofrece velocidades de actualización variables para baja latencia, stottern y sin roturas durante el juego
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089SR6YJP/?tag=tolees-21)
