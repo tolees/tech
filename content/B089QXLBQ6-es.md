@@ -28,8 +28,8 @@ Está [LG SN4 - Barra de Sonido  2.1 con 300 W de Potencia  DTS Virtual:X  subwo
 
 ℹ️:
 
-- Ajuste automático de la ecualización del sonido en función del contenido visionado
 - Vive una auténtica atmósfera sonora envolvente
+- Ajuste automático de la ecualización del sonido en función del contenido visionado
 - Usa el mando del propio televisor de las principales marcas para controlar la barra de sonido fácilmente
 - Sonido inmersivo 3 D virtual para una experiencia audiovisual completa con sonidos que te rodean
 
