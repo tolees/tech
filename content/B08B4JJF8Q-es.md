@@ -28,9 +28,9 @@ En este momento está [Sony - Destruction Allstars](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Juego compatible con PlayStation 5
 - Combate en vehículos y velocidad
-- Desarrollador: Lucid Games
 - Incluye juego completo
+- Juego compatible con PlayStation 5
+- Desarrollador: Lucid Games
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21)
