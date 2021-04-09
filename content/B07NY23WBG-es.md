@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk High Endurance - Tarjeta microSD con un 27.36 % de descuento'
-date: 2021-04-08 07:40:18
+date: 2021-04-09 10:26:37
 image: 'https://m.media-amazon.com/images/I/41v5ndBg8sL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07NY23WBG/?tag=tolees-21'
 descuento: '27.36'
-average: '24.59'
+average: '24.3233333333333'
 ---
 
 En este momento está [SanDisk High Endurance - Tarjeta microSD para videovigilancia  128 GB  Blanco](https://www.amazon.es/dp/B07NY23WBG/?tag=tolees-21) a 22.99 EUR (original: 31.65 EUR) (27.36 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [SanDisk High Endurance - Tarjeta microSD para videovigila
 
 🔎:
 
-- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
-- Ideal para cámaras de salpicadero y sistemas de vigilancia del hogar
-- Guarda más vídeos con capacidades de hasta 256 GB
 - Graba en Full HD y 4K con las categorías de velocidad de vídeo Class 10, U3 y V30
+- Guarda más vídeos con capacidades de hasta 256 GB
+- Ideal para cámaras de salpicadero y sistemas de vigilancia del hogar
+- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 - Diseñada para ofrecer una alta resistencia, de manera que podrás grabar hasta 20 000 horas sin preocupaciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NY23WBG/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa 
 
 🔎:
 
-- Rápidas transferencias de datos
 - Plug-and-play para ordenadores windows
+- Rápidas transferencias de datos
 - Calidad wd por dentro y por fuera
 - Almacenamiento adicional de alta capacidad
 
