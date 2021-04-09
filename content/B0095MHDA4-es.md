@@ -29,8 +29,8 @@ Tienes [Epson WorkForce WF-2010W - Impresora color  inyección de tinta  WiFi y 
 🔎:
 
 - Imprime más páginas con las tintas Epson
-- Flexible, conectividad WiFi y Ethernet
 - Carga de trabajo de 3.000 páginas al mes
+- Flexible, conectividad WiFi y Ethernet
 - Tamaño compacto para ahorrar espacio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0095MHDA4/?tag=tolees-21)
