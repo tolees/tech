@@ -28,8 +28,8 @@ En este momento está [Panasonic Eneloop SY3052692 - Pack 8 pilas recargables  A
 
 🔎:
 
+- Recargables
 - Tamaño AAA
 - Contiene 8 pilas
-- Recargables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MPF45Q8/?tag=tolees-21)
