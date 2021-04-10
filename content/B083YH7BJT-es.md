@@ -28,10 +28,10 @@ Ahora mismo tienes [Otterbox Strada Via - Funda de protección con Tapa Folio pa
 
 🔎:
 
-- Cierre imantado
-- Carcasa con tapa
 - Ultrafina, perfecta para llevar en el bolsillo
-- Compatible con alpha flex
+- Cierre imantado
 - Suave al tacto
+- Carcasa con tapa
+- Compatible con alpha flex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YH7BJT/?tag=tolees-21)
