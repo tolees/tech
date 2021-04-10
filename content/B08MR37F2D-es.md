@@ -28,15 +28,15 @@ Ahora mismo tienes [realme 7 5G - smartphone de 6.5  6GB RAM + 128GB de ROM  120
 
 🔎:
 
-- 120Hz Ultra Smooth Display
-- Cámara de 48MP AI Quad Camera
-- Cámara selfie de 16MP en pantalla
 - Batería de 5000mAh
+- 120Hz Ultra Smooth Display
 - realme UI
-- 5G Chip (5G+5G DSDS)
-- Carga rápida de 30W Dart Charge
-- Lector de huella dactilar instantáneo (lateral)
 - Real Design (Diseño tipo espejo)
+- 5G Chip (5G+5G DSDS)
 - Dolby Atmos & Hi-Res Audio
+- Carga rápida de 30W Dart Charge
+- Cámara de 48MP AI Quad Camera
+- Lector de huella dactilar instantáneo (lateral)
+- Cámara selfie de 16MP en pantalla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MR37F2D/?tag=tolees-21)
