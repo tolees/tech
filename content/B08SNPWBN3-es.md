@@ -28,11 +28,11 @@ En este momento está [Absolut Vodka Apple Juice Edition - 500 ml](https://www.a
 
 🔎:
 
-- Es una bebida para disfrutar del tardeo en compañía de buenos amigos
 - Como todo Absolut Vodka, Absolut Juice Apple se produce y embotella en Åhus, Suecia
+- Es una bebida para disfrutar del tardeo en compañía de buenos amigos
 - Destaca la frescura de su aroma y su sabor con un carácter distintivo de manzana madura; es suave y con un nivel de dulzor equilibrado
 - Fiel a sus orígenes; Apple Edition está inspirada en el otoño sueco y en sus días bañados en tonos amarillos, rojos y dorados
-- Absolut Juice Apple Edition es una bebida espirituosa premium hecha a partir de Absolut Vodka y zumo natural de manzana
 - Sugerencia de consumo: 30 ml de Absolut Juice Apple, 60 ml de tónica, 2 rodajas de manzana
+- Absolut Juice Apple Edition es una bebida espirituosa premium hecha a partir de Absolut Vodka y zumo natural de manzana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SNPWBN3/?tag=tolees-21)

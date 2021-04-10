@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.18 % en Lenovo Yoga 920 - Portátil Convertible d'
-date: 2021-04-09 09:52:51
+date: 2021-04-10 11:23:22
 image: 'https://m.media-amazon.com/images/I/41P1uh4buLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [Lenovo Yoga 920 - Portátil Convertible de 13.9" UHD  Intel Core i7-8550
 
 ℹ️:
 
-- Pantalla táctil convertíble de 13.9" UHD 3840x2160 píxeles, 300nits
 - Almacenamiento de 512GB SSD M.2 PCIe
-- Procesador Intel Core i7-8550U (4C / 8T, 1.8 / 4.0GHz, 8MB)
+- Sistema Operativo: Windows 10 Home
 - Memoria RAM de 8GB Soldered DDR4-2400
 - Tarjeta gráfica Integrada Intel UHD Graphics 620
-- Sistema Operativo: Windows 10 Home
+- Pantalla táctil convertíble de 13.9" UHD 3840x2160 píxeles, 300nits
+- Procesador Intel Core i7-8550U (4C / 8T, 1.8 / 4.0GHz, 8MB)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DCXXD5F/?tag=tolees-21)
