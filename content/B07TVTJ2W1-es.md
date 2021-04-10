@@ -29,9 +29,9 @@ Está [PRIXTON SW41 - Smartwatch para Hombre y Mujer con Sistema Operativo Andro
 ℹ️:
 
 - Adecuado para hombres y mujeres, tiene cámara de fotos, control de actividad y aviso de notificaciones
+- El reloj es compatible con Smartwatch iOS-Android y tiene ranura Nano SIM, GPS y pulsómetro
 - Smartwatch Android: prescinde de tu móvil y descargarte en el reloj Instagram, Whatsapp, Facebook
 - Presenta Pantalla LCD de 1.39 pulgadas, 400 x 400 pixels, RAM 512MB / ROM 4GB y batería 350 mAh
 - Tiene un diseño moderno y dispone de conexiones: Wifi y Bluetooth 4.0
-- El reloj es compatible con Smartwatch iOS-Android y tiene ranura Nano SIM, GPS y pulsómetro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TVTJ2W1/?tag=tolees-21)
