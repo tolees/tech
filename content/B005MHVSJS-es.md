@@ -28,15 +28,15 @@ Tienes [Impresora láser multifunción monocromo Canon i-Sensys MF3010 negra](ht
 
 ℹ️:
 
-- Diseño moderno y atractivo
-- Resolución de impresión de hasta 1200 x 600 ppp
-- Fácil de utilizar gracias a su pantalla vertical
+- 18 ppm, tiempo de salida de la primera impresión de 7.8 segundos
 - Tiempo de salida de la primera impresión de 7,8 segundos
-- Impresión láser en blanco y negro de 18 ppm
+- Diseño moderno y atractivo
+- Fácil de utilizar gracias a su pantalla vertical
+- Resolución de impresión de hasta 1200 x 600 ppp
+- Fácil de utilizar gracias a su sencilla pantalla vertical
 - Equipo multifunción compacto con funciones de copia y escaneo
 - Eficiencia energética
-- 18 ppm, tiempo de salida de la primera impresión de 7.8 segundos
-- Fácil de utilizar gracias a su sencilla pantalla vertical
 - Equipo 3 en 1 láser monocromo de sobremesa: imprime, copia y escanea
+- Impresión láser en blanco y negro de 18 ppm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005MHVSJS/?tag=tolees-21)

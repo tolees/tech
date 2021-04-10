@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi repetidor MI WiFi Range Extender  al 23.79 % de rebaja'
-date: 2021-04-08 17:10:11
+date: 2021-04-09 23:10:37
 image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B084WT4WWK/?tag=tolees-21'
 descuento: '23.79'
-average: '12.5145578231289'
+average: '12.4968918918915'
 ---
 
 Tienes [Xiaomi repetidor MI WiFi Range Extender Pro*300mbps Repetidor*hasta 64 dispositivos*Dos potentes antenas externas*Plug and play](https://www.amazon.es/dp/B084WT4WWK/?tag=tolees-21) con precio final de  9.9 EUR (original: 12.99 EUR) (23.79 %  de rebaja) aqui!
