@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG1008D - Gigabit Switch de R al 27.79 % de descuento'
-date: 2021-04-07 01:19:31
+date: 2021-04-10 21:22:27
 image: 'https://m.media-amazon.com/images/I/31SigwzH+oL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00YMTI6WO/?tag=tolees-21'
 descuento: '27.79'
-average: '18.0712'
+average: '18.0676923076923'
 ---
 
 Está [TP-Link TL-SG1008D - Gigabit Switch de Red con 8 Puertos  10/100/1000Mbps  Sin Configuración ](https://www.amazon.es/dp/B00YMTI6WO/?tag=tolees-21) con 27.79 de descuento por 17.98 EUR (original: 24.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [TP-Link TL-SG1008D - Gigabit Switch de Red con 8 Puertos  10/100/1000Mbps
 
 ℹ️:
 
-- La tecnología green ethernet ahorra energía hasta un 80 por ciento
-- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
 - Plug and play, no requiere configuración
 - Switch gigabit de 8 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - El control de flujo IEEE 8023 x proporciona una transferencia de datos confiable
+- La tecnología green ethernet ahorra energía hasta un 80 por ciento
+- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YMTI6WO/?tag=tolees-21)
