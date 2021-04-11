@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart Space Heater S-Calefacto al 40.00 % de rebaja'
-date: 2021-04-07 13:17:53
+date: 2021-04-11 19:48:32
 image: 'https://m.media-amazon.com/images/I/31TQFy0p1IL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08J494KHH/?tag=tolees-21'
 descuento: '40.00'
-average: '88.8377142857143'
+average: '88.5655660377359'
 ---
 
 Tienes [Xiaomi Mi Smart Space Heater S-Calefactor Eléctrico Inteligente  Potencia 2200W  Control Voz  Impermeabilidad IPX4  Anti-Deslizante](https://www.amazon.es/dp/B08J494KHH/?tag=tolees-21) con precio final de  59.99 EUR (original: 99.99 EUR) (40.00 %  de rebaja) aqui!
