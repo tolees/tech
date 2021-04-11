@@ -28,8 +28,8 @@ Tienes [Canon RP-108 - Papel fotográfico y cartucho de tinta original para Selp
 
 🔎:
 
-- Diseño vérsatil
 - Este tamaño de imprecion de 100 x 148 mm, 4 x 6" se usa habitualmente en albumes y marcos de fotos
 - 108 impresiones de tamaño tarjeta postal estándar
+- Diseño vérsatil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HQE9NM4/?tag=tolees-21)
