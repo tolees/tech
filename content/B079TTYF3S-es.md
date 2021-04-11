@@ -28,10 +28,10 @@ En este momento está [Western Digital - WD My Passport - Disco Duro Portátil d
 
 🔎:
 
-- Diseño reinventado
+- Copia de seguridad automática incluida con el software WD Backup
+- Disco duro seguro creado con la fiabilidad de WD
 - Fácil de usar
 - Protección mediante contraseña con cifrado de hardware
-- Disco duro seguro creado con la fiabilidad de WD
-- Copia de seguridad automática incluida con el software WD Backup
+- Diseño reinventado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079TTYF3S/?tag=tolees-21)
