@@ -28,8 +28,8 @@ Ahora mismo tienes [Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12 
 
 🔎:
 
-- PPP ajustables hasta 5000
 - Memoria integrada para guardar 4 perfiles para juegos
+- PPP ajustables hasta 5000
 - Software avanzado para programar botones y macros
 - Iluminación LED RGB ajustable
 
