@@ -28,10 +28,10 @@ Está [10" Aro de Luz con Tripode Extensible 50" y Soporte Teléfono Flexible pa
 
 ℹ️:
 
+- 【Trípode estable y ajustable】Aro de luz con tripode, Extendiéndose de 15 "a 50", y las patas del trípode se despliegan hasta 30 "de ancho, el trípode estable se puede ajustar a cualquier altura según sea necesario, lo suficientemente corto para colocarse sobre la mesa, lo suficientemente alto para adaptarse a su altura.
 - 【Ángulo de iluminación infinito】 Mejore el cabezal giratorio de 3 vías con un práctico mango que permite el movimiento de inclinación y giro; opciones de retrato u paisaje. Facilita la orientación de la aro de luz a su sujeto en cualquier ángulo, perfecto para transmisión en vivo, videollamadas, planos, tomar selfies o más.
-- 【Anillo de luz regulable】 El aro luz Sunup de 10 "presenta 3 colores claros (cálido, blanco frío, luz del día) y 11 niveles de brillo en cada color, 33 opciones en total. Sin rayos UV, sin parpadeo, sin imágenes fantasma, sin reflejos y seguro para su piel.
 - 【Enchufe USB + Cargador】 Se presenta un enchufe de grado profesional adicional, que resuelve varios problemas causados por el voltaje inestable de la mayoría de lasaro de luzes USB en el mercado: parpadeo, daños, etc. Nuestras aro luz son de bajo consumo de energía, más duraderas, seguras y confiables
 - 【Control remoto Bluetooth y servicio de por vida】 Viene con 2 abrazadera de smartphone flexible y 1 control remoto Bluetooth, por lo que ni siquiera necesita tocar su teléfono celular para iniciar el video o la selfie. Mantente elegante en todo momento. Sunup proporciona un servicio de reemplazo de 3 años para cualquier pieza de este juego de soporte de Ring light (anillo led, trípode y control remoto Bluetooth).
-- 【Trípode estable y ajustable】Aro de luz con tripode, Extendiéndose de 15 "a 50", y las patas del trípode se despliegan hasta 30 "de ancho, el trípode estable se puede ajustar a cualquier altura según sea necesario, lo suficientemente corto para colocarse sobre la mesa, lo suficientemente alto para adaptarse a su altura.
+- 【Anillo de luz regulable】 El aro luz Sunup de 10 "presenta 3 colores claros (cálido, blanco frío, luz del día) y 11 niveles de brillo en cada color, 33 opciones en total. Sin rayos UV, sin parpadeo, sin imágenes fantasma, sin reflejos y seguro para su piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LNQ1JTK/?tag=tolees-21)
