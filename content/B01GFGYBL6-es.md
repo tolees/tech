@@ -29,8 +29,8 @@ Está [Samsung S24F352 - Monitor de 24"  Full HD  4 ms  60 Hz  LED  16:9  1000:1
 ℹ️:
 
 - Software compatible: Windows 10
-- Grosor de la pantalla de 10 mm
 - Resolución de pantalla: 1920 x 1080 pixeles
 - Diagonal de la pantalla: 24 pulgadas
+- Grosor de la pantalla de 10 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GFGYBL6/?tag=tolees-21)
