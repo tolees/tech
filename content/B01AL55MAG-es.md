@@ -28,10 +28,10 @@ Tienes [Arvok 11 6 Pulgadas Funda Protectora para Portátiles/Impermeable Ordena
 
 ℹ️:
 
-- Compatible con Acer Chromebook 11 CB3-111-C670/ HP Stream 11/ Samsung Chromebook 2/ ASUS Chromebook C201/ Acer Aspire Cloudbook 11/ Dell Inspiron/ Acer Chromebook C720/ MacBook Air/ Lenovo S21e
 - Espesor: 0.25 inch/0.6 cm; Dimensiones internas：12" x 0.75" x 8.5"/30.5 cm x 1.8 cm x 21.5 cm (L x W x H); Dimensiones externas：13.5" x 1" x 9.5"/34.3 cm x 2.5 cm x 24.1 cm (L x W x H);
+- Slim-diseño de la línea permite que este caso se lleve a solas o en forma en su bolso favorito.
 - Adecuado para más popular MacBooks / laptops / notebooks / tablet/ Ultrabooks with 11-11.6 pulgadas
 - De neopreno resistente al agua ofrece una ultra delgado diseño ligero y una protección superior.Protege el ordenador portátil / netbook del polvo, golpes, golpes, arañazos y rasguños, derrames.
-- Slim-diseño de la línea permite que este caso se lleve a solas o en forma en su bolso favorito.
+- Compatible con Acer Chromebook 11 CB3-111-C670/ HP Stream 11/ Samsung Chromebook 2/ ASUS Chromebook C201/ Acer Aspire Cloudbook 11/ Dell Inspiron/ Acer Chromebook C720/ MacBook Air/ Lenovo S21e
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AL55MAG/?tag=tolees-21)

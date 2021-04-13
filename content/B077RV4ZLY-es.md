@@ -1,34 +1,35 @@
 ---
 layout: post
-title: 'Western Digital - WD Elements Desktop -  al 38.34 % de rebaja'
-date: 2021-03-09 13:13:25
-image: 'https://m.media-amazon.com/images/I/318zZnLuQfL._SL400_.jpg'
+title: 'Western Digital - WD Elements Desktop -  al 16.99 % de rebaja'
+date: 2021-04-13 05:54:21
+image: 'https://m.media-amazon.com/images/I/318zZnLuQfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077RV4ZLY-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B077RV4ZLY-es'
-actualPrice: 110.99 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','western digital', ]
+actualPrice: 149.41 EUR
 currency: EUR
-price: 110.99
+price: 149.41
 comparePrice: 179.99 EUR
 prodname: 'Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 6 TB  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21'
-descuento: '38.34'
-average: '118.26349206349'
+descuento: '16.99'
+average: '120.21621212121'
 ---
 
-Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 6 TB  color negro](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21) con precio final de  110.99 EUR (original: 179.99 EUR) (38.34 %  de rebaja) aqui!
+Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 6 TB  color negro](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21) con precio final de  149.41 EUR (original: 179.99 EUR) (16.99 %  de rebaja) aqui!
 
-[![Western Digital - WD Elements Desktop - ](https://m.media-amazon.com/images/I/318zZnLuQfL._SL400_.jpg)](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21)
+[![Western Digital - WD Elements Desktop - ](https://m.media-amazon.com/images/I/318zZnLuQfL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21)
 
 🔎:
 
-- Fácil uso
-- Un plus de capacidad para tus archivos
 - Compatible Windows
+- Un plus de capacidad para tus archivos
+- Fácil uso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21)
