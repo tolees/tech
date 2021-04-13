@@ -28,9 +28,9 @@ Tienes [Sony XMN1004 - Amplificador multicanal para vehículos  4/3/2 Canales  1
 
 🔎:
 
-- Potencia máxima de salida de 1000 W
-- Respuesta en frecuencia: 5 -50 kHz
 - Reproducción fiable y auténtica
+- Respuesta en frecuencia: 5 -50 kHz
+- Potencia máxima de salida de 1000 W
 - Filtros de paso bajo y paso alto integrados
 - Control térmico automático
 
