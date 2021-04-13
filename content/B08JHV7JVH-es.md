@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sony - Marvel´s Spider-Man: Miles Morale al 31.37 % de descuento'
-date: 2021-04-12 08:16:46
-image: 'https://m.media-amazon.com/images/I/41-edR-GLqL._SL400_.jpg'
+date: 2021-04-13 09:49:21
+image: 'https://m.media-amazon.com/images/I/41-edR-GLqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21'
 descuento: '31.37'
-average: '69.4646575342465'
+average: '69.3655782312924'
 ---
 
 Ahora mismo tienes [Sony - Marvel´s Spider-Man: Miles Morales Ultimate Edition](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21) a 54.9 EUR (original: 79.99 EUR) (31.37 %  de descuento) en el siguiente enlace!
 
-[![Sony - Marvel´s Spider-Man: Miles Morale](https://m.media-amazon.com/images/I/41-edR-GLqL._SL400_.jpg)](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21)
+[![Sony - Marvel´s Spider-Man: Miles Morale](https://m.media-amazon.com/images/I/41-edR-GLqL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21)
 
 🔎:
 
