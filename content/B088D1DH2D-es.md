@@ -28,10 +28,10 @@ Ahora mismo tienes [RAVPower Cargador USB C de pared PD de 30 W  cargador rápid
 
 🔎:
 
+- 【Carga Rápida PD 3.0】Experimente velocidades de carga ultra rápidas, 3 veces más rápidas que los cargadores estándar; reviva su iPhone 8/8 + / X / XS / XS Max / 11/11 Pro 12/12 PRO/12 PRO Max de 0 a 50% en tan solo 30 minutos
+- 【33% Más Pequeño】La medias pequeñas de 1.93x1.93x1.18 pulgas hacen al cargador liviano y conveniente para llevar a cualquier parte; diseñado con pasadores plegables para evitar daños
+- 【One Para Todos】Ofrece una carga estándar para la mayoría de los teléfonos y tabletas compatibles con entradas tipo C, compatible con los últimos modelos de teléfonos, incluyendo el iPhone 11 Pro, iPhone 11, iPhone 12/12 PRO/12 PRO Max y el Galaxy S9
 - 【Seguridad Total】La protección de carga múltiple mantiene su dispositivo a salvo de sobre voltajes, sobrecalentamiento y cortocircuitos; disfrute de nuestro servicio al cliente las 24 horas del día y de una garantía gratuita de 18 meses
 - 【Salida Máxima de 30W cargador usb】Equipado con un puerto USB-C 3.0 PD de 18W y un puerto USB-A de 12W, permite una salida total de 30W con ambos puertos
-- 【33% Más Pequeño】La medias pequeñas de 1.93x1.93x1.18 pulgas hacen al cargador liviano y conveniente para llevar a cualquier parte; diseñado con pasadores plegables para evitar daños
-- 【Carga Rápida PD 3.0】Experimente velocidades de carga ultra rápidas, 3 veces más rápidas que los cargadores estándar; reviva su iPhone 8/8 + / X / XS / XS Max / 11/11 Pro 12/12 PRO/12 PRO Max de 0 a 50% en tan solo 30 minutos
-- 【One Para Todos】Ofrece una carga estándar para la mayoría de los teléfonos y tabletas compatibles con entradas tipo C, compatible con los últimos modelos de teléfonos, incluyendo el iPhone 11 Pro, iPhone 11, iPhone 12/12 PRO/12 PRO Max y el Galaxy S9
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088D1DH2D/?tag=tolees-21)
