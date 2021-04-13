@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 17.54 % en Gigaset S850 - Teléfono inalámbrico con '
-date: 2021-04-10 23:16:53
-image: 'https://m.media-amazon.com/images/I/31UdVzce5AL._SL400_.jpg'
+title: 'Descuento del 17.71 % en Gigaset S850 - Teléfono inalámbrico con '
+date: 2021-04-13 11:27:07
+image: 'https://m.media-amazon.com/images/I/31UdVzce5AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B010ILSDWC-es Gigaset S850 - Teléfono inalámbrico con manos libres...'
 sku: 'B010ILSDWC-es'
 tags: [ 'Electrónica','Telefonía fija y accesorios','Teléfonos analógicos','auriculares','bluetooth','gigaset', ]
-actualPrice: 74.13 EUR
+actualPrice: 73.98 EUR
 currency: EUR
-price: 74.13
+price: 73.98
 comparePrice: 89.9 EUR
 prodname: 'Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Bluetooth  pantalla en color  agenda de 500 contactos  conexión auriculares  protección de llamadas anónimas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Gigaset'
 buyurl: 'https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21'
-descuento: '17.54'
-average: '74.7734782608696'
+descuento: '17.71'
+average: '74.7404166666667'
 ---
 
-Tienes [Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Bluetooth  pantalla en color  agenda de 500 contactos  conexión auriculares  protección de llamadas anónimas](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21) con un 17.54 % de descuento con precio de oferta de 74.13 EUR (original: 89.9 EUR) en el siguiente enlace!
+Tienes [Gigaset S850 - Teléfono inalámbrico con manos libres  conexión Bluetooth  pantalla en color  agenda de 500 contactos  conexión auriculares  protección de llamadas anónimas](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21) con un 17.71 % de descuento con precio de oferta de 73.98 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![Gigaset S850 - Teléfono inalámbrico con ](https://m.media-amazon.com/images/I/31UdVzce5AL._SL400_.jpg)](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21)
+[![Gigaset S850 - Teléfono inalámbrico con ](https://m.media-amazon.com/images/I/31UdVzce5AL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21)
 
 ℹ️:
 
 - Estándares DECT: DECT, GAP
-- 500 de números de registros en libreta de direcciones
-- Ajuste de volumen con las teclas laterales del terminal
 - Bluetooth y micro USB para sincronizar los datos con el PC
+- 500 de números de registros en libreta de direcciones
 - Reducción automática de transmisión de energía y libre de radiación en modo standby
+- Ajuste de volumen con las teclas laterales del terminal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010ILSDWC/?tag=tolees-21)
