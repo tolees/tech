@@ -28,10 +28,10 @@ En este momento está [Tenda AC9 AC1200 Enrutador inalámbrico  1200Mbps  5 puer
 
 🔎:
 
+- 5 puertos Gigabit para proporcionar una velocidad de transferencia de datos ultra rápida
 - Gestión directa a través de Tenda APP WiFi
-- Ideal para la transmisión de vídeo de alta definición sin interrupciones, juegos en línea y otras tareas que hacen un uso intensivo del ancho de banda
 - 2 antenas externas de doble banda, alta velocidad a grandes distancias y una cobertura inalámbrica increíble
 - Puerto USB: comparte una impresora local, archivos multimedia con los dispositivos en red o de forma remota
-- 5 puertos Gigabit para proporcionar una velocidad de transferencia de datos ultra rápida
+- Ideal para la transmisión de vídeo de alta definición sin interrupciones, juegos en línea y otras tareas que hacen un uso intensivo del ancho de banda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01JKN1W3G/?tag=tolees-21)
