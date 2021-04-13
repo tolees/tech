@@ -28,10 +28,10 @@ Tienes [Jelly Comb Ratón Inalámbrico de 2 4 GHz con Receptor Nano para Ordenad
 
 🔎:
 
+- Compatibilidad universal: Compatible con Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X 10.4, etc
 - Plug & Play: Mini inalámbrico receptor, conectar y disfrutarlo, no requiere controladores de dispositivos, ocupando un espacio mínimo
 - Clic silencioso: Diseño ergonómico delgado y superficie mate suave para una experiencia de uso increíble. Hacer clic fácil, silencioso y sin ruido,le hacen concentrarse en su trabajo sin molestar a los demás
-- Compatibilidad universal: Compatible con Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X 10.4, etc
-- Estable Conexión: Potente y confiable Conexión inalámbrica a través de 2,4 GHz, alcance a 15 metros, sin interferencia por otros dispositivos
 - Portátil y duradero: El receptor puede permanecer en el puerto USB de su ordenador o guarder en el interior del Ratón, ocupando poco espacio; Hasta 300 millones de clics y 36 meses de duración en modo de espera
+- Estable Conexión: Potente y confiable Conexión inalámbrica a través de 2,4 GHz, alcance a 15 metros, sin interferencia por otros dispositivos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXQRM99/?tag=tolees-21)

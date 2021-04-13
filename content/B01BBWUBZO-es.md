@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sony NW-WS414 Reproductor de MP3 todo-en al 28.37 % de descuento'
-date: 2021-04-06 21:14:25
-image: 'https://m.media-amazon.com/images/I/41ywcW19YIL._SL400_.jpg'
+date: 2021-04-13 12:05:09
+image: 'https://m.media-amazon.com/images/I/41ywcW19YIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21'
 descuento: '28.37'
-average: '99.9450000000002'
+average: '98.8684615384617'
 ---
 
 Está [Sony NW-WS414 Reproductor de MP3 todo-en-uno impermeable  8 GB - Negro](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21) con 28.37 de descuento por 85.95 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Sony NW-WS414 Reproductor de MP3 todo-en](https://m.media-amazon.com/images/I/41ywcW19YIL._SL400_.jpg)](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21)
+[![Sony NW-WS414 Reproductor de MP3 todo-en](https://m.media-amazon.com/images/I/41ywcW19YIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21)
 
 ℹ️:
 
-- Modo de carga rápida para aproximativo 3 minutos permiten unos 60 minutos de reproducción
-- Diseño todo en uno sin cables adicionales
-- Walkman resistente al agua salada para actividades deportivas
 - Autonomía de batería de hasta 12 horas
+- Walkman resistente al agua salada para actividades deportivas
+- Modo de carga rápida para aproximativo 3 minutos permiten unos 60 minutos de reproducción
 - Formatos compatibles: MP3/WMA/PCM lineal/AAC
+- Diseño todo en uno sin cables adicionales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BBWUBZO/?tag=tolees-21)
