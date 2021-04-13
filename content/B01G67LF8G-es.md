@@ -1,31 +1,39 @@
 ---
 layout: post
-title: 'Netgear EX7300 Repetidor WiFi Mesh AC220 con un 20.09 % de descuento'
-date: 2020-02-24 13:31:29
-image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL400_.jpg'
+title: 'NETGEAR EX7300-100PES - Repetidor WiFi   con un 20.00 % de descuento'
+date: 2021-04-12 23:23:44
+image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B01G67LF8G-es Netgear EX7300 Repetidor WiFi Mesh AC2200 Amplificador...'
+author: 'tole.es'
+slug: 'B01G67LF8G-es NETGEAR EX7300-100PES - Repetidor WiFi Amplificador WiFi...'
 sku: 'B01G67LF8G-es'
-actualPrice: 79.9 EUR
+tags: [ 'Dispositivos de red','Informática','Repetidores de red','netgear','wifi', ]
+actualPrice: 79.99 EUR
 currency: EUR
-price: 79.9
+price: 79.99
 comparePrice: 99.99 EUR
-prodname: 'Netgear EX7300 Repetidor WiFi Mesh AC2200  Amplificador WiFi Doble Banda  Velocidad de hasta 2200 Mbps  puerto lan Gigabit  Compatibilidad Universal'
+prodname: 'NETGEAR EX7300-100PES - Repetidor WiFi  Amplificador WiFi Mesh AC2200 Dual Band  Compatibilidad Universal'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Netgear'
 buyurl: 'https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21'
-descuento: '20.09'
-average: '78.4'
+descuento: '20.00'
+average: '87.7933333333333'
 ---
 
-En este momento está [Netgear EX7300 Repetidor WiFi Mesh AC2200  Amplificador WiFi Doble Banda  Velocidad de hasta 2200 Mbps  puerto lan Gigabit  Compatibilidad Universal](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21) a 79.9 EUR (original: 99.99 EUR) (20.09 %  de descuento) en el siguiente enlace!
+En este momento está [NETGEAR EX7300-100PES - Repetidor WiFi  Amplificador WiFi Mesh AC2200 Dual Band  Compatibilidad Universal](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21) a 79.99 EUR (original: 99.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Netgear EX7300 Repetidor WiFi Mesh AC220](https://m.media-amazon.com/images/I/31QTY0DWsVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21)
+[![NETGEAR EX7300-100PES - Repetidor WiFi  ](https://m.media-amazon.com/images/I/31QTY0DWsVL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21)
 
 🔎:
 
+- Velocidad wifi ac2200: proporciona un rendimiento de hasta 2200 mbps utilizando la tecnología patentada fastlane (tm) de banda dual para el streaming hd y juegos online
+- Repetidor de red mesh ex7300: añade cobertura wifi de hasta 150 metros cuadrados, y conecta hasta 30 dispositivos a la vez como ordenadores portátiles, smartphone, cámara s ip, tablets, dispositivos iot y más
+- Fácil de configurar: presione el botón wps para conectarse a su router; utilice la aplicación netgear wifi analyzer para una situación óptima
+- Seguro y fiable: admite los protocolos de seguridad inalámbrica wep y wpa / wpa2
+- Puerto ethernet cableado: simplemente conecte las consolas de videojuegos, los reproductores de streaming u otros dispositivos por cable al puerto gigabit para obtener la máxima velocidad
+- Compatibilidad universal: funciona con cualquier router inalámbrico, puerto de enlace o módem por cable con wifi
+- Funcionalidad wifi mesh universal: utiliza el nombre de su ssid de la red existente para que nunca se desconecte mientras se desplaza por su hogar u oficina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21)
