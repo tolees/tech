@@ -29,11 +29,11 @@ En este momento está [Corsair K70 MK.2 RGB Teclado mecánico Gaming  retroilumi
 🔎:
 
 - El almacenamiento de perfiles de 8 MB con reproducción de iluminación y macros de hardware permite el acceso a un máximo de tres perfiles almacenados para usar en cualquier parte
-- El puerto de interconexión USB proporciona un acceso cómodo a un puerto USB adicional para el ratón o los auriculares
-- Estructura de aluminio cepillado anodizado de calidad aeroespacial, diseñada para soportar toda una vida de juegos
-- La retroiluminación RGB multicolor dinámica por tecla ofrece posibilidades de control y personalización del color prácticamente ilimitadas
-- La protección del 100% contra las pulsaciones nulas con detección simultánea de teclas garantiza que los comandos y las pulsaciones simultáneas siempre se registren con exactitud
-- Interruptores Cherry MX Brown de fabricación alemana: suaves y silenciosos, se caracterizan por una conmutación táctil sin un clic audible; silenciosos, pero con retroalimentación táctil; óptimo para aquellos que aprecian la retroalimentación táctil sin clics audibles
 - QWERTY Español
+- La protección del 100% contra las pulsaciones nulas con detección simultánea de teclas garantiza que los comandos y las pulsaciones simultáneas siempre se registren con exactitud
+- La retroiluminación RGB multicolor dinámica por tecla ofrece posibilidades de control y personalización del color prácticamente ilimitadas
+- El puerto de interconexión USB proporciona un acceso cómodo a un puerto USB adicional para el ratón o los auriculares
+- Interruptores Cherry MX Brown de fabricación alemana: suaves y silenciosos, se caracterizan por una conmutación táctil sin un clic audible; silenciosos, pero con retroalimentación táctil; óptimo para aquellos que aprecian la retroalimentación táctil sin clics audibles
+- Estructura de aluminio cepillado anodizado de calidad aeroespacial, diseñada para soportar toda una vida de juegos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FY6R6G8/?tag=tolees-21)
