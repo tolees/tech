@@ -28,8 +28,8 @@ Tienes [Brother PJ-763MFi - Impresora térmica portátil A4  8ppm y 300ppp  Comp
 
 ℹ️:
 
-- Impresión hoja a hoja, rollo de papel o rollo precortado
 - Velocidad de impresión de 8 páginas por minuto
+- Impresión hoja a hoja, rollo de papel o rollo precortado
 - Resolución de 300 ppp
 - Tamaño A4
 - Interfaz USB y Bluetooth Mfi
