@@ -28,8 +28,8 @@ En este momento está [Subsonic - Charging Grip Joy-Con  Nintendo Switch ](https
 
 🔎:
 
-- Muy fácil de utilizar, basta con deslizar los joyCons en el interior y conectar un cable de carga USB Tipo C.
 - Soporte de recarga concebido especialmente para los Joy-Cons de la Nintendo Switch. Permite recargar los Joy Cons durante el juego.
+- Muy fácil de utilizar, basta con deslizar los joyCons en el interior y conectar un cable de carga USB Tipo C.
 - Se adapta perfectamente a la mano gracias a su ergonomía especialmente concebida para justarse al máximo a la forma de las manos. Permite jugas largas horas sin temor a descargar los mandos.
 - El soporte está equipado con 2 Leds testigos de carga.
 
