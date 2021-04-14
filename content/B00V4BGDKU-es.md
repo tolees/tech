@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Tp-Link UE300 -Adaptador USB 3.0 A Gigab al 66.69 % de rebaja'
-date: 2021-04-11 17:38:44
-image: 'https://m.media-amazon.com/images/I/31vWWSLZv6L._SL400_.jpg'
+date: 2021-04-14 11:01:32
+image: 'https://m.media-amazon.com/images/I/31vWWSLZv6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00V4BGDKU/?tag=tolees-21'
 descuento: '66.69'
-average: '12.57'
+average: '12.5070731707317'
 ---
 
 Tienes [Tp-Link UE300 -Adaptador USB 3.0 A Gigabit Ethernet 10/100/1000  PC O Portátiles   Blanco](https://www.amazon.es/dp/B00V4BGDKU/?tag=tolees-21) con precio final de  9.99 EUR (original: 29.99 EUR) (66.69 %  de rebaja) aqui!
 
-[![Tp-Link UE300 -Adaptador USB 3.0 A Gigab](https://m.media-amazon.com/images/I/31vWWSLZv6L._SL400_.jpg)](https://www.amazon.es/dp/B00V4BGDKU/?tag=tolees-21)
+[![Tp-Link UE300 -Adaptador USB 3.0 A Gigab](https://m.media-amazon.com/images/I/31vWWSLZv6L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00V4BGDKU/?tag=tolees-21)
 
 🔎:
 
