@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem Sport 1 - Auriculares deportivos in-ear  siste
 
 🔎:
 
-- Batería recargable con hasta 8 horas duración en uso para que no falte la música en tus entrenamientos
+- Respuesta en frecuencia: 20 Hz ~ 20 KHz
+- Secure-fit: auriculares deportivos, ultraligeros con almohadillas intercambiables y arco de sujeción flexible que se ajusta a la oreja sin moverse del sitio
 - Alcance: hasta 10 m
 - Auriculares inalámbricos con función manos libres y micrófono integrado que permiten coger llamadas mientras se practica ejercicio
-- Secure-fit: auriculares deportivos, ultraligeros con almohadillas intercambiables y arco de sujeción flexible que se ajusta a la oreja sin moverse del sitio
-- Respuesta en frecuencia: 20 Hz ~ 20 KHz
+- Batería recargable con hasta 8 horas duración en uso para que no falte la música en tus entrenamientos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LQ277QA/?tag=tolees-21)
