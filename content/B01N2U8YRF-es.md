@@ -30,8 +30,8 @@ En este momento está [TP-Link Adaptador wifi USB  banda dual AC 1300Mbps  WPS  
 
 - Conexiones de banda dual libres de latencia para streaming de vídeo de alta definición y juegos
 - Encriptación sencilla de seguridad inalámbrica con sólo pulsar el botón WPS
-- Compatible con: Windows 10/8.1/8/7/XP, Mac OS X 10.9-10.13
 - Puerto ​​USB 3.0 - Hasta 10 veces más rápido que USB 2.0
+- Compatible con: Windows 10/8.1/8/7/XP, Mac OS X 10.9-10.13
 - Velocidad inalámbrica ultra-rápida de 1200 (867+400) Mbps con 802.11ac
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N2U8YRF/?tag=tolees-21)

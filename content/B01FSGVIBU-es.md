@@ -28,10 +28,10 @@ Está [Amazon Basics Papel multiusos para impresora A4 80gsm  1 paquete  500 hoj
 
 ℹ️:
 
+- Calidad de archivo y sin cloro, ideal para grandes volúmenes de impresión.
 - Con certificado FSC (de bosques gestionados de forma responsable). Se envía en paquete estándar.
-- Funciona con impresoras láser y de inyección, fotocopiadoras y faxes estándar.
 - Peso: 2,5 kg (80 g/m²). Tamaño: A4 (210 mm x 297 mm).
 - 1 paquete (500 hojas) de papel multiusos para impresión multifuncional de gran calidad.
-- Calidad de archivo y sin cloro, ideal para grandes volúmenes de impresión.
+- Funciona con impresoras láser y de inyección, fotocopiadoras y faxes estándar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FSGVIBU/?tag=tolees-21)
