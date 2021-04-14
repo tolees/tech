@@ -28,10 +28,10 @@ En este momento está [Reproductor MP3 Bluetooth 5.0 16GB  AGPTEK H9 MP3 HiFi co
 
 🔎:
 
-- ♬【Multifunción】: Admite memoria de punto de interrupción de música, conexión Bluetooth, grabación, FM (radio y grabación), repetición A-B, salto de carpeta, video, exploración de fotos, libro electrónico, cronómetro, reloj despertador, etc.
-- ♬【Ligero y Elegante】: El cuerpo está hecho de material de aleación de aluminio, ligero y portátil, es de 56 g, resistente a los arañazos y nunca se desvanece, el color es elegante, es la mejor opción para su regalo. Para almacenar mejor el MP3, puede comprar la caja de almacenamiento a continuación：B07Y81VKWL （Rosa-2.4 Pulgadas MP3）
 - ♬【Batería de Larga Duración + Gran Capacidad】: Carga durante 2.5 horas proporciona 43 horas de reproducción de música ininterrumpida (con audífonos), 16 GB de memoria, expansión de tarjeta de memoria de 128 GB, fácil de instalar toda la música que te gusta.
-- ♬【Altavoz Interno + Fácil de Operar 】: Altavoces incorporados en H9 MP3, puede compartir música con sus amigos en cualquier momento. Los 9 botones táctiles tienen una luz de fondo para una fácil operación por la noche. Además, hay 2 botones de volumen independiente y un interruptor.
+- ♬【Multifunción】: Admite memoria de punto de interrupción de música, conexión Bluetooth, grabación, FM (radio y grabación), repetición A-B, salto de carpeta, video, exploración de fotos, libro electrónico, cronómetro, reloj despertador, etc.
 - ♬【Bluetooth 5.0 + HIFI Calidad de Sonido】: El Bluetooth compatible con Bluetooth 2.1-5.0, escuchando radio FM a través de dispositivos Bluetooth (Airpods, altavoces Bluetooth, estéreo de automóvil, etc.), dentro de 10 metros. Formatos de reproducción de música sin pérdida como MP3 / WMA / APE / FLAC / WAV / OGG / AAC-LC / ACELP.
+- ♬【Ligero y Elegante】: El cuerpo está hecho de material de aleación de aluminio, ligero y portátil, es de 56 g, resistente a los arañazos y nunca se desvanece, el color es elegante, es la mejor opción para su regalo. Para almacenar mejor el MP3, puede comprar la caja de almacenamiento a continuación：B07Y81VKWL （Rosa-2.4 Pulgadas MP3）
+- ♬【Altavoz Interno + Fácil de Operar 】: Altavoces incorporados en H9 MP3, puede compartir música con sus amigos en cualquier momento. Los 9 botones táctiles tienen una luz de fondo para una fácil operación por la noche. Además, hay 2 botones de volumen independiente y un interruptor.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SS3XWSG/?tag=tolees-21)
