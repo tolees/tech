@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco du al 28.15 % de descuento'
-date: 2021-04-12 10:46:24
-image: 'https://m.media-amazon.com/images/I/31yxSi4fYgL._SL400_.jpg'
+date: 2021-04-14 19:35:17
+image: 'https://m.media-amazon.com/images/I/31yxSi4fYgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21'
 descuento: '28.15'
-average: '117.446046511628'
+average: '116.935909090909'
 ---
 
 Está [Western Digital - WD Elements - Disco duro externo portátil de 5 TB con USB 3.0  color negro](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21) con 28.15 de descuento por 95.0 EUR (original: 132.22 EUR) en el siguiente enlace!
 
-[![Western Digital - WD Elements - Disco du](https://m.media-amazon.com/images/I/31yxSi4fYgL._SL400_.jpg)](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)
+[![Western Digital - WD Elements - Disco du](https://m.media-amazon.com/images/I/31yxSi4fYgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)
 
 ℹ️:
 
-- Compatibilidad con usb 3.0 y usb 2.0
 - Capacidad masiva
-- Calidad y confiabilidad wd
 - Transferencias rápidas de datos
+- Compatibilidad con usb 3.0 y usb 2.0
 - Mejora el rendimiento de su ordenador
+- Calidad y confiabilidad wd
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)

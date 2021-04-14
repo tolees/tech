@@ -29,10 +29,10 @@ Está [Logitech G Saitek PRO Flight Yoke System - Palanca Profesional y Accelera
 ℹ️:
 
 - 282 Comandos Programables en 3 Modos: Todos los comandos de Elite Dangerous o Star Citizen bajo tus dedos, sin tener que recurrir al teclado
-- Sistema de Sujeción de 5 Posiciones: Contribuye a la comodidad de uso, al evitarte estiramientos innecesarios para llegar a los botones
-- Pantalla LCD Multifunción: Facilita la navegación en Flight Simulator X, gracias al control directo de las funciones del panel de radio de la simulación
-- Torsión 3D con Bloqueo de Timón: Óptimo para el control de la simulación; si tu sistema tiene pedales de timón, puedes bloquear el eje para evitar su activación de manera inadvertida
 - Compatibilidad: Es compatible con los programas de simulación de vuelo más populares para PC, entre ellos FSX, Flight Simulator X, X-Plane 10 y Prepar3D
+- Sistema de Sujeción de 5 Posiciones: Contribuye a la comodidad de uso, al evitarte estiramientos innecesarios para llegar a los botones
 - Una Precisión Aumentada: Los sensores de ejes X e Y magnéticos sin contacto incrementan la durabilidad y un doble mecanismo de centrado por resorte proporciona un movimiento fluido favorable
+- Torsión 3D con Bloqueo de Timón: Óptimo para el control de la simulación; si tu sistema tiene pedales de timón, puedes bloquear el eje para evitar su activación de manera inadvertida
+- Pantalla LCD Multifunción: Facilita la navegación en Flight Simulator X, gracias al control directo de las funciones del panel de radio de la simulación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M5F8SB6/?tag=tolees-21)
