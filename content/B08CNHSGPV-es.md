@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Motorola Moto G 5G Plus - Smartphone de  con un 32.58 % de descuento'
-date: 2021-04-09 11:04:54
-image: 'https://m.media-amazon.com/images/I/41yWVTa5XgL._SL400_.jpg'
+date: 2021-04-14 21:43:17
+image: 'https://m.media-amazon.com/images/I/41yWVTa5XgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B08CNHSGPV/?tag=tolees-21'
 descuento: '32.58'
-average: '284.889166666667'
+average: '284.2536'
 ---
 
 En este momento está [Motorola Moto G 5G Plus - Smartphone de 6.7"  5G FHD+  procesador Snapdragon SD765  4x cámaras de 48 MP  batería de 5000 mAH  Dual SIM  6/128 GB  Android 10   Azul [Versión ES/PT]](https://www.amazon.es/dp/B08CNHSGPV/?tag=tolees-21) a 269.0 EUR (original: 399.0 EUR) (32.58 %  de descuento) en el siguiente enlace!
 
-[![Motorola Moto G 5G Plus - Smartphone de ](https://m.media-amazon.com/images/I/41yWVTa5XgL._SL400_.jpg)](https://www.amazon.es/dp/B08CNHSGPV/?tag=tolees-21)
+[![Motorola Moto G 5G Plus - Smartphone de ](https://m.media-amazon.com/images/I/41yWVTa5XgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CNHSGPV/?tag=tolees-21)
 
 🔎:
 

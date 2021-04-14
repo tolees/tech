@@ -28,9 +28,9 @@ Ahora mismo tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/256GB Cla
 
 🔎:
 
-- Tipo de memoria flash: Micro SD
-- Capacidad de la memoria: 256 GB
 - Optimizada para uso con dispositivos Android
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Capacidad de la memoria: 256 GB
+- Tipo de memoria flash: Micro SD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YGYQNNF/?tag=tolees-21)
