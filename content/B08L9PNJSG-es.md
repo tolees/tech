@@ -28,9 +28,9 @@ Tienes [ASUS RP-AX56 - Repetidor AX1800 Wi-Fi 6  802.11ax  de Doble Banda   repe
 
 🔎:
 
-- Amplía tu sistema Wi-Fi AiMesh: expande tu red AiMesh y conserva las funciones avanzadas a lo largo de todo tu hogar
-- Conexiones Wi-Fi de alta velocidad: con 80 MHz de ancho de banda y 1024-QAM, el RP-AX56 ofrece unas conexiones Wi-Fi más rápidas
 - El estándar Wi-Fi de próxima generación: 802.11ax (Wi-Fi 6) con 80 MHz de ancho de banda ofrece más capacidad y consume menos energía
+- Conexiones Wi-Fi de alta velocidad: con 80 MHz de ancho de banda y 1024-QAM, el RP-AX56 ofrece unas conexiones Wi-Fi más rápidas
+- Amplía tu sistema Wi-Fi AiMesh: expande tu red AiMesh y conserva las funciones avanzadas a lo largo de todo tu hogar
 - Velocidad combinada de 1800 Mbps (574 Mbps en la banda de 2.4 GHz y 1201 Mbps en la de 5 GHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L9PNJSG/?tag=tolees-21)

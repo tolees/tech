@@ -28,10 +28,10 @@ Está [JEPOZRA Soporte Portatil  Soporte Ordenador portátil  Ajustables Soporte
 
 ℹ️:
 
-- 【Ajustables Soporte Portátil 】 en total hay 7 formas de ajustar la altura, el soporte ajustable para computadora portátil le permite levantar la computadora portátil de 7-14.5cm para un nivel perfecto de visibilidad, lo que le permite corregir la postura y reducir la fatiga del cuello, el dolor de espalda y la fatiga visual. Muy cómodo.
-- 【Aluminum alloy】Soporte de PC portátil ajustable Hecho de robusta aleación de aluminio. La capacidad de carga es de hasta 50 kg. Con 2 alfombrillas de goma en el gancho y 4 almohadillas de silicona antideslizantes en la parte superior e inferior, protege la computadora portátil de deslizamientos y arañazos.
 - 【DISIPACIÓN DE CALOR】El material de aleación de aluminio puede absorber y descargar calor fácilmente. El ángulo de inclinación hacia adelante y el diseño abierto ofrecen una mayor ventilación y más flujo de aire para enfriar su computadora durante la operación, aparte de que se acuesta sobre la mesa.
 - 【Lightweight and easy to carry】 Este soporte portátil es muy ligero, por lo que puede retraerse rápidamente en un formato delgado como un ventilador plegable. Solo toma 1 segundo abrir, cerrar e instalar. El soporte para computadora portátil se puede plegar en un tamaño de 24 * 4.2 cm este soporte portátil solo pesa 0.6 libras y con el flannel storage bag para facilitar el transporte.
+- 【Ajustables Soporte Portátil 】 en total hay 7 formas de ajustar la altura, el soporte ajustable para computadora portátil le permite levantar la computadora portátil de 7-14.5cm para un nivel perfecto de visibilidad, lo que le permite corregir la postura y reducir la fatiga del cuello, el dolor de espalda y la fatiga visual. Muy cómodo.
+- 【Aluminum alloy】Soporte de PC portátil ajustable Hecho de robusta aleación de aluminio. La capacidad de carga es de hasta 50 kg. Con 2 alfombrillas de goma en el gancho y 4 almohadillas de silicona antideslizantes en la parte superior e inferior, protege la computadora portátil de deslizamientos y arañazos.
 - 【Amplia compatibilidad】El soporte de la computadora es compatible con todos los portátiles de 10-15.6 pulgadas, como para Google Pixelbook, Dell XPS, HP, ASUS, Lenovo ThinkPad, Acer, Chromebook, Samsung, Tablet y más . Sea su compañero ideal en el hogar, la oficina, el aeropuerto, la cafetería y el exterior.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G48GS1Q/?tag=tolees-21)
