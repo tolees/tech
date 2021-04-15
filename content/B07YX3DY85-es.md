@@ -28,10 +28,10 @@ Tienes [Wewant PGI-580 CLI-581XXL Cartucho de Tinta Compatible para Canon 580 58
 
 ℹ️:
 
-- Imprimir más XL: 600 páginas por cartucho de tinta pgi-580pgbk xxl, 4590 páginas por cartucho de tinta cli-581bk xxl, Cartuchos de 850 páginas por color (cli-581xxl c, cli-581xxl m, cli-581xxl y), a cobertura es del 5%. (depende de la impresora y el uso)
 - Reemplazo de tinta Canon 580 581 para usar con: Canon Pixma TR7550, TR8550, TS6150, TS6151, TS6250, TS6350, TS705, TS8150, TS8151, TS8152, TS8250, TS8251, TS8252, TS8350, TS9150, TS9155, TS9550, TS9551, TS9551c
 - Siempre estamos comprometidos a proporcionar texto negro claro e imágenes coloridas. Los cartuchos de tinta Wewant PGI-580 CLI-581 XXL son perfectos para el uso diario, como la escuela, el trabajo y el hogar, etc.
 - Cartuchos de tinta PGI-580XXL CLI-581XXL compatibles de Wewant, identificar la impresora con precisión, imprimir tinta suave, fácil de instalar y usar, alto rendimiento de página, precio razonable.
+- Imprimir más XL: 600 páginas por cartucho de tinta pgi-580pgbk xxl, 4590 páginas por cartucho de tinta cli-581bk xxl, Cartuchos de 850 páginas por color (cli-581xxl c, cli-581xxl m, cli-581xxl y), a cobertura es del 5%. (depende de la impresora y el uso)
 - Contenidos del paquete: 1 x PGI-580PGBK XXL, CLI-581XXL (1 Negro, 1 Cian, 1 Magenta, 1 Amarillo) , 5 cartuchos en total, 1 x Guía del usuario
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YX3DY85/?tag=tolees-21)

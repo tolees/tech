@@ -29,9 +29,9 @@ Ahora mismo tienes [AUKEY Cable USB C a USB 3.0 A 2M Nylón Cable USB Tipo C de 
 🔎:
 
 - Seguro y Robusto: Trenzado a tejido nylón envuelto incluso después de plegados múltiples no está dañado. El cable de logitud de 2m es tan largo que no necesita preocuparse de la molestia causada por el corto cable.
-- El Puerto USB C: No es direccional, que se puede de forma frontal o al revés, lo que mejora la facilidad de uso de esta interfaz
-- Modelos Aplicables: Samsung Galaxy S8+ / S8, HUAWEI P10 / P9, OnePlus 3 / 2, Google Chromebook Pixel y otros dispositivos con puerto USB C
 - Lo que Obtendrá: AUKEY Cable CB-CD3 USB C a USB 3.0 A nylón 2m, manual usuario, garantía y servicio al cliente
+- Modelos Aplicables: Samsung Galaxy S8+ / S8, HUAWEI P10 / P9, OnePlus 3 / 2, Google Chromebook Pixel y otros dispositivos con puerto USB C
 - Sincronización de Carga y Transferencia de Datos: la transferencia de datos de USB C a USB 3.0 alcanza hasta 5Gbps, que es 10 veces rápido que USB 2.0, a 5 Gbps apodado una película HD en menos de 5 segundos
+- El Puerto USB C: No es direccional, que se puede de forma frontal o al revés, lo que mejora la facilidad de uso de esta interfaz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ISLQZ2E/?tag=tolees-21)

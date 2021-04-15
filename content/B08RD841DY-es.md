@@ -28,10 +28,10 @@ Está [Ibera Teclado y Raton Inalámbrico - QWERTY Español Teclado Inalambrico 
 
 ℹ️:
 
-- 【COMPATIBILIDAD DURABLE Y AMPLIA】El teclado y el mouse puede funcionar con su Adecuado para Macbooks, computadoras de escritorio, Chromebooks, PC, laptops, smart tv.Compatible con los sistemas operativos Windows XP / ME / Vista / 7/8/10.
 - 【DISEÑO ERGONÓMICO Y ELEGANTE】El teclado y el mouse combo se adapta a la mano para más comodidad.. El diseño elegante, aerodinámico, elegante y compacto del teclado le permite disfrutar de una escritura y un clic cómodos y suaves. el diseño del teclado es ligeramente inclinado, mejora la comodidad de uso y las manos no se sentirán cansadas después de usarlo por un tiempo.
+- 【COMPATIBILIDAD DURABLE Y AMPLIA】El teclado y el mouse puede funcionar con su Adecuado para Macbooks, computadoras de escritorio, Chromebooks, PC, laptops, smart tv.Compatible con los sistemas operativos Windows XP / ME / Vista / 7/8/10.
 - 【TECLADO RATÓN SILENCIOSO】Botones de chocolate suspendidos, se siente más cómodo, silencioso al presionar, su tono bajo reduce la interferencia para el trabajo y crea un ambiente de trabajo cómodo. Cuerpo de plástico ABS ultrafino, Fácil de transportar.
-- 【TECLADO Y RATÓN INALÁMBRICOS】Conexión inalámbrica confiable de 2.4GHZ,Un one USB nano receptor puede conectar tanto el teclado como el mouse,plug and play. El teclado y el mouse garantizan una conexión estable y confiable con una distancia de hasta 10 metros. Perfecto para viajes de negocios, oficina, hogar, biblioteca y muchas ocasiones públicas.
 - 【AHORRO DE ENERGÍA AUTOMÁTICO】Este teclado y mouse ergonómicos cuentan con tecnología de ahorro de energía. Si no usa el mouse del teclado por más de 5 minutos, el teclado y el mouse pasarán al modo de suspensión para ahorrar energía, despierte presionando cualquier tecla. (NO INCLUYE pilas )
+- 【TECLADO Y RATÓN INALÁMBRICOS】Conexión inalámbrica confiable de 2.4GHZ,Un one USB nano receptor puede conectar tanto el teclado como el mouse,plug and play. El teclado y el mouse garantizan una conexión estable y confiable con una distancia de hasta 10 metros. Perfecto para viajes de negocios, oficina, hogar, biblioteca y muchas ocasiones públicas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RD841DY/?tag=tolees-21)
