@@ -28,9 +28,9 @@ Está [Toshiba - CANVIO Advance 4TB White EXT](https://www.amazon.es/dp/B08L18PS
 
 ℹ️:
 
-- Producto de alta calidad
 - Una unidad
-- Dimensiones del producto: 3.9 L x 14.3 H x 11.2 W (centimeters)
 - Disco duro externo con 4 TB de almacenamiento
+- Dimensiones del producto: 3.9 L x 14.3 H x 11.2 W (centimeters)
+- Producto de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L18PSF1/?tag=tolees-21)
