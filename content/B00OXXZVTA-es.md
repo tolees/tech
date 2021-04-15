@@ -28,10 +28,10 @@ Tienes [vgate - iCar 2 Bluetooth 3.0 - Color Blanco/Verde](https://www.amazon.es
 
 ℹ️:
 
+- Compatible con vehículos con motor a gasolina fabricados a partir de 2001 y con motor diésel fabricados a partir de 2004.
 - Totalmente compatible con todos los protocolos OBD II (SAE J1850 PWM/vpw, ISO14230 - 4 kWh, ISO9141 - 2, ISO15765 - 4 CAN, SAE J1939 CAN, User1/User2 Can).
-- Con interruptor de encendido/apagado y modo de espera (standby).
 - Hasta 4 veces más rápido que Elm 327.
 - No se necesitan herramientas adicionales.
-- Compatible con vehículos con motor a gasolina fabricados a partir de 2001 y con motor diésel fabricados a partir de 2004.
+- Con interruptor de encendido/apagado y modo de espera (standby).
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OXXZVTA/?tag=tolees-21)
