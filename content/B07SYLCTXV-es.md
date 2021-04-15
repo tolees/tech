@@ -28,10 +28,10 @@ Ahora mismo tienes [MSI WT75 9SL-097ES - Ordenador portátil de 17.3 " UHD  Inte
 
 🔎:
 
-- Tarjeta gráfica nvidia quadro p4200 de 8 gb gddr5
 - Sistema operativo windows 10 pro
-- Memoria ram de 64 gb (32gb2) ddr iv, 2666mhz
 - Disco ssd de 1 tb
+- Tarjeta gráfica nvidia quadro p4200 de 8 gb gddr5
 - Procesador coffeelake refresh i7-9700k (8 núcleos, 12 mb cache, 3.6 ghz hasta 4.9 ghz)
+- Memoria ram de 64 gb (32gb2) ddr iv, 2666mhz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYLCTXV/?tag=tolees-21)
