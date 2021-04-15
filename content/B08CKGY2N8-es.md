@@ -29,8 +29,8 @@ En este momento está [ASUS ROG Zephyrus G14 GA401II-HE004T - Portátil Gaming d
 🔎:
 
 - Windows 10 Home
-- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 - Procesador AMD Ryzen 7 4800HS (2.9GHz, 8MB)
+- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 - Almacenamiento de 1TB M.2 NVMe PCIe
 - Pantalla de 14" Full HD (1920 x 1080)
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
