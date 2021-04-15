@@ -28,11 +28,11 @@ Tienes [MSI Stealth 15M - A11SEK-055XES - Ordenador portátil de 15.6" FullHD 14
 
 🔎:
 
-- Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.8 GHz)
 - Memoria RAM de 16GB, DDR IV 8 GB*2 (2666 MHz)
-- Sin sistema operativo
 - Tarjeta gráfica GeForce RTX 2060 Max-Q, GDDR6 6 GB
-- Disco SSD de 1 TB NVMe PCIe Gen3x4
+- Sin sistema operativo
 - Pantalla de 15.6" FHD (1920*1080), IPS-Level 144 Hz 45% NTSC Thin Bezel
+- Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.8 GHz)
+- Disco SSD de 1 TB NVMe PCIe Gen3x4
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MKR29WF/?tag=tolees-21)
