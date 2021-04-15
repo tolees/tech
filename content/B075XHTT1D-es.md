@@ -29,9 +29,9 @@ Está [Teclado mecánico Gaming RGB Azul Switch Ajazz AK33 82 Teclas 100% Anti-G
 ℹ️:
 
 - 【19 MODOS DE ILUMINACIÓN DIFERENTES 】9 modos de iluminación te proporcionarán una experiencia de juego inmersiva. El brillo y la velocidad de cambio de luz son ajustables.Diferentes modos de juego para su elección, el botón se puede personalizar。
-- 【ABS DURADERO E IMPERMEABLE】 Está hecho de ABS de alta calidad y materiales metálicos, teclas de caracteres grabadas con láser, por lo que es muy duradero. También tiene 12 botones multimedia, diseño antideslizante y a prueba de salpicaduras, almohadillas ajustables y cable USB chapado en oro para un ángulo de escritura perfecto y una experiencia de alta calidad.
 - 【82 TECLAS & ANTI-GHOSTING】El teclado mecánico para juegos permite que varias teclas funcionen al mismo tiempo. Proporciona sensibilidad de alta velocidad, perfecta para autores, jugadores, programadores, etc.
 - 【TECLADO DE JUEGOS DE PC ERGONÓMICO DISEÑADO】El teclado presenta un diseño ergonómico compacto que ahorra espacio y una construcción de ABS duradera de alta calidad con llaves e interruptores mecánicos montados en placa que se sostienen incluso durante las sesiones de juego de maratón más exigentes como liga de leyendas, vapor, Fortnite, PUGB, Overwatch, Call of Deber y otros juegos de FPS. (Los interruptores de llave son reemplazables por el usuario)
 - 【Retroiluminación RGB】: 16,8 millones de combinaciones de colores, múltiples modos de retroiluminación, no se necesita controlador. Teclado Plug & Play con factor de forma reducido
+- 【ABS DURADERO E IMPERMEABLE】 Está hecho de ABS de alta calidad y materiales metálicos, teclas de caracteres grabadas con láser, por lo que es muy duradero. También tiene 12 botones multimedia, diseño antideslizante y a prueba de salpicaduras, almohadillas ajustables y cable USB chapado en oro para un ángulo de escritura perfecto y una experiencia de alta calidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075XHTT1D/?tag=tolees-21)

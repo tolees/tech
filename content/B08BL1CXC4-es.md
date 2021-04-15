@@ -28,10 +28,10 @@ Tienes [JETlifetech Tinta de sublimación para Epson Impresora WF7720 WF7710 WF7
 
 🔎:
 
-- El paquete contiene: 5 Botellas de JETlifetech transferencia de calor tinta de impresora. (1x negro, 1x cian, 1x magenta, 1x amarillo), 100ml cada botella, relación calidad-precio y rentable.
-- Buen rendimiento: fácil de rellenar, fácil de rellenar pero sin obstruir los cabezales de impresión, colores vivos, claros y naturales, sin daños en la impresora.
 - JETlifetech Colorante Tinta de sublimación Kit de recarga están todos bajo el estándar ISO9001, ISO10004. Pruebas estrictas antes de la entrega de fábrica, para garantizar la calidad.
-- Amplia compatibilidad: tazas, camiseta de poliéster, estuche para teléfono, alfombrilla para mouse, sombrero, poliéster, poliamida, spandex, nailon, tazas de cerámica, platos, pizarras y una gran cantidad de otros sublimantes, etc. Transferencia de imagen colorida a. No para ropa de puro algodón.
+- El paquete contiene: 5 Botellas de JETlifetech transferencia de calor tinta de impresora. (1x negro, 1x cian, 1x magenta, 1x amarillo), 100ml cada botella, relación calidad-precio y rentable.
 - La tinta de recarga por sublimación JETlifetech se puede utilizar en impresoras Epson que utilicen cartuchos de tinta recargables o sistemas de tinta continua (CISS) .Recargas de tinta de impresión de transferencia por sublimación de alta calidad para WorkForce WF3540 WF3520 WF3640 WF3620 WF7010 WF7110 WF7510 WF7520 WF7610 WF7620 WF7710 WF7720 WF7210 WF2750 ET2720 ET2650 ET2750
+- Amplia compatibilidad: tazas, camiseta de poliéster, estuche para teléfono, alfombrilla para mouse, sombrero, poliéster, poliamida, spandex, nailon, tazas de cerámica, platos, pizarras y una gran cantidad de otros sublimantes, etc. Transferencia de imagen colorida a. No para ropa de puro algodón.
+- Buen rendimiento: fácil de rellenar, fácil de rellenar pero sin obstruir los cabezales de impresión, colores vivos, claros y naturales, sin daños en la impresora.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BL1CXC4/?tag=tolees-21)

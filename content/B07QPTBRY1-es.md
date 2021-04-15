@@ -28,10 +28,10 @@ Está [Telefono a HDMI Ozvavzk Phone a HDMI Cable Convertidor 3 en 1 USB/Tipo C/
 
 ℹ️:
 
+- 【Incompatible:】 NO APOYO APLICACIONES que tengan protección de derechos de autor de video "HDCP" como Netflix, Amazon prime video, HBO go, HULU, SKY Go y Xfinity y más.
+- 【Fácil de Usar, Plug y Play:】Advanced Edition es fácil de usar, sin necesidad de conexión WiFi , no es necesario instalar ningún software de controlador, no necesita red celular , conectar directamente el cable a la conexión de HDTV, puede lograr la transmisión de video.
 - 【NOTA AMIGABLE: 】Asegúrese de conectar la fuente de alimentación 5v1a. La primera vez que necesite conectarse, debe hacer clic en el botón "confiar" y esperar 10 segundos.. Todo el proceso se conecta automáticamente, no lo mueva ni desconecte. Los adaptadores originales son las mejores opciones.
 - 【Soporte de Aplicaciones:】Soporte de YouTube, IDMB, Quickflix, Family On TV, ABC, NBC, FOX, Microsoft Office y más.
-- 【Fácil de Usar, Plug y Play:】Advanced Edition es fácil de usar, sin necesidad de conexión WiFi , no es necesario instalar ningún software de controlador, no necesita red celular , conectar directamente el cable a la conexión de HDTV, puede lograr la transmisión de video.
 - 【Alta Calidad a 1080P HD:】el adaptador AV digital admite la duplicación de lo que se muestra en la pantalla de su dispositivo, incluyendo aplicaciones, presentaciones, sitios web, presentaciones de diapositivas y más en su televisor, pantalla, proyector u otra pantalla compatible equipada con HDMI de hasta 1080p HD
-- 【Incompatible:】 NO APOYO APLICACIONES que tengan protección de derechos de autor de video "HDCP" como Netflix, Amazon prime video, HBO go, HULU, SKY Go y Xfinity y más.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QPTBRY1/?tag=tolees-21)

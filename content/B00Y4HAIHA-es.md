@@ -28,10 +28,10 @@ Tienes [ Actualizado  Retroiluminado  Rii i8+ Mini teclado inalámbrico 2.4Ghz c
 
 🔎:
 
-- Touchpad incluido & Retroiluminación LED: Teclado estándar y touchpad multitoque se combinan juntos. Con su función de retroiluminación puedes usarlo en la oscuridad.
-- Compatibilidad con múltiples Sistemas Operativos: Android 4.4 y posterior, Windows 7/8/10, Chrome OS, MacOS (Algunas funciones pueden no estar disponibles)
 - Plug & Play: Listo para funcionar. Tan solo introduce el receptor USB y enciéndelo. La sincronización es automática.
 - Diseño ergonómico, compacto y ligero: Maneja fácilmente el teclado de una manera suave.(layout Español)
+- Touchpad incluido & Retroiluminación LED: Teclado estándar y touchpad multitoque se combinan juntos. Con su función de retroiluminación puedes usarlo en la oscuridad.
 - Garantía: 12 meses de "garantía amigable". Atención al cliente accesible y dedicada, con vendedores autorizados. Para otros vendedores sin autorización expresa de la marca, por favor, consulte las condiciones.
+- Compatibilidad con múltiples Sistemas Operativos: Android 4.4 y posterior, Windows 7/8/10, Chrome OS, MacOS (Algunas funciones pueden no estar disponibles)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Y4HAIHA/?tag=tolees-21)
