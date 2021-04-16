@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Sony CEE Games  New Gen  - El Desenlace  con un 20.30 % de descuento'
-date: 2021-03-12 22:26:03
-image: 'https://m.media-amazon.com/images/I/51gm0wA29xL._SL400_.jpg'
+title: 'Sony CEE Games  New Gen  - El Desenlace  con un 49.92 % de descuento'
+date: 2021-04-15 22:35:27
+image: 'https://m.media-amazon.com/images/I/51gm0wA29xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFFWP8T-es Sony CEE Games New Gen - El Desenlace Del Ladrón Hits -...'
 sku: 'B07FFFWP8T-es'
-actualPrice: 15.9 EUR
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','sony','sony cee games (new gen)', ]
+actualPrice: 9.99 EUR
 currency: EUR
-price: 15.9
+price: 9.99
 comparePrice: 19.95 EUR
 prodname: 'Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits - Edición Uncharted 4  Versión 16'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21'
-descuento: '20.30'
-average: '16.1088065843622'
+descuento: '49.92'
+average: '16.0915102040817'
 ---
 
-En este momento está [Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits - Edición Uncharted 4  Versión 16](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21) a 15.9 EUR (original: 19.95 EUR) (20.30 %  de descuento) en el siguiente enlace!
+En este momento está [Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits - Edición Uncharted 4  Versión 16](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21) a 9.99 EUR (original: 19.95 EUR) (49.92 %  de descuento) en el siguiente enlace!
 
-[![Sony CEE Games  New Gen  - El Desenlace ](https://m.media-amazon.com/images/I/51gm0wA29xL._SL400_.jpg)](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)
+[![Sony CEE Games  New Gen  - El Desenlace ](https://m.media-amazon.com/images/I/51gm0wA29xL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)
 
 🔎:
 
 - Edición del juego: básica
-- Rango ESRB: T (adolescente)
-- Género: acción/aventura
-- Clasificación PEGI: 16
 - Plataforma: PlayStation 4
+- Clasificación PEGI: 16
+- Género: acción/aventura
+- Rango ESRB: T (adolescente)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony CEE Games  New Gen  - Horizon - Com al 32.17 % de descuento'
-date: 2021-04-14 19:24:14
+title: 'Sony CEE Games  New Gen  - Horizon - Com al 60.02 % de descuento'
+date: 2021-04-15 22:14:45
 image: 'https://m.media-amazon.com/images/I/51tQNpiNPUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07THC6RDF-es Sony CEE Games New Gen - Horizon - Complete Edition HITS'
 sku: 'B07THC6RDF-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','sony','sony cee games (new gen)', ]
-actualPrice: 16.95 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 16.95
+price: 9.99
 comparePrice: 24.99 EUR
 prodname: 'Sony CEE Games  New Gen  - Horizon - Complete Edition HITS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21'
-descuento: '32.17'
-average: '14.4533928571429'
+descuento: '60.02'
+average: '14.3750877192983'
 ---
 
-Está [Sony CEE Games  New Gen  - Horizon - Complete Edition HITS](https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21) con 32.17 de descuento por 16.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Sony CEE Games  New Gen  - Horizon - Complete Edition HITS](https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21) con 60.02 de descuento por 9.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Sony CEE Games  New Gen  - Horizon - Com](https://m.media-amazon.com/images/I/51tQNpiNPUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21)
 

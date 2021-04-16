@@ -28,10 +28,10 @@ Está [HKY 22V 455mA Adaptador de Cargador para Impresora HP Officejet 2620 2621
 
 ℹ️:
 
-- Compatibilidad: HP Deskjet 2543 (Deal) HP Deskjet All-in-One 2544 2549, HP Deskjet Ink Advantage 1010, 1515 ,1516,2545,2546;HP Officejet All-in-One 2621, 2622,2624 Etc.
-- Especificación: Entrada: AC100-240V (uso mundial), Salida: 22V 455mA
-- Compatibilidad: HP 0957-2385 1010 1510 1518 2515 2548 Printer,HP Deskjet 1518 1010 1510 (!!!no PSC 1510!!!) 1512 2540 25421012 1513,HP Officejet 2620, HP Deskjet 1510 All-in-One,HP Deskjet 1510 All-in-One upgrade,HP Deskjet 1512 All-in-One,HP Deskjet 1514 All-in-One,HP Deskjet 2540 All-in-One,HP Deskjet 2540 All-in-One refurb
 - Garantía: reembolso gratuito dentro de los 30 días; Garantía del producto en 3 años; Servicio postventa siempre en línea.
+- Compatibilidad: HP Deskjet 2543 (Deal) HP Deskjet All-in-One 2544 2549, HP Deskjet Ink Advantage 1010, 1515 ,1516,2545,2546;HP Officejet All-in-One 2621, 2622,2624 Etc.
+- Compatibilidad: HP 0957-2385 1010 1510 1518 2515 2548 Printer,HP Deskjet 1518 1010 1510 (!!!no PSC 1510!!!) 1512 2540 25421012 1513,HP Officejet 2620, HP Deskjet 1510 All-in-One,HP Deskjet 1510 All-in-One upgrade,HP Deskjet 1512 All-in-One,HP Deskjet 1514 All-in-One,HP Deskjet 2540 All-in-One,HP Deskjet 2540 All-in-One refurb
+- Especificación: Entrada: AC100-240V (uso mundial), Salida: 22V 455mA
 - Certificación: Fuente de alimentación HKY certificada por TUV / GS / CE en Europa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087TXLM6F/?tag=tolees-21)
