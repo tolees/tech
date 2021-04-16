@@ -28,10 +28,10 @@ Tienes [Sony CEE Games  New Gen  - Firewall VR](https://www.amazon.es/dp/B07FK9X
 
 🔎:
 
-- El audio en 3D le permite escuchar cada movimiento de su enemigo
-- Juego para PlayStation 4
-- Con una visión completa de 360 grados de la zona de combate
 - Firewall VR Zero Hour
 - La libertad de movimiento le brinda la capacidad de actuar rápidamente
+- Juego para PlayStation 4
+- Con una visión completa de 360 grados de la zona de combate
+- El audio en 3D le permite escuchar cada movimiento de su enemigo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FK9XD9K/?tag=tolees-21)
