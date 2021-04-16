@@ -28,12 +28,12 @@ Tienes [HUAWEI MatePad T10s - Tablet de 10.1" con pantalla FullHD  WiFi  RAM de 
 
 🔎:
 
-- NOTA! El producto utiliza los servicios móviles de HUAWEI en lugar de los servicios móviles de Google y la aplicación de Google
 - Sistema Operativo EMUI 10.0.1 (basado en Android 10) y Huawei Mobile Services (HMS). No contiene los servicios de Google (GMS) preinstalados tales como Google Play Store, Gmail, YouTube, Google Maps, etc.
 - No incluye ranura para la tarjeta SIM.
-- Pantalla táctil FullHD de 10.1 pulgadas con una resolución de 1920x1200 píxeles, 2MP de cámara frontal y 5MP de cámara trasera. Cuenta con 6 modos de protección ocular y certificado TÜV Rheinland que reduce los efectos de la luz azul. Modo eBook, modo oscuro y ajuste inteligente de brillo.
-- 3GB de RAM y 64GB de almacenamiento.
+- NOTA! El producto utiliza los servicios móviles de HUAWEI en lugar de los servicios móviles de Google y la aplicación de Google
 - Cuerpo metálico, diseño elegante, 740g, 8MM.
 - Procesador Octa-Core Kirin 710A con un algoritmo avanzado que ofrece gráficos mejorados y un gran rendimiento. Altavoces Dual Stereo: sistema de altavoces dobles de alta amplitud sintonizados por Harman Kardon.
+- 3GB de RAM y 64GB de almacenamiento.
+- Pantalla táctil FullHD de 10.1 pulgadas con una resolución de 1920x1200 píxeles, 2MP de cámara frontal y 5MP de cámara trasera. Cuenta con 6 modos de protección ocular y certificado TÜV Rheinland que reduce los efectos de la luz azul. Modo eBook, modo oscuro y ajuste inteligente de brillo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6N54JB/?tag=tolees-21)

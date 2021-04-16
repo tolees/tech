@@ -28,12 +28,12 @@ En este momento está [Microsoft Surface Laptop 3 - Ordenador portátil de 15" t
 
 🔎:
 
-- Sistema operativo windows 10 home
-- Disco duro sólido 256gb
 - Pantalla táctil de 15 pulgadas (2496x1664 pixels)
-- Procesador amd ryzen 5-3580U (2.1ghz base, 3.7ghz turbo) Microsoft Surface Edition Processor
-- Tarjeta gráfica amd radeon vega 9
 - Teclado QWERTY español metálico
+- Procesador amd ryzen 5-3580U (2.1ghz base, 3.7ghz turbo) Microsoft Surface Edition Processor
 - Memoria ram de 8gb ddr4
+- Sistema operativo windows 10 home
+- Tarjeta gráfica amd radeon vega 9
+- Disco duro sólido 256gb
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y8RWGB3/?tag=tolees-21)

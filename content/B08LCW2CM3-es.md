@@ -28,10 +28,10 @@ En este momento está [Agedate - Transmisor Bluetooth Receptor Bluetooth 2 en 1A
 
 🔎:
 
-- 【Adaptador Bluetooth 2 en 1】 Transmisor Bluetooth (TX): en modo de transmisor puede transmitir audio de forma inalámbrica a dispositivos Bluetooth. Receptor Bluetooth (RX): en el modo de recepción, este producto activa su equipo estéreo para recibir música desde su teléfono Bluetooth.
 - 【Manos libres + Reconexión automática】El producto tiene una función de llamada manos libres, que es conveniente y rápida para responder llamadas. El modo RX/TX puede conseguir una conexión automática Back-to-back, y el producto conectado tiene una función de memoria.
 - 【Diseño de luz LED de dos colores】El diseño de luz LED de dos colores hace que el modo de trabajo del producto sea más claro. La conexión del producto es sencilla, sin accionamiento.
-- 【 RX > 10H TX>7H 10 m de alcance】: Batería incorporada de 250 mAh mediante carga USB, hasta 10 horas de trabajo, tiempo de carga 2 horas. El alcance inalámbrico es de 10 m (sin obstáculos).
 - 【3.5 AUX Cable】: Admite entrada y salida de 3,5 mm (AUX). Este producto es adecuado para teléfonos móviles, MP3, MP4, portátil, auriculares, altavoces de coche, altavoces Bluetooth o auriculares con perfiles A2DP Bluetooth.
+- 【Adaptador Bluetooth 2 en 1】 Transmisor Bluetooth (TX): en modo de transmisor puede transmitir audio de forma inalámbrica a dispositivos Bluetooth. Receptor Bluetooth (RX): en el modo de recepción, este producto activa su equipo estéreo para recibir música desde su teléfono Bluetooth.
+- 【 RX > 10H TX>7H 10 m de alcance】: Batería incorporada de 250 mAh mediante carga USB, hasta 10 horas de trabajo, tiempo de carga 2 horas. El alcance inalámbrico es de 10 m (sin obstáculos).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LCW2CM3/?tag=tolees-21)
