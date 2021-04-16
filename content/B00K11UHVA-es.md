@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-Link TL-WA860RE - Repetidor de red Wi al 21.64 % de descuento'
-date: 2021-04-13 14:05:20
+title: 'TP-Link TL-WA860RE - Repetidor de red Wi al 25.34 % de descuento'
+date: 2021-04-16 07:02:19
 image: 'https://m.media-amazon.com/images/I/31oFcmO22FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B00K11UHVA-es TP-Link TL-WA860RE - Repetidor de red Wifi extensor...'
 sku: 'B00K11UHVA-es'
 tags: [ 'Dispositivos de red','Informática','Módems','Repetidores de red','tp-link','wifi', ]
-actualPrice: 23.5 EUR
+actualPrice: 22.39 EUR
 currency: EUR
-price: 23.5
+price: 22.39
 comparePrice: 29.99 EUR
 prodname: 'TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas '
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21'
-descuento: '21.64'
-average: '22.805144927536'
+descuento: '25.34'
+average: '22.8021582733811'
 ---
 
-Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21) con 21.64 de descuento por 23.5 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21) con 25.34 de descuento por 22.39 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![TP-Link TL-WA860RE - Repetidor de red Wi](https://m.media-amazon.com/images/I/31oFcmO22FL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21)
 
 ℹ️:
 
+- Fácil Gestión: Amplíe fácilmente la cobertura inalámbrica con sólo pulsar el botón Range Extender
 - 2 antenas externas fijas le proporcionan una cobertura WiFi excelente y una alta fiabilidad
 - El modo Extensor de Cobertura amplifica la señal inalámbrica perfectamente hasta zonas donde antes no llegaba o que son difíciles de cablear
-- Su enchufe extra le asegura de que no pierde ninguna toma de corriente
 - Puente Ethernet: Convierta dispositivos cableados en inalámbricos
-- Fácil Gestión: Amplíe fácilmente la cobertura inalámbrica con sólo pulsar el botón Range Extender
+- Su enchufe extra le asegura de que no pierde ninguna toma de corriente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21)
