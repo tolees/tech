@@ -28,11 +28,11 @@ En este momento está [Samsung Galaxy Tab S4 - Tablet de 10.5" WQXGA  Wi-Fi  Pro
 
 🔎:
 
-- Pantalla infinita sAMOLED de 10.5" con una resolución 2560 x 1600 (WQXGA)
 - Batería de 7.300 mAh - hasta 16 horas de autonomía en uso
-- S Pen con punta de 0.7 mm ofrece una escritura más precisa y natural. Función Air Command para traducir palabras y frases
-- Screen-Off Memo que permite apuntar notas rápidas con la pantalla apagada
-- Cuatro altavoces Dolby Atmos con tecnología de sonido envolvente 3D
 - Samsung DeX: experiencia PC para disfrutar de mayor productividad
+- Screen-Off Memo que permite apuntar notas rápidas con la pantalla apagada
+- Pantalla infinita sAMOLED de 10.5" con una resolución 2560 x 1600 (WQXGA)
+- Cuatro altavoces Dolby Atmos con tecnología de sonido envolvente 3D
+- S Pen con punta de 0.7 mm ofrece una escritura más precisa y natural. Función Air Command para traducir palabras y frases
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GNT6J3Q/?tag=tolees-21)
