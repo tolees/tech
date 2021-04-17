@@ -28,9 +28,9 @@ En este momento está [JBL Quantum 800 Auriculares inalámbricos para gamers con
 
 🔎:
 
-- Con JBL QuantumENGINE-PC Software y tecnología DTS (Digital Theatre Systems) para un sonido envolvente y micrófono Boom con cancelación de eco para una comunicación cristalina
 - Contenido de envío: 1x Auriculares JBL Quantum 800 cubiertos con cuero suave y efectos de iluminación RGB, Bluetooth 5.0, compatibilidad inalámbrica con PC y PlayStation, color negro
 - Auriculares para meterte de lleno en todas tus aventuras digitales. Disfruta de un sonido de calidad para no perderte un paso, un tiro o un salto; para que vayas con ventaja (solo para PC gaming)
+- Con JBL QuantumENGINE-PC Software y tecnología DTS (Digital Theatre Systems) para un sonido envolvente y micrófono Boom con cancelación de eco para una comunicación cristalina
 - Posibilidad de control del volumen entre las conversaciones con tus amigos y el propio videojuego. Compatibilidad con toda realidad virtual: PC, Mac, Xbox, PlayStation, Nintendo Switch, móvil y VR
 - Sonido característico JBL Quantum SORROUND SOUND de diadema hará que cada victoria se amplifique; en PC, Mac, Xbox, PlayStation y Nintendo Switch, ya sea en juegos FPS o en batallas MOBA
 
