@@ -28,10 +28,10 @@ Tienes [SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB - Edición Ap
 
 🔎:
 
-- Velocidades de lectura de hasta 100 MB/s y velocidades de escritura de hasta 90 MB/s
-- Una sola tarjeta para almacenar varios juegos y jugar en cualquier lugar y en cualquier momento
-- Hasta 128 GB de memoria adicional
-- Garantía limitada de por vida
 - Diseñada, probada y autorizada para el sistema de juego de Nintendo Switch
+- Hasta 128 GB de memoria adicional
+- Una sola tarjeta para almacenar varios juegos y jugar en cualquier lugar y en cualquier momento
+- Garantía limitada de por vida
+- Velocidades de lectura de hasta 100 MB/s y velocidades de escritura de hasta 90 MB/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V4Z4VRY/?tag=tolees-21)
