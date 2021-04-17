@@ -29,9 +29,9 @@ Tienes [GANA 2 Pack RJ45 Adaptador RJ45 Acoplador Ethernet RJ45 para Cable de Re
 🔎:
 
 - Bueno Calidad: La carcasa de ABS usada asegura la resistencia al calor y la resistencia al envejecimiento. Ocupa un espacio muy pequeño, por lo que se aplica a la conexión del dispositivo de red de la casa o la oficina.
-- 2 Pack GANA Adaptador RJ45: el extensor de Acoplador RJ45 es ideal para extender la conexión Ethernet conectando 2 cables de red cortos juntos
-- Compatibilidad: El conector keystone 8P8C del acoplador hembra a hembra es compatible con redes Cat5, Cat5e, Cat6 cable, Admite la velocidad de red de hasta 1000 Mbps.
 - Uso previsto: Perfectamente adecuado para la electrónica del automóvil Cable de conexión Rj45, cable LAN, cable de red, cable Ethernet, cable LAN Gigabit y más.
+- Compatibilidad: El conector keystone 8P8C del acoplador hembra a hembra es compatible con redes Cat5, Cat5e, Cat6 cable, Admite la velocidad de red de hasta 1000 Mbps.
 - Lo que obtienes: Adaptador RJ45 8P8C x 2; Obtenga Garantía de 18 meses y soporte técnico de por vida GANA.
+- 2 Pack GANA Adaptador RJ45: el extensor de Acoplador RJ45 es ideal para extender la conexión Ethernet conectando 2 cables de red cortos juntos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RS9KGH9/?tag=tolees-21)
