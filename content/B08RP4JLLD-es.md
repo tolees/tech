@@ -28,9 +28,9 @@ Tienes [Xiaomi Redmi Note 9T 5G  Pantalla FHD+ de 6.53"  4GB+64 GB  Cámara trip
 
 🔎:
 
-- Pantalla: 6.53", 1080 x 2340 pixels
 - Procesador: Mediatek Dimensity 800U 5G 2.0GHz
-- Cámara: Triple, 48MP+2MP+2MP
 - Batería: 5000 mAh
+- Pantalla: 6.53", 1080 x 2340 pixels
+- Cámara: Triple, 48MP+2MP+2MP
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RP4JLLD/?tag=tolees-21)

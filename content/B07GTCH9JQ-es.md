@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'devolo Magic 1 – 1200 WiFi ac Starter Ki al 19.58 % de rebaja'
-date: 2021-04-11 11:37:25
-image: 'https://m.media-amazon.com/images/I/41IbxfJT68L._SL400_.jpg'
+date: 2021-04-17 12:04:33
+image: 'https://m.media-amazon.com/images/I/41IbxfJT68L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.es/dp/B07GTCH9JQ/?tag=tolees-21'
 descuento: '19.58'
-average: '112.60448275862'
+average: '112.694772727272'
 ---
 
 Tienes [devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 adaptadores Powerline  función WiFi  adecuado para la Home Office  1200 Mbit/s  2 x conexiones Fast Ethernet LAN  malla  G.hn ](https://www.amazon.es/dp/B07GTCH9JQ/?tag=tolees-21) con precio final de  120.55 EUR (original: 149.9 EUR) (19.58 %  de rebaja) aqui!
 
-[![devolo Magic 1 – 1200 WiFi ac Starter Ki](https://m.media-amazon.com/images/I/41IbxfJT68L._SL400_.jpg)](https://www.amazon.es/dp/B07GTCH9JQ/?tag=tolees-21)
+[![devolo Magic 1 – 1200 WiFi ac Starter Ki](https://m.media-amazon.com/images/I/41IbxfJT68L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07GTCH9JQ/?tag=tolees-21)
 
 🔎:
 
-- Red de malla inteligente: WiFi con 1200 Mbit/s para toda su casa, óptimo para transmitir, navegar y Home Office
-- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
 - Calidad probada del pionero Powerline: A nivel internacional se utilizan más de 40 millones de adaptadores
+- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
+- Red de malla inteligente: WiFi con 1200 Mbit/s para toda su casa, óptimo para transmitir, navegar y Home Office
 - Instalación simple y tecnología G.hn del futuro: Asignación sencilla de contraseña para WiFi de invitado y protección infantil integrada
 - Productos incluidos: Starter Kit con dos adaptadores Powerline: 1 x adaptador WiFi Powerline (con 2 x conexiones Fast Ethernet LAN) + 1 x adaptador de conexión (con 1 x conexión Gigabit LAN), WiFi 5
 
