@@ -29,9 +29,9 @@ En este momento está [Sony CEE Games  New Gen  - Little Big Planet 3 Hits - Ver
 🔎:
 
 - Edición del juego: básica
-- Clasificación PEGI: 7
-- Rango ESRB: T (adolescente)
 - Género: acción/aventura
+- Rango ESRB: T (adolescente)
 - Plataforma: PlayStation 4
+- Clasificación PEGI: 7
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21)
