@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 870 EVO 2000 GB Negro al 17.63 % de descuento'
-date: 2021-04-16 13:41:03
+date: 2021-04-17 13:59:52
 image: 'https://m.media-amazon.com/images/I/41JKfO-SBQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21'
 descuento: '17.63'
-average: '232.348'
+average: '224.873333333333'
 ---
 
 Está [Samsung 870 EVO 2000 GB Negro](https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21) con 17.63 de descuento por 187.5 EUR (original: 227.64 EUR) en el siguiente enlace!
