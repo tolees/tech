@@ -29,9 +29,9 @@ Ahora mismo tienes [HyperX Fury  Memoria Ram de 8 GB  Ddr4  2400 MHz  Cl15  Dimm
 🔎:
 
 - Compatibilidad con Intel XMP para las últimas tecnologías de procesador
-- Overclocking automático: hasta 3466 MHz¹
-- Un funcionamiento frío gracias a la memoria DDR4 de 1.2 V con un consumo de energía reducido
-- Diseño FURY asimétrico con un disipador de calor de bajo perfil
 - Actualización a DDR4 rentable y de gran rendimiento
+- Un funcionamiento frío gracias a la memoria DDR4 de 1.2 V con un consumo de energía reducido
+- Overclocking automático: hasta 3466 MHz¹
+- Diseño FURY asimétrico con un disipador de calor de bajo perfil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D8U2BKA/?tag=tolees-21)
