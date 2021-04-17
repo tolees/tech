@@ -28,10 +28,10 @@ Tienes [Philips PHICSP530 - Altavoz coaxial para Coche  Color Negro](https://www
 
 ℹ️:
 
-- Cono de polipropileno ligero con un tweeter de cúpula
 - Potencia 180W max - 35W RMS
-- Envoltura de tejido sensible para maximizar los detalles de sonido
+- Cono de polipropileno ligero con un tweeter de cúpula
 - Rejilla de altavoz elegante que protege de daños
+- Envoltura de tejido sensible para maximizar los detalles de sonido
 - Tweeter de cúpula de PEI suave para unos tonos cálidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CXKQAAO/?tag=tolees-21)
