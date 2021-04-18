@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon EOS M50 - Kit de cámara EVIL de 24 al 19.89 % de descuento'
-date: 2021-04-15 13:03:39
+date: 2021-04-18 09:27:52
 image: 'https://m.media-amazon.com/images/I/41bC3fBd2SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B07B37N1LJ/?tag=tolees-21'
 descuento: '19.89'
-average: '550.348947368421'
+average: '552.831'
 ---
 
 Está [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4K con objetivo EF-M 15-45mm IS MM  pantalla táctil de 3"  estabilizador óptico  Wifi   color negro](https://www.amazon.es/dp/B07B37N1LJ/?tag=tolees-21) con 19.89 de descuento por 599.99 EUR (original: 749.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4K con objetivo E
 
 ℹ️:
 
-- Grabación de video 4K
-- Pantalla táctil LCD (TFT) de 3.0" (7.5 cm), de ángulo variable
-- Enfoque de máxima precisión con Dual Pixel CMOS AF, que realiza un seguimiento rápido y preciso del sujeto
 - Sensor CMOS de 24.1 megapíxeles y DIGIC 8
-- visualiza y edita las imágenes en tu Smartphone o tablet y compártelas con tus amigos
 - Conexión WiFi y Bluetooth
+- Enfoque de máxima precisión con Dual Pixel CMOS AF, que realiza un seguimiento rápido y preciso del sujeto
+- Grabación de video 4K
+- visualiza y edita las imágenes en tu Smartphone o tablet y compártelas con tus amigos
+- Pantalla táctil LCD (TFT) de 3.0" (7.5 cm), de ángulo variable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B37N1LJ/?tag=tolees-21)
