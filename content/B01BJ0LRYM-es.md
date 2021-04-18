@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.92 % en Ratón Óptico Inalámbrico NGS HAZE 2 4Ghz'
-date: 2021-04-15 13:01:44
+date: 2021-04-18 07:01:19
 image: 'https://m.media-amazon.com/images/I/316wmjH76KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
