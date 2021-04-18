@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'realme X50 Pro – Smartphone 5G de 6.44”  al 33.39 % de descuento'
-date: 2021-04-03 22:39:32
-image: 'https://m.media-amazon.com/images/I/41hlJap+zoL._SL400_.jpg'
+date: 2021-04-18 14:47:43
+image: 'https://m.media-amazon.com/images/I/41hlJap+zoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21'
 descuento: '33.39'
-average: '456.084583333333'
+average: '454.919591836734'
 ---
 
 Está [realme X50 Pro – Smartphone 5G de 6.44”  8 GB RAM + 128 GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Moss Green [Versión ES/PT]](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21) con 33.39 de descuento por 399.0 EUR (original: 599.0 EUR) en el siguiente enlace!
 
-[![realme X50 Pro – Smartphone 5G de 6.44” ](https://m.media-amazon.com/images/I/41hlJap+zoL._SL400_.jpg)](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21)
+[![realme X50 Pro – Smartphone 5G de 6.44” ](https://m.media-amazon.com/images/I/41hlJap+zoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21)
 
 ℹ️:
 
-- Batería de 4200mAh con carga SuperDart de 65W
-- Cuádruple Cámara AI de 64MP, zoom 20X
-- Altavoces estéreo duales Dolby Atmos
-- Sistema de enfriamiento de vapor
 - Pantalla de 6.44” Super AMOLED de 90Hz
 - Procesador Qualcomm Snapdragon 865, 5G
+- Batería de 4200mAh con carga SuperDart de 65W
+- Sistema de enfriamiento de vapor
+- Altavoces estéreo duales Dolby Atmos
+- Cuádruple Cámara AI de 64MP, zoom 20X
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21)
