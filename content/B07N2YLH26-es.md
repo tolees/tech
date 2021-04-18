@@ -28,10 +28,10 @@ Está [AZDelivery 3 x CP2102 USB a TTL Convertidor HW-598 para 3.3V y 5V compati
 
 ℹ️:
 
-- ✔️ Incluso pequeñas desviaciones en el tiempo o en las especificaciones eléctricas no harán que este convertidor se salga de lugar.
-- ✔️ Este producto incluye un E-Book que proporciona información útil sobre cómo comenzar su proyecto, ayuda con una configuración rápida y ahorra tiempo en el proceso de configuración. Proporcionamos una serie de ejemplos de aplicación, guías de instalación completas y bibliotecas Arduino.
-- ✔️ Para una fácil conexión a todos los microcontroladores populares de 3.3V y 5V.
-- ✔️ Adaptador serie USB fiable con chipset CP2102.
 - ✔️ El convertidor permite una transmisión estable incluso a velocidades de datos más altas.
+- ✔️ Adaptador serie USB fiable con chipset CP2102.
+- ✔️ Para una fácil conexión a todos los microcontroladores populares de 3.3V y 5V.
+- ✔️ Este producto incluye un E-Book que proporciona información útil sobre cómo comenzar su proyecto, ayuda con una configuración rápida y ahorra tiempo en el proceso de configuración. Proporcionamos una serie de ejemplos de aplicación, guías de instalación completas y bibliotecas Arduino.
+- ✔️ Incluso pequeñas desviaciones en el tiempo o en las especificaciones eléctricas no harán que este convertidor se salga de lugar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N2YLH26/?tag=tolees-21)
