@@ -28,10 +28,10 @@ Ahora mismo tienes [SriHome Webcam PC Full HD 1080P con Micrófono Estéreo  Web
 
 🔎:
 
-- PLUG & PLAY: Gracias al Clase del USB Dispositivo de Video (UVC) esta webcam USB puede conectarse y reproducir video en 5 minutos no hay controladores o software para instalar, solo conéctelo y juegue, es una parte perfecta para su computadora.
-- 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
 - Compatible con Windows XP / 2000/2003 / Vista / 7/8/10, Mac OS 10.6 y Android 5.0 o superior, funciona con Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger etc. Es compatible con USB 2.0/3.0
-- MICRÓFONO ESTÉREO INCORPORADOS: Dual Micrófonos Digital garantizan un audio natural y cristalino mientras reducen el ruido del fondo en gran medida
+- PLUG & PLAY: Gracias al Clase del USB Dispositivo de Video (UVC) esta webcam USB puede conectarse y reproducir video en 5 minutos no hay controladores o software para instalar, solo conéctelo y juegue, es una parte perfecta para su computadora.
 - DISEÑO DE USO-FÁCIL: Clip esta cámara de forma conveniente en los monitores de computadora de pantalla-plana y las pantallas de ordenador portátil o páratelo en los escritorios y otras superficies planas.
+- MICRÓFONO ESTÉREO INCORPORADOS: Dual Micrófonos Digital garantizan un audio natural y cristalino mientras reducen el ruido del fondo en gran medida
+- 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08K3K8L7K/?tag=tolees-21)
