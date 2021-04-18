@@ -28,9 +28,9 @@ Tienes [Ratón Óptico Inalámbrico NGS HAZE 2 4Ghz nano receptor-800/1600 DPI. 
 
 ℹ️:
 
-- raton óptico 800/1600 dpi
-- color: gris
-- inalámbrico
 - 2.4ghz nano receptor
+- raton óptico 800/1600 dpi
+- inalámbrico
+- color: gris
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJ0LRYM/?tag=tolees-21)
