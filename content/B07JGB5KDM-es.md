@@ -28,10 +28,10 @@ Tienes [Sony CEE Games  New Gen  - Until Dawn Hits - Versión 16](https://www.am
 
 ℹ️:
 
-- Género: supervivencia/horror
-- Edición del juego: básica
-- Rango ESRB: M (maduro)
-- Clasificación PEGI: 18
 - Plataforma: PlayStation 4
+- Clasificación PEGI: 18
+- Rango ESRB: M (maduro)
+- Edición del juego: básica
+- Género: supervivencia/horror
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JGB5KDM/?tag=tolees-21)

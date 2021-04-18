@@ -30,8 +30,8 @@ Ahora mismo tienes [Canon - Objetivo RF 35mm f/1 8 Macro IS STM  Abertura f/1 8 
 
 - Distancia focal y luminosidad f/1.8 para un tipo de fotografía casual
 - Anillo de control
-- Fotografía Macro con un ratio de amplificación máximo de 0.5x
 - Estabilización de imagen de 5 pasos
+- Fotografía Macro con un ratio de amplificación máximo de 0.5x
 - Diseño compacto y ligero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H9RZQ57/?tag=tolees-21)
