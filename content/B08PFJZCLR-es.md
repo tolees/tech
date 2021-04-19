@@ -28,11 +28,11 @@ En este momento está [HP Pavilion 14-dv0020ns - Ordenador portátil de 14" Full
 
 🔎:
 
-- Almacenamiento de 512GB SSD
 - Procesador Intel Core i5-1135G7
 - 8GB de memoria RAM
+- Almacenamiento de 512GB SSD
+- Pantalla de 14" FullHD
 - Windows 10
 - Tarjeta gráfica Integrada Intel Iris Xe
-- Pantalla de 14" FullHD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJZCLR/?tag=tolees-21)

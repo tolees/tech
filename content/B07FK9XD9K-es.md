@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Firewall VR al 33.34 % de rebaja'
-date: 2021-04-15 22:23:32
+date: 2021-04-19 09:17:32
 image: 'https://m.media-amazon.com/images/I/518IeMWisaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FK9XD9K/?tag=tolees-21'
 descuento: '33.34'
-average: '25.2928571428571'
+average: '24.9393333333333'
 ---
 
 Tienes [Sony CEE Games  New Gen  - Firewall VR](https://www.amazon.es/dp/B07FK9XD9K/?tag=tolees-21) con precio final de  19.99 EUR (original: 29.99 EUR) (33.34 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony CEE Games  New Gen  - Firewall VR](https://www.amazon.es/dp/B07FK9X
 
 🔎:
 
-- Firewall VR Zero Hour
-- La libertad de movimiento le brinda la capacidad de actuar rápidamente
-- Juego para PlayStation 4
 - Con una visión completa de 360 grados de la zona de combate
+- La libertad de movimiento le brinda la capacidad de actuar rápidamente
+- Firewall VR Zero Hour
 - El audio en 3D le permite escuchar cada movimiento de su enemigo
+- Juego para PlayStation 4
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FK9XD9K/?tag=tolees-21)
