@@ -28,10 +28,10 @@ Tienes [Western Digital My Book Disco Duro Externo de Sobremesa de 24 TB con Rai
 
 🔎:
 
-- Listo para funcionar con usb 3.1 gen. 1 y compatible con usb 3.0
-- Dos puertos concentradores usb 3.0
-- Raid-0 listo para usar
-- Memorias wd red optimizadas para raid
 - Enorme capacidad de almacenamiento con copia de seguridad automática y del sistema
+- Dos puertos concentradores usb 3.0
+- Memorias wd red optimizadas para raid
+- Raid-0 listo para usar
+- Listo para funcionar con usb 3.1 gen. 1 y compatible con usb 3.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W5V8GC9/?tag=tolees-21)

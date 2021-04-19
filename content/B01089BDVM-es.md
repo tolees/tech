@@ -28,10 +28,10 @@ Tienes [VicTsing Ratón Inalámbrico Mini  Portátil 2.4G con Receptor Nano  6 B
 
 🔎:
 
-- [5 DPI Ajustables] 800-1200-1600-2000-2400, fácil de cambia la sensibilidad del cursor depende del ambiente.
-- [2.4G Inalámbrico]Ofrece conexión segura por rango de transmisión de 10m. Enchufar y usar, no necesita drivers.
-- [Apretón Ergonómico]La forma mini contorneada adecua para su manos perfectamente. La rueda de desplazamiento con caucho le asegura que su mano no se resbale al usar el ratón. Los botones de lados puede ayudarte a avanzar y retroceder al navegar la web.
-- [Ahorro-Energía]el ratón se apagrá automáticamente después de 8 minutos de inactivo. 15 meses de vida de batería, no se preocupe nada. NOTA: necesita 1*AA batería. (NO INCLUIDO)
 - [Compatibilidad]Perfecto para Win7/8/10/XP, Vista7/8 y Linux. Para Mac OS, los botons de lado no funcionan. 45 días de reembolso y 12 meses de garantía.[Nota]Los botones del lado no es compatible con Mac OS
+- [Ahorro-Energía]el ratón se apagrá automáticamente después de 8 minutos de inactivo. 15 meses de vida de batería, no se preocupe nada. NOTA: necesita 1*AA batería. (NO INCLUIDO)
+- [Apretón Ergonómico]La forma mini contorneada adecua para su manos perfectamente. La rueda de desplazamiento con caucho le asegura que su mano no se resbale al usar el ratón. Los botones de lados puede ayudarte a avanzar y retroceder al navegar la web.
+- [2.4G Inalámbrico]Ofrece conexión segura por rango de transmisión de 10m. Enchufar y usar, no necesita drivers.
+- [5 DPI Ajustables] 800-1200-1600-2000-2400, fácil de cambia la sensibilidad del cursor depende del ambiente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01089BDVM/?tag=tolees-21)
