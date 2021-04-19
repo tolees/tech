@@ -28,10 +28,10 @@ Está [OMOTON Funda Teclado para iPad 8/7 10.2  7.ª/ / 8ª generación  2019/20
 
 ℹ️:
 
-- 【 El Método simple】:1. Encende el interruptor del teclado. 2. Tecla "Fn+C", Activa el bluetooth. 3 . Abrir el Bluetooth de ipad 10.2 2019. 4. Luego ajusta la lengua del teclado.
 - 【Teclado Español Inalámbrico Desmontable】:El teclado Español (tiene la letra Ñ) es inalámbrico y su funda es desmontalbe , Al mismo tiempo, tiene una buena distancia entre el teclado y la pantalla, le brinda una experiencia de meganografía más cómoda. Se puede separar en 3 partes, teclado+funda+soporte.
-- 【Función añadida】 Al cerrar o abrir la la tapa, la función de encendido y apagado automático. También hay una lugar para poner el apple pencil.
 - 【Alta Calidad】: Usado buena calidad de cuero PU para la funda, protege todas las esquinas, la pantalla y el teclado.
+- 【Función añadida】 Al cerrar o abrir la la tapa, la función de encendido y apagado automático. También hay una lugar para poner el apple pencil.
 - 【Compatible con iPad 10.2 2020/2019 / iPad Pro 10.5/iPad Air 3】: iPad Air 3rd Gen 10.5(2019)(Modelo: A2152, A2123, A2153), iPad Pro 10.5 2017(A1701 A1709), iPad 10.2 2019/2020 (7.ª/ / 8ª generación),
+- 【 El Método simple】:1. Encende el interruptor del teclado. 2. Tecla "Fn+C", Activa el bluetooth. 3 . Abrir el Bluetooth de ipad 10.2 2019. 4. Luego ajusta la lengua del teclado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z8N5PX1/?tag=tolees-21)

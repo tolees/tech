@@ -28,9 +28,9 @@ Ahora mismo tienes [i-Buy Funda Dura Compatible con 2019 MacBook Pro 16 Pulgadas
 
 🔎:
 
-- ✔️ Estuche rígido: plástico de PC de alta calidad con alta resistencia al impacto, amplio rango de temperatura y buena estabilidad dimensional (no tiene que preocuparse por la deformación del estuche debido a las altas temperaturas). Hard Shell Case podría proteger su MacBook de arañazos. Además, la funda con revestimiento de goma de colores, lo que hace que su Mac sea más única.
 - ✔️ Cubierta del teclado: Hecho de material de TPU suave y artesanía especial. La cubierta del teclado a juego proporciona protección completa para su teclado MacBook contra el polvo, derrames de líquidos (café / cerveza / leche), desgaste de teclas, contaminantes y más.
-- ✅NOTA: Compatible con Macbook New Pro 16 pulgadas (Número de modelo: A2141, lanzado en 2019) con Barra táctil y identifición de toque. Compruebe el modelo de MacBook "AXXXX" en la parte posterior antes de comprar. ❌ No es compatible con otros modelos de MacBook.
 - ✔️ Protector de pantalla: las películas para computadora portátil pueden evitar que su pantalla se raye de manera efectiva y podrían conservar su brillo original. Mantenga su superficie libre de polvo, humedad y huellas dactilares. Y es fácil de limpiar. （Consejos: recomendaría que brille una luz brillante a la pantalla durante el proceso de limpieza, para asegurarse de que no queden especificaciones de polvo. Luego, comience desde la parte inferior de la pantalla y alíselo hacia arriba.）
+- ✅NOTA: Compatible con Macbook New Pro 16 pulgadas (Número de modelo: A2141, lanzado en 2019) con Barra táctil y identifición de toque. Compruebe el modelo de MacBook "AXXXX" en la parte posterior antes de comprar. ❌ No es compatible con otros modelos de MacBook.
+- ✔️ Estuche rígido: plástico de PC de alta calidad con alta resistencia al impacto, amplio rango de temperatura y buena estabilidad dimensional (no tiene que preocuparse por la deformación del estuche debido a las altas temperaturas). Hard Shell Case podría proteger su MacBook de arañazos. Además, la funda con revestimiento de goma de colores, lo que hace que su Mac sea más única.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BP52ZDJ/?tag=tolees-21)
