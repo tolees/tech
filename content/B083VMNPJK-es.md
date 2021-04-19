@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Dreams con un 50.13 % de descuento'
-date: 2021-04-18 07:22:44
+date: 2021-04-19 07:39:42
 image: 'https://m.media-amazon.com/images/I/51TgetSStWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21'
 descuento: '50.13'
-average: '28.8343333333333'
+average: '28.546129032258'
 ---
 
 En este momento está [Sony - Dreams](https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21) a 19.9 EUR (original: 39.9 EUR) (50.13 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Sony - Dreams](https://www.amazon.es/dp/B083VMNPJK/?tag=t
 
 🔎:
 
+- Explora la acción y aventura del modo historia de Dreams, donde podrás jugar tres emocionantes relatos en una deslumbrante exhibición de lo que pueden conseguir las potentes herramientas de creación del juego
 - Es una experiencia ilimitada en la que puedes crear cualquier cosa, desde aventuras interactivas y juegos de plataformas hasta shoot ‘em ups, juegos de puzles y mucho más
 - Cualquier cosa que crees podrás compartirla con una enorme comunidad online, donde también podrás examinar las creaciones de otros jugadores
-- Explora la acción y aventura del modo historia de Dreams, donde podrás jugar tres emocionantes relatos en una deslumbrante exhibición de lo que pueden conseguir las potentes herramientas de creación del juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21)
