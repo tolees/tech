@@ -28,10 +28,10 @@ En este momento está [ESR 2 en 1 Cargador inalámbrico Rápido  15W Estación d
 
 🔎:
 
-- AMPLIA COMPATIBILIDAD: Compatible con todos los dispositivos iOS y Android habilitados para Qi. Admite carga rápida de 10W para el Galaxy S20/S10; carga rápida de 7,5W para iPhone 12 Mini/12/12 Pro/12 Pro Max/SE 2020/11/11 Pro /11 Pro Max/Xs/Xs Max/XR/X/8/8 Plus, 5W para AirPods 2/AirPods Pro y Galaxy Buds; 3W para iWatch 5/4/3/2.
-- CARGA INALÁMBRICA 2 EN 1: Carga tu iWatch y tu iPhone/AirPods al mismo tiempo, mientras mantienes tu escritorio ordenado y ahorras un valioso espacio.
-- GARANTÍA DE SATISFACCIÓN: No estaremos satisfechos hasta que tú no lo estés completamente. Todos nuestros productos están respaldados con el soporte que te mereces.
-- SOPORTE DE CARGA DESMONTABLE PARA EL RELOJ: Su exclusivo soporte de carga para Smartwatch se puede conectar a la base o a casi cualquier puerto USB-A (como si fuese una unidad USB), lo que lo hace ideal para cargarlo en cualquier sitio.
 - ESTABLE Y COMPATIBLE CON FUNDA: Las almohadillas antideslizantes de la base de carga mantendrán tu teléfono siempre en su sitio. Compatible con casi todas las fundas de teléfonos de menos de 5 mm de grosor que no incluyan accesorios metálicos.
+- CARGA INALÁMBRICA 2 EN 1: Carga tu iWatch y tu iPhone/AirPods al mismo tiempo, mientras mantienes tu escritorio ordenado y ahorras un valioso espacio.
+- AMPLIA COMPATIBILIDAD: Compatible con todos los dispositivos iOS y Android habilitados para Qi. Admite carga rápida de 10W para el Galaxy S20/S10; carga rápida de 7,5W para iPhone 12 Mini/12/12 Pro/12 Pro Max/SE 2020/11/11 Pro /11 Pro Max/Xs/Xs Max/XR/X/8/8 Plus, 5W para AirPods 2/AirPods Pro y Galaxy Buds; 3W para iWatch 5/4/3/2.
+- SOPORTE DE CARGA DESMONTABLE PARA EL RELOJ: Su exclusivo soporte de carga para Smartwatch se puede conectar a la base o a casi cualquier puerto USB-A (como si fuese una unidad USB), lo que lo hace ideal para cargarlo en cualquier sitio.
+- GARANTÍA DE SATISFACCIÓN: No estaremos satisfechos hasta que tú no lo estés completamente. Todos nuestros productos están respaldados con el soporte que te mereces.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3MCD8H/?tag=tolees-21)
