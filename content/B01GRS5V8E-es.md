@@ -29,9 +29,9 @@ En este momento está [LEICKE Cargador 9V 2A 18 Vatios | para Impresora de Etiqu
 🔎:
 
 - ✔ Entrada: 100-240 V~ 50-60 Hz ✔ Salida: 9 voltios, 2 amperios, 18 vatios
-- 🚚 Envío: Fuente de alimentación LEICKE 9V 2A, cable de alimentación 1,20m con enchufe Euro, práctica bolsa de transporte
 - ✔ Cargador universal de gran calidad de 9 voltios para diversos aparatos como impresoras de etiquetas, LED-Strips, Router, NAS, Mini-PCs, Pantallas TFT con cable de alimentación incluido. <b>2 AÑOS de GARANTÍA</b> ✔ Si tienen cualquier pregunta, por favor contactarnos a es@leicke.com
-- ✔ Equipado con protección contra sobretensiones, cortocircuitos y temperatura Tecnología LEICKE ULL: todas las fuentes de alimentación LEICKE Eco están equipadas con la tecnología LEICKE Ultra-Long-Life (ULL) LEICKE SolidPower II (SP2): incluso con cambios de tensión entre 100 V y 240 V, la tecnología LEICKE SolidPower le garantiza un voltaje de salida constante | Cumple con la Normativa Europea RoHS (Restriction of Hazardous Substances)
+- 🚚 Envío: Fuente de alimentación LEICKE 9V 2A, cable de alimentación 1,20m con enchufe Euro, práctica bolsa de transporte
 - ✔ Dimensiones de la clavija: 5,5 x 2,5 mm ✔ Importante Polaridad: exterior negativo (-) e interior positivo (+)
+- ✔ Equipado con protección contra sobretensiones, cortocircuitos y temperatura Tecnología LEICKE ULL: todas las fuentes de alimentación LEICKE Eco están equipadas con la tecnología LEICKE Ultra-Long-Life (ULL) LEICKE SolidPower II (SP2): incluso con cambios de tensión entre 100 V y 240 V, la tecnología LEICKE SolidPower le garantiza un voltaje de salida constante | Cumple con la Normativa Europea RoHS (Restriction of Hazardous Substances)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GRS5V8E/?tag=tolees-21)

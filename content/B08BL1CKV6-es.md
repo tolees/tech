@@ -28,9 +28,9 @@ Está [JETlifetech Limpiador de Cabezales de Impresora  Limpiador de boquillas p
 
 ℹ️:
 
-- Amplia compatibilidad: compatible con todas las marcas de impresoras de inyección de tinta (Epson, HP, Canon, Lexmark, Brother, Dell, Samsung, Kodak, etc.)
 - Buen rendimiento: fácil de usar, ingredientes de alto rendimiento como enzimas activas, limpieza fuerte, respetuoso con el medio ambiente y no corroe el cabezal de impresión. Sin daños a la impresora.
 - Para eliminar las marcas ilegibles causadas por la obstrucción del cabezal de impresión (rayas verticales, rayas horizontales, impresión de texto o patrones incompletos).
+- Amplia compatibilidad: compatible con todas las marcas de impresoras de inyección de tinta (Epson, HP, Canon, Lexmark, Brother, Dell, Samsung, Kodak, etc.)
 - JETlifetech Limpiador de cabezal de impresión están todos bajo las normas ISO9001, ISO10004, estrictas pruebas antes de la entrega de fábrica, para garantizar la calidad.
 - Amplia compatibilidad: se aplica a tinta OEM / de fábrica, tinte, pigmento, tinta de sublimación, tinta de transferencia de calor y similares, formulado para impresora HP 8600 8625 5520 4620 6520 6600 6700 6978 8610 8620 5529 5820 6525 6962 6500 6830 6975 7525 8710 8740 6960 6712 8100 3520940920 3522 3755 5180 6968 6970 C309 C510 D7360 T120 Pro 6968 Pro 6835, Canon MX922 9000 Pro10 Pro100 S450, Brother MG7120 MG6320 MFC-6890CDW MFC-J4510DW MFC-J880DW MFC-J6920DW Impresoras J265 y Lexmark.
 
