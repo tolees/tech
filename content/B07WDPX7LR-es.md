@@ -29,9 +29,9 @@ Ahora mismo tienes [Tryone Soporte Tablet Coche  Soporte Coche Reposacabezas - S
 🔎:
 
 - 【Compatibilidad del coche】 La distancia entre los dos postes de metal de la cabecera debe ser de 12,5-15 cm.
-- 【Compatibilidad del dispositivo】 Adecuado para iPad / iPad Air / iPad Pro / iPad Mini / Samsung Galaxy Tabs / Samsung S8 S7 S6 / Amazon Kindle Fire HD 7 8 10 / Nintendo Switch y más.
-- 【Diseño conveniente】 Instalación solo con una mano entre 2 segundos.
 - 【Ajustabilidad】Rotación con ángulo múltiple para obtener el mejor ángulo de visión.
 - 【Garantía de calidad】Si encuentra cualquier problema de calidad con nuestros productos, por favor ser contacto con nosotros inmediatamente sin duda, lo resolveremos para usted inmediatamente hasta que esté satisfecho.
+- 【Compatibilidad del dispositivo】 Adecuado para iPad / iPad Air / iPad Pro / iPad Mini / Samsung Galaxy Tabs / Samsung S8 S7 S6 / Amazon Kindle Fire HD 7 8 10 / Nintendo Switch y más.
+- 【Diseño conveniente】 Instalación solo con una mano entre 2 segundos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WDPX7LR/?tag=tolees-21)
