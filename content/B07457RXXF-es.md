@@ -28,11 +28,11 @@ Ahora mismo tienes [HP EliteDisplay E243i - Monitor de 24 pulgadas ajustable en 
 
 🔎:
 
-- Inclinación, altura (hasta 150 mm) y giro ajustables, personaliza la posición del monitor en vertical u horizontal
 - Pantalla de bajo consumo, con certificación ENERYGY STAR
-- Pantalla IPS con retroiluminación LED de resolución Full HD de 1920 x 1200 a 60 Hz que permite obtener imágenes nítidas desde cualquier ángulo
-- Bisel micro borde por tres lados que sacan el máximo partido de todo el espacio y permite disfrutar de una experiencia multipantalla
-- Conectividad: trabaja con tus dispositivos más utilizados gracias al DisplayPort, HDMI y VGA, conecta tus accesorios USB a la pantalla con dos puertos USB 3.3
+- Inclinación, altura (hasta 150 mm) y giro ajustables, personaliza la posición del monitor en vertical u horizontal
 - Flicker Free and low blue light
+- Conectividad: trabaja con tus dispositivos más utilizados gracias al DisplayPort, HDMI y VGA, conecta tus accesorios USB a la pantalla con dos puertos USB 3.3
+- Bisel micro borde por tres lados que sacan el máximo partido de todo el espacio y permite disfrutar de una experiencia multipantalla
+- Pantalla IPS con retroiluminación LED de resolución Full HD de 1920 x 1200 a 60 Hz que permite obtener imágenes nítidas desde cualquier ángulo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07457RXXF/?tag=tolees-21)
