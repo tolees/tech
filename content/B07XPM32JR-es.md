@@ -29,9 +29,9 @@ Ahora mismo tienes [ELEGOO Lavable con Agua 3D Resina rápida para Impresora 3D 
 🔎:
 
 - 【Bajo encogimiento y alta precisión】 La resina de fotopolímero ELEGOO contiene monómeros de metacrilato para reducir la contracción del volumen durante el proceso de fotocurado, lo que garantiza la alta precisión del modelo de impresión con acabado liso. Parámetros de impresión recomendados: Exposición inferior: 75s; Exposición normal: 13-15s
-- 【Colores brillantes e impactantes】 con pigmentos de alta calidad e iniciadores de la foto dentro de la resina de curado UV ELEGOO, los modelos impresos con resina tienen un efecto de color muy puro e impresionante al igual que una obra de arte.
-- 【Embalaje seguro y protegido】Botella a prueba de fugas completamente envuelta con una bolsa plástica de burbujas y una caja de embalaje exquisitamente diseñada para asegurar que la resina permanezca en su lugar donde pertenecen
 - 【Aplicaciones amplias】 Al ofrecer las mejores prestaciones, la resina estándar ELEGOO es adecuada para la mayoría de las impresoras DLP o LCD 3D para prototipos rápidos con juguetes, herramientas para el hogar y el jardín o aplicaciones de joyería.
+- 【Embalaje seguro y protegido】Botella a prueba de fugas completamente envuelta con una bolsa plástica de burbujas y una caja de embalaje exquisitamente diseñada para asegurar que la resina permanezca en su lugar donde pertenecen
 - 【Curado rápido y gran estabilidad】 ELEGOO 405nm Rapid Resin fue diseñado para reducir significativamente el tiempo de impresión con su excelente fluidez. Mientras tanto, su gran estabilidad y dureza adecuada garantizan una experiencia de impresión sin preocupaciones.
+- 【Colores brillantes e impactantes】 con pigmentos de alta calidad e iniciadores de la foto dentro de la resina de curado UV ELEGOO, los modelos impresos con resina tienen un efecto de color muy puro e impresionante al igual que una obra de arte.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XPM32JR/?tag=tolees-21)

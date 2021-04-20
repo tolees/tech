@@ -28,9 +28,9 @@ Está [Microsoft LifeCam HD-3000 - Webcam  micrófono Integrado  USB 2.0   Negro
 
 ℹ️:
 
-- La cámara web tiene una resolución HD de 720p
 - Pantalla ancha de 16:9 ofrece una grabación de vídeo cinemático
 - Diseñado con la tecnología TrueColor
+- La cámara web tiene una resolución HD de 720p
 - Cámara web con micrófono integrado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0099XD1PU/?tag=tolees-21)

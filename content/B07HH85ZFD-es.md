@@ -28,8 +28,8 @@ Tienes [HP 24fh - Monitor de 23.8" FullHD  1920x1080  IPS  16:9  HDMI 1.4 x1  60
 
 ℹ️:
 
-- AMD FreeSync y tiempo de respuesta 5ms a 75Hz
 - Resolución FHD 1920x1080 con panel antirreflectante
+- AMD FreeSync y tiempo de respuesta 5ms a 75Hz
 - Cuida tu vista gracias a Low blue light
 - Con la certificación de Technicolor, la precisión de color está asegurada
 - 24’’ ajustable en inclinación y altura
