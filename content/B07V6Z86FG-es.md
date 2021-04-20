@@ -28,12 +28,12 @@ Está [ASUS ZenBook Pro Duo UX581GV-H2006T - Portátil de 15 6" FullHD con Scree
 
 ℹ️:
 
-- La segunda pantalla 4K screenpad plus funciona con la pantalla principal para mejorar la productividad y creatividad
 - Procesador Intel core i7-9750h (6 núcleos, 12MB caché, 26GHz hasta 45GHz)
-- Windows 10
-- Almacenamiento: 512GB SSD m2 pcie gen3 x2 nvme
-- Pantalla de 15.6" FullHD (1920x1080) y Screen Pad plus 4K
-- Gráficos Nvidia geforce RTX2060 de 6GB vram
 - Memoria ram de 32 GB DDR4 2666MHz
+- Pantalla de 15.6" FullHD (1920x1080) y Screen Pad plus 4K
+- Almacenamiento: 512GB SSD m2 pcie gen3 x2 nvme
+- Gráficos Nvidia geforce RTX2060 de 6GB vram
+- Windows 10
+- La segunda pantalla 4K screenpad plus funciona con la pantalla principal para mejorar la productividad y creatividad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6Z86FG/?tag=tolees-21)

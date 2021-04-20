@@ -28,8 +28,8 @@ Está [Trust - Auriculares con Micrófono para PC  Ideales para Skype  Color Neg
 
 ℹ️:
 
-- Auriculares estéreo ultraligeros con micrófono flexible ajustable que permiten la comunicación manos libres
 - Cómodo diseño con almohadillas blandas y suaves y banda ajustable para la cabeza
+- Auriculares estéreo ultraligeros con micrófono flexible ajustable que permiten la comunicación manos libres
 - Ideales para sesiones de juegos en línea, escuchar música y utilizar aplicaciones con voz como Skype
 - Micrófono de alta sensibilidad y diseño flexible que ofrece una calidad de voz nítida
 
