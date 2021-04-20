@@ -28,10 +28,10 @@ Está [Mando Nacon Pro Controller Revolution 3 - Mando para PS4 y PC](https://ww
 
 ℹ️:
 
-- Soporte para audio y chat; Entrada de 3,5mm para auriculares (auriculares no incluidos)
-- 4 botones configurables para atajos; Cruceta para 4** u 8 direcciones
 - Conexión por cable; Cable extraíble USB-C trenzado de 3m.
+- Soporte para audio y chat; Entrada de 3,5mm para auriculares (auriculares no incluidos)
 - 2 motores de vibración personalizables; Compartimentos internos para pesos
 - Sticks personalizables cóncavos duales, con 46° de amplitud de movimiento
+- 4 botones configurables para atajos; Cruceta para 4** u 8 direcciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082SS6LQN/?tag=tolees-21)

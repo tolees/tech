@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaCentre G5 Ordenador de sobrem con un 16.67 % de descuento'
-date: 2021-04-19 09:40:25
+date: 2021-04-20 15:42:43
 image: 'https://m.media-amazon.com/images/I/31hFmJR87EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [Lenovo IdeaCentre G5 Ordenador de sobremesa  Procesador I
 
 🔎:
 
-- Sistema operativo Windows 10
 - Un disco duro SSD que ofrece un rendimiento más que suficiente para los datos y las aplicaciones, características: RAM 1x 8GB UDIMM DDR4-2933, Bluetooth 5.0, USB 3.0
+- Teclado QWERTY Português y ratón
 - Lenovo IdeaCentre G5 está equipado con un procesador Intel que proporciona más que suficiente potencia para la oficina, el trabajo doméstico y los juegos
 - El ordenador está refrigerado muy silenciosamente y es muy ligero, para trabajar y navegar por Internet sin problemas
-- Teclado QWERTY Português y ratón
+- Sistema operativo Windows 10
 - Almacenamiento de memoria de 512 GB SSD para almacenar sus documentos de forma rápida y segura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HVMXLJ3/?tag=tolees-21)
