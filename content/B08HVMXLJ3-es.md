@@ -29,8 +29,8 @@ En este momento está [Lenovo IdeaCentre G5 Ordenador de sobremesa  Procesador I
 🔎:
 
 - Un disco duro SSD que ofrece un rendimiento más que suficiente para los datos y las aplicaciones, características: RAM 1x 8GB UDIMM DDR4-2933, Bluetooth 5.0, USB 3.0
-- Teclado QWERTY Português y ratón
 - Lenovo IdeaCentre G5 está equipado con un procesador Intel que proporciona más que suficiente potencia para la oficina, el trabajo doméstico y los juegos
+- Teclado QWERTY Português y ratón
 - El ordenador está refrigerado muy silenciosamente y es muy ligero, para trabajar y navegar por Internet sin problemas
 - Sistema operativo Windows 10
 - Almacenamiento de memoria de 512 GB SSD para almacenar sus documentos de forma rápida y segura

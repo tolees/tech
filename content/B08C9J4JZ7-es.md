@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIANAC Cable USB Tipo C  2Pack[2M+2M] 3A al 15.03 % de descuento'
-date: 2021-04-19 00:05:19
+date: 2021-04-20 16:48:35
 image: 'https://m.media-amazon.com/images/I/51K+TQC7hNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GIANAC'
 buyurl: 'https://www.amazon.es/dp/B08C9J4JZ7/?tag=tolees-21'
 descuento: '15.03'
-average: '5.9'
+average: '5.82636363636364'
 ---
 
 Ahora mismo tienes [GIANAC Cable USB Tipo C  2Pack[2M+2M] 3A Cargador Tipo C Nylon Carga Rápida y Sincronización Cable USB C para Galaxy S10/S9/S8 Note9  Xiaomi Mi A2/A1  Huawei P30/P20/Mate20  Xperia XZ](https://www.amazon.es/dp/B08C9J4JZ7/?tag=tolees-21) a 5.09 EUR (original: 5.99 EUR) (15.03 %  de descuento) en el siguiente enlace!
