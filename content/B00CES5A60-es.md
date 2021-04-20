@@ -28,10 +28,10 @@ Tienes [Logitech C930e Business Webcam  Video-Llamadas Full HD 1080p/30fps  Corr
 
 ℹ️:
 
-- Campo VIsual Ancho: Campo de visión diagonal de 90 grados
 - Calidad Alta y Ancho de Banda Baja: Lente de cristal Carl Zeiss con enfoque automático para vídeo realmente nítido en todas las ocasiones, incluso cuando existen limitaciones de ancho de banda
 - Zoom HD 4X: Amplía, acércate y muévete por la escena con precisión con el zoom 4x
 - Video de Gran Calidad: Calidad de vídeo HD 1080p a 30 fotogramas por segundo
 - Tecnología: Codificación de vídeo escalable y tecnología de codificación UVC 1.5
+- Campo VIsual Ancho: Campo de visión diagonal de 90 grados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CES5A60/?tag=tolees-21)
