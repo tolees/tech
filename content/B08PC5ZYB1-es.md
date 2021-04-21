@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 870 EVO 2000 GB Negro al 17.63 % de descuento'
-date: 2021-04-17 13:59:52
+title: 'Samsung 870 EVO 2000 GB Negro al 19.74 % de descuento'
+date: 2021-04-21 07:55:53
 image: 'https://m.media-amazon.com/images/I/41JKfO-SBQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos dur
 actualPrice: 187.5 EUR
 currency: EUR
 price: 187.5
-comparePrice: 227.64 EUR
+comparePrice: 233.62 EUR
 prodname: 'Samsung 870 EVO 2000 GB Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21'
-descuento: '17.63'
-average: '224.873333333333'
+descuento: '19.74'
+average: '219.534285714285'
 ---
 
-Está [Samsung 870 EVO 2000 GB Negro](https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21) con 17.63 de descuento por 187.5 EUR (original: 227.64 EUR) en el siguiente enlace!
+Está [Samsung 870 EVO 2000 GB Negro](https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21) con 19.74 de descuento por 187.5 EUR (original: 233.62 EUR) en el siguiente enlace!
 
 [![Samsung 870 EVO 2000 GB Negro](https://m.media-amazon.com/images/I/41JKfO-SBQL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08PC5ZYB1/?tag=tolees-21)
 

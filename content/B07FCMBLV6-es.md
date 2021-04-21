@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme - Tarjeta de memoria mic al 32.73 % de descuento'
-date: 2021-04-19 21:32:33
+date: 2021-04-21 07:50:21
 image: 'https://m.media-amazon.com/images/I/41mjR9U-MDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMBLV6/?tag=tolees-21'
 descuento: '32.73'
-average: '14.1706179775282'
+average: '14.1853631284917'
 ---
 
 Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMBLV6/?tag=tolees-21) con 32.73 de descuento por 16.81 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB con adaptador SD
 
 ℹ️:
 
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
-- Hasta 160 MB/s de velocidad de lectura y 60 MB/s de velocidad de escritura para disparar y transferir rápido
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Compatibilidad: Compatible con dispositivos que admiten microSDHC, microSDXC, microSDHC UHS-I y microSDXC UHS-I
+- Hasta 160 MB/s de velocidad de lectura y 60 MB/s de velocidad de escritura para disparar y transferir rápido
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FCMBLV6/?tag=tolees-21)
