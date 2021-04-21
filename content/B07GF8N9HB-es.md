@@ -28,10 +28,10 @@ Tienes [HOMCOM Mesa de Ordenador Portátil Bambú Bandeja de Cama Desayuno Plega
 
 🔎:
 
-- ✅ALTURA E INCLINACIÓN AJUSTABLE: La altura y el ángulo de inclinación se pueden ajustar para mantener tu libro o portátil en la posición perfecta.
-- ✅BAMBÚ 100% NATURAL: Estructura de Bambú 100% natural y ecológico. Muy resistente y estable. El peso máximo de carga es de 50kg.
 - ✅PLEGABLE Y PORTÁTIL: Plegable y ligero para transportarlo y guardarlo con facilidad. Dimensiones totales: 55x35x22-30cm (LxANxAL)
-- ✅MESA MULTIFUNCIONAL: Esta mesita tiene muchos usos distintos, la puedes usar para poner el portátil, para leer, para comer, para trabajar en la cama,… Además es muy fácil de transportar de un lugar a otro.
 - ✅DISEÑO PRÁCTICO: Incluye un cajón pequeño debajo el tablón para guardar el bolígrafo, el bloc de notas, el teléfono, el ratón del ordenador… La bandeja reclinable incorpora una barra antideslizante para evitar que el portátil o el libro caigan al suelo. El tablero tiene agujeros para evitar que el portátil se caliente demasiado.
+- ✅ALTURA E INCLINACIÓN AJUSTABLE: La altura y el ángulo de inclinación se pueden ajustar para mantener tu libro o portátil en la posición perfecta.
+- ✅MESA MULTIFUNCIONAL: Esta mesita tiene muchos usos distintos, la puedes usar para poner el portátil, para leer, para comer, para trabajar en la cama,… Además es muy fácil de transportar de un lugar a otro.
+- ✅BAMBÚ 100% NATURAL: Estructura de Bambú 100% natural y ecológico. Muy resistente y estable. El peso máximo de carga es de 50kg.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GF8N9HB/?tag=tolees-21)

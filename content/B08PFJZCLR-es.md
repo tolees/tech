@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion 14-dv0020ns - Ordenador port con un 17.81 % de descuento'
-date: 2021-04-19 08:23:34
+date: 2021-04-21 08:09:10
 image: 'https://m.media-amazon.com/images/I/41rkFK6s54L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [HP Pavilion 14-dv0020ns - Ordenador portátil de 14" Full
 
 🔎:
 
-- Pantalla de 14" FullHD
 - Windows 10
 - Procesador Intel Core i5-1135G7
-- 8GB de memoria RAM
-- Almacenamiento de 512GB SSD
+- Pantalla de 14" FullHD
 - Tarjeta gráfica Integrada Intel Iris Xe
+- Almacenamiento de 512GB SSD
+- 8GB de memoria RAM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJZCLR/?tag=tolees-21)
