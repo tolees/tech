@@ -28,8 +28,8 @@ En este momento está [ASUS USB-N13 - Adaptador USB inalámbrico Dual-Band  AC60
 
 🔎:
 
-- Diseño de enchufe chapado en oro : mejor diseño y más duradero
 - Seguridad avanzada con estándares de cifrado WEP, WPA, WPA2 WPA3 de 64/128 bits
+- Diseño de enchufe chapado en oro : mejor diseño y más duradero
 - Transmisión inalámbrica de alta velocidad a 300Mbps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0846DYW3M/?tag=tolees-21)

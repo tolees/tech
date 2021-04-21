@@ -28,9 +28,9 @@ Está [Lamicall Soporte Movil Bicicleta  Soporte Motocicleta - Rotación 360° S
 
 ℹ️:
 
-- Funcionamiento con una sola mano - Monta el móvil en el soporte para motocicleta con una mano, luego quita tu mano y el móvil se sujetará automáticamente. El diseño único de este soporte sujeta el teléfono firmemente incluso en carreteras con baches, lo que evita que se caiga mientras conduces
-- Amplia compatibilidad - El soporte universal para motocicleta es compatible con dispositivos GPS de 4,7 a 6,8 pulgadas, como iPhone 11 Pro, Pro Max XS XR X 8 7 7S 6S 6 Plus, Huawei P30 Pro 10 Pro P20 P10, Samsung Galaxy S10, S10 S9, S8, S8, S7 S6, Note 9 8 7 6, LG, HTC, Sony , Nokia, Nexus, otros teléfonos inteligentes. Nota: Asegúrate de que el grosor de tu dispositivo sea inferior a 15 mm
 - Protección a prueba de golpes - La superficie de contacto de silicona protege a tu móvil ante arañazos. También reduce las vibraciones, para que disfrutes plenamente de tu viaje
+- Amplia compatibilidad - El soporte universal para motocicleta es compatible con dispositivos GPS de 4,7 a 6,8 pulgadas, como iPhone 11 Pro, Pro Max XS XR X 8 7 7S 6S 6 Plus, Huawei P30 Pro 10 Pro P20 P10, Samsung Galaxy S10, S10 S9, S8, S8, S7 S6, Note 9 8 7 6, LG, HTC, Sony , Nokia, Nexus, otros teléfonos inteligentes. Nota: Asegúrate de que el grosor de tu dispositivo sea inferior a 15 mm
+- Funcionamiento con una sola mano - Monta el móvil en el soporte para motocicleta con una mano, luego quita tu mano y el móvil se sujetará automáticamente. El diseño único de este soporte sujeta el teléfono firmemente incluso en carreteras con baches, lo que evita que se caiga mientras conduces
 - Compra sin preocupaciones - Lamicall ofrece 12 meses de garantía de devolución de dinero o reemplazo total. Si tienes algún problema o pregunta, no dudes en ponerte en contacto con nuestro servicio de atención al cliente amable y servicial
 - Fácil instalación - El soporte de móvil para motocicleta de Lamicall es fácil de instalar sin necesidad de herramientas. Este soporte para móvil se adapta a manillares de 15-30 mm de diámetro. Incluye cuatro almohadillas de silicona que puedes añadir o quitar las según el diámetro del manillar
 

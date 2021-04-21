@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Funda Compatible iPhone SE 2020/8 / 7  Anti- Choques 
 
 🔎:
 
-- Hecho con PC y TPU. Diseño delgado. Respaldo ultra transparente y resistente a los arañazos
-- El paquete incluye: Funda para iPhone SE (2020) / 7 / 8,
-- Biseles levantados para ofrecer protección para la pantalla y la cámara. Tiene un diseño único de la amortiguación: las 4 esquinas absorben los choques con eficacia
 - Diseñado para iPhone SE 2ª Generación, iPhone 7 y iPhone 8 4,7"
+- Biseles levantados para ofrecer protección para la pantalla y la cámara. Tiene un diseño único de la amortiguación: las 4 esquinas absorben los choques con eficacia
+- El paquete incluye: Funda para iPhone SE (2020) / 7 / 8,
+- Hecho con PC y TPU. Diseño delgado. Respaldo ultra transparente y resistente a los arañazos
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KF0FJX2/?tag=tolees-21)
