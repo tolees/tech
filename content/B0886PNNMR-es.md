@@ -28,10 +28,10 @@ Está [Sony HT-G700 - Barra de Sonido TV 3.1  Dolby Atmos  DTS:X  subwoofer inal
 
 ℹ️:
 
-- Modos de sonido para películas y música mejoradas
+- Subwoofer inalámbrico para un potente sonido de graves
 - El AE envolvente convierte las señales de audio a un sonido cercano a 7.1.2 canales
+- Modos de sonido para películas y música mejoradas
 - Dolby Atmos/DTS:X de 3.1 canales y Vertical Sound Engine
 - Altavoz central para diálogos más claros
-- Subwoofer inalámbrico para un potente sonido de graves
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0886PNNMR/?tag=tolees-21)
