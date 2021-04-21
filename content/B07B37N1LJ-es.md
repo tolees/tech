@@ -30,9 +30,9 @@ Está [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4K con objetivo E
 
 - Grabación de video 4K
 - Sensor CMOS de 24.1 megapíxeles y DIGIC 8
-- Enfoque de máxima precisión con Dual Pixel CMOS AF, que realiza un seguimiento rápido y preciso del sujeto
-- Conexión WiFi y Bluetooth
 - visualiza y edita las imágenes en tu Smartphone o tablet y compártelas con tus amigos
+- Conexión WiFi y Bluetooth
 - Pantalla táctil LCD (TFT) de 3.0" (7.5 cm), de ángulo variable
+- Enfoque de máxima precisión con Dual Pixel CMOS AF, que realiza un seguimiento rápido y preciso del sujeto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B37N1LJ/?tag=tolees-21)
