@@ -28,10 +28,10 @@ Ahora mismo tienes [AISENS A129-0151 - Adaptador Disco Duro de 7 mm para Unidad 
 
 🔎:
 
-- Adaptador SATA para instalar un disco duro 2,5” de 7,0mm de grosor en la unidad óptica portátil, Incluye tornillos para montaje
-- El diseño inteligente facilita la instalación de disco duro en el adaptador
-- Normativas: RoHS
 - Este adaptar te permite añadir un disco duro en un portátil con unidad de óptica de 9,5mm de grosor
 - No es 100% universal, pero compatible con la mayoría de los portátiles
+- El diseño inteligente facilita la instalación de disco duro en el adaptador
+- Normativas: RoHS
+- Adaptador SATA para instalar un disco duro 2,5” de 7,0mm de grosor en la unidad óptica portátil, Incluye tornillos para montaje
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DCW87ZH/?tag=tolees-21)
