@@ -28,10 +28,10 @@ Ahora mismo tienes [Uten Blanza de Equipaje Potencia Móvil Regargable Báscula 
 
 🔎:
 
-- Fácil de usar: El botón "IZ" tiene las funciones de "Abrir, Cerrar, Cero, Tara". Además, esta báscula de equipaje tiene 2 botones de unidad de peso, presione el "botón UI" durante un tiempo prolongado para seleccionar la unidad de peso, kg y lb, puede cambiar usted mismo.
 - Pantalla LCD fácil de leer: La función de luz blanca del LED hace que la báscula de equipaje sea fácil de leer con luz solar intensa o oscura. El exclusivo diseño de posicionamiento del gancho de pesaje facilita el pesaje. Tamaño de LCD es 33.8x12.8mm.
+- Ahorro de energía: Autodesconexión, sobrecarga y advertencia de batería baja incluidas para preservar el tiempo y la energía. Diseño de alta calidad y elegante que garantiza un uso prolongado, ideal para uso en el hogar o en el viaje.
 - Sensores de precisión y tamaño compacto: Capacidad de medición de hasta 50 kg / 110 libras, desviación inferior a 50 g / 0.1 libras. Pequeño y fácil de llevar, adecuado para el hogar o viajes para llevar.
 - Blanza de Equipaje Regargable: Esta báscula de equipaje tiene una batería recargable incorporada 3.7V / 2600mAh, identificación automática cuando está sobrecargado. Salida USB máxima: DC5V / 2.1A, entrada máxima: 5V / 2.1A, Ideal para viajes , doméstico o uso Postal.
-- Ahorro de energía: Autodesconexión, sobrecarga y advertencia de batería baja incluidas para preservar el tiempo y la energía. Diseño de alta calidad y elegante que garantiza un uso prolongado, ideal para uso en el hogar o en el viaje.
+- Fácil de usar: El botón "IZ" tiene las funciones de "Abrir, Cerrar, Cero, Tara". Además, esta báscula de equipaje tiene 2 botones de unidad de peso, presione el "botón UI" durante un tiempo prolongado para seleccionar la unidad de peso, kg y lb, puede cambiar usted mismo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DXDPXVP/?tag=tolees-21)
