@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.92 % en Ratón Óptico Inalámbrico NGS HAZE 2 4Ghz'
-date: 2021-04-18 07:01:19
+date: 2021-04-22 13:42:18
 image: 'https://m.media-amazon.com/images/I/316wmjH76KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Ratón Óptico Inalámbrico NGS HAZE 2 4Ghz nano receptor-800/1600 DPI. 
 
 ℹ️:
 
-- 2.4ghz nano receptor
 - raton óptico 800/1600 dpi
-- inalámbrico
 - color: gris
+- inalámbrico
+- 2.4ghz nano receptor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJ0LRYM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.01 % en Sony - Predator: Hunting Grounds'
-date: 2021-04-15 22:31:20
+title: 'Descuento del 50.24 % en Sony - Predator: Hunting Grounds'
+date: 2021-04-22 12:43:46
 image: 'https://m.media-amazon.com/images/I/51AFzQPqEDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B084XQNC5R-es Sony - Predator: Hunting Grounds'
 sku: 'B084XQNC5R-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','sony', ]
-actualPrice: 19.99 EUR
+actualPrice: 19.9 EUR
 currency: EUR
-price: 19.99
+price: 19.9
 comparePrice: 39.99 EUR
 prodname: 'Sony - Predator: Hunting Grounds'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B084XQNC5R/?tag=tolees-21'
-descuento: '50.01'
-average: '29.9573913043478'
+descuento: '50.24'
+average: '29.5383333333333'
 ---
 
-Tienes [Sony - Predator: Hunting Grounds](https://www.amazon.es/dp/B084XQNC5R/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Sony - Predator: Hunting Grounds](https://www.amazon.es/dp/B084XQNC5R/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Sony - Predator: Hunting Grounds](https://m.media-amazon.com/images/I/51AFzQPqEDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084XQNC5R/?tag=tolees-21)
 
