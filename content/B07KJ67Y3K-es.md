@@ -28,10 +28,10 @@ En este momento está [ASUS VG258QR Monitor de juegos de Esports de 25 pulgadas 
 
 🔎:
 
-- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
-- Botón ASUS GamePlus para acceder a mejoras exclusivas y GameVisual para optimizar la imagen
-- 0,5 ms* de tiempo de respuesta para una mayor fluidez y ASUS Extreme Low Motion Blur (ELMB) para que las escenas borrosas cobren nitidez
-- Monitor de gaming Full HD de 24,5” con 165 Hz de refresco y Adaptive-Sync para unos gráficos perfectos
 - Certificado como compatible con G-SYNC, ofrece una experiencia de juego sin interrupciones al habilitar el VRR (tasa de actualización variable) de forma predeterminada
+- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
+- 0,5 ms* de tiempo de respuesta para una mayor fluidez y ASUS Extreme Low Motion Blur (ELMB) para que las escenas borrosas cobren nitidez
+- Botón ASUS GamePlus para acceder a mejoras exclusivas y GameVisual para optimizar la imagen
+- Monitor de gaming Full HD de 24,5” con 165 Hz de refresco y Adaptive-Sync para unos gráficos perfectos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KJ67Y3K/?tag=tolees-21)

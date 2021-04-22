@@ -28,10 +28,10 @@ Ahora mismo tienes [Vbestlife Tarjeta de WiFi Inalámbrica Dual Band 2.4G / 5Ghz
 
 🔎:
 
+- 【SISTEMA DE SOPORTE】 Para WIN 7, WIN 8, WIN 10, etc. 100 nuevo y de alta calidad.
 - 【DOBLE BANDA 2.4GHZ / 5GHZ】 Tiene doble banda, 2.4GHz y 5GHz.
 - 【TARJETA INALÁMBRICA AR5B22】 Brinda una excelente solución para sus actividades diarias en línea, como transferencia de archivos, navegación por Internet y descarga de música.
-- 【SISTEMA DE SOPORTE】 Para WIN 7, WIN 8, WIN 10, etc. 100 nuevo y de alta calidad.
-- 【INTERFAZ MINI PCI-E】 Es una media tarjeta mini PCI-E, adecuada para computadora portátil con placa base mini PCI-E.
 - 【TRANSMISIÓN DE ALTA VELOCIDAD DE 300MPBS】 Su velocidad de transmisión inalámbrica puede alcanzar hasta 300Mbps.
+- 【INTERFAZ MINI PCI-E】 Es una media tarjeta mini PCI-E, adecuada para computadora portátil con placa base mini PCI-E.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FYYL2WD/?tag=tolees-21)
