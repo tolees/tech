@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony MHC-V83D - Altavoz de Alta Potencia Bluetooth para Fies
 
 🔎:
 
-- 2x entradas de micrófono que incluye 1x entrada de guitarra
 - Control por gestos te permite controlar las funciones del MHC-V83D fácil y rápidamente
-- Con Wireless Party Chain a través de Bluetooth, puedes conectar hasta 50 altavoces compatibles Sony con sonido e iluminación sincronizados
 - Disfruta del sonido de fiesta omnidireccional creado por los tweeters de alta eficiencia (x4) y los altavoces de frecuencia media y alta eficiencia
 - Con las luces de fiesta omnidireccionales y de altavoz, puedes iluminar la fiesta desde el suelo hasta el techo
+- Con Wireless Party Chain a través de Bluetooth, puedes conectar hasta 50 altavoces compatibles Sony con sonido e iluminación sincronizados
+- 2x entradas de micrófono que incluye 1x entrada de guitarra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GCXYN32/?tag=tolees-21)

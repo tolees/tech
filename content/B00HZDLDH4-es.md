@@ -28,10 +28,10 @@ Tienes [Impresora Multifuncional Canon PIXMA MX475 Negra Wifi de inyección de t
 
 🔎:
 
+- Compatible con la aplicación PIXMA Printing Solutions, Google Cloud Print y Apple AirPrint
+- Procesamiento rápido de documentos de varias páginas con el alimentador automático de documentos de 30 páginas
+- Disfruta de una velocidad de impresión de documentos A4 de 9,7 ipm en blanco y negro/5.5 ipm en color
 - Conectividad inalámbrica para compartir con facilidad tanto en el hogar como en la oficina
 - Equipo todo en uno asequible con funciones de impresión, copia, escaneo y fax
-- Disfruta de una velocidad de impresión de documentos A4 de 9,7 ipm en blanco y negro/5.5 ipm en color
-- Procesamiento rápido de documentos de varias páginas con el alimentador automático de documentos de 30 páginas
-- Compatible con la aplicación PIXMA Printing Solutions, Google Cloud Print y Apple AirPrint
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HZDLDH4/?tag=tolees-21)
