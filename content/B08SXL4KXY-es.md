@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atlus - Persona 5 Strikers - Editión Lim al 41.82 % de rebaja'
-date: 2021-04-17 07:35:20
+date: 2021-04-22 20:44:01
 image: 'https://m.media-amazon.com/images/I/51Cng1sTq2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Atlus'
 buyurl: 'https://www.amazon.es/dp/B08SXL4KXY/?tag=tolees-21'
 descuento: '41.82'
-average: '52.7672992700732'
+average: '52.6378260869567'
 ---
 
 Tienes [Atlus - Persona 5 Strikers - Editión Limitada  Nintendo Switch ](https://www.amazon.es/dp/B08SXL4KXY/?tag=tolees-21) con precio final de  34.9 EUR (original: 59.99 EUR) (41.82 %  de rebaja) aqui!
