@@ -28,8 +28,8 @@ Está [Garmin Forerunner 245 - Reloj multisport con GPS - Burdeos](https://www.a
 
 ℹ️:
 
-- Controla por dónde corres y obtén estadísticas precisas, incluyendo la distancia, el ritmo y los intervalos
-- Entrena de forma más inteligente con VO2 máximo, un indicador que muestra el rendimiento esperado
 - Controla tu corazón mientras corres con un reloj que te seguirá el ritmo
+- Entrena de forma más inteligente con VO2 máximo, un indicador que muestra el rendimiento esperado
+- Controla por dónde corres y obtén estadísticas precisas, incluyendo la distancia, el ritmo y los intervalos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RK956GJ/?tag=tolees-21)
