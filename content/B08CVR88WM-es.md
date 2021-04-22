@@ -29,10 +29,10 @@ En este momento está [Lenovo IdeaPad Duet Chromebook - Pantalla de 10.1" FullHD
 🔎:
 
 - Sistema operativo: Chrome OS
-- Procesador MediaTek P60T (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
-- Memoria RAM de 4GB Soldered LPDDR4x
 - Almacenamiento de 128GB eMCP
 - Tarjeta gráfica integrada ARM Mali-G72 MP3 GPU
+- Procesador MediaTek P60T (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
 - Pantalla táctil de 10.1" FullHD, 1920x1200 píxeles, IPS, 400nits, Lenovo Keyboard Pack incluido
+- Memoria RAM de 4GB Soldered LPDDR4x
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVR88WM/?tag=tolees-21)

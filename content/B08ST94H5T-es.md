@@ -29,9 +29,9 @@ Tienes [MSI Modern 15 A10M-486XES - Ordenador portátil de 15.6" FHD  Comet Lake
 ℹ️:
 
 - Disco HDD de 512 GB NVMe PCIe SSD
-- Sin sistema operativo
+- Procesador Comet lake I7-10510U (4 nucleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
 - Memoria RAM de 16 GB DDR 4, 2666 MHz
 - Tarjeta gráfica Iris Xe Graphics
-- Procesador Comet lake I7-10510U (4 nucleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
+- Sin sistema operativo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08ST94H5T/?tag=tolees-21)
