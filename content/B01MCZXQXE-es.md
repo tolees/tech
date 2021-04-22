@@ -29,8 +29,8 @@ Está [Emporio Armani Smartwatch Híbrido para Hombre de Connected con Correa en
 ℹ️:
 
 - Seguimiento de la actividad con medición de calorías y pasos, seguimiento del sueño, notificaciones personalizadas, correas intercambiables, actualización automática de fecha y hora, hora secundaria, compatible con iOS 8.2+ y Android 4.4+ / iPhone 5+. Conexión Bluetooth 4.1. No necesita carga, funciona con una pila estándar, que puede durar hasta 6 meses.
+- Correa negra, de acero inoxidable, con acabado mate. Doble cierre con botón.
 - Esfera negra con índices en tono plateado y logo de águila. 2 manecillas con ojo que muestra el progreso de la actividad, la fecha y la hora secundaria. Manecillas plateadas. Cristal mineral.
 - Reloj inteligente híbrido de Emporio Armani, para hombre, carcasa negra de acero inoxidable, redonda, en acabado mate. Resistencia al agua: 3 atm.
-- Correa negra, de acero inoxidable, con acabado mate. Doble cierre con botón.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MCZXQXE/?tag=tolees-21)

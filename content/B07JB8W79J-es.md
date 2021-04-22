@@ -28,11 +28,11 @@ Tienes [Panasonic Lumix DC-GX9M - Cámara EVIL  20.3 MP  estabilizador óptico d
 
 🔎:
 
-- FOTO 4K y grabación de vídeo 4K Ultra HD para momentos inolvidables
-- Sensor Digital Live MOS de 20,3 megapíxeles sin filtro de paso bajo
 - Lo último en diseño plano, cuerpo compacto y alta calidad de imagen para tu propia creatividad
-- Respuesta de alta velocidad y opciones AF/MF prácticas
+- Sensor Digital Live MOS de 20,3 megapíxeles sin filtro de paso bajo
 - Control intuitivo con LVF (Live View Finder) reclinable en un diseño elegante
+- FOTO 4K y grabación de vídeo 4K Ultra HD para momentos inolvidables
+- Respuesta de alta velocidad y opciones AF/MF prácticas
 - Dual I.S. de 5 ejes y vibración mínima del obturador para una grabación estable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JB8W79J/?tag=tolees-21)
