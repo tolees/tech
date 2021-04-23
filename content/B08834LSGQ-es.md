@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Nuevo Apple MacBook Pro  de 13 Pulgadas  al 15.69 % de rebaja'
-date: 2021-04-06 17:46:58
-image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL400_.jpg'
+title: 'Apple MacBook Pro  de 13 Pulgadas  Chip  al 20.20 % de rebaja'
+date: 2021-04-23 02:45:32
+image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08834LSGQ-es Nuevo Apple MacBook Pro de 13 Pulgadas 16 GB RAM 512 GB...'
+slug: 'B08834LSGQ-es Apple MacBook Pro de 13 Pulgadas Chip i5 de Intel 16 GB...'
 sku: 'B08834LSGQ-es'
 tags: [ 'Informática','Portátiles','apple','ram', ]
-actualPrice: 1795.0 EUR
+actualPrice: 1699.0 EUR
 currency: EUR
-price: 1795.0
+price: 1699.0
 comparePrice: 2129.0 EUR
-prodname: 'Nuevo Apple MacBook Pro  de 13 Pulgadas  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  - Gris Espacial'
+prodname: 'Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial  2020 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21'
-descuento: '15.69'
-average: '1867.66666666666'
+descuento: '20.20'
+average: '1857.12499999999'
 ---
 
-Tienes [Nuevo Apple MacBook Pro  de 13 Pulgadas  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  - Gris Espacial](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1795.0 EUR (original: 2129.0 EUR) (15.69 %  de rebaja) aqui!
+Tienes [Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial  2020 ](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1699.0 EUR (original: 2129.0 EUR) (20.20 %  de rebaja) aqui!
 
-[![Nuevo Apple MacBook Pro  de 13 Pulgadas ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL400_.jpg)](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
+[![Apple MacBook Pro  de 13 Pulgadas  Chip ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
 
 🔎:
 
-- Teclado Magic Keyboard retroiluminado
-- Trackpad Force Touch
-- Intel Iris Plus Graphics
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Cuatro puertos Thunderbolt 3 (USB-C)
-- Wifi 802.11ac
-- Almacenamiento SSD ultrarrápido
-- Espectacular pantalla Retina con tecnología True Tone
-- Hasta 10 horas de autonomía
 - Touch Bar y Touch ID
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Wifi 802.11ac
+- Hasta 10 horas de autonomía
+- Intel Iris Plus Graphics
+- Cuatro puertos Thunderbolt 3 (USB-C)
+- Teclado Magic Keyboard retroiluminado
+- Espectacular pantalla Retina con tecnología True Tone
+- Almacenamiento SSD ultrarrápido
+- Trackpad Force Touch
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
