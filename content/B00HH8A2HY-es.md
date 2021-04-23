@@ -28,11 +28,11 @@ Ahora mismo tienes [Sony DSC-W810 - Cámara compacta de 20.1 Mp  pantalla de 2.7
 
 🔎:
 
-- Edita tus imágenes sobre la marcha con el retoque en la cámara
-- Pulsa el botón de vídeo para capturar al instante vídeos nítido y claros de alta definición de 720p
-- Zoom óptico 6x (4.6 -27.6 mm)
-- Cambia al modo fiesta para obtener fotos increíbles en condiciones de luz escasa
 - Captura toda la escena con capturas panorámicas de 360 grados verticales y horizontales
+- Cambia al modo fiesta para obtener fotos increíbles en condiciones de luz escasa
+- Pulsa el botón de vídeo para capturar al instante vídeos nítido y claros de alta definición de 720p
 - Captura el detalle de cualquier escena con un sensor Super HAD CCD de 20,1 megapíxeles
+- Zoom óptico 6x (4.6 -27.6 mm)
+- Edita tus imágenes sobre la marcha con el retoque en la cámara
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HH8A2HY/?tag=tolees-21)
