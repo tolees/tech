@@ -28,15 +28,15 @@ Tienes [Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 
 
 🔎:
 
-- Touch Bar y Touch ID
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Wifi 802.11ac
-- Hasta 10 horas de autonomía
-- Intel Iris Plus Graphics
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Touch Bar y Touch ID
+- Intel Iris Plus Graphics
+- Trackpad Force Touch
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
 - Teclado Magic Keyboard retroiluminado
+- Hasta 10 horas de autonomía
 - Espectacular pantalla Retina con tecnología True Tone
 - Almacenamiento SSD ultrarrápido
-- Trackpad Force Touch
+- Wifi 802.11ac
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
