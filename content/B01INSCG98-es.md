@@ -28,10 +28,10 @@ En este momento está [Libratone OneClick - Altavoz con Bluetooth y función Sou
 
 🔎:
 
-- Sensor Touch para Play/Pause del las canciones, cambiar canción, volumen, contestar una llamada
 - Manos libres, tecnología FullRoom 360°, Bluetooth +1 para estéreo inalámbrico
-- Contenido de la caja: altavoz Libratone TOO, marco desmontable, cable de carga, manual de usuario
 - Diseño resistente a salpicaduras (IPX4)
+- Sensor Touch para Play/Pause del las canciones, cambiar canción, volumen, contestar una llamada
+- Contenido de la caja: altavoz Libratone TOO, marco desmontable, cable de carga, manual de usuario
 - Garantiza 12 horas de reproducción de música
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01INSCG98/?tag=tolees-21)

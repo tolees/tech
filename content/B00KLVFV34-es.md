@@ -28,11 +28,11 @@ Tienes [Sony RX100M3 - Cámara Compacta Premium Avanzada  Sensor tipo 1.0  Objet
 
 🔎:
 
-- COMPARTE TU CREACIÓN: Comparte fácilmente tus creaciones a tu dispositivo móvil a través de la aplicación Imaging Edge (Wi-Fi).
+- TOMAS SIEMPRE ENCUADRADAS: Encuadra fácilmente al sujeto al disparar desde ángulos altos o bajos con el monitor táctil inclinable.
 - CAPTURA LOS MOMENTOS DECISIVOS: Un visor electrónico es la elección de muchos fotógrafos ya que pueden sujetar la cámara con firmeza.
-- CALIDAD DE IMAGEN IMPRESIONANTE: El sensor de imagen tipo 1.0 tiene una resolución de 20.1 megapíxeles, con tecnología de retroiluminación logra un amplio rango de sensibilidad.
 - PERFECTA PARA CREADORES DE VÍDEO: Estabilización de imagen y pantalla abatible para Vlogging.
 - Dimensiones del producto: 10,2 x 4,1 x 5,8 cm
-- TOMAS SIEMPRE ENCUADRADAS: Encuadra fácilmente al sujeto al disparar desde ángulos altos o bajos con el monitor táctil inclinable.
+- COMPARTE TU CREACIÓN: Comparte fácilmente tus creaciones a tu dispositivo móvil a través de la aplicación Imaging Edge (Wi-Fi).
+- CALIDAD DE IMAGEN IMPRESIONANTE: El sensor de imagen tipo 1.0 tiene una resolución de 20.1 megapíxeles, con tecnología de retroiluminación logra un amplio rango de sensibilidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KLVFV34/?tag=tolees-21)
