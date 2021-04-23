@@ -31,7 +31,7 @@ Ahora mismo tienes [Canon EF-S 17-55MM F/2.8 IS USM  1242B005AA  - Objetivo para
 - Estabilización de imagen equivalente a tres puntos de velocidad
 - Apertura f/2.8
 - Zoom angular compatible para todos los cuerpos con montura EF-S
-- Diafragma de abertura circular, para conseguir estéticos fondos desenfocados
 - Autofoco rápido y silencioso
+- Diafragma de abertura circular, para conseguir estéticos fondos desenfocados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000EOTZ7G/?tag=tolees-21)

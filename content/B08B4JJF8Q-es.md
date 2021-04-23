@@ -28,8 +28,8 @@ En este momento está [Sony - Destruction Allstars](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Combate en vehículos y velocidad
 - Incluye juego completo
+- Combate en vehículos y velocidad
 - Desarrollador: Lucid Games
 - Juego compatible con PlayStation 5
 

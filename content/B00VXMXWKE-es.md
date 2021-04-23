@@ -28,9 +28,9 @@ Tienes [SanDisk Clip Clip Jam - Reproductor MP3   8GB  Azul](https://www.amazon.
 
 ℹ️:
 
-- Reproductor de música superligero, que puedes llevar puesto
-- Almacenamiento interno de 8 GB, con una ranura de tarjeta microSD para ampliarlo
 - Hasta 18 horas de vida de la batería con una sola carga
+- Almacenamiento interno de 8 GB, con una ranura de tarjeta microSD para ampliarlo
 - Pantalla de lectura amplia y brillante, con grandes botones de navegación
+- Reproductor de música superligero, que puedes llevar puesto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VXMXWKE/?tag=tolees-21)
