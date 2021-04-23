@@ -28,11 +28,11 @@ Ahora mismo tienes [HP Envy Photo 7830 - Impresora multifunción tinta  color  W
 
 🔎:
 
-- Bandeja de entrada principal de 125 hojas, bandeja de salida de hasta 25 hojas y con bandeja de fotografías.
 - Promoción: Imprime 6 meses gratis con HP Instant Ink. Válido hasta el 30/04. Más información en amazon.es/hp
-- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático
-- Esta impresora es compatible con los cartuchos de tinta originales HP 303 y con el servicio automático de tinta a domicilio HP Instant Ink: ahorra en impresión y recibe la tinta en casa
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
+- Esta impresora es compatible con los cartuchos de tinta originales HP 303 y con el servicio automático de tinta a domicilio HP Instant Ink: ahorra en impresión y recibe la tinta en casa
 - Imprime, copia,escanea, envía fax, web y especial para fotografía, con velocidades de impresión de 15/10 ppm (negro/color)
+- Bandeja de entrada principal de 125 hojas, bandeja de salida de hasta 25 hojas y con bandeja de fotografías.
+- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0751B7SHC/?tag=tolees-21)
