@@ -29,10 +29,10 @@ Está [HP Pavilion x360 Táctil - 14-dh1012ns - Ordenador portátil de 14" FullH
 ℹ️:
 
 - Procesador Intel Core i5-10210U (frecuencia base de 1,6 GHz, hasta 4.2 GHz con tecnología Intel Turbo Boost, 6 MB de caché, 4 núcleos)
-- Sistema operativo Windows 10 Home 64
-- Pantalla FullHD IPS de 14" (35,6 cm) en diagonal de microborde con retroiluminación WLED y cristal con función multitáctil de extremo a extremo (1920 x 1080)
-- SSD de 512 GB PCIe NVMe M.2
 - SDRAM DDR4-2666 de 8 GB (1 x 8 GB)
+- Pantalla FullHD IPS de 14" (35,6 cm) en diagonal de microborde con retroiluminación WLED y cristal con función multitáctil de extremo a extremo (1920 x 1080)
 - Tarjeta gráfica integrada
+- SSD de 512 GB PCIe NVMe M.2
+- Sistema operativo Windows 10 Home 64
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QM6MCL/?tag=tolees-21)
