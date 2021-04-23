@@ -28,12 +28,12 @@ Tienes [MSI Modern 15 A10M-627XES - Ordenador portátil de 15.6" FullHD   Intel 
 
 ℹ️:
 
+- Display 15.6" FHD (1920x1080), IPS-Level 60Hz 45%NTSC Thin Bezel
+- Sistema operativo SIN SISTEMA OPERATIVO
 - Memoria 16GB DDR4-SDRAM (2666MHz)
 - Controlador gráfico Intel UHD Graphics
-- Sistema operativo SIN SISTEMA OPERATIVO
 - Batería 3 Celdas Polímero de Litio 52 Whr
 - Almacenamiento 512GB SSD NVMe PCIe
 - Procesador Intel Core i7-10510U 1.8GHz (Turbo: 4.9GHz)
-- Display 15.6" FHD (1920x1080), IPS-Level 60Hz 45%NTSC Thin Bezel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08YFKVDN5/?tag=tolees-21)

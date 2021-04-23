@@ -28,10 +28,10 @@ En este momento está [Dell S3221QS - Pantalla de Ordenador  32 Pulgadas  4K UHD
 
 🔎:
 
-- Esta pantalla curva 4K UHD de 31,5 pulgadas admite reproducción de contenido HDR para una experiencia de entretenimiento envolvente.
-- Conectividad: 2 x HDMI 2.0 (HDCP 2.2), 1 x DP 1.2,1 x USB 3.0 upstream, 1 x USB 3.0 downstream, 1 x USB 3.0 downstream con BC 1.2 Charging, 1 x Audio Line-out
-- Máxima velocidad de actualización: 60 Hz, AMD FreeSync
-- Pantalla PC de 31,5 pulgadas (80,01 cm) 3840 x 2160 píxeles 4K UHD INCURVADO
 - Garantía de 3 años
+- Conectividad: 2 x HDMI 2.0 (HDCP 2.2), 1 x DP 1.2,1 x USB 3.0 upstream, 1 x USB 3.0 downstream, 1 x USB 3.0 downstream con BC 1.2 Charging, 1 x Audio Line-out
+- Pantalla PC de 31,5 pulgadas (80,01 cm) 3840 x 2160 píxeles 4K UHD INCURVADO
+- Máxima velocidad de actualización: 60 Hz, AMD FreeSync
+- Esta pantalla curva 4K UHD de 31,5 pulgadas admite reproducción de contenido HDR para una experiencia de entretenimiento envolvente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FRHFXWW/?tag=tolees-21)
