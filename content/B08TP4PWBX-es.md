@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 1 - Ordenador Portátil 11 al 16.39 % de rebaja'
-date: 2021-04-23 15:49:26
+date: 2021-04-24 17:16:20
 image: 'https://m.media-amazon.com/images/I/41LjnDPrxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08TP4PWBX/?tag=tolees-21'
 descuento: '16.39'
-average: '287.271818181818'
+average: '284.165'
 ---
 
 Tienes [Lenovo IdeaPad 1 - Ordenador Portátil 11.6" HD  Intel Celeron N4020  4GB RAM  64GB eMMC  Intel UHD Graphics 600  Windows 10 Home en Modo S  Azul - Teclado QWERTY Español](https://www.amazon.es/dp/B08TP4PWBX/?tag=tolees-21) con precio final de  249.99 EUR (original: 299.0 EUR) (16.39 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Lenovo IdeaPad 1 - Ordenador Portátil 11.6" HD  Intel Celeron N4020  4G
 
 🔎:
 
-- Almacenamiento de 64GB eMMC 5.1
-- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
 - Tarjeta gráfica Integrada Intel UHD Graphics 600
+- Almacenamiento de 64GB eMMC 5.1
 - Sistema operativo Windows 10 Home en modo S
+- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
 - Pantalla de 11.6" HD 1366x768 píxeles, TN, 250nits, Anti-glare
 - Memoria RAM de 4GB Soldered DDR4-2400
 
