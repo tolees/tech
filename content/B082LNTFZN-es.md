@@ -28,10 +28,10 @@ Ahora mismo tienes [Samsung Galaxy Tab A 8.0" LTE 32GB 2GB RAM Silver](https://w
 
 🔎:
 
-- Cámara trasera de 8MP
 - Pantalla de 8" 1280 x 800 (WXGA)
-- 32GB almacenamiento (ampliable hasta 512GB)
-- Altavoces duales
 - Batería de 5100 mAh
+- Cámara trasera de 8MP
+- Altavoces duales
+- 32GB almacenamiento (ampliable hasta 512GB)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082LNTFZN/?tag=tolees-21)
