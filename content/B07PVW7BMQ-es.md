@@ -28,9 +28,9 @@ Ahora mismo tienes [LG 27UL500-W - Monitor de 68 4 cm  27"  UHD  3840 x 2160  IP
 
 🔎:
 
-- Displayport x1
 - Sistema operativo: windows
 - Tamaño de pantalla: 27.0 inches
+- Displayport x1
 - Color: blanco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PVW7BMQ/?tag=tolees-21)
