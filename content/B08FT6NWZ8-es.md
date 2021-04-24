@@ -1,37 +1,40 @@
 ---
 layout: post
-title: 'NETGEAR Orbi RBK352 - Sistema Mesh WiFi  con un 20.37 % de descuento'
-date: 2021-04-02 08:17:35
-image: 'https://m.media-amazon.com/images/I/31PHlLYr4lL._SL400_.jpg'
+title: 'NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema  con un 15.03 % de descuento'
+date: 2021-04-24 03:39:12
+image: 'https://m.media-amazon.com/images/I/31EyjTm5Q7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08FT6NWZ8-es NETGEAR Orbi RBK352 - Sistema Mesh WiFi 6 de Doble Banda...'
+slug: 'B08FT6NWZ8-es NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema de doble banda...'
 sku: 'B08FT6NWZ8-es'
 tags: [ 'Componentes','Dispositivos de red','Informática','Sistemas WiFi Mesh','netgear','wifi', ]
-actualPrice: 214.99 EUR
+actualPrice: 229.42 EUR
 currency: EUR
-price: 214.99
+price: 229.42
 comparePrice: 269.99 EUR
-prodname: 'NETGEAR Orbi RBK352 - Sistema Mesh WiFi 6 de Doble Banda  Velocidades de Hasta 1.8 Gbps  Incluye Router y Satélite. Cubre hasta 4+ Dormitorios y 200 m²'
+prodname: 'NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema de doble banda compuesto por router y 1 extensor satélite  Cobertura de hasta 200 m² y más de 30 dispositivos  AX1800  hasta 1.8 Gbps '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21'
-descuento: '20.37'
-average: '221.101111111111'
+descuento: '15.03'
+average: '237.069375'
 ---
 
-En este momento está [NETGEAR Orbi RBK352 - Sistema Mesh WiFi 6 de Doble Banda  Velocidades de Hasta 1.8 Gbps  Incluye Router y Satélite. Cubre hasta 4+ Dormitorios y 200 m²](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21) a 214.99 EUR (original: 269.99 EUR) (20.37 %  de descuento) en el siguiente enlace!
+En este momento está [NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema de doble banda compuesto por router y 1 extensor satélite  Cobertura de hasta 200 m² y más de 30 dispositivos  AX1800  hasta 1.8 Gbps ](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21) a 229.42 EUR (original: 269.99 EUR) (15.03 %  de descuento) en el siguiente enlace!
 
-[![NETGEAR Orbi RBK352 - Sistema Mesh WiFi ](https://m.media-amazon.com/images/I/31PHlLYr4lL._SL400_.jpg)](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21)
+[![NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema ](https://m.media-amazon.com/images/I/31EyjTm5Q7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21)
 
 🔎:
 
-- Óptima capacidad y duración de la batería: disfrute de 4 veces óptima capacidad de conexión que WiFi 5 con una eficiencia mejorada para una mayor duración de la batería del dispositivo
-- Robusto WiFi mesh para el hogar inteligente: óptima experiencia con 4 transmisiones de WiFi 6 y cobertura de hasta 4+ habitaciones y 200 metros cuadrados
-- WiFi potente y fiable: libérese de los retrasos de Internet con 5 puertos Gigabit Ethernet
-- Una red WiFi: disfrute de un solo nombre de WiFi para toda su casa para una itinerancia óptima; con la aplicación Orbi, configure su WiFi, personalice la configuración y controle su WiFi en cualquier momento y lugar
-- Diseñado para velocidades de Internet Gigabit en todas partes: Orbi RBK352 le permite experimentar las velocidades de Internet óptima donde puede tener velocidades inalámbricas totales de hasta 1.8 Gbps
+- Puedes conectar ordenadores, videoconsolas, reproductores de streaming y otros dispositivos con 3 puertos Gigabit Ethernet en el router y 2 puertos Gigabit Ethernet en el satélite
+- Compatible con cualquier proveedor de servicios de Internet, incluidas las conexiones por cable, satélite, fibra y DSL
+- Amplíe la cobertura hasta 100m² con cada satélite adicional (RBS350 se vende por separado)
+- NETGEAR Armor con tecnología Bitdefender ofrece protección para todos los dispositivos de la casa contra virus, malware y robo de datos con un periodo de prueba sin coste de 30 días
+- Puedes configurarlo en cuestión de minutos con la aplicación Orbi; gestión sencilla de la configuración WiFi, pruebas de velocidad de Internet y supervisión del uso de datos
+- Conecta el router por cable Orbi directamente al módem de tu operador y crea una red WiFi fiable en toda tu casa
+- Cobertura WiFi de hasta 200 m² y más de 30 dispositivos
+- Velocidad WiFi 6 AX1800 para optimizar la rapidez de navegación de tus dispositivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21)
