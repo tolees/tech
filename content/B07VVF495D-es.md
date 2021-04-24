@@ -28,9 +28,9 @@ Tienes [SAMSUNG Galaxy Tab S6 LTE - 256GB LTE /4G  Gray ](https://www.amazon.es/
 
 ℹ️:
 
-- Procesador: Snapdragon 855 2.84GHz
-- Tecnología de comunicación inalámbrica: Celular
 - Cámara: Dual, 13MP+5MP
+- Tecnología de comunicación inalámbrica: Celular
+- Procesador: Snapdragon 855 2.84GHz
 - Batería: 7040 mAh
 - Pantalla: 10.5", 1600 x 2560 pixels
 
