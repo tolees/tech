@@ -28,8 +28,8 @@ Ahora mismo tienes [Melopero Raspberry Pi 3 Model B  CPU Quad Core 1 2GHz Broadc
 
 🔎:
 
-- Dimensión de la pantalla 60 pulgadas
-- Tipo de procesador Core 2 Quad
 - Coprocesador gráfico Dual Core VideoCore IV
+- Tipo de procesador Core 2 Quad
+- Dimensión de la pantalla 60 pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CD5VC92/?tag=tolees-21)
