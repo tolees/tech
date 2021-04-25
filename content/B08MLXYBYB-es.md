@@ -28,9 +28,9 @@ En este momento está [HP X24ih 2W925AA- Monitor Gaming de 23.8" FHD  1920 x 108
 
 🔎:
 
-- Fácil ajuste de inclinación; 6° hacia delante y 23° hacia atrás; y giro ±360°
-- Respuesta de 1 milisegundo con Overdrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
 - Clase de eficiencia energética: A; consumo de energía anual: 35 kWh
+- Respuesta de 1 milisegundo con Overdrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
+- Fácil ajuste de inclinación; 6° hacia delante y 23° hacia atrás; y giro ±360°
 - Conecta fácilmente tus dispositivos con los puertos HDMI y DisplayPort
 - Pantalla FHD (1080p) y una frecuencia de actualización de 144 Hz; tecnología IPS
 
