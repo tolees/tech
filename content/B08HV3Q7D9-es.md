@@ -28,11 +28,11 @@ Tienes [Lenovo IdeaCentre 510A - Ordenador de sobremesa  Procesador AMD Ryzen 5 
 
 🔎:
 
-- Teclado QWERTY Português y ratón
 - El ordenador está refrigerado muy silenciosamente y es muy ligero, para trabajar y navegar por Internet sin problemas
-- Almacenamiento de memoria de 512 GB SSD para almacenar sus documentos de forma rápida y segura
 - Sistema Operativo Windows 10
 - Un disco duro SSD que ofrece un rendimiento más que suficiente para los datos y las aplicaciones, características: RAM 1x 8GB DIMM DDR4-2666, Bluetooth 4.0, USB 3.0
+- Teclado QWERTY Português y ratón
 - Lenovo IdeaCentre 510A está equipado con un procesador Intel que proporciona más que suficiente potencia para la oficina, el trabajo doméstico y los juegos
+- Almacenamiento de memoria de 512 GB SSD para almacenar sus documentos de forma rápida y segura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HV3Q7D9/?tag=tolees-21)

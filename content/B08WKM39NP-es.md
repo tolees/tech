@@ -28,10 +28,10 @@ Tienes [HP All-in-One 24-df0016ns - Ordenador de sobremesa de 24" FullHD  Intel 
 
 🔎:
 
+- Pantalla FHD de 23,8" (60,45 cm) en diagonal, IPS, ZBD, antirreflectante, retroiluminación WLED, microborde de tres caras
 - Conectividad segura a través de Wi-Fi, Bluetooth
-- Cámara HD Hp Privacy con micrófono digital de matriz doble
 - Puertos: 2 SuperSpeed USBType-A; 2 USB2.0 Type-A; hDMI; 1 toma combinada de auriculares/micrófono; 1 RJ-45; lector de tarjetas de memoria Hp 3 en 1
 - Procesadores Intel de 10.ª generación para sobremesas, 4K con compatibilidad HDR y distintas posibilidades de conexión Wi-Fi 6 ultrarrápidas opcionales
-- Pantalla FHD de 23,8" (60,45 cm) en diagonal, IPS, ZBD, antirreflectante, retroiluminación WLED, microborde de tres caras
+- Cámara HD Hp Privacy con micrófono digital de matriz doble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WKM39NP/?tag=tolees-21)

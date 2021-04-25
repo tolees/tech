@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GF63 Thin 10SCSR-1051XES - Ordenador al 21.67 % de rebaja'
-date: 2021-04-24 10:31:13
+date: 2021-04-25 19:42:17
 image: 'https://m.media-amazon.com/images/I/41xsRh52lvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [MSI GF63 Thin 10SCSR-1051XES - Ordenador portátil de 15.6" FullHD 60Hz 
 
 🔎:
 
-- Batería de 3 celdas ion Litio, 51Whr
 - Almacenamiento de 512 GB NVMe PCIe SSD
-- Memoria RAM de 16 GB DDR 4, 2666 MHz
+- Batería de 3 celdas ion Litio, 51Whr
 - Sin sistema operativo
-- Tarjeta gráfica GTX1650 Ti Max Q, GDDR6 4 GB
+- Memoria RAM de 16 GB DDR 4, 2666 MHz
 - 15.6" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
+- Tarjeta gráfica GTX1650 Ti Max Q, GDDR6 4 GB
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12 MB Cache, 2.60 GHz hasta 5.00 GHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VD7GXS4/?tag=tolees-21)
