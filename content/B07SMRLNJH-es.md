@@ -28,10 +28,10 @@ Ahora mismo tienes [Legend of Zelda Link s Awakening - Nintendo Switch Standard 
 
 🔎:
 
+- Complete dungeons throughout the story to earn their rooms for the Chamber
 - Explore numerous dungeons, riddled with tricks, traps, and enemies, including some from the Super Mario series
 - Meet and interact with unique locals to get help on your adventure
-- Listen to a reawakened soundtrack that helps bring life to Koholint Island
-- Complete dungeons throughout the story to earn their rooms for the Chamber
 - As Link, explore a reimagined Koholint Island and collect instruments to awaken the Wind Fish to find a way home
+- Listen to a reawakened soundtrack that helps bring life to Koholint Island
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SMRLNJH/?tag=tolees-21)
