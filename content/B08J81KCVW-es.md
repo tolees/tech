@@ -28,10 +28,10 @@ Está [Radio Coche Bluetooth REAKOSOUND Autoradio 1 DIN Bluetooth Manos Libres R
 
 ℹ️:
 
+- 【Manos Libres Bluetooth】Admite llamadas manos libres, por lo que es conveniente recibir llamadas y conducir con seguridad. No es necesario levantar el teléfono con las manos, lo que garantiza la conducción segura.
 - 【Compatibilidad con USB (disco U) / tarjeta SD】Admite grandes equipos de almacenamiento SD/USB (solo un usb para música，No se puede cargar) , y puedes descargar las canciones que te gustan en el equipo de almacenamiento para jugar, lo cual es muy conveniente.
+- 【Nota】Asegúrese de revisar el diagrama de cableado detallado en la imagen antes de la instalación y use el cableado que viene con nuestra radio. Conecte los parámetros del cableado de la radio y los parámetros del cableado del automóvil correctamente para evitar que la radio funcione o no. Si tiene alguna pregunta, no dude en contactarnos y lo ayudaremos a resolver el problema.
 - 【Radio FM】Radio FM con estéreo digital de alta calidad, que puede buscar canales de manera completamente automática, semiautomática y de manera precisa. Puede escuchar radio de televisión, noticias, música, información de viaje con precisión en cualquier momento y disfrutar el tiempo de conducción.Radio Frecuencia: 87.5-108MHz
 - 【Entrada de audio AUX】 admite AUX externo (conector de 3.5MM) para el audio, MP3, audio del teléfono móvil, etc., entrada a través del audio AUX del terminal frontal y salida del sonido del altavoz del automóvil.
-- 【Nota】Asegúrese de revisar el diagrama de cableado detallado en la imagen antes de la instalación y use el cableado que viene con nuestra radio. Conecte los parámetros del cableado de la radio y los parámetros del cableado del automóvil correctamente para evitar que la radio funcione o no. Si tiene alguna pregunta, no dude en contactarnos y lo ayudaremos a resolver el problema.
-- 【Manos Libres Bluetooth】Admite llamadas manos libres, por lo que es conveniente recibir llamadas y conducir con seguridad. No es necesario levantar el teléfono con las manos, lo que garantiza la conducción segura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J81KCVW/?tag=tolees-21)
