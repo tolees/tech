@@ -28,10 +28,10 @@ Tienes [MSI Modern 15 A10M-610XES - Ordenador Portátil 15.6" FHD  1920 x 1080  
 
 🔎:
 
-- Tarjeta gráfica UMA
-- Pantalla de 15.6" FHD (1920 x 1080)
-- Memoria RAM DDR IV 16 GB (2666 MHz)
-- Disco HDD de 512 GB NVMe PCIe SSD
 - Procesador Comet lake I5-10210U
+- Disco HDD de 512 GB NVMe PCIe SSD
+- Pantalla de 15.6" FHD (1920 x 1080)
+- Tarjeta gráfica UMA
+- Memoria RAM DDR IV 16 GB (2666 MHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VGT9CCL/?tag=tolees-21)
