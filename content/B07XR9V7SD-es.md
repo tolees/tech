@@ -28,12 +28,12 @@ Ahora mismo tienes [Apple Funda Leather Folio  para el iPhone 11 Pro  - Negro](h
 
 🔎:
 
-- El interior está forrado de suave microfibra para proteger el iphone y tiene espacio para billetes y tarjetas de crédito
-- Para que protejas tu iphone de arañazos y caídas sin renunciar al estilo
-- Como todas las fundas de apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación
-- Para el iphone 11 pro
-- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica
-- Ábrela para activar el iphone 11 pro al instante y ciérrala para ponerlo en reposo
 - La funda leather folio está fabricada en piel europea curtida y teñida con un proceso especial que se adapta perfectamente al contorno de tu iphone 11 pro, manteniendo su diseño ultrafino
+- El interior está forrado de suave microfibra para proteger el iphone y tiene espacio para billetes y tarjetas de crédito
+- Ábrela para activar el iphone 11 pro al instante y ciérrala para ponerlo en reposo
+- Como todas las fundas de apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación
+- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica
+- Para el iphone 11 pro
+- Para que protejas tu iphone de arañazos y caídas sin renunciar al estilo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XR9V7SD/?tag=tolees-21)
