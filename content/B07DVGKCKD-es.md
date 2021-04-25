@@ -28,10 +28,10 @@ Ahora mismo tienes [Toshiba MG Series 10 TB Enterprise Capacity Disque Dur Inter
 
 🔎:
 
-- Flexibilidad en tamaño de bloque y opciones SIE y SED
 - Tecnología de bandeja estable de Toshiba
-- Operación 24/7
-- Disco duro SATA o SAS de 3.5 
 - Tecnología Persistent Write Cache
+- Operación 24/7
+- Flexibilidad en tamaño de bloque y opciones SIE y SED
+- Disco duro SATA o SAS de 3.5 
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DVGKCKD/?tag=tolees-21)

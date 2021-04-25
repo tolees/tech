@@ -29,8 +29,8 @@ Está [Rii Teclado Gaming RM400 Combo Rainbow Retroiluminación Teclado y Ratón
 ℹ️:
 
 - Teclado y ratón ergonómicamente diseñados para un uso y agarre más confortable.
-- Teclas especialmente diseñadas para una larga durabilidad y respuesta táctil satisfactoria.
 - Teclas multimedia dedicadas para controlas música y volumen. Ratón de 2.000 DPI en 3 niveles preestablecidos (1.000, 1.600 y 2.000). Requerimientos del sistema: PC con puerto USB, Windows 7/8/10/XP/Vista.
+- Teclas especialmente diseñadas para una larga durabilidad y respuesta táctil satisfactoria.
 - Retroiluminación con 7 colores en el teclado y en el ratón,Teclado Español
 - Grabados con láser y teclas con recubrimiento especial para una pulsación más agradable.
 
