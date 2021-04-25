@@ -28,10 +28,10 @@ Está [NEW C Funda para iPhone 6 y iPhone 6S  Funda Protectora con absorción de
 
 ℹ️:
 
-- La funda para iPhone 6 y iPhone 6S ofrece una sensación táctil superior con una textura rica y suave de fibra de carbono.
 - Este estuche ha sido especialmente diseñado para iPhone 6/6S, para garantizar una protección completa.
+- Mantenga su teléfono seguro y protegido con estilo con esta funda de gel flexible y con los labios levantados para proteger la pantalla y la cámara
+- La funda para iPhone 6 y iPhone 6S ofrece una sensación táctil superior con una textura rica y suave de fibra de carbono.
 - TPU flexible, flexible y ligero. Protector: resistente a golpes, arañazos y rasgaduras, y evita la acumulación de polvo y aceite. El patrón interior de la carcasa en forma de telaraña ayuda a promover el enfriamiento del teléfono celular.
 - Acceso completo a la interfaz de usuario, lente de la cámara, conector para auriculares, altavoz y micrófono. Permite recargar sin quitar la carcasa protectora
-- Mantenga su teléfono seguro y protegido con estilo con esta funda de gel flexible y con los labios levantados para proteger la pantalla y la cámara
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DY2W41X/?tag=tolees-21)

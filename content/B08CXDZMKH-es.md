@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Wansview Cámara Vigilancia WiFi Exterior con un 15.00 % de descuento'
-date: 2021-04-04 09:44:30
-image: 'https://m.media-amazon.com/images/I/41Xut9C+hoL._SL400_.jpg'
+date: 2021-04-25 17:07:59
+image: 'https://m.media-amazon.com/images/I/41Xut9C+hoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'wansview'
 buyurl: 'https://www.amazon.es/dp/B08CXDZMKH/?tag=tolees-21'
 descuento: '15.00'
-average: '36.2114285714287'
+average: '36.1417241379312'
 ---
 
 En este momento está [Wansview Cámara Vigilancia WiFi Exterior  1080P Cámara IP WiFi de Seguridad con Visión Noturna Detección de Movimiento Audio Bidireccional  Soporta Alexa RTSP Onvif  IP66 Impermeable  W6  Blanco ](https://www.amazon.es/dp/B08CXDZMKH/?tag=tolees-21) a 30.59 EUR (original: 35.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
 
-[![Wansview Cámara Vigilancia WiFi Exterior](https://m.media-amazon.com/images/I/41Xut9C+hoL._SL400_.jpg)](https://www.amazon.es/dp/B08CXDZMKH/?tag=tolees-21)
+[![Wansview Cámara Vigilancia WiFi Exterior](https://m.media-amazon.com/images/I/41Xut9C+hoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CXDZMKH/?tag=tolees-21)
 
 🔎:
 
