@@ -28,10 +28,10 @@ Tienes [MSI GF63 Thin 10SCSR-1051XES - Ordenador portátil de 15.6" FullHD 60Hz 
 
 🔎:
 
-- Almacenamiento de 512 GB NVMe PCIe SSD
 - 15.6" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12 MB Cache, 2.60 GHz hasta 5.00 GHz)
 - Tarjeta gráfica GTX1650 Ti Max Q, GDDR6 4 GB
+- Almacenamiento de 512 GB NVMe PCIe SSD
 - Sin sistema operativo
 - Memoria RAM de 16 GB DDR 4, 2666 MHz
 - Batería de 3 celdas ion Litio, 51Whr
