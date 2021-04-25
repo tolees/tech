@@ -29,8 +29,8 @@ Ahora mismo tienes [Gigaset GL390 - teléfono móvil para Mayores con Teclas Gra
 🔎:
 
 - Teclas grandes: retroiluminadas, con una pantalla claramente legible para facilitar la visualización
-- BOTÓN SOS: con solo apretar este botón realiza una llamada al número de emergencia seleccionado
-- Gigaset GL390 ha sido diseñado específicamente para hacer que la comunicación móvil sea cómoda y agradable para las personas mayores
 - Un sonido perfecto: El GL390 es compatible con audífonos.
+- Gigaset GL390 ha sido diseñado específicamente para hacer que la comunicación móvil sea cómoda y agradable para las personas mayores
+- BOTÓN SOS: con solo apretar este botón realiza una llamada al número de emergencia seleccionado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKFJSZH/?tag=tolees-21)

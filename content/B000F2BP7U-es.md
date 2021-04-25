@@ -28,10 +28,10 @@ Ahora mismo tienes [3M EM500GPS - Ratón óptico USB ergonómico  Color Negro](h
 
 🔎:
 
-- Disponible en tamaño grande para un ancho de palma de 8,9 cm o superior o en tamaño Pequeño/Medio (este artículo), para un ancho de palma de 8,8 cm o inferior
-- Ratón ergonómico pequeño de color negro
 - Este ratón alivia las molestias causadas por los movimientos repetitivos en mano, muñeca y brazo asociados con el uso de los ratones convencionales
-- El Ratón Ergonómico 3M funciona como un ratón óptico convencional salvo por su diseño de agarre vertical que ayuda a mantener la mano y la muñeca en posición neutra
+- Disponible en tamaño grande para un ancho de palma de 8,9 cm o superior o en tamaño Pequeño/Medio (este artículo), para un ancho de palma de 8,8 cm o inferior
 - Ratón pequeño de 123 x 81,6 x 103 mm
+- El Ratón Ergonómico 3M funciona como un ratón óptico convencional salvo por su diseño de agarre vertical que ayuda a mantener la mano y la muñeca en posición neutra
+- Ratón ergonómico pequeño de color negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000F2BP7U/?tag=tolees-21)
