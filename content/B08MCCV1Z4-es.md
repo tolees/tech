@@ -28,10 +28,10 @@ Tienes [HP Chromebook 14a-na0004ns - Ordenador portátil HD de 14"  Intel Celero
 
 🔎:
 
+- Memoria RAM de 4 GB (integrada)
+- Disco eMMC de 64 GB
 - Sistema Operativo Chrome
 - Tarjeta gráfica integrada: Intel HD Graphics UHD 600
-- Memoria RAM de 4 GB (integrada)
 - Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
-- Disco eMMC de 64 GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MCCV1Z4/?tag=tolees-21)
