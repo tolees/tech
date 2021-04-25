@@ -28,10 +28,10 @@ En este momento está [JE - 65W Portátil Cargador  ANTIEE 20V 3.25A EU Fuente d
 
 🔎:
 
-- 【65W Portátil Cargador Especificación】Entrada: 100-240V, 50-60Hz, salida: 20V, 3.25A, 65W, Punta de conexión: punta USB amarilla. ¡Ofrecemos cables de alimentación para Europeo(EU)!
-- 【Mejor garantía para usted】ANTIEE ofrece un reembolso de 30 días y un servicio de garantía de 12 meses. Soporte por correo electrónico las 24 horas, los 7 días de la semana. Si tiene alguna pregunta sobre el cargador de computadora portátil 65W 20V 3.25A para Lenovo, comuníquese con nosotros para el soporte rápido y receptivo que necesita.
 - 【Seguridad】100% nuevo del fabricante.Los productos están certificados por UL, CE, FCC, RoHS para la seguridad.Nos enfocamos en proporcionar productos de energía premium y un excelente servicio de ventas. Nota: ¡Nuestro paquete incluye adaptador europeo(EU)!
-- 【Modelos de portátiles compatibles】para Lenovo Thinkpad G50 G50-45 G50-70 G50-80 Z50 Z50-70 Z50-75,Lenovo Ideapad Yoga S1, 2, 11, 11s, 13, 2 Pro; Flex 2, 3, 14, 15, 15D, Lenovo Thinkpad X1 Carbon T440 T440S T440P E431 Lenovo IdeaPad Z510 6277-9QU PA-1900-081 45N0236, 45N0237,0B47002, 0B47003 Computadora Portátil Cargador
+- 【Mejor garantía para usted】ANTIEE ofrece un reembolso de 30 días y un servicio de garantía de 12 meses. Soporte por correo electrónico las 24 horas, los 7 días de la semana. Si tiene alguna pregunta sobre el cargador de computadora portátil 65W 20V 3.25A para Lenovo, comuníquese con nosotros para el soporte rápido y receptivo que necesita.
 - 【Número de pieza compatible】0A36258 0B47455 0C19868 36200249 36200288 36200253 36200292 0A36271 36200251 45N0251 45N0321 45N0322 45N0313 45N0314 ADLX65NLC3A ADLX65NDT3A ADLX65NDC3 ADLX65SLC2A PA-1650-72 Fuente de Alimentación
+- 【65W Portátil Cargador Especificación】Entrada: 100-240V, 50-60Hz, salida: 20V, 3.25A, 65W, Punta de conexión: punta USB amarilla. ¡Ofrecemos cables de alimentación para Europeo(EU)!
+- 【Modelos de portátiles compatibles】para Lenovo Thinkpad G50 G50-45 G50-70 G50-80 Z50 Z50-70 Z50-75,Lenovo Ideapad Yoga S1, 2, 11, 11s, 13, 2 Pro; Flex 2, 3, 14, 15, 15D, Lenovo Thinkpad X1 Carbon T440 T440S T440P E431 Lenovo IdeaPad Z510 6277-9QU PA-1900-081 45N0236, 45N0237,0B47002, 0B47003 Computadora Portátil Cargador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078NTTZSW/?tag=tolees-21)
