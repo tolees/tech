@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Medievil PS4 al 33.48 % de descuento'
-date: 2021-04-19 18:03:05
+date: 2021-04-25 22:34:25
 image: 'https://m.media-amazon.com/images/I/51LomRgwCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

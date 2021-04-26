@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link LS108G - Switch 8 Puertos  10/10 al 16.01 % de descuento'
-date: 2021-04-23 15:28:40
+date: 2021-04-26 00:00:04
 image: 'https://m.media-amazon.com/images/I/313DDOW1vUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21'
 descuento: '16.01'
-average: '22.4569230769232'
+average: '22.4513026819925'
 ---
 
 Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch ethernet  Switch gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21) con 16.01 de descuento por 20.99 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch ethernet  Switch g
 ℹ️:
 
 - Enchufar y listo - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
+- Switch Gigabit de 8 puertos RJ45 - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
+- Tecnología verde Ethernet - Reduce el consumo de energía
 - Super disipación de calor - Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
 - Silencioso - El diseño sin ventilador garantiza un funcionamiento silencioso
 - Optimización del tráfico - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
-- Tecnología verde Ethernet - Reduce el consumo de energía
-- Switch Gigabit de 8 puertos RJ45 - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21)
