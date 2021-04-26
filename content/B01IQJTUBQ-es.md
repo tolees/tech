@@ -29,9 +29,9 @@ Está [OMOTON Teclado Bluetooth Español Ultra-Delgado para iPad/iPad Pro/iPad A
 ℹ️:
 
 - Tamaño perfecto: cuando va en misión, puede poner en una mochila, bolsa de mensajero, o una caja.
-- Teclado en español: todas las teclas están diseñadas en la escritura española, includos los símbolos.
 - Sin Cable, teclado táctil inalámbrica enlaza su dispositivo como tabletas y teléfonos móviles, que traerá más comodidad cuando se necesita para escribir.
-- ⭐ Este teclado NO SIRVE para Macbook Pro, Air, iMac (sistema de Mac). Compatible con todos los iPad, iPhone con Bluetooth, no compatible con otra sistema, no compatible con otra sistema.
+- Teclado en español: todas las teclas están diseñadas en la escritura española, includos los símbolos.
 - Batería de vida larga: 30 días de utilizar continuo y el modo de sueño automático permiten hasta medio año entre cambios de batería (2 x pila AAA no incluidas).
+- ⭐ Este teclado NO SIRVE para Macbook Pro, Air, iMac (sistema de Mac). Compatible con todos los iPad, iPhone con Bluetooth, no compatible con otra sistema, no compatible con otra sistema.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IQJTUBQ/?tag=tolees-21)

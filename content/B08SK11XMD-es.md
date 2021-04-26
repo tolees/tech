@@ -30,8 +30,8 @@ Está [AUKEY USB C Hub 8 en 1 con HDMI 4K  Gigabit Ethernet  3 USB 3.0  Carga PD
 
 - Transferencia de datos SuperSpeed: Tres puertos USB 3.0 admiten velocidades de transferencia de datos de hasta 5 Gbps. Las ranuras para tarjetas SD y micro SD (que no se pueden usar simultáneamente) admiten velocidades de transferencia de datos de hasta 480 Mbps. El puerto Gigabit Ethernet admite velocidades de red de 10/100/1000 Mbps
 - Video Ultra HD: El puerto HDMI emite resoluciones de hasta 4K @ 30Hz a una pantalla conectada
-- Carga rápida de PD: El puerto de carga USB-C admite hasta 100 W de suministro de energía para mantener su MacBook Pro u otra computadora portátil compatible completamente cargada en 2 horas (usando el adaptador de corriente original de su dispositivo) mientras usa todas las demás funciones del concentrador
 - Concentrador USB-C 8 en 1: Convierta un solo puerto USB-C en 1 puerto Gigabit Ethernet, 1 puerto HDMI, 3 puertos USB 3.1 Gen 1 (USB 3.0), 1 puerto de carga USB Power Delivery y SD y Micro SD ranuras para tarjetas
 - Compatibilidad del dispositivo: Compatible con MacBook Air / Pro de 13 pulgadas, Dell XPS 15, HP Spectre x360, HP Elite x2 1012, Google Chromebook Pixel, Lenovo Yoga, Razer Blade Stealth, Huawei MateBook y otras computadoras portátiles tipo C
+- Carga rápida de PD: El puerto de carga USB-C admite hasta 100 W de suministro de energía para mantener su MacBook Pro u otra computadora portátil compatible completamente cargada en 2 horas (usando el adaptador de corriente original de su dispositivo) mientras usa todas las demás funciones del concentrador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SK11XMD/?tag=tolees-21)

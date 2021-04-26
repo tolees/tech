@@ -31,7 +31,7 @@ En este momento está [Altavoz portátil Micrófono con altavoz USB de Kaysuda p
 - Compatible con Windows Microsoft Communicator y Microsoft Lync. HD Voice para conversaciones en calidad de sonido de alta definición
 - Escuche y escuche con un micrófono omnidireccional de 360 grados que capta los sonidos desde cualquier ángulo
 - Conversaciones nítidas durante las llamadas a Internet de Skype of Microsoft con micrófono de campo lejano, reducción de ruido y cancelación de eco
-- Desate de su teléfono y auriculares, para conversaciones individuales o llamadas de conferencia grupales
 - Plug and Play, no requiere software ni batería, solo conéctelo a su PC a través de la interfaz USB.
+- Desate de su teléfono y auriculares, para conversaciones individuales o llamadas de conferencia grupales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078MRMMQG/?tag=tolees-21)

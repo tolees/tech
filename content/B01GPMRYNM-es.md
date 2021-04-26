@@ -28,10 +28,10 @@ Está [BENFEI Cable DisplayPort a VGA 1 8m DP a VGA Adaptador Macho a Hembra Cab
 
 ℹ️:
 
+- Soporta 1080p a 60 Hz y resoluciones de gráficos de PC de hasta 2048 x 1152 a 60 Hz.
+- Transmite vídeo de alta definición desde un ordenador a un televisor HD, para transmisión de vídeo o juegos; conecta y configura tu monitor para un tener un escritorio expandido o pantallas de espejo.
 - Conectores chapados en oro; conductores de cobre sin revestimiento, y blindaje de aluminio y trenzado, combinados para proporcionar un rendimiento de cable superior y conectividad fiable.
 - Conector DisplayPort con cierres, que proporciona una conexión segura con un botón de liberación que se debe presionar antes de desenchufar.
-- Transmite vídeo de alta definición desde un ordenador a un televisor HD, para transmisión de vídeo o juegos; conecta y configura tu monitor para un tener un escritorio expandido o pantallas de espejo.
 - Cómodo cable que conecta directamente un DisplayPort (DP, DP++, DisplayPort++) equipado con ordenador a un monitor o proyector con entrada VGA.
-- Soporta 1080p a 60 Hz y resoluciones de gráficos de PC de hasta 2048 x 1152 a 60 Hz.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GPMRYNM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Cable USB C a HDMI  BENFEI Type-C a HDMI 3M [Compatible con Thunderbolt 3
 
 ℹ️:
 
+- COMPATIBILIDAD DE AMPLIA: Compatible con MacBook Pro 2019/2018/2017, iMac 2019, 2019/2017, Surface Book 2, Surface Go, HP Envy 13, Pixelbook, Galaxy Book, Samsung Galaxy S8 / S9 / S8 Plus / S9 Plus / Note 8 / Note 9, Dell XPS 15 / XPS 13, Chromebook, Chromebook Pixel, Intel NUC y muchos otros
+- GARANTÍA DE 18 MESES: la exclusiva garantía incondicional de 18 meses de Benfei garantiza la satisfacción a largo plazo de su compra; Servicio al cliente amigable y de fácil acceso para resolver sus problemas a tiempo
 - Transmisión desde todas partes: transmita eventos deportivos, vea películas, juegos y muestre fotos / álbumes directamente desde sus dispositivos (Samsung Galaxy S8 / S9 / S10 / S8 Plus / S9 Plus / Note 8) y nunca se pierda el touchdown ganador del juego o su episodios de televisión favoritos.
 - PLUG & PLAY: Plug-and-play, no se requiere adaptador ni controlador / software. La solución perfecta para su MacBook Pro / MacBook, iMac, Surface Book 2, Pixelbook, HP Envy 13, Galaxy Book y Chromebook USB-C, maneja uno o dos monitores / pantallas HDMI, con una resolución de hasta 4K @ 30Hz. Compatible con televisores / monitores / proyectores habilitados para HDMI para transferencia de video y audio
-- GARANTÍA DE 18 MESES: la exclusiva garantía incondicional de 18 meses de Benfei garantiza la satisfacción a largo plazo de su compra; Servicio al cliente amigable y de fácil acceso para resolver sus problemas a tiempo
-- COMPATIBILIDAD DE AMPLIA: Compatible con MacBook Pro 2019/2018/2017, iMac 2019, 2019/2017, Surface Book 2, Surface Go, HP Envy 13, Pixelbook, Galaxy Book, Samsung Galaxy S8 / S9 / S8 Plus / S9 Plus / Note 8 / Note 9, Dell XPS 15 / XPS 13, Chromebook, Chromebook Pixel, Intel NUC y muchos otros
 - ESTABILIDAD SUPERIOR: el chip IC avanzado incorporado convierte la señal USB-C en señal HDMI; Asegúrese de que el dispositivo USB Type-C admita el modo alternativo DisplayPort USB Type-C. El conector DisplayPort chapado en oro resiste la corrosión y la abrasión y mejora el rendimiento de transmisión de la señal; El alivio de tensión moldeado aumenta la durabilidad del cable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLMZK6S/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [OfficeWorld - Cartuchos de tinta para Canon PGI-570 CLI-571  compatible 
 
 🔎:
 
+- Contenido: PGI-570XL / CLI-571XL cartuchos de tinta de alto rendimiento (1 Negro, 1 Foto-negro, 1 Cian, 1 Magenta, 1 Amarillo) Paquete de 5
 - Volumen de tinta: PGBK 24 ml, Negro/Cian / Magenta / Amarillo 13 ml por color.
+- Todos los productos de OfficeWorld construidos según los estándares de fábrica ISO9001 e ISO14001. Asegúrese de que su modelo de impresora antes de realizar un pedido.
 - Compatible con: Canon PIXMA MG5700 5750 5751 5752 5753 6800 6850 6851 6852 6853 TS5050 TS5051 TS5053 TS5055 TS6050 TS6051 TS6052
 - OfficeWorld: Chips inteligentes asegurar la compatibilidad. La tinta de calidad premium imprime colores vivos y de alta calidad. La alta capacidad aumenta el número de páginas impresas. El embalaje multicapa garantiza la seguridad del transporte. Fácil instalación. Entrega rápida.
-- Todos los productos de OfficeWorld construidos según los estándares de fábrica ISO9001 e ISO14001. Asegúrese de que su modelo de impresora antes de realizar un pedido.
-- Contenido: PGI-570XL / CLI-571XL cartuchos de tinta de alto rendimiento (1 Negro, 1 Foto-negro, 1 Cian, 1 Magenta, 1 Amarillo) Paquete de 5
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DJ9GIVS/?tag=tolees-21)
