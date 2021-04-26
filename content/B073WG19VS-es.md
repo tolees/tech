@@ -28,12 +28,12 @@ Tienes [Polar M430 - Reloj de Correr con GPS y Frecuencia cardíaca en la muñec
 
 🔎:
 
+- Tallas: S: circunferencia de la muñeca 130-187 mm
+- Dimensiones: altura 12 mm
+- Compatible con sensores de frecuencia cardíaca Polar BLE
 - Impermeable, adecuado para nadar
+- Analiza tu sueño al detalle con la función Sleep Plus, velocidad, distancia también en indoor
 - Cable USB personalizado para sincronizar datos con PC o Mac, bluetooth de baja energía con dispositivo móvil y sensores
 - Registro de la frecuencia cardíaca en la muñeca
-- Dimensiones: altura 12 mm
-- Tallas: S: circunferencia de la muñeca 130-187 mm
-- Analiza tu sueño al detalle con la función Sleep Plus, velocidad, distancia también en indoor
-- Compatible con sensores de frecuencia cardíaca Polar BLE
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073WG19VS/?tag=tolees-21)

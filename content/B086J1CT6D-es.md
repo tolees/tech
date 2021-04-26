@@ -28,10 +28,10 @@ Está [Lenovo G27c-10- Monitor Gaming curvo de 27" FullHD  1920x1080 pixeles  16
 
 ℹ️:
 
+- AMD Radeon FreeSync
+- 4 ms y frecuencia de actualización de 165 Hz
+- Puertos HDMI y DP
 - Monitor gaming con pantalla curva de 27" pulgadas con resolución Full HD 1920x1080 pixeles
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Puertos HDMI y DP
-- 4 ms y frecuencia de actualización de 165 Hz
-- AMD Radeon FreeSync
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086J1CT6D/?tag=tolees-21)
