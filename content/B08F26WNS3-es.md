@@ -28,10 +28,10 @@ En este momento está [NIBIKIA Cable USB Tipo C  2Pack [ 2M+2M ] 3A Cargador Tip
 
 🔎:
 
-- ✅ Durabilidad: más larga que los cables originales; cable de nailon de alta calidad, al menos 9000 veces 90 grados de inclinación
 - ✅ Perfecta compatibilidad : perfectamente compatible con todos los dispositivos usb c disponibles actualmente – chromebook google pixel 2xl, pixel c, nexus 5x / 6p, oneplus 2 / 3t, samsung galaxy s10 / s9 / s8 / s8 + / note 8 / a5 2017 / a7 2017, huawei p30 / p9 / p10 / p20, htc 10 / u11, sony xperia xz, xia lumia 950 / 950xl, lg g5 / g6, asus z; en aio, lenovo zuk z1, hp pavilion x2, asus zenpad s 8.0 y mucho más
-- ✅ Conector USB Tipo C Reversible : Con el conector reversible, siga la última tendencia de la interfaz USB. Con este diseño fácil de usar, puede colocarlo libremente en sus dispositivos USB tipo C sin preocuparse por la orientación.
+- ✅ Durabilidad: más larga que los cables originales; cable de nailon de alta calidad, al menos 9000 veces 90 grados de inclinación
 - ✅ Servicio: NIBIKIA le ofrece una de el servicio al cliente rápido y fácil de acceder resuelve sus problemas en las 24 horas
 - ✅ Sync charge: nuestros cables cumplen la especificación usb según la versión type c 1.1, 56 kilohom y 22 awg de resistencias de identificación nuclear; soporta la carga rápida de 3 a y la velocidad de sincronización de datos de hasta 480 mbps.PS:No admite la velocidad máxima carga para Huawei supercarga, carga OnePlus DASH, Moto TurboPower, pero es compatible para normal.Para lograr la velocidad de carga rápida, utilice la fuente de alimentación original o la fuente de alimentación QC 3.0/2.0
+- ✅ Conector USB Tipo C Reversible : Con el conector reversible, siga la última tendencia de la interfaz USB. Con este diseño fácil de usar, puede colocarlo libremente en sus dispositivos USB tipo C sin preocuparse por la orientación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F26WNS3/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Coener T9 Ratón Inalámbrico Delgado Portatil Silencioso Ra
 
 🔎:
 
-- Plug and Play: el receptor inalámbrico Tiny se coloca convenientemente en el puerto USB de su computadora, ocupando un espacio mínimo. Se necesita 1 batería AA (no incluida en el paquete).
-- Gran compatibilidad: el mouse inalámbrico puede funcionar con Windows7 / 8/10 / XP, Vista7 / 8 y Linux. Puede usarlo para computadora portátil, PC, computadora portátil, computadora, tableta, Microsoft Pro y otros dispositivos. Nota: si su computadora portátil solo tiene un puerto tipo c, necesita conectar el adaptador USB suministrado a su computadora.
 - Transmisión 2.4G y conmutador de 3 DPI: la tecnología de transmisión inalámbrica de 2.4GHz proporciona una conexión potente y confiable de hasta 10 m sin interferencias. No necesita ningún controlador, plug and play. Niveles de 3 DPI (800,1200, 1600) para cambiar la velocidad de movimiento libremente y puede satisfacer perfectamente las necesidades tanto en el juego como en la oficina.
-- Noiseless Click & Skin-Friendly ： El diseño especial sin sonido para los botones derecho e izquierdo libera su preocupación de molestar a los demás y lo mantiene concentrado, perfecto para ocasiones públicas como biblioteca, oficina, sala de estar, cafés, etc. El acabado resistente lo hace agradable para la piel para un uso constante.
+- Gran compatibilidad: el mouse inalámbrico puede funcionar con Windows7 / 8/10 / XP, Vista7 / 8 y Linux. Puede usarlo para computadora portátil, PC, computadora portátil, computadora, tableta, Microsoft Pro y otros dispositivos. Nota: si su computadora portátil solo tiene un puerto tipo c, necesita conectar el adaptador USB suministrado a su computadora.
+- Plug and Play: el receptor inalámbrico Tiny se coloca convenientemente en el puerto USB de su computadora, ocupando un espacio mínimo. Se necesita 1 batería AA (no incluida en el paquete).
 - Diseño delgado y portátil: a 4,4 x 2,25 x 0,79 pulgadas (112 x 57 x 20 milímetros), perfecto para transportar y se puede colocar fácilmente en la bolsa de su computadora portátil para ahorrar espacio.
+- Noiseless Click & Skin-Friendly ： El diseño especial sin sonido para los botones derecho e izquierdo libera su preocupación de molestar a los demás y lo mantiene concentrado, perfecto para ocasiones públicas como biblioteca, oficina, sala de estar, cafés, etc. El acabado resistente lo hace agradable para la piel para un uso constante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JWGHNVG/?tag=tolees-21)
