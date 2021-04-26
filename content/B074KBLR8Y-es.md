@@ -28,11 +28,11 @@ En este momento está [Fitbit Ionic  El Smartwatch Deportivo  Azulado/Gris Plate
 
 🔎:
 
-- Saca partido al GPS integrado para así conocer la distancia, ruta y ritmo seguido
 - Comienza entrenamientos personalizados desde tu muñeca y sigue las instrucciones detalladas
-- Almacena y reproduce más de 300 canciones y accede a aplicaciones deportivas, de clima y mucho más
 - Se sincroniza con Mac OS X 10.6 y versiones posteriores, iPhone 4S y versiones posteriores, iPad 3 gen. y más tarde, dispositivos Android 5.0 y posteriores y Windows 10
-- Disfruta de una batería que dura más de 4 días
+- Saca partido al GPS integrado para así conocer la distancia, ruta y ritmo seguido
+- Almacena y reproduce más de 300 canciones y accede a aplicaciones deportivas, de clima y mucho más
 - Monitoriza de forma continua tu ritmo cardíaco con PurePulse desde tu muñeca, sin incómodas cintas para el pecho
+- Disfruta de una batería que dura más de 4 días
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074KBLR8Y/?tag=tolees-21)

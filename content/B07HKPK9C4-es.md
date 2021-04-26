@@ -31,8 +31,8 @@ Tienes [Gigabyte Technology Z390 UD - Placa base  Intel Z390  S 1151  DDR4  SATA
 - Soporte RGB Lighting Full Colors
 - Soporte para Lightning-Fast Intel Thunderbolt 3 AIC
 - Memoria Intel Optane
-- Soporte Multi-Graphics con PCIe Armor y Diseño Ultra Durable
-- Soporte para  procesadores de 9ª y 8ª Gen Intel Core
 - NVMe PCIe Gen3 x4 22110 M.2
+- Soporte para  procesadores de 9ª y 8ª Gen Intel Core
+- Soporte Multi-Graphics con PCIe Armor y Diseño Ultra Durable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HKPK9C4/?tag=tolees-21)
