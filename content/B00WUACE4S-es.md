@@ -28,10 +28,10 @@ Tienes [Samsung U28E590D - Monitor para PC Desktop de 28"  3840 x 2160 Pixeles  
 
 🔎:
 
-- Pantalla 4K Ultra HD de 28 pulgadas, con una resolución de 3840 x 2160 píxeles y tecnología LED TN
-- Múltiples opciones de conectividad: Display Port, 2 x HDMI
+- Temperatura de funcionamiento: 10 ~ 40 °C
 - Tiempo de respuesta de 1 ms y brillo de pantalla de 370 cd / m²
 - Cuenta con un soporte VESA 75 x 75 para facilitar su montaje en pared
-- Temperatura de funcionamiento: 10 ~ 40 °C
+- Múltiples opciones de conectividad: Display Port, 2 x HDMI
+- Pantalla 4K Ultra HD de 28 pulgadas, con una resolución de 3840 x 2160 píxeles y tecnología LED TN
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00WUACE4S/?tag=tolees-21)
