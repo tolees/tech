@@ -28,10 +28,10 @@ Tienes [Nilox Action CAM EVO 360 + videocámara Full HD  1920 x 960P  30 fps 
 
 ℹ️:
 
-- Wi-Fi hasta a 10 m, aplicación compatible con iOS y Android
 - Duración máxima de grabación 1.5 horas
-- Resolución vídeo Full HD 1920 x 960P, 30 fps
-- Cable USB, Batería recargable, objetivo, mando a distancia, Tripod, manual usuario
 - Resolución Fotos 4.5 MP, gran angular 120 °
+- Cable USB, Batería recargable, objetivo, mando a distancia, Tripod, manual usuario
+- Wi-Fi hasta a 10 m, aplicación compatible con iOS y Android
+- Resolución vídeo Full HD 1920 x 960P, 30 fps
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LB29PG0/?tag=tolees-21)

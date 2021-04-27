@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Glaive RGB Pro - Ratón cómodo pa al 31.25 % de rebaja'
-date: 2021-04-26 06:12:18
+date: 2021-04-27 08:31:13
 image: 'https://m.media-amazon.com/images/I/41PUdkIM8kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B07QD1DG9Z/?tag=tolees-21'
 descuento: '31.25'
-average: '59.1566666666667'
+average: '58.5614285714286'
 ---
 
 Tienes [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres Intercambiables  Aluminio  retroiluminación LED RGB  18.000 PPP  óptico  Negro](https://www.amazon.es/dp/B07QD1DG9Z/?tag=tolees-21) con precio final de  54.99 EUR (original: 79.99 EUR) (31.25 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres In
 
 🔎:
 
-- Iluminación RGB dinámica en tres zonas: personalice su experiencia de juego con un amplio abanico de colores y efectos para la retroiluminación RGB
-- Agarres intercambiables para la zona del pulgar: los tres agarres intercambiables incluidos para la zona del pulgar proporcionan un ajuste adaptado a su mano
-- Sensor óptico personalizable de calidad de juego de 18.000 ppp: con incrementos de resolución de 1 ppp para que disfrute de un rendimiento adecuado y fiable
 - Conmutadores Omron de óptimo rendimiento con una vida útil de 50 millones de clics: disfrute de su durabilidad a lo largo de varios años de juego
+- Agarres intercambiables para la zona del pulgar: los tres agarres intercambiables incluidos para la zona del pulgar proporcionan un ajuste adaptado a su mano
+- Iluminación RGB dinámica en tres zonas: personalice su experiencia de juego con un amplio abanico de colores y efectos para la retroiluminación RGB
+- Sensor óptico personalizable de calidad de juego de 18.000 ppp: con incrementos de resolución de 1 ppp para que disfrute de un rendimiento adecuado y fiable
 - Forma cómoda y contorneada: se ajusta a su mano de forma natural para que pueda seguir jugando durante más tiempo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QD1DG9Z/?tag=tolees-21)
