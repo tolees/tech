@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - God of War 3  al 33.96 % de descuento'
-date: 2021-04-23 14:14:13
+date: 2021-04-27 22:13:12
 image: 'https://m.media-amazon.com/images/I/514bK7MqIzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07TC26XXD/?tag=tolees-21'
 descuento: '33.96'
-average: '9.90529411764706'
+average: '9.905'
 ---
 
 Está [Sony CEE Games  New Gen  - God of War 3 HITS](https://www.amazon.es/dp/B07TC26XXD/?tag=tolees-21) con 33.96 de descuento por 9.9 EUR (original: 14.99 EUR) en el siguiente enlace!
