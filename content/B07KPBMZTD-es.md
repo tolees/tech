@@ -28,10 +28,10 @@ Ahora mismo tienes [ASHATA Ratón USB Inalámbrico 2.4GHz  Ratón óptico con Re
 
 🔎:
 
-- ★☆ Amplia compatibilidad adecuada para Windows XP / Vista / Windows 7 / ME / 2000 / Mac OS o superior. Plug and play, no necesita controlador, puede enchufar y jugar mouse inalámbrico directamente. Este mouse de computadora admite una conexión inalámbrica de 10M, puede evitar ser molestado por el cable de alimentación y puede usar este mouse en cualquier momento y en cualquier lugar.
-- ★☆ Compatible con más del 99% de los dispositivos Bluetooth. 10m --- conexión inalámbrica 2.4G de transmisión estable y suave, fácil de operar. Adecuado para computadoras de escritorio, portátiles, PC, Macbook y otros dispositivos. ¡Novedoso diseño, ratón portátil universal!
 - ★☆ Después de miles de muestras de datos de palma, diseñamos este mouse ergonómico para ayudar a reducir el estrés causado por el uso prolongado del mouse. Ratón óptico de alta precisión --- Precisión de posicionamiento de hasta 1600 DPI, que puede satisfacer las necesidades diarias de oficinas y entretenimiento de juegos.
+- ★☆ Amplia compatibilidad adecuada para Windows XP / Vista / Windows 7 / ME / 2000 / Mac OS o superior. Plug and play, no necesita controlador, puede enchufar y jugar mouse inalámbrico directamente. Este mouse de computadora admite una conexión inalámbrica de 10M, puede evitar ser molestado por el cable de alimentación y puede usar este mouse en cualquier momento y en cualquier lugar.
 - ★☆ Servicio al cliente --- garantizamos que el producto es 100% nuevo. Si encuentra algún problema, contáctenos y le daremos una respuesta satisfactoria.
 - ★☆ Conveniente --- la parte inferior del mouse está equipada con una caja de almacenamiento del receptor, que puede almacenar el receptor USB y la bolsa juntos para un fácil almacenamiento y almacenamiento.
+- ★☆ Compatible con más del 99% de los dispositivos Bluetooth. 10m --- conexión inalámbrica 2.4G de transmisión estable y suave, fácil de operar. Adecuado para computadoras de escritorio, portátiles, PC, Macbook y otros dispositivos. ¡Novedoso diseño, ratón portátil universal!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPBMZTD/?tag=tolees-21)
