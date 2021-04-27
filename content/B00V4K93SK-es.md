@@ -28,8 +28,8 @@ En este momento está [Tiendade -  Cargador para Roomba serie 400  500  600  700
 
 🔎:
 
+- Para las series de Roomba 400, 500, 600, 700 y 800
 - 100% compatible con el original
 - 22.5 voltios, 1.25 Amperios
-- Para las series de Roomba 400, 500, 600, 700 y 800
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00V4K93SK/?tag=tolees-21)
