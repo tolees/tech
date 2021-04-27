@@ -28,10 +28,10 @@ Está [HOMCOM Mesa de Ordenador PC para Oficina Despacho Escritorio Dormitorio E
 
 ℹ️:
 
-- ✅MEDIDAS TOTALES: 133x55x123 cm (LxANxAL); Medidas de la encimera: 110x55 cm (LxAN); Peso máximo soportado: 40 kg
-- ✅ESTRUCTURA RESISTENTE: Muebles con estructura de metal y melamina de madera. Ofrece gran resistencia, soportando hasta 40 kg y es fácil de limpiar
-- ✅DISEÑO SIN FONDO: Su diseño abierto sin fondo, permite un fácil acceso a la parte posterior de la torre en caso de avería, sin tener que desmontar el ordenador. También mejora la conexión del cableado
 - ✅COMPACTO Y ESPACIOSO: Escritorio compuesto por una amplia encimera, múltiples estantes, compartimento para CPU y 2 cajones. Su diseño compacto aprovecha al máximo el espacio, proporcionando un gran espacio de almacenaje en poco sitio
+- ✅MEDIDAS TOTALES: 133x55x123 cm (LxANxAL); Medidas de la encimera: 110x55 cm (LxAN); Peso máximo soportado: 40 kg
 - ✅ESCRITORIO CON ESTANTES: Este mueble de múltiples niveles ofrece un gran espacio de trabajo y almacenamiento. Para tener todos tus imprescindibles a mano y también poder colocar algunos elementos decorativos
+- ✅DISEÑO SIN FONDO: Su diseño abierto sin fondo, permite un fácil acceso a la parte posterior de la torre en caso de avería, sin tener que desmontar el ordenador. También mejora la conexión del cableado
+- ✅ESTRUCTURA RESISTENTE: Muebles con estructura de metal y melamina de madera. Ofrece gran resistencia, soportando hasta 40 kg y es fácil de limpiar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B018LW0VG6/?tag=tolees-21)

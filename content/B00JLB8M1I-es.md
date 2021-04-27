@@ -28,8 +28,8 @@ Está [Sony CEE Games  New Gen  - The Last of Us - Remasterizado](https://www.am
 
 ℹ️:
 
+- Veinte años después de que una plaga diezmara la civilización, los supervivientes se aferran a la vida en duras zonas de cuarentena
 - Idioma: Español
 - En el exterior les esperan feroces infectados y despiadados bandidos humanos
-- Veinte años después de que una plaga diezmara la civilización, los supervivientes se aferran a la vida en duras zonas de cuarentena
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JLB8M1I/?tag=tolees-21)
