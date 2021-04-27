@@ -28,10 +28,10 @@ Está [HP All-in-One 22-df0056ns - Ordenador de sobremesa de 21 5"  Intel Pentiu
 
 ℹ️:
 
-- Almacenamiento PCIe SSD: arranca en segundos, a la velocidad del rayo con un almacenamiento SSD PCIe de hasta 512 GB
-- Panel antirreflectante: disfrute del sol y de su contenido favorito con este panel antirreflectante
-- Gráficos Intel UHD integrados
 - RAM DDR4: diseñado para ejecutar de forma eficiente y fiable a velocidades rápidas
+- Gráficos Intel UHD integrados
 - Un ordenador potente; guarda todos tus vídeos, fotos y documentos favoritos gracias a su capacidad de almacenamiento
+- Panel antirreflectante: disfrute del sol y de su contenido favorito con este panel antirreflectante
+- Almacenamiento PCIe SSD: arranca en segundos, a la velocidad del rayo con un almacenamiento SSD PCIe de hasta 512 GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WRK3T26/?tag=tolees-21)
