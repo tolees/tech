@@ -28,8 +28,8 @@ Ahora mismo tienes [Toshiba Canvio Basics - Disco duro externo de 1 TB  2.5"  US
 
 🔎:
 
+- Capacidad 1 TB
 - De alta velocidad USB 3.0 puerto
 - Almacenamiento adicional ideal para su PC, Xbox One o PS4
-- Capacidad 1 TB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KWHJY7Q/?tag=tolees-21)

@@ -29,9 +29,9 @@ Ahora mismo tienes [D-Link Switch Gigabit 5 Puertos  sin gestión  1000 megas po
 🔎:
 
 - La tecnología Green Ethernet 802.3az reduce el consumo en los puertos sin tráfico y lo ajusta según la longitud de los cables conectados, lo que permite ahorrar energía y una disipación de calor eficaz sin necesidad de ventiladores para un funcionamiento silencioso.
-- Diseño compacto, sin ventiladores, carcasa metálica
+- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
 - Sin gestión, instalación Plug&Play, simplemente conectarlo a la corriente eléctrica y un cable de red a tu router.
 - 5 puertos Gigabit con 1000 Mbps en cada puerto, ideal para expandir la red sin limitaciones de ancho de banda ni cuellos de botella.
-- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
+- Diseño compacto, sin ventiladores, carcasa metálica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08W3SPNH7/?tag=tolees-21)
