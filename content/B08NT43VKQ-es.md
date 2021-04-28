@@ -28,10 +28,10 @@ En este momento está [MKTBA - Ratón profesional con cable USB para videojuegos
 
 🔎:
 
-- Compatibilidad con mouse para videojuegos: Windows 10, Windows 8, Windows 7, Windows Vista o Windows XP, soporte limitado Mac OS funciona bien con todas las principales marcas de ordenadores de juego y portátiles de juegos.
-- Controla tu propia velocidad: 4 niveles 1200-1600-2400-3200 DPI pulsando el botón debajo de la rueda de desplazamiento. No necesita ningún controlador, enchufar y usar directamente. Puedes ajustar fácilmente la velocidad de movimiento, perfecto para juegos y oficina, satisfacer tus múltiples necesidades. Este ratón proporciona una estabilidad extrema mientras juegas.
-- Calidad y servicio fiables: este ratón para juegos de PC, vida útil de 30 millones de clics, intrincados procesos de fabricación de pulido y meticuloso montaje proporcionan la fiabilidad funcional del ratón durante años. No escatimaremos esfuerzos para proporcionar el servicio satisfactorio a cada cliente, no dudes en ponerte en contacto con nosotros cuando encuentres cualquier problema, te responderemos en 24 horas para ayudarte.
-- Diseño ergonómico: se adapta perfectamente debajo de la palma, el material agradable al tacto que tomamos te proporciona una sensación de mano perfecta, da a los jugadores la experiencia de juego más cómoda y te hace sentir libre de fatiga.
 - Sistema de iluminación RGB dinámico: equipado con sistema de iluminación RGB dinámico personalizable con 7 modos diferentes que pueden ofrecer un rango de 16,8 millones de cromos. Brillo y ritmo cambiante personalizable. Ilumina tu camino a la victoria.
+- Controla tu propia velocidad: 4 niveles 1200-1600-2400-3200 DPI pulsando el botón debajo de la rueda de desplazamiento. No necesita ningún controlador, enchufar y usar directamente. Puedes ajustar fácilmente la velocidad de movimiento, perfecto para juegos y oficina, satisfacer tus múltiples necesidades. Este ratón proporciona una estabilidad extrema mientras juegas.
+- Diseño ergonómico: se adapta perfectamente debajo de la palma, el material agradable al tacto que tomamos te proporciona una sensación de mano perfecta, da a los jugadores la experiencia de juego más cómoda y te hace sentir libre de fatiga.
+- Compatibilidad con mouse para videojuegos: Windows 10, Windows 8, Windows 7, Windows Vista o Windows XP, soporte limitado Mac OS funciona bien con todas las principales marcas de ordenadores de juego y portátiles de juegos.
+- Calidad y servicio fiables: este ratón para juegos de PC, vida útil de 30 millones de clics, intrincados procesos de fabricación de pulido y meticuloso montaje proporcionan la fiabilidad funcional del ratón durante años. No escatimaremos esfuerzos para proporcionar el servicio satisfactorio a cada cliente, no dudes en ponerte en contacto con nosotros cuando encuentres cualquier problema, te responderemos en 24 horas para ayudarte.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NT43VKQ/?tag=tolees-21)
