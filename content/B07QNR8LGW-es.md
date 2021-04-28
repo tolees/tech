@@ -30,8 +30,8 @@ En este momento está [JETech Funda de Silicona Compatible iPhone SE 2020  iPhon
 
 - [Recortes precisos] Fácil acceso a todos los controles y funciones
 - [Paquete] Funda iPhone SE (2020)/8/7 * 1
-- [Altamente protector] Los bordes elevados ofrecen protección adicional a la cámara y la pantalla. Antihuellas
-- [Fácil de usar] Construido con silicona y PC de alta calidad. Sedoso-tacto suave y buen agarre, El suave forro de microfibra en el interior mantiene la parte posterior de su teléfono sin arañazos
 - [Compatibilidad] Especialmente diseñado Compatible iPhone SE 2ª Generación, iPhone 8 y iPhone 7, 4,7". Da a su dispositivo un cuerpo completo alrededor de la protección. Admite carga inalámbrica
+- [Fácil de usar] Construido con silicona y PC de alta calidad. Sedoso-tacto suave y buen agarre, El suave forro de microfibra en el interior mantiene la parte posterior de su teléfono sin arañazos
+- [Altamente protector] Los bordes elevados ofrecen protección adicional a la cámara y la pantalla. Antihuellas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QNR8LGW/?tag=tolees-21)
