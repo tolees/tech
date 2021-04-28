@@ -28,10 +28,10 @@ Tienes [Sony MDREX110APR - Auriculares in-ear  con micrófono y control de volú
 
 ℹ️:
 
+- Diafragmas de neodimio de 9 mm para un sonido dinámico
+- Rango de frecuencia de 5-24.000 Hz
 - Gran variedad de colores para adaptarse a tu estilo
 - Cable tipo Y de 1.2 m de longitud
 - Cómodos tapones de auricular de silicona de ajuste seguro
-- Diafragmas de neodimio de 9 mm para un sonido dinámico
-- Rango de frecuencia de 5-24.000 Hz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00I3LUW0Q/?tag=tolees-21)

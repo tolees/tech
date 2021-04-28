@@ -29,8 +29,8 @@ En este momento está [SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y ha
 🔎:
 
 - Protege con contraseña y cifra tus archivos privados con el software secureaccess de sandisk
+- Hasta 10 veces más rápido que con usb 2.0 estándar
 - Transfiere una película completa en menos de 40 segundos
 - Cada paquete incluye 2 memorias flash usb
-- Hasta 10 veces más rápido que con usb 2.0 estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S3PCHZP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Mini PC Windows 10 Pro ACEPC Prozessor Inter Celeron J3455 6
 
 🔎:
 
-- ♛ 【Pantalla dual HDMI 4K】 Esta mini computadora admite video 4K HD, reproducción de video, ver televisión, cine en casa, disfrutar del entretenimiento con su familia.
-- ♛ 【Velocidad y rendimiento】 AK2 Mini PC, Alimentado por un potente y eficiente procesador Intel Celeron J3455 de 4 núcleos con velocidades de hasta 2.3 GHz (caché de 2M, frecuencia base de 1.5 GHz, máx. Hasta 2.3 GHz).
-- ♛ 【Windows 10 pro】 Preinstalado con el sistema operativo Windows 10 Pro Edition (64 bits)
 - ♛ 【Múltiples opciones de conexión】 2 x puertos USB 2.0, 2 x puertos USB 3.0, 1 x puerto Gigabit Ethernet, 1 x puerto de tarjeta Micro SD, 2 x puerto HDMI, soporte para pantalla dual
+- ♛ 【Windows 10 pro】 Preinstalado con el sistema operativo Windows 10 Pro Edition (64 bits)
+- ♛ 【Velocidad y rendimiento】 AK2 Mini PC, Alimentado por un potente y eficiente procesador Intel Celeron J3455 de 4 núcleos con velocidades de hasta 2.3 GHz (caché de 2M, frecuencia base de 1.5 GHz, máx. Hasta 2.3 GHz).
 - ♛ 【Equipo completo】 6 GB de RAM, SSD mSATA soldada de 128 GB, también puede usar SSD SATA de 2.5 pulgadas (hasta 2 TB) en el interno. Admite WiFi de banda 2.4G / 5G y BT 4.1. Y las mini computadoras AK2 admiten Bluetooth 4.2, se pueden utilizar para conectarse a dispositivos periféricos (teclado, mouse, etc.)
+- ♛ 【Pantalla dual HDMI 4K】 Esta mini computadora admite video 4K HD, reproducción de video, ver televisión, cine en casa, disfrutar del entretenimiento con su familia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D36YMX7/?tag=tolees-21)

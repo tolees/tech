@@ -28,10 +28,10 @@ En este momento está [D-Link DGS-108GL Switch Gigabit 8 Puertos  sin gestión  
 
 🔎:
 
-- Diseño compacto, sin ventiladores, carcasa metálica.
-- Sin gestión, instalación Plug&Play, simplemente conectarlo a cualquier router u operadora.
 - El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
+- Sin gestión, instalación Plug&Play, simplemente conectarlo a cualquier router u operadora.
 - La tecnología Green Ethernet 802.3az reduce el consumo en los puertos sin tráfico y lo ajusta según la longitud de los cables conectados, lo que permite ahorrar energía y una disipación de calor eficaz sin necesidad de ventiladores, para un funcionamiento silencioso.
+- Diseño compacto, sin ventiladores, carcasa metálica.
 - 8 puertos Gigabit con 1000 Mbps en cada puerto, ideal para expandir la red sin limitaciones de ancho de banda ni cuellos de botella.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08W3RYNSR/?tag=tolees-21)
