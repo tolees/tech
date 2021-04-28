@@ -28,11 +28,11 @@ Está [ASUS ZenBook Flip 13 UX363EA-HP043T - Ordenador portátil 13.3" Full HD  
 
 ℹ️:
 
-- Pantalla de 13.3" Full HD (1920 x 1080)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Almacenamiento de 512GB M.2 NVMe PCIe
+- Sistema Operativo: Windows 10 Home
+- Pantalla de 13.3" Full HD (1920 x 1080)
 - Memoria RAM de 16GB (en placa) LPDDR4x-4266MHz
 - Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
-- Sistema Operativo: Windows 10 Home
+- Almacenamiento de 512GB M.2 NVMe PCIe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BZ5KYK1/?tag=tolees-21)

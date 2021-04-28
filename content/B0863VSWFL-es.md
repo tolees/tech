@@ -28,15 +28,15 @@ En este momento está [Apple iPad Pro  de 11 Pulgadas  2.ª generación  con W
 
 🔎:
 
-- Redes wifi 802.11ax y 4G LTE Advanced
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Hasta 10 horas de autonomía
 - Chip A12Z Bionic con Neural Engine
-- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Redes wifi 802.11ax y 4G LTE Advanced
 - Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
 - Conector USB-C para cargar el iPad y conectar accesorios
+- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
 - Face ID para autenticarse de forma segura y usar Apple Pay
+- Hasta 10 horas de autonomía
 - Cámara frontal TrueDepth de 7 Mpx
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863VSWFL/?tag=tolees-21)
