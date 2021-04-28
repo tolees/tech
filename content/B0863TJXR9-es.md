@@ -28,15 +28,15 @@ Tienes [Apple iPad Pro  de 11 Pulgadas  2.ª generación  con Wi-Fi + Cellular
 
 🔎:
 
-- Cámara frontal TrueDepth de 7 Mpx
-- Hasta 10 horas de autonomía
 - Chip A12Z Bionic con Neural Engine
-- Conector USB-C para cargar el iPad y conectar accesorios
+- Redes wifi 802.11ax y 4G LTE Advanced
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Face ID para autenticarse de forma segura y usar Apple Pay
 - Cuatro altavoces y cinco micrófonos con calidad de estudio
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
+- Cámara frontal TrueDepth de 7 Mpx
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Hasta 10 horas de autonomía
 - Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Redes wifi 802.11ax y 4G LTE Advanced
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0863TJXR9/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook Flip 13 UX363EA-HP043T - Or al 15.40 % de descuento'
-date: 2021-04-24 06:15:26
+date: 2021-04-28 11:45:43
 image: 'https://m.media-amazon.com/images/I/41zV3lb3tXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [ASUS ZenBook Flip 13 UX363EA-HP043T - Ordenador portátil 13.3" Full HD  
 
 ℹ️:
 
-- Almacenamiento de 512GB M.2 NVMe PCIe
-- Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
-- Memoria RAM de 16GB (en placa) LPDDR4x-4266MHz
-- Sistema Operativo: Windows 10 Home
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 13.3" Full HD (1920 x 1080)
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Memoria RAM de 16GB (en placa) LPDDR4x-4266MHz
+- Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
+- Sistema Operativo: Windows 10 Home
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BZ5KYK1/?tag=tolees-21)

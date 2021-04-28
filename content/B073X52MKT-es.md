@@ -28,10 +28,10 @@ Ahora mismo tienes [Pdp Gaming - Mando con Cable Licenciado  Colo Blanco   Xbox 
 
 🔎:
 
-- Compatible con Xbox One, Series X/S y Windows.
-- Motores de vibración dual.
 - Conector para auriculares de 3,5 mm con controles de audio integrados.
+- Compatible con Xbox One, Series X/S y Windows.
 - Cable desenchufable de 2,4 m.
+- Motores de vibración dual.
 - Botones dobles de hombro y gatillos con textura.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073X52MKT/?tag=tolees-21)
