@@ -28,11 +28,11 @@ Está [Brother RJ3050 - Impresora portátil de Tickets de hasta 3" de Ancho  con
 
 ℹ️:
 
-- SDK para Android e iOS
-- Resistente y duradera - Certificación IP54 y resistente a caidas de 1,2 m
-- Resolución de 203 ppp
 - Compatible con emulación ZPL II
 - Pequeña y ligera - clip para el cinturón incluido o correa opcional
 - Conectividad USB, WiFi y Bluetooth
+- Resolución de 203 ppp
+- Resistente y duradera - Certificación IP54 y resistente a caidas de 1,2 m
+- SDK para Android e iOS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00QALH6CI/?tag=tolees-21)
