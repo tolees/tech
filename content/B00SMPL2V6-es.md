@@ -28,10 +28,10 @@ Está [Objetivo Olympus M.Zuiko Digital ED 14-150 mm F4-5.6 II  zoom estándar 
 
 ℹ️:
 
-- El zoom universal impresiona por su asombrosa ligereza y hace innecesario llevar varios objetivos intercambiables
-- Ámbitos de aplicación: todo, paisaje, viajes, naturaleza, arquitectura y retrato; equivalente a un objetivo de 28 - 300 mm, 35 mm
-- Gracias a su construcción a prueba de polvo y salpicaduras y resistente a las heladas, el objetivo desafía todas las condiciones climáticas y ofrece resultados incluso en condiciones difíciles
 - El zoom de 10.7x todo en uno proporciona una flexibilidad y movilidad, ofreciendo el mejor rendimiento en cada situación, como un gran angular o como un teleobjetivo
+- El zoom universal impresiona por su asombrosa ligereza y hace innecesario llevar varios objetivos intercambiables
+- Gracias a su construcción a prueba de polvo y salpicaduras y resistente a las heladas, el objetivo desafía todas las condiciones climáticas y ofrece resultados incluso en condiciones difíciles
+- Ámbitos de aplicación: todo, paisaje, viajes, naturaleza, arquitectura y retrato; equivalente a un objetivo de 28 - 300 mm, 35 mm
 - Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21)
