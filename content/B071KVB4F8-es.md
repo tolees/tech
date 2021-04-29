@@ -28,9 +28,9 @@ En este momento está [Western Digital WD Purple 4TB para videovigilancia - 3.5 
 
 🔎:
 
+- Diseño elegante y creativo
 - Hecho de material resistente para un uso prolongado
 - Calidad óptima para los requisitos del cliente
-- Diseño elegante y creativo
 - Producto útil y práctico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071KVB4F8/?tag=tolees-21)
