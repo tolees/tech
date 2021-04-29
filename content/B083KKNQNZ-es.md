@@ -28,10 +28,10 @@ En este momento está [Samsung Galaxy Note 10 Lite - Smartphone de 6.7" FHD+  4G
 
 🔎:
 
-- Súper potente y súper rápido el galaxy note10 lite cuenta con una batería de 4 500 mAhque no solo te mantiene conectado todo el día sino que también aprende tus patrones de uso y funciona de manera más eficiente mediante tecnología inteligente
-- Haz tus momentos mágicos con el s pen el s pen es una poderosa herramienta con la que puedes escribir pintar trabajar de manera más eficiente y dejar volar toda tu creatividad
-- Rendimiento ultrarrápido el galaxy note10 lite combina un impresionante procesador de 10 nm y 6 g/ 8 gde ram para un rendimiento súper rápido mientras juegas o mientras haces un maratón de tu serie favorita
-- Verás más y mejor prácticamete sin marcos la pantalla infinity-o del galaxy note10 lite ofrece 6 7" full hd+ con tecnología super amoled para que tengas mucho más espacio y disfrutes de todo tu contenido
 - Descarga más y elimina menos 128 gde memoria interna te proporcionan espacio de sobra para lo que te gusta si esto no es suficiente puedes ampliar fácilmente hasta 1tde almacenamiento adicional
+- Verás más y mejor prácticamete sin marcos la pantalla infinity-o del galaxy note10 lite ofrece 6 7" full hd+ con tecnología super amoled para que tengas mucho más espacio y disfrutes de todo tu contenido
+- Rendimiento ultrarrápido el galaxy note10 lite combina un impresionante procesador de 10 nm y 6 g/ 8 gde ram para un rendimiento súper rápido mientras juegas o mientras haces un maratón de tu serie favorita
+- Haz tus momentos mágicos con el s pen el s pen es una poderosa herramienta con la que puedes escribir pintar trabajar de manera más eficiente y dejar volar toda tu creatividad
+- Súper potente y súper rápido el galaxy note10 lite cuenta con una batería de 4 500 mAhque no solo te mantiene conectado todo el día sino que también aprende tus patrones de uso y funciona de manera más eficiente mediante tecnología inteligente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083KKNQNZ/?tag=tolees-21)
