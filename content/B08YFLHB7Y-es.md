@@ -28,10 +28,10 @@ Ahora mismo tienes [MSI Modern 15 A10M-628XES - Ordenador portátil de 15.6" FHD
 
 🔎:
 
-- Procesador Comet lake I5-10210U
 - Tarjeta gráfica Iris Xe Graphics
-- Memoria RAM DDR IV 16GB (2666MHz)
 - 512GB NVMe PCIe SSD
+- Memoria RAM DDR IV 16GB (2666MHz)
+- Procesador Comet lake I5-10210U
 - Sistema operativo Free DOS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08YFLHB7Y/?tag=tolees-21)
