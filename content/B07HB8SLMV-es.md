@@ -28,10 +28,10 @@ En este momento está [SanDisk Extreme - Tarjeta de memoria microSDXC para cáma
 
 🔎:
 
-- Categorías UHS Speed Class 3 (U3) y Video Speed Class 30 (V30) para vídeos 4K UHD
-- Rendimiento de vídeo de alta calidad que ofrece grabación y reproducción de vídeos 4K UHD y Full HD
-- Hasta 160 MB/s de velocidad de lectura y hasta 90 MB/s de velocidad de escritura
 - Fabricadas para ser usadas en condiciones extremas: resistentes a fuertes temperaturas, agua, golpes y rayos X
+- Hasta 160 MB/s de velocidad de lectura y hasta 90 MB/s de velocidad de escritura
+- Rendimiento de vídeo de alta calidad que ofrece grabación y reproducción de vídeos 4K UHD y Full HD
 - Memoria extrema para optimizar el rendimiento de tu cámara de acción o dron
+- Categorías UHS Speed Class 3 (U3) y Video Speed Class 30 (V30) para vídeos 4K UHD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21)
