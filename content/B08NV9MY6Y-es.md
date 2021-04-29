@@ -28,9 +28,9 @@ Está [GoPro Hero9 - Cámara de acción Sumergible con Pantalla LCD  Negro + San
 
 ℹ️:
 
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
 - Graba vídeos con una resolución de hasta 5K, sensor de 23.6 MP
-- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Cámara de acción sumergible con pantalla LCD delantera y pantalla táctil trasera, fotos de 20 MP, transmisión en directo en 1080p
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
+- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NV9MY6Y/?tag=tolees-21)

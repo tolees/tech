@@ -28,8 +28,8 @@ Tienes [Somfy 2401498 Termostato cableado conectado  digital Wifi  controla tu c
 
 🔎:
 
-- Recomendaciones personalizadas para ahorrar en la factura de energia
 - Compatible con TaHoma
+- Recomendaciones personalizadas para ahorrar en la factura de energia
 - Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
 - Control a distancia desde el móvi con app compatible con IO & Android
 - Asociacion de indice de humedad y temperatura gracias a sensor de temperatura y humedad

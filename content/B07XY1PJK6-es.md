@@ -28,10 +28,10 @@ Está [kwmobile Funda con Cuerda Compatible con Apple iPhone 11 - Carcasa de TPU
 
 ℹ️:
 
-- NOTA IMPORTANTE: Esta cuerda no es un juguete, se debe mantener fuera del alcance de los niños.
-- CON COLGANTE: Usa esta funda con cordón y el diseño diseño mapa mundial alrededor de tu cuello y tu teléfono estará siempre a salvo contigo.
-- COMPATIBILIDAD: Compatible con Apple iPhone 11.
 - CÓMODA DE LLEVAR: El cordón se engancha a la funda a través de dos puntos, por lo que es más estable que las correas de cordón tradicionales.
+- CON COLGANTE: Usa esta funda con cordón y el diseño diseño mapa mundial alrededor de tu cuello y tu teléfono estará siempre a salvo contigo.
+- NOTA IMPORTANTE: Esta cuerda no es un juguete, se debe mantener fuera del alcance de los niños.
 - FUNDA TRANSPARENTE: La cubierta protectora está hecha de silicona suave agradable al tacto; que protegerá tu smartphone de golpes y caídas.
+- COMPATIBILIDAD: Compatible con Apple iPhone 11.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XY1PJK6/?tag=tolees-21)
