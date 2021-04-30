@@ -28,11 +28,11 @@ En este momento está [Polaroid  Zip - Impresora móvil  Bluetooth  Nfc  micro 
 
 🔎:
 
-- Fotografías a prueba de manchas y cuentan con papel adhesivo despegable
-- Con tecnología de impresión ZINK Zero Ink, sin tinta, cartuchos y cintas
 - Es compatible con dispositivos iOS y Android
 - Permite imprimir desde el smartphone a través Bluetooth o NFC
-- Permite realizar unas 25 impresiones, que tienen 5 x 7.6 cm
+- Fotografías a prueba de manchas y cuentan con papel adhesivo despegable
 - El tiempo de cargar es de aproximadamente una hora y media
+- Con tecnología de impresión ZINK Zero Ink, sin tinta, cartuchos y cintas
+- Permite realizar unas 25 impresiones, que tienen 5 x 7.6 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TE8XMMM/?tag=tolees-21)
