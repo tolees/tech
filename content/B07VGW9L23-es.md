@@ -28,10 +28,10 @@ En este momento está [Enotepad - Filamento PLA 1 75 mm  Filamento PLA para impr
 
 🔎:
 
-- 【Mejore la dureza y no el filamento de PLA quebradizo】: Materias primas de PLA de alta pureza, una excelente unión de capas conduce a una resistencia más fuerte y menos frágil. Satisfaga sus demandas de proyectos de impresión con mayor dureza utilizando el filamento PLA Enotepad.
 - 【Filamento PLA de 1,75 mm de calidad superior】: obtenga una extrusión suave. Devanado uniforme del filamento de la impresora 3D sin enredos. La alta tenacidad del filamento PLA y la fuerte adhesión de la capa conducen a la primera capa impresa perfecta.
+- 【Material PLA ecológico】: El filamento PLA es un bioplástico degradable que se obtiene de plantas. No tóxico, sin olor. No dañará a las personas ni al medio ambiente.
+- 【Material PLA ecológico】: El filamento PLA es un bioplástico degradable que se obtiene de plantas. No tóxico, sin olor. No dañará a las personas ni al medio ambiente.
 - 【Atasco de boquilla de filamento de PLA】: Materias primas de filamento de PLA de pureza y tolerancia de diámetro de alta precisión, 1,75 mm +/- 0,02 mm. Control estricto del diámetro uniforme del filamento de PLA y selección de materias primas de alta calidad para evitar el atasco de la boquilla causado por impurezas y diámetros. Fácil manejo, mínima deformación.
-- 【Material PLA ecológico】: El filamento PLA es un bioplástico degradable que se obtiene de plantas. No tóxico, sin olor. No dañará a las personas ni al medio ambiente.
-- 【Material PLA ecológico】: El filamento PLA es un bioplástico degradable que se obtiene de plantas. No tóxico, sin olor. No dañará a las personas ni al medio ambiente.
+- 【Mejore la dureza y no el filamento de PLA quebradizo】: Materias primas de PLA de alta pureza, una excelente unión de capas conduce a una resistencia más fuerte y menos frágil. Satisfaga sus demandas de proyectos de impresión con mayor dureza utilizando el filamento PLA Enotepad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VGW9L23/?tag=tolees-21)

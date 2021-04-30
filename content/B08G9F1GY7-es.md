@@ -28,13 +28,13 @@ Ahora mismo tienes [HP Pavilion x360 - 14-dh1012ns - Ordenador portátil de 14" 
 
 🔎:
 
-- Tamaño de la pantalla: 14"
-- Correo electrónico, calendarios y tareas: Outlook
-- Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
-- SSD de 512 GB PCIe NVMe M.2
-- Creación de publicaciones y bases de datos: Publisher, Access; Sólo para PC
-- Procesador Intel Core i5-10210U (frecuencia base de 1,6 GHz, hasta 4.2 GHz con tecnología Intel Turbo Boost, 6 MB de caché, 4 núcleos)
 - Seguridad adecuada para correo electrónico y archivos
+- Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
+- Tamaño de la pantalla: 14"
+- SSD de 512 GB PCIe NVMe M.2
+- Correo electrónico, calendarios y tareas: Outlook
+- Creación de publicaciones y bases de datos: Publisher, Access; Sólo para PC
 - SDRAM DDR4-2666 de 8 GB (1 x 8 GB)
+- Procesador Intel Core i5-10210U (frecuencia base de 1,6 GHz, hasta 4.2 GHz con tecnología Intel Turbo Boost, 6 MB de caché, 4 núcleos)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G9F1GY7/?tag=tolees-21)
