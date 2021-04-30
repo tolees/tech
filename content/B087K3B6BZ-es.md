@@ -28,10 +28,10 @@ Está [EZVIZ Cámara WiFi IP de Vigilancia para Exteriores  Iluminación Intelig
 
 ℹ️:
 
-- Acceso remoto y bidireccional: La función de llamada bidireccional ayuda a escuchar y hablar con los visitantes e incluso detener a los intrusos en tiempo real
-- Sensor PIR de alta sensibilidad: Con un sensor PIR de 270°, la cámara de vigilancia detecta el movimiento humano y animal hasta en 25 metros
-- Lluminación inteligente: Ezviz LC1C es un reemplazo adecuado de las luces de jardín
 - Detección de intrusiones: Ezviz LC1C dispone de un mecanismo de doble disparo para aumentar la precisión de las alertas. Al combinar los análisis de detección de movimiento tradicionales con un sensor PIR, el LC1C garantiza que solo reciba notificaciones dignas de atención. Además, puede activar la sirena de 100 decibelios y la luz intermitente para advertir la intrusión.
+- Sensor PIR de alta sensibilidad: Con un sensor PIR de 270°, la cámara de vigilancia detecta el movimiento humano y animal hasta en 25 metros
+- Acceso remoto y bidireccional: La función de llamada bidireccional ayuda a escuchar y hablar con los visitantes e incluso detener a los intrusos en tiempo real
 - Almacenamiento Grande: Está disponible una tarjeta microSD opcional de hasta 256 GB, también puede guardar sus imágenes en EZVIZ Cloud o NVR para realizar copias de seguridad adicionales
+- Lluminación inteligente: Ezviz LC1C es un reemplazo adecuado de las luces de jardín
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087K3B6BZ/?tag=tolees-21)
