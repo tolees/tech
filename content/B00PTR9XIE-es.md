@@ -28,9 +28,9 @@ Tienes [T nB Auriculares Diadema HiFi - con Cable Extensible de 4 Metros y Contr
 
 🔎:
 
-- Auriculares especiales para tv con diadema y cable de 3 metros de largo, incluye un cable de hasta 4 m extensible, con el que podrás desplazarte facilmente por donde quieras; control de volumen integrado en el propio cable
 - Diseño sencillo y discreto, de color negro con banda ajustable y almohadillas acolchadas recubiertas de terciopelo; el exterior de los cascos está recubierto de caucho haciendo el tacto agradable
 - Poseen una tecnología hifi o de alta fidelidad permite escuchar tu música o películas favoritas con un sonido envolvente y fiel al audio original, sin distorsiones; además gracias al excelente aislamiento de sonido que ofrece, nada ni nadie te molestará
 - Los headphones cuentan con una salida de cable jack universal de 3.5 mm, lo que permite conectarlos con cualquier dispositivo que tenga salida auxiliar; adaptador jack 6.35 mm incluído en el producto
+- Auriculares especiales para tv con diadema y cable de 3 metros de largo, incluye un cable de hasta 4 m extensible, con el que podrás desplazarte facilmente por donde quieras; control de volumen integrado en el propio cable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PTR9XIE/?tag=tolees-21)
