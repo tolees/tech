@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'nonda Cable USB Tipo C 20V/5A 100W  2M   al 15.02 % de rebaja'
-date: 2021-04-03 19:31:15
-image: 'https://m.media-amazon.com/images/I/31kDUlClsFL._SL400_.jpg'
+date: 2021-04-30 22:00:48
+image: 'https://m.media-amazon.com/images/I/31kDUlClsFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'nonda'
 buyurl: 'https://www.amazon.es/dp/B08P36JGZ9/?tag=tolees-21'
 descuento: '15.02'
-average: '8.65333333333333'
+average: '8.64076923076923'
 ---
 
 Tienes [nonda Cable USB Tipo C 20V/5A 100W  2M   Cable de Carga rápida USB C a USB C PD  Compatible con MacBook Pro 2020 iPad Pro 2020 Samsung Galaxy S20 / S21 Plus  Switch y Otros Cargador USB C](https://www.amazon.es/dp/B08P36JGZ9/?tag=tolees-21) con precio final de  8.49 EUR (original: 9.99 EUR) (15.02 %  de rebaja) aqui!
 
-[![nonda Cable USB Tipo C 20V/5A 100W  2M  ](https://m.media-amazon.com/images/I/31kDUlClsFL._SL400_.jpg)](https://www.amazon.es/dp/B08P36JGZ9/?tag=tolees-21)
+[![nonda Cable USB Tipo C 20V/5A 100W  2M  ](https://m.media-amazon.com/images/I/31kDUlClsFL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08P36JGZ9/?tag=tolees-21)
 
 🔎:
 
