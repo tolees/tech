@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-108GL Switch Gigabit 8 Puerto con un 23.19 % de descuento'
-date: 2021-04-28 07:34:12
+date: 2021-04-30 07:16:42
 image: 'https://m.media-amazon.com/images/I/31KHdx0+wtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [D-Link DGS-108GL Switch Gigabit 8 Puertos  sin gestión  
 
 🔎:
 
-- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
-- Sin gestión, instalación Plug&Play, simplemente conectarlo a cualquier router u operadora.
-- La tecnología Green Ethernet 802.3az reduce el consumo en los puertos sin tráfico y lo ajusta según la longitud de los cables conectados, lo que permite ahorrar energía y una disipación de calor eficaz sin necesidad de ventiladores, para un funcionamiento silencioso.
 - Diseño compacto, sin ventiladores, carcasa metálica.
 - 8 puertos Gigabit con 1000 Mbps en cada puerto, ideal para expandir la red sin limitaciones de ancho de banda ni cuellos de botella.
+- La tecnología Green Ethernet 802.3az reduce el consumo en los puertos sin tráfico y lo ajusta según la longitud de los cables conectados, lo que permite ahorrar energía y una disipación de calor eficaz sin necesidad de ventiladores, para un funcionamiento silencioso.
+- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
+- Sin gestión, instalación Plug&Play, simplemente conectarlo a cualquier router u operadora.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08W3RYNSR/?tag=tolees-21)
