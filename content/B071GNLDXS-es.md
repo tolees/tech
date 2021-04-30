@@ -28,10 +28,10 @@ Está [Ultimate Ears Megaboom Altavoz Portátil Inalámbrico Bluetooth  Graves P
 
 ℹ️:
 
+- Emparejamiento de hasta 8 dispositivos Bluetooth
+- Máximo nivel de sonido: 90 dBA; rango de frecuencia: 90 Hz - 20 kHz
+- Altavoz inalámbrico Bluetooth que proporciona sonido envolvente de 360 grados para una experiencia de audio nítida, plena y potente
 - Impermeable, resistente a golpes, diseñado para la aventura (se puede sumergir en agua hasta 1 metro, durante 30 minutos)
 - Batería recargable (carga rápida por conexión micro USB) con 20 horas de duración
-- Altavoz inalámbrico Bluetooth que proporciona sonido envolvente de 360 grados para una experiencia de audio nítida, plena y potente
-- Máximo nivel de sonido: 90 dBA; rango de frecuencia: 90 Hz - 20 kHz
-- Emparejamiento de hasta 8 dispositivos Bluetooth
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071GNLDXS/?tag=tolees-21)

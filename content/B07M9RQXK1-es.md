@@ -30,8 +30,8 @@ Está [Zerone Ventilador de refrigeración para impresora 3D de 2 pines  24 V CC
 
 - ❤ Larga vida útil - Hecho de ABS de alta calidad, duradero de usar.
 - Bajo ruido (30 dB).
-- ❤ Conector de alimentación de 2 pines – Ventilador de refrigeración con una fuerte estabilidad.
 - ❤Gran volumen de aire (8-14CFM) y alta velocidad de rotación (4000-6500 rpm).
 - ❤El ventilador de refrigeración de 24 V está especialmente diseñado para impresoras 3D.
+- ❤ Conector de alimentación de 2 pines – Ventilador de refrigeración con una fuerte estabilidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M9RQXK1/?tag=tolees-21)
