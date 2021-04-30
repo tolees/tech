@@ -28,9 +28,9 @@ Tienes [TP-Link Adaptador USB a Gigabit Ethernet  4 en 1 Hub USB Adaptador Ether
 
 🔎:
 
-- Estabilidad & compatibilidad - utilizando la solución avanzada del chipset, este gadget asegura conexión rápida y estable para windows, mac os x, chrome os y linux; también compatible con el estándar usb 2.0/1.1
 - 3 Puertos adicionales USB 3.0 - Incorpora 3 puertos adicionales USB 3.0 que apoyan la velocidad de transferencia de hasta 5 Gbps, 10 veces más rápido que USB 2.0
 - Plug & play – abrir, enchufar y listo para usar, no más instalación del driver, para mac os x 10.5-10.8, 10.11 se requiere instalación manual del driver
+- Estabilidad & compatibilidad - utilizando la solución avanzada del chipset, este gadget asegura conexión rápida y estable para windows, mac os x, chrome os y linux; también compatible con el estándar usb 2.0/1.1
 - 1 puerto ethernet gigabit - proporciona conectividad de red ethernet gigabit compatible con velocidades de transferencia de hasta 1000 mbps
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M6C9DPK/?tag=tolees-21)
