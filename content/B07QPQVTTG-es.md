@@ -28,10 +28,10 @@ Ahora mismo tienes [kyx - SCART a HDMI Convertidor Keyixing 1080P Scart to HDMI 
 
 🔎:
 
-- 😼Convertidor Scart a HDMI convertir la señal de video compuesto y la señal de audio estéreo FL / FR en video digital HDMI para reproducir en la nueva TV HDMI
 - 😼Compatibilidad con formatos de TV PAL, NTSC.Soporta salida 720p / 1080p, 60Hz.
-- 😼Proporciona Procesamiento Avanzado de Señales con Gran Precisión, Colores, Resoluciones y Detalles.Deje que su antiguo equipo tenga una nueva vida en esta era de alta definición.
 - 😼Atencion：Solo para Scart a hdmi, no se puede usar en reversa.
+- 😼Proporciona Procesamiento Avanzado de Señales con Gran Precisión, Colores, Resoluciones y Detalles.Deje que su antiguo equipo tenga una nueva vida en esta era de alta definición.
+- 😼Convertidor Scart a HDMI convertir la señal de video compuesto y la señal de audio estéreo FL / FR en video digital HDMI para reproducir en la nueva TV HDMI
 - 😼Fácil Plug and Play：No se requieren controladores adicionales, solo funciona con un cargador DC de 5V.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QPQVTTG/?tag=tolees-21)

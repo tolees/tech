@@ -32,7 +32,7 @@ Ahora mismo tienes [ASUS F415JA-EK395T - Ordenador Portátil de 14" Full HD  Int
 - Pantalla de 14" Full HD (1920 x 1080)
 - Almacenamiento de 512GB M.2 NVMe PCIe
 - Procesador Intel Core i5-1035G1 (1GHz, 6MB)
-- Memoria RAM de 8GB (4GB en placa + 1 x 4GB) DDR4-3200MHz
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB (4GB en placa + 1 x 4GB) DDR4-3200MHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BZ5LQ7N/?tag=tolees-21)
