@@ -28,11 +28,11 @@ Tienes [Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0  1920x1080p 
 
 ℹ️:
 
-- Sonido envolvente
-- Sintonizador DVB-T/T2/C
-- Conectividad por bluetooth
-- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI
 - Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
+- Sintonizador DVB-T/T2/C
 - Para espacios pequeños, su diseño compacto encaja en cualquier decoración
+- Sonido envolvente
+- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI
+- Conectividad por bluetooth
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B092R1RD5P/?tag=tolees-21)

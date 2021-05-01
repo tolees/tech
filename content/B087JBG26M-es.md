@@ -28,10 +28,10 @@ Está [Rii RM500 Ratón inalámbrico 2.4G. Ratón óptico portátil recargable. 
 
 ℹ️:
 
-- Cuando cargue el ratón, el LED rojo de carga se encenderá, cuando esté completamente cargado se apagará.
-- 6 botones para una productividad y eficiencia superiores; Ahorro energético automático, si no se realiza ninguna operación después de 10 minutos, el ratón entrará en modo suspensión para ahorrar batería.
-- Fácil de usar, "plug and play". No se requiere software o firmware adicional; Sistemas operativos compatibles: Windows 2000 / 2003 / Win7 / 8 / 10 / Vista / Mac OS / Linux.
 - Toque cómodo y clic preciso. Buena sensación de la mano. DPI de 3 niveles, ajuste en: 800/1200/1600, satisface sus necesidades de ofimática, juegos, etc. Perfecto para el trabajo diario o para juegos.
+- 6 botones para una productividad y eficiencia superiores; Ahorro energético automático, si no se realiza ninguna operación después de 10 minutos, el ratón entrará en modo suspensión para ahorrar batería.
+- Cuando cargue el ratón, el LED rojo de carga se encenderá, cuando esté completamente cargado se apagará.
+- Fácil de usar, "plug and play". No se requiere software o firmware adicional; Sistemas operativos compatibles: Windows 2000 / 2003 / Win7 / 8 / 10 / Vista / Mac OS / Linux.
 - 7 tipos de efecto de luz. No se puede configurar en un color específico, sino que va cambiando de luz en una suave sucesión colorida. Cuando encienda el ratón, con la posición del interruptor en el medio, encenderá el ratónsin retroiluminación. Cuando lo encienda con la posición del interruptor en la parte inferior, apagará el ratón y la retroiluminación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087JBG26M/?tag=tolees-21)
