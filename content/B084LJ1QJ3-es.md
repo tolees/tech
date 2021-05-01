@@ -28,11 +28,11 @@ En este momento está [Samsung Galaxy Buds+ - Auriculares Inalámbricos  con Mic
 
 🔎:
 
-- Carga inalámbrica
+- Hasta 22 h de batería
+- Cancelación de ruido con modo de sonido ambiente, escucha lo que te rodea
+- Diseño compacto y elegante.
 - Sonido más definido, tecnología akg
 - Compatibilidad con smartphone - Android 5.0 ↑ , 1.5GB ↑
-- Diseño compacto y elegante.
-- Cancelación de ruido con modo de sonido ambiente, escucha lo que te rodea
-- Hasta 22 h de batería
+- Carga inalámbrica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084LJ1QJ3/?tag=tolees-21)
