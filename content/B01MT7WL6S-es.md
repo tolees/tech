@@ -28,11 +28,11 @@ Está [NETGEAR Switch PoE de 24 Puertos GS324TP  Switch Ethernet Smart Managed P
 
 ℹ️:
 
-- Conmutación inteligente: entre las características de Smart Switch se incluyen VLAN, ACL, QoS, snooping de IGMP, agregación de enlaces LACP, STP y SNMP para mejorar la seguridad y la fiabilidad
-- 24 puertos Gigabit 10/100/1000BASE-T RJ-45: obtenga toda la conectividad que desea para sus dispositivos en todos los puertos Gigabit Ethernet sin congestión y en modo dúplex completo
+- Funciones configurables de red capa 2: la gestión web intuitiva optimiza la configuración inicial agilizando el proceso de registro en la capa de acceso de la red, con 2 puertos de enlace de subida de fibra
 - Ubicación flexible: elija una configuración de sobremesa o de montaje en pared
 - Diseño metálico resistente: disfrute de la calidad y fiabilidad de su switch de Netgear, fácil de instalar y de utilizar y de alta durabilidad
+- Conmutación inteligente: entre las características de Smart Switch se incluyen VLAN, ACL, QoS, snooping de IGMP, agregación de enlaces LACP, STP y SNMP para mejorar la seguridad y la fiabilidad
 - Pensado para todo tipo de presupuestos de TI: consumo de PoE de 190W en los 24 puertos Gigabit PoE+
-- Funciones configurables de red capa 2: la gestión web intuitiva optimiza la configuración inicial agilizando el proceso de registro en la capa de acceso de la red, con 2 puertos de enlace de subida de fibra
+- 24 puertos Gigabit 10/100/1000BASE-T RJ-45: obtenga toda la conectividad que desea para sus dispositivos en todos los puertos Gigabit Ethernet sin congestión y en modo dúplex completo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MT7WL6S/?tag=tolees-21)
