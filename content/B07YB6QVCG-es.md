@@ -29,9 +29,9 @@ Está [ACTECOM PROTECTOR PANTALLA Compatible con XIAOMI REDMI NOTE 8 CRISTAL VID
 ℹ️:
 
 - Óptica clara sin limitaciones para su pantalla. Sin pérdida de definición, contraste, o color.
-- Se envía en blister protector junto a dos toallitas, una húmeda y una seca para limpiar totalmente su pantalla antes de la colocación de su protector.
-- En los modelos con el borde de la pantalla biselado, el protector sólo cubrirá la parte totalmente plana, no cubriendo la totalidad de la pantalla.
 - Colocación fácil y rápida sin adhesivos y pudiendo retirarse sin dejar restos o suciedad.
+- En los modelos con el borde de la pantalla biselado, el protector sólo cubrirá la parte totalmente plana, no cubriendo la totalidad de la pantalla.
+- Se envía en blister protector junto a dos toallitas, una húmeda y una seca para limpiar totalmente su pantalla antes de la colocación de su protector.
 - Material rígido pero resistente a impactos, arañazos y suciedad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YB6QVCG/?tag=tolees-21)
