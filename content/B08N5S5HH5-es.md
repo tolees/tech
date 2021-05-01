@@ -28,15 +28,15 @@ Tienes [Apple MacBook Pro con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256
 
 ℹ️:
 
-- GPU de ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
-- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
 - Pantalla Retina de 13,3 pulgadas con 500 nits de brillo para ofrecer colores realistas y un nivel de detalle increíble
-- CPU de ocho núcleos con un rendimiento hasta 2,8 veces superior para realizar en un suspiro tareas complejas
-- 8 GB de memoria unificada para que todo sea rápido y fluido
+- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
 - Neural Engine de 16 núcleos para un aprendizaje automático avanzado
 - Sistema de refrigeración activa para mantener un rendimiento bestial
-- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
-- Autonomía de hasta 20 horas, la mayor jamás vista en un Mac
 - Cámara FaceTime HD con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
+- GPU de ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
+- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
+- 8 GB de memoria unificada para que todo sea rápido y fluido
+- CPU de ocho núcleos con un rendimiento hasta 2,8 veces superior para realizar en un suspiro tareas complejas
+- Autonomía de hasta 20 horas, la mayor jamás vista en un Mac
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08N5S5HH5/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [ICZI Hub USB C Thunderbolt 3 5 en 1 Adaptador USB Tipo C 
 
 🔎:
 
-- 💻【Más Alegría, Mejor Experiencia】Miras películas o partidos en una pantalla más grande con tus amigos, con el puerto HDMI 4K, puedes duplicar la pantalla de tu movil( dex station), ordenador en otra pantalla grande para ver fotos, partidos, peliculas y jugar a los videojuegos ultra clara con tus familias, tambien puedes extender la pantalla de tu trabajo en otra pantalla para que trabajes mejor
 - 💻【Más Fácil, Más Durabilidad】Plug and Play, facil de usar, no te complique mas la vida, Sin necesidad de controladores de software externos, nuestro hub usb-c tiene protección de Anti-sobreintensidad y Anti-cortocircuito integrada para proteger los dispositivos, todos hechos de excelentes materiales que proporcionan una vida larga de uso a nuestro usb hub
-- 💻【Marca Confiable】ICZI es una marca de alta tecnología con nuestra propia fábrica de 3500 metros cuadrados, excelente ambiente de trabajo y más de 500 empleados, colaboramos con amazon y nuestro hub usbc se envia por el logistico de Amazon, Entregar rapido en España
+- 💻【Más Alegría, Mejor Experiencia】Miras películas o partidos en una pantalla más grande con tus amigos, con el puerto HDMI 4K, puedes duplicar la pantalla de tu movil( dex station), ordenador en otra pantalla grande para ver fotos, partidos, peliculas y jugar a los videojuegos ultra clara con tus familias, tambien puedes extender la pantalla de tu trabajo en otra pantalla para que trabajes mejor
 - 💻【Más Rápido, Menos Tiempo】No te hace esperar, 2 USB de alta velocidad y 2 Lectores de tarjetas son para contectar raton, teclado, ventilador usb, altavoz, pendrive, usb flash, tarjetas de memoria, etc, para transmitir datos rapidamente o cargar la bataria de tu movil, auriculares, pulsera inteligente conectado con los puertos usb
 - 💻【5 Puertos Más , Más Eficiente y Clasico】Tu ordenador usb c será más eficiente con nuestro hub usb c HDMI 2 USB Lectores de tarjetas , agregar a tu laptop 5 puertos más sin ocupar lugar, 5 puertos distribuidos razonables para un uso cotidiano con tu ordenador, tablet o movil usb c
+- 💻【Marca Confiable】ICZI es una marca de alta tecnología con nuestra propia fábrica de 3500 metros cuadrados, excelente ambiente de trabajo y más de 500 empleados, colaboramos con amazon y nuestro hub usbc se envia por el logistico de Amazon, Entregar rapido en España
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RMHG3H3/?tag=tolees-21)

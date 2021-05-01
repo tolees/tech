@@ -28,10 +28,10 @@ En este momento está [Aceele Hub USB C  Hub multifunción Tipo C 9 en 1 con 2 U
 
 🔎:
 
-- 【Material único】este producto adopta el diseño de la parte delantera y trasera cubierta con silicona, que tiene una resistencia al calor más fuerte que el metal, lo que garantiza la seguridad y la alta eficiencia del equipo en trabajos a largo plazo.
-- 【Puerto de carga PD】el puerto de carga USB C PD admite compartir hasta 48W-100W de energía para computadoras portátiles USB C (dependiendo del cargador PD, use el adaptador original y el cable usb C será mejor).
 - 【Multi-Port 9-in-1】Con el concentrador Aceele USB C, puede disfrutar de video Full HD en un monitor / proyector / TV a través del puerto HDMI desde una computadora compatible con Tipo C. También admite transferencia de datos, ethernet y carga, Satisfacer todas sus necesidades.
-- 【Transferencia de datos rápida】Gigabit Ethernet lo conecta a redes cableadas rápidas y confiables. Los puertos USB 3.0 admiten velocidades súper altas de hasta 5 Gbps de lectura de datos, los puertos USB 2.0 son más adecuados para teclados y ratones. El puerto de lectura de tarjeta SD / TF puede admitir lecturas de hasta 256 GB de capacidad de almacenamiento.
 - 【HDMI 4K】Este adaptador USB C le permite duplicar o extender su pantalla para trabajar en multitarea, ver hojas de cálculo, editar documentos, ver presentaciones de diapositivas, ver películas y jugar videojuegos. USB-C HDMI hasta 4K @ 30hz (3840x2160), le garantiza una experiencia visual perfecta.
+- 【Transferencia de datos rápida】Gigabit Ethernet lo conecta a redes cableadas rápidas y confiables. Los puertos USB 3.0 admiten velocidades súper altas de hasta 5 Gbps de lectura de datos, los puertos USB 2.0 son más adecuados para teclados y ratones. El puerto de lectura de tarjeta SD / TF puede admitir lecturas de hasta 256 GB de capacidad de almacenamiento.
+- 【Puerto de carga PD】el puerto de carga USB C PD admite compartir hasta 48W-100W de energía para computadoras portátiles USB C (dependiendo del cargador PD, use el adaptador original y el cable usb C será mejor).
+- 【Material único】este producto adopta el diseño de la parte delantera y trasera cubierta con silicona, que tiene una resistencia al calor más fuerte que el metal, lo que garantiza la seguridad y la alta eficiencia del equipo en trabajos a largo plazo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083NKTWB8/?tag=tolees-21)
