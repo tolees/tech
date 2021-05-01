@@ -29,9 +29,9 @@ Ahora mismo tienes [Kingston 891535 - Kit de Montaje para Disco Duro sólido SSD
 🔎:
 
 - incluye juego de tornillos
-- tipo de memoria: ddr3 sdram
-- cuerpo en aluminio
 - "conversor de bahía interno para discos ssd de 2.5"" en bahías de 3.5"""
+- cuerpo en aluminio
 - Sistema operativo: none
+- tipo de memoria: ddr3 sdram
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DGL2X7I/?tag=tolees-21)
