@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha YAS-207 - Barra de Sonido con Blu al 23.21 % de rebaja'
-date: 2021-04-28 07:34:33
+date: 2021-05-01 22:40:12
 image: 'https://m.media-amazon.com/images/I/31Jllcm2MGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yamaha'
 buyurl: 'https://www.amazon.es/dp/B071F4PVSF/?tag=tolees-21'
 descuento: '23.21'
-average: '246.192083333333'
+average: '247.064'
 ---
 
 Tienes [Yamaha YAS-207 - Barra de Sonido con Bluetooth  Color Negro](https://www.amazon.es/dp/B071F4PVSF/?tag=tolees-21) con precio final de  267.99 EUR (original: 349.0 EUR) (23.21 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Yamaha YAS-207 - Barra de Sonido con Bluetooth  Color Negro](https://www
 
 🔎:
 
-- DTS Virtual X (mediante actualización)
 - Bluetooth
 - Subwoofer inalámbrico
+- DTS Virtual X (mediante actualización)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071F4PVSF/?tag=tolees-21)
