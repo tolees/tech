@@ -29,9 +29,9 @@ En este momento está [LK 6 Pack Protector de Pantalla Compatible con Xiaomi Poc
 🔎:
 
 - [Alta definición]: 99,9% de transparencia, solo 0,2 mm de grosor de pantalla prometen una buena calidad de imagen en su dispositivo, no influyen en el efecto de grabación de vídeo.
-- [Dureza 9H reforzada]: proporciona la máxima protección Compatible con el protector de la cámara trasera de tu teléfono.
 - [Protección completa]: 3 * Protector de pantalla de vidrio templado y 3 * Protector de lente de cámara.
 - [Instalación fácil]: proporcionamos instrucciones en video fáciles de seguir que facilitan la instalación.
 - [Cámara trasera de cristal templado]: Perfectamente adaptada a la forma. Recortes precisos, ajuste perfecto.
+- [Dureza 9H reforzada]: proporciona la máxima protección Compatible con el protector de la cámara trasera de tu teléfono.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KFWXC3B/?tag=tolees-21)

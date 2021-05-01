@@ -28,8 +28,8 @@ Ahora mismo tienes [GoPro HERO9 Black - Cámara de acción + SanDisk Extreme - T
 
 🔎:
 
-- Vídeos con una resolución 5K Ultra HD, Fotos de 20 MP, transmisión en Directo en 1080p, Modo Webcam y estabilización
 - Cámara de acción Sumergible con Pantalla LCD Delantera y Pantalla táctil Trasera
 - Tarjeta de memoria microSDXC con adaptador SD, A2, hasta 160 MB/s, Class 10, U3 y V30
+- Vídeos con una resolución 5K Ultra HD, Fotos de 20 MP, transmisión en Directo en 1080p, Modo Webcam y estabilización
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PQ5ZJ17/?tag=tolees-21)
