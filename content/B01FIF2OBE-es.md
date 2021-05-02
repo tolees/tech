@@ -28,8 +28,8 @@ Ahora mismo tienes [Energy Sistem Headphones DJ2  Auriculares Estilo DJ  Plegabl
 
 🔎:
 
-- - FLIP-UP EAR CUPS: Auriculares con rotación vertical de 180º que permiten colocarlos en una sola oreja.
-- - FOLDABLE: diseño plegable que facilita su transporte y permite guardarlos en el bolso o la mochila cómodamente.
 - - MICROPHONE & CONTROL TALK: incorporan micrófono en el cable para hablar sin necesidad de sacar el smartphone del bolsillo. Con su función de control puedes contentar llamadas o cambiar de pista con sólo pulsar un botón.
+- - FOLDABLE: diseño plegable que facilita su transporte y permite guardarlos en el bolso o la mochila cómodamente.
+- - FLIP-UP EAR CUPS: Auriculares con rotación vertical de 180º que permiten colocarlos en una sola oreja.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FIF2OBE/?tag=tolees-21)
