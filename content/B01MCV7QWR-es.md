@@ -28,12 +28,12 @@ Ahora mismo tienes [HP OfficeJet 6950 - Impresora multifunción tinta  color  Wi
 
 🔎:
 
-- Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
-- Imprime, copia, escanéa y envía fax, con velocidades de impresión de 16/9 ppm (negro/color)
-- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático
 - Promoción: Imprime 6 meses gratis con HP Instant Ink. Válido hasta el 30/04. Más información en amazon.es/hp
-- Bandeja de entrada principal de 225 hojas, bandeja de salida de hasta 60 hojas. Escáner de superficie plana y alimentador automático de documentos
+- Conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático
 - HP OfficeJet 6950 (P4C85A). Produzca color de calidad profesional asequible que le ayudará a destacar. No deje de trabajar gracias a la impresión móvil y a una configuración móvil sencilla. Velocidades de impresión espectaculares que le ayudan a gestionar los proyectos sin ralentizaciones. Ahorre hasta un 70 % en tinta con HP Instant Ink.
+- Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
 - Esta impresora es compatible con los cartuchos de tinta originales HP 903
+- Bandeja de entrada principal de 225 hojas, bandeja de salida de hasta 60 hojas. Escáner de superficie plana y alimentador automático de documentos
+- Imprime, copia, escanéa y envía fax, con velocidades de impresión de 16/9 ppm (negro/color)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MCV7QWR/?tag=tolees-21)
