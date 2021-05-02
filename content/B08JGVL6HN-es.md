@@ -28,10 +28,10 @@ Está [Woxter Big Bass 180 FX - Altavoces 2.1  20W  Subwoofer  Rejilla metálica
 
 ℹ️:
 
+- Dimensiones: SubWoofer 149x240x237 mm - Satélites 86x198x95 mm / Peso 2.6 kg / Powered By Woxter
 - Conexión Bluetooth y conexión estéreo de 3,5 mm / Botones ajustables de control de volumen / Bass, interruptor ON-OFF en el panel trasero
-- Sistema de altavoces 2.1, cuenta con una potencia de 20 W, 2 satélites y subwoofer, capaz de proporcionar los matices más graves y una calidad sonora única
 - Retroiluminados en RGB, experimenta una sensación de juego única con sus luces leds al ritmo de las explosiones, pasos o sonidos ambientales
 - Representa el espectro de audio completo, ideal para el entretenimiento desde Videojuegos, Mp3, Mp4, CD / DVD, películas y reproducciones digitales
-- Dimensiones: SubWoofer 149x240x237 mm - Satélites 86x198x95 mm / Peso 2.6 kg / Powered By Woxter
+- Sistema de altavoces 2.1, cuenta con una potencia de 20 W, 2 satélites y subwoofer, capaz de proporcionar los matices más graves y una calidad sonora única
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JGVL6HN/?tag=tolees-21)

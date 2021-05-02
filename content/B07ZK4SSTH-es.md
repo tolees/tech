@@ -28,9 +28,9 @@ Tienes [Microsoft – Bluetooth Mouse Verde Menta  RJN-00027 ](https://www.amazo
 
 🔎:
 
-- Moderno y cómodo
 - Disponible en varios colores
-- Tipo de conectividad: Inalámbrico
+- Moderno y cómodo
 - Ratón Bluetooth
+- Tipo de conectividad: Inalámbrico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZK4SSTH/?tag=tolees-21)
