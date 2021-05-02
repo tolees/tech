@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.33 % en MSI GP75 Leopard 10SEK-018ES - Ordenador'
-date: 2021-04-26 10:34:01
+date: 2021-05-02 05:15:36
 image: 'https://m.media-amazon.com/images/I/41C+6UWcqtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B086Z5XTGK/?tag=tolees-21'
 descuento: '18.33'
-average: '1223.61794117648'
+average: '1230.65714285715'
 ---
 
 Tienes [MSI GP75 Leopard 10SEK-018ES - Ordenador portátil de 17.3" FHD  Intel i7-10750H  16 GB RAM  1 TB SSD  Nvidia GeForce RTX 2060  Windows 10 Home  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B086Z5XTGK/?tag=tolees-21) con un 18.33 % de descuento con precio de oferta de 1469.99 EUR (original: 1799.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [MSI GP75 Leopard 10SEK-018ES - Ordenador portátil de 17.3" FHD  Intel i
 
 ℹ️:
 
+- Sistema operativo Windows 10 Home Advanced sin ODD
+- Tarjeta gráfica Nvidia GeForce RTX 2060 de 6 GB GDDR6
+- Memoria RAM de 16 GB DDR4, 2666 MHz
 - Disco SSD de 1 TB NVMe PCIe Gen3x4
 - Procesador Intel i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
-- Tarjeta gráfica Nvidia GeForce RTX 2060 de 6 GB GDDR6
-- Sistema operativo Windows 10 Home Advanced sin ODD
-- Memoria RAM de 16 GB DDR4, 2666 MHz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086Z5XTGK/?tag=tolees-21)
