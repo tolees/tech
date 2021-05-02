@@ -28,10 +28,10 @@ En este momento está [Mini proyector  APEMAN Pantalla Grande Soporte 1080P  ± 
 
 🔎:
 
-- Diseño portátil: el peso del mini proyector LC450 es inferior a 1 kg. Tiene un asa de cuero que lo hace portátil. Podrías traerlo para salir a ver una película. Debe cargarse todo el tiempo.
 - Resolución: el mini proyector LC450 tiene una resolución de 800 * 480P, admite 1080P. Se recomienda usarlo en un ambiente bastante oscuro en casa, no se recomienda para hacer la presentación en oficina.
-- Garantía y servicio: Si tiene alguna pregunta sobre nuestro producto, envíenos un mensaje en cualquier momento. Definitivamente le ofreceremos una solución satisfactoria.
 - Altavoces y tamaño de pantalla: tiene dos altavoces estéreo, que pueden ofrecerle un sonido fantástico mientras mira. No es compatible con altavoces externos. El tamaño de la pantalla es de 50-180 pulgadas. Cuanto más cerca, mejor proyección puede obtener. La mejor distancia de proyección es de 2 metros.
+- Diseño portátil: el peso del mini proyector LC450 es inferior a 1 kg. Tiene un asa de cuero que lo hace portátil. Podrías traerlo para salir a ver una película. Debe cargarse todo el tiempo.
 - El proyector está equipado con una corrección trapezoidal avanzada de ± 30 °. Puede cuadrar la imagen y cambiar la inclinación con el control remoto. No es necesario mover el proyector para ajustar la proyección.
+- Garantía y servicio: Si tiene alguna pregunta sobre nuestro producto, envíenos un mensaje en cualquier momento. Definitivamente le ofreceremos una solución satisfactoria.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082TTN8QF/?tag=tolees-21)

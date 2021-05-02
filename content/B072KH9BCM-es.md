@@ -28,12 +28,12 @@ Tienes [Apple iPad Pro  12 9 pulgadas y 256 GB con Wi-Fi + Cellular  - Plata  Mo
 
 🔎:
 
-- Chip A10X Fusion con arquitectura de 64 bits
 - Pantalla Retina de 12,9 pulgadas con ProMotion, True Tone y gama cromática amplia
-- Cámara FaceTime HD de 7 Mpx
+- Wi-Fi 802.11ac con MIMO
 - LTE hasta 450 Mb/s
 - Sensor de identidad Touch ID
+- Cámara FaceTime HD de 7 Mpx
 - Cámara de 12 Mpx con vídeo 4K HD y flash True Tone con cuatro LED
-- Wi-Fi 802.11ac con MIMO
+- Chip A10X Fusion con arquitectura de 64 bits
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072KH9BCM/?tag=tolees-21)
