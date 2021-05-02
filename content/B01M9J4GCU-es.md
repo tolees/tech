@@ -28,10 +28,10 @@ Tienes [ELEGOO Conjunto Avanzado de Iniciación Compatible con Arduino IDE con T
 
 🔎:
 
-- Un bonito empaquetado con una lista clara y como sorpresa incluye una pequeña cajita para mantener ordenador los componentes como por ejemplo diodos LED, circuitos integrados, pulsadores, diodos etc. Este kit es compatible con el Arduino IDE proyecto.
-- Advertencia, la tensión de entrada para para el modulo de fuente de alimentación ELEGOO ha de estar comprendida entre 6.5v y 9v (corriente continua) mediante un conector de 5.5mm x 2.1mm. Por favor NO lo sobrecargue ya que puede dañar la placa y los componentes.
-- Tutorial español disponible - El conjunto mas completo mas grande y de mayores prestaciones para iniciación, con 63 componentes diferentes y mas de 200 piezas con tutorial en español. También puede descargar los mismos tutoriales en línea desde nuestro sitio web oficial.
-- Este conjunto contiene todos los componentes que puedas necesitar a demás de guías (con mas de 30 lecciones). El modulo LCD1602 incluye conector (no será necesario que lo suelde). Este kit puede desarrollar la inteligencia de los estudiantes y los niños, permitiéndoles crear cosas nuevas por su cuenta.
 - El conjunto inicial avanzado de ELEGOO proporciona una plataforma de desarrollo electrónico de código abierto con hardware y software flexibles y fáciles de usar para la creación de prototipos. Contiene todos los componentes necesarios para comenzar a programar la placa de desarrollo ELEGOO, Y Guías libres en pdf con 33 lecciones distintas tanto para principiantes como para usuarios profesionales.
+- Un bonito empaquetado con una lista clara y como sorpresa incluye una pequeña cajita para mantener ordenador los componentes como por ejemplo diodos LED, circuitos integrados, pulsadores, diodos etc. Este kit es compatible con el Arduino IDE proyecto.
+- Este conjunto contiene todos los componentes que puedas necesitar a demás de guías (con mas de 30 lecciones). El modulo LCD1602 incluye conector (no será necesario que lo suelde). Este kit puede desarrollar la inteligencia de los estudiantes y los niños, permitiéndoles crear cosas nuevas por su cuenta.
+- Tutorial español disponible - El conjunto mas completo mas grande y de mayores prestaciones para iniciación, con 63 componentes diferentes y mas de 200 piezas con tutorial en español. También puede descargar los mismos tutoriales en línea desde nuestro sitio web oficial.
+- Advertencia, la tensión de entrada para para el modulo de fuente de alimentación ELEGOO ha de estar comprendida entre 6.5v y 9v (corriente continua) mediante un conector de 5.5mm x 2.1mm. Por favor NO lo sobrecargue ya que puede dañar la placa y los componentes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M9J4GCU/?tag=tolees-21)
