@@ -28,10 +28,10 @@ Está [SMARTOMI PG545 CL546 Reemplazo para Canon PG-545XL CL-546XL Cartuchos de 
 
 ℹ️:
 
-- Estos cartuchos de alta calidad y respetuosos con el medio ambiente cumplen con las normas ISO 9001 y 14001, y tienen una garantía de un año.
-- Compatible con las siguientes impresoras Canon PIXMA: iP2850, MG2450, MG2550 y MG2950
+- Rendimiento: (A4/Carta): negro 15 ml: 600 páginas; tricolor 13 ml: 450 páginas (5 % de cobertura por color)
 - El paquete incluye: 1 negro y 1 tricolor
 - Elige SMARTOMI: una alternativa rentable en la que puedes confiar para tus cartuchos de tinta Canon PG-545XL y CL-546XL. Impresiones con colores intensos para una calidad fotográfica
-- Rendimiento: (A4/Carta): negro 15 ml: 600 páginas; tricolor 13 ml: 450 páginas (5 % de cobertura por color)
+- Estos cartuchos de alta calidad y respetuosos con el medio ambiente cumplen con las normas ISO 9001 y 14001, y tienen una garantía de un año.
+- Compatible con las siguientes impresoras Canon PIXMA: iP2850, MG2450, MG2550 y MG2950
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NK421QD/?tag=tolees-21)

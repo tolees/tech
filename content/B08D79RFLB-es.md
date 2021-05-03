@@ -29,9 +29,9 @@ Tienes [ARCHEER Altavoces PC Sobremesa  Barra de Sonido PC Gaming con RGB Luces 
 🔎:
 
 - 【Hermosa calidad de sonido】Archeer altavoces para pc puede proporcionar un sonido estéreo nítido y equilibrado.Existe el divisor de frecuencia bidireccional para un potente rendimiento de graves que hace que el sonido sea más penetrante y potente.
+- 【Control de Volumen & LUZ】El botón giratorio circular de altavoz pc puede aumentar / disminuir el volumen según sus necesidades,Hay un botón táctil arriba de la barra de sonido que controla el encendido y apagado de la luz.
 - 【RGB Luces LED】Altavoces de ordernador cambia los colores automáticamente al reproducir música, películas o juegos. Con efectos de brillantes, puede crear una atmósfera perfecta. Además, la luz LED también se puede apagar si lo quiere decir molesto.
 - 【Garantía】ARCHEER se compromete a proporcionar a los clientes una experiencia de compra satisfactoria. Si tiene alguna pregunta durante el uso, no dude en contactarnos.
-- 【Control de Volumen & LUZ】El botón giratorio circular de altavoz pc puede aumentar / disminuir el volumen según sus necesidades,Hay un botón táctil arriba de la barra de sonido que controla el encendido y apagado de la luz.
 - 【Operación simple】Plug and Play, la interfaz de audio de 3,5 mm lo hace adecuado para todos los dispositivos que tienen una salida de audio.Puerto USB conecta a la alimentación,perfecto para TV, PC, MP3, MP4, Portatil Computadora, Tableta.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D79RFLB/?tag=tolees-21)

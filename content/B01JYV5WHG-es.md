@@ -28,10 +28,10 @@ Tienes [AUKEY Cable USB C a USB A [3 X 2m] Cable Tipo C para Carga y Transmisió
 
 ℹ️:
 
-- Modelos Aplicaples: Samsung Galaxy S10+ S10 S9+ / S9 / S8+ / S8 / Note 8, HUAWEI Mate 10 / P10 / P9, Google Pixel, Nexus 5X / 6P, OnePlus 2 / 3T / 5T, Macbook Pro 2016 y Otros Dispositivos USB C
-- El Puerto USB C: Conecte sus nuevos teléfonos y tabletas USB C a los puertos USB A de su portátil u ordenador para cargarlos y transferir datos
 - Lo que Obtendrá: AUKEY CB-CMD29 Cable USB C a USB A 2.0 2m x 3, manual usuario, garantía y servicio al cliente de 24 meses
 - El Cable Robusto y Seguro: Este cable duradero y flexible con cubierta de PVC resiste el desgaste propio del uso diario. Su gancho y su correa de cierre le facilitarán recoger el cable
+- El Puerto USB C: Conecte sus nuevos teléfonos y tabletas USB C a los puertos USB A de su portátil u ordenador para cargarlos y transferir datos
 - Sincronización de Carga y Transferencia de Datos: Carga sus dispositivos USB C a hasta 3A y transfiere películas, música y documentos entre sus dispositivos USB C y su dispositivo anfitrión USB A con unas tasas de transferencia de datos de hasta 480Mbps
+- Modelos Aplicaples: Samsung Galaxy S10+ S10 S9+ / S9 / S8+ / S8 / Note 8, HUAWEI Mate 10 / P10 / P9, Google Pixel, Nexus 5X / 6P, OnePlus 2 / 3T / 5T, Macbook Pro 2016 y Otros Dispositivos USB C
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01JYV5WHG/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [RICOO TRH-02 Soporte torre PC Montaje debajo escritorio A
 🔎:
 
 - ✅ Versión de montaje n.º 2: Horizontal - Ancho 335-644 mm - Altura 177-295 mm
-- ✅ Versión de montaje n.º 1: Vertical - Ancho 145-267 mm - Altura 335-480 mm
 - ✅ OTROS TÉRMINOS: Rack computer colgante también apto para computadora gaming gamer Estante flexible y seguro Adaptor computer para ordenación de dispositivo Estación de trabajo Ventilador
+- ✅ Versión de montaje n.º 1: Vertical - Ancho 145-267 mm - Altura 335-480 mm
 - ✅ FUNCIONES: Fijación PC, montaje bajo la mesa, mesa de escritorio, estructura de construcción. Capacidad de carga máxima de 35 kg, montaje bajo la mesa para refrigeración, ya que el sistema de rieles es ajustable
 - ✅ APTO PARA: Intel AMD Acer Asus BenQ Dell HP Hewlett-Packard iiyama Lenovo Terra Fujitsu Medion Sharkoon Micro-ATX Mini-ITX Midi-Tower Full-Tower Computadora-Tower
 
