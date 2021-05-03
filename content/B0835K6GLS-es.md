@@ -28,10 +28,10 @@ Está [Krom Kuma - NXKROMKUMA - Teclado híbrido PC gaming KROM Kuma QWERTY  con
 
 ℹ️:
 
-- Teclas multimedia dedicadas
-- Iluminación rgb con efectos y zonas de color
-- Switches híbridos
-- Soporte retráctil para smartphone
 - Anti-ghosting y gaming mode
+- Switches híbridos
+- Iluminación rgb con efectos y zonas de color
+- Teclas multimedia dedicadas
+- Soporte retráctil para smartphone
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0835K6GLS/?tag=tolees-21)

@@ -28,13 +28,13 @@ Está [Franken PremiumLine - Pizarra de Caballete Magnética móvil](https://www
 
 ℹ️:
 
+- Brazos extensibles
 - Construcción de metal y plástico, con 5 ruedas con freno; gris claro
+- Regulable en altura hasta 190 cm
+- Móvil
 - Dimension pizarra 68 x 105 cm
 - Bandeja para rotuladores
-- Pinza plástica permite cambiar rapidamente los blocs y acepta todos los tamaños de bloc
 - Superficie magnética de borrado en seco
-- Móvil
-- Brazos extensibles
-- Regulable en altura hasta 190 cm
+- Pinza plástica permite cambiar rapidamente los blocs y acepta todos los tamaños de bloc
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BJH6IAE/?tag=tolees-21)
