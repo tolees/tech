@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link LS108G - Switch 8 Puertos  10/10 al 16.01 % de descuento'
-date: 2021-04-26 00:00:04
+date: 2021-05-03 08:05:16
 image: 'https://m.media-amazon.com/images/I/313DDOW1vUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,26 +13,26 @@ actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99
 comparePrice: 24.99 EUR
-prodname: 'TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch ethernet  Switch gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración'
+prodname: 'TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch Ethernet Gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21'
 descuento: '16.01'
-average: '22.4513026819925'
+average: '22.4457251908399'
 ---
 
-Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch ethernet  Switch gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21) con 16.01 de descuento por 20.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch Ethernet Gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21) con 16.01 de descuento por 20.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![TP-Link LS108G - Switch 8 Puertos  10/10](https://m.media-amazon.com/images/I/313DDOW1vUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21)
 
 ℹ️:
 
-- Silencioso - El diseño sin ventilador garantiza un funcionamiento silencioso
-- Optimización del tráfico - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
-- Switch Gigabit de 8 puertos RJ45 - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
-- Enchufar y listo - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
-- Super disipación de calor - Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
-- Tecnología verde Ethernet - Reduce el consumo de energía
+- SUPER DISIPACIÓN DE CALOR- Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
+- SWITCH GIGABIT 8 PUERTOS - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
+- TECNOLOGÍA VERDE ETHERNET - Reduce el consumo de energía hasta un 80%
+- SILENCIOSO - El diseño sin ventilador garantiza un funcionamiento silencioso
+- OPTIMIZACIÓN TRÁFICO - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
+- ENCHUFA Y LISTO - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21)

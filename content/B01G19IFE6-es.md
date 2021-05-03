@@ -28,10 +28,10 @@ Está [TENMOS M2 Inalámbrico Ratón  Recargable con Silencioso Ratón óptico G
 
 ℹ️:
 
+- SILENCIOSO: Diseño silencioso especial para los botones derecho e izquierdo, puede utilizarlo en su oficina para crear un ambiente de oficina tranquilo.
+- CPI ADJUSTABLE: 800/1600/2400 CPI interruptor libre. Puntos por pulgada (CPI) es una medida de lo sensible que es un ratón. Cuanto mayor es el CPI, más lejos se moverá el cursor en la pantalla cuando mueva el ratón.
 - CARACTERÍSTICA LUMINOSA DEL LED: 7 colores calmantes del LED cambian alternativamente, no pueden ser fijados a un color específico, él pueden ser apagados.
 - 6 BOTONES: rueda de desplazamiento, página hacia delante, página hacia atrás, botón izquierdo, botón derecho, tecla CPI. Cuando navega por páginas web, puede hacer clic en los botones laterales (adelante / atrás) para ir a la página siguiente o anterior.
-- CPI ADJUSTABLE: 800/1600/2400 CPI interruptor libre. Puntos por pulgada (CPI) es una medida de lo sensible que es un ratón. Cuanto mayor es el CPI, más lejos se moverá el cursor en la pantalla cuando mueva el ratón.
-- SILENCIOSO: Diseño silencioso especial para los botones derecho e izquierdo, puede utilizarlo en su oficina para crear un ambiente de oficina tranquilo.
 - RECARGABLE: La batería recargable incorporada, la batería puede durar por mucho tiempo. No hay necesidad de cambiar las baterías (la duración de la batería puede variar según el usuario y las condiciones de cálculo,Asegúrese de encender el ratón cuando lo cargue).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G19IFE6/?tag=tolees-21)

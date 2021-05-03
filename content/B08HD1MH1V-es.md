@@ -29,9 +29,9 @@ Está [tech rc Drone con Cámara HD 1080P  Drone FPV Plegable Drone Profesional 
 ℹ️:
 
 - 【2 baterías recargables de alta capacidad】：Este dron con cámara 1080P está equipado con 2 baterías recargables, puede jugar más tiempo, puede proporcionar 12 minutos de tiempo de vuelo por una batería
-- 【Posicionamiento de flujo óptico】Asegura que el dron de la cámara se bloquee a una cierta altura y posición a través de la cámara inferior, lo que ayuda a lograr un gran rendimiento en la toma estable de fotos y videos HD
-- 【Control de conexión de la APP】: Descargue la aplicación oficial designada, conéctese al WiFi del dron y podrá controlar el dron a través de su teléfono móvil, con funciones integrales y operación simple
 - 【Cámara dual 1080P】：Hay una cámara en la parte frontal del dron plegable. Puede usar su teléfono móvil para recibir fotos o grabar videos y puede cambiar libremente el ángulo de visión aérea. Las imágenes se pueden guardar automáticamente en dispositivos móviles y se pueden compartir o editar en tiempo real
+- 【Control de conexión de la APP】: Descargue la aplicación oficial designada, conéctese al WiFi del dron y podrá controlar el dron a través de su teléfono móvil, con funciones integrales y operación simple
 - 【Modo sin cabeza】： El mini drone puede activar el modo sin cabeza cuando vuela, se puede controlarlo fácilmente sin distinguir la dirección, lo que le permite disfrutar de una diversión ilimitada
+- 【Posicionamiento de flujo óptico】Asegura que el dron de la cámara se bloquee a una cierta altura y posición a través de la cámara inferior, lo que ayuda a lograr un gran rendimiento en la toma estable de fotos y videos HD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HD1MH1V/?tag=tolees-21)
