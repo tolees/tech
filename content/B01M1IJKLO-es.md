@@ -28,10 +28,10 @@ Está [Trust Gaming - Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación
 
 ℹ️:
 
-- 6 botones de respuesta
-- Botón de selección de velocidad (600-2.400 ppp)
-- Parte superior completamente iluminada
-- Tapa superior de goma para un agarre firme
 - Factor de forma ambidiestro
+- Parte superior completamente iluminada
+- 6 botones de respuesta
+- Tapa superior de goma para un agarre firme
+- Botón de selección de velocidad (600-2.400 ppp)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)

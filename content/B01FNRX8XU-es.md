@@ -28,9 +28,9 @@ En este momento está [Microsoft - Office Hogar y Estudiantes 2016 - 1 licencia 
 
 🔎:
 
-- Para 1 PC
-- Aplicaciones de Office: Word, Excel, PowerPoint y OneNote
 - Crea y comparte documentos online
 - Almacena archivos en la nube con OneDrive
+- Aplicaciones de Office: Word, Excel, PowerPoint y OneNote
+- Para 1 PC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01FNRX8XU/?tag=tolees-21)
