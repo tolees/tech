@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Trust GXT 105 - Ratón Gaming con 6 Boton al 25.41 % de descuento'
-date: 2020-03-11 08:25:31
-image: 'https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL400_.jpg'
+title: 'Trust Gaming - Trust GXT 105 - Ratón Gam al 49.97 % de descuento'
+date: 2021-05-03 21:31:56
+image: 'https://m.media-amazon.com/images/I/41w0xWr1MPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01M1IJKLO-es Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación...'
+slug: 'B01M1IJKLO-es Trust Gaming - Trust GXT 105 - Ratón Gaming con 6 Botones...'
 sku: 'B01M1IJKLO-es'
-tags: [ 'ratón', ]
-actualPrice: 14.91 EUR
+tags: [ 'Accesorios para Juegos PC','Juegos y Accesorios para PC','Ratones para gamers para PC','Videojuegos','ratón','trust gaming', ]
+actualPrice: 10.0 EUR
 currency: EUR
-price: 14.91
+price: 10.0
 comparePrice: 19.99 EUR
-prodname: 'Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro'
+prodname: 'Trust Gaming - Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21'
-descuento: '25.41'
-average: '12.956666666666667'
+descuento: '49.97'
+average: '12.2175'
 ---
 
-Está [Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21) con 25.41 de descuento por 14.91 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Trust Gaming - Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21) con 49.97 de descuento por 10.0 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Trust GXT 105 - Ratón Gaming con 6 Boton](https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)
+[![Trust Gaming - Trust GXT 105 - Ratón Gam](https://m.media-amazon.com/images/I/41w0xWr1MPL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)
 
 ℹ️:
 
+- 6 botones de respuesta
+- Botón de selección de velocidad (600-2.400 ppp)
+- Parte superior completamente iluminada
+- Tapa superior de goma para un agarre firme
+- Factor de forma ambidiestro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)

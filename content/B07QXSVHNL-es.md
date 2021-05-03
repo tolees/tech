@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WI-C310 - ¿Muchas Llamadas y videol al 25.01 % de descuento'
-date: 2021-05-02 16:35:38
+date: 2021-05-03 21:55:38
 image: 'https://m.media-amazon.com/images/I/31vIlIwYYRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde casa?
 
 🔎:
 
-- Hasta 15 horas de duración de batería
 - Audio inalámbrico con tecnología bluetooth
-- Compatible con llamadas con manos libres y asistente de voz
 - Cables flexibles y ligeros
+- Compatible con llamadas con manos libres y asistente de voz
+- Hasta 15 horas de duración de batería
 - Unidades de diafragma de 9 mm para un sonido claro y nítido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXSVHNL/?tag=tolees-21)
