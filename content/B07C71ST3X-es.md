@@ -28,10 +28,10 @@ En este momento está [Toshion - Paquete de protectores de pantalla para Huawei 
 
 🔎:
 
+- Consejos: limpia la pantalla antes de la instalación, de lo contrario habrá burbujas.
+- Utiliza tecnología para lograr un resultado antideslumbrante y antihuellas dactilares, apto solamente para el dispositivo Huawei Matebook X Pro de 13,9 pulgadas (mate).
+- Son antiarañazos y muy duraderos.  En condiciones normales de uso cotidiano, este protector puede durar un largo periodo de tiempo sin cambiar su suavidad y su transparencia, debido a la rigidez del material con que ha sido fabricado.
 - Estos protectores están hechos de una película de PET de la más alta calidad con adhesivos 100 % libres de burbujas, son de fácil instalación y no dejarán ningún residuo cuando los retires. 
 - - -
-- Utiliza tecnología para lograr un resultado antideslumbrante y antihuellas dactilares, apto solamente para el dispositivo Huawei Matebook X Pro de 13,9 pulgadas (mate).
-- Consejos: limpia la pantalla antes de la instalación, de lo contrario habrá burbujas.
-- Son antiarañazos y muy duraderos.  En condiciones normales de uso cotidiano, este protector puede durar un largo periodo de tiempo sin cambiar su suavidad y su transparencia, debido a la rigidez del material con que ha sido fabricado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C71ST3X/?tag=tolees-21)

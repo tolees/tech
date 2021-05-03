@@ -28,10 +28,10 @@ Ahora mismo tienes [FINTIE SlimShell Funda para Huawei MediaPad M5 Lite 10 - Sú
 
 🔎:
 
-- Funda duradera y ligera con cuero sintético de primera calidad. El interior de microfibra suave y sin arañazos agrega comodidad y una capa adicional de protección.
-- Aplicación fácil de sujetar. Ábrela para activar y ciérrala para ponerlo en reposo automáticamente.
-- Esta funda es de una sola pieza, el frente y la parte posterior no se separan. La cubierta tiene capacidad de volteo para transformar la funda en un soporte.
 - Disponible en una variedad de colores brillantes y divertidos.
+- Funda duradera y ligera con cuero sintético de primera calidad. El interior de microfibra suave y sin arañazos agrega comodidad y una capa adicional de protección.
+- Esta funda es de una sola pieza, el frente y la parte posterior no se separan. La cubierta tiene capacidad de volteo para transformar la funda en un soporte.
 - Específicamente diseñado para la tablet Huawei MediaPad M5 Lite 10 de 10,1 pulgadas lanzada en 2018.
+- Aplicación fácil de sujetar. Ábrela para activar y ciérrala para ponerlo en reposo automáticamente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J54S2GK/?tag=tolees-21)

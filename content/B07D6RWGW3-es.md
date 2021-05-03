@@ -28,10 +28,10 @@ En este momento está [Zerone Mando a Distancia para TV para Samsung BN59-01178B
 
 🔎:
 
-- ♣【Compatible con modelo】El mando a distancia es adecuado para Samsung BN59-01178B UA60H6300AW UE32H5500
-- Fácil de agarrar: suave, pequeño y compacto, cómodo de agarrar
-- Conectar y usar: puedes llegar al televisor digital directamente después de instalar la batería
 - Fuente de alimentación: funciona con 2 pilas AAA (no incluidas)
+- ♣【Compatible con modelo】El mando a distancia es adecuado para Samsung BN59-01178B UA60H6300AW UE32H5500
 - Distancia de transmisión de 10 m: puedes controlar a distancia hasta 10 m (la distancia real depende del modelo de tu televisor)
+- Conectar y usar: puedes llegar al televisor digital directamente después de instalar la batería
+- Fácil de agarrar: suave, pequeño y compacto, cómodo de agarrar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D6RWGW3/?tag=tolees-21)
