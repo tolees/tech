@@ -28,11 +28,11 @@ Está [MSI Bravo 17 A4DDK-002XES - Ordenador portátil Gaming de 17.3" FullHD 14
 
 ℹ️:
 
-- Procesador AMD Ryzen 7-4800H (8 núcleos, 8 MB Cache, 2.9 GHz hasta 4.2 GHz)
-- Sin sistema operativo
-- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
-- Tarjeta gráfica AMD Radeon RX5500M de 4 GB GDDR6
 - Memoria RAM de 16GB, 8 GB*2 DDR4, 3200 MHz
+- Tarjeta gráfica AMD Radeon RX5500M de 4 GB GDDR6
+- Procesador AMD Ryzen 7-4800H (8 núcleos, 8 MB Cache, 2.9 GHz hasta 4.2 GHz)
 - Pantalla de 17.3" FullHD Tasa de refresco de 144Hz 45% NTSC
+- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
+- Sin sistema operativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086V11QWF/?tag=tolees-21)

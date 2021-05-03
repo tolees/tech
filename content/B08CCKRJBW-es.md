@@ -28,11 +28,11 @@ En este momento está [Huawei Matebook X Pro - Ordenador portátil con pantalla 
 
 🔎:
 
+- Pantalla táctil de 13.9 pulgadas FullHD con resolución QHD de 3000 x 2000 píxeles y tecnología LTPS.
 - Procesador Intel Core i5-10210U (4 núcleos, 6MB Intel Smart Cache, 1.6GHz hasta 4.2 GHz).
-- Almacenamiento de 512GB NVMe PCIe SSD.
 - Tarjeta gráfica integrada Intel UHD Graphics.
+- Almacenamiento de 512GB NVMe PCIe SSD.
 - Sistema Operativo Windows 10 Home.
 - Memoria RAM de 16GB LPDDR3 2133MHz.
-- Pantalla táctil de 13.9 pulgadas FullHD con resolución QHD de 3000 x 2000 píxeles y tecnología LTPS.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CCKRJBW/?tag=tolees-21)
