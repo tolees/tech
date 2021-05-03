@@ -28,10 +28,10 @@ Ahora mismo tienes [Kingdian 240 Gb Velocidad de Lectura/Escritura. 560/422Mb/S 
 
 🔎:
 
-- Tipo de interfaz: TLC SATA III 2.5
-- Rendimiento optimizado para las necesidades informáticas diarias
-- Rendimiento para lectura/escritura de datos secuenciales (hasta): 559,7/381 MB/s
-- Número de artículo: tipo ultrafino de 7 mm para S280, 120 GB
 - MTBF: 1 500 000 horas; retención de datos: 10 años (el valor mayor de los dos)
+- Tipo de interfaz: TLC SATA III 2.5
+- Número de artículo: tipo ultrafino de 7 mm para S280, 120 GB
+- Rendimiento para lectura/escritura de datos secuenciales (hasta): 559,7/381 MB/s
+- Rendimiento optimizado para las necesidades informáticas diarias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01B2OR2VC/?tag=tolees-21)
