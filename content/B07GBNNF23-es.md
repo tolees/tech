@@ -28,10 +28,10 @@ En este momento está [M-Audio Keystation Mini 32 MK3 - Mini Teclado Controlador
 
 🔎:
 
+- Control total: curvas de velocidad de pulsación seleccionables para adaptarse a cualquier estilo de interpretación y botones de inflexión de tono/modulación que añaden expresividad
 - Paquete de Software Premium Incluido: Software/DAW de grabación/interpretación Pro-Tools | First M-Audio Edition y AIR Music Tech Xpand!2 - estación de trabajo todo en uno
+- Creatividad Inmediata: Fácil conexión plug and play a tu Mac o PC, sin necesidad de drivers ni fuente de alimentación
 - Interpretación sin limitaciones: botones de octava arriba y abajo para extender el rango del teclado, mando de volumen que proporciona un control uniforme y botón de sustain que añade capacidad expresiva
 - Máxima capacidad de expresión: 32 teclas sensibles de bajo perfil a la velocidad de pulsación que proporcionan un tacto natural y capturan hasta el más sutil de los matices cuando tocas
-- Control total: curvas de velocidad de pulsación seleccionables para adaptarse a cualquier estilo de interpretación y botones de inflexión de tono/modulación que añaden expresividad
-- Creatividad Inmediata: Fácil conexión plug and play a tu Mac o PC, sin necesidad de drivers ni fuente de alimentación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GBNNF23/?tag=tolees-21)
