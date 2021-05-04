@@ -28,10 +28,10 @@ Tienes [Vasen Mesa Ordenador Portatil Plegable Soporte PC Base Ajustable Alumini
 
 ℹ️:
 
-- 【Soporte para Computadora Plegable】 La altura es ajustable de 5 a 50 cm. Cada perilla se puede girar 360 °. Las patas de la mesa son todas giratorias, se ajustan a cualquier ángulo o posición, diferentes alturas y ángulos ajustables de acuerdo con las posiciones de los asientos utilizando la ergonomía y la configuración del escritorio.
-- 【Mesa para Ordenador de Aluminio】 El panel de la computadora en la cama está hecho de aleación de aluminio de alta calidad y puede soportar hasta 15 kg, mientras que la mesa solo pesa 1,6 kg.
-- 【Alfombrilla de Ratón Extraíble Amovible】 La plataforma de mouse extraíble junto a la mesa le permite colocar el mouse o las tazas. También puede eliminarlo cuando no esté en uso.
 - 【Mesa Plegable Multipropósito】 Soporte portátil multifuncional ajustable, que también se puede usar como mesa de TV o para desayuno, cena.
+- 【Soporte para Computadora Plegable】 La altura es ajustable de 5 a 50 cm. Cada perilla se puede girar 360 °. Las patas de la mesa son todas giratorias, se ajustan a cualquier ángulo o posición, diferentes alturas y ángulos ajustables de acuerdo con las posiciones de los asientos utilizando la ergonomía y la configuración del escritorio.
+- 【Alfombrilla de Ratón Extraíble Amovible】 La plataforma de mouse extraíble junto a la mesa le permite colocar el mouse o las tazas. También puede eliminarlo cuando no esté en uso.
+- 【Mesa para Ordenador de Aluminio】 El panel de la computadora en la cama está hecho de aleación de aluminio de alta calidad y puede soportar hasta 15 kg, mientras que la mesa solo pesa 1,6 kg.
 - 【Gran Superficie de la Bandeja】 Mesa de cama plegable tamaño 48 x 26 cm / 19 x 10.2 pulgadas. El panel es lo suficientemente grande como para acomodar una computadora de 17 pulgadas. Además, los orificios de ventilación en la bandeja pueden ayudar a la computadora a disipar el calor.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088ZYWVP5/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Infocomputer - HP Elite 8200 Sff - Ordenador de sobremesa  I
 
 🔎:
 
-- HP Compaq 8200 Elite de HP es un equipo pequeño (SFF) PC dirigido a usuarios de negocios que necesitan hacer algo más que de procesamiento de texto y correo electrónico. Hay un montón de conexiones y tiene un interior bien diseñado, que lo convierte en un PC de sobremesa fácil de mantener y ampliar.
-- Tarjeta Grafica Intel HD Graphics 2000, Tarjeta de Red 82579LM, Audio Alta Calidad Integrado Interfaz: (2) USB 2.0 Frontales (6) USB 2.0 traseros (1) Puerto COM 9 pines (1) RJ45 (1) VGA - Expansión: 2 X PCI, 1 X PCI Express, Ordenador fijo formato: SFF, COA Windows 7 PRO, Documentación de entrega: Factura y Garantía.
-- Contenido de la caja : El articulo + Adaptador de corriente/cable de corriente; factura con hoja de garantia
 - Ordenador de mesa Barato formato compacto SFF Procesador Intel Core i5-2400 (2a Generación) @ 3.1 GHz (Max Turbo Frequency 3.40 GHz) 6 MB SmartCache 4 Cores, 64-bit Computing: SI, Chipset Type: Intel Q67 Express, 8GB Ram SDRAM DDR3 4DIMMs, Disco duro HDD de 250 GB, LECTOR DVD - Sistema Operativo WINDOWS 10 home ES 64 Original
+- Contenido de la caja : El articulo + Adaptador de corriente/cable de corriente; factura con hoja de garantia
+- Tarjeta Grafica Intel HD Graphics 2000, Tarjeta de Red 82579LM, Audio Alta Calidad Integrado Interfaz: (2) USB 2.0 Frontales (6) USB 2.0 traseros (1) Puerto COM 9 pines (1) RJ45 (1) VGA - Expansión: 2 X PCI, 1 X PCI Express, Ordenador fijo formato: SFF, COA Windows 7 PRO, Documentación de entrega: Factura y Garantía.
+- HP Compaq 8200 Elite de HP es un equipo pequeño (SFF) PC dirigido a usuarios de negocios que necesitan hacer algo más que de procesamiento de texto y correo electrónico. Hay un montón de conexiones y tiene un interior bien diseñado, que lo convierte en un PC de sobremesa fácil de mantener y ampliar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0716CHS2T/?tag=tolees-21)
