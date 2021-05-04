@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.09 % en Schneider TV LED 40" Full HD  SC-LED40SC'
-date: 2021-05-01 08:56:45
+date: 2021-05-04 20:59:43
 image: 'https://m.media-amazon.com/images/I/31jxpjKpkuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0  1920x1080p 
 
 ℹ️:
 
+- Conectividad por bluetooth
 - Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
 - Sintonizador DVB-T/T2/C
 - Sonido envolvente
 - Para espacios pequeños, su diseño compacto encaja en cualquier decoración
-- Conectividad por bluetooth
 - Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B092R1RD5P/?tag=tolees-21)

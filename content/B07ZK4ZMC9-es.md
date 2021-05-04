@@ -29,7 +29,7 @@ Tienes [Microsoft RJN-00003 – Bluetooth Mouse Negro](https://www.amazon.es/dp/
 🔎:
 
 - Moderno y cómodo.
-- Ratón Bluetooth.
 - Disponible en varios colores.
+- Ratón Bluetooth.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21)
