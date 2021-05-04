@@ -28,12 +28,12 @@ Tienes [MARSGAMING - Mars Gaming MMGX Ratón RGB Chroma  Ultraligero  Sensor Óp
 
 ℹ️:
 
-- Cable trenzado de 1,7 m con uschapado en oro
 - Ergonómico y ultra-ligero que se adapta a la palma de la mano proporcionando una gran velocidad
-- Franja led RGB Chroma con 16,8 millones de colores programables; la banda led proyecta la luz sobre la alfombrilla
-- Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S
 - 8 botones programables que te permiten personalizar las funciones del ratón; botón lateral con función snipe para ralentizar los dpi para una precisión profesional
-- Ratón gaming RGB Chroma 10000 DPI con sensor óptico avago 3050pro
 - Acabdo soft-touch antideslizante para mayor control y precisión
+- Cable trenzado de 1,7 m con uschapado en oro
+- Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S
+- Franja led RGB Chroma con 16,8 millones de colores programables; la banda led proyecta la luz sobre la alfombrilla
+- Ratón gaming RGB Chroma 10000 DPI con sensor óptico avago 3050pro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZKT1K5S/?tag=tolees-21)
