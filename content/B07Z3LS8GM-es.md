@@ -29,8 +29,8 @@ En este momento está [Xiaomi Redmi Note 8  4+128GB - Smartphone de 6.3" FHD+  S
 🔎:
 
 - Cámara trasera cuádruple 48 MP + 8 MP + 2 MP + 2 MP, cámara frontal de 13 MP
-- Snapdragon 665 Octa Core
 - Pantalla de 6.3", 2340 x 1080p FHD+
+- Snapdragon 665 Octa Core
 - Batería de 4000 mAh, 18 W, de carga rápida, USB tipo C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z3LS8GM/?tag=tolees-21)
