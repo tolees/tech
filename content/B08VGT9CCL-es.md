@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 15 A10M-610XES - Ordenador Po al 17.65 % de rebaja'
-date: 2021-04-29 15:16:15
+date: 2021-05-04 03:16:04
 image: 'https://m.media-amazon.com/images/I/31MTWfhPmIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [MSI Modern 15 A10M-610XES - Ordenador Portátil 15.6" FHD  1920 x 1080  
 
 🔎:
 
-- Memoria RAM DDR IV 16 GB (2666 MHz)
-- Tarjeta gráfica UMA
-- Procesador Comet lake I5-10210U
-- Pantalla de 15.6" FHD (1920 x 1080)
 - Disco HDD de 512 GB NVMe PCIe SSD
+- Tarjeta gráfica UMA
+- Memoria RAM DDR IV 16 GB (2666 MHz)
+- Pantalla de 15.6" FHD (1920 x 1080)
+- Procesador Comet lake I5-10210U
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VGT9CCL/?tag=tolees-21)
