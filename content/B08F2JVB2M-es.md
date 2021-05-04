@@ -29,9 +29,9 @@ Ahora mismo tienes [INPHIC Raton Bluetooth sin Receptor  Raton inalámbrico Blue
 🔎:
 
 - CÓMO USARLO: encienda el Bluetooth del dispositivo, presione y mantenga presionados los botones izquierdo, medio y derecho del mouse durante 5-7 segundos al mismo tiempo, el mouse ingresará al modo de conexión flash y el [BT5.0 Mouse / BT3.0Mouse] aparecerá en el dispositivo, seleccione uno de ellos para conectarse.
-- PROTABLE Y AHORRO DE ENERGÍA: este mouse portátil bluetooth no recargable entrará automáticamente en el modo de suspensión después de unos minutos de inactividad para ahorrar energía y se puede reactivar haciendo clic en cualquier botón.
-- Garantía de 1 año: puede comprar este mini mouse bluetooth con confianza, la siguiente política de garantía, reembolso incondicional de 45 días y garantía de reparación de 12 meses.
-- CLIC SIN RUIDO: el diseño silencioso del mouse inalámbrico bluetooth proporciona clics de bajo ruido, que reducen el sonido del clic en un 80% en comparación con los ratones de computadora tradicionales. (Nota: solo silencian las teclas izquierda y derecha)
 - AMPLIA COMPATIBILIDAD: este mini mouse tiene dos versiones de Bluetooth. La versión de Bluetooth 3.0 funcionó con el sistema Win7 / Win 8 / Win 10 / Android / Mac OS. Bluetooth 5.0 funcionó con Win8 / Win10 / Android / Mac OS 10.13 arriba / IOS 13.1 arriba. (Nota: si usa iPadOS o IOS, actualice el sistema a iPadOS 13.1 e iOS 13.1 o superior, y active el "Tacto de asistencia")
+- Garantía de 1 año: puede comprar este mini mouse bluetooth con confianza, la siguiente política de garantía, reembolso incondicional de 45 días y garantía de reparación de 12 meses.
+- PROTABLE Y AHORRO DE ENERGÍA: este mouse portátil bluetooth no recargable entrará automáticamente en el modo de suspensión después de unos minutos de inactividad para ahorrar energía y se puede reactivar haciendo clic en cualquier botón.
+- CLIC SIN RUIDO: el diseño silencioso del mouse inalámbrico bluetooth proporciona clics de bajo ruido, que reducen el sonido del clic en un 80% en comparación con los ratones de computadora tradicionales. (Nota: solo silencian las teclas izquierda y derecha)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F2JVB2M/?tag=tolees-21)
