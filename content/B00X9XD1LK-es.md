@@ -28,12 +28,12 @@ Está [Bose SoundLink Mini II - Altavoz portátil Bluetooth  color carbón](http
 
 ℹ️:
 
-- Potencia nominal: 100–240 V
-- La batería recargable permite hasta 10 horas de reproducción
+- Gran sonido y bajos profundos para una experiencia de audio totalmente envolvente
 - Difusor integrado para recibir llamadas
 - Salida: 5VDC, 1600mA Entrada de potencia nominal Entrada: 5VDC, 1.6A
-- Mensajes de voz que le guiará en el proceso de emparejamiento de Bluetooth
+- Potencia nominal: 100–240 V
 - Inalámbrico y compacto para escuchar el sonido Bose en todas partes
-- Gran sonido y bajos profundos para una experiencia de audio totalmente envolvente
+- Mensajes de voz que le guiará en el proceso de emparejamiento de Bluetooth
+- La batería recargable permite hasta 10 horas de reproducción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9XD1LK/?tag=tolees-21)
