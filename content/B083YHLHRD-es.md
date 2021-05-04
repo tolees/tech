@@ -28,10 +28,10 @@ En este momento está [Otterbox Clearly Protected Skin - Funda de Protección Ul
 
 🔎:
 
-- Ultrafina
 - Resistente a rayos uv
 - Protección de pantalla
-- Compatible con alpha flex
+- Ultrafina
 - Ajuste de precisión
+- Compatible con alpha flex
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YHLHRD/?tag=tolees-21)
