@@ -28,10 +28,10 @@ Está [Versa 20880021 Mesa de Escritorio Plegable para Ordenador Despacho con Es
 
 ℹ️:
 
-- MULTIFUNCIONAL - La mesa es perfecta para el para el estudio o el trabajo desde casa, pero también la podrá colocar en el pasillo, salón, o habitación. Es muy compacta por lo que no ocupa mucho espacio, perfecta para trabajar desde casa
-- CARACTERÍSTICAS - Medidas: Alto: 75 cm; Ancho: 108,5 cm; Largo: 55 cm; Peso: 15 kg; Material: Madera aglomerada, Melamina y Metal; Color: Marrón y Negro
-- ESTILO INDUSTRIAL- El concepto industrial de este escritorio se adapta a cualquier decorado y estilo de hogar, por lo que le dará un toque actual a cualquier despacho, habitación de estudio o salón; el contraste entre el color madera y el metal negro aportarán la personalidad que buscas incorporar a cualquier estancia; perfecto para encajar en ambientes de última tendencia; aporta un carácter y personalidad únicos
 - MONTAJE - Necesita montaje sencillo. Incluye las instrucciones. Basta con una persona y no son necesarias herramientas adicionales para su montaje. Lo tendrá listo en 5 minutos
 - ESTABLE - Fabricado con madera aglomerada de alta densidad, melamina de gran calidad y durabilidad. Al ser una superficie no porosa le resultará muy sencillo limpiar la encimera, basta con un paño húmedo. Las patas son de hierro lo que aportará gran estabilidad a la mesa en la que podrá colocar el ordenador, impresora, teclado, pantallas, plantas o elementos decorativos
+- CARACTERÍSTICAS - Medidas: Alto: 75 cm; Ancho: 108,5 cm; Largo: 55 cm; Peso: 15 kg; Material: Madera aglomerada, Melamina y Metal; Color: Marrón y Negro
+- ESTILO INDUSTRIAL- El concepto industrial de este escritorio se adapta a cualquier decorado y estilo de hogar, por lo que le dará un toque actual a cualquier despacho, habitación de estudio o salón; el contraste entre el color madera y el metal negro aportarán la personalidad que buscas incorporar a cualquier estancia; perfecto para encajar en ambientes de última tendencia; aporta un carácter y personalidad únicos
+- MULTIFUNCIONAL - La mesa es perfecta para el para el estudio o el trabajo desde casa, pero también la podrá colocar en el pasillo, salón, o habitación. Es muy compacta por lo que no ocupa mucho espacio, perfecta para trabajar desde casa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EVIFPEC/?tag=tolees-21)

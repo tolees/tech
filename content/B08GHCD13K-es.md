@@ -30,8 +30,8 @@ En este momento está [ACEPC Mini PC  AK3 Windows 10 Pro 6GB RAM 120GB ROM  Mini
 
 - 【Especificaciones de E / S】: diseñado con 2 puertos USB 2.0, 2 puertos USB 3.0, 1 puerto Gigabit Ethernet, 1 puerto para tarjeta Micro SD, 2 puertos HDMI y 1 puerto VGA que admite tres pantallas
 - 【Procesador Intel Celeron】: preinstalado con el sistema operativo Windows 10 Professional Edition (64 bits). Procesador Intel Celeron J4125 de cuatro núcleos. Su frecuencia operativa base es de 2,0 GHz / s que se eleva a 2,7 GHz en modo ráfaga.
+- 【WIFI dual】 ： La mini computadora de escritorio AK3 admite WiFi de banda dual 2.4G 5G y LAN de 1000Mbps, por lo que la velocidad de carga o descarga es muy rápida y fluida.
 - 【Procesador de gráficos】: la mini computadora viene con Intel UHD Graphics 600 que admite 4K UHD 60Hz, lo que le brinda la mejor experiencia de TV de su clase con una calidad de imagen realista, que puede usarse como un centro multimedia para disfrutar de programas de TV o juegos.
 - 【Opciones de expansión de almacenamiento】: DDR3 de 6GB incorporado, SSD mSATA de 128GB, admite HDD / SSD SATA de 2.5 pulgadas hasta 2TB y admite tarjetas Micro SD de hasta 128GB.
-- 【WIFI dual】 ： La mini computadora de escritorio AK3 admite WiFi de banda dual 2.4G 5G y LAN de 1000Mbps, por lo que la velocidad de carga o descarga es muy rápida y fluida.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GHCD13K/?tag=tolees-21)
