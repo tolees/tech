@@ -28,8 +28,8 @@ En este momento está [Hitachi-LG GP70NS50 Grabadora Externa DVD Unidad USB 2.0 
 
 🔎:
 
-- Conectividad TV y Protection y Soporte M-DISC
 - Compatible con Win 10 & MAC OS
+- Conectividad TV y Protection y Soporte M-DISC
 - Silent Play
 - Velocidad de escritura 8x
 

@@ -28,10 +28,10 @@ Tienes [ASENNO 1TB 960GB 512GB 2 5 Pulgadas SSD con 1024 MB de Memoria SATAIII 6
 
 ℹ️:
 
-- 5. Uso para: Cuaderno, PC, máquinas de la posición, todo-en-uno PC, máquinas de publicidad, terminales de la red, computadoras a bordo, vigilancia video, servidores, productos médicos y almacenaje del equipo.
-- 3. Sistema compatible: serie de Windows, de la serie de Unix, de la serie de Linux, de Mac y de otros sistemas usuales;
+- 2. Ejecución secuencial de lectura / escritura de datos: 560/422 MB / s Tiempo de arranque: estará dentro de 11 segundos desde el arranque para entrar en el sistema; Carga rápida mientras juega y abre un gran software de aplicación (como PS, AI); silencioso correr, sin ruido; anti choque;
 - 1. Interfaz de SATA3 (6.0Gbps), compatible con el interfaz de SATA2 (3.0 Gbps);
 - 4. Caja de plástico, compacta y delgada: 7 mm de espesor, compatible con 9 mm de espesor del disco duro;
-- 2. Ejecución secuencial de lectura / escritura de datos: 560/422 MB / s Tiempo de arranque: estará dentro de 11 segundos desde el arranque para entrar en el sistema; Carga rápida mientras juega y abre un gran software de aplicación (como PS, AI); silencioso correr, sin ruido; anti choque;
+- 3. Sistema compatible: serie de Windows, de la serie de Unix, de la serie de Linux, de Mac y de otros sistemas usuales;
+- 5. Uso para: Cuaderno, PC, máquinas de la posición, todo-en-uno PC, máquinas de publicidad, terminales de la red, computadoras a bordo, vigilancia video, servidores, productos médicos y almacenaje del equipo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VGFBX5H/?tag=tolees-21)
