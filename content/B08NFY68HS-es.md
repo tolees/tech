@@ -30,8 +30,8 @@ En este momento está [GOZOPO Compatible con Huawei MediaPad T5 Case - Funda res
 
 - Compatibilidad: funda resistente para Huawei MediaPad T5 (10.1 pulgadas). No es compatible con otras tabletas. Comprueba tu modelo exacto antes de comprar, gracias
 - Diseño de soporte integrado para una experiencia de visualización manos libres: textura única en la parte posterior con soporte integrado que te proporciona dos ángulos de visión para adaptarse mejor a tus necesidades. (Conveniente para video, chatear, FaceTime o compras en línea, etc
-- Fácil de transportar e instalar: duradero, seguro y no tóxico, color duradero y no se deforma fácilmente. Material respetuoso con el medio ambiente. El diseño de bolsa de aire alrededor de las esquinas protege tu Huawei MediaPad T5 (10.1 pulgadas) de caídas al suelo.
 - Excelente protección para tu Huawei MediaPad T5: cubierta trasera de plástico resistente y carcasa interior de silicona TPU para proporcionar un mejor grosor y apoyo circundante para tu Huawei MediaPad T5 de 10.1 pulgadas, ajuste cómodo, protección contra impactos, antideslizante, antiarañazos y características duraderas, etc.
 - ➤【Funda resistente hecha para ti】Es ideal para niños y niñas. - También es adecuado para estudiantes, profesores o cualquier persona que lo necesite para discursos, reuniones y viajes, y se puede dar como regalo.
+- Fácil de transportar e instalar: duradero, seguro y no tóxico, color duradero y no se deforma fácilmente. Material respetuoso con el medio ambiente. El diseño de bolsa de aire alrededor de las esquinas protege tu Huawei MediaPad T5 (10.1 pulgadas) de caídas al suelo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NFY68HS/?tag=tolees-21)
