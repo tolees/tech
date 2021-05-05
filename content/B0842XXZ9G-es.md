@@ -28,9 +28,9 @@ Tienes [Amazfit T-Rex Reloj Inteligente Verde  Gris  Blanco AMOLED 3 3 cm  1.3" 
 
 🔎:
 
-- Batería con 20 días de duración
-- 12 certificaciones militares
-- Diseño resistente
 - Pantalla AMOLED
+- Diseño resistente
+- 12 certificaciones militares
+- Batería con 20 días de duración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0842XXZ9G/?tag=tolees-21)
