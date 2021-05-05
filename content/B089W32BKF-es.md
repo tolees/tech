@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi AIOT Router AC2350 WiFi 1733Mb al 33.74 % de descuento'
-date: 2021-05-02 14:24:41
+date: 2021-05-05 13:51:40
 image: 'https://m.media-amazon.com/images/I/41MjVzgG13L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21'
 descuento: '33.74'
-average: '44.126'
+average: '43.9848387096774'
 ---
 
 Ahora mismo tienes [Xiaomi Mi AIOT Router AC2350 WiFi 1733Mbps a 5GHz y 450Mbps a 2.4GHz  802.11a/b/g/n/AC  802.3/3u/3ab  RAM 128MB  7 Antenas  hasta 128 Dispositivos](https://www.amazon.es/dp/B089W32BKF/?tag=tolees-21) a 39.75 EUR (original: 59.99 EUR) (33.74 %  de descuento) en el siguiente enlace!
