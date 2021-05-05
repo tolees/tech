@@ -28,10 +28,10 @@ Ahora mismo tienes [Seagate Technology - Seagate Desktop Drive  8 TB  Disco duro
 
 🔎:
 
-- Almacenamiento adicional adecuado para su PC, Xbox One o PS4;
-- Almacenamiento de archivos mediante arrastrar y soltar, nada más sacarlo de la caja;
-- Requisitos del sistema: sistema operativo Windows 10, Windows 8, Windows 7 Puerto USB 3.0 de alta velocidad (necesario para velocidades de transferencia USB 3.0 o compatible con puertos USB 2.0 a velocidades de transferencia USB 2.0);
-- Disfrute de la tranquilidad a largo plazo con los servicios de recuperación de datos de dos años;
 - Sólo se vende en Amazon;
+- Requisitos del sistema: sistema operativo Windows 10, Windows 8, Windows 7 Puerto USB 3.0 de alta velocidad (necesario para velocidades de transferencia USB 3.0 o compatible con puertos USB 2.0 a velocidades de transferencia USB 2.0);
+- Almacenamiento de archivos mediante arrastrar y soltar, nada más sacarlo de la caja;
+- Almacenamiento adicional adecuado para su PC, Xbox One o PS4;
+- Disfrute de la tranquilidad a largo plazo con los servicios de recuperación de datos de dos años;
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DQBFQ2D/?tag=tolees-21)
