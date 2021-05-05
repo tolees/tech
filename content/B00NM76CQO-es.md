@@ -28,9 +28,9 @@ Está [StarTech.com PXTNB2SEU1M - Cable de alimentación estándar  Cable Europe
 
 ℹ️:
 
-- Práctico cable extra/de repuesto, perfecto para viajes o desplazamientos y utilización con enchufes eléctricos europeos
 - Conectores enteramente moldeados con alivio de tensión
-- Conforme con VDE, RoHS
 - Valor nominal para 250 V a 2.5 A
+- Conforme con VDE, RoHS
+- Práctico cable extra/de repuesto, perfecto para viajes o desplazamientos y utilización con enchufes eléctricos europeos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NM76CQO/?tag=tolees-21)
