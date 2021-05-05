@@ -28,9 +28,9 @@ Ahora mismo tienes [KabelDirekt – 2m Cable de Extensión 3 5mm Jack  Cable Aux
 
 🔎:
 
-- Cable de extensión Jack 3,5mm
 - Líneas de cobre puro
-- Cuidadosamente elaborado
+- Cable de extensión Jack 3,5mm
 - 36 meses de garantía del fabricante
+- Cuidadosamente elaborado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FQK4K7S/?tag=tolees-21)
