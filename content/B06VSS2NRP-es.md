@@ -28,8 +28,8 @@ Ahora mismo tienes [SanDisk SDDD3-256G-G46 Ultra Dual m3.0 - Unidad Dual con con
 
 🔎:
 
-- El tipo de puerto del producto es micro USB.
 - El diseño estilizado y plegable ofrece conectores micro-USB y USB 3.0. El conector USB 3.0 es de alto rendimiento y retrocompatible con los puertos USB 2.2
+- El tipo de puerto del producto es micro USB.
 - Compatible con dispositivos Android Habilitados para OTG. La Unidad Dual m3.0 SanDisk Ultra es compatible con teléfonos inteligentes y tabletas Android, e incluye soporte para USB en movimiento (OTG)
 - Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
 
