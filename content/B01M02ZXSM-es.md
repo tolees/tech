@@ -28,9 +28,9 @@ Ahora mismo tienes [Samyang AF - Objetivo fotográfico para Sony FE  14 mm  F2.8
 
 🔎:
 
-- Óptica muy luminosa con apertura F28 Diámetro de filtro 67mm
 - Lentes asféricas para minimizar aberraciones y dispersión de luz
 - Peso 505 gr
 - Objetivo de focal fija Autofocus para cámaras digitales sin espejo Sony E con sensor Full Frame
+- Óptica muy luminosa con apertura F28 Diámetro de filtro 67mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M02ZXSM/?tag=tolees-21)

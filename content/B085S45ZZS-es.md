@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.80 % en Xiaomi Redmi Note 9S - Smartphone de 6.6'
-date: 2021-05-04 10:07:24
+date: 2021-05-06 08:04:47
 image: 'https://m.media-amazon.com/images/I/51opPWRP5VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B085S45ZZS/?tag=tolees-21'
 descuento: '23.80'
-average: '200.000434782609'
+average: '200.071714285715'
 ---
 
 Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67” FHD+  DotDisplay  Snapdragon 720G  6 GB RAM  128 GB ROM  cámara cuádruple de 48 MP  batería de 5020 mAh  Aurora Blue [International Versional]](https://www.amazon.es/dp/B085S45ZZS/?tag=tolees-21) con un 23.80 % de descuento con precio de oferta de 204.99 EUR (original: 269.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67” FHD+  DotDisplay  Snapdrago
 
 ℹ️:
 
-- Procesador Snapdragon 720G 2.3 GHz
 - Batería de 5020 mAh
-- Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 - Sistema operativo Android 10
+- Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 - Pantalla de 6.67", 1080 x 2400 pixeles
+- Procesador Snapdragon 720G 2.3 GHz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085S45ZZS/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [NGSIN Purple - Ratón Portátil con Cable Retráctil  ratón óptico de 
 
 🔎:
 
-- Ergonomía y diseño le proporcionan la cualidad de ser una natural prolongación de nuestra creatividad.
 - Compatibilidad: Todas las plataformas
-- Su exactitud y sus 3 botones proporcionan un control que los profesionales sabrán apreciar.
 - Resolución: 1000 DPI
+- Ergonomía y diseño le proporcionan la cualidad de ser una natural prolongación de nuestra creatividad.
+- Su exactitud y sus 3 botones proporcionan un control que los profesionales sabrán apreciar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E7VRI9S/?tag=tolees-21)
