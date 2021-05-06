@@ -28,10 +28,10 @@ En este momento está [TP-Link RE450 - Repetidor WiFi AC1750  Banda Dual 5 GHz -
 
 🔎:
 
-- Puerto Ethernet Gigabit que actúa como un adaptador inalámbrico para conectar un dispositivo a su red a velocidad gigabit
 - Extensor de wifi para el máximo rendimiento
-- Tres antenas externas ajustables que proporcionan conexiones Wi-Fi óptimas de cobertura y fiabilidad
 - Velocidades de 450Mbps en 2.4GHz y 1300Mbps en 5GHz llegando a alcanzar a velocidades Wi-Fi  de hasta 1750Mbps
+- Puerto Ethernet Gigabit que actúa como un adaptador inalámbrico para conectar un dispositivo a su red a velocidad gigabit
 - Compatible con cualquier Router Wi-Fi – Amplía la cobertura de cualquier router Wi-Fi o punto de acceso inalámbrico
+- Tres antenas externas ajustables que proporcionan conexiones Wi-Fi óptimas de cobertura y fiabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21)
