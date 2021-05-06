@@ -28,9 +28,9 @@ En este momento está [Xiaomi Redmi 9T - Smartphone 64GB  4GB RAM  Dual Sim  Car
 
 🔎:
 
-- Procesador: Snapdragon 730 2.2GHz
 - Pantalla: 6.39", 1080 x 2340 pixels
-- Cámara: Triple, 48MP+13MP+8MP
+- Procesador: Snapdragon 730 2.2GHz
 - Batería: 4000 mAh
+- Cámara: Triple, 48MP+13MP+8MP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VWZY1P8/?tag=tolees-21)
