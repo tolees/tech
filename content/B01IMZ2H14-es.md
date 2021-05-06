@@ -28,9 +28,9 @@ Tienes [POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh  Doble Puerto d
 
 🔎:
 
-- La tecnología de la detección automática: Se detecta automáticamente sus dispositivos y se empieza a cargarlos cuando los conecta con el cable (Les proponemos que es mejor cagar sus dispositivos con los cables originales).
 - La garantía de 24 meses del producto se apoya del técnico profesional de Poweradd. El servico al cliente es eficiente y siempre está satisfecho todo el año.
 - Alta capacidad de 10000mAh, existe dos puertos de USB que les permiten cargar dos dispositivos a la vez (uno de 2.4A, otro de 1A).
+- La tecnología de la detección automática: Se detecta automáticamente sus dispositivos y se empieza a cargarlos cuando los conecta con el cable (Les proponemos que es mejor cagar sus dispositivos con los cables originales).
 - Protección de seguridad - Carcasa de la batería de polímero de litio (el tipo de batería más segura) y los sistemas de protección múltiples proporcionan una protección completa. Y se incorpora el microchip para asegurar el uso de seguridad y alargar la vida útil.
 - Su cuerpo se diseña por el material de aluminio de la aviación para garantizar la ligereza y la durabilidad.
 

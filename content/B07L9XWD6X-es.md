@@ -30,8 +30,8 @@ Está [Zelotes Ratón Vertical 3200 dpi Ratón Ergonómico USB óptico Ratón Di
 
 - Sus botones de siguiente/anterior permiten una navegación web conveniente, la mejor opción para el usuario que gusta de navegar por Internet, jugadores de videojuegos y gente que trabaja con computadoras.
 - Compatibilidad ancha: Bueno compatible con Windows 7/8/10 / XP, Vista 7/8 y Linux etc .. Se adapta para escritorio, portátil, PC y otros dispositivos.
-- Cable USB de 1.8M, dimensiones del producto: 110*72*75mm; peso del producto: 150g
-- DPI seleccionable 1200/1600/2400 /3200,más sensible que los dispositivos ópticos estándar para un seguimiento suave y preciso en una gran variedad de superficies.
 - Diseño científico y ergonómico, utiliza la posición saludable y neutral del "saludo de mano" para la muñeca y el brazo, ideal para movimientos más suaves y con menos tensión.
+- DPI seleccionable 1200/1600/2400 /3200,más sensible que los dispositivos ópticos estándar para un seguimiento suave y preciso en una gran variedad de superficies.
+- Cable USB de 1.8M, dimensiones del producto: 110*72*75mm; peso del producto: 150g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L9XWD6X/?tag=tolees-21)

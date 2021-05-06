@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADATA XPG SPECTRIX S40G Unidad de Estado con un 18.74 % de descuento'
-date: 2021-04-21 06:23:24
+date: 2021-05-06 11:37:12
 image: 'https://m.media-amazon.com/images/I/31hAQYNwo1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
