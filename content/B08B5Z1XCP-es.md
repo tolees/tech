@@ -28,10 +28,10 @@ Está [JuneyZz - AXIULOO 20W USB C Cargador Replacement for iPhone 12/12 Mini/12
 
 ℹ️:
 
-- Diseñado específicamente: diseño resistente al calor y anti-tiro, compacto y fácil de transportar, agarre cómodo, el enchufe USB C permite cargar en el hogar, viajes, oficina y viajes de negocios.
-- Cargador PD 3.0: equipado con un puerto USB Tipo C. El cargador USB C de 20 vatios le permite cargar el Phone 12 Pro Max / 11 Pro Max u otros dispositivos Phone en un 50% en solo 40 minutos. Para lograr una carga rápida.
 - Función de protección: material ignífugo. Adaptador de corriente USB C Carcasa a prueba de fuego de primera calidad y sobrecarga, sobrecorrientes y sobrecalentamiento. La carga se detiene cuando la batería está llena.
-- Servicios que obtienes: 20W Cargador USB C rápido + 2M Carga Cable.
+- Cargador PD 3.0: equipado con un puerto USB Tipo C. El cargador USB C de 20 vatios le permite cargar el Phone 12 Pro Max / 11 Pro Max u otros dispositivos Phone en un 50% en solo 40 minutos. Para lograr una carga rápida.
 - Compatibilidad con cargador rápido de 20W: Replacement para Phone12 / 12 Pro / 12 Pro Max / SE 2020 / 11 Pro Max / XS Max / XR / X / 8 Plus, iPad AirPods Pro y modelos superiores Adaptador de transferencia de energía USB C para carga rápida. carga rápida cagador también cargará 7 Plus 6 Plus 6s Plus 5 5c 5s SE a la velocidad de carga original.
+- Diseñado específicamente: diseño resistente al calor y anti-tiro, compacto y fácil de transportar, agarre cómodo, el enchufe USB C permite cargar en el hogar, viajes, oficina y viajes de negocios.
+- Servicios que obtienes: 20W Cargador USB C rápido + 2M Carga Cable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B5Z1XCP/?tag=tolees-21)
