@@ -28,10 +28,10 @@ Tienes [ASUS ROG Zephyrus S17 GX701LWS-EV076T - Portátil Gaming de 17.3 " FullH
 
 🔎:
 
-- Memoria RAM de 32GB, DDR 4
+- Almacenamiento de 1TB NVMe PCIe
 - Sistema operativo Windows 10 Home
 - Pantalla de 17.3" FullHD (1920 x 1080)
-- Almacenamiento de 1TB NVMe PCIe
+- Memoria RAM de 32GB, DDR 4
 - Tarjeta grafica GeForce RTX 2070 SUPER de 8GB GDDR6
 - Procesador Intel Core i7-10750H ( 6 núcleos, 12MB cache, 2.6 GHz hasta 5.0 GHz)
 
