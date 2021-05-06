@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pancellent Microscopio Digital Inalámbri al 15.00 % de descuento'
-date: 2021-05-05 10:22:26
+date: 2021-05-06 19:11:32
 image: 'https://m.media-amazon.com/images/I/414ovwAb9OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pancellent'
 buyurl: 'https://www.amazon.es/dp/B07ZNMMZQM/?tag=tolees-21'
 descuento: '15.00'
-average: '35.5775'
+average: '35.3066666666667'
 ---
 
 Ahora mismo tienes [Pancellent Microscopio Digital Inalámbrico  Microscopio De Aumento USB 1080P 50X a 1000X con 8 LED  Colección De Diapositivas De 12 Paquetes Blanco ](https://www.amazon.es/dp/B07ZNMMZQM/?tag=tolees-21) a 33.14 EUR (original: 38.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
