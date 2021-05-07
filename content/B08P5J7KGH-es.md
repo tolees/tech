@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi Watch Pantalla 1.39" AMOLED  Medición de Nivel de
 
 🔎:
 
+- Resistente al agua hasta 50 metros
+- Pantalla Amoled HD 1,39
+- Puedes practicar hasta 17 deportes distintos y más de 100 ejercicios
 - 16 días de batería con una carga en uso normal y 22 días en modo long-battery. 50+ horas de duración de la batería en modo Deportes
 - Es capaz de leer todas las variables de salud: monitorización del nivel de estrés, entrenamiento de la respiración, nivel de oxígeno en sangre, monitorización de la energía corporal, monitorización de la frecuencia cardíaca en tiempo real, monitorización del ciclo del sueño (seguimiento REM, sueño profundo y ligero).
-- Pantalla Amoled HD 1,39
-- Resistente al agua hasta 50 metros
-- Puedes practicar hasta 17 deportes distintos y más de 100 ejercicios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P5J7KGH/?tag=tolees-21)
