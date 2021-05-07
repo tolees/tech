@@ -28,10 +28,10 @@ Está [ASUS RT-N12E - Router inalámbrico N300  Modo Punto de Acceso/repetidor  
 
 ℹ️:
 
-- Soporta hasta tres redes separadas
-- Tres dispositivos en uno, disfrútalo en modo router, punto de acceso o repetidor
 - Podrás manejar con mayor facilidad la regulación del ancho de banda y el control de acceso gracias a sus 4 SSIDs
 - Dispone de servidor VPN habilitado
+- Tres dispositivos en uno, disfrútalo en modo router, punto de acceso o repetidor
+- Soporta hasta tres redes separadas
 - Dos antenas fijas de 5 dBi para una buena potencia y una mayor cobertura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006FSLOVA/?tag=tolees-21)
