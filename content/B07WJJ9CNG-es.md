@@ -28,8 +28,8 @@ Tienes [HyperX FURY Black HX432C16FB3/8 Memoria RAM 8GB 3200MHz DDR4 CL16 DIMM 1
 
 🔎:
 
-- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
-- Probada al 100 % en fábrica a elevadas velocidades
 - Compatible con XMP de Intel y AMD Ryzen
+- Probada al 100 % en fábrica a elevadas velocidades
+- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WJJ9CNG/?tag=tolees-21)
