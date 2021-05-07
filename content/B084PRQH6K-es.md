@@ -28,10 +28,10 @@ Está [MEDION AKOYA M80 - Ordenador de sobremesa  Intel Core i3-9100  8GB RAM  1
 
 ℹ️:
 
-- Sistema Operativo Windows 10.
 - Memoria RAM de 8GB DDR4.
+- Procesador Intel Core i3-9100 (4 núcleos, 6 MB cache, 3.60 GHz hasta 4.20 GHz).
 - Tarjeta gráfica Radeon RX560-2GB.
 - Almacenamiento de 1TB HDD.
-- Procesador Intel Core i3-9100 (4 núcleos, 6 MB cache, 3.60 GHz hasta 4.20 GHz).
+- Sistema Operativo Windows 10.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084PRQH6K/?tag=tolees-21)
