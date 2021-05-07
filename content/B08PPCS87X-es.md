@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ICARE PS5 Cargador  Estación de Carga US al 19.06 % de descuento'
-date: 2021-04-26 12:32:18
+title: 'ICARE PS5 Cargador  Estación de Carga US al 41.20 % de descuento'
+date: 2021-05-07 14:24:14
 image: 'https://m.media-amazon.com/images/I/41aXgjtvGRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B08PPCS87X-es ICARE PS5 Cargador Estación de Carga USB ps5 con LED...'
 sku: 'B08PPCS87X-es'
 tags: [ 'Videojuegos','icare','playstation','ps5','sony', ]
-actualPrice: 16.99 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 16.99
-comparePrice: 20.99 EUR
+price: 9.99
+comparePrice: 16.99 EUR
 prodname: 'ICARE PS5 Cargador  Estación de Carga USB ps5 con LED Indicador  Estación de Carga 2 Type-C Puerto de Carga para Sony Playstation 5/PS5 Mando Inalámbrico Gamepad'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ICARE'
 buyurl: 'https://www.amazon.es/dp/B08PPCS87X/?tag=tolees-21'
-descuento: '19.06'
-average: '21.7172727272727'
+descuento: '41.20'
+average: '20.74'
 ---
 
-Ahora mismo tienes [ICARE PS5 Cargador  Estación de Carga USB ps5 con LED Indicador  Estación de Carga 2 Type-C Puerto de Carga para Sony Playstation 5/PS5 Mando Inalámbrico Gamepad](https://www.amazon.es/dp/B08PPCS87X/?tag=tolees-21) a 16.99 EUR (original: 20.99 EUR) (19.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ICARE PS5 Cargador  Estación de Carga USB ps5 con LED Indicador  Estación de Carga 2 Type-C Puerto de Carga para Sony Playstation 5/PS5 Mando Inalámbrico Gamepad](https://www.amazon.es/dp/B08PPCS87X/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!
 
 [![ICARE PS5 Cargador  Estación de Carga US](https://m.media-amazon.com/images/I/41aXgjtvGRL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08PPCS87X/?tag=tolees-21)
 
 🔎:
 
 - 🎮Indicador LOGO: se ilumina en azul mientras se conecta a la fuente de alimentación.
-- 🎮Uso amplio: esta estación Type-C Puerto de Carga de carga es adecuada para el controlador inalámbrico Sony Dualshock 5/ PlayStation 5 de Carga El controlador es seguro y no parpadea.
 - 🎮indicador LED: La pantalla en el panel frontal muestra el estado de carga, el indicador azul para la carga completa.
 - 🎮Carga más rápida: dos controladores inalámbricos PS5 vacíos se cargan por completo en 3 a 4 horas al mismo tiempo, la carga individual sería más rápida.
 - 🎮Servicio 24 horas: Si tiene algún problema, no dude en ponerse con nosotros.
+- 🎮Uso amplio: esta estación Type-C Puerto de Carga de carga es adecuada para el controlador inalámbrico Sony Dualshock 5/ PlayStation 5 de Carga El controlador es seguro y no parpadea.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPCS87X/?tag=tolees-21)
