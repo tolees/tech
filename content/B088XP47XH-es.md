@@ -28,12 +28,12 @@ Ahora mismo tienes [Realme X3 Super Zoom - Smartphone 12GB RAM + 256GB ROM  Dua
 
 🔎:
 
-- Super Zoom periscópico 60X. Cámara cuádruple de 64MP+8MP +8MP+2MP
 - Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96GHz
-- Batería de 4200 mAh con carga rápida Super Dart 30w
-- Pantalla Ultra fluida 120Hz y 6.6” FHD+. Imágenes realistas y suaves como nunca
-- 2 años de garantía del fabricante (ES)
-- Selfie dual integrado: doble cámara frontal 32MP+8MP
 - Móvil compatible con Portugal
+- 2 años de garantía del fabricante (ES)
+- Batería de 4200 mAh con carga rápida Super Dart 30w
+- Super Zoom periscópico 60X. Cámara cuádruple de 64MP+8MP +8MP+2MP
+- Pantalla Ultra fluida 120Hz y 6.6” FHD+. Imágenes realistas y suaves como nunca
+- Selfie dual integrado: doble cámara frontal 32MP+8MP
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088XP47XH/?tag=tolees-21)
