@@ -28,12 +28,12 @@ Ahora mismo tienes [Sony MHC-V42D - sistema de audio de alta potencia  Bluetooth
 
 🔎:
 
-- Altavoz para fiesta de alta potencia
+- Reproductor de dvd integrado con hdmi arc
 - Fuente de alimentación: Cable eléctrico
-- Control por gestos para mayor diversión y un funcionamiento sencillo
 - Sonido de graves de largo alcance con jet bass booster
 - Control de voz y luces de fiesta a través de fiestable
+- Control por gestos para mayor diversión y un funcionamiento sencillo
 - Luces de fiesta e iluminación del altavoz
-- Reproductor de dvd integrado con hdmi arc
+- Altavoz para fiesta de alta potencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MS7RGDS/?tag=tolees-21)
