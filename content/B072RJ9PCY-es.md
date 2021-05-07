@@ -28,10 +28,10 @@ Tienes [refill24 - Kit de Recarga para Cartuchos de Tinta Canon 540  541  540 XL
 
 🔎:
 
-- Compatible con las impresoras: Canon Pixma MG2150, Canon Pixma MG2250, Canon Pixma MG3150, Canon Pixma MG3155, Canon Pixma MG3250, Canon Pixma MG3350, Canon Pixma MG3500, Canon Pixma MG3550, Canon Pixma MG3600, Canon Pixma MG3650, Canon Pixma MG4150, Canon Pixma MG4250, Canon Pixma MX375, Canon Pixma MX394, Canon Pixma MX395, Canon Pixma MX435, Canon Pixma MX455, Canon Pixma MX475, Canon Pixma MX515, Canon Pixma MX525, Canon Pixma MX535
+- 1 clip de purga para cartuchos color y negro, instrucciones para rellenar los cartuchos y accesorios
 - 100 ml tinta Negro / 100 ml tinta Cyan / 100 ml tinta Magenta / 100 ml tinta Amarillo - Embalaje: 4 x 100 ml de tinta (Cyan, Magenta, Amarillo, Negro)
+- Compatible con las impresoras: Canon Pixma MG2150, Canon Pixma MG2250, Canon Pixma MG3150, Canon Pixma MG3155, Canon Pixma MG3250, Canon Pixma MG3350, Canon Pixma MG3500, Canon Pixma MG3550, Canon Pixma MG3600, Canon Pixma MG3650, Canon Pixma MG4150, Canon Pixma MG4250, Canon Pixma MX375, Canon Pixma MX394, Canon Pixma MX395, Canon Pixma MX435, Canon Pixma MX455, Canon Pixma MX475, Canon Pixma MX515, Canon Pixma MX525, Canon Pixma MX535
 - Compatible con los cartuchos: Canon 540 negro, Canon 541 color, Canon 540 XL negro, Canon 541 XL color
 - Ahorra cientos de Euros recargando tus cartuchos!
-- 1 clip de purga para cartuchos color y negro, instrucciones para rellenar los cartuchos y accesorios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072RJ9PCY/?tag=tolees-21)
