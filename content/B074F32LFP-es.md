@@ -28,14 +28,14 @@ Ahora mismo tienes [Panasonic ER-SB40-K803 - Barbero Premium de Precisión  Moto
 
 🔎:
 
-- Tiempo de carga, duración de la batería: aproximadamente 1 hora durante, recarga aprox 60 min. Funcionamiento con y sin cable
+- Fácil limpieza con agua corriente, 100% lavable
+- Recortadora de barba y pelo ER-SB40 de alta gama con el motor lineal más rápido en la historia de las recortadoras de uso doméstico de Panasonic, y cuchilla avanzada como resultado de la continua investigación y desarrollo de la marca
+- Recortadora diseñada y fabricada en Japón
+- El diseño ergonómico proporciona una sensación agradable y es adecuado tanto para diestros como para zurdos
 - Ajustes de longitud: 19 longitudes de corte de 0,5 mm - 10 mm en pasos de 0,5 mm
 - Nueva cuchilla mejorada para un resultado mucho más preciso
-- Fácil limpieza con agua corriente, 100% lavable
-- Recortadora diseñada y fabricada en Japón
-- Motor lineal patentado: un motor único cual permite una independencia completa del estado de carga de la batería y la potencia
-- Recortadora de barba y pelo ER-SB40 de alta gama con el motor lineal más rápido en la historia de las recortadoras de uso doméstico de Panasonic, y cuchilla avanzada como resultado de la continua investigación y desarrollo de la marca
 - Transforma tu propia casa en una peluquería profesional gracias a la tecnología Panasonic y su nueva gama de recortadoras de barba y pelo: Serie ER-SB!
-- El diseño ergonómico proporciona una sensación agradable y es adecuado tanto para diestros como para zurdos
+- Tiempo de carga, duración de la batería: aproximadamente 1 hora durante, recarga aprox 60 min. Funcionamiento con y sin cable
+- Motor lineal patentado: un motor único cual permite una independencia completa del estado de carga de la batería y la potencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074F32LFP/?tag=tolees-21)
