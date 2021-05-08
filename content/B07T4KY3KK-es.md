@@ -28,10 +28,10 @@ En este momento está [Polar Ignite - Reloj inteligente de Fitness con GPS Integ
 
 🔎:
 
-- GUÍA DE ENTRENAMIENTO DIARIO FitSpark: Recibe planes de entrenamiento personalizados a diario en función de tu recuperación y disposición diarias
-- SLEEP PLUS STAGES: Registra tus fases del sueño y obtén información sobre la calidad de tu sueño con la función Sleep Plus Stages
-- NIGHTLY RECHARGE: Nightly Recharge mide cómo se recupera tu cuerpo durante la noche del esfuerzo realizado durante el día
 - DISEÑO FINO OPTIMIZADO PARA UN USO 24/7: Este compañero de entrenamiento inteligente cuenta con una interfaz de 1 botón e incluye elementos esenciales tales como: pulsaciones en la muñeca, velocidad, distancia , cuenta calorías y pantalla táctil a color
+- NIGHTLY RECHARGE: Nightly Recharge mide cómo se recupera tu cuerpo durante la noche del esfuerzo realizado durante el día
+- SLEEP PLUS STAGES: Registra tus fases del sueño y obtén información sobre la calidad de tu sueño con la función Sleep Plus Stages
 - ALCANZA TU VERDADERO POTENCIAL: Polar ignite, multisport fitness watch diseñado para quienes quieren superar sus límites de la mejor forma, adecuado para gym, actividades dirigidas, natación, running, ciclismo y caminata
+- GUÍA DE ENTRENAMIENTO DIARIO FitSpark: Recibe planes de entrenamiento personalizados a diario en función de tu recuperación y disposición diarias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T4KY3KK/?tag=tolees-21)

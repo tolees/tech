@@ -28,10 +28,10 @@ Ahora mismo tienes [Nuevo Apple AirPods MAX - Plata](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Prestaciones destacadas
 - Sonido envolvente, como en el cine
 - Modo de sonido ambiente para escuchar lo que te rodea
 - Cancelación activa de ruido que filtra el sonido externo y te permite sumergirte en la música
 - Transductor dinámico diseñado por Apple que ofrece un sonido de alta fidelidad
+- Prestaciones destacadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Q22XBMY/?tag=tolees-21)

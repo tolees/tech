@@ -28,10 +28,10 @@ Está [WORX WR141E - Robot Cortacésped Landroid M 500 Wifi](https://www.amazon.
 
 ℹ️:
 
+- Robot cortacésped para cortar áreas de hasta 500m2; programa y controla el robot a través de móvil; calcula el área de corte de manera rápida y sencilla; el robot te sugiere un horario de trabajo acorde al tamaño de jardín (horario con posibilidad de personalizarlo); plato de cuchillas colocado en la parte inferior lateral que fácil ita el corte de los bordes
+- Posibilidad de personalizar el robot con 4 accesorios: accesorio anti colisión con sensores ultrasónicos que evita que robot colisione; accesorio de control por voz; acceosrio gps y accesorio de cable digital
+- Tecnología de corte patentada aia para que el robot corte en zonas de dificil acceso
 - Sistema antirobo: código de seguridad pin para bloqueo antirrobo y posibilidad de bloqueo del robot a través de la app
 - Plataforma powershare; batería extraible e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
-- Tecnología de corte patentada aia para que el robot corte en zonas de dificil acceso
-- Posibilidad de personalizar el robot con 4 accesorios: accesorio anti colisión con sensores ultrasónicos que evita que robot colisione; accesorio de control por voz; acceosrio gps y accesorio de cable digital
-- Robot cortacésped para cortar áreas de hasta 500m2; programa y controla el robot a través de móvil; calcula el área de corte de manera rápida y sencilla; el robot te sugiere un horario de trabajo acorde al tamaño de jardín (horario con posibilidad de personalizarlo); plato de cuchillas colocado en la parte inferior lateral que fácil ita el corte de los bordes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFPKYC1/?tag=tolees-21)
