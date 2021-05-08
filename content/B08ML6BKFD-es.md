@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GL65 Leopard - Ordenador portátil de al 15.86 % de descuento'
-date: 2021-04-24 20:46:08
+date: 2021-05-08 04:00:53
 image: 'https://m.media-amazon.com/images/I/41UfuuES-bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [MSI GL65 Leopard - Ordenador portátil de 15.6" FHD  Intel Core i7-10750H
 
 ℹ️:
 
-- Procesador Intel Core i7-10750h (6 núcleos, 12 MB cache, 2.6 GHz hasta 5 GHz)
-- Tarjeta gráfica geforce gtx 1660 ti, gddr6 6 GB
-- Sin sistema operativo
-- Memoria RAM de ddr iv 16 GB (2666 MHz)
-- Disco ssd de 1 tb nvme pcie gen3x4
-- Capacidad del disco duro (GB): 1.0 TB
 - Tamaño de pantalla: 15.6 inches
+- Sin sistema operativo
+- Tarjeta gráfica geforce gtx 1660 ti, gddr6 6 GB
+- Capacidad del disco duro (GB): 1.0 TB
+- Procesador Intel Core i7-10750h (6 núcleos, 12 MB cache, 2.6 GHz hasta 5 GHz)
+- Disco ssd de 1 tb nvme pcie gen3x4
+- Memoria RAM de ddr iv 16 GB (2666 MHz)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08ML6BKFD/?tag=tolees-21)
