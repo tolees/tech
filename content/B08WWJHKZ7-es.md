@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS ZenBook 14 UM425IA-AM006T - Ordenador Portátil de  Ful
 
 🔎:
 
-- Memoria RAM de 16GB (en placa) LPDDR4x
-- Pantalla de 14" Full HD (1920 x 1080)
-- Almacenamiento de 512GB M.2 NVMe PCIe
+- Windows 10 Home
 - Tarjeta gráfica integrada AMD Radeon Graphics
 - Procesador AMD Ryzen 7 4700U (2GHz, 8MB)
-- Windows 10 Home
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Memoria RAM de 16GB (en placa) LPDDR4x
+- Pantalla de 14" Full HD (1920 x 1080)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WWJHKZ7/?tag=tolees-21)

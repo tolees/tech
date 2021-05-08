@@ -28,9 +28,9 @@ Ahora mismo tienes [SAMSUNG EF-BT500 - Book Cover para Galaxy Tab A7  Gris](http
 
 🔎:
 
-- Diseño delgado para una protección cómoda y elegante
 - Dos prácticos ángulos para ver fotos y videos 50 y 65
-- Encendido y apagado automático de la pantalla abriendo y cerrando la tapa
+- Diseño delgado para una protección cómoda y elegante
 - Producto que combina tradición e innovación
+- Encendido y apagado automático de la pantalla abriendo y cerrando la tapa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HPDDV2C/?tag=tolees-21)
