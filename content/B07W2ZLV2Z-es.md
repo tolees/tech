@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson WorkForce WF-2810DWF - Impresora m al 28.00 % de descuento'
-date: 2021-05-02 19:30:33
+date: 2021-05-08 07:38:02
 image: 'https://m.media-amazon.com/images/I/41V4TiRWKNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epson'
 buyurl: 'https://www.amazon.es/dp/B07W2ZLV2Z/?tag=tolees-21'
 descuento: '28.00'
-average: '73.1028571428572'
+average: '72.7025000000001'
 ---
 
 Ahora mismo tienes [Epson WorkForce WF-2810DWF - Impresora multifunción de inyección de tinta 4 en 1  impresora  escáner  copia  fax  WiFi  dúplex  cartuchos individuales  DIN A4   color negro](https://www.amazon.es/dp/B07W2ZLV2Z/?tag=tolees-21) a 69.9 EUR (original: 97.09 EUR) (28.00 %  de descuento) en el siguiente enlace!
