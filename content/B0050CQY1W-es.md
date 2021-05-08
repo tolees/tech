@@ -28,9 +28,9 @@ Está [Sony Music - 4](https://www.amazon.es/dp/B0050CQY1W/?tag=tolees-21) con 3
 
 ℹ️:
 
-- Beyoncé
 - Internacional
-- Música
+- Beyoncé
 - R & P Internacional
+- Música
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0050CQY1W/?tag=tolees-21)
