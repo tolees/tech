@@ -28,10 +28,10 @@ Está [PRIXTON Goya P20 - Mini Proyector Portatil / Proyector Cine en Casa de 2.
 
 ℹ️:
 
+- Proyector mini: conexión directa de todo tipo de reproductores vía HDMI
 - Proyector cine en casa: resolución real 800 x 480, con salida de hasta 2.800 lumens, compatible con Full HD
 - Mini portátil proyector 2 altavoces de estéreo integrados y mando a distancia incluido
-- Proyector LED: luz LED blanca 40 Ansi lumens/ contraste 500:1
 - Proyector bluetooth: reproducción de video, audio, foto y textos
-- Proyector mini: conexión directa de todo tipo de reproductores vía HDMI
+- Proyector LED: luz LED blanca 40 Ansi lumens/ contraste 500:1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XQBVZ16/?tag=tolees-21)
