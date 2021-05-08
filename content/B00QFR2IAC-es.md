@@ -28,9 +28,9 @@ Ahora mismo tienes [Parrot MINIKIT Neo2 HD - Auriculares manos libres Bluetooth 
 
 🔎:
 
-- Sincronización automática de la agenda telefónica, Bluetooth Audio Streaming (A2DP)
-- Con su detector de vibraciones se enciende automáticamente cuando se sube a su vehículo
 - Compatible con Android y Apple iPhone
 - Cuenta con el sistema Multipunto que le permite conectarse con dos teléfonos a la vez
+- Sincronización automática de la agenda telefónica, Bluetooth Audio Streaming (A2DP)
+- Con su detector de vibraciones se enciende automáticamente cuando se sube a su vehículo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00QFR2IAC/?tag=tolees-21)

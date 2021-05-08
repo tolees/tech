@@ -28,10 +28,10 @@ En este momento está [LEIZHAN Memorias USB 3.0 128GB Tipo C Pendrive Flash Driv
 
 🔎:
 
-- Compatible con computadoras, Huawei, Samsung, teléfonos inteligentes Android con puerto USB tipo C.
-- Cumple con el estándar USB 3.0, transferencia de datos de alta velocidad, más rápido que USB 2.0
+- 2 en 1, USB 3.0 OTG y USB tipo C. Asegúrese de que sus dispositivos sean compatibles con la función OTG
 - NOTA: esta llave USB no es compatible con las series iPhone, iPad y iPod, verifique el puerto de su dispositivo antes de comprar
 - Capacidad de 128 GB, adecuada para almacenar, transferir y compartir datos digitales
-- 2 en 1, USB 3.0 OTG y USB tipo C. Asegúrese de que sus dispositivos sean compatibles con la función OTG
+- Cumple con el estándar USB 3.0, transferencia de datos de alta velocidad, más rápido que USB 2.0
+- Compatible con computadoras, Huawei, Samsung, teléfonos inteligentes Android con puerto USB tipo C.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T13MBHK/?tag=tolees-21)
