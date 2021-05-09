@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG EF-BT500 - Book Cover para Galax al 25.17 % de descuento'
-date: 2021-05-08 15:04:52
+date: 2021-05-09 21:46:34
 image: 'https://m.media-amazon.com/images/I/31yZmxhLRbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
