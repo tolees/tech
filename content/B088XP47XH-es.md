@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Realme X3 Super Zoom - Smartphone 12GB R al 21.84 % de descuento'
-date: 2021-05-07 14:47:58
+date: 2021-05-09 17:20:08
 image: 'https://m.media-amazon.com/images/I/41iBR7RWNBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B088XP47XH/?tag=tolees-21'
 descuento: '21.84'
-average: '404.294102564103'
+average: '403.93675'
 ---
 
 Ahora mismo tienes [Realme X3 Super Zoom - Smartphone 12GB RAM + 256GB ROM  Dual Sim  Arctic White [Versión ES/PT]](https://www.amazon.es/dp/B088XP47XH/?tag=tolees-21) a 390.0 EUR (original: 499.0 EUR) (21.84 %  de descuento) en el siguiente enlace!
@@ -29,11 +29,11 @@ Ahora mismo tienes [Realme X3 Super Zoom - Smartphone 12GB RAM + 256GB ROM  Dua
 🔎:
 
 - Selfie dual integrado: doble cámara frontal 32MP+8MP
-- Pantalla Ultra fluida 120Hz y 6.6” FHD+. Imágenes realistas y suaves como nunca
+- Super Zoom periscópico 60X. Cámara cuádruple de 64MP+8MP +8MP+2MP
 - Batería de 4200 mAh con carga rápida Super Dart 30w
 - 2 años de garantía del fabricante (ES)
 - Móvil compatible con Portugal
+- Pantalla Ultra fluida 120Hz y 6.6” FHD+. Imágenes realistas y suaves como nunca
 - Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96GHz
-- Super Zoom periscópico 60X. Cámara cuádruple de 64MP+8MP +8MP+2MP
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088XP47XH/?tag=tolees-21)

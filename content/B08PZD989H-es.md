@@ -28,12 +28,12 @@ Tienes [Xiaomi Mi Vacuum Cleaner G10 - Escoba eléctrica inalámbrica  aspiraci�
 
 🔎:
 
-- Depósito extraíble y componentes HEPA lavables
 - Hasta 65 minutos de autonomía en el modo ECO
-- Base de pared para cargar el aspirador y la batería al mismo tiempo
-- Tasa de filtrado total del 99,97%, sistema de filtración de 12 ciclones
 - 7 * 3000 mAh de potencia de la batería, cuatro modos de succión: eco, estándar, máxima y automática
-- Potente y ligera: potencia de aspiración máx. 150 W, motor eléctrico DC sin escobillas, hasta 125.000 rpm
+- Base de pared para cargar el aspirador y la batería al mismo tiempo
+- Depósito extraíble y componentes HEPA lavables
 - Pantalla nítida con información en tiempo real
+- Tasa de filtrado total del 99,97%, sistema de filtración de 12 ciclones
+- Potente y ligera: potencia de aspiración máx. 150 W, motor eléctrico DC sin escobillas, hasta 125.000 rpm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PZD989H/?tag=tolees-21)
