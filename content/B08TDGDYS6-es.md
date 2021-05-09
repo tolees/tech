@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo - Harvest Moon One World al 19.86 % de descuento'
-date: 2021-04-19 18:06:42
+title: 'Nintendo - Harvest Moon One World al 21.84 % de descuento'
+date: 2021-05-09 08:19:55
 image: 'https://m.media-amazon.com/images/I/51Jh+H4XyJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08TDGDYS6-es Nintendo - Harvest Moon One World'
 sku: 'B08TDGDYS6-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 39.99 EUR
+actualPrice: 39.0 EUR
 currency: EUR
-price: 39.99
+price: 39.0
 comparePrice: 49.9 EUR
 prodname: 'Nintendo - Harvest Moon One World'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08TDGDYS6/?tag=tolees-21'
-descuento: '19.86'
-average: '45.6266666666667'
+descuento: '21.84'
+average: '44.68'
 ---
 
-Está [Nintendo - Harvest Moon One World](https://www.amazon.es/dp/B08TDGDYS6/?tag=tolees-21) con 19.86 de descuento por 39.99 EUR (original: 49.9 EUR) en el siguiente enlace!
+Está [Nintendo - Harvest Moon One World](https://www.amazon.es/dp/B08TDGDYS6/?tag=tolees-21) con 21.84 de descuento por 39.0 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![Nintendo - Harvest Moon One World](https://m.media-amazon.com/images/I/51Jh+H4XyJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08TDGDYS6/?tag=tolees-21)
 
