@@ -28,8 +28,8 @@ Ahora mismo tienes [Transcend 7892c - Adaptador USB para Samsung Galaxy Note 10.
 
 🔎:
 
+- Enchufe adaptador multifunción para Samsung Galaxy Tab 10.1 / Note 10.1
 - Para conectar la cámara, unidades USB, discos duros externos, un ratón o un teclado a través del USB
 - Contenido: 1 x Wicked Chili USB OTG adaptador
-- Enchufe adaptador multifunción para Samsung Galaxy Tab 10.1 / Note 10.1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002ECSGG2/?tag=tolees-21)

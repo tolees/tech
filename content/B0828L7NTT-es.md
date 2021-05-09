@@ -28,10 +28,10 @@ Ahora mismo tienes [VOVIPO 2019 Lenovo M7 Super Delgada Funda  Carcasa para Leno
 
 🔎:
 
-- Made of high quality synthetic leather PU leather.Premium synthesized leather exterior and soft interior to prevent scratches
-- Specifically Designed For: Lenovo Tab M7 Tablet Not Fit For other Tablet.
-- 100% brand new, lightweight, ultra slim, unique ,decent design.Built-in stand with multiple viewing angles (typing and watching).
 - Perfect cutouts for the camera, speakers, stand and other ports.
 - Strengthened corner design for better protection.
+- Made of high quality synthetic leather PU leather.Premium synthesized leather exterior and soft interior to prevent scratches
+- 100% brand new, lightweight, ultra slim, unique ,decent design.Built-in stand with multiple viewing angles (typing and watching).
+- Specifically Designed For: Lenovo Tab M7 Tablet Not Fit For other Tablet.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0828L7NTT/?tag=tolees-21)
