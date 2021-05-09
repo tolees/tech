@@ -28,13 +28,13 @@ Tienes [Ibiza Sound PORT8VHF-BT Sistema de sonido portátil y autónomo de 8"/20
 
 ℹ️:
 
-- Función de grabación REC. Se graba en la memoria USB o en la tarjeta SD lo que esté entrando por las entradas Minijack/RCA y micro/inst/micro2
-- Con lector USB, tuner, Bluetooth, entrada línea, mando a distancia y funda
-- Tiene un micrófono inalámbrico de mano VHF y un micrófono de mano con cable
-- Función Voice Control Volume (Talkover). La música se baja de volumen si se habla por el micro. Si se para de hablar por el micro, la música vuelve a su volumen original
 - Lector MP3 USB/ WMA/ BLUETOOTH
-- Vaso (orificio) en la parte inferior del altavoz para colocarlo en un soporte o trípode
-- Entradas MICRO y LÍNEA
+- Con lector USB, tuner, Bluetooth, entrada línea, mando a distancia y funda
 - Es portátil con batería, micrófonos y ruedas incorporados
+- Función de grabación REC. Se graba en la memoria USB o en la tarjeta SD lo que esté entrando por las entradas Minijack/RCA y micro/inst/micro2
+- Entradas MICRO y LÍNEA
+- Función Voice Control Volume (Talkover). La música se baja de volumen si se habla por el micro. Si se para de hablar por el micro, la música vuelve a su volumen original
+- Tiene un micrófono inalámbrico de mano VHF y un micrófono de mano con cable
+- Vaso (orificio) en la parte inferior del altavoz para colocarlo en un soporte o trípode
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AJPPJUM/?tag=tolees-21)
