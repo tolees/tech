@@ -28,11 +28,11 @@ Tienes [Samyang F1110906101 - Objetivo fotográfico DSLR para Sony E  Distancia 
 
 🔎:
 
-- Enfoque manual
-- Con revestimiento UMC anti-reflectante
-- Compatible con filtros de 82mm
 - Montura para Sony E
+- Enfoque manual
 - Para cámaras con sensor Full Frame
+- Compatible con filtros de 82mm
 - Función Tilt-Shift (rotación montura bayoneta)
+- Con revestimiento UMC anti-reflectante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IN2C4RO/?tag=tolees-21)

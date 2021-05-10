@@ -28,10 +28,10 @@ Está [MSI Optix MAG274QRF - Monitor gaming de 27" LED WQHD 165Hz  2560 x 1440p 
 
 ℹ️:
 
-- Visión nocturna: sintonizador negro inteligente para iluminar su día resaltando los detalles finos en las áreas oscuras
 - IPS rápido: proporciona un tiempo de respuesta rápido GTG de 1 ms, optimiza los colores y el brillo de la pantalla
+- Visión nocturna: sintonizador negro inteligente para iluminar su día resaltando los detalles finos en las áreas oscuras
+- Compatible con NVIDIA G-Sync: evita el desgarro o el tartamudeo de la pantalla, lo que produce un juego ultra suave y sin demoras
 - Alta resolución WQHD: los juegos se verán aún mejor y mostrarán más detalles
 - Preparado para HDR: imágenes asombrosas a través del ajuste de contraste y sombra
-- Compatible con NVIDIA G-Sync: evita el desgarro o el tartamudeo de la pantalla, lo que produce un juego ultra suave y sin demoras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L1SGLJW/?tag=tolees-21)
