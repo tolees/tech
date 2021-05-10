@@ -29,9 +29,9 @@ Tienes [Sony FE 200-600 mm f/5.6-6.3 G OSS - Full-Frame  Zoom  Superteleobjetivo
 🔎:
 
 - INCREÍBLEMENTE NÍTIDO: Cinco elementos de cristal ED (dispersión extrabaja) y un elemento asférico en un nuevo diseño óptico ofrecen una resolución y una calidad de imagen excelentes en todo el rango del zoom
+- CAPTURA TODO AL DETALLE: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
 - ERGONOMÍA PROFESIONAL: La estabilización de imagen SteadyShot óptica integrada compensa el movimiento de la cámara causante de imágenes borrosas al realizar fotografías sin trípode
 - RÁPIDO Y PRECISO: Un sistema de transmisión de enfoque DDSSM (Direct Drive SSM) de alta potencia proporciona la velocidad y precisión necesarias tanto para foto como para grabar vídeos
 - MAGNÍFICO BOKEH DE FONDO: Un mecanismo de apertura circular de 11 láminas permite utilizar la profundidad de campo estrecha disponible en distancias focales de superteleobjetivo para producir imágenes impactantes
-- CAPTURA TODO AL DETALLE: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T26V9ZN/?tag=tolees-21)
