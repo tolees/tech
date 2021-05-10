@@ -28,10 +28,10 @@ Ahora mismo tienes [HyperX Pulsefire Surge  Ratón para Juegos Rgb  1  Negro](ht
 
 🔎:
 
-- El anillo de luz proporciona efectos RGB de 360° dinámicos
-- Memoria integrada para almacenar las personalizaciones
-- Sensor Pixart 3389 con ajustes de PPP nativos de hasta 16000
 - Fácil personalización gracias al software HyperX Ngenuity
+- El anillo de luz proporciona efectos RGB de 360° dinámicos
+- Sensor Pixart 3389 con ajustes de PPP nativos de hasta 16000
 - Teclas fiables Omron para 50 millones de clics
+- Memoria integrada para almacenar las personalizaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B9TVQ82/?tag=tolees-21)

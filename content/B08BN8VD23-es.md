@@ -28,13 +28,13 @@ En este momento está [Gigabyte Technology B550M AORUS Elite](https://www.amazon
 
 🔎:
 
-- Capacidad de la memoria RAM (GB) : 128.0 GB
-- Compatible con amd ryzen 5000 series/3. generación ryzen y tercera generación ryzen con procesadores de gráficos radeon
-- Gigabyte exclusivo 8118 gbe LAN para videojuegos
-- Ultra durable pcie 4.0 ready x16 ranura
 - Condensadores de audio de alta calidad y protección contra ruido de audio para la mejor calidad de audio
-- 5 + 3 fases solución digital vrm pura con low rds (on) mosfets
-- Capacidad de almacenamiento de memoria: 128
+- Compatible con amd ryzen 5000 series/3. generación ryzen y tercera generación ryzen con procesadores de gráficos radeon
+- Capacidad de la memoria RAM (GB) : 128.0 GB
 - Dual ultra rápido nvme pcie 4.0/3.0 m.2 conector
+- Gigabyte exclusivo 8118 gbe LAN para videojuegos
+- 5 + 3 fases solución digital vrm pura con low rds (on) mosfets
+- Ultra durable pcie 4.0 ready x16 ranura
+- Capacidad de almacenamiento de memoria: 128
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BN8VD23/?tag=tolees-21)
