@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LENCENT Ladron Enchufes  Cargador USB de al 15.01 % de descuento'
-date: 2021-04-12 09:51:23
-image: 'https://m.media-amazon.com/images/I/41-7mXbXIBL._SL400_.jpg'
+date: 2021-05-10 08:38:16
+image: 'https://m.media-amazon.com/images/I/41-7mXbXIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'LENCENT'
 buyurl: 'https://www.amazon.es/dp/B08CRGCKJ2/?tag=tolees-21'
 descuento: '15.01'
-average: '12.8763636363636'
+average: '12.865'
 ---
 
 Ahora mismo tienes [LENCENT Ladron Enchufes  Cargador USB de Pared con 1 Toma de CA  Schuko Europeo de 2 Pines  + 1 Puerto Tipo C + 3 Puertos USB  Adaptador Enchufe USB España para Smartphone Tableta [4000W]](https://www.amazon.es/dp/B08CRGCKJ2/?tag=tolees-21) a 12.74 EUR (original: 14.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
-[![LENCENT Ladron Enchufes  Cargador USB de](https://m.media-amazon.com/images/I/41-7mXbXIBL._SL400_.jpg)](https://www.amazon.es/dp/B08CRGCKJ2/?tag=tolees-21)
+[![LENCENT Ladron Enchufes  Cargador USB de](https://m.media-amazon.com/images/I/41-7mXbXIBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CRGCKJ2/?tag=tolees-21)
 
 🔎:
 
