@@ -28,10 +28,10 @@ Ahora mismo tienes [Ultrabook Dell Latitude E7250 Intel Core i5-5300 8 GB SSD128
 
 🔎:
 
-- Un producto reacondicionado certificado ha sido probado y certificado para verse y funcionar como nuevo. El producto está acompañado de una garantía de 1 año y puede llegar en una caja genérica marrón o blanca. El producto se envía con todos los accesorios importantes, excepto los auriculares, el manual de instrucciones o la tarjeta SIM. Los accesorios pueden ser genéricos y no del fabricante directo
-- Pantalla HD de 12,5 pulgadas
 - RAM 8 GB + SSD 128 GB (Solid State Drive) de alto rendimiento
 - Intel Core i5-5300U vPro
+- Un producto reacondicionado certificado ha sido probado y certificado para verse y funcionar como nuevo. El producto está acompañado de una garantía de 1 año y puede llegar en una caja genérica marrón o blanca. El producto se envía con todos los accesorios importantes, excepto los auriculares, el manual de instrucciones o la tarjeta SIM. Los accesorios pueden ser genéricos y no del fabricante directo
+- Pantalla HD de 12,5 pulgadas
 - Teclado italiano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YVJTHMM/?tag=tolees-21)
