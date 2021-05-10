@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG108 V3.0  Switch de Escrito al 21.67 % de descuento'
-date: 2021-05-09 09:33:23
+date: 2021-05-10 17:30:24
 image: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21'
 descuento: '21.67'
-average: '23.0182151029749'
+average: '23.019292237443'
 ---
 
 Ahora mismo tienes [TP-Link TL-SG108 V3.0  Switch de Escritorio Red  10/100/1000 Mbps  Carcasa de Acero  IEEE 802.3 X  Auto-MDI/MDIX  Plug and Play  Ahorro de Energía  Puertos RJ45  Fácil de Usar   8 Puertos Gigabit](https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21) a 23.49 EUR (original: 29.99 EUR) (21.67 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [TP-Link TL-SG108 V3.0  Switch de Escritorio Red  10/100/1000
 
 🔎:
 
+- [Switch gigabit de 8 puertos] - 8 puertos RJ45 10/100/1000Mbps con detección automática de velocidad, soporte para MDI/MDIX automático
+- 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
 - Carcasa de metal, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
 - [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
-- [Switch gigabit de 8 puertos] - 8 puertos RJ45 10/100/1000Mbps con detección automática de velocidad, soporte para MDI/MDIX automático
 - Tecnología verde ethernet ahorra consumo de energía
-- 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21)
