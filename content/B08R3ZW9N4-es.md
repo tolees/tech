@@ -28,10 +28,10 @@ Tienes [Trust Gaming Teclado Gamer GXT 853 ESCA Teclado Retroiluminado Metálico
 
 🔎:
 
-- Iluminación LED efecto arco iris con brillo y velocidad ajustables
-- Modo de gaming especial para deshabilitar la tecla de Windows, a fin de no interrumpir el juego
 - Soporte de teléfono integrado para tener la pantalla controlada
 - Control fácil y rápido gracias a sus 12 teclas de Office y multimedia
 - Diseño de tamaño completo con una robusta placa superior metálica
+- Modo de gaming especial para deshabilitar la tecla de Windows, a fin de no interrumpir el juego
+- Iluminación LED efecto arco iris con brillo y velocidad ajustables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R3ZW9N4/?tag=tolees-21)
