@@ -28,8 +28,8 @@ En este momento está [sony computer entertainment of america - Returnal](https:
 
 🔎:
 
-- Compatible con PS5
 - De desarrollador Housemarque
 - Texto y voces en Castellano
+- Compatible con PS5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21)

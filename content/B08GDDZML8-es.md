@@ -28,11 +28,11 @@ En este momento está [SteelSeries Rival 3 Wireless  Ratón Para Gaming  Baterí
 
 🔎:
 
-- Sensor óptico para gaming TrueMove Air con los mejores resultados de su clase en ambos modos inalámbricos
-- REQUISITOS DEL SISTEMA /COMPATIBILIDAD: ordenador personal, Mac, Xbox, MOTOR STEELSERIES, REQUISITOS DE SOFTWARE, Plataformas, Windows 7+, Mac OS X 10.13+
 - Batería de más de 400 horas de uso ininterrumpido con su revolucionaria tecnología de bajo consumo
 - Tecnología inalámbrica de latencia ultrabaja con optimización automática de canales para un rendimiento similar a como cuando te conectas por cable
+- REQUISITOS DEL SISTEMA /COMPATIBILIDAD: ordenador personal, Mac, Xbox, MOTOR STEELSERIES, REQUISITOS DE SOFTWARE, Plataformas, Windows 7+, Mac OS X 10.13+
 - Fabricado con materiales muy duraderos y switches mecánicos de 60 millones de clics (6 veces más de lo normal)
 - Quantum 2.0 Dual Wireless proporciona la flexibilidad de la tecnología inalámbrica ultrarrápida a 2,4 GHz para juegos, y la practicidad de Bluetooth 5.0 para el emparejamiento instantáneo en PC, Mac, portátiles y más
+- Sensor óptico para gaming TrueMove Air con los mejores resultados de su clase en ambos modos inalámbricos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GDDZML8/?tag=tolees-21)

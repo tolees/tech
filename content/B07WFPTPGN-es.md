@@ -28,10 +28,10 @@ Ahora mismo tienes [MARSGAMING - Mars Gaming MHBTX  combo gaming  cascos+auticul
 
 🔎:
 
-- Compatibles con pc, mac, smartphones y tablets
-- Altavoz compacto con acabado soft-touch, cable miniusb con salida doble a jack y usb
 - Auriculares in-ear con agarre ergonómico de goma para una sujección total; micrófono integrado y caja de control
 - Pack inalámbrico de tres accesorios de audio bluetooth 4.2: auriculares in-ear, cascos y altavoz compacto
+- Compatibles con pc, mac, smartphones y tablets
 - Auriculares over-ear con micrófono, almohadillas optimizadas, diadema acolchada ajustable y botones de control; incluyen cable jack
+- Altavoz compacto con acabado soft-touch, cable miniusb con salida doble a jack y usb
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WFPTPGN/?tag=tolees-21)
