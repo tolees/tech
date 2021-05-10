@@ -28,10 +28,10 @@ Está [AGPTEK Extensor HDMI 1x2 Divisor 1080P @ 60HZ Ultra HD sobre Cable CAT6 /
 
 ℹ️:
 
-- Soporte EDID y función POE: Identificación automática de la señal de front-end y back-end y seis opciones de resolución EDID incorporadas, receptores sin fuente de alimentación adicional Apoye la potencia del transmisor a la unidad receptora a través del cable CAT6
-- Transmisión de larga distancia: Hasta 40m (131ft) a 1080p @ 60Hz con CAT6 / 6A / 7; Soporta 480i / 480p / 720p / 1080i / 1080p con resoluciones de vídeo de 60Hz y sonido envolvente hasta 7.1 canales o audio digital estéreo; Compatible con dispositivos y contenido compatibles con HDCP
-- Fácil Instalación y Aplicación - No requiere driver; Puede aplicarse a su sistema de teatro en casa \ enseñanza \ monitorización, etc.
 - IR teledirigido - ayuda 20 ~ 60Hz El IR pasa detrás, permite que el dispositivo de la fuente reconozca comandos alejados; Puede controlar el dispositivo de fuente HDMI en una ubicación secundaria con los cables IR incluidos que reenvían los comandos sobre un cable 6/7 para mayor comodidad
+- Transmisión de larga distancia: Hasta 40m (131ft) a 1080p @ 60Hz con CAT6 / 6A / 7; Soporta 480i / 480p / 720p / 1080i / 1080p con resoluciones de vídeo de 60Hz y sonido envolvente hasta 7.1 canales o audio digital estéreo; Compatible con dispositivos y contenido compatibles con HDCP
 - 1x2 HDMI Extender Splitter: Amplíe y distribuya 1 fuente HDMI a 2 pantallas HDMI sobre CAT6 / 7 simultáneamente, incluye 1 transmisor y 2 receptores
+- Soporte EDID y función POE: Identificación automática de la señal de front-end y back-end y seis opciones de resolución EDID incorporadas, receptores sin fuente de alimentación adicional Apoye la potencia del transmisor a la unidad receptora a través del cable CAT6
+- Fácil Instalación y Aplicación - No requiere driver; Puede aplicarse a su sistema de teatro en casa \ enseñanza \ monitorización, etc.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071F4Q1HX/?tag=tolees-21)
