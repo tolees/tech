@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Conjunto Medio de Iniciación Comp al 28.27 % de rebaja'
-date: 2021-05-07 10:40:18
+date: 2021-05-10 00:58:46
 image: 'https://m.media-amazon.com/images/I/61S+fEvTvML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ELEGOO'
 buyurl: 'https://www.amazon.es/dp/B01MXGST4I/?tag=tolees-21'
 descuento: '28.27'
-average: '32.0372972972973'
+average: '32.05'
 ---
 
 Tienes [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tutorial en Español y Conjunto de Relé de 5V  Modulo de Fuente de Alimentación  Servomotor  UNO R3 Placa de Desarrollo de Prototipos](https://www.amazon.es/dp/B01MXGST4I/?tag=tolees-21) con precio final de  32.99 EUR (original: 45.99 EUR) (28.27 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tuto
 
 🔎:
 
+- La manera mas económica de iniciarse en la programaciónpara principiantes.
 - El modulo LCD1602 incluye conector (no será necesario que lo suelde).
 - Este conjunto a sido actualizado con un modulo de fuente de alimentación a demás de con una batería de 9V.
-- La manera mas económica de iniciarse en la programaciónpara principiantes.
 - Tutorial español disponible--Incluye una guía en PDF (con mas de 22 lecciones) una lista clara en un bonito empaquetado. También puede descargar los mismos tutoriales en línea desde nuestro sitio web.
 - La placa controladora ELEGOO UNO R3 es de alta calidad y compatible con Arduino IDE.
 
