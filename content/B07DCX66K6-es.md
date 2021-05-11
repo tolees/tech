@@ -28,11 +28,11 @@ Está [Lenovo Yoga 920 - Portátil Convertible de 13.9" UHD  Intel Core i7-8550U
 
 ℹ️:
 
-- Procesador Intel Core i7-8550U (4C / 8T, 1.8 / 4.0GHz, 8MB)
 - Almacenamiento de 512GB SSD M.2 PCIe
-- Memoria RAM de 8GB Soldered DDR4-2400
 - Sistema Operativo: Windows 10 Home
-- Pantalla táctil convertíble de 13.9" UHD 3840x2160 píxeles, 300nits
+- Procesador Intel Core i7-8550U (4C / 8T, 1.8 / 4.0GHz, 8MB)
+- Memoria RAM de 8GB Soldered DDR4-2400
 - Tarjeta gráfica Integrada Intel UHD Graphics 620
+- Pantalla táctil convertíble de 13.9" UHD 3840x2160 píxeles, 300nits
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DCX66K6/?tag=tolees-21)
