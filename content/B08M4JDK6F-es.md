@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - SackBoy - Special Edition al 31.79 % de descuento'
-date: 2021-05-09 22:34:25
+date: 2021-05-11 05:48:30
 image: 'https://m.media-amazon.com/images/I/51Eg6TKijgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08M4JDK6F/?tag=tolees-21'
 descuento: '31.79'
-average: '78.4000000000001'
+average: '77.8333333333334'
 ---
 
 Está [Sony - SackBoy - Special Edition](https://www.amazon.es/dp/B08M4JDK6F/?tag=tolees-21) con 31.79 de descuento por 68.2 EUR (original: 99.99 EUR) en el siguiente enlace!
