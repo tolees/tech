@@ -28,9 +28,9 @@ Está [SiKER Adaptador de CA Tipo C de 45 W USB/Cargador de computadora portáti
 
 ℹ️:
 
-- Entrada: 100-240 v 1.3 A (50-60 Hz) / Tipo C Cargador 45 W: Salida: 20 V-2.25A 15 V-3 A 9 V-3 A 5 V-3 A.
-- Características Reemplazo 100% de la marca Nuevo adaptador, con garantía de 1 año
 - Paquete: 1 adaptador Ac y 1 cable de corriente alterna Ac.
+- Características Reemplazo 100% de la marca Nuevo adaptador, con garantía de 1 año
+- Entrada: 100-240 v 1.3 A (50-60 Hz) / Tipo C Cargador 45 W: Salida: 20 V-2.25A 15 V-3 A 9 V-3 A 5 V-3 A.
 - Cargos y poderes de los dispositivos habilitados con Tipo C, verifique el tipo de máquina al comprar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B94FFT1/?tag=tolees-21)
