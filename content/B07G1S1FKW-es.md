@@ -28,10 +28,10 @@ Está [Canon CanoScan LiDE 400 - Escáner plano de sobremesa  Negro](https://www
 
 ℹ️:
 
-- Escaneo de alta calidad y velocidad
-- Un solo cable USB para alimentación y conexión
 - Tecnologías de escaneo automático, Document Fix y Photo Fix
-- Diseño estilizado y elegante con opción de soporte vertical
+- Un solo cable USB para alimentación y conexión
 - 5 botones de funcionamiento EZ
+- Escaneo de alta calidad y velocidad
+- Diseño estilizado y elegante con opción de soporte vertical
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G1S1FKW/?tag=tolees-21)
