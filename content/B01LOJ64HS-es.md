@@ -28,10 +28,10 @@ Tienes [Corsair K65 Lux RGB Teclado Mecánico Gaming  Cherry MX Red  Lineal y R�
 
 🔎:
 
-- Efecto anti-ghostingo multitáctil: Registra todos los comandos y pulsaciones simultáneas
-- Teclas silenciosas y sensibles: Reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
 - Retroiluminación RGB dinámica de tres zonas: Los más de 10 modos de iluminación intensa RGB permiten elegir entre varios efectos de retroiluminación estática multicolor
-- Controles específicos para el volumen y la reproducción multimedia: Ajuste el sonido sin interrumpir el juego gracias al control directo de volumen y reproducción multimedia
 - Seis teclas macro programables: Asigne una única pulsación o combinaciones multitecla complejas a cualquiera de las seis teclas macro específicas
+- Controles específicos para el volumen y la reproducción multimedia: Ajuste el sonido sin interrumpir el juego gracias al control directo de volumen y reproducción multimedia
+- Teclas silenciosas y sensibles: Reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
+- Efecto anti-ghostingo multitáctil: Registra todos los comandos y pulsaciones simultáneas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LOJ64HS/?tag=tolees-21)
