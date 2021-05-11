@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hubei - C31N1517 0B200-01840000 Batería  con un 16.21 % de descuento'
-date: 2021-05-01 11:15:42
+date: 2021-05-11 11:46:16
 image: 'https://m.media-amazon.com/images/I/41CrfVTFqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Hubei - C31N1517 0B200-01840000 Batería portátil Compat
 
 🔎:
 
+- Reemplace el número de parte: C31N1517 0B200-01840000
 - Ajuste para: ASUS TP301, TP301U, TP301UA, TP301UA6200, TP301UA6500, TP301UJ Series, ASUS VivoBook Flip TP301UA, VivoBook Flip TP301UJ Series
 - 30 días de devolución de dinero y 12 meses de garantía. Soporte de correo electrónico 24 x 7
-- Reemplace el número de parte: C31N1517 0B200-01840000
-- Condición: Nuevo Voltaje: 11.55V Capacidad: 4780mAh / 55Wh
 - Certificado CE y ROHS. 100% compatible con batería original.
+- Condición: Nuevo Voltaje: 11.55V Capacidad: 4780mAh / 55Wh
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L5JGN8Y/?tag=tolees-21)
