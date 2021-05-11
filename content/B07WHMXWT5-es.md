@@ -28,10 +28,10 @@ Tienes [[2021 Versión] Victure 1080P Cámara Vigilancia WiFi Interior  Visión 
 
 ℹ️:
 
+- Compatible con la tarjeta Micro SD de hasta 64 GB en C10. （16G-64G ) El almacenamiento en la nube con una prueba gratuita de un mes, evita el riesgo de perder imágenes de la tarjeta SD, lo que garantiza sus videos estén protegidos con descargas cifradas
+- Con la tecnología antirruido para micrófono y altavoz incorporados,Dos modos de llamada: Intercomunicador bidireccional y manos libres
 - Rastreo de movimiento y detección de llanto de bebés con alertas, rotacion 360 ° horizontalmente, arriba y abajo 120 °,cuando se detecta movimiento o ruido, se graba automáticamente un videoc de 10 segundos
 - Con resolución de 1920 * 1080,Pixel 2 Mp,La tecnología LED infrarroja de 850nm extiende la distancia de visualización hasta 30 pies en un tono oscuro
-- Con la tecnología antirruido para micrófono y altavoz incorporados,Dos modos de llamada: Intercomunicador bidireccional y manos libres
 - Rastreo de movimiento y detección de sonido con alertas, rotacion 360 ° horizontalmente, arriba y abajo 120 °,cuando se detecta movimiento o ruido, se graba automáticamente un videoc de 10 segundos
-- Compatible con la tarjeta Micro SD de hasta 64 GB en C10. （16G-64G ) El almacenamiento en la nube con una prueba gratuita de un mes, evita el riesgo de perder imágenes de la tarjeta SD, lo que garantiza sus videos estén protegidos con descargas cifradas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WHMXWT5/?tag=tolees-21)

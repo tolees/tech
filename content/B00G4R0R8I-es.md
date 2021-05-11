@@ -29,7 +29,7 @@ En este momento está [Lenovo PA-1650-72FN R0P9 - Cargador Adaptador de alimenta
 🔎:
 
 - Salida: 20V 3.5A 65W
-- Input: 100-240V
 - Cable de alimentación europeo con cada cargador de portátil
+- Input: 100-240V
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00G4R0R8I/?tag=tolees-21)
