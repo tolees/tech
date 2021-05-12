@@ -28,9 +28,9 @@ Tienes [iRobot - i7156 & e5154 Service Kit i-& E Series  Verde](https://www.amaz
 
 🔎:
 
-- Compatible con: sólo Roomba / i-Serie
-- ¿Por qué distribuidores autorizados y accesorios originales? Si compras un producto haces una inversión para tu hogar. La compra de productos originales de distribuidores autorizados es la única manera de garantizar que lo que compras es digno de su inversión. Los productos comprados en un distribuidor no autorizado, no están cubiertos ni esperados
-- El paquete contiene: 3 filtros de alto rendimiento, 2 cepillos laterales, 1 juego de cepillos multisuelo (verde).
 - Mantenimiento regular asegura que tu robot aspirador de la serie Roomba e e i funcione con una potencia máxima. Este kit contiene todo lo necesario para mantener el rendimiento de limpieza de su robot desde el principio de manera óptima.
+- El paquete contiene: 3 filtros de alto rendimiento, 2 cepillos laterales, 1 juego de cepillos multisuelo (verde).
+- ¿Por qué distribuidores autorizados y accesorios originales? Si compras un producto haces una inversión para tu hogar. La compra de productos originales de distribuidores autorizados es la única manera de garantizar que lo que compras es digno de su inversión. Los productos comprados en un distribuidor no autorizado, no están cubiertos ni esperados
+- Compatible con: sólo Roomba / i-Serie
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PRMT664/?tag=tolees-21)
