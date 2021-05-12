@@ -28,10 +28,10 @@ En este momento está [Medion S22003 MD34639 - MiniPC Ordenador de Sobremesa  In
 
 🔎:
 
-- Tarjeta gráfica integrada Intel HD Graphics.
 - Sin sistema operativo.
 - Memoria RAM de 8GB DDR3L.
 - Procesador Intel Core i3-5005U (2 núcleos, 3 MB cache, 2.00 GHz).
+- Tarjeta gráfica integrada Intel HD Graphics.
 - Almacenamiento de 512GB SSD SATA.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084PRKT3F/?tag=tolees-21)
