@@ -28,11 +28,11 @@ En este momento está [ASUS ROG Zephyrus G14 GA401IU-HA123T - Portátil Gaming d
 
 🔎:
 
-- Procesador AMD Ryzen 9 4900HS (3GHz, 8MB)
-- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 - Tarjeta gráfica NVIDIA GeForce GTX 1660 Ti Max-Q 6GB GDDR6
-- Almacenamiento de 1TB M.2 NVMe PCIe
 - Windows 10 Home
+- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 - Pantalla de 14" Quad HD (2560 x 1440)
+- Procesador AMD Ryzen 9 4900HS (3GHz, 8MB)
+- Almacenamiento de 1TB M.2 NVMe PCIe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CRMZPGQ/?tag=tolees-21)
