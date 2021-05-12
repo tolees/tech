@@ -28,10 +28,10 @@ Está [HP 300 - Teclado y ratón inalámbricos  color negro](https://www.amazon.
 
 ℹ️:
 
-- Sin más cables con la conexión inalámbrica de 2.4 GHz fiable
-- Ratón con mayor precisión para movimientos precisos en la mayoría de las superficies, gracias a sus 1600 ppp
-- Solo necesitas un nano receptor inalámbrico para conectar el teclado y ratón
-- Diez teclas para un acceso rápido a herramientas importantes como internet, correo electrónico y búsquedas
 - Teclado de tamaño completo que incluye un reposamuñecas integrado para que teclees con comodidad
+- Diez teclas para un acceso rápido a herramientas importantes como internet, correo electrónico y búsquedas
+- Solo necesitas un nano receptor inalámbrico para conectar el teclado y ratón
+- Ratón con mayor precisión para movimientos precisos en la mayoría de las superficies, gracias a sus 1600 ppp
+- Sin más cables con la conexión inalámbrica de 2.4 GHz fiable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K4QPC6R/?tag=tolees-21)
