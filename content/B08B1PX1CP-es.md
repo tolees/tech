@@ -29,9 +29,9 @@ Está [Corsair iCUE LT100 Kit de Inicio de Torres de Iluminación Inteligente  D
 ℹ️:
 
 - Todo lo que necesita para brillar: Incluye dos torres conectadas de 422 mm de alto, con 46 LED personalizables cada una
-- Parte del ecosistema de iluminación inteligente iCUE: Funciona con el software CORSAIR iCUE y permite sincronizar y personalizar la iluminación RGB con todos los dispositivos CORSAIR compatibles
-- 11 perfiles de iluminación predefinidos: Ilumine su espacio inmediatamente con solo pulsar un botón gracias a los 11 perfiles disponibles preconfigurados
-- Iluminación ambiente inmersiva: Amplíe la iluminación RGB de su PC, iluminando su entorno con colores difusos y efectos de iluminación óptimos
 - Integración con juegos y contenido multimedia: Sincronice la iluminación ambiente para ajustarse a la acción de los juegos
+- Parte del ecosistema de iluminación inteligente iCUE: Funciona con el software CORSAIR iCUE y permite sincronizar y personalizar la iluminación RGB con todos los dispositivos CORSAIR compatibles
+- Iluminación ambiente inmersiva: Amplíe la iluminación RGB de su PC, iluminando su entorno con colores difusos y efectos de iluminación óptimos
+- 11 perfiles de iluminación predefinidos: Ilumine su espacio inmediatamente con solo pulsar un botón gracias a los 11 perfiles disponibles preconfigurados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B1PX1CP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Huashetrade - Laptop de 15.6 Pulgadas  Intel Celeron de 64 bits  8GB DDR
 
 🔎:
 
-- Micro HDMI le permite conectar su computadora portátil a un monitor externo o televisor de pantalla grande.
-- La pantalla HD de 15.6 pulgadas 1920 * 1080 HD ofrece colores intensos y texto nítido para una experiencia visual enriquecida
-- Ideal para procesamiento de texto, correo electrónico y transmisión de medios (incluyendo Micro Office, Netflix, Amazon Video, BBC iPlayer, ITV Player y más) .
-- Manténgase siempre conectado con puertos ultrarrápidos USB 3.0, HDMI, micro SD y toma de auriculares.
 - Procesador Intel Celeron 64 bit, CPU de 1.5Ghz, hasta 2.5Ghz. Memoria interna: 8GB DDR3, 128GB Almacenamiento .10000 mAh Gran capacidad Resistencia de la batería.
+- Ideal para procesamiento de texto, correo electrónico y transmisión de medios (incluyendo Micro Office, Netflix, Amazon Video, BBC iPlayer, ITV Player y más) .
+- Micro HDMI le permite conectar su computadora portátil a un monitor externo o televisor de pantalla grande.
+- Manténgase siempre conectado con puertos ultrarrápidos USB 3.0, HDMI, micro SD y toma de auriculares.
+- La pantalla HD de 15.6 pulgadas 1920 * 1080 HD ofrece colores intensos y texto nítido para una experiencia visual enriquecida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089DLM4JX/?tag=tolees-21)
