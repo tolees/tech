@@ -28,10 +28,10 @@ Tienes [Hori - Alumi Case Zelda  Nintendo Switch ](https://www.amazon.es/dp/B07F
 
 🔎:
 
-- Licencia oficial de Nintendo
-- Forro interior decorado
-- Combinación de diseño y óptima protección
-- Separador interno acolchado para proteger la pantalla y guardar 5 cartuchos de juego
 - Fabricada en aluminio
+- Licencia oficial de Nintendo
+- Separador interno acolchado para proteger la pantalla y guardar 5 cartuchos de juego
+- Combinación de diseño y óptima protección
+- Forro interior decorado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FR4CL89/?tag=tolees-21)

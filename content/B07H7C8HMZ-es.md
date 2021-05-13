@@ -28,8 +28,8 @@ En este momento está [HP Pavilion 600 - Auriculares Gaming  Sonido 7.1 Surround
 
 🔎:
 
-- Los controles ubicados en los auriculares hacen que los ajustes de volumen y silencio sean rápidos y sencillos
 - El sonido 7.1 surround ofrece una acústica envolvente y realista, tanto si estás en el fragor de la batalla o escuchando tu canción favorita
+- Los controles ubicados en los auriculares hacen que los ajustes de volumen y silencio sean rápidos y sencillos
 - Coloca fácilmente el micrófono ajustable delante de la boca o retíralo, depende de ti
 - Suave acolchado de polipiel sintético en los auriculares y en la banda para una comodidad duradera
 

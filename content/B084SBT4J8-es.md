@@ -28,10 +28,10 @@ En este momento está [relaxdays Soporte Monitor  Elevador Pantalla Ordenador  P
 
 🔎:
 
+- Regulable: las patas del soporte monitor se pueden desenroscar para ajustar la altura en unos 2 cm
+- Compacto: cuando hayas acabado de utilizar el pc, podrás guardar el teclado bajo la base monitor
 - Resistente: el estante transparente de vidrio templado es muy resistente; aprox. 8 mm de grosor
 - Detalles: medidas: aprox. 9 - 11 x 70 x 24 cm; la base portátil soporta una carga de hasta 10 kg
-- Compacto: cuando hayas acabado de utilizar el pc, podrás guardar el teclado bajo la base monitor
 - Cómodo: el elevador monitor permite sentarse con una postura saludable para el cuello y la espalda
-- Regulable: las patas del soporte monitor se pueden desenroscar para ajustar la altura en unos 2 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084SBT4J8/?tag=tolees-21)
