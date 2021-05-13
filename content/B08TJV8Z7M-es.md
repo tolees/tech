@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sony computer entertainment of america - al 28.13 % de descuento'
-date: 2021-05-09 22:35:41
+date: 2021-05-13 19:44:22
 image: 'https://m.media-amazon.com/images/I/51JGFGLHrJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'sony computer entertainment of america'
 buyurl: 'https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21'
 descuento: '28.13'
-average: '61.2894444444445'
+average: '61.0894736842106'
 ---
 
 Ahora mismo tienes [sony computer entertainment of america - Nioh Collection](https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21) a 57.49 EUR (original: 79.99 EUR) (28.13 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [sony computer entertainment of america - Nioh Collection](ht
 
 🔎:
 
+- Descubre armas y habilidades letales en un sistema de combate renovado
 - Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
 - Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
-- Descubre armas y habilidades letales en un sistema de combate renovado
 - Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21)

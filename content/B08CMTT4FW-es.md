@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Chromebook Z1500CN-EJ0400 - Ordenad al 25.06 % de rebaja'
-date: 2021-05-03 10:54:39
+date: 2021-05-13 20:37:53
 image: 'https://m.media-amazon.com/images/I/41vKUAaxamL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [ASUS Chromebook Z1500CN-EJ0400 - Ordenador Portátil de 15.6" FullHD  In
 
 🔎:
 
-- Memoria RAM de 8GB (en placa) LPDDR4
 - Pantalla de 15.6" Full HD (1920 x 1080)
+- Memoria RAM de 8GB (en placa) LPDDR4
+- Chrome OS
+- Tarjeta gráfica integrada Intel HD Graphics 500
 - Procesador Intel Core N3350 (1.1GHz, 2MB)
 - Almacenamiento de 64GB eMMC
-- Tarjeta gráfica integrada Intel HD Graphics 500
-- Chrome OS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CMTT4FW/?tag=tolees-21)
