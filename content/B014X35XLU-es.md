@@ -28,9 +28,9 @@ Tienes [Panasonic LUMIX H-H025 - Objetivo Focal fija para cámaras de montura M4
 
 ℹ️:
 
+- Montura para micro cuatro tercios
 - Compatible con cámara Panasonic Lumix G
 - Tamaño del filtro de 4.6 cm
-- Montura para micro cuatro tercios
 - Apertura de f/1.7
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B014X35XLU/?tag=tolees-21)

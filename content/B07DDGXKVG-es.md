@@ -30,9 +30,9 @@ Ahora mismo tienes [Panasonic KX-TU150EXB - Teléfono Móvil Dual SIM  Pantalla 
 
 - Compatibilidad con audífonos: te permite disfrutar de conversaciones que se escuchan con claridad en todo momento, está diseñado especialmente para su uso con audífonos
 - Pantalla de 2.4 pulgadas para una fácil lectura, gracias a su brillante pantalla permite una buena visión incluso sin gafas
-- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
-- Duración batería en reposo 800hs
 - Botones iluminados de gran tamaño: su diseño intuitivo permite marcar los números de manera fácil, incluso en la oscuridad
 - Luz LED brillante: el LED brillante de la parte superior es muy práctico, te permitirá iluminar todo lo que necesites, tanto al volver a casa de noche como al buscar tus gafas en la oscuridad
+- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
+- Duración batería en reposo 800hs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDGXKVG/?tag=tolees-21)
