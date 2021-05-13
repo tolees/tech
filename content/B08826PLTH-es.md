@@ -28,10 +28,10 @@ Está [ASUS ROG Strix Z490-G Gaming  WI-FI  - Placa Base Gaming mATX Intel de 10
 
 ℹ️:
 
-- La mejor conectividad gaming: Conectores USB 3.2 gen 2 de tipo A y tipo C, dos ranuras M.2 PCIe 3.0, HDMI 1.4 y DisplayPort 1.4
-- Socket LGA 1200 para la 10a gen de procesadores Intel Core
 - Redes de alto rendimiento: Intel Wi-Fi 6 AX201 (802.11 ax) e Intel 2.5 GB Ethernet con ASUS LANGuard
 - Suministro energético optimizado: 12+2 etapas VRM con tomas de alimentación ProCool II, bobinas choke y condensadores de alta calidad para los nuevos procesadores de múltiples núcleos
+- La mejor conectividad gaming: Conectores USB 3.2 gen 2 de tipo A y tipo C, dos ranuras M.2 PCIe 3.0, HDMI 1.4 y DisplayPort 1.4
 - Control inteligente: Las herramientas asistidas por IA de overclocking, refrigeración y redes te ayudan a configurar tu sistema sin complicaciones
+- Socket LGA 1200 para la 10a gen de procesadores Intel Core
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08826PLTH/?tag=tolees-21)
