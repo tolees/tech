@@ -28,10 +28,10 @@ Ahora mismo tienes [Razer Kraken X USB - Auriculares Gaming con sonido envolvent
 
 🔎:
 
-- ALMOHADILLAS DE FORMA OVALADA Y DESLIZADOR DE DIADEMA AJUSTABLE: para una durabilidad y comodidad total, el diseño ovalado de piel sintética crea una sensación ajustada, cómoda y suave
+- MICRÓFONO CARDIOIDE PLEGABLE: elimina el ruido lateral y posterior; el patrón de captación cardioide graba el sonido desde un ángulo preciso
 - ILUMINACIÓN EN LAS ALMOHADILLAS: Para un toque extra en los juegos
 - SONIDO ENVOLVENTE: audio posicional preciso para gozar de una ventaja competitiva; solo disponible para Windows 10 de 64 bits
-- MICRÓFONO CARDIOIDE PLEGABLE: elimina el ruido lateral y posterior; el patrón de captación cardioide graba el sonido desde un ángulo preciso
+- ALMOHADILLAS DE FORMA OVALADA Y DESLIZADOR DE DIADEMA AJUSTABLE: para una durabilidad y comodidad total, el diseño ovalado de piel sintética crea una sensación ajustada, cómoda y suave
 - DIAFRAGMAS OPTIMIZADOS DE 40 MM: claridad de alto sonido y unos graves potentes para lograr un paisaje sonoro más amplio; desde pasos sutiles hasta potentes explosiones, el audio del juego simula la vida real con todo detalle
 - LIGEROS: ligeros, solo pesan 275 g, te permitirán disfrutar de un audio de alta calidad mientras juegas durante horas sin sentir el peso de tus auriculares
 
