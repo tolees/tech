@@ -29,9 +29,9 @@ Tienes [BELK Funda para MacBook Pro 13 Pulgadas M1 2021 2020 2019 2018 2017  Rí
 🔎:
 
 - Alta calidad, elegante y duradero, protege su MacBook contra rasguños ,suciedad y otros daños.
-- El diseño le permite abrir / cerrar completamente su MacBook y acceder a todos los puertos.
 - Específicamente diseñado para MacBook Pro 13.3 pulgadas 2016-2021 (Modelo: M1 A2338/A2251/A2289/A2159/A1989/A1708/A1706).Verifique el número de modelo "Axxxx" en la parte posterior del MacBook antes de realizar la compra.
 - De dos piezas, ligero.Belk 1 año de garantía en todos los casos.
+- El diseño le permite abrir / cerrar completamente su MacBook y acceder a todos los puertos.
 - Sin diseño recortado, la transparencia es diferente de un color a otro.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GPLWR4Y/?tag=tolees-21)
