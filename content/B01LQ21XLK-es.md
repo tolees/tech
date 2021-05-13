@@ -28,10 +28,10 @@ Está [HP LaserJet Pro M203dn - Impresora láser monocromo  Ethernet  G3Q46A ](h
 
 ℹ️:
 
-- Conectividad estándar puerto Hi-Speed USB 2.0 y Ethernet
-- Ciclo mensual del trabajo de hasta 30.000 páginas A4
-- Esta impresora es compatible con los cartuchos de láser originales HP 30A y 30X
-- Bandeja de entrada principal de hasta 260 hojas, bandeja de salida de hasta 150 hojas. Impresión a doble cara.
 - Imprime con velocidades de impresión de 28 ppm en negro
+- Ciclo mensual del trabajo de hasta 30.000 páginas A4
+- Bandeja de entrada principal de hasta 260 hojas, bandeja de salida de hasta 150 hojas. Impresión a doble cara.
+- Esta impresora es compatible con los cartuchos de láser originales HP 30A y 30X
+- Conectividad estándar puerto Hi-Speed USB 2.0 y Ethernet
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LQ21XLK/?tag=tolees-21)
