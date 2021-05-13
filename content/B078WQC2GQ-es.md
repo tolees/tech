@@ -29,8 +29,8 @@ Ahora mismo tienes [Samsung V-Nand SSD 860 EVO SATA M.2  250 GB  550 MB/s Seq Re
 🔎:
 
 - Dispone de interfaz M.2
-- Lectura secuencial: 550MB/s
-- Escritura secuencial: 520MB/s
 - Velocidad de transferencia de datos: 550 MB por segundo
+- Escritura secuencial: 520MB/s
+- Lectura secuencial: 550MB/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078WQC2GQ/?tag=tolees-21)
