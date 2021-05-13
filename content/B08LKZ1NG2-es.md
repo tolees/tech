@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Connected Smartwatch Gen 5e para  al 30.00 % de descuento'
-date: 2021-05-12 13:47:37
+date: 2021-05-13 16:12:00
 image: 'https://m.media-amazon.com/images/I/41Ow2neePBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
