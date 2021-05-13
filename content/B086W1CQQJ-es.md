@@ -28,10 +28,10 @@ Está [Estink - Webcam - Cámara Web HD de 12 MP con micrófono y rotación de 3
 
 ℹ️:
 
-- De izquierda y derecha 360 grados, arriba y abajo 30 grados giratorios, es posible ajustar el ángulo a su gusto.
+- Micrófono incorporado para absorción de sonido, su voz se puede escuchar claramente a 10 metros.
 - Compatible con CC2000, AIM, Netmeeting, ICQ, MSN Messenger, Yahoo Messenger y Skype, etc.
 - 0,3 millones de píxeles, imágenes de alta definición y colores reales.
-- Micrófono incorporado para absorción de sonido, su voz se puede escuchar claramente a 10 metros.
+- De izquierda y derecha 360 grados, arriba y abajo 30 grados giratorios, es posible ajustar el ángulo a su gusto.
 - Lente óptica especializada, alta precisión.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086W1CQQJ/?tag=tolees-21)
