@@ -28,10 +28,10 @@ En este momento está [realme 7 Pro - Smartphone de 6.4""  8GB RAM + 128GB ROM  
 
 🔎:
 
-- Procesador snapdragon 720g
-- Sony 64mp quad camera
 - Sistema operativo: Android 10.0
-- 65w carga superdart
+- Procesador snapdragon 720g
 - Pantalla 6.4 super amoled fullscreen
+- Sony 64mp quad camera
+- 65w carga superdart
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JQHNDLX/?tag=tolees-21)

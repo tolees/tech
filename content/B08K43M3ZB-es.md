@@ -29,9 +29,9 @@ En este momento está [Capturadora De Video HDMI a USB 2.0 Vídeo Game Capture 1
 🔎:
 
 - [Ámbito de aplicación] Aplicable a grabación de video, juegos en tiempo real, enseñanza en línea, grabación de conferencias, imágenes médicas etc. Y se puede guardar permanentemente en la computadora para verla repetidamente. Transmisión de alta velocidad, sin demora. Puede usar las funciones integradas del software actual para obtener una experiencia de video fluida.
+- 【Compatibilidad】: nuestra tarjeta de captura de video es compatible con la mayoría de los programas de adquisición, como VLC / OBS / Amcap, etc. Y también es compatible con Windows / Android / MacOS.
 - [Grabación de alta resolución] Grabación de video - Admite la resolución de entrada máxima 3840 × 2160 @ 30Hz, la resolución de salida máxima 1920 × 1080 @ 30Hz. Grabe videos de alta definición de 60fps directamente en su disco duro sin demora.
 - 【NO NECESITA CONDUCTOR】 Esta tarjeta de captura no necesita instalar un controlador, por lo que puede utilizar las funciones integradas del software actual para obtener una experiencia perfecta. El puerto de transmisión de alta velocidad USB 2.0 te facilita la transmisión en tiempo real para Twitch, para Youtube, para OBS, para Potplayer y para VLC.
-- 【Compatibilidad】: nuestra tarjeta de captura de video es compatible con la mayoría de los programas de adquisición, como VLC / OBS / Amcap, etc. Y también es compatible con Windows / Android / MacOS.
 - [Plug and Play compacto y portátil] No es necesario instalar ningún controlador. Puede conectar la fuente de señal UHD y el puerto de entrada HDMI de la tarjeta de captura USB a través de un cable HDMI. No necesita fuente de alimentación externa, compacta y fácil de transportar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K43M3ZB/?tag=tolees-21)
