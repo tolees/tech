@@ -28,9 +28,9 @@ Ahora mismo tienes [Album de fotos Fujifilm Instax Wide](https://www.amazon.es/d
 
 🔎:
 
-- Capacidad 80 fotos – 4 fotos por página
 - Cobertura semirígido tacto piel
 - Álbum
+- Capacidad 80 fotos – 4 fotos por página
 - Para fotos Instax formato Wide (108 x86 mm)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GFQRB7W/?tag=tolees-21)

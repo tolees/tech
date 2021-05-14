@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GP66 Leopard 10UE-226XES - Ordenador con un 20.00 % de descuento'
-date: 2021-05-13 10:33:56
+date: 2021-05-14 12:19:59
 image: 'https://m.media-amazon.com/images/I/41zZH6QXsML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [MSI GP66 Leopard 10UE-226XES - Ordenador portátil de 15.
 
 🔎:
 
-- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
-- Almacenamiento SSD de 1 TB
 - Procesador Intel Core i7 -10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.0 GHz)
-- Sistema operativo Free DOS
+- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
 - Pantalla de 15.6" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
+- Almacenamiento SSD de 1 TB
+- Sistema operativo Free DOS
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SC33KBS/?tag=tolees-21)
