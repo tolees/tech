@@ -28,11 +28,11 @@ En este momento está [realme 7 Pro - Smartphone de 6.4"  8GB RAM + 128GB ROM  p
 
 🔎:
 
-- Pantalla 6.4 Super AMOLED Fullscreen
-- Tamaño de pantalla: 6.4 inches
-- Procesador Snapdragon 720G
-- Sistema operativo: Android 10.0
 - Sony 64MP Quad Camera
+- Tamaño de pantalla: 6.4 inches
+- Sistema operativo: Android 10.0
+- Pantalla 6.4 Super AMOLED Fullscreen
+- Procesador Snapdragon 720G
 - 65W Carga SuperDart
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JQGDZRJ/?tag=tolees-21)

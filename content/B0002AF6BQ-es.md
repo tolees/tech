@@ -28,10 +28,10 @@ Está [Fellowes 29702 - Alfombrilla estándar para ratón  22.9 x 20.3 x 0.5 cm 
 
 ℹ️:
 
-- Alfombrilla para ratón fabricada con base de goma anti-deslizante
-- Alfombrilla apta para ratón óptico
+- Superficie de poliéster resistente que permite una mayor tracción del ratón
 - Colores elegantes que combinan con todos los entornos de trabajo
 - Disponible en 4 colores
-- Superficie de poliéster resistente que permite una mayor tracción del ratón
+- Alfombrilla para ratón fabricada con base de goma anti-deslizante
+- Alfombrilla apta para ratón óptico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0002AF6BQ/?tag=tolees-21)

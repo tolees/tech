@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PowerShot G7 X Mark II - Cámara di al 17.19 % de descuento'
-date: 2021-05-13 08:38:52
+date: 2021-05-14 10:14:25
 image: 'https://m.media-amazon.com/images/I/41R-no09uZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B01BYERRUG/?tag=tolees-21'
 descuento: '17.19'
-average: '532.346363636363'
+average: '532.244347826086'
 ---
 
 Está [Canon PowerShot G7 X Mark II - Cámara digital compacta de 20.1 MP  pantalla de 3"  apertura f/1.8-2.8  zoom óptico de 4.2x  video full HD  WiFi   color negro](https://www.amazon.es/dp/B01BYERRUG/?tag=tolees-21) con 17.19 de descuento por 530.0 EUR (original: 639.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Canon PowerShot G7 X Mark II - Cámara digital compacta de 20.1 MP  panta
 
 ℹ️:
 
-- Buena calidad en la captura tanto de vídeos Full HD como imágenes fijas
-- Calidad de imagen de experto en cualquier luz
-- Capacidad para la creatividad sin esfuerzo
-- Comparta sus bellas creaciones con el mundo
 - Toma el control de manera simple
+- Buena calidad en la captura tanto de vídeos Full HD como imágenes fijas
+- Capacidad para la creatividad sin esfuerzo
+- Calidad de imagen de experto en cualquier luz
+- Comparta sus bellas creaciones con el mundo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BYERRUG/?tag=tolees-21)
