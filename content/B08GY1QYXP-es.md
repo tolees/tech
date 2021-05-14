@@ -28,10 +28,10 @@ Está [SanDisk Ultra SDHC  Tarjeta de memoria de 64 GB  hasta 120 MB/s  Class 10
 
 ℹ️:
 
-- Hasta 256 GB para almacenar infinidad de fotografías e incluso más vídeos Full HD
-- Excepcional rendimiento de grabación de vídeo con una clasificación UHS Speed Class 1 (U1) y Class 10 para vídeos Full HD (1080p)
-- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
 - Rápidas velocidades de transferencia de hasta 120 MB/s para hacer copias de seguridad de tus momentos favoritos
+- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
+- Excepcional rendimiento de grabación de vídeo con una clasificación UHS Speed Class 1 (U1) y Class 10 para vídeos Full HD (1080p)
+- Hasta 256 GB para almacenar infinidad de fotografías e incluso más vídeos Full HD
 - Compatible con el lector de tarjetas SanDisk SD UHS-I para velocidades de hasta 120 MB/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GY1QYXP/?tag=tolees-21)

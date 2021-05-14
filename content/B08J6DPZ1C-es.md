@@ -28,15 +28,15 @@ Está [2020 Apple iPad Air  de 10 9 Pulgadas  con Wi-Fi y 64 GB  - Oro Rosa  
 
 ℹ️:
 
-- Hasta 10 horas de autonomía
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
-- Touch ID para autenticarse deforma segura y usar Apple Pay
-- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Conector USB-C para cargar el iPad y conectar accesorios
 - Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
+- Hasta 10 horas de autonomía
+- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Touch ID para autenticarse deforma segura y usar Apple Pay
+- Chip A14 Bionic con Neural Engine
 - Sonido estéreo amplio
 - Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
-- Conector USB-C para cargar el iPad y conectar accesorios
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
 - Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
-- Chip A14 Bionic con Neural Engine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6DPZ1C/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair MM800 RGB - Alfombrilla de ratón al 28.58 % de descuento'
-date: 2021-05-10 11:01:10
+date: 2021-05-14 17:48:23
 image: 'https://m.media-amazon.com/images/I/41xu4VWOArL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B01LFGOH6A/?tag=tolees-21'
 descuento: '28.58'
-average: '49.485'
+average: '49.586'
 ---
 
 Está [Corsair MM800 RGB - Alfombrilla de ratón para juego  medio  15 zonas RGB  superficie dura   negro](https://www.amazon.es/dp/B01LFGOH6A/?tag=tolees-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Corsair MM800 RGB - Alfombrilla de ratón para juego  medio  15 zonas RGB
 
 ℹ️:
 
-- Sincronice todos los productos para juegos RGB Corsair gracias al modo Lighting Link de CUE
 - Sus 15 zonas RGB individuales incluyen la tecnología de iluminación PWM para representar el color con precisión
+- Sincronice todos los productos para juegos RGB Corsair gracias al modo Lighting Link de CUE
+- Incluye un puerto de interconexión USB integrado para conectar el ratón
 - Ofece un seguimiento rápido y preciso al píxel y está calibrado tanto para ratones de sensor óptico como láser
 - La modulación de ancho de pulso reproduce la paleta de color con la mayor precisión
-- Incluye un puerto de interconexión USB integrado para conectar el ratón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LFGOH6A/?tag=tolees-21)
