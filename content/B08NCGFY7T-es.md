@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 B11M-090XES - Ordenador po al 23.00 % de descuento'
-date: 2021-05-11 20:21:18
+date: 2021-05-14 06:23:20
 image: 'https://m.media-amazon.com/images/I/41w-MWnG0sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08NCGFY7T/?tag=tolees-21'
 descuento: '23.00'
-average: '843.323333333333'
+average: '832.847142857143'
 ---
 
 Ahora mismo tienes [MSI Modern 14 B11M-090XES - Ordenador portátil de 14" FullHD  Intel Core i7-1165G7  16 GB RAM  512 GB SSD  Irixe Xe Graphics  sin sistema operativo  Beige Mousse - Teclado QWERTY Español](https://www.amazon.es/dp/B08NCGFY7T/?tag=tolees-21) a 769.99 EUR (original: 999.99 EUR) (23.00 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [MSI Modern 14 B11M-090XES - Ordenador portátil de 14" FullH
 
 🔎:
 
-- Sin sistema operativo
-- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
-- Disco SSD de 512 GB NVMe PCIe Gen3x4
-- Memoria RAM DDR IV 16 GB (3200 MHz)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Disco SSD de 512 GB NVMe PCIe Gen3x4
 - Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 45% NTSC Thin Bezel
+- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
+- Memoria RAM DDR IV 16 GB (3200 MHz)
+- Sin sistema operativo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NCGFY7T/?tag=tolees-21)
