@@ -28,10 +28,10 @@ Tienes [Exquisite Gaming - Exquisite Gaming - Cable guy The Mandalorian   soport
 
 🔎:
 
-- Producto con licencia oficial de Disney.
-- Incluye cable de carga de 2 metros (conector lightning, mini USB y USB).
 - Personaje Mandalorian the Child de Star Wars - Disney.
-- Compatible con todos los teléfonos móviles o smartphones actuales.
+- Incluye cable de carga de 2 metros (conector lightning, mini USB y USB).
 - Compatible con mando o controller PS4, PS5, Xbox one y Xbox X Series.
+- Compatible con todos los teléfonos móviles o smartphones actuales.
+- Producto con licencia oficial de Disney.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LB7TL94/?tag=tolees-21)

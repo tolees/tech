@@ -29,10 +29,10 @@ Tienes [HP DeskJet 3762 - Impresora de tinta multifunción  8 ppm  4800 x 1200 D
 🔎:
 
 - Despreocúpate por quedarte sin tinta
-- Haz tu vida más fácil: esta impresora multifunción imprime y escanea desde el móvil o tablet - todo para facilitarte tus tareas del día a día
-- Compacta y conveniente: disfruta de la impresora multifunción más pequeña del mundo. colócala donde quieras a su diseño compacto. además, sus líneas estilizadas harán que no desentone en ningún lugar
 - Nuestra app móvil para imprimir más potente: la gran valorada aplicación de impresión desde el móvil hp smart app te permite imprimir y escanear documentos con total facillidad
 - Fácil de utilizar: imprime fácilmente y sin esfuerzos gracias a su sencillo panel de control
 - Ahorra tiempo y dinero: con hp instant ink, tendrás siempre tinta original de hp para que imprimas cuanto necesites y que siempre esté disponible a un precio que te costará creer
+- Compacta y conveniente: disfruta de la impresora multifunción más pequeña del mundo. colócala donde quieras a su diseño compacto. además, sus líneas estilizadas harán que no desentone en ningún lugar
+- Haz tu vida más fácil: esta impresora multifunción imprime y escanea desde el móvil o tablet - todo para facilitarte tus tareas del día a día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GZY34LP/?tag=tolees-21)
