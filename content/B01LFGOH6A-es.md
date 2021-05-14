@@ -29,9 +29,9 @@ Está [Corsair MM800 RGB - Alfombrilla de ratón para juego  medio  15 zonas RGB
 ℹ️:
 
 - Incluye un puerto de interconexión USB integrado para conectar el ratón
-- Sincronice todos los productos para juegos RGB Corsair gracias al modo Lighting Link de CUE
+- Ofece un seguimiento rápido y preciso al píxel y está calibrado tanto para ratones de sensor óptico como láser
 - Sus 15 zonas RGB individuales incluyen la tecnología de iluminación PWM para representar el color con precisión
 - La modulación de ancho de pulso reproduce la paleta de color con la mayor precisión
-- Ofece un seguimiento rápido y preciso al píxel y está calibrado tanto para ratones de sensor óptico como láser
+- Sincronice todos los productos para juegos RGB Corsair gracias al modo Lighting Link de CUE
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LFGOH6A/?tag=tolees-21)
