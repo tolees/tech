@@ -28,10 +28,10 @@ Tienes [Sony MDR-ZX110 - Auriculares cerrados stereo  rosa](https://www.amazon.e
 
 ℹ️:
 
-- Diafragmas tipo cúpula de 30 mm
 - Cascos acolchados para una escucha cómoda
-- Rango de frecuencia de 12 Hz a 22 kHz
-- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
 - Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
+- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
+- Rango de frecuencia de 12 Hz a 22 kHz
+- Diafragmas tipo cúpula de 30 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NBR705M/?tag=tolees-21)

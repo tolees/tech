@@ -28,15 +28,15 @@ Está [2020 Apple iPad  de 10 2 Pulgadas  con Wi-Fi y 128 GB  - Oro  8.ª gen
 
 ℹ️:
 
-- Hasta 10 horas de autonomía
 - Touch ID para autenticarse deforma segura y usar Apple Pay
-- Redes wifi 802.11ac y 4G LTE Advanced
-- Altavoces estéreo
-- Espectacular pantalla Retina de 10,2 pulgadas
-- Chip A12 Bionic con Neural Engine
-- Conector Lightning para cargar el iPad y conectar accesorios
-- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
-- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
 - Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
+- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
+- Redes wifi 802.11ac y 4G LTE Advanced
+- Chip A12 Bionic con Neural Engine
+- Espectacular pantalla Retina de 10,2 pulgadas
+- Hasta 10 horas de autonomía
+- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
+- Conector Lightning para cargar el iPad y conectar accesorios
+- Altavoces estéreo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6GTBLZ/?tag=tolees-21)
