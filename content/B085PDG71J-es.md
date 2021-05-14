@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 314 - Portátil 14" HD  I al 16.99 % de descuento'
-date: 2021-05-12 11:45:18
+date: 2021-05-14 09:37:19
 image: 'https://m.media-amazon.com/images/I/417WoEsc-6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B085PDG71J/?tag=tolees-21'
 descuento: '16.99'
-average: '260.380344827588'
+average: '260.001333333335'
 ---
 
 Está [Acer Chromebook 314 - Portátil 14" HD  Intel Celeron N4020  4GB RAM  32GB eMMc  Intel UHD Graphics  Chrome OS   Color Plata - Teclado Qwerty Español](https://www.amazon.es/dp/B085PDG71J/?tag=tolees-21) con 16.99 de descuento por 249.01 EUR (original: 299.99 EUR) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [Acer Chromebook 314 - Portátil 14" HD  Intel Celeron N4020  4GB RAM  32G
 
 ℹ️:
 
-- Descubre Chromebook, una generación de portátiles sencillos, rápidos que funcionan con el sistema operativo “Chrome OS” desarrollado por Google
-- Pantalla de 14" HD 1366 x 786 píxeles, LED
-- Procesador Intel Celeron N4020 (2C 1.10GHz)
 - Sistema operativo Chrome OS
-- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano (requiere conexión a internet)
+- Procesador Intel Celeron N4020 (2C 1.10GHz)
+- Descubre Chromebook, una generación de portátiles sencillos, rápidos que funcionan con el sistema operativo “Chrome OS” desarrollado por Google
 - Tarjeta gráfica Integrada Intel UHD Graphics
-- Almacenamiento de 32GB eMMC
+- Pantalla de 14" HD 1366 x 786 píxeles, LED
 - Memoria RAM de 4GB DDR4
+- Almacenamiento de 32GB eMMC
+- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano (requiere conexión a internet)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PDG71J/?tag=tolees-21)
