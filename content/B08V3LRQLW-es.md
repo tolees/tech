@@ -28,10 +28,10 @@ En este momento está [Spigen Funda Rugged Armor Compatible con Xiaomi Redmi Not
 
 🔎:
 
-- Grabado interior de tela de araña para absorción de impactos
-- Material de TPU con diseño exterior de fibra de carbono.
 - Funda Compatible con Xiaomi Redmi Note 10 Pro
-- Tecnología de Air cushion para la protección de todas las esquinas
+- Grabado interior de tela de araña para absorción de impactos
 - Biseles elevados para proteger la pantalla y la cámara de superficies planas
+- Tecnología de Air cushion para la protección de todas las esquinas
+- Material de TPU con diseño exterior de fibra de carbono.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V3LRQLW/?tag=tolees-21)

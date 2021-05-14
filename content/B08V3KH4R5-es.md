@@ -28,9 +28,9 @@ Tienes [Spigen Funda Tough Armor Compatible con Xiaomi Redmi Note 10 Pro y Compa
 
 ℹ️:
 
-- Soporte reforzado para visualización con manos libres
-- Biseles elevados para proteger la pantalla y la cámara de superficies planas
 - Tecnología de Air cushion para la protección de todas las esquinas
+- Biseles elevados para proteger la pantalla y la cámara de superficies planas
+- Soporte reforzado para visualización con manos libres
 - Diseño de doble capa de policarbonato y TPU
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08V3KH4R5/?tag=tolees-21)
