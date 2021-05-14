@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Cellularline SMGALAXYS8 Fundas Galaxy S8 al 48.26 % de rebaja'
-date: 2020-05-27 21:15:38
-image: 'https://m.media-amazon.com/images/I/51lD2IR5DNL._SL400_.jpg'
+title: 'INTERPHONE SMGALAXYS8 Fundas Galaxy S8 p al 20.16 % de rebaja'
+date: 2021-05-14 20:43:33
+image: 'https://m.media-amazon.com/images/I/51lD2IR5DNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0774XKYYD-es Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto Negro'
+slug: 'B0774XKYYD-es INTERPHONE SMGALAXYS8 Fundas Galaxy S8 para Moto Negro'
 sku: 'B0774XKYYD-es'
-tags: [ 'galaxy', ]
-actualPrice: 30.99 EUR
+tags: [ 'Accesorios para móviles','Comunicación móvil y accesorios','Electrónica','Soportes para móviles','galaxy','interphone', ]
+actualPrice: 19.8 EUR
 currency: EUR
-price: 30.99
-comparePrice: 59.9 EUR
-prodname: 'Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro'
+price: 19.8
+comparePrice: 24.8 EUR
+prodname: 'INTERPHONE SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Interphone'
 buyurl: 'https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21'
-descuento: '48.26'
-average: '30.99'
+descuento: '20.16'
+average: '27.26'
 ---
 
-Tienes [Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21) con precio final de  30.99 EUR (original: 59.9 EUR) (48.26 %  de rebaja) aqui!
+Tienes [INTERPHONE SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21) con precio final de  19.8 EUR (original: 24.8 EUR) (20.16 %  de rebaja) aqui!
 
-[![Cellularline SMGALAXYS8 Fundas Galaxy S8](https://m.media-amazon.com/images/I/51lD2IR5DNL._SL400_.jpg)](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21)
+[![INTERPHONE SMGALAXYS8 Fundas Galaxy S8 p](https://m.media-amazon.com/images/I/51lD2IR5DNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21)
 
 🔎:
 
+- Galaxy s8 soporte para linea motocicleta
+- De alta calidad
+- Producto de la marca cellularline
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21)

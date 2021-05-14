@@ -28,9 +28,9 @@ Tienes [Samsung Odyssey G7 LC27G73TQSRXEN - Monitor Curvo Gaming de 27   WQHD  2
 
 🔎:
 
-- La curvatura 1000R se ajusta a los contornos del ojo humano para un realismo óptimo
-- Monitor curvo gaming de 27" con resolución WQHD (2560 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED colores realistas
 - HDR600 ofrece contraste con tonos negros profundos y blancos intensos
+- Monitor curvo gaming de 27" con resolución WQHD (2560 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED colores realistas
+- La curvatura 1000R se ajusta a los contornos del ojo humano para un realismo óptimo
 - Freesync Premium Pro y Gsync compatible, evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual
 - Con un 1 ms de tiempo de respuesta y una tasa de refresco de 140 Hz se consigue una jugabilidad fluida
 
