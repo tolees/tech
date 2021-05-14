@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Flair Memoria flash USB 3. al 21.40 % de descuento'
-date: 2021-05-11 09:50:09
+date: 2021-05-14 13:35:36
 image: 'https://m.media-amazon.com/images/I/319eGONQ8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B015CH1PJU/?tag=tolees-21'
 descuento: '21.40'
-average: '17.1266081871343'
+average: '17.0903468208091'
 ---
 
 Está [SanDisk Ultra Flair Memoria flash USB 3.0 de 128 GB  con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura  Negro](https://www.amazon.es/dp/B015CH1PJU/?tag=tolees-21) con 21.40 de descuento por 13.99 EUR (original: 17.8 EUR) en el siguiente enlace!
