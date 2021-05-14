@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Apple MacBook Air con Chip M1 de Apple   al 20.36 % de rebaja'
-date: 2021-05-11 06:09:41
+title: '2020 Apple MacBook Air con Chip M1 de Ap al 15.06 % de rebaja'
+date: 2021-05-14 21:45:19
 image: 'https://m.media-amazon.com/images/I/31+G-o8iK-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08N5WM84C-es Apple MacBook Air con Chip M1 de Apple de 13 Pulgadas 8 GB...'
+slug: 'B08N5WM84C-es 2020 Apple MacBook Air con Chip M1 de Apple de 13 Pulgadas...'
 sku: 'B08N5WM84C-es'
 tags: [ 'Informática','Portátiles','apple','ram', ]
-actualPrice: 899.1 EUR
+actualPrice: 959.0 EUR
 currency: EUR
-price: 899.1
+price: 959.0
 comparePrice: 1129.0 EUR
-prodname: 'Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256 GB SSD  - Oro  noviembre 2020 '
+prodname: '2020 Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256 GB SSD  - Oro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21'
-descuento: '20.36'
-average: '1041.14714285715'
+descuento: '15.06'
+average: '1035.67066666667'
 ---
 
-Tienes [Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256 GB SSD  - Oro  noviembre 2020 ](https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21) con precio final de  899.1 EUR (original: 1129.0 EUR) (20.36 %  de rebaja) aqui!
+Tienes [2020 Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256 GB SSD  - Oro](https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21) con precio final de  959.0 EUR (original: 1129.0 EUR) (15.06 %  de rebaja) aqui!
 
-[![Apple MacBook Air con Chip M1 de Apple  ](https://m.media-amazon.com/images/I/31+G-o8iK-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21)
+[![2020 Apple MacBook Air con Chip M1 de Ap](https://m.media-amazon.com/images/I/31+G-o8iK-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21)
 
 🔎:
 
-- GPU de hasta ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
-- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
-- Memoria unificada de 8 GB para que todo sea rápido y fluido
-- Pantalla Retina de 13,3 pulgadas con gama cromática amplia (P3) para ofrecer colores realistas y un nivel de detalle increíble
-- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
-- Diseño sin ventilador para un funcionamiento ultrasilencioso
 - Almacenamiento SSD megarrápido para abrir apps y archivos al instante
-- Cámara FaceTime HD con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
+- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
 - CPU de ocho núcleos con un rendimiento hasta 3,5 veces superior para meter más caña a los proyectos
 - Autonomía de hasta 18 horas para disfrutar más que nunca
+- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
+- GPU de hasta ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
+- Memoria unificada de 8 GB para que todo sea rápido y fluido
+- Cámara FaceTime HD con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
+- Diseño sin ventilador para un funcionamiento ultrasilencioso
+- Pantalla Retina de 13,3 pulgadas con gama cromática amplia (P3) para ofrecer colores realistas y un nivel de detalle increíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08N5WM84C/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [INTERPHONE SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro](https://www.ama
 
 🔎:
 
+- Producto de la marca cellularline
 - Galaxy s8 soporte para linea motocicleta
 - De alta calidad
-- Producto de la marca cellularline
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21)
