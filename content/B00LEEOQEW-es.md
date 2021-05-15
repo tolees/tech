@@ -28,9 +28,9 @@ Tienes [Batterytec® 90W 19.5V 4.74A Adaptador de cargador para Sony Vaio VGP-AC
 
 ℹ️:
 
-- Por favor, asegúrese de que el tamaño del conector DC Salida cumple con el adaptador original antes de que usted haga una oferta! No dude en ponerse en contacto con nosotros si tiene alguna pregunta o inquietud.
-- Alimentation: AC100V ~ 240V,Salida: DC 19.5V 4.74A (90W), con 6.5mm/4.3mm salida estándar avanzado.
 - Normas de seguridad: FCC, CE, RoHS, utilizando materiales de alta calidad para la fabricación, probados con las normas de control de calidad.
+- Por favor, asegúrese de que el tamaño del conector DC Salida cumple con el adaptador original antes de que usted haga una oferta! No dude en ponerse en contacto con nosotros si tiene alguna pregunta o inquietud.
 - Piezas nuevas de la marca Product.Full 12 meses de garantía.
+- Alimentation: AC100V ~ 240V,Salida: DC 19.5V 4.74A (90W), con 6.5mm/4.3mm salida estándar avanzado.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LEEOQEW/?tag=tolees-21)
