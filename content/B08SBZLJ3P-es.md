@@ -28,11 +28,11 @@ En este momento está [MSI GP66 Leopard 10UE-065ES - Ordenador portátil de 15.6
 
 🔎:
 
-- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 - Sistema operativo Windows 10 Home Advanced
-- Almacenamiento SSD de 1 TB
-- Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
 - Pantalla de 15.6" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
+- Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
+- Almacenamiento SSD de 1 TB
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
+- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SBZLJ3P/?tag=tolees-21)
