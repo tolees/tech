@@ -28,9 +28,9 @@ Está [MARSGAMING - Mars Gaming MKREVOES  Teclado Gaming TKL + Pad Numérico  RG
 
 ℹ️:
 
-- DURABILIDAD Y RENDIMIENTO: Cuenta con tecnología anti-ghosting , cable de doble nylon reforzado ultra-resistente y conector USB chapado en oro para ofrecerte una conectividad rápida y precisa; El teclado ha sido diseñado con materiales de calidad para asegurar una vida útil extendida y un rendimiento óptimo
-- TECLADO GAMING TKL+ PAD NUMÉRICO: El teclado Mars Gaming MKREVOPRO es un teclado revolucionario de tamaño compacto TKL con pad numérico incluido, ofreciéndote todas las posibilidades de un teclado estándar en un tamaño reducido y aprovechando así sus posibilidades; Con tecnología H-MECH, este teclado te ofrece una combinación de los teclados mecánicos y membrana para ofrecerte un rendimiento óptimo y adaptarse a tu forma de juego en cada momento
 - ILUMINACIÓN FULL RGB: Con 12 efectos de iluminación diferentes controlables, podrás personalizar tu escritorio y potenciar su estética a tu gusto; Controla cómodamente el volumen e iluminación de tu teclado mediante la rueda de control situada en la parte superior derecha de tu teclado
+- TECLADO GAMING TKL+ PAD NUMÉRICO: El teclado Mars Gaming MKREVOPRO es un teclado revolucionario de tamaño compacto TKL con pad numérico incluido, ofreciéndote todas las posibilidades de un teclado estándar en un tamaño reducido y aprovechando así sus posibilidades; Con tecnología H-MECH, este teclado te ofrece una combinación de los teclados mecánicos y membrana para ofrecerte un rendimiento óptimo y adaptarse a tu forma de juego en cada momento
+- DURABILIDAD Y RENDIMIENTO: Cuenta con tecnología anti-ghosting , cable de doble nylon reforzado ultra-resistente y conector USB chapado en oro para ofrecerte una conectividad rápida y precisa; El teclado ha sido diseñado con materiales de calidad para asegurar una vida útil extendida y un rendimiento óptimo
 - Teclado con Layout Español
 - COMPATIBILIDAD TOTAL: Con un compatibilidad multiplataforma, podrás utilizar el MKREVO en PS5, PS4, Switch, XBOX ONE, XBOX SERIES S/X, PC y Mac, y disfruta de sus infinitas posibilidades
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo PA-1650-72FN R0P9 - Cargador Adap con un 17.38 % de descuento'
-date: 2021-05-11 17:45:33
+date: 2021-05-15 13:00:48
 image: 'https://m.media-amazon.com/images/I/51bdVX1Ga+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Lenovo PA-1650-72FN R0P9 - Cargador Adaptador de alimenta
 
 🔎:
 
-- Input: 100-240V
-- Salida: 20V 3.5A 65W
 - Cable de alimentación europeo con cada cargador de portátil
+- Salida: 20V 3.5A 65W
+- Input: 100-240V
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00G4R0R8I/?tag=tolees-21)
