@@ -30,8 +30,8 @@ Ahora mismo tienes [SteelSeries Stratus Duo - Mando de juego inalámbrico  Andro
 
 - Ideal para móviles: juegos móviles sin necesidad de software en Android; emparéjalo y juega
 - Materiales de alta calidad: cómoda ergonomía del mando de tamaño completo y rendimiento de por vida
-- Batería recargable: más de 20 horas de uso ininterrumpido, así como la capacidad de jugar mientras se está cargando
-- 2,4 GHz inalámbrico: juegos sin retardo en Windows y más de 5000 juegos en Steam
 - Bluetooth inalámbrico: se empareja con Oculus Go, Samsung Gear VR, dispositivos móviles con Android y mucho más
+- 2,4 GHz inalámbrico: juegos sin retardo en Windows y más de 5000 juegos en Steam
+- Batería recargable: más de 20 horas de uso ininterrumpido, así como la capacidad de jugar mientras se está cargando
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MTWB122/?tag=tolees-21)
