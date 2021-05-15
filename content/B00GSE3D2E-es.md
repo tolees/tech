@@ -28,9 +28,9 @@ Ahora mismo tienes [Batterytec® 90W 15V 6A Adaptador de cargador para Toshiba P
 
 🔎:
 
+- Piezas nuevas de la marca Product.Full 12 meses de garantía.
 - Por favor, asegúrese de que el tamaño del conector DC Salida cumple con el adaptador original antes de que usted haga una oferta! No dude en ponerse en contacto con nosotros si tiene alguna pregunta o inquietud.
 - Normas de seguridad: FCC, CE, RoHS, utilizando materiales de alta calidad para la fabricación, estándares estafadores probado estricto control de calidad
 - Alimentation: AC100V ~ 240V,Salida: DC 15V 6A (90W), con 3.0mm/6.3mm salida estándar avanzado.
-- Piezas nuevas de la marca Product.Full 12 meses de garantía.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GSE3D2E/?tag=tolees-21)
