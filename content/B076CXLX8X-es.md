@@ -28,9 +28,9 @@ En este momento está [MARSGAMING Mars Gaming MRCP1  Pack 4en1 Teclado Cascos  R
 
 🔎:
 
-- RATÓN: Sensor óptico 2800DPI, 4 botones gaming, hasta 5 millones de pulsaciones
-- ALFOMBRILLA: Superficie de matriz de tela (velocidad) y base de caucho natural (agarre)
-- AURICULARES: 400mm neodimio, cancelación de ruido, plegable, omnidireccional, ajustable
 - TECLADO: 10 teclas multimedia y teclas pro-gaming rojas, anti-ghosting
+- RATÓN: Sensor óptico 2800DPI, 4 botones gaming, hasta 5 millones de pulsaciones
+- AURICULARES: 400mm neodimio, cancelación de ruido, plegable, omnidireccional, ajustable
+- ALFOMBRILLA: Superficie de matriz de tela (velocidad) y base de caucho natural (agarre)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076CXLX8X/?tag=tolees-21)
