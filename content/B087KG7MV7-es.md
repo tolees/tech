@@ -29,12 +29,12 @@ Ahora mismo tienes [Microsoft Surface Book 3 - Ordenador portátil convertible 2
 🔎:
 
 - SUSB-C y Surface Connect Display Ports
-- Memoria RAM de 8 GB LPDDR4
-- Sistema operativo Windows 10 Home
-- Pantalla táctil PixelSense de 13.5 pulgadas, 3000x2000 pixels
 - Procesador Quad-core 10ª Gen Intel Core i5-1035G7 (4 núcleos, 6 MB Cache, 1.30 GHz hasta 3.90 GHz)
-- Tarjeta gráfica Intel Iris Plus Graphics
-- Disco duro solido de 256 GB
 - No incluye lector CD/DVD
+- Sistema operativo Windows 10 Home
+- Disco duro solido de 256 GB
+- Pantalla táctil PixelSense de 13.5 pulgadas, 3000x2000 pixels
+- Memoria RAM de 8 GB LPDDR4
+- Tarjeta gráfica Intel Iris Plus Graphics
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087KG7MV7/?tag=tolees-21)
