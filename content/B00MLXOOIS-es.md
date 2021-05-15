@@ -28,10 +28,10 @@ Tienes [Sony CMT-X3CD - Sistema Hi-Fi Compacto de 20W con Bluetooth y NFC  Blanc
 
 ℹ️:
 
-- Potencia: 20 W
+- Radio AM/FM, reproducción de CD y USB
 - Sistema Hi-Fi con una potencia total de 20 W
 - Escucha con un solo toque con Bluetooth y NFC
-- Radio AM/FM, reproducción de CD y USB
 - Mega Bass para un sonido dinámico
+- Potencia: 20 W
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MLXOOIS/?tag=tolees-21)

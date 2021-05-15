@@ -29,9 +29,9 @@ Tienes [KANVASA Funda iPhone 11 Pro Tipo Libro Piel Negro Case Cover Carcasa Ple
 ℹ️:
 
 - GRAN FUNCIONALIDAD - Vea vídeos usando la función de soporte integrada. Un bolsillo extra para tarjetas le permite dejar su cartera en casa.
-- MANEJO CÓMODO - La parte trasera de la funda tiene una forma que se adapta perfectamente y de forma suave a su mano. El revestimiento de goma del interior de la funda acentúa aún más su agradable tacto.
-- ULTRA FINA - El modelo "Pro" de KANVASA ha sido diseñado para ser la funda plegable perfecta para el iPhone 11 Pro. Protectora, funcional, fina y elegante.
 - PROTECCIÓN TOTAL - Un potente imán cierra la funda de forma segura para conseguir la protección óptima para su iPhone 11 en todo momento.
+- ULTRA FINA - El modelo "Pro" de KANVASA ha sido diseñado para ser la funda plegable perfecta para el iPhone 11 Pro. Protectora, funcional, fina y elegante.
+- MANEJO CÓMODO - La parte trasera de la funda tiene una forma que se adapta perfectamente y de forma suave a su mano. El revestimiento de goma del interior de la funda acentúa aún más su agradable tacto.
 - PIEL AUTÉNTICA - Sólo utilizamos piel auténtica de cuero vacuno de la mayor calidad. Esto hace que nuestras fundas sean resistentes y tengan un tacto agradable al mismo tiempo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XD5Q5BV/?tag=tolees-21)
