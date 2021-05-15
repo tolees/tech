@@ -29,9 +29,9 @@ Está [Gigabyte Technology - GIGABYTE X570 AORUS Master - Placa base](https://ww
 ℹ️:
 
 - Soporta AMD 3ra generación Ryzen / 2da generación Ryzen / 2da generación Ryzen con Radeon Vega Graphics / Ryzen con Radeon Vega Graphics Processors
+- DDR4 sin búfer sin canalización ECC de doble canal, 4 DIMM
 - Solución de VRM digital Infineon de 14 fases directas con PowIRstage
 - Diseño térmico avanzado con disipador de calor de matriz de aletas y tubo de calor de contacto directo
-- DDR4 sin búfer sin canalización ECC de doble canal, 4 DIMM
 - NVMe PCIe 4.0 / 3.0 x4 M.2 ultrarrápido y triple protección térmica triple
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TTP5J1K/?tag=tolees-21)

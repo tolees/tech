@@ -28,10 +28,10 @@ Ahora mismo tienes [MARSGAMING - Mars Gaming MK5BRPT  Teclado Mecánico RGB + Re
 
 🔎:
 
-- TECLADO MECÁNICO: Teclado gaming MK5 cuenta con switches mecánicos OUTEMU SQ marrones para que disfrutes de una precisión extrema y un tacto clásico; Layout Portugués
-- COMPATIBILIDAD: Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
 - ILUMINACIÓN LED RGB: Sistema de Iluminación LED RGB que te premite disfrutar de hasta 18 efectos especiales y 10 perfiles personalizables a través de software
 - DISEÑO ERGONÓMICO: Reposamuñecas extraíble equipado con un acolchado ergonómico y móvil que te permite colocarlo a la distancia que necesites; Superficie memory foam que ayuda a proteger tus muñecas
+- TECLADO MECÁNICO: Teclado gaming MK5 cuenta con switches mecánicos OUTEMU SQ marrones para que disfrutes de una precisión extrema y un tacto clásico; Layout Portugués
+- COMPATIBILIDAD: Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
 - CHIP VISION MCU: El teclado cuenta con un chip integrado de alto rendimiento VISION MCU con arquitectura ARM de nivel 5-5, 32K ROM de almacenamiento; Capacidad Anti-Ghosting completo, múltiples macros y control de iluminación con software de control completo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BWSXHF2/?tag=tolees-21)
