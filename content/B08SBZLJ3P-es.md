@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GP66 Leopard 10UE-065ES - Ordenador  con un 15.44 % de descuento'
-date: 2021-05-11 22:40:07
+date: 2021-05-14 23:37:35
 image: 'https://m.media-amazon.com/images/I/41zZH6QXsML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [MSI GP66 Leopard 10UE-065ES - Ordenador portátil de 15.6
 
 🔎:
 
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
-- Sistema operativo Windows 10 Home Advanced
 - Pantalla de 15.6" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
 - Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
 - Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
+- Sistema operativo Windows 10 Home Advanced
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 - Almacenamiento SSD de 1 TB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SBZLJ3P/?tag=tolees-21)
