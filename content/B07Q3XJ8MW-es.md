@@ -28,9 +28,9 @@ En este momento está [PC Reacondicionado LENOVO M92P Tiny Intel Core I5 3470T 2
 
 🔎:
 
-- Windows 10 Pro
-- Intel Core I5 3470T 2.90 Ghz
 - RAM 8 GB
 - Hard DIsk 240 GB SSD
+- Intel Core I5 3470T 2.90 Ghz
+- Windows 10 Pro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q3XJ8MW/?tag=tolees-21)
