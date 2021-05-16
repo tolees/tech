@@ -28,10 +28,10 @@ En este momento está [Xiaomi Redmi Note 10 - Smartphone 4+128GB  6 43” pantal
 
 🔎:
 
+- Con una pantalla FHD+ AMOLED DotDisplay de 6,43", Redmi Note 10 es tan emocionante de ver como de usar y que, con su pantalla equilibrada y sin biseles logra una impresionante relación de aspecto 20:9
 - Desafía tus límites con 48 MP y con el software creativo, además, actualiza tu kit de herramientas creativas con los time-lapses Pro, el modo nocturno y otro gran software
 - Su cámara principal de 48 MP captura imágenes con un nivel de detalle impresionante, mientras que sus sensores de macro y profundidad de 2 MP permiten obtener imágenes de calidad en primer plano, además, la cámara cuádruple se completa con una cámara ultra gran angular de 8 MP para que los usuarios puedan tomar grandes fotografías de paisajes o imágenes de grupo sin temor a que nadie quede fuera del encuadre
-- Con una pantalla FHD+ AMOLED DotDisplay de 6,43", Redmi Note 10 es tan emocionante de ver como de usar y que, con su pantalla equilibrada y sin biseles logra una impresionante relación de aspecto 20:9
-- Con el Qualcomm Snapdragon 678 tienes un potente procesador octa-core con velocidades de reloj de hasta 2,2GHz y un procesador de 11 nm de bajo consumo, además de contar con almacenamiento UFS 2.2 con WriteBooster, teniendo tiempos de carga y navegación más rápidos
 - Los altavoces duales se encuentran tanto en la parte superior como en la inferior del dispositivo, ofreciendo una experiencia de sonido más envolvente para el usuario, además con su gigantesca batería de 5.000 mAh mantiene el dispositivo con energía incluso durante períodos de uso intenso además de contar con una rapidísima carga por cable de 33 W, casi dos veces más potente que la generación anterior
+- Con el Qualcomm Snapdragon 678 tienes un potente procesador octa-core con velocidades de reloj de hasta 2,2GHz y un procesador de 11 nm de bajo consumo, además de contar con almacenamiento UFS 2.2 con WriteBooster, teniendo tiempos de carga y navegación más rápidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XMM4T3M/?tag=tolees-21)
