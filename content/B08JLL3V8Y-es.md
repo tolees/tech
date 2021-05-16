@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'cigemay - Mini Teclado numérico USB  Tec con un 27.86 % de descuento'
-date: 2021-05-14 15:30:31
+date: 2021-05-16 13:45:48
 image: 'https://m.media-amazon.com/images/I/41O2U2Enf+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ En este momento está [cigemay - Mini Teclado numérico USB  Teclado numérico U
 
 - Diseño ultrafino, fácil de transportar. Se puede colocar cómodamente en un maletín o bolso para computadora portátil
 - Antideslizante, anticaída, no es fácil de usar. diseño de botón táctil, sensación cómoda de la mano
+- Adecuado para todo tipo de computadoras portátiles, computadoras de escritorio, etc.
 - Interfaz USB, fácil de instalar y usar. Plug and play, no requiere instalación de controlador
 - Ayuda a simplificar la entrada de una gran cantidad de datos, facilita la entrada de datos
-- Adecuado para todo tipo de computadoras portátiles, computadoras de escritorio, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JLL3V8Y/?tag=tolees-21)
