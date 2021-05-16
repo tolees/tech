@@ -28,10 +28,10 @@ En este momento está [Samyang F1111006101 - Objetivo fotográfico DSLR para Son
 
 🔎:
 
-- Montura para Sony E
-- Incluye parasol extraíble
 - Gran angular para cámaras con sensor Full Frame o APS-C
 - Compatible con filtros de 77mm
+- Montura para Sony E
+- Incluye parasol extraíble
 - Con revestimiento UMC anti-reflectante
 - Enfoque manual
 
