@@ -29,9 +29,9 @@ Está [Victure Cámara Vigilancia WiFi Interior  Actualizada 1080P DualBand 2.4G
 ℹ️:
 
 - 【LED IR de 850 nm】10 piezas de LED infrarrojos de 850 nm le permiten ver a su bebé ,perros o ladrón claramente en la oscuridad.
-- 【Control remoto】Utilice la aplicación móvil No importa dónde se encuentre, puede controlarlo de forma remota a través de la aplicación.
+- 【Audio bidireccional】Incluido el soporte de audio bidireccional con micrófono y altavoz integrados, pueden hablar con su amor cuando quieras.
 - 【VICTURE IP】 Camara puede detectar los movimientos y luego enviar notificaciones a su teléfono móvil para evitar la invasión a su casa.
 - 【Doble Banda】Compatible con Wi-Fi de doble banda, funciona con Wi-Fi de 2.4GHz y 5GHz.
-- 【Audio bidireccional】Incluido el soporte de audio bidireccional con micrófono y altavoz integrados, pueden hablar con su amor cuando quieras.
+- 【Control remoto】Utilice la aplicación móvil No importa dónde se encuentre, puede controlarlo de forma remota a través de la aplicación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WHGMJZ1/?tag=tolees-21)
