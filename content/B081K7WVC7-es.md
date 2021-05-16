@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi VXN4286GL POWERBANK REDMI Power Bank 10000MAH White](
 
 🔎:
 
-- Salidas Micro-USB y USB
 - Placa de administración de energía de óptimo calidad
-- Sensores capacitivos
-- Batería de 10000 mAh
 - Corriente máxima de 5.1V/2.6A
+- Batería de 10000 mAh
+- Salidas Micro-USB y USB
+- Sensores capacitivos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081K7WVC7/?tag=tolees-21)
