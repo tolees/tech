@@ -28,10 +28,10 @@ En este momento está [Motorola Baby MBP21 - Vigilabebés de audio DECT con 300 
 
 🔎:
 
-- Hasta 300 metros de alcance Navega por casa sin perder la conexión, con un alcance de hasta 300 m
-- Micrófono de alta sensibilidad El monitor del bebé dispone de un excelente micrófono integrado
-- Control de volumen Puede controlar los niveles de volumen desde la unidad parental en su dispositivo móvil
 - La tecnología DECT y Wifi Permite la no interferencia de audio y la conexión es totalmente segura y privada
+- Control de volumen Puede controlar los niveles de volumen desde la unidad parental en su dispositivo móvil
 - ¡Nota! Solo la unidad de los padres funciona con batería. Las unidades para bebés funcionan a través de un adaptador de CA
+- Micrófono de alta sensibilidad El monitor del bebé dispone de un excelente micrófono integrado
+- Hasta 300 metros de alcance Navega por casa sin perder la conexión, con un alcance de hasta 300 m
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BG3DJJ3/?tag=tolees-21)

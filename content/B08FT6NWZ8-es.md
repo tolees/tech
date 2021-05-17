@@ -29,12 +29,12 @@ En este momento está [NETGEAR Orbi WiFi 6 Mesh RBK352 Sistema de doble banda co
 🔎:
 
 - Amplía la cobertura hasta 100 m² añadiendo un extensor de satélite RBS350 (se vende por separado)
-- Velocidad Mesh WiFi 6 AX1800 para optimizar la velocidad de navegación de tus dispositivos
 - Puedes configurarlo en cuestión de minutos con la aplicación Orbi; gestión sencilla de la configuración WiFi, pruebas de velocidad de Internet y supervisión del uso de datos
-- Puedes conectar ordenadores, videoconsolas, reproductores de streaming y otros dispositivos con 3 puertos Gigabit Ethernet en el router y 2 puertos Gigabit Ethernet en el satélite
+- Velocidad Mesh WiFi 6 AX1800 para optimizar la velocidad de navegación de tus dispositivos
 - Conecta el router WiFi Mesh de Orbi por cable directamente al módem de tu operador y crea una red mesh WiFi 6 fiable en toda tu casa
 - NETGEAR Armor con tecnología Bitdefender ofrece protección para todos los dispositivos domésticos contra virus, malware y robo de datos con un periodo de prueba sin costes de 30 días
-- Cobertura WiFi Mesh de hasta 200 m² y más de 30 dispositivos
 - Compatible con cualquier proveedor de servicios de Internet, incluidas las conexiones por cable, satélite, fibra y DSL
+- Cobertura WiFi Mesh de hasta 200 m² y más de 30 dispositivos
+- Puedes conectar ordenadores, videoconsolas, reproductores de streaming y otros dispositivos con 3 puertos Gigabit Ethernet en el router y 2 puertos Gigabit Ethernet en el satélite
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FT6NWZ8/?tag=tolees-21)
