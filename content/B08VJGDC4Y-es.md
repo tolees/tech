@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG GV301QH-K6022T - Ordenador Port al 15.01 % de rebaja'
-date: 2021-05-13 03:01:06
+date: 2021-05-17 17:01:37
 image: 'https://m.media-amazon.com/images/I/41qVeldHXGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [ASUS ROG GV301QH-K6022T - Ordenador Portátil Gaming de 13.4" WUXGA  AMD
 
 🔎:
 
-- Almacenamiento de 1TB M.2 NVMe PCIe
-- Pantalla de 13.4" WUXGA (1920 x 1200)
-- Memoria RAM de 16GB (en placa) LPDDR4x
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Procesador AMD Ryzen 9 5900HS (3GHz, 16MB)
+- Memoria RAM de 16GB (en placa) LPDDR4x
 - Windows 10 Home
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Pantalla de 13.4" WUXGA (1920 x 1200)
+- Almacenamiento de 1TB M.2 NVMe PCIe
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VJGDC4Y/?tag=tolees-21)
