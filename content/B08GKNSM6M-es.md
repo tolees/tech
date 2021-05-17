@@ -28,10 +28,10 @@ Está [Teclado USB con Cable  INPHIC V610 Wired Membrana Teclado Completo con 11
 
 ℹ️:
 
-- 【Satisfacción del cliente al 100%】 Para todos los productos Inphic, disfrutará de una garantía de 12 meses y un reembolso de 45 días. Si tiene alguna pregunta con nuestro producto, comuníquese con nosotros para obtener un servicio postventa. Nota: este teclado está en formato español (ES).
 - 【Plug & Play】 Con cable USB de 1,5 M, ampliamente compatible con Windows / PC / Laptop / Desktop / Surface / Chromebook
 - 【Soporte estable incorporado】 El teclado para juegos proporciona un soporte estable para las personas que desean un poco de ajuste de la altura del teclado cuando juegan o escriben.
 - 【Panel de gran tacto】 El panel del teclado está hecho de un excelente material ABS, con textura de acabado mate, lo suficientemente resistente como para protegerlo de arañazos. El diseño ergonómico reduce la fatiga de las manos.
+- 【Satisfacción del cliente al 100%】 Para todos los productos Inphic, disfrutará de una garantía de 12 meses y un reembolso de 45 días. Si tiene alguna pregunta con nuestro producto, comuníquese con nosotros para obtener un servicio postventa. Nota: este teclado está en formato español (ES).
 - 【17 teclas Anti-Ghosting】 Teclado de tamaño completo, permite que múltiples teclas funcionen simultáneamente en un tiempo de respuesta rápido sin conflictos, lo que satisface sus necesidades en su juego intenso o escritura rápida, le brinda una buena experiencia en su juego o escritura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GKNSM6M/?tag=tolees-21)
