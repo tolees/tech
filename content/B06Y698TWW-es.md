@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fujifilm Instax Mini 9 - Cámara instantá con un 29.76 % de descuento'
-date: 2021-05-12 11:09:42
+date: 2021-05-17 19:34:09
 image: 'https://m.media-amazon.com/images/I/41eG23KLLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'instax'
 buyurl: 'https://www.amazon.es/dp/B06Y698TWW/?tag=tolees-21'
 descuento: '29.76'
-average: '59.9446315789474'
+average: '59.9347916666667'
 ---
 
 En este momento está [Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Rosa](https://www.amazon.es/dp/B06Y698TWW/?tag=tolees-21) a 59.0 EUR (original: 84.0 EUR) (29.76 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Fujifilm Instax Mini 9 - Cámara instantánea  Solo cáma
 
 🔎:
 
-- Dispone de espejo para selfies
 - Dial de ajuste del brillo
 - La lente macro de aproximación ¡puedes hacer fotos de cerca (35cm)
+- Dispone de espejo para selfies
 - Incluye una correa a juego y un sticker de regalo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06Y698TWW/?tag=tolees-21)

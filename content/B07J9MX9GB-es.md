@@ -28,8 +28,8 @@ Tienes [HUAWEI Flip Cover Azul Oscuro Mate 20  Monótono](https://www.amazon.es/
 
 🔎:
 
-- Marca: Huawei
 - Funda con tapa azul oscuro Huawei
 - Producto de alta calidad, con diseño funcional
+- Marca: Huawei
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J9MX9GB/?tag=tolees-21)
