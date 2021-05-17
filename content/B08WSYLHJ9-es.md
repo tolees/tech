@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sony computer entertainment of america - al 20.09 % de rebaja'
-date: 2021-05-16 09:11:48
+date: 2021-05-17 18:02:30
 image: 'https://m.media-amazon.com/images/I/51jji8y+lCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'sony computer entertainment of america'
 buyurl: 'https://www.amazon.es/dp/B08WSYLHJ9/?tag=tolees-21'
 descuento: '20.09'
-average: '73.04'
+average: '72.2109090909091'
 ---
 
 Tienes [sony computer entertainment of america - Ratchet & Clank: Una Dimensión Aparte](https://www.amazon.es/dp/B08WSYLHJ9/?tag=tolees-21) con precio final de  63.92 EUR (original: 79.99 EUR) (20.09 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [sony computer entertainment of america - Ratchet & Clank: Una Dimensión
 🔎:
 
 - Un malvado emperador robótico se ha lanzado a la conquista de mundos interdimensionales, y el universo de Ratchet y Clank es su próximo objetivo
-- Experimenta los saltos intergalácticos por las brechas dimensionales, que combinan nuevos mundos y mecánicas de juego
-- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
-- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
 - Los aventureros intergalácticos regresan a lo grande en Ratchet & Clank: Una Dimensión Aparte
+- Experimenta los saltos intergalácticos por las brechas dimensionales, que combinan nuevos mundos y mecánicas de juego
+- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
+- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WSYLHJ9/?tag=tolees-21)
