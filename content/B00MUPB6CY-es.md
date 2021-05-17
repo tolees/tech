@@ -28,10 +28,10 @@ Está [POWERADD - Cable de Datos 30-Pin USB Carga  Cargador Apple MFi Certificad
 
 ℹ️:
 
-- Se Adopta el mejor material de TPE, con Buena resistancia al desgaste para asegurarlo una trasmision segura.
-- USB 2.0 tipo A a Micro B, se certifica por Apple MFi para asegurar la perfecta compatibilidad y calidad inmejorable.
-- Ligero y fácil en espiral, la construcción de alta duración para la fiabilidad.
 - Perfectamente compatible para Apple iPhone 4/4s, iPhone3G/3GS, iPad 1/2/3, iPod nano, iPod touch, iPod Classic.
+- Ligero y fácil en espiral, la construcción de alta duración para la fiabilidad.
+- Se Adopta el mejor material de TPE, con Buena resistancia al desgaste para asegurarlo una trasmision segura.
 - Carga y cable de sincronización unidos en un solo cable con alta eficiencia.
+- USB 2.0 tipo A a Micro B, se certifica por Apple MFi para asegurar la perfecta compatibilidad y calidad inmejorable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MUPB6CY/?tag=tolees-21)
