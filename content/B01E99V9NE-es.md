@@ -28,9 +28,9 @@ Tienes [eKids - iHome VI-B72CA-EX Captain America - Altavoz PC](https://www.amaz
 
 🔎:
 
+- Batería recargable de iones de litio (cable de carga incluido)
 - Respuesta y finalización de llamadas vía altavoz
 - Transmisión inalámbrica de audio en cualquier lugar hasta 33 feet
 - Tamaño: aprox. 22 x 21 x 12 cm
-- Batería recargable de iones de litio (cable de carga incluido)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E99V9NE/?tag=tolees-21)
