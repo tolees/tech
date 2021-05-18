@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2020 Apple MacBook Air con Chip M1 de Ap al 15.06 % de descuento'
-date: 2021-05-14 23:26:40
+date: 2021-05-18 14:58:49
 image: 'https://m.media-amazon.com/images/I/316ArzLeJ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08N5VXMK6/?tag=tolees-21'
 descuento: '15.06'
-average: '1039.11590163933'
+average: '1037.82370967741'
 ---
 
 Está [2020 Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM  256 GB SSD  - Gris Espacial](https://www.amazon.es/dp/B08N5VXMK6/?tag=tolees-21) con 15.06 de descuento por 959.0 EUR (original: 1129.0 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Está [2020 Apple MacBook Air con Chip M1 de Apple  de 13 Pulgadas  8 GB RAM 
 
 ℹ️:
 
-- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
 - Autonomía de hasta 18 horas para disfrutar más que nunca
-- Memoria unificada de 8 GB para que todo sea rápido y fluido
-- CPU de ocho núcleos con un rendimiento hasta 3,5 veces superior para meter más caña a los proyectos
+- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
 - Cámara FaceTime HD con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
-- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
 - GPU de hasta ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
+- Memoria unificada de 8 GB para que todo sea rápido y fluido
 - Diseño sin ventilador para un funcionamiento ultrasilencioso
-- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
+- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
 - Pantalla Retina de 13,3 pulgadas con gama cromática amplia (P3) para ofrecer colores realistas y un nivel de detalle increíble
+- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
+- CPU de ocho núcleos con un rendimiento hasta 3,5 veces superior para meter más caña a los proyectos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N5VXMK6/?tag=tolees-21)
