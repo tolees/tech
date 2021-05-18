@@ -28,9 +28,9 @@ Ahora mismo tienes [Western Digital - WD Blue - Disco duro para ordenadores de s
 
 🔎:
 
-- Diseño elegante y creativo
-- Calidad óptima para los requisitos del cliente
-- Producto útil y práctico
 - Hecho de material resistente para un uso prolongado
+- Diseño elegante y creativo
+- Producto útil y práctico
+- Calidad óptima para los requisitos del cliente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013HNYV42/?tag=tolees-21)

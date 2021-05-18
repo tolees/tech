@@ -28,10 +28,10 @@ En este momento está [TP-Link RE450 - Repetidor WiFi AC1750  Banda Dual 5 GHz -
 
 🔎:
 
+- MODO AP - Cree un nuevo punto de acceso para mejorar su red cableada con capacidad WiFi y amplíe el alcance de cualquier router
 - LUZ DE SEÑAL INTELIGENTE - Ayuda a encontrar la ubicación adecuada para una cobertura WiFi óptima al mostrar la intensidad de la señal
-- TRES ANTENAS EXTERNAS - Tres antenas externas ajustables proporcionan una cobertura WiFi óptima y conexiones confiables
 - WiFi DOBLE BANDA AC1750 - 450 Mbps simultáneos a 2,4 GHz y 1300 Mbps a 5 GHz
 - PUERTO GIGABIT ETHERNET - Actúa como un adaptador inalámbrico para conectar un dispositivo con cable a su red a velocidad Gigabit 10 - 100 - 1000 Mbps (RJ45)
-- MODO AP - Cree un nuevo punto de acceso para mejorar su red cableada con capacidad WiFi y amplíe el alcance de cualquier router
+- TRES ANTENAS EXTERNAS - Tres antenas externas ajustables proporcionan una cobertura WiFi óptima y conexiones confiables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21)
