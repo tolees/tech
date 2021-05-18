@@ -28,10 +28,10 @@ Ahora mismo tienes [I.R.I.S. 458075 - IRISCan Escaner y ratón 300 x 300  Blanco
 
 🔎:
 
-- Edite los textos escaneados directamente en word, excel y otras aplicaciones: escanee, arrastre y suéltelo en la aplicación de edición de texto.
-- Transferencia instantánea a la nube y redes sociales: transfiera y acceda siempre que quiera a sus documentos desde cualquier dispositivo.
 - Compatible con pc y mac: software gratuito y alfombrilla para asegurar la estabilidad, incluidos. Diseño elegante y ligero.
+- Transferencia instantánea a la nube y redes sociales: transfiera y acceda siempre que quiera a sus documentos desde cualquier dispositivo.
 - Escanee todo tipo de documentos: periódicos, tarjetas de visita, cartas, notas manuscritas, dibujos, planos…con un tamaño de hasta a4.
+- Edite los textos escaneados directamente en word, excel y otras aplicaciones: escanee, arrastre y suéltelo en la aplicación de edición de texto.
 - Escaner y ratón en uno: escaneado de 400 ppp con un clic. Pulsa el botón y todo aparecerá en la pantalla. Reconoce y traduce más de 130 idiomas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JQTQAN2/?tag=tolees-21)

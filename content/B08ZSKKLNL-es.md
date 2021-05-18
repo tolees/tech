@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C24RG52FQR - Monitor Curvo Gamin con un 15.35 % de descuento'
-date: 2021-05-17 17:01:21
+date: 2021-05-18 17:26:58
 image: 'https://m.media-amazon.com/images/I/41UQYw+8M7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Samsung C24RG52FQR - Monitor Curvo Gaming de 24   Full HD
 
 🔎:
 
-- Ajustable de inclinación
 - Conexiones HDMI y Display Port
 - El Modo Eye Saver minimiza la emisión de luz azul para relajar tu vista incluso en períodos prolongados. La tecnología Flicker Free elimina constantemente el parpadeo en la pantalla para que puedas jugar sin distracciones ni fatiga visual
 - La tecnología AMD FreeSync consigue una experiencia de juego sin interrupciones. Además el modo juego ajusta de manera óptima los niveles gamma de negros, el contraste, la nitidez y el color para todo tipo de juegos
 - Monitor gaming curvo Samsung C24RG52FQR de 24 FullHD (1920x1080) con curvatura 18000R que, junto con la tasa de refresco de 144 Hz, proporciona una experiencia inmersiva a la hora de jugar
+- Ajustable de inclinación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZSKKLNL/?tag=tolees-21)
