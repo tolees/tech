@@ -28,8 +28,8 @@ Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch Ethernet Gigabit  
 
 ℹ️:
 
-- TECNOLOGÍA VERDE ETHERNET - Reduce el consumo de energía hasta un 80%
 - SWITCH GIGABIT 8 PUERTOS - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
+- TECNOLOGÍA VERDE ETHERNET - Reduce el consumo de energía hasta un 80%
 - OPTIMIZACIÓN TRÁFICO - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
 - ENCHUFA Y LISTO - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
 - SUPER DISIPACIÓN DE CALOR- Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
