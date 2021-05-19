@@ -28,10 +28,10 @@ En este momento está [CHUWI GemiBook Ordenador portatil Ultrabook 13 Pulgadas W
 
 🔎:
 
-- NoteBook equipado con una interfaz USB-C totalmente funcional para mejorar la transmisión de audio, vídeo y datos, mientras que el soporte de carga rápida PD2.0, sólo toma una hora que puede restaurar el 60% de la energía. las interfaces adicionales incluyendo USB- A 3.0, M.2 extensiones SSD y 128GB Micro SD
-- CHUWI GemiBook ordenador portátil de 13 pulgadas, pantalla de visualización completa de 2K FHD IPS (resolucion 2160*1440p), el aspecto 3:2，relación pantalla / cuerpo hasta 80%, la bisagra de 180° y un ángulo de visión de 170° de ancho que ofrecerle una vista maravillosa
 - CHUWI Laptop Gemibook cuenta con el teclado retroiluminado le ayuda a trabajar de manera más eficiente durante la noche, reducir el daño para sus ojos cuando lea,viene con las pegatinas de silicona en espanol, pesa 1.28kg, mide 289*219*17.75(H)mm,el módulo inalámbrico soporta la conexión Bluetooth de doble frecuencia 2.4G / 5G
-- Portátil equipado con windows 10 home preinstalado, CPU Intel Celeron J4115 desde 1.8Ghz que max hasta 2.5 GHz, utiliza 4 núcleos y 4 hilos para maximizar la eficiencia,equipado con GPU Intel UHD Graphics 600, 750MHzz, 4K hard-Decoding
+- NoteBook equipado con una interfaz USB-C totalmente funcional para mejorar la transmisión de audio, vídeo y datos, mientras que el soporte de carga rápida PD2.0, sólo toma una hora que puede restaurar el 60% de la energía. las interfaces adicionales incluyendo USB- A 3.0, M.2 extensiones SSD y 128GB Micro SD
 - Ultrabook lleva con RAM LPDDR4X 12GB + 256GB SSD de alta velocidad manejan tareas diarias, e incluso pueden abrir múltiples programas para trabajar o reproducir. significa que no hay necesidad de esperar a que la aplicación se cargue, soporta la extensión SATA 2280 SSD para ampliar la memoria
+- CHUWI GemiBook ordenador portátil de 13 pulgadas, pantalla de visualización completa de 2K FHD IPS (resolucion 2160*1440p), el aspecto 3:2，relación pantalla / cuerpo hasta 80%, la bisagra de 180° y un ángulo de visión de 170° de ancho que ofrecerle una vista maravillosa
+- Portátil equipado con windows 10 home preinstalado, CPU Intel Celeron J4115 desde 1.8Ghz que max hasta 2.5 GHz, utiliza 4 núcleos y 4 hilos para maximizar la eficiencia,equipado con GPU Intel UHD Graphics 600, 750MHzz, 4K hard-Decoding
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K8ZQCTC/?tag=tolees-21)

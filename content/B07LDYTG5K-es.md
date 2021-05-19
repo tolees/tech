@@ -30,8 +30,8 @@ Tienes [Cikuso 3pzs Pegatinas Escudo de Camara de plastico Proteccion de miradas
 
 - 1. Facil de usar: adherido por una cinta adhesiva de doble cara, se puede pegar facilmente y se puede quitar. El deslizador adhesivo se puede aplicar y quitar facilmente del dispositivo requerido.
 - 2. Cubierta delgada para camara web mecanica, menos de 1 mm, ultra delgada y ligera
-- 3.Perfecto para proporcionar privacidad: cubre tu camara web cuando no esta en uso y evita que los piratas informaticos te espien
 - 4. Las cubiertas para camaras web de Security Products protegen la camara de su computadora portatil, tableta, telefono inteligente u otro tecnico
+- 3.Perfecto para proporcionar privacidad: cubre tu camara web cuando no esta en uso y evita que los piratas informaticos te espien
 - 5. Los dispositivos de ataques de hackers pueden abrirse o cerrarse con un solo movimiento de dedo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LDYTG5K/?tag=tolees-21)
