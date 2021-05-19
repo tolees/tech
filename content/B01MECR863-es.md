@@ -28,13 +28,13 @@ En este momento está [Razer DeathAdder Elite - Ratón Esposts gaming  sensor ó
 
 🔎:
 
-- Iluminación RGB personalizable Razer Chroma, podrás elegir entre un espectro completo de 16,8 millones de colores y efectos personalizados para adaptar tu Razer DeathAdder Elite
 - Diseño ergonómico para diestros
-- Formato ergonómico adaptado para los atletas eSports, Razer DeathAdder Elite tiene una ergonomía comprobada por atletas de eSports
 - Tamaño aproximado: 127 mm (largo) x 70 mm (ancho) x 44 mm (alto)
-- Ratón para eSports con rueda de desplazamiento táctil especial para juegos para un mayor control
-- Los switches mecánicos Razer están optimizados para el juego, diseñados para darte una ventaja definitiva en las acciones de juego más intensas
 - El Razer DeathAdder Elite incluye un sensor óptico y los switches mecánicos Razer
+- Formato ergonómico adaptado para los atletas eSports, Razer DeathAdder Elite tiene una ergonomía comprobada por atletas de eSports
+- Iluminación RGB personalizable Razer Chroma, podrás elegir entre un espectro completo de 16,8 millones de colores y efectos personalizados para adaptar tu Razer DeathAdder Elite
+- Ratón para eSports con rueda de desplazamiento táctil especial para juegos para un mayor control
 - Botones adicionales de PPP en la punta de los dedos
+- Los switches mecánicos Razer están optimizados para el juego, diseñados para darte una ventaja definitiva en las acciones de juego más intensas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MECR863/?tag=tolees-21)

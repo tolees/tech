@@ -29,9 +29,9 @@ Tienes [HoYiXi Funda para Samsung Galaxy Tab A 10.1 2019 Anti-Drop Estuche de Ta
 ℹ️:
 
 - 1. Especialmente diseñado para Samsung Galaxy Tab A 10.1 (2019) T510 / T515 solamente. NO es compatible con otros modelos, por favor revise su dispositivo antes de su compra.
-- 2. Está hecho de TPU suave de alta calidad y PC duro, material de ambiente amigable. La doble cubierta protectora evita que la tableta se raye y se dañe a diario. Protege tu dispositivo de golpes y polvo.
 - 4. Los cortes precisos permiten el acceso completo a todas las funciones (cámaras, altavoces, carga) sin quitar la caja.
 - 3. El estuche cuenta con un diseño de armadura para trabajo pesado y un exterior texturado, la textura en relieve protege su dispositivo con un marco delgado doble a prueba de golpes.
 - 5. Puede ver un video o escuchar música para obtener un ángulo de visión cómodo con el diseño de la base plegable, evita que su tableta se caiga al mirar.
+- 2. Está hecho de TPU suave de alta calidad y PC duro, material de ambiente amigable. La doble cubierta protectora evita que la tableta se raye y se dañe a diario. Protege tu dispositivo de golpes y polvo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SQTVJT5/?tag=tolees-21)
