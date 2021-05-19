@@ -28,10 +28,10 @@ Tienes [CHUWI Herobox Mini pc Ordenador de sobremesa Intel Gemini-Lake N4100 Win
 
 ℹ️:
 
-- ✔ [Disipación de calor de alto rendimiento]: Herobox adopta un diseño científico, Herobox utiliza una aleación de aluminio de conducción de calor para garantizar un enfriamiento continuo y efectivo, y hay agujeros de enfriamiento a su alrededor. La Herobox que ahorra energía sigue siendo potente y estable incluso después de largas horas de trabajo.
 - ✔ [Puertos múltiples]: 2 * USB 3.0, 2 * USB 2.0 para sus necesidades diarias, con ranura USB-C ultrarrápida que puede conectar 2 monitores con salida VGA, y expansión de disco duro SATA, admite hasta 2 TB; La extensión de la tarjeta TF admite hasta 256 G. Este producto se suministra con una garantía de 12 meses después de la compra.
-- ✔ [Expansión de almacenamiento]: puede ampliar el almacenamiento con una tarjeta micro SD de hasta 256 GB y una ranura SSD de hasta 2 TB.
-- ✔ [Decodificación de video de alta definición]: Herobox tiene gráficos Intel 9th ​​HD con decodificación rígida 4K UHD y admite videos en los formatos de 10 bits VP9 y HEVC. Función de súper decodificación, convertible en un HTPC en cualquier momento. Admite visualización de 3 pantallas en la misma pantalla, técnicamente admite hasta 3 monitores al mismo tiempo y es ideal para promocionar grandes eventos en el centro comercial, para que las personas sientan un fuerte shock
 - ✔ [Pequeño y fácil de transportar]: Herobox es liviano y compacto, el tamaño es de solo 18.8 (L) * 13.9 (M) * 3.8 (H) cm. Es de bolsillo y fácil de llevar con su mochila. Es conveniente llevar y ahorrar espacio cuando está en uso.
+- ✔ [Decodificación de video de alta definición]: Herobox tiene gráficos Intel 9th ​​HD con decodificación rígida 4K UHD y admite videos en los formatos de 10 bits VP9 y HEVC. Función de súper decodificación, convertible en un HTPC en cualquier momento. Admite visualización de 3 pantallas en la misma pantalla, técnicamente admite hasta 3 monitores al mismo tiempo y es ideal para promocionar grandes eventos en el centro comercial, para que las personas sientan un fuerte shock
+- ✔ [Disipación de calor de alto rendimiento]: Herobox adopta un diseño científico, Herobox utiliza una aleación de aluminio de conducción de calor para garantizar un enfriamiento continuo y efectivo, y hay agujeros de enfriamiento a su alrededor. La Herobox que ahorra energía sigue siendo potente y estable incluso después de largas horas de trabajo.
+- ✔ [Expansión de almacenamiento]: puede ampliar el almacenamiento con una tarjeta micro SD de hasta 256 GB y una ranura SSD de hasta 2 TB.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089F5SJJM/?tag=tolees-21)
