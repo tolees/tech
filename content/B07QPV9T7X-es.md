@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Funda de Silicona Compatible iPhone 11  2019  6 1"  S
 
 🔎:
 
-- [Compatibilidad] Especialmente diseñado Compatible iPhone 11 de 6.1 pulgadas. Da a su dispositivo un cuerpo completo alrededor de la protección. Admite carga inalámbrica
 - [Fácil de usar] Construido con silicona y PC de alta calidad. Sedoso-tacto suave y buen agarre, El suave forro de microfibra en el interior mantiene la parte posterior de su teléfono sin arañazos
-- [Alta durabilidad] Recortes precisos. Garantiza el acceso completo a todos los controles y características
-- [Highly Protective] Raised edges offer extra protection to camera and screen. Anti-fingerprint
 - [El paquete ] incluye: Funda iPhone 11*1, tarjeta de servicio al cliente
+- [Highly Protective] Raised edges offer extra protection to camera and screen. Anti-fingerprint
+- [Compatibilidad] Especialmente diseñado Compatible iPhone 11 de 6.1 pulgadas. Da a su dispositivo un cuerpo completo alrededor de la protección. Admite carga inalámbrica
+- [Alta durabilidad] Recortes precisos. Garantiza el acceso completo a todos los controles y características
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QPV9T7X/?tag=tolees-21)
