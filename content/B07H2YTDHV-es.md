@@ -28,10 +28,10 @@ Ahora mismo tienes [Nikon Z6 - Cámara sin Espejos de 24.5 MP  Pantalla LCD de 3
 
 🔎:
 
-- Sensor CMOS de fotograma completo retroiluminado de 24.5 MP con AF
-- Conexiones Wi-Fi y Bluetooth integradas
-- Procesador de imagen ultrarrápido EXPEED 6
 - Grabe vídeos con una resolución 4K/UHD de fotograma completo a 30p
 - Disparo continuo a una velocidad de 12 fps
+- Conexiones Wi-Fi y Bluetooth integradas
+- Sensor CMOS de fotograma completo retroiluminado de 24.5 MP con AF
+- Procesador de imagen ultrarrápido EXPEED 6
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2YTDHV/?tag=tolees-21)
