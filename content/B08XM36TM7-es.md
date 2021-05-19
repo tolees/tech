@@ -28,9 +28,9 @@ Ahora mismo tienes [Altavoz de Suelo Portátil PBSL-141 | Sintonizador Radio FM 
 
 🔎:
 
-- 🎶KARAOKE: la torre posee la opción de karaoke y podrás disfrutar de ella con el micrófono que viene incluido en el paquete con su correspondiente cable. Ya puedes pasarlo en grande jugando al KARAOKE con tus amigos mientras escucháis vuestras canciones favoritas.
-- 🎶 TORRE DE SONIDO: La torre Belson es una gran opción para llevarte tu música favorita a todas partes gracias a su fácil agarre, tamaño y peso. Podrás enchufar tu MP3, USB, poner CDs o utilizar el Bluetooth además de poder sitonizar FM. ¡Cómo y dónde quieras!
 - 🎶 BATERÍA INTERNA: La batería de este altavoz portatil es interna y recargable, se caracteriza por sus 1200mah 3.7v. Con los 3 artículos que incluye esta oferta, además de escuchar tu música favorita podrás pasártelo en grande.
+- 🎶 TORRE DE SONIDO: La torre Belson es una gran opción para llevarte tu música favorita a todas partes gracias a su fácil agarre, tamaño y peso. Podrás enchufar tu MP3, USB, poner CDs o utilizar el Bluetooth además de poder sitonizar FM. ¡Cómo y dónde quieras!
+- 🎶KARAOKE: la torre posee la opción de karaoke y podrás disfrutar de ella con el micrófono que viene incluido en el paquete con su correspondiente cable. Ya puedes pasarlo en grande jugando al KARAOKE con tus amigos mientras escucháis vuestras canciones favoritas.
 - 🎶 ¡EL PACK PERFECTO! Torre de Sonido Belson, con Micrófono incorporado y un mando a distancia con 21 botones para que puedas apagar, encender, pasar tus canciones favoritas y moldear el volumen a tu gusto de la torre de sonido de Belson.
 - 🎶 DIVERSIÓN ASEGURADA: la torre incluye ranuras para memorias USB y MicroSD para introducir y escuchar tu música favorita, sintonizador de Radio FM con el que podrás escuchar tus emisoras favoritas desde el Altavoz.
 
