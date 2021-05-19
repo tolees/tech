@@ -28,10 +28,10 @@ Tienes [Canon Zoemini S  Cámara  Bluetooth  Tamaño Único  Rosa Oro](https://w
 
 🔎:
 
+- Con un espejo reflectante y un flash anular montados en su parte frontal aseguran que los selfies se captan de forma espectacular, además la app canon mini print permite activar la función de disparador a distancia, para hacer más fácil las fotos de grupos mediante el autodisparador
+- Utiliza bluetooth y la app canon mini print para imprimir las imágenes desde tu dispositivo inteligente, con opciones de filtros y collages
+- Incluye un paquete de 10 hojas de papel para impresión zink con adhesivo posterior, de 5 x 7.6 cm ( 2x 3 pulgadas)
 - Compañera de viaje por su tamaño compacto y ligero
 - Cámara de 8 mp con ranura para tarjetas micro sd para captar, imprimir y compartir las imágenes
-- Incluye un paquete de 10 hojas de papel para impresión zink con adhesivo posterior, de 5 x 7.6 cm ( 2x 3 pulgadas)
-- Utiliza bluetooth y la app canon mini print para imprimir las imágenes desde tu dispositivo inteligente, con opciones de filtros y collages
-- Con un espejo reflectante y un flash anular montados en su parte frontal aseguran que los selfies se captan de forma espectacular, además la app canon mini print permite activar la función de disparador a distancia, para hacer más fácil las fotos de grupos mediante el autodisparador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NTV5Y9Z/?tag=tolees-21)
