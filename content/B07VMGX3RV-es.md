@@ -28,10 +28,10 @@ En este momento está [LG 34GL750-B - Monitor Gaming Curvo UltraWide WFHD de 86.
 
 🔎:
 
-- tecnología radeon freesync para disfrutar de toda la acción sin parpadeos
-- 1ms de velocidad de respuesta gracias a la tecnología motion blur reduction (mbr)
 - amplía un 32% tu superficie útil gracias al formato 21:9 ultrawide
 - juega más fluido con frecuencia de actualización de 144hz
 - interacción en tiempo real y sin retrasos gracias a dynamic action sync (das mode)
+- tecnología radeon freesync para disfrutar de toda la acción sin parpadeos
+- 1ms de velocidad de respuesta gracias a la tecnología motion blur reduction (mbr)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VMGX3RV/?tag=tolees-21)
