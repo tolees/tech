@@ -28,10 +28,10 @@ En este momento está [ULANZI Select - Kit de iluminación para Videoconferencia
 
 🔎:
 
+- 💜 Soporte para teléfono de amplia compatibilidad --- Compatible con iPhone 11/11 Pro / 11 Pro Max / XS Max / 8 Plus / para Samsung Galaxy / Google Pixel / HUAWEI.2.2 in --- 3.26 equipo de teléfono móvil. zapato, que puede expandir la luz de video / micrófono.
 - 💜 Trípode extensible --- Compatible con Sony, para Canon, Nikon, FUJIFILM, Panasonic, DSLR.Varilla extensible Longitud escalable 5.9 in --- 10.6 in Cabezal de bola de rotación de 360 ​​°, puede encontrar el ángulo perfecto para disparar
+- 💜El kit de video perfecto para teléfonos inteligentes: para brindarle una mejor experiencia de grabación, específicamente para videoconferencias, trabajo remoto, transmisión en vivo, vlog, YouTube, Twitter, maquillaje, llamadas de zoom, blogs, viajes, retratos, etc.
 - 💜Kit de iluminación para videoconferencia Adecuado para videoconferencia, trabajo remoto, transmisión en vivo, vlog, YouTube, Twitter, Tik Tok, maquillaje, llamadas de zoom. --- El paquete incluye trípode extensible + soporte para teléfono + luz de video LED + cable de carga USB C
 - 💜LED Video Light --- 5 niveles de ajuste de brillo, luz de video más brillante y suave. Batería de litio incorporada de 2000 mAh. Se puede utilizar como iluminación para conferencias o se puede instalar en la cámara. Se puede cargar USB C.
-- 💜 Soporte para teléfono de amplia compatibilidad --- Compatible con iPhone 11/11 Pro / 11 Pro Max / XS Max / 8 Plus / para Samsung Galaxy / Google Pixel / HUAWEI.2.2 in --- 3.26 equipo de teléfono móvil. zapato, que puede expandir la luz de video / micrófono.
-- 💜El kit de video perfecto para teléfonos inteligentes: para brindarle una mejor experiencia de grabación, específicamente para videoconferencias, trabajo remoto, transmisión en vivo, vlog, YouTube, Twitter, maquillaje, llamadas de zoom, blogs, viajes, retratos, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DQYGFBK/?tag=tolees-21)
