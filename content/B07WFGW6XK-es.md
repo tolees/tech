@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MMG Ratón RGB F al 20.03 % de descuento'
-date: 2021-05-19 06:35:19
+date: 2021-05-20 19:26:02
 image: 'https://m.media-amazon.com/images/I/31PXsjQOWjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MARSGAMING'
 buyurl: 'https://www.amazon.es/dp/B07WFGW6XK/?tag=tolees-21'
 descuento: '20.03'
-average: '6.83666666666667'
+average: '6.728'
 ---
 
 Está [MARSGAMING - Mars Gaming MMG Ratón RGB Flow  Sensor Óptico 3200 DPI  Antideslizante Negro](https://www.amazon.es/dp/B07WFGW6XK/?tag=tolees-21) con 20.03 de descuento por 5.75 EUR (original: 7.19 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [MARSGAMING - Mars Gaming MMG Ratón RGB Flow  Sensor Óptico 3200 DPI  An
 
 ℹ️:
 
-- Ratón gaming ultraligero con iluminación RGB Flow y 3200 DPI
 - Diseño compacto, ligero y ergonómico, conector USB, cable trenzado y compatibilidad con Windows/Mac/Linux
+- Ratón gaming ultraligero con iluminación RGB Flow y 3200 DPI
 - 6 botones, cambio de DPI on the fly (800/1200/1600/3200) y switches HUANO para una mayor precisión y durabilidad
 - Iluminación RGB Flow dinámica con cambio de colores automáticos
 
