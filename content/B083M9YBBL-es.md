@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad E15 - Portátil 15.6" Ful al 16.03 % de rebaja'
-date: 2021-05-17 09:16:42
+date: 2021-05-20 12:08:22
 image: 'https://m.media-amazon.com/images/I/41eK0KRTC1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Lenovo ThinkPad E15 - Portátil 15.6" FullHD  Intel Core i5-10210U  8GB 
 
 🔎:
 
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
+- Memoria RAM de 8GB SO-DIMM DDR4-2666 ampliable hasta 16GB DDR4-2666
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Tarjeta gráfica Integrada Intel UHD Graphics
-- Memoria RAM de 8GB SO-DIMM DDR4-2666 ampliable hasta 16GB DDR4-2666
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083M9YBBL/?tag=tolees-21)
