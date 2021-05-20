@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo V14 - Ordenador portátil 14" HD   con un 15.39 % de descuento'
-date: 2021-05-17 18:45:42
+date: 2021-05-19 23:05:00
 image: 'https://m.media-amazon.com/images/I/41jzHkoRooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08C6ZPX38/?tag=tolees-21'
 descuento: '15.39'
-average: '367.323333333333'
+average: '364.99'
 ---
 
 En este momento está [Lenovo V14 - Ordenador portátil 14" HD  AMD Ryzen 3-3250U  4GB RAM  128GB SSD  UMA Graphics  Windows 10 Pro   Color gris - Teclado QWERTY español](https://www.amazon.es/dp/B08C6ZPX38/?tag=tolees-21) a 329.99 EUR (original: 389.99 EUR) (15.39 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ En este momento está [Lenovo V14 - Ordenador portátil 14" HD  AMD Ryzen 3-3250
 
 - Procesador AMD Ryzen 3-3250U (2C, 2.6GHz)
 - Sistema Operativo Windows 10 Pro
-- Pantalla de 14" HD, 1280x720 píxeles, TN, 220nits, antirreflejo
-- Memoria RAM de 4GB DDR4-2400
 - Almacenamiento de 128GB SSD M.2 2242 NVMe
+- Memoria RAM de 4GB DDR4-2400
+- Pantalla de 14" HD, 1280x720 píxeles, TN, 220nits, antirreflejo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C6ZPX38/?tag=tolees-21)

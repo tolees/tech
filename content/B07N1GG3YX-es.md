@@ -28,10 +28,10 @@ En este momento está [YOSH Adaptador USB-C a Ethernet  USB 3.1 Tipo C de RJ45 G
 
 🔎:
 
-- [Conexión estable] El adaptador USB C a Ethernet de YOSH proporciona a su dispositivo una red LAN de hasta 1000 Mbps, 10 veces más rápida que la conexión WIFI. La interferencia de la señal o el retraso en la transmisión ya no le molestarán cuando esté viendo su juego o serie de televisión favorita. Y lo que es más importante es navegar en Internet con un estado de ánimo suave.
-- [Amplia Compatibilidad] El adaptador USB C a Ethernet de YOSH es totalmente compatible con la mayoría de los sistemas operativos del mercado como Win 8/10, Mac OS, Linux, Chrome OS, y dispositivos como MacBook Pro 2019/2018/2017/2016, MacBook Air 2019/2018, iPad Pro 2020/18, HUAWEI MateBook, MateBook X Pro, Chrome Book, etc.
 - [Durable y eficaz] Excelente peso ligero Aleación de aluminio es el mejor material para perder el calor y portátil para viajar. El material de nylon trenzado protege el núcleo del cable de cualquier daño físico o químico con eficacia. El conector niquelado se adapta perfectamente a los dispositivos con carcasa metálica como el MacBook.
 - [Consejos importantes] Para el uso del teléfono, este adaptador sólo es compatible con los siguientes dispositivos: Samsung S20 S20+ S20 Ultra S10e S10+, Note20 10 9 8, Huawei P40 P30 P40 pro, Mate 30 40.
 - [Diseño fácil de usar] Plug and play, sin necesidad de controladores / software adicionales. Puede utilizar este adaptador para conectar el cable de red RJ45 directamente a su dispositivo. Si la red inalámbrica es mala o la tarjeta de red interna está dañada, el adaptador de red USB 3.0 es una buena solución.
+- [Conexión estable] El adaptador USB C a Ethernet de YOSH proporciona a su dispositivo una red LAN de hasta 1000 Mbps, 10 veces más rápida que la conexión WIFI. La interferencia de la señal o el retraso en la transmisión ya no le molestarán cuando esté viendo su juego o serie de televisión favorita. Y lo que es más importante es navegar en Internet con un estado de ánimo suave.
+- [Amplia Compatibilidad] El adaptador USB C a Ethernet de YOSH es totalmente compatible con la mayoría de los sistemas operativos del mercado como Win 8/10, Mac OS, Linux, Chrome OS, y dispositivos como MacBook Pro 2019/2018/2017/2016, MacBook Air 2019/2018, iPad Pro 2020/18, HUAWEI MateBook, MateBook X Pro, Chrome Book, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N1GG3YX/?tag=tolees-21)
