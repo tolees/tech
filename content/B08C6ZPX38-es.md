@@ -28,10 +28,10 @@ En este momento está [Lenovo V14 - Ordenador portátil 14" HD  AMD Ryzen 3-3250
 
 🔎:
 
+- Pantalla de 14" HD, 1280x720 píxeles, TN, 220nits, antirreflejo
 - Procesador AMD Ryzen 3-3250U (2C, 2.6GHz)
-- Sistema Operativo Windows 10 Pro
 - Almacenamiento de 128GB SSD M.2 2242 NVMe
 - Memoria RAM de 4GB DDR4-2400
-- Pantalla de 14" HD, 1280x720 píxeles, TN, 220nits, antirreflejo
+- Sistema Operativo Windows 10 Pro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C6ZPX38/?tag=tolees-21)
