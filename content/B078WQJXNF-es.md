@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Samsung 860 EVO MZ-76E250B/EU - Disco du con un 27.08 % de descuento'
-date: 2021-05-18 13:35:20
-image: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL500_._SL400_.jpg'
+date: 2021-05-20 11:20:13
+image: 'https://m.media-amazon.com/images/I/41NZPuvaZrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21'
 descuento: '27.08'
-average: '49.8078106508877'
+average: '49.8536470588237'
 ---
 
 En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21) a 57.6 EUR (original: 78.99 EUR) (27.08 %  de descuento) en el siguiente enlace!
 
-[![Samsung 860 EVO MZ-76E250B/EU - Disco du](https://m.media-amazon.com/images/I/41JrIwN+kyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
+[![Samsung 860 EVO MZ-76E250B/EU - Disco du](https://m.media-amazon.com/images/I/41NZPuvaZrS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
 
 🔎:
 
 - Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
-- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
-- Escritura secuencial: 520MB/s
 - La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 - Dispone de interfaz SATA
+- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
+- Escritura secuencial: 520MB/s
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
