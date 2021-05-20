@@ -28,10 +28,10 @@ Tienes [Lenovo ThinkPad E15 - Portátil 15.6" FullHD  Intel Core i5-10210U  8GB 
 
 🔎:
 
-- Memoria RAM de 8GB SO-DIMM DDR4-2666 ampliable hasta 16GB DDR4-2666
-- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
-- Tarjeta gráfica Integrada Intel UHD Graphics
 - Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
+- Memoria RAM de 8GB SO-DIMM DDR4-2666 ampliable hasta 16GB DDR4-2666
+- Tarjeta gráfica Integrada Intel UHD Graphics
+- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083M9YBBL/?tag=tolees-21)
