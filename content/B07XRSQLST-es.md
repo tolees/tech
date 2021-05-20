@@ -28,13 +28,13 @@ Ahora mismo tienes [Mc Haus KALA - Escritorio Madera y Blanco  Mesa de oficina p
 
 🔎:
 
-- Diseño moderno, práctico y resistente
-- Con capacidad extra de almacenaje
-- Cuenta con un práctico pasacables con embellecedor
-- Madera roble y estructura metal blanco mate
 - Mantenimiento: limpiar con un paño húmedo
-- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
-- Dimensiones: 120x62x89cm
+- Con capacidad extra de almacenaje
 - Disponible en 2 modelos diferentes
+- Madera roble y estructura metal blanco mate
+- Cuenta con un práctico pasacables con embellecedor
+- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
+- Diseño moderno, práctico y resistente
+- Dimensiones: 120x62x89cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XRSQLST/?tag=tolees-21)
