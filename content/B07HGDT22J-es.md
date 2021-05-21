@@ -28,8 +28,8 @@ Ahora mismo tienes [JBL Charge 4 Altavoz inalámbrico portátil con Bluetooth  p
 
 🔎:
 
-- No te preocupes más por la batería. Escucha tu música con el altavoz de JBL denominado pulgadasCharge pulgadas debido a su capacidad para cargar dispositivos gracias a un puerto de salida USB incorporado
 - El sol, la playa y tus altavoces impermeables úsalo en la piscina o mientras te duchas con estas bocinas resistentes al agua IPX7, mojarlas ya no es problema
+- No te preocupes más por la batería. Escucha tu música con el altavoz de JBL denominado pulgadasCharge pulgadas debido a su capacidad para cargar dispositivos gracias a un puerto de salida USB incorporado
 - El altavoz inalámbrico cuenta con un sonido de adecuada calidad y Bluetooth, el cual permite conectar hasta 2 móviles o tablets al mismo tiempo toma turnos con tus amigos para hacerla de DJ
 - Contenido del envío 1 x JBL Charge 4 Altavoz Inalámbrico Portátil, JBL Connect+ sincroniza más de 100 altavoces al mismo tiempo, color cian
 - Qué el ritmo no pare. escucha hasta 20 horas de tu música favorita con un sonido más fuerte y claro gracias a la bocina bluetooth y la batería recargable de iones de litio

@@ -28,10 +28,10 @@ Ahora mismo tienes [T nB - Cargador de Ordenador portátil con conexión Tipo C 
 
 🔎:
 
-- Aprovéchate de la comodidad, es fácilmente manejable y transportable. Cuenta con una longitud de cable de 120cm.
 - Este cargador cuenta con un enchufe tipo C y una potencia de carga de 45W.
+- Aprovéchate de la comodidad, es fácilmente manejable y transportable. Cuenta con una longitud de cable de 120cm.
+- Portable charger de color negro con diseño ultracompacto y elegante.
 - Este producto tiene una garantía de 2 años.
 - Este producto se puede utilizar con portátiles de marcas prestigiosas como por ejemplo Asus, Acer, Dell, HP, MSI, Packard Bell, Toshiba, Samsung, Sony...
-- Portable charger de color negro con diseño ultracompacto y elegante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GBQVLLM/?tag=tolees-21)
