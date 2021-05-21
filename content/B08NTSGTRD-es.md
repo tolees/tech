@@ -28,11 +28,11 @@ En este momento está [ASUS ZenBook Flip 13 UX363EA-EM087T - Portátil Convertib
 
 🔎:
 
-- Tarjeta grafica integrada Iris Xe
 - Sistema operativo Windows 10 Home
 - Memoria RAM de 8GB, LPDDR4X
 - Almacenamiento de 512GB M.2 NVMe PCIe
-- Pantalla de 13.3" FullHD (1920 x 1080)
 - Procesador Intel Core i5-1135G7 ( 4 núcleos, 8 MB cache, 2.4 GHz hasta 4.2 GHz)
+- Tarjeta grafica integrada Iris Xe
+- Pantalla de 13.3" FullHD (1920 x 1080)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NTSGTRD/?tag=tolees-21)
