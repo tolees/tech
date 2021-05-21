@@ -28,9 +28,9 @@ Está [Eizo ColorEdge CG2730 - Monitor Profesional 27"  Panel IPS Resolución 25
 
 ℹ️:
 
-- 27" Panel IPS Resolución 2560 x 1440
 - DVI-D x 1, HDMI x 1, DisplayPort x 1
 - Angulo Visión 178°, 350 cd, 13 ms, LED
 - Calibrador integrado, Visera incluida
+- 27" Panel IPS Resolución 2560 x 1440
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYTDWPT/?tag=tolees-21)
