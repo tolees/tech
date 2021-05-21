@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sony computer entertainment of america - con un 20.09 % de descuento'
-date: 2021-05-17 06:55:20
+date: 2021-05-21 14:43:16
 image: 'https://m.media-amazon.com/images/I/516907i+waL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'sony computer entertainment of america'
 buyurl: 'https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21'
 descuento: '20.09'
-average: '73.4811764705882'
+average: '72.95'
 ---
 
 En este momento está [sony computer entertainment of america - Returnal](https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21) a 63.92 EUR (original: 79.99 EUR) (20.09 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [sony computer entertainment of america - Returnal](https:
 
 🔎:
 
-- Compatible con PS5
 - Texto y voces en Castellano
 - De desarrollador Housemarque
+- Compatible con PS5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21)
