@@ -28,11 +28,11 @@ Tienes [FIBARO FGBHS-213 Regulador Inteligente de Luz Inalámbrico  Bluetooth  P
 
 ℹ️:
 
-- Control avanzado por microprocesador
-- Funciona con diferentes tipos de interruptores: momentáneo, flip-flop, triple
-- Para instalar en cajas de interruptores montadas en la pared que permiten la instalación, de acuerdo con las regulaciones aplicables
-- El interruptor simple Fibaro es una unidad de voltaje
-- Compatible con el protocolo apple homekit
 - Tecnología bluetooth de Löw energy para comunicación inalámbrica
+- Para instalar en cajas de interruptores montadas en la pared que permiten la instalación, de acuerdo con las regulaciones aplicables
+- Funciona con diferentes tipos de interruptores: momentáneo, flip-flop, triple
+- Compatible con el protocolo apple homekit
+- El interruptor simple Fibaro es una unidad de voltaje
+- Control avanzado por microprocesador
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075QMM15W/?tag=tolees-21)
