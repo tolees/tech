@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.40 % en Apple iPhone SE  64 GB  - en Negro'
-date: 2021-05-19 17:00:59
+date: 2021-05-22 09:32:34
 image: 'https://m.media-amazon.com/images/I/41osKSUiIcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L6XHW5C/?tag=tolees-21'
 descuento: '18.40'
-average: '450.398'
+average: '445.725454545455'
 ---
 
 Tienes [Apple iPhone SE  64 GB  - en Negro](https://www.amazon.es/dp/B08L6XHW5C/?tag=tolees-21) con un 18.40 % de descuento con precio de oferta de 399.0 EUR (original: 489.0 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Tienes [Apple iPhone SE  64 GB  - en Negro](https://www.amazon.es/dp/B08L6XHW5C
 
 ℹ️:
 
-- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
-- Pantalla Retina HD de 4,7 pulgadas
-- Carga inalámbrica
-- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
-- Admite carga rápida
-- Chip A13 Bionic con Neural Engine de 3.ª generación
 - Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone SE ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
-- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Admite carga rápida
+- Pantalla Retina HD de 4,7 pulgadas
 - Cámara frontal de 7 Mpx con modo Retrato, Iluminación de Retratos y Control de Profundidad
+- Carga inalámbrica
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
+- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
+- Chip A13 Bionic con Neural Engine de 3.ª generación
+- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L6XHW5C/?tag=tolees-21)
