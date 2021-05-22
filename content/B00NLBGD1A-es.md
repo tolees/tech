@@ -28,10 +28,10 @@ Está [Canon Pancake EF-S 24 mm f/2.8 STM - Objetivo para Canon  distancia focal
 
 ℹ️:
 
+- Enfoque fluido y silencioso al grabar vídeos
+- Perspectiva natural, del ojo humano
 - Diseño pancake ultra compacto
 - Utiliza las amplias aberturas para fotografiar con poca luz
-- Enfoque fluido y silencioso al grabar vídeos
 - Dimensiones del producto: 6,8 x 2,3 x 2,3 cm ; Peso: 127 g
-- Perspectiva natural, del ojo humano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NLBGD1A/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 860 EVO MZ-76E250B/EU - Disco du con un 27.08 % de descuento'
-date: 2021-05-20 11:20:13
+title: 'Samsung 860 EVO MZ-76E250B/EU - Disco du con un 27.98 % de descuento'
+date: 2021-05-22 14:10:58
 image: 'https://m.media-amazon.com/images/I/41NZPuvaZrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B078WQJXNF-es Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno...'
 sku: 'B078WQJXNF-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','disco','duro','samsung', ]
-actualPrice: 57.6 EUR
+actualPrice: 56.89 EUR
 currency: EUR
-price: 57.6
+price: 56.89
 comparePrice: 78.99 EUR
 prodname: 'Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21'
-descuento: '27.08'
-average: '49.8536470588237'
+descuento: '27.98'
+average: '49.9354651162792'
 ---
 
-En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21) a 57.6 EUR (original: 78.99 EUR) (27.08 %  de descuento) en el siguiente enlace!
+En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21) a 56.89 EUR (original: 78.99 EUR) (27.98 %  de descuento) en el siguiente enlace!
 
 [![Samsung 860 EVO MZ-76E250B/EU - Disco du](https://m.media-amazon.com/images/I/41NZPuvaZrS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
 
 🔎:
 
 - La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
-- Dispone de interfaz SATA
-- Escritura secuencial: 520MB/s
 - Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
+- Escritura secuencial: 520MB/s
+- Dispone de interfaz SATA
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
