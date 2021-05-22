@@ -28,11 +28,11 @@ Tienes [ASUS ZenBook 14 UX425EA-BM020T - Ordenador Portátil de  Full HD  Intel 
 
 ℹ️:
 
-- Almacenamiento de 512GB M.2 NVMe PCIe
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 14" Full HD (1920 x 1080)
 - Memoria RAM de 16GB (en placa) LPDDR4x
 - Windows 10 Home
 - Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Almacenamiento de 512GB M.2 NVMe PCIe
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZ5VZL5/?tag=tolees-21)

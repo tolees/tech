@@ -30,9 +30,9 @@ En este momento está [HP Z3700 RF - Ratón óptico inalámbrico 1200 DPI  color
 
 - La tecnología del LED azul permite que el ratón opere en una amplia gama de superficies, por lo que puede funcionar en casi cualquier lugar
 - Con una resolución de movimiento de 1200 DPI
+- Tecnología de detección de movimientos: Óptico
 - Con 2 botones y rueda de dezplasamiento
 - Conectividad RF inalámbrico de 2.4 GHz
-- Tecnología de detección de movimientos: Óptico
 - Compatible con PC/ordenador portátil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01FNRWFO8/?tag=tolees-21)

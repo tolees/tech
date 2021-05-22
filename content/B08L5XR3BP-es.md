@@ -30,8 +30,8 @@ En este momento está [KATUMO Funda para Huawei MatePad T 10s Book Cover MatePad
 
 - Múltiples ángulos: El funda Huawei Matapad T 9.7-10.1" ofrece un soporte ajustable con ángulos de visión y escritura.
 - Alto Material: Hecho de cuero de PU de alta calidad y PC, proporciona protección de todo el cuerpo y contra arañazos y golpes.
-- Diseño único: Permite el acceso a todos los botones, controles y puertos fácilmente sin tener que quitar la funda.
-- Diseño de billetera: Tiene ranuras en el interior, puede guardar dinero, tarjeta, tarjeta de identificación, boleto u otros documentos cuando salga.
 - Modelo de Tableta: Específicamente diseñado para Huawei Matepad T10s 10.1 Pulgadas 2020, Matepad T 10 9.7" Matepad AGS3-L09/AGS3-W09/AGR-L09/AGR-W09.
+- Diseño de billetera: Tiene ranuras en el interior, puede guardar dinero, tarjeta, tarjeta de identificación, boleto u otros documentos cuando salga.
+- Diseño único: Permite el acceso a todos los botones, controles y puertos fácilmente sin tener que quitar la funda.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L5XR3BP/?tag=tolees-21)
