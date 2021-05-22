@@ -29,9 +29,9 @@ En este momento está [Western Digital My Passport Ultra Disco duro externo de 1
 🔎:
 
 - Hasta 4 TB de capacidad
-- Diseño brillante, que combina acabados metálicos y mates
-- Fácil de usar y creado con la seguridad y fiabilidad de Western Digital
 - Incluye el software Western Digital Discovery para la importación desde redes sociales y servicios de almacenamiento en la nube, copia de seguridad y protección mediante contraseña
 - Disco duro seguro creado con la fiabilidad de Western Digital
+- Diseño brillante, que combina acabados metálicos y mates
+- Fácil de usar y creado con la seguridad y fiabilidad de Western Digital
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072PTM4R8/?tag=tolees-21)

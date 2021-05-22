@@ -29,8 +29,8 @@ Tienes [Nikon AF-S DX Nikkor 35 mm f/1.8 G - Objetivo para montura F  distancia 
 ℹ️:
 
 - Un elemento de lente asférica contribuye a lograr claridad y contraste adecuadas en todo el fotograma
+- Por su reducido tamaño, es adecuado tanto para viajar como en la fotografía en la ciudad
 - De formato DX
 - El rápido diafragma de f/1.8 permite obtener resultados sumamente nítidos, incluso cuando disminuye la luz
-- Por su reducido tamaño, es adecuado tanto para viajar como en la fotografía en la ciudad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001S2PPT0/?tag=tolees-21)
