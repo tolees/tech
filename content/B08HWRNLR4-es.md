@@ -28,10 +28,10 @@ Tienes [Teclado Español para iPad Air 4 KVAGO Funda con Teclado Bluetooth Para 
 
 🔎:
 
-- *Teclado Español Portátil & Ahorro de Energía：Tiene la letra Ñ. El teclado diseñado super delgado y con material ABS de alta gama, más ligero y más cómodo de llevar. durable y anti-rayado / rebote del botón de confort，Se irá a dormir automáticamente si no presiona ningún botón durante 10 minutos,Puedes pulsar cualquier tecla para reactivar el teclado. Proporciona a tu iPad una larga duración de la batería y la batería puede durar hasta varias horas.
-- *Diseñado con magnética auto reposo / activación función. Integrado en el stand con múltiples ángulos de visión (escribiendo y mirando).Los recortes perfectos para la cámara, altavoces, soporte y otros puertos.
-- *100% nueva, ultra delgada, diseño único, ligera, y perfecta.Cuero sintético superior con no-cero interior de microfibra suave. Evitar que las huellas dactilares, la suciedad y los arañazos.
 - * Ampliamente utilizado: KVAGO Funda de teclado para iPad Air 4. Compatible con el nuevo iPad Air 4 2020 10.9 pulgadas 4a Generazione(A2324/A2072/A2316/A2325). iPad Pro 11 pulgadas 2a generazione 2020 (A2228 / A2068 / A2230 / A2231). iPad Pro 11 pulgadas 1a generazione 2018 (A1980 / A2013 / A1934 / A1979). El modelo iPad se encuentra en la parte posterior del iPad. Por favor, confirme si es el modelo correcto que desea antes de comprar, y evite errores de compra
+- *Teclado Español Portátil & Ahorro de Energía：Tiene la letra Ñ. El teclado diseñado super delgado y con material ABS de alta gama, más ligero y más cómodo de llevar. durable y anti-rayado / rebote del botón de confort，Se irá a dormir automáticamente si no presiona ningún botón durante 10 minutos,Puedes pulsar cualquier tecla para reactivar el teclado. Proporciona a tu iPad una larga duración de la batería y la batería puede durar hasta varias horas.
 - * Servicio de Empaque y Satisfacción al 100%: Incluye 1 funda para iPad Air 4. 1 teclado Bluetooth, 1 * cable de carga micro USB, 1 * manual de usuario español.KVAGO ofrece un servicio de contacto vía e-mail las 24 horas del día ， Servicio post-venta gratuito durante 10 meses.
+- *100% nueva, ultra delgada, diseño único, ligera, y perfecta.Cuero sintético superior con no-cero interior de microfibra suave. Evitar que las huellas dactilares, la suciedad y los arañazos.
+- *Diseñado con magnética auto reposo / activación función. Integrado en el stand con múltiples ángulos de visión (escribiendo y mirando).Los recortes perfectos para la cámara, altavoces, soporte y otros puertos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HWRNLR4/?tag=tolees-21)

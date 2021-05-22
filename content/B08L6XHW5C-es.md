@@ -28,15 +28,15 @@ Tienes [Apple iPhone SE  64 GB  - en Negro](https://www.amazon.es/dp/B08L6XHW5C
 
 ℹ️:
 
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
+- Cámara frontal de 7 Mpx con modo Retrato, Iluminación de Retratos y Control de Profundidad
+- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
+- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Carga inalámbrica
+- Chip A13 Bionic con Neural Engine de 3.ª generación
 - Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone SE ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
+- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
 - Admite carga rápida
 - Pantalla Retina HD de 4,7 pulgadas
-- Cámara frontal de 7 Mpx con modo Retrato, Iluminación de Retratos y Control de Profundidad
-- Carga inalámbrica
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
-- Touch ID para autenticarse de forma segura y usar Apple Pay
-- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
-- Chip A13 Bionic con Neural Engine de 3.ª generación
-- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L6XHW5C/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Asus Cerberus Mat Mini - Alfombrilla](https://www.amazon.es/dp/B075KPNKH
 
 ℹ️:
 
-- Movimientos de precisión
+- Diseño resistente al desgaste
 - Tejido de alta resistencia
 - Funciona con todos los tipos de sensor y sensibilidades
 - Seguimiento con precisión al píxel
-- Diseño resistente al desgaste
+- Movimientos de precisión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075KPNKHV/?tag=tolees-21)
