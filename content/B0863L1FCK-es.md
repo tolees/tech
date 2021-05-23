@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Apple iPad Pro  de 11 Pulgadas  2.ª gene al 27.45 % de descuento'
-date: 2021-05-04 14:36:00
+title: '2020 Apple iPad Pro  de 11 Pulgadas  con al 28.64 % de descuento'
+date: 2021-05-23 08:35:16
 image: 'https://m.media-amazon.com/images/I/418bPQfyj+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0863L1FCK-es Apple iPad Pro de 11 Pulgadas 2.ª generación con Wi-Fi y 1...'
+slug: 'B0863L1FCK-es 2020 Apple iPad Pro de 11 Pulgadas con Wi-Fi y 1 TB -...'
 sku: 'B0863L1FCK-es'
 tags: [ 'Informática','Tablets','apple', ]
-actualPrice: 1036.68 EUR
+actualPrice: 1019.74 EUR
 currency: EUR
-price: 1036.68
+price: 1019.74
 comparePrice: 1429.0 EUR
-prodname: 'Apple iPad Pro  de 11 Pulgadas  2.ª generación  con Wi-Fi y 1 TB  - Plata  2020 '
+prodname: '2020 Apple iPad Pro  de 11 Pulgadas  con Wi-Fi y 1 TB  - Plata  2.ª generación '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21'
-descuento: '27.45'
-average: '1163.06357142858'
+descuento: '28.64'
+average: '1153.50866666667'
 ---
 
-Está [Apple iPad Pro  de 11 Pulgadas  2.ª generación  con Wi-Fi y 1 TB  - Plata  2020 ](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21) con 27.45 de descuento por 1036.68 EUR (original: 1429.0 EUR) en el siguiente enlace!
+Está [2020 Apple iPad Pro  de 11 Pulgadas  con Wi-Fi y 1 TB  - Plata  2.ª generación ](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21) con 28.64 de descuento por 1019.74 EUR (original: 1429.0 EUR) en el siguiente enlace!
 
-[![Apple iPad Pro  de 11 Pulgadas  2.ª gene](https://m.media-amazon.com/images/I/418bPQfyj+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
+[![2020 Apple iPad Pro  de 11 Pulgadas  con](https://m.media-amazon.com/images/I/418bPQfyj+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
 
 ℹ️:
 
-- Hasta 10 horas de autonomía
-- Redes wifi 802.11ax
-- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Face ID para autenticarse de forma segura y usar Apple Pay
+- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
 - Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Hasta 10 horas de autonomía
+- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
 - Cámara frontal TrueDepth de 7 Mpx
 - Chip A12Z Bionic con Neural Engine
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Redes wifi 802.11ax
 - Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Face ID para autenticarse de forma segura y usar Apple Pay
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
