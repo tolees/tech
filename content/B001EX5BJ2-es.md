@@ -28,10 +28,10 @@ Ahora mismo tienes [Canon PG-510 Cartucho de tinta original Negro para Impresora
 
 🔎:
 
-- Tinta de alta calidad
 - Imprime hasta 220 hojas
 - Cantidad 9 ml
-- Cartucho original, ideal para tu impresora en la oficina o en casa
 - Compatible con Canon Pixma, MX320, 330, 340, 350, 360, 410, 420 - MP230, 240, 250, 252, 260, 270, 272, 280, 282, 480, 490, 492, 495, 499-IP2700, 2702
+- Tinta de alta calidad
+- Cartucho original, ideal para tu impresora en la oficina o en casa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001EX5BJ2/?tag=tolees-21)
