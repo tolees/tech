@@ -29,10 +29,10 @@ En este momento está [Gigabyte Technology - Placa base B450M S2H AM4 B450 MATX]
 🔎:
 
 - Factor de forma: µATX
+- Procesadores: procesadores AMD ryzen Series para socket am4
+- Sopporta AMD 3rd Gen Ryzen/ 2nd Gen Ryzen/ 1st Gen Ryzen/ 2nd Gen Ryzen with Radeon Vega Graphics/ 1st Gen Ryzen with Radeon Vega Graphics/ Athlon with Radeon Vega Graphics Processors
 - Gráficos chip en CPU, 1 x PCIe x16, CrossFireX
 - Max. de memoria: 32 GB
-- Sopporta AMD 3rd Gen Ryzen/ 2nd Gen Ryzen/ 1st Gen Ryzen/ 2nd Gen Ryzen with Radeon Vega Graphics/ 1st Gen Ryzen with Radeon Vega Graphics/ Athlon with Radeon Vega Graphics Processors
 - Casquillo: am4
-- Procesadores: procesadores AMD ryzen Series para socket am4
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KX428VH/?tag=tolees-21)
