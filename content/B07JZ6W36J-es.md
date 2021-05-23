@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amoner Cargador USB de Pared con 3 Puert al 15.01 % de descuento'
-date: 2021-05-16 23:58:33
+date: 2021-05-23 09:44:29
 image: 'https://m.media-amazon.com/images/I/31hHSRm0KaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amoner'
 buyurl: 'https://www.amazon.es/dp/B07JZ6W36J/?tag=tolees-21'
 descuento: '15.01'
-average: '12.015'
+average: '11.9066666666667'
 ---
 
 Está [Amoner Cargador USB de Pared con 3 Puertos Cargador USB 3A Una Corriente Máxima de 2 4A Cargador Móvil para Todos Los Tipos de Celular 2 Packs  Blanco ](https://www.amazon.es/dp/B07JZ6W36J/?tag=tolees-21) con 15.01 de descuento por 11.04 EUR (original: 12.99 EUR) en el siguiente enlace!
