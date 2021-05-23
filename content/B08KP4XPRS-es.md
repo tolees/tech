@@ -28,11 +28,11 @@ Tienes [AOC Monitor Gaming G2490VXA - 24" Full HD  144Hz  1Ms  VA  FreeSync Prem
 
 🔎:
 
-- Con una frecuencia de actualización de 144 Hz cada fotograma se procesa con gran precisión
 - Shadow Control: ¡Saca la batalla de las sombras gracias al control de sombras de AOC
-- Tecnología de pantalla: LED
-- Un tiempo de respuesta de píxeles de 1 ms GTG implica velocidad sin que la experiencia de juego pierda calidad
+- Con una frecuencia de actualización de 144 Hz cada fotograma se procesa con gran precisión
 - La tecnología AMD FreeSync Premium hace que las tasas de refresco de la GPU y del monitor se sincronicen
 - Tamaño de pantalla: 23.8 inches
+- Un tiempo de respuesta de píxeles de 1 ms GTG implica velocidad sin que la experiencia de juego pierda calidad
+- Tecnología de pantalla: LED
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KP4XPRS/?tag=tolees-21)

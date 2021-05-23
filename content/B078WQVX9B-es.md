@@ -29,8 +29,8 @@ Tienes [SAMSUNG EVO M.2 - Disco Estado Solido SSD  500 GB  550 megabytes/s  Colo
 🔎:
 
 - Lectura secuencial: 550MB/s
-- Velocidad de transferencia de datos: 550 MB por segundo
 - Escritura secuencial: 520MB/s
+- Velocidad de transferencia de datos: 550 MB por segundo
 - Dispone de interfaz M.2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078WQVX9B/?tag=tolees-21)
