@@ -29,7 +29,7 @@ En este momento está [Apple MagSafe 2 - Adaptador de Corriente de 85 vatios  
 🔎:
 
 - De corriente carga la batería de polímeros de litio mientras el equipo está apagado, encendido o en reposo, y también alimenta el equipo si decides utilizarlo sin batería
-- Apple adaptador de corriente de 85 vatios (para el macbook pro con pantalla retina)
 - Necesitas un segundo adaptador para casa o la oficina? este innovador adaptador de ca de apple ha sido especialmente diseñado para el macbook pro con pantalla retina
+- Apple adaptador de corriente de 85 vatios (para el macbook pro con pantalla retina)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008ATNJNS/?tag=tolees-21)
