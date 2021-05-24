@@ -28,9 +28,9 @@ Tienes [Epson EB-FH06 - Proyector Full HD 1080p  3500 lúmenes  Contraste 16.000
 
 ℹ️:
 
-- Equipo asequible y de alta tecnología | Disfruta de este proyector Full HD 1080p
 - Vive la experiencia de la gran pantalla | Disfruta en gran pantalla de tus películas, videojuegos y eventos deportivos favoritos desde el sofá
 - Fácil de configurar | Corrección Keystone, Miracast incorporado y la aplicación iProjection
+- Equipo asequible y de alta tecnología | Disfruta de este proyector Full HD 1080p
 - Solución de larga duración | 18 años de entretenimiento
 - Pantalla impresionante y luminosa | Emisión de luz de 3400 lúmenes ya sea en blanco o en color
 
