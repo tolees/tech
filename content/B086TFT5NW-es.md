@@ -29,10 +29,10 @@ Tienes [Microsoft 365 Familia | Suscripción anual | Para 6 PCs o Macs  6 tablet
 ℹ️:
 
 - Seguridad adecuada para correo electrónico y archivos
-- Creación de publicaciones y bases de datos: Publisher, Access; Sólo para PC
+- Actualizaciones y soporte técnico continuo
 - 6 TB de almacenamiento en OneDrive; 1 TB por persona
 - Correo electrónico, calendarios y tareas: Outlook
+- Creación de publicaciones y bases de datos: Publisher, Access; Sólo para PC
 - Versiones totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características óptimas todos los meses
-- Actualizaciones y soporte técnico continuo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086TFT5NW/?tag=tolees-21)
