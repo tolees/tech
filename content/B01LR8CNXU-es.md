@@ -28,10 +28,10 @@ En este momento está [Yizhet Bluetooth 4.0 USB Adaptador  Bluetooth 4.0 Dongle 
 
 🔎:
 
+- 【Sistema compatible】El adaptador USB Bluetooth 4.0 es compatible con Win 10, 8.1, 8, 7, Vista, XP, 32 bit o 64 bit. Plug & Play para la mayoría de los dispositivos Win10 y Win 8 instala automáticamente el controlador. Los sistemas Win7 y XP necesitan instalar los controladores antes de que puedan ser utilizados.
+- 【Última versión】CSR4.0 Adaptador Bluetooth es la versión más alta con la velocidad más rápida con la compatibilidad y la estabilidad de ultra-alta velocidad. Compatible con Bluetooth 3.0/2.1/2.0/1.1.
 - 【Múltiples usos】PC o portátil y otros dispositivos con interfaz USB para Bluetooth. Fácil de operar y fácil tomar, Bluetooth CSR 4.0 USB Dongle adaptador puede fácilmente añadir función Bluetooth para su ordenador, permite al ordenador conectar de forma inalámbrica más dispositivos Bluetooth como auriculares Bluetooth, altavoces, receptor, teclado, ratón, smartphone, tableta, impresora, proyector ect.
 - 【Distancia de funcionamiento】Bluetooth alcance efectivo de 10-20m. El rango de transmisión inalámbrica puede ser de hasta 20m en el espacio libre.
 - 【Conveniencia】Plug & Play, no necesita fuente de alimentación externa. La máxima velocidad de transmisión puede alcanzar los 3Mbps, larga distancia de transmisión, velocidad rápida y señal estable.
-- 【Última versión】CSR4.0 Adaptador Bluetooth es la versión más alta con la velocidad más rápida con la compatibilidad y la estabilidad de ultra-alta velocidad. Compatible con Bluetooth 3.0/2.1/2.0/1.1.
-- 【Sistema compatible】El adaptador USB Bluetooth 4.0 es compatible con Win 10, 8.1, 8, 7, Vista, XP, 32 bit o 64 bit. Plug & Play para la mayoría de los dispositivos Win10 y Win 8 instala automáticamente el controlador. Los sistemas Win7 y XP necesitan instalar los controladores antes de que puedan ser utilizados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LR8CNXU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [RICOO TS5611 Soporte Monitor Mesa Giratorio Inclinable Pantalla PC 12-30
 
 ℹ️:
 
-- ✅ APTO PARA: Pie para monitores computadora de Acer Samsung Sharp Toshiba Thomson LG Philips Sony Medion Panasonic BenQ Asus HP Dell AOC Eizo Hisense Lenovo MSI Viewsonic Hannspree iiyama
 - ✅ FUNCIONES: Fijación simple para pantallas ordenadores es orientable 180 grados. Inclinación regulable de +/-45 grados. Panel frontal es rotatorio de 360 grados. Altura de la base es ajustable
+- ✅ APTO PARA: Pie para monitores computadora de Acer Samsung Sharp Toshiba Thomson LG Philips Sony Medion Panasonic BenQ Asus HP Dell AOC Eizo Hisense Lenovo MSI Viewsonic Hannspree iiyama
+- OTROS TERMINOS: Anclaje monitor computer ultra-wide led lcd curvo diseño computer oficina estudio elevador home-office estacion de trabajo accesorio gaming organizador universal altillo estante peana pedestal alzador secreter
 - ✅ COMPATIBILIDAD: Desk-mount compatible con diagonales de Flat-Screen de 30cm/12" 38cm/15" 41cm/16" 43cm/17" 48cm/19" 51cm/20" 53cm/21" 56cm/22" 58cm/59cm/23" 61cm/24" 66cm/26" 69cm/27" 76cm/30" pulgadas
 - ✅ CAPACIDAD: Colgador carga 8kg máx. Apto para estándar VESA 75x75 y 100x100. Montaje a mesa o escritorio
-- OTROS TERMINOS: Anclaje monitor computer ultra-wide led lcd curvo diseño computer oficina estudio elevador home-office estacion de trabajo accesorio gaming organizador universal altillo estante peana pedestal alzador secreter
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N9KKQH5/?tag=tolees-21)
