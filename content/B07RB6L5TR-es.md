@@ -28,11 +28,11 @@ Tienes [Lenovo Legion Y44w - Monitor Gaming Curvo 43.4" UHD  FreeSync Pro  144 H
 
 ℹ️:
 
-- 43.4" UHD VA: Esta pantalla ofrece una experiencia de usuario fantástica, imágenes increiblemente nítidas gracias a su resolución UHD y una experiencia visual sin ataduras con la curvatura 1800R
-- Esta pantalla ofrece hasta un 11 % más de área de visión que un monitor 32:9, lo que hace que nada en pantalla se escape a tus ojos
-- 4 ms y 144 Hz: Rendimiento extremadamente fluido con 144 Hz de frecuencia de actualización y 4 ms de tiempo de respuesta
-- FreeSync: Tecnología AMD Radeon FreeSync 2 y DisplayHDR 400 con certificación VESA para una experiencia de juego realista
 - Tipo de conectividad: displayport
 - 2 puertos USB 3.1 tipo C: Para señales de audio y vídeo, transferencias de datos y carga simultánea de dispositivos; dispone de un puerto oculto delantero USB 3.0 y de una toma de audio
+- Esta pantalla ofrece hasta un 11 % más de área de visión que un monitor 32:9, lo que hace que nada en pantalla se escape a tus ojos
+- FreeSync: Tecnología AMD Radeon FreeSync 2 y DisplayHDR 400 con certificación VESA para una experiencia de juego realista
+- 43.4" UHD VA: Esta pantalla ofrece una experiencia de usuario fantástica, imágenes increiblemente nítidas gracias a su resolución UHD y una experiencia visual sin ataduras con la curvatura 1800R
+- 4 ms y 144 Hz: Rendimiento extremadamente fluido con 144 Hz de frecuencia de actualización y 4 ms de tiempo de respuesta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RB6L5TR/?tag=tolees-21)

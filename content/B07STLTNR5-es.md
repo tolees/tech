@@ -29,9 +29,9 @@ Tienes [Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Retro  Nin
 ℹ️:
 
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Botones de configuración en el lateral
 - Joystick y botones exclusivos Hayabusa
-- Compatible también con PC
+- Botones de configuración en el lateral
 - Licencias oficiales de Nintendo y Capcom
+- Compatible también con PC
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07STLTNR5/?tag=tolees-21)
