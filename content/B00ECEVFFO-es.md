@@ -28,9 +28,9 @@ Tienes [Sandisk 64GB Extreme Pro CF - Memoria Compact Flash de 64 GB  CompactFla
 
 ℹ️:
 
-- Velocidades de escritura hasta 150 MB/s
-- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
 - Optimizado para la captura de vídeo 4K
+- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
 - Velocidades de transferencia de hasta 160 MB/s
+- Velocidades de escritura hasta 150 MB/s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ECEVFFO/?tag=tolees-21)
