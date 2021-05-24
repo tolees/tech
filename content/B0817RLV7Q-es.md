@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIANAC Cable USB Tipo C  4Pack [0.5M 1M  al 15.02 % de descuento'
-date: 2021-05-07 17:05:52
+date: 2021-05-23 23:06:25
 image: 'https://m.media-amazon.com/images/I/5113dICLzRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GIANAC'
 buyurl: 'https://www.amazon.es/dp/B0817RLV7Q/?tag=tolees-21'
 descuento: '15.02'
-average: '7.08217391304348'
+average: '7.14076923076923'
 ---
 
 Ahora mismo tienes [GIANAC Cable USB Tipo C  4Pack [0.5M 1M 2M 3M] 3A Cargador Tipo C Nylon Carga Rápida y Sincronización Cable USB C para Samsung Galaxy S9/S8/Note 10/Note 9 Huawei P30/P20/Mate 20 Sony Xperia.](https://www.amazon.es/dp/B0817RLV7Q/?tag=tolees-21) a 6.79 EUR (original: 7.99 EUR) (15.02 %  de descuento) en el siguiente enlace!
