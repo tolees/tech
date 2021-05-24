@@ -28,9 +28,9 @@ En este momento está [Gigabyte Technology B460M DS3H](https://www.amazon.es/dp/
 
 🔎:
 
-- Marca: Gigabyte Technology
-- Producto resistente
 - Placa base gigabyte ga-b460m-ds3h (s.1200)
+- Marca: Gigabyte Technology
 - Capacidad de la memoria ram (gb): 1.0 gb
+- Producto resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLHSWJD/?tag=tolees-21)

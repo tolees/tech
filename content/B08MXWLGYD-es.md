@@ -28,9 +28,9 @@ En este momento está [LG XBOOM Go PL2S Amarillo - Altavoz Bluetooth de 5W de Po
 
 🔎:
 
-- 10h de música sin parar gracias a la batería de larga duración de lg xboom go pl2
 - Calidad de sonido meridian; el lg xboom go pl2 marca el ritmo con la tecnología meridian para disfrutar de un sonido de alta calidad
 - 5w para disfrutar de la música donde quieras; lg pone el sonido; tú eliges el lugar
+- 10h de música sin parar gracias a la batería de larga duración de lg xboom go pl2
 - Ahora con diseño en color hielo azul para disfrutar de la música de calidad en cualquier lugar
 - Conectividad bluetooth 5.0; la conexión que con mayor calidad y menor consumo de batería
 

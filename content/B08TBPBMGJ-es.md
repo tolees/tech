@@ -28,10 +28,10 @@ En este momento está [IEsafy - Power Bank 10000mAh Batería Externa Móviles Ul
 
 🔎:
 
+- 10000mAh CAPACIDAD - Asegura el demanda de electricidad de su teléfono en un día, carga a su xiaomi 1.3 veces, Huawei Nova 5T 2 veces, Samsung S10 2 veces.
 - 2.1A SALIDAS & 2A ENTRADAS - Las entradas de USB C / Micro y salidas de 2 USB para elegir, son convenientes y rápidas que otros power bank de 1A.
 - MÚLTI-PROTECCIONES - Chip incorporados de alta calidad y 6 pisos protecciones, para corriente eléctrica de entradas y salidas eficientes y seguras.
-- LIGERO & COMPACTO - Solo 1.5cm ultra-delgado tamaño, también tiene una artesanía de precisión, es de texture de estria. Le ofrece una buena sensación y experiencia.
-- 10000mAh CAPACIDAD - Asegura el demanda de electricidad de su teléfono en un día, carga a su xiaomi 1.3 veces, Huawei Nova 5T 2 veces, Samsung S10 2 veces.
 - ESTACIÓN DE ENERGÍA PORTÁTIL - Si quiere salir a deporte, o tomar avión, o Chat en línea durante mucho tiempo con la familia, puede póngasela fácilmente.
+- LIGERO & COMPACTO - Solo 1.5cm ultra-delgado tamaño, también tiene una artesanía de precisión, es de texture de estria. Le ofrece una buena sensación y experiencia.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TBPBMGJ/?tag=tolees-21)
