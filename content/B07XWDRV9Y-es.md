@@ -28,11 +28,11 @@ Tienes [Lenovo D32q-20 - Monitor de 31.5" QHD  2560x1440 píxeles  16:9  75Hz  4
 
 🔎:
 
+- Ajustable en inclinación: -5° / 22°
 - Relación de aspecto nativa: 16:9
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 - Cable HDMI incluido; puertos HDMI y DP
 - Monitor de 31.5" con resolución QHD (2560x1440 píxeles) y tecnología Low Blue Light para cuidar tu vista
-- Ajustable en inclinación: -5° / 22°
+- Con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XWDRV9Y/?tag=tolees-21)
