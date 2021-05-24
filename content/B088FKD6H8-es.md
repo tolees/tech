@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'TMEZON Webcam 1080P  cámara Web USB  cám con un 24.25 % de descuento'
-date: 2020-07-16 06:45:48
-image: 'https://m.media-amazon.com/images/I/41hiLvwHlEL._SL400_.jpg'
+title: 'TMEZON Webcam 1080P  cámara Web USB  cám con un 23.96 % de descuento'
+date: 2021-05-24 01:05:20
+image: 'https://m.media-amazon.com/images/I/41tcMmZzMnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B088FKD6H8-es TMEZON Webcam 1080P cámara Web USB cámara de computadora...'
 sku: 'B088FKD6H8-es'
-tags: [ '1080p', ]
-actualPrice: 24.99 EUR
+tags: [ '1080p','Accesorios','Accesorios de audio y vídeo para ordenadores','Informática','Webcams y telefonía VoIP','tmezon', ]
+actualPrice: 14.44 EUR
 currency: EUR
-price: 24.99
-comparePrice: 32.99 EUR
+price: 14.44
+comparePrice: 18.99 EUR
 prodname: 'TMEZON Webcam 1080P  cámara Web USB  cámara de computadora HD para Skype  FaceTime  Hangouts  PC/Mac/Laptop/MacBook/Tablet con micrófono Incorporado Enfoque Automático y Reducción de Ruido'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'TMEZON'
 buyurl: 'https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21'
-descuento: '24.25'
-average: '24.99'
+descuento: '23.96'
+average: '21.4733333333333'
 ---
 
-En este momento está [TMEZON Webcam 1080P  cámara Web USB  cámara de computadora HD para Skype  FaceTime  Hangouts  PC/Mac/Laptop/MacBook/Tablet con micrófono Incorporado Enfoque Automático y Reducción de Ruido](https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21) a 24.99 EUR (original: 32.99 EUR) (24.25 %  de descuento) en el siguiente enlace!
+En este momento está [TMEZON Webcam 1080P  cámara Web USB  cámara de computadora HD para Skype  FaceTime  Hangouts  PC/Mac/Laptop/MacBook/Tablet con micrófono Incorporado Enfoque Automático y Reducción de Ruido](https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21) a 14.44 EUR (original: 18.99 EUR) (23.96 %  de descuento) en el siguiente enlace!
 
-[![TMEZON Webcam 1080P  cámara Web USB  cám](https://m.media-amazon.com/images/I/41hiLvwHlEL._SL400_.jpg)](https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21)
+[![TMEZON Webcam 1080P  cámara Web USB  cám](https://m.media-amazon.com/images/I/41tcMmZzMnL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21)
 
 🔎:
 
+- 【Enfoque automático rápido】El enfoque automático rápido y preciso asegura que la cámara se mantenga enfocada en su rostro automáticamente, incluso si se mueve, presentándole el mejor estado.
+- 【1080P Definición Alta】Haga llamadas de pantalla ancha, grabe y reproduzca video HD 1080P fiel a la realidad a 30 fps con una calidad de imagen clara y nítida en sus aplicaciones favoritas, como Skype.
+- 【Compatibilidad】Windows 7, Windows 8, Windows 10 o posterior, Mac OS 10.10 o posterior, y Chrome OS. Trabaja con Facebook Live, Google Hangouts, FaceTime, YouTube, etc.
+- 【Micrófono de reducción de ruido】El micrófono omnidireccional filtra el ruido de fondo externo y captura tu voz desde todos los ángulos, para asegurarte de que te escuchen con mucha claridad.
+- 【Sin unidad y Plug and Play】Cámara web HD 1080p con micrófono y enfoque automático, esta cámara web de streaming puede simplemente conectar y reproducir vídeo, sin instalar ningún software o controladores adicionales. Cámara web inalámbrica compatible con USB 2.0. Fácil de configurar, cámara web de televisión con la ayuda de clip giratorio, te permite montarlo en cualquier dispositivo como portátil, trípode, escritorio, computadoras, pantalla LED e incluso poner cámara web en un escritorio.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088FKD6H8/?tag=tolees-21)

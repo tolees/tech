@@ -28,10 +28,10 @@ Está [WAVLINK USB 3.0 Portátil Docking Station Multifuncional Dual Video Monit
 
 ℹ️:
 
-- 2 puertos de USB 2.0 cumplir todos los dispositivos de USB 2.0, como escáner, cámara digital, teclado, ratón, impresora, ect. 2 puertos de USB 3.0 súper velocidad de transferencia hasta 5 Gbps, 2 rápidos puertos de carga puede cargar su iPhone, Samsung y otros smartphones.
-- Construir en USB 3.0 GPU certificada por DisplayLink. Tamaño compacto, pantalla LED, fácil configuración, operación de multifuncion rendimiento, trae un nuevo estilo para ti.
-- Universal Docking Station es adecuado para su uso con Windows 8, 8, 7, & Legacy XP sistemas, Mac OS, Android. Descargar último controlador de certificado de DisplayLink Web.No soporta Win 10
-- Gigabit Ethernet RJ - 45 puerto 10 / 100 / 1000 Mbps Ethernet. Salida de audio general: Auricular + Mic combinación de la conexión de audio.
 - EL Dock construido en doble pantalla, Puerto de HDMI Soporta resoluciones hasta 2560 x 1440, Puerto de DVI / VGA soporta resoluciones hasta 2048x1152 / 1920x1200. DVI a VGA adaptadores son suministrados para mayor utiliza de flexibilidad.
+- Gigabit Ethernet RJ - 45 puerto 10 / 100 / 1000 Mbps Ethernet. Salida de audio general: Auricular + Mic combinación de la conexión de audio.
+- 2 puertos de USB 2.0 cumplir todos los dispositivos de USB 2.0, como escáner, cámara digital, teclado, ratón, impresora, ect. 2 puertos de USB 3.0 súper velocidad de transferencia hasta 5 Gbps, 2 rápidos puertos de carga puede cargar su iPhone, Samsung y otros smartphones.
+- Universal Docking Station es adecuado para su uso con Windows 8, 8, 7, & Legacy XP sistemas, Mac OS, Android. Descargar último controlador de certificado de DisplayLink Web.No soporta Win 10
+- Construir en USB 3.0 GPU certificada por DisplayLink. Tamaño compacto, pantalla LED, fácil configuración, operación de multifuncion rendimiento, trae un nuevo estilo para ti.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077PVMVW6/?tag=tolees-21)
