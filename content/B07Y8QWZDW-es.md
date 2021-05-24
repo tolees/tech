@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Basilisk X HyperSpeed - Ratón inal con un 49.79 % de descuento'
-date: 2021-05-22 11:32:05
+date: 2021-05-24 12:01:16
 image: 'https://m.media-amazon.com/images/I/21Od1qglIjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07Y8QWZDW/?tag=tolees-21'
 descuento: '49.79'
-average: '47.1553846153846'
+average: '46.2971428571428'
 ---
 
 En este momento está [Razer Basilisk X HyperSpeed - Ratón inalámbrico para juegos  Ratón Gaming con tecnología Razer HyperSpeed  inalámbrico  sensor óptico 5G y 6 botones configurables libremente  Negro](https://www.amazon.es/dp/B07Y8QWZDW/?tag=tolees-21) a 35.14 EUR (original: 69.99 EUR) (49.79 %  de descuento) en el siguiente enlace!
