@@ -28,10 +28,10 @@ Ahora mismo tienes [GIANTARM - Filamento de PLA de 1 75 mm para impresora 3D  0 
 
 🔎:
 
-- - - -
-- 4. Gran compatibilidad: compatible con impresoras 3D y lápices 3D que utilizan filamentos de 1,75 mm
-- 3. Paquete profesional y sellado al vacío, fácil de imprimir, sin obstrucciones, materiales naturales, no tóxico
 - 2. Alta precisión de +/-0,03 milímetros. Tolerancia: bobina de hilo de impresora 3D completa de 1,5 kilos, redondez total. 330 m de filamento en cada bobina, fácil de usar, mínima deformación, sin olor, sin atascos, sin burbujas
+- 4. Gran compatibilidad: compatible con impresoras 3D y lápices 3D que utilizan filamentos de 1,75 mm
+- - - -
 - 1. Filamentos similares a la seda para impresiones llamativas y brillantes: con los filamentos sedosos de GIANTARM puedes crear impresiones excelentes. Perfecto para proyectos de manualidades, jarrones y cualquier otro objeto de impresión 3D que pueda beneficiarse de un aspecto sedoso único
+- 3. Paquete profesional y sellado al vacío, fácil de imprimir, sin obstrucciones, materiales naturales, no tóxico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TB7CXND/?tag=tolees-21)
