@@ -28,10 +28,10 @@ Está [Docooler - HXSJ V100 - Teclado para Videojuegos  Membrana con una Mano  3
 
 ℹ️:
 
-- 🌈【Mini portátil】35 teclas, mini diseño que proporciona una experiencia de operación con una sola mano súper fácil.  
-- 💫【Dispositivo compatible】 Este producto se puede conectar directamente a una computadora o computadora portátil a través de USB. También es compatible con los simuladores convencionales en el mercado, y puede usarse para conectar teléfonos móviles y tabletas a través del simulador.
-- 👏【 Con control de luz avanzado programable】que le da una mejor sensación táctil y crea tu propio teclado especial.
 - 🎮【Luminoso】: retroiluminación de color LED, más fresco por la noche.
+- 💫【Dispositivo compatible】 Este producto se puede conectar directamente a una computadora o computadora portátil a través de USB. También es compatible con los simuladores convencionales en el mercado, y puede usarse para conectar teléfonos móviles y tabletas a través del simulador.
 - ⌨【se adapta a tus manos y muñeca】simplifica el complejo procedimiento de operación, vence al rival más rápido en los juegos.
+- 🌈【Mini portátil】35 teclas, mini diseño que proporciona una experiencia de operación con una sola mano súper fácil.  
+- 👏【 Con control de luz avanzado programable】que le da una mejor sensación táctil y crea tu propio teclado especial.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P81WGL1/?tag=tolees-21)

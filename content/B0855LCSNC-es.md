@@ -28,10 +28,10 @@ Tienes [Mini PC  ACEPC T11 Windows 10 Pro 64 bits  Intel x5-z8350 sin Ventilador
 
 ℹ️:
 
-- Pequeño pero potente: 2,4G+5G doble frecuencia WiFi, 1000MB/s red local de Ethernet, 4.2 bluetooth, todo es más fácil cuando se transfiere y descarga.4K High-level video Entertainment Home Entertainment, Perfect to family office, online, film, etc.
-- Diseño sin ventilador: Gracias al diseño sin ventilador, el ACEPC T11 mini PC es un actor discreto que puede reducir el nivel de ruido.Todas las conexiones importantes están disponibles: 1x LAN, 2x USB 3.0, 2x USB 2.0, 1x HDMI, 1x salida de audio, 1x VGA, 1x Micro SD
 - Opciones de almacenamiento: memoria 4GB, memoria 64GBPuede utilizar una tarjeta micro SDD de hasta 128GB, una memoria USB o un disco duro USB o un espacio de almacenamiento ampliado SSD/HDD de 2,5 pulgadas.
-- Procesadores Intel Atom: sistema Windows 10 Pro(64 bits), provisto de cuatro procesadores Intel Atom x5-z8350.Su frecuencia básica de funcionamiento es de 1,44GHz/S y aumenta a 1,92GHz en forma de emergencia.
+- Diseño sin ventilador: Gracias al diseño sin ventilador, el ACEPC T11 mini PC es un actor discreto que puede reducir el nivel de ruido.Todas las conexiones importantes están disponibles: 1x LAN, 2x USB 3.0, 2x USB 2.0, 1x HDMI, 1x salida de audio, 1x VGA, 1x Micro SD
+- Pequeño pero potente: 2,4G+5G doble frecuencia WiFi, 1000MB/s red local de Ethernet, 4.2 bluetooth, todo es más fácil cuando se transfiere y descarga.4K High-level video Entertainment Home Entertainment, Perfect to family office, online, film, etc.
 - Visualización en pantalla doble: con dos terminales de visualización de salida (VGA y HDMI).Se duplica la eficiencia, se simplifica el trabajo y se reduce el tiempo de espera innecesario.
+- Procesadores Intel Atom: sistema Windows 10 Pro(64 bits), provisto de cuatro procesadores Intel Atom x5-z8350.Su frecuencia básica de funcionamiento es de 1,44GHz/S y aumenta a 1,92GHz en forma de emergencia.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0855LCSNC/?tag=tolees-21)
