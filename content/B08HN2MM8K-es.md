@@ -28,8 +28,8 @@ En este momento está [Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pa
 
 🔎:
 
-- 【2 puertos USB】Simplemente use el cable desmontable USB 2.0 Tipo A macho a Tipo A macho para conectar la estación de acoplamiento a uno de los puertos USB de la computadora portátil. La base tiene dos puertos USB, por lo que también puede conectar otro dispositivo USB.
 - 【Diseño ergonómico y estético】 Hay cinco inclinaciones opcionales que lo hacen cómodo y ergonómico de usar. Soporte de montaje ajustable con diseño antideslizante.
+- 【2 puertos USB】Simplemente use el cable desmontable USB 2.0 Tipo A macho a Tipo A macho para conectar la estación de acoplamiento a uno de los puertos USB de la computadora portátil. La base tiene dos puertos USB, por lo que también puede conectar otro dispositivo USB.
 - 【Rápida disipación de calor】Se puede conectar directamente al puerto USB de la computadora portátil para disipar el calor a través de la fuente de alimentación de la computadora portátil.
 - 【5 ventiladores ultra silenciosos】 Hay 5 ventiladores en la base de enfriamiento, su velocidad es ajustable, lo que le permite enfriar el dispositivo a una temperatura razonable en poco tiempo y crear llamativas luces LED azules para garantizar la seguridad. Entorno sin ruidos. El enfriador de la computadora portátil está funcionando.
 - 【Fácil de transporta】La almohadilla de enfriamiento para computadora portátil solo es pesada y liviana. Es completamente plano y se puede guardar fácilmente en una mochila o maletín.

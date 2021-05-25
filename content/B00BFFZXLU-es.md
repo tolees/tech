@@ -28,10 +28,10 @@ Tienes [Crucial RAM CT51264BD160BJ 4 GB DDR3 1600 MHz CL11 Memoria de Escritorio
 
 ℹ️:
 
-- La calidad y fiabilidad de Micron están respaldadas por las exigentes pruebas a las que sometemos nuestros módulos y componentes, así como gracias a los 42 años de experiencia fabricando dispositivos de memoria
 - Mejore la capacidad de respuesta de su sistema, ejecute las aplicaciones más rápido y realice multitareas de forma sencilla
-- Tipo ECC: No ECC, Factor de forma: UDIMM, Recuento de pines: 240 pines, Velocidad de PC: PC3-12800, Voltaje: 1.35V/1.5V, Rango y Configuración: 1R x 8
 - La compatibilidad está garantizada cuando se usa Crucial System Scanner o la herramienta Crucial Advisor
 - Fácil de instalar: no le harán falta conocimientos informáticos; manuales de instrucciones disponibles en Crucial
+- Tipo ECC: No ECC, Factor de forma: UDIMM, Recuento de pines: 240 pines, Velocidad de PC: PC3-12800, Voltaje: 1.35V/1.5V, Rango y Configuración: 1R x 8
+- La calidad y fiabilidad de Micron están respaldadas por las exigentes pruebas a las que sometemos nuestros módulos y componentes, así como gracias a los 42 años de experiencia fabricando dispositivos de memoria
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BFFZXLU/?tag=tolees-21)
