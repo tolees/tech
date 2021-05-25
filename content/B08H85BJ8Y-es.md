@@ -28,11 +28,11 @@ En este momento está [Samsung Barra de Sonido HW-T430/ZF de 100 W  Dolby Digita
 
 🔎:
 
-- Dolby digital 2.1.: innovador sistema de sonido que potencia el audio de cada escena gracias a sus 2.1; canales
-- Vataje (W): 100.0 watts
 - Bluetooth 4.2 power on: despreocúpate, la barra se encenderá y se apagará automáticamente al hacerlo el televisor
-- Subwoofer inalámbrico: potencia los graves y olvídate de los cables colocando el subwoofer donde quieras
-- One remote control: un único mando para controlar todos tus dispositivos y acceder a tus contenidos
 - Compatible con el Wireless surround kit swa-8500s
+- Dolby digital 2.1.: innovador sistema de sonido que potencia el audio de cada escena gracias a sus 2.1; canales
+- One remote control: un único mando para controlar todos tus dispositivos y acceder a tus contenidos
+- Vataje (W): 100.0 watts
+- Subwoofer inalámbrico: potencia los graves y olvídate de los cables colocando el subwoofer donde quieras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H85BJ8Y/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Woxter Stinger Elite Kit - Kit Gaming para Profesionales  Teclado Mecáni
 
 ℹ️:
 
-- Ratón óptico FX 85 M: sensor láser con resolución ajustable de hasta 6400 DPI, (800/1200/1600/2400/3200/4800/6400 DPI) luces leds, laterales antideslizamiento. Mouse Pad de microfibra 75x28 resistente a la abrasión
 - Compatible con sistemas PC/PS4 / Compatible con juegos como Fortnite o Apex Legends. Powered by Woxter
 - Woxter Stinger Elite Kit incluye el Teclado Mecánico Stinger RX 900K, el Ratón Gaming Stinger FX 85 M, Mouse Pad Antiabrasión XL y los Auriculares Gaming Stinger RX 930 H
 - Teclado gaming mecánico RX 900 K: pulsación más suave y durante más tiempo con estructura de aleación de ABS, teclas mecánicas, teclas multimedia multifunción y modos diferentes de iluminación
 - Auriculares Gaming RX 930 H: Retroiluminado, Modo vibración, diámetro del altavoz: 50mm, Sensibilidad: - 42dB +/- 3dB / - Impedancia: 2.2kohm, Almohadillas Over-Ear, acolchado completo muy suave, Mando de control
+- Ratón óptico FX 85 M: sensor láser con resolución ajustable de hasta 6400 DPI, (800/1200/1600/2400/3200/4800/6400 DPI) luces leds, laterales antideslizamiento. Mouse Pad de microfibra 75x28 resistente a la abrasión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1RPKHY/?tag=tolees-21)
