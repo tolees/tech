@@ -28,10 +28,10 @@ Ahora mismo tienes [TECOOL Funda para 2020 2019 2018 MacBook Air 13 Pulgadas A23
 
 🔎:
 
+- [Instalación]: Fix Arregle y aplique la carcasa inferior en primer lugar, luego la cubierta superior y, finalmente, asegúrese de que todos los clips se ajusten a su MacBook Air 13 pulgadas Retina.
+- ❌ [Atención]: El duro case NO es compatible con MacBook Air 13" A1466/ A1369, MacBook Pro 13 A1278 con CD-ROM, MacBook Pro 13 Retina A1502/ A1425, Nuevo MacBook Pro 13 Touch Bar A1706 / A1989, sin Touch Bar A1708.
 - [Paquete]: 1 Funda de X para 2018-2020 Nuevo MacBook Air 13" Retina (con Touch ID, USB-C); 1 X Cubierta de Teclado Transparente Europeo-Versión para 2020 MacBook Air 13, Modelo: A2337 M1 / A2179; 1 X Cubierta de Teclado Transparente Europeo-Versión para 2018-2019 MacBook Air 13, Modelo: A1932.
 - ✅ [Compatibilidad]: El funda plástico se ajusta perfectamente a la 2018-2020 MacBook Air 13 Retina con Touch ID Modelo: A2337 (M1) / A2179 / A1932. Verifique el número de su modelo en la parte posterior de su MacBook Air 13.3 Pulgadas, asegúrese de que sea el título del producto “A2337”, "A2179" o "A1932".
-- [Instalación]: Fix Arregle y aplique la carcasa inferior en primer lugar, luego la cubierta superior y, finalmente, asegúrese de que todos los clips se ajusten a su MacBook Air 13 pulgadas Retina.
 - [Logo de Apple]: Aunque que el logotipo de la nueva MacBook Pro no puede brillar por sí solo, se puede ver a través del carcasa transparente.
-- ❌ [Atención]: El duro case NO es compatible con MacBook Air 13" A1466/ A1369, MacBook Pro 13 A1278 con CD-ROM, MacBook Pro 13 Retina A1502/ A1425, Nuevo MacBook Pro 13 Touch Bar A1706 / A1989, sin Touch Bar A1708.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PRVZJHN/?tag=tolees-21)
