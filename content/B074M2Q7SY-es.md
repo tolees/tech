@@ -28,10 +28,10 @@ Ahora mismo tienes [Fujifilm 70100138068 - Kit de accesorios para Instax Mini 9 
 
 🔎:
 
-- Álbum para 108 fotos Instax Mini
-- Completo kit de accesorios originales de Instax Mini 9
 - Funda de cámara desmontable
 - Color original de la cámara
+- Completo kit de accesorios originales de Instax Mini 9
 - Marco de metacrilato con agua y purpurina en su interior
+- Álbum para 108 fotos Instax Mini
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074M2Q7SY/?tag=tolees-21)
