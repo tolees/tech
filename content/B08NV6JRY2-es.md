@@ -28,9 +28,9 @@ Ahora mismo tienes [GoPro Hero7 - Cámara de Acción  Negro + SanDisk Extreme 
 
 🔎:
 
+- Pantalla/visor electrónico y estabilización de imagen electrónico
+- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Cámara de acción sumergible hasta 10 m, pantalla táctil, vídeo 4K HD, fotos de 12 MP, transmisión en directo
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
-- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Pantalla/visor electrónico y estabilización de imagen electrónico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NV6JRY2/?tag=tolees-21)
