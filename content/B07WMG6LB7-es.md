@@ -28,10 +28,10 @@ Ahora mismo tienes [ABLEWE USB 3.0 Switch 4 Puertos Conmutador KVM USB Switch pa
 
 🔎:
 
-- Este USB Switch 2 Entradas y 4 Salidas permite Compartir 4 usb dispositivos entre 2 computadoras,sin la necesidad de cambiar constantemente los cables o configurar un software complicado para compartir la red.
 - 【Conexión estable y garantía】: conmutador USB 3.0 para compartir con un puerto hembra micro-usb separado para alimentación opcional, que optimiza su compatibilidad con más dispositivos, como HDD, cámaras de video digital, SSD, etc. ABLEWE ofrece 12 meses de garantía y soporte técnico de por vida para Este interruptor USB.
+- Este USB Switch 2 Entradas y 4 Salidas permite Compartir 4 usb dispositivos entre 2 computadoras,sin la necesidad de cambiar constantemente los cables o configurar un software complicado para compartir la red.
 - Ideal para compartir dispositivos como impresora, escáner, mouse, teclado, lector de tarjetas, unidad flash y otros dispositivos USB entre 2 computadoras.Nota importante: utilice un adaptador estándar de 5V (no incluido）para alimentar.
-- 【Gran compatibilidad】USB Switch compatble con Windows 10 / 8 / 8.1 / 7 / XP / Vista, Mac OS X,ChromeOS, Linux y otros, no hace falta instalar el driver.
 - 【Diseño de botón y LED】 Puede fácilmente entre 2 computadoras con solo hacer clic en un botón,El LED indican luces que le permite conocer el estado de funcionamiento en tiempo real.
+- 【Gran compatibilidad】USB Switch compatble con Windows 10 / 8 / 8.1 / 7 / XP / Vista, Mac OS X,ChromeOS, Linux y otros, no hace falta instalar el driver.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WMG6LB7/?tag=tolees-21)
