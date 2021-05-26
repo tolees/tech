@@ -29,14 +29,14 @@ Tienes [Raspberry Pi Spain - Raspberry Pi 100437 - Tarjeta de Puerto USB  7000 M
 ℹ️:
 
 - USB: 4 x USB 2.0
-- Toma Ethernet 10/100 BaseT
+- Salida de audio: 3.5mm jack, HDMI
 - Conector de pantalla: Interfaz serie de pantalla (DSI) Conector de cable plano plano de 15 vías con dos carriles de datos y un carril de reloj
 - Conector GPIO Cabezal de expansión de 40 pines de 2,54 mm (100 mil): tira 2x20 Proporciona 27 pines GPIO, así como líneas de suministro de +3,3 V, +5 V y GND
 - Salida de video: HDMI (rev 1.3 y 1.4); RCA compuesto (PAL y NTSC)
 - CPU: Procesador de aplicaciones ARM1176JZF S de baja potencia de 700 MHz
-- Salida de audio: 3.5mm jack, HDMI
+- Conector de cámara: Interfaz serie de cámara MIPI de 15 pines (CSI-2)
 - GPU: Coprocesador multimedia Dual Core VideoCore IV Proporciona Open GL ES 2.0, OpenVG acelerado por hardware y decodificación de alto perfil 1080p30 H.264 Capaz de 1Gpixel / s, 1.5Gtexel / so 24GFLOPs con filtrado de textura e infraestructura DMA
 - Ranura para tarjeta de memoria: Micro SDIO
-- Conector de cámara: Interfaz serie de cámara MIPI de 15 pines (CSI-2)
+- Toma Ethernet 10/100 BaseT
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LPESRUK/?tag=tolees-21)
