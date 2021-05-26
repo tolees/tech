@@ -28,10 +28,10 @@ Está [Samsung MZ-V7S250BW unidad de estado sólido M.2 - Disco duro sólido  M.
 
 ℹ️:
 
-- velocidad de lectura secuencial hasta 3.500 MB/SEG y velocidad de escritura secuencial hasta 2.300 MB/seg.
 - interfaz SATA 6 GB/s y retrocompatible con SATA 3 Gbps y SATA 1.5 Gbps
-- Factor de forma 2.5 pulgadas
 - lectura AL azar (4kb, qd32) hasta 250000 IOPS y escritura aleatorio (4kb, qd32) hasta 550000 IOPS
+- Factor de forma 2.5 pulgadas
 - 250GB
+- velocidad de lectura secuencial hasta 3.500 MB/SEG y velocidad de escritura secuencial hasta 2.300 MB/seg.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MHXYL6T/?tag=tolees-21)
