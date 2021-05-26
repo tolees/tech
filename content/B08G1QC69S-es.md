@@ -28,9 +28,9 @@ Tienes [Samsung Galaxy Tab S7+ Keyboard Cover Case - Black](https://www.amazon.e
 
 🔎:
 
-- Excelente calidad.
 - Protección contra golpes y rayones.
 - Funda original samsung.
 - Ideal como regalo
+- Excelente calidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G1QC69S/?tag=tolees-21)
