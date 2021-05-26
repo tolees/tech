@@ -29,9 +29,9 @@ Está [Sony CEE Games  New Gen  - Uncharted Collection Hits - Versión 17](https
 ℹ️:
 
 - Rango ESRB: T (adolescente)
-- Plataforma: PlayStation 4
-- Clasificación PEGI: 16
 - Edición de los juegos: básica
+- Plataforma: PlayStation 4
 - Género: acción/aventura
+- Clasificación PEGI: 16
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21)
