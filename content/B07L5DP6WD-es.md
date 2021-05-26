@@ -28,8 +28,8 @@ Está [Apple Base Dock de Carga magnética para el Apple Watch](https://www.ama
 
 ℹ️:
 
-- La base Dock de carga magnética usa el mismo conector inductivo que viene con el Apple Watch y es compatible con los modelos de 38 y 42 mm.
 - Con la base Dock de carga magnética para el Apple Watch puedes cargar el reloj de lado o en posición plana con la correa abierta
+- La base Dock de carga magnética usa el mismo conector inductivo que viene con el Apple Watch y es compatible con los modelos de 38 y 42 mm.
 - Si lo colocas de lado, se activará automáticamente el modo Reloj de Mesa para que puedas usarlo como despertador.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L5DP6WD/?tag=tolees-21)
