@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo D32q-20 - Monitor de 31.5" QHD  2 al 20.40 % de rebaja'
-date: 2021-05-24 09:59:32
+date: 2021-05-26 11:16:09
 image: 'https://m.media-amazon.com/images/I/41qc6hFeJBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Lenovo D32q-20 - Monitor de 31.5" QHD  2560x1440 píxeles  16:9  75Hz  4
 
 🔎:
 
-- Ajustable en inclinación: -5° / 22°
+- Cable HDMI incluido; puertos HDMI y DP
 - Relación de aspecto nativa: 16:9
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Cable HDMI incluido; puertos HDMI y DP
+- Ajustable en inclinación: -5° / 22°
 - Monitor de 31.5" con resolución QHD (2560x1440 píxeles) y tecnología Low Blue Light para cuidar tu vista
 - Con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 

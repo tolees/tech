@@ -28,10 +28,10 @@ Ahora mismo tienes [Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter I
 
 🔎:
 
-- Botones de configuración en el lateral
-- Joystick y botones exclusivos Hayabusa
 - Compatible también con PC
-- Licencias oficiales de Nintendo y Capcom
+- Joystick y botones exclusivos Hayabusa
+- Botones de configuración en el lateral
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencias oficiales de Nintendo y Capcom
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXSXPHK/?tag=tolees-21)

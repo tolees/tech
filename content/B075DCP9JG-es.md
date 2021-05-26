@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Trust GXT 310C Radius - Auriculares Gami al 41.91 % de rebaja'
-date: 2020-10-11 09:32:12
-image: 'https://m.media-amazon.com/images/I/412d+z6VRyL._SL400_.jpg'
+title: 'Trust Gaming - Trust Cascos Gaming GXT 3 al 28.01 % de rebaja'
+date: 2021-05-26 11:41:31
+image: 'https://m.media-amazon.com/images/I/412d+z6VRyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B075DCP9JG-es Trust GXT 310C Radius - Auriculares Gaming Multi-...'
+slug: 'B075DCP9JG-es Trust Gaming - Trust Cascos Gaming GXT 310C Radius...'
 sku: 'B075DCP9JG-es'
-tags: [ 'auriculares', ]
-actualPrice: 17.42 EUR
+tags: [ 'Accesorios para Juegos PC','Accesorios para PlayStation 5','Auriculares para PlayStation 5','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Hardware y juegos para PlayStation 5','Juegos y Accesorios para PC','Videojuegos','auriculares','nintendo','ps4','ps5','switch','trust gaming','xbox', ]
+actualPrice: 21.59 EUR
 currency: EUR
-price: 17.42
+price: 21.59
 comparePrice: 29.99 EUR
-prodname: 'Trust GXT 310C Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Jungla'
+prodname: 'Trust Gaming - Trust Cascos Gaming GXT 310C Radius Auriculares Gamer con Micrófono y Diadema Ajustables  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Camuflaje Jungla'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21'
-descuento: '41.91'
-average: '18.07888888888889'
+descuento: '28.01'
+average: '18.2636842105263'
 ---
 
-Tienes [Trust GXT 310C Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Jungla](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21) con precio final de  17.42 EUR (original: 29.99 EUR) (41.91 %  de rebaja) aqui!
+Tienes [Trust Gaming - Trust Cascos Gaming GXT 310C Radius Auriculares Gamer con Micrófono y Diadema Ajustables  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Camuflaje Jungla](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21) con precio final de  21.59 EUR (original: 29.99 EUR) (28.01 %  de rebaja) aqui!
 
-[![Trust GXT 310C Radius - Auriculares Gami](https://m.media-amazon.com/images/I/412d+z6VRyL._SL400_.jpg)](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21)
+[![Trust Gaming - Trust Cascos Gaming GXT 3](https://m.media-amazon.com/images/I/412d+z6VRyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21)
 
 🔎:
 
+- Micrófono ajustable y banda para la cabeza
+- Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
+- Suaves y cómodas almohadillas para las orejas
+- Cable alargador de 1 m para PC/ordenador portátil
+- Cable de 1 m para consolas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21)

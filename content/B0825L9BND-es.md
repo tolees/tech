@@ -28,8 +28,8 @@ Tienes [Nintendo Iberica SL - Amiibo Richter Belmont  Colección Super Smash Bro
 
 🔎:
 
+- Découvrirez de nouvelles fonctionnalités surprenantes !
 - Une manière ludique et unique dinteragir avec vos personnages et vos jeux Nintendo préférés !
 - Boostez vos jeux !
-- Découvrirez de nouvelles fonctionnalités surprenantes !
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0825L9BND/?tag=tolees-21)
