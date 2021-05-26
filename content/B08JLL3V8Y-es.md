@@ -28,10 +28,10 @@ En este momento está [cigemay - Mini Teclado numérico USB  Teclado numérico U
 
 🔎:
 
-- Adecuado para todo tipo de computadoras portátiles, computadoras de escritorio, etc.
-- Ayuda a simplificar la entrada de una gran cantidad de datos, facilita la entrada de datos
-- Antideslizante, anticaída, no es fácil de usar. diseño de botón táctil, sensación cómoda de la mano
-- Interfaz USB, fácil de instalar y usar. Plug and play, no requiere instalación de controlador
 - Diseño ultrafino, fácil de transportar. Se puede colocar cómodamente en un maletín o bolso para computadora portátil
+- Ayuda a simplificar la entrada de una gran cantidad de datos, facilita la entrada de datos
+- Interfaz USB, fácil de instalar y usar. Plug and play, no requiere instalación de controlador
+- Adecuado para todo tipo de computadoras portátiles, computadoras de escritorio, etc.
+- Antideslizante, anticaída, no es fácil de usar. diseño de botón táctil, sensación cómoda de la mano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JLL3V8Y/?tag=tolees-21)
