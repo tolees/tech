@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lamicall Soporte Movil Bicicleta  Soport al 20.01 % de rebaja'
-date: 2021-04-28 01:56:33
+date: 2021-05-27 22:58:18
 image: 'https://m.media-amazon.com/images/I/412mkBO-9KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lamicall'
 buyurl: 'https://www.amazon.es/dp/B083FDJ9B9/?tag=tolees-21'
 descuento: '20.01'
-average: '18.3233333333333'
+average: '18.2976923076923'
 ---
 
 Tienes [Lamicall Soporte Movil Bicicleta  Soporte Motocicleta - Rotación 360° Soporte Manillar para iPhone 12 Mini  12 Pro Max  11 Pro  XS Max  XR  X  8  7  6S  Samsung S10 S9 S8  Huawei  4.7-6.8" Smartphones](https://www.amazon.es/dp/B083FDJ9B9/?tag=tolees-21) con precio final de  15.99 EUR (original: 19.99 EUR) (20.01 %  de rebaja) aqui!
