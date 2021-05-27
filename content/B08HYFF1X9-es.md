@@ -28,11 +28,11 @@ Tienes [SanDisk Ultra 64 GB Tarjeta de Memoria microSDXC con Adaptador SD  hasta
 
 🔎:
 
-- Las velocidades de transferencia de hasta 120 Mb/s te permiten transferir hasta 1000 fotos en un minuto
-- Clase 10 para la grabación y reproducción de vídeo de alta definición
 - Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
-- Ideal para smartphones y tabletas Android, así como para cámaras compactas
-- Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
+- Clase 10 para la grabación y reproducción de vídeo de alta definición
 - Capacidad de almacenamiento de memoria: 64
+- Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
+- Las velocidades de transferencia de hasta 120 Mb/s te permiten transferir hasta 1000 fotos en un minuto
+- Ideal para smartphones y tabletas Android, así como para cámaras compactas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HYFF1X9/?tag=tolees-21)
