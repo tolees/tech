@@ -28,10 +28,10 @@ En este momento está [[2021 Versión] Victure Cámara Vigilancia WiFi  Actualiz
 
 🔎:
 
+- 【Audio bidireccional】incluido el soporte de audio bidireccional con micrófono y altavoz integrados, pueden hablar con su amor cuando quieras.
+- 【LED IR de 850 nm】10 piezas de LED infrarrojos de 850 nm le permiten ver a su bebé ,perros o ladrón claramente en la oscuridad.
 - 【Doble Banda】Compatible con Wi-Fi de doble banda, funciona con Wi-Fi de 2.4GHz y 5GHz.
 - 【Control remoto】utilice la aplicación móvil. No importa dónde se encuentre, puede controlarlo de forma remota a través de la aplicación.
 - 【VICTURE IP】Camara puede detectar los movimientos y luego enviar notificaciones a su teléfono móvil para evitar la invasión a su casa.
-- 【Audio bidireccional】incluido el soporte de audio bidireccional con micrófono y altavoz integrados, pueden hablar con su amor cuando quieras.
-- 【LED IR de 850 nm】10 piezas de LED infrarrojos de 850 nm le permiten ver a su bebé ,perros o ladrón claramente en la oscuridad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CSJXPPJ/?tag=tolees-21)
