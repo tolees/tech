@@ -28,10 +28,10 @@ Tienes [Lenovo Q24h-10 -Monitor de 23.8"  Pantalla QHD  2560 X 1440 pixeles  IPS
 
 🔎:
 
-- Regulable en inclinación (-5° / 22°) y altura
-- Tecnología de pantalla: LCD
 - Monitor de 23.8" QHD, panel IPS con resolución 2560 x 1440 píxeles y 3 lados sin bordes
 - Conectividad DP, HDMI y USB tipo C; el cable USB tipo C viene incluido en la caja
+- Tecnología de pantalla: LCD
+- Regulable en inclinación (-5° / 22°) y altura
 - Ratio de refresco 60hz con un tiempo de respuesta 4ms cuidamos tus ojos gracias a la tecnologia eye comfort
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089G4GYLF/?tag=tolees-21)
