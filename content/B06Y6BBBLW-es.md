@@ -29,9 +29,9 @@ Está [Fujifilm Instax Mini 9 - Cámara instantánea  Cámara con  10 películas
 ℹ️:
 
 - Utiliza Instax Mini Film, tamaño de impresión 54 x 86 mm, tamaño de imagen 46 x 62 mm (ancho x alto).
-- Incluye espejo selfie, además de un accesorio de lente de primer plano. Lente: 2 componentes, 2 elementos, f = 60 mm, 1:12.7
 - Instax Mini 9 cámara - Flamingo rosa, correa de mano, accesorio de lente de primer plano, adhesivo, pilas AA x2, manual de instrucciones (idioma español no garantizado), 1 mini paquete de 10 disparos
 - Produce fotos de tamaño de tarjeta de crédito instantánea
+- Incluye espejo selfie, además de un accesorio de lente de primer plano. Lente: 2 componentes, 2 elementos, f = 60 mm, 1:12.7
 - Control de exposición automático y flash integrado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y6BBBLW/?tag=tolees-21)
