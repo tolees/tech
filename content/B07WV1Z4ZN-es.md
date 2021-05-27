@@ -28,10 +28,10 @@ Tienes [Tosuny Tarjeta de Red Mini PCI-E  Chip BCM943228HMB Original  Tarjeta de
 
 🔎:
 
-- ★ 【300 Mbps】 Admite el protocolo inalámbrico 802.11A / B / G /, la velocidad máxima puede ser de hasta 300 Mbps.
 - ★ 【Soporte de doble banda】 Tarjeta de red de doble frecuencia, puede disfrutar de las ventajas de la frecuencia de red 2.4G y la frecuencia de red 5G.
 - ★ 【Chip original】 Chip BCM943228HMB 100% original, nuevo y de alta calidad.
 - ★ 【Bluetooth 4.0】 Con Bluetooth 4.0, puede conectarse a un auricular bluetooth o transferir archivos.
 - ★ 【Compatibilidad】 Para la versión especial de Lenovo, adecuada para Lenovo IBM, para ThinkPad, para portátiles de la serie U310.
+- ★ 【300 Mbps】 Admite el protocolo inalámbrico 802.11A / B / G /, la velocidad máxima puede ser de hasta 300 Mbps.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WV1Z4ZN/?tag=tolees-21)

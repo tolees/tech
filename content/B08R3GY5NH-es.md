@@ -28,10 +28,10 @@ Tienes [ESR Funda MagSafe Compatible con iPhone 12  2020  6 1"  MagSafe Certific
 
 ℹ️:
 
-- Solo compatible con iPhone 12 (6,1”)
 - La certificación oficial "Hecho para MagSafe" indica que es perfectamente compatible con todos los accesorios oficiales de MagSafe.
-- Silicona con absorción de golpes con cuerpo de policarbonato rígido que protege mejor contra caídas.
-- La silicona antideslizante es muy agradable al tacto y mantiene tu teléfono seguro en tu mano.
+- Solo compatible con iPhone 12 (6,1”)
 - La cámara utiliza el sistema Camera Guard Pro para darle una protección extra a la lente y mantener tus fotos con un aspecto fantástico.
+- La silicona antideslizante es muy agradable al tacto y mantiene tu teléfono seguro en tu mano.
+- Silicona con absorción de golpes con cuerpo de policarbonato rígido que protege mejor contra caídas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08R3GY5NH/?tag=tolees-21)
