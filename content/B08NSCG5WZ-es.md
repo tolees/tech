@@ -30,8 +30,8 @@ Tienes [Elprico - 60g/120g/250g/500g/1TB USB  3.0 HDD/SDD Disco duro externo mó
 
 - Equipado con indicador LED, no se necesita reinicio ni controlador adicional, adecuado para computadora de escritorio, computadora portátil.
 - La carcasa está hecha de aleación de aluminio, lo que garantiza una mayor resistencia al impacto, resistencia y rigidez.
-- Compatible con varios sistemas operativos: para Win 10/8.1/7, para SO (necesita ser reformateado).
 - Instalación simple sin herramientas, plug and play de intercambio en caliente, conveniente y fácil de usar.
 - El diseño delgado y simple de la carcasa del disco duro de 2,5 pulgadas o la carcasa de soporte puede admitir HDD/SSD.
+- Compatible con varios sistemas operativos: para Win 10/8.1/7, para SO (necesita ser reformateado).
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NSCG5WZ/?tag=tolees-21)
