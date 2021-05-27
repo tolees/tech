@@ -28,10 +28,10 @@ Ahora mismo tienes [1mii [2021] Adaptador Bluetooth 5.0 para PC  USB Bluetooth D
 
 🔎:
 
-- [Transmisión de Audio] 1Mii adaptador Bluetooth para PC admite la transmisión de audio de su PC a sus auriculares o altavoces Bluetooth de alta calidad. Admite música de calidad 16bit / 44.1khz a través de Bluetooth. Experimentará un sonido estéreo de mejor calidad.
-- [Sistema Operativo Windows 10/8/7] Compatible con el sistema operativo Win10 / 8/7 / 32bit / 64bit. Antes de usarlo, necesita instalar el driver en CD incluido. O descargue el driver en 1mii.com/download-2/(NOTA: NO es compatible con macOS, Linux, Ubuntu, estéreo de auto ni TV).
-- [Diseño Ultra Elegante] El diseño ultra compacto le permite dejarlo en el portátil o escritorio, puede mantenerlo allí sin bloquear el puerto USB y no es necesario quitarlo.
-- [Bluetooth 5.0 + EDR] El avanzado clip de Bluetooth 5.0 + EDR permiten que 1Mii adaptador Bluetooth USB para PC sea compatible con dispositivos Bluetooth 4.2 / 4.0 / 3.0 / 2.0, activa su ordenador que no tiene Bluetooth.
 - [Connectar Simultáneamente a 7 Dispositivos Diferentes] Al conectar el dongle Bluetooth 5.0 a su portátil o escritorio, puede conectar con auriculares BT, teclado, mouse, altavoz BT, móvil, incluso impresora Bluetooth.
+- [Diseño Ultra Elegante] El diseño ultra compacto le permite dejarlo en el portátil o escritorio, puede mantenerlo allí sin bloquear el puerto USB y no es necesario quitarlo.
+- [Transmisión de Audio] 1Mii adaptador Bluetooth para PC admite la transmisión de audio de su PC a sus auriculares o altavoces Bluetooth de alta calidad. Admite música de calidad 16bit / 44.1khz a través de Bluetooth. Experimentará un sonido estéreo de mejor calidad.
+- [Bluetooth 5.0 + EDR] El avanzado clip de Bluetooth 5.0 + EDR permiten que 1Mii adaptador Bluetooth USB para PC sea compatible con dispositivos Bluetooth 4.2 / 4.0 / 3.0 / 2.0, activa su ordenador que no tiene Bluetooth.
+- [Sistema Operativo Windows 10/8/7] Compatible con el sistema operativo Win10 / 8/7 / 32bit / 64bit. Antes de usarlo, necesita instalar el driver en CD incluido. O descargue el driver en 1mii.com/download-2/(NOTA: NO es compatible con macOS, Linux, Ubuntu, estéreo de auto ni TV).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MX5XMH7/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Alfombrilla Aluminio Fino de Ratón  HOTSO Grande Superficie
 
 🔎:
 
-- 💠 DIESEÑO 2 EN 1: con 2 caras disponibles. En el frío invierno puede usar la superficie de cuero PU en color negro, en el caluroso verano puede usar la superficie de metal (color del metal).
+- 💠 TAMAÑO JUSTO: en forma de rectangular y un grosor de 2mm.
 - 💠 EXACTO Y PRECISO: Una buena idea para una "alfombrilla para el ratón". Está terminada completamente en aluminio. Durabilidad absoluta y queda muy bien junto al MAC y su idéntico acabado.
+- 💠 DIESEÑO 2 EN 1: con 2 caras disponibles. En el frío invierno puede usar la superficie de cuero PU en color negro, en el caluroso verano puede usar la superficie de metal (color del metal).
 - 💠 SUPERFICIE IMPERMEABLE Y FÁCIL DE LIMPIAR: Comparado almohadilla de gel típico, la superficie lisa e impermeable es más conveniente para limpiar o a prueba de derrames. No necesita preocuparse por verter repentinamente agua sobre la almohadilla, solo limpie con un trozo de tela. Además, no acortará la vida útil de la almohadilla del mouse.
 - 💠 BORDE ALISADO, SIN CORTES NI DAÑOS: La superficie resbaladiza de esta alfombrilla permite un control rápido y preciso de su bola, óptica o mouse láser. Desliza suavemente un ratón sobre la superficie sin interrupción ni arrastre.
-- 💠 TAMAÑO JUSTO: en forma de rectangular y un grosor de 2mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PDKNJFG/?tag=tolees-21)
