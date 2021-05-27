@@ -28,9 +28,9 @@ Tienes [OPPO Enco W31 – Auriculares inalámbricos  Modo bajos  Micrófono dual
 
 ℹ️:
 
-- Micrófono dual con cancelación de ruido durante las llamadas. Algoritmo de cancelación de ruido ambiental.
-- Batería recargable de iones de litio. Hasta 15 horas de reproducción de música. 12 horas de tiempo de llamadas. 2.5 horas de carga completa.
 - Bluetooth 5.0. Proporciona una conexión rápida estable y fluida. Transmisión Bluetooth binaural de baja latencia. Compatibilidad con la mayoría de las plataformas de smartphones convencionales.
+- Batería recargable de iones de litio. Hasta 15 horas de reproducción de música. 12 horas de tiempo de llamadas. 2.5 horas de carga completa.
+- Micrófono dual con cancelación de ruido durante las llamadas. Algoritmo de cancelación de ruido ambiental.
 - Controles táctiles inteligentes.
 - Resistente al polvo y al agua. IP54. Ya sea que estés relajado o estés haciendo ejercicio, tus auriculares estarán siempre protegidos.
 
