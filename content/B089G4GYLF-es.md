@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Q24h-10 -Monitor de 23.8"  Pantal al 17.00 % de rebaja'
-date: 2021-05-24 08:13:19
+date: 2021-05-27 11:04:43
 image: 'https://m.media-amazon.com/images/I/417dv8ANi5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Lenovo Q24h-10 -Monitor de 23.8"  Pantalla QHD  2560 X 1440 pixeles  IPS
 
 🔎:
 
-- Conectividad DP, HDMI y USB tipo C; el cable USB tipo C viene incluido en la caja
-- Monitor de 23.8" QHD, panel IPS con resolución 2560 x 1440 píxeles y 3 lados sin bordes
-- Ratio de refresco 60hz con un tiempo de respuesta 4ms cuidamos tus ojos gracias a la tecnologia eye comfort
 - Regulable en inclinación (-5° / 22°) y altura
 - Tecnología de pantalla: LCD
+- Monitor de 23.8" QHD, panel IPS con resolución 2560 x 1440 píxeles y 3 lados sin bordes
+- Conectividad DP, HDMI y USB tipo C; el cable USB tipo C viene incluido en la caja
+- Ratio de refresco 60hz con un tiempo de respuesta 4ms cuidamos tus ojos gracias a la tecnologia eye comfort
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089G4GYLF/?tag=tolees-21)
