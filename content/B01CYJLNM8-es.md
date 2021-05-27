@@ -28,10 +28,10 @@ En este momento está [Nintendo - Fire Emblem Fates: Conquête [Importación Fra
 
 🔎:
 
-- Editeur : Nintendo
+- Classification PEGI : ages_12_and_over
 - isAdultProduct : false
 - packageQuantity : 1
-- Classification PEGI : ages_12_and_over
 - Plate-forme : Nintendo 3DS
+- Editeur : Nintendo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CYJLNM8/?tag=tolees-21)
