@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Escritorio para Hogar Oficina Mesa de Ordenador Mesa 
 
 🔎:
 
-- ✅AMPLIO ESPACIO: El escritorio mide 120x60cm (LxAN) y ofrece un amplio espacio para sus necesidades diarias.
-- ✅DIMENSIÓN: Dimensión total: 120x60x73cm (LxANxAL), Dimensión del tubo de hierro: 30x30mm (LxAN), Capacidad máx. de carga: 70kg
 - ✅LÍNEA LIMPIA: la superficie de grano de madera con marco negro, diseño clásico y limpio combina bien con la mayoría de las decoraciones caseras.
 - ✅RESISTENTE Y ESTABLE: El marco de hierro y la parte superior de MDF E1 de 15 mm de grosor hacen que este escritorio sea resistente y estable, con Capacidad máx. de carga de 70 kg.
+- ✅AMPLIO ESPACIO: El escritorio mide 120x60cm (LxAN) y ofrece un amplio espacio para sus necesidades diarias.
 - ✅AJUSTABLE: Los pies ajustables ayudan a la mesa a mantenerse en equilibrio incluso en pisos irregulares.
+- ✅DIMENSIÓN: Dimensión total: 120x60x73cm (LxANxAL), Dimensión del tubo de hierro: 30x30mm (LxAN), Capacidad máx. de carga: 70kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VCPMVBZ/?tag=tolees-21)

@@ -28,13 +28,13 @@ Está [Xiaomi X-NUN4052GL MI IONIC HAIR DRYER PCRE IN  Blanco  única](https://w
 
 ℹ️:
 
-- Boquilla magnética con rotación de 360° para evitar quemaduras
+- Potencia: 1800 W
 - Fuerte flujo de aire.
+- Boquilla magnética con rotación de 360° para evitar quemaduras
+- Pequeño y portátil, fácil de guardar.
 - Velocidad de rotación: 20000 rmp
-- Modo viento circulación aire caliente y frío, evitando óptimamente el sobrecalentamiento del cabello.
 - Palma ligera y cómoda.
 - Termostato y fusible térmico de alta calidad
-- Pequeño y portátil, fácil de guardar.
-- Potencia: 1800 W
+- Modo viento circulación aire caliente y frío, evitando óptimamente el sobrecalentamiento del cabello.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VWW81YJ/?tag=tolees-21)

@@ -29,9 +29,9 @@ Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cober
 ℹ️:
 
 - Fácil Gestión: Amplíe fácilmente la cobertura inalámbrica con sólo pulsar el botón Range Extender
+- Su enchufe extra le asegura de que no pierde ninguna toma de corriente
 - 2 antenas externas fijas le proporcionan una cobertura WiFi excelente y una alta fiabilidad
 - El modo Extensor de Cobertura amplifica la señal inalámbrica perfectamente hasta zonas donde antes no llegaba o que son difíciles de cablear
 - Puente Ethernet: Convierta dispositivos cableados en inalámbricos
-- Su enchufe extra le asegura de que no pierde ninguna toma de corriente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21)

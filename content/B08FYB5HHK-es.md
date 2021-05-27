@@ -28,10 +28,10 @@ Tienes [TP-Link UE300C - Adaptador USB-C a Ethernet  Puerto Gigabit 10/100/1000M
 
 ℹ️:
 
-- IDEAL PARA PORTÁTILES Y TABLETAS - Le permite convertir el puerto USB C de su ordenador portátil / tableta en un puerto Ethernet RJ45. Cambie de una conexión inalámbrica inestable a una conexión Ethernet estable de alta velocidad
-- COMPATIBLE CON VARIOS SISTEMAS OPERATIVOS - Windows 10/8.1/8/7, Chrome OS, MacOS ( 10.6/10.7/10.8/10.9 y posterior), Linux OS (Ubuntu) para PC, Mac y tabletas. **Nota: Para Windows 7/8 / 8.1, MacOS 10.6-10.8, se requiere descargar in driver disponible en la web oficial de Tp-Link
-- PLUG AND PLAY - Simplemente conecte a la ranura USB C de su Ordenador o tableta para Windows 10, Mac OS X (10.9 y posterior), Chrome OS y Linux OS.
-- DISEÑO ULTRA COMPACTO Y PLEGABLE - UE300C se pliega convenientemente y es extremadamente portátil, lo que le permite llevarlo a donde quiera que vaya
 - DISFRUTA DE VELOCIDADES GIGABIT - La solución USB 3.0 y Gigabit más rápida garantiza una tasa de transferencia de datos hasta 1000Mbps ideal para transferir archivos, jugar juegos, chatear por video y transmitir videos HD sin problemas
+- DISEÑO ULTRA COMPACTO Y PLEGABLE - UE300C se pliega convenientemente y es extremadamente portátil, lo que le permite llevarlo a donde quiera que vaya
+- PLUG AND PLAY - Simplemente conecte a la ranura USB C de su Ordenador o tableta para Windows 10, Mac OS X (10.9 y posterior), Chrome OS y Linux OS.
+- COMPATIBLE CON VARIOS SISTEMAS OPERATIVOS - Windows 10/8.1/8/7, Chrome OS, MacOS ( 10.6/10.7/10.8/10.9 y posterior), Linux OS (Ubuntu) para PC, Mac y tabletas. **Nota: Para Windows 7/8 / 8.1, MacOS 10.6-10.8, se requiere descargar in driver disponible en la web oficial de Tp-Link
+- IDEAL PARA PORTÁTILES Y TABLETAS - Le permite convertir el puerto USB C de su ordenador portátil / tableta en un puerto Ethernet RJ45. Cambie de una conexión inalámbrica inestable a una conexión Ethernet estable de alta velocidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FYB5HHK/?tag=tolees-21)
