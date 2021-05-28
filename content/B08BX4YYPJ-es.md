@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Router 5G CPE Pro 2  H122-373  Ro al 17.01 % de rebaja'
-date: 2021-05-24 15:45:19
+date: 2021-05-28 22:31:41
 image: 'https://m.media-amazon.com/images/I/21D+n6QM8-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
