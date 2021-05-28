@@ -28,10 +28,10 @@ Ahora mismo tienes [Samyang F2.8 - Objectivo para Canon   14 mm IF ED UMC  Ultra
 
 🔎:
 
-- Adecuado para fotografía nocturna, paisaje, arquitectura, y mas
 - Apertura máxima de diafragma f/2.8
-- Ultra Wide Angle Lens
-- Para cámaras con sensor APS-C y Full-Frame
 - Gran ángulo de visión de 115.70
+- Para cámaras con sensor APS-C y Full-Frame
+- Ultra Wide Angle Lens
+- Adecuado para fotografía nocturna, paisaje, arquitectura, y mas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004CS2VMQ/?tag=tolees-21)

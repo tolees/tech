@@ -28,10 +28,10 @@ Ahora mismo tienes [Beurer BM57 - Tensiometro de brazo con bluetooth  color blan
 
 🔎:
 
+- Apto para adaptación a red
 - Detección arritmia
-- Transmisión: mediante Bluetooth 4.0 Smart
 - Memoria 2 x 60 mediciones (2 personas)
 - Pantalla LCD con iluminación en blanco
-- Apto para adaptación a red
+- Transmisión: mediante Bluetooth 4.0 Smart
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21)

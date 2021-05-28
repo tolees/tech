@@ -28,8 +28,8 @@ Tienes [Huawei P Smart  2020  - Smartphone 128GB  4GB RAM  Dual Sim  Aurora Blue
 
 🔎:
 
-- Batería: 3400 mAh
 - Pantalla: 6.21", 1080 x 2340 pixels
+- Batería: 3400 mAh
 - Procesador: Kirin 710 2.2GHz
 - Cámara: Dual, 13MP+2MP
 
