@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C27RG50 - Monitor Curvo Gaming d al 28.86 % de descuento'
-date: 2021-05-27 07:26:13
+date: 2021-05-28 08:30:54
 image: 'https://m.media-amazon.com/images/I/41bP8tyR85L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07T2Y5ZG7/?tag=tolees-21'
 descuento: '28.86'
-average: '274.034285714286'
+average: '272.365333333334'
 ---
 
 Ahora mismo tienes [Samsung C27RG50 - Monitor Curvo Gaming de 27"  Full HD  4 ms  240 Hz  G-Sync  LED  VA  16:9  3000:1  1800R  300 cd/m²  178°  HDMI  Base en V  Plata Oscuro](https://www.amazon.es/dp/B07T2Y5ZG7/?tag=tolees-21) a 249.0 EUR (original: 349.99 EUR) (28.86 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [Samsung C27RG50 - Monitor Curvo Gaming de 27"  Full HD  4 ms
 
 🔎:
 
+- El modo game adapta la configuración a cualquier tipo de videojuego
 - Experiencia de juego inmersiva con la pantalla curvada 1.500r y una relación de contraste de 3000:1
-- Montaje Pared: 75 x 75
 - Compatible con nvidia g-sync
 - Diseño sin marco en 3 de los lados
-- El modo game adapta la configuración a cualquier tipo de videojuego
 - Experiencia de juego fluida con una frecuencia de actualización de 240 hz
+- Montaje Pared: 75 x 75
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T2Y5ZG7/?tag=tolees-21)
