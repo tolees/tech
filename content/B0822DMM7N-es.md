@@ -30,8 +30,8 @@ Ahora mismo tienes [Simboom 15.6 Funda Ordenador Portátil  Impermeable Fundas P
 
 - Ultra delgado y liviano -- No hace mayor su ordenador portátil y se puede deslizar fácilmente en su maletín, mochila o bolsa de otra. Por lo tanto, es práctico para el uso diario y sobre la marcha.
 - Bolsita para Accesorio Adicional -- desmontable de la funda de la computadora portátil mian.Buena o arregla tus cosas pequeñas como adaptadores, cargador, ratones, cables, auriculares, tarjetas SD, bolígrafos, teléfonos inteligentes, bancos de energía, etc.
-- Gran espacio de almacenamiento -- Compartimentos de almacenamiento adicionales para almacenar su iPad mini, iPad Pro, nuevo iPad, iPad Air, iPad Air 2, revistas, cuadernos, etc.
-- Compatibilidad lato -- Dimensiones internas: 40.5 * 30 * 3 cm; Dimensiones externas: 41.5 * 31.5 * 4 cm; Adecuado para la mayoría de las laptops, notebooks, ultrabooks y netbooks con un tamaño de 15-15.6 pulgadas. Por favor revise cuidadosamente las dimensiones de su computadora portátil antes de comprar una funda.
 - Protección excepcional -- Los bordes y esquinas reforzados ofrecen una protección de 360 ​​° contra daños por caídas accidentales. El poliéster impermeable protege sus computadoras portátiles / portátiles de la lluvia y los líquidos derramados.
+- Compatibilidad lato -- Dimensiones internas: 40.5 * 30 * 3 cm; Dimensiones externas: 41.5 * 31.5 * 4 cm; Adecuado para la mayoría de las laptops, notebooks, ultrabooks y netbooks con un tamaño de 15-15.6 pulgadas. Por favor revise cuidadosamente las dimensiones de su computadora portátil antes de comprar una funda.
+- Gran espacio de almacenamiento -- Compartimentos de almacenamiento adicionales para almacenar su iPad mini, iPad Pro, nuevo iPad, iPad Air, iPad Air 2, revistas, cuadernos, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0822DMM7N/?tag=tolees-21)
