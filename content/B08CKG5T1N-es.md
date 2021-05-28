@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad X13 Yoga Gen 1 - Portáti al 18.03 % de descuento'
-date: 2021-05-21 06:08:31
+date: 2021-05-28 15:30:48
 image: 'https://m.media-amazon.com/images/I/410YZWVWaRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Lenovo ThinkPad X13 Yoga Gen 1 - Portátil Táctil Convertible 13.3" Full
 
 ℹ️:
 
-- Pantalla táctil de 13.3" FullHD 1920x1080 píxeles, IPS, 300nits, antirreflejo
-- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Memoria RAM de 8GB Soldered DDR4-2666
 - Almacenamiento de 256GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal2
+- Pantalla táctil de 13.3" FullHD 1920x1080 píxeles, IPS, 300nits, antirreflejo
+- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Tarjeta gráfica Integrada Intel UHD Graphics
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CKG5T1N/?tag=tolees-21)

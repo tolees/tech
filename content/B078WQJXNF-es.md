@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 860 EVO MZ-76E250B/EU - Disco du con un 27.98 % de descuento'
-date: 2021-05-27 14:35:23
+date: 2021-05-28 15:01:44
 image: 'https://m.media-amazon.com/images/I/41NZPuvaZrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21'
 descuento: '27.98'
-average: '50.0935227272728'
+average: '50.1319209039549'
 ---
 
 En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21) a 56.89 EUR (original: 78.99 EUR) (27.98 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido intern
 
 🔎:
 
+- Dispone de interfaz SATA
 - La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
-- Dispone de interfaz SATA
 - Escritura secuencial: 520MB/s
 - Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
 

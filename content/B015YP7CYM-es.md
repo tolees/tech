@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Beurer BM57 - Tensiometro de brazo con b al 27.36 % de descuento'
-date: 2020-03-04 18:31:28
-image: 'https://m.media-amazon.com/images/I/41LoRxICMOL._AC_._SL400_.jpg'
+title: 'Beurer BM57 - Tensiometro de brazo con b al 22.74 % de descuento'
+date: 2021-05-28 15:04:57
+image: 'https://m.media-amazon.com/images/I/41LoRxICMOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B015YP7CYM-es Beurer BM57 - Tensiometro de brazo con bluetooth color blanco'
 sku: 'B015YP7CYM-es'
-tags: [ 'bluetooth', ]
-actualPrice: 58.04 EUR
+tags: [ 'Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','Tensiómetros','Tensiómetros de brazo','Tensiómetros de brazo eléctricos','beurer','bluetooth', ]
+actualPrice: 61.73 EUR
 currency: EUR
-price: 58.04
+price: 61.73
 comparePrice: 79.9 EUR
 prodname: 'Beurer BM57 - Tensiometro de brazo con bluetooth  color blanco'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Beurer'
 buyurl: 'https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21'
-descuento: '27.36'
-average: '58.04'
+descuento: '22.74'
+average: '59.885'
 ---
 
-Ahora mismo tienes [Beurer BM57 - Tensiometro de brazo con bluetooth  color blanco](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21) a 58.04 EUR (original: 79.9 EUR) (27.36 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Beurer BM57 - Tensiometro de brazo con bluetooth  color blanco](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21) a 61.73 EUR (original: 79.9 EUR) (22.74 %  de descuento) en el siguiente enlace!
 
-[![Beurer BM57 - Tensiometro de brazo con b](https://m.media-amazon.com/images/I/41LoRxICMOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21)
+[![Beurer BM57 - Tensiometro de brazo con b](https://m.media-amazon.com/images/I/41LoRxICMOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21)
 
 🔎:
 
+- Detección arritmia
+- Transmisión: mediante Bluetooth 4.0 Smart
+- Memoria 2 x 60 mediciones (2 personas)
+- Pantalla LCD con iluminación en blanco
+- Apto para adaptación a red
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21)
