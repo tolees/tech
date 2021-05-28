@@ -28,14 +28,14 @@ Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazo
 
 🔎:
 
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- A14 Bionic, el chip más veloz en un smartphone
 - Resistencia al agua IP68, líder en el sector
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- A14 Bionic, el chip más veloz en un smartphone
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - Pantalla Super Retina XDR de 6,1 pulgadas
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21)
