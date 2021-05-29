@@ -28,10 +28,10 @@ Está [Fellowes 9930501 8041601 - Kit limpiador para tablet  Pc y libros electr�
 
 ℹ️:
 
-- Contenido mínimo de alcohol, menos del 1%
-- Anti estático, no raya
 - Kit limpiador especial para tablet y libros electrónicos
-- Incluye 120 ml de spray limpiador + gamuza de microfibra que proporciona una acabado perfecto
 - Elimina todas las huellas digitales y manchas de la pantalla del dispositivo
+- Anti estático, no raya
+- Contenido mínimo de alcohol, menos del 1%
+- Incluye 120 ml de spray limpiador + gamuza de microfibra que proporciona una acabado perfecto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006LLRCEO/?tag=tolees-21)

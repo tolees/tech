@@ -28,10 +28,10 @@ Ahora mismo tienes [JSAUX Adaptador Mini Displayport a HDMI  Adaptador Thunderbo
 
 🔎:
 
-- ✔[Mini DisplayPort a HDMI] Adaptador Mini DisplayPort to HDMI para conectar una computadora compatible con puerto Mini DisplayPort (Mini DP) / Thunderbolt a un HDTV, monitor o proyector con puerto HDMI (se requiere un cable HDMI separado).
-- 👍[ALTA RESOLUCIÓN]: el adaptador admite resolución de hasta Full HD 1080p, admite HDMI 12 bits por canal (36 bits para todos los canales) color profundo 3D, admite audio comprimido como DTS Digital, Dolby Digital.
 - 💪[Conectividad confiable] Los conectores chapados en oro de 24k resisten la corrosión, los conductores de cobre desnudo y la lámina metálica y el blindaje de la trenza para una resistencia óptima y una conectividad confiable.Se agrega una cubierta protectora en ambos extremos del adaptador, que no es fácil de romper.
-- 💻[Compatibilidad Universal] El adaptador Mini DisplayPort a HDMI es compatible para Apple MacBook Air / Pro, iMac, Mac Mini, Microsoft Surface Pro / Pro 2 / Pro 3 / Pro 4, Surface 3, Surface Dock, Surface Book ， Surface Studio, ThinkPad Helix, X230, L430, L530, T430s, T430, T530, W530.
 - ❤[Garantía confiable] Ofrecemos un servicio amigable al cliente de una línea. Si tiene alguna pregunta, comuníquese con nosotros. ¡El equipo de servicio de JSAUX estará encantado de ayudarle!
+- 👍[ALTA RESOLUCIÓN]: el adaptador admite resolución de hasta Full HD 1080p, admite HDMI 12 bits por canal (36 bits para todos los canales) color profundo 3D, admite audio comprimido como DTS Digital, Dolby Digital.
+- ✔[Mini DisplayPort a HDMI] Adaptador Mini DisplayPort to HDMI para conectar una computadora compatible con puerto Mini DisplayPort (Mini DP) / Thunderbolt a un HDTV, monitor o proyector con puerto HDMI (se requiere un cable HDMI separado).
+- 💻[Compatibilidad Universal] El adaptador Mini DisplayPort a HDMI es compatible para Apple MacBook Air / Pro, iMac, Mac Mini, Microsoft Surface Pro / Pro 2 / Pro 3 / Pro 4, Surface 3, Surface Dock, Surface Book ， Surface Studio, ThinkPad Helix, X230, L430, L530, T430s, T430, T530, W530.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087BRBSNN/?tag=tolees-21)
