@@ -28,9 +28,9 @@ Está [Lenovo L27m-28 27.0 " FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI
 
 ℹ️:
 
+- Diseño elegante: Este monitor ergonómico casi sin bordes dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
 - FreeSync: Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
 - Puertos HDMI, VGA y USBType:C: Conéctate a través del cable HDMI de 1.8 m que viene incluido
-- Diseño elegante: Este monitor ergonómico casi sin bordes dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
 - 4 ms y 75Hz: Atrévete a jugar con este monitor, tendrás una imagen más fluida gracias a su tiempo de respuesta de 4 ms
 - 27" Full HD IPS: Esta pantalla IPS de 27" pulgadas ofrece una experiencia de usuario fantástica e imágenes nítidas y óptimas gracias a su resolución Full HD (1920 x 1080)
 

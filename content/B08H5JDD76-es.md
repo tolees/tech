@@ -30,8 +30,8 @@ Está [Xiaomi POCO X3 NFC - Smartphone 128GB  6GB RAM  Dual Sim  Shadow Gray  M2
 
 - OS: Android 10
 - Pantalla: 6.67", 1080 x 2400 pixels
+- Batería: 5160 mAh
 - Procesador: Snapdragon 732G 2.3GHz
 - Cámara: Cuádruple, 64MP+13MP +2MP+2MP
-- Batería: 5160 mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H5JDD76/?tag=tolees-21)
