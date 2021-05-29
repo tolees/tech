@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link LS108G - Switch 8 Puertos  10/10 al 16.01 % de descuento'
-date: 2021-05-19 12:25:13
+date: 2021-05-29 15:35:15
 image: 'https://m.media-amazon.com/images/I/313DDOW1vUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21'
 descuento: '16.01'
-average: '22.429245283019'
+average: '22.4238345864663'
 ---
 
 Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch Ethernet Gigabit  Carcasa metálica  Ultraligero con Super disipación de calor  Ahorro de Energía  Silencioso  Sin configuración](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21) con 16.01 de descuento por 20.99 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch Ethernet Gigabit  
 
 ℹ️:
 
-- SWITCH GIGABIT 8 PUERTOS - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
 - TECNOLOGÍA VERDE ETHERNET - Reduce el consumo de energía hasta un 80%
-- OPTIMIZACIÓN TRÁFICO - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
-- ENCHUFA Y LISTO - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
 - SUPER DISIPACIÓN DE CALOR- Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
+- SWITCH GIGABIT 8 PUERTOS - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
+- ENCHUFA Y LISTO - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
 - SILENCIOSO - El diseño sin ventilador garantiza un funcionamiento silencioso
+- OPTIMIZACIÓN TRÁFICO - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21)

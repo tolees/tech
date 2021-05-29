@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo G34w-10 - Monitor Gaming curvo de con un 33.50 % de descuento'
-date: 2021-05-27 08:52:02
+date: 2021-05-29 15:47:04
 image: 'https://m.media-amazon.com/images/I/41NFpHYYYmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21'
 descuento: '33.50'
-average: '499.7425'
+average: '488.548888888889'
 ---
 
 En este momento está [Lenovo G34w-10 - Monitor Gaming curvo de 34.0" WQHD  3440x1440  21:9  HDMI+DP  FreeSync  144Hz  1 ms  3 lados sin bordes  inclinación y altura ajustable  antirreflejo  - Color Negro](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21) a 399.0 EUR (original: 599.99 EUR) (33.50 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Lenovo G34w-10 - Monitor Gaming curvo de 34.0" WQHD  3440
 
 🔎:
 
-- Monitor gaming con pantalla curva de 34" con resolución WQHD (3440x1440 pixeles)
-- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
-- AMD Radeon FreeSync
 - Puertos HDMI y DP
+- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
+- Monitor gaming con pantalla curva de 34" con resolución WQHD (3440x1440 pixeles)
+- AMD Radeon FreeSync
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21)
