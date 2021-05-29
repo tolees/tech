@@ -28,10 +28,10 @@ Tienes [HOMCOM Mesa Armario móvil Mueble de TV Tele de Madera con Ruedas Color 
 
 ℹ️:
 
+- ✅4 ruedas (Dos ruedas con frenos)
 - ✅Color: Blanco
 - ✅Con 2 estantes
-- ✅Material: aglomerado de madera con superficie de melamina
-- ✅4 ruedas (Dos ruedas con frenos)
 - ✅Dimensiones: 80 x 40 x 40 cm (Largo x Ancho x Alto)
+- ✅Material: aglomerado de madera con superficie de melamina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NP2RSU0/?tag=tolees-21)

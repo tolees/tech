@@ -29,8 +29,8 @@ Tienes [TP-Link - Bluetooth para coche Receptor Bluetooth Altavoces  Transmisor 
 ℹ️:
 
 - [Paquete completo] – incluido en el paquete el cable aux de 3.5 mm a 3.5 mm, cable de 3.5 mm a rca, tag nfc, guía rápida de instalación, conecte a cualquier estéreo compatible con 3.5 mm o jacks rca
-- [Hasta 20 metros] - transmite música hasta 20 metros desde el altavoz, en línea recta
 - [Transmisión inalámbrica] - puede transferir audio desde su teléfono habilitado para bluetooth, tableta o un ordenador a su estéreo con cable, altavoces o auriculares de forma inalámbrica; ideal para cualquier sistema de audio de casa o de coche
+- [Hasta 20 metros] - transmite música hasta 20 metros desde el altavoz, en línea recta
 - [Tag NFC] - si su dispositivo tiene la funcionalidad nfc, puede simplemente ‘colocarlo’ con el receptor de música ha100 o con la etiqueta nfc para conectarse automáticamente; además, el receptor recordará hasta 8 dispositivos para el emparejarlos automáticamente
 - [Bluetooth 4.1] - compatible con todos los dispositivos bluetooth estéreo a2dp
 
