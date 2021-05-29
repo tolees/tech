@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C34H892WGR - Monitor Curvo de 34 al 19.84 % de descuento'
-date: 2021-05-26 16:34:12
+date: 2021-05-29 12:32:12
 image: 'https://m.media-amazon.com/images/I/41X4vfnFu7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [Samsung C34H892WGR - Monitor Curvo de 34" WQHD  3440X1440  QLED  21:9  10
 
 ℹ️:
 
+- Eye saver mode and Flicker Free
 - Relación de contraste de 3000:1
 - Compatible con soporte VESA
-- Monitor Samsung C34H892WGR curvo 34 WQHD (3440x1440) con relación de aspecto de 21:9 y curvatura de la pantalla 1800R
-- Conexión USB Type C
-- Eye saver mode and Flicker Free
 - Pantalla sin marcos en 3 lados
+- Conexión USB Type C
+- Monitor Samsung C34H892WGR curvo 34 WQHD (3440x1440) con relación de aspecto de 21:9 y curvatura de la pantalla 1800R
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08ZYNV91H/?tag=tolees-21)
