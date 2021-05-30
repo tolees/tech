@@ -28,9 +28,9 @@ Está [LG RK1.AEUSLLK - Torre de Sonido  100 W  USB  Bluetooth  Conducto Bass Re
 
 ℹ️:
 
-- USB, radio fm, entrada aux
-- Conducto bass refflex
 - Bluetooth multipairing
 - Ecualizador automático (estándar, pop, clásica, rock, jazz, bass blast)
+- Conducto bass refflex
+- USB, radio fm, entrada aux
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F86VNXK/?tag=tolees-21)
