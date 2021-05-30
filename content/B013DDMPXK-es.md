@@ -29,9 +29,9 @@ En este momento está [JETech Protector de Pantalla para iPhone SE 2020  iPhone 
 🔎:
 
 - [3D Touch Compatibles]. NOTA: Debido al borde redondo del iPhone SE 2020, iPhone 8, iPhone 7, iPhone 6s, iPhone 6, el protector de pantalla no cubrirá toda la pantalla, pero sólo el área plana (Por favor refiérase a las imágenes de los productos)
+- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); De alta respuesta, alta transparencia y alta transparencia
 - Hecho 0,33 mm de espesor de alta calidad premium de vidrio templado bordes redondeados en exclusiva para iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE 2020 4.7″
 - Libre de polvo, huellas dactilares libre, instalación de una pulsación súper easiy, libre de burbujas
 - Paquete al por menor incluye: 3 Unidades templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de garantía de por vida
-- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); De alta respuesta, alta transparencia y alta transparencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013DDMPXK/?tag=tolees-21)

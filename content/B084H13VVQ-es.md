@@ -28,8 +28,8 @@ En este momento está [Lenovo G34w-10 - Monitor Gaming curvo de 34.0" WQHD  3440
 
 🔎:
 
-- Monitor gaming con pantalla curva de 34" con resolución WQHD (3440x1440 pixeles)
 - AMD Radeon FreeSync
+- Monitor gaming con pantalla curva de 34" con resolución WQHD (3440x1440 pixeles)
 - Puertos HDMI y DP
 - Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
 
