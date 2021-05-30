@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG RK1.AEUSLLK - Torre de Sonido  100 W  al 26.43 % de descuento'
-date: 2021-05-26 19:18:42
+date: 2021-05-30 08:43:22
 image: 'https://m.media-amazon.com/images/I/218FfVzpXZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B07F86VNXK/?tag=tolees-21'
 descuento: '26.43'
-average: '87.684'
+average: '88.8866666666667'
 ---
 
 Está [LG RK1.AEUSLLK - Torre de Sonido  100 W  USB  Bluetooth  Conducto Bass Refflex  Radio FM ](https://www.amazon.es/dp/B07F86VNXK/?tag=tolees-21) con 26.43 de descuento por 94.9 EUR (original: 129.0 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [LG RK1.AEUSLLK - Torre de Sonido  100 W  USB  Bluetooth  Conducto Bass Re
 
 ℹ️:
 
-- Conducto bass refflex
 - Ecualizador automático (estándar, pop, clásica, rock, jazz, bass blast)
-- USB, radio fm, entrada aux
+- Conducto bass refflex
 - Bluetooth multipairing
+- USB, radio fm, entrada aux
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F86VNXK/?tag=tolees-21)

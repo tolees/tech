@@ -28,10 +28,10 @@ Tienes [SanDisk Ultra de 256 GB  Tarjeta microSDXC UHS-I para Chromebook con ad
 
 ℹ️:
 
-- Clase 10 para reproducción de vídeo Full HD: visualízalos directamente desde la tarjeta. Resistente al agua, temperaturas extremas, rayos X, imanes y golpes
-- Las velocidades de transferencia de hasta 120 MB/s te permiten mover rápidamente fotos y archivos
 - Carga aplicaciones de Android más rápidamente gracias a la clase de rendimiento A1
-- Probado y certificado para funcionar sin problemas con Chromebooks
 - Añade al instante hasta 256 GB de almacenamiento para guardar tus fotos, vídeos y otros archivos
+- Probado y certificado para funcionar sin problemas con Chromebooks
+- Las velocidades de transferencia de hasta 120 MB/s te permiten mover rápidamente fotos y archivos
+- Clase 10 para reproducción de vídeo Full HD: visualízalos directamente desde la tarjeta. Resistente al agua, temperaturas extremas, rayos X, imanes y golpes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L7S5SSV/?tag=tolees-21)

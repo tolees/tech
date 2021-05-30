@@ -28,10 +28,10 @@ Tienes [MegaGear MG1499 Sony Alpha A6400  A6500  16-70  18-135 mm  Estuche Ever 
 
 🔎:
 
-- DISEÑO Y ESTILO: ya seas fotógrafo principiante o profesional, esta funda de piel liviana es un accesorio de estilo, que siempre querrás llevar contigo, ya que combina un estilo en cuero que nunca envejece con una sólida protección
-- ÓPTIMA PROTECCIÓN: gracias a su sólida estructura y ajuste perfecto, este estuche ofrece la máxima protección externa para tu cámara, contra todo tipo de golpes, polvo, daños y rayas. Un suave recubrimiento interior de tela acolchada mantiene la pantalla LCD y el lente a salvo de rayas, además de proteger el cuerpo de la cámara
 - CONVENIENTE: la funcionalidad del diseño permite el uso inmediato de la cámara cuando se la necesita. Para tomar esa foto impulsiva, no hace falta más que abrir la parte superior. Es perfecta para viajes y uso al aire libre
-- ACCESIBILIDAD FUNCIONAL: el diseño de pronto uso, o "ever ready", está diseñado para optimizar la eficiencia y la precisión fotográfica. Puedes acceder a todos los puertos periféricos, ranuras para tarjetas, botones y batería, y hasta colocar la cámara en un trípode sin quitar la funda
+- ÓPTIMA PROTECCIÓN: gracias a su sólida estructura y ajuste perfecto, este estuche ofrece la máxima protección externa para tu cámara, contra todo tipo de golpes, polvo, daños y rayas. Un suave recubrimiento interior de tela acolchada mantiene la pantalla LCD y el lente a salvo de rayas, además de proteger el cuerpo de la cámara
 - CALCE PERFECTO: la funda MegaGear Premium de cuero con acceso a la batería está fabricada especialmente con piel de alta calidad para los modelos Sony Alpha A6400, A6500 (16-70, 18-135 mm) lo que asegura un perfecto ajuste y protección
+- DISEÑO Y ESTILO: ya seas fotógrafo principiante o profesional, esta funda de piel liviana es un accesorio de estilo, que siempre querrás llevar contigo, ya que combina un estilo en cuero que nunca envejece con una sólida protección
+- ACCESIBILIDAD FUNCIONAL: el diseño de pronto uso, o "ever ready", está diseñado para optimizar la eficiencia y la precisión fotográfica. Puedes acceder a todos los puertos periféricos, ranuras para tarjetas, botones y batería, y hasta colocar la cámara en un trípode sin quitar la funda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G864SRH/?tag=tolees-21)
