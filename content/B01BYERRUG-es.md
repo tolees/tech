@@ -28,10 +28,10 @@ Está [Canon PowerShot G7 X Mark II - Cámara digital compacta de 20.1 MP  panta
 
 ℹ️:
 
-- Calidad de imagen de experto en cualquier luz
 - Buena calidad en la captura tanto de vídeos Full HD como imágenes fijas
-- Toma el control de manera simple
 - Capacidad para la creatividad sin esfuerzo
+- Toma el control de manera simple
 - Comparta sus bellas creaciones con el mundo
+- Calidad de imagen de experto en cualquier luz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BYERRUG/?tag=tolees-21)
