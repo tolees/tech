@@ -29,9 +29,9 @@ Está [UNBREAKcable Protector Pantalla para iPhone 11 Pro/iPhone X/iPhone XS [2 
 ℹ️:
 
 - [ Recuerde ]: El protector de pantalla para iPhone 11 Pro/ X/ XS UNBREAKcable está diseñado para ser más pequeño que el tamaño real del iPhone 11 Pro/ X/ XS, necesario para prevenir la creación de burbujas y que se levante en los bordes curvados del móvil. Este diseño hace que los iPhone 11 Pro/ XS/ X protectores de pantalla sean compatibles con la mayoría de las carcasas.
-- [ Ajuste Perfecto ]: Hecho con cristal templado de alta calidad de 0.33mm de grosor y dureza premium 9H, con bordes 2.5D redondeados exclusivamente para los iPhone 11 Pro/ X/ XS de Apple.
 - [ Sin Burbujas y sin Huellas ]: Potenciado con plasma rociado y tecnología de auto-adsorción, el protector de pantallas de cristal templado para iPhone X/ XS UNBREAKcable puede ser fácilmente instalado sin burbujas y sin residuo de sudor o grasa de sus huellas, lo que mantiene la pantalla de su móvil brillante y limpia.
-- [ Defensa Doble ]: El cristal templado para iPhone 11 Pro/ X/ XS reforzado es el doble de fuerte que el cristal no templado. Puede proteger la pantalla del móvil contra rayaduras y roturas.
 - [Instalación Sencill]: Viene con todos los accesorios necesarios para una colocación exitosa: 1 marco de colocación, 3 toallitas húmedas, 3 absorbentes de polvo, 4 pegatinas para el polvo, 1 paño sin pelusa y 1 guía de colocación detallada. Nota: Este protector de pantalla está especialmente diseñado para el iPhone 11 Pro, iPhone X, iPhone XS. No puede funcionar para el iphone 11 !!
+- [ Ajuste Perfecto ]: Hecho con cristal templado de alta calidad de 0.33mm de grosor y dureza premium 9H, con bordes 2.5D redondeados exclusivamente para los iPhone 11 Pro/ X/ XS de Apple.
+- [ Defensa Doble ]: El cristal templado para iPhone 11 Pro/ X/ XS reforzado es el doble de fuerte que el cristal no templado. Puede proteger la pantalla del móvil contra rayaduras y roturas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JNJGM1G/?tag=tolees-21)

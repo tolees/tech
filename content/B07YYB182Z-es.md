@@ -30,8 +30,8 @@ Ahora mismo tienes [AGPTEK Guardabarros M365  Guardabarros Trasero para Xiaomi M
 
 - 【Soportes de Guardabarros Premium - Accesorios Suficientes】: El soporte está hecho de un material de alta densidad que no se rompe fácilmente, es duradero. Después de instalar el soporte, el guardabarros es más estable, lo que reduce el desgaste y prolonga la vida útil.
 - 【Accesorios y Servicios】: Piezas y herramientas de repuesto Xiaomi M365 / Pro (excluidas las luces traseras), soportes de Guardabarros . Si tiene alguna pregunta, contáctenos y le responderemos dentro de las 24 horas.
-- 【Materiales de Alta Calidad】: Los guardabarros traseros están hechos de materiales ABS y PC de alta resistencia, que son resistentes, estables y duraderos. La amortiguación está hecha de silicona de alta calidad (en lugar de goma dura), que es elástica y resistente al desgaste.
 - 【Compatibilidad Perfecta】: Nuestros guardabarros y soportes de guardabarros equipados son perfectamente compatibles con Xiaomi M365 / M365 Pro, y su combinación le permite evitar eficazmente las salpicaduras de barro.
 - 【Fácil de Instalar】: Solo quite los tornillos y las luces traseras y vuelva a instalar el nuevo guardabarros trasero (se incluye un destornillador en nuestro paquete).
+- 【Materiales de Alta Calidad】: Los guardabarros traseros están hechos de materiales ABS y PC de alta resistencia, que son resistentes, estables y duraderos. La amortiguación está hecha de silicona de alta calidad (en lugar de goma dura), que es elástica y resistente al desgaste.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YYB182Z/?tag=tolees-21)
