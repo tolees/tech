@@ -28,11 +28,11 @@ En este momento está [Lenovo ThinkPad E14 - Ordenador Portátil 14 FullHD  Inte
 
 🔎:
 
+- Procesador Intel Core i3-10110U (2C / 4T, 2.1 / 4.1GHz, 4MB)
 - Sistema operativo Windows 10 pro
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Memoria RAM de 8GB (1x 8GB SO-DIMM DDR4-2666)
 - Pantalla de 14" FullHD (1920x1080) IPS 250nits Anti-glare
 - Tarjeta gráfica Integrated Intel UHD Graphics
-- Procesador Intel Core i3-10110U (2C / 4T, 2.1 / 4.1GHz, 4MB)
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCP6B3J/?tag=tolees-21)
