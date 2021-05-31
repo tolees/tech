@@ -28,9 +28,9 @@ Está [Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Nikon  
 
 ℹ️:
 
-- Objetivo con distancia focal de 18-200 mm y apertura f/3.5-6.3
+- Estabilización de imagen VC y AF mejorado con solo 400 gramos
 - Con 16 elementos en 14 grupos, utiliza un elemento LD para minimizar posibles aberraciones cromáticas
 - Compatible con cámaras Nikon D40, D40X y D60 (sensores APS-C)
-- Estabilización de imagen VC y AF mejorado con solo 400 gramos
+- Objetivo con distancia focal de 18-200 mm y apertura f/3.5-6.3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013HXY21E/?tag=tolees-21)

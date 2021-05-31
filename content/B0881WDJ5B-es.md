@@ -28,10 +28,10 @@ Tienes [HP EliteDesk 800 G1 - Ordenador de sobremesa + TFT 23    Intel Core i5-4
 
 ℹ️:
 
-- Monitor de 23 marca según stock
-- Almacenamiento de SSD 240GB + 500GB HDD
 - Procesador Intel Core i5-4570 caché de 6M, hasta 3,60 GHz
 - Memoria RAM de 16 GB, de tipo DDR3
+- Almacenamiento de SSD 240GB + 500GB HDD
+- Monitor de 23 marca según stock
 - Sistema operativo Windows 10 Professional
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0881WDJ5B/?tag=tolees-21)

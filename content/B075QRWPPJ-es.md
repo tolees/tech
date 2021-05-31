@@ -28,11 +28,11 @@ Tienes [Amazon - Kindle Paperwhite - Resistente al agua  pantalla de alta resolu
 
 ℹ️:
 
-- El Kindle Paperwhite más ligero y fino hasta la fecha: pantalla de 300 ppp sin reflejos que se lee como en papel impreso, incluso bajo la luz del sol.
-- Una sola carga y la batería dura semanas, no horas.
 - Amplio catálogo y precios asequibles: más de 5,5 millones de libros entre los que se incluyen los últimos superventas, títulos exclusivos Kindle y muchos más.
 - Resistente al agua (IPX8), para que puedas usarlo tranquilamente en la playa, en la piscina o en la bañera. El Kindle ha sido probado para resistir una inmersión accidental en el agua.
-- La luz integrada regulable te permite leer dentro y fuera de casa, tanto de día como de noche.
+- El Kindle Paperwhite más ligero y fino hasta la fecha: pantalla de 300 ppp sin reflejos que se lee como en papel impreso, incluso bajo la luz del sol.
+- Una sola carga y la batería dura semanas, no horas.
 - El Kindle Paperwhite está disponible con 8 o 32 GB de almacenamiento. Tu biblioteca te seguirá allá donde vayas.
+- La luz integrada regulable te permite leer dentro y fuera de casa, tanto de día como de noche.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075QRWPPJ/?tag=tolees-21)
