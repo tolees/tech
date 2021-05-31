@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HP 200 RF inalámbrico Óptico 1000DPI Amb al 23.09 % de descuento'
-date: 2021-05-06 08:45:28
+title: 'HP 200 RF inalámbrico Óptico 1000DPI Amb al 20.09 % de descuento'
+date: 2021-05-31 01:34:24
 image: 'https://m.media-amazon.com/images/I/318gw7B+KiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B01MXGQI1F-es HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro -...'
 sku: 'B01MXGQI1F-es'
 tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','hp','ratón', ]
-actualPrice: 9.99 EUR
+actualPrice: 10.38 EUR
 currency: EUR
-price: 9.99
+price: 10.38
 comparePrice: 12.99 EUR
 prodname: 'HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro - Ratón  Ambidextro  Óptico  RF inalámbrico  1000 DPI  Negro '
 country: 'es'
 flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21'
-descuento: '23.09'
-average: '10.3970731707317'
+descuento: '20.09'
+average: '10.3966666666667'
 ---
 
-Está [HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro - Ratón  Ambidextro  Óptico  RF inalámbrico  1000 DPI  Negro ](https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21) con 23.09 de descuento por 9.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro - Ratón  Ambidextro  Óptico  RF inalámbrico  1000 DPI  Negro ](https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21) con 20.09 de descuento por 10.38 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![HP 200 RF inalámbrico Óptico 1000DPI Amb](https://m.media-amazon.com/images/I/318gw7B+KiL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21)
 
 ℹ️:
 
-- X6w31aa abb
-- Producto de la marca HP
 - Modelo del producto X6W31AA
+- Producto de la marca HP
+- X6w31aa abb
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21)

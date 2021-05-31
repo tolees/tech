@@ -28,9 +28,9 @@ Ahora mismo tienes [POSUGEAR Adaptador OTG Tipo C  Cable OTG Puerto USB C Macho 
 
 🔎:
 
-- On-The-Go Cable USB C, TYPE C macho a USB 3.0 OTG Host OTG hembra Cable Función. Pequeño y corto, fácil de guardar en el automóvil o en su bolsa de accesorios.
 - Lo que obtienes: 1x 23cm POSUGEAR USB 3.0 Un cable adaptador OTG para convertidor de enchufe a USB C, nuestra garantía de 18 meses y nuestro servicio al cliente amigable.
 - Los adaptadores USB OTG admiten el uso compartido de energía desde otro teléfono inteligente o tableta, jugar juegos conectando un controlador de juego o editarlos en su tableta conectando un teclado, etc.
+- On-The-Go Cable USB C, TYPE C macho a USB 3.0 OTG Host OTG hembra Cable Función. Pequeño y corto, fácil de guardar en el automóvil o en su bolsa de accesorios.
 - El dorado es resistente a la corrosión, proporciona rigidez y mejora el rendimiento de la señal. Carcasa de aleación de aluminio y cable flexible duradero para una flexión móvil ilimitada.
 - Conecte teléfonos inteligentes y tabletas con un puerto USB C a una unidad flash USB, mouse, teclado, lector de tarjetas USB y otros dispositivos USB.
 

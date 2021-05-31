@@ -29,9 +29,9 @@ En este momento está [FITUEYES Giratorio Elevador del Monitor con Ranura Móvil
 🔎:
 
 - 【FÁCIL DE MONTAR】Viene con las instrucciones y las herramientas necesarias, con las que puede montarlo con facilidad.
-- 【DISEÑO ERGONÓMICO】106mm de altura, ofrece una mejor posición visual, que le ayudará a corregir la postura, y aliviar el dolor de cuello, espalda y articulaciones por pasar horas delante del ordenador.
 - 【PROTECCIÓN】Los pies de goma antideslizantes contribuirán a obtener una mayor estabilidad mientras evitar resbalones y arañazos en el escritiorio. Estilo moderno y elegante, es un idóneo accesorio para oficina u hogar
 - 【DETALLE TÉCNICO】Dimensión: 79-111,2cm(ancho) x 28cm(profondo) x 10,6cm(alto). Capacidad máxima: 15kg. Tablero de MDF de alta calidad, con superficie fina, resistente al agua y rasguños, muy fácil de limpiar.
 - 【GIRATORIO】Los estantes costados se pueden girar a voluntad para que tenga un mejor ángulo de su monitor. Cuenta con dos ranuras para colocar su móvil.
+- 【DISEÑO ERGONÓMICO】106mm de altura, ofrece una mejor posición visual, que le ayudará a corregir la postura, y aliviar el dolor de cuello, espalda y articulaciones por pasar horas delante del ordenador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082V2NNY3/?tag=tolees-21)

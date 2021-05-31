@@ -28,10 +28,10 @@ Tienes [NETGEAR Punto de acceso WiFi WAX204  velocidad WiFi AX1800 de doble band
 
 ℹ️:
 
+- Funcionalidad del router, se puede configurar como un router inalámbrico; tiene 5 puertos ethernet gigabit para conectar sidpositivos
+- Ultimate wifi 6 rendimiento y cobertura- obtenga cobertura inalámbrica para oficinas en el hogar y pequeñas empresas con velocidad ax1800 (banda doble de hasta 600 + 1200 mbps)
 - Compacto y asequible - ideal para oficinas domésticas, dormitorios, tiendas, salas de conferencias o pequeñas oficinas con despliegue y rendimiento instantáneos; ligero y robusto factor de forma
 - Compatibilidad y preparado para el futuro - wifi 6 (802.11ax) es compatible con dispositivos wifi 5 (802.11ac) y de generación anterior
 - Fácil manejo - construido para una fácil instalación y asistente de configuración; sin cables complicados, sin instalación profesional, ni costes añadidos de equipos informáticos
-- Funcionalidad del router, se puede configurar como un router inalámbrico; tiene 5 puertos ethernet gigabit para conectar sidpositivos
-- Ultimate wifi 6 rendimiento y cobertura- obtenga cobertura inalámbrica para oficinas en el hogar y pequeñas empresas con velocidad ax1800 (banda doble de hasta 600 + 1200 mbps)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MQ5CVQK/?tag=tolees-21)
