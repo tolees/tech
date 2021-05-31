@@ -28,10 +28,10 @@ En este momento está [DOMISO 15 6 pulgada Funda para portátil de con bolsa de 
 
 🔎:
 
-- Dimensiones externas: 15.7" x 11.2" x 0.8" / 40.0 x 28.5 x 2.0 cm. Interno Dimensiones: 15.4" x 10.8" x 0.6" / 39.0 x 27.5 x 1.5 cm.
+- Compatible con la mayoría de las laptops de 15.6" laptops for Apple , Microsoft , Lenovo , Acer , ASUS , HP , Dell , etc.
 - Un bolsillo frontal adicional del estuche es ideal para almacenar artículos pequeños como adaptadores de corriente, cables, bolígrafos y blocs de notas, ofreciendo una mayor comodidad.
 - El exterior resistente al agua para proteger su dispositivo contra derrames accidentales; con una capa de relleno de espuma de poliéster y almohadillas de espuma internas suaves y esponjosas para proteger su tableta / computadora portátil contra el polvo, arañazos, caídas y golpes.
 - Las asas elásticas le permiten llevar el estuche portátil liviano como un bolso de mano, o mantener el asa plana.
-- Compatible con la mayoría de las laptops de 15.6" laptops for Apple , Microsoft , Lenovo , Acer , ASUS , HP , Dell , etc.
+- Dimensiones externas: 15.7" x 11.2" x 0.8" / 40.0 x 28.5 x 2.0 cm. Interno Dimensiones: 15.4" x 10.8" x 0.6" / 39.0 x 27.5 x 1.5 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B3NNSHV/?tag=tolees-21)
