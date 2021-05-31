@@ -28,10 +28,10 @@ Está [Aigostar- Pack de 5 Bombilla PLC 2U  tubo de12 W  Maiz G24  Luz fría 640
 
 ℹ️:
 
-- 【Encendido Instantáneo/IRC Alto】 No tendrá que esperar a que se calienten.El CRI de las bombillas led de Aigostar siempre es superior a 80, cerca del valor del sol, así reflejan los colores de manera real y natural.
-- 【ESPECIFICACIONES】12W Bombillas LED PLC. Temperatura de color blanco Frío 6400K, 1200 lúmenes. No regulable. Eficiencia energética A+
 - 【FÁCILMENTE INSTALABLES】Perfectas para todo tipo de estilos tanto en hogares, como en oficinas y comercios.Fáciles de instalar, compatibles con todo tipo de lámparas (de mesa, de pie y de techo)
 - 【Ahorro de energía】Las bombillas LED Aigostar permiten un gran ahorro de energía ya que consumen entre un 60% y un 90% menos que las bombillas de iluminación convencional. Ahorre en su factura de la luz con la iluminación LED Aigostar.
+- 【ESPECIFICACIONES】12W Bombillas LED PLC. Temperatura de color blanco Frío 6400K, 1200 lúmenes. No regulable. Eficiencia energética A+
 - 【Garantía de calidad】Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle
+- 【Encendido Instantáneo/IRC Alto】 No tendrá que esperar a que se calienten.El CRI de las bombillas led de Aigostar siempre es superior a 80, cerca del valor del sol, así reflejan los colores de manera real y natural.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085VFT6VL/?tag=tolees-21)
