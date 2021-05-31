@@ -28,9 +28,9 @@ Tienes [Western Digital - WD Red 6 TB NAS 3.5 pulgadas  Disco duro interno Clase
 
 🔎:
 
+- Caché: 64 MB
+- RPM: IntelliPower
 - Capacidad: 6 TB
 - Factor de forma: 3.5 pulgadas
-- RPM: IntelliPower
-- Caché: 64 MB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N4UVVGA/?tag=tolees-21)
