@@ -28,11 +28,11 @@ Ahora mismo tienes [Energy Sistem Tower 5 g2 Torre de Sonido con Bluetooth Ebony
 
 🔎:
 
-- Tipo de conectividad: auxiliar
-- Bluetooth 5.0: sistema de sonido 2.1 en forma de torre con bluetooth 5.0 que permite conectar tu smartphone, tablet o cualquier otro dispositivo bluetooth de forma inalámbrica.
-- Radio fm: función radio fm para sintonizar cualquier emisora en tu torre de sonido y escuchar todos los programas.
 - Usb/microsd mp3 player: reproduce archivos mp3 desde tarjetas microsd y memorias usb con capacidad de hasta 128 gb o entrada de audio de 3,5 mm.
-- 65 w: altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 w para reproducir música en el hogar.
 - True wireless stereo: conecta dos towers para reproducir simultáneamente cualquier canción con la tecnología true wireless y duplica la potencia.
+- Bluetooth 5.0: sistema de sonido 2.1 en forma de torre con bluetooth 5.0 que permite conectar tu smartphone, tablet o cualquier otro dispositivo bluetooth de forma inalámbrica.
+- Tipo de conectividad: auxiliar
+- Radio fm: función radio fm para sintonizar cualquier emisora en tu torre de sonido y escuchar todos los programas.
+- 65 w: altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 w para reproducir música en el hogar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GQ7PQXN/?tag=tolees-21)
