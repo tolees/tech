@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.54 % en HOMCOM Mesa Armario móvil Mueble de TV T'
-date: 2021-05-29 13:46:48
+date: 2021-05-31 18:42:03
 image: 'https://m.media-amazon.com/images/I/31di6PbONvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [HOMCOM Mesa Armario móvil Mueble de TV Tele de Madera con Ruedas Color 
 
 ℹ️:
 
-- ✅4 ruedas (Dos ruedas con frenos)
 - ✅Color: Blanco
+- ✅Material: aglomerado de madera con superficie de melamina
+- ✅4 ruedas (Dos ruedas con frenos)
 - ✅Con 2 estantes
 - ✅Dimensiones: 80 x 40 x 40 cm (Largo x Ancho x Alto)
-- ✅Material: aglomerado de madera con superficie de melamina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NP2RSU0/?tag=tolees-21)
