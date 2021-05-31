@@ -28,11 +28,11 @@ Tienes [ASUS VivoBook 14 X413JA-EB470 - Ordenador Portátil de \" Full HD  Intel
 
 ℹ️:
 
-- Procesador Intel Core i5-1035G1 (1GHz, 6MB)
-- Memoria RAM de 8GB (en placa) DDR4-2400MHz
-- Almacenamiento de 512GB M.2 NVMe PCIe
 - Sin Sistema Operativo
-- Pantalla de 14" Full HD (1920 x 1080)
+- Memoria RAM de 8GB (en placa) DDR4-2400MHz
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Pantalla de 14" Full HD (1920 x 1080)
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Procesador Intel Core i5-1035G1 (1GHz, 6MB)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZ5SNTJ/?tag=tolees-21)
