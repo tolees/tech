@@ -29,9 +29,9 @@ Ahora mismo tienes [HP Elite 8200 - Ordenador de sobremesa Completo + Pantalla 2
 🔎:
 
 - Memoria RAM 8GB DDR3
-- Almacenamiento de 128 GB SSD
-- Procesador Intel Core i5-2400 caché de 6M, hasta 3,40 GHz
-- Monitor:Pantalla de 20" Pulgadas
 - WINDOWS 10 PROFESIONAL
+- Procesador Intel Core i5-2400 caché de 6M, hasta 3,40 GHz
+- Almacenamiento de 128 GB SSD
+- Monitor:Pantalla de 20" Pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XYZRKXF/?tag=tolees-21)
