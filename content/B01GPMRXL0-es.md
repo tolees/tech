@@ -28,10 +28,10 @@ Tienes [BENFEI Cable DisplayPort a DVI  1 8m Adaptador Macho a Macho Chapado en 
 
 ℹ️:
 
-- El conector DisplayPort con cierres proporciona una conexión segura con un botón de liberación que se debe presionar antes de desconectarse.
-- Transmite audio y vídeo de alta definición desde el ordenador a un televisor HD para transmisión de vídeo o juegos. Conecte y configure el monitor para ampliar su escritorio o tener pantallas duplicadas.
-- Conexión de puerto DisplayPort compatible con PC a un televisor HD, monitor o proyector con puerto DVI.
 - Conectores chapados en oro, conductores de cobre sin revestimiento y blindaje de aluminio y trenzado combinados para proporcionar un rendimiento superior del cable y una conectividad fiable.
+- Transmite audio y vídeo de alta definición desde el ordenador a un televisor HD para transmisión de vídeo o juegos. Conecte y configure el monitor para ampliar su escritorio o tener pantallas duplicadas.
+- El conector DisplayPort con cierres proporciona una conexión segura con un botón de liberación que se debe presionar antes de desconectarse.
 - Compatible con resoluciones de vídeo de hasta 1920 x 1200/1080p (Full HD) y paso de audio impecable para canales digitales sin comprimir de 7.1, 5.1 o 2.
+- Conexión de puerto DisplayPort compatible con PC a un televisor HD, monitor o proyector con puerto DVI.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GPMRXL0/?tag=tolees-21)
