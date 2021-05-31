@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Uncharted Col al 54.09 % de descuento'
-date: 2021-05-30 15:53:53
+date: 2021-05-31 16:02:48
 image: 'https://m.media-amazon.com/images/I/51aQQIUvpXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21'
 descuento: '54.09'
-average: '12.883142857143'
+average: '12.7547222222224'
 ---
 
 Está [Sony CEE Games  New Gen  - Uncharted Collection Hits - Versión 17](https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21) con 54.09 de descuento por 8.26 EUR (original: 17.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sony CEE Games  New Gen  - Uncharted Collection Hits - Versión 17](https
 
 ℹ️:
 
+- Edición de los juegos: básica
 - Rango ESRB: T (adolescente)
 - Clasificación PEGI: 16
 - Plataforma: PlayStation 4
-- Edición de los juegos: básica
 - Género: acción/aventura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21)

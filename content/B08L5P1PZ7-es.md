@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12  64 GB  - en Negro al 15.07 % de descuento'
-date: 2021-05-28 13:19:46
+date: 2021-05-31 16:37:25
 image: 'https://m.media-amazon.com/images/I/31SOygUjpUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21'
 descuento: '15.07'
-average: '854.367959183675'
+average: '852.720600000001'
 ---
 
 Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21) a 772.0 EUR (original: 909.0 EUR) (15.07 %  de descuento) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazo
 
 🔎:
 
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - A14 Bionic, el chip más veloz en un smartphone
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Resistencia al agua IP68, líder en el sector
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21)

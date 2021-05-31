@@ -29,9 +29,9 @@ En este momento está [Power A - Pokémon Mando inalámbrico para Nintendo Switc
 🔎:
 
 - El mando favorito para Super Smash Bros Ultimate
-- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
-- Luces LED de alimentación, número del jugador y advertencia de batería baja
 - Mandos de movimiento y botones de sistema añadidos para lograr compatibilidad con todos los juegos Nintendo Switch
+- Luces LED de alimentación, número del jugador y advertencia de batería baja
 - Libertad inalámbrica Bluetooth
+- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NJ8YNDT/?tag=tolees-21)
