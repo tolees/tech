@@ -28,10 +28,10 @@ Tienes [ASUS ROG STRIX Z490-I GAMING - Placa Base Gaming mini-ITX Intel de 10a g
 
 🔎:
 
-- La mejor conectividad gaming: Salidas HDMI 2.0 y DisplayPort 1.4 y conectores USB 3.2 gen 2 de tipo A y C
 - Diseño térmico optimizado: Ventilador Delta Superflo, Disipador MOS con caloducto en forma de L y un disipador de tres pisos para optimizar la refrigeración
-- Socket LGA 1200 para la 10a gen de procesadores Intel Core
-- Suministro energético optimizado: 8+2 etapas VRM con tomas de alimentación ProCool II, bobinas choke y condensadores de alta calidad para los nuevos procesadores de múltiples núcleos
 - Redes de alto rendimiento: Intel Wi-Fi 6 AX201 (802.11 ax) y Ethernet Intel 2.5 GB con ASUS LANGuard
+- Suministro energético optimizado: 8+2 etapas VRM con tomas de alimentación ProCool II, bobinas choke y condensadores de alta calidad para los nuevos procesadores de múltiples núcleos
+- La mejor conectividad gaming: Salidas HDMI 2.0 y DisplayPort 1.4 y conectores USB 3.2 gen 2 de tipo A y C
+- Socket LGA 1200 para la 10a gen de procesadores Intel Core
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08829KNMB/?tag=tolees-21)
