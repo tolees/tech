@@ -28,10 +28,10 @@ Tienes [Sony XM-N502 - Amplificador estéreo para vehículos  2/1 Canales  500W 
 
 🔎:
 
-- Conexiones de un solo extremo
-- Filtro de paso bajo integrado
-- Potencia máxima de salida de 500 W
 - Repuesta de frecuencia: 5 hasta 50.000 Hz
+- Potencia máxima de salida de 500 W
+- Filtro de paso bajo integrado
+- Conexiones de un solo extremo
 - Control térmico automático
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FF4QSI4/?tag=tolees-21)

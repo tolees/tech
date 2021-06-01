@@ -28,14 +28,14 @@ Ahora mismo tienes [Xiaomi Smart Kettle Pro Hervidor de agua  Blanco](https://ww
 
 🔎:
 
-- Estación base giratoria 360° con cable.
-- Tiempo de control de temperatura/función de mantenimiento en caliente hasta 12 horas.
-- Fácil control mediante un botón en el hervidor de agua o a través de un smartphone iOS y Android a través de la aplicación Mi Home.
 - Triple protección de seguridad con apagado automático por ejemplo, en caso de falta de agua (función de protección en seco).
+- Estación base giratoria 360° con cable.
 - Revestimiento interior completo de acero inoxidable con aislamiento térmico.
-- Perfiles de temperatura predefinidos para una preparación óptima de, por ejemplo, alimentos para bebés, té, etc.
 - Función de cocción rápida (5 minutos).
-- Indicador de temperatura de alta resolución.
+- Tiempo de control de temperatura/función de mantenimiento en caliente hasta 12 horas.
+- Perfiles de temperatura predefinidos para una preparación óptima de, por ejemplo, alimentos para bebés, té, etc.
+- Fácil control mediante un botón en el hervidor de agua o a través de un smartphone iOS y Android a través de la aplicación Mi Home.
 - Control inteligente de la temperatura del agua.
+- Indicador de temperatura de alta resolución.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MPXN672/?tag=tolees-21)
