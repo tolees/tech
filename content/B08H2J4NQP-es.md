@@ -28,10 +28,10 @@ Tienes [Garmin vivofit jr. 3 - Monitor de actividad para niños  La Sirenita](ht
 
 🔎:
 
-- Motiva a los niños a alcanzar sus objetivos de actividad diaria desbloqueando aventuras, juegos e iconos. Pulsera cómoda, ajustable y duradera.
-- Hasta 1 año de batería; sin necesidad de carga; la batería puede ser remplazada por el usuario.
-- Las actividades programadas permiten seguir los pasos de tu hijo y la distancia estimada durante el tiempo de juego, cuando juegue a fútbol y cualquier otra cosa que se le ocurra; puedes ver las actividades guardadas más tarde en la aplicación Garmin Jr.
 - La pantalla más grande y el diseño cuadrado hacen que sea más fácil ver todas las estadísticas directamente en el dispositivo. Dependiendo del dispositivo adquirido, habrá distintos diseños del seguimiento de la actividad para elegir, algunas inspiradas en Garmin, en princesas de Disney o tus Vengadores de Marvel favoritos.
+- Hasta 1 año de batería; sin necesidad de carga; la batería puede ser remplazada por el usuario.
+- Motiva a los niños a alcanzar sus objetivos de actividad diaria desbloqueando aventuras, juegos e iconos. Pulsera cómoda, ajustable y duradera.
 - Accede rápidamente a la información de contacto de emergencia de tu hijo con el widget ICE (en caso de emergencia).
+- Las actividades programadas permiten seguir los pasos de tu hijo y la distancia estimada durante el tiempo de juego, cuando juegue a fútbol y cualquier otra cosa que se le ocurra; puedes ver las actividades guardadas más tarde en la aplicación Garmin Jr.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H2J4NQP/?tag=tolees-21)
