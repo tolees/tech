@@ -28,11 +28,11 @@ Tienes [Fujifilm XF 56mm f/1.2 R APD - Objetivo para Fujifilm X  Distancia Focal
 
 ℹ️:
 
-- Objetivo de focal fija
-- Tamaño del filtro: 62 mm
-- Montura para FUJIFILM X
-- Peso: 405 g
-- Filtro de apodización integrado
 - Distancia focal fija de 56 mm, con apertura f/1.2-16
+- Filtro de apodización integrado
+- Tamaño del filtro: 62 mm
+- Peso: 405 g
+- Objetivo de focal fija
+- Montura para FUJIFILM X
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NEBLCWC/?tag=tolees-21)
