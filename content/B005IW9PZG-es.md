@@ -28,10 +28,10 @@ Tienes [Canon PG-540 Cartucho de tinta original Negro para Impresora de Inyeccio
 
 🔎:
 
+- Los documentos conservan la calidad del texto en negro durante décadas
+- Tinta de alta calidad
 - Cartucho original, ideal para tu impresora en la oficina o en casa
 - Compatible con Canon Pixma
 - Cantidad de 8 ml tinta negra
-- Tinta de alta calidad
-- Los documentos conservan la calidad del texto en negro durante décadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IW9PZG/?tag=tolees-21)
