@@ -29,10 +29,10 @@ Está [ASUS VivoBook Flip TP412FA-EC649T - Ordenador Portátil de 14" Full HD  I
 ℹ️:
 
 - Pantalla de 14" Full HD (1920 x 1080)
-- Windows 10 Home
-- Memoria RAM de 8GB (4GB en placa + 1 x 4GB) DDR4-2400MHz
 - Almacenamiento de 256GB M.2 NVMe PCIe
 - Procesador Intel Core i3-10110U (2.1GHz, 4MB)
+- Memoria RAM de 8GB (4GB en placa + 1 x 4GB) DDR4-2400MHz
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Windows 10 Home
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BZ58J1D/?tag=tolees-21)
