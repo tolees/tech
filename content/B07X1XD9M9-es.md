@@ -28,10 +28,10 @@ Tienes [JSER - Xiwai USB-C tipo C/USB 2.0 a NM Nano tarjeta de memoria y TF lect
 
 🔎:
 
-- Conector USB-C tipo C / USB 2.0 2 en 1. Compatible con el teléfono con puerto USB 3.1 tipo C
 - USB-C tipo C / USB 2.0 a NM Nano tarjeta de memoria y TF Micro SD lector de tarjetas para Huawei teléfono celular y portátil
 - Característica: la tarjeta NM Nano Memory es la nueva tarjeta para teléfono celular Huawei.
 - Gestiona todos tus datos directamente en el lector de documentos de tu dispositivo para todos los formatos de datos comunes
 - Velocidad de transferencia de datos: 480 Mbps integrado con una ranura para tarjeta TF/NM, puedes gastar tu almacenamiento como necesites
+- Conector USB-C tipo C / USB 2.0 2 en 1. Compatible con el teléfono con puerto USB 3.1 tipo C
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X1XD9M9/?tag=tolees-21)

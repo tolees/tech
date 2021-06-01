@@ -28,9 +28,9 @@ Está [Cocoda Tripode para Movil  Flexible Tripodes Camaras con Rótula de Bola 
 
 ℹ️:
 
-- Rotación Completa de 360°: Gracias a la rótula de metal con rotación de 360°, podrá hacer con mucha facilidad fotos, y videos desde múltiples ángulos. Podrá ajustar su teléfono celular / cámara hacia cualquier dirección vertical u horizontal, y a cualquier ángulo que necesite para conseguir la foto o video perfecto.
 - Obturador Remoto Bluetooth: Este tripode para movil está equipado con un control remoto, para poder tomar fotos con manos libres, y a una distancia de 10 m / 30 pies del teléfono, será perfecto para hacer selfies, fotos grupales, grabación de videos para YouTube, transmisión en vivo, vlogs y fotos muy estables.
 - Flexible y Duradero: Podrá doblar las patas con total libertad, y envolverlo a ramas de árboles, postes, pomos de puertas y bicicletas. Realizado en una aleación de aluminio premium gruesa y de caucho de alta densidad para conseguir una incomparable durabilidad, que garantiza que las patas no se rompan fácilmente.
+- Rotación Completa de 360°: Gracias a la rótula de metal con rotación de 360°, podrá hacer con mucha facilidad fotos, y videos desde múltiples ángulos. Podrá ajustar su teléfono celular / cámara hacia cualquier dirección vertical u horizontal, y a cualquier ángulo que necesite para conseguir la foto o video perfecto.
 - Amplia Compatibilidad: Gracias al tornillo de 1/4  con el que cuenta este tripode para camara reflex, será compatible con DSLR, cámaras digitales, Gopro. Tiene además un soporte universal para teléfonos móviles, que se expande entre 2.16 "-3.38", y es compatible con iPhone 12 Mini / 12 Pro Max / 11 Pro Max / XR, Samsung Galaxy S20 / S20+ / S20 Ultra / Note10 / S10 plus, etc. El trípode también se puede utilizar como soporte para tablet o cómo palo selfie.
 - Mayor Estabilidad: Gracias al tripode graduado y al tornillo que lo bloquea, este palo selfie tripode bloquea la cámara / teléfono en la posición necesaria de manera muy segura. Sostendrá su teléfono / cámara muy firmemente, y sin que tiemble, también cuenta con pies antideslizantes, que mantendrán el trípode muy estable en cualquier superficie.
 
