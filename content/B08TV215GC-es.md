@@ -28,10 +28,10 @@ Tienes [Teclado Inalambrico para Mac OS  Macbook  Mac Mini  iMac  Mac Pro   Tecl
 
 ℹ️:
 
-- instalacion fácil: 1 abrir ON del teclado y Bluetooth de su computadora, 2 Pulsar "CONNECT" (en el junto al ON/OFF)durante 2-3 segundos . 3. Cuando aparece "OMOTON Keyboard" en el bluetooth de su computadora, puede emparejarlo
-- Español ISO: Este teclado usa el idioma de Español ISO, no puede usar el Español de otra zona.
-- DISEÑO ERGONÓMICO - El teclado inalámbrico está inclinado para facilitar la escritura. El teclado es diseñado por España, tiene la tecla ¨Ñ¨ y los simbolos españoles
-- Recargable: Este teclado puede recarga, no necesita cambiar las baterias.
 - Compatible con MAC OS, Este teclado está diseñada por la sistema de MAC OS, ( Macbook, Mac Mini, iMac, Mac Pro), NO Compatible con otra sistema
+- instalacion fácil: 1 abrir ON del teclado y Bluetooth de su computadora, 2 Pulsar "CONNECT" (en el junto al ON/OFF)durante 2-3 segundos . 3. Cuando aparece "OMOTON Keyboard" en el bluetooth de su computadora, puede emparejarlo
+- DISEÑO ERGONÓMICO - El teclado inalámbrico está inclinado para facilitar la escritura. El teclado es diseñado por España, tiene la tecla ¨Ñ¨ y los simbolos españoles
+- Español ISO: Este teclado usa el idioma de Español ISO, no puede usar el Español de otra zona.
+- Recargable: Este teclado puede recarga, no necesita cambiar las baterias.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08TV215GC/?tag=tolees-21)

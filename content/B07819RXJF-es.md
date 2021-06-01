@@ -29,9 +29,9 @@ Tienes [MTFY Tech - Micrófono USB  micrófono de condensador omnidireccional po
 🔎:
 
 - Fácil de instalar y usar: este micrófono es puerto USB, no necesitas un controlador adicional para utilizar este micrófono y no se necesita instalación de software. Simplemente conecta el puerto USB de tu Mac/PC y funcionará.
-- Multiusos: el micrófono de condensador diseñado exclusivamente para conferencias de oficina, Skype, reuniones en línea, creación de podcasts y negociaciones, juegos, video/audio chat y otras llamadas de voz.
-- Distancia de recogida de voz de 3 metros - El micrófono de conferencia puede recoger el sonido de 3 m de distancia, para que la gente pueda escucharlo en una habitación grande o cuando estás lejos. Y permite a las oficinas remotas escuchar a todos en la habitación independientemente de los altavoces de cada asiento.
-- Diseño portátil: el elegante micrófono de condensador de forma redonda iluminará tu escritorio y es muy portátil de llevar.
 - Excelente claridad de audio: el micrófono de condensador puede capturar la señal más ligera desde 360° en todas las direcciones. El sonido es claro y sin eco, nunca necesitas hablar más alto o repetirte, solo tienes que llevar una conversación normal.
+- Distancia de recogida de voz de 3 metros - El micrófono de conferencia puede recoger el sonido de 3 m de distancia, para que la gente pueda escucharlo en una habitación grande o cuando estás lejos. Y permite a las oficinas remotas escuchar a todos en la habitación independientemente de los altavoces de cada asiento.
+- Multiusos: el micrófono de condensador diseñado exclusivamente para conferencias de oficina, Skype, reuniones en línea, creación de podcasts y negociaciones, juegos, video/audio chat y otras llamadas de voz.
+- Diseño portátil: el elegante micrófono de condensador de forma redonda iluminará tu escritorio y es muy portátil de llevar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07819RXJF/?tag=tolees-21)
