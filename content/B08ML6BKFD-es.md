@@ -28,12 +28,12 @@ Está [MSI GL65 Leopard - Ordenador portátil de 15.6" FHD  Intel Core i7-10750H
 
 ℹ️:
 
+- Disco ssd de 1 tb nvme pcie gen3x4
 - Sin sistema operativo
 - Procesador Intel Core i7-10750h (6 núcleos, 12 MB cache, 2.6 GHz hasta 5 GHz)
 - Tamaño de pantalla: 15.6 inches
-- Memoria RAM de ddr iv 16 GB (2666 MHz)
-- Capacidad del disco duro (GB): 1.0 TB
-- Disco ssd de 1 tb nvme pcie gen3x4
 - Tarjeta gráfica geforce gtx 1660 ti, gddr6 6 GB
+- Capacidad del disco duro (GB): 1.0 TB
+- Memoria RAM de ddr iv 16 GB (2666 MHz)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08ML6BKFD/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Green Cell PRO - GC Pro Cargador para Portátil Lenovo B5
 
 🔎:
 
-- Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
-- Cargador Green Cell PRO para la computadora portátil Lenovo B570 G550 G570 G575 G770 G780 G580 G585 IdeaPad P580 Z510 Z580 Z585: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
-- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
-- Potencia: 90W | Voltaje: 20V | Intensidad: 4.5A | Tipo de enchufe: redondo (5.5-2.5mm)
 - Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
+- Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
+- Potencia: 90W | Voltaje: 20V | Intensidad: 4.5A | Tipo de enchufe: redondo (5.5-2.5mm)
+- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
+- Cargador Green Cell PRO para la computadora portátil Lenovo B570 G550 G570 G575 G770 G780 G580 G585 IdeaPad P580 Z510 Z580 Z585: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WFQ2Z98/?tag=tolees-21)
