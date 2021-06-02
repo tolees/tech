@@ -28,8 +28,8 @@ Ahora mismo tienes [Xiaomi Power Bank Blanco con Linterna 3.250mAh BATERÍA PORT
 
 🔎:
 
-- Iluminación 3w y puerto usb
 - 3.250 mah de capacidad
+- Iluminación 3w y puerto usb
 - Linterna de hasta 240 lúmenes
 - Original de xiaomi
 
