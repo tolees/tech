@@ -28,15 +28,15 @@ Ahora mismo tienes [2020 Apple MacBook Air con Chip M1 de Apple  de 13 Pulgada
 
 🔎:
 
-- Diseño sin ventilador para un funcionamiento ultrasilencioso
-- Memoria unificada de 8 GB para que todo sea rápido y fluido
-- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
-- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
 - Neural Engine de 16 núcleos para un aprendizaje automático avanzado
-- GPU de hasta ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
-- CPU de ocho núcleos con un rendimiento hasta 3,5 veces superior para meter más caña a los proyectos
+- Almacenamiento SSD megarrápido para abrir apps y archivos al instante
 - Cámara FaceTime HD con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
+- GPU de hasta ocho núcleos con gráficos hasta cinco veces más veloces para acelerar los juegos y apps más exigentes
+- Memoria unificada de 8 GB para que todo sea rápido y fluido
 - Pantalla Retina de 13,3 pulgadas con gama cromática amplia (P3) para ofrecer colores realistas y un nivel de detalle increíble
+- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
+- Diseño sin ventilador para un funcionamiento ultrasilencioso
+- CPU de ocho núcleos con un rendimiento hasta 3,5 veces superior para meter más caña a los proyectos
 - Autonomía de hasta 18 horas para disfrutar más que nunca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08N5TLVQ2/?tag=tolees-21)
