@@ -28,10 +28,10 @@ En este momento está [AVM FRITZ!Powerline 1220E Set International - Adaptador/e
 
 🔎:
 
-- Toma de corriente integrada, 2 puertos LAN Gigabit para conectar cualquier Smart-TV, decodificador, Blue ray, NAS, equipo Hi-Fi o consola de videojuegos al router y a Internet mediante conexión LAN
 - Contenido de la caja: 2 x adaptadores/extensores FRITZ!Powerline 1220E, 2 x cables de red de 1.80m, guía rápida de instalación en Español
-- Una nueva clase de PLCs - FRITZ!Powerline 1220E amplia y vincula la red del router a través de la red eléctrica con tasas de transferencia de datos de hasta 1200 Mbps
-- Compatible con PLCs de 1200, 500 y 200 Mbps, con el estándar IEEE P1901 y HomePlug AV2, para aplicaciones que necesitan un mayor ancho de banda, pareado y encriptado de fábrica con AES-128bit
 - QoS ("Quality of Service"): establece la prioridad de datos para transmisión de vídeo y telefonía IP sin interferencias
+- Compatible con PLCs de 1200, 500 y 200 Mbps, con el estándar IEEE P1901 y HomePlug AV2, para aplicaciones que necesitan un mayor ancho de banda, pareado y encriptado de fábrica con AES-128bit
+- Una nueva clase de PLCs - FRITZ!Powerline 1220E amplia y vincula la red del router a través de la red eléctrica con tasas de transferencia de datos de hasta 1200 Mbps
+- Toma de corriente integrada, 2 puertos LAN Gigabit para conectar cualquier Smart-TV, decodificador, Blue ray, NAS, equipo Hi-Fi o consola de videojuegos al router y a Internet mediante conexión LAN
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N49BI8M/?tag=tolees-21)

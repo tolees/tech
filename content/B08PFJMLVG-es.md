@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Chromebook 14a-na0006ns - Ordenador p con un 16.67 % de descuento'
-date: 2021-05-31 12:07:49
+date: 2021-06-02 18:27:29
 image: 'https://m.media-amazon.com/images/I/41CjB3ibLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [HP Chromebook 14a-na0006ns - Ordenador portátil de 14" F
 
 🔎:
 
+- Procesador Celeron N4020
 - Almacenamiento de 64GB Emmc
 - 4GB de memoria RAM
-- Procesador Celeron N4020
-- Sistema operativo Chrome OS
 - Tarjeta gráfica Integrada Intel UHD Graphics
+- Sistema operativo Chrome OS
 - Pantalla de 14" FullHD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJMLVG/?tag=tolees-21)
