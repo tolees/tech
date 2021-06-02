@@ -28,10 +28,10 @@ Ahora mismo tienes [VTech - Libro/Tablet multiaventura  Tablet para niños +2 a�
 
 🔎:
 
-- Versión española
+- Un botón con luz para escuchar canciones y frases. Para aprender palabras colores y formas geométricas.
 - Por un lado tiene el modo de Cuentos con páginas ilustradas donde descubre diferentes actividades y aprendizaje.
 - En el otro lado es un Tablero interactivo con imágenes para presionar y responder a diferentes preguntas.
-- Un botón con luz para escuchar canciones y frases. Para aprender palabras colores y formas geométricas.
+- Versión española
 - Con sensor para identificar los dos lado de juego: horizontal para el tablero y vertical para el libro.
 - Tablero con dos caras interactivas con funciones diferentes. Utilízalo como si fuera un tradicional libro o un moderno tablet multimedia simplemente con cambiar la orientación.
 
