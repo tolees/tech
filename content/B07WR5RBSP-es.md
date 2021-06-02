@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.02 % en RAYROW Adaptador USB a HDMI  USB 3.0 a H'
-date: 2021-05-26 22:00:47
+date: 2021-06-02 09:45:16
 image: 'https://m.media-amazon.com/images/I/418cNCOM-zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [RAYROW Adaptador USB a HDMI  USB 3.0 a HDMI  convertidor de Adaptador de
 ℹ️:
 
 - 3) 【Super Speed Interface】 Interfaz USB 3.0 y compatible con USB 2.0. Soporte para dispositivos conectables en caliente (solo el conector USB 3.0 puede alcanzar HD 1080P, si es un puerto usb 2.0, solo puede ser 800 x 600)
-- 1) 【Adaptador USB 3.0 a HDMI】 El adaptador USB a HDMI le permite conectar un monitor de pantalla adicional a su PC de escritorio o portátil a través de un cable HDMI adicional (cable no incluido) y la computadora a través de la interfaz USB a un HDTV, monitor o proyector con interfaz HDMI . El conector USB3.0 es para entrada, la interfaz HDMI es para salida. ---- NOTA: SOLO admite Windows 10, Windows 8, Sistema Windows 7 / XP. (No es compatible con Mac / VISTA)
 - 4) 【Operación simple】 Instale su controlador interno directamente. Cuando lo conecte a la computadora, después de conectarlo a su computadora, verá una nueva carpeta de dispositivo USB en su computadora, luego ábrala y haga doble clic para instalar el controlador. solo sigue los consejos para instalarlo.
+- 1) 【Adaptador USB 3.0 a HDMI】 El adaptador USB a HDMI le permite conectar un monitor de pantalla adicional a su PC de escritorio o portátil a través de un cable HDMI adicional (cable no incluido) y la computadora a través de la interfaz USB a un HDTV, monitor o proyector con interfaz HDMI . El conector USB3.0 es para entrada, la interfaz HDMI es para salida. ---- NOTA: SOLO admite Windows 10, Windows 8, Sistema Windows 7 / XP. (No es compatible con Mac / VISTA)
 - 2) 【Images Imágenes HD 1080P con audio】 La velocidad de transmisión de USB 3.0 es de hasta 5 Gbps para el mejor rendimiento, este USB 3.0 a HDMI ofrece imágenes gráficas de alta definición para su HDTV o monitores con una resolución de hasta 1920x1080. Proporcionará fuentes de audio y video de alta definición en la computadora a su HDTV o monitor.
 - 5) 【Ligero y portátil】 El adaptador USB3.0 portátil es liviano. Es ideal para conectar la computadora de su computadora a un proyector extendiendo una computadora de escritorio a un segundo monitor o reflejando pantallas para una mejor presentación en un proyector. Es de amplio uso en el aula, la oficina y el hogar.
 

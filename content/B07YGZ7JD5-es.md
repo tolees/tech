@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 27.59 % en Kingston Canvas Select Plus Tarjeta micr'
-date: 2021-05-27 15:45:47
-image: 'https://m.media-amazon.com/images/I/41zmvqN7xtS._SL500_._SL400_.jpg'
+date: 2021-06-02 09:38:43
+image: 'https://m.media-amazon.com/images/I/51igMvUn-YS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21'
 descuento: '27.59'
-average: '16.4413636363636'
+average: '16.3243478260869'
 ---
 
 Tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/128GB Class 10 con Adaptador SD](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21) con un 27.59 % de descuento con precio de oferta de 13.75 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Kingston Canvas Select Plus Tarjeta micr](https://m.media-amazon.com/images/I/41zmvqN7xtS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21)
+[![Kingston Canvas Select Plus Tarjeta micr](https://m.media-amazon.com/images/I/51igMvUn-YS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21)
 
 ℹ️:
 
-- Tipo de memoria flash: Micro SD
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 - Capacidad de la memoria: 128 GB
 - Optimizada para uso con dispositivos Android
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Tipo de memoria flash: Micro SD
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21)
