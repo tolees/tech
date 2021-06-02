@@ -28,11 +28,11 @@ En este momento está [HP Chromebook 14a-na0006ns - Ordenador portátil de 14" F
 
 🔎:
 
-- Procesador Celeron N4020
-- Almacenamiento de 64GB Emmc
-- 4GB de memoria RAM
 - Tarjeta gráfica Integrada Intel UHD Graphics
-- Sistema operativo Chrome OS
+- 4GB de memoria RAM
 - Pantalla de 14" FullHD
+- Almacenamiento de 64GB Emmc
+- Procesador Celeron N4020
+- Sistema operativo Chrome OS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJMLVG/?tag=tolees-21)
