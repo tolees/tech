@@ -29,9 +29,9 @@ En este momento está [Green Cell PRO - Green Cell® Extended Serie 03TY 06TY HS
 🔎:
 
 - Capacidad: 4400 mAh | Tensión: 10.8V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
-- Las celdas originales Li-Ion Green Cell aseguran una alta durabilidad y el empleo de un mayor número de celdas garantiza una mayor capacidad y un tiempo de trabajo prolongado de la batería de la serie Extended
-- Batería de la renombrada marca Green Cell 100% compatible con la batería 03TY 06TY HSTNN-DB1U
-- Advertencia: La batería de la serie Extended tiene mayores dimensiones que las baterías estándares y puede sobresalir por detrás o por debajo del ordenador portátil
 - Compatible con los ordenadores portátiles: HP Mini 110-3000 110-3100 / Compaq Mini CQ10-400 CQ10-500
+- Batería de la renombrada marca Green Cell 100% compatible con la batería 03TY 06TY HSTNN-DB1U
+- Las celdas originales Li-Ion Green Cell aseguran una alta durabilidad y el empleo de un mayor número de celdas garantiza una mayor capacidad y un tiempo de trabajo prolongado de la batería de la serie Extended
+- Advertencia: La batería de la serie Extended tiene mayores dimensiones que las baterías estándares y puede sobresalir por detrás o por debajo del ordenador portátil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3SIUBC/?tag=tolees-21)
