@@ -28,11 +28,11 @@ En este momento está [HP 14s-dq2004ns - Ordenador portátil de 14" FullHD  Inte
 
 🔎:
 
-- Procesador Intel Core i5-1135G7
-- 8GB de memoria RAM
-- Pantalla de 14" FullHD
-- Sin sistema operativo
 - Almacenamiento de 512GB SSD
+- Sin sistema operativo
+- Procesador Intel Core i5-1135G7
+- Pantalla de 14" FullHD
+- 8GB de memoria RAM
 - Tarjeta gráfica Integrada Intel Iris Xe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFGNRB3/?tag=tolees-21)

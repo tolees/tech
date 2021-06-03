@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Ultra Tarjeta de memoria microSD con un 34.11 % de descuento'
-date: 2021-05-31 07:47:26
+title: 'SanDisk Ultra Tarjeta de memoria microSD con un 45.95 % de descuento'
+date: 2021-06-03 11:49:56
 image: 'https://m.media-amazon.com/images/I/414KF0pyZjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B073JWXGNT-es SanDisk Ultra Tarjeta de memoria microSDHC con adaptador...'
 sku: 'B073JWXGNT-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','sandisk', ]
-actualPrice: 7.9 EUR
+actualPrice: 6.48 EUR
 currency: EUR
-price: 7.9
+price: 6.48
 comparePrice: 11.99 EUR
 prodname: 'SanDisk Ultra Tarjeta de memoria microSDHC con adaptador SD  hasta 98 MB/s  rendimiento de apps A1  Clase 10  U1  32 GB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21'
-descuento: '34.11'
-average: '6.67056962025316'
+descuento: '45.95'
+average: '6.66937106918239'
 ---
 
-En este momento está [SanDisk Ultra Tarjeta de memoria microSDHC con adaptador SD  hasta 98 MB/s  rendimiento de apps A1  Clase 10  U1  32 GB](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21) a 7.9 EUR (original: 11.99 EUR) (34.11 %  de descuento) en el siguiente enlace!
+En este momento está [SanDisk Ultra Tarjeta de memoria microSDHC con adaptador SD  hasta 98 MB/s  rendimiento de apps A1  Clase 10  U1  32 GB](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21) a 6.48 EUR (original: 11.99 EUR) (45.95 %  de descuento) en el siguiente enlace!
 
 [![SanDisk Ultra Tarjeta de memoria microSD](https://m.media-amazon.com/images/I/414KF0pyZjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21)
 
 🔎:
 
-- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
-- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
 - Velocidades de transferencia de hasta 98 MB/s
-- Compatible con microSDHC y microSDXC que admiten dispositivos host
 - Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
+- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
+- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Compatible con microSDHC y microSDXC que admiten dispositivos host
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21)

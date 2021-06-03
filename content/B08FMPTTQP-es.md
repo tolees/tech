@@ -28,10 +28,10 @@ En este momento está [Xiaomi Redmi 9C - Smartphone 32Gb  2Gb Ram  Dual Sim  Sun
 
 🔎:
 
-- OS: Android 10
-- Cámara: Triple, 13MP+5MP+2MP
 - Pantalla: 6.53", 720 x 1600 pixels
-- Procesador: Mediatek Helio G35 2.3GHz
+- Cámara: Triple, 13MP+5MP+2MP
 - Batería: 5000 mAh
+- OS: Android 10
+- Procesador: Mediatek Helio G35 2.3GHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPTTQP/?tag=tolees-21)
