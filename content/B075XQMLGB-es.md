@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.98 % en HP - H2800 - Auriculares para Tableta  S'
-date: 2021-05-27 15:05:07
+date: 2021-06-03 21:32:34
 image: 'https://m.media-amazon.com/images/I/31iS70eiuAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B075XQMLGB/?tag=tolees-21'
 descuento: '19.98'
-average: '23.0761111111112'
+average: '22.9927027027028'
 ---
 
 Tienes [HP - H2800 - Auriculares para Tableta  Smartphone y Ordenador Plateado Plateado](https://www.amazon.es/dp/B075XQMLGB/?tag=tolees-21) con un 19.98 % de descuento con precio de oferta de 19.99 EUR (original: 24.98 EUR) en el siguiente enlace!

@@ -29,11 +29,11 @@ En este momento está [Samyang F1312801101 - Objetivo para vídeo VDSLR para Can
 🔎:
 
 - Compatible con filtros de 77mm
-- Enfoque manual
-- Montura para Canon EF
-- Incluye parasol extraíble
-- Con soportes compatibles con el sistema de enfoque Follow Focus
 - Gran angular para cámaras con sensor Full Frame
 - Con revestimiento UMC anti-reflectante
+- Incluye parasol extraíble
+- Con soportes compatibles con el sistema de enfoque Follow Focus
+- Enfoque manual
+- Montura para Canon EF
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SLP0NA8/?tag=tolees-21)
