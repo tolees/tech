@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 7 5G - smartphone de 6.5  6GB RAM al 22.97 % de descuento'
-date: 2021-05-31 20:30:53
+date: 2021-06-03 09:53:15
 image: 'https://m.media-amazon.com/images/I/41ZRh5dGPVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B08MR37F2D/?tag=tolees-21'
 descuento: '22.97'
-average: '236.634897959185'
+average: '236.200200000001'
 ---
 
 Ahora mismo tienes [realme 7 5G - smartphone de 6.5  6GB RAM + 128GB de ROM  120Hz Ultra Smooth Display  48MP Quad Camera  batería con 5000mAh y carga de 30W Dart Charge  Color Azul [Versión ES/PT]](https://www.amazon.es/dp/B08MR37F2D/?tag=tolees-21) a 214.9 EUR (original: 279.0 EUR) (22.97 %  de descuento) en el siguiente enlace!
@@ -28,15 +28,15 @@ Ahora mismo tienes [realme 7 5G - smartphone de 6.5  6GB RAM + 128GB de ROM  120
 
 🔎:
 
-- Realme ui; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0; Tipo de conector: type c
+- Lector de huella dactilar instantáneo (lateral)
 - Carga rápida de 30w dart charge
-- Real design (diseño tipo espejo)
 - Dolby atmos hi-res audio
+- Batería de 5000mah
+- Realme ui; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0; Tipo de conector: type c
+- Cámara selfie de 16mp en pantalla
 - 5g chip (5g+5g dsds)
 - 120hz ultra smooth display
-- Lector de huella dactilar instantáneo (lateral)
-- Batería de 5000mah
-- Cámara selfie de 16mp en pantalla
 - Cámara de 48mp ai Quad camera
+- Real design (diseño tipo espejo)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MR37F2D/?tag=tolees-21)
