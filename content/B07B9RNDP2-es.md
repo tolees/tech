@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Detroit Becom al 28.42 % de descuento'
-date: 2021-05-26 06:32:25
+date: 2021-06-03 10:06:25
 image: 'https://m.media-amazon.com/images/I/51N4hqeu15L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07B9RNDP2/?tag=tolees-21'
 descuento: '28.42'
-average: '18.6035'
+average: '18.6652380952381'
 ---
 
 Ahora mismo tienes [Sony CEE Games  New Gen  - Detroit Become Human - Edición Estándar](https://www.amazon.es/dp/B07B9RNDP2/?tag=tolees-21) a 19.9 EUR (original: 27.8 EUR) (28.42 %  de descuento) en el siguiente enlace!

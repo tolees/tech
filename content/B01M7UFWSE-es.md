@@ -28,10 +28,10 @@ Ahora mismo tienes [TobyRich Moskito - Avión a Control Remoto por Smartphone](h
 
 🔎:
 
-- Puede utilizarse al aire libre y en interiores
 - Tiempo de vuelo: 12 minutos
-- Intuitivo control a través de la aplicación con tres modos de dificultad
 - Avión con joystick controlado por smartphone
 - Especialmente robusto gracias a su refuerzo de carbono
+- Puede utilizarse al aire libre y en interiores
+- Intuitivo control a través de la aplicación con tres modos de dificultad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M7UFWSE/?tag=tolees-21)
