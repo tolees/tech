@@ -28,10 +28,10 @@ Ahora mismo tienes [OcioDual Cable de Carga Magnético 40cm Compatible con Xiaom
 
 🔎:
 
-- Nota: Smartwatch no incluído.
 - Compatible con Xiaomi Mi Band 5, Xiaomi Mi Band 6. NO COMPATIBLE con Xiaomi Mi Band 1S, Xiaomi Mi Band 2, Xiaomi Mi Band 3, Xiaomi Mi Band 4, Xiaomi Mi Band 4C y otros modelos.
-- La base del conector para el smartwatch está imantada, por lo que no necesitará retirar la correa de su dispositivo.
-- Conecte este cable a su dispositivo y a un puerto UBS de carga, ya sea un cargador de pared, una power bank, un puerto USB de un PC...
 - Este cable es el complemento ideal para cargar su smartwatch en cualquier lugar.
+- Conecte este cable a su dispositivo y a un puerto UBS de carga, ya sea un cargador de pared, una power bank, un puerto USB de un PC...
+- Nota: Smartwatch no incluído.
+- La base del conector para el smartwatch está imantada, por lo que no necesitará retirar la correa de su dispositivo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F7GGCRZ/?tag=tolees-21)
