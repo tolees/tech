@@ -28,10 +28,10 @@ Está [Tamron SP 35Mm F1.4 Di Usd Canon](https://www.amazon.es/dp/B07SPK1YJT/?ta
 
 ℹ️:
 
-- Diseñado para formato completo
+- Revestimiento bbar-g2 de nueva generación
 - Af rápido y excepcionalmente exacto
 - Ideal para prácticamente todos los géneros fotográficos incluyendo fotoperiodismo, paisajes, deportes, callejera, fotos de bodas y fotografía casual
-- Revestimiento bbar-g2 de nueva generación
+- Diseñado para formato completo
 - Espectacular bokeh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SPK1YJT/?tag=tolees-21)
