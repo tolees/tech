@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Kindle  ahora con luz frontal i al 17.36 % de descuento'
-date: 2021-06-01 16:15:24
+date: 2021-06-03 06:55:35
 image: 'https://m.media-amazon.com/images/I/31sQ14-mbVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.es/dp/B07FQ4XCR1/?tag=tolees-21'
 descuento: '17.36'
-average: '81.765606060606'
+average: '81.7099999999999'
 ---
 
 Está [Amazon - Kindle  ahora con luz frontal integrada  negro](https://www.amazon.es/dp/B07FQ4XCR1/?tag=tolees-21) con 17.36 de descuento por 74.37 EUR (original: 89.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Amazon - Kindle  ahora con luz frontal integrada  negro](https://www.amaz
 
 ℹ️:
 
-- Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
 - Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
-- Una sola carga y la batería dura semanas, no horas.
 - La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
-- Los miembros Prime tienen acceso a cientos de libros.
 - Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
+- Una sola carga y la batería dura semanas, no horas.
+- Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
+- Los miembros Prime tienen acceso a cientos de libros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQ4XCR1/?tag=tolees-21)
