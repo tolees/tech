@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - Green Cell Batería Dell M5Y1K WKRJ2 K185W 
 
 🔎:
 
-- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
-- Compatible con los ordenadores portátiles: Dell Inspiron 15, Dell Inspiron 5555, Dell Inspiron 5558, Dell Inspiron 5559, Dell Inspiron 17, Dell Inspiron 5755, Dell Inspiron 5758, Dell Inspiron 5759, Dell Inspiron 15, Dell Inspiron 5551, Dell Inspiron 5552, Dell Inspiron 3551, Dell Inspiron 3552, Dell Inspiron 3555, Dell Inspiron 3558, Dell Inspiron 3567, Dell Inspiron 14, Dell Inspiron 3451, Dell Inspiron 3452, Dell Vostro 15, Vostro 3558, Vostro 3559, Vostro 3568, Latitude 3470, Latitude 3570
-- Batería de la renombrada marca Green Cell 100% compatible con la batería Dell M5Y1K WKRJ2 K185W
 - Capacidad: 2200 mAh | Tensión: 14.8V | Color: Negro
+- Compatible con los ordenadores portátiles: Dell Inspiron 15, Dell Inspiron 5555, Dell Inspiron 5558, Dell Inspiron 5559, Dell Inspiron 17, Dell Inspiron 5755, Dell Inspiron 5758, Dell Inspiron 5759, Dell Inspiron 15, Dell Inspiron 5551, Dell Inspiron 5552, Dell Inspiron 3551, Dell Inspiron 3552, Dell Inspiron 3555, Dell Inspiron 3558, Dell Inspiron 3567, Dell Inspiron 14, Dell Inspiron 3451, Dell Inspiron 3452, Dell Vostro 15, Vostro 3558, Vostro 3559, Vostro 3568, Latitude 3470, Latitude 3570
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
+- Batería de la renombrada marca Green Cell 100% compatible con la batería Dell M5Y1K WKRJ2 K185W
+- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075DCY7ZF/?tag=tolees-21)
