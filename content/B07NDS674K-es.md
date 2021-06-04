@@ -28,10 +28,10 @@ Tienes [MEDION AKOYA M80 - Ordenador de sobremesa  Intel Celeron G4900  8GB RAM 
 
 🔎:
 
+- Procesador Intel Celeron G4900 (2 núcleos, 2 MB cache, 3.10 GHz).
+- Tarjeta gráfica Intel UHD Graphics 630.
+- Almacenamiento de 1TB HDD 5400rpm.
 - Sistema Operativo Windows 10 Home.
 - Memoria RAM de 8GB DDR4, 2400MHz.
-- Almacenamiento de 1TB HDD 5400rpm.
-- Tarjeta gráfica Intel UHD Graphics 630.
-- Procesador Intel Celeron G4900 (2 núcleos, 2 MB cache, 3.10 GHz).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NDS674K/?tag=tolees-21)
