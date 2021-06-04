@@ -28,9 +28,9 @@ Está [Samsung 860 EVO - Disco estado solido SSD  500 GB  6 Gb/s  color negro](h
 
 ℹ️:
 
-- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 - Escritura secuencial: 520MB/s
-- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 - Dispone de interfaz SATA
+- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
+- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21)
