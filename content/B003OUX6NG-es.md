@@ -28,9 +28,9 @@ Está [Sony SEL-18200- Objetivo 18-200 mm F 3.5-6.3](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Lente de zoom de 18-200 mm F3,5-6,3 para cámaras con montura tipo E y con un rango amplio para un uso general
 - Montura tipo E, sensor APS-C
 - Estabilización de imagen SteadyShot óptica
+- Lente de zoom de 18-200 mm F3,5-6,3 para cámaras con montura tipo E y con un rango amplio para un uso general
 - Lente con zoom de gran ampliación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003OUX6NG/?tag=tolees-21)
