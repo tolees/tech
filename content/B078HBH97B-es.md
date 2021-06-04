@@ -29,9 +29,9 @@ Ahora mismo tienes [LaCie Rugged Secure  2 TB  disco duro externo portátil  USB
 🔎:
 
 - Camina cerca o lejos con un disco duro portátil que proporciona resistencia a la caída, al aplastamiento y a la lluvia, así como compatibilidad con Thunderbolt 3, USB C y USB 3.0
+- Lanzar proyectos de gran escala con 2 TB de capacidad, e ingerir directamente archivos con velocidades rápidas de hasta 130 MB/s
 - Disfrute de una tranquilidad a largo plazo
 - Protege lo que importa con la protección de contraseña cifrada por hardware de grado gubernamental AES 256 de Rugged Secure
 - Aprovecha una membresía de cortesía de un mes en Adobe Creative Cloud All Apps Plan para acceder a aplicaciones de edición de fotos y videos
-- Lanzar proyectos de gran escala con 2 TB de capacidad, e ingerir directamente archivos con velocidades rápidas de hasta 130 MB/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078HBH97B/?tag=tolees-21)
