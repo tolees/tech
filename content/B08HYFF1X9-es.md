@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra 64 GB Tarjeta de Memoria m al 23.09 % de rebaja'
-date: 2021-05-27 11:36:41
+date: 2021-06-04 07:26:12
 image: 'https://m.media-amazon.com/images/I/51f-cogTYvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [SanDisk Ultra 64 GB Tarjeta de Memoria microSDXC con Adaptador SD  hasta
 
 🔎:
 
-- Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
 - Clase 10 para la grabación y reproducción de vídeo de alta definición
+- Ideal para smartphones y tabletas Android, así como para cámaras compactas
 - Capacidad de almacenamiento de memoria: 64
 - Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
+- Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
 - Las velocidades de transferencia de hasta 120 Mb/s te permiten transferir hasta 1000 fotos en un minuto
-- Ideal para smartphones y tabletas Android, así como para cámaras compactas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HYFF1X9/?tag=tolees-21)

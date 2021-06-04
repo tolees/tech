@@ -28,7 +28,7 @@ En este momento está [Gopro Hero7 - Cámara de Acción  Sumergible hasta 10M  V
 
 🔎:
 
-- Graba impresionantes vídeos en 4K, tan increíbles como el propio momento. También puedes grabar vídeos secuenciales para convertir eventos largos en momentos más cortos listos para compartir
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
+- Graba impresionantes vídeos en 4K, tan increíbles como el propio momento. También puedes grabar vídeos secuenciales para convertir eventos largos en momentos más cortos listos para compartir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HDPGBQB/?tag=tolees-21)
