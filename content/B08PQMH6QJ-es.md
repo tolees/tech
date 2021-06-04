@@ -28,8 +28,8 @@ Está [GoPro HERO9 Black - Cámara de acción + SanDisk Extreme - Tarjeta de Mem
 
 ℹ️:
 
-- Tarjeta de memoria microSDXC con adaptador SD, A2, hasta 160 MB/s, Class 10, U3 y V30
-- Vídeos con una resolución 5K Ultra HD, Fotos de 20 MP, transmisión en Directo en 1080p, Modo Webcam y estabilización
 - Cámara de acción Sumergible con Pantalla LCD Delantera y Pantalla táctil Trasera
+- Vídeos con una resolución 5K Ultra HD, Fotos de 20 MP, transmisión en Directo en 1080p, Modo Webcam y estabilización
+- Tarjeta de memoria microSDXC con adaptador SD, A2, hasta 160 MB/s, Class 10, U3 y V30
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PQMH6QJ/?tag=tolees-21)

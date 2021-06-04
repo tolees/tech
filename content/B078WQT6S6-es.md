@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 860 EVO - Disco estado solido SS al 23.14 % de descuento'
-date: 2021-05-22 08:20:32
+title: 'Samsung 860 EVO - Disco estado solido SS al 15.75 % de descuento'
+date: 2021-06-04 12:02:03
 image: 'https://m.media-amazon.com/images/I/41qR7C253KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B078WQT6S6-es Samsung 860 EVO - Disco estado solido SSD 500 GB 6 Gb/s...'
 sku: 'B078WQT6S6-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung', ]
-actualPrice: 83.0 EUR
+actualPrice: 90.98 EUR
 currency: EUR
-price: 83.0
+price: 90.98
 comparePrice: 107.99 EUR
 prodname: 'Samsung 860 EVO - Disco estado solido SSD  500 GB  6 Gb/s  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21'
-descuento: '23.14'
-average: '68.738853211009'
+descuento: '15.75'
+average: '68.8404109589039'
 ---
 
-Está [Samsung 860 EVO - Disco estado solido SSD  500 GB  6 Gb/s  color negro](https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21) con 23.14 de descuento por 83.0 EUR (original: 107.99 EUR) en el siguiente enlace!
+Está [Samsung 860 EVO - Disco estado solido SSD  500 GB  6 Gb/s  color negro](https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21) con 15.75 de descuento por 90.98 EUR (original: 107.99 EUR) en el siguiente enlace!
 
 [![Samsung 860 EVO - Disco estado solido SS](https://m.media-amazon.com/images/I/41qR7C253KL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21)
 
 ℹ️:
 
-- Escritura secuencial: 520MB/s
-- Dispone de interfaz SATA
 - La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
+- Escritura secuencial: 520MB/s
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
+- Dispone de interfaz SATA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WQT6S6/?tag=tolees-21)

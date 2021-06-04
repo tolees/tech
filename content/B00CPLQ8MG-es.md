@@ -28,10 +28,10 @@ En este momento está [Olympus M.Zuiko - Objetivo digital ED 75 mm F1.8  longitu
 
 🔎:
 
-- Adecuado para retratos y fotografía de paisajes
-- Un objetivo rápido con un gran f-stop de F1.8 para un bonito bokeh circular sin viñetas
 - Calidad de imagen contundente, precisión hasta los bordes del campo de imagen, alta resolución y bajas aberraciones
 - Ámbitos de aplicación: naturaleza, luz baja y retrato; corresponde a un objetivo de 150 mm 35 mm
+- Un objetivo rápido con un gran f-stop de F1.8 para un bonito bokeh circular sin viñetas
 - Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- Adecuado para retratos y fotografía de paisajes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CPLQ8MG/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [HP Tango X 3DP65B  Impresora Tinta  Color  Imprime  Escanea y Copia Desd
 
 🔎:
 
-- Imprime a doble cara manualmente en el hogar fotografías y documentos con colores intensos y nítidos a una velocidad de hasta 11 ppm en negro y 8 ppm en color
 - Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos y fotografías con resultados de gran calidad cómodamente desde tu móvil
+- Imprime a doble cara manualmente en el hogar fotografías y documentos con colores intensos y nítidos a una velocidad de hasta 11 ppm en negro y 8 ppm en color
+- La impresora HP Tango X viene con una funda protectora y una bandeja de entrada con una capacidad de hasta 50 hojas
 - Esta impresora es compatible con los cartuchos de inyección de tinta originales HP 303 Negro, HP 303 Tricolor y viene con 2 meses incluidos del servicio automático de tinta HP Instant Ink
 - Cuenta con una conectividad fiable entre dispositivos gracias a la conexión Wi-Fi de doble banda, Wi-Fi Direct, USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria
-- La impresora HP Tango X viene con una funda protectora y una bandeja de entrada con una capacidad de hasta 50 hojas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GZTM9RQ/?tag=tolees-21)

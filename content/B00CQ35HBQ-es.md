@@ -28,9 +28,9 @@ Tienes [Kingston KVR16LS11/8 Memoria RAM  PC3L-12800  CL11  204 Pin SODIMM  8GB]
 
 ℹ️:
 
-- Las memorias Kingston están testeadas al 100%
 - Los módulos de memoria ValueRAM de Kingston Technology están fabricados con componentes de primer nivel (Grade A)
 - Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones
+- Las memorias Kingston están testeadas al 100%
 - Memoria Interna Kingston KVR16LS11/8 SODIMM de 8 GB, DDR3L, 1600MHz, Non-ECC, CL11, 1.35 V
 - Factor de forma: 204-pin SO-DIMM
 
