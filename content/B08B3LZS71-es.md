@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG SN6Y - Barra de sonido 3.1 con 420W d al 32.35 % de descuento'
-date: 2021-05-31 15:22:05
+date: 2021-06-05 15:37:42
 image: 'https://m.media-amazon.com/images/I/21GV2ntH2mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [LG SN6Y - Barra de sonido 3.1 con 420W de potencia  DTS Virtual:X  subwoo
 
 ℹ️:
 
-- Sonido DTS Virtual X
-- 3.1 canales
-- AI Sound Pro
-- HDMI in/out
-- Subwoofer inalámbrico
 - Potencia: 420 W
+- HDMI in/out
+- Sonido DTS Virtual X
+- AI Sound Pro
+- 3.1 canales
+- Subwoofer inalámbrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3LZS71/?tag=tolees-21)
