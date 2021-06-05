@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda PH6 - Adaptadores de Comunicación  al 25.62 % de descuento'
-date: 2021-06-03 14:19:14
+date: 2021-06-05 02:17:34
 image: 'https://m.media-amazon.com/images/I/41nT+WtMSBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [Tenda PH6 - Adaptadores de Comunicación por Línea Eléctrica  PLC Kit  
 
 ℹ️:
 
+- Compatible con el estándar homeplug av2 te permite ver videos 4k hd y transferir datos sobre su línea eléctrica existente
 - 2 puertos gigabit 1000mbps que permiten crear redes cableadas seguras para equipos de sobremesa o iptv
+- Modo ahorro de energía reduce el consumo de energía hasta un 85%
 - Con ph6 no vas a perder ninguna toma de corriente, enchufe integrado
 - 3 años de garantia
-- Compatible con el estándar homeplug av2 te permite ver videos 4k hd y transferir datos sobre su línea eléctrica existente
-- Modo ahorro de energía reduce el consumo de energía hasta un 85%
 - Plug and play, no es necesaria configuración o cableado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078KD51HS/?tag=tolees-21)
