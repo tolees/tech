@@ -28,9 +28,9 @@ Ahora mismo tienes [DYNASONIC - DY-65201 Altavoz Bluetooth Inalámbrico Sistema 
 
 🔎:
 
-- Altavoces autoamplificados con personalización y control del sonido (control de bajo, eco y sobre-agudos)
-- Radio FM incorporada en el Altavoz Portátil, altavoz bluetooth USB y SD (lectores), Cable de Carga y cable jack para la entrada Line IN
 - Luces multicolor para animar la reproducción, mando de control remoto incluido en el producto
+- Radio FM incorporada en el Altavoz Portátil, altavoz bluetooth USB y SD (lectores), Cable de Carga y cable jack para la entrada Line IN
+- Altavoces autoamplificados con personalización y control del sonido (control de bajo, eco y sobre-agudos)
 - Nuestro Altavoz Bluetooth DY65201 de alta potencia tiene una calidad de sonido excepcional para hogares y casas
 - Potencia: RMS 12W | Entrada para micrófonos inalámbricos y alámbricos (1 micrófono inalámbrico incluído)
 

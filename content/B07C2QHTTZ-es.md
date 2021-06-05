@@ -28,10 +28,10 @@ Ahora mismo tienes [Garmin Approach S10 - Reloj de Golf  campos mundiales preins
 
 🔎:
 
-- Sube tus tarjetas de puntuación a Garmin Express para llevar un registro de los recorridos.
 - Elegante, ligero y cómodo con pantalla de alta resolución y legible a la luz del sol.
 - Proporciona la distancia a la zona delantera, central y trasera del green, así como los obstáculos y los doglegs de más de 41.000 campos preinstalados de todo el mundo.
-- Batería recargable con una duración de hasta 12 horas en el modo de golf con GPS.
 - Guarda tu puntuación en el reloj para obtener un resumen de tu recorrido, la distancia jugada total y el tiempo total.
+- Sube tus tarjetas de puntuación a Garmin Express para llevar un registro de los recorridos.
+- Batería recargable con una duración de hasta 12 horas en el modo de golf con GPS.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C2QHTTZ/?tag=tolees-21)
