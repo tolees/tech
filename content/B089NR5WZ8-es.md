@@ -28,8 +28,8 @@ En este momento está [Xiaomi Mi Electric Scooter Essential  Negro y Normal  Ver
 
 🔎:
 
-- Elegante y elegante, portátil y seguro.
 - [Potencia nominal <350V, velocidad max <25km/h, autonomía >20Km, sistema de luces completo alimentado por batería, carga máxima superior a 60Kg]
+- Elegante y elegante, portátil y seguro.
 - Diseño minimalista, aluminio de grado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089NR5WZ8/?tag=tolees-21)
