@@ -28,9 +28,9 @@ Tienes [SanDisk Extreme PRO - Tarjeta de Memoria SDHC de 32 GB  hasta 95 MB/s  U
 
 🔎:
 
-- Diseñada para grabar vídeos 4K UHD y realizar fotografías secuenciales en modo ráfaga
-- Grabe vídeo de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
-- Tarjeta de memoria SD UHS-I potente con velocidades de disparo de hasta 90 MB/s y velocidades de transferencia de hasta 95 MB/s
 - Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
+- Diseñada para grabar vídeos 4K UHD y realizar fotografías secuenciales en modo ráfaga
+- Tarjeta de memoria SD UHS-I potente con velocidades de disparo de hasta 90 MB/s y velocidades de transferencia de hasta 95 MB/s
+- Grabe vídeo de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01J5RHBQ4/?tag=tolees-21)

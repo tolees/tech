@@ -28,10 +28,10 @@ En este momento está [Samsung LED View Cover - Funda para Samsung Galaxy S9+  c
 
 🔎:
 
-- Diseño simple y tacto suave
 - Una capa de microfibra envuelve tu Galaxy S9+, mejorando así la protección que ofrece la silicona
+- Diseño simple y tacto suave
+- Fácil acceso a todos los puertos, controles y conectores
 - Nuevo material para un agarre más cómodo
 - Sujeta con fuerza tu Galaxy S9+ con la nueva Silicone Cover No te preocupes por los posible golpes o arañazos en tu Smartphone Una capa de microfibra envuelve tu teléfono, mejorando así la protección que ofrece la silicona
-- Fácil acceso a todos los puertos, controles y conectores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079FYLF33/?tag=tolees-21)
