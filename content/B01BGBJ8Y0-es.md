@@ -28,12 +28,12 @@ Tienes [Logitech C270 Webcam HD  720p/30fps  Video-Llamadas HD Amplio Campo Visu
 
 ℹ️:
 
-- Videoconferencias HD Simplemente Buenas: Webcam HD para Skype, FaceTime para Mac y prácticamente cualquier otro cliente de videoconferencias
 - Nítidas Fotos de 3 MP: Disfruta de flexibilidad, rendimiento y fluidez que las webcams integradas no pueden igualar
-- Su Voz se Oye: Transmite tu voz con claridad, mediante el micrófono integrado que filtra el ruido de fondo
-- Sube de Categoría con Logitech C920s : Para disfrutar de Full HD, enfoque automático y tapa de obturador
-- Compatible con: Windows 7, Windows 8, Windows 10, MacOS 10.10 o superior y ChromeOS
+- Videoconferencias HD Simplemente Buenas: Webcam HD para Skype, FaceTime para Mac y prácticamente cualquier otro cliente de videoconferencias
 - Funciona con Chromebook: Este producto está probado y certificado con Chromebook, lo que significa que cumple con las normas de compatibilidad de Google y funciona a la perfección con Chromebook
 - Videoconferencias HD 720p en Pantalla Panorámica: Webcam para videoconferencias y grabaciones de vídeo HD 720p, fluidas y en pantalla panorámica
+- Compatible con: Windows 7, Windows 8, Windows 10, MacOS 10.10 o superior y ChromeOS
+- Su Voz se Oye: Transmite tu voz con claridad, mediante el micrófono integrado que filtra el ruido de fondo
+- Sube de Categoría con Logitech C920s : Para disfrutar de Full HD, enfoque automático y tapa de obturador
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BGBJ8Y0/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [PDP Mando Afterglow Deluxe Con Cable  Negro  Prismatic   Nintendo Switch
 🔎:
 
 - Ajusta el volumen sobre la marcha con la cruceta y el botón de función.
-- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
-- Con licencia oficial de Nintendo.
-- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB.
 - Vistoso diseño de luz LED con colores personalizables y diversos modos de iluminación.
+- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB.
+- Con licencia oficial de Nintendo.
+- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V3SZY39/?tag=tolees-21)
