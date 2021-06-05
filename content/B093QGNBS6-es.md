@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Creator 15 A10SD-490XES - Ordenador  al 19.19 % de descuento'
-date: 2021-06-01 02:31:00
+date: 2021-06-05 13:30:57
 image: 'https://m.media-amazon.com/images/I/411jiDyzFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
