@@ -28,9 +28,9 @@ Ahora mismo tienes [CoolBox DeepDarth - Ratón gaming óptico RGB  programable  
 
 🔎:
 
-- Botones con vida útil de 10 millones de pulsaciones, y cable resistente, mallado y trenzado anti-enredos
-- Personaliza los 9 modos de iluminación rgb con el software de gestión: elige los colores, la velocidad de la iluminación y la dirección de las luces.
 - Programación de macros a través del sotfware de gestión, para que configures tus atajos en juegos o navegación multimedia
+- Botones con vida útil de 10 millones de pulsaciones, y cable resistente, mallado y trenzado anti-enredos
 - Frecuencia de escaneo: 125-250-500-1000hz Sensor óptico 3610 que aporta un control suave y preciso del ratón
+- Personaliza los 9 modos de iluminación rgb con el software de gestión: elige los colores, la velocidad de la iluminación y la dirección de las luces.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081TRLQH2/?tag=tolees-21)

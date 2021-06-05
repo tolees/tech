@@ -28,10 +28,10 @@ Ahora mismo tienes [Pilas AAA Micro VARTA Power on Demand  aptas para accesorios
 
 🔎:
 
-- Como único fabricante alemán de pilas, confiamos en la ubicación de Alemania y en la calidad de nuestras pilas, la cual es apreciada en todo el mundo desde hace más de 130 años
-- Ideal para aparatos como mandos a distancia, relojes de pared, aparatos domésticos inteligentes, controles remotos, herramientas electrónicas, robots, cámaras digitales, radios, controladores wifi, termostatos de radiadores, despertadores de luz, sensores de movimiento, interruptor de luz táctil por radio
 - VARTA: el nombre es símbolo de «Made in Germany» y, por lo tanto, también de calidad y competencia
 - Paquete de reserva de pilas Micro AAA, pilas alcalinas a un precio de oferta, 40 unidades en un embalaje reciclable
+- Como único fabricante alemán de pilas, confiamos en la ubicación de Alemania y en la calidad de nuestras pilas, la cual es apreciada en todo el mundo desde hace más de 130 años
+- Ideal para aparatos como mandos a distancia, relojes de pared, aparatos domésticos inteligentes, controles remotos, herramientas electrónicas, robots, cámaras digitales, radios, controladores wifi, termostatos de radiadores, despertadores de luz, sensores de movimiento, interruptor de luz táctil por radio
 - Varta Power On Demand: ¡inteligente, flexible y potente! Especialmente desarrollada para consumidores móviles finales. Power on Demand ofrece la potente energía necesaria para los aparatos con un alto consumo de energía.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P6XNG7D/?tag=tolees-21)

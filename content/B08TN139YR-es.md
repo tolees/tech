@@ -28,10 +28,10 @@ Tienes [MoKo Funda Compatible con Lenovo Tab P11 11" TB-J606 Tableta  Ultra Slim
 
 🔎:
 
-- Por favor, busca "Lenovo Tab P11 11" TB-J606" para otros estilos y opciones de color que ofrece nuestro tienda.
+- La buena calidad de PU cuero impulsa un aspecto elegante.
 - Conveniente stand posición para ver la película o escribir. Con cierre magnético.
 - Función de inicio / reposo automático, la pantalla se ilumina cuando se abre la funda de cuero y la pantalla se apaga cuando se cierra la tapa, lo cual es muy fácil de usar
 - Ultra Slim ligero hardback añade un minimo de volumen mientras protege su preciado dispositivo.
-- La buena calidad de PU cuero impulsa un aspecto elegante.
+- Por favor, busca "Lenovo Tab P11 11" TB-J606" para otros estilos y opciones de color que ofrece nuestro tienda.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TN139YR/?tag=tolees-21)
