@@ -28,10 +28,10 @@ Tienes [KFD 65W-45W Adaptador Cargador Portátil para ASUS Zenbook UX301 UX32VD 
 
 🔎:
 
-- Paquete incluyen: 1 x KFD cargador con Europa enchufe.Un serie tiene diferentes versiones de portátil, no todo los cargadores está 100% compatible con su ordenador portátil, si no esá confirmado, por favor contactarnos.
-- Entrada: 100-240V 50-60Hz, Salida: 19V 3.42A, 65W Max ,Tamaño de conector : 4.0x1.35mm ( Tienes que prestar atención al que si el tamaño esté corresponte a su original)
 - Compatible con Asus Vivobook S200e Q200e Q302la X553M X102 F102 X200 X201 X202e X540SA X553SA F201 F202 E402SA E403SA F556UJ-XO010T 15.6" Asus Zenbook UX305LA UX302LA Ux32 Ux32vs Ux42 Ux42vs Ux52 U38 UX31LA UX303LN UX52A UX52VS UX21A UX31A U38N U38DT Taichi 21 31, X403 X403F X406 X409 X409F X409U X410 X441 X441M X441U X442 X442U X453MA X453SA A540 F507 F509 F512 F512FA F512UF F540 F541 F542 X512 X512U X530 X540 X541 X542 X556 E402BA E402BP E402MA E402NA E402SA E403NA E403SA E502MA E502NA E502SA
 - Para Asus VivoBook 12 14 15 17 F200 F202E Q200E L203MA S200E X202E A403F A403FA A405 A405U F403 F407 F412 F411 K430 L403 R410 F512F F512U, TP301UA-DW010T Portátil de 13.3" Transformer Book T300L T300LA TP300 TP300L, Asus UX434FAC UX430UA-GV002T UX430UA-GV003T UX330UA-FC078T, Asus Zenbook UX305UA UX301LA UX302LA UX301 UX302 UX302LG UX303 UX303LA Asus Transformer Book Flip T300 T300LA TP300LD, Asus Transformer Book TP300 TP300LA Tx201 TX201LA Q302, 90-XB3NN0PW00010Y 90-XB3NN0PW00040Y N65W-02
+- Entrada: 100-240V 50-60Hz, Salida: 19V 3.42A, 65W Max ,Tamaño de conector : 4.0x1.35mm ( Tienes que prestar atención al que si el tamaño esté corresponte a su original)
 - KFD AC Adaptadores son fabricados con mejor materiales e incluyen funciones de protección de portátiles contra tensión incorrecta, cortocircuito, sobrecalentamiento interno /con los certificados TÜV, GS, CE, ROHS, FCC, REACH, cambia productos o devuelve dinero durante 30 dias por gratis, 3 años de garantía
+- Paquete incluyen: 1 x KFD cargador con Europa enchufe.Un serie tiene diferentes versiones de portátil, no todo los cargadores está 100% compatible con su ordenador portátil, si no esá confirmado, por favor contactarnos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ODV4IBO/?tag=tolees-21)
