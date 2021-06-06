@@ -28,9 +28,9 @@ Tienes [Nikon D750 Cuerpo de la cámara SLR 24 3 MP CMOS 6016 x 4016 Pixeles Neg
 
 🔎:
 
+- Con montura F de Nikon (con acoplamiento AF y contactos AF)
 - Limpieza del sensor de imagen, datos de referencia de eliminación de polvo de la imagen
 - Sensor de imagen CMOS de 35.9 x 24 mm
 - Contiene 24.93 millones de píxeles totales y 24.3 millones de píxeles efectivos
-- Con montura F de Nikon (con acoplamiento AF y contactos AF)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O0UJY9O/?tag=tolees-21)

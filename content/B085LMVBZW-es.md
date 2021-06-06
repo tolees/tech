@@ -28,12 +28,12 @@ Tienes [HUAWEI P40 Lite - Smartphone 6.4"  Kirin 810  6GB RAM  128GB ROM  Cuádr
 
 ℹ️:
 
+- HUAWEI P40 Lite está equipado con el chip Kirin 810 que trae su propio arsenal formidable de tecnología la NPU se basa en arquitectura Da Vinci y optimiza la eficiencia y el procesamiento de IA
 - NOTA! Google Mobile Services (GMS) no está preinstalado
+- Batería de larga duración y carga rápida con su batería de 4200 mAh pasarás el día con una sola carga además gracias a la carga rápida de 40W la batería se recarga hasta el 70% en solo 30 minutos
 - El cuerpo del smartphone HUAWEI P40 lite está fabricado de vidrio curvado la cámara frontal se encuentra dentro de la pantalla FullView HUAWEI de 6 4" por lo que no hay desperdicio de espacio
 - El producto viene con Android 10 AOSP y Huawei Mobile Services (HMS)
-- Amplia tu visión con una lente gran angular de 120° obtienes una mejor vista de lo que te fascina y la distancia focal de 17 mm captura un 140% más
-- HUAWEI P40 Lite está equipado con el chip Kirin 810 que trae su propio arsenal formidable de tecnología la NPU se basa en arquitectura Da Vinci y optimiza la eficiencia y el procesamiento de IA
 - Con 4 cámaras traseras cámara principal de 48MP + lente ultra gran angular de 8MP + lente macro de 2MP + lente Bokeh de 2MP las fotografías son más anchas más claras y más cerca
-- Batería de larga duración y carga rápida con su batería de 4200 mAh pasarás el día con una sola carga además gracias a la carga rápida de 40W la batería se recarga hasta el 70% en solo 30 minutos
+- Amplia tu visión con una lente gran angular de 120° obtienes una mejor vista de lo que te fascina y la distancia focal de 17 mm captura un 140% más
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085LMVBZW/?tag=tolees-21)

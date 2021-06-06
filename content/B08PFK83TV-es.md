@@ -28,11 +28,11 @@ En este momento está [HP 15s-eq1075ns - Ordenador portátil de 15.6" FullHD  At
 
 🔎:
 
-- Procesador Athlon 3050U
-- Almacenamiento de 256GB SSD
-- Pantalla de 15.6" FullHD
 - Sin sistema operativo
+- Almacenamiento de 256GB SSD
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
+- Procesador Athlon 3050U
+- Pantalla de 15.6" FullHD
 - 8GB de memoria RAM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFK83TV/?tag=tolees-21)
