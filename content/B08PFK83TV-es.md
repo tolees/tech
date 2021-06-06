@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-eq1075ns - Ordenador portátil de  con un 20.00 % de descuento'
-date: 2021-06-04 14:24:45
+date: 2021-06-06 07:08:17
 image: 'https://m.media-amazon.com/images/I/41aONk6JqqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ En este momento está [HP 15s-eq1075ns - Ordenador portátil de 15.6" FullHD  At
 🔎:
 
 - Procesador Athlon 3050U
-- Sin sistema operativo
 - Almacenamiento de 256GB SSD
-- 8GB de memoria RAM
 - Pantalla de 15.6" FullHD
+- Sin sistema operativo
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
+- 8GB de memoria RAM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFK83TV/?tag=tolees-21)
