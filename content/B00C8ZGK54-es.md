@@ -28,8 +28,8 @@ Tienes [Case Logic TNEO110K - Funda para Tablet](https://www.amazon.es/dp/B00C8Z
 
 🔎:
 
-- Evita daños en la pantalla
 - Alta calidad y diseño moderno
+- Evita daños en la pantalla
 - Resistente y duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C8ZGK54/?tag=tolees-21)
