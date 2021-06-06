@@ -28,10 +28,10 @@ Tienes [BMAX Y13 Ordenadores portátiles  360° Convertible táctil Pantalla 13.
 
 ℹ️:
 
-- ★Inicio y Transferencia de Archivos Rápidos - Viene con 256 GB, 8 GB de RAM LPDDR4. Ejecute aplicaciones y transfiera archivos más rápido. ¡El proceso de arranque solo lleva unos segundos!
-- ★Sirve de portátil y tablet - Se puede plegar 360 grados y usar como tablet. Para lo que SI sirve: escribir un texto mientras viajas - ver tus correos - actualizar tu facebook - leer las noticias en modo tablet, escuchar música y ver películas CON AURICULARES!!!
-- ★Pantalla Full HD Maravillosa - El color de la pantalla de 1080p es más llamativo, la imagen es delicada y vívida, por lo que no puedes soportar apartar la vista del mundo de Full HD.
 - ★ Diseño Elegante - el aspecto por fuera es muy bueno, muy delgado y ligero, solo peso de 1.25kg , cuerpo delgado de 15MM. Se puede llevar bien en una mochila o maletín.
 - ★ Wifi AC de 2,4 y 5GHz: La conexión a internet estable y rápida, así como a la hora de navegar por internet o reproducir vídeos de calidad alta.
+- ★Inicio y Transferencia de Archivos Rápidos - Viene con 256 GB, 8 GB de RAM LPDDR4. Ejecute aplicaciones y transfiera archivos más rápido. ¡El proceso de arranque solo lleva unos segundos!
+- ★Pantalla Full HD Maravillosa - El color de la pantalla de 1080p es más llamativo, la imagen es delicada y vívida, por lo que no puedes soportar apartar la vista del mundo de Full HD.
+- ★Sirve de portátil y tablet - Se puede plegar 360 grados y usar como tablet. Para lo que SI sirve: escribir un texto mientras viajas - ver tus correos - actualizar tu facebook - leer las noticias en modo tablet, escuchar música y ver películas CON AURICULARES!!!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZC2D5Z/?tag=tolees-21)
