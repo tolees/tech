@@ -28,10 +28,10 @@ Ahora mismo tienes [Samsung Galaxy A12 | Smartphone Libre 4G Ram y 128GB Capacid
 
 🔎:
 
-- Cámara frontal: con la cámara frontal de 8 MP y la función Live Focus del Smartphone Galaxy A12, harás increíbles selfies que te destacarán más a ti y desenfocarán suavemente el fondo.
 - Seguridad que te ofrece protección: protege tu teléfono móvil desde el momento en que lo enciendes con seguridad multicapa. Protege tu información importante del malware y otras amenazas malintencionadas.
-- Tecnología HD+: amplía el área de visión de tu teléfono con la pantalla de 6,5 pulgadas que hará que tu contenido diario tenga un aspecto nítido, brillante y claro
-- Sistema multicámara: actualiza el sistema fotográfico de tu teléfono móvil con la cámara Quad y fotografía momentos inolvidables al detalle con la cámara principal de 48 MP.
+- Cámara frontal: con la cámara frontal de 8 MP y la función Live Focus del Smartphone Galaxy A12, harás increíbles selfies que te destacarán más a ti y desenfocarán suavemente el fondo.
 - Diseño del dispositivo: el Smartphone Samsung Galaxy A12 combina una estética de diseño mejorada con colores clásicos. Con sus curvas redondeadas, hace más cómoda la sujeción y facilita la navegación por la pantalla.
+- Sistema multicámara: actualiza el sistema fotográfico de tu teléfono móvil con la cámara Quad y fotografía momentos inolvidables al detalle con la cámara principal de 48 MP.
+- Tecnología HD+: amplía el área de visión de tu teléfono con la pantalla de 6,5 pulgadas que hará que tu contenido diario tenga un aspecto nítido, brillante y claro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Q8JXS17/?tag=tolees-21)
