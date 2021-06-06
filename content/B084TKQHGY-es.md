@@ -28,10 +28,10 @@ Tienes [Canon Selphy Square QX10 Impresora  blanco](https://www.amazon.es/dp/B08
 
 🔎:
 
+- Elige el color que más te guste para adaptarlo a tu estilo y llévate la Selphy Square QX10 contigo para imprimir estés donde estés
+- Sistema de impresión de transferencia térmica de sublimación de color con resolucion de 287 x 287 ppp
 - Utiliza la Selphy Square QX10 en cualquier lugar gracias a la conectividad Wi-Fi
 - Imprime a través de la aplicación gratuita Selphy Photo, layout de Canon
 - Crea impresiones de 68 x 68 mm en un papel totalmente nuevo con un borde para añadir pies de foto
-- Elige el color que más te guste para adaptarlo a tu estilo y llévate la Selphy Square QX10 contigo para imprimir estés donde estés
-- Sistema de impresión de transferencia térmica de sublimación de color con resolucion de 287 x 287 ppp
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084TKQHGY/?tag=tolees-21)
