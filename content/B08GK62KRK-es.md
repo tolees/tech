@@ -28,10 +28,10 @@ Ahora mismo tienes [Cámara Domo Exterior WiFi Impermeable  Aottom 1080P Cámara
 
 🔎:
 
-- 【Grabación en tarjeta SD】: Puede conectar la tarjeta SD para grabar si es necesario. Puede admitir una tarjeta SD Max 128G, pero esta cámara wifi no incluye la tarjeta SD en su interior.
 - 【Detección de movimiento y notificaciones instantáneas】: Con el sensor de movimiento y las notificaciones instantáneas, vigilar su hogar nunca ha sido tan fácil. Puede recibir una alerta cuando se entrega un paquete o estar listo para disuadir a los visitantes no deseados gracias a los sistemas de alarma integrados.
-- 【IP66 Resistente al polvo y al agua】: ya sea que llueva o haga sol, nuestra cámara para exteriores cumple con el estándar IP65 contra la exposición al agua y al polvo, lo que permite que este producto se utilice en monitoreo en interiores y en exteriores, como el medio ambiente. garaje y patio etc.
 - 【Vista en vivo y audio bidireccional】: ¿Estás lejos y has dejado a tu amigo de 4 patas solo en casa? Cuando esté en movimiento, puede asegurarse de que su cachorro esté cómodo y pueda escuchar su voz gracias a la visualización en vivo y las funciones de audio bidireccional.
+- 【IP66 Resistente al polvo y al agua】: ya sea que llueva o haga sol, nuestra cámara para exteriores cumple con el estándar IP65 contra la exposición al agua y al polvo, lo que permite que este producto se utilice en monitoreo en interiores y en exteriores, como el medio ambiente. garaje y patio etc.
 - 【Visión nocturna para un sueño tranquilo】: Duerme tranquilo y deja que la cámara wifi vigile la casa por ti. Visión nocturna para grabar imágenes nítidas en condiciones de poca luz hasta 40M de distancia. Capture cada detalle con resolución HD de 1080p: visualice claramente lo que está sucediendo en su hogar en cualquier momento, esté donde esté. Por ejemplo: sus hijos se divertirán con la niñera ? ¿Tiene padres ancianos que puedan necesitar ayuda? ¡Siempre tendrás todo bajo control!
+- 【Grabación en tarjeta SD】: Puede conectar la tarjeta SD para grabar si es necesario. Puede admitir una tarjeta SD Max 128G, pero esta cámara wifi no incluye la tarjeta SD en su interior.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GK62KRK/?tag=tolees-21)
