@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony - Outlander - Temporadas 1-5 [DVD] con un 31.27 % de descuento'
-date: 2021-06-05 14:42:17
+title: 'Sony - Outlander - Temporadas 1-5 [DVD] con un 28.35 % de descuento'
+date: 2021-06-07 02:16:51
 image: 'https://m.media-amazon.com/images/I/51gKK5cVm7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'DVD','Drama','Featured Categories','Películas','Películas y TV','Rom�
 actualPrice: 60.19 EUR
 currency: EUR
 price: 60.19
-comparePrice: 87.58 EUR
+comparePrice: 84.0 EUR
 prodname: 'Sony - Outlander - Temporadas 1-5 [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08FBHLTQT/?tag=tolees-21'
-descuento: '31.27'
+descuento: '28.35'
 average: '60.19'
 ---
 
-En este momento está [Sony - Outlander - Temporadas 1-5 [DVD]](https://www.amazon.es/dp/B08FBHLTQT/?tag=tolees-21) a 60.19 EUR (original: 87.58 EUR) (31.27 %  de descuento) en el siguiente enlace!
+En este momento está [Sony - Outlander - Temporadas 1-5 [DVD]](https://www.amazon.es/dp/B08FBHLTQT/?tag=tolees-21) a 60.19 EUR (original: 84.0 EUR) (28.35 %  de descuento) en el siguiente enlace!
 
 [![Sony - Outlander - Temporadas 1-5 [DVD]](https://m.media-amazon.com/images/I/51gKK5cVm7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08FBHLTQT/?tag=tolees-21)
 

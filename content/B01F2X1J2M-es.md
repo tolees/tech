@@ -28,10 +28,10 @@ Ahora mismo tienes [TOPELEK Mini DisplayPort a HDMI Adaptador  Cable Mini DP/Thu
 
 🔎:
 
-- ❤【Mini DisplayPort a HDMI Adaptador】Esta es una cable mini DP a HDMI, puede ver videos desde los equipos con puerto mini displayport en los dispositivos compatibles con HDMI.MacBook Air 2010-2017, MacBook Pro 2010-2015, IMac 2009-2015, Mac Mini 2010-2014; Surface Pro 2/3/4 /5/6, Surface 3, Surface laptop/laptop 2, Surface book/Surface Studio（con windows 8.1/10）; Thinkpad t440,t440p,t450,t460 / Thinkpad Helix, X230, L430,L530; Dell XPS 13(BEFORE 2016)/14/15/17, Latitude E7240 / E7440, etc.
-- ❤【Resolución 4K HDMI】Soporta resolución de video de hasta 1080p y 4K Ultra HDTV o 4K.
-- ❤【Nota】Transmisión unidireccional: solo de Mini DisplayPort a HDMI. Antes de comprar, asegúrese de que su computadora sea una interfaz mini DP.No compatible con Thunderbolt 3 ( USB C/Tipo C).
-- ❤【Conector Rápido】Puerto mini displayport(Thunderbolt) es más rápido que USB 2.0 hasta 20 veces o 4 veces que USB 3.0, y el conector dorado 24k resiste la corrosión, mejora la señal.
 - ❤【 Fácil de Usar】Conecta y listo, no requiere ningún driver ni instalación de ningún tipo.
+- ❤【Mini DisplayPort a HDMI Adaptador】Esta es una cable mini DP a HDMI, puede ver videos desde los equipos con puerto mini displayport en los dispositivos compatibles con HDMI.MacBook Air 2010-2017, MacBook Pro 2010-2015, IMac 2009-2015, Mac Mini 2010-2014; Surface Pro 2/3/4 /5/6, Surface 3, Surface laptop/laptop 2, Surface book/Surface Studio（con windows 8.1/10）; Thinkpad t440,t440p,t450,t460 / Thinkpad Helix, X230, L430,L530; Dell XPS 13(BEFORE 2016)/14/15/17, Latitude E7240 / E7440, etc.
+- ❤【Nota】Transmisión unidireccional: solo de Mini DisplayPort a HDMI. Antes de comprar, asegúrese de que su computadora sea una interfaz mini DP.No compatible con Thunderbolt 3 ( USB C/Tipo C).
+- ❤【Resolución 4K HDMI】Soporta resolución de video de hasta 1080p y 4K Ultra HDTV o 4K.
+- ❤【Conector Rápido】Puerto mini displayport(Thunderbolt) es más rápido que USB 2.0 hasta 20 veces o 4 veces que USB 3.0, y el conector dorado 24k resiste la corrosión, mejora la señal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F2X1J2M/?tag=tolees-21)
