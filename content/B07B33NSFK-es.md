@@ -28,14 +28,14 @@ En este momento está [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4
 
 🔎:
 
-- Zoom óptico: 3.0 multiplier x
-- Resolución video: 2160p
-- visualiza y edita las imágenes en tu Smartphone o tablet y compártelas con tus amigos
-- Zoom digital: 1.0 multiplier x
-- Grabación de video 4K
-- Pantalla táctil LCD (TFT) de 3.0" (7.5 cm), de ángulo variable
-- Conexión WiFi y Bluetooth
 - Enfoque de máxima precisión con Dual Pixel CMOS AF, que realiza un seguimiento rápido y preciso del sujeto
+- visualiza y edita las imágenes en tu Smartphone o tablet y compártelas con tus amigos
+- Resolución video: 2160p
+- Conexión WiFi y Bluetooth
 - Sensor CMOS de 24.1 megapíxeles y DIGIC 8
+- Pantalla táctil LCD (TFT) de 3.0" (7.5 cm), de ángulo variable
+- Grabación de video 4K
+- Zoom digital: 1.0 multiplier x
+- Zoom óptico: 3.0 multiplier x
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B33NSFK/?tag=tolees-21)
