@@ -28,10 +28,10 @@ En este momento está [OMOTON Teclado Inalámbribo Compatible con iPad/iPad Pro/
 
 🔎:
 
+- Compatible con sistema de iPadOS / iOS, todos iPad, iPhone, NO compatible con iMac (Macbook) ni Windows.
 - Teclado numérico: cuenta con un teclado de números al lado, facilitando mucho si emplea los números con mucha frecuencia. Si no funciona con numeros, necesita activarlo antes de conectar con iPad.
 - Ligero: con el peso de sólo 325g y la superficie 34.6*12.4 cm, fácil para llevarse a su oficina y a casa.
 - Teclado en español: todas las teclas están diseñadas en la escritura española, includos los símbolos.
-- Compatible con sistema de iPadOS / iOS, todos iPad, iPhone, NO compatible con iMac (Macbook) ni Windows.
 - Teclado inalámbrico bluetooth 3.0: no se limita su uso en comparación con los teclados con cable. Con dos baterías, podría usarlo convenientemente. El rango de conexión es de 10m.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RK268VT/?tag=tolees-21)
