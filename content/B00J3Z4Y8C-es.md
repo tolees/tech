@@ -28,10 +28,10 @@ En este momento está [AKAI Professional APC KEY 25 - Teclado controlador MIDI U
 
 🔎:
 
-- Disparador de clips con matriz de 40 pads con luces para ejecutar samples y loops; Botones de control de dirección para manipular el alcance de la rejilla y expandir las posibilidades creativas
-- Controlador MIDI para Ableton Live con teclado incorporado de 25 teclas con acción sintetizador y botones de octava arriba/abajo para ampliar el rango melódico del teclado
-- Alimentado por USB y fácil de configurar en Mac y PC (dispositivo plug-and-play), integración entera con Ableton Live
-- 8 knobs asignables para mapear Ableton Live, controlar volumen, mapear instrumentos virtuales, máquinas de ritmo y efectos para actuaciones inmersivas
 - Software incluido: Ableton Live Lite, Hybrid 3.0 & Twist, Toolroom Artist Launch Packs y VIP 3.0
+- 8 knobs asignables para mapear Ableton Live, controlar volumen, mapear instrumentos virtuales, máquinas de ritmo y efectos para actuaciones inmersivas
+- Controlador MIDI para Ableton Live con teclado incorporado de 25 teclas con acción sintetizador y botones de octava arriba/abajo para ampliar el rango melódico del teclado
+- Disparador de clips con matriz de 40 pads con luces para ejecutar samples y loops; Botones de control de dirección para manipular el alcance de la rejilla y expandir las posibilidades creativas
+- Alimentado por USB y fácil de configurar en Mac y PC (dispositivo plug-and-play), integración entera con Ableton Live
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J3Z4Y8C/?tag=tolees-21)

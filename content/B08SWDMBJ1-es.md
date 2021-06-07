@@ -28,10 +28,10 @@ Está [qingfeitai - Funda Protectora Compatible con Fire TV Stick Lite  Mando a 
 
 ℹ️:
 
-- Acceso completo a todos los puertos, botones y funciones, el corte personalizado de la funda permite que todas las funciones del mando se abran y sean más fáciles de agarrar.
-- ❉ 【 Especialmente compatible 】: la funda protectora de silicona del mando a distancia solo es apta para Fire TV Stick Lite. Solo la funda protectora, no incluye el mando a distancia.
-- ❉ 【 Características del material 】: Durable, suave silicona, aumenta el agarre y la protección anti-caída. Protege de caídas accidentales, añade mayor seguridad al mando a distancia Fire TV Stick Lite.
 - ❉ 【Diseño único】: ponerlo sobre la mesa, no se caerá fácilmente. Diseño de puntos ondulados, agarre más estable y mayor resistencia al deslizamiento.
 - ❉ 【Antideslizante y resistente a los golpes】 Esta funda de silicona ofrece protección contra impactos y tiene una sensación antideslizante perfecta. Puede evitar que los niños se caigan, es ligera, proporciona la máxima protección, antideslizante, antipolvo y lavable.
+- Acceso completo a todos los puertos, botones y funciones, el corte personalizado de la funda permite que todas las funciones del mando se abran y sean más fáciles de agarrar.
+- ❉ 【 Características del material 】: Durable, suave silicona, aumenta el agarre y la protección anti-caída. Protege de caídas accidentales, añade mayor seguridad al mando a distancia Fire TV Stick Lite.
+- ❉ 【 Especialmente compatible 】: la funda protectora de silicona del mando a distancia solo es apta para Fire TV Stick Lite. Solo la funda protectora, no incluye el mando a distancia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SWDMBJ1/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Xiaomi Redmi 9T - Smartphone 64GB  4GB RAM  Dual Sim  Sun
 🔎:
 
 - Procesador: Snapdragon 730 2.2GHz
-- Batería: 4000 mAh
 - Pantalla: 6.39", 1080 x 2340 pixels
 - Cámara: Triple, 48MP+13MP+8MP
+- Batería: 4000 mAh
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VVWYYZB/?tag=tolees-21)
