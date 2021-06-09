@@ -28,8 +28,8 @@ Tienes [Fujifilm XF 50-140 mm f/2.8 R LM OIS WR - Objetivo para Fujifilm X Mount
 
 🔎:
 
-- Estabilizador óptico de imagen.
 - Sellado para resistencia a inclemencias del tiempo (polvo, salpicaduras).
+- Estabilizador óptico de imagen.
 - Zoom 2.8x (Equivalente 76-213mm)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NGFLO74/?tag=tolees-21)

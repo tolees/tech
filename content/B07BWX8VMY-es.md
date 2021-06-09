@@ -28,10 +28,10 @@ En este momento está [Garmin Tactix Charlie - Smartwatch Black](https://www.ama
 
 🔎:
 
-- Pantalla de 1,2" legible a la luz del sol de alta resolución con cristal zafiro; permite cambiar entre el uso diurno y con gafas de visión nocturna
-- Incorpora un diseño resistente con bisel de titanio negro con revestimiento de carbono tipo diamante (DLC), cubierta posterior negra de titanio y botones de acero inoxidable. Además, integra el sensor de frecuencia cardiaca en la muñeca Elevate
-- Incluye mapas TopoActive de Europa preinstalados, además de navegación con mapas con opción de establecimiento de rutas
 - Ofrece sensores de navegación GPS y GLONASS integrados, además de brújula de tres ejes, barómetro, altímetro y giroscopio
 - Entre las funciones tácticas, se incluyen la aplicación Jumpmaster, proyección de waypoints, GPS con formato de posición doble y actividades tácticas preinstaladas
+- Incorpora un diseño resistente con bisel de titanio negro con revestimiento de carbono tipo diamante (DLC), cubierta posterior negra de titanio y botones de acero inoxidable. Además, integra el sensor de frecuencia cardiaca en la muñeca Elevate
+- Pantalla de 1,2" legible a la luz del sol de alta resolución con cristal zafiro; permite cambiar entre el uso diurno y con gafas de visión nocturna
+- Incluye mapas TopoActive de Europa preinstalados, además de navegación con mapas con opción de establecimiento de rutas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BWX8VMY/?tag=tolees-21)

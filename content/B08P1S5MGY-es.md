@@ -28,10 +28,10 @@ Tienes [RDY 135W 20V 6.75A Cargador para Portátil Lenovo Y70 Y50-70 Y70 Y70-70 
 
 ℹ️:
 
-- Potencia: 135W | Voltaje: 20V | Intensidad: 6.75A | Tipo de enchufe: rectangular (punta delgada de Lenovo)
-- Cargador RDY para la computadora portátil Lenovo Y70 Y50-70 Y70 Y70-70 Y520 Y700 Z710 700-15ISK ThinkPad W540 T440p: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
-- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
-- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud
 - El cargador RDY carga su portátil de forma rápida, eficiente y segura. Los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 2 años de vida útil - durabilidad inigualable
+- Cargador RDY para la computadora portátil Lenovo Y70 Y50-70 Y70 Y70-70 Y520 Y700 Z710 700-15ISK ThinkPad W540 T440p: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
+- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud
+- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
+- Potencia: 135W | Voltaje: 20V | Intensidad: 6.75A | Tipo de enchufe: rectangular (punta delgada de Lenovo)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P1S5MGY/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [TP-Link EAP225-Outdoor-Omada AC1200 Punto de acceso inalámb
 
 🔎:
 
-- WIFI RÁPIDO DOBLE BANDA - 300 Mbps simultáneos en 2.4 GHz y 1300 Mbps en 5 GHz totalizan velocidades Wi-Fi de 1167 Mbps* (Las velocidades máximas de señal inalámbrica son las velocidades físicas derivadas de las especificaciones del estándar IEEE 802.11)
-- COBERTURA A LARGO ALCANCE - El amplificador de alta potencia dedicado y las antenas desmontables profesionales garantizan el rendimiento superior de Wi-Fi y la cobertura de largo alcance (más de 200 m
-- ROAMING SIN INTERRUPCIONES - Las transmisiones de video y las llamadas de voz no se ven afectadas cuando los usuarios se mueven entre ubicaciones para no perder nunca la conexión
-- ADECUADO PARA ENTORNOS AL AIRE LIBRE - Excelentes diseños de hardware, carcasa resistente a la intemperie IP65, protección contra rayos y protección ESD. EAP110-Outdoor se adapta perfectamente a diferentes escenarios al aire libre como en el interior
 - GESTIÓN CENTRALIZADA - Acceso a la nube y aplicación Omada para una mayor comodidad y fácil gestión
-- TECNOLOGÍA OMADA MESH - Permite la conectividad inalámbrica entre AP para un rango extendido. La autoorganización inteligente y la autorreparación hacen que las implementaciones inalámbricas sean más flexibles y convenientes.
+- WIFI RÁPIDO DOBLE BANDA - 300 Mbps simultáneos en 2.4 GHz y 1300 Mbps en 5 GHz totalizan velocidades Wi-Fi de 1167 Mbps* (Las velocidades máximas de señal inalámbrica son las velocidades físicas derivadas de las especificaciones del estándar IEEE 802.11)
+- ROAMING SIN INTERRUPCIONES - Las transmisiones de video y las llamadas de voz no se ven afectadas cuando los usuarios se mueven entre ubicaciones para no perder nunca la conexión
 - SOPORTE POE - Admite tanto el estándar 802.3af / at como el PoE pasivo (adaptador PoE incluido) para instalaciones flexibles
+- ADECUADO PARA ENTORNOS AL AIRE LIBRE - Excelentes diseños de hardware, carcasa resistente a la intemperie IP65, protección contra rayos y protección ESD. EAP110-Outdoor se adapta perfectamente a diferentes escenarios al aire libre como en el interior
+- TECNOLOGÍA OMADA MESH - Permite la conectividad inalámbrica entre AP para un rango extendido. La autoorganización inteligente y la autorreparación hacen que las implementaciones inalámbricas sean más flexibles y convenientes.
+- COBERTURA A LARGO ALCANCE - El amplificador de alta potencia dedicado y las antenas desmontables profesionales garantizan el rendimiento superior de Wi-Fi y la cobertura de largo alcance (más de 200 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21)

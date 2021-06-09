@@ -28,10 +28,10 @@ Ahora mismo tienes [Lenovo Q27q-10 - Monitor Gaming de 27.0" QHD  IPS  FreeSync 
 
 🔎:
 
-- Atrévete a jugar con este monitor, tendrás una imagen más fluida gracias a su tiempo de respuesta de 4 ms
-- Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
 - Esta pantalla IPS de 27" pulgadas ofrece una experiencia de usuario fantástica e imágenes increiblemente nítidas y óptimas gracias a su resolución QHD
-- Conéctate a través del cable HDMI de 1.8 m que viene incluido
+- Atrévete a jugar con este monitor, tendrás una imagen más fluida gracias a su tiempo de respuesta de 4 ms
 - Diseño elegante, este monitor ergonómico casi sin bordes dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
+- Conéctate a través del cable HDMI de 1.8 m que viene incluido
+- Gracias a la sincronización FreeSync puedes decir adios al efecto ghosting
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XLYBSQL/?tag=tolees-21)

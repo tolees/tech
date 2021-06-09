@@ -28,10 +28,10 @@ Ahora mismo tienes [Instax Fujifilm instax Square Rainbow - Película instantane
 
 🔎:
 
-- Película instantánea para cámaras e impresoras instax SQUARE
-- Película instantánea de alta calidad y colores vivos; estabilidad de imagen de gran calidad
-- Marco decorado con los colores del arcoíris en degradado
-- ISO 800; calidad instax
 - Tamaño foto: 86 mm x 72 mm, tamaño imagen 62 mm x 62 mm
+- ISO 800; calidad instax
+- Película instantánea para cámaras e impresoras instax SQUARE
+- Marco decorado con los colores del arcoíris en degradado
+- Película instantánea de alta calidad y colores vivos; estabilidad de imagen de gran calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7B4VQ2/?tag=tolees-21)
