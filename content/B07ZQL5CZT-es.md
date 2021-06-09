@@ -30,8 +30,8 @@ Tienes [Tamron F051SF - Objetivo de 24 mm F/2.8  Di III RXD Macro 1:2 Sony FE](h
 
 - Autoenfoque silencioso accionado por motor de corriente continua osd (optimized silent drive)
 - Revestimiento de flúor con sellado especial
-- Compacto, ligero y con un diámetro de filtro de 67 mm
 - Distancia de enfoque mínima de 12 cm
+- Compacto, ligero y con un diámetro de filtro de 67 mm
 - Peso inferior a 220 gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZQL5CZT/?tag=tolees-21)

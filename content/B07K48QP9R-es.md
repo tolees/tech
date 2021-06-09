@@ -28,10 +28,10 @@ Tienes [shoplease Ratón con Cable Vertical  ratón ergonómico óptico con 4 PP
 
 🔎:
 
-- 【Uso multifunción】: El ratón vertical tiene cinco botones y rueda de desplazamiento, muy conveniente cuando navega por la web, puede "avanzar" y "retroceder", operación simple
-- 【Diseño ergonómico】: el ratón vertical shoplease es más adecuado para la forma de la mano. La forma vertical y el contorno único pueden reducir la tensión muscular del brazo, proteger nuestra mano y reducir la fatiga laboral.
 - 【Amplia compatibilidad】：El mouse vertical ergonómico es compatible con Windows 7, 8, 10, Windows XP, Vista, ME, 2000 y Mac OS o los últimos sistemas.
-- 【Buen servicio】: ofrecemos 18 meses de garantía. Si necesita ayuda, contáctenos inmediatamente a través de su página de pedido de Amazon y luego haga clic en "Contactar al vendedor". Le ayudaremos a resolver el problema lo antes posible.
+- 【Diseño ergonómico】: el ratón vertical shoplease es más adecuado para la forma de la mano. La forma vertical y el contorno único pueden reducir la tensión muscular del brazo, proteger nuestra mano y reducir la fatiga laboral.
 - 【Ratón óptico DPI】:El ratón ergonómico mayor sensibilidad, al presionar el botón, puede cambiar el DPI a 3200-2000-1200-800, puede satisfacer todas las necesidades de velocidad del mouse. Asegure un control preciso en cualquier plano
+- 【Buen servicio】: ofrecemos 18 meses de garantía. Si necesita ayuda, contáctenos inmediatamente a través de su página de pedido de Amazon y luego haga clic en "Contactar al vendedor". Le ayudaremos a resolver el problema lo antes posible.
+- 【Uso multifunción】: El ratón vertical tiene cinco botones y rueda de desplazamiento, muy conveniente cuando navega por la web, puede "avanzar" y "retroceder", operación simple
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K48QP9R/?tag=tolees-21)

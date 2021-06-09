@@ -28,12 +28,12 @@ Tienes [Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic AMOLED  12GB RAM  
 
 🔎:
 
-- 12 GB de RAM Procesador Exynos 990 y 128 GB de almacenamiento con una capacidad de hasta 1 1 TB potencía para días verdaderamente épicos
+- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 9" WQHD+ experimenta cada momento con total claridad de extremo a extremo
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
+- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
 - Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
 - Teleobjetivo de 48 MP cámara frontal de 40 MP cámara gran angular de 108 MP y un gran zoom espacial de 100x para capturar el mundo a tu alrededor como nunca antes
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
-- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 9" WQHD+ experimenta cada momento con total claridad de extremo a extremo
-- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
+- 12 GB de RAM Procesador Exynos 990 y 128 GB de almacenamiento con una capacidad de hasta 1 1 TB potencía para días verdaderamente épicos
 - La batería de Galaxy S20 Ultra 5G contiene 5 000 mAh para ayudarte a funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (45W)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21)

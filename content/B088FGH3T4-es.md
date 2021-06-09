@@ -28,10 +28,10 @@ Tienes [Receptor de satélite James Donkey 2K HD Linux E2 con sintonizador DVB-S
 
 🔎:
 
-- Disfruta de una inmejorable selección de programas de TV gratuitos con una amplia gama de canales en calidad HD.
-- Actualice el receptor de satélite al último firmware antes de usarlo para obtener la función más completa (más información en el manual).
-- Contenido de la entrega: receptor, control remoto, fuente de alimentación, cable HDMI y manual (idioma español no garantizado).
 - Garantía de Calidad 180 días: En caso de dudas o problemas puedes contactarnos, desde la fecha de compra ofrecemos una garantía de 180 días.
+- Disfruta de una inmejorable selección de programas de TV gratuitos con una amplia gama de canales en calidad HD.
+- Contenido de la entrega: receptor, control remoto, fuente de alimentación, cable HDMI y manual (idioma español no garantizado).
+- Actualice el receptor de satélite al último firmware antes de usarlo para obtener la función más completa (más información en el manual).
 - Para obtener asistencia técnica, se ofrece un Pro-Forum (https://boxtvmania.blog). Cambie el idioma que conoce.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088FGH3T4/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [MSI Cubi 5 10M-008BEU - Ordenador de sobremesa  Intel Core i5-10210U  Int
 ℹ️:
 
 - Tarjeta gráfica integrada intel uhd graphics
-- Sin sistema operativo
 - Procesador intel core i5-10210u (4 núcleos, 6 mb cache, 1.60 ghz hasta 4.20 ghz)
+- Sin sistema operativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0824ZTMP1/?tag=tolees-21)

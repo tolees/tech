@@ -28,10 +28,10 @@ Está [Green Cell PRO - Green Cell® Extended Serie AL10A31 AL10B31 AL10G31 Bate
 
 ℹ️:
 
-- Capacidad: 4400 mAh | Tensión: 11.1V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
+- Las celdas originales Li-Ion Green Cell aseguran una alta durabilidad y el empleo de un mayor número de celdas garantiza una mayor capacidad y un tiempo de trabajo prolongado de la batería de la serie Extended
+- Advertencia: La batería de la serie Extended tiene mayores dimensiones que las baterías estándares y puede sobresalir por detrás o por debajo del ordenador portátil
 - Batería de la renombrada marca Green Cell 100% compatible con la batería AL10A31 AL10B31 AL10G31
 - Compatible con los ordenadores portátiles: Acer Aspire One 522 722 D255 D257 D260 D270
-- Advertencia: La batería de la serie Extended tiene mayores dimensiones que las baterías estándares y puede sobresalir por detrás o por debajo del ordenador portátil
-- Las celdas originales Li-Ion Green Cell aseguran una alta durabilidad y el empleo de un mayor número de celdas garantiza una mayor capacidad y un tiempo de trabajo prolongado de la batería de la serie Extended
+- Capacidad: 4400 mAh | Tensión: 11.1V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSJFWLJ/?tag=tolees-21)

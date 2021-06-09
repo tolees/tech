@@ -29,9 +29,9 @@ Está [Reolink Cámara IP WiFi 1440p HD  Cámara de Seguridad WiFi 2.4 / 5GHz pa
 ℹ️:
 
 - Alertas en Tiempo Real en su Dispositivo Móvil: Esta cámara de vigilancia con Wi-Fi detecta movimientos sospechosos y simultáneamente le alerta por correo electrónico con fotos o videoclips, mensajes push. Puede establecer zonas específicas para la detección cuando sin movimiento.
+- 4MP HD e IP66 Impermeable: Experimente imágenes claras con la resolución HD de 1440p. Videos con ricos detalles tanto de día como de noche (18 LED, hasta 30 metros de buena visión nocturna por infrarrojos). Certificado con protección IP66, puede instalar la cámara IP en exteriores e interiores.
 - Almacenamiento de Archivos Confiable: Las imágenes y los videos capturadas por la cámara IP Wi-Fi. Los videos y imágenes se pueden guardar opcionalmente en una tarjeta SD (hasta 128 GB, no includa), en el servidor FTP o en el Reolink NVR (adicionalmente disponible), que puede descargar y jugar de manera flexible a través de la Reolink app o el cliente de PC o el navegador web.
 - Fácil de Configurar: Esta cámara WiFi se puede configurar rápidamente a través de la Reolink app o el cliente de PC: descargue la aplicación, escanee el código QR de la cámara de vigilancia, etc. Agregue la cámara a la aplicación, entonces la cámara IP bala WiFi está lista para usar.
 - Wi-Fi de doble banda de 2.4GHz o 5 GHz: Esta cámara de vigilancia le ofrece opciones flexibles para las bandas de frecuencia WLAN: 2.4 o 5 GHz. Con dos antenas MIMO 2T2R en la cámara WiFi, puede disfrutar de una mayor potencia de señal.
-- 4MP HD e IP66 Impermeable: Experimente imágenes claras con la resolución HD de 1440p. Videos con ricos detalles tanto de día como de noche (18 LED, hasta 30 metros de buena visión nocturna por infrarrojos). Certificado con protección IP66, puede instalar la cámara IP en exteriores e interiores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CN1DZHH/?tag=tolees-21)

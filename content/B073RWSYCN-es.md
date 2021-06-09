@@ -28,10 +28,10 @@ En este momento está [GPC Image TN1050 Cartuchos de Tóner reemplazo Compatible
 
 🔎:
 
-- 1. GPC Image 2 cartuchos de tóner negros compatibles para Brother TN1050 TN-1050
+- 4. Contenido del paquete: 2 Negro TN1050 (no original) Cartuchos de tóner.
 - 5. Nuestros cartuchos de tóner de repuesto TN1050 ofrecen impresiones de calidad, para impresiones vívidas y naturales.
 - 2. Rendimiento de página: 1000 páginas por TN1050 tóner negro con una cobertura del 5% de A4.
 - 3. Compatible con: Brother HL-1110, DCP-1510, HL-1210W, DCP-1610W, HL-1112, MFC-1810, HL-1212W, MFC-1910W, DCP-1612W, DCP-1512 Impresora.
-- 4. Contenido del paquete: 2 Negro TN1050 (no original) Cartuchos de tóner.
+- 1. GPC Image 2 cartuchos de tóner negros compatibles para Brother TN1050 TN-1050
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RWSYCN/?tag=tolees-21)

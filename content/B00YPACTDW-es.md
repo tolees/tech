@@ -28,9 +28,9 @@ Tienes [Panasonic Depiladora 6 en 1  Color Blanco y Rosa - 1 Depiladora](https:/
 
 ℹ️:
 
-- 2 velocidades
 - Wet & dry
 - Incluye accesorio pedicura
+- 2 velocidades
 - 6 en 1
 - 48 pinzas
 

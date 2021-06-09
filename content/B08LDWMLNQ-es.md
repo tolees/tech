@@ -28,10 +28,10 @@ En este momento está [PRIXTON BC300 - Bascula de Baño Inteligente de Grasa Cor
 
 🔎:
 
+- Basculas Inteligentes con APP 9 usuarios máx. para realizar un seguimiento y control del peso.
 - Báscula de Baño medición en kilogramos y libras desde APP. Peso máximo soportado180 Kg.
+- Bascula Grasa Corporal y Muscular con Bluetooth y APP compatible con móvil Android e iOS.
 - Bascula Digital con 4 sensores de alta precisión para conseguir datos exactos y pantalla LCD.
 - 13 funciones diferentes: Peso, Grasa corporal, Agua corporal, Porcentaje muscular, Masa ósea, Metabolismo basal (BMR), Índice de masa corporal (IMC), Grasa visceral, Peso estándar, Control de peso, Masa grasa, Masa libre de grasa, Edad corporal.
-- Bascula Grasa Corporal y Muscular con Bluetooth y APP compatible con móvil Android e iOS.
-- Basculas Inteligentes con APP 9 usuarios máx. para realizar un seguimiento y control del peso.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LDWMLNQ/?tag=tolees-21)
