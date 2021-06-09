@@ -28,10 +28,10 @@ Tienes [CHUWI CoreBox X Mini pc Intel Core i7-6560U Windows 10 OS  Doble Core 64
 
 🔎:
 
-- CoreBox X ofrece conectividad conveniente con 4 puertos USB 3.0 , Type A*1 para 4K, display port*1, RJ45*2, más un conector para micrófono y auriculares para satisfacer sus necesidades
-- Cuenta con 8 GB RAM LPDDR3+ 256 SSD, CoreBox X disponible con 8 GB LPDDR3 RAM, incluye SSD M.2 de 256 GB, soporte para expansión HDD de 2TB, mejora la programación diaria y una velocidad de respuesta aún más excepcional
 - WiFi de WIFI 802.11 ac/ a/b/g/n, Max hasta 867 Mbps + Gigabit Ethernet, para ofrecer la máxima velocidad de Internet y una conexión más estable. solo pesa 855 g, por lo que ocupa muy poco espacio y conveniente para llevarlo
-- CHUWI CoreBox X utiliza el procesador Intel Core i7-6560U , la frecuencia desde 2.2Ghz hasta 3.2Ghz. que satisface las funciones diarias requeridas, puede realizar tareas múltiples y puede integrar mejor el procesamiento de imágenes y los juegos sin problemas
+- CoreBox X ofrece conectividad conveniente con 4 puertos USB 3.0 , Type A*1 para 4K, display port*1, RJ45*2, más un conector para micrófono y auriculares para satisfacer sus necesidades
 - Mini pc esta equipado con Intel Iris Graphics 540 integrado, compatible con la decodificación de video 4K, renderizado de 300MHz hasta 1050MHz （i7） . Puede decodificar videos 4K y editar imágenes de mejor calidad
+- CHUWI CoreBox X utiliza el procesador Intel Core i7-6560U , la frecuencia desde 2.2Ghz hasta 3.2Ghz. que satisface las funciones diarias requeridas, puede realizar tareas múltiples y puede integrar mejor el procesamiento de imágenes y los juegos sin problemas
+- Cuenta con 8 GB RAM LPDDR3+ 256 SSD, CoreBox X disponible con 8 GB LPDDR3 RAM, incluye SSD M.2 de 256 GB, soporte para expansión HDD de 2TB, mejora la programación diaria y una velocidad de respuesta aún más excepcional
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MTS4DQM/?tag=tolees-21)
