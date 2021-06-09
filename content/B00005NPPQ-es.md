@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.11 % en Fujifilm Instax Wide - Película fotográf'
-date: 2021-06-02 07:35:32
+date: 2021-06-07 17:51:08
 image: 'https://m.media-amazon.com/images/I/51hK-RG-LdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'instax'
 buyurl: 'https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21'
 descuento: '20.11'
-average: '15.97625'
+average: '15.9755555555556'
 ---
 
 Tienes [Fujifilm Instax Wide - Película fotográfica instantánea de gran formato  2 x 10 hojas ](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21) con un 20.11 % de descuento con precio de oferta de 15.97 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [Fujifilm Instax Wide - Película fotográfica instantánea de gran forma
 
 ℹ️:
 
-- Compatible con los modelos WIDE 300, 210, 200, 100 y 500AF (No compatible con Instax mini)
-- 10 fotos por carga (2 packs x 10)
-- Tiempo de revelado de máximo 5 m (entre 5° y 40° C)
-- ISO 800 y grano ultra fino
 - Formato panorámico adecuado para photocall
+- 10 fotos por carga (2 packs x 10)
+- ISO 800 y grano ultra fino
 - El tamaño de la foto es de 86 x 108 mm y el de la imagen 62 x 99 mm
+- Compatible con los modelos WIDE 300, 210, 200, 100 y 500AF (No compatible con Instax mini)
+- Tiempo de revelado de máximo 5 m (entre 5° y 40° C)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21)
