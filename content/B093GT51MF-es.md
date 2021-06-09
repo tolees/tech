@@ -28,10 +28,10 @@ Está [QITAYO Funda Protector para AirTag  Llavero para Apple AirTag  Suave TPU 
 
 ℹ️:
 
+- Servicio al cliente todo el día: QITAYO proporciona garantía de por vida para él. Si encuentras cualquier problema durante o después de la aplicación, no dudes en enviarnos un correo electrónico y te serviremos lo antes posible.
+- Compatibilidad: la funda protectora hecha de TPU suave está diseñada profesionalmente para Apple AirTag 2021. (Nota: AirTag no está incluido)
+- Diseño integrado: corte preciso y moldeado integral que pueden prevenir eficazmente la rotura.
 - Material de alta calidad: hecho de TPU de grado médico, suave y cómodo, resistente a los arañazos, antideslizante; protege el buscador de llaves de golpes, caídas y arañazos. Un llavero metálico no se oxida fácilmente para un uso prolongado.
 - Fácil de instalar: el diseño de agujero expuesto en ambos lados es muy propicio para la transmisión de señal e instalación humanizada. Simplemente coloca tu AirTag en la suave funda de TPU.
-- Diseño integrado: corte preciso y moldeado integral que pueden prevenir eficazmente la rotura.
-- Compatibilidad: la funda protectora hecha de TPU suave está diseñada profesionalmente para Apple AirTag 2021. (Nota: AirTag no está incluido)
-- Servicio al cliente todo el día: QITAYO proporciona garantía de por vida para él. Si encuentras cualquier problema durante o después de la aplicación, no dudes en enviarnos un correo electrónico y te serviremos lo antes posible.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093GT51MF/?tag=tolees-21)
