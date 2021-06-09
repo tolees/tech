@@ -28,10 +28,10 @@ Está [JBL PartyBox 1000 - Altavoz inalámbrico portátil con Bluetooth  parlant
 
 ℹ️:
 
-- Con el DJ launchpad, graba y repite tu música o haz sonar un piano, tambores o guitarra; la pulsera de movimiento cambia el ánimo de la fiesta con un solo gesto y hace que el ritmo siga y siga
-- El altavoz para cualquier tipo de celebración: JBL PartyBox 1000 llega para animar tus fiestas con una calidad de sonido incomparable y unos efectos de luces sin igual
-- Si deseas dar los últimos toques a la fiesta, utiliza la entrada para guitarra o micrófono y convierte la pista de baile en un escenario privado. Incluye entrada USB para cargar otros dispositivos
 - Contenido del envío: 1x JBL PartyBox 1000 altavoz Bluetooth en ruedas, en color negro; pulsera de movimiento, guía de instrucciones, hoja de seguridad, garantía, cable de alimentación
 - Además de tener un sonido potente y de calidad, puedes conectar 2 PartyBox a la vez, ya sea por Bluetooth o con un cable RCA. Conecta cualquier dispositivo vía Bluetooth y que la música no pare
+- El altavoz para cualquier tipo de celebración: JBL PartyBox 1000 llega para animar tus fiestas con una calidad de sonido incomparable y unos efectos de luces sin igual
+- Si deseas dar los últimos toques a la fiesta, utiliza la entrada para guitarra o micrófono y convierte la pista de baile en un escenario privado. Incluye entrada USB para cargar otros dispositivos
+- Con el DJ launchpad, graba y repite tu música o haz sonar un piano, tambores o guitarra; la pulsera de movimiento cambia el ánimo de la fiesta con un solo gesto y hace que el ritmo siga y siga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V5MGKD6/?tag=tolees-21)
