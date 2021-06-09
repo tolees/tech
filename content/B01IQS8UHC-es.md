@@ -28,10 +28,10 @@ En este momento está [HP OfficeJet 250 Mobile AiO - Impresora multifunción tin
 
 🔎:
 
-- Conectividad fiable gracias a la conexión Wi-Fi Direct
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
 - Esta impresora es compatible con los cartuchos de tinta originales HP 62
-- Imprime, copia y escanéa; con velocidades de impresión de 10/7 ppm (negro/color)
 - Bandeja de entrada principal de 50 hojas. Escáner con alimentador de documentos.
+- Imprime, copia y escanéa; con velocidades de impresión de 10/7 ppm (negro/color)
+- Conectividad fiable gracias a la conexión Wi-Fi Direct
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IQS8UHC/?tag=tolees-21)
