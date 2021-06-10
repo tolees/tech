@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - Green Cell Batería Toshiba PA5109U-1BRS PA
 
 🔎:
 
-- La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
-- Batería de la renombrada marca Green Cell 100% compatible con la batería Toshiba PA5109U-1BRS PABAS272
-- Compatible con los ordenadores portátiles: Toshiba Satellite C50, Toshiba Satellite C50D, Toshiba Satellite C50t, Toshiba Satellite C55, Toshiba Satellite C55D, Toshiba Satellite C55t, Toshiba Satellite C70, Toshiba Satellite C70D, Toshiba Satellite C75, Toshiba Satellite C75D, Toshiba Satellite L70, Toshiba Satellite C50-A, Toshiba Satellite C50D-A, Toshiba Satellite C55D-A, Satellite C55-A, Satellite C55D-A, Satellite C50-A-14W, Satellite C55-A-1H9, Satellite C55-A-1GJ, Satellite C55-A-1GK
-- Capacidad: 4400 mAh | Tensión: 10.8V | Color: Negro
 - Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
+- Batería de la renombrada marca Green Cell 100% compatible con la batería Toshiba PA5109U-1BRS PABAS272
+- La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
+- Capacidad: 4400 mAh | Tensión: 10.8V | Color: Negro
+- Compatible con los ordenadores portátiles: Toshiba Satellite C50, Toshiba Satellite C50D, Toshiba Satellite C50t, Toshiba Satellite C55, Toshiba Satellite C55D, Toshiba Satellite C55t, Toshiba Satellite C70, Toshiba Satellite C70D, Toshiba Satellite C75, Toshiba Satellite C75D, Toshiba Satellite L70, Toshiba Satellite C50-A, Toshiba Satellite C50D-A, Toshiba Satellite C55D-A, Satellite C55-A, Satellite C55D-A, Satellite C50-A-14W, Satellite C55-A-1H9, Satellite C55-A-1GJ, Satellite C55-A-1GK
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0744KKX2Q/?tag=tolees-21)
