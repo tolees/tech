@@ -28,11 +28,11 @@ En este momento está [MSI GP76 Leopard 10UE-060ES - Ordenador portátil de 17.3
 
 🔎:
 
-- Almacenamiento SSD de 1 TB
-- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
-- Pantalla de 17.3" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 - Sistema operativo Windows 10 Home Advanced
+- Almacenamiento SSD de 1 TB
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
+- Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
 - Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
+- Pantalla de 17.3" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SBPL9C8/?tag=tolees-21)

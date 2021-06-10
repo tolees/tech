@@ -28,11 +28,11 @@ Está [Canon CL-546XL Cartucho de tinta original Tricolor XL para Impresora de I
 
 ℹ️:
 
-- Producción de papel: 300 páginas
-- Colores de impresión: cian, magenta y amarillo
-- Compatible con impresoras Pixma MG2450 y MG2550
-- Dispositivos compatibles: PIXMA iP2850, MG2450, MG2455, MG2550, MG2550S, MG2555, MG2555S, MG2950, MG2950S, MG3050, MG3051, MG3052, MG3053, MX495, TS205, TS305, TS3150, TS3151
 - Capacidad de 13 ml
 - Tecnología de impresión - inyección de tinta
+- Compatible con impresoras Pixma MG2450 y MG2550
+- Colores de impresión: cian, magenta y amarillo
+- Producción de papel: 300 páginas
+- Dispositivos compatibles: PIXMA iP2850, MG2450, MG2455, MG2550, MG2550S, MG2555, MG2555S, MG2950, MG2950S, MG3050, MG3051, MG3052, MG3053, MX495, TS205, TS305, TS3150, TS3151
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ET01FF6/?tag=tolees-21)
