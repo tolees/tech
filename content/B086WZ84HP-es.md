@@ -29,9 +29,9 @@ Tienes [JBL Partybox On-The-Go - Altavoz portátil Bluetooth con sonido potente 
 🔎:
 
 - Ni el agua será un impedimento: gracias a su impermeabilidad IPX4 podrás llevártelo al baño, a la piscina o a la playa. Su diseño con asa y ruedas te permite dejarlo o moverlo donde quieras
-- Dale color a la fiesta con una pantalla de luz dinámica que se sincroniza con la música. Elige entre una variedad de patrones preestablecidos y deja que los colores se adapten a la música
-- Que siga el ritmo: Partybox On-The-Go trae el inconfundible JBL Pro Sound para que seas el alma de la fiesta. Con sus 100 vatios verás como se llena la pista de baile de inmediato
-- Que siga el ritmo: PartyBox On-The-Go te da la posibilidad de ser la estrella de la fiesta gracias a su micrófono inalámbrico con un alcance de hasta 10 metros. Para que cantes a los cuatro vientos
 - Contenido de envío: JBL PartyBox On-The-go Altavoz con micrófono inalámbrico, abridor de botellas, correa acolchada, guía de inicio rápido, hoja de seguridad y cable de carga para la matriz SKU
+- Dale color a la fiesta con una pantalla de luz dinámica que se sincroniza con la música. Elige entre una variedad de patrones preestablecidos y deja que los colores se adapten a la música
+- Que siga el ritmo: PartyBox On-The-Go te da la posibilidad de ser la estrella de la fiesta gracias a su micrófono inalámbrico con un alcance de hasta 10 metros. Para que cantes a los cuatro vientos
+- Que siga el ritmo: Partybox On-The-Go trae el inconfundible JBL Pro Sound para que seas el alma de la fiesta. Con sus 100 vatios verás como se llena la pista de baile de inmediato
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086WZ84HP/?tag=tolees-21)
