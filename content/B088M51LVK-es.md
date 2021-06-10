@@ -29,9 +29,9 @@ Está [OMOTON Ratón Bluetooth para iPad  Macbook  Windows  2400DPI Ajustables  
 ℹ️:
 
 - Ahorro de energía, el ratón entrará automáticamente en el modo de sueño después de 30 minutos de inactividad. (NO incluye batería)
-- Compatible con Windows XP/ 7/ 8/ 10, iOS 13 o posterior, MacOS 10.4 o posterior, Android.
-- 3 Niveles DPI ajustables, 1000dpi, 1600dpi, 2400dpi, es fácil de cambiar DPI.
-- 3 Modos de conexión, USB 2.4GHz, Bluetooth 5.0, Bluetooth 3.0, según diferentes necesidades para conectar. (Receptor USB está guardado dentro del ratón)
 - Portátil y ligero, 105.1 x 58.3 x 29.6mm, peso 57,4 g. OMOTON ofrece la garantía de un año.
+- 3 Modos de conexión, USB 2.4GHz, Bluetooth 5.0, Bluetooth 3.0, según diferentes necesidades para conectar. (Receptor USB está guardado dentro del ratón)
+- 3 Niveles DPI ajustables, 1000dpi, 1600dpi, 2400dpi, es fácil de cambiar DPI.
+- Compatible con Windows XP/ 7/ 8/ 10, iOS 13 o posterior, MacOS 10.4 o posterior, Android.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088M51LVK/?tag=tolees-21)
