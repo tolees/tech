@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 14s-dq2004ns - Ordenador portátil de  con un 20.00 % de descuento'
-date: 2021-06-09 05:59:01
+date: 2021-06-10 06:31:47
 image: 'https://m.media-amazon.com/images/I/41mGkLVe5lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFGNRB3/?tag=tolees-21'
 descuento: '20.00'
-average: '489.99'
+average: '488.74'
 ---
 
 En este momento está [HP 14s-dq2004ns - Ordenador portátil de 14" FullHD  Intel Core i5-1135G7  8GB de RAM  512GB SSD  Intel Iris Xe  Sin sistema operativo   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08PFGNRB3/?tag=tolees-21) a 479.99 EUR (original: 599.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -30,9 +30,9 @@ En este momento está [HP 14s-dq2004ns - Ordenador portátil de 14" FullHD  Inte
 
 - Tarjeta gráfica Integrada Intel Iris Xe
 - 8GB de memoria RAM
-- Pantalla de 14" FullHD
 - Sin sistema operativo
-- Almacenamiento de 512GB SSD
 - Procesador Intel Core i5-1135G7
+- Almacenamiento de 512GB SSD
+- Pantalla de 14" FullHD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFGNRB3/?tag=tolees-21)
