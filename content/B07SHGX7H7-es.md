@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Mi Air Purifier 2H EU version - Purificador de aire  
 
 🔎:
 
+- Purifificador de aire inteligente con control por app movil
 - Idoneo para habitaciones hasta 31m2
 - Versión Europea
-- Purifificador de aire inteligente con control por app movil
 - Capacidad purificadora de aire 260m3/h
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHGX7H7/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C34H892WGR - Monitor Curvo de 34 al 20.04 % de descuento'
-date: 2021-06-09 07:43:39
+date: 2021-06-10 15:49:26
 image: 'https://m.media-amazon.com/images/I/41X4vfnFu7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08ZYNV91H/?tag=tolees-21'
 descuento: '20.04'
-average: '399.792'
+average: '399.66'
 ---
 
 Está [Samsung C34H892WGR - Monitor Curvo de 34" WQHD  3440X1440  QLED  21:9  100Hz  4ms  3000:1  300 Cd/m²  1800R  G-Sync  DisplayPort  HDMI  USB Type-C  PBP  PIP  Plata Oscuro](https://www.amazon.es/dp/B08ZYNV91H/?tag=tolees-21) con 20.04 de descuento por 399.0 EUR (original: 499.0 EUR) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [Samsung C34H892WGR - Monitor Curvo de 34" WQHD  3440X1440  QLED  21:9  10
 ℹ️:
 
 - Compatible con soporte VESA
+- Relación de contraste de 3000:1
+- Pantalla sin marcos en 3 lados
+- Conexión USB Type C
 - Monitor Samsung C34H892WGR curvo 34 WQHD (3440x1440) con relación de aspecto de 21:9 y curvatura de la pantalla 1800R
 - Eye saver mode and Flicker Free
-- Relación de contraste de 3000:1
-- Conexión USB Type C
-- Pantalla sin marcos en 3 lados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08ZYNV91H/?tag=tolees-21)

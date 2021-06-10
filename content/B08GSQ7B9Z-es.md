@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi True Wireless Earbuds Basic 2  al 28.71 % de rebaja'
-date: 2021-06-04 17:15:42
+date: 2021-06-10 15:26:22
 image: 'https://m.media-amazon.com/images/I/313mAIW9nkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08GSQ7B9Z/?tag=tolees-21'
 descuento: '28.71'
-average: '16.5040909090909'
+average: '16.454'
 ---
 
 Tienes [Xiaomi Mi True Wireless Earbuds Basic 2 Auriculares Inalámbricos Bluetooth 5.0  Estuche de Carga  Negro](https://www.amazon.es/dp/B08GSQ7B9Z/?tag=tolees-21) con precio final de  14.25 EUR (original: 19.99 EUR) (28.71 %  de rebaja) aqui!
