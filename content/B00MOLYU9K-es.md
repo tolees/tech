@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Sony PSN Plus - Tarjeta para 365 días  R al 32.84 % de rebaja'
-date: 2021-06-10 07:43:33
+title: 'Playstation - Sony PSN Plus - Tarjeta pa al 19.54 % de rebaja'
+date: 2021-06-11 07:46:05
 image: 'https://m.media-amazon.com/images/I/31GMuqUQOEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00MOLYU9K-es Sony PSN Plus - Tarjeta para 365 días Reedición Código...'
+slug: 'B00MOLYU9K-es Playstation - Sony PSN Plus - Tarjeta para 365 días...'
 sku: 'B00MOLYU9K-es'
-tags: [ 'Abonos para PlayStation Network','Abonos y tarjetas prepago','PlayStation Network','Videojuegos','sony', ]
-actualPrice: 44.99 EUR
+tags: [ 'Abonos para PlayStation Network','Abonos y tarjetas prepago','PlayStation Network','Videojuegos','playstation','sony', ]
+actualPrice: 53.9 EUR
 currency: EUR
-price: 44.99
+price: 53.9
 comparePrice: 66.99 EUR
-prodname: 'Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital'
+prodname: 'Playstation - Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Sony'
+brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21'
-descuento: '32.84'
-average: '55.0954819277109'
+descuento: '19.54'
+average: '55.0883233532935'
 ---
 
-Tienes [Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21) con precio final de  44.99 EUR (original: 66.99 EUR) (32.84 %  de rebaja) aqui!
+Tienes [Playstation - Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21) con precio final de  53.9 EUR (original: 66.99 EUR) (19.54 %  de rebaja) aqui!
 
-[![Sony PSN Plus - Tarjeta para 365 días  R](https://m.media-amazon.com/images/I/31GMuqUQOEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
+[![Playstation - Sony PSN Plus - Tarjeta pa](https://m.media-amazon.com/images/I/31GMuqUQOEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
 
 🔎:
 
-- Tipo de producto: tarjeta de Sony
-- Este producto sólo contiene contenido digital
-- Plataforma recomendada: PlayStation 4
 - Disponible con almacenamiento online
+- Tipo de producto: tarjeta de Sony
+- Plataforma recomendada: PlayStation 4
+- Este producto sólo contiene contenido digital
 - Disfruta de las mejores condiciones para jugar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
