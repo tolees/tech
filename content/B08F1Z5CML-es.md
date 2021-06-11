@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi 9C - Smartphone de 6.53" Hd+  2Gb+32Gb  3x Cámara Trasera 
 
 ℹ️:
 
-- Sistema operativo: Android 10.0
-- El Redmi 9C cuenta con una pantalla inmersiva HD+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja TÜV Rheinland
-- Batería de alta capacidad de 5000 mAh con carga rápida de 10W.
-- Sistema de triple cámara trasera de 13 MP con IA, video Full HD a 30fps y cámara frontal selfie de 5 MP
 - Procesador MediaTek Helio G85, procesador de 8 núcleos de alto rendimiento.
+- Batería de alta capacidad de 5000 mAh con carga rápida de 10W.
+- El Redmi 9C cuenta con una pantalla inmersiva HD+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja TÜV Rheinland
+- Sistema de triple cámara trasera de 13 MP con IA, video Full HD a 30fps y cámara frontal selfie de 5 MP
+- Sistema operativo: Android 10.0
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F1Z5CML/?tag=tolees-21)

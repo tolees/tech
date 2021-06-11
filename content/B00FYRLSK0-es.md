@@ -28,10 +28,10 @@ Tienes [Sony SEL55F18Z - Objetivo ZA montura E para Sony/Minolta  distancia foca
 
 ℹ️:
 
-- Diseñado con óptica Carl Zeiss Sonnar T
-- Fotograma completo de 35 mm, montura E
-- Diseño resistente al agua y al polvo
 - Distancia de enfoque mínima: 0.5 m
+- Fotograma completo de 35 mm, montura E
 - Apertura circular de 9 láminas para un atractivo efecto de desenfoque
+- Diseñado con óptica Carl Zeiss Sonnar T
+- Diseño resistente al agua y al polvo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FYRLSK0/?tag=tolees-21)
