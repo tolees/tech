@@ -28,10 +28,10 @@ En este momento está [NJSJ - Altavoces para Ordenador  2.0 con Cable Alimentaci
 
 🔎:
 
-- Compatible con múltiples usos: estos altavoces multimedia son alimentados por USB y entrada de audio de 3,5 mm, adecuados para cualquier dispositivo que tenga un conector estándar de 3,5 mm, tales como: tabletas, ordenadores de sobremesa, portátiles, PC, reproductor MP3, teléfono celular.
-- Altavoces portátiles: tamaño pequeño (67 x 65 x 90 mm) y peso ligero (11 oz), fácil de transportar y colocar. Perfecto para la oficina corporativa, estudio, escritorios de cocina y otros espacios pequeños.
-- Plug and Play: simplemente inserta el cable USB en el puerto USB de tu dispositivo para alimentación y el enchufe en el conector de auriculares de 3,5 mm de tu dispositivo, y los altavoces están listos para usar. Control de volumen en línea para ajustar fácilmente el volumen.
-- Alta calidad de sonido: mini altavoz de escritorio integrado 2 altavoces estéreo de 3 W, garantiza el sonido claro, más fuerte y menor distorsión. 5 V/1 A y fuente de alimentación superior (recomendado).
 - Diseño de luz RGB: 7 colores atmósfera luces LED añaden un efecto fresco. Muy adecuado para música, juegos, películas, etc. Nota: las luces cambian con la música libremente, por lo que no puedes sincronizarlas con otros RGB o mantenerlas en un color específico.
+- Compatible con múltiples usos: estos altavoces multimedia son alimentados por USB y entrada de audio de 3,5 mm, adecuados para cualquier dispositivo que tenga un conector estándar de 3,5 mm, tales como: tabletas, ordenadores de sobremesa, portátiles, PC, reproductor MP3, teléfono celular.
+- Alta calidad de sonido: mini altavoz de escritorio integrado 2 altavoces estéreo de 3 W, garantiza el sonido claro, más fuerte y menor distorsión. 5 V/1 A y fuente de alimentación superior (recomendado).
+- Plug and Play: simplemente inserta el cable USB en el puerto USB de tu dispositivo para alimentación y el enchufe en el conector de auriculares de 3,5 mm de tu dispositivo, y los altavoces están listos para usar. Control de volumen en línea para ajustar fácilmente el volumen.
+- Altavoces portátiles: tamaño pequeño (67 x 65 x 90 mm) y peso ligero (11 oz), fácil de transportar y colocar. Perfecto para la oficina corporativa, estudio, escritorios de cocina y otros espacios pequeños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JCKCPFD/?tag=tolees-21)
