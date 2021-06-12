@@ -28,11 +28,11 @@ Tienes [ASUS ROG Zephyrus G14 GA401II-HE004 - Portátil Gaming de 14" FullHD 120
 
 🔎:
 
-- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
-- Sin sistema operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
-- Almacenamiento de 1TB M.2 NVMe PCIe
-- Pantalla de 14" FullHD (1920 x 1080) de 120Hz
 - Procesador AMD Ryzen 7 4800HS (2.9GHz, 8MB)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
+- Pantalla de 14" FullHD (1920 x 1080) de 120Hz
+- Sin sistema operativo
+- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
+- Almacenamiento de 1TB M.2 NVMe PCIe
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CKR4YZJ/?tag=tolees-21)
