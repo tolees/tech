@@ -28,11 +28,11 @@ Tienes [ASUS ROG GV301QH-K6022T - Ordenador Portátil Gaming de 13.4" WUXGA  AMD
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Windows 10 Home
 - Memoria RAM de 16GB (en placa) LPDDR4x
+- Windows 10 Home
 - Almacenamiento de 1TB M.2 NVMe PCIe
-- Procesador AMD Ryzen 9 5900HS (3GHz, 16MB)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 13.4" WUXGA (1920 x 1200)
+- Procesador AMD Ryzen 9 5900HS (3GHz, 16MB)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VJGDC4Y/?tag=tolees-21)
