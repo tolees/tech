@@ -30,8 +30,8 @@ En este momento está [UNBREAKcable Cable Lightning iPhone Cargador iPhone - [Ap
 
 - 【Universal Compatibility】: Compatible with iPhone, iPad and iPod. Supports iPhone 12/ 12 Pro / 12 Pro Max/ 11/ 11 Pro/ 11 Pro Max/ SE 2020/ X/ XS/ XS Max/ XR/ 8/ 7/ 6s/ 6s Plus/ 6 Plus/ 6, iPad Air/Air 2, iPad/iPod and the latest iOS 14 system.
 - 【Extraordinary Durability】: Strict laboratory tests have proven that the product is able to last 20x longer than other cables and withstand over 20,000 bends. Exceptional tensile strength is provided by a high-performance and ultra-strong aramid fiber core, allowing it to support loads over 275lb (125kg).
-- 【Faster and Safer Charging】: Built with an original Apple chip, the product supports fast charging (up to 2.4A current) while preventing overheating. Simply comply with the safety requirements during use to charge your devices with an ease of mind.
-- 【Compact and Sturdy Connector Head】: The compact connector head is small enough to fit into most cases in the market. The connector shield has been seamlessly laser-welded and the lightning connector is able to withstand loads up to 15kg without incurring damage.
 - 【Certificado Apple MFi】 MFi-certified and compliant with UL/FCC/CE standards, this product has undergone rigorous quality control tests to ensure your Apple devices are charged safely at the fastest possible speed.
+- 【Compact and Sturdy Connector Head】: The compact connector head is small enough to fit into most cases in the market. The connector shield has been seamlessly laser-welded and the lightning connector is able to withstand loads up to 15kg without incurring damage.
+- 【Faster and Safer Charging】: Built with an original Apple chip, the product supports fast charging (up to 2.4A current) while preventing overheating. Simply comply with the safety requirements during use to charge your devices with an ease of mind.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D6RQ4D8/?tag=tolees-21)
