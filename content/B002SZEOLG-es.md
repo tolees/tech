@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Adaptador wifi USB inalámbrico C al 35.44 % de descuento'
-date: 2021-06-07 08:36:28
+date: 2021-06-13 03:20:02
 image: 'https://m.media-amazon.com/images/I/31WV5Kf8T-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B002SZEOLG/?tag=tolees-21'
 descuento: '35.44'
-average: '8.28260869565216'
+average: '8.2935251798561'
 ---
 
 Ahora mismo tienes [TP-Link Adaptador wifi USB inalámbrico Compatible con Raspberry Pi  N 150Mbps  Antena externa 4 dBi  Botón WPS  Windows  Mac OS X 10.6-10.11  Linux  TL-WN722N ](https://www.amazon.es/dp/B002SZEOLG/?tag=tolees-21) a 9.8 EUR (original: 15.18 EUR) (35.44 %  de descuento) en el siguiente enlace!
