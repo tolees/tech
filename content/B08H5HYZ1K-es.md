@@ -28,10 +28,10 @@ Está [Xiaomi - Poco X3 NFC  Pantalla AMOLED de 6 67" FHD+  DotDisplay  6GB+128G
 
 ℹ️:
 
-- Batería: 5160 mAh
+- Cámara: Cuádruple, 64MP+13MP +2MP+2MP
+- OS: Android 10
 - Procesador: Snapdragon 732G 2.3GHz
 - Pantalla: 6.67", 1080 x 2400 pixels
-- OS: Android 10
-- Cámara: Cuádruple, 64MP+13MP +2MP+2MP
+- Batería: 5160 mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H5HYZ1K/?tag=tolees-21)

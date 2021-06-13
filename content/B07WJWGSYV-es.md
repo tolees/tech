@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - GC Pro Cargador para Portátil ASUS G550 G5
 
 🔎:
 
-- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
 - Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
 - Potencia: 150W | Voltaje: 19.5V | Intensidad: 7.7A | Tipo de enchufe: redondo (5.5-2.5mm)
-- Cargador Green Cell PRO para la computadora portátil Asus G550 G551 G73 N751 MSI GE60 GE62 GE70 GP60 GP70 GS70 PE60 PE70 WS60: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
+- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
 - Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
+- Cargador Green Cell PRO para la computadora portátil Asus G550 G551 G73 N751 MSI GE60 GE62 GE70 GP60 GP70 GS70 PE60 PE70 WS60: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WJWGSYV/?tag=tolees-21)
