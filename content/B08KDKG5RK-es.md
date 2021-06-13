@@ -28,9 +28,9 @@ Tienes [JOYACCESS Webcam con Micrófono Cámara Web 1080p /30pfs  Webcam USB 2.0
 
 ℹ️:
 
-- Webcam HD 1080p con balance de luz automático: JOYACCESS Webcam para PC captura la luz haciendo las imágenes limpias y los vídeos nítidos, y dispone de un avanzado sensor de imagen CMOS HD. Rango focal de 5 cm a infinito. Equipado con tecnología de autoequilibrio de luz y compensación de color, lo que hace que parezca normal incluso en condiciones de sastre de luz o en ambientes oscuros.
-- Webcam con micrófono: la webcam para portátil está integrada en el micrófono con cancelación de ruido y puede capturar fácilmente tu voz dentro de 20 pies desde diferentes ángulos. Te escucharás claramente. Perfecto para streaming, videoconferencias, juegos y entretenimiento en línea, enseñanza y estudio en línea, entrevistas...
 - Webcam USB Plug and Play: no hay necesidad de instalar controladores adicionales, solo tienes que conectar el dispositivo al cao USB) que es de 1,5 m de longitud. El soporte ajustable se adapta a ordenadores, portátiles, ordenadores de sobremesa, Mac, PC, monitores LCD y otras superficies fijas).
 - Compatibilidad universal: la webcam soporta Windows 7 / 8 / 10 / Mac OS 10.4.3. Soporta ampliamente Facebook, Yahoo, Skype, OBS, YouTube, Twitter, Twitch y otras puertas. Perfecto para videollamadas, estudios, videoconferencias, grabaciones vieogénicas y Smart Wor en casa.
+- Webcam HD 1080p con balance de luz automático: JOYACCESS Webcam para PC captura la luz haciendo las imágenes limpias y los vídeos nítidos, y dispone de un avanzado sensor de imagen CMOS HD. Rango focal de 5 cm a infinito. Equipado con tecnología de autoequilibrio de luz y compensación de color, lo que hace que parezca normal incluso en condiciones de sastre de luz o en ambientes oscuros.
+- Webcam con micrófono: la webcam para portátil está integrada en el micrófono con cancelación de ruido y puede capturar fácilmente tu voz dentro de 20 pies desde diferentes ángulos. Te escucharás claramente. Perfecto para streaming, videoconferencias, juegos y entretenimiento en línea, enseñanza y estudio en línea, entrevistas...
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KDKG5RK/?tag=tolees-21)

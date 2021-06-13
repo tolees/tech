@@ -28,11 +28,11 @@ Ahora mismo tienes [NETGEAR Repetidor Wifi 6 Mesh EAX20  Amplificador señal wir
 
 🔎:
 
-- Fácil configuración: utiliza la aplicación Nighthawk o pulsa el botón WPS para establecer una conexión con tu router.
-- Compatibilidad universal: funciona con cualquier router WiFi, pasarela o módem de cable, con todos los dispositivos Wifi6 existentes como Samsung S10 y S20 o iPhone 11.
-- Alta seguridad: admite los protocolos de seguridad inalámbricos WEP y WPA/WPA2.
-- Conexión LAN: simplemente conecta consolas de juegos, reproductores de streaming u otros dispositivos con cable a uno de los 4 puertos Gigabit para alcanzar velocidades máximas.
 - Amplia cobertura Wi-Fi: ofrece una cobertura WiFi de hasta 100 m2 y conecta hasta 20 dispositivos como portátiles, smartphones, altavoces, cámaras IP, tabletas, dispositivos IoT y más.
+- Conexión LAN: simplemente conecta consolas de juegos, reproductores de streaming u otros dispositivos con cable a uno de los 4 puertos Gigabit para alcanzar velocidades máximas.
+- Alta seguridad: admite los protocolos de seguridad inalámbricos WEP y WPA/WPA2.
+- Compatibilidad universal: funciona con cualquier router WiFi, pasarela o módem de cable, con todos los dispositivos Wifi6 existentes como Samsung S10 y S20 o iPhone 11.
+- Fácil configuración: utiliza la aplicación Nighthawk o pulsa el botón WPS para establecer una conexión con tu router.
 - Funcionamiento inteligente y sin esfuerzo: utiliza el nombre de la red SID existente para que nunca pierda la conexión mientras te mueves por tu casa u oficina.
 - Rápido rendimiento WiFi 6: velocidad AX1800 (tecnología Wi-Fi de doble banda con hasta 600 + 1200 MBit/s) con 4 transmisiones simultáneas con más capacidad que permiten utilizar más dispositivos al mismo tiempo el WLAN.
 
