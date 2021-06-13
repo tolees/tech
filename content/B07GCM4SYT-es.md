@@ -28,10 +28,10 @@ Tienes [Sharp XL-B510 BK  - Microcadena Bluetooth  Radio FM  reproductor de audi
 
 🔎:
 
-- Transferencia inalámbrica de música a través de bluetooth radio fm reproducción usb cd / cd-r / cd-rw, mp3, 3,5 mm aux in 40 vatios de potencía
-- Funciones a traves de sus multiples funciones, puede escuchar la radio fm, reproducir cd/cd-r/cd-rw, reproducir mp3 a través de usb o cd o incluso utilizar la entrada auxiliar de 3,5 mm para disfrutar del audio de otros dispositivos, como reproductores de mp3; echo (alexa)
-- Conexión la función bluetooth le permite transmitir audio de forma inalámbrica desde su smartphone/teléfono móvil, tableta (u otro dispositivo con conexión bluetooth) y cuenta con conexión usb para reproducir a través de sharp micro sound system
 - Solución completa para todas las necesidades de audio. Disfruta de tus cds, los archivos de audio y los servicios de música con alta calidad de sonido y 40 vatios de puro placer auditivo con el xl-b510; este sistema de audio todo en uno es una solución completa para sus necesidades de audio; siéntese con el mando a distancia y disfrute de todo lo que tiene para ofrecer; con la caja de madera el diseño compacto y elegante, el xl-b510 tiene un aspecto realmente premium
 - Diseño y calidad sharp micro sound system es una solución todo en uno para cualquier habitación, ya sea en la sala de estar, el dormitorio o la habitación de invitados; sharp xl-b510 le ofrece calidad, variedad de opciones de reproducion y excelente diseño
+- Funciones a traves de sus multiples funciones, puede escuchar la radio fm, reproducir cd/cd-r/cd-rw, reproducir mp3 a través de usb o cd o incluso utilizar la entrada auxiliar de 3,5 mm para disfrutar del audio de otros dispositivos, como reproductores de mp3; echo (alexa)
+- Conexión la función bluetooth le permite transmitir audio de forma inalámbrica desde su smartphone/teléfono móvil, tableta (u otro dispositivo con conexión bluetooth) y cuenta con conexión usb para reproducir a través de sharp micro sound system
+- Transferencia inalámbrica de música a través de bluetooth radio fm reproducción usb cd / cd-r / cd-rw, mp3, 3,5 mm aux in 40 vatios de potencía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GCM4SYT/?tag=tolees-21)
