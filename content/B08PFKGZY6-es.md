@@ -28,11 +28,11 @@ Está [HP 15s-fq2040ns - Ordenador portátil de 15.6" FullHD  Intel Core i3-1115
 
 ℹ️:
 
+- Almacenamiento de 256GB SSD
 - Pantalla de 39.6 cm (15.6") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC
+- Procesador Intel Core i3-1115G4
 - 8GB de memoria RAM
 - Tarjeta gráfica Integrada Intel UHD Graphics
-- Procesador Intel Core i3-1115G4
 - Sin sistema operativo
-- Almacenamiento de 256GB SSD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFKGZY6/?tag=tolees-21)
