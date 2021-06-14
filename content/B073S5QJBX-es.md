@@ -28,10 +28,10 @@ Tienes [GPC Image 6 Pack PGI-570XL CLI-571XL Cartucho de Tinta Compatible para C
 
 ℹ️:
 
-- 1. GPC Image Cartucho de tinta Compatible para Canon PGI-570XL PGBK, CLI-571XL BK/C/M/Y Multipack (No Original)
-- 3. Compatible para Canon Pixma MG 5750 TS 5050 MG 5751 MG 5752 MG 5753 MG 6850 MG 6851 MG 6852 MG6853 TS 5051 TS 5053 TS 5055 TS 6050 TS 6051 TS 6052 MG5700 MG6800 Impresoras
 - 4. Splendid Box Set Incluye: 2 PGBK / 1 Negro / 1 Cian / 1 Magenta / 1 Amarillo (No GY Gris)
 - 2. Producción de páginas estimada: 500 páginas por (1) Cartucho PGBK; 300 páginas por (1) Cartucho negro; 300 páginas por (1) Cartucho de color con una cobertura del 5% de A4
 - 5. Nuestros cartuchos de impresora hacen que tanto el texto como la foto sean claros y suaves.
+- 3. Compatible para Canon Pixma MG 5750 TS 5050 MG 5751 MG 5752 MG 5753 MG 6850 MG 6851 MG 6852 MG6853 TS 5051 TS 5053 TS 5055 TS 6050 TS 6051 TS 6052 MG5700 MG6800 Impresoras
+- 1. GPC Image Cartucho de tinta Compatible para Canon PGI-570XL PGBK, CLI-571XL BK/C/M/Y Multipack (No Original)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B073S5QJBX/?tag=tolees-21)

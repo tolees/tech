@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - Lenovo G50 – 30 G50 – 70 G50 –
 
 🔎:
 
-- Color: Negro | 24 meses de garantía.
 - 2 años de garantía, la no es producido en piezas de recambio de baja calidad.
-- Teclado del prestigioso fabricante Green Cell
-- Máxima calidad en términos de confort y durabilidad.
 - 100% compatible con teclado Lenovo G50 – 30 G50 – 70 G50 – 45 G50 G50 – 80 G70 M50 Z50 G51 B50 – 70 Z50 – 70 B50 – 30 B50 B50 – 45 E50 Z50 – 75 B50 – 80 IdeaPad 500 700 300
+- Máxima calidad en términos de confort y durabilidad.
+- Color: Negro | 24 meses de garantía.
+- Teclado del prestigioso fabricante Green Cell
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077XW37LN/?tag=tolees-21)

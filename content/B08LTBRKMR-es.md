@@ -28,10 +28,10 @@ En este momento está [LORYERGO 11-17.3" Soporte Portatil Mesa Plegable Ventilad
 
 🔎:
 
-- 【Multifuncional y práctico】Multifuncional en muchas ocasiones como la oficina, sala de reuniones, biblioteca, cafetería, casa de cocina para sostener los ordenadores portátiles, tabletas, proyectores, menú, libros de música, revistas, etc. Un excelente regalo útil para sus amigos y familiares.
 - 【Construcción sólida】Está hecho de aleación de aluminio de calidad, pesado estable y robusto, soporta hasta 8 kg pero no se preocupa de que se tambalee. Se ve limpio y delicado, fácil de limpiar, a prueba de óxido y arañazos.
-- 【Ajuste de altura sin escalas】Gracias a su construcción estable, el soporte para portátiles es ajustable en altura y ángulo por medio de bisagras dobles con llave Allen. Puede elevar la altura de la pantalla del ordenador portátil de 4cm a 14cm para cumplir con el nivel de los ojos, el uso con teclados inalámbricos para una mejor postura.
 - 【Amplia compatibilidad】Compatible con todos los portátiles de 11 a 17,3 pulgadas. El soporte de portátil Sliver está diseñado para ser simple y elegante. La ranura de almacenamiento de diseño único en el panel inferior hace un espacio de retención para los accesorios como el teclado inalámbrico, teléfono móvil, ratón inalámbrico etc, se ajusta a su hogar y la oficina perfectamente.
+- 【Ajuste de altura sin escalas】Gracias a su construcción estable, el soporte para portátiles es ajustable en altura y ángulo por medio de bisagras dobles con llave Allen. Puede elevar la altura de la pantalla del ordenador portátil de 4cm a 14cm para cumplir con el nivel de los ojos, el uso con teclados inalámbricos para una mejor postura.
 - 【Compañero óptimo para los ordenadores portátiles】El diseño hueco de ventilación puede ventilar bien el calor generado por los portátiles. Con almohadillas de silicona y ganchos de protección en el soporte del portátil para protegerlo de arañazos y deslizamientos, apreciamos su portátil tanto como usted.
+- 【Multifuncional y práctico】Multifuncional en muchas ocasiones como la oficina, sala de reuniones, biblioteca, cafetería, casa de cocina para sostener los ordenadores portátiles, tabletas, proyectores, menú, libros de música, revistas, etc. Un excelente regalo útil para sus amigos y familiares.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LTBRKMR/?tag=tolees-21)

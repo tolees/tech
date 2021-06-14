@@ -28,10 +28,10 @@ Ahora mismo tienes [OCYCLONE Funda para iPad Pro 12.9"  4ª generación  2020/20
 
 🔎:
 
-- 【Compatibilidad】 Especialmente diseñado para iPad Pro 12.9 ”2020 4ta generación (modelo: A2229 / A2069 / A2232 / A2233) y iPad Pro 12.9” 2018 3ra generación (modelo: A1876 / A2014 / A1895). NO es compatible con iPad Pro 12.9 "de 2.ª y 1.ª generación.
+- Servicio after-sales: Cualquier defectuoso o defecto podría ser intercambiado o reembolso en el plazo de 24 horas, los pls nos envían el email.
 - [Protección Confiable] Equipado con la avanzada de cáscara dura de policarbonato + PU de alta calidad, el funda iPad Pro 12.9" evita arañazos, polvo y golpes.
 - [Incorporado Soporte] Ranura para lápiz de Apple incorporada para permitirle colocar o tomar su lápiz de Apple de manera conveniente para evitar perdida. Compatible Carga Inalámbrica Apple Pencil 2
-- Servicio after-sales: Cualquier defectuoso o defecto podría ser intercambiado o reembolso en el plazo de 24 horas, los pls nos envían el email.
+- 【Compatibilidad】 Especialmente diseñado para iPad Pro 12.9 ”2020 4ta generación (modelo: A2229 / A2069 / A2232 / A2233) y iPad Pro 12.9” 2018 3ra generación (modelo: A1876 / A2014 / A1895). NO es compatible con iPad Pro 12.9 "de 2.ª y 1.ª generación.
 - [Diseño Magnético] Solapa magnética para un cierre práctico y seguro. Múltiples ranuras magnéticas le permiten bloquear los mejores ángulos de soporte horizontal para ver y escribir.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087RD2WKT/?tag=tolees-21)

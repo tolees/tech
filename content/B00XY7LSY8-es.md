@@ -28,10 +28,10 @@ En este momento está [Arduino starter kit para principiantes K030007 [manual en
 
 🔎:
 
-- Hay muchas actividades y materiales gratuitos disponibles en línea, junto con muchos tutoriales y vídeos inspiradores lo cual significa que puedes seguir usando el kit de forma creativa incluso después de haber completado los proyectos
 - Podrás construir 15 proyectos diferentes usando componentes que te permitan controlar el mundo físico con diferentes tipos de sensores y actuadores.
-- Es una forma rápida y fácil de empezar a aprender los temas STEAM en casa, y se puede usar para pensar críticamente, aprender colaborativamente y resolver problemas.
 - Este kit te lleva a través de los fundamentos de Arduino y la electrónica de una manera práctica. No se requiere experiencia previa, ya que el kit introduce tanto la programación como la electrónica a través de proyectos divertidos, atractivos y prácticos.
 - El kit viene con una guía de proyectos de 170 páginas e incluye más de 100 componentes.
+- Hay muchas actividades y materiales gratuitos disponibles en línea, junto con muchos tutoriales y vídeos inspiradores lo cual significa que puedes seguir usando el kit de forma creativa incluso después de haber completado los proyectos
+- Es una forma rápida y fácil de empezar a aprender los temas STEAM en casa, y se puede usar para pensar críticamente, aprender colaborativamente y resolver problemas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XY7LSY8/?tag=tolees-21)
