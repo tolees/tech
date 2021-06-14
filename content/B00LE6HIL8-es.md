@@ -29,8 +29,8 @@ En este momento está [Batterytec® Adaptador de cargador de repuesto para Toshi
 🔎:
 
 - Normas de seguridad: FCC, CE, RoHS, utilizando materiales de alta calidad para la fabricación, probados con las normas de control de calidad
-- Por favor, asegúrese de que el tamaño del conector DC Salida cumple con el adaptador original antes de que usted haga una oferta! No dude en ponerse en contacto con nosotros si tiene alguna pregunta o inquietud.
-- Piezas nuevas de la marca Product.Full 12 meses de garantía.
 - Alimentation: AC100V ~ 240V,Salida: DC 15V 4A (60W), con 3.0mm/6.3mm salida estándar avanzado.
+- Piezas nuevas de la marca Product.Full 12 meses de garantía.
+- Por favor, asegúrese de que el tamaño del conector DC Salida cumple con el adaptador original antes de que usted haga una oferta! No dude en ponerse en contacto con nosotros si tiene alguna pregunta o inquietud.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LE6HIL8/?tag=tolees-21)
