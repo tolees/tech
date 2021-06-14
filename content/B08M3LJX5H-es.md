@@ -29,9 +29,9 @@ Tienes [Lenovo IdeaPad Flex 5 - Portátil Convertible 14" FullHD  AMD Ryzen 7-47
 ℹ️:
 
 - Pantalla de 14" FullHD 1920x1080 pixeles, TN, 220nits, táctil convertible
-- Memoria RAM de 8GB Soldered DDR4-3200
-- Tarjeta gráfica integrada AMD Radeon Graphics
 - Almacenamiento de 512GB SSD M.2 2242 PCIe NVMe
+- Tarjeta gráfica integrada AMD Radeon Graphics
+- Memoria RAM de 8GB Soldered DDR4-3200
 - Sistema Operativo: Windows 10 Home
 - Procesador AMD Ryzen 7 4700U (8C / 8T, 2.0 / 4.1GHz, 4MB L2 / 8MB L3)
 

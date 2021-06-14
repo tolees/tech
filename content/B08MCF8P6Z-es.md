@@ -28,10 +28,10 @@ Está [HP Pavilion X360 14-dw1023ns - Ordenador portátil convertible de 14" Ful
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD
 - Procesador Intel Core i7-1165G7
-- 8GB de memoria RAM
 - Tarjeta gráfica Integrada Intel Iris Xe
+- 8GB de memoria RAM
+- Almacenamiento de 512GB SSD
 - Pantalla de 14" FullHD Táctil
 - Windows 10
 
