@@ -29,9 +29,9 @@ Tienes [Dell OptiPlex 3010 SFF-Ordenador de sobremesa  procesador Intel Core i5 
 🔎:
 
 - Los productos usados han sido probados y probados por un vendedor cualificado de Amazon para verse y funcionar como nuevo. El embalaje y los accesorios correspondientes pueden ser genéricos. Todos los dispositivos reacondicionados vienen con una garantía de 2 años de Amazon.
-- SSD de 240 GB
 - Windows 10 Pro 64 bit licence (preinstalado) - Multiguage
-- Intel Core i5 3470 @ 3,20 GHz / 8 GB DDR3 RAM
 - Grabadora en DVD
+- Intel Core i5 3470 @ 3,20 GHz / 8 GB DDR3 RAM
+- SSD de 240 GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081NJSV4G/?tag=tolees-21)
