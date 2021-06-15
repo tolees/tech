@@ -28,11 +28,11 @@ Está [Acer Aspire 5 A515-55 - Ordenador portátil 15.6" FullHD  Intel Core i5-1
 
 ℹ️:
 
-- Tarjeta gráfica integrada Intel UHD Graphics 620
 - Sistema operativo Windows 10 Home 64 Bits
 - Memoria RAM de 16GB DDR4
-- Procesador IntelCore i5-1035G1 (1.0 GHz 6MB)
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Tarjeta gráfica integrada Intel UHD Graphics 620
+- Procesador IntelCore i5-1035G1 (1.0 GHz 6MB)
 - Pantalla de 15.6" FullHD Acer ComfyView LED LCD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F5KDS6M/?tag=tolees-21)
