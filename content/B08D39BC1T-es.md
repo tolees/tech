@@ -28,10 +28,10 @@ Está [Nulaxy C900 Webcam PC Full HD 1080P con Micrófono  Webcam Portátil para
 
 ℹ️:
 
-- Micrófono Estéreo Integrado: Con tecnología de cancelación de eco y alta sensibilidad, la cámara USB con micrófono omnidireccional integrado es muy sensible para capturar un sonido nítido en un rico audio estéreo desde diferentes ángulos.
-- Cámara web Full HD 1080P: La C900 cámara web con tecnología avanzada de procesamiento de video admite H.264 para capturar imágenes nítidas y claras a 30 fps. La cámara web 1080P de alta definición proporciona videos fluidos para video chat, conferencias, seminarios web, etc.
-- Compatibilidad Universal: La cámara web de la computadora puede funcionar ampliamente con PC, computadora portátil y computadora portátil, compatible con Windows 7, 8, 10 y superior, Linux 2.6.24, Mac OS 10.6, Android 5.1 y otros sistemas operativos, es compatible con las principales plataformas como Skype, OBS , Twitch, Youtube, Face time, Zoom, Xsplit, Twitter, Whatsapp y más.
 - Plug & Play y Ajustable: Simplemente conecte el cable USB al puerto USB de la computadora, no se necesitan controladores, plug and play. El ángulo de visión amplio de 92 °, el cabezal giratorio de 360 ​​° y el clip ajustable pueden lograr un ángulo de visión óptimo y brindan un fácil acceso a cualquier computadora portátil, monitor, PC o trípode.
+- Compatibilidad Universal: La cámara web de la computadora puede funcionar ampliamente con PC, computadora portátil y computadora portátil, compatible con Windows 7, 8, 10 y superior, Linux 2.6.24, Mac OS 10.6, Android 5.1 y otros sistemas operativos, es compatible con las principales plataformas como Skype, OBS , Twitch, Youtube, Face time, Zoom, Xsplit, Twitter, Whatsapp y más.
+- Cámara web Full HD 1080P: La C900 cámara web con tecnología avanzada de procesamiento de video admite H.264 para capturar imágenes nítidas y claras a 30 fps. La cámara web 1080P de alta definición proporciona videos fluidos para video chat, conferencias, seminarios web, etc.
 - Obturador de Privacidad: La cámara web con cubierta le permite controlar lo que desea mostrar, protege su privacidad y le brinda tranquilidad cuando no está en uso. Simplemente deslice la tapa de la cámara web para cerrarla cuando sea necesario y bloquear a posibles piratas informáticos. Longitud del cable: 6 pies (1,8 m)
+- Micrófono Estéreo Integrado: Con tecnología de cancelación de eco y alta sensibilidad, la cámara USB con micrófono omnidireccional integrado es muy sensible para capturar un sonido nítido en un rico audio estéreo desde diferentes ángulos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D39BC1T/?tag=tolees-21)
