@@ -28,10 +28,10 @@ Tienes [Acer Swift 3 - Portátil 14" FullHD  AMD Ryzen 3 3200U  8GB RAM  512GB S
 
 ℹ️:
 
+- PANTALLA FULL HD: los colores y detalles dan vida a las imágenes y los vídeos; mediante el uso de biseles delgados y una gran relación pantalla-cuerpo, los usuarios pueden ver aún más en la pantalla IPS de 14 pulgadas FHD
 - ACCESO INTELIGENTE: utiliza el lector de huellas dactilares para iniciar sesión de forma rápida y segura e interactúa con Cortana gracias al Wake On Voice (WoV) incluso cuando la pantalla está apagada y el dispositivo está en standby
+- DISEÑO LIGERO: Swift 3 es un portátil ligero y delgado con un fino chasis metálico y una batería de larga duración con opción de carga rápida, diseñado para satisfacer tus necesidades de trabajo en cualquier parte
 - COMUNICACIÓN RÁPIDA: el portátil Swift 3 está equipado con Wi-Fi 6 de doble banda (802.11ax) y un puerto USB-C SuperSpeed de 10Gbps para una transferencia ultrarrápida de datos, vídeo y carga de la batería
 - PROCESAMIENTO POTENTE: las aplicaciones se cargan más rápido, los gráficos funcionan mejor y la multitarea es más eficiente en este PC portátil con memoria RAM de 8 GB, tarjeta gráfica integrada UMA, disco SSD de 512 GB PCIe NVMe y procesador AMD Ryzen 3 3200U
-- PANTALLA FULL HD: los colores y detalles dan vida a las imágenes y los vídeos; mediante el uso de biseles delgados y una gran relación pantalla-cuerpo, los usuarios pueden ver aún más en la pantalla IPS de 14 pulgadas FHD
-- DISEÑO LIGERO: Swift 3 es un portátil ligero y delgado con un fino chasis metálico y una batería de larga duración con opción de carga rápida, diseñado para satisfacer tus necesidades de trabajo en cualquier parte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5JM5ZS/?tag=tolees-21)
