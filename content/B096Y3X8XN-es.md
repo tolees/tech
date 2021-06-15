@@ -28,13 +28,13 @@ En este momento está [Huawei Matebook D14 - Ordenador Portátil Ultrafino de 14
 
 🔎:
 
+- Seguridad avanzada para correo electrónico y archivos
 - Versiones instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características todos los meses
 - Memoria RAM de 8GB DDR4 2400MHz
-- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
-- Almacenamiento de 512GB SSD NVMe PCIe
-- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
 - Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
+- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
+- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
+- Almacenamiento de 512GB SSD NVMe PCIe
 - Correo electrónico, calendarios y tareas: Outlook
-- Seguridad avanzada para correo electrónico y archivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B096Y3X8XN/?tag=tolees-21)

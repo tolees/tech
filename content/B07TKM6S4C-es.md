@@ -28,13 +28,13 @@ Tienes [iRobot Braava jet 250 Robot friegasuelos con pulverizador de chorro a pr
 
 🔎:
 
-- Cabezal de limpieza vibratorio: El cabezal de limpieza vibratorio frota suavemente hacia delante y hacia atrás como lo harías tú
 - Fabricamos robots duraderos y respaldados por nuestro servicio postventa, cuya calidad ha recibido el premio al mejor servicio de atención al cliente en aspiración* del año 2021; *205 contactos de Mystery Shopper mediante canales a distancia y 2.000 entrevistas online; Trabajo de campo realizado entre mayo y septiembre 2020
+- Pulverizador de chorro a presión: El pulverizador de chorro a presión despega la suciedad y las manchas* sin alcanzar los muebles, las alfombras ni las paredes;* Probado en modo de fregado en húmedo sobre café y refresco secos
 - Óptimo para cocinas y baños ya que llega a lugares de difícil acceso, incluido debajo y en torno al inodoro, las esquinas y debajo de los armarios
-- iRobot tiene más de 30 años de experiencia en robótica e innovación con más de 30 millones de robots para el hogar vendidos en todo el mundo; Tanto si eliges Roomba, Braava o ambos, tus suelos reciben el cuidado especializado que merecen
-- Un, dos, tres y listo: Coloca un paño de limpieza Braava jet; Añade agua; Simplemente pulsa CLEAN
+- Cabezal de limpieza vibratorio: El cabezal de limpieza vibratorio frota suavemente hacia delante y hacia atrás como lo harías tú
 - Llega a los lugares más difíciles: Su tamaño compacto y su diseño para bordes y esquinas maximizado ayudan a Braava jet a limpiar lugares de difícil acceso, incluidas esquinas y debajo de los armarios
 - Robot friegasuelos 3 en 1: Elige entre paños para fregar en profundidad, pasar la mopa en húmedo o pasar la mopa en seco;Braava jet selecciona automáticamente el modo de limpieza adecuado en función del tipo de paño
-- Pulverizador de chorro a presión: El pulverizador de chorro a presión despega la suciedad y las manchas* sin alcanzar los muebles, las alfombras ni las paredes;* Probado en modo de fregado en húmedo sobre café y refresco secos
+- iRobot tiene más de 30 años de experiencia en robótica e innovación con más de 30 millones de robots para el hogar vendidos en todo el mundo; Tanto si eliges Roomba, Braava o ambos, tus suelos reciben el cuidado especializado que merecen
+- Un, dos, tres y listo: Coloca un paño de limpieza Braava jet; Añade agua; Simplemente pulsa CLEAN
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TKM6S4C/?tag=tolees-21)

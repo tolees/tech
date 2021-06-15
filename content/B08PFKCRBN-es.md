@@ -28,11 +28,11 @@ En este momento está [HP 15s-eq1072ns - Ordenador portátil de 15.6" FullHD  Ry
 
 🔎:
 
-- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
-- Sin sistema operativo
 - Procesador Ryzen 3-4300U
-- 8GB de memoria RAM
+- Sin sistema operativo
 - Pantalla de 15.6" FullHD
+- 8GB de memoria RAM
 - Almacenamiento de 512GB SSD
+- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFKCRBN/?tag=tolees-21)
