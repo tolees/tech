@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - GC Pro Cargador para Portátil HP Omen 15-5
 
 🔎:
 
-- Cargador Green Cell PRO para la computadora portátil HP Omen 15-5000 17-W HP Envy 15-J 17-J: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
-- Potencia: 120W | Voltaje: 19.5V | Intensidad: 6.15A | Tipo de enchufe: redondo con pin (4.5-3.0mm)
-- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
 - Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
 - Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
+- Potencia: 120W | Voltaje: 19.5V | Intensidad: 6.15A | Tipo de enchufe: redondo con pin (4.5-3.0mm)
+- Cargador Green Cell PRO para la computadora portátil HP Omen 15-5000 17-W HP Envy 15-J 17-J: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
+- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WHPLVYJ/?tag=tolees-21)
