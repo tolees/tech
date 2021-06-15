@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PG-540 Cartucho de tinta original  al 15.69 % de rebaja'
-date: 2021-06-11 09:22:48
+date: 2021-06-15 18:10:27
 image: 'https://m.media-amazon.com/images/I/41kldxJYZXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B005IW9PZG/?tag=tolees-21'
 descuento: '15.69'
-average: '15.734'
+average: '15.6733333333333'
 ---
 
 Tienes [Canon PG-540 Cartucho de tinta original Negro para Impresora de Inyeccion de tinta Pixma TS5150-TS5151-MX375-MX395-MX435-MX455-MX475-MX515-MX525-MX535-MG2150-MG2250-MG3150-MG3250-MG3550-MG3650-MG4150](https://www.amazon.es/dp/B005IW9PZG/?tag=tolees-21) con precio final de  15.37 EUR (original: 18.23 EUR) (15.69 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Canon PG-540 Cartucho de tinta original Negro para Impresora de Inyeccio
 
 🔎:
 
-- Cartucho original, ideal para tu impresora en la oficina o en casa
+- Compatible con Canon Pixma
 - Los documentos conservan la calidad del texto en negro durante décadas
 - Cantidad de 8 ml tinta negra
-- Compatible con Canon Pixma
 - Tinta de alta calidad
+- Cartucho original, ideal para tu impresora en la oficina o en casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IW9PZG/?tag=tolees-21)
