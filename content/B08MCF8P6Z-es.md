@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion X360 14-dw1023ns - Ordenador al 18.89 % de descuento'
-date: 2021-06-14 06:03:18
+date: 2021-06-15 10:11:33
 image: 'https://m.media-amazon.com/images/I/41E2JAj-KuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08MCF8P6Z/?tag=tolees-21'
 descuento: '18.89'
-average: '763.225294117647'
+average: '761.378888888889'
 ---
 
 Está [HP Pavilion X360 14-dw1023ns - Ordenador portátil convertible de 14" FullHD Táctil  Intel Core i7-1165G7  8GB de RAM  512GB SSD  Intel Iris Xe  Windows 10   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08MCF8P6Z/?tag=tolees-21) con 18.89 de descuento por 729.99 EUR (original: 899.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [HP Pavilion X360 14-dw1023ns - Ordenador portátil convertible de 14" Ful
 
 ℹ️:
 
-- Procesador Intel Core i7-1165G7
-- Tarjeta gráfica Integrada Intel Iris Xe
-- 8GB de memoria RAM
-- Almacenamiento de 512GB SSD
 - Pantalla de 14" FullHD Táctil
+- Tarjeta gráfica Integrada Intel Iris Xe
 - Windows 10
+- Almacenamiento de 512GB SSD
+- 8GB de memoria RAM
+- Procesador Intel Core i7-1165G7
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MCF8P6Z/?tag=tolees-21)

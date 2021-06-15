@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-eq1072ns - Ordenador portátil de  con un 17.78 % de descuento'
-date: 2021-06-14 05:37:38
+date: 2021-06-15 09:33:11
 image: 'https://m.media-amazon.com/images/I/41aONk6JqqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [HP 15s-eq1072ns - Ordenador portátil de 15.6" FullHD  Ry
 
 🔎:
 
+- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 - Sin sistema operativo
 - Procesador Ryzen 3-4300U
-- Pantalla de 15.6" FullHD
-- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
-- Almacenamiento de 512GB SSD
 - 8GB de memoria RAM
+- Pantalla de 15.6" FullHD
+- Almacenamiento de 512GB SSD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFKCRBN/?tag=tolees-21)
