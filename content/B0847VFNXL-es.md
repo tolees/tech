@@ -28,10 +28,10 @@ Ahora mismo tienes [HONOR Magic Watch 2  Pantalla 1.39 "AMOLED  Kirin A1  GPS GL
 
 🔎:
 
-- Pasa tus llamadas desde el móvil al reloj y habla a través del altavoz del dispositivo
-- Pantalla a color AMOLED de 1.39" para visualizar bien cualquier contenido
-- Su resistencia al agua de 5 atmósferas, te permite monitorizar deportes acuáticos
 - Autonomía sobresaliente, hasta 14 días, con GPS y todas las funciones activadas
+- Pantalla a color AMOLED de 1.39" para visualizar bien cualquier contenido
 - 9 sensores, para monitorizar toda tu actividad física con precisión: acelerómetro, giroscopio, magnetómetro, sensor óptico de ritmo cardíaco, medición de luz ambiental y barómetro
+- Pasa tus llamadas desde el móvil al reloj y habla a través del altavoz del dispositivo
+- Su resistencia al agua de 5 atmósferas, te permite monitorizar deportes acuáticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0847VFNXL/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [HOMCOM Mesa de Escritorio Mesa de Ordenador Espaciosa con
 
 🔎:
 
-- ✅PATAS FUNCIONALES Y DECORATIVAS: sus patas, además de mantener estable tu escritorio, resultan muy decorativas. Con este escritorio además de funcionalidad te llevas un plus de belleza.
-- ✅MEDIDAS: 112,5x50x75,5 cm (LxANxAL). Puedes soportar hasta 60 kg, el cajón 10 kg y el armario 20 kg.
-- ✅CAJÓN Y ARMARIO: en ellos podrás guardar diverso material de escritura, estudio y útiles de oficina como grapadoras, tijeras, etc. Así, su superficie se mantendrá ordenada para que puedas trabajar cómodamente.
-- ✅FÁCIL DE LIMPIAR: pásale un paño húmedo o seco para mantener tu escritorio siempre perfecto.
 - ✅ESCRITORIO CON ALMACENAJE: el espacio ideal para crear tu zona de estudio en el dormitorio o tu despacho en el salón, porque además de funcional resulta muy decorativo. Añadirás valor a la decoración de tu casa.
+- ✅CAJÓN Y ARMARIO: en ellos podrás guardar diverso material de escritura, estudio y útiles de oficina como grapadoras, tijeras, etc. Así, su superficie se mantendrá ordenada para que puedas trabajar cómodamente.
+- ✅MEDIDAS: 112,5x50x75,5 cm (LxANxAL). Puedes soportar hasta 60 kg, el cajón 10 kg y el armario 20 kg.
+- ✅PATAS FUNCIONALES Y DECORATIVAS: sus patas, además de mantener estable tu escritorio, resultan muy decorativas. Con este escritorio además de funcionalidad te llevas un plus de belleza.
+- ✅FÁCIL DE LIMPIAR: pásale un paño húmedo o seco para mantener tu escritorio siempre perfecto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C5JB88Y/?tag=tolees-21)
