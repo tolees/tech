@@ -28,8 +28,8 @@ Ahora mismo tienes [Microsoft Halo Wars 2  Xbox One vídeo - Juego  Xbox One  Xb
 
 🔎:
 
-- Multiplayer Kriegsführung – Führe deine Armeen und kämpfe auf Xbox Live in einer Vielzahl an Multiplayer Modi mit bis zu 6 Spielern gleichzeitig
 - Kreiere deine eigene Halo Armee – Baue Basislager, bereite Fahrzeuge vor und mehre deine Truppen
+- Multiplayer Kriegsführung – Führe deine Armeen und kämpfe auf Xbox Live in einer Vielzahl an Multiplayer Modi mit bis zu 6 Spielern gleichzeitig
 - Echtzeit-Strategie Epos im legendären Halo-Universum in 13 actiongeladenen Missionen am legendären Halo Schauplatz „The Ark“
 - Eine brandneue Story – basierend auf den Ereignissen von Halo 5
 
