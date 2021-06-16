@@ -28,11 +28,11 @@ En este momento está [HP Pavilion 14 x360 14-dw1018ns - Ordenador portátil con
 
 🔎:
 
+- Pantalla de 14" Full HD Táctil. Ordenador Convertible x360
+- Almacenamiento de 1TB SSD
+- Tarjeta gráfica integrada Intel Iris Xe
 - Procesador Intel Core i7 1165G7 quad
 - 8GB de memoria RAM
-- Almacenamiento de 1TB SSD
-- Pantalla de 14" Full HD Táctil. Ordenador Convertible x360
 - Windows 10
-- Tarjeta gráfica integrada Intel Iris Xe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MCDPVCJ/?tag=tolees-21)
