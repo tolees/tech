@@ -29,9 +29,9 @@ Ahora mismo tienes [MZFANG - runya Teclado Numérico Inalámbrico 2.4G Mini 18 T
 🔎:
 
 - INALÁMBRICO AVANZADO DE 2.4 GHz: disfrutará de la confiabilidad de un cable más la comodidad sin cables y la transmisión de datos rápida y libre de libertad, prácticamente sin demoras ni interrupciones. （El receptor USB está al lado del compartimento de la batería del producto.）
+- DISEÑO PORTÁTIL: esta sólida solución de entrada de números es fácil de llevar, por lo que puede trabajar con confianza y rapidez, donde sea y cuando sea whenever La parte inferior del teclado es tan delgada como 1 cm, mientras que la parte superior mide 2 cm. La inclinación lo hace más cómodo para escribir rápidamente.
+- COMPATIBILIDAD: funciona con PC y computadoras de escritorio que tienen sistemas operativos Windows 2000 / XP / Vista / 7/8/10, el teclado numérico no es totalmente compatible con el sistema Mac (las teclas de función no funcionan, mientras que la parte de las teclas numéricas funciona bien).
 - USO AMPLIO & Garantía: Adecuado para computadora portátil, gente de negocios, valores, unidad bancaria, oficina, etc., encontrará que su eficiencia laboral y productividad mejoran enormemente después de usar. Si tiene alguna pregunta, no dude en contactarnos y le daremos un resultado satisfactorio.
 - AHORRO DE ENERGÍA: Fuente de alimentación por 1 * batería AAA (no incluida); Entra en modo de suspensión automáticamente, ahorra energía, prolonga la duración de la batería; Cualquier tecla para despertar el teclado.
-- COMPATIBILIDAD: funciona con PC y computadoras de escritorio que tienen sistemas operativos Windows 2000 / XP / Vista / 7/8/10, el teclado numérico no es totalmente compatible con el sistema Mac (las teclas de función no funcionan, mientras que la parte de las teclas numéricas funciona bien).
-- DISEÑO PORTÁTIL: esta sólida solución de entrada de números es fácil de llevar, por lo que puede trabajar con confianza y rapidez, donde sea y cuando sea whenever La parte inferior del teclado es tan delgada como 1 cm, mientras que la parte superior mide 2 cm. La inclinación lo hace más cómodo para escribir rápidamente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YSQRYMR/?tag=tolees-21)

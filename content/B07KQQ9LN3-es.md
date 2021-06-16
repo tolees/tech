@@ -28,10 +28,10 @@ En este momento está [Xiaomi Mi Casual Daypack - Smartphone](https://www.amazon
 
 🔎:
 
-- Bolsa para botella
-- Volumen: 10 litros, resistente al agua
-- Correas de hombro ajustables
 - Circulación del aire en la parte posterior
+- Correas de hombro ajustables
+- Volumen: 10 litros, resistente al agua
+- Bolsa para botella
 - Tamaño: 34 x 22,5 x 13 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KQQ9LN3/?tag=tolees-21)
