@@ -28,8 +28,8 @@ Tienes [SSD SAMSUNG 250 GB 860 EVO SATA3  550/ 520MBs MZ-76E250B/ EU](https://ww
 
 🔎:
 
-- De alta calidad
 - Ssd Samsung 250 g860 evo sata3, 550/520mbs mz-76e250b/eu
 - Producto de la marca Samsung
+- De alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079DTMNWC/?tag=tolees-21)
