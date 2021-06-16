@@ -29,8 +29,8 @@ En este momento está [Kioxia 32Gb Exceria U1 Class 10 Microsd](https://www.amaz
 🔎:
 
 - Las tarjetas microSD de ExcERIA le dan una nueva dimensión a tu próxima aventura con velocidades de lectura rápidas y una amplia gama de capacidades
-- Graba hasta 1490 minutos de vídeo Full HD a 21 Mbps y crea hasta 38.510 fotos (18 megapíxeles) cuando y donde quieras
 - MICROSD KIOXIA 32GB EXCERIA UHS-1 C10 R100 ADAPTADOR
 - Memoria: 32
+- Graba hasta 1490 minutos de vídeo Full HD a 21 Mbps y crea hasta 38.510 fotos (18 megapíxeles) cuando y donde quieras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088RQCCDJ/?tag=tolees-21)

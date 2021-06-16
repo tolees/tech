@@ -28,12 +28,12 @@ En este momento está [Epson Expression Home XP 3100 - Impresora Multifunción C
 
 🔎:
 
-- facil de instalar
-- negro
 - Velocidad de impresión ISO/IEC 24734: 10 páginas/minuto Monocromo, 5 páginas/minuto Color
-- Impresora Multifunción Color
-- Dimensiones del producto: 375‎ x 300 x 170 mm (ancho x profundidad x altura)
 - Formatos papel: A4, A5, A6, B5, C6 (sobre), DL (sobre), No. 10 (sobre), Carta legal, 9 x 13 cm, 10 x 15 cm, 13 x 18 cm, 13 x 20 cm, 20 x 25 cm, 100 x 148 mm, 16:9
+- Dimensiones del producto: 375‎ x 300 x 170 mm (ancho x profundidad x altura)
+- facil de instalar
+- Impresora Multifunción Color
+- negro
 - facil de usar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VBQZRH3/?tag=tolees-21)
