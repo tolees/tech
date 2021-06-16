@@ -30,8 +30,8 @@ Ahora mismo tienes [ProCase Funda para iPad Air 4ª Gen 2020 10.9" A2324/A2072/A
 
 - 🚩 【Portalápiz Incorporado】Soporte incorporado para guardar el Apple Pencil mientras se carga de forma inalámbrica; Admite la función Auto Sleep / Wake; El imán asegura el cierre del estuche, fácil de poner y quitar
 - 🚩 【Fácil de Poner y Quitar】La cubierta trasera esmerilada translúcida de TPU suave le permite ver el ícono de Apple a través de su color favorito y proteger su dispositivo contra huellas dactilares y rasguños mientras tanto, también la carcasa se puede instalar y quitar fácilmente
-- 🚩 【Compatibilidad】Configure bien su TOUCH ID primero antes de poner su iPad en la funda. Estuche protector delgado para Apple iPad Air 4ª Generación 10.9" 2020 (Modelos: A2324/A2072/A2316/A2325). No es compatible con ningún otro dispositivo. Comprueba la parte inferior trasera de tu iPad para encontrar el número de modelo.
 - 🚩 【Delgada y Estable】El diseño de respaldo flexible ultradelgado y liviano agrega un volumen mínimo al tiempo que ofrece un soporte estable para su dispositivo
 - 🚩 【Recortes Precisos】Acceso completo a todas las funciones (cámaras, altavoz, puertos y botones), pero NO es compatible con el teclado inteligente en esta funda
+- 🚩 【Compatibilidad】Configure bien su TOUCH ID primero antes de poner su iPad en la funda. Estuche protector delgado para Apple iPad Air 4ª Generación 10.9" 2020 (Modelos: A2324/A2072/A2316/A2325). No es compatible con ningún otro dispositivo. Comprueba la parte inferior trasera de tu iPad para encontrar el número de modelo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08N527VCN/?tag=tolees-21)
