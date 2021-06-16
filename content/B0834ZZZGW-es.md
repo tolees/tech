@@ -28,10 +28,10 @@ Tienes [Netac Tarjeta de Memoria de 32GB  Tarjeta Memoria microSDXC A1  U1  C10 
 
 🔎:
 
-- construido para durar fiabilidad: la tarjeta de memoria a prueba de choque también es a prueba de agua, a prueba de temperatura, prueba de rayos x y la prueba magnética. nunca se preocupe por la tarjeta sd micor no está disponible después de pasar por la máquina de rayos x.
-- nota: El formato inicial de la micro tarjeta varía según la capacidad (el formato por debajo de 32G es FAT32 y el formato por encima de 64G es exFAT). La capacidad real es ligeramente menor que la capacidad marcada, esto es normal, tenga la seguridad.
 - alto rendimiento: aplicaciones se cargan más rápido con un rendimiento nominal-a1 (rendimiento a1 es 1500 leer iops, 500 iops de escritura. basado en pruebas internas. los resultados pueden variar en función de dispositivo host, el tipo de aplicación y otros factores.)
+- nota: El formato inicial de la micro tarjeta varía según la capacidad (el formato por debajo de 32G es FAT32 y el formato por encima de 64G es exFAT). La capacidad real es ligeramente menor que la capacidad marcada, esto es normal, tenga la seguridad.
 - transporte de alta velocidad: la interfaz microsdhc admite la tarjeta uhs-i, la velocidad de clase u1 / v10. transferencia de lectura a velocidades de hasta 90 mb / s, la escritura de 10 mb de velocidad / s (basado en pruebas internas; rendimiento puede ser inferior dependiendo del dispositivo anfitrión, de la interfaz, las condiciones de uso y otros factores.), formato fat32.
+- construido para durar fiabilidad: la tarjeta de memoria a prueba de choque también es a prueba de agua, a prueba de temperatura, prueba de rayos x y la prueba magnética. nunca se preocupe por la tarjeta sd micor no está disponible después de pasar por la máquina de rayos x.
 - ampliamente aplicación: la tarjeta micro sd es alta compatibilidad para diferentes tipos de dispositivos, incluyendo teléfonos inteligentes, tabletas, aviones no tripulados, tablets android, tablet pcs, cámaras de acción, interruptor de nintendo, réflex y videocámaras full hd.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0834ZZZGW/?tag=tolees-21)
