@@ -30,8 +30,8 @@ Ahora mismo tienes [LORYERGO Soporte de Monitor con 3 Alturas Ajustables Monitor
 
 - 【3 Alturas De VisualizaciÓn Ajustables 】Soporte para monitor proporciona ángulos de visión ergonómicos flexibles con 3 alturas ajustables de 5,9 cm / 9,5 cm / 13,2 cm, alivia la carga en el cuello y los hombros. Utiliza las extensiones de las piernas que se pueden agregar o quitar muy fácilmente manualmente para ajustar la altura. Fácil de conseguir una posición de trabajo perfecta y el ángulo de visión más cómodo.
 - 【Excelente Compatibilidad】El elevador para monitor con una plataforma de 37 * 27 cm, puede soportar hasta 20 kg de monitores, computadoras portátiles, tabletas,smartphones, impresoras y más. Este soporte vertical para monitor es la solución de oficina ideal para optimizar su espacio de trabajo.
-- 【Material Resistente 】Construcción robusta y sofisticada ABS material. Las piernas estable soporta sus dispositivos en su lugar sin tambalearse y le regala a su escritorio elegancia.
 - 【Espacio De Trabajo Espacioso】La ranura multifuncional en la plataforma puede guardar su teléfono, tableta y lápiz, mantener su escritorio ordenado y organizado. El espacio debajo del soporte del monitor le permite almacenar sus suministros de oficina y ampliar su espacio de trabajo.
+- 【Material Resistente 】Construcción robusta y sofisticada ABS material. Las piernas estable soporta sus dispositivos en su lugar sin tambalearse y le regala a su escritorio elegancia.
 - 【Fácil de Montar】El soporte del monitor se puede montar en 2 minutos o menos sin utilizar ninguna herramienta, por lo que puede utilizarlo de inmediato. Fácil instalación simplemente colocando segmentos de patas en la plataforma a su altura preferida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7X7XZX/?tag=tolees-21)
