@@ -28,10 +28,10 @@ Tienes [KFD 12V 2.58A Cargador Fuente de alimentación Adaptador para Microsoft 
 
 ℹ️:
 
-- Compatible con Microsoft Surface Pro 3/Pro 4/Pro 2017, Microsoft Surface Pro, Surface Laptop, Surface Pro 3, Surface Pro 4, Surface Pro 5, Para Microsoft Surface Pro 4 Tablet, 2015, m3-6Y30 / i5-6300U /i7-6650U, Surface Pro 3 Tablet, 2014, i3-4020Y / i5-4300U / i7-4650U, Surface Pro 5 Tablet
 - Entrada: 100-240V 50-60Hz, Salida: DC 12V 2.58A ( Tienes que prestar atención al que si el tamaño esté corresponte a su original)
-- KFD AC Adaptadores son fabricados con mejor materiales e incluyen funciones de protección de portátiles contra tensión incorrecta, cortocircuito, sobrecalentamiento interno /con los certificados TÜV, GS, CE, ROHS, FCC, REACH, cambia productos o devuelve dinero durante 30 dias por gratis, 1 años de garantía
 - !!!!!!! No es compatible con Microsoft Surface Pro 1, Surface Pro 2, Surface 2, Surface 3, Surface Pro 4 Intel Core m3-6Y30 (0.9 a 2.2 GHz), Surface RT, Nueva Surface Pro(Surface Pro 5, Número de modelo: 1796).
 - Paquete incluyen: 1 x KFD cargador con Europa enchufe.Un serie tiene diferentes versiones de portátil, no todo los cargadores está 100% compatible con su ordenador portátil, si no esá confirmado, por favor contactarnos.
+- Compatible con Microsoft Surface Pro 3/Pro 4/Pro 2017, Microsoft Surface Pro, Surface Laptop, Surface Pro 3, Surface Pro 4, Surface Pro 5, Para Microsoft Surface Pro 4 Tablet, 2015, m3-6Y30 / i5-6300U /i7-6650U, Surface Pro 3 Tablet, 2014, i3-4020Y / i5-4300U / i7-4650U, Surface Pro 5 Tablet
+- KFD AC Adaptadores son fabricados con mejor materiales e incluyen funciones de protección de portátiles contra tensión incorrecta, cortocircuito, sobrecalentamiento interno /con los certificados TÜV, GS, CE, ROHS, FCC, REACH, cambia productos o devuelve dinero durante 30 dias por gratis, 1 años de garantía
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TZQD5MK/?tag=tolees-21)
