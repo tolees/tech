@@ -28,11 +28,11 @@ En este momento está [ELBE REC-21-IPBT - Receptor Bluetooth para Docking  músi
 
 🔎:
 
-- Formato Bluetooth 2.0
-- Transmisión de sonido vía Bluetooth
+- Área de recepción de 10 m
 - No necesita pilas ni baterías
 - Perfiles soportados: A2DP, AVRCP
-- Área de recepción de 10 m
+- Transmisión de sonido vía Bluetooth
 - Cambia cada docking al aparato inalámbrico
+- Formato Bluetooth 2.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AIN3CYK/?tag=tolees-21)
