@@ -28,8 +28,8 @@ Ahora mismo tienes [Radio de escritorio portátil Sangean WR-7  sintonizador FM-
 
 🔎:
 
-- Producto de alta calidad, con diseño funcional
 - Marca: Sangean
 - WR-7 (Genuine Mini) Nogal
+- Producto de alta calidad, con diseño funcional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHSHTQJ/?tag=tolees-21)

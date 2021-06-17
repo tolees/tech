@@ -28,14 +28,14 @@ En este momento está [Apple iPhone 11 Pro MAX  256 GB  - de en Verde Noche](ht
 
 🔎:
 
-- Face id para autenticarse deforma segura y usar applepay
-- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
 - Carga inalámbrica
-- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
 - Pantalla OLED super retina xdr de 6,5 pulgadas
-- Carga rápida con el adaptador de 18w incluido
 - Chip a13 bionic con neural engine de 3.ª generación
+- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Carga rápida con el adaptador de 18w incluido
 - Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
+- Face id para autenticarse deforma segura y usar applepay
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XS5FQ3N/?tag=tolees-21)
