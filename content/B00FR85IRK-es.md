@@ -30,10 +30,10 @@ Tienes [Fujifilm Instax Mini 90 Neo Classic  color Negro](https://www.amazon.es/
 
 - Cámara instantánea de altas prestaciones
 - Utiliza película color Fujifilm Instax Mini
-- Cuenta con macro, doble exposición, autodisparador, larga exposición, rosca para trípode
 - Contenido de la caja: cámara, correa, batería recargable de iones de litio, cargador y manuales
-- Variedad de funciones y modos de exposición para mejorar tus fotos
-- Pierna focal máxima: 60
 - Diseñada con un aspecto clásico
+- Variedad de funciones y modos de exposición para mejorar tus fotos
+- Cuenta con macro, doble exposición, autodisparador, larga exposición, rosca para trípode
+- Pierna focal máxima: 60
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FR85IRK/?tag=tolees-21)

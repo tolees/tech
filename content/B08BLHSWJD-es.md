@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigabyte Technology B460M DS3H con un 17.09 % de descuento'
-date: 2021-06-09 19:01:22
+date: 2021-06-17 19:30:57
 image: 'https://m.media-amazon.com/images/I/51w3uj2FnuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigabyte Technology'
 buyurl: 'https://www.amazon.es/dp/B08BLHSWJD/?tag=tolees-21'
 descuento: '17.09'
-average: '74.3233333333333'
+average: '74.99'
 ---
 
 En este momento está [Gigabyte Technology B460M DS3H](https://www.amazon.es/dp/B08BLHSWJD/?tag=tolees-21) a 76.99 EUR (original: 92.86 EUR) (17.09 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Gigabyte Technology B460M DS3H](https://www.amazon.es/dp/
 
 🔎:
 
-- Capacidad de la memoria ram (gb): 1.0 gb
-- Producto resistente
-- Placa base gigabyte ga-b460m-ds3h (s.1200)
 - Marca: Gigabyte Technology
+- Placa base gigabyte ga-b460m-ds3h (s.1200)
+- Producto resistente
+- Capacidad de la memoria ram (gb): 1.0 gb
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLHSWJD/?tag=tolees-21)
