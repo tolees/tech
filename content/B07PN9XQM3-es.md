@@ -29,9 +29,9 @@ En este momento está [GEEETECH Impresora 3D de madera Prusa I3 Pro W Kit de bri
 🔎:
 
 - 3. Mayor estabilidad y fiabilidad: Placas de madera de calidad de 6mm de grosor y su estructura de refuerzo mantienen I3 pro W funcionando suavemente.
+- 1. Sistema de filament compatible: ABS/PLA/Flexible PLA
 - 2.Calidad de impresión: la resolución de la capa y la tolerancia ofrecen un acabado superficial liso y una estructura duradera del objeto. Fácil de montar y ajustar: otras partes simplificadas y reforzadas, el tiempo de ahorro y lleno de la sensación de logro.
 - 5. Easy Print 3D App: viene con funciones de impresión y control, una galería de modelos 3D gratuitos y la comunidad de impresión en 3D. Junto con la conectividad Wi-Fi, la aplicación Easy Print 3D brinda una experiencia satisfactoria de la era de impresión en la nube 3D.
-- 1. Sistema de filament compatible: ABS/PLA/Flexible PLA
 - 4. Solución de impresión en la nube 3D: utilizar un módulo Wi-Fi para disfrutar de la impresión 3D sin ataduras. (Nota: el módulo Wi-Fi no está incluido en este kit, es necesario comprarlo por separado.)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PN9XQM3/?tag=tolees-21)
