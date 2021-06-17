@@ -28,11 +28,11 @@ Tienes [Acer Spin 3 - Portátil táctil convertible 13.3" WUXGA  Intel Core i3-1
 
 🔎:
 
-- Tarjeta gráfica integrada UMA Graphics
 - Procesador IntelCore i3-1115G4
-- Pantalla de 13.3" WUXGA IPS SlimBezel touch w/AES
+- Tarjeta gráfica integrada UMA Graphics
 - Sistema operativo Windows 10 Home
-- Memoria RAM de 8GB
 - Almacenamiento de 256GB SSD
+- Memoria RAM de 8GB
+- Pantalla de 13.3" WUXGA IPS SlimBezel touch w/AES
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SW199MG/?tag=tolees-21)
