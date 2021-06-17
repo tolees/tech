@@ -28,8 +28,8 @@ Tienes [Epson C11CG29402 Expression Home XP-5100 - Impresora Color  Negro Mate](
 
 🔎:
 
-- Con la impresión a doble cara en tamaño a4, una bandeja de papel de carga frontal de hasta 150 hojas, ranura para tarjetas de memoria y una gran pantalla lcd de 6,1.cm
-- Este asequible, elegante y compacto equipo multifunción queda fantástico desde cualquier ángulo
 - Con los cartuchos de tinta independientes, las tintas 502 de cuatro colores de epson ofrecen impresiones fiables, brillantes y claras con una inversión mínima
+- Este asequible, elegante y compacto equipo multifunción queda fantástico desde cualquier ángulo
+- Con la impresión a doble cara en tamaño a4, una bandeja de papel de carga frontal de hasta 150 hojas, ranura para tarjetas de memoria y una gran pantalla lcd de 6,1.cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B8HKF4K/?tag=tolees-21)
