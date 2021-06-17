@@ -28,10 +28,10 @@ Ahora mismo tienes [Hori - Pokémon Trainer Pack Pikachu  Nintendo Switch / Swit
 
 🔎:
 
-- Correa regulable
-- Reverso almohadillado y perforado para una adecuada transpiración
-- Licencias oficiales de Nintendo y Pokémon
 - Bolsillo externo para almacenamiento extra
 - Espacio para una consola Switch y accesorios (mando, cable de alimentación, juegos, etc.)
+- Reverso almohadillado y perforado para una adecuada transpiración
+- Licencias oficiales de Nintendo y Pokémon
+- Correa regulable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WWZZBSQ/?tag=tolees-21)
