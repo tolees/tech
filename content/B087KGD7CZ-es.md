@@ -28,11 +28,11 @@ Ahora mismo tienes [Microsoft Surface Go 2 Ordenador portátil 2 en 1 de 10.5 pu
 
 🔎:
 
-- Sistema operativo Windows 10 Home
 - No incluye Type Cover (funda con teclado),no incluye ranura para tarjeta SIM
-- Almacenamiento eMMC de 64 GB
-- Procesador Dual-Core Intel Pentium Gold 4425Y (2 núcleos, 2 MB Cache, 1.7 GHz)
 - Pantalla táctil de 10.5 pulgadas, Full HD 1920 x 1080 pixels
 - Memoria RAM de 4 GB
+- Procesador Dual-Core Intel Pentium Gold 4425Y (2 núcleos, 2 MB Cache, 1.7 GHz)
+- Almacenamiento eMMC de 64 GB
+- Sistema operativo Windows 10 Home
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087KGD7CZ/?tag=tolees-21)

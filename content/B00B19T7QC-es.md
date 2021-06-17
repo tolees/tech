@@ -28,10 +28,10 @@ Ahora mismo tienes [ASUS VG248QE Serie VG248 - Monitor Gaming de 24" Full-HD  19
 
 🔎:
 
-- Ajustable en altura, inclinación y angulo de giro
-- Incorpora altavoces estéreo y tiene dos puertos DisplayPort
-- Compatible con el kit NVIDIA 3D Vision 2, gracias a las tecnología de las gafas NVIDIA 3D Vision 2
 - Brillo de 350 cd/m² y ASUS Smart Contrast Ratio para mejorar la calidad de imagen
 - Monitor gaming de 24 FullHD (1920x1080) con una tasa de refresco de 144Hz y tiempo de respuesta de 1ms, óptimo para disfrutar de los juegos con una experiencia fluida
+- Incorpora altavoces estéreo y tiene dos puertos DisplayPort
+- Compatible con el kit NVIDIA 3D Vision 2, gracias a las tecnología de las gafas NVIDIA 3D Vision 2
+- Ajustable en altura, inclinación y angulo de giro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00B19T7QC/?tag=tolees-21)
