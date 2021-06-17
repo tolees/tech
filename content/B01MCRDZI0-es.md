@@ -28,10 +28,10 @@ Tienes [Green Cell PRO - Green Cell® Standard Serie BATBL50L6 Batería para Ace
 
 ℹ️:
 
-- Batería de la renombrada marca Green Cell 100% compatible con la batería BATBL50L6
+- Capacidad: 4400 mAh | Tensión: 11.1V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
 - Compatible con los ordenadores portátiles: Acer Aspire 3100 3650 3690 5100 5101 5102 5103 5110 5200 5610 5630 5650 5680
 - Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
+- Batería de la renombrada marca Green Cell 100% compatible con la batería BATBL50L6
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
-- Capacidad: 4400 mAh | Tensión: 11.1V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MCRDZI0/?tag=tolees-21)
