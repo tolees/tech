@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 11 Pro MAX  256 GB  - de en con un 15.14 % de descuento'
-date: 2021-05-19 19:06:24
+date: 2021-06-17 06:36:40
 image: 'https://m.media-amazon.com/images/I/41YQjtzk7UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B07XS5FQ3N/?tag=tolees-21'
 descuento: '15.14'
-average: '1248.25812500001'
+average: '1233.89611111112'
 ---
 
 En este momento está [Apple iPhone 11 Pro MAX  256 GB  - de en Verde Noche](https://www.amazon.es/dp/B07XS5FQ3N/?tag=tolees-21) a 1119.0 EUR (original: 1318.67 EUR) (15.14 %  de descuento) en el siguiente enlace!
@@ -28,14 +28,14 @@ En este momento está [Apple iPhone 11 Pro MAX  256 GB  - de en Verde Noche](ht
 
 🔎:
 
-- Carga inalámbrica
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
-- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
-- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
-- Pantalla OLED super retina xdr de 6,5 pulgadas
 - Face id para autenticarse deforma segura y usar applepay
-- Chip a13 bionic con neural engine de 3.ª generación
+- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
+- Carga inalámbrica
 - Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Pantalla OLED super retina xdr de 6,5 pulgadas
 - Carga rápida con el adaptador de 18w incluido
+- Chip a13 bionic con neural engine de 3.ª generación
+- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XS5FQ3N/?tag=tolees-21)
