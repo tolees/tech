@@ -29,7 +29,7 @@ Está [HP ENVY 7134 4800 x 1200DPI Inyección de tinta térmica A4 14ppm Wifi - 
 ℹ️:
 
 - HP INC.
-- 2 años
 - Z3M48B#BHC
+- 2 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076CQQC6W/?tag=tolees-21)
