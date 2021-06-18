@@ -28,8 +28,8 @@ En este momento está [Nintendo - Pokémon Snap](https://www.amazon.es/dp/B08BMF
 
 🔎:
 
-- Explora islas que te quitarán el hipo
 - Prepárate para New Pokémon Snap, una aventura totalmente nueva para Nintendo Switch, inspirada en Pokémon Snap, el clásico juego de Nintendo 64.
+- Explora islas que te quitarán el hipo
 - Completa tu Fotodex Pokémon
 - Saca las mejores fotos de Pokémon
 - Descubre Pokémon salvajes y llenos de energía.
