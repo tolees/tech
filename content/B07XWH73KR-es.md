@@ -28,10 +28,10 @@ En este momento está [Easycargo - Juego de disipador de calor RAM de memoria de
 
 🔎:
 
-- Cinta adhesiva conductora térmica 3M 8810 preaplicada
-- Diseñado para la disposición física SO-DIMM de memoria RAM. Dimensiones: 63 mm x 23 mm x 0,5 mm (largo x ancho x alto)
 - Peso: 5 gramos por pieza
-- Disipador de calor de cobre de bajo perfil para enfriar portátiles y notebooks Memory RAM.
 - Compatible con SO-DIMM RAM de los ordenadores portátiles, portátiles y ordenadores de sobremesa personales.
+- Cinta adhesiva conductora térmica 3M 8810 preaplicada
+- Disipador de calor de cobre de bajo perfil para enfriar portátiles y notebooks Memory RAM.
+- Diseñado para la disposición física SO-DIMM de memoria RAM. Dimensiones: 63 mm x 23 mm x 0,5 mm (largo x ancho x alto)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XWH73KR/?tag=tolees-21)
