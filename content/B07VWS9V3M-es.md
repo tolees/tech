@@ -28,10 +28,10 @@ En este momento está [HUAWEI MediaPad T5 - Tablet de 10.1" FullHD  Wifi  RAM de
 
 🔎:
 
-- No incluye ranura para tarjeta SIM.
-- Sistema Operativo Android 8.0+ EMUI 8.0.
-- Procesador Huawei Kirin 659 Octa-Core y altavoces estéreo duales Histen 5.0.
 - Pantalla táctil IPS FullHD de 10.1 pulgadas con una resolución de 1920 x 1200 píxeles, 224ppi y relación de aspecto de 16:10.
 - 4GB de RAM, 64GB de almacenamiento y batería de larga duración con 5100mAh.
+- Sistema Operativo Android 8.0+ EMUI 8.0.
+- No incluye ranura para tarjeta SIM.
+- Procesador Huawei Kirin 659 Octa-Core y altavoces estéreo duales Histen 5.0.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VWS9V3M/?tag=tolees-21)
