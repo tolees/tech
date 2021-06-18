@@ -29,9 +29,9 @@ Ahora mismo tienes [Nikon Aculon Sportstar EX 10X25 DCF WP - Binoculares  amplia
 🔎:
 
 - Diámetro de objetivo 25 mm
-- Ampliación 8x
-- Campo de visión aparente 65,6°
 - Campo de visión real 8,2°
+- Ampliación 8x
 - Pupila de salida 3,1 mm
+- Campo de visión aparente 65,6°
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000I27ERW/?tag=tolees-21)

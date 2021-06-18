@@ -28,9 +28,9 @@ Tienes [Nikon Monarch 82ED-A - Telescopio  1 m  Negro  108 mm  112 mm  1 64 kg ]
 
 ℹ️:
 
-- El sistema óptico apocromático avanzado con cristal ED (dispersión ultrabaja) minimiza la aparición de bordes coloreados
-- El sistema de lentes aplanadoras de campo ofrece nitidez exhaustiva en toda la superficie del objetivo
 - Calidad garantizada por el fabricante
+- El sistema óptico apocromático avanzado con cristal ED (dispersión ultrabaja) minimiza la aparición de bordes coloreados
 - Apto para la observación de aves como para contemplar la belleza intrínseca de la naturaleza
+- El sistema de lentes aplanadoras de campo ofrece nitidez exhaustiva en toda la superficie del objetivo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01INSC0QC/?tag=tolees-21)

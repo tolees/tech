@@ -28,10 +28,10 @@ En este momento está [HP 650 G1 - Ordenador portátil de 15 6"  Intel Core i5- 
 
 🔎:
 
-- Memoria RAM de 4 GB, de tipo DDR3
-- Almacenamiento de 320GB HDD
+- Procesador Intel Core i5-4300U caché de 3 M, hasta 2,90 GHz
 - Teclado en Español y numérico
 - Sistema operativo Windows 10 Profesional
-- Procesador Intel Core i5-4300U caché de 3 M, hasta 2,90 GHz
+- Memoria RAM de 4 GB, de tipo DDR3
+- Almacenamiento de 320GB HDD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PC3BWNY/?tag=tolees-21)
