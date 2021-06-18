@@ -28,15 +28,15 @@ En este momento está [realme 8 Smartphone Libre  Cámara cuádruple con IA de 6
 
 🔎:
 
-- Super ligero de 177g y 7,99mm: Diseño muy estiloso
+- Pantalla completa AMOLED superior de 16,3cm (6,4"): Escáner para huella dactilar ultrarrápido en pantalla
+- Procesador de juegos MediaTek Helio G95: Juego más fluido
+- Modo Selfie de 16MP: Modo Belleza IA, Modo retrato, Modo HDR, Modo Super Nightscape
+- Cámara cuádruple con IA de 64MP: Modo inclinación/desplazamiento y modo constelación
 - Carga Dart de 30 W: 00 % de batería en 65 minutos
 - Batería masiva de 5000 mAh: 40 días en espera
-- Modo Selfie de 16MP: Modo Belleza IA, Modo retrato, Modo HDR, Modo Super Nightscape
 - El realme 8 presenta un diseño muy futurista. El lado izquierdo representa nuestro mundo material, mientras que el lado derecho representa el misterioso mundo digital. Con un diseño dividido y un proceso de unión, el dispositivo fusiona la realidad y la ilusión de una forma visual única. El llamativo diseño te hará destacar
 - Funciones más interesantes: Refrigeración líquida con cobre, Certificación de audio Hi-Res, Espacio de juegos y asistente de juego
+- Super ligero de 177g y 7,99mm: Diseño muy estiloso
 - Tipo de conector: USB tipo C
-- Procesador de juegos MediaTek Helio G95: Juego más fluido
-- Cámara cuádruple con IA de 64MP: Modo inclinación/desplazamiento y modo constelación
-- Pantalla completa AMOLED superior de 16,3cm (6,4"): Escáner para huella dactilar ultrarrápido en pantalla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XVGTHTV/?tag=tolees-21)
