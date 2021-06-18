@@ -28,15 +28,15 @@ Tienes [LEGO 42100 Technic Control+ Excavadora Liebherr R 9800 Set de 
 
 🔎:
 
-- Control multifunción: conduce hacia delante o hacia atrás, maniobra, gira la superestructura, extiende, sube y baja la pluma, abre e inclina la cuchara y recibe información sobre el modelo, como la posición de la superestructura y la pluma, el consumo de energía y la distancia conducida.
-- Este modelo basado en una excavadora se acompaña de la app LEGO TECHNIC CONTROL+ para ofrecerte una experiencia de juego más envolvente y realista, ¡y horas de diversión!
-- Movimientos personalizados: usa los comandos predefinidos o graba las acciones del modelo para crear complejas secuencias de movimiento.
-- La Excavadora Liebherr R 9800 LEGO Technic controlada por app se maneja mediante un dispositivo inteligente con 4 pantallas de control alternativas. Visita LEGO.com/devicecheck para consultar la lista de dispositivos compatibles.
-- La app te permite conectarte a varios concentradores, garantizándote movimientos precisos y de gran realismo.
-- Esta réplica de la excavadora Liebherr R 9800, equipada con numerosas características y funciones de gran realismo, está rematada con una genuina combinación de colores y alucinantes detalles en adhesivos.
 - El Smarthub incluye conectividad Bluetooth Low Energy (BLE), un botón de activación, un sensor de 6 ejes y 4 puertos de conexión.
 - Cuenta con 3 motores XL, 4 motores L y 2 Smarthubs controlados por Bluetooth.
-- Desafíos y logros: supera desafíos para desbloquear insignias.
+- La app te permite conectarte a varios concentradores, garantizándote movimientos precisos y de gran realismo.
 - Control con un toque: selecciona un patrón de arrastre en pantalla y mira cómo responde la excavadora a tus órdenes.
+- Movimientos personalizados: usa los comandos predefinidos o graba las acciones del modelo para crear complejas secuencias de movimiento.
+- Control multifunción: conduce hacia delante o hacia atrás, maniobra, gira la superestructura, extiende, sube y baja la pluma, abre e inclina la cuchara y recibe información sobre el modelo, como la posición de la superestructura y la pluma, el consumo de energía y la distancia conducida.
+- Esta réplica de la excavadora Liebherr R 9800, equipada con numerosas características y funciones de gran realismo, está rematada con una genuina combinación de colores y alucinantes detalles en adhesivos.
+- Desafíos y logros: supera desafíos para desbloquear insignias.
+- La Excavadora Liebherr R 9800 LEGO Technic controlada por app se maneja mediante un dispositivo inteligente con 4 pantallas de control alternativas. Visita LEGO.com/devicecheck para consultar la lista de dispositivos compatibles.
+- Este modelo basado en una excavadora se acompaña de la app LEGO TECHNIC CONTROL+ para ofrecerte una experiencia de juego más envolvente y realista, ¡y horas de diversión!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NDBGW4G/?tag=tolees-21)
