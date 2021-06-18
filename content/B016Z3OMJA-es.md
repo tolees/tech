@@ -28,9 +28,9 @@ En este momento está [HP - Teclado - Anclaje - ESPA�a - para Pro 10 EE g1  Pr
 
 🔎:
 
+- Producto de calidad
+- Material duradero
 - Producto creado tanto para aficionados como para profesionales
 - Fácil de usar
-- Material duradero
-- Producto de calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016Z3OMJA/?tag=tolees-21)

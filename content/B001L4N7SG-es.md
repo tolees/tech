@@ -28,12 +28,12 @@ Ahora mismo tienes [Panasonic RP-HS47E-W - Auriculares de Clip Compactos Plegabl
 
 🔎:
 
-- Máxima potencia de entrada: 40 mW
-- Auriculares de poliamida- para una buena comodidad
-- Respuesta de frecuencia- 14 Hz- 24 kHz
 - Sensibilidad: 102.0 dB/mW
-- Respuesta de Frecuencia: 10 Hz - 25 kHz
 - Longitud del cable: 1.2 m
 - Diseño ultradelgado
+- Auriculares de poliamida- para una buena comodidad
+- Respuesta de frecuencia- 14 Hz- 24 kHz
+- Máxima potencia de entrada: 40 mW
+- Respuesta de Frecuencia: 10 Hz - 25 kHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001L4N7SG/?tag=tolees-21)
