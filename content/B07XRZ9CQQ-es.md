@@ -28,13 +28,13 @@ Tienes [Tamron AF 18-200 mm F/3.5-6.3 XR Di II VC - Objetivo para cámara Nikon 
 
 🔎:
 
-- Product 1: Estabilización de imagen VC y AF mejorado con solo 400 gramos
-- Product 2: Diámetro de 62 mm
 - Product 2: Ideal para reducir la neblina y evitar la borrosidad
-- Product 2: Absorbe los rayos ultravioleta y protege la lente frontal de la cámara de rayaduras / polvo / huellas digitales
-- Product 1: Objetivo con distancia focal de 18-200 mm y apertura f/3.5-6.3
-- Product 2: Añade claridad y nitidez a las imágenes
-- Product 1: Con 16 elementos en 14 grupos, utiliza un elemento LD para minimizar posibles aberraciones cromáticas
+- Product 2: Diámetro de 62 mm
 - Product 1: Compatible con cámaras Nikon D40, D40X y D60 (sensores APS-C)
+- Product 1: Con 16 elementos en 14 grupos, utiliza un elemento LD para minimizar posibles aberraciones cromáticas
+- Product 2: Añade claridad y nitidez a las imágenes
+- Product 1: Estabilización de imagen VC y AF mejorado con solo 400 gramos
+- Product 1: Objetivo con distancia focal de 18-200 mm y apertura f/3.5-6.3
+- Product 2: Absorbe los rayos ultravioleta y protege la lente frontal de la cámara de rayaduras / polvo / huellas digitales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XRZ9CQQ/?tag=tolees-21)

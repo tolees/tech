@@ -30,9 +30,9 @@ En este momento está [ASUS ROG GV301QH-K6069T - Ordenador Portátil Gaming de 1
 
 - Pantalla de 13.4" WUXGA (1920 x 1200)
 - Memoria RAM de 16GB (en placa) LPDDR4x
-- Windows 10 Home
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Almacenamiento de 512GB M.2 NVMe PCIe
 - Procesador AMD Ryzen 7 5800HS (2.8GHz, 16MB)
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Windows 10 Home
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGSJJZF/?tag=tolees-21)

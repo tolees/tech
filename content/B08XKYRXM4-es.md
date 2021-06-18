@@ -28,12 +28,12 @@ Tienes [HP 240 G8 - Ordenador portátil de 14” HD  Intel Celeron N4020  8GB RA
 
 🔎:
 
-- Windows 10 Home
-- Tarjeta gráfica integrada de Intel UHD Graphics 600
-- Batería 3 Celdas Ion-Litio 41 Wh
-- Almacenamiento SSD de 128GB
 - Intel Celeron N4020 (4MB Cache, 1.1GHz)
+- Tarjeta gráfica integrada de Intel UHD Graphics 600
+- Windows 10 Home
+- Batería 3 Celdas Ion-Litio 41 Wh
 - Memoria RAM de 8GB (2400MHz) DDR4-SDRAM (1 x 8)
+- Almacenamiento SSD de 128GB
 - Pantalla de 14" HD. Diagonal de la pantalla: 35,6 cm (14). Resolución de la pantalla: 1366 x 768 Pixeles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08XKYRXM4/?tag=tolees-21)
