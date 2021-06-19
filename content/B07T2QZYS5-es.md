@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.01 % en Amazon Basics - Filamento para impresora'
-date: 2021-06-17 12:40:17
+date: 2021-06-19 16:20:56
 image: 'https://m.media-amazon.com/images/I/51PkTCHQUtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Amazon Basics - Filamento para impresora 3D  tereftalato de polietileno 
 
 ℹ️:
 
-- Diseñado para reducir los atascos, incluye una bolsa de almacenamiento resellable, ideal para proteger el filamento entre los usos, lo mantiene seco y a salvo de la luz UV
-- Filamento para impresora 3D, (1,75 mm de diámetro, rojo, cinta de 1 kg); compatible con la mayoría de impresoras 3D (comprobar el tamaño de la cinta para asegurar la compatibilidad)
 - Fabricado con tereftalato de polietileno (PETG), conocido por su facilidad de uso (como el ácido poliláctico (PLA)), y su duradera dureza (como el plástico ABS), no requiere calor para su uso Además ofrece una gran adhesión y rigidez, y ofrece un acabado brillante
 - La cinta calibrada muestra el porcentaje de material y la longitud aproximada restantes
+- Filamento para impresora 3D, (1,75 mm de diámetro, rojo, cinta de 1 kg); compatible con la mayoría de impresoras 3D (comprobar el tamaño de la cinta para asegurar la compatibilidad)
+- Diseñado para reducir los atascos, incluye una bolsa de almacenamiento resellable, ideal para proteger el filamento entre los usos, lo mantiene seco y a salvo de la luz UV
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07T2QZYS5/?tag=tolees-21)
