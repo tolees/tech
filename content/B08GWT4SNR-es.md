@@ -29,9 +29,9 @@ Tienes [BoFanton - Funda Protectora para Samsung Galaxy Tab S6 Lite  SM-P610 / S
 🔎:
 
 - 4、Diseño de soporte portátil: el soporte incorporado se puede plegar, lo que es conveniente para estar de pie y mirar, y no ocupa espacio. El diseño portátil humanizado le permite salir fácilmente.
-- 2、Materiales de alta calidad: hechos de espuma EVA de alta densidad de alta resistencia, duradera, ligera, ecológica y sin sabor, muy adecuada para niños y adultos.
-- 1、Compatibilidad del modelo: una versión especialmente diseñada para Samsung Galaxy Tab S6 Lite 10.4 P610 / P615 2020
 - 5、Ajuste de la posición del orificio: diseño preciso de la posición del orificio, la apertura del molde 1: 1 de la máquina real es más atenta. Los botones, los parlantes, las cámaras y los puertos de carga se pueden usar rápidamente sin quitar la carcasa.
+- 2、Materiales de alta calidad: hechos de espuma EVA de alta densidad de alta resistencia, duradera, ligera, ecológica y sin sabor, muy adecuada para niños y adultos.
 - 3、Resistencia a caídas con todo incluido: la protección mejorada en las cuatro esquinas puede ayudar a las partes frágiles del iPad a resistir mejor las caídas accidentales
+- 1、Compatibilidad del modelo: una versión especialmente diseñada para Samsung Galaxy Tab S6 Lite 10.4 P610 / P615 2020
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GWT4SNR/?tag=tolees-21)
