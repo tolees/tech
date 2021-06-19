@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-fq2040ns - Ordenador portátil de  al 17.78 % de descuento'
-date: 2021-06-15 14:08:00
+date: 2021-06-19 01:31:55
 image: 'https://m.media-amazon.com/images/I/41XgPTAIHZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFKGZY6/?tag=tolees-21'
 descuento: '17.78'
-average: '398.323333333333'
+average: '394.275714285714'
 ---
 
 Está [HP 15s-fq2040ns - Ordenador portátil de 15.6" FullHD  Intel Core i3-1115G4  8GB de RAM  256GB SSD  Intel UHD Graphics  Sin sistema operativo   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08PFKGZY6/?tag=tolees-21) con 17.78 de descuento por 369.99 EUR (original: 449.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [HP 15s-fq2040ns - Ordenador portátil de 15.6" FullHD  Intel Core i3-1115
 
 ℹ️:
 
-- Tarjeta gráfica Integrada Intel UHD Graphics
-- 8GB de memoria RAM
-- Procesador Intel Core i3-1115G4
-- Pantalla de 39.6 cm (15.6") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC
 - Sin sistema operativo
+- Tarjeta gráfica Integrada Intel UHD Graphics
+- Procesador Intel Core i3-1115G4
+- 8GB de memoria RAM
+- Pantalla de 39.6 cm (15.6") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC
 - Almacenamiento de 256GB SSD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFKGZY6/?tag=tolees-21)
