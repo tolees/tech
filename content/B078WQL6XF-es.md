@@ -28,9 +28,9 @@ Está [Samsung Pro - Disco Estado Solido SSD  512 GB  560 megabytes/s  Color Neg
 
 ℹ️:
 
-- Escritura secuencial: 530MB/s
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
-- Dispone de interfaz SATA
 - Lectura secuencial: 560MB/s
+- Escritura secuencial: 530MB/s
+- Dispone de interfaz SATA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WQL6XF/?tag=tolees-21)
