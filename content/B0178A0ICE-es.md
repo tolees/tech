@@ -28,12 +28,12 @@ Tienes [Microsoft – Wireless Comfort Desktop 5050  Ratón y teclado QWERTY esp
 
 ℹ️:
 
+- Compatible con Windows
+- Estándar de cifrado avanzado (AES), diseñada para ayudar a proteger tu información al cifrar tus pulsaciones de teclas
+- Libertad sin cables y conveniencia
+- Reposamanos integrado: permite apoyar y enderezar las muñecas
+- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
 - Teclas de accesos directos de Windows personalizados para acceder fácilmente a sus programas favoritos
 - Ergonómico gracias a su diseño comfort curvado, favorece una posición natural de la muñeca
-- Libertad sin cables y conveniencia
-- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
-- Compatible con Windows
-- Reposamanos integrado: permite apoyar y enderezar las muñecas
-- Estándar de cifrado avanzado (AES), diseñada para ayudar a proteger tu información al cifrar tus pulsaciones de teclas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0178A0ICE/?tag=tolees-21)

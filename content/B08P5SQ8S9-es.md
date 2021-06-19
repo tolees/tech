@@ -28,10 +28,10 @@ Tienes [SriHome Webcam PC Full HD 1080P con micrófono estéreo  Webcam portáti
 
 🔎:
 
-- 5. 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
-- 3. Compatible con Windows XP / 2000/2003 / Vista / 7/8/10, Mac OS 10.6 y Android 5.0 o superior, funciona con Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger etc. Es compatible con USB 2.0/3.0
-- 4. DISEÑO DE USO-FÁCIL: Clip esta cámara de forma conveniente en los monitores de computadora de pantalla-plana y las pantallas de ordenador portátil o páratelo en los escritorios y otras superficies planas.
 - 1. MICRÓFONO ESTÉREO INCORPORADOS: Dual Micrófonos Digital garantizan un audio natural y cristalino mientras reducen el ruido del fondo en gran medida
+- 3. Compatible con Windows XP / 2000/2003 / Vista / 7/8/10, Mac OS 10.6 y Android 5.0 o superior, funciona con Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger etc. Es compatible con USB 2.0/3.0
+- 5. 1080P DEFINICIÓN ALTA: Censor de imagen CMOS de 1/2,9 " proporciona una calidad excelente de video de 1080p. Y ofrece video nítido y fluido para las videollamadas y grabaciones, con buen rendimiento incluso en habitaciones con poca luz (iluminación mínima de ≤5 lux)
+- 4. DISEÑO DE USO-FÁCIL: Clip esta cámara de forma conveniente en los monitores de computadora de pantalla-plana y las pantallas de ordenador portátil o páratelo en los escritorios y otras superficies planas.
 - 2. PLUG & PLAY: Gracias al Clase del USB Dispositivo de Video (UVC) esta webcam USB puede conectarse y reproducir video en 5 minutos no hay controladores o software para instalar, solo conéctelo y juegue, es una parte perfecta para su computadora
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P5SQ8S9/?tag=tolees-21)

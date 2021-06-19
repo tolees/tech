@@ -28,10 +28,10 @@ Tienes [Motorola Baby MBP161TIMER - Vigilabebés digital con pantalla y temporiz
 
 ℹ️:
 
-- Función de luz nocturna
 - Temporizador cuidado del bebé para recordar tareas importantes o para que le avise cuando es hora de alimentar a su bebé, cambiar el pañal, o cuando es hora de la siesta
+- Función de luz nocturna
+- 1.5" pantalla con luz de fondo
 - Tecnología DECT libre de interferencias
 - Termómetro para controlar la temperatura de la habitación y comunicación en ambos sentidos
-- 1.5" pantalla con luz de fondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015EUXDHW/?tag=tolees-21)
