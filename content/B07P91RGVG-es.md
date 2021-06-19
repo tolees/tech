@@ -29,8 +29,8 @@ Está [Microsoft Modern Mobile - ratón  ambidextro  Bluetooth y USB  Negro.](ht
 ℹ️:
 
 - El accesorio perfecto para tu dispositivo surface
-- Olvídate de los cables – se conecta inalámbricamente a través de bluetooth con cualquier dispositivo
-- Funciona en casi cualquier superficie gracias a la tecnología bluetrack
 - Perfecto para una navegación precisa
+- Funciona en casi cualquier superficie gracias a la tecnología bluetrack
+- Olvídate de los cables – se conecta inalámbricamente a través de bluetooth con cualquier dispositivo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P91RGVG/?tag=tolees-21)
