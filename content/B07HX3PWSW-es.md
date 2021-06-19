@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Green Cell PRO - Green Cell® Ultra Serie con un 27.30 % de descuento'
-date: 2021-06-08 23:18:08
+date: 2021-06-19 11:16:06
 image: 'https://m.media-amazon.com/images/I/31pSxdgTnkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Green Cell PRO - Green Cell® Ultra Serie KI04 Batería p
 
 🔎:
 
-- La batería de la renombrada marca Green Cell de la serie ULTRA. Es una batería de la serie más alta, dedicada a los usuarios más exigentes y que garantiza unos parámetros mejores que las baterías originales
 - Capacidad: 3400 mAh | Tensión: 14.8V | Número de celdas: 4 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil
+- La batería de la renombrada marca Green Cell de la serie ULTRA. Es una batería de la serie más alta, dedicada a los usuarios más exigentes y que garantiza unos parámetros mejores que las baterías originales
 - Compatible con los ordenadores portátiles: HP Pavilion 14-AB 15-AB 15-AK 17-G | 100% compatible con la batería KI04
 - Las celdas originales Panasonic garantizan un mayor tiempo de trabajo con la batería que en el caso de las baterías originales
 
