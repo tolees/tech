@@ -30,7 +30,7 @@ Está [Targus AMU75EU - Ratón Compacto  Multicolor](https://www.amazon.es/dp/B0
 
 - Facilidad de uso: evite que el cable extra ocupe su espacio de trabajo ajustando el cable retráctil a la longitud deseada
 - Diseño: diseño pequeño y compacto, perfecto cuando el espacio es limitado: en la bandeja del avión, la mesa de trabajo o la oficina en casa
-- La tecnología Blue Trace combina el poder de la tecnología óptica y la precisión de la tecnología láser para un movimiento perfecto en casi cualquier superficie incluyendo madera, granito, vidrio y moqueta
 - Tecnología de sensor óptico: la tecnología de sensor óptico más avanzada garantiza una respuesta rápida y precisa a los movimientos del ratón
+- La tecnología Blue Trace combina el poder de la tecnología óptica y la precisión de la tecnología láser para un movimiento perfecto en casi cualquier superficie incluyendo madera, granito, vidrio y moqueta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002QVJ1NS/?tag=tolees-21)
