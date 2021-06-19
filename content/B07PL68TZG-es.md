@@ -28,8 +28,8 @@ En este momento está [Fujifilm Instax mini película  Pack of 5 x 10 hojas  el 
 
 🔎:
 
+- Pack película instax mini 5 x 10 hojas
 - Tamaño de impresión 54 x 86 mm, tamaño de imagen 46 x 62 mm
 - Tamaño de tarjeta de crédito
-- Pack película instax mini 5 x 10 hojas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PL68TZG/?tag=tolees-21)
