@@ -28,9 +28,9 @@ Ahora mismo tienes [Energy Sistem Earphones Sport 1 Bluetooth  Auriculares inala
 
 🔎:
 
+- - LONG BATTERY LIFE: Batería recargable con hasta 8 horas duración en uso para que no falte la música en tus entrenamientos.
 - - SECURE-FIT: auriculares deportivos, ultraligeros con almohadillas intercambiables y arco de sujeción flexible que se ajusta a la oreja sin moverse del sitio.
 - - CONTROL TALK: Auriculares inalámbricos con función manos libres y micrófono integrado que permiten coger llamadas mientras se practica ejercicio.
-- - LONG BATTERY LIFE: Batería recargable con hasta 8 horas duración en uso para que no falte la música en tus entrenamientos.
 - - BLUETOOTH: Auriculares deportivos Bluetooth v4.1 para practicar deporte sin cables.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LQ272SI/?tag=tolees-21)
