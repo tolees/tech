@@ -28,10 +28,10 @@ Tienes [Acer Swift 3 - Ordenador portátil 14" FullHD  AMD Ryzen 3 3200U  8GB RA
 
 ℹ️:
 
-- Sistema operativo Windows 10 Home
-- Pantalla de 14" FullHD Acer ComfyViewIPS LED LCD
 - Almacenamiento de 512GB SSD PCIe NVMe
 - Procesador AMD Ryzen 3 3250U (2C / 4T, 2.6 / 3.5GHz, 1MB L2 / 4MB L3)
+- Pantalla de 14" FullHD Acer ComfyViewIPS LED LCD
+- Sistema operativo Windows 10 Home
 - Tarjeta gráfica integrada UMA Graphics
 - Memoria RAM de 8GB DDR4
 

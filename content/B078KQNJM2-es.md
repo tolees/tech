@@ -28,10 +28,10 @@ Ahora mismo tienes [Sunstech RPS42 - Radio portátil con Altavoz  Color Negro](h
 
 🔎:
 
+- Alimentación DC: 3V (2 x 1.5V AA / LR06, no incluidas)
+- Conexión para auriculares
 - Antena telescópica
 - Radio de bolsillo con sintonizador analógico AM y FM
-- Conexión para auriculares
-- Alimentación DC: 3V (2 x 1.5V AA / LR06, no incluidas)
 - Altavoz frontal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078KQNJM2/?tag=tolees-21)
