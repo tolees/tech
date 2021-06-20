@@ -28,8 +28,8 @@ Tienes [Canon EF-M 28mm f/3.5 Macro IS STM - Objetivo para cámara Canon  Negro]
 
 ℹ️:
 
-- Esta función proporciona iluminación adicional frente al objetivo para eliminar las sombras innecesarias, que a menudo puedes crear tú mismo y tu equipo al realizar fotografías macro
-- La fotografía de viajes no es solo para trotamundos: sal y compruébalo, las visitas turísticas, días de descanso y las escapadas improvisadas son ocasiones para recordar siempre
 - Con solo pulsar un botón, puedes alternar el Macro Lite entre la iluminación de la derecha y de la izquierda, con el fin de encontrar el equilibrio adecuado y lograr una increíble imagen estilística
+- La fotografía de viajes no es solo para trotamundos: sal y compruébalo, las visitas turísticas, días de descanso y las escapadas improvisadas son ocasiones para recordar siempre
+- Esta función proporciona iluminación adicional frente al objetivo para eliminar las sombras innecesarias, que a menudo puedes crear tú mismo y tu equipo al realizar fotografías macro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FH4H30I/?tag=tolees-21)

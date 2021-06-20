@@ -28,8 +28,8 @@ Tienes [Western Digital - WD Red 2TB NAS 3.5 pulgadas Disco duro interno Clase 5
 
 ℹ️:
 
-- Compatible Windows
 - Un plus de capacidad para tus archivos
+- Compatible Windows
 - Fácil uso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D74GA5U/?tag=tolees-21)

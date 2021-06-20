@@ -30,10 +30,10 @@ Tienes [Samyang F1110901101 - Objetivo fotográfico DSLR para Canon EF  Distanci
 
 - Zoom óptico: 0.0 multiplier_x
 - Con revestimiento UMC anti-reflectante
-- Enfoque manual
-- Función Tilt-Shift (rotación montura bayoneta)
-- Montura para Canon EF
-- Para cámaras con sensor Full Frame
 - Compatible con filtros de 82mm
+- Para cámaras con sensor Full Frame
+- Enfoque manual
+- Montura para Canon EF
+- Función Tilt-Shift (rotación montura bayoneta)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CRAE9MQ/?tag=tolees-21)

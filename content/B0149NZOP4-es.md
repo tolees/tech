@@ -28,10 +28,10 @@ Tienes [Cartucho de tinta Canon CLI-571XL Y - Amarillo](https://www.amazon.es/dp
 
 🔎:
 
-- Es adecuado para impresora de inyección
-- Viene en color amarillo
-- El producto representa un cartucho de tinta
 - La marca del producto es Canon
+- El producto representa un cartucho de tinta
+- Viene en color amarillo
+- Es adecuado para impresora de inyección
 - El número de modelo es CLI-571
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0149NZOP4/?tag=tolees-21)

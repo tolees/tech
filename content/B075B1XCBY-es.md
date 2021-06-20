@@ -29,9 +29,9 @@ Está [ASUS VG278Q - Monitor de Gaming de 27"  WQHD  1920 x 1080  0 4 ms  144 Hz
 ℹ️:
 
 - La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
-- Certificaciones TUV Rheinland de luz azul de baja intensidad y antiparpadeo para asegurar una visualización más cómoda
-- Monitor Full HD de 27” (1920x1080) con 144 Hz de refresco y 1 ms de tiempo de respuesta. Tecnología Adaptive-Sync (FreeSync)
 - Botón ASUS GamePlus para acceder a ventajas de juego y GameVisual para optimizar la imagen
 - 1 ms de tiempo de respuesta para una mayor fluidez y ASUS Extreme Low Motion Blur (ELMB) para eliminar la acción borrosa
+- Certificaciones TUV Rheinland de luz azul de baja intensidad y antiparpadeo para asegurar una visualización más cómoda
+- Monitor Full HD de 27” (1920x1080) con 144 Hz de refresco y 1 ms de tiempo de respuesta. Tecnología Adaptive-Sync (FreeSync)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075B1XCBY/?tag=tolees-21)
