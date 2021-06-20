@@ -29,8 +29,8 @@ Está [NGS BT Headphone ARTICA Pride Blue- Auriculares Inalámbricos Bluetooth c
 ℹ️:
 
 - Responde o realiza llamadas sin sacar el teléfono del bolsillo gracias a tu micrófono gracias a tu micrófono incorporado, impedancia de 32 ohmios y respuesta en frecuencia de 20 Hz ~ 20 KHz.
-- Batería de polímero de litio con hasta 7 horas de duración.
 - Auriculares inalámbricos estéreo compatibles con la tecnología Bluetooth (10 m de alcance).
+- Batería de polímero de litio con hasta 7 horas de duración.
 - Diseño diadema que cubre por completo las orejas proporcionando una comodidad excepcional, además controla la reproducción de música y responde a tus llamadas pulsando el botón del auricular.
 - Equipado con una conexión micro- USB para recargar la batería de 180 mAh.
 

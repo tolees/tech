@@ -28,10 +28,10 @@ Está [Xiaomi - POCO X3 NFC - Smartphone 6.67” FHD+  6 + 128GB  Snapdragon 732
 
 ℹ️:
 
-- Cámara: Cuádruple, 64MP+13MP +2MP+2MP
-- OS: Android 10
 - Pantalla: 6.67", 1080 x 2400 pixels
+- Cámara: Cuádruple, 64MP+13MP +2MP+2MP
 - Procesador: Snapdragon 732G 2.3GHz
+- OS: Android 10
 - Batería: 5160 mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H5JDD76/?tag=tolees-21)

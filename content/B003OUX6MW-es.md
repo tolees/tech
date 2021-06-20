@@ -30,8 +30,8 @@ Está [Sony SEL16F28 - Objetivo para Sony  distancia focal fija 16mm  apertura f
 
 - Apertura circular de 7 láminas
 - Lente principal gran angular
-- APS-C, montura tipo E
 - Compacta, ligera y fácil de transportar
+- APS-C, montura tipo E
 - Lente gran angular de 16 mm F2,8
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003OUX6MW/?tag=tolees-21)

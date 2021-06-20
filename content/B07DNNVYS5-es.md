@@ -28,10 +28,10 @@ Tienes [Microsoft - Gears 5](https://www.amazon.es/dp/B07DNNVYS5/?tag=tolees-21)
 
 ℹ️:
 
+- Juega como Jack, tu robot personal de apoyo volador que puede proteger a tus aliados y dañar a tus enemigos: perfecto para nuevos jugadores de Gears
+- Lucha junto a tus amigos en una cooperativa de tres jugadores online o en pantalla dividida
 - ¿Eres principiante de Gears o necesitas práctica? Boot Camp es una forma divertida de aprender desde lo básico hasta técnicas de combate avanzadas
 - Reproduce todos los modos en 4K y HDR a una velocidad de 60 fotogramas por segundo en Xbox One X
-- Lucha junto a tus amigos en una cooperativa de tres jugadores online o en pantalla dividida
 - Pasa de ser un nuevo recluta a ser un general de cuatro estrellas en Gears: Tours of Duty; enfréntate a nuevos y emocionantes desafíos, gana increíbles recompensas y presume de tu botín
-- Juega como Jack, tu robot personal de apoyo volador que puede proteger a tus aliados y dañar a tus enemigos: perfecto para nuevos jugadores de Gears
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DNNVYS5/?tag=tolees-21)

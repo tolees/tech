@@ -28,11 +28,11 @@ Tienes [MSI Prestige 14 A10SC-067XES - Ordenador portátil de 14" FullHD  Intel 
 
 🔎:
 
-- Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Tarjeta gráfica Nvidia GeForce GTX1650-4GB
-- Procesador Intel Core i7-10710U (1.10Ghz,12MB)
-- Memoria RAM 16GB DDR3 2133Mhz
-- Sin sistema operativo
 - Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
+- Sin sistema operativo
+- Procesador Intel Core i7-10710U (1.10Ghz,12MB)
+- Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Memoria RAM 16GB DDR3 2133Mhz
+- Tarjeta gráfica Nvidia GeForce GTX1650-4GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083NQ94GX/?tag=tolees-21)

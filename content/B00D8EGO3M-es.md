@@ -28,11 +28,11 @@ En este momento está [Samyang F1110903101 - Objetivo fotográfico DSLR para Nik
 
 🔎:
 
+- Con revestimiento UMC anti-reflectante
+- Para cámaras con sensor Full Frame
+- Compatible con filtros de 82mm
 - Función Tilt-Shift (rotación montura bayoneta)
 - Montura para Nikon
 - Enfoque manual
-- Para cámaras con sensor Full Frame
-- Compatible con filtros de 82mm
-- Con revestimiento UMC anti-reflectante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00D8EGO3M/?tag=tolees-21)
