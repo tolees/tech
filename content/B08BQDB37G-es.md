@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'XIAOMI Mi Electric Scooter 1S  Black   V al 22.22 % de descuento'
-date: 2021-05-21 18:38:12
+title: 'XIAOMI Mi Electric Scooter 1S  Black   V al 20.44 % de descuento'
+date: 2021-06-20 07:30:13
 image: 'https://m.media-amazon.com/images/I/31HT2DsvJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08BQDB37G-es XIAOMI Mi Electric Scooter 1S Black Versión básica'
 sku: 'B08BQDB37G-es'
 tags: [ 'Deportes y aire libre','Movilidad urbana','Patinetes','Patinetes eléctricos','Patinetes y equipación','Ropa y equipo para deportes','xiaomi', ]
-actualPrice: 349.98 EUR
+actualPrice: 358.0 EUR
 currency: EUR
-price: 349.98
+price: 358.0
 comparePrice: 449.99 EUR
 prodname: 'XIAOMI Mi Electric Scooter 1S  Black   Versión básica'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21'
-descuento: '22.22'
-average: '366.782000000003'
+descuento: '20.44'
+average: '366.709421487606'
 ---
 
-Ahora mismo tienes [XIAOMI Mi Electric Scooter 1S  Black   Versión básica](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21) a 349.98 EUR (original: 449.99 EUR) (22.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [XIAOMI Mi Electric Scooter 1S  Black   Versión básica](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21) a 358.0 EUR (original: 449.99 EUR) (20.44 %  de descuento) en el siguiente enlace!
 
 [![XIAOMI Mi Electric Scooter 1S  Black   V](https://m.media-amazon.com/images/I/31HT2DsvJjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21)
 
