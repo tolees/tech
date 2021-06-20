@@ -28,10 +28,10 @@ En este momento está [Panasonic ER-GD61-K503 Recortadora de Barba Recargable pa
 
 🔎:
 
-- Shaper- una nueva forma de cuidarse! Panasonic ER-GD61-K503 recorta, perfila y crear acabados únicos con precisión y sin esfuerzo
-- Con una anchura de cuchilla de 33 mm y un peine guía con 20 niveles de ajuste de la longitud de corte, en pasos de 0, 5 mm
-- Recortadora en forma de navaja Panasonic ER-GD61-K503 es 100 % lavable
-- Las nuevas recortadoras Panasonic -i-shaper- con cuchilla japonesa de acero inoxidable y formato vertical te garantizan el perfilado de tu barba como lo haría la navaja de un barbero profesional
 - Consigue un apurado de hasta 0, 1 mm y el afeitado suave que tu piel se merece
+- Recortadora en forma de navaja Panasonic ER-GD61-K503 es 100 % lavable
+- Con una anchura de cuchilla de 33 mm y un peine guía con 20 niveles de ajuste de la longitud de corte, en pasos de 0, 5 mm
+- Las nuevas recortadoras Panasonic -i-shaper- con cuchilla japonesa de acero inoxidable y formato vertical te garantizan el perfilado de tu barba como lo haría la navaja de un barbero profesional
+- Shaper- una nueva forma de cuidarse! Panasonic ER-GD61-K503 recorta, perfila y crear acabados únicos con precisión y sin esfuerzo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R3WWTHF/?tag=tolees-21)
