@@ -28,9 +28,9 @@ Tienes [Canon EOS RP Cuerpo](https://www.amazon.es/dp/B00D4ALTDU/?tag=tolees-21)
 
 🔎:
 
-- 26,2 MP, fotograma completo (full frame), Dual Pixel CMOS AF, 5 fps
+- Vídeos 4K, Wi-Fi, Bluetooth
 - Cámara mirrorless para aficionados
 - Paqueteage Weight: 1.25 kilograms
-- Vídeos 4K, Wi-Fi, Bluetooth
+- 26,2 MP, fotograma completo (full frame), Dual Pixel CMOS AF, 5 fps
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00D4ALTDU/?tag=tolees-21)

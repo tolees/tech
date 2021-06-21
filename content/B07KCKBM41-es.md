@@ -28,10 +28,10 @@ Está [Microsoft Office Hogar y Empresas 2019 Todas las aplicaciones de Office 2
 
 ℹ️:
 
+- Soporte de Microsoft incluido durante 60 días sin costo adicional
+- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
+- Crea y comparte documentos online
 - Almacena archivos en la nube con OneDrive
 - Para 1 PC
-- Crea y comparte documentos online
-- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
-- Soporte de Microsoft incluido durante 60 días sin costo adicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KCKBM41/?tag=tolees-21)

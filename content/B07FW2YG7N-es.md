@@ -28,10 +28,10 @@ Ahora mismo tienes [RockJam Teclado de piano digital para principiantes Piano co
 
 🔎:
 
-- La entrega de un potente sonido de 24 w con 2 x 12 w altavoces incorporados dentro del piano eléctrico
-- Las entradas en este teclado 88 clave incluyen; ¼ de pulgada (6,35 mm) sostener entrada de pedal (pedal no incluido), ¼ de pulgada (6,35 mm) de entrada suave-pedal (pedal no incluido), 7 pin de entrada pedal sostenuto (pedal no incluido) y ¼ de pulgada (6,35 mm) conector de micrófono (no incluye micrófono)
 - 88 de piano teclado con teclas de tamaño estándar semi-ponderada sensibles a la velocidad; ajustable para adaptarse a su estilo de juego
+- La entrega de un potente sonido de 24 w con 2 x 12 w altavoces incorporados dentro del piano eléctrico
 - Teclado de piano principiantes cargado con diez voces únicas (piano vertical, piano eléctrico, teclado de piano de cola, cuerdas, sintetizadores, bajo, guitarra, percusión, órgano hammond, y órgano de iglesia) y cuenta con lecciones de aprendizaje interactivo para optimizar su proceso de aprendizaje
+- Las entradas en este teclado 88 clave incluyen; ¼ de pulgada (6,35 mm) sostener entrada de pedal (pedal no incluido), ¼ de pulgada (6,35 mm) de entrada suave-pedal (pedal no incluido), 7 pin de entrada pedal sostenuto (pedal no incluido) y ¼ de pulgada (6,35 mm) conector de micrófono (no incluye micrófono)
 - Salidas de teclado de piano; ¼ de pulgada (6,35 mm) de salida de auriculares estéreo para practicar en privado (auriculares no incluidos), equipo de música salida auxiliar para conectar a una mesa de grabación externo, mezclando dispositivo, amplificador o sistema de sonido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FW2YG7N/?tag=tolees-21)

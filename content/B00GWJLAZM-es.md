@@ -29,9 +29,9 @@ Tienes [Aire acondicionado local móvil Impuls+ 2.0 Eco | Silencioso | Tubo para
 ℹ️:
 
 - ❄ ENFRIADOR : El climatizador portátil proporciona un agradable enfriamiento a altas temperaturas para habitaciones hasta 25 m². Dos niveles de ventilación y una máxima circulación del aire frío permiten una distribución pareja por suelo, techo, pared y toda la habitación acondicionada.
-- ❄ KIT INCLUYE : Manguera de aire de escape con adaptador, filtro de polvo, barra deslizante de la ventana, manguera de drenaje, rodillos de funcionamiento suave, mando a distancia pequeño (excl. 2x AAA), instalación cómoda.
 - ❄ SIMPLE : Con la pantalla LED y el práctico mando a distancia se destaca su facil uso entre los climatizadores portátiles. Además tiene la unidad un ajuste de temperatura, una función de temporizador y un modo silencioso y lento para facilitar aún más su vida cotidiana.
 - ❄ 3x1 : Aprovecha las distintas funciones del aparato portable al máximo para combatir el calor sofocante del verano con el modo frió o refrescarte con el ventilador. Problemas con humedad o moho se resuelven fácilmente con el deshumidificador incorporado sin humidificador extra.
 - ❄ ACONDICIONADOR ECONOMICO : El acondicionador de aire se caracteriza por una gran potencia de refrigeración a pesar de su bajo consumo de energía. El refrigerante es duradero y no necesita ser reemplazado lo que resulta más barato que otros aires acondicionados.
+- ❄ KIT INCLUYE : Manguera de aire de escape con adaptador, filtro de polvo, barra deslizante de la ventana, manguera de drenaje, rodillos de funcionamiento suave, mando a distancia pequeño (excl. 2x AAA), instalación cómoda.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GWJLAZM/?tag=tolees-21)

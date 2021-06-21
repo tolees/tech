@@ -28,11 +28,11 @@ Ahora mismo tienes [Microsoft 365 Familia Para 6 PCs/MACs/tabletas/teléfonos in
 
 🔎:
 
+- Seguridad avanzada para correo electrónico y archivos
+- 6 TB de almacenamiento en OneDrive. 1 TB por persona
+- Actualizaciones y soporte técnico continuo
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Correo electrónico, calendarios y tareas: Outlook
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- 6 TB de almacenamiento en OneDrive. 1 TB por persona
-- Seguridad avanzada para correo electrónico y archivos
-- Actualizaciones y soporte técnico continuo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HWXT1T2/?tag=tolees-21)
