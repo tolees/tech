@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Redada Asesina 1-2  BD  [Blu-ray] al 20.01 % de rebaja'
-date: 2021-06-18 06:21:48
+date: 2021-06-21 17:56:53
 image: 'https://m.media-amazon.com/images/I/51gNf7PPflL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08M1QRD4R/?tag=tolees-21'
 descuento: '20.01'
-average: '15.1830769230769'
+average: '15.0648148148148'
 ---
 
 Tienes [Sony - Redada Asesina 1-2  BD  [Blu-ray]](https://www.amazon.es/dp/B08M1QRD4R/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.99 EUR) (20.01 %  de rebaja) aqui!
