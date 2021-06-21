@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha MusicCast YAS 306 - Barra de soni al 32.83 % de descuento'
-date: 2021-06-12 10:04:05
+date: 2021-06-21 06:43:17
 image: 'https://m.media-amazon.com/images/I/21tKzn-K-sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yamaha'
 buyurl: 'https://www.amazon.es/dp/B01KHHPZKU/?tag=tolees-21'
 descuento: '32.83'
-average: '285.04'
+average: '281.63'
 ---
 
 Está [Yamaha MusicCast YAS 306 - Barra de sonido en red  WiFi  Bluetooth  color negro](https://www.amazon.es/dp/B01KHHPZKU/?tag=tolees-21) con 32.83 de descuento por 267.99 EUR (original: 399.0 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Yamaha MusicCast YAS 306 - Barra de sonido en red  WiFi  Bluetooth  color
 ℹ️:
 
 - Barra de sonido en red
-- Compatible con Musiccast
 - Wifi, bluetooth y Airplay
+- Compatible con Musiccast
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KHHPZKU/?tag=tolees-21)
