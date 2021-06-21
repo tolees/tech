@@ -28,8 +28,8 @@ Está [Yamaha MusicCast YAS 306 - Barra de sonido en red  WiFi  Bluetooth  color
 
 ℹ️:
 
+- Compatible con Musiccast
 - Barra de sonido en red
 - Wifi, bluetooth y Airplay
-- Compatible con Musiccast
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KHHPZKU/?tag=tolees-21)
