@@ -28,10 +28,10 @@ Ahora mismo tienes [E-NUC Adhesivo Teclado Español  Letras de Botón  Impermeab
 
 🔎:
 
+- ⌨【Español】: Este teclado incluye las letras del abecedario español y caracteres.
+- ⌨【Alta Compatibilidad】: Es compatible con portátiles, Netbook y sobremesa.
+- ⌨【Incluye】:1 x El adhesivo Teclado Español en Negro .
 - ⌨【Funciones】: Todas las letras y caracteres posibles en español, olvídese si por el uso se han borrado las teclas del teclado, solo tiene que despegar y pegar la letra que necesite.
 - ⌨【Tamaño Perfecto】: Tamaño de una sola pegatina: 11 x 13 mm - 7/16.
-- ⌨【Alta Compatibilidad】: Es compatible con portátiles, Netbook y sobremesa.
-- ⌨【Español】: Este teclado incluye las letras del abecedario español y caracteres.
-- ⌨【Incluye】:1 x El adhesivo Teclado Español en Negro .
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MCE62MM/?tag=tolees-21)
