@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.84 % en Nuevo Apple iPhone 12  64 GB  - Azul'
-date: 2021-06-20 08:48:20
+date: 2021-06-21 20:07:25
 image: 'https://m.media-amazon.com/images/I/41xssMLI2DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5RZHGC/?tag=tolees-21'
 descuento: '15.84'
-average: '861.39696969697'
+average: '859.958208955224'
 ---
 
 Tienes [Nuevo Apple iPhone 12  64 GB  - Azul](https://www.amazon.es/dp/B08L5RZHGC/?tag=tolees-21) con un 15.84 % de descuento con precio de oferta de 765.0 EUR (original: 909.0 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPhone 12  64 GB  - Azul](https://www.amazon.es/dp/B08L5RZH
 
 ℹ️:
 
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- 0.0
-- A14 Bionic, el chip más veloz en un smartphone
-- Pantalla Super Retina XDR de 6,1 pulgadas
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Resistencia al agua IP68, líder en el sector
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- A14 Bionic, el chip más veloz en un smartphone
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- 0.0
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L5RZHGC/?tag=tolees-21)

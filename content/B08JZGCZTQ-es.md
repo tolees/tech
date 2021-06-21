@@ -28,11 +28,11 @@ En este momento está [realme 7 - Smartphone de 6.5"  6GB RAM + 64GB ROM  LCD FH
 
 🔎:
 
-- 30W Dart Charge
+- Tres (3) años de garantía del fabricante (ES)
 - Pantalla 6.5" FHD+ Pantalla completa
 - Cámara cuádruple AI Sony 48MP
-- Batería masiva de 5000mAh
+- 30W Dart Charge
 - Procesador Helio G95 Gaming
-- Tres (3) años de garantía del fabricante (ES)
+- Batería masiva de 5000mAh
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZGCZTQ/?tag=tolees-21)
