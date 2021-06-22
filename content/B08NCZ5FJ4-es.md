@@ -28,9 +28,9 @@ Tienes [MSI Prestige 15 A11SCX-018ES - Ordenador portátil de 15.6" FullHD  Inte
 
 🔎:
 
-- Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.80 GHz)
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 MAX Q, GDDR5 4 GB
 - Disco SSD de 1 TB
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 MAX Q, GDDR5 4 GB
+- Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.80 GHz)
 - Memoria RAM DDR IV 16 GB (3200 MHz)
 - Sistema operativo Windows10 Home Plus
 

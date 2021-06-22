@@ -28,12 +28,12 @@ Tienes [Party 8LED - Altavoz Portatil a Baterias  8"  150W-RMS  USB/BT/FM/MICRO]
 
 🔎:
 
-- Entrada de micro o guitarra con ajustes separados
-- Entrada auxiliar MP3
-- Micro de cable
 - Radio FM
 - Batería recargable de Litio 1.8 Ah
-- Trolley telescópico para transporto
+- Entrada auxiliar MP3
 - Lectores USB-Bluetooth-micro SD
+- Micro de cable
+- Entrada de micro o guitarra con ajustes separados
+- Trolley telescópico para transporto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4EIARV/?tag=tolees-21)
