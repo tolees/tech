@@ -29,9 +29,9 @@ Tienes [NGS EVO MUTE BLUE - Ratón Óptico Inalámbrico 2.4GHz  Ratón USB para 
 🔎:
 
 - Silencioso: Reduce hasta un 95 % el ruido de los clics, evitando los ruidos molestos y mejorando al máximo la concentración en las tareas.
-- Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
-- Atractivo diseño con ergonomía para usuarios diestros, y con un tamaño mediano ideal tanto para ordenadores de sobremesa como para portátiles.
-- Ratón óptico wireless RF 2.4 Ghz con receptor nano USB y alcance de hasta 10 metros.
 - Contiene un reposa pulgar ergonómico para un agarre cómodo, botón de cambio de resolución (800/1600dpi), 5 botones y una rueda de desplazamiento.
+- Atractivo diseño con ergonomía para usuarios diestros, y con un tamaño mediano ideal tanto para ordenadores de sobremesa como para portátiles.
+- Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
+- Ratón óptico wireless RF 2.4 Ghz con receptor nano USB y alcance de hasta 10 metros.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZP4BL9/?tag=tolees-21)
