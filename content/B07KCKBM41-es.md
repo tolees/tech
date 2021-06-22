@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Office Hogar y Empresas 2019 T al 16.39 % de descuento'
-date: 2021-06-21 00:21:28
+date: 2021-06-22 17:49:08
 image: 'https://m.media-amazon.com/images/I/41CZhJRAIvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Microsoft Office Hogar y Empresas 2019 Todas las aplicaciones de Office 2
 ℹ️:
 
 - Soporte de Microsoft incluido durante 60 días sin costo adicional
-- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
 - Crea y comparte documentos online
 - Almacena archivos en la nube con OneDrive
+- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
 - Para 1 PC
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KCKBM41/?tag=tolees-21)

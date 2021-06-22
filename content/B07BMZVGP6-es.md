@@ -28,10 +28,10 @@ Está [Gigaset AL117 A- Teléfono inalámbrico con contestador digital](https://
 
 ℹ️:
 
-- Aviso de nuevos mensajes en el terminal
-- Contestador digital te permite grabar hasta 25 minutos y acceder a los mensajes guardados en modo remoto
 - Indicación de llamadas pedidas en pantalla lo que fácilitará saber quién te ha llamado para poder devolver las llamadas
-- Agenda de 50 contactos
+- Contestador digital te permite grabar hasta 25 minutos y acceder a los mensajes guardados en modo remoto
 - Compatible con audífonos
+- Agenda de 50 contactos
+- Aviso de nuevos mensajes en el terminal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BMZVGP6/?tag=tolees-21)
