@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Razer Kraken - Auriculares Gaming con ca al 31.25 % de rebaja'
-date: 2021-06-04 10:30:47
+title: 'Razer Kraken - Auriculares Gaming con ca al 37.52 % de rebaja'
+date: 2021-06-22 19:48:12
 image: 'https://m.media-amazon.com/images/I/41eKW05fodL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07R7Q9KKM-es Razer Kraken - Auriculares Gaming con cable para juegos...'
 sku: 'B07R7Q9KKM-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para Xbox One','Auriculares gaming para Nintendo Switch','Hardware y juegos para Nintendo Switch','Hardware y juegos para Xbox One','Informática','Videojuegos','auriculares','ps4','razer','xbox', ]
-actualPrice: 54.99 EUR
+tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para Xbox One','Auriculares gaming para Nintendo Switch','Hardware y juegos para Nintendo Switch','Hardware y juegos para Xbox One','Informática','Videojuegos','auriculares','ps4','razer','xbox', ]
+actualPrice: 49.98 EUR
 currency: EUR
-price: 54.99
+price: 49.98
 comparePrice: 79.99 EUR
 prodname: 'Razer Kraken - Auriculares Gaming con cable para juegos multiplataforma para PC  PS4  Xbox One & Switch  Diafragma 50 mm  Cable de 3.5mm con controles de línea -Mercury / Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07R7Q9KKM/?tag=tolees-21'
-descuento: '31.25'
-average: '61.9545454545456'
+descuento: '37.52'
+average: '61.2705714285716'
 ---
 
-Tienes [Razer Kraken - Auriculares Gaming con cable para juegos multiplataforma para PC  PS4  Xbox One & Switch  Diafragma 50 mm  Cable de 3.5mm con controles de línea -Mercury / Blanco](https://www.amazon.es/dp/B07R7Q9KKM/?tag=tolees-21) con precio final de  54.99 EUR (original: 79.99 EUR) (31.25 %  de rebaja) aqui!
+Tienes [Razer Kraken - Auriculares Gaming con cable para juegos multiplataforma para PC  PS4  Xbox One & Switch  Diafragma 50 mm  Cable de 3.5mm con controles de línea -Mercury / Blanco](https://www.amazon.es/dp/B07R7Q9KKM/?tag=tolees-21) con precio final de  49.98 EUR (original: 79.99 EUR) (37.52 %  de rebaja) aqui!
 
 [![Razer Kraken - Auriculares Gaming con ca](https://m.media-amazon.com/images/I/41eKW05fodL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07R7Q9KKM/?tag=tolees-21)
 
