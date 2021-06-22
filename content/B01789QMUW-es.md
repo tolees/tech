@@ -28,8 +28,8 @@ Tienes [LaCie Rugged Mini USB 3.0  4 TB  2.5 Pulgadas  Disco Duro Externo portá
 
 🔎:
 
-- USB 3.0: hasta 4 veces más rápido que USB 2.0
 - Disfrute de la tranquilidad a largo plazo que le proporcionan los 2 años de servicios Rescue Data Recovery Service Plan para recuperación de datos
+- USB 3.0: hasta 4 veces más rápido que USB 2.0
 - Resistente a impactos, lluvia y presión
 - Protección con contraseña
 
