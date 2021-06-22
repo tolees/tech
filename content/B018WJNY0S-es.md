@@ -29,9 +29,9 @@ Tienes [Brother PJ-722 - Impresora térmica portátil A4  8ppm y 200ppp  Interfa
 ℹ️:
 
 - Impresión hoja a hoja, rollo de papel o rollo precortado
-- Tamaño A4
 - Velocidad de impresión de 8 páginas por minuto
-- Resolución de 200 ppp
 - Interfaz USB
+- Resolución de 200 ppp
+- Tamaño A4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B018WJNY0S/?tag=tolees-21)

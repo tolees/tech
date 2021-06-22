@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung PSSD T7 - Disco duro externo  2  al 29.80 % de descuento'
-date: 2021-06-20 23:49:46
+date: 2021-06-22 08:22:32
 image: 'https://m.media-amazon.com/images/I/41uL6HzXatL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B087DFFJRD/?tag=tolees-21'
 descuento: '29.80'
-average: '331.623333333333'
+average: '324.53'
 ---
 
 Ahora mismo tienes [Samsung PSSD T7 - Disco duro externo  2 TB  Conector USB 3.1 y tipo C  Gris](https://www.amazon.es/dp/B087DFFJRD/?tag=tolees-21) a 303.25 EUR (original: 431.99 EUR) (29.80 %  de descuento) en el siguiente enlace!
