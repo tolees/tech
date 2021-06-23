@@ -28,9 +28,9 @@ En este momento está [Conceptronic CNBCOMLOCK18 - Candado de seguridad para ord
 
 🔎:
 
-- Candado de seguridad para ordenador portátil que se ajusta en todos los portátiles con una conexión de seguridad
-- Tipo de cable rectotipo de bloque
 - 1.8 metros de longitud
+- Tipo de cable rectotipo de bloque
 - Cerradura de combinación de 4 dígitos
+- Candado de seguridad para ordenador portátil que se ajusta en todos los portátiles con una conexión de seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BBV08FE/?tag=tolees-21)
