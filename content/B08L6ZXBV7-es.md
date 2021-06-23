@@ -28,15 +28,15 @@ Ahora mismo tienes [Apple iPhone 11  128 GB  - de en Malva](https://www.amazon
 
 🔎:
 
-- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
-- Chip A13 Bionic con Neural Engine de 3.ª generación
-- Face ID para autenticarse deforma segura yusar ApplePay
-- Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone 11 ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
-- Sistema de cámara dual de 12 Mpx con gran angular y ultra gran angular; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
-- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Admite la carga rápida
 - Pantalla LCD Liquid Retina HD de 6,1 pulgadas
 - Carga inalámbrica
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
+- Sistema de cámara dual de 12 Mpx con gran angular y ultra gran angular; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
+- Admite la carga rápida
+- Face ID para autenticarse deforma segura yusar ApplePay
+- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
+- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
+- Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone 11 ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
+- Chip A13 Bionic con Neural Engine de 3.ª generación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L6ZXBV7/?tag=tolees-21)
