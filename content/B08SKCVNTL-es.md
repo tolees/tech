@@ -28,11 +28,11 @@ En este momento está [MSI Modern 14 B10RBSW-419XES - Ordenador portátil de 14"
 
 🔎:
 
-- Sin sistema operativo
-- Procesador Intel Core I7-10510U (4 nucleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
-- Memoria RAM de 16 GB DDR 4, 2666 MHz
 - Tarjeta gráfica GeForce MX350, GDDR5 2 GB
-- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
+- Procesador Intel Core I7-10510U (4 nucleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
 - Disco HDD de 1 TB NVMe PCIe Gen3x4 SSD
+- Sin sistema operativo
+- Memoria RAM de 16 GB DDR 4, 2666 MHz
+- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SKCVNTL/?tag=tolees-21)
