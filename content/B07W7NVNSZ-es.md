@@ -28,10 +28,10 @@ Ahora mismo tienes [HoYiXi Funda de Soporte Giratorio para Samsung Galaxy Tab A 
 
 🔎:
 
-- ♥ Diseño profesional: construcción sólida pero ultra delgado y liviano, los recortes precisos facilitan el acceso a todos los botones, puertos, sensores, bocinas y cámaras sin quitar el estuche.
 - ♥ NOTICE : la máquina Samsung Galaxy Tab 10.1 2019 no tiene una función de sleep / wake automática, por lo que esta funda protectora no tiene función de sleep / wake automática cuando la abre.
-- ♥ Está hecho de cuero PU de alta calidad y microfibra suave para evitar que su Galaxy Tab se raye y se dañe a diario. Protege tu dispositivo de golpes y polvo.
-- ♥ El diseño giratorio de 360 grados lo hace ideal para ver videos, películas, escribir y enviar mensajes en modo horizontal y vertical en su tableta.
+- ♥ Diseño profesional: construcción sólida pero ultra delgado y liviano, los recortes precisos facilitan el acceso a todos los botones, puertos, sensores, bocinas y cámaras sin quitar el estuche.
 - ♥ Especialmente diseñado para Samsung Galaxy Tab A 10.1 T510 / T515 （2019） solamente. NO es compatible con otros modelos, por favor revise su dispositivo antes de su compra.
+- ♥ El diseño giratorio de 360 grados lo hace ideal para ver videos, películas, escribir y enviar mensajes en modo horizontal y vertical en su tableta.
+- ♥ Está hecho de cuero PU de alta calidad y microfibra suave para evitar que su Galaxy Tab se raye y se dañe a diario. Protege tu dispositivo de golpes y polvo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7NVNSZ/?tag=tolees-21)
