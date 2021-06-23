@@ -29,9 +29,9 @@ Está [Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD  AMD Ryzen 7 5700U  1
 ℹ️:
 
 - Procesador AMD Ryzen 7 5700U ( 8C/16T, 1.8 GHz/4.3GHz, 8 MB)
+- Tarjeta gráfica Integrada AMD Radeon RX Vega 8
 - Memoria RAM de 12GB
 - Pantalla de 15.6" FullHD (1920x1080) TN 250nits
 - Almacenamiento de 1TB SSD M.2 2280 NVMe
-- Tarjeta gráfica Integrada AMD Radeon RX Vega 8
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V3FK61G/?tag=tolees-21)
