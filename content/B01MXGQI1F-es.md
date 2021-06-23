@@ -29,7 +29,7 @@ Está [HP 200 RF inalámbrico Óptico 1000DPI Ambidextro Negro - Ratón  Ambidex
 ℹ️:
 
 - Producto de la marca HP
-- X6w31aa abb
 - Modelo del producto X6W31AA
+- X6w31aa abb
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXGQI1F/?tag=tolees-21)

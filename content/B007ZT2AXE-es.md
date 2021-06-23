@@ -28,9 +28,9 @@ Ahora mismo tienes [iogear GBU521 W6 Bluetooth 3 Mbit/s Adaptador y Tarjeta d
 
 🔎:
 
-- Seguridad incorporada para asegurar la intimidad de la comunicación-emparejamiento, cifrado y autenticación
-- Permite que cualquier computadora Windows con un puerto USB se convierta en una computadora habilitada para Bluetooth
 - Se comunica de forma inalámbrica con ordenadores compatibles con Bluetooth, impresoras, PDA, teléfonos celulares, auriculares
+- Permite que cualquier computadora Windows con un puerto USB se convierta en una computadora habilitada para Bluetooth
+- Seguridad incorporada para asegurar la intimidad de la comunicación-emparejamiento, cifrado y autenticación
 - Dispone de una alcance inalámbrico máximo de hasta 10 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007ZT2AXE/?tag=tolees-21)
