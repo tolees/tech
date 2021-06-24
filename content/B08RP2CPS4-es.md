@@ -28,9 +28,9 @@ Tienes [Xiaomi Mi Lámpara de noche inteligente 2 Lámpara de mesita de noche co
 
 🔎:
 
-- Luz suave de colorido: equipado con perlas de lámpara de la marca internacional de primera línea y una pantalla de doble capa con una luz mixta dos veces, que emite una luz colorida uniforme y floreciente como un pigmento.
-- Gran zona luminosa: la lámpara de noche está hecha de molde invertido muy difícil y de diseño de canales calientes; haz toda la lámpara iluminada uniformemente. Crea un ambiente práctico y romántico.
 - Con luz nocturna: la luminosidad máxima se aumenta a 400 lúmenes para una iluminación normal en la habitación. El brillo mínimo es inferior a 2 lúmenes, lo que puede servir como luz auxiliar durante el sueño.
+- Gran zona luminosa: la lámpara de noche está hecha de molde invertido muy difícil y de diseño de canales calientes; haz toda la lámpara iluminada uniformemente. Crea un ambiente práctico y romántico.
+- Luz suave de colorido: equipado con perlas de lámpara de la marca internacional de primera línea y una pantalla de doble capa con una luz mixta dos veces, que emite una luz colorida uniforme y floreciente como un pigmento.
 - Funciona con Apple Homekit, Siri, APP Remote Control: puedes utilizar Apple, iPad, Apple Watch, aplicación doméstica y Siri para controlar fácilmente con el grifo, voz e incluso ajustes automatizados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RP2CPS4/?tag=tolees-21)
