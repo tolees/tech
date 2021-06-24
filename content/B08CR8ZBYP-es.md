@@ -28,9 +28,9 @@ En este momento está [Realme X50 5G - Smartphone 128GB  6GB RAM  Dual Sim  Jung
 
 🔎:
 
-- Pantalla: 6.44", 1080 x 2400 pixels
 - Cámara: Cuádruple, 64MP+12MP +8MP+2MP
-- Procesador: Snapdragon 865 2.84GHz
 - Batería: 4200 mAh
+- Procesador: Snapdragon 865 2.84GHz
+- Pantalla: 6.44", 1080 x 2400 pixels
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CR8ZBYP/?tag=tolees-21)
