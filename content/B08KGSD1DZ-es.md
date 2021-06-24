@@ -28,15 +28,15 @@ Está [Altavoz Easy 2 de Vieta Pro  con Bluetooth 5.0  True Wireless  Micrófono
 
 ℹ️:
 
-- El altavoz Easy 2, dispone de hasta 12 horas de batería sin interrupciones, además dispone de conector Tipo-C.
+- Incluye un sistema de luces con hasta tres temas diferentes, descúbrelos y utiliza el que vaya más acorde con tu personalidad.
 - Con micrófono integrado, podrás atender a todas tus llamadas directamente desde el altavoz, así no tendrás que estar todo el rato pendiente del Smartphone.
-- Incluye Radio Fm, perfecto para todas las personas que les gusta escuchar la radio; además, en el caso de que tu Smartphone no tuviera mucha batería, siempre puedes escuchar la música desde tus emisoras preferidas.
-- Altavoz Easy 2, con Bluetooth 5.0, para que te olvides totalmente de los cables.
 - Todo son comodidades, su botón de voice assistant, te permitirá darle órdenes a tu Smartphone desde el altavoz Easy 2.
 - Con resistencia al agua IPX7, no tendrás que preocuparte del agua; altavoz perfecto para todas las jornadas de playa o piscina.
-- Incluye un sistema de luces con hasta tres temas diferentes, descúbrelos y utiliza el que vaya más acorde con tu personalidad.
 - Destaca por ser muy compacto y tener muy buena calidad de sonido, con una potencia de hasta 20W.
 - Con entrada auxiliar, podrás conectar el cable aux-in incluido en el producto para escuchar todas tus canciones preferidas.
+- El altavoz Easy 2, dispone de hasta 12 horas de batería sin interrupciones, además dispone de conector Tipo-C.
 - Dispone de la tecnología True Wireless, que te permitirá conectar dos altavoces a un mismo Smartphone; como consecuencia, conseguirás duplicar la fuerza del altavoz y podrás disfrutar de tus canciones por partida doble.
+- Incluye Radio Fm, perfecto para todas las personas que les gusta escuchar la radio; además, en el caso de que tu Smartphone no tuviera mucha batería, siempre puedes escuchar la música desde tus emisoras preferidas.
+- Altavoz Easy 2, con Bluetooth 5.0, para que te olvides totalmente de los cables.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KGSD1DZ/?tag=tolees-21)
