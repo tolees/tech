@@ -29,9 +29,9 @@ En este momento está [HUBEI - BPS9 VGP-BPL9 VGP-BPS9 VGP-BPS9/B VGP-BPS9/S VGP-
 🔎:
 
 - Tipo de batería: iones de litio Voltaje: 11,1 V Capacidad: 4400 mAh
-- Nuevo del fabricante. Certificado CE- / FCC- / RoHS para seguridad
-- 12 meses de garantía, 30 días de garantía de reembolso, soporte por correo electrónico 24 x 7.
-- Compatible con modelos: Sony Vaio PCG-5J1L, PCG-5J2L, PCG-5K1L, PCG-5K2L, PCG-5G1L, PCG-5G2L, PCG-5G3L, PCG-6S2L, PCG-6W1L, PCG-6W2L, PCG-6W3L, PCG-6W2L -7131L, PCG-7132L, PCG-7133L, PCG-7111L, PCG-7112L, PCG-7113L, PCG-7Z1L, PCG-7Z2L PCG-8Z1L, PCG-8Z2L
 - Número de pieza compatible: VGP-BPS9 / S VGP-BPL9 VGP-BPS9A / B VGP-BPS10 VGP-BPS9B VGP-BPS9 / B PCG-8W1M BPS9A3
+- Nuevo del fabricante. Certificado CE- / FCC- / RoHS para seguridad
+- Compatible con modelos: Sony Vaio PCG-5J1L, PCG-5J2L, PCG-5K1L, PCG-5K2L, PCG-5G1L, PCG-5G2L, PCG-5G3L, PCG-6S2L, PCG-6W1L, PCG-6W2L, PCG-6W3L, PCG-6W2L -7131L, PCG-7132L, PCG-7133L, PCG-7111L, PCG-7112L, PCG-7113L, PCG-7Z1L, PCG-7Z2L PCG-8Z1L, PCG-8Z2L
+- 12 meses de garantía, 30 días de garantía de reembolso, soporte por correo electrónico 24 x 7.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QQRF383/?tag=tolees-21)
