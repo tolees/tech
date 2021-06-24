@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Redmi 9A - Smartphone 2GB 32GB  Pantalla HD de 6.53" 
 
 🔎:
 
-- OS: Android 10
-- Pantalla: 6.53", 720 x 1600 pixels
-- Batería: 5000 mAh
-- Cámara: 13 MP
 - Procesador: Mediatek Helio G25 2GHz
+- Cámara: 13 MP
+- Batería: 5000 mAh
+- Pantalla: 6.53", 720 x 1600 pixels
+- OS: Android 10
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CH7RHDP/?tag=tolees-21)
