@@ -29,9 +29,9 @@ Tienes [dodocool 20W Cargador USB C para iPhone 11/12/13  Cargador de Pared Tipo
 ℹ️:
 
 - 【12 Meses de garantia】El producto viene con 12 meses de garantía. Póngase en contacto con nosotros inmediatamente, si tiene algún problema, siempre estamos a su disposición.
+- 【Protección de seguridad】 Protección contra cortocircuitos, sobretensiones y sobrecargas para garantizar una carga segura. La carcasa del cargador está hecha de material ignífugo ABS y el cable dispone de protección contra cortocircuitos, temperatura excesiva o sobretensión.
 - 【20 W Carga Rápida】Esta 20 W Cargador USB Tipo C，Carga tu iphone de 0 a 50% en 30 minutos. 3 veces más rápido que el cargador estándar de 5 W. Compatible con todos los dispositivos de tipo-C.
 - 【Lista de Compatibilidad】Cargador rápido PD 20W，Compatible con iPhone 12/12 Mini / 12 Pro / 12 Pro Max, iPhone SE2, iPhone 11/11 Pro / 11 Pro Max, iPhone Xs / Xs Max / XR / X, iPad Pro 12”/11”/10/5”/9,7”, iPad Air 1/2/3, Google Pixel 4/4 XL/3/3 XL/3A, Samsung Galaxy Note 10/9/8/S20/S10/S9/S8/ LG G5/6/7, V20/30/35/50 u otros dispositivos compatibles con USB Power Delivery.
-- 【Protección de seguridad】 Protección contra cortocircuitos, sobretensiones y sobrecargas para garantizar una carga segura. La carcasa del cargador está hecha de material ignífugo ABS y el cable dispone de protección contra cortocircuitos, temperatura excesiva o sobretensión.
 - 【Compacto y portátil】Este cargador de pared USB Compacto y fácil de transportar, agarre cómodo. Facilidad en tu mochila, el enchufe USB C permite cargar en el hogar, viajes, oficina y viajes de negocios.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MFJV15J/?tag=tolees-21)
