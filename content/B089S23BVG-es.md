@@ -28,9 +28,9 @@ En este momento está [SAMSUNG EVO Plus 512GB microSD + Adaptador](https://www.a
 
 🔎:
 
-- Tarjetas de memoria y memorias USB
 - Fácil de usar
-- Memory storage capacity: 512.0
 - MB-MC512HA/UE
+- Memory storage capacity: 512.0
+- Tarjetas de memoria y memorias USB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089S23BVG/?tag=tolees-21)
