@@ -28,13 +28,13 @@ Tienes [Nikon D750 - Cámara réflex digital de 24.3 Mp  pantalla 3.2"  vídeo F
 
 ℹ️:
 
-- Grabación de vídeo 1080p full hd
-- Pantalla abatible de 3.2 pulgadas
 - Sensor de formato FX de 24.3 Mp
-- Velocidad de ráfaga de hasta 6,5 fps
+- Grabación de vídeo 1080p full hd
 - El producto viene con manual de instrucciones en Alemán
+- Velocidad de ráfaga de hasta 6,5 fps
+- Pantalla abatible de 3.2 pulgadas
 - Wi-Fi integrada
-- Procesador de imágen EXPEED 4
 - El producto viene con un enchufe EU
+- Procesador de imágen EXPEED 4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NINZLKK/?tag=tolees-21)

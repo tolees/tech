@@ -30,8 +30,8 @@ Tienes [Memoria Flash USB 3.0 SanDisk Ultra de 128 GB  Velocidad de Lectura de h
 
 - Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 21.9€
+- Hasta 10 veces más rápido que un USB 2.0 estándar
 - Hasta 100 MB/s de velocidades de lectura
 - Transfiere una película completa en menos de 40 segundos
-- Hasta 10 veces más rápido que un USB 2.0 estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00P8XQPY4/?tag=tolees-21)
