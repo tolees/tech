@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Sprocket 200 1AS85A  Impresora  Bluet al 33.30 % de descuento'
-date: 2021-06-02 02:30:32
+date: 2021-06-25 18:02:30
 image: 'https://m.media-amazon.com/images/I/31ltv3kKZpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B07H7CBWM6/?tag=tolees-21'
 descuento: '33.30'
-average: '94.7333333333333'
+average: '96.0475'
 ---
 
 Está [HP Sprocket 200 1AS85A  Impresora  Bluetooth  Tamaño Único  Blanco](https://www.amazon.es/dp/B07H7CBWM6/?tag=tolees-21) con 33.30 de descuento por 99.99 EUR (original: 149.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [HP Sprocket 200 1AS85A  Impresora  Bluetooth  Tamaño Único  Blanco](htt
 
 ℹ️:
 
-- Escanea contenido interactivo: escanea las fotos ya impresas para ver colecciones de fotos y desbloquear contenido interactivo
+- Impresora compacta: aproximadamente con el mismo tamaño que un teléfono móvil, esta impresora de fotos portátil irá contigo a cualquier parte
 - Imprime tus fotos favoritas desde tu móvil y redes sociales gracias a la aplicación gratuita HP Sprocket
 - Con la aplicación Hp Sprocket personaliza tus fotos antes de imprimirlas: añade filtros, emoticonos…
 - Conectividad bluetooth: conecta tu móvil fácilmente via Bluetooth, tú y hasta 5 de tus amigos os podréis conectar e imprimir fotos a la vez
-- Impresora compacta: aproximadamente con el mismo tamaño que un teléfono móvil, esta impresora de fotos portátil irá contigo a cualquier parte
+- Escanea contenido interactivo: escanea las fotos ya impresas para ver colecciones de fotos y desbloquear contenido interactivo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H7CBWM6/?tag=tolees-21)
