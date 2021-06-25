@@ -28,8 +28,8 @@ Tienes [Tech air TANZ0330 - Funda Blanda para Ordenador portátil de 13.3"  Negr
 
 ℹ️:
 
-- Protección anti golpes
-- Protección anti polvo
 - Protección anti de arañazos
+- Protección anti polvo
+- Protección anti golpes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BUZBIXC/?tag=tolees-21)
