@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 15.40 % en Xiaomi XM200023 Robot Aspirador  33 W  0'
-date: 2021-06-03 16:34:11
+title: 'Descuento del 24.75 % en Xiaomi XM200023 Robot Aspirador  33 W  0'
+date: 2021-06-25 20:02:52
 image: 'https://m.media-amazon.com/images/I/31HXcQfHbcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B085BP7ZC5-es Xiaomi XM200023 Robot Aspirador 33 W 0.3 litros 76...'
 sku: 'B085BP7ZC5-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','xiaomi', ]
-actualPrice: 245.0 EUR
+actualPrice: 225.0 EUR
 currency: EUR
-price: 245.0
-comparePrice: 289.59 EUR
+price: 225.0
+comparePrice: 299.0 EUR
 prodname: 'Xiaomi XM200023 Robot Aspirador  33 W  0.3 litros  76 Decibeles  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B085BP7ZC5/?tag=tolees-21'
-descuento: '15.40'
-average: '300.118181818182'
+descuento: '24.75'
+average: '293.858333333334'
 ---
 
-Tienes [Xiaomi XM200023 Robot Aspirador  33 W  0.3 litros  76 Decibeles  Color Negro](https://www.amazon.es/dp/B085BP7ZC5/?tag=tolees-21) con un 15.40 % de descuento con precio de oferta de 245.0 EUR (original: 289.59 EUR) en el siguiente enlace!
+Tienes [Xiaomi XM200023 Robot Aspirador  33 W  0.3 litros  76 Decibeles  Color Negro](https://www.amazon.es/dp/B085BP7ZC5/?tag=tolees-21) con un 24.75 % de descuento con precio de oferta de 225.0 EUR (original: 299.0 EUR) en el siguiente enlace!
 
 [![Xiaomi XM200023 Robot Aspirador  33 W  0](https://m.media-amazon.com/images/I/31HXcQfHbcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B085BP7ZC5/?tag=tolees-21)
 

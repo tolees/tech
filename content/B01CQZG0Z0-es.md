@@ -29,9 +29,9 @@ Tienes [Rii BT11 Ultra-delgado teclado bluetooth con una función de multi-touch
 ℹ️:
 
 - Ultra portabilidad - Diseño ultraligero delgado y compacto que lo hacen fácil de guardar en su mochila o maletín y llevarlo a cualquier parte para su uso.
-- El diseño QWERTY con hot keys, compatible con iOS / Mac OS, Android, Windows, y todas las tabletas , portátiles y ordenadores con Bluetooth.
-- Amplio touchpad integrado compatible con los intuitivos gestos de Windows 8.
-- Utilizando el chips de Broadcom Bluetooth 3.0 americana , 8 veces más rápido que Bluetooth 2.0. La conexión de alta velocidad y la distancia de señal hasta 33 pies (10 m).
 - Diseño ultra delgado, se guarda fácilmente en una mochila, bolsa de mensajero, o una caja . Diseño inclinado ergonómico reduce la tensión de la muñeca.
+- El diseño QWERTY con hot keys, compatible con iOS / Mac OS, Android, Windows, y todas las tabletas , portátiles y ordenadores con Bluetooth.
+- Utilizando el chips de Broadcom Bluetooth 3.0 americana , 8 veces más rápido que Bluetooth 2.0. La conexión de alta velocidad y la distancia de señal hasta 33 pies (10 m).
+- Amplio touchpad integrado compatible con los intuitivos gestos de Windows 8.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CQZG0Z0/?tag=tolees-21)

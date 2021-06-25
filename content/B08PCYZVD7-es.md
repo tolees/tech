@@ -29,9 +29,9 @@ Ahora mismo tienes [JBL Xtreme 2 Gun Metal altavoz Bluetooth portátil resistent
 🔎:
 
 - No olvides que es impermeable con el IPX7; con su resistencia a las gotas, salpicaduras o caídas al agua, ya no tienes excusa. Adecuado para escapadas a la piscina, a la playa o incluso en casa
+- Tienes 15h de tiempo de reproducción todo gracias a una batería de 10000 mAh recargable de ion de litio y con JBL Connect puedes enlazar de forma inalámbrica de 100 adecuadavoces
 - El altavoz lleva ganchos integrados, una base metálica duradera y un abridor de botellas añadido a la correa de transporte que aporta comodidad mientras te desplazas; apropiado para cualquier lugar
 - Disfruta de tu música en cualquier parte este potente altavoz te ofrece un sonido estéreo dinámico y envolvente al mismo tiempo. Dispone incluso de una práctica salida de carga USB
 - Contenido del envío 1x JBL Xtreme 2 Gun Metal altavoz portátil con Bluetooth resistente al agua con IPX7, 1x adaptador de corriente, 1x correa, Guía de inicio rápido, Hoja de seguridad
-- Tienes 15h de tiempo de reproducción todo gracias a una batería de 10000 mAh recargable de ion de litio y con JBL Connect puedes enlazar de forma inalámbrica de 100 adecuadavoces
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PCYZVD7/?tag=tolees-21)
