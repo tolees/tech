@@ -29,10 +29,10 @@ Tienes [Fujifilm Instax Wide - Película fotográfica instantánea de gran forma
 ℹ️:
 
 - ISO 800 y grano ultra fino
+- El tamaño de la foto es de 86 x 108 mm y el de la imagen 62 x 99 mm
 - Tiempo de revelado de máximo 5 m (entre 5° y 40° C)
 - Compatible con los modelos WIDE 300, 210, 200, 100 y 500AF (No compatible con Instax mini)
 - Formato panorámico adecuado para photocall
-- El tamaño de la foto es de 86 x 108 mm y el de la imagen 62 x 99 mm
 - 10 fotos por carga (2 packs x 10)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00005NPPQ/?tag=tolees-21)

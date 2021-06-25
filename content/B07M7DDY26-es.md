@@ -28,10 +28,10 @@ Está [Trust Gaming Cascos PS4 & PS5 GXT 307B Ravu Auriculares Gamer con Micróf
 
 ℹ️:
 
-- Cable de 1 m para consolas
 - Micrófono plegable y corto y diadema ajustable
+- Mando a distancia integrado con control de volumen y silenciamiento del micrófono
+- Cable de 1 m para consolas
 - Cable alargador de 1 m para PC/ordenador portátil
 - Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X) con suaves y cómodas almohadillas circumaurales
-- Mando a distancia integrado con control de volumen y silenciamiento del micrófono
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M7DDY26/?tag=tolees-21)
