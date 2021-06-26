@@ -28,11 +28,11 @@ En este momento está [Power A - Estación de carga doble PowerA para PlayStatio
 
 🔎:
 
+- Olvídate de quedarte sin batería
 - Con adaptador de CA
 - Diseño con carga presionando hacia abajo
+- Puedes cargar 2 mandos inalámbricos DUALSHOCK 4
 - Con licencia oficial de Sony
 - Carga y exposición
-- Puedes cargar 2 mandos inalámbricos DUALSHOCK 4
-- Olvídate de quedarte sin batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TGYCAB8/?tag=tolees-21)

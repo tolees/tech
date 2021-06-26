@@ -28,10 +28,10 @@ En este momento está [Honor Router 3-Enrutador Inalámbrico Doble Banda  WiFi 6
 
 🔎:
 
-- Mesh red - incluso puede crear una red mesh con dos honor router 3 para una cobertura más amplia para una señal más consistente y fuerte
-- Doble banda wi-fi 6 plus- velocidad de red ultrarrápida de 3000 mbps - 574mbps en la banda de 2,4ghz y 2402mbps en la banda de 5ghz
-- Ai life aplicación- configura y administra tu wi-fi fácilmente. Admite control de ancho de banda, controles parentales, eliminación de dispositivos no autorizados con un clic, acceso programado a wi-fi, luces indicadoras, administración de wi-fi, wi-fi para invitados, etc.
 - Tecnología ofdma + procesador gigahome dual-core de 1.2ghz - agrupe señales y transmítalas simultáneamente a múltiples dispositivos - con hasta 4 dispositivos en la banda de 2.4ghz y hasta 16 dispositivos en la banda de 5ghz. Capaz de conectar hasta 128 dispositivos en total en dos bandas
+- Ai life aplicación- configura y administra tu wi-fi fácilmente. Admite control de ancho de banda, controles parentales, eliminación de dispositivos no autorizados con un clic, acceso programado a wi-fi, luces indicadoras, administración de wi-fi, wi-fi para invitados, etc.
+- Mesh red - incluso puede crear una red mesh con dos honor router 3 para una cobertura más amplia para una señal más consistente y fuerte
 - Mejorado wi-fi 5 en ancho de banda de 160mhz - velocidad 60% más rápida en dispositivos compatibles honor wi-fi 5
+- Doble banda wi-fi 6 plus- velocidad de red ultrarrápida de 3000 mbps - 574mbps en la banda de 2,4ghz y 2402mbps en la banda de 5ghz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FD8X48Q/?tag=tolees-21)

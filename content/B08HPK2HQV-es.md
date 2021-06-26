@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi True Wireless Earbuds Basic 2  Auriculares Inalám
 
 🔎:
 
-- [Auriculares Bluetooth 5.0] Airdots 2 está equipado con un chip Bluetooth 5.0, la velocidad de transmisión de datos es el doble que la de la generación anterior y la conexión es más rápida y estable, y escuchar música y juegos es más fluido
-- [3 tamaños de auriculares deportivos a prueba de agua] La tecnología Bluetooth más avanzada reemplaza los auriculares con cable tradicionales. Ofrecemos 3 tamaños diferentes de tapones de silicona para los oídos (S, M, L), que pueden mantener los tapones para los oídos estables y cómodos durante la escalada y otros ejercicios.
 - [Auriculares inalámbricos y reducción de ruido estéreo] Redmi Airdots 2 proporciona modos estéreo y mono, están equipados con un controlador dinámico de 7.2 mm y un sistema inteligente de reducción de ruido, pueden disfrutar de una calidad de sonido de alta calidad, 4.1 gramos de diseño liviano es muy adecuado para escuchar música correr
 - [Botón físico multiusos y asistente de voz] Los auriculares Bluetooth Redmi Airdots 2 TWS tienen un micrófono y están equipados con botones físicos multifuncionales, que pueden reducir los botones falsos y admitir asistentes de voz, Siri, Mi Ai y Google Assistant. Haga doble clic en Phone Assistant para habilitar la función de asistente de voz del teléfono. (Requiere teléfono móvil para admitir la función de voz y activar la configuración de activación rápida)
 - [Auriculares deportivos con micrófono] Un auricular Bluetooth de alta calidad con un micrófono incorporado, puede realizar llamadas fácilmente y la calidad de la llamada es estable. Además, Redmi AirDots 2 también agrega un nuevo modo de juego de baja latencia, que se puede lograr presionando el botón 3 en el auricular. Activar de nuevo
+- [3 tamaños de auriculares deportivos a prueba de agua] La tecnología Bluetooth más avanzada reemplaza los auriculares con cable tradicionales. Ofrecemos 3 tamaños diferentes de tapones de silicona para los oídos (S, M, L), que pueden mantener los tapones para los oídos estables y cómodos durante la escalada y otros ejercicios.
+- [Auriculares Bluetooth 5.0] Airdots 2 está equipado con un chip Bluetooth 5.0, la velocidad de transmisión de datos es el doble que la de la generación anterior y la conexión es más rápida y estable, y escuchar música y juegos es más fluido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HPK2HQV/?tag=tolees-21)
