@@ -28,9 +28,9 @@ Está [Sony MHCV11 - Sistema de Audio en casa  Altavoz para Fiesta de Alta Poten
 
 ℹ️:
 
-- Mega Bass
+- Reescalado DSEE
 - Efectos de DJ
 - Bluetooth, NFC, radio, CD, USB
-- Reescalado DSEE
+- Mega Bass
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CDNEEEO/?tag=tolees-21)
