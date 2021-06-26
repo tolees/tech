@@ -28,10 +28,10 @@ En este momento está [DOMISO 10 Pulgada Funda Ordenador Portátil Impermeable B
 
 🔎:
 
-- El exterior resistente al agua para proteger su dispositivo contra derrames accidentales; con una capa de relleno de espuma de poliéster y almohadillas de espuma internas suaves y esponjosas para proteger su tableta / computadora portátil contra el polvo, arañazos, caídas y golpes.
-- Compatible con 9.7"10.5" 11" iPad Pro/10.5" iPad Air/2017 New 9,7" iPad/10" Microsoft Surface Go/10.1" Lenovo Smart Tab P10/Tab M10/10.8" Lenovo Yoga Book C930/10.1" Lenovo Ideapad D330/ 10.8" HUAWEI MediaPad M5 Pro/10.5" Samsung Galaxy Tab A S4/10.6" Samsung Galaxy Book/10" ACER Iconia One Tablet/10.1" Acer Iconia One 10.
 - Un bolsillo frontal adicional del estuche es ideal para almacenar artículos pequeños como adaptadores de corriente, cables, bolígrafos y blocs de notas, ofreciendo una mayor comodidad.
-- Delgado y liviano, puede deslizarse fácilmente en el maletín, la mochila u otras bolsas.
 - Dimensiones externas: 10.4 "x 7.7" x 0.8 "/ 26.5 x 19.5 x 2.0 cm. Interno Dimensiones: 10,0" x 7,3" x 0,6" / 25,5 x 18,5 x 1,5 cm.
+- Delgado y liviano, puede deslizarse fácilmente en el maletín, la mochila u otras bolsas.
+- Compatible con 9.7"10.5" 11" iPad Pro/10.5" iPad Air/2017 New 9,7" iPad/10" Microsoft Surface Go/10.1" Lenovo Smart Tab P10/Tab M10/10.8" Lenovo Yoga Book C930/10.1" Lenovo Ideapad D330/ 10.8" HUAWEI MediaPad M5 Pro/10.5" Samsung Galaxy Tab A S4/10.6" Samsung Galaxy Book/10" ACER Iconia One Tablet/10.1" Acer Iconia One 10.
+- El exterior resistente al agua para proteger su dispositivo contra derrames accidentales; con una capa de relleno de espuma de poliéster y almohadillas de espuma internas suaves y esponjosas para proteger su tableta / computadora portátil contra el polvo, arañazos, caídas y golpes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BQZTLDF/?tag=tolees-21)
