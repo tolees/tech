@@ -28,9 +28,9 @@ Ahora mismo tienes [Microsoft GFU-00002 Accesorio Dispositivo de Entrada - Acces
 
 🔎:
 
-- 3 minas:2H (mina roja), B (mina azul) y HB (mina negra).
-- Más fáciles de cambiar a mano.
-- Compatibles con los lápices Surface 2017 y Surface V4.
 - Rediseñadas para una mayor resistencia.
+- Más fáciles de cambiar a mano.
+- 3 minas:2H (mina roja), B (mina azul) y HB (mina negra).
+- Compatibles con los lápices Surface 2017 y Surface V4.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0748MVZ7N/?tag=tolees-21)
