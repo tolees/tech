@@ -28,10 +28,10 @@ En este momento está [Cable guy Deadpool  soporte de sujeción o carga para man
 
 🔎:
 
+- Compatible con todos los teléfonos móviles o smartphones actuales
+- Personaje Deadpool
+- Producto con licencia oficial Marvel
 - Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 - Compatible con mando o controller PS4, Xbox one
-- Compatible con todos los teléfonos móviles o smartphones actuales
-- Producto con licencia oficial Marvel
-- Personaje Deadpool
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079TM18VN/?tag=tolees-21)
