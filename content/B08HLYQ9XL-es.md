@@ -29,8 +29,8 @@ Tienes [Gigabyte Technology GV-N3090GAMING OC-24GD Tarjeta gráfica NVIDIA GeFor
 🔎:
 
 - Producto de alta calidad
-- Gigabyte gv-n3090gaming oc-24gd tarjeta gráfica nvidia geforce rtx 3090 24 gb gddr6x
 - Fácil de usar
+- Gigabyte gv-n3090gaming oc-24gd tarjeta gráfica nvidia geforce rtx 3090 24 gb gddr6x
 - Producto practico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HLYQ9XL/?tag=tolees-21)
