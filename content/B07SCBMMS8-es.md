@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RT-AX92U - Router Gaming Wi-Fi 6 AX con un 32.05 % de descuento'
-date: 2021-06-24 22:47:30
+date: 2021-06-25 23:15:53
 image: 'https://m.media-amazon.com/images/I/31UZX+P1JlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B07SCBMMS8/?tag=tolees-21'
 descuento: '32.05'
-average: '176.739024390245'
+average: '177.227380952382'
 ---
 
 En este momento está [ASUS RT-AX92U - Router Gaming Wi-Fi 6 AX6100 Tri-Banda Gigabit  OFDMA  MU-MIMO  Triple VLAN  Modo Punto de Acceso  AiProtection Pro con Trend Micro  Adaptive QoS  soporta Ai Mesh WiFi ](https://www.amazon.es/dp/B07SCBMMS8/?tag=tolees-21) a 197.25 EUR (original: 290.3 EUR) (32.05 %  de descuento) en el siguiente enlace!
