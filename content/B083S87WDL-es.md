@@ -30,8 +30,8 @@ Ahora mismo tienes [Donpow Auricular Bluetooth  104db Estéreo inalámbrico Blue
 
 - Calidad de sonido estéreo:Los auriculares adoptan un altavoz profesional para niños (104db) y divisores de 40 mm con tecnología EQ, que producen un sonido de alta calidad. Calidad de sonido estéreo superior que saca lo mejor de su música, incluidos detalles sutiles que quizás nunca haya notado
 - Diseño encantador y luz LED:Está diseñado con un oído encantador y luces LED RGB encantadoras en estos auriculares Bluetooth para niños, que hacen que los niños se vean lindos, atractivos y relajantes cuando se ponen los auriculares
-- Ajustable y cómodo y plegable:Los auriculares diseñados específicamente para niños con ergonomía y la diadema ajustable, un cojín acolchado suave que garantizan un ajuste cómodo para los niños en crecimiento.El diseño plegable lo hace ideal para el almacenamiento o el transporte, será un gran compañero de viaje para su hijo
-- Mayor tiempo de juego:Mejoramos la batería hasta 400mAh, puede durar más de 7 horas con efectos LED y 12 horas cuando la luz LED está apagada
 - Actualice Bluetooth 5.0:La versión 5.0 de Bluetooth puede hacer que los auriculares inalámbricos se conecten de forma rápida y estable. Avanzado compatible con teléfonos inteligentes, computadoras portátiles, computadoras, TV y muchos otros dispositivos habilitados para Bluetooth
+- Mayor tiempo de juego:Mejoramos la batería hasta 400mAh, puede durar más de 7 horas con efectos LED y 12 horas cuando la luz LED está apagada
+- Ajustable y cómodo y plegable:Los auriculares diseñados específicamente para niños con ergonomía y la diadema ajustable, un cojín acolchado suave que garantizan un ajuste cómodo para los niños en crecimiento.El diseño plegable lo hace ideal para el almacenamiento o el transporte, será un gran compañero de viaje para su hijo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083S87WDL/?tag=tolees-21)
