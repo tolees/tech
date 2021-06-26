@@ -28,10 +28,10 @@ Está [HUBEI - 1F22N 0JJPFK 08622M XRGXX 06YV0V Batería de repuesto para comput
 
 ℹ️:
 
-- Compatible con el modelo: Dell Alienware M15 R1 2018 Alienware M17 R1 2019, G7 7590 7790 G5 5590-D2783W D2743B D2865B D2863W D2842W D2843W Series Notebook.
-- Tipo de batería: Li-ion Voltaje: 15,2 V Capacidad: 60 Wh 3750 mAh
-- Número de pieza compatible: 1F22N 0JJPFK 08622M XRGXX 06YV0V
 - 12 meses de garantía, 30 días de garantía de reembolso, soporte por correo electrónico 24 x 7.
+- Número de pieza compatible: 1F22N 0JJPFK 08622M XRGXX 06YV0V
+- Tipo de batería: Li-ion Voltaje: 15,2 V Capacidad: 60 Wh 3750 mAh
 - Nuevo del fabricante. Certificado CE- / FCC- / RoHS para seguridad
+- Compatible con el modelo: Dell Alienware M15 R1 2018 Alienware M17 R1 2019, G7 7590 7790 G5 5590-D2783W D2743B D2865B D2863W D2842W D2843W Series Notebook.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T27WYF1/?tag=tolees-21)
