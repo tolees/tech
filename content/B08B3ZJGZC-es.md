@@ -28,15 +28,15 @@ En este momento está [InnovaGoods Auriculares Inalámbricos con Carga Magnétic
 
 🔎:
 
-- Control táctil
-- Colores en tonos pastel (acabado en mate)
-- Bluetooth 5.0
-- Estuche-base de carga
-- Diseño moderno y ergonómico
 - Antihuellas
-- Cierre imantado
 - Carga magnética
-- LED indicador de carga
 - Resistente al sudor
+- Diseño moderno y ergonómico
+- Control táctil
+- LED indicador de carga
+- Bluetooth 5.0
+- Cierre imantado
+- Colores en tonos pastel (acabado en mate)
+- Estuche-base de carga
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3ZJGZC/?tag=tolees-21)
