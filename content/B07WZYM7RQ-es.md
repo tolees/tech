@@ -28,10 +28,10 @@ Ahora mismo tienes [Western Digital - WD My Passport Ultra para Mac disco duro p
 
 🔎:
 
+- Preparado para usb-c y compatible con usb 3.0
 - Hasta 5.tb de capacidad
 - Protección mediante contraseña con cifrado de hardware aes de 256 bits
 - Wd discovery le permite importar contenido desde redes sociales y almacenamiento en la nube
 - Estilo innovador con una elegante carcasa metálica
-- Preparado para usb-c y compatible con usb 3.0
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WZYM7RQ/?tag=tolees-21)

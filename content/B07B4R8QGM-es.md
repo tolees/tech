@@ -28,10 +28,10 @@ En este momento está [Sony Alpha 7 III - Cámara evil de fotograma completo con
 
 🔎:
 
-- ENFOQUE AUTOMÁTICO FIABLE: confía en el seguimiento en tiempo real y en el Eye AF (personas / animales) para mantener tu sujeto nítido en cualquier situación
-- GRABACIÓN DE VIDEO PROFESIONAL: con lectura de píxeles completos sin agrupamiento para grabación de vídeos 4K HDR de alta resolución
 - ÓPTIMO PARA: usuarios que desean un objetivo compacto para todos los días
 - CALIDAD DE IMAGEN IMPRESIONANTE: sensor de fotograma completo de 24 Mp combinado con capacidades ISO altas para ofrecer una imagen óptima incluso con poca luz
+- ENFOQUE AUTOMÁTICO FIABLE: confía en el seguimiento en tiempo real y en el Eye AF (personas / animales) para mantener tu sujeto nítido en cualquier situación
+- GRABACIÓN DE VIDEO PROFESIONAL: con lectura de píxeles completos sin agrupamiento para grabación de vídeos 4K HDR de alta resolución
 - DISPARO CONTINUO: estabilización de imagen óptica de 5 ejes para imágenes fijas y para compensar los movimientos de la cámara en vídeo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B4R8QGM/?tag=tolees-21)
