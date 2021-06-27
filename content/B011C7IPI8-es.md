@@ -28,8 +28,8 @@ En este momento está [Nintendo - Disney Infinity 3.0 - Star Wars PlaySet  Episo
 
 🔎:
 
-- Dimensiones del producto 21 x 30,4 x 7,6 cm, 263 g
 - Incluye las figuras de Rey y Finn
+- Dimensiones del producto 21 x 30,4 x 7,6 cm, 263 g
 - Pack con 2 figuras de la película Star Wars: El despertar de la fuerza para Disney Infinity 3.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B011C7IPI8/?tag=tolees-21)

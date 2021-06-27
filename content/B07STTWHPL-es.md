@@ -29,9 +29,9 @@ Ahora mismo tienes [Xiaomi Pulsera inteligente Bluetooth con monitor de frecuenc
 🔎:
 
 - No molestar - Modo (también funciona sin teléfono), control de sonido en la cinta
-- vigilancia de la salud: 24/7 monitoreo de la frecuencia cardíaca y el sueño - seguimiento.
-- Hasta 20 días de la batería: Una sola carga dura hasta 20 días.
 - A todo color - AMOLED - tacto - Pantalla: Vista de llamadas, texto y aplicación - Notificaciones
+- Hasta 20 días de la batería: Una sola carga dura hasta 20 días.
 - Actividad y flota seguimiento a prueba de agua hasta 50 metros, 3 - eje - acelerómetros 3 - eje - giroscopio
+- vigilancia de la salud: 24/7 monitoreo de la frecuencia cardíaca y el sueño - seguimiento.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STTWHPL/?tag=tolees-21)
