@@ -28,10 +28,10 @@ En este momento está [Epson Workforce WF-2850 - Impresora Multifunción Color](
 
 🔎:
 
-- Características para empresas | ADF, documentos de calidad empresarial e impresión a doble cara en A4
 - Wi-Fi 4 en 1 | Impresión, escaneado, copia y función de fax
+- Características para empresas | ADF, documentos de calidad empresarial e impresión a doble cara en A4
+- Pantalla LCD de 6,1 cm | Explora fácilmente las funciones de la impresora
 - Impresión y escaneado móvil de forma sencilla | Imprime fácilmente desde tu smartphone o tablet y usa el escaneado a la nube
 - Tintas independientes | Cambia solo los colores usados y ahorra dinero
-- Pantalla LCD de 6,1 cm | Explora fácilmente las funciones de la impresora
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WL7BB43/?tag=tolees-21)
