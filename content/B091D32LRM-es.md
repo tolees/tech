@@ -28,8 +28,8 @@ Ahora mismo tienes [Huawei Band 6 - Fitness Tracker Forest Green](https://www.am
 
 🔎:
 
+- Gran pantalla AMOLED
 - Monitorización del Oxígeno en sangre 24/7
 - Hasta dos semanas de batería
-- Gran pantalla AMOLED
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091D32LRM/?tag=tolees-21)
