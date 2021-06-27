@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.67 % en NGS FOG BLACK - Ratón Óptico Inalámbrico'
-date: 2021-06-16 08:01:01
+date: 2021-06-27 13:30:43
 image: 'https://m.media-amazon.com/images/I/41fSce4vNbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NGS'
 buyurl: 'https://www.amazon.es/dp/B01BJQ25FG/?tag=tolees-21'
 descuento: '45.67'
-average: '5.48724137931036'
+average: '5.46733333333335'
 ---
 
 Tienes [NGS FOG BLACK - Ratón Óptico Inalámbrico 2.4GHz  Ratón para Ordenador o Laptop Con 2 Botones y Scroll  1000dpi  Ambidiestro  Negro](https://www.amazon.es/dp/B01BJQ25FG/?tag=tolees-21) con un 45.67 % de descuento con precio de oferta de 4.89 EUR (original: 9.0 EUR) en el siguiente enlace!
