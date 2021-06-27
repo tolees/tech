@@ -28,8 +28,8 @@ En este momento está [HD SSD SAMSUNG 250GB 970 EVO Plus M.2 PCI Express 3.0 V-N
 
 🔎:
 
+- Fácil de usar
 - Memory storage capacity: 250.0
 - Muy conveniente
-- Fácil de usar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ND5F63V/?tag=tolees-21)

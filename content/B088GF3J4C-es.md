@@ -29,8 +29,8 @@ Tienes [Ozone Gaming - Barra de Sonido Ozone SOLO - Altavoz Pc Gaming - 6W RMS  
 🔎:
 
 - ESPACIO OPTIMIZADO: El altavoz bluetooth SOLO está especialmente diseñado de una manera compacta y alargada para que puedas disfrutar de cada momento. ¡No te preocupes por el espacio de tu ordenador portatil o pc de sobremesa!
-- SONIDO ENVOLVENTE: La barra de sonido Ozone ofrece un potente sonido de 6W y junto a sus 2 altavoces encontrarás la mejor experiencia tanto a hora de tus sesiones gaming como cuando veas series, películas o escuches música.
 - CONEXION TOTAL: El versátil Ozone Solo utiliza la tecnología inalámbrica Bluetooth 4.2 lo que posibilita conectarlo también al smartphone. Además, cuenta con un jack de 3,5 mm, así como con 2 puertos USB.
+- SONIDO ENVOLVENTE: La barra de sonido Ozone ofrece un potente sonido de 6W y junto a sus 2 altavoces encontrarás la mejor experiencia tanto a hora de tus sesiones gaming como cuando veas series, películas o escuches música.
 - TAMBIÉN PARA TV: La barra de sonido SOLO 2.0 también esta pensada para mejorar tu experiencia en tu television. Su fácil portabilidad y calidad de sonido harán de é un gran aliado.
 - CONEXION TOTAL: El versátil Ozone Solo utiliza la tecnología inalámbrica Bluetooth 4.2 lo que posibilita conectarlo también al smartphone. Además, cuenta con un jack de 3,5 mm, así como con 2 puertos USB.
 
