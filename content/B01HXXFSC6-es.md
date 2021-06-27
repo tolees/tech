@@ -28,10 +28,10 @@ Está [Panasonic Eneloop Cargador rápido Inteligente](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Compatible con las baterías NiMH AA / Mignon o AAA / Micro
 - Entrada: CA 100- 240 V / 50- 60 Hz 0.3 A / Salida: DC 1.5 V x 4; 3.2 A máximo
-- Con una amplia gama de tensiones, protección de sobrecarga, indicador de carga LED y un solo mando
 - Contenido del paquete: cargador BQ cc55e,4 x pilas Eneloop 3hdc BK, instrucciones en blister
+- Compatible con las baterías NiMH AA / Mignon o AAA / Micro
 - Con una capacidad de 2500 mAh
+- Con una amplia gama de tensiones, protección de sobrecarga, indicador de carga LED y un solo mando
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HXXFSC6/?tag=tolees-21)
