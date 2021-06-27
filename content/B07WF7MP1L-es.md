@@ -28,10 +28,10 @@ Está [DeeCozy Guardabarros delantero y trasero del guardabarros Scooter  parte 
 
 ℹ️:
 
-- Viene con una pequeña llave hexagonal y tres tornillos, muy fáciles de instalar y quitar.
 - Adoptando plástico ABS premium, súper fuerte y duradero, antidesgaste y antienvejecimiento.
-- El kit de guardabarros de scooter es perfecto para Xiaomi M365 o scooter eléctrico Pro. 90 días de garantía de devolución de dinero y reemplazo gratuito.
-- Dimensión apro: guardabarros delantero: 10x3x2 pulgadas, guardabarros trasero: 12x5x2 pulgadas.
 - El kit de guardabarros evita que el barro y el agua salpiquen con eficacia.
+- Dimensión apro: guardabarros delantero: 10x3x2 pulgadas, guardabarros trasero: 12x5x2 pulgadas.
+- El kit de guardabarros de scooter es perfecto para Xiaomi M365 o scooter eléctrico Pro. 90 días de garantía de devolución de dinero y reemplazo gratuito.
+- Viene con una pequeña llave hexagonal y tres tornillos, muy fáciles de instalar y quitar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WF7MP1L/?tag=tolees-21)
