@@ -29,8 +29,8 @@ Está [LG LG 27GN850-B- Monitor Gaming Ultragear de 27" FullHD  1920x1080  IPS L
 ℹ️:
 
 - Interacción en tiempo real y sin retrasos gracias a Dynamic Action Sync (DAS Mode)
-- Panel IPS de frecuencia de actualizacion de 144Hz, único en el mercado con 1ms la máxima velocidad de respuesta nativa
 - Tecnología AMD FreeSync para disfrutar de toda la acción sin parpadeos incluso a bajos FPS gracias al LFC, ahora tambien compatible con gráficas NVIDIA y con la interfaz G-Sync
+- Panel IPS de frecuencia de actualizacion de 144Hz, único en el mercado con 1ms la máxima velocidad de respuesta nativa
 - Estabilizador de Negros (Tecnología Black Stabilizer), que permite colores oscuros más diferenciados
 - Brillos más intensos, sombras más profundas y siluetas mejor definidas, mejorando la experiencia de juego al conectarse a consolas compatibles con HDR (Xbox One S / PS4 Pro) o una GPU compatible con HDR.
 

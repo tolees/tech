@@ -28,13 +28,13 @@ Está [D-Link GO-SW-16G Gigabit Easy Ethernet Gigabit Desktop Switch  Schwarz  E
 
 ℹ️:
 
-- D-Link Green: los puertos sin conexión se desconectan automáticamente y se detecta la longitud del cable para variar la carga eléctrica, alcanzando un ahorro energético de hasta un 85%
 - Instalación simple plug and play ahorra tiempo
-- Sin ventilador, funcionamiento silencioso
 - Carcasa de plástico innovadora para una mejor disipación de calor y tamaño compacto.
-- Contenido de la entrega: D-Link GO-SW-16G Gigabit Easy Desktop Switch (16 puertos)
-- Ahorre energía al detectar la longitud del cable y el estado de la conexión
 - Atención: el diseño del producto puede variar, no es posible una selección
 - Diseño sin ventilador para un funcionamiento silencioso.
+- Sin ventilador, funcionamiento silencioso
+- Ahorre energía al detectar la longitud del cable y el estado de la conexión
+- D-Link Green: los puertos sin conexión se desconectan automáticamente y se detecta la longitud del cable para variar la carga eléctrica, alcanzando un ahorro energético de hasta un 85%
+- Contenido de la entrega: D-Link GO-SW-16G Gigabit Easy Desktop Switch (16 puertos)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IMC1QK6/?tag=tolees-21)
