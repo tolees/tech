@@ -28,9 +28,9 @@ Tienes [Xiaomi Redmi 9T - Smartphone 128GB  4GB RAM  Dual Sim  Carbon Gray](http
 
 🔎:
 
+- Cámara: Triple, 48MP+13MP+8MP
 - Pantalla: 6.39", 1080 x 2340 pixels
 - Procesador: Snapdragon 730 2.2GHz
-- Cámara: Triple, 48MP+13MP+8MP
 - Batería: 4000 mAh
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VWTNBX9/?tag=tolees-21)

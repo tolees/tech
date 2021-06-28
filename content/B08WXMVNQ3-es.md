@@ -28,9 +28,9 @@ En este momento está [realme 8 Pro Smartphone Libre  Cámara cuádruple Ultra d
 
 🔎:
 
-- Pantalla: 6.4", 1080 x 2400 pixels
-- Procesador: Snapdragon 720G 2.3GHz
 - Cámara: Cuádruple, 108MP+8MP +2MP+2MP
 - Batería: 4500 mAh
+- Procesador: Snapdragon 720G 2.3GHz
+- Pantalla: 6.4", 1080 x 2400 pixels
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WXMVNQ3/?tag=tolees-21)

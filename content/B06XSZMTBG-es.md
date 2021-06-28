@@ -28,8 +28,8 @@ Está [Case Logic LAPS116BRK - Funda de Neopreno para Ordenador portátil de 16"
 
 ℹ️:
 
-- Funda de neopreno
 - Para ordenador portatil de 15.6"
 - Se adecua perfectamente a tu dispositivo
+- Funda de neopreno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XSZMTBG/?tag=tolees-21)
