@@ -28,12 +28,12 @@ Tienes [Huawei Matebook D14 - Ordenador Portátil Ultrafino de 14" FullHD  Intel
 
 🔎:
 
-- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS.
-- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz).
-- Almacenamiento de 512GB SSD NVMe PCIe.
-- Sistema Operativo Windows 10 Home.
 - Sensor de Huella Huawei One Touch para encender y loggearte fácilmente en tu ordenador con tan sólo presionar el botón de encendido.
 - Memoria RAM de 16GB DDR4.
+- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz).
 - Tarjeta gráfica integrada Intel UHD Graphics.
+- Almacenamiento de 512GB SSD NVMe PCIe.
+- Sistema Operativo Windows 10 Home.
+- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0914QQJYZ/?tag=tolees-21)

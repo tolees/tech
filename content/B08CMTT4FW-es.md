@@ -28,11 +28,11 @@ Tienes [ASUS Chromebook Z1500CN-EJ0400 - Ordenador Portátil de 15.6" FullHD  In
 
 🔎:
 
-- Memoria RAM de 8GB (en placa) LPDDR4
-- Almacenamiento de 64GB eMMC
-- Procesador Intel Core N3350 (1.1GHz, 2MB)
-- Pantalla de 15.6" Full HD (1920 x 1080)
-- Chrome OS
 - Tarjeta gráfica integrada Intel HD Graphics 500
+- Almacenamiento de 64GB eMMC
+- Pantalla de 15.6" Full HD (1920 x 1080)
+- Memoria RAM de 8GB (en placa) LPDDR4
+- Chrome OS
+- Procesador Intel Core N3350 (1.1GHz, 2MB)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CMTT4FW/?tag=tolees-21)
