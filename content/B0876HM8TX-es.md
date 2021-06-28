@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony HT-S20R - Barra de Sonido  5.1 Cana con un 28.64 % de descuento'
-date: 2021-06-19 09:46:42
+title: 'Sony HT-S20R - Barra de Sonido  5.1 Cana con un 28.40 % de descuento'
+date: 2021-06-28 06:16:55
 image: 'https://m.media-amazon.com/images/I/21U0hJ8qy+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B0876HM8TX-es Sony HT-S20R - Barra de Sonido 5.1 Canales Bluetooth 400 W...'
 sku: 'B0876HM8TX-es'
 tags: [ 'Altavoces','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi','bluetooth','sony', ]
-actualPrice: 178.4 EUR
+actualPrice: 179.0 EUR
 currency: EUR
-price: 178.4
+price: 179.0
 comparePrice: 250.0 EUR
 prodname: 'Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  400 W  USB  HDMI ARC  Conexiones ópticas y analógicas  Sonido de Cine  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21'
-descuento: '28.64'
-average: '203.005128205127'
+descuento: '28.40'
+average: '202.801694915253'
 ---
 
-En este momento está [Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  400 W  USB  HDMI ARC  Conexiones ópticas y analógicas  Sonido de Cine  Negro](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21) a 178.4 EUR (original: 250.0 EUR) (28.64 %  de descuento) en el siguiente enlace!
+En este momento está [Sony HT-S20R - Barra de Sonido  5.1 Canales  Bluetooth  400 W  USB  HDMI ARC  Conexiones ópticas y analógicas  Sonido de Cine  Negro](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21) a 179.0 EUR (original: 250.0 EUR) (28.40 %  de descuento) en el siguiente enlace!
 
 [![Sony HT-S20R - Barra de Sonido  5.1 Cana](https://m.media-amazon.com/images/I/21U0hJ8qy+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21)
 
 🔎:
 
-- Modos de sonido para películas y música mejoradas
-- Conectividad Bluetooth sencilla para transmisión de música
 - Reproducción de audio mediante USB
+- Modos de sonido para películas y música mejoradas
 - Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
 - Llena la habitación con auténtico sonido Surround de 5.1 canales
+- Conectividad Bluetooth sencilla para transmisión de música
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0876HM8TX/?tag=tolees-21)
