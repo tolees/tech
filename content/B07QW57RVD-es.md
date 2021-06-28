@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi TV Box S - Streaming Player  Black](https://www.am
 
 🔎:
 
-- Audio premium DOLBY + DTS
-- Smart control Buscador por voz
 - 2 GB RAM + 8 GB de almacenamiento
+- Audio premium DOLBY + DTS
 - Rápido y alta capacidad de respuesta Con Android 8.1
 - Admite conexión por cable y Wi-Fi
+- Smart control Buscador por voz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QW57RVD/?tag=tolees-21)
