@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GP76 Leopard 10UE-060ES - Ordenador  con un 20.05 % de descuento'
-date: 2021-06-20 15:36:07
+date: 2021-06-28 07:15:05
 image: 'https://m.media-amazon.com/images/I/41YuxadP1CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08SBPL9C8/?tag=tolees-21'
 descuento: '20.05'
-average: '1649.28285714285'
+average: '1642.99749999999'
 ---
 
 En este momento está [MSI GP76 Leopard 10UE-060ES - Ordenador portátil de 17.3" FullHD 144Hz  Intel Core i7 -10870H  16GB RAM  1 TB SSD  Nvidia RTX3060-6GB  Windows 10 Home  Black - Teclado QWERTY Español](https://www.amazon.es/dp/B08SBPL9C8/?tag=tolees-21) a 1599.0 EUR (original: 1999.99 EUR) (20.05 %  de descuento) en el siguiente enlace!
@@ -31,8 +31,8 @@ En este momento está [MSI GP76 Leopard 10UE-060ES - Ordenador portátil de 17.3
 - Almacenamiento SSD de 1 TB
 - Pantalla de 17.3" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
 - Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 - Tarjeta gráfica Nvidia RTX3060 de 6 GB GDDR6
 - Sistema operativo Windows 10 Home Advanced
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SBPL9C8/?tag=tolees-21)

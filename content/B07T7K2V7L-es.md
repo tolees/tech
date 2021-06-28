@@ -28,10 +28,10 @@ Ahora mismo tienes [LG 27GL850-B  Monitor Gaming de 27" QHD  2560×1440  3686k  
 
 🔎:
 
-- Diseño ergonómico gaming con marcos ultra-finos y con una base ajustable en inclinación, altura y pivotable, para ayudarte a jugar más cómodamente. Compatible para los brazos giratorios y los montajes de pared a Vesa FDMI 100x100mm / hilo M4
 - Colores vivos y mejor contraste con el panel Nano-IPS que cubre hasta un 98% del espectro DCI-P3 y la tecnología de alto rango dinámico HDR10
 - Panel NanoIPS que permite 1ms (GtG) de velocidad de respuesta para poder disfrutar de tus juegos a máxima velocidad
-- Juega más fluido con su frecuencia de actualización de 144Hz
+- Diseño ergonómico gaming con marcos ultra-finos y con una base ajustable en inclinación, altura y pivotable, para ayudarte a jugar más cómodamente. Compatible para los brazos giratorios y los montajes de pared a Vesa FDMI 100x100mm / hilo M4
 - Compatible con la tecnología NVIDIA G-Sync para disfrutar toda la acción sin parpadeos
+- Juega más fluido con su frecuencia de actualización de 144Hz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T7K2V7L/?tag=tolees-21)
