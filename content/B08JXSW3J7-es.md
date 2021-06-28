@@ -30,7 +30,7 @@ Ahora mismo tienes [realme 7 - Smartphone de 6.5"  8GB RAM + 128GB ROM  LCD FHD+
 
 - Pantalla: 6.5", 1080 x 2400 pixels
 - Batería: 5000 mAh
-- Procesador: Mediatek Helio G95 2.205Ghz
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Procesador: Mediatek Helio G95 2.205Ghz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JXSW3J7/?tag=tolees-21)
