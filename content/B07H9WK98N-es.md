@@ -28,10 +28,10 @@ En este momento está [Green Cell PRO - Green Cell® PA5157U-1BRS Batería para 
 
 🔎:
 
-- Capacidad: 3800 mAh | Tensión: 11.4V | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
-- Batería de la renombrada marca Green Cell 100% compatible con la batería PA5157U-1BRS
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
+- Batería de la renombrada marca Green Cell 100% compatible con la batería PA5157U-1BRS
 - Las celdas originales ion de litio polímero Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 - Compatible con los ordenadores portátiles: Toshiba Satellite U940 U40t U50t M50-A M50D-A M50Dt M50t
+- Capacidad: 3800 mAh | Tensión: 11.4V | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H9WK98N/?tag=tolees-21)
