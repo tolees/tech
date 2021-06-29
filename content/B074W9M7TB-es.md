@@ -28,14 +28,14 @@ Ahora mismo tienes [Alcatel F530 - Teléfono  Teléfono DECT  Terminal inalámbr
 
 🔎:
 
-- La comodidad visual de una gran pantalla retroiluminada
-- Todas tus funciones favoritas en un diseño elegante y moderno
-- Alcatel F530 dispone de manos libres de alta calidad para compartir cómodamente las comunicaciones o seguir ocupando con total libertad
-- Bloqueo del teclado, función despertador/alarma, indicador visual de batería baja
-- Una gran agenda de 50 nombres y números para grabar todos tus contactos
-- La función VIP para reconocer a sus corresponsales privilegiados en el sonido del timbre asociado a su número
 - El diario de llamadas entrantes (20 últimas llamadas) permite verificar quién llamó en caso de ausencia
 - Diferentes colores disponibles para combinar con todos los interiores (blanco/azul, blanco/gris y blanco/rosa) y disponible en versión única y dúo para adaptarse a la superficie de tu hogar
+- Bloqueo del teclado, función despertador/alarma, indicador visual de batería baja
+- La comodidad visual de una gran pantalla retroiluminada
 - 10 melodías de llamada con 5 niveles de sonido y la posibilidad de cortar el timbre
+- Alcatel F530 dispone de manos libres de alta calidad para compartir cómodamente las comunicaciones o seguir ocupando con total libertad
+- La función VIP para reconocer a sus corresponsales privilegiados en el sonido del timbre asociado a su número
+- Todas tus funciones favoritas en un diseño elegante y moderno
+- Una gran agenda de 50 nombres y números para grabar todos tus contactos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074W9M7TB/?tag=tolees-21)
