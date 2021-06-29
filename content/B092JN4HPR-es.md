@@ -28,10 +28,10 @@ Tienes [Lenovo ThinkPad X250 12 5 pulgadas WXGA | Potente ordenador portátil | 
 
 🔎:
 
-- Listo para usar inmediato: el portátil renovado fiable está listo para usar con Windows 10 Home preinstalado I Calidad de imagen inmersiva con pantalla HD Ready de 12,5 pulgadas I Cámara web I Audio y micrófonos
 - Potente – Con Intel Core i5-5.Gen 8 GB de RAM 256 GB SSD tarjeta gráfica Intel HD integrada y numerosas conexiones, el ThinkPad reacondicionado está a la altura de todos los retos
 - Reacondicionado – El ThinkPad X250 se renueva de primera calidad I Todas las piezas se prueban y limpian profesionalmente y el portátil se reacondicionado funciona como nuevo
-- Ahorro ideal de oficina gracias a la alta calidad de la serie ThinkPad I extra ligero con solo 1,42 kg, puedes llevar tu portátil ultraligero a cualquier lugar
+- Listo para usar inmediato: el portátil renovado fiable está listo para usar con Windows 10 Home preinstalado I Calidad de imagen inmersiva con pantalla HD Ready de 12,5 pulgadas I Cámara web I Audio y micrófonos
 - 1 año de garantía. Solo suministramos productos de alta calidad. Recibirás 1 año de garantía en tu nuevo portátil Lenovo. Embalaje si es necesario Genérico, incluye accesorios compatibles (si procede, no es original)
+- Ahorro ideal de oficina gracias a la alta calidad de la serie ThinkPad I extra ligero con solo 1,42 kg, puedes llevar tu portátil ultraligero a cualquier lugar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B092JN4HPR/?tag=tolees-21)

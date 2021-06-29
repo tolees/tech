@@ -28,10 +28,10 @@ En este momento está [PC Dell 7010 SFF Intel Core i5 3470 3 20 GHz / RAM 8 GB /
 
 🔎:
 
-- Procesador Intel Core i5 3,20 GHz.
 - Salida 2 x DisplayPort 1 x VGA
-- Sistema operativo Windows 10 Pro.
+- Procesador Intel Core i5 3,20 GHz.
 - RAM 8 GB DDR3
+- Sistema operativo Windows 10 Pro.
 - Disco duro de 500 GB.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RK9N3WM/?tag=tolees-21)
