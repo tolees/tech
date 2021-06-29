@@ -28,11 +28,11 @@ Tienes [Samsung LU28R552UQRXEN - Monitor de 28" sin marcos 4K  3840x2160  4 ms  
 
 🔎:
 
-- HDR con un amplio rango dinámico de luminosos negros y blancos
-- Diseño avanzado con pantalla sin marcos y base en V
-- Monitor Samsung U28R552 de 28 4K UHD (3840x2160)
-- AMD FreeSync y multiples “game mode”
-- Función PBP para transformar un monitor individual en uno doble pudiendo
 - ajuste de color y contraste de imagen optimizados para imágenes más realistas
+- Función PBP para transformar un monitor individual en uno doble pudiendo
+- HDR con un amplio rango dinámico de luminosos negros y blancos
+- Monitor Samsung U28R552 de 28 4K UHD (3840x2160)
+- Diseño avanzado con pantalla sin marcos y base en V
+- AMD FreeSync y multiples “game mode”
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WM54JQQ/?tag=tolees-21)

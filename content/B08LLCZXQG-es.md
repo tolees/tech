@@ -28,10 +28,10 @@ En este momento está [CÁMARA WiFi DE Seguridad XIAOMI Mi Home Security Camera 
 
 🔎:
 
-- Resolución Full HD 1080p
 - IP65 waterproof
-- Vision nocturna
 - Ultra gran angular
+- Resolución Full HD 1080p
 - Soporte magnético para una fácil colocación
+- Vision nocturna
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LLCZXQG/?tag=tolees-21)
