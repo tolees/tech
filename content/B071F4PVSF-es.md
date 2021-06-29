@@ -28,8 +28,8 @@ Tienes [Yamaha YAS-207 - Barra de Sonido con Bluetooth  Color Negro](https://www
 
 🔎:
 
-- Bluetooth
 - DTS Virtual X (mediante actualización)
 - Subwoofer inalámbrico
+- Bluetooth
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071F4PVSF/?tag=tolees-21)
