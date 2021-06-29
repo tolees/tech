@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPhone 12  256 GB  - en Blanco](https://www.amazon.es/dp/B0
 
 🔎:
 
-- A14 Bionic, el chip más veloz en un smartphone
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- 0.0
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Resistencia al agua IP68, líder en el sector
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Resistencia al agua IP68, líder en el sector
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- 0.0
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- A14 Bionic, el chip más veloz en un smartphone
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L5Q9TWV/?tag=tolees-21)

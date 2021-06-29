@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Aire Acondicionado Portátil 5000Btu 4 en 1 Deshumidi
 
 🔎:
 
+- ✅TEMPORIZADOR DE 24 HORAS Y CORTE AUTOMÁTICO: Ideal para configurarlo ates de ir a dormir o para ayudar a ahorrar electricidad. Tiene un sistema de apagado automático en caso de que su tanque esté lleno
+- ✅AIRE ACONDICIONADO PORTÁTIL CON RUEDAS: Pequeño pero poderoso, tiene 4 ruedas giratorias en la base para moverse con facilidad. Con nuevo refrigerante R290 de bajo impacto ambiental, ideal para habitaciones entre 8 y 12㎡
+- ✅4 MODOS DE FUNCIONAMIENTO: Este aire portátil enfría, deshumidifica, ventila y tiene modo nocturno en dos niveles de velocidad. Cuenta con un display led para configurar fácilmente
 - ✅CONTROL REMOTO Y FÁCIL LIMPIEZA: Para facilitar aún más su funcionamiento, incluye un control remoto para configurarlo a distancia. Funciona con 2 pilas AA (no incluidas). También incluye un filtro de aire extraíble, fácil de limpiar y que mantiene el aire circulante limpio y fresco
 - ✅MEDIDAS TOTALES: 30,5x32,5x67,8 cm (LxANxAL); Potencia: 560W; IMPORTANTE: Si al conectar el aparato no enfría como le gustaría, puede deberse a un problema de transporte y no de calidad del producto. Se recomienda tenerlo en posición vertical 24 horas antes de encenderlo
-- ✅TEMPORIZADOR DE 24 HORAS Y CORTE AUTOMÁTICO: Ideal para configurarlo ates de ir a dormir o para ayudar a ahorrar electricidad. Tiene un sistema de apagado automático en caso de que su tanque esté lleno
-- ✅4 MODOS DE FUNCIONAMIENTO: Este aire portátil enfría, deshumidifica, ventila y tiene modo nocturno en dos niveles de velocidad. Cuenta con un display led para configurar fácilmente
-- ✅AIRE ACONDICIONADO PORTÁTIL CON RUEDAS: Pequeño pero poderoso, tiene 4 ruedas giratorias en la base para moverse con facilidad. Con nuevo refrigerante R290 de bajo impacto ambiental, ideal para habitaciones entre 8 y 12㎡
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZD37ZG7/?tag=tolees-21)
