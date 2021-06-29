@@ -28,10 +28,10 @@ Tienes [Asus MB168B - Monitor portátil de 15 6   HD  1366x768  USB  IPS  ultraf
 
 ℹ️:
 
-- Requisito mínimo del sistema: Windows 7 con Core 2 Duo de 1,4 GHz, 1 GB de RAM, Mac OS X 10.8.3 (no compatible con MacBook y MacBook Pro)
-- ASUS MB168B, monitor portátil de 15.6" HD (1366x768) con funda plegable
-- ASUS Smart Case: funda protectora que permite posicionar el monitor en los formatos apaisado y vertical
-- El monitor USB más fino del mercado: acabado con un elegante patrón metalizado
 - Para experimentar el brillo total, se necesita un USB 3.0
+- ASUS MB168B, monitor portátil de 15.6" HD (1366x768) con funda plegable
+- El monitor USB más fino del mercado: acabado con un elegante patrón metalizado
+- Requisito mínimo del sistema: Windows 7 con Core 2 Duo de 1,4 GHz, 1 GB de RAM, Mac OS X 10.8.3 (no compatible con MacBook y MacBook Pro)
+- ASUS Smart Case: funda protectora que permite posicionar el monitor en los formatos apaisado y vertical
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21)
