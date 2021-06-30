@@ -28,10 +28,10 @@ Ahora mismo tienes [Rii JP600 Almohadilla para ratón con reposamuñecas. Almoha
 
 🔎:
 
-- MATERIAL MEDIOAMBIENTAL. Hecho de material respetable con el medio ambiente con certificado ROHS. Es ecológico, no tóxico y seguro de usar.
-- EXCELENTE FORMA Y TAMAÑO. Diseñado con una forma y tamaño óptimos para cualquier mano. Podrá mover el ratón fácilmente y con suavidad. Además, los bordes reforzados evitan deformaciones y deshilachamientos garantizando una larga vida útil.
-- CUBIERTA DE TELA SUAVE. La suave cubierta de Lycra mejora los movimientos y el seguimiento del puntero, ya sea láser u óptico, y crea un deslizamiento suave y constante. Permite que el cursor se mueva rápidamente con estabilidad y no cause dolor o fatiga en el antebrazo. Evita lesiones del Túnel Carpiano.
 - ALMOHADILLA DE GEL CÓMODA. El suave cojín relleno de gel se adapta a su muñeca para una máxima comodidad y soporte aticular. Reduce la irritación de la muñeca y el dolor en el antebrazo. Mantiene su torso y espalda en una posición neutral para mayor comodidad ergonómica.
+- MATERIAL MEDIOAMBIENTAL. Hecho de material respetable con el medio ambiente con certificado ROHS. Es ecológico, no tóxico y seguro de usar.
+- CUBIERTA DE TELA SUAVE. La suave cubierta de Lycra mejora los movimientos y el seguimiento del puntero, ya sea láser u óptico, y crea un deslizamiento suave y constante. Permite que el cursor se mueva rápidamente con estabilidad y no cause dolor o fatiga en el antebrazo. Evita lesiones del Túnel Carpiano.
 - BASE ANTIDESLIZANTE. La suave base antideslizante de PU sujeta firmemente la almohadilla al escritorio. Evita que el mouse-pad se deslice sobre la superficie. No se moverá de su escritorio hasta que lo retire levantándolo suavemente.
+- EXCELENTE FORMA Y TAMAÑO. Diseñado con una forma y tamaño óptimos para cualquier mano. Podrá mover el ratón fácilmente y con suavidad. Además, los bordes reforzados evitan deformaciones y deshilachamientos garantizando una larga vida útil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087CH6Q7F/?tag=tolees-21)
