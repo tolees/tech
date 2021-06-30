@@ -29,14 +29,14 @@ Tienes [Nuevo Apple iPhone 12 Mini  64 GB  - Azul](https://www.amazon.es/dp/B08
 ℹ️:
 
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Pantalla Super Retina XDR de 5,4 pulgadas
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- A14 Bionic, el chip más veloz en un smartphone
-- 0.0
-- Resistencia al agua IP68, líder en el sector
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- 0.0
+- A14 Bionic, el chip más veloz en un smartphone
+- Pantalla Super Retina XDR de 5,4 pulgadas
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Resistencia al agua IP68, líder en el sector
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L5STJSZ/?tag=tolees-21)
