@@ -28,10 +28,10 @@ Ahora mismo tienes [D-Link DWR-2101 Router 5G  Wi-Fi 6  MiFi  Hotspot  Portátil
 
 🔎:
 
+- Hotspot MiFi con el nuevo Wi-Fi 6 (802.11ax) con doble banda y hasta 1.8 Gbps de velocidad
 - Conectividad con el nuevo 5G (hasta 1.6 Gbps para datos móviles), acepta SIM de cualquier operadora
 - Puerto Gigabit Ethernet para conectividad por banda ancha por cable si está disponible y con modo failover 5G/banda ancha para no perder nunca la conectividad
-- Puerto USB-C, pantalla LCD táctil y encriptación WPA3
 - Tamaño compacto y soporte para colocarlo fácilmente en cualquier superficie, movilidad total gracias a su bateria con hasta 14 horas de autonomía
-- Hotspot MiFi con el nuevo Wi-Fi 6 (802.11ax) con doble banda y hasta 1.8 Gbps de velocidad
+- Puerto USB-C, pantalla LCD táctil y encriptación WPA3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M9H2M2F/?tag=tolees-21)
