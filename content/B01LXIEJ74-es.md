@@ -28,10 +28,10 @@ Tienes [Panasonic ER-GP30 - Cortapelos para cabello y barba](https://www.amazon.
 
 🔎:
 
-- Utilizable como cortador y cortador de pelo largo de pelo corto: 3 peines guías (incluido) con longitudes de entre 3 y 18 mm, para todas las aplicaciones en el cabello, de cabeza y cuerpo de barba
-- Lámpara de cromo/cuchilla de acero inoxidable con ángulo de corte de 45 ° y un cabezal de afeitado de 39 mm de ancho para cortes precisos a cabello, corte de barba y contornos de cortes
-- Muy procesamiento cuidadoso y fiable para una larga vida útil, en el salón de peluquería y sólo derecho a casa
-- Profesional, ligero y manejable para cabello y barba (funcionamiento con red y batería) para todas las aplicaciones
 - Diseño ergonómico y peso ligero de sólo 130 gramos para manejo especialmente ligero y relajado
+- Utilizable como cortador y cortador de pelo largo de pelo corto: 3 peines guías (incluido) con longitudes de entre 3 y 18 mm, para todas las aplicaciones en el cabello, de cabeza y cuerpo de barba
+- Profesional, ligero y manejable para cabello y barba (funcionamiento con red y batería) para todas las aplicaciones
+- Muy procesamiento cuidadoso y fiable para una larga vida útil, en el salón de peluquería y sólo derecho a casa
+- Lámpara de cromo/cuchilla de acero inoxidable con ángulo de corte de 45 ° y un cabezal de afeitado de 39 mm de ancho para cortes precisos a cabello, corte de barba y contornos de cortes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LXIEJ74/?tag=tolees-21)
