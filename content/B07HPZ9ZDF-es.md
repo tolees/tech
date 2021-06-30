@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MUF-128AB unidad flash USB 128 G al 21.88 % de rebaja'
-date: 2021-06-25 10:52:46
+date: 2021-06-30 08:32:20
 image: 'https://m.media-amazon.com/images/I/41Bb1vVrS7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07HPZ9ZDF/?tag=tolees-21'
 descuento: '21.88'
-average: '23.5333333333333'
+average: '23.7414285714285'
 ---
 
 Tienes [Samsung MUF-128AB unidad flash USB 128 GB USB tipo A 3.2 Gen 1  3.1 Gen 1  Gris  Plata](https://www.amazon.es/dp/B07HPZ9ZDF/?tag=tolees-21) con precio final de  24.99 EUR (original: 31.99 EUR) (21.88 %  de rebaja) aqui!
