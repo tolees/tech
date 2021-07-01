@@ -28,10 +28,10 @@ Tienes [Sony SRS-XB12 - Altavoz Portátil EXTRA BASS con Bluetooth  Batería has
 
 🔎:
 
+- Diseño compacto y portátil
 - Resistente al agua y al polvo (calificación IP67)
+- Hasta 16 horas de duración de la batería
 - Se suministra con correa desmontable
 - Extra Bass para un sonido rotundo y profundo
-- Hasta 16 horas de duración de la batería
-- Diseño compacto y portátil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MPQFSN9/?tag=tolees-21)
