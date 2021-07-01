@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Samsung Pro - Disco Estado Solido SSD  2 con un 15.38 % de descuento'
-date: 2020-07-08 20:16:35
-image: 'https://m.media-amazon.com/images/I/41dSOsgwqnL._SL400_.jpg'
+title: 'SAMSUNG Pro - Disco Estado Solido SSD  2 con un 23.82 % de descuento'
+date: 2021-07-01 18:03:47
+image: 'https://m.media-amazon.com/images/I/31DhRSthmKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B078WQJXND-es Samsung Pro - Disco Estado Solido SSD 256 GB 560...'
+slug: 'B078WQJXND-es SAMSUNG Pro - Disco Estado Solido SSD 256 GB 560...'
 sku: 'B078WQJXND-es'
-tags: [ 'samsung', ]
-actualPrice: 96.46 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung', ]
+actualPrice: 86.84 EUR
 currency: EUR
-price: 96.46
+price: 86.84
 comparePrice: 113.99 EUR
-prodname: 'Samsung Pro - Disco Estado Solido SSD  256 GB  560 megabytes/s  Color Negro'
+prodname: 'SAMSUNG Pro - Disco Estado Solido SSD  256 GB  560 megabytes/s  Color Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21'
-descuento: '15.38'
-average: '89.45666666666666'
+descuento: '23.82'
+average: '88.8025'
 ---
 
-En este momento está [Samsung Pro - Disco Estado Solido SSD  256 GB  560 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21) a 96.46 EUR (original: 113.99 EUR) (15.38 %  de descuento) en el siguiente enlace!
+En este momento está [SAMSUNG Pro - Disco Estado Solido SSD  256 GB  560 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21) a 86.84 EUR (original: 113.99 EUR) (23.82 %  de descuento) en el siguiente enlace!
 
-[![Samsung Pro - Disco Estado Solido SSD  2](https://m.media-amazon.com/images/I/41dSOsgwqnL._SL400_.jpg)](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21)
+[![SAMSUNG Pro - Disco Estado Solido SSD  2](https://m.media-amazon.com/images/I/31DhRSthmKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21)
 
 🔎:
 
+- Dispone de interfaz SATA
+- Lectura secuencial: 560MB/s
+- Escritura secuencial: 530MB/s
+- Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21)
