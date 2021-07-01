@@ -28,10 +28,10 @@ En este momento está [Green Cell PRO - Green Cell Batería Lenovo L15L4A01 L15M
 
 🔎:
 
-- Capacidad: 2200 mAh | Tensión: 14.8V | Farbe: Negro
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
-- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 - Compatible con los ordenadores portátiles: Lenovo IdeaPad 100-15IBD, Lenovo IdeaPad 300-15ISK, Lenovo IdeaPad 80Q7, Lenovo IdeaPad 80QQ, Lenovo IdeaPad 80RS, Lenovo IdeaPad B50-50, Lenovo IdeaPad B71-80, Lenovo IdeaPad 100-14IBD, Lenovo IdeaPad 300-14ISK, Lenovo IdeaPad 300-17ISK
 - Batería de la renombrada marca Green Cell 100% compatible con la batería Lenovo L15L4A01 L15M4A01 L15S4A01 L15L4E01 L15M4E01 L15S4E01
+- Capacidad: 2200 mAh | Tensión: 14.8V | Farbe: Negro
+- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H9SXLK8/?tag=tolees-21)
