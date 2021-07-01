@@ -28,10 +28,10 @@ Tienes [Ubisoft Spain - Assassins Creed Odyssey - Xbox one  Edición:Estándar](
 
 🔎:
 
-- Sumérgete en la antigua grecia
-- Conviértete en un héroe griego de leyenda
 - Elige tu propio camino
+- Conviértete en un héroe griego de leyenda
 - Lucha batallas épicas
 - Navega a través del mar egeo
+- Sumérgete en la antigua grecia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DP9Z1R4/?tag=tolees-21)
