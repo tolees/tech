@@ -28,9 +28,9 @@ Tienes [Square Enix - Sleeping Dogs . Definitive Edition PS4](https://www.amazon
 
 ℹ️:
 
-- Console
 - Playstation 4
 - Game
+- Console
 - PS4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00T5WF0O0/?tag=tolees-21)
