@@ -29,9 +29,9 @@ Ahora mismo tienes [TP-Link TL-SG108 V3.0  Switch de Escritorio Red  10/100/1000
 🔎:
 
 - [Switch gigabit de 8 puertos] - 8 puertos RJ45 10/100/1000Mbps con detección automática de velocidad, soporte para MDI/MDIX automático
-- Tecnología verde ethernet ahorra consumo de energía
-- Carcasa de metal, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
 - [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
 - 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
+- Carcasa de metal, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
+- Tecnología verde ethernet ahorra consumo de energía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21)

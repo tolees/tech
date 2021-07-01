@@ -28,9 +28,9 @@ En este momento está [SAMSUNG Pro - Disco Estado Solido SSD  256 GB  560 megaby
 
 🔎:
 
-- Dispone de interfaz SATA
-- Lectura secuencial: 560MB/s
 - Escritura secuencial: 530MB/s
+- Lectura secuencial: 560MB/s
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
+- Dispone de interfaz SATA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQJXND/?tag=tolees-21)
