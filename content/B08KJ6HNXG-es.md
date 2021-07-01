@@ -29,12 +29,12 @@ Está [Amazon Basics - Mochila para ordenador portátil de hasta 17 pulgadas  4
 ℹ️:
 
 - Product 1: Medidas internas: 30,5 x 11,5 x 44,5 cm (largo x ancho x alto); medidas externas: 38 x 17,8 x 48,3 cm (largo x ancho x alto)
-- Product 1: Mochila grande multicompartimento con un bolsillo para ordenadores portátiles de hasta 17 pulgadas (43 cm) y otro bolsillo TechSpot para tabletas
-- Product 2: Maletín compacto y poco voluminoso para tu portátil de hasta 17,3 pulgadas (43,94 cm)
-- Product 2: Incluye correa acolchada para el hombro
 - Product 2: Dimensiones internas: 41,91 x 5,84 x 32 cm (largo x ancho x alto)
-- Product 2: Con bolsillos para almacenar ratón, teléfono móvil y otros accesorios
 - Product 1: Bolsillos laterales de redecilla elástica para botella de agua
+- Product 2: Incluye correa acolchada para el hombro
+- Product 2: Con bolsillos para almacenar ratón, teléfono móvil y otros accesorios
+- Product 1: Mochila grande multicompartimento con un bolsillo para ordenadores portátiles de hasta 17 pulgadas (43 cm) y otro bolsillo TechSpot para tabletas
 - Product 1: Compartimentos organizadores para bolígrafos, llaves, teléfono móvil, etc.
+- Product 2: Maletín compacto y poco voluminoso para tu portátil de hasta 17,3 pulgadas (43,94 cm)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KJ6HNXG/?tag=tolees-21)
