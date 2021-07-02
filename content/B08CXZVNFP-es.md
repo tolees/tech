@@ -29,9 +29,9 @@ En este momento está [EACHINE E58 Pro Drone Camara 2K GPS FPV 3D Visión Ajusta
 🔎:
 
 - 【Drone con altitud mantenida】: con el sensor de presión de aire, puede bloquear con precisión la altura y la ubicación, estacionario estable, desde cualquier ángulo de disparo es conveniente, el modo de retención alta lo hace estable y puedes tomar fotos más claras.
-- 【Cámara HD 1080P, Wifi-FPV, Cámara controlable】: Cada cuadro garantiza la toma de imágenes y videos de alta definición 1080P. Puede ajustar la cámara de forma remota, el ángulo de disparo de aproximadamente 0-90 ° por control remoto / APLICACIÓN.
-- 【Tres velocidades son ajustables】: velocidad lenta, velocidad regular, rápida. Puede elegir diferentes velocidades para la fotografía aérea. Toma tus propios videos exclusivos.
 - 【Drone con Wifi】: Este dron se puede conectar con Wifi. Puede tomar fotos, videos y obtener transmisiones en tiempo real a través de la imagen de la cámara del teléfono celular con el sistema APK.
+- 【Tres velocidades son ajustables】: velocidad lenta, velocidad regular, rápida. Puede elegir diferentes velocidades para la fotografía aérea. Toma tus propios videos exclusivos.
+- 【Cámara HD 1080P, Wifi-FPV, Cámara controlable】: Cada cuadro garantiza la toma de imágenes y videos de alta definición 1080P. Puede ajustar la cámara de forma remota, el ángulo de disparo de aproximadamente 0-90 ° por control remoto / APLICACIÓN.
 - 【Ruta preestablecida】: bajo el control del teléfono celular, abra la ruta de vuelo y dibuje la ruta en la pantalla, para que el dron siga la ruta de vuelo que ha dibujado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXZVNFP/?tag=tolees-21)
