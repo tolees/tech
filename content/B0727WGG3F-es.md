@@ -28,10 +28,10 @@ En este momento está [ASUS PH-GT1030-O2G - Tarjeta gráfica  NVIDIA GeForce GT 
 
 🔎:
 
-- Capacidad memoria de adaptador gráfico: 2 GB
 - Procesador gráfico: GeForce GT 1030
+- Capacidad memoria de adaptador gráfico: 2 GB
 - Velocidad de memoria del reloj: 6008 MHz
-- Frecuencia del procesador: 1252 MHz
 - Tipo de memoria de adaptador gráfico: GDDR5
+- Frecuencia del procesador: 1252 MHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0727WGG3F/?tag=tolees-21)
