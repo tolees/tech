@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 21.09 % en Philips SHE1350/00 Auriculares intraudit'
-date: 2020-08-15 21:11:41
-image: 'https://m.media-amazon.com/images/I/41BIbUCvdIL._SL400_.jpg'
+title: 'Descuento del 16.69 % en PHILIPS AUDIO SHE1350/00 Auriculares int'
+date: 2021-07-02 16:09:22
+image: 'https://m.media-amazon.com/images/I/41BIbUCvdIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000RO9QE0-es Philips SHE1350/00 Auriculares intrauditivos'
+slug: 'B000RO9QE0-es PHILIPS AUDIO SHE1350/00 Auriculares intrauditivos Modelo...'
 sku: 'B000RO9QE0-es'
-tags: [ 'auriculares', ]
-actualPrice: 5.09 EUR
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','philips audio', ]
+actualPrice: 6.99 EUR
 currency: EUR
-price: 5.09
-comparePrice: 6.45 EUR
-prodname: 'Philips SHE1350/00 Auriculares intrauditivos'
+price: 6.99
+comparePrice: 8.39 EUR
+prodname: 'PHILIPS AUDIO SHE1350/00 Auriculares intrauditivos  Modelo 2018/2019  Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PHILIPS AUDIO'
 buyurl: 'https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21'
-descuento: '21.09'
-average: '5.913333333333333'
+descuento: '16.69'
+average: '6.1825'
 ---
 
-Tienes [Philips SHE1350/00 Auriculares intrauditivos](https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21) con un 21.09 % de descuento con precio de oferta de 5.09 EUR (original: 6.45 EUR) en el siguiente enlace!
+Tienes [PHILIPS AUDIO SHE1350/00 Auriculares intrauditivos  Modelo 2018/2019  Negro](https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21) con un 16.69 % de descuento con precio de oferta de 6.99 EUR (original: 8.39 EUR) en el siguiente enlace!
 
-[![Philips SHE1350/00 Auriculares intraudit](https://m.media-amazon.com/images/I/41BIbUCvdIL._SL400_.jpg)](https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21)
+[![PHILIPS AUDIO SHE1350/00 Auriculares int](https://m.media-amazon.com/images/I/41BIbUCvdIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de conectividad: Alámbrico
+- Las rejillas de ventilación bass beat permiten el movimiento del aire para un mejor sonido
+- Longitud de cable: 1 m
+- El controlador del altavoz de 15 mm es muy cómodo de llevar
+- Dispositivos compatibles: Cualquier dispositivo con salida Jack 3.5mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000RO9QE0/?tag=tolees-21)
