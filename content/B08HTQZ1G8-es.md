@@ -28,10 +28,10 @@ En este momento está [Asus MB16AH - Monitor portátil de 15.6" FullHD  1920x108
 
 🔎:
 
-- Detecta su orientación y cambia automáticamente entre los modos apaisado y vertical
 - Los puertos USB-C y micro-HDMI permiten conectarlo a smartphones, portátiles, consolas de juegos y cámaras
-- Incluye una funda plegable que permite sostenerlo vertical y horizontalmente
 - Asus MB16AH, monitor portátil de 15.6" FullHD (1920x1080) con funda plegable
+- Detecta su orientación y cambia automáticamente entre los modos apaisado y vertical
+- Incluye una funda plegable que permite sostenerlo vertical y horizontalmente
 - Con un peso de solo 860 g y 9 mm de grosor, te ayuda a ser más productivo mientras te encuentras fuera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HTQZ1G8/?tag=tolees-21)
