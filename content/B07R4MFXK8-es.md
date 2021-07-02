@@ -28,10 +28,10 @@ En este momento está [Fujifilm Instax Mini 9 - Cámara instantanea  solo cámar
 
 🔎:
 
-- Utiliza instax mini película, tamaño de impresión 54 (ancho) x 86 (alto) imagen tamaño 46 (ancho) x 62 (alto) mm
-- Incluye lente selfie y fijación de lente de cierre
-- Incluye 3 filtros de color
-- Flash integrado con control automático de exposición
 - Produce fotos instantáneas de tamaño de tarjeta de crédito
+- Incluye 3 filtros de color
+- Incluye lente selfie y fijación de lente de cierre
+- Utiliza instax mini película, tamaño de impresión 54 (ancho) x 86 (alto) imagen tamaño 46 (ancho) x 62 (alto) mm
+- Flash integrado con control automático de exposición
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R4MFXK8/?tag=tolees-21)
