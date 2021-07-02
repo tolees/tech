@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enchufe Múltiple Inteligente  Wi-Fi Regl con un 15.01 % de descuento'
-date: 2021-06-30 16:16:14
+date: 2021-07-02 15:46:28
 image: 'https://m.media-amazon.com/images/I/41v3mdzkM+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'meross'
 buyurl: 'https://www.amazon.es/dp/B07MK1VL3T/?tag=tolees-21'
 descuento: '15.01'
-average: '26.8092307692309'
+average: '26.7337500000001'
 ---
 
 En este momento está [Enchufe Múltiple Inteligente  Wi-Fi Regleta  Compatible con Alexa  Google assistant y SmartThings  con 3 Tomas y 4 USB  MSS425E  Meross.](https://www.amazon.es/dp/B07MK1VL3T/?tag=tolees-21) a 23.79 EUR (original: 27.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
