@@ -28,9 +28,9 @@ Tienes [Sony BDP-S1700 Reproductor de Blu-Ray Full HD  USB  HDMI  Ethernet  Negr
 
 ℹ️:
 
+- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
 - Interfaz de salida de video: HDMI
 - Disfruta de colores vivos con Triluminos Colour
-- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
 - Disfruta de todas tus películas en calidad Full HD
 - Consumo de energía: 8.5 W
 
