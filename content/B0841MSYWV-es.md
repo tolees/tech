@@ -28,10 +28,10 @@ Está [Acer KA272bi - Monitor de 27" Full HD 75 Hz  68 6 cm  1920x1080  Pantalla
 
 ℹ️:
 
-- VISIÓN CONFORTABLE: protege tus ojos de la fatiga con las tecnologías Acer BlueLightShield y Flickerless. Disfruta de largas sesiones frente al monitor ordenador con reducción de los reflejos y la fatiga ocular gracias a Acer ComfyView y Low Dimming
-- PANTALLA IPS: comparte tu pantalla con la familia y los amigos, ya que los colores permanecen vivos y realistas gracias a un amplio ángulo de visión de hasta 178° y al monitor IPS de 75 Hz y al diseño ZeroFrame con marcos finos
 - MONITOR FULL HD: disfruta de imágenes vibrantes y colores brillantes con el monitor PC KA2. Aprecia cada detalle en la pantalla IPS retroiluminada de 27 pulgadas y resolución Full HD de 1920x1080 px con una relación de aspecto 16:9
-- MANTÉN EL CONTROL: los monitores de la serie KA2 te permiten modificar fácilmente la configuración a través del software Display Widget. Personaliza tu visualización seleccionando diferentes modos para distintas aplicaciones
+- PANTALLA IPS: comparte tu pantalla con la familia y los amigos, ya que los colores permanecen vivos y realistas gracias a un amplio ángulo de visión de hasta 178° y al monitor IPS de 75 Hz y al diseño ZeroFrame con marcos finos
 - SIN TEARING DE PANTALLA: disfruta de un juego fluido y despídete del congelamiento y el tearing con la tecnología AMD Radeon FreeSync, la frecuencia de refresco de 75 Hz y el VRB de 1 ms para una edición de vídeo fluida, imágenes nítidas y sin desenfoque
+- MANTÉN EL CONTROL: los monitores de la serie KA2 te permiten modificar fácilmente la configuración a través del software Display Widget. Personaliza tu visualización seleccionando diferentes modos para distintas aplicaciones
+- VISIÓN CONFORTABLE: protege tus ojos de la fatiga con las tecnologías Acer BlueLightShield y Flickerless. Disfruta de largas sesiones frente al monitor ordenador con reducción de los reflejos y la fatiga ocular gracias a Acer ComfyView y Low Dimming
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841MSYWV/?tag=tolees-21)
