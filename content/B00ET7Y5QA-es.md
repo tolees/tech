@@ -28,10 +28,10 @@ Tienes [Canon PG-545XL Cartucho tinta original Negro XL para Impresora de Inyecc
 
 ℹ️:
 
-- Tecnología de impresión: inyección de tinta
-- Colores de impresión: Negro
+- Capacidad de cartucho: 15 ml
 - Producción de papel: 400 páginas
 - Productos compatibles: Serie Pixma iP2850/MG2450/MG2550/MX495
-- Capacidad de cartucho: 15 ml
+- Colores de impresión: Negro
+- Tecnología de impresión: inyección de tinta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ET7Y5QA/?tag=tolees-21)

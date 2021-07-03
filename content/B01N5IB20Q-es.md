@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.53 % en Kingston A400 SSD SA400S37/240G - Disco '
-date: 2021-06-30 18:59:37
+date: 2021-07-03 17:48:41
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21'
 descuento: '38.53'
-average: '30.7266782006922'
+average: '30.7224482758622'
 ---
 
 Tienes [Kingston A400 SSD SA400S37/240G - Disco duro sólido interno 2.5" SATA 240GB](https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21) con un 38.53 % de descuento con precio de oferta de 29.5 EUR (original: 47.99 EUR) en el siguiente enlace!
