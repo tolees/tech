@@ -28,9 +28,9 @@ En este momento está [Gigaset A415A - Teléfono inalámbrico DECT  50 m  300 m 
 
 🔎:
 
-- Diseño moderno
 - [En alemán]
 - Pantalla de 1.8"
 - Operación fácil
+- Diseño moderno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00EHMD5G8/?tag=tolees-21)
