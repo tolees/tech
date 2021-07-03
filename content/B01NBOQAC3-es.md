@@ -28,10 +28,10 @@ En este momento está [Google Nest Cam Indoor Negro  Seguridad sin complicacione
 
 🔎:
 
-- Instalación fácil y rápida; enchufa la Nest Cam, instálate la aplicación Nest y ya está; no se necesita ningún hub; vídeo ininterrumpido en directo; la vista de 130° te permite ver tu casa en HD 1080p día y noche
 - Qué obtienes con una suscripción a Nest Aware; Nest Aware es un servicio de suscripción de pago que puedes usar con tus productos Nest para mantenerte al tanto de la actividad importante que se produzca en tu casa; las funciones estándar y las funciones optimizadas de Nest Aware son diferentes dependiendo del modelo de cámara, altavoz o pantalla que tengas, así como de la región en la que esté tu casa; algunas funciones, como las notificaciones en el móvil, el control remoto y la transmisión y grabación de vídeo, requieren conexión Wi‑Fi
-- La claridad del día, incluso de noche; la función Visión nocturna ilumina toda la sala
 - Alertas en tu móvil; recibe alertas de actividad para saber si pasa algo mientras estás fuera
+- Instalación fácil y rápida; enchufa la Nest Cam, instálate la aplicación Nest y ya está; no se necesita ningún hub; vídeo ininterrumpido en directo; la vista de 130° te permite ver tu casa en HD 1080p día y noche
 - Habla y escucha; mira quién está ahí y háblale para llamar su atención
+- La claridad del día, incluso de noche; la función Visión nocturna ilumina toda la sala
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01NBOQAC3/?tag=tolees-21)
