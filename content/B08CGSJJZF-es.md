@@ -28,11 +28,11 @@ En este momento está [ASUS ROG GV301QH-K6069T - Portátil Gaming de 13.4" WUXGA
 
 🔎:
 
-- Sistema Operativo: Windows 10 Home
-- Pantalla de 13.4" WUXGA 1920 x 1200 pixeles, 120Hz, IPS 300 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Pantalla de 13.4" WUXGA 1920 x 1200 pixeles, 120Hz, IPS 300 nits
+- Sistema Operativo: Windows 10 Home
 - Procesador AMD Ryzen 7 5800HS (8C/OctaCore 2.8 / 4.4GHz, 16MB)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGSJJZF/?tag=tolees-21)

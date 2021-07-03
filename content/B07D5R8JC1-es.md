@@ -28,10 +28,10 @@ Está [Energy Sistem Headphones 2 Bluetooth Auriculares inalambricos Circumaural
 
 ℹ️:
 
-- - CONTROL DE LLAMADAS: Botón multifunción para subir y bajar el volumen y avanzar o retroceder la pista de reproducción.
-- - Diseño Circumaural: Cubre toda la oreja para proporcionar una mayor sensación de aislamiento y comodidad.
-- - BATERÍA RECARGABLE: Batería de polímero de litio con hasta 17 horas de autonomía.
-- - BLUETOOTH: Conexión Bluetooth para sincronizarlo con un smartphone, tablet o cualquier otro dispositivo Bluetooth.
 - - MICRÓFONO: Micrófono integrado para responder las llamadas desde el propio dispositivo.
+- - Diseño Circumaural: Cubre toda la oreja para proporcionar una mayor sensación de aislamiento y comodidad.
+- - BLUETOOTH: Conexión Bluetooth para sincronizarlo con un smartphone, tablet o cualquier otro dispositivo Bluetooth.
+- - BATERÍA RECARGABLE: Batería de polímero de litio con hasta 17 horas de autonomía.
+- - CONTROL DE LLAMADAS: Botón multifunción para subir y bajar el volumen y avanzar o retroceder la pista de reproducción.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D5R8JC1/?tag=tolees-21)
