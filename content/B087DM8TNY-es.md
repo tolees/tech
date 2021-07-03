@@ -28,10 +28,10 @@ En este momento está [Avenzo - Altavoz Bluetooth  Modelo AV-SP3001BO  Potencia 
 
 🔎:
 
-- SONIDO CON GRAN ALCANCE: gracias a su gran alcance, nuestros altavoces con bluetooth te permiten escuchar un sonido de calidad y además podrás seguir escuchando tu música favorita en cualquier parte sin llevar el dispositivo móvil cerca
+- CONEXIÓN USB: el altavoz con bluetooth cuenta con una entrada micro USB para cargarlo y una entrada de USB y microSD para reproducir tus archivos MP3 sin tener que cargarlo con el dispositivo móvil; También cuentan con la función True Wireless
 - CON MICRÓFONO Y MANOS LIBRES: gracias a los botones multimedia puedes regular el volumen, reproducir o detener canciones, o sintonizar tus emisoras de radio FM; Llama sin problemas con la función de manos libres;
+- SONIDO CON GRAN ALCANCE: gracias a su gran alcance, nuestros altavoces con bluetooth te permiten escuchar un sonido de calidad y además podrás seguir escuchando tu música favorita en cualquier parte sin llevar el dispositivo móvil cerca
 - PORTÁTIL Y RESISTENTE: el altavoz con bluetooth potente es sólido y resistente, por lo que te lo podrás llevar a cualquier parte; Construido con plástico ABS y recubierto de silicona para darle resistencia, es idóneo para la playa, piscina o exteriores
 - ALTAVOZ CON BLUETOOTH: este altavoz inalámbrico es perfecto para llevártelo a la playa, de camping o de fiesta, ya que, además de tener un magnífico diseño, es resistente al agua y al polvo; Disfruta de tu música favorita sin preocupaciones
-- CONEXIÓN USB: el altavoz con bluetooth cuenta con una entrada micro USB para cargarlo y una entrada de USB y microSD para reproducir tus archivos MP3 sin tener que cargarlo con el dispositivo móvil; También cuentan con la función True Wireless
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087DM8TNY/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Microsoft Sculpt Comfort - Ratón inalámbrico  Color Negro](https://www
 
 🔎:
 
-- Optimizado para Windows 8
-- Desplazarse en cuatro direcciones para mayor eficiencia y confort mediante el uso de la rueda de inclinación
 - Diseño ergonómico para usuarios diestros
 - La tecnología BlueTrack funciona en prácticamente cualquier superficie en su hogar u oficina
+- Desplazarse en cuatro direcciones para mayor eficiencia y confort mediante el uso de la rueda de inclinación
+- Optimizado para Windows 8
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CHGQ4SM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP OfficeJet 250 Mobile AiO - Impresora  con un 16.38 % de descuento'
-date: 2021-06-09 16:45:35
+date: 2021-07-03 12:30:26
 image: 'https://m.media-amazon.com/images/I/41ivTvdqmtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B01IQS8UHC/?tag=tolees-21'
 descuento: '16.38'
-average: '283.98'
+average: '285.702'
 ---
 
 En este momento está [HP OfficeJet 250 Mobile AiO - Impresora multifunción tinta  color  Wi-Fi  CZ992A ](https://www.amazon.es/dp/B01IQS8UHC/?tag=tolees-21) a 292.59 EUR (original: 349.9 EUR) (16.38 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ En este momento está [HP OfficeJet 250 Mobile AiO - Impresora multifunción tin
 
 - Conectividad fiable gracias a la conexión Wi-Fi Direct
 - Imprime, copia y escanéa; con velocidades de impresión de 10/7 ppm (negro/color)
-- Bandeja de entrada principal de 50 hojas. Escáner con alimentador de documentos.
 - Esta impresora es compatible con los cartuchos de tinta originales HP 62
+- Bandeja de entrada principal de 50 hojas. Escáner con alimentador de documentos.
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IQS8UHC/?tag=tolees-21)

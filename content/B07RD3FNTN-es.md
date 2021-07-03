@@ -28,9 +28,9 @@ En este momento está [Xiaomi Mi Compact Bluetooth Speaker 2](https://www.amazon
 
 🔎:
 
-- Se conecta al teléfono a través de Bluetooth
-- Micrófono incorporado para llamadas telefónicas: conteste fácilmente las llamadas telefónicas
-- Fácil de transportar
 - Presenta una correa y se puede poner en cualquier lugar
+- Micrófono incorporado para llamadas telefónicas: conteste fácilmente las llamadas telefónicas
+- Se conecta al teléfono a través de Bluetooth
+- Fácil de transportar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RD3FNTN/?tag=tolees-21)
