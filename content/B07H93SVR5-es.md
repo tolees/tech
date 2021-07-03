@@ -28,10 +28,10 @@ Tienes [HOMCOM Cajonera de Oficina y Hogar Tipo Archivador de Madera Móvil con 
 
 ℹ️:
 
-- ✅Fácil de montar. Dimensión total: 41x39x58cm (LxANxAL), dimensiones interiores de los cajones: arriba: 31.6x28.4x12cm, abajo: 31.6x28.4x16.2cm (LxANxAL). Material: Tablero de partículas. Capacidad máx. de carga: 20 kg.
 - ✅Diseño práctico: Las manijas de metal son resistentes y fáciles de abrir. Cuenta con 2 cajones que ofrecen amplio espacio de almacenamiento.
 - ✅Mueble versátil: Esta cajonera con diseño clásico y elegante es adecuada para oficina y hogar como organizador y mueble auxiliar de almacenamiento, combina perfectamente en cualquier sitio.
 - ✅Fácil de mover: Cuenta con cuatro ruedas giratorias, 2 de ellas con frenos, se puede mover o fijar fácilmente. Tiene rieles metálicos permiten abrir y cerrar los cajones con suavidad.
 - ✅Alta calidad: Hecho de tablero de partículas con revestimiento PA, fácil de limpiar y duradero.
+- ✅Fácil de montar. Dimensión total: 41x39x58cm (LxANxAL), dimensiones interiores de los cajones: arriba: 31.6x28.4x12cm, abajo: 31.6x28.4x16.2cm (LxANxAL). Material: Tablero de partículas. Capacidad máx. de carga: 20 kg.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07H93SVR5/?tag=tolees-21)
