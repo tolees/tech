@@ -28,9 +28,9 @@ Está [Sony DVP-SR170 - Reproductor de DVD HD  Negro](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Reproducción de DVD/CD multiformato
-- Elige entre reproducción rápida o lenta
 - Conéctalo al sistema de sonido: audio mejorado
 - Un reproductor de DVD que puede reproducir de todo, discos o CD multiformato: genial para cuando falta espacio.
+- Reproducción de DVD/CD multiformato
+- Elige entre reproducción rápida o lenta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21)
