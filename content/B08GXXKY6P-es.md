@@ -28,10 +28,10 @@ Está [SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD  hasta 120 MB
 
 ℹ️:
 
-- Clase 10 para la grabación y reproducción de vídeo de alta definición
-- Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento A1
-- Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
 - Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Ideal para smartphones y tabletas Android, así como para cámaras compactas
+- Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento A1
+- Clase 10 para la grabación y reproducción de vídeo de alta definición
+- Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GXXKY6P/?tag=tolees-21)
