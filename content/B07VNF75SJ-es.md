@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.87 % en HUAWEI MediaPad T5 - Tablet de 10.1" Ful'
-date: 2021-07-01 12:14:25
+date: 2021-07-03 00:03:15
 image: 'https://m.media-amazon.com/images/I/41j406GcQcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B07VNF75SJ/?tag=tolees-21'
 descuento: '30.87'
-average: '171.555089285714'
+average: '171.443982300885'
 ---
 
 Tienes [HUAWEI MediaPad T5 - Tablet de 10.1" FullHD  Wifi  RAM de 3GB  ROM de 32GB  Android 8.0  EMUI 8.0   color Blanco y Oro  Champagne Gold ](https://www.amazon.es/dp/B07VNF75SJ/?tag=tolees-21) con un 30.87 % de descuento con precio de oferta de 159.0 EUR (original: 229.99 EUR) en el siguiente enlace!
