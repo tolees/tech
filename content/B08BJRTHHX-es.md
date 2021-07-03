@@ -28,10 +28,10 @@ En este momento está [MSI Creator 17 A10SF-626ES - Ordenador portátil de 17.3"
 
 🔎:
 
-- Tarjeta grafica GeForce RTX 2070 MAX Q, GDDR6 8 GB
 - Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
+- Tarjeta grafica GeForce RTX 2070 MAX Q, GDDR6 8 GB
 - Disco de 1 TB NVMe PCIe Gen3x4 SSD
-- Memoria RAM de 16 GB x 2 (2666 MHz)
 - Sistema operativo Windows10 Pro
+- Memoria RAM de 16 GB x 2 (2666 MHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BJRTHHX/?tag=tolees-21)

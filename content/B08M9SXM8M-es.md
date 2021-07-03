@@ -28,10 +28,10 @@ En este momento está [Linksys MX8400 - Sistema Velop WiFi 6 mesh tribanda para 
 
 🔎:
 
-- El sistema velop tribanda ax incluye tecnología wifi 6 de nueva generación, proporcionando transferencias de hasta 4.2 gbps; ofrece un ancho de banda suficiente para más de 80 dispositivos
 - Para hogares de múltiples plantas y con más de 4-5 dormitorios (hasta 525 metros cuadrados de cobertura); elimina las áreas sin cobertura inalámbrica en la vivienda
 - Ofrece una cobertura wifi rápida y fiable para streaming en hd/4k, juegos multijugador y otras actividades online
 - Capacidad de la memoria ram (gb): 512.0 mb
+- El sistema velop tribanda ax incluye tecnología wifi 6 de nueva generación, proporcionando transferencias de hasta 4.2 gbps; ofrece un ancho de banda suficiente para más de 80 dispositivos
 - Funciona con todos los proveedores de internet/banda ancha (isp) de españa, además de con el consiguiente equipamiento proporcionado al usuario (routers, módems)
 - Conecta un nodo velop al equipo de tu isp y usa la aplicación de linksys para completar en unos minutos la sencilla instalación; incrementa tu cobertura inalámbrica añadiendo nodos adicionales
 
