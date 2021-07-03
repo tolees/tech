@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Microsoft RJN-00003 – Bluetooth Mouse Ne al 30.45 % de rebaja'
-date: 2021-07-01 23:53:40
+title: 'Microsoft RJN-00003 – Bluetooth Mouse Ne al 27.14 % de rebaja'
+date: 2021-07-03 18:25:53
 image: 'https://m.media-amazon.com/images/I/31dKXON00RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07ZK4ZMC9-es Microsoft RJN-00003 – Bluetooth Mouse Negro'
 sku: 'B07ZK4ZMC9-es'
 tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','bluetooth','microsoft', ]
-actualPrice: 15.99 EUR
+actualPrice: 16.75 EUR
 currency: EUR
-price: 15.99
+price: 16.75
 comparePrice: 22.99 EUR
 prodname: 'Microsoft RJN-00003 – Bluetooth Mouse Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21'
-descuento: '30.45'
-average: '17.2482926829267'
+descuento: '27.14'
+average: '17.2422891566264'
 ---
 
-Tienes [Microsoft RJN-00003 – Bluetooth Mouse Negro](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21) con precio final de  15.99 EUR (original: 22.99 EUR) (30.45 %  de rebaja) aqui!
+Tienes [Microsoft RJN-00003 – Bluetooth Mouse Negro](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21) con precio final de  16.75 EUR (original: 22.99 EUR) (27.14 %  de rebaja) aqui!
 
 [![Microsoft RJN-00003 – Bluetooth Mouse Ne](https://m.media-amazon.com/images/I/31dKXON00RL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21)
 
