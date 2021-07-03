@@ -28,10 +28,10 @@ Tienes [FSKE Charger Adaptador de computadora portátil para Lenovo Salida: 20V 
 
 ℹ️:
 
-- Cargador de computadora portátil para Lenovo IdeaPad Y40-70, Y50-70, Y50p-70, Y70-70, Y700, Y700-14ISK, Y700-15ISK, Z710,720-15IKB;
+- No todos los modelos compatibles están en la lista, contáctenos primero si no está seguro acerca de su computadora portátil. Garantía: 30 días de devolución de dinero, 12 meses de garantía del producto.
 - Cargador para laptop notebook con cable de alimentación, Rango de voltaje de entrada: 100-240V ,Salida: 20V-6.75A 135W , Conector: 11 * 5.0mm （Punta cuadrada）. ¡La longitud total del cable se extiende a 2.7M (fácil de transportar)!
 - Fuente de alimentación para ThinkPad T440p, T450p, T460p, T540, T540p,W541, W510 4319-5XU, 4319-65U, 4389-22U, 4389-23U, 4389-24U, 4389-2SU, 4389-2TU
+- Cargador de computadora portátil para Lenovo IdeaPad Y40-70, Y50-70, Y50p-70, Y70-70, Y700, Y700-14ISK, Y700-15ISK, Z710,720-15IKB;
 - Lenovo P/N:Lenovo ADL135NLC2A, ADL135NLC3A, ADL135NDC3A, ADL135NLC3, PA-1131-71, PA-1131-72, 36200605, 45N0361, 45N0362, 45N0501 4X20E50558, 4X20E50570, 4X20E50572,59387522, 55Y9317, 45N0052, 45N0053,36200609, 45N0365, 45N0554, 45N0485
-- No todos los modelos compatibles están en la lista, contáctenos primero si no está seguro acerca de su computadora portátil. Garantía: 30 días de devolución de dinero, 12 meses de garantía del producto.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0892L5XYT/?tag=tolees-21)
