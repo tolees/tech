@@ -29,8 +29,8 @@ En este momento está [Xiaomi Mi 10 - Smartphone 256GB  8GB RAM  Coral Green](ht
 🔎:
 
 - Pantalla: 6.67", 1080 x 2340 pixels
-- Procesador: Snapdragon 865 2.84GHz
 - Batería: 4780 mAh
 - Cámara: Cuádruple, 108MP+13MP +2MP+2MP
+- Procesador: Snapdragon 865 2.84GHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086M8BBWZ/?tag=tolees-21)

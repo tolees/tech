@@ -28,7 +28,7 @@ Tienes [Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Cor
 
 🔎:
 
-- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
 - Microsoft surface pro signa - teclado hdwr ice blue
+- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YT15LB9/?tag=tolees-21)
