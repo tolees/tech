@@ -28,10 +28,10 @@ Tienes [realme Watch S. Smartwatch con Pantalla de 1.3" TFT-LCD. Android y Bluet
 
 ℹ️:
 
-- Carga magnética 390 mah. Carga en 2 horas
 - Pantalla redonda de 1.3" corning gorilla glass
-- Bluetooth 5.0
-- Monitor de frecuencia cardíaca y spo2
 - 16 modos deportivos
+- Bluetooth 5.0
+- Carga magnética 390 mah. Carga en 2 horas
+- Monitor de frecuencia cardíaca y spo2
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MB8YL5X/?tag=tolees-21)
