@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atlus - Persona 5 Strikers - Editión Lim al 24.24 % de descuento'
-date: 2021-07-03 07:39:44
+date: 2021-07-04 07:58:34
 image: 'https://m.media-amazon.com/images/I/51tXAoFFJsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Atlus'
 buyurl: 'https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21'
 descuento: '24.24'
-average: '41.5825000000001'
+average: '40.8614285714287'
 ---
 
 Está [Atlus - Persona 5 Strikers - Editión Limitada  PS4 ](https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21) con 24.24 de descuento por 26.44 EUR (original: 34.9 EUR) en el siguiente enlace!
