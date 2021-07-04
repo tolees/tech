@@ -29,9 +29,9 @@ Ahora mismo tienes [AMANKA Adaptador Cable HDMI 1080P Adaptador 3 in 1 AV Digita
 🔎:
 
 - 【Pantalla pequeña a pantalla grande】Mediante la aplicación de este cable mirroring hdmi adaptador, usted puede fácil y espejo lo que se muestra en la pantalla de tu dispositivo telefonoa un dispositivo grande como HDTV, Proyector y ordenador
-- 【HDTV 1080p support】3 in1AV Digital Convertidor soporta todas las resoluciones de vídeo y formatos de audio como de vídeo y audio digital, soporta duplicación de lo que se muestra en la pantalla de tu dispositivo, incluyendo Apps, presentaciones, sitios web, diapositivas y más - pantalla a su televisor, pantalla, proyector u otro compatible con HDMI en hasta 1080p HD
 - 【Plug y play】Advanced Edition es fácil de usar, sin necesidad de conexión WiFi , no es necesario instalar ningún software de controlador, no necesita red celular , conectar directamente el cable a la conexión de HDTV, puede lograr la transmisión de video
-- 【Soporte de aplicaciones】HDMI cable adaptador soporte de YouTube, IDMB, Quickflix, Family On TV, ABC, NBC, FOX, Microsoft Office y más. NO APOYO APLICACIONES que tengan protección de derechos de autor de video "HDCP" como Netflix, Amazon video, HBO go, HULU, SKY Go y Xfinity y más.
+- 【HDTV 1080p support】3 in1AV Digital Convertidor soporta todas las resoluciones de vídeo y formatos de audio como de vídeo y audio digital, soporta duplicación de lo que se muestra en la pantalla de tu dispositivo, incluyendo Apps, presentaciones, sitios web, diapositivas y más - pantalla a su televisor, pantalla, proyector u otro compatible con HDMI en hasta 1080p HD
 - 【Amplia Compatibilidad】Telefono to hdmi adaptador se puede utilizar tanto para el sistema operativo I-os como para Android. Compatible para teléfonos inteligentes y otros dispositivos.
+- 【Soporte de aplicaciones】HDMI cable adaptador soporte de YouTube, IDMB, Quickflix, Family On TV, ABC, NBC, FOX, Microsoft Office y más. NO APOYO APLICACIONES que tengan protección de derechos de autor de video "HDCP" como Netflix, Amazon video, HBO go, HULU, SKY Go y Xfinity y más.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085Y7RDFJ/?tag=tolees-21)
