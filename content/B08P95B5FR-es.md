@@ -28,8 +28,8 @@ Tienes [Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro](https
 
 ℹ️:
 
-- Potencia: hasta 25 W
 - Compatible con cables USB-C
+- Potencia: hasta 25 W
 - Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
 - Adaptador de viaje AFC sin cable
 
