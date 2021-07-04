@@ -28,9 +28,9 @@ Ahora mismo tienes [SAMSUNG Galaxy Tab S6 Lite - Tablet de 10.4”  WiFi  Proces
 
 🔎:
 
-- Cámara trasera 8 MP y frontal 5 MP
-- Nuevo diseño compacto y ligero: con el grosor del bisel reducido a 9mm y bordes de la pantalla redondeados
 - El nuevo S-Pen permite una mejor experiencia de escritura y dibujo gracias a su menor latencia, de tan solo 26ms
+- Nuevo diseño compacto y ligero: con el grosor del bisel reducido a 9mm y bordes de la pantalla redondeados
+- Cámara trasera 8 MP y frontal 5 MP
 - 4 GB de memoria RAM, 128 GB de memoria interna (ampliable con MicroSD hasta 512 GB)
 - Pantalla de 10.4’’ y sistema de dos altavoces con Dolby Atmos (con auriculares) te proporcionan una experiencia multimedia sin precedentes
 
