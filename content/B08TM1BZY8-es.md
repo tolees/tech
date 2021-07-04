@@ -28,10 +28,10 @@ En este momento está [Lenovo IdeaPad Flex 3 Chromebook - Portátil convertíble
 
 🔎:
 
+- Tarjeta gráfica integrada Intel UHD Graphics 600
 - Memoria RAM de4GB Soldered LPDDR4-2400
 - Sistema operativo Chrome OS
 - Pantalla táctil convertíble de 11.6" HD 1366x768 pixeles, IPS, 250nits
-- Tarjeta gráfica integrada Intel UHD Graphics 600
 - Almacenamiento de 64GB eMMC 5.1
 - Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
 

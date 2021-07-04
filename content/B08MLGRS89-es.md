@@ -28,12 +28,12 @@ Tienes [MSI Stealth 15M A11SDK-056XES - Ordenador portátil de 15.6" FullHD 144H
 
 🔎:
 
+- Procesador Intel Core i7-1185G7 (4 núcleos, frecuencia turbo máxima de 4.80 GHz, 12 MB Intel Smart Cache)
+- Disco SSD de 1 TB NVMe PCIe Gen3x4
 - Memoria RAM de 16GB, DDR IV (8 GB*2 (2666 MHz))
 - Batería 3 celdas, 52 Whr / 150W
-- Sin sistema operativo
-- Procesador Intel Core i7-1185G7 (4 núcleos, frecuencia turbo máxima de 4.80 GHz, 12 MB Intel Smart Cache)
-- Display 15.6" FHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
 - Tarjeta gráfica Nvidia GeForce GTX 1660 Ti Max-Q, GDDR6 6 GB
-- Disco SSD de 1 TB NVMe PCIe Gen3x4
+- Display 15.6" FHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
+- Sin sistema operativo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MLGRS89/?tag=tolees-21)
