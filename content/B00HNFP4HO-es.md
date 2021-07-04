@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-LINK TL-WR840N - Router WiFi  300 Mbp al 34.59 % de rebaja'
-date: 2021-06-21 03:57:18
+title: 'TP-LINK TL-WR840N - Router WiFi  300 Mbp al 27.50 % de rebaja'
+date: 2021-07-04 16:34:02
 image: 'https://m.media-amazon.com/images/I/21KMtWi7h-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00HNFP4HO-es TP-LINK TL-WR840N - Router WiFi 300 Mbps'
 sku: 'B00HNFP4HO-es'
 tags: [ 'Dispositivos de red','Informática','Routers','tp-link','wifi', ]
-actualPrice: 14.39 EUR
+actualPrice: 15.95 EUR
 currency: EUR
-price: 14.39
+price: 15.95
 comparePrice: 22.0 EUR
 prodname: 'TP-LINK TL-WR840N - Router WiFi  300 Mbps'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21'
-descuento: '34.59'
-average: '16.5758064516127'
+descuento: '27.50'
+average: '16.5562499999998'
 ---
 
-Tienes [TP-LINK TL-WR840N - Router WiFi  300 Mbps](https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21) con precio final de  14.39 EUR (original: 22.0 EUR) (34.59 %  de rebaja) aqui!
+Tienes [TP-LINK TL-WR840N - Router WiFi  300 Mbps](https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21) con precio final de  15.95 EUR (original: 22.0 EUR) (27.50 %  de rebaja) aqui!
 
 [![TP-LINK TL-WR840N - Router WiFi  300 Mbp](https://m.media-amazon.com/images/I/21KMtWi7h-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21)
 
