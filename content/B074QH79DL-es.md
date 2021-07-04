@@ -28,9 +28,9 @@ Tienes [Canon Selphy CP1300 - Impresora fotográfica inalámbrica  Apple AirPrin
 
 🔎:
 
-- Inmortaliza y comparte tus recuerdos de formas creativas e imprime fotos de carné en una amplia gama de tamaños compatibles
-- Impresiones inalámbricas rápidas desde dispositivos inteligentes gracias a la aplicación Canon Print, MopriaTM, Apple AirPrintTM y el botón Wifi
 - Realiza impresiones vibrantes, duraderas y de excelente calidad en menos de un minuto gracias a la tecnología de sublimación de tintas
+- Impresiones inalámbricas rápidas desde dispositivos inteligentes gracias a la aplicación Canon Print, MopriaTM, Apple AirPrintTM y el botón Wifi
+- Inmortaliza y comparte tus recuerdos de formas creativas e imprime fotos de carné en una amplia gama de tamaños compatibles
 - Diseño elegante, ultra compactó y portátil, ideal para unas impresiones fotográficas magníficas dentro y fuera de casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074QH79DL/?tag=tolees-21)
