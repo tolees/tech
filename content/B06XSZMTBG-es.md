@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic LAPS116BRK - Funda de Neopren al 35.73 % de descuento'
-date: 2021-06-30 09:08:47
+date: 2021-07-05 05:20:18
 image: 'https://m.media-amazon.com/images/I/514Z0Sta0hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
