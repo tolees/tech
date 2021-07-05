@@ -28,10 +28,10 @@ Ahora mismo tienes [Generial - Disco duro externo de 2 TB  portátil para PC  po
 
 🔎:
 
-- Plug and Play: esta unidad externa de disco duro está lista para estar siempre lista para usar sin software para instalarlo, simplemente plug it in and go.
-- Sistema compatible con Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7, Apple MAC/Android y More!
 - What You Get-- 1 x Drive, 1 x USB Cable
-- Sturdy y duradera: carcasa ultrafina y portátil que protege de forma duradera y que es ligera y cómoda, cómoda de llevar en la palma o en el bolsillo.
+- Sistema compatible con Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7, Apple MAC/Android y More!
+- Plug and Play: esta unidad externa de disco duro está lista para estar siempre lista para usar sin software para instalarlo, simplemente plug it in and go.
 - Rápida transferencia de datos: External Hard drive, superrápida transferencia con USB 2.0, lo que significa que es 5 veces más rápido que los drives usual duros, ensuring you speedy and estable use
+- Sturdy y duradera: carcasa ultrafina y portátil que protege de forma duradera y que es ligera y cómoda, cómoda de llevar en la palma o en el bolsillo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08S75D2ZN/?tag=tolees-21)
