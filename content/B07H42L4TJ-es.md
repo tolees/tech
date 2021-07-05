@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme 64GB SDXC - Tarjeta de m al 32.74 % de rebaja'
-date: 2021-07-04 06:25:57
+date: 2021-07-05 07:39:03
 image: 'https://m.media-amazon.com/images/I/51hnNZuy4YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07H42L4TJ/?tag=tolees-21'
 descuento: '32.74'
-average: '17.405'
+average: '16.9028571428571'
 ---
 
 Tienes [SanDisk Extreme 64GB SDXC - Tarjeta de memoria 150MB/s  Class 10  U3  V30](https://www.amazon.es/dp/B07H42L4TJ/?tag=tolees-21) con precio final de  13.89 EUR (original: 20.65 EUR) (32.74 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [SanDisk Extreme 64GB SDXC - Tarjeta de memoria 150MB/s  Class 10  U3  V3
 
 🔎:
 
-- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
-- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
-- Graba vídeos de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
-- Velocidad de disparo de hasta 60 MB/s y velocidades de transferencia de hasta 150 MB/s
 - Compatible con el lector de tarjetas SanDisk SD UHS-I para velocidades de hasta 150 MB / s
+- Velocidad de disparo de hasta 60 MB/s y velocidades de transferencia de hasta 150 MB/s
+- Graba vídeos de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
+- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H42L4TJ/?tag=tolees-21)
