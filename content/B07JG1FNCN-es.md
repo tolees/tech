@@ -28,8 +28,8 @@ Está [Sharkoon SGM2 - Ratón Gaming Óptico  6400 DPI  6 Botones  Negro](https:
 
 ℹ️:
 
-- Seis efectos de iluminación: El interruptor en la parte inferior del ratón se puede usar también para seleccionar seis efectos de iluminación. No es necesario usar software para ello
 - Sensor óptico con 6.400 DPI: Dentro del ratón hay un sensor óptico preciso, que, por medio del botón de DPI, se puede ajustar en cuatro pasos hasta los 6.400 DPI. El logo SKILLER iluminado sirve como indicador de DPI
+- Seis efectos de iluminación: El interruptor en la parte inferior del ratón se puede usar también para seleccionar seis efectos de iluminación. No es necesario usar software para ello
 - Diseño retro ergonómico: El SKILLER SGM2 tiene una forma ergonómica clásica diseñada para diestros. Dos prácticos y accesibles botones pulgares aportan rapidez mientras jugamos. Los laterales del ratón vienen engomados para un mejor agarre, proporcionando así estabilidad en cada click
 - Iluminación RGB opcional: El ratón llama la atención con su contorno iluminado RGB. Si no deseamos la iluminación, podemos desactivarla simplemente apagando el interruptor ubicado en la parte inferior del ratón
 
