@@ -28,9 +28,9 @@ Tienes [Apple iPhone XR 64 GB Rojo  Reacondicionado ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
 - Pantalla LCD multi-touch de 6,1 pulgadas (en diagonal) con tecnología ips
 - Cámara de 12.mpx con estabilización óptica de imagen y cámara frontal truedepth de 7.mpx: modo retrato, iluminación de retratos, control de profundidad y hdr inteligente.
 - Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
+- Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N9HJQ9S/?tag=tolees-21)
