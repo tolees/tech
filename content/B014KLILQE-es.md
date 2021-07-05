@@ -28,9 +28,9 @@ Tienes [Canon CLI-571XL M Cartucho de tinta para Impresora de Inyeccion Pixma MG
 
 🔎:
 
+- Es adecuado para impresora de inyección
 - El número de modelo es CLI571M
 - La marca del producto es Canon
-- Es adecuado para impresora de inyección
 - El producto representa un cartucho de tinta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014KLILQE/?tag=tolees-21)
