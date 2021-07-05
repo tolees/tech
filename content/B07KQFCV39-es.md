@@ -28,9 +28,9 @@ Tienes [Asus TUF Gaming H5 Lite - Auriculares  Compatible con PC-PS4 -Mac-Xbox O
 
 🔎:
 
-- Soporte multiplataforma para PC, Mac, PS4, Nintendo Switch, teléfonos móviles y Xbox One
-- Diadema de acero inoxidable
 - Diseño ligero y almohadillas ajustables que se adaptan a todas las formas de cabezas y orejas
 - Exclusivos controladores ASUS Essence de 50 mm y cámara hermética para un audio envolvente
+- Diadema de acero inoxidable
+- Soporte multiplataforma para PC, Mac, PS4, Nintendo Switch, teléfonos móviles y Xbox One
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21)
