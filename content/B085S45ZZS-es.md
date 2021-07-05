@@ -29,9 +29,9 @@ Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67” FHD+  DotDisplay  Snapdrago
 ℹ️:
 
 - Procesador Snapdragon 720G 2.3 GHz
-- Batería de 5020 mAh
 - Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 - Pantalla de 6.67", 1080 x 2400 pixeles
+- Batería de 5020 mAh
 - Sistema operativo Android 10
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085S45ZZS/?tag=tolees-21)

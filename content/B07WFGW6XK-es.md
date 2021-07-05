@@ -28,9 +28,9 @@ Está [MARSGAMING - Mars Gaming MMG Ratón RGB Flow  Sensor Óptico 3200 DPI  An
 
 ℹ️:
 
-- Ratón gaming ultraligero con iluminación RGB Flow y 3200 DPI
-- 6 botones, cambio de DPI on the fly (800/1200/1600/3200) y switches HUANO para una mayor precisión y durabilidad
 - Iluminación RGB Flow dinámica con cambio de colores automáticos
 - Diseño compacto, ligero y ergonómico, conector USB, cable trenzado y compatibilidad con Windows/Mac/Linux
+- 6 botones, cambio de DPI on the fly (800/1200/1600/3200) y switches HUANO para una mayor precisión y durabilidad
+- Ratón gaming ultraligero con iluminación RGB Flow y 3200 DPI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WFGW6XK/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Redmi Note 8 - Smartphone 64GB  4GB RAM  Dual Sim  Ne
 
 🔎:
 
-- Pantalla: 6.3", 1080 x 2340 pixels
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
-- Batería: 4000 mAh
 - Procesador: Snapdragon 665 2GHz
+- Pantalla: 6.3", 1080 x 2340 pixels
+- Batería: 4000 mAh
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y1D52LV/?tag=tolees-21)
