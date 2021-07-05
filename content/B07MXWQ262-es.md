@@ -31,7 +31,7 @@ Ahora mismo tienes [Aukru 12V 2A 24W Cargador alimentación Universal con 3 Cone
 - - El paquete incluye: 1x 12V 2A adaptador de corriente (5.5mm x 2.5mm); 1 x (3.5mm x 1.35mm); 1 x (4.0mm x 1.7mm)
 - - Entrada: 100-240V ~ 50/60 HZ 0.3a
 - - Longitud del cable: 140cm
-- - Conector de 5,5mm (exterior) 2,5mm (interior). El polo positivo está en el interior, el polo negativo está en el exterior- Este caragador puede ser utilizado con todos los aparatos que tengan un voltaje de salida de 12V y que necesiten un enchufe de entrada de 5,5mm en su exterior y de 2,1mm en su interior. Por ejemplo laptop, impresora, escáner, router, máquinas de fax, TFT, LCD y muchos dispositivos
 - - Salida: 12V 2000 mA( enchufe de UE )
+- - Conector de 5,5mm (exterior) 2,5mm (interior). El polo positivo está en el interior, el polo negativo está en el exterior- Este caragador puede ser utilizado con todos los aparatos que tengan un voltaje de salida de 12V y que necesiten un enchufe de entrada de 5,5mm en su exterior y de 2,1mm en su interior. Por ejemplo laptop, impresora, escáner, router, máquinas de fax, TFT, LCD y muchos dispositivos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXWQ262/?tag=tolees-21)

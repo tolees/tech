@@ -28,9 +28,9 @@ Tienes [SAMSUNG EVO Plus 2020 - Memoria Flash de 64 GB MicroSDXC Clase 10 UHS-I]
 
 🔎:
 
-- de calidad
-- Producto de la marca SAMSUNG
 - Resistente
 - Tipo de memoria interna: UHS-I
+- de calidad
+- Producto de la marca SAMSUNG
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BKCB4JW/?tag=tolees-21)
