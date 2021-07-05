@@ -28,10 +28,10 @@ Está [Filamento PLA de ERYONE para Impresora 3D  1.75 mm  Tolerancia: ¡À0.03 
 
 ℹ️:
 
-- 5.Peso y di¨metro del carrete: peso neto 1 kg, peso total 1,35 kg; di¨metro interior del carrete 57 mm, di¨metro exterior del carrete 200 mm, altura 64 mm.
-- 4.Embalaje sellado al vac¨ªo: bolsa sellada al vac¨ªo para mantener el filamento seco y evitar el polvo.
-- 1.Rango de temperatura de impresi¨n: 190-220.
 - 3.Alta calidad: sin burbujas ni polvo en el interior, cuidadosamente enrollado para reducir las obstrucciones o enredos, con una fuerte adhesi¨n entre capas.
 - 2.Alta precisi¨n dimensional: 1.75 mm, tolerancia +/- 0.03 mm.
+- 5.Peso y di¨metro del carrete: peso neto 1 kg, peso total 1,35 kg; di¨metro interior del carrete 57 mm, di¨metro exterior del carrete 200 mm, altura 64 mm.
+- 1.Rango de temperatura de impresi¨n: 190-220.
+- 4.Embalaje sellado al vac¨ªo: bolsa sellada al vac¨ªo para mantener el filamento seco y evitar el polvo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GCJR1QC/?tag=tolees-21)
