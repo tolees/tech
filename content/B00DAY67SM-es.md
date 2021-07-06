@@ -28,10 +28,10 @@ Ahora mismo tienes [Maclean MC-503A B - Soporte de pared para pantalla TV LED LC
 
 🔎:
 
-- De acuerdo con estándar VESA: 75 x 75, 100x100mm, 200x100mm, 200x200mm.
-- Marca: Maclean.
 - Soporte de pared para pantalla / LED / PLASMA / LCD.
 - Adecuado para todos los 23" a 42" LCD / LED monitores con VESA.
+- Marca: Maclean.
 - Capacidad de carga máxima: 30kg.
+- De acuerdo con estándar VESA: 75 x 75, 100x100mm, 200x100mm, 200x200mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DAY67SM/?tag=tolees-21)

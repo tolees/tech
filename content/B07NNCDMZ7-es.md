@@ -28,10 +28,10 @@ Ahora mismo tienes [KONGMING - Austings 12  Lupa de Pantalla  Pantalla de teléf
 
 🔎:
 
-- 【ALTA CALIDAD】 - Pantalla de madera maciza + 3D, los materiales utilizados para este producto son ambientales y sin olor.
-- 【GRAN REGALO】: el diseño simple y elegante hace de este producto su mejor opción de regalos navideños para sus amigos o seres queridos. Un regalo inteligente para la familia, hombre viejo, chica / novio
 - 【PERFECTO PARA VER PELÍCULAS Y LEER】 - La lupa de la pantalla del teléfono como un proyector de teléfono, ampliando la pantalla de su teléfono de 2 veces el tamaño. lo que aliviará la incomodidad y la fatiga visual causada por un tiempo prolongado en la pantalla pequeña.
-- 【COM COMPATIBILIDAD UNIVERSAL】 - La lupa de pantalla del teléfono Adopta la tecnología óptica de zoom HD, no necesita batería, es perfecta para cualquier teléfono inteligente
 - 【Atención】 -La resolución aparecerá reducida con la lupa ， Recomendada para usar en ambientes con poca luz, no utilice rasguños con un paño fuerte, cuando no esté en uso, use un paño suave para proteger la lente
+- 【COM COMPATIBILIDAD UNIVERSAL】 - La lupa de pantalla del teléfono Adopta la tecnología óptica de zoom HD, no necesita batería, es perfecta para cualquier teléfono inteligente
+- 【GRAN REGALO】: el diseño simple y elegante hace de este producto su mejor opción de regalos navideños para sus amigos o seres queridos. Un regalo inteligente para la familia, hombre viejo, chica / novio
+- 【ALTA CALIDAD】 - Pantalla de madera maciza + 3D, los materiales utilizados para este producto son ambientales y sin olor.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NNCDMZ7/?tag=tolees-21)

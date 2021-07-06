@@ -29,8 +29,8 @@ Está [SanDisk SDSDUNC-016G-GN6IN Ultra Tarjeta de Memoria SDHC de 16 GB  hasta 
 ℹ️:
 
 - Excepcional rendimiento de grabación de vídeo con categoría Class 10 para grabar vídeos Full HD (1080p)
-- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
 - Con capacidades que van de 16 GB a 128 GB para guardar infinidad de fotografías y rápidas velocidades de transferencia de hasta 80 MB/s
 - Version más moderna
+- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0143RTB1E/?tag=tolees-21)
