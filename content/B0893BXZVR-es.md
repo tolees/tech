@@ -28,10 +28,10 @@ En este momento está [LG SN7CY - Barra de sonido Hi-Res con Dolby Atmos  24 bit
 
 🔎:
 
-- Tecnología Meridian
-- Salida HDMI 4 K y Multi Bluetooth 4.0
-- 160 W de potencia
-- Sonido Dolby Atmos/DTS:X
 - Sonido de alta resolución Hi-Res
+- 160 W de potencia
+- Salida HDMI 4 K y Multi Bluetooth 4.0
+- Sonido Dolby Atmos/DTS:X
+- Tecnología Meridian
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893BXZVR/?tag=tolees-21)

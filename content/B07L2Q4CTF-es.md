@@ -29,9 +29,9 @@ Tienes [Corsair Ironclaw RGB - Ratón Óptico para Juego  con Cable  Mano Derech
 🔎:
 
 - Siete botones totalmente programables para personalizar tu forma de juego, con potentes macros o remapas de teclas que te ofrecen una ventaja en el juego.
+- Retroiluminación RGB dinámica de dos zonas con decenas de preajustes y efectos personalizables.
+- Interruptores Omron ultrarresistentes con más de 50 millones de clic.
 - Custom Pixart PMW3391 nativo 18, 000 DPI sensor óptico de precisión con 1 paso de resolución DPI para un seguimiento y rendimiento ultra precisos.
 - Ligero a 105 g y una forma contorneada que está esculpida específicamente para palmeras y manos más grandes.
-- Interruptores Omron ultrarresistentes con más de 50 millones de clic.
-- Retroiluminación RGB dinámica de dos zonas con decenas de preajustes y efectos personalizables.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L2Q4CTF/?tag=tolees-21)

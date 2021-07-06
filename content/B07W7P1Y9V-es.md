@@ -29,9 +29,9 @@ Tienes [Dragon Touch Cámara Deportiva WiFi 4K 20MP Cámara de Acción con Contr
 🔎:
 
 - 【Soporte Micrófono Externo, Remoto Inalámbrico y 2" Pantalla】 El micrófono externo amplifica el sonido grabado y reduce los ruidos. Es conveniente grabar momentos en lugares que no se pueden alcanzar. Alcance inalámbrico de hasta 10 m. El control remoto no se puede remojar en el agua. La pantalla de 2" le permite obtener una vista previa del video y foto.
+- 【Wi-Fi Integrada y HDMI】 Descargue la aplicación (Live DV) en su móvil o tableta y conéctela a esta cámara deportiva, puede compartir su maravilloso momento en las redes sociales al instante; el puerto hdmi le permite conectarlo a la tv.
+- 【Sumergible Hasta 30M y 2 Baterias】Con la carcasa a prueba de agua instalada, es posible bucear bajo el agua hasta 30M. Perfecto para nadar, surfear, bucear, etc. 2 baterías recargables de 1050mAh nunca te permiten perder un momento maravilloso.
 - 【4K Vídeo & 4 Veces Zoom】: Vídeo profesional de 4K / 30FPS, 2.7K / 30fps, 1080P / 60FPS y la resolución de foto de 20MP cumplen con los diversos requisitos y la función ZOOM amplía los detalles de su obra.
 - 【EIS y Multifuncional】La función EIS garantiza una excelente experiencia para grabar objetos en rápido movimiento. Esta cámara deportiva ofrece múltiples funciones, incluido modos automóvil, boca abajo, video de lapso de tiempo, foto de lapso de tiempo, grabación de bucle, cámara lenta y foto de ráfaga. Lleve esta cámara a más condiciones aplicables más allá de sus expectativas.
-- 【Sumergible Hasta 30M y 2 Baterias】Con la carcasa a prueba de agua instalada, es posible bucear bajo el agua hasta 30M. Perfecto para nadar, surfear, bucear, etc. 2 baterías recargables de 1050mAh nunca te permiten perder un momento maravilloso.
-- 【Wi-Fi Integrada y HDMI】 Descargue la aplicación (Live DV) en su móvil o tableta y conéctela a esta cámara deportiva, puede compartir su maravilloso momento en las redes sociales al instante; el puerto hdmi le permite conectarlo a la tv.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7P1Y9V/?tag=tolees-21)
