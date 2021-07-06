@@ -28,10 +28,10 @@ En este momento está [aiwons - Auriculares para iPhone Auriculares Conector Par
 
 🔎:
 
-- Sonidos fascinantes - altavoces de alto rendimiento instalados para ampliar la gama de frecuencias, reducir las distorsiones, alto rendimiento, tapones acústicos para eliminar el entorno circundante.
-- Certificación MFI - este auricular certificado MFI es compatible con todo el equipo de la interfaz de la luz y es perfecto con iPhone 11 / 11pro, iPhone xR / XS / XS Max, iPhone 8 / 8 Plus, iPhone 7 / 7 Plus, 6 / 6 plus / 5 / iPad / iPod.
-- Servicio de postventa a largo plazo - todos los productos de Lovaina han sido sometidos a un riguroso control de calidad.Hemos prometido 18 meses de garantía de calidad y 30 días de garantía del intercambio.Si tiene alguna pregunta, póngase en contacto con nosotros y estaremos encantados de ayudarle.
 - Facilidad de uso - la línea de alimentación está instalada en un controlador interno y en un micrófono de alta calidad, y el controlador está diseñado para reproducir / detener la música / la siguiente canción / la anterior canción / atender el teléfono / colgar el teléfono.
+- Sonidos fascinantes - altavoces de alto rendimiento instalados para ampliar la gama de frecuencias, reducir las distorsiones, alto rendimiento, tapones acústicos para eliminar el entorno circundante.
+- Servicio de postventa a largo plazo - todos los productos de Lovaina han sido sometidos a un riguroso control de calidad.Hemos prometido 18 meses de garantía de calidad y 30 días de garantía del intercambio.Si tiene alguna pregunta, póngase en contacto con nosotros y estaremos encantados de ayudarle.
+- Certificación MFI - este auricular certificado MFI es compatible con todo el equipo de la interfaz de la luz y es perfecto con iPhone 11 / 11pro, iPhone xR / XS / XS Max, iPhone 8 / 8 Plus, iPhone 7 / 7 Plus, 6 / 6 plus / 5 / iPad / iPod.
 - Confort duradero - diseño de metal ultraligero, compatible con la ingeniería humana, con tapones de silicona, para maximizar la comodidad y el aislamiento acústico, reducir al mínimo el ruido externo y reducir al mínimo las fugas de sonido, para proporcionar un sonido claro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HGMJMFL/?tag=tolees-21)
