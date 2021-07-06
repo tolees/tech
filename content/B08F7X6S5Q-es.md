@@ -28,10 +28,10 @@ Tienes [Panasonic SC-TMAX5 - Sistema de Sonido Portátil  150 W  16 cm Woofer  W
 
 ℹ️:
 
-- Altavoz de graves flexible - Powerbank para disfrutar de la música móvil: Llévate el altavoz donde quieras exterior o interior; gracias a su carga externa y su cuerpo compacto no necesitas un enchufe para que funcione el altavoz
 - Sistema Hi-Fi de sonido Panasonic Party: Altavoz Bluetooth para que puedas conectar tu música favorita y regular las luces de colores y hacer que tu casa se convierta en una discotecas para ti y tus amigos; dale al Play
 - Carga tu Smartphone directamente del altavoz: con su base de carga superior puedes cargar tu móvil colocándolo encima del TMAX5 y se cargará; para que la música nunca deje de sonar
-- Sumérgete en la música: ya sea en vertical o en horizontal el altavoz TMAX5 dejará un potente sonido que te transportará a una auténtica discoteca o concierto; la música se emite a través del subwoofer de 16 cm alimentado por dos amplificadores duales y por los tweeters de 5 cm que garantizan una clara reproducción de sonidos de alta frecuencia
 - Amplia selección de música: sistema de altavoces Bluetooth con conexión USB y AUX; además con la función Panasonic MAX Juke; te convertirás en el DJ; que permitirá a partir de tu Smartphone que tus amigos te soliciten canciones en una lista de reproducción compartida
+- Sumérgete en la música: ya sea en vertical o en horizontal el altavoz TMAX5 dejará un potente sonido que te transportará a una auténtica discoteca o concierto; la música se emite a través del subwoofer de 16 cm alimentado por dos amplificadores duales y por los tweeters de 5 cm que garantizan una clara reproducción de sonidos de alta frecuencia
+- Altavoz de graves flexible - Powerbank para disfrutar de la música móvil: Llévate el altavoz donde quieras exterior o interior; gracias a su carga externa y su cuerpo compacto no necesitas un enchufe para que funcione el altavoz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F7X6S5Q/?tag=tolees-21)
