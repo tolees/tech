@@ -28,7 +28,7 @@ Tienes [Ozone Gaming - Raton Gaming Ozone M10 - Raton Ergonomico con Cable para 
 
 ℹ️:
 
-- diseñado para adaptarse a todos los estilos de juego
 - dispositivos_compatibles: PC
+- diseñado para adaptarse a todos los estilos de juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01K1DQF5O/?tag=tolees-21)

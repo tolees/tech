@@ -28,10 +28,10 @@ Tienes [Netgear WAC104-100PES - Punto de acceso profesional  SOHO  sin cables  d
 
 🔎:
 
+- Punto de acceso autónomo con red mallada para un despliegue flexible dentro de nuestro pequeño negocio u oficina en casa (soho)
+- Sistema botón (wps) para fácil itar la conectividad inicial del cliente
+- Rendimiento superior (1,2 gbps)
 - Operación simultánea de doble banda 802.11ac compatible con 802.11n
 - Fácil idad de uso con interfaz gráfica de usuario sencilla e intuitiva
-- Rendimiento superior (1,2 gbps)
-- Sistema botón (wps) para fácil itar la conectividad inicial del cliente
-- Punto de acceso autónomo con red mallada para un despliegue flexible dentro de nuestro pequeño negocio u oficina en casa (soho)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LQ23DU4/?tag=tolees-21)
