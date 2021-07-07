@@ -28,9 +28,9 @@ Ahora mismo tienes [realme 6 – Smartphone de 6.5”  4 GB RAM + 64 GB ROM  Pro
 
 🔎:
 
-- Pantalla: 6.5", 1080 x 2400 pixels
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
-- Batería: 4300 mAh
 - Procesador: Mediatek Helio G90T 2.05Ghz
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Pantalla: 6.5", 1080 x 2400 pixels
+- Batería: 4300 mAh
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085PKBWZ7/?tag=tolees-21)
