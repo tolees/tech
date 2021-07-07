@@ -28,11 +28,11 @@ Está [HP 15s-eq1069ns - Ordenador portátil de 15.6" FullHD  Ryzen 5-4500U  8GB
 
 ℹ️:
 
+- 8GB de memoria RAM
+- Pantalla de 15.6" FullHD
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 - Almacenamiento de 256GB SSD
 - Windows 10
-- Pantalla de 15.6" FullHD
 - Procesador Ryzen 5-4500U
-- 8GB de memoria RAM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFJD1ZM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Funda Compatible iPhone XR 6 1"  Carcasa Absorción d
 
 🔎:
 
-- Biseles levantados para ofrecer protección para la pantalla y la cámara. Diseño único de absorción de impactos: 4 esquinas absorben con eficacia los golpes
-- El paquete incluye: funda iPhone XR
 - Hecho con PC y TPU. Diseño delgado. Respaldo ultra transparente y resistente a los arañazos
-- Diseñado para iPhone XR 6,1"
+- El paquete incluye: funda iPhone XR
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- Diseñado para iPhone XR 6,1"
+- Biseles levantados para ofrecer protección para la pantalla y la cámara. Diseño único de absorción de impactos: 4 esquinas absorben con eficacia los golpes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXNFLCW/?tag=tolees-21)
