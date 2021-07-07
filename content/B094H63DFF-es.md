@@ -29,10 +29,10 @@ En este momento está [HUAWEI MateBook 13 - Ordenador portátil con Pantalla de 
 🔎:
 
 - Procesador AMD Ryzen 7 3700U (4 núcleos, 2 MB cache, 2.3 GHz hasta 4.0 GHz).
+- Sistema Operativo: Windows 10 Home.
 - Pantalla de 13 2K, 2160 x 1440 píxeles, 200ppi y tecnología IPS.
 - Memoria RAM de 16GB DDR4 2400 MHz.
-- Sistema Operativo: Windows 10 Home.
-- Gráficos integrados AMD Radeon Vega 8.
 - Almacenamiento SSD de 512GB PCIe.
+- Gráficos integrados AMD Radeon Vega 8.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [HP Stream 14s-fq0005ns - Ordenador portátil de 14" HD  Prcesador 3020e 
 
 🔎:
 
-- Pantalla HD 14" (35,6 cm)
-- Gráficos AMD Radeon
 - Sistema Operativo Windows 10 - modo S
-- 64 GB eMMc
-- Memoria RAM de 4 GB
+- Pantalla HD 14" (35,6 cm)
 - Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos)
+- 64 GB eMMc
+- Gráficos AMD Radeon
+- Memoria RAM de 4 GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MCDKL4M/?tag=tolees-21)
