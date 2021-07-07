@@ -29,8 +29,8 @@ Está [Xiaomi Redmi 9T - Smartphone 128GB  4GB RAM  Dual Sim  Twilight Blue](htt
 ℹ️:
 
 - Batería: 4000 mAh
+- Pantalla: 6.39", 1080 x 2340 pixels
 - Cámara: Triple, 48MP+13MP+8MP
 - Procesador: Snapdragon 730 2.2GHz
-- Pantalla: 6.39", 1080 x 2340 pixels
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VW1XDN6/?tag=tolees-21)
