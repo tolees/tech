@@ -28,9 +28,9 @@ Ahora mismo tienes [Power A - PowerA - Kit / estuche de protección Legend of Ze
 
 🔎:
 
-- Cubierta exterior dura con mango de goma y tiradores de cremallera con diseño Joy-Con
-- El interior moldeado se adapta a la consola en modo portátil, y cuenta con forro de fieltro y almacenamiento de malla con cremallera
 - Con licencia oficial para Nintendo Switch
+- El interior moldeado se adapta a la consola en modo portátil, y cuenta con forro de fieltro y almacenamiento de malla con cremallera
+- Cubierta exterior dura con mango de goma y tiradores de cremallera con diseño Joy-Con
 - Incluye protector de pantalla con aplicador y paño de limpieza con diseño Zelda
 - La solapa protectora de pantalla acolchada incorporada incluye almacenamiento para 9 tarjetas de juego
 

@@ -28,10 +28,10 @@ En este momento está [Microsoft Mouse  diseño Moderno  Color Verde Menta](http
 
 🔎:
 
-- La rueda de desplazamiento optimizada está diseñada para hojas suaves y naturales.
+- Diseño elegante y delgado que se adapta cómodamente a la mano.
+- El ratón ligero y portátil es perfecto para una navegación precisa sobre la marcha.
 - Sin cables ni dongle – se conecta de forma inalámbrica a través de Bluetooth a tu PC, portátil o 2 en 1.
 - Funciona en casi cualquier superficie gracias a la tecnología BlueTrack.
-- El ratón ligero y portátil es perfecto para una navegación precisa sobre la marcha.
-- Diseño elegante y delgado que se adapta cómodamente a la mano.
+- La rueda de desplazamiento optimizada está diseñada para hojas suaves y naturales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087DMCYT8/?tag=tolees-21)

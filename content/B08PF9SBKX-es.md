@@ -28,11 +28,11 @@ Tienes [HP 15s-eq1083ns - Ordenador portátil de 15.6" FullHD  Ryzen 7-4700U  16
 
 🔎:
 
-- 16GB de memoria RAM
-- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
-- Procesador Ryzen 7-4700U
 - Almacenamiento de 512GB SSD
+- 16GB de memoria RAM
+- Procesador Ryzen 7-4700U
 - Pantalla de 15.6" FullHD
+- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 - Windows 10
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PF9SBKX/?tag=tolees-21)
