@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 12 Mini 13 7 cm  5.4"  64 G al 18.94 % de descuento'
-date: 2021-07-05 00:35:00
+date: 2021-07-07 06:31:06
 image: 'https://m.media-amazon.com/images/I/31348z5DSJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5TDJX6/?tag=tolees-21'
 descuento: '18.94'
-average: '753.0475'
+average: '730.398'
 ---
 
 Está [Apple iPhone 12 Mini 13 7 cm  5.4"  64 GB SIM Doble 5G Negro iOS 14 iPhone 12 Mini  13 7 cm  5.4"   2340 x 1080 Pixeles  64 GB  12 MP  iOS 14  Negro](https://www.amazon.es/dp/B08L5TDJX6/?tag=tolees-21) con 18.94 de descuento por 639.8 EUR (original: 789.26 EUR) en el siguiente enlace!
