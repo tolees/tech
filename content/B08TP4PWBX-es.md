@@ -28,11 +28,11 @@ Tienes [Lenovo IdeaPad 1 - Ordenador portátil 11.6" HD  Intel Celeron N4020  4G
 
 🔎:
 
-- Almacenamiento de 64GB eMMC 5.1
 - Sistema operativo Windows 10 Home en modo S
-- Memoria RAM de 4GB Soldered DDR4-2400
-- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
+- Almacenamiento de 64GB eMMC 5.1
 - Tarjeta gráfica Integrada Intel UHD Graphics 600
+- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
+- Memoria RAM de 4GB Soldered DDR4-2400
 - Pantalla de 11.6" HD 1366x768 píxeles, TN, 250nits, Anti-glare
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TP4PWBX/?tag=tolees-21)

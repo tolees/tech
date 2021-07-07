@@ -28,11 +28,11 @@ Tienes [Corsair K55 RGB Teclado para Juegos con Teclas de Membrana  Retroilumina
 
 🔎:
 
-- QWERTY Español
-- Teclas silenciosas y sensibles, reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
-- Efecto anti-ghosting o multitáctil, registra todos los comandos y pulsaciones simultáneas con exactitud
-- Modo de tecla de bloqueo de Windows, concéntrese en el juego evitando cualquier distracción al deshabilitar la tecla Windows mientras está en acción
 - Inclinación ajustable del teclado para una mayor comodidad en las sesiones de juegos más largas
 - Retroiluminación RGB dinámica de tres zonas
+- QWERTY Español
+- Efecto anti-ghosting o multitáctil, registra todos los comandos y pulsaciones simultáneas con exactitud
+- Teclas silenciosas y sensibles, reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
+- Modo de tecla de bloqueo de Windows, concéntrese en el juego evitando cualquier distracción al deshabilitar la tecla Windows mientras está en acción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N34TRA9/?tag=tolees-21)
