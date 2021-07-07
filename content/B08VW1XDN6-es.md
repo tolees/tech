@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9T - Smartphone 128GB  4GB  al 15.60 % de descuento'
-date: 2021-07-05 14:35:00
+date: 2021-07-07 21:21:40
 image: 'https://m.media-amazon.com/images/I/51xg8lHIl5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08VW1XDN6/?tag=tolees-21'
 descuento: '15.60'
-average: '171.890909090909'
+average: '171.633333333333'
 ---
 
 Está [Xiaomi Redmi 9T - Smartphone 128GB  4GB RAM  Dual Sim  Twilight Blue](https://www.amazon.es/dp/B08VW1XDN6/?tag=tolees-21) con 15.60 de descuento por 168.8 EUR (original: 199.99 EUR) en el siguiente enlace!
