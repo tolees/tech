@@ -28,14 +28,14 @@ En este momento está [Tenda RX3 Router WiFi 6  AX1800 Dual Band  1201 Mbps a 5G
 
 🔎:
 
-- Puertos Gigabit: Aprovecha al máximo las velocidades de banda ancha de hasta 1 Gbps
-- Amplia Cobertura: Tecnologia Beamforming con 4 antenas, resuelve todos los problemas de cobertura focalizando la señal de manera individual aumentando el rendimiento para cubrir un área de hasta 110 m²
-- Máxima Seguridad WPA3: Red más segura con los últimos estándares de seguridad WPA3, contraseñas más difíciles de descifrar que previenen los ataques y protege su red domestica u oficina
-- Ahorro de Energía: Con tecnología TWT (Target Wake Up Time), reduce el consumo de energía de los dispositivos conectados. Aumentando el funcionamiento de los dispositivos conectados con un menor consumo de batería
 - CPU Quad-Core: Respuesta instantánea de procesamiento y rendimiento para todas las actividades de tu red gracias a la potente CPU Quad-Core a 1.5 GHz
+- Ahorro de Energía: Con tecnología TWT (Target Wake Up Time), reduce el consumo de energía de los dispositivos conectados. Aumentando el funcionamiento de los dispositivos conectados con un menor consumo de batería
+- Compatible con Alexa: Controla tu equipo con comandos de voz y haz tu vida más fácil y sencilla con Alexa
+- Amplia Cobertura: Tecnologia Beamforming con 4 antenas, resuelve todos los problemas de cobertura focalizando la señal de manera individual aumentando el rendimiento para cubrir un área de hasta 110 m²
 - Configuración Fácil: Fácil control a través de la aplicación Tenda WiFi, controle su red WiFi en poco minutos de una manera más simple y sencilla
 - Tecnología Wi-Fi 6: Tenda RX3 viene equipado con última tecnología inalámbrica (802.11ax) y puertos Gigabit, WiFi 6 para velocidades más altas de hasta 1.7 Gbps (1201 MBps en 5 GHz band y 574 MBps en 2.4 GHz), mayor capacidad reduciendo la congestión en la red reduciendo las carga en 4k streaming y online gaming
-- Compatible con Alexa: Controla tu equipo con comandos de voz y haz tu vida más fácil y sencilla con Alexa
 - Conecta más Dispostivos: RX3 puede procesar hasta 128 conexiones simultáneas en la misma red con una menor latencia gracias a la tecnologia MU-MIMO y OFDMA
+- Máxima Seguridad WPA3: Red más segura con los últimos estándares de seguridad WPA3, contraseñas más difíciles de descifrar que previenen los ataques y protege su red domestica u oficina
+- Puertos Gigabit: Aprovecha al máximo las velocidades de banda ancha de hasta 1 Gbps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YDGWYXP/?tag=tolees-21)
