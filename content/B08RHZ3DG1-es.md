@@ -29,9 +29,9 @@ Está [10.1" Reproductor de DVD para Coche con Entrada HDMI  Video para Reposaca
 ℹ️:
 
 - 【Sincronizar pantalla y última memoria】: Compre 2 reproductores de DVD con reposacabezas para compartir fácilmente la misma película a través de un cable AV o reproducir diferentes videos simultáneamente, evitando conflictos entre niños. Con función de última memoria para ahorrar tiempo
-- 【Servicio y soporte】: Ofrecemos ❤️ garantía de 18 meses❤️ para todos nuestros productos. Se dispone de soporte técnico oportuno de preventa y posventa; No dude en contactarnos si tiene alguna pregunta.
 - 【Reproductor de DVD para coche con entrada HDMI】 Este DVD coche puede sincronizar videos HD de hasta 1080P desde su teléfono móvil, computadora portátil, Playstation, Nintendo Switch, Xbox, Fire Stick, etc a través de HDMI. Equipado con adaptador de CA y cargador de coche para usar en la carretera o en la habitación (No viene con batería recargable incorporada debe estar enchufado para su uso), Con la función AV IN / OUT, se puede conectar a un televisor
 - 【Reproductor de DVD para coche fácil de usar para niños】: Con diseño de concha, fácil y seguro para que los niños cambien el disco sin necesidad de quitarse el reproductor. Los soportes de montaje mejorados pueden adaptarse a la mayoría de los tamaños de reposacabezas, lo que hace que el reproductor de DVD sea más fácil de instalar y quitar en cualquier asiento o en otro coche.
+- 【Servicio y soporte】: Ofrecemos ❤️ garantía de 18 meses❤️ para todos nuestros productos. Se dispone de soporte técnico oportuno de preventa y posventa; No dude en contactarnos si tiene alguna pregunta.
 - 【Reproductor de DVD con reposacabezas sin región】1080P Reproductor de DVD para Reposacabezas de Coche: Soporte reproducción de video HD de múltiples regiones y 1920 * 1080@30fps, compatible con formatos MP4 / AVI / WMV / MKV / MPEG / MPG / TS / TRP / VOB / FLV / RMVB / MOV / ASF. Ranura para tarjeta USB / SD incorporada de hasta 128 GB de formato FAT32.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RHZ3DG1/?tag=tolees-21)
