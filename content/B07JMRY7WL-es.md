@@ -28,10 +28,10 @@ Ahora mismo tienes [K&F Concept-Monocular 12x50 Bak4 Nitrógeno IP68 Impermeable
 
 🔎:
 
-- 5.【Piezas estructurales de alta calidad】: El barril de lente de goma ecológico de alta calidad elimina los olores, y la superficie está diseñada con una fina textura esmerilada, que es efectiva para resbalar y sudar. IMPORTANTE: Si tiene cualquier duda, contactanos, estamos encantados de ayudarle.
 - 3.【Nitrógeno IP68 Impermeable】: Nuestro catalejo adopta una estructura completamente sellada con 100% de nitrógeno rellena dentro del monocular. Ha pasado pruebas estrictas de resistencia al agua: resistente 10 metros bajo el agua por 10 horas.
 - 4.【Soporte para Smartphone】: Viene con soporte rápido para móvil y una interfaz rosacada para montar en el trípode junto con una bolsa de transporte y correa para mano que satisfacen plenamente sus necesidades de uso, y si tiene cualquier duda, no dude en contarnos.
 - 2.【Prisma BAK4 y revestimiento multicapa】: Las lentes adoptan revestimientos multicapas para evitar mareos, garantizar imágenes más nitideces y brillantes. Es ayudante ideal para que obeserve la vida siltvestre.
 - 1.【12 x Zoom】: El rango zoom alcanza hasta 1000m. El diámetro de la pupila de salida es: 4.1 mm;12X Ampliación, 50mm.
+- 5.【Piezas estructurales de alta calidad】: El barril de lente de goma ecológico de alta calidad elimina los olores, y la superficie está diseñada con una fina textura esmerilada, que es efectiva para resbalar y sudar. IMPORTANTE: Si tiene cualquier duda, contactanos, estamos encantados de ayudarle.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JMRY7WL/?tag=tolees-21)
