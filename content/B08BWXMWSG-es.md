@@ -29,9 +29,9 @@ En este momento está [HP Envy 6032 5SE19B  Impresora Multifunción Tinta  Color
 🔎:
 
 - Imprime a doble cara de forma automática, escanea y fotocopia en el hogar documentos y fotografías con colores brillantes; la velocidad de impresión es de 10 ppm en negro y de 7 ppm en color
-- Cuenta con una conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático, Wi-Fi Direct, USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria
 - La impresora tiene una bandeja de entrada con una capacidad de hasta 100 hojas, una bandeja de salida con capacidad de 25 hojas y un escáner de superficie plana
 - Esta impresora es compatible con los cartuchos de inyección de tinta originales HP 305 Negro, HP 305 Tricolor y viene con 5 meses incluidos del servicio automático de tinta HP Instant Ink
 - Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados de gran calidad cómodamente desde tu móvil
+- Cuenta con una conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático, Wi-Fi Direct, USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BWXMWSG/?tag=tolees-21)
