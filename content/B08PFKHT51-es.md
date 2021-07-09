@@ -28,11 +28,11 @@ Está [HP 15s-eq1073ns - Ordenador portátil de 15.6" FullHD  Ryzen 7-4700U  12G
 
 ℹ️:
 
-- Pantalla de 15.6" FullHD
+- 12GB de memoria RAM
 - Almacenamiento de 1TB SSD
-- Procesador Ryzen 7-4700U
+- Pantalla de 15.6" FullHD
 - Sin sistema operativo
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
-- 12GB de memoria RAM
+- Procesador Ryzen 7-4700U
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFKHT51/?tag=tolees-21)
