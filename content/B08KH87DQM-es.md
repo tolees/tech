@@ -28,12 +28,12 @@ Ahora mismo tienes [Vieta Pro Unseen 2 - Auriculares inalámbricos  Bluetooth 5.
 
 🔎:
 
-- Tipo de conectividad: Inalámbrico
-- Auricular unseen 2 de vieta pro, con bluetooth 5.0, true wireless, micrófono, resistencia al agua ipx7; color negro
 - Su tecnología dual master, te permitirá usar cada auricular de manera individual
-- Te permitirá controlarlos mediante siri y google; cuenta con la tecnología touch control
+- Tipo de conectividad: Inalámbrico
 - Los auriculares unseen 2 de vieta pro están preparados para soportar la versión bluetooth 5.0
 - Cuenta con la certificación ipx7 obteniendo así resistencia al agua
+- Te permitirá controlarlos mediante siri y google; cuenta con la tecnología touch control
 - Fuente de alimentación: Funcionamiento por batería
+- Auricular unseen 2 de vieta pro, con bluetooth 5.0, true wireless, micrófono, resistencia al agua ipx7; color negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KH87DQM/?tag=tolees-21)
