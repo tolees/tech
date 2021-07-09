@@ -28,10 +28,10 @@ Tienes [Power A - PowerA - Estuche Protector para Pokémon Pikachu Silhouette  N
 
 🔎:
 
-- El moldeado interior tiene forro de felpa y almacenamiento de malla con cremallera
+- Con licencia oficial de Nintendo y The Pokémon Company International
+- Garantía limitada de 2 años
 - Carcasa exterior resistente de EVA con asa y tiradores de cremallera dobles resistentes
 - La solapa protectora de pantalla acolchada integrada incluye almacenamiento para 9 tarjetas de juego
-- Garantía limitada de 2 años
-- Con licencia oficial de Nintendo y The Pokémon Company International
+- El moldeado interior tiene forro de felpa y almacenamiento de malla con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VNB4SBF/?tag=tolees-21)
