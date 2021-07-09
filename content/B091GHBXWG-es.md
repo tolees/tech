@@ -29,8 +29,8 @@ Está [2021 Auriculares Bluetooth  Coioc Auriculares Inalambricos Deportivos IPX
 ℹ️:
 
 - Calidad de Sonido Superior: Estos auriculares bluetooth están diseñados con un diafragma compuesto profesional de 10 mm para ofrecer la experiencia auditiva más natural y realista al escuchar música y realizar llamadas.
-- Emparejamiento automático rápido: Estos auriculares inalámbricos cuentan con emparejamiento de un solo toque y tecnología Bluetooth 5.0 con un rango de recepción de señal de hasta 20 metros. Cuando saques el auricular bluetooth del estuche de carga, se encenderá automáticamente y se emparejará (después del primer emparejamiento).
 - 120 Horas de Reproducción: Los auriculares proporcionan hasta 6 horas de uso con una sola carga, más el estuche de carga para un total de 120 horas de uso, ¡disfruta de tu música!
+- Emparejamiento automático rápido: Estos auriculares inalámbricos cuentan con emparejamiento de un solo toque y tecnología Bluetooth 5.0 con un rango de recepción de señal de hasta 20 metros. Cuando saques el auricular bluetooth del estuche de carga, se encenderá automáticamente y se emparejará (después del primer emparejamiento).
 - Estable y Cómodo de Usar: Este auricular deportivos tiene un diseño ergonómico único y la construcción de gancho de la oreja, el producto se ajusta a sus oídos suavemente, y con 3 tamaños diferentes de auriculares de silicona de alta calidad, que le traerá una experiencia más cómoda y estable de usar.
 - Resistente al Agua y al Sudor: Con la tecnología de impermeabilidad IPX7, puede proteger sus auriculares inalámbricos deporte del sudor y la lluvia durante los deportes extenuantes o el uso diario. ★ Para proteger mejor sus auriculares, limpie la clavija de carga con un pañuelo de papel o un paño seco después de su uso para evitar la corrosión por el sudor.
 

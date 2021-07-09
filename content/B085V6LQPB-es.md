@@ -28,10 +28,10 @@ Está [Samsung Galaxy Tab S6 Lite WiFi - 64GB  4GB  Gris](https://www.amazon.es/
 
 ℹ️:
 
-- Memorias: 4GB de memoria RAM con 64GB
-- Batería: 7040mAh no removible.
-- Display: TFT LCD de 10,1 pulgadas con resolución de imagen de 2000 x 1200 píxeles.
-- Cámaras: Cámara posterior con sensor de 8MP. Cámara anterior con sensor de 5MP.
 - Procesador: Samsung Exynos 9611 diseñado con tecnología de proceso de 10nm y emparejado con un procesador gráfico ARM Mali-G72.
+- Display: TFT LCD de 10,1 pulgadas con resolución de imagen de 2000 x 1200 píxeles.
+- Batería: 7040mAh no removible.
+- Memorias: 4GB de memoria RAM con 64GB
+- Cámaras: Cámara posterior con sensor de 8MP. Cámara anterior con sensor de 5MP.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085V6LQPB/?tag=tolees-21)
