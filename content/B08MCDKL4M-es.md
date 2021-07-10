@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Stream 14s-fq0005ns - Ordenador portá al 24.24 % de rebaja'
-date: 2021-07-09 13:29:00
+date: 2021-07-10 14:36:08
 image: 'https://m.media-amazon.com/images/I/41Dd8Cc0HdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08MCDKL4M/?tag=tolees-21'
 descuento: '24.24'
-average: '299.080909090908'
+average: '294.989999999999'
 ---
 
 Tienes [HP Stream 14s-fq0005ns - Ordenador portátil de 14" HD  Prcesador 3020e Dual  4GB RAM  64GB eMMc  AMD Radeon graphics  Windows 10 Home en modo S  Blanco Nieve – Teclado QWERTY español](https://www.amazon.es/dp/B08MCDKL4M/?tag=tolees-21) con precio final de  249.99 EUR (original: 329.99 EUR) (24.24 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [HP Stream 14s-fq0005ns - Ordenador portátil de 14" HD  Prcesador 3020e 
 
 🔎:
 
+- Gráficos AMD Radeon
+- Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos)
+- Pantalla HD 14" (35,6 cm)
+- Memoria RAM de 4 GB
 - Sistema Operativo Windows 10 - modo S
 - 64 GB eMMc
-- Pantalla HD 14" (35,6 cm)
-- Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos)
-- Memoria RAM de 4 GB
-- Gráficos AMD Radeon
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MCDKL4M/?tag=tolees-21)

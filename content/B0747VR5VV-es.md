@@ -28,10 +28,10 @@ Tienes [LaCie 2big Thunderbolt 3  20 TB  Disco duro RAID externo HDD  para Mac 
 
 ℹ️:
 
-- Puerto para monitor: conecta monitores de 720p a 1080p o 4K de alta resolución
 - Doble puerto Thunderbolt 3: cargue su computadora portátil mientras conecta en cadena simultáneamente hasta cinco unidades LaCie 2big adicionales u otras soluciones de almacenamiento
 - Puerto central USB 3.0: cargue su teléfono o conecte una unidad de transporte o cámara digital para descargar videos o archivos
-- Ranura de tarjetas SD/Compact Flash: descargue archivos directamente de tarjetas de memoria en la unidad LaCie 2big Dock e importe fotos rápidamente en Adobe Lightroom o Premiere Pro
 - Puerto USB 3.1: compatibilidad universal con equipos de interfaz USB-C y USB 3.0 por medio del cable adaptador incluido
+- Ranura de tarjetas SD/Compact Flash: descargue archivos directamente de tarjetas de memoria en la unidad LaCie 2big Dock e importe fotos rápidamente en Adobe Lightroom o Premiere Pro
+- Puerto para monitor: conecta monitores de 720p a 1080p o 4K de alta resolución
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0747VR5VV/?tag=tolees-21)

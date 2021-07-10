@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Báscula de baño Healthy Pro Dark Grey Pro. App  Co
 
 🔎:
 
-- Barra con sensores de alta precisión, para un control preciso y segmentado, que ayuda a obtener datos más fiables y completos.
-- Amplio rango de medición, desde los 6 kg hasta los 180 kg, con precisión de 100 g y cambio de unidades de kg, a lb.
-- TenBIA: método de medición de impedancia bioeléctrica (BIA) segmentadas por zona para unos datos más precisos y fiables con un análisis corporal completo, con medición precisa de 15 parámetros básicos, gracias a sus 8 sensores de alta precisión
 - SmartBlue: conectividad con Smartphone vía Bluetooth 4.0 para un seguimiento más preciso a través de la App de los parámetros medidos.
+- Amplio rango de medición, desde los 6 kg hasta los 180 kg, con precisión de 100 g y cambio de unidades de kg, a lb.
 - Diseño extraplano de cristal templado de alta seguridad con la tecnología ITO.
+- Barra con sensores de alta precisión, para un control preciso y segmentado, que ayuda a obtener datos más fiables y completos.
+- TenBIA: método de medición de impedancia bioeléctrica (BIA) segmentadas por zona para unos datos más precisos y fiables con un análisis corporal completo, con medición precisa de 15 parámetros básicos, gracias a sus 8 sensores de alta precisión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MPX7JRR/?tag=tolees-21)
