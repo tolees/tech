@@ -30,8 +30,8 @@ Tienes [GIANTARM - GIANTRAM A10 Impresora 3D Prusa I3 tiene un área de impresi�
 
 - 5.Compatibilidad 3dtouch y wifi (pero se necesitan otras compras).——La nueva versión A10 ha mejorado la placa maestra, LCD y Frame.Puede obtenerse información sobre manuales, equipo y programas informáticos en los siguientes sitios web:Http: / / www.geeetech.com / download.html? Download uID = 30
 - 4.Apoyo a la interrupción continua de impresión——la impresora puede volver a imprimir desde el último momento si se detiene de repente
-- 3.Diseño tranquilo——la rueda V está hecha de aluminio molido y en gran medida reduce el ruido de la impresión.Le proporciona un entorno tranquilo de impresión en 3D.
 - 1.Fácil de armar.——Normalmente sólo se necesitan más de 10 minutos para completar la instalación.El tamaño máximo de impresión es de 220 * 220 * 260 mm para que imprima todos los detalles que desee.
 - 2.Un apretón rápido y preciso.——A10 una exactitud de impresión de 0,1 mm, un grano fino, un contorno suave, una estructura estable y una impresión fina.Su dispositivo de expulsión cuidadosamente diseñado reduce considerablemente el riesgo de obstrucciones o fugas.El diseño de Bowden, que extrajo la máquina, mejoró considerablemente la eficiencia de la impresión al permitir que la máquina se moviera con facilidad y sin tropiezos.
+- 3.Diseño tranquilo——la rueda V está hecha de aluminio molido y en gran medida reduce el ruido de la impresión.Le proporciona un entorno tranquilo de impresión en 3D.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895DKNJW/?tag=tolees-21)
