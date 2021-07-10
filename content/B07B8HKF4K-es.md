@@ -28,10 +28,10 @@ Tienes [Epson C11CG29402 Expression Home XP-5100 - Impresora Color  Negro Mate](
 
 🔎:
 
-- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
-- Elegante y compacta: De tamaño reducido y queda fantástica desde cualquier ángulo
-- Cómoda y eficiente; Impresión a doble cara y bandeja de papel de carga frontal de hasta 150 hojas
-- Pantalla LCD de 6,1 cm: Escanea, copia e imprime fotos directamente desde una tarjeta de memoria
 - Impresión móvil: Libertad para imprimir desde prácticamente cualquier lugar1
+- Cómoda y eficiente; Impresión a doble cara y bandeja de papel de carga frontal de hasta 150 hojas
+- Elegante y compacta: De tamaño reducido y queda fantástica desde cualquier ángulo
+- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
+- Pantalla LCD de 6,1 cm: Escanea, copia e imprime fotos directamente desde una tarjeta de memoria
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B8HKF4K/?tag=tolees-21)
