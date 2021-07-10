@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Tab P11 Pro - Tablet de 11.5" WQX con un 27.45 % de descuento'
-date: 2021-07-07 13:49:43
+date: 2021-07-10 07:40:15
 image: 'https://m.media-amazon.com/images/I/41SZMJkManL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [Lenovo Tab P11 Pro - Tablet de 11.5" WQXGA  Qualcomm Snap
 🔎:
 
 - Almacenamiento de 128GB (uMCP, UFS 2.1) ampliables hasta 256GB con memoria Fat32, hasta 1TB con memoria ExFat
+- Tarjeta gráfica Integrada Qualcomm Adreno 618 GPU
 - Procesador Qualcomm Snapdragon 730G (8C, 8x Kryo 470 @2.2GHz)
 - Pantalla táctil de 11.5" WQXGA, 2560x1600 píxeles, OLED, 350nits, Dolby Vision, 100% sRGB, Glossy
-- Tarjeta gráfica Integrada Qualcomm Adreno 618 GPU
 - Memoria RAM de 6GB LPDDR4x (uMCP, DRAM), ampliables hasta 1TB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZNDBJ68/?tag=tolees-21)
