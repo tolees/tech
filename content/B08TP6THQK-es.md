@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 - Portátil Gamin al 15.81 % de descuento'
-date: 2021-07-05 15:05:34
+date: 2021-07-10 10:10:51
 image: 'https://m.media-amazon.com/images/I/31aZ7qD76dS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08TP6THQK/?tag=tolees-21'
 descuento: '15.81'
-average: '713.995'
+average: '742.33'
 ---
 
 Está [Lenovo IdeaPad Gaming 3 - Portátil Gaming 15.6" FullHD  AMD Ryzen 7 4800H  16GB RAM  512GB SSD  NVIDIA GTX1650-4GB  Sin Sistema Operativo   Color Azul- Teclado QWERTY Español](https://www.amazon.es/dp/B08TP6THQK/?tag=tolees-21) con 15.81 de descuento por 799.0 EUR (original: 949.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Lenovo IdeaPad Gaming 3 - Portátil Gaming 15.6" FullHD  AMD Ryzen 7 4800
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 4800H (8C / 16T, 2.9 / 4.2GHz, 4MB L2 / 8MB L3)
 - Memoria RAM de 16GB (2x 8GB) SO-DIMM DDR4-3200
 - Pantalla de 15.6" FullHD (1920x1080 píxeles), 60Hz, IPS, 250nits, Anti-glare
 - Sin sistema operativo
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Procesador AMD Ryzen 7 4800H (8C / 16T, 2.9 / 4.2GHz, 4MB L2 / 8MB L3)
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TP6THQK/?tag=tolees-21)

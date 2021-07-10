@@ -28,10 +28,10 @@ En este momento está [Rii RK200 Combo Ratón y Teclado Inalámbrico para Androi
 
 🔎:
 
+- 【Compatibilidad 】 Compatible con múltiples Sistemas, como Windows7/8/10/Mac /PC/Portátiles/Smart TV /Android Box/Raspberry Pi 3 B+
 - 【Teclas silenciosas 】Teclas silenciosas y uso cómodo.
 - 【Fácil de usar 】 Teclado ofimático sencillo de utilizar, dispone de un receptor en un compartimento del ratón para controlar ambos dispositivos. Plug&Play
-- 【Tamaño estándar】Set de teclado completo y ratón tamaño estándar.
 - 【Conexión inalámbrica fiable】Larga distancia de transmisión inalámbrica de hasta 10m.
-- 【Compatibilidad 】 Compatible con múltiples Sistemas, como Windows7/8/10/Mac /PC/Portátiles/Smart TV /Android Box/Raspberry Pi 3 B+
+- 【Tamaño estándar】Set de teclado completo y ratón tamaño estándar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L6T2CL8/?tag=tolees-21)
