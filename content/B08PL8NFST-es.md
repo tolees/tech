@@ -28,11 +28,11 @@ En este momento está [Lenovo ThinkPad L13 Gen 2 - Ordenador Portátil 13.3" Ful
 
 🔎:
 
-- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
-- Almacenamiento de 256GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal2
-- Memoria RAM de 8GB Soldered DDR4-3200
-- Pantalla de 13.3" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
 - Sistema operativo: Windows 10 Pro
+- Memoria RAM de 8GB Soldered DDR4-3200
+- Almacenamiento de 256GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal2
+- Pantalla de 13.3" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
+- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Tarjeta gráfica Integrada Iris Xe Graphics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PL8NFST/?tag=tolees-21)
