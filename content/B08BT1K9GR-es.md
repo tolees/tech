@@ -28,10 +28,10 @@ Tienes [Xiaomi TEJ4018GL - Impresora fotográfica portátil 300 PPP Pocket Mini 
 
 🔎:
 
-- ● Escanee fotos AR: simplemente grabe o cargue cualquier video mientras imprime fotos, y puede experimentar las fotos AR reales y dinámicas en cualquier momento escaneando fotos.
-- ● Diseño de papel de cubierta deslizante, relleno de papel fotográfico en dos fases, deslizamiento suave sin esfuerzo, la carcasa externa y el cuerpo no necesitan separarse, una mejor experiencia de carga de papel.
-- ● Uso compartido de varias personas con una impresora: impresión Bluetooth, sin necesidad de Wi-Fi, compatible con varias personas al mismo tiempo, conexión Bluetooth, impresión en secuencia.
-- ● Pine muestra creatividad fotográfica: más plantillas de adhesivos fotográficos: brinde espacio creativo para imprimir
 - ● Escaneo de fotos: grabe o cargue cualquier audio mientras imprime fotos, abra la aplicación Mijia escanea fotos, puede escuchar la voz detrás de las fotos en cualquier momento y en cualquier lugar.
+- ● Diseño de papel de cubierta deslizante, relleno de papel fotográfico en dos fases, deslizamiento suave sin esfuerzo, la carcasa externa y el cuerpo no necesitan separarse, una mejor experiencia de carga de papel.
+- ● Pine muestra creatividad fotográfica: más plantillas de adhesivos fotográficos: brinde espacio creativo para imprimir
+- ● Uso compartido de varias personas con una impresora: impresión Bluetooth, sin necesidad de Wi-Fi, compatible con varias personas al mismo tiempo, conexión Bluetooth, impresión en secuencia.
+- ● Escanee fotos AR: simplemente grabe o cargue cualquier video mientras imprime fotos, y puede experimentar las fotos AR reales y dinámicas en cualquier momento escaneando fotos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BT1K9GR/?tag=tolees-21)

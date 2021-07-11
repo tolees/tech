@@ -29,8 +29,8 @@ En este momento está [Sony 1307-4709  Auriculares Inalámbricos Estéreo  Bluet
 🔎:
 
 - Android 4.4 y superior o iOS 9 y posterior
-- Una fácil conexión a su teléfono NFC
 - Botón de liberación remoto de la cámara
+- Una fácil conexión a su teléfono NFC
 - Hacer y recibir llamadas a través del altavoz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XYDV3QN/?tag=tolees-21)
