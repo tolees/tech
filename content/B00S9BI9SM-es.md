@@ -28,10 +28,10 @@ Tienes [ASUS RT-AC51U - Router Inalámbrico AC750 Doble Blanda  USB 2.0  Modo Pu
 
 🔎:
 
-- Puerto USB para conectar tu impresora a la red, almacenamiento compartido o conexiones 3G/4G.
 - Gran cobertura inalámbrica gracias a sus dos antenas fijas.
-- Tecnología inalámbrica dual-band simultánea 802.11ac para un rendimiento excelente de hasta 733 Mbps de velocidad de transferencia.
 - Interfaz intuitiva, configura el Router en 30 segundos gracias a sus sencillos y concisos controles a través del monitor del firmware ASUSWRT.
 - Incluye la app ASUS AiCloud para acceder, sincronizar, compartir y reproducir en streaming, tus archivos remotamente –Rápido y sencillo.
+- Puerto USB para conectar tu impresora a la red, almacenamiento compartido o conexiones 3G/4G.
+- Tecnología inalámbrica dual-band simultánea 802.11ac para un rendimiento excelente de hasta 733 Mbps de velocidad de transferencia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00S9BI9SM/?tag=tolees-21)
