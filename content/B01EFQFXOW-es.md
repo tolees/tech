@@ -28,9 +28,9 @@ Está [Mudder - USB Lámpara Luz de LED con Interruptor Táctil para Teclado de 
 
 ℹ️:
 
-- Ligero y compacto, hace que sea fácil de transportar y manejar; Conveniente para los ordenadores portátiles, ordenadores de sobremesa, ordenadores, fuentes de alimentación móviles, etc.
 - Hecho de material metálico con envoltura de gel de sílice; Puede ser comprimido y deformado; 14 LEDs
 - USB estándar, directamente lo pone en el puerto USB como fuente de energía
+- Ligero y compacto, hace que sea fácil de transportar y manejar; Conveniente para los ordenadores portátiles, ordenadores de sobremesa, ordenadores, fuentes de alimentación móviles, etc.
 - 3 niveles de brillo: luz suave, luz blanca y luz alta, que pueden satisfacer sus necesidades diferentes
 - Con el cuerpo de luz suave y flexible, se puede ajustar en cualquier ángulo y fácil de usar en cualquier lugar
 
