@@ -28,12 +28,12 @@ En este momento está [Polar M430 Reloj de Running con GPS y Frecuencia cardíac
 
 🔎:
 
-- GPS integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
-- Compatible con Polar Balance
-- Velocidad, distancia también en indoor
-- Registro de la frecuencia cardíaca en la muñeca
+- Analiza tu sueño al detalle con la función Sleep Plus
 - Medidas: grosor 12 mm
 - Tallas: M/L: circunferencia de la muñeca 130-210 mm
-- Analiza tu sueño al detalle con la función Sleep Plus
+- Velocidad, distancia también en indoor
+- Registro de la frecuencia cardíaca en la muñeca
+- GPS integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
+- Compatible con Polar Balance
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21)
