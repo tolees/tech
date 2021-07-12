@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.06 % en HUAWEI WiFi AX3 - Router Quad-core WiFi '
-date: 2021-07-06 18:30:43
+date: 2021-07-12 14:04:05
 image: 'https://m.media-amazon.com/images/I/21XSD0d7EUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08DFSS245/?tag=tolees-21'
 descuento: '55.06'
-average: '62.5801941747574'
+average: '62.5145410628021'
 ---
 
 Tienes [HUAWEI WiFi AX3 - Router Quad-core WiFi 6 Plus Revolution 3000 Mbps  Tecnología OFDMA multiusuario  hasta 128 dispositivos en doble banda  Huawei Share  Huawei HomeSec  Color Blanco](https://www.amazon.es/dp/B08DFSS245/?tag=tolees-21) con un 55.06 % de descuento con precio de oferta de 48.99 EUR (original: 109.0 EUR) en el siguiente enlace!
