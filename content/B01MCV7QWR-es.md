@@ -30,8 +30,8 @@ Ahora mismo tienes [HP OfficeJet Pro 6950 P4C85A  Impresora Multifunción Tinta 
 
 - La bandeja de entrada de la impresora tiene una capacidad de hasta 225 hojas y la bandeja de salida de 60 hojas, además cuenta con un escáner de superficie plana y un AAD
 - Esta impresora es compatible con los cartuchos de tinta originales HP 903 Negro, HP 903 Amarillo, HP 902 Cian y viene con 3 meses incluidos del servicio automático de tinta HP Instant Ink
-- Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados de gran calidad cómodamente desde tu móvil
-- Imprime a doble cara de forma automática, copia, escanéa y envía por fax en la oficina documentos con colores bien definidos; la velocidad de impresión es de 16 ppm en negro y de 9 ppm en color
 - Conectividad: Wi-Fi, Wi-Fi Direct, cable telefónico para el Fax, HP Smart App, Apple AirPrint y Mopria
+- Imprime a doble cara de forma automática, copia, escanéa y envía por fax en la oficina documentos con colores bien definidos; la velocidad de impresión es de 16 ppm en negro y de 9 ppm en color
+- Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados de gran calidad cómodamente desde tu móvil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MCV7QWR/?tag=tolees-21)

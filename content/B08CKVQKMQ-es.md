@@ -28,10 +28,10 @@ En este momento está [HUAWEI MatePad Wi-Fi Tactil Tablet 10.4" FullView Display
 
 🔎:
 
-- Cuerpo metálico, diseño elegante, 460g.
+- Procesador Kirin 810 con gráficos mejorados y un gran rendimiento. Sistema de sonido Harman Kardon de cuatro altavoces y cuatro canales con Histen 6.0 3D estéreo.
 - Pantalla táctil 2K de 10.4 pulgadas con una resolución de 2000 x 1200 píxeles y 7.9mm de marco estrecho. Nuevo modo de libro electrónico que ajusta automáticamente el contraste, el brillo y la definición. Certificación TÜV Rheinland Low Blue Light para cuidar tus ojos.
 - No incluye ranura para la tarjeta SIM.
-- Procesador Kirin 810 con gráficos mejorados y un gran rendimiento. Sistema de sonido Harman Kardon de cuatro altavoces y cuatro canales con Histen 6.0 3D estéreo.
+- Cuerpo metálico, diseño elegante, 460g.
 - NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
 - 3GB de RAM, 32GB de almacenamiento y batería de gran capacidad con 7250 mAh: hasta 12 horas de reproducción de vídeo y 7 horas de reproducción de juegos en 3D con una sola carga.
 
