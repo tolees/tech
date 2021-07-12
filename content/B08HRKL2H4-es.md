@@ -28,12 +28,12 @@ Tienes [HONOR Watch ES - Salud & Fitness Smartwatch  1 64 Pulgadas Pantalla AMOL
 
 🔎:
 
+- Monitor de estrés y sueño
+- Monitor de frecuencia cardíaca 24/7
+- Pantalla táctil AMOLED de 1,64
 - Tecnología de comunicación inalámbrica: Bluetooth
 - Entrenador virtual animado
-- Pantalla táctil AMOLED de 1,64
-- Monitor de estrés y sueño
 - Dispositivos compatibles: iOS: iPhone 11 Pro, iPhone XS, iPhone XR, iPhone XS Max, iPhone X, iPhone 8, iPhone 8 plus, iPhone 7, iPhone 7 plus, iPhone 6, iPhone 6s Plus 2)Android: Samsung Galaxy S9, Samsung Galaxy S9 Plus, Samsung Galaxy S8, Samsung Galaxy S8 Plus, Samsung Galaxy S7, Samsung Galaxy S7 edge, Samsung Galaxy S6, Samsung Galaxy S6 edge, Samsung Galaxy Note 8, Moto X, Moto G, Moto E, DROID Turbo 2, DROID Maxx 2, Huawei P20, Huawei P20 Pro, Huawei Mate 20, Huawei Mate 20 Pro, Huawei Mate 20 Lite, LG G5
-- Monitor de frecuencia cardíaca 24/7
 - 95 modos de entrenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HRKL2H4/?tag=tolees-21)

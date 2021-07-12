@@ -28,10 +28,10 @@ Tienes [Pulsera de ejercicios Fitnesstracker Fitness para Sony Smart Band 2 SWR1
 
 🔎:
 
+- Con la SmartBand, siempre estarás al tanto de todo, ya que te avisa con una suave vibración de las llamadas, notificaciones de mensaje u otras alertas de tu smartphone
+- Lo que convierte a la SmartBand en un dispositivo inteligente es una innovadora aplicación para smartphones Android que registra automáticamente tus actividades físicas, sociales y lúdicas
+- Monitorizando tus movimientos, el SmartBand te despertará a la mejor hora en función de tu ciclo del sueño
 - La SmartBand es un dispositivo para llevar a todas horas todos los días. Es resistente al agua y puedes llevarlo hagas lo que hagas
 - Registra cada momento especial. Pulsa la tecla Life Bookmark del SmartBand
-- Lo que convierte a la SmartBand en un dispositivo inteligente es una innovadora aplicación para smartphones Android que registra automáticamente tus actividades físicas, sociales y lúdicas
-- Con la SmartBand, siempre estarás al tanto de todo, ya que te avisa con una suave vibración de las llamadas, notificaciones de mensaje u otras alertas de tu smartphone
-- Monitorizando tus movimientos, el SmartBand te despertará a la mejor hora en función de tu ciclo del sueño
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XJKBD4U/?tag=tolees-21)
