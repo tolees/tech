@@ -28,10 +28,10 @@ En este momento está [SAMSUNG C24F390 - Monitor Curvo de 24    Full HD  4 ms  6
 
 🔎:
 
-- Consumo de energía máximo 25 w
 - Curvatura 1800R, proporciona una experiencia inmersiva
-- Brillo de pantalla: 250 cd/m²
 - Monitor curvo Samung C24F390 de 24 FullHD, 1920 x 1080 píxeles con conexiones HDMI y VGA
+- Brillo de pantalla: 250 cd/m²
 - Interfaz de montaje vesa 75 x 75 mm
+- Consumo de energía máximo 25 w
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XNLZMRC/?tag=tolees-21)
