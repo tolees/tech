@@ -28,8 +28,8 @@ Ahora mismo tienes [HyperX FURY Black 8GB HX432C16FB3K2/8 Memoria RAM 8GB Kit* 2
 
 🔎:
 
+- Probada al 100 % en fábrica a elevadas velocidades
 - Compatible con XMP de Intel y AMD Ryzen
 - Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
-- Probada al 100 % en fábrica a elevadas velocidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCQRVDH/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [MSI GF75 Thin 10UE-017XES - Ordenador portátil de 17.3" FullHD 144Hz  I
 
 🔎:
 
-- Almacenamiento SSD de 512 GB
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
-- Tarjeta gráfica Nvidia RTX3060 Max-Q de 6 GB GDDR6
-- Pantalla de 17.3" FHD (1920*1080), 144Hz 45% NTSC
 - Procesador Intel Core i7 -10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.0 GHz)
+- Pantalla de 17.3" FHD (1920*1080), 144Hz 45% NTSC
+- Almacenamiento SSD de 512 GB
 - Sistema operativo Free DOS
+- Tarjeta gráfica Nvidia RTX3060 Max-Q de 6 GB GDDR6
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SC6MH4X/?tag=tolees-21)
