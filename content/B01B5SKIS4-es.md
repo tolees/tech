@@ -28,9 +28,9 @@ Tienes [Kingston KCP316SS8/4 - Memoria RAM para portátil de 4 GB  1600 MHz SODI
 
 🔎:
 
-- Garantizada con componentes de máxima calidad por Kingston
 - Comprobar la compatibilidad de su sistema con Kingston
 - Las memorias Kingston están testeadas al 100%
 - 4 GB, 1600 MHz SODIMM Single Rank, DDR3, 1.5V, CL11, 204-pin Unbuffered, memoria notebook
+- Garantizada con componentes de máxima calidad por Kingston
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01B5SKIS4/?tag=tolees-21)
