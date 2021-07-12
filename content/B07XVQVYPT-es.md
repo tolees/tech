@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE G-LAB K-Stand Radon Soporte Gaming p al 19.72 % de descuento'
-date: 2021-06-30 00:30:39
+date: 2021-07-12 10:52:42
 image: 'https://m.media-amazon.com/images/I/41NP50SI0rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The G-Lab'
 buyurl: 'https://www.amazon.es/dp/B07XVQVYPT/?tag=tolees-21'
 descuento: '19.72'
-average: '19.365'
+average: '19.4344444444444'
 ---
 
 Ahora mismo tienes [THE G-LAB K-Stand Radon Soporte Gaming para Cascos – Retroiluminación RGB  USB HUB 2 x 2.0  Base Anti-Deslizante – Stand Universal para PC PS4 Xbox One Nintendo Switch Soporte Cascos Gaming  Negro ](https://www.amazon.es/dp/B07XVQVYPT/?tag=tolees-21) a 19.99 EUR (original: 24.9 EUR) (19.72 %  de descuento) en el siguiente enlace!
