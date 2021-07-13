@@ -28,10 +28,10 @@ Tienes [Guzack - Altavoz Bluetooth Ducha Impermeable  Waterproof Bluetooth Speak
 
 🔎:
 
-- 【100% Resistente Agua, incluso Totalmente Sumergible】: La radio de la ducha es excelente cerca del agua, ya que no solo es IPX7 resistente al agua, sino que puede sumergirse completamente en agua hasta 3 pies. La ventosa se adhiere fuertemente al vidrio, la cerámica o cualquier otra superficie lisa en el baño, el bote o cualquier lugar.
-- 【Conexión Versátil + Micrófono】: Se conecta a dispositivos Bluetooth en menos de 6 segundos. Controle fácilmente las pistas y el volumen de las canciones en el altavoz y con una conexión Bluetooth de 33 pies, disfrutará de música, audiolibros, y otros en la ducha, el automóvil, la playa o la piscina.
 - 【Sound Sonido Estéreo Nítido & Batería Larga Duración】: Experimente una acústica de alta calidad lo suficientemente alta y cante junto a su álbum favorito. Disfruta de 8 horas de reproducción constante en solo 2 horas de carga; Hasta 1 semana de uso en la ducha, ideal para fanáticos de la música y cantantes de baño. Perfecto para el hogar, la oficina, las piscinas, las playas, los viajes en barco, los campamentos o cualquier lugar que desee.
+- 【100% Resistente Agua, incluso Totalmente Sumergible】: La radio de la ducha es excelente cerca del agua, ya que no solo es IPX7 resistente al agua, sino que puede sumergirse completamente en agua hasta 3 pies. La ventosa se adhiere fuertemente al vidrio, la cerámica o cualquier otra superficie lisa en el baño, el bote o cualquier lugar.
 - 【Simplemente lo Mejor】: Altavoz Bluetooth y radio de ducha están en uno: fabricados en nuestra propia fábrica, controlamos la calidad para ofrecer un sonido increíble con nuestra reconocida confiabilidad. Cuidado con las imitaciones, este es el original. Hemos logrado las certificaciones CE, FCC y ROHS.
 - 【Amplia Compatibilidad】: Compatible con teléfonos inteligentes Android e iOS, iPads, tabletas, PC, transmisores Bluetooth y otros dispositivos de música estéreo con Bluetooth.
+- 【Conexión Versátil + Micrófono】: Se conecta a dispositivos Bluetooth en menos de 6 segundos. Controle fácilmente las pistas y el volumen de las canciones en el altavoz y con una conexión Bluetooth de 33 pies, disfrutará de música, audiolibros, y otros en la ducha, el automóvil, la playa o la piscina.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MS74NF4/?tag=tolees-21)

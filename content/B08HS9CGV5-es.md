@@ -28,10 +28,10 @@ Tienes [Camara Web Krom Kam -NXKROMKAM- Diseñada para Gaming - Webcam 1080p  30
 
 ℹ️:
 
-- Micrófono incorporado
-- Trípode incluido y 30 FPS
-- Tapa de privacidad
 - Compatibilidad: Windows 10 / 8 / 7 / XP || Linux 2.6.24 y superior || MacOS 10.6 y superior || Android 5.1 y superior
 - Resolución full HD 1080p
+- Micrófono incorporado
+- Tapa de privacidad
+- Trípode incluido y 30 FPS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HS9CGV5/?tag=tolees-21)
