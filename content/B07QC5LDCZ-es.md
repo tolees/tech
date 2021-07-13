@@ -28,10 +28,10 @@ Tienes [ASHATA Estación de Acoplamiento USB 2.0  Mini concentrador de Datos por
 
 ℹ️:
 
+- Compatible con versiones anteriores con USB 1.0 / 2.0 / 1.2
+- Interfaz de entrada: interfaz USB 2.0
+- Interfaz de salida: 3 puertos USB 2.0
 - Diseño delgado, mini tamaño
 - 3 hub mini adaptador USB 2.0 con puerto USB.
-- Interfaz de entrada: interfaz USB 2.0
-- Compatible con versiones anteriores con USB 1.0 / 2.0 / 1.2
-- Interfaz de salida: 3 puertos USB 2.0
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QC5LDCZ/?tag=tolees-21)
