@@ -28,11 +28,11 @@ Tienes [Acer Swift 5 - Portátil 14" FullHD  Intel Core i5-1135G7  8GB RAM  512G
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD
-- Pantalla de 14" FullHD IPS NarrowBoarder Touch LCD
-- Procesador IntelCore i5-1135G7
 - Sistema operativo Windows 10 Home
 - Tarjeta gráfica UMA
 - Memoria RAM de 8GB
+- Pantalla de 14" FullHD IPS NarrowBoarder Touch LCD
+- Almacenamiento de 512GB SSD
+- Procesador IntelCore i5-1135G7
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5JB5NV/?tag=tolees-21)
