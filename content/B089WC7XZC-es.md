@@ -28,10 +28,10 @@ Ahora mismo tienes [Uiosmuph - L12 Ratón Inalámbrico Bluetooth  2 4 GHz con Re
 
 🔎:
 
+- RATÓN BLUETOOTH DUAL MODE (BT 5.1 + 2.4GHz): con la conexión de modo dual, el mouse crea interruptores libres entre dos dispositivos con un solo mouse presionando el interruptor. 【Active "Assistive Touch" en Pad: Configuración-Accesibilidad- Assistive Touch para usar el Pad.】
+- AHORRO DE ENERGÍA: el mouse es recargable, se suministra con un cable de carga, no se necesita batería adicional. Se dormirá después de 10 minutos de inactividad para ahorrar energía y proporcionar un uso a largo plazo. Puedes despertarlo haciendo clic en cualquier botón.
+- COMPATIBILIDAD UNIVERSAL: el modo Bluetooth es compatible con Windows / MAC OS / Pad OS 13 y posterior / sistema Android, fácil de emparejar y conectar. El modo inalámbrico de 2.4 Hz funciona con computadoras, computadoras portátiles, computadoras de escritorio con USB, puerto tipo c, plug and play.
 - LUZ COLOREADA: 7 luces LED de diferentes colores cambian aleatoriamente durante el uso, ofreciendo una luz relajante, creando una atmósfera fresca y refinada para trabajar y jugar.
 - CLIC SILENCIOSO Y ALTA RESPONSABILIDAD: niveles de DPI ajustables entre 800, 1200 y 1600 para satisfacer diferentes necesidades. El clic silencioso permite un ambiente de trabajo silencioso.
-- AHORRO DE ENERGÍA: el mouse es recargable, se suministra con un cable de carga, no se necesita batería adicional. Se dormirá después de 10 minutos de inactividad para ahorrar energía y proporcionar un uso a largo plazo. Puedes despertarlo haciendo clic en cualquier botón.
-- RATÓN BLUETOOTH DUAL MODE (BT 5.1 + 2.4GHz): con la conexión de modo dual, el mouse crea interruptores libres entre dos dispositivos con un solo mouse presionando el interruptor. 【Active "Assistive Touch" en Pad: Configuración-Accesibilidad- Assistive Touch para usar el Pad.】
-- COMPATIBILIDAD UNIVERSAL: el modo Bluetooth es compatible con Windows / MAC OS / Pad OS 13 y posterior / sistema Android, fácil de emparejar y conectar. El modo inalámbrico de 2.4 Hz funciona con computadoras, computadoras portátiles, computadoras de escritorio con USB, puerto tipo c, plug and play.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089WC7XZC/?tag=tolees-21)

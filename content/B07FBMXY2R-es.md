@@ -28,9 +28,9 @@ Ahora mismo tienes [Purpleleaf Adaptador de CA Silm Portátil Cargador Portátil
 
 🔎:
 
-- Garantía: 30 días de garantía de devolución de dinero / 12 meses - Intercambio gratuito
-- Diseñado para ser el compañero de viaje perfecto, el adaptador tiene un diseño inteligente que permite que el cable de CC se enrolle perfectamente alrededor de sí mismo para facilitar el almacenamiento del cable.
 - Carga confiable y rápida con la tecnología RapidPower de Purpleleaf. CE, ROHS, FCC certificado
+- Diseñado para ser el compañero de viaje perfecto, el adaptador tiene un diseño inteligente que permite que el cable de CC se enrolle perfectamente alrededor de sí mismo para facilitar el almacenamiento del cable.
+- Garantía: 30 días de garantía de devolución de dinero / 12 meses - Intercambio gratuito
 - Compatibilidad Asus UX430UQ UX430UA UX430UN UX430U UX430. Cargador de portátil portátil Purpleleaf para Asus Notebook Adaptador de CA Cargador de alimentación Cable de alimentación
 - Salida: 19V 2.37A 45W Tamaño del conector: 4.0mm*1.35mm
 

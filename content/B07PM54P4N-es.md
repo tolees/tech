@@ -29,9 +29,9 @@ Tienes [Polar H10 Sensor de frecuencia cardíaca - ANT+  Bluetooth  ECG resisten
 🔎:
 
 - BANDA ELÁSTICA PECTORAL POLAR PRO: un elástico cómodo gracias a su hebilla fácil de atar y a los puntos de silicona que ofrecen una mayor sujeción cuando estás en movimiento.
-- MÁXIMA PRECISIÓN: Ampliamente reconocido Polar H10 es el sensor de frecuencia cardiaca más preciso de la historia de Polar. Polar H10 proporciona un calidad excelente del registro ECG y es la elección para atletas profesionales.
 - VERSATILIDAD: Utiliza tu sensor cuando corras, salgas en bicicleta, remes, entrenes en el gimnasio o en natación. Polar H10 es completamente sumergible y cuenta con memoria interna para una sesión de entrenamiento.
 - CONECTIVIDAD: Bluetooth Smart, ANT+ y 5 kHz. Proporciona múltiples opciones de conexión. Podrás utilizar las conexiones Bluetooth Smart, ANT+ y Bluetooth simultáneamente.
+- MÁXIMA PRECISIÓN: Ampliamente reconocido Polar H10 es el sensor de frecuencia cardiaca más preciso de la historia de Polar. Polar H10 proporciona un calidad excelente del registro ECG y es la elección para atletas profesionales.
 - CONECTIVIDAD: Sincroniza el sensor a la app gratuita Polar Beat, Strava, Nike+, u otro dispositivo smart watch o de entrenamiento (Polar, Garmin, Apple, Suunto entre otros). Conéctalo también con ciclocomputadores o máquinas de gimnasio vía Bluetooth o ANT+ simultáneamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PM54P4N/?tag=tolees-21)
