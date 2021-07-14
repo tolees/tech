@@ -28,9 +28,9 @@ Está [HUAWEI B311-221 - Enrutador inalámbrico 4G LTE 150MBps  WiFi móvil  con
 
 ℹ️:
 
-- Hasta 32 dispositivos conectados WI FI
 - VoLTE, VoIP, CSFB
-- Batería AC: 100 V - 240 V - DC: 12 V/1 A.
 - Lte Cat 4
+- Batería AC: 100 V - 240 V - DC: 12 V/1 A.
+- Hasta 32 dispositivos conectados WI FI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TK2X6NS/?tag=tolees-21)
