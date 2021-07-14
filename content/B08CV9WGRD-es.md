@@ -28,11 +28,11 @@ Tienes [ASUS TUF Dash F15 TUF516PM-HN135 - Ordenador portátil Gaming 15.6" Full
 
 🔎:
 
-- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
-- Pantalla de 15.6" Full HD (1920 x 1080) de 144Hz
-- Tarjeta gráfica NVIDIA GeForce RTX3060-6GB GDDR6
-- Sin sistema operativo
 - Procesador Intel Core i7-11370H (3GHz, 12MB)
+- Tarjeta gráfica NVIDIA GeForce RTX3060-6GB GDDR6
 - Almacenamiento de 512GB M.2 NVMe PCIe
+- Sin sistema operativo
+- Pantalla de 15.6" Full HD (1920 x 1080) de 144Hz
+- Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CV9WGRD/?tag=tolees-21)
