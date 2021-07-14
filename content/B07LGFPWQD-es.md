@@ -28,10 +28,10 @@ Ahora mismo tienes [HONOR Watch Magic  Pantalla 1.2" AMOLED 390 x 390  GPS  7 d�
 
 🔎:
 
-- Monitoriza con precisión tu actividad deportiva con 5 sensores: acelerómetro, giroscopio, altímetro barométrico y medidor contínuo de frencuencia cardíaca.
 - Autonomía de hasta 1 semana
-- Pantalla táctil 1.2" AMOLED 390 x 390
-- Variedad de actividades al aire libre y en interiores, incluyendo montañismo o natación entre otros
+- Monitoriza con precisión tu actividad deportiva con 5 sensores: acelerómetro, giroscopio, altímetro barométrico y medidor contínuo de frencuencia cardíaca.
 - GPS de alta precisión
+- Variedad de actividades al aire libre y en interiores, incluyendo montañismo o natación entre otros
+- Pantalla táctil 1.2" AMOLED 390 x 390
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGFPWQD/?tag=tolees-21)
