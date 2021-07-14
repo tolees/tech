@@ -29,9 +29,9 @@ En este momento está [Transcend Usd300S Tarjeta Microsd de 128Gb  Clase 10   V3
 🔎:
 
 - Clase de velocidad 10, U3, hasta 95 MBs de Lectura
-- Velocidad de Escritura hasta 40 MBs
-- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
-- Cumple con el estándar A1 para aplicaciones móviles
 - Software RecoveRx
+- Cumple con el estándar A1 para aplicaciones móviles
+- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
+- Velocidad de Escritura hasta 40 MBs
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GBD3JLR/?tag=tolees-21)
