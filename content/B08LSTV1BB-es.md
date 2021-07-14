@@ -28,9 +28,9 @@ Está [Winkle Filamento Pla HD | Pla 1.75mm | Filamento Impresión | Impresora 3
 
 ℹ️:
 
+- El filamento PLA HD cuenta con un Diámetro de 1.75mm y una bobina de 1000gr
 - PLA HD supera en algunos aspectos al PLA 850. Tras el exhaustivo control de calidad, se garantiza un Diámetro constante en todo el bobinado, además nuestro proceso garantiza la ausencia de impurezas químicas.
 - Los parámetros indicados son válidos para impresoras correctamente calibradas (PID, mecánica y fusor). Proceso de fabricación supervisado y probado (diámetro, color y bobinado) para garantizar la calidad de nuestro producto
-- El filamento PLA HD cuenta con un Diámetro de 1.75mm y una bobina de 1000gr
 - El filamento Pla HD esta fabricado en España para impresoras 3D con tecnología FFF/FDM.
 - Parámetros de impresión generales: Temperatura del nozzle (entre 190ºC y 230ºC). Temperatura de la cama (entre 50ºC y 70ºC). Excelente adherencia a la cama entre capas
 

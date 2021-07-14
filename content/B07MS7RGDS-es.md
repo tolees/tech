@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V42D - sistema de audio de alta al 30.48 % de descuento'
-date: 2021-07-13 11:15:34
+date: 2021-07-14 13:48:23
 image: 'https://m.media-amazon.com/images/I/31z7Y1DNMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07MS7RGDS/?tag=tolees-21'
 descuento: '30.48'
-average: '285.4875'
+average: '286.79'
 ---
 
 Ahora mismo tienes [Sony MHC-V42D - sistema de audio de alta potencia  Bluetooth  sonido 360 y graves a larga distancia  luces de fiesta 360  control por voz y gestos  conectividad con smartphones  HDMI  negro](https://www.amazon.es/dp/B07MS7RGDS/?tag=tolees-21) a 292.0 EUR (original: 420.0 EUR) (30.48 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [Sony MHC-V42D - sistema de audio de alta potencia  Bluetooth
 
 🔎:
 
-- Control de voz y luces de fiesta a través de fiestable
 - Sonido de graves de largo alcance con jet bass booster
-- Reproductor de dvd integrado con hdmi arc
 - Fuente de alimentación: Cable eléctrico
 - Altavoz para fiesta de alta potencia
-- Luces de fiesta e iluminación del altavoz
+- Reproductor de dvd integrado con hdmi arc
 - Control por gestos para mayor diversión y un funcionamiento sencillo
+- Luces de fiesta e iluminación del altavoz
+- Control de voz y luces de fiesta a través de fiestable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MS7RGDS/?tag=tolees-21)
