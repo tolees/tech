@@ -28,10 +28,10 @@ Está [Samsung U28E570 - Monitor de 28"4K  3840x2160  1 ms  75 Hz  FreeSync  Fli
 
 ℹ️:
 
+- Múltiples opciones de conectividad: Display Port, 2 x HDMI
 - Tiempo de respuesta de 1 ms y brillo de pantalla de 370 cd / m²
-- Pantalla 4K Ultra HD de 28 pulgadas, con una resolución de 3840 x 2160 píxeles y tecnología LED TN
 - Cuenta con un soporte VESA 75 x 75 para facilitar su montaje en pared
 - ¡Nota! La frecuencia mostrada puede variar, según la configuración del sistema informático y los cables empleados. Compruebe que la resolución y la frecuencia del PC estén establecidas en un intervalo de resolución y frecuencia compatible con el producto. A continuación, si es necesario, cambie la configuración según la tabla de modos de señal estándar que se encuentra en el manual
-- Múltiples opciones de conectividad: Display Port, 2 x HDMI
+- Pantalla 4K Ultra HD de 28 pulgadas, con una resolución de 3840 x 2160 píxeles y tecnología LED TN
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XNLJ886/?tag=tolees-21)
