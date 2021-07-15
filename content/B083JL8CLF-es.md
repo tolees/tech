@@ -28,9 +28,9 @@ En este momento está [Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para J
 
 🔎:
 
-- Sistema de control Key Slider patentado; reposicione los 12 botones laterales para que se ajusten óptimamente a su mano
 - Forma cómoda y contorneada; diseñado para adaptarse a los contornos de su palma, sin importar el tamaño de su mano o el estilo de agarre, con un reposadedos en el lado derecho para optimizar el soporte
 - 17 botones completamente programables; esquema idóneo para realizar acciones frecuentes y ejecutar macros complejas en los MMO y MOBA
+- Sistema de control Key Slider patentado; reposicione los 12 botones laterales para que se ajusten óptimamente a su mano
 - Estructura resistente; los conmutadores Omron con capacidad de hasta 50 millones de clics, la rueda de desplazamiento resistente y el cable trenzado del SCIMITAR RGB ELITE
 - Sensor óptico de 18.000 ppp nativos; equipado con un sensor personalizado PixArt PMW3391, ajustable en incrementos de resolución de 1 ppp, para un seguimiento personalizable y muy preciso
 
