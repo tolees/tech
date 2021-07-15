@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-eq1069ns - Ordenador portátil de  al 16.36 % de descuento'
-date: 2021-07-14 08:04:13
+date: 2021-07-15 08:30:50
 image: 'https://m.media-amazon.com/images/I/41XgPTAIHZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFJD1ZM/?tag=tolees-21'
 descuento: '16.36'
-average: '464.99'
+average: '464.434444444444'
 ---
 
 Está [HP 15s-eq1069ns - Ordenador portátil de 15.6" FullHD  Ryzen 5-4500U  8GB de RAM  256GB SSD  Amd Radeon Integrated Graphics  Windows 10   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08PFJD1ZM/?tag=tolees-21) con 16.36 de descuento por 459.99 EUR (original: 549.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [HP 15s-eq1069ns - Ordenador portátil de 15.6" FullHD  Ryzen 5-4500U  8GB
 
 ℹ️:
 
-- Windows 10
-- Pantalla de 15.6" FullHD
 - Almacenamiento de 256GB SSD
 - Procesador Ryzen 5-4500U
+- Pantalla de 15.6" FullHD
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 - 8GB de memoria RAM
+- Windows 10
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFJD1ZM/?tag=tolees-21)

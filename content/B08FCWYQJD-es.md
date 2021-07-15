@@ -28,10 +28,10 @@ En este momento está [PDP Mando Wireless Con Licencia Oficial Nintendo Switch  
 
 🔎:
 
-- Control de movimiento para jugar al máximo de tu capacidad.
-- Conectividad inalámbrica y batería recargable de 40 horas para jugar durante más tiempo.
-- Con licencia oficial de Nintendo.
 - El compañero de tamaño reducido para poder jugar en cualquier parte.
 - Diseñado para jugar cómodamente durante horas.
+- Conectividad inalámbrica y batería recargable de 40 horas para jugar durante más tiempo.
+- Con licencia oficial de Nintendo.
+- Control de movimiento para jugar al máximo de tu capacidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCWYQJD/?tag=tolees-21)

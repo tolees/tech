@@ -28,10 +28,10 @@ Está [MSI Creator 15 A10SD-490XES - Ordenador portátil de 15.6" FHD  i7-10875H
 
 ℹ️:
 
-- Tarjeta gráfica GeForce GTX 1660 Ti MAX Q, GDDR6 6GB
 - Procesador i7-10875H
+- Sistema operativo Free DOS
+- Tarjeta gráfica GeForce GTX 1660 Ti MAX Q, GDDR6 6GB
 - Memoria RAM DDR IV 32GB (3200MHz)
 - 1TB NVMe PCIe Gen3x4 SSD
-- Sistema operativo Free DOS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093QGNBS6/?tag=tolees-21)
