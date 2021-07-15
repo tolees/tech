@@ -28,9 +28,9 @@ Tienes [Sony WH-XB900N - Auriculares InalámbRricos Cancelación de uido  Blueto
 
 ℹ️:
 
-- Sonido extra bass y noise cancelling digital
-- Escucha durante todo el día gracias a la batería de 30.horas de duración
 - Escucha con un solo toque con tecnología inalámbrica nfc o bluetooth
+- Escucha durante todo el día gracias a la batería de 30.horas de duración
+- Sonido extra bass y noise cancelling digital
 - Llamadas con manos libres para mayor comodidad
 - Diseño elegante y plegable
 
