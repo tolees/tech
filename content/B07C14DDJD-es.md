@@ -31,7 +31,7 @@ Tienes [AGPTEK Funda de Disco Duro 2.5"  Estuche Rígida Antigolpes con Cremalle
 - 【Durable y Resistente】: El PU del exterior con función de impermeable y el interior de EVA manguito interior muy suave proporciona una protección óptima para el disco duro externo. cinta elástica mantiene los accesorios en su lugar durante el transporte para ponerlos en orden y evitar daños.
 - 【Use Más Conveniente y Portátil】: Con un mosquetón de Metal Gancho para colgar en la mochila de montañismo, y una Correa exterior para llevarla colgado, Muy Portátil.
 - 【Especial Diseñado Rejilla Incorporada】: Añadido un bolsillo para bien organizado los Accesorios como Micro SD tarjera, los cables de alimentación y auriculares ect.., el espaciador intermedio también puede evitar que el producto se raye.
-- 【Amplia Compatibilidad】: Tamaño internas: 12.5*9*3CM, suitable for 2,5" HDD, auriculares, pasaporte, otro su accesorio. Se puede proteger todos sus accesorios en seguro.
 - 【Más Detalles】: Con cremallera doble para ser más fácil de abrir y cerrar, y una correa de sujeción interna para proteger las cosas contra la fricción y los mantiene bien organizados.
+- 【Amplia Compatibilidad】: Tamaño internas: 12.5*9*3CM, suitable for 2,5" HDD, auriculares, pasaporte, otro su accesorio. Se puede proteger todos sus accesorios en seguro.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C14DDJD/?tag=tolees-21)
