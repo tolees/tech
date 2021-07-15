@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.24 % en MSI Creator 15 A10SDT-065ES - Ordenador '
-date: 2021-07-11 05:45:39
+date: 2021-07-15 19:48:23
 image: 'https://m.media-amazon.com/images/I/418XlKUHUVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08BJRJFF5/?tag=tolees-21'
 descuento: '26.24'
-average: '1674.49'
+average: '1632.65666666667'
 ---
 
 Tienes [MSI Creator 15 A10SDT-065ES - Ordenador portátil de 15.6" FullHD Táctil  Intel Core i7-10750H  32 GB RAM  1 TB SSD  Nvidia GTX1660 Ti-6GB  Windows 10 Home Advanced  negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08BJRJFF5/?tag=tolees-21) con un 26.24 % de descuento con precio de oferta de 1548.99 EUR (original: 2099.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [MSI Creator 15 A10SDT-065ES - Ordenador portátil de 15.6" FullHD Tácti
 
 ℹ️:
 
+- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
 - Tarjeta grafica GeForce GTX 1660 Ti MAX Q, GDDR6 6 GB
 - Memoria RAM 32 (16GB*2) 2666MHz
-- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
 - Display 15.6" FullHD (1920*1080) 16:9 Táctil
 - Sistema operativo Windows 10 Home
