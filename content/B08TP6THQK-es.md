@@ -28,11 +28,11 @@ Está [Lenovo IdeaPad Gaming 3 - Portátil Gaming 15.6" FullHD  AMD Ryzen 7 4800
 
 ℹ️:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 15.6" FullHD (1920x1080 píxeles), 60Hz, IPS, 250nits, Anti-glare
-- Memoria RAM de 16GB (2x 8GB) SO-DIMM DDR4-3200
+- Sin sistema operativo
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Procesador AMD Ryzen 7 4800H (8C / 16T, 2.9 / 4.2GHz, 4MB L2 / 8MB L3)
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Sin sistema operativo
+- Memoria RAM de 16GB (2x 8GB) SO-DIMM DDR4-3200
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TP6THQK/?tag=tolees-21)
