@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Creator 15 A10SD-490XES - Ordenador  al 27.51 % de descuento'
-date: 2021-07-06 11:17:53
+date: 2021-07-15 07:37:13
 image: 'https://m.media-amazon.com/images/I/411jiDyzFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B093QGNBS6/?tag=tolees-21'
 descuento: '27.51'
-average: '1559.92'
+average: '1532.19'
 ---
 
 Está [MSI Creator 15 A10SD-490XES - Ordenador portátil de 15.6" FHD  i7-10875H  32 GB RAM  1 TB SSD  GeForce GTX 1660 Ti MAX Q GDDR6 6GB  Free Dos  Color Gris carbón](https://www.amazon.es/dp/B093QGNBS6/?tag=tolees-21) con 27.51 de descuento por 1449.0 EUR (original: 1999.0 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [MSI Creator 15 A10SD-490XES - Ordenador portátil de 15.6" FHD  i7-10875H
 
 - Tarjeta gráfica GeForce GTX 1660 Ti MAX Q, GDDR6 6GB
 - Procesador i7-10875H
+- Memoria RAM DDR IV 32GB (3200MHz)
 - 1TB NVMe PCIe Gen3x4 SSD
 - Sistema operativo Free DOS
-- Memoria RAM DDR IV 32GB (3200MHz)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093QGNBS6/?tag=tolees-21)
