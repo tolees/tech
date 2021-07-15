@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair K63 - Teclado mecánico Gaming  C al 22.22 % de descuento'
-date: 2021-07-12 08:04:47
+date: 2021-07-15 14:28:35
 image: 'https://m.media-amazon.com/images/I/41h2IeK3d4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B06XX2ZFTR/?tag=tolees-21'
 descuento: '22.22'
-average: '78.74'
+average: '76.99'
 ---
 
 Ahora mismo tienes [Corsair K63 - Teclado mecánico Gaming  Cherry MX Red  retroiluminación LED roja  QWERTY Español   Negro  36.05 x 4.09 x 17.09 cm](https://www.amazon.es/dp/B06XX2ZFTR/?tag=tolees-21) a 69.99 EUR (original: 89.99 EUR) (22.22 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [Corsair K63 - Teclado mecánico Gaming  Cherry MX Red  retro
 
 🔎:
 
-- Interruptores mecánicos 100 % Cherry MX Red con contactos dorados para pulsaciones de teclas rápidas y precisas
-- Controles específicos multimedia y de volumen para ajustar el sonido sin tener que interrumpir el juego
-- QWERTY Español
-- Tecnología de conectividad: alámbrico
-- Diseño compacto sin teclado numérico para optimizar el espacio de la mesa y la movilidad
 - La retroiluminación LED roja en cada tecla y las fuentes de gran tamaño ofrecen efectos de iluminación intensos
 - La protección contra pulsaciones nulas con detección simultánea de teclas garantiza que los comandos y las pulsaciones simultáneas siempre quedarán registrados según lo esperado
+- Interruptores mecánicos 100 % Cherry MX Red con contactos dorados para pulsaciones de teclas rápidas y precisas
+- Diseño compacto sin teclado numérico para optimizar el espacio de la mesa y la movilidad
+- Controles específicos multimedia y de volumen para ajustar el sonido sin tener que interrumpir el juego
+- Tecnología de conectividad: alámbrico
+- QWERTY Español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XX2ZFTR/?tag=tolees-21)
