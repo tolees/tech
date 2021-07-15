@@ -29,9 +29,9 @@ En este momento está [safta 612033461 Funda para Portátil o Tablet 15.6" con a
 🔎:
 
 - Medidas: 40 x 4 x 27 cm
+- Funda para guardar y proteger portátiles o tablets de hasta 15,6
 - Interior acolchado
 - Producto con licencia oficial
 - Cuenta con dos asas cortas en la parte superior y una larga para colgar tipo bandolera, la cual se puede quitar
-- Funda para guardar y proteger portátiles o tablets de hasta 15,6
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083WX3NBH/?tag=tolees-21)

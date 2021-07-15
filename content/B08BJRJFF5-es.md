@@ -29,10 +29,10 @@ Tienes [MSI Creator 15 A10SDT-065ES - Ordenador portátil de 15.6" FullHD Tácti
 ℹ️:
 
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
-- Memoria RAM 32 (16GB*2) 2666MHz
-- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
 - Display 15.6" FullHD (1920*1080) 16:9 Táctil
-- Sistema operativo Windows 10 Home
 - Tarjeta grafica GeForce GTX 1660 Ti MAX Q, GDDR6 6 GB
+- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
+- Memoria RAM 32 (16GB*2) 2666MHz
+- Sistema operativo Windows 10 Home
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BJRJFF5/?tag=tolees-21)
