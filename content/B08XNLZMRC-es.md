@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG C24F390 - Monitor Curvo de 24    con un 16.05 % de descuento'
-date: 2021-07-12 11:09:15
+date: 2021-07-16 11:16:13
 image: 'https://m.media-amazon.com/images/I/516FRnBJDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08XNLZMRC/?tag=tolees-21'
 descuento: '16.05'
-average: '112.49'
+average: '111.521538461538'
 ---
 
 En este momento está [SAMSUNG C24F390 - Monitor Curvo de 24    Full HD  4 ms  60 Hz  FreeSync  Flicker-Free  LED  VA  16:9  3000:1  1800R  250 cd/m²  HDMI  Base Redonda  Negro](https://www.amazon.es/dp/B08XNLZMRC/?tag=tolees-21) a 99.9 EUR (original: 119.0 EUR) (16.05 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [SAMSUNG C24F390 - Monitor Curvo de 24    Full HD  4 ms  6
 
 🔎:
 
+- Consumo de energía máximo 25 w
+- Interfaz de montaje vesa 75 x 75 mm
+- Brillo de pantalla: 250 cd/m²
 - Curvatura 1800R, proporciona una experiencia inmersiva
 - Monitor curvo Samung C24F390 de 24 FullHD, 1920 x 1080 píxeles con conexiones HDMI y VGA
-- Brillo de pantalla: 250 cd/m²
-- Interfaz de montaje vesa 75 x 75 mm
-- Consumo de energía máximo 25 w
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XNLZMRC/?tag=tolees-21)
