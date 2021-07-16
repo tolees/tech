@@ -28,10 +28,10 @@ Tienes [JOYACCESS Teclado y Raton Inalambrico 2.4Ghz Delgados Portátil Teclado 
 
 ℹ️:
 
-- ESTILO ELEGANTE Y COMPACTO - Las teclas del teclado son planas y elegantes, estilo Mac. Este diseño ahorra espacio en su escritorio. El mouse, con su línea elegante y acabado limpio en la parte superior, agrega un toque de elegancia a su escritorio.
 - BATERÍAS RECARGABLES Y REUTILIZABLES - No es necesario reemplazar ni desechar las baterías alcalinas!JOYACCESS teclado y raton inalámbricos están equipados con baterías de iones de litio de 500 mAH incorporadas; Una carga completa proporciona autonomía de más de 120 días de trabajo. El teclado y raton ingresan al modo de suspensión después de 20 segundos sin actividad para una eficiencia energética óptima y una batería de larga duración.
-- CONEXIÓN INALÁMBRICA CONFIABLE DE 2.4 GHz - JOYACCESS pack de teclado y raton inalámbrico cuenta con un sistema de comunicación de 2.4 GHz para una conexión de datos sin pérdidas. Podrá trabajar borrando y con fluidez sin ningún cable. Un pequeño receptor nano permite usar el teclado y raton, un solo puerto USB será suficiente.
 - RATÓN CON DPI AJUSTABLE - el elegante mouse inalámbrico tiene 5 niveles de DPI ajustables (800/1200/1600/2000/2400), para que pueda elegir la velocidad correcta del puntero en función de sus actividades ex. trabajo, juegos o uso en una pantalla de TV.
+- ESTILO ELEGANTE Y COMPACTO - Las teclas del teclado son planas y elegantes, estilo Mac. Este diseño ahorra espacio en su escritorio. El mouse, con su línea elegante y acabado limpio en la parte superior, agrega un toque de elegancia a su escritorio.
 - DISEÑO ERGONÓMICO Y SILENCIOSO - Teclado inalámbrico - el mecanismo de tijera de las teclas hace que escribir sea cómodo y muy receptivo. El ángulo del teclado proporciona soporte para la muñeca para un trabajo sin dolor durante largos períodos de tiempo. El mouse silencioso y su clic muy suave garantizan un ambiente tranquilo y sereno.
+- CONEXIÓN INALÁMBRICA CONFIABLE DE 2.4 GHz - JOYACCESS pack de teclado y raton inalámbrico cuenta con un sistema de comunicación de 2.4 GHz para una conexión de datos sin pérdidas. Podrá trabajar borrando y con fluidez sin ningún cable. Un pequeño receptor nano permite usar el teclado y raton, un solo puerto USB será suficiente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RXBF5JR/?tag=tolees-21)
