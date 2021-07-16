@@ -28,10 +28,10 @@ Está [Altavoces activos Edifier S3000Pro Audiophile - Bluetooth 5.0 aptX inalá
 
 ℹ️:
 
-- Contenido del envío: 1 altavoz activo con cable de alimentación, 1 altavoz pasivo con cable de alimentación, 1 mando a distancia, varios cables de conexión (entre otros, óptico/Toslink), manual
 - Altavoces activos con reguladores de volumen, potencia de graves y agudos. Cubiertas de altavoces extraíbles.
-- Posibilidades de conexión: 1 RCA (RCA), óptica (TOSLINK), coaxial, equilibrado (simétrico), Bluetooth
+- Contenido del envío: 1 altavoz activo con cable de alimentación, 1 altavoz pasivo con cable de alimentación, 1 mando a distancia, varios cables de conexión (entre otros, óptico/Toslink), manual
 - Potencia de salida (RMS): L/R 8 W + 8 W (tweeter) y L/R 120 W + 120 W (woofer medio/bajo); Canal reflector de graves trasero para una reproducción de graves intensa
+- Posibilidades de conexión: 1 RCA (RCA), óptica (TOSLINK), coaxial, equilibrado (simétrico), Bluetooth
 - Conexión inalámbrica entre altavoz activo y pasivo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NP3CS11/?tag=tolees-21)
