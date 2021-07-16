@@ -28,10 +28,10 @@ Está [Habitdesign Mesa Despacho 3 Cajones  Mesa Office  Ordenador  Modelo BUC  
 
 ℹ️:
 
+- Tres cajones con guías correderas metálicas, gran capacidad de almacenaje
 - Medidas mesa de oficina Buc: 73 cm (alto) x 145 cm (ancho) x 108 cm (fondo).
 - Acabado en melamina de calidad color Blanco Artik (Blanco Mate) y Roble Canadian.
-- Mesa despacho reversible, puede ir a la izquierda o ala derecha. Ideal para usarla como escritorio, mesa de despacho o para combinar en tu oficina.
-- Tres cajones con guías correderas metálicas, gran capacidad de almacenaje
 - Mueble kit de fácil montaje, se entrega con las instrucciones de montaje y sus correspondientes herrajes.
+- Mesa despacho reversible, puede ir a la izquierda o ala derecha. Ideal para usarla como escritorio, mesa de despacho o para combinar en tu oficina.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DPP6RFJ/?tag=tolees-21)
