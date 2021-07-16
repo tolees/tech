@@ -28,11 +28,11 @@ Ahora mismo tienes [SanDisk Ultra Luxe  Memoria flash USB 3.1 de 256 GB y hasta
 
 🔎:
 
-- Tipo de conectividad: USB tipo A
-- Elegante diseño de metal fundido
+- USB 3.1 (gen. 1) con velocidades de hasta 150.mb/s
 - Transfiere una película a la memoria en menos de 30 segundos
 - Incluye la protección con contraseña sandisk secure access
 - Hasta 256.gb de almacenamiento
-- USB 3.1 (gen. 1) con velocidades de hasta 150.mb/s
+- Tipo de conectividad: USB tipo A
+- Elegante diseño de metal fundido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYRW97F/?tag=tolees-21)
