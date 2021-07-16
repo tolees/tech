@@ -29,9 +29,9 @@ Tienes [Acer Nitro QG241Ybii - Monitor Gaming de 23.8" Full HD 75 Hz  60.5cm  19
 🔎:
 
 - MONITOR FULL HD: disfruta de imágenes vibrantes y colores brillantes con el monitor Nitro QG1 para ordenador gaming; aprecia cada detalle en la pantalla LED retroiluminada de 23.8 pulgadas y resolución Full HD 1920x1080 con una relación de 16:9
+- SIN TEARING DE PANTALLA: disfruta de un juego fluido y despídete de las imágenes cortadas o congeladas y el tearing gracias a la tecnología AMD FreeSync, que sincroniza la velocidad de fotogramas de tu pantalla con tu tarjeta de vídeo
+- COLORES OPTIMIZADOS: sumérgete en los colores hiperrealistas del gaming; las transiciones suaves, los tonos finos y el aspecto uniforme se consiguen gracias a la amplia gama de colores NTSC del 72% y a la tecnología Black Boost
 - VISIÓN CONFORTABLE: protege tus ojos de la fatiga con las tecnologías Acer BlueLightShield y Flickerless; disfruta de largas sesiones frente al monitor ordenador con reducción de los reflejos y la fatiga ocular gracias a Acer ComfyView y Low Dimming
 - DISEÑO ERGONÓMICO: el diseño ergonómico del monitor ordenador permite inclinar la pantalla de -5 a 20 grados para una máxima comodidad; también puedes montar la pantalla en la pared con el soporte VESA para ahorrar espacio
-- COLORES OPTIMIZADOS: sumérgete en los colores hiperrealistas del gaming; las transiciones suaves, los tonos finos y el aspecto uniforme se consiguen gracias a la amplia gama de colores NTSC del 72% y a la tecnología Black Boost
-- SIN TEARING DE PANTALLA: disfruta de un juego fluido y despídete de las imágenes cortadas o congeladas y el tearing gracias a la tecnología AMD FreeSync, que sincroniza la velocidad de fotogramas de tu pantalla con tu tarjeta de vídeo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TV9TLV4/?tag=tolees-21)
