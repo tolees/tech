@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Padre No Hay Más Que Uno 1-2  BD  al 24.30 % de rebaja'
-date: 2021-07-16 20:10:12
+date: 2021-07-17 20:27:34
 image: 'https://m.media-amazon.com/images/I/51Ej0bni5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21'
 descuento: '24.30'
-average: '22.7233333333333'
+average: '21.59'
 ---
 
 Tienes [Sony - Padre No Hay Más Que Uno 1-2  BD  [Blu-ray]](https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21) con precio final de  18.19 EUR (original: 24.03 EUR) (24.30 %  de rebaja) aqui!
