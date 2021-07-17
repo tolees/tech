@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 9 Smartphone 6.53”Fhd+ al 29.72 % de descuento'
-date: 2021-07-16 07:25:02
+date: 2021-07-17 08:48:30
 image: 'https://m.media-amazon.com/images/I/41-mj+T1MXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Xiaomi Redmi Note 9 Smartphone 6.53”Fhd+ Dotdisplay 4Gb 128Gb 48Mp Quad
 
 ℹ️:
 
-- Potente procesador Nuevo procesador de juegos de alto rendimiento Helio G85.
 - Nuevo diseño de 6.53 "FHD + DotDisplay.
-- Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
-- Conector para auriculares de 3.5 mm, control remoto IR, tipo-C.
 - Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
+- Conector para auriculares de 3.5 mm, control remoto IR, tipo-C.
+- Potente procesador Nuevo procesador de juegos de alto rendimiento Helio G85.
+- Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B7ZY6LT/?tag=tolees-21)
