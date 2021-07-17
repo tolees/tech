@@ -28,11 +28,11 @@ En este momento está [Acer Nitro 5 AN515-55 - Portátil Gaming 15.6" FullHD  In
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX2060 - 6G-GDDR6
-- Pantalla de 15.6" FullHD Acer ComfyView IPS LED LCD
 - Almacenamiento de 512GB SSD
+- Pantalla de 15.6" FullHD Acer ComfyView IPS LED LCD
+- Tarjeta gráfica NVIDIA GeForce RTX2060 - 6G-GDDR6
 - Sin Sistema Operativo
-- Memoria RAM de 16GB
 - Procesador IntelCore i5-10300H
+- Memoria RAM de 16GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21)
