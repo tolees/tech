@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS ROG G513QM-HF026 - Ordenador Portátil Gaming de 15.6" 
 
 🔎:
 
-- Memoria RAM de 16GB (2 x 8GB) DDR4-3200MHz
 - Pantalla de 15.6" Full HD (1920 x 1080) 300Hz
-- Procesador AMD Ryzen 7 5800H (3.2GHz, 16MB)
-- Almacenamiento de 1TB M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
+- Almacenamiento de 1TB M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 5800H (3.2GHz, 16MB)
+- Memoria RAM de 16GB (2 x 8GB) DDR4-3200MHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0947D2NZJ/?tag=tolees-21)
