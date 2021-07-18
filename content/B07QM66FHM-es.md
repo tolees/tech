@@ -28,12 +28,12 @@ Está [Tenda AC10 Router WiFi Gigabit AC1200  Dual Band 5 GHz  867 Mbps  2.4 GHz
 
 ℹ️:
 
+- Velocidad de hasta 1200 Mbps y transferencia de datos ultrarrápida
+- Posibilidad de transferir varias paredes con señal a todos los rincones de tu casa con la tecnología Tenda Beamforming +
+- Asistencia al cliente 24 H/24 y 7 J/7: Si tiene cualquier otra pregunta sobre este producto o desea aclarar los detalles técnicos antes de comprar, por favor envíe un correo electrónico a support.fr@tenda cn
+- 4 Antenas de 5 dBi que ofrecen altas velocidades en largas distancias y cobertura WiFi inalámbrica en todas partes
 - Puerto Internet Gigabit y 4 puertos Ethernet Gibabit que aceleran hasta 10 veces más conexiones Ethernet
 - Garantía del producto: 3 años
-- Posibilidad de transferir varias paredes con señal a todos los rincones de tu casa con la tecnología Tenda Beamforming +
-- Velocidad de hasta 1200 Mbps y transferencia de datos ultrarrápida
-- Asistencia al cliente 24 H/24 y 7 J/7: Si tiene cualquier otra pregunta sobre este producto o desea aclarar los detalles técnicos antes de comprar, por favor envíe un correo electrónico a support.fr@tenda cn
 - Gestión inteligente de programación WiFi, indicadores LED y función de ahorro de energía con la aplicación Tenda
-- 4 Antenas de 5 dBi que ofrecen altas velocidades en largas distancias y cobertura WiFi inalámbrica en todas partes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QM66FHM/?tag=tolees-21)
