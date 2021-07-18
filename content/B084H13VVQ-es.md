@@ -28,9 +28,9 @@ En este momento está [Lenovo G34w-10 - Monitor Gaming curvo de 34.0" WQHD  3440
 
 🔎:
 
+- AMD Radeon FreeSync
 - Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
 - Puertos HDMI y DP
 - Monitor gaming con pantalla curva de 34" con resolución WQHD (3440x1440 pixeles)
-- AMD Radeon FreeSync
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21)
