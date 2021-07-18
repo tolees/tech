@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.67 % en Brother PJ-763MFi - Impresora térmica po'
-date: 2021-07-17 17:01:42
+date: 2021-07-18 20:53:53
 image: 'https://m.media-amazon.com/images/I/21ipLobYerL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brother'
 buyurl: 'https://www.amazon.es/dp/B018EMWVR0/?tag=tolees-21'
 descuento: '17.67'
-average: '572.83925925926'
+average: '573.698214285715'
 ---
 
 Tienes [Brother PJ-763MFi - Impresora térmica portátil A4  8ppm y 300ppp  Compatible con iOS a través de Bluetooth Mfi ](https://www.amazon.es/dp/B018EMWVR0/?tag=tolees-21) con un 17.67 % de descuento con precio de oferta de 596.89 EUR (original: 724.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Brother PJ-763MFi - Impresora térmica portátil A4  8ppm y 300ppp  Comp
 
 ℹ️:
 
+- Tamaño A4
 - Interfaz USB y Bluetooth Mfi
 - Resolución de 300 ppp
-- Impresión hoja a hoja, rollo de papel o rollo precortado
 - Velocidad de impresión de 8 páginas por minuto
-- Tamaño A4
+- Impresión hoja a hoja, rollo de papel o rollo precortado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B018EMWVR0/?tag=tolees-21)
