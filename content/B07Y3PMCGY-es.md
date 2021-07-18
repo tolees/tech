@@ -28,10 +28,10 @@ En este momento está [Western Digital My Book Disco Duro Externo de Sobremesa d
 
 🔎:
 
-- Raid-0 listo para usar
-- Listo para funcionar con usb 3.1 gen. 1 y compatible con usb 3.0
 - Enorme capacidad de almacenamiento con copia de seguridad automática y del sistema
 - Memorias wd red optimizadas para raid
+- Listo para funcionar con usb 3.1 gen. 1 y compatible con usb 3.0
+- Raid-0 listo para usar
 - Dos puertos concentradores usb 3.0, software acronis true image wd edition
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3PMCGY/?tag=tolees-21)
