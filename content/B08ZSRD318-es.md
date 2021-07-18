@@ -28,10 +28,10 @@ En este momento está [Shark Robot Aspirador con vaciado automático IQ Robot [R
 
 🔎:
 
-- La limpieza diaria más fácil con sistema de navegación inteligente y base de vaciado automático; vuelve a la base y vacía el depósito
-- Rodillo Anti Hair Wrap autolimpiable
 - Limpia alfombras, suelos duros, rincones y esquinas; aspira el pelo de mascota
+- La limpieza diaria más fácil con sistema de navegación inteligente y base de vaciado automático; vuelve a la base y vacía el depósito
 - Fácil de utilizar: control vía app y manual; hasta 90 minutos de funcionamiento
+- Rodillo Anti Hair Wrap autolimpiable
 - El sistema Shark IQ Navigation crea un mapa de tu casa, limpia sistemáticamente tramo por tramo y habitación por habitación para una adecuada cobertura (en comparación con Shark RV750EU)
 - Idiomas: la aplicación es solamente compatible con DE, FR, IT y ES
 
