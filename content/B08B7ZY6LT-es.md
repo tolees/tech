@@ -28,10 +28,10 @@ Está [Xiaomi Redmi Note 9 Smartphone 6.53”Fhd+ Dotdisplay 4Gb 128Gb 48Mp Quad
 
 ℹ️:
 
-- Conector para auriculares de 3.5 mm, control remoto IR, tipo-C.
-- Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
-- Potente procesador Nuevo procesador de juegos de alto rendimiento Helio G85.
-- Nuevo diseño de 6.53 "FHD + DotDisplay.
 - Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
+- Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
+- Conector para auriculares de 3.5 mm, control remoto IR, tipo-C.
+- Nuevo diseño de 6.53 "FHD + DotDisplay.
+- Potente procesador Nuevo procesador de juegos de alto rendimiento Helio G85.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B7ZY6LT/?tag=tolees-21)
