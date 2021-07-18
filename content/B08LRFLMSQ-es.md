@@ -28,13 +28,13 @@ En este momento está [MEDION Classmate E11201 - Ordenador portátil para educac
 
 🔎:
 
-- Memoria RAM de 4GB DDR3L.
+- Pantalla de 11.6 pulgadas HD, resolución de 1366 x 768 píxeles.
 - Tarjeta gráfica integrada Intel HD Graphics.
-- Batería de larga duración (hasta 8h), 5000mAh.
+- Memoria RAM de 4GB DDR3L.
 - Almacenamiento de 64GB eMMC Memoria Flash.
+- Sistema Operativo Windows 10 Pro Academic.
 - Procesador Intel Celeron N3450 QC (4 núcleos, 2 MB L2 Cache, 1.10 GHz hasta 2.20 GHz).
 - Diseño rugerizado: resistente a caídas (hasta 100cm) y derrames de agua (hasta 200cc en el teclado y touchpad).
-- Sistema Operativo Windows 10 Pro Academic.
-- Pantalla de 11.6 pulgadas HD, resolución de 1366 x 768 píxeles.
+- Batería de larga duración (hasta 8h), 5000mAh.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LRFLMSQ/?tag=tolees-21)
