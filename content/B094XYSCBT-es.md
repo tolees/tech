@@ -1,37 +1,33 @@
 ---
 layout: post
-title: 'Xiaomi - Redmi Note 10 5G Smartphone Dua al 23.20 % de rebaja'
-date: 2021-06-25 08:35:28
+title: 'Smartphone XIAOMI REDMI Note 10 5G 6 43  al 17.03 % de rebaja'
+date: 2021-07-18 07:51:23
 image: 'https://m.media-amazon.com/images/I/411hQL7cwhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B094XYSCBT-es Xiaomi - Redmi Note 10 5G Smartphone Dual 5G SIM RAM 4GB...'
+slug: 'B094XYSCBT-es Smartphone XIAOMI REDMI Note 10 5G 6 43 FHD+ AMOLED...'
 sku: 'B094XYSCBT-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ram','smartphone','xiaomi', ]
-actualPrice: 175.88 EUR
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','smartphone','xiaomi', ]
+actualPrice: 189.99 EUR
 currency: EUR
-price: 175.88
+price: 189.99
 comparePrice: 229.0 EUR
-prodname: 'Xiaomi - Redmi Note 10 5G Smartphone Dual 5G SIM RAM 4GB ROM 128GB 90Hz 6.5" DotDisplay 48MP Triple Cámara 5000mAh  typ  Batería Gris [Versión en Español]'
+prodname: 'Smartphone XIAOMI REDMI Note 10 5G 6 43   FHD+ AMOLED 4GB/128GB Grey'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21'
-descuento: '23.20'
-average: '192.01875'
+descuento: '17.03'
+average: '193.364'
 ---
 
-Tienes [Xiaomi - Redmi Note 10 5G Smartphone Dual 5G SIM RAM 4GB ROM 128GB 90Hz 6.5" DotDisplay 48MP Triple Cámara 5000mAh  typ  Batería Gris [Versión en Español]](https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21) con precio final de  175.88 EUR (original: 229.0 EUR) (23.20 %  de rebaja) aqui!
+Tienes [Smartphone XIAOMI REDMI Note 10 5G 6 43   FHD+ AMOLED 4GB/128GB Grey](https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21) con precio final de  189.99 EUR (original: 229.0 EUR) (17.03 %  de rebaja) aqui!
 
-[![Xiaomi - Redmi Note 10 5G Smartphone Dua](https://m.media-amazon.com/images/I/411hQL7cwhS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21)
+[![Smartphone XIAOMI REDMI Note 10 5G 6 43 ](https://m.media-amazon.com/images/I/411hQL7cwhS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21)
 
 🔎:
 
-- [Red 5G], procesador 5G de alto rendimiento para satisfacer todas sus necesidades de velocidad. Con el poderoso chipset MediaTek Dimensity 700 5G, Redmi Note 10 5G está listo para desafiar los límites del rendimiento de los juegos.
-- [Cámara triple de 48 MP] Con una cámara principal de 48 MP, una cámara macro que captura detalles y un sensor de profundidad para realizar retratos cautivadores, obtienes fotos asombrosas sin importar lo que estés tomando.
-- [Sensores de luz de 360 °] La configuración de sensores de luz duales de 360 ° puede detectar y ajustar el brillo a 4096 niveles diferentes de una manera natural, inteligente y precisa.
-- [Pantalla FHD + AdaptiveSync de 6.5 ”] Con una pantalla FHD + DotDisplay de 6.5” con una frecuencia de actualización de 90Hz, Redmi Note 10 5G ofrece una hermosa pantalla con un uso más suave.
-- [Batería de alta capacidad de 5000 mAh] Redmi Note 10 5G promociona una batería masiva de 5,000 mAh (Typ) con carga rápida de 18 W, por lo que los usuarios pueden permanecer encendidos durante todo el día incluso durante períodos de uso intensivo
+- SMARTPHONE XIAOMI REDMI NOTE 10 5G 6,43 FHD+ AMOLED 4GB/128GB GREY
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094XYSCBT/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Razer Nari Essential - Auriculares inalá'
-date: 2021-07-11 09:45:26
-image: 'https://m.media-amazon.com/images/I/41mSY0jv-FL._SL500_._SL400_.jpg'
+date: 2021-07-18 07:45:28
+image: 'https://m.media-amazon.com/images/I/31E7EyQkSJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07GXKDT55/?tag=tolees-21'
 descuento: '30.00'
-average: '72.2837931034483'
+average: '72.2073333333334'
 ---
 
 Tienes [Razer Nari Essential - Auriculares inalámbricos para juegos  auriculares inalámbricos  almohadillas con gel frío  THX Spatial Audio e iluminación RGB Chroma para PC  PS4 y Switch  negro](https://www.amazon.es/dp/B07GXKDT55/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Razer Nari Essential - Auriculares inalá](https://m.media-amazon.com/images/I/41mSY0jv-FL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07GXKDT55/?tag=tolees-21)
+[![Razer Nari Essential - Auriculares inalá](https://m.media-amazon.com/images/I/31E7EyQkSJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07GXKDT55/?tag=tolees-21)
 
 ℹ️:
 
