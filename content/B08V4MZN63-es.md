@@ -29,9 +29,9 @@ En este momento está [Vic Tech FL - Proyector WiFi Bluetooth Full HD Nativo 108
 🔎:
 
 - 【Proyector WiFi Bluetooth Full HD Nativo 1080P 】Este último proyector WiFi Bluetooth Full HD 1080P. Con resolución nativa de 1080 * 1920P y la lente óptica más nueva de alta transmitancia de luz.Alto brillo de 6000 lúmenes y una relación de contraste de hasta 10000: 1, ofrece imágenes súper claras con colores nítidos.
-- 【Support pantalla de 250"】Este proyector WiFi soporte Full HD 1080P puede ofrecer un tamaño de pantalla de 250",también viene con una función fuera del eje que puede elevar la pantalla de proyección a una altura óptima sin depender de un trípode, que es más simple y conveniente de usar. (La mejor distancia de lanzamiento es de 2 m)
-- 【Proyector WiFi con Sound Box】 Diseño de cavidad de sonido, puede experimentar la calidad de sonido HIFI en cualquier momento; la mejor opción para el entretenimiento familiar en interiores y exteriores.
 - 【Mini Proyector de Interfaz Múltiple】Este proyector full hd 1080p que permite una conexión inalámbrica rápida con smartphones Android / iPhone / Tablet / Ordenador Portátil Windows 10, ¡diviértete de una manera más conveniente! También tiene HDMI, VGA, AV, USB, puertos de audio de 3.5 mm para más opciones de conexión para otros dispositivos como Fire TV Stick / Chromecast / Laptop / DVD / PS4 / TV box / X-Box / PC, etc.
+- 【Proyector WiFi con Sound Box】 Diseño de cavidad de sonido, puede experimentar la calidad de sonido HIFI en cualquier momento; la mejor opción para el entretenimiento familiar en interiores y exteriores.
+- 【Support pantalla de 250"】Este proyector WiFi soporte Full HD 1080P puede ofrecer un tamaño de pantalla de 250",también viene con una función fuera del eje que puede elevar la pantalla de proyección a una altura óptima sin depender de un trípode, que es más simple y conveniente de usar. (La mejor distancia de lanzamiento es de 2 m)
 - 【WiFi & Bluetooth Función 】Este proyector wifi bluetooth Full HD 1080P tiene una función para duplicar la pantalla de forma inalámbrica que le permite conectarse a un teléfono IOS/Android/Tableta. Función de extensión de salida de audio Bluetooth, Compatible con altavoces/auriculares bluetooth y airpods.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V4MZN63/?tag=tolees-21)
