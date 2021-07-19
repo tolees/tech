@@ -30,7 +30,7 @@ Tienes [Philips Hue 2 Bombilla Inteligente VelaLED E14 + Philips Hue Puente de C
 
 - Regulación sin instalación: experimenta luz led de blanca cálida a fría (2200 a 6500 k y 470 lúmenes); en la app hue, elige entre luz blanca cálida para relajarte y luz fría para activarte. Despierta y ve a dormir de forma natural con luz que se adapta a tus rutinas. Lee, relájate, concéntrate y revitalízate con las recetas de luz predefinidas.
 - Con Bluetooth controla hasta 10 bombillas, con la app gratuita Hue Bluetooth; con el Puente Philips Hue (se vende a parte) controla la luz de toda la casa, hasta 50 bombillas
-- Se comunica con las lámparas inteligentes y la app Hue para garantizar que todo funcione conjuntamente
 - Añade sensores, interruptores inteligentes, etc; mejora tu sistema de iluminación inteligente Hue con diversos accesorios, incluidos interruptores inteligentes y detectores de movimiento
+- Se comunica con las lámparas inteligentes y la app Hue para garantizar que todo funcione conjuntamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WY3P4FS/?tag=tolees-21)
