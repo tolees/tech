@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Energy Sistem Urban Box 2 Altavoz portát con un 17.34 % de descuento'
-date: 2021-07-05 09:25:47
+title: 'Energy Sistem Urban Box 2 Altavoz portát con un 24.92 % de descuento'
+date: 2021-07-19 16:43:21
 image: 'https://m.media-amazon.com/images/I/41AjYX5Gc0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07TFGZ33M-es Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y...'
 sku: 'B07TFGZ33M-es'
 tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','bluetooth','energy sistem', ]
-actualPrice: 16.45 EUR
+actualPrice: 14.94 EUR
 currency: EUR
-price: 16.45
+price: 14.94
 comparePrice: 19.9 EUR
 prodname: 'Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y Tecnología True Wireless  10W  USB/microSD MP3 Player  FM Radio  - Azul'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21'
-descuento: '17.34'
-average: '16.6'
+descuento: '24.92'
+average: '16.4490909090909'
 ---
 
-En este momento está [Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y Tecnología True Wireless  10W  USB/microSD MP3 Player  FM Radio  - Azul](https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21) a 16.45 EUR (original: 19.9 EUR) (17.34 %  de descuento) en el siguiente enlace!
+En este momento está [Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y Tecnología True Wireless  10W  USB/microSD MP3 Player  FM Radio  - Azul](https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21) a 14.94 EUR (original: 19.9 EUR) (24.92 %  de descuento) en el siguiente enlace!
 
 [![Energy Sistem Urban Box 2 Altavoz portát](https://m.media-amazon.com/images/I/41AjYX5Gc0L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21)
 
