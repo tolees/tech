@@ -28,11 +28,11 @@ Ahora mismo tienes [Logitech MX Master 3 Advanced Ratón Inalámbrico  Receptor 
 
 🔎:
 
-- Requiere: Puerto USB disponible Windows 7,8,10 o posterior macOS 10.13 o posterior Linux 9
-- Forma Cómoda y Controles Intuitivos: Trabaja cómodamente con una forma adecuadamente contorneada y con un botón para el pulgar y controles situados en el lugar Adecuada
-- Personalizaciones Específicas para Aplicaciones: Acelera tu flujo de trabajo gracias a la fácil personalización de MX Master 3 para optimizar cada acción
 - Flow, Control entre Varios Ordenadores: Trabaja a la perfección en tres ordenadores; transfiere sin interrupciones cursor, texto y archivos entre Windows, Macos, y iPad OS
+- Personalizaciones Específicas para Aplicaciones: Acelera tu flujo de trabajo gracias a la fácil personalización de MX Master 3 para optimizar cada acción
+- Forma Cómoda y Controles Intuitivos: Trabaja cómodamente con una forma adecuadamente contorneada y con un botón para el pulgar y controles situados en el lugar Adecuada
 - Desplazamiento Magspeed rápido: Velocidad, precisión y silencio notables del desplazamiento electromagnético con el botón rueda Magspeed hasta un 90% más rápido
 - Funciona en Cualquier Superficie: Incluso sobre cristal con el sensor darkfield de 4.000 dpi; es más rápido y cinco veces más preciso que el ratón básico, por lo que siempre darás en el píxel exacto
+- Requiere: Puerto USB disponible Windows 7,8,10 o posterior macOS 10.13 o posterior Linux 9
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W6JG6Z7/?tag=tolees-21)
