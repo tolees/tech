@@ -28,10 +28,10 @@ Tienes [OnePlus Nord N100 - Smartphone 64GB  4GB RAM  Dual Sim  Midnight Frost](
 
 ℹ️:
 
-- Rendimiento que lo lleva más lejos; batería de 5000 mAh y OxygenOS
-- 4 GB de RAM + 64 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 460
 - El N100 está equipado con un conector de auriculares de 3.5mm y altravoces estéreo duales integrados
 - Pantalla HD+ de 6.52 " equipada con modo de lectura y modo nocturno para una experiencia de visualización
+- Rendimiento que lo lleva más lejos; batería de 5000 mAh y OxygenOS
+- 4 GB de RAM + 64 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 460
 - Diseñado para la fotografía con su sistema de cámara triple y una cámara frontal de 8 MP
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21)
