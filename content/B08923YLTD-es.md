@@ -28,10 +28,10 @@ En este momento está [Garmin Varia RTL515 Ciclismo  Adultos Unisex  Negro  Luz 
 
 🔎:
 
-- Radar trasero: Advierte de vehículos que se aproximan por detrás hasta 140 metros.
 - Compatible con ciclocomputadores Edge para una experiencia completa, así como con otros accesorios Garmin.
+- Radar trasero: Advierte de vehículos que se aproximan por detrás hasta 140 metros.
+- Luz trasera: Visibilidad en cualquier condición de luz. Hasta 1,6 km de distancia.
 - Autonomía de hasta 16 horas en modo parpadeo y 6 horas en modo fijo.
 - Conectividad Bluetooth y ANT+, compatible con la aplicación Varia y otras apps de terceros.
-- Luz trasera: Visibilidad en cualquier condición de luz. Hasta 1,6 km de distancia.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08923YLTD/?tag=tolees-21)
