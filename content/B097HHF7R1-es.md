@@ -28,9 +28,9 @@ Está [Weytoll WIFI Termohigrometro Higrotermometro Digital Sensor con LCD Panta
 
 ℹ️:
 
-- ♥Amplio rango de medición♥: rango de temperatura de 0 ~ 60 ℃ / 32 ~ 140 ℉ y rango de humedad de 0 ～ 99% RH.
 - ​​​​​​​♥Compartir dispositivos♥: puede compartir sus dispositivos agregados con los miembros de su familia, para que también puedan monitorear el entorno ambiental.
 - ♥Higrotemógrafo WiFi inteligente♥: compatible con Amazon Alexa, admite control de voz de terceros. y el soporte de función de enlace inteligente para encender / apagar el electrodoméstico inteligente como el aire acondicionado o el humidificador wifi automáticamente.
+- ♥Amplio rango de medición♥: rango de temperatura de 0 ~ 60 ℃ / 32 ~ 140 ℉ y rango de humedad de 0 ～ 99% RH.
 - ​​​​​​​♥Este termohigrometro con Función de calendario♥: la pantalla digital LCD grande y fácil de leer también muestra el año, el mes, la fecha y el día de la semana simultáneamente.
 - ♥Mini estación meteorológica doméstica♥: mide y muestra en tiempo real la temperatura y la humedad actuales, la temperatura se puede mostrar en grados Celsius (° C) o Fahrenheit (° F).
 
