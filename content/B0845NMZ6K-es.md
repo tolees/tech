@@ -28,10 +28,10 @@ Está [AOC 27B2H- Monitor de 27"Full HD  1920x1080  75 Hz  IPS  FlickerFree  250
 
 ℹ️:
 
-- Conexión HDMI, VGA, y conexión para conectar una salida de audio
-- Panel IPS: calidad de imagen con la tecnología de panel IPS
-- Monitor AOC 27B2H de 27 FullHD (1920x1080) con diseño sin bordes, adecuado para una configuración multipantalla
 - Función Flickerfree: elimina el parpadeo de imagen mostrando una consecución suaves de la misma
 - Low Blue Light: luz azul reducida que protege la vista ante un uso prolongado en el tiempo y disminuye el cansancio ocular
+- Monitor AOC 27B2H de 27 FullHD (1920x1080) con diseño sin bordes, adecuado para una configuración multipantalla
+- Conexión HDMI, VGA, y conexión para conectar una salida de audio
+- Panel IPS: calidad de imagen con la tecnología de panel IPS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0845NMZ6K/?tag=tolees-21)
