@@ -28,10 +28,10 @@ En este momento está [Gosky - Telescopio monocular de Alta definición y Soport
 
 🔎:
 
-- Ideal para los amantes del aire libre y exploradores de la naturaleza, portátil e imprescindible para la observación de aves, la fauna silvestre, ideal para actividades como caza, senderismo, montaña, camping, vigilancia y viajes.
-- El largo alivio ocular con la copa giratoria hace que este conjunto monocular de alta gama destaque entre la competencia.
 - El monocular de alta potencia promete unas vistas más brillantes y nítidas durante todas tus aventuras al aire libre.
 - - -
+- Ideal para los amantes del aire libre y exploradores de la naturaleza, portátil e imprescindible para la observación de aves, la fauna silvestre, ideal para actividades como caza, senderismo, montaña, camping, vigilancia y viajes.
+- El largo alivio ocular con la copa giratoria hace que este conjunto monocular de alta gama destaque entre la competencia.
 - Aumento de alta potencia, 12x55, tendrás la mejor vista en tus aventuras al aire libre. Verás 12 veces más cerca, una imagen clara y brillante con su amplio objetivo de 55 mm de ancho. Perfecto para caminatas, actividades de caza, escalada, observación de aves, paisajes y para observar la naturaleza.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B8XTS3Z/?tag=tolees-21)
