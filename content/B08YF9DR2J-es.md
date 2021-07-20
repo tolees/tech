@@ -29,9 +29,9 @@ Ahora mismo tienes [HUAWEI Eye Comfort AD80 - Monitor de 23 8" FullHD  1920x1080
 🔎:
 
 - Diseño elegante y sin fisuras, estética simétrica y superficie trasera estilizada. El soporte de la pantalla pasa desapercibido a primera vista.
-- Marcos estrechos de 5,7 mm, amplio ratio pantalla-cuerpo del 90%, ratio de aspecto 16:9 y ángulo de visión de 178 grados para una experiencia envolvente.
-- Instalar el monitor HUAWEI de 23,8" no podría ser más fácil. ¿Prefieres colgarla en la pared? No hay problema, ya que cumple con los estándares de montaje VESA. Inclínala sin miedo de manera vertical, ¡para que siempre tenga las mejores vistas!
 - Pantalla FullHD de 23.8 pulgadas, 1920x1080 píxeles, 250 nits, tasa de refresco de 60Hz, una gama de colores NTSC del 72% y una relación de contraste de 1000:13. Certificación TÜV Rheinland para reducir los efectos de la luz azul y eliminar los reflejos.
+- Instalar el monitor HUAWEI de 23,8" no podría ser más fácil. ¿Prefieres colgarla en la pared? No hay problema, ya que cumple con los estándares de montaje VESA. Inclínala sin miedo de manera vertical, ¡para que siempre tenga las mejores vistas!
 - Puertos HDMI y VGA.
+- Marcos estrechos de 5,7 mm, amplio ratio pantalla-cuerpo del 90%, ratio de aspecto 16:9 y ángulo de visión de 178 grados para una experiencia envolvente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08YF9DR2J/?tag=tolees-21)
