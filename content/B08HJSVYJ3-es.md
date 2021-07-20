@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tiras LED 6M RGB 5050 Música  TOPYIYI Bl con un 20.01 % de descuento'
-date: 2021-06-21 23:58:31
+title: 'Tiras LED 6M RGB 5050 Música  TOPYIYI Bl con un 36.28 % de descuento'
+date: 2021-07-20 15:07:42
 image: 'https://m.media-amazon.com/images/I/51YZHnFFsxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HJSVYJ3-es Tiras LED 6M RGB 5050 Música TOPYIYI Bluetooth Luces de...'
 sku: 'B08HJSVYJ3-es'
 tags: [ 'Iluminación','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Tiras LED de interior','bluetooth','topyiyi', ]
-actualPrice: 11.99 EUR
+actualPrice: 7.64 EUR
 currency: EUR
-price: 11.99
-comparePrice: 14.99 EUR
+price: 7.64
+comparePrice: 11.99 EUR
 prodname: 'Tiras LED 6M RGB 5050 Música  TOPYIYI Bluetooth Luces de Tiras LED  luces led habitacion Controladas por APP  IR Control Remoto y Controlador  16 Milliones de Colores  Modo de Horario para Hogar  Bar'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TOPYIYI'
 buyurl: 'https://www.amazon.es/dp/B08HJSVYJ3/?tag=tolees-21'
-descuento: '20.01'
-average: '11.99'
+descuento: '36.28'
+average: '9.815'
 ---
 
-En este momento está [Tiras LED 6M RGB 5050 Música  TOPYIYI Bluetooth Luces de Tiras LED  luces led habitacion Controladas por APP  IR Control Remoto y Controlador  16 Milliones de Colores  Modo de Horario para Hogar  Bar](https://www.amazon.es/dp/B08HJSVYJ3/?tag=tolees-21) a 11.99 EUR (original: 14.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
+En este momento está [Tiras LED 6M RGB 5050 Música  TOPYIYI Bluetooth Luces de Tiras LED  luces led habitacion Controladas por APP  IR Control Remoto y Controlador  16 Milliones de Colores  Modo de Horario para Hogar  Bar](https://www.amazon.es/dp/B08HJSVYJ3/?tag=tolees-21) a 7.64 EUR (original: 11.99 EUR) (36.28 %  de descuento) en el siguiente enlace!
 
 [![Tiras LED 6M RGB 5050 Música  TOPYIYI Bl](https://m.media-amazon.com/images/I/51YZHnFFsxL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HJSVYJ3/?tag=tolees-21)
 

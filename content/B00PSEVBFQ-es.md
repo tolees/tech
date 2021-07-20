@@ -28,8 +28,8 @@ Tienes [Adaptador de candado para el Mac Pro de Apple](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Adaptador de candado para el mac pro de apple
 - Qué incluye la caja? Adaptador de candado para el mac; proguía de instrucciones
 - El adaptador de candado para el mac pro te permite usar un candado kensington o similar (se venden por separado) para proteger tu ordenador; se coloca sin herramientas y no daña ni afecta al mac; engánchalo a un candado compatible para proteger la carcasa e impedir el acceso a los componentes internos del ordenador
+- Adaptador de candado para el mac pro de apple
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PSEVBFQ/?tag=tolees-21)
