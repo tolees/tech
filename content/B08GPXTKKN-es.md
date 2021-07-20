@@ -28,8 +28,8 @@ En este momento está [Razer BlackWidow V3 - Teclado nórdico  Interruptor Verde
 
 🔎:
 
-- Paqueteage Weight: 3.76 pounds
-- Paqueteage Dimensiones: 19.46 L x 7.88 H x 19.46 W (inches)
 - x
+- Paqueteage Dimensiones: 19.46 L x 7.88 H x 19.46 W (inches)
+- Paqueteage Weight: 3.76 pounds
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GPXTKKN/?tag=tolees-21)

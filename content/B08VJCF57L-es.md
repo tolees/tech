@@ -28,10 +28,10 @@ Ahora mismo tienes [LG 29WP500-B - Monitor Ultrawide LG  Panel IPS: 2560 x 1080 
 
 🔎:
 
-- Formato 21:9
-- 3-Side Virtually Borderless (Diseño de efecto de marcos ultra-finos)
 - Super Resolution+
-- HDR10
 - Panel IPS
+- 3-Side Virtually Borderless (Diseño de efecto de marcos ultra-finos)
+- HDR10
+- Formato 21:9
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VJCF57L/?tag=tolees-21)

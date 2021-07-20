@@ -29,8 +29,8 @@ En este momento está [realme 8 Smartphone Libre  Cámara cuádruple con IA de 6
 🔎:
 
 - Cámara: Cuádruple, 64MP+8MP +2MP+2MP
-- Batería: 5000 mAh
 - Pantalla: 6.4", 1080 x 2400 pixels
+- Batería: 5000 mAh
 - Procesador: Mediatek Helio G95 2.05Ghz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XVDZGTQ/?tag=tolees-21)
