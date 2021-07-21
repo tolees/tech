@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Brand - Eono Protector Pantalla para iPhone 11 / iPho
 
 🔎:
 
-- INSTALACIÓN FÁCIL: el marco de alineación lo ayuda a aplicar el protector de pantalla fácilmente sin burbujas.
 - DEFINICIÓN HD: aplicamos una capa oleofóbica para reducir la existencia de huellas dactilares. Mientras tanto, el cristal de alta transparencia garantiza una pantalla casi original.
-- Compatible con iPhone XR / iPhone 11 (6.1 Pulgadas).
-- COBERTURA MÁXIMA: el protector pantalla cubre la pantalla, y protege mejor su pantalla.
+- INSTALACIÓN FÁCIL: el marco de alineación lo ayuda a aplicar el protector de pantalla fácilmente sin burbujas.
 - CRISTAL TEMPLADO: el protector está hecho de cristal templado para proteger su dispositivo contras arañazos y golpes ligeros.
+- COBERTURA MÁXIMA: el protector pantalla cubre la pantalla, y protege mejor su pantalla.
+- Compatible con iPhone XR / iPhone 11 (6.1 Pulgadas).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082DY7FZF/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Pack gráfica ASUS y Procesador AMD: Ryzen 7 3700X y ROG Strix X570-F Ga
 
 🔎:
 
-- CMOS: TSMC 7nm FinFET
-- Reloj Max Boost: 4.4GHz
 - Refrigeración completa: dis ipad or pch activo, dis ipad or mos con caloducto de 8 mm, dos dis ipad ores m.2 y un conector para bombas de agua
-- Zócalo am4: compatible con los procesadores amd ryzen de 3a y 2a generación para maximizar la velocidad y conectividad con dos unidades m2, usb 32 generación 2 y amd storemi
 - Especificación de memoria del sistema: 3200MHz; tipo de memoria del sistema: DDR4; canales de memoria: 2
+- Reloj Max Boost: 4.4GHz
+- CMOS: TSMC 7nm FinFET
 - Aura sync rgb: iluminación aura sync rgb, incluye conectores rgb y conectores direccionables de 2a generación
+- Zócalo am4: compatible con los procesadores amd ryzen de 3a y 2a generación para maximizar la velocidad y conectividad con dos unidades m2, usb 32 generación 2 y amd storemi
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V3FQDD4/?tag=tolees-21)

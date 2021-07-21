@@ -29,9 +29,9 @@ Tienes [VASAGLE Escritorio de la Computadora Blanco Mesa de Ordenador en Forma d
 🔎:
 
 - ¿QUIERES CAMBIAR TU LUGAR DE TRABAJO? ¡Este escritorio está equipado con 4 ruedas para moverlo de la oficina a la sala de estar o incluso al balcón! 2 ruedas están equipadas con frenos para mantener el escritorio en su lugar
-- ESPACIO PEQUEÑO: Este escritorio compacto, de 60 x 48 x 73 cm, cabe en espacios reducidos y ofrece espacio para tu PC o portátil. La unidad central y la impresora se pueden colocar en el estante inferior
+- CON SOPORTE DE TECLADO: El soporte de 54 x 26 cm está equipado con rieles silenciosos para crear un ambiente de trabajo tranquilo. El teclado no ocupa espacio en la parte superior, así que hay más espacio para mirar las notas
 - QUÉ HAY EN LA CAJA: Instrucciones ilustradas, piezas numeradas, agujeros pre-perforados en el lugar correcto, la herramienta necesaria para el montaje y lo más importante. Este compacto escritorio de VASAGLE se puede montar en pocos minutos
 - ESTRUCTURA EN FORMA DE Z ESTABLE: Está hecho de tubos de acero y tablero de aglomerado de 15 mm de espesor. La parte superior soporta hasta 30 kg. El enchapado en melamina es resistente al desgaste y a la decoloración. Se puede limpiar con un paño húmedo
-- CON SOPORTE DE TECLADO: El soporte de 54 x 26 cm está equipado con rieles silenciosos para crear un ambiente de trabajo tranquilo. El teclado no ocupa espacio en la parte superior, así que hay más espacio para mirar las notas
+- ESPACIO PEQUEÑO: Este escritorio compacto, de 60 x 48 x 73 cm, cabe en espacios reducidos y ofrece espacio para tu PC o portátil. La unidad central y la impresora se pueden colocar en el estante inferior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SKQ0QB4/?tag=tolees-21)
