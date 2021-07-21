@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony - Padre No Hay Más Que Uno 1-2  BD  al 24.30 % de rebaja'
-date: 2021-07-19 09:10:04
+title: 'Sony - Padre No Hay Más Que Uno 1-2  BD  al 18.98 % de rebaja'
+date: 2021-07-21 15:03:01
 image: 'https://m.media-amazon.com/images/I/51Ej0bni5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Blu-ray','Comedia','Featured Categories','Películas','Películas y TV'
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19
-comparePrice: 24.03 EUR
+comparePrice: 22.45 EUR
 prodname: 'Sony - Padre No Hay Más Que Uno 1-2  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21'
-descuento: '24.30'
-average: '20.91'
+descuento: '18.98'
+average: '20.4566666666667'
 ---
 
-Tienes [Sony - Padre No Hay Más Que Uno 1-2  BD  [Blu-ray]](https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21) con precio final de  18.19 EUR (original: 24.03 EUR) (24.30 %  de rebaja) aqui!
+Tienes [Sony - Padre No Hay Más Que Uno 1-2  BD  [Blu-ray]](https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21) con precio final de  18.19 EUR (original: 22.45 EUR) (18.98 %  de rebaja) aqui!
 
 [![Sony - Padre No Hay Más Que Uno 1-2  BD ](https://m.media-amazon.com/images/I/51Ej0bni5RL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JZ6RZ4K/?tag=tolees-21)
 
