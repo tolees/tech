@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi 11i 5G - Smartphone 6.67    Wi con un 23.08 % de descuento'
-date: 2021-07-20 10:55:33
+date: 2021-07-21 11:32:34
 image: 'https://m.media-amazon.com/images/I/31r9V1hbA3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Xiaomi Mi 11i 5G - Smartphone 6.67    WiFi  Bluetooth 4.0
 
 🔎:
 
+- Diseño delgado y elegante; 163.7 x 76.4 x 7.8 mm
 - Audio claro con matriz de micrófono triple; altavoces duales Dolby Atmos
+- Cámara ultra high-resolution de 108MP y DotDisplay AMOLED de 120Hz 6.67”
 - Procesador flaghship Qualcomm Snapdragon 888; 8 GB de RAM; conéctese a 5G con velocidad flaghship
 - Batería de larga duración de 4520 mAh
-- Cámara ultra high-resolution de 108MP y DotDisplay AMOLED de 120Hz 6.67”
-- Diseño delgado y elegante; 163.7 x 76.4 x 7.8 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B093HGG3MX/?tag=tolees-21)

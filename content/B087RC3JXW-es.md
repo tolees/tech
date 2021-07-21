@@ -28,10 +28,10 @@ En este momento está [Huawei Watch GT2e - Smartwatch Graphite Black](https://ww
 
 🔎:
 
-- 85 modos de entrenamiento personalizados
-- Kirin A1
-- 15 modos de entrenamiento profesional
 - Con varios diseños de esferas
+- 85 modos de entrenamiento personalizados
+- 15 modos de entrenamiento profesional
 - Elegante y con estilo
+- Kirin A1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087RC3JXW/?tag=tolees-21)

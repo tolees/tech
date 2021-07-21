@@ -28,10 +28,10 @@ Ahora mismo tienes [INNÔPLUS - Alfombrilla Ratón  Almohadilla Raton xxl  2 pie
 
 🔎:
 
+- IMPERMEABLE Y FÁCIL DE LIMPIAR El material resistente al agua y al calor hace que este producto sea duradero y fácil de limpiar. Si desea limpiarlo, simplemente limpie su superficie con un paño húmedo.
 - INNÔPLUS 80 * 40cm gran almohadilla deak + 20 * 28cm alfombrilla de ratón de cuero PU, paquete de 2
+- GARANTÍA DE UN AÑO Estamos dedicados a brindar a nuestros clientes productos de alta calidad y un servicio superior. Todas nuestras almohadillas de escritorio vienen con una garantía de un año
 - [DISEÑO DE DOBLE CARA] La alfombra tiene un color diferente en cada lado. Y se puede utilizar cualquier lado. Tiene un estilo elegante, pero eso es un toque de elegancia para cualquier escritorio. Aporta un aspecto limpio y moderno a su espacio de trabajo.
 - El tacto y la función excelentes del cuero se hacen aún más funcionales para brindarle una almohadilla que realmente eleva. Le brinda una cobertura total de su escritorio, define su espacio y le da un aspecto profesional elegante y moderno.
-- IMPERMEABLE Y FÁCIL DE LIMPIAR El material resistente al agua y al calor hace que este producto sea duradero y fácil de limpiar. Si desea limpiarlo, simplemente limpie su superficie con un paño húmedo.
-- GARANTÍA DE UN AÑO Estamos dedicados a brindar a nuestros clientes productos de alta calidad y un servicio superior. Todas nuestras almohadillas de escritorio vienen con una garantía de un año
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08J2BHBLQ/?tag=tolees-21)
