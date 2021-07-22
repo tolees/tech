@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Adaptador USB a Gigabit Ethernet al 17.46 % de rebaja'
-date: 2021-07-18 11:51:47
+date: 2021-07-22 09:41:58
 image: 'https://m.media-amazon.com/images/I/31dj2er8BfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B01M6C9DPK/?tag=tolees-21'
 descuento: '17.46'
-average: '17.0585000000001'
+average: '17.0763934426231'
 ---
 
 Tienes [TP-Link Adaptador USB a Gigabit Ethernet  4 en 1 Hub USB Adaptador Ethernet Gigabit con 3 USB 3.0 hasta 5Gbps + 1 Puerto Gigabit ideal para Xiaomi Mi Box S  UE330 ](https://www.amazon.es/dp/B01M6C9DPK/?tag=tolees-21) con precio final de  18.15 EUR (original: 21.99 EUR) (17.46 %  de rebaja) aqui!
