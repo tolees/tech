@@ -28,9 +28,9 @@ Está [Denon Mini DSB-150BT Negro - Altavoces portátiles  4 cm  Inalámbrico  B
 
 ℹ️:
 
+- Entrada analógica mini-jack de 3,5 mm.
 - Botones de control e indicador de batería.
 - Tiempo de carga 2.5 horas.
-- Entrada analógica mini-jack de 3,5 mm.
 - Bluetooth v4.1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQCV36/?tag=tolees-21)
