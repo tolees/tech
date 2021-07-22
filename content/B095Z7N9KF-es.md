@@ -28,13 +28,13 @@ Tienes [Blue Microphones - Blue Micrófono USB profesional Yeti para grabación 
 
 🔎:
 
-- El micrófono Yeti cuenta con una exclusiva matriz de tres cápsulas profesionales que capturan cuatro patrones de audio diferentes: cardioide, bidireccional, omnidireccional y estéreo
-- Full hd 1080a 60 fps: tú y tu público disfrutaréis de una experiencia de streaming fluida y de calidad con movimiento e imágenes más precisas
-- Vídeo vertical full hd: simplemente girando la streamcam puedes usar vídeo vertical full hd 9:16; perfecto para historias de instagram y facebook
+- Enfoque automático y exposición inteligentes: concéntrate en compartir lo que te gusta y deja que la exposición y el enfoque automáticos de streamcam se encarguen del resto con inteligencia artificial avanzada para seguimiento facial
 - El software de grabación PreSonus Studio One Artist Blue Microphones Edition te ofrece herramientas para ayudarte a empezar a grabar y transmitir rápidamente, solo tienes que pulsar grabar y listo
 - Logitech capture: este software de grabación y streaming de vídeo hace más fácil e intuitiva la creación de contenidos con streamcam
-- El software de masterización profesional iZotope Ozone Elements te ayuda a conseguir una calidad profesional para tus pistas y que estén listas para el streaming, podcasts, vídeos de YouTube y más
-- Enfoque automático y exposición inteligentes: concéntrate en compartir lo que te gusta y deja que la exposición y el enfoque automáticos de streamcam se encarguen del resto con inteligencia artificial avanzada para seguimiento facial
 - Da rienda suelta a tu creatividad: micrófono profesional Yeti USB con softwares de grabación personalizados PreSonus e iZotope con masterización de estudio; impulsa la productividad en tus proyectos
+- Full hd 1080a 60 fps: tú y tu público disfrutaréis de una experiencia de streaming fluida y de calidad con movimiento e imágenes más precisas
+- El software de masterización profesional iZotope Ozone Elements te ayuda a conseguir una calidad profesional para tus pistas y que estén listas para el streaming, podcasts, vídeos de YouTube y más
+- El micrófono Yeti cuenta con una exclusiva matriz de tres cápsulas profesionales que capturan cuatro patrones de audio diferentes: cardioide, bidireccional, omnidireccional y estéreo
+- Vídeo vertical full hd: simplemente girando la streamcam puedes usar vídeo vertical full hd 9:16; perfecto para historias de instagram y facebook
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B095Z7N9KF/?tag=tolees-21)
