@@ -28,10 +28,10 @@ Tienes [Xiaomi Mi Electric Scooter Pro 2 + Pump pack  Pack Amazon](https://www.a
 
 🔎:
 
-- Diseño funcional
-- Diseño minimalista, aluminio de grado
 - Elegante y elegante, portátil y seguro
+- Diseño funcional
 - Potencia nominal <350V, velocidad max <25km/h, autonomía >20Km, sistema de luces completo alimentado por batería, carga máxima superior a 60Kg
+- Diseño minimalista, aluminio de grado
 - Se han seguido estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RDY1B9H/?tag=tolees-21)

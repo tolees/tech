@@ -28,11 +28,11 @@ En este momento está [TP-Link TL-SG108E Unmanaged PRO Switch  8 Puertos Gigabit
 
 🔎:
 
-- Vlan, combinando seguridad con rendimiento de red, el tl-sg108e soporta funciones vlan mtu, en base a puerto
-- Fácil manejo a través de la interfaz web o el uso de windows independiente
-- Switch gigabit de 8 puertos, rj45 de negociación automática, gigabit de 10/100/1000 mbps, óptimamente expanden la capacidad de la red
-- La tecnología ethernet ahorra el consumo de energía verde
 - Plug and play, no requiere configuración
+- Fácil manejo a través de la interfaz web o el uso de windows independiente
 - Resistente carcasa de metal para robustez
+- Switch gigabit de 8 puertos, rj45 de negociación automática, gigabit de 10/100/1000 mbps, óptimamente expanden la capacidad de la red
+- Vlan, combinando seguridad con rendimiento de red, el tl-sg108e soporta funciones vlan mtu, en base a puerto
+- La tecnología ethernet ahorra el consumo de energía verde
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JKB63D8/?tag=tolees-21)
