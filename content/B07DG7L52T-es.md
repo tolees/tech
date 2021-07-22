@@ -28,9 +28,9 @@ Ahora mismo tienes [Intel NUC 8I7HVK2 - Kit ordenador Mini PC  Intel Core i7-880
 
 🔎:
 
-- Dos conexiones de disco duro M.2 (PCIe x4)
-- Procesador Intel Core i7-8809G (Hasta 4.20 GHz, 8 MB cache) con gráficos Radeon RX Vega M GH
 - WiFi AC + Bluetooth 4.2
+- Procesador Intel Core i7-8809G (Hasta 4.20 GHz, 8 MB cache) con gráficos Radeon RX Vega M GH
+- Dos conexiones de disco duro M.2 (PCIe x4)
 - 2 slots para memoria RAM DDR4-2400 hasta 32 GB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DG7L52T/?tag=tolees-21)
