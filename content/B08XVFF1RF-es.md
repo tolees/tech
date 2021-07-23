@@ -28,9 +28,9 @@ Está [Realme 8 - Smartphone 64GB  4GB RAM  Dual Sim  Cyber Black](https://www.a
 
 ℹ️:
 
-- Batería: 5000 mAh
-- Procesador: Mediatek Helio G95 2.05Ghz
 - Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Batería: 5000 mAh
 - Pantalla: 6.4", 1080 x 2400 pixels
+- Procesador: Mediatek Helio G95 2.05Ghz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XVFF1RF/?tag=tolees-21)
