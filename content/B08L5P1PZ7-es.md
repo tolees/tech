@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12  64 GB  - en Negro al 19.15 % de descuento'
-date: 2021-07-23 14:45:49
+date: 2021-07-24 16:30:36
 image: 'https://m.media-amazon.com/images/I/31SOygUjpUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21'
 descuento: '19.15'
-average: '759.777777777778'
+average: '757.294'
 ---
 
 Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21) a 734.94 EUR (original: 909.0 EUR) (19.15 %  de descuento) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazo
 
 🔎:
 
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- Resistencia al agua IP68, líder en el sector
-- A14 Bionic, el chip más veloz en un smartphone
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Resistencia al agua IP68, líder en el sector
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- A14 Bionic, el chip más veloz en un smartphone
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21)

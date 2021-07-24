@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'ASUS RT-AC58U V2 - Router  WiFi 5 AC1300 al 31.44 % de descuento'
-date: 2020-03-09 10:49:50
-image: 'https://m.media-amazon.com/images/I/31vsKOtFx3L._AC_._SL400_.jpg'
+title: 'ASUS RT-AC58U V3 - Router Gigabit inalám al 45.87 % de descuento'
+date: 2021-07-24 15:30:45
+image: 'https://m.media-amazon.com/images/I/41AHtqlqRJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ZCCGWRQ-es ASUS RT-AC58U V2 - Router WiFi 5 AC1300 MU-MIMO 4 Gigabit...'
+slug: 'B07ZCCGWRQ-es ASUS RT-AC58U V3 - Router Gigabit inalámbrico Dual-Band...'
 sku: 'B07ZCCGWRQ-es'
-tags: [ 'asus','gigabit','wifi', ]
-actualPrice: 59.99 EUR
+tags: [ 'Dispositivos de red','Informática','Routers','asus','gigabit','wifi', ]
+actualPrice: 37.84 EUR
 currency: EUR
-price: 59.99
-comparePrice: 87.5 EUR
-prodname: 'ASUS RT-AC58U V2 - Router  WiFi 5 AC1300 MU-MIMO  4 Gigabit LAN  Control de aplicación  DFS  multifunción  USB  IPv6  VPN.'
+price: 37.84
+comparePrice: 69.9 EUR
+prodname: 'ASUS RT-AC58U V3 - Router Gigabit inalámbrico Dual-Band AC1300  WiFi 5 AC1300 MU-MIMO  4 Gigabit LAN  Control de aplicación  DFS  multifunción  USB  IPv6  VPN '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21'
-descuento: '31.44'
-average: '72.49'
+descuento: '45.87'
+average: '55.165'
 ---
 
-Ahora mismo tienes [ASUS RT-AC58U V2 - Router  WiFi 5 AC1300 MU-MIMO  4 Gigabit LAN  Control de aplicación  DFS  multifunción  USB  IPv6  VPN.](https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21) a 59.99 EUR (original: 87.5 EUR) (31.44 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ASUS RT-AC58U V3 - Router Gigabit inalámbrico Dual-Band AC1300  WiFi 5 AC1300 MU-MIMO  4 Gigabit LAN  Control de aplicación  DFS  multifunción  USB  IPv6  VPN ](https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21) a 37.84 EUR (original: 69.9 EUR) (45.87 %  de descuento) en el siguiente enlace!
 
-[![ASUS RT-AC58U V2 - Router  WiFi 5 AC1300](https://m.media-amazon.com/images/I/31vsKOtFx3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21)
+[![ASUS RT-AC58U V3 - Router Gigabit inalám](https://m.media-amazon.com/images/I/41AHtqlqRJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21)
 
 🔎:
 
+- 4 puertos Gigabit LAN para conectar dispositivos y 1 puerto USB 2.0 para conectar una unidad USB y compartir archivos a través de la red
+- AC1300 concurrente para unas conexiones Wi-Fi más rápidas
+- La formación de haces 802.11 AC y las cuatro antenas de alto rendimiento optimizan la cobertura Wi-Fi
+- La intuitiva ASUS Router App te permite controlar tu red desde tus dispositivos móviles
+- La interfaz web ASUSWRT facilita la configuración y administración del router
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21)
