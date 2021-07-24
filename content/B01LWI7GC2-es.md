@@ -28,10 +28,10 @@ Ahora mismo tienes [Woxter Big Bass BT-20 Golden- Altavoz portátil Bluetooth Ul
 
 🔎:
 
-- LEDs indicativos de estado y funcionamiento.
-- Bluetooth 4.0+EDR (hasta 10 m)
-- Potencia: 10 W
 - Función manos libre.
+- LEDs indicativos de estado y funcionamiento.
+- Potencia: 10 W
+- Bluetooth 4.0+EDR (hasta 10 m)
 - Conexiones: lector de tarjetas, micro USB para carga, entrada Aux, DC5V
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LWI7GC2/?tag=tolees-21)
