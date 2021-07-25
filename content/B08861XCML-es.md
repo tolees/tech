@@ -1,33 +1,36 @@
 ---
 layout: post
-title: 'BATERÃA Externa XIAOMI REDMI 18W Fast Ch al 22.92 % de descuento'
-date: 2021-07-19 13:32:42
+title: 'Xiaomi Batería externa REDMI 18W FAST CH al 31.32 % de descuento'
+date: 2021-07-25 13:24:41
 image: 'https://m.media-amazon.com/images/I/31E9WjQ5XIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08861XCML-es BATERÃA Externa XIAOMI REDMI 18W Fast Charge Black -...'
+slug: 'B08861XCML-es Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK -...'
 sku: 'B08861XCML-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','xiaomi', ]
-actualPrice: 22.3 EUR
+actualPrice: 19.87 EUR
 currency: EUR
-price: 22.3
+price: 19.87
 comparePrice: 28.93 EUR
-prodname: 'BATERÃA Externa XIAOMI REDMI 18W Fast Charge Black - 20000MAH - Entrada Micro USB/USB Tipo-C - Salida 2* USB-A'
+prodname: 'Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK - 20000MAH - ENTRADA MICRO USB / USB TIPO-C - SALIDA 2* USB-A'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08861XCML/?tag=tolees-21'
-descuento: '22.92'
-average: '20.6888'
+descuento: '31.32'
+average: '20.6281481481482'
 ---
 
-Está [BATERÃA Externa XIAOMI REDMI 18W Fast Charge Black - 20000MAH - Entrada Micro USB/USB Tipo-C - Salida 2* USB-A](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21) con 22.92 de descuento por 22.3 EUR (original: 28.93 EUR) en el siguiente enlace!
+Está [Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK - 20000MAH - ENTRADA MICRO USB / USB TIPO-C - SALIDA 2* USB-A](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21) con 31.32 de descuento por 19.87 EUR (original: 28.93 EUR) en el siguiente enlace!
 
-[![BATERÃA Externa XIAOMI REDMI 18W Fast Ch](https://m.media-amazon.com/images/I/31E9WjQ5XIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21)
+[![Xiaomi Batería externa REDMI 18W FAST CH](https://m.media-amazon.com/images/I/31E9WjQ5XIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21)
 
 ℹ️:
 
-- Mi 20000mAh Redmi 18W Fast Charge Power Bank (Black)
+- 4 puertos
+- Conector USB, Micro USB
+- 15.4 x 7.4 x 2.7 centímetros
+- 20000mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21)

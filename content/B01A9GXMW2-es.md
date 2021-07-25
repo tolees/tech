@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M170 Ratón Inalámbrico  2 4 GHz al 18.76 % de descuento'
-date: 2021-07-19 10:30:33
+date: 2021-07-25 13:38:10
 image: 'https://m.media-amazon.com/images/I/31Fcfp7QJ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech'
 buyurl: 'https://www.amazon.es/dp/B01A9GXMW2/?tag=tolees-21'
 descuento: '18.76'
-average: '10.1916666666667'
+average: '10.4069230769231'
 ---
 
 Ahora mismo tienes [Logitech M170 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Gris](https://www.amazon.es/dp/B01A9GXMW2/?tag=tolees-21) a 12.99 EUR (original: 15.99 EUR) (18.76 %  de descuento) en el siguiente enlace!
