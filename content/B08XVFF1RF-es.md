@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Realme 8 - Smartphone 64GB  4GB RAM  Dua al 30.15 % de descuento'
-date: 2021-07-23 17:20:13
+date: 2021-07-25 21:03:32
 image: 'https://m.media-amazon.com/images/I/41AGnI9miCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B08XVFF1RF/?tag=tolees-21'
 descuento: '30.15'
-average: '158.134285714285'
+average: '155.742499999999'
 ---
 
 Está [Realme 8 - Smartphone 64GB  4GB RAM  Dual Sim  Cyber Black](https://www.amazon.es/dp/B08XVFF1RF/?tag=tolees-21) con 30.15 de descuento por 139.0 EUR (original: 199.0 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Realme 8 - Smartphone 64GB  4GB RAM  Dual Sim  Cyber Black](https://www.a
 
 ℹ️:
 
-- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
-- Batería: 5000 mAh
-- Pantalla: 6.4", 1080 x 2400 pixels
 - Procesador: Mediatek Helio G95 2.05Ghz
+- Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Pantalla: 6.4", 1080 x 2400 pixels
+- Batería: 5000 mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XVFF1RF/?tag=tolees-21)
