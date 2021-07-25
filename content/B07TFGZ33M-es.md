@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Urban Box 2 Altavoz portát con un 24.92 % de descuento'
-date: 2021-07-20 19:52:47
+date: 2021-07-25 20:33:36
 image: 'https://m.media-amazon.com/images/I/41AjYX5Gc0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21'
 descuento: '24.92'
-average: '16.3233333333333'
+average: '16.216923076923'
 ---
 
 En este momento está [Energy Sistem Urban Box 2 Altavoz portátil con Bluetooth y Tecnología True Wireless  10W  USB/microSD MP3 Player  FM Radio  - Azul](https://www.amazon.es/dp/B07TFGZ33M/?tag=tolees-21) a 14.94 EUR (original: 19.9 EUR) (24.92 %  de descuento) en el siguiente enlace!
