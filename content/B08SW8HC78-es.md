@@ -28,10 +28,10 @@ En este momento está [Samsung U32J592 - Monitor de 32   4K  3840x2160  4 ms  60
 
 🔎:
 
+- Funciones PIP y PBP para que la multitarea sea sencilla
 - Soporte VESA (100x100)
+- AMD FreeSync y Game mode
 - Tecnología Flicker Free y eye saber mode para evitar el cansancio ocular
 - Samsung U32J592, monitor de 32 4K UHD (3840x2160)
-- AMD FreeSync y Game mode
-- Funciones PIP y PBP para que la multitarea sea sencilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SW8HC78/?tag=tolees-21)
