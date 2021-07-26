@@ -28,11 +28,11 @@ Ahora mismo tienes [Imou Cámara de Vigilancia WiFi Interior 1080P  Cámara IP W
 
 🔎:
 
+- No te pierdas ningún detalle: los componentes ópticos de cristal con resolución Full HD de 1080p proporcionan imágenes y vídeos extremadamente nítidos, incluso en la oscuridad, gracias a la función de visión nocturna "clara como el día", rendimiento aún más eficaz con la iluminación IR y un algoritmo de procesamiento de imágenes de calidad profesional
 - Modo de privacidad fácil de activar: toca la función de privacidad en la vista previa de la cámara para ocultar el objetivo si se necesita
 - Tipo de medio: Micro SD
 - Detección automática de movimiento: Ranger Pro es capaz de rastrear automáticamente todo tipo de actividades, grabar vídeos en tiempo real y enviar notificaciones instantáneas a tu smartphone en caso de detección de movimiento
-- Estándares de protección de datos personales de nivel bancario: entre los primeros fabricantes del sector para cumplir con el GPR nuestra empresa ha implementado servidores locales en Europa y adoptado una tecnología avanzada de cifrado TLS para proteger sus datos personales; de esta manera, solo usted puede acceder a los datos almacenados en la tarjeta microD, en la nube imou o en el grabador de vídeo. Malla
-- No te pierdas ningún detalle: los componentes ópticos de cristal con resolución Full HD de 1080p proporcionan imágenes y vídeos extremadamente nítidos, incluso en la oscuridad, gracias a la función de visión nocturna "clara como el día", rendimiento aún más eficaz con la iluminación IR y un algoritmo de procesamiento de imágenes de calidad profesional
 - Y asistencia: imou, marca mundialmente conocida en el sector de la seguridad inteligente, es una empresa subsidiaria de DAHUA technology centrada en el cliente que se ha ganado el segundo lugar en la clasificación "Security 50" de ABS en 2018. Estamos orgullosos de ofrecer una de 24 meses y asistencia técnica local durante toda la vida del producto
+- Estándares de protección de datos personales de nivel bancario: entre los primeros fabricantes del sector para cumplir con el GPR nuestra empresa ha implementado servidores locales en Europa y adoptado una tecnología avanzada de cifrado TLS para proteger sus datos personales; de esta manera, solo usted puede acceder a los datos almacenados en la tarjeta microD, en la nube imou o en el grabador de vídeo. Malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PYFY2RF/?tag=tolees-21)
