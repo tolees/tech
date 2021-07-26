@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo D27-30 - Monitor de 27"  Pantalla con un 15.63 % de descuento'
-date: 2021-07-22 22:29:50
+date: 2021-07-26 16:20:22
 image: 'https://m.media-amazon.com/images/I/41bpubSH4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21'
 descuento: '15.63'
-average: '147.212222222221'
+average: '145.989999999999'
 ---
 
 En este momento está [Lenovo D27-30 - Monitor de 27"  Pantalla FullHD  FreeSync  Gaming  75 Hz  5 ms  Cable HDMI + VGA  3 lados sin bordes  Color negro](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21) a 134.99 EUR (original: 159.99 EUR) (15.63 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Lenovo D27-30 - Monitor de 27"  Pantalla FullHD  FreeSync
 
 🔎:
 
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- 4 ms: con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 - Ajuste en inclinación de -5° a 22°
-- Monitor de 27" con resolución FullHD (1920 x 1080 píxeles) y tecnología EyeComfort para cuidar tu vista
+- 4 ms: con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 - Puertos HDMI y VGA, y cable HDMI incluido
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Monitor de 27" con resolución FullHD (1920 x 1080 píxeles) y tecnología EyeComfort para cuidar tu vista
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21)
