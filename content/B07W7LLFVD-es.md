@@ -28,13 +28,13 @@ Ahora mismo tienes [Logitech MX Keys Advanced Teclado Inalámbrico  Bluetooth  C
 
 🔎:
 
-- Flow y Control entre Varios Ordenadores: MX Keys funciona en varios ordenadores con un flujo de trabajo fluido; escribe, copia y pega sin interrupciones en dos ordenadores
-- Iluminación Inteligente: Las teclas se iluminan al detectar la proximidad de las manos; y la retroiluminación se ajusta automáticamente según las condiciones de iluminación existentes
-- Prueba el Teclado Logitech CRAFT: Con disco selector creativo para acceder a funciones contextuales específicas; personaliza perfiles para tus aplicaciones favoritas
-- Teclas para Pulsaciones óptimas: Las teclas cóncavas reflejan la forma de las yemas de los dedos, para una respuesta adecuada con cada pulsación que es fluida, natural, rápida y precisa
 - Comodidad y Durabilidad: Escribe con confianza en un teclado diseñado para obtener eficacia, estabilidad y precisión, además de durabilidad
 - Compatibilidad: MX Keys es compatible con sistemas Windows, Mac Os, Linux, iPad OS y Android; requiere un ratón compatible con Logitech Flow y el software Logitech Options
-- Multidispositivo y Multisistema Operativo: MX Keys se puede emparejar, mediante bluetooth de bajo consumo o USB Unifying, con hasta tres dispositivos entre los que alternar con sólo pulsar un botón
+- Prueba el Teclado Logitech CRAFT: Con disco selector creativo para acceder a funciones contextuales específicas; personaliza perfiles para tus aplicaciones favoritas
+- Teclas para Pulsaciones óptimas: Las teclas cóncavas reflejan la forma de las yemas de los dedos, para una respuesta adecuada con cada pulsación que es fluida, natural, rápida y precisa
 - La compra de este producto incluye 2 meses gratuitos de Photoshop & Lightroom o 1 mes en ambas aplicaciones. Valorado en 58€. Válido hasta el 31/03/2021.
+- Iluminación Inteligente: Las teclas se iluminan al detectar la proximidad de las manos; y la retroiluminación se ajusta automáticamente según las condiciones de iluminación existentes
+- Flow y Control entre Varios Ordenadores: MX Keys funciona en varios ordenadores con un flujo de trabajo fluido; escribe, copia y pega sin interrupciones en dos ordenadores
+- Multidispositivo y Multisistema Operativo: MX Keys se puede emparejar, mediante bluetooth de bajo consumo o USB Unifying, con hasta tres dispositivos entre los que alternar con sólo pulsar un botón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7LLFVD/?tag=tolees-21)
