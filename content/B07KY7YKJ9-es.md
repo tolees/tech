@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Audio-Technica ATH-SR30BT - Auriculares  al 19.65 % de rebaja'
-date: 2021-07-23 07:16:25
+date: 2021-07-26 20:22:32
 image: 'https://m.media-amazon.com/images/I/31OfKWJ7-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Tienes [Audio-Technica ATH-SR30BT - Auriculares Inalámbricos  Diseño plano ple
 
 🔎:
 
+- Duración en transmisión continua (reproducción de música): 70 horas máximo aprox. 1
 - Peso: 193 gr (6.8 oz) aprox
 - Cable de carga usb (30 cm (12") usb tipo a / micro usb tipo b)
-- Experimente sonido puro y claro
-- Respuesta en frecuencia del micrófono: 100 - 10.000 hz
-- Duración en transmisión continua (reproducción de música): 70 horas máximo aprox. 1
-- Diseño plano plegable, ligero para fácil itar su transporte
 - 70 horas de autonomía con una sola carga
-- Respuesta en frecuencia: 5 - 35.000 hz
-- Controles táctiles que permiten gestionar fácilmente llamadas y música
+- Respuesta en frecuencia del micrófono: 100 - 10.000 hz
 - Patrón polar del micrófono: omnidireccional
+- Diseño plano plegable, ligero para fácil itar su transporte
+- Experimente sonido puro y claro
+- Controles táctiles que permiten gestionar fácilmente llamadas y música
+- Respuesta en frecuencia: 5 - 35.000 hz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KY7YKJ9/?tag=tolees-21)
