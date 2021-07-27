@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12  128 GB  - Azul con un 16.68 % de descuento'
-date: 2021-07-26 18:10:08
+date: 2021-07-27 18:55:47
 image: 'https://m.media-amazon.com/images/I/41xssMLI2DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple iPhone 12  128 GB  - Azul](https://www.amazo
 
 🔎:
 
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
-- A14 Bionic, el chip más veloz en un smartphone
 - Pantalla Super Retina XDR de 6,1 pulgadas
-- Resistencia al agua IP68, líder en el sector
-- 0.0
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- A14 Bionic, el chip más veloz en un smartphone
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- 0.0
+- Resistencia al agua IP68, líder en el sector
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L5S3XNM/?tag=tolees-21)
