@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - El Castigador/El Castigador 2: Zo con un 25.35 % de descuento'
-date: 2021-07-14 13:27:48
+date: 2021-07-27 16:55:59
 image: 'https://m.media-amazon.com/images/I/51xkU63DfwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
