@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Batería externa REDMI 18W FAST CH al 31.32 % de descuento'
-date: 2021-07-26 13:29:59
+date: 2021-07-28 14:00:32
 image: 'https://m.media-amazon.com/images/I/31E9WjQ5XIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08861XCML/?tag=tolees-21'
 descuento: '31.32'
-average: '20.6010714285715'
+average: '20.5758620689656'
 ---
 
 Está [Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK - 20000MAH - ENTRADA MICRO USB / USB TIPO-C - SALIDA 2* USB-A](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21) con 31.32 de descuento por 19.87 EUR (original: 28.93 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK - 20000MAH - ENTRADA 
 
 ℹ️:
 
+- 15.4 x 7.4 x 2.7 centímetros
 - 4 puertos
 - Conector USB, Micro USB
 - 20000mAh
-- 15.4 x 7.4 x 2.7 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21)
