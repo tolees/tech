@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cable de Conector Lightning a USB  al 51.74 % de descuento'
-date: 2021-07-18 17:38:49
+date: 2021-07-28 20:52:22
 image: 'https://m.media-amazon.com/images/I/211Pm6k-WmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21'
 descuento: '51.74'
-average: '19.6075862068965'
+average: '19.5169999999999'
 ---
 
 Está [Apple Cable de Conector Lightning a USB  2m ](https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21) con 51.74 de descuento por 16.89 EUR (original: 35.0 EUR) en el siguiente enlace!
