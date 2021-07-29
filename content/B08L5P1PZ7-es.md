@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12  64 GB  - en Negro al 18.14 % de descuento'
-date: 2021-07-25 16:47:14
+date: 2021-07-29 09:11:52
 image: 'https://m.media-amazon.com/images/I/31SOygUjpUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21'
 descuento: '18.14'
-average: '756.096363636364'
+average: '755.098333333334'
 ---
 
 Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21) a 744.12 EUR (original: 909.0 EUR) (18.14 %  de descuento) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [Nuevo Apple iPhone 12  64 GB  - en Negro](https://www.amazo
 
 🔎:
 
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- A14 Bionic, el chip más veloz en un smartphone
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Resistencia al agua IP68, líder en el sector
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- A14 Bionic, el chip más veloz en un smartphone
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Pantalla Super Retina XDR de 6,1 pulgadas
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Resistencia al agua IP68, líder en el sector
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5P1PZ7/?tag=tolees-21)
