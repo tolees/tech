@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - Green Cell Batería DELL MR90Y para DELL In
 
 🔎:
 
-- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 - La última electrónica y las últimas protecciones hacen que la batería funcione perfectamente con el ordenador portátil, tal como la batería original
-- Capacidad: 4400 mAh | Tensión: 11.1V | Color: Negro
-- Compatible con los ordenadores portátiles: Dell Inspiron 15, Dell Inspiron 3521, Dell Inspiron 3537, Dell Inspiron 3542, Dell Inspiron 3543, Dell Inspiron 15R, Dell Inspiron 5521, Dell Inspiron 5537, Dell Inspiron 17R, Dell Inspiron 5721, Dell Inspiron 5737, Dell Inspiron 5749, Dell Inspiron 3721, Dell Inspiron 3737, Dell Inspiron 15, Dell Inspiron 3531, Dell Inspiron 3541, Dell Inspiron M531R, Dell Inspiron 5535, Dell Inspiron M731R, Inspiron 5735, Latitude 3440, Latitude 3540, Vostro 2521
 - Batería de la renombrada marca Green Cell 100% compatible con la batería Dell MR90Y
+- Compatible con los ordenadores portátiles: Dell Inspiron 15, Dell Inspiron 3521, Dell Inspiron 3537, Dell Inspiron 3542, Dell Inspiron 3543, Dell Inspiron 15R, Dell Inspiron 5521, Dell Inspiron 5537, Dell Inspiron 17R, Dell Inspiron 5721, Dell Inspiron 5737, Dell Inspiron 5749, Dell Inspiron 3721, Dell Inspiron 3737, Dell Inspiron 15, Dell Inspiron 3531, Dell Inspiron 3541, Dell Inspiron M531R, Dell Inspiron 5535, Dell Inspiron M731R, Inspiron 5735, Latitude 3440, Latitude 3540, Vostro 2521
+- Capacidad: 4400 mAh | Tensión: 11.1V | Color: Negro
+- Las celdas originales Li-Ion Green Cell garantizan un tiempo de trabajo prolongado con la batería y su alta durabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LZVJEC7/?tag=tolees-21)
