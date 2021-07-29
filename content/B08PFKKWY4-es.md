@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Envy X360 13-ay0004ns - Ordenador por al 15.00 % de rebaja'
-date: 2021-07-19 09:37:22
+date: 2021-07-29 20:45:24
 image: 'https://m.media-amazon.com/images/I/41sX-BWAx-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [HP Envy X360 13-ay0004ns - Ordenador portátil de 13.3" FullHD  Ryzen 7-
 
 🔎:
 
-- Procesador Ryzen 7-4700U
 - Almacenamiento de 512GB SSD
-- 16GB de memoria RAM
+- Procesador Ryzen 7-4700U
+- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
 - Windows 10
 - Pantalla de 13.3" FullHD
-- Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
+- 16GB de memoria RAM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PFKKWY4/?tag=tolees-21)
