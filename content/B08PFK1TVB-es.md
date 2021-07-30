@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion Gaming 16-a0043ns - Ordenado al 16.67 % de descuento'
-date: 2021-07-21 20:16:31
+date: 2021-07-30 10:14:23
 image: 'https://m.media-amazon.com/images/I/41jX8b+NVcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [HP Pavilion Gaming 16-a0043ns - Ordenador portátil de 16.1" FullHD de 14
 
 ℹ️:
 
-- Disco SSD de 512 GB PCIe NVMe M.2
-- Tarjeta grafica NVIDIA GeForce RTX 2060 con diseño Max-Q (GDDR6 de 6 GB dedicada)
 - Memoria RAM 16 GB (2 x 8 GB)
+- Disco SSD de 512 GB PCIe NVMe M.2
+- Procesador Intel Core i7-10750H (frecuencia base de 2.6 GHz, hasta 5.0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
 - Sin sistema operativo
 - Pantalla de 40.9 cm (16.1") diagonal, FullHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 300 nits, 72% NTSC
-- Procesador Intel Core i7-10750H (frecuencia base de 2.6 GHz, hasta 5.0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
+- Tarjeta grafica NVIDIA GeForce RTX 2060 con diseño Max-Q (GDDR6 de 6 GB dedicada)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFK1TVB/?tag=tolees-21)
