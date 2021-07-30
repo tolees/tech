@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 - Ordenador Portátil 15 al 17.28 % de descuento'
-date: 2021-07-28 17:34:41
+date: 2021-07-30 14:33:17
 image: 'https://m.media-amazon.com/images/I/41Zji8PeaRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD  AMD Ryzen 7 3700U  8
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 3700U (4C / 8T, 2.3 / 4.0GHz, 2MB L2 / 4MB L3)
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
-- Tarjeta gráfica Integrada AMD Radeon RX Vega 10 Graphics
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
 - Memoria RAM de 8GB (4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400)
+- Tarjeta gráfica Integrada AMD Radeon RX Vega 10 Graphics
+- Procesador AMD Ryzen 7 3700U (4C / 8T, 2.3 / 4.0GHz, 2MB L2 / 4MB L3)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TN1ZSML/?tag=tolees-21)
