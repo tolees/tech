@@ -29,9 +29,9 @@ En este momento está [Lenovo Mini PC  Desktop Computer  ThinkCentre M93p USDT T
 🔎:
 
 - Nuevo y rápido disco duro SSD de 240 GB con gran memoria, 8 GB, WiFi.
-- Procesador de primera clase con hasta 4 x 3,6 GHz, fiable y potente Intel Core i5-4570t.
+- Mini PC de alta calidad, factor de forma pequeña, silencioso y de bajo consumo.
 - PC de alta calidad para oficina, hogar, escuela, oficina en casa y negocios.
 - Microsoft Software Windows 10 Pro 64 bits totalmente configurado.
-- Mini PC de alta calidad, factor de forma pequeña, silencioso y de bajo consumo.
+- Procesador de primera clase con hasta 4 x 3,6 GHz, fiable y potente Intel Core i5-4570t.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L9T18SW/?tag=tolees-21)
