@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony - Los Tudor - Temporadas 1-4 [DVD] al 19.60 % de descuento'
-date: 2021-07-26 15:57:22
+title: 'Sony - Los Tudor - Temporadas 1-4 [DVD] al 19.24 % de descuento'
+date: 2021-07-29 22:11:57
 image: 'https://m.media-amazon.com/images/I/51dfwP2ejoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'DVD','Erótico','Featured Categories','Histórico','Películas','Pelíc
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39
-comparePrice: 45.26 EUR
+comparePrice: 45.06 EUR
 prodname: 'Sony - Los Tudor - Temporadas 1-4 [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07CPCFVGN/?tag=tolees-21'
-descuento: '19.60'
+descuento: '19.24'
 average: '36.39'
 ---
 
-Ahora mismo tienes [Sony - Los Tudor - Temporadas 1-4 [DVD]](https://www.amazon.es/dp/B07CPCFVGN/?tag=tolees-21) a 36.39 EUR (original: 45.26 EUR) (19.60 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony - Los Tudor - Temporadas 1-4 [DVD]](https://www.amazon.es/dp/B07CPCFVGN/?tag=tolees-21) a 36.39 EUR (original: 45.06 EUR) (19.24 %  de descuento) en el siguiente enlace!
 
 [![Sony - Los Tudor - Temporadas 1-4 [DVD]](https://m.media-amazon.com/images/I/51dfwP2ejoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CPCFVGN/?tag=tolees-21)
 
