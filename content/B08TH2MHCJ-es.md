@@ -28,10 +28,10 @@ Ahora mismo tienes [Zelotes Ratón inalámbrico 2 4 G  ratón inalámbrico con r
 
 🔎:
 
-- Este ratón adopta el chip de ahorro de energía de clase superior, 5 veces de ahorro de energía que los ratones inalámbricos normales. (1 pila AA. La batería no está incluida en el envío)
-- Compatible con Windows 10/8/7, Windows XP, Vista, Mac OS. Con buena calidad, este producto es ganado por el mercado europeo, japonés y americano.
-- Función de DPI ajustable: 1200/2400/3200, puedes cambiar fácilmente la velocidad del ratón
 - Adopta la tecnología inalámbrica de 2,4 GHz para garantizar un funcionamiento suave y disfrutar de juegos inalámbricos, alta precisión y elegante diseño moderno, estilo Cyborg, rueda de desplazamiento ultra precisa.
+- Función de DPI ajustable: 1200/2400/3200, puedes cambiar fácilmente la velocidad del ratón
 - Este ratón es la conectividad inteligente, sin necesidad de código, plug & play, no necesita controlador de CD
+- Compatible con Windows 10/8/7, Windows XP, Vista, Mac OS. Con buena calidad, este producto es ganado por el mercado europeo, japonés y americano.
+- Este ratón adopta el chip de ahorro de energía de clase superior, 5 veces de ahorro de energía que los ratones inalámbricos normales. (1 pila AA. La batería no está incluida en el envío)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TH2MHCJ/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Xiaomi Batería externa REDMI 18W FAST CHARGE BLACK - 20000MAH - ENTRADA 
 
 ℹ️:
 
+- 4 puertos
+- 20000mAh
 - Conector USB, Micro USB
 - 15.4 x 7.4 x 2.7 centímetros
-- 20000mAh
-- 4 puertos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08861XCML/?tag=tolees-21)
