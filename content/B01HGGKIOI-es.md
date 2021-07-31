@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair K65 Rapidfire RGB Teclado Mecáni al 33.34 % de descuento'
-date: 2021-07-30 18:44:59
+date: 2021-07-31 20:36:10
 image: 'https://m.media-amazon.com/images/I/41GnNn5HTpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B01HGGKIOI/?tag=tolees-21'
 descuento: '33.34'
-average: '102.655333333333'
+average: '102.48875'
 ---
 
 Está [Corsair K65 Rapidfire RGB Teclado Mecánico Gaming  Cherry MX Speed  Rápido y Altamente Preciso  Retroiluminación Multicolor LED RGB  Estructura de Aluminio Anodizado  QWERTY Español  color Negro](https://www.amazon.es/dp/B01HGGKIOI/?tag=tolees-21) con 33.34 de descuento por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Corsair K65 Rapidfire RGB Teclado Mecánico Gaming  Cherry MX Speed  Ráp
 
 ℹ️:
 
-- Atención: el teclado no tiene teclas numéricas
-- Fluctuaciones y ondulaciones: personaliza la paleta de color, dirección, duración y velocidad, y haz fluir las ondas por todo el teclado o solo en las teclas que desees
 - Iluminación estática: cambia cualquier tecla del teclado a la configuración de color y brillo que prefieras; puedes crear, guardar y cargar patrones personalizados para tus juegos favoritos
-- Cambio de color: cambia de color con las diversas paletas de color y la velocidad que desees; puedes definir el cambio de color en todo el teclado o solo en las teclas que decidas
+- Atención: el teclado no tiene teclas numéricas
 - Escritura reactiva: configura la escritura reactiva para una única tecla o crea un efecto de ondulación en varias teclas
+- Fluctuaciones y ondulaciones: personaliza la paleta de color, dirección, duración y velocidad, y haz fluir las ondas por todo el teclado o solo en las teclas que desees
+- Cambio de color: cambia de color con las diversas paletas de color y la velocidad que desees; puedes definir el cambio de color en todo el teclado o solo en las teclas que decidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HGGKIOI/?tag=tolees-21)
