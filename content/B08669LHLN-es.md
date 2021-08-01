@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabra Elite 75t  Carga inalámbrica Auric al 50.98 % de rebaja'
-date: 2021-07-31 10:12:20
+date: 2021-08-01 16:36:50
 image: 'https://m.media-amazon.com/images/I/41IBWNOi5PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
