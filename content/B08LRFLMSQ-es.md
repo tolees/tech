@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION Classmate E11201 - Ordenador port con un 23.67 % de descuento'
-date: 2021-07-31 06:50:42
+date: 2021-08-02 12:12:26
 image: 'https://m.media-amazon.com/images/I/41Uw2gbFdSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEDION'
 buyurl: 'https://www.amazon.es/dp/B08LRFLMSQ/?tag=tolees-21'
 descuento: '23.67'
-average: '245.757142857143'
+average: '245.587777777778'
 ---
 
 En este momento está [MEDION Classmate E11201 - Ordenador portátil para educación de 11 6" HD  Intel Celeron N3450  4GB de RAM  64GB eMMC  Intel HD Graphics  Windows 10 Pro Academic  Color Blanco - Teclado Qwerty Español](https://www.amazon.es/dp/B08LRFLMSQ/?tag=tolees-21) a 228.99 EUR (original: 299.99 EUR) (23.67 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [MEDION Classmate E11201 - Ordenador portátil para educac
 
 🔎:
 
-- Diseño rugerizado: resistente a caídas (hasta 100cm) y derrames de agua (hasta 200cc en el teclado y touchpad).
-- Almacenamiento de 64GB eMMC Memoria Flash.
-- Procesador Intel Celeron N3450 QC (4 núcleos, 2 MB L2 Cache, 1.10 GHz hasta 2.20 GHz).
-- Pantalla de 11.6 pulgadas HD, resolución de 1366 x 768 píxeles.
-- Batería de larga duración (hasta 8h), 5000mAh.
-- Sistema Operativo Windows 10 Pro Academic.
-- Tarjeta gráfica integrada Intel HD Graphics.
 - Memoria RAM de 4GB DDR3L.
+- Batería de larga duración (hasta 8h), 5000mAh.
+- Tarjeta gráfica integrada Intel HD Graphics.
+- Almacenamiento de 64GB eMMC Memoria Flash.
+- Sistema Operativo Windows 10 Pro Academic.
+- Pantalla de 11.6 pulgadas HD, resolución de 1366 x 768 píxeles.
+- Procesador Intel Celeron N3450 QC (4 núcleos, 2 MB L2 Cache, 1.10 GHz hasta 2.20 GHz).
+- Diseño rugerizado: resistente a caídas (hasta 100cm) y derrames de agua (hasta 200cc en el teclado y touchpad).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LRFLMSQ/?tag=tolees-21)
