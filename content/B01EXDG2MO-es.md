@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG108 V3.0  Switch de Escrito al 21.67 % de descuento'
-date: 2021-07-31 15:25:23
+date: 2021-08-03 06:42:16
 image: 'https://m.media-amazon.com/images/I/4120OD7wqJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21'
 descuento: '21.67'
-average: '23.0318444444445'
+average: '23.0328603104213'
 ---
 
 Ahora mismo tienes [TP-Link TL-SG108 V3.0  Switch de Escritorio Red  10/100/1000 Mbps  Carcasa de Acero  IEEE 802.3 X  Auto-MDI/MDIX  Plug and Play  Ahorro de Energía  Puertos RJ45  Fácil de Usar   8 Puertos Gigabit](https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21) a 23.49 EUR (original: 29.99 EUR) (21.67 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [TP-Link TL-SG108 V3.0  Switch de Escritorio Red  10/100/1000
 🔎:
 
 - Carcasa de metal, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
-- 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
-- Tecnología verde ethernet ahorra consumo de energía
-- [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
 - [Switch gigabit de 8 puertos] - 8 puertos RJ45 10/100/1000Mbps con detección automática de velocidad, soporte para MDI/MDIX automático
+- 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
+- [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
+- Tecnología verde ethernet ahorra consumo de energía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01EXDG2MO/?tag=tolees-21)
