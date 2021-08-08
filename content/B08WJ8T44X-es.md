@@ -28,11 +28,11 @@ Tienes [Impresora Multifunción HP OfficeJet Pro 8022e - 6 meses de impresión I
 
 🔎:
 
-- ELIGE HP+ en la configuración y OBTÉN 1 AÑO ADICIONAL DE GARANTÍA y 6 MESES DE INSTANT INK INCLUIDOS, si te registras a Instant Ink en los 7 días posteriores a la configuración de la impresora; Instant Ink es un servicio de impresión con el que recibes los cartuchos en casa, antes de quedarte sin tinta, con reciclaje incluido y sin preocuparte de nada. Incluye la tinta, el envío y el reciclaje desde solo 0,99 €/mes
-- LA MEJOR OPCIÓN PARA LAS PYMES Y LA OFICINA DOMÉSTICA; Imprime, escanea, copia y envía por fax en blanco & negro y en color; la velocidad de impresión es de 20 ppm en negro y de 10 ppm en color
 - Alimentador automático de documentos de 35 hojas, Impresión a doble cara de forma automática, Wi-Fi de doble banda con restablecimiento automático, Wi-Fi Direct, HP Smart App, USB 2.0 y Apple AirPrint
-- Esta impresora es compatible con los cartuchos de inyección de tinta originales HP 912 Negro, HP 912 Amarillo, HP 912 Cian, HP 912 Magenta, HP 912XL Negro, HP 912XL Amarillo, HP 912XL Cian, HP 912XL Magenta y HP 917XL Negro
-- DESCUBRE HP+, la solución de impresión más inteligente; CÓMODA: la impresora solicita tinta automáticamente antes de que se agote; SEGURA y SENCILLA: es más segura y te permite ser más productivo gestionando todo fácilmente, incluso desde el móvil, gracias a la app HP Smart; SOSTENIBLE: utiliza cartuchos ecodiseñados, +80 % de los cartuchos de Tinta Original HP contienen plástico reciclado
 - HP+ requiere una cuenta de HP, una conexión permanente a Internet y el uso exclusivo de Tinta Original HP durante toda la vida útil de la impresora; Más información legal en la página de HP en la sección de HP+
+- ELIGE HP+ en la configuración y OBTÉN 1 AÑO ADICIONAL DE GARANTÍA y 6 MESES DE INSTANT INK INCLUIDOS, si te registras a Instant Ink en los 7 días posteriores a la configuración de la impresora; Instant Ink es un servicio de impresión con el que recibes los cartuchos en casa, antes de quedarte sin tinta, con reciclaje incluido y sin preocuparte de nada. Incluye la tinta, el envío y el reciclaje desde solo 0,99 €/mes
+- DESCUBRE HP+, la solución de impresión más inteligente; CÓMODA: la impresora solicita tinta automáticamente antes de que se agote; SEGURA y SENCILLA: es más segura y te permite ser más productivo gestionando todo fácilmente, incluso desde el móvil, gracias a la app HP Smart; SOSTENIBLE: utiliza cartuchos ecodiseñados, +80 % de los cartuchos de Tinta Original HP contienen plástico reciclado
+- LA MEJOR OPCIÓN PARA LAS PYMES Y LA OFICINA DOMÉSTICA; Imprime, escanea, copia y envía por fax en blanco & negro y en color; la velocidad de impresión es de 20 ppm en negro y de 10 ppm en color
+- Esta impresora es compatible con los cartuchos de inyección de tinta originales HP 912 Negro, HP 912 Amarillo, HP 912 Cian, HP 912 Magenta, HP 912XL Negro, HP 912XL Amarillo, HP 912XL Cian, HP 912XL Magenta y HP 917XL Negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WJ8T44X/?tag=tolees-21)
