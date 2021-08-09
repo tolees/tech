@@ -28,8 +28,8 @@ Está [SanDisk Plus - Disco sólido interno de 120 GB  SATA III  6.35 cm  con ha
 
 ℹ️:
 
-- Hasta 20 veces más rápido que una unidad de disco duro típica.
 - Velocidades de lectura secuenciales de hasta 530 MB / s. Velocidades de escritura secuencial de hasta 310MB / s.
+- Hasta 20 veces más rápido que una unidad de disco duro típica.
 - Aumenta el rendimiento de escritura en ráfagas, por lo que es ideal para cargas de trabajo típicas de PC.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07621PNWC/?tag=tolees-21)
