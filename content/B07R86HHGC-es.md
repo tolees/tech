@@ -30,8 +30,8 @@ Está [Alcatel 5033D 1 2019  Smartphone - Pantalla 5" - Cámara trasera 5MP y fr
 
 - Wi-Fi 802.11b/g/n, Wi-Fi direct, Wi-Fi hotspot Radio FM, Bluetooth 4.2
 - Pantalla de 5" 960x480 píxeles Formato 18:9
+- Sistema operativo Android Go Edition
 - Cámara trasera de 5MP, flash. Captura de vídeo 1080p 30fps. Funciones: HDR, EIS, Panorámica, Ráfaga, Modo noche
 - Memoria: interna 8GB +1GB de RAM. Ampliable con Micro SD hasta 32GB
-- Sistema operativo Android Go Edition
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R86HHGC/?tag=tolees-21)
