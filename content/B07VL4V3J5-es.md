@@ -28,9 +28,9 @@ Tienes [MARSGAMING - Mars Gaming MMW  Ratón para Pc Inalámbrico 3200Dpi  Rgb F
 
 ℹ️:
 
-- Ratón gaming inalámbrico con iluminación rgb flow y 3200 dpi
 - Sensor óptico 3200 dpi con botón de cambio on-the-fly con 3 perfiles distintos (800/1600/3200)
 - Receptor inalámbrico usb en la parte inferior del ratón; requiere una pila aa (no incluida)
+- Ratón gaming inalámbrico con iluminación rgb flow y 3200 dpi
 - Iluminación rgb flow y estructura ergonómica con acabado soft-touch
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VL4V3J5/?tag=tolees-21)
