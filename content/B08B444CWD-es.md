@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Extra Bass SRSXB23L.CE7 - Altavoz B al 32.24 % de rebaja'
-date: 2021-08-08 17:18:28
+date: 2021-08-10 11:45:30
 image: 'https://m.media-amazon.com/images/I/414aJADboqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08B444CWD/?tag=tolees-21'
 descuento: '32.24'
-average: '76.011914893617'
+average: '75.84'
 ---
 
 Tienes [Sony Extra Bass SRSXB23L.CE7 - Altavoz Bluetooth  Azul](https://www.amazon.es/dp/B08B444CWD/?tag=tolees-21) con precio final de  67.76 EUR (original: 100.0 EUR) (32.24 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony Extra Bass SRSXB23L.CE7 - Altavoz Bluetooth  Azul](https://www.amaz
 
 🔎:
 
-- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
 - El SRS-XB23 es compacto, ligero y fácil de llevar, además con su correa incluida lo podrás llevar contigo a cualquier lugar
 - Controla tu altavoz de fiesta con tu smartphone vía las apps Fiestable y Sony o Music Center
-- Haz tu fiesta aún más grande, conecta hasta 100 altavoces inalámbricos compatibles o haz stereo pair
 - Altavoz portátil resistente al agua, al polvo, al óxido (IP67), al agua salada y a los golpes (hasta 1.2 m) con hasta 12h de batería
+- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
+- Haz tu fiesta aún más grande, conecta hasta 100 altavoces inalámbricos compatibles o haz stereo pair
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B444CWD/?tag=tolees-21)
