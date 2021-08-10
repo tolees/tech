@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tinxi® FT232RL FTDI USB a Serial TTL mód al 22.33 % de descuento'
-date: 2021-07-15 20:20:46
+date: 2021-08-10 07:57:48
 image: 'https://m.media-amazon.com/images/I/41RWDJqMBHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [tinxi® FT232RL FTDI USB a Serial TTL módulo Adaptador conv
 
 🔎:
 
-- Fuente de alimentación USB, puede elegir 5 V o 3,3 V, set por puente.
 - Definición de pines: DTR, RXD, TX, VCC, CTS, GND.
+- Fuente de alimentación USB, puede elegir 5 V o 3,3 V, set por puente.
 - Chip: FT232RL.
 - Con protección contra sobrecorriente, utilizando fusible de 500 mA de auto-restauración.
 - Indicador de comunicación del transceptor RXD/TXD
