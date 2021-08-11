@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'XIAOMI 360° Home Security Camera 2K Pro al 24.60 % de descuento'
-date: 2021-08-08 18:16:11
+title: 'XIAOMI 360° Home Security Camera 2K Pro al 26.34 % de descuento'
+date: 2021-08-10 23:52:21
 image: 'https://m.media-amazon.com/images/I/310t6O3gvjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B08P5G51GN-es XIAOMI 360° Home Security Camera 2K Pro'
 sku: 'B08P5G51GN-es'
 tags: [ 'Cámaras de vigilancia','Cámaras de vigilancia en domo','Electrónica','Fotografía y videocámaras','xiaomi', ]
-actualPrice: 45.23 EUR
+actualPrice: 44.19 EUR
 currency: EUR
-price: 45.23
+price: 44.19
 comparePrice: 59.99 EUR
 prodname: 'XIAOMI 360° Home Security Camera 2K Pro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08P5G51GN/?tag=tolees-21'
-descuento: '24.60'
-average: '45.3857142857143'
+descuento: '26.34'
+average: '45.306'
 ---
 
-Está [XIAOMI 360° Home Security Camera 2K Pro](https://www.amazon.es/dp/B08P5G51GN/?tag=tolees-21) con 24.60 de descuento por 45.23 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [XIAOMI 360° Home Security Camera 2K Pro](https://www.amazon.es/dp/B08P5G51GN/?tag=tolees-21) con 26.34 de descuento por 44.19 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![XIAOMI 360° Home Security Camera 2K Pro](https://m.media-amazon.com/images/I/310t6O3gvjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08P5G51GN/?tag=tolees-21)
 
 ℹ️:
 
+- Nueva IA Detección humana. Nueva generación de humanos con IA localalgoritmo de detección, no es necesario cargarel video a la nube para más rápido yreconocimiento más seguro.360V isión significa protección total en el hogarEl cabezal de motor dual permitecámara para girar y capturar un 360vista horizontal y 118 vista vertical
+- Mi 360° Home Security Camera 2K Pro * Resolución 2K(2304*1296), apertura F1.4*  360º horizontal, 118 vertical* Deteción de movimiento AI* One-clik esconder cámara* Mic cancelación de ruido* Detección Baby crying* Dual band wifi 2.4G/5G
+- Haga clic en Escudo de privacidadUso simple de bloqueo físico de lentes paragarantizar la total privacidad mientras se queda en casaDobleconexión Wi Fi de bandaAdmite Wi Fi de 2,4 GHz / 5 GHzconexión para reducir la interferencia de la señaly garantizar una conexión estableInstalar en pcVertical o invertidoLa cámara está preinstalada con elbase de rotación y se puede colocar en unmesa, ventana, techo o pared.
 - Doble Micrófonos con cancelación de ruido para una conversación más claraAdmite conversación de audio bidireccional y activala tecnología de reducción de ruido eliminael eco del altavoz y mejora elexperiencia de comunicaciónConstruidoen la puerta de enlace Bluetooth para el hogar inteligenteConéctese a dispositivos Bluetooth para obtener másdomótica completa y remotaexperiencia de seguimiento.
 - Cada detalle con claridad nítida 2K . Acerque los objetos y capture con mayor claridaddetalles y colores con resolución 2304 1296.F1.4Gran apertura y lente 6PLa gran apertura asegura una luz adecuadaIngesta para capturar los detalles de la imagen.Lente completamente mejorada para ofrecer unay delicada imagen.Visión nocturna en color mejoradacon poca luzLos LED infrarrojos invisibles de 940 nm le ofrecenvisión nocturna mejorada sin hacer ningúninterrupción; ver el video a todo color inclusocon poca luz.
-- Mi 360° Home Security Camera 2K Pro * Resolución 2K(2304*1296), apertura F1.4*  360º horizontal, 118 vertical* Deteción de movimiento AI* One-clik esconder cámara* Mic cancelación de ruido* Detección Baby crying* Dual band wifi 2.4G/5G
-- Nueva IA Detección humana. Nueva generación de humanos con IA localalgoritmo de detección, no es necesario cargarel video a la nube para más rápido yreconocimiento más seguro.360V isión significa protección total en el hogarEl cabezal de motor dual permitecámara para girar y capturar un 360vista horizontal y 118 vista vertical
-- Haga clic en Escudo de privacidadUso simple de bloqueo físico de lentes paragarantizar la total privacidad mientras se queda en casaDobleconexión Wi Fi de bandaAdmite Wi Fi de 2,4 GHz / 5 GHzconexión para reducir la interferencia de la señaly garantizar una conexión estableInstalar en pcVertical o invertidoLa cámara está preinstalada con elbase de rotación y se puede colocar en unmesa, ventana, techo o pared.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P5G51GN/?tag=tolees-21)
