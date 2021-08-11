@@ -28,10 +28,10 @@ Tienes [Samsung Smartphone Galaxy A52 con Pantalla Infinity-O FHD+ de 6 5 Pulgad
 
 ℹ️:
 
-- Cámara cuádruple: ajusta la profundidad de campo con la cámara de profundidad o descubre detalles con la cámara macro
-- Cámara cuádruple: tome fotografías de alta resolución, nítidas y nítidas con la cámara principal de 64 MP con OIS
-- Con dos altavoces (uno en la parte superior y otro en la parte inferior) para que puedas disfrutar de un sonido envolvente sin auriculares y sumergirte en el paisaje sonoro
-- Con un potente procesador octa-core, hasta 8 GB de RAM, 256 GB de almacenamiento (tarjeta microSD para ampliar el almacenamiento en hasta 1 TB)
 - Samsung Knox integrado tanto en el software como en el hardware del teléfono que proporciona una fuerte seguridad desde la primera vez que lo enciende
+- Cámara cuádruple: tome fotografías de alta resolución, nítidas y nítidas con la cámara principal de 64 MP con OIS
+- Cámara cuádruple: ajusta la profundidad de campo con la cámara de profundidad o descubre detalles con la cámara macro
+- Con un potente procesador octa-core, hasta 8 GB de RAM, 256 GB de almacenamiento (tarjeta microSD para ampliar el almacenamiento en hasta 1 TB)
+- Con dos altavoces (uno en la parte superior y otro en la parte inferior) para que puedas disfrutar de un sonido envolvente sin auriculares y sumergirte en el paisaje sonoro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WWM55SX/?tag=tolees-21)
