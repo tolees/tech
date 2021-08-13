@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.34 % en Sony BDP-S1700 Reproductor de Blu-Ray Fu'
-date: 2021-08-11 23:47:22
+title: 'Descuento del 29.58 % en Sony BDP-S1700 Reproductor de Blu-Ray Fu'
+date: 2021-08-12 23:56:46
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B01B7ABF00-es Sony BDP-S1700 Reproductor de Blu-Ray Full HD USB HDMI...'
 sku: 'B01B7ABF00-es'
 tags: [ 'Electrónica','Reproductores de Blu-ray','Reproductores y grabadores de Blu-ray','TV, vídeo y home cinema','full','hd','sony', ]
-actualPrice: 70.93 EUR
+actualPrice: 66.9 EUR
 currency: EUR
-price: 70.93
+price: 66.9
 comparePrice: 95.0 EUR
 prodname: 'Sony BDP-S1700 Reproductor de Blu-Ray Full HD  USB  HDMI  Ethernet  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21'
-descuento: '25.34'
-average: '75.2452350427348'
+descuento: '29.58'
+average: '75.2274413646053'
 ---
 
-Tienes [Sony BDP-S1700 Reproductor de Blu-Ray Full HD  USB  HDMI  Ethernet  Negro](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21) con un 25.34 % de descuento con precio de oferta de 70.93 EUR (original: 95.0 EUR) en el siguiente enlace!
+Tienes [Sony BDP-S1700 Reproductor de Blu-Ray Full HD  USB  HDMI  Ethernet  Negro](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21) con un 29.58 % de descuento con precio de oferta de 66.9 EUR (original: 95.0 EUR) en el siguiente enlace!
 
 [![Sony BDP-S1700 Reproductor de Blu-Ray Fu](https://m.media-amazon.com/images/I/31AIue1unYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21)
 
 ℹ️:
 
 - Interfaz de salida de video: HDMI
-- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
-- Disfruta de colores vivos con Triluminos Colour
 - Consumo de energía: 8.5 W
 - Disfruta de todas tus películas en calidad Full HD
+- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
+- Disfruta de colores vivos con Triluminos Colour
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21)
