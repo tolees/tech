@@ -28,9 +28,9 @@ En este momento está [Xiaomi Mi Handheld Vacuum Cleaner - Aspirador escoba  dur
 
 🔎:
 
-- Tiene motor eléctrico de CC sin escobillas que gira hasta 100,000 rpm
 - Duración de la batería hasta 30 minutos
-- Los cinco niveles de filtración le permiten eliminar el polvo fino del 99,97% (0,3 μm)
 - Los 9 ciclones generan un flujo de aire capaz de absorber el polvo fino y los alérgenos, evitando el bloqueo del filtro
+- Los cinco niveles de filtración le permiten eliminar el polvo fino del 99,97% (0,3 μm)
+- Tiene motor eléctrico de CC sin escobillas que gira hasta 100,000 rpm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SKK8NRK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [TicWatch GTX Fitness Smartwatch para hombres y mujeres  con 10 días de d
 
 ℹ️:
 
-- 14 modos de entrenamiento
 - Hasta 10 días de duración de la batería
 - Esferas de reloj personalizadas
 - Seguimiento del sueño
 - IP68 a prueba de agua y sudor
+- 14 modos de entrenamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FHXGP1N/?tag=tolees-21)
