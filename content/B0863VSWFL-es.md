@@ -28,15 +28,15 @@ En este momento está [2020 Apple iPad Pro  de 11 Pulgadas  con Wi-Fi y 512 GB
 
 🔎:
 
-- Cámara frontal TrueDepth de 7 Mpx
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Redes wifi 802.11ax y 4G LTE Advanced
-- Face ID para autenticarse de forma segura y usar Apple Pay
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
 - Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Conector USB-C para cargar el iPad y conectar accesorios
 - Chip A12Z Bionic con Neural Engine
+- Redes wifi 802.11ax y 4G LTE Advanced
+- Cámara frontal TrueDepth de 7 Mpx
+- Face ID para autenticarse de forma segura y usar Apple Pay
 - Hasta 10 horas de autonomía
-- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863VSWFL/?tag=tolees-21)
