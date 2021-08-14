@@ -28,10 +28,10 @@ Ahora mismo tienes [tinxi® FT232RL FTDI USB a Serial TTL módulo Adaptador conv
 
 🔎:
 
-- Chip: FT232RL.
 - Indicador de comunicación del transceptor RXD/TXD
 - Fuente de alimentación USB, puede elegir 5 V o 3,3 V, set por puente.
-- Con protección contra sobrecorriente, utilizando fusible de 500 mA de auto-restauración.
 - Definición de pines: DTR, RXD, TX, VCC, CTS, GND.
+- Con protección contra sobrecorriente, utilizando fusible de 500 mA de auto-restauración.
+- Chip: FT232RL.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C2P9GD2/?tag=tolees-21)

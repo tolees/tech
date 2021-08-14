@@ -28,15 +28,15 @@ Ahora mismo tienes [realme 7 5G - smartphone de 6.5  6GB RAM + 128GB de ROM  120
 
 🔎:
 
-- Batería de 5000mah
-- Realme ui; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0; Tipo de conector: type c
+- Cámara selfie de 16mp en pantalla
 - 5g chip (5g+5g dsds)
 - Carga rápida de 30w dart charge
-- Real design (diseño tipo espejo)
-- Lector de huella dactilar instantáneo (lateral)
-- Cámara selfie de 16mp en pantalla
-- Cámara de 48mp ai Quad camera
-- 120hz ultra smooth display
 - Dolby atmos hi-res audio
+- Lector de huella dactilar instantáneo (lateral)
+- Real design (diseño tipo espejo)
+- 120hz ultra smooth display
+- Realme ui; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0; Tipo de conector: type c
+- Cámara de 48mp ai Quad camera
+- Batería de 5000mah
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MR37F2D/?tag=tolees-21)
