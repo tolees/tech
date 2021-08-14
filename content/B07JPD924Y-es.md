@@ -28,11 +28,11 @@ Tienes [CooSpo Banda de Frecuencia Cardiaca Bluetooth 4.0 Ant+ Monitor Sensor de
 
 🔎:
 
-- Compatibilidad con Aplicaciones - Compatible con aplicaciones populares como Zwift, Endomondo, Runkeeper, IpBike, Nike+ Runclub, Peloton, Map My Run, elite hrv app, iCardio, DDP Yoga y más
-- Dispositivo incompatible- Redmi 6 pro, Redmi 7 pro, Motorola, Google pixel, Amazon Fire tablets.
-- QUE RECIBIRÁS - Un sensor de frecuencia cardíaca con pila de botón incluida, una correa de pecho negra, manual de usuario y servicio de atención al cliente de Coospo de por vida
-- Bluetooth y EMPAREJAMIENTO ANT+ - El dispositivo está integrado con Buletooth 4.0 y ANT+, lo que te permite emparejarlo con teléfonos inteligentes, tabletas, relojes GPS y ordenadores de bicicletas
 - CAPTURA DATOS EN TIEMPO REAL - El monitor de frecuencia cardíaca Coospo te ayuda a rastrear y capturar la frecuencia cardíaca en tiempo real, zonas de entrenamiento y calorías quemadas en tu smartphone o tableta en las aplicaciones para entrenamiento compatibles
+- Compatibilidad con Aplicaciones - Compatible con aplicaciones populares como Zwift, Endomondo, Runkeeper, IpBike, Nike+ Runclub, Peloton, Map My Run, elite hrv app, iCardio, DDP Yoga y más
 - Correas de repuesto: la longitud de la correa ajustable es de 25 a 36 pulgadas. Para una correa de reemplazo de otro tamaño o color, por favor busque B08FD6K5W9 y B08FD5T8ZG.
+- Dispositivo incompatible- Redmi 6 pro, Redmi 7 pro, Motorola, Google pixel, Amazon Fire tablets.
+- Bluetooth y EMPAREJAMIENTO ANT+ - El dispositivo está integrado con Buletooth 4.0 y ANT+, lo que te permite emparejarlo con teléfonos inteligentes, tabletas, relojes GPS y ordenadores de bicicletas
+- QUE RECIBIRÁS - Un sensor de frecuencia cardíaca con pila de botón incluida, una correa de pecho negra, manual de usuario y servicio de atención al cliente de Coospo de por vida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JPD924Y/?tag=tolees-21)
