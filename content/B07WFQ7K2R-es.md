@@ -29,9 +29,9 @@ Ahora mismo tienes [Fossil Smartwatch Pantalla Táctil para Mujer de Connected c
 🔎:
 
 - Funciona varios días con una única carga en modo de batería ampliada.
+- Los smartwatches que funcionan con la tecnología Wear OS by Google funcionan con teléfonos iPhoneⓇ¹ y Android
+- Seguimiento de actividad y frecuencia cardíaca, GPS incorporado para seguimiento de distancias, diseño apto para nadar
 - Acelera los pagos con tu reloj gracias a Google Pay
 - Ahora con un altavoz para alertas audibles y para coger llamadas de teléfono¹, respuestas de Google Assistant y mucho más. Recibe notificaciones y alertas en tu smartphone, gestiona tu calendario, controla tu música, personaliza la esfera de tu reloj y descarga aplicaciones de terceros con una capacidad de almacenamiento aún mayor.
-- Seguimiento de actividad y frecuencia cardíaca, GPS incorporado para seguimiento de distancias, diseño apto para nadar
-- Los smartwatches que funcionan con la tecnología Wear OS by Google funcionan con teléfonos iPhoneⓇ¹ y Android
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WFQ7K2R/?tag=tolees-21)
