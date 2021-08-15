@@ -28,11 +28,11 @@ En este momento está [ATUMTEK Palo Selfie Trípode 130cm – Palo Selfie para M
 
 🔎:
 
+- 📝Acerca de la conexión de teléfonos con sistema Samsung/Android: Algunos teléfonos Samsung Android utilizan el botón de volumen del teléfono para controlar la cámara o el zoom. Por favor, reinicia en los ajustes de la cámara del teléfono, busca la función de la tecla de volumen, establece la función de la tecla de volumen en el obturador. (No selecciones el zoom o el enfoque).
 - [Base de Trípode Grande y Estable] Este palo selfie de ATUMTEK tiene una base de trípode de 80cm (31.5) con tres topes antideslizantes de silicona en las patas, que evitan en gran medida que se mueva o se caiga
 - [Palo de Aleación de Aluminio de Gran Calidad] Hecho con una aleación de aluminio usada en aviación, esta versión mejorada del trípode para móvil es de gran calidad y está hecha para durar. También incluye un disparador a distancia por Bluetooth que te permite usar el trípode sin manos
-- [Diseño Ergonómico de Una Sola Pieza] Este palo selfie y trípode se pliega en una sola pieza, haciéndolo perfecto para viajar y fácil de almacenar. El mango es de diseño ergonómico y texturizado para ofrecer un agarre más cómodo.
-- [Diseño Único con Rotación de 360°] El cabezal del monopié se puede rotar 360°, o 180° a izquierda y derecha, permitiéndote encontrar el mejor ángulo
 - [Capta Más Ángulo de Visión] Extensible hasta 130cm con 7 varillas ajustables, este palo selfie con Bluetooth te permite capturar un mayor ángulo de visión cuando grabas o fotografías, ideal para encuentros familiares, reuniones o vlogs
-- 📝Acerca de la conexión de teléfonos con sistema Samsung/Android: Algunos teléfonos Samsung Android utilizan el botón de volumen del teléfono para controlar la cámara o el zoom. Por favor, reinicia en los ajustes de la cámara del teléfono, busca la función de la tecla de volumen, establece la función de la tecla de volumen en el obturador. (No selecciones el zoom o el enfoque).
+- [Diseño Único con Rotación de 360°] El cabezal del monopié se puede rotar 360°, o 180° a izquierda y derecha, permitiéndote encontrar el mejor ángulo
+- [Diseño Ergonómico de Una Sola Pieza] Este palo selfie y trípode se pliega en una sola pieza, haciéndolo perfecto para viajar y fácil de almacenar. El mango es de diseño ergonómico y texturizado para ofrecer un agarre más cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HRL53NM/?tag=tolees-21)
