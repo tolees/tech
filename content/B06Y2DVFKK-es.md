@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Underworld: Colección Completa  5 al 26.51 % de descuento'
-date: 2021-08-14 00:01:38
+date: 2021-08-15 18:10:17
 image: 'https://m.media-amazon.com/images/I/51hXH4kpq6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B06Y2DVFKK/?tag=tolees-21'
 descuento: '26.51'
-average: '16.51'
+average: '16.055'
 ---
 
 Ahora mismo tienes [Sony - Underworld: Colección Completa  5 Películas  [DVD]](https://www.amazon.es/dp/B06Y2DVFKK/?tag=tolees-21) a 14.69 EUR (original: 19.99 EUR) (26.51 %  de descuento) en el siguiente enlace!
