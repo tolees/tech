@@ -28,8 +28,8 @@ En este momento está [DJI OM 4 - Estabilizador de 3 Ejes para Smartphone  Dise�
 
 🔎:
 
-- Realice un ajuste de cardán horizontal en la aplicación DJI Mimo
-- Realice la calibración automática de cardán
 - Compruebe si el teléfono se ha montado correctamente en el cardán
+- Realice la calibración automática de cardán
+- Realice un ajuste de cardán horizontal en la aplicación DJI Mimo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C7TV8TN/?tag=tolees-21)
