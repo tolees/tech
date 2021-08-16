@@ -28,10 +28,10 @@ Está [Corsair K95 RGB Platinum Teclado Mecánico Gaming  Cherry MX Brown  Táct
 
 ℹ️:
 
-- Estructura de aluminio cepillado anodizado de calidad aeroespacial; durabilidad en un cuerpo ligero, necesaria para un teclado que va a ser partícipe de grandes acciones
-- Interruptores de tecla mecánicos 100% CHERRY MX Brown RGB; retroalimentación táctil ligera para un rendimiento rápido y un cálculo preciso del tiempo con menos distracciones
-- Retroiluminación dinámica multicolor, teclas con LightEdge; ajuste el nivel de iluminación, color de cada tecla además de las 19 zonas en la barra de luz del borde superior para disfrutar de animaciones
 - Seis Macro Claves Dedicadas; totalmente programables con macros complejas y remapeo de claves, permiten programar comandos especiales de streaming usando el software Stream Deck de Elgato
+- Interruptores de tecla mecánicos 100% CHERRY MX Brown RGB; retroalimentación táctil ligera para un rendimiento rápido y un cálculo preciso del tiempo con menos distracciones
+- Estructura de aluminio cepillado anodizado de calidad aeroespacial; durabilidad en un cuerpo ligero, necesaria para un teclado que va a ser partícipe de grandes acciones
 - Almacenamiento de 8MB con reproducción de iluminación y macros de hardware; permite el acceso a un máximo de tres perfiles almacenados para usar en cualquier parte, independientes del software externo
+- Retroiluminación dinámica multicolor, teclas con LightEdge; ajuste el nivel de iluminación, color de cada tecla además de las 19 zonas en la barra de luz del borde superior para disfrutar de animaciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XJ1FY86/?tag=tolees-21)
