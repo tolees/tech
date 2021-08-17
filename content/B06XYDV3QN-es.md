@@ -28,9 +28,9 @@ En este momento está [Sony 1307-4709  Auriculares Inalámbricos Estéreo  Bluet
 
 🔎:
 
-- Botón de liberación remoto de la cámara
-- Hacer y recibir llamadas a través del altavoz
 - Una fácil conexión a su teléfono NFC
 - Android 4.4 y superior o iOS 9 y posterior
+- Hacer y recibir llamadas a través del altavoz
+- Botón de liberación remoto de la cámara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XYDV3QN/?tag=tolees-21)
