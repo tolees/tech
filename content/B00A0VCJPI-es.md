@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 17.43 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2021-08-16 00:17:40
+title: 'Descuento del 21.61 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
+date: 2021-08-17 12:19:16
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00A0VCJPI-es TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi...'
 sku: 'B00A0VCJPI-es'
 tags: [ 'Dispositivos de red','Informática','Repetidores de red','tp-link','wifi', ]
-actualPrice: 18.95 EUR
+actualPrice: 17.99 EUR
 currency: EUR
-price: 18.95
+price: 17.99
 comparePrice: 22.95 EUR
 prodname: 'TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21'
-descuento: '17.43'
-average: '17.1621323529413'
+descuento: '21.61'
+average: '17.1636513761469'
 ---
 
-Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21) con un 17.43 % de descuento con precio de oferta de 18.95 EUR (original: 22.95 EUR) en el siguiente enlace!
+Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21) con un 21.61 % de descuento con precio de oferta de 17.99 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![TP-Link N300 Tl-WA850RE - Repetidor Exte](https://m.media-amazon.com/images/I/31FMfjXMzmL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21)
 
