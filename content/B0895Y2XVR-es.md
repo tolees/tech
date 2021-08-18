@@ -28,13 +28,13 @@ Ahora mismo tienes [realme 6 Pro – Smartphone de 6.6”  6 GB RAM + 128 GB de 
 
 🔎:
 
-- Sistema Operativo Realme UI, basado en Android 10
-- 3 ranuras para tarjetas: 2 para SIM + 1 para MicroSD
-- Cuádruple Cámara AI de 64MP, ultra gran angular, zoom 20X y macro
-- Pantalla Ultra Smooth de 90Hz
-- Selfie doble en pantalla. Selfies grupales y nocturnos
 - Batería de 4300mAh con carga flash de 30W, con carga completa en 60 minutos
-- Móvil compatible con Portugal
+- 3 ranuras para tarjetas: 2 para SIM + 1 para MicroSD
 - 2 años de garantía del fabricante (ES)
+- Selfie doble en pantalla. Selfies grupales y nocturnos
+- Móvil compatible con Portugal
+- Cuádruple Cámara AI de 64MP, ultra gran angular, zoom 20X y macro
+- Sistema Operativo Realme UI, basado en Android 10
+- Pantalla Ultra Smooth de 90Hz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0895Y2XVR/?tag=tolees-21)

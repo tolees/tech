@@ -29,9 +29,9 @@ Está [Xiaomi Mi Watch Pantalla 1.39" AMOLED  Medición de Nivel de oxígeno en 
 ℹ️:
 
 - Pantalla Amoled HD 1,39"
+- 16 días de batería con una carga en uso normal y 22 días en modo long-battery. 50+ horas de duración de la batería en modo Deportes
 - Es capaz de leer todas las variables de salud: monitorización del nivel de estrés, entrenamiento de la respiración, nivel de oxígeno en sangre, monitorización de la energía corporal, monitorización de la frecuencia cardíaca en tiempo real, monitorización del ciclo del sueño (seguimiento REM, sueño profundo y ligero).
 - Puedes practicar hasta 17 deportes distintos y más de 100 ejercicios
-- 16 días de batería con una carga en uso normal y 22 días en modo long-battery. 50+ horas de duración de la batería en modo Deportes
 - Resistente al agua hasta 50 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BPKTFJ1/?tag=tolees-21)

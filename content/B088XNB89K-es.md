@@ -28,12 +28,12 @@ Tienes [realme X3 Super Zoom  smartphone de 6.5"  8GB de RAM + 128GB de ROM  pro
 
 🔎:
 
-- Super Zoom periscópico 60X. Cámara cuádruple 64MP
-- Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96GHz
 - Pantalla Ultra fluida 120Hz y 6.6” FHD+. Imágenes realistas y suaves como nunca
-- Selfie dual integrado. Doble cámara frontal 32MP+8MP
+- Batería de 4200 mAh con carga rápida Super Dart 30w
+- Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96GHz
 - El teléfono no tiene ranura MicroSD
 - 2 años de garantía del fabricante (ES)
-- Batería de 4200 mAh con carga rápida Super Dart 30w
+- Super Zoom periscópico 60X. Cámara cuádruple 64MP
+- Selfie dual integrado. Doble cámara frontal 32MP+8MP
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088XNB89K/?tag=tolees-21)
