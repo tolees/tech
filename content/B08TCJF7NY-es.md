@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Legion 5 - Portátil Gaming 15.6"  al 28.52 % de descuento'
-date: 2021-07-29 21:05:40
+date: 2021-08-18 14:22:56
 image: 'https://m.media-amazon.com/images/I/31wE-OmDm8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 144Hz  AMD R
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 2060 6GB GDDR6
 - Pantalla de 15.6" FullHD 1920 x 1080 pixeles, 144Hz, 300 nits Anti-glare, 100% sRGB, Dolby Vision
-- Sistema operativo Windows 10
-- Memoria RAM de 2x 8GB SO-DIMM DDR4-3200
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
-- Teclado QWERTY Portugues
+- Sistema operativo Windows 10
 - Procesador AMD Ryzen 7 4800H (8C / 16T, 2.9 / 4.2GHz, 4MB L2 / 8MB L3)
 - Incluído en este portátil un mes de Xbox Game Pass; con la compra de este dispositivo, activa Xbox Game Pass para PC y disfruta de más de 100 juegos de alta calidad
+- Tarjeta gráfica NVIDIA GeForce RTX 2060 6GB GDDR6
+- Teclado QWERTY Portugues
+- Memoria RAM de 2x 8GB SO-DIMM DDR4-3200
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TCJF7NY/?tag=tolees-21)
