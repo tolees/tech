@@ -29,8 +29,8 @@ Ahora mismo tienes [Samsung EVO Select - Tarjeta de Memoria microSDXC de 256 GB 
 🔎:
 
 - Rápida tarjeta, adecuado para 4 K UHD grabaciones
-- Tarjeta MicroSD perfecto para el uso en 360 °, cámaras, cámaras y aviones no tripulados de acción Full HD
 - Garantía del fabricante: 10 años en venta y envío a través. de. en venta y envío por un tercero se aplican las del éste.
+- Tarjeta MicroSD perfecto para el uso en 360 °, cámaras, cámaras y aviones no tripulados de acción Full HD
 - Tarjeta MicroSD con una tasa de transferencia de 100 Mb/s para leer y 90 MB/s escritura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CXXBTSQ/?tag=tolees-21)
