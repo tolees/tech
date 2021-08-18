@@ -28,11 +28,11 @@ En este momento está [ASUS ZenBook Flip 13 UX363JA-EM189T - Portátil convertib
 
 🔎:
 
-- Memoria RAM de 16GB (en placa) LPDDR4x-3733MHz
-- Procesador Intel Core i5-1035G4 (1.1GHz, 6MB)
 - Tarjeta gráfica integrada Intel Iris Plus Graphics
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Memoria RAM de 16GB (en placa) LPDDR4x-3733MHz
 - Sistema Operativo: Windows 10 Home
 - Pantalla de 13.3" Full HD (1920 x 1080)
-- Almacenamiento de 512GB M.2 NVMe PCIe
+- Procesador Intel Core i5-1035G4 (1.1GHz, 6MB)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CS7D3RL/?tag=tolees-21)
