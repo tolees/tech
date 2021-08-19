@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Adaptador Wireless  PC  al 31.86 % de rebaja'
-date: 2021-07-26 18:38:17
+date: 2021-08-19 15:16:19
 image: 'https://m.media-amazon.com/images/I/41iYeBzVhAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B074QMN4YW/?tag=tolees-21'
 descuento: '31.86'
-average: '23.6342105263157'
+average: '23.3719999999999'
 ---
 
 Tienes [Microsoft - Adaptador Wireless  PC ](https://www.amazon.es/dp/B074QMN4YW/?tag=tolees-21) con precio final de  18.39 EUR (original: 26.99 EUR) (31.86 %  de rebaja) aqui!
