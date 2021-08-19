@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony SRS-XB13 - Altavoz Bluetooth Compac al 23.24 % de rebaja'
-date: 2021-08-17 18:22:21
+title: 'Sony SRS-XB13 - Altavoz Bluetooth Compac al 37.25 % de rebaja'
+date: 2021-08-19 00:23:01
 image: 'https://m.media-amazon.com/images/I/31Rxw4FVPuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08YF1T4SW-es Sony SRS-XB13 - Altavoz Bluetooth Compacto Duradero y...'
 sku: 'B08YF1T4SW-es'
 tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','bluetooth','sony', ]
-actualPrice: 45.98 EUR
+actualPrice: 37.59 EUR
 currency: EUR
-price: 45.98
+price: 37.59
 comparePrice: 59.9 EUR
 prodname: 'Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08YF1T4SW/?tag=tolees-21'
-descuento: '23.24'
-average: '45.8192499999998'
+descuento: '37.25'
+average: '45.6185365853657'
 ---
 
-Tienes [Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Negro](https://www.amazon.es/dp/B08YF1T4SW/?tag=tolees-21) con precio final de  45.98 EUR (original: 59.9 EUR) (23.24 %  de rebaja) aqui!
+Tienes [Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Negro](https://www.amazon.es/dp/B08YF1T4SW/?tag=tolees-21) con precio final de  37.59 EUR (original: 59.9 EUR) (37.25 %  de rebaja) aqui!
 
 [![Sony SRS-XB13 - Altavoz Bluetooth Compac](https://m.media-amazon.com/images/I/31Rxw4FVPuL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08YF1T4SW/?tag=tolees-21)
 
