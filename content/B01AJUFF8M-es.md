@@ -28,10 +28,10 @@ En este momento está [HORI - Horipad azul  Nintendo Switch ](https://www.amazon
 
 🔎:
 
-- Licencia oficial de Nintendo
 - Sin lag: conexión con cable de 3 m
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
+- Licencia oficial de Nintendo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AJUFF8M/?tag=tolees-21)
