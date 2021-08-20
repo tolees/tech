@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Pack: Karate Kid  5 títulos  [DVD al 26.51 % de descuento'
-date: 2021-08-15 18:00:22
+date: 2021-08-20 12:29:24
 image: 'https://m.media-amazon.com/images/I/51VaANJv0XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

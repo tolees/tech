@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Jumanji: 1995 + Bienvenidos a la  al 22.46 % de descuento'
-date: 2021-08-15 18:01:28
+date: 2021-08-20 12:29:19
 image: 'https://m.media-amazon.com/images/I/51vr04dzleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B085LYG7PN/?tag=tolees-21'
 descuento: '22.46'
-average: '20.27'
+average: '19.9233333333333'
 ---
 
 Ahora mismo tienes [Sony - Jumanji: 1995 + Bienvenidos a la Jungla + El Siguiente Nivel [DVD]](https://www.amazon.es/dp/B085LYG7PN/?tag=tolees-21) a 18.19 EUR (original: 23.46 EUR) (22.46 %  de descuento) en el siguiente enlace!
