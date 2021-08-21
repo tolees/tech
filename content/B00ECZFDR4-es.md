@@ -28,10 +28,10 @@ Tienes [TECKNET Ratón Inalámbrico Classic 2.4G  Ratón Óptico Wireless Mouse 
 
 🔎:
 
+- 2.4 GHz Wireless - una experiencia más segura y precisa que el tradicional sistema de radio FM con una mayor distancia de trabajo de hasta 15m
+- Pequeño Nano USB estilo receptor se conecta a su PC y puede permanecer allí, seleccionar la velocidad del cursor preferido; 4800/3200/2400/1600/1200/800 dpi, Plug & play, sin necesidad de instalar un controlador
 - Tecnología de enlace Co – no es necesario restablecer sincronización después de una pérdida de señal o apagado
 - Tecnología TruWave para control de cursor inteligente, precisa sobre muchos tipos de superficies
-- 2.4 GHz Wireless - una experiencia más segura y precisa que el tradicional sistema de radio FM con una mayor distancia de trabajo de hasta 15m
 - Económico de energía: La función de apagado automático apaga el ratón cuando se desconecta el nanorreceptor USB, o el PC está apagado para dar 30 meses duración de la batería con 2 pilas AA, cuenta con un indicador de nivel de batería
-- Pequeño Nano USB estilo receptor se conecta a su PC y puede permanecer allí, seleccionar la velocidad del cursor preferido; 4800/3200/2400/1600/1200/800 dpi, Plug & play, sin necesidad de instalar un controlador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ECZFDR4/?tag=tolees-21)
