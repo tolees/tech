@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Ironclaw Wireless RGB - Ratón Re al 25.88 % de rebaja'
-date: 2021-08-20 07:25:26
+date: 2021-08-21 11:45:31
 image: 'https://m.media-amazon.com/images/I/317bv1s3ibL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B07QD1FP24/?tag=tolees-21'
 descuento: '25.88'
-average: '63.205'
+average: '62.6457142857143'
 ---
 
 Tienes [Corsair Ironclaw Wireless RGB - Ratón Recargable Óptico para Juegos con Tecnología Slipstream  18000 dpi Óptico Sensor  Retroiluminación LED RGB   Color Negro](https://www.amazon.es/dp/B07QD1FP24/?tag=tolees-21) con precio final de  59.29 EUR (original: 79.99 EUR) (25.88 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Corsair Ironclaw Wireless RGB - Ratón Recargable Óptico para Juegos co
 
 🔎:
 
+- Conmutadores Omron resistentes: resistencia para más de 50 millones de clics
+- Sensor óptico preciso para juegos: un sensor personalizado Pixart PMW3391 de 18.000 ppp nativos ofrecen una personalización completa de la sensibilidad
 - Comodidad cuando importa: una forma esculpida específicamente para agarre de palma y manos grandes
 - Diez botones totalmente programables: personalice su modo de juego con potentes macros y reasignaciones de teclas que brindan una ventaja en el juego
-- Conmutadores Omron resistentes: resistencia para más de 50 millones de clics
 - Tres maneras de jugar: conéctelo con una tecnología ultrarrápida, SLIPSTREAM CORSAIR WIRELESS inferior a 1 ms, Bluetooth de baja latencia o cableado USB
-- Sensor óptico preciso para juegos: un sensor personalizado Pixart PMW3391 de 18.000 ppp nativos ofrecen una personalización completa de la sensibilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QD1FP24/?tag=tolees-21)
