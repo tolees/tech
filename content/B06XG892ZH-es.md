@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco du al 17.06 % de descuento'
-date: 2021-08-17 21:11:22
+date: 2021-08-22 17:08:15
 image: 'https://m.media-amazon.com/images/I/31S8HVaBs7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21'
 descuento: '17.06'
-average: '81.5045098039216'
+average: '81.6386538461539'
 ---
 
 Ahora mismo tienes [Western Digital - WD Elements - Disco duro externo portátil de 3 TB con USB 3.0  color negro](https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21) a 88.48 EUR (original: 106.68 EUR) (17.06 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DM-Digital Adaptador USB-WiFi  2dB Anten con un 33.40 % de descuento'
-date: 2021-08-21 12:26:36
+date: 2021-08-22 18:21:43
 image: 'https://m.media-amazon.com/images/I/315H-pWzJhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
