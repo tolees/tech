@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson C11CG29402 Expression Home XP-5100 al 22.95 % de rebaja'
-date: 2021-08-16 21:01:30
+date: 2021-08-22 07:27:46
 image: 'https://m.media-amazon.com/images/I/41LxTv3ryvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epson'
 buyurl: 'https://www.amazon.es/dp/B07B8HKF4K/?tag=tolees-21'
 descuento: '22.95'
-average: '85.0052941176471'
+average: '85.0338888888889'
 ---
 
 Tienes [Epson C11CG29402 Expression Home XP-5100 - Impresora Color  Negro Mate](https://www.amazon.es/dp/B07B8HKF4K/?tag=tolees-21) con precio final de  85.52 EUR (original: 110.99 EUR) (22.95 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [Epson C11CG29402 Expression Home XP-5100 - Impresora Color  Negro Mate](
 🔎:
 
 - Pantalla LCD de 6,1 cm: Escanea, copia e imprime fotos directamente desde una tarjeta de memoria
-- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
 - Elegante y compacta: De tamaño reducido y queda fantástica desde cualquier ángulo
-- Cómoda y eficiente; Impresión a doble cara y bandeja de papel de carga frontal de hasta 150 hojas
 - Impresión móvil: Libertad para imprimir desde prácticamente cualquier lugar1
+- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
+- Cómoda y eficiente; Impresión a doble cara y bandeja de papel de carga frontal de hasta 150 hojas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B8HKF4K/?tag=tolees-21)
