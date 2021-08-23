@@ -28,10 +28,10 @@ Tienes [Vbestlife - Teclado Inalámbrico Bluetooth +10    Funda Protectora Unive
 
 🔎:
 
+- 【SUPLEMENTO】 Métodos generales sobre cómo ingresar caracteres especiales de español: Primero, el teclado debe estar configurado en el modo de entrada en español. "Ñ" ----presiona punto y coma [;]. "Á los acentos" ----Mantenga presionada la tecla ["] (la tecla frente a [Enter]) sin soltarla, y luego seleccione la letra a acentuar. Este método es adecuado en la mayoría de los casos.
+- 【PLUG & PLAY】 Conectado principalmente a través de una conexión inalámbrica Bluetooth, plug and play, también es muy conveniente y conveniente de usar.
 - 【FUNDA DE CUERO】 Cuero de PU de alta calidad con textura cepillada para una experiencia de uso cómoda. Con la función de soporte, conveniente para oficinas corporativas, ver películas o videos con las manos libres.
 - 【FUNDA PARA TECLADO】 Se usa comúnmente para todas las tabletas de 9.7 pulgadas a 10.1 pulgadas, para tabletas OS X / Samsung, para Huawei / Windows.
 - 【CONJUNTO MULTIFUNCIÓN】 Funda de PU premium + teclado, con soporte, tiene tres cosas al mismo tiempo, permite una protección más perfecta para su tableta y teléfono móvil de pantalla grande. Perfectamente diseñado con artesanía para una excelente sensación de los botones, también fácil de usar.
-- 【PLUG & PLAY】 Conectado principalmente a través de una conexión inalámbrica Bluetooth, plug and play, también es muy conveniente y conveniente de usar.
-- 【SUPLEMENTO】 Métodos generales sobre cómo ingresar caracteres especiales de español: Primero, el teclado debe estar configurado en el modo de entrada en español. "Ñ" ----presiona punto y coma [;]. "Á los acentos" ----Mantenga presionada la tecla ["] (la tecla frente a [Enter]) sin soltarla, y luego seleccione la letra a acentuar. Este método es adecuado en la mayoría de los casos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9Y1SR9/?tag=tolees-21)
