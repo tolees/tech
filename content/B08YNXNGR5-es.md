@@ -28,11 +28,11 @@ Tienes [MSI Optix MAG275R - Monitor Gaming de 27" FullHD 144Hz  1920 x 108  rati
 
 ℹ️:
 
+- Tiempo de respuesta rápido de 1 ms: Elimina el desgarro de la pantalla y las velocidades de cuadro entrecortadas con 1 ms tiempo de respuesta.
 - Soporte ajustable: Maximice su productividad y comodidad con el stand ajustable.
-- Aplicación OSD de juegos: Personalice y configure los mejores modos de monitorización con teclado y mouse de una manera muy fácil.
 - Alta frecuencia de actualización de 144 Hz: Experimente un juego fluido con una frecuencia de actualización ultrarrápida de 144Hz, que te da la ventaja en los juegos de movimiento rápido.
 - Brillo (nits) 250 nits. TECNOLOGÍA FreeSync premium. Relación de aspecto 16: 9
-- Tiempo de respuesta rápido de 1 ms: Elimina el desgarro de la pantalla y las velocidades de cuadro entrecortadas con 1 ms tiempo de respuesta.
+- Aplicación OSD de juegos: Personalice y configure los mejores modos de monitorización con teclado y mouse de una manera muy fácil.
 - Monitor gaming de 27" con resolución FullHD ( 1920 x 1080)
 - Panel IPS: Optimice los colores y el brillo de la pantalla para mejorar su experiencia visual.
 
