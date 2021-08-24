@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo V15 i3-1005G1 8GB 256SSD Dos 15.6 al 15.12 % de descuento'
-date: 2021-08-17 23:01:26
+date: 2021-08-24 07:16:03
 image: 'https://m.media-amazon.com/images/I/41nHOzn63zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
