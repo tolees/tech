@@ -28,9 +28,9 @@ Ahora mismo tienes [Logitech Z313 Sistema de Altavoces 2.1 con Subwoofer  Sonido
 
 🔎:
 
-- Facilidad de Uso : La sección de control facilita el control del volumen y los auriculares
 - Conexión Sencilla : La instalación es tan fácil que basta conectar los altavoces al subwoofer y éste al ordenador
 - Algo Especial : El subwoofer compacto es muy práctico para espacios reducidos y produce unos graves profundos cuando se quiere sentir un ritmo intenso
 - Sonido Pleno : Puede llenar la habitación con un sonido potente y equilibrado 25 vatios
+- Facilidad de Uso : La sección de control facilita el control del volumen y los auriculares
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003LNXT7Y/?tag=tolees-21)
