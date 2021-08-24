@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.36 % en SanDisk Extreme Pro 32 GB SDCFXPS-032G-X'
-date: 2021-08-23 09:20:22
+date: 2021-08-24 10:19:08
 image: 'https://m.media-amazon.com/images/I/414Vs8iwstL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B00ECEVEP0/?tag=tolees-21'
 descuento: '30.36'
-average: '45.94375'
+average: '45.1711111111111'
 ---
 
 Tienes [SanDisk Extreme Pro 32 GB SDCFXPS-032G-X46 Extreme Pro 160MB/s CompactFlash Card](https://www.amazon.es/dp/B00ECEVEP0/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 38.99 EUR (original: 55.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [SanDisk Extreme Pro 32 GB SDCFXPS-032G-X46 Extreme Pro 160MB/s CompactFl
 
 ℹ️:
 
-- Velocidades de transferencia de hasta 160 MB/s
-- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
 - Optimizado para la captura de vídeo 4K
+- Tecnología VPG-65 para el sostenimiento de las velocidades de grabación de vídeo de 65 MB/s
 - Velocidades de escritura hasta 150 MB/s
+- Velocidades de transferencia de hasta 160 MB/s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ECEVEP0/?tag=tolees-21)
