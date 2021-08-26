@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.14 % en Asus MB168B - Monitor portátil de 15 6  '
-date: 2021-08-18 18:34:49
+title: 'Descuento del 29.54 % en Asus MB168B - Monitor portátil de 15 6  '
+date: 2021-08-26 08:40:19
 image: 'https://m.media-amazon.com/images/I/41FHdQTS00L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B00FE690DI-es Asus MB168B - Monitor portátil de 15 6 HD 1366x768 USB IPS...'
 sku: 'B00FE690DI-es'
 tags: [ 'Informática','Monitores','asus','ips', ]
-actualPrice: 118.99 EUR
+actualPrice: 104.98 EUR
 currency: EUR
-price: 118.99
+price: 104.98
 comparePrice: 149.0 EUR
 prodname: 'Asus MB168B - Monitor portátil de 15 6   HD  1366x768  USB  IPS  ultrafino  giro automático  funda smart plegable  ultrafino  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21'
-descuento: '20.14'
-average: '141.692941176472'
+descuento: '29.54'
+average: '139.653333333335'
 ---
 
-Tienes [Asus MB168B - Monitor portátil de 15 6   HD  1366x768  USB  IPS  ultrafino  giro automático  funda smart plegable  ultrafino  Negro](https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21) con un 20.14 % de descuento con precio de oferta de 118.99 EUR (original: 149.0 EUR) en el siguiente enlace!
+Tienes [Asus MB168B - Monitor portátil de 15 6   HD  1366x768  USB  IPS  ultrafino  giro automático  funda smart plegable  ultrafino  Negro](https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 104.98 EUR (original: 149.0 EUR) en el siguiente enlace!
 
 [![Asus MB168B - Monitor portátil de 15 6  ](https://m.media-amazon.com/images/I/41FHdQTS00L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21)
 
 ℹ️:
 
 - ASUS MB168B, monitor portátil de 15.6" HD (1366x768) con funda plegable
+- Para experimentar el brillo total, se necesita un USB 3.0
 - Requisito mínimo del sistema: Windows 7 con Core 2 Duo de 1,4 GHz, 1 GB de RAM, Mac OS X 10.8.3 (no compatible con MacBook y MacBook Pro)
 - El monitor USB más fino del mercado: acabado con un elegante patrón metalizado
-- Para experimentar el brillo total, se necesita un USB 3.0
 - ASUS Smart Case: funda protectora que permite posicionar el monitor en los formatos apaisado y vertical
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FE690DI/?tag=tolees-21)
