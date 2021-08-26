@@ -28,10 +28,10 @@ Tienes [Torre Gaming Nfortec Krater para PC con Cristal Templado y 4 Ventiladore
 
 🔎:
 
-- 4 ventiladores rgb 120mm incluidos
-- Espacios independientes para fuentes de alimentación y discos duros
-- Frontal mallado para mayor ventilación
-- Compatible con las últimas tecnologías rgb de las placas base de gigabyte, asus y msi
 - Panel lateral de cristal templado
+- Compatible con las últimas tecnologías rgb de las placas base de gigabyte, asus y msi
+- Espacios independientes para fuentes de alimentación y discos duros
+- 4 ventiladores rgb 120mm incluidos
+- Frontal mallado para mayor ventilación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SYRNC19/?tag=tolees-21)
