@@ -28,9 +28,9 @@ Está [ASUS TUF Gaming M3 - Ratón Gaming ergonómico con conexión por Cable + 
 
 ℹ️:
 
-- La tecnología fastIPS de Asus reduce el tiempo de respuesta a 1 ms para ofrecerte imágenes más nítidas y frame rates altos
-- Ergonómico y ligero para maniobrar a alta velocidad con agarres de tipo garra o con la palma de la mano
-- Monitor gaming Full HD (1920 x 1080) de 24,5 con una frecuencia de refresco de 280 Hz para gamers profesionales que buscan una experiencia gaming inmersiva
 - Sensor óptico de 7000 ppp para juegos con un seguimiento muy preciso y dos botones dpi para ajustar la sensibilidad sobre la marcha
+- Ergonómico y ligero para maniobrar a alta velocidad con agarres de tipo garra o con la palma de la mano
+- La tecnología fastIPS de Asus reduce el tiempo de respuesta a 1 ms para ofrecerte imágenes más nítidas y frame rates altos
+- Monitor gaming Full HD (1920 x 1080) de 24,5 con una frecuencia de refresco de 280 Hz para gamers profesionales que buscan una experiencia gaming inmersiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09CTX7XP6/?tag=tolees-21)
