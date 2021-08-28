@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 15 A11M-045XES - Ordenador po al 20.02 % de descuento'
-date: 2021-08-25 18:56:48
+date: 2021-08-28 14:31:11
 image: 'https://m.media-amazon.com/images/I/31JK1KtmJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [MSI Modern 15 A11M-045XES - Ordenador portátil de 15.6" Ful
 
 🔎:
 
-- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
-- Tarjeta gráfica integrada UMA
 - Disco SSD de 512 GB NVMe PCIe
 - Memoria RAM DDR IV 16 GB (3200 MHz)
+- Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
+- Tarjeta gráfica integrada UMA
 - Sin sistema operativo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NCG6N2T/?tag=tolees-21)
