@@ -28,9 +28,9 @@ Tienes [Aenllosi Funda Caso para Wacom Intuos S-Tableta gráfica lápiz Pequeño
 
 🔎:
 
-- Features: Made to fit Mount is Made of Engineering Plastic, Heavy Duty, Could be Mounted on Handlebar and other Positions of Bike.
-- Aenllosi Portable Carrying Hard Case for Wacom Intuos S Pen Tablet Small CLT4100 Series with/without Bluetooth.
-- Internal size: 8.5*6.5*1 inch, external size: 9.2*7.1*1.5 inch, weight:100g
 - para la venta es único caso (dispositivo y los accesorios no están incluidos)
+- Aenllosi Portable Carrying Hard Case for Wacom Intuos S Pen Tablet Small CLT4100 Series with/without Bluetooth.
+- Features: Made to fit Mount is Made of Engineering Plastic, Heavy Duty, Could be Mounted on Handlebar and other Positions of Bike.
+- Internal size: 8.5*6.5*1 inch, external size: 9.2*7.1*1.5 inch, weight:100g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DG2FQJ4/?tag=tolees-21)
