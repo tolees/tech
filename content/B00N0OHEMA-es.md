@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en TP-Link TL-SG105E Unmanaged PRO Switch  '
-date: 2021-08-19 21:35:31
+date: 2021-08-28 17:06:13
 image: 'https://m.media-amazon.com/images/I/41kBA12qn6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00N0OHEMA/?tag=tolees-21'
 descuento: '26.68'
-average: '20.5899999999998'
+average: '20.5978651685391'
 ---
 
 Tienes [TP-Link TL-SG105E Unmanaged PRO Switch  5 Puertos Gigabit Inteligente  Plug and Play  Gigabit Puerto  Caso Metal VLAN  QoS  Software de Gestión Inteligente Fácil  Negro](https://www.amazon.es/dp/B00N0OHEMA/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [TP-Link TL-SG105E Unmanaged PRO Switch  5 Puertos Gigabit Inteligente  P
 
 ℹ️:
 
-- Fácil manejo a traves de la interfaz web o utility de windows independiente
-- La tecnología ethernet ahorra el consumo de energía verde
 - Plug and play, no requiere configuración
 - Switch gigabit de 5 puertos, rj45 de negociación automática gigabit de 10/100/1000 mbps óptimamente expanden la capacidad de la red
+- Fácil manejo a traves de la interfaz web o utility de windows independiente
 - Vlan, combinando seguridad con performance de red, el tl-sg108e soporta funciones vlan mtu, en base a puerto
 - Resistente carcasa de metal para robustez
+- La tecnología ethernet ahorra el consumo de energía verde
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00N0OHEMA/?tag=tolees-21)
