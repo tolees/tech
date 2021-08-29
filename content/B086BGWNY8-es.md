@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P2 CT500P2SSD8 Disco Duro sólido con un 21.80 % de descuento'
-date: 2021-08-21 17:52:56
+date: 2021-08-29 11:26:47
 image: 'https://m.media-amazon.com/images/I/4163oay2ohL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B086BGWNY8/?tag=tolees-21'
 descuento: '21.80'
-average: '62.0088584474883'
+average: '61.9494545454543'
 ---
 
 En este momento está [Crucial P2 CT500P2SSD8 Disco Duro sólido Interno SSD de 500GB  de hasta 2400 MB/s  3D NAND  NVMe  PCIe  M.2 ](https://www.amazon.es/dp/B086BGWNY8/?tag=tolees-21) a 48.94 EUR (original: 62.58 EUR) (21.80 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Crucial P2 CT500P2SSD8 Disco Duro sólido Interno SSD de 
 
 🔎:
 
-- La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
-- Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
 - Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
+- Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
+- La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
 - Con garantía limitada de 5 años o hasta alcanzar el valor de resistencia nominal de 150 TBW
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086BGWNY8/?tag=tolees-21)
