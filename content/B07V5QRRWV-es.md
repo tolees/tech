@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.51 % en Trust Tecla-2 - Teclado y ratón inalámbr'
-date: 2021-08-22 08:44:47
+date: 2021-08-29 19:32:24
 image: 'https://m.media-amazon.com/images/I/41HnfjKTzIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust'
 buyurl: 'https://www.amazon.es/dp/B07V5QRRWV/?tag=tolees-21'
 descuento: '16.51'
-average: '37.99'
+average: '38.49'
 ---
 
 Tienes [Trust Tecla-2 - Teclado y ratón inalámbricos  silencioso  qwerty español  negro](https://www.amazon.es/dp/B07V5QRRWV/?tag=tolees-21) con un 16.51 % de descuento con precio de oferta de 39.99 EUR (original: 47.9 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [Trust Tecla-2 - Teclado y ratón inalámbricos  silencioso  qwerty espa�
 ℹ️:
 
 - Disposición de tamaño completo con teclado numérico y teclas separadas para fácil itar la limpieza. 11 teclas de acceso directo y 12 teclas de función
+- Ratón óptico inalámbrico de 6 botones con diseño ergonómico; un microrreceptor usb de tamaño reducido, de fácil almacenamiento, para ambos dispositivos
+- Patas plegables para cambiar el ángulo de tecleado
 - Teclas de perfil bajo con pulsación suave y silenciosa para escribir con comodidad; diseño ergonómico con un cómodo reposamanos
 - Botón de selección de velocidad (800/1200/1600 ppp). 2 botones para pulgar: hacia delante/atrás en el navegador
-- Patas plegables para cambiar el ángulo de tecleado
-- Ratón óptico inalámbrico de 6 botones con diseño ergonómico; un microrreceptor usb de tamaño reducido, de fácil almacenamiento, para ambos dispositivos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V5QRRWV/?tag=tolees-21)
