@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair iCUE LT100 Kit de Inicio de Torr al 28.64 % de descuento'
-date: 2021-08-16 09:46:20
+date: 2021-08-29 09:26:10
 image: 'https://m.media-amazon.com/images/I/31RXBsSuL0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B08B1PX1CP/?tag=tolees-21'
 descuento: '28.64'
-average: '99.965'
+average: '99.95'
 ---
 
 Está [Corsair iCUE LT100 Kit de Inicio de Torres de Iluminación Inteligente  Dos Torres 422 mm de Alto con 46 LED Personalizables  Difusor de Luz Integrado  Soporte Extraíble para Auriculares  Negro](https://www.amazon.es/dp/B08B1PX1CP/?tag=tolees-21) con 28.64 de descuento por 99.89 EUR (original: 139.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Corsair iCUE LT100 Kit de Inicio de Torres de Iluminación Inteligente  D
 
 ℹ️:
 
-- Integración con juegos y contenido multimedia: Sincronice la iluminación ambiente para ajustarse a la acción de los juegos
-- Parte del ecosistema de iluminación inteligente iCUE: Funciona con el software CORSAIR iCUE y permite sincronizar y personalizar la iluminación RGB con todos los dispositivos CORSAIR compatibles
 - Todo lo que necesita para brillar: Incluye dos torres conectadas de 422 mm de alto, con 46 LED personalizables cada una
 - Iluminación ambiente inmersiva: Amplíe la iluminación RGB de su PC, iluminando su entorno con colores difusos y efectos de iluminación óptimos
+- Parte del ecosistema de iluminación inteligente iCUE: Funciona con el software CORSAIR iCUE y permite sincronizar y personalizar la iluminación RGB con todos los dispositivos CORSAIR compatibles
+- Integración con juegos y contenido multimedia: Sincronice la iluminación ambiente para ajustarse a la acción de los juegos
 - 11 perfiles de iluminación predefinidos: Ilumine su espacio inmediatamente con solo pulsar un botón gracias a los 11 perfiles disponibles preconfigurados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B1PX1CP/?tag=tolees-21)
