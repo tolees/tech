@@ -28,12 +28,12 @@ Ahora mismo tienes [MSI Modern 14 B10MW-050XES - Ordenador portátil de 14" Full
 
 🔎:
 
-- Pantalla de 14" FullHD (1920x*1080), IPS-Level 60Hz
-- Teclado retroiluminado
-- Tarjeta grafica Integrada UMA Intel UHD Graphics
-- Memoria RAM de 16 GB, 2666 MHz
-- Procesador Comet lake I7-10510U (8 núcleos, 8 MB Cache, 1.8 GHz hasta 4.9 GHz)
 - Almacenamiento de de 1TB SSD NVMe PCIe Gen3x4
+- Tarjeta grafica Integrada UMA Intel UHD Graphics
+- Teclado retroiluminado
+- Procesador Comet lake I7-10510U (8 núcleos, 8 MB Cache, 1.8 GHz hasta 4.9 GHz)
 - Sin sistema operativo
+- Memoria RAM de 16 GB, 2666 MHz
+- Pantalla de 14" FullHD (1920x*1080), IPS-Level 60Hz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BJRSYW7/?tag=tolees-21)
