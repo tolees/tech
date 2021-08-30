@@ -28,14 +28,14 @@ Está [Withings Steel HR - Reloj inteligente híbrido con seguimiento de la acti
 
 ℹ️:
 
-- BATERÍA CON UNA DURACIÓN RÉCORD: dedica más tiempo a la actividad física y menos a cargar tu dispositivo, gracias a su batería recargable con autonomía de nada menos que 20 días
-- SEGUIMIENTO DE MÚLTIPLES ACTIVIDADES DEPORTIVAS: con capacidad para realizar un seguimiento de más de 30 actividades deportivas, te proporciona un mapa de tu sesión y te ayudará a controlar la distancia recorrida, la pendiente del terreno y tu ritmo a través del GPS conectado
 - SEGUIMIENTO DIARIO DE LA ACTIVIDAD: con contador automático de pasos, calorías y distancia
+- SINCRONIZACIÓN AUTOMÁTICA: pulse HR se sincroniza adecuadamente con la aplicación gratuita Health Mate a través de Bluetooth; es compatible con Apple Health, Google Fit, Strava y más de cien de las principales aplicaciones de salud y fitness
+- CONTROL DE LA FRECUENCIA CARDÍACA DE DÍA Y DE NOCHE: disfruta de un seguimiento de la frecuencia cardíaca tanto de día como de noche, además de un seguimiento continuo de tus entrenamientos
 - NOTIFICACIONES INTELIGENTES: personaliza las notificaciones de llamadas, mensajes de texto, eventos y de las aplicaciones de tu smartphone directamente en la pantalla del reloj.
 - Para los productos adquiridos en Amazon, la garantía y el derecho de sustitución de los artículos Withings solo son válidos si dichos productos los envía o vende Amazon o Withings
-- SUMERGIBLE A 50 METROS: pulse HR es un dispositivo híbrido de control de actividad y reloj inteligente que puede acompañarte a la piscina o en la ducha
-- SINCRONIZACIÓN AUTOMÁTICA: pulse HR se sincroniza adecuadamente con la aplicación gratuita Health Mate a través de Bluetooth; es compatible con Apple Health, Google Fit, Strava y más de cien de las principales aplicaciones de salud y fitness
+- SEGUIMIENTO DE MÚLTIPLES ACTIVIDADES DEPORTIVAS: con capacidad para realizar un seguimiento de más de 30 actividades deportivas, te proporciona un mapa de tu sesión y te ayudará a controlar la distancia recorrida, la pendiente del terreno y tu ritmo a través del GPS conectado
 - CONTROL AUTOMÁTICO DEL SUEÑO: levántate y accede a tu Puntuación de sueño (Sleep Score), basada en los ciclos de sueño profundo y ligero, las interrupciones del sueño, la profundidad y la regularidad
-- CONTROL DE LA FRECUENCIA CARDÍACA DE DÍA Y DE NOCHE: disfruta de un seguimiento de la frecuencia cardíaca tanto de día como de noche, además de un seguimiento continuo de tus entrenamientos
+- BATERÍA CON UNA DURACIÓN RÉCORD: dedica más tiempo a la actividad física y menos a cargar tu dispositivo, gracias a su batería recargable con autonomía de nada menos que 20 días
+- SUMERGIBLE A 50 METROS: pulse HR es un dispositivo híbrido de control de actividad y reloj inteligente que puede acompañarte a la piscina o en la ducha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0711LKZKX/?tag=tolees-21)
