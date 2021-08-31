@@ -28,9 +28,9 @@ Está [Samyang AF 45 MM F1.8 FE Sony E - Objetivo de Formato Completo para cáma
 
 ℹ️:
 
-- Siete elementos distribuidos en seis grupos.incluyendo dos lentes asp (asféricas) y una de cristal ed (dispersión extra-baja)
 - Velocidad de enfoque automático mejorada para su uso con cámaras de mayor resolución
-- Objetivo medio que destaca sobre todo por un peso de sólo.162 gramos
+- Siete elementos distribuidos en seis grupos.incluyendo dos lentes asp (asféricas) y una de cristal ed (dispersión extra-baja)
 - Distancia mínima de enfoque de 0.45 m
+- Objetivo medio que destaca sobre todo por un peso de sólo.162 gramos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RTKK76L/?tag=tolees-21)

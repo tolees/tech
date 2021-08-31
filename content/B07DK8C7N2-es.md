@@ -28,9 +28,9 @@ Ahora mismo tienes [Samyang SA7071 - Objetivo AF 85 mm F1.4 para Canon EF  Negro
 
 🔎:
 
-- Este objetivo autofocus AF 85mm F1.4 EF ha sido equipado con lo más avanzado y variado de la tecnología Samyang por ello
 - Su peso de solo 485g (sin parasol y tapas) y su diseño compacto facilitan su transporte y permiten que te acompañe a todos lados perfectamente adaptado a tu equipaje
-- Un recubrimiento UMC (Ultra Multi Coating) disminuye los efectos fantasma y otras aberraciones para disfrutar de imágenes impecables
+- Este objetivo autofocus AF 85mm F1.4 EF ha sido equipado con lo más avanzado y variado de la tecnología Samyang por ello
 - El Samyang AF 85mm F1.4 EF presenta una apertura ultra luminosa de F1.4: se compone de 9 elementos de vidrio compuestos en 7 grupos de los cuales 1 de sus lentes es hibrido-asférica
+- Un recubrimiento UMC (Ultra Multi Coating) disminuye los efectos fantasma y otras aberraciones para disfrutar de imágenes impecables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DK8C7N2/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Samyang AF 18MM F2.8 FE SONY E - Objetivo de gran angular para cámaras r
 
 ℹ️:
 
-- El AF 18mm F2.8 FE es el primer objetivo ultra gran-angular
 - Ángulo De Visión De 100º
-- Enfoca de manera precisa, rápida y muy silenciosa, siendo, por ello, también para filmar en vídeo
 - Ultra gran-angular AF 18mm F2.8 FE para cámaras Sony E-Mount
+- El AF 18mm F2.8 FE es el primer objetivo ultra gran-angular
+- Enfoca de manera precisa, rápida y muy silenciosa, siendo, por ello, también para filmar en vídeo
 - Peso de solo 145 g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X56BRZV/?tag=tolees-21)
