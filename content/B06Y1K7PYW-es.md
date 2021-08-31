@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'Trust Gaming - Trust GXT 164 Sikanda - R al 17.10 % de descuento'
-date: 2021-08-14 06:57:54
+title: 'Trust Gaming - Trust GXT 164 Sikanda - R al 58.03 % de descuento'
+date: 2021-08-31 13:53:25
 image: 'https://m.media-amazon.com/images/I/41T56HdFykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06Y1K7PYW-es Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12...'
 sku: 'B06Y1K7PYW-es'
-tags: [ 'Accesorios para Mac','Juegos y Accesorios para Mac','Ratones para gamers para Mac','Videojuegos','ratón','trust gaming', ]
-actualPrice: 41.44 EUR
+tags: [ 'Videojuegos','ratón','trust gaming', ]
+actualPrice: 20.98 EUR
 currency: EUR
-price: 41.44
+price: 20.98
 comparePrice: 49.99 EUR
 prodname: 'Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12 botones programables  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21'
-descuento: '17.10'
-average: '28.2964999999999'
+descuento: '58.03'
+average: '27.9480952380951'
 ---
 
-Ahora mismo tienes [Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12 botones programables  color negro](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21) a 41.44 EUR (original: 49.99 EUR) (17.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12 botones programables  color negro](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21) a 20.98 EUR (original: 49.99 EUR) (58.03 %  de descuento) en el siguiente enlace!
 
 [![Trust Gaming - Trust GXT 164 Sikanda - R](https://m.media-amazon.com/images/I/41T56HdFykL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21)
 
 🔎:
 
-- Software avanzado para programar botones y macros
-- Memoria integrada para guardar 4 perfiles para juegos
 - Iluminación LED RGB ajustable
+- Software avanzado para programar botones y macros
 - PPP ajustables hasta 5000
+- Memoria integrada para guardar 4 perfiles para juegos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21)
