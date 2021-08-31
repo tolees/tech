@@ -28,12 +28,12 @@ Está [HP 1N0T4AA Reverb G2 - Gafas de Realidad Virtual SteamVR  WMR  resolució
 
 ℹ️:
 
-- Desarrolladas en colaboración con Valve y Microsoft. Nuevas lentes ajustables diseñadas por Valve; 100% compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
-- Audio espacial 3D integrado; 4 cámaras: 2 frontales y 2 laterales
-- Almohadilla frontal extraíble; correas ajustables y ventilaciones para reducir el calor y el sudor
-- Bluetooth integrado con controladores preconfigurados; DisplayPort 1.3; USB-C 3.0
+- Ultraligeras, peso 550 gramos
 - Resolución de 4320 x 2160 (2160 x 2160 por ojo), Subpixel RGB, Frecuencia de refresco 90 Hz
 - Amplio campo de visión: 114 grados para una imagen periférica que permite una inmersión más profunda
-- Ultraligeras, peso 550 gramos
+- Bluetooth integrado con controladores preconfigurados; DisplayPort 1.3; USB-C 3.0
+- Almohadilla frontal extraíble; correas ajustables y ventilaciones para reducir el calor y el sudor
+- Desarrolladas en colaboración con Valve y Microsoft. Nuevas lentes ajustables diseñadas por Valve; 100% compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
+- Audio espacial 3D integrado; 4 cámaras: 2 frontales y 2 laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BFQJ6YG/?tag=tolees-21)
