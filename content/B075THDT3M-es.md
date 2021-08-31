@@ -28,9 +28,9 @@ En este momento está [Huawei - Auriculares AM61 color negro](https://www.amazon
 
 🔎:
 
+- Auriculares Bluetooth con micrófono y botón de control, color negro
 - Diseño para el oído con almohadillas tipo aleta de tiburón
 - Diseño magnético para fácil portabilidad
-- Auriculares Bluetooth con micrófono y botón de control, color negro
 - Audio estéreo con graves profundos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075THDT3M/?tag=tolees-21)
