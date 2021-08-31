@@ -28,13 +28,13 @@ Está [Acer Chromebook 314 - Ordenador Portátil 14" HD  Intel Celeron N4020  4G
 
 ℹ️:
 
-- Procesador Intel Celeron N4020 (2C 1.0/2.8GHz, 4MB)
-- Almacenamiento de 32GB eMMC
-- Pantalla de 14" HD 1366x768 píxeles
-- Memoria RAM de 4GB DDR4
-- Sistema operativo Chrome OS
-- Tarjeta gráfica Integrada UHD Graphics
 - Descubre Chromebook, una nueva generación de portátiles sencillos, rápidos y seguros que funcionan con el sistema operativo “Chrome OS” desarrollado por Google.
+- Almacenamiento de 32GB eMMC
+- Sistema operativo Chrome OS
+- Memoria RAM de 4GB DDR4
+- Pantalla de 14" HD 1366x768 píxeles
+- Tarjeta gráfica Integrada UHD Graphics
 - Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano (requiere conexión a internet).
+- Procesador Intel Celeron N4020 (2C 1.0/2.8GHz, 4MB)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PDG71J/?tag=tolees-21)
