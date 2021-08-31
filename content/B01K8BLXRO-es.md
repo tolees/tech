@@ -28,10 +28,10 @@ En este momento está [Gigaset A116 - Teléfono Inalámbrico  Agenda 50 Contacto
 
 🔎:
 
-- Fecha y hora en pantalla
-- Rápida y fácil instalación: simplemente conéctate y habla
 - Identificador de llamada entrante: permite identificar el número de teléfono que te está llamando
 - Gran autonomía: 12 h en conversación y 130 h en reposo
+- Rápida y fácil instalación: simplemente conéctate y habla
+- Fecha y hora en pantalla
 - Lista de rellamada de los 10 ultimos números
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01K8BLXRO/?tag=tolees-21)

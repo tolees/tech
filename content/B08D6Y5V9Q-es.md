@@ -28,10 +28,10 @@ Tienes [LifeProof para Apple iPhone 12 Pro Max  Funda Anticaídas fabricada de P
 
 🔎:
 
+- Fabricación sostenible
 - Contribuimos a proteger los océanos
 - embalaje reciclable
-- Ultrafina
-- Fabricación sostenible
 - Protección contra caídas
+- Ultrafina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6Y5V9Q/?tag=tolees-21)
