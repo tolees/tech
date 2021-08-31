@@ -28,11 +28,11 @@ Tienes [MSI GP76 Leopard 10UG-066XES - Ordenador portátil de 17.3" FullHD 144Hz
 
 🔎:
 
+- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 - Pantalla de 17.3" FHD (1920*1080), 144Hz 72%NTSC IPS-Level, casi 100%sRGB
-- Almacenamiento SSD de 1 TB
 - Sistema operativo Free DOS
+- Almacenamiento SSD de 1 TB
 - Procesador Intel Core i7 -10870H (8 núcleos, 16 MB Cache, 2.2 GHz hasta 5.0 GHz)
 - Tarjeta gráfica Nvidia RTX3070 de 8 GB GDDR6
-- Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SC74FNG/?tag=tolees-21)
