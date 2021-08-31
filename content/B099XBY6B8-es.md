@@ -28,11 +28,11 @@ En este momento está [Xiaomi Smart UHD TV P1 50 Pulgadas + Xiaomi Smart Band 6]
 
 🔎:
 
-- Monitoreo de salud actualizadoEl seguimiento de SpO2 puede detectar su nivel de saturación de oxígeno en sangre, que es vital para la salud.Monitoreo del sueño que podría registrar REM, siestas durante todo el día y calidad de respiración durante el sueñoMonitorización y alertas de frecuencia cardíaca durante todo el día.
 - Visualización de pantalla completa mejorada*1.56 pantalla AMOLED de vista completa, área 49% más grande que mi banda inteligente 5.Alta resolución de 326 PPI, podía ver la imagen y el texto con mayor claridad.
 - Imagen: WCG NTSC 85% , dolby vision, HDR10+, MEMC UHD 60Hz
-- Tipo: UHD LED TV - 50 Pulgada (126cm), Flat, 3,840 x 2160 pixeles , diseño Frameles
 - Seguimiento deportivo mejorado30 modos de entrenamiento para registrar su frecuencia cardíaca y calorías quemadas, incluido el ejercicio popular como HIIT, Platies, Zumba.
+- Tipo: UHD LED TV - 50 Pulgada (126cm), Flat, 3,840 x 2160 pixeles , diseño Frameles
 - Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T3
+- Monitoreo de salud actualizadoEl seguimiento de SpO2 puede detectar su nivel de saturación de oxígeno en sangre, que es vital para la salud.Monitoreo del sueño que podría registrar REM, siestas durante todo el día y calidad de respiración durante el sueñoMonitorización y alertas de frecuencia cardíaca durante todo el día.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B099XBY6B8/?tag=tolees-21)
