@@ -28,10 +28,10 @@ Ahora mismo tienes [HP Slim S01-aF0019ns - Ordenador de sobremesa  AMD Ryzen 3 3
 
 🔎:
 
-- Procesador AMD Ryzen 3 3250U (2 núcleos, 4 MB cache, 2.6 Ghz hasta 3.5 GHz)
+- Sin sistema operativo
 - Memoria RAM de 8 GB, DDR4
 - Tarjeta gráfica integrada AMD Radeon
 - Disco de 256 GB NVMe M.2 SSD
-- Sin sistema operativo
+- Procesador AMD Ryzen 3 3250U (2 núcleos, 4 MB cache, 2.6 Ghz hasta 3.5 GHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DJC197P/?tag=tolees-21)

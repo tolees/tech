@@ -28,10 +28,10 @@ Ahora mismo tienes [RockJam RJ-661 - Super kit de 61 teclas del teclado LCD con 
 
 🔎:
 
-- El súper kit de teclado y piano RockJam 661 incluye un teclado electrónico con 61 teclas de tamaño completo que te ofrece una sensación de piano tradicional mientras mantiene un diseño portátil y compacto que puede ser alimentado por la red eléctrica (fuente de alimentación incluida) o por baterías.
-- Este súper kit de teclado de piano eléctrico contiene un asiento acolchado que se pliega fácilmente y tiene un asiento acolchado grueso para horas confortables de tocar.
-- Este teclado de piano digital tipo RockJam 661 cuenta con un panel LCD que muestra y activa los 100 ritmos, 50 tonos, funciones de enseñanza y 30 canciones de demostración que son parte de su funcionalidad.
-- Este paquete de súper kit de teclado musical incluye un soporte para teclado que es de diseño robusto y se puede ajustar para adaptarse a los pianistas de teclado, tanto jóvenes como mayores.
 - El piano eléctrico RockJam 661 tiene funciones de grabación y reproducción que te permiten crear capas en su sonido.
+- Este paquete de súper kit de teclado musical incluye un soporte para teclado que es de diseño robusto y se puede ajustar para adaptarse a los pianistas de teclado, tanto jóvenes como mayores.
+- El súper kit de teclado y piano RockJam 661 incluye un teclado electrónico con 61 teclas de tamaño completo que te ofrece una sensación de piano tradicional mientras mantiene un diseño portátil y compacto que puede ser alimentado por la red eléctrica (fuente de alimentación incluida) o por baterías.
+- Este teclado de piano digital tipo RockJam 661 cuenta con un panel LCD que muestra y activa los 100 ritmos, 50 tonos, funciones de enseñanza y 30 canciones de demostración que son parte de su funcionalidad.
+- Este súper kit de teclado de piano eléctrico contiene un asiento acolchado que se pliega fácilmente y tiene un asiento acolchado grueso para horas confortables de tocar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0107NMLGA/?tag=tolees-21)

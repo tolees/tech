@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-eq1073ns - Ordenador portátil de  al 20.15 % de descuento'
-date: 2021-08-29 23:48:27
+date: 2021-08-31 20:03:32
 image: 'https://m.media-amazon.com/images/I/41aONk6JqqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFKHT51/?tag=tolees-21'
 descuento: '20.15'
-average: '565.05'
+average: '561.507692307692'
 ---
 
 Está [HP 15s-eq1073ns - Ordenador portátil de 15.6" FullHD  Ryzen 7-4700U  12GB de RAM  1TB SSD  Amd Radeon Integrated Graphics  Sin sistema operativo   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08PFKHT51/?tag=tolees-21) con 20.15 de descuento por 519.0 EUR (original: 649.99 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [HP 15s-eq1073ns - Ordenador portátil de 15.6" FullHD  Ryzen 7-4700U  12G
 
 ℹ️:
 
-- Sin sistema operativo
-- Pantalla de 15.6" FullHD
 - Tarjeta gráfica Integrada Amd Radeon Integrated Graphics
+- Pantalla de 15.6" FullHD
 - Almacenamiento de 1TB SSD
 - Procesador Ryzen 7-4700U
 - 12GB de memoria RAM
+- Sin sistema operativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFKHT51/?tag=tolees-21)

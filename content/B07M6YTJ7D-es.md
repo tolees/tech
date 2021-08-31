@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony GTK-XB72  Altavoz  Sistema de Audio al 46.00 % de descuento'
-date: 2021-08-30 10:42:49
+date: 2021-08-31 20:30:36
 image: 'https://m.media-amazon.com/images/I/41AdGrcCZnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07M6YTJ7D/?tag=tolees-21'
 descuento: '46.00'
-average: '225.983846153846'
+average: '223.342142857143'
 ---
 
 Ahora mismo tienes [Sony GTK-XB72  Altavoz  Sistema de Audio de Alta Potencia Extra Bass  Negro](https://www.amazon.es/dp/B07M6YTJ7D/?tag=tolees-21) a 189.0 EUR (original: 350.0 EUR) (46.00 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Sony GTK-XB72  Altavoz  Sistema de Audio de Alta Potencia Ex
 🔎:
 
 - Anima tu fiesta con luces lineales, de altavoz y estroboscópicas
+- Conecta varios altavoces con Wireless Party Chain mediante Bluetooth
 - Configuración vertical y horizontal
 - Extra Bass para un sonido grave y Profundo
 - Transmite y controla desde tu smartphone con la aplicación Sony | Music Center
-- Conecta varios altavoces con Wireless Party Chain mediante Bluetooth
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M6YTJ7D/?tag=tolees-21)
