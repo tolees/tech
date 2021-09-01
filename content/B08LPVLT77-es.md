@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy Smart CS 1482DE/1-S  Lavadora 8 kg al 27.86 % de descuento'
-date: 2021-08-30 08:28:38
+date: 2021-09-01 06:56:37
 image: 'https://m.media-amazon.com/images/I/41HUW6tLroL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Candy'
 buyurl: 'https://www.amazon.es/dp/B08LPVLT77/?tag=tolees-21'
 descuento: '27.86'
-average: '278.6425'
+average: '274.714'
 ---
 
 Ahora mismo tienes [Candy Smart CS 1482DE/1-S  Lavadora 8 kg  1400 rpm  Planchado fácil  5 programas rápidos  WiFi  Bluetooth  Blanco](https://www.amazon.es/dp/B08LPVLT77/?tag=tolees-21) a 259.0 EUR (original: 359.0 EUR) (27.86 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Candy Smart CS 1482DE/1-S  Lavadora 8 kg  1400 rpm  Planchad
 🔎:
 
 - Lavadora con escotilla alta y grande, mandos intuitivos y conectividad por NFC, a través de la app Simply-Fi de Candy
-- Inicio diferido hasta 24 h: retrasa la hora de inicio de tu lavadora hasta 24 h, según tus necesidades
 - Medidas (alto x ancho x profundo): 85 x 60 x 53 cm
 - Salva tus facturas de agua y luz, silencio y resultados impecables en todas tus coladas
+- Inicio diferido hasta 24 h: retrasa la hora de inicio de tu lavadora hasta 24 h, según tus necesidades
 - Lavadora 8 kg, 1400 rpm, con set completo de 15 programas, 5 rápidos (de menos de 1 h) y ciclo Higiene +, para desinfectar prendas de ropa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LPVLT77/?tag=tolees-21)
