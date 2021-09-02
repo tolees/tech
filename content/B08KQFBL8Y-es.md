@@ -28,12 +28,12 @@ En este momento está [Philips B6305/10 Barra de Sonido TV con Subwoofer Inalám
 
 🔎:
 
-- Sumérgete en tus series y películas favoritas; esta barra de sonido bluetooth de Philips es compatible con el formato dolby digital para disfrutar de una experiencia más amplia y envolvente
-- Esta barra de sonido con subwoofer inalámbrico de 2.1 canales ofrece un sonido más rico, profundo y claro a tus series y películas favoritas; el subwoofer garantiza graves ricos
-- Potencia (W): 140.0 watts
-- Con un perfil de solo 35 mm esta barra de sonido para TV es perfecta para televisores con soportes más bajos; el diseño ultracompacto permite posicionarla flexible
-- Potencia (W): 140.0 watts
 - Esta barra de sonido con subwoofer integrado se conecta al televisor mediante HDMI arc, lo que te permite controlar el volumen de la barra de sonido con el mismo mando a distancia del televisor
 - Contenido: Philips b6305/10 barra de sonido TV con subwoofer; pila, cable, adaptador de corriente, mando a distancia, repetidor de infrarrojos, soporte de montaje en pared, guía de inicio rápido, folleto de garantía mundial dimensiones de la barra de sonido: 650 x 35 x 81 mm, dimensiones del subwoofer: 120 x 402 x 300 mm
+- Potencia (W): 140.0 watts
+- Con un perfil de solo 35 mm esta barra de sonido para TV es perfecta para televisores con soportes más bajos; el diseño ultracompacto permite posicionarla flexible
+- Esta barra de sonido con subwoofer inalámbrico de 2.1 canales ofrece un sonido más rico, profundo y claro a tus series y películas favoritas; el subwoofer garantiza graves ricos
+- Potencia (W): 140.0 watts
+- Sumérgete en tus series y películas favoritas; esta barra de sonido bluetooth de Philips es compatible con el formato dolby digital para disfrutar de una experiencia más amplia y envolvente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KQFBL8Y/?tag=tolees-21)
