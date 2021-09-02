@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.14 % en HUAWEI WiFi Mesh  3 Pack  - Router Mesh '
-date: 2021-09-01 00:56:35
+date: 2021-09-02 01:13:40
 image: 'https://m.media-amazon.com/images/I/31d5lVl8nEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08L99S5LB/?tag=tolees-21'
 descuento: '36.14'
-average: '176.360833333333'
+average: '175.6664'
 ---
 
 Tienes [HUAWEI WiFi Mesh  3 Pack  - Router Mesh  Repetidor de wifi  Triple banda AC2200  CPU de cuatro núcleos 1.4GHz  Cobertura sólida y fiable en todo tu hogar  hasta 600 m²   Color Blanco](https://www.amazon.es/dp/B08L99S5LB/?tag=tolees-21) con un 36.14 % de descuento con precio de oferta de 159.0 EUR (original: 249.0 EUR) en el siguiente enlace!

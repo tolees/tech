@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.21 % en Altavoz 30W Portátil Bluetooth 5.0 AY  I'
-date: 2021-09-01 00:46:05
+date: 2021-09-02 00:55:37
 image: 'https://m.media-amazon.com/images/I/51e3kpa8IrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AY'
 buyurl: 'https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21'
 descuento: '25.21'
-average: '40.2954687500004'
+average: '40.2841634241249'
 ---
 
 Tienes [Altavoz 30W Portátil Bluetooth 5.0 AY  Impermeable IPX7 Altavozs Inalámbrico  Sonido estéreo HD Potentes & Micrófono  Resistente a Golpes  Autonomía de 24H para Camping Viajes  Aire Libre.](https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21) con un 25.21 % de descuento con precio de oferta de 37.39 EUR (original: 49.99 EUR) en el siguiente enlace!
