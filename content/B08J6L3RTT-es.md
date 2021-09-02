@@ -28,15 +28,15 @@ En este momento está [2020 Apple iPad Air  de 10 9 Pulgadas  con Wi-Fi + Cell
 
 🔎:
 
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
-- Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
 - Hasta 10 horas de autonomía
-- Chip A14 Bionic con Neural Engine
-- Sonido estéreo amplio
-- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
-- Touch ID para autenticarse deforma segura y usar Apple Pay
 - Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
 - Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
+- Sonido estéreo amplio
+- Chip A14 Bionic con Neural Engine
+- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Touch ID para autenticarse deforma segura y usar Apple Pay
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J6L3RTT/?tag=tolees-21)
