@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.08 % en SPC Smartee Training-Smartband de 1.28" '
-date: 2021-08-26 16:55:46
+date: 2021-09-02 15:04:50
 image: 'https://m.media-amazon.com/images/I/41lX7nAwS7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [SPC Smartee Training-Smartband de 1.28"  LCD  Bluetooth  Negro  Juventud
 
 - Compatible con ios y android a través de la app smartee
 - Realiza un seguimiento de tu actividad deportiva
+- Pantalla especial para ver bajo la luz del sol
 - Autonomía de 7 días
 - Recibe notificaciones de todas las apps de tu smartphone
-- Pantalla especial para ver bajo la luz del sol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MFGZC15/?tag=tolees-21)
