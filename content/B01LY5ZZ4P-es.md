@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSSDA-960G Plus  Disco Sólido I al 24.50 % de rebaja'
-date: 2021-08-28 15:28:13
+date: 2021-09-03 21:04:51
 image: 'https://m.media-amazon.com/images/I/41GBMwKZo9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [SanDisk SDSSDA-960G Plus  Disco Sólido Interno de 960 GB  SATA III SSD 
 
 - Arranque, apagado, carga de aplicaciones y respuesta más rápidos
 - Resistente a golpes para una durabilidad demostrada, incluso si se te cae el ordenador
-- Hasta 20 veces más rápida que un disco duro estándar
 - 960 GB: velocidades de lectura/escritura de hasta 535 MB/s/450 MB/s
+- Hasta 20 veces más rápida que un disco duro estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LY5ZZ4P/?tag=tolees-21)
