@@ -28,8 +28,8 @@ Ahora mismo tienes [Energy Sistem Gaming Keyboard ESG K6 Mechanik  Teclado USB  
 
 🔎:
 
-- - TKL keyboard: Teclado mecánico TKL con pulsadores azules para una durabilidad extrema.
-- - RGB LED effects: Tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable.
 - - Full anti-ghosting & Blue switch: Disfruta de una cómoda pulsación tanto cuando juegas largas horas como cuando escribes grandes textos.
+- - RGB LED effects: Tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable.
+- - TKL keyboard: Teclado mecánico TKL con pulsadores azules para una durabilidad extrema.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P7LVHDV/?tag=tolees-21)
