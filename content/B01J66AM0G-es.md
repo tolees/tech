@@ -28,11 +28,11 @@ Tienes [AKAI Professional LPK25 Wireless - Mini Teclado controlador USB MIDI Blu
 
 ℹ️:
 
+- Cuatro bancos de memoria programables para memorizar y utilizar los mapeos preferitos
 - Teclado controlador USB-MIDI compatible con cualquier DAW e instrumento virtual y perfecto para enviar y recibir información MIDI a través de Bluetooth a iOS y Mac OSX (Bluetooth LE4)
-- 25 mini teclas sensibles a la velocidad para tocar melodías, acordes, líneas de bajo y mucho más en cualquier instrumento virtual
 - Arpegiador, entrada para pedal de sostenido, controles de cambio de octava arriba/abajo y tap tempo para una creación instantánea con un amplio rango de melodías expresivas
 - Teclado ultra compacto de menos de 38 cm, suficientemente pequeño como para encajar en una mochila de portátil
-- Cuatro bancos de memoria programables para memorizar y utilizar los mapeos preferitos
 - Incluye un software editor que permite definir y memorizar internamente los parámetros asignados a cada control
+- 25 mini teclas sensibles a la velocidad para tocar melodías, acordes, líneas de bajo y mucho más en cualquier instrumento virtual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01J66AM0G/?tag=tolees-21)

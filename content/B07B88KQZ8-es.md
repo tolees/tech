@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL GO 2 Altavoz inalámbrico portátil co con un 31.81 % de descuento'
-date: 2021-09-02 00:56:23
+date: 2021-09-03 01:11:53
 image: 'https://m.media-amazon.com/images/I/51IwswJUyrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B07B88KQZ8/?tag=tolees-21'
 descuento: '31.81'
-average: '23.753381294964'
+average: '23.7541428571428'
 ---
 
 En este momento está [JBL GO 2 Altavoz inalámbrico portátil con Bluetooth  resistente al agua IPX7  hasta 5 h de reproducción con sonido de alta fidelidad  azul](https://www.amazon.es/dp/B07B88KQZ8/?tag=tolees-21) a 23.86 EUR (original: 34.99 EUR) (31.81 %  de descuento) en el siguiente enlace!
