@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Mi Electric Scooter 1S  Black   V al 22.24 % de descuento'
-date: 2021-09-01 21:52:50
+date: 2021-09-03 14:41:27
 image: 'https://m.media-amazon.com/images/I/31HT2DsvJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21'
 descuento: '22.24'
-average: '366.74322834646'
+average: '366.611640625003'
 ---
 
 Ahora mismo tienes [XIAOMI Mi Electric Scooter 1S  Black   Versión básica](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21) a 349.9 EUR (original: 449.99 EUR) (22.24 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [XIAOMI Mi Electric Scooter 1S  Black   Versión básica](htt
 
 🔎:
 
-- Elegante y elegante, portátil y seguro.
 - [Potencia nominal <350V, velocidad max <25km/h, autonomía >20Km, sistema de luces completo alimentado por batería, carga máxima superior a 60Kg]
 - Diseño minimalista, aluminio de grado
+- Elegante y elegante, portátil y seguro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21)

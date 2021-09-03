@@ -28,15 +28,15 @@ En este momento está [realme 8 Pro Smartphone Libre  Cámara cuádruple Ultra d
 
 🔎:
 
-- 3x ultra zoom: la tecnología in-sensor zoom que incorpora el realme 8 pro utiliza el 3x ultra zoom para hacer fotografías que no sean inferiores a las tomadas con el 3x optical zoom. puede hacer 8 fotografías rápidamente cada vez y luego sintetizarse para mejorar la nitidez.
-- Gran batería de 4500 mah: modo de ahorro de batería superior
-- Escáner para huella dactilar ultrarrápido en pantalla: el realme 8 pro cuenta con un sensor para huella dactilar justo en la pantalla, para un desbloqueo más natural, reactivo y rápido que el método de botón tradicional.
-- Proceso de cristal ag: hemos conseguido un deslumbrante efecto de constelación a través de nuestro nuevo proceso de cristal antirreflejos. las partículas esmeriladas antirreflejos se agrandan y aclaran, creando una microtextura que da una profunda sensación de dimensión. el resultado es un acabado de cristal natural que combina brillo y mate en una superficie rugosa y delicada.
-- Diseñado para capturar estrellas infinitas: diseño fino & ligero de 176 g y 8,1 mm x
-- Pantalla completa amoled superior de 16,3 cm (6,4""): escáner para huella dactilar ultrarrápido en pantalla
-- Tipo de conector: USB tipo C
-- Procesador qualcomm snapdragon 720g: procesador de juegos de 8 nm
 - Carga superdart de 50 w: 50 % de carga en 17 minutos
+- Gran batería de 4500 mah: modo de ahorro de batería superior
+- Procesador qualcomm snapdragon 720g: procesador de juegos de 8 nm
+- Proceso de cristal ag: hemos conseguido un deslumbrante efecto de constelación a través de nuestro nuevo proceso de cristal antirreflejos. las partículas esmeriladas antirreflejos se agrandan y aclaran, creando una microtextura que da una profunda sensación de dimensión. el resultado es un acabado de cristal natural que combina brillo y mate en una superficie rugosa y delicada.
+- Pantalla completa amoled superior de 16,3 cm (6,4""): escáner para huella dactilar ultrarrápido en pantalla
+- Diseñado para capturar estrellas infinitas: diseño fino & ligero de 176 g y 8,1 mm x
+- Escáner para huella dactilar ultrarrápido en pantalla: el realme 8 pro cuenta con un sensor para huella dactilar justo en la pantalla, para un desbloqueo más natural, reactivo y rápido que el método de botón tradicional.
 - Cámara cuádruple ultra de 108 mp: vídeo de time-laps para constelaciones
+- Tipo de conector: USB tipo C
+- 3x ultra zoom: la tecnología in-sensor zoom que incorpora el realme 8 pro utiliza el 3x ultra zoom para hacer fotografías que no sean inferiores a las tomadas con el 3x optical zoom. puede hacer 8 fotografías rápidamente cada vez y luego sintetizarse para mejorar la nitidez.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WXMVNQ3/?tag=tolees-21)

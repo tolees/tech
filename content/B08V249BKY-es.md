@@ -28,11 +28,11 @@ Tienes [Lenovo IdeaPad 3 - Ordenador portátil 14" FullHD  Intel Core i5-1135G7 
 
 🔎:
 
-- Sistema operativo: Windows 10 Home en modo S
-- Procesador Intel Core i5-1135G7 (4C/8T, 4.2 GHz, 8 MB)
 - Almacenamiento de 512GB SSD M.2 2242 NVMe
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Procesador Intel Core i5-1135G7 (4C/8T, 4.2 GHz, 8 MB)
 - Pantalla de 14" FullHD 1920x1080 píxeles, TN, 250nits
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Sistema operativo: Windows 10 Home en modo S
 - Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V249BKY/?tag=tolees-21)
