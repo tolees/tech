@@ -28,10 +28,10 @@ Está [Nikon D3500 - Cámara digital 24 2 MP VR  24 2 MP  6000 x 4000 Pixeles  C
 
 ℹ️:
 
-- Kit d3500 + af-p dx 18 – 55 vr
-- Rango de sensibilités extiende de iso 100 a 25 600
-- La aplicación snapbridge para ios y android establece una conexión permanente entre tu cámara y tu smartphone/tablet
 - Vídeos en full hd de una fluidez y de una claridad excepcional a los cadences máximas de 60p
+- Rango de sensibilités extiende de iso 100 a 25 600
+- Kit d3500 + af-p dx 18 – 55 vr
+- La aplicación snapbridge para ios y android establece una conexión permanente entre tu cámara y tu smartphone/tablet
 - El gran sensor en formato dx de de 24,2 megapíxeles del d3500 ofrece una de las fotos y vídeos full hd
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GZP6JPG/?tag=tolees-21)
