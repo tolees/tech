@@ -28,10 +28,10 @@ Tienes [Gigabyte Technology H310M S2H Intel Micro ATX Socket LGA 1151 Placa madr
 
 🔎:
 
-- Nuestro h310m s2h solo admite procesadores intel core de novena y octava generación
-- Audio hd de 8 canales con condensadores de audio de alta calidad
 - Canal doble ddr4 sin memoria intermedia sin ecc
 - Producto que combina tradición e innovación
+- Audio hd de 8 canales con condensadores de audio de alta calidad
 - ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Nuestro h310m s2h solo admite procesadores intel core de novena y octava generación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BKK9LHR/?tag=tolees-21)
