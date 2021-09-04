@@ -28,10 +28,10 @@ Tienes [AOC Monitor Gaming 24G2U5/BK- 24"   Full HD  75Hz  1ms  IPS  FreeSync   
 
 🔎:
 
-- E-sports: puesta a punto para disfrutar de los mejores juegos
-- Panel ips: mira desde cualquier ángulo
-- FreeSync: sincroniza tu PC con lo que ves en pantalla
 - 1 ms: velocidad de respuesta inmejorable
 - Resolución FULL HD: la mejor calidad de imagen
+- E-sports: puesta a punto para disfrutar de los mejores juegos
+- FreeSync: sincroniza tu PC con lo que ves en pantalla
+- Panel ips: mira desde cualquier ángulo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YN79RJG/?tag=tolees-21)
