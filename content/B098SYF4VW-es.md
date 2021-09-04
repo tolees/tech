@@ -28,9 +28,9 @@ Tienes [Auriculares Inalámbricos Diadema  SoundPEATS A6 Auriculares Bluetooth 5
 
 🔎:
 
-- 【Tecnología híbrida de cancelación activa de ruido / ANC】 Los auriculares Bluetooth SoundPEATS A6 pueden reducir más del 90% el ruido de forma eficaz con la tecnología híbrida ANC. Adecuado para estaciones o cabañas ruidosas, calles animadas o subterráneos en las horas pico de la mañana y la tarde.
 - 【Plegable duradero único】 Los auriculares inalámbricos con orejeras giratorias de 90 ° se pueden plegar a un tamaño compacto, que es cómodo de llevar. Y las orejeras de espuma viscoelástica pueden cubrir completamente sus oídos para reducir la presión sobre sus oídos. Y el diseño minimalista in-ear se ajusta a las características estéticas y tendencias de consumo de los consumidores.
 - 【Diseño ergonómico y ajuste superior】 La almohadilla suave para la diadema, la diadema ajustable, las orejeras de espuma viscoelástica y las orejeras giratorias de 90 ° de los auriculares inalámbricos están diseñadas ergonómicamente para adaptarse al contorno único de su cabeza, un ajuste perfecto para usar durante todo el día.
+- 【Tecnología híbrida de cancelación activa de ruido / ANC】 Los auriculares Bluetooth SoundPEATS A6 pueden reducir más del 90% el ruido de forma eficaz con la tecnología híbrida ANC. Adecuado para estaciones o cabañas ruidosas, calles animadas o subterráneos en las horas pico de la mañana y la tarde.
 - 【Carga rápida USB-C y tiempo de reproducción 40H】 La avanzada tecnología de carga rápida USB-C de los auriculares puede garantizar 5 minutos de carga para obtener 4H de reproducción. Totalmente cargado solo 45 minutos para un tiempo de reproducción de 40 horas. TENGA EN CUENTA que solo tiene 30 horas de reproducción si enciende el ANC, así que si no es necesario, apague el ANC para ahorrar electricidad.
 - 【Sonido cristalino y graves profundos】 El controlador dinámico integrado de 40 mm del auricular Bluetooth A6 proporciona un sonido estéreo claro y graves potentes. La última tecnología Bluetooth 5.0 garantiza un bajo consumo de energía y una conectividad más estable.
 
