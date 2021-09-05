@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G PRO X Auriculares Inalámbrico con un 16.26 % de descuento'
-date: 2021-09-04 16:10:33
+date: 2021-09-05 17:57:11
 image: 'https://m.media-amazon.com/images/I/41KgCnYO+JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07W5JKB8Z/?tag=tolees-21'
 descuento: '16.26'
-average: '148.417272727273'
+average: '146.515833333334'
 ---
 
 En este momento está [Logitech G PRO X Auriculares Inalámbricos LIGHTSPEED para Gaming  Micrófono Blue VO!CE  Controladores PRO-G de 50 mm  DTS: Sonido Envolvente X 2.0  Espuma Viscoelástica  Batería de 20 Horas - Negro](https://www.amazon.es/dp/B07W5JKB8Z/?tag=tolees-21) a 125.6 EUR (original: 149.99 EUR) (16.26 %  de descuento) en el siguiente enlace!

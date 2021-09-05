@@ -28,10 +28,10 @@ Tienes [LG - 14Z90P - Portátil ultraligero 14" WUXGA  Intel EvoTM i7 11ª Gener
 
 ℹ️:
 
-- Memoria RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 1TB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
 - Ultraligero, con tan solo 1 Kg de peso y batería de hasta 18.5 horas de autonomía convierten al LG gram en el más portátil de los portátiles
+- Nueva pantalla de 30.2 cm (14") en formato 16:10 con panel IPS WUXGA (1920 x 1200px), que mejora el rango de color hasta un 99% del DCI-P3
+- Memoria RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 1TB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
 - Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
 - Conectividad universal en tan solo 16.8 mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0)
-- Nueva pantalla de 30.2 cm (14") en formato 16:10 con panel IPS WUXGA (1920 x 1200px), que mejora el rango de color hasta un 99% del DCI-P3
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0916CHZZ5/?tag=tolees-21)
