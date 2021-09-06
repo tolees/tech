@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot - Robot aspirador Roomba 692 Wifi al 51.13 % de rebaja'
-date: 2021-09-04 18:34:58
+date: 2021-09-06 15:27:15
 image: 'https://m.media-amazon.com/images/I/41RkR6SMTuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'iRobot'
 buyurl: 'https://www.amazon.es/dp/B0854XVNLK/?tag=tolees-21'
 descuento: '51.13'
-average: '236.677377049177'
+average: '236.338536585363'
 ---
 
 Tienes [iRobot - Robot aspirador Roomba 692 Wifi  para alfombras y suelos  Dirt Detect  Sistema de limpieza en 3 fases  Smart Home y control App  Sugerencias personalizadas  Compatible con asistentes voz](https://www.amazon.es/dp/B0854XVNLK/?tag=tolees-21) con precio final de  195.0 EUR (original: 399.0 EUR) (51.13 %  de rebaja) aqui!
