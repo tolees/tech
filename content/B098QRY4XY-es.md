@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook D15 - Ordenador Portátil al 18.21 % de rebaja'
-date: 2021-09-04 11:09:44
+date: 2021-09-06 05:54:16
 image: 'https://m.media-amazon.com/images/I/31gTjxUV+XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Huawei Matebook D15 - Ordenador Portátil Ultrafino de 15.6" FullHD  Int
 
 🔎:
 
+- Almacenamiento de 256GB SSD NVMe PCIe.
 - Memoria RAM de 8GB DDR4 2400MHz.
 - Procesador Intel Core i3-10110U
 - Tarjeta gráfica Intel UHD Graphics 620
-- Almacenamiento de 256GB SSD NVMe PCIe.
 - Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B098QRY4XY/?tag=tolees-21)
