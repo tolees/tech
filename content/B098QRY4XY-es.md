@@ -28,10 +28,10 @@ Tienes [Huawei Matebook D15 - Ordenador Portátil Ultrafino de 15.6" FullHD  Int
 
 🔎:
 
-- Almacenamiento de 256GB SSD NVMe PCIe.
-- Memoria RAM de 8GB DDR4 2400MHz.
 - Procesador Intel Core i3-10110U
 - Tarjeta gráfica Intel UHD Graphics 620
 - Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
+- Memoria RAM de 8GB DDR4 2400MHz.
+- Almacenamiento de 256GB SSD NVMe PCIe.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B098QRY4XY/?tag=tolees-21)
