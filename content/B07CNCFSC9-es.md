@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pioneer DJ HDJ-S7-K Auriculares para DJ  al 46.44 % de rebaja'
-date: 2021-08-27 20:40:07
+date: 2021-09-06 08:28:47
 image: 'https://m.media-amazon.com/images/I/41yMB8Zg1UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
