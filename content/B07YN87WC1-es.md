@@ -28,8 +28,8 @@ Está [AOC Monitor Gaming 27G2U5/BK - 27"Full HD  75Hz  1ms  IPS  FreeSync  1920
 
 ℹ️:
 
-- FreeSync: alcanza un óptimo "framerate" evitando el "screen tearing" o el "lag"
 - Altavoces incorporados: disfruta de un sonido envolvente
+- FreeSync: alcanza un óptimo "framerate" evitando el "screen tearing" o el "lag"
 - Diseño de bisel estrecho sin marco: minimiza las distracciones y crea configuraciones de varios paneles prácticamente ininterrumpidas
 - Ajustable en altura para disfrutar de una óptima visión desde cualquier posición
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [HUAWEI MatePad T 10 con 9.7 pulgadas de pantalla y resoluci�
 
 🔎:
 
-- 2GB de RAM y 16GB de almacenamiento.
-- No incluye ranura para la tarjeta SIM.
-- Cuerpo metálico, diseño elegante, 450g, 2MP de cámara frontal y 5MP de cámara trasera.
 - Procesador Octa-Core Kirin 710A que ofrece gráficos y rendimiento avanzados. Sistema de altavoces HUAWEI Histen 6.1.
 - Pantalla táctil HD de 9.7 pulgadas con una resolución de 1280 x 800 píxeles. Protección visual Eye Comfort certificada por TÜV Rheinland con una luz azul drásticamente reducida. Modo eBook, modo oscuro con ajuste de brillo.
+- Cuerpo metálico, diseño elegante, 450g, 2MP de cámara frontal y 5MP de cámara trasera.
 - NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
+- 2GB de RAM y 16GB de almacenamiento.
+- No incluye ranura para la tarjeta SIM.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D6NPCH7/?tag=tolees-21)
