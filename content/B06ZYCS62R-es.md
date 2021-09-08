@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nikon - Nikkon D7500 - Cámara réflex dig al 30.24 % de descuento'
-date: 2021-09-02 18:34:42
+date: 2021-09-08 09:48:31
 image: 'https://m.media-amazon.com/images/I/51aCol7rxQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nikon'
 buyurl: 'https://www.amazon.es/dp/B06ZYCS62R/?tag=tolees-21'
 descuento: '30.24'
-average: '1172.01303030302'
+average: '1175.47999999999'
 ---
 
 Ahora mismo tienes [Nikon - Nikkon D7500 - Cámara réflex digital de 20.9 Mp  pantalla LCD 3.2"  4K/UHD  SnapBridge  Bluetooth  Wifi  color negro - kit con objetivo AF-S DX 18-140 mm f/3.5-5.6G ED VR](https://www.amazon.es/dp/B06ZYCS62R/?tag=tolees-21) a 1289.89 EUR (original: 1849.0 EUR) (30.24 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Nikon - Nikkon D7500 - Cámara réflex digital de 20.9 Mp  p
 🔎:
 
 - Mantenga la imagen definida, precisión de AF extrema
-- Pantalla abatible vertical y controles táctiles
+- Apta para la noche, increíble sensibilidad lumínica
 - Metraje de vídeo 4K/UHD
 - Mantenga la cámara conectada a su dispositivo inteligente con SnapBridge
-- Apta para la noche, increíble sensibilidad lumínica
+- Pantalla abatible vertical y controles táctiles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06ZYCS62R/?tag=tolees-21)
