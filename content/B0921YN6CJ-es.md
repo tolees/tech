@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco F3 - Smartphone 256GB  8GB R al 34.47 % de descuento'
-date: 2021-08-31 19:20:08
+date: 2021-09-08 19:07:37
 image: 'https://m.media-amazon.com/images/I/41uyP9UezCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0921YN6CJ/?tag=tolees-21'
 descuento: '34.47'
-average: '338.954166666666'
+average: '338.034615384615'
 ---
 
 Está [Xiaomi Poco F3 - Smartphone 256GB  8GB RAM  Dual Sim  Night Black](https://www.amazon.es/dp/B0921YN6CJ/?tag=tolees-21) con 34.47 de descuento por 327.0 EUR (original: 499.0 EUR) en el siguiente enlace!
