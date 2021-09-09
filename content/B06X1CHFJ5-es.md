@@ -28,11 +28,11 @@ Tienes [Tenda AC6 Router Inalámbrico Inteligente de Doble Banda  AC1200  4 Puer
 
 ℹ️:
 
+- 4 antenas externas 5dBi para extender la cobertura a todo el hogar
 - AC6 puede alcanzar una velocidad total de hasta 1200 Mbps manteniendo su estabilidad de la red
 - Mejor Router AC Doble Banda en cuanto calidad/precio
-- Facil instalación y gestión con la APP Tenda WiFi
 - Control Parental, WPS,VPN
-- 4 antenas externas 5dBi para extender la cobertura a todo el hogar
+- Facil instalación y gestión con la APP Tenda WiFi
 - Atraviesa las paredes con Tecnología Tenda Beamforming+ diseñada para hogares y espacios con múltiples habitaciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06X1CHFJ5/?tag=tolees-21)

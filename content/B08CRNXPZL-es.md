@@ -29,8 +29,8 @@ En este momento está [Asus TUF VG249Q1R - Monitor Gaming de 23 8" Full HD  1920
 🔎:
 
 - Shadow Boost mejora el detalle de la imagen en áreas oscuras y resalta los sujetos brillantes sin sobreexponerlos
-- Con tecnología de interfaces DP y HDMI que permiten una velocidad de fotogramas variable para una jugabilidad fluida, sin latencia y sin roturas
 - La tecnología ELMB permite un tiempo de respuesta de 1 ms, mientras que Adaptive-Sync evita el efecto fantasma y el desgarro
+- Con tecnología de interfaces DP y HDMI que permiten una velocidad de fotogramas variable para una jugabilidad fluida, sin latencia y sin roturas
 - Monitor para juegos con frecuencia de actualización ultra rápida de 165 Hz, diseñado para jugadores profesionales y juegos envolventes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CRNXPZL/?tag=tolees-21)
