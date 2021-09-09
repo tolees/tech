@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Band 5 Rastreador de ejercicios  al 15.06 % de descuento'
-date: 2021-09-08 13:14:04
+date: 2021-09-09 15:37:03
 image: 'https://m.media-amazon.com/images/I/41cOL1yyxXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08DKTL1CH/?tag=tolees-21'
 descuento: '15.06'
-average: '29.1487499999999'
+average: '28.8967999999999'
 ---
 
 Está [Amazfit Band 5 Rastreador de ejercicios con Alexa incorporada Duración de la batería de 15 días Oxigeno en sangre Ritmo cardiaco Monitoreo del sueño Seguimiento de la salud de la mujer Pantalla](https://www.amazon.es/dp/B08DKTL1CH/?tag=tolees-21) con 15.06 de descuento por 22.85 EUR (original: 26.9 EUR) en el siguiente enlace!
