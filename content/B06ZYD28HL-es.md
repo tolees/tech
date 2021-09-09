@@ -28,10 +28,10 @@ En este momento está [Pequeño Altavoz Bluetooth Inalámbrico Portátil Multiro
 
 🔎:
 
-- Magia inalámbrica, el altavoz con el que siempre has soñado: El Addon C5 es un pequeño altavoz que puedes colocar en cualquier lugar, un estéreo Multiroom con un gran sonido y graves profundos. Puedes incluso guardar tus playlist y emisoras de radio favoritas con un solo clic
-- Selección de materiales de primera calidad: Altavoces de diseño elegante hechos de aluminio sólido, una caja de madera resistente y un mango de cuero genuino, es el altavoz portátil perfecto para el uso diario
-- Un sonido que no querrás dejar de escuchar: Puedes mejorar la calidad del sonido y configurarlo como más te guste ajustando la configuración del DSP y optimizando los graves. El sonido de estos altavoces es puro, claro y con graves profundos, combinado con una batería de gran capacidad.
 - Pequeños altavoces con un gran sonido: Audio Pro diseña sus productos hasta el mínimo detalle y quiere que los disfrutes al máximo, sin problemas, con la mejor calidad de sonido y al mejor precio
+- Un sonido que no querrás dejar de escuchar: Puedes mejorar la calidad del sonido y configurarlo como más te guste ajustando la configuración del DSP y optimizando los graves. El sonido de estos altavoces es puro, claro y con graves profundos, combinado con una batería de gran capacidad.
+- Magia inalámbrica, el altavoz con el que siempre has soñado: El Addon C5 es un pequeño altavoz que puedes colocar en cualquier lugar, un estéreo Multiroom con un gran sonido y graves profundos. Puedes incluso guardar tus playlist y emisoras de radio favoritas con un solo clic
 - Especificaciones técnicas - Altavoz estéreo activo con reflejo de bajos; Amplificador: digital clase D, 2x8W + 25W; Respuesta de frecuencia: 50-20.000Hz; Medidas: 130 x 250 x 150 mm; Entradas: Wi-Fi, Bluetooth V4.0, RCA in y Aux; Transmisión: Spotify Connect, Apple Airplay; Peso: 2,45kg
+- Selección de materiales de primera calidad: Altavoces de diseño elegante hechos de aluminio sólido, una caja de madera resistente y un mango de cuero genuino, es el altavoz portátil perfecto para el uso diario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06ZYD28HL/?tag=tolees-21)
