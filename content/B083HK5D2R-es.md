@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk - Western Digital WD Blue SN550  al 30.00 % de descuento'
-date: 2021-09-08 20:41:10
+date: 2021-09-09 23:02:24
 image: 'https://m.media-amazon.com/images/I/41w7tA7KdvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [SanDisk - Western Digital WD Blue SN550 M.2 500 GB PCI Expre
 
 - Producto de calidad
 - Material duradero
-- Paqueteage Weight: 1.0 kilograms
 - WDBA3V5000ANC-WRSN
+- Paqueteage Weight: 1.0 kilograms
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083HK5D2R/?tag=tolees-21)
