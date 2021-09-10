@@ -28,9 +28,9 @@ Está [Lenovo ThinkPad X13 Yoga Gen 1 - Portátil Táctil Convertible 13.3" Full
 
 ℹ️:
 
+- Tarjeta gráfica Integrada Intel UHD Graphics
 - Pantalla táctil de 13.3" FullHD 1920x1080 píxeles, IPS, 300nits, antirreflejo
 - Memoria RAM de 8GB Soldered DDR4-2666
-- Tarjeta gráfica Integrada Intel UHD Graphics
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Almacenamiento de 256GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal2
 
