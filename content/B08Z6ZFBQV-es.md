@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco X3 Pro - Smartphone 256GB  8 al 33.43 % de descuento'
-date: 2021-09-09 07:33:27
+date: 2021-09-10 18:12:01
 image: 'https://m.media-amazon.com/images/I/414BAJNhcuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08Z6ZFBQV/?tag=tolees-21'
 descuento: '33.43'
-average: '236.193125'
+average: '236.358235294118'
 ---
 
 Está [Xiaomi Poco X3 Pro - Smartphone 256GB  8GB RAM  Dual Sim  Frost Blue](https://www.amazon.es/dp/B08Z6ZFBQV/?tag=tolees-21) con 33.43 de descuento por 239.0 EUR (original: 359.0 EUR) en el siguiente enlace!
