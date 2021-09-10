@@ -28,10 +28,10 @@ Tienes [ASUS VG279Q - Monitor Gaming de 27" Full-HD  1920x1080  1 ms  144 Hz  IP
 
 🔎:
 
-- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
-- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas
 - Monitor Full HD (1920x1080) de 27 con 144 Hz de refresco y Adaptive-Sync (FreeSync) para unos gráficos
+- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas
 - 1 ms de tiempo de respuesta para una buena fluidez y ASUS Extreme Low Motion Blur (ELMB) para que las escenas borrosas cobren nitidez
+- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
 - Soporte ergonómico que permite regular la altura e inclinación del monitor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KP34NMJ/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [FR-TEC - FR·TEC - Dragon Ball Auriculares Stereo Headset
 
 🔎:
 
-- Micrófono para chat incluido
 - Licencia Oficial Dragon BAll
 - Control de volumen y chat incorporado
+- Micrófono para chat incluido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06X3R9Z3D/?tag=tolees-21)
