@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix Impact II - Ratón ambidie al 30.01 % de descuento'
-date: 2021-08-24 15:37:39
+date: 2021-09-10 20:55:35
 image: 'https://m.media-amazon.com/images/I/31IUJ-J2q6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B082J9PT7P/?tag=tolees-21'
 descuento: '30.01'
-average: '36.8528571428571'
+average: '36.62'
 ---
 
 Ahora mismo tienes [ASUS ROG Strix Impact II - Ratón ambidiestro y ergonómico de Gaming  Sensor óptico de 6200 PPP  diseño Ligero  iluminación Aura Sync RGB  Negro](https://www.amazon.es/dp/B082J9PT7P/?tag=tolees-21) a 34.99 EUR (original: 49.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
@@ -29,11 +29,11 @@ Ahora mismo tienes [ASUS ROG Strix Impact II - Ratón ambidiestro y ergonómico 
 🔎:
 
 - Deslizamiento rápido y suave con un cable liviano de goma suave
+- Iluminación asus aura rgb y compatibilidad con el ecosistema aura sync
 - Construcción ligera y diseño ambidiestro diseñado junto a gamers profesionales para optimizar su rendimiento en juegos
+- Sensor óptico de 6200 ppp y un interruptor dpi con cuatro niveles de sensibilidad
 - Interruptores desmontables para personalizar fácilmente la resistencia al clic y extender la vida útil del ratón
 - Interruptores pivotantes con una respuesta más rápida, precisa y satisfactoria
-- Sensor óptico de 6200 ppp y un interruptor dpi con cuatro niveles de sensibilidad
-- Iluminación asus aura rgb y compatibilidad con el ecosistema aura sync
 - Botón dpi para ajustar la sensibilidad sobre la marcha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082J9PT7P/?tag=tolees-21)
