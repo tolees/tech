@@ -28,8 +28,8 @@ Ahora mismo tienes [Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon 
 
 🔎:
 
-- Adaptador de montura EF-M pequeño y ligero para EOS M
-- Compatible con una gama completa de objetivos EF y EF-S de Canon
 - Soporte de trípode extraíble
+- Compatible con una gama completa de objetivos EF y EF-S de Canon
+- Adaptador de montura EF-M pequeño y ligero para EOS M
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008O0IE2Y/?tag=tolees-21)
