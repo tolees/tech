@@ -28,9 +28,9 @@ Ahora mismo tienes [Kingston A400 SSD SA400S37/1920G - Disco duro sólido intern
 
 🔎:
 
-- Rendimiento óptimo para la transferencia de archivos
-- Velocidad de transferencia de datos: 500 MB/s
 - Fiable y resistente
 - Capacidad de la memoria: 1.92 TB
+- Rendimiento óptimo para la transferencia de archivos
+- Velocidad de transferencia de datos: 500 MB/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQJSGWY/?tag=tolees-21)
