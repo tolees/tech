@@ -29,10 +29,10 @@ Tienes [Microsoft Surface Go 2 - Ordenador portátil 2 en 1 de 10.5" Full HD  In
 🔎:
 
 - Pantalla táctil de 10.5 pulgadas, Full HD 1920 x 1080 pixels
-- Memoria RAM de 8 GB LPDDR3
-- Compatible con Surface Go 1 y Surface Go 2
-- Procesador Dual-Core Intel Pentium Gold 4425Y (2 núcleos, 2 MB Cache, 1.7 GHz)
-- Teclado Microsoft Surface Go Signa Cover
 - No dispone de indicador de batería cargada
+- Compatible con Surface Go 1 y Surface Go 2
+- Teclado Microsoft Surface Go Signa Cover
+- Memoria RAM de 8 GB LPDDR3
+- Procesador Dual-Core Intel Pentium Gold 4425Y (2 núcleos, 2 MB Cache, 1.7 GHz)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0886W4LTS/?tag=tolees-21)
