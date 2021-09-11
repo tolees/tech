@@ -28,9 +28,9 @@ Ahora mismo tienes [Western Digital - WD Elements - Disco duro externo de sobrem
 
 🔎:
 
+- Rápidas transferencias de datos
 - Calidad WD por dentro y por fuera
 - Almacenamiento adicional de alta capacidad
-- Rápidas transferencias de datos
 - Plug-and-Play para ordenadores Windows
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KY32HFR/?tag=tolees-21)
