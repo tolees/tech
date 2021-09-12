@@ -28,11 +28,11 @@ Está [LG SN6Y - Barra de sonido 3.1 con 420W de potencia  DTS Virtual:X  subwoo
 
 ℹ️:
 
-- Potencia: 420 W
 - Sonido DTS Virtual X
-- Subwoofer inalámbrico
 - 3.1 canales
 - HDMI in/out
+- Potencia: 420 W
+- Subwoofer inalámbrico
 - AI Sound Pro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3LZS71/?tag=tolees-21)

@@ -28,15 +28,15 @@ Está [Apple Watch SE  GPS  44 mm  Caja de Aluminio en Gris Espacial - Correa D
 
 ℹ️:
 
-- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
-- Paga con total seguridad desde la muñeca con Apple Pay.
-- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
-- Gran pantalla Retina OLED.
-- Sincroniza música, podcasts y audiolibros.
-- Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
-- Diseño apto para nadar.
 - Brújula integrada y registro del desnivel en tiempo real.
-- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
 - El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
+- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
+- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
+- Gran pantalla Retina OLED.
+- Paga con total seguridad desde la muñeca con Apple Pay.
+- Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
+- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
+- Diseño apto para nadar.
+- Sincroniza música, podcasts y audiolibros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6ZZCXF/?tag=tolees-21)
