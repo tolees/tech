@@ -29,10 +29,10 @@ Ahora mismo tienes [Logitech G910 Orion Spectrum  Teclado Gaming Mecánico  Retr
 🔎:
 
 - La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
-- Teclas G Programables: El teclado Orion Spectrum dispone de 9 teclas G totalmente personalizables, a las que se pueden asignar comandos por perfil, colocadas para optimizar el acceso
-- Velocidad y Rendimiento: El teclado con cable USB Logtiech Orion Spectrum ofrece una gran velocidad, con un 40% más de durabilidad para un rendimiento máximo usado con un ratón Logitech
-- RGB LIGHTSYNC: La iluminación RGB de Orion Spectrum se puede personalizar con una paleta de 16 millones de colores. La parte superior de cada tecla está iluminada para un resplandor uniforme
 - Romer-G Táctil: Los interruptores mecánicos Romer-G exclusivos convierten a Orion Spectrum en el teclado más rápido de nuestra historia. Una actuación de 1,5 mm permite la entrada de datos en Orion
+- Velocidad y Rendimiento: El teclado con cable USB Logtiech Orion Spectrum ofrece una gran velocidad, con un 40% más de durabilidad para un rendimiento máximo usado con un ratón Logitech
+- Teclas G Programables: El teclado Orion Spectrum dispone de 9 teclas G totalmente personalizables, a las que se pueden asignar comandos por perfil, colocadas para optimizar el acceso
 - Segunda Pentalla Arx: Mediante la base ajustable se pueden conectar Smartphones y tablets a Orion Spectrum. Con Arx Control, los dispositivos móviles pueden mostrar información del juego en curso
+- RGB LIGHTSYNC: La iluminación RGB de Orion Spectrum se puede personalizar con una paleta de 16 millones de colores. La parte superior de cada tecla está iluminada para un resplandor uniforme
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01G7AWZEA/?tag=tolees-21)

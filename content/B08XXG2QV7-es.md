@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MSBAX  Altavoz  al 19.53 % de descuento'
-date: 2021-08-24 20:29:43
+date: 2021-09-12 11:08:20
 image: 'https://m.media-amazon.com/images/I/51AA09bb6ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MARSGAMING'
 buyurl: 'https://www.amazon.es/dp/B08XXG2QV7/?tag=tolees-21'
 descuento: '19.53'
-average: '13.895'
+average: '13.514'
 ---
 
 Ahora mismo tienes [MARSGAMING - Mars Gaming MSBAX  Altavoz Bluetooth RGB  Compacto 10W  USB/MicroSD/Radio  Negro](https://www.amazon.es/dp/B08XXG2QV7/?tag=tolees-21) a 11.99 EUR (original: 14.9 EUR) (19.53 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [MARSGAMING - Mars Gaming MSBAX  Altavoz Bluetooth RGB  Compa
 
 🔎:
 
+- compacto y gran autonomía: tamaño súper compacto y con una batería de gran capacidad para hasta 8 horas de uso; para que lo lleves a cualquier parte; ¡sin limitaciones!
+- conectividad total: este altavoz portátil dispone de la última generación bluetooth 5.0 de hasta 10 metros de rango, para que puedas utilizar tu teléfono móvil o cualquier otro dispositivo; además, cuenta con un puerto usb, una ranura para microsd y radio fm, ofreciendo múltiples formas distintas de reproducir tu música favorita
 - sonido impactante: gracias a su potente driver activo de 10w y a sus dos drivers pasivos ultra-bass tendrás una impresionante calidad y potencia de sonido
 - iluminación rgb: con hasta 8 efectos diferentes de iluminación rgb este pequeño pero potente altavoz inalámbrico llevará la estética gaming a cualquier parte o llenará de color tu mesa gamer; también si lo prefieres está disponible en negro o en los colores trending, blanco o rosa. ¡elige el color perfecto que vaya contigo y tu setup gamer!
-- conectividad total: este altavoz portátil dispone de la última generación bluetooth 5.0 de hasta 10 metros de rango, para que puedas utilizar tu teléfono móvil o cualquier otro dispositivo; además, cuenta con un puerto usb, una ranura para microsd y radio fm, ofreciendo múltiples formas distintas de reproducir tu música favorita
-- compacto y gran autonomía: tamaño súper compacto y con una batería de gran capacidad para hasta 8 horas de uso; para que lo lleves a cualquier parte; ¡sin limitaciones!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08XXG2QV7/?tag=tolees-21)
