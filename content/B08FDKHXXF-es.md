@@ -28,9 +28,9 @@ En este momento está [Withings Scanwatch Charging Cable  Unisex-Adult](https://
 
 🔎:
 
-- Ofrece un rendimiento óptimo
-- Cable cargador
-- Fácil de usar
 - Marca del producto: Withings
+- Cable cargador
+- Ofrece un rendimiento óptimo
+- Fácil de usar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FDKHXXF/?tag=tolees-21)
