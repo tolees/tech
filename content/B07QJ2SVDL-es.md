@@ -28,10 +28,10 @@ Ahora mismo tienes [OtterBox para Apple iPad Mini 5th gen  Funda Protectora Ruge
 
 🔎:
 
-- Tapas para los puertos - las tapas de los puertos evitan que entre polvo y suciedad
-- Protección de triple capa - carcasa de triple capa a prueba de caídas; parte interior rígida, cubierta exterior resistente
 - Protector de pantalla - esta robusta carcasa protectora de tres capas soporta caídas, golpes e impactos
 - Tapa / soporte protector incluidos - el soporte protector permite la vista horizontal o vertical, así como un ángulo de escritura natural
 - Pensada para proteger - probada por nosotros; fabricada para ti; la protección certificada contra caídas drop+ de otterbox supone más de 24 ensayos durante más de 238 horas, lo que certifica que esta carcasa fina y resistente funciona a la perfección cuando más se necesita
+- Tapas para los puertos - las tapas de los puertos evitan que entre polvo y suciedad
+- Protección de triple capa - carcasa de triple capa a prueba de caídas; parte interior rígida, cubierta exterior resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QJ2SVDL/?tag=tolees-21)
