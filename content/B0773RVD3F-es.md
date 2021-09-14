@@ -29,10 +29,10 @@ En este momento está [Rapoo Ratón óptico inalámbrico multimodo MT550  Negro 
 🔎:
 
 - Dispositivos compatibles: Windows XP/Vista/7/8/10, USB port
-- Hasta 12 meses de duración de la batería
+- Conexión inalámbrica multimodo fiable: se conecta a través de Bluetooth 3.0, 4.0 e inalámbrica de 2.4 GHz
 - Diseño cómodo y elegante
 - Conéctate a varios dispositivos. Cambia entre dispositivos conectados en un solo clic
-- Conexión inalámbrica multimodo fiable: se conecta a través de Bluetooth 3.0, 4.0 e inalámbrica de 2.4 GHz
+- Hasta 12 meses de duración de la batería
 - Sensor DPI de alta resolución totalmente ajustable de 1600 grados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0773RVD3F/?tag=tolees-21)

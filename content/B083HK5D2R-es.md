@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk - Western Digital WD Blue SN550  al 30.00 % de descuento'
-date: 2021-09-09 23:02:24
+date: 2021-09-14 10:27:37
 image: 'https://m.media-amazon.com/images/I/41w7tA7KdvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
