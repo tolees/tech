@@ -28,11 +28,11 @@ Ahora mismo tienes [Microsoft Surface Go 2 Ordenador portátil 2 en 1 de 10.5 pu
 
 🔎:
 
+- Sistema operativo Windows 10 Home en modo S; Actualización gratuita a Windows 11 cuando esté disponible(consulta “Descripción del Producto” abajo)
+- Incluye ranura para tarjeta SIM - LTE ADVANCED, no incluye Type Cover (funda con teclado)
 - Memoria RAM de 8 GB LPDDR3
-- Procesador Dual-Core Intel Core m3-8100Y (2 núcleos, 4 MB Cache, 1.10 GHz hasta 3.40 GHz)
 - Disco duro solido de 128 GB
 - Pantalla táctil de 10.5 pulgadas, Full HD 1920x1280 pixels
-- Incluye ranura para tarjeta SIM - LTE ADVANCED, no incluye Type Cover (funda con teclado)
-- Sistema operativo Windows 10 Home en modo S; Actualización gratuita a Windows 11 cuando esté disponible(consulta “Descripción del Producto” abajo)
+- Procesador Dual-Core Intel Core m3-8100Y (2 núcleos, 4 MB Cache, 1.10 GHz hasta 3.40 GHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087KFQHGH/?tag=tolees-21)
