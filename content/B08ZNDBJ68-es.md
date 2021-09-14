@@ -28,10 +28,10 @@ En este momento está [Lenovo Tab P11 Pro - Tablet de 11.5" WQXGA  Qualcomm Snap
 
 🔎:
 
-- Procesador Qualcomm Snapdragon 730G (8C, 8x Kryo 470 @2.2GHz)
-- Memoria RAM de 6GB LPDDR4x (uMCP, DRAM), ampliables hasta 1TB
-- Tarjeta gráfica Integrada Qualcomm Adreno 618 GPU
-- Pantalla táctil de 11.5" WQXGA, 2560x1600 píxeles, OLED, 350nits, Dolby Vision, 100% sRGB, Glossy
 - Almacenamiento de 128GB (uMCP, UFS 2.1) ampliables hasta 256GB con memoria Fat32, hasta 1TB con memoria ExFat
+- Tarjeta gráfica Integrada Qualcomm Adreno 618 GPU
+- Memoria RAM de 6GB LPDDR4x (uMCP, DRAM), ampliables hasta 1TB
+- Pantalla táctil de 11.5" WQXGA, 2560x1600 píxeles, OLED, 350nits, Dolby Vision, 100% sRGB, Glossy
+- Procesador Qualcomm Snapdragon 730G (8C, 8x Kryo 470 @2.2GHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZNDBJ68/?tag=tolees-21)
