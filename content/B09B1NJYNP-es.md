@@ -28,10 +28,10 @@ Está [Suncall - Mini PC  8GB DDR4 + 128GB SSD Intel Celeron J4125 Procesador  h
 
 ℹ️:
 
-- 【Especificaciones de E / S】 Diseñado con 2*puertos USB 2.0, 2*puertos USB 3.0, 1*puerto Gigabit Ethernet, 2*puertos HDMI y 1 *puerto VGA que admite tres pantallas
-- 【Opciones de expansión de memoria】 DDR3 de 8 GB incorporado, SSD mSATA de 128 GB, compatible con HDD / SSD SATA de 2,5 pulgadas hasta 2 TB.
-- 【Procesador Intel Celeron】 Mini PC preinstalado el sistema operativo Windows 10 Professional (64 bits). Procesador Intel Celeron J4125 de cuatro núcleos. Su frecuencia de funcionamiento base es de 2,0 GHz / sy aumenta a 2,7 GHz en modo ráfaga.
 - 【Dual WIFI】 Mini Computadora Desktop admite WiFi de banda dual 2.4G 5G y LAN de 1000Mbps, por lo que la velocidad de carga o descarga es muy rápida y fluida.
+- 【Procesador Intel Celeron】 Mini PC preinstalado el sistema operativo Windows 10 Professional (64 bits). Procesador Intel Celeron J4125 de cuatro núcleos. Su frecuencia de funcionamiento base es de 2,0 GHz / sy aumenta a 2,7 GHz en modo ráfaga.
+- 【Opciones de expansión de memoria】 DDR3 de 8 GB incorporado, SSD mSATA de 128 GB, compatible con HDD / SSD SATA de 2,5 pulgadas hasta 2 TB.
+- 【Especificaciones de E / S】 Diseñado con 2*puertos USB 2.0, 2*puertos USB 3.0, 1*puerto Gigabit Ethernet, 2*puertos HDMI y 1 *puerto VGA que admite tres pantallas
 - 【Procesador de gráficos】 La mini computadora está equipada con Intel UHD Graphics 600, que admite 4K UHD@60Hz, brindándole la mejor experiencia de TV con calidad de imagen realista, que puede usarse como un centro multimedia para disfrutar de programas de TV o juegos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09B1NJYNP/?tag=tolees-21)
