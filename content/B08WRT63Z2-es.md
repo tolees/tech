@@ -29,10 +29,10 @@ Ahora mismo tienes [Lenovo IdeaPad 3 Chromebook - Ordenador Portátil 14" FullHD
 🔎:
 
 - Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
-- Sistema Operativo: Chrome OS
-- Tarjeta gráfica integrada Intel UHD Graphics 600
-- Pantalla de 14" FullHD, 1920x1080 píxeles, TN, 220nits, Antirreflejo
-- Memoria RAM de 4GB Soldered LPDDR4-2400
 - Almacenamiento de 64GB eMMC 5.1
+- Tarjeta gráfica integrada Intel UHD Graphics 600
+- Memoria RAM de 4GB Soldered LPDDR4-2400
+- Sistema Operativo: Chrome OS
+- Pantalla de 14" FullHD, 1920x1080 píxeles, TN, 220nits, Antirreflejo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WRT63Z2/?tag=tolees-21)
