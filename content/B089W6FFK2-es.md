@@ -28,9 +28,9 @@ Ahora mismo tienes [Ratón de gaming AOC GM200 - con un sensor de 4.200 DPI  col
 
 🔎:
 
-- Con el cable de PVC de 1,8 metros de largo hay suficiente cable para colocar el ratón de juego AOC GM200 donde lo necesites. Esto permite que tus sesiones de juego sean aún más flexibles
-- El sensor de juego Pixart PMW 3519 con 4.200 ppp reales asegura una precisión casi perfecta en cualquier situación de juego y también es perfecto para el trabajo de oficina y para navegar por Internet.
-- Presionando el botón DPI, puedes cambiar la resolución DPI y el color, lo que crea la atmósfera apropiada para el juego.
 - Los interruptores OMRON con hasta 10 millones de pulsaciones proporcionan una experiencia de juego duradera, incluso con uso intenso
+- Presionando el botón DPI, puedes cambiar la resolución DPI y el color, lo que crea la atmósfera apropiada para el juego.
+- El sensor de juego Pixart PMW 3519 con 4.200 ppp reales asegura una precisión casi perfecta en cualquier situación de juego y también es perfecto para el trabajo de oficina y para navegar por Internet.
+- Con el cable de PVC de 1,8 metros de largo hay suficiente cable para colocar el ratón de juego AOC GM200 donde lo necesites. Esto permite que tus sesiones de juego sean aún más flexibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089W6FFK2/?tag=tolees-21)
