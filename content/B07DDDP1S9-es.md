@@ -29,9 +29,9 @@ Tienes [Anker PowerCore 10000mAh Batería Portátil Inalámbrico con Entrada USB
 🔎:
 
 - Únete a más de 50 millones de clientes felices. Cargando el ancla. 
-- ENORME CAPACIDAD: Mientras carga su Smartphone o auriculares con 5W, puede alimentar simultáneamente otro dispositivo con 12W de potencia a través del puerto USB! (Potencia máxima 12W.)
 - CARGA FLEXIBLE: Simplemente centra tu smartphone con capacidad Qi en la plataforma de carga - ¡listo! El dispositivo se carga con hasta 5W a la velocidad del rayo. 
-- QUÉ OBTIENE: PowerCore 10K Wireless Powerbank, un cable de carga de USB-A a USB-C, un estuche de viaje, un manual de usuario, 18 meses de garantía y un amigable servicio de atención al cliente. (No se incluye el adaptador de corriente, se vende por separado)
 - DOBLE POTENCIA: ¡El PowerCore puede recargarse en un instante con una fuente de alimentación a través del puerto USB-C y carga su Smartphone al mismo tiempo! 
+- QUÉ OBTIENE: PowerCore 10K Wireless Powerbank, un cable de carga de USB-A a USB-C, un estuche de viaje, un manual de usuario, 18 meses de garantía y un amigable servicio de atención al cliente. (No se incluye el adaptador de corriente, se vende por separado)
+- ENORME CAPACIDAD: Mientras carga su Smartphone o auriculares con 5W, puede alimentar simultáneamente otro dispositivo con 12W de potencia a través del puerto USB! (Potencia máxima 12W.)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DDDP1S9/?tag=tolees-21)

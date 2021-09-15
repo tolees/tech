@@ -28,10 +28,10 @@ Tienes [SoundPEATS TrueFree2 Auriculares inalámbricos Bluetooth 5.0 Auriculares
 
 ℹ️:
 
-- [Control total y operación fácil]: el control de botón sensible en la oreja brinda un toque cómodo y permite una operación precisa al cambiar de pista, ajustar el volumen, manejar llamadas y activar el asistente de voz lo más fácil posible.
+- [Indicadores de carga y tipo-C]: los indicadores con forma de batería dentro del estuche de carga le dan un estado claro de la batería que queda en el estuche, un LED representa el 25% de energía. La carga tipo C brinda comodidad y garantiza una carga rápida y segura.
+- [Sonido agradable y 20 horas]: Los drivers de diafragma biocompuesto de 6 mm incorporado transmite un sonido finamente sintonizado con una claridad excepcional y sin distorsión. Aproximadamente 4 veces las recargas completas mediante estuche de carga enriquecen su tiempo libre.
 - [Aletas y IPX7 a prueba de agua]: las aletas de silicona exclusivas y suaves te brindan un ajuste cómodo y seguro. El diseño reforzado y la clasificación IPX7 protegen los auriculares del sudor y el agua, y le permite disfrutar de su estilo de vida positivo y activo.
 - [Conexión ininterrumpida y emparejamiento automático]: conexión perfecta entre el modo individual con auriculares o el modo individual/doble. Ambos auriculares son compatibles con la unidad principal/principal. Emparejamiento instantáneo justo después de la caja de carga.
-- [Sonido agradable y 20 horas]: Los drivers de diafragma biocompuesto de 6 mm incorporado transmite un sonido finamente sintonizado con una claridad excepcional y sin distorsión. Aproximadamente 4 veces las recargas completas mediante estuche de carga enriquecen su tiempo libre.
-- [Indicadores de carga y tipo-C]: los indicadores con forma de batería dentro del estuche de carga le dan un estado claro de la batería que queda en el estuche, un LED representa el 25% de energía. La carga tipo C brinda comodidad y garantiza una carga rápida y segura.
+- [Control total y operación fácil]: el control de botón sensible en la oreja brinda un toque cómodo y permite una operación precisa al cambiar de pista, ajustar el volumen, manejar llamadas y activar el asistente de voz lo más fácil posible.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PCRV5NB/?tag=tolees-21)
