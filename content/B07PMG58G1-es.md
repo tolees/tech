@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alcatel 2053D - Teléfono Móvil Dual SIM  al 21.11 % de descuento'
-date: 2021-09-05 16:42:28
+date: 2021-09-16 07:22:09
 image: 'https://m.media-amazon.com/images/I/31VvgmwvWLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Alcatel 2053D - Teléfono Móvil Dual SIM de 2.4"  2G  RAM de 4 MB  Cáma
 ℹ️:
 
 - Incluye RadioFM, reproductor de música, linterna, filtros de llamada, alarma y calendario.
+- Diseño elegante y agradable en formato concha con gran teclado y pantalla de 2.4” qvga, cámara de hasta 1.3MP
 - Autonomía de hasta 8 días.
 - Dual SIM, con la posibilidad de ampliar memoria hasta 32 gb
-- Diseño elegante y agradable en formato concha con gran teclado y pantalla de 2.4” qvga, cámara de hasta 1.3MP
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PMG58G1/?tag=tolees-21)
