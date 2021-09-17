@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo D27-30 - Monitor Gaming 27" FullH con un 15.63 % de descuento'
-date: 2021-09-16 09:32:35
+date: 2021-09-17 10:02:45
 image: 'https://m.media-amazon.com/images/I/41bpubSH4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21'
 descuento: '15.63'
-average: '142.132857142856'
+average: '141.656666666666'
 ---
 
 En este momento está [Lenovo D27-30 - Monitor Gaming 27" FullHD  VA  75Hz  4ms  HDMI  VGA  FreeSync  Ajuste de inclinación - Negro](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21) a 134.99 EUR (original: 159.99 EUR) (15.63 %  de descuento) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [Lenovo D27-30 - Monitor Gaming 27" FullHD  VA  75Hz  4ms 
 
 🔎:
 
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Soporte VESA para montar la pantalla en la pared
-- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- AMD FreeSync
 - Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
 - Cable VGA incluido en la caja
 - Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
-- Relación de aspecto 16:9 y relación de contraste 3000:1
+- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
 - Puertos HDMI y VGA
+- Relación de aspecto 16:9 y relación de contraste 3000:1
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Ajuste de inclinación (-5° / 22°)
+- Soporte VESA para montar la pantalla en la pared
+- AMD FreeSync
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21)
