@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Gaming Keyboard ESG K6 Mec al 26.53 % de descuento'
-date: 2021-09-03 15:40:26
+date: 2021-09-17 07:46:44
 image: 'https://m.media-amazon.com/images/I/41nGrZ-O0GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Energy Sistem Gaming Keyboard ESG K6 Mechanik  Teclado USB  
 
 🔎:
 
+- - TKL keyboard: Teclado mecánico TKL con pulsadores azules para una durabilidad extrema.
 - - Full anti-ghosting & Blue switch: Disfruta de una cómoda pulsación tanto cuando juegas largas horas como cuando escribes grandes textos.
 - - RGB LED effects: Tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable.
-- - TKL keyboard: Teclado mecánico TKL con pulsadores azules para una durabilidad extrema.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P7LVHDV/?tag=tolees-21)
