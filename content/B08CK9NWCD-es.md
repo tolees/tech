@@ -28,11 +28,11 @@ Tienes [ASUS Chromebook Z1400CN-EB0420 - Portátil de 14" FullHD  Celeron N3350 
 
 🔎:
 
-- Tarjeta gráfica integrada Intel HD Graphics 500
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
-- Memoria RAM de 4GB SO-DIMM LPDDR4 2400MHz
 - Sistema Operativo: Chrome OS
-- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Tarjeta gráfica integrada Intel HD Graphics 500
+- Memoria RAM de 4GB SO-DIMM LPDDR4 2400MHz
 - Almacenamiento de 32GB eMMC
+- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CK9NWCD/?tag=tolees-21)

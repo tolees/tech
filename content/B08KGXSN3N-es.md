@@ -28,10 +28,10 @@ En este momento está [HORI - Controlador Split Pad Pro Pac-Man  Nintendo Switch
 
 🔎:
 
-- Botones traseros programables
-- Licencias oficiales de Nintendo y Bandai Namco
-- la precisión y comodidad del Pro Controller, en modo portátil
 - Diseño exclusivo para Pac-Man, compatible también con otros títulos para Switch
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Botones traseros programables
+- la precisión y comodidad del Pro Controller, en modo portátil
+- Licencias oficiales de Nintendo y Bandai Namco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KGXSN3N/?tag=tolees-21)

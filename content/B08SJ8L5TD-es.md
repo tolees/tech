@@ -29,9 +29,9 @@ Tienes [Beelink SEi8 Mini PC Mini Ordenador de Sobremesa con Intel 8th Gen i5-82
 ℹ️:
 
 - [Memoria actualizable] Esta computadora tiene instalada una memoria RAM DDR4 de 8GB y se puede actualizar hasta 32GB. Ha instalado una ROM SSD NVMe M.2 2280 de 256 GB y puede ampliar el espacio de almacenamiento a través de un disco duro SATA de 2,5 pulgadas para sus necesidades personales.
-- [CPU y gráficos] Intel Coffee Lake i5-8279U de octava generación integrado, 2.4GHz, Turbo 4.1Ghz, 4 núcleos 8 hilos, admite 6 MB de caché inteligente, Intel Iris Plus Graphics 655, 64 bits de Windows 10.
 - [WIFI 6] El WIFI utiliza actualmente la última tecnología WIFI 6 (802.11ax), que es aproximadamente 3 veces más rápida y más estable que la anterior WIFI 5. Velocidad de transmisión hasta 2400 Mbps, reduce aproximadamente el 75% del tiempo de retardo, siempre en línea a alta velocidad y estabilidad para que pueda navegar por Internet sin latencia.
 - [Pantallas de pantalla dual] Equipado con 2 puertos HDMI que le permiten realizar múltiples tareas con facilidad y reproducir videos 4K HD sin problemas, mejorando la eficiencia de su trabajo. Con Intel Iris Plus Graphics 655, Gigabit Ethernet LAN 1000M, Bluetooth 5.0, garantice una navegación fluida, edite medios y procesos de trabajo de reacción rápida. Prepárese para gráficos y rendimiento increíbles.
 - [Disipación de calor eficiente] Incorporado en un gran ventilador silencioso (velocidad máxima <4500 rpm) + tubo de calor F6 dual + disipador de calor, que logran que el calor se disipe rápidamente y garantizan la estabilidad del sistema, admiten el funcionamiento a largo plazo. Esta mini PC con un tamaño de solo 124 * 113 * 41 mm, un peso de solo 345.5 g es realmente bastante compacta, ahorra espacio, ideal para uso en el hogar, la oficina y viajes de negocios.
+- [CPU y gráficos] Intel Coffee Lake i5-8279U de octava generación integrado, 2.4GHz, Turbo 4.1Ghz, 4 núcleos 8 hilos, admite 6 MB de caché inteligente, Intel Iris Plus Graphics 655, 64 bits de Windows 10.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08SJ8L5TD/?tag=tolees-21)
