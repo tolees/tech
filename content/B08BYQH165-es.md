@@ -28,11 +28,11 @@ Tienes [ASUS TUF Gaming F15 FX506LH-HN042 - Portátil Gaming de 15.6" FullHD 144
 
 ℹ️:
 
-- Almacenamiento de 512GB M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 15.6" Full HD (1920 x 1080) de 144Hz
+- Almacenamiento de 512GB M.2 NVMe PCIe
 - Procesador Intel Core i5-10300H (2.5GHz, 8MB)
 - Memoria RAM de 16GB (2 x 8GB) DDR4-2933MHz
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BYQH165/?tag=tolees-21)
