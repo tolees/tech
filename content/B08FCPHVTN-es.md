@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad E15 - Ordenador portátil con un 18.75 % de descuento'
-date: 2021-09-15 10:31:31
+date: 2021-09-18 17:46:53
 image: 'https://m.media-amazon.com/images/I/4102urlALoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08FCPHVTN/?tag=tolees-21'
 descuento: '18.75'
-average: '720.12888888889'
+average: '718.233243243244'
 ---
 
 En este momento está [Lenovo ThinkPad E15 - Ordenador portátil 15.6" FullHD  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Pro   Color negro - Teclado QWERTY español](https://www.amazon.es/dp/B08FCPHVTN/?tag=tolees-21) a 649.99 EUR (original: 799.99 EUR) (18.75 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [Lenovo ThinkPad E15 - Ordenador portátil 15.6" FullHD  I
 
 🔎:
 
-- Sistema operativo Windows 10 Pro 64
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Memoria RAM de 8GB SO-DIMM DDR4-2666
-- Pantalla de 15.6" FullHD (1920x1080) WVA 250nits Anti-glare
 - Almacenamiento de 256GB SSD M.2 2242 PCIe NVMe 3.0x2
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
+- Sistema operativo Windows 10 Pro 64
+- Pantalla de 15.6" FullHD (1920x1080) WVA 250nits Anti-glare
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB SO-DIMM DDR4-2666
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCPHVTN/?tag=tolees-21)
