@@ -28,12 +28,12 @@ Está [MSI MAG X570 Tomahawk WiFi - Placa Base Arsenal  AMD X570  2 x PCI-E 4.0 
 
 ℹ️:
 
-- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Lighning Gen4 Solution: PCI-E Gen 4 y solución M.2 con hasta 64 Gb/s de banda ancha para la mejor velocidad de transferencia
+- Extended Heatsink Design: el disipador PWM extendido y el circuito mejorado aseguran sacarle todo el partido hasta a los procesadores de más alta gama
+- Capacidad de almacenamiento de memoria: 128.0 GB
 - Twin Turbo M.2: con dos ranuras M.2; corriendo tu PCI-E Gen 4 x4 maximiza el rendimiento para SSDs basados en NVMe
 - M.2 Shield Frozr; accesorio térmico de M.2; mantiene tus SSDs M.2 seguros mientras prevé el estrangulamiento, haciéndolos correr más rápido
 - Frozr Heatsink Desing: diseñado con el patentado ventilador con doble rodamiento de bolas para proveer el mejor rendimiento para gamers entusiastas y prosumers
-- Extended Heatsink Design: el disipador PWM extendido y el circuito mejorado aseguran sacarle todo el partido hasta a los procesadores de más alta gama
-- Capacidad de almacenamiento de memoria: 128.0 GB
-- Lighning Gen4 Solution: PCI-E Gen 4 y solución M.2 con hasta 64 Gb/s de banda ancha para la mejor velocidad de transferencia
+- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0896G6HSC/?tag=tolees-21)
