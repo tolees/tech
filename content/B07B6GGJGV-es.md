@@ -28,11 +28,11 @@ Está [Robot aspirador iRobot Roomba 981 Alta potencia y Power Boost  Recarga y 
 
 ℹ️:
 
-- Ofrece sugerencias para ayudarte: los robots aprenden de tu estilo de limpieza y te hacen sugerencias personalizadas para programar automáticamente esas limpiezas
-- Reanuda la limpieza donde la dejó: los robots saben cuándo necesitan recargarse; a continuación, reanudan la limpieza justo donde la dejaron
 - Roomba 98X no descansa hasta que tus suelos están limpios; gracias al sistema de navegación vSLAM, Roomba 97X mapea tu casa para navegar en filas ordenadas y eficientes; si la batería está baja, él mismo se recarga y continúa donde lo dejó para terminar el trabajo
-- La tecnología Dirt Detect permite al robot aspirador Roomba98X detectar las áreas más sucias de tu hogar y limpiarlas a fondo
 - Experimenta una limpieza completa gracias a sus dos cepillos de goma multisuperficie y una aspiración de alta potencia 10 veces superior, en comparación con el sistema de limpieza de Roomba serie 600, que acaba con la suciedad, los restos y el pelo de tus mascotas, se escondan donde se escondan, junto con el cepillo para esquinas y bordes que se encarga de los detalles
+- Reanuda la limpieza donde la dejó: los robots saben cuándo necesitan recargarse; a continuación, reanudan la limpieza justo donde la dejaron
+- Ofrece sugerencias para ayudarte: los robots aprenden de tu estilo de limpieza y te hacen sugerencias personalizadas para programar automáticamente esas limpiezas
+- La tecnología Dirt Detect permite al robot aspirador Roomba98X detectar las áreas más sucias de tu hogar y limpiarlas a fondo
 - Limpia sin mover un dedo: gracias a que es compatible con dispositivos habilitados para el asistente de Google y Alexa, Roomba 981 limpia tu hogar con solo escuchar tu voz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B6GGJGV/?tag=tolees-21)
