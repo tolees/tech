@@ -29,8 +29,8 @@ Tienes [Desconocido - HAVERLAND RCO-8 | Emisor Térmico Fluido Bajo Consumo | Pr
 ℹ️:
 
 - FUNCIÓN “BOOST”: Con esta función activarás tu radiador a máxima potencia durante un período de 120 minutos, que difundirá un calor constante sin tener en cuenta el termostato durante este período.
-- DISEÑO ECOLÓGICO: Ecológico y 100% reciclable. Los radiadores RCO cumplen con todos los criterios de diseño ecológico establecidos por la Comisión Europea.
 - TECNOLOGÍA BLUETOOTH: ¡radiadores diseñados para hacerte la vida más fácil! Todo lo que necesita hacer es acercar su teléfono inteligente a su radiador para transmitir automáticamente los datos de programación y configuración del dispositivo, interactuando así de una manera más eficiente e intuitiva.
+- DISEÑO ECOLÓGICO: Ecológico y 100% reciclable. Los radiadores RCO cumplen con todos los criterios de diseño ecológico establecidos por la Comisión Europea.
 - HAVERLAND RCO-8: El modelo RCO-8 (1500 W) es ideal para un uso prolongado de más de 6 horas al día y para estancias de +/- 17-24 m².
 - DISEÑO ULTRA COMPACTO: La nueva gama de radiadores de inercia de fluido caloportador RCO te sorprenderá no solo por su elegante diseño sino también por su alta eficiencia energética, gracias a su innovador cuerpo de aluminio, alcanzando un coeficiente de 200 W por elemento. Transmisión de calor alta y eficiente sin aumentar la temperatura de la superficie. Distribución equilibrada y homogénea del calor en toda la superficie del radiador.
 
