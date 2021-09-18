@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR EX6250 - Repetidor WiFi  Amplifi al 28.70 % de descuento'
-date: 2021-09-17 02:31:22
+date: 2021-09-18 20:33:40
 image: 'https://m.media-amazon.com/images/I/41fHIqtFhhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.es/dp/B07W8GZGP2/?tag=tolees-21'
 descuento: '28.70'
-average: '62.0774452554747'
+average: '61.989202898551'
 ---
 
 Ahora mismo tienes [NETGEAR EX6250 - Repetidor WiFi  Amplificador WiFi Mesh AC1750 Dual Band  Compatibilidad Universal](https://www.amazon.es/dp/B07W8GZGP2/?tag=tolees-21) a 49.9 EUR (original: 69.99 EUR) (28.70 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [NETGEAR EX6250 - Repetidor WiFi  Amplificador WiFi Mesh AC17
 
 🔎:
 
-- Funcionalidad mesh universal: use el mismo nombre de red que su router módem para tener conexiones estables incluso cuando vaya de una habitación a otra en la casa
-- Puertos gigabit ethernet: simplemente conecte consolas de videojuegos, decodificadores o cualquier otro dispositivo a través del puerto ethernet gigabit
+- Repetidor de wifi mesh ex6250: cobertura wifi de hasta 110 metros cuadrados y conecta hasta 20 dispositivos como ordenadores portátiles, teléfonos inteligentes, tablets, cámara s wifi, dispositivos iot y mucho más
 - Wifi ac1750: hasta 1750 mbps de velocidad inalámbrica de doble banda y tecnología fastlane para transmisión de vídeo hd y juegos en línea
 - Compatibilidad mesh universal: la función mesh está habilitada con cualquier módem de fibra/adsl, router y punto de acceso
-- Repetidor de wifi mesh ex6250: cobertura wifi de hasta 110 metros cuadrados y conecta hasta 20 dispositivos como ordenadores portátiles, teléfonos inteligentes, tablets, cámara s wifi, dispositivos iot y mucho más
+- Funcionalidad mesh universal: use el mismo nombre de red que su router módem para tener conexiones estables incluso cuando vaya de una habitación a otra en la casa
+- Puertos gigabit ethernet: simplemente conecte consolas de videojuegos, decodificadores o cualquier otro dispositivo a través del puerto ethernet gigabit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W8GZGP2/?tag=tolees-21)
