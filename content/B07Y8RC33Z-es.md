@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop 3 - Ordenador p con un 21.67 % de descuento'
-date: 2021-09-16 01:00:44
+date: 2021-09-19 15:01:36
 image: 'https://m.media-amazon.com/images/I/31QIVc4AK+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07Y8RC33Z/?tag=tolees-21'
 descuento: '21.67'
-average: '831.334583333335'
+average: '834.080800000002'
 ---
 
 En este momento está [Microsoft Surface Laptop 3 - Ordenador portátil de 13.5" táctil  Intel Core i5-1035G7  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Plata - Teclado QWERTY Español](https://www.amazon.es/dp/B07Y8RC33Z/?tag=tolees-21) a 899.99 EUR (original: 1149.0 EUR) (21.67 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Microsoft Surface Laptop 3 - Ordenador portátil de 13.5"
 
 🔎:
 
-- Tarjeta gráfica Intel Iris plus 950
-- Disco duro sólido de 128GB
+- Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
 - Memoria RAM de 8GB LPDDR4X
 - Sistema operativo Windows 10 Home; Actualización gratuita a Windows 11 cuando esté disponible(consulta “Descripción del Producto” abajo)
 - Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
-- Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
 - Teclado QWERTY español, plata metálico
+- Disco duro sólido de 128GB
+- Tarjeta gráfica Intel Iris plus 950
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y8RC33Z/?tag=tolees-21)
