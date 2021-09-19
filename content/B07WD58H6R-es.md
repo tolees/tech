@@ -28,14 +28,14 @@ Está [Sony WHCH510B.CE7 - Auriculares Inalámbricos  Negro](https://www.amazon.
 
 ℹ️:
 
-- Escucha más matices gracias a la unidad de diafragma de 30.mm
-- Conexión bluetooth inalámbrica para disfrutar de un movimiento sin restricciones
 - Cascos giratorios, compactos y ligeros para fácil itar el transporte
-- Sistema de comunicación: Especificación Bluetooth versión 5.0
-- Sencillas funciones de llamadas con manos libres y comandos del asistente de voz con micrófono
-- ¡Nota!: Este modelo no es compatible con televisores
-- Perfiles Bluetooth compatibles: A2DP / AVRCP / HFP / HSP
-- Alcance máximo de comunicación: 10 m
+- Conexión bluetooth inalámbrica para disfrutar de un movimiento sin restricciones
 - Función de carga rápida y hasta 35.horas de duración de batería para utilizarlos durante todo el día
+- ¡Nota!: Este modelo no es compatible con televisores
+- Escucha más matices gracias a la unidad de diafragma de 30.mm
+- Alcance máximo de comunicación: 10 m
+- Sencillas funciones de llamadas con manos libres y comandos del asistente de voz con micrófono
+- Sistema de comunicación: Especificación Bluetooth versión 5.0
+- Perfiles Bluetooth compatibles: A2DP / AVRCP / HFP / HSP
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WD58H6R/?tag=tolees-21)
