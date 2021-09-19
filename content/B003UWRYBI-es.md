@@ -28,9 +28,9 @@ En este momento está [TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Con
 
 🔎:
 
-- La innovadora tecnología energéticamente eficiente ahorra el consumo de energía
 - Apoya la dirección MAC de autoaprendizaje, auto MDI/MDIX y auto negociación
 - Switch gigabit de 16 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - Plug and play, no requiere configuración
+- La innovadora tecnología energéticamente eficiente ahorra el consumo de energía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003UWRYBI/?tag=tolees-21)

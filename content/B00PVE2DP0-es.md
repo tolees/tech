@@ -28,12 +28,12 @@ Tienes [D-Link DHP-P601AV Kit de inicio de 2 adaptadores Powerline con enchufe d
 
 ℹ️:
 
+- Conecta este dispositivo a la toma de corriente de la pared y, a éste, tu regleta, de este modo evitarás las interferencias de la línea eléctrica
 - El enchufe incorporado en el propio dispositivo, permite seguir disponiendo de la toma de corriente
 - Plug & Play: enchufar, emparejar y listo
+- 1 puerto Gigabit LAN (10/100/1000 Mbps) en cada adaptador del kit
 - Compatible con estándar HomePlug AV2, que lo hace compatible con dispositivos de otros fabricantes
 - Ideal para transmisiones de video en alta velocidad
-- Conecta este dispositivo a la toma de corriente de la pared y, a éste, tu regleta, de este modo evitarás las interferencias de la línea eléctrica
 - Kit de dos PLCs con enchufe, a Gigabit (1000 Mbps PHY)
-- 1 puerto Gigabit LAN (10/100/1000 Mbps) en cada adaptador del kit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PVE2DP0/?tag=tolees-21)
