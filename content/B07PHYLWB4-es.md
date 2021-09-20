@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Newskill Ratón Gaming habrok con Sensor  al 30.05 % de rebaja'
+date: 2021-09-20 07:27:42
+image: 'https://m.media-amazon.com/images/I/41BhyQo52UL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07PHYLWB4-es Newskill Ratón Gaming habrok con Sensor óptico 16000 dpi...'
+sku: 'B07PHYLWB4-es'
+tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','newskill','ratón', ]
+actualPrice: 34.94 EUR
+currency: EUR
+price: 34.94
+comparePrice: 49.95 EUR
+prodname: 'Newskill Ratón Gaming habrok con Sensor óptico  16000 dpi   botón Lateral para Sniper e iluminación RGB.'
+country: 'es'
+flag: '🇪🇸'
+brand: 'NEWSKILL'
+buyurl: 'https://www.amazon.es/dp/B07PHYLWB4/?tag=tolees-21'
+descuento: '30.05'
+average: '37.9116666666667'
+---
+
+Tienes [Newskill Ratón Gaming habrok con Sensor óptico  16000 dpi   botón Lateral para Sniper e iluminación RGB.](https://www.amazon.es/dp/B07PHYLWB4/?tag=tolees-21) con precio final de  34.94 EUR (original: 49.95 EUR) (30.05 %  de rebaja) aqui!
+
+[![Newskill Ratón Gaming habrok con Sensor ](https://m.media-amazon.com/images/I/41BhyQo52UL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07PHYLWB4/?tag=tolees-21)
+
+🔎:
+
+- Sensor pixart 3360 (hasta 16000 dpi)
+- Hasta 20 millones de pulsaciones
+- Aceleración máxima de hasta: 50 g
+- Velocidad máxima ips: 250ips
+- Iluminación rgb (software incluido)
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07PHYLWB4/?tag=tolees-21)
