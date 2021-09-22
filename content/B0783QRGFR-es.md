@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DM-Digital Adaptador USB-WiFi  2dB Anten con un 20.00 % de descuento'
-date: 2021-09-20 20:36:47
+date: 2021-09-22 02:39:09
 image: 'https://m.media-amazon.com/images/I/315H-pWzJhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DM-Digital'
 buyurl: 'https://www.amazon.es/dp/B0783QRGFR/?tag=tolees-21'
 descuento: '20.00'
-average: '10.0617857142857'
+average: '10.1286206896552'
 ---
 
 En este momento está [DM-Digital Adaptador USB-WiFi  2dB Antena WiFi MT7601  MediaTek ](https://www.amazon.es/dp/B0783QRGFR/?tag=tolees-21) a 12.0 EUR (original: 15.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [DM-Digital Adaptador USB-WiFi  2dB Antena WiFi MT7601  Me
 
 - FreeSat V8 Super, OpenBox V8S
 - GTMEDIA V7S HD / TT PRO / V7 Plus
-- MediaTek MT7601
 - SatIntegral - S1223, S1224, S1225, S1227, S1228, S1237, S1247, S1248
+- MediaTek MT7601
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0783QRGFR/?tag=tolees-21)
