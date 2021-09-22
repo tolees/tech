@@ -28,11 +28,11 @@ Ahora mismo tienes [Tenda PH3 Adaptadores de Comunicación por Línea Eléctrica
 
 🔎:
 
-- Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
 - Plug and play: instalación sencilla, no require configuración
 - Ampliar la cobertura internet a todas las habitaciones
+- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
 - Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
 - Interfaz: 1 x 10/100/1000 Mbit / s
-- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
+- Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21)

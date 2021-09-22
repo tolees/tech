@@ -28,9 +28,9 @@ Está [Xiaomi Poco F3 - Smartphone 256GB  8GB RAM  Dual Sim  Night Black](https:
 
 ℹ️:
 
+- Smartphone Xiaomi
 - Tamaño de pantalla: 6.67 inches; Sistema operativo: Android 11; Tipo de pantalla: LCD; Tipo de conector: USB tipo C
 - Alta calidad
-- Smartphone Xiaomi
 - Diseno funcional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0921YN6CJ/?tag=tolees-21)
