@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda PH3 Adaptadores de Comunicación po al 21.46 % de descuento'
-date: 2021-09-22 09:35:20
+date: 2021-09-23 16:54:16
 image: 'https://m.media-amazon.com/images/I/21XajL8BKbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21'
 descuento: '21.46'
-average: '34.4033333333333'
+average: '34.045'
 ---
 
 Ahora mismo tienes [Tenda PH3 Adaptadores de Comunicación por Línea Eléctrica - PLC  Adaptador de Red Gigabit Powerline  1000Mbps  Ahorro de Energía  Plug y Play  2 Piezas ](https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21) a 32.97 EUR (original: 41.98 EUR) (21.46 %  de descuento) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [Tenda PH3 Adaptadores de Comunicación por Línea Eléctrica
 🔎:
 
 - Plug and play: instalación sencilla, no require configuración
+- Interfaz: 1 x 10/100/1000 Mbit / s
+- Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
 - Ampliar la cobertura internet a todas las habitaciones
 - 1000mbps óptimo para streaming hd vídeos o vídeojuegos
-- Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
-- Interfaz: 1 x 10/100/1000 Mbit / s
 - Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21)
