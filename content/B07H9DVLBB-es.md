@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Extreme PRO - Tarjeta de memoria al 48.63 % de rebaja'
-date: 2021-09-18 12:34:06
+title: 'SanDisk Extreme PRO - Tarjeta de memoria al 44.41 % de rebaja'
+date: 2021-09-25 15:16:45
 image: 'https://m.media-amazon.com/images/I/51BU2vMQYWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07H9DVLBB-es SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB...'
 sku: 'B07H9DVLBB-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas SD','Tarjetas de memoria','sandisk', ]
-actualPrice: 27.99 EUR
+actualPrice: 30.29 EUR
 currency: EUR
-price: 27.99
+price: 30.29
 comparePrice: 54.49 EUR
 prodname: 'SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  UHS-I  Class 10  U3  V30'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21'
-descuento: '48.63'
-average: '36.020642201835'
+descuento: '44.41'
+average: '35.9685454545456'
 ---
 
-Tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  UHS-I  Class 10  U3  V30](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21) con precio final de  27.99 EUR (original: 54.49 EUR) (48.63 %  de rebaja) aqui!
+Tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  UHS-I  Class 10  U3  V30](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21) con precio final de  30.29 EUR (original: 54.49 EUR) (44.41 %  de rebaja) aqui!
 
 [![SanDisk Extreme PRO - Tarjeta de memoria](https://m.media-amazon.com/images/I/51BU2vMQYWL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21)
 
