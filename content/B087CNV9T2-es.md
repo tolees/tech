@@ -28,13 +28,13 @@ Ahora mismo tienes [Netgear RAX50-100EUS Router WiFi 6 Nighthawk AX6  Velocidad 
 
 🔎:
 
+- App Nighthawk: Instalación y administración rápida y fácil de configuración y control parental a través de la aplicación
+- Alta tecnología: procesador de doble núcleo, 2 antenas amplificadas, Beamforming+, Smart Connect, OFDMA, comandos de voz Amazon Alexa y más
 - Compatibilidad Universal: permite aprovechar al máximo los dispositivos WiFi 6 y mejorar el rendimiento de aquellos con estándares anteriores, compatible con iPhone 11 y Samsung S10
 - Puertos USB: gracias al puerto USB 3.0 se pueden conectar dispositivos de almacenamiento externos y crear un espacio en la nube accesible de forma remota
-- Funciona con todos los operadores y conexiones: conecta el router en cascada al módem (conexiones de fibra de cobre o adsl) o reemplaza el módem de tu operador
 - 6 Flujos WiFi simultáneos: aumenta la capacidad WiFi permitiendo múltiples transmisiones para más dispositivos, gracias a un mayor ancho de banda
-- App Nighthawk: Instalación y administración rápida y fácil de configuración y control parental a través de la aplicación
-- Seguridad: Red segura gracias a los protocolos de seguridad inalámbrica WPA2, red de acceso de invitados, DoS, firewall, VPN, etc.
+- Funciona con todos los operadores y conexiones: conecta el router en cascada al módem (conexiones de fibra de cobre o adsl) o reemplaza el módem de tu operador
 - Rendimiento WiFi 6: aumenta la cobertura WiFi en casas de tamaño medio-grande con velocidad de doble banda AX5400 (hasta 600 + 4800 Mbps)
-- Alta tecnología: procesador de doble núcleo, 2 antenas amplificadas, Beamforming+, Smart Connect, OFDMA, comandos de voz Amazon Alexa y más
+- Seguridad: Red segura gracias a los protocolos de seguridad inalámbrica WPA2, red de acceso de invitados, DoS, firewall, VPN, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087CNV9T2/?tag=tolees-21)

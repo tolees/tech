@@ -28,12 +28,12 @@ Ahora mismo tienes [D-Link GO-SW-24G - Switch 24 puertos Gigabit Ethernet LAN RJ
 
 🔎:
 
-- Capacidad de conmutación de 48 Gigabits por segundo
-- Sin ventilador, funcionamiento silencioso
 - Conecta hasta 24 equipos por cable de red Ethernet LAN de CAT5 y CAT6
-- No necesita configuración: enchufar, conectar y listo
 - Formato enrackable de 11 pulgadas
+- Capacidad de conmutación de 48 Gigabits por segundo
 - D-Link Green: los puertos sin conexión se desconectan automáticamente y se detecta la longitud del cable para variar la carga eléctrica, alcanzando un ahorro energético de hasta un 85%
+- No necesita configuración: enchufar, conectar y listo
+- Sin ventilador, funcionamiento silencioso
 - 24 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21)
