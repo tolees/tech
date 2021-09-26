@@ -28,9 +28,9 @@ Tienes [Dell Technologies Vostro 5391 Negro  Gris - 13.3"" - 1920x1080 - Intel C
 
 ℹ️:
 
-- Gráfica dedicada: no, pantalla táctil: no
-- Tamaño pantalla: 13.30 , procesador: Core i5, RAM Instalada: 8 gb, disco duro: 512 gb
 - Versión sistema operativo: Professional, sistema operativo: Windows 10
 - Modelo de procesador: i5-10210U
+- Gráfica dedicada: no, pantalla táctil: no
+- Tamaño pantalla: 13.30 , procesador: Core i5, RAM Instalada: 8 gb, disco duro: 512 gb
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085MRCWMK/?tag=tolees-21)
