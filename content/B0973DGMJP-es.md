@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Yoga Tab 11 - Tablet de 11" 2K  M con un 15.00 % de descuento'
-date: 2021-09-24 08:22:37
+date: 2021-09-25 22:06:06
 image: 'https://m.media-amazon.com/images/I/41WF4MHHm0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ En este momento está [Lenovo Yoga Tab 11 - Tablet de 11" 2K  MediaTek Helio G90
 
 🔎:
 
-- Tarjeta gráfica Integrada ARM Mali-G76 MC4 GPU
-- Cámara frontal de 8 Mpx y cámara trasera de 8 Mpx
-- WiFi + Bluetooth 5.0
-- Sistema de cuatro altavoces JBL endulzados por Premium Audio de Lenovo y optimizados con Dolby Atmos
-- Almacenamiento de 128GB UFS 2.1 ampliables hasta 512GB con memoria Fat32, hasta 1TB con memoria ExFat
-- Memoria RAM de 4GB LPDDR4x ampliables hasta 512GB con memoria Fat32, hasta 1TB con memoria ExFat
-- Procesador MediaTek Helio G90T (8C, 2x A76 @2.05GHz + 6x A55 @2.0GHz)
-- Sistema operativo: Android 11
 - Pantalla táctil de 11" 2K, 2000 x 1200 píxeles, IPS, TDDI, 400nits y Dolby Vision
+- WiFi + Bluetooth 5.0
+- Tarjeta gráfica Integrada ARM Mali-G76 MC4 GPU
+- Sistema operativo: Android 11
+- Memoria RAM de 4GB LPDDR4x ampliables hasta 512GB con memoria Fat32, hasta 1TB con memoria ExFat
+- Almacenamiento de 128GB UFS 2.1 ampliables hasta 512GB con memoria Fat32, hasta 1TB con memoria ExFat
+- Cámara frontal de 8 Mpx y cámara trasera de 8 Mpx
+- Sistema de cuatro altavoces JBL endulzados por Premium Audio de Lenovo y optimizados con Dolby Atmos
+- Procesador MediaTek Helio G90T (8C, 2x A76 @2.05GHz + 6x A55 @2.0GHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0973DGMJP/?tag=tolees-21)
