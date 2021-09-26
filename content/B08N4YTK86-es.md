@@ -28,10 +28,10 @@ Está [Huawei Mediapad T5 - Tablet  Wi-Fi  Pantalla Full HD  32 GB de Memoria In
 
 ℹ️:
 
-- 32 GB de memoria interna, 2 GB de RAM.
 - Potente batería con 5100 mAh (valor típico) y 4980 mAh (valor nominal).
-- Memoria ampliable hasta 256 GB mediante tarjeta microSD.
+- 32 GB de memoria interna, 2 GB de RAM.
 - Pantalla IPS FHD de 25,6 cm (10,1 pulgadas) con modo Eye-Care.
+- Memoria ampliable hasta 256 GB mediante tarjeta microSD.
 - Cámara principal de 5 megapíxeles y frontal de 2 megapíxeles.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N4YTK86/?tag=tolees-21)
