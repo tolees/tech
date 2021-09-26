@@ -28,13 +28,13 @@ Tienes [LG XBOOM Go PL5 - Altavoz Bluetooth portátil de hasta 18 Horas de bater
 
 🔎:
 
-- WIRELESS PARTY LINK. Multiplica la música conectando hasta 100 XBOOM Go LG compatibles de forma inalámbrica para obtener un sonido mucho más potente.
-- DISEÑO MODERNO CON ESTILO. Elegante y ligero. Su diseño redondeado con acabado de goma permite sujetarlo fácilmente con la mano.
-- SONIDO CON TECNOLOGÍA MERIDIAN. Sonido extraordinario realista y envolvente. Siente la música con la potencia de los bajos reforzados y la claridad de las voces. La diferencia está en los matices
 - ILUMINACIÓN LED. La luz se mueve al ritmo de tu música. Elige el color que más se adapta a tus gustos.
-- HASTA 18 HORAS DE BATERÍA. Disfruta más tiempo de la música en cualquier lugar. Te olvidarás de cargarlo.
+- WIRELESS PARTY LINK. Multiplica la música conectando hasta 100 XBOOM Go LG compatibles de forma inalámbrica para obtener un sonido mucho más potente.
 - COMANDOS DE VOZ. Disfruta de la música y demás con tu voz. Presiona el botón de reproducción, luego habla para activar el Asistente de Google en tu dispositivo iOS o Android.
-- PROTECCIÓN AL AGUA IPX5. Resistente a los chorros de agua. Se puede mojar y seguir funcionando perfectamente.
+- HASTA 18 HORAS DE BATERÍA. Disfruta más tiempo de la música en cualquier lugar. Te olvidarás de cargarlo.
+- DISEÑO MODERNO CON ESTILO. Elegante y ligero. Su diseño redondeado con acabado de goma permite sujetarlo fácilmente con la mano.
 - DUAL ACTION BASS. Siente los potentes bajos gracias a los dos radiadores pasivos que crean la presión necesario incluso en este reducido espacio.
+- SONIDO CON TECNOLOGÍA MERIDIAN. Sonido extraordinario realista y envolvente. Siente la música con la potencia de los bajos reforzados y la claridad de las voces. La diferencia está en los matices
+- PROTECCIÓN AL AGUA IPX5. Resistente a los chorros de agua. Se puede mojar y seguir funcionando perfectamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087R3CPJ4/?tag=tolees-21)
