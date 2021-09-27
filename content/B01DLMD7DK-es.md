@@ -28,9 +28,9 @@ Ahora mismo tienes [Sony SEL70300G.SYX - Objetivo Zoom telescópico  70-300mm  F
 
 🔎:
 
-- La estabilización de imagen de SteadyShot óptico reduce las vibraciones de la cámara
-- OSS estabilizada
-- Montura tipo E
 - Lente G
+- OSS estabilizada
+- La estabilización de imagen de SteadyShot óptico reduce las vibraciones de la cámara
+- Montura tipo E
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DLMD7DK/?tag=tolees-21)
