@@ -28,10 +28,10 @@ Está [ASUS ROG Swift PG258Q - Monitor Gaming de 24.5 Pulgadas  240 Hz nativos  
 
 ℹ️:
 
-- Diseño sin marco con iluminación LED personalizable
-- 1 ms de tiempo de respuesta y G-Sync para disfrutar de una acción perfecta
 - Tecla de acceso directo a las mejoras GamePlus, GameVisual ofrece una imagen optimizada de los juegos
-- Diseño ergonómico regulable en altura, giro, inclinación y rotación; compatible con sistemas de anclaje VESA
+- Diseño sin marco con iluminación LED personalizable
 - Monitor gaming Full HD de 24,5 pulgadas con 240 Hz de refresco nativo para jugar con fluidez
+- 1 ms de tiempo de respuesta y G-Sync para disfrutar de una acción perfecta
+- Diseño ergonómico regulable en altura, giro, inclinación y rotación; compatible con sistemas de anclaje VESA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6OBWKK/?tag=tolees-21)
