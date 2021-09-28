@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI WF65 10TH-1203XES - Ordenador portát al 21.94 % de descuento'
-date: 2021-09-07 09:31:39
+date: 2021-09-28 02:38:27
 image: 'https://m.media-amazon.com/images/I/31Q5vGSY79L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08BJQM67M/?tag=tolees-21'
 descuento: '21.94'
-average: '1344.63888888889'
+average: '1335.075'
 ---
 
 Ahora mismo tienes [MSI WF65 10TH-1203XES - Ordenador portátil de 15.6" FHD  Intel Core i7-10750H  16GB RAM  1 TB SSD  Quadro P620-4GB  sin sistema operativo  gris - Teclado QWERTY Español](https://www.amazon.es/dp/B08BJQM67M/?tag=tolees-21) a 1249.0 EUR (original: 1599.99 EUR) (21.94 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [MSI WF65 10TH-1203XES - Ordenador portátil de 15.6" FHD  In
 
 🔎:
 
-- Memoria RAM de 16 GB (8 GB x 2), 3200 MHz, DDR IV
-- Disco de 1 TB NVMe PCIe Gen3x4 SSD
 - Tarjeta grafica NVIDIA Quadro P620, 4 GB GDDR5
+- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
 - Sin sistema operativo
 - Pantalla de 15.6" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel
-- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
+- Memoria RAM de 16 GB (8 GB x 2), 3200 MHz, DDR IV
+- Disco de 1 TB NVMe PCIe Gen3x4 SSD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BJQM67M/?tag=tolees-21)
