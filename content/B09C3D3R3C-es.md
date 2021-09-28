@@ -28,10 +28,10 @@ En este momento está [Doobyby - Cargador Solar 14W Impermeable Portátil USB Ca
 
 🔎:
 
-- Tecnología de carga inteligente: el puerto USB puede detectar automáticamente y ofrece la corriente de carga óptima para dispositivos conectados, hasta 2,4 A cuando se utiliza bajo la luz solar directa.
-- Power On the Go: el cargador solar dice adiós a los enchufes de corriente y abraza la energía del sol. Ahorro de energía y respetuoso con el medio ambiente, el cargador mantendrá los dispositivos alimentados por USB cargados a tu conveniencia.
 - Amplia compatibilidad: funciona para la mayoría de dispositivos que requieren alimentación de 5 V. Puedes cargar iPhone, teléfonos inteligentes Android, tabletas, baterías externas y otros dispositivos con carga USB.
+- Power On the Go: el cargador solar dice adiós a los enchufes de corriente y abraza la energía del sol. Ahorro de energía y respetuoso con el medio ambiente, el cargador mantendrá los dispositivos alimentados por USB cargados a tu conveniencia.
 - Increíblemente duradero: construido con cuatro paneles solares con nailon impermeable, este cargador solar ofrece durabilidad al aire libre resistente a la intemperie. Equipado con dos mosquetones para mayor comodidad.
 - Altamente portátil: tamaño compacto (148 x 153 x 54 mm plegado) y dos agujeros en los laterales permiten una fácil fijación a mochilas, árboles o tiendas de campaña. Diseño ligero y ultrafino que lo hace perfecto para actividades al aire libre.
+- Tecnología de carga inteligente: el puerto USB puede detectar automáticamente y ofrece la corriente de carga óptima para dispositivos conectados, hasta 2,4 A cuando se utiliza bajo la luz solar directa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B09C3D3R3C/?tag=tolees-21)
