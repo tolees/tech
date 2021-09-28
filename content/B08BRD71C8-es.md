@@ -28,10 +28,10 @@ En este momento está [ASUS UX325EA-EG248 - Ordenador portátil de 13.3 " FHD  I
 
 🔎:
 
-- Sin sistema operativo
 - Tarjeta gráfica Intel Iris X Graphic
 - Disco de 512 GB M.2 NVMe PCIe 3.0 SSD
 - Memoria RAM 8 GB LPDDR4X
+- Sin sistema operativo
 - Procesador Intel Core i5-1135G7 2.4 GHz (8M Cache, hasta 4.2 GHz, 4 nucleos)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BRD71C8/?tag=tolees-21)

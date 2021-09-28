@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara de Vigilancia WiFi Interior al 25.01 % de rebaja'
-date: 2021-09-27 10:11:49
+date: 2021-09-28 10:20:51
 image: 'https://m.media-amazon.com/images/I/318AweT9KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B07W4FMSD9/?tag=tolees-21'
 descuento: '25.01'
-average: '30.0994326241138'
+average: '30.0986619718313'
 ---
 
 Tienes [EZVIZ Cámara de Vigilancia WiFi Interior 1080P Cámara IP Domo 360º PTZ  Visión Nocturna  Detección de Movimiento  Audio Bidireccional  Compatible con Alexa y Google  Andriod/iOS  C6N](https://www.amazon.es/dp/B07W4FMSD9/?tag=tolees-21) con precio final de  29.99 EUR (original: 39.99 EUR) (25.01 %  de rebaja) aqui!
