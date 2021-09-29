@@ -28,10 +28,10 @@ Está [Sony SEL1635Z - Objetivo para Sony/Minolta  Distancia Focal 16-35mm  Aper
 
 ℹ️:
 
-- Diámetro de filtro: 72 mm
-- Apertura máxima F4 constante en todo el alcance del zoom
 - Diseño resistente al polvo y la humedad
+- Apertura máxima F4 constante en todo el alcance del zoom
 - Lente con zoom gran angular ZEISS
+- Diámetro de filtro: 72 mm
 - Montura tipo E, fotograma completo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NVA7J1Y/?tag=tolees-21)

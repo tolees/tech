@@ -29,8 +29,8 @@ Tienes [LENOVO Monitor C27-35 27.0 Inch FHD IPS FREESYNC V](https://www.amazon.e
 🔎:
 
 - Tiene protección ocular
-- Luminosidad: 250
 - Relación de contraste: 3000:1
 - Conectividad: VGA, HDMI
+- Luminosidad: 250
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M5Q9DXL/?tag=tolees-21)

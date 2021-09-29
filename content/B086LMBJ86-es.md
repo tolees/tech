@@ -31,7 +31,7 @@ Está [Sony WHCH710NL.CE7 - Auriculares Inalámbricos  Azul](https://www.amazon.
 - Carga rápida (10 min. de carga equivalen a 90 min. de uso)
 - Diseño compacto
 - Opción de conexión por cable
-- Noise Cancelling dual
 - Hasta 35 h de batería
+- Noise Cancelling dual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LMBJ86/?tag=tolees-21)
