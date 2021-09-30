@@ -28,10 +28,10 @@ En este momento está [OTL Technologies Batman Caped Crusader - Auriculares con 
 
 🔎:
 
-- Sensibilidad 85 db. Impedancia de 32 ohm
 - Producto oficial con licencia Warner
-- Auriculares de diadema ajustables para niños de 3 a 7 años.
-- Respuesta de frecuencia de 20 hz– 20 khz
+- Sensibilidad 85 db. Impedancia de 32 ohm
 - Auriculares de 30 mm. Compatible multiplataforma con conector jack de 3,5 mm
+- Respuesta de frecuencia de 20 hz– 20 khz
+- Auriculares de diadema ajustables para niños de 3 a 7 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GSLJZWL/?tag=tolees-21)
