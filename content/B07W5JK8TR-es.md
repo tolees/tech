@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 Hero K/DA Ratón Gaming con con un 22.26 % de descuento'
-date: 2021-09-20 13:36:05
+date: 2021-09-30 20:46:28
 image: 'https://m.media-amazon.com/images/I/41peT4h1ddL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [Logitech G502 Hero K/DA Ratón Gaming con Cable  Sensor H
 
 🔎:
 
-- LIGHTSYNC RGB: Iluminación RGB programable y tecnología LIGHTSYNC de casi 16,8 M de colores para combinar con colores de tu equipo, lucir los tuyos o sincronizarlos con otros equipos Logitech G
-- Juega a tope: El ratón para juegos G502 K/DA está diseñado con el arte del universo alternativo de League of Legends K/DA. Para una experiencia gaming completa y envolvente
-- Personalizable: 11 botones personalizables y memoria integrada; asigna comandos personalizados a los botones y guarda hasta cinco perfiles listos para jugar directamente en el ratón
-- La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
-- Hasta 5 pesas extraíbles de 3,6 g dentro del ratón para un ajuste personalizado del peso y el equilibrio. Configuraciones en una variedad de frontal, trasera, izquierda, derecha y centro
 - Tensión mecánica de los botones: El sistema de tensión de muelle metálico y las bisagras de pivote están incorporados en la izquierda y derecha para una sensación y respuesta de clic nítida
+- LIGHTSYNC RGB: Iluminación RGB programable y tecnología LIGHTSYNC de casi 16,8 M de colores para combinar con colores de tu equipo, lucir los tuyos o sincronizarlos con otros equipos Logitech G
+- La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
+- Personalizable: 11 botones personalizables y memoria integrada; asigna comandos personalizados a los botones y guarda hasta cinco perfiles listos para jugar directamente en el ratón
+- Hasta 5 pesas extraíbles de 3,6 g dentro del ratón para un ajuste personalizado del peso y el equilibrio. Configuraciones en una variedad de frontal, trasera, izquierda, derecha y centro
+- Juega a tope: El ratón para juegos G502 K/DA está diseñado con el arte del universo alternativo de League of Legends K/DA. Para una experiencia gaming completa y envolvente
 - Sensor HERO 25K: Actualización a través del software de G HUB. Con seguimiento 1:1, 400+ IPS y sensibilidad de 100 a 25.600 DPI máximos, además de cero suavizado, filtrado o aceleración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W5JK8TR/?tag=tolees-21)
