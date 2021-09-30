@@ -28,8 +28,8 @@ Tienes [Panasonic Eneloop SY3052708 - Pack 4 Pilas Recargables  AAA  con Estuche
 
 ℹ️:
 
-- Recargables
-- Tamaño AAA
 - Contiene 4 pilas
+- Tamaño AAA
+- Recargables
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MPEZR5W/?tag=tolees-21)
