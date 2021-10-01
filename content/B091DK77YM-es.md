@@ -28,10 +28,10 @@ Ahora mismo tienes [Houdian - Mini Enfriador de Aire  Acondicionador de Aire Mó
 
 🔎:
 
-- Función 3 en 1: enfriador de aire acondicionado evaporativo, ventilador de escritorio y humidificador de niebla fría
 - Luz nocturna relajante y funcionamiento súper silencioso
-- Aire de enfriamiento que sale de la salida de aire después de agregar agua o agua helada
+- Función 3 en 1: enfriador de aire acondicionado evaporativo, ventilador de escritorio y humidificador de niebla fría
 - Diseño portátil y de seguridad para su espacio personal.
+- Aire de enfriamiento que sale de la salida de aire después de agregar agua o agua helada
 - Velocidad del viento de tres niveles: alta, media, baja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091DK77YM/?tag=tolees-21)
