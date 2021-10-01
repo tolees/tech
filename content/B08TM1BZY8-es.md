@@ -28,12 +28,12 @@ En este momento está [Lenovo IdeaPad Flex 3 Chromebook - Portátil convertíble
 
 🔎:
 
-- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
-- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
-- Sistema operativo Chrome OS
-- Almacenamiento de 64GB eMMC 5.1
-- Pantalla táctil convertíble de 11.6" HD 1366x768 pixeles, IPS, 250nits
 - Tarjeta gráfica integrada Intel UHD Graphics 600
+- Almacenamiento de 64GB eMMC 5.1
+- Sistema operativo Chrome OS
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 - Memoria RAM de4GB Soldered LPDDR4-2400
+- Procesador Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)
+- Pantalla táctil convertíble de 11.6" HD 1366x768 pixeles, IPS, 250nits
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TM1BZY8/?tag=tolees-21)

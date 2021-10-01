@@ -28,10 +28,10 @@ En este momento está [Sony ICF-306 - Radio analógica portátil FM/AM  color ne
 
 🔎:
 
-- Sintonizador de radio AM/FM integrado
-- Potencia pico por canal es 55 W
-- Canales de salida de audio: 2.1
 - Controles ajustables de tono y volumen
+- Sintonizador de radio AM/FM integrado
+- Canales de salida de audio: 2.1
 - Amplificador digital de clase D
+- Potencia pico por canal es 55 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013JGHQ58/?tag=tolees-21)
