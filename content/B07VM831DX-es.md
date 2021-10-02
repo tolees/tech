@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocoda Soporte Movil Bici  360° Rotación al 18.76 % de descuento'
-date: 2021-09-27 15:37:11
+date: 2021-10-02 17:19:14
 image: 'https://m.media-amazon.com/images/I/51SSfQjNgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocoda'
 buyurl: 'https://www.amazon.es/dp/B07VM831DX/?tag=tolees-21'
 descuento: '18.76'
-average: '10.8110227272731'
+average: '10.8355056179779'
 ---
 
 Está [Cocoda Soporte Movil Bici  360° Rotación Soporte Movil Moto Bicicleta  Anti Vibración Porta Telefono Motocicleta Compatible con iPhone 12 Pro Max/12 Mini/11 Pro MAX/XS/XR y Otro 4.5-7.0" Móvil](https://www.amazon.es/dp/B07VM831DX/?tag=tolees-21) con 18.76 de descuento por 12.99 EUR (original: 15.99 EUR) en el siguiente enlace!
