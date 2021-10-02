@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LENOVO Monitor C27-35 27.0 Inch FHD IPS  al 23.54 % de rebaja'
-date: 2021-09-29 21:05:27
+date: 2021-10-02 14:59:47
 image: 'https://m.media-amazon.com/images/I/41R7q1EzCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08M5Q9DXL/?tag=tolees-21'
 descuento: '23.54'
-average: '136.323333333333'
+average: '134.7375'
 ---
 
 Tienes [LENOVO Monitor C27-35 27.0 Inch FHD IPS FREESYNC V](https://www.amazon.es/dp/B08M5Q9DXL/?tag=tolees-21) con precio final de  129.98 EUR (original: 169.99 EUR) (23.54 %  de rebaja) aqui!
@@ -30,7 +30,7 @@ Tienes [LENOVO Monitor C27-35 27.0 Inch FHD IPS FREESYNC V](https://www.amazon.e
 
 - Tiene protección ocular
 - Relación de contraste: 3000:1
-- Conectividad: VGA, HDMI
 - Luminosidad: 250
+- Conectividad: VGA, HDMI
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M5Q9DXL/?tag=tolees-21)
