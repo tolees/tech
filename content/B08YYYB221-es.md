@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultivon Cámara Vigilancia WiFi Exterior  al 15.00 % de descuento'
-date: 2021-10-01 06:06:46
+date: 2021-10-03 12:38:47
 image: 'https://m.media-amazon.com/images/I/31YaskkULzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ultivon'
 buyurl: 'https://www.amazon.es/dp/B08YYYB221/?tag=tolees-21'
 descuento: '15.00'
-average: '56.24'
+average: '55.19'
 ---
 
 Está [Ultivon Cámara Vigilancia WiFi Exterior con Batería Recargable  Cámara IP 1080P con Audio Bidireccional Visión Nocturna Impermeable PIR Detección de Movimiento para Hogar Seguridad  E100](https://www.amazon.es/dp/B08YYYB221/?tag=tolees-21) con 15.00 de descuento por 50.99 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Ultivon Cámara Vigilancia WiFi Exterior con Batería Recargable  Cámara
 
 ℹ️:
 
-- 【BATERÍA RECARGABLE DE 6000mAh】Esta cámara de seguridad inalámbrica para exteriores equipado con la batería recargable de 6000mAh que puede durar de 2 a 4 meses después de carga completa. La cámara ip wifi Ultivon les ayuda a deshacerles de problemas de los cables, la elección perfecta para monitorear la villa, el hogar, la oficina, la tienda, el hotel, el almacén, la escuela o en cualquier otro lugar
-- 【FÁCIL INSTALACIÓN E IMPERMEABLE IP65】La cámara de vigilancia inalámbrica que funciona con pilas se puede configurar sin herramientas complejas. Puede montar la cámara en la pared usando el soporte o solo colocarla en algún lugar plano. Y la cámara está diseñado para resistir el mal tiempo y puede protegerse bien bajo la lluvia o el sol, así que puedes usarla en exteriores perfectamente.
-- 【AUDIO DE 2 VÍAS Y ALMACENAMIENTO】Esta cámara de vigilancia wifi 1080p con audio bidireccional le permite usar la APP móvil para hablar con visitantes externos, lo que le brinda un hogar seguro y cómodo; Soporta almacenamiento en la tarjeta micro SD (Tarjeta NO incluida en el paquete, hasta 128GB)
 - 【DETECCIÓN DE MOVIMIENTO HUMANO INTELIGENTE PIR】Esta cámara de vigilancia wifi exterior adopta un sensor PIR avanzado para permitir que la cámara de video exterior capture cualquiera actividad sospechosa en la forma del cuerpo humano en su área de detección. Cuando se detecta movimientos, las alarmas y imágenes se enviarán a su smartphone a través de la APP “Adorcam”.
 - 【FULL HD 1080P Y VISIÓN NOCTURNA】La resolución de esta cámara ip 1080P de 1920 x 1080 muestra claramente cada detalle con un ángulo de visión de 100 ° y un rango visible de 32 pies, lo que puede reducir en gran medida los puntos ciegos; Y la distancia de visión nocturna de 10 metros puede proporcionar imágenes claras tanto del día como de la noche.
+- 【AUDIO DE 2 VÍAS Y ALMACENAMIENTO】Esta cámara de vigilancia wifi 1080p con audio bidireccional le permite usar la APP móvil para hablar con visitantes externos, lo que le brinda un hogar seguro y cómodo; Soporta almacenamiento en la tarjeta micro SD (Tarjeta NO incluida en el paquete, hasta 128GB)
+- 【BATERÍA RECARGABLE DE 6000mAh】Esta cámara de seguridad inalámbrica para exteriores equipado con la batería recargable de 6000mAh que puede durar de 2 a 4 meses después de carga completa. La cámara ip wifi Ultivon les ayuda a deshacerles de problemas de los cables, la elección perfecta para monitorear la villa, el hogar, la oficina, la tienda, el hotel, el almacén, la escuela o en cualquier otro lugar
+- 【FÁCIL INSTALACIÓN E IMPERMEABLE IP65】La cámara de vigilancia inalámbrica que funciona con pilas se puede configurar sin herramientas complejas. Puede montar la cámara en la pared usando el soporte o solo colocarla en algún lugar plano. Y la cámara está diseñado para resistir el mal tiempo y puede protegerse bien bajo la lluvia o el sol, así que puedes usarla en exteriores perfectamente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YYYB221/?tag=tolees-21)
