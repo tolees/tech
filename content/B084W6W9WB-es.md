@@ -28,9 +28,9 @@ Tienes [Razer Viper Mini - Ratón para Juegos  Ratón Gaming  Ambidiestro  61g d
 
 🔎:
 
-- Cable Razer Speedflex para una resistencia mínima y movimientos fluidos
 - Sensor óptico de 8500 PPP para un seguimiento preciso
 - Un diseño ambidiestro ligero de 61 g para un control suave y sin esfuerzos
+- Cable Razer Speedflex para una resistencia mínima y movimientos fluidos
 - Con tecnología Razer Chroma RGB para un estilo personalizado
 - Switches ópticos para ratón Razer para un accionamiento a la velocidad de la luz
 - Perfil de memoria integrada para que tus ajustes personalizados vayan siempre contigo
