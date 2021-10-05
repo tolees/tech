@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Chromebook Gen 6 - Port al 23.08 % de descuento'
-date: 2021-10-04 14:56:35
+date: 2021-10-05 21:30:52
 image: 'https://m.media-amazon.com/images/I/41Dd1mwp41L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ Ahora mismo tienes [Lenovo IdeaPad 3 Chromebook Gen 6 - Portátil 14" FullHD  Me
 
 🔎:
 
-- Tarjeta gráfica integrada ARM Mali-G72 MP3 GPU
 - Procesador MediaTek MT8183 (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
-- Pantalla de 14" FullHD 1920x1080 pixeles, TN, 220nits, antirreflejos
 - Sistema operativo: Chrome OS
 - Memoria RAM de 4GB Soldered LPDDR4X-1866
 - Almacenamiento de 64GB eMMC 5.1
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
+- Pantalla de 14" FullHD 1920x1080 pixeles, TN, 220nits, antirreflejos
+- Tarjeta gráfica integrada ARM Mali-G72 MP3 GPU
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09GYSDL47/?tag=tolees-21)
