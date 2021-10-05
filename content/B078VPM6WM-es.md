@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Lente Zoom  Montura E  Formato APS- al 20.15 % de descuento'
-date: 2021-10-03 18:44:09
+date: 2021-10-05 16:20:31
 image: 'https://m.media-amazon.com/images/I/412dihrh52L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B078VPM6WM/?tag=tolees-21'
 descuento: '20.15'
-average: '454.688333333333'
+average: '459.635384615384'
 ---
 
 Está [Sony Lente Zoom  Montura E  Formato APS-C  18-135 mm F3.5-5.6 OSS  Zoom de 7.5 X   Color Negro](https://www.amazon.es/dp/B078VPM6WM/?tag=tolees-21) con 20.15 de descuento por 519.0 EUR (original: 650.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sony Lente Zoom  Montura E  Formato APS-C  18-135 mm F3.5-5.6 OSS  Zoom d
 
 ℹ️:
 
-- Diseño óptico con un elemento asférica que ofrece una alta resolución de esquina a esquina
+- Diseño compacto y ligero
 - Avanzada tecnología de motor lineal que permite un control de enfoque preciso y silencioso
 - Lente de zoom estándar de gran ampliación APS-C
+- Diseño óptico con un elemento asférica que ofrece una alta resolución de esquina a esquina
 - Lente de zoom estándar de gran ampliación APS-C
-- Diseño compacto y ligero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078VPM6WM/?tag=tolees-21)
