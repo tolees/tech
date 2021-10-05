@@ -28,11 +28,11 @@ Está [Razer Blade 15 Base model – Ordenador portátil Gaming de 15.6’’ Fu
 
 ℹ️:
 
-- Procesador Intel Core i7-10875H 6 núcleos, (2.6GHz / 5.0GHz) , 12MB
-- Almacenamiento de 512GB SSD (M.2 NVMe PCIe 3.0 x4) + Open M.2 PCIe 3.0 x4
-- Sistema Operativo: Windows 10 Home
 - Targeta gráfica NVIDIA GeForce RTX 3070, 8 GB de RAM DDR6
-- Pantalla de 15.6" FullHD 1920 x 1080, 144Hz
 - Memoria Ram de 16 GB DDR4 2933MHz (8GB x 2)
+- Procesador Intel Core i7-10875H 6 núcleos, (2.6GHz / 5.0GHz) , 12MB
+- Sistema Operativo: Windows 10 Home
+- Almacenamiento de 512GB SSD (M.2 NVMe PCIe 3.0 x4) + Open M.2 PCIe 3.0 x4
+- Pantalla de 15.6" FullHD 1920 x 1080, 144Hz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Y1SYCYT/?tag=tolees-21)

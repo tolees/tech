@@ -28,10 +28,10 @@ Tienes [Samsung SSD 870 QVO - Disco interno de estado sólido  4 TB  SATA VNAND 
 
 🔎:
 
-- Interfaz SATA 6 Gb/s compatible con interfaces SATA 3 Gb/sy SATA 1,5 Gb/s
-- Maneje fácilmente cargas de trabajo intensivas de PC de alta gama, estaciones de trabajo, NAS (sistemas conectados a la red)
-- Samsung 870 QVO 2.5" 4000 GB Serial ATA III V-NAND MLC
 - Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
 - Factor de forma: 2,5 pulgadas
+- Interfaz SATA 6 Gb/s compatible con interfaces SATA 3 Gb/sy SATA 1,5 Gb/s
+- Samsung 870 QVO 2.5" 4000 GB Serial ATA III V-NAND MLC
+- Maneje fácilmente cargas de trabajo intensivas de PC de alta gama, estaciones de trabajo, NAS (sistemas conectados a la red)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QYSMJT/?tag=tolees-21)
