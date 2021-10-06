@@ -28,10 +28,10 @@ En este momento está [Leelbox - Xiaomi MI Band 6 Pulsera de Actividad  Monitore
 
 🔎:
 
-- 【Detección de oxígeno en sangre】: equipado con excelentes sensores, lo que le permite medir con precisión el oxígeno en sangre en cualquier momento y en cualquier lugar, y comprender completamente su propia salud
 - 【30 modos deportivos】: correr al aire libre, caminar, bailar, cinta de correr y otros 30 modos. Por primera vez, apoya el entrenamiento indirecto de alta intensidad, el baloncesto, el boxeo, Zumba y otros 19 deportes de moda
 - 【Lista de embalaje】: Xiaomi mi band 6 * 1, Cable de carga * 1, Manual de instrucciones * 1
-- 【Carga magnética, 14 días en espera】: 19 días en espera en modo de batería prolongada, 14 días en espera en modo de batería típico, 5 días en espera en modo de uso intensivo
 - 【Pantalla de pulsera personalizada】: la pantalla de retina se usa por primera vez, y el dial personalizado puede configurar su familia amada, mascotas e ídolos en el dial
+- 【Carga magnética, 14 días en espera】: 19 días en espera en modo de batería prolongada, 14 días en espera en modo de batería típico, 5 días en espera en modo de uso intensivo
+- 【Detección de oxígeno en sangre】: equipado con excelentes sensores, lo que le permite medir con precisión el oxígeno en sangre en cualquier momento y en cualquier lugar, y comprender completamente su propia salud
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B093D6YJG3/?tag=tolees-21)
