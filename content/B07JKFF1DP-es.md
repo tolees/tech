@@ -28,10 +28,10 @@ Está [Panasonic KX-TGC210 Teléfono fijo inalámbrico  LCD  Identificador de ll
 
 ℹ️:
 
-- Reduzca las llamadas no deseadas, como las de publicidad
 - Agenda compartida, memoria de rellamada (hasta 10 números de teléfono)
-- Melodía polifónica del timbre
-- Llamada en conferencia con línea exterior, intercomunicador (entre unidades portátiles)
+- Reduzca las llamadas no deseadas, como las de publicidad
 - Use su unidad portátil como alarma
+- Llamada en conferencia con línea exterior, intercomunicador (entre unidades portátiles)
+- Melodía polifónica del timbre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JKFF1DP/?tag=tolees-21)

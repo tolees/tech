@@ -28,10 +28,10 @@ Está [ABelle - Tira LED flexible  RGB  4 x 50 cm  para TV  ordenador](https:/
 
 ℹ️:
 
-- Relaja estado de ánimo de iluminación - respetuoso con el medio ambiente, ninguna radiación, sin parpadeo, ningún daño para el ojo humano, impide que la fatiga de los ojos, y hacer que usted se relaja
 - Conector USB - impulsado por cualquier dispositivo con salida de 5 V puerto USB, como TV, computadora, escritorio, portátil, tableta, Tab, auto cigarrillo anzünder. etc.
-- Prometemos: 1 kit bien embalado franja de luz, 24 horas amistoso de correo electrónico de distancia, 180 días garantía gratuita
-- Fuerte cinta - con aktualisiertem cinta adhesiva, se puede pegar en cualquier superficie limpia y seca, no se preocupe a caer
 - DIY colores - con IR de 44 Teclas controlador, usted puede DIY, colores como quieran, RGB y multicolor
+- Relaja estado de ánimo de iluminación - respetuoso con el medio ambiente, ninguna radiación, sin parpadeo, ningún daño para el ojo humano, impide que la fatiga de los ojos, y hacer que usted se relaja
+- Fuerte cinta - con aktualisiertem cinta adhesiva, se puede pegar en cualquier superficie limpia y seca, no se preocupe a caer
+- Prometemos: 1 kit bien embalado franja de luz, 24 horas amistoso de correo electrónico de distancia, 180 días garantía gratuita
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LHAGLOK/?tag=tolees-21)

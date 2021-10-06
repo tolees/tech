@@ -28,10 +28,10 @@ En este momento está [Samsung 980 M.2 500 GB PCI Express 3.0 V-NAND NVMe](https
 
 🔎:
 
-- Tecnología de almacenamiento V-NAND moderna en un factor de forma compacto M.2 (2280)
 - Altas velocidades de transferencia de datos de hasta 3500 MB / s: más de 6,2 veces más rápido que los SSD SATA TurboWrite 2.0 inteligente con hasta 160 GB de memoria intermedia dinámica para un alto rendimiento duradero
 - SSD PCIe 3.0 NVMe potente y rentable para juegos y aplicaciones diarias
-- Admite el modo de potencia total para obtener el mayor rendimiento posible con baja latencia
+- Tecnología de almacenamiento V-NAND moderna en un factor de forma compacto M.2 (2280)
 - NOTA! Por favor compruebe la compatibilidad del producto en la página del fabricante
+- Admite el modo de potencia total para obtener el mayor rendimiento posible con baja latencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THW4S3T/?tag=tolees-21)
