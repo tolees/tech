@@ -28,12 +28,12 @@ Está [D-Link DGS-1024D - Switch 24 Puertos Gigabit  LAN RJ-45  sin gestión  10
 
 ℹ️:
 
-- Indicadores led del estado de conexión y actividad en cada puerto
-- Sin ventilador, funcionamiento silencioso
-- D-Link Green: Los puertos no conectados apenas consumen energía eléctrica, mientras que los conectados consumen según sea el largo del cable, alcanzando un ahorro energético de hasta un 85%
-- Formato rack con carcasa metálica con kit para su montaje en rack estándar de 19 pulgadas
-- No necesita configuración: enchufar, conectar y listo
-- 16 puertos con velocidad Gigabit (10/100/1000 Mbps), full dúplex, control de flujo
 - Aumenta la capacidad de tu red cableada para conectar hasta 16 equipos por cable de red Ethernet LAN de CAT5 y CAT6
+- Formato rack con carcasa metálica con kit para su montaje en rack estándar de 19 pulgadas
+- Sin ventilador, funcionamiento silencioso
+- 16 puertos con velocidad Gigabit (10/100/1000 Mbps), full dúplex, control de flujo
+- No necesita configuración: enchufar, conectar y listo
+- Indicadores led del estado de conexión y actividad en cada puerto
+- D-Link Green: Los puertos no conectados apenas consumen energía eléctrica, mientras que los conectados consumen según sea el largo del cable, alcanzando un ahorro energético de hasta un 85%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00061LQZQ/?tag=tolees-21)

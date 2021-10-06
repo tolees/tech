@@ -29,10 +29,10 @@ Ahora mismo tienes [MEDION Akoya S15449 - Ordenador portátil de 15.6" FullHD  I
 🔎:
 
 - Procesador Intel Core i5-1135G7 (4 núcleos, 8MB Intel Smart Cache, hasta 4.2 GHz con tecnología Intel Turbo Boost).
-- Tarjeta gráfica integrada Intel Iris Xᵉ.
-- Pantalla de 15.6 pulgadas FullHD con resolución 1920 x 1080 píxeles y tecnología IPS.
-- Sin Sistema Operativo.
 - Almacenamiento de 512GB SSD.
 - Memoria RAM de 8GB DDR4.
+- Sin Sistema Operativo.
+- Tarjeta gráfica integrada Intel Iris Xᵉ.
+- Pantalla de 15.6 pulgadas FullHD con resolución 1920 x 1080 píxeles y tecnología IPS.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QP8DG2F/?tag=tolees-21)

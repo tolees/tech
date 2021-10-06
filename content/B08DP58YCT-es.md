@@ -28,15 +28,15 @@ En este momento está [Lenovo D27-30 - Monitor Gaming 27" FullHD  VA  75Hz  4ms 
 
 🔎:
 
-- Puertos HDMI y VGA
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
-- Relación de aspecto 16:9 y relación de contraste 3000:1
 - Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
-- Soporte VESA para montar la pantalla en la pared
 - Cable VGA incluido en la caja
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Puertos HDMI y VGA
 - AMD FreeSync
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Relación de aspecto 16:9 y relación de contraste 3000:1
+- Soporte VESA para montar la pantalla en la pared
 - Ajuste de inclinación (-5° / 22°)
+- Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21)
