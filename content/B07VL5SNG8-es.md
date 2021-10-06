@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viewsonic Elite XG270 Monitor Gaming 27" con un 24.05 % de descuento'
-date: 2021-09-30 17:10:50
+date: 2021-10-06 20:34:21
 image: 'https://m.media-amazon.com/images/I/417RaI2y5aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ViewSonic'
 buyurl: 'https://www.amazon.es/dp/B07VL5SNG8/?tag=tolees-21'
 descuento: '24.05'
-average: '438.846'
+average: '421.747142857143'
 ---
 
 En este momento está [Viewsonic Elite XG270 Monitor Gaming 27" Full HD  Panel IPS  1 ms  240 Hz  FreeSync  iluminación RGB  Altura Ajustable  Negro](https://www.amazon.es/dp/B07VL5SNG8/?tag=tolees-21) a 379.0 EUR (original: 499.0 EUR) (24.05 %  de descuento) en el siguiente enlace!

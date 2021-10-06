@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Logitech G603 LIGHTSPEED Ratón Gaming In al 33.93 % de descuento'
-date: 2021-09-30 22:33:37
+title: 'Logitech G603 LIGHTSPEED Ratón Gaming In al 39.44 % de descuento'
+date: 2021-10-06 20:58:57
 image: 'https://m.media-amazon.com/images/I/31-P-KhT-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0746NVS2Z-es Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico...'
 sku: 'B0746NVS2Z-es'
 tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation - Psone','Accesorios para PlayStation 2','Accesorios para PlayStation 4','Accesorios para Xbox','Accesorios para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos y Accesorios para PC','PlayStation 2: Juegos, consolas y accesorios','PlayStation: Juegos, consolas y accesorios','Ratones para gamers para PC','Sistemas heredados','Sistemas heredados de PlayStation','Sistemas heredados de Xbox','Videojuegos','Xbox: Juegos, consolas y accesorios','bluetooth','logitech','logitech g','ratón', ]
-actualPrice: 54.17 EUR
+actualPrice: 49.65 EUR
 currency: EUR
-price: 54.17
+price: 49.65
 comparePrice: 81.99 EUR
 prodname: 'Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico  Bluetooth o 2.4GHz con Receptor USB  Captor HERO 12K  12 000 DPI  6 Botónes Programables  Memoria Integrada  PC/Mac - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B0746NVS2Z/?tag=tolees-21'
-descuento: '33.93'
-average: '50.1254545454547'
+descuento: '39.44'
+average: '50.1949504950497'
 ---
 
-Ahora mismo tienes [Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico  Bluetooth o 2.4GHz con Receptor USB  Captor HERO 12K  12 000 DPI  6 Botónes Programables  Memoria Integrada  PC/Mac - Negro](https://www.amazon.es/dp/B0746NVS2Z/?tag=tolees-21) a 54.17 EUR (original: 81.99 EUR) (33.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico  Bluetooth o 2.4GHz con Receptor USB  Captor HERO 12K  12 000 DPI  6 Botónes Programables  Memoria Integrada  PC/Mac - Negro](https://www.amazon.es/dp/B0746NVS2Z/?tag=tolees-21) a 49.65 EUR (original: 81.99 EUR) (39.44 %  de descuento) en el siguiente enlace!
 
 [![Logitech G603 LIGHTSPEED Ratón Gaming In](https://m.media-amazon.com/images/I/31-P-KhT-eL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0746NVS2Z/?tag=tolees-21)
 
