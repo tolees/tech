@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.74 % en ASUS DRW-24D5MT - Grabadora de DVD 24X  '
-date: 2021-10-01 23:17:29
+date: 2021-10-06 22:37:13
 image: 'https://m.media-amazon.com/images/I/41FH9TyC3WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [ASUS DRW-24D5MT - Grabadora de DVD 24X  compatibilidad con M-Disc  encri
 ℹ️:
 
 - velocidad de escritura de CD 24 x
-- ASUS interno lector de DVD-escritor
-- USB powered-negro Slim diseño
 - Interfaz serial SATA
 - velocidad de escritura de DVD 24 x
+- USB powered-negro Slim diseño
+- ASUS interno lector de DVD-escritor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019F6FV5S/?tag=tolees-21)
