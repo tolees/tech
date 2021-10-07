@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Opus - Auriculares inalámbricos AN al 33.34 % de rebaja'
-date: 2021-10-06 00:36:26
+date: 2021-10-07 01:42:31
 image: 'https://m.media-amazon.com/images/I/31mAA5NMHGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Razer Opus - Auriculares inalámbricos ANC con cancelación Activa de Ru
 
 🔎:
 
-- x
-- Connectivity technology: Inalámbrico
 - Paqueteage Weight: 1.0 pounds
+- Connectivity technology: Inalámbrico
+- x
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GR9YLQX/?tag=tolees-21)
