@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS BE24EQSK - Monitor para videconfere al 16.74 % de descuento'
-date: 2021-10-05 16:24:46
+date: 2021-10-07 15:23:36
 image: 'https://m.media-amazon.com/images/I/41DOL3wEhCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [ASUS BE24EQSK - Monitor para videconferencias 23.8 Pulgadas  Full HD  IPS
 
 ℹ️:
 
-- Panel IPS Full HD (1920 x 1080) de 23.8 pulgadas con amplios ángulos de visión
-- Los monitores ASUS Eye Care incluyen certificaciones TÜV Rheinland de Luz azul de baja intensidad y Antiparpadeo
 - Amplia conectividad DisplayPort, HDMI, DVI-D, D-sub, entrada de audio y salida auriculares
+- Los monitores ASUS Eye Care incluyen certificaciones TÜV Rheinland de Luz azul de baja intensidad y Antiparpadeo
+- Panel IPS Full HD (1920 x 1080) de 23.8 pulgadas con amplios ángulos de visión
 - Cámara web Full HD, matriz de micrófonos y altavoces estéreo para videoconferencias y aprendizaje a distancia
 - Su diseño ergonómico permite ajustar la inclinación de +35° a -5°, la orientación en ±180°, girarlo en ±90° y alzarlo hasta 130 mm
 
