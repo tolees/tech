@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 B10RBSW-419XES - Ordenador con un 34.64 % de descuento'
-date: 2021-10-06 17:00:19
+date: 2021-10-07 18:01:54
 image: 'https://m.media-amazon.com/images/I/31f9p7M9ZmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08SKCVNTL/?tag=tolees-21'
 descuento: '34.64'
-average: '881.846666666667'
+average: '873.635'
 ---
 
 En este momento está [MSI Modern 14 B10RBSW-419XES - Ordenador portátil de 14" FullHD  Intel Core I7-10510U  16GB RAM  1TB SSD   Nvidia MX350-2 GB   Sin Sistema Operativo  Carbon Gris - Teclado QWERTY Espanol](https://www.amazon.es/dp/B08SKCVNTL/?tag=tolees-21) a 849.0 EUR (original: 1299.0 EUR) (34.64 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [MSI Modern 14 B10RBSW-419XES - Ordenador portátil de 14"
 
 🔎:
 
-- Sin sistema operativo
 - Procesador Intel Core I7-10510U (4 nucleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
-- Tarjeta gráfica GeForce MX350, GDDR5 2 GB
+- Sin sistema operativo
+- Memoria RAM de 16 GB DDR 4, 2666 MHz
 - Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 - Disco HDD de 1 TB NVMe PCIe Gen3x4 SSD
-- Memoria RAM de 16 GB DDR 4, 2666 MHz
+- Tarjeta gráfica GeForce MX350, GDDR5 2 GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SKCVNTL/?tag=tolees-21)
