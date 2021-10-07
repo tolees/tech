@@ -28,10 +28,10 @@ Ahora mismo tienes [DEOU 2 Pack Correa Compatible con Xiaomi Mi Band 6 / Xiaomi 
 
 🔎:
 
-- ★【Materiales de alta calidad】: Correa están hechas de silicona duradera y flexible. Cómodo de usar, ecológico y seguro para la piel humana.
-- ★【Diseño Ergonomico】: Longitud total de la pulsera: 250MM; Longitud ajustable: 140MM-215 MM(5.5"- 8.5"). Corificios de corte precisos que se adaptan bien a la mayoría de las muñecas,fáciles de bloquear y tomar,múltiples agujeros alternativos para longitud ajustable.
 - ★【Servicio Postventa】:Si no está satisfecho con estas bandas de reemplazo, contáctenos en cualquier momento, le daremos una respuesta dentro de las 24 horas.
-- ★【Suave y Transpirable】:DEOU correa está hecha de silicona de alta calidad, que es suave y cómoda y no irrita la piel. Los materiales transpirables y el diseño especial, impermeable y a prueba de sudor, ya sea corriendo o descansando, pueden brindarle una buena experiencia.
 - ★【No para Xiaomi Mi Band 4/3！！！】: DEOU 2 Pack Correas Compatible con Xiaomi Mi Band 6 / Xiaomi Mi Band 5 / Amazfit Band 5(No Host)(No adecuadoXiaomi Mi Band 4/3).
+- ★【Diseño Ergonomico】: Longitud total de la pulsera: 250MM; Longitud ajustable: 140MM-215 MM(5.5"- 8.5"). Corificios de corte precisos que se adaptan bien a la mayoría de las muñecas,fáciles de bloquear y tomar,múltiples agujeros alternativos para longitud ajustable.
+- ★【Suave y Transpirable】:DEOU correa está hecha de silicona de alta calidad, que es suave y cómoda y no irrita la piel. Los materiales transpirables y el diseño especial, impermeable y a prueba de sudor, ya sea corriendo o descansando, pueden brindarle una buena experiencia.
+- ★【Materiales de alta calidad】: Correa están hechas de silicona duradera y flexible. Cómodo de usar, ecológico y seguro para la piel humana.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092PY8BZ2/?tag=tolees-21)

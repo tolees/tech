@@ -30,8 +30,8 @@ Tienes [SAMSUNG MLT-D111S  SU810A - Cartucho Tóner  de 1.000 Páginas  Compatib
 
 - Cartucho Tóner SAMSUNG compatible con impresoras SAMSUNG Laserjet monocromáticas Xpress M2022, M2022W, M2026, M2026W, M2060FH, M2070, M2070F, M2070FW, M2070W, M2078W y M2625
 - Diseñado de manera respetuosa con el entorno; recicla consumibles de Tóner de SAMSUNG con el programa HP Planet Partners para que se conviertan en nuevos productos y no acaben en océanos o vertederos
+- Los cartuchos de tóner es SAMSUNG cumplen con los estándares de seguridad y emisiones atmosféricas bajo la certificación TÜV Rheinland
 - Gracias a la tecnología de SAMSUNG ReCP obtendrás impresiones con detalles nítidos y bien definidos desde la primera hasta la última página
 - Óptimo para imprimir documentos con resultados profesionales y uniformes de forma rápida y sencilla; el rendimiento medio de impresión es de 1.000 páginas
-- Los cartuchos de tóner es SAMSUNG cumplen con los estándares de seguridad y emisiones atmosféricas bajo la certificación TÜV Rheinland
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E3MLHD0/?tag=tolees-21)

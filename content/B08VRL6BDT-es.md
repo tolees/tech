@@ -31,7 +31,7 @@ Está [ASUS BE24EQSK - Monitor para videconferencias 23.8 Pulgadas  Full HD  IPS
 - Amplia conectividad DisplayPort, HDMI, DVI-D, D-sub, entrada de audio y salida auriculares
 - Los monitores ASUS Eye Care incluyen certificaciones TÜV Rheinland de Luz azul de baja intensidad y Antiparpadeo
 - Panel IPS Full HD (1920 x 1080) de 23.8 pulgadas con amplios ángulos de visión
-- Cámara web Full HD, matriz de micrófonos y altavoces estéreo para videoconferencias y aprendizaje a distancia
 - Su diseño ergonómico permite ajustar la inclinación de +35° a -5°, la orientación en ±180°, girarlo en ±90° y alzarlo hasta 130 mm
+- Cámara web Full HD, matriz de micrófonos y altavoces estéreo para videoconferencias y aprendizaje a distancia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VRL6BDT/?tag=tolees-21)
