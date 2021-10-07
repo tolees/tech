@@ -29,8 +29,8 @@ Tienes [Kingston SDCS2/512GB Canvas Select Plus - Tarjeta microSD  Class 10 con 
 🔎:
 
 - Optimizada para uso con dispositivos Android
-- Tipo de memoria flash: Micro SD
 - Capacidad de la memoria: 512 GB
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s*
+- Tipo de memoria flash: Micro SD
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YGYQNN4/?tag=tolees-21)

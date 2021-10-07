@@ -28,9 +28,9 @@ Ahora mismo tienes [Honor Watch GS Pro Smartwatch  KAN-B19  Negro carbón](https
 
 🔎:
 
-- Hasta 25 días de duración de la batería
-- Más de 100 modos de entrenamiento
 - Pantalla AMOLED
 - Monitor de pulso cardiaco
+- Más de 100 modos de entrenamiento
+- Hasta 25 días de duración de la batería
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HRT9X2B/?tag=tolees-21)
