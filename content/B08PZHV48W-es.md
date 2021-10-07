@@ -28,10 +28,10 @@ En este momento está [eSUN Resina ABS-Like UV 405nm Resina Rápida para Impreso
 
 🔎:
 
-- 【Alta Compatibilidad】Con pigmentos de alta calidad y iniciadores de la foto, eSUN Resina ABS-Like es adecuada para la mayoría de las impresoras LCD 3D para prototipos rápidos con automóviles, equipos médicos, productos electrónicos, modelos de construcción y piezas industriales.
-- 【Resina ABS-Like】Similar al ABS. Alta Dureza 75-81D. Gran Tenacidad. Resistencia de Alto Impacto. Excelentes Propiedades Mecánicas. Resistencia al Desgaste. Adecuado para Imprimir Varios Modelos, Carcasas y Piezas de Ingeniería Industrial con Mayores Requisitos de Rigidez.
 - 【Alta Precisión y Baja Contracción】eSUN Resina ABS-Like contiene monómeros de metacrilato para reducir la contracción del volumen durante el proceso de fotocurado, lo que garantiza la alta precisión y detalle claro del modelo de impresión con acabado liso.
-- 【Embalaje Seguro y Protegido】Peso Neto: 500g. Botella de aluminio engrosada completamente protegida de la luz. Botella a prueba de fugas completamente envuelta con una bolsa plástica de burbujas y una caja de embalaje exquisitamente diseñada para asegurar que la resina permanezca en su lugar donde pertenecen.
 - 【Curado Rápido y Excelente Fluidez】Resina Rápida fue diseñado para reducir significativamente el tiempo de impresión con su excelente fluidez. Tiene buena combinación de dureza y tenacidad, lo que facilita la extracción del modelo y los detalles de impresión fina.
+- 【Embalaje Seguro y Protegido】Peso Neto: 500g. Botella de aluminio engrosada completamente protegida de la luz. Botella a prueba de fugas completamente envuelta con una bolsa plástica de burbujas y una caja de embalaje exquisitamente diseñada para asegurar que la resina permanezca en su lugar donde pertenecen.
+- 【Resina ABS-Like】Similar al ABS. Alta Dureza 75-81D. Gran Tenacidad. Resistencia de Alto Impacto. Excelentes Propiedades Mecánicas. Resistencia al Desgaste. Adecuado para Imprimir Varios Modelos, Carcasas y Piezas de Ingeniería Industrial con Mayores Requisitos de Rigidez.
+- 【Alta Compatibilidad】Con pigmentos de alta calidad y iniciadores de la foto, eSUN Resina ABS-Like es adecuada para la mayoría de las impresoras LCD 3D para prototipos rápidos con automóviles, equipos médicos, productos electrónicos, modelos de construcción y piezas industriales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PZHV48W/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Trust Tytan 2.0 - Set de altavoces de ordenador 2.0  36 W
 
 🔎:
 
-- Control de bajos y de volumen de fácil acceso en el frontal
-- Conexión de entrada de línea para tabletas, teléfonos o reproductores MP3
-- Alimentado por USB, no requiere alimentación de pared
 - Juego de altavoces que produce un sonido rico con una potente salida de potencia de pico de 36 W (18 W RMS)
+- Conexión de entrada de línea para tabletas, teléfonos o reproductores MP3
+- Control de bajos y de volumen de fácil acceso en el frontal
+- Alimentado por USB, no requiere alimentación de pared
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KAFGMD8/?tag=tolees-21)
