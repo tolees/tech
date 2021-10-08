@@ -28,9 +28,9 @@ Está [Xiaomi Mi Air Purifier Pro EU version - Purificador de aire  conexión Wi
 
 ℹ️:
 
-- Idoneo para habitaciones hasta 60m2
 - Versión Europea
 - Purifificador de aire inteligente con conexión WiFi, pantalla display y control por app movil
+- Idoneo para habitaciones hasta 60m2
 - Capacidad purificadora de aire 500m3/h
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HLRR5P1/?tag=tolees-21)

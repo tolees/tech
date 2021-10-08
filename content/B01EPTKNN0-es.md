@@ -28,9 +28,9 @@ Tienes [ELECTRIC GIANT - Micrófono PC USB  Micrófono de Condensador PS4 con Tr
 
 ℹ️:
 
-- [Gran compatibilidad]: Opción ideal para cantar, instrumentos musicales, gaming, radio, podcasts, entrevistas, grabación de voz, videoconferencia o hablar por Internet, chats en línea, dar clase para profesores, p. Ej. Facebook, MSN, Skype, Youtube, WhatsApp, etc. Adecuado para PC, Mac, etc. (No recomendado para teléfonos móviles, Xbox, iPad)
-- [Micrófono omnidireccional de condensador & Micrófono PC con interruptor]: micrófono USB para PC EGM-04 es un micrófono omnidireccional de condensador con calidad de sonido clara, grabación de sonido original, defensa aérea y sin ruido. Puede recibir sonido normalmente sin estar demasiado cerca. Con el interruptor puede encender y apagar el micrófono en cualquier momento.
 - [Protección contra POP & Soporte para micrófono]: La protección pop también lo traga todo, por ejemplo, bocanadas de aire o rechinar los dientes. Con el soporte de micrófono, puede colocar el micrófono firmemente sobre la mesa para liberar sus manos.
+- [Micrófono omnidireccional de condensador & Micrófono PC con interruptor]: micrófono USB para PC EGM-04 es un micrófono omnidireccional de condensador con calidad de sonido clara, grabación de sonido original, defensa aérea y sin ruido. Puede recibir sonido normalmente sin estar demasiado cerca. Con el interruptor puede encender y apagar el micrófono en cualquier momento.
+- [Gran compatibilidad]: Opción ideal para cantar, instrumentos musicales, gaming, radio, podcasts, entrevistas, grabación de voz, videoconferencia o hablar por Internet, chats en línea, dar clase para profesores, p. Ej. Facebook, MSN, Skype, Youtube, WhatsApp, etc. Adecuado para PC, Mac, etc. (No recomendado para teléfonos móviles, Xbox, iPad)
 - [USB plug & play]: Con conexión USB, no se requiere la instalación de ningún otro controlador o software adicional, ya que plug and play es compatible con Windows y en otros. El cable mide 1,8 metros (es decir, 5,90 pies) de largo, puede moverlo a voluntad.
 - [Tecnología DSP]: Procesamiento de señal digital, que asegura la reducción de vibraciones sonoras resonantes y ruidos interferentes. Con efectos de reverberación (es decir, reverberación), el efecto de sonido es el mismo que el del karaoke, lo que hace que su voz suene mejor.
 

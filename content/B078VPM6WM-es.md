@@ -28,10 +28,10 @@ Está [Sony Lente Zoom  Montura E  Formato APS-C  18-135 mm F3.5-5.6 OSS  Zoom d
 
 ℹ️:
 
+- Lente de zoom estándar de gran ampliación APS-C
 - Diseño compacto y ligero
 - Lente de zoom estándar de gran ampliación APS-C
 - Avanzada tecnología de motor lineal que permite un control de enfoque preciso y silencioso
-- Lente de zoom estándar de gran ampliación APS-C
 - Diseño óptico con un elemento asférica que ofrece una alta resolución de esquina a esquina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078VPM6WM/?tag=tolees-21)
