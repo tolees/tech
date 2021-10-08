@@ -28,9 +28,9 @@ Tienes [KabelDirekt – 10m Cable de Extensión 3 5mm Jack  Cable Aux  Audio Est
 
 ℹ️:
 
+- 36 meses de garantía del fabricante
+- Cuidadosamente elaborado
 - Líneas de cobre puro
 - Cable de extensión Jack 3,5mm
-- Cuidadosamente elaborado
-- 36 meses de garantía del fabricante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00L5FVWVK/?tag=tolees-21)
