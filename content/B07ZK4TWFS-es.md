@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Arc Mouse Verde al 40.17 % de rebaja'
-date: 2021-09-30 05:03:39
+date: 2021-10-08 01:04:35
 image: 'https://m.media-amazon.com/images/I/211kA14eI5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK4TWFS/?tag=tolees-21'
 descuento: '40.17'
-average: '46.76'
+average: '48.056'
 ---
 
 Tienes [Microsoft – Arc Mouse Verde](https://www.amazon.es/dp/B07ZK4TWFS/?tag=tolees-21) con precio final de  53.24 EUR (original: 88.99 EUR) (40.17 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [Microsoft – Arc Mouse Verde](https://www.amazon.es/dp/B07ZK4TWFS/?tag=
 
 🔎:
 
-- Deslizamiento táctil
-- Diseño flexible
-- Tecnología BlueTrack
-- Tecnología inalámbrica Bluetooth 4.1
-- Encendido y apagado automático
-- Reclinable
 - Duración de la batería: 6 meses
+- Deslizamiento táctil
+- Tecnología BlueTrack
+- Reclinable
+- Diseño flexible
+- Encendido y apagado automático
+- Tecnología inalámbrica Bluetooth 4.1
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZK4TWFS/?tag=tolees-21)
