@@ -28,10 +28,10 @@ En este momento está [HOMCOM Mesa de Ordenador en Forma de L Escritorio de Ofic
 
 🔎:
 
-- ESTANTES INCORPORADOS: perfectos para guardar todo lo que necesitas tener a mano mientras trabajas, pero sin que te ocupe espacio útil de la superficie de trabajo.
-- ESCRITORIO CON FORMA DE L: ideal para crear tu zona de trabajo o estudio en cualquier esquina de tu casa que esté desaprovechada. Su estilo elegante no desentonará con la estética general de tu decoración.
-- AMPLIA SUPERFICIE DE TRABAJO: gracias a su diseño en L te ofrece un espacio extra para que coloques documentos que necesites consultar, el portátil o lo que quieras.
-- MEDIDAS: 130x130x78 cm (LxANxAL). Medidas de la superficie: 130x48x78 cm (LxANxAL).
 - FÁCIL DE LIMPIAR: pásale un paso húmedo y estará siempre perfecta.
+- AMPLIA SUPERFICIE DE TRABAJO: gracias a su diseño en L te ofrece un espacio extra para que coloques documentos que necesites consultar, el portátil o lo que quieras.
+- ESCRITORIO CON FORMA DE L: ideal para crear tu zona de trabajo o estudio en cualquier esquina de tu casa que esté desaprovechada. Su estilo elegante no desentonará con la estética general de tu decoración.
+- ESTANTES INCORPORADOS: perfectos para guardar todo lo que necesitas tener a mano mientras trabajas, pero sin que te ocupe espacio útil de la superficie de trabajo.
+- MEDIDAS: 130x130x78 cm (LxANxAL). Medidas de la superficie: 130x48x78 cm (LxANxAL).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CDBPKBR/?tag=tolees-21)

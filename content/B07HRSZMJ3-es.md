@@ -28,9 +28,9 @@ En este momento está [Branpresto - 608911 - Stranger Things - Pin s/Badge - Ups
 
 🔎:
 
-- PYR - Set Chapas Stranger Things Del Revés
-- PYR - Set Chapas Stranger Things Del Revés
 - accesorio
+- PYR - Set Chapas Stranger Things Del Revés
+- PYR - Set Chapas Stranger Things Del Revés
 - PYR - Set Chapas Stranger Things Del Revés
 - PYR - Set Chapas Stranger Things Del Revés
 
