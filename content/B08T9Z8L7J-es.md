@@ -29,9 +29,9 @@ Ahora mismo tienes [Medion Akoya S15447 Plata Portátil 15.6" FullHD i5 10210U 2
 🔎:
 
 - WiFi, Bluetooth, USB, USB-C y HDMI
-- Pantalla 15.6" FullHD, 1920 x 1080 píxeles
-- Procesador Intel i5 10210U a 4.2GHz
 - Sin sistema operativo (FreeDOS)
 - Unidad SSD de 256GB, 8GB de RAM
+- Procesador Intel i5 10210U a 4.2GHz
+- Pantalla 15.6" FullHD, 1920 x 1080 píxeles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T9Z8L7J/?tag=tolees-21)
