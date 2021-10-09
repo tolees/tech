@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook D14 - Ordenador Portátil al 18.77 % de descuento'
-date: 2021-10-06 00:45:28
+date: 2021-10-09 10:20:11
 image: 'https://m.media-amazon.com/images/I/41ULFWhUUPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [Huawei Matebook D14 - Ordenador Portátil Ultrafino de 14" F
 
 🔎:
 
-- Memoria RAM de 8GB DDR4
 - Almacenamiento de 512GB SSD NVMe PCIe
 - Tarjeta gráfica integrada Intel UHD Graphics
 - Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
 - Tamaño de pantalla: 14.0 inches; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
 - Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
+- Memoria RAM de 8GB DDR4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B099KR2WWB/?tag=tolees-21)
