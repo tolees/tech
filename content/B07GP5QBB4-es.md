@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda PH10 KIT PLC Wi-Fi 2 Adaptadores P al 15.00 % de rebaja'
-date: 2021-10-07 02:49:13
+date: 2021-10-09 08:09:07
 image: 'https://m.media-amazon.com/images/I/31c9hqd93+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Tenda PH10 KIT PLC Wi-Fi 2 Adaptadores Powerline con Enchufe Repetidores
 
 🔎:
 
+- Velocidad: powerline 1000 Mbps/Wi-Fi 200 M 11 N + 433 M 11 AC.
+- Estándares y protocolos: homeplugAV2, IEEE 802.3,IEEE 802.3u,IEEE 802.3ab, IEEE802.11 a/b/g/n/ac
 - Antena: 2 interiores.
 - Interfaz: 2 x 10/100/1000M (Interfaz Ethernet)
-- Estándares y protocolos: homeplugAV2, IEEE 802.3,IEEE 802.3u,IEEE 802.3ab, IEEE802.11 a/b/g/n/ac
-- Velocidad: powerline 1000 Mbps/Wi-Fi 200 M 11 N + 433 M 11 AC.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GP5QBB4/?tag=tolees-21)
