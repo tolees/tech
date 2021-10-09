@@ -29,8 +29,8 @@ Tienes [Tenda PH10 KIT PLC Wi-Fi 2 Adaptadores Powerline con Enchufe Repetidores
 🔎:
 
 - Velocidad: powerline 1000 Mbps/Wi-Fi 200 M 11 N + 433 M 11 AC.
+- Interfaz: 2 x 10/100/1000M (Interfaz Ethernet)
 - Estándares y protocolos: homeplugAV2, IEEE 802.3,IEEE 802.3u,IEEE 802.3ab, IEEE802.11 a/b/g/n/ac
 - Antena: 2 interiores.
-- Interfaz: 2 x 10/100/1000M (Interfaz Ethernet)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GP5QBB4/?tag=tolees-21)
