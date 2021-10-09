@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto g30  Pantalla de 6.5" 90Hz al 20.10 % de descuento'
-date: 2021-10-08 16:20:26
+date: 2021-10-09 18:10:39
 image: 'https://m.media-amazon.com/images/I/41YHQ0aiS+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Motorola Moto g30  Pantalla de 6.5" 90Hz  Qualcomm Snapdragon  sistema de
 
 ℹ️:
 
-- Carga TurboPower y batería que dura dos días; recargarás rápidamente y obtendrás hasta 48 horas de batería con una batería de 5000 mAh
-- Sistema de cuatro cámaras de 64 MP; captura fotos de alta resolución más nítidas y brillantes, impresionantes fotos gran angular, primeros planos detallados, retratos preciosos y mucho más
+- Rendimiento increíblemente rápido; dale a tus fotos, juegos y más un gran impulso con el procesador Qualcomm Snapdragon 662 de ocho núcleos
 - 129 GB de almacenamiento interno; nunca vuelvas a preocuparte por el almacenamiento con toneladas de almacenamiento para fotos, películas, música y más: expandible hasta 512 GB
 - Pantalla de 6,5" 90 Hz; disfruta de una velocidad rápida de actualización de la pantalla, para mejor experiencia en juegos, vídeos y deslizar con mucho menos lag
-- Rendimiento increíblemente rápido; dale a tus fotos, juegos y más un gran impulso con el procesador Qualcomm Snapdragon 662 de ocho núcleos
+- Sistema de cuatro cámaras de 64 MP; captura fotos de alta resolución más nítidas y brillantes, impresionantes fotos gran angular, primeros planos detallados, retratos preciosos y mucho más
+- Carga TurboPower y batería que dura dos días; recargarás rápidamente y obtendrás hasta 48 horas de batería con una batería de 5000 mAh
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B096KSCH6T/?tag=tolees-21)
