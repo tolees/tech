@@ -28,15 +28,15 @@ Está [Lenovo D24-20 - Monitor 23.8" FullHD  VA  75Hz  4ms  HDMI  VGA  FreeSync 
 
 ℹ️:
 
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Ajuste de inclinación (-5° / 22°) y altura (130mm)
-- Puertos HDMI y VGA
-- Soporte VESA para montar la pantalla en la pared
 - Pantalla de 23.8" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
-- Tecnología Low Blue Light para la protección de los ojos contra la luz azul
-- Cable VGA incluido en la caja
-- Relación de aspecto 16:9 y relación de contraste 1000:1
 - AMD FreeSync
+- Cable VGA incluido en la caja
+- Ajuste de inclinación (-5° / 22°) y altura (130mm)
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Soporte VESA para montar la pantalla en la pared
+- Tecnología Low Blue Light para la protección de los ojos contra la luz azul
+- Puertos HDMI y VGA
+- Relación de aspecto 16:9 y relación de contraste 1000:1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D8R3RW1/?tag=tolees-21)

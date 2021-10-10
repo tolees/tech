@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS VivoBook S14 S433EA-EB023 - Ordenador portátil 14" Ful
 
 🔎:
 
-- Memoria RAM de 8GB (en placa) DDR4
 - Almacenamiento de 512GB M.2 NVMe PCIe
-- Sin Sistema Operativo
+- Memoria RAM de 8GB (en placa) DDR4
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 14" Full HD (1920 x 1080)
 - Procesador Intel Core i5-1135G7 (8MB)
+- Sin Sistema Operativo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0913LTDQ2/?tag=tolees-21)
