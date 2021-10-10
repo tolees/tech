@@ -28,11 +28,11 @@ En este momento está [ASUS VivoBook 15 K513EA-BQ684 - Portátil 15.6" FullHD  I
 
 🔎:
 
+- Memoria RAM de 8GB SO-DIMM DDR4
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS 250 nits
-- Memoria RAM de 8GB SO-DIMM DDR4
 - Procesador Intel Core i7-1165G7 (4C/QuadCore 2.8 / 4.7GHz, 12MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS 250 nits
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WRJCSYH/?tag=tolees-21)
