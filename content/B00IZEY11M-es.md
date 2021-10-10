@@ -28,10 +28,10 @@ Está [Nikon EN-EL20a - Batería/Pila Recargable  1110 mAh  Cámara Digital  Ion
 
 ℹ️:
 
-- Incluye: batería de iones de litio Nikon EN-EL20a para cámara sin espejo 1 V3.
-- Batería especialmente compacta de iones de litio.
+- Capacidad: 1110 mAh.
 - Se puede recargar con los cargadores compatibles.
 - Compatible con la cámara sin espejo 1 V3.
-- Capacidad: 1110 mAh.
+- Incluye: batería de iones de litio Nikon EN-EL20a para cámara sin espejo 1 V3.
+- Batería especialmente compacta de iones de litio.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IZEY11M/?tag=tolees-21)

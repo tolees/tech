@@ -29,7 +29,7 @@ Ahora mismo tienes [Canon 9530B001 - Parasol para objetivos Canon EW-83M](https:
 🔎:
 
 - Parasol que previene las luces parásitas que ocasionan deslumbramientos y reflejos en la lente.
-- Marcas compatibles: Canon
 - Tipo de parasol: Circular.
+- Marcas compatibles: Canon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NM0W7QU/?tag=tolees-21)
