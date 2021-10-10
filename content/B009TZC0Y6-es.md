@@ -28,12 +28,12 @@ Está [D-Link GO-SW-8G - Switch 8 puertos  Gigabit Ethernet LAN RJ-45  Sin gesti
 
 ℹ️:
 
-- D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
 - 8 puertos con velocidad Gigabit (10/100/1000 Mbps) y full dúplex
-- Formato sobremesa y tamaño muy reducido.
-- Aumenta la capacidad de tu red cableada para conectar hasta 8 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - Sin ventilador, funcionamiento silencioso.
 - Indicadores led del estado de conexión y actividad en cada puerto
+- D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
+- Formato sobremesa y tamaño muy reducido.
+- Aumenta la capacidad de tu red cableada para conectar hasta 8 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - No necesita configuración: enchufar, conectar y listo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009TZC0Y6/?tag=tolees-21)
