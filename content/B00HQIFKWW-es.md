@@ -28,12 +28,12 @@ Tienes [Sony SmartBand SWR10 - Pulsera inteligente  WiFi   negro](https://www.am
 
 ℹ️:
 
-- Tipo de conector: Bluetooth
-- Compuesta de una pulsera y de una unidad Core desmontable que detecta tus movimientos y envía datos a tu smartphone
-- Resistente al agua con botón de cierre de metal
-- El SmartBand SWR10 y la aplicación Android Lifelog son compatibles con cualquier dispositivo con Android 4.4 o posterior
+- Sentirás una suave vibración cuando recibes una llamada o un mensaje
 - Registro de actividad diaria con notificaciones y control remoto de música
 - Vibra al separarse más de 10 metros de tu smartphone
-- Sentirás una suave vibración cuando recibes una llamada o un mensaje
+- El SmartBand SWR10 y la aplicación Android Lifelog son compatibles con cualquier dispositivo con Android 4.4 o posterior
+- Resistente al agua con botón de cierre de metal
+- Tipo de conector: Bluetooth
+- Compuesta de una pulsera y de una unidad Core desmontable que detecta tus movimientos y envía datos a tu smartphone
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HQIFKWW/?tag=tolees-21)

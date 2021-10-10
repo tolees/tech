@@ -28,11 +28,11 @@ Ahora mismo tienes [MSI WF65 10TH-1203XES - Ordenador portátil de 15.6" FHD  In
 
 🔎:
 
-- Disco de 1 TB NVMe PCIe Gen3x4 SSD
-- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
-- Pantalla de 15.6" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel
 - Tarjeta grafica NVIDIA Quadro P620, 4 GB GDDR5
+- Pantalla de 15.6" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel
+- Disco de 1 TB NVMe PCIe Gen3x4 SSD
 - Sin sistema operativo
 - Memoria RAM de 16 GB (8 GB x 2), 3200 MHz, DDR IV
+- Procesador Intel Core i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BJQM67M/?tag=tolees-21)
