@@ -29,9 +29,9 @@ Ahora mismo tienes [Microsoft Office Hogar y Empresas 2019 Todas las aplicacione
 🔎:
 
 - Almacena archivos en la nube con OneDrive
-- Soporte de Microsoft incluido durante 60 días sin costo adicional
-- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
 - Para 1 PC
 - Crea y comparte documentos online
+- Soporte de Microsoft incluido durante 60 días sin costo adicional
+- Versiones 2019 clásicas de Word, Excel, PowerPoint, OneNote, Outlook Empresarial
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086TG8YK2/?tag=tolees-21)
