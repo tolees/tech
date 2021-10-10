@@ -28,11 +28,11 @@ Ahora mismo tienes [Motorola Moto g30  Pantalla de 6.5" 90Hz  Qualcomm Snapdrago
 
 🔎:
 
+- Sistema de cuatro cámaras de 64 MP; captura fotos de alta resolución más nítidas y brillantes, impresionantes fotos gran angular, primeros planos detallados, retratos preciosos y mucho más
 - Pantalla de 6,5" 90 Hz; disfruta de una velocidad rápida de actualización de la pantalla, para mejor experiencia en juegos, vídeos y deslizar con mucho menos lag
-- 128 GB de almacenamiento interno; nunca vuelvas a preocuparte por el almacenamiento con toneladas de almacenamiento para fotos, películas, música y más: expandible hasta 512 GB
-- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0
 - Carga TurboPower y batería que dura dos días; recargarás rápidamente y obtendrás hasta 48 horas de batería con una batería de 5000 mAh
 - Rendimiento increíblemente rápido; dale a tus fotos, juegos y más un gran impulso con el procesador Qualcomm Snapdragon 662 de ocho núcleos
-- Sistema de cuatro cámaras de 64 MP; captura fotos de alta resolución más nítidas y brillantes, impresionantes fotos gran angular, primeros planos detallados, retratos preciosos y mucho más
+- 128 GB de almacenamiento interno; nunca vuelvas a preocuparte por el almacenamiento con toneladas de almacenamiento para fotos, películas, música y más: expandible hasta 512 GB
+- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 10.0
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096KVSC2X/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [T nB - T’NB Ratón Óptico Inalámbrico Blanco - Ultra Com
 
 🔎:
 
-- Tecnología óptica de detección de movimientos con una sensibilidad de 1000 dpis
-- Cursor preciso y sensible en casi cualquier tipo de superficie sin necesidad de alfombrilla
-- Instalación muy sencilla, simplemente conecta el receptor por radio frecuencia al puerto usb y detecta automáticamente el periférico
 - Este producto tiene una garantía de 2 años
+- Cursor preciso y sensible en casi cualquier tipo de superficie sin necesidad de alfombrilla
 - Ratón inalámbrico compacto, diseñado específicamente para ordenadores portátiles pero compatible con cualquier tipo de dispositivo
+- Tecnología óptica de detección de movimientos con una sensibilidad de 1000 dpis
 - Fácil de transportar gracias a su pequeño tamaño; además cuenta con un micro receptor usb que sobresale ligeramente del ordenador portátil, cabe en todas las fundas
+- Instalación muy sencilla, simplemente conecta el receptor por radio frecuencia al puerto usb y detecta automáticamente el periférico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005S22GDO/?tag=tolees-21)
