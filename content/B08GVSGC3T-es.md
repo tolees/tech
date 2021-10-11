@@ -28,11 +28,11 @@ En este momento está [Urban Armor Gear U by UAG [U] Anchor Funda Protectora App
 
 🔎:
 
-- Entrega: incluida en la entrega urban armor gear (uag) [u] funda "anchor" para el Apple iPhone 12/iPhone 12 pro (6.1" pulgadas) en el color gris
-- Protección y fuerza: la fina funda del iPhone ofrece la mejor protección contra caídas, golpes o arañazos (a prueba de caídas hasta una altura de 2,4 metros) e incluso soporta la prueba de caída según el estándar militar (mil std 810g 516.6)
-- Mira y siente: la delgada y robusta del Apple iPhone 12/iPhone 12 pro funda "anchor" de la serie [u] de urban armor gear no es muy voluminosa y conserva el noble diseño del iPhone lo mejor posible - sin embargo el smartphone está protegido por el marco blando y la parte trasera dura
-- Utilidad: la funda protectora fue diseñada para ajustarse a las dimensiones exactas del nuevo iPhone 12/iPhone 12 pro (6,1" pulgadas) - los recortes para la cámara y los puertos así como las cubiertas de los botones ampliadas que son fáciles de alcanzar aseguran un fácil manejo y una completa funcionalidad
-- Tamaño de pantalla: 6.1 inches
 - Carga inalámbrica Apple pay: a pesar de su excelente protección, el diseño delgado de la fina cubierta le permite cargar su nuevo iPhone de forma inalámbrica como de costumbre, usar un cargador magsafe o pagar sin contacto a través de Apple pay sin quitar el parachoques
+- Entrega: incluida en la entrega urban armor gear (uag) [u] funda "anchor" para el Apple iPhone 12/iPhone 12 pro (6.1" pulgadas) en el color gris
+- Mira y siente: la delgada y robusta del Apple iPhone 12/iPhone 12 pro funda "anchor" de la serie [u] de urban armor gear no es muy voluminosa y conserva el noble diseño del iPhone lo mejor posible - sin embargo el smartphone está protegido por el marco blando y la parte trasera dura
+- Tamaño de pantalla: 6.1 inches
+- Protección y fuerza: la fina funda del iPhone ofrece la mejor protección contra caídas, golpes o arañazos (a prueba de caídas hasta una altura de 2,4 metros) e incluso soporta la prueba de caída según el estándar militar (mil std 810g 516.6)
+- Utilidad: la funda protectora fue diseñada para ajustarse a las dimensiones exactas del nuevo iPhone 12/iPhone 12 pro (6,1" pulgadas) - los recortes para la cámara y los puertos así como las cubiertas de los botones ampliadas que son fáciles de alcanzar aseguran un fácil manejo y una completa funcionalidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GVSGC3T/?tag=tolees-21)

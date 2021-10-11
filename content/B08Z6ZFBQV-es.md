@@ -28,9 +28,9 @@ Está [Xiaomi Poco X3 Pro - Smartphone 256GB  8GB RAM  Dual Sim  Frost Blue](htt
 
 ℹ️:
 
-- Diseno funcional
-- Smartphone OnePlus
 - Alta calidad
 - Ranuras de memoria disponibles: 1; Tamaño de pantalla: 6.67 inches; Sistema operativo: Android 11; Tipo de pantalla: LCD; Tipo de conector: USB tipo C
+- Diseno funcional
+- Smartphone OnePlus
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Z6ZFBQV/?tag=tolees-21)
