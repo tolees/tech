@@ -28,10 +28,10 @@ En este momento está [FINTIE SlimShell Funda para Kindle Paperwhite  10.ª gene
 
 🔎:
 
-- Hecho de cuero sintético duradero con interior suave para evitar arañazos.
-- Súper delgada y ligera. Proteja su dispositivo sin agregar volumen o peso innecesarios.
-- Disponible en una variedad de colores brillantes y divertidos.
-- Despierte o ponga su dispositivo para dormir abriendo o cerrando la funda. El cierre magnético asegura que la funda esté bien cerrada, asegura su dispositivo sin correas que cubran el frente.
 - Diseñado exclusivamente para Amazon Nuevo Kindle Paperwhite 10ª generación, versión 2018. (No se ajusta a todas las generaciones de Paperwhite anteriores a 2018, Kindle 2019 o Kindle Touch) NOTA:La funda no es resistente al agua.
+- Despierte o ponga su dispositivo para dormir abriendo o cerrando la funda. El cierre magnético asegura que la funda esté bien cerrada, asegura su dispositivo sin correas que cubran el frente.
+- Hecho de cuero sintético duradero con interior suave para evitar arañazos.
+- Disponible en una variedad de colores brillantes y divertidos.
+- Súper delgada y ligera. Proteja su dispositivo sin agregar volumen o peso innecesarios.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYVJY3Q/?tag=tolees-21)
