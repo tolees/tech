@@ -28,10 +28,10 @@ Ahora mismo tienes [Hori - Tactical Assault Commander Four Type K2  PS4  PS3  PC
 
 🔎:
 
-- Compatible con PS4/PS3/PC
-- Toma de auriculares
-- Licencia oficial de Sony
-- Ratón óptico de 3.200 dpi con botones mecánicos programables
 - Teclado totalmente programable con retroiluminación LED
+- Ratón óptico de 3.200 dpi con botones mecánicos programables
+- Toma de auriculares
+- Compatible con PS4/PS3/PC
+- Licencia oficial de Sony
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMSRYSB/?tag=tolees-21)
