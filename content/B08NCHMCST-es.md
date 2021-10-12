@@ -28,10 +28,10 @@ En este momento está [MSI Summit E15 A11SCS-078ES - Ordenador portátil de 15.6
 
 🔎:
 
-- Disco SSD de 1 TB
 - Sistema operativo Windows10 Pro
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti MAX Q, GDDR5 4 GB
 - Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.80 GHz)
+- Disco SSD de 1 TB
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti MAX Q, GDDR5 4 GB
 - Memoria RAM DDR IV 16 GB*2 (3200 MHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCHMCST/?tag=tolees-21)
