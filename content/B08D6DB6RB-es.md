@@ -28,11 +28,11 @@ Está [HP Pavilion Gaming 16-a0024ns - Ordenador portátil de 16.1" FullHD  Inte
 
 ℹ️:
 
-- Tarjeta grafica NVIDIA GeForce GTX 1650 Ti (GDDR6 de 4 GB dedicada); Con arquitectura GPU NVIDIA Turing
-- Memoria RAM de 8 GB (2 x 4 GB); Velocidades de transferencia de hasta 2933 MT/s
-- Pantalla de FHD, 16,1" (40,9 cm) en diagonal, IPS, antirreflectante, microborde, retroiluminación WLED, 250 nits, 45 % NTSC (1920 x 1080)
-- Procesador Intel Core i7-10750H (frecuencia base de 2.6 GHz, hasta 5.0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
-- Sin sistema operativo
 - Disco SSD de 512 GB PCIe NVMe M.2
+- Procesador Intel Core i7-10750H (frecuencia base de 2.6 GHz, hasta 5.0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
+- Tarjeta grafica NVIDIA GeForce GTX 1650 Ti (GDDR6 de 4 GB dedicada); Con arquitectura GPU NVIDIA Turing
+- Pantalla de FHD, 16,1" (40,9 cm) en diagonal, IPS, antirreflectante, microborde, retroiluminación WLED, 250 nits, 45 % NTSC (1920 x 1080)
+- Memoria RAM de 8 GB (2 x 4 GB); Velocidades de transferencia de hasta 2933 MT/s
+- Sin sistema operativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D6DB6RB/?tag=tolees-21)
