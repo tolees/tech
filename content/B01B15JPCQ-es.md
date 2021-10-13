@@ -28,10 +28,10 @@ Tienes [Soporte para teclado RockJam Xfinity preensamblado  doble arriostrado y 
 
 ℹ️:
 
-- El mecanismo de liberación rápida de este soporte de piano digital permite al usuario ajustar la altura, de 10 a 98 cm; en comparación con la mayoría de los otros soportes que solo permiten cinco posiciones establecidas
-- La construcción de marco tipo doble x del soporte de piano eléctrico de alta resistencia garantiza una estabilidad adicional para teclados electrónicos digitales pesados y livianos
-- Las tapas de goma antideslizantes agregan estabilidad adicional a este soporte de piano digital
 - No se necesita ensamblaje; las partes metálicas de este soporte para teclado están soldadas entre sí y no hay tornillos que perder
 - Las correas de soporte de alta resistencia unidas al soporte del teclado aseguran el teclado del movimiento que puede haber durante la interpretación
+- Las tapas de goma antideslizantes agregan estabilidad adicional a este soporte de piano digital
+- La construcción de marco tipo doble x del soporte de piano eléctrico de alta resistencia garantiza una estabilidad adicional para teclados electrónicos digitales pesados y livianos
+- El mecanismo de liberación rápida de este soporte de piano digital permite al usuario ajustar la altura, de 10 a 98 cm; en comparación con la mayoría de los otros soportes que solo permiten cinco posiciones establecidas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B15JPCQ/?tag=tolees-21)
