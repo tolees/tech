@@ -28,11 +28,11 @@ En este momento está [ASUS Chromebook Flip C433TA-AJ0222 - Portátil 14" Full H
 
 🔎:
 
-- Procesador Intel Core m3-8100Y (2C/DualCore 1.1 / 3.4GHz, 4MB)
-- Memoria RAM de 8GB SO-DIMM LPDDR3
-- Almacenamiento de 128GB eMMC
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
-- Tarjeta gráfica integrada Intel UHD Graphics 615
+- Memoria RAM de 8GB SO-DIMM LPDDR3
 - Sistema Operativo: Chrome OS
+- Procesador Intel Core m3-8100Y (2C/DualCore 1.1 / 3.4GHz, 4MB)
+- Almacenamiento de 128GB eMMC
+- Tarjeta gráfica integrada Intel UHD Graphics 615
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XVRCJ3L/?tag=tolees-21)
