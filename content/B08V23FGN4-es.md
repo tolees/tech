@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lenovo Yoga Slim 7 - Ordenador Portátil  al 15.05 % de rebaja'
-date: 2021-09-27 05:45:40
+title: 'Lenovo Yoga Slim 7 - Ordenador Portátil  al 15.06 % de rebaja'
+date: 2021-10-16 04:34:25
 image: 'https://m.media-amazon.com/images/I/41+vPRhJBML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,32 @@ author: 'tole.es'
 slug: 'B08V23FGN4-es Lenovo Yoga Slim 7 - Ordenador Portátil 14" 4K Intel Core...'
 sku: 'B08V23FGN4-es'
 tags: [ 'Informática','Portátiles','lenovo','ordenador','ram','teclado', ]
-actualPrice: 1444.15 EUR
+actualPrice: 1444.0 EUR
 currency: EUR
-price: 1444.15
+price: 1444.0
 comparePrice: 1699.99 EUR
 prodname: 'Lenovo Yoga Slim 7 - Ordenador Portátil 14" 4K  Intel Core i7-1165G7  16GB RAM  1TB SSD  Intel Iris Xe Graphics  Windows 10 Pro   Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21'
-descuento: '15.05'
-average: '1446.09666666667'
+descuento: '15.06'
+average: '1445.288'
 ---
 
-Tienes [Lenovo Yoga Slim 7 - Ordenador Portátil 14" 4K  Intel Core i7-1165G7  16GB RAM  1TB SSD  Intel Iris Xe Graphics  Windows 10 Pro   Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21) con precio final de  1444.15 EUR (original: 1699.99 EUR) (15.05 %  de rebaja) aqui!
+Tienes [Lenovo Yoga Slim 7 - Ordenador Portátil 14" 4K  Intel Core i7-1165G7  16GB RAM  1TB SSD  Intel Iris Xe Graphics  Windows 10 Pro   Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21) con precio final de  1444.0 EUR (original: 1699.99 EUR) (15.06 %  de rebaja) aqui!
 
 [![Lenovo Yoga Slim 7 - Ordenador Portátil ](https://m.media-amazon.com/images/I/41+vPRhJBML._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21)
 
 🔎:
 
-- Procesador Intel Core i7-1165G7 (4C/8T, 4.7GHz, 12 MB)
-- Memoria RAM de 16GB
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Tarjeta gráfica Integrada Intel Iris Xe Graphics
 - Sistema operativo: Windows 10 Pro
-- Tarjeta gráfica Integrada Intel UHD Graphics
-- Pantalla de 14" 4K, 500nits
+- Procesador Intel Core i7-1165G7 (4C/8T, 4.7GHz, 12 MB)
+- Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
-- Almacenamiento de 256GB SSD M.2 2242 NVMe
+- Memoria RAM de 16GB DDR4-3200
+- Pantalla de 14" 4K, 500nits, glossy, HDR 400, 90% DCI-P3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21)
