@@ -28,10 +28,10 @@ Está [Cámara de Vigilancia WiFi Interior  Dome Cámara 360° con Seguimiento A
 
 ℹ️:
 
-- Estándar de protección de datos personales de nivel bancario: entre los primeros fabricantes del sector para cumplir con el gdpr, nuestra empresa ha implementado servidores locales en europa y ha adoptado una tecnología avanzada de cifrado tls para proteger sus datos personales; de este modo, solo podrá acceder a los datos almacenados en la tarjeta microsd, en la nube imou o en el grabador de red
 - Modo de privacidad fácil de activar: se activa con la función de privacidad en la vista previa de la cámara para ocultar la lente cuando se necesite.
+- Detección automática de movimiento: Almacenar Pro es capaz de rastrear automáticamente todo tipo de actividades, grabar en tiempo real los vídeos y enviar notificaciones instantáneas a tu smartphone en caso de detección de movimiento.
+- Estándar de protección de datos personales de nivel bancario: entre los primeros fabricantes del sector para cumplir con el gdpr, nuestra empresa ha implementado servidores locales en europa y ha adoptado una tecnología avanzada de cifrado tls para proteger sus datos personales; de este modo, solo podrá acceder a los datos almacenados en la tarjeta microsd, en la nube imou o en el grabador de red
 - Asistencia y servicio: imou, una marca reconocida a nivel mundial en el sector de la seguridad inteligente, es una empresa subsidiaria de dahua technology centrada en el cliente que se ha ganado el segundo lugar en la clasificación "Seguridad 50" de ABS en 2018; estamos orgullosos de ofrecer una asistencia técnica local de 24 meses durante toda la vida útil del producto.
 - No te pierdas ningún detalle: los componentes ópticos de cristal con resolución de 1080p Full HD proporcionan imágenes y vídeos extremadamente nítidos, incluso en la oscuridad, gracias a la función de visión nocturna "clara como el día", que resulta aún más eficaz con la iluminación IR y un algoritmo de procesamiento de imágenes de calidad profesional.
-- Detección automática de movimiento: Almacenar Pro es capaz de rastrear automáticamente todo tipo de actividades, grabar en tiempo real los vídeos y enviar notificaciones instantáneas a tu smartphone en caso de detección de movimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G851ZTK/?tag=tolees-21)
