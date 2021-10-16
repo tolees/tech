@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.67 % en TP-Link UB400 Nano - Adaptador Bluetooth'
-date: 2021-10-15 07:13:41
+date: 2021-10-16 13:32:03
 image: 'https://m.media-amazon.com/images/I/41-yq-gC6uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07NQ5YGDW/?tag=tolees-21'
 descuento: '31.67'
-average: '10.5469242658428'
+average: '10.5460648148153'
 ---
 
 Tienes [TP-Link UB400 Nano - Adaptador Bluetooth 4.0 USB Dongle para ordenador  portatil  auriculares  altavoz  teclado  compatible con Windows 10  8  8.1 7  XP  Vista](https://www.amazon.es/dp/B07NQ5YGDW/?tag=tolees-21) con un 31.67 % de descuento con precio de oferta de 9.99 EUR (original: 14.62 EUR) en el siguiente enlace!
