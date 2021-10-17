@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda Nova MW3 Mesh - AC1200 Router Sist al 30.56 % de descuento'
-date: 2021-10-16 13:21:38
+date: 2021-10-17 16:31:52
 image: 'https://m.media-amazon.com/images/I/312MEPua90L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B07CY9XT6P/?tag=tolees-21'
 descuento: '30.56'
-average: '52.6006896551724'
+average: '52.5710227272727'
 ---
 
 Está [Tenda Nova MW3 Mesh - AC1200 Router Sistema WiFi de Red en Malla  Dual Banda  Seamless Roaming  Fast Ethernet  Control Parental   pack 2](https://www.amazon.es/dp/B07CY9XT6P/?tag=tolees-21) con 30.56 de descuento por 49.99 EUR (original: 71.99 EUR) en el siguiente enlace!
