@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roccat Kone AIMO - Ratón para videojuego al 26.52 % de descuento'
-date: 2021-10-14 21:32:48
+date: 2021-10-17 20:10:57
 image: 'https://m.media-amazon.com/images/I/311lGnf4aKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Roccat'
 buyurl: 'https://www.amazon.es/dp/B07YCG26KZ/?tag=tolees-21'
 descuento: '26.52'
-average: '83.8822857142857'
+average: '83.2988888888889'
 ---
 
 Está [Roccat Kone AIMO - Ratón para videojuegos  alta precisión  sensor óptico Owl-Eye de 100 a 12.000 DPI  weiß remastered ](https://www.amazon.es/dp/B07YCG26KZ/?tag=tolees-21) con 26.52 de descuento por 62.88 EUR (original: 85.57 EUR) en el siguiente enlace!
