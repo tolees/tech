@@ -28,10 +28,10 @@ Está [LG gram 17Z90P Windows 10 Home  Ultraligero de 43.2 cm  17"  WQXGA 16:10 
 
 ℹ️:
 
-- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
 - Memoria RAM ultrarrápida LPDDR4x de 32GB integrada en placa y disco duro SSD de 1TB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
-- Ultraligero, con tan solo 1.3 Kg de peso y batería de hasta 15 horas de autonomía convierten al LG gram en el más portátil de los portátiles
 - Conectividad universal en tan solo 17.8 mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0)
 - Nueva pantalla de 43.2 cm (17") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3
+- Ultraligero, con tan solo 1.3 Kg de peso y batería de hasta 15 horas de autonomía convierten al LG gram en el más portátil de los portátiles
+- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21)
