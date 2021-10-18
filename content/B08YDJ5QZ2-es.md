@@ -28,11 +28,11 @@ Ahora mismo tienes [Corsair K55 RGB PRO XT Teclado para Juegos con Teclas de Mem
 
 🔎:
 
-- El potente software CORSAIR iCUE: Ofrece un potente control de la iluminación RGB dinámica, con una sofisticada programación de macros, la posibilidad de sincronizar toda la iluminación del sistema
 - Seis teclas de macro dedicadas: Active funciones, atajos o pulsaciones de teclas de una sola vez con sus seis teclas de macro exclusivas, de fácil configuración mediante el software CORSAIR iCUE
+- Retroiluminación RGB dinámica en cada tecla: Ilumine su escritorio con diez efectos de iluminación integrados o programe sus propios efectos de vibrante iluminación con el software CORSAIR iCUE
+- Diseño resistente al polvo y a los derrames: La protección IP42 contra el polvo y los derrames ayuda a evitar accidentes para que nunca tenga que interrumpir el juego
+- El potente software CORSAIR iCUE: Ofrece un potente control de la iluminación RGB dinámica, con una sofisticada programación de macros, la posibilidad de sincronizar toda la iluminación del sistema
 - Teclas específicas de volumen y reproducción multimedia: Práctico control de reproducción multimedia y ajuste de volumen de precisión sobre la marcha, sin tener que interrumpir el juego
 - Reposamuñecas extraíble: El reposamuñecas de goma suave reduce la presión en las muñecas, de modo que pueda jugar cómodamente durante más tiempo
-- Diseño resistente al polvo y a los derrames: La protección IP42 contra el polvo y los derrames ayuda a evitar accidentes para que nunca tenga que interrumpir el juego
-- Retroiluminación RGB dinámica en cada tecla: Ilumine su escritorio con diez efectos de iluminación integrados o programe sus propios efectos de vibrante iluminación con el software CORSAIR iCUE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08YDJ5QZ2/?tag=tolees-21)
