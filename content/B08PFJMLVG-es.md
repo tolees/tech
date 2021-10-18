@@ -28,10 +28,10 @@ En este momento está [HP Chromebook 14a-na0006ns - Ordenador portátil de 14" F
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD 600 y Sistema Operativo Chrome OS
+- Almacenamiento de disco duro eMMC de 64 GB y memoria RAM LPDDR4-2400 MHz de 4 GB
+- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
 - Pantalla FHD de 14" (35,6 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080). Con cámara HP Wide Vision 720p HD y audio de B&O
 - Conexiones: 2 SuperSpeed USB Type-C con velocidad de señal de 5 Gbps (alimentación por USB, DisplayPort 1.2); 1 SuperSpeed USB de tipo A con velocidad de señal de 5 Gbps; 1 combo de auriculares/micrófono; 1 lector de tarjetas multimedia microSD
-- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
-- Almacenamiento de disco duro eMMC de 64 GB y memoria RAM LPDDR4-2400 MHz de 4 GB
+- Tarjeta gráfica integrada Intel UHD 600 y Sistema Operativo Chrome OS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJMLVG/?tag=tolees-21)

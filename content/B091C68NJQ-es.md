@@ -28,10 +28,10 @@ En este momento está [Horevo - Plafón de Techo 24W Lámpara de Techo Musical c
 
 🔎:
 
-- 【CONTROL REMOTO / INTERRUPTOR DE PARED】 Esta lámpara LED de ahorro de energía se puede controlar por control remoto, para que pueda ajustar el brillo, la temperatura del color y las luces de colores RGB a voluntad. Más conveniente y fácil de operar.
 - 【ALTAVOZ BLUETOOTH INTEGRADO】 Altavoz Bluetooth integrado. Empareje el Bluetooth con su teléfono inteligente o tabletas, luego podrá disfrutar de música e historias variadas con su familia e hijos.
-- 【MÚLTIPLES MODOS】 El modo de ritmo / modo nocturno se puede elegir a través del control remoto, el cambio de color RGB y la iluminación regulable 3000K-6500K, que se adapta a todo tipo de escenarios, como yoga, fiesta, baile y relajación.
+- 【CONTROL REMOTO / INTERRUPTOR DE PARED】 Esta lámpara LED de ahorro de energía se puede controlar por control remoto, para que pueda ajustar el brillo, la temperatura del color y las luces de colores RGB a voluntad. Más conveniente y fácil de operar.
 - 【FUNCIÓN DE MEMORIA】 Al configurar el brillo de la luz amarilla o blanca que desee, la lámpara lo memorizará la próxima vez, lo cual es muy conveniente para mantener el brillo o la temperatura de color que desee.
 - 【SEGURO Y DURADERO】 El chasis de la lámpara de techo está hecho de hierro, que no es fácil de ser dañado y roto en comparación con el chasis de plástico. Además, la pantalla está hecha de plástico irrompible y no es fácil de dañar por las fuerzas externas, por lo que es muy seguro y duradero.
+- 【MÚLTIPLES MODOS】 El modo de ritmo / modo nocturno se puede elegir a través del control remoto, el cambio de color RGB y la iluminación regulable 3000K-6500K, que se adapta a todo tipo de escenarios, como yoga, fiesta, baile y relajación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B091C68NJQ/?tag=tolees-21)
