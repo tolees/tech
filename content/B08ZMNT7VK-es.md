@@ -28,10 +28,10 @@ Ahora mismo tienes [BoYata soporte para monitor de escritorio de metal de altura
 
 🔎:
 
-- 【Gran capacidad de peso】El elevador de monitor está hecho de metal, es fuerte y duradero, con una capacidad de peso de 33.06 libras, y no es fácil de doblar o abollar. La almohadilla antideslizante en la parte inferior ayuda a evitar que el soporte se deslice. Nota: Dado que el pilar está en el lado más trasero, es más estable colocar el monitor en línea recta entre el pilar del soporte y el pilar del monitor.
-- 【Ahorro de espacio】Espacio suficiente entre las placas de metal y para reducir la obstrucción, de modo que los elementos de oficina, como los portátiles y los teclados, se puedan colocar debajo del soporte para obtener más espacio de almacenamiento.
-- 【Altura ajustable】A diferencia del soporte tradicional, nuestro soporte para monitor tiene un botón de ajuste que puede ajustar la altura para adaptarse a su comodidad y preferencia.
 - 【Diseño ergonómico】La altura adecuada puede mantener los ojos y el monitor en el nivel c, corregir para mejorar la comodidad de visualización de la pantalla y ayudar a aliviar el dolor de hombro, el dolor de cuello y el dolor de espalda.
+- 【Gran capacidad de peso】El elevador de monitor está hecho de metal, es fuerte y duradero, con una capacidad de peso de 33.06 libras, y no es fácil de doblar o abollar. La almohadilla antideslizante en la parte inferior ayuda a evitar que el soporte se deslice. Nota: Dado que el pilar está en el lado más trasero, es más estable colocar el monitor en línea recta entre el pilar del soporte y el pilar del monitor.
+- 【Altura ajustable】A diferencia del soporte tradicional, nuestro soporte para monitor tiene un botón de ajuste que puede ajustar la altura para adaptarse a su comodidad y preferencia.
+- 【Ahorro de espacio】Espacio suficiente entre las placas de metal y para reducir la obstrucción, de modo que los elementos de oficina, como los portátiles y los teclados, se puedan colocar debajo del soporte para obtener más espacio de almacenamiento.
 - 【Montaje fácil】El soporte de la computadora está compuesto por 2 placas base y una barra de soporte. Cada placa tiene un orificio fijo para un fácil montaje. Se puede completar con solo un destornillador (se incluye destornillador).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZMNT7VK/?tag=tolees-21)
