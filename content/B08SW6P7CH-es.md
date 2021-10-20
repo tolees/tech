@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LC49G93TSSRXEN Odyssey G9 - Moni al 15.28 % de descuento'
-date: 2021-10-18 11:39:25
+date: 2021-10-20 10:46:52
 image: 'https://m.media-amazon.com/images/I/41tH3ok3X9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08SW6P7CH/?tag=tolees-21'
 descuento: '15.28'
-average: '1269.84375'
+average: '1269.86'
 ---
 
 Ahora mismo tienes [Samsung LC49G93TSSRXEN Odyssey G9 - Monitor curvo de 49   DQHD  5120 x 1440p  1 ms  240 Hz  GSync  FreeSync Premium Pro  LED  HDR1000  32:9  420 cd/m²  1000R  HDMI  PBP  PIP  Blanco](https://www.amazon.es/dp/B08SW6P7CH/?tag=tolees-21) a 1269.99 EUR (original: 1499.0 EUR) (15.28 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Samsung LC49G93TSSRXEN Odyssey G9 - Monitor curvo de 49   DQ
 🔎:
 
 - Encuentra la posición adecuada para la victoria. Gira, inclina y ajusta la altura hasta que encuentres la configuración óptimo
-- Tiempo de respuesta de 1ms (GTG) y 240Hz de tasa de refresco para una jugabilidad fluida
 - HDR 1000 que soporta un pico de luminosidad de 1.000 nits muestra el mínimo detalle incluso en las escenas oscuras o luminosas
-- Monitor curvo gaming de 49" con resolución DQHD (5120 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED y a un panel de 10bits, los colores son realistas
 - Freesync Premium Pro y Gsync compatible, evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual
+- Monitor curvo gaming de 49" con resolución DQHD (5120 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED y a un panel de 10bits, los colores son realistas
+- Tiempo de respuesta de 1ms (GTG) y 240Hz de tasa de refresco para una jugabilidad fluida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SW6P7CH/?tag=tolees-21)
