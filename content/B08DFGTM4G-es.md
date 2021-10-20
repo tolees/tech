@@ -28,10 +28,10 @@ Tienes [BMAX X15 Ordenador portátil 15.6 Pulgadas  Windows 10  2.6GHz Quad Core
 
 🔎:
 
-- &#9989Procesador In-tel N4120(frecuencia base de 1,1 GHz, hasta 2,6 GHz con Tecnología In-tel Turbo Boost, 4 núcleos, 4 hilos).
-- &#9989 Memoria LPDDR4 de 8GB, Disco duro SSD de 256GB SATA M.2,la ranura de expansión M.2 SSD.
-- &#9989 Experiencia Posventa sin Preocupaciones - Disfrutas de una garantía internacional de 12 meses. Este producto se diseña para los sistemas líderes del mundo, y puedes tener la plena confianza en nuestra marca.
 - &#9989Pantalla de 15.6 pulgadas IPS FullHD, 1920x1080 pixels, Pantalla grande, alta resolución hace que los ojos sean más cómodos.
+- &#9989 Memoria LPDDR4 de 8GB, Disco duro SSD de 256GB SATA M.2,la ranura de expansión M.2 SSD.
+- &#9989Procesador In-tel N4120(frecuencia base de 1,1 GHz, hasta 2,6 GHz con Tecnología In-tel Turbo Boost, 4 núcleos, 4 hilos).
+- &#9989 Experiencia Posventa sin Preocupaciones - Disfrutas de una garantía internacional de 12 meses. Este producto se diseña para los sistemas líderes del mundo, y puedes tener la plena confianza en nuestra marca.
 - &#9989 Teclado Cómodo - El teclado de tamaño completo de gran espacio y el panel táctil de área grande proporcionan un control más preciso, para que tengas una buena experiencia de trabajo y te ayude a trabajar de manera más eficiente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DFGTM4G/?tag=tolees-21)
