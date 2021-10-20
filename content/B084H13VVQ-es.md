@@ -28,15 +28,15 @@ En este momento está [Lenovo G34w-10 - Monitor Gaming Curvo 34" 2K QHD  VA  144
 
 🔎:
 
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Pantalla de 34" con resolución 2K QHD (3440x1440 pixeles), 350 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
-- Puertos HDMI y DP
-- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Ajuste de inclinación (-5° / 22°) y altura (130mm)
-- AMD FreeSync Premium
 - Relación de aspecto 21:9 y relación de contraste 3000:1
+- Ajuste de inclinación (-5° / 22°) y altura (130mm)
+- Pantalla de 34" con resolución 2K QHD (3440x1440 pixeles), 350 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
 - Soporte VESA para montar la pantalla en la pared
-- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
+- AMD FreeSync Premium
 - Cable DP incluido en la caja
+- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
+- Puertos HDMI y DP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21)
