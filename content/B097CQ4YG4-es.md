@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Smartphone Galaxy M32 con Pantal al 24.32 % de rebaja'
-date: 2021-10-03 07:15:00
+title: 'Samsung Smartphone Galaxy M32 con Pantal al 18.24 % de rebaja'
+date: 2021-10-20 09:20:56
 image: 'https://m.media-amazon.com/images/I/31SY9CbvCDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B097CQ4YG4-es Samsung Smartphone Galaxy M32 con Pantalla Infinity-U FHD...'
 sku: 'B097CQ4YG4-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','galaxy','ram','samsung','smartphone', ]
-actualPrice: 249.0 EUR
+actualPrice: 269.0 EUR
 currency: EUR
-price: 249.0
+price: 269.0
 comparePrice: 329.0 EUR
 prodname: 'Samsung Smartphone Galaxy M32 con Pantalla Infinity-U FHD sAMOLED de 6 4 Pulgadas  6 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 5000 mAh y 25W Carga rápida Azul  ES Versión '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B097CQ4YG4/?tag=tolees-21'
-descuento: '24.32'
-average: '263.285714285715'
+descuento: '18.24'
+average: '274.555555555555'
 ---
 
-Tienes [Samsung Smartphone Galaxy M32 con Pantalla Infinity-U FHD sAMOLED de 6 4 Pulgadas  6 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 5000 mAh y 25W Carga rápida Azul  ES Versión ](https://www.amazon.es/dp/B097CQ4YG4/?tag=tolees-21) con precio final de  249.0 EUR (original: 329.0 EUR) (24.32 %  de rebaja) aqui!
+Tienes [Samsung Smartphone Galaxy M32 con Pantalla Infinity-U FHD sAMOLED de 6 4 Pulgadas  6 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 5000 mAh y 25W Carga rápida Azul  ES Versión ](https://www.amazon.es/dp/B097CQ4YG4/?tag=tolees-21) con precio final de  269.0 EUR (original: 329.0 EUR) (18.24 %  de rebaja) aqui!
 
 [![Samsung Smartphone Galaxy M32 con Pantal](https://m.media-amazon.com/images/I/31SY9CbvCDS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B097CQ4YG4/?tag=tolees-21)
 
