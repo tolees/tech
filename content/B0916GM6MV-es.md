@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LG gram 17Z90P Windows 10 Home  Ultralig al 15.35 % de descuento'
-date: 2021-10-17 04:51:15
+title: 'LG gram 17Z90P Windows 10 Home  Ultralig al 20.48 % de descuento'
+date: 2021-10-23 13:16:41
 image: 'https://m.media-amazon.com/images/I/41Y6+Uh25wS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0916GM6MV-es LG gram 17Z90P Windows 10 Home Ultraligero de 43.2 cm 17"...'
 sku: 'B0916GM6MV-es'
 tags: [ 'Informática','Portátiles','ips','lg','ram','teclado', ]
-actualPrice: 1649.9 EUR
+actualPrice: 1549.9 EUR
 currency: EUR
-price: 1649.9
+price: 1549.9
 comparePrice: 1949.0 EUR
 prodname: 'LG gram 17Z90P Windows 10 Home  Ultraligero de 43.2 cm  17"  WQXGA 16:10 IPS  1.3 Kg  autonomía 15h  Intel EvoTM i7 11ª Gen.  Iris Xe  32GB RAM  1TB SSD NVMe   Teclado Español  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21'
-descuento: '15.35'
-average: '1600.35'
+descuento: '20.48'
+average: '1594.04375'
 ---
 
-Está [LG gram 17Z90P Windows 10 Home  Ultraligero de 43.2 cm  17"  WQXGA 16:10 IPS  1.3 Kg  autonomía 15h  Intel EvoTM i7 11ª Gen.  Iris Xe  32GB RAM  1TB SSD NVMe   Teclado Español  Negro](https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21) con 15.35 de descuento por 1649.9 EUR (original: 1949.0 EUR) en el siguiente enlace!
+Está [LG gram 17Z90P Windows 10 Home  Ultraligero de 43.2 cm  17"  WQXGA 16:10 IPS  1.3 Kg  autonomía 15h  Intel EvoTM i7 11ª Gen.  Iris Xe  32GB RAM  1TB SSD NVMe   Teclado Español  Negro](https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21) con 20.48 de descuento por 1549.9 EUR (original: 1949.0 EUR) en el siguiente enlace!
 
 [![LG gram 17Z90P Windows 10 Home  Ultralig](https://m.media-amazon.com/images/I/41Y6+Uh25wS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21)
 
@@ -30,8 +30,8 @@ Está [LG gram 17Z90P Windows 10 Home  Ultraligero de 43.2 cm  17"  WQXGA 16:10 
 
 - Memoria RAM ultrarrápida LPDDR4x de 32GB integrada en placa y disco duro SSD de 1TB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
 - Conectividad universal en tan solo 17.8 mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0)
-- Nueva pantalla de 43.2 cm (17") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3
-- Ultraligero, con tan solo 1.3 Kg de peso y batería de hasta 15 horas de autonomía convierten al LG gram en el más portátil de los portátiles
 - Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
+- Ultraligero, con tan solo 1.3 Kg de peso y batería de hasta 15 horas de autonomía convierten al LG gram en el más portátil de los portátiles
+- Nueva pantalla de 43.2 cm (17") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0916GM6MV/?tag=tolees-21)
