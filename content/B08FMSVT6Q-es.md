@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad T15 Gen 1 - Portátil 15" al 19.84 % de descuento'
-date: 2021-10-22 00:31:16
+date: 2021-10-26 04:38:03
 image: 'https://m.media-amazon.com/images/I/51hPSseesiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08FMSVT6Q/?tag=tolees-21'
 descuento: '19.84'
-average: '849.058333333333'
+average: '867.462857142857'
 ---
 
 Está [Lenovo ThinkPad T15 Gen 1 - Portátil 15" FullHD  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Pro   Color Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08FMSVT6Q/?tag=tolees-21) con 19.84 de descuento por 977.89 EUR (original: 1219.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Lenovo ThinkPad T15 Gen 1 - Portátil 15" FullHD  Intel Core i5-10210U  8
 
 ℹ️:
 
+- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
+- Memoria RAM de 8GB Soldered DDR4-2666
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejos
 - Tarjeta gráfica integrada Intel UHD Graphics
-- Memoria RAM de 8GB Soldered DDR4-2666
 - Almacenamiento de 256GB SSD M.2 2280 PCIe 3.0x4 NVMe Opal2
-- Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FMSVT6Q/?tag=tolees-21)
