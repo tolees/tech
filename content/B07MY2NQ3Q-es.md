@@ -28,8 +28,8 @@ En este momento está [ASUS VX279C 68 6 cm  27"  1920 x 1080 Pixeles Full HD Neg
 
 🔎:
 
-- Una unidad
 - ASUS VX279C 68,6 cm (27") 1920 x 1080 Pixeles Full HD Negro
+- Una unidad
 - Fácil de usar
 - Producto de alta calidad
 
