@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS - C436FA-E10053 al 25.85 % de descuento'
-date: 2021-10-23 06:00:51
+date: 2021-10-27 01:47:15
 image: 'https://m.media-amazon.com/images/I/41tUdoOlptL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08CCKX652/?tag=tolees-21'
 descuento: '25.85'
-average: '684.873333333333'
+average: '677.1875'
 ---
 
 Ahora mismo tienes [ASUS - C436FA-E10053](https://www.amazon.es/dp/B08CCKX652/?tag=tolees-21) a 654.13 EUR (original: 882.13 EUR) (25.85 %  de descuento) en el siguiente enlace!
