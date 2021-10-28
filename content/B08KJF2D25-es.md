@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en Consola PlayStation 5 Digital'
-date: 2021-10-15 09:25:37
+date: 2021-10-28 14:34:25
 image: 'https://m.media-amazon.com/images/I/31-YSg49-VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KJF2D25/?tag=tolees-21'
 descuento: '37.55'
-average: '649.0'
+average: '599.0'
 ---
 
 Tienes [Consola PlayStation 5 Digital](https://www.amazon.es/dp/B08KJF2D25/?tag=tolees-21) con un 37.55 % de descuento con precio de oferta de 499.0 EUR (original: 799.0 EUR) en el siguiente enlace!
