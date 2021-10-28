@@ -28,10 +28,10 @@ Ahora mismo tienes [Xiaomi Mi Smart Electric Folding Bike  e-bike  - Bicicleta e
 
 🔎:
 
-- Diseño ligero y plegable
 - Potente motor de 250W
-- Sensor de fuerza en la rueda trasera, más potencia por menos esfuerzo
-- Batería de gran capacidad. Hasta 45 km de recorrido
 - Ordenador de abordo: monitoriza en tiempo real tus datos de pedaleo, fuerza, velocidad, distancia y consumo de calorías
+- Batería de gran capacidad. Hasta 45 km de recorrido
+- Sensor de fuerza en la rueda trasera, más potencia por menos esfuerzo
+- Diseño ligero y plegable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PYTTMZ7/?tag=tolees-21)
