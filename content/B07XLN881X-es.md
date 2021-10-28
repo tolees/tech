@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Alienware AW3420DW - Pantalla para PC Ga al 18.24 % de descuento'
-date: 2021-10-25 08:06:49
+title: 'Alienware AW3420DW - Pantalla LCD para O al 18.24 % de descuento'
+date: 2021-10-28 11:35:08
 image: 'https://m.media-amazon.com/images/I/41P2wnjbPsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XLN881X-es Alienware AW3420DW - Pantalla para PC Gaming 34" Full HD...'
+slug: 'B07XLN881X-es Alienware AW3420DW - Pantalla LCD para Ordenador Gaming...'
 sku: 'B07XLN881X-es'
-tags: [ 'Informática','Monitores','alienware','full','hd','ips', ]
+tags: [ 'Informática','Monitores','alienware','full','hd','ordenador', ]
 actualPrice: 803.63 EUR
 currency: EUR
 price: 803.63
 comparePrice: 982.9 EUR
-prodname: 'Alienware AW3420DW - Pantalla para PC Gaming  34"  Full HD  3440 x 1440  IPS  LED  21: 9  120 Hz  2 ms  NVIDIA G'
+prodname: 'Alienware AW3420DW - Pantalla LCD para Ordenador Gaming  34"  Full HD  HD  HD  120 Hz  2 ms  NVIDIA G-Sync  Color Negro  Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Alienware'
 buyurl: 'https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21'
 descuento: '18.24'
-average: '1031.38705882353'
+average: '1018.73388888889'
 ---
 
-Está [Alienware AW3420DW - Pantalla para PC Gaming  34"  Full HD  3440 x 1440  IPS  LED  21: 9  120 Hz  2 ms  NVIDIA G](https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21) con 18.24 de descuento por 803.63 EUR (original: 982.9 EUR) en el siguiente enlace!
+Está [Alienware AW3420DW - Pantalla LCD para Ordenador Gaming  34"  Full HD  HD  HD  120 Hz  2 ms  NVIDIA G-Sync  Color Negro  Blanco](https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21) con 18.24 de descuento por 803.63 EUR (original: 982.9 EUR) en el siguiente enlace!
 
-[![Alienware AW3420DW - Pantalla para PC Ga](https://m.media-amazon.com/images/I/41P2wnjbPsL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21)
+[![Alienware AW3420DW - Pantalla LCD para O](https://m.media-amazon.com/images/I/41P2wnjbPsL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21)
 
 ℹ️:
 
-- Garantía de 3 años
-- Pantalla para juegos con colores completos ofrecidos por la tecnología IPS Nano Color (98% DCI-P3). Con resolución WQHD 1900R
-- Conectividad: Concentrador USB integrado, HDMI, DisplayPorts, salida de auriculares, puerto frontal USB tipo B, 4 puertos AV USB tipo A, salida de audio, salida de auriculares, corriente de entrada de alimentación
-- Relación de aspecto: 21:9, Máxima velocidad de actualización, 120 Hz, Tiempo de respuesta 2 ms
-- Pantalla PC Gaming 34 pulgadas (86,6 cm) 3440 x 1440 píxeles IPS WQHD LCD
+- Pantalla para ordenador de videojuegos de 34,1 pulgadas (86,6 cm), 3440 x 1440 píxeles, IPS, WQHD LCD, 2 ms
+- Garantía de 3 años del fabricante
+- Pantalla para videojuegos con colores completos de la tecnología IPS Nano Color (98% DCI-P3). Con una resolución WQHD 1900R.
+- Un auténtico tiempo de respuesta de 2 ms gris a gris y la tasa de actualización de 120 Hz permiten un juego rápido y reactivo sin ninguna rusa artificial.
+- Tamaño de la pantalla: 86,6 cm (34,1"), resolución de la pantalla: 3440 x 1440 píxeles, tipo HD: UltraWide Quad HD, tecnología de pantalla: LCD, tiempo de respuesta: 2 ms, formato de imagen: 21:9
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XLN881X/?tag=tolees-21)
