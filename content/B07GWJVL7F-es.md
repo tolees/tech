@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Tab S2 T719 20.31 cm – Ta al 20.00 % de descuento'
-date: 2021-10-29 14:25:39
+date: 2021-10-31 21:42:27
 image: 'https://m.media-amazon.com/images/I/41FdBN2wVvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
