@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HUAWEI MateBook 13 - Ordenador portátil  con un 30.03 % de descuento'
-date: 2021-10-20 14:03:56
+title: 'HUAWEI MateBook 13 - Ordenador portátil  con un 25.03 % de descuento'
+date: 2021-11-02 14:47:52
 image: 'https://m.media-amazon.com/images/I/41roIaYfDrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: 'tole.es'
 slug: 'B094H63DFF-es HUAWEI MateBook 13 - Ordenador portátil con pantalla de 13...'
 sku: 'B094H63DFF-es'
 tags: [ 'Informática','Portátiles','huawei','ordenador','ram','teclado', ]
-actualPrice: 699.0 EUR
+actualPrice: 749.0 EUR
 currency: EUR
-price: 699.0
+price: 749.0
 comparePrice: 999.0 EUR
 prodname: 'HUAWEI MateBook 13 - Ordenador portátil con pantalla de 13   2K  AMD Ryzen 7 3700U  16GB RAM  512GB SSD  Windows 10 Home   Color Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21'
-descuento: '30.03'
-average: '763.238095238096'
+descuento: '25.03'
+average: '758.739130434783'
 ---
 
-En este momento está [HUAWEI MateBook 13 - Ordenador portátil con pantalla de 13   2K  AMD Ryzen 7 3700U  16GB RAM  512GB SSD  Windows 10 Home   Color Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21) a 699.0 EUR (original: 999.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
+En este momento está [HUAWEI MateBook 13 - Ordenador portátil con pantalla de 13   2K  AMD Ryzen 7 3700U  16GB RAM  512GB SSD  Windows 10 Home   Color Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21) a 749.0 EUR (original: 999.0 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
 [![HUAWEI MateBook 13 - Ordenador portátil ](https://m.media-amazon.com/images/I/41roIaYfDrS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21)
 
 🔎:
 
-- Procesador AMD Ryzen 7 3700U (4 núcleos, 2 MB cache, 2.3 GHz hasta 4.0 GHz).
-- Almacenamiento SSD de 512GB PCIe.
-- Sistema Operativo: Windows 10 Home.
-- Pantalla de 13 2K, 2160 x 1440 píxeles, 200ppi y tecnología IPS.
-- Memoria RAM de 16GB DDR4 2400 MHz.
 - Gráficos integrados AMD Radeon Vega 8.
+- Sistema Operativo: Windows 10 Home.
+- Almacenamiento SSD de 512GB PCIe.
+- Procesador AMD Ryzen 7 3700U (4 núcleos, 2 MB cache, 2.3 GHz hasta 4.0 GHz).
+- Memoria RAM de 16GB DDR4 2400 MHz.
+- Pantalla de 13 2K, 2160 x 1440 píxeles, 200ppi y tecnología IPS.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B094H63DFF/?tag=tolees-21)
