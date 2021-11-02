@@ -28,15 +28,15 @@ Ahora mismo tienes [Crosscall Spider-X4 Teléfono Móvil  2 4   - 64 GB Memoria 
 
 🔎:
 
-- Estanco y resistente
-- Tipo de pantalla: 1 pantalla; capacidad de almacenamiento digital: 128; tamaño de pantalla: 2.4 inches; tecnología de comunicación inalámbrica: EDGE,GPRS,HSPA+; ranuras de memoria disponibles: Lecteur de Carte Mémoire; sistema operativo: Symbian
-- Cámara de fotos 2 mp/flash LED
+- Peso pluma: 118 g
 - Gran autonomía: batería de 1300 mAh
 - Doble sim
-- Pantalla tft 2,4
-- Peso pluma: 118 g
-- Linterna
-- Conectividad: 3g+/bluetooth
+- Cámara de fotos 2 mp/flash LED
 - Radio FM
+- Estanco y resistente
+- Conectividad: 3g+/bluetooth
+- Pantalla tft 2,4
+- Tipo de pantalla: 1 pantalla; capacidad de almacenamiento digital: 128; tamaño de pantalla: 2.4 inches; tecnología de comunicación inalámbrica: EDGE,GPRS,HSPA+; ranuras de memoria disponibles: Lecteur de Carte Mémoire; sistema operativo: Symbian
+- Linterna
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CSKA7OI/?tag=tolees-21)
