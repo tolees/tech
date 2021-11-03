@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Death Stranding: Director  al 21.98 % de descuento'
-date: 2021-10-30 17:24:21
+date: 2021-11-03 20:10:44
 image: 'https://m.media-amazon.com/images/I/41YdumsiRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21'
 descuento: '21.98'
-average: '43.0787499999999'
+average: '42.6255555555555'
 ---
 
 Está [Playstation - Death Stranding: Director s Cut](https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21) con 21.98 de descuento por 39.0 EUR (original: 49.99 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Playstation - Death Stranding: Director s Cut](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- En el futuro, un evento misterioso conocido como el Death Stranding ha abierto una puerta entre los vivos y los muertos y ha permitido que criaturas del otro mundo deambulen por un planeta en ruinas habitado por una sociedad desolada
 - Death Stranding Director’s Cut está cargado de contenido y funciones de juego optimizadas
+- En el futuro, un evento misterioso conocido como el Death Stranding ha abierto una puerta entre los vivos y los muertos y ha permitido que criaturas del otro mundo deambulen por un planeta en ruinas habitado por una sociedad desolada
 - Resolución 4K y 60 FPS; retroalimentación háptica y gatillos adaptativos; audio 3D Tempest; tiempos de carga optimizados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21)

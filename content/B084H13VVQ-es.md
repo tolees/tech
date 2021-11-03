@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo G34w-10 - Monitor Gaming Curvo 34 con un 33.33 % de descuento'
-date: 2021-10-19 22:13:00
+date: 2021-11-03 19:38:49
 image: 'https://m.media-amazon.com/images/I/41NFpHYYYmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21'
 descuento: '33.33'
-average: '454.437058823529'
+average: '446.27'
 ---
 
 En este momento está [Lenovo G34w-10 - Monitor Gaming Curvo 34" 2K QHD  VA  144Hz  1ms  HDMI  DP  FreeSync Premium  Base Metálica  Ajuste de inclinación/altura - Negro](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21) a 399.99 EUR (original: 599.99 EUR) (33.33 %  de descuento) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [Lenovo G34w-10 - Monitor Gaming Curvo 34" 2K QHD  VA  144
 
 🔎:
 
-- Relación de aspecto 21:9 y relación de contraste 3000:1
-- Ajuste de inclinación (-5° / 22°) y altura (130mm)
-- Pantalla de 34" con resolución 2K QHD (3440x1440 pixeles), 350 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
-- Soporte VESA para montar la pantalla en la pared
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- AMD FreeSync Premium
-- Cable DP incluido en la caja
-- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
+- Pantalla de 34" con resolución 2K QHD (3440x1440 pixeles), 350 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
 - Puertos HDMI y DP
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Soporte VESA para montar la pantalla en la pared
+- AMD FreeSync Premium
+- Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
+- Relación de aspecto 21:9 y relación de contraste 3000:1
+- Cable DP incluido en la caja
+- Ajuste de inclinación (-5° / 22°) y altura (130mm)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084H13VVQ/?tag=tolees-21)
