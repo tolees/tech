@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A11SCX-445XES - Ordenado al 17.93 % de descuento'
-date: 2021-10-20 10:16:36
+date: 2021-11-05 19:33:53
 image: 'https://m.media-amazon.com/images/I/41dAptElvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [MSI Prestige 14 A11SCX-445XES - Ordenador Portátil 14" FHD 
 🔎:
 
 - Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
-- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
+- Memoria RAM LPDDR3 16 GB (4267 MHz)
 - Procesador Tiger lake i7-1185G7
 - Pantalla de 14" FHD (1920 x 1080)
-- Memoria RAM LPDDR3 16 GB (4267 MHz)
+- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VGSV5R7/?tag=tolees-21)

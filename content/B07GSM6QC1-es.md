@@ -29,9 +29,9 @@ Está [Brother MFC-L3710CW - Impresora multifunción  Wifi  USB 2.0  512 MB  800
 ℹ️:
 
 - Interfaz: USB 2.0 Hi-Speed
-- Conectividad: Wifi, Wifi Direct
 - Impresión segura, bloqueo seguro de funciones y bloqueo de configuración
-- 18 ppm color y monocromo
+- Conectividad: Wifi, Wifi Direct
 - Impresión N en 1, impresión de póster, impresión segura y modo silencio
+- 18 ppm color y monocromo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GSM6QC1/?tag=tolees-21)
