@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A11SCX-060ES - Ordenador con un 18.24 % de descuento'
-date: 2021-11-01 00:05:07
+date: 2021-11-05 04:35:50
 image: 'https://m.media-amazon.com/images/I/31x1TiiUwKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08RCBWLKF/?tag=tolees-21'
 descuento: '18.24'
-average: '1278.63875'
+average: '1286.45666666667'
 ---
 
 En este momento está [MSI Prestige 14 A11SCX-060ES - Ordenador portátil de 14" FullHD  Intel Core i7-1185G7  16GB RAM  1TB SSD  Nvidia GTX1650-4GB  Windows10 Home Plus  blanco - Teclado QWERTY Espanol](https://www.amazon.es/dp/B08RCBWLKF/?tag=tolees-21) a 1349.0 EUR (original: 1649.99 EUR) (18.24 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [MSI Prestige 14 A11SCX-060ES - Ordenador portátil de 14"
 
 🔎:
 
-- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
-- Sistema operativo Windows10 Home Plus without ODD
 - Procesador Intel Core i7-1185G7
-- Memoria RAM de 16GB DDR3 2133Mhz
 - Display 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Sistema operativo Windows10 Home Plus without ODD
 - Tarjeta gráfica Nvidia GeForce GTX 1650 MAX Q 4GB GDDR5
+- Memoria RAM de 16GB DDR3 2133Mhz
+- Almacenamiento 1TB NVMe PCIe Gen3x4 SSD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RCBWLKF/?tag=tolees-21)
