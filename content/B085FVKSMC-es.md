@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 40.47 % en Xiaomi Mi Router 4C N300 - White*300 Mbp'
-date: 2021-11-02 01:09:37
+title: 'Descuento del 40.02 % en Xiaomi Mi Router 4C N300 - White*300 Mbp'
+date: 2021-11-05 14:39:38
 image: 'https://m.media-amazon.com/images/I/31KcYTBdfrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B085FVKSMC-es Xiaomi Mi Router 4C N300 - White*300 Mbps. *64 MB de RAM...'
 sku: 'B085FVKSMC-es'
 tags: [ 'Dispositivos de red','Informática','Routers','ram','xiaomi', ]
-actualPrice: 11.9 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 11.9
+price: 11.99
 comparePrice: 19.99 EUR
 prodname: 'Xiaomi Mi Router 4C N300 - White*300 Mbps. *64 MB de RAM *4 antenas externas.* Hasta 64 dispositivos *Fácil configuración.* Diseño elegante.'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B085FVKSMC/?tag=tolees-21'
-descuento: '40.47'
-average: '12.4002173913046'
+descuento: '40.02'
+average: '12.3914893617024'
 ---
 
-Tienes [Xiaomi Mi Router 4C N300 - White*300 Mbps. *64 MB de RAM *4 antenas externas.* Hasta 64 dispositivos *Fácil configuración.* Diseño elegante.](https://www.amazon.es/dp/B085FVKSMC/?tag=tolees-21) con un 40.47 % de descuento con precio de oferta de 11.9 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Xiaomi Mi Router 4C N300 - White*300 Mbps. *64 MB de RAM *4 antenas externas.* Hasta 64 dispositivos *Fácil configuración.* Diseño elegante.](https://www.amazon.es/dp/B085FVKSMC/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Xiaomi Mi Router 4C N300 - White*300 Mbp](https://m.media-amazon.com/images/I/31KcYTBdfrL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B085FVKSMC/?tag=tolees-21)
 
