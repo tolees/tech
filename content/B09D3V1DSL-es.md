@@ -28,10 +28,10 @@ Está [Energycell - Power Bank  20W PD y QC3.0 Carga Rápida 2021 Nuevo 10000mAh
 
 ℹ️:
 
-- 【Fácil de Llevar】Tamaño: 13.2x6.5x1.4cm, Peso: 200g, Es muy pequeño y portátil. Cumple con la "aprobado por la aerolínea", lo que significa que puede llevarlo consigo, muy adecuado para viajes de negocios o fines de semana.
-- 【Carga Rápida PD20W y QC3.0】La función de carga rápida llena la batería de tu iPhone 12 de 0% a 60% en 30minutos por puerto USB-C y de su móvil de 0% a 80% en 35minutos por puerto USB. Nota: Sus dispositivos debe soporta una carga rápida.
-- 【Amplia compatibilidad】Puede cargar la mayoría de los dispositivos electrónicos portátiles, como teléfonos y tabletas, por ejemplo iPhone 12, Samsung, HUAWEI, iPad etc.
 - 【¿Qué Recibe?】PD20W y QC3.0 10000 batería externa x1, usuario manual x1(6 idiomas, Español incluido, ), USB C Cable x1, Una Funda para proteger el producto, también fácil de llevarlo, es el compañero perfecto para viajar.
+- 【Amplia compatibilidad】Puede cargar la mayoría de los dispositivos electrónicos portátiles, como teléfonos y tabletas, por ejemplo iPhone 12, Samsung, HUAWEI, iPad etc.
+- 【Carga Rápida PD20W y QC3.0】La función de carga rápida llena la batería de tu iPhone 12 de 0% a 60% en 30minutos por puerto USB-C y de su móvil de 0% a 80% en 35minutos por puerto USB. Nota: Sus dispositivos debe soporta una carga rápida.
+- 【Fácil de Llevar】Tamaño: 13.2x6.5x1.4cm, Peso: 200g, Es muy pequeño y portátil. Cumple con la "aprobado por la aerolínea", lo que significa que puede llevarlo consigo, muy adecuado para viajes de negocios o fines de semana.
 - 【2021 Nuevo 10000mAh Batería Externa】Nuevos cambios en tamaño y apariencia, Delgado de 1.4cm, peso de 200g, más ligero que otro power bank mismo material, además, verde medianoche de color metálico es único y elegante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09D3V1DSL/?tag=tolees-21)
