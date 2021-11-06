@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-1000XM4 - Auriculares True Wirel al 27.24 % de descuento'
-date: 2021-11-05 05:14:06
+date: 2021-11-06 20:05:34
 image: 'https://m.media-amazon.com/images/I/21zk-NtXHwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B095D1HCYG/?tag=tolees-21'
 descuento: '27.24'
-average: '227.7475'
+average: '222.798'
 ---
 
 Está [Sony WF-1000XM4 - Auriculares True Wireless con Noise Cancelling  hasta 24 horas de autonomía con el estuche de carga  con micrófono incorporado para llamadas  conexión Bluetooth precisa  color plata](https://www.amazon.es/dp/B095D1HCYG/?tag=tolees-21) con 27.24 de descuento por 203.0 EUR (original: 279.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sony WF-1000XM4 - Auriculares True Wireless con Noise Cancelling  hasta 2
 
 ℹ️:
 
-- La tecnología Precise Voice Pickup usa micrófonos de formación de haces y un sensor de conducción ósea para permitir que los auriculares WF-1000XM4 inalámbricos con micrófono capten tu voz de forma clara y precisa en las llamadas manos libres; noise cancelling te permite escuchar claro a la persona que está al otro lado, incluso en situaciones de mucho ruido
-- Los auriculares Sony WF-1000XM4 admiten audio de buena resolución inalámbrico gracias a la tecnología LDAC; con unidades de diafragma diseñadas de 6 mm, estos auriculares reproducen un sonido dinámico a pesar de ser tan pequeños, y su potente diafragma reproduce una gama variada de graves; el procesador integrado V1 también mejora la calidad del sonido y reduce la distorsión; nuestra tecnología mejorada DSEE Extreme escala incluso archivos de música comprimida
 - Los auriculares Sony WF-1000XM4 cuentan con nuestro nuevo procesador integrado V1 que cancela mucho más ruido que antes, un nuevo altavoz con rendimiento mejorado, micrófonos con detección de ruido rediseñados e innovadoras almohadillas para los auriculares que aíslan del ruido con un ajuste más estable
-- En cuanto hables con alguien, Speak-to-Chat pausará la música automáticamente y dejará entrar el sonido ambiente para que puedas tener una conversación; muy práctico si quieres dejarte puestos los auriculares con micrófono o si tienes las manos ocupadas
 - Disfruta de una jornada completa , 8 horas, con una carga de tus auriculares Bluetooth Sony y acumula otras 16 horas en el estuche de carga; eso se traduce en 24 horas de uso cada vez que sales de casa; con solo 5 minutos de carga, tendrás 60 minutos de reproducción; gracias a la tecnología Qi, puedes cargar los auriculares de manera inalámbrica
+- Los auriculares Sony WF-1000XM4 admiten audio de buena resolución inalámbrico gracias a la tecnología LDAC; con unidades de diafragma diseñadas de 6 mm, estos auriculares reproducen un sonido dinámico a pesar de ser tan pequeños, y su potente diafragma reproduce una gama variada de graves; el procesador integrado V1 también mejora la calidad del sonido y reduce la distorsión; nuestra tecnología mejorada DSEE Extreme escala incluso archivos de música comprimida
+- En cuanto hables con alguien, Speak-to-Chat pausará la música automáticamente y dejará entrar el sonido ambiente para que puedas tener una conversación; muy práctico si quieres dejarte puestos los auriculares con micrófono o si tienes las manos ocupadas
+- La tecnología Precise Voice Pickup usa micrófonos de formación de haces y un sensor de conducción ósea para permitir que los auriculares WF-1000XM4 inalámbricos con micrófono capten tu voz de forma clara y precisa en las llamadas manos libres; noise cancelling te permite escuchar claro a la persona que está al otro lado, incluso en situaciones de mucho ruido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B095D1HCYG/?tag=tolees-21)
