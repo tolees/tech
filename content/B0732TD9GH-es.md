@@ -28,10 +28,10 @@ Tienes [HP OMEN 25 – Monitor Gaming de 24 5" Full HD  1920 x 1080 a 144Hz  TN 
 
 🔎:
 
-- Pantalla Full HD (1080p) de 62,23 cm (24,5 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología TN con retroiluminación LED
-- Conecta fácilmente tus dispositivos con los puertos HDMI 1.4, DisplayPort 1.2 y USB 3.0; además de puerto de audio Audio Jack
-- Inclinación ajustable de -5° a + 23°; ángulos de visión vertical 160° y horizontal 170°; gancho para auriculares integrado; soporte para HDCP
-- Contenido de la caja: Monitor; tarjeta de garantía; adaptador de alimentación; cable de alimentación AC; cable HDMI; cable DisplayPort; cable USB; CD (incluye guía del usuario)
 - Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
+- Inclinación ajustable de -5° a + 23°; ángulos de visión vertical 160° y horizontal 170°; gancho para auriculares integrado; soporte para HDCP
+- Conecta fácilmente tus dispositivos con los puertos HDMI 1.4, DisplayPort 1.2 y USB 3.0; además de puerto de audio Audio Jack
+- Pantalla Full HD (1080p) de 62,23 cm (24,5 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología TN con retroiluminación LED
+- Contenido de la caja: Monitor; tarjeta de garantía; adaptador de alimentación; cable de alimentación AC; cable HDMI; cable DisplayPort; cable USB; CD (incluye guía del usuario)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0732TD9GH/?tag=tolees-21)
