@@ -31,8 +31,8 @@ Ahora mismo tienes [MSI Modern 14 B11M-090XES - Ordenador portátil de 14" FullH
 - Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 45% NTSC Thin Bezel
 - Disco SSD de 512 GB NVMe PCIe Gen3x4
 - Sin sistema operativo
-- Memoria RAM DDR IV 16 GB (3200 MHz)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Procesador Intel Core i7-1165G7 (4 núcleos, 12 MB Cache, 4.70 GHz)
+- Memoria RAM DDR IV 16 GB (3200 MHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NCGFY7T/?tag=tolees-21)

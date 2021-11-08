@@ -29,9 +29,9 @@ Ahora mismo tienes [Razer Pro Click Ratón Profesional inalámbrico ergonómico 
 🔎:
 
 - Óptima duración de la batería, hasta 400 horas: Trabaja sin preocuparte; la batería dura hasta 400 horas con conexión por Bluetooth y hasta 200 horas con conexión inalámbrica de 2.4 GHz, lo que te permite rendir muchas horas de trabajo
-- 8 botones programables: Usuarios avanzados, ahora podéis trabajar rápido y de manera óptima al asignar macros y funciones secundarias a cualquiera de los 8 botones programables independientemente
 - Diseño ergonómico: Fabricado por los científicos y diseñadores expertos en ergonomía, el soporte añadido para la palma previene que la muñeca se apoye en la superficie de trabajo, lo que alivia la tensión y facilita una adecuada postura del brazo
-- Sensor óptico adecuado Razer 5G: Su sensor óptico de 16 000 PPP te asegura que se registre hasta el movimiento más leve del ratón, ofreciéndote un óptimo nivel de precisión para optimizar la productividad y la eficiencia en el trabajo
 - Conectividad de host múltiples de hasta 4 dispositivos: Empareja hasta 4 dispositivos y alterna entre el PC de sobremesa, el portátil, la tablet Android o la pantalla del televisor con un solo click, sin la necesidad constante de emparejar y desemparejar
+- 8 botones programables: Usuarios avanzados, ahora podéis trabajar rápido y de manera óptima al asignar macros y funciones secundarias a cualquiera de los 8 botones programables independientemente
+- Sensor óptico adecuado Razer 5G: Su sensor óptico de 16 000 PPP te asegura que se registre hasta el movimiento más leve del ratón, ofreciéndote un óptimo nivel de precisión para optimizar la productividad y la eficiencia en el trabajo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C2T22VT/?tag=tolees-21)

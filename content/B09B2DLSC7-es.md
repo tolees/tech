@@ -28,12 +28,12 @@ Ahora mismo tienes [Huawei Matebook 14 - Ordenador Portátil Ultrafino de 14" Fu
 
 🔎:
 
-- Almacenamiento de 512GB SSD NVMe PCIe
-- AMD Radeon Graphics
-- Sistema operativo: Windows 10 Home
-- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
-- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
 - Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
+- AMD Radeon Graphics
+- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
+- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
 - Memoria RAM de 8GB DDR4
+- Almacenamiento de 512GB SSD NVMe PCIe
+- Sistema operativo: Windows 10 Home
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09B2DLSC7/?tag=tolees-21)

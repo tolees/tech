@@ -28,10 +28,10 @@ Está [Razer Huntsman Tournament Edition - Teclado con teclas opto-mecánicas  a
 
 ℹ️:
 
-- Switches ópticos lineales Razer para unas pulsaciones más rápidas y sensibles
-- Cable tipo C desmontable para instalar y guardar tu teclado fácilmente
-- Memoria integrada para llevar tus ajustes a todas partes
 - Diseño compacto para mayor comodidad y movilidad
 - Teclas de PBT de doble inyección para un acabado robusto y con textura mate
+- Cable tipo C desmontable para instalar y guardar tu teclado fácilmente
+- Memoria integrada para llevar tus ajustes a todas partes
+- Switches ópticos lineales Razer para unas pulsaciones más rápidas y sensibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V5VDXW1/?tag=tolees-21)
