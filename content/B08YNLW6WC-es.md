@@ -28,10 +28,10 @@ Está [MSI Optix G272 - Monitor de 27" FullHD 144Hz  1920x1080p  ratio 16:9  Pan
 
 ℹ️:
 
+- Ajustes de altura: No Inclinable: Si. Ángulo de inclinación: -5 - 20°. Montaje VESA: Si
 - Compatible con NVIDIA G-Sync: evita que la pantalla se rompa o tartamudee, lo que produce un juego ultra suave y sin demoras.
+- Resolución de la pantalla FullHD: 1920 x 1080 Pixeles. Brillo de la pantalla (típico): 250 cd / m².Pantalla IPS – Optimiza los colores y el brillo de la pantalla para mejorar tu experiencia visual
 - Frecuencia de actualización de 144 Hz: responda más rápido con cuadros más suaves. Tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de cuadro entrecortadas.
 - Antiparpadeo y menos luz azul: juegue aún más y evite la fatiga visual y la fatiga.
-- Ajustes de altura: No Inclinable: Si. Ángulo de inclinación: -5 - 20°. Montaje VESA: Si
-- Resolución de la pantalla FullHD: 1920 x 1080 Pixeles. Brillo de la pantalla (típico): 250 cd / m².Pantalla IPS – Optimiza los colores y el brillo de la pantalla para mejorar tu experiencia visual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YNLW6WC/?tag=tolees-21)

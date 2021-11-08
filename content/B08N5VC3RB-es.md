@@ -28,15 +28,15 @@ En este momento está [2020 Apple Mac Mini con Chip M1 de Apple   8 GB RAM  512
 
 🔎:
 
-- macOS con un nuevo diseño y grandes mejoras en Safari, Mensajes y Mapas
-- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
-- Sistema de refrigeración avanzado para mantener un rendimiento bestial
-- CPU de ocho núcleos con un rendimiento hasta tres veces superior para hacer en un suspiro tareas complejas
-- GPU de ocho núcleos con gráficos hasta seis veces más veloces para acelerar los juegos y apps más exigentes
-- Dos puertos Thunderbolt/USB 4, un puerto HDMI 2.0, dos puertos USB-A y Gigabit Ethernet
-- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
-- Wifi de sexta generación para una conexión ultraveloz
 - Almacenamiento SSD megarrápido para abrir apps y archivos al instante
+- macOS con un nuevo diseño y grandes mejoras en Safari, Mensajes y Mapas
+- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
+- CPU de ocho núcleos con un rendimiento hasta tres veces superior para hacer en un suspiro tareas complejas
+- Wifi de sexta generación para una conexión ultraveloz
 - Memoria unificada de 8 GB para que todo sea rápido y fluido
+- GPU de ocho núcleos con gráficos hasta seis veces más veloces para acelerar los juegos y apps más exigentes
+- Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
+- Dos puertos Thunderbolt/USB 4, un puerto HDMI 2.0, dos puertos USB-A y Gigabit Ethernet
+- Sistema de refrigeración avanzado para mantener un rendimiento bestial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08N5VC3RB/?tag=tolees-21)
