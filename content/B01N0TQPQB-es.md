@@ -28,8 +28,8 @@ Tienes [Kingston A400 SSD Disco duro sólido interno 2.5" SATA Rev 3.0  480GB - 
 
 ℹ️:
 
-- Más fiable y resistente que un disco duro
-- Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
 - Rapidez en el arranque, la carga y la transferencia de archivos
+- Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
+- Más fiable y resistente que un disco duro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21)
