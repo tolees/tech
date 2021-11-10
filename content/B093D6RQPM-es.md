@@ -28,10 +28,10 @@ Está [superpow - Xiaomi MI Band 6 Pulsera de Actividad  Monitores de Actividad 
 
 ℹ️:
 
+- 【Carga magnética】: el cable de carga magnética es 5A-30A diseñado para cumplir con los requisitos de carga rápida y carga de corriente excesiva del producto. El tiempo de espera de Mi band 6 puede ser de hasta 19 días
 - 【Pantalla de Pista Completa de 1.56 "】:Xiaomi Mi band 6 adopta la pantalla completa AMOLED, el primer uso de la pantalla retina, el dial personalizado puede configurar su familia amada, mascotas, ídolos en el dial
+- 【Detección de Spo2】: Xiaomi Mi Band 6 es una pulsera que puede detectar la función de oxígeno en sangre y puede detectar su nivel de saturación de oxígeno en sangre, que es esencial para la salud
 - 【30 Modos Deportivos】: correr al aire libre, caminar, bailar, cinta de correr y otros 30 modos. Mi band 6 apoya el entrenamiento indirecto de alta intensidad, el baloncesto, el boxeo, Zumba y otros
 - 【Lista de embalaje】: Xiaomi mi band 6 * 1, Cable de carga * 1, Manual de instrucciones * 1
-- 【Detección de Spo2】: Xiaomi Mi Band 6 es una pulsera que puede detectar la función de oxígeno en sangre y puede detectar su nivel de saturación de oxígeno en sangre, que es esencial para la salud
-- 【Carga magnética】: el cable de carga magnética es 5A-30A diseñado para cumplir con los requisitos de carga rápida y carga de corriente excesiva del producto. El tiempo de espera de Mi band 6 puede ser de hasta 19 días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093D6RQPM/?tag=tolees-21)
