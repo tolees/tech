@@ -28,11 +28,11 @@ Tienes [Toshiba Dynabook SATELLITE PRO A50-F-107 Portátil 15 6"FullHD  Intel Co
 
 ℹ️:
 
-- Sistema Operativo: Windows 10 Pro
-- Procesador Intel Core i3-8145U (2,10 / 3,90)
-- Tarjeta gráfica Intel UHD Graphics
 - Almacenamiento de 256GB de SSD M.2 SATA
 - Memoria RAM de 8GB DDR4 2400 MHz
+- Sistema Operativo: Windows 10 Pro
 - Pantalla de 15,6" FullHD, IPS
+- Procesador Intel Core i3-8145U (2,10 / 3,90)
+- Tarjeta gráfica Intel UHD Graphics
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08Z85JCQX/?tag=tolees-21)

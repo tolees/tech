@@ -28,10 +28,10 @@ Está [HP V24 – Monitor de 24” Full HD  1920 x 1080  75Hz  1ms  TN  16:9  VG
 
 ℹ️:
 
-- Pantalla Full HD (1080p) de 61 cm (24 pulgadas) y una frecuencia de actualización de 75 Hz; pantalla microborde con tecnología TN
+- Inclinación ajustable de -5° a +20°; ángulos de visión vertical de 160° y horizontal de 170°; montaje VESA 100 mm x 100 mm (soporte incluido)
 - Conecta fácilmente tus dispositivos con los puertos 1 x HDMI 1.4 (compatible con HDCP) y 1 x VGA
 - Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso, parpadeo y desenfoque en vídeos y juegos
-- Inclinación ajustable de -5° a +20°; ángulos de visión vertical de 160° y horizontal de 170°; montaje VESA 100 mm x 100 mm (soporte incluido)
 - Contenido de la caja: Monitor; tarjeta de garantía; cable de alimentación AC; cable HDMI; documentación
+- Pantalla Full HD (1080p) de 61 cm (24 pulgadas) y una frecuencia de actualización de 75 Hz; pantalla microborde con tecnología TN
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CR9CP66/?tag=tolees-21)

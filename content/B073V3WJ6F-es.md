@@ -28,9 +28,9 @@ Está [Pioneer SE-CL5BT-GR - Auricular Deportivo  Bluetooth  micrófono Integrad
 
 ℹ️:
 
-- Color verde
-- Micrófono integrado para llamadas y manos libres
 - Auricular tipo clips para deporte
+- Micrófono integrado para llamadas y manos libres
+- Color verde
 - Conectividad Bluetooth
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073V3WJ6F/?tag=tolees-21)
