@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link - Repetidor WiFi  Banda Dual 5 G con un 19.04 % de descuento'
-date: 2021-11-08 12:21:49
+date: 2021-11-10 06:11:21
 image: 'https://m.media-amazon.com/images/I/314bP9LAf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21'
 descuento: '19.04'
-average: '54.8344905660379'
+average: '54.8410902255641'
 ---
 
 En este momento está [TP-Link - Repetidor WiFi  Banda Dual 5 GHz&2.4 GHz  Blanco](https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21) a 56.59 EUR (original: 69.9 EUR) (19.04 %  de descuento) en el siguiente enlace!
