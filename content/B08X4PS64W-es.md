@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Newskill Drakain Ivory - Auriculares Gam al 30.04 % de rebaja'
-date: 2021-11-10 17:36:45
+date: 2021-11-11 18:25:58
 image: 'https://m.media-amazon.com/images/I/31yOtDTT8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Newskill Drakain Ivory - Auriculares Gaming Estéreo RGB Multiplataforma
 
 🔎:
 
+- Compatibilidad con PS5, PS4,XBOX SERIES X/S,XBOXONE,PC
 - Micrófono flexible y ajustable
 - Sonido estéreo de alta calidad
 - Retroiluminación RGB (Automática)
-- Compatibilidad con PS5, PS4,XBOX SERIES X/S,XBOXONE,PC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X4PS64W/?tag=tolees-21)
