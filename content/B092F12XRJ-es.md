@@ -28,13 +28,13 @@ Ahora mismo tienes [Sharp 42CI6EA - TV Android 42"  Full HD  3 x HDMI  3 x USB  
 
 🔎:
 
-- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
 - Vataje (W): 70.0 watts
-- Fuente de alimentación: Corded Electric
-- Sonido Dts virtual X, dts hd, wi-fi y bluetooth
-- Tipo de altavoz: Incorporado
-- Medidas para soporte de pared VESA: 200x200 | Medidas con peana (An x Al x P en mm): 952,4 x 543,9 x 77,3 | Medidas sin peana (An x Al x P en mm): 952,4 x 543,9 x 77,3 | Distancia entre peanas (en mm): 901,5 | Peso 6,70kg
 - TV equipado con sistemas de audio creados por harman/kardon para proporcionar una verdadera experiencia cinematográfica (2x10W)
+- Tipo de altavoz: Incorporado
 - TV Android 9.0 de 42 pulgadas - Full HD
+- Fuente de alimentación: Corded Electric
+- Medidas para soporte de pared VESA: 200x200 | Medidas con peana (An x Al x P en mm): 952,4 x 543,9 x 77,3 | Medidas sin peana (An x Al x P en mm): 952,4 x 543,9 x 77,3 | Distancia entre peanas (en mm): 901,5 | Peso 6,70kg
+- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
+- Sonido Dts virtual X, dts hd, wi-fi y bluetooth
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092F12XRJ/?tag=tolees-21)
