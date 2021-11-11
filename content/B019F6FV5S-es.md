@@ -28,10 +28,10 @@ Tienes [ASUS DRW-24D5MT - Grabadora de DVD 24X  compatibilidad con M-Disc  encri
 
 ℹ️:
 
+- velocidad de escritura de CD 24 x
 - ASUS interno lector de DVD-escritor
+- USB powered-negro Slim diseño
 - velocidad de escritura de DVD 24 x
 - Interfaz serial SATA
-- velocidad de escritura de CD 24 x
-- USB powered-negro Slim diseño
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019F6FV5S/?tag=tolees-21)

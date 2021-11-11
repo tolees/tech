@@ -28,11 +28,11 @@ Ahora mismo tienes [VTech - El teléfono de Peppa Pig  Móvil electrónico inter
 
 🔎:
 
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Teléfono electrónico interactivo de Peppa Pig
-- Descubre y aprende los números, formas y juego de imitación a través de sus educativas funciones y juegos
 - Incorpora 10 botones con números y 4 botones de los personajes: Peppa, George, Papá y Mamá
 - Incluye 7 juegos y funciones diferentes: mensajes de voz, charcos de barro, conversación, a contar, colección de hojas, inflando globos y ajustes
+- Descubre y aprende los números, formas y juego de imitación a través de sus educativas funciones y juegos
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - Peppa Pig hará preguntas interactuando con el niño, y cuando este conteste a través del micrófono, Peppa responderá simulando una conversación
+- Teléfono electrónico interactivo de Peppa Pig
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S3XH7MW/?tag=tolees-21)
