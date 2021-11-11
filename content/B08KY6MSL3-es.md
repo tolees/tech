@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Nitro 5 AN515-55 - Ordenador Portát con un 19.10 % de descuento'
-date: 2021-11-08 14:13:57
+date: 2021-11-10 22:57:34
 image: 'https://m.media-amazon.com/images/I/41i2y+IavkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,25 +13,26 @@ actualPrice: 809.0 EUR
 currency: EUR
 price: 809.0
 comparePrice: 999.99 EUR
-prodname: 'Acer Nitro 5 AN515-55 - Ordenador Portátil Gaming 15.6" Full HD  Gaming Laptop  Intel Core i5-10300H  16GB RAM  512GB SSD  Nvidia RTX2060  Sin Sistema Operativo   PC Portátil Negro - Teclado QWERTY'
+prodname: 'Acer Nitro 5 AN515-55 - Ordenador Portátil Gaming 15.6" Full HD   Intel Core i5-10300H  16GB RAM  512GB SSD  Nvidia RTX2060  Sin Sistema Operativo   Color Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21'
 descuento: '19.10'
-average: '826.955769230768'
+average: '826.29074074074'
 ---
 
-En este momento está [Acer Nitro 5 AN515-55 - Ordenador Portátil Gaming 15.6" Full HD  Gaming Laptop  Intel Core i5-10300H  16GB RAM  512GB SSD  Nvidia RTX2060  Sin Sistema Operativo   PC Portátil Negro - Teclado QWERTY](https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21) a 809.0 EUR (original: 999.99 EUR) (19.10 %  de descuento) en el siguiente enlace!
+En este momento está [Acer Nitro 5 AN515-55 - Ordenador Portátil Gaming 15.6" Full HD   Intel Core i5-10300H  16GB RAM  512GB SSD  Nvidia RTX2060  Sin Sistema Operativo   Color Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21) a 809.0 EUR (original: 999.99 EUR) (19.10 %  de descuento) en el siguiente enlace!
 
 [![Acer Nitro 5 AN515-55 - Ordenador Portát](https://m.media-amazon.com/images/I/41i2y+IavkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21)
 
 🔎:
 
-- INTENSIDAD VISUAL: explora los juegos con mayor detalle, imágenes nítidas y colores reales de la pantalla IPS FHD de 15.6 pulgadas con biseles estrechos. Disfruta de un juego suave y sin desenfoques con una alta tasa de refresco y un tiempo de respuesta de 3ms
-- TODO BAJO CONTROL: monitorea y administra tu sistema en tiempo real con NitroSense para saber la temperatura del pc, la velocidad del ventilador y más
-- GAMING DE ÉLITE: domina la competición con la potencia combinada del procesador Intel Core i5-10300H y los gráficos NVIDIA GeForce RTX. Configura tu portátil de gaming para un gran rendimiento con hasta 32 GB de RAM DDR4 3200 y gran capacidad de almacenamiento
-- SISTEMA DE ENFRIAMIENTO: baja la temperatura con los dos ventiladores, la tecnología CoolBoost de Acer y el diseño con cuatro puertos de escape. CoolBoost aumenta la velocidad del ventilador un 10% y la refrigeración de la CPU/GPU un 9%
-- LIBERTAD PARA JUGAR: los videojuegos no tienen límites con les portátiles Acer Nitro 5; el potente procesador te garantiza el rendimiento que necesitas y la libertad para jugar en cualquier lugar
+- Procesador Intel Core i5-10300H
+- Almacenamiento de 512GB SSD
+- Sin sistema operativo
+- Memoria RAM de 16GB (8GBx2)
+- Pantalla de 15.6" FullHD (1920x1080)
+- Tarjeta gráfica NVIDIA RTX2060
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KY6MSL3/?tag=tolees-21)
