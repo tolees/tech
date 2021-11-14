@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook 14 - Ordenador Portátil  al 22.25 % de descuento'
-date: 2021-11-09 11:14:58
+date: 2021-11-14 12:29:37
 image: 'https://m.media-amazon.com/images/I/41U7S+R69wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B09B2DLSC7/?tag=tolees-21'
 descuento: '22.25'
-average: '729.0'
+average: '720.428571428571'
 ---
 
 Ahora mismo tienes [Huawei Matebook 14 - Ordenador Portátil Ultrafino de 14" FullHD  AMD R5 4600H  8GB RAM  512GB SSD  AMD Radeon™ Graphics  Windows 10 Home  Space Grey - Teclado QWERTY Español](https://www.amazon.es/dp/B09B2DLSC7/?tag=tolees-21) a 699.0 EUR (original: 899.0 EUR) (22.25 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [Huawei Matebook 14 - Ordenador Portátil Ultrafino de 14" Fu
 
 🔎:
 
-- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
 - Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Sistema operativo: Windows 10 Home
 - Almacenamiento de 512GB SSD NVMe PCIe
+- AMD Radeon Graphics
+- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
+- Sistema operativo: Windows 10 Home
 - Memoria RAM de 8GB DDR4
 - Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
-- AMD Radeon Graphics
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09B2DLSC7/?tag=tolees-21)

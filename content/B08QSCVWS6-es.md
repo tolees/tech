@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 5 A515-56-572C - Ordenador P al 15.41 % de descuento'
-date: 2021-11-11 16:44:32
+date: 2021-11-14 12:12:07
 image: 'https://m.media-amazon.com/images/I/4182R7Xg4FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Acer Aspire 5 A515-56-572C - Ordenador Portátil 15.6" Full HD  Intel Cor
 ℹ️:
 
 - Procesador Intel Core i5-1135G7
-- Almacenamiento de 512GB SSD
 - Pantalla de 15.6" FullHD (1920x1080)
-- Memoria RAM de 8GB
+- Almacenamiento de 512GB SSD
 - Sistema operativo: Windows 10 Home
+- Memoria RAM de 8GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QSCVWS6/?tag=tolees-21)
