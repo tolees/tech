@@ -28,11 +28,11 @@ En este momento está [HP Chromebook X360 14a-ca0003ns - Ordenador portátil de 
 
 🔎:
 
-- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
 - Almacenamiento de 64 GB eMMC
-- Tarjeta gráfica integrada Intel UHD 600
-- Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
 - Memoria RAM de 4 GB LPDDR4-3733 MHz
 - Sistema Operativo Chrome OS
+- Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
+- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
+- Tarjeta gráfica integrada Intel UHD 600
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJVLGD/?tag=tolees-21)

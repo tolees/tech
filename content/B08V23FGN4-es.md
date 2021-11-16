@@ -28,13 +28,13 @@ Tienes [Lenovo Yoga Slim 7 - Ordenador Portátil 14" 4K  Intel Core i7-1165G7  1
 
 🔎:
 
-- Pantalla de 14" 4K, 500nits, glossy, HDR 400, 90% DCI-P3
-- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
-- Tarjeta gráfica Integrada Intel Iris Xe Graphics
-- Memoria RAM de 16GB DDR4-3200
-- Sistema operativo: Windows 10 Pro
-- Procesador Intel Core i7-1165G7 (4C/8T, 4.7GHz, 12 MB)
-- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
+- Memoria RAM de 16GB DDR4-3200
+- Pantalla de 14" 4K, 500nits, glossy, HDR 400, 90% DCI-P3
+- Tarjeta gráfica Integrada Intel Iris Xe Graphics
+- Procesador Intel Core i7-1165G7 (4C/8T, 4.7GHz, 12 MB)
+- Sistema operativo: Windows 10 Pro
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V23FGN4/?tag=tolees-21)
