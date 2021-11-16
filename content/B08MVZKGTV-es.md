@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Hitman III - PS5 con un 52.99 % de descuento'
-date: 2021-11-15 08:44:51
+date: 2021-11-16 09:00:22
 image: 'https://m.media-amazon.com/images/I/41UAjQCvaUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08MVZKGTV/?tag=tolees-21'
 descuento: '52.99'
-average: '45.356923076923'
+average: '44.8955555555555'
 ---
 
 En este momento está [Koch Media - Hitman III - PS5](https://www.amazon.es/dp/B08MVZKGTV/?tag=tolees-21) a 32.9 EUR (original: 69.99 EUR) (52.99 %  de descuento) en el siguiente enlace!

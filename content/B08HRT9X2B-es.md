@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HONOR Watch GS Pro Smartwatch  KAN - B19 al 32.13 % de descuento'
-date: 2021-10-30 14:36:15
+date: 2021-11-16 08:58:39
 image: 'https://m.media-amazon.com/images/I/41EiJCo0GWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HONOR'
 buyurl: 'https://www.amazon.es/dp/B08HRT9X2B/?tag=tolees-21'
 descuento: '32.13'
-average: '188.292307692308'
+average: '184.030000000001'
 ---
 
 Ahora mismo tienes [HONOR Watch GS Pro Smartwatch  KAN - B19  Negro carbón](https://www.amazon.es/dp/B08HRT9X2B/?tag=tolees-21) a 169.0 EUR (original: 249.0 EUR) (32.13 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [HONOR Watch GS Pro Smartwatch  KAN - B19  Negro carbón](htt
 🔎:
 
 - Monitor de pulso cardiaco
-- Hasta 25 días de duración de la batería
 - Más de 100 modos de entrenamiento
 - Pantalla AMOLED
+- Hasta 25 días de duración de la batería
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HRT9X2B/?tag=tolees-21)
