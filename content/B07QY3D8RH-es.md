@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transcend USD300S Tarjeta microSD de 256 con un 19.60 % de descuento'
-date: 2021-11-14 22:25:11
+date: 2021-11-16 03:44:01
 image: 'https://m.media-amazon.com/images/I/31NnA3lPhSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Transcend'
 buyurl: 'https://www.amazon.es/dp/B07QY3D8RH/?tag=tolees-21'
 descuento: '19.60'
-average: '26.6283333333333'
+average: '26.4628571428571'
 ---
 
 En este momento está [Transcend USD300S Tarjeta microSD de 256GB  Clase 10   V30  A1  hasta 95 MBs de Lectura  con adaptador SD  Paquete Abrefácil](https://www.amazon.es/dp/B07QY3D8RH/?tag=tolees-21) a 25.47 EUR (original: 31.68 EUR) (19.60 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Transcend USD300S Tarjeta microSD de 256GB  Clase 10   V3
 
 🔎:
 
-- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
 - Velocidad de Escritura hasta 40 MBs
-- Software RecoveRx
 - Clase de velocidad 10, U3, hasta 95 MBs de Lectura
+- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
+- Software RecoveRx
 - Cumple con el estándar A1 para aplicaciones móviles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QY3D8RH/?tag=tolees-21)
