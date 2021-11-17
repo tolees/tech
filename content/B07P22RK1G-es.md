@@ -28,8 +28,8 @@ Está [Kingston A400 SSD Disco duro sólido interno M.2 2280 SATA Rev 3.0  240GB
 
 ℹ️:
 
-- Más fiable y resistente que un disco duro
 - Rapidez en el arranque, la carga y la transferencia de archivos
+- Más fiable y resistente que un disco duro
 - Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P22RK1G/?tag=tolees-21)
