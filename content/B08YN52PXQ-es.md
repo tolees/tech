@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LS27AM501NUXEN 68 6 cm  27"  192 al 28.21 % de descuento'
-date: 2021-11-17 18:30:16
+date: 2021-11-18 18:41:10
 image: 'https://m.media-amazon.com/images/I/41rzYojzpFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
