@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Smart TV P1 32 Pulgadas  Frameless  HD  Triple Sinton
 
 🔎:
 
-- Resolución: HD ( 1366 x 768 px )
-- Sistema Operativo: Android TV
-- WiFi: Wifi 2.4G/5G
 - Memoria: 1,5 GB RAM/8GB ROM
+- Resolución: HD ( 1366 x 768 px )
+- WiFi: Wifi 2.4G/5G
+- Sistema Operativo: Android TV
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B093VCKC7X/?tag=tolees-21)
