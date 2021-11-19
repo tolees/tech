@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony XAV-AX3005DB - Reproductor 2DIN para Coche  Color Negro
 
 🔎:
 
-- Dimensiones del producto: 13.9 x 17.8 x 10 cm
-- Radio digital con la casilla de certificación marcada
 - Crea altavoces virtuales en el salpicadero con el organizador dinámico de sonido
-- Compatible con cámara de visión trasera para aparcar con facilidad
+- Dimensiones del producto: 13.9 x 17.8 x 10 cm
 - Terminal con teclas ergonómicas
+- Radio digital con la casilla de certificación marcada
+- Compatible con cámara de visión trasera para aparcar con facilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GLWLQSY/?tag=tolees-21)

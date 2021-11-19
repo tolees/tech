@@ -28,13 +28,13 @@ Tienes [Xiaomi MI TV BOX S - Reproductor streaming en 4K Ultra HD  Bluetooth  Wi
 
 ℹ️:
 
-- Decodificador de imagen: JPG，BMP，GIF，PNG，TIF
-- GPU: Mali-450
 - RAM: 2 GB DDR3, Almacenamientos: 8 GB eMMC, Sistema operativo: Android 8.1
 - Decodificador de vídeo: 4K a 60 fps, VP9，H.265，H.264，MPEG1/2/4，VC-1，Real8/9/10
-- Formato de vídeo: RM，MOV，VOB，AVI，MKV，TS，Mp4，3D
-- CPU: Cortex-A53 Quad-core 64 bit
 - Conexión inalámbricaȘ Wi-Fi: 802.11 a / b / g / n / ac 2.4GHz / 5GHz, Bluetooth: 4.2
+- GPU: Mali-450
 - Resolución de salida: 4K (3840 x 2160)
+- Decodificador de imagen: JPG，BMP，GIF，PNG，TIF
+- CPU: Cortex-A53 Quad-core 64 bit
+- Formato de vídeo: RM，MOV，VOB，AVI，MKV，TS，Mp4，3D
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K3KC5CP/?tag=tolees-21)
