@@ -28,15 +28,15 @@ Tienes [Lenovo Yoga 7 - Ordenador Portátil táctil Convertible 14" FullHD  Inte
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Pantalla táctil convertíble de 14"FullHD 1920x1080 pixeles, IPS, 300nits, glossy
-- Teclado QWERTY Portugués; retroiluminación blanca
+- Lenovo Digital Pen incluido en la caja
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000 para portátiles y 300 para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Intel Core i7-1165G7 (4C/8T, 2.8/4.7GHz, 12MB)
+- Pantalla táctil convertíble de 14"FullHD 1920x1080 pixeles, IPS, 300nits, glossy
+- Teclado QWERTY Portugués; retroiluminación blanca
 - Lenovo Premium Care: Suporte telefónico avanzado con especialistas dedicados de Lenovo, si es necesario reparaciones realizadas en su ubicación el día laborable siguiente, soporte integral de hardware y software, asistencia para los primeros pasos y procedimientos, verificación anual completa del estado de funcionamiento
-- Sistema Operativo Windows 10 Home
 - Memoria RAM de 16GB DDR4-3200
-- Lenovo Digital Pen incluido en la caja
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Intel Core i7-1165G7 (4C/8T, 2.8/4.7GHz, 12MB)
+- Sistema Operativo Windows 10 Home
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P5TKMC4/?tag=tolees-21)

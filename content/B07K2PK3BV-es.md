@@ -28,10 +28,10 @@ En este momento está [Apple Pencil  2.a Generación ](https://www.amazon.es/dp/
 
 🔎:
 
-- Además, se acopla magnéticamente al ipad pro y se carga sin cables para que puedas usarlo siempre que lo necesites
-- Conexiones: Bluetooth
-- Compatibilidad: iPad Pro de 12,9 pulgadas (3.a, 4.a y 5.a generación), iPad Pro de 11 pulgadas (1.a, 2.a y 3.a generación), iPad Air (4.a generación)
-- Y puedes cambiar de herramienta simplemente con un doble toque
 - Intuitivo, preciso, casi mágico: con el nuevo apple pencil, tomar notas, escribir y dibujar te gustará más que nunca
+- Compatibilidad: iPad Pro de 12,9 pulgadas (3.a, 4.a y 5.a generación), iPad Pro de 11 pulgadas (1.a, 2.a y 3.a generación), iPad Air (4.a generación)
+- Además, se acopla magnéticamente al ipad pro y se carga sin cables para que puedas usarlo siempre que lo necesites
+- Y puedes cambiar de herramienta simplemente con un doble toque
+- Conexiones: Bluetooth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K2PK3BV/?tag=tolees-21)

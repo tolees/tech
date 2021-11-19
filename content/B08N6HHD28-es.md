@@ -28,10 +28,10 @@ En este momento está [Gigaset E290 - Teléfono Fijo Inalámbrico con Teclas Gra
 
 🔎:
 
-- Agenda de 150 contactos
-- Rápida y fácil instalación, conéctate y habla
 - 2 teclas de marcación directa rápida: para cualquier llamada de emergencia
+- Agenda de 150 contactos
 - Gran pantalla iluminada, letras blancas sobre fondo negro: lo que facilita la lectura
 - Caracteres tamaño jumbo
+- Rápida y fácil instalación, conéctate y habla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08N6HHD28/?tag=tolees-21)

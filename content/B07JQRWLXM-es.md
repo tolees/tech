@@ -30,8 +30,8 @@ Ahora mismo tienes [Amazon - Tablet Fire 7  pantalla de 7    16 GB  Negro  - Con
 
 - Hasta 7 horas para leer, navegar por Internet, ver vídeos y escuchar música.
 - AVISO: Google Play Store no está disponible en los tablets Fire. Es posible que algunas aplicaciones no estén disponibles.
-- Amazon Prime te da acceso a Prime Video, Prime Music y Prime Reading en el tablet Fire.
-- Pantalla IPS de 7 pulgadas. Almacenamiento interno de 16 o 32 GB (expandible hasta 512 GB con una tarjeta microSD).
 - El tablet Fire 7 de Amazon es todo lo que necesitas para ver Prime Video o Netflix, explorar las redes sociales y divertirte con juegos como Candy Crush Saga.
+- Pantalla IPS de 7 pulgadas. Almacenamiento interno de 16 o 32 GB (expandible hasta 512 GB con una tarjeta microSD).
+- Amazon Prime te da acceso a Prime Video, Prime Music y Prime Reading en el tablet Fire.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQRWLXM/?tag=tolees-21)
