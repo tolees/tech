@@ -28,12 +28,12 @@ Ahora mismo tienes [TP-Link RE230 - Repetidor WiFi  AC750 mesh  Doble Banda 5 GH
 
 🔎:
 
-- MODO AP - Cree un nuevo punto de acceso Wi-Fi para mejorar su red cableada con capacidad Wi-Fi
-- PUERTO ETHERNET - Puerto Ethernet 10/100 Mbps actúa como un adaptador inalámbrico para conectar un dispositivo cableado a su red
-- FÁCIL GESTIÓN - Con la aplicación TP-Link Tether acceda y administre fácilmente su red utilizando cualquier dispositivo móvil iOS o Android
-- WI-FI DOBLE BANDA A750 - Velocidad máxima Wi-Fi 300 Mbps en 2.4GHz + 433 Mbps en 5GHz para conexiones de hasta 20 dispositivos simultáneamente
-- AUMENTE LA COBERTURA WI-FI - Elimine las zonas muertas de Wi-Fi con una cobertura de hasta 100m2
 - NOTA -Para disfrutar de una red Mesh es necesario disponer de un Router OneMesh, en caso contrario hay alta compatibilidad con cualquier otro router o Punto de Acceso
+- AUMENTE LA COBERTURA WI-FI - Elimine las zonas muertas de Wi-Fi con una cobertura de hasta 100m2
+- PUERTO ETHERNET - Puerto Ethernet 10/100 Mbps actúa como un adaptador inalámbrico para conectar un dispositivo cableado a su red
+- MODO AP - Cree un nuevo punto de acceso Wi-Fi para mejorar su red cableada con capacidad Wi-Fi
+- WI-FI DOBLE BANDA A750 - Velocidad máxima Wi-Fi 300 Mbps en 2.4GHz + 433 Mbps en 5GHz para conexiones de hasta 20 dispositivos simultáneamente
+- FÁCIL GESTIÓN - Con la aplicación TP-Link Tether acceda y administre fácilmente su red utilizando cualquier dispositivo móvil iOS o Android
 - LUZ SEÑAL INTELIGENTE - Ayuda a encontrar la mejor ubicación para una cobertura Wi-Fi óptima al mostrar la intensidad de la señal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QVV4RL7/?tag=tolees-21)
