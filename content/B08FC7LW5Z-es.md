@@ -28,11 +28,11 @@ Tienes [Acer Chromebook Spin 514 - Ordenador Portátil 2 en 1 Convertible y Tact
 
 ℹ️:
 
-- Almacenamiento de 64GB SSD
-- Procesador AMD Athlon N3050C
-- UMA Graphics
-- Memoria RAM de 4GB
 - Sistema operativo: Chrome
+- Almacenamiento de 64GB SSD
 - Pantalla de 14" HD
+- UMA Graphics
+- Procesador AMD Athlon N3050C
+- Memoria RAM de 4GB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FC7LW5Z/?tag=tolees-21)
