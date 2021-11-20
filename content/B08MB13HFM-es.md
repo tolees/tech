@@ -28,10 +28,10 @@ En este momento está [Panasonic EW-DM81 Cepillo Eléctrico  2 Cabezales Incluid
 
 🔎:
 
-- Incluye: 2 recambios de cepillo un mango de cepillo y un cargador minimalista con base de carga
-- Elimina más placa y suciedad que un cepillo normal: los 31.000 movimientos por minuto que consigue el cepillo eléctrico de Panasonic, permite eliminar suciedad y bacterias de tu boca en menor tiempo que un cepillo manual normal
-- Dos modos de funcionamiento: dependiendo de la sensibilidad de tus dientes y encías podrás elegir entre el modo normal o el mono suave, para que tu cepillo se adapte a tu boca y a tu comodidad
-- Temporizador: puedes poner un tiempo de cepillado, para que te avise el cepillo y cambies a otra zona, para evitar sangrado en las encías por exceso de limpieza
 - Cerdas finas: el diámetro de las cerdas es fino (0.02 mm) lo que permite alcanzar hasta 3 mm de profundidad para una limpieza adecuada
+- Incluye: 2 recambios de cepillo un mango de cepillo y un cargador minimalista con base de carga
+- Dos modos de funcionamiento: dependiendo de la sensibilidad de tus dientes y encías podrás elegir entre el modo normal o el mono suave, para que tu cepillo se adapte a tu boca y a tu comodidad
+- Elimina más placa y suciedad que un cepillo normal: los 31.000 movimientos por minuto que consigue el cepillo eléctrico de Panasonic, permite eliminar suciedad y bacterias de tu boca en menor tiempo que un cepillo manual normal
+- Temporizador: puedes poner un tiempo de cepillado, para que te avise el cepillo y cambies a otra zona, para evitar sangrado en las encías por exceso de limpieza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MB13HFM/?tag=tolees-21)

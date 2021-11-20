@@ -28,10 +28,10 @@ Tienes [HP 22x – Monitor Gaming de 22" Full HD  1920 x 1080 a 144Hz  TN  1ms  
 
 ℹ️:
 
-- Pantalla Full HD (1080p) de 56 cm (22 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología TN con retroiluminación LED
-- Conecta fácilmente tus dispositivos con los puertos HDMI 1.4 (compatible con HDCP) y VGA; además cuenta con altavoces integrados (2W por canal)
 - Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
 - Contenido de la caja: Monitor; tarjeta de garantía; cable de alimentación AC; cable HDMI; documentación
+- Pantalla Full HD (1080p) de 56 cm (22 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología TN con retroiluminación LED
+- Conecta fácilmente tus dispositivos con los puertos HDMI 1.4 (compatible con HDCP) y VGA; además cuenta con altavoces integrados (2W por canal)
 - Inclinación ajustable de -5° a +20°; ángulos de visión de 170°; montaje VESA 100mm x 100mm (soporte incluido)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SS5PKHD/?tag=tolees-21)
