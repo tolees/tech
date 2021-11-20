@@ -28,9 +28,9 @@ Tienes [KODAK Smile Impresora Digital instantánea  Azul + Paquete de 50 Hojas](
 
 🔎:
 
+- Diseño desplegable –como una sonrisa, la impresora cambia su forma para revelar la ranura de salida de fotos; a diferencia de otras impresoras, smile es compacta con una cubierta protectora duradera
+- FOTOS RESPETUOSAS CON EL MEDIO AMBIENTE: el papel ZINK elimina la necesidad de costosos cartuchos, cartuchos de tinta y derrochadores tóneres. La tecnología Zero Ink es una solución de impresión natural que es fácil de cargar en tu cámara e imprime de una sola pasada.
 - Más razones para sonreír — la impresora digital instantánea kodak smile hace que editar, imprimir y compartir fotos sea divertido. Usa tecnología zink tinta cero para imprimir en papel adhesivo 2"x3"
 - IMPRESIONANTE DETALLE VIBRANTE: el papel fotográfico de calidad superior recrea cada color y momento memorable con detalles excepcionales y brillantes. Cada imagen cuenta con una notable integridad de color que es perfecta para imprimir fotos de teléfonos inteligentes o fotos de redes sociales.
-- FOTOS RESPETUOSAS CON EL MEDIO AMBIENTE: el papel ZINK elimina la necesidad de costosos cartuchos, cartuchos de tinta y derrochadores tóneres. La tecnología Zero Ink es una solución de impresión natural que es fácil de cargar en tu cámara e imprime de una sola pasada.
-- Diseño desplegable –como una sonrisa, la impresora cambia su forma para revelar la ranura de salida de fotos; a diferencia de otras impresoras, smile es compacta con una cubierta protectora duradera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z4CXHJV/?tag=tolees-21)
