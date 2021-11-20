@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Smartphone Galaxy M12 con Pantal con un 33.49 % de descuento'
-date: 2021-11-19 16:07:08
+date: 2021-11-20 17:08:27
 image: 'https://m.media-amazon.com/images/I/4135RPNiCuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B091D1G3CW/?tag=tolees-21'
 descuento: '33.49'
-average: '156.387727272727'
+average: '155.631739130435'
 ---
 
 En este momento está [Samsung Smartphone Galaxy M12 con Pantalla Infinity-V TFT LCD de 6 5 Pulgadas  4 GB de RAM y 64 GB de Memoria Interna Ampliable  Batería de 5000 mAh y Carga rápida Negro  ES Versión ](https://www.amazon.es/dp/B091D1G3CW/?tag=tolees-21) a 139.0 EUR (original: 209.0 EUR) (33.49 %  de descuento) en el siguiente enlace!
