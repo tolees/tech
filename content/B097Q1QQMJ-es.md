@@ -28,11 +28,11 @@ Está [ASUS ROG G513IC-HN004 - Portátil Gaming de 15.6" Full HD 300Hz  Ryzen 7 
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Sin Sistema Operativo
-- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
+- Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B097Q1QQMJ/?tag=tolees-21)
