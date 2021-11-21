@@ -29,8 +29,8 @@ En este momento está [ASUS VG27AQ1A - Monitor de Gaming de 27" WQHD  2560x1440 
 🔎:
 
 - La tecnología ASUS Extreme Low Motion Blur (ELMB) elimina los defectos gráficos y hacen que las escenas borrosas cobren nitidez; g-SYNC Compatible y el refresco variable por defecto (VRR) evitan que las imágenes se entrecorten
-- Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon. Compatible con tarjetas gráficas NVIDIA GeForce serie GTX 10, GTX 16, RTX 20 y otras más recientes
 - Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes
+- Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon. Compatible con tarjetas gráficas NVIDIA GeForce serie GTX 10, GTX 16, RTX 20 y otras más recientes
 - Monitor IPS WQHD (2560x1440) de 27" con 170 Hz de refresco diseñado para gamers profesionales y disfrutar de una experiencia de juego envolvente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J4D98JB/?tag=tolees-21)
