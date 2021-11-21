@@ -28,10 +28,10 @@ Ahora mismo tienes [Panasonic DP-UB150 - Reproductor BLU-Ray 4K Ultra HD con Cap
 
 🔎:
 
-- Los reproductores blu-ray ultra hd de panasonic admiten varios formatos hdr como, por ejemplo, hdr10, que es el formato hdr estándar para películas y discos blue-ray también admiten la reproducción de metadatos dinámicos hdr10+, el estándar de última generación
-- Compatible con blu-ray ultra hd, el estándar blu-ray de última generación; la tecnología de alta calidad de panasonic ofrece texturas más naturales con una increíble resolución 4k; los colores vibrantes y el alto contraste recrean un ambiente más similar a la vida real para disfrutar de una experiencia de visualización en casa como nunca antes habías visto
-- Ahora podrás disfrutar de todas tus fotos o vídeos, grabadas con tu cámara fotográfica o de vídeo, en tu televisor uhd para recordar tus viajes de amigos; puedes reproducir vídeos 4k en mp4 y exportar datos jpeg con resolución 4k para revivir tus mejores momentos
-- Simplemente conecta tu sistema de audio y disfruta de fuentes de música equivalentes a la calidad de sonido original del estudio
 - Este modelo esta diseñado para la reproducción de audio de alta resolución; además de los formatos wav/flac/mp3/aac/wma/aiff convencionales, también pueden reproducirse archivos de música alac y dsd (5,6mhz/2,8 mhz/11,2mhz)
+- Ahora podrás disfrutar de todas tus fotos o vídeos, grabadas con tu cámara fotográfica o de vídeo, en tu televisor uhd para recordar tus viajes de amigos; puedes reproducir vídeos 4k en mp4 y exportar datos jpeg con resolución 4k para revivir tus mejores momentos
+- Compatible con blu-ray ultra hd, el estándar blu-ray de última generación; la tecnología de alta calidad de panasonic ofrece texturas más naturales con una increíble resolución 4k; los colores vibrantes y el alto contraste recrean un ambiente más similar a la vida real para disfrutar de una experiencia de visualización en casa como nunca antes habías visto
+- Los reproductores blu-ray ultra hd de panasonic admiten varios formatos hdr como, por ejemplo, hdr10, que es el formato hdr estándar para películas y discos blue-ray también admiten la reproducción de metadatos dinámicos hdr10+, el estándar de última generación
+- Simplemente conecta tu sistema de audio y disfruta de fuentes de música equivalentes a la calidad de sonido original del estudio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P7WYCLF/?tag=tolees-21)

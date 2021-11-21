@@ -28,9 +28,9 @@ Está [Crucial P2 CT250P2SSD8 Disco Duro sólido Interno SSD de 250GB  de hasta 
 
 ℹ️:
 
-- Con garantía limitada de 5 años o hasta alcanzar el valor de resistencia nominal de 150 TBW
-- Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
 - La interfaz NVMe PCIe marca el próximo paso en innovación en términos de almacenamiento
 - Incluye software de gestión SSD para optimizar el rendimiento, seguridad de los datos y actualizaciones de firmware
+- Con garantía limitada de 5 años o hasta alcanzar el valor de resistencia nominal de 150 TBW
+- Capacidades de hasta 2TB con velocidades de lectura/escritura secuencial de hasta 2400/1900 MB/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086BKGSC1/?tag=tolees-21)
