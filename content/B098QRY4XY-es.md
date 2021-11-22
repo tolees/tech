@@ -28,12 +28,12 @@ Tienes [Huawei Matebook D15 - Ordenador Portátil Ultrafino de 15.6" FullHD  Int
 
 🔎:
 
-- Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
-- Memoria RAM de 8GB DDR4 2400MHz.
-- Procesador Intel Core i3-10110U
-- Sistema operativo: Windows 10 Home
-- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 256.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Almacenamiento de 256GB SSD NVMe PCIe.
 - Tarjeta gráfica Intel UHD Graphics 620
+- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 256.0; Capacidad de la memoria RAM (GB): 8.0 GB
+- Sistema operativo: Windows 10 Home
+- Almacenamiento de 256GB SSD NVMe PCIe.
+- Memoria RAM de 8GB DDR4 2400MHz.
+- Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
+- Procesador Intel Core i3-10110U
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B098QRY4XY/?tag=tolees-21)
