@@ -30,9 +30,9 @@ En este momento está [ASUS VivoBook S14 S433EA-AM464T - Portátil 14" Full HD  
 
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 10 Home
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Memoria RAM de 8GB SO-DIMM DDR4 3200MHz
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WWJGVMV/?tag=tolees-21)
