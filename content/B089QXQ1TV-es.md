@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 870 QVO SSD 2.5"  SATA3  1TB al 28.45 % de descuento'
-date: 2021-11-21 21:06:47
+title: 'Samsung 870 QVO SSD 2.5"  SATA3  1TB al 28.46 % de descuento'
+date: 2021-11-22 22:31:00
 image: 'https://m.media-amazon.com/images/I/31-m+QrrT7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B089QXQ1TV-es Samsung 870 QVO SSD 2.5" SATA3 1TB'
 sku: 'B089QXQ1TV-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung', ]
-actualPrice: 77.99 EUR
+actualPrice: 77.98 EUR
 currency: EUR
-price: 77.99
+price: 77.98
 comparePrice: 109.0 EUR
 prodname: 'Samsung 870 QVO SSD 2.5"  SATA3  1TB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B089QXQ1TV/?tag=tolees-21'
-descuento: '28.45'
-average: '104.961386138618'
+descuento: '28.46'
+average: '104.872631578951'
 ---
 
-Está [Samsung 870 QVO SSD 2.5"  SATA3  1TB](https://www.amazon.es/dp/B089QXQ1TV/?tag=tolees-21) con 28.45 de descuento por 77.99 EUR (original: 109.0 EUR) en el siguiente enlace!
+Está [Samsung 870 QVO SSD 2.5"  SATA3  1TB](https://www.amazon.es/dp/B089QXQ1TV/?tag=tolees-21) con 28.46 de descuento por 77.98 EUR (original: 109.0 EUR) en el siguiente enlace!
 
 [![Samsung 870 QVO SSD 2.5"  SATA3  1TB](https://m.media-amazon.com/images/I/31-m+QrrT7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B089QXQ1TV/?tag=tolees-21)
 
