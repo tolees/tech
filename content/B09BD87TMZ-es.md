@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming F15 FX506HCB-HN200 - Por al 27.30 % de descuento'
-date: 2021-11-22 08:48:14
+date: 2021-11-23 10:16:13
 image: 'https://m.media-amazon.com/images/I/31tkdPfKk0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS TUF Gaming F15 FX506HCB-HN200 - Portátil Gaming 15.6" 
 
 🔎:
 
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Sin Sistema Operativo
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS
+- Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09BD87TMZ/?tag=tolees-21)
