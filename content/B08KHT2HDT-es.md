@@ -28,9 +28,9 @@ Ahora mismo tienes [Marshall Major IV - Bluetooth Headphones Black](https://www.
 
 🔎:
 
-- Tipo de conector: inalámbrico
 - Diseño ergonómico
 - Marca del producto: Marshall
 - Respuesta de frecuencia: 20 Hz
+- Tipo de conector: inalámbrico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KHT2HDT/?tag=tolees-21)
