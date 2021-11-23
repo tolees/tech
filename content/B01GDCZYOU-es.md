@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Spatha - Ratón gaming  12 boton al 20.00 % de descuento'
-date: 2021-11-22 12:55:07
+date: 2021-11-23 12:56:49
 image: 'https://m.media-amazon.com/images/I/41ugIQg8LeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B01GDCZYOU/?tag=tolees-21'
 descuento: '20.00'
-average: '134.31'
+average: '133.256666666667'
 ---
 
 Está [ASUS ROG Spatha - Ratón gaming  12 botones programables  hasta 8200 dpi  conexión por cable y inalámbrica  zócalos intercambiables  chasis de magnesio  interfaz Asus ROG Armoury  Negro](https://www.amazon.es/dp/B01GDCZYOU/?tag=tolees-21) con 20.00 de descuento por 127.99 EUR (original: 159.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [ASUS ROG Spatha - Ratón gaming  12 botones programables  hasta 8200 dpi 
 
 ℹ️:
 
-- Efectos RGB personalizables en tres áreas
-- Más flexibilidad, conexión por cable e inalámbrica
 - Memoria flash integrada para guardar tus perfiles
-- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
+- Efectos RGB personalizables en tres áreas
 - 12 botones programables, diseño optimizado para juegos MMO
+- Más flexibilidad, conexión por cable e inalámbrica
 - Interfaz ROG Armoury para personalizar los botones, rendimiento e iluminación
+- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
 - Zócalos intercambiables para personalizar la resistencia al clic de los botones
 - Chasis de magnesio muy resistente
 
