@@ -28,12 +28,12 @@ Ahora mismo tienes [Amazon - Tablet Fire HD 8  pantalla HD de 8 pulgadas  32 GB 
 
 🔎:
 
-- Con Amazon Prime puedes acceder a Prime Video, Prime Music y Prime Reading en el tablet Fire.
 - Pantalla HD de 8 pulgadas, el doble de almacenamiento (32 o 64 GB de almacenamiento interno y hasta 1 TB con tarjeta microSD) y 2 GB de RAM.
-- Presentamos el modo juegos: disfruta de los juegos con una funcionalidad optimizada sin distracciones.
-- INFORMACIÓN IMPORTANTE: Google Play Store no está disponible. Es posible que algunas aplicaciones no estén disponibles.
 - Ahora viene con USB Tipo C para que te resulte más fácil cargarlo. La batería se carga por completo en menos de 5 horas (con el cable y adaptador de corriente incluidos).
-- Un 30 % más rápido gracias al nuevo procesador Quad-Core de 2,0 GHz.
 - Hasta 12 horas para leer, navegar por Internet, ver vídeos y escuchar música.
+- Presentamos el modo juegos: disfruta de los juegos con una funcionalidad optimizada sin distracciones.
+- Con Amazon Prime puedes acceder a Prime Video, Prime Music y Prime Reading en el tablet Fire.
+- Un 30 % más rápido gracias al nuevo procesador Quad-Core de 2,0 GHz.
+- INFORMACIÓN IMPORTANTE: Google Play Store no está disponible. Es posible que algunas aplicaciones no estén disponibles.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WGJLSS2/?tag=tolees-21)

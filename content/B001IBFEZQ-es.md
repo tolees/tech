@@ -28,8 +28,8 @@ Está [STANLEY 1-93-968 - Taller móvil para herramientas 2 en 1  47 x 29.7 x 62
 
 ℹ️:
 
-- Con agarraderas
 - Caja con tapa de bisagra
+- Con agarraderas
 - Con unas medidas de 47.3 x 30.2 x 62,7 cm
 - Hecha de material de plástico
 
