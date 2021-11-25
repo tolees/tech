@@ -28,10 +28,10 @@ Tienes [1mii [Nuevo] Adaptador Bluetooth 5.0 USB Dongle Bluetooth para PC Compat
 
 🔎:
 
-- 【USB Bluetooth 5.0 para PC】Enchufe 1Mii adaptador USB Bluetooth a su PC que no tiene Bluetooth, ya su PC puede conectar con teclado& ratón Bluetooth (NO dispositivos 2.4G), impresoras BT, altavoces/ auriculares Bluetooth y otros BLE (Bluetooth de bajo consumo). ***Nota: NO es compatible con mando Xbox, Nintendo, TV, Mac ni sistema estéreo del auto.
-- 【Amplia Compatibilidad】Al conectar el dongle Bluetooth 5.0 a su portátil o escritorio, puede emparejar con auriculares BT, teclado, mouse, altavoz BT, móvil, incluso impresora Bluetooth... hasta 7 dispositivos al mismo tiempo.
 - 【Streaming Audio】Con 1Mii Adaptador Bluetooth su portátil u ordenador fijo se puede realizar una reproducción de música inalámbrica a sus auriculares Bluetooth o altavoces Bluetooth. Soporta audio de calidad de 16 bits/ 44,1 khz a través de Bluetooth. Experimentará un sonido estéreo de mejor calidad.
+- 【USB Bluetooth 5.0 para PC】Enchufe 1Mii adaptador USB Bluetooth a su PC que no tiene Bluetooth, ya su PC puede conectar con teclado& ratón Bluetooth (NO dispositivos 2.4G), impresoras BT, altavoces/ auriculares Bluetooth y otros BLE (Bluetooth de bajo consumo). ***Nota: NO es compatible con mando Xbox, Nintendo, TV, Mac ni sistema estéreo del auto.
 - 【Transferencia Inalámbrica】 Gracias a este Bluetooth USB dongle compacto y ligero, se realizará una transferencia de archivo o audios desde su PC/ portátil a su tablet o móvil sin necesidad de cables.
+- 【Amplia Compatibilidad】Al conectar el dongle Bluetooth 5.0 a su portátil o escritorio, puede emparejar con auriculares BT, teclado, mouse, altavoz BT, móvil, incluso impresora Bluetooth... hasta 7 dispositivos al mismo tiempo.
 - 【Sistema Operativo Windows 10/8/7】Compatible con PC de sistema operativo Winows10/ 8 /8.1/ 7 / 32bit /64bit. Antes de usarlo, tiene que instalar el driver en CD incluido. O descargue el driver en 1mii.com/download-2/
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YV4WR74/?tag=tolees-21)

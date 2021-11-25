@@ -28,8 +28,8 @@ En este momento está [Huawei - Auriculares AM61 color negro](https://www.amazon
 
 🔎:
 
-- Diseño para el oído con almohadillas tipo aleta de tiburón
 - Diseño magnético para fácil portabilidad
+- Diseño para el oído con almohadillas tipo aleta de tiburón
 - Auriculares Bluetooth con micrófono y botón de control, color negro
 - Audio estéreo con graves profundos
 
