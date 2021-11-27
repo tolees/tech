@@ -28,11 +28,11 @@ Ahora mismo tienes [ASUS VivoBook 14 X413JA-EB593 - Portátil  Full HD  Core i7-
 
 🔎:
 
-- Memoria RAM de 16GB SO-DIMM DDR4
 - Sin Sistema Operativo
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Procesador Intel Core i7-1065G7 (4C/QuadCore 1.3 / 3.9GHz, 8MB)
+- Memoria RAM de 16GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Plus Graphics
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Procesador Intel Core i7-1065G7 (4C/QuadCore 1.3 / 3.9GHz, 8MB)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0987RQWMN/?tag=tolees-21)

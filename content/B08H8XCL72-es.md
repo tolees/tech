@@ -28,9 +28,9 @@ Ahora mismo tienes [Auricular Gaming KROM KAYN -NXKROMKAYN - Sonido Stereo  Alta
 
 🔎:
 
-- *Compatibilidad XBOX ONE: Todo auricular con conexión jack es compatible, pero es necesario un adaptador de audio no incluido.
-- Compatible con tablets, smartphones, Nintendo Switch, PS4, PS5, PC/Mac
 - Diadema ajustable y ligera/ Controlador de volumen y micrófono en el auricular
+- Compatible con tablets, smartphones, Nintendo Switch, PS4, PS5, PC/Mac
+- *Compatibilidad XBOX ONE: Todo auricular con conexión jack es compatible, pero es necesario un adaptador de audio no incluido.
 - Almohadillas ultra suaves para largas sesiones de juegos
 - Altavoces de 50 mm de gran calidad de sonido
 
