@@ -28,12 +28,12 @@ Está [Lenovo IdeaPad Gaming 3 - Ordenador Portátil Gaming 15.6" FullHD  Intel 
 
 ℹ️:
 
+- Sin sistema operativo
 - Pantalla de 15.6" FullHD 1920 x 1080 píxeles, 60Hz, IPS, 250nits, Anti-glare
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo; el reembolso está limitado a 1000 para portátiles y 300 para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3 x 4 NVMe
 - Procesador Intel Core i7-10750H 6C / 12T, 2.6 / 5.0GHz, 12MB
 - Memoria RAM de 2 x 8GB SO-DIMM DDR4-2933
-- Sin sistema operativo
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TPG66ZC/?tag=tolees-21)

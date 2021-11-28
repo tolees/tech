@@ -28,13 +28,13 @@ Está [Amazon - Echo Show 8  1.ª gen  2019   Tela de color antracita + Blink Mi
 
 ℹ️:
 
-- Alexa tiene mucho que mostrarte: con una pantalla HD de 8 pulgadas y sonido estéreo, Alexa te ayuda a organizar tu día con un solo vistazo.
-- “Alexa, muéstrame la cámara del salón”. Este lote incluye un Echo Show 8 y una Blink Mini: todo lo que necesitas para añadir seguridad inteligente a tu hogar.
 - Diviértete: pídele a Alexa series, películas o las noticias, o escucha emisoras de radio y podcasts.
-- Videollamadas y mensajes: conecta con familiares y amigos que tengan la app Alexa o un dispositivo Echo con pantalla. Envía comunicados a otros dispositivos Echo de tu hogar.
-- Recibe alertas sobre eventos importantes directamente en tu teléfono móvil cada vez que se detecte un movimiento o personaliza las zonas de detección de movimiento para ver lo que más te interesa.
-- Se configura en minutos: tan solo tienes que enchufar la cámara, conectarla a la red wifi y añadirla a la app Blink Home Monitor.
 - Cámara de seguridad con cable, para interiores y con resolución HD 1080p, detección de movimiento y audio bidireccional que te permite vigilar tu hogar de día y de noche.
+- Se configura en minutos: tan solo tienes que enchufar la cámara, conectarla a la red wifi y añadirla a la app Blink Home Monitor.
+- Videollamadas y mensajes: conecta con familiares y amigos que tengan la app Alexa o un dispositivo Echo con pantalla. Envía comunicados a otros dispositivos Echo de tu hogar.
+- “Alexa, muéstrame la cámara del salón”. Este lote incluye un Echo Show 8 y una Blink Mini: todo lo que necesitas para añadir seguridad inteligente a tu hogar.
+- Alexa tiene mucho que mostrarte: con una pantalla HD de 8 pulgadas y sonido estéreo, Alexa te ayuda a organizar tu día con un solo vistazo.
+- Recibe alertas sobre eventos importantes directamente en tu teléfono móvil cada vez que se detecte un movimiento o personaliza las zonas de detección de movimiento para ver lo que más te interesa.
 - Ve, escucha y habla a las personas y mascotas que estén en tu hogar desde tu teléfono móvil con el vídeo en directo y el audio bidireccional (el vídeo en directo no es continuo).
 - Controla tus dispositivos de Hogar digital: controla con la voz o con la práctica pantalla dispositivos compatibles. Pídele a Alexa que te muestre el vídeo de las cámaras de seguridad, que controle las luces y que regule los termostatos.
 
