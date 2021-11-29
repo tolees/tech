@@ -28,8 +28,8 @@ Ahora mismo tienes [Tellur Vox 50 - Auriculares Bluetooth  Color Negro](https://
 
 🔎:
 
+- La tecnología multipoint permite la conexión simultánea con dos smartphones
 - El micrófono con cancelación de ruido reduce el ruido de fondo y te ofrece una clara conversación inalámbrica
 - Emparejamiento fácil y rápido con smartphones, tabletas y otros dispositivos habilitados para bluetooth
-- La tecnología multipoint permite la conexión simultánea con dos smartphones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZQMRVM2/?tag=tolees-21)

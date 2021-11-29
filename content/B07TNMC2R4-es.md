@@ -31,8 +31,8 @@ Tienes [ASUS PRIME X570-PRO - Placa base ATX AMD AM4 con PCIe Gen. 4  dos M.2  H
 - Solución de alimentación optimizada: componentes de alta gama con una eficiencia energética superior
 - ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
 - Asus optimem: circuito de memoria optimizado para preservar la integridad de la señal y potencía r el rango de overclocking
-- Conectividad de próxima generación: soporta pcie gen. 4, dos m.2, usb 3.2 gen 2 y conector de panel frontal
 - Asus 5 way optimization: ajusta todo el sistema con un solo clic, con perfiles de overclocking y refrigeración optimizados para tareas intensivas de la cpu y gpu
 - Opciones de refrigeración líderes: controles completos de ventiladores y dos bombas de agua desde fan xpert 4 y nuestro aclamado uefi
+- Conectividad de próxima generación: soporta pcie gen. 4, dos m.2, usb 3.2 gen 2 y conector de panel frontal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TNMC2R4/?tag=tolees-21)
