@@ -28,11 +28,11 @@ Tienes [ASUS VivoBook S14 S433EA-AM464 - Portátil 14" Full HD  Intel Core i5-11
 
 🔎:
 
-- Sin Sistema Operativo
-- Memoria RAM de 8GB SO-DIMM DDR4 3200MHz
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
+- Memoria RAM de 8GB SO-DIMM DDR4 3200MHz
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Sin Sistema Operativo
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BZ5MZ9H/?tag=tolees-21)
