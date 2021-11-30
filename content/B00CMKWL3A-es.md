@@ -29,8 +29,8 @@ En este momento está [Western Digital WDBGLG0020HBK-EESN - Disco Duro Externo 3
 🔎:
 
 - Conexión USB 3.0
-- Velocidad de rotación de 5400 revoluciones por minuto
 - Aparatos compatibles: Panasonic, Toshiba, Sharp, Sony, Samsung, Mitsubishi, Orion, Hitachi Wooo, LG, Philips
+- Velocidad de rotación de 5400 revoluciones por minuto
 - Capacidad de almacenamiento de 2 TB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CMKWL3A/?tag=tolees-21)
