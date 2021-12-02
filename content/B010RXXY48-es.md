@@ -28,8 +28,8 @@ En este momento está [TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de r
 
 🔎:
 
-- TRES ANTENAS EXTERNAS
 - WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
+- TRES ANTENAS EXTERNAS
 - PUERTO GIGABIT ETHERNET
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21)
