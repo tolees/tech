@@ -28,9 +28,9 @@ Ahora mismo tienes [Logilink ID0018A - Teclado  Estándar  Alámbrico  USB  QWER
 
 🔎:
 
-- Diseño QWERTZ y tecnología Plug and Play
-- Teclado flexible, hecho de silicona
-- La idioma del teclado es alemán
 - Es resistente al agua y polvo
+- La idioma del teclado es alemán
+- Teclado flexible, hecho de silicona
+- Diseño QWERTZ y tecnología Plug and Play
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ARH2HKQ/?tag=tolees-21)
