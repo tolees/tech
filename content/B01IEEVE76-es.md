@@ -28,14 +28,14 @@ Está [iRobot Braava jet 240 Robot friegasuelos  Pulverizador de agua  Limpieza 
 
 ℹ️:
 
-- Adecuado para cocinas y baños ya que llega a lugares de difícil acceso, incluido debajo y en torno a los sanitarios, esquinas y debajo de los armarios
-- Fabricamos robots duraderos y respaldados por nuestro servicio postventa, cuya calidad ha recibido el premio al mejor servicio de atención al cliente en aspiración* del año 2021; *205 contactos de Mystery Shopper mediante canales a distancia y 2.000 entrevistas online; Trabajo de campo realizado entre mayo y septiembre 2020
 - Pulverizador de chorro a presión: El pulverizador de chorro a presión despega la suciedad y las manchas* sin alcanzar los muebles, las alfombras ni las paredes
-- iRobot tiene más de 30 años de experiencia en robótica e innovación con más de 30 millones de robots para el hogar vendidos en todo el mundo; Tanto si eliges Roomba, Braava o ambos, tus suelos recibirán el cuidado especializado que merecen
-- * Probado en modo de fregado en húmedo sobre café y refresco secos
 - Robot friegasuelos 3 en 1: Elige el paño que desees según si quieres fregar en profundidad, pasar la mopa en húmedo o pasar la mopa en seco; Braava jet selecciona automáticamente el modo de limpieza adecuado en función del tipo de paño colocado
+- iRobot tiene más de 30 años de experiencia en robótica e innovación con más de 30 millones de robots para el hogar vendidos en todo el mundo; Tanto si eliges Roomba, Braava o ambos, tus suelos recibirán el cuidado especializado que merecen
 - Llega a los lugares más difíciles: Su tamaño compacto y su diseño maximizado para bordes y esquinas ayudan a Braava jet a limpiar lugares de difícil acceso, incluidas esquinas y debajo de muebles y sanitarios
-- Un, dos, tres y listo: Coloca un paño de limpieza Braava jet, añade agua y pulsa CLEAN
+- Adecuado para cocinas y baños ya que llega a lugares de difícil acceso, incluido debajo y en torno a los sanitarios, esquinas y debajo de los armarios
 - Cabezal de limpieza vibratorio: El cabezal de limpieza vibratorio frota suavemente hacia delante y hacia atrás como lo harías tú para acabar con la suciedad más adherida
+- * Probado en modo de fregado en húmedo sobre café y refresco secos
+- Fabricamos robots duraderos y respaldados por nuestro servicio postventa, cuya calidad ha recibido el premio al mejor servicio de atención al cliente en aspiración* del año 2021; *205 contactos de Mystery Shopper mediante canales a distancia y 2.000 entrevistas online; Trabajo de campo realizado entre mayo y septiembre 2020
+- Un, dos, tres y listo: Coloca un paño de limpieza Braava jet, añade agua y pulsa CLEAN
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IEEVE76/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [iRobot Braava jet 240 - Robot Fregasuelos y Mopa con Pulveri
 
 🔎:
 
-- Incluye: Robot Braava jet 240, con 6 paños desechables (2 para fregar, 2 para limpieza en húmedo y 2 en seco), batería de litio, cargador de batería y manual de usuario; pack extra con 2 paños para fregar lavables
-- Todo tipo de suelos duros: diseñado con más de 25 años de experiencia en robótica e innovación para limpiar eficazmente todo tipo de suelos duros como parqué, laminado, baldosas o piedra, evitando alfombras
-- Paños desechables incluidos: con 6 paños desechables incluidos; 2 para fregar, 2 para barrer y limpiar en húmedo y 2 para limpiar en seco como una mopa; pack especial con 2 paños extra lavables (en lavadora) para fregar
-- Óptimo para cocinas y baños: se desplaza por toda la superficie gracias al sistema de navegación patentado iAdapt 2.0, en 25m2; tamaño compacto para limpiar en espacio difíciles, como debajo de armarios o sanitarios
 - Robot friegasuelos: friega y barre cada día y sin esfuerzo, con la marca de referencia en robots de limpieza para el hogar
+- Incluye: Robot Braava jet 240, con 6 paños desechables (2 para fregar, 2 para limpieza en húmedo y 2 en seco), batería de litio, cargador de batería y manual de usuario; pack extra con 2 paños para fregar lavables
+- Óptimo para cocinas y baños: se desplaza por toda la superficie gracias al sistema de navegación patentado iAdapt 2.0, en 25m2; tamaño compacto para limpiar en espacio difíciles, como debajo de armarios o sanitarios
+- Todo tipo de suelos duros: diseñado con más de 25 años de experiencia en robótica e innovación para limpiar eficazmente todo tipo de suelos duros como parqué, laminado, baldosas o piedra, evitando alfombras
 - Con 3 modos de limpieza, según el paño escogido: friega y deshace las manchas con el pulverizador de agua y el cabezal vibratorio; barre y limpia en húmedo la suciedad; mopa en seco para atrapar polvo y pelos
+- Paños desechables incluidos: con 6 paños desechables incluidos; 2 para fregar, 2 para barrer y limpiar en húmedo y 2 para limpiar en seco como una mopa; pack especial con 2 paños extra lavables (en lavadora) para fregar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CN6QNN7/?tag=tolees-21)

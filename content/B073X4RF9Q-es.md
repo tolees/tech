@@ -28,10 +28,10 @@ Tienes [PDP - Joycon Pro Player Grips  Nintendo Switch ](https://www.amazon.es/d
 
 🔎:
 
-- Pantalla iluminada desde los bordes para la base de Nintendo Switch.
-- Cuenta con múltiples paneles para personalizar la base.
 - Controles sencillos.
-- Múltiples configuraciones y efectos de iluminación de color.
 - con licencia oficial de Nintendo.
+- Pantalla iluminada desde los bordes para la base de Nintendo Switch.
+- Múltiples configuraciones y efectos de iluminación de color.
+- Cuenta con múltiples paneles para personalizar la base.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073X4RF9Q/?tag=tolees-21)

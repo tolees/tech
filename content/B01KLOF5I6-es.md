@@ -28,11 +28,11 @@ Está [SanDisk Extreme Plus - Tarjeta de memoria SDHC de 32 GB  hasta 90 MB/s  C
 
 ℹ️:
 
+- Disponible en capacidades que van de 16 GB a 64 GB para grabar vídeos más largos y hacer sesiones fotográficas ininterrumpidas
 - Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
 - Velocidades de escritura de hasta 60 MB/s para un rendimiento rápido de disparo a disparo y hasta 90 MB/s para una transferencia más rápida
-- Disponible en capacidades que van de 16 GB a 64 GB para grabar vídeos más largos y hacer sesiones fotográficas ininterrumpidas
-- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
 - Velocidades extremas para fotografía en modo ráfaga, transferencias rápidas y 4K UHD
+- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
 - El estándar UHS Video Speed Class 30 (V30) significa que su tarjeta está lista para los nuevos avances en materia de realidad virtual y grabación de vídeo en 360°
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KLOF5I6/?tag=tolees-21)
