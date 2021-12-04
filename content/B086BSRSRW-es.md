@@ -28,9 +28,9 @@ Está [Hisense 40AE5000F - TV  Resolución Full HD  FHD TV 2020  Natural Color E
 
 ℹ️:
 
+- Resolución Full HD
 - Sonido Dolby Audio
 - Puertos: 2x HDMI, 1x USB, 1x Salida auriculares, 1x AV, 1x RJ-45
-- Resolución Full HD
 - Tecnologías Natural Colour Enhancer y Noise Reduction
 - Diseño doble peana, marcos reducidos, compatible VESA 100x200
 
