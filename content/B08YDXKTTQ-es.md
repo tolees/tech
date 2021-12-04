@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB13 - Altavoz Bluetooth Compac con un 34.91 % de descuento'
-date: 2021-12-03 21:05:58
+date: 2021-12-04 21:16:55
 image: 'https://m.media-amazon.com/images/I/21icbaM-HnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08YDXKTTQ/?tag=tolees-21'
 descuento: '34.91'
-average: '40.88'
+average: '40.25'
 ---
 
 En este momento está [Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Amarillo Lima](https://www.amazon.es/dp/B08YDXKTTQ/?tag=tolees-21) a 38.99 EUR (original: 59.9 EUR) (34.91 %  de descuento) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Po
 🔎:
 
 - El SRS-XB13 es compacto, ligero y fácil de transportar, y cuenta con una cómoda correa desmontable para llevar o colgar tu altavoz inalámbrico donde quieras; disponible en 6 divertidos colores
-- Potencia (W): 5.0 watts
 - Llévalo a cualquier parte sin preocupaciones; este altavoz portátil es resistente al agua y al polvo (IP67) y tiene hasta 16 horas de autonomía
-- Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
-- Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
+- Potencia (W): 5.0 watts
 - Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
+- Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
+- Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YDXKTTQ/?tag=tolees-21)
