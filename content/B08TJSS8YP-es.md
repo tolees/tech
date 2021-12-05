@@ -28,8 +28,8 @@ En este momento está [Playstation - Returnal](https://www.amazon.es/dp/B08TJSS8
 
 🔎:
 
-- Texto y voces en Castellano
 - Compatible con PS5
+- Texto y voces en Castellano
 - De desarrollador Housemarque
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21)
