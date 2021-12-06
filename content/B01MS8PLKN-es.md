@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Portege X20W-D-10P - Ordenador p con un 19.60 % de descuento'
-date: 2021-12-04 22:50:36
+date: 2021-12-06 00:26:22
 image: 'https://m.media-amazon.com/images/I/41849Fqh2LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Toshiba'
 buyurl: 'https://www.amazon.es/dp/B01MS8PLKN/?tag=tolees-21'
 descuento: '19.60'
-average: '1347.09695652175'
+average: '1353.58166666668'
 ---
 
 En este momento está [Toshiba Portege X20W-D-10P - Ordenador portátil táctil de 12.5" Full HD  Intel Core i7-7500U  8 GB  256 GB SSD  Intel HD Graphics 620  Windows 10 Pro  - Teclado QWERTY Español](https://www.amazon.es/dp/B01MS8PLKN/?tag=tolees-21) a 1502.73 EUR (original: 1869.0 EUR) (19.60 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Toshiba Portege X20W-D-10P - Ordenador portátil táctil 
 
 🔎:
 
-- Pantalla 12,5 " (31,8 cm) Full HD Mate Táctil
-- Tarjeta gráfica Intel HD Graphics 620 y Windows 10 Pro 64 Bits
 - Disco duro 256 GB SSD M.2 SATA
 - Procesador Intel Core i7-7500U 15W 2.70/3.50 GHz
+- Tarjeta gráfica Intel HD Graphics 620 y Windows 10 Pro 64 Bits
+- Pantalla 12,5 " (31,8 cm) Full HD Mate Táctil
 - Memoria RAM 8GB (OnBoard)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MS8PLKN/?tag=tolees-21)
