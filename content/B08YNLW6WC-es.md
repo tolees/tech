@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Optix G272 - Monitor de 27" FullHD 1 al 27.00 % de descuento'
-date: 2021-12-05 18:32:03
+date: 2021-12-06 19:09:53
 image: 'https://m.media-amazon.com/images/I/41gRdHVdbcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08YNLW6WC/?tag=tolees-21'
 descuento: '27.00'
-average: '228.398461538462'
+average: '227.727142857143'
 ---
 
 Está [MSI Optix G272 - Monitor de 27" FullHD 144Hz  1920x1080p  ratio 16:9  Panel IPS  1 ms respuesta  brillo 250 nits  Anti-glare  negro  compatible con consolas](https://www.amazon.es/dp/B08YNLW6WC/?tag=tolees-21) con 27.00 de descuento por 219.0 EUR (original: 299.99 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [MSI Optix G272 - Monitor de 27" FullHD 144Hz  1920x1080p  ratio 16:9  Pan
 ℹ️:
 
 - Frecuencia de actualización de 144 Hz: responda más rápido con cuadros más suaves. Tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de cuadro entrecortadas.
-- Compatible con NVIDIA G-Sync: evita que la pantalla se rompa o tartamudee, lo que produce un juego ultra suave y sin demoras.
-- Ajustes de altura: No Inclinable: Si. Ángulo de inclinación: -5 - 20°. Montaje VESA: Si
-- Antiparpadeo y menos luz azul: juegue aún más y evite la fatiga visual y la fatiga.
 - Resolución de la pantalla FullHD: 1920 x 1080 Pixeles. Brillo de la pantalla (típico): 250 cd / m².Pantalla IPS – Optimiza los colores y el brillo de la pantalla para mejorar tu experiencia visual
+- Antiparpadeo y menos luz azul: juegue aún más y evite la fatiga visual y la fatiga.
+- Ajustes de altura: No Inclinable: Si. Ángulo de inclinación: -5 - 20°. Montaje VESA: Si
+- Compatible con NVIDIA G-Sync: evita que la pantalla se rompa o tartamudee, lo que produce un juego ultra suave y sin demoras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YNLW6WC/?tag=tolees-21)
