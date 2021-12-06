@@ -28,10 +28,10 @@ En este momento está [Reolink Go Camara Solar 3G/4G LTE Exterior con Batería R
 
 🔎:
 
-- Funciona con Tarjeta SIM: no es compatible con LAN o WiFi. Reolink Go es compatible con Vodafone (SOLO tarjeta SIM prepago) , Hits Mobile, Simyo, Orange en España. (Esta cámara Reolink Go no es compatible con ningún onvif o NVR de terceros)
 - Alimentada por Batería Recargable o Energía Solar: Batería recargable incorporada, Reolink Go puede agregar el panel solar Reolink (NO Incluido) para obtener una energía continuación y ecológica. No es necesario quitar y cargar la batería con frecuencia.
-- Conectividad Móvil LTE: esta cámara de seguridad celular móvil 100% sin cables funciona en redes 4G-LTE o 3G insertando una tarjeta SIM (no incluida), para que pueda acceder a cámara en cualquier momento y lugar. Sin necesidad de WiFi. Es ideal para su uso en lugares exteriores e interiores sin cobertura wifi.
 - Detector de Movimiento PIR: Cuanto se detecta movimiento, la cámara IP graba los videos localmente en la tarjeta microSD (no incluida) y le informa en tiempo real vía notificaciones push, correos electrónicos y sirena (admite voz personalizada). Gracias al sensor PIR, las falsas alarmas se reducen efectivamente como desee
+- Funciona con Tarjeta SIM: no es compatible con LAN o WiFi. Reolink Go es compatible con Vodafone (SOLO tarjeta SIM prepago) , Hits Mobile, Simyo, Orange en España. (Esta cámara Reolink Go no es compatible con ningún onvif o NVR de terceros)
+- Conectividad Móvil LTE: esta cámara de seguridad celular móvil 100% sin cables funciona en redes 4G-LTE o 3G insertando una tarjeta SIM (no incluida), para que pueda acceder a cámara en cualquier momento y lugar. Sin necesidad de WiFi. Es ideal para su uso en lugares exteriores e interiores sin cobertura wifi.
 - Full HD 1080p y Visión Nocturna Starlight: Visualice detalles increíbles gracias a la nitidez de su resolución Full HD 1080P. Gracias a su amplio campo de visión y visión nocturna de 33 pies, no perderá detalle, incluso en la oscuridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JFWRHN3/?tag=tolees-21)

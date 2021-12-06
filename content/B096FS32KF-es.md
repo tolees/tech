@@ -28,11 +28,11 @@ Ahora mismo tienes [Nokia G10 - Smartphone de 6.5 Pulgadas  WiFi 802.11 b/g/n/AC
 
 🔎:
 
-- Cámara HDR y Lowlight (Multi Frame Denoise) compatibilidad con AER, Widevine L1 DRM
-- Experiencia Android R, botón Asistente de Google, AR de Google, desbloqueo facial
-- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD
-- Sensor de luz ambiental, sensor de proximidad, acelerómetro (G sensor)
 - Batería de 5050mAh de larga duración
 - Conectividad: WiFi 802.11 b/g/n, BT 5.0, AGPS/GLONASS/Beidou
+- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD
+- Experiencia Android R, botón Asistente de Google, AR de Google, desbloqueo facial
+- Cámara HDR y Lowlight (Multi Frame Denoise) compatibilidad con AER, Widevine L1 DRM
+- Sensor de luz ambiental, sensor de proximidad, acelerómetro (G sensor)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096FS32KF/?tag=tolees-21)
