@@ -28,10 +28,10 @@ Ahora mismo tienes [LG 27GL650F-B - Monitor Gaming FHD de 69 cm  27"  con Panel 
 
 🔎:
 
-- 1ms de velocidad de respuesta gracias a la tecnología motion blur reduction
 - Interacción en tiempo real y sin retrasos gracias a dynamic action sync (das mode)
 - Tecnología radeon freesync 2 para disfrutar la acción sin parpadeos incluso a bajos fps gracias al lfc
 - Juega fluido con una frecuencia de actualización de 144hz
 - Colores vivos y mejor contraste con hdr10
+- 1ms de velocidad de respuesta gracias a la tecnología motion blur reduction
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QDNHCJY/?tag=tolees-21)
