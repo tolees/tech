@@ -28,9 +28,9 @@ Tienes [Nitropc NK10 Teclado Gaming Mecánico  Teclas Retroiluminadas  Optomecá
 
 ℹ️:
 
+- Tasa de sondeo/refresco: 1000Hz. / Seis perfiles preestablecidos y posibilidad de perfil personalizado.
 - Tecnología de pulsación: Óptico-mecánica de doble inyección. / 30% más rápido que un teclado mecánico.
 - Óptico-Mecánico / 100% a prueba de salpicaduras / 19 tipos de animación
-- Tasa de sondeo/refresco: 1000Hz. / Seis perfiles preestablecidos y posibilidad de perfil personalizado.
 - Vida útil: 80 millones de pulsaciones. / Iluminación RGB multicolor para cada tecla.
 - Teclas Anti-Ghosting. / Switches blue (teclas) reemplazables.
 
