@@ -28,13 +28,13 @@ Ahora mismo tienes [Microsoft Surface Book 3 - Ordenador portátil Convertible 2
 
 🔎:
 
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Procesador Quad-core 10ª Gen Intel Core i5-1035G7 (4 núcleos, 6 MB Cache, 1.30 GHz hasta 3.90 GHz)
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
+- Correo electrónico, calendarios y tareas: Outlook
+- Pantalla táctil PixelSense de 13.5 pulgadas, 3000x2000 pixels
+- Procesador Quad-core 10ª Gen Intel Core i5-1035G7 (4 núcleos, 6 MB Cache, 1.30 GHz hasta 3.90 GHz)
+- Disco duro solido de 256 GB
 - Memoria RAM de 8 GB LPDDR4
 - Seguridad avanzada para correo electrónico y archivos
-- Pantalla táctil PixelSense de 13.5 pulgadas, 3000x2000 pixels
-- Correo electrónico, calendarios y tareas: Outlook
-- Disco duro solido de 256 GB
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G9DYM7T/?tag=tolees-21)

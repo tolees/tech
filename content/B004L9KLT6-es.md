@@ -28,10 +28,10 @@ Está [Blue Microphones Yeti - Micrófono USB para grabación y streaming en PC 
 
 ℹ️:
 
-- Conexión USB y xlr; yeti pro es un micrófono USB también dotado de un cable multiconector xlr doble, por lo que puede conectarse a mezcladores de audio, preamplificadores de gama alta y otros equipos de estudio
-- Los controles de estudio para el volumen de los auriculares, la selección de patrones, el silenciamiento instantáneo y la ganancia del micrófono ponen en tus manos el proceso de grabación y streaming
-- Supervisión de auriculares sin latencia; conecta los auriculares directamente a yeti pro para supervisar en tiempo real tu voz o un instrumento y asegurarte de que suenan lo mejor posible
-- Conjunto de tres cápsulas especiales, produce un sonido claro, potente y con calidad de difusión para youtube, streaming de juegos, podcasting, llamadas de skype y música
 - Resolución superior, la conversión ad premium de blue ofrece una resolución superior de 24.bits/192.khz para grabar y hacer streaming directamente en el ordenador, con cuatro veces más detalles que un cd
+- Los controles de estudio para el volumen de los auriculares, la selección de patrones, el silenciamiento instantáneo y la ganancia del micrófono ponen en tus manos el proceso de grabación y streaming
+- Conjunto de tres cápsulas especiales, produce un sonido claro, potente y con calidad de difusión para youtube, streaming de juegos, podcasting, llamadas de skype y música
+- Conexión USB y xlr; yeti pro es un micrófono USB también dotado de un cable multiconector xlr doble, por lo que puede conectarse a mezcladores de audio, preamplificadores de gama alta y otros equipos de estudio
+- Supervisión de auriculares sin latencia; conecta los auriculares directamente a yeti pro para supervisar en tiempo real tu voz o un instrumento y asegurarte de que suenan lo mejor posible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004L9KLT6/?tag=tolees-21)
