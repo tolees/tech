@@ -28,7 +28,7 @@ Tienes [Yealink Adaptador Bluetooth USB Dongle BT41](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Tipo de dispositivo: adaptador Bluetooth.
 - Forma / interfaz: Módulo de ampliación.
+- Tipo de dispositivo: adaptador Bluetooth.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RTYJ6N9/?tag=tolees-21)
