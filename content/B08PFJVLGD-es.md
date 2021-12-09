@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Chromebook X360 14a-ca0003ns - Ordena con un 19.19 % de descuento'
-date: 2021-12-08 07:44:57
+date: 2021-12-09 08:07:13
 image: 'https://m.media-amazon.com/images/I/51XYGfLACnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFJVLGD/?tag=tolees-21'
 descuento: '19.19'
-average: '294.634444444444'
+average: '295.071'
 ---
 
 En este momento está [HP Chromebook X360 14a-ca0003ns - Ordenador portátil de 14" FullHD Convertible táctil  Celeron N4020  4GB RAM  64GB Emmc  Gráficos Intel UHD  Chrome OS   Plata - teclado QWERTY Español](https://www.amazon.es/dp/B08PFJVLGD/?tag=tolees-21) a 299.0 EUR (original: 369.99 EUR) (19.19 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [HP Chromebook X360 14a-ca0003ns - Ordenador portátil de 
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD 600
-- Memoria RAM de 4 GB LPDDR4-3733 MHz
 - Almacenamiento de 64 GB eMMC
-- Sistema Operativo Chrome OS
+- Tarjeta gráfica integrada Intel UHD 600
 - Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
 - Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
+- Memoria RAM de 4 GB LPDDR4-3733 MHz
+- Sistema Operativo Chrome OS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PFJVLGD/?tag=tolees-21)
