@@ -29,9 +29,9 @@ Está [SmartThings Aeotec Cámara IP WiFi Cámara de Seguridad 1080p Resolución
 ℹ️:
 
 - Audio de 2 vías: escucha y habla en la habitación en tiempo real. Envía saludos, comandos o advertencias.
-- Imagen clara: gracias a la resolución Full HD de 1080p, cada grabación es lo más detallada posible.
-- Visibilidad nocturna avanzada: incluso por la noche, la cámara tiene un rango de visibilidad de hasta 10 metros.
 - Sensor de movimiento inteligente: tan pronto como se detecte movimiento en el área de visualización, la cámara sigue inmediatamente el objeto.
+- Imagen clara: gracias a la resolución Full HD de 1080p, cada grabación es lo más detallada posible.
 - Detección inteligente de personas: distingue objetos y mascotas de las personas, alertando solo en momentos de alto riesgo.
+- Visibilidad nocturna avanzada: incluso por la noche, la cámara tiene un rango de visibilidad de hasta 10 metros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RG61NK1/?tag=tolees-21)
