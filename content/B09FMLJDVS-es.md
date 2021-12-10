@@ -28,10 +28,10 @@ Tienes [Epic Games - Alan Wake Remastered Ps5](https://www.amazon.es/dp/B09FMLJD
 
 🔎:
 
-- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
 - Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
-- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
 - Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
+- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
+- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09FMLJDVS/?tag=tolees-21)

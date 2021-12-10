@@ -29,11 +29,11 @@ Ahora mismo tienes [D-Link DGS-1008P - Switch de 8 Puertos Gigabit Ethernet 10/1
 🔎:
 
 - Función de seguridad para evitar sobrecargas PoE y proteger tanto el Switch como los dispositivos PoE conectados
-- Funcionamiento Plug and Play
-- Tecnología Green Ethernet, que ahorra energía y prolonga la vida útil del producto
 - Quality of Service (QoS) para priorización de datos
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 54.94 euros
-- 8 puertos Gigabit a 10/100/1000 Mbps y 4 puertos PoE que soportan el estándar 802.3af/802.3at
 - Función de diagnóstico del cableado para ayudar en la solución de problemas relacionados con los cables
+- 8 puertos Gigabit a 10/100/1000 Mbps y 4 puertos PoE que soportan el estándar 802.3af/802.3at
+- Funcionamiento Plug and Play
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 54.94 euros
+- Tecnología Green Ethernet, que ahorra energía y prolonga la vida útil del producto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004FJSST2/?tag=tolees-21)
