@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundSport Free - Auriculares intra al 34.28 % de descuento'
+title: 'Bose SoundSport Free - Auriculares intraurales inalámbricos  Naranja  Bright Orange/Azul Marino '
 date: 2020-01-10 09:30:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2Bkuj58JL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.28'
 average: '140.7'
 ---
 
-Ahora mismo tienes [Bose SoundSport Free - Auriculares intraurales inalámbricos  Naranja  Bright Orange/Azul Marino ](https://www.amazon.es/dp/B076SDS2MD/?tag=tolees-21) a 131.4 EUR (original: 199.95 EUR) (34.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Bose SoundSport Free - Auriculares intra](https://images-eu.ssl-images-amazon.com/images/I/41r%2Bkuj58JL._SL400_.jpg)](https://www.amazon.es/dp/B076SDS2MD/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B076SDS2MD/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

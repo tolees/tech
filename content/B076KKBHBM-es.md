@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung M471A5244CB0-CRC - Memoria DRAM  al 16.63 % de descuento'
+title: 'Samsung M471A5244CB0-CRC - Memoria DRAM de 4 GB  1.2 V  ddr4  Color Verde Agua'
 date: 2020-01-05 08:39:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21nBT4q6PoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.63'
 average: '30.23'
 ---
 
-Está [Samsung M471A5244CB0-CRC - Memoria DRAM de 4 GB  1.2 V  ddr4  Color Verde Agua](https://www.amazon.es/dp/B076KKBHBM/?tag=tolees-21) con 16.63 de descuento por 30.23 EUR (original: 36.26 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Samsung M471A5244CB0-CRC - Memoria DRAM ](https://images-eu.ssl-images-amazon.com/images/I/21nBT4q6PoL._SL400_.jpg)](https://www.amazon.es/dp/B076KKBHBM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B076KKBHBM/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

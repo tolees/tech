@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust Gaming GXT 4130 Pitt - Ratón inalá al 17.40 % de rebaja'
+title: 'Trust Gaming GXT 4130 Pitt - Ratón inalámbrico de Gaming  Color Negro'
 date: 2020-01-02 11:05:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aRWJR04fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.40'
 average: '19.24'
 ---
 
-Tienes [Trust Gaming GXT 4130 Pitt - Ratón inalámbrico de Gaming  Color Negro](https://www.amazon.es/dp/B07G4QXP4L/?tag=tolees-21) con precio final de  18.99 EUR (original: 22.99 EUR) (17.40 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Trust Gaming GXT 4130 Pitt - Ratón inalá](https://images-eu.ssl-images-amazon.com/images/I/31aRWJR04fL._SL400_.jpg)](https://www.amazon.es/dp/B07G4QXP4L/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07G4QXP4L/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

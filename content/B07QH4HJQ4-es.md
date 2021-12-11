@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAYJOY Funda Xiaomi Redmi Note 6 Pro  Li al 27.30 % de rebaja'
+title: 'LAYJOY Funda Xiaomi Redmi Note 6 Pro  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover Caso para Xiaomi Redmi Note 6 Pro  2018  6.26" -Negro'
 date: 2019-12-31 20:43:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fvmPf6LBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.30'
 average: '7.99'
 ---
 
-Tienes [LAYJOY Funda Xiaomi Redmi Note 6 Pro  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover Caso para Xiaomi Redmi Note 6 Pro  2018  6.26" -Negro](https://www.amazon.es/dp/B07QH4HJQ4/?tag=tolees-21) con precio final de  7.99 EUR (original: 10.99 EUR) (27.30 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![LAYJOY Funda Xiaomi Redmi Note 6 Pro  Li](https://images-eu.ssl-images-amazon.com/images/I/41fvmPf6LBL._SL400_.jpg)](https://www.amazon.es/dp/B07QH4HJQ4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07QH4HJQ4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

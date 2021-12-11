@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo UltraDock - Base de conexión para al 34.13 % de descuento'
+title: 'Lenovo UltraDock - Base de conexión para Tablet  Negro'
 date: 2020-01-09 02:39:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DQH22F1GL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.13'
 average: '143.22'
 ---
 
-Está [Lenovo UltraDock - Base de conexión para Tablet  Negro](https://www.amazon.es/dp/B00FC1V61E/?tag=tolees-21) con 34.13 de descuento por 151.44 EUR (original: 229.9 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lenovo UltraDock - Base de conexión para](https://images-eu.ssl-images-amazon.com/images/I/41DQH22F1GL._SL400_.jpg)](https://www.amazon.es/dp/B00FC1V61E/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FC1V61E/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})
