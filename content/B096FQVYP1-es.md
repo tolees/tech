@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Android 11, botón Asistente de Google, AR de Google, desbloqueo facial
-- Conectividad: WiFi 802.11 b/g/n/ac + BT 5.0, GPS/AGPS/GLONASS/Galileo, NFC
-- Batería de 4470mAh de larga duración
-- Cámara con características que incluyen Zeiss Bokeh 2.0, efectos de cine Zeiss, EIS video, OZO cancelación de ruido envolvente y del viento, modo nocturno, APTX/APTX HD/APTX adaptable
 - Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD
+- Batería de 4470mAh de larga duración
+- Conectividad: WiFi 802.11 b/g/n/ac + BT 5.0, GPS/AGPS/GLONASS/Galileo, NFC
 - Sensor de luz ambiental, sensor de proximidad, acelerómetro (G sensor) giroscopio, NFC
+- Cámara con características que incluyen Zeiss Bokeh 2.0, efectos de cine Zeiss, EIS video, OZO cancelación de ruido envolvente y del viento, modo nocturno, APTX/APTX HD/APTX adaptable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
