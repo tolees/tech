@@ -28,11 +28,11 @@ Tienes [Nokia X10 - Smartphone de 6.67” FHD+  5G  1080x2400  6 GB de RAM  Memo
 
 ℹ️:
 
-- Cámara Doble Vista; Marcas de Agua; Mode Cine
-- Nokia design
-- Qualcomm Snapdragon 480 5G Mobile Platform
-- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.67 inches; Tipo de pantalla: LED; Ranuras de memoria disponibles: 1
 - 6.67" FHD+ (1080x2400) punch hole
+- Cámara Doble Vista; Marcas de Agua; Mode Cine
 - Sensor de Huella de Lado; Face Unlock
+- Qualcomm Snapdragon 480 5G Mobile Platform
+- Nokia design
+- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.67 inches; Tipo de pantalla: LED; Ranuras de memoria disponibles: 1
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B09BGB5BMM/?tag=tolees-21)
