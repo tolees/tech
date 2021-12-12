@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RZ01-03730100-R3G1
 - Recomendado para estilos de agarre de palma y yema de los dedos
+- RZ01-03730100-R3G1
 - Adecuado para manos de tamaño mediano a grande
 - Con una forma ergonómica
 
