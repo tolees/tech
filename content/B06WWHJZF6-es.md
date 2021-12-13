@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PORTÁTIL Y CÓMODO: Con el diseño simple y elegante, el repetidor es ligero, compacto y portátil. Y el LED indicador enseña las condiciones
-- AMPLIA COMPATIBILIDAD: Compatible con 99% de routers en el mercado. Se aplica a casa grande, oficina SOHO, sitios de negocios de tamaño pequeño
-- CONFIGURACIÓN RÁPIDA Y SENSILLA: Un botón de extensión, 3 pasos con configurar y interfaz de configuracuración rápida de Smartphone o tableta. Soporta SSID oculto
-- COBERTURAS SIN FISURAS: Auto-re-conexión a una señal WiFi más fuerte
 - 2 ATENAS OMINIDITECCIONALES: Atenas externas de 3dBi hace wifi más fuerte, más estable y más rápido. Amplifica la señal Realiza la wifi ubicua
+- COBERTURAS SIN FISURAS: Auto-re-conexión a una señal WiFi más fuerte
+- CONFIGURACIÓN RÁPIDA Y SENSILLA: Un botón de extensión, 3 pasos con configurar y interfaz de configuracuración rápida de Smartphone o tableta. Soporta SSID oculto
+- AMPLIA COMPATIBILIDAD: Compatible con 99% de routers en el mercado. Se aplica a casa grande, oficina SOHO, sitios de negocios de tamaño pequeño
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
