@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Correo electrónico, calendarios y tareas: Outlook
-- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
-- Ram de 16GB (3200MHz) DDR IV
 - Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Seguridad avanzada para correo electrónico y archivos
-- Intel Core i7-1165G7
+- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
+- Ram de 16GB (3200MHz) DDR IV
+- Intel Core i7-1165G7
+- Seguridad avanzada para correo electrónico y archivos
+- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
