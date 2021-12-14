@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MSBAX  Altavoz Bluetooth RGB  Compacto 10W  USB/MicroSD/Radio  Negro'
-date: 2021-12-13 04:46:58
+date: 2021-12-14 05:01:05
 image: 'https://m.media-amazon.com/images/I/51AA09bb6ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MARSGAMING'
 buyurl: 'https://www.amazon.es/dp/B08XXG2QV7/?tag=tolees-21'
 descuento: '42.21'
-average: '12.571851851852'
+average: '12.5839285714287'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
