@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Seguridad avanzada para correo electrónico y archivos
 - Almacenamiento 512GB SSD DDR4
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
+- Memoria RAM de 4GB (3200 MHz)
 - Correo electrónico, calendarios y tareas: Outlook
 - Pantalla de 15.6 , FullHD ‎1920 x 1080 pixeles
-- Memoria RAM de 4GB (3200 MHz)
 - Procesador Intel Core i7-1185G7 (4 núcleos, 12 MB Cache, 4.80 GHz)
+- Seguridad avanzada para correo electrónico y archivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
