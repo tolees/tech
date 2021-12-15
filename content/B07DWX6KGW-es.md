@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene Bluetooth 4.1
-- Radio FM incorporada
 - Sistema de carga: micro USB
 - 1 altavoz de 40 mm de rango completo
+- Tiene Bluetooth 4.1
 - Potencia: 5 W y respuesta en frecuencia: 100 Hz
+- Radio FM incorporada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Imprime a doble cara de forma automática documentos empresariales con resultados uniformes a una velocidad de hasta 40 ppm en negro y con una resolución de impresión de 1200 x 1200 ppp
+- Conectividad: Gigabit Ethernet, puerto impresión USB 2.0 alta velocidad, 1 host USB posterior, HP Smart App, HP ePrint App, Apple AirPrint y Mopria
 - La impresora tiene una bandeja de salida de 150 hojas y dos bandejas de entrada, la bandeja principal cuenta con una capacidad de hasta 250 hojas y la segunda de 100 hojas
 - Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados uniformes cómodamente desde tu móvil
+- Imprime a doble cara de forma automática documentos empresariales con resultados uniformes a una velocidad de hasta 40 ppm en negro y con una resolución de impresión de 1200 x 1200 ppp
 - Esta impresora es compatible con los cartuchos de tóner originales HP 59A Negro CF259A y HP 59X Negro de alta capacidad CF259X
-- Conectividad: Gigabit Ethernet, puerto impresión USB 2.0 alta velocidad, 1 host USB posterior, HP Smart App, HP ePrint App, Apple AirPrint y Mopria
 - Impresora con seguridad dinámica habilitada. Las impresoras equipadas con seguridad dinámica se han diseñado para funcionar solo con cartuchos con chips o circuitos electrónicos nuevos o reutilizados de HP. Las impresoras utilizan las medidas de seguridad dinámica para bloquear los cartuchos que tienen chips o circuitos electrónicos que no son de HP o que han sido modificados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

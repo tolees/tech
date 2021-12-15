@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de larga duración: la batería recargable con indicador de carga proporciona hasta 75 horas de sonido inalámbrico impecable
-- Listo para cualquier cosa: IPX4 resistente al agua - ¡perfecto para salir bajo la lluvia! Recinto de plástico resistente con mango telescópico, ruedas y dos asas de transporte
+- Sonido dinámico y potente: potente woofer robusto de 8 pulgadas y un tweeter de 3 pulgadas de amplia dispersión que ofrece un sonido profundo, potente y realista, además de 100 vatios de potencia dinámica que bombean el volumen
 - Sin Bluetooth? No hay problema: una entrada auxiliar de 1/8 pulg. (3.5mm) también se incluye para dispositivos que no son Bluetooth
 - Todo lo que necesita: conectividad Bluetooth Easy-Pair, radio AM / FM, micrófono de alta calidad, barra de luces para iluminación multicolor en condiciones de poca luz, más un puerto de carga USB para teléfonos inteligentes
-- Sonido dinámico y potente: potente woofer robusto de 8 pulgadas y un tweeter de 3 pulgadas de amplia dispersión que ofrece un sonido profundo, potente y realista, además de 100 vatios de potencia dinámica que bombean el volumen
+- Batería de larga duración: la batería recargable con indicador de carga proporciona hasta 75 horas de sonido inalámbrico impecable
+- Listo para cualquier cosa: IPX4 resistente al agua - ¡perfecto para salir bajo la lluvia! Recinto de plástico resistente con mango telescópico, ruedas y dos asas de transporte
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
