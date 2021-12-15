@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yealink Adaptador Bluetooth USB Dongle BT41'
-date: 2021-12-11 16:41:43
+date: 2021-12-15 05:06:18
 image: 'https://m.media-amazon.com/images/I/21rJ0pgmM1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yealink'
 buyurl: 'https://www.amazon.es/dp/B07RTYJ6N9/?tag=tolees-21'
 descuento: '23.48'
-average: '26.05'
+average: '26.0444444444444'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
