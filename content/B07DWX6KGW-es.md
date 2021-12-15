@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Music Box 1+ - Altavoz Portátil  Bluetooth v 4.1  5 W  microSD MP3  Radio FM  Audio-In  Color Verde  Pear '
-date: 2021-12-12 13:02:02
+date: 2021-12-15 11:48:59
 image: 'https://m.media-amazon.com/images/I/41EhRdJpv+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B07DWX6KGW/?tag=tolees-21'
 descuento: '40.00'
-average: '11.388'
+average: '11.18'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiene Bluetooth 4.1
 - Radio FM incorporada
 - Sistema de carga: micro USB
-- Potencia: 5 W y respuesta en frecuencia: 100 Hz
-- Tiene Bluetooth 4.1
 - 1 altavoz de 40 mm de rango completo
+- Potencia: 5 W y respuesta en frecuencia: 100 Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
