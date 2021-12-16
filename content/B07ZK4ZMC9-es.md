@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft RJN-00003 – Bluetooth Mouse Negro'
-date: 2021-12-14 23:24:41
+date: 2021-12-16 00:15:29
 image: 'https://m.media-amazon.com/images/I/31dKXON00RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21'
 descuento: '30.54'
-average: '16.6655555555554'
+average: '16.6600787401573'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ratón Bluetooth
 - Moderno y cómodo
 - Disponible en varios colores.
+- Ratón Bluetooth
 
 [🛒 Comprar!!!]({{< param buyurl >}})
