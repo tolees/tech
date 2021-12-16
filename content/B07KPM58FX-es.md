@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Canvio Basics  Disco Duro  1  Negro'
-date: 2021-12-12 16:48:32
+date: 2021-12-16 16:09:27
 image: 'https://m.media-amazon.com/images/I/31XOEGIzKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duro
 actualPrice: 79.21 EUR
 currency: EUR
 price: 79.21
-comparePrice: 108.71 EUR
+comparePrice: 109.19 EUR
 prodname: 'Toshiba Canvio Basics  Disco Duro  1  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Toshiba'
 buyurl: 'https://www.amazon.es/dp/B07KPM58FX/?tag=tolees-21'
-descuento: '27.14'
-average: '83.1419230769231'
+descuento: '27.46'
+average: '82.9962962962963'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
 - Canvio basics 2.5 4TB black
 - Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
+- Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
 - Interfaz USB 3.0 (compatible con USB 2.0)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
