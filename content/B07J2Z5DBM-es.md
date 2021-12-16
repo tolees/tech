@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOZO T10 Auriculares Bluetooth IPX8 Impermeable Bluetooth 5.0 Auriculares In Ear con Estuche de Carga y micrófono Integrado  Sonido Premium con Graves Profundos para Correr y Hacer Deporte Negro'
-date: 2021-12-15 17:32:57
+date: 2021-12-16 18:23:09
 image: 'https://m.media-amazon.com/images/I/415bPVV9O4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOZO'
 buyurl: 'https://www.amazon.es/dp/B07J2Z5DBM/?tag=tolees-21'
 descuento: '40.01'
-average: '29.0044047619047'
+average: '29.0159999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
