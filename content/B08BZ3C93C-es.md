@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Sin Sistema Operativo
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
