@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Doubc - Auriculares Inalámbricos Auriculares Bluetooth 5.0 Deportivos con Cancelación de Ruido Estéreo on Micrófono In-Ear Auriculares IP7 Impermeable Cascos Inalambricos 32 Horas de Eeproducción Pantalla LED'
-date: 2021-12-17 12:10:39
+date: 2021-12-18 18:43:09
 image: 'https://m.media-amazon.com/images/I/41Jy0zYWXEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Doubc'
 buyurl: 'https://www.amazon.es/dp/B099YZTKCK/?tag=tolees-21'
 descuento: '54.41'
-average: '33.8622222222222'
+average: '33.562972972973'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
