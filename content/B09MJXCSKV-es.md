@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" FullHD (1920x1080) WVA 250nits Anti-glare
-- Correo electrónico, calendarios y tareas: Outlook
 - Memoria RAM de 8GB SO-DIMM DDR4-2666
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
+- Pantalla de 15.6" FullHD (1920x1080) WVA 250nits Anti-glare
 - Almacenamiento de 256GB SSD M.2 2242 PCIe NVMe 3.0x2
-- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Seguridad avanzada para correo electrónico y archivos
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
+- Correo electrónico, calendarios y tareas: Outlook
+- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})
