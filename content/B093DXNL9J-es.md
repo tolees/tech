@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon Tour de France 2021  PS5 '
-date: 2021-12-13 11:40:33
+date: 2021-12-18 22:06:06
 image: 'https://m.media-amazon.com/images/I/51BbxF0gmTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B093DXNL9J-es Nacon Tour de France 2021 PS5'
 sku: 'B093DXNL9J-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','nacon','ps5', ]
-actualPrice: 39.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 39.99
+price: 19.99
 comparePrice: 59.99 EUR
 prodname: 'Nacon Tour de France 2021  PS5 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B093DXNL9J/?tag=tolees-21'
-descuento: '33.34'
-average: '49.7309090909091'
+descuento: '66.68'
+average: '47.2525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
