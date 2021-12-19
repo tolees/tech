@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Mi Electric Scooter 1S  Black   Versión básica'
-date: 2021-12-14 20:17:33
+date: 2021-12-19 10:15:51
 image: 'https://m.media-amazon.com/images/I/31HT2DsvJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21'
 descuento: '22.22'
-average: '365.443507462689'
+average: '365.329037037039'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puede alcanzar una velocidad máxima de 25 km/h y tiene una capacidad de escalada de pendiente del 14%
+- Diseño plegable
 - 3 modos de velocidad, fácil conmutación
 - Tiempo de carga: 5 horas
-- Diseño plegable
-- Puede alcanzar una velocidad máxima de 25 km/h y tiene una capacidad de escalada de pendiente del 14%
 
 [🛒 Visítala!!!]({{< param buyurl >}})
