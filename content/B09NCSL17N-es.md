@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 B11MO-074XES - Ordenador portátil de 14" FullHD  Intel Core i7-10510U  + Microsoft 365 Familia | Código de activación'
-date: 2021-12-16 12:08:58
+date: 2021-12-19 21:10:50
 image: 'https://m.media-amazon.com/images/I/31Uscfx+c0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correo electrónico, calendarios y tareas: Outlook
-- Ram de 16GB (3200MHz) DDR IV
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
-- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Intel Core i7-1165G7
+- Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
+- Correo electrónico, calendarios y tareas: Outlook
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Seguridad avanzada para correo electrónico y archivos
+- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
+- Ram de 16GB (3200MHz) DDR IV
 
 [🛒 Visítala!!!]({{< param buyurl >}})
