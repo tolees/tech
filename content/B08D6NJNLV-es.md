@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
-- Pantalla táctil FullHD de 10.1 pulgadas con una resolución de 1920 x 1200 píxeles y 8mm de marco estrecho. Cuenta con 6 modos de protección ocular y certificado TÜV Rheinland que reduce los efectos de la luz azul. Modo eBook, modo oscuro y ajuste inteligente de brillo.
 - 2GB de RAM y 32GB de almacenamiento.
 - No incluye ranura para la tarjeta SIM.
-- Cuerpo metálico, diseño elegante, 460g, 2MP de cámara frontal y 5MP de cámara trasera.
 - Procesador Octa-Core Kirin 710A con un algoritmo avanzado que ofrece gráficos mejorados y un gran rendimiento. Sistema de altavoces dobles de alta amplitud sintonizados por Harman Kardon.
+- Pantalla táctil FullHD de 10.1 pulgadas con una resolución de 1920 x 1200 píxeles y 8mm de marco estrecho. Cuenta con 6 modos de protección ocular y certificado TÜV Rheinland que reduce los efectos de la luz azul. Modo eBook, modo oscuro y ajuste inteligente de brillo.
+- Cuerpo metálico, diseño elegante, 460g, 2MP de cámara frontal y 5MP de cámara trasera.
+- NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
