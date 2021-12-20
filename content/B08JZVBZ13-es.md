@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador 10th Gen Intel Core i5-1035G1
-- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
-- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
-- Memoria RAM de 8GB
 - Unidad SSD 128GB
-- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
+- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
+- Memoria RAM de 8GB
 - Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
+- Procesador 10th Gen Intel Core i5-1035G1
+- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
+- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
 
 [🛒 Aquí!!!]({{< param buyurl >}})

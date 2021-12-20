@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- WIFI POTENTE: mantén una señal inalámbrica fuerte y consistente con la antena Wi-Fi 5 (802.11ac) estratégicamente situada con 2x2 MU-MIMO que ofrece wifi de alta velocidad y puede manejar más dispositivos inalámbricos a la vez
 - CONECTIVIDAD FLEXIBLE: Acer Chromebook 311 incluye 1 puerto USB Type-C para transferencias ultrarrápidas, transmisión de vídeo y carga, 1 puerto USB 3.0 Type A y una ranura microSD para mayor capacidad de almacenamiento
-- DISEÑO LIGERO: diseñado para transportarlo fácilmente, este Chromebook es un PC portátil profesional y ligero más pequeño que una hoja DIN A4 y pesa sobre 1 kg para que puedas llevarlo contigo a cualquier parte
-- SISTEMA OPERATIVO CHROME: aumenta la productividad con los portátiles Acer Chromebook; Chrome OS es intuitivo y fácil de usar, incluye un arranque rápido, alta seguridad y una batería de larga duración (hasta 15 horas de autonomía) para poder trabajar todo el día con una carga
 - PROCESAMIENTO POTENTE: el procesador potente proporciona un bajo consumo de energía (hasta 12,5 horas de autonomía) y una respuesta rápida; su rendimiento extra permite realizar proyectos con gráficos más fluidos y agilizar las tareas en clase
+- SISTEMA OPERATIVO CHROME: aumenta la productividad con los portátiles Acer Chromebook; Chrome OS es intuitivo y fácil de usar, incluye un arranque rápido, alta seguridad y una batería de larga duración (hasta 15 horas de autonomía) para poder trabajar todo el día con una carga
+- WIFI POTENTE: mantén una señal inalámbrica fuerte y consistente con la antena Wi-Fi 5 (802.11ac) estratégicamente situada con 2x2 MU-MIMO que ofrece wifi de alta velocidad y puede manejar más dispositivos inalámbricos a la vez
+- DISEÑO LIGERO: diseñado para transportarlo fácilmente, este Chromebook es un PC portátil profesional y ligero más pequeño que una hoja DIN A4 y pesa sobre 1 kg para que puedas llevarlo contigo a cualquier parte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
