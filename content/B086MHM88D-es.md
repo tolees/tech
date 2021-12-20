@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 48.8 x 28.4 x 11 cm; 300 gramos
-- Nailon
-- Unisex
 - Gris
+- Unisex
 - Cremallera
+- Nailon
+- 48.8 x 28.4 x 11 cm; 300 gramos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
