@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 14" FullHD (1920 x 1080) de 120Hz
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
 - Sin sistema operativo
+- Pantalla de 14" FullHD (1920 x 1080) de 120Hz
+- Almacenamiento de 1TB M.2 NVMe PCIe
 - Memoria RAM de 16GB (8GB en placa + 1 x 8GB) DDR4-3200MHz
 - Procesador AMD Ryzen 7 4800HS (2.9GHz, 8MB)
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
-- Almacenamiento de 1TB M.2 NVMe PCIe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
