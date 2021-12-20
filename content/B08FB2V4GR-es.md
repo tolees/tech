@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Reflect Mini NC TWS Auriculares Inalámbricos Deportivos In Ear con cancelación de ruido  resistente al agua IPX7  Bluetooth y diseño ergonómico  color azul'
-date: 2021-12-19 00:36:22
+date: 2021-12-20 12:33:36
 image: 'https://m.media-amazon.com/images/I/41-hNZJElyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B08FB2V4GR/?tag=tolees-21'
 descuento: '46.32'
-average: '89.99'
+average: '88.5614285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
