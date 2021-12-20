@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 8 - Smartphone Libre  Pantalla AMOLED superior 6.4"  8GB RAM +128GB Almacenamiento  MediaTek Helio G95  Cámara cuádruple con IA de 64MP  Carga Dart de 30W con batería de 5000 mAh  Cyber Silver'
-date: 2021-12-17 09:38:54
+date: 2021-12-20 14:22:09
 image: 'https://m.media-amazon.com/images/I/41P34g0FzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Batería masiva de 5000 mAh: 40 días en espera
+- Pantalla completa AMOLED superior de 16,3cm (6,4"): Escáner para huella dactilar ultrarrápido en pantalla
 - Cámara cuádruple con IA de 64MP: Modo inclinación/desplazamiento y modo constelación
 - Carga Dart de 30.W: 00.% de batería en 65 minutos
-- Pantalla completa AMOLED superior de 16,3cm (6,4"): Escáner para huella dactilar ultrarrápido en pantalla
-- Batería masiva de 5000 mAh: 40 días en espera
 - Procesador de juegos MediaTek Helio G95: Juego más fluido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
