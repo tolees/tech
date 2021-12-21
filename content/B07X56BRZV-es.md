@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ángulo De Visión De 100º
+- Peso de solo 145 g
 - El AF 18mm F2.8 FE es el primer objetivo ultra gran-angular
 - Enfoca de manera precisa, rápida y muy silenciosa, siendo, por ello, también para filmar en vídeo
-- Peso de solo 145 g
+- Ángulo De Visión De 100º
 - Ultra gran-angular AF 18mm F2.8 FE para cámaras Sony E-Mount
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
