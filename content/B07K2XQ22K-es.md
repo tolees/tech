@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería de carga rápida de 3.800 mAh
-- Desbloqueo a través de reconocimiento facial y sensor de huella dactilar
-- Pantalla infinita de 6.3" con resolución FHD+ y tecnología Super AMOLED
 - Capacidad de almacenamiento interno de 128 GB, ampliable mediante microSD hasta 512 GB más
+- Desbloqueo a través de reconocimiento facial y sensor de huella dactilar
+- Batería de carga rápida de 3.800 mAh
+- Pantalla infinita de 6.3" con resolución FHD+ y tecnología Super AMOLED
 
 [🛒 Visítala!!!]({{< param buyurl >}})
