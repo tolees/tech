@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop Go - Ordenador portátil de 12.4"  Intel Core i5-1035G1  8GB + Microsoft 365 Familia | Código de activación'
-date: 2021-12-18 12:18:16
+date: 2021-12-22 09:36:21
 image: 'https://m.media-amazon.com/images/I/31IGe0XOrkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
+- Correo electrónico, calendarios y tareas: Outlook
+- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Procesador 10th Gen Intel Core i5-1035G1
 - Súper ligero, con apenas 1,11Kg, para llevar a todas partes
 - Seguridad avanzada para correo electrónico y archivos
-- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
-- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Memoria RAM de 8GB
-- Correo electrónico, calendarios y tareas: Outlook
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
