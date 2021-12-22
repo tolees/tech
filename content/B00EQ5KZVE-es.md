@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – All-in-One Media Keyboard Español'
-date: 2021-12-18 09:33:10
+date: 2021-12-22 14:32:56
 image: 'https://m.media-amazon.com/images/I/31ZswhZ-J9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21'
 descuento: '33.32'
-average: '28.2704878048781'
+average: '28.3102380952381'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño anti-derrame
-- Compatible con Windows
-- Conectividad inalámbrica de hasta 4,5 metros
 - Almohadilla multitáctil integrada: permite navegar fácilmente con gestos
-- Controles de volumen de acceso fácil
+- Conectividad inalámbrica de hasta 4,5 metros
+- Diseño anti-derrame
 - Teclas de acceso rápido multimedia
+- Compatible con Windows
+- Controles de volumen de acceso fácil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
