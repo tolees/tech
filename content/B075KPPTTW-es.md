@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transfiere una película en menos de 30 segundos
 - Carcasa de metal elegante y duradera
+- Transfiere una película en menos de 30 segundos
 - Rendimiento USB 3.0 y altas velocidades de hasta 150 MB/s
 - Transfiere a la memoria hasta 15 veces más rápido que con las memorias USB 2.0 estándar
 

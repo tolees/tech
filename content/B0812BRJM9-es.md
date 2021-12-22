@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bombilla globo LED inteligente wifi con casquillo e27, 12w, 1060 lúmenes.
-- Tecnología CCT (permite escoger entre múltiples tonalidades entre luz cálida, neutra y fría) + Tecnología dimmable para cambiar y regular la intensidad de la luz + Tecnología RGB con cambio de color entre 16 millones de colores del aspecto cromático
 - Garantía: 2 años
-- Bajo consumo: Permite un gran ahorro en la factura de la luz gracias a sus 12W de consumo máximo
-- Control por voz: maneja tus lámparas y bombillas inteligentes Garza con tu asistente de voz. Compatible con Amazon Alexa y Google Home (se pueden controlar varias bombillas)
-- Dimensiones del producto: largo x ancho x alto: 17 x 10 x 10 cm
-- "Modo de instalación: en solo 3 sencillos pasos puedes conectar tu bombilla: (1) -Insertar la bombilla en el casquillo de la lámpara donde se vaya a utilizar (2) - Encender (E) y apagar (A) el interruptor de la lámpara o del enchufe 5 veces, con ritmo constante, continuo y pausado (E-A/E-A/E-A/E-A/E) (3) - Al 5º encendido, esperar 3-4 segundos a que la bombilla comience a parpadear y entre en modo emparejamiento."
-- Control por App: Controla la bombilla con tu móvil smartphone o tablet descargándote la aplicación iOS o Android de Garza o Tuya o Smart Life (se pueden controlar varias bombillas)
-- Programable: La función de programas de la app te permite programar minuto a minuto durante todos los días de la semana el encendido y apagado. Muy fácil e intuitiva instalación de uso, se conecta directamente a la wifi del hogar sin necesidad de pasarela o HUB
+- Bombilla globo LED inteligente wifi con casquillo e27, 12w, 1060 lúmenes.
 - Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
+- Control por voz: maneja tus lámparas y bombillas inteligentes Garza con tu asistente de voz. Compatible con Amazon Alexa y Google Home (se pueden controlar varias bombillas)
+- Control por App: Controla la bombilla con tu móvil smartphone o tablet descargándote la aplicación iOS o Android de Garza o Tuya o Smart Life (se pueden controlar varias bombillas)
+- "Modo de instalación: en solo 3 sencillos pasos puedes conectar tu bombilla: (1) -Insertar la bombilla en el casquillo de la lámpara donde se vaya a utilizar (2) - Encender (E) y apagar (A) el interruptor de la lámpara o del enchufe 5 veces, con ritmo constante, continuo y pausado (E-A/E-A/E-A/E-A/E) (3) - Al 5º encendido, esperar 3-4 segundos a que la bombilla comience a parpadear y entre en modo emparejamiento."
+- Programable: La función de programas de la app te permite programar minuto a minuto durante todos los días de la semana el encendido y apagado. Muy fácil e intuitiva instalación de uso, se conecta directamente a la wifi del hogar sin necesidad de pasarela o HUB
+- Tecnología CCT (permite escoger entre múltiples tonalidades entre luz cálida, neutra y fría) + Tecnología dimmable para cambiar y regular la intensidad de la luz + Tecnología RGB con cambio de color entre 16 millones de colores del aspecto cromático
+- Dimensiones del producto: largo x ancho x alto: 17 x 10 x 10 cm
+- Bajo consumo: Permite un gran ahorro en la factura de la luz gracias a sus 12W de consumo máximo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

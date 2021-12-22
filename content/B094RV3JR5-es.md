@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
