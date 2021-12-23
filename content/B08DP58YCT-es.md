@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo D27-30 - Monitor Gaming 27" FullHD  VA  75Hz  4ms  HDMI  VGA  FreeSync  Ajuste de inclinación - Negro'
-date: 2021-12-21 13:42:43
+date: 2021-12-23 14:23:20
 image: 'https://m.media-amazon.com/images/I/41bpubSH4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08DP58YCT/?tag=tolees-21'
 descuento: '18.75'
-average: '137.698333333333'
+average: '137.39'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AMD FreeSync
-- Cable VGA incluido en la caja
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Ajuste de inclinación (-5° / 22°)
 - Puertos HDMI y VGA
-- Soporte VESA para montar la pantalla en la pared
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Ajuste de inclinación (-5° / 22°)
 - Relación de aspecto 16:9 y relación de contraste 3000:1
-- Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
+- AMD FreeSync
 - Tecnología Eye Comfort para la protección de los ojos contra la luz azul
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Soporte VESA para montar la pantalla en la pared
+- Cable VGA incluido en la caja
+- Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
