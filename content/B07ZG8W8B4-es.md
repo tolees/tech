@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Optimizada para uso con dispositivos Android
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 - Tipo de memoria flash: Micro SD
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 - Capacidad de la memoria RAM: 128 GB
+- Optimizada para uso con dispositivos Android
 
 [🛒 Comprar!!!]({{< param buyurl >}})

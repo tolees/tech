@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Ghost of Tsushima Director s Cut Ps4'
-date: 2021-12-23 08:46:37
+date: 2021-12-24 17:27:18
 image: 'https://m.media-amazon.com/images/I/51-1BW8KlZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Vide
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
-comparePrice: 53.99 EUR
+comparePrice: 54.99 EUR
 prodname: 'Playstation - Ghost of Tsushima Director s Cut Ps4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B099KRK8JF/?tag=tolees-21'
-descuento: '25.93'
-average: '49.4869999999999'
+descuento: '27.28'
+average: '48.6236363636363'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

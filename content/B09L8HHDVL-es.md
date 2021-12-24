@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistencia al agua y al sudor
 - Sensibilidad del conductor: 98 dB ± 3 dB
 - Cancelación de ruido
 - El diseño de OnePlus es fácil de usar
+- Resistencia al agua y al sudor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

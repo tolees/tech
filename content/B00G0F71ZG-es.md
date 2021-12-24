@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Simplicidad: Conéctalo cómodamente a tu PC a través del puerto USB
-- Ligero: tan solo pesa 106 gramos
 - Seguimiento óptico: proporciona el seguimiento adecuado en la mayoría de superficies para un control preciso y sin contratiempos
 - Productividad: El ratón cuenta con 3 botones y rueda de desplazamiento
+- Ligero: tan solo pesa 106 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
