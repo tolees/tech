@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi K6 REDMI Note 10 Pro 8+128 Onyx Gray'
-date: 2021-12-15 11:25:40
+date: 2021-12-24 13:33:27
 image: 'https://m.media-amazon.com/images/I/41qPw+U8psS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08Y8QDL32/?tag=tolees-21'
 descuento: '20.57'
-average: '310.5'
+average: '310.285714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
