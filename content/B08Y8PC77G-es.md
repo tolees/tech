@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smartphone REDMI Note 10 Pro 6  67   6GB/128GB NFC DUALSIM Glacier Blue'
-date: 2021-12-12 13:35:53
+date: 2021-12-25 11:43:20
 image: 'https://m.media-amazon.com/images/I/41p2jfKf-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08Y8PC77G/?tag=tolees-21'
 descuento: '19.50'
-average: '290.532727272727'
+average: '290.405'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
