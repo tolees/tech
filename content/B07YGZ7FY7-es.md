@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
-- Optimizadas para uso con dispositivos Android
 - Tipo de tarjeta flash: MicroSDHC
+- Optimizadas para uso con dispositivos Android
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
 
 [🛒 Visítala!!!]({{< param buyurl >}})
