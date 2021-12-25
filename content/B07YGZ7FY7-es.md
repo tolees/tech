@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Class 10 con Adaptador SD'
-date: 2021-12-21 13:33:54
+date: 2021-12-25 18:50:32
 image: 'https://m.media-amazon.com/images/I/41wFdLcFveL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07YGZ7FY7/?tag=tolees-21'
 descuento: '29.90'
-average: '5.11836538461537'
+average: '5.1162857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
-- Tipo de tarjeta flash: MicroSDHC
-- Optimizadas para uso con dispositivos Android
 - Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Optimizadas para uso con dispositivos Android
+- Tipo de tarjeta flash: MicroSDHC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
