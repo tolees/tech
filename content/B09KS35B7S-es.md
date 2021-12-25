@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUTAKUZE - Bombillas Alexa E27 WiFi inteligente LED 10W 1000LM Lámpara  WiFi Bombilla Luces Cálidas/Frías & RGB'
-date: 2021-12-22 19:39:01
+date: 2021-12-25 14:13:19
 image: 'https://m.media-amazon.com/images/I/41slDTBQ5VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUTAKUZE'
 buyurl: 'https://www.amazon.es/dp/B09KS35B7S/?tag=tolees-21'
 descuento: '15.07'
-average: '16.478'
+average: '16.1366666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

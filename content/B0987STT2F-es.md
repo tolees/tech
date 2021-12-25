@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador AMD Ryzen 7 3700U (4C/QuadCore 2.3 / 4GHz, 4MB)
-- Tarjeta gráfica integrada AMD Radeon RX Vega 10
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 8GB SO-DIMM DDR4
 - Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
+- Tarjeta gráfica integrada AMD Radeon RX Vega 10
+- Memoria RAM de 8GB SO-DIMM DDR4
 - Sin Sistema Operativo
+- Procesador AMD Ryzen 7 3700U (4C/QuadCore 2.3 / 4GHz, 4MB)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
