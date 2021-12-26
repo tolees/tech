@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICF-P26 - Radio portátil  con altavoz y sintonizador AM/FM   negro'
-date: 2021-12-22 06:31:17
+date: 2021-12-26 11:23:51
 image: 'https://m.media-amazon.com/images/I/4129+n8I17L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21'
 descuento: '30.03'
-average: '22.310090909091'
+average: '22.2981981981983'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funciona con 2 pilas AA
 - Sintonizador de radio AM/FM integrado
 - Toma de auriculares dedicada para una escucha personal
+- Funciona con 2 pilas AA
 - Indicadores de estado de carga y sintonización LED
 - Correa de mano integrada para una mayor portabilidad
 
