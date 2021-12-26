@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V73D - Altavoz de Alta Potencia  High Power Bluetooth Party Speaker  con el Sonido y Luces de Fiesta omnidireccional'
-date: 2021-12-20 19:25:21
+date: 2021-12-26 19:38:15
 image: 'https://m.media-amazon.com/images/I/311AeIltd3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08FXBXRJG/?tag=tolees-21'
 descuento: '42.00'
-average: '421.4'
+average: '414.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta del sonido de fiesta omnidireccional creado por los tweeters de alta eficiencia (x4) y los altavoces de frecuencia media y alta eficiencia
 - Con las luces de fiesta omnidireccionales y de altavoz, puedes iluminar la fiesta desde el suelo hasta el techo
-- Con Wireless Party Chain a través de Bluetooth, puedes conectar hasta 50 altavoces compatibles Sony con sonido e iluminación sincronizados
 - Control por gestos te permite controlar las funciones del MHC-V73D fácil y rápidamente
 - 2x entradas de micrófono que incluye 1x entrada de guitarra
+- Disfruta del sonido de fiesta omnidireccional creado por los tweeters de alta eficiencia (x4) y los altavoces de frecuencia media y alta eficiencia
+- Con Wireless Party Chain a través de Bluetooth, puedes conectar hasta 50 altavoces compatibles Sony con sonido e iluminación sincronizados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

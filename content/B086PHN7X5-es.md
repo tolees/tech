@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Extensor wifi 6 de malla de doble banda Amazon eero 6  que amplía la red eero existente'
-date: 2021-12-25 20:37:30
+date: 2021-12-26 20:38:53
 image: 'https://m.media-amazon.com/images/I/217G8FUS-mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'eero'
 buyurl: 'https://www.amazon.es/dp/B086PHN7X5/?tag=tolees-21'
 descuento: '30.28'
-average: '89.2'
+average: '87.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
