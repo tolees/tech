@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WOLFANG Cámara Deportiva GA100 4K 30FPS  videocámara WiFi de 20MP  cámara subacuática 40M con micrófono Dual  Mando a Distancia  EIS antivibración  batería 2x1050mAh  Varios Accesorios'
-date: 2021-12-17 13:28:58
+date: 2021-12-27 10:03:28
 image: 'https://m.media-amazon.com/images/I/51wX8B7BjBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WOLFANG'
 buyurl: 'https://www.amazon.es/dp/B09HGZHXJT/?tag=tolees-21'
 descuento: '25.00'
-average: '69.99'
+average: '66.6566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📷【Micrófono Dual y Otros Accesorios】 Esta cámara deportiva GA100 tiene un micrófono externo y puede usarlo cuando graba en un ambiente ruidoso para obtener una voz clara.La cámara también viene con muchos otros accesorios, como control remoto, un soporte para manillar de bicicleta, hebilla J-hock, marco de cámara, cubierta a prueba de polvo, correa para casco, soporte giratorio de 180 °, soporte giratorio de 360 ​​°, clip para el cuello y otros brazos de extensión.
-- 📷【EIS Avanzado y Modo Múltiple】 El giróscopo de estabilización de 3 ejes incorporado mantiene la estabilización de imagen electrónica en su lugar. La tecnología de estabilización EIS resiste colisiones, fluctuaciones o inclinaciones de la cámara cuando se usa. La cámara también tiene muchos modos para satisfacer las diferentes necesidades de las personas, como grabación en bucle, lapso de tiempo, cámara lenta, disparo con temporizador, foto en ráfaga, modo de automóvil.
-- 📷【Video nativo 4K y foto de 20MP】 La cámara deportiva WOLFANG GA100 tiene resolución de video nativa 4K, resolución de video disponible: 4K / 30fps, EIS 2.7K / 30fps, EIS 1080P / 60fps, EIS 1080P / 30fps, EIS 720P / 120fps. Tiene una resolución de fotos de 20MP y otras resoluciones disponibles de 8MP a 20MP.
 - 📷【Carcasa Resistente al Agua y Duradera de 40M】 WOLFANG GA100 está hecho de material duradero mejorado, la carcasa mejora el nivel de impermeabilidad de 30M a 40M. Y las personas nunca se preocupan por la infiltración de agua al bucear, además, esta función la convierte en una cámara que funciona en días de lluvia o nieve.
+- 📷【Video nativo 4K y foto de 20MP】 La cámara deportiva WOLFANG GA100 tiene resolución de video nativa 4K, resolución de video disponible: 4K / 30fps, EIS 2.7K / 30fps, EIS 1080P / 60fps, EIS 1080P / 30fps, EIS 720P / 120fps. Tiene una resolución de fotos de 20MP y otras resoluciones disponibles de 8MP a 20MP.
+- 📷【Micrófono Dual y Otros Accesorios】 Esta cámara deportiva GA100 tiene un micrófono externo y puede usarlo cuando graba en un ambiente ruidoso para obtener una voz clara.La cámara también viene con muchos otros accesorios, como control remoto, un soporte para manillar de bicicleta, hebilla J-hock, marco de cámara, cubierta a prueba de polvo, correa para casco, soporte giratorio de 180 °, soporte giratorio de 360 ​​°, clip para el cuello y otros brazos de extensión.
 - 📷【Conexión WiFi y control del teléfono】 WOLFANG GA100 admite una conexión WiFi incorporada a un teléfono inteligente y puede controlar el registro a través de su teléfono y ver más claro a través de la pantalla grande, descargar fotos al teléfono directamente y compartirlas con su ciclo sea ​​muy divertido.
+- 📷【EIS Avanzado y Modo Múltiple】 El giróscopo de estabilización de 3 ejes incorporado mantiene la estabilización de imagen electrónica en su lugar. La tecnología de estabilización EIS resiste colisiones, fluctuaciones o inclinaciones de la cámara cuando se usa. La cámara también tiene muchos modos para satisfacer las diferentes necesidades de las personas, como grabación en bucle, lapso de tiempo, cámara lenta, disparo con temporizador, foto en ráfaga, modo de automóvil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
