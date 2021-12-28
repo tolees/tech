@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluso puedes acoplarla a una funda con MagSafe para crear un estilo único
-- Contenido de la caja: Cartera de piel con MagSafe para el iPhone
-- Esta cartera, fabricada en piel europea curtida y refinada con un proceso especial, incorpora unos imanes para que puedas ponerla y quitarla como si nada
 - La cartera de piel tiene espacio para tres tarjetas y una protección para que las tarjetas de crédito vayan seguras
+- Incluso puedes acoplarla a una funda con MagSafe para crear un estilo único
+- Esta cartera, fabricada en piel europea curtida y refinada con un proceso especial, incorpora unos imanes para que puedas ponerla y quitarla como si nada
+- Contenido de la caja: Cartera de piel con MagSafe para el iPhone
 
 [🛒 Aquí!!!]({{< param buyurl >}})
