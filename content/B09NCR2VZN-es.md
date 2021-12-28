@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
-- Correo electrónico, calendarios y tareas: Outlook
 - Procesador Tiger lake i7-1185G7
-- Memoria RAM LPDDR3 16 GB (4267 MHz)
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Seguridad avanzada para correo electrónico y archivos
-- Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
 - 14" FHD (1920 x 1080), IPS-Level 60 Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
+- Correo electrónico, calendarios y tareas: Outlook
+- Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
+- Memoria RAM LPDDR3 16 GB (4267 MHz)
+- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 
 [🛒 Visítala!!!]({{< param buyurl >}})
