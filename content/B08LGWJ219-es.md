@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Levas de cambio secuencial en el volante
 - Fácil configuración con la aplicación complementaria, compatible con PC y Xbox
+- Licencia oficial de Microsoft
 - 280 mm de diámetro (escala 1:1)
 - Incluye pedales analógicos
-- Licencia oficial de Microsoft
+- Levas de cambio secuencial en el volante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

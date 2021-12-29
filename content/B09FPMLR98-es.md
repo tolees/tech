@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modo de ahorro de energía superior: 5.% de batería - 35,2 horas en espera/2,4 horas de llamadas/1,3 horas de chat en línea/2 horas de música
-- Pantalla ultrafluida de 6.6" a 120.Hz: el doble de la frecuencia de las pantallas tradicionales. Incluso con 6 frecuencias de actualización diferentes, tu teléfono también puede ahorrar energía de la batería sin renunciar a la fluidez.
 - Huella digital lateral ultrarrápida: EquiPado con un sensor para huella dactilar seguro y superrápido, tu teléfono activo en un instante siempre que lo necesites.
 - Cámara frontal en pantalla de 16 MP: Modo retrato, Belleza IA
-- Batería masiva de 5000 mAh, Carga rápida de 18 W: la potente batería de 5000 mAh te permite jugar durante 8 horas.
 - Realme y MediaTeK se unen de nuevo para crear un procesador ultrapotente. la velocidad y rendimiento del procesador Helio G96 alcanza los 2,05.GHz de CPU (usando una combinación de ARM Cortex-A76 y Cortex-A55) y es capaz de ofrecerte una experiencia de juego fluida y visualmente impresionante.
-- Cámara triple con IA,: Cámara principal de 50 MP, apertura f/1.8, lente de 5 P; Lente para retrato B&W, apertura f/2.4, lente de 3 P; Lente macro, distancia de disparo de 4 cm
-- Sistema operativo: android 11.0; Tipo de conector: USB tipo c
+- Modo de ahorro de energía superior: 5.% de batería - 35,2 horas en espera/2,4 horas de llamadas/1,3 horas de chat en línea/2 horas de música
 - Realme UI 2.0, con Android 11
 - Memoria ampliable, hasta 256 GB: El realme 8i admite 2 tarjetas nano-SIM y 1 tarjeta micro-SD simultáneamente, así como una ampliación de memoria de 256 GB como máximo.
+- Batería masiva de 5000 mAh, Carga rápida de 18 W: la potente batería de 5000 mAh te permite jugar durante 8 horas.
+- Pantalla ultrafluida de 6.6" a 120.Hz: el doble de la frecuencia de las pantallas tradicionales. Incluso con 6 frecuencias de actualización diferentes, tu teléfono también puede ahorrar energía de la batería sin renunciar a la fluidez.
+- Cámara triple con IA,: Cámara principal de 50 MP, apertura f/1.8, lente de 5 P; Lente para retrato B&W, apertura f/2.4, lente de 3 P; Lente macro, distancia de disparo de 4 cm
+- Sistema operativo: android 11.0; Tipo de conector: USB tipo c
 
 [🛒 Aquí!!!]({{< param buyurl >}})
