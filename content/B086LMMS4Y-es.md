@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 18h de batería con caja (9 h de uso sin caja)
 - Conexión Bluetooth simultánea en ambos auriculares
-- Resistencia IPX4
-- Llamadas manos libres
 - Totalmente inalámbrico
+- Resistencia IPX4
+- Hasta 18h de batería con caja (9 h de uso sin caja)
+- Llamadas manos libres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
