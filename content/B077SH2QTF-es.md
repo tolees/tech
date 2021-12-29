@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda PH6  Adaptadores de Comunicación por Línea Eléctrica  AV1000 Gigabit Power Line Pass  1000Mbit/s  Home Plug AV2  Modo de Ahorro de Energía  Plug y Play '
-date: 2021-12-27 12:32:25
+date: 2021-12-29 08:51:46
 image: 'https://m.media-amazon.com/images/I/31ceZWOx3DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B077SH2QTF/?tag=tolees-21'
 descuento: '27.09'
-average: '35.97'
+average: '35.9291666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo ahorro de energía reduce el consumo de energía hasta un 85%
 - Compatible con el estándar homeplug av2 te permite ver videos 4k hd y transferir datos sobre su línea eléctrica existente
 - Con 2 puertos gigabit 1000mbps que permiten crear redes cableadas seguras para equipos de sobremesa o iptv
-- Plug and play, no es necesaria configuración o cableado
 - Con ph6 no vas a perder ninguna toma de corriente, enchufe integrado
+- Modo ahorro de energía reduce el consumo de energía hasta un 85%
+- Plug and play, no es necesaria configuración o cableado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
