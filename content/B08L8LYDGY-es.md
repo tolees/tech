@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su funcionamiento es inalámbrico (sin cable) con depósito de agua de 200 ml, integrado en el mango
-- El irrigador EW1513W503 cuenta con 5 modos de diferentes intensidades de chorro de agua
-- Depósito de agua apto para limpieza en lavavajillas, el irrigador bucal portátil es 100% lavable (con certificado IPX7)
 - Tiempo de funcionamiento inalámbrico de aproximadamente 15 minutos y su tiempo de recarga es de 1 horas
+- Depósito de agua apto para limpieza en lavavajillas, el irrigador bucal portátil es 100% lavable (con certificado IPX7)
 - Contenido de la caja: Irrigador bucal Dental Care EW1513W503, 2x boquilla, una especial para Ortodoncias y otra Ultrasónica, cargador con soporte para las dos boquillas
+- El irrigador EW1513W503 cuenta con 5 modos de diferentes intensidades de chorro de agua
+- Su funcionamiento es inalámbrico (sin cable) con depósito de agua de 200 ml, integrado en el mango
 
 [🛒 Aquí!!!]({{< param buyurl >}})
