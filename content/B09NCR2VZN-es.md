@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A11SCX-432ES - Ordenador Portátil 14" FHD  1920 x 1080   Tiger Lake i + Microsoft 365 Familia | Código de activación'
-date: 2021-12-28 09:46:09
+date: 2021-12-30 13:34:02
 image: 'https://m.media-amazon.com/images/I/314RkLwUqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Tiger lake i7-1185G7
 - Seguridad avanzada para correo electrónico y archivos
 - 14" FHD (1920 x 1080), IPS-Level 60 Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Procesador Tiger lake i7-1185G7
+- Memoria RAM LPDDR3 16 GB (4267 MHz)
 - Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 - Correo electrónico, calendarios y tareas: Outlook
-- Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
-- Memoria RAM LPDDR3 16 GB (4267 MHz)
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
+- Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
