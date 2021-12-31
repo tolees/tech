@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Doubc - Auriculares Inalambricos  Auriculares Bluetooth con 150H Playtime 3500mAh  Estéreo HiFi y HD Mic  Cascos Inalambricos Deportivos IP7 Impermeable  Auriculares In Ear para Correr  Trabajos  Deporte'
-date: 2021-12-30 15:05:24
+date: 2021-12-31 20:58:21
 image: 'https://m.media-amazon.com/images/I/51A9CRjeTCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Doubc'
 buyurl: 'https://www.amazon.es/dp/B09BMWNPTQ/?tag=tolees-21'
 descuento: '18.92'
-average: '34.5032352941176'
+average: '34.3742857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

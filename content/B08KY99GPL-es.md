@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de usar
+- Copia de seguridad automática con el software WD Backup incluido y compatible con Time Machine
 - Hasta 18 TB de capacidad
 - Software WD Discovery para WD Security, importación de almacenamiento en redes sociales y en la nube, y WD Drive Utilities
 - Protección con contraseña y hardware de cifrado
-- Fácil de usar
-- Copia de seguridad automática con el software WD Backup incluido y compatible con Time Machine
 
 [🛒 Comprar!!!]({{< param buyurl >}})

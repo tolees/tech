@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVP-SR760H - Reproductor de DVD / CD con tecnología de mejora de la imagen  HDMI  USB port   reproducción de Xvid  Dolby Digital    negro'
-date: 2021-12-30 15:31:11
+date: 2021-12-31 20:50:08
 image: 'https://m.media-amazon.com/images/I/31J3P-Tc9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B007ECGFLU-es Sony DVP-SR760H - Reproductor de DVD / CD con tecnología...'
 sku: 'B007ECGFLU-es'
 tags: [ 'Electrónica','Reproductores de DVD','Reproductores y grabadores de DVD','TV, vídeo y home cinema','sony', ]
-actualPrice: 40.78 EUR
+actualPrice: 40.22 EUR
 currency: EUR
-price: 40.78
+price: 40.22
 comparePrice: 55.0 EUR
 prodname: 'Sony DVP-SR760H - Reproductor de DVD / CD con tecnología de mejora de la imagen  HDMI  USB port   reproducción de Xvid  Dolby Digital    negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B007ECGFLU/?tag=tolees-21'
-descuento: '25.85'
-average: '51.6672466960353'
+descuento: '26.87'
+average: '51.642087912088'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reproduce DVD de múltiples formatos y reproduce contenido almacenado en USB
-- Ve tus DVD con una calidad de imagen cercana a la alta definición
-- Reproductor de DVD elegante con tecnología de mejora de la imagen y conectividad HDMI y USB.
-- Se conecta al televisor mediante un cable HDMI
 - Formatos compatibles: AAC, Audio CD, CD Text, DVD+R, DVD+R de doble capa, DVD+RW, DVD-R, DVD-R de doble capa, DVD-RW, DVD de 8 cm para videocámara DVD, DVD Text, DVD Video, JPEG, JPEG HD, KODAK Picture CD, LPCM, MP3, MPEG1, MPEG4; Subtítulos externos de Xvid, Súper VCD, VCD, WMA, Xvid
+- Reproduce DVD de múltiples formatos y reproduce contenido almacenado en USB
+- Reproductor de DVD elegante con tecnología de mejora de la imagen y conectividad HDMI y USB.
+- Ve tus DVD con una calidad de imagen cercana a la alta definición
+- Se conecta al televisor mediante un cable HDMI
 
 [🛒 Visítala!!!]({{< param buyurl >}})
