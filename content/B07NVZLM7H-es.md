@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Lector de tarjetas SD con conector USB Type‐C (USB‐C)
+- Compatible con UHS-II y con versiones anteriores de tarjetas SD UHS-I y no UHS
+- Diseñado para transferencias de alta velocidad con tarjetas SD UHS-II
+- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
 - Velocidad de disparo de hasta 90 mb/s y velocidades de transferencia de hasta 170 mb/s
 - Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
-- Lector de tarjetas SD con conector USB Type‐C (USB‐C)
-- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
-- Diseñado para transferencias de alta velocidad con tarjetas SD UHS-II
-- Compatible con UHS-II y con versiones anteriores de tarjetas SD UHS-I y no UHS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
