@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Práctico juego de viaje con fuente de alimentación
+- Incluye 5 A USB de c cable de datos
 - Diseño atemporal.
 - Admite Huawei super Charge
 - Original Huawei accesorios
-- Incluye 5 A USB de c cable de datos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
