@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TAPO P100 - Mini Enchufe Inteligente Wi-Fi  óptimo para programar el encendido/apagado y ahorrar energía  no necesita HUB  compatible con Alexa y Google Home'
-date: 2021-12-31 08:49:57
+date: 2022-01-01 09:09:51
 image: 'https://m.media-amazon.com/images/I/419fTbQWthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07Z5JD3T4/?tag=tolees-21'
 descuento: '40.09'
-average: '10.3072222222222'
+average: '10.3011059907834'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 - Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
 - Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Diseño compacto: tamaño pequeño para evitar el bloqueo de tomas adyacente; (solo para toma hembra tipo C (o tomas)
+- Fácil configuración y uso: no se requiere concentrador, configúrelo rápidamente y adminístrelo fácilmente a través de la aplicación
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 
 [🛒 Comprar!!!]({{< param buyurl >}})
