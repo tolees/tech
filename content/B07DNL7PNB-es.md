@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MCP118  Pack Gaming RGB de Teclado  Ratón y Alfombrilla  Layout ES'
-date: 2021-12-22 09:36:35
+date: 2022-01-01 12:45:36
 image: 'https://m.media-amazon.com/images/I/51-yr7hgA-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MARSGAMING'
 buyurl: 'https://www.amazon.es/dp/B07DNL7PNB/?tag=tolees-21'
 descuento: '23.73'
-average: '21.8151612903226'
+average: '21.726875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ratón gaming con iluminación RGB Flow y hasta 4000 DPI con cambio de velocidad on-the-fly
-- Compatibilidad de S.O: Windows / Linux / Mac
 - Teclado RGB Rainbow con 3 modos de iluminación, control de intensidad y teclas de altura optimizada
-- Alfombrilla con matriz de tela avanza da y base de caucho natural apta para retoñes ópticos y láser
 - Pack de teclado y ratón RGB con alfombrilla gaming. Equipa tu escritorio con todo lo necesario para jugar
+- Compatibilidad de S.O: Windows / Linux / Mac
+- Alfombrilla con matriz de tela avanza da y base de caucho natural apta para retoñes ópticos y láser
+- Ratón gaming con iluminación RGB Flow y hasta 4000 DPI con cambio de velocidad on-the-fly
 
 [🛒 Visítala!!!]({{< param buyurl >}})
