@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra SDXC   Tarjeta de memoria de 64 GB  hasta 120 MB/s  Class 10  UHS-I y V10'
-date: 2021-12-24 07:35:15
+date: 2022-01-02 00:04:33
 image: 'https://m.media-amazon.com/images/I/41xYpD2ejUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B08GY1QYXP/?tag=tolees-21'
 descuento: '30.79'
-average: '11.24'
+average: '10.79'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compatible con el lector de tarjetas SanDisk SD UHS-I para velocidades de hasta 120 MB/s
 - Rápidas velocidades de transferencia de hasta 120 MB/s para hacer copias de seguridad de tus momentos favoritos
-- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
 - Hasta 256 GB para almacenar infinidad de fotografías e incluso más vídeos Full HD
+- Magnífica elección para cámaras de enfoque automático que vayan de compactas a gama media
 - Excepcional rendimiento de grabación de vídeo con una clasificación UHS Speed Class 1 (U1) y Class 10 para vídeos Full HD (1080p)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
