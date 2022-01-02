@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG - 14Z90P - Portátil ultraligero 14" WUXGA  Intel EvoTM i7 11ª Generación  16GB RAM  1TB SSD  Iris Xe Graphics  Windows 10 Home  - Teclado QWERTY Español  Negro'
-date: 2021-12-30 22:21:17
+date: 2022-01-02 17:33:51
 image: 'https://m.media-amazon.com/images/I/41jIx9HvLsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B0916CHZZ5/?tag=tolees-21'
 descuento: '29.39'
-average: '1189.36'
+average: '1174.27'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
