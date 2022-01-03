@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple MacBook Pro  de 13 polegadas  Touch Bar  Processador Intel Core i5 Quad-Core a 2 0 GHz de 10.ª geração  16 GB RAM  512 GB SSD  Quatro portas Thunderbolt 3  - Cinzento sideral  Março 2020 '
-date: 2021-12-28 00:31:57
+date: 2022-01-03 00:19:46
 image: 'https://m.media-amazon.com/images/I/312RajhmXFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08T1QGZ95/?tag=tolees-21'
 descuento: '22.02'
-average: '1775.776'
+average: '1764.80833333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 10 horas de autonomía
-- Touch Bar y Touch ID
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Trackpad Force Touch
-- Wifi 802.11ac
 - Cuatro puertos Thunderbolt 3 (USB-C)
-- Almacenamiento SSD ultrarrápido
 - Intel Iris Plus Graphics
-- Espectacular pantalla Retina con tecnología True Tone
 - Teclado Magic Keyboard retroiluminado
+- Almacenamiento SSD ultrarrápido
+- Wifi 802.11ac
+- Touch Bar y Touch ID
+- Trackpad Force Touch
+- Espectacular pantalla Retina con tecnología True Tone
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Hasta 10 horas de autonomía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
