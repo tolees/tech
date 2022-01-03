@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Seagate Technology - Seagate Game Drive for PS4  2 TB  Unidad de disco duro externa  HDD portátil  compatible con PS4 y PS5  STGD2000200 '
-date: 2021-12-27 16:48:13
+date: 2022-01-03 07:57:40
 image: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07PPNSFBK-es Seagate Technology - Seagate Game Drive for PS4 2 TB...'
 sku: 'B07PPNSFBK-es'
-tags: [ 'Accesorios para PlayStation 5','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Informática','Videojuegos','disco','duro','ps4','ps5','seagate technology', ]
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Informática','Videojuegos','disco','duro','ps4','ps5','seagate technology', ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Seagate Technology'
 buyurl: 'https://www.amazon.es/dp/B07PPNSFBK/?tag=tolees-21'
 descuento: '47.42'
-average: '76.9803676470588'
+average: '76.9005860805861'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
