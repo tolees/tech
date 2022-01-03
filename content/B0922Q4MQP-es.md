@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS - ROG Gladius III Wireless - Ratón Gaming asimétrico inalámbrico  conectividad USB  2 4 GHz y Bluetooth  26 000 DPI  Push-Fit Switch Socket II  ROG Omni Mouse Feet  ROG Paracord y Aura Sync  - Negro'
-date: 2021-12-23 12:32:35
+date: 2022-01-03 18:32:39
 image: 'https://m.media-amazon.com/images/I/31aVFFWl8kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conectividad inalámbrica de 2.4 GHz, Bluetooth LE y por cable USB
 - Los microinterruptores de ROG ofrecen una resistencia constante y una vida útil de 70 millones de clics
 - 19000 dpi con una desviación del 1% (especialmente ajustado a 26000 dpi), sensor óptico de 400 IPS y tasa de sondeo de 1000 Hz
 - Botones pivotantes y software ajustado para una actuación sin clics no deseados
-- Conectividad inalámbrica de 2.4 GHz, Bluetooth LE y por cable USB
 - El diseño Push-Fit Switch Socket II permite instalar interruptores mecánicos y microinterruptores ópticos Omron para ajustar el tacto los clics y prolongar la vida útil del ratón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
