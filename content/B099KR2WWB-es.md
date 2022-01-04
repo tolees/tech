@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook D14 - Ordenador Portátil Ultrafino de 14" FullHD  Intel Core i5-10210U  8GB RAM  512GB SSD  Intel UHD Graphics  Windows 10 Home  Space Grey - Teclado QWERTY Español'
-date: 2022-01-03 18:37:21
+date: 2022-01-04 18:59:41
 image: 'https://m.media-amazon.com/images/I/41ULFWhUUPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B099KR2WWB/?tag=tolees-21'
 descuento: '25.03'
-average: '627.125'
+average: '625.470588235294'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño de pantalla: 14.0 inches; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
-- Sistema operativo: Windows 10 Home
-- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
-- Memoria RAM de 8GB DDR4
-- Tarjeta gráfica integrada Intel UHD Graphics
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Memoria RAM de 8GB DDR4
+- Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
+- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
+- Tamaño de pantalla: 14.0 inches; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Sistema operativo: Windows 10 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})
