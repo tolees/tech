@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook D15 - Ordenador Portátil Ultrafino de 15.6" FullHD  Intel Core i3-10110U  8GB de RAM  256GB SSD  Grafica Intel UHD 620  Windows 10 Home  Plata - Teclado QWERTY Español'
-date: 2022-01-03 17:38:09
+date: 2022-01-06 20:10:24
 image: 'https://m.media-amazon.com/images/I/31gTjxUV+XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B098QRY4XY/?tag=tolees-21'
 descuento: '23.11'
-average: '494.806451612903'
+average: '494.9375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB DDR4 2400MHz.
-- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 256.0; Capacidad de la memoria RAM (GB): 8.0 GB
+- Almacenamiento de 256GB SSD NVMe PCIe.
 - Tarjeta gráfica Intel UHD Graphics 620
 - Sistema operativo: Windows 10 Home
 - Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
+- Memoria RAM de 8GB DDR4 2400MHz.
+- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 256.0; Capacidad de la memoria RAM (GB): 8.0 GB
 - Procesador Intel Core i3-10110U
-- Almacenamiento de 256GB SSD NVMe PCIe.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
