@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Charge 5 – Altavoz inalámbrico portátil con Bluetooth y batería integrada  resistente al agua  IP67   con PartyBoost para subir el nivel de la fiesta  hasta 20h de reproducción  gris'
-date: 2022-01-03 03:17:12
+date: 2022-01-06 03:21:56
 image: 'https://m.media-amazon.com/images/I/41wE4cWh3-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08VDGMBGP-es JBL Charge 5 – Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B08VDGMBGP-es'
 tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','altavoz','bluetooth','jbl', ]
-actualPrice: 132.99 EUR
+actualPrice: 136.39 EUR
 currency: EUR
-price: 132.99
+price: 136.39
 comparePrice: 179.0 EUR
 prodname: 'JBL Charge 5 – Altavoz inalámbrico portátil con Bluetooth y batería integrada  resistente al agua  IP67   con PartyBoost para subir el nivel de la fiesta  hasta 20h de reproducción  gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B08VDGMBGP/?tag=tolees-21'
-descuento: '25.70'
-average: '143.627619047619'
+descuento: '23.80'
+average: '142.72'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
