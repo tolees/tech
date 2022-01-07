@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de memoria del ordenador: ddr3 sdram
-- Interfaz (2) puertos Ethernet 10/100/1000
 - Wi-Fi estándares 802.11 a/b/g/n/ac
-- Ofrece doble banda simultanea 3x3 MIMO
+- Interfaz (2) puertos Ethernet 10/100/1000
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
+- Ofrece doble banda simultanea 3x3 MIMO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
