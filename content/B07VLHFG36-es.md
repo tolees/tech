@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Spider-Man: Lejos de casa [DVD]'
-date: 2022-01-06 09:40:04
+date: 2022-01-07 16:23:25
 image: 'https://m.media-amazon.com/images/I/51TeDCBZ9qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07VLHFG36/?tag=tolees-21'
 descuento: '26.57'
-average: '10.1221052631579'
+average: '9.89100000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
