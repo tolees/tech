@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Pantalla de 13.3" FullHD 1920x1080 píxeles
 - Almacenamiento de 512GB SSD
+- Pantalla de 13.3" FullHD 1920x1080 píxeles
 - Sistema operativo: Windows 10 Home
 - Procesador Intel Core i7-1165G7
+- Tarjeta gráfica integrada Intel UHD Graphics
 - Memoria RAM de 16GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
