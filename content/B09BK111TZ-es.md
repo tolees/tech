@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell G15-5510 Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-10200H  8GB RAM  512GB SSD  NVIDIA RTX 3050-4GB  Tarjeta gráfica 3050 Ti  Windows 10 Home   Gris - Teclado QWERTY Español'
-date: 2021-12-29 21:47:25
+date: 2022-01-07 12:45:10
 image: 'https://m.media-amazon.com/images/I/419Wf1haMBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Sistema operative: Windows 10 Home
+- Almacenamiento de 512GB SSD
 - Memoria RAM de 8GB
 - Procesador Intel Core i5-10200H
-- Almacenamiento de 512GB SSD
-- Sistema operative: Windows 10 Home
 - Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
