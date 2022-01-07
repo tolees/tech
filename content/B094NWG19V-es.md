@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core i7-11800H ( 2.3GHz/4.6GHz) 24MB
-- Memoria Ram de 16 GB DDR6
-- Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Sistema operativo: Windows 10 Home
 - Sistema Operativo: Windows 10 Home
+- Memoria Ram de 16 GB DDR6
 - Targeta gráfica NVIDIA GeForce RTX 3060, 16 GB de RAM DDR6
+- Procesador Intel Core i7-11800H ( 2.3GHz/4.6GHz) 24MB
 - Almacenamiento de 1TB SSD (M.2 NVMe PCIe 4.0 x4) + Open M.2 PCIe 4.0 x4 Slot
+- Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Sistema operativo: Windows 10 Home
 - Pantalla de 15.6" QHD 2560 x 1440 pixeles, 240 Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
