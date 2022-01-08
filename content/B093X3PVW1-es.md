@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo Windows 11 Home en modo S
+- Procesador 10th Gen Intel Core i3-10100Y
 - El Surface Go 3 de 10.5 pulgadas es portátil, con la versatilidad de una tableta que se convierte en portátil y una autonomía prolongada de hasta 11 horas
 - Memoria RAM de 8 GB, disco duro solido de 128 GB
 - Pantalla táctil de 10.5 pulgadas, Pixel Sense Glossy, Full HD 1920 x 1080 pixels
-- Procesador 10th Gen Intel Core i3-10100Y
+- Sistema operativo Windows 11 Home en modo S
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
