@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repetidor wifi BrosTrend 1200Mbps  amplificador wifi  extensor wifi  intensificador wifi  amplía cobertura inalámbrica doble banda 5 GHz  2.4 GHz  admite todas las redes de internet  1 puerto Ethernet'
-date: 2022-01-08 10:45:23
+date: 2022-01-09 10:59:52
 image: 'https://m.media-amazon.com/images/I/31dqGsizy4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BrosTrend'
 buyurl: 'https://www.amazon.es/dp/B07THZRTWM/?tag=tolees-21'
 descuento: '15.00'
-average: '37.9748494983273'
+average: '37.9558999999995'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 2242 NVMe
 - Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
-- Pantalla de 14" FullHD 1920x1080 píxeles, TN, 250nits
-- Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
-- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 - Sistema operativo: Windows 10 Home en modo S
-- Procesador Intel Core i5-1135G7 (4C/8T, 4.2 GHz, 8 MB)
+- Pantalla de 14" FullHD 1920x1080 píxeles, TN, 250nits
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
+- Almacenamiento de 512GB SSD M.2 2242 NVMe
+- Procesador Intel Core i5-1135G7 (4C/8T, 4.2 GHz, 8 MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
