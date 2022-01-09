@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico)
 - Comparte con facilidad y toma el control de la cámara distancia con las funciones WIFI / NFC
 - Olvidate del desenfoque con estabilización de imagen inteligente de 5 ejes y análisis de fotograma
-- Captura fotos claras con alta resolución, incluso en condiciones de poca luz, gracias a la lente Zeiss Vario-Sonnar T con 30x de zoom óptico y el sensor Exmor R de 18 MP
 - Autorretratos mucho mejores y sin agobios, gracias al monitor LCD inclinable de 180 grados
-- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico)
+- Captura fotos claras con alta resolución, incluso en condiciones de poca luz, gracias a la lente Zeiss Vario-Sonnar T con 30x de zoom óptico y el sensor Exmor R de 18 MP
 
 [🛒 Aquí!!!]({{< param buyurl >}})
