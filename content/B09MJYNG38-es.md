@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ultraligero, con tan solo 1.2 Kg de peso y batería de hasta 16.5 horas de autonomía convierten al LG gram en el más portátil de los portátiles
-- Correo electrónico, calendarios y tareas: Outlook
+- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
+- Correo electrónico, calendarios y tareas: Outlook
 - Nueva pantalla de 40.6 cm (16") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3
+- Memoria RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 512GB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
 - Seguridad avanzada para correo electrónico y archivos
 - Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
-- Memoria RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 512GB NVMe con doble ranura para ampliar hasta 4TB. Gráfica Iris Xe para trabajar con contenido 4K UHD con máxima fluidez. Intel EvoTM i7 11ª generación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
