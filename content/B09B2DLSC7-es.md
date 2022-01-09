@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
 - Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
+- Sistema operativo: Windows 10 Home
 - Memoria RAM de 8GB DDR4
 - Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
-- Sistema operativo: Windows 10 Home
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
 - AMD Radeon Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy M22 – Pantalla 6 4”  AMOLED HD+  90Hz  4GB RAM + 128GB almacenamiento  cuádruple cámara trasera  5000 mAh carga rápida 25W  Azul [Versión Es]'
-date: 2022-01-08 19:48:50
+date: 2022-01-09 19:59:46
 image: 'https://m.media-amazon.com/images/I/41XwfATOTFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097F7HQ8T-es Samsung Galaxy M22 – Pantalla 6 4” AMOLED HD+ 90Hz 4GB RAM...'
 sku: 'B097F7HQ8T-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','galaxy','ram','samsung', ]
-actualPrice: 169.0 EUR
+actualPrice: 220.0 EUR
 currency: EUR
-price: 169.0
+price: 220.0
 comparePrice: 259.0 EUR
 prodname: 'Samsung Galaxy M22 – Pantalla 6 4”  AMOLED HD+  90Hz  4GB RAM + 128GB almacenamiento  cuádruple cámara trasera  5000 mAh carga rápida 25W  Azul [Versión Es]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B097F7HQ8T/?tag=tolees-21'
-descuento: '34.75'
-average: '202.307692307692'
+descuento: '15.06'
+average: '203.571428571428'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
