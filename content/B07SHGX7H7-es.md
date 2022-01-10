@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Air Purifier 2H EU version - Purificador de aire  con control por app movil  para estancias hasta 31m2  260m3/h  Color Blanco'
-date: 2021-12-29 18:42:40
+date: 2022-01-10 13:58:17
 image: 'https://m.media-amazon.com/images/I/41zj5YhpUKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07SHGX7H7/?tag=tolees-21'
 descuento: '19.30'
-average: '113.428130841121'
+average: '113.271651376146'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Purifificador de aire inteligente con control por app movil
 - Capacidad purificadora de aire 260m3/h
+- Purifificador de aire inteligente con control por app movil
 - Versión Europea
 - Idoneo para habitaciones hasta 31m2
 

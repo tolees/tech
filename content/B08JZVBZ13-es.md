@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop Go - Ordenador portátil de 12.4"  Intel Core i5-1035G1  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Platino - Teclado QWERTY Español'
-date: 2022-01-08 23:23:08
+date: 2022-01-10 14:44:43
 image: 'https://m.media-amazon.com/images/I/31TWxwSRo+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B08JZVBZ13/?tag=tolees-21'
 descuento: '19.72'
-average: '613.723617021278'
+average: '612.628541666668'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 8GB
 - Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
 - Procesador 10th Gen Intel Core i5-1035G1
-- Unidad SSD 128GB
 - Súper ligero, con apenas 1,11Kg, para llevar a todas partes
 - Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
+- Memoria RAM de 8GB
+- Unidad SSD 128GB
 - Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
