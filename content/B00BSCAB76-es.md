@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVP-SR170 - Reproductor de DVD HD  negro'
-date: 2022-01-09 04:17:27
+date: 2022-01-10 17:00:05
 image: 'https://m.media-amazon.com/images/I/31y88bOPrbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21'
 descuento: '26.71'
-average: '36.6093982808026'
+average: '36.5990285714289'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
