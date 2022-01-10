@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOZO A1 Mini Auriculares inalámbricos Bluetooth 5.0 en la Oreja Auriculares livianos Micrófono Incorporado  Auriculares con Sonido Premium inmersivo  Compatible para Orejas pequeñas   Negro'
-date: 2022-01-08 22:24:02
+date: 2022-01-10 04:38:42
 image: 'https://m.media-amazon.com/images/I/41yyGZkSouL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOZO'
 buyurl: 'https://www.amazon.es/dp/B09FT58QQP/?tag=tolees-21'
 descuento: '33.34'
-average: '20.685652173913'
+average: '20.6566666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

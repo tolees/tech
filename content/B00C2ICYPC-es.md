@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WPA4220 KIT - 2 Adaptadores de Comunicación por Línea Eléctrica  WiFi AV 600 Mbps  PLC con WiFi  Extensor  Repetidores de Red  Amplificador y Cobertura Internet  3 Puertos  Cable Ethernet '
-date: 2022-01-08 22:35:58
+date: 2022-01-10 04:29:39
 image: 'https://m.media-amazon.com/images/I/41B3X5nFnWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00C2ICYPC/?tag=tolees-21'
 descuento: '23.16'
-average: '54.998'
+average: '54.95421875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,7 +31,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - HOMEPLUG AV2 STANDARD -Tasas de transmisión de datos hasta 600Mbps sobre cableado eléctrico entre los dispositivos
 - 3 PUERTOS ETHERNET - Es posible la conexión por cable de 10/100mbps para consolas, ordenadores, televisores y más
 - FÁCIL CONFIGURACIÓN - Configura sus red de conexión eléctrica en minutos, y administra su red a través de la aplicación móvil tpPLC (IOS y Android)
-- WI-FI 300 MBPS: extiende las conexiones inalámbricas hasta 300 mbps en condiciones ideales (condiones normales hasta 100 mbps)
 - SINCRONIZACIÓN AUTOMÁTICA - Agregue extensores adicionales a su red eléctrica mediante en botón de emparejamiento donde prodrá sincronizar SSID, contraseña y más
+- WI-FI 300 MBPS: extiende las conexiones inalámbricas hasta 300 mbps en condiciones ideales (condiones normales hasta 100 mbps)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
