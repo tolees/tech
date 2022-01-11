@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Pulse GL66 11UEK-060ES -- Ordenador portátil de 15.6" FullHD 144Hz  Intel Core i7-11800H  16GB de RAM  1TB SSD  Nvidia RTX3060-6GB  Windows 10  Gris - Teclado QWERTY Español'
-date: 2022-01-09 11:47:32
+date: 2022-01-11 14:01:27
 image: 'https://m.media-amazon.com/images/I/31tVB4yqvkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B095C3ZBC9/?tag=tolees-21'
 descuento: '17.40'
-average: '1643.385'
+average: '1591.18333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema operativo Windows 10 Home Advanced
-- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
+- Disco 1 TB NVMe PCIe Gen3x4 SSD (new)
 - Procesador Tiger Lake i7-11800H+HM570
+- Sistema operativo Windows 10 Home Advanced
 - Tarjeta gráfica RTX3060, GDDR6 6GB
 - Tamaño de pantalla: 15.6 inches; Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB
-- Disco 1 TB NVMe PCIe Gen3x4 SSD (new)
+- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
