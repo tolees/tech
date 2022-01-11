@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG U28R55 UHD 71CM 28IN 16:9 4MS MNTR'
-date: 2022-01-10 18:30:34
+date: 2022-01-11 18:57:07
 image: 'https://m.media-amazon.com/images/I/41tC3aLekLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

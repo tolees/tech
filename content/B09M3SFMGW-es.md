@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense 40A4EG  40"  Smart TV Full HD  con Natural Colour Enhancer  DTS Virtual X  VIDAA U5  Youtube  Netflix  HDMI  WiFi  Nuevo 2021 '
-date: 2022-01-10 12:43:19
+date: 2022-01-11 17:41:51
 image: 'https://m.media-amazon.com/images/I/41gWb1ycAML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
