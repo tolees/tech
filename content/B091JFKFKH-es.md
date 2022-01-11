@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Optix MAG162V - Monitor portátil de 15.6" FullHD  60Hz  1920 x 1080  Pantalla Plana  Panel IPS  Ratio 16:9  Brillo 250 nits  Anti-Glare  Color Gris'
-date: 2022-01-09 10:51:14
+date: 2022-01-11 08:30:55
 image: 'https://m.media-amazon.com/images/I/41S2rj9+LcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B091JFKFKH/?tag=tolees-21'
 descuento: '24.90'
-average: '190.865'
+average: '184.82'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
