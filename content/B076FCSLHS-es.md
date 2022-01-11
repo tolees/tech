@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volumen de suministro: impresora multifunción HP ENVY 6020 (5SE16B); HP 305 Negro, HP 305 Color; Cable de alimentación
-- Un consejo de ahorro: la tarifa de 50 páginas de HP Instant Ink. Más información en la descripción del producto
 - HP Instant Ink: con HP Instant Ink ya no tendrá que preocuparse por su tinta y ahorrará tiempo, nervios y hasta un 70% de costos de tinta. Incluye 6 meses de prueba para realizar pruebas
-- Aspectos destacados: impresora fotográfica que ahorra espacio; Impresora multifunción versátil con impresión sin bordes en calidad de laboratorio, impresión desde teléfono inteligente o tableta, dúplex, WLAN, airprint, panel de control de iconos
+- Volumen de suministro: impresora multifunción HP ENVY 6020 (5SE16B); HP 305 Negro, HP 305 Color; Cable de alimentación
 - Velocidad de impresión: hasta 10 páginas / min (blanco / negro), hasta 7 páginas / min (color); Calidad de impresión: hasta 4800 x 1200 ppp; Conexiones: WiFi, USB 2.0 de alta velocidad, impresión móvil
+- Un consejo de ahorro: la tarifa de 50 páginas de HP Instant Ink. Más información en la descripción del producto
+- Aspectos destacados: impresora fotográfica que ahorra espacio; Impresora multifunción versátil con impresión sin bordes en calidad de laboratorio, impresión desde teléfono inteligente o tableta, dúplex, WLAN, airprint, panel de control de iconos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones del paquete (largo x ancho x alto) 20.0 x 20.0 x 11.0 cm
-- ROC-12-574
 - País de origen China
-- Peso del paquete 1.0 kg
+- Dimensiones del paquete (largo x ancho x alto) 20.0 x 20.0 x 11.0 cm
 - Diseño francés
+- ROC-12-574
+- Peso del paquete 1.0 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})

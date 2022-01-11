@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 10
-- Memoria RAM de 8GB LPDDR4
-- Chasis metalico (Peso 1.5K)
 - Procesador Intel Core i7-7567U, 3.5Ghz hasta 4Ghz
-- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
-- Almacenamiento de 256GB SSD
+- Memoria RAM de 8GB LPDDR4
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Sistema Operativo: Windows 10
+- Almacenamiento de 256GB SSD
+- Chasis metalico (Peso 1.5K)
+- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
