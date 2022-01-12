@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Yoga Smart Tab - Tablet de 10.1" FullHD/IPS  Qualcomm Snapdragon 439 Octa-Core  3 GB de RAM  32 GB eMMC  Android 9  Wifi + 4G LTE  Bluetooth 4.2   Color Gris'
-date: 2022-01-09 13:21:59
+date: 2022-01-12 21:00:00
 image: 'https://m.media-amazon.com/images/I/41pOJO8mlcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B0857LVFWM/?tag=tolees-21'
 descuento: '33.66'
-average: '210.217272727273'
+average: '209.2825'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM 3GB
 - Procesador Qualcomm Snapdragon 439 (8C, 8x A53 @2.0GHz)
+- Almacenamiento 32GB eMMC
 - Tarjeta gráfica Integrada Qualcomm Adreno 505 GPU
 - Pantalla Full HD de 10.1 pulgadas, resolución 1920x1200, IPS, 320nits
-- Almacenamiento 32GB eMMC
 - Sistema Operativo: Android 9
+- Memoria RAM 3GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

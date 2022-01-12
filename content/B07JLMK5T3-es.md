@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 144 Rexx - Ratón Vertical RGB para Gaming  Color Negro'
-date: 2022-01-11 16:54:51
+date: 2022-01-12 18:59:23
 image: 'https://m.media-amazon.com/images/I/3146tAGxHeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Iluminación RGB personalizable
-- 6 botones programables
-- Velocidad máxima garantizada: 100 pulgadas por segundo - Aceleración 20 G
-- Raton ergonomico para gaming con sensor óptico de alta precisión de hasta 10000 ppp, Cómodo reposapulgares para un agarre perfecto
 - Raton gamer con software avanzado para programar botones, macros y luces
+- Iluminación RGB personalizable
+- Raton ergonomico para gaming con sensor óptico de alta precisión de hasta 10000 ppp, Cómodo reposapulgares para un agarre perfecto
+- Velocidad máxima garantizada: 100 pulgadas por segundo - Aceleración 20 G
+- 6 botones programables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
