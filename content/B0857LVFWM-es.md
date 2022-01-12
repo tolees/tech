@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Qualcomm Snapdragon 439 (8C, 8x A53 @2.0GHz)
-- Almacenamiento 32GB eMMC
-- Tarjeta gráfica Integrada Qualcomm Adreno 505 GPU
-- Pantalla Full HD de 10.1 pulgadas, resolución 1920x1200, IPS, 320nits
 - Sistema Operativo: Android 9
+- Almacenamiento 32GB eMMC
+- Pantalla Full HD de 10.1 pulgadas, resolución 1920x1200, IPS, 320nits
+- Tarjeta gráfica Integrada Qualcomm Adreno 505 GPU
 - Memoria RAM 3GB
+- Procesador Qualcomm Snapdragon 439 (8C, 8x A53 @2.0GHz)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
