@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco duro externo de sobremesa de 12 TB con USB 3.0  color negro'
-date: 2022-01-09 08:45:48
+date: 2022-01-14 14:18:14
 image: 'https://m.media-amazon.com/images/I/31uHtUxDRpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07VXKF1L4/?tag=tolees-21'
 descuento: '34.87'
-average: '225.906363636364'
+average: '224.692608695652'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plug-and-play para ordenadores windows
 - Calidad wd por dentro y por fuera
+- Plug-and-play para ordenadores windows
 - Rápidas transferencias de datos
 - Almacenamiento adicional de alta capacidad
 
