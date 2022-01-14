@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Spider-Man: Un Nuevo Universo [DVD]'
-date: 2022-01-13 05:36:22
+date: 2022-01-14 11:41:12
 image: 'https://m.media-amazon.com/images/I/51DApmr3byL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21'
 descuento: '48.65'
-average: '6.37428571428571'
+average: '6.216'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
