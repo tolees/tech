@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Wireless Mobile Mouse 3500 Negro'
-date: 2022-01-14 14:25:41
+date: 2022-01-15 14:39:24
 image: 'https://m.media-amazon.com/images/I/415hJ1TFC4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B0096M4QTY/?tag=tolees-21'
 descuento: '59.90'
-average: '20.778'
+average: '19.3133333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con Windows y Mac
+- Con BlueTrack Technology: combina la potencia de la tecnología óptica con la precisión de la tecnología láser para poder realizar un seguimiento destacado en prácticamente cualquier superficie
+- Cómodo para ambas manos
+- Nano transceptor: deja conectado el nano transceptor durante tus desplazamientos o guárdalo en el ratón
 - Pila con duración de hasta 8 meses
 - Interruptor de encendido/apagado
-- Cómodo para ambas manos
-- Con BlueTrack Technology: combina la potencia de la tecnología óptica con la precisión de la tecnología láser para poder realizar un seguimiento destacado en prácticamente cualquier superficie
-- Nano transceptor: deja conectado el nano transceptor durante tus desplazamientos o guárdalo en el ratón
-- Compatible con Windows y Mac
 
 [🛒 Comprar!!!]({{< param buyurl >}})
