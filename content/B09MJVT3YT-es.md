@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell G15-5510 – Ordenador Portátil Gaming 15.6" FullHD  Intel Core i7-10870H  16GB RA + Microsoft 365 Familia | Código de activación'
-date: 2022-01-13 09:04:27
+date: 2022-01-15 01:45:52
 image: 'https://m.media-amazon.com/images/I/41-RQxFtjCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
-- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
+- Almacenamiento de 512GB SSD
+- Procesador Intel Core i7-10870H
 - Correo electrónico, calendarios y tareas: Outlook
+- Memoria RAM de 16GB
+- Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - Seguridad avanzada para correo electrónico y archivos
 - Pantalla de 15.6" FullHD (1920x1080 píxeles), 120Hz, 250nits
-- Procesador Intel Core i7-10870H
-- Memoria RAM de 16GB
-- Almacenamiento de 512GB SSD
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
