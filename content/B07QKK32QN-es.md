@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Pack: Karate Kid  5 títulos  [DVD]'
-date: 2022-01-12 23:44:39
+date: 2022-01-15 05:33:27
 image: 'https://m.media-amazon.com/images/I/51VaANJv0XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07QKK32QN/?tag=tolees-21'
 descuento: '27.51'
-average: '14.615'
+average: '14.6011111111111'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
