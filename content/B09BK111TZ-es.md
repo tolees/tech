@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 8GB
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
 - Procesador Intel Core i5-10200H
-- Almacenamiento de 512GB SSD
 - Sistema operative: Windows 10 Home
+- Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Memoria RAM de 8GB
+- Almacenamiento de 512GB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
