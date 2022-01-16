@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Idoneo para habitaciones hasta 31m2
-- Versión Europea
 - Capacidad purificadora de aire 260m3/h
+- Versión Europea
 - Purifificador de aire inteligente con control por app movil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
