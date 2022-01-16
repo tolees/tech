@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.5
 - Diseñado para ordenadores con sistema operativo Windows, formatable para Mac
+- Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
