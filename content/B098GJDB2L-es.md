@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye Soporte para poder colgar los auriculares junto a la consola PS5
-- Conector: 3.5 mm single jack
-- Altavoz: φ50 mm
 - También compatible con la mayoría de plataformas gracias a la conexión universal de de 3,5 mm
 - Especialmente diseñado para Playstation 5 (Compatible con PS4, Xbox Series S|X, Xbox One, Switch|Switch Lite, PC y Mac)
+- Conector: 3.5 mm single jack
+- Altavoz: φ50 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
