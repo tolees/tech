@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book Disco Duro Externo de Sobremesa de 12 TB  3.5"  USB 3.0  Negro'
-date: 2022-01-12 18:59:43
+date: 2022-01-17 15:17:43
 image: 'https://m.media-amazon.com/images/I/31fb4AS9DbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7YBB9H-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
 sku: 'B07W7YBB9H-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','western digital', ]
-actualPrice: 267.8 EUR
+actualPrice: 209.0 EUR
 currency: EUR
-price: 267.8
+price: 209.0
 comparePrice: 330.99 EUR
 prodname: 'Western Digital My Book Disco Duro Externo de Sobremesa de 12 TB  3.5"  USB 3.0  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07W7YBB9H/?tag=tolees-21'
-descuento: '19.09'
-average: '244.503684210526'
+descuento: '36.86'
+average: '243.593333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
