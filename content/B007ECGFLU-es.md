@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVP-SR760H - Reproductor de DVD / CD con tecnología de mejora de la imagen  HDMI  USB port   reproducción de Xvid  Dolby Digital    negro'
-date: 2022-01-15 12:10:36
+date: 2022-01-16 23:49:14
 image: 'https://m.media-amazon.com/images/I/31J3P-Tc9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B007ECGFLU/?tag=tolees-21'
 descuento: '25.85'
-average: '51.335576923077'
+average: '51.3130703624734'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,7 +31,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Formatos compatibles: AAC, Audio CD, CD Text, DVD+R, DVD+R de doble capa, DVD+RW, DVD-R, DVD-R de doble capa, DVD-RW, DVD de 8 cm para videocámara DVD, DVD Text, DVD Video, JPEG, JPEG HD, KODAK Picture CD, LPCM, MP3, MPEG1, MPEG4; Subtítulos externos de Xvid, Súper VCD, VCD, WMA, Xvid
 - Se conecta al televisor mediante un cable HDMI
 - Ve tus DVD con una calidad de imagen cercana a la alta definición
-- Reproductor de DVD elegante con tecnología de mejora de la imagen y conectividad HDMI y USB.
 - Reproduce DVD de múltiples formatos y reproduce contenido almacenado en USB
+- Reproductor de DVD elegante con tecnología de mejora de la imagen y conectividad HDMI y USB.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony BDP-S1700 Reproductor de Blu-Ray Full HD  USB  HDMI  Ethernet  Negro'
-date: 2022-01-15 11:57:31
+date: 2022-01-16 23:42:07
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21'
 descuento: '24.68'
-average: '75.0121532091096'
+average: '75.0049999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Interfaz de salida de video: HDMI
 - Disfruta de colores vivos con Triluminos Colour
 - Consumo de energía: 8.5 W
 - Disfruta de todas tus películas en calidad Full HD
-- Interfaz de salida de video: HDMI
 - Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
