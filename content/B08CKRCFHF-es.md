@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Chromebook Z1400CN-EB0596 - Portátil 14" Full HD  Intel Celeron N3350  8GB RAM  64GB eMMC  HD Graphics 500  Chrome OS  Plata - Teclado QWERTY español'
-date: 2022-01-10 18:45:19
+date: 2022-01-18 18:48:42
 image: 'https://m.media-amazon.com/images/I/41q7CvEqx5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 8GB SO-DIMM LPDDR4 2400MHz
-- Tarjeta gráfica integrada Intel HD Graphics 500
-- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
-- Almacenamiento de 64GB eMMC
 - Sistema Operativo: Chrome OS
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
+- Memoria RAM de 8GB SO-DIMM LPDDR4 2400MHz
+- Almacenamiento de 64GB eMMC
+- Tarjeta gráfica integrada Intel HD Graphics 500
 
 [🛒 Aquí!!!]({{< param buyurl >}})
