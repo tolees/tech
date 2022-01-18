@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Product 1: El ratón MRM0 combina el máximo confort y un rendimiento extremo gracias a su exclusivo diseño con iluminación RGB flow y a sus sensor óptico de hasta 4000 DPI.
-- Product 1: Acabado en goma para mejorar el agarre y pies de teflón para un deslizamiento más cómodo, el MRM0 ha sido creado para cubrir las necesidades de los usuarios más exigentes.
-- Product 2: La base de caucho natural de la MMP1 evita que la alfombrilla se deslice por la mesa, asegurando la máxima precisión durante el juego
-- Product 2: De superficie amplia, la alfombrilla MMP1 cuenta con un espectacular diseño en rojo, con motivo espacial. Déjate seducir por la fuerza del planeta rojo
 - Product 1: Hasta 4000 DPI con sensor óptico y cambio de alta velocidad on-the-fly, el MRM0 te ofrece la máxima precisión y control total de movimientos.
 - Product 1: En Mars Gaming sabemos que el diseño es esencial, por eso, el MRM0 incluye una espectacular iluminación RGB flow y un acabado perfecto.
 - Product 2: La alfombrilla MMP1 está fabricada con un suave tejido que ofrece una respuesta rápida y una precisión de movimiento extrema. Juegues con ratón óptico o láser, ¡la MMP1 es el complemento perfecto!
+- Product 2: De superficie amplia, la alfombrilla MMP1 cuenta con un espectacular diseño en rojo, con motivo espacial. Déjate seducir por la fuerza del planeta rojo
+- Product 2: La base de caucho natural de la MMP1 evita que la alfombrilla se deslice por la mesa, asegurando la máxima precisión durante el juego
+- Product 1: El ratón MRM0 combina el máximo confort y un rendimiento extremo gracias a su exclusivo diseño con iluminación RGB flow y a sus sensor óptico de hasta 4000 DPI.
+- Product 1: Acabado en goma para mejorar el agarre y pies de teflón para un deslizamiento más cómodo, el MRM0 ha sido creado para cubrir las necesidades de los usuarios más exigentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
