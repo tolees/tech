@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nueva Pantalla Táctil de Color Amoled
-- Funciones Convenientes: Vea instantáneamente SMS, llamadas, notificaciones de aplicaciones y música.
-- Mayor Resistencia al Agua: Xiaomi Mi Band 5 puede funcionar bien bajo el agua y cumplir con sus tareas diarias.
-- Hasta 14 días de batería
 - Administra Tu Salud: Xiaomi Mi Band 5 controlará tus pasos, frecuencia cardíaca, calorías quemadas, etc. y puede ayudarte a ajustar tus hábitos de sueño
+- Funciones Convenientes: Vea instantáneamente SMS, llamadas, notificaciones de aplicaciones y música.
+- Hasta 14 días de batería
+- Nueva Pantalla Táctil de Color Amoled
+- Mayor Resistencia al Agua: Xiaomi Mi Band 5 puede funcionar bien bajo el agua y cumplir con sus tareas diarias.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
