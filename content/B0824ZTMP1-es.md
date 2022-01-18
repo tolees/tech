@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Cubi 5 10M-008BEU - Ordenador de sobremesa  Intel Core i5-10210U  Intel UHD Graphics 605  sin sistema operativo  negro'
-date: 2022-01-14 08:46:06
+date: 2022-01-18 09:03:18
 image: 'https://m.media-amazon.com/images/I/41PZao5F5fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B0824ZTMP1/?tag=tolees-21'
 descuento: '16.39'
-average: '410.098333333333'
+average: '410.710769230769'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sistema operativo
 - Tarjeta gráfica integrada intel uhd graphics
+- Sin sistema operativo
 - Procesador intel core i5-10210u (4 núcleos, 6 mb cache, 1.60 ghz hasta 4.20 ghz)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
