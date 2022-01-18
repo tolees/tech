@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor de seguimiento rápido
-- Navegación óptima
-- Paquete de teclado en español y ratón
-- Color negro
-- El teclado cuenta con accesos directos integrados, incluidas teclas dedicadas para Office, búsqueda y emojis, acceso sencillo a controles multimedia, aplicaciones, recorte de la pantalla, calculadora, volumen
 - Se conecta de forma inalámbrica mediante Bluetooth
+- El teclado cuenta con accesos directos integrados, incluidas teclas dedicadas para Office, búsqueda y emojis, acceso sencillo a controles multimedia, aplicaciones, recorte de la pantalla, calculadora, volumen
 - Diseño estilizado y contemporáneo con una relación calidad-precio adecuado
+- Paquete de teclado en español y ratón
 - Una forma de capturar la pantalla
+- Navegación óptima
+- Sensor de seguimiento rápido
+- Color negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
