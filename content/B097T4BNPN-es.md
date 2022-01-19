@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 10 Home
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
-- Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 10 Home
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
