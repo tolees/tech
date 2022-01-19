@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi GMR4015GL - Regleta'
-date: 2022-01-18 13:34:13
+date: 2022-01-19 14:53:22
 image: 'https://m.media-amazon.com/images/I/31G1weCxvmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07YBL91XQ/?tag=tolees-21'
 descuento: '26.68'
-average: '13.6227200000003'
+average: '13.6018253968257'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

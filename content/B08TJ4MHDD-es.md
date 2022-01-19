@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon Cámara Digital Ivy Rec -Actividades al Aire Libre  Video Full HD  60 fps  13 MP  F2.2  Bluetooth  WiFi  conexión móvil con aplicación Canon  Ligero  Impermeable  a Prueba de Golpes   Gris'
-date: 2022-01-13 15:05:42
+date: 2022-01-19 16:05:26
 image: 'https://m.media-amazon.com/images/I/316UO6UF-cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B08TJ4MHDD/?tag=tolees-21'
 descuento: '30.03'
-average: '88.47'
+average: '91.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
