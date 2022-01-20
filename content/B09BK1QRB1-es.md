@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell Portátil 2 en 1Inspiron 14 5410 de 14 Pulgadas  procesador Intel Core i5-1135G7  Pantalla WVA FHD Truelife táctil de Borde Estrecho  RAM de 8 GB  SSD NVMe de 256 GB y Win10 Home'
-date: 2022-01-18 00:31:11
+date: 2022-01-20 18:15:19
 image: 'https://m.media-amazon.com/images/I/411z43VVovS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 14.0" FHD T Nw CvGlass MPP Pen
+- Memoria integrada de 8GB, 2x4GB, DDR4, 3200MHz
 - Memoria integrada de 8GB, 2x4GB, DDR4, 3200MHz
 - Pantalla de 14.0" FHD T Nw CvGlass MPP Pen
-- Procesador Intel Core i5-1135G7 (8MB Cache,4.2 GHz)
 - Almacenamiento de 256GB M.2 PCIe NVMe Solid State Drive
 - Gráficos integrados Intel Iris Xe Graphics
 - Procesador Intel Core i5-1135G7 (8MB Cache,4.2 GHz)
-- Almacenamiento de 256GB M.2 PCIe NVMe Solid State Drive
-- Memoria integrada de 8GB, 2x4GB, DDR4, 3200MHz
+- Procesador Intel Core i5-1135G7 (8MB Cache,4.2 GHz)
 - Gráficos integrados Intel Iris Xe Graphics
+- Almacenamiento de 256GB M.2 PCIe NVMe Solid State Drive
+- Pantalla de 14.0" FHD T Nw CvGlass MPP Pen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

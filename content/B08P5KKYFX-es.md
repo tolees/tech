@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- XIAOMI MI WATCH (BEIGE)
+- Wireless communication technology: Bluetooth
 - Dimensiones del producto: 3.4 L x 27.5 H x 6.7 W (centimeters)
 - Connectivity technology: GPS
 - Android 5.0 e iOS 10 y superior
-- XIAOMI MI WATCH (BEIGE)
-- Wireless communication technology: Bluetooth
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

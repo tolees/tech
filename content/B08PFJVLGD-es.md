@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo Chrome OS
 - Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
-- Tarjeta gráfica integrada Intel UHD 600
-- Almacenamiento de 64 GB eMMC
-- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
 - Memoria RAM de 4 GB LPDDR4-3733 MHz
+- Almacenamiento de 64 GB eMMC
+- Tarjeta gráfica integrada Intel UHD 600
+- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
+- Sistema Operativo Chrome OS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
