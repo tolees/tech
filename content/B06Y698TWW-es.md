@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La lente macro de aproximación puedes hacer fotos de cerca (35cm)
-- Dial de ajuste del brillo
 - Incluye una correa a juego y un sticker de regalo
+- Dial de ajuste del brillo
 - Dispone de espejo para selfies
+- La lente macro de aproximación puedes hacer fotos de cerca (35cm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

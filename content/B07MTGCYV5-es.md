@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del cable: 1.8 m
-- Auriculares
 - Micrófono flexible
-- Conexión 3.5 mm jack x2
 - Conexión: 2 x jack 3.5 mm
+- Longitud del cable: 1.8 m
+- Conexión 3.5 mm jack x2
+- Auriculares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
