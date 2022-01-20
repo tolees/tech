@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Chromebook X360 14a-ca0003ns - Ordenador portátil de 14" FullHD Convertible táctil  Celeron N4020  4GB RAM  64GB Emmc  Gráficos Intel UHD  Chrome OS   Plata - teclado QWERTY Español'
-date: 2022-01-17 15:45:45
+date: 2022-01-20 16:49:36
 image: 'https://m.media-amazon.com/images/I/51XYGfLACnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFJVLGD/?tag=tolees-21'
 descuento: '19.19'
-average: '299.669375000001'
+average: '299.630000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD 600
-- Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
-- Almacenamiento de 64 GB eMMC
 - Sistema Operativo Chrome OS
-- Memoria RAM de 4 GB LPDDR4-3733 MHz
+- Pantalla FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC
+- Tarjeta gráfica integrada Intel UHD 600
+- Almacenamiento de 64 GB eMMC
 - Procesador Intel Celeron N4020 (2 núcleos, 1,1 GH/ 2,8 GHz, 4 MB)
+- Memoria RAM de 4 GB LPDDR4-3733 MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
