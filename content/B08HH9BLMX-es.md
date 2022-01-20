@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BESDERSEC - Cameras de Seguridad WiFi  Camara IP Exterior WiFi 1080P HD  Camera IP WiFi Impermeable IP66 con Audio de Dos Vías，Visión Nocturna 50M en Color Detección de Movimiento Monitorización，con Tarjeta 32G'
-date: 2022-01-19 12:23:19
+date: 2022-01-20 13:00:54
 image: 'https://m.media-amazon.com/images/I/41oxjUHwHCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BESDERSEC'
 buyurl: 'https://www.amazon.es/dp/B08HH9BLMX/?tag=tolees-21'
 descuento: '16.52'
-average: '49.9527450980394'
+average: '49.8909615384617'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

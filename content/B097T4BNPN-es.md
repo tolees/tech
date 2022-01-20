@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook 13 UX325EA-KG407T - Ordenador Portátil 13" OLED FullHD  Intel Core i5-1135G7  16GB RAM  512GB SSD  Iris Xe Graphics  Windows 10 Home  Gris Pino - Teclado QWERTY español'
-date: 2022-01-19 11:36:43
+date: 2022-01-20 12:48:06
 image: 'https://m.media-amazon.com/images/I/41R0CBaKktS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B097T4BNPN/?tag=tolees-21'
 descuento: '20.02'
-average: '810.045333333334'
+average: '809.355000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 10 Home
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
