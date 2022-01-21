@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI WiFi AX3 - Router Dual-core WiFi 6 Plus Revolution 3000 Mbps  Tecnología OFDMA multiusuario  hasta 128 dispositivos en doble banda  Color Blanco'
-date: 2022-01-20 13:05:06
+date: 2022-01-21 17:37:23
 image: 'https://m.media-amazon.com/images/I/21LadMckIlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08W2KLV45/?tag=tolees-21'
 descuento: '49.37'
-average: '41.6939393939393'
+average: '41.6769999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
