@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi GMR4015GL - Regleta'
-date: 2022-01-19 14:53:22
+date: 2022-01-21 09:44:33
 image: 'https://m.media-amazon.com/images/I/31G1weCxvmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07YBL91XQ-es Xiaomi GMR4015GL - Regleta'
 sku: 'B07YBL91XQ-es'
 tags: [ 'Accesorios de alimentación','Electrónica','Regletas','xiaomi', ]
-actualPrice: 10.99 EUR
+actualPrice: 10.0 EUR
 currency: EUR
-price: 10.99
+price: 10.0
 comparePrice: 14.99 EUR
 prodname: 'Xiaomi GMR4015GL - Regleta'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07YBL91XQ/?tag=tolees-21'
-descuento: '26.68'
-average: '13.6018253968257'
+descuento: '33.29'
+average: '13.5734645669294'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
