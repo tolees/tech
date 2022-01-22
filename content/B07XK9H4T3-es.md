@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Pack Spider-Man  7 películas  [DVD]'
-date: 2022-01-20 23:39:29
+date: 2022-01-21 23:46:54
 image: 'https://m.media-amazon.com/images/I/613kcAxQWZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07XK9H4T3/?tag=tolees-21'
 descuento: '30.05'
-average: '25.5257142857143'
+average: '26.26875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

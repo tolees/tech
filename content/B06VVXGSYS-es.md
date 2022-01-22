@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Superficie de juego optimizada para sensores; diseñada especialmente para sensores láser y ópticos
-- La superficie de policarbonato de alta resistencia de la Razer Sphex V2 ha sido sometida a exigentes pruebas de impactos, desgaste y roturas
 - Acabado de policarbonato de alta resistencia; diseñada para una máxima durabilidad
 - Alfombrilla de ratón de juego; formato ultra fino 0,5 mm / 0,02"; para una experiencia de inmersión total
+- La superficie de policarbonato de alta resistencia de la Razer Sphex V2 ha sido sometida a exigentes pruebas de impactos, desgaste y roturas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
