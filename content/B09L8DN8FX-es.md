@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dashcam Cámara de Coche  1080P Full HD Visión Nocturna Cámara Vigilancia para Coche con Modo de Estacionamiento  Gran Ángulo 170°  Detección de Movimiento  Sensor G  Grabación en Bucle  WDR'
-date: 2022-01-21 18:58:02
+date: 2022-01-22 22:53:12
 image: 'https://m.media-amazon.com/images/I/413tyD7xKtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09L8DN8FX/?tag=tolees-21'
 descuento: '16.67'
-average: '57.1328571428571'
+average: '56.24'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
