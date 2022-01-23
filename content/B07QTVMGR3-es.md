@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Herkunftsland: Vereinigte Staaten
 - Verpackungsgewicht: 100.0 Gramm
 - Verpackungsabmessungen (L x B x H): 169.0 x 134.0 x 11.0 mm
-- Herkunftsland: Vereinigte Staaten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
