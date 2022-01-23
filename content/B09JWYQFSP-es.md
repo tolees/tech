@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - The Crown  VOSE   Temporada 4  [DVD]'
-date: 2022-01-19 06:06:21
+date: 2022-01-23 06:00:42
 image: 'https://m.media-amazon.com/images/I/41PaxfYb7+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B09JWYQFSP/?tag=tolees-21'
 descuento: '30.08'
-average: '12.2357142857143'
+average: '12.45'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
