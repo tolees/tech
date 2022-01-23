@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set básico para el mejor rendimiento: Set de alta velocidad de línea eléctrica rápido con hasta 2400 Mbit/s a través de la línea eléctrica, WiFi con hasta 1200 Mbit/s para toda su casa
-- Para una red doméstica en habitaciones: WiFi ac de malla de alta velocidad con Access Point Steering para una red óptima de sus terminales al transmitir, jugar y navegar
 - Auténtico placer multimedia: Gracias a la tecnología Multi User MIMO, dispone al mismo tiempo de la mejor WiFi posible en varios terminales
-- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
+- Set básico para el mejor rendimiento: Set de alta velocidad de línea eléctrica rápido con hasta 2400 Mbit/s a través de la línea eléctrica, WiFi con hasta 1200 Mbit/s para toda su casa
 - Productos incluidos: Starter Kit con dos adaptadores Powerline: 1 x adaptador WiFi Powerline (con 2 x conexiones Gigabit LAN) + 1 x adaptador de conexión (con 1 x conexión Gigabit LAN), WiFi 5
+- Para una red doméstica en habitaciones: WiFi ac de malla de alta velocidad con Access Point Steering para una red óptima de sus terminales al transmitir, jugar y navegar
+- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
