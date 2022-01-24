@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'eufy 2K Cámara Vigilancia WiFi Interior  cámara IP Interior Cámara de Seguridad Pan-Tilt Enchufable  Reconocimiento de Personas  con Asistente de Voz  Sensor de Movimiento  HomeBase No es Necesario'
-date: 2022-01-09 18:21:48
+date: 2022-01-24 13:20:13
 image: 'https://m.media-amazon.com/images/I/3192ihb4DGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'eufy'
 buyurl: 'https://www.amazon.es/dp/B086LBCQJL/?tag=tolees-21'
 descuento: '20.00'
-average: '43.9682608695652'
+average: '43.8025'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
