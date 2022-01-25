@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Bee Auriculares Manos Libres  Auricular Bluetooth Inalámbrico Negocio con Micrófono Auricular para iPhone  Samsung  Huawei  Xiaomi  HTC  LG  Sony  PC 60 Días en Espera  Negro '
-date: 2022-01-24 00:19:21
+date: 2022-01-25 06:11:26
 image: 'https://m.media-amazon.com/images/I/41bBL7hCkgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Bee'
 buyurl: 'https://www.amazon.es/dp/B07B7JP71S/?tag=tolees-21'
 descuento: '15.01'
-average: '22.4464930555553'
+average: '22.4364013840828'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
