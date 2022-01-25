@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almacenamiento adicional ideal para su PC, Xbox One o PS4
 - De alta velocidad USB 3.0 puerto
 - capacidad de 2 TB
-- Almacenamiento adicional ideal para su PC, Xbox One o PS4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

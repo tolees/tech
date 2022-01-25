@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - En combinación con una herramienta única de hackeo, verás emerger múltiples soluciones a los rompecabezas en función de las decisiones que tomes
 - Descubre un mundo tipo cómic asombrosamente detallado, de la mente del legendario dibujante Dave Gibbons»
-- Los ingeniosos rompecabezas se entrelazan en una dramática e intrigante narrativa para ofrecer una experiencia de juego que te mantendrá pegado a la pantalla
 - Desvela oscuras conspiraciones y derrota a un aterrador antagonista en este dramático thriller ciberpunk con pinceladas de humor que explora temáticas contemporáneas: el control social, la inteligencia artificial y el estado de vigilancia total.
+- Los ingeniosos rompecabezas se entrelazan en una dramática e intrigante narrativa para ofrecer una experiencia de juego que te mantendrá pegado a la pantalla
 - Vive una aventura ambientada en un mundo dinámico, poblado por personajes con voluntad propia e impulsados por motivaciones que el personaje puede alterar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin fēnix 6S Solar - Reloj multideporte avanzado con GPS y carga solar  Plateado con correa negra'
-date: 2022-01-11 08:52:14
+date: 2022-01-25 09:20:46
 image: 'https://m.media-amazon.com/images/I/41vrVjFCx8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gracias al mapa preinstalado de topoactive Europe con amplias funciones de navegación, siempre encontrarás tu destino; ya sea para trail running o para la ciudad de vacaciones, siempre llegaras bien; ahora con mapas mundiales de esquí.
-- Una declaración de diseño en tu muñeca: elegante, deportiva, resistente; pantalla perfectamente legible sujeta por un resistente bisel de acero inoxidable.
-- Fenix 6 Solar incorpora cristal de carga solar Power Glass con pantalla de 1.2 pulgadas. Con la energía solar podrás prolongar la duración de la batería y asegurar una autonomía durante semanas. Pantallas siempre activas visibles bajo cualquier condición de luz.
-- Sensor de frecuencia cardíaca en la muñeca, determinación de la saturación de oxígeno con PulseOx, monitorización de carga de entrenamiento actual, PacePro para la planificación de rutas según el ritmo; para tu entrenamiento óptimo.
-- Conectividad Bluetooth, Wi-Fi y ANT +, memoria de 32 GB.
+- Get improved performance data to help one endure tough challenges, including the acclimation 20 widget to analyse additional data and see how ones body is holding up to the current elevation
+- Train with a rugged yet sophisticated watch, featuring an always-on 12 Inch display, a comfortable fit and a stainless steel bezel
+- Smaller-sized solar powered multisport GPS watch uses a Power Glass solar charging lens and custom power manager modes to achieve long-lasting battery life
+- Upgraded activity profiles now let one track more, such as specialised grit and flow measurements while mountain biking
+- Track surfing sessions with a new dedicated activity profile, and even use Surfline Sessions, which creates a video of every wave one ride in front of a Surfline camera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook 14 X413JA-EB593 - Portátil  Full HD  Core i7-1065G7  16GB RAM  1TB SSD  Iris Plus Graphics  Sin Sistema Operativo  Negro - Teclado QWERTY español'
-date: 2022-01-18 14:26:39
+date: 2022-01-25 09:32:32
 image: 'https://m.media-amazon.com/images/I/31EuigugQ3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Procesador Intel Core i7-1065G7 (4C/QuadCore 1.3 / 3.9GHz, 8MB)
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Plus Graphics
 - Sin Sistema Operativo
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB SO-DIMM DDR4
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 
 [🛒 Visítala!!!]({{< param buyurl >}})
