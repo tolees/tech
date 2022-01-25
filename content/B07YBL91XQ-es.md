@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad
 - Diseño moderno y funcional
+- Producto de alta calidad
 - De la marca Xiaomi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
