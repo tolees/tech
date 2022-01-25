@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo procesamiento y bayoneta de metal de alta calidad
-- Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja y retrato; equivalente a un objetivo de 50 mm 35 mm
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 - Control total sobre la profundidad de campo y las condiciones de iluminación gracias al objetivo rápido con una gran apertura F1.8
+- Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja y retrato; equivalente a un objetivo de 50 mm 35 mm
 - Los límites de acercamiento de aprox. 0.25 m proporcionan posibilidades de disparo desde cualquier ángulo
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- Óptimo procesamiento y bayoneta de metal de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
