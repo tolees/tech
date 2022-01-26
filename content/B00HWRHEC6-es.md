@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Objetivo Olympus M.Zuiko Digital 25 mm F1.8  Longitud Focal Fija rápida  Apto para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
-date: 2022-01-25 00:42:15
+date: 2022-01-26 09:10:00
 image: 'https://m.media-amazon.com/images/I/31YyxntCT0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Control total sobre la profundidad de campo y las condiciones de iluminación gracias al objetivo rápido con una gran apertura F1.8
 - Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja y retrato; equivalente a un objetivo de 50 mm 35 mm
-- Los límites de acercamiento de aprox. 0.25 m proporcionan posibilidades de disparo desde cualquier ángulo
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 - Óptimo procesamiento y bayoneta de metal de alta calidad
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- Los límites de acercamiento de aprox. 0.25 m proporcionan posibilidades de disparo desde cualquier ángulo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
