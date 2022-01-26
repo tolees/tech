@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Microsoft 365: Comparte con tu familia o amigos, hasta 6 personas. Cada persona tendrá una cuenta y acceso separados;
+- Proteja varios dispositivos, incluidos PC, Mac, smartphones y tablets, contra malware, phishing y ransomware con protección adicional de dispositivos (hasta 5 dispositivos).
+- Norton 360: Varias capas de protección para sus dispositivos y privacidad online para toda la familia, y todo en una única solución
+- Genere, almacene y gestione sus contraseñas, la información de tarjetas de crédito y otras credenciales online en su propio depósito cifrado guardado en la nube con Gestor de contraseñas.
+- Incluye aplicaciones premium de Office: Word, Excel, PowerPoint, OneNote y Outlook;
+- Hasta 6 TB de almacenamiento en la nube (1 TB por persona en OneDrive);
 - Funciona en Windows, Mac, iOS y Android (iOS y Android requieren descargar una aplicación dedicada);
 - Almacene sus archivos y documentos importantes como medida preventiva contra la pérdida de datos debida a fallos en el disco duro, dispositivos robados e incluso ransomware con 50 GB de Copia de seguridad en la nube para PC.
-- Hasta 6 TB de almacenamiento en la nube (1 TB por persona en OneDrive);
-- Proteja varios dispositivos, incluidos PC, Mac, smartphones y tablets, contra malware, phishing y ransomware con protección adicional de dispositivos (hasta 5 dispositivos).
-- Incluye aplicaciones premium de Office: Word, Excel, PowerPoint, OneNote y Outlook;
-- Genere, almacene y gestione sus contraseñas, la información de tarjetas de crédito y otras credenciales online en su propio depósito cifrado guardado en la nube con Gestor de contraseñas.
-- Norton 360: Varias capas de protección para sus dispositivos y privacidad online para toda la familia, y todo en una única solución
+- Microsoft 365: Comparte con tu familia o amigos, hasta 6 personas. Cada persona tendrá una cuenta y acceso separados;
 
 [🛒 Aquí!!!]({{< param buyurl >}})
