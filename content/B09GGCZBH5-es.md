@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi 11 Lite 5G NE - Smartphone con Pantalla de 6 55” DotDisplay AMOLED FHD+ de 90 Hz  6+128GB  Qualcomm Snapdragon 778G  Triple cámara de 64MP+8MP+5MP  Bat 4250mAh  Azul Chicle  Versión ES/PT '
-date: 2022-01-24 15:55:26
+date: 2022-01-26 16:47:58
 image: 'https://m.media-amazon.com/images/I/415TLA0m5wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09GGCZBH5/?tag=tolees-21'
 descuento: '21.65'
-average: '298.92'
+average: '298.388823529412'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de conector: USB tipo c; Sistema operativo: miui 12
-- Este smartphone cuenta con una cámara triple de 64MP, que incluye una cámara principal de 64MP, ultra gran angular de 8MP y telemacro SMP que mejora su alcance y puede capturar el mundo sin límites. Por la noche, el modo nocturno de Xiaomi 11 Lite SG NE captura tomas claras con la cámara gran angular y la cámara frontal en condiciones de poca luz
-- Qualcomm Snapdragon 778G y 33W de carga rápida. Disfruta de un rendimiento increíble con Qualcomm Snapdragon 778G. Prepárate para afrontar cualquier reto a toda velocidad
 - Xiaomi 11 Lite 5G NE incorpora una pantalla de 6.55" AMOLED, e incluye Dolby Vision para calidad de vídeo excepcional. con una amplia gama de colores DCI-P3 completa y una profundidad de color TrueColor de 10 bits, Xiaomi 11 Lite 5G NE proporciona la asombrosa cantidad de 1.07 mil millones de colores en pantalla para un alto grado de precisión de color. Además, la pantalla también cuenta con una alta tasa de refresco de 90Hz y una frecuencia de muestreo táctil de 240Hz
-- A pesar de su potencia, Xiaomi 11 Lite 5G NE es eficiente en batería. Una batería de 4250 mAh que admite una carga rápida de 33 W mantiene el teléfono encendido durante todo el día
 - El cuerpo ultradelgado de 6,81 mm y ultraligero de 158 g del Xiaomi 11 Lite 5G NE, ofrece un aspecto limpio y refrescante que es tan llamativo como cómodo y manejable. Xiaomi 11 Lite 5G NE, el teléfono inteligente 5G más fino y ligero de Xiaomi, mide solo 1,88 mm y logra un excelente equilibrio entre capacidad y forma
+- Tipo de conector: USB tipo c; Sistema operativo: miui 12
+- A pesar de su potencia, Xiaomi 11 Lite 5G NE es eficiente en batería. Una batería de 4250 mAh que admite una carga rápida de 33 W mantiene el teléfono encendido durante todo el día
+- Qualcomm Snapdragon 778G y 33W de carga rápida. Disfruta de un rendimiento increíble con Qualcomm Snapdragon 778G. Prepárate para afrontar cualquier reto a toda velocidad
+- Este smartphone cuenta con una cámara triple de 64MP, que incluye una cámara principal de 64MP, ultra gran angular de 8MP y telemacro SMP que mejora su alcance y puede capturar el mundo sin límites. Por la noche, el modo nocturno de Xiaomi 11 Lite SG NE captura tomas claras con la cámara gran angular y la cámara frontal en condiciones de poca luz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
