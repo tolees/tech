@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Pack: Karate Kid  5 títulos  [Blu-ray]'
-date: 2022-01-24 13:21:58
+date: 2022-01-27 18:30:31
 image: 'https://m.media-amazon.com/images/I/51lHHzZPaSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07QMY8N1P/?tag=tolees-21'
 descuento: '20.55'
-average: '26.5678260869566'
+average: '26.1887500000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

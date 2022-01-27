@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
+- Almacenamiento de 512GB SSD
 - Procesador Intel Core i5-10200H
+- Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
+- Sistema operative: Windows 10 Home
 - Memoria RAM de 8GB
 - Tarjeta gráfica NVIDIA GeForce RTX 3050Ti 4GB GDDR6
-- Sistema operative: Windows 10 Home
-- Almacenamiento de 512GB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
