@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 840 Myra - Teclado Gaming con iluminación LED  Negro - Teclado QWERTY Español'
-date: 2022-01-24 15:50:18
+date: 2022-01-27 22:40:37
 image: 'https://m.media-amazon.com/images/I/41J0ud4C5HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Accesorios','Accesorios para Juegos PC','Informática','Juegos y Acceso
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97
-comparePrice: 21.43 EUR
+comparePrice: 39.99 EUR
 prodname: 'Trust Gaming GXT 840 Myra - Teclado Gaming con iluminación LED  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B0767LWLNR/?tag=tolees-21'
-descuento: '20.81'
-average: '18.5375000000001'
+descuento: '57.56'
+average: '18.4900000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin efecto fantasma: Hasta 8 pulsaciones de teclas simultáneas
+- Teclado de tamaño normal con 5 teclas de macro programables adicionales
 - Iluminación LED de 3 colores con nivel de brillo ajustable
+- Sin efecto fantasma: Hasta 8 pulsaciones de teclas simultáneas
 - 12 teclas multimedia de acceso directo. Cable trenzado de 1,8 m
 - Interruptor de modo de juego; desactive la tecla de Windows directamente
-- Teclado de tamaño normal con 5 teclas de macro programables adicionales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
