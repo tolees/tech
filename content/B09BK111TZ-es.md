@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Dell G15-5510 Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-10200H  8GB RAM  512GB SSD  NVIDIA RTX 3050-4GB  Tarjeta gráfica 3050 Ti  Windows 10 Home   Gris - Teclado QWERTY Español'
-date: 2022-01-16 00:36:54
+title: 'Dell G15-5510 Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-10200H  8GB RAM  512GB SSD  NVIDIA RTX 3050Ti-4GB  Windows 10 Home   Gris - Teclado QWERTY Español'
+date: 2022-01-27 17:56:14
 image: 'https://m.media-amazon.com/images/I/419Wf1haMBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 809.0 EUR
 currency: EUR
 price: 809.0
 comparePrice: 999.0 EUR
-prodname: 'Dell G15-5510 Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-10200H  8GB RAM  512GB SSD  NVIDIA RTX 3050-4GB  Tarjeta gráfica 3050 Ti  Windows 10 Home   Gris - Teclado QWERTY Español'
+prodname: 'Dell G15-5510 Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-10200H  8GB RAM  512GB SSD  NVIDIA RTX 3050Ti-4GB  Windows 10 Home   Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Dell'
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-10200H
-- Sistema operative: Windows 10 Home
 - Pantalla de 15.6" FullHD (1920x1080 píxeles) 120Hz, 250 nits
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Procesador Intel Core i5-10200H
 - Memoria RAM de 8GB
+- Tarjeta gráfica NVIDIA GeForce RTX 3050Ti 4GB GDDR6
+- Sistema operative: Windows 10 Home
 - Almacenamiento de 512GB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
