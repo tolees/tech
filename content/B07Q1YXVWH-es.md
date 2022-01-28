@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOQAUS Auriculares Inalámbricos Diadema 52 Hrs de Reproducción Auriculares Bluetooth con 3 Modos EQ y Hi-Fi Sonido Cascos Inalambricos con Micrófono y 40mm Controlador para Móviles/Xiaomi/TV/PC-Negro'
-date: 2022-01-26 00:29:37
+date: 2022-01-28 06:35:03
 image: 'https://m.media-amazon.com/images/I/41b82sKLHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DOQAUS'
 buyurl: 'https://www.amazon.es/dp/B07Q1YXVWH/?tag=tolees-21'
 descuento: '32.72'
-average: '35.4518320610686'
+average: '35.4042857142856'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
