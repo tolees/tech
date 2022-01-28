@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Teclado de tamaño normal con 5 teclas de macro programables adicionales
-- Iluminación LED de 3 colores con nivel de brillo ajustable
-- Sin efecto fantasma: Hasta 8 pulsaciones de teclas simultáneas
 - 12 teclas multimedia de acceso directo. Cable trenzado de 1,8 m
 - Interruptor de modo de juego; desactive la tecla de Windows directamente
+- Sin efecto fantasma: Hasta 8 pulsaciones de teclas simultáneas
+- Teclado de tamaño normal con 5 teclas de macro programables adicionales
+- Iluminación LED de 3 colores con nivel de brillo ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
