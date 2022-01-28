@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sennheiser HD 569 - Auriculares de Diadema Cerrados  6.3 mm/3.5 mm  micrófono  Control Remoto   Color Negro'
-date: 2022-01-17 17:25:19
+date: 2022-01-28 15:47:46
 image: 'https://m.media-amazon.com/images/I/41ZbMnCHEhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01L1IIF1A-es Sennheiser HD 569 - Auriculares de Diadema Cerrados 6.3...'
 sku: 'B01L1IIF1A-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','sennheiser', ]
-actualPrice: 89.4 EUR
+actualPrice: 73.88 EUR
 currency: EUR
-price: 89.4
-comparePrice: 179.0 EUR
+price: 73.88
+comparePrice: 108.0 EUR
 prodname: 'Sennheiser HD 569 - Auriculares de Diadema Cerrados  6.3 mm/3.5 mm  micrófono  Control Remoto   Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sennheiser'
 buyurl: 'https://www.amazon.es/dp/B01L1IIF1A/?tag=tolees-21'
-descuento: '50.06'
-average: '98.329333333333'
+descuento: '31.59'
+average: '96.8012499999997'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Opciones de cable: desconectable de 3 m con jack de 6.3 mm, más cable de 1.2 metros con jack de 3.5 mm, que integra micrófono con control remoto para llamadas y control de la reproducción
+- Diadema acolchada y lujosas orejeras, perfectos para largas sesiones de escucha
 - Acabado en negro mate
 - Premium,circun-aural, auriculares cerrados
-- Diadema acolchada y lujosas orejeras, perfectos para largas sesiones de escucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
