@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou Cámara IP WiFi Interior 1080P con Detección de Humano  Cámara de Vigilancia WiFi Interior con Modo de Privacidad  Compatbile con 2.4GHz WiFi  Detección de Sonidos Extraños  Work with Alexa'
-date: 2022-01-27 00:44:41
+date: 2022-01-28 12:44:04
 image: 'https://m.media-amazon.com/images/I/31EIUGuVRhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Imou'
 buyurl: 'https://www.amazon.es/dp/B08X6DCJT2/?tag=tolees-21'
 descuento: '30.56'
-average: '28.8042857142856'
+average: '28.6983333333332'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
