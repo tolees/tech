@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El compañero ideal para los niños, se adapta perfectamente al Fire 7 (solamente compatible con la 9.ª generación, modelo de 2019; la funda no es apta para dispositivos de generaciones anteriores).
-- Protege contra golpes y caídas.
-- Funda ligera, resistente y hecha de un material apto para los niños.
-- Funda infantil para el tablet Fire 7 (compatible con la 9.ª generación - modelo de 2019).
 - Diseñada especialmente para los niños. Soporte regulable para usar el tablet sin sujetarlo.
+- El compañero ideal para los niños, se adapta perfectamente al Fire 7 (solamente compatible con la 9.ª generación, modelo de 2019; la funda no es apta para dispositivos de generaciones anteriores).
+- Funda ligera, resistente y hecha de un material apto para los niños.
+- Protege contra golpes y caídas.
+- Funda infantil para el tablet Fire 7 (compatible con la 9.ª generación - modelo de 2019).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

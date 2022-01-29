@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Marvel s Avengers  PlayStation PS4 '
-date: 2022-01-26 16:20:47
+date: 2022-01-29 00:09:53
 image: 'https://m.media-amazon.com/images/I/51NrVHj+YBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07SYSKPJP-es Square Enix - Marvel s Avengers PlayStation PS4'
 sku: 'B07SYSKPJP-es'
 tags: [ 'Libros','playstation','ps4','square enix', ]
-actualPrice: 11.58 EUR
+actualPrice: 13.58 EUR
 currency: EUR
-price: 11.58
+price: 13.58
 comparePrice: 69.99 EUR
 prodname: 'Square Enix - Marvel s Avengers  PlayStation PS4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B07SYSKPJP/?tag=tolees-21'
-descuento: '83.45'
-average: '15.12'
+descuento: '80.60'
+average: '14.735'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
