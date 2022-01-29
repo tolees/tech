@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Soporte Vesa 100 X 100 mm, para la mayoría de monitores del mercado
 - Con 3 X USB 2.0, ranura para tarjetas SD / MMC, 2 x antena Wi-Fi
 - La caja PHNXT está pensada para disipar el calor de los componentes del equipo a través de pequeños orificios
-- Soporte Vesa 100 X 100 mm, para la mayoría de monitores del mercado
 - Para placas base formato thin mini ITX
 
 [🛒 Visítala!!!]({{< param buyurl >}})
