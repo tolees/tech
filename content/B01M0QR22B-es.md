@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra 128 GB memoria doble m3.0 dey hasta 150 MB/s'
-date: 2022-01-16 18:06:57
+date: 2022-01-29 13:55:24
 image: 'https://m.media-amazon.com/images/I/41sAt4BZydL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21'
 descuento: '56.27'
-average: '14.9505217391302'
+average: '14.9422413793101'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
