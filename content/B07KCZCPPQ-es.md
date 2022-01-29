@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela de calidad y forro de microfibra que protege la pantalla.
 - La tapa con imanes mantiene la funda firmemente cerrada.
+- Abre la tapa de la funda para activar el tablet y ciérrala para suspenderlo.
+- Coloca el tablet en posición vertical para leer o en horizontal para ver películas o series.
+- Tela de calidad y forro de microfibra que protege la pantalla.
 - Concebida por Amazon para ofrecer una protección y ajuste óptimos al Fire 7 (solo compatible con el modelo de 2019, 9.ª generación; no es apta para dispositivos de generaciones anteriores).
 - Fácil acceso a los botones, puertos y cámaras.
-- Coloca el tablet en posición vertical para leer o en horizontal para ver películas o series.
 - Diseño fino con soporte integrado que te permite ver la pantalla sin sujetar el dispositivo.
-- Abre la tapa de la funda para activar el tablet y ciérrala para suspenderlo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
