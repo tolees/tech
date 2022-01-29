@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con llamadas con manos libres y asistente de voz
-- Protección de contenido compatible: SCMS-T
-- Audio inalámbrico con tecnología bluetooth
-- Formatos de audio compatibles: SBC, AAC
-- Cables flexibles y ligeros
-- Hasta 15 horas de duración de batería
 - Unidades de diafragma de 9.mm para un sonido claro y nítido
+- Formatos de audio compatibles: SBC, AAC
+- Protección de contenido compatible: SCMS-T
+- Compatible con llamadas con manos libres y asistente de voz
+- Audio inalámbrico con tecnología bluetooth
+- Hasta 15 horas de duración de batería
+- Cables flexibles y ligeros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
