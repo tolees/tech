@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de red  velocidad doble banda  1 x puerto Gigabit  luz señal inteligente  modo AP  fácil configuración'
-date: 2022-01-29 00:50:59
+date: 2022-01-30 01:13:52
 image: 'https://m.media-amazon.com/images/I/314bP9LAf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21'
 descuento: '29.18'
-average: '54.0531498470952'
+average: '54.0392682926833'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
