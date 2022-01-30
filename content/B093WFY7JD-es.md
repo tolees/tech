@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco M3 Pro 5G - Smartphone 128GB  6GB RAM  Dual Sim  Power Black'
-date: 2022-01-29 16:31:17
+date: 2022-01-30 16:52:17
 image: 'https://m.media-amazon.com/images/I/41SIq7RY3yS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B093WFY7JD/?tag=tolees-21'
 descuento: '29.14'
-average: '195.449354838709'
+average: '195.497499999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
