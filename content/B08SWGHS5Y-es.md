@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AMD Freesync Premium Pro compatible
 - La curvatura 1000R se ajusta a los contornos del ojo humano
 - Monitor curvo gaming Samsung de 27 WQHD (2560x1440)
 - Con un 1 ms de tiempo de respuesta y una tasa de refresco de 144 Hz
 - Antiparpadeo y menos luz azul
-- AMD Freesync Premium Pro compatible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
