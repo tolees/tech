@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Samsung G Series C34G55TWWU, monitor gaming curvo de 34" WQHD (2560x1440)
-- AMD FreeSync Premium para una experiencia fluida de juego
-- Tecnología eye-saver y flicker-free para evitar el cansancio ocular
-- Pantalla con una curvatura 1000R que proporciona una experiencia inmersiva
 - 165 Hz de tasa de refresco y 1 ms de tiempo de respuesta para la mejor experiencia gaming
+- Pantalla con una curvatura 1000R que proporciona una experiencia inmersiva
+- Samsung G Series C34G55TWWU, monitor gaming curvo de 34" WQHD (2560x1440)
+- Tecnología eye-saver y flicker-free para evitar el cansancio ocular
+- AMD FreeSync Premium para una experiencia fluida de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
