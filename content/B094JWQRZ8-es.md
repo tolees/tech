@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nokia C20 - Smartphone de 6.52 Pulgadas  WiFi 802.11 b/g/n/AC  BT 4.2  GPS/AGPS  SC9863A Octa Core 1.6GHz  ROM: 32 GB e MMC 5.1  2GB DDR3 DRAM  Android 11 Go  Cámara 5MP  Micro USB 2.0   Nordic Blue'
-date: 2022-02-01 07:29:36
+date: 2022-02-02 11:11:52
 image: 'https://m.media-amazon.com/images/I/41LibKv7-5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nokia'
 buyurl: 'https://www.amazon.es/dp/B094JWQRZ8/?tag=tolees-21'
 descuento: '26.61'
-average: '96.594'
+average: '93.8266666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD
-- Edición Android 11 Go, desbloqueo facial, HDR y embellecimiento en la cámara
-- Sensor de luz ambiental, sensor de proximidad, acelerómetro (G sensor)
 - Conectividad: WiFi 802.11 b/g/n, BT 4.2, GPS/AGPS
-- 6.52 pulgadas HD y V-notch con 2D Panada Glass
 - Batería retirable de 3000mAh, micro USB2.0
+- Sensor de luz ambiental, sensor de proximidad, acelerómetro (G sensor)
+- Edición Android 11 Go, desbloqueo facial, HDR y embellecimiento en la cámara
+- 6.52 pulgadas HD y V-notch con 2D Panada Glass
 
 [🛒 Aquí!!!]({{< param buyurl >}})
