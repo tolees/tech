@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica integrada Intel Iris Plus Graphics
-- Sin Sistema Operativo
 - Procesador Intel Core i7-1065G7 (4C/QuadCore 1.3 / 3.9GHz, 8MB)
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM DDR4
+- Tarjeta gráfica integrada Intel Iris Plus Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
