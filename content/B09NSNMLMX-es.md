@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocoda Receptor Bluetooth  AUX Adaptador Bluetooth 5.0 Jack con 3.5mm Cable  14Hrs Enlace Dual Reducción de Ruido Receptor Bluetooth Audio para Llamadas Manos Libres  PC  Audio de Coche y Doméstico'
-date: 2022-02-03 15:17:07
+date: 2022-02-04 15:33:39
 image: 'https://m.media-amazon.com/images/I/41EwS2IwuyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocoda'
 buyurl: 'https://www.amazon.es/dp/B09NSNMLMX/?tag=tolees-21'
 descuento: '19.79'
-average: '14.7985714285714'
+average: '14.7525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
