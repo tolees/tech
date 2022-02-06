@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'ASUS D515DA-BR777 - Portátil 15.6" HD  Ryzen 7 3700U  8GB RAM  512GB SSD  Radeon RX Vega 10  Sin Sistema Operativo  Gris - Teclado QWERTY español'
-date: 2022-01-31 19:23:36
-image: 'https://m.media-amazon.com/images/I/41vtKRmSoGS._SL500_._SL400_.jpg'
+date: 2022-02-06 13:51:10
+image: 'https://m.media-amazon.com/images/I/41Yhn+cl1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada AMD Radeon RX Vega 10
+- Procesador AMD Ryzen 7 3700U (4C/QuadCore 2.3 / 4GHz, 4MB)
 - Sin Sistema Operativo
 - Memoria RAM de 8GB SO-DIMM DDR4
 - Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
-- Procesador AMD Ryzen 7 3700U (4C/QuadCore 2.3 / 4GHz, 4MB)
-- Tarjeta gráfica integrada AMD Radeon RX Vega 10
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
