@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GNCC Cámara Vigilancia WiFi Interior  C1  Cámara Vigilancia Bebé Mascota 1080P FHD 2.4G WiFi Visión Nocturna Detección de Movimiento y Sonido Audio de 2 vías Compatible con iOS y Android'
-date: 2022-02-03 21:25:26
+date: 2022-02-06 04:56:15
 image: 'https://m.media-amazon.com/images/I/312VDKviwxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GNCC'
 buyurl: 'https://www.amazon.es/dp/B09M8K24NK/?tag=tolees-21'
 descuento: '24.12'
-average: '26.113125'
+average: '25.5716666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
