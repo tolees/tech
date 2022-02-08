@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-C500 - Auriculares "True Wireless"  Hasta 20 horas de autonomía con funda de carga  Compatible con Voice Assistant  Micrófono incorporado para llamadas telefónicas  Conexión Bluetooth  Blanco'
-date: 2022-02-04 21:10:40
+date: 2022-02-08 05:07:21
 image: 'https://m.media-amazon.com/images/I/21nYCINlLhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B09FKFY395/?tag=tolees-21'
 descuento: '44.69'
-average: '64.335'
+average: '63.3255555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
