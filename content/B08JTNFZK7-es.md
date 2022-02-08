@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola razr 5G - Smartphone 5G  pantalla 6.2" HD+  procesador Snapdragon 765  cámara principal de 48MP  batería de 2800 mAH  Dual SIM  8/256GB  Android 10 - Negro [Versión ES/PT]'
-date: 2022-02-07 15:59:21
+date: 2022-02-08 16:27:22
 image: 'https://m.media-amazon.com/images/I/41hERHHEF-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.es/dp/B08JTNFZK7/?tag=tolees-21'
 descuento: '33.36'
-average: '1332.97416666666'
+average: '1307.28384615384'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara de 48 MP con OIS, disfruta de fotos con más brillo en menos luz, con estabilización de imagen óptica en la cámara delantera más avanzada de cualquier smartphone
-- Sistema operativo: Android 10.0
 - Diseño plegable y de tamaño bolsillo, el mítico teléfono de tapa vuelve con un toque moderno, fabricado con los mejores materiales y una pantalla principal que se dobla por la mitad
 - Increíble velocidad 5G, descarga tus películas favoritas en cuestión de minutos en la nueva generación de redes inalámbricas
-- Batería para todo el día, disfruta de hasta 24 horas sin recargar, y recárgalo rápido con TurboPower
+- Cámara de 48 MP con OIS, disfruta de fotos con más brillo en menos luz, con estabilización de imagen óptica en la cámara delantera más avanzada de cualquier smartphone
 - Pantalla externa interactiva, mantente conectado aunque tu teléfono esté cerrado: responde mensajes, salta canciones, obtén direcciones y más
+- Sistema operativo: Android 10.0
+- Batería para todo el día, disfruta de hasta 24 horas sin recargar, y recárgalo rápido con TurboPower
 
 [🛒 Visítala!!!]({{< param buyurl >}})
