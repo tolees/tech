@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kuizil - Auriculares Inalámbricos  Auriculares Bluetooth 5.2 Estéreo Cascos Inalambricos con IPX7 Impermeable  Reproducci 40 Horas  USB-C Carga Rápida Auriculares con Estuche de Carga  Pantalla LED Inteligente'
-date: 2022-02-07 09:55:57
+date: 2022-02-09 04:56:24
 image: 'https://m.media-amazon.com/images/I/41D87XCSXcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kuizil'
 buyurl: 'https://www.amazon.es/dp/B09GBCHRQW/?tag=tolees-21'
 descuento: '24.25'
-average: '30.3875'
+average: '30.1304761904762'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
