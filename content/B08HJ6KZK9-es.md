@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BESDERSEC - Camara Vigilancia WiFi Exterior con Tarjeta 64G  3MP Camara IP WiFi Exterior Impermeable IP66 con Audio de Dos Vías Visión Nocturna 60M en Color Detección de Movimiento'
-date: 2022-02-09 05:05:45
+date: 2022-02-10 05:55:13
 image: 'https://m.media-amazon.com/images/I/31ZaQ093A0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BESDERSEC'
 buyurl: 'https://www.amazon.es/dp/B08HJ6KZK9/?tag=tolees-21'
 descuento: '19.13'
-average: '60.6480000000001'
+average: '60.4309756097562'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detección Inteligente de Movimiento, Alarmas de Luz y Sonido: Esta cámara de vigilancia exterior está equipada con una alarma inteligente de detección de movimiento, que detecta la información de movimiento en tiempo real y la envía a su teléfono móvil. Cuando se detecta una imagen en movimiento por la noche, la luz se encenderá automáticamente para advertir a los invitados no invitados.
 - Función Fácil de Instalar y Restablecer: Esta cámara de vigilancia Wifi se puede vincular de forma segura con la aplicación del teléfono móvil y admite enlaces WiFi. Compatible con Blue Iris, iSPY, Security Spy, VLC y algún otro software de terceros, y Most Onvif NVR. También está equipado con dos antenas WiFi 5dBi actualizadas para garantizar una conexión estable con WiFi y una señal más estable.
 - Función a Prueba de Agua IP66 y Grabación Inteligente: Ya sea que esté soleado, lloviendo o nevando, esta cámara de red puede soportar condiciones climáticas externas adversas (-4 °F ~ + 140 °F), pero aún puede enviar y transmitir imágenes de monitoreo normalmente.Además, puede reproducir videos de vigilancia en su tiempo libre sin preocuparse por perder imágenes importantes
-- Audio Bidireccional y Pan 355/Tilt 90:El micrófono y el altavoz incorporados te permiten comunicarte con tu familia incluso cuando estás lejos de casa.También puede advertir a invitados no invitados. Con una rotación horizontal de 355°y una rotación vertical de 90 °, esta cámara wifi de vigilancia de interior WIFI crea una cobertura completa de 355°.El alcance de ver es más amplio.
+- Detección Inteligente de Movimiento, Alarmas de Luz y Sonido: Esta cámara de vigilancia exterior está equipada con una alarma inteligente de detección de movimiento, que detecta la información de movimiento en tiempo real y la envía a su teléfono móvil. Cuando se detecta una imagen en movimiento por la noche, la luz se encenderá automáticamente para advertir a los invitados no invitados.
 - 3MP Full HD y Visión Nocturna: Esta cámara de vigilancia tiene una resolución de alta definición 3MP(2304*1296P), que puede proporcionar una calidad de imagen de alta definición, que se puede ver claramente por la noche. Además, este exterior camara ip wifi tiene una luz infrarroja efectiva de 4 piezas incorporada y luz blanca de 4 piezas, que puede presentar la mejor imagen sin importar si es de día o de noche. Con tarjeta SD incorporada de 64G.
+- Audio Bidireccional y Pan 355/Tilt 90:El micrófono y el altavoz incorporados te permiten comunicarte con tu familia incluso cuando estás lejos de casa.También puede advertir a invitados no invitados. Con una rotación horizontal de 355°y una rotación vertical de 90 °, esta cámara wifi de vigilancia de interior WIFI crea una cobertura completa de 355°.El alcance de ver es más amplio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
