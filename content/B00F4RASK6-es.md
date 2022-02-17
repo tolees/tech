@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cable de Conector Lightning a USB  2m '
-date: 2022-02-04 11:21:22
+date: 2022-02-17 09:21:16
 image: 'https://m.media-amazon.com/images/I/211Pm6k-WmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00F4RASK6-es Apple Cable de Conector Lightning a USB 2m'
 sku: 'B00F4RASK6-es'
 tags: [ 'Accesorios','Cables Lightning','Cables y accesorios','Cables y conectores','Informática','apple', ]
-actualPrice: 10.68 EUR
+actualPrice: 13.47 EUR
 currency: EUR
-price: 10.68
+price: 13.47
 comparePrice: 35.0 EUR
 prodname: 'Apple Cable de Conector Lightning a USB  2m '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21'
-descuento: '69.49'
-average: '12.6576923076923'
+descuento: '61.51'
+average: '12.7157142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
