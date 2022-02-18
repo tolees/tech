@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou Cámara IP WiFi Interior 1080P con Detección de Humano  Cámara de Vigilancia WiFi Interior con Modo de Privacidad  Compatbile con 2.4GHz WiFi  Detección de Sonidos Extraños  Work with Alexa'
-date: 2022-02-16 09:12:23
+date: 2022-02-18 11:28:24
 image: 'https://m.media-amazon.com/images/I/31EIUGuVRhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08X6DCJT2-es Imou Cámara IP WiFi Interior 1080P con Detección de Humano...'
 sku: 'B08X6DCJT2-es'
 tags: [ '1080p','Cámaras de vigilancia','Cámaras de vigilancia en domo','Electrónica','Fotografía y videocámaras','alexa','imou','wifi', ]
-actualPrice: 21.66 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 21.66
+price: 29.99
 comparePrice: 35.99 EUR
 prodname: 'Imou Cámara IP WiFi Interior 1080P con Detección de Humano  Cámara de Vigilancia WiFi Interior con Modo de Privacidad  Compatbile con 2.4GHz WiFi  Detección de Sonidos Extraños  Work with Alexa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Imou'
 buyurl: 'https://www.amazon.es/dp/B08X6DCJT2/?tag=tolees-21'
-descuento: '39.82'
-average: '28.0497619047618'
+descuento: '16.67'
+average: '28.0948837209301'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
