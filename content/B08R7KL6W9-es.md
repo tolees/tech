@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unisun - Estación carga controlador PS5  cargador USB-C 2 puertos carga tipo C Pantalla LED Estación carga inalámbrica Dualsense Compatible 2 controladores PlayStation5  puede usar como soporte controlador PS5'
-date: 2022-02-16 16:23:57
+date: 2022-02-18 13:16:36
 image: 'https://m.media-amazon.com/images/I/41kIw1uLoxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unisun'
 buyurl: 'https://www.amazon.es/dp/B08R7KL6W9/?tag=tolees-21'
 descuento: '20.00'
-average: '13.95'
+average: '13.4333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🎮【LED-Anzeige】Das rote Licht bedeutet Laden und das grüne Licht bedeutet Voll / Standby. Die Anzeige dieser PlayStation 5-Ladestation verwendet High-Definition-Technologie, mit der der Ladestatus klar angezeigt werden kann.
-- 🎮【Hervorragendes Design】 Der C-förmige abnehmbare magnetische Ladeanschluss kann zum Laden einfach angeschlossen werden, ohne den Controller zu beschädigen. Kann als Behälter verwendet werden, wenn nicht aufgeladen wird.
 - 🎮【Beste Wahl】 Die Packungsinhalte sind: PS5-Ladestation x1, C-Ladeanschluss x2, 80 cm USB-C-Kabel x1, Farbbox x1. Es ist ein ausgezeichnetes Zubehör für PS5-Spiele mit Familie, Freunden und Liebhabern. Wenn Sie Fragen haben, kontaktieren Sie uns bitte, wir werden Ihnen innerhalb von 24 Stunden einen zufriedenstellenden Service bieten.
-- 🎮【Ladeschutz】 Eingebauter integrierter Schutzchip beschädigt den Griff nicht durch Überladung und verlängert die Lebensdauer des Controllers. Vermeiden Sie die Gefahr von Überhitzung oder Langzeitladung, sicher und effizient.
 - 🎮【Ultraschnelles Laden】Mit dieser Ladegerät können zwei PS5-Controller einfach und schnell gleichzeitig aufgeladen werden. Das vollständige Aufladen dauert nur 3,5 Stunden, und das kabellose Aufladen ist schneller und einfache ! Sie können schnell zu Ihrer Spielwelt zurückkehren!
+- 🎮【Hervorragendes Design】 Der C-förmige abnehmbare magnetische Ladeanschluss kann zum Laden einfach angeschlossen werden, ohne den Controller zu beschädigen. Kann als Behälter verwendet werden, wenn nicht aufgeladen wird.
+- 🎮【Ladeschutz】 Eingebauter integrierter Schutzchip beschädigt den Griff nicht durch Überladung und verlängert die Lebensdauer des Controllers. Vermeiden Sie die Gefahr von Überhitzung oder Langzeitladung, sicher und effizient.
+- 🎮【LED-Anzeige】Das rote Licht bedeutet Laden und das grüne Licht bedeutet Voll / Standby. Die Anzeige dieser PlayStation 5-Ladestation verwendet High-Definition-Technologie, mit der der Ladestatus klar angezeigt werden kann.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

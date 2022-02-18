@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson Expression Home XP-3150  Impresora WiFi A4 Multifunción con Impresión a Doble Cara  Dúplex  y Pantalla LCD  3 en 1: Impresión  Copiadora  Escáner  Mobile Printing  Negro'
-date: 2022-02-17 10:10:20
+date: 2022-02-18 13:19:42
 image: 'https://m.media-amazon.com/images/I/31i8XBzoCDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tableta.*
+- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
 - Impresión a doble cara en A4: Impresión a doble cara automática para reducir el gasto de papel
 - Impresora multifunción compacta: Ahorro de dinero, espacio y tiempo
 - Tintas independientes: Cambia solo los colores usados y ahorra dinero
-- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
+- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tableta.*
 
 [🛒 Comprar!!!]({{< param buyurl >}})
