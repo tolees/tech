@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell G15 5510 Portátil Gaming de 15.6 pulgadas Full HD  Intel Core i5-10500H  Pantalla de 120 Hz 250 nits  NVIDIA GeForce GTX 1650 4GB GDDR5  RAM de 8GB  SSD de 512 GB  Windows 10 Home  Gris'
-date: 2022-02-18 13:23:27
+date: 2022-02-20 18:32:34
 image: 'https://m.media-amazon.com/images/I/419Wf1haMBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dell'
 buyurl: 'https://www.amazon.es/dp/B09F3V5MZ4/?tag=tolees-21'
 descuento: '19.02'
-average: '733.5'
+average: '731.666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Almacenamiento de 512GB M.2 PCIe NVMe Solid State Drive
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
-- Procesador Intel Core i5-10500H (12MB Cache, 4.5 GHz)
 - Memoria integrada de 8GB, 1 x 8G, DDR4, 2933MHz
+- Procesador Intel Core i5-10500H (12MB Cache, 4.5 GHz)
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
 - Pantalla de 15.6 pulgadas Full HD 1920 x 1080 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
