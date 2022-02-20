@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Adaptador Wireless  PC '
-date: 2022-02-19 11:19:30
+date: 2022-02-20 14:59:04
 image: 'https://m.media-amazon.com/images/I/41iYeBzVhAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B074QMN4YW/?tag=tolees-21'
 descuento: '33.35'
-average: '23.1099999999999'
+average: '22.8873913043477'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
