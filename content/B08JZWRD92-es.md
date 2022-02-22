@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Unidad eMMC 64GB
 - Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
-- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
-- Memoria RAM de 4GB
 - Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
-- Procesador 10th Gen Intel Core i5-1035G1
+- Unidad eMMC 64GB
 - Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
+- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
+- Procesador 10th Gen Intel Core i5-1035G1
+- Memoria RAM de 4GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
