@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario + Rabbids Kingdom Battle'
-date: 2022-02-17 16:05:30
+date: 2022-02-23 01:03:23
 image: 'https://m.media-amazon.com/images/I/51EFfyPHTTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B072KDX2YY-es Nintendo - Mario + Rabbids Kingdom Battle'
 sku: 'B072KDX2YY-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Juguetes','Juguetes electrónicos','Juguetes y juegos','Videojuegos','nintendo', ]
-actualPrice: 29.89 EUR
+actualPrice: 26.99 EUR
 currency: EUR
-price: 29.89
+price: 26.99
 comparePrice: 59.95 EUR
 prodname: 'Nintendo - Mario + Rabbids Kingdom Battle'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B072KDX2YY/?tag=tolees-21'
-descuento: '50.14'
-average: '24.8707407407408'
+descuento: '54.98'
+average: '24.8759605911331'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
