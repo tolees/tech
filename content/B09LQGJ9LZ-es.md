@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco M4 Pro 5G - Smartphone 128GB  6GB RAM  Dual Sim  Azul'
-date: 2022-02-16 17:19:32
+date: 2022-02-23 14:39:50
 image: 'https://m.media-amazon.com/images/I/41IziP8u-sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09LQGJ9LZ/?tag=tolees-21'
 descuento: '18.40'
-average: '211.516'
+average: '209.695'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cámara: Dual, 50MP+8MP
 - Batería: 5000 mAh
 - Pantalla: 6.6", 1080 x 2400 pixels
-- Cámara: Dual, 50MP+8MP
 - Procesador: Mediatek Dimensity 810 2.4GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
