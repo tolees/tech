@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Pro Plus MB-MD512KA/EU - Tarjeta de Memoria microSDXC UHS-I U3  160 MB/s  Full HD  4 K  Incluye Adaptador SD '
-date: 2022-02-23 19:27:32
+date: 2022-02-24 20:16:14
 image: 'https://m.media-amazon.com/images/I/31PJeuFBUML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adaptador SD: el adaptador SD incluido hace que la Pro Plus sea compatible con una amplia gama de dispositivos.
 - Alta velocidad: para más grabaciones de vídeo y transferencia masiva con velocidades de lectura y escritura fiables de hasta 160/120 MB/s
+- Adaptador SD: el adaptador SD incluido hace que la Pro Plus sea compatible con una amplia gama de dispositivos.
 - Tarjeta de memoria fiable y robusta de alto rendimiento para contenido de vídeo 4K en el smartphone o el dron
 - Memoria sólida para tus grabaciones: elige entre 512 GB, 256 GB, 128 GB de capacidad de almacenamiento
 - Especialmente resistente gracias a su protección de 6 capas: resistente al agua, a la temperatura, a prueba de rayos X, a prueba de magnético, a prueba de caídas y desgaste
