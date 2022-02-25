@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
-- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
-- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
-- Apple Fresh Todo En Uno limpia tu pelo dejando una sensación fresca y un aroma de manzana duradero
+- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
 - Hasta 72 horas de protección frente a la caspa, la sequedad y el picor (caspa visible, con uso regular; picor debido a la caspa)
 - Combate la causa principal de la caspa para un pelo totalmente libre de caspa, probado clínicamente (con uso regular)
-- Mejor juntos. Utilízalo junto al acondicionador de h&s que hidrata el pelo y el cuero cabelludo en profundidad para conseguir un pelo bonito
+- Apple Fresh Todo En Uno limpia tu pelo dejando una sensación fresca y un aroma de manzana duradero
+- Bueno para el planeta: botella reciclable (sin incluir el tapón y en función de las instalaciones de reciclaje)
+- Testado dermatológicamente, pH equilibrado y reforzado con antioxidantes para un cuidado suave del cuero cabelludo y el pelo
+- Principal marca de champú del mundo (cálculo de P&G basado en las ventas externas anuales de la categoría de champú)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
