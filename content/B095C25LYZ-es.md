@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sistema operativo
+- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
 - Procesador Tiger Lake i7-11800H+HM570
 - Disco 1 TB NVMe PCIe Gen3x4 SSD (new)
-- Tamaño de pantalla: 17.3 inches; Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Tipo de memoria del ordenador: ddr4 sdram
-- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
 - Tarjeta gráfica RTX3060, GDDR6 6GB
+- Sin sistema operativo
+- Tamaño de pantalla: 17.3 inches; Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Tipo de memoria del ordenador: ddr4 sdram
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
