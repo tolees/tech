@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 B11MO-074XES - Ordenador portátil de 14" FullHD  Intel Core i7-1165G7  16 GB RAM  1 TB SSD  UHD Graphics  sin sistema operativo  Azul - Teclado QWERTY Español'
-date: 2022-02-22 22:29:26
+date: 2022-02-26 12:52:50
 image: 'https://m.media-amazon.com/images/I/31AIvLRcUzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08S2Z6JXV/?tag=tolees-21'
 descuento: '33.36'
-average: '914.333333333333'
+average: '900.764705882353'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin sistema operativo
-- Ram de 16GB (3200MHz) DDR IV
 - Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
-- Batería - productividad de hasta 10 horas con polímero de litio de 3 celdas de carga rápida 52 Wh
-- Intel Core i7-1165G7
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Intel Core i7-1165G7
+- Batería - productividad de hasta 10 horas con polímero de litio de 3 celdas de carga rápida 52 Wh
+- Ram de 16GB (3200MHz) DDR IV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
