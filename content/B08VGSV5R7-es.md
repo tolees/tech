@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A11SCX-445XES - Ordenador Portátil 14" FHD  1920 x 1080   Tiger lake i7-1185G7  LPDDR3 16 GB  4267 MHz   512 GB NVMe PCIe Gen3x4 SSD  Sin Sistema Operativo  Blanca'
-date: 2022-02-24 19:56:44
+date: 2022-02-27 08:11:28
 image: 'https://m.media-amazon.com/images/I/41dAptElvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08VGSV5R7/?tag=tolees-21'
 descuento: '21.50'
-average: '1149.0'
+average: '1146.61904761905'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM LPDDR3 16 GB (4267 MHz)
-- Pantalla de 14" FHD (1920 x 1080)
-- Procesador Tiger lake i7-1185G7
-- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
 - Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
+- Pantalla de 14" FHD (1920 x 1080)
+- Memoria RAM LPDDR3 16 GB (4267 MHz)
+- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
+- Procesador Tiger lake i7-1185G7
 
 [🛒 Visítala!!!]({{< param buyurl >}})
