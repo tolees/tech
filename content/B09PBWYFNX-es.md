@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 9 Pro 5G Smartphone Libre  Batería masiva de 5000 mAh  Procesador Qualcomm Snapdragon 695 5G  Carga Dart de 33 W  Pantalla ultrafluida de 120 Hz  Dual Sim  6 + 128 GB Aurora Green'
-date: 2022-02-23 13:56:47
+date: 2022-02-27 14:39:24
 image: 'https://m.media-amazon.com/images/I/31RfsOn1cVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cámara para fotografía nocturna de 64 MP & Cámara frontal de 16 MP
-- Batería masiva de 5000 mAh & Carga Dart de 33 W
-- Procesador Qualcomm Snapdragon 695 5G & Tecnología de proceso de 6 nm
-- Una frecuencia de actualización de 120 Hz y una velocidad de muestreo táctil de 240 Hz
-- 3 años de garantía
+- Carga hasta el 50 % en 15 minutos
+- Estabilización de imagen óptica y electrónica
+- Incluye un escáner de huellas dactilares en pantalla que funciona como un monitor de frecuencia cardíaca
+- Tamaño de la pantalla: 6.4 "
 
 [🛒 Comprar!!!]({{< param buyurl >}})

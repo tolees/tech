@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- QWERTY Español
 - Modo de tecla de bloqueo de Windows, concéntrese en el juego evitando cualquier distracción al deshabilitar la tecla Windows mientras está en acción
-- Efecto anti-ghosting o multitáctil, registra todos los comandos y pulsaciones simultáneas con exactitud
-- Teclas silenciosas y sensibles, reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
-- Retroiluminación RGB dinámica de tres zonas
 - Inclinación ajustable del teclado para una mayor comodidad en las sesiones de juegos más largas
+- Efecto anti-ghosting o multitáctil, registra todos los comandos y pulsaciones simultáneas con exactitud
+- QWERTY Español
+- Retroiluminación RGB dinámica de tres zonas
+- Teclas silenciosas y sensibles, reducen el ruido al mínimo y ofrecen un tacto agradable sin comprometer el rendimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
