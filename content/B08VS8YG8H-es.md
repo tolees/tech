@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG UltraGear 27GP850-B - Monitor 27 pulgadas gaming  Panel IPS  165Hz  1 ms  1000:1  400nit  16:9  HDMI  DisplayPort'
-date: 2022-02-25 08:04:25
+date: 2022-02-27 16:46:02
 image: 'https://m.media-amazon.com/images/I/41RmeCdTZNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B08VS8YG8H/?tag=tolees-21'
 descuento: '24.59'
-average: '411.0'
+average: '411.4'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología AMD FreeSync, ahora también compatible con gráficas NVIDIA y con la interfaz G-Sync, para disfrutar de toda la acción sin parpadeos
-- Juega más fluido con frecuencia de actualización de 165Hz
 - Interacción en tiempo real y sin retrasos gracias a Dynamic Action Sync (DAS Mode)
+- Juega más fluido con frecuencia de actualización de 165Hz
 - Estabilizador de Negros (Tecnología Black Stabilizer), que permite colores oscuros más diferenciados
+- Tecnología AMD FreeSync, ahora también compatible con gráficas NVIDIA y con la interfaz G-Sync, para disfrutar de toda la acción sin parpadeos
 - 1ms (GTG) la máxima velocidad de respuesta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
