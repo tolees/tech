@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco F3 - Smartphone 256GB  8GB RAM  Dual Sim  Night Black'
-date: 2022-02-25 07:30:18
+date: 2022-03-01 19:51:04
 image: 'https://m.media-amazon.com/images/I/41uyP9UezCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0921YN6CJ/?tag=tolees-21'
 descuento: '36.08'
-average: '339.801111111111'
+average: '338.704736842105'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

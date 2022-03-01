@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con varios filtros purificadores de aire
-- Utiliza un filtro True HEPA
 - Potencia nominal: 38 W
+- Compatible con varios filtros purificadores de aire
 - Control inteligente, funciona con Google Assistant, Alexa y Mi Aplicación
+- Utiliza un filtro True HEPA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
