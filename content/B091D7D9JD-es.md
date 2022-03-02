@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Smartphone Galaxy M12 con Pantalla Infinity-V TFT LCD de 6 5 Pulgadas  4 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 5000 mAh y Carga rápida Negro  ES Versión '
-date: 2022-02-16 16:25:13
+date: 2022-03-02 16:27:50
 image: 'https://m.media-amazon.com/images/I/413wco63apL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B091D7D9JD-es Samsung Smartphone Galaxy M12 con Pantalla Infinity-V TFT...'
 sku: 'B091D7D9JD-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','galaxy','ram','samsung','smartphone', ]
-actualPrice: 179.0 EUR
+actualPrice: 178.9 EUR
 currency: EUR
-price: 179.0
+price: 178.9
 comparePrice: 229.0 EUR
 prodname: 'Samsung Smartphone Galaxy M12 con Pantalla Infinity-V TFT LCD de 6 5 Pulgadas  4 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 5000 mAh y Carga rápida Negro  ES Versión '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B091D7D9JD/?tag=tolees-21'
-descuento: '21.83'
-average: '174.020384615385'
+descuento: '21.88'
+average: '174.201111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Batería del teléfono móvil de 5000 mAh6: la batería que dura horas y horas para que puedas usar tu smartphone con todo su potencial.
+- Memoria ampliable: disfruta de los 64/128 GB de almacenamiento interno o añade aún más espacio con una tarjeta microSD de hasta 1 TB.
+- Sistema de cámara cuádruple: descubre más contenido al captar la creatividad con la cámara principal de 48 MP. Gracias al ángulo de visión ultra ancho y a la cámara ultra gran angular, podrás añadir más perspectiva a todas las imágenes.
+- Rendimiento sólido: con hasta 4 GB de RAM y un procesador Octa-Core, tu smartphone finalizará cualquier tarea de inmediato.
 - Teléfono móvil con elegante diseño: gracias a las líneas suaves y a su estampado mini, el Samsung Galaxy M12 aporta una sujeción fácil.
 - Pantalla del smartphone Infinity-V de 6,5 pulgadas: la tecnología HD+ lleva tu experiencia visual un paso más allá.
-- Rendimiento sólido: con hasta 4 GB de RAM y un procesador Octa-Core, tu smartphone finalizará cualquier tarea de inmediato.
-- Sistema de cámara cuádruple: descubre más contenido al captar la creatividad con la cámara principal de 48 MP. Gracias al ángulo de visión ultra ancho y a la cámara ultra gran angular, podrás añadir más perspectiva a todas las imágenes.
-- Memoria ampliable: disfruta de los 64/128 GB de almacenamiento interno o añade aún más espacio con una tarjeta microSD de hasta 1 TB.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
