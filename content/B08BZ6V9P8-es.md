@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
-- Almacenamiento de 512GB M.2 NVMe PCIe
+- Sin Sistema Operativo
 - Memoria RAM de 16GB (en placa) LPDDR4x
 - Pantalla de 14" Full HD (1920 x 1080)
+- Almacenamiento de 512GB M.2 NVMe PCIe
+- Procesador Intel Core i7-1165G7 (2.8GHz, 12MB)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Sin Sistema Operativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

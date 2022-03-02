@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador: Mediatek Dimensity 810 2.4GHz
 - Cámara: Dual, 50MP+8MP
-- Pantalla: 6.6", 1080 x 2400 pixels
+- Procesador: Mediatek Dimensity 810 2.4GHz
 - Batería: 5000 mAh
+- Pantalla: 6.6", 1080 x 2400 pixels
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

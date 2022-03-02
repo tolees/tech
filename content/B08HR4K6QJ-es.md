@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roccat - Ratón óptico gaming Burst negro para PC'
-date: 2022-02-28 19:23:31
+date: 2022-03-02 12:47:57
 image: 'https://m.media-amazon.com/images/I/31PvIgzcaFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Roccat'
 buyurl: 'https://www.amazon.es/dp/B08HR4K6QJ/?tag=tolees-21'
 descuento: '35.95'
-average: '31.375'
+average: '28.942'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Titan Switch Optical para una sensación mecánica con velocidad óptica.
-- Sensor óptico de 8500 dpi basado en PixArt PMW3331.
 - Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor.
 - Sólida carcasa de panal de abeja con un peso extremadamente bajo de 68 g.
 - Patas de ratón PTFE para un deslizamiento sin esfuerzo.
+- Titan Switch Optical para una sensación mecánica con velocidad óptica.
+- Sensor óptico de 8500 dpi basado en PixArt PMW3331.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
