@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANTELA Enchufe Inteligente WiFi 4 000W Con Monitor de Consumo  Horarios y Temporizadores  No Necesita HUB  Protección Contra Sobrecarga  Compatible con Alexa y Google Home  Wifi 2 4 Ghz  2 PCS'
-date: 2022-03-02 10:33:28
+date: 2022-03-03 10:59:46
 image: 'https://m.media-amazon.com/images/I/31rsIcn9NuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ANTELA'
 buyurl: 'https://www.amazon.es/dp/B098JT64SZ/?tag=tolees-21'
 descuento: '15.01'
-average: '21.6566666666667'
+average: '21.615'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
