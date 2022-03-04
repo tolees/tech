@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad y resistencia características de HyperX
-- Micrófono de jirafa extraíble y micrófono integrado
-- Tecnología inalámbrica Bluetooth para la conectividad sobre la marcha
 - Auriculares de juego con cable y certificación de audio Hi-Res
 - Controladores de doble cámara de HyperX para una mejor distinción y menos distorsión
+- Tecnología inalámbrica Bluetooth para la conectividad sobre la marcha
+- Comodidad y resistencia características de HyperX
+- Micrófono de jirafa extraíble y micrófono integrado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
