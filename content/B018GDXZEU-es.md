@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Respuesta rápida con tecnología LK
-- Microinterruptor y rueda infrarrojos
 - Max Resolution 4000 CPI
+- Microinterruptor y rueda infrarrojos
 - Longitud del cable: 1,8 m
 - Metal XGlide Pro Mouse - Botas para ratón
+- Respuesta rápida con tecnología LK
 
 [🛒 Aquí!!!]({{< param buyurl >}})
