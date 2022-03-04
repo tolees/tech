@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A4 Tech - A4Tech A60 Bloody ratón USB Óptico 4000 dpi Negro - Ratón  Ambidextro  Óptico  USB  4000 dpi  6666 FPS  Negro '
-date: 2022-02-28 13:57:54
+date: 2022-03-04 12:55:58
 image: 'https://m.media-amazon.com/images/I/51kLupVAVSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'A4 Tech'
 buyurl: 'https://www.amazon.es/dp/B018GDXZEU/?tag=tolees-21'
 descuento: '29.19'
-average: '25.86'
+average: '24.3866666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Respuesta rápida con tecnología LK
-- Metal XGlide Pro Mouse - Botas para ratón
-- Longitud del cable: 1,8 m
-- Max Resolution 4000 CPI
 - Microinterruptor y rueda infrarrojos
+- Max Resolution 4000 CPI
+- Longitud del cable: 1,8 m
+- Metal XGlide Pro Mouse - Botas para ratón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
