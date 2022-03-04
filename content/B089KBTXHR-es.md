@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cudy AX1800 WiFi 6 Mesh Router  802.11ax Router  Wi-Fi Velocidad hasta 1.8Gbps  Gigabit Ethernet  5 dBi Antenas  OFDMA  MU-MIMO  WPA3  VPN  X6'
-date: 2022-03-02 10:59:12
+date: 2022-03-04 17:07:39
 image: 'https://m.media-amazon.com/images/I/31vE1QkqYDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cudy'
 buyurl: 'https://www.amazon.es/dp/B089KBTXHR/?tag=tolees-21'
 descuento: '34.33'
-average: '54.8523809523809'
+average: '54.4454545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
