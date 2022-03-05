@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad característica de HyperX
+- Audio de juego envolvente
+- Mejorados para el modo portátil
 - Micrófono integrado para el chat del juego
 - 3 tamaños de punta de oído incluidos
-- Mejorados para el modo portátil
-- Audio de juego envolvente
+- Comodidad característica de HyperX
 
 [🛒 Aquí!!!]({{< param buyurl >}})
