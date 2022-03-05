@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Micrófono con cancelación de ruido, que se silencia con un simple giro
 - Compatibles con PS5, PS4, PS4 Pro y PC
-- Ligereza y comodidad, Controles deslizantes de acero ajustables y duradero
 - Prácticos controles de audio integrados
+- Ligereza y comodidad, Controles deslizantes de acero ajustables y duradero
 - Conexión inalámbrica para jugadores, Audio de juego envolvente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

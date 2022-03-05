@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea tu mundo y construye todo lo que puedas imaginar
 - Explora montañas, océanos vivos, mundos infinitos y creaciones increíbles de la tienda del juego, además de minijuegos y mucho más
+- Crea tu mundo y construye todo lo que puedas imaginar
 - Sobrevive con amigos, ya jueguen en consolas, en móviles o en Windows 10, o juega en casa en el modo multijugador en pantalla dividida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

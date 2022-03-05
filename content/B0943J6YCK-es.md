@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Smartphone Xiaomi
 - Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD; Sistema operativo: Android 11
+- Smartphone Xiaomi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
