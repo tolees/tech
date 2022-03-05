@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inhalt: 1 Stück
 - Nintendo BRAVELY DEFAULT 2 Switch USK: 12
+- Inhalt: 1 Stück
 
 [🛒 Aquí!!!]({{< param buyurl >}})
