@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【3MP 360 ° HD Cubre】: Aottom cámara de seguridad exteriores de 3MP HD no solo admite un giro de 355 ° y una inclinación de 90 ° (cubre todas las esquinas）, sino que también está equipada con una función de zoom 4x, incluso el número de matrícula se puede ver claramente.
-- 【3 modos de Visión Nocturna】: Cámara de Seguridad 1080P está equipada con 3 modos de visión nocturna(visión nocturna inteligente, visión nocturna por infrarrojos y visión nocturna en color), 4 focos brillantes y 4 LED IR. Camaras IP pueden muestrar una calidad de imagen nítida en la oscuridad.
 - 【Audio Bidirecctional a Distancia】: Cámara WiFi inalámbrica tienen un micrófono y un altavoz integrados. Puede utilizar la función de audio bidireccional de Tuya APP para advertir a los intrusos y garantizar la seguridad de su casa después de recibir el mensaje de detección de movimiento.(solo admite wifi de 2.4G, no 5G)
 - 【Resistente a Intemperie y Polvo】: Incluso en diferentes climas, nieve, lluvia, tormenta, brillo, la cámara de vigilancia puede funcionar bien. Generalmente camara vigilancia exterior pueden resistente a la intemperie puede funcionar normalmente en un entorno de -10 ℃ ~ 60 ℃.
 - 【Alarma de Movimiento】: Camara de vigilancia WiFi adopta sensores sensibles que pueden capturar objetos en movimiento en tiempo real y notificarle mediante mensajes de texto, lo que pueden darle tranquilidad incluso si está afuera.
+- 【3 modos de Visión Nocturna】: Cámara de Seguridad 1080P está equipada con 3 modos de visión nocturna(visión nocturna inteligente, visión nocturna por infrarrojos y visión nocturna en color), 4 focos brillantes y 4 LED IR. Camaras IP pueden muestrar una calidad de imagen nítida en la oscuridad.
+- 【3MP 360 ° HD Cubre】: Aottom cámara de seguridad exteriores de 3MP HD no solo admite un giro de 355 ° y una inclinación de 90 ° (cubre todas las esquinas）, sino que también está equipada con una función de zoom 4x, incluso el número de matrícula se puede ver claramente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
