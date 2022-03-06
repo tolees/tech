@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de sonido 2.1 con potencia máxima de 120 W
-- Incluye un mando a distancia
 - Tiene un puerto USB 2.0 que permite reproducir archivos MP3 desde un pendrive o un MP3
+- Incluye un mando a distancia
 - Sintonizador FM estéreo PLL digital con 30 presintonías
 - Altavoz torre con reproductor de CD y tecnología inalámbrica Bluetooth
+- Sistema de sonido 2.1 con potencia máxima de 120 W
 
 [🛒 Comprar!!!]({{< param buyurl >}})
