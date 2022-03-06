@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Muse M-1350 BTC - Sistema de Altavoz Torre 2.1  120 W  Bluetooth  NFC  USB  Piso   Color Negro'
-date: 2022-02-28 07:43:30
+date: 2022-03-06 11:46:36
 image: 'https://m.media-amazon.com/images/I/21GMe9U50vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sintonizador FM estéreo PLL digital con 30 presintonías
-- Incluye un mando a distancia
-- Altavoz torre con reproductor de CD y tecnología inalámbrica Bluetooth
 - Sistema de sonido 2.1 con potencia máxima de 120 W
+- Incluye un mando a distancia
 - Tiene un puerto USB 2.0 que permite reproducir archivos MP3 desde un pendrive o un MP3
+- Sintonizador FM estéreo PLL digital con 30 presintonías
+- Altavoz torre con reproductor de CD y tecnología inalámbrica Bluetooth
 
 [🛒 Comprar!!!]({{< param buyurl >}})
