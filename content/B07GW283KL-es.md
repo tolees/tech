@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 3 tamaños de punta de oído incluidos
-- Mejorados para el modo portátil
 - Micrófono integrado para el chat del juego
-- Comodidad característica de HyperX
+- Mejorados para el modo portátil
 - Audio de juego envolvente
+- Comodidad característica de HyperX
 
 [🛒 Aquí!!!]({{< param buyurl >}})
