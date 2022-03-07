@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Google Nest Cam Indoor Negro  Seguridad sin complicaciones en tu móvil las 24 horas del día'
-date: 2022-02-22 13:04:26
+date: 2022-03-07 06:08:32
 image: 'https://m.media-amazon.com/images/I/416rr6rX-nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01NBOQAC3-es Google Nest Cam Indoor Negro Seguridad sin complicaciones...'
 sku: 'B01NBOQAC3-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Prevención y seguridad','google','móvil', ]
-actualPrice: 79.99 EUR
+tags: [ 'Cámaras de vigilancia','Cámaras de vigilancia en domo','Electrónica','Fotografía y videocámaras','google','móvil', ]
+actualPrice: 64.98 EUR
 currency: EUR
-price: 79.99
+price: 64.98
 comparePrice: 139.99 EUR
 prodname: 'Google Nest Cam Indoor Negro  Seguridad sin complicaciones en tu móvil las 24 horas del día'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B01NBOQAC3/?tag=tolees-21'
-descuento: '42.86'
-average: '91.4120689655179'
+descuento: '53.58'
+average: '90.1909677419361'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
