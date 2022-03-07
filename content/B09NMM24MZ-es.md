@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Memoria RAM de 4GB Soldered DDR4-1866
-- Pantalla táctil de 11.6" HD (1366x768) TN 250nits, antirreflejos
 - Almacenamiento de 64GB eMMC 5.1
 - Tarjeta gráfica AMD Radeon R4 Graphics
+- Pantalla táctil de 11.6" HD (1366x768) TN 250nits, antirreflejos
 - Procesador AMD A4-9120C (2C / 2T, 1.6 / 2.4GHz, 1MB L2)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

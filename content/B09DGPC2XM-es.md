@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
+- Sistema Operativo: Windows 10 Home S
+- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
 - Almacenamiento de 256GB SSD M.2 NVMe PCIe
 - Memoria RAM de 8GB SO-DIMM DDR4
-- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
-- Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Sistema Operativo: Windows 10 Home S
 
 [🛒 Visítala!!!]({{< param buyurl >}})
