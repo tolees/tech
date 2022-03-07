@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS F515EA-BR1354T - Ordenador Portátil 15.6" HD  Intel Core i3-1115G4  8GB RAM  256GB SSD  UHD Graphics  Windows 10 Home S  Gris Pizarra - Teclado QWERTY español'
-date: 2022-02-28 22:52:31
+date: 2022-03-07 10:56:23
 image: 'https://m.media-amazon.com/images/I/410xp-sr-HS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09DGPC2XM/?tag=tolees-21'
 descuento: '18.21'
-average: '469.75'
+average: '465.6'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
-- Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
 - Almacenamiento de 256GB SSD M.2 NVMe PCIe
 - Memoria RAM de 8GB SO-DIMM DDR4
-- Sistema Operativo: Windows 10 Home S
+- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
+- Pantalla de 15.6" HD 1366 x 768 pixeles 200 nits
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Sistema Operativo: Windows 10 Home S
 
 [🛒 Visítala!!!]({{< param buyurl >}})
