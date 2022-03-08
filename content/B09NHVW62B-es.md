@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cable trenzado MSI FriXionFree para minimizar la fricción en el escritorio
-- Estructura minuciosamente diseñada lo más ligera posible, 65g ultraligero
-- Estampado de diamantes antideslizante
 - Estructura minuciosamente diseñada lo más ligera posible, 65g ultraligero
 - Interruptores OMRON clasificados para 60 millones de clics
+- Cable trenzado MSI FriXionFree para minimizar la fricción en el escritorio
+- Estructura minuciosamente diseñada lo más ligera posible, 65g ultraligero
+- 400 IPS y hasta 16000 DPI, 1ms Polling Rate
+- 400 IPS y hasta 16000 DPI, 1ms Polling Rate
 - Estampado de diamantes antideslizante
+- Estampado de diamantes antideslizante
+- Interruptores OMRON clasificados para 60 millones de clics
+- Cable trenzado MSI FriXionFree para minimizar la fricción en el escritorio
 - Tipo de conectividad: alámbrico
-- Cable trenzado MSI FriXionFree para minimizar la fricción en el escritorio
-- 400 IPS y hasta 16000 DPI, 1ms Polling Rate
-- Interruptores OMRON clasificados para 60 millones de clics
-- 400 IPS y hasta 16000 DPI, 1ms Polling Rate
 
 [🛒 Visítala!!!]({{< param buyurl >}})

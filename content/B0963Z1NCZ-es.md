@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La tecnología ASUS Extreme Low Motion Blur (ELMB) con 1 ms MPRT y Adaptive-sync elimina los defectos gráficos y hacen que las escenas borrosas cobren nitidez
-- Tamaño de pantalla: 24.0 inches; Tecnología de pantalla: LCD
 - FreeSync Premium elimina los problemas gráficos
+- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes
+- Tamaño de pantalla: 24.0 inches; Tecnología de pantalla: LCD
 - Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon; Compatible con tarjetas gráficas NVIDIA GeForce serie GTX 10, GTX 16, RTX 20 y otras más recientes
 - Monitor gaming IPS Full HD de 23,8" con 165 Hz de refresco (OC.) diseñado para gamers profesionales y disfrutar de una experiencia de juego envolvente
-- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes
+- La tecnología ASUS Extreme Low Motion Blur (ELMB) con 1 ms MPRT y Adaptive-sync elimina los defectos gráficos y hacen que las escenas borrosas cobren nitidez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
