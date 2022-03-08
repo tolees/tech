@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Procesador Intel Celeron N4020
 - Memoria RAM de 4GB
-- Pantalla de 14" FullHD (1920x1080) 220 nits, antiglare, 16:09
-- Sistema operativo Windows 10 pro EDU
-- Tarjeta gráfica Integrated Intel UHD Graphics
 - Almacenamiento de 128GB SSD
+- Tarjeta gráfica Integrated Intel UHD Graphics
+- Sistema operativo Windows 10 pro EDU
+- Pantalla de 14" FullHD (1920x1080) 220 nits, antiglare, 16:09
 
 [🛒 Comprar!!!]({{< param buyurl >}})
