@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teclas mecánicas HyperX, Cuerpo completo de aluminio aeronáutico
+- Memoria integrada para tres perfiles, Modo de juego, 100 % anti-ghosting y funcionalidades N-key rollover
 - Diseño TKL ultracompacto con cable USB tipo C desmontable, Deslumbrante iluminación RGB con efectos dinámicos
 - Personalización avanzada con el software HyperX NGENUITY, Tres ángulos de teclado ajustables
-- Memoria integrada para tres perfiles, Modo de juego, 100 % anti-ghosting y funcionalidades N-key rollover
+- Teclas mecánicas HyperX, Cuerpo completo de aluminio aeronáutico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
