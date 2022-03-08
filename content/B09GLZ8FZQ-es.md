@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Duración de la batería】 Un dispositivo liviano, pero tiene una batería grande. Carga rápida de 33 W y batería de 4250 mAh (típica). Tu Mi 11 Lite 5G puede acompañarte a cualquier lugar.
 - 【Lente de la cámara】 Equipado con una cámara principal de 64MP, una cámara ultra gran angular de 8MP y una cámara telemacro de 5MP, puede capturar fácilmente sus momentos favoritos, ser el director de su propia vida.
-- 【Aspecto exquisito】 El acabado mate minimiza las marcas de huellas dactilares, manteniendo su teléfono como nuevo. El módulo de la cámara solo sobresale 1,77 mm del resto del cuerpo. Y viene en cuatro colores: Truffle Black, Bubblegum Blue, Peach Pink y Snowflake White.
-- 【Aproveche al máximo la velocidad 5G】 Tenga una red 5G rápida, descarga y carga de alta velocidad, videos de mayor calidad o juegos más sensibles. Manténgase conectado instantáneamente con el mundo y siempre a la vanguardia con la velocidad 5G.
 - 【Excelente procesador】 Todo el rendimiento que necesita con Qualcomm Snapdragon 778G. La CPU de ocho núcleos funciona hasta 2,4 GHz, lo que aumenta la velocidad de respuesta de la aplicación y mejora aún más su experiencia de juego.
+- 【Aspecto exquisito】 El acabado mate minimiza las marcas de huellas dactilares, manteniendo su teléfono como nuevo. El módulo de la cámara solo sobresale 1,77 mm del resto del cuerpo. Y viene en cuatro colores: Truffle Black, Bubblegum Blue, Peach Pink y Snowflake White.
+- 【Duración de la batería】 Un dispositivo liviano, pero tiene una batería grande. Carga rápida de 33 W y batería de 4250 mAh (típica). Tu Mi 11 Lite 5G puede acompañarte a cualquier lugar.
+- 【Aproveche al máximo la velocidad 5G】 Tenga una red 5G rápida, descarga y carga de alta velocidad, videos de mayor calidad o juegos más sensibles. Manténgase conectado instantáneamente con el mundo y siempre a la vanguardia con la velocidad 5G.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
