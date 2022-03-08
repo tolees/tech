@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COTOP Gorro Bluetooth 5.0 Regalos Originales  Regalo para Hombres  Mujeres  cálido y Suave Gorro de Invierno con música y Auriculares inalámbricos estéreo HD para Deportes al Aire Libre'
-date: 2022-03-07 06:01:37
+date: 2022-03-08 12:25:36
 image: 'https://m.media-amazon.com/images/I/41hr9LdGmOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COTOP'
 buyurl: 'https://www.amazon.es/dp/B073TYTQCY/?tag=tolees-21'
 descuento: '44.46'
-average: '17.2325862068967'
+average: '17.2086324786326'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
