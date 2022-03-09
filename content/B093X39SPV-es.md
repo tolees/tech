@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Memoria RAM de 8 GB, disco duro solido de 128 GB
+- Procesador Dual-Core Intel Pentium Gold 6500Y
 - Pantalla táctil de 10.5 pulgadas, Pixel Sense Glossy, Full HD 1920 x 1080 pixels
 - Sistema operativo Windows 11 Home en modo S
-- Memoria RAM de 8 GB, disco duro solido de 128 GB
 - El Surface Go 3 de 10.5 pulgadas es portátil, con la versatilidad de una tableta que se convierte en portátil y una autonomía prolongada de hasta 11 horas
-- Procesador Dual-Core Intel Pentium Gold 6500Y
 
 [🛒 Comprar!!!]({{< param buyurl >}})
