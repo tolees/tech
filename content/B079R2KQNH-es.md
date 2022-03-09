@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HDMI  ARC/CEC  Potencia máxima total de salida:90W  control remoto  80 cm  color negro'
-date: 2022-03-08 09:20:27
+date: 2022-03-09 15:31:35
 image: 'https://m.media-amazon.com/images/I/11sDKPZtgNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B079R2KQNH/?tag=tolees-21'
 descuento: '23.49'
-average: '61.3303333333334'
+average: '61.3794505494506'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6 cm)
-- Función Bluetooth: reproduzca contenido de audio desde su Smartphone, Smart TV o Tablet
 - Potente Bluetooth Soundbar System: experiencia de entretenimiento para juegos o cine en casa con su TV; ideal para televisores y pantallas de tamaño mediano de 40-43" o superior
-- Potencia máxima de salida total: 90 W
-- Consumo de electricidad: 30 W
 - Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión HDMI gracias a la tecnología ARC/CEC
+- Consumo de electricidad: 30 W
+- Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6 cm)
 - Se puede conectar a cualquier TV con HDMI, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencia de 90 W
+- Potencia máxima de salida total: 90 W
+- Función Bluetooth: reproduzca contenido de audio desde su Smartphone, Smart TV o Tablet
 
 [🛒 Visítala!!!]({{< param buyurl >}})
