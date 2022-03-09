@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Kindle  ahora con luz frontal integrada  negro'
-date: 2022-03-06 20:30:44
+date: 2022-03-09 18:28:14
 image: 'https://m.media-amazon.com/images/I/41mls4lzcNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.es/dp/B07FQ4XCR1/?tag=tolees-21'
 descuento: '16.67'
-average: '82.9027777777778'
+average: '82.8715019762846'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
-- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
 - Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
-- Una sola carga y la batería dura semanas, no horas.
 - Los miembros Prime tienen acceso a cientos de libros.
+- Una sola carga y la batería dura semanas, no horas.
+- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
 - Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
