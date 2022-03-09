@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6" FHD  Intel Core i7-1185G7  16GB  512GB SSD  Sin Sistema Operativo  - Gris  Teclado QWERTY Español'
-date: 2022-02-24 19:57:07
+title: 'MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6" FHD  Intel Core i7-1185G7  16GB  512GB SSD  NVIDIA GeForce GTX 1650 Max-Q  Sin Sistema Operativo  - Gris  Teclado QWERTY Español'
+date: 2022-03-09 17:21:42
 image: 'https://m.media-amazon.com/images/I/31QZwDOew4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08NC4WTGG-es MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6"...'
 sku: 'B08NC4WTGG-es'
 tags: [ 'Informática','Portátiles','msi','ordenador','teclado', ]
-actualPrice: 1049.0 EUR
+actualPrice: 999.0 EUR
 currency: EUR
-price: 1049.0
+price: 999.0
 comparePrice: 1529.99 EUR
-prodname: 'MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6" FHD  Intel Core i7-1185G7  16GB  512GB SSD  Sin Sistema Operativo  - Gris  Teclado QWERTY Español'
+prodname: 'MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6" FHD  Intel Core i7-1185G7  16GB  512GB SSD  NVIDIA GeForce GTX 1650 Max-Q  Sin Sistema Operativo  - Gris  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08NC4WTGG/?tag=tolees-21'
-descuento: '31.44'
-average: '1114.0'
+descuento: '34.71'
+average: '1085.25'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Tiger lake i7-1185G7
-- 15.6" FHD (1920 x 1080), IPS-Level 60 Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
 - Memoria RAM DDR IV 16 GB (3200 MHz)
 - Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
+- 15.6" FHD (1920 x 1080), IPS-Level 60 Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
+- Procesador Tiger lake i7-1185G7
 
 [🛒 Comprar!!!]({{< param buyurl >}})

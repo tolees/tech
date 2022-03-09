@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalambricos Godyse Auriculares Bluetooth 5.1 Auriculares Inalámbricos Deportivos con Micrófono IPX5 Impermeable Control Estéreo para iPhone Huawei Xiaomi Samsung Blanco'
-date: 2022-03-08 06:52:32
+date: 2022-03-09 17:00:17
 image: 'https://m.media-amazon.com/images/I/21lKnAaRWXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrón
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 29.99 EUR
+comparePrice: 39.99 EUR
 prodname: 'Auriculares Inalambricos Godyse Auriculares Bluetooth 5.1 Auriculares Inalámbricos Deportivos con Micrófono IPX5 Impermeable Control Estéreo para iPhone Huawei Xiaomi Samsung Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Godyse'
 buyurl: 'https://www.amazon.es/dp/B09JLTD9LF/?tag=tolees-21'
-descuento: '33.34'
-average: '24.7966666666667'
+descuento: '50.01'
+average: '24.11'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

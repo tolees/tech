@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Auriculares de diadema cerrados  color negro'
-date: 2022-02-26 01:50:55
+date: 2022-03-09 17:02:47
 image: 'https://m.media-amazon.com/images/I/41qDn4VomEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00F1EHIWI-es Sony - Auriculares de diadema cerrados color negro'
 sku: 'B00F1EHIWI-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','sony', ]
-actualPrice: 11.97 EUR
+actualPrice: 19.07 EUR
 currency: EUR
-price: 11.97
+price: 19.07
 comparePrice: 28.0 EUR
 prodname: 'Sony - Auriculares de diadema cerrados  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00F1EHIWI/?tag=tolees-21'
-descuento: '57.25'
-average: '13.376'
+descuento: '31.89'
+average: '13.7333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
