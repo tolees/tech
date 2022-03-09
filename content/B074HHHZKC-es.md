@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espresso asado y molido por expertos
-- El sabor fuerte y aromático definido lo hace especialmente agradable después de las comidas
 - Libera y mejora todas las notas aromáticas
 - Perfecto para el final de la comida
+- El sabor fuerte y aromático definido lo hace especialmente agradable después de las comidas
+- Espresso asado y molido por expertos
 - Ofrece un café cremoso y fragante de una manera simple y limpia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
