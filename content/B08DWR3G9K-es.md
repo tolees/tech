@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TECNOLOGÍA ELEGANTGYRO: Navegación inteligente que identifica todos los obstáculos y rincones de tu hogar mapeando las habitaciones y estableciendo un recorrido sin repeticiones para la limpieza más efectiva.
-- POTENTE SUCCIÓN: Distinguido motor potente con 1800 PA; que junto con su cepillo central y sus dos cepillos laterales es capaz de arrastrar la suciedad más incrustada incluso de esquinas. Apto para todo tipo de suelos (baldosas; parquets; alfombras; moquetas…)
 - APP CONTROL: Controla todo el funcionamiento y programación del robot aspirador con una aplicación en tu smartphone. Compatible también con Alexa & Google Assistant. También cuenta con control remoto. El robot aspirador vuelve automáticamente a su base de carga una vez finalizada la tarea.
 - 7 MODOS DE LIMPIEZA: Robot aspirador que aspira; barre; pasa la mopa y friega con 7 modos de limpieza distintos: auto; gyro; perimetral; espiral; manual; vuelta a casa y máxima potencia.
+- TECNOLOGÍA ELEGANTGYRO: Navegación inteligente que identifica todos los obstáculos y rincones de tu hogar mapeando las habitaciones y estableciendo un recorrido sin repeticiones para la limpieza más efectiva.
+- POTENTE SUCCIÓN: Distinguido motor potente con 1800 PA; que junto con su cepillo central y sus dos cepillos laterales es capaz de arrastrar la suciedad más incrustada incluso de esquinas. Apto para todo tipo de suelos (baldosas; parquets; alfombras; moquetas…)
 - ELEGANTE: Robot aspirador con el diseño más elegante. Hazte con la elegancia hecha robot aspirador. Acabados premium en negro y dorado rose.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Country of origin:- China
 - Package Dimensions : 10.0L x 10.0W x 5.0H (centimeters)
 - Item Package Quantity: 1
 - Package Weight: 1000 grams
-- Country of origin:- China
 
 [🛒 Aquí!!!]({{< param buyurl >}})
