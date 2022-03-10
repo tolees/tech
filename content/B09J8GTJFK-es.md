@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MatePad T 10 con 9.7 pulgadas de pantalla y resolución HD  Chip Kirin 710A  4GB + 64GB  Doble micofono  EMUI 10.1  Azul - sin servicios de Google preinstalados'
-date: 2022-03-09 10:43:31
+date: 2022-03-10 16:26:25
 image: 'https://m.media-amazon.com/images/I/41syHopn9JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla táctil HD de 9.7 pulgadas con una resolución de 1280 x 800 píxeles. Protección visual Eye Comfort certificada por TÜV Rheinland con una luz azul drásticamente reducida. Modo eBook, modo oscuro con ajuste de brillo
 - Procesador Octa-Core Kirin 710A que ofrece gráficos y rendimiento avanzados. Sistema de altavoces HUAWEI Histen 6.1
-- Cuerpo metálico, diseño elegante, 450g, 2MP de cámara frontal y 5MP de cámara trasera
 - 4GB de RAM y 64GB de almacenamiento
+- Cuerpo metálico, diseño elegante, 450g, 2MP de cámara frontal y 5MP de cámara trasera
 - NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos
+- Pantalla táctil HD de 9.7 pulgadas con una resolución de 1280 x 800 píxeles. Protección visual Eye Comfort certificada por TÜV Rheinland con una luz azul drásticamente reducida. Modo eBook, modo oscuro con ajuste de brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

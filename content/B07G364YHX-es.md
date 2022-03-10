@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - modelo: WDBWLG0100HBK-EESN
 - dimensiones: 13,5 x 4,8 x 16,6 cm
-- 10 TB
 - negro
+- 10 TB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
