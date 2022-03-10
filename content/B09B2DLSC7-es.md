@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Matebook 14 - Ordenador Portátil Ultrafino de 14" 2K  AMD R5 4600H  8GB RAM  512GB SSD  AMD Radeon™ Graphics  Windows 10 Home  Space Grey - Teclado QWERTY Español'
-date: 2022-03-08 15:47:32
+date: 2022-03-10 18:18:13
 image: 'https://m.media-amazon.com/images/I/41CCIJx6VLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B09B2DLSC7/?tag=tolees-21'
 descuento: '33.37'
-average: '662.928571428572'
+average: '660.724137931035'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 8GB DDR4
-- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Almacenamiento de 512GB SSD NVMe PCIe
 - Pantalla de 14", 2K 2160x1440 píxeles, 185PPI y tecnología IPS.
-- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
 - AMD Radeon Graphics
+- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
+- Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
+- Memoria RAM de 8GB DDR4
+- Almacenamiento de 512GB SSD NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
