@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escanee el código de barras en pantalla: este escáner de códigos de barras es la solución perfecta para el pago móvil en tiendas, supermercados y sistemas POS.
 - Escáneres de códigos de barras Bluetooth 1D y 2D: el escáner decodifica muchos tipos de códigos de barras 1D y 2D a una velocidad rápida, incluyendo QR, Data Matrix, PDF417, UPC / EAN Add on 2 o 5, Code 128, etc.
-- Volumen de la batería del escáner: batería recargable de 2000 mAh, el escáner tiene 30 horas para escaneo continuo. Puede trabajar aproximadamente dos semanas en el uso diario después de la carga completa. Se tarda de 3 a 4 horas en cargar el escáner.
+- Escanee el código de barras en pantalla: este escáner de códigos de barras es la solución perfecta para el pago móvil en tiendas, supermercados y sistemas POS.
 - Este escáner de código de barras se aplica a sistemas POS en supermercados, farmacias, panaderías, librerías, tiendas de moda, tabaquerías y quioscos de revistas, etc.
 - Conexión por cable Bluetooth y USB: este escáner 2D es compatible con IOS, Andorid, Windows o Linux con muchos tipos de dispositivos. Puede conectarlo a su teléfono o tableta a través de Bluetooth para iniciar el modo inalámbrico. Y puede conectarlo a una computadora que no sea Bluetooth a través del cable USB
+- Volumen de la batería del escáner: batería recargable de 2000 mAh, el escáner tiene 30 horas para escaneo continuo. Puede trabajar aproximadamente dos semanas en el uso diario después de la carga completa. Se tarda de 3 a 4 horas en cargar el escáner.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
