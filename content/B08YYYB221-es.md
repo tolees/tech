@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultivon Cámara Vigilancia WiFi Exterior con Batería Recargable  Cámara IP 1080P con Audio Bidireccional Visión Nocturna Impermeable PIR Detección de Movimiento para Hogar Seguridad  E100'
-date: 2022-03-08 13:41:36
+date: 2022-03-11 12:48:13
 image: 'https://m.media-amazon.com/images/I/31YaskkULzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ultivon'
 buyurl: 'https://www.amazon.es/dp/B08YYYB221/?tag=tolees-21'
 descuento: '36.25'
-average: '54.8723529411765'
+average: '54.6566666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

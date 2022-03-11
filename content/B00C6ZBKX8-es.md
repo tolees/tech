@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DVD+RW/+R/+R DL  DVD-RW/-R/-R DL  incluidos DVD de 8 cm   JPEG  mp3  MPEG-4  WMA  AAC y PCM lineal  Diseño Compacto 270 mm  Negro'
-date: 2022-02-25 15:52:07
+date: 2022-03-11 13:09:41
 image: 'https://m.media-amazon.com/images/I/31Kpa5vXW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00C6ZBKX8-es Sony DVPSR370B - Reproductor de DVDs con USB CD-R/RW...'
 sku: 'B00C6ZBKX8-es'
 tags: [ 'Electrónica','Reproductores de DVD','Reproductores y grabadores de DVD','TV, vídeo y home cinema','sony', ]
-actualPrice: 34.84 EUR
+actualPrice: 32.79 EUR
 currency: EUR
-price: 34.84
+price: 32.79
 comparePrice: 45.0 EUR
 prodname: 'Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DVD+RW/+R/+R DL  DVD-RW/-R/-R DL  incluidos DVD de 8 cm   JPEG  mp3  MPEG-4  WMA  AAC y PCM lineal  Diseño Compacto 270 mm  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21'
-descuento: '22.58'
-average: '38.1711959287536'
+descuento: '27.13'
+average: '38.1743467336688'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud focal mínima: 35 mm
-- Señal de vídeo analógica: NTSC, PAL
 - Reproduce contenidos mediante USB
-- Dimensión de la pantalla: 2.4 pulgadas
 - Conectores: Salida de componente de vídeo: NO/ Salida de S-Vídeo: NO/ Salida de vídeo compuesto: NO/ Salida de audio digital Coaxial: NO/ Salida de audio digital Óptica: NO/ Salida analógica estéreo: NO/ USB: SÍ/ Salida HDMI: NO
+- Longitud focal mínima: 35 mm
+- Dimensión de la pantalla: 2.4 pulgadas
 - Reproducción de DVD/CD multiformato
+- Señal de vídeo analógica: NTSC, PAL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
