@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco duro externo de sobremesa de 10 TB con USB 3.0  color negro'
-date: 2022-03-10 15:55:16
+date: 2022-03-11 21:04:39
 image: 'https://m.media-amazon.com/images/I/31cKLKahZRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21'
 descuento: '35.90'
-average: '191.000943396227'
+average: '190.851308411216'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - modelo: WDBWLG0100HBK-EESN
-- dimensiones: 13,5 x 4,8 x 16,6 cm
 - negro
 - 10 TB
+- dimensiones: 13,5 x 4,8 x 16,6 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

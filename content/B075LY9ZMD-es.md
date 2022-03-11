@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Control a distancia desde el móvi con app compatible con IO & Android
-- Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
 - Compatible con TaHoma
+- Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
 - Recomendaciones personalizadas para ahorrar en la factura de energia
 - Asociacion de indice de humedad y temperatura gracias a sensor de temperatura y humedad
 
