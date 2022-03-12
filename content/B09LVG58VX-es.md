@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- UNA RED UNIFICADA MESH- Varias cajas forman una red doméstica completa que selecciona automáticamente la mejor conexión cuando se mueve por la cas
 - CONFIGURACIÓN SENCILLA - Puedes configurar todo desde la aplicación Deco que te guía paso a paso en la configuración.
 - SEGURIDAD TOTAL - Con cifrado WPA3 y TP-Link HomeCare ofrecen funciones personalizadas, como control parental, antivirus y calidad de servicio (QoS) para garantizar una experiencia online más segura.
-- VELOCIDAD GIGABIT ETHERNET - Hay 3 puertos Gigabit 10/100/1000 Mbps por unidad para conexiones por cable
 - CONECTE MÁS DISPOSITIVOS - La tecnología OFDMA y la capacidad de cuatro núcleos MU-MIMO para permitir la transmisión simultánea hasta 150 dispositivos
-- UNA RED UNIFICADA MESH- Varias cajas forman una red doméstica completa que selecciona automáticamente la mejor conexión cuando se mueve por la cas
+- VELOCIDAD GIGABIT ETHERNET - Hay 3 puertos Gigabit 10/100/1000 Mbps por unidad para conexiones por cable
 - WIFI 6 CONEXIONES MÁS RÁPIDAS - El WiFi 6 acelera hasta 3000 Mbps - 2.402 Mbps a 5 GHz y 574 Mbps a 2,4 GHz. Además dispone un ancho de banda en 160MHz para conexiones inalámbricas más rápidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
