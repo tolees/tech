@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Conector USB Tipo C Reversible】Con el conector reversible, siga la última tendencia de la interfaz USB.Con este diseño,sin preocuparse por la orientación,puede colocarlo libremente en sus dispositivos USB tipo C.
+- 【Durabilidad】GIANAC Cable USB tipo C,nailon de alta calidad cable, elaboradamente tejido para evitar enredos y daños. Después de la prueba, doblados a 90 grados y doblados a 9000+ veces.
 - 【Fiable】Si encuentra algún problema durante el uso, comuníquese con nosotros a tiempo. Te daremos una respuesta satisfactoria lo antes posible.
 - 【Carga y sincronización rápidas】Nuestros cables cumplen la especificación usb según la versión type c 1.1, 56 kilohom y 22 awg de resistencias de identificación nuclear.Soporta la carga rápida de 3 a y la velocidad de sincronización de datos de hasta 480 mbps.
-- 【Durabilidad】GIANAC Cable USB tipo C,nailon de alta calidad cable, elaboradamente tejido para evitar enredos y daños. Después de la prueba, doblados a 90 grados y doblados a 9000+ veces.
 - 【Amplia compatibilidad】Perfectamente compatible con todos los dispositivos USB-C disponibles actualmente – Samsung Galaxy S10 / S9 / S8 / S8 + / Note 8 / A5 2017 / A7 2017,Huawei P30 / P9. / P10. / P20, nuevo MacBook, ChromeBook Google Pixel 2xl, Pixel C, Nexus 5X / 6P, OnePlus 2 / 3T, HTC 10 / U11, Sony Xperia XZ, LG G5 / G6, Lenovo Zuk Z1, HP Pavilion X2 (No es Compatible con Huawei SuperCharge, OnePlus DASH Charge y Moto TurboPower)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
