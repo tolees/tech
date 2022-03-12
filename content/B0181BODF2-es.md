@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistemas operativos compatibles: Windows 7 o superior; Mac OS X v10.10 o posterior; Linux v14.04, v16.04 (sólo XYZmaker)
-- Compatibilidad de material: PLA / ABS / PLA Duro / PETG / HIPS / Madera; Calibración AUTOMÁTICA; Conectividad: Cable USB 2.0, Wi-Fi 802.11 b/g/n
 - Impresora 3D completamente ensamblada. Incluye 300 g de filamento PLA ABS (valorado en 12£) y herramientas de mantenimiento (valoradas en 15£); Dimensiones de impresión: 20 x 20 x 20 cm
 - Características: filamento abierto, accesorio opcional de grabado por láser, impresión inalámbrica, impresión G-code de soporte; Accesorio de grabador por láser (disponible en XYZprinting eShop), Área de grabado: hasta 20 x 20 cm
+- Sistemas operativos compatibles: Windows 7 o superior; Mac OS X v10.10 o posterior; Linux v14.04, v16.04 (sólo XYZmaker)
+- Compatibilidad de material: PLA / ABS / PLA Duro / PETG / HIPS / Madera; Calibración AUTOMÁTICA; Conectividad: Cable USB 2.0, Wi-Fi 802.11 b/g/n
 - Recursos GRATUITOS de XYZ: software de modelado 3D, videotutoriales en línea, galería de modelos 3D y soporte técnico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
