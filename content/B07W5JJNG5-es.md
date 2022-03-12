@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Teclado retroiluminado: teclas retroiluminadas se ajustan automáticamente a tu entorno con 16 niveles de brillo y una fila completa de teclas de acceso directo de iPadOS. Accede con un solo toque
-- Compatibilidad: la funda con teclado Combo Touch de Logitech es compatible con el iPad Pro de 11 pulgadas (1a, 2a, 3a generación - 2018, 2020, 2021) - A1980, A2013, A1934, A1979, A2228, A2068, A2230, A2231
 - Hazlo todo con Combo Touch: cuatro modos de uso versátiles te permiten escribir, dibujar, visualizar y leer sin necesidad de retirar tu iPad Pro de la funda con teclado
-- Trackpad amplio, haz clic donde sea: esta funda con teclado para iPad posee un trackpad de precisión y fiable que te permite emplear la superficie entera para trabajar y usar los gestos Multi-Touch
 - Teclado extraíble y soporte ajustable: cuando hayas terminado de escribir, retira el teclado para más flexibilidad y disfruta de 50 grados de ángulos de visualización ajustables
+- Trackpad amplio, haz clic donde sea: esta funda con teclado para iPad posee un trackpad de precisión y fiable que te permite emplear la superficie entera para trabajar y usar los gestos Multi-Touch
+- Compatibilidad: la funda con teclado Combo Touch de Logitech es compatible con el iPad Pro de 11 pulgadas (1a, 2a, 3a generación - 2018, 2020, 2021) - A1980, A2013, A1934, A1979, A2228, A2068, A2230, A2231
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
