@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 【Seguridad inteligente】La estación de carga cuenta con un chip de protección inteligente, diseñado para evitar sobrecorriente, sobrecalentamiento, sobretensión, cortocircuitos por medida de precaución. Nunca sobrecargues tus mandos para PS5.
 - 【Carga rápida 5 V/2 A】 Puede cargar dos mandos inalámbricos Playstation 5 DualSense en menos de 4 horas. Ahorra tiempo para jugar. Nota: el controlador se puede cargar completamente en menos de 4 horas solo cuando la potencia de entrada es de al menos 5 V/2 A. También puedes utilizar el puerto USB frontal de la consola para una doble carga.
-- Contenido del paquete: 1 base de carga (controlador no incluido), 1 cable USB
 - Indicador de carga LED: el indicador LED puede mostrar claramente el estado de carga. El indicador rojo de la estación de carga se ilumina para indicar que está cargando y el indicador azul se ilumina para indicar que la carga está completa.
+- Contenido del paquete: 1 base de carga (controlador no incluido), 1 cable USB
 - Soporte compacto y controladores: este cargador de controlador para puertos tipo C integrados PS5 te permite almacenar y cargar 2 controladores simultáneamente sin tener que conectarte a la consola, base de carga ideal para tus controladores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
