@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3"  Intel Core i5-1035G4  8GB RAM  256GB SSD  Intel Graphics  Windows 10  Negro'
-date: 2022-03-10 17:08:01
+date: 2022-03-12 17:50:37
 image: 'https://m.media-amazon.com/images/I/31NuINmVUXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07Y8R8SG9/?tag=tolees-21'
 descuento: '43.35'
-average: '1010.91357142857'
+average: '994.462666666665'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No incluye Type Cover (funda con teclado)
 - Memoria RAM de 8GB LPDDR4X
-- Tarjeta gráfica Intel Graphics
-- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
+- No incluye Type Cover (funda con teclado)
 - Disco duro sólido de 256GB
+- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
 - Procesador Intel Core i5-1035G4, 1.1GHz
+- Tarjeta gráfica Intel Graphics
 - Sistema operativo Windows 10 Home. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

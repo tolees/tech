@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-G700 - Barra de sonido TV 3.1  Dolby Atmos  DTS:X  subwoofer inalámbrico  Bluetooth  400 W  óptimo para experiencia de cine en casa  negro'
-date: 2022-03-11 10:13:31
+date: 2022-03-12 17:07:21
 image: 'https://m.media-amazon.com/images/I/21QGALC3VmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B0886PNNMR/?tag=tolees-21'
 descuento: '29.11'
-average: '360.061818181818'
+average: '359.328571428571'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modos de sonido para películas y música mejoradas
 - Altavoz central para diálogos más claros
-- El AE envolvente convierte las señales de audio a un sonido cercano a 7.1.2 canales
-- Dolby Atmos/DTS:X de 3.1 canales y Vertical Sound Engine
 - Subwoofer inalámbrico para un potente sonido de graves
+- Dolby Atmos/DTS:X de 3.1 canales y Vertical Sound Engine
+- El AE envolvente convierte las señales de audio a un sonido cercano a 7.1.2 canales
+- Modos de sonido para películas y música mejoradas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
