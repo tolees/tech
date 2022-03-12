@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVP-SR170 - Reproductor de DVD HD  negro'
-date: 2022-03-11 13:08:59
+date: 2022-03-12 14:02:51
 image: 'https://m.media-amazon.com/images/I/31y88bOPrbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21'
 descuento: '33.40'
-average: '36.2489473684215'
+average: '36.2332500000004'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un reproductor de DVD que puede reproducir de todo, discos o CD multiformato: genial para cuando falta espacio.
 - Reproducción de DVD/CD multiformato
-- Conéctalo al sistema de sonido: audio mejorado
 - Elige entre reproducción rápida o lenta
+- Conéctalo al sistema de sonido: audio mejorado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
