@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Micrófono de 6 mm Volteable para Silenciar, con Control de Volumen: Con el gran micrófono de varilla tus compañeros de gaming te oirán alto y claro con este casco por Logitech
+- Transductores Grandes (50 mm): Disfruta de sonido expansivo y una experiencia de gaming más inmersiva con transductores de 50 mm
 - Diseño Estilizado y Cómodo: Las copas y diadema de piel sintética son ligeras, para evitar la presión en las orejas y las prácticas copas giran hasta 90 grados garantizan horas de comodidad
 - Compatibilidad Multiplataforma: Los auriculares con micrófono G332 funcionan con PC o Mac con un cable de 3,5 mm, con consolas para gaming que incluyen PlayStation 4, Xbox One y Nintendo Switch
-- Transductores Grandes (50 mm): Disfruta de sonido expansivo y una experiencia de gaming más inmersiva con transductores de 50 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
