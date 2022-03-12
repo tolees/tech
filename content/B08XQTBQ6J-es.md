@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD55X80J - Smart TV de 55" con 4K Ultra HD  Google TV  Processor X1  Triluminos Pro  HDR  modelo 2021  color negro '
-date: 2022-03-11 14:56:28
+date: 2022-03-12 18:29:11
 image: 'https://m.media-amazon.com/images/I/41USV6YwN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad de imagen: 4K HDR
+- Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
 - Nuestra tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen a tu entorno
 - Tamaño de pantalla: 55 pulgadas
 - La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
-- Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
+- Calidad de imagen: 4K HDR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
