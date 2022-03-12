@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pequeño, fino y portátil, óptimo para viajar
-- La luz LED informa si se ha detectado un objeto extraño en proximidad, garantizando una carga segura para tu iPhone 13 o 12.
 - Carga inalámbricamente con hasta 100 W tu iPhone 13, 13 Pro, 13 Pro Max, 13 Mini, 12, 12 Pro, 12 Pro Max, 12 mini y otros dispositivos habilitados con MagSafe.
+- La luz LED informa si se ha detectado un objeto extraño en proximidad, garantizando una carga segura para tu iPhone 13 o 12.
 - Un cable largo de 2 metros permite una colocación y uso flexibles en casa o en la oficina
+- Pequeño, fino y portátil, óptimo para viajar
 - Acoplamiento magnético óptimo para una carga eficiente y un emplazamiento sencillo usando una mano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

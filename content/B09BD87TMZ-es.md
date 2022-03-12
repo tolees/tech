@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS
 - Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
 - Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})

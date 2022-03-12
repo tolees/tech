@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
 - Unidad SSD 128GB
-- Procesador 10th Gen Intel Core i5-1035G1
-- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
 - Súper ligero, con apenas 1,11Kg, para llevar a todas partes
+- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
+- Procesador 10th Gen Intel Core i5-1035G1
 - Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
+- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
 - Memoria RAM de 8GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})

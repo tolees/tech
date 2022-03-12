@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍀【PD20W y QC3.0 Carga Rápida 】La función de carga rápida llena la batería de su móvil de 0% a 60% en 35minutos.Nota: Sus dispositivos debe soporta una carga rápida.
 - 🍀【Amplia Compatibilidad】Puede cargar la mayoría de los dispositivos electrónicos portátiles, como teléfonos y tabletas, por ejemplo Samsung, HUAWEI, etc. Y con 2 Salidas (1 Salida USB C y 1 Salidas USB), admite la carga de 2 dispositivos al mismo tiempo.
-- 🍀【¿Qué Recibe?】PD20W y QC3.0 10000 batería externa x1, usuario manual x1(6 idiomas, Español incluido, ), USB C cable x1.
-- 🍀【2021 Nuevo 10000mAh Batería Externa】Nuevos cambios en tamaño y apariencia, Delgado de 1.4cm, peso de 200g, más ligero que otro power bank mismo material, además, verde medianoche de color metálico es único y elegante.
 - 🍀【Fácil de Llevar】Tamaño: 13.2x6.5x1.4cm, Peso: 200g, Es muy pequeño y portátil. Cumple con la "aprobado por la aerolínea", lo que significa que puede llevarlo consigo, muy adecuado para viajes de negocios o fines de semana.
+- 🍀【¿Qué Recibe?】PD20W y QC3.0 10000 batería externa x1, usuario manual x1(6 idiomas, Español incluido, ), USB C cable x1.
+- 🍀【PD20W y QC3.0 Carga Rápida 】La función de carga rápida llena la batería de su móvil de 0% a 60% en 35minutos.Nota: Sus dispositivos debe soporta una carga rápida.
+- 🍀【2021 Nuevo 10000mAh Batería Externa】Nuevos cambios en tamaño y apariencia, Delgado de 1.4cm, peso de 200g, más ligero que otro power bank mismo material, además, verde medianoche de color metálico es único y elegante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

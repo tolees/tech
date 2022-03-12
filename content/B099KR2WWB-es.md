@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 8GB DDR4
 - Sistema operativo: Windows 10 Home
-- Almacenamiento de 512GB SSD NVMe PCIe
 - Procesador Intel Core i5-10210U (4 núcleos, 6M cache, 1.6GHz hasta 4.20 GHz)
+- Memoria RAM de 8GB DDR4
+- Almacenamiento de 512GB SSD NVMe PCIe
+- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
 - Tarjeta gráfica integrada Intel UHD Graphics
 - Tamaño de pantalla: 14.0 inches; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Pantalla de 14", FullHD 1920 x 1080 píxeles, tecnología IPS
 
 [🛒 Visítala!!!]({{< param buyurl >}})

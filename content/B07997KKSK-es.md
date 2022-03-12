@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado mate
+- 1 TB
+- Disco duro externo de 2.5"
+- Alimentado usb
+- Velocidad escritura: 5 gigabytes_per_second
 - Velocidad lectura: 540 Megabytes por segundo
 - Puerto superspeed usb 3.2
-- Alimentado usb
-- 1 TB
-- Velocidad escritura: 5 gigabytes_per_second
-- Disco duro externo de 2.5"
+- Acabado mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
