@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Poco M3 Pro 5G - Smartphone 64GB  4GB RAM  Dual Sim  Power Black'
-date: 2022-03-05 18:48:11
+date: 2022-03-12 10:26:01
 image: 'https://m.media-amazon.com/images/I/41SIq7RY3yS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0943J6YCK/?tag=tolees-21'
 descuento: '29.73'
-average: '178.67220338983'
+average: '178.727666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD; Sistema operativo: Android 11
 - Smartphone Xiaomi
+- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: LCD; Sistema operativo: Android 11
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
