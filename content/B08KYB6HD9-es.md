@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Volumen de suministro: 4 x Lámpara LED E27, 14 W, 230 V, Warm White, 2700 K, Regulable, 100 % Libre de mercurio
-- Encendido instantáneo, no necesita tiempo de calentamiento
 - Menor disipación de calor (en comparación con el producto de referencia estándar)
-- Consumo de energía 14 kWh/1000h y 1521 lm
 - Larga duración: hasta 15000 horas y hasta 100000 ciclos de encendido
+- Consumo de energía 14 kWh/1000h y 1521 lm
+- Encendido instantáneo, no necesita tiempo de calentamiento
+- Volumen de suministro: 4 x Lámpara LED E27, 14 W, 230 V, Warm White, 2700 K, Regulable, 100 % Libre de mercurio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
