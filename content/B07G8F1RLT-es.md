@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potencia: 65 Wx2 canales (4 Ohms)
-- entrada USB
-- AirPlay 2, radio por Internet, Spotify, Deezer, Tidal, Amazon Music
 - Conexión Bluetooth
+- entrada USB
+- Potencia: 65 Wx2 canales (4 Ohms)
+- AirPlay 2, radio por Internet, Spotify, Deezer, Tidal, Amazon Music
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
