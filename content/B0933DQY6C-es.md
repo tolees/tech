@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control por Wi-Fi o por voz: conecta tu secadora a la App hOn y consigue control remoto, consejos de lavado y asistencia; también compatible con Alexa y Google Home
-- Cajón condensador de 5 litros Easy Case ubicado en la puerta de la escotilla: para un vaciado fácil y cómodo del agua
 - Secadora 10 kg bomba de calor, clase A++: tecnología de secado que ofrece el optimo cuidado a los tejidos, con un optimo consumo y cuidando del medio ambiente
 - Medidas secadora (alto x ancho x profundidad): 85 x 60 x 58.5 cm
+- Cajón condensador de 5 litros Easy Case ubicado en la puerta de la escotilla: para un vaciado fácil y cómodo del agua
+- Control por Wi-Fi o por voz: conecta tu secadora a la App hOn y consigue control remoto, consejos de lavado y asistencia; también compatible con Alexa y Google Home
 - 15 ciclos de lavado, 7 de menos de 90 minutos: optimiza tu tiempo gracias a los programas y protege incluso a las prendas delicadas, como la lana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
