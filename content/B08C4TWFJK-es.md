@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart LED Bulb  Warm White '
-date: 2022-03-12 14:20:35
+date: 2022-03-13 16:02:38
 image: 'https://m.media-amazon.com/images/I/21nFY-khXCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08C4TWFJK-es Xiaomi Mi Smart LED Bulb Warm White'
 sku: 'B08C4TWFJK-es'
 tags: [ 'Bombillas','Bombillas LED','Electrónica','Iluminación','xiaomi', ]
-actualPrice: 6.39 EUR
+actualPrice: 10.49 EUR
 currency: EUR
-price: 6.39
+price: 10.49
 comparePrice: 19.99 EUR
 prodname: 'Xiaomi Mi Smart LED Bulb  Warm White '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08C4TWFJK/?tag=tolees-21'
-descuento: '68.03'
-average: '7.47359999999999'
+descuento: '47.52'
+average: '7.58961538461537'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
