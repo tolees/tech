@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Velocidad CPU: 5 GHz
-- Sistema operativo: Windows 11 Home
 - Tamaño de la pantalla: 13.4 pulgadas
 - Procesador Intel Core i7-1195G7
+- Velocidad CPU: 5 GHz
+- Sistema operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
