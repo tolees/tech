@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - BOTÓN WPS - Para conectarse fácilmente al enrutador y podrá administrar uniformemente desde la aplicación Tether o la interfaz de usuario web.
 - ALTA COMPATIBILIDAD - Funciona con cualquier router Wi-Fi o punto de acceso inalámbrico.
-- CONEXIÓN WIFI DOBLE BANDA - 2,4 GHz (300 Mbps) y 5 GHz (867 Mbps) garantiza una experiencia inalámbrica más estable.
 - MODO PUNTO DE ACCESO - Crea un nuevo punto de acceso Wi-Fi para mejorar su red cableada con capacidad Wi-Fi.
+- CONEXIÓN WIFI DOBLE BANDA - 2,4 GHz (300 Mbps) y 5 GHz (867 Mbps) garantiza una experiencia inalámbrica más estable.
 - PUERTO FAST ETHERNET - Puerto ethernet 10/100mbps para conexiones de internet por cable
 - MODO DE ALTA VELOCIDAD - Maximiza la velocidad mediante el uso de una banda WiFi como backhaul dedicado, ideal para juegos y transmisión HD.
 - ROAMING CONTINUO - Se conecta a la ruta de conexión más rápida al enrutador automáticamente y se ejecuta a la máxima velocidad.
