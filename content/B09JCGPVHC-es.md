@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 512 GB PCIe NVMe SSD
+- Duración de la batería todo el día: HONOR MagicBook Pro le ofrece hasta 11 horas de productividad autónoma sin detener el ritmo. HONOR MagicBook Pro viene con un cargador rápido de 65 W que le permite obtener aproximadamente un 50 % de carga en tan solo media hora
+- Memoria RAM de 16 GB DDR4 Dual-Channel RAM
 - Sistema operativo: Windows 10
 - Pantalla HONOR fullview de 16,1" FullHD 16:9 - Resolución: 1920 x 1080
-- Duración de la batería todo el día: HONOR MagicBook Pro le ofrece hasta 11 horas de productividad autónoma sin detener el ritmo. HONOR MagicBook Pro viene con un cargador rápido de 65 W que le permite obtener aproximadamente un 50 % de carga en tan solo media hora
 - Procesador AMD Ryzen 5 4600H
-- Memoria RAM de 16 GB DDR4 Dual-Channel RAM
+- Almacenamiento de 512 GB PCIe NVMe SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
