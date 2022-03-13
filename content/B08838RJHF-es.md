@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Wifi 802.11ac
-- Almacenamiento SSD ultrarrápido
 - Touch Bar y Touch ID
+- Teclado Magic Keyboard retroiluminado
 - Cuatro puertos Thunderbolt 3 (USB-C)
 - Intel Iris Plus Graphics
-- Trackpad Force Touch
 - Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Espectacular pantalla Retina con tecnología True Tone
-- Teclado Magic Keyboard retroiluminado
+- Trackpad Force Touch
 - Hasta 10 horas de autonomía
+- Espectacular pantalla Retina con tecnología True Tone
+- Almacenamiento SSD ultrarrápido
+- Wifi 802.11ac
 
 [🛒 Aquí!!!]({{< param buyurl >}})

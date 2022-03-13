@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB SSD NVMe con doble ranura para ampliar hasta 4TB.
-- Gráfica Iris Xe para trabajar con contenido 4K UHD
-- Procesador Intel Core i7-1165G7
 - Ultraligero, con tan solo 1kg de peso y batería de hasta 18,5 horas de autonomía convierten al LG gram en el más portátil de los portátiles.
+- Conectividad universal en tan solo 16,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
+- Gráfica Iris Xe para trabajar con contenido 4K UHD
 - Sistema operativo: Windows 11 Home
 - Pantalla de 14" panel IPS WUXGA (1920 x 1200px) de 35,56cm
-- Memoria RAM de 16GB LPDDR
+- Procesador Intel Core i7-1165G7
+- Almacenamiento de 1TB SSD NVMe con doble ranura para ampliar hasta 4TB.
 - Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G).
-- Conectividad universal en tan solo 16,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
+- Memoria RAM de 16GB LPDDR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

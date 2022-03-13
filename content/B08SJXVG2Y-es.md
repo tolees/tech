@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tutoriales Chromebook: Empieza a utilizar fácilmente tu Chromebook con los tutoriales de vídeo en directo con nuestros expertos (idioma español no garantizado). Recibirás el enlace de inscripción por correo electrónico después de la compra.
+- Conectividad: 2 puertos USB, 2 puertos USB tipo C, lector de tarjetas micro-SD, conector de audio y micrófono de 3,5 mm
+- Pantalla: táctil, de 14 pulgadas, Full HD, LCD, IPS, antirreflejos y bordes finos | Procesador: Intel Celeron N4020
+- Este portátil no funciona con el sistema operativo Windows
 - Ya sea en la Web o a través de las aplicaciones de la Google Play Store, podrás hacer todo con los Chromebooks: dejar volar tu creatividad, optimizar la productividad, ver películas, series o jugar a los juegos que te gustan. Los Chromebooks son compatibles con Microsoft Office. Usa las aplicaciones Word, Excel y PowerPoint en Internet.
 - Los Chromebooks son portátiles seguros, rápidos e inteligentes que funcionan con el sistema operativo Chrome OS: se encienden en segundos, evitan las interrupciones gracias a las actualizaciones automáticas, tienen un antivirus integrado y una batería de larga duración.
-- Memoria RAM: 4 GB | Almacenamiento: 64 GB de eMMC. Aprovecha los 100 GB de almacenamiento en línea al activar la oferta de prueba de 1 año de Google One (no se garantiza que esté disponible en todos los países). Tus archivos se copian automáticamente y puedes acceder a ellos desde cualquier dispositivo conectado a Internet.
-- Autonomía de hasta 12,5 horas. Haz más con una sola carga, Chrome OS optimiza continuamente el rendimiento de la batería.
-- Pantalla: táctil, de 14 pulgadas, Full HD, LCD, IPS, antirreflejos y bordes finos | Procesador: Intel Celeron N4020
 - Peso: 1,5 kg y 19,7 mm de grosor
-- Conectividad: 2 puertos USB, 2 puertos USB tipo C, lector de tarjetas micro-SD, conector de audio y micrófono de 3,5 mm
-- Este portátil no funciona con el sistema operativo Windows
+- Autonomía de hasta 12,5 horas. Haz más con una sola carga, Chrome OS optimiza continuamente el rendimiento de la batería.
+- Memoria RAM: 4 GB | Almacenamiento: 64 GB de eMMC. Aprovecha los 100 GB de almacenamiento en línea al activar la oferta de prueba de 1 año de Google One (no se garantiza que esté disponible en todos los países). Tus archivos se copian automáticamente y puedes acceder a ellos desde cualquier dispositivo conectado a Internet.
+- Tutoriales Chromebook: Empieza a utilizar fácilmente tu Chromebook con los tutoriales de vídeo en directo con nuestros expertos (idioma español no garantizado). Recibirás el enlace de inscripción por correo electrónico después de la compra.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

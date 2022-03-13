@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño de pantalla: 15.6 inches
-- NVIDIA GeForce GTX 1650 4GB
 - Capacidad de la memoria RAM (GB): 16.0 GB
-- Tipo de memoria del ordenador: ddr4 sdram
 - AMD Ryzen 7 4800H
 - Sin sistema operativo
-- Sistema operativo: Linux
 - 512GB PCIe NVMe SSD
+- Tamaño de pantalla: 15.6 inches
 - 16 GB DDR4 3200MHz Memory
+- NVIDIA GeForce GTX 1650 4GB
+- Sistema operativo: Linux
+- Tipo de memoria del ordenador: ddr4 sdram
 
 [🛒 Aquí!!!]({{< param buyurl >}})

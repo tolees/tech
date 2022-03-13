@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Personaje Black Panther
-- Compatible con todos los teléfonos móviles o smartphones actuales
-- Compatible con mando o controller PS4, Xbox one, Nintendo Switch y PC
 - Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
+- Compatible con todos los teléfonos móviles o smartphones actuales
 - Producto con licencia oficial Marvel Avengers Endgame
+- Compatible con mando o controller PS4, Xbox one, Nintendo Switch y PC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
