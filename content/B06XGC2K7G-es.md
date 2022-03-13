@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diadema extensible, diseño ultraligero y sistema de plegado
-- Botón multifunción y micrófono integrado
 - Auriculares Bluetooth con diseño urbano y ergonómico
+- Botón multifunción y micrófono integrado
+- Diadema extensible, diseño ultraligero y sistema de plegado
 - Batería de polímero de litio con hasta 8 horas de autonomía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
