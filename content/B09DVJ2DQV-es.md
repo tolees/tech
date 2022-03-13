@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- WQHD + 120Hz display with Dolby Vision support
-- 8720mAh (typ) high capacity battery, 22.5W in-box charger
-- Capacidad de la memoria RAM (GB): 6.0 GB
-- Qualcomm Snapdragon 860 processor with 7nm high performance with up to 2.96GHz
 - Immersive quadruple stereo speakers with Dolby Atmos support
-- Capacidad de almacenamiento de memoria: 128.0
+- Qualcomm Snapdragon 860 processor with 7nm high performance with up to 2.96GHz
+- Capacidad de la memoria RAM (GB): 6.0 GB
 - Sistema operativo: Android
+- Capacidad de almacenamiento de memoria: 128.0
 - Tamaño de pantalla: 11.0 feet
+- 8720mAh (typ) high capacity battery, 22.5W in-box charger
+- WQHD + 120Hz display with Dolby Vision support
 
 [🛒 Visítala!!!]({{< param buyurl >}})
