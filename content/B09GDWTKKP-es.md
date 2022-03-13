@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Auténtico sonido 360 de calidad y 120W de potencia omnidireccional 360º. Siente la música desde cualquier lugar a su alrededor.
-- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
-- Batería de hasta 10 horas. Disfruta de la música en cualquier lugar durante más tiempo.
-- Sonido potente y nítido gracias al Tweeter de titanio y al Woofer de fibra de vidrio, materiales de última generación.
-- Producto ECO Smart Green. El embalaje se ha realizado con papel 100% reciclable.
 - Diseño elegante y exclusivo. Su color verde combina con cualquier estilo y fácil de transportar con su asa superior.
+- Producto ECO Smart Green. El embalaje se ha realizado con papel 100% reciclable.
+- Sonido potente y nítido gracias al Tweeter de titanio y al Woofer de fibra de vidrio, materiales de última generación.
+- Batería de hasta 10 horas. Disfruta de la música en cualquier lugar durante más tiempo.
+- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
