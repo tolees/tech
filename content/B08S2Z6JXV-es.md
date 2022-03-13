@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intel Core i7-1165G7
-- Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
-- Sin sistema operativo
-- Ram de 16GB (3200MHz) DDR IV
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
 - Batería - productividad de hasta 10 horas con polímero de litio de 3 celdas de carga rápida 52 Wh
+- Sin sistema operativo
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Intel Core i7-1165G7
+- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
+- Almacenamiento - 1TB NVMe M.2 SSD by PCIe Gen4
+- Ram de 16GB (3200MHz) DDR IV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

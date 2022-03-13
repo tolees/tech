@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de altavoz inalámbrico recargable: el altavoz portátil se carga mediante cable USB-C (incluido). Su batería de iones de litio ofrece hasta 12 h de duración por carga
 - El sonido más nítido posible: la tecnología patentada PositionIQ detecta automáticamente la posición de tu altavoz Bluetooth portátil para optimizar la calidad de sonido en cualquier orientación o entorno
-- Diseño innovador: el altavoz exterior SoundLink está repleto de tecnologías exclusivas y un transductor a medida para crear audio profundo, nítido y envolvente en casa o en tus desplazamientos
+- Batería de altavoz inalámbrico recargable: el altavoz portátil se carga mediante cable USB-C (incluido). Su batería de iones de litio ofrece hasta 12 h de duración por carga
 - Altavoz inalámbrico resistente al agua para viajes: SoundLink Flex está probado bajo el estándar IP67. Al estar fabricado y sellado con materiales resistentes al agua, flota, lo que lo hace ideal para aventuras al aire libre.
 - Altavoz Bluetooth portátil: este altavoz compacto, diseñado para resistir el agua, la suciedad, las caídas y la oxidación, te acompaña allá donde vayas. También es fácil de transportar y almacenar, además de resistente a la corrosión y a la luz UV.
+- Diseño innovador: el altavoz exterior SoundLink está repleto de tecnologías exclusivas y un transductor a medida para crear audio profundo, nítido y envolvente en casa o en tus desplazamientos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
