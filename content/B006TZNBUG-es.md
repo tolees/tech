@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Orientación:Diestro
-- Color:Negro
 - Tipo de dispositivo:Ratón
 - Profundidad:19.5 cm
+- Orientación:Diestro
+- Color:Negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
