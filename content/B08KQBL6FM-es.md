@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control de iluminación RGB viva y dinámica
 - Programable con el software CORSAIR iCUE
 - Tecnología de conectividad: USB
+- Control de iluminación RGB viva y dinámica
 - Con una estructura de aluminio cepillado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
