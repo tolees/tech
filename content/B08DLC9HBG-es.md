@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viewsonic VX2718-2KPC-MHD Monitor Gaming Curvo 27" WQHD  Adaptive Sync  1 ms  165 Hz  HDMI  DP  Altavoz  Negro'
-date: 2022-03-12 09:20:37
+date: 2022-03-14 20:28:23
 image: 'https://m.media-amazon.com/images/I/41yJ1Hn4ZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ViewSonic'
 buyurl: 'https://www.amazon.es/dp/B08DLC9HBG/?tag=tolees-21'
 descuento: '22.04'
-average: '240.283333333333'
+average: '237.7075'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
