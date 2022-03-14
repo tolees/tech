@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Frecuencia de actualización: 360 Hz
 - Tiempo de respuesta: 1 ms (ULMB)
 - 16.7 millones colores
+- Frecuencia de actualización: 360 Hz
 - Puertos HDMI: 2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
