@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - SWITCH Miitopia'
-date: 2022-03-08 18:13:54
+date: 2022-03-15 18:42:28
 image: 'https://m.media-amazon.com/images/I/51kxXW8tm+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08WY8YC8W/?tag=tolees-21'
 descuento: '23.18'
-average: '40.7586956521739'
+average: '40.4975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
