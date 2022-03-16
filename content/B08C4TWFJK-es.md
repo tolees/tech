@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart LED Bulb  Warm White '
-date: 2022-03-13 16:02:38
+date: 2022-03-16 16:14:00
 image: 'https://m.media-amazon.com/images/I/21nFY-khXCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08C4TWFJK/?tag=tolees-21'
 descuento: '47.52'
-average: '7.58961538461537'
+average: '7.69703703703702'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
