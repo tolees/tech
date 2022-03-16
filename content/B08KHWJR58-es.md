@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Lector de huella dactilar bajo la pantalla】- Desbloquear el dispositivo no puede ser más fácil. Con la tecnología avanzada de vivo, solo tienes que tocar la pantalla para acceder al instante. Además, la variedad de animaciones te permite hacerlo con estilo.
-- 【Triple cámara de 48MP con IA】- Perfección hasta en el último píxel. La triple cámara de 48MP con inteligencia artificial hace fotos mega impactantes. De día y de noche. En modo paisaje o retrato. A grandes distancias o a 4 cm de la cara. Y si prefieres un vídeo, puedes grabarlo en 4K sin que nada salga movido.
-- 【Modo Super Night】- Tanto si se trata de un cielo estrellado como de una calle iluminada, nuestro modo Super Night, con diafragma f/1.8 y algoritmo Morpho HDR+, garantiza un equilibrio, una claridad y una luminosidad de imagen espectaculares. Y si inviertes la cámara, el mismo algoritmo hace que te puedas hacer selfies radiantes en plena oscuridad.
-- 2 años de garantía; Smartphone oficial EURO2020
-- Nota especial: El eveto del fútbol solo está válido en el Reino Unido
 - Lo sentimos, el evento del auriculares solo es limitada a los sitios del Reino Unido.
 - 【8GB RAM + 128GB ROM】- Las apps se abren en cuestión de segundos, y los juegos y vídeos se reproducen sin interrupciones, desfases ni saltos. De la supervelocidad y la supermemoria se encarga el procesador Qualcomm Snapdragon 665, con 8GB de RAM y 128GB de ROM. En la memoria interna se pueden almacenar una gran cantidad de fotos, vídeos y música. Pero si no tienes suficiente, siempre la puedes ampliar en 1TB con una tarjeta microSD externa.
+- Nota especial: El eveto del fútbol solo está válido en el Reino Unido
+- 【Lector de huella dactilar bajo la pantalla】- Desbloquear el dispositivo no puede ser más fácil. Con la tecnología avanzada de vivo, solo tienes que tocar la pantalla para acceder al instante. Además, la variedad de animaciones te permite hacerlo con estilo.
+- 【Modo Super Night】- Tanto si se trata de un cielo estrellado como de una calle iluminada, nuestro modo Super Night, con diafragma f/1.8 y algoritmo Morpho HDR+, garantiza un equilibrio, una claridad y una luminosidad de imagen espectaculares. Y si inviertes la cámara, el mismo algoritmo hace que te puedas hacer selfies radiantes en plena oscuridad.
+- 2 años de garantía; Smartphone oficial EURO2020
+- 【Triple cámara de 48MP con IA】- Perfección hasta en el último píxel. La triple cámara de 48MP con inteligencia artificial hace fotos mega impactantes. De día y de noche. En modo paisaje o retrato. A grandes distancias o a 4 cm de la cara. Y si prefieres un vídeo, puedes grabarlo en 4K sin que nada salga movido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

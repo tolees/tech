@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Deslizamiento con tratamiento de calor de PTFE puro, afinado de fábrica para un rendimiento fluido
 - Carcasa ultraligera Roccat Bionic Shell: solo 75 g
-- Stellar Wireless + Bluetooth, con carga rápida (de carga por USB-C PhantomFlex)
 - Titan Switch Optical. Táctil y rápido
 - Sensor óptico Roccat Owl-Eye de 19 000 ppp
+- Stellar Wireless + Bluetooth, con carga rápida (de carga por USB-C PhantomFlex)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
