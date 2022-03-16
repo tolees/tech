@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Woxter Dynamic Line DL-610 Black - Altavoces de estantería terminados en Madera autoamplificados  20 RMS 180 W  Bluetooth  conexión de 3 5mm  PC  TV  Tablets  Smartphones  mp3. '
-date: 2022-03-12 07:35:11
+date: 2022-03-16 19:00:28
 image: 'https://m.media-amazon.com/images/I/41OoOlsa5nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amplia conectividad; soporta Bluetooth 4.0 y cuenta con conexiones RCA a 3,5 mm (cable incluido); Control de Volumen, Bass & Treble
 - Altavoces de estantería construidos en madera pensada para reproducir la mejor calidad acústica con profundos graves y amplios agudos, proporcionándote un completo espectro musical
-- Dimensiones y peso: 15,5x26,5x21 mm, 5,6Kg; Powered by Woxter
 - Tamaño de Woofer: 4” / Tweeter de 0,75”; Cable de interconexión entre los altavoces de alta calidad, libre de distorsiones
+- Dimensiones y peso: 15,5x26,5x21 mm, 5,6Kg; Powered by Woxter
 - Potencia de salida: 20 RMS 180 W; Distorsión armónica: 75 dB / >50 dB; Frecuencia de respuesta: 50 Hz - 20 Khz
+- Amplia conectividad; soporta Bluetooth 4.0 y cuenta con conexiones RCA a 3,5 mm (cable incluido); Control de Volumen, Bass & Treble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
