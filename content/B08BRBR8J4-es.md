@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PowerLocus Auriculares con Active Cancelación de Ruido  Auriculares Bluetooth con Diadema  70h de música  Auriculares Inalámbricos  Cascos Plegable  con Alta Fidelidad y Graves Profundos  Micrófono'
-date: 2022-03-15 13:50:56
+date: 2022-03-18 08:34:39
 image: 'https://m.media-amazon.com/images/I/41cV3OPkzaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PowerLocus'
 buyurl: 'https://www.amazon.es/dp/B08BRBR8J4/?tag=tolees-21'
 descuento: '28.75'
-average: '50.1149999999999'
+average: '50.8788888888888'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
