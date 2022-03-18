@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: mando a distancia (RAV21) con 2 pilas AA, instrucciones de inicio rápido, cable óptico, soporte de pared, instrucciones (idioma español no garantizado)
 - Potencia: 100 W (2 altavoces frontales de 35 W, subwoofer de 30 W)
+- Incluye: mando a distancia (RAV21) con 2 pilas AA, instrucciones de inicio rápido, cable óptico, soporte de pared, instrucciones (idioma español no garantizado)
 - Conectividad: compatible con ARC y LG SIMPLINK (HDMI CEC), sincronización de sonido LG a través de Bluetooth y cable óptico, control y reproducción a través de smartphone; 2 x HDMI 1.4 (In & Out), USB y óptico; Bluetooth (v4.0)
-- Barra de sonido 2.1 con subwoofer integrado
 - Compatible con TV Sound Share
+- Barra de sonido 2.1 con subwoofer integrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

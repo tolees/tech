@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estabilización de imagen Dual: estabilizador de carcasa de 5 ejes y doble I.S; con hasta 6.5 niveles de diafragma para mayor exposición desde la mano
 - Zoom óptico: 3.0 multiplier x
+- Tecnología de Enfoque avanzada: enfoque automático mejorado con 0.08 s, ojo o humo o animal AF hasta -6 EV, 7 B/s AFS; el sistema AF ofrece un autoenfoque de alta velocidad y precisión, reconociendo cuerpos, cabezas, caras y ojos, tanto en humanos como en animales
+- Estabilización de imagen Dual: estabilizador de carcasa de 5 ejes y doble I.S; con hasta 6.5 niveles de diafragma para mayor exposición desde la mano
+- Calidad de imagen: sensor de 24.2 MP sin filtro de paso bajo, 96 MP HighRes-Shot
 - Kit con Objetivo Incluido: además de la cámara EVIL S5 llévate el objetivo de LUMIX S-R2060 de 20-60 mm con soporte en L para llevar tus fotos y vídeos a otro nivel
 - Resolución video: 4320p
-- Tecnología de Enfoque avanzada: enfoque automático mejorado con 0.08 s, ojo o humo o animal AF hasta -6 EV, 7 B/s AFS; el sistema AF ofrece un autoenfoque de alta velocidad y precisión, reconociendo cuerpos, cabezas, caras y ojos, tanto en humanos como en animales
-- Calidad de imagen: sensor de 24.2 MP sin filtro de paso bajo, 96 MP HighRes-Shot
 - Opciones de vídeo profesionales: 4 K 60p, HDR, vídeo rápido (1 - 180 fps, FHD), 4 K 30p 4:2: 2 10 bits y cancelación interna y 60p a través de HDMI, Anamorph, XLR Dock (opcional)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

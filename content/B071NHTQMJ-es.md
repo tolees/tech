@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reutilización: recargable
 - Tensión: 7.2 voltios
+- Reutilización: recargable
 - Composición de celdas de batería: Litio Ion
 - Marca: Sony
 
