@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 300Hz, IPS 300 nits
+- Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
 - Procesador AMD Ryzen 9 5900HX (8C/OctaCore 3.3 / 4.6GHz, 16MB)
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Sin Sistema Operativo
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 300Hz, IPS 300 nits
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
