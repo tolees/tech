@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sonido de graves de largo alcance con JET BASS BOOSTER
+- Control de voz y luces de fiesta a través de Fiestable
 - Asa para una elevación segura y una portabilidad sencilla
 - Luz del altavoz
-- Control de voz y luces de fiesta a través de Fiestable
 - Altavoz para fiesta de alta potencia
+- Sonido de graves de largo alcance con JET BASS BOOSTER
 - Compatible con trípode
 
 [🛒 Aquí!!!]({{< param buyurl >}})
