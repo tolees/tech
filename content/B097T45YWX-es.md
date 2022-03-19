@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix G513QM-HF070 - Ordenador Portátil Gaming de 15.6" Full HD 300Hz  Ryzen 9 5900HX  16GB RAM  1TB SSD  GeForce RTX 3060 6GB  Sin Sistema Operativo  Gris Eclipse - Teclado QWERTY español'
-date: 2022-03-18 12:13:49
+date: 2022-03-19 13:35:46
 image: 'https://m.media-amazon.com/images/I/41J9mlRnABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B097T45YWX/?tag=tolees-21'
 descuento: '22.23'
-average: '1519.0'
+average: '1499.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Snapdragon 662 en combinación con 8GB de RAM para que Smartphone tenga un rendimiento sobresaliente.
-- Experiencia de usuario depurada y ágil gracias a que este Smartphone cuenta con COLOR OS 11 sobre Android 11.
-- Triple cámara, Cámara 48MP 1/2.0" + Cámara 2MP 1/5" + Cámara 2MP 1/5", con un sensor adecuado para cada situación y captar hasta el último detalle.
 - Gran batería de 5000 mAh que te permitirá usar tu móvil durante todo el dia y carga rápida de 33 vatios para que nunca te quedes sin batería.
 - Smartphone con pantalla LCD de 6,43", resolución FHD+ (2400 x 1080 px) y tasa de refresco adaptativa de hasta 90 Hz para que con este móvil tengas una experiencia de visualización nítida e inmersiva para todo tipo de contenido multimedia.
+- Experiencia de usuario depurada y ágil gracias a que este Smartphone cuenta con COLOR OS 11 sobre Android 11.
+- Triple cámara, Cámara 48MP 1/2.0" + Cámara 2MP 1/5" + Cámara 2MP 1/5", con un sensor adecuado para cada situación y captar hasta el último detalle.
+- Procesador Snapdragon 662 en combinación con 8GB de RAM para que Smartphone tenga un rendimiento sobresaliente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

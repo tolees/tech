@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Relación de aspecto 16:9 y relación de contraste 1000:1
-- Ajuste de inclinación (-5° / 22°) y altura (110mm)
-- AMD FreeSync Premium; G-Sync compatible
 - Pantalla de 24.5" con resolución FullHD (1920x1080 pixeles), 400 nits, panel TN, con una una precisión del color NTSC al 72%, antirreflejos
+- Cable HDMI incluido en la caja
+- AMD FreeSync Premium; G-Sync compatible
+- Relación de aspecto 16:9 y relación de contraste 1000:1
 - Amplio ángulo de visión (170º/160º) sin distorsiones de color ni reflejos
 - Soporte VESA para montar la pantalla en la pared
+- Ajuste de inclinación (-5° / 22°) y altura (110mm)
 - Puertos HDMI y DP
-- Cable HDMI incluido en la caja
+- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
 - Tiempo de respuesta de 1ms y frecuencia de actualización de 144Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
