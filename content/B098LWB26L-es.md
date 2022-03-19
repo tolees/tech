@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation- Minecraft Starter Col  Compatible VR -PS4 No Aplica Videojuegos  Multicolor  Sony VJGPS4SON21703792 '
-date: 2022-03-09 09:34:07
+date: 2022-03-19 21:34:11
 image: 'https://m.media-amazon.com/images/I/514+yBv6BlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B098LWB26L/?tag=tolees-21'
 descuento: '22.51'
-average: '25.6723529411765'
+average: '25.69'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea tu mundo y construye todo lo que puedas imaginar
-- Explora montañas, océanos vivos, mundos infinitos y creaciones increíbles de la tienda del juego, además de minijuegos y mucho más
 - Sobrevive con amigos, ya jueguen en consolas, en móviles o en Windows 10, o juega en casa en el modo multijugador en pantalla dividida
+- Explora montañas, océanos vivos, mundos infinitos y creaciones increíbles de la tienda del juego, además de minijuegos y mucho más
+- Crea tu mundo y construye todo lo que puedas imaginar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
