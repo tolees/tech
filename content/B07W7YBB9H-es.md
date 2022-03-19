@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de confianza fabricado con la fiabilidad de wd
-- Protección con contraseña y hardware de cifrado
 - Puerto usb 3.0 (compatible con usb 2.0)
 - Software wd discovery para wd security, importación de almacenamiento en redes sociales y en la nube, y wd drive utilities
+- Protección con contraseña y hardware de cifrado
 - Copia de seguridad automática con el software wd backup incluido y compatible con time machine
+- Almacenamiento de confianza fabricado con la fiabilidad de wd
 
 [🛒 Comprar!!!]({{< param buyurl >}})
