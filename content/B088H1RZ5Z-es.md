@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La memoria LPDDR5 y el almacenamiento flash UFS 3.1 aumenta las velocidades de operación
 - Tiene una pantala AMOLED de 6.67 pulgadas con una resolución de 1082 x 2400 píxeles
 - Tiene un sensor de luz de 360° que puede detectar la luz ambiental y ajustar automáticamente el brillo de la pantalla
-- La memoria LPDDR5 y el almacenamiento flash UFS 3.1 aumenta las velocidades de operación
 - La tecnología de procesamiento de 7nm ofrece un 25% de aumento de rendimiento y reduce el consumo de energía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
