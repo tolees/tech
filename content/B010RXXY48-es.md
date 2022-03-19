@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
 - TRES ANTENAS EXTERNAS
 - PUERTO GIGABIT ETHERNET
+- WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
