@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 - Portátil 15.6" FullHD  Intel Core i7-1165G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Sin Sistema Operativo  Color Gris - Teclado QWERTY Español'
-date: 2022-03-18 21:56:12
+date: 2022-03-20 16:16:31
 image: 'https://m.media-amazon.com/images/I/41flabF6RyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09GGD77P9/?tag=tolees-21'
 descuento: '15.09'
-average: '595.963333333333'
+average: '599.254285714285'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB DDR4-3200
 - Procesador Intel Core i7-1165G7 (4C / 8T, 2.8 / 4.7GHz, 12MB)
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 15.6" FullHD 1920x1080 pixeles, TN, 250nits, antirreflejos
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB DDR4-3200
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000 para portátiles y 300 para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 - Sin sistema operativo
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
