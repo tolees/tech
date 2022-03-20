@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou Camara Vigilancia WiFi Interior  Cámara IP WiFi 1080P con Detección de Movimiento Humano  Visión Nocturna  Audio Bidireccional  Compatible con Alexa/Google  óptima para Vigilar Bebés y Mascotas'
-date: 2022-03-18 04:30:36
+date: 2022-03-20 20:48:34
 image: 'https://m.media-amazon.com/images/I/31Ax11P+PUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Imou'
 buyurl: 'https://www.amazon.es/dp/B08CKC2ZK2/?tag=tolees-21'
 descuento: '15.01'
-average: '24.82'
+average: '24.5718181818182'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

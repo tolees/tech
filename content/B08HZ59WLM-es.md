@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Años de diversión: la lámpara LED dura más de 20 000 horas
-- Corrección de imagen: colóquelo donde desee funciones de rotación automática y corrección trapezoidal; corrección de las 4 esquinas; zum digital, y rotación de panel
-- Visualización brillante y colorida: proyección de hasta 65" en true full HD 1080p y resolución de 1920 × 1080p
 - Smart: aplicaciones precargadas y un impecable sistema operativo philips; transmita sus contenidos directamente desde el neopix; clonación de pantalla mediante la rojo Wi-Fi para airplay y android
+- Años de diversión: la lámpara LED dura más de 20 000 horas
+- Visualización brillante y colorida: proyección de hasta 65" en true full HD 1080p y resolución de 1920 × 1080p
+- Corrección de imagen: colóquelo donde desee funciones de rotación automática y corrección trapezoidal; corrección de las 4 esquinas; zum digital, y rotación de panel
 - Versatilidad de conexión: hdmi, usb, Wi-Fi y bluetooth; airmote: controle su neopix prime 2 a distancia mediante gestos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
