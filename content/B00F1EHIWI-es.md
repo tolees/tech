@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Auriculares de diadema cerrados  color negro'
-date: 2022-03-09 17:02:47
+date: 2022-03-19 22:35:48
 image: 'https://m.media-amazon.com/images/I/41qDn4VomEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00F1EHIWI-es Sony - Auriculares de diadema cerrados color negro'
 sku: 'B00F1EHIWI-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','sony', ]
-actualPrice: 19.07 EUR
+actualPrice: 11.97 EUR
 currency: EUR
-price: 19.07
+price: 11.97
 comparePrice: 28.0 EUR
 prodname: 'Sony - Auriculares de diadema cerrados  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00F1EHIWI/?tag=tolees-21'
-descuento: '31.89'
-average: '13.7333333333333'
+descuento: '57.25'
+average: '13.5976923076923'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interruptor de modo de sonido para disfrutar de películas y música
-- Ajuste cómodo con diadema ajustable sin eslabones paralelos y almohadillas de cuero de uretano
-- Con cable de 2 m
 - Auriculares de tipo cerrado con diafragma de carrera larga para un sonido dinámico con calidad de película
+- Interruptor de modo de sonido para disfrutar de películas y música
+- Con cable de 2 m
+- Ajuste cómodo con diadema ajustable sin eslabones paralelos y almohadillas de cuero de uretano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
