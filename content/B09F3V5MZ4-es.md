@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
 - Memoria integrada de 8GB, 1 x 8G, DDR4, 2933MHz
-- Procesador Intel Core i5-10500H (12MB Cache, 4.5 GHz)
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
 - Almacenamiento de 512GB M.2 PCIe NVMe Solid State Drive
+- Procesador Intel Core i5-10500H (12MB Cache, 4.5 GHz)
 - Pantalla de 15.6 pulgadas Full HD 1920 x 1080 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
