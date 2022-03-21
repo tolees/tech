@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS E410MA-EK007TS - Ordenador Portátil de 14" FullHD  Celeron N4020  4 GB RAM  64 GB eMMC  Windows 10 Home S  Azul  Teclado TouchPad QWERTY español'
-date: 2022-03-18 10:00:25
+date: 2022-03-21 11:06:20
 image: 'https://m.media-amazon.com/images/I/31mBqPgjvQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08DNK9PYP/?tag=tolees-21'
 descuento: '17.00'
-average: '262.915384615383'
+average: '261.920714285713'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
