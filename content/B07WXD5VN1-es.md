@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 Go RAM, 32 Go ROM
 - LCD HD IPS de 8 ″ (1024 x 800), pantalla táctil capacitiva de 10 puntos de 350 nits
-- Altavoz lateral Dolby Audio
-- Procesador MediaTek Helio A22 Tab, cuatro núcleos, 2,0 GHz
 - Hasta 18 horas de autonomía de navegación
+- 2 Go RAM, 32 Go ROM
+- Procesador MediaTek Helio A22 Tab, cuatro núcleos, 2,0 GHz
+- Altavoz lateral Dolby Audio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
