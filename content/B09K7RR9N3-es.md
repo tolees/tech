@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sunstech PXR23 - Tocadiscos de Vinilo Vintage  Reproductor de Vinilo y Reproductor de Musica Mediante Bluetooth  USB y sintonizador de Radio FM. 2 Altavoces Incorporados  10W . Color Negro.'
-date: 2022-03-21 16:53:43
+date: 2022-03-23 17:43:24
 image: 'https://m.media-amazon.com/images/I/41lNnWqmZdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexiones: USB, AUX-in (3.5 mm), auriculares (3.5 mm) y RCA: salida de audio para amplificadores externos.
+- Accesorios: mando a distancia.
 - Función Auto-Stop: parada automática del giradiscos.
 - Conectividad Bluetooth (máximo hasta 10 metros)
-- Sintonizador de Radio FM estéreo (87.5Mhz - 108Mhz). Búsqueda automática de emisoras con 20 presintonías.
 - Pantalla LCD con iluminación azul.
-- Altavoces estéreo integrados: 10W (2 x 5W). Equalizador de 4 modos: Rock / Clásico / Pop / Jazz.
-- Accesorios: mando a distancia.
+- Sintonizador de Radio FM estéreo (87.5Mhz - 108Mhz). Búsqueda automática de emisoras con 20 presintonías.
+- Conexiones: USB, AUX-in (3.5 mm), auriculares (3.5 mm) y RCA: salida de audio para amplificadores externos.
 - Giradiscos de 2 velocidades: 33 y 45 RPM.
+- Altavoces estéreo integrados: 10W (2 x 5W). Equalizador de 4 modos: Rock / Clásico / Pop / Jazz.
 - Fuente de alimentación interna. Consumo de energía en standby: 0.86W
 - Grabación directa: giradiscos / auxiliar a USB.
 
