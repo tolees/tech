@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Grabación directa: giradiscos / auxiliar a USB.
 - Accesorios: mando a distancia.
+- Giradiscos de 2 velocidades: 33 y 45 RPM.
+- Sintonizador de Radio FM estéreo (87.5Mhz - 108Mhz). Búsqueda automática de emisoras con 20 presintonías.
+- Fuente de alimentación interna. Consumo de energía en standby: 0.86W
+- Pantalla LCD con iluminación azul.
 - Función Auto-Stop: parada automática del giradiscos.
 - Conectividad Bluetooth (máximo hasta 10 metros)
-- Pantalla LCD con iluminación azul.
-- Sintonizador de Radio FM estéreo (87.5Mhz - 108Mhz). Búsqueda automática de emisoras con 20 presintonías.
-- Conexiones: USB, AUX-in (3.5 mm), auriculares (3.5 mm) y RCA: salida de audio para amplificadores externos.
-- Giradiscos de 2 velocidades: 33 y 45 RPM.
 - Altavoces estéreo integrados: 10W (2 x 5W). Equalizador de 4 modos: Rock / Clásico / Pop / Jazz.
-- Fuente de alimentación interna. Consumo de energía en standby: 0.86W
-- Grabación directa: giradiscos / auxiliar a USB.
+- Conexiones: USB, AUX-in (3.5 mm), auriculares (3.5 mm) y RCA: salida de audio para amplificadores externos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
