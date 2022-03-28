@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Pro - Ratón Rojo'
-date: 2022-03-19 07:45:44
+date: 2022-03-28 14:44:17
 image: 'https://m.media-amazon.com/images/I/31nEkpfWHbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07YF38FWK/?tag=tolees-21'
 descuento: '45.58'
-average: '64.048947368421'
+average: '63.2949999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
