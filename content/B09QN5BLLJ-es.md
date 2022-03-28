@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-fq0011ns - Ordenador portátil de 15.6" HD  Intel Celeron N4020  4GB RAM  128 GB SSD  Gráficos Intel UHD 600  Windows 10 Home   blanco - Teclado QWERTY Español'
-date: 2022-03-25 12:46:57
+date: 2022-03-28 13:45:33
 image: 'https://m.media-amazon.com/images/I/4138CJzJFhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de datos SSD SATA 3 TLC M.2 de 128 GB
-- Gráficos integrados Intel UHD 600
 - Sistema operativo Windows 10 Home en modo S
 - Pantalla HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 220 nits, 45 % NTSC (1366 x 768)
-- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
+- Gráficos integrados Intel UHD 600
 - Memoria RAM DDR4-2400 MHz 4 GB (1 x 4 GB)
+- Almacenamiento de datos SSD SATA 3 TLC M.2 de 128 GB
+- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
