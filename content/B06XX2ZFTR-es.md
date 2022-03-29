@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La retroiluminación LED roja en cada tecla y las fuentes de gran tamaño ofrecen efectos de iluminación intensos
-- QWERTY Español
-- Controles específicos multimedia y de volumen para ajustar el sonido sin tener que interrumpir el juego
-- Tecnología de conectividad: alámbrico
-- Diseño compacto sin teclado numérico para optimizar el espacio de la mesa y la movilidad
 - Interruptores mecánicos 100 % Cherry MX Red con contactos dorados para pulsaciones de teclas rápidas y precisas
+- Controles específicos multimedia y de volumen para ajustar el sonido sin tener que interrumpir el juego
 - La protección contra pulsaciones nulas con detección simultánea de teclas garantiza que los comandos y las pulsaciones simultáneas siempre quedarán registrados según lo esperado
+- Diseño compacto sin teclado numérico para optimizar el espacio de la mesa y la movilidad
+- La retroiluminación LED roja en cada tecla y las fuentes de gran tamaño ofrecen efectos de iluminación intensos
+- Tecnología de conectividad: alámbrico
+- QWERTY Español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
