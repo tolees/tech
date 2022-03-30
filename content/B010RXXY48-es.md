@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de red  velocidad doble banda  1 x puerto Gigabit  luz señal inteligente  modo AP  fácil configuración'
-date: 2022-03-23 04:24:27
+date: 2022-03-30 11:33:33
 image: 'https://m.media-amazon.com/images/I/314bP9LAf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PUERTO GIGABIT ETHERNET
-- WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
-- TRES ANTENAS EXTERNAS
+- TP-Link
+- 2 ans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
