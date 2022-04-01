@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Technology - Seagate Portable Drive  2 TB  Unidad de disco duro externo  USB 3.0 para PC  ordenador portátil y Mac y 2 años de servicios Rescue  Amazon Special Edition  STGX2000400 '
-date: 2022-03-31 18:49:18
+date: 2022-04-01 19:31:18
 image: 'https://m.media-amazon.com/images/I/31nMFhO266L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DQ91XNK-es Seagate Technology - Seagate Portable Drive 2 TB Unidad de...'
 sku: 'B07DQ91XNK-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','ordenador','seagate technology', ]
-actualPrice: 59.99 EUR
+actualPrice: 70.99 EUR
 currency: EUR
-price: 59.99
+price: 70.99
 comparePrice: 89.99 EUR
 prodname: 'Seagate Technology - Seagate Portable Drive  2 TB  Unidad de disco duro externo  USB 3.0 para PC  ordenador portátil y Mac y 2 años de servicios Rescue  Amazon Special Edition  STGX2000400 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Seagate Technology'
 buyurl: 'https://www.amazon.es/dp/B07DQ91XNK/?tag=tolees-21'
-descuento: '33.34'
-average: '69.1840298507463'
+descuento: '21.11'
+average: '69.2105882352942'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
