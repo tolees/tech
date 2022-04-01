@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 18 h de duración de batería con la funda de carga
-- Clasificación IP55 para su uso en exteriores y una limpieza sencilla
 - Diseño true wireless con conectividad inalámbrica bluetooth estable
+- Clasificación IP55 para su uso en exteriores y una limpieza sencilla
+- Hasta 18 h de duración de batería con la funda de carga
 - La función Cancelación de ruido digital te permite escuchar sin distracciones
 - Extra Bass Para Un Sonido Rotundo Y Profundo
 

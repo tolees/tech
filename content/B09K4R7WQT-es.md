@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Windows 10 Home
 - Monitor gaming de 27" con resolución WQHD (2560 x 1440 pixeles) y tecnología Anti:Glare
+- Windows 10 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control táctil en el lateral de cada auricular
 - Escucha durante todo el día gracias a la batería de hasta 32.horas de duración (24h usando nc)
-- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
-- Diseño cerrado, elegante y cómodo
-- Sony recomienda siempre actualizar sus dispositivos a la última versión de software disponible
 - Las notificaciones de actualización de software para el wf-1000xm3 se distribuyen a través de la aplicación sony headphones connect, disponible gratuitamente en google play y apple app store
+- Sony recomienda siempre actualizar sus dispositivos a la última versión de software disponible
+- Control táctil en el lateral de cada auricular
+- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
 - True wireless con noise cancelling
+- Diseño cerrado, elegante y cómodo
 - Procesador qn1 para la cancelación de ruido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

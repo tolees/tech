@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook 14 K413EA-EK231T - Ordenador Portátil de 14" Full HD  Intel Core i5-1135G7   8GB RAM   512GB SSD   Iris Xe Graphics   Windows 10 Home  Negro - Teclado TouchPad QWERTY español'
-date: 2022-03-29 15:02:19
+date: 2022-04-01 10:02:21
 image: 'https://m.media-amazon.com/images/I/311vYlN5tLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09G75D1ST/?tag=tolees-21'
 descuento: '18.49'
-average: '583.166666666667'
+average: '579.0'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sistema Operativo: Windows 10 Home
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Pantalla de 14" Full HD 1920 x 1080 pixeles 220 nits
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Memoria RAM de 8GB SO-DIMM DDR4
 - Teclado TouchPad
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
