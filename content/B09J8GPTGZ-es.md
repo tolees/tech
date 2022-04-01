@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MatePad T10s - Tablet de 10.1"con pantalla FullHD  WiFi  RAM de 4GB  ROM de 64GB  EMUI 10.1  Huawei Mobile Services   Color Azul - sin servicios de Google preinstalados'
-date: 2022-03-18 04:12:49
+date: 2022-03-31 23:36:05
 image: 'https://m.media-amazon.com/images/I/31ZOkueuhvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09J8GPTGZ-es HUAWEI MatePad T10s - Tablet de 10.1"con pantalla FullHD...'
 sku: 'B09J8GPTGZ-es'
 tags: [ 'Informática','Tablets','huawei','ram','tablet','wifi', ]
-actualPrice: 159.0 EUR
+actualPrice: 163.78 EUR
 currency: EUR
-price: 159.0
+price: 163.78
 comparePrice: 219.0 EUR
 prodname: 'HUAWEI MatePad T10s - Tablet de 10.1"con pantalla FullHD  WiFi  RAM de 4GB  ROM de 64GB  EMUI 10.1  Huawei Mobile Services   Color Azul - sin servicios de Google preinstalados'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B09J8GPTGZ/?tag=tolees-21'
-descuento: '27.40'
-average: '160.827692307692'
+descuento: '25.21'
+average: '161.038571428571'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altavoces cuádruples
-- Resolución de pantalla: 1900 x 1200 píxeles
 - NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
 - Tipo de pantalla: LCD
+- Altavoces cuádruples
+- Resolución de pantalla: 1900 x 1200 píxeles
 - Tamaño de la pantalla: 10 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
