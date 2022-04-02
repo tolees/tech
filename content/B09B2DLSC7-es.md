@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 8GB DDR4
 - Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 14.0 inches; Capacidad del disco duro (GB): 512.0 GB; Capacidad de almacenamiento de memoria: 512.0; Capacidad de la memoria RAM (GB): 8.0 GB
-- Pantalla de 14", 2K 2160x1440 píxeles, 185PPI y tecnología IPS.
 - AMD Radeon Graphics
+- Pantalla de 14", 2K 2160x1440 píxeles, 185PPI y tecnología IPS.
 - Almacenamiento de 512GB SSD NVMe PCIe
+- Memoria RAM de 8GB DDR4
 - Procesador AMD Ryzen 5 4600H (4 núcleos, 6M cache)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
