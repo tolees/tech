@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Portable SSD T7 1000 GB Azul'
-date: 2022-04-01 21:50:26
+date: 2022-04-03 19:32:42
 image: 'https://m.media-amazon.com/images/I/31ht1eviRrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B087DF1L2J/?tag=tolees-21'
 descuento: '23.90'
-average: '176.637969543148'
+average: '176.280101010102'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
