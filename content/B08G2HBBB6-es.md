@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GoPro HERO9 Black - Cámara de acción sumergible con pantalla LCD delantera y pantalla táctil trasera  vídeo 5K Ultra HD  fotos de 20 MP  transmisión en directo en 1080p  sin tarjeta'
-date: 2022-04-02 10:46:23
+date: 2022-04-04 07:59:51
 image: 'https://m.media-amazon.com/images/I/31vQ3F7UL-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Graba impresionantes vídeos con una resolución de hasta 5K, perfecta para conservar hasta el último detalle, incluso al hacer zoom. Gracias a un nuevo y potente sensor de 23,6 MP
-- Captura fotos nítidas y de calidad profesional con una claridad de 20 MP. Además, con SuperFoto, la HERO9 Black puede seleccionar automáticamente el mejor procesamiento de imagen para ti y ayudarte así siempre a clavar la toma.
-- La nueva pantalla táctil trasera más grande y con zoom táctil de tu HERO9 Black te resultará familiar al instante, y su nueva y deslumbrante pantalla frontal te ayudará a encuadrar las tomas y controlar la cámara de forma intuitiva.
-- ¿Quieres iluminar la escena? Elige el accesorio de foco. ¿Quieres más micrófonos y aún más conectividad? Solo tienes que acoplar el accesorio multimedia y personalizar tu equipo.
+- Capture crisp, pro-quality photos with 20MP clarity. And with SuperPhoto, HERO9 Black can automatically pick all the best image processing for you, so it’s super easy to nail the shot.
+- A new, larger rear touch screen with touch zoom on HERO9 Black should feel instantly familiar and a dazzling new front display makes for easy framing and intuitive camera control.
+- Shoot stunning video with up to 5K resolution, perfect for maintaining serious detail even when zooming in. Packing a new 23.6MP sensor that’s an absolute powerhouse, HERO9 Black brings lifelike image sharpness, fluid motion and in-camera horizon leveling
+- Want a lens that gives you horizon locked footage and unbreakable stabilization? Get Max Lens Mod. Want to illuminate your subject? Light Mod is for you. Want mics and even more connectivity? Just add Media Mod and customize your rig.
+- No more carrying a separate frame. Just flip out the folding fingers, attach your camera to any mount and go.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
