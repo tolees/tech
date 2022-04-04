@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Los altavoces Bluetooth brindan graves potentes】 Sonido increíble, potencia de 5W, woofer de 40mm de profundidad, que proporciona graves potentes y envolventes y agudos claros y equilibrados, sonido envolvente estéreo de 360 ​​°, sin distorsión.
-- 【Llamadas estéreo y manos libres】 Se pueden usar dos altavoces SoundPEATS Halo Bluetooth juntos para crear una atmósfera envolvente de 360 ​​° y sonido estéreo. El woofer de 40 mm de profundidad y el micrófono incorporado le permiten hablar con las manos libres.
-- 【Disfruta todo el día】8 horas de reproducción te permiten escuchar música todo el día sin preocupaciones. Y la tasa de impermeabilidad IPX4 puede evitar que nuestros altavoces Bluetooth reciban lluvia, polvo, nieve y salpicaduras. Puede disfrutar de la música en casa, al aire libre o mientras viaja. Viene con un cordón para facilitar su transporte al conducir o escalar.
 - 【Actualización de la tecnología Bluetooth 5.0】La tecnología avanzada Bluetooth 5.0 proporciona una transmisión inalámbrica estable a más de 10 m. Puede conectarse a su dispositivo de audio inalámbrico en cualquier momento, y la próxima vez se conectará al dispositivo anterior de forma predeterminada.
+- 【Llamadas estéreo y manos libres】 Se pueden usar dos altavoces SoundPEATS Halo Bluetooth juntos para crear una atmósfera envolvente de 360 ​​° y sonido estéreo. El woofer de 40 mm de profundidad y el micrófono incorporado le permiten hablar con las manos libres.
+- 【Los altavoces Bluetooth brindan graves potentes】 Sonido increíble, potencia de 5W, woofer de 40mm de profundidad, que proporciona graves potentes y envolventes y agudos claros y equilibrados, sonido envolvente estéreo de 360 ​​°, sin distorsión.
 - 【Luz RGB】 Nuestro altavoz bluetooth inalámbrico LED no es solo un altavoz, sino también una luz temática única para escenas nocturnas. Utilice los altavoces Bluetooth portátiles SoundPEATS para añadir brillo a su ritmo musical. La luz LED roja está encendida cuando el altavoz está encendido; cuando el altavoz está emparejado con su dispositivo, la luz LED se vuelve azul; cuando escucha música, la luz LED verde parpadea lentamente.
+- 【Disfruta todo el día】8 horas de reproducción te permiten escuchar música todo el día sin preocupaciones. Y la tasa de impermeabilidad IPX4 puede evitar que nuestros altavoces Bluetooth reciban lluvia, polvo, nieve y salpicaduras. Puede disfrutar de la música en casa, al aire libre o mientras viaja. Viene con un cordón para facilitar su transporte al conducir o escalar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
