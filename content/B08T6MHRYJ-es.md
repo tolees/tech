@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos discretos NVIDIA GeForce RTX 3060 (GDDR6 de 6 GB dedicada)
 - Procesador AMD Ryzen 7-5800H (frecuencia máxima de hasta 4,4 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
-- Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-3200 MHz de 16 GB (2 x 8 GB)
-- Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps; 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 2 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x Mini DisplayPort; 1 x HDMI 2.1; 1 x RJ-45; 1 x toma combinada de auriculares/micrófono
 - Sin sistema operativo (FreeDOS)
+- Gráficos discretos NVIDIA GeForce RTX 3060 (GDDR6 de 6 GB dedicada)
+- Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps; 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 2 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x Mini DisplayPort; 1 x HDMI 2.1; 1 x RJ-45; 1 x toma combinada de auriculares/micrófono
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, 144 Hz, tiempo de respuesta de 7 ms, IPS, bisel micro-edge, antirreflectante, 300 nits, 72 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
+- Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-3200 MHz de 16 GB (2 x 8 GB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
