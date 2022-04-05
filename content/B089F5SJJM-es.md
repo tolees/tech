@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHUWI Herobox Mini pc Ordenador de sobremesa Intel Celeron J4125  2.0GHz a 2.7GHz Quad Core 64 bit  Windows10 OS  8GB RAM 256GB SSD  BT 4.0 y Dual WiFi Mini HD  Type-C'
-date: 2022-04-04 11:54:30
+date: 2022-04-05 12:04:19
 image: 'https://m.media-amazon.com/images/I/41oAdntvLIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CHUWI'
 buyurl: 'https://www.amazon.es/dp/B089F5SJJM/?tag=tolees-21'
 descuento: '26.64'
-average: '193.544444444443'
+average: '192.655405405404'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
