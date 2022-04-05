@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para jugadores hardcore, profesionales, creativos que exigen computación de alto rendimiento; funciona bien con PS5 y tiene compatibilidad con disipador térmico
-- Con garantía limitada de 5 años o hasta alcanzar el valor de resistencia nominal de 600 TBW
 - Desarrollada con nuestra propia tecnología puntera e innovadora de controladores y Micron Advanced 3D NAND
+- Con garantía limitada de 5 años o hasta alcanzar el valor de resistencia nominal de 600 TBW
+- Diseñado para jugadores hardcore, profesionales, creativos que exigen computación de alto rendimiento; funciona bien con PS5 y tiene compatibilidad con disipador térmico
 - Clasificada con un MTTF superior a 2 millones de horas para garantizar una larga vida útil y una elevada fiabilidad
 - Tecnología PCIe 4.0 NVMe con hasta 6600MB/s en lecturas secuenciales
 
