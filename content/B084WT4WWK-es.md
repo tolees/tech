@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi repetidor MI WiFi Range Extender Pro*300mbps Repetidor*hasta 64 dispositivos*Dos potentes antenas externas*Plug and play'
-date: 2022-04-05 07:20:12
+date: 2022-04-06 13:03:50
 image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B084WT4WWK/?tag=tolees-21'
 descuento: '23.09'
-average: '11.6216666666662'
+average: '11.6148962655597'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
