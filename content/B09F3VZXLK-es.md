@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad E15 - Ordenador Portátil 15.6" FullHD  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Pro   Última Versión  Color Negro - Teclado QWERTY Español'
-date: 2022-04-01 10:02:46
+date: 2022-04-06 16:32:01
 image: 'https://m.media-amazon.com/images/I/31w0zqRSiiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09F3VZXLK/?tag=tolees-21'
 descuento: '28.87'
-average: '651.792'
+average: '637.993333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
 - Tarjeta gráfica Integrated Intel UHD Graphics
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Memoria RAM de 8GB (1x 8GB SO-DIMM DDR4-2666)
+- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
 - Sistema operativo Windows 10 pro
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 
 [🛒 Aquí!!!]({{< param buyurl >}})

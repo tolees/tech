@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MateView GT 27 Monitor de 27" curvo  ancho 1500R  165Hz  16:9 QHD 2560 x 1440  2K  LCD  DCI-P3  Contraste 4000:1  HDR  VESA  HDMI  DP  Negro'
-date: 2022-04-02 21:07:38
+date: 2022-04-06 16:22:29
 image: 'https://m.media-amazon.com/images/I/41v1GHATIZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
