@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Canvio Basics - Disco duro externo portátil USB 3.2 de 2.5 pulgadas  1 TB  color negro'
-date: 2022-04-05 18:12:25
+date: 2022-04-07 10:53:29
 image: 'https://m.media-amazon.com/images/I/215kSlYtzHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Toshiba'
 buyurl: 'https://www.amazon.es/dp/B07997KKSK/?tag=tolees-21'
 descuento: '27.25'
-average: '42.7660759493669'
+average: '42.6991249999998'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 1 TB
+- Acabado mate
 - Velocidad escritura: 5 gigabytes_per_second
+- Puerto superspeed usb 3.2
 - Disco duro externo de 2.5"
 - Velocidad lectura: 540 Megabytes por segundo
-- 1 TB
 - Alimentado usb
-- Acabado mate
-- Puerto superspeed usb 3.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
