@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 - Ordenador Portátil 15.6" FullHD  Ryzen 7 3700U  8GB RAM  512GB SSD  AMD Radeon 10 Graphics  Windows 10  Gris - Teclado QWERTY Español'
-date: 2022-04-06 12:05:28
+date: 2022-04-07 12:35:18
 image: 'https://m.media-amazon.com/images/I/41GHGR8-EsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B08TN1ZSML/?tag=tolees-21'
 descuento: '28.71'
-average: '593.873333333334'
+average: '591.666976744187'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 8GB (4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400)
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Sistema operativo: Windows 10 Home
-- Procesador AMD Ryzen 7 3700U (4C / 8T, 2.3 / 4.0GHz, 2MB L2 / 4MB L3)
-- Tarjeta gráfica Integrada AMD Radeon RX Vega 10 Graphics
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
+- Procesador AMD Ryzen 7 3700U (4C / 8T, 2.3 / 4.0GHz, 2MB L2 / 4MB L3)
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
+- Tarjeta gráfica Integrada AMD Radeon RX Vega 10 Graphics
+- Memoria RAM de 8GB (4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400)
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
+- Sistema operativo: Windows 10 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
