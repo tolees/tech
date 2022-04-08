@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Swift 5 NU-SF514-55T-5001 - Ordenador Portátil 14" Full HD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Evo  Iris Xe Graphics  Windows 10 Home  Color Verde - Teclado QWERTY Español'
-date: 2022-04-07 13:46:24
+date: 2022-04-08 16:42:25
 image: 'https://m.media-amazon.com/images/I/419yZyA9ToS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B08F5JB5NV/?tag=tolees-21'
 descuento: '25.03'
-average: '765.151874999999'
+average: '764.662424242423'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-1135G7
-- Almacenamiento de 512GB SSD
-- Memoria RAM de 8GB
-- Tarjeta gráfica Iris Xe Graphics
 - Pantalla de 14" FullHD
 - Sistema operativo: Windows 10 Home
+- Almacenamiento de 512GB SSD
+- Procesador Intel Core i5-1135G7
+- Memoria RAM de 8GB
+- Tarjeta gráfica Iris Xe Graphics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
