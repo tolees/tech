@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo V14 IGL - Ordenador Portátil 14" FullHD  Celeron N4020  4GB RAM  128GB SSD  Intel UHD Graphics Win10 Pro for EDU   Gris - Teclado QWERTY español'
-date: 2022-04-05 11:58:37
+date: 2022-04-09 07:02:41
 image: 'https://m.media-amazon.com/images/I/41rhei0agdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B098V4QNJT/?tag=tolees-21'
 descuento: '23.33'
-average: '271.991052631579'
+average: '269.8915'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 14" FullHD (1920x1080) 220 nits, antiglare, 16:09
-- Sistema operativo Windows 10 pro EDU
-- Memoria RAM de 4GB
-- Tarjeta gráfica Integrated Intel UHD Graphics
 - Almacenamiento de 128GB SSD
 - Procesador Intel Celeron N4020
+- Memoria RAM de 4GB
+- Sistema operativo Windows 10 pro EDU
+- Tarjeta gráfica Integrated Intel UHD Graphics
+- Pantalla de 14" FullHD (1920x1080) 220 nits, antiglare, 16:09
 
 [🛒 Comprar!!!]({{< param buyurl >}})
