@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION Akoya S15447 Plata Portátil 15.6" Flhd I5 10210U 256 GB  Ssd 8 GB  Ram Dos'
-date: 2022-04-02 11:46:39
+date: 2022-04-10 14:03:55
 image: 'https://m.media-amazon.com/images/I/51N1b3iJEWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEDION'
 buyurl: 'https://www.amazon.es/dp/B08T9Z8L7J/?tag=tolees-21'
 descuento: '20.07'
-average: '482.873333333333'
+average: '482.32'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Nombre de la marca: Medion
 - Producto de alta calidad
 - País de origen: España
-- Nombre de la marca: Medion
 
 [🛒 Visítala!!!]({{< param buyurl >}})
