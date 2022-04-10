@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charmast Power Bank 10400mah Batería Externa Carga Rápida Ultra Slim 18W QC 4.0 USB C Cargador Portátil con Led Dispaly Power Delivery Compatible con iPhone Samsung Smartphones'
-date: 2022-04-09 04:00:31
+date: 2022-04-10 19:01:00
 image: 'https://m.media-amazon.com/images/I/31-NtPFNN7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Charmast'
 buyurl: 'https://www.amazon.es/dp/B0892JZJYG/?tag=tolees-21'
 descuento: '26.10'
-average: '20.2207692307691'
+average: '20.101111111111'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Nitro 5 AN515-56-51V8 - Ordenador Portátil Gaming 15.6" Full HD  Intel Core i5-11300H  8GB RAM  512GB SSD  GeForce GTX 1650  Windows 10 Home  Color Negro - Teclado QWERTY Español'
-date: 2022-04-09 07:02:23
+date: 2022-04-10 19:03:53
 image: 'https://m.media-amazon.com/images/I/41TODufP2DS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B08QSG6JD8/?tag=tolees-21'
 descuento: '16.69'
-average: '771.411764705881'
+average: '770.166666666665'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Memoria RAM de 8GB
-- Tarjeta gráfica NVIDIA GeForceGTX 1650 - 4G-GDDR6
-- Procesador Intel Core i5-11300H
+- Sistema operativo: Windows 10 Home
 - Pantalla de 15.6" FullHD ComfyView IPS LED LCD
 - Almacenamiento de 512GB SSD
-- Sistema operativo: Windows 10 Home
+- Procesador Intel Core i5-11300H
+- Tarjeta gráfica NVIDIA GeForceGTX 1650 - 4G-GDDR6
 
 [🛒 Aquí!!!]({{< param buyurl >}})
