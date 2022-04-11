@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DWR-932 - Router móvil 4G para SIM de datos  4G/LTEhasta 150 Mbps  3G  WiFi N300  300 Mbps a 2.4 GHz  WPS  batería 2000 mAh  WPA2   color negro'
-date: 2022-04-03 16:45:43
+date: 2022-04-11 11:17:34
 image: 'https://m.media-amazon.com/images/I/41v4DWPgNQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B00OVJDCQ0/?tag=tolees-21'
 descuento: '41.34'
-average: '52.2906779661017'
+average: '52.035'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puedes usarlo mediante SIM de datos de cualquier operador 3G / 4G. Compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
 - Botón WPS de sincronización rápida de dispositivos
 - 4G/LTE con velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida; batería de 2000 mAh
-- Puedes usarlo mediante SIM de datos de cualquier operador 3G / 4G. Compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
-- Incorpora el estándar WiFi N de hasta 150 Mbps
 - Hasta 10 usuarios simultáneos y 5 horas de duración de batería
+- Incorpora el estándar WiFi N de hasta 150 Mbps
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
