@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento 512GB NVMe PCIe Gen3x4 SSD (new)
 - Pantalla 15.6" FHD (1920*1080), 144Hz 45%NTSC IPS-Level
 - Batería 3-Cell, Li-Polymer, 53.5Whr
-- Sin sistema operativo
 - Procesador Intel Core i7-11800H+HM570 (2.3GHz / 4.6GHz) , 24MB
 - Tarejeta gráfica RTX3050, GDDR6 4GB
 - Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
+- Sin sistema operativo
+- Almacenamiento 512GB NVMe PCIe Gen3x4 SSD (new)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

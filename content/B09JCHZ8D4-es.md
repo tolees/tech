@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - RX6700M, GDDR6 10GB
-- DDR IV 16GB x 2 (3200MHz)
-- Ryzen 9 5900HX
 - Sin sistema operativo
+- DDR IV 16GB x 2 (3200MHz)
 - 1TB NVMe PCIe Gen3x4 SSD (new)
+- Ryzen 9 5900HX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
