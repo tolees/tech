@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Acer Nitro VG270UPbmiipx - Monitor Gaming de 27" WQHD 144Hz  68.6 cm  2560x1440  Pantalla IPS LED 16:9  ZeroFrame  FreeSync  1ms VRB  350 nits  2 HDMI  DP MM Audio out  Eco Display  - Color Negro'
-date: 2022-04-12 12:06:26
+date: 2022-04-13 14:19:46
 image: 'https://m.media-amazon.com/images/I/41FVXrVTe8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07G9J35CQ-es Acer Nitro VG270UPbmiipx - Monitor Gaming de 27" WQHD...'
 sku: 'B07G9J35CQ-es'
-tags: [ 'Informática','Monitores','acer','ips', ]
+tags: [ 'Informática','Monitores','acer','ips','🇪🇸', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B07G9J35CQ/?tag=tolees-21'
 descuento: '28.57'
-average: '287.965714285714'
+average: '285.434'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
