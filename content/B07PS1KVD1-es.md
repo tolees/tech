@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Wifi de doble banda】 Admite Wi-Fi de doble banda 2.4G/5.8G al mismo tiempo. Las señales son más fuertes y más estables.Admite encendido automático después de un apagado inesperado, Wake-on-LAN, arranque PXE, Bluetooth 4.2, UHD Graphics 600, 3x USB 3.0, 1000Mbps LAN. Viene con un soporte de montaje en pared que es fácil de montar en la parte posterior del televisor o monitor.
-- 【Procesador Intel Celeron N4020】La mini PC equipada con procesador Intel Celeron N4020 (hasta 2,8 GHz) y UHD Graphics 600. Compatible con Linux. Realmente alto rendimiento y bajo consumo de energía.
-- 【Pequeño pero poderoso】 Apariencia liviana, diseño exquisito. La computadora portátil se puede llevar fácilmente a cualquier lugar. Por lo tanto, es ideal para excursiones o uso remoto de cualquier tipo.Equipado con EMMC de 64 GB y 4 GB de RAM. Es compatible con el almacenamiento extendido con una tarjeta SD (hasta 128 GB, no incluida) y M.2 2242 NGFF SSD, SATA3.06.0GB/s Diseño de enfriamiento pasivo sin ventilador, ahorro de energía, ahorro de energía y sin ruido.
-- 【Garantía de 24 meses】Ofrecemos una garantía de 24 meses, si tiene alguna pregunta, contáctenos, le responderemos en inglés dentro de las 24 horas.
 - 【Pantalla dual HD 4K@ 60Hz】Equipado con salida Ultra HD nativa 4K@ 60Hz y puertos de pantalla dual - HDMI y VGA, ideal para entretenimiento en el hogar, películas, navegación por Internet, viajes de negocios, juegos o trabajo de oficina. Disfruta de fantásticos efectos visuales.
+- 【Pequeño pero poderoso】 Apariencia liviana, diseño exquisito. La computadora portátil se puede llevar fácilmente a cualquier lugar. Por lo tanto, es ideal para excursiones o uso remoto de cualquier tipo.Equipado con EMMC de 64 GB y 4 GB de RAM. Es compatible con el almacenamiento extendido con una tarjeta SD (hasta 128 GB, no incluida) y M.2 2242 NGFF SSD, SATA3.06.0GB/s Diseño de enfriamiento pasivo sin ventilador, ahorro de energía, ahorro de energía y sin ruido.
+- 【Procesador Intel Celeron N4020】La mini PC equipada con procesador Intel Celeron N4020 (hasta 2,8 GHz) y UHD Graphics 600. Compatible con Linux. Realmente alto rendimiento y bajo consumo de energía.
+- 【Garantía de 24 meses】Ofrecemos una garantía de 24 meses, si tiene alguna pregunta, contáctenos, le responderemos en inglés dentro de las 24 horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

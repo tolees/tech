@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Combo Touch Funda con Teclado para iPad Pro 11 pulgadas 1a  2a  3a gen 2018  2020  2021  Teclado Retroiluminado Extraíble  Trackpad  Smart Connector  Disposición QWERTY Español Gris'
-date: 2022-04-13 13:44:25
+date: 2022-04-14 21:27:49
 image: 'https://m.media-amazon.com/images/I/41fcxZcV0MS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech'
 buyurl: 'https://www.amazon.es/dp/B07W5JJNG5/?tag=tolees-21'
 descuento: '20.00'
-average: '147.29'
+average: '148.444545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trackpad amplio, haz clic donde sea: esta funda con teclado para iPad posee un trackpad de precisión y fiable que te permite emplear la superficie entera para trabajar y usar los gestos Multi-Touch
+- Teclado retroiluminado: teclas retroiluminadas se ajustan automáticamente a tu entorno con 16 niveles de brillo y una fila completa de teclas de acceso directo de iPadOS. Accede con un solo toque
 - Hazlo todo con Combo Touch: cuatro modos de uso versátiles te permiten escribir, dibujar, visualizar y leer sin necesidad de retirar tu iPad Pro de la funda con teclado
 - Compatibilidad: la funda con teclado Combo Touch de Logitech es compatible con el iPad Pro de 11 pulgadas (1a, 2a, 3a generación - 2018, 2020, 2021) - A1980, A2013, A1934, A1979, A2228, A2068, A2230, A2231
-- Teclado retroiluminado: teclas retroiluminadas se ajustan automáticamente a tu entorno con 16 niveles de brillo y una fila completa de teclas de acceso directo de iPadOS. Accede con un solo toque
 - Teclado extraíble y soporte ajustable: cuando hayas terminado de escribir, retira el teclado para más flexibilidad y disfruta de 50 grados de ángulos de visualización ajustables
+- Trackpad amplio, haz clic donde sea: esta funda con teclado para iPad posee un trackpad de precisión y fiable que te permite emplear la superficie entera para trabajar y usar los gestos Multi-Touch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
