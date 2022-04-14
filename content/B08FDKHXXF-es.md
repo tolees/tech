@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cable cargador
 - Marca del producto: Withings
 - Ofrece un rendimiento óptimo
 - Disponible exclusivamente en Amazon
+- Cable cargador
 - Fácil de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
