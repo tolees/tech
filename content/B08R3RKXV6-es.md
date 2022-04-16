@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 27, resolución 4K UHD, 3840x2160 píxeles, IPS, 4ms, 60Hz, antirreflejos
-- Conexión HDMI, DP y USB tipo C: los cables vienen incluidos en la caja
 - Con este monitor tendrás una imagen fluida gracias a su tiempo de respuesta de 4 ms
 - Este monitor ergonómico dispone de la tecnología Eye Comfort para cuidar tu vista y regalarte una experiencia envolvente sin riesgos
+- Pantalla de 27, resolución 4K UHD, 3840x2160 píxeles, IPS, 4ms, 60Hz, antirreflejos
+- Conexión HDMI, DP y USB tipo C: los cables vienen incluidos en la caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

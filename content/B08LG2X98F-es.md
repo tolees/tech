@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Lo que obtienes: un banco de energía Anker 525, un cable de carga USB-A a USB-C, un cable de carga USB-C a USB-C, en estuche de viaje, un manual de instrucciones (idioma español no garantizado).
 - Gran potencia: la entrada USB-C de 20 W tiene más que suficiente zumo para cargar tu iPhone 12 en solo 30 minutos en un 50%. Y tienes que cargar dos dispositivos al mismo tiempo, además tienes un puerto USB de 18 W.
-- Amplia compatibilidad: carga casi todos los smartphones, tabletas y más
 - El ancla Plus: cierra a los más de 50 millones de clientes felices. Carga Anker.
+- Amplia compatibilidad: carga casi todos los smartphones, tabletas y más
 - POWER PUR: con una capacidad de 20.000 mAh tienes más que suficiente energía para cargar un iPhone 12 cinco veces, un S10 cuatro veces y un iPad mini 5 dos veces y media veces.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
