@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits.
 - Almacenamiento de 64 GB SSD eMMC
-- Memoria RAM de 4 GB LPDDR4-2400 MHz
 - Sistema Operativo Chrome OS
 - Procesador Intel Celeron N4020 (2 núcleos, 1,1 GHz/ 2,8 GHz, 4 MB L2)
-- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits.
 - Tarjeta gráfica integrada Intel UHD 600
+- Memoria RAM de 4 GB LPDDR4-2400 MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

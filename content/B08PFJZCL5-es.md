@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps (DisplayPort 1.4); 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x HDMI 2,0; 1 x RJ-45; 1 x toma combinada de auriculares/micrófono
+- Sin sistema operativo (FreeDOS)
+- Gráficos discretos NVIDIA GeForce GTX 1650 Ti (GDDR6 de 4 GB dedicada)
 - Procesador Intel Core i7-10870H (frecuencia base de 2,2 GHz, hasta 5,0 GHz con tecnología Intel Turbo Boost, 16 MB de caché L3, 8 núcleos)
 - Consigue Total War: WARHAMMER III con la compra de este equipo. Para más información visita la Tienda HP de Amazon
-- Gráficos discretos NVIDIA GeForce GTX 1650 Ti (GDDR6 de 4 GB dedicada)
-- Pantalla FHD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
-- Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps (DisplayPort 1.4); 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x HDMI 2,0; 1 x RJ-45; 1 x toma combinada de auriculares/micrófono
 - Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-2933 MHz 8 GB (2 x 4 GB)
-- Sin sistema operativo (FreeDOS)
+- Pantalla FHD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para entusiastas de la tecnología, jugadores experimentados y profesionales que necesitan confiabilidad
 - Velocidad de lectura secuencial de hasta 7000 MB / s; el rendimiento puede variar según el sistema de hardware y la configuración
+- Diseñado para entusiastas de la tecnología, jugadores experimentados y profesionales que necesitan confiabilidad
 - MZ-V8P500BW 500GB
 - Interfaz NVMe (Pcle Gen 4.0 x 4)
 - Factor de forma M.2
