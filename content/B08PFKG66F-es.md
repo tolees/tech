@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 14s-fq0007ns - Ordenador Portátil de 14" FHD  AMD 3020e  4GB DDR4-SDRAM  64GB eMMC  AMD Radeon Integrated Graphics  Windows 10S  Blanco - Teclado QWERTY Español'
-date: 2022-04-15 11:20:56
+date: 2022-04-17 16:11:19
 image: 'https://m.media-amazon.com/images/I/41PXnUfkX3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFKG66F/?tag=tolees-21'
 descuento: '17.00'
-average: '274.49'
+average: '261.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM DDR4-2400 MHz de 4 GB
+- Pantalla HD de 14" (35,6 cm) en diagonal; bisel micro-edge; antirreflectante; 220 nits; 45 % NTSC (1366 x 768)
 - Tarjeta gráfica integrada AMD Radeon Integrated Graphics
 - Almacenamiento de 64 GB eMMC
+- Memoria RAM DDR4-2400 MHz de 4 GB
 - Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj de hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos, 2 subprocesos)
-- Pantalla HD de 14" (35,6 cm) en diagonal; bisel micro-edge; antirreflectante; 220 nits; 45 % NTSC (1366 x 768)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
