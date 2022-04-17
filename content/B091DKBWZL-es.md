@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla Max Vision de 6,5" y 90 Hz. Navega por la web, ve vídeos y juega a juegos con una velocidad de actualización de la pantalla más rápida y fluida.
-- Batería de más de dos días de duración. Trabaja y juega sin preocuparte por cargar el móvil gracias a una batería de larga duración de 5000 mAh.
 - Velocidad 5G para todos. Actualización a la última generación de conectividad inalámbrica para obtener descargas y transmisiones superrápidas.
 - Rendimiento ultrarrápido. Experimenta la capacidad de respuesta ultrarrápida de un procesador Qualcomm Snapdragon 480.
-- Ranuras de memoria disponibles: 1; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Tipo de conector: USB tipo C
-- Sistema de triple cámara de 48 MP. Captura imágenes más nítidas y brillantes, retratos de aspecto profesional y primeros planos increíblemente detallados.
 - Protección avanzada frente al agua. Protege tu teléfono de los derrames accidentales y las salpicaduras.
+- Batería de más de dos días de duración. Trabaja y juega sin preocuparte por cargar el móvil gracias a una batería de larga duración de 5000 mAh.
+- Sistema de triple cámara de 48 MP. Captura imágenes más nítidas y brillantes, retratos de aspecto profesional y primeros planos increíblemente detallados.
+- Pantalla Max Vision de 6,5" y 90 Hz. Navega por la web, ve vídeos y juega a juegos con una velocidad de actualización de la pantalla más rápida y fluida.
+- Ranuras de memoria disponibles: 1; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Tipo de conector: USB tipo C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
