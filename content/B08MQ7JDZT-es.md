@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chip de 5 núcleos
 - Velocidad de transferencia de datos: 1800 MB / s
-- 4 antenas externas
+- Chip de 5 núcleos
 - Conexión confiable para hasta 128 dispositivos
+- 4 antenas externas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
