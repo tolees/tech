@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba'
-date: 2022-04-16 22:26:55
+date: 2022-04-18 14:13:52
 image: 'https://m.media-amazon.com/images/I/41gOlKfrsJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21'
 descuento: '43.26'
-average: '41.2984615384616'
+average: '40.9828571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

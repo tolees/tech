@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑO DE CORREA INNOVADORA: neo incluye una correa adicional nunca antes vista, que coloca en ángulo la esfera del reloj para facilitar su manejo a los más pequeños.
-- DURADERO Y RESISTENTE AL AGUA IP68: la batería de Neo dura hasta 24 horas (dependiendo del uso) y te avisará cuando su nivel sea bajo.
-- TARJETA SIM INTEGRADA: Neo se conecta a la red global de Vodafone y se puede utilizar en más de 100 países. El servicio se activa desde la app Vodafone Smart y tiene un coste de 5€/mes, no tiene permanencia y puedes activarlo/desactivarlo cuando lo necesites. AHORA: 3 primeros meses GRATIS, promoción a unidades limitadas.
-- CÁMARA, CONTROL DE ACTIVIDAD FÍSICA Y CALENDARIO: los niños pueden hacer fotos con la cámara de 5 mp y divertirse contando sus pasos diarios. Desde la app tu puedes crear eventos y recordatorios en el calendario.
-- LOCALIZADOR GPS: conoce la ubicación de Neo en la app de tu móvil. Todos los contactos podrán conocer la localización exacta sin importar la distancia.
-- CUALQUIER OPERADOR: Se puede utilizar desde cualquier teléfono móvil, iOS o Android, con operador de telefonía español (Movistar, Vodafone, Yoigo, Orange y MásMóvil, entre otros). En Portugal con el operador Vodafone Portugal
-- LLAMADAS Y MENSAJES: permanece en contacto con llamadas y mensajes. Puedes añadir hasta 9 contactos, definir control parental y otras opciones de seguridad.
 - TIPO DE PANTALLA: Digital.
+- CÁMARA, CONTROL DE ACTIVIDAD FÍSICA Y CALENDARIO: los niños pueden hacer fotos con la cámara de 5 mp y divertirse contando sus pasos diarios. Desde la app tu puedes crear eventos y recordatorios en el calendario.
+- DISEÑO DE CORREA INNOVADORA: neo incluye una correa adicional nunca antes vista, que coloca en ángulo la esfera del reloj para facilitar su manejo a los más pequeños.
+- LLAMADAS Y MENSAJES: permanece en contacto con llamadas y mensajes. Puedes añadir hasta 9 contactos, definir control parental y otras opciones de seguridad.
+- TARJETA SIM INTEGRADA: Neo se conecta a la red global de Vodafone y se puede utilizar en más de 100 países. El servicio se activa desde la app Vodafone Smart y tiene un coste de 5€/mes, no tiene permanencia y puedes activarlo/desactivarlo cuando lo necesites. AHORA: 3 primeros meses GRATIS, promoción a unidades limitadas.
+- DURADERO Y RESISTENTE AL AGUA IP68: la batería de Neo dura hasta 24 horas (dependiendo del uso) y te avisará cuando su nivel sea bajo.
+- LOCALIZADOR GPS: conoce la ubicación de Neo en la app de tu móvil. Todos los contactos podrán conocer la localización exacta sin importar la distancia.
 - PERSONALÍZALO CON LOS PERSONAJES DE DISNEY, PIXAR, STAR WARS Y MARVEL: el personaje que elijas cobrará vida dentro del reloj y hará tus actividades diarias más divertidas. Podrás cambiarlo siempre que lo desees y nuevos personajes se irán incorporando de forma gratuita.
+- CUALQUIER OPERADOR: Se puede utilizar desde cualquier teléfono móvil, iOS o Android, con operador de telefonía español (Movistar, Vodafone, Yoigo, Orange y MásMóvil, entre otros). En Portugal con el operador Vodafone Portugal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
