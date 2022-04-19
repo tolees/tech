@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion Gaming 16-a0043ns - Ordenador Portátil de 16.1" FHD  Intel Core i7-10750H  16GB DDR4-SDRAM  512GB SSD  NVIDIA RTX 2060 Max-Q 6GB  FreeDOS  Negro - Teclado QWERTY Español'
-date: 2022-04-17 15:27:25
+date: 2022-04-19 10:11:32
 image: 'https://m.media-amazon.com/images/I/41zLFAMF1ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFK1TVB/?tag=tolees-21'
 descuento: '25.00'
-average: '1001.594'
+average: '992.357272727273'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps (DisplayPort 1.4); 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x HDMI 2,0; 1 x RJ-45; 1 x toma combinada de auriculares/micrófono
+- Gráficos discretos NVIDIA GeForce RTX 2060 con diseño Max-Q (GDDR6 de 6 GB dedicada)
 - Procesador Intel Core i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
 - Sin sistema operativo (FreeDOS)
-- Gráficos discretos NVIDIA GeForce RTX 2060 con diseño Max-Q (GDDR6 de 6 GB dedicada)
-- Pantalla FHD de 16,1" (40,9 cm) en diagonal, 144 Hz, IPS, bisel micro-edge, antirreflectante, 300 nits, 72 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
 - Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-2933 MHz 16 GB (2 x 8 GB)
 - Consigue Total War: WARHAMMER III con la compra de este equipo. Para más información visita la Tienda HP de Amazon
+- Pantalla FHD de 16,1" (40,9 cm) en diagonal, 144 Hz, IPS, bisel micro-edge, antirreflectante, 300 nits, 72 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
