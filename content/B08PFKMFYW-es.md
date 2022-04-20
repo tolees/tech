@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 14s-dq2005ns - Ordenador portátil de 14" FullHD  Intel Core i7-1165G7  8GB de RAM  512GB SSD  Intel Iris Xe  Sin sistema operativo   Plata - teclado QWERTY Español'
-date: 2022-04-17 16:46:58
+date: 2022-04-20 10:59:28
 image: 'https://m.media-amazon.com/images/I/41mGkLVe5lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFKMFYW/?tag=tolees-21'
 descuento: '15.41'
-average: '561.995'
+average: '559.396'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador Intel Core i7-1165G7 (4 núcleos, 8 subprocesos, hasta 4,7 GHz con tecnología Intel Turbo Boost, 12 MB L3)
-- Tarjeta gráfica integrada Intel Iris Xᵉ
-- Sin sistema operativo
-- Memoria RAM de 8 GB (2 x 4 GB) DDR4-2666 MHz
-- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits
 - Almacenamiento de 512 GB PCle SSD
+- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits
+- Procesador Intel Core i7-1165G7 (4 núcleos, 8 subprocesos, hasta 4,7 GHz con tecnología Intel Turbo Boost, 12 MB L3)
+- Sin sistema operativo
+- Tarjeta gráfica integrada Intel Iris Xᵉ
+- Memoria RAM de 8 GB (2 x 4 GB) DDR4-2666 MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
