@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ATI - XIAOMI Redmi Note 11 Pro 5G 6/128Gb Gray'
-date: 2022-04-19 07:21:09
+date: 2022-04-20 18:32:15
 image: 'https://m.media-amazon.com/images/I/410DD0wQe7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
