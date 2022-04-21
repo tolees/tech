@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Nombre de la marca: Medion
 - País de origen: España
 - Producto de alta calidad
-- Nombre de la marca: Medion
 
 [🛒 Visítala!!!]({{< param buyurl >}})
