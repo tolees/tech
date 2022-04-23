@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
 - Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Nintendo Switch
-- Compatible con Nintendo Switch & Lite
 - Diseño transpirable y ligero para largas sesiones de juego.
+- Compatible con Nintendo Switch & Lite
 - El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

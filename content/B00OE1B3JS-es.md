@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mantiene su ordenador portátil refrigerado para aumentar el rendimiento
 - Ventilador silencioso alimentado por USB
-- Ventilador muy grande iluminado en rojo
 - Para ordenadores portátiles de hasta 17.3"
+- Ventilador muy grande iluminado en rojo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
