@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 64GB ampliables hasta 256GB
-- Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac), Bluetooth 5.0
-- Procesador MediaTek Helio P22T (8C, 8x A53 @2.3GHz)
-- Altavoces (2) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música
-- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
-- Memoria RAM de 4GB Soldered LPDDR4x
 - Tarjeta gráfica Integrada Qualcomm Adreno 505 GPU
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
+- Almacenamiento de 64GB ampliables hasta 256GB
+- Procesador MediaTek Helio P22T (8C, 8x A53 @2.3GHz)
 - Cámara: frontal 5MP; trasera 8MP
-- Sistema Operativo Android 9 (Pie)
+- Altavoces (2) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música
+- Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac), Bluetooth 5.0
 - Pantalla táctil de 10.3" FullHD (1920x1200) TDDI 330nits
+- Sistema Operativo Android 9 (Pie)
+- Memoria RAM de 4GB Soldered LPDDR4x
 
 [🛒 Comprar!!!]({{< param buyurl >}})
