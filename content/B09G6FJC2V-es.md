@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Receptor DVB-T2】： Le permite Leelbox DVB-T2 reproducir canales en alta definición. El convertidor de frecuencia de TV digital Leelbox DVB-T2 recibe la televisión digital DVB-T2 transmitida por aire desde su TV analógica
-- 【Fácil de usar】：Hay varias funciones de edición de canales (favoritos, mover, bloquear, saltar, borrar, renombrar, buscar, ordenar). Puede seleccionar la vista de fotos, reproducir archivos de música MP3 y ver películas y archivos de programas de TV grabados desde dispositivos de almacenamiento USB
-- 【Superfunción】：Admite teletexto / subtítulos / varios idiomas, función EPG potente y eficaz, temporizador de apagado, interfaz de soporte 3D, nota: no se puede grabar al configurar el modo de temporizador de apagado
 - 【Función de grabación de TV】：PVR le permite grabar programas de TV en un disco duro USB y leerlos en un televisor o computadora (no se recomienda la función de grabación de memoria USB)
 - 【Función Auto-Apagado a las 3 horas】:Esta unidad posee un temporizador de auto-apagado el cual apagará la unidad automáticamente después de 3 horas de inactividad con el fin de ahorrar energía
+- 【Receptor DVB-T2】： Le permite Leelbox DVB-T2 reproducir canales en alta definición. El convertidor de frecuencia de TV digital Leelbox DVB-T2 recibe la televisión digital DVB-T2 transmitida por aire desde su TV analógica
+- 【Superfunción】：Admite teletexto / subtítulos / varios idiomas, función EPG potente y eficaz, temporizador de apagado, interfaz de soporte 3D, nota: no se puede grabar al configurar el modo de temporizador de apagado
+- 【Fácil de usar】：Hay varias funciones de edición de canales (favoritos, mover, bloquear, saltar, borrar, renombrar, buscar, ordenar). Puede seleccionar la vista de fotos, reproducir archivos de música MP3 y ver películas y archivos de programas de TV grabados desde dispositivos de almacenamiento USB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
