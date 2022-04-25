@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumper Ordenador Portátil 14 Pulgadas  12 GB DDR4 256 GB SSD  Intel Celeron N4020  HD Graphics 600  Windows 10 Laptop  BT4 0  Cámara Frontal HD  Memoria expandible 256 GB TF  Teclado QWERTY español'
-date: 2022-04-20 18:45:56
+date: 2022-04-25 17:00:40
 image: 'https://m.media-amazon.com/images/I/41f5AF-h9-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JUMPER'
 buyurl: 'https://www.amazon.es/dp/B09KVCWSJF/?tag=tolees-21'
 descuento: '26.18'
-average: '300.99'
+average: '297.262727272727'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
