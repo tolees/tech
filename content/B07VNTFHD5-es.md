@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD BLACK - WD BLACK P10 Game Drive de 5 TB para llevar tu colección de juegos de PC/Mac o PlayStation allí donde vayas'
-date: 2022-04-22 10:37:51
+date: 2022-04-25 14:35:44
 image: 'https://m.media-amazon.com/images/I/41HKDtHvLfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07VNTFHD5-es WD BLACK - WD BLACK P10 Game Drive de 5 TB para llevar tu...'
 sku: 'B07VNTFHD5-es'
 tags: [ 'Accesorios para Xbox One','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para Xbox One','Informática','Videojuegos','playstation','wd black','🇪🇸', ]
-actualPrice: 109.65 EUR
+actualPrice: 100.82 EUR
 currency: EUR
-price: 109.65
+price: 100.82
 comparePrice: 140.49 EUR
 prodname: 'WD BLACK - WD BLACK P10 Game Drive de 5 TB para llevar tu colección de juegos de PC/Mac o PlayStation allí donde vayas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'WD BLACK'
 buyurl: 'https://www.amazon.es/dp/B07VNTFHD5/?tag=tolees-21'
-descuento: '21.95'
-average: '120.538405797102'
+descuento: '28.24'
+average: '120.256714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
