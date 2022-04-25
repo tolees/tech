@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- TRENZADO – Este ratón con cable gaming utiliza un cable USB trenzado de 1,8 m para mayor libertad de movimiento. Conecta, juega y gana en un instante.
+- TRIPLE CLIC – Los 8 botones programables te permiten modificar el Celox a tu gusto. El botón de triple disparo incluido inflige un daño masivo.
+- PESO AJUSTABLE – El Trust GXT 165 Celox domina su clase de peso; y tú decidirás de qué clase se trata, con 4 pesos metálicos de 4 g cada uno.
 - DILO CON RGB – ¡Por supuesto que el Celox tiene RGB! Ajusta las luces a través del software avanzado y muestra tus verdaderos colores.
 - CORRE Y DISPARA – Ajusta la resolución del ratón de 200 a 10.000 (!) DPI. Este ratón gaming es adecuado para correr y disparar y para francotiradores.
-- TRENZADO – Este ratón con cable gaming utiliza un cable USB trenzado de 1,8 m para mayor libertad de movimiento. Conecta, juega y gana en un instante.
-- PESO AJUSTABLE – El Trust GXT 165 Celox domina su clase de peso; y tú decidirás de qué clase se trata, con 4 pesos metálicos de 4 g cada uno.
-- TRIPLE CLIC – Los 8 botones programables te permiten modificar el Celox a tu gusto. El botón de triple disparo incluido inflige un daño masivo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
