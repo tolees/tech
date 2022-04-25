@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de conectividad: Inalámbrico
-- Cuenta con la tecnología Touch Control, lo que te permitirá utilizar todas las funciones del auricular
-- Los auriculares It Plus de Vieta Pro están preparados para soportar la versión Bluetooth 5.0
-- Tiene un total de 16 h de autonomía; su sistema magnético permite encajar los auriculares en su base automáticamente
 - Auricular It Plus de Vieta Pro con Bluetooth 5.0, true Wireless y doble micrófono
 - Fuente de alimentación: Funcionamiento por batería
+- Tiene un total de 16 h de autonomía; su sistema magnético permite encajar los auriculares en su base automáticamente
+- Tipo de conectividad: Inalámbrico
+- Los auriculares It Plus de Vieta Pro están preparados para soportar la versión Bluetooth 5.0
+- Cuenta con la tecnología Touch Control, lo que te permitirá utilizar todas las funciones del auricular
 - Es Dual Master, podrás utilizar cada auricular de manera individual destaca por tener un sensor play ause
 
 [🛒 Aquí!!!]({{< param buyurl >}})
