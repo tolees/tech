@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tapas protectoras para los puertos
-- Hecha para MagSafe
-- Fabricación sostenible
 - Mantiene la pantalla protegida
 - Protección contra caídas
+- Fabricación sostenible
+- Tapas protectoras para los puertos
+- Hecha para MagSafe
 
 [🛒 Visítala!!!]({{< param buyurl >}})

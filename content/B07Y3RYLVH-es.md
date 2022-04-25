@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño de bisel estrecho sin marco: minimiza las distracciones y crea configuraciones de varios paneles prácticamente ininterrumpidas
 - Tecnolofia Flicker-free que evita el parpadeo
-- Pantalla Full HD: disfruta de una calidad de imagen inmaculada con una resolución de 1920 x 1080 con un tiempo de respuesta de 1ms para jugar a juegos que demanden una gran resolución.
-- Con los puertos VGA y HDMI, esta pantalla hace que conectar tu ordenador portátil o pc de sobremesa sea una tarea sencilla y fluida
 - Tiempo de respuesta de 1ms
+- Con los puertos VGA y HDMI, esta pantalla hace que conectar tu ordenador portátil o pc de sobremesa sea una tarea sencilla y fluida
+- Pantalla Full HD: disfruta de una calidad de imagen inmaculada con una resolución de 1920 x 1080 con un tiempo de respuesta de 1ms para jugar a juegos que demanden una gran resolución.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

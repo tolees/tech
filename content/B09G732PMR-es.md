@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 64GB eMMC
 - Memoria RAM de 4GB SO-DIMM DDR4
-- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
-- Tarjeta gráfica integrada AMD Radeon Graphics
 - Sistema Operativo: Chrome OS
+- Tarjeta gráfica integrada AMD Radeon Graphics
+- Almacenamiento de 64GB eMMC
+- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
 - Procesador AMD 3000 3015Ce (2C/DualCore 1.2 / 2.3GHz, 4MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
