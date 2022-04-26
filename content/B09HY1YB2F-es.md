@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-fq4086ns - Ordenador portátil de 15.6" Full HD  Intel Core i7-1195G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 11 Home  Plata - Teclado QWERTY Español'
-date: 2022-04-22 08:32:51
+date: 2022-04-26 06:46:19
 image: 'https://m.media-amazon.com/images/I/41tFTpL3h1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Memoria RAM DDR4-3200 MHz 8 GB (2 x 4 GB)
-- Gráficos integrados Intel Iris Xᵉ
+- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Pantalla Full HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Sistema operativo Windows 11 Home
+- Gráficos integrados Intel Iris Xᵉ
 - Procesador Intel Core i7-1195G7 (hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 4 núcleos, 8 subprocesos)
+- Sistema operativo Windows 11 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})
