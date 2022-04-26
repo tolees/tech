@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Relación de aspecto 16:9 y relación de contraste 1000:1
 - Tecnología Eye Comfort para la protección de los ojos contra la luz azul
 - Ajuste de inclinación (-5° / 22°)
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
-- Cable HDMI incluido en la caja
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- AMD FreeSync
-- Puertos HDMI y DP
 - Soporte VESA para montar la pantalla en la pared
 - Pantalla de 23.8" con resolución 2K QHD (2560x1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Relación de aspecto 16:9 y relación de contraste 1000:1
+- Cable HDMI incluido en la caja
+- Puertos HDMI y DP
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- AMD FreeSync
 
 [🛒 Visítala!!!]({{< param buyurl >}})

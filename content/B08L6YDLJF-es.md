@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transmisión por correa
 - Tocadiscos de dos velocidades 33 / 45 rpm
 - Cápsula de aluminio magnética con imán móvil de alta calidad AT3600L
 - Brazo ajustable balanceado con movimiento amortiguado
 - Conexión a cualquier altavoz Bluetooth
-- Transmisión por correa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
