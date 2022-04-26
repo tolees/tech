@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion Gaming 15-ec2004ns - Ordenador Portátil de 15.6" Full HD  AMD Ryzen 7-5800H  16GB DDR4-SDRAM  512GB SSD  60 Hz  NVIDIA GTX 1650 4GB  FreeDOS  Negro - Teclado QWERTY Español'
-date: 2022-04-23 08:35:24
+date: 2022-04-26 12:41:40
 image: 'https://m.media-amazon.com/images/I/41zLFAMF1ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08VN41V3T/?tag=tolees-21'
 descuento: '22.14'
-average: '776.30625'
+average: '771.817058823529'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
-- Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
-- Procesador AMD Ryzen 7-5800H (aumento máximo del reloj de hasta 4,4 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
-- Gráficos discretos NVIDIA GeForce GTX 1650 (GDDR6 de 4 GB dedicada)
 - Sin sistema operativo (FreeDOS)
+- Almacenamiento de disco duro PCle SSD de hasta 512 GB y memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 - Puertos: 1 x SuperSpeed USB Type-C con velocidad de señal de 5 Gbps; 1 SuperSpeed USB Type-A con velocidad de señal de 5 Gbps; 1 x USB 2.0 Type-A (HP Sleep and Charge); 1 x HDMI 2,0; 1 x RJ45; 1 x toma combinada de auriculares/micrófono
+- Gráficos discretos NVIDIA GeForce GTX 1650 (GDDR6 de 4 GB dedicada)
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080); cámara HP Wide Vision 720p HD con micrófonos digitales integrados y altavoces duales con audio de B&O que ofrecen un sonido potente y optimizado
+- Procesador AMD Ryzen 7-5800H (aumento máximo del reloj de hasta 4,4 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
