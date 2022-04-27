@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Canvio Basics  Disco Duro  4TB  Negro'
-date: 2022-04-20 18:00:20
+date: 2022-04-26 22:38:28
 image: 'https://m.media-amazon.com/images/I/31XOEGIzKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Toshiba'
 buyurl: 'https://www.amazon.es/dp/B07KPM58FX/?tag=tolees-21'
 descuento: '25.56'
-average: '82.1615384615386'
+average: '82.1027500000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Interfaz USB 3.0 (compatible con USB 2.0)
-- Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
 - Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
 - Canvio basics 2.5 4TB black
+- Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
