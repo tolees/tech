@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 10 - Smartphone de 4+64GB  Pantalla de 6 5” FHD+ 90Hz  MediaTek Helio G88  Cuadruple Cámara de 50MP IA  5000mAh  Versión ES + 3 Años de garantía '
-date: 2022-04-26 07:02:32
+date: 2022-04-27 13:04:42
 image: 'https://m.media-amazon.com/images/I/41BDIYGlZ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
