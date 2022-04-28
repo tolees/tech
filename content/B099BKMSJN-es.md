@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nuevo modo de juego llamado "Modo Hardcore"
+- Gráficos mejorados; incluyendo sombras actualizadas, reflejos, resoluciones de alta definición y 60 fps
 - Nuevo modo de juego llamado "Modo Hardcore"
 - Explora los 17 niveles del interior de Australia en su vieja escuela de plataformas en 3D
 - 13 boomerangs diferentes, incluyendo Frostyrang, Flamerang y el potente Terrorang
-- Gráficos mejorados; incluyendo sombras actualizadas, reflejos, resoluciones de alta definición y 60 fps
 
 [🛒 Comprar!!!]({{< param buyurl >}})
