@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✅ Cancelación de ruido activa
-- ✅ Auriculares bluetooth 5.0 con cancelación de ruido
 - ✅ Baterías de 55 mAh (auriculares) y 500 mAh (base)
+- ✅ Auriculares bluetooth 5.0 con cancelación de ruido
+- ✅ Cancelación de ruido activa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
