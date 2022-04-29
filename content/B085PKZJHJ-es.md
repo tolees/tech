@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuádruple Cámara AI de 64MP, zoom 20X
-- Batería de 4200mAh con carga SuperDart de 65W
-- Procesador Qualcomm Snapdragon 865, 5G
 - Pantalla de 6.44” Super AMOLED de 90Hz
-- Altavoces estéreo duales Dolby Atmos
 - Sistema de enfriamiento de vapor
+- Cuádruple Cámara AI de 64MP, zoom 20X
+- Altavoces estéreo duales Dolby Atmos
+- Procesador Qualcomm Snapdragon 865, 5G
+- Batería de 4200mAh con carga SuperDart de 65W
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
