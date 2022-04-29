@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 14s-fq0009ns - Ordenador portátil de 14" HD 3020E  4GB RAM  64GB eMMC  AMD Radeon  Windows 11 Home en Modo S  Plata - Teclado QWERTY Español'
-date: 2022-04-19 10:39:57
+date: 2022-04-29 12:46:31
 image: 'https://m.media-amazon.com/images/I/41GthlFSrOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sistema operativo Windows 11 Home en modo S
-- Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj de hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos, 2 subprocesos)
-- Gráficos integrados AMD Radeon
 - Almacenamiento de 64 GB eMMC
-- Pantalla HD de 14" (35,6 cm) en diagonal, bisel micro-borde, antirreflectante, 220 nits, 45 % NTSC (1366 x 768)
+- Gráficos integrados AMD Radeon
+- Procesador AMD 3020e (reloj base a 1,2 GHz, aumento máximo del reloj de hasta 2,6 GHz, 4 MB de caché L3, 2 núcleos, 2 subprocesos)
 - Memoria RAM DDR4-2400 MHz de 8 GB
+- Pantalla HD de 14" (35,6 cm) en diagonal, bisel micro-borde, antirreflectante, 220 nits, 45 % NTSC (1366 x 768)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
