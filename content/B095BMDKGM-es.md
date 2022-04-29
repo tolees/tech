@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi REDMI Note 10 5G  4 128  Azul'
-date: 2022-04-28 10:30:26
+date: 2022-04-29 19:15:49
 image: 'https://m.media-amazon.com/images/I/416naD52v+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B095BMDKGM/?tag=tolees-21'
 descuento: '26.07'
-average: '206.364999999999'
+average: '202.245555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
