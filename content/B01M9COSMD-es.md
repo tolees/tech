@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 - Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
 - Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
+- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 
 [🛒 Comprar!!!]({{< param buyurl >}})
