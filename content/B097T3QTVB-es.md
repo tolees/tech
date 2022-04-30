@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG G713IE-HX011 - Portátil Gaming de 17.3" Full HD 144Hz  Ryzen 7 4800H  16GB RAM  1TB SSD  GeForce RTX 3050 Ti 4GB  Sin Sistema Operativo  Gris Eclipse - Teclado QWERTY español'
-date: 2022-04-28 08:59:57
+date: 2022-04-30 12:41:00
 image: 'https://m.media-amazon.com/images/I/41oHJTgJvmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B097T3QTVB/?tag=tolees-21'
 descuento: '31.96'
-average: '1245.31687500001'
+average: '1232.05823529413'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
 - Sin Sistema Operativo
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 Ti 4GB GDDR6
 - Pantalla de 17.3" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
-- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
