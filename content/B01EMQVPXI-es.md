@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La impresora dispone de una bandeja de entrada de 250 hojas, una bandeja de salida de 150 hojas y es adapta a un ciclo mensual de trabajo de hasta 30.000 páginas en A4
-- Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados de gran calidad cómodamente desde tu móvil
-- Impresora con seguridad dinámica habilitada. Las impresoras equipadas con seguridad dinámica se han diseñado para funcionar solo con cartuchos con chips o circuitos electrónicos nuevos o reutilizados de HP. Las impresoras utilizan las medidas de seguridad dinámica para bloquear los cartuchos que tienen chips o circuitos electrónicos que no son de HP o que han sido modificados
-- Esta impresora es compatible con los cartuchos de tinta originales HP 953 Negro, HP 953 Amarillo, HP 953 Cian, HP 953 Magenta y es compatible con el servicio automático de tinta HP Instant Ink
 - Cuenta con una conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático, Wi-Fi Direct, Ethernet, USB 2.0 de alta velocidad y Apple AirPrint
 - Imprime a doble cara de forma automática documentos con resultados de calidad profesional en la oficina; la velocidad de impresión es de 22 ppm en negro y de 18 ppm en color
+- Esta impresora es compatible con los cartuchos de tinta originales HP 953 Negro, HP 953 Amarillo, HP 953 Cian, HP 953 Magenta y es compatible con el servicio automático de tinta HP Instant Ink
+- Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos con resultados de gran calidad cómodamente desde tu móvil
+- Impresora con seguridad dinámica habilitada. Las impresoras equipadas con seguridad dinámica se han diseñado para funcionar solo con cartuchos con chips o circuitos electrónicos nuevos o reutilizados de HP. Las impresoras utilizan las medidas de seguridad dinámica para bloquear los cartuchos que tienen chips o circuitos electrónicos que no son de HP o que han sido modificados
+- La impresora dispone de una bandeja de entrada de 250 hojas, una bandeja de salida de 150 hojas y es adapta a un ciclo mensual de trabajo de hasta 30.000 páginas en A4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
