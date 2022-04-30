@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG G513IH-HN008 - Portátil Gaming de 15.6" Full HD 144Hz  Ryzen 7 4800H  16GB RAM  512GB SSD  GeForce GTX 1650-4GB  Sin Sistema Operativo  Gris - Teclado TouchPad QWERTY Español'
-date: 2022-04-24 19:04:16
+date: 2022-04-30 15:32:28
 image: 'https://m.media-amazon.com/images/I/41qFAjLjCAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Sin Sistema Operativo
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
