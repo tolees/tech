@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ 1080p IP Cámara de Seguridad Interior  2.4GHz Wi-Fi FHD Cámara de Vigilancia con Visión Nocturna  Detección de Movimiento  Audio Bidireccional  Monitor de Bebé  Nube  Compatible con Alexa  C1C-B'
-date: 2022-04-28 07:40:36
+date: 2022-05-01 14:37:50
 image: 'https://m.media-amazon.com/images/I/21tQh-8s8PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B09Q8FNF48/?tag=tolees-21'
 descuento: '15.43'
-average: '37.9333333333333'
+average: '36.905'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
