@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 5 A515-56-572C - Ordenador Portátil 15.6" Full HD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Gráficos Intel Iris Xᵉ  Windows 10 Home  Color Plata - Teclado QWERTY español'
-date: 2022-04-27 14:41:26
+date: 2022-05-01 16:49:52
 image: 'https://m.media-amazon.com/images/I/4182R7Xg4FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B08QSCVWS6/?tag=tolees-21'
 descuento: '15.41'
-average: '582.5'
+average: '580.904761904762'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 8GB
-- Almacenamiento de 512GB SSD
-- Sistema operativo: Windows 10 Home
 - Procesador Intel Core i5-1135G7
 - Pantalla de 15.6" FullHD (1920x1080)
+- Sistema operativo: Windows 10 Home
+- Memoria RAM de 8GB
+- Almacenamiento de 512GB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
