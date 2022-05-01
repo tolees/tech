@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 311 CB311-11H - Ordenador Portátil 11.6" HD  MTK MT8183  4GB RAM  32GB eMMc  ARM Mali-G72 MP3  Chrome OS  Color Plata - Teclado Qwerty Español'
-date: 2022-04-25 11:35:00
+date: 2022-05-01 18:34:02
 image: 'https://m.media-amazon.com/images/I/41nL8Jvl0hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B095CTNX87/?tag=tolees-21'
 descuento: '30.89'
-average: '198.63488888889'
+average: '198.208043478262'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
