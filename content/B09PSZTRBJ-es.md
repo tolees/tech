@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI 9S7-155266-856 - Ordenador portátil de 15.6 " FHD  1920 x 1080   UHD Graphics  Tiger Lake i7-1195G7  DDR IV 16 GB x 200M Hz  1 TB NVMe PCIe Gen 3 x 4 SSD Carbon Gray'
-date: 2022-04-27 20:33:52
+date: 2022-05-01 12:56:25
 image: 'https://m.media-amazon.com/images/I/31BomNRiZkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UHD Graphics
-- 1 TB NVMe PCIe Gen 3 x 4 SSD (new)
+- CPU: Tiger lake i7-1195G7
 - Free DOS
 - DDR IV 16 GB x 200 MHz)
-- CPU: Tiger lake i7-1195G7
+- UHD Graphics
+- 1 TB NVMe PCIe Gen 3 x 4 SSD (new)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

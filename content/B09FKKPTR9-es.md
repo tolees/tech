@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Galaxy M52 5G - Teléfono móvil  Android  Smartphone  128 GB  Negro  Versión ES'
-date: 2022-04-26 16:35:49
+date: 2022-05-01 11:48:35
 image: 'https://m.media-amazon.com/images/I/41kYoWKmZOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09FKKPTR9/?tag=tolees-21'
 descuento: '41.20'
-average: '291.012500000001'
+average: '290.19393939394'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
