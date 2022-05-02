@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encriptación de seguridad inalámbrica fácil con sólo pulsar el botón WPS
-- Control de ancho de banda basado en IP permite a los administradores determinar cuánto ancho de banda se asigna a cada PC
 - Puente inalámbrico WDS proporciona el enlace inconsútil para ampliar su red inalámbrica
+- Control de ancho de banda basado en IP permite a los administradores determinar cuánto ancho de banda se asigna a cada PC
+- Encriptación de seguridad inalámbrica fácil con sólo pulsar el botón WPS
 
 [🛒 Comprar!!!]({{< param buyurl >}})
