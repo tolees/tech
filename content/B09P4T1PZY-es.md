@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
 - Dale una alegría a tus amigos y familiares con una Nintendo eShop Card, ¡o date un capricho!
 - En Pokémon Perla Reluciente recorrerás la región de Sinnoh. Esta tierra de naturaleza exuberante es el origen de numerosos mitos e historias que se han transmitido de generación en generación.
 - Es el regalo ideal para aquellos que disfrutan jugando a videojuegos.
-- Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
