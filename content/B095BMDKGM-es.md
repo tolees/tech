@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REDMI NOTE 10 5G BLUE 4 128
 - Tipo de conector: USB tipo C; Tamaño de pantalla: 6.5 inches; Tipo de pantalla: AMOLED; Sistema operativo: Android 4.0
+- REDMI NOTE 10 5G BLUE 4 128
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
