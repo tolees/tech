@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orzly Kit Accesorios para Nintendo Switch Geek Pack con: Funda y Protector de Pantalla Switch  Empuñaduras & Volante para mandos Joy-con  Una Base de Carga USB y Un Soporte portátil  y más. [Negro]'
-date: 2022-04-23 09:04:16
+date: 2022-05-04 16:27:17
 image: 'https://m.media-amazon.com/images/I/512fOQq78AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07XBV69PY-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con:...'
 sku: 'B07XBV69PY-es'
 tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Kits de accesorios para Nintendo Switch','Videojuegos','nintendo','orzly','switch','🇪🇸', ]
-actualPrice: 49.99 EUR
+actualPrice: 42.49 EUR
 currency: EUR
-price: 49.99
+price: 42.49
 comparePrice: 69.99 EUR
 prodname: 'Orzly Kit Accesorios para Nintendo Switch Geek Pack con: Funda y Protector de Pantalla Switch  Empuñaduras & Volante para mandos Joy-con  Una Base de Carga USB y Un Soporte portátil  y más. [Negro]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Orzly'
 buyurl: 'https://www.amazon.es/dp/B07XBV69PY/?tag=tolees-21'
-descuento: '28.58'
-average: '53.8905882352941'
+descuento: '39.29'
+average: '53.5648571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
