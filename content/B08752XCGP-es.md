@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exquisite Gaming - Exquisite Gaming - Cable guy Mandalorian The Child  soporte de sujeción y carga para mando de consola y/o smartphone'
-date: 2022-05-03 15:05:41
+date: 2022-05-04 17:03:47
 image: 'https://m.media-amazon.com/images/I/31mPh+dBoTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compatible con mando o controller PS4, PS5, Xbox one y Xbox X Series.
 - Compatible con todos los teléfonos móviles o smartphones actuales.
 - Personaje Mandalorian the Child de Star Wars - Disney.
-- Producto con licencia oficial de Disney.
-- Compatible con mando o controller PS4, PS5, Xbox one y Xbox X Series.
 - Incluye cable de carga de 2 metros (conector lightning, mini USB y USB).
+- Producto con licencia oficial de Disney.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
