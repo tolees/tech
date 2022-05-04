@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Watch FIT - Smartwatch con Cuerpo de Metal  Pantalla AMOLED de 1.64”  hasta 10 días de batería  96 Modos de Entrenamiento  GPS Incorporado  5ATM  Color Azul'
-date: 2022-04-21 11:28:59
+date: 2022-05-04 21:19:20
 image: 'https://m.media-amazon.com/images/I/31of08Wqn5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B09GGDSTMK/?tag=tolees-21'
 descuento: '27.88'
-average: '64.576'
+average: '64.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
