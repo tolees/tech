@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop Go - Ordenador portátil 2 en 1 de 12.4"  Intel Core i5-1035G1  4GB RAM  64GB eMMC  Intel Graphics  Windows 10  Platino - Teclado QWERTY Español'
-date: 2022-04-26 12:43:26
+date: 2022-05-06 10:20:27
 image: 'https://m.media-amazon.com/images/I/31TWxwSRo+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B08JZWRD92/?tag=tolees-21'
 descuento: '18.25'
-average: '499.9428125'
+average: '500.399090909091'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador 10th Gen Intel Core i5-1035G1
-- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
+- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
+- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
+- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
 - Memoria RAM de 4GB
 - Unidad eMMC 64GB
-- Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
-- Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
-- Súper ligero, con apenas 1,11Kg, para llevar a todas partes
+- Procesador 10th Gen Intel Core i5-1035G1
+- Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
 
 [🛒 Visítala!!!]({{< param buyurl >}})
