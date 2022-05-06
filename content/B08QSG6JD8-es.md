@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalla de 15.6" FullHD ComfyView IPS LED LCD
-- Almacenamiento de 512GB SSD
-- Memoria RAM de 8GB
 - Tarjeta gráfica NVIDIA GeForceGTX 1650 - 4G-GDDR6
 - Procesador Intel Core i5-11300H
+- Memoria RAM de 8GB
 - Sistema operativo: Windows 10 Home
+- Almacenamiento de 512GB SSD
 
 [🛒 Aquí!!!]({{< param buyurl >}})

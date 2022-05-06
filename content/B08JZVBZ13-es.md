@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop Go - Ordenador portátil de 12.4"  Intel Core i5-1035G1  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Platino - Teclado QWERTY Español'
-date: 2022-04-22 06:02:28
+date: 2022-05-06 08:08:23
 image: 'https://m.media-amazon.com/images/I/31TWxwSRo+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08JZVBZ13-es Microsoft Surface Laptop Go - Ordenador portátil de 12.4"...'
 sku: 'B08JZVBZ13-es'
 tags: [ 'Informática','Portátiles','microsoft','ordenador','ram','teclado','🇪🇸', ]
-actualPrice: 519.87 EUR
+actualPrice: 599.0 EUR
 currency: EUR
-price: 519.87
+price: 599.0
 comparePrice: 799.99 EUR
 prodname: 'Microsoft Surface Laptop Go - Ordenador portátil de 12.4"  Intel Core i5-1035G1  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Platino - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B08JZVBZ13/?tag=tolees-21'
-descuento: '35.02'
-average: '604.303230769231'
+descuento: '25.12'
+average: '604.222878787879'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 8GB
 - Súper ligero, con apenas 1,11Kg, para llevar a todas partes
 - Sistema operativo Windows 10 Home in S mode. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo)
+- Unidad SSD 128GB
 - Hasta 13 horas de duración de la batería, con carga rápida y conexion instantánea
 - Procesador 10th Gen Intel Core i5-1035G1
+- Memoria RAM de 8GB
 - Pantalla táctil de 12.45 pulgadas, 1536x1024 pixels
-- Unidad SSD 128GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
