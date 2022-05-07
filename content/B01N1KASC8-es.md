@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Pace Reloj Deportivo con GPS  Rojo'
-date: 2022-05-06 08:58:14
+date: 2022-05-07 17:15:31
 image: 'https://m.media-amazon.com/images/I/51aUDFVufUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Autonomía hasta 5 días
 - GPS Sony 28 nanómetros
-- Frecuencia cardíaca durante el ejercicio
 - Música por Bluetooth y a bordo
+- Autonomía hasta 5 días
 - Bisel cerámico
+- Frecuencia cardíaca durante el ejercicio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
