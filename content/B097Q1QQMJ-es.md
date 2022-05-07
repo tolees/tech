@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin Sistema Operativo
-- Procesador AMD Ryzen 7 4800H
-- Pantalla de 15.6" FullHD
-- Almacenamiento de 512GB SSD
 - Memoria RAM de 16GB
 - Tarjeta gráfica NVIDIA GeForce RTX 3050-4GB
+- Pantalla de 15.6" FullHD
+- Almacenamiento de 512GB SSD
+- Procesador AMD Ryzen 7 4800H
+- Sin Sistema Operativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
