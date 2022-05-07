@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Plug and Play】--This hard drive external is ready to go without software to install, just plug it in and go.
 - 【Sturdy & Durable】Ultra slim external hard drive protected by sturdy and durable case, which is lightweight and handy, comfortably fits your palm or slip into pocket.
 - 【Alta velocidad Type-C/USB3.1 External Hard Drive External】With super high transmission. 5 times as fast as usual hard drive when reading and more than 1 time faster when writing, sure to boost your work efficiency largely!
-- 【Compatibilidad superior】 Es una compatibilidad fuerte, hace que sea fácil de usar con un 99% de los sistemas PC, including Microsoft Windows 10/ Windows 8.1/ Windows 8/ Windows 7/Android and more!
+- 【Plug and Play】--This hard drive external is ready to go without software to install, just plug it in and go.
 - 【What You Get】 1 x Portable Hard Drive,1 x USB3.1 Cable, 3 Years Warranty.
+- 【Compatibilidad superior】 Es una compatibilidad fuerte, hace que sea fácil de usar con un 99% de los sistemas PC, including Microsoft Windows 10/ Windows 8.1/ Windows 8/ Windows 7/Android and more!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
