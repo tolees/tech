@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ordenador portátil pequeño con un diseño fino y práctico
-- Portátil Windows 10 Pro, actualizable a Windows 11 Pro procesador Intel Celeron N4020 y teclado en Español
-- Con una batería de 8.000 mAh, dispondrás de la autonomía que necesitas
 - Posee 4GB de memoria RAM y 64GB memoria interna
+- Con una batería de 8.000 mAh, dispondrás de la autonomía que necesitas
+- Portátil Windows 10 Pro, actualizable a Windows 11 Pro procesador Intel Celeron N4020 y teclado en Español
+- Ordenador portátil pequeño con un diseño fino y práctico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
