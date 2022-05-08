@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
 - Tarjeta gráfica RTX3050 Ti, GDDR6 4GB
-- Sin sistema operativo
+- Memoria RAM DDR IV 8 GB x 2 (3200MHz)
 - Disco 1 TB NVMe PCIe Gen3x4 SSD (new)
+- Sin sistema operativo
 - Procesador Tiger Lake i7-11800H+HM570
 - Tamaño de pantalla: 17.3 inches; Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB
 
