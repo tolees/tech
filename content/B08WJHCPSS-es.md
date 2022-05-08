@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG DIS 31 5 U32R594CWR Alta Resolución'
-date: 2022-05-04 20:52:44
+date: 2022-05-08 11:21:31
 image: 'https://m.media-amazon.com/images/I/51s8aXkeVBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
