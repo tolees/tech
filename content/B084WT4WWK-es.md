@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi repetidor MI WiFi Range Extender Pro*300mbps Repetidor*hasta 64 dispositivos*Dos potentes antenas externas*Plug and play'
-date: 2022-05-06 13:30:56
+date: 2022-05-08 19:38:22
 image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084WT4WWK-es Xiaomi repetidor MI WiFi Range Extender Pro*300mbps...'
 sku: 'B084WT4WWK-es'
 tags: [ 'Dispositivos de red','Informática','Repetidores de red','wifi','xiaomi','🇪🇸', ]
-actualPrice: 10.54 EUR
+actualPrice: 11.0 EUR
 currency: EUR
-price: 10.54
+price: 11.0
 comparePrice: 12.99 EUR
 prodname: 'Xiaomi repetidor MI WiFi Range Extender Pro*300mbps Repetidor*hasta 64 dispositivos*Dos potentes antenas externas*Plug and play'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B084WT4WWK/?tag=tolees-21'
-descuento: '18.86'
-average: '11.5545816733063'
+descuento: '15.32'
+average: '11.5523809523805'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
