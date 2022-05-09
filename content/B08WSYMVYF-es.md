@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop 4 - Ordenador portátil de 13.5" táctil  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Graphics  Windows 10 Home  Negro - Teclado QWERTY Español'
-date: 2022-05-08 14:18:10
+date: 2022-05-09 16:58:44
 image: 'https://m.media-amazon.com/images/I/319Bbh8cDXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador IntelCore i5 de 11.ª Generación
 - Memoria RAM de 8GB
-- Hasta 17 horas de duración de la batería, con carga rápida y conexión instantánea
-- Color Negro mate con reposamanos metálico
-- Unidad SSD 512GB
 - Súper ligero, con apenas 1,3Kg
-- Pantalla táctil de 13.5” pulgadas PixelSense compatible con el Lápiz para Surface
 - Sistema operativo Windows 10 Home. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo).
+- Unidad SSD 512GB
+- Color Negro mate con reposamanos metálico
+- Procesador IntelCore i5 de 11.ª Generación
+- Hasta 17 horas de duración de la batería, con carga rápida y conexión instantánea
+- Pantalla táctil de 13.5” pulgadas PixelSense compatible con el Lápiz para Surface
 
 [🛒 Aquí!!!]({{< param buyurl >}})

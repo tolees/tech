@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
-- Gráficos Integrados Intel Iris Xᵉ
-- Procesador Intel Core i7-1195G7 (hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Sistema operativo Windows 11 Home
-- Pantalla Full HD de 15,6" (39,6 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
+- Gráficos Integrados Intel Iris Xᵉ
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
+- Pantalla Full HD de 15,6" (39,6 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Procesador Intel Core i7-1195G7 (hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 4 núcleos, 8 subprocesos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
