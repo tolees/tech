@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT2 Pro - Smartwatch Night Black'
-date: 2022-05-04 21:25:23
+date: 2022-05-10 11:22:14
 image: 'https://m.media-amazon.com/images/I/41xplL1P+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08GPN5DM6/?tag=tolees-21'
 descuento: '52.28'
-average: '197.034'
+average: '190.36'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paqueteage Dimensiones: 9.2 L x 12.6 H x 12.2 W (centimeters)
+- Hasta dos semanas de duración de batería
 - Cristal de zafiro en cuerpo de titanio
 - Más de 100 Modos Deportivos
-- Hasta dos semanas de duración de batería
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
