@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Memoria RAM de 8GB DDR4.
+- Procesador Intel Core i5-1135G7 (4 núcleos, 8MB Intel Smart Cache, hasta 4.2 GHz con tecnología Intel Turbo Boost).
 - Pantalla de 15.6 pulgadas FullHD con resolución 1920 x 1080 píxeles y tecnología IPS.
 - Sin Sistema Operativo.
 - Almacenamiento de 512GB SSD.
-- Procesador Intel Core i5-1135G7 (4 núcleos, 8MB Intel Smart Cache, hasta 4.2 GHz con tecnología Intel Turbo Boost).
 - Tarjeta gráfica integrada Intel Iris Xᵉ.
-- Memoria RAM de 8GB DDR4.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
