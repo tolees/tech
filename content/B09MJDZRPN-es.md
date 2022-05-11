@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 64GB eMMC
-- Memoria RAM de 8GB SO-DIMM LPDDR3
-- Sistema Operativo: Chrome OS
-- Procesador Intel Core m3-8xxx m3-8100Y (2C/DualCore 1.1 / 3.4GHz, 4MB)
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Almacenamiento de 64GB eMMC
+- Procesador Intel Core m3-8xxx m3-8100Y (2C/DualCore 1.1 / 3.4GHz, 4MB)
+- Memoria RAM de 8GB SO-DIMM LPDDR3
 - Tarjeta gráfica integrada Intel UHD Graphics 615
+- Sistema Operativo: Chrome OS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla de 15.6 pulgadas FullHD con resolución 1920 x 1080 píxeles y tecnología IPS.
+- Sin Sistema Operativo.
+- Almacenamiento de 512GB SSD.
 - Procesador Intel Core i5-1135G7 (4 núcleos, 8MB Intel Smart Cache, hasta 4.2 GHz con tecnología Intel Turbo Boost).
 - Tarjeta gráfica integrada Intel Iris Xᵉ.
-- Pantalla de 15.6 pulgadas FullHD con resolución 1920 x 1080 píxeles y tecnología IPS.
 - Memoria RAM de 8GB DDR4.
-- Almacenamiento de 512GB SSD.
-- Sin Sistema Operativo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
