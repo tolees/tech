@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP X500 - Ratón con Cable  2 Botones y Rueda de Desplazamiento  Conexión con Cable USB  Microsoft Windows XP/Vista/7/8 o Mac OSX   Color Negro'
-date: 2022-05-11 21:37:27
+date: 2022-05-13 02:15:15
 image: 'https://m.media-amazon.com/images/I/31lBDZ0X6qS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B00G0F71ZG/?tag=tolees-21'
 descuento: '22.25'
-average: '6.91156862745099'
+average: '6.91307692307693'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones mínimas 115,10 x 63,50 x 35,38 mm y peso 0,106 kg
 - Puedes conectarte fácilmente con el puerto USB sin restricciones para que trabajes sin limitaciones
 - Es ambidiestro, puede programarse para trabajar con ambas manos
-- Dimensiones mínimas 115,10 x 63,50 x 35,38 mm y peso 0,106 kg
-- Sistemas operativos compatibles: Microsoft Windows XP/Vista/7/8 o Mac OSX
 - Sensor óptico sensible, se adapta a cualquier superficie
+- Sistemas operativos compatibles: Microsoft Windows XP/Vista/7/8 o Mac OSX
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
