@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook 14 K413EA-EB362T - Ordenador Portátil Full HD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Iris Xe Graphics  Windows 10 Home  Plata Transparente - Teclado QWERTY español'
-date: 2022-05-14 06:51:05
+date: 2022-05-15 12:44:17
 image: 'https://m.media-amazon.com/images/I/41Ps8xfSurS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B097T4MZ6N/?tag=tolees-21'
 descuento: '26.70'
-average: '580.000000000001'
+average: '578.523809523811'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
-- Sistema Operativo: Windows 10 Home
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Memoria RAM de 8GB SO-DIMM DDR4
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Sistema Operativo: Windows 10 Home
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

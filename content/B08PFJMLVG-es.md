@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Chromebook 14a-na0006ns - Ordenador Portátil de 14" Full HD  Intel Celeron N4020  4GB RAM  64GB eMMC  Intel UHD Graphics  Chrome OS  Plata - Teclado QWERTY Español'
-date: 2022-05-10 21:03:05
+date: 2022-05-15 12:46:16
 image: 'https://m.media-amazon.com/images/I/51Lc291v8wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B08PFJMLVG/?tag=tolees-21'
 descuento: '26.76'
-average: '244.363'
+average: '243.544838709677'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 64 GB SSD eMMC
-- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GHz/ 2,8 GHz, 4 MB L2)
-- Sistema Operativo Chrome OS
-- Memoria RAM de 4 GB LPDDR4-2400 MHz
-- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits.
 - Tarjeta gráfica integrada Intel UHD 600
+- Almacenamiento de 64 GB SSD eMMC
+- Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits.
+- Memoria RAM de 4 GB LPDDR4-2400 MHz
+- Sistema Operativo Chrome OS
+- Procesador Intel Celeron N4020 (2 núcleos, 1,1 GHz/ 2,8 GHz, 4 MB L2)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
