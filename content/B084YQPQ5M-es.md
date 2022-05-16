@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green'
-date: 2022-05-05 07:52:30
+date: 2022-05-16 08:08:23
 image: 'https://m.media-amazon.com/images/I/316f9jH19BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21'
 descuento: '23.21'
-average: '209.92358974359'
+average: '212.723902439024'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OS Android 10 (AOSP)
 - Procesador Kirin 810 2 27Ghz
 - Pantalla 6 4" 1080 x 2310 pixels
 - Cámara Cuádruple 48MP+8MP +2MP+2MP
+- OS Android 10 (AOSP)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
