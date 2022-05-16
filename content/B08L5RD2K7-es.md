@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12  256 GB  -  Product  Red'
-date: 2022-05-14 17:39:08
+date: 2022-05-16 00:18:32
 image: 'https://m.media-amazon.com/images/I/417PwBC+iEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5RD2K7/?tag=tolees-21'
 descuento: '24.00'
-average: '953.553333333333'
+average: '932.598'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla Super Retina XDR de 6,1 pulgadas
 - Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Resistencia al agua IP68, líder en el sector
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- 0.0
 - Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- Pantalla Super Retina XDR de 6,1 pulgadas
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - A14 Bionic, el chip más veloz en un smartphone
-- 0.0
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Resistencia al agua IP68, líder en el sector
 
 [🛒 Visítala!!!]({{< param buyurl >}})
