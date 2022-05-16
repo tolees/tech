@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario Kart Live: Home Circuit  Mario '
-date: 2022-05-04 13:45:48
+date: 2022-05-16 21:28:40
 image: 'https://m.media-amazon.com/images/I/51CUuoqW8JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HF7PBLJ-es Nintendo - Mario Kart Live: Home Circuit Mario'
 sku: 'B08HF7PBLJ-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 77.99 EUR
+actualPrice: 64.45 EUR
 currency: EUR
-price: 77.99
+price: 64.45
 comparePrice: 99.99 EUR
 prodname: 'Nintendo - Mario Kart Live: Home Circuit  Mario '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08HF7PBLJ/?tag=tolees-21'
-descuento: '22.00'
-average: '112.504890510946'
+descuento: '35.54'
+average: '112.330145454543'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
