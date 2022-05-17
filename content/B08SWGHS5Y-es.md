@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LC27G53TQWRXEN - Monitor gaming curvo de 27   WQHD  2560x1440  16:9  2500:1  1000R  144 Hz  1 ms  250 cd/m²  HDMI AMD FreeSync Premium  Negro'
-date: 2022-05-16 16:06:28
+date: 2022-05-17 21:50:27
 image: 'https://m.media-amazon.com/images/I/41GytVBWY1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08SWGHS5Y/?tag=tolees-21'
 descuento: '19.74'
-average: '260.825312499998'
+average: '260.193939393937'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La curvatura 1000R se ajusta a los contornos del ojo humano
 - Monitor curvo gaming Samsung de 27 WQHD (2560x1440)
-- Con un 1 ms de tiempo de respuesta y una tasa de refresco de 144 Hz
 - Antiparpadeo y menos luz azul
+- La curvatura 1000R se ajusta a los contornos del ojo humano
 - AMD Freesync Premium Pro compatible
+- Con un 1 ms de tiempo de respuesta y una tasa de refresco de 144 Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
