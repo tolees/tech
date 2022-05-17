@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 15 A11SCX-019XES - Ordenador Portátil 15.6" FHD  Intel Core i7-1185G7  16GB  512GB SSD  NVIDIA GeForce GTX 1650 Max-Q  Sin Sistema Operativo  - Gris  Teclado QWERTY Español'
-date: 2022-05-06 08:28:40
+date: 2022-05-17 09:08:58
 image: 'https://m.media-amazon.com/images/I/31QZwDOew4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08NC4WTGG/?tag=tolees-21'
 descuento: '42.55'
-average: '1024.83333333333'
+average: '1013.61538461538'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Tarjeta gráfica GeForce GTX 1650 MAX Q, GDDR6 4 GB
 - Procesador Tiger lake i7-1185G7
 - 15.6" FHD (1920 x 1080), IPS-Level 60 Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
 - Memoria RAM DDR IV 16 GB (3200 MHz)
+- Disco HDD de 512 GB NVMe PCIe Gen3x4 SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
