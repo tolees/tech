@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Resistencia al agua IP68, líder en el sector
 - A14 Bionic, el chip más veloz en un smartphone
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
 - Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Pantalla Super Retina XDR de 6,1 pulgadas
+- Resistencia al agua IP68, líder en el sector
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 - 0.0
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
