@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puertos ethernet por cable; conecte ordenadores, videoconsolas y otros dispositivos con cable cercanos al puerto Ethernet de 2 Gigabits del router
+- El nombre de red único proporciona una itinerancia sin problemas entre las estancias de toda la casa
 - El sistema mesh con WiFi 6 para toda la casa proporciona una cobertura fiable de hasta 250 m2
 - Wifi 6: 4 potentes flujos de datos dan hasta 1.8 Gbps de velocidad a más de 25 dispositivos con un rendimiento fiable para la transmisión de vídeo HD, juegos o descargas y navegación por Internet
-- Puertos ethernet por cable; conecte ordenadores, videoconsolas y otros dispositivos con cable cercanos al puerto Ethernet de 2 Gigabits del router
 - Sustituye a su router WiFi existente (requiere un módem o puerta de enlace independiente); compatible con cualquier proveedor de Internet por cable, satélite, fibra, DSL y mucho más
-- El nombre de red único proporciona una itinerancia sin problemas entre las estancias de toda la casa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
