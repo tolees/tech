@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
 - Puertos HDMI y VGA
-- AMD FreeSync
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Cable HDMI incluido en la caja
-- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Soporte VESA para montar la pantalla en la pared
-- Ajuste de inclinación (-5° / 22°)
-- Relación de aspecto 16:9 y relación de contraste 1000:1
 - Pantalla de 27" con resolución FullHD (1920x1080 pixeles), 250 nits, panel IPS, con una una precisión del color NTSC al 72%, antirreflejos
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Ajuste de inclinación (-5° / 22°)
+- Soporte VESA para montar la pantalla en la pared
+- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
+- Relación de aspecto 16:9 y relación de contraste 1000:1
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- AMD FreeSync
 
 [🛒 Aquí!!!]({{< param buyurl >}})
