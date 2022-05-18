@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Objetivo para cámaras Canon Ef-M X Mirrorless.
-- Lentes con tratamiento antirreflectante para minimizar el brillo y las imágenes fantasma.
-- Esquema óptico formado por 9 elementos en 7 grupos.
 - Accesorios incluidos con el objetivo: funda, parasol y tapas.
+- Esquema óptico formado por 9 elementos en 7 grupos.
+- Lentes con tratamiento antirreflectante para minimizar el brillo y las imágenes fantasma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
