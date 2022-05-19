@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto para Nintendo Switch
 - Control del volumen en línea (juego y chat de voz), incluye botón MUTE ON/OFF para el micrófono
-- Micrófono ajustable.
+- Producto para Nintendo Switch
 - Diseño ergonómico especialmente concebido para largas sesiones de juego
+- Micrófono ajustable.
 - Banda de sujeción y auriculares acolchados en símil piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
