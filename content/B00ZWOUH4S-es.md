@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Recorrido Corte de Seis Velocidades: Tiene 6 velocidades con diseño en "H" que se mueve con soltura
-- Hecha para Carreras: Palanca de cambios para volante diseñada para conducir con toda precisión y fiabilidad duradera
 - Montaje Seguro: Abrazaderas integradas que permiten instalar la palanca de cambio de forma segura
 - Para Volantes de Carreras Driving Force: Diseñado para los volantes de carreras G29, G920 y G923 Driving Force
+- Hecha para Carreras: Palanca de cambios para volante diseñada para conducir con toda precisión y fiabilidad duradera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
