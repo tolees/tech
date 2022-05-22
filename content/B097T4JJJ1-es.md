@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG G513QY-HQ008 - Portátil Gaming de 15.6" Wide Quad HD 165Hz  Ryzen 9 5900HX  16GB RAM  1TB SSD  Radeon RX 6800M 12GB  Sin Sistema Operativo  Negro - Teclado QWERTY español'
-date: 2022-05-17 10:33:36
+date: 2022-05-22 06:54:23
 image: 'https://m.media-amazon.com/images/I/41oasAtw0wS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Sin Sistema Operativo
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 - Pantalla de 15.6"
-- Procesador AMD Ryzen 9 5900HX (8C/OctaCore 3.3 / 4.6GHz, 16MB)
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 - Tarjeta gráfica AMD Radeon RX 6800M 12GB GDDR6
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 9 5900HX (8C/OctaCore 3.3 / 4.6GHz, 16MB)
+- Sin Sistema Operativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
