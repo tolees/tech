@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple iPhone 12 Mini  256 GB  - Azul'
-date: 2022-05-14 23:37:24
+date: 2022-05-24 20:56:47
 image: 'https://m.media-amazon.com/images/I/41FFIfl7G9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5RD8ZB/?tag=tolees-21'
 descuento: '19.21'
-average: '862.225238095238'
+average: '854.578636363636'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
 - A14 Bionic, el chip más veloz en un smartphone
-- Pantalla Super Retina XDR de 5,4 pulgadas
-- Resistencia al agua IP68, líder en el sector
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- 0.0
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Resistencia al agua IP68, líder en el sector
 - Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- 0.0
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Pantalla Super Retina XDR de 5,4 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
