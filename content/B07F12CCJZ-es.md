@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LinkinPerk - Cable Audio RCA Jack 3 5mm Macho a 2RCA Macho Nylon Trenzado Estéreo Cable para el Smartphone  Sistema HiFi iPod  Smart TV  Reproductor MP3  Tablet  PC al Amplificador  Sistema Estéreo y etc  3M '
-date: 2022-05-21 23:52:48
+date: 2022-05-24 06:23:10
 image: 'https://m.media-amazon.com/images/I/515ORZBW64L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LinkinPerk'
 buyurl: 'https://www.amazon.es/dp/B07F12CCJZ/?tag=tolees-21'
 descuento: '16.68'
-average: '10.99'
+average: '10.8471428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
