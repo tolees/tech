@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigabyte Technology - Gigabyte Z590 Gaming X Placa Base Intel Z590 Express LGA 1200 ATX'
-date: 2022-05-10 21:31:08
+date: 2022-05-25 19:54:16
 image: 'https://m.media-amazon.com/images/I/51iAc6CtwNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigabyte Technology'
 buyurl: 'https://www.amazon.es/dp/B08XNKLGS4/?tag=tolees-21'
 descuento: '31.73'
-average: '114.9'
+average: '117.458'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
