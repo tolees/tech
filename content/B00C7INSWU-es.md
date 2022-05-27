@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Audio Calidad para la Empresa: Optimizado para Microsoft Lync, compatible con la mayoría de las principales plataformas de comunicaciones unificadas (UC)
-- Micrófono con Supresión de Ruido y Cancelación de Eco: Optimizado para oír y que le oigan en los entornos ruidosos
-- Cable Plano sin Enredos: Sin riesgo de enredos es fácil ponerse el casco cuando hay prisa
 - Controles Integrados en el Cable: Controle la llamada mediante los botones de respuesta, finalización, volumen y silencio; el botón de aumento de volumen facilita el control sin desviar la atención
+- Micrófono con Supresión de Ruido y Cancelación de Eco: Optimizado para oír y que le oigan en los entornos ruidosos
 - Indicador LED Rojo de Llamada en Curso: Situado en la parte posterior de la varilla, este indicador luminoso rojo advierte a otros de que está hablando y evitarle interrupciones durante sus llamadas
+- Cable Plano sin Enredos: Sin riesgo de enredos es fácil ponerse el casco cuando hay prisa
+- Audio Calidad para la Empresa: Optimizado para Microsoft Lync, compatible con la mayoría de las principales plataformas de comunicaciones unificadas (UC)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
