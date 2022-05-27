@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 24-cb0000ss - Ordenador de Sobremesa de 23.8"  Todo en Uno  Con Cámara  Teclado y Ratón Inalámbricos -  AMD Ryzen 5 5500U  16 GB RAM  512 GB SSD  Windows 11 Home   Blanco'
-date: 2022-05-25 17:13:02
+date: 2022-05-27 15:28:05
 image: 'https://m.media-amazon.com/images/I/416Q35XuPrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B09NMCXCHX/?tag=tolees-21'
 descuento: '15.74'
-average: '625.666666666667'
+average: '616.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta Gráfica Integrada AMD Radeon
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 - Sistema operativo Windows 11 Home
-- Procesador AMD Ryzen 5 5500U (aumento máximo del reloj hasta 4 GHz, 8 MB de caché L3, 6 núcleos, 12 subprocesos)
+- Tarjeta Gráfica Integrada AMD Radeon
 - Almacenamiento SSD de 512 GB PCIe NVMe M.2
+- Procesador AMD Ryzen 5 5500U (aumento máximo del reloj hasta 4 GHz, 8 MB de caché L3, 6 núcleos, 12 subprocesos)
 - Pantalla Full HD de 23,8" (60,5 cm) en diagonal, VA, bisel micro-borde de 3 caras, antirreflectante, 250 nits, 72 % NTSC (1920 x 1080)
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

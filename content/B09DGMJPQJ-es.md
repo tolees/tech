@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección de autolimpieza: una fórmula innovadora está integrada en la funda para mantenerla siempre limpia
 - Protección contra caídas: protección mejorada del teléfono hasta 3 m, probado de forma independiente utilizando métodos aprobados por el laboratorio Nacional de Física del Reino Unido
-- Parte trasera transparente: una funda transparente que te permite admirar el diseño original del dispositivo
 - Protección mejorada de la cámara: mayor nivel de protección para la tecnología más vulnerable de tu teléfono
 - Perfil delgado: fabricado con materiales superfuertes pero ultraligeros que no añaden volumen adicional al dispositivo
+- Protección de autolimpieza: una fórmula innovadora está integrada en la funda para mantenerla siempre limpia
+- Parte trasera transparente: una funda transparente que te permite admirar el diseño original del dispositivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
