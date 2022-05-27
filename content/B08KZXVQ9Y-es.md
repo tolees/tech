@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Prepárate para lo inesperado: el tweeter de 1/2" y el altavoz de medios/graves de 3,5" permiten a los altavoces producir tanto agudos como graves de excelente calidad.
 - Control fácil de usar: los botones de encendido/apagado, conmutación de entrada, separación de Bluetooth, control de volumen y botones de volumen están en la parte superior del altavoz principal para un fácil control.
-- Múltiples opciones de entrada. Con Bluetooth V5.0 y entradas AUX de 3,5 mm, así como teléfonos móviles, ordenadores portátiles, iPad, PC u otros dispositivos compatibles, puedes conectarlos fácilmente a casi todo tipo de dispositivos.
 - Clásica carcasa de madera: minimiza la resonancia acústica. El diseño clásico se adapta a cualquier decoración del hogar.
+- Múltiples opciones de entrada. Con Bluetooth V5.0 y entradas AUX de 3,5 mm, así como teléfonos móviles, ordenadores portátiles, iPad, PC u otros dispositivos compatibles, puedes conectarlos fácilmente a casi todo tipo de dispositivos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
