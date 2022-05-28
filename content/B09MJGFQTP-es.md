@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 - Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Sin Sistema Operativo
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 
 [🛒 Comprar!!!]({{< param buyurl >}})
