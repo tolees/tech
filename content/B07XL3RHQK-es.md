@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT2  42mm  - Smartwatch Sport Night Black'
-date: 2022-05-16 21:14:39
+date: 2022-05-30 19:45:13
 image: 'https://m.media-amazon.com/images/I/41c+PO5e-CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compatible con Android 4.4 o posterior e iOS 9.0 o posterior.
-- Edición Sport
 - La función de estrés solo está disponible en teléfonos Android.
+- Edición Sport
 
 [🛒 Aquí!!!]({{< param buyurl >}})
