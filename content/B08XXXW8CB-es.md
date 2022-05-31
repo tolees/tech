@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nada se interpone en su camino, ni muebles ni obstáculos. El completo conjunto de sensores avanzados permite a tu robot Roomba e6 desplazarse por debajo y alrededor de los muebles y aspirar la suciedad de bordes y paredes.
-- Se adapta a ti. Aprende de tus hábitos de limpieza y te hace sugerencias personalizadas para programar automáticamente ciclos de limpieza adaptados a tus necesidades. Por qué hay momentos en los que tu casa requiere una limpieza más frecuente, como la temporada de muda de pelo de tu mascota o la época de alergias.
-- Tú sigue con lo tuyo. Usa la app iRobot Home o tu asistente de voz de Google o Alexa para decirle a tu robot cuándo y dónde quieres limpiar y ¡él se encargará!
 - * En comparación con el sistema de limpieza de Roomba serie 600.
-- Se adapta a tu hogar. Roomba e6 incluye un sistema de funciones y sensores de limpieza para adaptarse a tu hogar y limpiarlo a diario. Ideal para hogares con mascotas.
-- Nuestro compromiso, la mejor atención al cliente. Si alguna vez necesitas ayuda, te hacemos la vida más fácil con nuestros agentes de Atención al Cliente, disponibles por teléfono o correo electrónico para responder a tus preguntas.
-- Detecta y elimina la suciedad. Los sensores de Dirt Detect alertan a tu robot sobre las áreas más sucias de tu hogar, como las zonas de mayor tránsito, para limpiarlas más en profundidad.
+- Tú sigue con lo tuyo. Usa la app iRobot Home o tu asistente de voz de Google o Alexa para decirle a tu robot cuándo y dónde quieres limpiar y ¡él se encargará!
 - Potencia de limpieza en tres fases. Aspira la suciedad más difícil con su sistema de limpieza en tres fases que utiliza dos cepillos de goma multisuperficie y una aspiración de alta potencia 5 veces superior*. Roomba e6 acaba con la suciedad, los restos y el pelo de tus mascotas, se escondan donde se escondan.
+- Se adapta a ti. Aprende de tus hábitos de limpieza y te hace sugerencias personalizadas para programar automáticamente ciclos de limpieza adaptados a tus necesidades. Por qué hay momentos en los que tu casa requiere una limpieza más frecuente, como la temporada de muda de pelo de tu mascota o la época de alergias.
+- Detecta y elimina la suciedad. Los sensores de Dirt Detect alertan a tu robot sobre las áreas más sucias de tu hogar, como las zonas de mayor tránsito, para limpiarlas más en profundidad.
+- Nuestro compromiso, la mejor atención al cliente. Si alguna vez necesitas ayuda, te hacemos la vida más fácil con nuestros agentes de Atención al Cliente, disponibles por teléfono o correo electrónico para responder a tus preguntas.
+- Nada se interpone en su camino, ni muebles ni obstáculos. El completo conjunto de sensores avanzados permite a tu robot Roomba e6 desplazarse por debajo y alrededor de los muebles y aspirar la suciedad de bordes y paredes.
+- Se adapta a tu hogar. Roomba e6 incluye un sistema de funciones y sensores de limpieza para adaptarse a tu hogar y limpiarlo a diario. Ideal para hogares con mascotas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

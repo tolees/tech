@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ordenador Portatil
-- Peso del producto: 2.3 kilograms
-- Memory storage capacity: 64.0
 - Dimensiones del producto: 6.5 L x 50.0 H x 30.0 W (centimeters)
+- Memory storage capacity: 64.0
+- Peso del producto: 2.3 kilograms
+- Ordenador Portatil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

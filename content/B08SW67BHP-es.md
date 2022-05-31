@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Monitor gaming 1000R de 32 pulgadas con una curvatura de pantalla óptima para disfrutar de una experiencia de juego envolvente e inmersiva
-- AMD FreeSync Premium para ver unos gráficos fluidos en juegos de acción rápida en tu monitor Freesync
 - Frecuencia de actualización de 144 Hz y respuesta de 1 ms para visualizar transiciones rápidas sin difuminación de las imágenes
-- Resolución QHD 2560 x 1440 p y HDR10 que ofrece una imagen nítida y muestra los detalles más imperceptibles
-- Modos Eye Saver y Flicker Free con los que disfrutarás de una cómoda experiencia visual en un monitor de 32 pulgadas
+- AMD FreeSync Premium para ver unos gráficos fluidos en juegos de acción rápida en tu monitor Freesync
 - Conexión sencilla gracias al puerto HDMI y el DP para PS4, Xbox, PC, portátiles, Macbook o monitores duales
+- Modos Eye Saver y Flicker Free con los que disfrutarás de una cómoda experiencia visual en un monitor de 32 pulgadas
+- Resolución QHD 2560 x 1440 p y HDR10 que ofrece una imagen nítida y muestra los detalles más imperceptibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
