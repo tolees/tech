@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gráficos Integrados AMD Radeon
 - Pantalla Full HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Procesador AMD Ryzen 7 5700U (aumento máximo del reloj de hasta 4,3 GHz, 8 MB de caché L3, 8 núcleos, 16 subprocesos)
-- Gráficos Integrados AMD Radeon
 - Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
-- Almacenamiento SSD de 512 GB PCIe NVMe M.2
 - Sistema operativo Windows 11 Home
+- Almacenamiento SSD de 512 GB PCIe NVMe M.2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
