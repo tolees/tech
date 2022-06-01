@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AirPods y AirPods funda de carga no incluida
-- Colores para elegir: negro, blanco, rojo, gris, azul claro, azul oscuro.
-- Función especial: la funda Airpods está hecha de material de silicona de alta calidad para proteger tu Airpods de polvo, arañazos y golpes
 - Habrá una correa de silicona deportiva antipérdida para Airpods con la funda protectora. Es conveniente cuando estés en deportes, no te preocupes por perderte.
+- Función especial: la funda Airpods está hecha de material de silicona de alta calidad para proteger tu Airpods de polvo, arañazos y golpes
+- Colores para elegir: negro, blanco, rojo, gris, azul claro, azul oscuro.
+- AirPods y AirPods funda de carga no incluida
 - Diseño único: la funda Teyomi para Airpods es ultrafina, compacta y concisa. Puede proteger 360 ° tus Airpods de Apple.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
