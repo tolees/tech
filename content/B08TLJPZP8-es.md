@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Obturador de privacidad integrado: para mejorar la seguridad y la privacidad, asegúrate de tener el control del video con el obturador de privacidad integrado.
-- Calidad de video Full HD: mantén una exposición adecuada a la luz para que te veas incluso en salas más oscuras con la tecnología de luz baja automática. Los demás te verán claramente con colores brillantes diseñados para hacer que luzcas espectacular. Optimizada para que seas el centro de atención, en lugar de tu entorno.
 - Compatibilidad y comodidad: PC y Mac. Funciona con Zoom, Microsoft Teams y todos los otros servicios de videoconferencia. Diseño listo para el uso de un trípode. Llévalo donde necesites hacer llamadas de video gracias a su diseño pequeño y resistente.
+- Calidad de video Full HD: mantén una exposición adecuada a la luz para que te veas incluso en salas más oscuras con la tecnología de luz baja automática. Los demás te verán claramente con colores brillantes diseñados para hacer que luzcas espectacular. Optimizada para que seas el centro de atención, en lugar de tu entorno.
+- Obturador de privacidad integrado: para mejorar la seguridad y la privacidad, asegúrate de tener el control del video con el obturador de privacidad integrado.
 - Óptica de la cámara excepcional: optimizada para videoconferencias a fin de mantener un nivel profesional. La óptica de la cámara excepcional entrega calidad Full HD de 1080p que te permite acercar la imagen en hasta 4x (digital) para enfocarte perfectamente.
 - Micrófono direccional: un micrófono direccional incorporado que se centra en tu voz, no en los ruidos molestos.
 

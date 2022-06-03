@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP ENVY 13-ba0000ns - Ordenador Portátil de 13.3" Full HD  Intel Core i5-10210U  8GB RAM  512GB SSD  NVIDIA GeForce MX350  Windows 10 Home  Plata - Teclado QWERTY Español'
-date: 2022-05-31 20:01:58
+date: 2022-06-03 10:51:27
 image: 'https://m.media-amazon.com/images/I/41a2S7s4PRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo Windows 10 (Actualización gratuita a Windows 11 cuando esté disponible)
-- Este ordenador incluye de forma gratuita 2 años del servicio de protección y seguridad Absolute️ Home & Office
-- Tarjeta gráfica NVIDIA GeForce MX350
-- Memoria RAM DDR4-2666 MHz de 8 GB (integrada)
-- Almacenamiento de 512 GB SSD
 - Procesador Intel Core i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos)
+- Sistema Operativo Windows 10 (Actualización gratuita a Windows 11 cuando esté disponible)
 - Pantalla Full HD de 13.3" (33,8 cm) en diagonal; IPS; vidrio de extremo a extremo; bisel micro-edge; BrightView; 400 nits; 100 % sRGB (1920 x 1080)
+- Memoria RAM DDR4-2666 MHz de 8 GB (integrada)
+- Tarjeta gráfica NVIDIA GeForce MX350
+- Almacenamiento de 512 GB SSD
+- Este ordenador incluye de forma gratuita 2 años del servicio de protección y seguridad Absolute️ Home & Office
 
 [🛒 Comprar!!!]({{< param buyurl >}})
