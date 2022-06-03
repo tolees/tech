@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecla específica para el Asistente de Google. Inicia fácilmente el Asistente de Google con una tecla situada en el lateral del teléfono.
-- Rendimiento un 38 % más rápido. Disfruta de tus vídeos y juegos con un procesador de gráficos más rápido alimentado por un procesador de ocho núcleos personalizado.
-- Más de 40 horas de batería. Con una batería de 5000 mAh, puedes trabajar y jugar mucho más tiempo sin ir a la caza del cable y el cargador.
 - Pantalla Max Vision HD+ de 6,5" y 90 Hz. Visualiza las fotos y vídeos, mira películas y juega en una pantalla ultra ancha fluida.
-- Lector de huellas y desbloqueo facial. Desbloquea tu teléfono con un toque con el dedo o mirando a la cámara.
+- Más de 40 horas de batería. Con una batería de 5000 mAh, puedes trabajar y jugar mucho más tiempo sin ir a la caza del cable y el cargador.
 - Sistema de triple cámara de 48 MP. Captura imágenes más nítidas y brillantes, retratos de aspecto profesional y primeros planos increíblemente detallados con cualquier luz.
+- Tecla específica para el Asistente de Google. Inicia fácilmente el Asistente de Google con una tecla situada en el lateral del teléfono.
+- Lector de huellas y desbloqueo facial. Desbloquea tu teléfono con un toque con el dedo o mirando a la cámara.
+- Rendimiento un 38 % más rápido. Disfruta de tus vídeos y juegos con un procesador de gráficos más rápido alimentado por un procesador de ocho núcleos personalizado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
