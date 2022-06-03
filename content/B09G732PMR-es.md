@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Chromebook Flip CM1400FXA-EC0021 - Portátil 14" Full HD  Táctil y Convertible  AMD 3015Ce  4GB RAM  64GB eMMC  Radeon Graphics  Chrome OS  Plata - Teclado QWERTY Español'
-date: 2022-05-25 23:43:51
+date: 2022-06-03 08:36:15
 image: 'https://m.media-amazon.com/images/I/41--hEchHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09G732PMR/?tag=tolees-21'
 descuento: '28.65'
-average: '234.454545454545'
+average: '235.666666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
+- Almacenamiento de 64GB eMMC
+- Memoria RAM de 4GB SO-DIMM DDR4
+- Tarjeta gráfica integrada AMD Radeon Graphics
 - Procesador AMD 3000 3015Ce (2C/DualCore 1.2 / 2.3GHz, 4MB)
 - Sistema Operativo: Chrome OS
-- Almacenamiento de 64GB eMMC
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 4GB SO-DIMM DDR4
 
 [🛒 Visítala!!!]({{< param buyurl >}})

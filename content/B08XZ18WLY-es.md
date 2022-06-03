@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'milestone s.r.l. - Hot Wheels Unleashed PS4 ESP'
-date: 2022-06-02 08:32:41
+date: 2022-06-03 08:39:37
 image: 'https://m.media-amazon.com/images/I/51WuJ4FDtlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'milestone s.r.l.'
 buyurl: 'https://www.amazon.es/dp/B08XZ18WLY/?tag=tolees-21'
 descuento: '57.51'
-average: '36.6922222222222'
+average: '36.2745945945946'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
