@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más opciones de instalación, puedes ponerlo fácilmente en cualquier lugar con la base magnética y la adhesiva. Fácil de ajustar gracias a los ángulos de visión que permiten a la cámara girar y tener una visión completa
 - Con la tecnología AI de detección de movimiento, se reduce considerablemente la posibilidad de falsa alarma y movimientos finos, cambios de luz e insectos voladores
 - Amplia los objetos y captura de forma más nítida detalles y colores con 2304*1296 resolución. Los LED infrarrojos invisibles de 940nm te ofrecen visión nocturna mejorada sin hacer ninguna interrupción
+- Más opciones de instalación, puedes ponerlo fácilmente en cualquier lugar con la base magnética y la adhesiva. Fácil de ajustar gracias a los ángulos de visión que permiten a la cámara girar y tener una visión completa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
