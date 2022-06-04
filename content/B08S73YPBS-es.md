@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Doble carga】-Admite 2 controladores PS5 para una carga rápida al mismo tiempo, para que pueda disfrutar del tiempo de juego con su familia al mismo tiempo.
-- 【LED Indicador】-El soporte del mando PS5 tiene una función de indicador LED, puede comprender completamente el estado de carga de su PS5 por la base de carga.
-- 【Carga rápida】-Con un voltaje de entrada de 5V 2A⚡, puede cargar rápidamente su mando PS5 en 3-4 horas.
-- 【Fácil Almacenamiento】-Esta estación de carga de mando PS5 de la también se puede utilizar como espacio de almacenamiento, lo que le permite decir adiós a la ubicación desordenada. 🎮Conecta y reproduce, tómalo y juega, ya no temas que el mango se quede sin energía.
 - 【Seguridad】-Tiene un Chip de protección incorporado, con protección contra sobretensión / sobrecorriente / sobrecalentamiento y cortocircuito, que proporciona una garantía de seguridad para su carga.
+- 【LED Indicador】-El soporte del mando PS5 tiene una función de indicador LED, puede comprender completamente el estado de carga de su PS5 por la base de carga.
+- 【Doble carga】-Admite 2 controladores PS5 para una carga rápida al mismo tiempo, para que pueda disfrutar del tiempo de juego con su familia al mismo tiempo.
+- 【Fácil Almacenamiento】-Esta estación de carga de mando PS5 de la también se puede utilizar como espacio de almacenamiento, lo que le permite decir adiós a la ubicación desordenada. 🎮Conecta y reproduce, tómalo y juega, ya no temas que el mango se quede sin energía.
+- 【Carga rápida】-Con un voltaje de entrada de 5V 2A⚡, puede cargar rápidamente su mando PS5 en 3-4 horas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

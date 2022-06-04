@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Licencias oficiales de Nintendo y Bandai Namco
 - Botones traseros programables
 - la precisión y comodidad del Pro Controller, en modo portátil
-- Licencias oficiales de Nintendo y Bandai Namco
-- Diseño exclusivo para Pac-Man, compatible también con otros títulos para Switch
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Diseño exclusivo para Pac-Man, compatible también con otros títulos para Switch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
