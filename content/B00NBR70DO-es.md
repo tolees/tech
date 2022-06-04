@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Auriculares cerrados  negro'
-date: 2022-05-29 14:56:27
+date: 2022-06-04 14:19:51
 image: 'https://m.media-amazon.com/images/I/41+g-rMxUgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR70DO/?tag=tolees-21'
 descuento: '33.40'
-average: '9.44249999999997'
+average: '9.44507042253518'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados
-- Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
 - Unidades ligeras de diafragma de neodimio dinámico de 30 mm
-- Peso del producto: 120 g
 - Diafragmas tipo cúpula de 30 mm
+- Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
+- Peso del producto: 120 g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
