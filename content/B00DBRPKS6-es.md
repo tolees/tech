@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plug and play, no requiere configuración
 - La innovadora tecnología energéticamente eficiente ahorra la energía hasta un 18%
-- Proporciona monitoreo de red, priorización de tráfico y VLAN caracteristicas
 - Switch gigabit de 16 puertos; RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 - Interfaz de usuario basada en web y simplificar la gestión de configuración de utility
+- Plug and play, no requiere configuración
+- Proporciona monitoreo de red, priorización de tráfico y VLAN caracteristicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

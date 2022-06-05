@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diagonal de la pantalla: 35,6 cm (14")
+- Procesador Intel Core i5-1135G7
 - Memoria interna: 8 GB DDR4-SDRAM
 - Resolución de la pantalla: 1920 x 1080 píxeles
-- Procesador Intel Core i5-1135G7
-- Diagonal de la pantalla: 35,6 cm (14")
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
