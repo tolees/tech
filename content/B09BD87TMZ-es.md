@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Sin Sistema Operativo
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sin Sistema Operativo
+- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
 
 [🛒 Visítala!!!]({{< param buyurl >}})

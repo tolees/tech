@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - IA mejorada para unos desafíos más realista; descarga cientos de creaciones de la comunidad
-- Un modo carrera narrativo totalmente rediseñado con categoría individual y dobles
 - Compara tus resultados con los grandes nombres de los circuitos ATP y WTA
+- Un modo carrera narrativo totalmente rediseñado con categoría individual y dobles
 - Gestión realista de la reputación de los tenistas; posibilidades de personalización infinitas
 - Animaciones y movimientos más realistas; crea nuevos desafíos usando el editor de escenarios
 
