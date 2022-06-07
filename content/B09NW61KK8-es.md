@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
 - Procesador de Imagen 4k Quad Core , Mejora de Color Avanzado, Precisión de Color: 17x17x17, Reducción de Ruido 2X, -, 4K Upscaling
+- TV compatible con formatos HDR: HDR10, HDR HLG, HDR GiG. Disfruta de la auténtica experiencia cinematográfica en tu casa
 - Tecnología UHD 4K NANOCELL LED Direct. Disfruta de los colores mas puros desde cualquier ángulo
 - Procesador de Sonido AI Sound & Virtual Surround, Para disfrutar del sonido envolvente 360º como en el cine
-- TV compatible con formatos HDR: HDR10, HDR HLG, HDR GiG. Disfruta de la auténtica experiencia cinematográfica en tu casa
-- Sistema operativo SmartTV webOS 6.0 Premium: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ AI, Asistente de Google, Alexa y Air Play 2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
