@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation-Juego Sony PS5 Death STRANDING Director S Cut Videojuegos  Multicolor 9722298'
-date: 2022-06-01 14:26:55
+date: 2022-06-09 00:58:34
 image: 'https://m.media-amazon.com/images/I/41YdumsiRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BBPX3F1-es Playstation-Juego Sony PS5 Death STRANDING Director S Cut...'
 sku: 'B09BBPX3F1-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Juguetes','Juguetes electrónicos','Juguetes y juegos','Videojuegos','Videojuegos para niños','playstation','ps5','sony','🇪🇸', ]
-actualPrice: 31.99 EUR
+actualPrice: 39.0 EUR
 currency: EUR
-price: 31.99
+price: 39.0
 comparePrice: 49.99 EUR
 prodname: 'Playstation-Juego Sony PS5 Death STRANDING Director S Cut Videojuegos  Multicolor 9722298'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21'
-descuento: '36.01'
-average: '39.2548148148148'
+descuento: '21.98'
+average: '39.2457142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

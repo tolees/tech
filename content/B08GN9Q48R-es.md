@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skullcandy Jib - Auriculares in-Ear Bluetooth 5.0  inalámbricos  Impermeables  con 22 Horas de autonomía  Color Gris'
-date: 2022-06-07 12:42:30
+date: 2022-06-09 02:01:33
 image: 'https://m.media-amazon.com/images/I/31wwijyDEVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GN9Q48R-es Skullcandy Jib - Auriculares in-Ear Bluetooth 5.0...'
 sku: 'B08GN9Q48R-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','bluetooth','skullcandy','🇪🇸', ]
-actualPrice: 30.24 EUR
+actualPrice: 28.73 EUR
 currency: EUR
-price: 30.24
+price: 28.73
 comparePrice: 49.99 EUR
 prodname: 'Skullcandy Jib - Auriculares in-Ear Bluetooth 5.0  inalámbricos  Impermeables  con 22 Horas de autonomía  Color Gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SKULLCANDY'
 buyurl: 'https://www.amazon.es/dp/B08GN9Q48R/?tag=tolees-21'
-descuento: '39.51'
-average: '30.24'
+descuento: '42.53'
+average: '29.485'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

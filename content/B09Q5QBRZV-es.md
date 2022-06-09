@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Controlador Split Pad Pro  Negro  con Soporte - Licencia oficial  Nintendo Switch '
-date: 2022-06-06 19:06:07
+date: 2022-06-09 02:14:45
 image: 'https://m.media-amazon.com/images/I/418ecufTwbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Toma de auriculares compatible con chat de voz, botones traseros programables y función turbo con 3 ajustes (5/10/20 pulsaciones/s)
-- Licencia oficial de Nintendo
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 - Incluye soporte para convertir el Split Pad Pro en un mando con cable avanzado
 - La precisión y comodidad del Pro Controller, en modo portátil
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- Licencia oficial de Nintendo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
