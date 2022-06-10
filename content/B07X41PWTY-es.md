@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco duro externo portátil de 5 TB con USB 3.0  color negro'
-date: 2022-05-31 23:20:18
+date: 2022-06-10 01:54:40
 image: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21'
 descuento: '29.93'
-average: '107.583406593405'
+average: '107.42108695652'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Transferencias rápidas de datos
-- Mejora el rendimiento de su ordenador
-- Capacidad masiva
-- Calidad y confiabilidad wd
 - Compatibilidad con usb 3.0 y usb 2.0
+- Capacidad masiva
+- Mejora el rendimiento de su ordenador
+- Calidad y confiabilidad wd
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

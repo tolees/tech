@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Canvio basics 2.5 4TB black
-- Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
 - Interfaz USB 3.0 (compatible con USB 2.0)
+- Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
 - Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
