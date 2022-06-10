@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funda de transporte y diseño plegable para ayudarte en tus desplazamientos
-- Versión de Bluetooth: Especificación de Bluetooth Versión 5.2
 - Extra Bass para un sonido impactante y profundo en estos auriculares Sony
 - Con la conexión multipunto, estos auriculares Bluetooth con micrófono te permiten cambiar sin esfuerzo entre dispositivos
 - Auriculares con Active Noise Cancelling con tecnología Dual Noise Sensor
 - Hasta 30 horas de autonomía (con Noise Cancelling activado en tus auriculares inalámbricos Sony)
+- Funda de transporte y diseño plegable para ayudarte en tus desplazamientos
+- Versión de Bluetooth: Especificación de Bluetooth Versión 5.2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Transferencias rápidas de datos
-- Compatibilidad con usb 3.0 y usb 2.0
-- Capacidad masiva
 - Mejora el rendimiento de su ordenador
+- Capacidad masiva
+- Compatibilidad con usb 3.0 y usb 2.0
 - Calidad y confiabilidad wd
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
