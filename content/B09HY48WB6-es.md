@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM DDR4-3200 MHz 8 GB (2 x 4 GB)
-- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Sistema operativo Windows 11 Home
-- Procesador Intel Core i7-1195G7 (hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Pantalla Full HD de 14" (35,6 cm) en diagonal, función multitáctil, IPS, vidrio de extremo a extremo, bisel micro-borde, 250 nits, 45 % NTSC (1920 x 1080)
+- Sistema operativo Windows 11 Home
+- Memoria RAM DDR4-3200 MHz 8 GB (2 x 4 GB)
 - Gráficos Integrados Intel Iris Xᵉ
+- Procesador Intel Core i7-1195G7 (hasta 5,0 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 4 núcleos, 8 subprocesos)
+- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

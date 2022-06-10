@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ideal para smartphones y tabletas Android, así como para cámaras compactas
+- Capacidad de almacenamiento de memoria: 64
 - Clase 10 para la grabación y reproducción de vídeo de alta definición
 - Las velocidades de transferencia de hasta 120 Mb/s te permiten transferir hasta 1000 fotos en un minuto
 - Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
-- Capacidad de almacenamiento de memoria: 64
 - Hasta 1 tb de capacidad para guardar más horas de vídeo de alta definición
-- Ideal para smartphones y tabletas Android, así como para cámaras compactas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
