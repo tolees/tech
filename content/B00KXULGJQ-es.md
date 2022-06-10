@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE200 AC750 - Repetidor de red Wifi extensor amplificador de cobertura con enchufe Puerto Ethernet  10/100 mbps  Banda dual  300Mbps  2.4 GHz  433 Mbps 5GHz   Blanco'
-date: 2022-05-31 12:59:59
+date: 2022-06-10 11:31:30
 image: 'https://m.media-amazon.com/images/I/312J9hg8ypL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00KXULGJQ/?tag=tolees-21'
 descuento: '15.01'
-average: '25.9292489270385'
+average: '25.9192077087793'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
