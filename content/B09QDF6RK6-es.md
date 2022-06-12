@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LS32AG322NUXEN - Monitor gaming de 32" FullHD  1920x1080  165Hz  1ms  FreeSync Premium  Flicker Free  IPS  Negro'
-date: 2022-06-10 01:58:14
+date: 2022-06-12 12:32:47
 image: 'https://m.media-amazon.com/images/I/41sYxsYZpKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
