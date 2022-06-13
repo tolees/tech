@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Gears 5'
-date: 2022-06-12 01:38:23
+date: 2022-06-13 19:16:53
 image: 'https://m.media-amazon.com/images/I/51lXRZCihHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07DNNVYS5/?tag=tolees-21'
 descuento: '33.18'
-average: '20.1662962962963'
+average: '19.8028571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
