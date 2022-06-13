@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 4GB RAM 64 GB ROM Bateria 3000 mAh Pantalla 5.8
-- Muesca en la parte delantera
 - Batería 3000mAh
+- Muesca en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
