@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Scimitar Elite RGB Óptico MOBA/MMO Ratón para Juegos  18.000 PPP Óptico Sensor  17 Botones Programables  Retroiluminación RGB Dinámica en Cuatro Zonas  Forma Contorneada  Color Negro'
-date: 2022-06-13 21:19:56
+date: 2022-06-14 22:24:38
 image: 'https://m.media-amazon.com/images/I/31Y5Y0dX7mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B083JL8CLF/?tag=tolees-21'
 descuento: '22.22'
-average: '60.972'
+average: '62.475'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Peso: 122 g (sin cable ni accesorios)
+- Estructura resistente; los conmutadores Omron con capacidad de hasta 50 millones de clics, la rueda de desplazamiento resistente y el cable trenzado del SCIMITAR RGB ELITE
+- 17 botones completamente programables; esquema idóneo para realizar acciones frecuentes y ejecutar macros complejas en los MMO y MOBA
 - Sistema de control Key Slider patentado; reposicione los 12 botones laterales para que se ajusten óptimamente a su mano
+- Nota: El sistema de control Key Slider patentado le permite reposicionar los 12 botones laterales para adaptarse cómodamente a su agarre. Para ajustar el control deslizante del teclado, siga los pasos a continuación:> Inserte la llave Allen incluida en el bloqueo del control deslizante del teclado ubicado en la parte inferior del mouse y gírelo en sentido antihorario para desbloquear el teclado. > Mueva el teclado a la posición deseada y gire la llave Allen en el sentido de las agujas del reloj para bloquear el teclado
 - Forma cómoda y contorneada; diseñado para adaptarse a los contornos de su palma, sin importar el tamaño de su mano o el estilo de agarre, con un reposadedos en el lado derecho para optimizar el soporte
 - Sensor óptico de 18.000 ppp nativos; equipado con un sensor personalizado PixArt PMW3391, ajustable en incrementos de resolución de 1 ppp, para un seguimiento personalizable y muy preciso
-- Estructura resistente; los conmutadores Omron con capacidad de hasta 50 millones de clics, la rueda de desplazamiento resistente y el cable trenzado del SCIMITAR RGB ELITE
-- Peso: 122 g (sin cable ni accesorios)
-- 17 botones completamente programables; esquema idóneo para realizar acciones frecuentes y ejecutar macros complejas en los MMO y MOBA
-- Nota: El sistema de control Key Slider patentado le permite reposicionar los 12 botones laterales para adaptarse cómodamente a su agarre. Para ajustar el control deslizante del teclado, siga los pasos a continuación:> Inserte la llave Allen incluida en el bloqueo del control deslizante del teclado ubicado en la parte inferior del mouse y gírelo en sentido antihorario para desbloquear el teclado. > Mueva el teclado a la posición deseada y gire la llave Allen en el sentido de las agujas del reloj para bloquear el teclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
