@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REVIVE EVENTOS EMBLEMÁTICOS DE DRAGON BALL
-- TU PERSONAJE, TUS NORMAS
-- TE ESPERAN COMBATES VERTIGINOSOS
 - MÁS GRANDE Y MEJOR
+- REVIVE EVENTOS EMBLEMÁTICOS DE DRAGON BALL
+- TE ESPERAN COMBATES VERTIGINOSOS
+- TU PERSONAJE, TUS NORMAS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
