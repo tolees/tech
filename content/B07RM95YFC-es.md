@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-MR6400 - Router 4G LTE WiFi  Cat 4   velocidad hasta 300 Mpbs  MicroSim  puerto Ethernet LAN/WAN  antena desmontable  sin configuración  compatible con todos los operadores  Color Negro'
-date: 2022-06-08 05:02:45
+date: 2022-06-16 19:36:30
 image: 'https://m.media-amazon.com/images/I/31i+O9pzt9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07RM95YFC-es TP-Link TL-MR6400 - Router 4G LTE WiFi Cat 4 velocidad...'
 sku: 'B07RM95YFC-es'
 tags: [ 'Dispositivos de red','Informática','Routers','lte','tp-link','wifi','🇪🇸', ]
-actualPrice: 65.2 EUR
+actualPrice: 64.9 EUR
 currency: EUR
-price: 65.2
+price: 64.9
 comparePrice: 91.73 EUR
 prodname: 'TP-Link TL-MR6400 - Router 4G LTE WiFi  Cat 4   velocidad hasta 300 Mpbs  MicroSim  puerto Ethernet LAN/WAN  antena desmontable  sin configuración  compatible con todos los operadores  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07RM95YFC/?tag=tolees-21'
-descuento: '28.92'
-average: '71.6331683168315'
+descuento: '29.25'
+average: '71.5671568627449'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL PARENTAL - Control parental y de acceso a través de la App Tether que te permite administrar tu configuración de red desde cualquier dispositivo Android o iOS
-- DISEÑO COMPACTO - Es portátil, y fácil de llevar contigo a donde quieras
-- COMPARTE RED 4G LTE - Comparte tu red 4G LTE hasta 32 dispositivos simultáneamente y disfruta de velocidades de descarga de hasta 150Mbps
 - MODO ROUTER WI-FI - Conecta un cable Ethernet en el puerto LAN/WAN para un acceso flexible ya que sirve como backup si no hay conexión 4G.
-- SIN CONFIGURACIÓN - Inserta simplemente una tarjeta SIM, compatible con más de 100 países y listo para usar.
 - DOS ANTENAS AVANZADAS LTE DESMONTABLES – Disfruta de conexiones estables y eficientes para cualquier equipo gracias a sus antenas externas
+- COMPARTE RED 4G LTE - Comparte tu red 4G LTE hasta 32 dispositivos simultáneamente y disfruta de velocidades de descarga de hasta 150Mbps
+- DISEÑO COMPACTO - Es portátil, y fácil de llevar contigo a donde quieras
+- SIN CONFIGURACIÓN - Inserta simplemente una tarjeta SIM, compatible con más de 100 países y listo para usar.
+- CONTROL PARENTAL - Control parental y de acceso a través de la App Tether que te permite administrar tu configuración de red desde cualquier dispositivo Android o iOS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
