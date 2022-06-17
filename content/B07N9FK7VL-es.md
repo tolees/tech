@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone XS Max 256 GB Oro  Reacondicionado '
-date: 2022-06-16 10:32:37
+date: 2022-06-17 16:48:50
 image: 'https://m.media-amazon.com/images/I/41HdG5cPWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07N9FK7VL-es Apple iPhone XS Max 256 GB Oro Reacondicionado'
 sku: 'B07N9FK7VL-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone','🇪🇸', ]
-actualPrice: 430.0 EUR
+actualPrice: 419.0 EUR
 currency: EUR
-price: 430.0
+price: 419.0
 comparePrice: 650.99 EUR
 prodname: 'Apple iPhone XS Max 256 GB Oro  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B07N9FK7VL/?tag=tolees-21'
-descuento: '33.95'
-average: '426.333333333333'
+descuento: '35.64'
+average: '424.5'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistencia al agua y el polvo ip68 (hasta 2.metros de profundidad durante un máximo de 30.minutos).
 - Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
-- Cámara dual de 12.mpx con doble estabilización óptica de imagen y cámara frontal truedepth de 7.mpx: modo retrato, iluminación de retratos, control de profundidad y hdr inteligente.
 - Super retina display; pantalla OLED multi‑touch de 6,5 pulgadas (en diagonal)
+- Cámara dual de 12.mpx con doble estabilización óptica de imagen y cámara frontal truedepth de 7.mpx: modo retrato, iluminación de retratos, control de profundidad y hdr inteligente.
+- Resistencia al agua y el polvo ip68 (hasta 2.metros de profundidad durante un máximo de 30.minutos).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
