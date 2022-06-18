@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-PA717 Kit- Powerline AV1000 Red Sin WiFi  Puerto Ethernet'
-date: 2022-06-15 18:31:26
+date: 2022-06-18 13:07:52
 image: 'https://m.media-amazon.com/images/I/41vlM1z4CiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
-- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
-- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
 - Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
+- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
+- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

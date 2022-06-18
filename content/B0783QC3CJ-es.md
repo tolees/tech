@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - TECLADO OFICIAL REAL MADRID: El MKRM, teclado oficial del Real Madrid, cuenta con un diseño en blanco y teclas azules e incluye el escudo del equipo
 - PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
-- DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
 - COMPATIBILIDAD: Teclado Gaming para PS4 /XBOX ONE / Switch /Windows/Linux/Mac, podrás utilizarlo con tus dispositivos favoritos
+- DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
