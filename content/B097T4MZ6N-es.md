@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 8GB SO-DIMM DDR4
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Sistema Operativo: Windows 10 Home
+- Memoria RAM de 8GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 4.2GHz, 8MB)
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Sistema Operativo: Windows 10 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Subwoofer inalámbrico para un potente sonido de graves
-- Altavoz central para diálogos más claros
 - Dolby Atmos/DTS:X de 3.1 canales y Vertical Sound Engine
+- Altavoz central para diálogos más claros
 - El AE envolvente convierte las señales de audio a un sonido cercano a 7.1.2 canales
 - Modos de sonido para películas y música mejoradas
 
