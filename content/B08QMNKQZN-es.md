@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ViewSonic VX2468-PC-MHD Monitor Gaming Curvo HD de 24"  165 Hz  1 ms  AMD FreeSync Premium  Doble Altavoz Integrado  2 HDMI  DisplayPort'
-date: 2022-06-11 00:06:52
+date: 2022-06-18 14:40:51
 image: 'https://m.media-amazon.com/images/I/41cgMP61gwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
