@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de conector: Micro USB
-- El Alcatel 1B 2022 integra el sistema operativo Android 11 Go Edition, diseñado para reducir el consumo de batería, datos móviles y memoria, manteniendo todos los servicios Google accesibles
 - Con el Alcatel 1B 2022 tendrás batería todo el día gracias a su capacidad de 3000mAh, ofreciéndote una carga duradera pudiendo hablar hasta 16 horas, navegar hasta nueve horas o escucha hasta 61 horas de música de forma ininterrumpida
+- Tipo de conector: Micro USB
+- Tamaño de pantalla: 5.5 inches
+- El Alcatel 1B 2022 integra el sistema operativo Android 11 Go Edition, diseñado para reducir el consumo de batería, datos móviles y memoria, manteniendo todos los servicios Google accesibles
 - La fluidez en su expresión viviendo una experiencia de usuario eficiente con el nuevo Alcatel 1B 2022; equiPado con un procesador de cuatro núcleos, sus 2GB de RAM y 32 de ROM (ampliable hasta 128GB con tarjeta microSD) podrás ejecutar múltiples tareas y sacar el rendimiento a tu dispositivo en tu día a día; el Alcatel 1B 2022 integra acceso directo al asistente de Google con un botón dedicado en el lateral
 - Amplía tu experiencia con el Alcatel 1B 2022 disfrutando de una visión panorámica con la pantalla HD 18:9 de 5,5 pulgadas; podrás visualizar todo tu contenido multimedia tal y como fue creado, con una relación pantalla/cuerpo cinematográfica del 81%
-- Tamaño de pantalla: 5.5 inches
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
