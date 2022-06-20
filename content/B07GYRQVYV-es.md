@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Función de fuga térmica: la función de fuga térmica está preinstalada en la placa base. No tiene que cargarlo usted mismo.
-- Función de reanudación de la impresión: Ender 3 Pro puede reanudar la impresión desde la última posición registrada del extrusor después de sufrir cortes de energía inesperados.
-- Fuente de alimentación Meanwell: La Ender 3 Pro viene con una fuente de alimentación Meanwell certificada por UL, que protege su impresora de sobrecargas de energía inesperadas, que pueden calentar la cama caliente a 110 ℃ en solo 5 minutos. Servicio al cliente: si tiene alguna inquietud sobre la impresora, no dude en contactarnos a través del mensaje de Amazon. Responderemos pronto.
-- Kit semiensamblado: este kit fácil de instalar viene parcialmente ensamblado, lo que le permite aprender sobre la construcción básica de las impresoras 3D a medida que termina de montarlo. Una divertida experiencia educativa STEM en ingeniería mecánica y electrónica.
 - Placa magnética flexible extraíble: brinde protección completa a la placa de construcción de su impresora 3D y garantice una temperatura constante en toda la superficie de construcción. Fácil de quitar los modelos de impresión después de enfriar.
+- Fuente de alimentación Meanwell: La Ender 3 Pro viene con una fuente de alimentación Meanwell certificada por UL, que protege su impresora de sobrecargas de energía inesperadas, que pueden calentar la cama caliente a 110 ℃ en solo 5 minutos. Servicio al cliente: si tiene alguna inquietud sobre la impresora, no dude en contactarnos a través del mensaje de Amazon. Responderemos pronto.
+- Función de reanudación de la impresión: Ender 3 Pro puede reanudar la impresión desde la última posición registrada del extrusor después de sufrir cortes de energía inesperados.
+- Kit semiensamblado: este kit fácil de instalar viene parcialmente ensamblado, lo que le permite aprender sobre la construcción básica de las impresoras 3D a medida que termina de montarlo. Una divertida experiencia educativa STEM en ingeniería mecánica y electrónica.
+- Función de fuga térmica: la función de fuga térmica está preinstalada en la placa base. No tiene que cargarlo usted mismo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
