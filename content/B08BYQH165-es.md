@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Pantalla de 15.6" Full HD (1920 x 1080) de 144Hz
 - Memoria RAM de 16GB (2 x 8GB) DDR4-2933MHz
 - Sin Sistema Operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Procesador Intel Core i5-10300H (2.5GHz, 8MB)
 - Almacenamiento de 512GB M.2 NVMe PCIe
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
