@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Office 365] La computadora portátil está preinstalada con Microsoft Office 365 (licencia de un año) y sistema Windows 10, cubierta de teclado en 4 idiomas (alemán, francés, español, italiano).
 - [Diseño humanizado] El Ultrabook pesa solo 1,23 kg, 1,8 cm de grosor, incluye HDMI, conector para auriculares, Bluetooth 4.2, USB 3.0x2, WiFi de doble banda para diversas necesidades. La duración de la batería es de hasta 6 horas, confiable y duradera para un uso prolongado.
 - [Garantía de 1 año] Jumper proporciona un servicio de garantía posventa de 365 días. Si tiene algún problema con su PC, por favor contáctenos. (Encuentre su pedido, contiene información sobre cómo contactar al vendedor en el pedido)
-- [Pantalla HD] La pantalla FHD IPS del portátil de 13,3 pulgadas puede cansar la vista al mirar la cámara durante mucho tiempo. Cámara frontal de alta definición, reunión/clase en línea, la comunicación es más conveniente.
 - [Alta eficiencia] Nuestro portátil está equipado con un procesador Intel Celeron N3350 con una frecuencia central de hasta 1,1 GHz. El almacenamiento de 4 GB + 128 GB proporciona suficiente espacio de almacenamiento y admite una tarjeta TF de hasta 256 GB y una expansión de almacenamiento SSD de 1 TB.
+- [Office 365] La computadora portátil está preinstalada con Microsoft Office 365 (licencia de un año) y sistema Windows 10, cubierta de teclado en 4 idiomas (alemán, francés, español, italiano).
+- [Pantalla HD] La pantalla FHD IPS del portátil de 13,3 pulgadas puede cansar la vista al mirar la cámara durante mucho tiempo. Cámara frontal de alta definición, reunión/clase en línea, la comunicación es más conveniente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
