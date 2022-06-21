@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
 - Velocidades de lectura de hasta 130 MB/s
 - Mueve una película a la memoria en menos de 30 segundos
+- Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

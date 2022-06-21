@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 modos de velocidad, fácil conmutación
 - Diseño plegable
-- Tiempo de carga: 5 horas
+- 3 modos de velocidad, fácil conmutación
 - Puede alcanzar una velocidad máxima de 25 km/h y tiene una capacidad de escalada de pendiente del 14%
+- Tiempo de carga: 5 horas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

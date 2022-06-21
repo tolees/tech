@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tarjeta gráfica Intel UHD Graphics 620
-- Sistema operativo: Windows 10 Home
-- Almacenamiento de 256GB SSD NVMe PCIe.
-- Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
 - Memoria RAM de 8GB DDR4 2400MHz.
+- Almacenamiento de 256GB SSD NVMe PCIe.
+- Sistema operativo: Windows 10 Home
+- Pantalla de 15.6", FullHD 1920 x 1080 píxeles, tecnología IPS.
 - Procesador Intel Core i3-10110U
 - Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 256.0; Capacidad de la memoria RAM (GB): 8.0 GB
 
