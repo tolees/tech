@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polar Pacer ofrece a los corredores modernos las herramientas básicas y algunas funciones extra para que solo se centren en una cosa: Correr, registro del tiempo, ritmo, distancia, vueltas, cronómetro, GPS preciso, control fiable de la frecuencia cardíaca y funciones especializadas de entrenamiento, sueño y recuperación
 - Procesador optimizado y diseño ligero: transiciones de pantalla rápidas y fluidas, diseño sencillo para el confort y rendimiento en una esfera ligera y fina, con botones accesibles para mejorar su funcionalidad
 - Pantalla en color MIP: lente de cristal más fina y retroiluminación optimizada con mejor contraste, claridad y experiencia en cualquier momento del día
 - Herramientas especializadas de entrenamiento y recuperación: guía e información personal con control a corto y largo plazo del esfuerzo de entrenamiento y la carga cardiovascular
+- Polar Pacer ofrece a los corredores modernos las herramientas básicas y algunas funciones extra para que solo se centren en una cosa: Correr, registro del tiempo, ritmo, distancia, vueltas, cronómetro, GPS preciso, control fiable de la frecuencia cardíaca y funciones especializadas de entrenamiento, sueño y recuperación
 - GPS preciso: diseño con antena integrada para mejorar el seguimiento en cada giro y zancada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
