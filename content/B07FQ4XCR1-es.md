@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
-- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
-- Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
-- Los miembros Prime tienen acceso a cientos de libros.
-- Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
 - Una sola carga y la batería dura semanas, no horas.
+- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
+- Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
+- Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
+- Los miembros Prime tienen acceso a cientos de libros.
+- Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
