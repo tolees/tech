@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15s-eq2121ns - Ordenador Portátil de 15.6" Full HD  AMD Ryzen 3 5300U  8GB RAM  512GB SSD  AMD Radeon Graphics  FreeDOS  Plata - Teclado QWERTY Español'
-date: 2022-06-21 01:27:16
+date: 2022-06-22 18:23:19
 image: 'https://m.media-amazon.com/images/I/51y-GFe+RnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gráficos Integrados AMD Radeon
-- Memoria RAM DDR4-3200 MHz 8 GB (1 x 8 GB)
-- Pantalla Full HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Almacenamiento SSD de 512 GB PCIe NVMe M.2
+- Gráficos Integrados AMD Radeon
 - Procesador AMD Ryzen 3 5300U (aumento máximo del reloj hasta 3,8 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Sistema operativo FreeDOS
+- Pantalla Full HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Memoria RAM DDR4-3200 MHz 8 GB (1 x 8 GB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
