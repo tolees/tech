@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De moda
+- Diseñada para proteger
+- Compatible con alpha glass
 - Mantiene la pantalla protegida
 - Ultrafina
-- Compatible con alpha glass
-- Diseñada para proteger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
