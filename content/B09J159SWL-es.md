@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 980 Pro 1TB  hasta 7.000 MB/s  PCIe 4.0 NVMe M.2  2280   SSD Interno con disipador para Consola de Videojuegos  MZ-V8P1T0 '
-date: 2022-06-14 00:13:27
+date: 2022-06-23 22:23:23
 image: 'https://m.media-amazon.com/images/I/31pfONwxcZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09J159SWL-es Samsung 980 Pro 1TB hasta 7.000 MB/s PCIe 4.0 NVMe M.2...'
 sku: 'B09J159SWL-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung','🇪🇸', ]
-actualPrice: 161.0 EUR
+actualPrice: 148.34 EUR
 currency: EUR
-price: 161.0
+price: 148.34
 comparePrice: 225.99 EUR
 prodname: 'Samsung 980 Pro 1TB  hasta 7.000 MB/s  PCIe 4.0 NVMe M.2  2280   SSD Interno con disipador para Consola de Videojuegos  MZ-V8P1T0 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09J159SWL/?tag=tolees-21'
-descuento: '28.76'
-average: '164.015714285714'
+descuento: '34.36'
+average: '162.05625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capacidad de almacenamiento de hasta 2 TB en formato compacto M.2 (2280) apto para ordenadores de alto rendimiento y compatible con Playstation 5
+- Potente SSD NVMe de 4ª generación Generación PCI Express para exigentes procesamiento de vídeo y gráficos 3D y juegos de alta gama
 - Velocidad impresionante: hasta 12,5 veces más rápido que los SSD SATA con velocidades de lectura/escritura de hasta 7000/5000 MB/s (variante de 1 TB)
 - Alta fiabilidad y rendimiento duradero gracias al eficiente disipador de calor para proteger contra el sobrecalentamiento y hasta 600 TB de rodaje total
-- Potente SSD NVMe de 4ª generación Generación PCI Express para exigentes procesamiento de vídeo y gráficos 3D y juegos de alta gama
 
 [🛒 Comprar!!!]({{< param buyurl >}})
