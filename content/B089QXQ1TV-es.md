@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 870 QVO SSD 2.5"  SATA3  1TB  Color Negro'
-date: 2022-06-21 00:48:07
+date: 2022-06-28 17:01:58
 image: 'https://m.media-amazon.com/images/I/31-m+QrrT7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B089QXQ1TV/?tag=tolees-21'
 descuento: '22.19'
-average: '104.4636977492'
+average: '104.400705128209'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SSD Samsung 2.5" 1TB SATA3 870 QVO
 - Velocidad Lectura 560 MB por segundo
-- Peso 46 gramos
 - Óptimo para aumentar la memoria de PC o portátil
+- Peso 46 gramos
+- SSD Samsung 2.5" 1TB SATA3 870 QVO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
