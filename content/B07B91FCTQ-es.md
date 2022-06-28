@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración prolongada de la batería: la batería incorporada de 4000 mAh puede reproducir hasta el 70% del volumen hasta 12 horas de reproducción continua y toma solo alrededor de 3.5 horas para recargarse completamente con el cable micro-USB suministrado
 - Admite la tecnología True Wireless Stereo: con la tecnología de acoplamiento True Wireless Stereo, que le permite emparejar dos A20 altavoces del mismo tipo Bluetooth para emular un sistema surround, simplemente controle el dispositivo True Wireless Stereo Master, para que pueda hacerlo
-- Portátil: 19 x 4,8 x 6,6 cm y solo 516 g de peso, el micrófono incorporado permite llamadas manos libres con transmisión de voz clara, opciones de audio adicionales a través de soporte Micro-SD y entrada de audio de 3,5mm
+- Duración prolongada de la batería: la batería incorporada de 4000 mAh puede reproducir hasta el 70% del volumen hasta 12 horas de reproducción continua y toma solo alrededor de 3.5 horas para recargarse completamente con el cable micro-USB suministrado
 - Potencia de audio: los controladores duales de 15 W ofrecen sonido estéreo de alta definición y bajos potentes, mientras que el chip DSP-3D y el amplificador dual de clase G ofrecen una experiencia de sonido sorprendentemente alta
-- Vataje (W): 30.0 watts; tipo de conectividad: Auxiliar
 - Compatibilidad total: con la tecnología Bluetooth 4.2, el altavoz se puede conectar fácilmente a todos los dispositivos compatibles con Bluetooth, como iPhone, iPad, teléfonos inteligentes y tabletas Android, portátiles, etc. a una distancia de hasta 20 metros. Conexión automática con dispositivos acoplados. Garantía de 12 meses y servicios profesionales post-venta 24 horas
+- Vataje (W): 30.0 watts; tipo de conectividad: Auxiliar
+- Portátil: 19 x 4,8 x 6,6 cm y solo 516 g de peso, el micrófono incorporado permite llamadas manos libres con transmisión de voz clara, opciones de audio adicionales a través de soporte Micro-SD y entrada de audio de 3,5mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
