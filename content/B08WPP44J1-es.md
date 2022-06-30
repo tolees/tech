@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto de alta calidad
 - ahorre batería con el interruptor de encendido y apague el ratón cuando no lo utilice.
 - la velocidad del cursor se ajusta con el botón de ppp (800/1200/1600 ppp). con dos botones para pulgar (siguiente y atrás) que permiten navegar fácilmente
 - su diseño cómodo hace que sea un placer trabajar con este ratón. 10 metros de alcance inalámbrico con microrreceptor usb incluido
+- producto de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
