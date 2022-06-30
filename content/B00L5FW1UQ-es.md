@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KabelDirekt – 10m Cable Jack 3 5mm a RCA  Coaxial Audio Estéreo  1 Conector 3 5mm Jack Macho a 2 Conectores RCA Macho  para el Smartphone  Sistema HiFi   Pro Series'
-date: 2022-06-21 07:17:02
+date: 2022-06-30 08:27:13
 image: 'https://m.media-amazon.com/images/I/51M-kDOnmyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cable adaptador 1x jack 3,5mm a 2x RCA
 - enchufe Conector bañado en oro jack
+- Cable adaptador 1x jack 3,5mm a 2x RCA
 - Cuidadosamente elaborado
 - 36 meses de garantía del fabricante
 
