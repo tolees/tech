@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Sniper Elite V2 Remastered'
-date: 2022-06-29 18:10:23
+date: 2022-06-30 22:25:51
 image: 'https://m.media-amazon.com/images/I/41lm94MJv2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07PP3B1RS/?tag=tolees-21'
 descuento: '23.29'
-average: '39.115'
+average: '37.3966666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Multiplayer & Co-op: Compete in 7 modes, for up to 16 players online, or team up with a friend for 4 thrilling co-op modes.
-- New Playable Characters: Play with characters from Rebellions Zombie Army series.
-- Remastered Visuals: Feel like youre on the front line with updated graphics bringing this classic to life and PS4 Pro 4K & HDR support.
-- All DLC Included: Take down the Fhrer, with all DLC missions, maps & weapons.
 - Photo Mode: Share stunning photos with the community.
+- New Playable Characters: Play with characters from Rebellions Zombie Army series.
+- All DLC Included: Take down the Fhrer, with all DLC missions, maps & weapons.
+- Multiplayer & Co-op: Compete in 7 modes, for up to 16 players online, or team up with a friend for 4 thrilling co-op modes.
+- Remastered Visuals: Feel like youre on the front line with updated graphics bringing this classic to life and PS4 Pro 4K & HDR support.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
