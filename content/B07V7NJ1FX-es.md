@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impresora con seguridad dinámica habilitada. Las impresoras equipadas con seguridad dinámica se han diseñado para funcionar solo con cartuchos con chips o circuitos electrónicos nuevos o reutilizados de HP. Las impresoras utilizan las medidas de seguridad dinámica para bloquear los cartuchos que tienen chips o circuitos electrónicos que no son de HP o que han sido modificados
-- Esta impresora es compatible con las botellas de tinta originales: HP 32XL negra; HP 31 cian, magenta y amarilla
-- Imprime, copia y escanea; con velocidades de impresión de 11/5 ppm en negro y color
 - Conectividad inalámbrica y estándar con puerto USB 2.0 de alta velocidad; Wi-Fi de doble banda ancha con Bluetooth; Wi-Fi Direct
 - La impresora dispone de una bandeja de entrada con una capacidad de hasta 100 hojas; bandeja de salida con una capacidad de 30 hojas; además de un escáner de superficie plana (escanea a PDF)
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad, todo desde tu teléfono móvil
+- Esta impresora es compatible con las botellas de tinta originales: HP 32XL negra; HP 31 cian, magenta y amarilla
+- Imprime, copia y escanea; con velocidades de impresión de 11/5 ppm en negro y color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
