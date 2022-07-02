@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cafetera espresso de cápsulas Vertuo de Nespresso de diseño moderno y compacto; gracias a su sistema elabora instantáneamente tazas de café grandes con espuma cremosa y natural así como espressos tradicionales; cuenta con WiFi y Bluetooth
-- Cafetera VERTUO se podrá utilizar con sus cápsulas própias compatibles con las cafeteras Vertuo; No acepta cápsulas de la gama Nespresso Original
-- Bandeja de soporte antigoteo ajustable a 4 alturas distintas que se adapta a diferentes tamaños de tazas, desde las más pequeñas para espressos hasta grandes tazones; se puede extraer y hacer el café directamente en una taza térmica para llevar
 - En tan solo 30 segundos tu cafetera estará lista para empezar a funcionar y disfrutar de tu café de forma rápida; y gracias a su función ahorro de energía la cafetera se apaga automáticamente tras 2 minutos sin uso
-- Disponible 3 tamaños de cápsulas diferentes: cápsula grande para alto y café; mediana para gran lungo y espresso doble; y pequeña para espresso; gracias a la expulsión automática de cápsula (seca y limpia) aporta una mayor limpieza
-- No compatible con las cápsulas de la gama original de Nespresso. La cafeteras Vertuo NEXT y PLUS de Nespresso cuentan con sus propias cápsulas para unos cafés deliciosos
-- Gracias a su exclusiva tecnología permite extraer las propiedades de cada cápsula de forma precisa y a la máquina leer cada código de barras para calibrar sus parámetros, para hacer una infusión y extracción a tu medida
 - Práctica cafetera para 5 bebidas: taza térmica (414 ml), taza de café estándar (230 ml), café largo (150 ml), espresso doble (80 ml) y espresso (40 ml)
+- Bandeja de soporte antigoteo ajustable a 4 alturas distintas que se adapta a diferentes tamaños de tazas, desde las más pequeñas para espressos hasta grandes tazones; se puede extraer y hacer el café directamente en una taza térmica para llevar
 - Este producto cuenta con unas dimensiones de 42.9 x 14 x 31.7 cm
+- Cafetera VERTUO se podrá utilizar con sus cápsulas própias compatibles con las cafeteras Vertuo; No acepta cápsulas de la gama Nespresso Original
+- Disponible 3 tamaños de cápsulas diferentes: cápsula grande para alto y café; mediana para gran lungo y espresso doble; y pequeña para espresso; gracias a la expulsión automática de cápsula (seca y limpia) aporta una mayor limpieza
+- Gracias a su exclusiva tecnología permite extraer las propiedades de cada cápsula de forma precisa y a la máquina leer cada código de barras para calibrar sus parámetros, para hacer una infusión y extracción a tu medida
+- Cafetera espresso de cápsulas Vertuo de Nespresso de diseño moderno y compacto; gracias a su sistema elabora instantáneamente tazas de café grandes con espuma cremosa y natural así como espressos tradicionales; cuenta con WiFi y Bluetooth
+- No compatible con las cápsulas de la gama original de Nespresso. La cafeteras Vertuo NEXT y PLUS de Nespresso cuentan con sus propias cápsulas para unos cafés deliciosos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
