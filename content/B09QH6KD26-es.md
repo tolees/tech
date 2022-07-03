@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una frecuencia de actualización de pantalla de 90 Hz y una frecuencia de muestreo táctil de hasta 180 Hz, Redmi Note 11S mejora la experiencia con animaciones más suaves y transiciones sin demoras, registrando cada toque al instante.
 - Su cámara principal de 108MP captura impresionantes imágenes y videos en colores vivos de alta resolución; una cámara ultra gran angular de 8 megapíxeles amplía su perspectiva con un ángulo de visión de 118 grados; una cámara macro de 2MP que captura detalles finos de cerca y un sensor de profundidad de 2MP sirve para capturar retratos más naturales.
+- Con una frecuencia de actualización de pantalla de 90 Hz y una frecuencia de muestreo táctil de hasta 180 Hz, Redmi Note 11S mejora la experiencia con animaciones más suaves y transiciones sin demoras, registrando cada toque al instante.
 - Una gran pantalla FHD+ AMOLED de 6,43 pulgadas con amplia gama de colores DCI-P3 ofrece colores y detalles más vibrantes y alcanza los 1000 nit para una claridad óptima incluso a la luz del día. Además, con los dos parlantes lineales ubicados en la parte superior e inferior del teléfono, Redmi Note 11S ofrece un sonido estéreo envolvente para jugar y mirar videos.
 - El nuevo Redmi Note 11S presenta un diseño elegante y moderno, y ofrece una excelente sensación táctil. Para garantizar un agarre firme y cómodo, Redmi Note 11S logra encerrar una gran batería de 5000 mAh en un marco delgado de 8,09 mm y pesa solo 179 g.
 - Alimentado por una gran batería de 5000 mAh, el Redmi Note 11S tiene una batería de larga duración que te permite pasar el día con una sola carga. Gracias a la carga rápida de 33W, podrás recargar su batería de 0 a 100a en 58 minutos
