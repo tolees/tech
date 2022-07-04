@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin sistema operativo
-- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500/1635MHz, TGP 85W
 - Pantalla de 15.6 inch FullHD 1920x1080 píxeles, IPS, 250nits, 120Hz, antirreflejos, 45% NTSC, Free-Sync, DC dimmer
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500/1635MHz, TGP 85W
+- Sin sistema operativo
 - Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz, 4MB L2/16MB L3)
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
