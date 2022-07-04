@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla AdaptiveSync de 90 Hz FHD + de 6.5 "con frecuencia de actualización de 90Hz
 - Procesador 5G de alto rendimiento, chipset MediaTek Dimensity 700 5G
-- [Carga rápida de 33 W], su enorme batería de 5,000 mAh mantiene el dispositivo encendido durante todo el día, y sus capacidades de carga rápida de 33 W hacen que encenderlo sea muy sencillo. Alexa manos libres capaz: Descarga la aplicación Amazon Alexa para usar Alexa manos libres. Con Alexa en tu teléfono, puedes comprar en Amazon, reproducir música, realizar llamadas y mucho más con solo usar tu voz. ¡Sin manos! Solo tienes que pedirlo y Alexa responderá al momento.
-- Cámara trasera triple, cámara principal de 48MP, una de 2MP cámara macro y un sensor de profundidad de 2MP, modo nocturno, cámara lenta, video a intervalos. Cámara frontal 8MP
+- Pantalla AdaptiveSync de 90 Hz FHD + de 6.5 "con frecuencia de actualización de 90Hz
 - Batería de 5,000 mAh (típica) con 18 W carga rápida, cargador de 22.5 W
+- Cámara trasera triple, cámara principal de 48MP, una de 2MP cámara macro y un sensor de profundidad de 2MP, modo nocturno, cámara lenta, video a intervalos. Cámara frontal 8MP
+- [Carga rápida de 33 W], su enorme batería de 5,000 mAh mantiene el dispositivo encendido durante todo el día, y sus capacidades de carga rápida de 33 W hacen que encenderlo sea muy sencillo. Alexa manos libres capaz: Descarga la aplicación Amazon Alexa para usar Alexa manos libres. Con Alexa en tu teléfono, puedes comprar en Amazon, reproducir música, realizar llamadas y mucho más con solo usar tu voz. ¡Sin manos! Solo tienes que pedirlo y Alexa responderá al momento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
