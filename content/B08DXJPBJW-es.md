@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TECNOLOGÍA ELEGANTLASER: Navegación inteligente con memoria y láser que mapea y dibuja todas las habitaciones; obstáculos y esquinas de tu hogar para una limpieza efectiva;
-- APP CONTROL: Controla todo el funcionamiento y programación del robot aspirador con una aplicación en tu smartphone que dibuja tu hogar; Compatible también con Alexa & Google Assistant; También cuenta con control remoto; El robot aspirador vuelve automáticamente a su base de carga una vez finalizada la tarea; restriction area; restriction wall; spot cleaning
 - POTENTE SUCCIÓN: Distinguido motor potente con 1800 PA; que junto con su cepillo central y sus dos cepillos laterales es capaz de arrastrar la suciedad más incrustada incluso de esquinas; Apto para todo tipo de suelos (baldosas; parquets; alfombras; moquetas…)
 - 10 MODOS DE LIMPIEZA: Robot aspirador que aspira; barre; pasa la mopa y friega con 10 modos de limpieza distintos totalmente programables: auto; select room; perimetral; espiral; manual; vuelta a casa; máxima potencia; restriction area; restriction wall; spot cleaning;
+- APP CONTROL: Controla todo el funcionamiento y programación del robot aspirador con una aplicación en tu smartphone que dibuja tu hogar; Compatible también con Alexa & Google Assistant; También cuenta con control remoto; El robot aspirador vuelve automáticamente a su base de carga una vez finalizada la tarea; restriction area; restriction wall; spot cleaning
 - ELEGANTE: Robot aspirador con el diseño más elegante; Hazte con la elegancia hecha robot aspirador; Acabados premium en negro y dorado rose;
+- TECNOLOGÍA ELEGANTLASER: Navegación inteligente con memoria y láser que mapea y dibuja todas las habitaciones; obstáculos y esquinas de tu hogar para una limpieza efectiva;
 
 [🛒 Aquí!!!]({{< param buyurl >}})
