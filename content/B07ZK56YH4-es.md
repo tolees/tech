@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Arc Mouse Morado'
-date: 2022-06-27 10:57:31
+date: 2022-07-05 20:43:44
 image: 'https://m.media-amazon.com/images/I/21AE29fv5UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK56YH4/?tag=tolees-21'
 descuento: '46.10'
-average: '40.5442857142857'
+average: '41.4725'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
