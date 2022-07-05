@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una potencia eléctrica de 24 vatios
 - Con una capacidad de 0.5 A
-- Con protección de puesta a tierra / ESD
+- Con una potencia eléctrica de 24 vatios
 - Voltaje de 48 voltios
+- Con protección de puesta a tierra / ESD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla táctil de 10.1" FullHD, 1920x1200 píxeles, IPS, 400nits, Lenovo Keyboard Pack incluido
 - Almacenamiento de 128GB eMCP
 - Procesador MediaTek P60T (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
-- Pantalla táctil de 10.1" FullHD, 1920x1200 píxeles, IPS, 400nits, Lenovo Keyboard Pack incluido
-- Sistema operativo: Chrome OS
 - Memoria RAM de 4GB Soldered LPDDR4x
+- Sistema operativo: Chrome OS
 - Tarjeta gráfica integrada ARM Mali-G72 MP3 GPU
 
 [🛒 Aquí!!!]({{< param buyurl >}})

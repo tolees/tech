@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tableta tiene resolución de 1920x1200p, IPS 16:10 relación de aspecto de pantalla ancha, los vídeos prime y Netflix le llevaran una buena experiencia de vista, también puede conectar a un televisor a través de un puerto Micro-HD para ver películas en una pantalla grande
 - CHUWI Hi10 X está equipado con CPU Intel celeron N4120 (caché 4M desde 1.1 Ghz hasta 2,6 GHz, quad Core, quad Hilos) Intel UHD Graphics 600 de 9ª generación, es ideal para jugar juegos casuales, navegar por sitios web, ver YouTube, escuchar música y usar programas Word
+- Tableta tiene resolución de 1920x1200p, IPS 16:10 relación de aspecto de pantalla ancha, los vídeos prime y Netflix le llevaran una buena experiencia de vista, también puede conectar a un televisor a través de un puerto Micro-HD para ver películas en una pantalla grande
+- Tablet Pc 2 in 1 con Emmc 128GB incorporada, le ayuda fácilmente a almacenar documentos importantes, películas de alta definición, música y juegos. RAM 6GB que soporta abrir docenas de pestañas de página web y ejecutar múltiples tareas y software sin problemas
 - Tablet Windows 10 está hecho de una aleación de aluminio. Además, cuenta con Bluetooth 5.0 y el potente WIFi 2.4G / 5G (802.11a/AC/B/g/n) le proporcionarán una experiencia de navegación sin demora de la página web y streaming de vídeo multimedia
 - CHUWI Tablet lleva con teclado magnético, contiene 2 * USB Type-C, el puerto más popular en la actualidad, uno para la carga y otro para la transmisión de datos, fácil y rápida (no incluye stylus)
-- Tablet Pc 2 in 1 con Emmc 128GB incorporada, le ayuda fácilmente a almacenar documentos importantes, películas de alta definición, música y juegos. RAM 6GB que soporta abrir docenas de pestañas de página web y ejecutar múltiples tareas y software sin problemas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
