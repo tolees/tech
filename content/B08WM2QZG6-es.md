@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- High Speed USB Connection: 32-bit Arm Cortex-M33 core USB microprocessor, supporting a native 8000Hz report rate
-- Weight System: Up to additional 25 grams
 - Triple sensor (Pixart 3389 optical sensor + 2 LOD)
+- High Speed USB Connection: 32-bit Arm Cortex-M33 core USB microprocessor, supporting a native 8000Hz report rate
 - Tracking Speed: 400ips
 - On the fly DPI + 5 Onboard profiles
+- Weight System: Up to additional 25 grams
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
