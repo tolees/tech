@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP X32c - Monitor Gaming de 32" Full HD  1920 x 1080 a 165Hz  VA  1ms  Curvatura 1500R  AMD Freesync Premium  OMEN Gaming Hub  Eye Ease  Antirreflectante  Altura e Inclinación Ajustables  Negro'
-date: 2022-07-04 08:10:37
+date: 2022-07-06 15:54:34
 image: 'https://m.media-amazon.com/images/I/41Zmpxvz82L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B09GGBC885/?tag=tolees-21'
 descuento: '26.02'
-average: '205.0'
+average: '204.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura ajustable de 100 mm; inclinación -5° a + 20° y ángulos de visión ultraamplios de 178°
+- Pantalla curva Full HD (1080p) de 80 cm (31,5 pulgadas) y una frecuencia de actualización de 165 Hz; pantalla con tecnologia VA
 - OMEN Gaming Hub es el lugar donde puedes encontrar todo lo que necesitas para mejorar tu experiencia de juego: desde las mejoras de software hasta el control del hardware y los servicios en directo
 - Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
-- Embalaje de origen sostenible con materiales reciclados; contenido de la caja: Monitor; tarjeta de garantía; cable DisplayPort, cable de alimentación AC; documentación
+- Altura ajustable de 100 mm; inclinación -5° a + 20° y ángulos de visión ultraamplios de 178°
 - Conecta fácilmente tus dispositivos con los puertos HDMI 2.0 (compatible con HDCP), DisplayPort 1.4 y puerto de audio Audio Jack; además el monitor cuenta con tecnologia Plug-and-Play
-- Pantalla curva Full HD (1080p) de 80 cm (31,5 pulgadas) y una frecuencia de actualización de 165 Hz; pantalla con tecnologia VA
+- Embalaje de origen sostenible con materiales reciclados; contenido de la caja: Monitor; tarjeta de garantía; cable DisplayPort, cable de alimentación AC; documentación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
