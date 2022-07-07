@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigabyte Technology GV-N3060GAMING OC-12GD V2 GeForce RTX 3060 Gaming OC 12G NVIDIA 12 GB GDDR6'
-date: 2022-07-05 13:23:50
+date: 2022-07-07 09:47:11
 image: 'https://m.media-amazon.com/images/I/51tNJFJe27L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigabyte Technology'
 buyurl: 'https://www.amazon.es/dp/B096Y2TYKV/?tag=tolees-21'
 descuento: '25.60'
-average: '696.766'
+average: '650.62'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de memoria: GDDR6
-- Capacidad de la memoria RAM de 12 GB
 - Interfaz de la tarjeta gráfica: ‎PCI-Express x16
+- Capacidad de la memoria RAM de 12 GB
 - Sistema de enfriamiento WINDFORCE 3X con tres ventiladores giratorios alternativos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
