@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-LINK TL-WR840N - Router WiFi  300 Mbps'
-date: 2022-06-30 15:40:01
+date: 2022-07-07 18:44:32
 image: 'https://m.media-amazon.com/images/I/312jyKzUFBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21'
 descuento: '22.77'
-average: '16.1973333333334'
+average: '16.2145652173914'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puente inalámbrico WDS proporciona el enlace inconsútil para ampliar su red inalámbrica
 - Control de ancho de banda basado en IP permite a los administradores determinar cuánto ancho de banda se asigna a cada PC
 - Encriptación de seguridad inalámbrica fácil con sólo pulsar el botón WPS
+- Puente inalámbrico WDS proporciona el enlace inconsútil para ampliar su red inalámbrica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
