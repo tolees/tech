@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 128GB de almacenamiento
 - Incluye la protección con contraseña SanDisk SecureAccess
 - Usb 3.1 (gen. 1) con velocidades de hasta 150.mb/s
-- Elegante diseño de metal fundido
 - Transfiere una película a la memoria en menos de 30 segundos
+- Hasta 128GB de almacenamiento
+- Elegante diseño de metal fundido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

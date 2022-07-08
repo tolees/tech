@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Acer Aspire 3 A315-56 - Ordenador Portátil 15.6” Full HD  Intel Core i3-1005G1  8GB RAM  512GB SSD  Intel UHD Graphics  Windows 11  Color Negro - Teclado QWERTY Español'
-date: 2022-07-05 11:30:35
+title: 'Acer Aspire 3 A315-56 - Ordenador Portátil 15.6” Full HD  Intel Core i3-1005G1  8GB RAM  512GB SSD  Intel UHD Graphics  Windows 11  Color Silver - Teclado QWERTY Español'
+date: 2022-07-08 07:39:37
 image: 'https://m.media-amazon.com/images/I/41Vh3oPHnXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0
 comparePrice: 523.95 EUR
-prodname: 'Acer Aspire 3 A315-56 - Ordenador Portátil 15.6” Full HD  Intel Core i3-1005G1  8GB RAM  512GB SSD  Intel UHD Graphics  Windows 11  Color Negro - Teclado QWERTY Español'
+prodname: 'Acer Aspire 3 A315-56 - Ordenador Portátil 15.6” Full HD  Intel Core i3-1005G1  8GB RAM  512GB SSD  Intel UHD Graphics  Windows 11  Color Silver - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Acer'
@@ -28,11 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica Intel UHD Graphics
+- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
+- Procesador Intel Core i3-1005G1, 1,20 GHz, Dual-core (2 Core)
 - Almacenamiento de 512 GB SSD
 - Memoria RAM de 8 GB DDR4 SDRAM (Memoria máxima compatible 64 GB)
-- Tarjeta gráfica Intel UHD Graphics
-- Procesador Intel Core i3-1005G1, 1,20 GHz, Dual-core (2 Core)
-- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link LS105G - Switch Ethernet 5 Puertos  10/100/1000Mbps   Switch Gigabit  Switch WiFi  Carcasa metálica  Ultraligero  Disipación de Calor  QoS  Ahorro de Energía  Silencioso  No Gestionado  Azul'
-date: 2022-07-01 16:33:32
+date: 2022-07-08 07:41:27
 image: 'https://m.media-amazon.com/images/I/419SR2PA+LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07RPVQY62/?tag=tolees-21'
 descuento: '20.06'
-average: '14.7849855072461'
+average: '14.7884393063581'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El diseño sin ventilador garantiza un funcionamiento silencioso.
-- Plug and play, no requiere configuración.
-- 5 puertos Gigabit RJ45 de 10/100/1000mbps compatibles con mdi/mdix.
 - Diseño compacto, estructura sólida de metal y ultraligero; ideal para sitios industriales de riesgo, sobremesa o montarlo en la pared.
 - NOTA: Para alcanzar la máxima velocidad de la red es importante disponer del cable ethernet adecuado, recomendable Cat 5e o Cat6.
 - La Tecnología Green ethernet ahorra energía
 - La arquitectura antibloqueo garantiza una transferencia de datos fiable.
+- Plug and play, no requiere configuración.
 - Admite QoS 802.1p/dscp para establecer la prioridad del tráfico.
+- 5 puertos Gigabit RJ45 de 10/100/1000mbps compatibles con mdi/mdix.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
