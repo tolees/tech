@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Auriculares cerrados  negro'
-date: 2022-07-07 18:46:40
+date: 2022-07-09 16:53:32
 image: 'https://m.media-amazon.com/images/I/41+g-rMxUgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00NBR70DO-es Sony MDR-ZX110 - Auriculares cerrados negro'
 sku: 'B00NBR70DO-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','sony','🇪🇸', ]
-actualPrice: 9.99 EUR
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.99
+price: 10.99
 comparePrice: 15.0 EUR
 prodname: 'Sony MDR-ZX110 - Auriculares cerrados  negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR70DO/?tag=tolees-21'
-descuento: '33.40'
-average: '9.44662037037034'
+descuento: '26.73'
+average: '9.45373271889398'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados
-- Unidades ligeras de diafragma de neodimio dinámico de 30 mm
-- Peso del producto: 120 g
 - Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
+- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados
 - Diafragmas tipo cúpula de 30 mm
+- Peso del producto: 120 g
+- Unidades ligeras de diafragma de neodimio dinámico de 30 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
