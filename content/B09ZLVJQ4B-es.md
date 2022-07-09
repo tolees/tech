@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Experiencia inmersiva en una pantalla de gran tamaño. Redmi 10C cuenta con una pantalla Dot Drop de 6,71”, que ofrece una experiencia inmersiva de visualización para tu entretenimiento diario. Redmi 10C también es compatible con Widevine L1 HD, capaz de transmitir videos HD de Netflix o Amazon Prime Video, para que puedas disfrutar de tus películas y series favoritas. Además, incoporar un potente altavoz y jack de auriculares
-- Batería de larga duración con carga rápida de 18W. Equipado con una batería de 5000 mAh de larga duración, Redmi 10C proporciona suficiente potencia para todo el día, permitiendo que pase más tiempo jugando y menos tiempos cargando con el cargador de carga rápida de 18W
 - Potencia y rapidez con Snapdragon 680. Redmi 10C está equipado con un procesador Snapdragon 680 de 6nm, que ofrece una velocidad de hasta 2,4 GHz proporcionando eficiencia y un potente rendimiento mientras consume menos energía. Gracias al almacenamiento UFS 2.2, Redmi 10C ofrece una velocidad de escritura más rápida, que se traduce en una instalación y carga de aplicaciones más rápida
 - Fotografía de alta resolución con cámara principal de 50MP. Redmi 10C incorpora una cámara principal de 50MP que permite capturar fotos con mayor nitidez, así como una cámara de profundidad de 2MP que ayuda a lograr un efecto de desenfoque más natural. Además, Redmi 10C incorpora un modo nocturno para iluminar tus fotos con más detalles en condiciones de poca luz, así como Movie Frame para crear un efecto cinematográfico para tus fotos
 - Incluye auriculares Mi In Ear
+- Batería de larga duración con carga rápida de 18W. Equipado con una batería de 5000 mAh de larga duración, Redmi 10C proporciona suficiente potencia para todo el día, permitiendo que pase más tiempo jugando y menos tiempos cargando con el cargador de carga rápida de 18W
 
 [🛒 Comprar!!!]({{< param buyurl >}})

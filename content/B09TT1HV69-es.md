@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica integrada Intel
 - Pantalla de 15.6", FullHD, 1920x1080 píxeles, 60 Hz, IPS 300 nits
 - Memoria RAM de 8GB LPDDR4
-- Sistema Operativo: Windows 11 Home
 - Procesador Intel Core i5-1235U, 10 Núcleos (12 hilos), 4.4Ghz, 12MB
+- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica integrada Intel
 - Almacenamiento de 256GB NVMe SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
