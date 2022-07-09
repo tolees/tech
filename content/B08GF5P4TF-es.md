@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V13 - Altavoz para Fiestas  150 W  Mega Bass  Bluetooth y NFC   Color Negro'
-date: 2022-07-07 17:31:50
+date: 2022-07-09 09:03:29
 image: 'https://m.media-amazon.com/images/I/41dN960tXcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08GF5P4TF/?tag=tolees-21'
 descuento: '19.68'
-average: '262.495'
+average: '257.993333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Entrada de micrófono y guitarra para disfrutar del mejor karaoke
 - Llena tus fiestas con sonido de alta calidad y graves potentes gracias a los tweeters de alta eficiencia orientados hacia arriba y al JET BASS BOOSTER de este altavoz Sony
 - Con Wireless Party Chain a través de Bluetooth; podrás conectar hasta 50 altavoces Bluetooth compatibles de Sony
-- Entretenida y fácil de usar; la app Fiestable te permite controlar completamente tu MHC-V13 desde tu teléfono e incluye muchas otras funciones divertidas como Party Playlist
 - La luz multicolor del altavoz envía ondas de iluminación llenas de color que se sincronizan con el ritmo
-- Entrada de micrófono y guitarra para disfrutar del mejor karaoke
+- Entretenida y fácil de usar; la app Fiestable te permite controlar completamente tu MHC-V13 desde tu teléfono e incluye muchas otras funciones divertidas como Party Playlist
 
 [🛒 Comprar!!!]({{< param buyurl >}})
