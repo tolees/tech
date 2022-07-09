@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Marca: Samsung
 - Color: Verde
 - Resistente y con diseño funcional
-- Marca: Samsung
 
 [🛒 Comprar!!!]({{< param buyurl >}})

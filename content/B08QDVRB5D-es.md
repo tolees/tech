@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sencilla conexión Plug & Play
+- Descarga la App WiZ o usa el control de voz para un fácil control
 - Lleva la luz blanca cálida a tus luminarias E27 con la bombilla inteligente regulable WiZ
 - Automatiza las luces con programas
-- Descarga la App WiZ o usa el control de voz para un fácil control
-- Sencilla conexión Plug & Play
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

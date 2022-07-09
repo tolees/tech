@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 18 h de duración de batería con la funda de carga
-- Extra Bass Para Un Sonido Rotundo Y Profundo
 - Clasificación IP55 para su uso en exteriores y una limpieza sencilla
+- Extra Bass Para Un Sonido Rotundo Y Profundo
+- Hasta 18 h de duración de batería con la funda de carga
 - Diseño true wireless con conectividad inalámbrica bluetooth estable
 - La función Cancelación de ruido digital te permite escuchar sin distracciones
 
