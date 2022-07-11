@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasas fácilmente intercambiables con sistema de imán
-- Mr Wonderful Este pack incluye el ratón y dos carcasas intercambiables; una de rosquillas y otra de planetas
-- Ratón wireless con receptor usb; el receptor USB se guarda dentro del ratón para más practicidad; funciona con pilas AA (no incluidas)
-- Con infrarojo óptico para mayor precisión, scroller, botón para cambiar DPI y switch de encendido y apagado
 - Divertido y original diseño ideal para regalo
+- Con infrarojo óptico para mayor precisión, scroller, botón para cambiar DPI y switch de encendido y apagado
+- Ratón wireless con receptor usb; el receptor USB se guarda dentro del ratón para más practicidad; funciona con pilas AA (no incluidas)
+- Mr Wonderful Este pack incluye el ratón y dos carcasas intercambiables; una de rosquillas y otra de planetas
+- Carcasas fácilmente intercambiables con sistema de imán
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
