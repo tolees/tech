@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elegante diseño con pantalla LCD de 1,5 pulgadas.
-- Interconnect with other smart device a través de Bluetooth gateway
 - Fácil de colocar o colocar en la pared.
+- Elegante diseño con pantalla LCD de 1,5 pulgadas.
 - Batería de botón de encendido y apagado de 1 año.
+- Interconnect with other smart device a través de Bluetooth gateway
 
 [🛒 Visítala!!!]({{< param buyurl >}})
