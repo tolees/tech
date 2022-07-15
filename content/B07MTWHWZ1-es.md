@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G332 Auriculares Gaming con Cable  Transductores 50 mm  Almohadillas Giratorias Cuero Sintético  3 5 mm Jack  Mic Volteable para Silenciar  Ultra-Ligero  PC/Xbox One/PS4/Switch - Negro/Rojo'
-date: 2022-07-08 05:22:09
+date: 2022-07-14 22:04:34
 image: 'https://m.media-amazon.com/images/I/41LvTSs7kNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MTWHWZ1-es Logitech G332 Auriculares Gaming con Cable Transductores...'
 sku: 'B07MTWHWZ1-es'
 tags: [ 'Accesorios para Juegos PC','Accesorios para PlayStation - Psone','Accesorios para PlayStation 2','Auriculares gaming para PC','Juegos y Accesorios para PC','PlayStation 2: Juegos, consolas y accesorios','PlayStation: Juegos, consolas y accesorios','Sistemas heredados','Sistemas heredados de PlayStation','Sistemas heredados de Xbox','Videojuegos','Xbox: Juegos, consolas y accesorios','auriculares','logitech','logitech g','🇪🇸', ]
-actualPrice: 39.9 EUR
+actualPrice: 30.0 EUR
 currency: EUR
-price: 39.9
+price: 30.0
 comparePrice: 61.99 EUR
 prodname: 'Logitech G332 Auriculares Gaming con Cable  Transductores 50 mm  Almohadillas Giratorias Cuero Sintético  3 5 mm Jack  Mic Volteable para Silenciar  Ultra-Ligero  PC/Xbox One/PS4/Switch - Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07MTWHWZ1/?tag=tolees-21'
-descuento: '35.63'
-average: '37.4774193548385'
+descuento: '51.61'
+average: '37.3819745222928'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
