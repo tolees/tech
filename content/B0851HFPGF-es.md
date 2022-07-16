@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Prime+ - Ratón de Gaming Esports Performance - Sensor óptico TrueMove Pro+ de 18 000 CPI - Interruptores óptico magnéticos'
-date: 2022-07-14 14:56:09
+date: 2022-07-16 16:52:38
 image: 'https://m.media-amazon.com/images/I/217XEIjzFDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SteelSeries'
 buyurl: 'https://www.amazon.es/dp/B0851HFPGF/?tag=tolees-21'
 descuento: '21.88'
-average: '61.74'
+average: '59.39'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla OLED incorporada para una personalización total de la tasa de sondeo, colores básicos, distancia de levantamiento, perfiles de CPI directamente en el ratón, sin necesidad de software adicional
 - Diseñado especialmente para los más exigentes niveles de juego en FPS con 100 millones de clics
 - El diseño ligero de 71 g se elaboró con aportaciones de profesionales del esport para confort y durabilidad puesta a punto en el campo de batalla
-- Los interruptores Prestige Optical Magnetic concentran la fuerza de la luz en la velocidad de reacción y duran hasta 5 veces más que los de la competencia
 - 18 000 CPI ultracompetitivo, 450 IPS, sensor de aceleración de 50G con rastreo avanzado de inclinación
+- Los interruptores Prestige Optical Magnetic concentran la fuerza de la luz en la velocidad de reacción y duran hasta 5 veces más que los de la competencia
 - Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
-- Pantalla OLED incorporada para una personalización total de la tasa de sondeo, colores básicos, distancia de levantamiento, perfiles de CPI directamente en el ratón, sin necesidad de software adicional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
