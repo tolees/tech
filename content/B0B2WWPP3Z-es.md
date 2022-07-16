@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 Gen 6 - Ordenador Portátil 15.6" FullHD 60Hz  AMD Ryzen 5 5600H  8GB RAM  512GB SSD  NVIDIA GeForce RTX 3050 4GB GDDR6  FreeDOS  Negro - Teclado QWERTY Portugués  82K201L3PG '
-date: 2022-07-15 08:38:28
+date: 2022-07-16 14:05:37
 image: 'https://m.media-amazon.com/images/I/314Xrqt4AxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1635MHz, TGP 85W
-- Procesador AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB)
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
-- Memoria RAM de 8GB SO-DIMM DDR4-3200 ampliables hasta 16GB
 - Pantalla de 15.6" FHD 1920x1080 pixeles, 60Hz, IPS, 250nits, antirreflejos, DC dimmer
+- Procesador AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB)
+- Memoria RAM de 8GB SO-DIMM DDR4-3200 ampliables hasta 16GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
