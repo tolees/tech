@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla OLED incorporada para una personalización total de la tasa de sondeo, colores básicos, distancia de levantamiento, perfiles de CPI directamente en el ratón, sin necesidad de software adicional
-- Diseñado especialmente para los más exigentes niveles de juego en FPS con 100 millones de clics
-- El diseño ligero de 71 g se elaboró con aportaciones de profesionales del esport para confort y durabilidad puesta a punto en el campo de batalla
 - 18 000 CPI ultracompetitivo, 450 IPS, sensor de aceleración de 50G con rastreo avanzado de inclinación
-- Los interruptores Prestige Optical Magnetic concentran la fuerza de la luz en la velocidad de reacción y duran hasta 5 veces más que los de la competencia
+- El diseño ligero de 71 g se elaboró con aportaciones de profesionales del esport para confort y durabilidad puesta a punto en el campo de batalla
+- Pantalla OLED incorporada para una personalización total de la tasa de sondeo, colores básicos, distancia de levantamiento, perfiles de CPI directamente en el ratón, sin necesidad de software adicional
 - Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
+- Diseñado especialmente para los más exigentes niveles de juego en FPS con 100 millones de clics
+- Los interruptores Prestige Optical Magnetic concentran la fuerza de la luz en la velocidad de reacción y duran hasta 5 veces más que los de la competencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

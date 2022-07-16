@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ultraligero: la ingeniería más avanzada ha reducido peso del Aerox 5 a 66 g para un rendimiento ultrarrápido y óptimo en juegos como Valorant, Call of Duty, Fortnite, CS:GO, League of Legends, Apex Legends, PUBG, Grand Theft Auto y muchos más.
 - Protección integral: con la clasificación IP54, AquaBarrier protege el ratón del agua, del polvo, de la suciedad y de mucho más.
-- Personalización completa: 9 botones programables con un panel de acción de 5 botones que incluye un interruptor de giro hacia arriba/abajo hecho a medida. Personaliza cada clic fácilmente utilizando SteelSeries Engine.
+- Diseño ultraligero: la ingeniería más avanzada ha reducido peso del Aerox 5 a 66 g para un rendimiento ultrarrápido y óptimo en juegos como Valorant, Call of Duty, Fortnite, CS:GO, League of Legends, Apex Legends, PUBG, Grand Theft Auto y muchos más.
 - Rendimiento preciso: el innovador sensor TrueMove Air aporta un control total con seguimiento de la inclinación, ofreciendo 18.000 CPI, 400 IPS y una aceleración de 40G.
+- Personalización completa: 9 botones programables con un panel de acción de 5 botones que incluye un interruptor de giro hacia arriba/abajo hecho a medida. Personaliza cada clic fácilmente utilizando SteelSeries Engine.
 - Iluminación PrismSync: elige fácilmente entre 16,8 millones de colores en 3 zonas para personalizar las luces RGB que reaccionan a los eventos del juego y pueden funcionar en sincronización con otros equipos SteelSeries.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
