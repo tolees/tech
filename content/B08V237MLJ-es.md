@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla táctil convertíble de 14"FullHD 1920x1080 pixeles 220nits Anti-glare
 - Procesador AMD Ryzen 7 5700U ( 8C/16T, 1.8 GHz/4.3GHz, 8 MB)
 - Sistema operativo: Windows 10 Home en Modo S
-- Memoria RAM de 8GB (4GB Soldered DDR4-2666 + 4GB SO-DIMM DDR4-2666)
+- Pantalla táctil convertíble de 14"FullHD 1920x1080 pixeles 220nits Anti-glare
 - Tarjeta gráfica Integrada AMD Radeon RX Vega 8
 - Almacenamiento de 512GB SSD M.2 2280 NVMe
+- Memoria RAM de 8GB (4GB Soldered DDR4-2666 + 4GB SO-DIMM DDR4-2666)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
