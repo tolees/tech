@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Gen 6 - Portátil 15.6" FHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Integrated Intel Iris Xe Graphics  Windows 11 Home  Gris - Teclado QWERTY Portugués'
-date: 2022-07-09 09:52:21
+date: 2022-07-16 22:10:27
 image: 'https://m.media-amazon.com/images/I/41g9cU39-WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
-- Sistema operativo: Windows 11 Home
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
+- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Pantalla de 15.6" FHD (1920x1080) TN 250nits, antirreflejos
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
+- Sistema operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
