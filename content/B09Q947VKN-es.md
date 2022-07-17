@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi TV Stick 4K'
-date: 2022-07-16 15:44:55
+date: 2022-07-17 15:51:51
 image: 'https://m.media-amazon.com/images/I/41XvUVAx1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09Q947VKN/?tag=tolees-21'
 descuento: '19.36'
-average: '56.6566666666667'
+average: '55.49'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
