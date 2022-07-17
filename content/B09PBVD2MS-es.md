@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 9 Pro 5G Smartphone Libre  Batería masiva de 5000 mAh  Procesador Qualcomm Snapdragon 695 5G  Carga Dart de 33 W  Pantalla ultrafluida de 120 Hz  Dual Sim  6 + 128 GB Midnight Black'
-date: 2022-07-15 20:37:56
+date: 2022-07-17 13:49:54
 image: 'https://m.media-amazon.com/images/I/41ilwOlkn6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09PBVD2MS/?tag=tolees-21'
 descuento: '30.60'
-average: '249.366363636365'
+average: '247.669166666668'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Carga hasta el 50 % en 15 minutos
+- Estabilización de imagen óptica y electrónica
 - Tamaño de la pantalla: 6.4 "
 - Incluye un escáner de huellas dactilares en pantalla que funciona como un monitor de frecuencia cardíaca
-- Estabilización de imagen óptica y electrónica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
