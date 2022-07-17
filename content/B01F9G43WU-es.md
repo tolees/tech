@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSSDA-240G Plus – Disco sólido interno de 240 GB  SATA III SSD  con hasta 530 MB/s  Color Negro'
-date: 2022-07-08 22:32:12
+date: 2022-07-17 20:31:09
 image: 'https://m.media-amazon.com/images/I/31pNLBOfWhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01F9G43WU-es SanDisk SDSSDA-240G Plus – Disco sólido interno de 240 GB...'
 sku: 'B01F9G43WU-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','sandisk','🇪🇸', ]
-actualPrice: 39.0 EUR
+actualPrice: 22.92 EUR
 currency: EUR
-price: 39.0
+price: 22.92
 comparePrice: 53.99 EUR
 prodname: 'SanDisk SDSSDA-240G Plus – Disco sólido interno de 240 GB  SATA III SSD  con hasta 530 MB/s  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01F9G43WU/?tag=tolees-21'
-descuento: '27.76'
-average: '36.9707725321889'
+descuento: '57.55'
+average: '36.9194893617022'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
