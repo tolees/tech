@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sistema QuickLock para fijación rápida y fuerte de dispositivos compatibles
+- Diseñado para manillares de 35 mm de diámetro
 - Sujeta de manera fuerte y fiable el dispositivo GPS por encima del manillar
 - Este soporte ofrece la mejor sujección y montaje para dispositivos o GPS con sistema QuickLock. Diseñado y fabricado por TwoNav.
-- Diseñado para manillares de 35 mm de diámetro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
