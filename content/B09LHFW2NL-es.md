@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Redmi Watch 2 Lite  Black '
-date: 2022-07-16 07:39:51
+date: 2022-07-22 17:13:23
 image: 'https://m.media-amazon.com/images/I/31UW3bAzzYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09LHFW2NL/?tag=tolees-21'
 descuento: '24.27'
-average: '61.2320833333334'
+average: '59.983076923077'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
