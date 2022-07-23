@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 3 A315-35 - Ordenador Portátil 15.6” Full HD LED  Intel Celeron N4500  8 GB RAM  256 GB SSD  Intel UHD Graphics 600  Windows 11 Home  Plata - Teclado QWERTY Español'
-date: 2022-07-18 11:20:58
+date: 2022-07-23 12:45:01
 image: 'https://m.media-amazon.com/images/I/41jM7A0N4zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Celeron N4500, 1,10GHz
-- Almacenamiento de 256GB SSD
-- Memoria RAM de 8GB DDR4 SDRAM (Memoria máxima compatible 16GB)
 - Pantalla de 15.6" Full HD LED, 1920x1080 píxeles, ComfyView
-- Tarjeta gráfica Intel UHD Graphics
+- Almacenamiento de 256GB SSD
+- Procesador Intel Celeron N4500, 1,10GHz
 - Sistema operativo: Windows 11
+- Memoria RAM de 8GB DDR4 SDRAM (Memoria máxima compatible 16GB)
+- Tarjeta gráfica Intel UHD Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
