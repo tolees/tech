@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LIGHTSYNC RGB: La iluminación inteligente que cubre todo el espectro de colores reacciona directamente a lo que sucede en el juego, el paisaje sonoro y los colores de la pantalla. Ajuste los efectos de iluminación con 16,8 millones de colores y sincronícelos con el resto de su equipo G mediante el software de juegos G HUB.
-- #1 en todo el mundo: la marca más vendida de accesorios para juegos - Basado en datos de ventas agregados independientes (del 19 de febrero al 20 de febrero) para teclados, ratones y auriculares de PC para juegos en unidades
-- Diseño cómodo y calidad superior: el G403 HERO está diseñado específicamente para jugar con un ajuste ideal para el agarre y el control. Está hecho de materiales de alta calidad en una construcción ligera (87 g), con agarres de goma y un peso extraíble de 10 g.
-- G HUB: Configura 6 botones programables para realizar fácilmente acciones en el juego. El interruptor de PPP instantáneo le permite programar y cambiar entre cinco ajustes de sensibilidad de 100 a 25.600 ppp.
 - Sensor HERO 25K: sensor de juegos de próxima generación con muestreo 1:1, más de 400 IPS y una sensibilidad máxima de 100-25600 ppp, además de sin suavizado, filtrado ni aceleración.
 - Rendimiento de juego avanzado: hasta 8 veces más rápido que los ratones tradicionales con una velocidad de respuesta de 1 milisegundo y un sistema accionado por resorte para una liberación de teclas mejorada con menos esfuerzo
+- #1 en todo el mundo: la marca más vendida de accesorios para juegos - Basado en datos de ventas agregados independientes (del 19 de febrero al 20 de febrero) para teclados, ratones y auriculares de PC para juegos en unidades
+- LIGHTSYNC RGB: La iluminación inteligente que cubre todo el espectro de colores reacciona directamente a lo que sucede en el juego, el paisaje sonoro y los colores de la pantalla. Ajuste los efectos de iluminación con 16,8 millones de colores y sincronícelos con el resto de su equipo G mediante el software de juegos G HUB.
+- G HUB: Configura 6 botones programables para realizar fácilmente acciones en el juego. El interruptor de PPP instantáneo le permite programar y cambiar entre cinco ajustes de sensibilidad de 100 a 25.600 ppp.
+- Diseño cómodo y calidad superior: el G403 HERO está diseñado específicamente para jugar con un ajuste ideal para el agarre y el control. Está hecho de materiales de alta calidad en una construcción ligera (87 g), con agarres de goma y un peso extraíble de 10 g.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
