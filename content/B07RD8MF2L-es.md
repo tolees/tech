@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0  1920x1080p  Sintonizador DVB-T/T2/C  Negra'
-date: 2022-07-24 15:02:21
+date: 2022-07-25 19:56:50
 image: 'https://m.media-amazon.com/images/I/51qna+tFTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SCHNEIDER'
 buyurl: 'https://www.amazon.es/dp/B07RD8MF2L/?tag=tolees-21'
 descuento: '33.64'
-average: '225.115555555556'
+average: '222.504'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Idioma del menú: Español
-- Vataje (W): 37.0 kilowatt_hours
+- Sintonizador DVB-T/T2/C
 - Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI.
+- Vataje (W): 37.0 kilowatt_hours
 - Tipo de altavoz: built_in
+- Idioma del menú: Español
 - Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
 - Entrada de Auriculares Jack 3,5mm
-- Sintonizador DVB-T/T2/C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
