@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 3 A315-23 - Ordenador Portátil 15.6” Full HD LED  AMD Ryzen 5 3500U  16 GB RAM  512 GB SSD  UMA Graphics  Sin SO  Negro - Teclado QWERTY Español'
-date: 2022-07-22 01:50:36
+date: 2022-07-25 15:21:13
 image: 'https://m.media-amazon.com/images/I/41OfqeMdbqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B09WNH3LVP/?tag=tolees-21'
 descuento: '25.04'
-average: '524.0'
+average: '509.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo: Sin SO
 - Almacenamiento de 512 GB SSD
+- Sistema Operativo: Sin SO
 - Tarjeta gráfica UMA Graphics
-- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
 - Procesador AMD Ryzen 5 3500U, 2,10 GHz, Dual-core(2 Core)
 - Memoria RAM de 16 GB DDR4 SDRAM (Memoria máxima compatible 32 GB)
+- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '【Nuevo】 Mercusys Halo H80X 3-Pack  - Router WiFi 6 AX3000  Doble Banda 2.4Ghz/5Ghz  3X Puertos Gigabit  Cobertura hasta 650m²  MU-MIMO OFDMA  1024-QAM '
-date: 2022-07-23 08:26:26
+date: 2022-07-25 15:32:31
 image: 'https://m.media-amazon.com/images/I/41OWBLBaZML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ADMINISTRA FÁCILMENTE SU RED DOMÉSTICA - Usa la App Mercusys para configurar y administrar rápidamente su WiFi. Ahora también puedes controlar el tiempo y uso en línea de sus hijos
 - CONECTA HASTA 150 DISPOSITIVOS - Proporciona conexiones rápidas y estables a más de 150 dispositivos
 - 3 X PUERTOS GIGABIT POR CADA HALO - Casa unidad de Halo tiene 3 Puertos Gigabit 10/100/1000 Mbps para conexiones por cable Ethernet Ultra-rápidas
-- ADMINISTRA FÁCILMENTE SU RED DOMÉSTICA - Usa la App Mercusys para configurar y administrar rápidamente su WiFi. Ahora también puedes controlar el tiempo y uso en línea de sus hijos
 - VELOCIDAD GIGABIT Wi-Fi 6 HASTA 3000 MBPS (802.11ax) - 2402 MBps en 5 GHz y 800 MBps en 2.4 GHz
 - UNA RED UNIFICADA - Cada uno de los Halo forman una red para todo el hogar que selecciona automáticamente la mejor conexión a medida que te desplazas por tu hogar usando el mismo nombre Wifi y Contraseña
 
