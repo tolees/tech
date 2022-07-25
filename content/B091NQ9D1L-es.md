@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y el nuevo Tie Break Tens: hay un formato de juego para cada jugador
 - Múltiples estadios oficiales y torneos: tales como el estadio de Manolo Santana del Mutua Madrid Open, el OWL Arena en Halle o 3 pistas del Roland Garros: Philippe-Chatrier, Suzanne-Lenglen and Simonne-Mathieu; y torneos como la ATP Cup, Tie Break Tens, Roland-Garros
-- Nuevas características muy esperadas: la capacidad de jugar partidos de dobles con hasta 4 jugadores de forma local y en línea, un modo competitivo, un sistema de servicio mejorado y una nueva mecánica de sincronización de tiros; una versión para nueva generación: con mejoras técnicas y de gameplay
 - Mayor realismo: más animaciones para una mejor experiencia de juego; movimientos específicos: fiel reproducción in-game de los movimientos estrella de los tenistas y su estilo
+- Nuevas características muy esperadas: la capacidad de jugar partidos de dobles con hasta 4 jugadores de forma local y en línea, un modo competitivo, un sistema de servicio mejorado y una nueva mecánica de sincronización de tiros; una versión para nueva generación: con mejoras técnicas y de gameplay
 - 48 estrellas del tenis: los nombres más importantes estarán presentes este año, incluidos Rafael Nadal, Roger Federer y Ashleigh Barty
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

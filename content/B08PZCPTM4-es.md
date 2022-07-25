@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de posicionamiento por satélite dual de precisión. Descubre infinitamente posicionamiento GPS + GLONASS y múltiples sensores inteligentes. El reloj puede rastrear con precisión la velocidad de tu vuelo, la distancia y las calorías quemadas. También puede medir los cambios de la frecuencia cardíaca y proporcionar una imagen clara de tu estado de entrenamiento.
-- Pantalla táctil a color TFT de 1.4 ". Admite ajuste automático de brillo. Carga al 100% en 2 horas, todo lo que necesita saber en una pantalla. Hasta 9 días de duración de la batería, lo que evita la molestia de la carga diaria.
-- Datos de salud diarios de un vistazo: el reloj registra tus datos diarios de frecuencia cardíaca, movimiento y sueño, asegurándote de que estás bien informado de tu estado de salud.
 - Hasta 9 días de duración de la batería: ahorra la carga diaria y cárgala al 100% en 2 horas.
+- Pantalla táctil a color TFT de 1.4 ". Admite ajuste automático de brillo. Carga al 100% en 2 horas, todo lo que necesita saber en una pantalla. Hasta 9 días de duración de la batería, lo que evita la molestia de la carga diaria.
+- Sistema de posicionamiento por satélite dual de precisión. Descubre infinitamente posicionamiento GPS + GLONASS y múltiples sensores inteligentes. El reloj puede rastrear con precisión la velocidad de tu vuelo, la distancia y las calorías quemadas. También puede medir los cambios de la frecuencia cardíaca y proporcionar una imagen clara de tu estado de entrenamiento.
 - 11 modos de entrenamiento, 5 ATM de resistencia al agua hasta 50 m. Ya sea que se encuentre en el interior o al aire libre, Xiaomi Watch Lite realiza un seguimiento de su movimiento en tiempo real y admite el establecimiento de objetivos de entrenamiento específicos para ayudar a mejorar los resultados de su ejercicio.
+- Datos de salud diarios de un vistazo: el reloj registra tus datos diarios de frecuencia cardíaca, movimiento y sueño, asegurándote de que estás bien informado de tu estado de salud.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
