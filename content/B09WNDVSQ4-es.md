@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Spin 1 SP114-31N - Ordenador Portátil 14" Full HD LED Intel Celeron N5100  4GB RAM  128GB eMMc  Intel UHD Graphics  Windows 11 Home S  Plata - Teclado QWERTY Español'
-date: 2022-07-26 16:25:46
+date: 2022-07-28 12:57:29
 image: 'https://m.media-amazon.com/images/I/41+4C6SHkpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 4 GB DDR4 SDRAM (Memoria máxima compatible 8 GB)
+- Tarjeta gráfica Intel UHD Graphics
 - Procesador Intel Celeron N5100, 1,10 GHz, Quad-core(4 Core)
 - Pantalla de 14", Full HD LED 1920 x 1080 pixeles
-- Sistema Operativo: Windows 11 Home S
 - Almacenamiento de 128 GB eMMc
-- Tarjeta gráfica Intel UHD Graphics
+- Sistema Operativo: Windows 11 Home S
+- Memoria RAM de 4 GB DDR4 SDRAM (Memoria máxima compatible 8 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
