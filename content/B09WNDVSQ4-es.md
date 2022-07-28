@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica Intel UHD Graphics
-- Procesador Intel Celeron N5100, 1,10 GHz, Quad-core(4 Core)
-- Pantalla de 14", Full HD LED 1920 x 1080 pixeles
-- Almacenamiento de 128 GB eMMc
-- Sistema Operativo: Windows 11 Home S
 - Memoria RAM de 4 GB DDR4 SDRAM (Memoria máxima compatible 8 GB)
+- Sistema Operativo: Windows 11 Home S
+- Procesador Intel Celeron N5100, 1,10 GHz, Quad-core(4 Core)
+- Almacenamiento de 128 GB eMMc
+- Tarjeta gráfica Intel UHD Graphics
+- Pantalla de 14", Full HD LED 1920 x 1080 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
