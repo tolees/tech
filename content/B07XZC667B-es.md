@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con el tamaño de media-mano, podrás utilizar tanto grip de palma como un grip de garra
-- Increíblemente rápido y preciso, gracias al sensor óptico PixArt PAW3327, que soporta hasta 6200 DPI y 1000Hz de polling rate; combinado con unos switches OMRON que soportan hasta unos 20 millones de clics
-- La iluminación de los bordes en forma de U con RGB Mystic Light muestra perfectamente millones de colores y más de 9 efectos
-- Con un punto de salida elevado para el cable, el Clutch GM30 evita cualquier arrastre innecesario que el cable pueda causar en la alfombrilla
 - Diseño simétrico, con agarres laterales; ajustes con Dragon Center
+- La iluminación de los bordes en forma de U con RGB Mystic Light muestra perfectamente millones de colores y más de 9 efectos
+- Increíblemente rápido y preciso, gracias al sensor óptico PixArt PAW3327, que soporta hasta 6200 DPI y 1000Hz de polling rate; combinado con unos switches OMRON que soportan hasta unos 20 millones de clics
+- Con un punto de salida elevado para el cable, el Clutch GM30 evita cualquier arrastre innecesario que el cable pueda causar en la alfombrilla
+- Con el tamaño de media-mano, podrás utilizar tanto grip de palma como un grip de garra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
