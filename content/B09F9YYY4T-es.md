@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 20 R 5G 128GB - Smartphone de 6.52" HD+ con NXTVISION  MediaTek Dimensity 700 5G  4GB/128GB Ampliable MicroSD  Dual SIM  Cámaras 13MP+2MP+2MP+8MP  Batería 4500mAh  Android 11  Azul'
-date: 2022-07-22 15:25:11
+date: 2022-07-30 17:07:57
 image: 'https://m.media-amazon.com/images/I/41AUTjGUJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TCL'
 buyurl: 'https://www.amazon.es/dp/B09F9YYY4T/?tag=tolees-21'
 descuento: '32.27'
-average: '171.122499999999'
+average: '169.821176470587'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
