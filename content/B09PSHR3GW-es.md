@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CPU: Tiger Lake i5-11400H+HM570
-- RTX3050 Max-Q, GDDR6 4 GB
 - 512 GB NVMe PCIe Gen 3 x 4 SSD (new)
-- Free DOS
+- CPU: Tiger Lake i5-11400H+HM570
 - DDR IV 8 GB*2 (3200 MHz)
+- RTX3050 Max-Q, GDDR6 4 GB
+- Free DOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
