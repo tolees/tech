@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Technology - Seagate Basic portátil  5 TB  Disco duro externo  HDD  USB 3.0 para PC  ordenador portátil  STJL5000400 '
-date: 2022-07-27 16:02:29
+date: 2022-07-30 13:29:19
 image: 'https://m.media-amazon.com/images/I/31QVx1V3q9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Seagate Technology'
 buyurl: 'https://www.amazon.es/dp/B081VGMS8X/?tag=tolees-21'
 descuento: '28.88'
-average: '103.63'
+average: '103.05125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
