@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Tecnología de pantalla: LCD; Tipo de memoria del ordenador: sodimm
 - Procesador Tiger lake i7-1185G7
 - 1TB NVMe PCIe Gen4x4 SSD
-- Tarjeta gráfica Iris Xe Graphics
 - Sistema operativo Windows10 Pro without ODD
 - Memoria RAM LPDDR3 16GB (4267MHz)
-- Capacidad del disco duro (GB): 1.0 TB; Capacidad de la memoria RAM (GB): 16.0 GB; Tecnología de pantalla: LCD; Tipo de memoria del ordenador: sodimm
+- Tarjeta gráfica Iris Xe Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
