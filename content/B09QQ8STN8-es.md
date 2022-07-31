@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD
-- Procesador AMD Ryzen 5 3500U
-- Memoria RAM de 8GB (4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400) ampliables hasta 12GB
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 220nits, antirreflejos
-- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
+- Almacenamiento de 512GB SSD
 - Sin sistema operativo
+- Memoria RAM de 8GB (4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400) ampliables hasta 12GB
+- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
+- Procesador AMD Ryzen 5 3500U
 
 [🛒 Aquí!!!]({{< param buyurl >}})
