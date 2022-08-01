@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 128GB eMMC 5.1
-- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
 - Tarjeta gráfica Integrada Intel UHD Graphics
 - Sistema operativo: Chrome OS
 - Procesador Intel Celeron N4500 (2C/2T, 1.1/2.8GHz, 4MB L3)
 - Memoria RAM de 8GB Soldered LPDDR4x-2933
+- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare
+- Almacenamiento de 128GB eMMC 5.1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
