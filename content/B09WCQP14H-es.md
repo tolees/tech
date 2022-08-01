@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vigilancia segura: este monitor detecta automáticamente los objetos en movimiento y captura imágenes de los mismos. Además puede seguir objetos en movimiento. Las notificaciones se envían en tiempo real a través de la APP SwitchBot. Con la función de reproducción, puedes ver el vídeo después. La cámara vigila tu casa en tiempo real
-- Privacidad garantizada: Esta cámara admite tarjetas SD de hasta 128 GB (tarjeta SD no incluida) y almacenamiento en la nube. Transmite los datos a través de un canal seguro utilizando la tecnología HTTPS, ningún dato se comparte públicamente a través de Internet y ningún otro dispositivo puede acceder a tu cámara
 - Imagen nítida de 1080P: La cámara pan-tilt de SwitchBot muestra vídeo en directo las 24 horas del día con una calidad total de 1080p HD, incluso cuando se monta al revés en el techo. Puede girar 360° en horizontal y 115° en vertical. Puedes ver la zona que se va a vigilar deslizando el dedo por la pantalla de vídeo de la App SwitchBot
 - Audio bidireccional: Gracias al micrófono y al altavoz integrados, podrás ver, oír y hablar con cualquier persona a través de la cámara Wi-Fi (sólo compatible con Wi-Fi 2.4G). Vista en directo y función de audio bidireccional. Puedes ver en tiempo real quién está en tu puerta y/o qué hace tu bebé a través de la aplicación SwitchBot
+- Vigilancia segura: este monitor detecta automáticamente los objetos en movimiento y captura imágenes de los mismos. Además puede seguir objetos en movimiento. Las notificaciones se envían en tiempo real a través de la APP SwitchBot. Con la función de reproducción, puedes ver el vídeo después. La cámara vigila tu casa en tiempo real
 - Control inteligente: La cámara se puede controlar a través de asistentes de voz como Alexa y/o Google. Con la aplicación SwitchBot, puedes controlar tu cámara a distancia. La cámara se puede encender y apagar automáticamente a intervalos fijos a través de los ajustes de la aplicación
+- Privacidad garantizada: Esta cámara admite tarjetas SD de hasta 128 GB (tarjeta SD no incluida) y almacenamiento en la nube. Transmite los datos a través de un canal seguro utilizando la tecnología HTTPS, ningún dato se comparte públicamente a través de Internet y ningún otro dispositivo puede acceder a tu cámara
 
 [🛒 Comprar!!!]({{< param buyurl >}})
