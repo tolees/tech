@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus TUF Gaming VG259QM - Monitor gaming de 24.5" FullHD  1920x1080  Fast IPS  16:9  280 Hz  1 ms GTG  LED  ELMB SYNC  G-Sync Compatible  DisplayHDR 400   Negro'
-date: 2022-07-25 14:54:01
+date: 2022-08-01 14:18:06
 image: 'https://m.media-amazon.com/images/I/411si-LnuDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084GPSV47-es Asus TUF Gaming VG259QM - Monitor gaming de 24.5" FullHD...'
 sku: 'B084GPSV47-es'
 tags: [ 'Informática','Monitores','asus','ips','🇪🇸', ]
-actualPrice: 279.98 EUR
+actualPrice: 239.0 EUR
 currency: EUR
-price: 279.98
+price: 239.0
 comparePrice: 379.0 EUR
 prodname: 'Asus TUF Gaming VG259QM - Monitor gaming de 24.5" FullHD  1920x1080  Fast IPS  16:9  280 Hz  1 ms GTG  LED  ELMB SYNC  G-Sync Compatible  DisplayHDR 400   Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B084GPSV47/?tag=tolees-21'
-descuento: '26.13'
-average: '303.279333333334'
+descuento: '36.94'
+average: '299.261875000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La certificación G-Sync compatible soporta un rango de refresco variable (VRR) que asegura una experiencia de juego sin defectos de imagen.
 - Monitor gaming de 24.5" con resolución FullHD (1920x1080 pixeles), con una frecuencia de refresco de 280 Hz para gamers profesionales que buscan una experiencia gaming inmersiva.
+- La certificación G-Sync compatible soporta un rango de refresco variable (VRR) que asegura una experiencia de juego sin defectos de imagen.
 - La tecnología ASUS Extreme Low Motion Blur Sync (ELMB SYNC) ofrece las ventajas de ELMB y G-SYNC compatible para que disfrutes de una experiencia de juego fluida y más framerates.
-- La tecnología Fast IPS de Asus reduce el tiempo de respuesta a 1ms para ofrecerte imágenes más nítidas y frame rates altos.
 - La tecnología de alto rango dinámico (HDR) y la gama de colores profesional ofrecen un rendimiento de contraste.
+- La tecnología Fast IPS de Asus reduce el tiempo de respuesta a 1ms para ofrecerte imágenes más nítidas y frame rates altos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
