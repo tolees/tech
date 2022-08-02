@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 15.6" FullHD (1920x1080), TN, 250nits, Anti-glare
 - Sistema operativo: Windows 11 Home
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
 - Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
+- Pantalla de 15.6" FullHD (1920x1080), TN, 250nits, Anti-glare
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
