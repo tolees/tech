@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Audífonos inalámbricos Sennheiser HD 250BT Bluetooth 5.0 con AAC  aptX™  Baja latencia aptX™  tecnología de transductor y micrófono Integrado con una duración de batería de 25 Horas  Carga rápida'
-date: 2022-07-28 13:19:53
+date: 2022-08-01 22:48:40
 image: 'https://m.media-amazon.com/images/I/41NnsWOBgIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sennheiser'
 buyurl: 'https://www.amazon.es/dp/B08HVNFF98/?tag=tolees-21'
 descuento: '43.48'
-average: '39.2157142857143'
+average: '39.208275862069'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
