@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi 12 Smartphone  Pantalla AMOLED 6.28" 120Hz  Snapdragon 8 Gen 1  Batería 4500mAh  NFC  8+256 Azul  Versión España '
-date: 2022-08-02 17:44:26
+date: 2022-08-03 18:04:27
 image: 'https://m.media-amazon.com/images/I/41vaTG2MVFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
