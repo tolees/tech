@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dascert - Auriculares Inalámbricos Deportivos  Auriculares Bluetoth 5.3  Cascos Inalambricos con 2 HD Mic  Audifonos Deporte IP7 Impermeable  CVC8.0 Cancelación de Ruido In-Ear Auriculares Running  48H Estéreo'
-date: 2022-08-04 04:41:24
+date: 2022-08-05 04:56:56
 image: 'https://m.media-amazon.com/images/I/51I6j7HiDsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dascert'
 buyurl: 'https://www.amazon.es/dp/B0B3QYHGWJ/?tag=tolees-21'
 descuento: '17.50'
-average: '36.49'
+average: '35.3233333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
