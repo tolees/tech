@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Nitro 5 AN515-57 - Ordenador Portátil Gaming 15.6" Full HD LED  Intel Core i5-11400H  16GB RAM  512GB SSD  RTX 3050Ti  Sin sistema operativo  Color Negro - Teclado QWERTY Español'
-date: 2022-08-03 07:31:52
+date: 2022-08-05 13:02:14
 image: 'https://m.media-amazon.com/images/I/41LyWvXmg0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: UEFI Shell
-- Almacenamiento de 512 GB SSD
-- Memoria RAM de 4 GB GDDR6
-- Procesador Intel Core i5-11400H, 2,70 GHz, Hexa-core (6 Core)
-- Tarjeta gráfica NVIDIA GeForce RTX 3050Ti
 - Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
+- Almacenamiento de 512 GB SSD
+- Procesador Intel Core i5-11400H, 2,70 GHz, Hexa-core (6 Core)
+- Memoria RAM de 4 GB GDDR6
+- Sistema Operativo: UEFI Shell
+- Tarjeta gráfica NVIDIA GeForce RTX 3050Ti
 
 [🛒 Comprar!!!]({{< param buyurl >}})

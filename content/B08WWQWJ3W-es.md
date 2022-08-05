@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Smartphone Galaxy A52 con Pantalla Infinity-O FHD+ de 6 5 Pulgadas  6 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 4500 mAh y Carga Superrápida Negro  ES Versión '
-date: 2022-07-30 17:29:26
+date: 2022-08-05 12:14:49
 image: 'https://m.media-amazon.com/images/I/51kyikmI4XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWQWJ3W-es Samsung Smartphone Galaxy A52 con Pantalla Infinity-O FHD+...'
 sku: 'B08WWQWJ3W-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','galaxy','ram','samsung','smartphone','🇪🇸', ]
-actualPrice: 239.0 EUR
+actualPrice: 282.0 EUR
 currency: EUR
-price: 239.0
+price: 282.0
 comparePrice: 349.0 EUR
 prodname: 'Samsung Smartphone Galaxy A52 con Pantalla Infinity-O FHD+ de 6 5 Pulgadas  6 GB de RAM y 128 GB de Memoria Interna Ampliable  Batería de 4500 mAh y Carga Superrápida Negro  ES Versión '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08WWQWJ3W/?tag=tolees-21'
-descuento: '31.52'
-average: '300.238846153848'
+descuento: '19.20'
+average: '299.563333333335'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
