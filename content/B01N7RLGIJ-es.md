@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
-- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 - Inclusión de circuitos inéditos en el modo batalla
+- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
+- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
 - Hasta 8 pilotos en partidas de multijugador local
 
 [🛒 Visítala!!!]({{< param buyurl >}})
