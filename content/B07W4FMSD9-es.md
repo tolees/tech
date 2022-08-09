@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Cámara Vigilancia WiFi Interior 360º  Camara Vigilancia Bebe 1080P  Visión Nocturna  Audio Bidireccional  Detección de Movimiento  Control Remoto  Compatible con Alexa  Andriod/iOS  Modelo C6N'
-date: 2022-08-07 07:29:07
+date: 2022-08-09 15:09:08
 image: 'https://m.media-amazon.com/images/I/318AweT9KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.es/dp/B07W4FMSD9/?tag=tolees-21'
 descuento: '25.01'
-average: '29.6385971223021'
+average: '29.6411071428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI WiFi AX3 - Router Quad-core WiFi 6 Plus Revolution 3000 Mbps  Tecnología OFDMA multiusuario  hasta 128 dispositivos en doble banda  Huawei Share  Huawei HomeSec  Color Blanco'
-date: 2022-08-05 23:18:03
+date: 2022-08-09 15:09:26
 image: 'https://m.media-amazon.com/images/I/21XSD0d7EUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08DFSS245/?tag=tolees-21'
 descuento: '54.50'
-average: '55.9858333333335'
+average: '55.9675358166191'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
