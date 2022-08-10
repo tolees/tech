@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CANCIONES Y SONIDOS: Con las melodías y voces reales de los personajes de la serie
 - 6 ACTIVIDADES: actividades que enseñan letras, vocabulario, a deletrear, sumas, restas, lógica
 - CARACTERÍSTICAS DEL RELOJ: Pon una alarma y elige su tono. El reloj de cuco puede activarse cada hora
 - TIPO DE PRODUCTO: Ordenador tablet educativa para niños +3 años ¡Prepárate para una gran aventura con la Patrulla Canina! Los entrañables personajes de la Patrulla Canina te enseñarán las letras, vocabulario, a eletrear, sumas y restas, figuras y más, con divertidos juegos, animaciones y las voces originales de Chase y Skye
-- VERSIÓN ESPAÑOLA
-- VTECH CUIDA EL PLANETA: El embalaje de este producto está compuesto en un 90% de cartón reciclable
 - BOTONES INTERACTIVOS: Con 6 botones interactivos para jugar, descubrir y aprender mientras te diviertes: alfabeto, vocabulario, vocabulario, memoria y desarrollar la lógica
+- VTECH CUIDA EL PLANETA: El embalaje de este producto está compuesto en un 90% de cartón reciclable
+- CANCIONES Y SONIDOS: Con las melodías y voces reales de los personajes de la serie
+- VERSIÓN ESPAÑOLA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
