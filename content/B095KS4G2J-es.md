@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gestión total de tu salud
 - ESIM para llamadas telefónicas
-- Gestión total de tu salud
 - Batería hasta 14 días
-- Batería hasta 14 días
-- Brand: HUAWEI
 - eSIM para llamadas telefónicas
+- Brand: HUAWEI
+- Batería hasta 14 días
+- Gestión total de tu salud
+- Gestión total de tu salud
 
 [🛒 Visítala!!!]({{< param buyurl >}})
