@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nepfaivy Juguetes Pez para Gatos - Juguete Interactivo Hierba Gatera  Pez de Simulación de Felpa Móvil con Carga USB  Suministros para Gatos Que Se Pueden Usar para Morder  Negro '
-date: 2022-08-08 01:45:05
+date: 2022-08-11 21:04:31
 image: 'https://m.media-amazon.com/images/I/41MNO5BHUdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PNT4XRS-es Nepfaivy Juguetes Pez para Gatos - Juguete Interactivo...'
 sku: 'B08PNT4XRS-es'
 tags: [ 'Artículos para gatos','Juguetes con hierba gatera','Juguetes para gatos','Productos para mascotas','móvil','nepfaivy','🇪🇸', ]
-actualPrice: 13.64 EUR
+actualPrice: 10.91 EUR
 currency: EUR
-price: 13.64
+price: 10.91
 comparePrice: 16.99 EUR
 prodname: 'Nepfaivy Juguetes Pez para Gatos - Juguete Interactivo Hierba Gatera  Pez de Simulación de Felpa Móvil con Carga USB  Suministros para Gatos Que Se Pueden Usar para Morder  Negro '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nepfaivy'
 buyurl: 'https://www.amazon.es/dp/B08PNT4XRS/?tag=tolees-21'
-descuento: '19.72'
-average: '10.0125641025641'
+descuento: '35.79'
+average: '10.035'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
