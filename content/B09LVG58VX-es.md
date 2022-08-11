@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Nuevo] TP-Link Deco X50  3-Pack - Sistema WiFi 6 ai Mesh  AX3000 Doble Banda 2.4 GHz/5 GHz  Cobertura hasta 600 m2  3X Puertos GigabIt por Unidad  Banda 160MHz Canal  ODFMA  1024QAM Negro'
-date: 2022-08-09 14:57:55
+date: 2022-08-11 08:35:54
 image: 'https://m.media-amazon.com/images/I/41wbu13dCVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B09LVG58VX/?tag=tolees-21'
 descuento: '29.98'
-average: '287.607096774194'
+average: '287.3690625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UNA RED UNIFICADA MESH- Varias cajas forman una red doméstica completa que selecciona automáticamente la mejor conexión cuando se mueve por la cas
 - WIFI 6 CONEXIONES MÁS RÁPIDAS - El WiFi 6 acelera hasta 3000 Mbps - 2.402 Mbps a 5 GHz y 574 Mbps a 2,4 GHz. Además dispone un ancho de banda en 160MHz para conexiones inalámbricas más rápidas
+- UNA RED UNIFICADA MESH- Varias cajas forman una red doméstica completa que selecciona automáticamente la mejor conexión cuando se mueve por la cas
 - VELOCIDAD GIGABIT ETHERNET - Hay 3 puertos Gigabit 10/100/1000 Mbps por unidad para conexiones por cable
-- CONFIGURACIÓN SENCILLA - Puedes configurar todo desde la aplicación Deco que te guía paso a paso en la configuración.
 - SEGURIDAD TOTAL - Con cifrado WPA3 y TP-Link HomeCare ofrecen funciones personalizadas, como control parental, antivirus y calidad de servicio (QoS) para garantizar una experiencia online más segura.
+- CONFIGURACIÓN SENCILLA - Puedes configurar todo desde la aplicación Deco que te guía paso a paso en la configuración.
 - CONECTE MÁS DISPOSITIVOS - La tecnología OFDMA y la capacidad de cuatro núcleos MU-MIMO para permitir la transmisión simultánea hasta 150 dispositivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
