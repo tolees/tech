@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tapa superior de goma para un agarre firme
 - Parte superior completamente iluminada; botón de selección de velocidad (800/1400/2000 PPP)
+- Rango inalámbrico de hasta 10 m; microreceptor usb de fácil almacenamiento
 - Factor de forma ambidiestro
 - 6 botones de respuesta
-- Tapa superior de goma para un agarre firme
-- Rango inalámbrico de hasta 10 m; microreceptor usb de fácil almacenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
