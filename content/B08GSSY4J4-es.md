@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máximo ancho de banda y tiempo de respuesta ajustado: optimizados para un rendimiento superior en las últimas placas base Intel y AMD DDR4.
 - Memoria filtrada estrictamente: CI cuidadosamente filtrados para un mayor potencial de overclocking.
 - Software de nueva generación: toma el control del software Corsair iCUE y sincroniza la iluminación con otros productos Corsair RGB, incluidos refrigeradores de CPU, teclados y ventiladores.
-- PCB de rendimiento personalizado: proporciona la mejor calidad de señal para el más alto nivel de rendimiento y estabilidad.
 - Ventilador incluido - No
+- PCB de rendimiento personalizado: proporciona la mejor calidad de señal para el más alto nivel de rendimiento y estabilidad.
+- Máximo ancho de banda y tiempo de respuesta ajustado: optimizados para un rendimiento superior en las últimas placas base Intel y AMD DDR4.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

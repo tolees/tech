@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi AC-M6-SC Air Purifier 3H UE  32.1 dB  38W  Blanco'
-date: 2022-08-05 16:57:30
+date: 2022-08-11 18:22:14
 image: 'https://m.media-amazon.com/images/I/41ysvyQoUuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07ZV7BDXZ/?tag=tolees-21'
 descuento: '19.70'
-average: '151.480726817044'
+average: '151.501525000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
