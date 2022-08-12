@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
-- Sistema operativo Windows 10 pro
-- Tarjeta gráfica Integrated Intel UHD Graphics
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Memoria RAM de 8GB (1x 8GB SO-DIMM DDR4-2666)
+- Sistema operativo Windows 10 pro
+- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
+- Tarjeta gráfica Integrated Intel UHD Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
