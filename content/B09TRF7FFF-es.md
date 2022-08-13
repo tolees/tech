@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin Sistema Operativo
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 6800H (8C/OctaCore 3.2 / 4.7GHz, 20MB)
 - Pantalla de 15.6" Wide Quad HD 2560 x 1440 pixeles, 165Hz, IPS 300 nits
 - Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
-- Procesador AMD Ryzen 7 6800H (8C/OctaCore 3.2 / 4.7GHz, 20MB)
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

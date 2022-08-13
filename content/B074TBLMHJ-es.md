@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Equipado de cuatro ruedas resistentes para mover la es-tación de trabajo fácilmente en todas las direcciones; el mecanismo de bloqueo incorporado permite que el carrito sea estacionario o móvil cuando se desee.
 - El marco de acero de alta calidad con la capa del polvo asegura durabilidad y estabilidad; los pies traseros de perfil bajo ayudan a colocar la estación de trabajo cerca de la pare.
-- Dos plataformas espaciosas – la plataforma superior (ca-pacidad de carga máx. de 20 kg) es ideal para portátiles, libros, notas de conferencia, etc., mientras que el estante inferior (capacidad de carga máx. de 10 kg) acomoda ac-cesorios pequeños tales como vasos, tazas, bolígrafos etc.
-- Multifunción - ideal para el uso como escritorio de oficina portable del ordenador y también puede ser utilizado como podium del altavoz.
+- Equipado de cuatro ruedas resistentes para mover la es-tación de trabajo fácilmente en todas las direcciones; el mecanismo de bloqueo incorporado permite que el carrito sea estacionario o móvil cuando se desee.
 - Altura regulable de 1030mm a 1250mm, convirtiendo de sentado a posición de pie para mejorar la ergonomía; la plataforma superior cuenta con inclinación de 0-40 grados.
+- Multifunción - ideal para el uso como escritorio de oficina portable del ordenador y también puede ser utilizado como podium del altavoz.
+- Dos plataformas espaciosas – la plataforma superior (ca-pacidad de carga máx. de 20 kg) es ideal para portátiles, libros, notas de conferencia, etc., mientras que el estante inferior (capacidad de carga máx. de 10 kg) acomoda ac-cesorios pequeños tales como vasos, tazas, bolígrafos etc.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
