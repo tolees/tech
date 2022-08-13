@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Dash F15 FX517ZM - Ordenador Portátil Gaming de 15.6" Full HD 144Hz  Intel Core i7-12650H  16GB RAM  512GB SSD  NVIDIA RTX 3060-6GB  Sin Sistema Operativo  Negro - Teclado QWERTY español'
-date: 2022-08-04 12:21:41
+date: 2022-08-13 16:40:50
 image: 'https://m.media-amazon.com/images/I/31srASREOqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09VLYBKFR/?tag=tolees-21'
 descuento: '29.43'
-average: '1299.0'
+average: '1282.33333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Procesador Intel Core i7-12650H (10C/DecaCore 24MB)
-- Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
+- Sin Sistema Operativo
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 
 [🛒 Comprar!!!]({{< param buyurl >}})
