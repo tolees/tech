@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Triangle Strategy'
-date: 2022-08-11 09:34:00
+date: 2022-08-13 10:21:12
 image: 'https://m.media-amazon.com/images/I/41UXpFP-ztL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPYXVR/?tag=tolees-21'
 descuento: '28.23'
-average: '50.3088524590164'
+average: '50.1908064516129'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
