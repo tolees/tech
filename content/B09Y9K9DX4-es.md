@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Legion 5 Gen 6 - Ordenador Portátil Gaming 15.6" WQHD 165Hz  AMD Ryzen 7 5800H  16GB RAM  1TB SSD  NVIDIA GeForce RTX 3070-8GB  Sin Sistema Operativo  Azul/Negro - Teclado QWERTY Español'
-date: 2022-07-31 10:25:49
+date: 2022-08-14 21:32:34
 image: 'https://m.media-amazon.com/images/I/41RV51oJCxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Sin sistema operativo
-- Almacenamiento de 1TB SSD
-- Procesador AMD Ryzen 7 5800H (8C / 16T, 3.2 / 4.4GHz)
 - Tarjeta gráfica NVIDIA GeForce RTX 3070 8GB GDDR6
+- Sin sistema operativo
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
+- model_year: 2022
+- Memoria RAM de 16GB (2x 8GB SO-DI mm DDR4-3200)
+- Almacenamiento de 1TB SSD
+- Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
