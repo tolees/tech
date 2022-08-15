@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Classic Games: Aladdin and The Lion King  PlayStation 4'
-date: 2022-08-12 06:14:46
+date: 2022-08-15 07:01:40
 image: 'https://m.media-amazon.com/images/I/514rJCi0N5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07X4HX2TQ-es Disney Classic Games: Aladdin and The Lion King PlayStation 4'
 sku: 'B07X4HX2TQ-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','disney','playstation','🇪🇸', ]
-actualPrice: 13.0 EUR
+actualPrice: 19.9 EUR
 currency: EUR
-price: 13.0
+price: 19.9
 comparePrice: 34.99 EUR
 prodname: 'Disney Classic Games: Aladdin and The Lion King  PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07X4HX2TQ/?tag=tolees-21'
-descuento: '62.85'
-average: '22.2032673267327'
+descuento: '43.13'
+average: '22.1806862745098'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
