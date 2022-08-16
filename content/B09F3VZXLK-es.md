@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad E15 - Ordenador Portátil 15.6" FullHD  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Pro   Última Versión  Color Negro - Teclado QWERTY Español'
-date: 2022-08-12 11:04:11
+date: 2022-08-16 17:28:41
 image: 'https://m.media-amazon.com/images/I/31vQILaCCWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Informática','Portátiles','lenovo','ordenador','ram','teclado','🇪�
 actualPrice: 579.0 EUR
 currency: EUR
 price: 579.0
-comparePrice: 788.72 EUR
+comparePrice: 799.99 EUR
 prodname: 'Lenovo ThinkPad E15 - Ordenador Portátil 15.6" FullHD  Intel Core i5-10210U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Pro   Última Versión  Color Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09F3VZXLK/?tag=tolees-21'
-descuento: '26.59'
-average: '727.534545454544'
+descuento: '27.62'
+average: '721.076521739129'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tarjeta gráfica Integrated Intel UHD Graphics
+- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
+- Memoria RAM de 8GB (1x 8GB SO-DIMM DDR4-2666)
 - Procesador Intel Core i5-10210U (4C / 8T, 1.6 / 4.2GHz, 6MB)
 - Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
-- Memoria RAM de 8GB (1x 8GB SO-DIMM DDR4-2666)
 - Sistema operativo Windows 10 pro
-- Pantalla de 15.6" FHD (1920x1080) IPS 250nits Anti-glare
-- Tarjeta gráfica Integrated Intel UHD Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mezclador de audio para la Nintendo Switch Online App
-- Licencia oficial de Nintendo
-- Controlador de micro y volumen
-- Tapones de silicona en 3 tamaños distintos
 - Doble micrófono: flexible y extraíble y también en el cable
+- Tapones de silicona en 3 tamaños distintos
+- Controlador de micro y volumen
+- Licencia oficial de Nintendo
+- Mezclador de audio para la Nintendo Switch Online App
 
 [🛒 Aquí!!!]({{< param buyurl >}})
