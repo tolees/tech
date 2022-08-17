@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 8GB DDR4-SDRAM
-- Pantalla de 15.6" FullHD (1920x1080)
 - Gráficos Intel Iris Plus 650
 - Sistema Operativo: Windows 10
-- Almacenamiento de 256GB SSD
+- Pantalla de 15.6" FullHD (1920x1080)
 - Procesador Intel Core i7-7567U (3.5GHz)
+- Almacenamiento de 256GB SSD
+- Memoria RAM de 8GB DDR4-SDRAM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
