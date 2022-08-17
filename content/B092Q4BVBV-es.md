@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Programación & Temporizador: Puede configurar la hora de encendido o apagado en Meross APP según sus necesidades, de modo que pueda encenderla y apagarla automáticamente cuando se vaya o regrese. Se admiten los ajustes de salida y puesta del sol.
 - Fácil de usar e instalar: Todo lo que necesita hacer es configurar su enchufe inteligente con red Wi-Fi 2.4GHz, No 5GHz, conectar y registrar los dispositivos. Puede usar un teléfono inteligente para controlar múltiples dispositivos.
+- Monitoreo de Consumo: Datos de consumo de electricidad registrados automáticamente al funcionar este enchufe inteligente alexa debido que la aplicación Meross que registrar los datos del enchufe wifi y puede leer las lecturas del consumo.
+- Programación & Temporizador: Puede configurar la hora de encendido o apagado en Meross APP según sus necesidades, de modo que pueda encenderla y apagarla automáticamente cuando se vaya o regrese. Se admiten los ajustes de salida y puesta del sol.
 - Control por Voz: A travès del control por voz, el enchufe inteligente le permite controlar por voz sus luces, ventiladores, cafeteras y más. El enchufes inteligentes es compatible con Alexa , Google Assistant y Meross App.
 - Control remoto: Use la aplicación para controlar su hogar desde cualquier lugar con una tableta o teléfono inteligente, y puede controlar tantos enchufes inteligentes como necesite.
-- Monitoreo de Consumo: Datos de consumo de electricidad registrados automáticamente al funcionar este enchufe inteligente alexa debido que la aplicación Meross que registrar los datos del enchufe wifi y puede leer las lecturas del consumo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
