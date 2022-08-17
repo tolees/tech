@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming F15 FX506LHB - Ordenador Portátil Gaming de 15.6" Full HD  Intel Core i5-10300H  16GB RAM  512GB SSD  NVIDIA GTX1650-4GB  Sin Sistema Operativo  Color Negro - QWERTY español'
-date: 2022-08-14 22:07:03
+date: 2022-08-17 11:23:36
 image: 'https://m.media-amazon.com/images/I/51dTXgy1NCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Memoria RAM de 16GB SO-DIMM DDR4 2933MHz
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Procesador Intel Core i5-10300H (4C/QuadCore 2.5 / 4.5GHz, 8MB)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 
 [🛒 Aquí!!!]({{< param buyurl >}})
