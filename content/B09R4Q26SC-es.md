@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Desktop M01-F1109ns - Ordenador de Sobremesa  AMD Ryzen 5 4600G  16 GB DDR4-SDRAM  512 GB SSD  Gráficos AMD Radeon  Windows 11 Home   Negro'
-date: 2022-08-16 14:49:00
+date: 2022-08-17 16:00:01
 image: 'https://m.media-amazon.com/images/I/41Y7DKyixlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puertos: 4 x UBS 2.0, 1 x VGA, 1 x HDMI, 1 x Ethernet LAN (RJ-45)
+- Gráficos AMD Radeon
+- Procesador AMD Ryzen 5 4600G (frecuencia base de 3,7 GHz, hasta 4,2 GHz de frecuencia máxima, 8 MB de caché L3, 6 núcleos)
 - Almacenamiento de disco duro PCI Express, NVMe de 512 GB SSD y memoria RAM DDR4-SDRAM 3200 MHz de 16 GB (2 x 8 GB)
 - Sistema operativo Windows 11 Home
-- Procesador AMD Ryzen 5 4600G (frecuencia base de 3,7 GHz, hasta 4,2 GHz de frecuencia máxima, 8 MB de caché L3, 6 núcleos)
-- Gráficos AMD Radeon
-- Puertos: 4 x UBS 2.0, 1 x VGA, 1 x HDMI, 1 x Ethernet LAN (RJ-45)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
