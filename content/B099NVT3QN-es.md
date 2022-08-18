@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0 NVMe
 - Procesador Intel Core i3-10100T (4C / 8T, 3.0 / 3.8GHz, 6MB)
 - Pantalla de 23.8 pulgadas Full HD con resolución 1920 x 1080, IPS, 250nits
-- Memoria RAM de 2x 4GB SO-DIMM DDR4-2666, ampliable hasta 16GB
-- Sistema operativo: Windows 10 Home
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0 NVMe
+- Sistema operativo: Windows 10 Home
+- Memoria RAM de 2x 4GB SO-DIMM DDR4-2666, ampliable hasta 16GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
