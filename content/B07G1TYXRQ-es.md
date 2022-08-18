@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con XBX
 - Plantronics rig 300 hx,e+a 211835-05 plantronics rig 300 hx, consola de juegos, binaural, diadema, negro, alámbrico, 1,3 m
+- Compatible con XBX
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
