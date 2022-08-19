@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Redmi Watch 2 Lite  Black '
-date: 2022-08-13 13:05:24
+date: 2022-08-19 17:39:17
 image: 'https://m.media-amazon.com/images/I/31UW3bAzzYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09LHFW2NL-es Xiaomi - Redmi Watch 2 Lite Black'
 sku: 'B09LHFW2NL-es'
 tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','xiaomi','🇪🇸', ]
-actualPrice: 59.0 EUR
+actualPrice: 58.74 EUR
 currency: EUR
-price: 59.0
+price: 58.74
 comparePrice: 69.99 EUR
 prodname: 'Xiaomi - Redmi Watch 2 Lite  Black '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09LHFW2NL/?tag=tolees-21'
-descuento: '15.70'
-average: '59.4675862068966'
+descuento: '16.07'
+average: '59.4433333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
