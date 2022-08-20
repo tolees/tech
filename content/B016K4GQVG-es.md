@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti Networks - Ubiquiti UAP-AC-LITE - Punto de acceso dual radio  Blanco'
-date: 2022-08-17 06:27:27
+date: 2022-08-20 09:25:13
 image: 'https://m.media-amazon.com/images/I/21f+Fg5KTeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubiquiti Networks'
 buyurl: 'https://www.amazon.es/dp/B016K4GQVG/?tag=tolees-21'
 descuento: '18.48'
-average: '83.9345505617976'
+average: '84.0003910614524'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
+- BLANCO
 - Punto +F16408:I16426de acceso
 - Wi-Fi estándares 802.11 a / b / g / n / ac
-- BLANCO
+- Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
 
 [🛒 Comprar!!!]({{< param buyurl >}})
