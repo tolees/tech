@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MI XIAOMI - Xiaomi Redmi 10 2022 Smartphone 6.5" FHD + DotDisplay  MediaTek Helio G88  AI Quad cámara  4 GB + 128 GB  Azul Marino '
-date: 2022-08-19 10:48:31
+date: 2022-08-20 14:31:35
 image: 'https://m.media-amazon.com/images/I/41Zcij+zaBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MI XIAOMI'
 buyurl: 'https://www.amazon.es/dp/B09ZQG19RW/?tag=tolees-21'
 descuento: '17.85'
-average: '173.993333333333'
+average: '172.495'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - redmi
+- redmi 10 2022
 - redimi 10
 - xiaomi redmi 2022
-- redmi 10 2022
 
 [🛒 Comprar!!!]({{< param buyurl >}})

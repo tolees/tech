@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD BLACK - Western Digital P10 Game Drive disco duro externo 2000 GB Negro'
-date: 2022-08-19 07:26:27
+date: 2022-08-20 16:01:43
 image: 'https://m.media-amazon.com/images/I/41AuuZORDgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WD BLACK'
 buyurl: 'https://www.amazon.es/dp/B07VMTNDMK/?tag=tolees-21'
 descuento: '30.42'
-average: '80.3367857142857'
+average: '79.9458620689655'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Hdd de alto rendimiento para optimizar tu experiencia de juego en consola o pc y dar impulso a tus juegos
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black de manera que puedas jugar sin límites
-- Hasta 5.tb de capacidad que pueden guardar hasta 125 juegos, de manera que podrás guardar tus favoritos antiguos y todavía te quedará espacio para juegos nuevos
 - Formato portátil y duradero que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
+- Hasta 5.tb de capacidad que pueden guardar hasta 125 juegos, de manera que podrás guardar tus favoritos antiguos y todavía te quedará espacio para juegos nuevos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
