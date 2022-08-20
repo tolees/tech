@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AMD Ryzen 5 5500U
 - 16GB DDR4 Memory
-- Aspire 5
-- 15.6" FHD
 - 1024GB PCIe NVMe SSD
+- AMD Ryzen 5 5500U
+- 15.6" FHD
+- Aspire 5
 
 [🛒 Comprar!!!]({{< param buyurl >}})
