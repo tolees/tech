@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TRIPLE SISTEMA DE CONEXIÓN: El teclado premium MKCLOUD dispone de 3 modos de conexión; 2.4GPRO para gaming inalámbrico, Bluetooth 5.0 multiplataforma y conector USB-C a USB-A extraíble para máximo rendimiento
-- ILUMINACIÓN FULL RGB CHROMA: Su sistema de iluminación LED RGB ofrece hasta 16.8 millones de colores gracias a su software de control; Elige entre 21 efectos especiales y perfiles personalizables gracias al teclado MKCLOUD para diseñar la iluminación a tu gusto
-- EXCLUSIVO TAMAÑO ULTRA-COMPACTO 75%: Teclado mecánico con formato ultra-compacto 75%; Optimiza al máximo tu escritorio y transporta tu teclado MKCLOUD cómodamente donde quieras; Teclado con idioma en Español + US
 - RUEDA Y BOTONES DE CONTROL: Una rueda y botones de control para ajustar la iluminación y el sistema multimedia del teclado gaming con total comodidad
 - SWITCHES MECÁNICOS ANTIPOLVO OUTEMU SQ PRO: Precisión total, fiabilidad profesional y protección máxima de la entrada de elementos externos como el polvo en tu teclado RGB Chroma
+- TRIPLE SISTEMA DE CONEXIÓN: El teclado premium MKCLOUD dispone de 3 modos de conexión; 2.4GPRO para gaming inalámbrico, Bluetooth 5.0 multiplataforma y conector USB-C a USB-A extraíble para máximo rendimiento
+- EXCLUSIVO TAMAÑO ULTRA-COMPACTO 75%: Teclado mecánico con formato ultra-compacto 75%; Optimiza al máximo tu escritorio y transporta tu teclado MKCLOUD cómodamente donde quieras; Teclado con idioma en Español + US
+- ILUMINACIÓN FULL RGB CHROMA: Su sistema de iluminación LED RGB ofrece hasta 16.8 millones de colores gracias a su software de control; Elige entre 21 efectos especiales y perfiles personalizables gracias al teclado MKCLOUD para diseñar la iluminación a tu gusto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
