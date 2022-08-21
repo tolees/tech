@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NZKEEYZI - Auriculares Bluetooth 5.3  Auriculares Inalambricos con HiFi Estéreo  Altavoz de 13 mm  HD Mics  Reproducción de 45Horas  Cascos Inalámbricos Impermeable IPX7  Auriculares Deportivos  Blanco'
-date: 2022-08-19 18:26:46
+date: 2022-08-21 13:34:32
 image: 'https://m.media-amazon.com/images/I/21RT-a4bNaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NZKEEYZI'
 buyurl: 'https://www.amazon.es/dp/B09WMZYV93/?tag=tolees-21'
 descuento: '50.01'
-average: '27.89'
+average: '27.7288888888889'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
