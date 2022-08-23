@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY CS3040 Gen4 2 TB - NVMe - M.2 2280 - 3D Flash Memory - hasta 5600 MB/s lectura - hasta 4300 MB/s escritura'
-date: 2022-08-22 19:02:27
+date: 2022-08-23 19:33:27
 image: 'https://m.media-amazon.com/images/I/41Fy73oMMdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
