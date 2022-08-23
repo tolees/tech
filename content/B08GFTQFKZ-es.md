@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9AT 32GB Dual Sim Granite Gris'
-date: 2022-08-15 18:21:57
+date: 2022-08-23 18:39:28
 image: 'https://m.media-amazon.com/images/I/41PsJiAH-uS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GFTQFKZ-es Xiaomi Redmi 9AT 32GB Dual Sim Granite Gris'
 sku: 'B08GFTQFKZ-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','xiaomi','🇪🇸', ]
-actualPrice: 99.0 EUR
+actualPrice: 98.99 EUR
 currency: EUR
-price: 99.0
+price: 98.99
 comparePrice: 126.92 EUR
 prodname: 'Xiaomi Redmi 9AT 32GB Dual Sim Granite Gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08GFTQFKZ/?tag=tolees-21'
-descuento: '22.00'
-average: '100.674324324325'
+descuento: '22.01'
+average: '100.630000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
