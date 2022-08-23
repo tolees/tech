@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Velocidades de lectura/escritura irracionalmente altas de hasta 7000/5300 MB/s (modelo de 1 TB) y hasta 1 000 000 IOPS (modelos de 1 TB y 2 TB)
-- Tecnología PCIe Gen. 4 de última generación optimizada para juegos de alto nivel (no pensada para entornos NAS o de servidores)
-- Software del panel de control WD_BLACK descargable para personalizar y controlar tu experiencia de juego
-- Requiere el software de sistema de PS5 versión 21.02-04.00.00 o mayor
 - Elegante modelo de disipador térmico que minimiza el estrangulamiento térmico e impulsa los límites del rendimiento para juegos de alto nivel
 - Hasta 2 TB de capacidad para que tengas tus juegos favoritos listos para la batalla
+- Software del panel de control WD_BLACK descargable para personalizar y controlar tu experiencia de juego
+- Tecnología PCIe Gen. 4 de última generación optimizada para juegos de alto nivel (no pensada para entornos NAS o de servidores)
+- Requiere el software de sistema de PS5 versión 21.02-04.00.00 o mayor
+- Velocidades de lectura/escritura irracionalmente altas de hasta 7000/5300 MB/s (modelo de 1 TB) y hasta 1 000 000 IOPS (modelos de 1 TB y 2 TB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
