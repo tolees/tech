@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
-- Almacenamiento de 512GB SSD M.2 2242 NVMe
 - Sistema operativo: Windows 10 Home en modo S
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 250nits
+- Actualización gratuita a Windows 11 cuando esté disponible. El plan de lanzamiento de la actualización se está finalizando y está programado para comenzar a finales de 2021 y continuar durante 2022. Los tiempos específicos variarán según el dispositivo.
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
 - Tarjeta gráfica Integrada Intel Iris Xe Graphics
+- Almacenamiento de 512GB SSD M.2 2242 NVMe
 - Procesador Intel Core i7-1165G7 (4C/8T, 4.7GHz, 12 MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
