@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple EarPods con Conector Lightning'
-date: 2022-08-19 09:03:40
+date: 2022-08-25 18:29:55
 image: 'https://m.media-amazon.com/images/I/114eXbh-l5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B01M1EEPOB/?tag=tolees-21'
 descuento: '15.89'
-average: '17.9855000000003'
+average: '17.971276595745'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñados por Apple
 - Responde y cuelga llamadas
 - Controla la reproducción de música y vídeo
-- Mayor protección contra el agua y el sudor
 - Bajos más profundos y con más matices
+- Diseñados por Apple
+- Mayor protección contra el agua y el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
