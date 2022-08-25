@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Imagen subacuática de Súper Calidad: Con la carcasa impermeable, puede tomar/grabar el maravilloso mundo submarino hasta 30 metros. Al activar el modo de inmersión, puede filtrar la luz roja debajo del agua. Ya no es necesario comprar un filtro rojo para esta cámara acuática.
-- Gran Ángulo Cambiable & Distorsión de Imagen Mejorado: Puede ajustar el ángulo de visión de V50 PRO cámara deportiva según sus necesidades entre Súper ancho, Ancho, Medio y Estrecho. V50 PRO cámara acuática también tiene la función de corrección de imagen, que ofrece mejoras de distorsión de imagen.
 - Verdadera 4K: Esta cámara deportiva tiene NATIVO 4K. O sea, esta cámara puede grabar los videos con más alta calidad entre la familia de 4K cámaras tradicionales.
+- Imagen subacuática de Súper Calidad: Con la carcasa impermeable, puede tomar/grabar el maravilloso mundo submarino hasta 30 metros. Al activar el modo de inmersión, puede filtrar la luz roja debajo del agua. Ya no es necesario comprar un filtro rojo para esta cámara acuática.
 - Pantalla Táctil Sensible&Control Remoto Avanzado&Micrófono Eterno: AKASO V50 PRO es más inteligente y fácil con la pantalla táctil. Cuando usa la cámara en la funda, puede controlarla a través del control remoto. Por supuesto, en lugar de usar la pantalla táctil, viene con bottones para controlarla. Además, en comparación con el remoto antiguo, esto avanzado remoto está diseñado con el botón de encender / apagar la cámara.Micrófono externo te hace poder conectar el micrófono al V50 pro cámara
+- Gran Ángulo Cambiable & Distorsión de Imagen Mejorado: Puede ajustar el ángulo de visión de V50 PRO cámara deportiva según sus necesidades entre Súper ancho, Ancho, Medio y Estrecho. V50 PRO cámara acuática también tiene la función de corrección de imagen, que ofrece mejoras de distorsión de imagen.
 - Garantía de 12 meses & la APP: Garantía limitada de 12 meses desde la fecha de compra. iSmart Pro+ es para conectar la cámara deportiva a su tablet o smartphone.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
