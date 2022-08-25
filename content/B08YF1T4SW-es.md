@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potencia (W): 5.0 watts
-- Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
 - Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
-- Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
 - El SRS-XB13 es compacto, ligero y fácil de transportar, y cuenta con una cómoda correa desmontable para llevar o colgar tu altavoz inalámbrico donde quieras; disponible en 6 divertidos colores
+- Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
 - Llévalo a cualquier parte sin preocupaciones; este altavoz portátil es resistente al agua y al polvo (IP67) y tiene hasta 16 horas de autonomía
+- Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
+- Potencia (W): 5.0 watts
 
 [🛒 Comprar!!!]({{< param buyurl >}})
