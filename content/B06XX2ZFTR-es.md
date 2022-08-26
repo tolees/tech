@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair K63 - Teclado mecánico Gaming  Cherry MX Red  retroiluminación LED roja  QWERTY Español   Negro  36.05 x 4.09 x 17.09 cm'
-date: 2022-08-22 21:06:08
+date: 2022-08-26 06:45:54
 image: 'https://m.media-amazon.com/images/I/41h2IeK3d4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B06XX2ZFTR/?tag=tolees-21'
 descuento: '22.22'
-average: '70.6219230769231'
+average: '70.5985185185185'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La retroiluminación LED roja en cada tecla y las fuentes de gran tamaño ofrecen efectos de iluminación intensos
 - Controles específicos multimedia y de volumen para ajustar el sonido sin tener que interrumpir el juego
 - La protección contra pulsaciones nulas con detección simultánea de teclas garantiza que los comandos y las pulsaciones simultáneas siempre quedarán registrados según lo esperado
+- La retroiluminación LED roja en cada tecla y las fuentes de gran tamaño ofrecen efectos de iluminación intensos
 - QWERTY Español
-- Tecnología de conectividad: alámbrico
 - Interruptores mecánicos 100 % Cherry MX Red con contactos dorados para pulsaciones de teclas rápidas y precisas
 - Diseño compacto sin teclado numérico para optimizar el espacio de la mesa y la movilidad
+- Tecnología de conectividad: alámbrico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
