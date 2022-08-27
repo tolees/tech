@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
+- Sensor gamer óptico PixArt de 3200 Dpi
 - Cable extra largo de 2 metros
+- Sistemas operativos compatibles: Windows 7 Windows 8 Windows 10
 - Dimensiones mínimas 125 x 75 x 40,5 mm y peso: 0,12 kg
 - Iluminaci0on personalizada con 12 modos distintos
-- Sensor gamer óptico PixArt de 3200 Dpi
-- Sistemas operativos compatibles: Windows 7 Windows 8 Windows 10
-- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
