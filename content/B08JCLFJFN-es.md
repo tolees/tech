@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Bip U Pro Smartwatch GPS 60+ Modos Deportivos 5 ATM Fitness Tracker Oxígeno en Sangre Frecuencia Monitor de sueño Alexa Voz Asisitante'
-date: 2022-08-23 13:31:57
+date: 2022-08-27 08:19:47
 image: 'https://m.media-amazon.com/images/I/41zeMOjXCSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08JCLFJFN/?tag=tolees-21'
 descuento: '31.47'
-average: '56.1282352941176'
+average: '55.8931428571428'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
