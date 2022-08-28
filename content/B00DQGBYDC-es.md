@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Memoria Flash USB 3.0 SanDisk Ultra de 64 GB  Velocidad de Lectura de hasta 130 MB/s  Color Negro'
+date: 2022-08-27 22:26:11
+image: 'https://m.media-amazon.com/images/I/31E0ncgo8rL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00DQGBYDC-es Memoria Flash USB 3.0 SanDisk Ultra de 64 GB Velocidad de...'
+sku: 'B00DQGBYDC-es'
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk','🇪🇸', ]
+actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
+comparePrice: 14.99 EUR
+prodname: 'Memoria Flash USB 3.0 SanDisk Ultra de 64 GB  Velocidad de Lectura de hasta 130 MB/s  Color Negro'
+country: 'es'
+flag: '🇪🇸'
+brand: 'SanDisk'
+buyurl: 'https://www.amazon.es/dp/B00DQGBYDC/?tag=tolees-21'
+descuento: '33.96'
+average: '8.70827586206895'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
+- Hasta 130 MB/s de velocidades de lectura
+- Transfiere una película completa en menos de 40 segundos
+- Hasta 10 veces más rápido que un USB 2.0 estándar
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
