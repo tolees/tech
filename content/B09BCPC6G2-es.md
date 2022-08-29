@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkCentre M900 Tiny Mini PC | Intel Core i7-6700T 2.8 Ghz | RAM 8 GB | SSD 240 GB | Display Port | Wifi | Windows 10 Pro  Reacondicionado '
-date: 2022-08-25 16:23:21
+date: 2022-08-29 08:30:28
 image: 'https://m.media-amazon.com/images/I/31xWnote07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09BCPC6G2/?tag=tolees-21'
 descuento: '32.72'
-average: '317.0'
+average: '296.333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
