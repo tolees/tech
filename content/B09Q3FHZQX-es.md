@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de procesador: Ryzen 7
-- Tamaño de pantalla: 15.6 pulgadas
 - Memoria total del sistema instalado: 16 GB
+- Tipo de procesador: Ryzen 7
 - Resolución de la pantalla: 1920 x 1080
+- Tamaño de pantalla: 15.6 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
