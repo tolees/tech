@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con Xbox Smart Delivery, juega a la mejor versión disponible de tu juego sea cual sea la consola que uses.
-- DirectX Raytraycing.
-- La Xbox más rápida y potente de la historia. Juega a miles de títulos de cuatro generaciones de consolas: todos los juegos tienen el mejor aspecto y se juegan mejor en Xbox Series X.
-- Disfruta de una velocidad y rendimiento de nueva generación con Xbox Velocity Architecture, impulsada por un SSD personalizado de 1TB y software integrado.
 - Juegos en auténtico 4K, preparados para 8K y hasta 120 FPS.
-- Variable Refresh Rate.
+- DirectX Raytraycing.
+- Disfruta de una velocidad y rendimiento de nueva generación con Xbox Velocity Architecture, impulsada por un SSD personalizado de 1TB y software integrado.
+- Con Xbox Smart Delivery, juega a la mejor versión disponible de tu juego sea cual sea la consola que uses.
 - 12 teraflops de potencia.
+- Variable Refresh Rate.
+- La Xbox más rápida y potente de la historia. Juega a miles de títulos de cuatro generaciones de consolas: todos los juegos tienen el mejor aspecto y se juegan mejor en Xbox Series X.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
