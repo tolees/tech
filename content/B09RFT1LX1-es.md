@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Resistente a los arañazos
-- Cuenta con sensor óptico de pulso y pulsioxímetro
 - Batería 230 mAh
 - Bluetooth 5.0
+- Cuenta con sensor óptico de pulso y pulsioxímetro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
