@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más de 24 horas, modo de batería de múltiples días ampliado **Según el uso y después de la instalación de actualizaciones; ** El cable USB con carga magnética se adhiere a las anillas de la parte trasera de la caja y permite un giro de 360 grados para facilitar su uso. En 60 minutos alcanza el 80 % de batería
 - Mantente conectado con notificaciones de llamadas, mensajes de texto, aplicaciones y sincronización automática de la hora, la zona horaria y el calendario; no pierdas nunca una llamada: responde y haz llamadas directamente con el reloj cuando no tengas el teléfono a mano
+- Más de 24 horas, modo de batería de múltiples días ampliado **Según el uso y después de la instalación de actualizaciones; ** El cable USB con carga magnética se adhiere a las anillas de la parte trasera de la caja y permite un giro de 360 grados para facilitar su uso. En 60 minutos alcanza el 80 % de batería
+- Hace un seguimiento automático de tus objetivos de actividad, pasos, sueño, frecuencia cardíaca, nivel cardiovascular y más; los modos de actividad con GPS conectado ofrecen información sobre la distancia y el trayecto; sus sensores avanzados proporcionan datos para todas tus aplicaciones de salud
 - Utiliza la aplicación wear os by google en un teléfono con android 6.0 o superior (excepto la edición go), o ios 12.0 o superior
 - Pantalla siempre activa con miles de esferas para personalizar tu estilo y ver siempre la hora; cientos de aplicaciones, desde asistentes hasta ejercicio, pagos, música, redes sociales, noticias, juegos, cronómetros y más; con un diseño apto para nadar, es adecuado para cualquier actividad
-- Hace un seguimiento automático de tus objetivos de actividad, pasos, sueño, frecuencia cardíaca, nivel cardiovascular y más; los modos de actividad con GPS conectado ofrecen información sobre la distancia y el trayecto; sus sensores avanzados proporcionan datos para todas tus aplicaciones de salud
 
 [🛒 Comprar!!!]({{< param buyurl >}})
