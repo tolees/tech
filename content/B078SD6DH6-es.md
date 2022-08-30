@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de respuesta de 5 milisegundos con OverDrive; elimina el movimiento borroso, parpadeo y desenfoque en vídeos y juegos
-- Contenido de la caja: Monitor; tarjeta de garantía; cable HDMI; cable de alimentación AC; adaptador de montaje VESA; documentación
-- Pantalla Full HD (1080p) de 81 cm (32 pulgadas) y una frecuencia de actualización de 60 Hz; pantalla con tecnología IPS con retroiluminación LED
 - Inclinación ajustable de -5° a +13°; ángulos de visión ultraamplios de 178°; montaje VESA 100 mm x 100 mm (soporte incluido)
 - Conecta fácilmente tus dispositivos con los puertos 1 x HDMI 2.0 (compatible con HDCP) y 1 x VGA
+- Contenido de la caja: Monitor; tarjeta de garantía; cable HDMI; cable de alimentación AC; adaptador de montaje VESA; documentación
+- Pantalla Full HD (1080p) de 81 cm (32 pulgadas) y una frecuencia de actualización de 60 Hz; pantalla con tecnología IPS con retroiluminación LED
+- Tiempo de respuesta de 5 milisegundos con OverDrive; elimina el movimiento borroso, parpadeo y desenfoque en vídeos y juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

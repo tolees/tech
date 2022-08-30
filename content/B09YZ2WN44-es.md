@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con medidor de consumo diario, mensual y anual, que te permite monitorizar y ahorrar energía en tu hogar
-- Base múltiple inteligente Wifi con interruptor y 4 enchufes Schuko, que permite controlar los dispositivos de tu casa forma eficiente y segura. Potencia máxima admitida de las tomas: 3680W
 - Cuenta con 2 puertos USBs tipo A con salida 2.4V y con un USB C y un USB 3.0 de carga rápida con salida PD20W/QC3.0 para cargar tus dispositivos en tiempo record
 - Crea automatizaciones y escenas y programa el encendido/apagado de los aparatos conectados a tu enchufe en función de la hora, el clima, un temporizador, una cuenta atrás...
+- Base múltiple inteligente Wifi con interruptor y 4 enchufes Schuko, que permite controlar los dispositivos de tu casa forma eficiente y segura. Potencia máxima admitida de las tomas: 3680W
+- Con medidor de consumo diario, mensual y anual, que te permite monitorizar y ahorrar energía en tu hogar
 - Gran separación entre enchufes para poder conectar enchufes voluminosos sin problema. Con opción de colgar en la pared
 
 [🛒 Comprar!!!]({{< param buyurl >}})
