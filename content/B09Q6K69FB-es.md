@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nokia G11 4/64GB con Sistema Android 11
-- Brand: Nokia
 - Tipo de conector: USB tipo c
 - Alta calidad
+- Nokia G11 4/64GB con Sistema Android 11
+- Brand: Nokia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
