@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Tab A8 - Tablet de 10.5”  32GB  Wifi  Android  Color Silver  Versión Española '
-date: 2022-08-22 20:53:28
+date: 2022-08-31 21:53:44
 image: 'https://m.media-amazon.com/images/I/41mCU90ibqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09MTV8FYZ-es Samsung Galaxy Tab A8 - Tablet de 10.5” 32GB Wifi Android...'
 sku: 'B09MTV8FYZ-es'
 tags: [ 'Informática','Tablets','galaxy','samsung','tablet','wifi','🇪🇸', ]
-actualPrice: 186.03 EUR
+actualPrice: 180.13 EUR
 currency: EUR
-price: 186.03
+price: 180.13
 comparePrice: 259.11 EUR
 prodname: 'Samsung Galaxy Tab A8 - Tablet de 10.5”  32GB  Wifi  Android  Color Silver  Versión Española '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09MTV8FYZ/?tag=tolees-21'
-descuento: '28.20'
-average: '190.984545454545'
+descuento: '30.48'
+average: '190.08'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

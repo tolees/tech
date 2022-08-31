@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Venu- Reloj inteligente  color negro  Medium'
-date: 2022-08-30 20:22:21
+date: 2022-08-31 21:18:16
 image: 'https://m.media-amazon.com/images/I/41chZGxa2YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Garmin'
 buyurl: 'https://www.amazon.es/dp/B07VXR4B2D/?tag=tolees-21'
 descuento: '46.05'
-average: '221.423846153846'
+average: '220.25'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
