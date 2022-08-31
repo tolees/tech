@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh'
-date: 2022-08-25 11:01:24
+date: 2022-08-31 10:58:36
 image: 'https://m.media-amazon.com/images/I/3107YpInvbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08MQ7JDZT-es Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip...'
 sku: 'B08MQ7JDZT-es'
 tags: [ 'Accesorios','Dispositivos de red','Informática','Routers','wifi','xiaomi','🇪🇸', ]
-actualPrice: 46.21 EUR
+actualPrice: 38.39 EUR
 currency: EUR
-price: 46.21
+price: 38.39
 comparePrice: 69.99 EUR
 prodname: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21'
-descuento: '33.98'
-average: '42.2951724137932'
+descuento: '45.15'
+average: '42.261794871795'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Velocidad de transferencia de datos: 1800 MB / s
-- Conexión confiable para hasta 128 dispositivos
-- Chip de 5 núcleos
 - 4 antenas externas
+- Chip de 5 núcleos
+- Conexión confiable para hasta 128 dispositivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
