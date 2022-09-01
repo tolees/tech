@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
-- Sistema Operativo: Android 12
 - Cámara frontal y trasera de 8 MP (RGB): la videollamada perfecta existe. Disfruta de vídeos exclusivos con un ruido de fondo silencioso.
+- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
+- Sistema Operativo: Android 12
 - Altavoces (4) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música.
+- Procesador MediaTek Helio G80 Octa-Core con una frecuencia principal de hasta 2.0 GHz
 - Memoria RAM de 4GB Soldered LPDDR4x (uMCP, DRAM); permite realizar múltiples tareas a la vez sin problema
 - Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac) y Bluetooth 5.0
-- Procesador MediaTek Helio G80 Octa-Core con una frecuencia principal de hasta 2.0 GHz
 - Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
+- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
 - Pantalla táctil IPS 2K de 26,92 cm (10,6"), 400nits; Transmite Netflix, Disney+ y otros servicios hasta en 1080p, la máxima resolución de vídeo disponible para dispositivos móviles. Compatible con el lápiz Lenovo Precision Pen 2 (no incluido).
-- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
