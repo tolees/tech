@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'realme Pad  WiFi Tablet  2K Display 10 4 Pulgadas WUXGA+  Quad Speakers Dolby  MTK Helio G80  Batería de 7100mAh  Quick Charge 18W  Cuerpo Metálico  6.9mm  Android11  4GB+64GB  up to 1TB Grey'
-date: 2022-08-21 16:57:19
+title: 'realme - Pad 4+64 wifi EU'
+date: 2022-09-02 09:28:15
 image: 'https://m.media-amazon.com/images/I/31bImf2cqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09JWFB273-es realme Pad WiFi Tablet 2K Display 10 4 Pulgadas WUXGA+...'
+slug: 'B09JWFB273-es realme - Pad 4+64 wifi EU'
 sku: 'B09JWFB273-es'
-tags: [ 'Informática','Tablets','realme','tablet','wifi','🇪🇸', ]
-actualPrice: 207.99 EUR
+tags: [ 'Informática','Tablets','realme','wifi','🇪🇸', ]
+actualPrice: 188.49 EUR
 currency: EUR
-price: 207.99
+price: 188.49
 comparePrice: 259.99 EUR
-prodname: 'realme Pad  WiFi Tablet  2K Display 10 4 Pulgadas WUXGA+  Quad Speakers Dolby  MTK Helio G80  Batería de 7100mAh  Quick Charge 18W  Cuerpo Metálico  6.9mm  Android11  4GB+64GB  up to 1TB Grey'
+prodname: 'realme - Pad 4+64 wifi EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09JWFB273/?tag=tolees-21'
-descuento: '20.00'
-average: '188.290405405407'
+descuento: '27.50'
+average: '188.53907894737'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La parte exterior metálica hace que sea fino y ligero para ofrecer una óptima portabilidad
 - El procesador Helio G80 de ocho núcleos de realme Pad alcanza velocidades de reloj de hasta 2.0 GHz
-- El modo Multi-Window puede hacer que dos aplicaciones se ejecuten simultáneamente
+- La parte exterior metálica hace que sea fino y ligero para ofrecer una óptima portabilidad
 - La batería de 7100 mAh ofrece una potencia suficiente para 65 días en espera o 12 horas seguidas de visualización de video
+- El modo Multi-Window puede hacer que dos aplicaciones se ejecuten simultáneamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
