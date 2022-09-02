@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare, 60Hz, DC dimmer
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
 - Almacenamiento de 512GB SSD
 - Procesador Intel Core i5-11320H (4C / 8T, 3.2 / 4.5GHz, 8MB)
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare, 60Hz, DC dimmer
 - Sin sistema operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
