@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Katana GF66 11UE-853XES - Ordenador portátil Gaming de 15.6" FHD 144Hz   Intel Core i7-11800H+HM570  16GB  8GB*2  RAM  1 TB SSD  RTX3060-6GB  sin sistema operativo  Negro - Teclado QWERTY Español'
-date: 2022-09-01 18:26:40
+date: 2022-09-02 20:33:12
 image: 'https://m.media-amazon.com/images/I/41JiRNR5AsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica RTX3060, GDDR6 6GB
 - Memoria RAM de 8GB*2 (3200MHz) DDR IV
 - Procesador Intel Core i7-11800H+HM570
-- Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
+- Tarjeta gráfica RTX3060, GDDR6 6GB
 - Sistema operativo Free DOS
+- Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
