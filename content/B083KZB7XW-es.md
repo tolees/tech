@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Dark Core RGB PRO SE  Ratón para Juegos Inalámbrico/Cable con Carga Inalámbrica Qi  Sensor Óptico de 18.000 PPP  Ocho Botones Programables  Retroiluminación Dinámica Multicolor  Negro'
-date: 2022-08-30 17:54:11
+date: 2022-09-03 12:13:52
 image: 'https://m.media-amazon.com/images/I/41cxixtxesL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21'
 descuento: '27.28'
-average: '79.1042857142858'
+average: '79.2150000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tres formas de conexión; tecnología Slipstream Wireless de menos de 1 ms, tecnología inalámbrica Bluetooth de baja latencia o cableado USB
-- Hasta 50 horas de autonomía; juegue durante días sin parar con el sistema inalámbrico con alimentación de batería, o con conexión mediante cable para seguir jugando mientras se carga
-- Peso (sin cables ni accesorios): 142 g
 - Tecnología de sondeo progresista; se comunica con el PC a un máximo de 2.000 Hz, el doble de la velocidad de los ratones para juegos estándar, lo que garantiza tiempos de respuesta rápidos
-- Carga inalámbrica Qi y USB-C; carga mediante un conector USB-C reversible o bien sin cables mediante cualquier dispositivo de carga compatible con Qi como la alfombrilla para ratón Corsair MM1000
+- Hasta 50 horas de autonomía; juegue durante días sin parar con el sistema inalámbrico con alimentación de batería, o con conexión mediante cable para seguir jugando mientras se carga
 - Sensor óptico de 18.000 ppp para sistemas inalámbricos; juegue con una exactitud y precisión milimétricas gracias a un sensor óptico PixArt PAW3392 personalizado, para un consumo de energía bajo
+- Tres formas de conexión; tecnología Slipstream Wireless de menos de 1 ms, tecnología inalámbrica Bluetooth de baja latencia o cableado USB
 - Ocho botones completamente programables; consiga una ventaja en el juego con ocho botones programables con macros y reasignaciones de botones personalizadas
+- Carga inalámbrica Qi y USB-C; carga mediante un conector USB-C reversible o bien sin cables mediante cualquier dispositivo de carga compatible con Qi como la alfombrilla para ratón Corsair MM1000
+- Peso (sin cables ni accesorios): 142 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})

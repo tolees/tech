@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS M515DA - Ordenador Portátil 15.6" HD  Ryzen 3 3250U  8GB RAM  256GB SSD  Radeon Graphics  Sin Sistema Operativo  Color Plata - Teclado QWERTY español'
-date: 2022-09-02 10:34:18
+date: 2022-09-03 12:14:43
 image: 'https://m.media-amazon.com/images/I/418RVSjMzuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09MJGDKCH/?tag=tolees-21'
 descuento: '24.32'
-average: '305.666666666667'
+average: '297.571428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB SO-DIMM DDR4
-- Procesador AMD Ryzen 3 3250U (2C/DualCore 2.6 / 3.5GHz, 4MB)
 - Almacenamiento de 256GB SSD M.2 NVMe PCIe
-- Sin Sistema Operativo
-- Pantalla de 15.6" HD 1366 x 768 pixeles
 - Tarjeta gráfica integrada AMD Radeon Graphics
+- Procesador AMD Ryzen 3 3250U (2C/DualCore 2.6 / 3.5GHz, 4MB)
+- Sin Sistema Operativo
+- Memoria RAM de 8GB SO-DIMM DDR4
+- Pantalla de 15.6" HD 1366 x 768 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
