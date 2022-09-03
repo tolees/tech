@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Chrome OS
-- Almacenamiento de 64GB eMMC
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles LCD 220 nits
-- Memoria RAM de 8GB SO-DIMM LPDDR4x
-- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
 - Tarjeta gráfica integrada Intel HD Graphics 500
+- Almacenamiento de 64GB eMMC
+- Memoria RAM de 8GB SO-DIMM LPDDR4x
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles LCD 220 nits
+- Procesador Intel Celeron N3350 (2C/DualCore 1.1GHz, 2MB)
+- Sistema Operativo: Chrome OS
 
 [🛒 Comprar!!!]({{< param buyurl >}})
