@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DIR-X1550 Router Gaming Wi-Fi 6 AX1500 Mbps  Control por Voz Alexa  Google Home  Seguridad WiFi WPA3  MU-MIMO  Dual-Band  Triple VLAN para operadores Fibra  3 LAN Gigabit  1 WAN Gigabit  Negro'
-date: 2022-09-01 01:46:32
+date: 2022-09-02 23:42:49
 image: 'https://m.media-amazon.com/images/I/41T+tjp2HuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
