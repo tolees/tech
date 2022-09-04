@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 Gen 6 - Ordenador Portátil 15.6" FullHD 60Hz  Intel Core i5-11320H  16GB RAM  512GB SSD  NVIDIA GeForce GTX 1650-4GB  Sin Sistema Operativo  Negro - Teclado QWERTY Español'
-date: 2022-09-02 14:04:15
+date: 2022-09-04 12:37:44
 image: 'https://m.media-amazon.com/images/I/31Uz2MhvG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 512GB SSD
-- Procesador Intel Core i5-11320H (4C / 8T, 3.2 / 4.5GHz, 8MB)
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare, 60Hz, DC dimmer
+- Procesador Intel Core i5-11320H (4C / 8T, 3.2 / 4.5GHz, 8MB)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Almacenamiento de 512GB SSD
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
 - Sin sistema operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
