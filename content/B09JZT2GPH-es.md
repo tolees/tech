@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 314 CB314-2H - Ordenador Portátil 14" Full HD  MTK MT8183  4GB RAM  64GB eMMc  ARM Mali-G72 MP3  Sistema operativo Chrome  Color Plata - Teclado Qwerty Español'
-date: 2022-08-31 15:15:38
+date: 2022-09-04 10:05:58
 image: 'https://m.media-amazon.com/images/I/41jPFg6LGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B09JZT2GPH/?tag=tolees-21'
 descuento: '15.08'
-average: '221.608695652174'
+average: '219.416666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gráfica ARM Mali-G72 MP3
+- Pantalla de 14" Full HD
 - Almacenamiento de 64GB eMMC
 - Sistema operativo Chrome
-- Memoria de 4GB RAM
 - Procesador MTK MT8183
-- Pantalla de 14" Full HD
+- Memoria de 4GB RAM
+- Gráfica ARM Mali-G72 MP3
 
 [🛒 Visítala!!!]({{< param buyurl >}})
