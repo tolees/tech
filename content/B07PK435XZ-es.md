@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ratón Gaming newskill atreo con Sensor óptico  6200 dpi   botón Lateral con función de Sniper e iluminación RGB.'
-date: 2022-08-31 19:15:41
+date: 2022-09-05 17:01:40
 image: 'https://m.media-amazon.com/images/I/31Vh7TGgNLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NEWSKILL'
 buyurl: 'https://www.amazon.es/dp/B07PK435XZ/?tag=tolees-21'
 descuento: '33.26'
-average: '17.4650000000001'
+average: '17.6945454545455'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aceleración máxima de 30 g
 - Ciclo de vida de clics de hasta 20 millones
-- Velocidad máxima 220 ips
 - Hasta 6200 dpi
 - Iluminación rgb (software incluido)
+- Velocidad máxima 220 ips
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
