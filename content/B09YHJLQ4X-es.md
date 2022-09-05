@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS55 Surround Auriculares para Juegos  Sonido Envolvente Dolby Audio 7.1 en PC y Mac  Micrófono omnidireccional  Compatibilidad Varias Plataformas  Control de Volumen de fácil Acceso  Carbón'
-date: 2022-09-03 21:39:07
+date: 2022-09-05 07:05:06
 image: 'https://m.media-amazon.com/images/I/31yY8MuC6WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
