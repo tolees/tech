@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con hasta 2100 ciclos de carga - para beneficiar al medio ambiente y a su bolsillo. El envase de alta calidad es reutilizable y está hecho de plástico reciclado, ideal como estuche de almacenamiento y transporte.
 - Las pilas eneloop tienen una autodescarga extremadamente baja y, por lo tanto, siempre están listas para usar. Incluso después de 10 años de almacenamiento, las pilas eneloop conservan hasta el 70% de la carga inicial.
-- Volumen de suministro: 8 uds. de pilas eneloop AA Mignon en un envase resistente y reutilizable hecho de plástico reciclado (estuche de almacenamiento)
 - Las pilas eneloop son de aplicación universal y son una buena alternativa a las pilas o baterías convencionales para todos los aparatos. Pueden recargarse con cargadores estándar de Ni-MH.
+- Con hasta 2100 ciclos de carga - para beneficiar al medio ambiente y a su bolsillo. El envase de alta calidad es reutilizable y está hecho de plástico reciclado, ideal como estuche de almacenamiento y transporte.
+- Volumen de suministro: 8 uds. de pilas eneloop AA Mignon en un envase resistente y reutilizable hecho de plástico reciclado (estuche de almacenamiento)
 - Las pilas eneloop están precargadas con energía solar y están listas para usar. Son ideales para aparatos de uso frecuente (aparatos de flash, juguetes, mandos para videojuegos, linternas, artículos de cuidado & salud...)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
