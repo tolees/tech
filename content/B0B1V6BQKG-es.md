@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Band 7  Pulsera De Actividad Con Pantalla Amoled 1 62 326 Ppp 110 Modos Deportivos Monitoreo Frecuenc Unisex Adulto  Negro'
-date: 2022-09-04 17:08:02
+date: 2022-09-07 07:35:30
 image: 'https://m.media-amazon.com/images/I/31f-Kq9f5BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B1V6BQKG-es Xiaomi Smart Band 7 Pulsera De Actividad Con Pantalla...'
 sku: 'B0B1V6BQKG-es'
 tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','xiaomi','🇪🇸', ]
-actualPrice: 48.53 EUR
+actualPrice: 47.78 EUR
 currency: EUR
-price: 48.53
+price: 47.78
 comparePrice: 59.99 EUR
 prodname: 'Xiaomi Smart Band 7  Pulsera De Actividad Con Pantalla Amoled 1 62 326 Ppp 110 Modos Deportivos Monitoreo Frecuenc Unisex Adulto  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0B1V6BQKG/?tag=tolees-21'
-descuento: '19.10'
-average: '52.9506666666666'
+descuento: '20.35'
+average: '52.6274999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
