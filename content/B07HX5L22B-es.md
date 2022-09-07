@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacene hasta 8. 5 gb en un dvd de doble capa, hasta 4. 7gb en un dvd estándar
-- Potencía proporcionada por el puerto usbno es necesario llevar un adaptador de alimentación voluminoso
 - Ideal para usar con notebook o ultrabook
+- Potencía proporcionada por el puerto usbno es necesario llevar un adaptador de alimentación voluminoso
 - Grabador de dvd móvil compacta y ligero
+- Almacene hasta 8. 5 gb en un dvd de doble capa, hasta 4. 7gb en un dvd estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
