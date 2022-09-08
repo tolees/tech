@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic Lumix DMC FZ1000 - Cámara Bridge de 20.1 MP  Sensor 1 pulgadas  zoom 16X  Estabilizador Óptico  Objetivo F2.8-F4 de 25- 400 mm  4K  WiFi   Color Negro'
-date: 2022-09-06 19:27:16
+date: 2022-09-07 21:51:58
 image: 'https://m.media-amazon.com/images/I/41Dp8XQ-r4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B00L4BLL3Y/?tag=tolees-21'
 descuento: '29.87'
-average: '513.178529411766'
+average: '515.546000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Wi-Fi y subida fácil: gracias a la conectividad Wi-Fi y al acceso directo a las redes sociales, podrás subir a Internet fácilmente para inspirar a tus seguidores con tus increíbles fotos de viajes.
+- Disparo Macro: capturara fotografías impresionantes a una mínima distancia de enfoque de 3 cm. Acércate lo suficiente para plasmar los detalles espectaculares.
 - Micrófono zoom estéreo: los vídeo grabados en 4K también cuentan con un sonido estéreo de calidad superior Dolby Digital de gran realismo.
-- Compacta aventurera: su cuerpo compacto no te engañe, diseñada con potentes funciones su calidad de imagen es excelente gracias su sensor de una pulgada y a su lente LEICA con zoom óptico 16x.
 - Imágenes llenas de energía: el objetivo LEICA DC VARIO-ELMARIT apertura F2.8-4.0 que resiste el desenfoque incluso en fotos con mucho zoom y un ángulo de gran angular de 25 mm y zoom óptico de 16x.
 - Gran velocidad de respuesta: la nueva tecnología DFD logra alcanzar una precisión superior y una velocidad en aprox. 0,08 segundos, un encendido de 0,7 segundos y un disparo de ráfaga de 12 fps.
-- Disparo Macro: capturara fotografías impresionantes a una mínima distancia de enfoque de 3 cm. Acércate lo suficiente para plasmar los detalles espectaculares.
+- Wi-Fi y subida fácil: gracias a la conectividad Wi-Fi y al acceso directo a las redes sociales, podrás subir a Internet fácilmente para inspirar a tus seguidores con tus increíbles fotos de viajes.
+- Compacta aventurera: su cuerpo compacto no te engañe, diseñada con potentes funciones su calidad de imagen es excelente gracias su sensor de una pulgada y a su lente LEICA con zoom óptico 16x.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
