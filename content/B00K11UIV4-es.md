@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca del producto: TP - Link
 - Doble banda 2.4 GHz / 5 GHz
 - Velocidad de transferencia de datos: 600 MB / s
 - Receptor WiFi para PC
+- Marca del producto: TP - Link
 
 [🛒 Comprar!!!]({{< param buyurl >}})
