@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
-- Memoria RAM de 12GB SO-DIMM DDR4
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 12GB SO-DIMM DDR4
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
 
 [🛒 Comprar!!!]({{< param buyurl >}})

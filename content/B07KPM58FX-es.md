@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Canvio Basics  Disco Duro  4TB  Negro'
-date: 2022-09-07 12:37:57
+date: 2022-09-08 13:52:57
 image: 'https://m.media-amazon.com/images/I/31XOEGIzKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07KPM58FX-es Toshiba Canvio Basics Disco Duro 4TB Negro'
 sku: 'B07KPM58FX-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','disco','duro','toshiba','🇪🇸', ]
-actualPrice: 79.5 EUR
+actualPrice: 79.0 EUR
 currency: EUR
-price: 79.5
+price: 79.0
 comparePrice: 115.63 EUR
 prodname: 'Toshiba Canvio Basics  Disco Duro  4TB  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Toshiba'
 buyurl: 'https://www.amazon.es/dp/B07KPM58FX/?tag=tolees-21'
-descuento: '31.25'
-average: '81.4116363636366'
+descuento: '31.68'
+average: '81.3685714285717'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Interfaz USB 3.0 (compatible con USB 2.0)
+- Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
 - Canvio basics 2.5 4TB black
 - Requisitos del sistema: NTFS formateado para Microsoft Windows 10, Windows 8.1, Windows 7 Requiere reformatear para Mac OS v10.12 / OS X v10.11 / v10.10 Puerto USB 2.0 o USB 3.0 disponible
-- Velocidad de transferencia de interfaz: hasta 5 Gbit / s (USB 3.0); hasta 480 Mbit / s (USB 2.0)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
