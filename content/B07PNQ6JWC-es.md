@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxesla Antena WiFi USB  AC 600Mbps Mini Adaptador WiFi USB Dual Band 2.4G/5GHz  Receptor WiFi USB para PC Desktop Laptop  USB WiFi Soporta Windows XP Vista 7 8 10/Mac OS X 10.9-10.14  Negro'
-date: 2022-09-07 03:37:31
+date: 2022-09-08 04:19:00
 image: 'https://m.media-amazon.com/images/I/31-ybUiDzqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maxesla'
 buyurl: 'https://www.amazon.es/dp/B07PNQ6JWC/?tag=tolees-21'
 descuento: '30.81'
-average: '9.88361111111111'
+average: '9.87810810810811'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
