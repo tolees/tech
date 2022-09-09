@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Almacenamiento de datos SSD PCIe NVMe TLC M.2 de 512 GB
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 - Gráficos Discreto: GPU de portátil NVIDIA GeForce RTX 3050 (GDDR6 de 4 GB dedicada)
-- Pantalla 40,9 cm (16,1") en diagonal, FHD (1920 x 1080), 144 Hz, tiempo de respuesta de 7 ms, IPS, microborde, antirreflectante, Low Blue Light, 300 nits, 100 % de sRGB
 - Procesador AMD Ryzen 7 5800H (aumento máximo del reloj de hasta 4,4 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
+- Pantalla 40,9 cm (16,1") en diagonal, FHD (1920 x 1080), 144 Hz, tiempo de respuesta de 7 ms, IPS, microborde, antirreflectante, Low Blue Light, 300 nits, 100 % de sRGB
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
