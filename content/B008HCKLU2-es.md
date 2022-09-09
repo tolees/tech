@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compatible con discos duros de 2.5"
 - Cierre con cremallera de plástico
 - Funda blanda portátil para discos duros
-- Cabe perfectamente en su cartera, su monedero o su bolso
-- Compatible con discos duros de 2.5"
 - Bolsillo interior para el cable USB
+- Cabe perfectamente en su cartera, su monedero o su bolso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
