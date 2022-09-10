@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI WiFi AX3 - Router Dual-core WiFi 6 Plus Revolution 3000 Mbps  Tecnología OFDMA multiusuario  hasta 128 dispositivos en doble banda  Color Blanco'
-date: 2022-09-09 11:09:41
+date: 2022-09-10 18:45:52
 image: 'https://m.media-amazon.com/images/I/21LadMckIlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08W2KLV45-es HUAWEI WiFi AX3 - Router Dual-core WiFi 6 Plus Revolution...'
 sku: 'B08W2KLV45-es'
 tags: [ 'Dispositivos de red','Informática','Routers','huawei','wifi','🇪🇸', ]
-actualPrice: 39.27 EUR
+actualPrice: 39.28 EUR
 currency: EUR
-price: 39.27
+price: 39.28
 comparePrice: 54.9 EUR
 prodname: 'HUAWEI WiFi AX3 - Router Dual-core WiFi 6 Plus Revolution 3000 Mbps  Tecnología OFDMA multiusuario  hasta 128 dispositivos en doble banda  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08W2KLV45/?tag=tolees-21'
-descuento: '28.47'
-average: '42.0112781954884'
+descuento: '28.45'
+average: '41.9908955223877'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
