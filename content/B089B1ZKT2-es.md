@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FOR INDOOR & OUTDOOR SPORTS: Battery life is up to 50 h in training mode. The color touchscreen display, 1-button interface with advanced wrist-based HR monitor, Smart calories and connected GPS make the Polar Unite easy to use. Perfect for gym, group and team exercises, swimming, running, cycling, jogging.
-- RECOVERY MEASUREMENT: Nightly Recharge gives you daily feedback on how well you recover from stress and training during the night. This helps you make optimal choices the next day
-- DAILY TAILORED WORKOUTS WITH FITSPARK TRAINING GUIDE: Enjoy your personal on-demand ready-made trainings matching your recovery and readiness every single day. FitSpark workouts are guided in real time with visual instructions.
 - KNOW HOW YOU SLEEP: Follow your sleep stages and get detailed sleep insights with the Sleep Plus Stages sleep tracking.
 - CONNECTIVITY: Connect easily with online sports communities (MyFitnessPal, Endomondo, Nike+ Run Club, Strava, TrainingPeaks, Adidas Running by Runtastic and more).
+- DAILY TAILORED WORKOUTS WITH FITSPARK TRAINING GUIDE: Enjoy your personal on-demand ready-made trainings matching your recovery and readiness every single day. FitSpark workouts are guided in real time with visual instructions.
+- FOR INDOOR & OUTDOOR SPORTS: Battery life is up to 50 h in training mode. The color touchscreen display, 1-button interface with advanced wrist-based HR monitor, Smart calories and connected GPS make the Polar Unite easy to use. Perfect for gym, group and team exercises, swimming, running, cycling, jogging.
+- RECOVERY MEASUREMENT: Nightly Recharge gives you daily feedback on how well you recover from stress and training during the night. This helps you make optimal choices the next day
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencias oficiales de Nintendo y Pokémon
-- Para juegos 2D con uso intensivo del pad direccional
 - Joy-Con izquierdo con cruceta
+- Para juegos 2D con uso intensivo del pad direccional
+- Licencias oficiales de Nintendo y Pokémon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
