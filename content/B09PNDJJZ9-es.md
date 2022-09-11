@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9C Smartphone 128 GB  4 GB de RAM  Dual SIM  verde'
-date: 2022-09-10 15:33:14
+date: 2022-09-11 17:00:41
 image: 'https://m.media-amazon.com/images/I/41L2knSqKSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09PNDJJZ9/?tag=tolees-21'
 descuento: '21.57'
-average: '144.437222222222'
+average: '144.151052631579'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
