@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Pet Food Feeder + Xiaomi Smart Pet Fountain - Comedero y Fuente automático para Perros y Gatos de pequeño y Mediano tamaño'
-date: 2022-09-12 12:56:35
+date: 2022-09-13 14:30:58
 image: 'https://m.media-amazon.com/images/I/31Ff2IpC7QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
