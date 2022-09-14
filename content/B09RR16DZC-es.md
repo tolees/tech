@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6" FullHD  Intel Core i3-1115G4  8GB RAM  512GB SSD  Intel UHD Graphics  Sin Sistema Operativo  Gris ártico - Teclado QWERTY Español'
-date: 2022-09-12 10:06:16
+date: 2022-09-14 09:22:41
 image: 'https://m.media-amazon.com/images/I/41tG6KAPZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09RR16DZC/?tag=tolees-21'
 descuento: '30.06'
-average: '396.593103448276'
+average: '395.006666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
-- Sin sistema operativo
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
-- Procesador Intel Core i3-1115G4 (2C/4T, 3.0/4.1GHz, 6MB)
 - Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
+- Procesador Intel Core i3-1115G4 (2C/4T, 3.0/4.1GHz, 6MB)
+- Sin sistema operativo
+- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
 - Tarjeta gráfica Integrada Intel UHD Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

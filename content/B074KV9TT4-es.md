@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MATEIN Mochila Portatil Mochila Hombre Impermeable Mochila Ordenador Portatil 15.6 Pulgadas Mochila Portatil con Puerto USB Mochila Antirrobo del Negocio Trabajo Diario Viaje Escolares - Negro'
-date: 2022-09-09 20:29:00
+date: 2022-09-14 10:44:32
 image: 'https://m.media-amazon.com/images/I/41zLx7hqhqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MATEIN'
 buyurl: 'https://www.amazon.es/dp/B074KV9TT4/?tag=tolees-21'
 descuento: '57.51'
-average: '22.9437037037039'
+average: '23.0450458715598'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
