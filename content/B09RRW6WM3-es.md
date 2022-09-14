@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home en modo S
-- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare, 45% NTSC
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
 - Procesador AMD Ryzen 5 5500U (6C/12T, 2.1/4.0GHz, 3MB L2/8MB L3)
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
+- Sistema Operativo: Windows 11 Home en modo S
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
 - Tarjeta gráfica AMD Radeon Graphics
+- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare, 45% NTSC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
