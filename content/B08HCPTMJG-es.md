@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Las aplicaciones se cargan más rápido gracias a la clasificación de rendimiento A1
 - Ideal para smartphones y tabletas Android, así como para cámaras compactas
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Clase 10 para la grabación y reproducción de vídeo de alta definición
+- Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
 
 [🛒 Aquí!!!]({{< param buyurl >}})
