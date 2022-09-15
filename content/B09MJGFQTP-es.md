@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG G513IC-HN039 - Ordenador Portátil Gaming de 15.6" Full HD  Ryzen 7 4800H  16GB RAM  1TB SSD  NVIDIA RTX 3050-4GB  Sin Sistema Operativo  Color Gris - Teclado QWERTY español'
-date: 2022-09-14 19:57:06
+date: 2022-09-15 20:19:52
 image: 'https://m.media-amazon.com/images/I/41qFAjLjCAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09MJGFQTP/?tag=tolees-21'
 descuento: '30.79'
-average: '899.001'
+average: '899.000909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
