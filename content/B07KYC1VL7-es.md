@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Auriculares con licencia oficial de Xbox
 - Audio de juego envolvente
 - Optimizados para el confort y la comodidad
-- Auriculares con licencia oficial de Xbox
 
 [🛒 Visítala!!!]({{< param buyurl >}})
