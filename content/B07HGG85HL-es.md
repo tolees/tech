@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Tune500BT – Auriculares supraaurales inalámbricos con conexiones multipunto y asistente de voz Google now o Siri – Batería de 16h – Negro'
-date: 2022-09-13 06:01:47
+date: 2022-09-16 06:36:09
 image: 'https://m.media-amazon.com/images/I/31tC+Zx88kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B07HGG85HL/?tag=tolees-21'
 descuento: '24.08'
-average: '34.470888888889'
+average: '34.5465217391305'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
