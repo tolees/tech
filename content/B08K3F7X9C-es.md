@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6 colores: la caps 2 inalámbrico está disponible en 6 colores, adecuado para cada momento. Elige el color que te guste
-- Cómodo y compacto – con las almohadillas supersuaves de piel vegana, la gorra 2 se sienta sin cables cómodamente en la cabeza y gracias a su diseño plegable también es muy compacta.
 - 15 horas de duración de la batería: utiliza los auriculares durante 15 horas sin cargarlos y carga completamente en solo 2 horas.
-- Incluye cable de reserva, ¿la batería está agotada? Utilice el práctico cable para poder escuchar en cualquier momento.
 - Un sonido rico y graves profundos: simplemente conecta los auriculares a tu dispositivo a través de Bluetooth y escucha tu música o podcast.
+- Incluye cable de reserva, ¿la batería está agotada? Utilice el práctico cable para poder escuchar en cualquier momento.
+- Cómodo y compacto – con las almohadillas supersuaves de piel vegana, la gorra 2 se sienta sin cables cómodamente en la cabeza y gracias a su diseño plegable también es muy compacta.
 - Contenido del envío: cable de carga (micro USB), cable de audio de 3,5 mm
+- 6 colores: la caps 2 inalámbrico está disponible en 6 colores, adecuado para cada momento. Elige el color que te guste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
