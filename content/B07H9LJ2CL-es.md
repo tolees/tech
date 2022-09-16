@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El interior está forrado de suave microfibra para proteger el iPhone y tiene espacio para billetes y tarjetas de crédito.
-- Además puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica. Contenido de la caja: Funda Leather Folio para el iPhone XS.
-- Ábrela para activar el iPhone XS al instante y ciérrala para ponerlo en reposo.
 - La funda Leather Folio está fabricada en piel europea curtida y teñida con un proceso especial que se adapta perfectamente al contorno de tu iPhone XS manteniendo su diseño ultrafino
+- Ábrela para activar el iPhone XS al instante y ciérrala para ponerlo en reposo.
+- Además puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica. Contenido de la caja: Funda Leather Folio para el iPhone XS.
+- El interior está forrado de suave microfibra para proteger el iPhone y tiene espacio para billetes y tarjetas de crédito.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
