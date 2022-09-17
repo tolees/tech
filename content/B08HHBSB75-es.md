@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wiz - Bombilla Inteligente  Led E27  60 W  Wi-Fi Bluetooth  Luz Blanca y Colores  Compatible con Alexa y Google Home'
-date: 2022-09-14 17:41:04
+date: 2022-09-17 19:52:44
 image: 'https://m.media-amazon.com/images/I/41S9By7OJIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WiZ'
 buyurl: 'https://www.amazon.es/dp/B08HHBSB75/?tag=tolees-21'
 descuento: '44.15'
-average: '7.04'
+average: '6.77666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

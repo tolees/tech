@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 10 WIFI - Tablet de 10.1" HD  Octa-Core  4GB de RAM  Memoria de 64GB ampliable a 256GB por MicroSD  5500 mAh de Batería  Android 11  Gris'
-date: 2022-09-15 19:54:10
+date: 2022-09-17 19:53:58
 image: 'https://m.media-amazon.com/images/I/41hu60WW6RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09X6YZ8R8-es TCL 10 WIFI - Tablet de 10.1" HD Octa-Core 4GB de RAM...'
 sku: 'B09X6YZ8R8-es'
 tags: [ 'Informática','Tablets','microsd','ram','tablet','tcl','wifi','🇪🇸', ]
-actualPrice: 101.68 EUR
+actualPrice: 147.0 EUR
 currency: EUR
-price: 101.68
+price: 147.0
 comparePrice: 189.79 EUR
 prodname: 'TCL 10 WIFI - Tablet de 10.1" HD  Octa-Core  4GB de RAM  Memoria de 64GB ampliable a 256GB por MicroSD  5500 mAh de Batería  Android 11  Gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TCL'
 buyurl: 'https://www.amazon.es/dp/B09X6YZ8R8/?tag=tolees-21'
-descuento: '46.42'
-average: '114.3925'
+descuento: '22.55'
+average: '120.914'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
