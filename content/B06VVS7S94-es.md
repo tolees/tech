@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de llevar a cualquier parte
-- Gran capacidad en un pequeño dispositivo
-- Disco de almacenamiento portátil para conectar y usar
-- Compatible con USB 3.0 / 2.0
 - Tiene un diseño elegante
+- Fácil de llevar a cualquier parte
+- Compatible con USB 3.0 / 2.0
+- Disco de almacenamiento portátil para conectar y usar
+- Gran capacidad en un pequeño dispositivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
