@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Newskill Drakain Ivory - Auriculares Gaming Estéreo RGB Multiplataforma con Micrófono Flexible y Ajustable- Color Blanco'
-date: 2022-09-08 09:13:35
+date: 2022-09-18 15:43:36
 image: 'https://m.media-amazon.com/images/I/21v02V+NFmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NEWSKILL'
 buyurl: 'https://www.amazon.es/dp/B08X4PS64W/?tag=tolees-21'
 descuento: '25.03'
-average: '28.8071428571429'
+average: '28.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud del cable: 2.4 m
-- Impedancia: 32 ± 20% Ω
 - Sensibilidad: 92 ± 4dB
+- Longitud del cable: 2.4 m
 - Tipo de conexión: 3.5 mm Stereo + USB para iluminación
+- Impedancia: 32 ± 20% Ω
 
 [🛒 Comprar!!!]({{< param buyurl >}})
