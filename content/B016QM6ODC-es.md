@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Classic Bb Cap - Sombrero para hombre  color apple red  talla OS'
-date: 2022-09-16 12:55:36
+date: 2022-09-18 13:09:53
 image: 'https://m.media-amazon.com/images/I/31jCMsJXVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6ODC/?tag=tolees-21'
 descuento: '16.25'
-average: '29.3468181818182'
+average: '29.3417391304348'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
