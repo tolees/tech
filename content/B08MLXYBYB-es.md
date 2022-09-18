@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura ajustable de 110 mm; giro ±360°; inclinación -6° a + 23°; pivot +90; ángulos de visión ultraamplios de 178°
-- Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
-- Pantalla Full HD (1080p) de 61 cm (24 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología IPS
 - Conecta fácilmente tus dispositivos con los puertos HDMI 2.0 (compatible con HDCP) y DisplayPort 1.2; además de 1 salida combo para auriculares
+- Pantalla Full HD (1080p) de 61 cm (24 pulgadas) y una frecuencia de actualización de 144 Hz; pantalla microborde con tecnología IPS
+- Tiempo de respuesta de 1 milisegundo con OverDrive; elimina el movimiento borroso para un juego fluido y nítido sin importar lo que suceda en pantalla
 - Contenido de la caja: Monitor; tarjeta de garantía; cable de alimentación AC; cable HDMI; documentación
+- Altura ajustable de 110 mm; giro ±360°; inclinación -6° a + 23°; pivot +90; ángulos de visión ultraamplios de 178°
 
 [🛒 Aquí!!!]({{< param buyurl >}})
