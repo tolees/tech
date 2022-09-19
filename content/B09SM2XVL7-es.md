@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO A54s – Smartphone 128GB  4GB RAM  Dual SIM  Cámara 50MP+2MP+2MP  Batería 5000mAh - Negro'
-date: 2022-09-11 07:32:19
+date: 2022-09-19 06:09:02
 image: 'https://m.media-amazon.com/images/I/41oN8NCtOCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09SM2XVL7-es OPPO A54s – Smartphone 128GB 4GB RAM Dual SIM Cámara...'
 sku: 'B09SM2XVL7-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','oppo','ram','smartphone','🇪🇸', ]
-actualPrice: 169.0 EUR
+actualPrice: 152.91 EUR
 currency: EUR
-price: 169.0
+price: 152.91
 comparePrice: 219.0 EUR
 prodname: 'OPPO A54s – Smartphone 128GB  4GB RAM  Dual SIM  Cámara 50MP+2MP+2MP  Batería 5000mAh - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'OPPO'
 buyurl: 'https://www.amazon.es/dp/B09SM2XVL7/?tag=tolees-21'
-descuento: '22.83'
-average: '172.455833333333'
+descuento: '30.18'
+average: '170.952307692307'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
