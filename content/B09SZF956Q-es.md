@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TomTom Navegador para autocaravanas con Pantalla HD de 7" y PDI así como navegador para Caravana GO Camper Max  actualizaciones Mediante Wi-Fi y avisos de radares de tráfico  mapas del Mundo'
-date: 2022-09-05 11:41:26
+date: 2022-09-19 18:05:29
 image: 'https://m.media-amazon.com/images/I/41TDQyNDWdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09SZF956Q-es TomTom Navegador para autocaravanas con Pantalla HD de 7"...'
 sku: 'B09SZF956Q-es'
 tags: [ 'Electrónica','GPS para coche','GPS y accesorios','tomtom','🇪🇸', ]
-actualPrice: 328.3 EUR
+actualPrice: 330.99 EUR
 currency: EUR
-price: 328.3
-comparePrice: 390.3 EUR
+price: 330.99
+comparePrice: 399.0 EUR
 prodname: 'TomTom Navegador para autocaravanas con Pantalla HD de 7" y PDI así como navegador para Caravana GO Camper Max  actualizaciones Mediante Wi-Fi y avisos de radares de tráfico  mapas del Mundo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TomTom'
 buyurl: 'https://www.amazon.es/dp/B09SZF956Q/?tag=tolees-21'
-descuento: '15.89'
-average: '328.3'
+descuento: '17.05'
+average: '329.645'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
