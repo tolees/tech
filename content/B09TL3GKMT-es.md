@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 Gen 6 - Ordenador Portátil Gaming 15.6" FullHD 120Hz  AMD Ryzen 7 5800H  16GB RAM  1TB SSD  NVIDIA GeForce RTX 3050-4GB  Sin Sistema Operativo  Negro - Teclado QWERTY Español'
-date: 2022-09-17 13:57:48
+date: 2022-09-19 16:50:20
 image: 'https://m.media-amazon.com/images/I/41f0DcUCpoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09TL3GKMT/?tag=tolees-21'
 descuento: '28.60'
-average: '829.773913043479'
+average: '826.408333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin sistema operativo
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500/1635MHz, TGP 85W
-- Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz, 4MB L2/16MB L3)
-- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
 - Pantalla de 15.6 inch FullHD 1920x1080 píxeles, IPS, 250nits, 120Hz, antirreflejos, 45% NTSC, Free-Sync, DC dimmer
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz, 4MB L2/16MB L3)
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500/1635MHz, TGP 85W
 
 [🛒 Aquí!!!]({{< param buyurl >}})
