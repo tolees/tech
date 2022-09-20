@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OnePlus Nord CE - Smartphone 256GB  12GB RAM  Dual Sim  Blue Void'
-date: 2022-09-18 20:51:59
+date: 2022-09-20 07:21:37
 image: 'https://m.media-amazon.com/images/I/31oPS0msDtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ONEPLUS'
 buyurl: 'https://www.amazon.es/dp/B093T7NMN9/?tag=tolees-21'
 descuento: '19.29'
-average: '328.75'
+average: '326.832666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería: 4500 mAh
+- Cámara: Triple, 64MP+8MP+2MP
 - Pantalla: 6.43", 1080 x 2400 pixels
 - Procesador: Snapdragon 750G 2.2GHz
-- Cámara: Triple, 64MP+8MP+2MP
+- Batería: 4500 mAh
 
 [🛒 Comprar!!!]({{< param buyurl >}})
