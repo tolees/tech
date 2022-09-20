@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter Kit  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
-date: 2022-09-08 04:21:26
+date: 2022-09-20 19:20:11
 image: 'https://m.media-amazon.com/images/I/31+QhUjZ4xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0859MDSFX-es TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter...'
 sku: 'B0859MDSFX-es'
 tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','gigabit','tp-link','wifi','🇪🇸', ]
-actualPrice: 48.98 EUR
+actualPrice: 53.79 EUR
 currency: EUR
-price: 48.98
-comparePrice: 83.31 EUR
+price: 53.79
+comparePrice: 81.24 EUR
 prodname: 'TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter Kit  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0859MDSFX/?tag=tolees-21'
-descuento: '41.21'
-average: '54.1467543859646'
+descuento: '33.79'
+average: '54.1436521739127'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
+- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
 - Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
 - HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
-- ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
 - Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
-- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
 - Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
-- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
+- ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
 
 [🛒 Comprar!!!]({{< param buyurl >}})
