@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purificador de Aire InnJoo ONE  Filtro HEPA H11 y Carbón Activado  Silencioso  Modo de Sueño  Temporizador  Capturar Polvo  Humo  Olor y Caspas de Mascota  ÁREA ≤11m². Compatible con ALEXA y ECHO.'
-date: 2022-09-12 08:03:58
+date: 2022-09-20 21:56:06
 image: 'https://m.media-amazon.com/images/I/31nSS3yX-SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'InnJoo'
 buyurl: 'https://www.amazon.es/dp/B08SCMJRKW/?tag=tolees-21'
 descuento: '58.57'
-average: '32.475'
+average: '31.3166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Compatible con ECHO y ALEXA
 - Temporizador: 2h, 4h, 8h
-- CADR: 90m/h
-- Área: 11m2
+- Potencia: 35W
+- Input: AC100-120V 60Hz ; ACC220-240V 50Hz
 - Filtro de 3 capas: Prefiltro + HEPA + Carbón activado
 - Modos: Sueño, Medio, Alto
-- Input: AC100-120V 60Hz ; ACC220-240V 50Hz
-- Compatible con ECHO y ALEXA
-- Control táctil y mediante APP "InnJoo Life"
+- Área: 11m2
 - TUYA WIFI Inteligente
-- Potencia: 35W
+- CADR: 90m/h
+- Control táctil y mediante APP "InnJoo Life"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
