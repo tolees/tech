@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- model year: 2022
-- Tarjeta gráfica NVIDIA GeForce RTX 3070 8GB GDDR6
-- Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz)
-- Almacenamiento de 1TB SSD
-- 2022
-- Memoria RAM de 16GB (2x 8GB SO-DI mm DDR4-3200)
-- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
-- Sin sistema operativo
 - Componentes incluidos: cargador
+- Almacenamiento de 1TB SSD
+- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare
+- Memoria RAM de 16GB (2x 8GB SO-DI mm DDR4-3200)
+- Sin sistema operativo
+- Procesador AMD Ryzen 7 5800H (8C/16T, 3.2/4.4GHz)
+- Tarjeta gráfica NVIDIA GeForce RTX 3070 8GB GDDR6
+- 2022
+- model year: 2022
 
 [🛒 Comprar!!!]({{< param buyurl >}})
