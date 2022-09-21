@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con ECHO y ALEXA
-- Temporizador: 2h, 4h, 8h
-- Potencia: 35W
-- Input: AC100-120V 60Hz ; ACC220-240V 50Hz
-- Filtro de 3 capas: Prefiltro + HEPA + Carbón activado
-- Modos: Sueño, Medio, Alto
 - Área: 11m2
 - TUYA WIFI Inteligente
-- CADR: 90m/h
+- Compatible con ECHO y ALEXA
 - Control táctil y mediante APP "InnJoo Life"
+- Temporizador: 2h, 4h, 8h
+- CADR: 90m/h
+- Modos: Sueño, Medio, Alto
+- Filtro de 3 capas: Prefiltro + HEPA + Carbón activado
+- Potencia: 35W
+- Input: AC100-120V 60Hz ; ACC220-240V 50Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
