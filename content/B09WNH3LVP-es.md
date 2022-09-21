@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
-- Procesador AMD Ryzen 5 3500U, 2,10 GHz, Dual-core(2 Core)
 - Sistema Operativo: Sin SO
-- Memoria RAM de 16 GB DDR4 SDRAM (Memoria máxima compatible 32 GB)
 - Tarjeta gráfica UMA Graphics
+- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
 - Almacenamiento de 512 GB SSD
+- Procesador AMD Ryzen 5 3500U, 2,10 GHz, Dual-core(2 Core)
+- Memoria RAM de 16 GB DDR4 SDRAM (Memoria máxima compatible 32 GB)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
