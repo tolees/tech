@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla a color grande de 1,69"
-- Resistencia al agua de 5 ATM
 - 2 semanas de duración de la batería
+- Resistencia al agua de 5 ATM
 - 60 modos deportivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
