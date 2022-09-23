@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MM55 Negro  Ratón Gaming RGB Chroma  Ultra-ligero 55g  12800 DPI  Switches Mecánicos Programables HUANO'
-date: 2022-09-18 10:36:15
+date: 2022-09-23 10:51:48
 image: 'https://m.media-amazon.com/images/I/41jUMGbzvJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HASTA 16.8 MILLONES DE COLORES: Sistema de iluminación RGB Chroma de hasta 16.8 millones de colores y software descargable con un completo panel de control
-- CABLE FEATHER PARACORD: El cable del MM55 dispone de un diseño especial Feather Paracord, pensado para limitar al máximo su peso y reducir la resistencia al mínimo, consiguiendo una sensación similar a la de un ratón inalámbrico
-- DISEÑO HIVE DE LIGEREZA EXTREMA: Carcasa aerodinámica que minimiza la resistencia y el peso del MM55 para proporcionar un ratón rápido y ligero de tan solo 55g
 - SENSOR ÓPTICO DE 12800 DPI: Sensor óptico customizado A825PRO que garantiza acción extrema, control excepcional y precisión absoluta en configuraciones DPI bajas con un polling rate de hasta 1000Hz
 - SWITCHES MECÁNICOS HUANO PROGRAMABLES: El ratón MM55 está equipado con switches mecánicos HUANO de alto rendimiento proporcionando control absoluto de cada movimiento
+- CABLE FEATHER PARACORD: El cable del MM55 dispone de un diseño especial Feather Paracord, pensado para limitar al máximo su peso y reducir la resistencia al mínimo, consiguiendo una sensación similar a la de un ratón inalámbrico
+- DISEÑO HIVE DE LIGEREZA EXTREMA: Carcasa aerodinámica que minimiza la resistencia y el peso del MM55 para proporcionar un ratón rápido y ligero de tan solo 55g
+- HASTA 16.8 MILLONES DE COLORES: Sistema de iluminación RGB Chroma de hasta 16.8 millones de colores y software descargable con un completo panel de control
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
