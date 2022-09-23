@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tecnología de carga avanzada: La tecnología exclusiva PowerIQ y Voltage Boost se combina para ofrecer la carga optimizada de dispositivos, mientras que el modo que permite varias cargas proporciona la mejor forma para cargar accesorios de bajo consumo.
-- Capacidad extraordinaria: La enorme capacidad del powerbank 20000 mAh ofrece más de 5 cargas para un iPhone XS, casi 5 cargas completas para un Samsung Galaxy S10 y más de 4 cargas para un iPhone 11, y más de dos cargas y media para un iPad mini 5.
 - Carga simultánea: Los puertos USB dobles del powerbank 20000 permiten cargar dos dispositivos al mismo tiempo.
+- Capacidad extraordinaria: La enorme capacidad del powerbank 20000 mAh ofrece más de 5 cargas para un iPhone XS, casi 5 cargas completas para un Samsung Galaxy S10 y más de 4 cargas para un iPhone 11, y más de dos cargas y media para un iPad mini 5.
 - Contenido del powerbank: Anker PowerCore Essential 20000, cable micro USB, funda de transporte, guía de bienvenida, nuestra garantía de 18 meses sin preocupaciones y un servicio de asistencia atento. (El cable USB-C y el cable Lightning no están incluidos)
 - Seguridad certificada: El sistema de seguridad MultiProtect de Anker garantiza una protección completa para el usuario y los dispositivos.
 

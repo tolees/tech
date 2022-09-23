@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Reproduce contenidos mediante USB
-- Dimensión de la pantalla: 2.4 pulgadas
-- Conectores: Salida de componente de vídeo: NO/ Salida de S-Vídeo: NO/ Salida de vídeo compuesto: NO/ Salida de audio digital Coaxial: NO/ Salida de audio digital Óptica: NO/ Salida analógica estéreo: NO/ USB: SÍ/ Salida HDMI: NO
-- Longitud focal mínima: 35 mm
 - Reproducción de DVD/CD multiformato
+- Longitud focal mínima: 35 mm
+- Dimensión de la pantalla: 2.4 pulgadas
 - Señal de vídeo analógica: NTSC, PAL
+- Conectores: Salida de componente de vídeo: NO/ Salida de S-Vídeo: NO/ Salida de vídeo compuesto: NO/ Salida de audio digital Coaxial: NO/ Salida de audio digital Óptica: NO/ Salida analógica estéreo: NO/ USB: SÍ/ Salida HDMI: NO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
