@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 32GB eMMC
-- Procesador Intel Celeron N4020 (2C/DualCore 1.1GHz, 4MB)
 - Memoria RAM de 4GB SO-DIMM LPDDR4 2400MHz
-- Sistema Operativo: Chrome OS
-- Tarjeta gráfica integrada Intel UHD Graphics 600
+- Procesador Intel Celeron N4020 (2C/DualCore 1.1GHz, 4MB)
 - Pantalla de 11.6" HD 1366 x 768 pixeles 200 nits
+- Sistema Operativo: Chrome OS
+- Almacenamiento de 32GB eMMC
+- Tarjeta gráfica integrada Intel UHD Graphics 600
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta 15 horas de duración de batería
-- Compatible con llamadas con manos libres y asistente de voz
-- Unidades de diafragma de 9 mm para un sonido claro y nítido
-- Audio inalámbrico con tecnología bluetooth
 - Cables flexibles y ligeros
+- Hasta 15 horas de duración de batería
+- Audio inalámbrico con tecnología bluetooth
+- Unidades de diafragma de 9 mm para un sonido claro y nítido
+- Compatible con llamadas con manos libres y asistente de voz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
