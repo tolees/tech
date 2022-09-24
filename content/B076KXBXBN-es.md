@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclado de tamaño normal con teclado numérico. Resistente a los vertidos (Teclado)
-- Micro receptor USB de fácil almacenamiento. Para usuarios diestros y zurdos (Teclado)
 - Preciso sensor óptico (1600 ppp). Cobertura inalámbrica de 10 m (Teclado)
 - Cobertura inalámbrica de 10 m. Un microrreceptor USB para ambos dispositivos (Teclado)
+- Teclado de tamaño normal con teclado numérico. Resistente a los vertidos (Teclado)
+- Micro receptor USB de fácil almacenamiento. Para usuarios diestros y zurdos (Teclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
