@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalambricos Bluetooth Deportivos TANGMAI N6 Auriculares Bluetooth inalámbrico con HiFi Stereo  Auriculares inalámbricos magnéticos 24H de reproducción Llamadas con claridad Negro'
-date: 2022-09-23 16:14:22
+date: 2022-09-24 18:47:04
 image: 'https://m.media-amazon.com/images/I/31Dk0mLRINL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TANGMAI'
 buyurl: 'https://www.amazon.es/dp/B09LRPTKXR/?tag=tolees-21'
 descuento: '30.31'
-average: '28.2757142857143'
+average: '27.615'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

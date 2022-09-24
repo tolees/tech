@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño moderno
 - Potencia: 1.600 W
-- Carcasa de plástico
 - Secador de pelo iónico
+- Carcasa de plástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
