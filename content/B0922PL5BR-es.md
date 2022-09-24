@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los microinterruptores ROG ofrecen una resistencia constante y una vida útil de 70 millones de clics
-- El diseño Push-Fit Switch Socket II permite instalar interruptores mecánicos y microinterruptores ópticos Omron para ajustar el tacto los clics y prolongar la vida útil del ratón
-- Las grabado láser en el lateral del ratón cuenta con iluminación RGB
-- 19.000 dpi con una desviación del 1% (especialmente ajustado a 26.000 dpi) sensor óptico de 400 ips y tasa de sondeo de 1000 Hz
-- Botones pivotantes y software ajustado para un accionamiento instantáneo sin clics indeseados
 - Tipo de conectividad: USB; Sistema operativo: Windows 10
+- El diseño Push-Fit Switch Socket II permite instalar interruptores mecánicos y microinterruptores ópticos Omron para ajustar el tacto los clics y prolongar la vida útil del ratón
+- Botones pivotantes y software ajustado para un accionamiento instantáneo sin clics indeseados
+- Los microinterruptores ROG ofrecen una resistencia constante y una vida útil de 70 millones de clics
+- 19.000 dpi con una desviación del 1% (especialmente ajustado a 26.000 dpi) sensor óptico de 400 ips y tasa de sondeo de 1000 Hz
+- Las grabado láser en el lateral del ratón cuenta con iluminación RGB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
