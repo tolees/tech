@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño de la pantalla: 10 pulgadas
-- Resolución de pantalla: 1900 x 1200 píxeles
-- Tipo de pantalla: LCD
 - NOTA! Esta tablet utiliza la interfaz EMUI y Huawei Mobile Services (HMS). No tiene integrados los servicios y aplicaciones de Google tales como Google Play Store, Gmail, YouTube, Google Maps, etc., pero podrás acceder a algunas de ellas en su versión web a través del navegador. Sin embargo, tendrás acceso a muchas de las aplicaciones más populares a través de la tienda HUAWEI AppGallery, Huawei Phone Clone o incluso diferentes estores alternativos.
+- Resolución de pantalla: 1900 x 1200 píxeles
+- Tamaño de la pantalla: 10 pulgadas
+- Tipo de pantalla: LCD
 - Altavoces cuádruples
 
 [🛒 Aquí!!!]({{< param buyurl >}})
