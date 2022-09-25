@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6" FullHD  AMD Ryzen 5 5500U  8GB RAM  512GB SSD  AMD Radeon Graphics  Windows 11 Home en modo S  Gris ártico - Teclado QWERTY Español'
-date: 2022-09-24 12:58:46
+date: 2022-09-25 17:11:35
 image: 'https://m.media-amazon.com/images/I/41JSkXDlQHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09RRW6WM3/?tag=tolees-21'
 descuento: '23.85'
-average: '480.89375'
+average: '480.683333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
-- Sistema Operativo: Windows 11 Home en modo S
-- Procesador AMD Ryzen 5 5500U (6C/12T, 2.1/4.0GHz, 3MB L2/8MB L3)
-- Tarjeta gráfica AMD Radeon Graphics
-- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare, 45% NTSC
 - Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
+- Tarjeta gráfica AMD Radeon Graphics
+- Sistema Operativo: Windows 11 Home en modo S
+- Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 250nits, Anti-glare, 45% NTSC
+- Procesador AMD Ryzen 5 5500U (6C/12T, 2.1/4.0GHz, 3MB L2/8MB L3)
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe ampliables hasta 1TB
 
 [🛒 Aquí!!!]({{< param buyurl >}})

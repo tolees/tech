@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MI Ionic Hair Dryer H300 EU'
-date: 2022-09-24 16:58:46
+date: 2022-09-25 17:40:12
 image: 'https://m.media-amazon.com/images/I/11p5vWsMHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
-- Potencia: 1.600 W
-- Secador de pelo iónico
 - Carcasa de plástico
+- Secador de pelo iónico
+- Potencia: 1.600 W
+- Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
