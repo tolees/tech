@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 1 Gen 7 - Ordenador Portátil 14" FHD  AMD 3020e  4GB RAM  256GB SSD  AMD Radeon Graphics  Sin Sistema Operativo  Gris - Teclado QWERTY Español'
-date: 2022-09-15 14:11:49
+date: 2022-09-25 19:30:21
 image: 'https://m.media-amazon.com/images/I/41NAYxmj-kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 4GB Soldered DDR4-2400 ampliables hasta 12GB
-- Sin sistema operativo
-- Componentes incluidos: cargador
-- Procesador AMD 3020e (2C/2T, 1.2/2.6GHz)
-- 3
 - model year: 2021
+- Memoria RAM de 4GB Soldered DDR4-2400 ampliables hasta 12GB
+- Pantalla de 14 inchFullHD 1920x1080 píxeles, TN, 220nits, Anti-glare
+- 3
 - Almacenamiento de 256GB SSD ampliables hasta 1TB
 - Tarjeta gráfica AMD Radeon Graphics
+- Sin sistema operativo
+- Componentes incluidos: cargador
 - 2021
-- Pantalla de 14 inchFullHD 1920x1080 píxeles, TN, 220nits, Anti-glare
+- Procesador AMD 3020e (2C/2T, 1.2/2.6GHz)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
