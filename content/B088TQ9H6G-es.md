@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un sensor óptico de 200 a 7200 PPP optimizado para los juegos y 4 configuraciones de sensibilidad, este ratón te proporciona una mayor precisión
-- Sistemas operativos compatibles: Windows 10 y superior
-- Configuración sencilla, la conexión es muy simple gracias a la conectividad USB para que puedas usarlo inmediatamente
 - Resolución: Sensor OMEN Radar 1, desarrollado junto con PixArt
-- Juega con comodidad gracias a los agarres antideslizantes con relieve
+- Configuración sencilla, la conexión es muy simple gracias a la conectividad USB para que puedas usarlo inmediatamente
+- Sistemas operativos compatibles: Windows 10 y superior
 - Dimensiones mínimas: 12,8 x 7,45 x 4,1 cm. Peso: 0,12 kg
+- Con un sensor óptico de 200 a 7200 PPP optimizado para los juegos y 4 configuraciones de sensibilidad, este ratón te proporciona una mayor precisión
+- Juega con comodidad gracias a los agarres antideslizantes con relieve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
