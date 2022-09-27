@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Rendimiento impulsado por carga turbo de 67 W y Snapdragon 695: Redmi Note 11 Pro 5G viene con carga turbo insignia de 67 W, lo que le permite cargar más de la mitad de su batería de alta capacidad de 5000 mAh en solo 15 minutos; con tecnología Snapdragon 695, Redmi Note 11 Pro 5G también ofrece un rendimiento fluido y confiable con soporte 5G.
 - Descubre nuestra gama completa de productos.
 - Cámara triple de 108MP de nivel insignia para ofrecer una fotografía excepcional: con una configuración de cámara triple trasera, Redmi Note 11 Pro 5G ofrece una experiencia fotográfica excepcional sin compromiso; su cámara principal de 108MP captura imágenes asombrosas en colores vivos; una cámara ultra gran angular de 8 MP amplía tu perspectiva con un ángulo de visión de 118 grados; una lente macro de 2MP que captura detalles finos de cerca.
 - 120Hz FHD+ AMOLED DotDisplay empaquetado en un moderno cuerpo de borde plano: con una gran pantalla FHD+ AMOLED DotDisplay de 6.67 inch con frecuencia de actualización de pantalla de 120Hz, Redmi Note 11 Pro 5G mejora la experiencia de la pantalla con una respuesta de desplazamiento suave y transiciones sin demoras; la hermosa la pantalla está empaquetada en un cuerpo con un moderno diseño de borde plano.
-- Rendimiento impulsado por carga turbo de 67 W y Snapdragon 695: Redmi Note 11 Pro 5G viene con carga turbo insignia de 67 W, lo que le permite cargar más de la mitad de su batería de alta capacidad de 5000 mAh en solo 15 minutos; con tecnología Snapdragon 695, Redmi Note 11 Pro 5G también ofrece un rendimiento fluido y confiable con soporte 5G.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
