@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG EP-N3300 - Cargador Inalámbrico  Negro'
-date: 2022-09-25 13:39:54
+date: 2022-09-28 12:33:59
 image: 'https://m.media-amazon.com/images/I/21BYaYA3d4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B089L9NMS8-es SAMSUNG EP-N3300 - Cargador Inalámbrico Negro'
 sku: 'B089L9NMS8-es'
 tags: [ 'Accesorios para móviles','Cargadores de móvil por inducción','Cargadores para móviles','Comunicación móvil y accesorios','Electrónica','samsung','🇪🇸', ]
-actualPrice: 36.71 EUR
+actualPrice: 37.06 EUR
 currency: EUR
-price: 36.71
+price: 37.06
 comparePrice: 47.42 EUR
 prodname: 'SAMSUNG EP-N3300 - Cargador Inalámbrico  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B089L9NMS8/?tag=tolees-21'
-descuento: '22.59'
-average: '36.71'
+descuento: '21.85'
+average: '36.885'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
