@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sigma F1.4 DC DN Contemporary - Objetivo 56 mm para Sony E  color negro'
-date: 2022-09-20 07:21:06
+date: 2022-09-28 07:33:30
 image: 'https://m.media-amazon.com/images/I/41kKoyYCsRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sigma'
 buyurl: 'https://www.amazon.es/dp/B07JZVP6R8/?tag=tolees-21'
 descuento: '20.46'
-average: '392.385555555556'
+average: '391.246'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Montura a prueba de polvo y salpicaduras
+- Construcción impresionantemente compacta con una alta calidad de imagen que rivaliza con la línea de Art SIGMA
 - Un miembro de la línea Contemporánea de alto rendimiento, con las últimas tecnologías de SIGMA
 - Diafragma redondeado de 9 láminas
 - Lentes Full Frame
 - Proporciona un gran bokeh gracias a su máxima apertura de F1.4
-- Construcción impresionantemente compacta con una alta calidad de imagen que rivaliza con la línea de Art SIGMA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
