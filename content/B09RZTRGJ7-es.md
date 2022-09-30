@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ePantalla táctil
-- Dos años de garantía ante defectos de fábrica.
 - Marca: Xiaomi
+- Dos años de garantía ante defectos de fábrica.
 - Producto original de marca.
 - Descripción de la cámara: Trasera
+- ePantalla táctil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
