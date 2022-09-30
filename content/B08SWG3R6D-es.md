@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10 ATM Resistencia al Agua
 - 15 Certificaciones Militares
-- 18 Días de Autonomía
 - Rugerizado
+- 18 Días de Autonomía
+- 10 ATM Resistencia al Agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
