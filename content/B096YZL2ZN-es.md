@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'U&I Entertainment - American Fugitive - Nintendo Switch'
-date: 2022-09-29 07:01:34
+date: 2022-10-01 10:47:43
 image: 'https://m.media-amazon.com/images/I/41j2BYW6SeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'U&I Entertainment'
 buyurl: 'https://www.amazon.es/dp/B096YZL2ZN/?tag=tolees-21'
 descuento: '16.97'
-average: '18.945'
+average: '20.93'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de acción visceral con una historia original
 - Una versión moderna de los Sandbox de acción clásicos
 - Pisa a fondo
+- Un juego de acción visceral con una historia original
 - Un impresionante entorno de mundo abierto
 - Vive como un criminal
 
