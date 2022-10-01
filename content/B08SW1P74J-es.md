@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 15 Certificaciones Militares
+- 18 Días de Autonomía
 - 10 ATM Resistencia al Agua
 - Rugerizado
-- 18 Días de Autonomía
+- 15 Certificaciones Militares
 
 [🛒 Comprar!!!]({{< param buyurl >}})

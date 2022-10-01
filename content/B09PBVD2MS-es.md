@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 9 Pro 5G Smartphone Libre  Batería masiva de 5000 mAh  Procesador Qualcomm Snapdragon 695 5G  Carga Dart de 33 W  Pantalla ultrafluida de 120 Hz  Dual Sim  6 + 128 GB Midnight Black'
-date: 2022-09-26 07:46:37
+date: 2022-10-01 11:48:52
 image: 'https://m.media-amazon.com/images/I/41ilwOlkn6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09PBVD2MS-es realme 9 Pro 5G Smartphone Libre Batería masiva de 5000...'
 sku: 'B09PBVD2MS-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','realme','smartphone','🇪🇸', ]
-actualPrice: 223.0 EUR
+actualPrice: 253.75 EUR
 currency: EUR
-price: 223.0
+price: 253.75
 comparePrice: 329.99 EUR
 prodname: 'realme 9 Pro 5G Smartphone Libre  Batería masiva de 5000 mAh  Procesador Qualcomm Snapdragon 695 5G  Carga Dart de 33 W  Pantalla ultrafluida de 120 Hz  Dual Sim  6 + 128 GB Midnight Black'
 country: 'es'
 flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09PBVD2MS/?tag=tolees-21'
-descuento: '32.42'
-average: '241.449130434783'
+descuento: '23.10'
+average: '241.961666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estabilización de imagen óptica y electrónica
-- Incluye un escáner de huellas dactilares en pantalla que funciona como un monitor de frecuencia cardíaca
 - Carga hasta el 50 % en 15 minutos
+- Incluye un escáner de huellas dactilares en pantalla que funciona como un monitor de frecuencia cardíaca
 - Tamaño de la pantalla: 6.4 "
 
 [🛒 Visítala!!!]({{< param buyurl >}})
