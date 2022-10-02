@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OnePlus Nord CE 2 Lite 5G con 6GB RAM y 128GB de memoria smartphone sin SIM con Cámara triple con IA de 64MP y Batería de 5000 mAh - 2 años de garantía - Blue Tide'
-date: 2022-10-01 00:26:43
+date: 2022-10-02 07:41:27
 image: 'https://m.media-amazon.com/images/I/415KUGe26NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ONEPLUS'
 buyurl: 'https://www.amazon.es/dp/B07XXP3G92/?tag=tolees-21'
 descuento: '31.88'
-average: '220.096666666667'
+average: '219.358461538462'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

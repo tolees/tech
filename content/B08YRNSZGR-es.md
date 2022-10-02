@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elgato Cam Link Pro - capturadora de cámara PCIe  4 entradas HDMI  1080p60 Full HD  4K30  Multiview  streaming  videoconferencias  OBS  Zoom  etc.'
-date: 2022-09-29 21:56:27
+date: 2022-10-02 09:04:45
 image: 'https://m.media-amazon.com/images/I/31NF25Khf9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Captura cámaras de fotos, ordenadores, portátiles, tabletas, y más
 - Cambia los modos de Picture-in-Picture (imagen múltiple) con Elgato Multiview
+- Transmite en directo o graba a 1080p60 o 4K30
 - Capturadora PCIe con 4 entradas HDMI
+- Captura cámaras de fotos, ordenadores, portátiles, tabletas, y más
 - Controla las señales de vídeo por separado en OBS, vMix, y más
 - Incorpora cuatro cámaras a Zoom, Slack o Microsoft Teams
-- Transmite en directo o graba a 1080p60 o 4K30
 
 [🛒 Aquí!!!]({{< param buyurl >}})
