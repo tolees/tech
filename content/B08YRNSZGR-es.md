@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cambia los modos de Picture-in-Picture (imagen múltiple) con Elgato Multiview
+- Incorpora cuatro cámaras a Zoom, Slack o Microsoft Teams
 - Transmite en directo o graba a 1080p60 o 4K30
 - Capturadora PCIe con 4 entradas HDMI
-- Captura cámaras de fotos, ordenadores, portátiles, tabletas, y más
 - Controla las señales de vídeo por separado en OBS, vMix, y más
-- Incorpora cuatro cámaras a Zoom, Slack o Microsoft Teams
+- Captura cámaras de fotos, ordenadores, portátiles, tabletas, y más
+- Cambia los modos de Picture-in-Picture (imagen múltiple) con Elgato Multiview
 
 [🛒 Aquí!!!]({{< param buyurl >}})
