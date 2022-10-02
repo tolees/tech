@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Uno de los smartphones 5G más finos. De solo 7 mm, nuestro teléfono 5G más fino se desliza fácilmente dentro de tu bolso o bolsillo.
+- 108 MP + superzoom de 30 aumentos. Captura el momento con cualquier luz con la tecnología Ultra Pixel y graba vídeos en 4K (o haz fotos increíblemente definidas desde lejos).
+- Pantalla ultrafluida de 144 Hz. Disfruta de mil millones de tonos de color en una pantalla OLED de 6,7" con HDR10+ con la velocidad de actualización más rápida en un smartphone.
+- La batería dura más de un día. Disfruta de una batería de 4000 mAh de larga duración y obtén ocho horas de energía en tan solo 10 minutos con la carga TurboPower de 30 vatios.
+- Tipo de conector: USB
 - 5G superrápido y Wi-Fi 6E. Descarga tus programas favoritos en cuestión de segundos y únete a la siguiente generación de redes Wi-Fi más rápida.
 - Da rienda suelta a tu teléfono con Ready For. Conéctate de forma inalámbrica a un televisor para jugar a juegos para móvil, hacer videollamadas y utilizar las aplicaciones del teléfono en una gran pantalla.
-- La batería dura más de un día. Disfruta de una batería de 4000 mAh de larga duración y obtén ocho horas de energía en tan solo 10 minutos con la carga TurboPower de 30 vatios.
-- 108 MP + superzoom de 30 aumentos. Captura el momento con cualquier luz con la tecnología Ultra Pixel y graba vídeos en 4K (o haz fotos increíblemente definidas desde lejos).
 - Selfies de 32 MP de alta resolución. Saca siempre tu mejor versión con la máxima luminosidad, incluso de noche, con una sensibilidad a la luz 4 veces mayor.
-- Pantalla ultrafluida de 144 Hz. Disfruta de mil millones de tonos de color en una pantalla OLED de 6,7" con HDR10+ con la velocidad de actualización más rápida en un smartphone.
-- Tipo de conector: USB
-- Uno de los smartphones 5G más finos. De solo 7 mm, nuestro teléfono 5G más fino se desliza fácilmente dentro de tu bolso o bolsillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
