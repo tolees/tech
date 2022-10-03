@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 35 h de batería
-- Diseño compacto
-- Noise Cancelling dual
-- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
 - Opción de conexión por cable
+- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
+- Noise Cancelling dual
+- Diseño compacto
+- Hasta 35 h de batería
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

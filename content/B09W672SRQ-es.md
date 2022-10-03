@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz, IPS 250 nits
+- Tarjeta gráfica Intel UHD Graphics
 - Memoria DDR4 de 8 GB 2666 MHz
 - Procesador Intel Core i5-1035G1(4Cores/ 3.6GHz, 6MB)
-- Sistema Operativo: Windows 11
-- Tarjeta gráfica Intel UHD Graphics
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz, IPS 250 nits
 - Almacenamiento de 512GB M.2 PCIe NVMe
+- Sistema Operativo: Windows 11
 
 [🛒 Visítala!!!]({{< param buyurl >}})

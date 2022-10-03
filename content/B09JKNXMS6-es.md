@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatibilidad con amplia variedad de dispositivos
 - Sonido estéreo
 - Dos altavoces con hasta 10W de potencia
-- Compatibilidad con amplia variedad de dispositivos
 - Barra de sonido RGB
 - Tamaño compacto
 
