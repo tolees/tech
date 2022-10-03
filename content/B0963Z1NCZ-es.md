@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes
+- Freesync Premium ofrece una experiencia de juego fluida y elimina los problemas gráficos
 - Monitor gaming de 23.8" con resolución FullHD (1920x1080 pixeles) y con una frecuencia de refresco de 165 Hz para gamers profesionales que buscan una experiencia gaming inmersiva
 - Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon; Compatible con tarjetas gráficas NVIDIA GeForce serie GTX 10, GTX 16, RTX 20 y otras más recientes
 - La tecnología ASUS Extreme Low Motion Blur (ELMB) con 1 ms MPRT y Adaptive-sync elimina los defectos gráficos y hacen que las escenas borrosas cobren nitidez
-- Freesync Premium ofrece una experiencia de juego fluida y elimina los problemas gráficos
+- Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
