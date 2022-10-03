@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smartphone Redmi Note 11 Pro  cámara Principal de 108 MP  Pantalla FHD+ AMOLED de 6 67"  frecuencia de actualización de 120 HZ  Cargador rápido de 67 W  6+128 GB Gris Grafito [versión Global]'
-date: 2022-10-02 13:34:25
+date: 2022-10-03 21:12:19
 image: 'https://m.media-amazon.com/images/I/41Ju3E8eNeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora nuestra gama de productos
-- Dos años de garantia ante defectos de fábrica
-- Producto original de marca
 - Altos estándares durante el proceso de producción
+- Explora nuestra gama de productos
+- Producto original de marca
+- Dos años de garantia ante defectos de fábrica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
