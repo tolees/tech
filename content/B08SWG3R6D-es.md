@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit T-Rex Pro Smartwatch Fitness Monitor de Sueño y Ritmo cardiaco 10 ATM GPS Reloj Inteligente Deportativo con más de 100 Modes Deportes Duración de batería 18 días Resitente Diseño  Azul '
-date: 2022-09-30 17:00:41
+date: 2022-10-04 19:11:17
 image: 'https://m.media-amazon.com/images/I/41ikmGPzBNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08SWG3R6D/?tag=tolees-21'
 descuento: '23.54'
-average: '132.342'
+average: '131.935'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 15 Certificaciones Militares
-- Rugerizado
-- 18 Días de Autonomía
 - 10 ATM Resistencia al Agua
+- 18 Días de Autonomía
+- Rugerizado
+- 15 Certificaciones Militares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
