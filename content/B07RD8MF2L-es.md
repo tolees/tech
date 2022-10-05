@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0  1920x1080p  Sintonizador DVB-T/T2/C  Negra'
-date: 2022-10-03 22:53:07
+date: 2022-10-05 16:51:56
 image: 'https://m.media-amazon.com/images/I/51qna+tFTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','full','hd','sch
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0
-comparePrice: 299.9 EUR
+comparePrice: 399.95 EUR
 prodname: 'Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0  1920x1080p  Sintonizador DVB-T/T2/C  Negra'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SCHNEIDER'
 buyurl: 'https://www.amazon.es/dp/B07RD8MF2L/?tag=tolees-21'
-descuento: '33.64'
-average: '220.367272727273'
+descuento: '50.24'
+average: '218.586666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sintonizador DVB-T/T2/C
-- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI.
+- Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
+- Idioma del menú: Español
 - Entrada de Auriculares Jack 3,5mm
 - Vataje (W): 37.0 kilowatt_hours
-- Idioma del menú: Español
+- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI.
 - Tipo de altavoz: built_in
-- Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
