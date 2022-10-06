@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA855RE Amplificador Señal de WiFi Repetidor 300 Mbps Extensor de Red WiFi Enrutador Inalámbrico  Puerto Ethernet 2 antenas externas   Color Blanco'
-date: 2022-10-05 06:32:53
+date: 2022-10-06 07:32:34
 image: 'https://m.media-amazon.com/images/I/41hQnFjk61L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00EYW1U68/?tag=tolees-21'
 descuento: '16.67'
-average: '18.1988693957123'
+average: '18.2023540856039'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,11 +30,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Temperatura de funcionamiento: 0°C~40°C (32°F~104°F)
 - Antenas externas para un conexión Wi-Fi más rápida y fiable
-- Extensión de red super sencilla: dos clicks y listo para conectarse
-- Aumenta la cobertura Wi-Fi existente para repartir conexiones inalámbricas y cableadas de manera rápida y fiable
 - Extensión de Red Super Sencilla: Simplemente pulsa el botón “WPS” de tu router, y después pulsa el botón “Range Extender” del TL-WA855RE, y comienza a disfrutar de cobertura Wi-Fi en toda la casa
+- Soporta el modo AP con el que podrás crear un nuevo punto de acceso Wi-Fi
+- Aumenta la cobertura Wi-Fi existente para repartir conexiones inalámbricas y cableadas de manera rápida y fiable
+- Extensión de red super sencilla: dos clicks y listo para conectarse
 - Potencia de transmisión: < 20 dBm (EIRP)
 - Compatible: funciona con cualquier Router Wi-Fi
-- Soporta el modo AP con el que podrás crear un nuevo punto de acceso Wi-Fi
 
 [🛒 Aquí!!!]({{< param buyurl >}})

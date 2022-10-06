@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link COVR-X1862  pack 2 extensores red WiFi Mesh hasta 420m2  WiFi-6  AX1800 Mbps  2p Gigabit  modos router y extensor  funciona con cualquier router/operadora   wifi mallada  WPA3  control parental'
-date: 2022-10-02 03:42:19
+date: 2022-10-06 07:30:34
 image: 'https://m.media-amazon.com/images/I/31YPZ8r4BBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B093XPD5CN/?tag=tolees-21'
 descuento: '22.99'
-average: '133.973'
+average: '133.974545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pack con 2 nodos WiFi Mesh que crean una red wifi unificada y mallada para dar cobertura hasta 420 metros cuadrados. Se pueden crear redes de hasta 8 nodos para seguir extendiendo la red.
-- WiFi con roaming, te conectas automáticamente al extensor más cercano. Ethernet Backhaul, ideal si tienes una casa con tomas de red LAN para interconectar por cable los nodos y mejorar rendimiento.
-- Además de una experiencia de uso muy superior, WiFi-6 también aumenta la cobertura y el rendimiento cuando se conectan muchos usuarios al mismo tiempo.
-- La última tecnología Wi-Fi 6 para sacar el máximo rendimiento, hasta 1800 Mbps de velocidad para streaming 8K y juegos online sin interrupciones.
 - 2 puertos red LAN Gigabit en cada nodo para conexiones por cable. Dos modos de uso; router neutro+extensor mesh o usar los dos nodos como extensores conectando a cualquier router/operadora.
+- Además de una experiencia de uso muy superior, WiFi-6 también aumenta la cobertura y el rendimiento cuando se conectan muchos usuarios al mismo tiempo.
+- WiFi con roaming, te conectas automáticamente al extensor más cercano. Ethernet Backhaul, ideal si tienes una casa con tomas de red LAN para interconectar por cable los nodos y mejorar rendimiento.
+- La última tecnología Wi-Fi 6 para sacar el máximo rendimiento, hasta 1800 Mbps de velocidad para streaming 8K y juegos online sin interrupciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
