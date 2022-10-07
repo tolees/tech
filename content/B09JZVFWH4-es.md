@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 5 NU-A515-45-R5HH - Ordenador Portátil 15.6" Full HD  AMD Ryzen 5 5500U  16 GB RAM  1 TB SSD  AMD Radeon Graphics  Windows 11  Color Plata - Teclado QWERTY Español'
-date: 2022-10-06 08:16:12
+date: 2022-10-07 20:33:14
 image: 'https://m.media-amazon.com/images/I/41GqW5HoI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B09JZVFWH4/?tag=tolees-21'
 descuento: '30.81'
-average: '576.0'
+average: '572.636363636364'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema operativo: Windows 11
 - Almacenamiento de 1024GB PCIe NVMe SSD
 - Ordenador Portátil 15.6" Full HD
 - Memoria RAM de 16GB DDR4
 - Procesador AMD Ryzen 5 5500U
+- Sistema operativo: Windows 11
 
 [🛒 Comprar!!!]({{< param buyurl >}})
