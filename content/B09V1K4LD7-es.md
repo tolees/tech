@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo G24qe-20 - Monitor Gaming de 23.8" con Eyesafe  QHD  IPS  100Hz  1ms  HDMI+DP  Cable HDMI  FreeSync  Base Metálica  Ajuste de inclinación - Negro'
-date: 2022-10-05 19:55:44
+date: 2022-10-07 14:01:22
 image: 'https://m.media-amazon.com/images/I/41P0UbB-aKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempo de respuesta de 1ms y frecuencia de actualización de 100Hz
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- AMD Radeon FreeSync; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos
-- Relación de aspecto 16:9 y relación de contraste 1000:1
-- La base en forma de V aporta elegancia al tiempo que ofrece un excelente soporte ergonómico para disfrutar de una experiencia de visualización agradable
 - Ajuste de inclinación (-5° / 22°) y soporte VESA para montar la pantalla en la pared
+- La base en forma de V aporta elegancia al tiempo que ofrece un excelente soporte ergonómico para disfrutar de una experiencia de visualización agradable
 - Puertos HDMI y DP; Cable HDMI incluido en la caja
-- Pantalla de 23.8" con resolución QHD (2560 x 1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 90%, antirreflejos
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Eyesafe: tecnología diseñada para filtrar de manera efectiva la luz azul mientras mantiene unos colores nítidos y vivos, asegurando que tus ojos están protegidos de los efectos nocivos de las emisiones de luz azul de la pantalla
+- Relación de aspecto 16:9 y relación de contraste 1000:1
+- Pantalla de 23.8" con resolución QHD (2560 x 1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 90%, antirreflejos
+- Tiempo de respuesta de 1ms y frecuencia de actualización de 100Hz
+- AMD Radeon FreeSync; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
