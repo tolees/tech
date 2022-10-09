@@ -28,18 +28,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM DDR IV 16GB*2 (3200MHz)
-- Tamaño de pantalla: 16.0 inches
-- Pantalla de 16" QHD+ (2560*1600), 120Hz DCI-P3 100% typical, 400 nits
-- Tipo de conectividad: Ethernet
+- Pantalla de 16" QHD (25601600), 120Hz DCI-P3 100% typical, 400 nits
+- Procesador Tiger Lake i7-11800HHM570
+- Procesador Tiger Lake i7-11800H+HM570
 - Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Tamaño de pantalla: 16.0 inches
+- Tipo de conectividad: Ethernet
+- Pantalla de 16" QHD+ (2560*1600), 120Hz DCI-P3 100% typical, 400 nits
+- Tipo de memoria del ordenador: ddr4 sdram
+- Tarjeta gráfica RTX3060 Max-Q, GDDR6 6GB
+- Memoria RAM DDR IV 16GB*2 (3200MHz)
+- Tarjeta gráfica RTX3060 Max-Q, GDDR6 6GB
 - Memoria RAM DDR IV 16GB2 (3200MHz)
 - Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
-- Procesador Tiger Lake i7-11800HHM570
-- Tarjeta gráfica RTX3060 Max-Q, GDDR6 6GB
-- Procesador Tiger Lake i7-11800H+HM570
-- Tarjeta gráfica RTX3060 Max-Q, GDDR6 6GB
-- Tipo de memoria del ordenador: ddr4 sdram
-- Pantalla de 16" QHD (25601600), 120Hz DCI-P3 100% typical, 400 nits
 
 [🛒 Visítala!!!]({{< param buyurl >}})
