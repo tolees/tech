@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Triangle Strategy'
-date: 2022-10-06 17:33:17
+date: 2022-10-10 11:29:07
 image: 'https://m.media-amazon.com/images/I/41UXpFP-ztL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09GWPYXVR-es Nintendo - Triangle Strategy'
 sku: 'B09GWPYXVR-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 42.99 EUR
+actualPrice: 35.53 EUR
 currency: EUR
-price: 42.99
+price: 35.53
 comparePrice: 59.9 EUR
 prodname: 'Nintendo - Triangle Strategy'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPYXVR/?tag=tolees-21'
-descuento: '28.23'
-average: '49.6534328358209'
+descuento: '40.68'
+average: '49.4457352941177'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
