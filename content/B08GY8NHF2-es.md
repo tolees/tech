@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD  hasta 120 MB/s  Rendimiento de apps A1  Clase 10  U1  256 GB'
-date: 2022-10-08 19:40:40
+date: 2022-10-10 20:54:20
 image: 'https://m.media-amazon.com/images/I/419U+k3gELL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B08GY8NHF2/?tag=tolees-21'
 descuento: '48.21'
-average: '31.6636842105262'
+average: '31.5953846153845'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las aplicaciones se cargan rápido gracias a la clasificación de rendimiento a1
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
-- Clase 10 para la grabación y reproducción de vídeo de adecuada definición
 - Hasta 1 tb de capacidad para guardar más horas de vídeo de adecuada definición
 - Se ha certificado que este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas de Google LLC
+- Las aplicaciones se cargan rápido gracias a la clasificación de rendimiento a1
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Adecuado para smartphones y tabletas Android, así como para cámaras compactas
 - Capacidad de almacenamiento de memoria: 256
+- Clase 10 para la grabación y reproducción de vídeo de adecuada definición
 
 [🛒 Visítala!!!]({{< param buyurl >}})
