@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaCentre 5 Gen 6 - Ordenador de Sobremesa  AMD Ryzen 5 5600G  16GB RAM  512GB SSD  Sin Sistema Operativo  - Gris'
-date: 2022-10-09 11:34:34
+date: 2022-10-11 06:56:41
 image: 'https://m.media-amazon.com/images/I/31PZLRl-KxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almacenamiento de 512GB SSD
 - Tarjeta gráfica integrada AMD Radeon Graphics
 - Sin sistema operativo
 - Procesador AMD Ryzen 5 5600G (6C / 12T, 3.9 / 4.4GHz)
 - Memoria RAM de 16GB UDIMM DDR4-3200 ampliables hasta 32GB
-- Almacenamiento de 512GB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
