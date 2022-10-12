@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9C Smartphone 128 GB  4 GB de RAM  Dual SIM  verde'
-date: 2022-09-28 12:11:40
+date: 2022-10-12 12:14:21
 image: 'https://m.media-amazon.com/images/I/41L2knSqKSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09PNDJJZ9-es Xiaomi Redmi 9C Smartphone 128 GB 4 GB de RAM Dual SIM verde'
 sku: 'B09PNDJJZ9-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ram','smartphone','xiaomi','🇪🇸', ]
-actualPrice: 138.98 EUR
+actualPrice: 139.0 EUR
 currency: EUR
-price: 138.98
+price: 139.0
 comparePrice: 177.22 EUR
 prodname: 'Xiaomi Redmi 9C Smartphone 128 GB  4 GB de RAM  Dual SIM  verde'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09PNDJJZ9/?tag=tolees-21'
-descuento: '21.58'
-average: '143.445909090909'
+descuento: '21.57'
+average: '143.075416666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
