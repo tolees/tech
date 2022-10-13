@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook 15 OLED K513EA - Portátil 15.6" Full HD  Intel Core i5-1135G7  12GB RAM  512GB SSD  Iris Xe Graphics  Windows 11  Color Negro - Teclado QWERTY español'
-date: 2022-10-11 00:55:44
+date: 2022-10-13 07:37:11
 image: 'https://m.media-amazon.com/images/I/41VBQbLeLkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09MJFVCWZ/?tag=tolees-21'
 descuento: '22.25'
-average: '710.111111111111'
+average: '709.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 12GB SO-DIMM DDR4
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 - Sistema Operativo: Windows 11 Home
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
+- Memoria RAM de 12GB SO-DIMM DDR4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
