@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sistema operativo
-- Memoria de 16GB RAM
 - Gráfica dedicada NVIDIA GeForce GTX 1650
-- Procesador Intel Core i7-11370H
 - Pantalla de 15.6" Full HD 144 Hz
 - Almacenamiento 1TB SSD
+- Procesador Intel Core i7-11370H
+- Sin sistema operativo
+- Memoria de 16GB RAM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
