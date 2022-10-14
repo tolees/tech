@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Tab P11 Pro  2nd Gen  - Tablet de 11.2" 2.5K  MediaTek Kompanio 1300T  8 GB de RAM  256 GB  4 Altavoces  WiFi 6 + Bluetooth  Android 12  - Gris Oscuro'
-date: 2022-10-13 12:44:16
+date: 2022-10-14 15:28:41
 image: 'https://m.media-amazon.com/images/I/31DZPQDvcPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla táctil de 11.2" 2.5K, 2560x1536 píxeles, OLED, 420nits, 120Hz. Las imágenes nítidas y realistas se realzan gracias a los contrastes más nítidos, el brillo deslumbrante y la increíble paleta de colores de Dolby Vision.
 - model_year: 2022
 - Componentes incluidos: cargador
+- Pantalla táctil de 11.2" 2.5K, 2560x1536 píxeles, OLED, 420nits, 120Hz. Las imágenes nítidas y realistas se realzan gracias a los contrastes más nítidos, el brillo deslumbrante y la increíble paleta de colores de Dolby Vision.
 - Marca: Lenovo
-- Muy alta calidad
 - Procesador MediaTek Kompanio 1300T Octa-Core con una frecuencia principal de hasta 2.6 Ghz
+- Muy alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
