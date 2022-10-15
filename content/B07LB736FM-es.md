@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daewoo - DCR-460 Radio Reloj Bluetooth'
-date: 2022-10-13 17:00:08
+date: 2022-10-15 09:46:35
 image: 'https://m.media-amazon.com/images/I/410QzrocitL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Daewoo'
 buyurl: 'https://www.amazon.es/dp/B07LB736FM/?tag=tolees-21'
 descuento: '44.31'
-average: '14.25'
+average: '14.85'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puerto USB
-- Radio reloj bluetooth
 - Sleep/snooze
-- 20 presintonías
 - Alarma dual
+- 20 presintonías
+- Radio reloj bluetooth
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

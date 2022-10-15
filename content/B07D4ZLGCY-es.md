@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario + Rabbids Kingdom Battle - Gold Edition'
-date: 2022-10-12 12:48:27
+date: 2022-10-15 10:11:56
 image: 'https://m.media-amazon.com/images/I/51Pp8QUoxBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una nueva aventura protagonizada por donkey kong
+- Un mundo masivo que explorar
+- Diseñado para Nintendo Switch
 - Una épica aventura táctica protagonizada por ocho héroes
 - Una experiencia táctica renovada
-- Diseñado para Nintendo Switch
-- Un mundo masivo que explorar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
