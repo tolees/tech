@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: aprox. 22 x 21 x 12 cm
-- Transmisión inalámbrica de audio en cualquier lugar hasta 33 feet
-- Batería recargable de iones de litio (cable de carga incluido)
 - Respuesta y finalización de llamadas vía altavoz
+- Transmisión inalámbrica de audio en cualquier lugar hasta 33 feet
 - Ekids, Altavoz Bluetooth Marvel Escudo Capitán América
+- Batería recargable de iones de litio (cable de carga incluido)
+- Tamaño: aprox. 22 x 21 x 12 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
