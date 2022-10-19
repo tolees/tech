@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston NV2 NVMe PCIe 4.0 SSD 500G M.2 2280 - SNV2S/500G'
-date: 2022-10-18 13:40:02
+date: 2022-10-19 14:41:47
 image: 'https://m.media-amazon.com/images/I/41EQn4KxSZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rendimiento de NVMe PCIe Gen 4x4
-- Óptimo para portátiles y equipos de pequeño factor de forma
 - Capacidades de hasta 2 TB
+- Óptimo para portátiles y equipos de pequeño factor de forma
+- Rendimiento de NVMe PCIe Gen 4x4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
