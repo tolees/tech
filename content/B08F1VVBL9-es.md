@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
 - La tecnología NVMe sorprendentemente rápida con velocidades de lectura de hasta 1050 MB/s y velocidades de escritura de hasta 1000 MB/s
 - Copia de seguridad sencilla
+- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
 - Diseño elegante y compacto. USB 3.2 Gen. 2 de compatibilidad cruzada y USB-C (USB-A para sistemas más antiguos)
 - Cifrado de hardware AES de 256 bits habilitado mediante contraseña
 
