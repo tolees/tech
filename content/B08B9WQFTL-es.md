@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS USB-BT500 - Adaptador USB Bluetooth 5.0 con diseño ultra compacto  compatible con Bluetooth 2.1/3.x/4.x '
-date: 2022-10-19 10:16:36
+date: 2022-10-21 05:26:33
 image: 'https://m.media-amazon.com/images/I/31JYqCP5qqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08B9WQFTL/?tag=tolees-21'
 descuento: '41.85'
-average: '12.5683098591549'
+average: '12.5463888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
