@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia M DTXM/128GB USB 3.2 Gen 1 - con capuchón móvil en múltiples colores'
-date: 2022-10-22 13:15:25
+date: 2022-10-23 17:13:40
 image: 'https://m.media-amazon.com/images/I/31Q5iGL2cgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Múltiples opciones de colores por capacidad
-- Práctica presilla para llavero
 - Diseño de capuchón móvil para proteger el conector USB
+- Práctica presilla para llavero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
