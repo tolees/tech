@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transfiere una película a la memoria en menos de 30 segundos
 - Usb 3.1 (gen. 1) con velocidades de hasta 150.mb/s
 - Elegante diseño de metal fundido
-- Hasta 128GB de almacenamiento
+- Transfiere una película a la memoria en menos de 30 segundos
 - Incluye la protección con contraseña SanDisk SecureAccess
+- Hasta 128GB de almacenamiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

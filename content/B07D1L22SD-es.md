@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Minecraft - Nintendo Switch'
-date: 2022-10-17 18:00:25
+date: 2022-10-25 20:53:10
 image: 'https://m.media-amazon.com/images/I/5125K29bdvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,5 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Minecraft es un juego de simulación y creación con gráficos pixelados
-- La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida
-- Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar
-- El juego Minecraft se encuentra en constante actualización y progresión
-- El mundo de Minecraft está muy vivo y hay espacio para la exploración y la supervivencia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
