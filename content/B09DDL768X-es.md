@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bumble3ee Interactive - Greak. Memories of Azur - Nintendo Switch'
-date: 2022-10-23 12:03:32
+date: 2022-10-27 15:10:17
 image: 'https://m.media-amazon.com/images/I/41Vw5Wsm2hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bumble3ee Interactive'
 buyurl: 'https://www.amazon.es/dp/B09DDL768X/?tag=tolees-21'
 descuento: '39.03'
-average: '27.5642857142857'
+average: '27.2425'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
