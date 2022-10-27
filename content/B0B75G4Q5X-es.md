@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Flex 5 - Portátil Convertíble 14" FullHD  AMD Ryzen 5 5500U  16GB RAM  512GB SSD  AMD Radeon Graphics  Windows 11 Home en Modo S  Gris Oscuro - Teclado QWERTY Español'
-date: 2022-10-26 13:43:44
-image: 'https://m.media-amazon.com/images/I/31U7n7oHNVL._SL500_._SL400_.jpg'
+date: 2022-10-27 16:33:44
+image: 'https://m.media-amazon.com/images/I/41iJyFGjTOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B0B75G4Q5X/?tag=tolees-21'
 descuento: '23.39'
-average: '637.15'
+average: '628.816666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 / 4.0GHz, 3MB)
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Pantalla táctil convertíble de 14" FullHD 1920x1080 pixeles 220nits Glossy
 - Tarjeta gráfica Integrada AMD Radeon Graphics
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 / 4.0GHz, 3MB)
 - Memoria RAM de 16GB Soldered DDR4-3200
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
