@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Amarillo Lima'
-date: 2022-10-23 11:11:09
+date: 2022-10-27 06:29:23
 image: 'https://m.media-amazon.com/images/I/21icbaM-HnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08YDXKTTQ/?tag=tolees-21'
 descuento: '39.92'
-average: '39.3423853211012'
+average: '39.2819819819823'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Potencia (W): 5.0 watts
 - El SRS-XB13 es compacto, ligero y fácil de transportar, y cuenta con una cómoda correa desmontable para llevar o colgar tu altavoz inalámbrico donde quieras; disponible en 6 divertidos colores
-- Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
 - Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
-- Llévalo a cualquier parte sin preocupaciones; este altavoz portátil es resistente al agua y al polvo (IP67) y tiene hasta 16 horas de autonomía
 - Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
+- Potencia (W): 5.0 watts
+- Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
+- Llévalo a cualquier parte sin preocupaciones; este altavoz portátil es resistente al agua y al polvo (IP67) y tiene hasta 16 horas de autonomía
 
 [🛒 Aquí!!!]({{< param buyurl >}})
