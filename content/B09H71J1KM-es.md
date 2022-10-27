@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Nuevo] MERCUSYS HALO H30G 2-Pack  AC1300 Sistema Wi-Fi Mesh para Todo el hogar  2 Puertos gigabit  Cobertura hasta 260mp  Conecte hasta 100 Dispositivos'
-date: 2022-10-25 20:46:34
+date: 2022-10-27 21:21:18
 image: 'https://m.media-amazon.com/images/I/41qAitO5tcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MERCUSYS'
 buyurl: 'https://www.amazon.es/dp/B09H71J1KM/?tag=tolees-21'
 descuento: '33.46'
-average: '52.1655555555556'
+average: '52.92'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil control vía app: app MERCUSYS para configurar y administrar rápidamente el WiFi.
-- Una red unificada: con tecnología de malla avanzada, las unidades Halo trabajan juntas para formar una única red doméstica unificada con un solo nombre y contraseña de Wi-Fi.
 - Wi-Fi de doble banda de 1,3 Gbps: Halo H30G proporciona conexiones rápidas y estables de hasta 100 dispositivos con velocidades de hasta 1300 Mbps y funciona con los principales proveedores de servicios de Internet (ISP) y módems.
 - Roaming continuo: cambio automáticamente entre Halos mientras un@ se mueve por elhogar, obteniendo siempre la mejor señal para disfrutar de las conexiones más rápidas para todos los dispositivos.
 - Cobertura para todo el hogar: cubre hasta 260 m² (2800 pies²) con WiFi de alta velocidad, eliminando las zonas muertas de WiFi en el hogar.
 - Puertos Gigabit completos: 2 puertos Gigabit por unidad Halo para conexiones por cable ultrarrápidas.
+- Una red unificada: con tecnología de malla avanzada, las unidades Halo trabajan juntas para formar una única red doméstica unificada con un solo nombre y contraseña de Wi-Fi.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
