@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter Kit  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
-date: 2022-10-20 10:51:32
+title: 'TP-Link TL-PA7017P Gigabit Powerline AV1000 - Kit de inicio  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
+date: 2022-10-28 07:39:38
 image: 'https://m.media-amazon.com/images/I/31+QhUjZ4xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0859MDSFX-es TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter...'
+slug: 'B0859MDSFX-es TP-Link TL-PA7017P Gigabit Powerline AV1000 - Kit de...'
 sku: 'B0859MDSFX-es'
 tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','gigabit','tp-link','wifi','🇪🇸', ]
-actualPrice: 54.99 EUR
+actualPrice: 55.99 EUR
 currency: EUR
-price: 54.99
+price: 55.99
 comparePrice: 84.19 EUR
-prodname: 'TP-Link TL-PA7017P Kit AV1000 Gigabit Powerline Starter Kit  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
+prodname: 'TP-Link TL-PA7017P Gigabit Powerline AV1000 - Kit de inicio  Sin WiFi  1 Gigabit Puerto  Super Ahorro de Energía  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0859MDSFX/?tag=tolees-21'
-descuento: '34.68'
-average: '53.7534615384612'
+descuento: '33.50'
+average: '53.7705343511447'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
-- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
-- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
-- Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
 - Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
+- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
 - HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
+- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
 - Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
+- Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
+- ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
 
 [🛒 Comprar!!!]({{< param buyurl >}})
