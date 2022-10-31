@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Una fina pantalla de 120 Hz] Puedes seleccionar entre 30, 60, 90 o 120 Hz según lo que estés haciendo. Tiene un brillo de 1300 nits, una cobertura P3 al 100 %, una relación de contraste de 5 millones a 1 y, por supuesto, compatibilidad con HDR10+. También hemos incluido la increíble velocidad de muestreo táctil de 1000 Hz para superar a la competencia.
-- [Inspirado por el papel, diseñado por un experto] Después de 12 meses de investigación y desarrollo y más de 1000 horas de pruebas de color, hemos creado este diseño visualmente impactante que replica el papel.
 - [Snapdragon 888 5G] Fabricado con tecnología 5mn, el Snapdragon 888 5G proporciona un aumento del 25 % en el rendimiento de la CPU y un aumento del 35 % en el rendimiento de la GPU respecto a las generaciones anteriores.
 - [El nuevo Sony IMX 766] Cuando utilices binning 4 en 1, transforma los píxeles en superpíxeles de 2,0 µm, lo que permite capturar un 63,8 % más de luz en comparación con Sony IMX 586. Más luz y más información de la imagen significa una mejor calidad fotográfica.
+- [Inspirado por el papel, diseñado por un experto] Después de 12 meses de investigación y desarrollo y más de 1000 horas de pruebas de color, hemos creado este diseño visualmente impactante que replica el papel.
 - 3 años de garantía
+- [Una fina pantalla de 120 Hz] Puedes seleccionar entre 30, 60, 90 o 120 Hz según lo que estés haciendo. Tiene un brillo de 1300 nits, una cobertura P3 al 100 %, una relación de contraste de 5 millones a 1 y, por supuesto, compatibilidad con HDR10+. También hemos incluido la increíble velocidad de muestreo táctil de 1000 Hz para superar a la competencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

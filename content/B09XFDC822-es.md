@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
-- Memoria RAM de 16GB SO-DIMM DDR4
-- Procesador Intel Core i5-1035G1 (4C/QuadCore 1 / 3.6GHz, 6MB)
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 16GB SO-DIMM DDR4
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
+- Procesador Intel Core i5-1035G1 (4C/QuadCore 1 / 3.6GHz, 6MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
