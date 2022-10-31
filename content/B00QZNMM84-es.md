@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entrada auricular 3,5mm
 - Función bluetooth
-- SIntonizador AM/FM mediante rueda lateral
-- Puertos usb, sd/mmc para reproducir archivos mp3; la capacidad máxima de la toma us/ sd / mmc es de 32g
-- El lector cd reproduce formatos cd, cd-r, cd-rw. NO REPRODUCE CD-MP3
 - Sonido: 2x1w
+- Entrada auricular 3,5mm
 - Micrófono integrado, función manos libres
+- El lector cd reproduce formatos cd, cd-r, cd-rw. NO REPRODUCE CD-MP3
+- Puertos usb, sd/mmc para reproducir archivos mp3; la capacidad máxima de la toma us/ sd / mmc es de 32g
+- SIntonizador AM/FM mediante rueda lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
