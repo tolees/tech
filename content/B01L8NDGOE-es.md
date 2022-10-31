@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TomTom GO 620  GPS para coche  6 pulgadas  llamadas manos libres  Siri y Google Now  actualizaciones via Wi-Fi'
-date: 2022-10-28 18:27:51
+date: 2022-10-31 10:29:53
 image: 'https://m.media-amazon.com/images/I/51DA7FjJKEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TomTom'
 buyurl: 'https://www.amazon.es/dp/B01L8NDGOE/?tag=tolees-21'
 descuento: '23.47'
-average: '166.433035714285'
+average: '166.319298245613'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
