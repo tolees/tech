@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica Integrada AMD Radeon Graphics
-- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 / 4.0GHz, 3MB)
-- Memoria RAM de 16GB Soldered DDR4-3200
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Memoria RAM de 16GB Soldered DDR4-3200
+- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 / 4.0GHz, 3MB)
 - Pantalla táctil convertíble de 14" FullHD 1920x1080 pixeles 220nits Glossy
+- Tarjeta gráfica Integrada AMD Radeon Graphics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
