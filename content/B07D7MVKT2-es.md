@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Dual-Band  4 Puertos Ethernet  Router WiFi Inteligente de Largo Alcance  MU-MIMO  procesador de 28nm  fácil de configurar  Blanco'
-date: 2022-10-31 06:23:11
+date: 2022-11-01 07:11:52
 image: 'https://m.media-amazon.com/images/I/21Osc-8+b3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21'
 descuento: '52.64'
-average: '28.9178400000005'
+average: '28.894682539683'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
