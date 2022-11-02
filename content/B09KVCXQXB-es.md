@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Wave 300 TWS True Wireless Auriculares Inalámbricos In-Ear con micrófono integrado  hasta 26 horas de reproducción  incluye estuche de carga  blanco'
-date: 2022-11-01 00:30:24
+date: 2022-11-02 07:30:12
 image: 'https://m.media-amazon.com/images/I/21jj+FkyprL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B09KVCXQXB/?tag=tolees-21'
 descuento: '40.00'
-average: '58.8333333333333'
+average: '58.949'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
