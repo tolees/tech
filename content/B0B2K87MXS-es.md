@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Xiaomi
-- Alta calidad
-- Color: Verde Aurora
 - Smartphone Xiaomi Redmi 9C NFC 3GB/ 64GB/ 6.53"
+- Alta calidad
+- Marca: Xiaomi
+- Color: Verde Aurora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
