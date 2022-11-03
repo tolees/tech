@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'TCL 30 SE 128GB - Smartphone de 6.52" HD+ con NXTVISION  MediaTek Helio G25  4GB/128GB Ampliable MicroSD  Dual SIM  Cámaras 50MP+2MP+2MP  Batería 5000mAh  Android 12  Gris'
-date: 2022-10-25 12:52:43
-image: 'https://m.media-amazon.com/images/I/41eX6TgngEL._SL500_._SL400_.jpg'
+date: 2022-11-02 22:29:22
+image: 'https://m.media-amazon.com/images/I/41Zoa4W4vNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09SLVMS88-es TCL 30 SE 128GB - Smartphone de 6.52" HD+ con NXTVISION...'
 sku: 'B09SLVMS88-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','microsd','smartphone','tcl','🇪🇸', ]
-actualPrice: 131.57 EUR
+actualPrice: 122.26 EUR
 currency: EUR
-price: 131.57
+price: 122.26
 comparePrice: 185.58 EUR
 prodname: 'TCL 30 SE 128GB - Smartphone de 6.52" HD+ con NXTVISION  MediaTek Helio G25  4GB/128GB Ampliable MicroSD  Dual SIM  Cámaras 50MP+2MP+2MP  Batería 5000mAh  Android 12  Gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TCL'
 buyurl: 'https://www.amazon.es/dp/B09SLVMS88/?tag=tolees-21'
-descuento: '29.10'
-average: '132.841818181818'
+descuento: '34.12'
+average: '131.96'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
