@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Medición del nivel de oxígeno en sangre
+- Más de 60 modos de deportes, con GPS de alta precisión
 - Resistencia al agua de 5 ATM
 - Pantalla grande a color de 1,43”
-- Más de 60 modos de deportes, con GPS de alta precisión
-- Medición del nivel de oxígeno en sangre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
