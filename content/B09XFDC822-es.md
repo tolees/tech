@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- Procesador Intel Core i5-1035G1 (4C/QuadCore 1 / 3.6GHz, 6MB)
-- Tarjeta gráfica integrada Intel UHD Graphics
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
 - Memoria RAM de 16GB SO-DIMM DDR4
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i5-1035G1 (4C/QuadCore 1 / 3.6GHz, 6MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
