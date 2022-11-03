@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Especificaciones técnicas - Batería: hasta 30 horas (al 50% del volumen), 12 horas (al 100% de volumen); Amplificador: digital clase D, 25W; Respuesta en frecuencia: 60 - 20.000Hz; Medidas: 115 x 215 x 135 mm; Entradas: Wifi, Bluetooth V4.0 y Aux In 3.5mm; Salidas estéreo: USB DC OUT/max 5V 1000
 - Selección de materiales de primera calidad: Altavoces de diseño elegante hechos de aluminio sólido, una caja de madera resistente y un mango de cuero genuino, es el altavoz portátil perfecto para el uso diario
+- Especificaciones técnicas - Batería: hasta 30 horas (al 50% del volumen), 12 horas (al 100% de volumen); Amplificador: digital clase D, 25W; Respuesta en frecuencia: 60 - 20.000Hz; Medidas: 115 x 215 x 135 mm; Entradas: Wifi, Bluetooth V4.0 y Aux In 3.5mm; Salidas estéreo: USB DC OUT/max 5V 1000
+- Pequeños altavoces con un gran sonido: Audio Pro diseña sus productos hasta el mínimo detalle y quiere que los disfrutes al máximo, sin problemas, con la mejor calidad de sonido y al mejor precio
 - Magia inalámbrica que nunca te deja sin música: El Addon T3+ es un pequeño altavoz inalámbrico portátil con un gran sonido que incluso te permite cargar tu teléfono sobre la marcha para que la fiesta no termine, un pequeño altavoz que establece un nuevo estándar de sonido portátil
 - Un sonido que no querrás dejar de escuchar: Puedes mejorar la calidad del sonido y configurarlo como más te guste ajustando la configuración del DSP y optimizando los graves. El sonido de estos altavoces es puro, claro y con graves profundos, combinado con una batería de gran capacidad.
-- Pequeños altavoces con un gran sonido: Audio Pro diseña sus productos hasta el mínimo detalle y quiere que los disfrutes al máximo, sin problemas, con la mejor calidad de sonido y al mejor precio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
