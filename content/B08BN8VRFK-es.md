@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - [Gran Compacto]: Alfombrilla de ratón grande con 780 x 300 x 4 mm (30,7 x 11,4 x 0,16 pulgadas) que puede cubrir en gran medida la superficie de funcionamiento de tu escritorio. El teclado y la alfombrilla de ratón te proporcionarán la máxima comodidad de uso.
 - [Altavoz Diseñado]: A veces, quieres soltar los auriculares y ser escuchado por otros. Esta alfombrilla gaming LED viene con un altavoz básico, que puede satisfacer sus necesidades diarias más básicas.
-- [Duradero y Menos Deformación]: La alfombrilla de ratón se puede utilizar más de 30000 horas. Base de goma antideslizante que puede sujetar firmemente el escritorio y evitar que la alfombrilla se deforme. Tejido de seda tratado para garantizar un movimiento suave.
 - [15 Modos de Iluminación]: La alfombrilla gaming RGB tiene 11 modos de luz estática y 4 modos dinámicos. Pulsa el botón de luz de la alfombrilla de ratón para jugar para elegir el modo de iluminación que más te guste.
 - [3 Puertos USB]: La alfombrilla de ratón para juegos tiene 3 puertos USB 2.0 adicionales. Teclado y ratones de juego se pueden conectar. La alfombrilla gaming no necesita bucear se puede conectar directamente con el ordenador.
+- [Duradero y Menos Deformación]: La alfombrilla de ratón se puede utilizar más de 30000 horas. Base de goma antideslizante que puede sujetar firmemente el escritorio y evitar que la alfombrilla se deforme. Tejido de seda tratado para garantizar un movimiento suave.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
