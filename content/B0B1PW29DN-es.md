@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ddidbi - Auriculares Inalámbricos  2022 Auriculares Bluetooth 5.3  Hi-Fi Estéreo Cascos Inalambricos  Llamadas Nítidas con Dual Micrófono  Controladore 13 mm Bass Potentes  LED Pantalla IP7 Impermeables  USB-C'
-date: 2022-11-02 07:26:37
+date: 2022-11-04 08:14:10
 image: 'https://m.media-amazon.com/images/I/41Env7Zq03L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ddidbi'
 buyurl: 'https://www.amazon.es/dp/B0B1PW29DN/?tag=tolees-21'
 descuento: '40.01'
-average: '27.9086956521737'
+average: '27.952978723404'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
