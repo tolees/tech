@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ MOBIUZ EX3410R Monitor Curvo Gaming  34 pulgadas  Ultrawide  2K  144 Hz  1ms  HDR 400  FreeSync Premium Pro  control remoto '
-date: 2022-10-30 09:04:13
+date: 2022-11-06 06:24:44
 image: 'https://m.media-amazon.com/images/I/41u-z0sE51L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BenQ'
 buyurl: 'https://www.amazon.es/dp/B09R6W6F8X/?tag=tolees-21'
 descuento: '37.55'
-average: '499.12375'
+average: '499.11'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
