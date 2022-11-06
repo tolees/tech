@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOBOPO - Auriculares Inalámbricos  2022 Mini Auriculares Bluetooth 5.2 con HD Micrófono  Cascos Inalambricos Sonido Premium Inmersivo  IP7 Impermeables  LED Pantalla 35H Control Táctil Wireless Earbuds  Blanco'
-date: 2022-10-26 09:37:22
+date: 2022-11-06 14:43:50
 image: 'https://m.media-amazon.com/images/I/41iRuR1gNVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DOBOPO'
 buyurl: 'https://www.amazon.es/dp/B0B4DH8Q4C/?tag=tolees-21'
 descuento: '50.01'
-average: '35.99'
+average: '35.3233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
