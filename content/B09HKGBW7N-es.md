@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXTEL Videoportero con Cable Conectado Extel Connect 2 Ultra Plano fácil de Instalar Conectado Smartphone o Desde su Monitor de 7 Pulgadas  visión Nocturna WiFi'
-date: 2022-11-03 21:44:02
+date: 2022-11-07 21:07:09
 image: 'https://m.media-amazon.com/images/I/31ex9a5t+iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instalación rápida y sencilla de 2 hilos entre la placa de calle y el monitor
-- Placa de calle y visera de aluminio
 - Memoria integrada para grabar fotos de los visitantes que se presentaron en su ausencia
-- Visión nocturna por infrarrojos
-- Portaetiquetas y botón iluminado
+- Instalación rápida y sencilla de 2 hilos entre la placa de calle y el monitor
 - Bienvenido y abra a sus visitantes desde su casa y en cualquier otro lugar a través de su smartphone
+- Doble control cerradura y portal
+- Placa de calle y visera de aluminio
+- Portaetiquetas y botón iluminado
+- Visión nocturna por infrarrojos
 - Función de monitoreo para vigilar la entrada fácilmente
 - Grabación de fotos de visitantes en memoria interna
-- Doble control cerradura y portal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
