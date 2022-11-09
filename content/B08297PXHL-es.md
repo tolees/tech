@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conecta tu home cinema, televisión o cualquier otro dispositivo de una forma sencilla vía Bluetooth.
 - Elegante sistema de altavoces en forma de torre con 50W de potencia, mando a distancia y un sonido nítido y potente gracias a su carcasa de madera de color negro.
 - Radio FM con memoria de emisoras, y puerto USB para la reproducción de MP3 o para cargar la batería de tu dispositivo.
-- Varias alternativas de conectividad: entrada óptica para conectar a la TV, compatible con Bluetooth, entrada de Audio USB, Radio FM y AUX IN.
+- Conecta tu home cinema, televisión o cualquier otro dispositivo de una forma sencilla vía Bluetooth.
 - Conecta 2 torres en estéreo gracias al cable de audio desde la salida de audio de la torre principal a la entrada de audio de la torre secundaria (la torre secundaria solo responderá a los controles de la principal).
+- Varias alternativas de conectividad: entrada óptica para conectar a la TV, compatible con Bluetooth, entrada de Audio USB, Radio FM y AUX IN.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
