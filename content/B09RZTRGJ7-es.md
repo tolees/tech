@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smartphone Xiaomi 12 8GB/ 256GB/ 6.28 / 5G/ Gris'
-date: 2022-11-01 11:01:04
+date: 2022-11-09 15:04:02
 image: 'https://m.media-amazon.com/images/I/21fDEAHFZ-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RZTRGJ7-es Smartphone Xiaomi 12 8GB/ 256GB/ 6.28 / 5G/ Gris'
 sku: 'B09RZTRGJ7-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','smartphone','xiaomi','🇪🇸', ]
-actualPrice: 548.95 EUR
+actualPrice: 512.0 EUR
 currency: EUR
-price: 548.95
+price: 512.0
 comparePrice: 899.99 EUR
 prodname: 'Smartphone Xiaomi 12 8GB/ 256GB/ 6.28 / 5G/ Gris'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09RZTRGJ7/?tag=tolees-21'
-descuento: '39.00'
-average: '555.503846153846'
+descuento: '43.11'
+average: '552.396428571428'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
