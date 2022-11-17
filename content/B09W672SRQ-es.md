@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 512GB M.2 PCIe NVMe
-- Procesador Intel Core i5-1035G1(4Cores/ 3.6GHz, 6MB)
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz, IPS 250 nits
 - Sistema Operativo: Windows 11
-- Memoria DDR4 de 8 GB 2666 MHz
 - Tarjeta gráfica Intel UHD Graphics
+- Memoria DDR4 de 8 GB 2666 MHz
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz, IPS 250 nits
+- Procesador Intel Core i5-1035G1(4Cores/ 3.6GHz, 6MB)
+- Almacenamiento de 512GB M.2 PCIe NVMe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
