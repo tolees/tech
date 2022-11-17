@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria integrada para perfiles de juego; switches omron en los botones izquierdo y derecho del ratón
-- Sensor óptico PixArt PMW 3336 con 10.800 DPI
-- Software para juego; 12 botones programables; cable textil trenzado (USB chapado en oro)
-- Ratón para juego con iluminación RGB
 - Botones macro de rápido acceso, Rueda de desplazamiento de cuatro direcciones y sistema de ajuste de peso
+- Software para juego; 12 botones programables; cable textil trenzado (USB chapado en oro)
+- Memoria integrada para perfiles de juego; switches omron en los botones izquierdo y derecho del ratón
+- Ratón para juego con iluminación RGB
+- Sensor óptico PixArt PMW 3336 con 10.800 DPI
 
 [🛒 Aquí!!!]({{< param buyurl >}})

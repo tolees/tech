@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La tecnología TÜV Rheinland Eye Comfort garantiza una fatiga visual mínima cuando ves un vídeo, navegas por páginas web, disfrutas del entretenimiento, trabajas o estudias desde casa
-- Ajuste de inclinación (-5° / 22°) y elevación (130mm) para disfrutar de la máxima comodidad de visualización. Soporte VESA para montar la pantalla en la pared
-- Puertos 2xHDMI y DP; Cable DP incluido en la caja
-- AMD FreeSync Premium; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos al ajustar dinámicamente la frecuencia de actualización para que coincida con la salida de la GPU, con lo que podrás estar siempre concentrado en el juego
 - Tiempo de respuesta de 0.5ms, frecuencia de actualización de 144 Hz y frecuencia de reloj de 165 Hz
-- Pantalla de 23.8" con resolución FHD (1920x1080 pixeles), 350 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
-- El soporte con base en forma de V y temática del “Wings of Victory” lo sostiene de manera sólida y da un toque de estilo
+- AMD FreeSync Premium; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos al ajustar dinámicamente la frecuencia de actualización para que coincida con la salida de la GPU, con lo que podrás estar siempre concentrado en el juego
+- Ajuste de inclinación (-5° / 22°) y elevación (130mm) para disfrutar de la máxima comodidad de visualización. Soporte VESA para montar la pantalla en la pared
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Relación de aspecto 16:9 y relación de contraste 1000:1
+- El soporte con base en forma de V y temática del “Wings of Victory” lo sostiene de manera sólida y da un toque de estilo
+- La tecnología TÜV Rheinland Eye Comfort garantiza una fatiga visual mínima cuando ves un vídeo, navegas por páginas web, disfrutas del entretenimiento, trabajas o estudias desde casa
+- Pantalla de 23.8" con resolución FHD (1920x1080 pixeles), 350 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
+- Puertos 2xHDMI y DP; Cable DP incluido en la caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
