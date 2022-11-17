@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📷 [940nm IR sin luz]. El mundo animal es aún más interesante por la noche. La cámara de caza con 24 LEDs infrarrojos sin luz de 940nm funciona correctamente sin molestar a los animales, tomando fotos y videos claros en la oscuridad, capturando los animales para usted en su estado nocturno más natural.
 - 📷 [Colores de protección de la naturaleza y resistencia al agua IP66]. El cuerpo de la cámara de caza cuenta con un patrón de hojas y verde militar como color de protección, que se combina perfectamente con el entorno natural cuando se coloca en el campo para el trabajo de observación. El alto nivel de ocultación aumenta la seguridad de la cámara, a la vez que le proporciona un mejor acceso a las observaciones de campo. Además, esta cámara de caza silvestre cuenta con la certificación de impermeabilidad IP66 para soportar la lluvia y la arena.
 - 📷 [Fácil de ajustar el ángulo] Esta cámara de caza le da una buena experiencia de visualización directa. La lente y la pantalla están diseñadas para estar en el mismo lado, por lo que puede ver el rango de disparos en el modo "ON" en el modo "Test", por lo que es fácil de ajustar el ángulo de la lente.
 - 📷 [Un regalo especial con una amplia gama de características] Esta cámara está equipada con instrucciones detalladas actualizadas. (Tenga en cuenta que la batería y la tarjeta SD no están incluidos en el paquete) Todo en una multifunción: Almacenamiento en bucle; Sello de tiempo; Temporizador; Ajuste de temperatura (seleccionable ℉/℃); Intervalo y sensibilidad PIR; Función de retardo de tiempo; Protección por contraseña, etc.
+- 📷 [940nm IR sin luz]. El mundo animal es aún más interesante por la noche. La cámara de caza con 24 LEDs infrarrojos sin luz de 940nm funciona correctamente sin molestar a los animales, tomando fotos y videos claros en la oscuridad, capturando los animales para usted en su estado nocturno más natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

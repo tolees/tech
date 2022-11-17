@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CrystalLake - Auriculares Inalámbricos  Auriculares Bluetooth HiFi Estéreo  Cascos inalambricos Bluetooth IPX5 Impermeables In-Ear Cascos Bluetooth Inalámbricos'
-date: 2022-11-16 09:04:07
+date: 2022-11-17 13:15:24
 image: 'https://m.media-amazon.com/images/I/41pf+v8MBeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CrystalLake'
 buyurl: 'https://www.amazon.es/dp/B0BFF99BQY/?tag=tolees-21'
 descuento: '77.78'
-average: '33.2966666666667'
+average: '27.47'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

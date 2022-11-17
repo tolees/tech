@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla Full HD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Procesador Intel Core i5-11400H (hasta 4,5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos, 12 subprocesos)
 - Sin sistema operativo (FreeDOS)
 - Memoria RAM DDR4-2933 MHz 16 GB (2 x 8 GB)
-- Procesador Intel Core i5-11400H (hasta 4,5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos, 12 subprocesos)
 - Almacenamiento de datos SSD PCIe NVMe TLC M.2 de 512 GB
-- Pantalla Full HD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Gráficos: GPU de portátil NVIDIA GeForce GTX 1650 (GDDR6 de 4 GB dedicada)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
