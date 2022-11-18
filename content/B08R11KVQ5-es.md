@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher Hidrolimpiadora de alta presión K 7 Premium Smart Control Home  Con conexión Bluetooth App  solución potente para limpieza  180 bar  3.000W  600L/h'
-date: 2022-11-06 16:21:08
+date: 2022-11-18 11:04:49
 image: 'https://m.media-amazon.com/images/I/41SQJF-mttL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kärcher'
 buyurl: 'https://www.amazon.es/dp/B08R11KVQ5/?tag=tolees-21'
 descuento: '26.53'
-average: '545.470400000001'
+average: '543.563846153847'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
