@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - USB 3.0 transfiere datos a 5 Gb/s, 10 veces más rápido que la tecnología USB 2.0
-- Suministra 5 A para cargar rápidamente smartphones o tabletas enchufando el hub a una toma de corriente externa
 - Los puertos de carga son compatibles con el estándar USB BC 1.2 y con dispositivos BC 1.2 como el iPad 4ª generación, el iPad Air y el iPad mini (consulte las especificaciones del dispositivo)
-- Compatible con sistemas que ejecutan Windows 8.1/8/7/Vista/XP y Mac OS X 10.6 o versiones posteriores
 - Instalación Plug & Play sin necesidad de descargar controladores
+- Suministra 5 A para cargar rápidamente smartphones o tabletas enchufando el hub a una toma de corriente externa
+- Compatible con sistemas que ejecutan Windows 8.1/8/7/Vista/XP y Mac OS X 10.6 o versiones posteriores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
