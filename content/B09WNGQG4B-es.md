@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Acer Aspire 1 A114-61L - Ordenador Portátil 14” HD  Qualcomm Kryo 468  8 GB RAM  128 GB SSD  Qualcomm Adreno 618  Windows 11  Color Blanco - Teclado QWERTY Español'
+date: 2022-11-17 23:49:35
+image: 'https://m.media-amazon.com/images/I/41DmQWdbGKL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09WNGQG4B-es Acer Aspire 1 A114-61L - Ordenador Portátil 14” HD...'
+sku: 'B09WNGQG4B-es'
+tags: [ 'Informática','Portátiles','acer','ordenador','ram','teclado','🇪🇸', ]
+actualPrice: 279.0 EUR
+currency: EUR
+price: 279.0
+comparePrice: 349.0 EUR
+prodname: 'Acer Aspire 1 A114-61L - Ordenador Portátil 14” HD  Qualcomm Kryo 468  8 GB RAM  128 GB SSD  Qualcomm Adreno 618  Windows 11  Color Blanco - Teclado QWERTY Español'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Acer'
+buyurl: 'https://www.amazon.es/dp/B09WNGQG4B/?tag=tolees-21'
+descuento: '20.06'
+average: '414.0'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Sistema operativo: Windows 11
+- Gráfica integrada Qualcomm Adreno 618
+- Memoria de 8GB RAM
+- Procesador Qualcomm Kryo 468
+- Almacenamiento de 128 GB SSD
+- Pantalla de 14” HD (‎1366x768 Píxeles)
+
+[🛒 Comprar!!!]({{< param buyurl >}})

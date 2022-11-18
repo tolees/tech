@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman Elite - Teclado Gaming  Rápido  Switches Optomecánicos De Razer  Retroiluminación RGB Chroma  Dial Digital Multifunción  Reposamuñecas Ergonómico  Teclado Español - Negro'
-date: 2022-11-04 16:49:12
+date: 2022-11-18 00:51:32
 image: 'https://m.media-amazon.com/images/I/41n94hJOzCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07CZ6R7VK-es Razer Huntsman Elite - Teclado Gaming Rápido Switches...'
 sku: 'B07CZ6R7VK-es'
 tags: [ 'Accesorios','Informática','Teclados','Teclados, ratones y periféricos de entrada','razer','teclado','🇪🇸', ]
-actualPrice: 116.16 EUR
+actualPrice: 90.69 EUR
 currency: EUR
-price: 116.16
+price: 90.69
 comparePrice: 209.99 EUR
 prodname: 'Razer Huntsman Elite - Teclado Gaming  Rápido  Switches Optomecánicos De Razer  Retroiluminación RGB Chroma  Dial Digital Multifunción  Reposamuñecas Ergonómico  Teclado Español - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07CZ6R7VK/?tag=tolees-21'
-descuento: '44.68'
-average: '152.857142857143'
+descuento: '56.81'
+average: '148.712666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

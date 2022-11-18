@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OnePlus Nord CE 2 5G con 8GB RAM y 128GB de memoria smartphone sin SIM con Cámara triple con IA de 64MP y Carga rápida de 65W - 2 años de garantía - Gray Mirror'
-date: 2022-11-05 08:44:48
+date: 2022-11-18 00:26:54
 image: 'https://m.media-amazon.com/images/I/41DEkG+Ap7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07XM7WP7S-es OnePlus Nord CE 2 5G con 8GB RAM y 128GB de memoria...'
 sku: 'B07XM7WP7S-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','oneplus','ram','smartphone','🇪🇸', ]
-actualPrice: 274.0 EUR
+actualPrice: 259.99 EUR
 currency: EUR
-price: 274.0
+price: 259.99
 comparePrice: 359.0 EUR
 prodname: 'OnePlus Nord CE 2 5G con 8GB RAM y 128GB de memoria smartphone sin SIM con Cámara triple con IA de 64MP y Carga rápida de 65W - 2 años de garantía - Gray Mirror'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ONEPLUS'
 buyurl: 'https://www.amazon.es/dp/B07XM7WP7S/?tag=tolees-21'
-descuento: '23.68'
-average: '298.82052631579'
+descuento: '27.58'
+average: '296.879000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
