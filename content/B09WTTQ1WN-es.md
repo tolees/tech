@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme Narzo 50A Prime - 4+64GB smartphone  Pantalla completa FHD+ de 16 7 cm  6 6     Triple cámara de IA de 50 MP  Batería de 5000 mAh  Procesador Unisoc T612  Flash Blue  no incluye un adaptador'
-date: 2022-11-18 00:26:12
+date: 2022-11-19 18:49:52
 image: 'https://m.media-amazon.com/images/I/41HMNhUCXfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09WTTQ1WN/?tag=tolees-21'
 descuento: '24.12'
-average: '143.641176470588'
+average: '142.827222222222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Diseño ultrafino de 8,1 mm】 Gran potencia. Tamaño reducido. Al optimizar de forma continua la estructura interna del teléfono, finalmente se ha logrado un fino diseño fino de 8,1 mm que permite sujetarlo con gran comodidad. Asimismo, el realme narzo 50A Prime es el teléfono más fino de la serie narzo.*3 años de garantía*
-- 【Pantalla completa FHD+ de 16,7 cm (6,6)】 Juegos inmersivos con detalles vivos Gracias a una gran pantalla de 6,6 pulgadas y una resolución de hasta 2408 × 1080, podrás ver claramente todos los movimientos de tu oponente en la escena del juego, comprender enseguida la situación del juego y atacar rápidamente.*
-- 【Modo super ahorro ultrahorro】 Cuando te quede poca batería en el teléfono, no tienes de qué preocuparte. Si activas el modo super ahorro ultraahorro, aunque solo te quede el 5 % de batería, aún podrás hacer uso del teléfono.
-- 【Gran batería de 5000 mAh】 Gran potencia durante todo el día Es difícil imaginar una batería de gran capacidad ultragrande de 5000 mAh dentro de un teléfono de solo 8,1 mm de grosor. Gracias a esto, podrás utilizarlo durante todo el día jugando o viendo vídeos, sin tener que preocuparte por la batería.*
 - 【Diseño de textura de velocidad de Kevlar】 El realme narzo 50A Prime continúa empleando el diseño de textura de velocidad de kevlar del narzo 50, un exclusivo diseño que encarna por completo la sensación de velocidad de una competición. En tu mano, parecerá un coche de carreras en miniatura.
+- 【Diseño ultrafino de 8,1 mm】 Gran potencia. Tamaño reducido. Al optimizar de forma continua la estructura interna del teléfono, finalmente se ha logrado un fino diseño fino de 8,1 mm que permite sujetarlo con gran comodidad. Asimismo, el realme narzo 50A Prime es el teléfono más fino de la serie narzo.*3 años de garantía*
+- 【Gran batería de 5000 mAh】 Gran potencia durante todo el día Es difícil imaginar una batería de gran capacidad ultragrande de 5000 mAh dentro de un teléfono de solo 8,1 mm de grosor. Gracias a esto, podrás utilizarlo durante todo el día jugando o viendo vídeos, sin tener que preocuparte por la batería.*
+- 【Modo super ahorro ultrahorro】 Cuando te quede poca batería en el teléfono, no tienes de qué preocuparte. Si activas el modo super ahorro ultraahorro, aunque solo te quede el 5 % de batería, aún podrás hacer uso del teléfono.
+- 【Pantalla completa FHD+ de 16,7 cm (6,6)】 Juegos inmersivos con detalles vivos Gracias a una gran pantalla de 6,6 pulgadas y una resolución de hasta 2408 × 1080, podrás ver claramente todos los movimientos de tu oponente en la escena del juego, comprender enseguida la situación del juego y atacar rápidamente.*
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
