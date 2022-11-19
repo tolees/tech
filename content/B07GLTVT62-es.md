@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EXTRABASS añade potencia a los graves
 - Botón giratorio de volumen para un control sencillo
 - Cámara de visión trasera para aparcar con facilidad
+- EXTRABASS añade potencia a los graves
 - Crea altavoces virtuales en el salpicadero con el organizador dinámico de sonido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
