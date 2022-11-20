@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin sistema operativo
-- Procesador Intel Core i5-11320H (4C / 8T, 3.2 / 4.5GHz, 8MB)
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare, 60Hz, DC dimmer
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
+- Sin sistema operativo
 - Almacenamiento de 512GB SSD
+- Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, Anti-glare, 60Hz, DC dimmer
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Procesador Intel Core i5-11320H (4C / 8T, 3.2 / 4.5GHz, 8MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
