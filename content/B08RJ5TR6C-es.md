@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Denim clásico de 5 bolsillos con parte elástica
 - Ajuste ajustado: cintura normal, pierna estrecha, abertura de pierna estrecha
+- Denim clásico de 5 bolsillos con parte elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

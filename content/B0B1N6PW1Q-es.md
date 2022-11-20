@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 15 A11M-1050XES - Ordenador portátil de 15.6" FHD  Intel Core i7-1195G7  16GB RAM  512 GB SSD  UHD Graphics Free DOS  Gris Carbon - Teclado QWERTY Español'
-date: 2022-11-18 18:22:21
+date: 2022-11-20 11:24:29
 image: 'https://m.media-amazon.com/images/I/31JK1KtmJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B0B1N6PW1Q/?tag=tolees-21'
 descuento: '30.03'
-average: '899.0'
+average: '849.0'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo Free DOS
-- Procesador Intel Core i7-1195G7
 - Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD
+- Procesador Intel Core i7-1195G7
 - Tarjeta gráfica UHD Graphics
 - Memoria RAM de 16GB (3200MHz) DDR IV
+- Sistema operativo Free DOS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
