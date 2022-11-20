@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Pet Food Feeder - Comedero automático para Perros y Gatos de pequeño y Mediano tamaño  dosificación automática con temporización  1.8 Kg de alimento  hasta 20 días  App Xiaomi Home'
-date: 2022-11-18 18:36:27
+date: 2022-11-20 15:12:48
 image: 'https://m.media-amazon.com/images/I/21HnUsMkipL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0BB4B2SL9/?tag=tolees-21'
 descuento: '23.08'
-average: '121.132857142856'
+average: '119.723333333332'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

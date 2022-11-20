@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 4GB ampliables hasta 12GB
-- Procesador AMD 3020e (2C/2T, 1.2/2.6GHz, 1MB L2/4MB L3)
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Sistema operativo: Windows 11 Home en modo S
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 220nits, Anti-glare
+- Memoria RAM de 4GB ampliables hasta 12GB
 - Almacenamiento de 128GB SSD
+- Tarjeta gráfica integrada AMD Radeon Graphics
+- Procesador AMD 3020e (2C/2T, 1.2/2.6GHz, 1MB L2/4MB L3)
+- Sistema operativo: Windows 11 Home en modo S
 
 [🛒 Aquí!!!]({{< param buyurl >}})
