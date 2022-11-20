@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHiQ L32G7L  Smart TV 32 Pulgadas  80cm  2022 Televisor con Android 11  Frameless TV  Netflix  Prime Video  Youtube  HDR10  2.4/5G Wi-Fi  Bluetooth5.0  Chromecast  Google Assistant  DVB-T/T2/S2'
-date: 2022-11-19 18:29:20
+date: 2022-11-20 19:31:04
 image: 'https://m.media-amazon.com/images/I/41Oqrg+YGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CHiQ'
 buyurl: 'https://www.amazon.es/dp/B09PDGD6JB/?tag=tolees-21'
 descuento: '38.84'
-average: '160.722'
+average: '160.435'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
