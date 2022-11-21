@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 64GB eMMC
-- Sistema Operativo: Chrome OS
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Tarjeta gráfica integrada Intel UHD Graphics 615
 - Procesador Intel Core m3 m3-8100Y (2C/DualCore 1.1 / 3.4GHz, 4MB)
+- Sistema Operativo: Chrome OS
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Memoria RAM de 8GB SO-DIMM LPDDR3
+- Almacenamiento de 64GB eMMC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
