@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MX Anywhere 2S Ratón Inalámbrico  Multi-Ordenadores  2 4 GHz y Bluetooth con Receptor Unifying USB  Seguimiento Láser 200/4000 dpi Toda Superficie  Portátil/PC/Mac/iPad OS  Gris Oscuro'
-date: 2022-11-18 00:37:38
+date: 2022-11-22 16:29:36
 image: 'https://m.media-amazon.com/images/I/31YQxfFQK3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech'
 buyurl: 'https://www.amazon.es/dp/B07W5JJR4H/?tag=tolees-21'
 descuento: '41.03'
-average: '54.74'
+average: '52.1566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguimiento de Alta Precisión Darkfield: el ratón inalámbrico de Logitech MX Anywhere 2S funciona en cualquier superficie
-- Tipo de conectividad: 2.4GHZ; Sistema operativo: Windows 8 or later
-- Desplazamiento Superrápido: este ratón inalámbrico tiene Bluetooth y el botón rueda de precisión cambia de desplazamiento clic a clic a rápido
 - Uso Multi-Ordenadores: Logitech Flow de este ratón con Bluetooth hace posible el control de varios dispositivos y copiar-pegar contenido y documentos entre ordenadores
+- Seguimiento de Alta Precisión Darkfield: el ratón inalámbrico de Logitech MX Anywhere 2S funciona en cualquier superficie
 - Batería Recargable: conecta el ratón por Bluetooth al ordenador o portátil mediante el cable de carga micro USB
+- Tipo de conectividad: 2.4GHZ; Sistema operativo: Windows 8 or later
 - Forma Contorneada Compacta: el ratón inalámbrico de Logitech diseñado para adaptarse a la mano
+- Desplazamiento Superrápido: este ratón inalámbrico tiene Bluetooth y el botón rueda de precisión cambia de desplazamiento clic a clic a rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
