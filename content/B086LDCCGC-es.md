@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAXGD Lupa de Pantalla con Altavoz para teléfono Inteligente  Lupa de teléfono Inteligente con Lupa de Pantalla 3D de 12 Pulgadas  Amplificador de teléfono'
-date: 2022-11-22 05:18:59
+date: 2022-11-23 05:57:52
 image: 'https://m.media-amazon.com/images/I/51VFv2z8PvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DAXGD'
 buyurl: 'https://www.amazon.es/dp/B086LDCCGC/?tag=tolees-21'
 descuento: '17.15'
-average: '18.9230000000001'
+average: '18.9234146341464'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
