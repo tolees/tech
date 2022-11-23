@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Thinbook 15 G2 ITL - Ordenador portátil 15" FullHD  Intel Core i5-1135G7  16GB RAM  512 SSD  Integrated Intel Iris Xe Graphics  Windows 11 Pro  Gris - Teclado QWERTY español'
-date: 2022-11-17 23:46:22
+date: 2022-11-23 20:03:46
 image: 'https://m.media-amazon.com/images/I/41jlZBGb1EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09YVNQSNR/?tag=tolees-21'
 descuento: '23.44'
-average: '670.5'
+average: '665.4'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tarjeta gráfica Integrated Intel Iris Xe Graphics
 - Sistema operativo Windows 11 pro
-- Pantalla de 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
 - Memoria RAM 16gb (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
+- Pantalla de 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
 - Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 SSD Slot
-- Tarjeta gráfica Integrated Intel Iris Xe Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
