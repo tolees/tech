@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LG gram 14Z90Q-G.AA75B - Ordenador portátil 14" WUXGA  Intel Core i7-1260P EVO  16GB RAM  512GB SSD  Gráfica Intel Iris Xe  Windows 11 Home  Negro - Teclado QWERTY español'
-date: 2022-11-17 23:49:17
-image: 'https://m.media-amazon.com/images/I/31v4CEdNrqL._SL500_._SL400_.jpg'
+date: 2022-11-24 20:54:28
+image: 'https://m.media-amazon.com/images/I/31pdmcIbqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B0B25R41NZ/?tag=tolees-21'
 descuento: '31.27'
-average: '1278.975'
+average: '1248.97916666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
-- Procesador Intel Core i7-1260P, 5GHz
-- Tarjeta gráfica Iris XE
 - Memoria RAM de 16GB LPDDR4x ultrarrápida
-- Conectividad universal en tan solo 16,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles
-- Almacenamiento de 512GB SSD NVMe con doble ranura para ampliar hasta 4TB
+- Tarjeta gráfica Iris XE
+- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G)
 - Sistema operativo: Windows 11 Home
+- Procesador Intel Core i7-1260P, 5GHz
+- Almacenamiento de 512GB SSD NVMe con doble ranura para ampliar hasta 4TB
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles
+- Conectividad universal en tan solo 16,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
 - Ultraligero, con tan solo 1kg de peso y batería de hasta 18,5 horas de autonomía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
