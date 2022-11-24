@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo M10 FHD Plus  2nd Gen  - Tablet de 10.3" FullHD  MediaTek Helio P22T  4 GB de RAM  64 GB ampliables hasta 1 TB  2 Altavoces  Wifi + Bluetooth  Android 9 Pie  - Color Plata'
-date: 2022-11-20 23:14:09
+date: 2022-11-23 21:27:35
 image: 'https://m.media-amazon.com/images/I/41Lze6csJJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B086WMCH4T/?tag=tolees-21'
 descuento: '25.50'
-average: '178.326097560975'
+average: '177.627857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altavoces (2) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música
+- Almacenamiento de 64GB eMMC ampliables mediante tarjeta micro SD hasta 1TB
 - Sistema Operativo Android 9 (Pie)
-- Memoria RAM de 4GB Soldered LPDDR4x; permite realizar múltiples tareas a la vez sin problema
+- Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac), Bluetooth 5.0
+- Altavoces (2) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música
 - Tarjeta gráfica Integrada IMG PowerVR GE8320 GPU
 - Cámara: frontal 5MP; trasera 8MP
-- Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac), Bluetooth 5.0
 - Procesador MediaTek Helio P22T Octa-Core con una frecuencia principal de hasta 2.3 GHz
-- Almacenamiento de 64GB eMMC ampliables mediante tarjeta micro SD hasta 1TB
 - Pantalla táctil de 10.3" FullHD (1920x1200) TDDI 330nits; los biseles estrechos en los cuatro laterales ofrecen una relación de pantalla del 90%. Además, cuenta con un amplio ángulo de visión, que ofrece imágenes visuales perfectas, y una cubierta de metal completa, fina y de lujo.
+- Memoria RAM de 4GB Soldered LPDDR4x; permite realizar múltiples tareas a la vez sin problema
 
 [🛒 Comprar!!!]({{< param buyurl >}})
