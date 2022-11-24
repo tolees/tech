@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🎁Precauciones: se recomienda abrir el soporte en la parte inferior de la lupa movil pantalla para formar un ángulo de visión adecuado. Ajuste el brillo de la pantalla del teléfono al máximo y utilícelo en una luz más oscura.
+- 🎁Lupa para todos los teléfonos inteligentes: adecuada para la mayoría de los teléfonos inteligentes como Xiaomi Redmi, Samsung Galaxy, iPhone, etc. También se puede utilizar como soporte para móvil. La pantalla de plexiglás hace que el efecto de observación sea más nítido y tridimensional.
+- 🎁3-4 aumentos: puede ajustar la distancia de visualización del amplificador de pantalla de acuerdo con el tamaño de la pantalla. La distancia recomendada para la amplificador de pantalla es de 1,5 a 2 metros.
 - 🎁Lupa de pantalla de teléfono móvil: espejo especial extraíble de alta definición, sienta la textura, haga zoom con mayor claridad.
 - 🎁Uso simple: no se requieren baterías, y el tamaño portátil también es muy adecuado para llevar. Puede usar las lupas de pantalla de su teléfono móvil en casa, mientras viaja y en un viaje de negocios. También es muy adecuado para que los niños vean dibujos animados.
-- 🎁3-4 aumentos: puede ajustar la distancia de visualización del amplificador de pantalla de acuerdo con el tamaño de la pantalla. La distancia recomendada para la amplificador de pantalla es de 1,5 a 2 metros.
-- 🎁Lupa para todos los teléfonos inteligentes: adecuada para la mayoría de los teléfonos inteligentes como Xiaomi Redmi, Samsung Galaxy, iPhone, etc. También se puede utilizar como soporte para móvil. La pantalla de plexiglás hace que el efecto de observación sea más nítido y tridimensional.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
