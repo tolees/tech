@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LC49G93TSSRXEN Odyssey G9 - Monitor curvo de 49   DQHD  5120 x 1440p  1 ms  240 Hz  GSync  FreeSync Premium Pro  LED  HDR1000  32:9  420 cd/m²  1000R  HDMI  PBP  PIP  Blanco'
-date: 2022-11-20 13:12:28
+date: 2022-11-24 15:02:39
 image: 'https://m.media-amazon.com/images/I/41FT5dCpgwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08SW6P7CH/?tag=tolees-21'
 descuento: '40.03'
-average: '1243.30130434783'
+average: '1228.95541666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
