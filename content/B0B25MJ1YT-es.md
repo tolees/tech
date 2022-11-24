@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P3 2TB CT2000P3SSD8 PCIe 3.0 3D NAND NVMe M.2 SSD  Hasta 3500MB/s'
-date: 2022-11-19 21:16:20
+date: 2022-11-24 00:40:18
 image: 'https://m.media-amazon.com/images/I/318lV0rfJoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciona hasta un 45% mejor que la generación anterior
-- Calificado en MTTF superior a 1.5 millones de horas para mayor longevidad y confiabilidad
+- NVMe (PCIe Gen3 x4) technology with up to 3500MB/s sequential reads, random read/write 650K/700K IOPS
 - Solid Gen3 performance
-- Tecnología NVMe (PCIe Gen3 x4) con lecturas secuenciales de hasta 3500 MB/s, lectura/escritura aleatoria 650K/700K IOPS
-- Amplio almacenamiento de hasta 4TB
+- Spacious storage up to 4TB
+- Rated at MTTF greater than 1.5 million hours for extended longevity and reliability
+- Performs up to 45% better than the previous generation
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
