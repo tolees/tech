@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acer K2 K242HYLH 60,5 cm (23.8") 1920 x 1080 Pixeles Full HD LCD Negro
 - Los monitores respetuosos con el medio ambiente Acer serie K2 son soluciones visuales asequibles para uso diario de PC. Ofrecen una experiencia libre de complicaciones sin sacrificar la calidad de imagen. El diseño inteligente aúna multitud de puertos de conexión, un rendimiento excepcional y el respeto por el medio ambiente. Y todo a un precio que le arrancará una sonrisa.
+- Acer K2 K242HYLH 60,5 cm (23.8") 1920 x 1080 Pixeles Full HD LCD Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
