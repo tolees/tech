@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conectividad inalámbrica Realtek RTL8852AE Wi-Fi 6 (2x2) y Bluetooth? Combo 5.2 Compatible con MU-MIMO
 - Almacenamiento SSD Intel PCIe NVMe de 512 GB
-- Sistema operativo FreeDOS
+- Conectividad inalámbrica Realtek RTL8852AE Wi-Fi 6 (2x2) y Bluetooth? Combo 5.2 Compatible con MU-MIMO
 - Sonido Sonido 5.1 surround
-- Procesador Intel Core i5-12400F (frecuencia base de 2,5 GHz, hasta 4,4 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 12 núcleos, 12 subprocesos)
 - Gráficos Discreto: NVIDIA GeForce RTX 3060 (GDDR6 de 8 GB dedicada)
+- Sistema operativo FreeDOS
+- Procesador Intel Core i5-12400F (frecuencia base de 2,5 GHz, hasta 4,4 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 12 núcleos, 12 subprocesos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

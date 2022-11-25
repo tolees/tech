@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Chromebook CX1400CNA-BV0210 - Ordenador Portátil 14" HD  Intel Celeron N3350  8GB RAM  32GB eMMC  HD Graphics 500  Sistema operativo Chrome  Color Plata - Teclado QWERTY español'
-date: 2022-11-17 23:46:32
+date: 2022-11-25 14:47:54
 image: 'https://m.media-amazon.com/images/I/310BiQu6DVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09XFDHZG9/?tag=tolees-21'
 descuento: '20.08'
-average: '188.99'
+average: '192.326666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

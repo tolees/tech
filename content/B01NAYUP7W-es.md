@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interfaz: 1 x 10/100/1000 Mbit / s
 - Plug and play: instalación sencilla, no require configuración
-- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
-- Ampliar la cobertura internet a todas las habitaciones
 - Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
+- Ampliar la cobertura internet a todas las habitaciones
 - Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
+- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
+- Interfaz: 1 x 10/100/1000 Mbit / s
 
 [🛒 Visítala!!!]({{< param buyurl >}})

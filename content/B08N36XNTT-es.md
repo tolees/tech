@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de 3 meses de prueba gratis de Kindle Unlimited al comprar un Kindle Paperwhite. Disfruta de millones de eBooks sin límite y lee donde y cuando quieras.
-- Disfruta de más libros en más sitios: almacena miles de títulos y llévalos contigo adondequiera que vayas. Una sola carga con el cargador USB-C dura semanas, no horas.
-- No fatiga la vista: ahora con una luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
-- Kindle Paperwhite: ahora con una pantalla de 6,8", bordes reducidos, luz cálida ajustable, autonomía de hasta 10 semanas y pasos de página un 20 % más rápidos.
 - Diseñado para la lectura: diseño con bordes reducidos y pantalla de 300 ppp que se lee como papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
+- Disfruta de más libros en más sitios: almacena miles de títulos y llévalos contigo adondequiera que vayas. Una sola carga con el cargador USB-C dura semanas, no horas.
+- Kindle Paperwhite: ahora con una pantalla de 6,8", bordes reducidos, luz cálida ajustable, autonomía de hasta 10 semanas y pasos de página un 20 % más rápidos.
+- No fatiga la vista: ahora con una luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Resistente al agua (IPX8), para que puedas usarlo tranquilamente en la playa, en la piscina o en la bañera. El Kindle ha sido probado para resistir una inmersión accidental en el agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
