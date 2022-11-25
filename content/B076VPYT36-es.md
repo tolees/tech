@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Malla WI-FI para todo el hogar: admite 802.11S para una verdadera red WiFi en malla, diseñada para sus hogares inteligentes con zonas muertas WiFi en el hogar
 - Gigabit y seguro: MW6 implementa una red gigabit completa y un rendimiento de transmisión inalámbrica más potente. También es compatible con Nova MW3 y MW5, por lo que puede ampliar la gama con más opciones. Cifre la contraseña de WiFi con WPA2-PSK, proteja su hogar inteligente y sus conexiones de piratería y ataques
-- Ubicación del enrutador y repetidor WIFI: ideal para reemplazar sus soluciones Wi-Fi existentes, como el extensor WiFi, el enrutador WiFi tradicional, el repetidor wifi y el PLC, proporciona una cobertura Wi-Fi de hasta 500 m². Compatible con todos los proveedores de servicios de Internet (livebox, freebox, etc.)
 - Alta capacidad y flexibilidad total: cree una red Wi-Fi única y sin interrupciones para todos sus dispositivos. Mantén conectados hasta 90 dispositivos al mismo tiempo. Cada nodo cubre hasta 180 m² de espacio habitable y elimina las sombras de Wi-Fi. Amplía fácilmente la cobertura Wi-Fi de tu hogar
 - El MW6 es compatible con Alexa y puede activar automáticamente la red de invitados a través de Alexa
+- Ubicación del enrutador y repetidor WIFI: ideal para reemplazar sus soluciones Wi-Fi existentes, como el extensor WiFi, el enrutador WiFi tradicional, el repetidor wifi y el PLC, proporciona una cobertura Wi-Fi de hasta 500 m². Compatible con todos los proveedores de servicios de Internet (livebox, freebox, etc.)
+- Malla WI-FI para todo el hogar: admite 802.11S para una verdadera red WiFi en malla, diseñada para sus hogares inteligentes con zonas muertas WiFi en el hogar
 - Roaming inalámbrico para todos: cada unidad trabaja en conjunto para formar una única red Wi-Fi Mesh real, lo que crea una experiencia en línea verdaderamente efectiva y estable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

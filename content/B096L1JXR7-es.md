@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Enrutador de malla  paquete  juego de 3  para una conexión confiable  cobertura de hasta 85 m² cuadrados por punto'
-date: 2022-11-23 00:22:39
+date: 2022-11-25 01:31:29
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B096L1JXR7/?tag=tolees-21'
 descuento: '26.11'
-average: '173.006932515337'
+average: '172.714146341463'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
