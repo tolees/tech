@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Paquete de almacenamiento de baterías de baterías alcalinas micro AAA a precio de ganga, 40 piezas en embalaje reciclable
 - Como el único fabricante alemán de baterías portátiles, confiamos en nuestra ubicación en Alemania y en la calidad de nuestras baterías, que ha sido apreciada en todo el mundo durante más de 130 años
-- VARTA — el nombre significa Made in Germany y, por lo tanto, también de calidad y competencia
-- VARTA Potencia bajo demanda: ¡Inteligente, flexible y potente! Desarrollado especialmente para el usuario final móvil. Power on Demand proporciona la poderosa energía requerida para dispositivos con alto consumo de energía
 - Ideal para dispositivos como controles remotos, relojes de pared, dispositivos domésticos inteligentes, control remoto, herramientas electrónicas, robots, cámaras digitales, dispositivos de radio, controladores WiFi, termostato del radiador, reloj despertador ligero, sensor de movimiento, interruptor de luz táctil inalámbrico
+- VARTA Potencia bajo demanda: ¡Inteligente, flexible y potente! Desarrollado especialmente para el usuario final móvil. Power on Demand proporciona la poderosa energía requerida para dispositivos con alto consumo de energía
+- VARTA — el nombre significa Made in Germany y, por lo tanto, también de calidad y competencia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
