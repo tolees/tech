@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 27-ca0008ns 27" Ordenador de Sobremesa  Full HD  Con Cámara  Teclado y Ratón Inalámbricos -  AMD Ryzen 7 5700U  16 GB DDR4-SDRAM  1 TB de SSD  Gráficos AMD Radeon  Windows 11 Home   Color Blanco'
-date: 2022-11-23 23:55:52
+date: 2022-11-26 12:57:53
 image: 'https://m.media-amazon.com/images/I/41Yf1rNRUwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B09HY1YZHR/?tag=tolees-21'
 descuento: '18.20'
-average: '999.0'
+average: '965.666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gráficos Integrada AMD Radeon
-- Sistema operativo Windows 11 Home
-- Procesador AMD Ryzen 7 5700U (aumento máximo del reloj de hasta 4,3 GHz, 8 MB de caché L3, 8 núcleos, 16 subprocesos)
-- Almacenamiento SSD de 1 TB PCIe NVMe M.2
 - Pantalla Full HD de 27" (68,6 cm) en diagonal, IPS, bisel micro-edge de 3 caras, antirreflectante, 250 nits, 72 % NTSC (1920 x 1080)
+- Almacenamiento SSD de 1 TB PCIe NVMe M.2
+- Procesador AMD Ryzen 7 5700U (aumento máximo del reloj de hasta 4,3 GHz, 8 MB de caché L3, 8 núcleos, 16 subprocesos)
+- Sistema operativo Windows 11 Home
 - Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

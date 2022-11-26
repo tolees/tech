@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi L83 Redmi Pad Tablet  4 GB - 128 GB  Resolución de 1200 x 2000  Frecuencia de Actualización de 90 Hz  Gris Grafito'
-date: 2022-11-23 23:52:31
+date: 2022-11-26 11:21:09
 image: 'https://m.media-amazon.com/images/I/41RMTme7o3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BG5J8HG1-es Xiaomi L83 Redmi Pad Tablet 4 GB - 128 GB Resolución de...'
 sku: 'B0BG5J8HG1-es'
 tags: [ 'Informática','Tablets','tablet','xiaomi','🇪🇸', ]
-actualPrice: 239.0 EUR
+actualPrice: 229.0 EUR
 currency: EUR
-price: 239.0
+price: 229.0
 comparePrice: 329.0 EUR
 prodname: 'Xiaomi L83 Redmi Pad Tablet  4 GB - 128 GB  Resolución de 1200 x 2000  Frecuencia de Actualización de 90 Hz  Gris Grafito'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0BG5J8HG1/?tag=tolees-21'
-descuento: '27.36'
-average: '239.589999999999'
+descuento: '30.40'
+average: '238.413333333332'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de 8000 mAh que dura todo el día
 - Elegante y con estilo donde quiera que vayas, hagas lo que hagas
 - Con una pantalla de 10,61 pulgadas, Redmi Pad ofrece una experiencia de visualización fluida con una frecuencia de actualización de 90 Hz
+- Batería de 8000 mAh que dura todo el día
 - Detrás de la versatilidad y la experiencia fluida de Redmi Pad se encuentra el MediaTek Helio G99; Redmi Pad brinda una experiencia basada en un rendimiento óptimo y eficiencia energética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

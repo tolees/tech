@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
-- Memoria RAM de 16GB SO-DIMM DDR4
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Procesador Intel Core i7-1165G7 (4C/QuadCore 2.8 / 4.7GHz, 12MB)
 - Sistema Operativo: Windows 11 Home
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 250 nits
+- Memoria RAM de 16GB SO-DIMM DDR4
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
