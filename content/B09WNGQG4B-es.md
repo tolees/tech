@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla de 14” HD (‎1366x768 Píxeles)
+- Procesador Qualcomm Kryo 468
+- Gráfica integrada Qualcomm Adreno 618
 - Memoria de 8GB RAM
 - Sistema operativo: Windows 11
-- Pantalla de 14” HD (‎1366x768 Píxeles)
-- Gráfica integrada Qualcomm Adreno 618
 - Almacenamiento de 128 GB SSD
-- Procesador Qualcomm Kryo 468
 
 [🛒 Comprar!!!]({{< param buyurl >}})
