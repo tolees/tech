@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Almacenamiento de disco duro PCIe SSD de hasta 512 GB y memoria RAM DDR4-2666 MHz 16 GB
+- Procesador Intel Core i5-10400F (frecuencia base de 2,9 GHz, hasta 4,3 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
 - Memoria RAM DDR4-2666 MHz 16 GB (1 x 16 GB)
 - Conectividad inalámbrica Realtek RTL8852AE Wi-Fi 6 (2x2) y Bluetooth, Combo 5.2, compatible con MU-MIMO
-- Procesador Intel Core i5-10400F (frecuencia base de 2,9 GHz, hasta 4,3 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 6 núcleos)
 - Sistema operativo Windows 11 Home
 - Gráficos Discreto: NVIDIA GeForce RTX 3060 (GDDR6 de 12 GB dedicada) ;
 - Consigue Total War: WARHAMMER III con la compra de este equipo, para más información visita la Tienda HP de Amazon

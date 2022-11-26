@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria de 16 GB RAM
-- Ordenador de Sobremesa Gaming Nitro
 - Procesador Intel Core i5-12400, 4.40 GHz
+- Ordenador de Sobremesa Gaming Nitro
+- Memoria de 16 GB RAM
 - Almacenamiento de 512 GB SSD
-- Sin sistema operativo
 - Gráfica dedicada NVIDIA GeForce RTX 3060
+- Sin sistema operativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Garantía del fabricante: 3 años. Las condiciones de garantía se pueden encontrar en "Más información técnica". Sus derechos legales de garantía permanecen intactos.
 - Panel IPS Full HD, pantalla mate, 130 mm de altura ajustable, salida de auriculares, Vesa 100 x 100, soporte desmontable, marco delgado, altavoz
-- Brillo/Contraste: 250 cd/m2, 1.000:1, conexiones: 2 x HDMI 1,4, 1 x Displayport 1,2.
-- Contenido del envío: AOC 24G2/BK Monitor 60,45 cm (23,8 pulgadas) negro/rojo, cable de alimentación, HDMI, DisplayPort, CD de controlador, tarjeta de garantía.
 - Pantalla de juegos Full HD de 23,8 pulgadas con tecnología FlickerFree y Low Blue Light para disfrutar de juegos ilimitados.
+- Brillo/Contraste: 250 cd/m2, 1.000:1, conexiones: 2 x HDMI 1,4, 1 x Displayport 1,2.
+- Garantía del fabricante: 3 años. Las condiciones de garantía se pueden encontrar en "Más información técnica". Sus derechos legales de garantía permanecen intactos.
+- Contenido del envío: AOC 24G2/BK Monitor 60,45 cm (23,8 pulgadas) negro/rojo, cable de alimentación, HDMI, DisplayPort, CD de controlador, tarjeta de garantía.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

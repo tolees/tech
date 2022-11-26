@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos Integrada AMD Radeon
-- Pantalla Full HD de 27" (68,6 cm) en diagonal, IPS, bisel micro-edge de 3 caras, antirreflectante, 250 nits, 72 % NTSC (1920 x 1080)
-- Almacenamiento SSD de 1 TB PCIe NVMe M.2
 - Procesador AMD Ryzen 7 5700U (aumento máximo del reloj de hasta 4,3 GHz, 8 MB de caché L3, 8 núcleos, 16 subprocesos)
-- Sistema operativo Windows 11 Home
 - Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
+- Almacenamiento SSD de 1 TB PCIe NVMe M.2
+- Sistema operativo Windows 11 Home
+- Pantalla Full HD de 27" (68,6 cm) en diagonal, IPS, bisel micro-edge de 3 caras, antirreflectante, 250 nits, 72 % NTSC (1920 x 1080)
+- Gráficos Integrada AMD Radeon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
