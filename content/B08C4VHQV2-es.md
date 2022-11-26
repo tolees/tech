@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial RAM 8GB DDR4 3200MHz CL22  o 2933MHz o 2666MHz  Memoria Portátil CT8G4DFRA32A'
-date: 2022-11-24 23:40:45
+date: 2022-11-26 21:14:46
 image: 'https://m.media-amazon.com/images/I/41TDZYwtkwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B08C4VHQV2/?tag=tolees-21'
 descuento: '35.57'
-average: '30.29'
+average: '29.1383333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
