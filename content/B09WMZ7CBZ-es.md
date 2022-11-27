@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme - Pad mini wifi 3+32 Blue EU'
-date: 2022-11-23 23:53:19
+date: 2022-11-27 15:16:13
 image: 'https://m.media-amazon.com/images/I/41zwPcANeDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09WMZ7CBZ/?tag=tolees-21'
 descuento: '22.22'
-average: '146.791428571429'
+average: '145.94125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - realme pad mini La pantalla de 8,7” (22,09 cm) con una ratio de pantalla del 84,59 %, junto con un sistema estéreo de dos altavoces, ofrece una experiencia cinemática sorprendente, tanto si estás viendo una película como si estás jugando. Podrás sumergirte en el maravilloso mundo del cine también desde casa.
-- El cuerpo metálico superfino de 7,59 mm y tan solo 372 g lo convierte en un dispositivo ligero que se puede sujetar fácilmente con la mano. Aunque lo uses de forma prolongada, tu mano no se cansará. Su elegante cuerpo metálico mate finamente elaborado seguro que te conquistará.
 - La cámara trasera de 8 MP te permite incluir a más personas en las fotos y grabar vídeos nítidos desde cualquier lugar. La lente frontal de 5 MP te facilita la asistencia a clases y reuniones en línea. Cuando el dispositivo está bloqueado, se puede desbloquear de forma rápida con la cara, lo que te permite mejorar la productividad.
+- El cuerpo metálico superfino de 7,59 mm y tan solo 372 g lo convierte en un dispositivo ligero que se puede sujetar fácilmente con la mano. Aunque lo uses de forma prolongada, tu mano no se cansará. Su elegante cuerpo metálico mate finamente elaborado seguro que te conquistará.
 - La enorme batería de 6400 mAh (típica) alimenta hasta 15,8 horas continuas de transmisión de vídeo, lo que te permite funcionar de manera ininterrumpida. La carga rápida de 18 W hace que sea fácil asegurarse de tener suficiente batería antes de salir. Puedes escuchar música, ponerse al día con las series y ver películas sin interrupciones.
 - Gracias a la memoria flash UFS 2.1, el realme Pad mini obtiene un gran aumento de velocidad tanto en la lectura como en la escritura. Con hasta 64 GB de ROM y hasta 1 TB de almacenamiento ampliable, dispondrás de más espacio para almacenar tus vídeos y otros archivos.
 

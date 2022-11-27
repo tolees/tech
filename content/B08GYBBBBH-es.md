@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Tarjeta de Memoria microSDXC con Adaptador SD  hasta 120 MB/s  Rendimiento de apps A1  Clase 10  U1  64 GB'
-date: 2022-11-19 23:26:37
+date: 2022-11-27 14:34:35
 image: 'https://m.media-amazon.com/images/I/41SIH+nrsAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B08GYBBBBH/?tag=tolees-21'
 descuento: '55.41'
-average: '8.87146341463416'
+average: '8.8504761904762'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
