@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda MW6 Nova - Sistema WiFi Mesh para Todo el Hogar  Paquete de 1  Cobertura de Doble Banda de hasta 165 m²  MU-MIMO  Control Parental  Funciona con Alexa '
-date: 2022-11-24 13:16:51
+date: 2022-11-27 02:02:48
 image: 'https://m.media-amazon.com/images/I/11dqY2F785S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B07CRXF15N/?tag=tolees-21'
 descuento: '42.88'
-average: '48.5009090909091'
+average: '47.19'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
