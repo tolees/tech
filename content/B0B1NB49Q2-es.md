@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GP66 Leopard 11UG-691XES - Ordenador portátil Gaming de 15.6" FHD 144Hz  Intel Core i7-11800H  16GB  8GB*2  RAM  1 TB SSD  NVIDIA RTX3070-8GB  Sin sistema operativo  Negro- Teclado QWERTY Español'
-date: 2022-11-25 18:51:18
+date: 2022-11-27 13:05:41
 image: 'https://m.media-amazon.com/images/I/412J6iCpCcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B0B1NB49Q2/?tag=tolees-21'
 descuento: '31.60'
-average: '1486.5'
+average: '1449.0'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta gráfica RTX3070, GDDR6 8GB (135W)
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
-- Pantalla de 15.6" FHD 144Hz
-- Procesador Intel Core i7-11800H+HM570
-- Memoria RAM de 16GB*2 (3200MHz) DDR IV
 - Sistema operativo Free DOS
+- Procesador Intel Core i7-11800H+HM570
+- Tarjeta gráfica RTX3070, GDDR6 8GB (135W)
+- Pantalla de 15.6" FHD 144Hz
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Memoria RAM de 16GB*2 (3200MHz) DDR IV
 
 [🛒 Visítala!!!]({{< param buyurl >}})
