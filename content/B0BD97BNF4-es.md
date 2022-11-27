@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo C420S2 - Cámara Vigilancia WiFi Exterior Inalámbrica con Batería Recargable   Resolución 2k  Visión Nocturna  Audio Bidireccional  IP65 a Prueba de Agua'
-date: 2022-11-24 19:45:48
+date: 2022-11-27 08:47:08
 image: 'https://m.media-amazon.com/images/I/41IlNywlUML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALARMA CON LUZ Y SONIDO - Si la cámara detecta un comportamiento sospechosos activa la alarma de luz y sonido para disuadir la amenaza
+- DETECCIÓN AI DE MOVIMIENTO CON NOTIFICACIONES - La cámara manda una notificación al móvil al detectar un movimiento sospechoso
 - ALMACENAMIENTO - Guarda los vídeos en una tarjeta microSD de hasta 256GB ( no incluido) o utilizando los servicios de almacenamiento en la nube Tapo Care de suscripción con una tarifa mensual
-- BATERÍA RECARGABLE DE LARGA DURACIÓN - Gracias a su reducido consumo solo tendrás que recargarlas dos veces al año
-- INSTALACIÓN SIN CABLES -Gracias a la batería incorporada podrás colocar las cámaras en cualquier lugar sin depender de las tomas suministro eléctrico
-- SONIDO BIDERECCIONAL - Permite la comunicación a través del micrófono y altavoz integrados en las cámaras
+- VISIÓN NOCTURNA A TODO COLOR - Graba videos con alta calidad de imagen y colores nítidos incluso de noche
 - RESISTENTE AL AGUA Y AL POLVO - Las cámaras están herméticamente sellado frente al agua y el polvo
 - GRABACIÓN DE VÍDEO 2K QHD - Videos y fotos más nítidos con alta resolución 2560 × 1440 px
-- VISIÓN NOCTURNA A TODO COLOR - Graba videos con alta calidad de imagen y colores nítidos incluso de noche
-- DETECCIÓN AI DE MOVIMIENTO CON NOTIFICACIONES - La cámara manda una notificación al móvil al detectar un movimiento sospechoso
+- INSTALACIÓN SIN CABLES -Gracias a la batería incorporada podrás colocar las cámaras en cualquier lugar sin depender de las tomas suministro eléctrico
+- BATERÍA RECARGABLE DE LARGA DURACIÓN - Gracias a su reducido consumo solo tendrás que recargarlas dos veces al año
+- SONIDO BIDERECCIONAL - Permite la comunicación a través del micrófono y altavoz integrados en las cámaras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
