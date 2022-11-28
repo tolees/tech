@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - <b>Sonido Afinado Con Destreza:</b> Los auriculares Life A1 True Wireless cuentan con transductores extragrandes de 8 mm con diafragmas de material compuesto de triple capa para producir sonido potente con un 40 % más de graves, un 100 % más de agudos y medios nítidos.
 - <b>35 Horas De Reproducción:</b> los auriculares Life A1 True Wireless cuentan con 9 horas de reproducción con una sola carga y 3 cargas adicionales con el estuche de carga compacto. Una carga rápida de 10 minutos te proporciona 1 hora y media de escucha cuando tengas prisa.
+- <b>3 Modos De Sonido Personalizados:</b> el modo Signature (característico) produce un sonido equilibrado, perfecto para todo tipo de género musical. Cambia a Bass Booster (potenciación de graves) para intensificar las canciones para entrenar con graves profundos o escoge Podcast para mejorar los medios al escuchar pódcasts o audiolibros.
 - <b>2 Modos De Carga:</b> Utiliza el cable incluido Anker USB-C para cargar el estuche rápidamente o simplemente colócalo en una base de carga inalámbrica para recargarlo de la forma más cómoda.
 - <b>Calificación De Impermeabilidad IPX7:</b> los auriculares Life A1 True Wireless son herméticos para protegerlos del sudor durante los entrenamientos o de la lluvia si te sorprende un aguacero.
-- <b>3 Modos De Sonido Personalizados:</b> el modo Signature (característico) produce un sonido equilibrado, perfecto para todo tipo de género musical. Cambia a Bass Booster (potenciación de graves) para intensificar las canciones para entrenar con graves profundos o escoge Podcast para mejorar los medios al escuchar pódcasts o audiolibros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
