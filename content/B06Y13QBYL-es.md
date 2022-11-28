@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Monitors - Monitor 243V7QDSB/00- 24"  FHD  75Hz  IPS  Flicker Free   1920x1080  250cd/m² VESA  DSUB  HDMI   Color Negro'
-date: 2022-11-21 16:12:51
+date: 2022-11-27 22:09:28
 image: 'https://m.media-amazon.com/images/I/41CainyNbkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B06Y13QBYL/?tag=tolees-21'
 descuento: '29.63'
-average: '107.705714285714'
+average: '104.88'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
