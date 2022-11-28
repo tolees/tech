@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Sculpt Ergonomic Desktop  Ratón y teclado QWERTY español  Negro'
-date: 2022-11-18 10:34:06
+date: 2022-11-28 19:51:09
 image: 'https://m.media-amazon.com/images/I/313tQBb4CXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B00FO10ZK0/?tag=tolees-21'
 descuento: '23.79'
-average: '97.4720000000002'
+average: '97.7266666666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ergonómico
 - Compatible con Windows
-- Arco natural: imita la forma curva de las yemas de los dedos
-- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
-- Rueda de desplazamiento en cuatro direcciones
-- Botón Windows/Botón Atrás
-- Reposamanos acolchado
 - Teclado numérico separado
+- Microsoft BlueTrack Technology: proporciona un control preciso en prácticamente cualquier superficie
+- Arco natural: imita la forma curva de las yemas de los dedos
+- Rueda de desplazamiento en cuatro direcciones
+- Ergonómico
+- Reposamanos acolchado
+- Botón Windows/Botón Atrás
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
