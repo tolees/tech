@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eve Weather - Estación meteorológica inteligente con tecnología Apple HomeKit para registrar temperatura  humedad y presión atmosférica  tendencias climatológicas  IPX4  Bluetooth  Thread'
-date: 2022-11-19 02:56:35
+date: 2022-11-28 01:56:30
 image: 'https://m.media-amazon.com/images/I/314S0h1q0JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EVE'
 buyurl: 'https://www.amazon.es/dp/B08XXBRG71/?tag=tolees-21'
 descuento: '29.97'
-average: '67.97'
+average: '63.9766666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
