@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compatible con cables USB-C
 - Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
-- Adaptador de viaje AFC sin cable
 - Potencia: hasta 25 W
+- Adaptador de viaje AFC sin cable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
