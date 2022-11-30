@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cargador MagSafe'
-date: 2022-11-19 09:01:00
+date: 2022-11-29 23:57:53
 image: 'https://m.media-amazon.com/images/I/316svQtzFqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08L5R6ZHP-es Apple Cargador MagSafe'
 sku: 'B08L5R6ZHP-es'
 tags: [ 'Accesorios para móviles','Cargadores de móvil por inducción','Cargadores para móviles','Comunicación móvil y accesorios','Electrónica','apple','🇪🇸', ]
-actualPrice: 35.0 EUR
+actualPrice: 39.0 EUR
 currency: EUR
-price: 35.0
+price: 39.0
 comparePrice: 49.0 EUR
 prodname: 'Apple Cargador MagSafe'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5R6ZHP/?tag=tolees-21'
-descuento: '28.57'
-average: '40.7507751937985'
+descuento: '20.41'
+average: '40.7373076923077'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
