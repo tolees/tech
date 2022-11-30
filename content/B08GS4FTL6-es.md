@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interfaz NVMe (Pcle Gen 4.0 x 4)
-- MZ-V8P500BW 500GB
 - Velocidad de lectura secuencial de hasta 7000 MB / s; el rendimiento puede variar según el sistema de hardware y la configuración
+- MZ-V8P500BW 500GB
+- Interfaz NVMe (Pcle Gen 4.0 x 4)
 - 980 PRO es retrocompatible con PCIe 3.0. Rendimiento secuencial (hasta): 3500 MB/s para lecturas, 3400 MB/s (500 GB) para escrituras. Aleatorio (hasta): 690 000 IOPS (500 GB/1 TB) para lecturas, 620 000 (250/500 GB) para escrituras.
 - Factor de forma M.2
 - Diseñado para entusiastas de la tecnología, jugadores experimentados y profesionales que necesitan confiabilidad
