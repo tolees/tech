@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GoPro HERO10 Black - Cámara de acción a prueba de agua con LCD frontal y pantallas traseras táctiles  video 5.3K60 Ultra HD  fotos de 23MP  transmisión en vivo de 1080p  cámara web  estabilización'
-date: 2022-11-28 20:30:37
+date: 2022-11-30 09:35:52
 image: 'https://m.media-amazon.com/images/I/31Rf2eFTBwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador revolucionario: Más rápido. Más fluido. Mejor. El nuevo y potente motor GP2 supone toda una revolución: rendimiento rápido, controles táctiles adaptables y el doble de velocidad de fotogramas para capturar contenidos increíblemente fluidos. Diseñado específicamente para la exigente naturaleza de una GoPro, el “sistema en chip” del GP2 es, con diferencia, el más rápido hasta la fecha.
-- Conectividad rápida y fiable: Superfácil, superrápida. La transferencia de fotos y vídeos desde tu GoPro conectada a la nube a tu teléfono es sencilla y versátil, con la opción de cargar contenidos de forma inalámbrica a través de la aplicación Quik o una conexión por cable ultrarrápida mediante USB.3 También contarás con almacenamiento ilimitado en la nube con subida automática sin complicaciones. Solo tienes que enchufarla cuando esté conectada a tu red Wi-Fi doméstica y la cámara hará el resto.4
-- Fotos y vídeos de alta resolución con alta velocidad de fotogramas: Da el salto a la GoPro más nítida hasta la fecha. Con unas increíbles fotos de 23 MP y vídeos con resolución 5,3K a 60 fps, la HERO10 ofrece el doble de velocidad de fotogramas para capturar un movimiento de lo más fluido. Además, cuenta con cámara lenta 8x a 2,7K y permite pausar los vídeos para extraer fotogramas de 15,8 MP a partir de vídeos en 5,3K con un resultado asombroso.
-- HyperSmooth 4.0: HyperSmooth nunca había sido tan fluido, y acceder a la mejor estabilización en todo momento resulta muy fácil. Además, podrás disfrutar de un rendimiento aún mejor con poca luz y alineación con el horizonte con un límite de inclinación superior, para que tus contenidos aparezcan perfectamente alineados cuando quieras.
-- Calidad de imagen increíble: Captura con detalles precisos, texturas realistas y un contraste sorprendente, incluso con poca luz. Las imágenes tienen un aspecto inmejorable gracias a la nueva cubierta de lente hidrófoba que repele el agua y ayuda a eliminar los brillos y otros artefactos.
+- High-Res Photos Videos, High Frame Rate: Step up to the sharpest-shooting GoPro ever. Upgraded to incredible 23-MP photos and 5.3K video resolution at 60fps, HERO10 offers double the frame rate for amazingly smooth motion. Plus, there’s 8x slo-mo at 2.7K and you can pause videos and grab 15.8-MP still photos from 5.3K video that look amazing.
+- HyperSmooth 4.0: HyperSmooth has never been smoother and it’s easy to dial in the best stabilisation at all times. Plus, get even better low-light performance and horizon levelling with a higher tilt limit, so your footage looks perfectly straight when you want it to.
+- Revolutionary Processor: Faster. Smoother. Better. The powerful new GP2 engine changes the game – snappy performance, responsive touch controls and double the frame rate for amazingly smooth footage. Designed specifically for the demanding nature of the GoPro, the GP2 “system on a chip” is by far our fastest ever.
+- Fast, Reliable Connectivity: Super easy, super fast. Transferring photos and videos from your cloud-connected GoPro to your phone is simple and versatile, with your choice of effortless wireless upload via the Quik app or a lightning-fast wired connection via USB.3 There’s also unlimited cloud storage with hassle-free auto upload. Just plug in your camera when it’s connected to your home Wi-Fi and the camera does the rest.4
+- Unbelievable Image Quality: Shoot with fine detail, realistic textures and stunning contrast, even in low light. Images look their best thanks to a new water- shedding hydrophobic lens cover that repels water while helping to eliminate lens flare and other artefacts.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
