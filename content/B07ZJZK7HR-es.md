@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolo Magic 1 – 1200 WiFi mini Multiroom Kit: Set compacto con 3 adaptadores Powerline para WiFi en habitaciones  1200 Mbit/s  2 x conexiones Fast Ethernet LAN  WiFi de malla  G.hn '
-date: 2022-11-29 09:13:17
+date: 2022-11-30 22:56:21
 image: 'https://m.media-amazon.com/images/I/31lP9aFbBcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.es/dp/B07ZJZK7HR/?tag=tolees-21'
 descuento: '37.52'
-average: '113.509999999998'
+average: '113.005925925924'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
