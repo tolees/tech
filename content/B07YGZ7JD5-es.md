@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/128GB Class 10 con Adaptador SD'
-date: 2022-11-30 14:55:50
+date: 2022-12-02 07:12:50
 image: 'https://m.media-amazon.com/images/I/41iqLNmpPWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21'
 descuento: '31.02'
-average: '13.9850793650791'
+average: '13.9712499999997'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de la memoria: 128 GB
 - Optimizada para uso con dispositivos Android
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 - Tipo de memoria flash: Micro SD
+- Capacidad de la memoria: 128 GB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
