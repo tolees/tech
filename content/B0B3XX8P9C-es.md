@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No te detengas ante nada con la resistencia al agua IPX7: ya sea en la piscina o en una fiesta en la playa. Flip Essential 2 es resistente al agua para que lo llevas donde quieras
+- Toda tu música, estés donde estés: conecta hasta 2 smartphones o tabletas al altavoz y disfrutad del sonido JBL Original Pro gracias a la transmisión inalámbrica por Bluetooth
 - Un diseño compacto para un rendimiento máximo: con 10 horas de duración de la batería y un sonido de graves profundos y audaces donde quiera que vayas gracias a JBL Original Pro Sound
 - Respeto al medio ambiente: el Flip Essential 2 está empacado en una caja de papel reciclable, la etiqueta de plástico es 90% reciclada y el exterior está impreso con tinta de soja
-- Toda tu música, estés donde estés: conecta hasta 2 smartphones o tabletas al altavoz y disfrutad del sonido JBL Original Pro gracias a la transmisión inalámbrica por Bluetooth
-- No te detengas ante nada con la resistencia al agua IPX7: ya sea en la piscina o en una fiesta en la playa. Flip Essential 2 es resistente al agua para que lo llevas donde quieras
 - Contenido del envío: 1x JBL Flip Essential 2 Altavoz Bluetooth portátil resistente al agua IPX7 con 10 horas de duración de la batería, cable de carga USB-C, guía de inicio rápido, negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

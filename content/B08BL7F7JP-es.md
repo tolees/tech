@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CONEXIÓN: Se puede establecer conexión a través de Bluetooth, Micro SD y USB Aux- in. El altavoz también cuenta con manos libres.
 - AUTONOMÍA: La batería del altavoz inalámbrico es de hasta 10h y tiempo de carga entre 2-3h.
 - MANOS LIBRES: Altavoz bluetooth con manos libres para que no te pierdas ninguna llamada
-- CONEXIÓN: Se puede establecer conexión a través de Bluetooth, Micro SD y USB Aux- in. El altavoz también cuenta con manos libres.
-- MEDIDAS: 196x83x81 mm
 - PRODUCTO: Altavoz portátil pequeño con potencia de 12W y con bluetooth, fácil de transportar y con buena calidad de sonido que te hará disfrutar de la música en cualquier lugar.
+- MEDIDAS: 196x83x81 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
