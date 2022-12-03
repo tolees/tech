@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BlueFire Cascos Gaming PS4 con Microfono Auriculares de Diadema con Sonido Envolvente y Cancelacion Ruido Headset para PS4 PC Xbox One Y Móvil  Azul '
-date: 2022-12-02 13:55:29
+date: 2022-12-03 18:05:54
 image: 'https://m.media-amazon.com/images/I/41LzSMBVmHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07GD9GRWV-es BlueFire Cascos Gaming PS4 con Microfono Auriculares de...'
 sku: 'B07GD9GRWV-es'
 tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PC','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos y Accesorios para PC','Videojuegos','auriculares','bluefire','móvil','ps4','xbox','🇪🇸', ]
-actualPrice: 9.99 EUR
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.99
+price: 10.99
 comparePrice: 21.99 EUR
 prodname: 'BlueFire Cascos Gaming PS4 con Microfono Auriculares de Diadema con Sonido Envolvente y Cancelacion Ruido Headset para PS4 PC Xbox One Y Móvil  Azul '
 country: 'es'
 flag: '🇪🇸'
 brand: 'BlueFire'
 buyurl: 'https://www.amazon.es/dp/B07GD9GRWV/?tag=tolees-21'
-descuento: '54.57'
-average: '17.6566666666667'
+descuento: '50.02'
+average: '16.7042857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

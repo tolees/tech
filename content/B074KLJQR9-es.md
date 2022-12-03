@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Denon D-M41 Home audio mini system 60W Negro  Plata - Microcadena  Home audio mini system  Plata  60 W  De 2 vías  12 cm  2 5 cm '
-date: 2022-11-26 14:35:35
+date: 2022-12-03 17:28:25
 image: 'https://m.media-amazon.com/images/I/31CshpL6VDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DENON'
 buyurl: 'https://www.amazon.es/dp/B074KLJQR9/?tag=tolees-21'
 descuento: '31.85'
-average: '302.516'
+average: '304.23'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sintonizador Radio
-- Conexión bluetooth
 - Potencia 30w x 2
+- Conexión bluetooth
+- Sintonizador Radio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

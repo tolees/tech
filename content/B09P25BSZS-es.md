@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Robot Vacuum Mop P - Robot Aspirador y fregasuelos con Sistema Inteligente de navegación láser  LDS   succión de 2100 Pa  sistema de fregado  3200 mAh  App Mi Home'
-date: 2022-12-02 03:11:39
+date: 2022-12-03 16:34:08
 image: 'https://m.media-amazon.com/images/I/31XTgnvV9GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09P25BSZS/?tag=tolees-21'
 descuento: '33.08'
-average: '263.057058823529'
+average: '261.455'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 modos de limpieza, barrer y fregar, fregar repetido como limpieza manual y cuidado para el suelo con tanque de agua con control electrónico inteligente
-- Limpieza a fondo, succión potente de 2100 Pa, 12 sensores de precisión
 - Planificación de ruta precisa, navegación inteligente con láser LDS
+- Limpieza a fondo, succión potente de 2100 Pa, 12 sensores de precisión
 - Color Negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
