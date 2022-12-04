@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS XG258Q - Monitor gaming de 24.5" Full HD  1920x1080  TN  240 Hz  LED  1 ms  400 cd/m²  G-SYNC Compatible  VESA  Negro'
-date: 2022-12-03 07:25:12
+date: 2022-12-04 10:03:03
 image: 'https://m.media-amazon.com/images/I/51sa8wutMTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B075CKS1M4/?tag=tolees-21'
 descuento: '31.90'
-average: '372.246'
+average: '363.438333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- G-SYNC Compatible, este monitor ofrece un rango de refresco variable (VRR) que produce una experiencia de juego sin defectos de imagen
 - La serie de monitores ROG Strix XG incluye iluminación trasera ASUS Aura RGB y una proyección de luz que los usuarios pueden personalizar
-- Monitor Full HD para gaming de 24,5 pulgadas (62.23 cm) con 240 Hz de frecuencia de refresco nativa para jugar con fluidez
 - Compatible con sistema de montaje VESA; la peana ergonómica permite regular la inclinación, altura, rotación y el ángulo de la pantalla
 - Adaptive-Sync (FreeSync) evita que las imágenes se entrecorten y que la acción se muestre borrosa
+- Monitor Full HD para gaming de 24,5 pulgadas (62.23 cm) con 240 Hz de frecuencia de refresco nativa para jugar con fluidez
+- G-SYNC Compatible, este monitor ofrece un rango de refresco variable (VRR) que produce una experiencia de juego sin defectos de imagen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
