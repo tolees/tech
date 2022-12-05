@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier G2000 2.0 - Caja de Juegos con Bluetooth  RGB   Color Negro'
-date: 2022-11-27 19:25:51
+date: 2022-12-05 11:58:24
 image: 'https://m.media-amazon.com/images/I/31qrDKqkrRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edifier'
 buyurl: 'https://www.amazon.es/dp/B07ZS52HCQ/?tag=tolees-21'
 descuento: '37.50'
-average: '59.1866666666667'
+average: '57.5145454545455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tres modos de sonido: optimizado para juegos, películas y música.
-- Compacto y potente: para un mejor sonido de juego
 - Manejo: todos los ajustes del altavoz activo se pueden realizar
+- Compacto y potente: para un mejor sonido de juego
 - Conexión: Bluetooth, USB (tarjeta de sonido), clavija de 3,5 mm.
 - Efecto RGB: 12 efectos de luz diferentes para un ambiente de juego perfecto.
 
