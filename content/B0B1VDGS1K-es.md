@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy M13  64 GB  Azul Claro – Teléfono Móvil libre Android  Smartphone con 4GB de RAM [Versión española]'
-date: 2022-12-03 23:14:07
+date: 2022-12-04 23:26:30
 image: 'https://m.media-amazon.com/images/I/41uUGYicDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más espacio para jugar. La pantalla Infinity-V de 6,6 pulgadas y la tecnología FHD+ hacen que el contenido diario tenga un aspecto nítido, nítido y claro.
-- Captura momentos memorables con detalles nítidos con la cámara principal de 50 MP. Amplíe el ángulo de visión con la cámara ultra ancha o acérquese a los detalles con la cámara macro.
-- El diseño de calidad del Galaxy M13 viene con bordes suaves y redondeados y un marco central simple que alberga un aspecto de cámara minimalista, disponible en una gama de colores para que puedas elegir el que mejor se adapte a tu estilo diario.
-- Con 64/128 GB de almacenamiento interno para tus fotos y vídeos, además de la compatibilidad con una tarjeta microSD de hasta 1 TB, tendrás mucho espacio para almacenar tus momentos más preciados.
-- Haz más, hazlo ahora, hazlo mejor. El Galaxy M13 combina la potencia de procesamiento de ocho núcleos con hasta 4 GB de RAM para rebosar energía en todo lo que te guste hacer.
+- More room to play. The 6.6 Inch Infinity-V Display and FHD+ technology makes everyday content look sharp, crisp and clear.
+- The Galaxy M13’s quality design comes with soft, rounded edges and a simple core frame that houses a minimal camera look, coming in a range of colours so you can choose which goes best with your everyday style.
+- With 64/128GB of internal storage for your photos and videos, plus support for a microSD card up to 1TB, youll get lots of space to store your precious moments.
+- Do more, do now, do better. The Galaxy M13 is combines octa-core processing power with up to 4GB RAM for overflowing energy in whatever you love to do
+- Snap memorable moments in clear detail with the 50MP Main Camera. Expand the viewing angle with Ultra Wide Camera, or get closer to the details with Macro Camera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
