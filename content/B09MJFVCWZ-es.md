@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook 15 OLED K513EA - Portátil 15.6" Full HD  Intel Core i5-1135G7  12GB RAM  512GB SSD  Iris Xe Graphics  Windows 11  Color Negro - Teclado QWERTY español'
-date: 2022-12-02 19:56:21
+date: 2022-12-06 09:32:28
 image: 'https://m.media-amazon.com/images/I/41VBQbLeLkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09MJFVCWZ-es ASUS VivoBook 15 OLED K513EA - Portátil 15.6" Full HD...'
 sku: 'B09MJFVCWZ-es'
 tags: [ 'Informática','Portátiles','asus','full','hd','ram','teclado','🇪🇸', ]
-actualPrice: 699.0 EUR
+actualPrice: 599.0 EUR
 currency: EUR
-price: 699.0
+price: 599.0
 comparePrice: 899.0 EUR
 prodname: 'ASUS VivoBook 15 OLED K513EA - Portátil 15.6" Full HD  Intel Core i5-1135G7  12GB RAM  512GB SSD  Iris Xe Graphics  Windows 11  Color Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09MJFVCWZ/?tag=tolees-21'
-descuento: '22.25'
-average: '706.142857142857'
+descuento: '33.37'
+average: '692.75'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 12GB SO-DIMM DDR4
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Sistema Operativo: Windows 11 Home
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 400 nits
+- Memoria RAM de 12GB SO-DIMM DDR4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
