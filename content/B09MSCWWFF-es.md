@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador AMD Ryzen 5 5600H (aumento máximo del reloj de hasta 4,2 GHz, 16 MB de caché L3, 6 núcleos, 12 subprocesos)
-- Pantalla FHD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Memoria RAM DDR4-3200 MHz 8 GB (2 x 4 GB)
-- Gráficos: GPU de portátil NVIDIA GeForce GTX 1650 (GDDR6 de 4 GB dedicada)
-- Sin sistema operativo (FreeDOS)
 - Almacenamiento de datos SSD PCIe NVMe TLC M.2 de 512 GB
+- Gráficos: GPU de portátil NVIDIA GeForce GTX 1650 (GDDR6 de 4 GB dedicada)
+- Memoria RAM DDR4-3200 MHz 8 GB (2 x 4 GB)
+- Procesador AMD Ryzen 5 5600H (aumento máximo del reloj de hasta 4,2 GHz, 16 MB de caché L3, 6 núcleos, 12 subprocesos)
+- Sin sistema operativo (FreeDOS)
+- Pantalla FHD de 16,1" (40,9 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
