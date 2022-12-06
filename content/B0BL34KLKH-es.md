@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto 2: Con el procesador de ocho núcleos emparejado con hasta 3 GB de RAM y hasta 32 GB de almacenamiento interno, la Galaxy Tab A8 viene siempre lista para asumir cualquier desafío sin ralentizar la velocidad o agotar la batería
-- Producto 1: Elige dentro bora púrpura, grafito, oro rosa y azul, un color que vaya con todo, un fino acabado que crea un contraste suave con el marco de metal lustroso y lo suficientemente compacto como para caber en la palma de la mano
-- Producto 2: Disfruta de un sonido envolvente gracias a sus altavoces cuádruples con tecnología Dolby Atmos
 - Producto 1: El Galaxy Z Flip4 es un móvil plegable resistente, está hecho para durar gracias a su pantalla con Corning Gorilla Victus +, y su bisagra protegida por Armor Aluminum
+- Producto 1: Elige dentro bora púrpura, grafito, oro rosa y azul, un color que vaya con todo, un fino acabado que crea un contraste suave con el marco de metal lustroso y lo suficientemente compacto como para caber en la palma de la mano
+- Producto 2: Con el procesador de ocho núcleos emparejado con hasta 3 GB de RAM y hasta 32 GB de almacenamiento interno, la Galaxy Tab A8 viene siempre lista para asumir cualquier desafío sin ralentizar la velocidad o agotar la batería
+- Producto 2: Disfruta de un sonido envolvente gracias a sus altavoces cuádruples con tecnología Dolby Atmos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
