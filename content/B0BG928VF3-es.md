@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El champú diario ideal para hombres y mujeres de cualquier tipo de cabello
 - La fórmula Microbiome Protect actúa sobre la causa principal de la caspa, manteniendo equilibrado el microbioma del cuero cabelludo
+- Esta fórmula de champú de uso diario está clínicamente probada, con una fórmula dermatológicamente testada y un pH equilibrado
 - Ayuda a prevenir la caspa visible con un uso frecuente
 - Champú anticaspa hasta el 100 % de protección contra la caspa del cabello y el cuero cabelludo (caspa visible con un uso regular)
-- Esta fórmula de champú de uso diario está clínicamente probada, con una fórmula dermatológicamente testada y un pH equilibrado
-- El champú diario ideal para hombres y mujeres de cualquier tipo de cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
