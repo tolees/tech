@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología Low Blue Light para la protección de los ojos contra la luz azul
-- Soporte VESA para montar la pantalla en la pared
-- AMD FreeSync
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Cable VGA incluido en la caja
-- Puertos HDMI y VGA
 - Ajuste de inclinación (-5° / 22°) y altura (130mm)
+- Cable VGA incluido en la caja
 - Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
 - Relación de aspecto 16:9 y relación de contraste 1000:1
+- AMD FreeSync
+- Soporte VESA para montar la pantalla en la pared
+- Puertos HDMI y VGA
+- Tecnología Low Blue Light para la protección de los ojos contra la luz azul
 - Pantalla de 23.8" con resolución FullHD (1920x1080 pixeles), 250 nits, panel VA, con una una precisión del color NTSC al 72%, antirreflejos
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
