@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Omen Vector Essential Ratón Gaming -  200-7200 PPP  6 Botones Programables  Conexión Cable USB  Luz LED  Windows 10 y superior    Color Negro'
-date: 2022-12-01 15:13:21
+date: 2022-12-07 12:06:48
 image: 'https://m.media-amazon.com/images/I/31RXDcYW3WS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B088TQ9H6G/?tag=tolees-21'
 descuento: '49.99'
-average: '19.1514285714286'
+average: '18.945'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistemas operativos compatibles: Windows 10 y superior
 - Configuración sencilla, la conexión es muy simple gracias a la conectividad USB para que puedas usarlo inmediatamente
-- Dimensiones mínimas: 12,8 x 7,45 x 4,1 cm. Peso: 0,12 kg
-- Con un sensor óptico de 200 a 7200 PPP optimizado para los juegos y 4 configuraciones de sensibilidad, este ratón te proporciona una mayor precisión
 - Resolución: Sensor OMEN Radar 1, desarrollado junto con PixArt
 - Juega con comodidad gracias a los agarres antideslizantes con relieve
+- Dimensiones mínimas: 12,8 x 7,45 x 4,1 cm. Peso: 0,12 kg
+- Sistemas operativos compatibles: Windows 10 y superior
+- Con un sensor óptico de 200 a 7200 PPP optimizado para los juegos y 4 configuraciones de sensibilidad, este ratón te proporciona una mayor precisión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
