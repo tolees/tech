@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 10
-- Pantalla de 17.3" QHD 2560 x 1440, 165Hz
-- Targeta gráfica NVIDIA GeForce RTX 3060, 6GB DDR6 VRAM
-- Memoria Ram de 16 GB DDR4-3200MHz
-- Tipo de conectividad: Wi-Fi
 - Almacenamiento de 1TB SSD PCIe Gen4 NVMe actualizable 4TB + Open M.2 Slot (Supports 2-sided NVMe Drive)
+- Targeta gráfica NVIDIA GeForce RTX 3060, 6GB DDR6 VRAM
 - Procesador Intel Core i7-11800H
+- Tipo de conectividad: Wi-Fi
+- Sistema Operativo: Windows 10
+- Memoria Ram de 16 GB DDR4-3200MHz
+- Pantalla de 17.3" QHD 2560 x 1440, 165Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
