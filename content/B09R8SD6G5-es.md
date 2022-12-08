@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Watch 2 Lite - Smartwatch Blue'
-date: 2022-12-07 14:05:28
+date: 2022-12-08 18:04:51
 image: 'https://m.media-amazon.com/images/I/31rfkt92B9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Barebones','Electrónica','Informática','Smartwatches','Tecnología pa
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0
-comparePrice: 56.95 EUR
+comparePrice: 57.0 EUR
 prodname: 'Xiaomi Redmi Watch 2 Lite - Smartwatch Blue'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09R8SD6G5/?tag=tolees-21'
-descuento: '20.98'
-average: '52.982'
+descuento: '21.05'
+average: '51.6516666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
