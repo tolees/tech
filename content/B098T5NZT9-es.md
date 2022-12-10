@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blackview R3 Smartwatch  Reloj Inteligente Mujer - Oxímetro de Pulso  SpO2  | Esfera de Reloj de DIY | Pulsera Actividad Inteligente Caloría | Smartwatch Mujer para Android e iOS  Versión Mejorada '
-date: 2022-12-03 09:46:23
+date: 2022-12-10 17:00:40
 image: 'https://m.media-amazon.com/images/I/41adUt6eN0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Blackview'
 buyurl: 'https://www.amazon.es/dp/B098T5NZT9/?tag=tolees-21'
 descuento: '49.93'
-average: '33.9589130434782'
+average: '33.8744680851063'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
