@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos años de garantía contra defectos de fabricación.
 - Producto original de marca.
+- Dos años de garantía contra defectos de fabricación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
