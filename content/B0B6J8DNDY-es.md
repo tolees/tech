@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FOAOOD Cámara de Vigilancia WiFi Exterior con Panel Solar  Cámaras WiFi con Visión Nocturna en Color  Batería Incorporada   Detección Humana PIR  Audio Bidireccional  Resistente al Agua IP66'
-date: 2022-12-10 07:03:58
+date: 2022-12-11 07:10:35
 image: 'https://m.media-amazon.com/images/I/41MLh3ComHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FOAOOD'
 buyurl: 'https://www.amazon.es/dp/B0B6J8DNDY/?tag=tolees-21'
 descuento: '25.04'
-average: '63.0507692307693'
+average: '62.8300000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
