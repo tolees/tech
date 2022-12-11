@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi TELEFONO MOVIL REDMI 9C Gris 6.53"-OC2.3-4GB-128GB'
-date: 2022-12-10 20:00:50
+date: 2022-12-11 20:12:16
 image: 'https://m.media-amazon.com/images/I/31XDCMBvlyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0B3VD1LFL/?tag=tolees-21'
 descuento: '24.45'
-average: '128.2'
+average: '128.133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original de marca.
 - Dos años de garantía contra defectos de fabricación.
+- Producto original de marca.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

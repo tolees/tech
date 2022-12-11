@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+- Tarjeta gráfica Integrada Intel Iris Xe Graphics
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, IPS, 250nits, antirreflejo
 - Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Memoria RAM de 8GB SO-DIMM DDR4-3200 ampliable hasta 32GB DDR4-3200
 - Sistema operativo Windows 10 Pro
-- Tarjeta gráfica Integrada Intel Iris Xe Graphics
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

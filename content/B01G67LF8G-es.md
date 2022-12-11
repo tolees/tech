@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR EX7300-100PES - Repetidor WiFi  Amplificador WiFi Mesh AC2200 Dual Band  compatible con módems de fibra y adsl'
-date: 2022-12-09 19:05:16
+date: 2022-12-11 19:28:12
 image: 'https://m.media-amazon.com/images/I/31QTY0DWsVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.es/dp/B01G67LF8G/?tag=tolees-21'
 descuento: '15.79'
-average: '85.1641304347826'
+average: '85.1084946236559'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seguro y fiable: admite los protocolos de seguridad inalámbrica wep y wpa / wpa2
-- Repetidor de red mesh ex7300: añade cobertura wifi de hasta 150 metros cuadrados, y conecta hasta 30 dispositivos a la vez como ordenadores portátiles, smartphone, cámara s ip, tablets, dispositivos iot y más
-- Funcionalidad wifi mesh universal: utiliza el nombre de su ssid de la red existente para que nunca se desconecte mientras se desplaza por su hogar u oficina
 - Fácil de configurar: presione el botón wps para conectarse a su router; utilice la aplicación netgear wifi analyzer para una situación óptima
-- Compatibilidad universal: funciona con cualquier router inalámbrico, puerto de enlace o módem por cable con wifi
 - Puerto ethernet cableado: simplemente conecte las consolas de videojuegos, los reproductores de streaming u otros dispositivos por cable al puerto gigabit para obtener la máxima velocidad
+- Funcionalidad wifi mesh universal: utiliza el nombre de su ssid de la red existente para que nunca se desconecte mientras se desplaza por su hogar u oficina
 - Velocidad wifi ac2200: proporciona un rendimiento de hasta 2200 mbps utilizando la tecnología patentada fastlane (tm) de banda dual para el streaming hd y juegos online
+- Repetidor de red mesh ex7300: añade cobertura wifi de hasta 150 metros cuadrados, y conecta hasta 30 dispositivos a la vez como ordenadores portátiles, smartphone, cámara s ip, tablets, dispositivos iot y más
+- Compatibilidad universal: funciona con cualquier router inalámbrico, puerto de enlace o módem por cable con wifi
+- Seguro y fiable: admite los protocolos de seguridad inalámbrica wep y wpa / wpa2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

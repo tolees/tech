@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue todos los beneficios de rendimiento desde USB 3.2 Gen 1 en combinación con el cómodo conector reversible USB Type-C
-- Gracias a su excelente diseño y un bajo ruido del ventilador, CUBI 5 será totalmente silencioso
-- Cubi 5 está diseñado para soportar un power switch externo para permitir su uso en cualquier área
 - Gracias a la compatibilidad VESA podrás montar el ordenador detrás del monitor y hacer CUBI 5 totalmente invisible
+- Cubi 5 está diseñado para soportar un power switch externo para permitir su uso en cualquier área
+- Gracias a su excelente diseño y un bajo ruido del ventilador, CUBI 5 será totalmente silencioso
 - PC compacto y de dimensiones reducidas para facilitar su uso y transporte
 - Tipo de memoria del ordenador: ddr4 sdram
+- Consigue todos los beneficios de rendimiento desde USB 3.2 Gen 1 en combinación con el cómodo conector reversible USB Type-C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
