@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 9A Granite Gray 2GB RAM 32GB ROM'
-date: 2022-12-05 11:53:32
+date: 2022-12-11 15:09:54
 image: 'https://m.media-amazon.com/images/I/414DZeiqFsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
