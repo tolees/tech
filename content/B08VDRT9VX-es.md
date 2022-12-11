@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL TUNE 510BT – Auriculares inalámbricos on-ear con tecnología Bluetooth  ligeros  cómodos y plegables  hasta 40h de batería  Siri y Asistente de Google  con conexión multipunto  rosa'
-date: 2022-12-09 18:59:32
+date: 2022-12-11 01:05:46
 image: 'https://m.media-amazon.com/images/I/31S8qPtaxyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08VDRT9VX-es JBL TUNE 510BT – Auriculares inalámbricos on-ear con...'
 sku: 'B08VDRT9VX-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','auriculares','bluetooth','jbl','🇪🇸', ]
-actualPrice: 35.99 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 35.99
+price: 34.99
 comparePrice: 50.62 EUR
 prodname: 'JBL TUNE 510BT – Auriculares inalámbricos on-ear con tecnología Bluetooth  ligeros  cómodos y plegables  hasta 40h de batería  Siri y Asistente de Google  con conexión multipunto  rosa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B08VDRT9VX/?tag=tolees-21'
-descuento: '28.90'
-average: '35.9106666666667'
+descuento: '30.88'
+average: '35.853125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
