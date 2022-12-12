@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL GO 3 - Altavoz inalámbrico portátil con Bluetooth  resistente al agua y al polvo  IP67   hasta 5h de reproducción con sonido de alta fidelidad  negro'
-date: 2022-12-10 18:51:57
+date: 2022-12-12 01:20:49
 image: 'https://m.media-amazon.com/images/I/41q4KziLUgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B08FB2H6Y4/?tag=tolees-21'
 descuento: '25.01'
-average: '29.3805617977525'
+average: '29.387333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
