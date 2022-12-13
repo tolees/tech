@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Smartphone Marca Modelo Galaxy S22 5G 256GB Green'
-date: 2022-12-12 14:36:11
+date: 2022-12-13 14:40:38
 image: 'https://m.media-amazon.com/images/I/31ZAUlBSFNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

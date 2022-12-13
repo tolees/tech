@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altavoz Bluetooth
-- Batería hasta 5h
-- conexiones USB, Micro SD y Aux-in
 - Potencia 12W
+- Batería hasta 5h
+- Altavoz Bluetooth
 - Micrófono con cable incluido
+- conexiones USB, Micro SD y Aux-in
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
