@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VG27AQ1A - Monitor Gaming de 27" WQHD  2560x1440  IPS  HDMI  Display Port  170 Hz  1ms MPRT  ELMB  G-SYNC Compatible ready  HDR 10   Negro'
-date: 2022-12-09 21:56:39
+date: 2022-12-12 23:40:28
 image: 'https://m.media-amazon.com/images/I/41CzVGShj-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08J4D98JB/?tag=tolees-21'
 descuento: '33.19'
-average: '333.212631578947'
+average: '331.551'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La función Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes.
-- Monitor gaming de 27" con resolución WQHD (2560x1440 pixeles) y panel IPS.
 - G-SYNC Compatible que soporta un rango de refresco variable (VRR) y asegura una experiencia de juego sin defectos de imagen.
+- La función Shadow Boost mejora los detalles de las áreas oscuras sin sobrexponer las áreas brillantes.
+- La tecnología ASUS Extreme Low Motion Blur (ELMB) elimina los defectos gráficos y hace que las escenas borrosas cobren nitidez.
+- Monitor gaming de 27" con resolución WQHD (2560x1440 pixeles) y panel IPS.
 - Frecuencia de actualización de 170 Hz y tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de fotogramas entrecortadas, óptimo para disfrutar de los juegos con una experiencia fluida.
 - Soporta tanto Adaptive-Sync con tarjetas gráficas NVIDIA GeForce como FreeSync con tarjetas gráficas AMD Radeon.
-- La tecnología ASUS Extreme Low Motion Blur (ELMB) elimina los defectos gráficos y hace que las escenas borrosas cobren nitidez.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
