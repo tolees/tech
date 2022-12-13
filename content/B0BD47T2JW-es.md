@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola E22  4/64 GB  Negro'
-date: 2022-12-09 18:15:35
+date: 2022-12-13 08:00:51
 image: 'https://m.media-amazon.com/images/I/41d310oMvbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Smartphone marca Motorola, color negro
 - Descripción de la cámara: Frontal
-- MOTO E22 XT2239-6 4+64 BLACK
 - 2 años de garantía del fabricante
+- MOTO E22 XT2239-6 4+64 BLACK
 
 [🛒 Visítala!!!]({{< param buyurl >}})
