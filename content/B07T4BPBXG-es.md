@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tecnología LED azul y un potente sensor optico de 1600ppp para trabajar en cualquier superficie
-- Dimensiones mínimas 9,48 x 5,7 x 3,91 cm y peso: 0,08 kg
 - Sistemas operativos compatibles: Windows 7; Windows 8; Windows 10; Mac OS; Chrome OS; se adapta fácilmente a cualquier laptop con puerto USB
 - Ratón inalabrico con diseño moderno, contorneado y ambidiestro, pensado para su comodidad todo el dia gracias a su práctico tamaño de viaje y larga duración de bateria
-- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, hasta 10 m (30 pies), el receptor USB se puede almacenar dentro del mouse, por lo que es fácil de llevar con usted
-- Posee una potencia fiable gracias a su eficiente duración de la batería hasta 15 meses, dependiendo su uso
+- Dimensiones mínimas 9,48 x 5,7 x 3,91 cm y peso: 0,08 kg
 - Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
+- Posee una potencia fiable gracias a su eficiente duración de la batería hasta 15 meses, dependiendo su uso
+- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, hasta 10 m (30 pies), el receptor USB se puede almacenar dentro del mouse, por lo que es fácil de llevar con usted
 
 [🛒 Comprar!!!]({{< param buyurl >}})

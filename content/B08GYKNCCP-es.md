@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Tarjeta de memoria Ultra microSDXC de 128 GB+adaptador SD. Velocidad de lectura de hasta 120 MB/S  aprobación Clase 10  U1  A1  128 GB 1 Unidad   Paquete de 1 '
-date: 2022-11-30 12:40:16
+date: 2022-12-13 21:01:11
 image: 'https://m.media-amazon.com/images/I/41upmOmdz1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GYKNCCP-es SanDisk Tarjeta de memoria Ultra microSDXC de 128...'
 sku: 'B08GYKNCCP-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','sandisk','🇪🇸', ]
-actualPrice: 13.99 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 13.99
+price: 15.99
 comparePrice: 22.99 EUR
 prodname: 'SanDisk Tarjeta de memoria Ultra microSDXC de 128 GB+adaptador SD. Velocidad de lectura de hasta 120 MB/S  aprobación Clase 10  U1  A1  128 GB 1 Unidad   Paquete de 1 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B08GYKNCCP/?tag=tolees-21'
-descuento: '39.15'
-average: '16.1052136752136'
+descuento: '30.45'
+average: '16.1042372881355'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidades de transferencia de hasta 120 MB/s para mover hasta 1000 fotos por minuto
-- Este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas comerciales de Google LLC.
-- Compatible con dispositivos host compatibles con microSDXC y microSDXC UHS-I
-- Clase 10 para grabar y ver vídeos Full HD
-- Hasta 1 TB para almacenar aún más vídeos Full HD
 - Carga aplicaciones más rápido con un rendimiento de clase A1
+- Compatible con dispositivos host compatibles con microSDXC y microSDXC UHS-I
+- Hasta 1 TB para almacenar aún más vídeos Full HD
+- Este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas comerciales de Google LLC.
+- Velocidades de transferencia de hasta 120 MB/s para mover hasta 1000 fotos por minuto
+- Clase 10 para grabar y ver vídeos Full HD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
