@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Raider GE66 12UH-005ES - Ordenador portatil de 15.6" QHD 240Hz  Intel Core i7-12700H  32GB RAM  1TB SSD  RTX 3080-8GB  Windows 11 Home Advanced  - Teclado QWERTY Español'
-date: 2022-12-11 12:33:02
+date: 2022-12-14 18:35:31
 image: 'https://m.media-amazon.com/images/I/31y4Jk2PwDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica RTX3080, GDDR6 8GB (150W)
-- Windows 11 Home Advanced
-- Memoria RAM DDR5 16GB*2 (4800MHz)
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
 - Procesador Intel Core i7-12700H (45W)
+- Windows 11 Home Advanced
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Memoria RAM DDR5 16GB*2 (4800MHz)
+- Tarjeta gráfica RTX3080, GDDR6 8GB (150W)
 - Pantalla de 15.6" QHD (2560*1440), 240Hz DCI-P3 100% typical
 
 [🛒 Aquí!!!]({{< param buyurl >}})
