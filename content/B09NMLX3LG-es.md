@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escápate a un bello y rústico entorno sin teléfonos móviles ni Internet.
+- Determina tu propia historia: no hay respuestas o finales "correctos" o incorrectos. Simplemente lo que quieras que ocurra.
 - Conoce a una serie de atractivos personajes, cada uno con su propia personalidad y peculiaridades, mientras vuelves a vivir los años 80.
 - Escoge las actividades después del trabajo: sal con tus amigos, ayuda a tus vecinos o quédate en casa leyendo un libro.
+- Escápate a un bello y rústico entorno sin teléfonos móviles ni Internet.
 - Disfruta de dos semanas de historias ramificadas que no rehúyen los temas de la vida cotidiana.
-- Determina tu propia historia: no hay respuestas o finales "correctos" o incorrectos. Simplemente lo que quieras que ocurra.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
