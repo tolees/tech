@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi TELEFONO MOVIL REDMI 9C Gris 6.53"-OC2.3-4GB-128GB'
-date: 2022-12-11 20:12:16
+date: 2022-12-14 20:26:23
 image: 'https://m.media-amazon.com/images/I/31XDCMBvlyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B3VD1LFL-es Xiaomi TELEFONO MOVIL REDMI 9C Gris 6.53"-OC2.3-4GB-128GB'
 sku: 'B0B3VD1LFL-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','xiaomi','🇪🇸', ]
-actualPrice: 128.0 EUR
+actualPrice: 136.0 EUR
 currency: EUR
-price: 128.0
+price: 136.0
 comparePrice: 169.42 EUR
 prodname: 'Xiaomi TELEFONO MOVIL REDMI 9C Gris 6.53"-OC2.3-4GB-128GB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0B3VD1LFL/?tag=tolees-21'
-descuento: '24.45'
-average: '128.133333333333'
+descuento: '19.73'
+average: '130.1'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

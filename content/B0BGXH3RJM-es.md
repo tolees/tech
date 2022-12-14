@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hab Spaß im Lets Party-Modus, indem du mit bis zu 8 Spielern gemeinsam performen kannst
-- Performe einige deiner neuen Lieblingssongs sowie alte Klassiker aus der neuen Songauswahl mit 30 aufregenden und bekannten Titeln
-- Inhalt: Das Spiel "Lets Sing 2023 German Version"
 - Stelle dein Können im Duell gegen andere Sänger in unserer Online-Rangliste unter Beweis! Weitere Songs erwarten dich im In-Game-Shop
+- Inhalt: Das Spiel "Lets Sing 2023 German Version"
+- Performe einige deiner neuen Lieblingssongs sowie alte Klassiker aus der neuen Songauswahl mit 30 aufregenden und bekannten Titeln
+- Hab Spaß im Lets Party-Modus, indem du mit bis zu 8 Spielern gemeinsam performen kannst
 
 [🛒 Aquí!!!]({{< param buyurl >}})
