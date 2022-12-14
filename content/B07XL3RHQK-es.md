@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con Android 4.4 o posterior e iOS 9.0 o posterior
-- La función de estrés solo está disponible en teléfonos Android
 - Edición Sport
+- La función de estrés solo está disponible en teléfonos Android
 - Producto oficial de Huawei fabricado con materiales de óptima calidad
+- Compatible con Android 4.4 o posterior e iOS 9.0 o posterior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
