@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Portátil marca compatible: Para ACER, ASUS, Dell, HP, Lenovo, Samsung, Toshiba, Sony, etc.
-- Solo trabajar con 2,5 " 9.5 mm Serial ATA unidad de disco duro HDD y SSD también.
 - Le permite añadir una unidad de disco duro portátil segundos a cualquier bahía modular
-- Conectores: fin portátil: SATA, al final del disco duro: SATA
 - Con el segundo disco duro en su ordenador portátil, Puede importantes aplicaciones rápidamente copias de seguridad y los datos críticos (Simplemente retire la unidad de CD-ROM y ponga el carrito (con la impulsión dura agregada) en su lugar).
+- Solo trabajar con 2,5 " 9.5 mm Serial ATA unidad de disco duro HDD y SSD también.
+- Conectores: fin portátil: SATA, al final del disco duro: SATA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

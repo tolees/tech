@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier G2000 2.0 - Caja de Juegos con Bluetooth  RGB   Color Negro'
-date: 2022-12-05 11:58:24
+date: 2022-12-14 09:05:54
 image: 'https://m.media-amazon.com/images/I/31qrDKqkrRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07ZS52HCQ-es Edifier G2000 2.0 - Caja de Juegos con Bluetooth RGB Color...'
 sku: 'B07ZS52HCQ-es'
 tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Altavoces de ordenador','Informática','bluetooth','edifier','🇪🇸', ]
-actualPrice: 49.99 EUR
+actualPrice: 59.98 EUR
 currency: EUR
-price: 49.99
+price: 59.98
 comparePrice: 79.99 EUR
 prodname: 'Edifier G2000 2.0 - Caja de Juegos con Bluetooth  RGB   Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Edifier'
 buyurl: 'https://www.amazon.es/dp/B07ZS52HCQ/?tag=tolees-21'
-descuento: '37.50'
-average: '57.5145454545455'
+descuento: '25.02'
+average: '57.72'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tres modos de sonido: optimizado para juegos, películas y música.
-- Manejo: todos los ajustes del altavoz activo se pueden realizar
+- Efecto RGB: 12 efectos de luz diferentes para un ambiente de juego perfecto.
 - Compacto y potente: para un mejor sonido de juego
 - Conexión: Bluetooth, USB (tarjeta de sonido), clavija de 3,5 mm.
-- Efecto RGB: 12 efectos de luz diferentes para un ambiente de juego perfecto.
+- Manejo: todos los ajustes del altavoz activo se pueden realizar
+- Tres modos de sonido: optimizado para juegos, películas y música.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

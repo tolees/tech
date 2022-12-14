@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
-- Programación: preestablezca una programación para administrar dispositivos automáticamente
-- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 - Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Programación: preestablezca una programación para administrar dispositivos automáticamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
