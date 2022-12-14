@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
 - Pantalla Full HD de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Almacenamiento de datos 64 GB eMMC
-- Gráficos Integrados Intel UHD 600
-- Memoria RAM LPDDR4-2400 MHz 4 GB (integrada)
 - Sistema operativo Chrome OS
+- Procesador Intel Celeron N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2, 2 núcleos)
+- Gráficos Integrados Intel UHD 600
+- Almacenamiento de datos 64 GB eMMC
+- Memoria RAM LPDDR4-2400 MHz 4 GB (integrada)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
