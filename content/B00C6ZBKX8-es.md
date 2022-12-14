@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DVD+RW/+R/+R DL  DVD-RW/-R/-R DL  incluidos DVD de 8 cm   JPEG  mp3  MPEG-4  WMA  AAC y PCM lineal  Diseño Compacto 270 mm  Negro'
-date: 2022-12-13 14:27:10
+date: 2022-12-14 15:05:44
 image: 'https://m.media-amazon.com/images/I/31Kpa5vXW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21'
 descuento: '17.38'
-average: '38.0481000000003'
+average: '38.0463672654694'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante, compacto y que ahorra espacio con solo 270 mm de grosor
-- Contenido del paquete: reproductor de DVD, guía de referencia, guía de inicio rápido, control remoto, pilas (1 tipo AA)
 - Ecualizador de video, audio DRC (control de rango dinámico)
+- Contenido del paquete: reproductor de DVD, guía de referencia, guía de inicio rápido, control remoto, pilas (1 tipo AA)
+- Diseño elegante, compacto y que ahorra espacio con solo 270 mm de grosor
 - Entrada/Salida LINE (RGB) -TV: USB de 21 pines *: Toma USB tipo A, corriente máxima 500 mA (para conectar un dispositivo USB)
-- Reproduce películas, música y fotos almacenadas en USB
 - Compatible con XVid, CD/R/RW, MP3, JPEG
+- Reproduce películas, música y fotos almacenadas en USB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
