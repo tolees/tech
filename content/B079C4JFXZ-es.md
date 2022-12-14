@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aviso: No recomendado para menores de 36 meses
-- Teclado abc y números del 1 al 10
-- 20 actividades educativas para aprender divirtiéndose en aspectos como matemáticas básicas o ciencias
 - Posibilidad de personalizar el ordenador añadiendo detalles como edad, nombre o comida favorita
-- Ordenador educativo con pantalla interactiva retroiluminada y divertidas animaciones
 - Incluye 30 melodías y distintos modos de música rock, jazz y country
+- Teclado abc y números del 1 al 10
+- Aviso: No recomendado para menores de 36 meses
+- 20 actividades educativas para aprender divirtiéndose en aspectos como matemáticas básicas o ciencias
+- Ordenador educativo con pantalla interactiva retroiluminada y divertidas animaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
