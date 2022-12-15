@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer K2 K242HYLH - Monitor de 23.8" Full HD  1920x1080  60.5 cm  250 nits  1ms  VRB   ZeroFrame  75Hz  Color Negro'
-date: 2022-12-14 09:44:02
+date: 2022-12-15 13:01:28
 image: 'https://m.media-amazon.com/images/I/41k1f76YyrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B09BP16K9L/?tag=tolees-21'
 descuento: '34.60'
-average: '96.9775'
+average: '95.764'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
