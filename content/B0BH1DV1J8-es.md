@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 10A – Smartphone de 4+128GB  Pantalla Dot Drop de 6 53” HD+  MediaTek Helio G25  Cámara dual de 13 MP  Batería de 5000 mAh  color gris  Versión ES + 3 años de garantía '
-date: 2022-12-08 18:58:20
+date: 2022-12-16 01:16:53
 image: 'https://m.media-amazon.com/images/I/41nGnie7HiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran pantalla de 6,53". Disfruta de todas tus películas en la gran pantalla HD+ de 6,53" de Redmi 10A. La parte posterior tiene curva 3D, para lograr una sensación más cómoda de agarre en mano. Redmi 10A cuenta además con un sensor de huellas dactilares trasero rápido y preciso
-- Fotografía con cámara dual de 13 MP y 5MP de selfie. Redmi 10A tiene una cámara principal de 13MP para capturar y compartir, así como una cámara de profundidad de 2MP, que ayuda a lograr un efecto de desenfoque natural en el fondo cuando tomas retratos. También incorpora una cámara frontal de 5MP para selfies nítidos y una serie de funciones de galería para una experiencia divertida
 - Batería de 5000 mAh y MediaTek Helio G25. Redmi 10A incorpora un procesador MediaTek Helio G25, con una CPU de 8 núcleos de hasta 2 Ghz. Equipado con una batería de 5000 mAh de larga duración y una carga rápida de 10W, Redmi 10A proporciona energía suficiente para durar un día completo
+- Gran pantalla de 6,53". Disfruta de todas tus películas en la gran pantalla HD+ de 6,53" de Redmi 10A. La parte posterior tiene curva 3D, para lograr una sensación más cómoda de agarre en mano. Redmi 10A cuenta además con un sensor de huellas dactilares trasero rápido y preciso
 - Audio: conexión jack de 3,5mm; Memoria de 4+128GB; Memoria ampliable mediante SD hasta 1TB; MIUI 12.5 basado en Android 11
+- Fotografía con cámara dual de 13 MP y 5MP de selfie. Redmi 10A tiene una cámara principal de 13MP para capturar y compartir, así como una cámara de profundidad de 2MP, que ayuda a lograr un efecto de desenfoque natural en el fondo cuando tomas retratos. También incorpora una cámara frontal de 5MP para selfies nítidos y una serie de funciones de galería para una experiencia divertida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
