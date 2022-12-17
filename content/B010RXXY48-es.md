@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de red  velocidad doble banda  1 x puerto Gigabit  luz señal inteligente  modo AP  fácil configuración  Color Blanco'
-date: 2022-12-14 15:12:48
+date: 2022-12-17 15:58:10
 image: 'https://m.media-amazon.com/images/I/314bP9LAf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B010RXXY48-es TP-Link RE450 - Repetidor Wi-Fi AC1750 amplificador de red...'
 sku: 'B010RXXY48-es'
 tags: [ 'Dispositivos de red','Informática','Repetidores de red','gigabit','tp-link','🇪🇸', ]
-actualPrice: 61.23 EUR
+actualPrice: 59.9 EUR
 currency: EUR
-price: 61.23
+price: 59.9
 comparePrice: 91.91 EUR
 prodname: 'TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de red  velocidad doble banda  1 x puerto Gigabit  luz señal inteligente  modo AP  fácil configuración  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21'
-descuento: '33.38'
-average: '54.8300838574426'
+descuento: '34.83'
+average: '54.8512526096036'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
