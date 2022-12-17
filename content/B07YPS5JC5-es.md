@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Power Bank  22.5W Bateria Externa Carga Rapida 20000mAh  Bateria Portatil PD3.0 QC4.0  Powerbank 3A  USB C Input&Output  LED Compatible con iPhone 13 12 X Pro Samsung Xiaomi Huawei iPad Airpods.'
-date: 2022-12-16 08:35:39
+date: 2022-12-17 13:12:22
 image: 'https://m.media-amazon.com/images/I/417dc31EkzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'INIU'
 buyurl: 'https://www.amazon.es/dp/B07YPS5JC5/?tag=tolees-21'
 descuento: '15.02'
-average: '30.6865789473683'
+average: '30.6643589743589'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
