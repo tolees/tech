@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 1 Gen 7 - Ordenador Portátil 15.6" FullHD  AMD Ryzen 5 3500U  8GB RAM  512GB SSD  AMD Radeon Vega 8 Graphics  Windows 11 Home  Gris - Teclado QWERTY Español'
-date: 2022-12-11 10:10:48
+date: 2022-12-18 11:23:18
 image: 'https://m.media-amazon.com/images/I/41Dk+i+rTrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador AMD Ryzen 5 3500U (4C/8T, 2.1/3.7GHz, 2MB L2/4MB L3)
-- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
 - Pantalla de 15.6 inch FullHD 1920x1080 píxeles, TN, 220nits, Anti-glare
 - Sistema operativo: Windows 11 Home
-- Almacenamiento de 512GB SSD
 - Memoria RAM de 8GB SO-DI mm DDR4-2400
+- Almacenamiento de 512GB SSD
+- Procesador AMD Ryzen 5 3500U (4C/8T, 2.1/3.7GHz, 2MB L2/4MB L3)
+- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Carga máxima: 2300 W, 10 A; estricto control de calidad por parte del laboratorio de tp-link y certificación por parte de la autoridad internacional.
 - Atención: sin toma de tierra europea, solo para enchufes hembra tipo C (o enchufes).
 - Control de voz: compatible con Alexa y Google Assistant para controlar el enchufe inteligente simplemente con la voz.
-- Carga máxima: 2300 W, 10 A; estricto control de calidad por parte del laboratorio de tp-link y certificación por parte de la autoridad internacional.
-- Pack de 2
-- No se requiere concentrador: se conecta a su enrutador Wi-Fi existente.
 - Acceso remoto: controle los dispositivos conectados al enchufe inteligente donde haya Internet mediante la aplicación Tapo en su teléfono inteligente.
-- Modo ausente: encienda y apague sus aparatos a intervalos de tiempo programados para simular la presencia en la casa.
-- Configuración abrefácil de Amazon (FFS): la configuración es más rápida que nunca con Alexa. Usa tu dispositivo Echo para configurar el conector mediante un comando de voz
+- No se requiere concentrador: se conecta a su enrutador Wi-Fi existente.
+- Pack de 2
 - Programación: programe el enchufe inteligente para que suministre energía automáticamente de acuerdo con sus necesidades, cómo configurar las luces al anochecer y apagarlas al amanecer.
+- Configuración abrefácil de Amazon (FFS): la configuración es más rápida que nunca con Alexa. Usa tu dispositivo Echo para configurar el conector mediante un comando de voz
+- Modo ausente: encienda y apague sus aparatos a intervalos de tiempo programados para simular la presencia en la casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
