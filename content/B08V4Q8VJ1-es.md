@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Handheld Vacuum Cleaner Light - Mijia aspiradora de mano inalámbrica  aspiradora de escoba ligera con succión de17000 Pa  poco ruido  para el hogar y el coche  Color Blanco'
-date: 2022-12-10 10:01:13
+date: 2022-12-19 17:45:10
 image: 'https://m.media-amazon.com/images/I/11wceXXJB0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08V4Q8VJ1-es Xiaomi Handheld Vacuum Cleaner Light - Mijia aspiradora de...'
 sku: 'B08V4Q8VJ1-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Aspiradoras de mano','Hogar y cocina','xiaomi','🇪🇸', ]
-actualPrice: 91.15 EUR
+actualPrice: 89.24 EUR
 currency: EUR
-price: 91.15
+price: 89.24
 comparePrice: 149.99 EUR
 prodname: 'Xiaomi Handheld Vacuum Cleaner Light - Mijia aspiradora de mano inalámbrica  aspiradora de escoba ligera con succión de17000 Pa  poco ruido  para el hogar y el coche  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08V4Q8VJ1/?tag=tolees-21'
-descuento: '39.23'
-average: '86.4463793103447'
+descuento: '40.50'
+average: '86.5394999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
