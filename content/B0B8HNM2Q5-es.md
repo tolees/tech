@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delgado, elegante y duradero; bellamente elaborado con materiales de primera calidad y hecho para que pueda realizar las tareas diarias con estilo
+- Batería de larga duración; deja atrás tus preocupaciones gracias a una batería de 5000 mAh
 - Sistema de cámara triple alimentado por IA; captura hermosos retratos y primeros planos extremos, y nunca te pierdas un momento con una lente de enfoque rápido
 - Pantalla HD+ de 6,5" y 90 Hz; haz que tus películas, juegos y fotos favoritos cobren vida en una pantalla fluida ultraancha de 6,5"
-- Batería de larga duración; deja atrás tus preocupaciones gracias a una batería de 5000 mAh
+- Delgado, elegante y duradero; bellamente elaborado con materiales de primera calidad y hecho para que pueda realizar las tareas diarias con estilo
 - Rendimiento poderosamente eficiente; siente que tu teléfono responde instantáneamente a cada toque, toque y deslizamiento con un procesador octa-core y 3 GB de RAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
