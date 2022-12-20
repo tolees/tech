@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Consola PlayStation 5'
-date: 2022-12-19 11:21:46
+date: 2022-12-20 14:10:04
 image: 'https://m.media-amazon.com/images/I/41F-2atOMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KKJ37F7/?tag=tolees-21'
 descuento: '36.64'
-average: '683.551111111111'
+average: '670.195'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
