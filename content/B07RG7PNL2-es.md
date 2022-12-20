@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La mesa de estudio Athena es una mesa de oficina o escritorio de líneas depuradas y forma sencilla pero muy práctico; la mesa incluye 2 cajones y una puerta reversible, ideales para guardar y ordenar todo aquello que precises.
-- Se trata de una mesa de despacho que permite el trabajo manual y también el trabajo en ordenador, suficiente amplio como para que una persona trabaje sin estrecheces.
 - El buc puede ir a la izquierda o a la derecha, apertura de la puerta de izquierda a derecha.
-- Fabricado con aglomerado de alta densidad, melanina de gran calidad y durabilidad. Producto Certificado por la PEFC (Asociación Española para la Sostenibilidad Forestal), el mueble es de color Blanco Artik (blanco mate), muy combinable con todo tipo de decoración.
+- La mesa de estudio Athena es una mesa de oficina o escritorio de líneas depuradas y forma sencilla pero muy práctico; la mesa incluye 2 cajones y una puerta reversible, ideales para guardar y ordenar todo aquello que precises.
 - Medidas de las mesa de escritorio Athena: Mueble: 138 cm (ancho) x 74 cm (alto) x 60 cm (fondo); capacidad cajón: 32 cm (ancho) x 10 cm (alto) x 40 cm (fondo).
+- Fabricado con aglomerado de alta densidad, melanina de gran calidad y durabilidad. Producto Certificado por la PEFC (Asociación Española para la Sostenibilidad Forestal), el mueble es de color Blanco Artik (blanco mate), muy combinable con todo tipo de decoración.
+- Se trata de una mesa de despacho que permite el trabajo manual y también el trabajo en ordenador, suficiente amplio como para que una persona trabaje sin estrecheces.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
