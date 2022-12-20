@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabra Elite 4 Active - Auriculares Inalámbrico Bluetooth In-Ear con Ajuste Activo Seguro  4 Micrófonos Integrados  Cancelación de Ruido Activa  Tecnología HearThrough Ajustable  Color Azul Marino'
-date: 2022-12-06 07:04:15
+date: 2022-12-20 17:07:18
 image: 'https://m.media-amazon.com/images/I/31mIksX9PVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jabra'
 buyurl: 'https://www.amazon.es/dp/B09KNP692F/?tag=tolees-21'
 descuento: '33.34'
-average: '88.4833333333333'
+average: '86.36'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
