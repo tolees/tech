@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Bravo 15 B5DD-007XES - Ordenador portátil de 15.6" FHD  Ryzen 5 5600H  8 GB RAM  512 GB SSD  RX5500M  GDDR6 4GB  sin Sistema operativo  Negro - Teclado QWERTY Español'
-date: 2022-12-18 18:39:00
+date: 2022-12-21 13:43:12
 image: 'https://m.media-amazon.com/images/I/31Q3DoV6YKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Ryzen 5 5600H
 - Memoria RAM de DDR IV 8GB (8GBx1) (3200MHz)
+- Procesador Ryzen 5 5600H
+- Disco de 512GB NVMe PCIe Gen3x4 SSD (new)
+- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 512.0; Sistema operativo: Windows 10 Home; Capacidad de la memoria RAM (GB): 8.0 GB
 - Tarjeta gráfica RX5500M, GDDR6 4GB
 - Sin sistema operativo
-- Tamaño de pantalla: 15.6 inches; Capacidad de almacenamiento de memoria: 512.0; Sistema operativo: Windows 10 Home; Capacidad de la memoria RAM (GB): 8.0 GB
-- Disco de 512GB NVMe PCIe Gen3x4 SSD (new)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
