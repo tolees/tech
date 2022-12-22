@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Xia Redmi Note 11 Pro 128-6-4G WH | Redmi Note 11 Pro LTE 128/6GB White'
-date: 2022-12-21 10:00:05
+date: 2022-12-22 15:15:22
 image: 'https://m.media-amazon.com/images/I/31etceqwvjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09RZT7GJ7/?tag=tolees-21'
 descuento: '32.21'
-average: '256.168'
+average: '254.391666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
