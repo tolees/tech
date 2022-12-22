@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung LF27T352FHRXEN - Monitor Plano de 27"  Full HD  1080p  Panel IPS   Freesync  HDMI  Gaming  Negro'
-date: 2022-12-16 15:24:20
+date: 2022-12-22 17:32:18
 image: 'https://m.media-amazon.com/images/I/51A7YiPfd0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08SW6NVP1/?tag=tolees-21'
 descuento: '17.65'
-average: '150.66'
+average: '150.098421052632'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Monitor 27 pulgadas con panel IPS y ángulo de visión de 178º para una calidad de visionado superior e imágenes cristalinas
 - AMD Freesync y Game mode, experiencia gaming inmersiva
 - Modo Eye-saver y Flicker Free para un mayor confort visual
-- Refresco de pantalla de 75 Hz para transiciones rápidas
 - Pantalla sin marcos en tres bordes, que facilita el montaje de varios monitores
+- Refresco de pantalla de 75 Hz para transiciones rápidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
