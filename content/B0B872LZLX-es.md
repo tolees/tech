@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ieGeek 2K Camara Vigilancia WiFi Exterior con Eléctrico  Detección de Movimiento Humano  Seguimiento Automático  Visión Nocturna Color  Alarma de Luz y Sonido  Grabación Continua  Compatible CloudEdge'
-date: 2022-12-21 09:09:42
+date: 2022-12-22 10:00:23
 image: 'https://m.media-amazon.com/images/I/41yeyoyw6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ieGeek'
 buyurl: 'https://www.amazon.es/dp/B0B872LZLX/?tag=tolees-21'
 descuento: '16.67'
-average: '58.4323076923077'
+average: '58.2730188679245'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
