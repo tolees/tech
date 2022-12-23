@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme - Pad 4+64 wifi EU  Color Grey  Gris '
-date: 2022-12-14 18:34:42
+date: 2022-12-23 19:02:15
 image: 'https://m.media-amazon.com/images/I/31bImf2cqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09JWFB273-es realme - Pad 4+64 wifi EU Color Grey Gris'
 sku: 'B09JWFB273-es'
 tags: [ 'Informática','Tablets','realme','wifi','🇪🇸', ]
-actualPrice: 198.9 EUR
+actualPrice: 199.0 EUR
 currency: EUR
-price: 198.9
+price: 199.0
 comparePrice: 259.99 EUR
 prodname: 'realme - Pad 4+64 wifi EU  Color Grey  Gris '
 country: 'es'
 flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B09JWFB273/?tag=tolees-21'
-descuento: '23.50'
-average: '188.347222222223'
+descuento: '23.46'
+average: '188.464285714286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

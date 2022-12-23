@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp 40FG6EA - Android TV  11  de 40"  Full HD  2X HDMI  2X USB  Bluetooth   Google Assistant  Chromecast  Dolby Audio  Active Motion 400  Color Negro  40 Pulgadas'
-date: 2022-12-13 18:54:40
+date: 2022-12-23 20:09:50
 image: 'https://m.media-amazon.com/images/I/41oExj0o3ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
-- Sonido Dolby Audio, 2x 6W RMS, wi-fi y bluetooth
 - Android TV (11) de 40 pulgadas Full HD con 2x HDMI, 2x USB, y Bluetooth.
 - Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
+- Sonido Dolby Audio, 2x 6W RMS, wi-fi y bluetooth
 - Medidas para soporte de pared VESA: 300x100 | Medidas con peana (An x Al x P en mm): 900 x 572 x 202 | Medidas sin peana (An x Al x P en mm): 900 x 514 x 70 | Distancia entre peanas (en mm): 851,4 | Peso 6kg
+- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

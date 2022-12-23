@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1 BY ONE - 1byone Báscula de Baño  Báscula de Grasa Corporal  Balanza Peso Corporal Bluetooth  Bascula Grasa Corporal y Muscular  Alta Precisión  14 Medidas Esenciales  Exportar datos como Excel'
-date: 2022-12-10 21:39:45
+date: 2022-12-23 19:19:59
 image: 'https://m.media-amazon.com/images/I/41zEbECx+PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07FFSYQDM-es 1 BY ONE - 1byone Báscula de Baño Báscula de Grasa...'
 sku: 'B07FFSYQDM-es'
 tags: [ '1 by one','Básculas','Básculas digitales','Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','bluetooth','🇪🇸', ]
-actualPrice: 17.41 EUR
+actualPrice: 17.86 EUR
 currency: EUR
-price: 17.41
+price: 17.86
 comparePrice: 24.99 EUR
 prodname: '1 BY ONE - 1byone Báscula de Baño  Báscula de Grasa Corporal  Balanza Peso Corporal Bluetooth  Bascula Grasa Corporal y Muscular  Alta Precisión  14 Medidas Esenciales  Exportar datos como Excel'
 country: 'es'
 flag: '🇪🇸'
 brand: '1 BY ONE'
 buyurl: 'https://www.amazon.es/dp/B07FFSYQDM/?tag=tolees-21'
-descuento: '30.33'
-average: '21.2792592592594'
+descuento: '28.53'
+average: '21.157142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
