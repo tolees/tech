@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Smartphone Marca Modelo Galaxy S22 5G 256GB Green'
-date: 2022-12-14 17:31:30
+date: 2022-12-24 17:17:26
 image: 'https://m.media-amazon.com/images/I/31ZAUlBSFNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09NRT2M3W-es SAMSUNG Smartphone Marca Modelo Galaxy S22 5G 256GB Green'
 sku: 'B09NRT2M3W-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','galaxy','samsung','smartphone','🇪🇸', ]
-actualPrice: 699.0 EUR
+actualPrice: 750.35 EUR
 currency: EUR
-price: 699.0
+price: 750.35
 comparePrice: 900.0 EUR
 prodname: 'SAMSUNG Smartphone Marca Modelo Galaxy S22 5G 256GB Green'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09NRT2M3W/?tag=tolees-21'
-descuento: '22.33'
-average: '699.0'
+descuento: '16.63'
+average: '711.8375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
