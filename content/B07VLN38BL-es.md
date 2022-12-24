@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi NUN4056GL - Mi Smart Scale 2 Blanco'
-date: 2022-12-22 23:14:48
+date: 2022-12-24 10:07:13
 image: 'https://m.media-amazon.com/images/I/21W09y0gHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mi'
 buyurl: 'https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21'
 descuento: '34.97'
-average: '14.9833823529408'
+average: '14.9689051094887'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
