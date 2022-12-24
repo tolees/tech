@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The G-Lab Keyz Caesium TKL: Teclado Gamer alámbrico con Entrada USB  de 87 Teclas QWERTY  Multicolor con retroiluminación LED - Teclado Gaming Compacto sin Teclado numérico para PC/PS4/PS5/Xbox  2022'
-date: 2022-12-12 10:52:56
+date: 2022-12-23 22:55:34
 image: 'https://m.media-amazon.com/images/I/41DjI-UOInL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TKL DE TAMAÑO COMPACTO SIN TOUCHPAD. El Keyz Caesium TKL mide 36,6 x 15,5 cm. Es un 20% más pequeño que un teclado para juegos tradicional, por lo que te permitirá ahorrar espacio en tu escritorio. con él, puedes estar seguro de que no volverás a chocar el mouse contra el borde del teclado. Este teclado para juegos TKL está especialmente recomendado para los jugadores con poca sensibilidad que realizan amplios movimientos con el mouse. Este teclado sin parte numérica tiene 84 teclas.
-- not_water_resistant
-- TECLADO REACTIVO Y SILENCIOSO. Diseñado para mejorar tu velocidad de escritura, el Keyz Caesium TKL garantiza una escritura rápida, precisa y fluida. Este modelo supera a otros teclados de membrana al ofrecer teclas extremadamente sensibles y silenciosas. Te permite jugar durante horas sin molestar a los demás. Este teclado gamer está especialmente recomendado para juegos como Fortnite, League of Legends, Minecraft o Valorant.
-- PROGRAMABLE PRÁCTICO. Con el software de personalización, el Keyz Caesium TKL te da acceso a 15 macros editables Podrás realizar acciones complejas en un instante y personalizar tus macros para adaptarlos al juego. la función anti-ghosting te permite utilizar 26 teclas simultáneamente sin ningún conflicto o acción no deseada. El Keyz Caesium TKL también cuenta con 12 teclas de acceso directo multimedia y muchos accesos directos de Windows son programables con el software.
-- DURADERO GARANTÍA. Fabricado en termoplástico reforzado con ABS, el Keyz Caesium TKL es especialmente robusto y resistente a los golpes. con un peso de 450 g, se mantiene perfectamente estable y no se moverá en absoluto en tu escritorio. Las teclas tienen una esperanza de vida de 30 millones de pulsaciones cada una. El teclado está equiPado con un cable trenzado reforzado. Ofrecemos una garantía de 2 años, por lo que es una inversión que no te genera riesgo. Si tienes alguna duda o problema, nuestro servicio de atención al cliente te responderá en 24 horas.
-- RETROILUMINACIÓN RGB 11 EFECTOS. con el Keyz Caesium TKL, podrás elegir entre 11 resplandecientes y variados modos de iluminación RGB. También puedes personalizar la iluminación del teclado con los 7 colores disponibles. Haz que el teclado se adapte a tus necesidades y cámbialo fácilmente con los 5 perfiles disponibles. Puedes configurar la retroiluminación a través del software de personalización o directamente en el teclado mediante los atajos.
+- COMPACT SIZE TKL WITHOUT TOUCHPAD. The Keyz Caesium TKL measures 36.5 x 15.5 cm. Its 20% smaller than a traditional gaming keyboard, so you can save space on your desktop. With it, you can be sure that you will not crash your mouse against the edge of the keyboard again. This TKL gaming keyboard is especially recommended for low-sensitivity players who perform wide mouse movements. This keypad without numeric part has 84 keys.
+- RGB BACKLIGHTING + 11 EFFECTS. With the Keyz Caesium TKL, you can choose from 11 sparkling and varied RGB lighting modes. You can also customize the keyboard lighting with the 7 available colors. Make the keyboard fit your needs and change it easily with the 5 available profiles. You can set the backlight through the customization software or directly on the keyboard using the shortcuts.
+- DURABLE + WARRANTY. Made of ABS reinforced thermoplastic, the Keyz Caesium TKL is particularly robust and shock-resistant. Weighing 450 grams, it stays perfectly stable and wont move at all on your desk. The keys have a life expectancy of 30 million keystrokes each. The keyboard is equipped with a reinforced braided cable. We offer a 2-year warranty, making it a risk-free investment. If you have any questions or problems, our customer service will respond to you within 24 hours.
+- REACTIVE AND SILENT KEYBOARD Designed to improve your writing speed, the Keyz Caesium TKL ensures fast, accurate and smooth typing. This model outperforms other membrane keyboards by offering extremely sensitive and quiet keys. It allows you to play for hours without disturbing others. This gamer keyboard is especially recommended for games like Fortnite, League of Legends, Minecraft or Valorant.
+- PROGRAMMABLE + PRACTICE. With customization software, the Keyz Caesium TKL gives you access to 15 editable macros! You can perform complex actions in an instant and customize your macros to suit the game. The anti-ghosting function allows you to use 26 keys simultaneously without any unwanted conflict or action. The Keyz Caesium TKL also features 12 multimedia shortcut keys and many Windows shortcuts are software-programmable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
