@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Cámara Triple HD de 48 MP】 Honor Magic4 Lite 5G cuenta con una cámara triple de 48 MP, que incluye una cámara principal de 48 MP, una cámara bokeh con sensor de 2 MP y una cámara macro con sensor de 2 MP, perfecta para fotógrafos principiantes y creadores de contenido.
-- 【Ampliación de Memoria Inteligente】HONOR Magic4 Lite está equipado con HONOR RAM Turbo, por lo que puede aumentar fácilmente la RAM de 6 GB en 2 GB para ampliar el almacenamiento, de forma que pueda ejecutar más aplicaciones sin interrupciones.
-- 【Pantalla FullView de 6,81"】HONOR Magic4 Lite cuenta con una pantalla LCD FHD de 6,81" y una relación pantalla-cuerpo de hasta el 94 %. Admite una frecuencia de actualización de hasta 120 Hz y una frecuencia de muestreo táctil de 240 Hz, una gran fluidez para disfrutar al máximo.
 - 【Servicios de Google para Móviles (GMS)】MagicUI con todas las aplicaciones de Google y Play Store, que te ofrece tus aplicaciones favoritas
-- 【Desbloqueo con Huella Digital en el Lateral】El móvil HONOR Magic4 Lite cuenta con una función de reconocimiento de huella digital en el lateral que se activa con solo tocar un botón, tanto para desbloquear el teléfono como para realizar un pago.
-- 【SuperCharge de 66 W】 El HONOR Magic4 Lite smartphone incorpora el innovador diseño de doble circuito monocelda, por lo que la batería de 4800 mAh y el modo SuperCharge garantizan un rendimiento excepcional. Podrá cargar la batería hasta un 81 % en tan solo 30 minutos y, además, la carga inteligente prolonga la autonomía de la batería.
+- 【Cámara Triple HD de 48 MP】 Honor Magic4 Lite 5G cuenta con una cámara triple de 48 MP, que incluye una cámara principal de 48 MP, una cámara bokeh con sensor de 2 MP y una cámara macro con sensor de 2 MP, perfecta para fotógrafos principiantes y creadores de contenido.
 - 【Producción de Micropelículas】Equipado con plantillas para micropelículas preinstaladas, permite a los usuarios capturar, editar y compartir sus vídeos sin la complicación de utilizar aplicaciones de terceros o pasar horas editando contenido.
+- 【Desbloqueo con Huella Digital en el Lateral】El móvil HONOR Magic4 Lite cuenta con una función de reconocimiento de huella digital en el lateral que se activa con solo tocar un botón, tanto para desbloquear el teléfono como para realizar un pago.
+- 【Ampliación de Memoria Inteligente】HONOR Magic4 Lite está equipado con HONOR RAM Turbo, por lo que puede aumentar fácilmente la RAM de 6 GB en 2 GB para ampliar el almacenamiento, de forma que pueda ejecutar más aplicaciones sin interrupciones.
+- 【SuperCharge de 66 W】 El HONOR Magic4 Lite smartphone incorpora el innovador diseño de doble circuito monocelda, por lo que la batería de 4800 mAh y el modo SuperCharge garantizan un rendimiento excepcional. Podrá cargar la batería hasta un 81 % en tan solo 30 minutos y, además, la carga inteligente prolonga la autonomía de la batería.
+- 【Pantalla FullView de 6,81"】HONOR Magic4 Lite cuenta con una pantalla LCD FHD de 6,81" y una relación pantalla-cuerpo de hasta el 94 %. Admite una frecuencia de actualización de hasta 120 Hz y una frecuencia de muestreo táctil de 240 Hz, una gran fluidez para disfrutar al máximo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

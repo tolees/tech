@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su asistente personal definitivo: El reloj inteligente Amazfit T-Rex Pro le notifica sobre cualquier mensaje de texto o llamadas entrantes, alarmas y eventos programados, para evitar que se pierda información importante
-- Su compañero en la exploración: El reloj inteligente Amazfit T-Rex Pro es un compañero de exploración de alto nivel, que admite cuatro sistemas globales de navegación por satélite y mas
-- Más de 100 modos deportivos: El reloj deportivo Amazfit T-Rex Pro presenta más de 100 modos deportivos y se puede usar para monitorear datos críticos como la frecuencia cardíaca del entrenamiento y mas
 - Dureza de adentro hacia afuera: El Amazfit T-Rex Pro viene con una pantalla a color HD AMOLED siempre encendida de 1.3 pulgadas. El bisel exterior se somete a un proceso de pulverización de metal, que realza las ricas texturas del ligero cuerpo del reloj de 60 g
 - 10 ATM a prueba de agua y Duración de la batería ultralarga de 18 días: Con una calificación de 10 ATM, el reloj deportivo Amazfit T-Rex Pro es resistente al agua hasta una profundidad de hasta 100 metros y puede acompañarlo mientras navega
+- Su asistente personal definitivo: El reloj inteligente Amazfit T-Rex Pro le notifica sobre cualquier mensaje de texto o llamadas entrantes, alarmas y eventos programados, para evitar que se pierda información importante
+- Más de 100 modos deportivos: El reloj deportivo Amazfit T-Rex Pro presenta más de 100 modos deportivos y se puede usar para monitorear datos críticos como la frecuencia cardíaca del entrenamiento y mas
+- Su compañero en la exploración: El reloj inteligente Amazfit T-Rex Pro es un compañero de exploración de alto nivel, que admite cuatro sistemas globales de navegación por satélite y mas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
