@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuando estás conectado al Hue Bridge, puedes emparejar las luces con Alexa, Apple HomeKit y el Asistente de Google y controlar las luces utilizando solo la voz. Los comandos de voz sencillos te permiten encender y apagar las luces, aumentar o atenuar la luminosidad e incluso definir una escena de luz
-- Hue White and color ambiance Kit de inicio E27 Luz blanca y de colores Hue Bridge incluido Control con aplicación o voz Botón inteligente incluido
-- Gracias a la tecnología inalámbrica, el botón Philips Hue Smart button se instala en unos segundos en cualquier lugar de tu hogar. Sustituye un interruptor por la placa de montaje incluida o utiliza el montaje mini para colocarlo en cualquier superficie. Si prefieres que sea portátil, no hay ningún problema: el Hue Smart button es magnético y puedes colocarlo en una superficie magnética, como el refrigerador
-- Las luces inteligentes se controlan con un solo clic y no se necesita un smartphone. Las luces se apagan y se encienden con una pulsación y se atenúan e intensifican manteniendo pulsado el botón. El botón Philips Hue Smart button ya está configurado para hacer exactamente lo que necesitas, allí donde lo necesites
 - Añade color ambiental a cualquier habitación con el kit de inicio E27 de Philips Hue White and color ambiance. Conecta con el Hue Bridge que se incluye para aprovechar la interminable lista de funcionalidades. Contrólalo mediante la aplicación, la voz Botón inteligente incluido
+- Las luces inteligentes se controlan con un solo clic y no se necesita un smartphone. Las luces se apagan y se encienden con una pulsación y se atenúan e intensifican manteniendo pulsado el botón. El botón Philips Hue Smart button ya está configurado para hacer exactamente lo que necesitas, allí donde lo necesites
+- Gracias a la tecnología inalámbrica, el botón Philips Hue Smart button se instala en unos segundos en cualquier lugar de tu hogar. Sustituye un interruptor por la placa de montaje incluida o utiliza el montaje mini para colocarlo en cualquier superficie. Si prefieres que sea portátil, no hay ningún problema: el Hue Smart button es magnético y puedes colocarlo en una superficie magnética, como el refrigerador
+- Hue White and color ambiance Kit de inicio E27 Luz blanca y de colores Hue Bridge incluido Control con aplicación o voz Botón inteligente incluido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
