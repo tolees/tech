@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Anti-Ghosting: con hasta 8 pulsaciones de tecla simultáneas
-- Pies de goma antideslizantes y 2 pasos de altura ajustable. 12 teclas para funciones multimedia
-- Interruptor de modo de juego; desactiva la tecla de Windows directamente
 - Diseño de teclado de tamaño completo
 - 3 modos de color LED con brillo ajustable
+- Interruptor de modo de juego; desactiva la tecla de Windows directamente
+- Pies de goma antideslizantes y 2 pasos de altura ajustable. 12 teclas para funciones multimedia
+- Anti-Ghosting: con hasta 8 pulsaciones de tecla simultáneas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
