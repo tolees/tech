@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi NUN4056GL - Mi Smart Scale 2 Blanco'
-date: 2022-12-24 10:07:13
+date: 2022-12-26 08:54:22
 image: 'https://m.media-amazon.com/images/I/21W09y0gHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mi'
 buyurl: 'https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21'
 descuento: '34.97'
-average: '14.9689051094887'
+average: '14.9546376811591'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Registra hasta 16 perfiles
-- Carcasa de ABS con superficie de vidrio
-- Prueba de equilibrio
-- Mide solo el peso corporal, no la grasa corporal
 - Las balanzas Xiaomi son adecuadas para dispositivos iOS y Android.
+- Carcasa de ABS con superficie de vidrio
+- Mide solo el peso corporal, no la grasa corporal
+- Registra hasta 16 perfiles
+- Prueba de equilibrio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
