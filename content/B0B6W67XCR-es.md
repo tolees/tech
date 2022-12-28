@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTS 4 Mini - Smartwatch Midnight Black'
-date: 2022-12-22 10:08:22
+date: 2022-12-28 20:07:16
 image: 'https://m.media-amazon.com/images/I/41A-Ovuj7DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B0B6W67XCR/?tag=tolees-21'
 descuento: '22.64'
-average: '101.800000000001'
+average: '101.666666666668'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control de frecuencia cardíaca, SpO2 y estrés durante todo el día
-- Diseño ultrafino y ligero
-- Más de 120 modos deportivos y reconocimiento inteligente
 - 5 sistemas de posicionamiento por satélite
+- Control de frecuencia cardíaca, SpO2 y estrés durante todo el día
+- Más de 120 modos deportivos y reconocimiento inteligente
+- Diseño ultrafino y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

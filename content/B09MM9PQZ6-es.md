@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook 13 OLED UX325EA - Ordenador Portátil 13.3" Full HD  Intel EVO i7-1165G7  16GB RAM  512GB SSD  Iris Xe Graphics  Windows 11 Home  Gris Pino - Teclado TouchPad QWERTY español'
-date: 2022-12-19 12:05:42
+date: 2022-12-28 21:45:32
 image: 'https://m.media-amazon.com/images/I/41IJPdIb9rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
 - Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Sistema Operativo: Windows 11 Home
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Procesador Intel Core i7-1165G7 (4C/QuadCore 2.8 / 4.7GHz, 12MB)
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
