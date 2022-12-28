@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño interior: 358 x 235.5 x 327 mm
+- Dimensiones exteriores: 517 x 310 x 463 mm
 - Interior de Cerámica: resistente a arañazos, anti-bacterias y fácil de limpiar
 - Tecnología HotBlast: Potente inyección de aire caliente por 52 orificios para una cocción más rápida y resultados crujientes
-- Tecnología SlimFry: Freír sin aceite para unos resultados sabrosos; con 3 aplicaciones adicionales exclusivas: yogurtera, freidora y fermentadora
-- Dimensiones exteriores: 517 x 310 x 463 mm
 - EasyView: ventana más transparente para una supervisión más fácil de los alimentos
+- Tamaño interior: 358 x 235.5 x 327 mm
+- Tecnología SlimFry: Freír sin aceite para unos resultados sabrosos; con 3 aplicaciones adicionales exclusivas: yogurtera, freidora y fermentadora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
