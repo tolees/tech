@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tronsmart T7 Altavoz Portátil Bluetooth 5.3  Luces Led y Protección Agua IPX7  Graves Potentes con Sonido Stereo 360° de Alta Fidelidad  Speaker Exterior Inalámbrico con EQ para Fiestas  Viajes'
-date: 2022-12-29 07:24:31
+date: 2022-12-30 07:31:22
 image: 'https://m.media-amazon.com/images/I/514QNPTX6RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tronsmart'
 buyurl: 'https://www.amazon.es/dp/B0B74N9HZ7/?tag=tolees-21'
 descuento: '17.84'
-average: '59.9797435897434'
+average: '59.7124999999998'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
