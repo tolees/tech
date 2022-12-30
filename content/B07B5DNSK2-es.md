@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Smart 5 Estación Cuidado Bucal con Cepillo de Dientes Eléctrico y Irrigador Dental con Tecnología Oxyjet de Braun  4 Cabezales Oxyjet  6 Recambios  Conexión Bluetooth - Azul/Blanco'
-date: 2022-12-26 19:51:27
+date: 2022-12-30 12:58:00
 image: 'https://m.media-amazon.com/images/I/41NMVjgzEtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oral-B'
 buyurl: 'https://www.amazon.es/dp/B07B5DNSK2/?tag=tolees-21'
 descuento: '19.40'
-average: '102.786521739129'
+average: '102.745999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
