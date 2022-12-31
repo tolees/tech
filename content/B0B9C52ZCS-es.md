@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TU MÚSICA, COMO NUNCA: Pese a su pequeño Tamaño, cuenta con un Imán Conductor de Neodimio que Reproduce el Sonido con Calidad y Claridad excepcionales.
-- PROTEGIDOS ANTE la LLUVIA: Cuenta con protección IPX4, lo que permite su uso hasta en días de Temporal. Auriculares Inalámbricos Deportivos Perfectos para Correr, IR en Bici, y para quedarse en Casa.
-- Y TAMBIÉN, A TU MANERA: Cuentan con 3 modos de Sonido. Normal, Limpio (para Oír Voces con mayor claridad, p.e durante Llamadas) y Refuerzo de Graves​. El Modo se Cambia con un Toque en el Auricular.
 - Rango de edad: Adulto
-- BATERÍA PARA TODO EL DÍA: Mayor Duración de Batería pese a su bajo Peso. Los Auriculares tienen una Autonomía aproximada de 7,5h, y la Caja de Carga de 15,5h. En total, 23 Horas de Sonido de Calidad.
+- PROTEGIDOS ANTE la LLUVIA: Cuenta con protección IPX4, lo que permite su uso hasta en días de Temporal. Auriculares Inalámbricos Deportivos Perfectos para Correr, IR en Bici, y para quedarse en Casa.
 - Dispositivos compatibles: Teléfonos
+- BATERÍA PARA TODO EL DÍA: Mayor Duración de Batería pese a su bajo Peso. Los Auriculares tienen una Autonomía aproximada de 7,5h, y la Caja de Carga de 15,5h. En total, 23 Horas de Sonido de Calidad.
 - SOLO PESAN 3,8 GRAMOS: Son nuestro modelo más pequeño y ligero, siguiendo la línea de nuestros diseños Gumy Mini. Se sienten Livianos incluso en Usos Prolongados.
+- Y TAMBIÉN, A TU MANERA: Cuentan con 3 modos de Sonido. Normal, Limpio (para Oír Voces con mayor claridad, p.e durante Llamadas) y Refuerzo de Graves​. El Modo se Cambia con un Toque en el Auricular.
+- TU MÚSICA, COMO NUNCA: Pese a su pequeño Tamaño, cuenta con un Imán Conductor de Neodimio que Reproduce el Sonido con Calidad y Claridad excepcionales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
