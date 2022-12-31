@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas. Desarrollada para las últimas plataformas AMD e Intel
-- Memoria Gamer para ordenadores de sobremesa 16GB DDR4 (2 módulos de 8 GB)
-- Cada módulo Viper Steel se fabrica con un disipador de aluminio puro para una disipación térmica más rápida . Tiempo de latencia CL16
-- Óptima memoria para jugadores y entusiastas del rendimiento
 - La altura de los módulos Viper Steel está pensada incluso para espacios pequeños
+- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas. Desarrollada para las últimas plataformas AMD e Intel
+- Cada módulo Viper Steel se fabrica con un disipador de aluminio puro para una disipación térmica más rápida . Tiempo de latencia CL16
+- Memoria Gamer para ordenadores de sobremesa 16GB DDR4 (2 módulos de 8 GB)
+- Óptima memoria para jugadores y entusiastas del rendimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
