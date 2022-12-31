@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La plataforma es compatible con Windows, Android, para macOS, vapor, para Nintendo Switch.
 - Soporta vibración. Soporta somatosensura de seis ejes (giroscopio de tres ejes, sensor de aceleración de tres ejes). Soporte para disparador de llaves personalizado.
-- El SN30 Pro está equipado con un somatosensory de seis ejes (giroscopio de tres ejes, sensor de aceleración de tres ejes) con modo de vibración y Bluetooth 4.0, lo que te permite jugar juegos para soportar más interacción.
+- La plataforma es compatible con Windows, Android, para macOS, vapor, para Nintendo Switch.
 - Diseño clásico retro de todas las llaves, soporta somatosensura de seis ejes, vibración, disparador de botón personalizado.
 - Actualización de interfaz USB-C, no te preocupes por el conector de interfaz reversible. SN30 Pro puede soportar una variedad de diferentes dispositivos de plataforma, además de la conexión Bluetooth, pero también a través de la conexión de cable USB.
+- El SN30 Pro está equipado con un somatosensory de seis ejes (giroscopio de tres ejes, sensor de aceleración de tres ejes) con modo de vibración y Bluetooth 4.0, lo que te permite jugar juegos para soportar más interacción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
