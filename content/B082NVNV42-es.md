@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus TUF VG289Q - Monitor Gaming de 28" 4K  3840x2160  IPS  DCI-P3   60 Hz  5 ms  LED  Adaptive-Sync  FreeSync  HDR 10  DisplayPort  HDMI  Negro'
-date: 2022-12-31 15:02:36
+date: 2023-01-01 21:33:28
 image: 'https://m.media-amazon.com/images/I/41IVqiLrp8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B082NVNV42/?tag=tolees-21'
 descuento: '28.76'
-average: '305.327777777778'
+average: '301.794'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con HDR10, un estándar de la industria que excede el soporte cromático y nivel de brillo de los monitores ordinarios
-- Incorpora un soporte ergonómico que permite ajustar su inclinación, orientación, rotación y altura
 - Shadow boost optimiza los detalles de las áreas oscuras sin sobreexponer las áreas brillantes
-- La tecnología FreeSync evita que la imagen se entrecorte y elimina problemas de sincronización FPS
+- Incorpora un soporte ergonómico que permite ajustar su inclinación, orientación, rotación y altura
 - Monitor gaming IPS 4K (3840x2160) de 28” para unas imágenes nítidas y detalladas
+- La tecnología FreeSync evita que la imagen se entrecorte y elimina problemas de sincronización FPS
+- Compatible con HDR10, un estándar de la industria que excede el soporte cromático y nivel de brillo de los monitores ordinarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})

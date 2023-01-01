@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOTONOK - Auriculares Inalambricos Deportivos  Auriculares Bluetooth 5.3 Estéreo con Micrófono  48H Cascos Inalambricos con Doble Pantalla LED e Control Táctil  IP7 Impermeable Auriculares/USB-C/Running/Sport'
-date: 2022-12-30 21:13:03
+date: 2023-01-01 21:01:10
 image: 'https://m.media-amazon.com/images/I/41HYzqd1euL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AOTONOK'
 buyurl: 'https://www.amazon.es/dp/B0BFXCHRPY/?tag=tolees-21'
 descuento: '54.47'
-average: '30.1300000000001'
+average: '29.9515384615386'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
