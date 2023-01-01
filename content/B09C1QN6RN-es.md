@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEHOT-Store Altavoz Bluetooth Potente Portatil con Luz LED de 5 Modos Altavoces Bluetooth Inalambricos Recargable USB apoya TF Card/Memoria USB de 32G Altavoz Portatil Estereo  Verde'
-date: 2022-12-31 02:01:11
+date: 2023-01-01 02:12:29
 image: 'https://m.media-amazon.com/images/I/51chkN30jvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ELEHOT-Store'
 buyurl: 'https://www.amazon.es/dp/B09C1QN6RN/?tag=tolees-21'
 descuento: '33.34'
-average: '26.1691428571426'
+average: '26.0530555555553'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
