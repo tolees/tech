@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG gram 17Z90Q - Ordenador Portátil ultraligero 43 2cm  17"  WQXGA 16:10 IPS  1 4 Kg  11h  Intel EvoTM i7 12ª gen  16GB RAM  512GB SSD NVMe  RTX2050 4GB GDDR6  Windows 11 Home  Negro - Teclado Español'
-date: 2022-12-22 11:39:24
+date: 2023-01-01 19:01:54
 image: 'https://m.media-amazon.com/images/I/31pdmcIbqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conectividad universal en tan solo 17,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
+- Nueva pantalla con tratamiento antirreflejos de 43,2cm (17") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3.
 - Ultraligero, con tan solo 1,4kg de peso y batería de hasta 11 horas de autonomía convierten al LG gram en el más portátil de los portátiles.
 - Memoria RAM ultrarrápida LPDDR5x de 16GB integrada en placa y disco duro SSD de 512GB NVMe de 4ª Generacion con doble ranura para ampliar hasta 4TB. Incorpora la nueva Gráfica Nvidia RTX 2050 con 4GB GDDR6 para trabajar con contenido 4K UHD con máxima fluidez.
-- Nueva pantalla con tratamiento antirreflejos de 43,2cm (17") en formato 16:10 con panel IPS WQXGA (2560 x 1600px), que mejora el rango de color hasta un 99% del DCI-P3.
 - Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar (MIL-810G).
+- Conectividad universal en tan solo 17,8mm de grosor (2 x USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado que permite carga ultrarrápida, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
