@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sigma 302971 - Objetivo 30 Mm-F/1.4  C  Af Dc Dn  casquillo Canon Ef-M X Mirrorless'
-date: 2022-12-31 15:19:16
+date: 2023-01-02 08:47:52
 image: 'https://m.media-amazon.com/images/I/41WqrgTSSOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sigma'
 buyurl: 'https://www.amazon.es/dp/B07YM1RWCF/?tag=tolees-21'
 descuento: '24.02'
-average: '256.4'
+average: '254.263333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,6 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SIGMA EF-M 30 mm F1.4 DC DN for Canon [CONTEMPORARY]
+- SIGMA EF-M 30MM F1.4 DC DN FOR CANON [CONTEMPORARY]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
