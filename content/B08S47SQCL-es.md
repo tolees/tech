@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-RA3000 - Altavoz Doméstico Inalámbrico con Sonido Envolvente  Compatible con Alexa  Negro'
-date: 2022-12-21 10:02:39
+date: 2023-01-02 12:01:39
 image: 'https://m.media-amazon.com/images/I/41zJ7+SfnSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08S47SQCL/?tag=tolees-21'
 descuento: '30.03'
-average: '243.215714285714'
+average: '239.05125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
