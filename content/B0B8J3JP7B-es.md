@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Auriculares bajos con controlador de 50 mm: Disfruta de un sonido de graves potente y claro gracias al controlador de neodimio de 50 mm. Con los auriculares cerrados sobre el oído, escucharás tu música sin molestar a nadie.
-- Bluetooth 5.2 y micrófono integrado: el chip 5.2 BT garantiza una conexión estable y rápida. El CVC 8 incorporado. El micrófono de cancelación de ruido 0 te ofrece manos libres cómodas y claras. Auriculares Bluetooth adecuados para smartphone, PC, etc.
 - Auriculares de PC con cable y cable Y Aux: el auricular Pro M para juegos viene con un cable de audio desmontable de 2 metros de largo de 3,5 mm y cable divisor Y. En el cable hay micrófono boom, control de volumen y controlador de mic.
+- Bluetooth 5.2 y micrófono integrado: el chip 5.2 BT garantiza una conexión estable y rápida. El CVC 8 incorporado. El micrófono de cancelación de ruido 0 te ofrece manos libres cómodas y claras. Auriculares Bluetooth adecuados para smartphone, PC, etc.
 - Ligero y alto comodidad: el auricular inalámbrico Pro M pesa solo 240 g. El diseño ergonómico y las aurículas grandes de piel sintética suave contribuyen a una larga comodidad. Los auriculares son plegables.
 - Hasta 110 horas de tiempo de reproducción: solo en 2 horas la batería se puede cargar completamente. Pero la batería grande permite hasta 110 horas de tiempo de juego.
+- Auriculares bajos con controlador de 50 mm: Disfruta de un sonido de graves potente y claro gracias al controlador de neodimio de 50 mm. Con los auriculares cerrados sobre el oído, escucharás tu música sin molestar a nadie.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
