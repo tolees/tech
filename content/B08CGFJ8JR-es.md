@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inteligencia Artificial: A través de un análisis de tus hábitos, te sugiere programas y te muestra las opciones recomendadas en función a las condiciones meteorológicas y el tipo de colada.
-- Secado Automático OptimalDry: Sistema de secado inteligente que utiliza 3 sensores para secar automáticamente tus prendas: humedad, temperatura y limpieza, que optimizan el flujo de aire para un mejor secado.
-- Alarma de Prendas Secas: avisa cuando el secado está al 80% para sacar las prendas totalmente secas y continuar con el resto de la colada.
-- Tambor Diamante : menor rozamiento de los tejidos.
-- Auto Cycle Link: Empareja lavadora y secadora y deja que el ciclo de secado se configure solo.
-- Dimensiones : 600 x 850 x 600 mm (ancho, alto, fondo).
 - Secado por Bomba de Calor Solución eficiente, económica y respetuosa con el medio ambiente para secar tus prendas. Consume mucha menos energía que las secadoras convencionales y protege mejor los tejidos.
+- Tambor Diamante : menor rozamiento de los tejidos.
+- Alarma de Prendas Secas: avisa cuando el secado está al 80% para sacar las prendas totalmente secas y continuar con el resto de la colada.
+- Secado Automático OptimalDry: Sistema de secado inteligente que utiliza 3 sensores para secar automáticamente tus prendas: humedad, temperatura y limpieza, que optimizan el flujo de aire para un mejor secado.
+- Inteligencia Artificial: A través de un análisis de tus hábitos, te sugiere programas y te muestra las opciones recomendadas en función a las condiciones meteorológicas y el tipo de colada.
+- Dimensiones : 600 x 850 x 600 mm (ancho, alto, fondo).
+- Auto Cycle Link: Empareja lavadora y secadora y deja que el ciclo de secado se configure solo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
