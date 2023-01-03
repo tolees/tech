@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Assassin s Creed: The Ezio Collection - PlayStation 4'
-date: 2022-12-31 11:05:10
+date: 2023-01-03 17:37:23
 image: 'https://m.media-amazon.com/images/I/51KtxqfT7YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B01LY7YL2P/?tag=tolees-21'
 descuento: '82.79'
-average: '16.9246666666666'
+average: '16.6270588235293'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P3 500GB CT500P3SSD8 PCIe 3.0 3D NAND NVMe M.2 SSD  Hasta 3500MB/s'
-date: 2023-01-02 09:16:40
+date: 2023-01-03 17:21:14
 image: 'https://m.media-amazon.com/images/I/318lV0rfJoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B0B25LQQPC/?tag=tolees-21'
 descuento: '18.04'
-average: '47.465'
+average: '45.8966666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Amplio almacenamiento de hasta 4TB
-- Calificado en MTTF superior a 1.5 millones de horas para mayor longevidad y confiabilidad
 - Tecnología NVMe (PCIe Gen3 x4) con lecturas secuenciales de hasta 3500 MB/s, lectura/escritura aleatoria 350K/460K IOPS
-- Solid Gen3 performance
 - Funciona hasta un 45% mejor que la generación anterior
+- Calificado en MTTF superior a 1.5 millones de horas para mayor longevidad y confiabilidad
+- Solid Gen3 performance
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
