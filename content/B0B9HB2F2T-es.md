@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones de la mesa: 122 cm (largo) x 76,5 cm (alto) x 49,5 cm (fondo). Dimensiones de la estantería: 140 cm (alto) x 53,2 cm (ancho) x 24,5 cm (fondo)
-- Práctica y funcional mesa de escritorio, estudio o despacho, con estantería de 5 espacios de almacenaje
 - Fabricado con madera aglomerada de gran calidad y acabada en melamina de color cambria de larga durabilidad
-- Mueble en kit muy fácil y rápido de limpiar con un paño húmedo. Fácil y rápido montaje. Incluye instrucciones, pero no herramientas. No incluye los objetos de decoración que aparecen en la fotografía
+- Práctica y funcional mesa de escritorio, estudio o despacho, con estantería de 5 espacios de almacenaje
 - la estantería es reversible, la puede montar a la izquierda o a la derecha de la mesa, como mejor le convenga. De esa forma, podemos adaptarla a cualquier ambiente o espacio
+- Dimensiones de la mesa: 122 cm (largo) x 76,5 cm (alto) x 49,5 cm (fondo). Dimensiones de la estantería: 140 cm (alto) x 53,2 cm (ancho) x 24,5 cm (fondo)
+- Mueble en kit muy fácil y rápido de limpiar con un paño húmedo. Fácil y rápido montaje. Incluye instrucciones, pero no herramientas. No incluye los objetos de decoración que aparecen en la fotografía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
