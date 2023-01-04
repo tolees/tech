@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto oficial de Disney
 - Lo hacemos mejor cada día: afinamos cada detalle para garantizar la calidad, el ajuste y la comodidad
-- Etiqueta impresa en la parte trasera del cuello
+- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
+- Producto oficial de Disney
 - Encuentra tu estilo de Disney. Amazon Essentials y Disney se combinan para añadir un poco de maravilla a tu armario con estampados y patrones frescos para tu familia con tus personajes favoritos de Mickey, Marvel a Star Wars y más
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
-- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
+- Etiqueta impresa en la parte trasera del cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
