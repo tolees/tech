@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ortizan Altavoz Bluetooth Potente Portatil X10P Negro con Luz LED de Color Hay Volumen Alto y Graves Potentes  Apoya Reproducción de Música 30H  Bluetooth 5.0 y IPX7 Impermeable'
-date: 2023-01-02 21:46:25
+date: 2023-01-04 14:44:36
 image: 'https://m.media-amazon.com/images/I/51aE4KzGL5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ortizan'
 buyurl: 'https://www.amazon.es/dp/B08QF9F8BC/?tag=tolees-21'
 descuento: '25.91'
-average: '31.6139999999999'
+average: '31.596896551724'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
