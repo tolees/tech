@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Far Cry 6 Ps4'
-date: 2023-01-02 13:33:18
+date: 2023-01-04 22:10:07
 image: 'https://m.media-amazon.com/images/I/41EcumRFA8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08V69TB1F-es Ubisoft Spain - Far Cry 6 Ps4'
 sku: 'B08V69TB1F-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','ps4','ubisoft spain','🇪🇸', ]
-actualPrice: 19.9 EUR
+actualPrice: 16.99 EUR
 currency: EUR
-price: 19.9
+price: 16.99
 comparePrice: 23.48 EUR
 prodname: 'Ubisoft Spain - Far Cry 6 Ps4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08V69TB1F/?tag=tolees-21'
-descuento: '15.25'
-average: '23.9052173913042'
+descuento: '27.64'
+average: '23.6170833333332'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
