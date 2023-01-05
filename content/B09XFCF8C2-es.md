@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook 13 OLED UX325EA-KG801 - Ordenador Portátil 13.3" Full HD  Intel Core i5-1135G7  16GB RAM  512GB SSD  Iris Xe Graphics  Sin Sistema Operativo  Color Gris - Teclado QWERTY español'
-date: 2022-12-28 20:28:43
+date: 2023-01-05 10:30:26
 image: 'https://m.media-amazon.com/images/I/413IyfcQOpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09XFCF8C2/?tag=tolees-21'
 descuento: '30.03'
-average: '726.423333333333'
+average: '723.681'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Sin Sistema Operativo
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
-- Sin Sistema Operativo
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
