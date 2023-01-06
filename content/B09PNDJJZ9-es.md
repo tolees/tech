@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería: 5000 mAh
 - Cámara: Triple, 13MP+5MP+2MP
 - Pantalla: 6.53", 720 x 1600 pixels
 - Procesador: Mediatek Helio G35 2.3GHz
+- Batería: 5000 mAh
 
 [🛒 Comprar!!!]({{< param buyurl >}})
