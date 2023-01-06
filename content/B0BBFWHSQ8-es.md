@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOBOPO - Auriculares Inalambricos Deportivos  Auriculares Bluetooth 5.3 con HD Mic  50H Cascos Inalambricos ENC Cancelación de Ruido Bass  In-Ear Auriculares Running IP7 Impermeable  Pantalla LED'
-date: 2023-01-05 08:38:48
+date: 2023-01-06 09:15:11
 image: 'https://m.media-amazon.com/images/I/41SW7v3PwwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DOBOPO'
 buyurl: 'https://www.amazon.es/dp/B0BBFWHSQ8/?tag=tolees-21'
 descuento: '35.02'
-average: '19.092'
+average: '18.5372727272727'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
