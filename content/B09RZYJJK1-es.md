@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 11 Pro Smartphone 6G+64GB Star Blue [Versión Global]'
-date: 2023-01-05 17:36:14
+date: 2023-01-06 19:06:18
 image: 'https://m.media-amazon.com/images/I/418Alou-eXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- connector type: USB tipo C
 - Descubre nuestra gama completa de productos.
-- display size: 6.67 inches
 - display type: LCD
+- connector type: USB tipo C
+- display size: 6.67 inches
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
