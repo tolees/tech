@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica Integrada AMD Radeon RX Vega 7
-- Sistema operativo: Windows 11 Home
-- Memoria RAM de 8GB (4GB Soldered DDR4-2666 + 4GB SO-DIMM DDR4-2666)
-- Pantalla de 14" FullHD 1920x1080 píxeles, TN, 250nits
 - Almacenamiento de 512GB SSD M.2 2242 NVMe
+- Memoria RAM de 8GB (4GB Soldered DDR4-2666 + 4GB SO-DIMM DDR4-2666)
 - Procesador AMD Ryzen 5 5500U (6C/12T, 2.1 GHz/4.04GHz, 8 MB)
+- Tarjeta gráfica Integrada AMD Radeon RX Vega 7
+- Pantalla de 14" FullHD 1920x1080 píxeles, TN, 250nits
+- Sistema operativo: Windows 11 Home
 
 [🛒 Aquí!!!]({{< param buyurl >}})
