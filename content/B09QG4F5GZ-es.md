@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de hasta 80 horas de duración: Nuestro ratón ultraligero para esports puede funcionar hasta 80 horas seguidas gracias a su eficiencia energética inalámbrica mejorada.
-- Switches ópticos para ratón Razer de 3.ª generación: Con un ciclo de vida mejorado de 90 millones de clicks sin problemas de doble click, además de un funcionamiento vertiginoso de 0,2 ms sin retraso de rebote, el ratón garantiza la fiabilidad y velocidad necesarias para los esports.
-- Tecnología Razer HyperSpeed Wireless: La conexión un 25 % más rápida que cualquier otra tecnología inalámbrica garantiza partidas competitivas de alto rendimiento y baja latencia con suavidad y estabilidad continuas, incluso en entornos inalámbricos ruidosos.
 - Controles PPP en el ratón: Capaz de alternar entre 5 niveles de PPP sin necesidad de software, este ratón para esports ultraligero de alta portabilidad te prepara para competir en cualquier lugar.
+- Switches ópticos para ratón Razer de 3.ª generación: Con un ciclo de vida mejorado de 90 millones de clicks sin problemas de doble click, además de un funcionamiento vertiginoso de 0,2 ms sin retraso de rebote, el ratón garantiza la fiabilidad y velocidad necesarias para los esports.
+- Batería de hasta 80 horas de duración: Nuestro ratón ultraligero para esports puede funcionar hasta 80 horas seguidas gracias a su eficiencia energética inalámbrica mejorada.
 - Diseño ultraligero de 58 g: Con casi un 22% menos de peso que el Razer Viper Ultimate, es uno de los ratones de esports más ligeros de la historia y garantiza la velocidad y el control que exigen los mejores jugadores profesionales.
+- Tecnología Razer HyperSpeed Wireless: La conexión un 25 % más rápida que cualquier otra tecnología inalámbrica garantiza partidas competitivas de alto rendimiento y baja latencia con suavidad y estabilidad continuas, incluso en entornos inalámbricos ruidosos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
