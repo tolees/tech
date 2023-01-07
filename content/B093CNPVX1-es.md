@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Obtenga 6 veces más velocidad que un SSD basado en SATA
-- Interfaz PCIe Gen3x4 de alta velocidad: 3500 MB/s de lectura y 3000 MB/s de escritura - compatible con NVMe 1.4
 - Ideal para jugadores y entusiastas de PC
+- Interfaz PCIe Gen3x4 de alta velocidad: 3500 MB/s de lectura y 3000 MB/s de escritura - compatible con NVMe 1.4
 - Resistente a golpes y vibraciones sin partes móviles
 - Factor de forma M.2 2280 con NAND 3D
 
