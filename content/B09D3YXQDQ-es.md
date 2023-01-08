@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo L32p-30 - Monitor Gaming de 31.5"  4K UHD  IPS  60Hz  4 ms  HDMI+DP+USB-C  Cable USB-C a USB-C  FreeSync  Base Metálica con Cámara y Altavoces  Ajuste de inclinación - Negro'
-date: 2022-12-30 08:15:43
+date: 2023-01-08 18:26:59
 image: 'https://m.media-amazon.com/images/I/41tXwvogyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09D3YXQDQ/?tag=tolees-21'
 descuento: '17.78'
-average: '384.99'
+average: '381.99'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cámara web Lenovo LC50 con 90 grados de rango de visión y resolución 1080p; micrófonos dobles integrados con cancelción de ruido
-- Ajuste de inclinación (-5° / 22°) y soporte VESA para montar la pantalla en la pared
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 60Hz
-- Pantalla de 31.5" con resolución 4K UHD (3840x2160 pixeles), 350 nits, panel IPS, con una una precisión del color DCI-P3 al 90%, antirreflejos
-- Los dos altavoces integrados proporcionan una experiencia de audio espléndida para que puedas escuchar tu lista de reproducción de inmediato
 - AMD FreeSync; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos
-- Relación de aspecto 16:9 y relación de contraste 1000:1
+- Cámara web Lenovo LC50 con 90 grados de rango de visión y resolución 1080p; micrófonos dobles integrados con cancelción de ruido
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 60Hz
 - Puertos HDMI, DP, USB-C Gen 1 y 4xUSB 3.2 Gen 1; Cable USB-C a USB-C incluido en la caja
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - La tecnología TÜV Rheinland Eye Comfort te protege de las emisiones de luz azul, incluso durante períodos prolongados
+- Pantalla de 31.5" con resolución 4K UHD (3840x2160 pixeles), 350 nits, panel IPS, con una una precisión del color DCI-P3 al 90%, antirreflejos
+- Ajuste de inclinación (-5° / 22°) y soporte VESA para montar la pantalla en la pared
+- Relación de aspecto 16:9 y relación de contraste 1000:1
+- Los dos altavoces integrados proporcionan una experiencia de audio espléndida para que puedas escuchar tu lista de reproducción de inmediato
 
 [🛒 Aquí!!!]({{< param buyurl >}})
