@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hasta 867 Mbps en la banda de 5GHz y 450 Mbps en la banda de 2.4GHz, combinado con 1 puerto de red Gigabit para que los datos se transmitan a la máxima velocidad
+- Cuenta con un indicadores LED de colores para indicar la calidad de la señal inalámbrica que llega desde el router para encontrar la mejor ubicación posible
 - Se configura fácilmente mediante la app gratuita D-Link Wi-Fi, que proporciona acceso a prestaciones adicionales
 - Combínalo con un router mesh para sacarle el máximo partido, permitiendo conectarte a la máxima velocidad siempre al WiFi más cercano, aunque también puede usarse con cualquier router wifi
-- Cuenta con un indicadores LED de colores para indicar la calidad de la señal inalámbrica que llega desde el router para encontrar la mejor ubicación posible
-- Las antenas externas abatibles permiten obtener mayor cobertura, potencia de señal y mayor velocidad de datos
 - Fácil configuración Plug&Play pulsando el botón WPS del router y del DAP-1620 para que se sincronicen automáticamente
-- Hasta 867 Mbps en la banda de 5GHz y 450 Mbps en la banda de 2.4GHz, combinado con 1 puerto de red Gigabit para que los datos se transmitan a la máxima velocidad
+- Las antenas externas abatibles permiten obtener mayor cobertura, potencia de señal y mayor velocidad de datos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
