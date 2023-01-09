@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Indicadores LED y velocidad de carga rápida: Te permite saber el estado de carga de un vistazo, el indicador rojo significa carga, la luz verde significa que la carga está completa;2.No más dongles USB que requieran una carga de 4 horas, solo 2 horas a través del puerto EXT.
+- Compatible con consola PS4/Slim/Pro: Coloca tus consolas Playstation 4 en el soporte de refrigeración, diseño más apretado para la PS4 Pro, mucho fiable para asegurar tu consola. (Nota: necesita utilizar el horder adicional incluido para PS4 Slim)
 - Dispositivos de fuente de alimentación: Se incluye un cable USB para alimentar varios dispositivos, adaptadores USB, concentradores USB, adaptadores de pared o su consola Playstaton 4, perfecto para la carga rápida de las consolas de juegos PS4/PS4 Slim/PS4 Pro.
 - Sistema de refrigeración mejorado: Enciende el ventilador y enfría tu consola Playstation 4 de manera eficiente, el ruido disminuyó tan bajo como 50 dB,3.La base de metal ayuda a mantener la consola fresca para que no se caliente durante la carga y sea silenciosa durante la carga.
-- Compatible con consola PS4/Slim/Pro: Coloca tus consolas Playstation 4 en el soporte de refrigeración, diseño más apretado para la PS4 Pro, mucho fiable para asegurar tu consola. (Nota: necesita utilizar el horder adicional incluido para PS4 Slim)
-- Indicadores LED y velocidad de carga rápida: Te permite saber el estado de carga de un vistazo, el indicador rojo significa carga, la luz verde significa que la carga está completa;2.No más dongles USB que requieran una carga de 4 horas, solo 2 horas a través del puerto EXT.
 - Diseño multifuncional para PS4/PS4 Slim/PS4 Pro Consola: Enfría y almacena tu consola Playstation 4, con estación de carga de controlador dual y 12 ranuras de juego.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
