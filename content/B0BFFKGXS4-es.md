@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi A1 Smartphone  Pantalla Dot Drop de 6 52"  batería de 5000 mAh  cámara de 8 MP  2+32 GB  Negro'
-date: 2023-01-01 08:31:59
+date: 2023-01-10 10:45:49
 image: 'https://m.media-amazon.com/images/I/4184io-bEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0BFFKGXS4/?tag=tolees-21'
 descuento: '18.35'
-average: '89.2008333333334'
+average: '89.1853846153847'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
