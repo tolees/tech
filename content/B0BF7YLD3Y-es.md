@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Fire Emblem Engage'
-date: 2023-01-02 22:00:44
+date: 2023-01-10 16:16:13
 image: 'https://m.media-amazon.com/images/I/51BXWJ-vDfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0BF7YLD3Y/?tag=tolees-21'
 descuento: '21.55'
-average: '49.9529411764707'
+average: '49.7883333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carátula no oficial
 - Fecha de lanzamiento sujeta a cambios
+- Carátula no oficial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
