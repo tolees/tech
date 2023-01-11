@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tamaño de pantalla máximo compatible 12" pulgadas
 - Con cierre de cremallera
-- Gracias a su tamaño compacto puedes llevarla en cualquier bolso y proteger tu dispositivo de rayaduras y golpes
 - Funda para tablet con dimensiones de 30 x 22 x 2 cm fabricada en Poliéster
+- Gracias a su tamaño compacto puedes llevarla en cualquier bolso y proteger tu dispositivo de rayaduras y golpes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
