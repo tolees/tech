@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6", FullHD, 1920x1080 píxeles, 60 Hz, IPS 300 nits
-- Memoria RAM de 8GB LPDDR4
 - Procesador Intel Core i5-1235U, 10 Núcleos (12 hilos), 4.4Ghz, 12MB
 - Tarjeta gráfica integrada Intel
-- Sistema Operativo: Windows 11 Home
 - Almacenamiento de 256GB NVMe SSD
+- Sistema Operativo: Windows 11 Home
+- Memoria RAM de 8GB LPDDR4
+- Pantalla de 15.6", FullHD, 1920x1080 píxeles, 60 Hz, IPS 300 nits
 
 [🛒 Comprar!!!]({{< param buyurl >}})
