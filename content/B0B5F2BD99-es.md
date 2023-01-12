@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - PS5'
-date: 2023-01-10 19:06:17
+date: 2023-01-12 13:11:50
 image: 'https://m.media-amazon.com/images/I/51BUSHi5zAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B5F2BD99-es Konami - Teenage Mutant Ninja Turtles: The Cowabunga...'
 sku: 'B0B5F2BD99-es'
 tags: [ 'Videojuegos','konami','ps5','🇪🇸', ]
-actualPrice: 22.99 EUR
+actualPrice: 30.99 EUR
 currency: EUR
-price: 22.99
+price: 30.99
 comparePrice: 39.99 EUR
 prodname: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B0B5F2BD99/?tag=tolees-21'
-descuento: '42.51'
-average: '29.5054545454545'
+descuento: '22.51'
+average: '29.6291666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
