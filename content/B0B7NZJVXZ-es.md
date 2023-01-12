@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Procesador Intel Core i7-12700F, 12C 8P + 4E / 20T, P-core 2.1 / 4.8GHz, E-core 1.6 / 3.6GHz, 25MB
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 Ti 8GB GDDR6
+- Peso: 14.0 kilograms
 - Memoria RAM de 16GB 2x 8GB UDIMM ARMOR DDR5-4800 ampliables hasta 128GB
+- Sin sistema operativo
 - Las imagenes son de referencia. El equipo podría no incluir todos los ventiladores.
 - Almacenamiento de 1TB HDD + 512GB SSD
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 Ti 8GB GDDR6
-- Procesador Intel Core i7-12700F, 12C 8P + 4E / 20T, P-core 2.1 / 4.8GHz, E-core 1.6 / 3.6GHz, 25MB
-- Sin sistema operativo
-- Peso: 14.0 kilograms
 
 [🛒 Visítala!!!]({{< param buyurl >}})
