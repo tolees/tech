@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Kit de suministros para Schuberth C3/C3 Pro
 - Accesorio para Sena 10U
+- Kit de suministros para Schuberth C3/C3 Pro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
