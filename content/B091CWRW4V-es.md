@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Band 6 - Fitness Tracker Sakura Pink'
-date: 2023-01-11 07:30:38
+date: 2023-01-12 11:40:52
 image: 'https://m.media-amazon.com/images/I/41HT4MviXGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Deportes y aire libre','Electrónica','Electrónica y dispositivos para
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9
-comparePrice: 62.99 EUR
+comparePrice: 59.94 EUR
 prodname: 'HUAWEI Band 6 - Fitness Tracker Sakura Pink'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B091CWRW4V/?tag=tolees-21'
-descuento: '36.66'
-average: '46.685'
+descuento: '33.43'
+average: '45.9311111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta dos semanas de batería
 - Monitorización del Oxígeno en sangre 24/7
 - Tamaño de pantalla: 1.47 inches
+- Hasta dos semanas de batería
 - Gran pantalla AMOLED
 
 [🛒 Comprar!!!]({{< param buyurl >}})
