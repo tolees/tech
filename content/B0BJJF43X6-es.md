@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TECLAST Tablet 10.1 Pulgadas Android 12 P30S  5G WiFi  4GB RAM+64GB ROM  1TB Expandible   HD 1280 * 800/Bluetooth 5.0/GPS/Dobles Cámaras/Dobles SIM+TF/SD/Octa Core 2.0GHz/Type C/OTG'
-date: 2023-01-08 17:34:03
+date: 2023-01-12 22:34:03
 image: 'https://m.media-amazon.com/images/I/41ppI-Axm1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BJJF43X6-es TECLAST Tablet 10.1 Pulgadas Android 12 P30S 5G WiFi 4GB...'
 sku: 'B0BJJF43X6-es'
 tags: [ 'Informática','Tablets','tablet','teclast','wifi','🇪🇸', ]
-actualPrice: 129.99 EUR
+actualPrice: 118.99 EUR
 currency: EUR
-price: 129.99
+price: 118.99
 comparePrice: 169.99 EUR
 prodname: 'TECLAST Tablet 10.1 Pulgadas Android 12 P30S  5G WiFi  4GB RAM+64GB ROM  1TB Expandible   HD 1280 * 800/Bluetooth 5.0/GPS/Dobles Cámaras/Dobles SIM+TF/SD/Octa Core 2.0GHz/Type C/OTG'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TECLAST'
 buyurl: 'https://www.amazon.es/dp/B0BJJF43X6/?tag=tolees-21'
-descuento: '23.53'
-average: '141.655'
+descuento: '30.00'
+average: '138.417142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
