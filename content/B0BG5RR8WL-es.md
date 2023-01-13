@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi L12A 12T Smartphone  8 GB RAM + 128 GB UFS  Pantalla AMOLED 120 Hz  Azul Claro'
-date: 2023-01-10 11:09:16
+date: 2023-01-13 16:32:54
 image: 'https://m.media-amazon.com/images/I/41n5EYmqUxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cámara gran angular de 108 MP
-- Cargado al 100% en 19 minutos
 - Pantalla AMOLED 120 Hz
 - Batería de 5000 mAh
 - Mediatek Dimensity 8100 Ultra 5G
+- Cámara gran angular de 108 MP
+- Cargado al 100% en 19 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
