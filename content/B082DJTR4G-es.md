@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 11 Pro Max 64GB - Oro - Desbloqueado  Reacondicionado '
-date: 2023-01-11 20:19:36
+date: 2023-01-13 00:20:52
 image: 'https://m.media-amazon.com/images/I/41X73H1bndL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B082DJTR4G/?tag=tolees-21'
 descuento: '25.00'
-average: '594.995'
+average: '596.663333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla OLED Super Retina XDR de 6.5 pulgadas
+- Face ID para autenticarse deforma segura y usar ApplePay
+- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
 - Chip A13 Bionic con Neural Engine de 3.ª generación
 - Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Face ID para autenticarse deforma segura y usar ApplePay
+- Pantalla OLED Super Retina XDR de 6.5 pulgadas
 - Resistencia al agua y al polvo (4 metros hasta 30 minutos, IP68)
-- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
 
 [🛒 Comprar!!!]({{< param buyurl >}})
