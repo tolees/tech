@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Q27q-20 - Monitor Gaming con EyeSafe  27   2K QHD  IPS  75Hz  4ms  HDMI+DP  Cable HDMI  FreeSync  Base Metálica Ergonómica  Altavoces  Ajuste de inclinación/Altura - Negro'
-date: 2023-01-04 18:06:38
+date: 2023-01-14 08:31:21
 image: 'https://m.media-amazon.com/images/I/41sS71eFgEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09W9FTP95/?tag=tolees-21'
 descuento: '23.34'
-average: '227.415'
+average: '228.27'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puertos 1xHDMI, 1xDP; cable HDMI incluido en la caja
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
 - Pantalla de 27" con resolución 2K QHD (2560x1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
 - Relación de aspecto 16:9 y relación de contraste 1000:1
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 75Hz
+- Puertos 1xHDMI, 1xDP; cable HDMI incluido en la caja
 - La tecnología AMD Radeon FreeSync permite la visualización fluida y constante de imágenes de juegos de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
