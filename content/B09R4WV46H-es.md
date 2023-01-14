@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Flow X13 GV301RC - Ordenador Portátil Gaming de 13.4" WUXGA 120Hz  Ryzen 7 6800HS  16GB RAM  1TB SSD  NVIDIA RTX 3050-4GB  Windows 11  Negro - Teclado QWERTY español'
-date: 2023-01-11 17:01:15
+date: 2023-01-14 07:13:01
 image: 'https://m.media-amazon.com/images/I/31tp1r5mzcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 11 Home
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Procesador AMD Ryzen 7 6800HS (8C/OctaCore 3.2 / 4.7GHz, 20MB)
 - Memoria RAM de 16GB SO-DIMM LPDDR5
 - Pantalla de 13.4" WUXGA 1920 x 1200 pixeles, 120Hz, IPS 500 nits
+- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Procesador AMD Ryzen 7 6800HS (8C/OctaCore 3.2 / 4.7GHz, 20MB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
