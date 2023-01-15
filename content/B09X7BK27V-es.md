@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Tarjeta microSDXC Extreme de 128 GB + adaptador SD + RescuePRO Deluxe de hasta 190 MB/s  con rendimiento de aplicación A2  UHS-I  Clase 10  U3  V30'
-date: 2023-01-13 17:35:09
+date: 2023-01-14 22:24:01
 image: 'https://m.media-amazon.com/images/I/41OrK+UsDyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Velocidades de escritura de hasta 90 MB/s para disparar rápidamente
-- 4K UHD listo con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Ahorra tiempo con velocidades de descarga de tarjetas de hasta 190 MB/s alimentadas por la tecnología SanDisk QuickFlow
+- 4K UHD listo con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Clasificado A2 para una carga más rápida y un rendimiento en la aplicación
 - Combínalo con el SanDisk Professional PRO-READER SD y microSD para lograr las máximas velocidades (se venden por separado)
 
