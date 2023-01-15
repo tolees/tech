@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6" FullHD  Intel Core i5-1155G7  16GB RAM  512GB SSD  Iris Xe Graphics  Windows 11 Home  Teclado QWERTY Español - Azul'
-date: 2023-01-11 07:21:14
+date: 2023-01-15 16:08:52
 image: 'https://m.media-amazon.com/images/I/41G0Ot2z0OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
