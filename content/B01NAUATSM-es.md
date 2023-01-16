@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin lag: conexión con cable de 3 m
-- Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
+- Diseño ergonómico y cuerpo extragrande para un agarre seguro
+- Sin lag: conexión con cable de 3 m
 - Licencia oficial de Nintendo
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
