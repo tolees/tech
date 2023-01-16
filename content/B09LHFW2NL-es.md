@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 2 Lite  Smartwatch Adultos Unisex  Negro  Black   41 Mm X 35 3 Mm X 10 7 Mm'
-date: 2023-01-07 17:45:43
+date: 2023-01-16 13:02:14
 image: 'https://m.media-amazon.com/images/I/31f1GVbGYfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09LHFW2NL-es Xiaomi Redmi 2 Lite Smartwatch Adultos Unisex Negro Black...'
 sku: 'B09LHFW2NL-es'
 tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','smartwatch','xiaomi','🇪🇸', ]
-actualPrice: 49.58 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 49.58
+price: 49.99
 comparePrice: 69.99 EUR
 prodname: 'Xiaomi Redmi 2 Lite  Smartwatch Adultos Unisex  Negro  Black   41 Mm X 35 3 Mm X 10 7 Mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09LHFW2NL/?tag=tolees-21'
-descuento: '29.16'
-average: '56.7087931034483'
+descuento: '28.58'
+average: '56.7348333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -34,3 +34,4 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - 100 modos de entrenamiento ampliados que te ofrecerán más opciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09LHFW2NL{{</world>}}
