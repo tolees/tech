@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi 11i 5G - Smartphone 6.67    WiFi  Bluetooth 4.0  Qualcomm Snapdragon 888 2.84GHz  128 GB de memoria interna  8 GB de RAM  cámara de 108 MP   Plata [Versión ES/PT]'
-date: 2023-01-09 15:50:22
+date: 2023-01-17 19:10:52
 image: 'https://m.media-amazon.com/images/I/41JU3njtTrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B093HJ43SY-es Xiaomi Mi 11i 5G - Smartphone 6.67 WiFi Bluetooth 4.0...'
 sku: 'B093HJ43SY-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','bluetooth','ram','smartphone','wifi','xiaomi','🇪🇸', ]
-actualPrice: 468.98 EUR
+actualPrice: 416.11 EUR
 currency: EUR
-price: 468.98
+price: 416.11
 comparePrice: 649.99 EUR
 prodname: 'Xiaomi Mi 11i 5G - Smartphone 6.67    WiFi  Bluetooth 4.0  Qualcomm Snapdragon 888 2.84GHz  128 GB de memoria interna  8 GB de RAM  cámara de 108 MP   Plata [Versión ES/PT]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B093HJ43SY/?tag=tolees-21'
-descuento: '27.85'
-average: '457.782166666667'
+descuento: '35.98'
+average: '457.099016393443'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -35,3 +35,4 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cámara de ultra alta resolución de 108MP, Mi 11i ofrece una experiencia fotográfica altamente versátil y de nivel profesional con una alta gama Matriz de cámara trasera triple de 108MP. La cámara principal de 108MP captura imágenes vívidas y con hermosos detalles disparos y está optimizado para fotografías con poca luz. La cámara ultra gran angular de 119 ° está optimizada para fotos de paisajes y de grupo, mientras que la lente telemacro del dispositivo alcanza los 50 mm distancia focal equivalente, lo que permite una mayor ampliación y detalles más nítidos. Para mejorar la recepción de sonido durante la filmación, Mi 11i cuenta con Zoom de audio que permite a los usuarios "acercar" el sonido mientras se acerca un sujeto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B093HJ43SY{{</world>}}
