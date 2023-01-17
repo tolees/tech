@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nothing Phone  1 : 8 GB RAM + 256 GB  Glyph Interface  cámara Doble de 50 MP  Pantalla OLED de 6 55” y 120 Hz  Blanco'
-date: 2023-01-14 22:06:39
+date: 2023-01-17 08:04:03
 image: 'https://m.media-amazon.com/images/I/41NGJdAjwhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nothing'
 buyurl: 'https://www.amazon.es/dp/B09Z6QLHVL/?tag=tolees-21'
 descuento: '17.35'
-average: '445.1'
+average: '441.0125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Responsable: Fabricado con aluminio 100 % reciclado. A la vanguardia de la industria con más del 50 % de sus componentes plásticos de procedencia biológica o reciclados. Embalajes de fibra reciclada. Y la determinación inquebrantable de reducir el impacto medioambiental de la tecnología.
-- Batería de 4500 mAh: Carga rápidamente. Carga sin cables. Consigue 18 horas de uso con cada carga. 50 % de la carga en solo 30 minutos. Accesorios de alimentación ear (1) con carga inversa de 5 W.
-- Glyph Interface: una nueva forma de comunicarse. Patrones de luz únicos que indican quién llama. Muestra las notificaciones de las aplicaciones, el estado de carga y mucho más. Las interacciones diarias, más alegres.
-- Nothing OS: ofrece solo lo mejor de Android. Sin bloatware. Simplemente rapidez y una experiencia fluida. El hardware y el software hablan un mismo idioma visual, con widgets, fuentes, sonidos y fondos de pantalla a medida. Esto permite una integración perfecta con productos de terceros.
-- Pantalla OLED de 120 Hz: mil millones de colores. Tonos intensamente realistas. Pantalla OLED de 6,55”. HDR10+. Colores más intensos y mayor contraste, adaptados a cada escena. Frecuencia de actualización adaptativa de 120 Hz para interacciones con una capacidad de respuesta irresistible y al mismo tiempo con una eficiencia energética garantizada.
-- Diseño: el cristal Gorilla a ambos lados proporciona resistencia. Los motores de vibración avanzada aportan realismo a las respuestas táctiles. Los biseles simétricos y el marco de aluminio añaden elegancia, brillo y resistencia.
-- Vídeo: nitidez perfecta en 4K. Movimiento líquido a 60 fps. Y la función de HDR directo personaliza realces y sombras realistas.
 - Qualcomm Snapdragon 778G+: Potente. Fiable. Rápido. Gráficos de señal espectacular. Juegos realzados. Características de cámara avanzadas. Aceleradas con 5G.
+- Diseño: el cristal Gorilla a ambos lados proporciona resistencia. Los motores de vibración avanzada aportan realismo a las respuestas táctiles. Los biseles simétricos y el marco de aluminio añaden elegancia, brillo y resistencia.
+- Pantalla OLED de 120 Hz: mil millones de colores. Tonos intensamente realistas. Pantalla OLED de 6,55”. HDR10+. Colores más intensos y mayor contraste, adaptados a cada escena. Frecuencia de actualización adaptativa de 120 Hz para interacciones con una capacidad de respuesta irresistible y al mismo tiempo con una eficiencia energética garantizada.
+- Nothing OS: ofrece solo lo mejor de Android. Sin bloatware. Simplemente rapidez y una experiencia fluida. El hardware y el software hablan un mismo idioma visual, con widgets, fuentes, sonidos y fondos de pantalla a medida. Esto permite una integración perfecta con productos de terceros.
+- Batería de 4500 mAh: Carga rápidamente. Carga sin cables. Consigue 18 horas de uso con cada carga. 50 % de la carga en solo 30 minutos. Accesorios de alimentación ear (1) con carga inversa de 5 W.
+- Responsable: Fabricado con aluminio 100 % reciclado. A la vanguardia de la industria con más del 50 % de sus componentes plásticos de procedencia biológica o reciclados. Embalajes de fibra reciclada. Y la determinación inquebrantable de reducir el impacto medioambiental de la tecnología.
+- Vídeo: nitidez perfecta en 4K. Movimiento líquido a 60 fps. Y la función de HDR directo personaliza realces y sombras realistas.
+- Glyph Interface: una nueva forma de comunicarse. Patrones de luz únicos que indican quién llama. Muestra las notificaciones de las aplicaciones, el estado de carga y mucho más. Las interacciones diarias, más alegres.
 - Cámara doble de 50 MP: gran sensor de la cámara principal y apertura de ƒ/1.8. Para un realismo brillante. Fotos siempre nítidas gracias a la estabilización doble de la imagen. Fotos amplias con su campo visual de 114°. Y funciones inteligentes de Detección de escena y Modo nocturno para conseguir imágenes de nivel superior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B09Z6QLHVL{{</world>}}
