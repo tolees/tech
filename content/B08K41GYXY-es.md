@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La batería de gran capacidad incorporada y el tamaño liviano le permiten usar y reproducir videos en cualquier lugar. La batería se puede cargar con el adaptador de corriente o el puerto USB de la computadora.
+- Contenido del paquete Incluye adaptador de corriente de 5 V, cable HDMI, cable USB TYPE-C, cable AV, manual del usuario y tarjeta SD. Nota: Antes de usar una unidad flash USB o una tarjeta SD, asegúrese de configurar el formato en FAT32 o exFAT y la capacidad máxima en 128G. Para obtener el mejor resultado, se recomienda utilizar una tarjeta SD de clase de velocidad 10 o superior. El formato incorrecto o una tarjeta SD de bajo nivel de velocidad pueden afectar el uso normal del dispositivo.
+- Puertos USB / SD enchufables, le permite usar un disco flash USB o una tarjeta SD para guardar sus preciosos videos, transferir videos a la computadora fácilmente (compatible con PC Windows o Mac). No se requiere computadora para grabar/reproducir.
 - Capture video HD 1080P de VCR, cintas VHS, Hi8, videocámara, DVD, TV BOX y sistemas de juegos, mire su video a través de la pantalla OLED de 5 ".
 - Admite la entrada y salida de señal de video AV y HDMI HD 1080P, con puertos de entrada o salida de video de 3.5 mm, parlantes estéreo incorporados.
-- Puertos USB / SD enchufables, le permite usar un disco flash USB o una tarjeta SD para guardar sus preciosos videos, transferir videos a la computadora fácilmente (compatible con PC Windows o Mac). No se requiere computadora para grabar/reproducir.
-- Contenido del paquete Incluye adaptador de corriente de 5 V, cable HDMI, cable USB TYPE-C, cable AV, manual del usuario y tarjeta SD. Nota: Antes de usar una unidad flash USB o una tarjeta SD, asegúrese de configurar el formato en FAT32 o exFAT y la capacidad máxima en 128G. Para obtener el mejor resultado, se recomienda utilizar una tarjeta SD de clase de velocidad 10 o superior. El formato incorrecto o una tarjeta SD de bajo nivel de velocidad pueden afectar el uso normal del dispositivo.
+- La batería de gran capacidad incorporada y el tamaño liviano le permiten usar y reproducir videos en cualquier lugar. La batería se puede cargar con el adaptador de corriente o el puerto USB de la computadora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08K41GYXY{{</world>}}
