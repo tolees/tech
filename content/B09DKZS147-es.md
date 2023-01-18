@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Xiaomi K3S MI 11T Pro 8+256 Celestial Blue
 - Material resistente y duradero
-- Tipo de conector: jack de 3.5 mm
 - Fácil de usar
+- Tipo de conector: jack de 3.5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09DKZS147{{</world>}}
