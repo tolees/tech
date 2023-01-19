@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
+- Switches de alta calidad
 - Retroiluminación LED RGB con efecto arcoíris o respiración
-- Longitud del cable: 1600mm
 - Teclado Gaming de 105 teclas
+- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
+- Longitud del cable: 1600mm
 - Construido en metal + ABS para garantizar su durabilidad
 - Vida útil de hasta 8 millones de pulsaciones.
-- Switches de alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095PKJWVM{{</world>}}
