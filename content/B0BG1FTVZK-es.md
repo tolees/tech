@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kuizil - Auriculares Inalámbricos Deportivos  Auriculares Bluetooth 5.3 In-Ear Auriculares Cancelación de Ruido  Cascos Inalambricos Bluetooth con Dual LED Pantalla  48H de Reproducción  IP7 Impermeable  Negro'
-date: 2023-01-17 18:18:37
+date: 2023-01-19 06:34:36
 image: 'https://m.media-amazon.com/images/I/51OoV26307L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kuizil'
 buyurl: 'https://www.amazon.es/dp/B0BG1FTVZK/?tag=tolees-21'
 descuento: '57.51'
-average: '31.49'
+average: '30.8233333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
