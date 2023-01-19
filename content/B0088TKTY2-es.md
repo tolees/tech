@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN823N - Adaptador WiFi USB inalámbrico Compatible con Raspberry Pi  N 300 Mbps  MI-MO  WPS  Modo softAP'
-date: 2023-01-17 18:44:30
+date: 2023-01-19 21:33:52
 image: 'https://m.media-amazon.com/images/I/41jxZkzNcnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21'
 descuento: '44.57'
-average: '9.15796961325979'
+average: '9.1577379310346'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
