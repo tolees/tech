@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UMIDIGI Urun S Smartwatch Mujer Hombre Reloj Inteligente con Monitoreo de Oxígeno en Sangre y Frecuencia Cardíaca  Seguimiento del Sueño  Reloj de Carrera Impermeable con 17 Modos Deportivos'
-date: 2023-01-17 18:56:52
+date: 2023-01-19 10:11:13
 image: 'https://m.media-amazon.com/images/I/41a3FyxUsjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
