@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Portable Bluetooth Speaker - Black'
-date: 2023-01-17 18:25:28
+date: 2023-01-18 21:51:40
 image: 'https://m.media-amazon.com/images/I/31LFOFFxaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08MLBTBHC/?tag=tolees-21'
 descuento: '25.03'
-average: '37.4875'
+average: '35.986'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
