@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi A1 Smartphone  Pantalla Dot Drop de 6 52"  batería de 5000 mAh  cámara de 8 MP  2+32 GB  Negro'
-date: 2023-01-16 09:19:05
+date: 2023-01-19 15:46:15
 image: 'https://m.media-amazon.com/images/I/4184io-bEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BFFKGXS4-es Xiaomi Redmi A1 Smartphone Pantalla Dot Drop de 6 52"...'
 sku: 'B0BFFKGXS4-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','smartphone','xiaomi','🇪🇸', ]
-actualPrice: 89.0 EUR
+actualPrice: 88.05 EUR
 currency: EUR
-price: 89.0
+price: 88.05
 comparePrice: 109.0 EUR
 prodname: 'Xiaomi Redmi A1 Smartphone  Pantalla Dot Drop de 6 52"  batería de 5000 mAh  cámara de 8 MP  2+32 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0BFFKGXS4/?tag=tolees-21'
-descuento: '18.35'
-average: '89.1606666666667'
+descuento: '19.22'
+average: '89.09125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
