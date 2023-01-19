@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 14 Plus  128 GB  - Malva'
-date: 2023-01-18 19:27:34
+date: 2023-01-19 19:48:40
 image: 'https://m.media-amazon.com/images/I/31ja3BpXlGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0BDKZNZQ6/?tag=tolees-21'
 descuento: '17.26'
-average: '1018.33333333333'
+average: '1009.85714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla Super Retina XDR de 6,7 pulgadas.
-- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
+- Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
+- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
+- Modo Acción para grabar planos superestables a pulso.
 - Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Tecnología que puede salvar vidas: Detección de Accidentes³ pide ayuda por ti cuando tú no puedes.
 - Sistema de cámara avanzado para hacer mejores fotos con cualquier luz.
-- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
-- Modo Acción para grabar planos superestables a pulso.
-- Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
+- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
 - iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
