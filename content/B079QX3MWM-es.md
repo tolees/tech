@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp HT-SBW110 2.1 Slim - Barra de sonido cine en casa  Bluetooth  HDMI ARC/CEC  Potencia máxima total de salida: 180w  audio óptico digital  AUX  80 cm  color negro'
-date: 2023-01-13 10:15:42
+date: 2023-01-19 22:52:22
 image: 'https://m.media-amazon.com/images/I/11W3zgY35UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B079QX3MWM/?tag=tolees-21'
 descuento: '33.29'
-average: '102.09337423313'
+average: '101.946666666668'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -35,3 +35,4 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión hdmi gracias a la tecnología arc/cec
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B079QX3MWM{{</world>}}
