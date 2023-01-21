@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6" FullHD  Intel Core i5-1135G7  8GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 11 Home en modo S  Gris ártico - Teclado QWERTY Español'
-date: 2023-01-19 21:11:56
+date: 2023-01-21 14:40:34
 image: 'https://m.media-amazon.com/images/I/41Vx1lfaPlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B09RR1X5YF/?tag=tolees-21'
 descuento: '18.49'
-average: '554.057647058823'
+average: '552.665555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, 250nits, Anti-glare
-- Teclado QWERTY Español (sin retroiluminación)
-- Procesador Intel Core i5-1135G7 (2C / 4T, 3.0 / 4.1GHz, 6MB)
-- Almacenamiento de 512GB SSD
 - Tarjeta gráfica Integrada Intel Iris Xe Graphics
 - Sistema Operativo: Windows 11 Home en modo S
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) ampliables hasta 12GB
+- Almacenamiento de 512GB SSD
+- Teclado QWERTY Español (sin retroiluminación)
+- Procesador Intel Core i5-1135G7 (2C / 4T, 3.0 / 4.1GHz, 6MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RR1X5YF{{</world>}}
