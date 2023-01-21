@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUWEN Amplificador Señal WiFi Amplificador WiFi Repetidor WiFi 1200Mbps 5 GHz& 2.4GHz WiFi Booster WiFi Extender Repeater con 4 Antenas y Puerto 2 LAN/WAN Extensor de Red con Ap/Repeater/Router Modos'
-date: 2023-01-19 21:33:34
+date: 2023-01-21 09:46:42
 image: 'https://m.media-amazon.com/images/I/31mjXC6YyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
