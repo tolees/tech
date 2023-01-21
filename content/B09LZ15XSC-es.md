@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Localización por GPS y WIFI
-- Tamaño de pantalla 2.31 pulgadas
-- Localización por GPS y WIFI
+- Cámara 3.0 MP
+- Diseño moderno con teclas grandes
 - Diseño moderno con teclas grandes
 - Tipo de conector: jack de 3,5 mm
+- Localización por GPS y WIFI
 - Tamaño de pantalla 2.31 pulgadas
-- Diseño moderno con teclas grandes
-- Cámara 3.0 MP
-- Cámara 3.0 MP
 - Base de recarga y botón SOS
+- Tamaño de pantalla 2.31 pulgadas
+- Localización por GPS y WIFI
+- Cámara 3.0 MP
 - Base de recarga y botón SOS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
