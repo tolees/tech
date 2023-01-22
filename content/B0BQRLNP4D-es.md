@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 Gen 6 - Ordenador Portátil 15.6" FullHD 60Hz  AMD Ryzen 5 5600H  16GB RAM  512GB SSD  NVIDIA RTX 3050 Ti-4GB GDDR6  WiFi 6  Windows 11 Home  Teclado QWERTY Español - Negro'
-date: 2023-01-21 10:51:35
+date: 2023-01-22 13:11:20
 image: 'https://m.media-amazon.com/images/I/41h62xmi6mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

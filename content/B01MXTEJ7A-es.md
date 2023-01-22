@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contraste del monitor: 1000:1
 - Tiempo de respuesta: 1 ms
 - Tamaño de pantalla de 25" con una resolución de 1920 x 1080 pixels
-- Contraste del monitor: 1000:1
 - Brillo de la pantalla: 350 cd/ m2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
