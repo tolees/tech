@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi L83 Redmi Pad Tablet  4 GB - 128 GB  Resolución de 1200 x 2000  Frecuencia de Actualización de 90 Hz  Gris Grafito'
-date: 2023-01-21 17:14:45
+date: 2023-01-22 18:05:26
 image: 'https://m.media-amazon.com/images/I/41RMTme7o3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0BG5J8HG1/?tag=tolees-21'
 descuento: '31.35'
-average: '228.481818181818'
+average: '228.404411764706'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
