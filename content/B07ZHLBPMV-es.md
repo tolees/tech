@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diagonal de la pantalla: 68.6 cm
-- Tiempo de respuesta: 1 ms
-- Brillo de la pantalla: 350 cd / m²
 - Monitor gaming de 27 QHD (2560 x 1440 píxeles)
+- Brillo de la pantalla: 350 cd / m²
+- Tiempo de respuesta: 1 ms
+- Diagonal de la pantalla: 68.6 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZHLBPMV{{</world>}}
