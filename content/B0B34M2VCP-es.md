@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enchufe TP-LINK Mimi Smart WiFi Socket'
-date: 2023-01-23 04:55:10
+date: 2023-01-24 10:58:41
 image: 'https://m.media-amazon.com/images/I/41cL99tTYnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0B34M2VCP/?tag=tolees-21'
 descuento: '26.68'
-average: '10.3233333333333'
+average: '10.49'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
-- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - Programación: preestablezca una programación para administrar dispositivos automáticamente
+- Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
 - Modo ausente: enciende y apaga automáticamente los dispositivos en diferentes momentos para dar la apariencia de que alguien está en casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
