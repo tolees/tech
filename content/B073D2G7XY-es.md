@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño portátil y resistente, pensado para soportar las condiciones más adversas
 - Conexión Wifi y Bluetooth: el GPS incorporado etiqueta tu posición
+- 45 puntos AF tipo cruz, que permiten enfocar con precisión milimétrica: capta momentos fugaces a 6,5 fps
 - Dual Pixel CMOS AF enfoca con tanta seguridad como cuando se utiliza el modo Visión en Directo "Live View"
 - El sensor de fotograma completo de 26.2 megapíxeles ofrece un excelente nivel de detalle, con alta latitud de exposición y bajo nivel de ruido
-- 45 puntos AF tipo cruz, que permiten enfocar con precisión milimétrica: capta momentos fugaces a 6,5 fps
+- Diseño portátil y resistente, pensado para soportar las condiciones más adversas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073D2G7XY{{</world>}}
