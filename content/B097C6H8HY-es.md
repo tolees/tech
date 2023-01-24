@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Ionic Hair Dryer H300 - Carcasa ultra pequeña de 9 5 cm  flujo de aire de 20 m/s  50 millones de iones negativos  control de temperatura de 57 °C  blanco  Versión ES + 3 años de garantía '
-date: 2023-01-18 11:50:12
+date: 2023-01-24 14:30:13
 image: 'https://m.media-amazon.com/images/I/11p5vWsMHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B097C6H8HY/?tag=tolees-21'
 descuento: '25.65'
-average: '32.764090909091'
+average: '32.7939130434783'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
