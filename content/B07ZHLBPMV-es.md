@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigabyte Technology AORUS FI27Q-P - Monitor Gaming de 27   QHD  2560x1440 pixeles 16:9  165 Hz  panel IPS  pantalla plano  Color negro'
-date: 2023-01-14 11:36:29
+date: 2023-01-24 18:46:36
 image: 'https://m.media-amazon.com/images/I/31XFSLI34SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigabyte Technology'
 buyurl: 'https://www.amazon.es/dp/B07ZHLBPMV/?tag=tolees-21'
 descuento: '19.51'
-average: '504.912'
+average: '503.926666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Brillo de la pantalla: 350 cd / m²
 - Diagonal de la pantalla: 68.6 cm
 - Tiempo de respuesta: 1 ms
+- Brillo de la pantalla: 350 cd / m²
 - Monitor gaming de 27 QHD (2560 x 1440 píxeles)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07ZHLBPMV{{</world>}}
