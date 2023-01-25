@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia M DTXM/256GB USB 3.2 Gen 1 - con capuchón móvil en múltiples colores'
-date: 2023-01-24 07:21:23
+date: 2023-01-25 08:01:34
 image: 'https://m.media-amazon.com/images/I/21WzyTL9kPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
