@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MOTO E22 XT2239-6 4+64 BLACK
+- 2 años de garantía del fabricante
 - Smartphone marca Motorola, color negro
 - Descripción de la cámara: Frontal
-- 2 años de garantía del fabricante
+- MOTO E22 XT2239-6 4+64 BLACK
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BD47T2JW{{</world>}}
