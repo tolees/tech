@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lunico limite è la tua immagione
 - Collabora con gli altri online per creare i tuoi contenuti
+- Lunico limite è la tua immagione
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084HSS23P{{</world>}}
