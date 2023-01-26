@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin sistema operativo
 - Procesador Intel Core i5-1135G7 (8MB)
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 16GB (en placa) LPDDR4x-4266MHz
 - Pantalla de 14" Full HD (1920 x 1080)
 - Almacenamiento de 512GB M.2 NVMe PCIe
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Sin sistema operativo
-- Memoria RAM de 16GB (en placa) LPDDR4x-4266MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CKFJ3KW{{</world>}}
