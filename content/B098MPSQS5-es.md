@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 【Fácil sustitución del filtro】Cuando el elemento del filtro, la luz indicadora azul parpadea. El filtro HEPA debe cambiarse cada 12 meses y el filtro de carbón activo cada 3 meses.
 - 【228 m³/h CADR para grandes espacios】Este purificador de aire de 66 cm tiene 3 niveles de velocidad, que son ideales para habitaciones de 20 m². Gracias a los altos valores CADR de 228 m³/h y a la tecnología de circulación de aire de gran alcance, el purificador de aire alcanza un flujo de aire óptimo con alta eficiencia y ajustes de velocidad de casi tamaño.
-- 【Funcionamiento ultra silencioso en solo 32 dB】El purificador de aire Toshiba permite un sueño tranquilo y reparador. Gran comodidad para dormir gracias a la luz UV oculta.
 - Filtro HEPA y filtro de carbón activo: los accesorios de este purificador de aire se pueden encontrar aquí "Toshiba CAF-W36USWDF"/"Toshiba W36USWFS", incluye filtro HEPA y filtro de carbón activo. La información detallada sobre los dos filtros se encuentra más abajo en la descripción del producto.
+- 【Funcionamiento ultra silencioso en solo 32 dB】El purificador de aire Toshiba permite un sueño tranquilo y reparador. Gran comodidad para dormir gracias a la luz UV oculta.
 - Efecto de filtro: el filtro HEPA H13 puede filtrar el aire sucio. El filtro de carbón elimina pelos de animales, polen, polvo y olores de cocinar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
