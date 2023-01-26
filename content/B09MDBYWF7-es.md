@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema de triple cámara de 50 MP. Captura momentos desde cualquier ángulo y en cualquier luz, desde un ultra gran angular hasta un ultra macro.
-- Procesador de alto rendimiento. Disfruta de un rendimiento de la GPU y CPU el doble de rápido que el de la generación anterior.
-- Pantalla ultrafluida FHD+ de 6,8" y 120 Hz. da vida a tus películas, juegos y videollamadas en una pantalla Max Vision ultra ancha con una increíblemente rápida velocidad de actualización de 120 Hz.
 - Tipo de conector: USB c
-- Velocidad 5G superrápida. Descarga tus programas favoritos en cuestión de segundos y disfruta de juegos en línea sin prácticamente ningún retraso.
 - Más de 30 horas de duración de la batería. Trabaja y juega durante más de un día sin preocuparte por cargar el móvil gracias a una batería de 5000 mAh.
+- Sistema de triple cámara de 50 MP. Captura momentos desde cualquier ángulo y en cualquier luz, desde un ultra gran angular hasta un ultra macro.
+- Velocidad 5G superrápida. Descarga tus programas favoritos en cuestión de segundos y disfruta de juegos en línea sin prácticamente ningún retraso.
+- Pantalla ultrafluida FHD+ de 6,8" y 120 Hz. da vida a tus películas, juegos y videollamadas en una pantalla Max Vision ultra ancha con una increíblemente rápida velocidad de actualización de 120 Hz.
+- Procesador de alto rendimiento. Disfruta de un rendimiento de la GPU y CPU el doble de rápido que el de la generación anterior.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MDBYWF7{{</world>}}

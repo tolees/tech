@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola E22  4/64 GB  Negro'
-date: 2023-01-25 18:01:00
+date: 2023-01-26 19:36:17
 image: 'https://m.media-amazon.com/images/I/41d310oMvbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
