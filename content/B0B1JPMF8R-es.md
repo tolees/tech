@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia M DTXM/256GB USB 3.2 Gen 1 - con capuchón móvil en múltiples colores'
-date: 2023-01-25 08:01:34
+date: 2023-01-26 18:41:58
 image: 'https://m.media-amazon.com/images/I/21WzyTL9kPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B1JPMF8R-es Kingston DataTraveler Exodia M DTXM/256GB USB 3.2 Gen 1 -...'
 sku: 'B0B1JPMF8R-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','kingston','móvil','🇪🇸', ]
-actualPrice: 20.99 EUR
+actualPrice: 18.68 EUR
 currency: EUR
-price: 20.99
+price: 18.68
 comparePrice: 31.99 EUR
 prodname: 'Kingston DataTraveler Exodia M DTXM/256GB USB 3.2 Gen 1 - con capuchón móvil en múltiples colores'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B0B1JPMF8R/?tag=tolees-21'
-descuento: '34.39'
-average: '20.99'
+descuento: '41.61'
+average: '20.22'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de capuchón móvil para proteger el conector USB
 - Múltiples opciones de colores por capacidad
+- Diseño de capuchón móvil para proteger el conector USB
 - Práctica presilla para llavero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
