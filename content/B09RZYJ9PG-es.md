@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 11 Pro 5G Smartphone 6.67" FHD+ AMOLED DotDisplay  120Hz FHD+ AMOLED DotDisplay  67W Carga Turbo 8G+128GB Gris Grafito [Versión Global]'
-date: 2023-01-26 13:04:21
+date: 2023-01-27 20:09:11
 image: 'https://m.media-amazon.com/images/I/414ve5Dx43L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RZYJ9PG-es Xiaomi Redmi Note 11 Pro 5G Smartphone 6.67" FHD+ AMOLED...'
 sku: 'B09RZYJ9PG-es'
 tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','smartphone','xiaomi','🇪🇸', ]
-actualPrice: 284.97 EUR
+actualPrice: 289.0 EUR
 currency: EUR
-price: 284.97
+price: 289.0
 comparePrice: 379.0 EUR
 prodname: 'Xiaomi Redmi Note 11 Pro 5G Smartphone 6.67" FHD+ AMOLED DotDisplay  120Hz FHD+ AMOLED DotDisplay  67W Carga Turbo 8G+128GB Gris Grafito [Versión Global]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09RZYJ9PG/?tag=tolees-21'
-descuento: '24.81'
-average: '302.93375'
+descuento: '23.75'
+average: '301.385555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
