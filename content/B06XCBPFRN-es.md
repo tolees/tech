@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-80151 Taller Móvil para Herramientas 3 en 1 con Cierres Metálicos con Capacidad 20 kg  Color Negro/Amarillo'
-date: 2023-01-22 08:00:33
+date: 2023-01-27 07:41:06
 image: 'https://m.media-amazon.com/images/I/41pl2JMKh3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B06XCBPFRN/?tag=tolees-21'
 descuento: '15.36'
-average: '39.4398013245036'
+average: '39.4324092409244'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para el almacenamiento diario
 - Dimensiones: 47.5 x 28.5 x 62.3 cm
+- Contenedor grande de 18” para herramientas más grandes y herramientas eléctricas
 - Bandeja central extraíble para almacenamiento organizado de herramientas y accesorios más pequeños
+- Bucle de candado para seguridad
 - Ruedas de 7" para portabilidad
 - Pestillos de metal geométricos
-- Contenedor grande de 18” para herramientas más grandes y herramientas eléctricas
-- Ideal para el almacenamiento diario
-- Bucle de candado para seguridad
 - Caja de herramientas grande extraíble de 18" con bandejas organizadoras integrales para piezas pequeñas y accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
