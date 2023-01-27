@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi 10A Smartphone  Pantalla Dot Drop de 6 53"  batería de 5000 mAh  cámara de 13 MP  4+128 GB  Cromo Plateado'
-date: 2023-01-25 19:05:00
+date: 2023-01-27 09:30:27
 image: 'https://m.media-amazon.com/images/I/41u7k5jm6OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0B4643ZJN/?tag=tolees-21'
 descuento: '26.48'
-average: '143.056666666667'
+average: '140.1925'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
