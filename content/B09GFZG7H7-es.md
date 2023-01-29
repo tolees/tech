@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson EcoTank ET-2850 | Impresora Wifi A4 Multifunción   Impresión Doble Cara Automática  Dúplex  y Pantalla LCD | 3en1: Impresión  Copiadora  Escáner | Mobile Printing'
-date: 2023-01-27 10:05:59
+date: 2023-01-29 05:40:31
 image: 'https://m.media-amazon.com/images/I/41M0ReX+a3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epson'
 buyurl: 'https://www.amazon.es/dp/B09GFZG7H7/?tag=tolees-21'
 descuento: '24.65'
-average: '233.005'
+average: '232.193333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
