@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
 - Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
