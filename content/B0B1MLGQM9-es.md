@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
+- Altavoces (4) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música.
+- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
+- Cámara frontal y trasera de 8 MP (RGB): la videollamada perfecta existe. Disfruta de vídeos exclusivos con un ruido de fondo silencioso.
+- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
 - Pantalla táctil IPS 2K de 26,92 cm (10,6"), 400nits; Transmite Netflix, Disney+ y otros servicios hasta en 1080p, la máxima resolución de vídeo disponible para dispositivos móviles. Compatible con el lápiz Lenovo Precision Pen 2 (no incluido).
+- Memoria RAM de 4GB Soldered LPDDR4x (uMCP, DRAM); permite realizar múltiples tareas a la vez sin problema
 - Conectividad: WiFi 5 (1x1 802.11a/b/g/n/ac) y Bluetooth 5.0
 - Sistema Operativo: Android 12
 - Procesador MediaTek Helio G80 Octa-Core con una frecuencia principal de hasta 2.0 GHz
-- Altavoces (4) optimizados con Dolby Atmos: ofrecen un sonido nítido para cuando estés viendo vídeos o transmitiendo música.
-- Almacenamiento de 128GB (eMCP, eMMC 5.1) ampliables mediante tarjeta micro SD hasta 1TB
-- Cámara frontal y trasera de 8 MP (RGB): la videollamada perfecta existe. Disfruta de vídeos exclusivos con un ruido de fondo silencioso.
-- Memoria RAM de 4GB Soldered LPDDR4x (uMCP, DRAM); permite realizar múltiples tareas a la vez sin problema
-- Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
-- Lenovo Elite: en caso de que tu producto sufra un fallo técnico, no solo lo reparamos, sino que también te reembolsaremos el precio de compra del dispositivo. El reembolso está limitado a 1000€ para portátiles y 300€ para tablets si el producto presenta un fallo técnico y es reparado por un centro de reparación autorizado por Lenovo entre los 30 y 365 días después de la fecha de compra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1MLGQM9{{</world>}}

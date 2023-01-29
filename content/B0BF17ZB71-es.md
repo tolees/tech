@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp 65FN6EA - TV Android 65" Frameless  sin Marco  4K Ultra HD  4X HDMI 2.1  3X USB  Bluetooth   Google Assistant  Chromecast  Dolby Vision  HDR10  DTS Virtual X  Color Negro'
-date: 2023-01-15 20:11:52
+date: 2023-01-29 15:14:42
 image: 'https://m.media-amazon.com/images/I/41aJi487jPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B0BF17ZB71/?tag=tolees-21'
 descuento: '21.32'
-average: '661.7475'
+average: '639.396'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TV Android 11 de 43 pulgadas - 4K Ultra HD con 4x HDMI 2.1@60Hz, 2x USB, y Bluetooth
-- Imagen Dolby Vision, HDR10 y HLG | Sonido Dts virtual X y Dolby Audio, wi-fi y bluetooth
-- Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
-- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
 - Medidas para soporte de pared VESA: 400x300 | Medidas con peana (An x Al x P en mm): 1449,6 x 881,0 x 273,0 | Medidas sin peana (An x Al x P en mm): 1449,6 x 839,7 x 101,1 | Distancia entre peanas (en mm): 1329 | Peso 18,6kg
+- Prime Video, Netflix, YouTube, Chromecast incorporado; acceso a más de 400,000 películas y series con posibilidad de descargar más de 7000 aplicaciones, todo en el mismo dispositivo
+- Imagen Dolby Vision, HDR10 y HLG | Sonido Dts virtual X y Dolby Audio, wi-fi y bluetooth
+- Asistente de google con comando de voz directamente desde el control remoto para entretenimiento, recepción de respuestas y control de dispositivos domésticos
+- TV Android 11 de 43 pulgadas - 4K Ultra HD con 4x HDMI 2.1@60Hz, 2x USB, y Bluetooth
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BF17ZB71{{</world>}}
