@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Samyang F1110905101 - Objetivo fotográfico DSLR para Sony A  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro'
-date: 2023-01-23 07:02:09
-image: 'https://m.media-amazon.com/images/I/51cx5qPcn3S._SL500_._SL400_.jpg'
+date: 2023-01-30 11:01:45
+image: 'https://m.media-amazon.com/images/I/419TjADAf0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Samyang'
 buyurl: 'https://www.amazon.es/dp/B00D3LJCYS/?tag=tolees-21'
 descuento: '48.24'
-average: '506.314'
+average: '497.751666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para cámaras con sensor Full Frame
-- Función Tilt-Shift (rotación montura bayoneta)
-- Compatible con filtros de 82mm
 - Montura para Sony A
+- Función Tilt-Shift (rotación montura bayoneta)
 - Enfoque manual
 - Con revestimiento UMC anti-reflectante
+- Compatible con filtros de 82mm
+- Para cámaras con sensor Full Frame
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00D3LJCYS{{</world>}}
