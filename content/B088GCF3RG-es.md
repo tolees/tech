@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Ozone Gaming Gear - Ozone Gaming DSP27 IPS Monitor Diseñado para Gaming  Pantalla 2560 x 1440 2K QHD Full HD  Base Sólida  1ms  144hz  Freesync  HDR  HDMI  Negro  27"'
+date: 2024-03-22 08:23:08
+image: 'https://m.media-amazon.com/images/I/31m5-FL-qRL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B088GCF3RG-es Ozone Gaming Gear - Ozone Gaming DSP27 IPS Monitor...'
+sku: 'B088GCF3RG-es'
+tags: [ '62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_0','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_3301','749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_8501','Arborist Merchandising Root','Electrónica','Etiquetado de eficiencia energética','Informática','Monitores','Monitors gaming','Self Service','Special Features Stores','full','hd','ips','ozone gaming gear','🇪🇸', ]
+actualPrice: 261.99 EUR
+currency: EUR
+price: 261.99
+comparePrice: 329.9 EUR
+prodname: 'Ozone Gaming Gear - Ozone Gaming DSP27 IPS Monitor Diseñado para Gaming  Pantalla 2560 x 1440 2K QHD Full HD  Base Sólida  1ms  144hz  Freesync  HDR  HDMI  Negro  27"'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Ozone Gaming Gear'
+buyurl: 'https://www.amazon.es/dp/B088GCF3RG/?tag=tolees-21'
+descuento: '20.59'
+average: '288.385789473685'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- PANTALLA LED IPS: Con esta pantalla de ordenador podrás disfrutar de una calidad de imagen con tonos uniformes, naturales y definidos. Encontrarás una calidad de imagen sin límite adaptada a tu experiencia.
+- TECNOLOGÍA AMD Y NVIDIA: Contamos con la mejor tecnología para tu pc gaming. Tendrás una fluidez de imagen constante con la incorporación interna de AMD FreeSync y G-Sync compatible. ¡Ólvidate del lag!
+- DESCANSA MÁS, JUEGA MEJOR: En cada partida necesitas la máxima concentracion y podrás hacerlo con la tecnología Low Blue Light y Flicker Free, que libera la fatiga visual generada por tu monitor de ordenador.
+- GAMING TOTAL: LLeva tu experiencia a otro nivel con un monitor 27 pulgadas, 2560x1440 píxeles, compatibilidad con tecnologia HDR y una tasa de refresco de 144hz. ¡Estas a un paso de vivir cada momento de tu partida!
+- CONECTIVIDAD TOTAL: Fácilmente configurable, los ajustes se encuentran en su parte trasera. Ozone DSP27 IPS viene equipado con 2 entradas HDMI, además de una entrada DisplayPort 1.2., un conector de USB y una entrada de audio.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B088GCF3RG{{</world>}}
