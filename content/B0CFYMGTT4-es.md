@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'MSI Stealth 17Studio A13VI-091XES - Ordenador Portátil Gaming 17.3" UHD  144Hz  Mini LED  Intel Core i9-13900H  RTX 4090-16GB  32GB RAM  1TB SSD  Sin OS  Black - Teclado QWERTY Español'
+date: 2024-06-25 13:06:43
+image: 'https://m.media-amazon.com/images/I/41ApWAfUcJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFYMGTT4-es MSI Stealth 17Studio A13VI-091XES - Ordenador Portátil...'
+sku: 'B0CFYMGTT4-es'
+tags: [ '62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_0','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_4301','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_4501','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_7401','Arborist Merchandising Root','Computadora gaming','Informática','Portátiles','Portátiles tradicionales','Self Service','Sorteo encuesta portátiles','Special Features Stores','Vuelta al cole: Informática','msi','ordenador','ram','teclado','🇪🇸', ]
+actualPrice: 2999.0 EUR
+currency: EUR
+price: 2999.0
+comparePrice: 3699.0 EUR
+prodname: 'MSI Stealth 17Studio A13VI-091XES - Ordenador Portátil Gaming 17.3" UHD  144Hz  Mini LED  Intel Core i9-13900H  RTX 4090-16GB  32GB RAM  1TB SSD  Sin OS  Black - Teclado QWERTY Español'
+country: 'es'
+flag: '🇪🇸'
+brand: 'MSI'
+buyurl: 'https://www.amazon.es/dp/B0CFYMGTT4/?tag=tolees-21'
+descuento: '18.92'
+average: '2999.0'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Tarjeta gráfica RTX 4090, GDDR6 16GB
+- Pantalla de 17.3" UHD(3840x2160), 144Hz, Mini LED, HDR 1000, 100% DCI-P3, IPS-Level panel
+- Procesador Integrated SoC Raptor Lake i9-13900H
+- Memoria RAM de 32GB (16GB*2) DDR5
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0CFYMGTT4{{</world>}}
