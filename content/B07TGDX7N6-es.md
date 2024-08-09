@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DENON Receptor de Red Estéreo  2 x 145 W  FM/Dabmas  WLAN  HDMI  Entrada de Teléfono   Plateado  Tamaño Único'
-date: 2024-07-29 23:02:55
+date: 2024-08-09 15:11:54
 image: 'https://m.media-amazon.com/images/I/31GzwSBQ2yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DENON'
 buyurl: 'https://www.amazon.es/dp/B07TGDX7N6/?tag=tolees-21'
 descuento: '26.06'
-average: '534.735714285714'
+average: '535.26875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Receptor de red hi-fi de dos canales con 145 w por canal (6 ohmios)
 - Entradas analógicas y digitales para todas tus fuentes de música, incluyendo preamplificador de phono
 - Verdadera denon hifi amplificador con discreto refuerzo para canal izquierdo y derecho
-- Excelente tecnología de sonido con componentes de alta fidelidad cuidadosamente seleccionados, circuito discreto
 - Soporta spotify, music, tunein, tidal, deezer y más
-- Receptor de red hi-fi de dos canales con 145 w por canal (6 ohmios)
+- Excelente tecnología de sonido con componentes de alta fidelidad cuidadosamente seleccionados, circuito discreto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TGDX7N6{{</world>}}

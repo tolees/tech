@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTR Mini 43mm Smartwatch Reloj Inteligente  5 Posiciones satélite GPS  AMOLED  326 PPI  120+ Modos Deportivo  SpO2  Monitor de frecuencia cardíaca  5 ATM Impermeable  Monitor de sueño'
-date: 2024-08-08 12:00:42
+date: 2024-08-09 16:00:52
 image: 'https://m.media-amazon.com/images/I/419QBVh-yHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BTBSVY4C-es Amazfit GTR Mini 43mm Smartwatch Reloj Inteligente 5...'
 sku: 'B0BTBSVY4C-es'
 tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','amazfit','gps','smartwatch','🇪🇸', ]
-actualPrice: 112.5 EUR
+actualPrice: 99.9 EUR
 currency: EUR
-price: 112.5
+price: 99.9
 comparePrice: 158.07 EUR
 prodname: 'Amazfit GTR Mini 43mm Smartwatch Reloj Inteligente  5 Posiciones satélite GPS  AMOLED  326 PPI  120+ Modos Deportivo  SpO2  Monitor de frecuencia cardíaca  5 ATM Impermeable  Monitor de sueño'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B0BTBSVY4C/?tag=tolees-21'
-descuento: '28.83'
-average: '99.2463157894737'
+descuento: '36.80'
+average: '99.279'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
