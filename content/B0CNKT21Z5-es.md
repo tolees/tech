@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Red 3G: HSDPA 850/900/2100
 - Dos años contra defectos de fabricación.
 - Producto de marca original.
+- - Red 3G: HSDPA 850/900/2100
 - 8806095368726
 - SM-A155FZBDEUE
 

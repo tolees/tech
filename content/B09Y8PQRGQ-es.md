@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Fácil de Configurar】Cargue el adaptador inalámbrico B06T3. Conéctese con altavoces/sistemas estéreo mediante un cable 3,5 mm o RCA. Presione la perilla del medio hasta que el LED parpadee en rojo y azul. Emparéjelo con su dispositivo habilitado para Bluetooth a través de Bluetooth. Cuando el LED permanece en azul, significa que se han emparejado correctamente.
-- 【Larga Distancia de 30m (100 pies)】Con el chip Bluetooth 5.3 incorporado, el adaptador de audio Bluetooth puede proporcionar una transmisión de audio inalámbrica de largo alcance de hasta 30 metros.
-- 【Receptor de Audio Bluetooth 5.3 HiFi】El Receptor Bluetooth YMOO B06T3 puede decodificar código de audio SBC/AAC/HD y transmitir el audio desde el teléfono inteligente/tableta /PC/Mac al altavoz /amplificador, haciendo que su antiguo sistema estéreo sea compatible con Bluetooth.
 - 【Perilla de Control Multifuncional】El receptor de audio Bluetooth B06T3 tiene una perilla para reproducir/pausar música y ajustar el volumen. Nota: Existe una limitación en el ajuste del volumen. Cuando alcance la limitación, habrá un sonido "du".
+- 【Larga Distancia de 30m (100 pies)】Con el chip Bluetooth 5.3 incorporado, el adaptador de audio Bluetooth puede proporcionar una transmisión de audio inalámbrica de largo alcance de hasta 30 metros.
+- 【Fácil de Configurar】Cargue el adaptador inalámbrico B06T3. Conéctese con altavoces/sistemas estéreo mediante un cable 3,5 mm o RCA. Presione la perilla del medio hasta que el LED parpadee en rojo y azul. Emparéjelo con su dispositivo habilitado para Bluetooth a través de Bluetooth. Cuando el LED permanece en azul, significa que se han emparejado correctamente.
+- 【Receptor de Audio Bluetooth 5.3 HiFi】El Receptor Bluetooth YMOO B06T3 puede decodificar código de audio SBC/AAC/HD y transmitir el audio desde el teléfono inteligente/tableta /PC/Mac al altavoz /amplificador, haciendo que su antiguo sistema estéreo sea compatible con Bluetooth.
 - 【Nota】B06T3 es SÓLO un receptor. Este adaptador no tiene batería incorporada. No es compatible con hdmi ni con interfaz óptica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potencía de salida: 10w + 10w
+- Lector de cd-r, cd-rw, cd mp3
 - Sistema hi-fi
 - Conexión bluetooth 4.2
 - Puerto usb: función reproductor + función carga
-- Lector de cd-r, cd-rw, cd mp3
+- Potencía de salida: 10w + 10w
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZYZF7HH{{</world>}}

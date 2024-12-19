@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elige entre 12 preciosos marcos que rodeen la pantalla de juego
-- Salida de vídeo HD a 720p multirregional a través de HDMI, con compatibilidad para juegos PAL (50 Hz) y NTSC (60 Hz); juega en las relaciones de aspecto de pantalla originales, ya sea en 4:3 o estilo píxel, con o sin filtros CRT
-- Emula todos los sistemas de 8 bits de Atari, desde la consola 400 a la 800XL, pasando por la Atari 5200
 - Retrocede hasta 40 segundos de partida; disfruta de tus propios juegos a través de un lápiz de memoria USB, con compatibilidad con ROM en discos, cartuchos y casetes
+- Emula todos los sistemas de 8 bits de Atari, desde la consola 400 a la 800XL, pasando por la Atari 5200
+- Salida de vídeo HD a 720p multirregional a través de HDMI, con compatibilidad para juegos PAL (50 Hz) y NTSC (60 Hz); juega en las relaciones de aspecto de pantalla originales, ya sea en 4:3 o estilo píxel, con o sin filtros CRT
 - 25 juegos incluidos, como: Lee, Berzerk, Millipede, Miner 2049er, M.U.L.E o Star Raiders II
 
 [🛒 Visítala!!!]({{< param buyurl >}})

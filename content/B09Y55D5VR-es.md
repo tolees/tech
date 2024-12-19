@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color chasis Lunar gray
 - Gráfica NVIDIA GeForce RTX 4050, GDDR6 6GB
-- Memoria RAM DDR5 16GB*2, almacenamiento 1TB NVMe PCIe Gen4x4 SSD
 - Procesador 13ª Gen Raptor Lake i7-13700HX
 - Pantalla de 16" QHD+ (2560*1600), 120Hz DCI-P3 100% typical, Finger Touch panel (non pen touch)
-- Color chasis Lunar gray
+- Memoria RAM DDR5 16GB*2, almacenamiento 1TB NVMe PCIe Gen4x4 SSD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y55D5VR{{</world>}}

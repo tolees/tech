@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de SIM: Dual SIM
-- Sistema operativo: Android 12, OxygenOS 12
 - Tamaño de la pantalla: 6.59 pulgadas
+- Sistema operativo: Android 12, OxygenOS 12
 - Tipo de pantalla: IPS LCD, 120 Hz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

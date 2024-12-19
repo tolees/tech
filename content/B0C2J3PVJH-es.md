@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CLIC NON-STOP – Con 6 botones de respuesta, incluidos 2 botones para pulgar, tienes todo lo que necesitas para shooters, aventuras de acción, RPG... ¡Lo que quieras!
+- RÁPIDO O LENTO, TÚ DECIDES – Al ajustar la resolución de 200 a la friolera de 7.200 DPI, el Ybar es tan adecuado para el francotirador como para el corredor
+- RGB Y AJUSTES – Este ratón gaming incorpora un software avanzado para ajustar los LEDs RGB, pero también lo utilizarás para macros, botones y perfiles
 - MÁS RAPIDEZ Y DIVERSIÓN – Ybar te ofrece la máxima velocidad de conexión inalámbrica de baja latencia, y está provisto de una batería recargable que te permite jugar hasta 50 horas
 - JUEGO SOSTENIBLE – El ratón Ybar es de un 69 % de material reciclado, así se gana en varios frentes
-- CLIC NON-STOP – Con 6 botones de respuesta, incluidos 2 botones para pulgar, tienes todo lo que necesitas para shooters, aventuras de acción, RPG... ¡Lo que quieras!
-- RGB Y AJUSTES – Este ratón gaming incorpora un software avanzado para ajustar los LEDs RGB, pero también lo utilizarás para macros, botones y perfiles
-- RÁPIDO O LENTO, TÚ DECIDES – Al ajustar la resolución de 200 a la friolera de 7.200 DPI, el Ybar es tan adecuado para el francotirador como para el corredor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2J3PVJH{{</world>}}

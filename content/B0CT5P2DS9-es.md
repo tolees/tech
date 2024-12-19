@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ GW2790E 27" 1080p FHD 100Hz IPS Eye-Care Monitor  HDMI  DP  Eyesafe'
-date: 2024-12-08 12:39:09
+date: 2024-12-19 11:07:53
 image: 'https://m.media-amazon.com/images/I/41uNktZhjnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

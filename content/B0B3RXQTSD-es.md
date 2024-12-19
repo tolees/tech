@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alcance hasta aprox. 40km
 - Neumáticos auto regenerables de 10 pulgadas sin cámara y con capa de gelatina
-- Velocidad máxima de hasta 25 km/h (15.5 mph)
 - 2 frenos: disco delantero y trasero electrónico
+- Velocidad máxima de hasta 25 km/h (15.5 mph)
 - Apple Find My **
+- Alcance hasta aprox. 40km
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RXQTSD{{</world>}}
