@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye parasol extraíble
 - Campo de visión diagonal de 180°, con revestimiento UMC anti-reflectante
+- Incluye parasol extraíble
 - Enfoque manual
 - Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
 - Montura para Nikon F AE

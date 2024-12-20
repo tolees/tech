@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - 4G Network: LTE
-- - Dimensions: 159.9 x 73.9 x 8.1 mm
 - - Type: Smartphone
 - - 3G Network: HSDPA 850/900/1900/2100
+- - Dimensions: 159.9 x 73.9 x 8.1 mm
+- - 4G Network: LTE
 - - 2G Network: GSM 850/900/1800/1900
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición
+- Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
 - VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura
 - Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
-- Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
+- Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición
 - Estabilizador VC (Vibration Compesation) de tres modos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador AMD Ryzen 5 3500U
-- Sistema operativo, Windows 11 Home
-- Almacenamiento de 512 GB SSD
-- Memoria RAM de 8 GB SO-DI mm DDR4-2400
-- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
 - Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, TN, 220 nits, Anti-glare
+- Procesador AMD Ryzen 5 3500U
+- Tarjeta gráfica integrada AMD Radeon Vega 8 Graphics
+- Almacenamiento de 512 GB SSD
+- Sistema operativo, Windows 11 Home
+- Memoria RAM de 8 GB SO-DI mm DDR4-2400
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YVJNCLG{{</world>}}

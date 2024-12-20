@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Lente de zoom estándar de gran ampliación APS-C
 - Avanzada tecnología de motor lineal que permite un control de enfoque preciso y silencioso
-- Diseño compacto y ligero
 - Lente de zoom estándar de gran ampliación APS-C
+- Diseño compacto y ligero
 - Diseño óptico con un elemento asférica que ofrece una alta resolución de esquina a esquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

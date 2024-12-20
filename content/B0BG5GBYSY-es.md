@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4 GB GDDR6, Boost Clock 15001635M Hz, TGP 85W
 - Sin sistema operativo
+- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
 - Procesador AMD Ryzen 5 5600H
 - Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, IPS, 250 nits, 60 Hz, antirreflejos
-- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
 - Almacenamiento de 512 GB SSD, ampliables hasta 1TB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

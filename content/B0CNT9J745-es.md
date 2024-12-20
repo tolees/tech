@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color chasis Urban Silver
-- Memoria RAM 8GB, LPDDR5-4800, almacenamiento de 512GB*1 NVMe SSD PCIe Gen4
-- Gráficos integrados Intel Iris Xe
 - Pantalla de 14" FHD+(1920x1200), IPS-Level, 100%sRGB(Typical)
+- Gráficos integrados Intel Iris Xe
+- Memoria RAM 8GB, LPDDR5-4800, almacenamiento de 512GB*1 NVMe SSD PCIe Gen4
 - Procesador 13th Gen Intel Core i5-13500H
+- Color chasis Urban Silver
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNT9J745{{</world>}}

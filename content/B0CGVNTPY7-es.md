@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En color rosado
-- 128 GB de capacidad
 - Teléfono celular
+- 128 GB de capacidad
+- En color rosado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGVNTPY7{{</world>}}
