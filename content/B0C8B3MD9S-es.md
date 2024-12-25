@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla de 14", WUXGA IPS 1920x1200 pixeles
 - Procesador AMD Ryzen 3 7320C (4C/QuadCore) 2,40 GHz
 - Tarjeta gráfica AMD Radeon Graphics
 - Sistema Operativo: ChromeOS con Google AI
-- Memoria RAM de 8 GB LPDDR5X
 - Almacenamiento de 128 GB eMMC
-- Pantalla de 14", WUXGA IPS 1920x1200 pixeles
+- Memoria RAM de 8 GB LPDDR5X
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8B3MD9S{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciona hasta un 45% mejor que la generación anterior
-- Amplio almacenamiento de hasta 4TB
 - Solid Gen3 performance
+- Funciona hasta un 45% mejor que la generación anterior
 - Calificado en MTTF superior a 1.5 millones de horas para mayor longevidad y confiabilidad
+- Amplio almacenamiento de hasta 4TB
 - Tecnología NVMe (PCIe Gen3 x4) con lecturas secuenciales de hasta 3500 MB/s, escritura secuencial de hasta 100MB/s .lectura/escritura aleatoria 350K/460K IOPS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

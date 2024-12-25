@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres antenas internas: señales más potentes de doble banda, la cobertura de wi-fi amplifica perfectamente hasta zonas donde no llegaban antes
 - Plug play: simplemente pulsando un botón, sin configuración adicional
 - Bajo consumo: consumo de energía súper bajo por solo 6.5w( sin puerto ethernet)
-- Importante: Es clave colocar el repetidor Wi- FI en un lugar intermedio de tu casa, busca un punto donde la cobertura sea adecuada para que puede repetir la señal de manera óptima.
 - Velocidad super alta: banda dual hasta 750 mbps, 300mbps, 2.4 ghz, 433 mbps 5ghz
+- Importante: Es clave colocar el repetidor Wi- FI en un lugar intermedio de tu casa, busca un punto donde la cobertura sea adecuada para que puede repetir la señal de manera óptima.
 - Guía de Instalación rápida (PDF) disponible en el apartado de "Especificaciones Técnicas"
+- Tres antenas internas: señales más potentes de doble banda, la cobertura de wi-fi amplifica perfectamente hasta zonas donde no llegaban antes
 - Indicadores de señal: ayudan a encontrar la mejor ubicación para una cobertura wi-fi óptima mostrando la intensidad de señal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

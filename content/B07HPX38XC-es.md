@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Accesorio para ordenador
+- Material de calidad
 - Producto Samsung
 
 [🛒 Aquí!!!]({{< param buyurl >}})

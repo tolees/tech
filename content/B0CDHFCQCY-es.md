@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 14" Full HD 1920 x 1080 pixeles TN 250 nits
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Memoria RAM de 16GB SO-DIMM DDR4
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Procesador Intel Core i7-1255U (10C/DecaCore 4.7GHz, 12MB)
+- Pantalla de 14" Full HD 1920 x 1080 pixeles TN 250 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte retráctil para smartphone
 - Switches híbridos
+- Soporte retráctil para smartphone
 - Teclas multimedia dedicadas
 - Anti-ghosting y gaming mode
 - Iluminación rgb con efectos y zonas de color

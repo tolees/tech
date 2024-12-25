@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD
-- Procesador AMD Ryzen 5 5600G (6C / 12T, 3.9 / 4.4GHz)
 - Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 16GB UDIMM DDR4-3200 ampliables hasta 32GB
+- Almacenamiento de 512GB SSD
 - Sin sistema operativo
+- Procesador AMD Ryzen 5 5600G (6C / 12T, 3.9 / 4.4GHz)
+- Memoria RAM de 16GB UDIMM DDR4-3200 ampliables hasta 32GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YDL17D6{{</world>}}

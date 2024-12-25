@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resolución: 320 x 240 pixels
 - Agenda: 300 contactos
-- Teclas en caucho grandes y ergonómicas
+- Resolución: 320 x 240 pixels
 - Cámara: 0.3 MP calidad
+- Teclas en caucho grandes y ergonómicas
 - Pantalla: TFT 2.31" color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
