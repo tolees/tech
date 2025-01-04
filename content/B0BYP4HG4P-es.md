@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica Iris Xe Graphics
 - Memoria RAM de 16GB LPDDR5
-- Procesador Raptor Lake i5-1340P
-- Pantalla de 13.3” FHD+ (1920x1200), 16:10, 100% sRGB(Typical), IPS-Level panel; 400 nits
 - Almacenamiento de 512GB NVMe PCIe SSD Gen4x4 w/o DRAM
+- Pantalla de 13.3” FHD+ (1920x1200), 16:10, 100% sRGB(Typical), IPS-Level panel; 400 nits
+- Procesador Raptor Lake i5-1340P
+- Tarjeta gráfica Iris Xe Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYP4HG4P{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
-- Memoria RAM de 16 GB LPDDR5
 - Pantalla 14 16:10 QHD+ 60Hz DCIP3-100% Pen Touch panel
-- Procesador Intel Core Raptor Lake i7-1360P
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
 - Tarjeta Gráfica Iris Xe Graphics
+- Procesador Intel Core Raptor Lake i7-1360P
+- Memoria RAM de 16 GB LPDDR5
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C69T1STS{{</world>}}

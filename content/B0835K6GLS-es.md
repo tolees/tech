@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Iluminación rgb con efectos y zonas de color
 - Soporte retráctil para smartphone
-- Teclas multimedia dedicadas
 - Anti-ghosting y gaming mode
+- Teclas multimedia dedicadas
 - Switches híbridos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

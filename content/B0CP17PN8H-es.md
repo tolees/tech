@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cellular technology : 4G
-- Ram memory.installed size : 4.0 GB
-- Operating system : Android
-- MZB0FM7EU
-- Batteries included : False
-- Camera description : Frontal
-- Battery.average life : 13.0 hours
-- Wireless network technology : wifi
 - Memory storage capacity : 128.0 GB
+- Cellular technology : 4G
+- Batteries included : False
+- MZB0FM7EU
 - Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Wireless provider : orange
-- Item dimensions : 3.07 inches
-- Battery.charge time : 1.0 hours
 - Connectivity technology : NFC
+- Operating system : Android
+- Camera description : Frontal
+- Item dimensions : 3.07 inches
+- Battery.capacity : 5000.0 milliamp hours
+- Battery.average life : 13.0 hours
+- Wireless provider : orange
+- Battery.charge time : 1.0 hours
+- Ram memory.installed size : 4.0 GB
 - Display.size : 6.74 inches
+- Wireless network technology : wifi
 - Included components : 1 package
 - Manufacturer : ATI
-- Battery.capacity : 5000.0 milliamp hours
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

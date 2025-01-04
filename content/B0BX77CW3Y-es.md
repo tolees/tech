@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tarjeta gráfica Integrated Intel Iris Xe Graphics
+- Memoria RAM 16GB (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
+- Sistema operativo Windows 11 Pro 64
 - Pantalla de 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB
 - Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
-- Memoria RAM 16GB (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
-- Tarjeta gráfica Integrated Intel Iris Xe Graphics
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 NVMe SSD Slot
-- Sistema operativo Windows 11 Pro 64
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BX77CW3Y{{</world>}}
