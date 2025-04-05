@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un producto de calidad
 - Fácil de usar
 - Extensión de tiras LED para prolongar el kit de base
 - Adecuadas para crear diferentes tipos de atmósfera
-- Un producto de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YCQVRVQ{{</world>}}

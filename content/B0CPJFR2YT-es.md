@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Pantalla táctil FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, función multitáctil, IPS, cristal de extremo a extremo, microbordes, 250 nits, bajo consumo, 45 % NTSC
 - Sistema operativo Windows 11 Home
 - Memoria RAM DDR4-3200 MHz 16 GB (integrada) con tasas de transferencia de hasta 3200 MT/s
-- Gráficos Integrados: Intel Iris Xe
+- Pantalla táctil FHD (1920 x 1080) de 14" (35,6 cm) en diagonal, función multitáctil, IPS, cristal de extremo a extremo, microbordes, 250 nits, bajo consumo, 45 % NTSC
+- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Procesador Intel Core i5-1335U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
+- Gráficos Integrados: Intel Iris Xe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPJFR2YT{{</world>}}

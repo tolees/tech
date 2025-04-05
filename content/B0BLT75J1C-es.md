@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reloj de núcleo de 1807 MHz
-- Tamaño de tarjeta compacta de 200 mm
 - TARJETA GRAFICA GIGABYTE RTX 3060 GAMING OC 8GB
-- Sistema de refrigeración WINDFORCE 2X con ventiladores giratorios alternativos
+- Tamaño de tarjeta compacta de 200 mm
+- Reloj de núcleo de 1807 MHz
 - Placa trasera protectora
+- Sistema de refrigeración WINDFORCE 2X con ventiladores giratorios alternativos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLT75J1C{{</world>}}

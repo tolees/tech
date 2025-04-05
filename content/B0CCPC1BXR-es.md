@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Tipo SIM: Dual SIM (nano-SIM, dual en espera)
-- - Red 2G: GSM 850/900/1800/1900/
-- - Red 4G: LTE
-- Smartphone Xiaomi
-- - Red 3G: HSDPA 850/900/1900/2100
-- TELÉFONO MÓVIL XIAOMI REDMI A2 3GB 64GB NEGRO MEDITEK HELIO G36/6,52 HD /8MP 5MP/5000MAH Xiaomi Telefonía MZB0EZSEU
 - - Tipo: Teléfono
+- - Red 2G: GSM 850/900/1800/1900/
+- Smartphone Xiaomi
+- - Red 4G: LTE
+- - Red 3G: HSDPA 850/900/1900/2100
+- - Tipo SIM: Dual SIM (nano-SIM, dual en espera)
+- TELÉFONO MÓVIL XIAOMI REDMI A2 3GB 64GB NEGRO MEDITEK HELIO G36/6,52 HD /8MP 5MP/5000MAH Xiaomi Telefonía MZB0EZSEU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPC1BXR{{</world>}}

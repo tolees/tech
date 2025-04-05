@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NVIDIA GeForce RTX 4060 con memoria gráfica GDDR6 de 8 GB
-- SSD NVMe PCIe M.2 de 1 TB
-- Sistema Operativo: Windows 11 Home
 - Procesador Intel Core i7-13620H de 13.ª generación (24 MB de caché, hasta 4,9 GHz)
+- SSD NVMe PCIe M.2 de 1 TB
 - Memoria DDR5 de 16 GB, 2 de 8 GB a 4800 MHz
+- NVIDIA GeForce RTX 4060 con memoria gráfica GDDR6 de 8 GB
+- Sistema Operativo: Windows 11 Home
 - Pantalla de 16,0 pulgadas, 16:10, 2.5K (2560 x 1600), antibrillo, sin función táctil, de 300 nits y WVA compatible con ComfortView Plus
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

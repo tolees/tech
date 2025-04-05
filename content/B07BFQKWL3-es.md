@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La iluminación led se puede encender o apagar
 - Botón de selección de velocidad (600-1400 ppp). 4 botones de respuesta
+- Tapa superior con iluminación de colores continuamente cambiante; batería recargable integrada, con autonomía de hasta [30 horas] de juego
 - Tapa superior de goma para un agarre firme; ambidiestros
 - Cobertura inalámbrica de 8 m
-- Tapa superior con iluminación de colores continuamente cambiante; batería recargable integrada, con autonomía de hasta [30 horas] de juego
-- La iluminación led se puede encender o apagar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BFQKWL3{{</world>}}

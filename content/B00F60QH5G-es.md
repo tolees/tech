@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Emisión de ruido en funcionamiento de 21 dB
-- Tiene interfaz interna Serial ATA/600 y memoria caché de 8 MB
-- Resistencia a choques en funcionamiento de 11 ms (400 G)
 - Consumo de energía para leer/escribir de 1.5 vatios
+- Resistencia a choques en funcionamiento de 11 ms (400 G)
+- Tiene interfaz interna Serial ATA/600 y memoria caché de 8 MB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00F60QH5G{{</world>}}

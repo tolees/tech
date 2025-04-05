@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensor de 16 000 ppp nativo y personalizado de Alienware, tasa de sondeo de alto rendimiento de 1000 Hz con o sin cable, y duración de batería líder del sector de hasta 350 horas con una sola carga
+- Controla el campo de batalla: ten una mayor precisión en el combate con la rueda de desplazamiento ajustable y personalizada, que permite cambiar entre 12 y 24 pasos por cada vuelta de la rueda
 - Cambia el juego de manera instantánea con diez botones completamente programables Precargado con tensión en los botones principales del ratón para ofrecer una experiencia de clic táctil, dinámica y controlada
 - Siete botones de ratón totalmente programables con Alienware Command Center, de Alienware e iluminación RGB AlienFX totalmente personalizable de 16,8 millones
-- Controla el campo de batalla: ten una mayor precisión en el combate con la rueda de desplazamiento ajustable y personalizada, que permite cambiar entre 12 y 24 pasos por cada vuelta de la rueda
+- Sensor de 16 000 ppp nativo y personalizado de Alienware, tasa de sondeo de alto rendimiento de 1000 Hz con o sin cable, y duración de batería líder del sector de hasta 350 horas con una sola carga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082G7DZ3N{{</world>}}

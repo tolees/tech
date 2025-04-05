@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desafía tus límites con la función de triatlón integrada y más de 30 perfiles de actividad
 - Obtendrás una visión general del sueño, el estado de VFC y la sesión de entrenamiento diaria con tu morning report
+- Desafía tus límites con la función de triatlón integrada y más de 30 perfiles de actividad
 - Planifica tu estrategia con sesiones de entrenamiento diarias recomendadas, detalles del trayecto y mucho más en el widget de carrera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador Intel Celeron N4500 (2C/DualCore 1.1GHz, 4MB)
 - Pantalla de 14" Full HD 1920 x 1080 pixeles TN 220 nits
-- Tarjeta gráfica integrada Intel UHD Graphics
 - Sistema Operativo: ChromeOS
-- Almacenamiento de 64GB eMMC
 - Memoria RAM de 8GB SO-DIMM LPDDR4x
+- Procesador Intel Celeron N4500 (2C/DualCore 1.1GHz, 4MB)
+- Almacenamiento de 64GB eMMC
+- Tarjeta gráfica integrada Intel UHD Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRYKMP8G{{</world>}}

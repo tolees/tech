@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Iluminación inteligente: las teclas retroiluminadas se iluminan en el momento en que tus manos se acercan al teclado y se ajustan automáticamente para adaptarse a las condiciones de luz cambiantes
-- Teclas de bajo perfil, más comodidad: una distribución para una precisión sin esfuerzo, con un factor de forma pequeño y compacto e interruptores mecánicos de bajo perfil para una mejor ergonomía
-- Multidispositivo, multi-OS: empareja el Teclado MX Bluetooth con hasta 3 dispositivos en casi cualquier sistema operativo a través de Bluetooth Low Energy o del receptor Logi Bolt incluido(2)
-- Logitech utiliza un diseño de hardware híbrido que se adapta a ambos mercados utilizando el diseño internacional del Reino Unido o EE. UU
 - Las piezas de plástico de MX Mechanical Mini incluyen plástico reciclado posconsumo con certificación (grafito: 47%(5)); con certificación de carbono neutro
+- Multidispositivo, multi-OS: empareja el Teclado MX Bluetooth con hasta 3 dispositivos en casi cualquier sistema operativo a través de Bluetooth Low Energy o del receptor Logi Bolt incluido(2)
+- Teclas de bajo perfil, más comodidad: una distribución para una precisión sin esfuerzo, con un factor de forma pequeño y compacto e interruptores mecánicos de bajo perfil para una mejor ergonomía
+- Logitech utiliza un diseño de hardware híbrido que se adapta a ambos mercados utilizando el diseño internacional del Reino Unido o EE. UU
+- Iluminación inteligente: las teclas retroiluminadas se iluminan en el momento en que tus manos se acercan al teclado y se ajustan automáticamente para adaptarse a las condiciones de luz cambiantes
 - Flujo de trabajo más rápido, más personalización: personaliza las teclas Fn, asigna efectos de retroiluminación, habilita el control multidispositivo de Flow y mucho más en Logi Options+ (1)
 - Escritura mecánica fluida y silenciosa: un teclado con interruptores Tactile Quiet para una sensación y fluidez de calidad con menos ruido - También están disponibles los interruptores Clicky y Linear
 

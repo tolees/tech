@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Computadora portátil
 - Procesador Intel
 - Diseño moderno y elegante
+- Computadora portátil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFVGLQ4B{{</world>}}

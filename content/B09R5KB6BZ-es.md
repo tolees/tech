@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica‎ Qualcomm Adreno 685
-- Almacenamiento de 512GB SSD
-- Sistema Operativo: Windows 11 Home
 - Pantalla de 14", FullHD 1980x1080 pixeles
-- Memoria RAM de 8GB LPDDR4X
+- Tarjeta gráfica‎ Qualcomm Adreno 685
 - Procesador Qualcomm Kryo 495 (8C/Octacore 3.0GHz)
+- Almacenamiento de 512GB SSD
+- Memoria RAM de 8GB LPDDR4X
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09R5KB6BZ{{</world>}}

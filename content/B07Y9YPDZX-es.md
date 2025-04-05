@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería recargable: Conéctala a cualquier puerto USB o recárgala con el adaptador de CA incluido
-- Wi-Fi y Wi-Fi Direct: Imprime sin cables estés donde estés
 - Fáciles de utilizar: Configuración sencilla y sin problemas
+- Batería recargable: Conéctala a cualquier puerto USB o recárgala con el adaptador de CA incluido
 - Impresión portátil: Diseño compacto y ligero
+- Wi-Fi y Wi-Fi Direct: Imprime sin cables estés donde estés
 - Resultados de calidad: Las tintas pigmentadas garantizan unos resultados superiores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

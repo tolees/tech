@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Portátil gaming Lenovo Legion Pro 5 Gen 8
 - Rendimiento gaming de alta gama
+- Portátil gaming Lenovo Legion Pro 5 Gen 8
 - Ordenador portátil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

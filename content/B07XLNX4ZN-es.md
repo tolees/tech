@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
+- Aleación de aluminio aeronáutico irrompible, fabricada para durar toda la vida
 - Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Interruptores mecánicos duraderos para gaming con 50 millones de pulsaciones garantizadas
-- Aleación de aluminio aeronáutico irrompible, fabricada para durar toda la vida
-- El Smart Display OLED muestra los perfiles, la info del juego, mensajes Discord, temas de Spotify
-- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
 - La distribución de teclado de este producto es americano QWERTY
+- El Smart Display OLED muestra los perfiles, la info del juego, mensajes Discord, temas de Spotify
 - El reposamuñecas magnético de calidad ofrece apoyo total para las palmas y comodidad plena
 
 [🛒 Comprar!!!]({{< param buyurl >}})

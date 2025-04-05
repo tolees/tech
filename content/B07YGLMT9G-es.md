@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 12 modos deportivos
+- Sumergible a 5 atm
 - Pantalla amoled 341 ppi
+- Duración de la batería de 14 días
+- 12 modos deportivos
 - Widgets personalizables
 - Cuerpo metálico estrecho
-- Sumergible a 5 atm
-- Duración de la batería de 14 días
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YGLMT9G{{</world>}}

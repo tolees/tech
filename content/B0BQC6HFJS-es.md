@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISPLAYHDR 400: presenta brillo DisplayHDR 400 ; imita la adaptación del ojo a diversas condiciones de luz (1:1000, 1:100M DCR)
 - 27,9" 4K UHD: un panel IPS de óptima definición de 3840 x 2160 (relación de aspecto 16:9); frecuencia de actualización de 60 Hz (AMD FreeSync); tiempo de respuesta GtG de 4 ms
-- CALIDAD DE IMAGEN IPS, JUEGOS SIN LÍMITES: los monitores MSI con panel IPS ofrecen una profundidad de color óptima y admiten amplios ángulos de visión de 178°
+- DISPLAYHDR 400: presenta brillo DisplayHDR 400 ; imita la adaptación del ojo a diversas condiciones de luz (1:1000, 1:100M DCR)
 - CONECTIVIDAD VERSÁTIL: las opciones de interfaz para PC, Mac, consola y computadora portátil son con puertos DisplayPort 1.2a (4K/60Hz) y HDMI 2.0b (4K/60Hz)
+- CALIDAD DE IMAGEN IPS, JUEGOS SIN LÍMITES: los monitores MSI con panel IPS ofrecen una profundidad de color óptima y admiten amplios ángulos de visión de 178°
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQC6HFJS{{</world>}}

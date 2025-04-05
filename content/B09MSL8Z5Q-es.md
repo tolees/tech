@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tarjeta gráfica integrada Intel UHD Graphics 750
-- Memoria RAM de 16GB DDR4
-- Sin Sistema Operativo
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sin Sistema Operativo
+- Memoria RAM de 16GB DDR4
 - Procesador Intel Core i7-11700 (8C/OctaCore 2.5 / 4.9GHz, 16MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- proyector pequeño
 - proyector wifi
-- proyector móvil
-- proyector 2500 lúmenes
 - proyector smartphone
+- proyector pequeño
+- proyector 2500 lúmenes
+- proyector móvil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C85JGGNW{{</world>}}

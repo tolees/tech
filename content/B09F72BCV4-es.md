@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla 15.6" FHD (1920*1080), 144Hz 45%NTSC IPS-Level
-- Almacenamiento 512GB NVMe PCIe Gen3x4 SSD (new)
-- Batería 3-Cell, Li-Polymer, 53.5Whr
-- Procesador Intel Core i7-11800H+HM570 (2.3GHz / 4.6GHz) , 24MB
 - Memoria RAM de 16GB, DDR IV 8GB*2 (3200MHz)
-- Sin sistema operativo
+- Almacenamiento 512GB NVMe PCIe Gen3x4 SSD (new)
 - Tarejeta gráfica RTX3050, GDDR6 4GB
+- Batería 3-Cell, Li-Polymer, 53.5Whr
+- Sin sistema operativo
+- Pantalla 15.6" FHD (1920*1080), 144Hz 45%NTSC IPS-Level
+- Procesador Intel Core i7-11800H+HM570 (2.3GHz / 4.6GHz) , 24MB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09F72BCV4{{</world>}}

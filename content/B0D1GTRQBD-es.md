@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráfica NVIDIA GeForce RTX 4060
 - Pantalla 16" QHD+ (2560 x 1600), 240Hz Refresh Rate, IPS-Level, 100% DCI-P3 (Typical)
+- Gráfica NVIDIA GeForce RTX 4060
+- Memoria RAM, 16GB x 2, DDR5-5600, Almacenamiento 1TB SSD
 - Color Lunar Gray
 - Procesador Intel Core i7 processor 14700HX
-- Memoria RAM, 16GB x 2, DDR5-5600, Almacenamiento 1TB SSD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GTRQBD{{</world>}}

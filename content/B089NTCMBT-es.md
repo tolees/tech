@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potencia nominal del motor: 250 W
-- Velocidad máxima: 20 km/h
-- Sistema regenerativo y de frenos de disco en la rueda trasera y sistema E-ABS en la rueda delantera
 - Los neumáticos antideslizantes de 8.5 pulgadas y los amortiguadores absorben los golpes de manera efectiva
 - Autonomía: hasta 20 km. Capacidad total de 183 Wh gracias a 40 celdas de iones de litio
 - Peso: 12 kg Se pliega fácilmente en 3 segundos
-- Control de crucero sofisticado: ayuda a mantener una velocidad constante establecida por el conductor
+- Velocidad máxima: 20 km/h
 - Sistema de recuperación de energía cinética (KERS): recupera la energía cinética de un vehículo en movimiento durante el frenado prolongado
+- Potencia nominal del motor: 250 W
+- Control de crucero sofisticado: ayuda a mantener una velocidad constante establecida por el conductor
+- Sistema regenerativo y de frenos de disco en la rueda trasera y sistema E-ABS en la rueda delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089NTCMBT{{</world>}}

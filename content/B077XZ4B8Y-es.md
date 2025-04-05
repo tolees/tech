@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Plug & play, no necesita configuración complicada de puesta en marcha; fácil de conectar, cunado navegar y botón con wps cifrar
 - Automática de frecuencia elección: la tenda a18 selecciona siempre la mejor wifi frecuencia para que usted siempre permanecer en línea y la mejor velocidad disfrutar
 - La óptica estado led te ayuda a determinar la posición perfecta del a18 y proporciona para internet estable y rápido
-- Máxima velocidad de hasta 867 mbps en 5 ghz y 300 mbit/s en 2,4 ghz, perfecto para streaming de vídeo, juegos online y smart home
 - Gracias al diseño compacto y moderno le permite conectar la a18 sin esfuerzo en su enchufe
+- Máxima velocidad de hasta 867 mbps en 5 ghz y 300 mbit/s en 2,4 ghz, perfecto para streaming de vídeo, juegos online y smart home
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077XZ4B8Y{{</world>}}

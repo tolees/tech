@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección de sobrecarga, sobrevoltaje y sobretensión y protección infantil
-- Enchufe Wifi doble inteligente Garza para interior, con 2 tomas y 2 puertos USB, que permite controlar los dispositivos de tu casa de forma eficiente
-- Crea automatizaciones y escenas y programa el encendido/apagado de los aparatos conectados a tu enchufe en función de la hora, el clima, un temporizador, una cuenta atrás
-- Configuración sencilla mediante WiFi, sin necesidad de pasarela o hub; tamaño: ‎‎135 x 64 x 40 mm
+- Control por voz compatible con Alexa y Google Assistant
 - Potencia máxima admitida: 2300 W; amperaje máximo admitido: 10 A; potencia USBs: 5 V máx. total 2.4 A
-- Controla los aparatos conectados a tu enchufe inteligente de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
-- Con medidor de consumo diario, mensual y anual, que te permite monitorizar energía en tu hogar
+- Configuración sencilla mediante WiFi, sin necesidad de pasarela o hub; tamaño: ‎‎135 x 64 x 40 mm
 - Compatible solo con WiFi 2.4 GHz (no funciona con red de 5 GHz)
 - Puedes controlar las dos tomas de forma individual; los dos USBs se controlan de forma conjunta
-- Control por voz compatible con Alexa y Google Assistant
+- Con medidor de consumo diario, mensual y anual, que te permite monitorizar energía en tu hogar
+- Crea automatizaciones y escenas y programa el encendido/apagado de los aparatos conectados a tu enchufe en función de la hora, el clima, un temporizador, una cuenta atrás
+- Enchufe Wifi doble inteligente Garza para interior, con 2 tomas y 2 puertos USB, que permite controlar los dispositivos de tu casa de forma eficiente
+- Controla los aparatos conectados a tu enchufe inteligente de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
+- Protección de sobrecarga, sobrevoltaje y sobretensión y protección infantil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0922WVQ4T{{</world>}}

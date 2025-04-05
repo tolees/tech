@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
-- Amplio DIAL con indicador
 - Con iluminación LED
-- Altavoz de amplio rango 10 cm
-- Sintonizador LED / Digital
-- Potencia de salida de 770 mW
-- Sintonizador digital con control de auto frecuencia (AFC)
 - Asa para transportarlo - Para podértelo llevar donde quieras
+- Amplio DIAL con indicador
+- Sintonizador LED / Digital
+- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
+- Sintonizador digital con control de auto frecuencia (AFC)
 - Puntero fosforescente
+- Altavoz de amplio rango 10 cm
+- Potencia de salida de 770 mW
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XWZ41RT{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tamaño de la pantalla: 6, 52"
-- Potencia de la batería: 5000 mAh
 - Cámara de 8 MP
+- Potencia de la batería: 5000 mAh
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BFFKGXS4{{</world>}}

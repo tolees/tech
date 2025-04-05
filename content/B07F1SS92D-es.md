@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Dispone de altavoces AKG
 - Funciones avanzadas: IP68, carga rápida, Samsung Pay y sistema de huella dactilar, reconocimiento facial, escáner de iris, Bixby
 - Capacidad: 6 GB RAM, almacenamiento de 64 GB + ranura MicroSD (hasta 256 GB)
-- Dispone de altavoces AKG
 - Tiene cámara trasera de 12MP y cámara frontal de 8MP
 
 [🛒 Visítala!!!]({{< param buyurl >}})

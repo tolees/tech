@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 17" 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel
-- Memoria RAM de 32GB (16GB*2) DDR5
 - Almacenamiento de 2TB NVMe PCIe Gen4x4 SSD
 - Procesador Intel HM770 Raptor Lake i9-13980HX (support ABT & TVB)
+- Memoria RAM de 32GB (16GB*2) DDR5
+- Pantalla de 17" 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel
 - Tarjeta gráfica RTX 4090, GDDR6 16GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})

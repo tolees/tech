@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL EMBALAJE CONTIENE - 1 Teléfono Gigaset COMFORT 520 IP, 2 adaptadores de corriente, 2 pilas recargables AAA (NiMH), 1 tapa de batería, 1 clip para cinturón, 1 manual de usuario, 1 estación base, 1 cable de teléfono (TAE), 1 cable LAN
-- LA TECNOLOGÍA SE UNE AL DISEÑO - El Gigaset COMFORT 520 IP impresiona con su diseño elegante y atemporal y su pantalla a color de 2,2" - el compañero ideal para tu hogar u oficina
-- CALIDAD MADE IN GERMANY – Diseño y fabricación en Alemania – la tecnología ECO DECT respetuosa con el medio ambiente garantiza un consumo energético reducido
 - MUCHAS POSIBILIDADES DE CONEXIÓN - Conexión a enrutadores comunes con funcionalidad DECT/CAT-iq, por ejemplo, AVM FRITZ!Box, Speedport y como una extensión de tu sistema con, por ejemplo, base Gigaset DECT
+- CALIDAD MADE IN GERMANY – Diseño y fabricación en Alemania – la tecnología ECO DECT respetuosa con el medio ambiente garantiza un consumo energético reducido
+- LA TECNOLOGÍA SE UNE AL DISEÑO - El Gigaset COMFORT 520 IP impresiona con su diseño elegante y atemporal y su pantalla a color de 2,2" - el compañero ideal para tu hogar u oficina
+- EL EMBALAJE CONTIENE - 1 Teléfono Gigaset COMFORT 520 IP, 2 adaptadores de corriente, 2 pilas recargables AAA (NiMH), 1 tapa de batería, 1 clip para cinturón, 1 manual de usuario, 1 estación base, 1 cable de teléfono (TAE), 1 cable LAN
 - MUCHAS CARACTERÍSTICAS - Llamadas a través de IP o línea fija - Protección de llamadas anónimas para 70 números - Llamada con manos libres en brillante calidad HD - Compatibilidad con auriculares mediante conexión jack de 3,5 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye soporte para bicicleta, disco de goma y bandas elásticas
 - Fija la unidad a la bicicleta y disfruta al máximo de las salidas
+- Incluye soporte para bicicleta, disco de goma y bandas elásticas
 - Compatible con Edge 1000, 1030, 1030 Plus, 130, 130 Plus, 520, 520 Plus, 530, Explore, 820, 810, 800, 200, 25, 20, 500 y 510
 - Se adjunta a la potencia o al manillar
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BATERÍA DE LARGA DURACIÓN: hasta 40h de entrenamiento con GPS y registro de la FC (hasta 100h con las opciones de ahorro de energía)
-- Dispositivos compatibles: tablet
-- INDICACIONES PASO a PASO con KOMOOT: sigue las indicaciones en tiempo real de tu reloj para no desviarte del camino
-- DISEÑO ROBUSTO: el cristal de zafiro resistente a arañazos y las correas premium de FKM hacen que este reloj sea aún más resistente que su predecesor. con diseño premium MIL-STD-810G y sumergible hasta 100 metros, te acompañará donde sea que vayas
 - TITANIO: Polar Grit X Pro Titan no solo es increíblemente atractivo, también es el reloj más ligero y resistente de nuestra gama para outdoor. El bisel ultraresistente de titanio de uso aeroespacial es la mejor elección para quienes buscan las experiencias más extremas
+- DISEÑO ROBUSTO: el cristal de zafiro resistente a arañazos y las correas premium de FKM hacen que este reloj sea aún más resistente que su predecesor. con diseño premium MIL-STD-810G y sumergible hasta 100 metros, te acompañará donde sea que vayas
+- Dispositivos compatibles: tablet
+- BATERÍA DE LARGA DURACIÓN: hasta 40h de entrenamiento con GPS y registro de la FC (hasta 100h con las opciones de ahorro de energía)
+- INDICACIONES PASO a PASO con KOMOOT: sigue las indicaciones en tiempo real de tu reloj para no desviarte del camino
 - REGISTRO ÓPTICO DE la FC Y GPS DE INMEJORABLE PRECISIÓN con nuestra famosa tecnología de registro de FC en la muñeca. El GPS integrado te ayuda a ubicarte con precisión y el GPS asistido garantiza tiempos de localización rápidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

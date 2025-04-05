@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 🖱️【SENSOR ÓPTICO PROFESIONAL】El ratón gaming Lycan incluye un sensor Pixart 3389 con hasta 16000 DPI, una tasa de refresco polling rate de hasta 1000 hz, aceleración de hasta 50G y una detección de movimiento de hasta 400 IPS. Además cuenta con clicks HUANO con una tasa de vida estimada de hasta 50 millones de pulsaciones certificadas.
 - 👾 【NEWSKILL GAMING】Es una empresa fabricante líder de periféricos gaming para PC y consolas, que ofrece la mejor calidad y confianza a sus clientes con más de 6 años de experiencia. Para ver su catálogo completo, haga clic en Visita la Store de NEWSKILL, en la parte inferior del título de cada producto.
 - 🖱️【SOFTWARE PROPIO PERSONALIZABLE】Lycan cuenta con un software para personalizarlo, el diseño del mismo se ha realizado de forma intuitiva y agradable para el usuario. Cuenta con perfiles, configuración de DPI, polling rate, macros y cambios de pulsaciones en cada uno de los botones del ratón y por supuesto un excelente configurador de la iluminación RGB. Todo ello descargable desde la página web oficial.
-- 🖱️【MATERIALES PREMIUM Y LIGEROS】Lycan cuenta con un renovado cable “paracord” fabricado con un material especial de muy alta suavidad y movilidad, evitando así molestar al jugador con cada uno de sus movimientos. Además Lycan también incorpora nuestros pads de teflón con una durabilidad prácticamente infinita. Además, disfruta de un diseño ultraligero de 86,5 gr.
-- 🖱️【SENSOR ÓPTICO PROFESIONAL】El ratón gaming Lycan incluye un sensor Pixart 3389 con hasta 16000 DPI, una tasa de refresco polling rate de hasta 1000 hz, aceleración de hasta 50G y una detección de movimiento de hasta 400 IPS. Además cuenta con clicks HUANO con una tasa de vida estimada de hasta 50 millones de pulsaciones certificadas.
 - 🖱️【RATON GAMING TRANSPARENTE】La superficie del ratón está construida en plástico translúcido ABS, el cual hace de superficie personalizable RGB que cubre todo el cuerpo del ratón. Dentro incluye diferentes LED ARGB para que el jugador pueda personalizarlo a su propio gusto con diferentes efectos, perfiles y macros.
+- 🖱️【MATERIALES PREMIUM Y LIGEROS】Lycan cuenta con un renovado cable “paracord” fabricado con un material especial de muy alta suavidad y movilidad, evitando así molestar al jugador con cada uno de sus movimientos. Además Lycan también incorpora nuestros pads de teflón con una durabilidad prácticamente infinita. Además, disfruta de un diseño ultraligero de 86,5 gr.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R3ZB9RJ{{</world>}}

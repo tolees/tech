@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Autonomía para un día entero
-- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
-- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
 - Compatible con el Apple Pencil (1.ª generación)4 y el Magic Keyboard Folio
-- Touch ID para autenticarse de forma segura y usar Apple Pay
-- Chip A14 Bionic con CPU de 6 núcleos y GPU de 4 núcleos
+- Autonomía para un día entero
 - Gran angular trasero de 12 Mpx
 - Redes Wi-Fi 6 y 5G (sub-6 GHz)
+- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
 - Nuevas prestaciones de productividad y colaboración en iPadOS 16 que multiplican las posibilidades del iPad
+- Chip A14 Bionic con CPU de 6 núcleos y GPU de 4 núcleos
 - Conector USB-C para cargar el iPad y conectar accesorios
+- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJN24WX7{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
 - La tecnología Green Ethernet 802.3az reduce el consumo en los puertos sin tráfico y lo ajusta según la longitud de los cables conectados, lo que permite ahorar energía y una disipación de calor eficaz sin necesidad de ventiladores para un funcionamiento silencioso.
 - 16 puertos Gigabit con 1000 Mbps en cada puerto, ideal para expandir la red sin limitaciones de ancho de banda ni cuellos de botella.
 - Es Plug&Play, sin gestión, para ampliar fácilmente y sin conocimientos técnicos la conectividad de red cableada en hogares o como extremo de red en pequeñas empresas.
+- El protocolo 802.1p QoS acelera el rendimiento de la conexión dando prioridad según el tipo de tráfico, todo ello de forma automática, sin hacer configuraciones extra.
 - Diseño de perfil bajo para instalar en formato sobremesa o en pared (incluye kit de montaje)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

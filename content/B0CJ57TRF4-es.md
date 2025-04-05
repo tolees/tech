@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Poseidon Galaxy
 - Eau de toilette, Crema y Gel de ducha perfumados de 100 ml
+- Poseidon Galaxy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJ57TRF4{{</world>}}

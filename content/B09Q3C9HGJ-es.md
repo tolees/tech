@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
+- Tarjeta gráfica‎ NVIDIA GeForce RTX 3070-8GB GDDR6
 - Memoria RAM de 16GB ‎DDR4 SDRAM
+- Almacenamiento de 1TB SSD
 - Sin Sistema Operativo
 - Procesador Intel Core i7-11800H (8C/OctaCore‎ 2.30GHz)
-- Tarjeta gráfica‎ NVIDIA GeForce RTX 3070-8GB GDDR6
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
-- Almacenamiento de 1TB SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Q3C9HGJ{{</world>}}

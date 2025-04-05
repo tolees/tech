@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un vibrante elenco de personajes que se convertirán en tus amigos o enemigos.
 - Explora tu Furia y da forma a la personalidad de Maia con tu estilo de juego personal.
-- Opciones de accesibilidad: dos fuentes aptas para la dislexia.
 - Ambientado en una zona salvaje real cerca de la frontera polaco-bielorrusa, en peligro por la tala comercial Inspirado en las protestas de 2016-17 que acabaron con la justicia de la Unión Europea para detener la deforestación
 - El primer videojuego basado en el legendario juego de rol Werewolf: The Apocalypse
-- Un vibrante elenco de personajes que se convertirán en tus amigos o enemigos.
+- Opciones de accesibilidad: dos fuentes aptas para la dislexia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCQBBYTV{{</world>}}

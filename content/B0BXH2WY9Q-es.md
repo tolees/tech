@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Captura impresionantes imágenes en modo de ráfaga continua y lapso de tiempo con velocidades de disparo de hasta 100 MB/s.
+- Graba vídeos con calidad cinematográfica de 6K gracias a la clase de velocidad de vídeo 60 (V60) y vídeo en velocidad estándar a lenta en 4K UHD y Full HD.
 - Relájate con la tranquilidad de contar con una tarjeta resistente y capaz de soportar entornos extremos, amparada por una garantía limitada de por vida.
 - Diseñada para usuarios expertos y profesionales que usen cámaras avanzadas de sistema compacto, cámaras FF de sistema compacto y doble ranura y cámaras cinematográficas (UHS-II, V60, U3, C10).
-- Graba vídeos con calidad cinematográfica de 6K gracias a la clase de velocidad de vídeo 60 (V60) y vídeo en velocidad estándar a lenta en 4K UHD y Full HD.
 - Ahorra tiempo gracias a las rápidas descargas de la tarjeta, que alcanza velocidades de transferencia de hasta 280 MB/s, y almacena más archivos de imagen y vídeo de alta resolución con las opciones de capacidad que abarcan de 64 GB a 1 TB.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

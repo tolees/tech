@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Storage & Connectivity: Xiaomi 12 Lite 5G houses 128GB of internal storage. Runs on MIUI 13, base on Android 12. Connectivity-wise the device supports 5G, Bluetooth 5.2, Wi-Fi: Wi-Fi 6, 802.11a/b/g/n/ac, ecc.
-- Octa-Core CPU: Xiaomi 12 Lite 5G features the fast and smooth Snapdragon 778G, an octa-core gaming chipset optimized to provide uninterrupted gaming, fluid daily use, and longer battery life.
-- 4300mAh High-Performance Battery: A 4300mAh high-capacity battery powers Xiaomi 12 Lite 5G through days of use. And have 67W Fast Charging, our special process enhances the lifespan of the battery to provide optimum charging and recharging for years of reliable use.
 - 6.55”FHD+ Dot Drop: Xiaomi 12 Lite 5G featuring a massive 6.55”Dot Drop display, 2400 x 1080 FHD+, is large and immersive, refresh rate up to 120 Hz, providing an amazing video and gaming experience.
+- 4300mAh High-Performance Battery: A 4300mAh high-capacity battery powers Xiaomi 12 Lite 5G through days of use. And have 67W Fast Charging, our special process enhances the lifespan of the battery to provide optimum charging and recharging for years of reliable use.
+- Octa-Core CPU: Xiaomi 12 Lite 5G features the fast and smooth Snapdragon 778G, an octa-core gaming chipset optimized to provide uninterrupted gaming, fluid daily use, and longer battery life.
 - Quick Specifications: Display - 6.55”, Memory - 8GB RAM +128GB ROM(expandable memory with microSD), Camera - Rear Camera: 108 MP, Front Camera: 32MP, Bluetooth 5.2, SIM - Dual SIM | Nano-SIM.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

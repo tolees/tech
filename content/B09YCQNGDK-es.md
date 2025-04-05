@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tarjeta gráfica nVidia RTX 4050 GDDR6 6GB
-- Procesador Alder Lake i7-12650H
 - Pantalla de 16" QHD+ (2560*1600), 60Hz DCI-P3 100% typical, 500nits
+- Procesador Alder Lake i7-12650H
 - Tarjeta gráfica nVidia RTX 4050 GDDR6 6GB
 - Memoria RAM de 32GB(16GB*2) DDR5
 - Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD

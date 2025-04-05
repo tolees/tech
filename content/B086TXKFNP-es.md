@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-3470 - 3,20 GHz
-- Monitor 24 Inches , Estado excelente.
 - Almacenamiento de 240GB SDD + 500GB HDD
 - Memoria RAM 8GB DDR3
+- Procesador Intel Core i5-3470 - 3,20 GHz
+- Monitor 24 Inches , Estado excelente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086TXKFNP{{</world>}}

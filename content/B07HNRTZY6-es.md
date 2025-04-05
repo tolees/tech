@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 x lan gigabit para conectar ordenadores y videoconsolas, 1 x usb 3.0 para impresoras, dispositivos de almacenamiento en red, servidor multimedia (upnp av), fritz. Nas
-- Centralita telefónica para telefonía ip (voip) con contestadores automáticos (voice to mail) y fax, base dect integrada para 6 teléfonos inalámbricos, 1 puerto para teléfono analógico
-- Control parental configurable, con actualizaciones periódicas, interfaz de usuario en español
-- Router wifi ac + n (866 mbps 5 ghz y 400 mbps 2,4 ghz), mesh, para más velocidad y mejor cobertura, modem vdsl/adsl2+, puerto wan (lan1) para la conectividad con un cable módem o un terminal de fibra óptica
 - Contenido: fritz. Box 7530, cable de conexión dsl de 4 m, cable lan de 1,5 m, fuente de alimentación, guía rápida de instalación en español
+- Control parental configurable, con actualizaciones periódicas, interfaz de usuario en español
+- 4 x lan gigabit para conectar ordenadores y videoconsolas, 1 x usb 3.0 para impresoras, dispositivos de almacenamiento en red, servidor multimedia (upnp av), fritz. Nas
+- Router wifi ac + n (866 mbps 5 ghz y 400 mbps 2,4 ghz), mesh, para más velocidad y mejor cobertura, modem vdsl/adsl2+, puerto wan (lan1) para la conectividad con un cable módem o un terminal de fibra óptica
+- Centralita telefónica para telefonía ip (voip) con contestadores automáticos (voice to mail) y fax, base dect integrada para 6 teléfonos inalámbricos, 1 puerto para teléfono analógico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HNRTZY6{{</world>}}

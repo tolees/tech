@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota: Compruebe periódicamente el mal funcionamiento del ajuste de enfoque o de la función de enfoque AF/lente de enfoque.
-- Construcción impermeable
 - Alta calidad de imagen
-- Tamron Utilidad de lentes
+- Nota: Compruebe periódicamente el mal funcionamiento del ajuste de enfoque o de la función de enfoque AF/lente de enfoque.
 - Alta intensidad lumínica
+- Construcción impermeable
+- Tamron Utilidad de lentes
 - Enfoque automático VXD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

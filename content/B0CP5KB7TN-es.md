@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM LPDDR4-2400 MHz 8 GB (integrada)
-- Procesador Intel Pentium Silver N5030 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 3,1 GHz, 4 MB de caché L2, 4 núcleos)
-- Sistema operativo ChromeOS
 - Pantalla táctil FHD de 14" (35,6 cm) en diagonal, táctil, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Almacenamiento de datos 64GB eMMC
+- Sistema operativo ChromeOS
+- Memoria RAM LPDDR4-2400 MHz 8 GB (integrada)
+- Procesador Intel Pentium Silver N5030 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 3,1 GHz, 4 MB de caché L2, 4 núcleos)
 - Gráficos Integrados: Intel UHD 605
 
 [🛒 Visítala!!!]({{< param buyurl >}})

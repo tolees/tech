@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- - Red 5G: 1, 3, 5, 7, 8, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66., 41, 66, 77, 78 SA/NSA
+- - Red 2G: GSM 850/900/1800/1900 - SIM 1 y SIM 2
+- - Red 4G: 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 28, 32, 38, 40, 41, 66
+- XIAOMI Redmi Note 13 5G 6.67 128 GB 6 GB negro
+- - Red 5G: 1, 3, 5, 7, 8, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 66
+- - Red 5G: 1, 3, 5, 7, 8, 20, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66
+- Batería grande de 5000 mAh (típica), carga rápida de 33 W; Pantalla con orificio de perforación POLED FHD+ de 120 Hz; Procesador de alto rendimiento D6080 Interno; producto de marca original. Garantía de dos años contra defectos de fábrica.; HDMI, teléfonos inteligentes, Xiaomi; cámara principal de 108 MP de nivel profesional; batería grande de 5000 mAh (típica), carga rápida de 33 W; pantalla perforada POLED FHD+ de 120 Hz
 - - Tipo: teléfono inteligente
 - - Red 3G: HSDPA 800/850/900/1700 (AWS) /1900/2100
 - Cámara principal de grado profesional
-- - Red 5G: 1, 3, 5, 7, 8, 20, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66
-- - Red 5G: 1, 3, 5, 7, 8, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 66
-- - Red 5G: 1, 3, 5, 7, 8, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66., 41, 66, 77, 78 SA/NSA
-- - Red 4G: 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 28, 32, 38, 40, 41, 66
-- XIAOMI Redmi Note 13 5G 6.67 128 GB 6 GB negro
-- - Red 2G: GSM 850/900/1800/1900 - SIM 1 y SIM 2
-- Batería grande de 5000 mAh (típica), carga rápida de 33 W; Pantalla con orificio de perforación POLED FHD+ de 120 Hz; Procesador de alto rendimiento D6080 Interno; producto de marca original. Garantía de dos años contra defectos de fábrica.; HDMI, teléfonos inteligentes, Xiaomi; cámara principal de 108 MP de nivel profesional; batería grande de 5000 mAh (típica), carga rápida de 33 W; pantalla perforada POLED FHD+ de 120 Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQBX24GJ{{</world>}}

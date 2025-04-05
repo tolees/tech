@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15,6 pulgadas, FHD, 1920 x 1080 pixeles, 60 Hz, IPS, 250 nits, antirreflejos
 - Procesador AMD Ryzen 5 5600H
+- Pantalla de 15,6 pulgadas, FHD, 1920 x 1080 pixeles, 60 Hz, IPS, 250 nits, antirreflejos
 - Sistema operativo, Windows 11 Home
-- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
 - Almacenamiento de 512 GB SSD M,2 2280 PCIe 3,0 x 4 NVMe
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 Ti 4 GB GDDR6, Boost Clock 14851597,5M Hz, TGP 85W
+- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQRLNP4D{{</world>}}

@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Almacenamiento y carga de Surface Slim Pen 2 integrados directamente en el Teclado Signature para Surface Pro (se venden por separado).
 - Ajusta el ángulo con el soporte trasero integrado.
-- Combinaciones con nuevos colores vivos.
-- Pantalla táctil PixelSense de 13 pulgadas casi de borde a borde, diseñada para lápiz y Windows 11.
 - Puertos Thunderbolt 4, perfectos para disfrutar de la productividad de un equipo de escritorio y juegos locales.
 - Hasta 15.5 horas de autonomía.
 - Más rápido que las generaciones anteriores, el procesador Intel Core de 12ª generación con gráficos Intel Iris Xe cambiará la forma en la que el usuario experimenta el avance en productividad, juegos y streaming
+- Combinaciones con nuevos colores vivos.
+- Pantalla táctil PixelSense de 13 pulgadas casi de borde a borde, diseñada para lápiz y Windows 11.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BD9795WN{{</world>}}

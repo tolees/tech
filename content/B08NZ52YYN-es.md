@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cámara web con vídeo HD 720p
 - Pantalla panorámica HD 720p/30 fps
+- Micrófono de largo alcance
 - Clip de montaje universal para portátiles, LCD o monitores
 - Cable USB-A extralargo de 2 m
-- Micrófono de largo alcance
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NZ52YYN{{</world>}}

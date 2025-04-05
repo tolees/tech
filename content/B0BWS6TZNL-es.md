@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proyector Full HD 1080p
-- Gran pantalla hasta 391 pulgadas
-- Fácil configuración: con corrección keystone y hdmi
-- Tecnología 3LCD: Niveles de emisión equivalentes de luz blanca y de color
 - Luminosidad de 3000 lúmenes
+- Tecnología 3LCD: Niveles de emisión equivalentes de luz blanca y de color
+- Proyector Full HD 1080p
+- Fácil configuración: con corrección keystone y hdmi
+- Gran pantalla hasta 391 pulgadas
 - Lámpara de larga duración: hasta 18 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

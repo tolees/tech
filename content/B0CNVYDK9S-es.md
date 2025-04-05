@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- Memoria RAM de 8GB DDR4 SDRAM
-- Almacenamiento de 512GB SSD PCIe NVMe
-- Tarjeta Gráfica AMD Radeon Graphics
 - Procesador AMD Ryzen 5 5500U (6C/HexaCore), 2,10 GHz
 - Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
+- Memoria RAM de 8GB DDR4 SDRAM
+- Sistema Operativo: Windows 11 Home
+- Almacenamiento de 512GB SSD PCIe NVMe
+- Tarjeta Gráfica AMD Radeon Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNVYDK9S{{</world>}}

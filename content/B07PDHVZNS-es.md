@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El software PLUS con una interfaz fácil de usar proporciona funciones de administración básicas para configurar, proteger y monitorear su red
+- El diseño de uso eficiente de la energía cumple con IEEE802.3az
 - 8 puertos Gigabit Ethernet
 - Garantía de hardware de 3 años líder en el mercado
-- El diseño de uso eficiente de la energía cumple con IEEE802.3az
 - Se puede colocar en un escritorio o en la pared
 
 [🛒 Visítala!!!]({{< param buyurl >}})

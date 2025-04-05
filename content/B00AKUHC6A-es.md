@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rango de frecuencia de 10 Hz a 22 kHz
-- Alcance inalámbrico de 100 m
-- Baterías: DC2.4V (pila Ni-MH recargable)
 - Tiempo de carga de la batería: aprox. 7 horas (carga completa)
+- Rango de frecuencia de 10 Hz a 22 kHz
+- Baterías: DC2.4V (pila Ni-MH recargable)
 - Diafragma de neodimio de 40 mm
+- Alcance inalámbrico de 100 m
 - Duración de la batería: aprox. 18 horas (completamente cargada)
 - Auriculares inalámbricos cerrados con baterías recargables, membrana de neodimio de 40 mm y estación de carga
 

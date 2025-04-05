@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descripción de la cámara: Frontal
 - Smartphone marca Motorola, color plata
 - MOTO EDGE 30 NEO 8128 SILVER
+- Descripción de la cámara: Frontal
 - Alta calidad
 - 2 años de garantía del fabricante
 

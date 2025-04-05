@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sistema Operativo: Windows 11 Home
 - Procesador AMD Ryzen 5 5500U (6C/Hexacore 2.10GHz)
+- Pantalla de 14", FullHD 1920x1080 pixeles
 - Tarjeta gráfica‎ AMD Radeon Graphics
 - Almacenamiento de 512GB SSD PCI Express
 - Memoria RAM de 8GB LPDDR4X
-- Sistema Operativo: Windows 11 Home
-- Pantalla de 14", FullHD 1920x1080 pixeles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JZW3KVX{{</world>}}

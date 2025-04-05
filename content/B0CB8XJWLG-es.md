@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compacta, ligera y diseñada para la aventura; disfruta de capturas intuitivas gracias a la pantalla giratoria táctil, el visor electrónico y el dial frontal adicional; su resistencia al polvo y la humedad, y su carcasa de aleación de magnesio, garantizan su durabilidad
-- Conéctala a tu smartphone a través de la CreatorsApp para transferir imágenes; usa la cámara cómo webcam 4K de calidad para streaming online
 - Congela acciones poco iluminadas con el sensor Exmor R de 26 MP y el procesador BionZ XR; crea imágenes realistas y no pierdas la oportunidad de captar el momento gracias a la captura continua rápida hasta a 11 fps y los objetivos APS-C de Sony
-- Enfoque sencillo gracias al autoenfoque por IA; el procesador IA específico garantiza un seguimiento rápido y preciso; snaliza poses y cambia entre sujetos sin problema y explora el horquillado de enfoque para fotos de optima resolución
+- Conéctala a tu smartphone a través de la CreatorsApp para transferir imágenes; usa la cámara cómo webcam 4K de calidad para streaming online
+- Compacta, ligera y diseñada para la aventura; disfruta de capturas intuitivas gracias a la pantalla giratoria táctil, el visor electrónico y el dial frontal adicional; su resistencia al polvo y la humedad, y su carcasa de aleación de magnesio, garantizan su durabilidad
 - La A6700 tiene las optimas prestaciones de las cámaras Cinema Line: grabación 4K submuestreada desde 6K hasta a 30p y cámara lenta 4K hasta a 120p; con estabilización activa, perfil S-Cinetone/S-Log3 y encuadre automático por IA, es optima para crear metraje cinematográfico
+- Enfoque sencillo gracias al autoenfoque por IA; el procesador IA específico garantiza un seguimiento rápido y preciso; snaliza poses y cambia entre sujetos sin problema y explora el horquillado de enfoque para fotos de optima resolución
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB8XJWLG{{</world>}}

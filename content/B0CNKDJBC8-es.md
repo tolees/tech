@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráfica integrada UMA Graphics
-- Almacenamiento de 512GB SSD
-- Pantalla de 15.6" Full HD ‎(1920x1080 píxeles)
-- Sistema operativo: Windows 11
-- Memoria de 8GB RAM
 - Procesador Intel Core i5-1135G7
+- Memoria de 8GB RAM
+- Sistema operativo: Windows 11
+- Gráfica integrada UMA Graphics
+- Pantalla de 15.6" Full HD ‎(1920x1080 píxeles)
+- Almacenamiento de 512GB SSD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNKDJBC8{{</world>}}

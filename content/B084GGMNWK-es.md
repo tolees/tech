@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta resolución en todo el rango focal y en toda la imagen gracias a una distribución inteligente de sus lentes y al revestimiento zero que evita las aberraciones ópticas y cromáticas
-- Su autoenfoque de alto rendimiento te permite sacarle el máximo partido a la veloz cámara om-d y conseguir unos resultados espectaculares
-- Permite obtener unos bonitos efectos de desenfoque con una amplia apertura f4 en todo el alcance del zoom
 - Construcción resistente al polvo y a las salpicaduras (ipx1) que te permitirá utilizarlo en prácticamente cualquier lugar en combinación con una cámara también resistente
+- Alta resolución en todo el rango focal y en toda la imagen gracias a una distribución inteligente de sus lentes y al revestimiento zero que evita las aberraciones ópticas y cromáticas
+- Permite obtener unos bonitos efectos de desenfoque con una amplia apertura f4 en todo el alcance del zoom
+- Su autoenfoque de alto rendimiento te permite sacarle el máximo partido a la veloz cámara om-d y conseguir unos resultados espectaculares
 - Portabilidad gracias a su reducido peso de tan solo 254 g; con él podrás subir y bajar montañas, llevarlo en tu equipaje de mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

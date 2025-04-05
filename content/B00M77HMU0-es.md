@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algunas de sus características son: función Wake-on-LAN, Green Ethernet y estándar IEEE 802.3az-2010 (Energy Efficient Ethernet)
-- Conecta un dispositivo USB 3.0 (ordenador/portátil) a un rúter, módem o conmutador de red para proporcionar Gigabit Ethernet a tu conexión de red. No es compatible con smart TV o consolas de videojuegos (p. ej., Nintendo Switch)
 - Aviso: Compatible con Windows 10/8/7, no compatible con MacOS, Chrome OS, Windows RT, Linux ni Android
 - Soporta Checksum Offload Engine (COE) pack IPv4/IPv6 para reducir la carga del procesador (CPU)
+- Conecta un dispositivo USB 3.0 (ordenador/portátil) a un rúter, módem o conmutador de red para proporcionar Gigabit Ethernet a tu conexión de red. No es compatible con smart TV o consolas de videojuegos (p. ej., Nintendo Switch)
+- Algunas de sus características son: función Wake-on-LAN, Green Ethernet y estándar IEEE 802.3az-2010 (Energy Efficient Ethernet)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M77HMU0{{</world>}}

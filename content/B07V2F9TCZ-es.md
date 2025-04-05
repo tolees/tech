@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- COMPLETAMENTE PERSONALIZABLE Y RAPIDÍSIMO con interruptores HyperMagnetic ajustables OmniPoint 2.0
+- TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
+- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
+- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
 - USB PASS THROUGH : conecta un dispositivo USB adicional
 - PANTALLA INTELIGENTE OLED: muestra de un vistazo la información de los juegos y las aplicaciones junto con una ruedecilla de metal clicable y una tecla multimedia.
-- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
-- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
-- TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
 - CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
-- COMPLETAMENTE PERSONALIZABLE Y RAPIDÍSIMO con interruptores HyperMagnetic ajustables OmniPoint 2.0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07V2F9TCZ{{</world>}}

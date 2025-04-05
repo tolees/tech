@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 8845HS (aumento máximo del reloj de hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos y 16 subprocesos)
-- Pantalla FHD (1920 x 1080) de 39,6 cm (15,6") en diagonal, 300 nits, 62,5 % de sRGB
-- 16 GB Memoria RAM DDR5-5600 MHz (2 x 8 GB)
 - 512 GB disco duro SSD PCIe Gen4 NVMe M.2
+- Procesador AMD Ryzen 7 8845HS (aumento máximo del reloj de hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos y 16 subprocesos)
 - Gráfica NVIDIA GeForce RTX 4050 (GDDR6 de 6 GB)
+- 16 GB Memoria RAM DDR5-5600 MHz (2 x 8 GB)
+- Pantalla FHD (1920 x 1080) de 39,6 cm (15,6") en diagonal, 300 nits, 62,5 % de sRGB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4MC9C1L{{</world>}}

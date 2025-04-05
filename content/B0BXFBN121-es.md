@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PCIe Gen3 x4 M.2 con soporte de modo PCIe NVMe y SATA
-- LAN GbE con administración de ancho de banda
 - DDR4 sin búfer ECC/sin ECC de doble canal, 2 DIMM
 - Compatible con procesadores AMD Ryzen 5000 Series/Ryzen 5000 G-Series/Ryzen 4000 G-Series y Ryzen 3000 Series
+- LAN GbE con administración de ancho de banda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXFBN121{{</world>}}

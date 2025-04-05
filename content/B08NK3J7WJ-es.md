@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Wi-Fi AC + N de alta gama con máx. alcance y velocidad (hasta 1266 Mbps) y con la comodidad de Wi-Fi Mesh, control parental configurable, FRITZ!OS con actualizaciones gratuitas
 - Centralita para telefonía fija y/o IP (VoIP), base DECT integrada para seis teléfonos inalámbricos y domótica, puertos para teléfonos analógicos, voice-to-Mail y Fax
-- Módem LTE (4G y 3G) cat. 4 (FDD), con alineación inteligente para determinar la ubicación óptima, se puede utilizar en toda Europa
 - Contenido de la caja: FRITZ!Box 6850 LTE, cable LAN de 1.5 m, antenas LTE, fuente de alimentación, guía rápida de instalación
 - Red de alta velocidad con 4 x LAN Gigabit para conectar ordenadores y videoconsolas, 1 x USB 3.0 para impresoras y/o dispositivos de almacenamiento en red, FRITZ!NAS, servidor multimedia (UPnP AV)
+- Wi-Fi AC + N de alta gama con máx. alcance y velocidad (hasta 1266 Mbps) y con la comodidad de Wi-Fi Mesh, control parental configurable, FRITZ!OS con actualizaciones gratuitas
+- Módem LTE (4G y 3G) cat. 4 (FDD), con alineación inteligente para determinar la ubicación óptima, se puede utilizar en toda Europa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NK3J7WJ{{</world>}}

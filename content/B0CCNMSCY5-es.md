@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Compatibilidad】Amplio soporte con Windows 8, Windows 7, Windows Vista, Windows XP, Me, NT, PC ,Laptop, Google Android TV Box, HTPC, IPTV Smart TV, Mac IOS ,Chrome OS,Raspberry Pi todas las versiones, Linux.
 - 【 RGB Ratón Gaming 】El innovador ratón con calbe también tiene una luz de fondo multicolor. Los 7 colores cambian de forma automática. Dispone de una sensibilidad de 4 niveles. DPI ajustable:1000-1600-2000-2400. Superficie grabada con láser y agarre recubierto de cómoda goma.
-- 【Combo Gaming】Rii Gaming LED teclado retroiluminado LED; Teclado con cable de sensación mecánica. Ratón con iluminación moderna. Plug and play sin instalación de equipos.
 - 【Garantía】El paquete contiene: Combo de teclado y ratón,Manual de usuario. Proveemos de una garantia total de 12 meses. Contacte con nosotros ante cualquier problema y le ayudaremos a resolverlo.
-- 【Diseño ergonómico】El teclado tiene un cómodo diseño ergonómico, y una distribución de teclas idónea para reducir la fatiga al usarlo; Tiene una mecánica de uso nítida y una sensación de golpeteo al escribir o jugar, adecuado para la oficina, estudio o juegos.
+- 【Compatibilidad】Amplio soporte con Windows 8, Windows 7, Windows Vista, Windows XP, Me, NT, PC ,Laptop, Google Android TV Box, HTPC, IPTV Smart TV, Mac IOS ,Chrome OS,Raspberry Pi todas las versiones, Linux.
+- 【Combo Gaming】Rii Gaming LED teclado retroiluminado LED; Teclado con cable de sensación mecánica. Ratón con iluminación moderna. Plug and play sin instalación de equipos.
 - 【Retroiluminación LED multicolor】 Teclado para juegos con una magnífica luz de retroiluminación LED de arco iris. La iluminación usa una combinación de colores para resultar atractiva y atrevida. Dispone de 3 niveles de brillo ajustable. 2 modos de conmutación, uniforme y clara.
+- 【Diseño ergonómico】El teclado tiene un cómodo diseño ergonómico, y una distribución de teclas idónea para reducir la fatiga al usarlo; Tiene una mecánica de uso nítida y una sensación de golpeteo al escribir o jugar, adecuado para la oficina, estudio o juegos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCNMSCY5{{</world>}}

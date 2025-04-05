@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño de pantalla: 3.0 inches
+- NÚNCA PIERDAS EL MOMENTO: Autofocus hasta con 24fps
+- Tipo de lente: Estándar
+- Zoom óptico: 25.0 multiplier_x
 - ZOOM DE GRAN ALCANCE: ZEISS Vario-Sonnar T* 24-600mm F2.4-4 de gran apertura y resolución
 - Zoom digital: 100.0 multiplier_x
-- NÚNCA PIERDAS EL MOMENTO: Autofocus hasta con 24fps
+- CALIDAD DE IMAGEN IMPRESIONANTE: El sensor de imagen tipo 1.0 tiene una resolución de 20.1 megapíxeles, con tecnología de retroiluminación logra un amplio rango de sensibilidad
+- PERFECTA PARA CREADORES DE VÍDEO: Grabación interna de vídeo en 4K con funcionalidades PRO y estabilización de imagen
+- Tamaño de pantalla: 3.0 inches
 - AUTOFOCUS RÁPIDO Y PRECISO: Confía en el AF de 0.03s, seguimiento en tiempo real y Eye AF para mantener al sujeto nítido en cualquier situación
 - Resolución video: Full HD
-- Tipo de lente: Estándar
-- PERFECTA PARA CREADORES DE VÍDEO: Grabación interna de vídeo en 4K con funcionalidades PRO y estabilización de imagen
-- Zoom óptico: 25.0 multiplier_x
-- CALIDAD DE IMAGEN IMPRESIONANTE: El sensor de imagen tipo 1.0 tiene una resolución de 20.1 megapíxeles, con tecnología de retroiluminación logra un amplio rango de sensibilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075MNCH2Y{{</world>}}

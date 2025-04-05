@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Resolucion 24,5 MP
 - Diseño clásico
+- Camara sensor FX completo
 - Estabilizador VR 8 puntos
 - Pantalla abatible
-- Camara sensor FX completo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJF4FNYR{{</world>}}

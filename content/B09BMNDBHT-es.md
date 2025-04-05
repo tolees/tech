@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ELEGANTE Y LIGERO: Con un peso increíble de 59 gramos, el MM731 cuenta con una carcasa suave para mayor durabilidad; La sutil iluminación RGB en la rueda de desplazamiento y logo se puede ajustar a gusto o para mostrar la configuración DPI en tiempo real
 - PRECISIÓN Y SUAVE DESLIZAMIENTO: Sensor óptico PixArt PAW3370 (≤19K DPI) para retraso y tartamudeo mínimos y mayor precisión (400 IPS, 1000Hz/125Hz (BT), Despegue <2mm, Aceleración 50g); Pies de PTFE de alta calidad y baja fricción mejoran el movimiento
 - DURADERO Y RESPONSIVO: Los botones L/R emplean micro switches ópticos duraderos (70 millones de clics c/u) con un tiempo de rebote casi instantáneo (0,2ms); La carcasa ergonómica está optimizada para gamers diestros que prefieren agarre de palma o garra
 - PRECISIÓN Y SUAVE DESLIZAMIENTO: Sensor óptico PixArt PAW3370 (≤19K DPI) para retraso y tartamudeo mínimos y mayor precisión (400 IPS, 1000Hz/125Hz (BT), Despegue <2mm, Aceleración 50g); Pies de PTFE de alta calidad y baja fricción mejoran el movimiento
+- DURADERO Y RESPONSIVO: Los botones L/R emplean micro switches ópticos duraderos (70 millones de clics c/u) con un tiempo de rebote casi instantáneo (0,2ms); La carcasa ergonómica está optimizada para gamers diestros que prefieren agarre de palma o garra
 - ELEGANTE Y LIGERO: Con un peso increíble de 59 gramos, el MM731 cuenta con una carcasa suave para mayor durabilidad; La sutil iluminación RGB en la rueda de desplazamiento y logo se puede ajustar a gusto o para mostrar la configuración DPI en tiempo real
-- CONECTIVIDAD HÍBRIDA: El cable Ultraweave de Cooler Master (1,8m, USB chapado en oro, 1000Hz) se puede desconectar para conectividad Bluetooth (máx 190h, 125Hz) o inalámbrica 2,4GHz (máx 72h, 1000Hz) Batería 500mAh; Compatible con plataformas PC o MacOS
-- CONECTIVIDAD HÍBRIDA: El cable Ultraweave de Cooler Master (1,8m, USB chapado en oro, 1000Hz) se puede desconectar para conectividad Bluetooth (máx 190h, 125Hz) o inalámbrica 2,4GHz (máx 72h, 1000Hz) Batería 500mAh; Compatible con plataformas PC o MacOS
 - HAZLO TUYO: Disponible en blanco mate y negro mate con iluminación LED ajustable (16.7M RGB); El MM731 incluye una garantía de 2 años y es compatible con el software MasterPlus+ (actualmente solo para PC) para configuraciones avanzadas de hasta 38K DPI
-- ELEGANTE Y LIGERO: Con un peso increíble de 59 gramos, el MM731 cuenta con una carcasa suave para mayor durabilidad; La sutil iluminación RGB en la rueda de desplazamiento y logo se puede ajustar a gusto o para mostrar la configuración DPI en tiempo real
-- DURADERO Y RESPONSIVO: Los botones L/R emplean micro switches ópticos duraderos (70 millones de clics c/u) con un tiempo de rebote casi instantáneo (0,2ms); La carcasa ergonómica está optimizada para gamers diestros que prefieren agarre de palma o garra
+- CONECTIVIDAD HÍBRIDA: El cable Ultraweave de Cooler Master (1,8m, USB chapado en oro, 1000Hz) se puede desconectar para conectividad Bluetooth (máx 190h, 125Hz) o inalámbrica 2,4GHz (máx 72h, 1000Hz) Batería 500mAh; Compatible con plataformas PC o MacOS
+- CONECTIVIDAD HÍBRIDA: El cable Ultraweave de Cooler Master (1,8m, USB chapado en oro, 1000Hz) se puede desconectar para conectividad Bluetooth (máx 190h, 125Hz) o inalámbrica 2,4GHz (máx 72h, 1000Hz) Batería 500mAh; Compatible con plataformas PC o MacOS
 - HAZLO TUYO: Disponible en blanco mate y negro mate con iluminación LED ajustable (16.7M RGB); El MM731 incluye una garantía de 2 años y es compatible con el software MasterPlus+ (actualmente solo para PC) para configuraciones avanzadas de hasta 38K DPI
 
 [🛒 Comprar!!!]({{< param buyurl >}})

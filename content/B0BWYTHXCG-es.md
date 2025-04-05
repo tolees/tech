@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ONE_NORDCE3_8_128_LIME_EU
 - 6921815624172
+- ONE_NORDCE3_8_128_LIME_EU
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWYTHXCG{{</world>}}

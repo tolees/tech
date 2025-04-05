@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GPU de portátil NVIDIA GeForce RTX 3070 (GDDR6 de 8 GB dedicada) tecnología NVIDIA Max-Q
-- Memoria 16 GB de RAM DDR5-4800 Mhz (2 x 8 GB)
-- Sistema operativo FreeDOS
-- Almacenamiento SSD PCIe NVMe TLC M.2 de 1 TB
 - Pantalla QHD (2560 x 1440) de 16,1" (40,9 cm), 165 Hz, tiempo de respuesta de 3 ms, IPS, microborde, antirreflectante, Low Blue Light, 300 nits, 100% sRGB
+- Sistema operativo FreeDOS
+- GPU de portátil NVIDIA GeForce RTX 3070 (GDDR6 de 8 GB dedicada) tecnología NVIDIA Max-Q
+- Almacenamiento SSD PCIe NVMe TLC M.2 de 1 TB
+- Memoria 16 GB de RAM DDR5-4800 Mhz (2 x 8 GB)
 - Procesador Intel Core i7-12700H (hasta 4,7 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

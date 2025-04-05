@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Objetivo zoom EF-M ultra gran angular de 11-22 mm
-- Diseño de objetivo retráctil compacto
 - Estabilizador Óptico de la imagen de 3 pasos
 - IS Dinámico para conseguir unos vídeos estables
 - Enfoque STM suave y silencioso en vídeos
+- Objetivo zoom EF-M ultra gran angular de 11-22 mm
+- Diseño de objetivo retráctil compacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00D7ZUTZ6{{</world>}}

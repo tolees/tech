@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Celeron N4120 (frecuencia de ráfaga de hasta 2,6 GHz, 4 MB de caché L2, 4 núcleos, 4 subprocesos)
-- Almacenamiento de datos SSD de 256 GB PCIe NVMe M.2
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 220 nits, 45 % NTSC (1920 x 1080)
-- Gráficos Integrados Intel UHD 600
-- Memoria RAM DDR4-2400 MHz 8 GB (1 x 8 GB)
 - Sistema operativo Windows 11 Home
+- Almacenamiento de datos SSD de 256 GB PCIe NVMe M.2
+- Procesador Intel Celeron N4120 (frecuencia de ráfaga de hasta 2,6 GHz, 4 MB de caché L2, 4 núcleos, 4 subprocesos)
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 220 nits, 45 % NTSC (1920 x 1080)
+- Memoria RAM DDR4-2400 MHz 8 GB (1 x 8 GB)
+- Gráficos Integrados Intel UHD 600
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVBTRM72{{</world>}}

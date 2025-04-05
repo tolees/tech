@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye hueco para el SPen
 - Fabricado con materiales resistentes
 - Funda book cover magnética, posiciones diferentes para protección y portabilidad
-- Incluye hueco para el SPen
 - Diseño atractivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

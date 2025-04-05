@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuenta con una garantía limitada de Amazon Basics de 1 año
-- Carga rápida y transferencia de datos: compatible con velocidades de carga rápida de hasta 60 W (20 V y 3 A) y de transferencia de datos de hasta 480 Mbp/s No superes la carga recomendada (60 W, 20 V/3 A)
-- Con certificación USB-IF: se conecta con cualquier dispositivo con USB-C. Para transmisión de energía y carga, y transferencia de datos entre smartphones, bancos de potencia, cargadores murales o de coche, discos duros, tabletas, portátiles (hasta 60 W) y más
 - Mayor durabilidad: Ha superado pruebas en las que se dobla 5000 veces a 95 grados
+- Con certificación USB-IF: se conecta con cualquier dispositivo con USB-C. Para transmisión de energía y carga, y transferencia de datos entre smartphones, bancos de potencia, cargadores murales o de coche, discos duros, tabletas, portátiles (hasta 60 W) y más
+- Carga rápida y transferencia de datos: compatible con velocidades de carga rápida de hasta 60 W (20 V y 3 A) y de transferencia de datos de hasta 480 Mbp/s No superes la carga recomendada (60 W, 20 V/3 A)
 - Contenido: 1 cable de 3 m, 60 W, cable USB-C 2.0 para cargar y alimentar dispositivos, transferencia de datos, fotos y música
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

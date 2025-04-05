@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- AMD Ryzen 5 5500U (6 núcleos, 12 subprocesos) Procesador
-- Pantalla FHD de 39,6 cm (15,6") (1920 x 1080), 120 Hz, sin función táctil, antirreflectante, WVA, con retroiluminación LED, 250 nits, borde estrecho pantalla
-- Tarjeta gráfica AMD Radeon
 - Unidad de estado sólido PCIe NVMe M.2 de 512 GB
+- Pantalla FHD de 39,6 cm (15,6") (1920 x 1080), 120 Hz, sin función táctil, antirreflectante, WVA, con retroiluminación LED, 250 nits, borde estrecho pantalla
 - Memoria DDR4 de 8 GB, 1 de 8 GB a 3200 MHz
+- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica AMD Radeon
+- AMD Ryzen 5 5500U (6 núcleos, 12 subprocesos) Procesador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHM9RX9K{{</world>}}

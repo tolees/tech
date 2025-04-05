@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
-- Tarjeta gráfica NVIDIA GeForce RTX 4060 8GB GDDR6
-- Procesador AMD Ryzen 7 7735HS (8C/OctaCore 3.2 / 4.75GHz, 16MB)
-- Sistema Operativo: Windows 11 Home
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 7735HS (8C/OctaCore 3.2 / 4.75GHz, 16MB)
+- Tarjeta gráfica NVIDIA GeForce RTX 4060 8GB GDDR6
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT53HWYB{{</world>}}

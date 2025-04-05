@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin sistema operativo
+- Almacenamiento de datos SSD M.2 1 TB PCIe Gen4 NVMe TLC
 - Memoria RAM DDR5-5600 MHz 16 GB (2 x 8 GB)
 - Intel Core i7-14700HX (hasta 5,5 GHz con tecnología Intel Turbo Boost, 33 MB de caché L3, 20 núcleos, 28 subprocesos)
 - Gráfica NVIDIA GeForce RTX 4060 8GB VRAM
-- Almacenamiento de datos SSD M.2 1 TB PCIe Gen4 NVMe TLC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN7F1X3R{{</world>}}

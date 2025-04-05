@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forma purista con una ergonomía muy cómoda
-- USB
+- ROCCAT -conmutador Omron exclusivo con una vida útil de 50 millones de clics
 - Tecnología Titan-click para una precisión de clic excepcional
 - ROCCAT Sensor óptico ojo de búho con 16.000 dpi
 - Sistema de iluminación AIMO, retroiluminación RGB y efectos de iluminación LED. Mecanismo de clic más rápido y preciso
-- ROCCAT -conmutador Omron exclusivo con una vida útil de 50 millones de clics
+- USB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SVNX78P{{</world>}}

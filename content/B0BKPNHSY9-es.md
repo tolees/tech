@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0
 - ASUS VivoBook Go 14 Flip TP1400KA-EC040WS - Portátil 14" Full HD (Celeron N4500, 4GB RAM, 128GB eMMC, UHD Graphics, Windows 11 Home in S mode) Azul tranquilo - Teclado QWERTY español
+- 0
 - 0
 - 0
 

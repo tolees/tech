@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería para un día entero en 15 minutos - Batería de 4500 mAh, Warp Charge 65T y Warp Charge Wireless 50; nuestra tecnología de carga inalámbrica más rápida hasta la fecha - pasa del 1 al 70% en solo 30 minutos
 - Fluid Display 2.0 - Pantalla AMOLED Smart 120 Hz de 6,7" con tecnología LTPO, el consumo energético desciende en un 50% incluso cuando disfrutas de la experiencia totalmente fluida de los 120Hz de refresco.
-- La plataforma móvil Qualcomm Snapdragon 888 5G - Logra resultados un 25% superiores a los del Snapdragon 865. OxygenOS 11.
 - Cámara principal de 48MP, ultra gran angular de 50MP, teleobjetivo y cámara monocromática - Desarrollada de la mano de Hasselblad, la exclusiva cámara Hasselblad para smartphone ofrece numerosos avances, como la función Calibración Natural de Color.
+- Batería para un día entero en 15 minutos - Batería de 4500 mAh, Warp Charge 65T y Warp Charge Wireless 50; nuestra tecnología de carga inalámbrica más rápida hasta la fecha - pasa del 1 al 70% en solo 30 minutos
+- La plataforma móvil Qualcomm Snapdragon 888 5G - Logra resultados un 25% superiores a los del Snapdragon 865. OxygenOS 11.
 - La perfección en movimiento - Grabación de video a 8K + cámara lenta a 4K 120fps.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

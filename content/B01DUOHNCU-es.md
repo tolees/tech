@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 170 GRADOS: La camára deportiva NK tiene una pantalla de 2" y gran angular de 170 grados, lo que te permitirá capturar tus fotos y vídeos más ampliamente y así conseguir unas tomas lo más profesionales posible.
 - CONTROL REMOTO WI-FI: Gracias a su funcion WiFi, podrás controlar tu cámara desde su propia aplicación "XDV". Podrás hacer fotografías, cambiar de modo, descargar, eliminar y ver todos los archivos sin necesdad de conectarla a través de cable.
+- RESISTENTE AL AGUA: Se incluye una carcasa acuática sólida y resistente para que puedas sumergir tu cámara hasta 40 M y que esta no corra ningun riesgo.
 - MÚLTIPLES ACCESORIOS: Dentro del paquete se incluyen 15 accesorios para que puedas grabar miles de tomas en diferentes escenarios y adaptar tu cámara según el momento.
 - ALTA RESOLUCIÓN: La cámara, con 16 MP y una calidad de video de 4k 30fps / 2.7K 30fps / 1080P 60fps / 720P 120fps / 720P 60fps / 720P 30fps es ideal para que puedas grabar y compartir miles de tomas en la mejor calidad.
-- RESISTENTE AL AGUA: Se incluye una carcasa acuática sólida y resistente para que puedas sumergir tu cámara hasta 40 M y que esta no corra ningun riesgo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUOHNCU{{</world>}}

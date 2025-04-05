@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Chip TDA7498E clásico】 Obtendrá un sonido claro y claro sin ningún ruido audible incluso a alta potencia. El diseño de circuito avanzado garantiza un sonido de alta fidelidad, compatible con iPhone / Android, iPod, iPad, PC, computadora portátil, TV, DVD, etc.
 - 【Lo que obtienes】 Amplificador BL20C x1, antena Bluetooth x1, manual del usuario x1, adaptador de corriente x1, cable de CA x1, garantía de 24 meses sin preocupaciones y servicio al cliente amigable.
 - 【Mini amplificador de 24V / 4.5A y adaptador de corriente】 160 Watt x 2 (98dB SNR, 0.05% THD), incluida una fuente de alimentación de alta calidad de 24V / 4.5A suficiente para activar la mayoría de los altavoces pasivos y el subwoofer.
-- 【Entrada de disco U para una cómoda y portátil】 Entrada de audio del amplificador: disco U / Bluetooth / RCA. Salida de audio: subwoofer autoamplificado + altavoces pasivos. Admite entrada de audio MP3 / WMA / APE / FLAC / WAV U-disk, hasta 32 GB de capacidad.
 - 【Amplificador estéreo Bluetooth 5.0 2.1CH】 El amplificador de audio fosi tiene botones para saltar a la canción anterior / siguiente. Los botones Low y High son fáciles de usar para satisfacer diferentes necesidades.
-- 【Chip TDA7498E clásico】 Obtendrá un sonido claro y claro sin ningún ruido audible incluso a alta potencia. El diseño de circuito avanzado garantiza un sonido de alta fidelidad, compatible con iPhone / Android, iPod, iPad, PC, computadora portátil, TV, DVD, etc.
+- 【Entrada de disco U para una cómoda y portátil】 Entrada de audio del amplificador: disco U / Bluetooth / RCA. Salida de audio: subwoofer autoamplificado + altavoces pasivos. Admite entrada de audio MP3 / WMA / APE / FLAC / WAV U-disk, hasta 32 GB de capacidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077QPTPVW{{</world>}}

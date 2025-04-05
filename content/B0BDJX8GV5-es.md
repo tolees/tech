@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla Super Retina XDR de 6,1 pulgadas.
-- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
 - Modo Acción para grabar vídeos superestables sin trípode
+- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
+- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
+- Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo
 - iOS 16, con más opciones de personalización y formas de comunicarte y compartir
 - Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
-- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
 - Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
-- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
-- Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo
+- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
+- Pantalla Super Retina XDR de 6,1 pulgadas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDJX8GV5{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Protección de Pantalla y Cámara] 2 piezas Cristal templado fabricado con cristal templado 9H superior de alta calidad resistente a arañazos y a prueba de explosiones, protegiendo tu pantalla de arañazos y caídas de alto impacto. La película de protección de la cámara trasera está diseñada para la cámara del iPhone 12 para garantizar la máxima protección de la cámara.
 - [Compatibilidad] Diseñada exclusivamente para ✅ iPhone 12 6,1" (¡NOTA! ❌ No para iPhone 12 Mini / iPhone 12 Pro / iPhone 12 Pro Max) Esta carcasa de TPU con 2 cristales templados y 1 protector de cámara para una protección completa de su teléfono.
+- [Protección de Pantalla y Cámara] 2 piezas Cristal templado fabricado con cristal templado 9H superior de alta calidad resistente a arañazos y a prueba de explosiones, protegiendo tu pantalla de arañazos y caídas de alto impacto. La película de protección de la cámara trasera está diseñada para la cámara del iPhone 12 para garantizar la máxima protección de la cámara.
 - [Funda ultratransparente] Utilizando material de TPU HD de alta calidad, ¡restaura la belleza original de tu iPhone 12! La parte posterior de TPU suave es antioxidante y resistente a los arañazos; el bisel de TPU suave es resistente a golpes y caídas, proporcionando un agarre cómodo.
 - [Ajuste perfecto] La carcasa del teléfono, la lente de la cámara y el protector de pantalla no interfieren entre sí. Envuelve perfectamente el teléfono para evitar el polvo y los arañazos. Fácil acceso a la alimentación, el volumen y todos los puertos, botones y funciones gracias a los recortes precisos.
 - [Protección Completa] El marco flexible de TPU y las cuatro esquinas reforzadas de la Funda para FLLAO iPhone 12 Transparente proporcionan amortiguación de caídas, protección contra impactos y absorción de golpes, creando una doble barrera de protección reforzada para tu iPhone 12.

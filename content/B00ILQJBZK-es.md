@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología de hiperprocesamiento CORSAIR AXON: Transmite sus movimientos y clics al PC hasta ocho veces más rápido que los ratones para juegos convencionales, con un sondeo de 8.000 Hz
-- Ligero y rápido: Con un peso de tan solo 69 g para soportar movimientos rápidos y reflejos de jugador profesional, el robusto diseño del SABRE PRO está a la altura de sus jornadas
-- Botones del CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores hace que todos sus clics, disparos
-- Sensor óptico de 18.000 PPP nativos: Su sensor PixArt PMW3392, con un seguimiento de 450 IPS a una aceleración de hasta 50 G, ofrece una precisión insuperable y completamente personalizable
 - Diseño de campeones: Los productos CORSAIR CHAMPION SERIES han sido diseñados y probados por los mejores profesionales de eSports, lo que le ayudará a alcanzar la victoria
 - Cable Paracord para reducir el arrastre: Un cable de tejido Paracord extremadamente ligero y flexible reduce drásticamente el arrastre para que los movimientos del ratón sean fluidos y ágiles
+- Botones del CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores hace que todos sus clics, disparos
+- Tecnología de hiperprocesamiento CORSAIR AXON: Transmite sus movimientos y clics al PC hasta ocho veces más rápido que los ratones para juegos convencionales, con un sondeo de 8.000 Hz
+- Ligero y rápido: Con un peso de tan solo 69 g para soportar movimientos rápidos y reflejos de jugador profesional, el robusto diseño del SABRE PRO está a la altura de sus jornadas
+- Sensor óptico de 18.000 PPP nativos: Su sensor PixArt PMW3392, con un seguimiento de 450 IPS a una aceleración de hasta 50 G, ofrece una precisión insuperable y completamente personalizable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ILQJBZK{{</world>}}

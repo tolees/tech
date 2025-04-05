@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Procesador Intel Core i5-12400F
 - Sin sistema operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 SUPER 4 GB GDDR6
 - Memoria RAM de 16 GB 2 x 8 GB UDI mm DDR4-3200 ampliables hasta 32 GB
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 SUPER 4 GB GDDR6
 - Almacenamiento de 512 GB SSD
 - Peso, 8,4 kilograms
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pequeño pero potente: al reemplazar silicio por nitruro de galio (GaN), pudimos incorporar 30 W de potencia en un cargador diminuto de 2,8 cm de grosor y un 70 % más pequeño que un cargador original de 30 W.
 - Contenido del envío: un cargador Anker 511 (Nano 3, 30 W), un manual de instrucciones (idioma español no garantizado). (El cable de carga no está incluido en el envío).
 - Necesario para Nano: mejorado con una potencia de salida de 30 W, para que puedas cargar tus auriculares, smartphones, tabletas e incluso tu MacBook Air con un cargador ligero como una pluma.
 - Protección de carga con Active Shield 2.0: la tecnología de carga patentada de Anker protege tus dispositivos mediante el monitoreo inteligente de la temperatura de carga más de 3 millones de veces al día, que es el doble de veces en comparación con ActiveShield 1.0.
+- Pequeño pero potente: al reemplazar silicio por nitruro de galio (GaN), pudimos incorporar 30 W de potencia en un cargador diminuto de 2,8 cm de grosor y un 70 % más pequeño que un cargador original de 30 W.
 - Potencia de carga de alta velocidad: carga tu iPhone 15 Pro y Pro Max con 30 W a máxima velocidad o carga tu iPad Air (5º generación) hasta el 50 % de batería en sólo 45 minutos. También es compatible con Samsung Super Fast Charging (25 W).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

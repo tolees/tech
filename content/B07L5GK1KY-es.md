@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se lee como en papel impreso gracias a la última tecnología E-Ink.
 - Nuestra mejor pantalla Paperwhite de 7 pulgadas con resolución de 300 ppp y diseño frontal sin bordes.
 - Acceso instantáneo a millones de libros.
-- Se lee como en papel impreso gracias a la última tecnología E-Ink.
-- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Resistente al agua (IPX8) para que puedas leer en la bañera o en la piscina. El Kindle ha sido probado para resistir una inmersión accidental en el agua.
+- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Diseño fino, ligero y ergonómico con botones de paso de página.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

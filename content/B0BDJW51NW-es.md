@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo
-- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
-- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
 - Sistema avanzado de cámaras para hacer mejores fotos con cualquier luz
 - Modo Acción para grabar vídeos superestables sin trípode
+- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo
+- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
+- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
 - Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
-- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
+- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Pantalla Super Retina XDR de 6,7 pulgadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

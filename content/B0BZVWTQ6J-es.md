@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【PD 45W Fast Charge】Soporta una potente entrada PD de 45W, para una carga completa en solo 2 horas con un adaptador de corriente PD 3.0 de 45W, adaptadores de corriente USB C PD/QC 3.0 de 18W en solo 6 horas, adaptador de corriente estándar de 5V-2A en 11 horas.
-- 【20W PD & QC 3.0 Quick Charge】Todas las salidas soportan la carga rápida de varios dispositivos móviles, y la velocidad de carga es 4 veces más rápida que otras baterías tradicionales. También puede cargar 3 dispositivos al mismo tiempo gracias a sus diferentes salidas (100 W en total).
+- 【100W carga rápida】La salida de 100W PD carga perfectamente su MacBook Pro, así como el cargador original. Proporciona suficiente potencia para cargar portátiles como MacBook/MacBook Pro/MacBook Air, y también es perfecto para algunos teléfonos PD como iPhones.
 - 【20000mAh capacity】La batería externa de polímero de litio de alta calidad es perfecta para MacBooks, tablets y smartphones. Carga iPhone 14 durante 4,5 veces, Galaxy S23 durante 4 veces, Ipad Mini 6 durante 3 veces, MacBook pro 2020 durante 2 veces. (Recomendamos utilizar el cable original para cargar su dispositivo)
 - 【Carga de baja corriente y compatibilidad】Función avanzada de carga de baja corriente, especialmente perfecta para auriculares inalámbricos Bluetooth con baja corriente (menos de 60 mA). Altamente compatible con la mayoría de NoteBook Type-C, MacBook, iPhone.
-- 【100W carga rápida】La salida de 100W PD carga perfectamente su MacBook Pro, así como el cargador original. Proporciona suficiente potencia para cargar portátiles como MacBook/MacBook Pro/MacBook Air, y también es perfecto para algunos teléfonos PD como iPhones.
+- 【PD 45W Fast Charge】Soporta una potente entrada PD de 45W, para una carga completa en solo 2 horas con un adaptador de corriente PD 3.0 de 45W, adaptadores de corriente USB C PD/QC 3.0 de 18W en solo 6 horas, adaptador de corriente estándar de 5V-2A en 11 horas.
+- 【20W PD & QC 3.0 Quick Charge】Todas las salidas soportan la carga rápida de varios dispositivos móviles, y la velocidad de carga es 4 veces más rápida que otras baterías tradicionales. También puede cargar 3 dispositivos al mismo tiempo gracias a sus diferentes salidas (100 W en total).
 - 【Lo que obtienes】20000 mAh de batería externa x1, cable de carga USB C x1 , bolsa de transporte x1, guía de bienvenida x1.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

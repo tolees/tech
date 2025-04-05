@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Construcción estable en forma de Z: este escritorio de juego cuenta con una innovadora estructura en forma de Z que mejora la estabilidad manteniendo la estética. Toda la mesa tiene una capacidad de peso de 60 kg y las patas se extienden hacia arriba y hacia abajo 1 cm para que puedas ajustar la altura según tus necesidades
+- Varios tamaños: ofrecemos mesas de juego de 120 cm/140 cm/160 cm, puedes elegir el tamaño correcto según tus necesidades y disfrutar de tu tiempo de juego
 - Luces RGB con mando a distancia: las tiras de luz en ambos lados tienen varios modos de flash. Puede usar el control remoto para ajustar los colores y los modos de flash de las tiras de luz según sus preferencias, creando una atmósfera de juego genial y brindándole una experiencia de juego sin precedentes
 - Accesorios completos: el escritorio viene con una alfombrilla de ratón, un portavasos y un gancho para auriculares para evitar cualquier desorden en la mesa. Crea un entorno de juego sin restricciones de espacio. Así podrás disfrutar plenamente del juego
-- Varios tamaños: ofrecemos mesas de juego de 120 cm/140 cm/160 cm, puedes elegir el tamaño correcto según tus necesidades y disfrutar de tu tiempo de juego
 - Bandeja de fibra de carbono: La bandeja está hecha de fibra de carbono de alta calidad. Es impermeable, resistente al calor, a los arañazos y muy fácil de limpiar. Una experiencia perfecta. El material de fibra de carbono coincide con la iluminación RGB, el efecto visual es excelente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

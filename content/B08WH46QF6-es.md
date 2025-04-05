@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ILUMINACIÓN RGB: A través de fibra óptica flexible, te ofrece 12 modos para potenciar la estética del escritorio y personalizarlo a tu gusto
 - DISEÑO GAMING XXL: La Alfombrilla MMPRGB2S cuenta con un diseño XXL con superficie optimizada para ofrecerte un deslizamiento ideal del ratón y libertad total de movimiento
 - BORDES OPTIMIZADOS: Los bordes de la alfombrilla han sido reforzados con nylon y un sistema de iluminación resistente; La superficie está diseñada con material nanotextil y para ofrecerte una mayor estabilidad, la base cuenta con un grosor extra
+- ILUMINACIÓN RGB: A través de fibra óptica flexible, te ofrece 12 modos para potenciar la estética del escritorio y personalizarlo a tu gusto
 - HUB DE CONTROL: Con 2 puertos USB 2.0; Permite la conexión de 2 periféricos extra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

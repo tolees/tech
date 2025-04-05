@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para prosumidores y profesionales que disparan con cámaras MIL y de cine
 - Ahorra tiempo con las descargas de tarjetas que alcanzan velocidades de transferencia de hasta 280 MB/s (hasta 280 MB/s de velocidad de lectura). Basa
 - Almacene más archivos de alta resolución con opciones de capacidad de hasta 256 GB (1 GB = 1.000.000.000 bytes. Almacenamiento real del usuario menos.
+- Para prosumidores y profesionales que disparan con cámaras MIL y de cine
 - Captura imágenes superlativas en modo ráfaga continua y lapso de tiempo con velocidades de disparo de hasta 150 MB/s (hasta 150 MB/s de velocidad de e
 - Graba 6K y 4K UHD con calidad de cine con clasificación de video Speed Class 60 (Full HD (1920 x 1080), 4K UHD (3840 x 2160) y 6K (6144 x 3160) soport
 

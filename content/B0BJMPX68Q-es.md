@@ -29,15 +29,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalla Liquid Retina XDR de 12,9 pulgadas1 con ProMotion, tecnología True Tone y gama cromática amplia (P3)
+- Conexión Wi-Fi 6E superveloz
+- Autonomía para un día entero
+- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
+- Compatibilidad con el puntero flotante del Apple Pencil para mayor precisión al tomar notas y dibujar
+- Conector USB C compatible con Thunderbolt/USB 4
+- Face ID para autenticarse de forma segura y usar Apple Pay
 - Gran angular de 12 Mpx, ultra gran angular trasero de 10 Mpx y escáner LiDAR para disfrutar de la realidad aumentada
 - Compatibilidad con el Apple Pencil (2.ª generación), el Magic Keyboard y el Smart Keyboard Folio
 - Chip M2 con CPU de 8 núcleos y GPU de 10 núcleos
-- Compatibilidad con el puntero flotante del Apple Pencil para mayor precisión al tomar notas y dibujar
-- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
-- Face ID para autenticarse de forma segura y usar Apple Pay
-- Conexión Wi-Fi 6E superveloz
-- Autonomía para un día entero
-- Conector USB C compatible con Thunderbolt/USB 4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJMPX68Q{{</world>}}

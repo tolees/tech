@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos años de garantía ante defectos de fábrica.
 - Producto original de marca.
+- Dos años de garantía ante defectos de fábrica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QLCXMV4{{</world>}}

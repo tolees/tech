@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatibilidad con PS4 y PC con Windows
 - Diseño ergonomico
+- Compatibilidad con PS4 y PC con Windows
 - Conexion por cable USB
 - Disposicion de botones y sticks simetricos (al igual que Playstation 4)
 - Color azul

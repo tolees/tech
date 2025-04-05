@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llamadas fáciles con manos libres y acceso a tu asistente de voz
 - Adapta tu sonido con el ecualizador de la aplicación Sony | Headphones Connect
-- Disfruta de hasta 25 horas de autonomía de la batería con estos auriculares Bluetooth
+- Llamadas fáciles con manos libres y acceso a tu asistente de voz
 - La música suena natural en estos auriculares internos, gracias a nuestro Digital Sound Enhancement Engine
+- Disfruta de hasta 25 horas de autonomía de la batería con estos auriculares Bluetooth
 - Resistencia al agua IPX4 - las salpicaduras y el sudor no son un problema para estos auriculares Sony
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

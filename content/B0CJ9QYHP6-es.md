@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin Sistema Operativo
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR5-4800)
-- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 95W
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
 - Procesador Intel Core i5-12450H, 8C (4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB
+- Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 95W
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR5-4800)
 - Pantalla de 15.6 pulgadas FullHD 1920x1080 píxeles, IPS, 350nits, 144Hz, G-SYNC
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ9QYHP6{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i5-1335U de 13.ª generación (caché de 12 MB, hasta 4,6 GHz)
-- Pantalla FHD+ (1920 x 1200) 16:10 de 35,6 cm (14") con función táctil, 250 nits, WVA, compatible con ComfortView
-- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
 - Sistema Operativo: Windows 11
+- Procesador Intel Core i5-1335U de 13.ª generación (caché de 12 MB, hasta 4,6 GHz)
+- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
 - Tarjeta gráfica Intel Iris Xe
 - Memoria integrada LPDDR5 de 8 GB a 4800 MHz
+- Pantalla FHD+ (1920 x 1200) 16:10 de 35,6 cm (14") con función táctil, 250 nits, WVA, compatible con ComfortView
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7HFYDL7{{</world>}}

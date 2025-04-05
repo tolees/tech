@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [ Ethernet Gigabit y USB 3.0 ] Este hub USB C añade a su Steam Deck dos puertos USB A 3.0, un puerto USB C. Así que puede conectar cualquier USB A o USB C periférico como disco duro, usb memoria, teclado, ratón, pendrive, ect, y disfrutará de una velocidad de transmisión hasta 5Gbps. El puerto Ethernet ofrece la velocidad de hasta 1000 Mbps que le permite jugar juegos sin latencia.
-- [ 100W USB C PD Carga ] Este adaptador USB C dock cuenta con una entrada hembra USB C que soporta la carga PD hasta 100W, puede conectar un adaptador de corriente PD para alimentar su Steam Deck para garantizar una transmisión de datos estable y proporcionar suficiente energía para un uso a largo plazo.
-- [ Dock Diseñado para Steam Deck ] El USB C Dock expande múltiples puertos para su Steam Deck/ ROG Ally, 2 puertos USB A 3.0 y un puerto USB C, 4K HDMI, Gigabit Ethernet RJ45, USB C PD carga. Buena construcción es ideal para sujetar Steam Deck de forma segura. El conector tipo C de 90 grados es perfecto para conectar a Steam Deck, evitando cortes en el cable por tener que doblar el cable.
-- [ 4K 60Hz UHD HDMI ] Este hub USB C HDMI admite resoluciones de hasta 4K 60Hz. Ideal para disfrutar de los juegos en una pantalla más grande.
 - [ Amplia Compatibilidad ] Este docking station USB C no sólo soporta Steam Deck, sino que también es compatible con los dispositivos que tengan el puerto USB C que soporta la salida de vídeo, tales como MacBook Pro M2 2023 2022 M1 2021 2020 2019, MacBook Air M2 2022 M1 2020 2018, iPad Pro M2 2022, iPad Air 2022, iMac 24 2021, Mac Mini 2023, Lenovo Yoga 920 / 720 / thinkpad X1, Dell XPS 13" 15", Surface Pro 9 8, Surface book 2, Go Surface, Galaxy S23 / S22 / S21, Huawei Matebook X Pro.
+- [ 4K 60Hz UHD HDMI ] Este hub USB C HDMI admite resoluciones de hasta 4K 60Hz. Ideal para disfrutar de los juegos en una pantalla más grande.
+- [ Ethernet Gigabit y USB 3.0 ] Este hub USB C añade a su Steam Deck dos puertos USB A 3.0, un puerto USB C. Así que puede conectar cualquier USB A o USB C periférico como disco duro, usb memoria, teclado, ratón, pendrive, ect, y disfrutará de una velocidad de transmisión hasta 5Gbps. El puerto Ethernet ofrece la velocidad de hasta 1000 Mbps que le permite jugar juegos sin latencia.
+- [ Dock Diseñado para Steam Deck ] El USB C Dock expande múltiples puertos para su Steam Deck/ ROG Ally, 2 puertos USB A 3.0 y un puerto USB C, 4K HDMI, Gigabit Ethernet RJ45, USB C PD carga. Buena construcción es ideal para sujetar Steam Deck de forma segura. El conector tipo C de 90 grados es perfecto para conectar a Steam Deck, evitando cortes en el cable por tener que doblar el cable.
+- [ 100W USB C PD Carga ] Este adaptador USB C dock cuenta con una entrada hembra USB C que soporta la carga PD hasta 100W, puede conectar un adaptador de corriente PD para alimentar su Steam Deck para garantizar una transmisión de datos estable y proporcionar suficiente energía para un uso a largo plazo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQB6VG39{{</world>}}

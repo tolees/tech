@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin gluten
 - Disfruta del auténtico sabor a chocolate a la taza tradicional
 - Calentar y listo para tomar
 - Tiene la tradicional textura espesa del chocolate a la taza
-- Sin gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBDWWU{{</world>}}

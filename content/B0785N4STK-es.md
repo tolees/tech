@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plug and Play, LED de Señal azul indica buena conexión, y rojo indica mala conexión, fácil configuración
-- Compatible con todos los Routers, gran capacidad de traspasar paredes fuertes en banda de 5 GHz
-- 2 Antenas omni-directional amplía las redes WiFi tanto en las bandas de 2,4 GHz como de 5 GHz
 - Identifica la mejor banda de conexión automaticamente para una experiencia de conexion estable, confiable y rápida
 - Puerto LAN 100Mbps puedes conectar A18 por cable y ampliar su red wifi existente, para TV, Xbox, PS
+- Plug and Play, LED de Señal azul indica buena conexión, y rojo indica mala conexión, fácil configuración
+- Compatible con todos los Routers, gran capacidad de traspasar paredes fuertes en banda de 5 GHz
 - A18 AC1200 WiFi repetidor doble banda para casas de dos plantas, villas y casas de varias habitaciones areas de 200 metros cuadrados
+- 2 Antenas omni-directional amplía las redes WiFi tanto en las bandas de 2,4 GHz como de 5 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0785N4STK{{</world>}}

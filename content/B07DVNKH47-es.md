@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 010-01987-03
 - negro
+- 010-01987-03
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DVNKH47{{</world>}}

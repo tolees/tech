@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con las impresoras Canon Bubble Jet - PRO 9000, Canon PIXMA - iP6600D/iP6700D/MP950/MP970
 - Número de páginas impresas: 450
+- Compatible con las impresoras Canon Bubble Jet - PRO 9000, Canon PIXMA - iP6600D/iP6700D/MP950/MP970
 - Contenido de 13 ml
 - Tecnología de impresión: inyección de tinta
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño y acabados óptimo con marcos slim
-- Chromecast Integrado: envía los contenidos de tu móvil directamente a la pantalla del televisor
 - Android TV: todas tus apps de contenidos en streaming disponibles en Google Play
+- Chromecast Integrado: envía los contenidos de tu móvil directamente a la pantalla del televisor
 - Compatible con montaje en pared - VESA: 200 x 200 M6
 - Pantalla con resolución 4K Ultra HD - Potenciación de los colores con tecnología de imagen HDR10
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Funciona con Chromebook: ratón probado y certificado como Works With Chromebook (2), lo que significa que cumple con los estándares de compatibilidad de Google y funciona con tu Chromebook
-- Simplicidad Plug and Play: solo tienes que conectar el USB a tu portátil o PC y empezar a trabajar en segundos; el receptor proporciona una conexión inalámbrica fiable en un radio de hasta 10m (3)
 - Versátil y compacto: ratón pequeño y portátil compatible con Windows, macOS, Chrome OS y Linux. Tamaño y forma compactos que se adaptan fácilmente al maletín del portátil o a una bolsa
+- Simplicidad Plug and Play: solo tienes que conectar el USB a tu portátil o PC y empezar a trabajar en segundos; el receptor proporciona una conexión inalámbrica fiable en un radio de hasta 10m (3)
 - Batería de larga Duración: este ratón de ordenador inalámbrico puede durar todo un año sin tener que cambiar las pilas (1)
 - En Casa o en la Oficina: pequeño y portátil, el M235 es igualmente adecuado para trabajar en casa, en la oficina o sobre la marcha
 - Diseño Cómodo y Compacto: con sus suaves agarres de goma y su forma contorneada, este ratón de ordenador hará que te sientas cómodo tanto con la mano derecha como con la izquierda

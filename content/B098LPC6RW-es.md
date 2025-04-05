@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tamaño pequeño, gran capacidad: el diseño único del tanque de agua expandible ofrece hasta 3 veces más capacidad que los deshumidificadores convencionales.
 - Ganador del German Innovation Award ‘21: un premio a las innovaciones que hacen avanzar la industria a través de su originalidad, implementación y eficiencia.
-- Control inteligente: control desde cualquier lugar y en cualquier momento. La aplicación exclusiva HumidLive permite el monitoreo remoto en tiempo real.
-- Deshumidificación continua: El Midea Cube está equipado con una manguera de drenaje. El agua se puede descargar continuamente a través de la manguera, p. Ej. en un fregadero.
 - Apto para lavaderos, sótanos, etc. Garantía de 3 años. Número WEEE: DE55703080
+- Deshumidificación continua: El Midea Cube está equipado con una manguera de drenaje. El agua se puede descargar continuamente a través de la manguera, p. Ej. en un fregadero.
+- Control inteligente: control desde cualquier lugar y en cualquier momento. La aplicación exclusiva HumidLive permite el monitoreo remoto en tiempo real.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098LPC6RW{{</world>}}

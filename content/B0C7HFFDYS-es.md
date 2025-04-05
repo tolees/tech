@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i3-1115G4 de 11.ª generación (6 MB de caché, 4,1 GHz)
-- Pantalla de 15,6", FHD 1920 x 1080, 120 Hz, WVA, no táctil, antirreflejo, 250 nit, borde estrecho, retroiluminación LED.
-- Memoria DDR4 de 8 GB, 1 de 8 GB a 3200 MHz
-- SSD NVMe PCIe M.2 de 256 GB
-- Sistema Operativo : Windows 11 Home
 - Tarjeta gráfica Intel UHD
+- Memoria DDR4 de 8 GB, 1 de 8 GB a 3200 MHz
+- Procesador Intel Core i3-1115G4 de 11.ª generación (6 MB de caché, 4,1 GHz)
+- Sistema Operativo : Windows 11 Home
+- SSD NVMe PCIe M.2 de 256 GB
+- Pantalla de 15,6", FHD 1920 x 1080, 120 Hz, WVA, no táctil, antirreflejo, 250 nit, borde estrecho, retroiluminación LED.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7HFFDYS{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gráficos óptimos y una música cautivadora
 - Usa herramientas, escabúllete, lucha o desata un infierno de ratas
-- Una historia, retorcida por las fuerzas sobrenaturales
+- Gráficos óptimos y una música cautivadora
 - La secuela de la premiada aventura A Plague Tale: Innocence
+- Una historia, retorcida por las fuerzas sobrenaturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VCPYGGC{{</world>}}

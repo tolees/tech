@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - NVIDIA GeForce RTX 4060
-- Windows 11 Home
 - Intel Core Ultra 7 155H
-- 16 GB DDR5
-- 16-Inch 2.5K 2560x1600 Non-Touch Anti-Glare 300 Nits Display
 - 1 TB SSD
+- 16-Inch 2.5K 2560x1600 Non-Touch Anti-Glare 300 Nits Display
+- Windows 11 Home
+- 16 GB DDR5
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTBX1RK{{</world>}}

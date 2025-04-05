@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Tarjeta gráfica NVIDIA GeForce RTX 2050 4GB
-- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
 - Sin Sistema Operativo
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRSQ3FYP{{</world>}}

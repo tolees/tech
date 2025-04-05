@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Chasis metalico (Peso 1.5K)
 - Procesador Intel Core i7-7567U, 3.5Ghz hasta 4Ghz
+- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
+- Almacenamiento de 256GB SSD
 - Memoria RAM de 8GB LPDDR4
 - Sistema Operativo: Windows 10
-- Chasis metalico (Peso 1.5K)
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Almacenamiento de 256GB SSD
-- Pantalla de 15.6", FullHD- 1920 x 1080 pixeles IPS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WH6RNJW{{</world>}}

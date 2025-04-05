@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Almacenamiento de datos SSD de 512 GB PCIe VMe M.2
 - Sistema operativo Windows 11 Home
-- Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Memoria RAM LPDDR5-5500 MHz 16 GB (integrada)
+- Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Gráficos Integrados AMD Radeon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

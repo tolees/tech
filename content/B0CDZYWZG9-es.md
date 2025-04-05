@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CPU: AMD Ryzen Z1 (Zen4 4nm etch - 8 núcleos / 16 hilos - 24MB Cache - hasta 5.10Ghz)
-- RAM: 16 GB DDR5
-- Almacenamiento: 512 GB NVMe PCIe Gen4
 - IGPU: AMD Radeon (RDNA 3 - hasta 2.7Ghz - hasta 8.6 Teraflops)
+- CPU: AMD Ryzen Z1 (Zen4 4nm etch - 8 núcleos / 16 hilos - 24MB Cache - hasta 5.10Ghz)
+- Almacenamiento: 512 GB NVMe PCIe Gen4
+- RAM: 16 GB DDR5
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDZYWZG9{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido: 1x Samsung Galaxy Book2, Ordenador portátil de 15,6", 8 GB RAM, 521 GB, i5-1235U 12th Gen, Windows 11 Home, Teclado: QWERTY Español, Color: Plata
+- Tarjeta gráfica: Intel UHD, Intel Iris Xe
 - Memoria RAM de 8 GB LPDDR4x, Almacenamiento de 512 GB NVMe SSD
+- Sistema Operativo: Windows 11 Home
 - Pantalla de 15,6"Full HD, DCI-P3 120%, HDR 500, Eye Care Display
 - Procesador Intel Core i5-1235U 12th Gen
-- Tarjeta gráfica: Intel UHD, Intel Iris Xe
-- Contenido: 1x Samsung Galaxy Book2, Ordenador portátil de 15,6", 8 GB RAM, 521 GB, i5-1235U 12th Gen, Windows 11 Home, Teclado: QWERTY Español, Color: Plata
-- Sistema Operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7ZRVR9L{{</world>}}

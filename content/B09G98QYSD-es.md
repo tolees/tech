@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
 - Diseño robusto con Ceramic Shield
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
 - Hasta 19 horas de reproducción de vídeo
-- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
-- Conexión 5G para descargas superveloces y streaming en alta calidad
 - Chip A15 Bionic para un rendimiento ultrarrápido
+- Conexión 5G para descargas superveloces y streaming en alta calidad
 - Resistencia al agua IP68, líder en el sector
+- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
 - Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - Pantalla Super Retina XDR de 6,1 pulgadas
 

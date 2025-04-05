@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puertos: 2xHDMI, 1x DP, 1x USB-C 3.2 Gen 2, 2x USB-A 3.2 Gen 1, 1x USB 3.2 Gen 1 (Type-C)
-- Ajuste de inclinación (-5° / 22°)
-- Relación de aspecto 16:9 y relación de contraste 1300:1
-- AMD FreeSync
-- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Soporte VESA para montar la pantalla en la pared
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 60Hz
 - Pantalla de 27, resolución 4K UHD, 3840x2160 píxeles, IPS, 4ms, 60Hz, antirreflejos. Precisión del color sRGB al 99 percent, y DCI-P3 al 98 percent
-- Cables HDMI, DP, USB-C Gen 2 incluidos en la caja
+- Relación de aspecto 16:9 y relación de contraste 1300:1
+- Ajuste de inclinación (-5° / 22°)
+- AMD FreeSync
 - Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Cables HDMI, DP, USB-C Gen 2 incluidos en la caja
+- Puertos: 2xHDMI, 1x DP, 1x USB-C 3.2 Gen 2, 2x USB-A 3.2 Gen 1, 1x USB 3.2 Gen 1 (Type-C)
+- Tecnología Eye Comfort para la protección de los ojos contra la luz azul
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 60Hz
+- Soporte VESA para montar la pantalla en la pared
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R3RKXV6{{</world>}}

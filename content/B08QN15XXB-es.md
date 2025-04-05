@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vataje (W): 0.7 watts
-- Entrada AUX y USB
-- Radio digital de alta calidad con transmisión Bluetooth
 - Radio DAB y FM
+- Entrada AUX y USB
 - Sonido ruark suave
+- Radio digital de alta calidad con transmisión Bluetooth
+- Vataje (W): 0.7 watts
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QN15XXB{{</world>}}

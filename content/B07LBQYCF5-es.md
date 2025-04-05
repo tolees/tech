@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODELO HP EliteDesk800 G1 SFF
-- Diseñado en color negro
 - Ordenador de sobremesa
 - Con lector DVD
+- Diseñado en color negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LBQYCF5{{</world>}}

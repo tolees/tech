@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Memoria RAM de 16GB Soldered LPDDR4x-4266
 - Procesador AMD Ryzen 7 5700U (8C / 16T, 1.8 / 4.3GHz, 4MB L2 / 8MB L3)
 - Pantalla táctil de 14" WUXGA (1920x1200), IPS, 300nits, glossy
 - Tarjeta gráfica integrada AMD Radeon Graphics
+- Memoria RAM de 16GB Soldered LPDDR4x-4266
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSVGFV8L{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de botón dividido con gran respuesta
-- Partes traseras de PTFE de grado virgen puro
 - Diseño con carcasa hexagonal ultraligera, Sensor Pixart 3335
+- Partes traseras de PTFE de grado virgen puro
 - Cable HyperFlex, Microteclas a prueba de polvo TTC Golden
+- Diseño de botón dividido con gran respuesta
 - Cinta de agarre incluida, Personalizable con el software HyperX NGENUITY
 
 [🛒 Aquí!!!]({{< param buyurl >}})

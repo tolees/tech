@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño delgado y moderno
 - Fácil de instalar
+- Diseño delgado y moderno
 - Control automático del brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

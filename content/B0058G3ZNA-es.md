@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
-- El autoenfoque rápido y silencioso es adecuado para una sutil grabación de vídeos y fotos
-- Alcance del suministro: objetivo, tapa del objetivo LC-37B, tapa del objetivo trasera para objetivos Micro Cuatro Tercios (LR-2), anillo de decoración del objetivo (DR-40), manual, tarjeta de garantía
-- Ámbitos de aplicación: paisaje, viaje, arquitectura y retrato; equivalente a un objetivo de 28 - 84 mm, 35 mm
 - El zoom 3x con calidad de imagen se presenta con confianza para la fotografía de paisajes, calles y retratos, por lo que es el compañero adecuado en cada situación fotográfica
+- Alcance del suministro: objetivo, tapa del objetivo LC-37B, tapa del objetivo trasera para objetivos Micro Cuatro Tercios (LR-2), anillo de decoración del objetivo (DR-40), manual, tarjeta de garantía
+- El autoenfoque rápido y silencioso es adecuado para una sutil grabación de vídeos y fotos
+- Ámbitos de aplicación: paisaje, viaje, arquitectura y retrato; equivalente a un objetivo de 28 - 84 mm, 35 mm
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0058G3ZNA{{</world>}}

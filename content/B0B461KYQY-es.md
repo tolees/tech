@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño elegante, ligero y suave al tacto
 - Sensor de huellas dactilares trasero
+- Diseño elegante, ligero y suave al tacto
 - Incluye una ranura para tarjetas microSD y admite almacenamiento ampliable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

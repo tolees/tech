@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conector USB
+- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
+- KB901 es un teclado con 104 teclas
 - Se presenta en un elegante color negro mate ideal para utilizarlo tanto en entornos de trabajo como en el hogar
+- Conector USB
 - Longitud del cable: 1450 mm
 - Sus teclas planas elevadas y sus patillas de elevación facilitan el proceso de escritura
-- KB901 es un teclado con 104 teclas
-- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
 - Mecanismo: Membrana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

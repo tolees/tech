@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Memoria RAM DDR4-2400 MHz 8 GB (1 x 8 GB)
 - Sistema Operativo: Windows 11
-- Pantalla táctil Convertible de 13,3 Full HD 1920 x 1080 píxeles
-- Procesador Intel Core i5-1135G7 (hasta 4,2 GHz con tecnología Intel Turbo Boost)
-- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Gráficos integrados Intel Iris Xe
+- Pantalla táctil Convertible de 13,3 Full HD 1920 x 1080 píxeles
+- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
+- Procesador Intel Core i5-1135G7 (hasta 4,2 GHz con tecnología Intel Turbo Boost)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BJZYRBB{{</world>}}

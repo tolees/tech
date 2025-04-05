@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Recambio Original Panasonic: Garantía de producto original de la marca Panasonic, para sus cámaras digitales Lumix G
-- Batería recargable de Iones de Litio: 7.2 V y 2200 mAh para cámaras digitales
 - Batería compatible: Lumix S5II, S5IIX, S5, G6, GH5II, GH5, GH5S, G9
+- Batería recargable de Iones de Litio: 7.2 V y 2200 mAh para cámaras digitales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HGT2JQT{{</world>}}

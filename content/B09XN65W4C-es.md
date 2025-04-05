@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto coleccionable
-- Taza fabricada en cerámica
-- Taza Marvel Guardianes de la Galaxia
 - Óptimo para regalar
+- Taza fabricada en cerámica
+- Producto coleccionable
+- Taza Marvel Guardianes de la Galaxia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XN65W4C{{</world>}}

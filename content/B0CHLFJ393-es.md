@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Memoria de 1 TB, M.2, PCIe NVMe, SSD
 - Sistema operativo: Windows 11 Home
 - Procesador Intel Core i7-13620H de 13.ª generación (caché de 24 MB, 4,9 GHz)
-- Memoria de 1 TB, M.2, PCIe NVMe, SSD
 - Gráficos NVIDIA GeForce RTX 3050
 - Pantalla WVA de 14,0 pulgadas, 16:10, 2,5 K (2560 x 1600), 90 Hz, antirreflejo, no táctil, 300 nits con ComfortView Plus
 

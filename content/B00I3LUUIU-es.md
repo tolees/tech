@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diafragmas de neodimio de 9 mm para un sonido dinámico
-- Rango de frecuencia de 5-24.000 Hz
 - Impedancia: 16 ohmios
 - Cómodos tapones de auricular de silicona de ajuste seguro
 - Cable de 1.2 m longitud en forma de Y
+- Rango de frecuencia de 5-24.000 Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00I3LUUIU{{</world>}}

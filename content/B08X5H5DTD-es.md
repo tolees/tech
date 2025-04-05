@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puedes convertir tu instalación Legrand actual en una conectada simplemente reemplazando la unidad interior sin realizar cambios estructurales.
-- Pantalla de 7" a color, con conexión Wi-fi (sin necesidad de cableado al router) y manos libres, acabado blanco
 - Contesta o abre la puerta desde tu smartphone
+- Pantalla de 7" a color, con conexión Wi-fi (sin necesidad de cableado al router) y manos libres, acabado blanco
 - Función manos libres, activa el panel de entrada, visualiza quien llama, abre puerta y portón y enciende la luz de tu escalera.
 - Montaje en superficie con una fuente de alimentación enchufable.
 

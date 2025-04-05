@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Red 2G: GSM 850/900/1800/1900 - SIM 1 y SIM 2
-- - Red 4G: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
-- - Tipo SIM: SIM dual híbrida (nano-SIM, doble modo de espera)
 - Garantía de dos años contra defectos de fabricación.
-- - Tipo: smartphone
-- Producto original de la marca.
-- 6941812759271
 - - Red 3G: HSDPA 850/900/2100
+- 6941812759271
+- - Red 4G: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
+- - Red 2G: GSM 850/900/1800/1900 - SIM 1 y SIM 2
+- - Tipo SIM: SIM dual híbrida (nano-SIM, doble modo de espera)
+- Producto original de la marca.
+- - Tipo: smartphone
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR5PRBVW{{</world>}}

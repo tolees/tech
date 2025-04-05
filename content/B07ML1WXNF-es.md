@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria RAM de 16GB en placa LPDDR5
-- Sistema Operativo: Windows 11 Home
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Pantalla de 13.3" WQXGA+ 2880 x 1800 pixeles OLED
+- Sistema Operativo: Windows 11 Home
 - Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

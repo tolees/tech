@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- LED: Con un panel frontal iluminado que ofrece múltiples juegos de luces para adaptarse a cualquier ocasión, cree ambiente en cualquier fiesta.
 - CONEXIONES: Da rienda suelta al DJ que llevas dentro con la gama de conexiones: Bluetooth, USB, MICRO-SD, JACK de 3,5 mm (incluido).
+- CARACTERÍSTICAS: Personalice su experiencia de sonido con los controles de graves y agudos, REC y anulación, control de eco y micrófono y TWS del MERCURE50. El TWS permite conectar dos altavoces MERCURE50 para duplicar la potencia de sonido.
 - PORTÁTIL: Con su asa y su batería recargable incorporada, escuche su música en cualquier lugar, sin tener que preocuparse por el lugar o la duración de sus fiestas.
 - MERCURE50: Experimente la calidad de Ibiza Sound en sus fiestas con el MERCURE50, sus dos woofers de 20 cm/8" y su panel frontal iluminado.
-- CARACTERÍSTICAS: Personalice su experiencia de sonido con los controles de graves y agudos, REC y anulación, control de eco y micrófono y TWS del MERCURE50. El TWS permite conectar dos altavoces MERCURE50 para duplicar la potencia de sonido.
-- LED: Con un panel frontal iluminado que ofrece múltiples juegos de luces para adaptarse a cualquier ocasión, cree ambiente en cualquier fiesta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGKDPXB{{</world>}}

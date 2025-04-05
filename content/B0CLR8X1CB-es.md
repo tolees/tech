@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Compatible con Zigbee 3.0】】Soporta concentradores Zigbee utilizando el protocolo Zigbee 3.0, y teóricamente soporta añadir a cualquier concentrador Zigbee desarrollado de acuerdo con los protocolos Zigbee 3.0. Como SONOFF NSPanel Pro, ZB Bridge Pro, y ZBDongle-E.
-- 【Botón de Emergencia】SNZB-01P se puede utilizar como un botón de emergencia cuando ocurre una emergencia, su familia puede presionar el botón para enviar una notificación de alerta a su teléfono.
-- 【Activar Rutinas Alexa】Activa las rutinas de Alexa con solo pulsar el interruptor inalámbrico (requiere SONOFF Zigbee hub).
 - 【5 Años de Vida de la Batería】Accionado por una batería CR2477. *Los datos de duración de la batería se obtienen del laboratorio interno de SONOFF, por favor refiérase al uso real.
+- 【Compatible con Zigbee 3.0】】Soporta concentradores Zigbee utilizando el protocolo Zigbee 3.0, y teóricamente soporta añadir a cualquier concentrador Zigbee desarrollado de acuerdo con los protocolos Zigbee 3.0. Como SONOFF NSPanel Pro, ZB Bridge Pro, y ZBDongle-E.
+- 【Activar Rutinas Alexa】Activa las rutinas de Alexa con solo pulsar el interruptor inalámbrico (requiere SONOFF Zigbee hub).
+- 【Botón de Emergencia】SNZB-01P se puede utilizar como un botón de emergencia cuando ocurre una emergencia, su familia puede presionar el botón para enviar una notificación de alerta a su teléfono.
 - 【Acción de Botón Personalizada】Puede personalizar las acciones de los botones como desee. Controle múltiples dispositivos con una sola pulsación, doble pulsación y pulsación larga.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

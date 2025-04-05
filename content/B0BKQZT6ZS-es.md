@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core Intel Core i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
 - Almacenamiento de 256GB SSD M.2 2242 PCIe 4.0x4 NVMe Opal 2.0
+- Procesador Intel Core Intel Core i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
 - Pantalla de 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
-- Memoria RAM 8GB
-- Sistema operativo Windows 11 Pro 64
 - Tarjeta gráfica Integrated Intel Iris Xe Graphics
+- Sistema operativo Windows 11 Pro 64
+- Memoria RAM 8GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQZT6ZS{{</world>}}

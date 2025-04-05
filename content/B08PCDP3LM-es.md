@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo - iPhone 12
+- Cantidad del paquete: 1 unidad
 - Tipo de producto: teléfono celular
 - Almacenamiento: 128 GB
-- Cantidad del paquete: 1 unidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PCDP3LM{{</world>}}

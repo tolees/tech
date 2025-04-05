@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador AMD Ryzen 7 5800H (8C/OctaCore 3.2 / 4.4GHz, 16MB)
 - Pantalla de 14" 2880 x 1800 pixeles OLED
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM LPDDR4x
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 5800H (8C/OctaCore 3.2 / 4.4GHz, 16MB)
 - Tarjeta gráfica integrada AMD Radeon Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})

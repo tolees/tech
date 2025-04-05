@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin sistema operativo
-- Procesador Intel Core i7-13620H (hasta 4,9 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 10 núcleos, 16 subprocesos)
+- Memoria RAM DDR5-5200 MHz 16 GB (2 x 8 GB)
 - Gráfica NVIDIA GeForce RTX 4060 8GB VRAM
 - Almacenamiento de datos SSD SSD M.2 1 TB PCIe Gen4 NVMe TLC
-- Memoria RAM DDR5-5200 MHz 16 GB (2 x 8 GB)
+- Procesador Intel Core i7-13620H (hasta 4,9 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 10 núcleos, 16 subprocesos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVZLGKZ7{{</world>}}

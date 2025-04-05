@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - VIDEO UHD 4K Y VISIÓN NOCTURNA A COLOR: Disfruta de una claridad visual excepcional con nuestra calidad de video UHD 4K. Experimenta detalles excepcionales y colores vivos durante el día y la noche, gracias a nuestro potente reflector.
+- RESISTENTE AL AGUA CON CLASIFICACIÓN IP67 Y CARCASA METÁLICA: No te preocupes por la entrada de polvo y agua al dispositivo, y al vandalismo. Mantén una grabación continua para proteger a usted y a su familia /oficina en cualquier condición extrema.
+- ALERTAS INSTANTÁNEAS: Cuando se detecta algo sospechoso, los reflectores y la sirena de la cámara ip funcionan como disuasivos efectivos contra intrusos. Además, recibirás notificaciones instantáneas por empuje y correo electrónico con capturas de pantalla.
 - AUDIO BIDIRECCIONAL Y DETECCIÓN INTELIGENTE: Identifica con precisión formas humanas/vehículos/mascotas entre otros objetos y envía alertas instantáneas precisas. Puedes comunicarte con la persona desde la cámara de seguridad desde cualquier ubicación.
 - Wi-Fi 6: basado en el estándar IEEE 802.11ax y el estándar de seguridad de Wi-Fi WPA3-PSK, Wi-Fi 6 proporciona la seguridad, eficiencia, cobertura y rendimiento requeridos por los usuarios de Internet en la actualidad. Con 4 veces más capacidad, esta nueva generación puede acomodar más dispositivos, lo cual es ideal para redes congestionadas.
-- ALERTAS INSTANTÁNEAS: Cuando se detecta algo sospechoso, los reflectores y la sirena de la cámara ip funcionan como disuasivos efectivos contra intrusos. Además, recibirás notificaciones instantáneas por empuje y correo electrónico con capturas de pantalla.
-- RESISTENTE AL AGUA CON CLASIFICACIÓN IP67 Y CARCASA METÁLICA: No te preocupes por la entrada de polvo y agua al dispositivo, y al vandalismo. Mantén una grabación continua para proteger a usted y a su familia /oficina en cualquier condición extrema.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8M84Q9W{{</world>}}

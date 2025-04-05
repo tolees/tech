@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Smartphone Xiaomi de 256 GB de capacidad
-- Producto electrónico
 - Requiere instalación
+- Producto electrónico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP8B1D6J{{</world>}}

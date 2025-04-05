@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - grapple with moral dilemmas which have life-and-death consequences
-- investigate a gripping, Non-linear mystery with multiple endings
 - Explore an authentic, open-world ancient Roman city brought to life with Unreal Engine
-- become entwined in the lives of richly detailed, deeply interactive characters
+- investigate a gripping, Non-linear mystery with multiple endings
 - role-play as whoever you want, by choosing your own gender, body type and backstory.solve problems your own way, with reason, charm, bribery, stealth, intimidation, or by cleverly exploiting the time-loop
+- become entwined in the lives of richly detailed, deeply interactive characters
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B092KT83KR{{</world>}}

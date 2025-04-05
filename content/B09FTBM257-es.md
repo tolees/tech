@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Explora la belleza
-- Sumérgete en las profundidades
-- Busca el significado
 - Conoce a Norah
+- Busca el significado
+- Sumérgete en las profundidades
+- Explora la belleza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09FTBM257{{</world>}}

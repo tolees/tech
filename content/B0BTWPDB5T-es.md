@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de instalar
 - Placa base para el ordenador personal
+- Fácil de instalar
 - Diseño durable para una vida óptima del producto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

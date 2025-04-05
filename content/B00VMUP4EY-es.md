@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recomendado para niños de 3 años y más
-- Coches original que aparecen en el juego Mario Kart 8
 - Con motor de retrofricción
+- Recomendado para niños de 3 años y más
 - Carrocería y chasis de plástico en escala 1:43
+- Coches original que aparecen en el juego Mario Kart 8
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00VMUP4EY{{</world>}}

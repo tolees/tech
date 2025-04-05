@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - A todo color: agrega un espectáculo de colores futurístico del que todos se acordarán, con luces estrelladas, senderos de luz y efectos de luz estroboscópica, todos sincronizados con tu ritmo
 - Saca partido: con la tecnología AI Sound Boost, conexión multiple de altavoces gracias a JBL Auracast, resistencia a las salpicaduras (IPX4) así como entradas dobles para micrófono y guitarra
-- Contenido de envío: 1x JBL PartyBox Club 120, guía de inicio rápido, hoja de seguridad, cable de alimentación CA (el número de cables y el tipo de enchufe cambia según la región), negro
 - Siente la energía: disfruta de hasta 12h de música sin interrupciones con una sola carga gracias a la batería intercambiable o bien obtén 80 min extra con una carga de 10 min
+- Contenido de envío: 1x JBL PartyBox Club 120, guía de inicio rápido, hoja de seguridad, cable de alimentación CA (el número de cables y el tipo de enchufe cambia según la región), negro
 - Inunda el aire con música: el JBL PartyBox Club 120 incluye un asa ergonómica para que lleves la fiesta donde sea. Además, posee un potente sonido JBL Pro que ofrece sonidos claros y graves profundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

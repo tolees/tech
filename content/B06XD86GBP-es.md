@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Opción de carga versátil: Entrada micro-USB común y la capacidad de carga con un cargador de pared USB, cargador o batería externa le da más opciones que un cargador de batería (cargador de pared y cargador no incluido)
+- Compatibilidad: Compatible con empuñadura con batería C1EM VG VG-C2EM, Sony Alpha 7, A7, alfa 7R, A7R, A7R II, II A7, a3000 alfa, alfa a6300, NEX 3, NEX-3N, NEX-5, NEX-5N, NEX-5R, 5T de NEX, NEX-6, NEX-7, NEX-C3, NEX-F3, SLT-A33 SLT-A35, SLT-A37, SLT-A55V, las cámaras Cyber-shot DSC-RX10
 - El mejor reemplazo para la batería Original de SG-DVBT008-FW50 de Sony: 1100 mAh alta capacidad/recargable del Li-ion con la célula superior; Fácil de realizar cuando o viajes; Energía adicional para tu cámara/videocámara digital, no hay necesidad de preocuparse por poder
 - Sistema de protección inteligente: Carga rápida con control automático de corriente constante impide batería de cobrar excesivamente, sobre descarga, exceso de temperatura, sobre corriente, sobre voltaje, corto circuito y electrónica de choque
+- Opción de carga versátil: Entrada micro-USB común y la capacidad de carga con un cargador de pared USB, cargador o batería externa le da más opciones que un cargador de batería (cargador de pared y cargador no incluido)
 - Smart 5V / 2.1A cargador USB: USB de salida para cargar teléfonos inteligentes, tabletas y otros dispositivos USB alimentado; Apoyar solamente la energía por el USB en modo de carga lenta; Energía será apagado automáticamente en modo de carga rápida (cálido recordatorio: use un 5V / 2.1A enchufe para cargar, o el LED parpadea durante la carga y el cargador solo puede cargar una batería.)
-- Compatibilidad: Compatible con empuñadura con batería C1EM VG VG-C2EM, Sony Alpha 7, A7, alfa 7R, A7R, A7R II, II A7, a3000 alfa, alfa a6300, NEX 3, NEX-3N, NEX-5, NEX-5N, NEX-5R, 5T de NEX, NEX-6, NEX-7, NEX-C3, NEX-F3, SLT-A33 SLT-A35, SLT-A37, SLT-A55V, las cámaras Cyber-shot DSC-RX10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XD86GBP{{</world>}}

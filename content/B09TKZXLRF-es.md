@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conectividad por cable e inalámbrica; compatible con dispositivos móviles descargar aplicación:Brother Mobile Connect
-- Componentes incluidos: Brother MFC-J5740DW, 4 cartuchos de arranque (BK/C/M/Y) cada uno de aprox. 375 páginas (según ISO/IEC 24711), cable de alimentación, manual de instalación (idioma español no garantizado); cable de datos no incluido
 - Velocidad impresión 28ppm mono/color (ISO 24734)
-- Peso: 12.8 kilograms
-- Impresión 1a página inferior a 5 segundos (ISO 17629)
 - Pantalla táctil de 8,8cm
+- Componentes incluidos: Brother MFC-J5740DW, 4 cartuchos de arranque (BK/C/M/Y) cada uno de aprox. 375 páginas (según ISO/IEC 24711), cable de alimentación, manual de instalación (idioma español no garantizado); cable de datos no incluido
+- Peso: 12.8 kilograms
 - Impresión A4 y A3; copia, escaneado y fax A4; doble cara automática A4 en todas las funciones
+- Impresión 1a página inferior a 5 segundos (ISO 17629)
+- Conectividad por cable e inalámbrica; compatible con dispositivos móviles descargar aplicación:Brother Mobile Connect
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TKZXLRF{{</world>}}

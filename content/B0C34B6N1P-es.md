@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla LCD trasera de 2,7 pulgadas, velocidad de impresión rápida de 12 segundos, memoria interna de 50 fotos aprox
-- Utiliza película instantánea instax Mini
-- Espejo integrado para selfies, dos botones de disparo para retratos y paisajes. Modo macro y temporizador
-- Produce fotos instantáneas del tamaño de una tarjeta de crédito. Permite revisar y editar las imágenes antes de imprimirlas, 10 x efectos de lente y 10 x efectos de película
 - Impresión desde smartphone mediante Bluetooth, ranura para tarjetas micro SD, puerto de carga USB-C, disparo remoto mediante mini EVO App
+- Produce fotos instantáneas del tamaño de una tarjeta de crédito. Permite revisar y editar las imágenes antes de imprimirlas, 10 x efectos de lente y 10 x efectos de película
+- Espejo integrado para selfies, dos botones de disparo para retratos y paisajes. Modo macro y temporizador
+- Utiliza película instantánea instax Mini
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C34B6N1P{{</world>}}

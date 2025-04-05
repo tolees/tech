@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 5700U
-- Almacenamiento de 512 GB SSD M
-- Sistema operativo, Windows 11 Home
-- Memoria RAM de 8 GB (4 GB Soldered DDR4-26664 GB SO-DI mm DDR4-2666)
 - Tarjeta gráfica Integrada AMD Radeon RX Vega 8
+- Procesador AMD Ryzen 7 5700U
+- Memoria RAM de 8 GB (4 GB Soldered DDR4-26664 GB SO-DI mm DDR4-2666)
+- Sistema operativo, Windows 11 Home
 - Pantalla de 14 pulgadas, FullHD, 1920 x 1080 píxeles, TN, 250 nits
+- Almacenamiento de 512 GB SSD M
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V22LL6P{{</world>}}

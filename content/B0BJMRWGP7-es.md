@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
-- Autonomía para un día entero
-- Pantalla Liquid Retina de 11 pulgadas con ProMotion, tecnología True Tone y gama cromática amplia (P3)
-- Gran angular de 12 Mpx, ultra gran angular trasero de 10 Mpx y escáner LiDAR para disfrutar de la realidad aumentada
-- Conector USB C compatible con Thunderbolt/USB 4
 - Chip M2 con CPU de 8 núcleos y GPU de 10 núcleos
-- Compatibilidad con el Apple Pencil (2.ª generación), el Magic Keyboard y el Smart Keyboard Folio
-- Redes Wi-Fi 6E y 5G ultrarrápidas
-- Face ID para autenticarse de forma segura y usar Apple Pay
+- Gran angular de 12 Mpx, ultra gran angular trasero de 10 Mpx y escáner LiDAR para disfrutar de la realidad aumentada
+- Pantalla Liquid Retina de 11 pulgadas con ProMotion, tecnología True Tone y gama cromática amplia (P3)
 - Compatibilidad con el puntero flotante del Apple Pencil para mayor precisión al tomar notas y dibujar
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
+- Redes Wi-Fi 6E y 5G ultrarrápidas
+- Compatibilidad con el Apple Pencil (2.ª generación), el Magic Keyboard y el Smart Keyboard Folio
+- Autonomía para un día entero
+- Conector USB C compatible con Thunderbolt/USB 4
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJMRWGP7{{</world>}}

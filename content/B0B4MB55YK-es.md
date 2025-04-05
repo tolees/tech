@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: TELÉFONO CELULAR
-- Marca: Xiaomi
-- Xiaomi POCO F4 5G 6GB 128GB Noche Negro UE
 - De color negro
+- Tipo de producto: TELÉFONO CELULAR
+- Xiaomi POCO F4 5G 6GB 128GB Noche Negro UE
+- Marca: Xiaomi
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4MB55YK{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensor PM 2.5 para controlar el polvo fino de los contaminantes atmosféricos; sensores de humedad y temperatura para detectar la humedad del aire
-- El ruido de funcionamiento es de tan solo 33,4 dB, como un sussurro que te deja dormir sin molestar
-- PCADR 360m3/h y FCADR 120m3/h, eliminan el 99,97% de pelos de mascotas, polvo, polen, humo, TVOC y partículas finas de hasta 0,3 micras (menos de un porcentaje del diámetro de un pelo); para purificar una estancia de 120m2 basta una hora
 - El índice de calidad del aire de los contaminantes PM 2,5 puede ser claro con un vistazo y muestra la temperatura, la humedad y el estado de funcionamiento
+- Sensor PM 2.5 para controlar el polvo fino de los contaminantes atmosféricos; sensores de humedad y temperatura para detectar la humedad del aire
+- PCADR 360m3/h y FCADR 120m3/h, eliminan el 99,97% de pelos de mascotas, polvo, polen, humo, TVOC y partículas finas de hasta 0,3 micras (menos de un porcentaje del diámetro de un pelo); para purificar una estancia de 120m2 basta una hora
+- El ruido de funcionamiento es de tan solo 33,4 dB, como un sussurro que te deja dormir sin molestar
 - Control del teléfono móvil con la APP Mi Home para crear una escena doméstica inteligente con otros productos inteligentes Xiaomi
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Conoce Nothing OS 1.5, basado en la tecnología de Android 13! Nuestra experiencia de usuario más fluida y segura hasta el momento, con aplicaciones, fuentes, sonidos y fondos de pantalla personalizados. Además, cuenta con una conexión sencilla para el uso de otros dispositivos. Sin bloatware.
-- Fabricado con aluminio 100% reciclado. Phone (1) lidera la industria con más del 50% de los componentes plásticos provenientes de fuentes recicladas y de base biológica. Embalaje de fibra reciclada. Y una determinación inquebrantable por reducir el impacto ambiental en el sector de la tecnologí
-- 1 billón de colores. Cada tono, increíblemente fiel a la realidad. Pantalla OLED de 6,55”. HDR10+. Color más rico y contrastes más profundos, adaptados a cada escena. Frecuencia de actualización adaptativa de 120Hz para interacciones más receptivas, mientras que es eficiente con la batería.
-- Potente. De confianza. Detrás de la velocidad del Phone (1) está el chipset Snapdragon 778G+. Con gráficos perfectos. Los juegos los eleva a un siguiente nivel. Y ofrece funciones avanzadas de la cámara. Con soporte para velocidad 5G.
 - Glyph Interface: Una nueva forma de comunicarse. Los patrones de luz únicos indican quién está llamando, notifica con señales las distintas aplicaciones, indica el estado de carga y mucho más. Las interacciones cotidianas se vuelven más interesantes.
+- Fabricado con aluminio 100% reciclado. Phone (1) lidera la industria con más del 50% de los componentes plásticos provenientes de fuentes recicladas y de base biológica. Embalaje de fibra reciclada. Y una determinación inquebrantable por reducir el impacto ambiental en el sector de la tecnologí
+- Potente. De confianza. Detrás de la velocidad del Phone (1) está el chipset Snapdragon 778G+. Con gráficos perfectos. Los juegos los eleva a un siguiente nivel. Y ofrece funciones avanzadas de la cámara. Con soporte para velocidad 5G.
+- 1 billón de colores. Cada tono, increíblemente fiel a la realidad. Pantalla OLED de 6,55”. HDR10+. Color más rico y contrastes más profundos, adaptados a cada escena. Frecuencia de actualización adaptativa de 120Hz para interacciones más receptivas, mientras que es eficiente con la batería.
+- ¡Conoce Nothing OS 1.5, basado en la tecnología de Android 13! Nuestra experiencia de usuario más fluida y segura hasta el momento, con aplicaciones, fuentes, sonidos y fondos de pantalla personalizados. Además, cuenta con una conexión sencilla para el uso de otros dispositivos. Sin bloatware.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Z6RXHJB{{</world>}}

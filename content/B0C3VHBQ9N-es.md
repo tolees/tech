@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ELIGE A TUS MEJORES AMIGAS: juega con Ruby, Poppy, Sunny, Jade, Skyler y Violet.
 - RESUELVE LOS ACERTIJOS: encuentra pistas, recoge diamantes arcoíris y desbloquea los atuendos más chulos.
 - AYUDA A TUS AMIGAS: comparte tus talentos únicos con ellas y termina tu primer encargo.
-- ELIGE A TUS MEJORES AMIGAS: juega con Ruby, Poppy, Sunny, Jade, Skyler y Violet.
 - EXPLORA EL INSTITUTO: descubre las aulas, los dormitorios de los estudiantes, Rainbow Union y mucho más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

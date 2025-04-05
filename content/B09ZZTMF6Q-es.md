@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete incluye una bonificación de precompra
 - Videojuego para PS5
+- El paquete incluye una bonificación de precompra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZZTMF6Q{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema Operativo: Windows 10 Home
+- Almacenamiento de 512 GB SSD PCI Express
 - Memoria RAM de 8 GB DDR4
 - Procesador Intel Core i3-1115G4 (DualCore), 3,70 GHz
-- Almacenamiento de 512 GB SSD PCI Express
 - Tarjeta Gráfica UMA Graphics
+- Sistema Operativo: Windows 10 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099X2PRFV{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos tipos de foto - La impresora para móvil Kodak Mini 2 Retro permite imprimir fotos de tamaño 7x7, con margen o sin margen. Con esta impresora portátil, puede decorar los márgenes de la forma que desee. Si quiere fotos de mayor tamaño, también tiene la opción de imprimir sin margen.
 - Calidad de foto superior - La impresora Kodak Mini 3 Retro usa tecnología 4Pass para imprimir fotos de alta calidad. Esta impresora portátil imprime a capas usando un proceso de laminado. Por ese motivo, las fotos son a prueba de huellas dactilares, resistentes al agua y de larga duración.
+- Dos tipos de foto - La impresora para móvil Kodak Mini 2 Retro permite imprimir fotos de tamaño 7x7, con margen o sin margen. Con esta impresora portátil, puede decorar los márgenes de la forma que desee. Si quiere fotos de mayor tamaño, también tiene la opción de imprimir sin margen.
 - Calidad de foto superior - La impresora Kodak Mini 3 Retro usa tecnología 4Pass para imprimir fotos de alta calidad. Esta impresora portátil imprime a capas usando un proceso de laminado. Por ese motivo, las fotos son a prueba de huellas dactilares, resistentes al agua y de larga duración.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

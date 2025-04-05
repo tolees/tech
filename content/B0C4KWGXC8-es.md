@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【SENSIBLE Y DE BAJO PERFIL】El mecanismo de tijera mejora la respuesta y la estabilidad. El recorrido optimizado de las teclas y las cintas antideslizantes hacen que escribir sea más cómodo, silencioso y preciso.
 - 【RECARGABLE E INTELIGENTE】Para los defensores de la sostenibilidad medioambiental, hemos fabricado la batería recargable. La función de ahorro de energía pone el combo en reposo tras 10 minutos de inactividad.
-- 【GARANTÍA】1 año de garantía limitada de hardware.
 - 【COMBO INALÁMBRICO DE TAMAÑO COMPLETO】teclado de tamaño completo, construcción ABS de nivel de ingeniería con una inclinación de 10° y un ratón de perfil bastante bajo. Todo ello sin clústeres, lo que lo convierte en la opción ideal para su uso en la oficina.
-- 【MÓVIL RECARGABLE USB-C】Diseño simétrico de perfil bajo. Botones silenciosos, hasta 3 millones de clics. DPI ajustable (800-1200-1600).
 - 【CONTENIDO DEL PAQUETE】1 x Teclado inalámbrico, 1 x Ratón inalámbrico, 1 x Receptor USB, 1 x Funda de silicona para teclado, 1 x Cable de carga Type-C, 1 x Manual de usuario, Servicio de atención al cliente 24/7.
+- 【SENSIBLE Y DE BAJO PERFIL】El mecanismo de tijera mejora la respuesta y la estabilidad. El recorrido optimizado de las teclas y las cintas antideslizantes hacen que escribir sea más cómodo, silencioso y preciso.
 - 【PLUG & PLAY y Win & Mac】Fácil de configurar y utilizar de inmediato. Tanto el teclado como el ratón se utilizan con un solo receptor (guardado en la parte inferior del ratón). Dispone de diseños para Windows y Mac.
+- 【GARANTÍA】1 año de garantía limitada de hardware.
+- 【MÓVIL RECARGABLE USB-C】Diseño simétrico de perfil bajo. Botones silenciosos, hasta 3 millones de clics. DPI ajustable (800-1200-1600).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4KWGXC8{{</world>}}

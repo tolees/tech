@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Frecuencias bajas profundas: Respuesta de frecuencia de 30 Hz a 200 Hz.
-- Control de ganancia de entrada proporciona -30 dB a +6 dB de salida variable de forma continua.
-- Potencia de sobra: Amplificador Clase AB de 100W (50W RMS) ofrece una salida de pico de 100 dB SPL (@ 1 metro) con mínima distorsión. ¡Eso es bastante alto!
 - Filtro de paso bajo variable continuo mantiene resonancias en el rango de 50 Hz a 130 Hz.
 - Respuesta de graves sub-bajos potente. Driver frontal de 8 pulgadas proporciona frecuencias sub-bajas suaves y precisas.
+- Frecuencias bajas profundas: Respuesta de frecuencia de 30 Hz a 200 Hz.
+- Potencia de sobra: Amplificador Clase AB de 100W (50W RMS) ofrece una salida de pico de 100 dB SPL (@ 1 metro) con mínima distorsión. ¡Eso es bastante alto!
+- Control de ganancia de entrada proporciona -30 dB a +6 dB de salida variable de forma continua.
 - Tecnología Bluetooth 5.0 asegura un sonido inalámbrico excepcional.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

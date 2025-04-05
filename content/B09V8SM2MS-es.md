@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 2 soportes de personajes
-- Caja exclusiva con lenticular
 - Pegatinas
+- Caja exclusiva con lenticular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V8SM2MS{{</world>}}

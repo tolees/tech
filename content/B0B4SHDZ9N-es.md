@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiempo de respuesta de 4ms y frecuencia de actualización de 70 Hz
-- Puertos: 2x HDMI 2.0, 1x DP 1.4, 1x USB-C 3.2 Gen 1, 3x USB-A 3.2 Gen 1
-- Pantalla de 27" con resolución 2K QHD (2560x1440 pixeles), 350 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 95%, antirreflejos
 - Relación de aspecto 16:9 y relación de contraste 1000:1
 - AMD FreeSync: La tecnología AMD FreeSync permite la visualización fluida y constante de imágenes de juegos de calidad
+- Tiempo de respuesta de 4ms y frecuencia de actualización de 70 Hz
+- Pantalla de 27" con resolución 2K QHD (2560x1440 pixeles), 350 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 95%, antirreflejos
+- Puertos: 2x HDMI 2.0, 1x DP 1.4, 1x USB-C 3.2 Gen 1, 3x USB-A 3.2 Gen 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4SHDZ9N{{</world>}}

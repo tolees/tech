@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
 - iOS 16, con más opciones de personalización y formas de comunicarte y compartir
-- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
-- Modo Acción para grabar vídeos superestables sin trípode
 - Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
+- Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
 - Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo
 - Pantalla Super Retina XDR de 6,1 pulgadas.
+- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
 - Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
-- Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
+- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
+- Modo Acción para grabar vídeos superestables sin trípode
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDKK9KJN{{</world>}}

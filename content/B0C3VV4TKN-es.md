@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM 16gb (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
 - Pantalla de 14" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
-- Tarjeta gráfica Integrated Intel Iris Xe Graphics
-- Procesador Intel Core i7-i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 SSD Slot
 - Sistema operativo Windows 11 Pro 64
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 SSD Slot
+- Tarjeta gráfica Integrated Intel Iris Xe Graphics
+- Memoria RAM 16gb (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
+- Procesador Intel Core i7-i7-1255U, 10C (2P + 8E) / 12T, P-core 1.7 / 4.7GHz, E-core 1.2 / 3.5GHz, 12MB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3VV4TKN{{</world>}}

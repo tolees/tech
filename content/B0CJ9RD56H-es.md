@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Potente procesador MediaTek Helio G85. Disfruta de una experiencia perfecta y fluida con este procesador de ocho núcleos, que alcanza un equilibrio entre rendimiento sólido y eficiencia. Hasta 16 GB de RAM con ampliación de memoria. Velocidad CPU hasta 2,0 GHz.
-- Cámara triple de 50 MP con IA, sistema de imágenes ultranítido. La cámara frontal de 8 MP cuenta con un anillo de luz suave mejorado que permite capturar selfies deslumbrantes incluso en entornos oscuros con este modo activado.
-- Disfruta de una experiencia visual fluida y envolvente en esta gran pantalla de 6,74" con una alta tasa de refresco de hasta 90 Hz, que proporciona una experiencia visual asombrosa al ver vídeos y jugar.
 - Gran batería de 5000 mAh. Admite carga rápida de 18 W con conexión tipo C. Maximiza tu diversión y productividad con la enorme capacidad de la batería para aguantar durante todo el día y ayudarte a sacar el máximo partido a cada carga.
+- Disfruta de una experiencia visual fluida y envolvente en esta gran pantalla de 6,74" con una alta tasa de refresco de hasta 90 Hz, que proporciona una experiencia visual asombrosa al ver vídeos y jugar.
 - Pantalla Corning Gorilla Glass, con mayor protección. Protege tus ojos de la fatiga visual y disfruta de imágenes cómodas, gracias a la certificación de luz azul reducida y de tecnología sin parpadeos de TÜV (solución de software).
+- Cámara triple de 50 MP con IA, sistema de imágenes ultranítido. La cámara frontal de 8 MP cuenta con un anillo de luz suave mejorado que permite capturar selfies deslumbrantes incluso en entornos oscuros con este modo activado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ9RD56H{{</world>}}
