@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Garmin Edge Explore 2  Ciclocomputador de 3 Pulgadas  con GPS Intuitivo  Funciones de VO2  Registros personales  Unisex Adulto  Blanco  Única'
+date: 2024-03-22 10:33:15
+image: 'https://m.media-amazon.com/images/I/31MKxalLsML._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0B56Q5VCY-es Garmin Edge Explore 2 Ciclocomputador de 3 Pulgadas con...'
+sku: 'B0B56Q5VCY-es'
+tags: [ 'garmin','gps','🇪🇸', ]
+actualPrice: 252.99 EUR
+currency: EUR
+price: 252.99
+comparePrice: 299.99 EUR
+prodname: 'Garmin Edge Explore 2  Ciclocomputador de 3 Pulgadas  con GPS Intuitivo  Funciones de VO2  Registros personales  Unisex Adulto  Blanco  Única'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0B56Q5VCY/?tag=tolees-21'
+descuento: '15.67'
+average: '263.82'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Ciclocomputador GPS fácil de usar con pantalla táctil de 3" de alta resolución, apta para guantes y lluvia, visible incluso con luz solar directa.
+- Cuando estés conectado a tu eBike compatible con la tecnología ANT+, recibe indicaciones de navegación y alertas basadas en el estado de la batería, el nivel de asistencia y la autonomía de su bicicleta.
+- Compatible con el soporte de alimentación Edge incluido para cargar constantemente tu dispositivo mientras pedaleas (incluido solo en la versión Edge Explore 2 Power Mount).
+- Mapas mejorados específicos para cada tipo de recorrido que destacan las carreteras y los senderos más populares, PDI de búsqueda e incluso rutas para bicicletas eléctricas.
+- Observa las carreteras con alto tráfico directamente en el dispositivo para ayudarte a ser consciente mientras pedalea y toma decisiones informadas para tu ruta.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0B56Q5VCY{{</world>}}
