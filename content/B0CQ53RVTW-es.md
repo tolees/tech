@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 80W de potentes graves: Disfruta de graves intensos en cada canción con un subwoofer que da profundidad y claridad. Con su tecnología BassUp️ 2.0, personaliza los graves y pasa de 60 W a un asombroso máximo de 80 W.
-- IPX7 al Agua y flotante: El altavoz para exteriores Boom 2 está diseñado para adaptarse a cualquier desafío: escucha tu música sin preocupaciones en la playa, la piscina o bajo la lluvia.
-- Música todo el día en cualquier lugar: El altavoz para exteriores Boom 2 te permite escuchar música durante 24 horas sin interrupciones con una sola carga y, gracias a su batería integrada, también podrás mantener tu teléfono encendido estés donde estés.
 - Sonido estéreo 2.1: Un subwoofer de de 50 W y dos altavoces de agudos de 15 W para ofrecer agudos nítidos y graves profundos, equilibrados gracias a la tecnología de cruce inteligente que permite disfrutar de una experiencia de audio inmersiva.
+- IPX7 al Agua y flotante: El altavoz para exteriores Boom 2 está diseñado para adaptarse a cualquier desafío: escucha tu música sin preocupaciones en la playa, la piscina o bajo la lluvia.
+- 80W de potentes graves: Disfruta de graves intensos en cada canción con un subwoofer que da profundidad y claridad. Con su tecnología BassUp️ 2.0, personaliza los graves y pasa de 60 W a un asombroso máximo de 80 W.
+- Música todo el día en cualquier lugar: El altavoz para exteriores Boom 2 te permite escuchar música durante 24 horas sin interrupciones con una sola carga y, gracias a su batería integrada, también podrás mantener tu teléfono encendido estés donde estés.
 - Tu sonido, a tu manera: El altavoz para exteriores Boom 2 aprovecha el EQ personalizable para un sonido perfecto en cualquier canción o ambiente. Y con PartyCast 2.0, puedes conectar hasta más de 100 altavoces y llevar la fiesta al siguiente nivel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

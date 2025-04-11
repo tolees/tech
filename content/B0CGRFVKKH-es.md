@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 16 GB (8 G x 2) SO-DIMM DDR4 y SSD 512 GB
 - Procesador Intel Core i5-1235U (12 MB Cache)
-- Pantalla (23.8") Full HD 1920 x 1080 IPS 16:9
 - Tecnología de comunicación inalámbrica: WLAN
+- 16 GB (8 G x 2) SO-DIMM DDR4 y SSD 512 GB
+- Pantalla (23.8") Full HD 1920 x 1080 IPS 16:9
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGRFVKKH{{</world>}}

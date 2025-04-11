@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cambia cada docking al aparato inalámbrico
-- Área de recepción de 10 m
+- Transmisión de sonido vía Bluetooth
 - No necesita pilas ni baterías
 - Formato Bluetooth 2.0
+- Cambia cada docking al aparato inalámbrico
+- Área de recepción de 10 m
 - Perfiles soportados: A2DP, AVRCP
-- Transmisión de sonido vía Bluetooth
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AIN3CYK{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Construcción ligera y diseño ambidiestro diseñado junto a gamers profesionales para optimizar su rendimiento en juegos
+- Botón DPI para ajustar la sensibilidad al vuelo
 - Deslizamiento rápido y suave con un cable liviano de goma suave
 - Interruptores pivotantes con una respuesta más rápida, precisa y satisfactoria
 - Sensor óptico de 6200 dpi y un interruptor DPI con cuatro niveles de sensibilidad
-- Construcción ligera y diseño ambidiestro diseñado junto a gamers profesionales para optimizar su rendimiento en juegos
-- Botón DPI para ajustar la sensibilidad al vuelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099ZS4HJ2{{</world>}}

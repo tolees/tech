@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hub usb con sonido envolvente 7.1: aprovecha la comodidad de dos puertos usb 3.1 superspeed adicionales y una salida de audio mejorada en tus auriculares para juegos, todo gracias a un puerto mixto de 3.5 mm con cda integrado compatible con sonido envolvente 7.1
-- Soporte para auriculares integrado con base antideslizante: el estilizado diseño metálico es ahora más alto para que puedas colgar y exponer auriculares de óptimo tamaño; a su vez, la base estable evita que se vuelque o se mueva mientras lo usas
 - Sincroniza tus efectos de iluminación en todos los dispositivos compatibles con razer synapse
+- Soporte para auriculares integrado con base antideslizante: el estilizado diseño metálico es ahora más alto para que puedas colgar y exponer auriculares de óptimo tamaño; a su vez, la base estable evita que se vuelque o se mueva mientras lo usas
 - Disfruta de funciones de iluminación razer chroma rgb avanzadas a través de chroma studio
+- Hub usb con sonido envolvente 7.1: aprovecha la comodidad de dos puertos usb 3.1 superspeed adicionales y una salida de audio mejorada en tus auriculares para juegos, todo gracias a un puerto mixto de 3.5 mm con cda integrado compatible con sonido envolvente 7.1
 - Con tecnología razer chroma rgb: personalízalo con 16.8 millones de colores y una amplia gama de efectos a elegir, y sincroniza tu configuración para que puedas disfrutar de los efectos de iluminación dinámicos que se activan al jugar a los más de 100 títulos integrados
 - Tipo de conectividad: alámbrico
 

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin sistema operativo (FreeDOS 3.0)
 - Pantalla FHD (1920 x 1080) de 16,1" (40,9 cm),165 Hz, tiempo de respuesta de 7 ms, IPS, microborde, antirreflectante, Low Blue Light, 300 nits,100 % Srgb
+- Gráficos Discreto: GPU de portátil NVIDIA GeForce RTX 4060 (GDDR6 de 8 GB dedicada) ; Advanced Optimus
 - Procesado Intel Core i7-14700HX (hasta 5,5 GHz con tecnología Intel Turbo Boost, 33 MB de caché L3, 20 núcleos, 28 subprocesos)
 - Memoria RAM DDR5-5600 MHz 16 GB (2 x 8 GB) Velocidades de transferencia de hasta 5600 MT/s.
-- Gráficos Discreto: GPU de portátil NVIDIA GeForce RTX 4060 (GDDR6 de 8 GB dedicada) ; Advanced Optimus
 - Almacenamiento SSD M.2 1 TB PCIe Gen4 NVMe TLC
+- Sin sistema operativo (FreeDOS 3.0)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN7CFSG8{{</world>}}

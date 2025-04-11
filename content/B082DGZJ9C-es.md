@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iluminación RGB dinámica multizona: 10 LED RGB ultrabrillantes por módulo
 - Software de próxima generación: toma el control en el software CORSAIR iCUE y sincroniza la iluminación con otros productos CORSAIR RGB, incluyendo enfriadores de CPU, teclados y ventiladores
 - Máximo ancho de banda y tiempos de respuesta ajustados: optimizado para un rendimiento máximo en las últimas placas base Intel y AMD DDR4
-- Memoria cuidadosamente controlada: IC cuidadosamente seleccionados para un mayor potencial de overclocking
 - Rendimiento personalizado PCB: proporciona la más alta calidad de señal para el mayor nivel de rendimiento y estabilidad
+- Iluminación RGB dinámica multizona: 10 LED RGB ultrabrillantes por módulo
+- Memoria cuidadosamente controlada: IC cuidadosamente seleccionados para un mayor potencial de overclocking
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082DGZJ9C{{</world>}}

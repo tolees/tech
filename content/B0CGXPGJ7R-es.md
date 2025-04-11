@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0193575037035
 - GA05191-DE
+- 0193575037035
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGXPGJ7R{{</world>}}

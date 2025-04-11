@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica Intel UHD
-- Sistema Operativo: Windows 11
-- 15,6", FHD 1920 x 1080, 120 Hz, WVA, no táctil, antirreflejo, 250 nit, borde estrecho, retroiluminación LED
-- Memoria DDR4 de 8 GB, 1 de 8 GB a 2666 MHz
-- SSD NVMe PCIe M.2 de 256 GB
 - Procesador Intel Core i3-1215U de 12.ª generación (10 MB de caché, 6 núcleos, 8 subprocesos, hasta 4,40 GHz Turbo)
+- SSD NVMe PCIe M.2 de 256 GB
+- 15,6", FHD 1920 x 1080, 120 Hz, WVA, no táctil, antirreflejo, 250 nit, borde estrecho, retroiluminación LED
+- Tarjeta gráfica Intel UHD
+- Memoria DDR4 de 8 GB, 1 de 8 GB a 2666 MHz
+- Sistema Operativo: Windows 11
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHM8N8TN{{</world>}}

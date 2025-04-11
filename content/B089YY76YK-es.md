@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para capturar primeros planos expresivos de naturaleza, con una distancia mínima de enfoque de 1,3 metros y una magnificación de hasta 0,29 aumentos (equivalencia en 35 mm = 0,57 aumentos).
 - La estabilización de imagen integrada en el objetivo proporciona imágenes nítidas con cualquier cámara Micro Four Thirds, incluso en niveles altos de zoom gracias a sus 3 pasos de corrección.
+- Totalmente portátil con una longitud de tan solo 205,7 mm y un peso de apenas 1120 g (solo el objetivo); ideal para fotografiar cualquier escena en cualquier parte del mundo.
+- Diseñado para capturar primeros planos expresivos de naturaleza, con una distancia mínima de enfoque de 1,3 metros y una magnificación de hasta 0,29 aumentos (equivalencia en 35 mm = 0,57 aumentos).
 - Captura los detalles que deseas con un rendimiento de teleobjetivo extremo de 100 a 400 mm (equivalencia en 35 mm = de 200 a 800 mm): para fotografía de naturaleza, paisajes, vida salvaje, etc.
 - Sus capacidades de resistencia al polvo y a las salpicaduras permiten fotografiar incluso en condiciones difíciles, gracias a su fiable sellado contra las inclemencias meteorológicas de la categoría M.Zuiko Pro.
-- Totalmente portátil con una longitud de tan solo 205,7 mm y un peso de apenas 1120 g (solo el objetivo); ideal para fotografiar cualquier escena en cualquier parte del mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089YY76YK{{</world>}}

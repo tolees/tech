@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 2280 PCIe x4 NVMe Opal2
-- Pantalla de 13.3" FHD (1920x1080) IPS 300nits AR (anti-reflection) / AS (anti-smudge), Touch
-- Memoria RAM 8GB Soldered DDR4-3200
 - Tarjeta gráfica Integrated AMD Radeon Graphics
 - Sistema operativo Windows 10 pro
+- Pantalla de 13.3" FHD (1920x1080) IPS 300nits AR (anti-reflection) / AS (anti-smudge), Touch
+- Almacenamiento de 256GB SSD M.2 2280 PCIe x4 NVMe Opal2
 - Procesador AMD Ryzen 5 PRO 5650U (6C / 12T, 2.3 / 4.2GHz, 3MB L2 / 16MB L3)
+- Memoria RAM 8GB Soldered DDR4-3200
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BDCZZRV{{</world>}}

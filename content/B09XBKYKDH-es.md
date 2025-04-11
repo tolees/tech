@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 3070 Ti con memoria GDDR6 de 8 GB
-- Memoria RAM DDR5 de doble canal de 16 GB, 2 x 8 GB, a 4800 MHz
-- Pantalla FHD de 15,6, 1920 x 1080, 165 Hz, sin función táctil, antirreflectante, WVA, con retroiluminación LED, 300 nits, borde estrecho
 - Sistema operativo Windows 11
+- Tarjeta gráfica NVIDIA GeForce RTX 3070 Ti con memoria GDDR6 de 8 GB
 - Intel Core i7-12700H de 12.ª generación Procesador
+- Pantalla FHD de 15,6, 1920 x 1080, 165 Hz, sin función táctil, antirreflectante, WVA, con retroiluminación LED, 300 nits, borde estrecho
+- Memoria RAM DDR5 de doble canal de 16 GB, 2 x 8 GB, a 4800 MHz
 - Unidad de estado sólido M.2 PCIe Gen 4 de 1 TB
 
 [🛒 Comprar!!!]({{< param buyurl >}})

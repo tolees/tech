@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla FHD de 14" (35,6 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Gráficos Integrados Intel UHD 600
-- Sistema operativo Chrome OS
 - Memoria RAM LPDDR4-2400 MHz 8 GB (integrada)
-- Almacenamiento de datos eMMC de 128 GB
 - Procesador Intel Celeron N4120 (frecuencia de ráfaga de hasta 2,6 GHz, 4 MB de caché L2, 4 núcleos, 4 subprocesos)
+- Sistema operativo Chrome OS
+- Pantalla FHD de 14" (35,6 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Almacenamiento de datos eMMC de 128 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVZM4LCJ{{</world>}}

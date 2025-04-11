@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 14" 2.8K 2880 x 1800 pixeles OLED 400 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Procesador AMD Ryzen 5 7530U (6C/HexaCore 2 / 4.5GHz, 16MB)
-- Memoria RAM de 16GB en placa LPDDR4x
 - Sin Sistema Operativo
+- Procesador AMD Ryzen 5 7530U (6C/HexaCore 2 / 4.5GHz, 16MB)
+- Pantalla de 14" 2.8K 2880 x 1800 pixeles OLED 400 nits
+- Memoria RAM de 16GB en placa LPDDR4x
 - Tarjeta gráfica integrada AMD Radeon Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

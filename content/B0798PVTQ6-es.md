@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lan virtual para mayor seguridad de red
+- Lan virtual para mayor seguridad de red
 - Calidad del servicio para un mejor control del tráfico
-- Lan virtual para mayor seguridad de red
-- Lan virtual para mayor seguridad de red
 - Gestión intuitiva de web
 - Multidifusión de snooping igmp v1/v2 y v3 compatible con aplicaciones de retransmisión continua
 

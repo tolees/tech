@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
-- Tarjeta gráfica Integrada AMD Radeon 680M Graphics
-- Procesador AMD Ryzen 7 6800U
-- Procesador AMD Ryzen 7 6800U (8C / 16T, 2.7 / 4.7GHz, 4MB)
 - Pantalla táctil convertíble de 14 pulgadas 2,2 K 2240 x 1400 pixeles 300 nits Glossy, 100 por ciento sR GB, Low Blue Light, Dolby Vision
+- Tarjeta gráfica Integrada AMD Radeon 680M Graphics
 - Almacenamiento de 512 GB SSD M,2 2242 PCIe 4,0 x 4 NVMe
 - Tarjeta gráfica Integrada AMD Radeon 680M Graphics
-- Memoria RAM de 16 GB Soldered LPDDR5-6400
+- Procesador AMD Ryzen 7 6800U
 - Memoria RAM de 16GB Soldered LPDDR5-6400
+- Memoria RAM de 16 GB Soldered LPDDR5-6400
 - Pantalla táctil convertíble de 14" 2.2K 2240x1400 pixeles 300nits Glossy, 100% sRGB, Low Blue Light, Dolby Vision
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+- Procesador AMD Ryzen 7 6800U (8C / 16T, 2.7 / 4.7GHz, 4MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B75DJSYY{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 6934177770562
 - MZB0AUCEU
+- 6934177770562
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TKFFS23{{</world>}}

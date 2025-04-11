@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro kit de mantenimiento tiene todo lo que necesitas, incluida una herramienta de limpieza, cepillos laterales, filtros AeroVac, un cepillo de cerdas y un cepillo de goma.
-- El kit incluye: 1 cepillo de cerdas 1 cepillo de goma 1 cepillo lateral giratorio, 3 filtros AeroVac azules 1 herramienta de limpieza circular
-- Compatible con: Solo robots Roomba Serie 600
 - ¿Por qué vendedores autorizados y accesorios auténticos? Cuando compras un producto iRobot, estás haciendo una inversión para tu hogar. Comprar productos iRobot auténticos a vendedores autorizados es la única manera de asegurarte de que lo que estás comprando sea digno de tu inversión. Los productos comprados a un vendedor no autorizado no estarán cubiertos ni serán reparados por iRobot.
 - El mantenimiento habitual mantiene tu Robot Aspirador Roomba funcionando al máximo rendimiento.
+- Nuestro kit de mantenimiento tiene todo lo que necesitas, incluida una herramienta de limpieza, cepillos laterales, filtros AeroVac, un cepillo de cerdas y un cepillo de goma.
+- Compatible con: Solo robots Roomba Serie 600
+- El kit incluye: 1 cepillo de cerdas 1 cepillo de goma 1 cepillo lateral giratorio, 3 filtros AeroVac azules 1 herramienta de limpieza circular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009W16DHC{{</world>}}

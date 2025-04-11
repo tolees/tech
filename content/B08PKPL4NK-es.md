@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cartuchos de gran calidad: consigue fotografías perfectas y con una gran duración de hasta 100 años gracias a los cartuchos Fine originales de Canon.
 - Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android).
 - Impresora Canon multifunción 3 en 1: se adapta a tus necesidades. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
-- Impresora compatible con los cartuchos de tinta Canon originales: PG-545 negra, CL-546 color y PG-545XL negra, CL-546XL color.
 - Fácil de configurar: gracias a la pantalla LCD monocroma de 3,8cm la configuración de la impresora resulta muy sencilla.
+- Impresora compatible con los cartuchos de tinta Canon originales: PG-545 negra, CL-546 color y PG-545XL negra, CL-546XL color.
 - Cartuchos de tinta XL: ahorra dinero y saca la máxima rentabilidad con la impresión automática a doble cara para reducir el uso de papel.
+- Cartuchos de gran calidad: consigue fotografías perfectas y con una gran duración de hasta 100 años gracias a los cartuchos Fine originales de Canon.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PKPL4NK{{</world>}}

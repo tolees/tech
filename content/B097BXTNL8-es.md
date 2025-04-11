@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sensor óptico Roccat Owl-Eye de 19 000 ppp
+- Titan Switch Optical es táctil y rápido
 - Iluminación RGB 3D con 22 LED
 - Forma icónica Kone con diseño de múltiples botones
-- Titan Switch Optical es táctil y rápido
-- Sensor óptico Roccat Owl-Eye de 19 000 ppp
 - La rueda Krystal 4D ofrece una gran personalización
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Memoria integrada para tres perfiles, modo de juego, 100 % anti-ghosting y funcionalidades n-key rollover
+- Teclas mecánicas hyperx, cuerpo completo de aluminio aeronáutico
 - Personalización avanzada con el software hyperx ngenuity, tres ángulos de teclado ajustables
 - Diseño compacto y portátil con cable usb tipo c desmontable, deslumbrante iluminación rgb con efectos dinámicos,
-- Teclas mecánicas hyperx, cuerpo completo de aluminio aeronáutico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08H6TWRF3{{</world>}}

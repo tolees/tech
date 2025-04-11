@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cámaras de resolución con angular de 50 MP y selfies de 60 MP; captura detalles sorprendentes con luz normal o con poca luz gracias a la tecnología Quad Pixel
 - Enfoque instantáneo de todos los píxeles y grabación HDR10+; consigue 32 veces píxeles de enfoque para un rendimiento rápido y preciso con poca luz, además de la grabación HDR10+ con mil millones de tonos de color
-- Pantalla fluida de 144 Hz display + audio Dolby Atmos; disfruta de una pantalla OLED de 6,7" con HDR10+ para obtener mil millones de tonos de color y escucha con altavoces estéreo
-- Nota: Evite realizar las siguientes actividades que consumen mucha batería hasta que pueda cargarla: grabar o mirar videos, escuchar música, tomar fotografías, usar fondos de pantalla animados
 - Rendimiento Snapdragon 8 óptimo en el mercado Experimenta la plataforma móvil rápida y potente
+- Nota: Evite realizar las siguientes actividades que consumen mucha batería hasta que pueda cargarla: grabar o mirar videos, escuchar música, tomar fotografías, usar fondos de pantalla animados
 - Da rienda suelta a tu teléfono con Ready For; conéctate de forma inalámbrica a una televisión para jugar a juegos para móvil, hacer videollamadas y utilizar las aplicaciones del teléfono en una óptima pantalla
+- Pantalla fluida de 144 Hz display + audio Dolby Atmos; disfruta de una pantalla OLED de 6,7" con HDR10+ para obtener mil millones de tonos de color y escucha con altavoces estéreo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TWPRC9Y{{</world>}}

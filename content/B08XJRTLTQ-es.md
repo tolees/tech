@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 20W de potencia. Iluminación multicolor
-- DTS Sound Plus, sonido envolvente para tu música
-- Sound Boost, bajos reforzados más potentes
 - Batería de larga duración (18 horas)
+- Sound Boost, bajos reforzados más potentes
+- DTS Sound Plus, sonido envolvente para tu música
 - Calidad de sonido Meridian para disfrutar de un sonido de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

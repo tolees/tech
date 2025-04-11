@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [LARGA DURACIÓN DE LA BATERÍA] 22 horas de música, 24 horas de llamada, 60 días en espera con sólo 2-3 horas de carga. No necesita mucho tiempo para cargarlo, y cuando está totalmente cargado la batería durará todo el día.
 - [NO DUDE DE COMPRAR] Compatible con la mayoría de los dispositivos habilitados para Bluetooth, por ejemplo iPhone, Samsung, HTC, LG, SONY, PC, Laptop, etc. 1 año de garantía. Servicio de atención al cliente 24 horas y un equipo técnico profesional siempre están a su disposición.
 - [CÓMODO & MANO LIBRE] Con un diseño ligero, se hace un auricular perfecto para los conductores y comerciantes. El clip adjustable con 360°de rotación mantiene la posición correcta del auricular. Elige lo que cumple mejor entre las tres almohadillas incluidas : pequeña, mediana y grande.
+- [LARGA DURACIÓN DE LA BATERÍA] 22 horas de música, 24 horas de llamada, 60 días en espera con sólo 2-3 horas de carga. No necesita mucho tiempo para cargarlo, y cuando está totalmente cargado la batería durará todo el día.
 - [CVC 6.0 & SONIDO CLARO] Se usa CVC 6.0 cancelación de ruido tecnología. Durante una conversación, la voz suena claramente para todos los interlocutores.
 - [ESTUCHE & AURICULAR ADICIONAL] El estuche incluido puede guardar el auricular en seguro para que no lo pierda. Y el auricular adicional es para que pueda escuchar música con dos orejas.
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Tarjeta gráfica Intel Graphics
+- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Procesador Intel Core 7 150U, 1.8 / 5.4 GHz, 12 MB Smart Cache
 - Memoria RAM de 16GB
 - Almacenamiento de 512GB SSD

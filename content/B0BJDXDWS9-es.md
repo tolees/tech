@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 0
+- 0
 - - Fabricante de procesador: AMD - Socket de procesador: Zócalo AM5 - Procesador compatible: AMD Ryzen? 7 - Máx.número de procesador SMP: 1 - tipos de memoria compatibles: DDR5-SDRAM - Número de ranuras de memoria: 4
-- 0
-- 0
 - 0
 
 [🛒 Comprar!!!]({{< param buyurl >}})

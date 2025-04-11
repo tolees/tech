@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 8 Botones Programables: Tiene 8 botones programables para configurar las acciones durante el gaming con ordenador, Mac o portátil
-- Velocidad de Repuesta Rápida: Una velocidad de respuesta de 1 ms ofrece la seguridad de que cada uno de los movimientos se comunica a través de este ratón con cable USB
 - Cambio de DPI sobre la Marcha: Incluye 4 valores de DPI ajustable para precisión extrema o para maniobras vertiginosas
+- Velocidad de Repuesta Rápida: Una velocidad de respuesta de 1 ms ofrece la seguridad de que cada uno de los movimientos se comunica a través de este ratón con cable USB
 - Ligerísimo: Este ratón con cable para gaming G402 Hyperion Fury está hecho con materiales ultraligeros y tiene pies de baja fricción para poder jugar a toda velocidad
+- 8 Botones Programables: Tiene 8 botones programables para configurar las acciones durante el gaming con ordenador, Mac o portátil
 - La Ciencia de Motor Fusion: Motor Fusion integrado en el ratón gaming alámbrico que ofrece una mayor velocidad de seguimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

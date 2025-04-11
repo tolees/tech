@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Repele la grasa, tu móvil estará siempre limpio. Tacto agradable, mejora el tacto de la pantalla original del smartphone, dando una sensación de suavidad inmejorable
 - Transparencia total. Excelente visibilidad con alto contraste. Filtro de protección para los ojos anti-UV
+- Repele la grasa, tu móvil estará siempre limpio. Tacto agradable, mejora el tacto de la pantalla original del smartphone, dando una sensación de suavidad inmejorable
 - Sistema de adherencia sin residuos y de fácil aplicación.
 - Dureza asegurada que cumple con estándar 9H+ Oleophofic coating
 - Diseñado especialmente por REY para NINTENDO SWITCH OLED

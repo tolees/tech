@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Ryzen 5 7530U
 - Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
+- Procesador Ryzen 5 7530U
+- Tarjeta gráfica AMD Radeon Graphics
+- Tarjeta gráfica AMD Radeon Graphics
 - Memoria RAM de 8GB Onboard DDR IV (3200MHz)
-- Tarjeta gráfica AMD Radeon Graphics
-- Tarjeta gráfica AMD Radeon Graphics
 - Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD w/o DRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

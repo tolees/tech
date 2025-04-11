@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
-- Un objetivo rápido con un gran f-stop de F1.8 para un bonito bokeh circular sin viñetas
-- Ámbitos de aplicación: naturaleza, luz baja y retrato; corresponde a un objetivo de 150 mm 35 mm
-- Adecuado para retratos y fotografía de paisajes
-- Óptimo procesamiento y bayoneta de metal de alta calidad
-- Calidad de imagen contundente, precisión hasta los bordes del campo de imagen, alta resolución y bajas aberraciones
 - Contenido del embalaje: objetivo, tapa del objetivo LC-62D, capucha del objetivo LH-66, tapa del objetivo LR-2 MFT (trasera), bolsa del objetivo LSC-0811, tarjeta de garantía
+- Ámbitos de aplicación: naturaleza, luz baja y retrato; corresponde a un objetivo de 150 mm 35 mm
+- Un objetivo rápido con un gran f-stop de F1.8 para un bonito bokeh circular sin viñetas
+- Adecuado para retratos y fotografía de paisajes
+- Calidad de imagen contundente, precisión hasta los bordes del campo de imagen, alta resolución y bajas aberraciones
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- Óptimo procesamiento y bayoneta de metal de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00CPLQ8MG{{</world>}}

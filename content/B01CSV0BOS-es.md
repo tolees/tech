@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene tres tarjetas amiibo: 1 tarjeta amiibo especial y 2 tarjetas amiibo normales
 - Hay 100 tarjetas diferentes en cada serie
+- Contiene tres tarjetas amiibo: 1 tarjeta amiibo especial y 2 tarjetas amiibo normales
 - Hay un álbum de coleccionista para cada serie de tarjetas amiibo de Animal Crossing
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

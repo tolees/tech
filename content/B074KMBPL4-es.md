@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al sudor
 - Hasta 16 horas gracias a charging case
+- Resistente al sudor
 - Tiempo de reproducción de hasta 8 horas
 - Sujeción segura gracias a la tecnología twist lock
 

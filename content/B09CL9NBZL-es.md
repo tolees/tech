@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería de hasta 10 horas. Disfruta de la música en cualquier lugar durante más tiempo.
-- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
 - Producto ECO Smart Green. El embalaje se ha realizado con papel 100% reciclable.
-- Auténtico sonido 360 de calidad y 120W de potencia omnidireccional 360º. Siente la música desde cualquier lugar a su alrededor.
 - Sonido potente y nítido gracias al Tweeter de titanio y al Woofer de fibra de vidrio, materiales de última generación.
+- Batería de hasta 10 horas. Disfruta de la música en cualquier lugar durante más tiempo.
+- Auténtico sonido 360 de calidad y 120W de potencia omnidireccional 360º. Siente la música desde cualquier lugar a su alrededor.
+- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
 - Diseño elegante y exclusivo. Su color burdeos combina con cualquier estilo y fácil de transportar con su asa superior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

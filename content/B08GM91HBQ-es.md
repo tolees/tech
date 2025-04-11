@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - PLACA BASE GIGABYTE A520I AC 1.1 AM4 MITX 2XDDR4
 - Capacidad de almacenamiento de memoria: 128.0
-- Tipo de memoria del ordenador: ddr4 sdram
 - Brand: Gigabyte Technology
+- Tipo de memoria del ordenador: ddr4 sdram
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GM91HBQ{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalla de 6.53 pulgas y 720 x 1600 píxeles
-- Triple cámara trasera con IA de 13 MP
 - Con batería de 5000 mAh
+- Triple cámara trasera con IA de 13 MP
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FMPHFFP{{</world>}}

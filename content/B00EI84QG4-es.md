@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Directamente preparado para usar con su televisor Samsung, sin necesidad de instalar o configurar el mando
 - De fácil uso y funcionamiento
+- Directamente preparado para usar con su televisor Samsung, sin necesidad de instalar o configurar el mando
 - Botonera de fácil pulsación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

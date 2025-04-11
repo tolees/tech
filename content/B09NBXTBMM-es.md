@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conectividad inalámbrica Bluetooth 5.1 te permite olvidarte de la llave; Benefíciate de su eficiencia energética y garantiza una conexión más larga y sólida
-- Sistemas operativos compatibles: Windows 11; Windows 10; macOS; Chrome OS
-- Diseño elegante tanto para zurdos como para diestros, elige entre tres elegantes colores: negro, rojo o plateado
-- El sensor óptico de este ratón ofrece un seguimiento de elevada precisión a 1600 ppp para aprovechar al máximo cada movimiento de tu muñeca con suavidad, agilidad y sensibilidad
 - Tres botones y una rueda para desplazarte
+- Sistemas operativos compatibles: Windows 11; Windows 10; macOS; Chrome OS
+- Conectividad inalámbrica Bluetooth 5.1 te permite olvidarte de la llave; Benefíciate de su eficiencia energética y garantiza una conexión más larga y sólida
+- El sensor óptico de este ratón ofrece un seguimiento de elevada precisión a 1600 ppp para aprovechar al máximo cada movimiento de tu muñeca con suavidad, agilidad y sensibilidad
+- Diseño elegante tanto para zurdos como para diestros, elige entre tres elegantes colores: negro, rojo o plateado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NBXTBMM{{</world>}}

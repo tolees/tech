@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Unidad de disco duro interna
-- Capacidad del HDD: 3 TB
 - Velocidad de rotación del HDD: 7200 RPM
-- Disco duro. Tamaño: 88,9 mm (3,5 pulgadas)
+- Tipo de producto: Unidad de disco duro interna
 - Descripción del producto: Toshiba - DT01ACA300
+- Capacidad del HDD: 3 TB
+- Disco duro. Tamaño: 88,9 mm (3,5 pulgadas)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00A7SONPI{{</world>}}

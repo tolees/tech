@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ergonomico
 - Acabado premium
+- Diseño ergonomico
 - Agarre mejorado
 - La caja incluye 2 grips
 

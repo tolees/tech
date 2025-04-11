@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Modalità Arcade per coloro che vogliono saltare direttamente nellazione
 - storia coinvolgente raccontata con pixel-art cut-scene
 - combattere con spade, nunchakus e album apre personale
 - molti nemici diversi ciascuno con le proprie mosse e armi.intense battaglie di boss.Parry eventuali attacchi, proiettili e trappole.I punteggi più alti vengono caricati in modo da poter competere, a livello globale con altri giocatori.aree segrete e misteri da scoprire.modalità cooperativa, con capacità di guarire a vicenda
-- Modalità Arcade per coloro che vogliono saltare direttamente nellazione
 - Motore di combattimento su misura con mosse uniche per ogni personaggio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

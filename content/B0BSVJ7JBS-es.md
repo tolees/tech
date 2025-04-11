@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 15.6" FHD (1920x1080), TN, 250nits, antirreflejos
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
-- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
 - Procesador Intel Core i5-1155G7 (4C / 8T, 2.5 / 4.5GHz, 8MB)
+- Pantalla de 15.6" FHD (1920x1080), TN, 250nits, antirreflejos
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSVJ7JBS{{</world>}}

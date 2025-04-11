@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compatible con Windows 7 o versiones posteriores, y Mac OS 10.9 o versiones posteriores
-- Cree e imprima hasta 71 etiquetas de direcciones, envíos, carpetas y códigos de barras, tarjetas de identificación, entre otras cosas, por minuto
-- Pase de una tarea de etiquetado a otra fácilmente gracias a sus dos carretes, sin necesidad de cambiar los rollos; la impresora empieza automáticamente el segundo rollo cuando se termina el primero
 - La tecnología de impresión térmica elimina la necesidad de usar elementos caros, como tinta o tóner
 - Conéctela al PC o Mac y podrá imprimir etiquetas desde Word, Excel, Outolook, QuickBooks y otros programas
+- Cree e imprima hasta 71 etiquetas de direcciones, envíos, carpetas y códigos de barras, tarjetas de identificación, entre otras cosas, por minuto
+- Pase de una tarea de etiquetado a otra fácilmente gracias a sus dos carretes, sin necesidad de cambiar los rollos; la impresora empieza automáticamente el segundo rollo cuando se termina el primero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002ZSW08A{{</world>}}

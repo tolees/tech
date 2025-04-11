@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Acción de Botón Personalizada】Boton Switch Zigbee personalizar las acciones de los botones como desee. Controle múltiples dispositivos con una sola pulsación, doble pulsación y pulsación larga.
-- 【Activar Rutinas Alexa】Activa las rutinas de Alexa con solo pulsar el interruptor inalámbrico (requiere SONOFF Zigbee hub).
-- 【Compatible con Zigbee 3.0】 Switch boton sonoff SNZB-01P Soporta concentradores Zigbee utilizando el protocolo Zigbee 3.0, Como SONOFF NSPanel Pro, ZB Bridge Pro, y ZBDongle-E./P
 - 【5 Años de Vida de la Batería】Accionado por una batería CR2477. *Los datos de duración de la batería se obtienen del laboratorio interno de SONOFF, por favor refiérase al uso real.
 - 【Botón de Emergencia】Wireless Switch Zigbee SNZB-01P se puede utilizar como un botón de emergencia cuando ocurre una emergencia, su familia puede presionar el botón para enviar una notificación de alerta a su teléfono.
+- 【Activar Rutinas Alexa】Activa las rutinas de Alexa con solo pulsar el interruptor inalámbrico (requiere SONOFF Zigbee hub).
+- 【Compatible con Zigbee 3.0】 Switch boton sonoff SNZB-01P Soporta concentradores Zigbee utilizando el protocolo Zigbee 3.0, Como SONOFF NSPanel Pro, ZB Bridge Pro, y ZBDongle-E./P
+- 【Acción de Botón Personalizada】Boton Switch Zigbee personalizar las acciones de los botones como desee. Controle múltiples dispositivos con una sola pulsación, doble pulsación y pulsación larga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL9JTMWF{{</world>}}

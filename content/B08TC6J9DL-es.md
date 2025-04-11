@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fabricado en material resistente
+- El led de 5 colores del panel frontal está diseñado para que pueda comprobar la velocidad del enlace
 - Óptimo para simplificar las redes de los usuarios domésticos y de pequeñas oficinas
 - Cuenta con tres puertos multi-gigabit que soportan hasta 10G
-- El led de 5 colores del panel frontal está diseñado para que pueda comprobar la velocidad del enlace
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TC6J9DL{{</world>}}

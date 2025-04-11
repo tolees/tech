@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran pantalla hasta 391 pulgadas
-- Lámpara de larga duración: hasta 18 años
+- Proyector Full HD 1080p
 - Luminosidad de 3000 lúmenes
+- Lámpara de larga duración: hasta 18 años
 - Tecnología 3LCD: Niveles de emisión equivalentes de luz blanca y de color
 - Fácil configuración: con corrección keystone y hdmi
-- Proyector Full HD 1080p
+- Gran pantalla hasta 391 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWS6TZNL{{</world>}}

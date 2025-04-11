@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalla: TFT 2.31" color
-- Cámara: 0.3 MP calidad
 - Agenda: 300 contactos
 - Teclas en caucho grandes y ergonómicas
 - Resolución: 320 x 240 pixels
+- Cámara: 0.3 MP calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WKHZSXR{{</world>}}

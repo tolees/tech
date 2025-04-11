@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mecanismo: Membrana
-- Longitud del cable: 1450 mm
-- Conector USB
-- Sus teclas planas elevadas y sus patillas de elevación facilitan el proceso de escritura
 - Se presenta en un elegante color negro mate ideal para utilizarlo tanto en entornos de trabajo como en el hogar
-- KB901 es un teclado con 104 teclas
+- Longitud del cable: 1450 mm
+- Sus teclas planas elevadas y sus patillas de elevación facilitan el proceso de escritura
 - Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
+- Conector USB
+- Mecanismo: Membrana
+- KB901 es un teclado con 104 teclas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07T63FQ2J{{</world>}}

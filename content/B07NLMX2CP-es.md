@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carga el estuche con un cargador inalámbrico o con el conector Lightning
 - Este estuche es la mejor forma de cargar los AirPods sin cables: lo colocas sobre un cargador inalámbrico y listo.
-- Y si no tienes la base a mano, siempre puedes usar el puerto Lightning.
 - Compatible con los AirPods (1.ª o 2.ª generación)
+- Carga el estuche con un cargador inalámbrico o con el conector Lightning
+- Y si no tienes la base a mano, siempre puedes usar el puerto Lightning.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NLMX2CP{{</world>}}

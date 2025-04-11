@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marco liviano para un diseño simple
 - Elija entre dos placas traseras diferentes, transparente o semitransparente
+- Marco liviano para un diseño simple
 - Protección del marco y la parte trasera de arañazos y golpes.
 - La placa posterior transparente le ofrece espacio para sus ideas de diseño.
 

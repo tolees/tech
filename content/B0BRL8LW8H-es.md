@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color Urban Silver
-- Procesador AMD Ryzen 5 7530U
 - Almacenamiento 512GB*1 NVMe SSD PCIe Gen3
+- Color Urban Silver
 - Memoria RAM 8GB, DDR4-3200
+- Procesador AMD Ryzen 5 7530U
 - Pantalla de 14" FHD (1920x1080), IPS-Level
 
 [🛒 Aquí!!!]({{< param buyurl >}})

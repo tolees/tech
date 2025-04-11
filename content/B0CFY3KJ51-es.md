@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4711377132862
 - 7E26-003R
+- 4711377132862
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFY3KJ51{{</world>}}

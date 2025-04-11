@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Redmi Smart Band 2 tiene el cuerpo ligero y ultradelgado de 9.99 mm., no solo queda bien, sino que también sienta bien; más de 100 pantallas de reloj con aspecto siempre moderno, elegante y estilizado. La gama de pantallas de reloj elegantes combinan con tu estado de ánimo y tu atuendo
-- Resistente al agua hasta 50 metros. La clasificación de resistencia al agua de 5 ATM significa que no necesitas quitarte tu Redmi Smart Band 2 en entornos húmedos. Carga magnética con una batería con una duración de 14 días
 - Pantalla más grande para una visión más clara. Pantalla TFT vibrante de 1.47 ofrece un área de visualización un 10.5% mayor, por lo que facilita la lectura, tanto si quieres comprobar tu frecuencia cardíaca mientras corres como tus mensajes de camino al trabajo, podrás ver todo lo que necesitas con un simple movimiento de muñeca
 - Más de 30 modos deportivos como carrera al aire libre, yoga y senderismo para ayudarte a alcanzar tu objetivo de fitness. La duración del ejercicio, las calorías quemadas y la frecuencia cardíaca se pueden ver claramente de un vistazo
+- Resistente al agua hasta 50 metros. La clasificación de resistencia al agua de 5 ATM significa que no necesitas quitarte tu Redmi Smart Band 2 en entornos húmedos. Carga magnética con una batería con una duración de 14 días
+- La Redmi Smart Band 2 tiene el cuerpo ligero y ultradelgado de 9.99 mm., no solo queda bien, sino que también sienta bien; más de 100 pantallas de reloj con aspecto siempre moderno, elegante y estilizado. La gama de pantallas de reloj elegantes combinan con tu estado de ánimo y tu atuendo
 - Monitor de frecuencia cardíaca las 24 horas. El sensor de fotopletismografía (PPG) de alta precisión integrado realiza un seguimiento de la frecuencia cardíaca las 24 horas del día, incluso envía una alerta cuando detecta una frecuencia cardíaca anómala. Medición de oxígeno en sangre. El nivel de saturación de oxígeno en sangre (SpO₂) indica la cantidad de oxígeno en la sangre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

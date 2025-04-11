@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Monitor para ordenadores
-- Periférico informático
 - Adecuado para gamers
+- Periférico informático
+- Monitor para ordenadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT4Y1FY4{{</world>}}

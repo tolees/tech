@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONECTIVIDAD HDMI CEC: Interfaz para PC, Mac, consolas y portátiles incluye puertos DisplayPort 1.2a (FHD/170 Hz) y HDMI 1.4b CEC (FHD/144 Hz); la parte posterior del monitor incluye un navegador con joystick 5-way y un soporte con inclinación ajustable
-- AMPLIA GAMA COLORES: El G2722 admite hasta 16,7 millones de colores con 101,91% de sRGB para una mayor precisión del color; los monitores MSI están optimizados para producir menos luz azul y emplean la tecnología anti-flicker para reducir la fatiga visual
-- CONTRASTE DINÁMICO Y VISIÓN NOCTURNA: El panel IPS cuenta con contraste nativo mejorado de 1100:1 (un 10% superior al de los paneles IPS genéricos), y admite contraste dinámico (100M:1); MSI Night Vision resalta detalles clave en entornos de juego oscuros
 - 27" FHD, 170HZ: Panel IPS alta definición 1920 x 1080 (relación de aspecto 16:9) con frecuencia de actualización de 170 Hz (AMD FreeSync Premium) permite apuntar y seguir los movimientos con suavidad; el tiempo de respuesta de 1 ms es ideal para esports
 - CALIDAD DE IMAGEN IPS, JUEGO SIN MARCOS: Los monitores con panel IPS de MSI suministran una intensidad de color excepcional y admiten ángulos de visión amplios de 178°; un diseño "sin marcos" (framless) reduce las líneas de bisel entre las pantallas.
+- AMPLIA GAMA COLORES: El G2722 admite hasta 16,7 millones de colores con 101,91% de sRGB para una mayor precisión del color; los monitores MSI están optimizados para producir menos luz azul y emplean la tecnología anti-flicker para reducir la fatiga visual
+- CONTRASTE DINÁMICO Y VISIÓN NOCTURNA: El panel IPS cuenta con contraste nativo mejorado de 1100:1 (un 10% superior al de los paneles IPS genéricos), y admite contraste dinámico (100M:1); MSI Night Vision resalta detalles clave en entornos de juego oscuros
+- CONECTIVIDAD HDMI CEC: Interfaz para PC, Mac, consolas y portátiles incluye puertos DisplayPort 1.2a (FHD/170 Hz) y HDMI 1.4b CEC (FHD/144 Hz); la parte posterior del monitor incluye un navegador con joystick 5-way y un soporte con inclinación ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP2SJQC1{{</world>}}

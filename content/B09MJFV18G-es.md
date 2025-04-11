@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home in S mode
-- Pantalla de 14" Full HD 1920 x 1080 pixeles
-- Procesador Intel Celeron N4020 (2C/DualCore 1.1GHz, 4MB)
 - Memoria RAM de 4GB SO-DIMM DDR4
-- Tarjeta gráfica integrada Intel UHD Graphics 600
 - Almacenamiento de 64GB eMMC
+- Procesador Intel Celeron N4020 (2C/DualCore 1.1GHz, 4MB)
+- Pantalla de 14" Full HD 1920 x 1080 pixeles
+- Tarjeta gráfica integrada Intel UHD Graphics 600
+- Sistema Operativo: Windows 11 Home in S mode
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MJFV18G{{</world>}}

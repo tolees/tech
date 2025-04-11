@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con Nintendo Switch y Nintendo Switch Lite
-- Construcción de carcasa semidura con asa de transporte de agarre rápido
 - Tiene capacidad para 14 tarjetas de juego con un compartimento frontal con cremallera para un almacenamiento óptimo
+- Compatible con Nintendo Switch y Nintendo Switch Lite
 - Bolsillos de almacenamiento separados y correas de retención de velcro para mantener los accesorios en su sitio
+- Construcción de carcasa semidura con asa de transporte de agarre rápido
 - Con licencia oficial de Nintendo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

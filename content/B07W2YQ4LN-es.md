@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye perfiles de actividad para fuera de la piscina, incluidas actividades básicas de cardio, ciclismo y carrera
-- Fino y ligero con pantalla siempre visible fácil de leer incluso al sol, interfaz de 5 botones que permite iniciar entrenamientos o marcar vueltas de forma rápida
-- Ahora incluye muchas más funciones de nado como el reposo, velocidad crítica de nado, seguimiento de la distancia, ritmo, recuento de brazadas, tipo de brazada, distancia por brazada y seguimiento GPS cuando nades en exteriores
 - Las funciones de conexión incluyen notificaciones inteligentes de mensajes de texto y llamadas, carga automática en la aplicación garmin connect y muchas más
 - Material type: plástico
+- Fino y ligero con pantalla siempre visible fácil de leer incluso al sol, interfaz de 5 botones que permite iniciar entrenamientos o marcar vueltas de forma rápida
+- Ahora incluye muchas más funciones de nado como el reposo, velocidad crítica de nado, seguimiento de la distancia, ritmo, recuento de brazadas, tipo de brazada, distancia por brazada y seguimiento GPS cuando nades en exteriores
 - Material type: plástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

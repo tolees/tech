@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con Surface Go 1 y Surface Go 2
-- Material microfibra
-- No es Bluetooth
 - No dispone de indicador de batería cargada
+- No es Bluetooth
+- Material microfibra
 - Teclado Microsoft Surface Go Cover
+- Compatible con Surface Go 1 y Surface Go 2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0883SBQ2K{{</world>}}

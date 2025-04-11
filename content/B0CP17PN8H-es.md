@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manufacturer : ATI
-- Display.size : 6.74 inches
-- Battery.capacity : 5000.0 milliamp hours
 - Ram memory.installed size : 4.0 GB
-- Batteries included : False
-- Wireless network technology : wifi
-- Operating system : Android
+- Wireless provider : orange
 - Item dimensions : 3.07 inches
-- Included components : 1 package
-- Connectivity technology : NFC
+- Wireless network technology : wifi
+- Batteries included : False
 - Battery.charge time : 1.0 hours
 - MZB0FM7EU
-- Wireless provider : orange
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Camera description : Frontal
-- Memory storage capacity : 128.0 GB
+- Manufacturer : ATI
 - Cellular technology : 4G
 - Battery.average life : 13.0 hours
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
+- Battery.capacity : 5000.0 milliamp hours
+- Memory storage capacity : 128.0 GB
+- Included components : 1 package
+- Connectivity technology : NFC
+- Operating system : Android
+- Camera description : Frontal
+- Display.size : 6.74 inches
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- Tarjeta gráfica AMD Radeon
-- Memoria integrada LPDDR4x de 16 GB a 4266 MHz
-- Pantalla FHD+ de 35,6 cm (14,0") 16:10 (1920 x 1200) antirreflectante sin función táctil, 250 nits WVA compatible con ComfortView
 - Procesador AMD Ryzen 7 7730U de 8 núcleos/16 subprocesos con tarjeta gráfica Radeon
+- Pantalla FHD+ de 35,6 cm (14,0") 16:10 (1920 x 1200) antirreflectante sin función táctil, 250 nits WVA compatible con ComfortView
+- Memoria integrada LPDDR4x de 16 GB a 4266 MHz
 - Unidad de estado sólido PCIe NVMe M.2 de 1 TB
+- Tarjeta gráfica AMD Radeon
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLV5ZF4D{{</world>}}

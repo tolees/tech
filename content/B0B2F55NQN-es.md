@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 16 GB DDR4 SDRAM
 - Procesador Intel Core i5-12400F (HexaCore), 2,50 GHz
-- Almacenamiento de 512 GB SSD PCI Express
 - Sistema Operativo: Windows 11 Home
+- Almacenamiento de 512 GB SSD PCI Express
+- Memoria RAM de 16 GB DDR4 SDRAM
 - Tarjeta gráfica NVIDIA GeForce RTX 3060Ti - 8GB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

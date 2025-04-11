@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Taza fabricada en cerámica
 - Taza Marvel Guardianes de la Galaxia
+- Taza fabricada en cerámica
 - Producto coleccionable
 - Óptimo para regalar
 

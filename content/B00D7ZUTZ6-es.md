@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estabilizador Óptico de la imagen de 3 pasos
 - IS Dinámico para conseguir unos vídeos estables
 - Diseño de objetivo retráctil compacto
-- Enfoque STM suave y silencioso en vídeos
 - Objetivo zoom EF-M ultra gran angular de 11-22 mm
+- Enfoque STM suave y silencioso en vídeos
+- Estabilizador Óptico de la imagen de 3 pasos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00D7ZUTZ6{{</world>}}

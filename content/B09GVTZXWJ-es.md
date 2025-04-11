@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alta calidad
+- Tipo de conector: mini USB
 - Batería de 5000 mah
 - Xiaomi K11R 11T 8+256 Meteorite Gray
-- Tipo de conector: mini USB
-- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GVTZXWJ{{</world>}}

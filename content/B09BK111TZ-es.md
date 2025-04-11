@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
+- Memoria de 8GB, 1x8G, DDR4, 2933MHz
 - Sistema Operativo : Windows 10
 - Intel Core i5-10200H de 10.ª generación
 - Tarjeta gráfica NVIDIA GeForce RTX 3050Ti 4GB GDDR6
-- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
-- Memoria de 8GB, 1x8G, DDR4, 2933MHz
 - Pantalla FHD de 15,6 pulgadas (1920 x 1080) 120 Hz 250 nits WVA antirreflejo Pantalla de borde estrecho con retroiluminación LED
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EquiPado con AMD Ryzen 5300U: Procesador móvil con gráficos Radeon Vega 7
 - Wi-Fi 6 (Gig+) y Bluetooth 5.0 facilitan unas conexiones rápidas y sin cables
+- EquiPado con AMD Ryzen 5300U: Procesador móvil con gráficos Radeon Vega 7
 - Windows 11 Pro: ASUS recomienda Windows 11 Pro para empresas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

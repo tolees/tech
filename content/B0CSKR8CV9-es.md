@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tarjeta gráfica NVIDIA GeForce RTX 4070 8GB GDDR6
-- Pantalla de 16" Quad HD+ 2560 x 1600 pixeles, 240Hz, IPS 500 nits
-- Sin Sistema Operativo
 - Procesador Intel Core i9-14900HX (24C/undefined 5.8GHz, 36MB)
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Pantalla de 16" Quad HD+ 2560 x 1600 pixeles, 240Hz, IPS 500 nits
+- Sin Sistema Operativo
 - Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altavoces con una potencia RMS de 120 W
 - Tiene una altura de 285 mm
 - El rango de frecuencia es de 76-26000 Hz
+- Altavoces con una potencia RMS de 120 W
 - Sensibilidad de 85 dB e obstrucción de 8 Ohm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

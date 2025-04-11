@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Interfaz innovadora con ruleta Roja】: Diseño revolucionario contra tabletas gráficas tradicionales. Con 8 teclas de accesos directos, le permiten mejorar su flujo de trabajo. Los accesorios también incluyen un soporte para tableta AC04, un cable 3 en 1; una película protectora antirreflectante.
-- 【Contabilidad Versátil】: Compatible con Windows 10/8/7 (32/64 bits), Mac OS X 10.10 o superior, y funciona con software gráfico como Photoshop, Painter, Illustrator, Clip Studio y más. Proporcionamos el software de dibujo OpenCanvas 7 para nuestros clientes de forma gratuita. Si lo necesita, póngase en contacto con nosotros con su número de pedido.
 - 【Tableta gráfica XPPen Artist 15.6 PRO】: Pantalla HD IPS de 15,6 pulgadas, grosor fino de 11 mm, con un botón de brillo. Resolución 1920x1080, ángulo de visión 178°.
+- 【Interfaz innovadora con ruleta Roja】: Diseño revolucionario contra tabletas gráficas tradicionales. Con 8 teclas de accesos directos, le permiten mejorar su flujo de trabajo. Los accesorios también incluyen un soporte para tableta AC04, un cable 3 en 1; una película protectora antirreflectante.
 - 【Lápiz pasivo de 8192 niveles con inclinación de 60 grados】: Función de inclinación de 60 grados permite al Artist 15.6 Pro detectar rápidamente los movimientos del lápiz para garantizar una imitación precisa de un verdadero efecto de pincel inclinado, perfecto para hacer la sombra de dibujo como un verdadero lápiz. Una presión de 8192 niveles le ofrece fluidez como dibujar en un papel real. También viene con un rodillo de bolígrafo para mantener el lápiz y las 8 puntas de repuesto en orden.
+- 【Contabilidad Versátil】: Compatible con Windows 10/8/7 (32/64 bits), Mac OS X 10.10 o superior, y funciona con software gráfico como Photoshop, Painter, Illustrator, Clip Studio y más. Proporcionamos el software de dibujo OpenCanvas 7 para nuestros clientes de forma gratuita. Si lo necesita, póngase en contacto con nosotros con su número de pedido.
 - 【Gamut de color: 90% Adobe RGB, 120% sRGB】: La pantalla IPS completamente laminada ofrece una precisión de color excepcional del 88% NSTC (90% Adobe RGB, 120% sRGB).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

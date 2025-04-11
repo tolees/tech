@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso, 8,4 kilograms
-- Memoria RAM de 16 GB 2 x 8 GB UDI mm DDR4-3200 ampliables hasta 32 GB
-- Procesador Intel Core i5-12400F
-- Almacenamiento de 512 GB SSD
 - Sin sistema operativo
+- Peso, 8,4 kilograms
+- Almacenamiento de 512 GB SSD
+- Memoria RAM de 16 GB 2 x 8 GB UDI mm DDR4-3200 ampliables hasta 32 GB
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 SUPER 4 GB GDDR6
+- Procesador Intel Core i5-12400F
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B7NYXRR4{{</world>}}

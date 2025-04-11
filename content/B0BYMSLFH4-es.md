@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 256GB
 - Color: blanco
 - Modelo: A54 5G
+- Capacidad: 256GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYMSLFH4{{</world>}}

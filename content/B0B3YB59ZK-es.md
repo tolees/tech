@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GRABACIÓN DE SONIDO DE CALIDAD: disfruta de una grabación de sonido nítida y de la reducción de ruidos no deseados; este micrófono de Sony ofrece una grabación de voz nítida y de calidad
 - COMPACTO Y PORTÁTIL: el tamaño compacto hace que este micrófono de escopeta sea fácil de transportar y utilizar en cualquier momento y lugar
+- GRABACIÓN DE SONIDO DE CALIDAD: disfruta de una grabación de sonido nítida y de la reducción de ruidos no deseados; este micrófono de Sony ofrece una grabación de voz nítida y de calidad
 - FLEXIBLE: un micrófono compacto 3 en 1 que ofrece una verdadera adaptabilidad; tanto si lo usas como micrófono de cámara o equipo de podcast, es adecuado para comunicaciones direccionales (entrevistas o vlogs selfie), comunicaciones unidireccionales (charlas) y comunicaciones omnidireccionales (sonidos ambientales o la voz del operador)
 - INALÁMBRICO Y SIN PILAS: el micrófono inalámbrico te ofrece una gran movilidad con una experiencia sin batería ni cables; utiliza este micrófono para vlogging o creación de contenidos; y no te preocupes nunca por la duración de la batería cuando estés de viaje
 

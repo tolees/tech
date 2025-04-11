@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Factor de forma 60 %. Funcionalidad de tamaño completo. Placa superior de aluminio de alta calidad. USB-C extraíble.
 - COMPLETAMENTE PERSONALIZABLE Y RAPIDÍSIMO con interruptores HyperMagnetic ajustables OmniPoint 2.0
-- CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
-- Compatibilidad — SO: Windows, Xbox, PlayStation y Mac OS X. Puerto USB necesario (*no todas las características del software son compatibles con Mac OS). Software - SteelSeries Engine para Windows (8.1 o posterior) y Mac OSX (10.13 o posterior)
-- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
-- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
 - TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
+- CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
+- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
+- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
+- Compatibilidad — SO: Windows, Xbox, PlayStation y Mac OS X. Puerto USB necesario (*no todas las características del software son compatibles con Mac OS). Software - SteelSeries Engine para Windows (8.1 o posterior) y Mac OSX (10.13 o posterior)
+- Factor de forma 60 %. Funcionalidad de tamaño completo. Placa superior de aluminio de alta calidad. USB-C extraíble.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2X2KSDY{{</world>}}

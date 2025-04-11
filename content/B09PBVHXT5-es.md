@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Procesador Qualcomm Snapdragon 695 5G & Tecnología de proceso de 6 nm
 - Cámara para fotografía nocturna de 64 MP & Cámara frontal de 16 MP
+- Una frecuencia de actualización de 120 Hz y una velocidad de muestreo táctil de 240 Hz
 - 3 años de garantía
 - Batería masiva de 5000 mAh & Carga Dart de 33 W
-- Una frecuencia de actualización de 120 Hz y una velocidad de muestreo táctil de 240 Hz
-- Procesador Qualcomm Snapdragon 695 5G & Tecnología de proceso de 6 nm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PBVHXT5{{</world>}}

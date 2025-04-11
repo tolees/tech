@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modelo: 6N0A7AA
-- Requiere instalación
 - Entrada para ratón
+- Requiere instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BX52PCJ5{{</world>}}

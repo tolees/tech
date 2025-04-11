@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- NOTIFICACIONES INSTANTÁNEAS - Recibe un mensaje en el móvil cuando el sensor se active para saber que ocurre en casa
 - IMPORTANTE - Se requiere de un hub H100 para su funcionamiento
 - ACCIONES INTELIGENTES - Enciende y apaga automáticamente electrodomésticos al alcanzar una determinada temperatura o humedad
+- CREACIÓN DE INFORMES - Registra y alamcena los datos de temperatura y humedad creando resúmenes y gráficos
 - MEDICIÓN PRECISA - Detecta temperatura y humedad con alta precisión (±0,3 °C, ±3 % HR) actualizando cada 2 segundos.
 - FÁCIL INSTALACIÓN - Colócalo en casi cualquier superficie con el adhesivo 3M incluido, en superficies metálicas y directamente sobre un escritorio
-- NOTIFICACIONES INSTANTÁNEAS - Recibe un mensaje en el móvil cuando el sensor se active para saber que ocurre en casa
-- CREACIÓN DE INFORMES - Registra y alamcena los datos de temperatura y humedad creando resúmenes y gráficos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ28DJ7W{{</world>}}

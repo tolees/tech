@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
-- Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
 - ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
+- Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
 - Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
 - Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200
 - Gigabyte Placa Base H410M S2H V2 Micro ATX para CPU Intel LGA 1200

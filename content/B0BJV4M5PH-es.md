@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Objetivo V-AF diseñado para cámaras de alta resolución de hasta 8K, que ofrece una apertura rápida y un efecto bokeh preciso. El tono de color unificado reduce el tiempo de postproducción. Marcado como F1.8 en lugar de T1.9 en la cámara
-- Hay una lámpara Tally que muestra el estado de la filmación con una luz LED para que incluso un solo creador pueda verificar rápidamente el estado de la grabación. El anillo de enfoque se ha rediseñado para permitir aplicar el enfoque de seguimiento sin accesorios adicionales. También hay un interruptor personalizado y un botón de enfoque para configurar la función optimizada para filmar.
-- El diminuto tamaño de 72,2 x 72,1 mm y el peso ligero de 280 g redujeron la carga útil de los drones. Como la serie V-AF proporciona un centro de gravedad y un tamaño unificados, no es necesario realizar ajustes adicionales, lo que reduce en gran medida el tiempo de uso de un cardán.
-- El objetivo Samyang V-AF 75 mm fue creado para todos los creadores de videos, desde creadores de videos de una sola persona hasta pequeñas producciones y cineastas. con el desarrollo de las cámaras de lentes intercambiables y la prevalencia de los accesorios de video, cualquiera puede producir fácilmente contenido de video.
 - Con los accesorios personalizados V-AF para filmadores de videos profesionales y el tono de color consistente que representa V-AF, los videos se pueden crear de manera más conveniente
+- Hay una lámpara Tally que muestra el estado de la filmación con una luz LED para que incluso un solo creador pueda verificar rápidamente el estado de la grabación. El anillo de enfoque se ha rediseñado para permitir aplicar el enfoque de seguimiento sin accesorios adicionales. También hay un interruptor personalizado y un botón de enfoque para configurar la función optimizada para filmar.
+- El objetivo Samyang V-AF 75 mm fue creado para todos los creadores de videos, desde creadores de videos de una sola persona hasta pequeñas producciones y cineastas. con el desarrollo de las cámaras de lentes intercambiables y la prevalencia de los accesorios de video, cualquiera puede producir fácilmente contenido de video.
+- El diminuto tamaño de 72,2 x 72,1 mm y el peso ligero de 280 g redujeron la carga útil de los drones. Como la serie V-AF proporciona un centro de gravedad y un tamaño unificados, no es necesario realizar ajustes adicionales, lo que reduce en gran medida el tiempo de uso de un cardán.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJV4M5PH{{</world>}}

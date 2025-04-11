@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta de un estilo artístico de fantasía épica
 - Sumérgete en un mundo inspirado en la mitología eslava.
-- Corre, salta y explora un metroidvania en 2D. Lucha contra enemigos y poderosos jefes.
 - Personaliza tus habilidades heroicas y tus familiares.
 - El juego ha sido desarrollado por una sola persona - Slava Gris, inspirado en música de Expecte Amour
+- Corre, salta y explora un metroidvania en 2D. Lucha contra enemigos y poderosos jefes.
+- Disfruta de un estilo artístico de fantasía épica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BX45MS9K{{</world>}}

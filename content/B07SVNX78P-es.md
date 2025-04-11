@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- USB
-- Sistema de iluminación AIMO, retroiluminación RGB y efectos de iluminación LED. Mecanismo de clic más rápido y preciso
-- Tecnología Titan-click para una precisión de clic excepcional
-- ROCCAT Sensor óptico ojo de búho con 16.000 dpi
 - ROCCAT -conmutador Omron exclusivo con una vida útil de 50 millones de clics
+- USB
+- ROCCAT Sensor óptico ojo de búho con 16.000 dpi
 - Forma purista con una ergonomía muy cómoda
+- Tecnología Titan-click para una precisión de clic excepcional
+- Sistema de iluminación AIMO, retroiluminación RGB y efectos de iluminación LED. Mecanismo de clic más rápido y preciso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SVNX78P{{</world>}}

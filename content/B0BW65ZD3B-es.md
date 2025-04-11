@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MZB0DWTEU
 - 6941812721971
+- MZB0DWTEU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW65ZD3B{{</world>}}

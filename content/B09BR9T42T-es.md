@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempo de respuesta MPRT de 1 ms
-- Con tasa de refresco de 165 Hz
-- FreeSync Premium
 - Monitor gaming de 27"
+- Tiempo de respuesta MPRT de 1 ms
+- FreeSync Premium
+- Con tasa de refresco de 165 Hz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BR9T42T{{</world>}}

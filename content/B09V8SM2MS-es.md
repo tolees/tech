@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pegatinas
 - 2 soportes de personajes
+- Pegatinas
 - Caja exclusiva con lenticular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

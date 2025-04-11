@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resistente y con diseño funcional
 - Combo teclado/ ratón krom kalyos gaming semimecánico USB negro LED-RGB
 - Color: Negro
-- Resistente y con diseño funcional
 - Devices compatibles; PC/servidor
 - Teclado N-25 capacidad anti-ghosting / Ratón 6 niveles DPI intercambiables on-the-fly
 

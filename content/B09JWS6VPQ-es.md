@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM LPDDR4x-2933 MHz 4 GB (integrada)
-- Procesador Intel Celeron N4500 (frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L3, 2 núcleos, 2 subprocesos)
-- Almacenamiento de datos 64 GB eMMC
-- Gráficos Integrados Intel UHD
 - Sistema operativo Chrome OS
 - Pantalla Full HD de 14" (35,6 cm) en diagonal, IPS, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Procesador Intel Celeron N4500 (frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L3, 2 núcleos, 2 subprocesos)
+- Almacenamiento de datos 64 GB eMMC
+- Memoria RAM LPDDR4x-2933 MHz 4 GB (integrada)
+- Gráficos Integrados Intel UHD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JWS6VPQ{{</world>}}

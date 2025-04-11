@@ -32,8 +32,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Afila tus habilidades (y tu guadaña) en trepidantes combates hack n slash. Utiliza más de 70 armas y hechizos únicos que podrás encontrar y mejorar para crear combinaciones devastadoras . Un desafío épico con numerosos niveles, enemigos y jefes.
 - Como la Muerte no puede morir, utiliza lo que has aprendido y ganado para derrotar a los numerosos secuaces y jefes de cada departamento de Death Incorporated... una y otra vez. Una evaluación de tu rendimiento después de cada partida te garantiza el desbloqueo de interesantes objetos y mejoras que te ayudarán a progresar en tu viaje.
 - Jugabilidad, mundo, gráficos, animaciones... ¡Uno de los mejores juegos rogue-lite de los últimos años!
-- En este roguelike en 2D, encarnas a la agobiada Muerte, cuyos empleados han montado en cólera, alterando por completo el equilibrio de las almas... y tus planes de vacaciones. Para restablecer el orden, tendrás que coger tu fiel guadaña y demostrarles a tus empleados quién manda.
 - Descubre y explora los oscuros y encantadores departamentos generados proceduralmente de Death Inc., donde conocerás a un montón de personajes memorables, incluida tu afable ayudante con cabeza de calabaza, Pump Quinn, siempre dispuesta a compartir los últimos cotilleos de la oficina.
+- En este roguelike en 2D, encarnas a la agobiada Muerte, cuyos empleados han montado en cólera, alterando por completo el equilibrio de las almas... y tus planes de vacaciones. Para restablecer el orden, tendrás que coger tu fiel guadaña y demostrarles a tus empleados quién manda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKZ3BXNZ{{</world>}}

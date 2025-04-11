@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las consolas PS5 se venden por separado
 - Soporte vertical para consolas PS5 y consolas PS5 Edición Digital
-- Contiene: soporte vertical, tornillo de montaje, accesorio y manual de instrucciones
-- Hardware compatible: grupo de modelos de PS5 CFI-1000, grupo de modelos de PS5 CFI-2000 slim
 - El soporte vertical para PS5 mantendrá tu consola en posición vertical de forma segura.
+- Hardware compatible: grupo de modelos de PS5 CFI-1000, grupo de modelos de PS5 CFI-2000 slim
+- Las consolas PS5 se venden por separado
+- Contiene: soporte vertical, tornillo de montaje, accesorio y manual de instrucciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMXKVZDX{{</world>}}

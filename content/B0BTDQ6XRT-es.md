@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 32GB (16GB*2) DDR5
-- Procesador Raptor Lake i7-13700H
-- Tarjeta gráfica NVIDIA GeForce RTX 4060, GDDR6 8GB
-- Almacenamiento de 1TB NVMe PCIe SSD Gen4x4 w/o DRAM
 - Pantalla de 15.6" QHD (2560*1440), 165Hz DCI-P3 100% typical
+- Procesador Raptor Lake i7-13700H
+- Memoria RAM de 32GB (16GB*2) DDR5
+- Almacenamiento de 1TB NVMe PCIe SSD Gen4x4 w/o DRAM
+- Tarjeta gráfica NVIDIA GeForce RTX 4060, GDDR6 8GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDQ6XRT{{</world>}}

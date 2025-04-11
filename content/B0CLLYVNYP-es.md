@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Redmi Note 13 Pro hace alarde de un conjunto de cámaras de élite, encabezado por un impresionante sensor principal de hasta 200MP con estabilización óptica de imagen (OIS). Procesamiento de imágenes por IA lleva tus fotos a un nivel superior, entregan do resultados perfectos en cada toma
 - Redmi Note 13 Pro es un dispositivo que te sumerge en una experiencia visual verdaderamente excepcional. Su pantalla AMOLED y resolución FHD+ se combinan para ofrecerte imágenes de una calidad inigualable, con una tasa de refresco de 120Hz
-- Redmi Note 13 Pro no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla plana y marcos delgados, este dispositivo se siente como una joya en tus manos, y su estilo es innegable.
 - Cuenta con lo último en tecnología en procesadores, Mediateck el Helio G99 Ultra, que con su avanzada construcción en 6nm mejora la eficiencia y la potencia, permitiendo poder trabajar con aplicaciones complejas y juegos exigentes, sin dejar de lado la máxima eficiencia.
 - Redmi Note 13 Pro se destaca con una impresionante batería de 5000mAh y una capacidad de carga de 67W. Esto significa que no solo tendrás energía suficiente para todo el día, sino que también te olvidarás de preocuparte por quedarte sin batería.
+- Redmi Note 13 Pro hace alarde de un conjunto de cámaras de élite, encabezado por un impresionante sensor principal de hasta 200MP con estabilización óptica de imagen (OIS). Procesamiento de imágenes por IA lleva tus fotos a un nivel superior, entregan do resultados perfectos en cada toma
+- Redmi Note 13 Pro no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla plana y marcos delgados, este dispositivo se siente como una joya en tus manos, y su estilo es innegable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLLYVNYP{{</world>}}

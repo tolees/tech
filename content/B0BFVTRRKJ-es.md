@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teleobjetivo
-- Ligero; versátil
-- Zoom automático
 - Un objetivo, todas las tomas
 - Diseño optico magistral
+- Ligero; versátil
+- Teleobjetivo
+- Zoom automático
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFVTRRKJ{{</world>}}

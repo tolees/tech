@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Todos los entusiastas pueden disponer de un superteleobjetivo con una estabilización y un enfoque automático potentes
+- El motor STM ofrece un enfoque automático suave y silencioso, mientras que el anillo de control del objetivo proporciona un control intuitivo de los ajustes; Además, gracias a la abertura f/11 sin hojas, podrás conseguir un agradable efecto bokeh
 - Gracias al estabilizador óptico de imagen de 5 pasos, puedes conseguir vídeos e imágenes de teleobjetivo de gran nitidez sin utilizar un trípode
 - Gracias a la montura RF, la abertura f/11 y la óptica difractiva, este pequeño teleobjetivo mide solo 199.5 mm de largo al guardarlo y solo pesa 930 g
-- El motor STM ofrece un enfoque automático suave y silencioso, mientras que el anillo de control del objetivo proporciona un control intuitivo de los ajustes; Además, gracias a la abertura f/11 sin hojas, podrás conseguir un agradable efecto bokeh
+- Todos los entusiastas pueden disponer de un superteleobjetivo con una estabilización y un enfoque automático potentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CL3V63G{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 12 flujos Wi-Fi: dos bandas 5 GHZ de 160 MHZ y velocidad máxima de 11.000 Mbps
 - Cobertura ampliada: ASUS RangeBoost Plus mejora el alcance y la cobertura general de la señal
-- Estándar Wi-Fi 6: sistema mesh tribanda con una eficiencia y rendimiento superiores
 - Seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro y WPA3 para proteger tu hogar
+- 12 flujos Wi-Fi: dos bandas 5 GHZ de 160 MHZ y velocidad máxima de 11.000 Mbps
+- Estándar Wi-Fi 6: sistema mesh tribanda con una eficiencia y rendimiento superiores
 - Puertos LAN y WAN y 2.5G: conexiones por cable ultrarrápidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

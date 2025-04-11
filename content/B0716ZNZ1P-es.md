@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo táctil: A medio camino entre los switches lineales y clicky. No generan un clic al pulsarlos, pero sigue emitiendo un golpe táctil.
-- Vida útil de 50 millones de clics: Juega a miles de partidas sin cometer errores de tecleo.
 - Nivel de ruido medio: Ideal para quienes busquen un golpe táctil pero trabajan con compañeros delante.
+- Vida útil de 50 millones de clics: Juega a miles de partidas sin cometer errores de tecleo.
+- Estilo táctil: A medio camino entre los switches lineales y clicky. No generan un clic al pulsarlos, pero sigue emitiendo un golpe táctil.
 - Diseño con hot swap: Se conecta fácilmente a teclados mecánicos con hot swap y conectores a la PCI de 3 o 5 pines sin necesidad de soldar nada.
 - Compatible con RGB: Las aperturas en la carcasa de los switches permiten que los teclados mecánicos retroiluminados por RGB brillen con colores vivos y precisos. Sin riesgo de deslustre o decoloración.
 

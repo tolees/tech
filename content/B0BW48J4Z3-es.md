@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Llamadas bidireccionales conexion en cualquier momento, Cifrado de datos y protección de la privacidad
 - Rotación de 360° y posición al revés, detección de personas y movimientos
+- Llamadas bidireccionales conexion en cualquier momento, Cifrado de datos y protección de la privacidad
 - Visión nocturna en color incluso en condiciones de poca luz, calidad de imagen ultra precisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

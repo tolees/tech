@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Procesador Intel Core Ultra 9 185H, Hasta 5.1 GHz, 24MB L3 Cache
-- Tarjeta gráfica NVIDIA RTX4070 (GDDR6)
 - Sistema operativo Windows 11 Home
-- Pantalla de 16", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
 - Almacenamiento de 1TB SSD
+- Pantalla de 16", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
+- Tarjeta gráfica NVIDIA RTX4070 (GDDR6)
 - Memoria RAM de 32GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

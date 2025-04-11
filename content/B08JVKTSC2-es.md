@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material duradero
 - Operating system: Android 10.0
 - Peso del paquete: 467.0 grams
 - Dimensiones del paquete: 175.8 L x 59.7 H x 91.0 W (millimeters)
+- Material duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JVKTSC2{{</world>}}

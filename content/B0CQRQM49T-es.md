@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de la marca MSI
 - Ofrece un resultado óptimo y adecuado
+- Producto de la marca MSI
 - Material de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Modelo: RZ07-03110100-R3M1
+- Peso: 363 g
 - Dimensiones: 15,2 x 20,3 x 6,4 cm
 - Color: Negro
-- Peso: 363 g
-- Modelo: RZ07-03110100-R3M1
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YV8TY52{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla táctil de 14" WUXGA (1920x1200), IPS, 300nits, glossy
+- Tarjeta gráfica integrada AMD Radeon Graphics
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Procesador AMD Ryzen 7 5700U (8C / 16T, 1.8 / 4.3GHz, 4MB L2 / 8MB L3)
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Pantalla táctil de 14" WUXGA (1920x1200), IPS, 300nits, glossy
 - Memoria RAM de 16GB Soldered LPDDR4x-4266
 
 [🛒 Aquí!!!]({{< param buyurl >}})

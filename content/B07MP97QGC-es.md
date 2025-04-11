@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 16GB SO-DIMM DDR4
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
 - Procesador Intel Core i7-1255U (10C/DecaCore 4.7GHz, 12MB)
-- Sistema Operativo: Windows 11 Home
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
+- Memoria RAM de 16GB SO-DIMM DDR4
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MP97QGC{{</world>}}

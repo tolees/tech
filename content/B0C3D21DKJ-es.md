@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Largo alcance de hasta 250 m: El switch cuenta con un modo Extend que amplía la distancia de transmisión PoE hasta 250 metros. Esto es especialmente útil en escenarios donde los dispositivos alimentados están ubicados lejos del switch.
-- PoE+ de alta potencia: El switch admite la entrega de energía PoE de hasta 30 W por cada puerto PoE y un presupuesto de energía total de 65 W para todos los puertos PoE combinados. Esto le permite proporcionar energía a dispositivos habilitados para PoE, como cámaras IP, puntos de acceso inalámbricos y teléfonos VoIP.
-- Dos cables en uno: Con 7 puertos PoE+, el switch permite la transmisión de datos y energía a través de un solo cable Ethernet, lo que simplifica la instalación y reduce el desorden de cables.
-- Carcasa de metal resistente: El switch está construido con una carcasa de metal resistente, que facilita la disipación eficiente del calor, asegurando una vida útil de la red más larga.
 - Plug and Play: El switch está diseñado para ser simple y fácil de usar, ofreciendo una funcionalidad de plug and play que facilita la configuración y ahorra tiempo y esfuerzo durante la instalación.
 - Compatible con dispositivos alimentados: El switch es compatible con dispositivos alimentados (PD) compatibles con IEEE 802.3af/at, lo que garantiza la interoperabilidad con una amplia gama de dispositivos habilitados para PoE.
 - Puertos Gigabit completos: El switch proporciona 8 puertos con soporte para conexiones Ethernet de 10/100/1000 Mbps, lo que garantiza una transferencia de datos de alta velocidad.
 - Modo de aislamiento: El switch ofrece un modo de aislamiento que permite dividir el tráfico para puertos específicos, mejorando la estabilidad y seguridad al aislar segmentos de red.
+- Carcasa de metal resistente: El switch está construido con una carcasa de metal resistente, que facilita la disipación eficiente del calor, asegurando una vida útil de la red más larga.
+- PoE+ de alta potencia: El switch admite la entrega de energía PoE de hasta 30 W por cada puerto PoE y un presupuesto de energía total de 65 W para todos los puertos PoE combinados. Esto le permite proporcionar energía a dispositivos habilitados para PoE, como cámaras IP, puntos de acceso inalámbricos y teléfonos VoIP.
+- Dos cables en uno: Con 7 puertos PoE+, el switch permite la transmisión de datos y energía a través de un solo cable Ethernet, lo que simplifica la instalación y reduce el desorden de cables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3D21DKJ{{</world>}}

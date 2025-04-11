@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 13.3" WQXGA+ 2880 x 1800 pixeles OLED
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
-- Sistema Operativo: Windows 11 Home
+- Pantalla de 13.3" WQXGA+ 2880 x 1800 pixeles OLED
 - Memoria RAM de 16GB en placa LPDDR5
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ML1WXNF{{</world>}}

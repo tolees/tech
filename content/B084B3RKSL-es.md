@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- USB 3.1 hub with one upstream and four downstream ports
-- Bezel only 1 mm for a compact and ultra-elegant design
-- Proven to be environmentally friendly and produced in a socially responsible way
 - Flicker-free image reproduction thanks to hybrid brightness control
-- 27-inch IPS LCD monitor with a resolution of 2560 x 1440 pixels for excellent image quality
+- Bezel only 1 mm for a compact and ultra-elegant design
 - Auto EcoView and EcoView Optimizer for maximum energy-efficiency and superb ergonomics
 - 2 x DisplayPort, HDMI, DVI-D and D-Sub signal inputs
 - Optimised anti-reflection properties and flexible positioning
+- 27-inch IPS LCD monitor with a resolution of 2560 x 1440 pixels for excellent image quality
+- Proven to be environmentally friendly and produced in a socially responsible way
+- USB 3.1 hub with one upstream and four downstream ports
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084B3RKSL{{</world>}}

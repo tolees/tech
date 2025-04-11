@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 5 x 22 x 33 centímetros
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: Multicolor
 - Punto de Acceso de la marca Linksys
+- Medidas: 5 x 22 x 33 centímetros
+- Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S9146032
 
 [🛒 Aquí!!!]({{< param buyurl >}})

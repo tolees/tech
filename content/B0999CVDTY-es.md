@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clásico y Premium
-- Seguimiento de la actividad diaria y el entrenamiento
 - Presión arterial y ECG
+- Seguimiento de la actividad diaria y el entrenamiento
+- Clásico y Premium
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0999CVDTY{{</world>}}

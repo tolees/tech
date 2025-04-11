@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ARC, 4K Pass Through
+- AI Sound Pro
 - Amplia conectividad con HDMI ARC, Bluetooth 4.0, USB
 - Potencia Total: 100W, (81dB
 - Control Volumen+/- con el mando de tu TV
-- AI Sound Pro
+- ARC, 4K Pass Through
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093BVJBGY{{</world>}}

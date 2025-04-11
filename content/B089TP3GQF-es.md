@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño avanzado de refrigeración con base extendida y multiLayered Heatsink y Thermal Baseplate
-- Dual Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2 con Thermal Guard
-- Soportes 2 x DDR4 Dual Channel no ECC Unbuffered DIMMs.
-- Soporte para AMD AM4 Ryzen CPUs, please refer to CPU soporte lista para datos.
 - ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Dual Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2 con Thermal Guard
+- Soporte para AMD AM4 Ryzen CPUs, please refer to CPU soporte lista para datos.
+- Soportes 2 x DDR4 Dual Channel no ECC Unbuffered DIMMs.
 - Direct 8 fases Digital VRM solución con 90 A Smart Power Stage (SPS)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 8GB SO-DIMM DDR4
+- Procesador AMD Ryzen 5 5500U (6C/HexaCore 2.1 / 4GHz, 8MB)
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
+- Memoria RAM de 8GB SO-DIMM DDR4
 - Sistema Operativo: Windows 11 Home
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Tarjeta gráfica integrada AMD Radeon Graphics
-- Procesador AMD Ryzen 5 5500U (6C/HexaCore 2.1 / 4GHz, 8MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGYGZ5MY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
-- Procesador AMD Ryzen 7 5700G (8C/OctaCore 3.8 / 4.6GHz, 16MB)
 - Memoria RAM de 16GB DDR4
+- Procesador AMD Ryzen 7 5700G (8C/OctaCore 3.8 / 4.6GHz, 16MB)
 - Tarjeta gráfica integrada AMD Radeon Graphics
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sin Sistema Operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B18SGYR9{{</world>}}

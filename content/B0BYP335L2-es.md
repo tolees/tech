@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tarjeta gráfica Iris Xe Graphics
+- Tarjeta gráfica Iris Xe Graphics
 - Memoria RAM de 16GB Onboard DDR IV (3200MHz)
 - Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
 - Procesador Raptor Lake i7-1355U
-- Tarjeta gráfica Iris Xe Graphics
-- Tarjeta gráfica Iris Xe Graphics
 - Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 
 [🛒 Visítala!!!]({{< param buyurl >}})

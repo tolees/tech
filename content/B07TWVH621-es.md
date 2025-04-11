@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Potencia más: la Enchufe Regleta de Cube se presenta con 3 tomas de CA y 3 puertos USB con un cable de alimentación de 150 cm para un alcance óptimo. Cargue y alimente todo, desde electrodomésticos hasta su teléfono.
 - Funciones potentes: carga conectada: 3680 W (máx.); tensión de trabajo: 230V; fuente de alimentación: 16A. Cuenta con un cable de extensión H05VV-F extralargo de 1,5 m (3*1,5 mm²) que proporciona un cómodo acceso a la alimentación.
+- Proteja su electrónica: Protegido contra sobrecarga, sobrecorriente, sobretensión, cortocircuito y mal contacto.
 - Compacto y portátil: 76 * 76 * 76 mm, Regleta Cube con diseño usb es lo suficientemente pequeña como para caber en una mochila / maletín, ideal para el hogar, la oficina o el viaje.
 - Asignación inteligente：La tecnología de carga permite a cada puerto del USB detectar y entregar una corriente de entrada ideal de hasta 2.4 A (la corriente real es decidida por la demanda para los dispositivos).
-- Proteja su electrónica: Protegido contra sobrecarga, sobrecorriente, sobretensión, cortocircuito y mal contacto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TWVH621{{</world>}}

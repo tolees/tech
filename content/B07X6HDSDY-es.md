@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controles deslizantes para ajustar los graves
-- Controladores de doble cámara de hyperx
-- Sonido envolvente 7.1 de HyperX con ajuste personalizado
 - Balance del chat y del juego
+- Sonido envolvente 7.1 de HyperX con ajuste personalizado
+- Controladores de doble cámara de hyperx
+- Controles deslizantes para ajustar los graves
 - Mezclador de control avanzado del audio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

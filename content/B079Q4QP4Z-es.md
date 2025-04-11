@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Luces LED
 - Las conexiones incluyen USB de tipo A (para PC) y micro USB (para bandeja) sobre el cable USB incluido
+- Red interruptor Botón de Bluetooth/
 - 4 ExpressKeys para un acceso rápido a los comandos de corta
 - Mejorada lápiz tecnología y potencia
-- Red interruptor Botón de Bluetooth/
-- Luces LED
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079Q4QP4Z{{</world>}}

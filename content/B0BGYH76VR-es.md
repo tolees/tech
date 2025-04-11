@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Cuerpo metálico suave al tacto】 HUAWEI MateBook X Pro cuenta con un cuerpo metálico de aleación de magnesio suave al tacto, resistente y muy ligero pues solo pesa 1,26 kg.
-- 【Pantalla HUAWEI FullView Real Colour】HUAWEI MateBook X Pro viene recubierto en una capa nano-óptica controlada magnéticamente que reduce los reflejos de la luz en un 60%. Así podrás visualizar el contenido siempre de manera clara, incluso con iluminación fluorescente o luz solar directa.
 - 【Sistema de videollamada mejorado】Tiene un montón de funciones para videollamadas que mejoran el aspecto y la privacidad, como Belleza, FollowCam, Contacto visual y Fondo virtual; con esta cámara darás siempre lo mejor de ti.
-- 【Función Superdispositivo】Con nuevos miembros para elegir en la familia de superdispositivos como los auriculares, puedes elevar tu productividad con poco esfuerzo. Arrastra para conectar los auriculares al PC y organizar o asistir a una conferencia en línea con total facilidad.
+- 【Pantalla HUAWEI FullView Real Colour】HUAWEI MateBook X Pro viene recubierto en una capa nano-óptica controlada magnéticamente que reduce los reflejos de la luz en un 60%. Así podrás visualizar el contenido siempre de manera clara, incluso con iluminación fluorescente o luz solar directa.
 - 【Gestos intuitivos HUAWEI Free Touch】El panel táctil sensible a la presión de área completa nota cada toque del dedo. Con nuevos gestos en la touchpad podrás acceder más rápidamente a los comandos que facilitarán tu día a día.
+- 【Función Superdispositivo】Con nuevos miembros para elegir en la familia de superdispositivos como los auriculares, puedes elevar tu productividad con poco esfuerzo. Arrastra para conectar los auriculares al PC y organizar o asistir a una conferencia en línea con total facilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGYH76VR{{</world>}}

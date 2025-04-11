@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INPUT HOTKEY: monitor de ordenador IPS 1080P FHD de 27 pulgadas que incorpora una tecla de acceso directo a la entrada para alternar sin problemas entre el trabajo y el ocio con un solo clic.
 - LOW BLUE LIGHT PLUS: filtra la radiación azul-violeta más corta y de mayor energía, perjudicial para los ojos, al tiempo que mantiene la calidad de los colores vivos.
+- INPUT HOTKEY: monitor de ordenador IPS 1080P FHD de 27 pulgadas que incorpora una tecla de acceso directo a la entrada para alternar sin problemas entre el trabajo y el ocio con un solo clic.
 - MODOS DE COLOR: con modo de codificación y modo ePaper, que garantizan una legibilidad sin esfuerzo y comodidad ocular en largas sesiones de lectura.
 - BRIGHTNESS INTELLIGENCE TECH: ajusta automáticamente el brillo al contenido de la pantalla y a las condiciones de luz ambiental, mientras que B.I.Gen2 permite una flexibilidad personalizable
 

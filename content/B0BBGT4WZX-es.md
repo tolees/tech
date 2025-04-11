@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Intel Core i5 i5-12400 2,5 GHz
 - PC todo en uno Negro 120 W
-- 60,5 cm (23.8") Full HD 1920 x 1080 IPS Mate
 - 8 GB DDR4-SDRAM 3200 MHz 1 x 8 GB
+- 60,5 cm (23.8") Full HD 1920 x 1080 IPS Mate
+- Intel Core i5 i5-12400 2,5 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBGT4WZX{{</world>}}

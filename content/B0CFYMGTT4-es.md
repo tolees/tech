@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica RTX 4090, GDDR6 16GB
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
-- Pantalla de 17.3" UHD(3840x2160), 144Hz, Mini LED, HDR 1000, 100% DCI-P3, IPS-Level panel
 - Procesador Integrated SoC Raptor Lake i9-13900H
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Tarjeta gráfica RTX 4090, GDDR6 16GB
+- Pantalla de 17.3" UHD(3840x2160), 144Hz, Mini LED, HDR 1000, 100% DCI-P3, IPS-Level panel
 - Memoria RAM de 32GB (16GB*2) DDR5
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla OLED 2,8 K de 35,6 cm (14 pulgadas) en diagonal - Corning Gorilla Glass
-- 16 GB RAM; 512 GB SSD Disco duro
-- Windows 11 Home; Gráficos Intel Arc
 - Intel Unison; IMAX Enhaced; Audio B&O
+- Windows 11 Home; Gráficos Intel Arc
+- 16 GB RAM; 512 GB SSD Disco duro
 - Intel Evo Core 5 125H (hasta 4,5 GHz con tecnología Intel Turbo Boost, 18 MB de caché L3, 14 núcleos, 18 subprocesos)
+- Pantalla OLED 2,8 K de 35,6 cm (14 pulgadas) en diagonal - Corning Gorilla Glass
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQLTV7K2{{</world>}}

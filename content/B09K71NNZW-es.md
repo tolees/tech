@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Inalámbrico / Cableado】 Puerto Ethernet de 100 Mbit / s, que puede convertir una red cableada a una red inalámbrica o una red inalámbrica a una cableada.
-- 【Indicador】 Hay tres tipos de indicadores en el repetidor, que representan diferentes significados: verde: éxito del relé, naranja: éxito de la conexión pero señal de red deficiente y rojo: fallo del relé.
-- 【Conexión】 Los métodos de conexión que puede elegir son: Modo extensor, Modo AP y WPS. Puede encontrar los pasos de conexión de estos tres métodos en el manual.
-- 【1200 Mbps】: La velocidad de transmisión puede alcanzar los 300 Mbps cuando se conecta a una red de 2,4 Ghz y la velocidad puede alcanzar los 867 Mbps cuando se conecta a una red de 5 Ghz.
 - 【Red】 Este repetidor admite 5Ghz y 2.4Ghz. Una vez conectado, puede ampliar el alcance de la red de su hogar.
+- 【Indicador】 Hay tres tipos de indicadores en el repetidor, que representan diferentes significados: verde: éxito del relé, naranja: éxito de la conexión pero señal de red deficiente y rojo: fallo del relé.
+- 【1200 Mbps】: La velocidad de transmisión puede alcanzar los 300 Mbps cuando se conecta a una red de 2,4 Ghz y la velocidad puede alcanzar los 867 Mbps cuando se conecta a una red de 5 Ghz.
+- 【Conexión】 Los métodos de conexión que puede elegir son: Modo extensor, Modo AP y WPS. Puede encontrar los pasos de conexión de estos tres métodos en el manual.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09K71NNZW{{</world>}}

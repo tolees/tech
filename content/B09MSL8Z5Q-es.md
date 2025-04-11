@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin Sistema Operativo
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador Intel Core i7-11700 (8C/OctaCore 2.5 / 4.9GHz, 16MB)
 - Memoria RAM de 16GB DDR4
+- Sin Sistema Operativo
 - Tarjeta gráfica integrada Intel UHD Graphics 750
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MSL8Z5Q{{</world>}}

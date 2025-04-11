@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de reposo: Silencioso y de bajo consumo. Con un preciso sistema de control de la temperatura, el modo Sleep crea un clima adecuado para sentirse bien en el dormitorio. Para un sueño reparador y un buen comienzo del día
-- Incluye accesorios: Manguera de salida de aire (longitud 150 cm), mando a distancia, deslizador de ventana, adaptador de apertura de pared, juntas de espuma y accesorios de montaje completos. Número WEEE: DE55703080
 - Aire acondicionado 3 en 1: Confort gracias a la elección de los modos de funcionamiento: Refrigeración, deshumidificación, ventilación. Capacidad de refrigeración de 3,5 kW/h para habitaciones de aproximadamente 102,5 m3 (45 m2). Rendimiento de deshumidificación de 84,4 L/24 h. Elección de 3 flujos de aire
-- Función de oscilación automática: Función de oscilación automática de la rejilla de salida de aire para una distribución uniforme del aire en la habitación con sólo pulsar un botón
+- Incluye accesorios: Manguera de salida de aire (longitud 150 cm), mando a distancia, deslizador de ventana, adaptador de apertura de pared, juntas de espuma y accesorios de montaje completos. Número WEEE: DE55703080
 - Función Follow-Me: Temperatura perfecta para sentirse bien. El mando a distancia equipado con un sensor de temperatura controla la temperatura ambiente. Si el mando a distancia está cerca, el aparato se encarga automáticamente de su temperatura personal de bienestar
+- Función de oscilación automática: Función de oscilación automática de la rejilla de salida de aire para una distribución uniforme del aire en la habitación con sólo pulsar un botón
+- Modo de reposo: Silencioso y de bajo consumo. Con un preciso sistema de control de la temperatura, el modo Sleep crea un clima adecuado para sentirse bien en el dormitorio. Para un sueño reparador y un buen comienzo del día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097RKFS52{{</world>}}

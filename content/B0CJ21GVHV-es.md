@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TAMRON
 - Parasol / objetivo
+- TAMRON
 - Objetivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

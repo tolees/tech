@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zoom 2.8x (Equivalente 76-213mm)
-- Sellado para resistencia a inclemencias del tiempo (polvo, salpicaduras).
 - Estabilizador óptico de imagen.
+- Sellado para resistencia a inclemencias del tiempo (polvo, salpicaduras).
+- Zoom 2.8x (Equivalente 76-213mm)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NGFLO74{{</world>}}

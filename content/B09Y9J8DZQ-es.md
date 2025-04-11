@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 14 inch, FullHD, 1920 x 1080 píxeles, TN, 220 nits, Anti-glare
 - Memoria RAM de 4 GB Soldered DDR4-2400 ampliables hasta 12 GB
 - Sin sistema operativo
+- Pantalla de 14 inch, FullHD, 1920 x 1080 píxeles, TN, 220 nits, Anti-glare
 - Procesador AMD 3020 e
-- Tarjeta gráfica AMD Radeon Graphics
 - Almacenamiento de 256 GB SSD ampliables hasta 1TB
+- Tarjeta gráfica AMD Radeon Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Y9J8DZQ{{</world>}}

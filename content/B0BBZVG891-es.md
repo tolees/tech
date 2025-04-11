@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPLETAMENTE PERSONALIZABLE Y RAPIDÍSIMO con interruptores HyperMagnetic ajustables OmniPoint 2.0
-- CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
 - TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
-- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
-- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
 - Factor de forma TKL para Esports. Funcionalidad de tamaño completo. Placa superior de aluminio de alta calidad. USB-C extraíble.
+- EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
+- CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
+- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
+- COMPLETAMENTE PERSONALIZABLE Y RAPIDÍSIMO con interruptores HyperMagnetic ajustables OmniPoint 2.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBZVG891{{</world>}}

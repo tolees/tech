@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teléfono celular
 - En color negro
+- Teléfono celular
 - 512 GB de capacidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

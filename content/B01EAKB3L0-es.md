@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta de memoria flash de 32 GB, clase 10, UHS clase 3
 - Adecuado para teléfono móvil, smartphone o cámaras foto
+- Tarjeta de memoria flash de 32 GB, clase 10, UHS clase 3
 - Velocidad de transferencia de hasta 90 MB/s
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye figura de Luke Skywalker y figura de R2-D2
 - Equipo de aterrizaje con varias posiciones
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat at bizak.es)
+- Incluye figura de Luke Skywalker y figura de R2-D2
 - La cabina se abre. Presentación tipo Diorama, con todos los detalles y totalmente funcional.
 - Nave espacial de Star Wars de 13 cm con 2 figuras escala perfecta.
 

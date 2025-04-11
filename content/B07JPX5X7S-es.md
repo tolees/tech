@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Brazo Wacom Flex. Tamaño mínimo compatible de la pantalla: 61 cm (24 pulgadas)
-- Gris
 - Tamaño máximo compatible de pantalla: 81,3 cm (32 pulgadas). Color del producto: negro y
+- Gris
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JPX5X7S{{</world>}}

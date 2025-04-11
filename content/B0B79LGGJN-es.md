@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6 GB de memoria RAM
 - Teléfono celular
+- 6 GB de memoria RAM
 - Capacidad de 128 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})

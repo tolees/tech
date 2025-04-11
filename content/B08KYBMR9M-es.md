@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control a través de google assistant o amazon alexa
 - Tecnología LED más novedosa y sostenible, no incluye bombilla normal
-- Regulable
-- Control mediante Ledvance Smart + App, a partir de Android 6.0
 - El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
+- Control mediante Ledvance Smart + App, a partir de Android 6.0
+- Control a través de google assistant o amazon alexa
+- Regulable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KYBMR9M{{</world>}}

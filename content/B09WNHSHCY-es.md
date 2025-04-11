@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 256GB SSD
 - Sin Sistema Operativo
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
-- Procesador Intel Celeron N4020 (2C/DualCore 1.10GHz)
 - Tarjeta gráfica Intel UHD Graphics 600
 - Memoria RAM de 4GB DDR4 SDRAM
+- Procesador Intel Celeron N4020 (2C/DualCore 1.10GHz)
+- Almacenamiento de 256GB SSD
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WNHSHCY{{</world>}}

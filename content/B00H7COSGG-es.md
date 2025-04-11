@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calibre de alambre y tipo de 18 AWG x 3C; amperaje de 3 A; voltaje de 250 V; diámetro exterior de 6.8 mm
-- El cable resistente de 18 AWG cuenta con un diseño moldeado para una durabilidad y larga vida útil óptimas
 - El conector hembra se conecta directamente en el dispositivo mientras el conector macho se conecta a una toma estándar
+- El cable resistente de 18 AWG cuenta con un diseño moldeado para una durabilidad y larga vida útil óptimas
+- Calibre de alambre y tipo de 18 AWG x 3C; amperaje de 3 A; voltaje de 250 V; diámetro exterior de 6.8 mm
 - Diseñado para trabajar con ordenadores portátiles que utilizan un cable de alimentación de 3 ranuras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

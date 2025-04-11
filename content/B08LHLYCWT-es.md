@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lea atentamente el manual del usuario antes del primer uso
-- Sin radiación y peligro para los niños
-- Batería de larga duración
 - interruptor de enclavamiento
+- Lea atentamente el manual del usuario antes del primer uso
+- Batería de larga duración
+- Sin radiación y peligro para los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LHLYCWT{{</world>}}

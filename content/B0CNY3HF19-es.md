@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puertos: 2 USB Type-A con velocidad de señal de 10 Gbps; 2 USB Type-A con velocidad de señal de 5 Gbps; 1 combo de auriculares/micrófono; 4 USB 2.0 de tipo A; 1 entrada de audio; 1 salida de audio; 1 RJ-45, 1 VGA; 1 salida HDMI 1.4b
-- Almacenamiento SSD de 512 GB PCIe NVMe M.2, aprovecha su gran capacidad para guardar todo tu contenido favorito
+- Procesador AMD Ryzen 5 5600G (aumento máximo del reloj hasta 4,4 GHz,16 MB de caché L3, 6 núcleos,12 subprocesos)
 - Sistema Operativo FreeDOS
+- Almacenamiento SSD de 512 GB PCIe NVMe M.2, aprovecha su gran capacidad para guardar todo tu contenido favorito
+- Puertos: 2 USB Type-A con velocidad de señal de 10 Gbps; 2 USB Type-A con velocidad de señal de 5 Gbps; 1 combo de auriculares/micrófono; 4 USB 2.0 de tipo A; 1 entrada de audio; 1 salida de audio; 1 RJ-45, 1 VGA; 1 salida HDMI 1.4b
 - Gráficos integrado NVIDIA GeForce RTX 3050 (GDDR6 de 8 GB dedicada)
 - Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB) con velocidades de transferencia de hasta 3200 MT/s, diseñado para ejecutar de forma más eficiente y fiable a velocidades más rápidas
-- Procesador AMD Ryzen 5 5600G (aumento máximo del reloj hasta 4,4 GHz,16 MB de caché L3, 6 núcleos,12 subprocesos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNY3HF19{{</world>}}

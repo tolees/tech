@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD
-- Memoria RAM de 8GB Onboard DDR IV (3200MHz)
-- Tarjeta gráfica Iris Xe Graphics
 - Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 - Procesador Alder Lake i5-1235U
+- Tarjeta gráfica Iris Xe Graphics
+- Memoria RAM de 8GB Onboard DDR IV (3200MHz)
+- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLPJXRW{{</world>}}

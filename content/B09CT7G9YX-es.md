@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste cómodo
 - Sonido equilibrado
 - Cancelación de Ruido Activa
-- Ajuste cómodo
 - Hasta 20 de autonomía
 
 [🛒 Comprar!!!]({{< param buyurl >}})

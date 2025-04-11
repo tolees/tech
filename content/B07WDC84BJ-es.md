@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ILUMINACIÓN RGB: El MKXTKL está equipado con un sistema de retroiluminación a 5 colores y 10 perfiles de luz RGB predefinidos que ofrecerán un look espectacular a tu escritorio
 - DISEÑO ERGONÓMICO: Reposamuñecas ergonómico extraíble y y pies de goma antideslizante con cómodo sistema de montaje
-- TECNOLOGÍA PREMIUM: Las teclas del MKXTKL cuentan con una carcasa especial diseñada con tecnología de inyección dual, que extiende su vida útil y refuerza su estructura al máximo; Pulsación firme y duradera
 - COMPATIBILIDAD MULTIPLATAFORMA: Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
+- TECNOLOGÍA PREMIUM: Las teclas del MKXTKL cuentan con una carcasa especial diseñada con tecnología de inyección dual, que extiende su vida útil y refuerza su estructura al máximo; Pulsación firme y duradera
 - TECLADO MECÁNICO: Teclado gaming ultracompacto TKL mecánico con switches rojos OUTEMU SQ, con un nuevo diseño SQUARE, ofreciéndote una libertad total de movimiento; Layout Español
 
 [🛒 Comprar!!!]({{< param buyurl >}})

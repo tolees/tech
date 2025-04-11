@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidades de lectura de hasta 1700 MB por segundo
 - Aporta un rendimiento constante para trabajar con vídeos
+- Velocidades de lectura de hasta 1700 MB por segundo
 - Grabación consistente de alta velocidad y eficiencia de flujo de trabajo mejorada
 - Con una capacidad de 512 GB
 

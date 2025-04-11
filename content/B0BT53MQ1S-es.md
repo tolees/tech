@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
-- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Sin Sistema Operativo
+- Memoria RAM de 16GB SO-DIMM DDR5 4800MHz
 - Procesador AMD Ryzen 7 7735HS (8C/OctaCore 3.2 / 4.75GHz, 16MB)
+- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT53MQ1S{{</world>}}

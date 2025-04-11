@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Wol (Wake On Lan, Reinicio Mediante Red) , Soporte Para Reinicio Remoto
 - Configurado Con Un Soporte De Perfil Estándar De Montaje, Incluido Bajo Perfil,Altura Media
 - Totalmente Conforme Con Las Especificaciones Ieee 802.3, Ieee 802.3U, Ieee 802.3Ab, Ieee802.3Ad (Agregar Enlaces) Y Soporte Para Etiquetado Vlan Ieee 802.1Q
+- Wol (Wake On Lan, Reinicio Mediante Red) , Soporte Para Reinicio Remoto
 - Soporte Para Tramas Jumbo De Hasta 9 Kb
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

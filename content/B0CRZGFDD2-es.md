@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla de 14" WUXGA (1920 x 1200), IPS, Touch, 300 nits, 60Hz, LED Backlight,
-- Procesador AMD Barcelo-R Ryzen 5 7530U
 - Memoria RAM 16GB(4X32GX32)_LP4X_4266
+- Procesador AMD Barcelo-R Ryzen 5 7530U
+- Pantalla de 14" WUXGA (1920 x 1200), IPS, Touch, 300 nits, 60Hz, LED Backlight,
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZGFDD2{{</world>}}

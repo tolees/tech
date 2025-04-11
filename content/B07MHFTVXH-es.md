@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
+- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Sistema Operativo: Windows 11 Home
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
 - Memoria RAM de 8GB SO-DIMM DDR4
 
 [🛒 Visítala!!!]({{< param buyurl >}})

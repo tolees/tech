@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compatible with OSCAL C70 Funda Ajuste perfecto en todas sus esquinas y botones y agujero de altavoz , Enchufe para auriculares.
-- Capa Compatible with OSCAL C70 De silicona durita pero flexible, tiene buen agarre, no se resbala y con las esquinas que tiene protege más.
-- El paquete incluye: 1 x Funda Compatible with OSCAL C70 , 2 x Cristal Templado Compatible with OSCAL C70 , 1 x Ring.
 - Tenga en cuenta: funda y cristales templados Compatible with OSCAL C70 , Solo apto Compatible with OSCAL C70!!!
+- El paquete incluye: 1 x Funda Compatible with OSCAL C70 , 2 x Cristal Templado Compatible with OSCAL C70 , 1 x Ring.
 - Compatible with OSCAL C70 funda y carcasa ,buena sujeción a la mano , El levantamiento de borde es protector, de dureza moderada y ligero.
+- Capa Compatible with OSCAL C70 De silicona durita pero flexible, tiene buen agarre, no se resbala y con las esquinas que tiene protege más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCXM38PB{{</world>}}

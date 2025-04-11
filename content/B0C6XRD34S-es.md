@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria DDR5 de 16 GB, 2 de 8 GB a 4800 MHz
-- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
-- Procesador Intel Core i7-13700H de 13.ª generación (14 núcleos, caché de 24 MB, 5,0 GHz)
-- Tarjeta gráfica Intel Arc A370M
 - Pantalla de 15,6" FHD+ (1920 x 1200) InfinityEdge, sin función táctil, antibrillo, de 500 nits
+- Procesador Intel Core i7-13700H de 13.ª generación (14 núcleos, caché de 24 MB, 5,0 GHz)
+- Memoria DDR5 de 16 GB, 2 de 8 GB a 4800 MHz
+- Tarjeta gráfica Intel Arc A370M
+- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
 - Sistema Operativo: Windows 11
 
 [🛒 Comprar!!!]({{< param buyurl >}})

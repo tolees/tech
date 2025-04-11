@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batería: 5000 mAh
 - Cámara: Triple, 13MP+5MP+2MP
 - OS: Android 10
-- Pantalla: 6.53", 720 x 1600 pixels
 - Procesador: Mediatek Helio G35 2.3GHz
+- Batería: 5000 mAh
+- Pantalla: 6.53", 720 x 1600 pixels
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FMPTTQP{{</world>}}

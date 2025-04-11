@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Memoria RAM de 4GB LPDDR4X
 - Procesador ARM Cortex A73 (4C/QuadCore, 2GHz)
-- Almacenamiento de 64GB eMMC
 - Pantalla de 14", HD 1366 x 768 pixeles, 60Hz
 - Sistema Operativo: ChromeOS
+- Almacenamiento de 64GB eMMC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN78QD9D{{</world>}}
