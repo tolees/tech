@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Podrá llevar su disco duro a cualquier parte con usted, ya que ocupa muy poco espacio y garantiza protegerlo de cualquier golpe, líquido o caída desafortunada. De esta manera podrá llevarlo en su maletín junto con su ordenador/tablet a cualquier lugar.
-- Las medidas de la funda son 15 x 11 x 13 cm, pero la medida máxima del disco duro que puede albergar es de 13 x 9 cm. Este estuche es compatible con modelos de marcas populares como Samgung, Seagate, Toshiba, WD, Hitachi, etc.
-- Esta funda presenta un diseño compacto y ligero hecho con goma Eva pensado para poder guardar y transportar su disco duro portátil y protegerlo de agentes externos como el agua y los golpes o caídas. En su interior dispone de una tira elástica para poder agarrar el disco duro.
 - Cada vez es más común guardar todos los archivos importantes que tenemos en el ordenador, como, fotos, videos, documentos, etc., en un disco duro externo. De esta forma nos aseguramos de que no se borran ni se dañan inesperadamente y también conseguimos espacio extra para nuestro ordenador.
+- Esta funda presenta un diseño compacto y ligero hecho con goma Eva pensado para poder guardar y transportar su disco duro portátil y protegerlo de agentes externos como el agua y los golpes o caídas. En su interior dispone de una tira elástica para poder agarrar el disco duro.
 - En su interior dispone de un bolsillo de red malla en el que puede guardar los cables USB del disco duro u otros accesorios para su ordenador como tarjetas de memoria SD, auriculares, pendrives, etc.
+- Las medidas de la funda son 15 x 11 x 13 cm, pero la medida máxima del disco duro que puede albergar es de 13 x 9 cm. Este estuche es compatible con modelos de marcas populares como Samgung, Seagate, Toshiba, WD, Hitachi, etc.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082MNGK9P{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i7-1260P (12C/DodecaCore 2.1 / 4.7GHz, 18MB)
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Pantalla de 14" WQXGA+ 2880 x 1800 pixeles, 90Hz, OLED 400 nits
-- Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM LPDDR5
+- Pantalla de 14" WQXGA+ 2880 x 1800 pixeles, 90Hz, OLED 400 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sin Sistema Operativo
+- Procesador Intel Core i7-1260P (12C/DodecaCore 2.1 / 4.7GHz, 18MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFMWRTF2{{</world>}}

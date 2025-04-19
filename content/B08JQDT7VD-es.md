@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Crea trayectos desde Garmin Connect o planifícalos en otras plataformas como Strava y Komoot , luego sincronízalos automáticamente con tu Forerunner
 - Descarga de manera sencilla hasta 500 canciones en tu reloj ya sea de tu propia colección de MP3 o aplicaciones de terceros como Spotify o Deezer. Conecta tus auriculares Bluetooth.
-- Hasta 1 semana de batería en modo smartwatch, 16h con GPS y 6 horas con GPS y música. Con el modo UltraTrack asegura la batería para llegar a la meta en tus carreras más largas.
 - Perfiles de actividad preinstalados para correr, triatlón, ciclismo, piscina, natación en aguas abiertas y mucho más. Para carreras de triatlón y entrenamientos multideporte cambia de disciplina con solo presionar un botón.
 - Después de cada entrenamiento, podrás saber cuánto tiempo tienes que descansar antes de otro gran esfuerzo, al mismo tiempo, el reloj tiene en cuenta el estrés de todo el día, el sueño y la actividad diaria fuera de los entrenamientos.
+- Hasta 1 semana de batería en modo smartwatch, 16h con GPS y 6 horas con GPS y música. Con el modo UltraTrack asegura la batería para llegar a la meta en tus carreras más largas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JQDT7VD{{</world>}}

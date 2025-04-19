@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
-- Procesador AMD Ryzen 9 7940HS (8C/OctaCore 4 / 5.2GHz, 16MB)
-- Memoria RAM de 32GB SO-DIMM DDR5 4800MHz
 - Tarjeta gráfica NVIDIA GeForce RTX 4070 8GB GDDR6
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Procesador AMD Ryzen 9 7940HS (8C/OctaCore 4 / 5.2GHz, 16MB)
+- Sin Sistema Operativo
+- Memoria RAM de 32GB SO-DIMM DDR5 4800MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT54RFD4{{</world>}}

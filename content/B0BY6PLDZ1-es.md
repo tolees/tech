@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6941812707074
 - MZB0CYWEU
+- 6941812707074
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY6PLDZ1{{</world>}}

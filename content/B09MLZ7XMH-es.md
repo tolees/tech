@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [ Specifiche Tecniche ] Bluetooth: v5 - Profili supportati: Headset – Handsfree – A2DP - AVRCP - Portata: 10mt - Bluetooth Frequency Range: 2402-2480MHz- Battery Voltage: 3.7V - Battery Capacity: 40mAh X 2 - Charging Case battery capacity: 300mAh / 1.11Wh -USB-C port Voltage (V): 5V - USB-C port current (A): 500mA
 - Grazie ai comandi touch, con FLICK è possible controllare chiamate, volume e musica direttamente dagli auricolari.
-- [ Specifiche Tecniche ] Stand by Time: 150 ore Talk Time: 6 ore Play Time: 7ore Ricarica auricolari: 1.5 ore circa Ricarica Charging Case: 1 h circa Peso: 50g - Cavo di ricarica USB-C incluso
 - [ Garanzia Certificazioni Compatibilità ] universale - cuffie Bluetooth wireless compatibili con la maggior parte dei cellulari Bluetooth, tra cui iPhone, Samsung, Huawei, Xiaomi, Android Smartphone, PC e Mac. - Garanzia 2 Anni del Produttore – Certificato Bluetooth
+- [ Specifiche Tecniche ] Stand by Time: 150 ore Talk Time: 6 ore Play Time: 7ore Ricarica auricolari: 1.5 ore circa Ricarica Charging Case: 1 h circa Peso: 50g - Cavo di ricarica USB-C incluso
 - FLICK è l’auricolare in-ear Bluetooth, ergonomico e dal fitting confortevole. La custodia di ricarica permette di ricaricare gli auricolari fino a 3 volte per un Talk/Play time totale di 20 ore. Grazie ai comandi touch, è possible controllare chiamate, volume e musica direttamente dagli auricolari.
+- [ Specifiche Tecniche ] Bluetooth: v5 - Profili supportati: Headset – Handsfree – A2DP - AVRCP - Portata: 10mt - Bluetooth Frequency Range: 2402-2480MHz- Battery Voltage: 3.7V - Battery Capacity: 40mAh X 2 - Charging Case battery capacity: 300mAh / 1.11Wh -USB-C port Voltage (V): 5V - USB-C port current (A): 500mA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MLZ7XMH{{</world>}}

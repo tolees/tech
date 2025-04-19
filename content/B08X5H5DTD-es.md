@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montaje en superficie con una fuente de alimentación enchufable.
-- Contesta o abre la puerta desde tu smartphone
-- Función manos libres, activa el panel de entrada, visualiza quien llama, abre puerta y portón y enciende la luz de tu escalera.
 - Puedes convertir tu instalación Legrand actual en una conectada simplemente reemplazando la unidad interior sin realizar cambios estructurales.
+- Montaje en superficie con una fuente de alimentación enchufable.
+- Función manos libres, activa el panel de entrada, visualiza quien llama, abre puerta y portón y enciende la luz de tu escalera.
 - Pantalla de 7" a color, con conexión Wi-fi (sin necesidad de cableado al router) y manos libres, acabado blanco
+- Contesta o abre la puerta desde tu smartphone
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X5H5DTD{{</world>}}

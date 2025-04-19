@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core i7-13700H (hasta 5,0 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
 - Memoria RAM DDR5-5200 MHz 16 GB (2 x 8 GB)
+- Procesador Intel Core i7-13700H (hasta 5,0 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
+- Almacenamiento de datos SSD M.2 512 GB PCIe Gen4 NVMe TLC
 - Gráfica NVIDIA GeForce RTX 4070 8GB VRAM
 - Sin sistema operativo
-- Almacenamiento de datos SSD M.2 512 GB PCIe Gen4 NVMe TLC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWJPGKW4{{</world>}}

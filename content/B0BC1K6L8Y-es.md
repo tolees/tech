@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta edición incluye:
 - Pegatinas
 - Figura Obelix 18cm
+- Esta edición incluye:
 - 3 litografías
 
 [🛒 Aquí!!!]({{< param buyurl >}})

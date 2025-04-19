@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 - Peso Personalizable Ergonómico y Sistema de Colores: Personaliza el peso del ratón con las seis pesas incluidas, para optimizar la precisión de disparo y elija entre 16,8 millones de colores
-- Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
-- Tecnología Inalámbrica LIGHTSPEED: Los profesionales de eSports confían en el ecosistema de tecnologías inalámbricas USB LIGHTSPEED del ratón para gaming Logitech para un juego profesional
-- Requisitos: Windows 7 o posteriores, Mac OS X 10.11 o posteriores, Chrome OSTM, Puerto USB, Acceso a Internet para descargar el software Logitech G HUB (Las funciones avanzadas requieren Logitech G HUB, disponible para descargar)
-- Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
 - Sensor de próxima generación: Capaz de detectar movimientos a nivel submicrónico, puede seguir el movimiento de menos de una millonésima de metro con una precisión extrema
+- Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
 - Sensor HERO 16K: El sensor HERO ofrece un óptimo seguimiento de hasta 25.600 DPI y rendimiento con precisión de píxel sin suavizado, aceleración ni filtros
+- Tecnología Inalámbrica LIGHTSPEED: Los profesionales de eSports confían en el ecosistema de tecnologías inalámbricas USB LIGHTSPEED del ratón para gaming Logitech para un juego profesional
+- Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
+- Requisitos: Windows 7 o posteriores, Mac OS X 10.11 o posteriores, Chrome OSTM, Puerto USB, Acceso a Internet para descargar el software Logitech G HUB (Las funciones avanzadas requieren Logitech G HUB, disponible para descargar)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QKC4WWD{{</world>}}

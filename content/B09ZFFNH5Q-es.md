@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla: 6.5", 1080 x 2400 pixels
-- Procesador: Mediatek Helio G88 2GHz
-- Cámara: Cuádruple, 50MP+8MP +2MP+2MP
 - Batería: 5000 mAh
+- Cámara: Cuádruple, 50MP+8MP +2MP+2MP
+- Procesador: Mediatek Helio G88 2GHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZFFNH5Q{{</world>}}

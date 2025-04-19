@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de producto: CELLULAR_PHONE
-- Apple iPhone 12 mini, 64GB, Blanco - (Renovado)
-- Tamaño: 64GB
 - Marca: Apple
+- Apple iPhone 12 mini, 64GB, Blanco - (Renovado)
 - Color blanco
+- Tipo de producto: CELLULAR_PHONE
+- Tamaño: 64GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PCDBHFF{{</world>}}

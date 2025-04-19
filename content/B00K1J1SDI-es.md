@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ♬ CS-JS600: Sistema de Altavoces Coaxiales de 2 Vías, con Tweeter balanceado de Polieterimida, Cono de Woofer de mica y Respuesta de Frecuencia de 35 a 22.000 Hz para lograr un Sonido Claro y Nítido.
 - ♬ Compatibilidad: Consulte las medidas de sus altavoces para comprobar que son compatibles. Disponemos en Amazon de modelos con otras medidas: CS-J420X (10cm Ø), CS-J520X (13cm Ø), CS-J1720X (17cm Ø).
 - ♬ Sonido Único: Llevan una experiencia de concierto a su vehículo. Son una potente mejora para los sistemas instalados de fábrica, gracias a su potencia RMS de 30W e impedancia de 4 ohmios.
 - ♬ Potencia pico 300W: Junto a su sensibilidad de 92dB/W, reproduce un sonido de excelente calidad para crear una experiencia acústica única en carretera. Disfrute de los momentos de subir la música.
 - ♬ ¿Coche o disco móvil?: Suba la música todo lo que quiera sin perder nitidez de sonido. Gran respuesta tanto en graves como en agudos con los JVC CS-JS600.
-- ♬ CS-JS600: Sistema de Altavoces Coaxiales de 2 Vías, con Tweeter balanceado de Polieterimida, Cono de Woofer de mica y Respuesta de Frecuencia de 35 a 22.000 Hz para lograr un Sonido Claro y Nítido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K1J1SDI{{</world>}}

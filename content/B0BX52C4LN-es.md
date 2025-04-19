@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Personalizable con el software HyperX NGENUITY
 - Teclas HyperX personalizables, Patines y cintas de agarre PTFE de grado virgen
+- Duración de la batería: hasta 100 horas, Diseño ultraligero de 61 g
 - Modos de conectividad inalámbrica dual, Sensor de precisión HyperX 26K
 - Cambia sin problemas al modo con cable
-- Duración de la batería: hasta 100 horas, Diseño ultraligero de 61 g
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BX52C4LN{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tablet
-- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
-- Tintas independientes: Cambia solo los colores usados y ahorra dinero
-- Impresión a doble cara en A4: Impresión a doble cara automática para reducir el gasto de papel
-- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tablet
 - Impresora multifunción compacta: Ahorro de dinero, espacio y tiempo
 - Impresión a doble cara en A4: Impresión a doble cara automática para reducir el gasto de papel
 - Tintas independientes: Cambia solo los colores usados y ahorra dinero
+- Tintas independientes: Cambia solo los colores usados y ahorra dinero
+- Wi-Fi y Wi-Fi Direct: Impresión inalámbrica con y sin red
+- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tablet
+- Impresión a doble cara en A4: Impresión a doble cara automática para reducir el gasto de papel
+- Impresión móvil sencilla: Imprime fácilmente desde tu smartphone o tablet
 - Impresora multifunción compacta: Ahorro de dinero, espacio y tiempo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

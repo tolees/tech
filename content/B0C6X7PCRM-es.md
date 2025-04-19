@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Filamento termoplástico
 - Lcd Standard Resina Plus 1Kg Piel
 - Marca: Creality
-- Filamento termoplástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6X7PCRM{{</world>}}

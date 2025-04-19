@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atractivo desenfoque del fondo: la apertura circular de 7 hojas de este objetivo zoom motorizado de 10-20 mm de Sony crea hermosos efectos de fondo desenfocado (bokeh)
-- Congela acciones poco iluminadas con el sensor Exmor R de 26 MP y el procesador BionZ XR; crea imágenes realistas y no pierdas la oportunidad de captar el momento gracias a la captura continua rápida hasta a 11 fps y los objetivos APS-C de Sony
-- Enfoque automático rápido y preciso: dos motores lineales favorecen un enfoque rápido y preciso. Con este objetivo de Sony, no habrá toma que se te resista
 - Óptima nitidez: dos elementos ED (dispersión ultrabaja), un asférico ED y tres elementos asféricos garantizan una buena resolución con este objetivo zoom ultra gran angular APS-C, con apertura F4 constante, lo que lo convierte en un buen objetivo de tipo E de Sony para la creación de contenido, videoblogs, fotografía y videografía
 - Enfoque sencillo gracias al autoenfoque por IA; el procesador IA específico garantiza un seguimiento rápido y preciso; snaliza poses y cambia entre sujetos sin problema y explora el horquillado de enfoque para fotos de optima resolución
 - La A6700 tiene las optimas prestaciones de las cámaras Cinema Line: grabación 4K submuestreada desde 6K hasta a 30p y cámara lenta 4K hasta a 120p; con estabilización activa, perfil S-Cinetone/S-Log3 y encuadre automático por IA, es optima para crear metraje cinematográfico
+- Atractivo desenfoque del fondo: la apertura circular de 7 hojas de este objetivo zoom motorizado de 10-20 mm de Sony crea hermosos efectos de fondo desenfocado (bokeh)
+- Enfoque automático rápido y preciso: dos motores lineales favorecen un enfoque rápido y preciso. Con este objetivo de Sony, no habrá toma que se te resista
+- Congela acciones poco iluminadas con el sensor Exmor R de 26 MP y el procesador BionZ XR; crea imágenes realistas y no pierdas la oportunidad de captar el momento gracias a la captura continua rápida hasta a 11 fps y los objetivos APS-C de Sony
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBMJKVWR{{</world>}}

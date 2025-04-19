@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto sin marco completamente de aluminio
-- Imagen HDR Dolby Vision y experiencia de sonido Dolby Atmos Sistemas de altavoces Hybrid HARMAN/KARDON
 - HDMI 2.1 con eARC, ALLM
 - Medidas para soporte de pared VESA: 400x200, Medidas con peana (An x al x P en mm): 1447,0 x 926,4 x 277,3, Medidas sin peana (An x al x P en mm): 1447,0 x 855,9 x 61,0, Distancia entre peanas (en mm): 760 x 278, Peso neto (kg): 19,5
+- Imagen HDR Dolby Vision y experiencia de sonido Dolby Atmos Sistemas de altavoces Hybrid HARMAN/KARDON
+- Diseño compacto sin marco completamente de aluminio
 - Televisor 4K Ultra HD Android TV con tecnologia QLED Q-Colour
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

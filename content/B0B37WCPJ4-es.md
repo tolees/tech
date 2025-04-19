@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3. 20 modos deportivos profesionales, haciendo que los deportes sean más seguros y eficientes
-- 2. Selección rica y exquisita de fondos de marcación, personalizar la esfera del reloj
 - 1. Operación de dial giratorio, lo que hace que el control sea más suave
+- 2. Selección rica y exquisita de fondos de marcación, personalizar la esfera del reloj
 - 5. Seguimiento de la actividad diaria, práctico asistente de vida.
+- 3. 20 modos deportivos profesionales, haciendo que los deportes sean más seguros y eficientes
 - 4. Preste atención a la salud del corazón con 24h Bio Heart Rate Tracker
 
 [🛒 Comprar!!!]({{< param buyurl >}})

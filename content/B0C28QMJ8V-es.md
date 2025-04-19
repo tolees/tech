@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pantalla de 27", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
 - Tecnología anti-fragmentación AMD FreeSync
-- Tiempo de respuesta 1 ms VRB
 - Soporte ergonómico con inclinación de pantalla -5° a 20°
+- Tiempo de respuesta 1 ms VRB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C28QMJ8V{{</world>}}

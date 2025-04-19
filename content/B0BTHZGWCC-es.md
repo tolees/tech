@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS 250 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 8GB SO-DIMM LPDDR5
-- Procesador AMD Ryzen 5 7520U (4C/QuadCore 2.8 / 4.3GHz, 4MB)
 - Tarjeta gráfica integrada AMD Radeon 610M
 - Sistema Operativo: Windows 11 Home in S mode
+- Memoria RAM de 8GB SO-DIMM LPDDR5
+- Procesador AMD Ryzen 5 7520U (4C/QuadCore 2.8 / 4.3GHz, 4MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTHZGWCC{{</world>}}

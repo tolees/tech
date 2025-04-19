@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Razer HyperSpeed Wireless para una conexión más rápida que con un ratón con cable: Gracias a una transmisión de alta velocidad, una latencia muy baja y un cambio fluido de frecuencia en los entornos con más ruido, ni te darás cuenta de que estás jugando con un ratón inalámbrico.
 - 70 horas de duración de batería (Razer HyperSpeed) para partidas sin interrupciones: Gracias al beneficio de la conectividad dual, puedes aprovechar hasta 120 horas de duración de la batería en el modo Bluetooth, o hasta 70 horas de rendimiento ultrarrápido cuando cambias a Razer HyperSpeed Wireless.
+- Tecnología Razer HyperSpeed Wireless para una conexión más rápida que con un ratón con cable: Gracias a una transmisión de alta velocidad, una latencia muy baja y un cambio fluido de frecuencia en los entornos con más ruido, ni te darás cuenta de que estás jugando con un ratón inalámbrico.
 - Sensor óptico Razer Focus+ de 20 000 PPP para una precisión de vanguardia: Con el uso de las nuevas funciones inteligentes, como la sincronización de movimiento y el rastreo asimétrico, nuestro sensor rastrea tu movimiento a la perfección y sin retrasos, lo que te permite una respuesta inmediata y una precisión píxel a píxel.
-- Switches ópticos para ratón Razer para un accionamiento a la velocidad de la luz: Cada click se acciona a 0,2 ms y sin desactivación de rebote para que tengas una ejecución rápida y limpia de hasta 70 millones de clicks, un diseño más resistente y rápido que elimina los problemas derivados de hacer doble click sin querer.
 - Diseño ergonómico de 88 g para la máxima comodidad: Sin perder de vista su diseño con la mejor ergonomía de su clase, lo hemos redefinido más aún para ofrecer mejor comodidad y agarre, lo que te permite aprovechar los mejores niveles de rendimiento mientras compites.
+- Switches ópticos para ratón Razer para un accionamiento a la velocidad de la luz: Cada click se acciona a 0,2 ms y sin desactivación de rebote para que tengas una ejecución rápida y limpia de hasta 70 millones de clicks, un diseño más resistente y rápido que elimina los problemas derivados de hacer doble click sin querer.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09DQ93KWH{{</world>}}

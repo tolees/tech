@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciona con todos los ratones, independientemente de su sensibilidad o sensor
-- Alfombrilla de ratón de tamaño medio; 250 x 210 x 3 mm
 - Permanece en su lugar gracias a la base de goma antideslizante
+- Alfombrilla de ratón de tamaño medio; 250 x 210 x 3 mm
+- Funciona con todos los ratones, independientemente de su sensibilidad o sensor
 - La textura de superficie optimizada proporciona una precisión óptima y un control suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
-- Memoria DDR4 de 8 GB, 1 de 8 GB a 3200 MHz
-- AMD Ryzen 5 5500U (6 núcleos, 12 subprocesos) Procesador
-- Sistema Operativo: Windows 11 Home
 - Pantalla FHD de 39,6 cm (15,6") (1920 x 1080), 120 Hz, sin función táctil, antirreflectante, WVA, con retroiluminación LED, 250 nits, borde estrecho pantalla
+- Sistema Operativo: Windows 11 Home
+- Memoria DDR4 de 8 GB, 1 de 8 GB a 3200 MHz
 - Tarjeta gráfica AMD Radeon
+- Unidad de estado sólido PCIe NVMe M.2 de 512 GB
+- AMD Ryzen 5 5500U (6 núcleos, 12 subprocesos) Procesador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHM9RX9K{{</world>}}

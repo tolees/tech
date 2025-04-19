@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atención: el teclado no tiene teclas numéricas
-- Escritura reactiva: configura la escritura reactiva para una única tecla o crea un efecto de ondulación en varias teclas
-- Cambio de color: cambia de color con las diversas paletas de color y la velocidad que desees; puedes definir el cambio de color en todo el teclado o solo en las teclas que decidas
 - Fluctuaciones y ondulaciones: personaliza la paleta de color, dirección, duración y velocidad, y haz fluir las ondas por todo el teclado o solo en las teclas que desees
+- Escritura reactiva: configura la escritura reactiva para una única tecla o crea un efecto de ondulación en varias teclas
+- Atención: el teclado no tiene teclas numéricas
+- Cambio de color: cambia de color con las diversas paletas de color y la velocidad que desees; puedes definir el cambio de color en todo el teclado o solo en las teclas que decidas
 - Iluminación estática: cambia cualquier tecla del teclado a la configuración de color y brillo que prefieras; puedes crear, guardar y cargar patrones personalizados para tus juegos favoritos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

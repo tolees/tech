@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optica digital para Sensores Full Frame 24x36
 - Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
-- Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
-- VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura.
 - Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición. Revestimiento de flúor y sellado robusto contra el polvo y humedad.
+- VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura.
+- Optica digital para Sensores Full Frame 24x36
+- Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
 - Estabilizador VC (Vibration Compesation) de tres modos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

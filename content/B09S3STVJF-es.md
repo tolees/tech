@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 2 motores + función de calor
-- silicona médica, impermeable
 - recargable, incluye cable de carga USB
+- silicona médica, impermeable
 - También se puede controlar sin necesidad de la aplicación
 - Bluetooth, incl. control mediante aplicación
 

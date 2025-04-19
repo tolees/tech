@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Samyang V-AF 100mm T2.3 FE para Sony E Lente de video Lente de enfoque automático Lente de cine 8K
-- Objetivo V-AF diseñado para cámaras de alta resolución de hasta 8K, que ofrece una apertura rápida y un efecto bokeh preciso. El tono de color unificado reduce el tiempo de postproducción.
-- Hay una lámpara Tally que muestra el estado de la filmación con una luz LED para que incluso un solo creador pueda verificar rápidamente el estado de la grabación. El anillo de enfoque se ha rediseñado para permitir aplicar el enfoque de seguimiento sin accesorios adicionales. También hay un interruptor personalizado y un botón de enfoque para configurar la función optimizada para filmar.
 - Con los accesorios personalizados V-AF para filmadores de videos profesionales y el tono de color consistente que representa V-AF, los videos se pueden crear de manera más conveniente
+- Objetivo V-AF diseñado para cámaras de alta resolución de hasta 8K, que ofrece una apertura rápida y un efecto bokeh preciso. El tono de color unificado reduce el tiempo de postproducción.
+- Samyang V-AF 100mm T2.3 FE para Sony E Lente de video Lente de enfoque automático Lente de cine 8K
 - El objetivo Samyang V-AF 100 mm fue creado para todos los creadores de videos, desde creadores de videos de una sola persona hasta pequeñas producciones y cineastas. con el desarrollo de las cámaras de lentes intercambiables y la prevalencia de los accesorios de video, cualquiera puede producir fácilmente contenido de video.
+- Hay una lámpara Tally que muestra el estado de la filmación con una luz LED para que incluso un solo creador pueda verificar rápidamente el estado de la grabación. El anillo de enfoque se ha rediseñado para permitir aplicar el enfoque de seguimiento sin accesorios adicionales. También hay un interruptor personalizado y un botón de enfoque para configurar la función optimizada para filmar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMHPRLGY{{</world>}}

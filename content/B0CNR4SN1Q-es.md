@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño de la pantalla: 6,74 pulgadas.
-- Capacidad de memoria: 256 GB.
 - Proveedores de red inalámbrica: all_carriers.
+- Capacidad de memoria: 256 GB.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNR4SN1Q{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es divertido
 - Es para PS4
+- Es divertido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B092JGGKM6{{</world>}}

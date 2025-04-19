@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: 1x JBL Charge 5 Wifi altavoz Bluetooth inalámbrico portátil impermeable, cable USB - C, guía de inicio rápido, hoja de datos de seguridad, negro
 - Wifi y Bluetooth: transmite en cualquier lugar mediante wifi, incluso mientras usas el teléfono, o cambia fácilmente a Bluetooth para disfrutar de una experiencia de audio sin interrupciones
 - Fiesta sin parar: hasta 20 horas de duración de la batería y powerbank integrado para escuchar sin cables y sin interrupciones, incluso en la piscina o en la playa gracias al diseño IP67 resistente al agua y al polvo
+- Contenido del envío: 1x JBL Charge 5 Wifi altavoz Bluetooth inalámbrico portátil impermeable, cable USB - C, guía de inicio rápido, hoja de datos de seguridad, negro
 - JBL Original Pro Sound: no pierdas el ritmo con JBL Charge 5 wifi y Bluetooth, el altavoz portátil que ofrece graves potentes y un sonido audaz, personalizable a través de la práctica aplicación JBL One
 - La duración de la batería de 24 horas te permite bailar desde el amanecer hasta el anochecer, y la aplicación JBL Portable te permite conectar al instante varios altavoces para disfrutar de una experiencia memorable
 

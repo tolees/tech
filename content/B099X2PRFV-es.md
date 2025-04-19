@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Memoria RAM de 8 GB DDR4
 - Almacenamiento de 512 GB SSD PCI Express
 - Tarjeta Gráfica UMA Graphics
-- Procesador Intel Core i3-1115G4 (DualCore), 3,70 GHz
 - Sistema Operativo: Windows 10 Home
+- Procesador Intel Core i3-1115G4 (DualCore), 3,70 GHz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099X2PRFV{{</world>}}

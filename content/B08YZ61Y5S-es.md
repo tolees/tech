@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sensor óptico avanzado Razer 5G de 18 000 PPP para una precisión de vanguardia: Disfruta de un objetivo sensible y con una precisión de píxel gracias al sensor mejorado que monitoriza tus movimientos sin ningún tipo de latencia.
-- 2 modos inalámbricos con Razer HyperSpeed Wireless y Bluetooth: Usa el Bluetooth para sacarle el máximo partido a la batería cuando trabajes y aprovecha a tope tus horas de juego con el rendimiento perfecto de baja latencia de Razer HyperSpeed Wireless.
 - Hasta 950 horas de duración de la batería para un rendimiento duradero: Diseñado para el uso constante en juego y trabajo, dura hasta xx horas con Bluetooth y hasta xx horas con Razer HyperSpeed Wireless. Pasarán siglos hasta que tengas que cambiarle las pilas.
-- Switches mecánicos para ratón Razer de 2.ª generación para una durabilidad de clicks mejorada y mayor consistencia: Con los nuevos puntos de contacto dorados, los switches tienden a estropearse menos y a tener una vida útil más duradera de hasta 60 millones de clicks, para que puedas disfrutar de una ejecución precisa y consistente.
+- 2 modos inalámbricos con Razer HyperSpeed Wireless y Bluetooth: Usa el Bluetooth para sacarle el máximo partido a la batería cuando trabajes y aprovecha a tope tus horas de juego con el rendimiento perfecto de baja latencia de Razer HyperSpeed Wireless.
 - Diseño ultraligero de 60g* para un control constante del juego estés donde estés *No incluye el peso de las pilas: Su diseño pequeño y portátil hace que sea el compañero de viaje ideal para jugar, y su forma ambidiestra permite un manejo sencillo y un control ágil sin poner en riesgo la robustez de su estructura.
+- Switches mecánicos para ratón Razer de 2.ª generación para una durabilidad de clicks mejorada y mayor consistencia: Con los nuevos puntos de contacto dorados, los switches tienden a estropearse menos y a tener una vida útil más duradera de hasta 60 millones de clicks, para que puedas disfrutar de una ejecución precisa y consistente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YZ61Y5S{{</world>}}

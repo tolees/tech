@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 16GB DDR4
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB DDR4
 - Procesador AMD Ryzen 7 5700G (8C/OctaCore 3.8 / 4.6GHz, 16MB)
 - Sin Sistema Operativo
+- Tarjeta gráfica integrada AMD Radeon Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B18SGYR9{{</world>}}

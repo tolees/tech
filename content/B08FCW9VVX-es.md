@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Correa de sujeción del cable
 - Con licencia oficial de Nintendo
-- Cable USB tipo C de 2,4 m
-- Diseño de cable trenzado y duradero
 - Compatibilidad de carga y sincronización
+- Diseño de cable trenzado y duradero
+- Cable USB tipo C de 2,4 m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FCW9VVX{{</world>}}

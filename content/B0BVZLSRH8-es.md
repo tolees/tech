@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráficos NVIDIA GeForce RTX 2050 (GDDR6 de 4 GB dedicada)
-- Procesador Intel Core i7-1355U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
-- Pantalla de 35,6 cm (14") en diagonal, 2,8 K (2880 x 1800), OLED, 90 Hz, UWVA, microborde, BrightView, LowBlue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
-- Memoria DDR4-3200 MHz 16 GB (integrada)
 - Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Sistema operativo Windows 11 Home
+- Memoria DDR4-3200 MHz 16 GB (integrada)
+- Procesador Intel Core i7-1355U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
+- Gráficos NVIDIA GeForce RTX 2050 (GDDR6 de 4 GB dedicada)
+- Pantalla de 35,6 cm (14") en diagonal, 2,8 K (2880 x 1800), OLED, 90 Hz, UWVA, microborde, BrightView, LowBlue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVZLSRH8{{</world>}}

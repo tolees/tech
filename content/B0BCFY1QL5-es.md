@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede almacenar 128 GB
-- Con una tecnología 5G
 - La pantalla mide 6,55 pulgadas
 - Marca: Xiaomi
+- Puede almacenar 128 GB
+- Con una tecnología 5G
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCFY1QL5{{</world>}}

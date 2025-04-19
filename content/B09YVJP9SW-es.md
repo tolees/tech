@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core i5-11320H
-- Almacenamiento de 512 GB SSD
 - Pantalla de 15,6 pulgadas, FullHD, 1920 x 1080 píxeles, IPS, 250 nits, Anti-glare, 60 Hz, DC di mmer
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4 GB GDDR6
-- Sin sistema operativo
+- Almacenamiento de 512 GB SSD
 - Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4 GB GDDR6
+- Procesador Intel Core i5-11320H
+- Sin sistema operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YVJP9SW{{</world>}}

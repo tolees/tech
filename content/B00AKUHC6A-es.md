@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de carga de la batería: aprox. 7 horas (carga completa)
 - Duración de la batería: aprox. 18 horas (completamente cargada)
 - Auriculares inalámbricos cerrados con baterías recargables, membrana de neodimio de 40 mm y estación de carga
 - Alcance inalámbrico de 100 m
-- Diafragma de neodimio de 40 mm
 - Baterías: DC2.4V (pila Ni-MH recargable)
+- Diafragma de neodimio de 40 mm
 - Rango de frecuencia de 10 Hz a 22 kHz
+- Tiempo de carga de la batería: aprox. 7 horas (carga completa)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AKUHC6A{{</world>}}

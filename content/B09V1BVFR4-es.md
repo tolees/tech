@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Active Noise Cancellation
-- Alienware AW920H Tri-Mode Wireless Gaming Headset
 - Bluetooth 5.2 Connectivity, 3.5 mm Wired, AlienFX 16.8 Million RGB colors -Lunar Light
 - Explora nuestra gama de productos y disfruta de tu estilo
+- Active Noise Cancellation
+- Alienware AW920H Tri-Mode Wireless Gaming Headset
 - Rango de edad: Adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

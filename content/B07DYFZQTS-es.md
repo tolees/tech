@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funciona con 3 x pilas AAA
 - Alcance de hasta 4 km – dependiendo del terreno y de las condiciones del entorno
 - PMR446 juego de dispositivos inalámbricos – libre de licencia, 16 canales, Pantalla LCD, easy Pairing, personalizables por suministrado adhesivos
+- Funciona con 3 x pilas AAA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DYFZQTS{{</world>}}

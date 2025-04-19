@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Retroiluminación arcoiris con luz pulsante. FN+Luz (a la derecha de FN) para entrar en el modo de luz pulsante. Presione el botón de luz por tres veces, la retroiluminación se apagará
+- Sensación mecánica profesional con retroiluminación LED. Teclado para juegos y oficina. No es un teclado mecánico, pero la sensación de uso es similar.
 - Teclado estándar de 105 teclas de tamaño completo, con 11 combinaciones de teclas multimedia especialmente diseñadas.Tamaño: 44 x 14 x 2,5 cm.
 - Entra automáticamente en modo reposo si permanece 10 minutos sin funcionamiento. La retroiluminación se apaga también. Cualquier tecla pulsada despierta el teclado y la retroiluminación se enciende.
-- Sensación mecánica profesional con retroiluminación LED. Teclado para juegos y oficina. No es un teclado mecánico, pero la sensación de uso es similar.
 - Compatible con Windows 8, Windows 7, Windows Vista, Windows XP. PC, portátil, Google Android TV Box, HTPC IPTV, Smart TV, Mac, IOS, Raspberry Pi todas las versiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 【Seguimiento GPS potente y preciso】La ciudad es tu patio de recreo, así que explórala con facilidad gracias a la compatibilidad con 5 sistemas de posicionamiento por satélite. Importa archivos de ruta y navega por la jungla urbana con una precisión increíble.
 - 【Entrena de forma más inteligente con Zepp Coach】Todo el mundo quiere ser el número uno. Adelántate a la competencia con planes de entrenamiento personalizados y guía de ejercicios, impulsados por IA de vanguardia.
-- 【Resistente al agua 10 ATM】Enfréntate a las olas con confianza en tu próximo viaje a la playa. El Amazfit Active Edge está fabricado para soportar el equivalente de hasta 100 metros de presión de agua.
 - 【Batería ultralarga de 16 días de duración】Carga menos y haz más, con 16 días de energía imparable.
 - 【Diseño bicolor que marca tendencia】Destaca entre la multitud gracias a su diseño bicolor. Capaz de soportar los golpes y arañazos propios de una vida activa en la ciudad, este reloj inteligente está pensado para quienes viven al límite.
+- 【Resistente al agua 10 ATM】Enfréntate a las olas con confianza en tu próximo viaje a la playa. El Amazfit Active Edge está fabricado para soportar el equivalente de hasta 100 metros de presión de agua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKTNQP4W{{</world>}}

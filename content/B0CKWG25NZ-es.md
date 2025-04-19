@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Procesador AMD Ryzen 7 7735HS
 - Almacenamiento de 1TB NVMe PCIe SSD Gen4x4 w/o DRAM
 - Memoria RAM de 32GB (16GBx2) DDR5
-- Tarjeta Gráfica NVIDIA RTX 4060, GDDR6 8GB
 - Pantalla 17.3 QHD (2560x1440), 240Hz DCI-P3 100% typical
-- Procesador AMD Ryzen 7 7735HS
+- Tarjeta Gráfica NVIDIA RTX 4060, GDDR6 8GB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKWG25NZ{{</world>}}

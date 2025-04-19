@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 Teclas dedicadas a macros para hacer tus propios movimientos Go-To y sistema antighosting con N-Key rollover y respuesta ultrarrápida
-- Sistemas operativos compatibles: Windows 10
-- Requisitos del sistema mínimos, puerto USB disponible
 - Teclas con retroiluminación individual con 16,8 millones de colores RGB a elección y efectos de luz únicos
+- Requisitos del sistema mínimos, puerto USB disponible
+- 5 Teclas dedicadas a macros para hacer tus propios movimientos Go-To y sistema antighosting con N-Key rollover y respuesta ultrarrápida
 - Contenido de la caja: teclado, aviso sobre el producto, garantía, póster de inicio rápido
+- Sistemas operativos compatibles: Windows 10
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GDFN5TB{{</world>}}

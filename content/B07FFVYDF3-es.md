@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una capacidad de almacenamiento de hasta 8.tb
 - Interfaz: sata con 6.gbit/s
 - Ideal para escritorio de memoria, all-in-one de memoria, home servidor, el de dispositivos
+- Con una capacidad de almacenamiento de hasta 8.tb
 - plata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

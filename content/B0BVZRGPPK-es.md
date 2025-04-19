@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM LPDDR5-5500 MHz 8 GB (integrada)
 - Gráficos Integrados AMD Radeon
 - Sistema operativo Windows 11 Home
 - Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Memoria RAM LPDDR5-5500 MHz 8 GB (integrada)
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVZRGPPK{{</world>}}

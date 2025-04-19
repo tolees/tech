@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Achieve outstanding quality every time with advanced image processing
 - Scan with ease using CaptureOnTouch and one-touch job buttons
 - Scan books, magazines or fragile materials with the integrated flatbed
 - Scan to editable-PDF and connect to your cloud applications
+- Achieve outstanding quality every time with advanced image processing
 - Keep productive with 20ppm duplex scanning and 50-sheet ADF
 
 [🛒 Visítala!!!]({{< param buyurl >}})

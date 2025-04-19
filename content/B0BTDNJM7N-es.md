@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 4060, GDDR6 8GB
 - Procesador Raptor Lake i7-13620H
 - Memoria RAM de 16GB (8GB*2) DDR5
 - Pantalla de 15.6" FHD (1920*1080), 144Hz 45%NTSC IPS-Level
+- Tarjeta gráfica NVIDIA GeForce RTX 4060, GDDR6 8GB
 - Almacenamiento de 1TB NVMe PCIe SSD Gen4x4 w/o DRAM
 
 [🛒 Visítala!!!]({{< param buyurl >}})

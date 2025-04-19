@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3.5 interfaz interna tipo de disco duro sata iii caché interno en mb 64 ​​dimensiones / peso ancho en cm 16.16 alto en cm 2.54 profundidad en cm 14.7 peso en g 99
 - Valores de energía consumo de energía funcionamiento en vatios 3.3 características tipo de dispositivo disco duro interno fabricante no; wd60ezrz disco duro capacidad de almacenamiento en disco duro en gb 1000 velocidad de rotación en rpm 5400 datos técnicos velocidad de transferencia de datos (escritura) en mb / s 150 velocidad de transferencia de datos (lectura) en mb / s 150 tamaño en pulgadas
+- 3.5 interfaz interna tipo de disco duro sata iii caché interno en mb 64 ​​dimensiones / peso ancho en cm 16.16 alto en cm 2.54 profundidad en cm 14.7 peso en g 99
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MYKZGVX{{</world>}}

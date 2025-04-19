@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 16GB ‎DDR4 SDRAM
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
-- Procesador Intel Core i7-11800H (8C/OctaCore‎ 2.30GHz)
 - Sin Sistema Operativo
-- Almacenamiento de 1TB SSD
+- Memoria RAM de 16GB ‎DDR4 SDRAM
+- Procesador Intel Core i7-11800H (8C/OctaCore‎ 2.30GHz)
 - Tarjeta gráfica‎ NVIDIA GeForce RTX 3070-8GB GDDR6
+- Almacenamiento de 1TB SSD
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Q3C9HGJ{{</world>}}

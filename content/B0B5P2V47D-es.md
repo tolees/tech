@@ -31,10 +31,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - producto 1: Combina las formas. Los paneles luminosos Nanoleaf Shapes son modulares y cuentan con la funcionalidad Connect+ que les permite ser compatibles con las formas de la gama Shapes.
 - producto 2: Diseño plegable para pasar las esquinas entre dos paredes, por ejemplo,
 - producto 2: Se puede girar hasta 30 grados.
-- producto 1: Crea tu propio diseño. Este puzle de luz te permite organizar los paneles de la forma que quieras para crear el diseño de tus sueños.
 - producto 2: Se pliega hasta 180 grados.
-- producto 2: 3 conectores flexibles para la serie Nanoleaf Shapes
 - producto 1: Más de 16 millones de colores. Crea el ambiente perfecto para cada ocasión con tus colores favoritos o diferentes tonos de blanco.
+- producto 2: 3 conectores flexibles para la serie Nanoleaf Shapes
+- producto 1: Crea tu propio diseño. Este puzle de luz te permite organizar los paneles de la forma que quieras para crear el diseño de tus sueños.
 - producto 1: Sincronización con tu música. Las escenas Rhythm hacen bailar tus luces al ritmo de tu música favorita.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

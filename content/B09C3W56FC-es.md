@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conexión inteligente de dispositivos duales
+- 69ms juego baja latencia
 - Reducción de ruido inteligente de 35 dB
 - Batería de larga duración de 28 horas
-- 69ms juego baja latencia
+- Conexión inteligente de dispositivos duales
 - Soporte de carga inalámbrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

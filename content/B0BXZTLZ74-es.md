@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ahorra tiempo con las descargas de tarjetas que alcanzan velocidades de transferencia de hasta 280 MB/s (hasta 280 MB/s de velocidad de lectura. Basad
-- Captura el modo de ráfaga continua superlativa e imágenes de lapso de tiempo con velocidades de disparo de hasta 150 MB/s (hasta 150 MB/s de velocidad
 - Para prosumores y profesionales que disparan con cámaras MIL y cine
 - Graba 6K y 4K UHD de calidad cinematográfica con clasificación de velocidad de video 60 (Full HD (1920 x 1080), 4K UHD (3840 x 2160) y 6K (6144 x 3160
+- Captura el modo de ráfaga continua superlativa e imágenes de lapso de tiempo con velocidades de disparo de hasta 150 MB/s (hasta 150 MB/s de velocidad
+- Ahorra tiempo con las descargas de tarjetas que alcanzan velocidades de transferencia de hasta 280 MB/s (hasta 280 MB/s de velocidad de lectura. Basad
 - Almacena más archivos de alta resolución con opciones de capacidad de hasta 512 GB (1 GB = 1.000.000.000 bytes. Menor almacenamiento real del usuario)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

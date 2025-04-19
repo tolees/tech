@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Un producto de calidad
 - Adecuadas para crear diferentes tipos de atmósfera
-- Extensión de tiras LED para prolongar el kit de base
 - Fácil de usar
+- Extensión de tiras LED para prolongar el kit de base
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YCQVRVQ{{</world>}}

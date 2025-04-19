@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i7-1255U (10C/DecaCore 4.7GHz, 12MB)
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
 - Sistema Operativo: Windows 11 Home
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Memoria RAM de 16GB SO-DIMM DDR4
-- Procesador Intel Core i7-1255U (10C/DecaCore 4.7GHz, 12MB)
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MP97QGC{{</world>}}

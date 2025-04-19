@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ratón con sensor óptico de alto rendimiento, con resolución ajustable a 800/1200/1600 DPI, scroll vertical y 5 botones.
-- Conexión inalámbrica con alcance de 8-10 metros mediante receptor nano USB y RF de 2,4Ghz.
-- Ergonomía derecha: puede ser utilizado por usuarios diestros.
-- Acabado brillante en color negro que combina con los laterales de goma contorneados para una comodidad total y mejor agarre.
 - Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
+- Acabado brillante en color negro que combina con los laterales de goma contorneados para una comodidad total y mejor agarre.
+- Ratón con sensor óptico de alto rendimiento, con resolución ajustable a 800/1200/1600 DPI, scroll vertical y 5 botones.
+- Ergonomía derecha: puede ser utilizado por usuarios diestros.
+- Conexión inalámbrica con alcance de 8-10 metros mediante receptor nano USB y RF de 2,4Ghz.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07LH3WTPN{{</world>}}

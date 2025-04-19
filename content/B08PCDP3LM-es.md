@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de producto: teléfono celular
 - Modelo - iPhone 12
+- Tipo de producto: teléfono celular
 - Cantidad del paquete: 1 unidad
 - Almacenamiento: 128 GB
 

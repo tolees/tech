@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema Operativo Windows 11 Home en Modo S
-- Procesador Intel Core i3-1115G4
-- Almacenamiento de 256GB SSD
-- Memoria RAM de 8GB
 - Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz, IPS 250 nits
 - gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB
+- Sistema Operativo Windows 11 Home en Modo S
+- Almacenamiento de 256GB SSD
+- Procesador Intel Core i3-1115G4
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWJLXL2Q{{</world>}}

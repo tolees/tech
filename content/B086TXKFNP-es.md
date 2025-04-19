@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-3470 - 3,20 GHz
 - Almacenamiento de 240GB SDD + 500GB HDD
+- Procesador Intel Core i5-3470 - 3,20 GHz
 - Monitor 24 Inches , Estado excelente.
 - Memoria RAM 8GB DDR3
 

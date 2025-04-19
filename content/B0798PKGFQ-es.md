@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Lan virtual para mayor seguridad de red
 - Calidad del servicio para un mejor control del tráfico
-- Multidifusión de snooping igmp v1/v2 y v3 compatible con aplicaciones de retransmisión continua
 - Gestión intuitiva de web
+- Multidifusión de snooping igmp v1/v2 y v3 compatible con aplicaciones de retransmisión continua
 - Lan virtual para mayor seguridad de red
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta lente pequeña y liviana ofrece un rendimiento óptico superior, tecnología AF mejorada y mayor comodidad para el usuario. Los elementos de cristal 4 HR y 1 ED maximizan el rendimiento óptico. Equipado con el motor STM lineal, AF es más rápido, más silencioso y más preciso. Además, las funciones Cambio personalizado y Botón de retención de enfoque se agregan para comodidad del usuario
-- Excelente resolución y efecto bokeh cremoso gracias a la lente rápida F1.4
 - Rendimiento de AF más silencioso, rápido y preciso con motor STM lineal
-- Tamaño más pequeño y peso más ligero
+- Excelente resolución y efecto bokeh cremoso gracias a la lente rápida F1.4
 - Control profesional y confiabilidad mejorada
+- Tamaño más pequeño y peso más ligero
+- Esta lente pequeña y liviana ofrece un rendimiento óptico superior, tecnología AF mejorada y mayor comodidad para el usuario. Los elementos de cristal 4 HR y 1 ED maximizan el rendimiento óptico. Equipado con el motor STM lineal, AF es más rápido, más silencioso y más preciso. Además, las funciones Cambio personalizado y Botón de retención de enfoque se agregan para comodidad del usuario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B7K8PBP4{{</world>}}

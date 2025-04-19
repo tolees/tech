@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Neumáticos auto regenerables de 10 pulgadas sin cámara y con capa de gelatina
 - Velocidad máxima de hasta 25 km/h (15.5 mph)
 - 2 frenos: disco delantero y trasero electrónico
-- Neumáticos auto regenerables de 10 pulgadas sin cámara y con capa de gelatina
 - Alcance hasta aprox. 40km
 - Apple Find My **
 

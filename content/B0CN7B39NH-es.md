@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Procesador AMD Ryzen 7 5700U (8C/OctaCore), 1,80 GHz
-- Almacenamiento de 512GB SSD PCIe NVMe
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
 - Sistema Operativo: Windows 11 Home
+- Almacenamiento de 512GB SSD PCIe NVMe
 - Memoria RAM de 8GB DDR4 SDRAM
 - Tarjeta Gráfica AMD Radeon Graphics
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN7B39NH{{</world>}}

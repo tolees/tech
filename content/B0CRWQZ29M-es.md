@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ZT-D40730F-10P
 - 4895173628580
+- ZT-D40730F-10P
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRWQZ29M{{</world>}}

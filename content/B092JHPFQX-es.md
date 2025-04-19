@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lleva tu fiesta a otro nivel con Party Connect a través de Bluetooth; Se pueden conectar hasta 100 modelos compatibles con el altavoz Bluetooth de Sony para disfrutar del sonido sincronizado con la iluminación
 - Este altavoz inalámbrico está diseñado para proporcionar unos graves intensos y profundos y un sonido rico y claro sin importar lo que estés escuchando con altavoz X-Balanced y los tweeters frontales de alta eficiencia; Un extra de potencia adicional en los graves, ¡pulsa el botón MEGA BASS!
-- Iluminación multicolor que se adapta a cada estado de ánimo y ocasión, desde luz pulsada a luz ambiente; Ve a la app Sony, Music Center, selecciona tu patrón favorito y úsala para optimizar los ajustes del audio o controlar tu música
-- Altavoz de Sony SRS-XP500 resiste salpicaduras (grado de protección IPX4) para que, si llueve o se vierte algo, nada arruine tu fiesta; Tendrás fácil moverte con el altavoz por la casa, solo tienes que cogerlo por el asa incorporada
 - ¿Te gusta el karaoke o tocar la guitarra?; Tiene dos entradas en las que puedes conectar micrófonos o una guitarra y usar el altavoz karaoke como un amplificador
+- Altavoz de Sony SRS-XP500 resiste salpicaduras (grado de protección IPX4) para que, si llueve o se vierte algo, nada arruine tu fiesta; Tendrás fácil moverte con el altavoz por la casa, solo tienes que cogerlo por el asa incorporada
+- Iluminación multicolor que se adapta a cada estado de ánimo y ocasión, desde luz pulsada a luz ambiente; Ve a la app Sony, Music Center, selecciona tu patrón favorito y úsala para optimizar los ajustes del audio o controlar tu música
+- Lleva tu fiesta a otro nivel con Party Connect a través de Bluetooth; Se pueden conectar hasta 100 modelos compatibles con el altavoz Bluetooth de Sony para disfrutar del sonido sincronizado con la iluminación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092JHPFQX{{</world>}}

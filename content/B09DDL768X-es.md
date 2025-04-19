@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño creativo
 - Producto por tu tiempo libre
 - Calidad óptima para los requisitos del cliente
+- Diseño creativo
 - Creado para un uso prolongado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

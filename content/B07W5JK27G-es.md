@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El mando R500s se empareja con la eficaz aplicación Logitech Presentation para permitir personalizar funciones de botones, controlar el estado de carga de la pila y programar un temporizador de presentación en pantalla
-- Conecte el mando R500s al ordenador mediante el receptor USB o tecnología Bluetooth, Una práctica base integrada permite guardar el minúsculo receptor USB en el mando cuando no se está usando
-- PERSONALIZACIÓN** – El mando R500s se empareja con la eficaz aplicación Logitech Presentation para permitir personalizar funciones de botones, controlar el estado de carga de la pila y programar un temporizador de presentación en pantalla.
 - Funciona durante 12 meses con una sola pila AAA
 - CONECTIVIDAD DOBLE – Conecte el mando R500s al ordenador mediante el receptor USB o tecnología Bluetooth. Una práctica base integrada permite guardar el minúsculo receptor USB en el mando cuando no se está usando.
-- El mando R500s láser de Clase 1 se ha optimizado para funcionar con Windows, macOS, iOS, Android, y también con software de presentación como PowerPoint, Keynote, PDF, Google Slides y Prezi
 - ADMINISTRACIÓN DE PILAS INTELIGENTE – El mando R500s funciona durante 12 meses* con una sola pila AAA. Cuando la carga es baja, el mando R500s entra en modo de ahorro de energía y desactiva el láser, para prolongar la duración de la pila y permitir el uso durante una semana más.
+- Conecte el mando R500s al ordenador mediante el receptor USB o tecnología Bluetooth, Una práctica base integrada permite guardar el minúsculo receptor USB en el mando cuando no se está usando
+- PERSONALIZACIÓN** – El mando R500s se empareja con la eficaz aplicación Logitech Presentation para permitir personalizar funciones de botones, controlar el estado de carga de la pila y programar un temporizador de presentación en pantalla.
+- El mando R500s se empareja con la eficaz aplicación Logitech Presentation para permitir personalizar funciones de botones, controlar el estado de carga de la pila y programar un temporizador de presentación en pantalla
+- El mando R500s láser de Clase 1 se ha optimizado para funcionar con Windows, macOS, iOS, Android, y también con software de presentación como PowerPoint, Keynote, PDF, Google Slides y Prezi
 - COMPATIBILIDAD UNIVERSAL – El mando R500s láser de Clase 1 se ha optimizado para funcionar con Windows, macOS, iOS, Android, y también con software de presentación como PowerPoint, Keynote, PDF, Google Slides y Prezi.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

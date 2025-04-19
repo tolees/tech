@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Cubot MAX 3 diseñado con una pantalla de 6.95 pulgadas, le ofrece un disfrute visual con una resolución de pantalla HD+.
 - Batería de alta capacidad de 5000mAh, puede disfrutar de una larga vida sin tener que preocuparse por quedarse sin batería.
+- Tipo de conector: USB tipo c
+- El Cubot MAX 3 diseñado con una pantalla de 6.95 pulgadas, le ofrece un disfrute visual con una resolución de pantalla HD+.
 - Android 11, el Cubot MAX 3 le ofrece una experiencia de operación más simple, más inteligente y más rápida.
 - EquiPado con una cámara de 48MP en la parte posterior que funciona en conjunto para mejorar sus fotos.
 - El procesador MT6762 Octacore con 4GB de RAM y 64GB de ROM, proporciona una experiencia de multitarea fluida y sin retraso.
-- Tipo de conector: USB tipo c
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DB4TWFB{{</world>}}

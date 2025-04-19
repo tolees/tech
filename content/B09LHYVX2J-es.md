@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Talla del zapato: Medium
+- Parte superior: piel de becerro
+- Forma del talón: plano
 - Cuero: piel de becerro
 - Cierre: 100% poliuretano termoplástico
-- Talla del zapato: Medium
-- Forma del talón: plano
-- Parte superior: piel de becerro
 - Material interior: 100% piel de cabra
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 165 Hz y 1 ms de tiempo de respuesta: Derriba a todos tus enemigos, incluso a una velocidad extrema, con un tiempo de respuesta de 1ms. Olvídate de los retrasos.
 - HDR10. Descubre lo que se oculta en las sombras con una resolución detallada.
 - Pantalla curva 1000R: Primer monitor con esta curvatura. Máxima inmersión para más diversión y realismo.
-- 165 Hz y 1 ms de tiempo de respuesta: Derriba a todos tus enemigos, incluso a una velocidad extrema, con un tiempo de respuesta de 1ms. Olvídate de los retrasos.
 - Freesync Premium. Disfruta de un juego fluido en HDR con baja latencia.
 - Resolución QHD. Con 1,7 veces la densidad de píxeles de Full HD, la resolución QHD ofrece imágenes increíblemente detalladas y nítidas.
 

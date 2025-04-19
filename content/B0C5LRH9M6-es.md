@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Hasta 40 horas de reproducción]Descubre un nuevo nivel de duración de la batería y carga rápida con hasta 40 horas de reproducción: energía suficiente para toda la semana. Y, cuando tengas poco tiempo para recargar, con tan solo 10 minutos de carga podrás disfrutar de tu música durante 7 horas.
 - [Latencia superbaja de 40 ms]En el modo de juego, los auriculares pueden alcanzar una latencia ultrabaja de 40 ms líder en el sector para una sincronización de audio y video ultraalta, lo que te permite sumergirte en la acción durante esas intensas batallas.
-- [Graves potenciados. Agudos más brillantes]La innovadora arquitectura acústica coaxial de doble driver está formada por un driver de graves de 11 mm y un tweeter microplanar de 6 mm, lo que proporciona una experiencia acústica de nivel de estudio a frecuencias tanto altas como bajas.
-- [Cancelación activa de ruido de 50 dB]Te presentamos la cancelación activa de ruido más potente del sector hasta la fecha. Con una profunda cancelación de ruido de 50 dB, lo que supone una mejora de 8 dB con respecto a la generación anterior, podrás disfrutar del silencio como nunca antes.
 - [Efecto de audio espacial de 360°]Basado en el modelo de función de transferencia relacionada con la cabeza (HRTF), nuestro algoritmo desarrollado a partir de investigaciones propias crea un sonido espacial 3D de calidad cinematográfica que consigue que el canal auditivo pueda sentir una gama completa de sonido inmersiva.
+- [Cancelación activa de ruido de 50 dB]Te presentamos la cancelación activa de ruido más potente del sector hasta la fecha. Con una profunda cancelación de ruido de 50 dB, lo que supone una mejora de 8 dB con respecto a la generación anterior, podrás disfrutar del silencio como nunca antes.
+- [Graves potenciados. Agudos más brillantes]La innovadora arquitectura acústica coaxial de doble driver está formada por un driver de graves de 11 mm y un tweeter microplanar de 6 mm, lo que proporciona una experiencia acústica de nivel de estudio a frecuencias tanto altas como bajas.
+- [Hasta 40 horas de reproducción]Descubre un nuevo nivel de duración de la batería y carga rápida con hasta 40 horas de reproducción: energía suficiente para toda la semana. Y, cuando tengas poco tiempo para recargar, con tan solo 10 minutos de carga podrás disfrutar de tu música durante 7 horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5LRH9M6{{</world>}}

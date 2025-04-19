@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- WiFi y WiFi Direct. Conexión móvil y conexión Cloud
-- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 1.8 inches
 - Cartuchos incluidos: BK: 3000 páginas con M/Y: 1500 páginas
-- Mobile Connect App
+- WiFi y WiFi Direct. Conexión móvil y conexión Cloud
 - 20/19 ppm en monocromo y color comparable láser
+- Mobile Connect App
+- Tipo de conectividad: Wi-Fi; Tamaño de pantalla: 1.8 inches
 - Impresora, copiadora, escáner y fax
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

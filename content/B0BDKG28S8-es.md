@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla Super Retina XDR de 6,7 pulgadas.
-- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
-- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo
 - Sistema avanzado de cámaras para hacer mejores fotos con cualquier luz
+- Modo Acción para grabar vídeos superestables sin trípode
+- Pantalla Super Retina XDR de 6,7 pulgadas.
+- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
+- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
 - Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
 - Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
-- Modo Acción para grabar vídeos superestables sin trípode
-- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
+- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BDKG28S8{{</world>}}

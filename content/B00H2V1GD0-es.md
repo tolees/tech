@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prolongada duración de las baterías mediante una combinación de sistemas: modo ahorro cuando no se usa el ordenador con encendido automático. Procesador de bajo consumo y batería cr2430 sustituible por el usuario sin herramientas
-- Amplia pantalla ufds que hereda la proverbial facilidad de navegación y menús de los ordenadores con software cressi
-- Display retroiluminado mediante pulsador o en caso de alarma
-- La distribución de la información, contraste de pantalla, proporciones y tamaño de los dígitos han sido estudiados para facilitar la lectura
-- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
 - La interfaz Cressi (es decir, cable USB + interfaz para conectar la computadora de buceo a la PC) NO está incluida, pero se puede comprar por separado.
 - Interface con conexión al ordenador de buceo mediante ir simplemente apoyando el ordenador y conexión al pc con cable USB. Software compatible con todas las versiones Windows y con mac. La interfaz Cressi (es decir, cable USB + interfaz para conectar la computadora de buceo a la PC) NO está incluida, pero se puede comprar por separado.
+- Prolongada duración de las baterías mediante una combinación de sistemas: modo ahorro cuando no se usa el ordenador con encendido automático. Procesador de bajo consumo y batería cr2430 sustituible por el usuario sin herramientas
+- Display retroiluminado mediante pulsador o en caso de alarma
+- Amplia pantalla ufds que hereda la proverbial facilidad de navegación y menús de los ordenadores con software cressi
+- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
+- La distribución de la información, contraste de pantalla, proporciones y tamaño de los dígitos han sido estudiados para facilitar la lectura
 - Profundímetro calibrado en agua salada para una máxima precisión en el uso más habitual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

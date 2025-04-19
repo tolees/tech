@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Potencia de salida total: 2 x 2 W (RMS) con radiador pasivo
-- Sintonizador FM y recepción DAB+ con memoria de 30 emisoras cada una
+- Transmisión de música Bluetooth V5.0
 - Radio de cocina de diseño moderno con botones grandes para un manejo fácil e intuitivo
 - Temporizador (temporizador de cocina, temporizador corto) ajustable hasta 300 minutos
-- Transmisión de música Bluetooth V5.0
+- Sintonizador FM y recepción DAB+ con memoria de 30 emisoras cada una
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Y2TL8Y9{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Contenido de la caja: Objetivo, tapa del objetivo Micro Four Thirds, tapa del objetivo trasera MFT, LR-2, instrucciones de uso, tarjeta de garantía de Olympus
 - El teleobjetivo zoom impresiona por su asombrosa ligereza y evita tener que llevar muchos objetivos intercambiables; Permite alejar y acercar con facilidad las imágenes de sujetos distantes
-- El objetivo de zoom ofrece dos ventajas inmediatas: tiene una sola unidad que es particularmente silenciosa cuando se graba vídeo y una función de autoenfoque rápida MSC para hacer fotos rápidamente
 - Áreas de aplicación: Viajes, naturaleza y deportes, equivalente a un 150; 600 mm en un sistema de 35 mm
+- El objetivo de zoom ofrece dos ventajas inmediatas: tiene una sola unidad que es particularmente silenciosa cuando se graba vídeo y una función de autoenfoque rápida MSC para hacer fotos rápidamente
 - El autoenfoque inusualmente rápido y silencioso del mecanismo del MSC es oportuno para una sutil grabación de fotos y vídeos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

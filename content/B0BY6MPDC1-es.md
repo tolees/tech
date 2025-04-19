@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MZB0D39EU
 - 6941812709788
+- MZB0D39EU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY6MPDC1{{</world>}}

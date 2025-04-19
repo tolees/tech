@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
 - Procesador AMD Ryzen 7 5700U
-- Almacenamiento de 512GB SSD
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
 - Memoria RAM de 8GB
 - Sin Sistema Operativo
 - Tarjeta gráfica integrada AMD Radeon Graphics
+- Almacenamiento de 512GB SSD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQRKZLXG{{</world>}}

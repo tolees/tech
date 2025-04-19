@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Shars-929 con twstrue wireless stereo – para conectar un segundo ps-929 via bluetooth
-- Espectáculo de luces multicolor con diferentes modos más luz estroboscópica
-- 10 ecualizadores preajustados incluido super bass
-- Fución karaoke y microfono incluido
 - Bateria integrada con hasta 14 horas de duracion
+- Espectáculo de luces multicolor con diferentes modos más luz estroboscópica
+- Fución karaoke y microfono incluido
 - Potenvia: 180 w
 - Conectividad 1 x bluetooth 2 x 6.3 mm mic in / guitar in, 1 x 3.5 mm entrada aux, 2 x uspara reproduccion o carga
+- 10 ecualizadores preajustados incluido super bass
+- Shars-929 con twstrue wireless stereo – para conectar un segundo ps-929 via bluetooth
 - Altavoz woofer 2 x 6,5 pulgadas + altavoces tweeter 2 x 2 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

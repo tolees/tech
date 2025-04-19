@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teclas mecánicas HyperX*, Cubiertas de PBT de doble capa de las teclas con funciones secundarias impresas en los laterales
-- Memoria integrada, Modo de juego, 100 % anti-ghosting y funcionalidades N-key rollover
 - Teclas de retroiluminación RGB con efectos de iluminación brillantes, Personalización avanzada con el software HyperX NGENUITY
+- Memoria integrada, Modo de juego, 100 % anti-ghosting y funcionalidades N-key rollover
 - Pequeño formato al 60%, Cuerpo completo de aluminio aeronáutico
 - Tres ángulos de teclado ajustables y cable USB-C extraíble, Extractor de teclas y teclas adicionales incluidos
+- Teclas mecánicas HyperX*, Cubiertas de PBT de doble capa de las teclas con funciones secundarias impresas en los laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XBQ79MN{{</world>}}

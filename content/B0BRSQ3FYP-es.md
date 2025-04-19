@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tarjeta gráfica NVIDIA GeForce RTX 2050 4GB
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador Intel Core i5-11400H (6C/HexaCore 4.5GHz, 12MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Sin Sistema Operativo
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRSQ3FYP{{</world>}}

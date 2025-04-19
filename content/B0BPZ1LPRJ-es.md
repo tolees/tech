@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Podrás elegir entre 6 velocidades de funcionamiento, adecuando la intensidad del caudal de aire a tus necesidades. Su temporizador permite seleccionar 1, 2, 4 u 8 horas de funcionamiento, tras el cual el ventilador se apagará.
-- Su control por Wi-Fi mediante un Smartphone permite seleccionar las distintas configuraciones de funcionamiento del ventilador y controlarlo de manera remota. Además, incluye un mando a distancia el cual hace aún más cómodo y sencillo el control del ventilador.
-- Perfecto para su uso en exteriores, el ventilador posee una certificación IP44 que muestra su gran protección por lo que se puede hacer uso del ventilador tanto en el interior como en el exterior.
 - Gran potencia de 40 W, con motor DC de alto rendimiento que aumenta el caudal de aire y la sensación de frescor, con la máxima fiabilidad y durabilidad. Su motor DC de corriente directa mejora el funcionamiento del ventilador por lo que aumenta su eficiencia y genera un menor consumo eléctrico. Además, trabaja de manera silenciosa. El ventilador integra una lámpara LED con 18 W que lo convierte en un práctico equipo híbrido.
 - Diámetro de 52 pulgadas (132 cm) que aumenta la cobertura de aire fresco en la estancia. Sistema formado por 3 aspas totalmente innovadoras y aerodinámicas. El ventilador dispone de un sistema de inversión de giro del motor para realizar la función verano/invierno. Mediante un conmutador se selecciona el sentido de rotación de las aspas, en un sentido en verano y en sentido contrario en invierno para impulsar el aire caliente concentrado en el techo hacia el suelo.
+- Perfecto para su uso en exteriores, el ventilador posee una certificación IP44 que muestra su gran protección por lo que se puede hacer uso del ventilador tanto en el interior como en el exterior.
+- Podrás elegir entre 6 velocidades de funcionamiento, adecuando la intensidad del caudal de aire a tus necesidades. Su temporizador permite seleccionar 1, 2, 4 u 8 horas de funcionamiento, tras el cual el ventilador se apagará.
+- Su control por Wi-Fi mediante un Smartphone permite seleccionar las distintas configuraciones de funcionamiento del ventilador y controlarlo de manera remota. Además, incluye un mando a distancia el cual hace aún más cómodo y sencillo el control del ventilador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPZ1LPRJ{{</world>}}

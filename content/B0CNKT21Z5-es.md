@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de marca original.
-- SM-A155FZBDEUE
 - Dos años contra defectos de fabricación.
+- SM-A155FZBDEUE
 - 8806095368726
+- Producto de marca original.
 - - Red 3G: HSDPA 850/900/2100
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

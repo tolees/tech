@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Componente informático
-- Pieza de recambio
 - Modelo y marca: GIGABYTE RTX 4060 OC
+- Pieza de recambio
+- Componente informático
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8ZRMDC3{{</world>}}

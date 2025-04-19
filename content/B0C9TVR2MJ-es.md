@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capacidad: 256GB
 - Color: negro
 - Teléfono móvil marca ASUS
-- Capacidad: 256GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9TVR2MJ{{</world>}}

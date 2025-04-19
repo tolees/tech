@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones cortos sostenibles
 - Tira de botones
+- Pantalones cortos sostenibles
 - suelto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

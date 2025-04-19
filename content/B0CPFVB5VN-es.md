@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RESISTENCIA AL AGUA CON IPX4: No pasa nada si el agua te salpica, o si te caen gotas . Los auriculares de botón de diseño abierto Bose Ultra pueden soportarlo. La malla acústica protege de la humedad y la suciedad, para que puedas seguir escuchando
-- PULSA, REPRODUCE, DISFRUTA: Los sencillos botones de control de estos auriculares de botón con micrófono te permiten cambiar entre los modos estéreo e inmersivo al instante; solo tienes que pulsarlos para escuchar música o responder llamadas.
-- FORMA PARTE DE LA MÚSICA, EN CUALQUIER LUGAR — EN TODO LUGAR: Estos auriculares con Bluetooth y audio inmersivo espacial Bose, son tan cómodos como modernos, y te acercan tanto a tu música que sentirás que la estás viviendo, no solo escuchándola.
-- REPRODUCE PERFECTAMENTE CON OTROS PRODUCTOS DE BOSE: La tecnología SimpleSync de Bose permite emparejar tus auriculares inalámbricos con altavoces y barras de sonido inteligente Bose; una experiencia de escucha de televisión personal con control.
 - ESCUCHA CADA TONO: Batería de larga duración: autonomía de hasta 7,5 horas de reproducción (hasta 4,5 horas con audio inmersivo)*, hasta 48 horas de reposo***, y hasta 19,5 horas más con el estuche de carga incluido.
+- PULSA, REPRODUCE, DISFRUTA: Los sencillos botones de control de estos auriculares de botón con micrófono te permiten cambiar entre los modos estéreo e inmersivo al instante; solo tienes que pulsarlos para escuchar música o responder llamadas.
+- RESISTENCIA AL AGUA CON IPX4: No pasa nada si el agua te salpica, o si te caen gotas . Los auriculares de botón de diseño abierto Bose Ultra pueden soportarlo. La malla acústica protege de la humedad y la suciedad, para que puedas seguir escuchando
+- REPRODUCE PERFECTAMENTE CON OTROS PRODUCTOS DE BOSE: La tecnología SimpleSync de Bose permite emparejar tus auriculares inalámbricos con altavoces y barras de sonido inteligente Bose; una experiencia de escucha de televisión personal con control.
 - ABRE TUS OÍDOS AL MUNDO. Escucha tu entorno al tiempo que disfrutas de un sonido intenso y privado con estos auriculares inalámbricos de diseño abierto con tecnología OpenAudio, que garantiza una experiencia de sonido de alta calidad.
+- FORMA PARTE DE LA MÚSICA, EN CUALQUIER LUGAR — EN TODO LUGAR: Estos auriculares con Bluetooth y audio inmersivo espacial Bose, son tan cómodos como modernos, y te acercan tanto a tu música que sentirás que la estás viviendo, no solo escuchándola.
 - SIEMPRE EN SU SITIO, SIEMPRE CÓMODOS: Los cómodos auriculares de botón de diseño abierto Bose Ultra cuentan con una junta flexible y un agarre ligero como el aire en la parte trasera de la oreja, así seguirás en contacto con el mundo que te rodea.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incorpora los nuevos procesadores AMD Ryzen, la RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 1TB NVMe de con doble ranura. Asi mismo usa la nueva Gráfica AMD Radeon Graphics para un flujo de trabajo eficiente.
-- La pantalla con tratamiento antirreflejos de 40,6cm (16") en formato 16:10 con panel IPS WUXGA (1920X1200), que mejora el rango de color hasta un 45% del NTSC te asegura alta definicion, colores mas reales y un tamaño ideal para trabajar tanto en cualquier lugar de forma comoda.
 - Crea con los nuevos LG Ultra de 16" con procesadores AMD Ryzen, su pantalla de alta resolucion en nuestros nuevos chasis ligeros de aluminio.
 - Resistente chasis de aluminio que incorpora una hasta 6 puertos de conexion en tan solo 16,3mm de grosor (2 x USB 3.2, 1 x USB Tipo C, 1 x HDMI, entrada de auriculares y ranura para tarjetas UFS/Micro-SD 3.0).
+- La pantalla con tratamiento antirreflejos de 40,6cm (16") en formato 16:10 con panel IPS WUXGA (1920X1200), que mejora el rango de color hasta un 45% del NTSC te asegura alta definicion, colores mas reales y un tamaño ideal para trabajar tanto en cualquier lugar de forma comoda.
 - Las baterias LG de de Ión-Litio y alta densidad de 72Wh (9360mAh) permite trabajar sin enchufes hasta 20h de con un solo ciclo de carga.
+- Incorpora los nuevos procesadores AMD Ryzen, la RAM ultrarrápida LPDDR4x de 16GB integrada en placa y disco duro SSD de 1TB NVMe de con doble ranura. Asi mismo usa la nueva Gráfica AMD Radeon Graphics para un flujo de trabajo eficiente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5DZ77HN{{</world>}}

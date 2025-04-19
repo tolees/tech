@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla táctil a color de 8,8 cm
+- Imprime hasta 26 páginas por minuto
 - Alimentador automático de documentos de 50 hojas
 - Bandeja de entrada de 250 hojas
 - Conexión de red Gigabit Ethernet, WiFi 5GHz y USB
-- Pantalla táctil a color de 8,8 cm
-- Imprime hasta 26 páginas por minuto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJJWC4FT{{</world>}}

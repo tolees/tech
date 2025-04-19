@@ -30,11 +30,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Memoria RAM de 16GB LPDDR4x, 4266MHz
 - Procesador intel Core i5-11320H, Smart Cache Size 8MB, 3.2GHz con Turbo Boost Upto 4.5 GHz（4 cores)
-- Ultraligero, ultraportátil, con un peso de 1,37 kg y un grosor de 14,9 mm
-- Almacenamiento de 512GB SSD NVMe
-- Gráficos Iris Xe de nueva generación
-- Sistema operativo Windows 11
 - Pantalla de 14" Full Vision 2K (2560 x1440) y gama de colores sRGB al 100 %
+- Almacenamiento de 512GB SSD NVMe
+- Sistema operativo Windows 11
+- Ultraligero, ultraportátil, con un peso de 1,37 kg y un grosor de 14,9 mm
+- Gráficos Iris Xe de nueva generación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QM728WT{{</world>}}

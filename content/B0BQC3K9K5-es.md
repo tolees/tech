@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El kit contiene impresora instax mini Link 2 edición especial, manual de usuario, pack de pegatinas de personajes y funda de silicona de Splatoon 3
 - A través de la App LINK para Nintendo Switch, podrás imprimir desde tu consola
-- Imprime tu personaje favorito o añade marcos temáticos a tus propias fotos
 - Impresora portátil que te permite hacer fotos instax desde tu smartphone
+- El kit contiene impresora instax mini Link 2 edición especial, manual de usuario, pack de pegatinas de personajes y funda de silicona de Splatoon 3
+- Imprime tu personaje favorito o añade marcos temáticos a tus propias fotos
 - Esta impresora necesita película instax mini que se vende por separado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 14,62 x 11,13 x 11,54 centímetros
 - ¡Si eres un apasionado de la informática y la electrónica , te gusta estar a la última en tecnología y no perderte detalle!
-- Color: multicolor
-- Smartphone de la marca Apple
 - Referencia: S8102530
+- Smartphone de la marca Apple
+- Color: multicolor
+- Medidas: 14,62 x 11,13 x 11,54 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3VWSGVP{{</world>}}

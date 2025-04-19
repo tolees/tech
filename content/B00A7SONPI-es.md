@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disco duro. Tamaño: 88,9 mm (3,5 pulgadas)
-- Descripción del producto: Toshiba - DT01ACA300
-- Velocidad de rotación del HDD: 7200 RPM
 - Tipo de producto: Unidad de disco duro interna
+- Velocidad de rotación del HDD: 7200 RPM
+- Descripción del producto: Toshiba - DT01ACA300
+- Disco duro. Tamaño: 88,9 mm (3,5 pulgadas)
 - Capacidad del HDD: 3 TB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

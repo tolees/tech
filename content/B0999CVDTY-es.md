@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Presión arterial y ECG
 - Clásico y Premium
+- Presión arterial y ECG
 - Seguimiento de la actividad diaria y el entrenamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

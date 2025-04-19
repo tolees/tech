@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica AMD Radeon Graphics
+- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD w/o DRAM
 - Memoria RAM de 8GB Onboard DDR IV (3200MHz)
 - Procesador Ryzen 5 7530U
 - Tarjeta gráfica AMD Radeon Graphics
 - Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
-- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD w/o DRAM
+- Tarjeta gráfica AMD Radeon Graphics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XTQWY5D{{</world>}}

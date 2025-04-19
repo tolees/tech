@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manejo sencillo: Control de todas las funciones mediante app móvil, Control simultáneo de varios tractores con una app, Funciona con pilas 3 x AAA (no incl.)
 - Numerosas funciones: Cargador frontal operativo, Motor de tracción y 4 servomotores, Varias velocidades, Enganche de remolque ajustable, 14 luces LED, Accesorios intercambiables
 - Construcción duradera: Construcción de horquilla y estructura principalmente de metal, Neumáticos de caucho suave, Apto para baldosa, parqué o moqueta, Apagado automático para mayor seguridad
-- Manejo sencillo: Control de todas las funciones mediante app móvil, Control simultáneo de varios tractores con una app, Funciona con pilas 3 x AAA (no incl.)
 - Contenido: 1x siku 6793 Tractor Fendt 933 Vario, Accesorios y complementos, Metal/Plástico, Escala: 1:32, 24,5x9x12,1 cm, 0,57 kg, Mando/pilas no incl., Verde, Serie: SIKU CONTROL
 - Detallado tractor teledirigido Fendt, Juego creativo para grandes y pequeños, Control con app móvil vía bluetooth
 

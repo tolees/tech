@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crea automatizaciones y escenas y programa el encendido/apagado de los aparatos conectados a tu enchufe en función de la hora, el clima, un temporizador, una cuenta atrás
-- Con medidor de consumo diario, mensual y anual, que te permite monitorizar energía en tu hogar
-- Compatible solo con WiFi 2.4 GHz (no funciona con red de 5 GHz)
-- Puedes controlar las dos tomas de forma individual; los dos USBs se controlan de forma conjunta
-- Control por voz compatible con Alexa y Google Assistant
-- Protección de sobrecarga, sobrevoltaje y sobretensión y protección infantil
-- Enchufe Wifi doble inteligente Garza para interior, con 2 tomas y 2 puertos USB, que permite controlar los dispositivos de tu casa de forma eficiente
-- Configuración sencilla mediante WiFi, sin necesidad de pasarela o hub; tamaño: ‎‎135 x 64 x 40 mm
 - Potencia máxima admitida: 2300 W; amperaje máximo admitido: 10 A; potencia USBs: 5 V máx. total 2.4 A
+- Puedes controlar las dos tomas de forma individual; los dos USBs se controlan de forma conjunta
+- Enchufe Wifi doble inteligente Garza para interior, con 2 tomas y 2 puertos USB, que permite controlar los dispositivos de tu casa de forma eficiente
+- Crea automatizaciones y escenas y programa el encendido/apagado de los aparatos conectados a tu enchufe en función de la hora, el clima, un temporizador, una cuenta atrás
+- Control por voz compatible con Alexa y Google Assistant
+- Compatible solo con WiFi 2.4 GHz (no funciona con red de 5 GHz)
+- Protección de sobrecarga, sobrevoltaje y sobretensión y protección infantil
+- Configuración sencilla mediante WiFi, sin necesidad de pasarela o hub; tamaño: ‎‎135 x 64 x 40 mm
+- Con medidor de consumo diario, mensual y anual, que te permite monitorizar energía en tu hogar
 - Controla los aparatos conectados a tu enchufe inteligente de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
 
 [🛒 Comprar!!!]({{< param buyurl >}})

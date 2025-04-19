@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidades de hasta 2 TB
-- Óptimo para portátiles y equipos de pequeño factor de forma
 - Rendimiento de NVMe PCIe Gen 4x4
+- Óptimo para portátiles y equipos de pequeño factor de forma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBWH7DBT{{</world>}}

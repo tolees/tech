@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ACTIVADOR RÁPIDO: elimina la latencia derivada del movimiento físico del interruptor al activar y desactivar dinámicamente las teclas en función de la distancia recorrida, en lugar de en un punto fijo del recorrido de la tecla.
+- Compatibilidad: sistema operativo Windows, Mac OS X, Xbox y PlayStation, se requiere un puerto USB; software: SteelSeries Engine 3.15+ (próximamente) para Windows (7 o posterior) y Mac OSX (10.11 o posterior)
 - El teclado más rápido del mundo: accionamiento 20 veces más rápido, respuesta 11 veces más rápida que los teclados mecánicos tradicionales
 - TECLAS DE ACCIÓN 2 EN 1: programa dos acciones en una sola tecla, como caminar con un ligero toque y correr con una pulsación profunda.
 - TOTALMENTE PERSONALIZABLE E INCREÍBLEMENTE RÁPIDO con los interruptores hipermagnéticos ajustables OmniPoint 2.0
-- ACTIVADOR RÁPIDO: elimina la latencia derivada del movimiento físico del interruptor al activar y desactivar dinámicamente las teclas en función de la distancia recorrida, en lugar de en un punto fijo del recorrido de la tecla.
 - Formato TKL preparado para los deportes electrónicos. Funcionalidad de tamaño completo. Placa superior de aluminio de primera calidad. USB-C desmontable.
 - CONTROL TOTAL 40 niveles de activación de botones (0,1 a 4,0 mm): configura el WASD para movimientos ligeros y ultrarrápidos y las teclas de habilidad para presiones profundas para no activar funciones especiales por casualidad
-- Compatibilidad: sistema operativo Windows, Mac OS X, Xbox y PlayStation, se requiere un puerto USB; software: SteelSeries Engine 3.15+ (próximamente) para Windows (7 o posterior) y Mac OSX (10.11 o posterior)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFFT9P27{{</world>}}

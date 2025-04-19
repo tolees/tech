@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Color negro
 - Disposicion de botones y sticks simetricos (al igual que Playstation 4)
-- Diseño ergonomico
 - Conexión por cable USB
 - Compatibilidad con PS4 y PC con Windows
+- Diseño ergonomico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JDQYCRS{{</world>}}

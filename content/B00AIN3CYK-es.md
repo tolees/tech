@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Perfiles soportados: A2DP, AVRCP
-- No necesita pilas ni baterías
-- Área de recepción de 10 m
-- Formato Bluetooth 2.0
 - Transmisión de sonido vía Bluetooth
+- Área de recepción de 10 m
+- No necesita pilas ni baterías
 - Cambia cada docking al aparato inalámbrico
+- Formato Bluetooth 2.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AIN3CYK{{</world>}}

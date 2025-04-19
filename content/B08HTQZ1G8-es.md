@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los puertos USB-C y micro-HDMI permiten conectarlo a smartphones, portátiles, consolas de juegos y cámaras
 - Incluye una funda plegable que permite sostenerlo vertical y horizontalmente
 - Detecta su orientación y cambia automáticamente entre los modos apaisado y vertical
+- Los puertos USB-C y micro-HDMI permiten conectarlo a smartphones, portátiles, consolas de juegos y cámaras
 - Con un peso de solo 860 g y 9 mm de grosor, te ayuda a ser más productivo mientras te encuentras fuera
 - Asus MB16AH, monitor portátil de 15.6" FullHD (1920x1080) con funda plegable
 

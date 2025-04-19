@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - - Paisajes y ruinas inquietantemente hermosos.
-- - Mazmorras generadas de forma procedural
 - - Impresionante estilo pixel art
 - - Sistema de batalla de tiempo reactivo de ritmo rápido
 - - Épica banda sonora y ecelente diseño de sonido
+- - Mazmorras generadas de forma procedural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095J6PVCM{{</world>}}

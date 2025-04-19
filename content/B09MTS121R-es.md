@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección de movimiento
 - Llamadas de audio bidireccional
 - Visión nocturna con infrarrojos
 - Calidad de imagen 2K ultranítida
 - Compatible con Android 6.0 e iOS 11.0 o versiones posteriores
+- Detección de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MTS121R{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 SSD Slot
-- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Pantalla 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB
+- Procesador Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)
 - Memoria RAM 8GB Soldered DDR4-3200
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe + Empty M.2 2280 PCIe 3.0x2 SSD Slot
 - Tarjeta gráfica Integrated Intel Iris Xe Graphics functions as UHD Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

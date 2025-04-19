@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2 años de garantía del fabricante
+- MOTO EDGE 30 NEO 8128 SILVER
 - Alta calidad
 - Descripción de la cámara: Frontal
 - Smartphone marca Motorola, color plata
-- MOTO EDGE 30 NEO 8128 SILVER
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BD45HDTW{{</world>}}

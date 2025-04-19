@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla táctil de 6,8 cm
-- Velocidad de impresión de 28ppm mono/color (ISO/IEC 24734)
 - Impresión 1a página inferior a 5 segundos (ISO 17629)
 - Impresión automática a 2 caras en A4
+- Pantalla táctil de 6,8 cm
 - Conectividad por cable e inalámbrica; compatible con dispositivos móviles – descargar aplicación: Brother Mobile Connect
+- Velocidad de impresión de 28ppm mono/color (ISO/IEC 24734)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TKY57Y4{{</world>}}

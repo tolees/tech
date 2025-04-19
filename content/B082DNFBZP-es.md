@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apple iPhone 11 128GB Negro (Reacondicionado)
 - Touch ID para autenticación segura y Apple Pay
+- Apple iPhone 11 128GB Negro (Reacondicionado)
 - Cámara frontal TrueDepth de 12 megapíxeles con modo retrato, video 4K y cámara lenta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

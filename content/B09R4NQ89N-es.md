@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máximo rendimiento AX: Hasta 5400 Mbps de velocidad con Wi-Fi 6 (802.11ax) y canales de 160 MHz
 - Protege tu privacidad con un solo toque: Instant Guard permite configurar una conexión segura con un solo clic y de forma gratuita
 - Control desde la aplicación móvil: La intuitiva interfaz permite ajustar fácilmente la red y configurarla en solo 3 pasos
+- Máximo rendimiento AX: Hasta 5400 Mbps de velocidad con Wi-Fi 6 (802.11ax) y canales de 160 MHz
 - Seguridad de red profesional: ASUS AiProtection Pro con Trend Micro gratuito de por vida con WPA3 y controles parentales para proteger tu hogar
 - Compatible con ASUS AiMesh: Crea una versátil red de malla utilizando otros modelos AiMesh
 

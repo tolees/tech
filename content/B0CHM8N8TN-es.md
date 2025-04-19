@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - SSD NVMe PCIe M.2 de 256 GB
 - Procesador Intel Core i3-1215U de 12.ª generación (10 MB de caché, 6 núcleos, 8 subprocesos, hasta 4,40 GHz Turbo)
-- Sistema Operativo: Windows 11
 - Memoria DDR4 de 8 GB, 1 de 8 GB a 2666 MHz
 - 15,6", FHD 1920 x 1080, 120 Hz, WVA, no táctil, antirreflejo, 250 nit, borde estrecho, retroiluminación LED
+- Sistema Operativo: Windows 11
 - Tarjeta gráfica Intel UHD
 
 [🛒 Aquí!!!]({{< param buyurl >}})

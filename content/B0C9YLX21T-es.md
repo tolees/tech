@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía limitada de 3 años
-- Carcasa resistente a la lluvia y al polvo (IP54) con una resistencia al aplastamiento de 1000 libras. Hasta 6 TB* de almacenamiento fiable y copia de seguridad de fotos, videos y archivos críticos
-- Construido resistente con un parachoques de fácil agarre para una durabilidad profesional en la que puedes confiar. Resistencia a los golpes de triple capa*** para mayor protección
-- Tasas de transferencia de hasta 130 MB/s de lectura**. Carcasa de aluminio anodizado de alta calidad para mayor resistencia que puedes sentir
 - Unidad USB-C (5 Gbps) para una copia de seguridad y almacenamiento rápidos de archivos. Compatible con USB 3.0 y Thunderbolt 3
+- Garantía limitada de 3 años
+- Construido resistente con un parachoques de fácil agarre para una durabilidad profesional en la que puedes confiar. Resistencia a los golpes de triple capa*** para mayor protección
+- Carcasa resistente a la lluvia y al polvo (IP54) con una resistencia al aplastamiento de 1000 libras. Hasta 6 TB* de almacenamiento fiable y copia de seguridad de fotos, videos y archivos críticos
+- Tasas de transferencia de hasta 130 MB/s de lectura**. Carcasa de aluminio anodizado de alta calidad para mayor resistencia que puedes sentir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9YLX21T{{</world>}}

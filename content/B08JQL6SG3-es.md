@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado Gioseppo
 - Moda y Confort
+- Calzado Gioseppo
 - Colección Primavera - Verano 2141
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Botón dpi para ajustar la sensibilidad sobre la marcha
-- Construcción ligera y diseño ambidiestro diseñado junto a gamers profesionales para optimizar su rendimiento en juegos
-- Iluminación asus aura rgb y compatibilidad con el ecosistema aura sync
-- Sensor óptico de 6200 ppp y un interruptor dpi con cuatro niveles de sensibilidad
 - Interruptores pivotantes con una respuesta más rápida, precisa y satisfactoria
 - Interruptores desmontables para personalizar fácilmente la resistencia al clic y extender la vida útil del ratón
+- Construcción ligera y diseño ambidiestro diseñado junto a gamers profesionales para optimizar su rendimiento en juegos
+- Sensor óptico de 6200 ppp y un interruptor dpi con cuatro niveles de sensibilidad
 - Deslizamiento rápido y suave con un cable liviano de goma suave
+- Iluminación asus aura rgb y compatibilidad con el ecosistema aura sync
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082J9PT7P{{</world>}}

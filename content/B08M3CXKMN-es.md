@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo; óptimo como sistema de seguridad para casa, bebés, ancianos, mascota
-- Guarda y visualiza las fotos y grabaciones de video en la aplicación de tu dispositivo o bien en una tarjeta MicroSD de máx. 64Gb (No incluida)
 - Cámara de seguridad Wifi interior para el hogar; con alta definición 1080p HD y ángulo de visión de 80 º, con hasta 4 aumentos (Zoom x4)
 - Configuración e instalación sencilla; cuenta con un soporte, cable de alimentación y tornillos para colocar en pared o techo (con opción de volteo de imagen)
-- Compatible solo con Wifi 2.4 GHz (No funciona con red de 5GHz)
-- Visión nocturna que permite detectar en la oscuridad a una distancia de hasta 5 metros
 - Con detector de movimiento PIR (sensibilidad ajustable); recibe notificaciones al instante con imagen en tu dispositivo cuando la cámara detecte un movimiento; función de programación de horario para los avisos de movimiento
+- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo; óptimo como sistema de seguridad para casa, bebés, ancianos, mascota
+- Visión nocturna que permite detectar en la oscuridad a una distancia de hasta 5 metros
 - Desliza hasta la sección de "Guías y documentos de productos" y podrás ver el manual de instalación y dato técnicos del producto, así como la información de atención al cliente en formato PDF
+- Compatible solo con Wifi 2.4 GHz (No funciona con red de 5GHz)
+- Guarda y visualiza las fotos y grabaciones de video en la aplicación de tu dispositivo o bien en una tarjeta MicroSD de máx. 64Gb (No incluida)
 - Puede ser controlada a través de las apps Garza Smart, Tuya Smart y Smart Life, desde tu dispositivo móvil o tablet gracias al control remoto; aplicaciones disponibles en Google Play y Apple Store; controla la cámara desde varios dispositivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

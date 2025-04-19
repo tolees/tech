@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección total: agua, temperatura, rayos X, campos magnéticos, caídas y desgaste
-- Grabación y reproducción fluida de videos FullHD, certificación V10 (only for MB-ME64KA)
-- Velocidad de transferencia de hasta 130 MB/s
 - Grabación y reproducción fluida de videos 4K (UHD), certificación V30
-- Las aplicaciones de tu Smartphone se cargan más rápido gracias a la certificación A1 (only for MB-ME64KA)
-- Para tu smartphone, tablet Android, drone, ordenador portatil, cámara de fotos o acción y más (adaptador SD incluido)
 - Las aplicaciones de tu Smartphone se cargan más rápido gracias a la certificación A2
+- Las aplicaciones de tu Smartphone se cargan más rápido gracias a la certificación A1 (only for MB-ME64KA)
+- Protección total: agua, temperatura, rayos X, campos magnéticos, caídas y desgaste
+- Para tu smartphone, tablet Android, drone, ordenador portatil, cámara de fotos o acción y más (adaptador SD incluido)
+- Velocidad de transferencia de hasta 130 MB/s
+- Grabación y reproducción fluida de videos FullHD, certificación V10 (only for MB-ME64KA)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09D3LP52K{{</world>}}

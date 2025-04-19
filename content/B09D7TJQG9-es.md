@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - RATÓN | Tecnología inalámbrica LIGHTSPEED: Los profesionales de esports confían en que el ecosistema de tecnologías inalámbricas USB LIGHTSPEED de los ratones Logitech para gaming les proporcionará un juego profesional, ultrarrápido y fiable
 - TECLADO | Los interruptores mecánicos de perfil bajo ofrecen la velocidad, precisión y rendimiento de un interruptor mecánico con la mitad de altura; el interruptor GL táctil produce una clara protuberancia en el punto de actuación
 - RATÓN | Sensor HERO 25K: El sensor HERO ofrece un excelente seguimiento de hasta 25600 DPI y rendimiento con precisión de píxel sin suavizado, aceleración ni filtros
+- TECLADO | La tecnología inalámbrica LIGHTSPEED ofrece un rendimiento profesional con flexibilidad y sin ataduras de cables; crea una estética despejada para tus puestos de combate; hasta 40 horas de uso con una sola carga completa
 - RATÓN | Once botones y botón rueda con desplazamiento superrápido: Los botones principales tienen tensión de resorte metálico para una actuación rápida y precisa; personaliza enlaces de teclas y macros para cada juego y aplicación
 - TECLADO | La tecnología LIGHTSYNC proporciona iluminación RGB que sincroniza la iluminación con cualquier contenido; personaliza cada tecla o crea animaciones personalizadas a partir de ~16.8 millones de colores con el software Logitech G HUB
-- TECLADO | La tecnología inalámbrica LIGHTSPEED ofrece un rendimiento profesional con flexibilidad y sin ataduras de cables; crea una estética despejada para tus puestos de combate; hasta 40 horas de uso con una sola carga completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09D7TJQG9{{</world>}}

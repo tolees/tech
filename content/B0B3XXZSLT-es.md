@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- realme
 - narzo 50i Prime 4+64 Mint Green EU
 - Descripción de la cámara: Frontal
+- realme
 - narzo 50i Prime 4+64 Mint Green EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})

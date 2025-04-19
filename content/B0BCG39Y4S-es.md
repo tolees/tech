@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste de inclinación y altura
-- Relación de aspecto 16:9 y relación de contraste 3500:1
-- Nota: Cuando utilice un brazo flexible, no incline el monitor más de 5 grados hacia abajo y conecte el cable de alimentación al monitor y, a continuación, conecte el monitor y el cable de alimentación del ordenador a tomas de corriente con conexión a tierra y este equipo debe utilizar un cable de alimentación certificado. Deben respetarse las normas nacionales de instalación y/o las reglamentaciones sobre equipos. Se debe utilizar un cable de alimentación certificado que no sea más ligero que un cable de cloruro de polivinilo flexible normal de acuerdo con la norma IEC 60227 (designación H05VV-F3G 0,75 mm2 o H05VVH2-F2 3G 0,75 mm2).
-- AMD Radeon FreeSync Premium: La tecnología AMD Radeon FreeSync Premium permite la visualización fluida y constante de imágenes de juegos de calidad
-- EyeSafe y Tecnología Eye Comfort para la protección de los ojos contra la luz azul
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
-- Tiempo de respuesta de 0.5ms (MPRT) y frecuencia de actualización de 170 Hz
 - Puertos: 2x HDMI 2.0, 1x DP 1.4
-- Pantalla curva (1500R) de 31.5" con resolución 31.5" 2K QHD (2560x1440 pixeles), 350 nits, panel VA, con una una precisión del color sRGB al 99%, antirreflejos
 - Cable DP incluido en la caja // Soporte VESA para montar la pantalla en la pared
+- Nota: Cuando utilice un brazo flexible, no incline el monitor más de 5 grados hacia abajo y conecte el cable de alimentación al monitor y, a continuación, conecte el monitor y el cable de alimentación del ordenador a tomas de corriente con conexión a tierra y este equipo debe utilizar un cable de alimentación certificado. Deben respetarse las normas nacionales de instalación y/o las reglamentaciones sobre equipos. Se debe utilizar un cable de alimentación certificado que no sea más ligero que un cable de cloruro de polivinilo flexible normal de acuerdo con la norma IEC 60227 (designación H05VV-F3G 0,75 mm2 o H05VVH2-F2 3G 0,75 mm2).
+- Ajuste de inclinación y altura
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
+- Pantalla curva (1500R) de 31.5" con resolución 31.5" 2K QHD (2560x1440 pixeles), 350 nits, panel VA, con una una precisión del color sRGB al 99%, antirreflejos
+- EyeSafe y Tecnología Eye Comfort para la protección de los ojos contra la luz azul
+- Tiempo de respuesta de 0.5ms (MPRT) y frecuencia de actualización de 170 Hz
+- AMD Radeon FreeSync Premium: La tecnología AMD Radeon FreeSync Premium permite la visualización fluida y constante de imágenes de juegos de calidad
+- Relación de aspecto 16:9 y relación de contraste 3500:1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BCG39Y4S{{</world>}}

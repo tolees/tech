@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Memoria RAM de 4GB DDR4 SDRAM
+- Sistema Operativo: Windows 10 Pro
 - Almacenamiento de 256GB SSD PCI Express
 - Pantalla de 15.6", HD 1366 x 768 pixeles
 - Tarjeta gráfica ‎Intel UHD Graphics
-- Sistema Operativo: Windows 10 Pro
-- Memoria RAM de 4GB DDR4 SDRAM
 - Procesador Intel Core i3-10110U (2C/Dualcore 2.10GHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

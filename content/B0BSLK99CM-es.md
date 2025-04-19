@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diseño ultradelgado y moderno; su forma delgada y sus biseles estrechos han sido diseñados para impresionar con la cuidadosa atención de cada detalle
 - Pantalla HD+ de 6,5" y 90 Hz; ve fotos y sitios web en una pantalla ancha con una frecuencia de actualización rápida para una experiencia fluida
-- Sistema de cámara Quad Pixel de 50 MP; captura fotos nítidas con poca luz, retratos y primeros planos detallados
 - Óptima duración de la batería; deja atrás tus preocupaciones de carga con una batería de buena capacidad de 5000 mAh
+- Sistema de cámara Quad Pixel de 50 MP; captura fotos nítidas con poca luz, retratos y primeros planos detallados
 - Dolby Atmos y altavoces estéreo; sumérjete en un sonido multidimensional, escuchando con bajos mejorados, voces más limpias y más claridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

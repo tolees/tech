@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El AOC 24G2SPU tiene una tasa de refresco de 165 Hz, un MPRT de 1 ms y tecnología G-Sync que elimina el stuttering y el tearing
 - Su panel IPS de 23.8" con resolución Full HD ofrece imágenes con gran fidelidad cromática
 - G-SYNC hace que las tasas de refresco de la GPU y del monitor se sincronicen, por lo que la experiencia de juego es fluida, sin efecto tearing y con un input lag bajo
+- El AOC 24G2SPU tiene una tasa de refresco de 165 Hz, un MPRT de 1 ms y tecnología G-Sync que elimina el stuttering y el tearing
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T73DNXY{{</world>}}

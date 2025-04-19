@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hoja de peganitas
-- Trading Card
 - Esta edición incluye:
+- Trading Card
+- Hoja de peganitas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B83ZCBV2{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 17/9,5 ppm en monocromo y color comparable láser
+- Impresora, copiadora y escáner
+- Pantalla color de 4,5 cm con botones para un uso sencillo e intuitivo
+- Cartucho de tinta individuales XL para impresiones más económicas
 - Impresión automática a doble cara para reducir el consumo de papel
 - Bandeja de entrada de 150 hojas
-- Cartucho de tinta individuales XL para impresiones más económicas
+- 17/9,5 ppm en monocromo y color comparable láser
 - WiFi , WiFi Direct, conexión móvil y Cloud con la app Brother Mobile Connect
-- Pantalla color de 4,5 cm con botones para un uso sencillo e intuitivo
-- Impresora, copiadora y escáner
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09B26T8QP{{</world>}}

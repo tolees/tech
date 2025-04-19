@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tasa de refresco de 165 Hz
 - Ajustable en altura
+- Tasa de refresco de 165 Hz
 - Resolución QHD, bajo retraso de entrada y amplia gama de colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

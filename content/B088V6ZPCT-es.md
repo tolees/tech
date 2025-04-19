@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combo adaptador
-- Elemento de uso interno
 - Accesorio de red
+- Elemento de uso interno
+- Combo adaptador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088V6ZPCT{{</world>}}

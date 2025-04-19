@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD
-- Procesador Alder Lake i5-1235U
 - Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 - Memoria RAM de 8GB Onboard DDR IV (3200MHz)
+- Procesador Alder Lake i5-1235U
 - Tarjeta gráfica Iris Xe Graphics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

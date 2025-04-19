@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fácil configuración
-- Color Blanco
 - WiFi Dual banda - 2,4 GHz y 1300 Mbps a 5 GHz
-- Tres antenas externas
+- Color Blanco
 - Puerto gigabit ethernet
+- Tres antenas externas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B010RXXY48{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - redimi 10
 - redmi 10 2022
-- xiaomi redmi 2022
 - redmi
+- xiaomi redmi 2022
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZQG19RW{{</world>}}

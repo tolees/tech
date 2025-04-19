@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño con biseles delgados, agregando estilo
 - Cuenta con un conjunto de cámaras, con el sensor principal de hasta 108MP
+- Diseño con biseles delgados, agregando estilo
 - Se destaca con una batería de 5000 mAh y una capacidad de carga de 33 W
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Peso: 215.g
 - Ángulo de inclinación: agarre hacia arriba: 80 grados, hacia abajo: 90 grados; trípode hacia arriba: 40 grados, hacia abajo: 90 grados
 - Dimensiones (anchura x altura x profundidad): trípode aproximadamente 146.5 × 133.5 × 163.mm
-- Carga máxima: 1.5.kg
 - Dimensiones (anchura x altura x profundidad): agarre aproximadamente 49.5 × 173 × 42 mm
-- Peso: 215.g
+- Carga máxima: 1.5.kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083V2P3JG{{</world>}}

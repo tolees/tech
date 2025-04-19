@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Velocidad de impresión color: 4.0 pages_per_minute
-- Imágenes compatibles 800 x 600 píxeles y 320 ppp.
 - Velocidad de impresión blanco-nero: 4.0 pages_per_minute
+- Peso: 312.0 grams
+- Batería Recargable Fujifilm NP-45s Lithium (Li-Ion).
 - Una impresora portátil que te permite hacer fotos instax mini directamente desde tu smartphone. También te permite imprimir desde tus cuentas de instagram y Facebook y cámaras Fujifilm compatibles a través de la App.
 - Nuevo modo de impresión AR (Realidad Aumentada), que añade burbujas, pétalos, neón y mucho más a tus fotografías.
-- Batería Recargable Fujifilm NP-45s Lithium (Li-Ion).
-- Peso: 312.0 grams
+- Imágenes compatibles 800 x 600 píxeles y 320 ppp.
 - Utiliza película instax mini del tamaño de una tarjeta de crédito, no incluída en la impresora: tamaño foto 54 mm (ancho) x 86 mm (alto). Tamaño imagen 46 mm (ancho) x 62 mm (alto).
+- Velocidad de impresión color: 4.0 pages_per_minute
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1QT6GRC{{</world>}}

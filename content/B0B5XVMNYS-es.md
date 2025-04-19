@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Por primera vez, juega con Astérix y Obélix en cooperación local hasta 4 jugadores en la misma pantalla.
-- 6 nuevos mundos para explorar desde la Galia hasta Hibernia (Irlanda) en una historia original inspirada respetuosamente en el universo icónico de nuestros héroes galos.
-- Este juego tiene un alto valor de rejugabilidad debido a los desafíos de cada nivel que exigen habilidades para conseguir el éxito y las recompensas.
-- Te ofrecemos una nueva experiencia de juego al utilizar una amplia gama de objetos encontrados durante tu viaje, pero por supuesto, ¡puedes seguir agarrando romanos!
 - ¡Dispones de nuevos y elegantes combos y movimientos de finalización para vencerlos a todos!
+- Te ofrecemos una nueva experiencia de juego al utilizar una amplia gama de objetos encontrados durante tu viaje, pero por supuesto, ¡puedes seguir agarrando romanos!
+- Por primera vez, juega con Astérix y Obélix en cooperación local hasta 4 jugadores en la misma pantalla.
+- Este juego tiene un alto valor de rejugabilidad debido a los desafíos de cada nivel que exigen habilidades para conseguir el éxito y las recompensas.
+- 6 nuevos mundos para explorar desde la Galia hasta Hibernia (Irlanda) en una historia original inspirada respetuosamente en el universo icónico de nuestros héroes galos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5XVMNYS{{</world>}}

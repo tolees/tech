@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 8845HS (8C/OctaCore‎) 3,80 GHz
 - Almacenamiento de 1 TB SSD PCIe NVMe
-- Pantalla de 16", WUXGA IPS 1920 x 1080 pixeles, 165Hz
 - Tarjeta Gráfica NVIDIA GeForce RTX 4060, 8 GB GDDR6
+- Procesador AMD Ryzen 7 8845HS (8C/OctaCore‎) 3,80 GHz
+- Pantalla de 16", WUXGA IPS 1920 x 1080 pixeles, 165Hz
 - Memoria RAM de 16GB DDR5 SDRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
