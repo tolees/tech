@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporta vídeos de 8K y 4K/120 Hz y tiene conectividad HDMI 2.1 (6 entradas/2 salidas); además cuando conectas con BRAVIA XR tu televisor será parte de la experiencia con Acoustic Center Sync
 - Calibra con precisión el sonido para que se adapte de manera óptima a su entorno de vida con la avanzada tecnología Digital Cinema Auto Calibration IX
-- Disfruta de una calidad de imagen dinámica y realista con soporte para los principales formatos HDR, incluidos Dolby Vision, HDR, Hybrid Log Gamma e IMAX Enhanced
 - Escucha tus pistas favoritas o a través de Bluetooth, Wi-Fi, Chromecast integrado, Spotify Connect y Apple AirPlay 2; intégrelo con su sistema Sonos con la función Funciona con Sonos
 - Vive la escena como si estuvieras dentro gracias a nuestra tecnología 360 Spatial Sound Mapping; a su vez, disfrutarás una experiencia de audio inmersivo con Dolby Atmos y compatibilidad con DTS:X
+- Soporta vídeos de 8K y 4K/120 Hz y tiene conectividad HDMI 2.1 (6 entradas/2 salidas); además cuando conectas con BRAVIA XR tu televisor será parte de la experiencia con Acoustic Center Sync
+- Disfruta de una calidad de imagen dinámica y realista con soporte para los principales formatos HDR, incluidos Dolby Vision, HDR, Hybrid Log Gamma e IMAX Enhanced
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C37R3Q5K{{</world>}}

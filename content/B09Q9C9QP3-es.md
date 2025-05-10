@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Cámara cuádruple Al de 50MP para capturar cada detalle]: Redmi Note 11 está equipado con una configuración de cámara cuádruple Al de 50MP para capturar excelentes fotos y videos sin el esfuerzo adicional.Para colmo, el dispositivo también viene con un conjunto de funciones de software que incluyen Night Mode 2.0, Kaleidoscope y Vlog Mode, que son ideales para capturar instantáneas o videos de su vida cotidiana.
 - [Diseño elegante y moderno con un estilo refrescante]: el nuevo Redmi Note 11 presenta un diseño elegante y moderno a la vez que ofrece una textura suave y una gran sensación al tacto. Para garantizar un agarre cómodo en la mano, Redmi Note 11 incluye una gran batería de 5000 mAh dentro de un cuerpo liviano de 8,09 mm de grosor y 179 g.
 - [Desplazamiento inmersivo y suave con 90 Hz FHD+ AMOLED DotDisplay]: con una frecuencia de actualización de pantalla rápida y suave de 90 Hz y una frecuencia de muestreo táctil de hasta 180 Hz, Redmi Note 11 mejora la experiencia con animaciones más suaves y transiciones sin demoras, al mismo tiempo que registra de forma más precisa toques de dedos.
 - [Rendimiento de bajo consumo con Snapdragon 680 y carga rápida de 33 W Pro]: Mejorando su rendimiento, Redmi Note 11 está equipado con un procesador Snapdragon 680 integrado en el proceso de 6 nm de nivel insignia para ofrecer un rendimiento superior mientras conserva energía. Además, Redmi Note 11 lo carga con una batería de gran capacidad de 5000 mAh y una carga rápida Pro de 33 W que le permite cargar su batería de 0 a 100 % en aproximadamente una hora.
+- [Cámara cuádruple Al de 50MP para capturar cada detalle]: Redmi Note 11 está equipado con una configuración de cámara cuádruple Al de 50MP para capturar excelentes fotos y videos sin el esfuerzo adicional.Para colmo, el dispositivo también viene con un conjunto de funciones de software que incluyen Night Mode 2.0, Kaleidoscope y Vlog Mode, que son ideales para capturar instantáneas o videos de su vida cotidiana.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Q9C9QP3{{</world>}}

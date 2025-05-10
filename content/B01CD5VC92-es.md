@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Coprocesador gráfico Dual Core VideoCore IV
-- Dimensión de la pantalla 60 pulgadas
 - Tipo de procesador Core 2 Quad
+- Dimensión de la pantalla 60 pulgadas
+- Coprocesador gráfico Dual Core VideoCore IV
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CD5VC92{{</world>}}
