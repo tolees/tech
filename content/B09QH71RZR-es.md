@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 11S - Smartphone 6+128GB  Pantalla AMOLED 6.43" 90Hz FHD+  MediaTek Helio G96  cámara Profesional 108MP  5000mAh  Twilight Blue  2 años de garantía   Azul'
-date: 2025-05-16 20:12:55
-image: 'https://m.media-amazon.com/images/I/41DfmhZQvIL._SL500_._SL400_.jpg'
+date: 2025-05-24 13:57:14
+image: 'https://m.media-amazon.com/images/I/414ZMvMui2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09QH71RZR/?tag=tolees-21'
 descuento: '20.73'
-average: '153.874508196722'
+average: '153.441048387097'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Sistema de cámara cuádruple AI de 108MP】Con una cámara principal de 108MP, una cámara ultra gran angular de 8MP, una cámara macro de 2MP y una cámara de profundidad de 2MP, puede capturar esos hermosos momentos de la vida con las mejores imágenes.
 - 【Pantalla de alta frecuencia de actualización de 90 Hz】Disfrute de una experiencia de pantalla táctil receptiva. Junto con la suave sensación de deslizamiento en la punta de sus dedos, las características del software de pantalla AMOLED también ofrecen la mejor experiencia visual enérgica, inmersiva y llamativa.
-- 【Carga rápida profesional de 33 W con batería masiva de 5000 mAh】La carga rápida profesional de 33 W mejora efectivamente la eficiencia de carga, reduce el tiempo de carga en un 26 % y, con la tecnología Mi FC + MMT, también hace que el proceso de carga sea más estable y eficiente.
 - 【Disipación de calor multidimensional diseñada científicamente】Múltiples capas de disipación de calor para una refrigeración eficiente. Usando la tecnología LiquidCool: múltiples capas de grafito + lámina de cobre, las múltiples capas de grafito disipan el calor de la pantalla. Área de disipación de calor de 10005 m㎡, se enfría más y más rápido.
+- 【Carga rápida profesional de 33 W con batería masiva de 5000 mAh】La carga rápida profesional de 33 W mejora efectivamente la eficiencia de carga, reduce el tiempo de carga en un 26 % y, con la tecnología Mi FC + MMT, también hace que el proceso de carga sea más estable y eficiente.
 - 【Increíble MediaTek Helio G96 de ocho núcleos】 MediaTek Helio G96 habilita la increíble cámara de 108MP y una frecuencia de actualización de 90Hz suave como la mantequilla, lo que le brinda tomas nítidas y experiencias de juego poderosas.
+- 【Sistema de cámara cuádruple AI de 108MP】Con una cámara principal de 108MP, una cámara ultra gran angular de 8MP, una cámara macro de 2MP y una cámara de profundidad de 2MP, puede capturar esos hermosos momentos de la vida con las mejores imágenes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QH71RZR{{</world>}}

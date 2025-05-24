@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MEJOR TRANSMISIÓN DE LA LUZ: el PETG rápido tiene una buena transmisión de la luz, menos deformación y baja contracción en comparación con el pla. Cualquier pieza que requiera difusión de la luz es un uso ideal del PETG
-- MENOS ENREDOS Y BIEN ENROLLADO: bobinado mecánico completo y estricta inspección manual asegura que todos los filamentos de petg rápida son cuidadosamente herida, reduce eficazmente los enredos y problemas de chasquido. Utilícelo lo antes posible después de desembalarlo y séquelo completamente antes de volver a utilizarlo
-- BUENA RESISTENCIA Y FÁCIL DE USAR: el PETG combina las mejores características de ABS y PLA, es tan fácil de imprimir como pla, y tiene una resistencia similar en comparación con ABS. Duradero, flexible, muy resistente a los impactos e inodoro, ideal para imprimir artículos de primera necesidad
 - ADECUADO PARA IMPRESORAS DE ALTA VELOCIDAD: apto tanto para impresoras normales como para impresoras de alta velocidad, perfecto para la mayoría de impresoras de 1,75 mm como Neptune 4, Neptune 4 pro/plus/max, serie K1, Ender 3 V2, serie Kobra 2, M5, M5C y más
+- MEJOR TRANSMISIÓN DE LA LUZ: el PETG rápido tiene una buena transmisión de la luz, menos deformación y baja contracción en comparación con el pla. Cualquier pieza que requiera difusión de la luz es un uso ideal del PETG
+- BUENA RESISTENCIA Y FÁCIL DE USAR: el PETG combina las mejores características de ABS y PLA, es tan fácil de imprimir como pla, y tiene una resistencia similar en comparación con ABS. Duradero, flexible, muy resistente a los impactos e inodoro, ideal para imprimir artículos de primera necesidad
+- MENOS ENREDOS Y BIEN ENROLLADO: bobinado mecánico completo y estricta inspección manual asegura que todos los filamentos de petg rápida son cuidadosamente herida, reduce eficazmente los enredos y problemas de chasquido. Utilícelo lo antes posible después de desembalarlo y séquelo completamente antes de volver a utilizarlo
 - VELOCIDAD DE IMPRESIÓN DE 30-600MM/S: con una fluidez mejorada, el filamento PETG RÁPIDO de ELEGOO se funde rápidamente y fluye sin problemas, lo que permite una velocidad de impresión rápida de hasta 600mm/s. Puede completar los proyectos rápidamente sin comprometer la calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

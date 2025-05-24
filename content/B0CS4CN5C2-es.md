@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Configuración sencilla con botón WPS: Expande tu cobertura Wi-Fi en segundos simplemente presionando el botón WPS en tu router y en el ME60X
 - Puerto Gigabit Ethernet: Incluye un puerto Ethernet Gigabit para conexiones por cable rápidas y fiables, ideal para PCs, IPTV y consolas de juegos
 - Antenas externas de alta ganancia: Equipado con dos antenas ajustables que amplían la cobertura Wi-Fi, garantizando una señal fuerte incluso en áreas difíciles de alcanzar
+- Velocidades Wi-Fi 6 de hasta 1500 Mbps: Ofrece 1201 Mbps en la banda de 5 GHz y 300 Mbps en la de 2,4 GHz, proporcionando conexiones rápidas y estables para actividades intensivas en ancho de banda
 - Compatibilidad con EasyMesh: Funciona con dispositivos que soportan EasyMesh, permitiendo una red Wi-Fi en malla flexible y escalable en todo el hogar
 - Modo punto de acceso incorporado: Además de funcionar como extensor de rango, el ME60X puede actuar como un punto de acceso para crear una nueva red Wi-Fi
-- Velocidades Wi-Fi 6 de hasta 1500 Mbps: Ofrece 1201 Mbps en la banda de 5 GHz y 300 Mbps en la de 2,4 GHz, proporcionando conexiones rápidas y estables para actividades intensivas en ancho de banda
+- Configuración sencilla con botón WPS: Expande tu cobertura Wi-Fi en segundos simplemente presionando el botón WPS en tu router y en el ME60X
 - Control mediante la aplicación MERCUSYS: Administra tu red fácilmente desde dispositivos iOS o Android, permitiendo configuraciones rápidas y gestión remota
 
 [🛒 Visítala!!!]({{< param buyurl >}})
