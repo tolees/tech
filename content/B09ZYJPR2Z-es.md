@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Soporte Smartphone incluido
 - D-PAD o Entrada de XY AXIS, Facil personalización
 - Mando élite diseñado para la competición, Botones traseros y laterales configurables
-- Soporte Smartphone incluido
 - Compatible con PC, SWITCH, ANDROID, PS3, PS4 y IOS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
