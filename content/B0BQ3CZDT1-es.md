@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función de streaming de audio inalámbrica con Bluetooth v5.0
 - Altavoces activos RMS de dos vías RMS de 60 W (2 x 30 W) Carcasa de madera contrachapada para una reproducción de sonidosuperior
+- Función de streaming de audio inalámbrica con Bluetooth v5.0
 - Ecualizador con cinco ajustes predefinidos y ajuste personalizado degraves y agudos
 - Entrada Bluetooth, reproducción USB, óptica, auxiliar y RCA
 - Rejillas de altavoces extraíbles para un estilo contemporáneo Conexión por cable entre el altavoz izquierdo y el derecho Mando a distancia con funcionalidad total

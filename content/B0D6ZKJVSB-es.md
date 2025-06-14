@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 16GB
-- Almacenamiento de 512GB SSD
 - Tarjeta gráfica Intel Iris Xe Graphics
 - Sistema operativo Windows 11 Home
+- Almacenamiento de 512GB SSD
+- Memoria RAM de 16GB
 - Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Procesador Intel Core i5-1335U, 1.8 / 5.4 GHz, 12 MB Smart Cache
 
