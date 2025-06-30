@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevos y completos elementos ópticos multi-revestidos
 - protección de goma
+- Nuevos y completos elementos ópticos multi-revestidos
 - Ligero y compacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

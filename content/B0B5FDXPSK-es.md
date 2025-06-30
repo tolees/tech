@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Video 4K
 - 125 Minutos Grabacion
-- 209 Puntos Enfoque
 - 11 Fps
+- 209 Puntos Enfoque
 - Formato Dx
+- Video 4K
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5FDXPSK{{</world>}}

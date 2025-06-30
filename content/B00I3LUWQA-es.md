@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diafragmas de neodimio de 30 mm
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
-- Rango de frecuencia 10-24.000 Hz
 - Diseño plegable compacto
+- Diafragmas de neodimio de 30 mm
+- Rango de frecuencia 10-24.000 Hz
 - Cascos acolchados para una escucha cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
