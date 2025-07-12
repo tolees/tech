@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos bandejas de papel, una para papel A4 y otra para papel fotográfico
 - Impresión fotográfica de alta calidad, tintas Claria Photo HD para fotos duraderas de calidad superior
 - Soportes versátiles, impresión en una gama de soportes, incluidas tarjetas gruesas y CD/DVD
 - Flexible, conectividad WiFi e impresión móvil sencilla
+- Dos bandejas de papel, una para papel A4 y otra para papel fotográfico
 - Rápidos resultados, imprime una fotografía en solo 10 segundos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

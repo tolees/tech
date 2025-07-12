@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con infrarojo óptico para mayor precisión, scroller y botón para cambiar DPI; el ratón se apaga automáticamente al quedarse inactivo durante un tiempo y se enciende de nuevo haciendo clic
 - Divertido y original diseño ideal para regalo
 - Mr Wonderful Este pack incluye la alfombrilla y el ratón con diseño de piñas
-- Con infrarojo óptico para mayor precisión, scroller y botón para cambiar DPI; el ratón se apaga automáticamente al quedarse inactivo durante un tiempo y se enciende de nuevo haciendo clic
 - Mousepad con tejido antideslizante y adherente para escritorios de todo tipo
 - Ratón wireless con receptor usb; el receptor USB se guarda dentro del ratón para más practicidad; funciona con pilas AA (no incluidas)
 

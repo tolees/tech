@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi A3 4/128GB Azul Libre'
-date: 2025-07-08 17:46:54
+date: 2025-07-12 09:13:50
 image: 'https://m.media-amazon.com/images/I/416urKR+PeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0CWS1SL9F/?tag=tolees-21'
 descuento: '33.45'
-average: '82.3046153846154'
+average: '82.384'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teléfono celular
 - Requiere configuración
+- Teléfono celular
 - En color azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

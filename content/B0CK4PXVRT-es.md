@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Sistema operativo Windows 11 Home
 - Gráficos Integrados Intel UHD 730
+- Sistema operativo Windows 11 Home
+- Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

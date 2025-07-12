@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Procesador AMD Ryzen 5 5500U (6C/Hexacore 2.10GHz)
+- Memoria RAM de 8GB LPDDR4X
+- Almacenamiento de 512GB SSD PCI Express
 - Sistema Operativo: Windows 11 Home
 - Tarjeta gráfica‎ AMD Radeon Graphics
-- Memoria RAM de 8GB LPDDR4X
-- Procesador AMD Ryzen 5 5500U (6C/Hexacore 2.10GHz)
 - Pantalla de 14", FullHD 1920x1080 pixeles
-- Almacenamiento de 512GB SSD PCI Express
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JZW3KVX{{</world>}}

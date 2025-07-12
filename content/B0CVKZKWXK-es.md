@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 5500U (6C/HexaCore), 2,10 GHz
 - Sistema Operativo: Windows 11 Home
-- Memoria RAM de 8GB DDR4 SDRAM
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
+- Procesador AMD Ryzen 5500U (6C/HexaCore), 2,10 GHz
 - Almacenamiento de 512GB SSD PCIe NVMe
 - Tarjeta Gráfica AMD Radeon Graphics
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
+- Memoria RAM de 8GB DDR4 SDRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVKZKWXK{{</world>}}

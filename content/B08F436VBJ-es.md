@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato familiar nuevo
 - Conexión de auriculares estéreo de 3,5 mm
 - Con licencia oficial para Xbox
+- Formato familiar nuevo
 - Cable USB extraíble de 3 metros
 - Motores de doble vibración
 

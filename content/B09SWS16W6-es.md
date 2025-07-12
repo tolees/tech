@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su batería dura más tiempo: una sola carga por USB-C dura hasta seis semanas.
-- Ahora con hasta 16 GB de almacenamiento para guardar miles de libros: tiene el doble de espacio de almacenamiento que la generación anterior.
-- Encuentra nuevas historias: con Kindle Unlimited, disfruta de acceso ilimitado a millones de eBooks y una selección de revistas.
-- Lee cómodamente gracias a su pantalla sin reflejos similar al papel. Con luz frontal ajustable y modo oscuro para leer sin forzar los ojos tanto de día y como de noche.
-- Hemos integrado la sostenibilidad en su diseño. Este Kindle se ha fabricado con un 30-75 % de plástico reciclado y un 90 % de magnesio reciclado.
 - Sumérgete en la historia. No dejes que te distraigan mensajes, e-mails o notificaciones de redes sociales: disfruta de un dispositivo sin distracciones diseñado para la lectura.
 - Nuestro Kindle más compacto y ligero, ahora con una pantalla de alta resolución de 300 ppp para que disfrutes de imágenes y texto todavía más nítidos.
+- Su batería dura más tiempo: una sola carga por USB-C dura hasta seis semanas.
+- Hemos integrado la sostenibilidad en su diseño. Este Kindle se ha fabricado con un 30-75 % de plástico reciclado y un 90 % de magnesio reciclado.
+- Encuentra nuevas historias: con Kindle Unlimited, disfruta de acceso ilimitado a millones de eBooks y una selección de revistas.
+- Ahora con hasta 16 GB de almacenamiento para guardar miles de libros: tiene el doble de espacio de almacenamiento que la generación anterior.
+- Lee cómodamente gracias a su pantalla sin reflejos similar al papel. Con luz frontal ajustable y modo oscuro para leer sin forzar los ojos tanto de día y como de noche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SWS16W6{{</world>}}

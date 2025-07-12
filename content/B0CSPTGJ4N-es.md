@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla AMOLED de 1.74" con una alta frecuencia de actualización de 60Hz. Sensor de luz ambiental que permite que el brillo de la pantalla se ajuste automáticamente a tus preferencias visuales
+- Marco metálico y más delgado de 9,99 mm, siendo más cómodo de llevar. Marco metálico recubierto de NCVM
 - Seguimiento continuo del nivel de SpO2 a lo largo del día, monitoreo ininterrumpido del sueño, registro constante de la frecuencia cardíaca las 24 horas y monitorización de la respiración durante el sueño
 - Más de 150 modos de entrenamiento para registrar tu frecuencia cardíaca y calorías quemadas. 10 cursos de carrera; además, la capacidad de vibrar e iluminar la pantalla para recordarte que debes alcanzar tus objetivos de ritmo y frecuencia cardíaca
 - Funciones: Asistente de respiración, Información meteorológica, Monitoreo de oxígeno en sangre durante todo el día, Conteo de calorías, Sensor de aceleración, Sensor de luz, Monitor de frecuencia cardíaca, Monitoreo del sueño
-- Pantalla AMOLED de 1.74" con una alta frecuencia de actualización de 60Hz. Sensor de luz ambiental que permite que el brillo de la pantalla se ajuste automáticamente a tus preferencias visuales
-- Marco metálico y más delgado de 9,99 mm, siendo más cómodo de llevar. Marco metálico recubierto de NCVM
 - Duración de la batería de hasta 14 días. Soporta inmersión de hasta 50 metros de profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

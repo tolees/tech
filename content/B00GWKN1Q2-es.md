@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Instalación Sencilla: instalación y configuración con una interfaz web fácil de usar
-- Pequeño y silencioso: carcasa metálica pequeña y resistente con un funcionamiento silencioso sin ventilador
 - Gigabit Ethernet: 5 puertos Gigabit Ethernet que ofrecen hasta 2000 Mbps de ancho de banda dedicado y sin bloqueos por puerto
-- Funcionamiento en red esencial: segmentación y priorización de tráfico con VLAN, QoS, snooping de IGMP, limitación de velocidad y control del tráfico
 - Supervisión Sencilla: control del estado de la red y del cableado con las estadísticas de puerto y de estado del cable
+- Funcionamiento en red esencial: segmentación y priorización de tráfico con VLAN, QoS, snooping de IGMP, limitación de velocidad y control del tráfico
+- Pequeño y silencioso: carcasa metálica pequeña y resistente con un funcionamiento silencioso sin ventilador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GWKN1Q2{{</world>}}

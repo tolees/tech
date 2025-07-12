@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MOVIL SMARTPHONE XIAOMI REDMI 13C 8/256GB DS NAVY BLUE HELIO G85/6,74 /90Hz/8GB/256GB/50MP 8MP/5000mAh Xiaomi Telefonía MZB0FT4EU
 - NFC: La disponibilidad de NFC puede variar en algunos mercados
+- MOVIL SMARTPHONE XIAOMI REDMI 13C 8/256GB DS NAVY BLUE HELIO G85/6,74 /90Hz/8GB/256GB/50MP 8MP/5000mAh Xiaomi Telefonía MZB0FT4EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNK3KJJ3{{</world>}}

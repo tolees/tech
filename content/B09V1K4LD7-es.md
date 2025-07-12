@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempo de respuesta de 1ms y frecuencia de actualización de 100Hz
-- AMD Radeon FreeSync; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos
-- La base en forma de V aporta elegancia al tiempo que ofrece un excelente soporte ergonómico para disfrutar de una experiencia de visualización agradable
-- Relación de aspecto 16:9 y relación de contraste 1000:1
-- Pantalla de 23.8" con resolución QHD (2560 x 1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 90%, antirreflejos
 - Eyesafe: tecnología diseñada para filtrar de manera efectiva la luz azul mientras mantiene unos colores nítidos y vivos, asegurando que tus ojos están protegidos de los efectos nocivos de las emisiones de luz azul de la pantalla
+- Pantalla de 23.8" con resolución QHD (2560 x 1440 pixeles), 300 nits, panel IPS, con una una precisión del color sRGB al 99% y DCI-P3 al 90%, antirreflejos
+- Tiempo de respuesta de 1ms y frecuencia de actualización de 100Hz
+- Relación de aspecto 16:9 y relación de contraste 1000:1
 - Puertos HDMI y DP; Cable HDMI incluido en la caja
-- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 - Ajuste de inclinación (-5° / 22°) y soporte VESA para montar la pantalla en la pared
+- La base en forma de V aporta elegancia al tiempo que ofrece un excelente soporte ergonómico para disfrutar de una experiencia de visualización agradable
+- AMD Radeon FreeSync; la tecnología que ayuda a reducir el tartamudeo de la pantalla y proporciona mucha mayor fluidez a los videojuegos
+- Amplio ángulo de visión (178º/178º) sin distorsiones de color ni reflejos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V1K4LD7{{</world>}}

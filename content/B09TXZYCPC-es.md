@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño moderno
 - Altura regulable
 - Multiples posiciones regulables
-- Diseño moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TXZYCPC{{</world>}}

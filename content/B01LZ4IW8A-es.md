@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección contra el polvo y la humedad
 - SEL-P18110G; Tapa (modelo) ALC-SH148; Tapa de lente delantera; Tapa trasera de lente (ALC-R1EM); Bolsa; Dispositivo de trípode
-- 3 anillos de ajuste en la lente (enfoque, apertura, zoom)
 - Integral. Estabilizador óptico de imagen
+- Protección contra el polvo y la humedad
 - Objetivo de vídeo ideal con amplio rango focal y zoom de potencia
+- 3 anillos de ajuste en la lente (enfoque, apertura, zoom)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZ4IW8A{{</world>}}

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Posibilidad de jugar con o sin música de fondo y controlar varios ajustes del ordenador 8 teclas de actividades que las agrupan por categorías, ratón de bola y cursor direccional
-- Incluye un total de 180 actividades, 90 en español y otras 90 en inglés, adaptadas al currículo escolar y dos niveles de juego, principiante y experto
-- Las actividades son en inglés y español, incluyendo algunas actividades extra en inglés y francés
 - Sus actividades enseñan lenguaje, matemáticas, datos sobre el cuerpo humano, ciencias, monumentos del mundo, universo y animales
-- Mediante la actividad "mi diario", puede escribir historias para empezar a familiarizarse con la mecanografía, con teclado qwerty
-- Existe versión azul de este artículo
+- Posibilidad de jugar con o sin música de fondo y controlar varios ajustes del ordenador 8 teclas de actividades que las agrupan por categorías, ratón de bola y cursor direccional
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Versión española
-- Ayuda a reforzar las destrezas matemáticas básicas como sumas, restas, números pares e impares; incluye también actividades de geometría e introducción a la informática
+- Incluye un total de 180 actividades, 90 en español y otras 90 en inglés, adaptadas al currículo escolar y dos niveles de juego, principiante y experto
 - Ordenador educativo bilingüe para niños. Pantalla a color. Disponible en color azul y en color rosa.
+- Versión española
+- Existe versión azul de este artículo
+- Las actividades son en inglés y español, incluyendo algunas actividades extra en inglés y francés
+- Ayuda a reforzar las destrezas matemáticas básicas como sumas, restas, números pares e impares; incluye también actividades de geometría e introducción a la informática
+- Mediante la actividad "mi diario", puede escribir historias para empezar a familiarizarse con la mecanografía, con teclado qwerty
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RZM9TDV{{</world>}}

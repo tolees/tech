@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sistema Operativo: Android 12
-- Memoria RAM de 4GB LPDDR4
-- Pantalla de 10,1", WUXGA 1920 x 1200 pixeles
 - Almacenamiento de 64GB
 - Procesador Mediatek MT8183 (OctaCore, 2 GHz)
+- Pantalla de 10,1", WUXGA 1920 x 1200 pixeles
+- Memoria RAM de 4GB LPDDR4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYZS7PF3{{</world>}}

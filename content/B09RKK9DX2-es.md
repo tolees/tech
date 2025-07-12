@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Almacenamiento SSD PCIe NVMe TLC M.2 de 512 GB
-- Procesador Intel Core i7-12700H (hasta 4,7 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
 - Memoria 16 GB de RAM DDR5-4800 Mhz (2 x 8 GB)
-- Sistema operativo FreeDOS
+- Procesador Intel Core i7-12700H (hasta 4,7 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
 - Pantalla Full HD de 16,1" (40,9 cm) en diagonal, (1920 x 1080), 144 Hz, tiempo de respuesta de 7 ms, IPS, microborde, antirreflectante, Low Blue Light, 300 nits, 100 % de sRGB
 - Gráficos discreto: GPU de portátil NVIDIA GeForce RTX 3060 (GDDR6 de 6 GB dedicada), con tecnología de la arquitectura NVIDIA Ampere
+- Sistema operativo FreeDOS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RKK9DX2{{</world>}}

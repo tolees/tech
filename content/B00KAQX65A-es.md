@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Abarca más en cada disparo con un objetivo zoom ultra gran angular
-- Disfruta de exposiciones precisas con una abertura constante f/4
 - Capta imágenes estables incluso con poca luz con el estabilizador de la imagen de 4 pasos
 - Autoenfoque rápido y silencioso
 - Rendimiento excelente de la serie L con óptica de precisión
+- Disfruta de exposiciones precisas con una abertura constante f/4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KAQX65A{{</world>}}

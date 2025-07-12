@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [ Compacto & Diseño de Cable Suspendido ] Con un tamaño reducido de 5.7 × 2.7 × 0.7 cm, esta batería externa es fácil de transportar. El diseño único de Lanyard le permite colgar el banco de alimentación directamente en su mochila y usar fácilmente el banco de alimentos en cualquier momento, en cualquier lugar;
 - [ Tecnología Exclusiva ] Los protectores integrados protegen sus dispositivos de sobrecorriente, sobrecalentamiento y sobrecarga. El sistema de seguridad múltiple protegida garantiza la protección completa de sus dispositivos.
+- [ Compacto & Diseño de Cable Suspendido ] Con un tamaño reducido de 5.7 × 2.7 × 0.7 cm, esta batería externa es fácil de transportar. El diseño único de Lanyard le permite colgar el banco de alimentación directamente en su mochila y usar fácilmente el banco de alimentos en cualquier momento, en cualquier lugar;
 - [ Pantalla LED Inteligente ] Equipado con una pantalla LED digital inteligente única que indica el nivel de la batería. La precisión de la pantalla de alimentación es de hasta el 100%, para que pueda ver claramente el nivel de la batería;
 - [ Power Bank con Cables Integrados ] Bulit-in cable Micro, USB C, USB A (solo entrada) y cable iPhone compatible con iPhone 13/12/11/XR/8/6, iPad, Samsung Galaxy S20, Xiaomi, Huawei, OnePlus, etc. No es necesario tomar ningún cables de carga;
 - [ Cargar 5 Dispositivos Simultáneamente ] VEEKTOMX Power Bank con 5 salidas (3 cables, 1 puerto USB A, 1 puerto USB C) que puede cargar 5 dispositivos al mismo tiempo. Carga rápida hasta 5 dispositivos simultáneamente con una salida máxima de 5 V/2.4 A (12 W) por puerto;

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Portabolígrafos integrado
 - Soporte convertible para visualización vertical y horizontal
-- Protección completa
 - Fácil acceso a botones y puertos
+- Portabolígrafos integrado
+- Protección completa
 - Acabado cómodo de poliuretano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

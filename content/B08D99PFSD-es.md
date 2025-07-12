@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - RATÓN LIGERO: Con sensor óptico de hasta 3200DPI y botón de cambio On-the-fly, cuenta con estructura compacta y ligera, iluminación RGB Flow y te ofrece precisión y ligereza al mismo tiempo; Dispone de 6 botones gaming con Switches mecánicos HUANO de gran calidad y precisión que proporcionan una gran durabilidad al combo y agiliza cada movimiento para garantizarte unas acciones instantáneas
 - COMBO GAMING COMPACTO MULTIPLATAFORMA: Pack gaming con iluminación RGB Breathing & RGB Flow de teclado y ratón pensado para aprovechar al máximo el espacio de tu escritorio y que te permite utilizarlo en cualquier plataforma; Utiliza tanto el teclado como el ratón en Windows, Mac, Ps4, Xbox One o Switch
-- Layout Español
 - TECLADO FORMATO TKL: Para conseguir un diseño más compacto, el teclado prescinde de la sección numérica y ofrece una pulsación suave y precisa gracias a la tecnología H-Mech incorporada; Cuenta con iluminación RGB Control y capacidad antighosting
+- Layout Español
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08D99PFSD{{</world>}}

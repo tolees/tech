@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Licencia oficial de Nintendo
-- 3 ángulos distintos para ajustarse a cada situación de juego
 - Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
-- Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
 - Se pliega al completo para una portabilidad total
+- Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
+- 3 ángulos distintos para ajustarse a cada situación de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01A9UATHO{{</world>}}

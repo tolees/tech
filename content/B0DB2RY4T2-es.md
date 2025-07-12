@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 - Almacenamiento SSD de 512 GB PCIe NVMe M.2
 - Procesador AMD Ryzen 5 5500U (aumento máximo del reloj hasta 4 GHz, 8 MB de caché L3, 6 núcleos, 12 subprocesos)
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Sistema operativo Windows 11 Home - Gráficos integrados AMD Radeon
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2RY4T2{{</world>}}

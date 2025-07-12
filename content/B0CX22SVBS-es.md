@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- APPS QUE VUELAN CON EL CHIP DE APPLE — Todas tus apps favoritas van como un rayo en macOS, desde Microsoft 365 hasta Adobe Creative Cloud.
-- POTENCIA M3. AFILADA AL MÁXIMO. — El MacBook Air con chip M3 tiene un diseño compacto para trabajar y divertirte a toda mecha en todas partes.
-- ENTRA POR LOS OJOS. Y LOS OÍDOS. — La cámara HD a 1080p, los tres micrófonos y los seis altavoces con audio espacial ofrecen una calidad de imagen y sonido alucinante.
 - HASTA 18 HORAS DE AUTONOMÍA — Con autonomía para el día entero, puedes dejar el adaptador en casa con total tranquilidad.
 - HAZ MÁS. MÁS RÁPIDO. — La potencia de la CPU de 8 núcleos y de la GPU de 10 núcleos del chip M3 de Apple hace que todo vaya como la seda.
-- MÁS ESPACIO PARA LO QUE MÁS TE GUSTA — La pantalla Liquid Retina de 15,3 pulgadas admite 1.000 millones de colores.
+- POTENCIA M3. AFILADA AL MÁXIMO. — El MacBook Air con chip M3 tiene un diseño compacto para trabajar y divertirte a toda mecha en todas partes.
+- ENTRA POR LOS OJOS. Y LOS OÍDOS. — La cámara HD a 1080p, los tres micrófonos y los seis altavoces con audio espacial ofrecen una calidad de imagen y sonido alucinante.
 - DISEÑO COMPACTO — Como es superligero y mide poco más de un centímetro de grosor, puedes llevarte el MacBook Air a cualquier sitio.
-- SI TE GUSTA EL IPHONE, TE ENCANTARÁ EL MAC — El MacBook Air se entiende de maravilla con todos tus dispositivos Apple. Ponte a escribir un email en el iPhone y acábalo en el Mac. Envía mensajes de texto desde el Mac. Y mucho más.
+- MÁS ESPACIO PARA LO QUE MÁS TE GUSTA — La pantalla Liquid Retina de 15,3 pulgadas admite 1.000 millones de colores.
 - CONECTIVIDAD TOTAL — El MacBook Air tiene dos puertos Thunderbolt, toma para auriculares, Wi-Fi 6E, Bluetooth 5.3 y puerto de carga MagSafe. Y puedes conectar hasta dos monitores externos con la tapa del portátil cerrada.
+- APPS QUE VUELAN CON EL CHIP DE APPLE — Todas tus apps favoritas van como un rayo en macOS, desde Microsoft 365 hasta Adobe Creative Cloud.
+- SI TE GUSTA EL IPHONE, TE ENCANTARÁ EL MAC — El MacBook Air se entiende de maravilla con todos tus dispositivos Apple. Ponte a escribir un email en el iPhone y acábalo en el Mac. Envía mensajes de texto desde el Mac. Y mucho más.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX22SVBS{{</world>}}

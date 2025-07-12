@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Sin Sistema Operativo
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Procesador Intel Core i7-12650H (10C/DecaCore 4.7GHz, 24MB)
-- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 120Hz, IPS 300 nits
 - Memoria RAM de 16GB SO-DIMM DDR4
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Procesador Intel Core i7-12650H (10C/DecaCore 4.7GHz, 24MB)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 120Hz, IPS 300 nits
+- Sin Sistema Operativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CDH73FYC{{</world>}}

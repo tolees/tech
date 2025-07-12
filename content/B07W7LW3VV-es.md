@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Icono reinventado: a partir del legado del diseño más popular de Logitech, el ratón para gaming con cable G502 X se ha redefinido y rediseñado con las últimas innovaciones para gaming
 - Sensor HERO 25K para gaming: preciso hasta la submicra para una exactitud de precisión con cero suavizado/filtrado/aceleración para un alto rendimiento de gaming siempre en el ordenador
 - Interruptores LIGHTFORCE: la tecnología de botones híbridos óptico-mecánicos ofrece velocidad y fiabilidad, así como un accionamiento preciso con una respuesta nítida
-- Botón de cambio de DPI rediseñado: este ratón óptico cuenta con un botón de cambio de DPI reversible y extraíble para una personalización precisa en función de su agarre y preferencia
-- Rueda de desplazamiento de doble modo: pasa de un giro libre rápido a uno preciso línea por línea, y se inclina hacia la izquierda y la derecha para obtener dos controles adicionales personalizables
+- Icono reinventado: a partir del legado del diseño más popular de Logitech, el ratón para gaming con cable G502 X se ha redefinido y rediseñado con las últimas innovaciones para gaming
 - Elige: disponible en blanco y negro
+- Rueda de desplazamiento de doble modo: pasa de un giro libre rápido a uno preciso línea por línea, y se inclina hacia la izquierda y la derecha para obtener dos controles adicionales personalizables
+- Botón de cambio de DPI rediseñado: este ratón óptico cuenta con un botón de cambio de DPI reversible y extraíble para una personalización precisa en función de su agarre y preferencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W7LW3VV{{</world>}}

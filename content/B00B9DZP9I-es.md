@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botones para controlar el volumen y los sonidos graves en el lateral
 - Juego de altavoces 2.1 con altavoz de subgraves en madera y una potencia total de salida RMS de 60 Vatios (máx. potencia: 120 vatios)
+- Botones para controlar el volumen y los sonidos graves en el lateral
 - Cómodo mando cableado para un fácil control del volumen con auriculares y conectores para iPod/MP3
 - Sonido de gran calidad con subgraves más profundos
 

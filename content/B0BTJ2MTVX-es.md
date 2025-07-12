@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
-- Memoria RAM de 8GB SO-DIMM DDR4
-- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
 - Sistema Operativo: Windows 11 Home in S mode
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB SO-DIMM DDR4
 - Almacenamiento de 256GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i3-1115G4 (2C/DualCore 4.1GHz, 6MB)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTJ2MTVX{{</world>}}

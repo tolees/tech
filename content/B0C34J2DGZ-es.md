@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Notebook de la marca MSI
 - Referencia: S0236369
-- Medidas: 49,26 x 36,12 x 13,14 centímetros
 - Color: multicolor
 - Si eres un apasionado de la informática y la electrónica, te gusta estar a la última en tecnología y no perderte detalle
+- Medidas: 49,26 x 36,12 x 13,14 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C34J2DGZ{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Objetivo
-- Parasol / objetivo
 - TAMRON
+- Parasol / objetivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ21GVHV{{</world>}}

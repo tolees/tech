@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
+- Memoria RAM de 8GB SO-DIMM DDR4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ94JHVB{{</world>}}

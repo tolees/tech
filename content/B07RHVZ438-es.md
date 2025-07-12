@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema operativo: macOS Sierra
-- Pantalla: Pantalla IPS de 15,4" con retroiluminación LED
 - Touch Bar con sensor Touch ID integrado, pantalla Retina
 - Gráficos: AMD Radeon Pro 450 con 2 GB de memoria GDDR5 y cambio automático a Intel HD Graphics 530
 - Procesador: Intel Core i7 de cuatro núcleos de 2,6 GHz (TurboBoost hasta 3,5 GHz) con caché L3 de 6 MB
+- Sistema operativo: macOS Sierra
+- Pantalla: Pantalla IPS de 15,4" con retroiluminación LED
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RHVZ438{{</world>}}

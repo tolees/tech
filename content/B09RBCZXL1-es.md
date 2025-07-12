@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 5 AÑOS DE GARANTÍA (300 TBW): MSI respalda la calidad y fiabilidad de todas las unidades SSD M.2 SPATIUM con una garantía integral de 5 años o hasta que se cumplan los TBW (Terabytes escritos)
-- PROTEGE TUS DATOS: MSI Center permite a los usuarios de migrar fácilmente los datos y supervisar el estado/rendimiento de la unidad; el soporte software Actiphy (incluido) evita la pérdida de datos clave con funciones de copia de seguridad y restauración.
 - SEGURIDAD Y FIABILIDAD:Capacidades integradas de seguridad datos y corrección de errores integradas extienden la longevidad de las unidades de estado sólido; incluye optimización del rendimiento, autocontrol, protección datos E2E y encriptación TCG Pyrite
+- PROTEGE TUS DATOS: MSI Center permite a los usuarios de migrar fácilmente los datos y supervisar el estado/rendimiento de la unidad; el soporte software Actiphy (incluido) evita la pérdida de datos clave con funciones de copia de seguridad y restauración.
 - VELOCIDAD DESTACADA Y RENDIMIENTO INCREIBLE: La interfaz PCIe Gen4 de la M450 permite una rápida transferencia de datos y cortos tiempos de carga con una velocidad de lectura de 3600MBps y una velocidad de escritura de 2300MBps
 - CAPACIDAD DE ALMACENAMIENTO 500GB, FORMATO M.2 2280: Tamaño compacto M.2 2280 con tecnología 3D NAND y almacenamiento data 500GB; controlador PHISON E19T (cumple con el estándar NVMe 1.4) asegura rápidas tasas de transferencia sobre PCI Express
 

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Combinación ganadora de cobre y aluminio para el máximo rendimiento.
 - Compatible con SSD Singel / doble cara M.2 2280.
-- Incluye cinta térmica, tornillos y destornillador!
 - Diseñado para computadoras de escritorio.
+- Incluye cinta térmica, tornillos y destornillador!
 - Fácil de instalar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

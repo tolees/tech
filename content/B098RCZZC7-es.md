@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Todos los escenarios, los Fatalities de escenario, los Brutalities, los famosos Fatalities y los Friendships
 - Juega en la piel de cualquiera de los 37 kombatientes del elenco kompleto, incluidos los personajes recientemente añadidos: Mileena, Rain y Rambo
 - Miles de skins, armas y equipo para un nivel de personalización sin precedentes
 - Todos los modos, incluidas las Torres del Tiempo, la Kripta, el modo En línea, las torres klásicas, etc.
+- Todos los escenarios, los Fatalities de escenario, los Brutalities, los famosos Fatalities y los Friendships
 - Incluye a todos los invitados anteriores: Terminator, Joker, Spawn y RoboCop
 
 [🛒 Visítala!!!]({{< param buyurl >}})

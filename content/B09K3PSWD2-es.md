@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disipador térmico de aluminio y grafeno de bajo perfil
 - Increíble rendimiento NVMe PCIe Gen 4x4
+- Disipador térmico de aluminio y grafeno de bajo perfil
 - Delgado factor de forma M.2 2280
 
 [🛒 Visítala!!!]({{< param buyurl >}})

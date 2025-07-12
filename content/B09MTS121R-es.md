@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad de imagen 2K ultranítida
 - Detección de movimiento
+- Calidad de imagen 2K ultranítida
 - Visión nocturna con infrarrojos
 - Compatible con Android 6.0 e iOS 11.0 o versiones posteriores
 - Llamadas de audio bidireccional

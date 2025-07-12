@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dolby Atmos/DTS:X para reproducción de sonido tridimensional
-- Una variedad de fuentes HDMI IN/OUT (4/1), USB y Bluetooth
 - Calibración automática de la fase
+- Una variedad de fuentes HDMI IN/OUT (4/1), USB y Bluetooth
 - Transmisión 4 K HDR/Dolby Vision sin pérdida de calidad de imagen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mediatek Dimensity 8100 Ultra 5G
-- Batería de 5000 mAh
 - Cargado al 100% en 19 minutos
+- Batería de 5000 mAh
 - Cámara gran angular de 108 MP
 - Pantalla AMOLED 120 Hz
 

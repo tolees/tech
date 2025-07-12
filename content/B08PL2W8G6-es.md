@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad universal: Utilízalos con todos tus dispositivos como quieras, donde quieras; cascos compatibles con PC,MAC, PS5, PS4, XBOX ONE, XBOX series X-S, Switch, smartphones, tablets
 - Auriculares In Ear ergonómicos: Los MIHX se adaptan y mantienen siempre en su sitio gracias a su sistema de adaptación doble, tanto externo como interno, con varios tamaños de almohadillas incluidos para adaptarse a ti a la perfección; cuenta con micrófono integrado en la caja de control y otro micrófono extraíble de aluminio flexible para una captación perfecta de tu voz
+- Compatibilidad universal: Utilízalos con todos tus dispositivos como quieras, donde quieras; cascos compatibles con PC,MAC, PS5, PS4, XBOX ONE, XBOX series X-S, Switch, smartphones, tablets
 - Tecnología dual driver haptic sense: Los auriculares de Mars Gaming han sido diseñados con un revolucionario sistema in-ear con dos drivers de sonido independientes; obtén una nitidez sonora excelente gracias al driver de sonido dedicado a medios claros y agudos disponibles y siente cada golpe y sonido grave con la tecnología avanzada haptic sense de su segundo driver háptico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tarjeta Gráfica AMD Radeon Graphics
-- Procesador AMD Ryzen 7 5700U (8C/OctaCore), 1,80 GHz
-- Sistema Operativo: Windows 11 Home
-- Memoria RAM de 8GB DDR4 SDRAM
 - Almacenamiento de 512GB SSD PCIe NVMe
+- Sistema Operativo: Windows 11 Home
+- Procesador AMD Ryzen 7 5700U (8C/OctaCore), 1,80 GHz
+- Memoria RAM de 8GB DDR4 SDRAM
 - Pantalla de 15,6", FullHD 1920 x 1080 pixeles, 60Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

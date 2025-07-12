@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye:1x40 pines macho-hembra cables puente; 1x40 pines hembra-macho cables puente; 1x40 pines hembra-hembra cables puente.
-- Siempre nos hemos preocupado por ofrecer la mejor experiencia al cliente, por mejorar los detalles de funcionamiento de nuestros productos.
 - Los cables pueden separarse para formar un conjunto que contenga el número de cables que necesita para su conexión y de esa forma adaptarse a conectores impares no estándar.
-- Material: Aluminio revestido de cobre (CCA) con características de buena conductividad eléctrica, baja densidad y resistente a la corrosión y también es fácil de soldar.
+- Siempre nos hemos preocupado por ofrecer la mejor experiencia al cliente, por mejorar los detalles de funcionamiento de nuestros productos.
 - Cada cable mide sobre 20cm/8 pulgadas. Calibre de Cable: 28 AWG.
+- Material: Aluminio revestido de cobre (CCA) con características de buena conductividad eléctrica, baja densidad y resistente a la corrosión y también es fácil de soldar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NGTXASZ{{</world>}}
