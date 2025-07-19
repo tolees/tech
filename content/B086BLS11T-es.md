@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno
 - Altura ajustable
+- Diseño moderno
 - Producto de calidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

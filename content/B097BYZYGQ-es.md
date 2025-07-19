@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Iluminación RGB 3D con 22 LED
 - Rueda de ratón Krystal 4D para una mayor personalización. Titan Switch Optical táctil y rápido
-- Compatible con Windows 7, 8, 10 y 11 (soporte de software) Conexión a Internet USB 2.0 (o superior) (para software de controlador)
-- Funcionalidad multibotón en el legendario diseño de Kone
 - óptico Roccat Sensor ojo de búho con 19.000 DPI
+- Iluminación RGB 3D con 22 LED
+- Funcionalidad multibotón en el legendario diseño de Kone
+- Compatible con Windows 7, 8, 10 y 11 (soporte de software) Conexión a Internet USB 2.0 (o superior) (para software de controlador)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097BYZYGQ{{</world>}}

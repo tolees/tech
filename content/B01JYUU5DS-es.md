@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Maximizan la eficacia del flujo de trabajo con velocidades de transferencia de hasta 300 MB/s, velocidad extrema para captar todos los fotogramas
+- De 32 GB a 128 GB para sesiones de fotografía y vídeo más largas e ininterrumpidas
 - El rendimiento de vídeo disponible es compatible con grabación de vídeo Full HD y 4K de calidad cinematográfica
 - En la que confían los profesionales
-- De 32 GB a 128 GB para sesiones de fotografía y vídeo más largas e ininterrumpidas
 - Tarjetas de memoria SDHC y SDXC UHS-II súper rápidas con velocidades de disparo de hasta 260 MB/s
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

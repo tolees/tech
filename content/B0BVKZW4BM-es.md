@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria flash 3D NAND, controlador de 8 canales y memoria caché DRAM DDR4
 - Hasta 7.500 MB/s de lectura; 6.700 MB/s de escritura
+- Memoria flash 3D NAND, controlador de 8 canales y memoria caché DRAM DDR4
 - Utiliza la interfaz PCIe Gen4 x4 y cumple con el estándar NVMe 1.4
 - Disipador de calor de aluminio y mecanismo dinámico de aceleración térmica para una mayor estabilidad
 

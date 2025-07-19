@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla WUXGA (1920 x 1200) de 13,3" (33,8 cm), IPS, microborde, antirreflectante, 400 nits, 100% sRGB
-- Procesador AMD Ryzen 7 8840U (aumento máximo del reloj hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
-- 16 GB RAM LPDDR5x-6400 MHz |1 TB SSD dPCIe NVMe M.2
-- Windows 11 Home
 - ULTRALIGERO - Con menos de 1 kg, el ordenador portátil ultraligero HP Pavilion Aero te permite seguir siendo creativo mientras te desplazas
+- Pantalla WUXGA (1920 x 1200) de 13,3" (33,8 cm), IPS, microborde, antirreflectante, 400 nits, 100% sRGB
+- 16 GB RAM LPDDR5x-6400 MHz |1 TB SSD dPCIe NVMe M.2
+- Procesador AMD Ryzen 7 8840U (aumento máximo del reloj hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
+- Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4MCLWZT{{</world>}}

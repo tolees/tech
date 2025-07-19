@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - McAfee Total Protection es una solución "todo en uno" que incluye antivirus, seguridad y protección de la privacidad y la identidad para 10 dispositivos.​
 - Comprueba el estado de tu seguridad digital: nuestro innovador Nivel de protección identifica los puntos débiles y te guía para reforzar tus defensas.​
-- Supervisa hasta 10 direcciones de correo en la web oscura: si encontramos tus datos, te lo notificaremos para que puedas actuar antes de que acaben en las manos equivocadas. ​
 - Compra y realiza operaciones bancarias con privacidad: la VPN segura y ilimitada de McAfee se activa automáticamente para proteger tus datos personales y los de tu tarjeta de crédito
-- Protege tus cuentas: genera y almacena contraseñas complejas con un gestor de contraseñas.​
 - EXCLUSIVO EN AMAZON: disfruta de 3 meses adicionales a tu suscripción anual, es decir, un total de 15 meses.
+- Protege tus cuentas: genera y almacena contraseñas complejas con un gestor de contraseñas.​
+- Supervisa hasta 10 direcciones de correo en la web oscura: si encontramos tus datos, te lo notificaremos para que puedas actuar antes de que acaben en las manos equivocadas. ​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGPKX8VT{{</world>}}

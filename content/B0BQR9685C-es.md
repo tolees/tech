@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Portabolígrafos integrado
+- Protección completa
 - Soporte convertible para visualización vertical y horizontal
 - Acabado cómodo de poliuretano
-- Protección completa
 - Fácil acceso a botones y puertos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

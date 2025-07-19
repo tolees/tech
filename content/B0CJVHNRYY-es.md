@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'NEWSKILL Serike TKL V2 Negro | Switch Red Hotswap | Teclado Mecánico Gaming'
-date: 2024-11-06 11:07:37
+title: 'NEWSKILL Serike V2 TKL Teclado mecánico tenkeyless RGB con switches Hot-Swap lineales  Estructura de Aluminio y Layout español Negro'
+date: 2025-07-18 20:08:10
 image: 'https://m.media-amazon.com/images/I/31lcAxCpO-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CJVHNRYY-es NEWSKILL Serike TKL V2 Negro | Switch Red Hotswap |...'
+slug: 'B0CJVHNRYY-es NEWSKILL Serike V2 TKL Teclado mecánico tenkeyless RGB con...'
 sku: 'B0CJVHNRYY-es'
-tags: [ 'teclado','🇪🇸', ]
-actualPrice: 59.0 EUR
+tags: [ '62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_0','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_1601','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_3301','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_6501','Arborist Merchandising Root','Informática','PC','PC Accesorios','Self Service','Special Features Stores','Teclados','Videojuegos','newskill','teclado','🇪🇸', ]
+actualPrice: 76.99 EUR
 currency: EUR
-price: 59.0
-comparePrice: 84.95 EUR
-prodname: 'NEWSKILL Serike TKL V2 Negro | Switch Red Hotswap | Teclado Mecánico Gaming'
+price: 76.99
+comparePrice: 103.95 EUR
+prodname: 'NEWSKILL Serike V2 TKL Teclado mecánico tenkeyless RGB con switches Hot-Swap lineales  Estructura de Aluminio y Layout español Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'NEWSKILL'
 buyurl: 'https://www.amazon.es/dp/B0CJVHNRYY/?tag=tolees-21'
-descuento: '30.55'
-average: '59.0'
+descuento: '25.94'
+average: '70.9933333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Newskill Serike TKL V2 Negro - Teclado Mecánico Gaming | RGB | Chasis de Aluminio | Teclas y Switches Personalizables | NewSwitch Lineal Red | Rueda Volumen El teclado mecánico para juegos Serike V2 te ofrece la experiencia más completa para jugar. Formato de tamaño TKL, switches intercambiables, software dedicado y rueda de volumen dedicada, todo esto con más y mejores funcionalidades e incluye los nuevos switches personalizados NewSwitch. Colores: ____ Negro ____ Blanco
+- Estabilizadores ajustados y teclas sólidas para pulsaciones precisas: elimina el tambaleo en teclas largas y mejora la fluidez general en escritura y gaming prolongado.
+- Switches mecánicos lineales hot-swap para control absoluto: cambia fácilmente tu configuración con otros Gateron sin soldar y personaliza la respuesta tecla a tecla.
+- Iluminación RGB multizona totalmente personalizable por software: crea combinaciones únicas de efectos para streaming, torneos o entornos oscuros.
+- Diseño tenkeyless para setups competitivos y escritorios minimalistas: más espacio para el ratón y mayor libertad de movimiento sin renunciar a funcionalidades esenciales.
+- Construcción con placa superior de aluminio para máxima estabilidad: mejora la sensación de pulsación y reduce vibraciones incluso en sesiones intensas de juego o trabajo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVHNRYY{{</world>}}

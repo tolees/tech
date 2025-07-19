@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuevo sensor de imagen CMOS Exmor de 24,2 megapíxeles
-- Amplio rango de sensibilidad ISO, de 100 a 51.200
 - El AF más rápido del mundo (0,05 s), con el mayor número de puntos de AF con detección de fases (425)
-- Motor de procesamiento de imágenes BIONZ X
 - Grabación de vídeo 4K con lectura de píxeles completa y sin agrupamiento
+- Motor de procesamiento de imágenes BIONZ X
+- Amplio rango de sensibilidad ISO, de 100 a 51.200
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BMAIEFE{{</world>}}

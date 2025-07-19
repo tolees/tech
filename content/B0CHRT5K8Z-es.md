@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tubos de 400 mm reforzados y con fundas para una optima durabilidad y compatibilidad con el chasis
+- Compatible con los zócalos Intel LGA 1700, 1200, 115x y AMD AM5 y AM4
 - Ventiladores de radiador TUF Gaming optimizados con iluminación ARGB Gen2 brillante y aletas estriadas para mejorar el flujo de aire y reducir el ruido
 - Diseñado para complementar las placas base TUF Gaming, en el centro de tu montaje
-- Compatible con los zócalos Intel LGA 1700, 1200, 115x y AMD AM5 y AM4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHRT5K8Z{{</world>}}

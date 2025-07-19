@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EQUIPO PROTEGIDO: tu tableta se mantiene segura gracias al compartimiento dedicado, además la mochila está equipada con una cubierta impermeable para protegerla de la climatología adversa
-- LLEVA TODO CONTIGO: sistema de transporte de trípode incorporado, bolsillos de malla y bolsillos acolchados extraíbles que te permiten tener el espacio adecuado para organizar todo tu equipo
-- SIEMPRE ORDENADA: la mochila Flipside es muy espaciosa y versátil para guardar una gran variedad de elementos, como cámaras DSLR, lentes, cardanes y drones compactos
 - CONVENIENTE: gracias al acceso abatible puedes coger tu equipo de forma rápida y segura, incluso en situaciones en las que no puedes poner la mochila en el suelo
+- SIEMPRE ORDENADA: la mochila Flipside es muy espaciosa y versátil para guardar una gran variedad de elementos, como cámaras DSLR, lentes, cardanes y drones compactos
+- LLEVA TODO CONTIGO: sistema de transporte de trípode incorporado, bolsillos de malla y bolsillos acolchados extraíbles que te permiten tener el espacio adecuado para organizar todo tu equipo
+- EQUIPO PROTEGIDO: tu tableta se mantiene segura gracias al compartimiento dedicado, además la mochila está equipada con una cubierta impermeable para protegerla de la climatología adversa
 - SEGURO: el acceso trasero al equipo de fotografía ofrece máxima seguridad mientras llevas tu mochila
 
 [🛒 Aquí!!!]({{< param buyurl >}})

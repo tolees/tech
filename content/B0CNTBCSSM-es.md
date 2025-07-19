@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i9-13900HX, 24C (8P + 16E) / 32T, P-core 2.2 / 5.4GHz, E-core 1.6 / 3.9GHz, 36MB
-- Almacenamiento de 1TB SSD M.2 2280 PCIe 4.0x4 NVMe
-- Tarjeta Gráfica NVIDIA GeForce RTX 4080 12GB GDDR6, Boost Clock 2280MHz, TGP 175W
 - Memoria 2x 16GB SO-DIMM DDR5-5600
+- Tarjeta Gráfica NVIDIA GeForce RTX 4080 12GB GDDR6, Boost Clock 2280MHz, TGP 175W
 - Pantalla de 16" WQXGA (2560x1600 pixeles) IPS 500nits Anti-reflejos, 100% sRGB, 240Hz, DisplayHDR 400, Dolby Vision, G-SYNC
+- Almacenamiento de 1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+- Procesador Intel Core i9-13900HX, 24C (8P + 16E) / 32T, P-core 2.2 / 5.4GHz, E-core 1.6 / 3.9GHz, 36MB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNTBCSSM{{</world>}}

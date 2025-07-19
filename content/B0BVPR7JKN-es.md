@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zócalo Intel LGA 1700: preparado para los procesadores Intel de 13ª y 12ª generación
-- Iluminación RGB Aura Sync: Cabezales Gen 2 direccionables integrados y cabezal Aura RGB para tiras de LED RGB, fácilmente sincronizables con hardware compatible con Aura Sync
 - Conectividad ultrarrápida: PCIe 4.0, dos ranuras M.2 PCIe 4.0, Ethernet Realtek de 2,5 Gb y compatibilidad frontal con USB 3.2 Gen 1
+- Iluminación RGB Aura Sync: Cabezales Gen 2 direccionables integrados y cabezal Aura RGB para tiras de LED RGB, fácilmente sincronizables con hardware compatible con Aura Sync
+- Zócalo Intel LGA 1700: preparado para los procesadores Intel de 13ª y 12ª generación
 - Refrigeración completa: Disipador VRM, disipador PCH, cabezales de ventilador híbridos y Fan Xpert 2+
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ocupa Poco Espacio
 - Instalación Plug-And-Play
+- Ocupa Poco Espacio
 - Soporte Para Resoluciones De Vídeo De Hasta 1920X1200,1080 P
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

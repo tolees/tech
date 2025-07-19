@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Memoria RAM 8GB*2, DDR5-4800, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
+- Procesador AMD Ryzen 7 7735HS
+- Pantalla de 15,6" FHD(1920x1080), tasa de refresco 144Hz, IPS-Level
 - Gráfica NVIDIA GeForce RTX 4050 Laptop
 - Color chasis Cosmos Gray
-- Memoria RAM 8GB*2, DDR5-4800, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
-- Pantalla de 15,6" FHD(1920x1080), tasa de refresco 144Hz, IPS-Level
-- Procesador AMD Ryzen 7 7735HS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY246HCT{{</world>}}

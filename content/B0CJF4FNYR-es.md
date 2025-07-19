@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla abatible
 - Resolucion 24,5 MP
 - Estabilizador VR 8 puntos
+- Pantalla abatible
 - Camara sensor FX completo
 - Diseño clásico
 

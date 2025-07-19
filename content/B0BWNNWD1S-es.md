@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Más de 100 vehículos y herramientas auténticas de fabricantes de renombre mundial.
-- Las uvas, las aceitunas y el sorgo son nuevos entre los 14 cultivos.
 - Nuevos animales de granja: se incorporan pollos, además de vacas, cerdos, caballos y ovejas.
+- Las uvas, las aceitunas y el sorgo son nuevos entre los 14 cultivos.
 - Opciones de gestión fortalecidas a través de cadenas productivas.
 - Dos mapas: Amberstone (EE. UU.) y Neubrunn (UE).
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 1 unidad de almacenamiento SSD M.2 PCIe
 - Memoria SO-DIMM DDR4 de 8GB
 - Compacto y con montaje VESA
-- 1 unidad de almacenamiento SSD M.2 PCIe
 - Compatible con el diseño de seguridad TPM 2.0
 - Procesador Intel Core i3-13100
 

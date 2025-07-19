@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tejido: punto jersey de algodón ligero
+- Cuello: cuello redondo
 - Serigrafía en parte delantera
 - Corte: corte normal, clásico, cómodo
-- Cuello: cuello redondo
-- Tejido: punto jersey de algodón ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0825NT3FY{{</world>}}

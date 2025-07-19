@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Sencillo de usar
+- Material de calidad
 - Producto para tu ordenador
 
 [🛒 Aquí!!!]({{< param buyurl >}})

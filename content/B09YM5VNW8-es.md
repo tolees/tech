@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: Multicolor
-- Referencia: S9146032
 - Punto de Acceso de la marca Linksys
+- Referencia: S9146032
+- Color: Multicolor
 - Medidas: 5 x 22 x 33 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

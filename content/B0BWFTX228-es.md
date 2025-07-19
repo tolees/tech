@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Almacenamiento de 2TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 4080 12GB GDDR6
-- Procesador Intel Core i9-13980HX (24C/undefined 5.6GHz, 36MB)
 - Memoria RAM de 32GB SO-DIMM DDR5 4800MHz
+- Procesador Intel Core i9-13980HX (24C/undefined 5.6GHz, 36MB)
 - Pantalla de 16" WQXGA 2560 x 1600 pixeles, 240Hz, IPS 1100 nits
 - Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica NVIDIA GeForce RTX 4080 12GB GDDR6
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWFTX228{{</world>}}

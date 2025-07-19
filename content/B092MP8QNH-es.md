@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control de varias funciones de iluminación a través de la aplicación: ajuste continuo de la intensidad y la temperatura de la luz (de blanco frío a blanco cálido), temporizador y cuenta atrás, registros de eventos, iluminación posterior programada
 - El potente Foco WiFi para exteriores de 30W es óptimo para iluminar automáticamente zonas de entrada, entradas o cocheras y para disuadir de robos y hurtos
-- Foco de pared WFD 3050 WiFi con material de montaje incluido para una instalación rápida y sencilla con la aplicación gratuita Brennenstuhl Connect en la banda de 2,4 GHz del router WiFi
 - Proyector de exterior eficiente y duradero con LED SMD Everlight superbrillantes que también se puede controlar por voz gracias a la compatibilidad con los asistentes de voz Alexa y Google Assistant
 - Foco LED inteligente para exteriores (IP54) con 3500lm que puede controlarse fácilmente a través de la aplicación gratuita Brennenstuhl Connect gracias al módulo WiFi integrado (2,4 GHz), con acceso a Internet en cualquier momento y desde cualquier lugar
+- Control de varias funciones de iluminación a través de la aplicación: ajuste continuo de la intensidad y la temperatura de la luz (de blanco frío a blanco cálido), temporizador y cuenta atrás, registros de eventos, iluminación posterior programada
+- Foco de pared WFD 3050 WiFi con material de montaje incluido para una instalación rápida y sencilla con la aplicación gratuita Brennenstuhl Connect en la banda de 2,4 GHz del router WiFi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B092MP8QNH{{</world>}}

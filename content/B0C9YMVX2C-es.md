@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta de video
 - Modelo: ZT-D40600E-10M
 - Requiere instalación
+- Tarjeta de video
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9YMVX2C{{</world>}}

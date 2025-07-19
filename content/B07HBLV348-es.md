@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pc para juegos
 - Fácil de usar
+- Pc para juegos
 - Producto practico
 - Producto de alta calidad
 

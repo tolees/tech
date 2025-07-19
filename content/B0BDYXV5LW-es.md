@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 4096 niveles de detección de presión e inclinación, el Lenovo Active Pen 3 (2023) ofrece a los usuarios el más alto nivel de precisión y control mientras dibujan o simplemente toman notas
-- Batería de duración extrema
 - Compatible con: Tab M10 PLUS (3rd Gen), Tab P11 Plus, Tab P11 (2nd Gen), Tab P11 Pro
+- Batería de duración extrema
 - Compatibilidad mejorada
+- Con 4096 niveles de detección de presión e inclinación, el Lenovo Active Pen 3 (2023) ofrece a los usuarios el más alto nivel de precisión y control mientras dibujan o simplemente toman notas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDYXV5LW{{</world>}}

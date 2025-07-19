@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Admite QoS / DSCP de acuerdo con IEEE802.1p e IGMP snooping; Plug and Play, no requiere configuración；TL SG116 16 puertos 10/100/1000 Mbps Interruptor de escritorio, adaptador de corriente, instrucciones (no puedo garantizar que estén en inglés - Pies de goma)
-- 16 puertos Gigabit RJ45 con sintonización automática y MDI / MDIX automático; Green It, ahorra energía
 - Carcasa metálica para la superficie de la mesa o montaje en pared
 - Control de flujo de datos nach IEEE 802.3x para una transferencia de datos confiable
+- 16 puertos Gigabit RJ45 con sintonización automática y MDI / MDIX automático; Green It, ahorra energía
 - Tipo de conectividad: inalámbrico
+- Admite QoS / DSCP de acuerdo con IEEE802.1p e IGMP snooping; Plug and Play, no requiere configuración；TL SG116 16 puertos 10/100/1000 Mbps Interruptor de escritorio, adaptador de corriente, instrucciones (no puedo garantizar que estén en inglés - Pies de goma)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FY23LW7{{</world>}}

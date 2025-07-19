@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sintonizador LED / Digital
 - Con iluminación LED
-- Altavoz de amplio rango 10 cm
-- Amplio DIAL con indicador
-- Sintonizador digital con control de auto frecuencia (AFC)
-- Potencia de salida de 770 mW
-- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
-- Puntero fosforescente
 - Asa para transportarlo - Para podértelo llevar donde quieras
+- Sintonizador LED / Digital
+- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
+- Sintonizador digital con control de auto frecuencia (AFC)
+- Puntero fosforescente
+- Amplio DIAL con indicador
+- Altavoz de amplio rango 10 cm
+- Potencia de salida de 770 mW
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XWZ41RT{{</world>}}

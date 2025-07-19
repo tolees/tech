@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Opciones de almacenamiento flexibles: Los vídeos pueden guardarse en la tarjeta microSD (hasta 256 GB, no incluida) y en el NVR de Reolink, o subirse a Reolink Cloud
 - Claridad tanto durante día & noche: La resolución 2K 4MP le permite ver los detalles más finos. No se pierda nada ni siquiera de noche con la brillante visión nocturna de hasta 12 m
-- WiFi de doble banda: La cámara funciona con WiFi de 2,4 GHz y 5 GHz para un rendimiento de red superior. Puede elegir diferentes bandas de WiFi para adaptarte a sus necesidades
-- Detección y alertas de personas/mascotas: La cámara puede detectar personas y mascotas y enviarle notificaciones correspondientes en tiempo real. Manténgase siempre informado
 - Sigue la acción: Cuando se detecta movimiento, la cámara enfoca y sigue automáticamente el objeto en movimiento. Nunca se perderá ningún momento importante
+- WiFi de doble banda: La cámara funciona con WiFi de 2,4 GHz y 5 GHz para un rendimiento de red superior. Puede elegir diferentes bandas de WiFi para adaptarte a sus necesidades
+- Opciones de almacenamiento flexibles: Los vídeos pueden guardarse en la tarjeta microSD (hasta 256 GB, no incluida) y en el NVR de Reolink, o subirse a Reolink Cloud
+- Detección y alertas de personas/mascotas: La cámara puede detectar personas y mascotas y enviarle notificaciones correspondientes en tiempo real. Manténgase siempre informado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08S6TKP26{{</world>}}

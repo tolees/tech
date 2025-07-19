@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apertura máxima de F1.8 para capturas con poca luz
 - Lente teleobjetivo de rango medio
-- Estabilización de imagen de SteadyShot óptica integrada
-- Lente para retratos de 50 mm
 - Apertura circular de 7 láminas para obtener un atractivo efecto de desenfoque
+- Apertura máxima de F1.8 para capturas con poca luz
+- Lente para retratos de 50 mm
+- Estabilización de imagen de SteadyShot óptica integrada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EPWC30O{{</world>}}

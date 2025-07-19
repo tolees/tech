@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Sin Sistema Operativo
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 250 nits
 - Memoria RAM de 16GB DDR4
+- Sin Sistema Operativo
 - Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG9PV5J{{</world>}}
