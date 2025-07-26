@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 14" FHD (1920x1080) TN 250nits Anti-glare
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
-- Procesador Intel Celeron Intel Core i3-1115G4 (2C / 4T, 3.0 / 4.1GHz, 6MB)
-- W10 Home 64
-- Memoria RAM 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) S
 - Tarjeta gráfica Integrated Intel UHD Graphics
+- W10 Home 64
+- Procesador Intel Celeron Intel Core i3-1115G4 (2C / 4T, 3.0 / 4.1GHz, 6MB)
+- Memoria RAM 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) S
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
+- Pantalla de 14" FHD (1920x1080) TN 250nits Anti-glare
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SZTC7Y4{{</world>}}

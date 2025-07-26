@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La montura rf te ofrece un rendimiento con unos niveles de detalle impresionantes en tus imágenes, además de un perfil dlo integrado para optimización del objetivo en cámara
 - Lleva tus retratos al siguiente nivel con un objetivo rf, compacto y ligero que no solo favorece a los sujetos sino que te ayuda a descubrir hermosos detalles
+- Con su longitud focal de 85 mm, este objetivo es para realizar retratos favorecedores, ya que produce resultados elegantes con hermosos fondos suaves con una gran abertura de f/2
 - Enfoque hasta 35 cm y macro de 0.5 x para descubrir detalles precisos, capturando imágenes con una nitidez en toda el área con la elevada abertura mínima de f/29
 - Un motor stm ofrece un enfoque automático suave y silencioso, mientras el anillo de control del objetivo permite un gran control sobre la configuración; crea áreas desenfocadas suaves con la abertura de nueve hojas
+- La montura rf te ofrece un rendimiento con unos niveles de detalle impresionantes en tus imágenes, además de un perfil dlo integrado para optimización del objetivo en cámara
 - Pierna focal máxima: 85.0 milímetros
-- Con su longitud focal de 85 mm, este objetivo es para realizar retratos favorecedores, ya que produce resultados elegantes con hermosos fondos suaves con una gran abertura de f/2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CMSSTNM{{</world>}}

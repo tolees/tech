@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño premium con respaldo de cristal Gran pantalla de 90 Hz inmersivo y fluido de 6,79 pulgadas
 - Uso fluido con el potente MediaTek Helio G88 Almacenamiento ampliable hasta 1000 GB a través de MicroSD
+- Diseño premium con respaldo de cristal Gran pantalla de 90 Hz inmersivo y fluido de 6,79 pulgadas
 - Triple cámara trasera de 50MP con IA Imágenes nítidas en cualquier situación
 - Tecnología celular: 4G
 

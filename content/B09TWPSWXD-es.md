@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- producto 1: Descárgate su App exclusiva gratuíta con más de 30 plantillas
-- producto 2: Tamaño de la foto de 54 x 86 mm, y de la imagen de 46 x 62 mm
-- producto 2: La emulsión funciona a temperaturas mínimas de 5° c y máximas de 40° c
-- producto 1: Utiliza nuestra película de formato panorámico instax WIDE. Tamaño de la foto 108 (ancho) x 86 (alto)mm, tamaño de la imagen 99 (ancho) x 62 (alto) mm
-- producto 1: Impresora portátil instax que te permite crear impresiones directamente desde tu teléfono. Puedes imprimir también desde Facebook, instagram o con una cámara compatible de la serie X de Fujifilm
-- producto 2: Tiempo de revelado de máximo 5 min
 - producto 1: Conéctala con tu teléfono a través de Bluetooth
+- producto 1: Impresora portátil instax que te permite crear impresiones directamente desde tu teléfono. Puedes imprimir también desde Facebook, instagram o con una cámara compatible de la serie X de Fujifilm
+- producto 2: La emulsión funciona a temperaturas mínimas de 5° c y máximas de 40° c
 - producto 2: Compatible con todos los modelos de cámara s mini de instax
+- producto 2: Tiempo de revelado de máximo 5 min
+- producto 2: Tamaño de la foto de 54 x 86 mm, y de la imagen de 46 x 62 mm
+- producto 1: Descárgate su App exclusiva gratuíta con más de 30 plantillas
+- producto 1: Utiliza nuestra película de formato panorámico instax WIDE. Tamaño de la foto 108 (ancho) x 86 (alto)mm, tamaño de la imagen 99 (ancho) x 62 (alto) mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TWPSWXD{{</world>}}

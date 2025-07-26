@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, IPS, 250 nits, 60 Hz, antirreflejos
-- Sin sistema operativo
 - Almacenamiento de 512 GB SSD, ampliables hasta 1TB
 - Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
+- Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, IPS, 250 nits, 60 Hz, antirreflejos
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4 GB GDDR6, Boost Clock 15001635M Hz, TGP 85W
+- Sin sistema operativo
 - Procesador AMD Ryzen 5 5600H
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

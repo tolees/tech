@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfoque automático VXD
 - Tamron Utilidad de lentes
 - Alta intensidad lumínica
-- Construcción impermeable
-- Alta calidad de imagen
 - Nota: Compruebe periódicamente el mal funcionamiento del ajuste de enfoque o de la función de enfoque AF/lente de enfoque.
+- Construcción impermeable
+- Enfoque automático VXD
+- Alta calidad de imagen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HL2G1ZG{{</world>}}

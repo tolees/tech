@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ámbitos de aplicación: paisaje, viajes, naturaleza, luz baja y arquitectura, retrato; equivalente a un objetivo de 34 mm 35 mm
-- El diseño delgado y la robusta carcasa metálica del objetivo impresiona por su ligereza compacta
-- El anillo de enfoque deslizante permite un cambio rápido entre el enfoque automático y el enfoque manual
 - El gran angular de 17 mm con un gran f-stop de F1.8 es óptimo para disparar con poca luz
+- El diseño delgado y la robusta carcasa metálica del objetivo impresiona por su ligereza compacta
 - Óptimo acabado, bayoneta de metal de alta calidad y límite de acercamiento para la fotografía macro
+- Ámbitos de aplicación: paisaje, viajes, naturaleza, luz baja y arquitectura, retrato; equivalente a un objetivo de 34 mm 35 mm
+- El anillo de enfoque deslizante permite un cambio rápido entre el enfoque automático y el enfoque manual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CPLQ5R4{{</world>}}

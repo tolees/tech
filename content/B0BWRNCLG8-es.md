@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color blanco
+- SMARTPHONE XIAOMI REDMI NOTE 12 PRO 6.67FHD 5G NFC 8GB 256GB BLANCO SMARTPHONE XIAOMI REDMI NOTE 12 PRO 6.67FHD 5G NFC 8GB 256GB BLANCO
 - Marca: ATI Technologies
 - Tipo de producto: COMPONENTE DE ORDENADOR
-- SMARTPHONE XIAOMI REDMI NOTE 12 PRO 6.67FHD 5G NFC 8GB 256GB BLANCO SMARTPHONE XIAOMI REDMI NOTE 12 PRO 6.67FHD 5G NFC 8GB 256GB BLANCO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWRNCLG8{{</world>}}

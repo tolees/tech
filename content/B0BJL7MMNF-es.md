@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Delgado factor de forma M.2 2280
+- Increíble rendimiento NVMe PCIe Gen 4x4
 - Altas capacidades de hasta 4 TB ²
 - Disponible con disipador térmico o con difusor térmico de bajo perfil
-- Increíble rendimiento NVMe PCIe Gen 4x4
-- Delgado factor de forma M.2 2280
 - PS5 Ready
 
 [🛒 Visítala!!!]({{< param buyurl >}})

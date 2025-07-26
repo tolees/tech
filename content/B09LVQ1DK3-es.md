@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño resistente al polvo y a las salpicaduras
-- Permite disparar a temperaturas de hasta -10 °C
 - El objetivo LUMIX S F1.8 de 35 mm está diseñado para poder seguir disparando en las condiciones más adversas
+- Permite disparar a temperaturas de hasta -10 °C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09LVQ1DK3{{</world>}}

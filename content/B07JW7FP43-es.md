@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funda para Ereader Libro Electrónico
 - color : Ballons
+- Funda para Ereader Libro Electrónico
 - material : Poliuretano termoplástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

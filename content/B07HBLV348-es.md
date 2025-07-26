@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Producto de alta calidad
 - Pc para juegos
-- Producto practico
 - Fácil de usar
+- Producto practico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HBLV348{{</world>}}

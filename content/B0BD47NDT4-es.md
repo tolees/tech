@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Smartphone marca Motorola, color negro
-- 2 años de garantía del fabricante
 - MOTO EDGE30 FUSION 8128 nero
 - Descripción de la cámara: Frontal
+- 2 años de garantía del fabricante
+- Smartphone marca Motorola, color negro
 - Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

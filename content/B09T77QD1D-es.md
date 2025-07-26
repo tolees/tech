@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Procesador Intel Core i5-11300H (4C/QuadCore 3.1 / 4.4GHz, 8MB)
-- Memoria RAM de 16GB SO-DIMM DDR4
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
 - Sistema Operativo: Windows 11 Home
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB SO-DIMM DDR4
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED 600 nits
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T77QD1D{{</world>}}

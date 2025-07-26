@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene una altura de 285 mm
-- El rango de frecuencia es de 76-26000 Hz
 - Sensibilidad de 85 dB e obstrucción de 8 Ohm
+- El rango de frecuencia es de 76-26000 Hz
+- Tiene una altura de 285 mm
 - Altavoces con una potencia RMS de 120 W
 
 [🛒 Comprar!!!]({{< param buyurl >}})

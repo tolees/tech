@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería: hasta 11 días
 - Pantalla de 1.91 pulgadas
+- Batería: hasta 11 días
 - Estructura de acero inoxidable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

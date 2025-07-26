@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - [Pantalla hiperbrillante de 6000 nits] La pantalla más brillante jamás vista en un smartphone. Mediante el uso de materiales luminiscentes de vanguardia, el GT 6T despliega una experiencia de visualización que ofrece legibilidad superior con un brillo máximo de 6000 nits
 - [Diseño de nanoespejo]Tecnología punta en todos los sentidos. Con aspecto de titanio y una superficie de nanoespejo, las dos texturas contrastantes se combinan para ofrecer una estética mucho más que prémium.
-- [Carga SUPERVOOC de 120 W Gran batería de 5500 mAh]La combinación de varias tecnologías de vanguardia permite obtener el máximo ahorro energético, ya que aporta una mejora de la capacidad de la batería equivalente a 300 mAh, lo que supone una capacidad de la batería de 5800 mAh capaz de aguantar 1,88 días ⁹de uso normal. Incluso con el mismo nivel de fluidez, el realme GT 6T reduce el consumo de energía en un 20 %: un auténtico avance en la duración de la batería.
 - [Procesador insignia Snapdragon 7+ de 3.ª generación] Te presentamos el procesador 8 de 3.ª generación Lite. Disfruta de la misma potencia insignia: este procesador está equipado con gran parte del mismo hardware que el Snapdragon 8 de 3.ª generación
+- [Carga SUPERVOOC de 120 W Gran batería de 5500 mAh]La combinación de varias tecnologías de vanguardia permite obtener el máximo ahorro energético, ya que aporta una mejora de la capacidad de la batería equivalente a 300 mAh, lo que supone una capacidad de la batería de 5800 mAh capaz de aguantar 1,88 días ⁹de uso normal. Incluso con el mismo nivel de fluidez, el realme GT 6T reduce el consumo de energía en un 20 %: un auténtico avance en la duración de la batería.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2L42BX9{{</world>}}

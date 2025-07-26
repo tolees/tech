@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Ideal para smartphones y tabletas Android, cámaras de acción y drones
-- Nota: para obtener asistencia, comuníquese con support@sandisk.com
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
+- Ideal para smartphones y tabletas Android, cámaras de acción y drones
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Nota: para obtener asistencia, comuníquese con support@sandisk.com
 - Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [ Calidad de Sonido Superior ] Con conductores de cobre sin oxígeno y triple apantallamiento, el cable de micrófono XLR protege la señal de audio de pérdidas y proporciona un sonido ultra nítido y sin ruidos.
-- [ Cable XLR Macho a Hembra ] Este cable XLR balanceado está diseñado para conectar dispositivos con puertos XLR y es compatible con una amplia gama de equipos, como micrófonos, mezcladores, altavoces, amplificadores, consolas, alimentación fantasma y equipos de grabación.También se puede utilizar como cable de micrófono y como cable de señal DMX para un mezclador.
 - [ Robusto y Duradero ] Este cable canon puede soportar más de 10.000 inserciones y 10.000 dobleces, por lo que podrá utilizarlo sin preocuparse de dañarlo al desenchufar el conector.
+- [ Cable XLR Macho a Hembra ] Este cable XLR balanceado está diseñado para conectar dispositivos con puertos XLR y es compatible con una amplia gama de equipos, como micrófonos, mezcladores, altavoces, amplificadores, consolas, alimentación fantasma y equipos de grabación.También se puede utilizar como cable de micrófono y como cable de señal DMX para un mezclador.
 - [ Materiales de alta calidad ] El cable DMX de 6 mm de diámetro es más resistente y duradero. La cubierta de PVC proporciona protección adicional contra daños y abrasión.
 - [ Conexión Sólida ] El conector metálico tiene un diseño exclusivo que evita que el cable se desconecte por contacto con el enchufe. El cable sólo se desconectará cuando se pulse el botón de desconexión.
 

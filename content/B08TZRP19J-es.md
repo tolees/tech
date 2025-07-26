@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BATERÍA DE LARGA DURACIÓN. Con hasta 35 horas con una sola carga, cuando la cancelación activa de ruido está activada. Hasta 40 horas con la cancelación de ruido desactivada. Auriculares Bluetooth, Beoplay HX supera los límites para disfrutar más tiempo de tu música.
 - POTENTE ANC. Una nueva generación híbrida de cancelación activa de ruido compensa el ruido de fondo, sumergiéndole completamente en el sonido con Auriculares con cancelación de ruido inalámbricos.
 - PERFECTO PARA TELETRABAJAR. Con batería de larga duración, comodidad óptima, cuatro micrófonos y ANC, Beoplay HX es perfecto para el despacho en casa.
-- AUDIO INSPIRADOR. El rendimiento equilibrado de graves y agudos con una nítida gama media brinda música que se disfruta como la concibió el artista.
+- BATERÍA DE LARGA DURACIÓN. Con hasta 35 horas con una sola carga, cuando la cancelación activa de ruido está activada. Hasta 40 horas con la cancelación de ruido desactivada. Auriculares Bluetooth, Beoplay HX supera los límites para disfrutar más tiempo de tu música.
 - AURICULARES EXTREMADAMENTE CÓMODOS INALÁMBRICO. Ideados para usarse durante mucho tiempo, Beoplay HX tiene un diseño cómodo y ligero y un control táctil elegante.
+- AUDIO INSPIRADOR. El rendimiento equilibrado de graves y agudos con una nítida gama media brinda música que se disfruta como la concibió el artista.
 - ELEGANCIA ATEMPORAL. La estética escandinava garantiza un diseño minimalista que complementa un ajetreado estilo de vida y un fuerte estilo personal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

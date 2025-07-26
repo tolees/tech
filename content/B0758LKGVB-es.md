@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Máxima Potencia 250W
-- Altavoces serie G de 13 cm y 2 vías
 - Rango de Frecuencias 37Hz - 27KHz
+- Altavoces serie G de 13 cm y 2 vías
+- Máxima Potencia 250W
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0758LKGVB{{</world>}}

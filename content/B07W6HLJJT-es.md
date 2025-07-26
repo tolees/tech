@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Diseño sencillo y funcional
+- Producto de calidad óptima
 - Teclado inalámbrico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

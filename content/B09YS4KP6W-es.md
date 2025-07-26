@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte ergonómico: mueve la pantalla a tu gusto y experimenta una comodidad sin igual en tus juegos
 - El monitor compatible con G-Sync tiene una frecuencia de actualización de 240 Hz y un tiempo de respuesta de 1 ms
 - El panel IPS te permite experimentar los colores con nitidez y con un amplio ángulo de visión de 178º, para una mayor claridad desde cualquier punto de vista
+- Soporte ergonómico: mueve la pantalla a tu gusto y experimenta una comodidad sin igual en tus juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YS4KP6W{{</world>}}

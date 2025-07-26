@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Control sobre aplicación LEDVANCE SMART+ WiFi (desde Android 4.4 o desde iOS 9.0)
 - Este modelo no rastrea el consumo de energía
 - Integra dispositivos eléctricos convencionales en sistemas domésticos inteligentes compatibles
+- Control a través de Google Assistant o Amazon Alexa posible
 - Fácil conexión de dispositivos eléctricos a través de un enchufe estándar
-- Permite el encendido de lámparas convencionales y otros dispositivos eléctricos
-- Control a través del LEDVANCE Posibilidad de control remoto SMART + WiFi
-- Control sobre aplicación LEDVANCE SMART+ WiFi (desde Android 4.4 o desde iOS 9.0)
 - Alta capacidad de conmutación de hasta 3.680 W / 16 A.
 - Protocolo de red WiFi
-- Control a través de Google Assistant o Amazon Alexa posible
+- Permite el encendido de lámparas convencionales y otros dispositivos eléctricos
+- Control a través del LEDVANCE Posibilidad de control remoto SMART + WiFi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YR4KRGX{{</world>}}

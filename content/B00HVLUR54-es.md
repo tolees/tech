@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Respuesta plana para conseguir una monitorización extremadamente precisa en toda la gama de frecuencias
 - Diseño circumaural que cubre todo el oído para conseguir un excelente aislamiento en entornos ruidosos. Almohadillas y diadema fabricados con materiales profesionales para ofrecer una mayor duración y comodidad
-- Audífonos que rotan 90° para facilitar la escucha a través de un único audífono
 - Transductores de 40 mm con imanes de tierras raras y bobinas con hilo de aluminio recubierto de cobre
+- Audífonos que rotan 90° para facilitar la escucha a través de un único audífono
 - Cables desmontables, incluye un cable en espiral de 1,2-3 m y un cable recto de 3 m
 
 [🛒 Comprar!!!]({{< param buyurl >}})

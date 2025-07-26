@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interruptores mecánicos duraderos para gaming con 50 millones de pulsaciones garantizadas
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Aleación de aluminio aeronáutico irrompible, fabricada para durar toda la vida
 - La distribución de teclado de este producto es americano QWERTY
-- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
 - El reposamuñecas magnético de calidad ofrece apoyo total para las palmas y comodidad plena
+- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
+- Interruptores mecánicos duraderos para gaming con 50 millones de pulsaciones garantizadas
 - El Smart Display OLED muestra los perfiles, la info del juego, mensajes Discord, temas de Spotify
 
 [🛒 Comprar!!!]({{< param buyurl >}})

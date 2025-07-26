@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 32 GB RAM; 1000 GB SSD Disco duro
-- Windows 11 Home; Gráficos Intel Arc
-- Pantalla OLED 2,8 K de 35,6 cm (14 pulgadas) en diagonal - Corning Gorilla Glass
-- Intel Unison; IMAX Enhaced; Audio B&O
 - Intel Evo Core 7 155H (hasta 4,8 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 16 núcleos, 22 subprocesos)
+- Pantalla OLED 2,8 K de 35,6 cm (14 pulgadas) en diagonal - Corning Gorilla Glass
+- Windows 11 Home; Gráficos Intel Arc
+- 32 GB RAM; 1000 GB SSD Disco duro
+- Intel Unison; IMAX Enhaced; Audio B&O
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQLVF4DM{{</world>}}

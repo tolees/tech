@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel IPS SuperSpeed de 24.5 pulgadas con resolución FHD
-- Soporta AMD FreeSync Premium, HDR Listo, Eyesafe 2.0
-- Diseño ergonómico: Ajustes de inclinación
 - Saturación de color: 120% sRGB
+- Panel IPS SuperSpeed de 24.5 pulgadas con resolución FHD
+- Diseño ergonómico: Ajustes de inclinación
+- Soporta AMD FreeSync Premium, HDR Listo, Eyesafe 2.0
 - Tasa de refresco de 200Hz, tiempo de respuesta de 1ms
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

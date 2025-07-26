@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Control total sobre la profundidad de campo y las condiciones de iluminación gracias al objetivo brillante con una amplia apertura F1.8
 - Contenido del embalaje: objetivo, tapa del objetivo LC-79, tapa del objetivo LR-2 MFT (trasera), bolsa del objetivo LSC-0914, tarjeta de garantía, instrucciones de uso
 - Ámbitos de aplicación: paisaje, viaje, naturaleza, luz baja y retrato; equivalente a un objetivo de 50 mm 35 mm
+- Control total sobre la profundidad de campo y las condiciones de iluminación gracias al objetivo brillante con una amplia apertura F1.8
 - Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
 - Los límites de acercamiento de aprox. 0.25 m proporcionan posibilidades de disparo desde cualquier ángulo
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es adecuado tanto para sistemas automotrices como domésticos
-- Cable de altavoz
 - Conductor interno CCA
+- Cable de altavoz
+- Es adecuado tanto para sistemas automotrices como domésticos
 - Sección del cable de 2 x 0.5 mm²
 
 [🛒 Aquí!!!]({{< param buyurl >}})

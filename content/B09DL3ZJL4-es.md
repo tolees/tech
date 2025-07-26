@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Xiaomi K3S MI 11T Pro 8+256 Meteorite Gray
-- Material resistente y duradero
 - Fácil de usar
+- Material resistente y duradero
+- Xiaomi K3S MI 11T Pro 8+256 Meteorite Gray
 - Se puede utilizar durante mucho tiempo sin cambiar la naturaleza del producto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

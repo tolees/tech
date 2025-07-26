@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sistema operativo Windows 11 Home
 - Memoria RAM DDR4-2400 MHz 8 GB (1 x 8 GB) con velocidades de transferencia de hasta 2400 MT/s
 - Gráficos Integrados Intel UHD 600
-- Almacenamiento SSD de 256 GB PCIe NVMe M.2; Lector de tarjetas SD multiformato HP
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 220 nits, 45 % NTSC (1920 x 1080)
-- Sistema operativo Windows 11 Home
+- Almacenamiento SSD de 256 GB PCIe NVMe M.2; Lector de tarjetas SD multiformato HP
 - Procesador Intel Celeron N4120 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,6 GHz, 4 MB de caché L2, 4 núcleos)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador AMD Ryzen 5 7535HS
-- Free DOS
-- Memoria RAM 16GB (8GB2) DDR5
 - Almacenamiento de 512GB NVMe PCIe SSD Gen4x4 w/o DRAM
+- Free DOS
+- Procesador AMD Ryzen 5 7535HS
+- Memoria RAM 16GB (8GB2) DDR5
 - Panel 15.6" FHD (19201080), 144Hz 45%NTSC IPS-Level
 
 [🛒 Visítala!!!]({{< param buyurl >}})

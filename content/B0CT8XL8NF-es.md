@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Memoria RAM de 16GB
 - Pantalla de 16", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil y S Pen, Vision Booster
 - Sistema operativo Windows 11 Home
 - Tarjeta gráfica Intel ARC Graphics
-- Memoria RAM de 16GB
 - Almacenamiento de 512GB SSD
 - Procesador Intel Core Ultra 5 125H, Hasta 4.5 GHz, 18MB L3 Cache
 

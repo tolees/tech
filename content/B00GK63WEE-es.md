@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funciones de ahorro energético
-- Función de optimización del rendimiento QoS (Calidad del Servicio)
-- Rendimiento Gigabit para minimizar los tiempos de transferencia
 - 8 puertos Gigabit Ethernet de autodetección
 - Cumple con el estándar EEE (Energy Efficient Ethernet) 802.3az
+- Función de optimización del rendimiento QoS (Calidad del Servicio)
+- Rendimiento Gigabit para minimizar los tiempos de transferencia
+- Funciones de ahorro energético
 - Conexión sencilla Plug & Play
 
 [🛒 Aquí!!!]({{< param buyurl >}})

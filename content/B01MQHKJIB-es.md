@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con Apple iPhone, iPad, iPod, Watch (todos los modelos) y todos los dispositivos Android.
 - Inspirado en la forma de discos de vinilo: el original diseño circular está hecho de metal trabajado y va acompañado de un cable de tejido trenzado
 - Engancha los discos magnéticos alrededor de tu cuello para complementar cualquier atuendo y estar siempre listo para contestar una llamada telefónica o escuchar tu lista de reproducción favorita.
-- Compatible con Apple iPhone, iPad, iPod, Watch (todos los modelos) y todos los dispositivos Android.
 - Sonido envolvente de calidad superior con graves profundos y libertad inalámbrica.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

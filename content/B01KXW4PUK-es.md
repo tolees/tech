@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iluminación inteligente integrada: te ayuda a ahuyentar a los intrusos e ilumina tu camino por la noche
-- NETATMO ASISTENCIA: si necesitas ayuda para instalar o usar tu producto, visita nuestra asistencia en helpcenter
-- Notificaciones inmediatas en tu SmartPhone en caso de intrusión: alerta en tiempo real en caso de detección de una persona o de un vehículo desconocido en tu propiedad
 - Compatible con Amazon Alexa, Apple Homekit, Apple Homekit Secure Video, el Asistente de Google; controla tu Cámara con tu voz y crea escenarios con otros objetos conectados
-- Sin costes de suscripción: accede a todas las funcionalidades, las actualizaciones y el almacenamiento de forma gratuita
-- Alertas precisas y personalizables: persona, vehículo o animal; con la función Alert-Zones, define las zonas que deseas vigilar y el tipo de intrusión del que quieres ser informado
-- Tus datos 100 % protegidos: tus datos se guardan y protegen localmente en la tarjeta microSD incluida
 - Vigilancia continua: accede a las imágenes HD de tu cámara en streaming o en tiempo real, 24/7, incluso de noche gracias a la visión nocturna
+- NETATMO ASISTENCIA: si necesitas ayuda para instalar o usar tu producto, visita nuestra asistencia en helpcenter
+- Sin costes de suscripción: accede a todas las funcionalidades, las actualizaciones y el almacenamiento de forma gratuita
+- Tus datos 100 % protegidos: tus datos se guardan y protegen localmente en la tarjeta microSD incluida
+- Iluminación inteligente integrada: te ayuda a ahuyentar a los intrusos e ilumina tu camino por la noche
+- Notificaciones inmediatas en tu SmartPhone en caso de intrusión: alerta en tiempo real en caso de detección de una persona o de un vehículo desconocido en tu propiedad
+- Alertas precisas y personalizables: persona, vehículo o animal; con la función Alert-Zones, define las zonas que deseas vigilar y el tipo de intrusión del que quieres ser informado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01KXW4PUK{{</world>}}

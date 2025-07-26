@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICO, INALÁMBRICO Y RECARGABLE — El Magic Keyboard se conecta a tu Mac, iPad o iPhone por Bluetooth. Y como funciona con batería, no tendrás que preocuparte de cambiar las pilas.
 - MÁXIMA FLUIDEZ AL ESCRIBIR — El Magic Keyboard te permite escribir con total precisión y comodidad.
-- CABLE DE CARGA INCLUIDO — Viene con un cable de diseño trenzado de USB‑C a Lightning para enlazarlo y cargarlo a través del puerto USB‑C de tu Mac o iPad.
+- PRÁCTICO, INALÁMBRICO Y RECARGABLE — El Magic Keyboard se conecta a tu Mac, iPad o iPhone por Bluetooth. Y como funciona con batería, no tendrás que preocuparte de cambiar las pilas.
 - REQUISITOS DEL SISTEMA — Funciona con ordenadores Mac con macOS 11.3 o posterior, dispositivos iPad con iPadOS 14.5 o posterior y dispositivos iPhone o iPod touch con iOS 14.5 o posterior.
 - COMPATIBLE CON EL MAC, IPAD Y IPHONE — Se enlaza rápidamente a tu dispositivo para que puedas ponerte a trabajar enseguida.
+- CABLE DE CARGA INCLUIDO — Viene con un cable de diseño trenzado de USB‑C a Lightning para enlazarlo y cargarlo a través del puerto USB‑C de tu Mac o iPad.
 - BATERÍA DE LARGA DURACIÓN — Gracias a su batería integrada de gran autonomía, podrás despreocuparte de cargar el teclado durante un mes o más. (La duración de la batería varía en función del uso.)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Soporta DisplayHDR 400, AMD FreeSync Premium
+- Panel VA de 34 pulgadas 1500R con resolución 21:9 WQHD
+- Saturación de color: 90% DCI-P3 / 120% sRGB
+- Tasa de refresco de 180Hz, tiempo de respuesta de 1ms
 - Diseño ergonómico: Ajustes de inclinación y altura
 - Profundidad de color: 8 bits
-- Saturación de color: 90% DCI-P3 / 120% sRGB
-- Panel VA de 34 pulgadas 1500R con resolución 21:9 WQHD
-- Soporta DisplayHDR 400, AMD FreeSync Premium
-- Tasa de refresco de 180Hz, tiempo de respuesta de 1ms
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVLN244{{</world>}}
