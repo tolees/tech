@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Soporte convertible para visualización vertical y horizontal
+- Fácil acceso a botones y puertos
 - Protección completa
 - Portabolígrafos integrado
 - Acabado cómodo de poliuretano
-- Fácil acceso a botones y puertos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQR9685C{{</world>}}

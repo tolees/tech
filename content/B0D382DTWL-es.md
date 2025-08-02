@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería y carga：5000mAh (typ)，90W turbo charging
-- Cámara principal de 50MP/Cámara ultra gran angular de 8MP/Cámara frontal de 20MP
+- Pantalla DotDisplay CrystalRes 1.5K Flow AMOLED de 6,67 pulgadas
 - Procesador：Plataforma móvil Snapdragon 8s Gen 3。Qualcomm AI Engine
 - Dual SIM, dual standby（5G+5G，5G+4G）
-- Pantalla DotDisplay CrystalRes 1.5K Flow AMOLED de 6,67 pulgadas
+- Batería y carga：5000mAh (typ)，90W turbo charging
+- Cámara principal de 50MP/Cámara ultra gran angular de 8MP/Cámara frontal de 20MP
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D382DTWL{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Real arcade controls - Illuminated 1P and 2P volcano buttons
-- Matching Riser
 - Light-Up Marquee
+- Real arcade controls - Illuminated 1P and 2P volcano buttons
 - 14 classic Atari games
+- Matching Riser
 - WiFi Rankings
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

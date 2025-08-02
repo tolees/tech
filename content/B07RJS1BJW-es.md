@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección de movimiento
 - Norma IP66
-- Notificación de alerta
-- Calidad de imagen 4Mp
 - Visión infrarroja de 20 m
+- Notificación de alerta
+- Detección de movimiento
+- Calidad de imagen 4Mp
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RJS1BJW{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Obtendrás una visión general del sueño, el estado de VFC y la sesión de entrenamiento diaria con tu morning report.
-- Desafía tus límites con la función de triatlón integrada y más de 30 perfiles de actividad.
 - Planifica tu estrategia con sesiones de entrenamiento diarias recomendadas, detalles del trayecto y mucho más en el widget de carrera.
 - Paga el café después del entrenamiento con los pagos contactless de Garmin Pay.
+- Desafía tus límites con la función de triatlón integrada y más de 30 perfiles de actividad.
 - Descarga hasta 500 canciones, así como listas de reproducción, de tus cuentas de Spotify, Deezer o Amazon Music.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

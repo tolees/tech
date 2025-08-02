@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB) con velocidades de transferencia de hasta 3200 MT/s
+- Gráficos Integrados Intel Iris
 - Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Procesador Intel Core i7-1355U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3,10 núcleos,12 subprocesos)
-- Gráficos Integrados Intel Iris
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB) con velocidades de transferencia de hasta 3200 MT/s
 - Sin sistema operativo (FreeDOS 3.0)
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 

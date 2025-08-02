@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- USB Frontal y entrada auxiliar
 - Mixtrax
-- Bluetooth
 - Compatible iPhone y Android (control y carga)
 - Radio Digital DAB
-- USB Frontal y entrada auxiliar
+- Bluetooth
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GGRUGR2{{</world>}}

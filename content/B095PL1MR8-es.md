@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñada para acomodar sistemas de refrigeración de CPU de hasta 165 mm de altura
+- Ofrece espacio suficiente para albergar una tarjeta gráfica de hasta 340 mm
+- 1 USB 2.0 y 3 USB 3.0. ncluye 2 filtros antipolvo
 - Permite instalar un sistema de refrigeración líquida de hasta 360 mm
 - Incluye 3 ventiladores ARGB en el frontal y uno en la trasera
-- 1 USB 2.0 y 3 USB 3.0. ncluye 2 filtros antipolvo
-- Ofrece espacio suficiente para albergar una tarjeta gráfica de hasta 340 mm
-- Diseñada para acomodar sistemas de refrigeración de CPU de hasta 165 mm de altura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095PL1MR8{{</world>}}

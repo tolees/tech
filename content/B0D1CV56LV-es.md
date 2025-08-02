@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El motor sin escobillas de efecto Hall de 300 W proporciona una generación de energía instantánea para un impulso inmediato. Con una potencia máxima de hasta 390 W, este scooter mejora notablemente su capacidad de aceleración, permitiéndole superar pendientes de hasta un 15% con facilidad
 - Los neumáticos de 10 pulgadas aseguran una conducción excepcionalmente suave y confortable, adaptándose sin problemas incluso a superficies irregulares o terrenos difíciles
+- El faro de alto brillo, con un alcance de iluminación de entre 2 y 8 metros, ofrece una visibilidad excelente. La luz trasera, por su parte, incluye señales intermitentes que alertan a peatones y vehículos detrás de usted, incrementando significativamente la seguridad al conducir
 - El scooter incorpora seis mecanismos de protección para la batería, diseñados para extender su durabilidad y asegurar la fiabilidad del vehículo. Estos incluyen protección contra sobrecarga, protección contra sobredescarga, protección ante sobrevoltaje, protección contra sobrecalentamiento, protección contra cortocircuitos y protección contra la sobretensión
 - El freno de tambor combinado con el sistema E-ABS trasero ofrece un frenado altamente eficiente, minimizando la distancia de frenado para garantizar una experiencia de conducción tanto segura como estable
-- El faro de alto brillo, con un alcance de iluminación de entre 2 y 8 metros, ofrece una visibilidad excelente. La luz trasera, por su parte, incluye señales intermitentes que alertan a peatones y vehículos detrás de usted, incrementando significativamente la seguridad al conducir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CV56LV{{</world>}}

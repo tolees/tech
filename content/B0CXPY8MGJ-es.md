@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MediaTek Dimensity 7050 5G Octa-Core 6nm Proceso, ARM Mali-G68 MC4
-- 64MP+8MP+2MP Cámara Triple, 32MP Cámara Frontal.
-- 5000mAh Típico Batería + SUPERVOOC de 67W.
 - Dual Nano SIM, LPDDR4x de 4266 MHz, Altavoces Estéreo Dobles, Bluetooth 5.2, IP65.
+- MediaTek Dimensity 7050 5G Octa-Core 6nm Proceso, ARM Mali-G68 MC4
 - 6,7" OLED Flexible 2,5D 394 PPI FHD+, 120Hz por Defecto.
+- 5000mAh Típico Batería + SUPERVOOC de 67W.
+- 64MP+8MP+2MP Cámara Triple, 32MP Cámara Frontal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CXPY8MGJ{{</world>}}

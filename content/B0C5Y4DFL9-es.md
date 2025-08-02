@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de la marca MSI
 - Ofrece un resultado óptimo y adecuado
 - Material de calidad
+- Producto de la marca MSI
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y4DFL9{{</world>}}

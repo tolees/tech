@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiempo de uso: 12 horas con volumen medio y luces apagadas
 - Completamente libre de cables y micrófono totalmente removible
-- Compatible vía cable: Xbox One/Smartphone
 - Compatible de forma inalámbrica: PC/PS4
 - Efectos de retroiluminación rgb y colores fijos
-- Tiempo de uso: 12 horas con volumen medio y luces apagadas
+- Compatible vía cable: Xbox One/Smartphone
 - Conexión mediante usb o jack de 3.5mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

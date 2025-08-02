@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los resultados y la compatibilidad con el video full HD (1920 x 1080) pueden variar según el dispositivo, los atributos de archivo y otros factores
 - Se ha certificado que este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas de Google LLC
 - Velocidades de transferencia de hasta 100 MB/s
+- Los resultados y la compatibilidad con el video full HD (1920 x 1080) pueden variar según el dispositivo, los atributos de archivo y otros factores
 - Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
 - Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
 - Compatible con microSDHC y microSDXC que admiten dispositivos host

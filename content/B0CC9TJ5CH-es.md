@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL REMOTO: Para un funcionamiento óptimo y un control remoto eficaz, se requiere una conexión Wi-Fi estable a 2,4 GHz. Se recomienda colocar el producto cerca del router Wi-Fi para asegurar una conexión estable y minimizar las interferencias.
-- Ayuda de red: si necesitas ayuda en la instalación o aplicación de tu producto, puedes utilizar nuestro menú de ayuda
-- Avisos precisos y adaptables: ¿una persona, un vehículo o un animal? Con la función de Alert Zones puedes elegir las áreas a supervisar y el tipo de intrusos donde quieras notificar
-- Tus datos 100% seguros: almacenamiento de datos local seguro en la tarjeta microSD incluida en el precio
 - Iluminación inteligente integrada: te muestra el camino por la noche
+- Compatible con: Alexa, Apple Homekit, Google Assistant e IFTTT; controla la cámara con tu voz y crea escenarios con otros dispositivos domésticos inteligentes
+- CONTROL REMOTO: Para un funcionamiento óptimo y un control remoto eficaz, se requiere una conexión Wi-Fi estable a 2,4 GHz. Se recomienda colocar el producto cerca del router Wi-Fi para asegurar una conexión estable y minimizar las interferencias.
+- Avisos precisos y adaptables: ¿una persona, un vehículo o un animal? Con la función de Alert Zones puedes elegir las áreas a supervisar y el tipo de intrusos donde quieras notificar
 - Repele los ingresos: gracias a la alarma de 105 dB integrada en la cámara
 - Todo de contorno: accede a las imágenes HD de tu cámara en la oscuridad gracias a la visión nocturna
-- Compatible con: Alexa, Apple Homekit, Google Assistant e IFTTT; controla la cámara con tu voz y crea escenarios con otros dispositivos domésticos inteligentes
+- Tus datos 100% seguros: almacenamiento de datos local seguro en la tarjeta microSD incluida en el precio
+- Ayuda de red: si necesitas ayuda en la instalación o aplicación de tu producto, puedes utilizar nuestro menú de ayuda
 - Recibe un mensaje inmediato en tu smartphone: recibe una notificación en tiempo real si se detecta una persona desconocida o un vehículo desconocido en su parcela
 - Sin necesidad de ABO: acceso gratuito a todas las funciones, actualizaciones y almacenamiento de datos
 

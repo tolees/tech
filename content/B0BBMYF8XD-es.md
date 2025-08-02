@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 - Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 - Componentes incluidos: Papel
-- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
-- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 - Peso: 242.0 grams
-- Impresora fotográfica compacta con sublimación de tinta
 - Velocidad de impresión color: 1.3 pages_per_minute
+- Impresora fotográfica compacta con sublimación de tinta
+- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBMYF8XD{{</world>}}

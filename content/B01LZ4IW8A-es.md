@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Integral. Estabilizador óptico de imagen
+- Protección contra el polvo y la humedad
 - 3 anillos de ajuste en la lente (enfoque, apertura, zoom)
 - Objetivo de vídeo ideal con amplio rango focal y zoom de potencia
 - SEL-P18110G; Tapa (modelo) ALC-SH148; Tapa de lente delantera; Tapa trasera de lente (ALC-R1EM); Bolsa; Dispositivo de trípode
-- Protección contra el polvo y la humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZ4IW8A{{</world>}}

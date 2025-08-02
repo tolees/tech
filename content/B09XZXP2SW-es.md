@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Panel WQHD DE 27": el Modern MD272QXPW cuenta con un panel IPS de 27" con resolución WQHD (2560 x 1440); una tasa de refresco de 100 Hz optimiza la experiencia visual
 - La aplicación MSI Productivity Intelligence App (P.I.) desbloquea el control de múltiples sistemas KVM a través de una pantalla (optimo para alternar entre sistemas); con soportes VESA de 75 mm para montaje en pared o brazo
-- Orientado al confort de los ojos: la solución MSI EyesErgo incluye la certificación TÜV Rheinland Eye Comfort Less Blue Light PRO y tecnología antiparpadeo, así como el software Eye-Q Check
 - Diseno estilizado y ergonomico: el modern MD272QXPW fue galardonado con el 2021 Red Dot Award al diseño de producto en reconocimiento a su estilizada estética.
 - Conectividad completa: admite control y visualización multisistema con puertos USB Type-C (DP alt. y PD), DisplayPort 1.2a y HDMI 2.0b; los puertos de E/S adicionales incluyen salida de auriculares, así como puertos USB 2.0 Type-A y Type-B
+- Orientado al confort de los ojos: la solución MSI EyesErgo incluye la certificación TÜV Rheinland Eye Comfort Less Blue Light PRO y tecnología antiparpadeo, así como el software Eye-Q Check
+- Panel WQHD DE 27": el Modern MD272QXPW cuenta con un panel IPS de 27" con resolución WQHD (2560 x 1440); una tasa de refresco de 100 Hz optimiza la experiencia visual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XZXP2SW{{</world>}}

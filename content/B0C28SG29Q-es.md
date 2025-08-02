@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Soporte ergonómico con inclinación de pantalla -5° a 15°
 - 2xHDMI 1.4, ZeroFrame
 - Tecnología anti-fragmentación AMD FreeSync
-- Soporte ergonómico con inclinación de pantalla -5° a 15°
 - Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
 - Tiempo de respuesta 1 m/s VRB
 

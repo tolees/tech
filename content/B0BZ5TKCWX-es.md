@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impresionante rendimiento de almacenamiento Gen4: El controlador PCIe Gen4 x4 ofrece velocidades de lectura secuencial de hasta 5.000 MB/s y de escritura secuencial de 4.400 MB/s*, para lograr unos tiempos de lectura, escritura y respuesta excepcionales.
-- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la unidad MP600 CORE XT ofrece un magnífico rendimiento de almacenamiento.
 - Formato compacto M.2 2280, excelente para portátiles: Encaja directamente en casi todas las placas base, lo que implica una gran mejora para todo tipo de portátiles con CPU apta para PCIe Gen4.
 - Su PC a una velocidad de vértigo: Cargue juegos, arranque Windows, abra y transfiera archivos más rápido que nunca.
+- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la unidad MP600 CORE XT ofrece un magnífico rendimiento de almacenamiento.
 - 3D QLC NAND de alta densidad: Ofrece la combinación perfecta de rendimiento y relación calidad-precio.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

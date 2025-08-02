@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Raton optico
 - 23 botones
-- Sensor hasta 16000 dpi
 - Ergonomico
+- Sensor hasta 16000 dpi
+- Raton optico
 - 5 zonas de iluminacion
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

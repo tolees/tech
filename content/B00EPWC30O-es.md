@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apertura circular de 7 láminas para obtener un atractivo efecto de desenfoque
 - Lente teleobjetivo de rango medio
 - Estabilización de imagen de SteadyShot óptica integrada
+- Apertura circular de 7 láminas para obtener un atractivo efecto de desenfoque
 - Apertura máxima de F1.8 para capturas con poca luz
 - Lente para retratos de 50 mm
 

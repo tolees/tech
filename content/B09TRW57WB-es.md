@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Duración de la batería de hasta 300 horas*
-- Micrófono desmontable con cancelación del ruido con indicador LED, Compatible con el software Ngenuity
 - DTS Headphone:X** Spatial Audio****, Controladores de doble cámara de HyperX
+- Duración de la batería de hasta 300 horas*
 - Comodidad y durabilidad, Controles de audio integrados
+- Micrófono desmontable con cancelación del ruido con indicador LED, Compatible con el software Ngenuity
 - Compatible con PC
 
 [🛒 Visítala!!!]({{< param buyurl >}})

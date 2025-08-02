@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gráfica NVIDIA GeForce RTX 4070 8GB VRAM
-- Memoria RAM DDR5-5600 MHz 32 GB (2 x 16 GB)
-- Intel Core i7-14700HX (hasta 5,5 GHz con tecnología Intel Turbo Boost, 33 MB de caché L3, 20 núcleos, 28 subprocesos)
-- Almacenamiento de datos SSD M.2 1 TB PCIe Gen4 NVMe TLC
 - Sin sistema operativo
+- Intel Core i7-14700HX (hasta 5,5 GHz con tecnología Intel Turbo Boost, 33 MB de caché L3, 20 núcleos, 28 subprocesos)
+- Memoria RAM DDR5-5600 MHz 32 GB (2 x 16 GB)
+- Almacenamiento de datos SSD M.2 1 TB PCIe Gen4 NVMe TLC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN7C87VX{{</world>}}

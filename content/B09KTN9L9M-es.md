@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño ergonómico del ratón cómodo
-- Seguimiento óptico de alta definición para un control fluido
-- Los botones tienen una gran durabilidad
 - Conéctelo y olvídese de él: funcionamiento inalámbrico para mayor comodidad
+- Los botones tienen una gran durabilidad
+- Seguimiento óptico de alta definición para un control fluido
 - Reducción del sonido del clic para una experiencia silenciosa y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

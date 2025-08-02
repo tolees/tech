@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El T7 es compatible con diferentes dispositivos como PC, Mac, dispositivos Android y videoconsolas
 - Capacidad del disco duro: 2 TB
+- El T7 es compatible con diferentes dispositivos como PC, Mac, dispositivos Android y videoconsolas
 - Velocidad de transferencia de datos: 1050 MBps
 - Construido de manera fuerte y segura
 

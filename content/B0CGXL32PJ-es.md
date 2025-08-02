@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Memoria SO-DIMM DDR4 de 8GB
-- 1 unidad de almacenamiento SSD M.2 PCIe
-- Procesador Intel Core i3-13100
 - Compatible con el diseño de seguridad TPM 2.0
+- 1 unidad de almacenamiento SSD M.2 PCIe
 - Compacto y con montaje VESA
+- Procesador Intel Core i3-13100
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGXL32PJ{{</world>}}

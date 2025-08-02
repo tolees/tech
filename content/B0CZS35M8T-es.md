@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Windows 11 Home | Gráficos Intel Arc
+- WiFI 7 | Chip IA integrado | Thunderbolt 4 | Teclado retroiluminado
+- Pantalla OLED multitáctil 2.8K (2880x1800) de 14" (35,6 cm), 48-120 Hz, tiempo de respuesta de 0,2 ms, UWVA,cristal Corning Gorilla Glass NBT antirreflectante, Low Blue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
 - Procesador Intel Evo Core Ultra 7 155H (hasta 4,8 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 16 núcleos, 22 subprocesos)
 - RAM 32 GB RAM LPDDR5x-7467 MHz | Almacenamiento interno SSD M.2 1 TB PCIe Gen4 NVMe TLC
-- WiFI 7 | Chip IA integrado | Thunderbolt 4 | Teclado retroiluminado
-- Windows 11 Home | Gráficos Intel Arc
-- Pantalla OLED multitáctil 2.8K (2880x1800) de 14" (35,6 cm), 48-120 Hz, tiempo de respuesta de 0,2 ms, UWVA,cristal Corning Gorilla Glass NBT antirreflectante, Low Blue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZS35M8T{{</world>}}

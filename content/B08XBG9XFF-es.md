@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pierna focal máxima: 70.0
 - Tipo de lente: Teleobjetivo
 - Tipo de montaje: Sony e
 - Objetivo Sigma 28-70mm F2.8 DG DN (C) para Sony e
+- Pierna focal máxima: 70.0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XBG9XFF{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un marco giratorio que atraerá miradas
 - Abróchala y empieza a moverte
+- Un marco giratorio que atraerá miradas
 - Un clásico que no pasa de moda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

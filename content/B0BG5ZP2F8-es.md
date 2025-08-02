@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PERFEKT FÜR ACTION - Fotografieren Sie dynamische Motive mit bis zu 15 B/s¹ - bei der Action-, Sport- und Wildlife-Fotografie begeistert die Photocamera mit der Fähigkeit, auch schnell bewegende Objekte scharf zu erfassen
-- SCHARFE VIDEOS - Hochwertiges 4K/30p Material oder 4K/60p für flüssige Bewegungen stehen zur Wahl
 - LIEFERUMFANG - Geliefert werden das EOS R7 Kameragehäuse, der Kamera-Gehäusedeckel R-F-5, der Tragegurt ER-EOS R7, ein Akkuladegerät LC-E6EA, der kku LP-E6NH, eine Abdeckung für das Akkufach, ein Netzkabel und Anleitungen
+- SCHARFE VIDEOS - Hochwertiges 4K/30p Material oder 4K/60p für flüssige Bewegungen stehen zur Wahl
+- PERFEKT FÜR ACTION - Fotografieren Sie dynamische Motive mit bis zu 15 B/s¹ - bei der Action-, Sport- und Wildlife-Fotografie begeistert die Photocamera mit der Fähigkeit, auch schnell bewegende Objekte scharf zu erfassen
 - PERFEKT FÜR ACTION - Fotografieren Sie dynamische Motive mit bis zu 15 B/s¹ - bei der Action-, Sport- und Wildlife-Fotografie begeistert die Photocamera mit der Fähigkeit, auch schnell bewegende Objekte scharf zu erfassen
 
 [🛒 Aquí!!!]({{< param buyurl >}})

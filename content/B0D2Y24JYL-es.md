@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Black Equalizer: Black Equalizer te permite ajustar las áreas oscuras en los juegos, permitiéndote detectar a tus enemigos incluso en los rincones más oscuros.
-- Diseño sin bordes: El diseño sin bordes de 3 lados revela el máximo espacio para una vista de juego más amplia. Alinea dos pantallas con precisión en una configuración de monitor dual, para que no se te escape ningún oponente.
 - AMD FreeSync: AMD Radeon FreeSync mantiene sincronizadas la tasa de refresco del monitor y de la tarjeta gráfica para reducir el tearing y los cortes. Disfruta de las películas y juega a tus juegos sin interrupciones. Incluso las escenas rápidas se ven fultra fluidas.
 - Modo Eye Saver y Flicker Free: El modo Eye Saver minimiza la luz azul para ayudarte a relajar los ojos cuando juegas durante períodos prolongados. El Odyssey G3 también reduce el irritante y agotador parpadeo de la pantalla, para que puedas concentrarte por más tiempo con menos distracciones y fatiga visual.
+- Black Equalizer: Black Equalizer te permite ajustar las áreas oscuras en los juegos, permitiéndote detectar a tus enemigos incluso en los rincones más oscuros.
+- Diseño sin bordes: El diseño sin bordes de 3 lados revela el máximo espacio para una vista de juego más amplia. Alinea dos pantallas con precisión en una configuración de monitor dual, para que no se te escape ningún oponente.
 - Tasa de refresco 180 Hz y tiempo de respuesta de 1 ms: Acelera las escenas. La frecuencia de actualización de 180 Hz elimina el retraso para que disfrutes de un juego emocionante con una acción ultra fluida. Salta sobre tus enemigos justo cuando los veas con un tiempo de respuesta de 1 ms (MPRT) en fotogramas con un desenfoque mínimo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

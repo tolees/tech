@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Samsung Smart TV con Gaming Hub: Samsung TV Plus ofrece contenidos gratuitos en directo, sin descargas ni registros, y te recomienda contenido personalizadas de Universal Guide; además, Gaming Hub te permite acceder a los mejores servicios de streaming y a tus juegos favoritos sin consola
 - Diseño Super Slim: Odyssey OLED y su acabado metálico más premium y moderno, de solo 3.9 mm en su parte más fina, se adaptará a tu estilo
+- Samsung Smart TV con Gaming Hub: Samsung TV Plus ofrece contenidos gratuitos en directo, sin descargas ni registros, y te recomienda contenido personalizadas de Universal Guide; además, Gaming Hub te permite acceder a los mejores servicios de streaming y a tus juegos favoritos sin consola
 - Tecnología OLED Powered by Quantum dot: Gracias al procesador con tecnología OLED Powered by Quantum dot, cada fotograma del panel OLED se analiza al instante y se optimiza para obtener la máxima calidad
 - Conectividad versátil: El puerto USB tipo C permite encender, transmitir datos e incluso enviar señales de visualización entre dispositivos, todo con una conexión única
 - FreeSync Premium Pro: Métete de lleno en la acción; sin interrupciones

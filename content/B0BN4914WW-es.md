@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Pantalla de 15.6 pulgadas, FullHD (resolución 1920x1080 píxeles), IPS, 250nits, 60Hz, Antirreflejos
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
 - Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Procesador AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB L2 / 16MB L3)
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Pantalla de 15.6 pulgadas, FullHD (resolución 1920x1080 píxeles), IPS, 250nits, 60Hz, Antirreflejos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN4914WW{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bluetooth
 - Potencia 50W
 - TV barra de sonido con Bluetooth
+- Bluetooth
 - Soporte de pared
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

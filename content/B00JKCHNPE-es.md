@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Kit de disco duro sólido interno SSD 480 GB + carcasa USB 3.0 para MacBook Air 11" & 13" de mediados de 2012
 - Elegante carcasa USB 3.0 para reutilizar el disco original del Mac como nuevo disco externo
-- Incluye todo lo que necesitas para cambiar fácil y rápidamente el disco de tu Mac o MacBook
 - Ultra-rápido y con flameantes tiempos de respueta - Incluye Dram DDR3 de memoria cache
+- Incluye todo lo que necesitas para cambiar fácil y rápidamente el disco de tu Mac o MacBook
 - Ideal para los últimos y más demandantes videojuegos y aplicaciones gráficas
 - Incrementa el espacio y el rendimiento de tu Mac, Hasta 570 MB/s y con memoria Flash MLC sincrónica
 

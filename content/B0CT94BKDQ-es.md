@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4K UHD: Imágenes cristalinas con una resolución 4 veces mayor que la FHD.
 - Google TV: Recomendaciones personalizadas y múltiples perfiles de usuario para una experiencia Smart TV personalizada. Accede a contenidos de varios servicios de streaming como Netflix, Prime Video, YouTube, Disney+, Canal+, Spotify, DAZN y más
 - Googlecast built-in: Descarga películas, música y vídeos de dispositivos compatibles directamente en tu TV.
+- 4K UHD: Imágenes cristalinas con una resolución 4 veces mayor que la FHD.
 - Rápido rendimiento: Potente procesador de cuatro núcleos para un procesamiento de imágenes de alto rendimiento durante el streaming.
 - Control inteligente mediante voz: Google reproduce tus películas favoritas, abre aplicaciones y ofrece recomendaciones.
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica integrada Intel Arc Graphics
-- Sistema Operativo: Windows 11 Home
 - Procesador Intel Core Ultra 7 155H (16C/undefined 4.8GHz, 24MB)
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Pantalla de 14" WQXGA+ 2880 x 1800 pixeles, 120Hz, OLED 400 nits
+- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica integrada Intel Arc Graphics
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Memoria RAM de 16GB en placa LPDDR5x
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

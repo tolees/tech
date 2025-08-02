@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Computadora portátil
 - Procesador Intel
+- Computadora portátil
 - Diseño moderno y elegante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

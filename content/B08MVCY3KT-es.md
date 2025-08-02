@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece un rápido y preciso enfoque automático, así como unos cambios de apertura facilitando la grabación de vídeos en 4 K y fotos fijas sin desenfocar al sujeto
 - La configuración optimizada tiene 9 elementos en 8 grupos, incluidas 2 lentes ED para minimizar las aberraciones y garantizar una resolución soberbia
 - Al ofrecer una resolución y una nitidez óptimas del centro a los bordes del fotograma, es un objetivo adecuado para el sistema LUMIX de fotograma completo
+- Ofrece un rápido y preciso enfoque automático, así como unos cambios de apertura facilitando la grabación de vídeos en 4 K y fotos fijas sin desenfocar al sujeto
 - La apertura F1.8 ofrece la optimización del tamaño y del peso sin que se vea afectada la calidad de la imagen
 - Está diseñado para poder seguir disparando en las condiciones más adversas con su construcción resistente al polvo y a las salpicaduras, lo que te permite disparar a temperaturas de hasta -10 °C
 
