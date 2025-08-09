@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de 3 meses de prueba gratis de Kindle Unlimited al comprar un Kindle Paperwhite Signature Edition. Disfruta de millones de eBooks sin límite y lee donde y cuando quieras.
+- Aprovecha al máximo tu e-reader con la Signature Edition: el nuevo Kindle Paperwhite tiene todo lo que necesitas, más carga inalámbrica, luz frontal autorregulable y 32 GB de espacio de almacenamiento.
 - Más tiempo de lectura: una sola carga por USB-C o con una base de carga inalámbrica Qi compatible (vendida por separado) dura hasta 10 semanas.
 - Diseñado para la lectura: diseño con bordes reducidos y pantalla de 300 ppp que se lee como papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
-- Aprovecha al máximo tu e-reader con la Signature Edition: el nuevo Kindle Paperwhite tiene todo lo que necesitas, más carga inalámbrica, luz frontal autorregulable y 32 GB de espacio de almacenamiento.
+- Disfruta de 3 meses de prueba gratis de Kindle Unlimited al comprar un Kindle Paperwhite Signature Edition. Disfruta de millones de eBooks sin límite y lee donde y cuando quieras.
 - Más libros en más lugares: dispone de 32 GB con capacidad para miles de libros, revistas o audiolibros, para que siempre lleves tu biblioteca contigo.
 - Pantalla ajustable: ahora con una luz frontal cálida autorregulable para una experiencia de lectura que se adapte a ti, tanto de día como de noche.
 

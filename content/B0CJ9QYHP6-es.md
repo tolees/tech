@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 95W
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 95W
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
-- Pantalla de 15.6 pulgadas FullHD 1920x1080 píxeles, IPS, 350nits, 144Hz, G-SYNC
 - Memoria RAM de 16GB (2x 8GB SO-DIMM DDR5-4800)
+- Pantalla de 15.6 pulgadas FullHD 1920x1080 píxeles, IPS, 350nits, 144Hz, G-SYNC
 - Procesador Intel Core i5-12450H, 8C (4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

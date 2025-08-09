@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIXMA Cloud Link: podrás imprimir y escanear directamente desde la nube, sin necesidad de un ordenador. Acceso fácil a Google Drive, Dropbox, etc…
-- Medidas (ancho x alto x prof): 44,9 x 15,2 x 30,4 cms.
-- Saca tu lado creativo: gracias a la app Creative Park y Easy PhotoPrint Editor podrás diseñar tarjetas, calendarios y muchos más artículos con tus fotografías.
 - Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android).
 - Impresora Canon multifunción: inteligente, compacta y conectada. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Medidas (ancho x alto x prof): 44,9 x 15,2 x 30,4 cms.
+- Saca tu lado creativo: gracias a la app Creative Park y Easy PhotoPrint Editor podrás diseñar tarjetas, calendarios y muchos más artículos con tus fotografías.
 - Cartuchos de tinta XL: ahorra dinero y saca la máxima rentabilidad con la impresión automática a doble cara para reducir el uso de papel.
+- PIXMA Cloud Link: podrás imprimir y escanear directamente desde la nube, sin necesidad de un ordenador. Acceso fácil a Google Drive, Dropbox, etc…
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G5NJLGR{{</world>}}

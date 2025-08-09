@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Gráficos Integrados Intel Iris Xᵉ
 - Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
+- Gráficos Integrados Intel Iris Xᵉ
+- Procesador Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFM9ZST1{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Velocidad de impresión color: 1.3 pages_per_minute
 - Peso: 242.0 grams
-- Impresora fotográfica compacta con sublimación de tinta
 - Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
+- Impresora fotográfica compacta con sublimación de tinta
 - Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 - Componentes incluidos: Papel
-- Velocidad de impresión color: 1.3 pages_per_minute
 - Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

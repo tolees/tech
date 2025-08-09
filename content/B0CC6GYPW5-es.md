@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador AMD Ryzen 7 7730U (8C/OctaCore 2 / 4.5GHz, 20MB)
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 16GB SO-DIMM DDR4
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 250 nits
+- Memoria RAM de 16GB SO-DIMM DDR4
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada AMD Radeon Graphics
 - Sistema Operativo: Windows 11 Home
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

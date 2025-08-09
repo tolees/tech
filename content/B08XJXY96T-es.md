@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botones L/R de polímero PBT con un duradero acabado mate.
-- Ergonomía optimizada para juegos FPS en colaboración con profesionales de eSports.
-- Sensor óptico ajustado por ROG con 16,000 dpi, 400 ips y 1000 Hz de tasa de sondeo.
 - La estructura interna en forma de panal da como resultado un peso de 62 gramos.
+- Sensor óptico ajustado por ROG con 16,000 dpi, 400 ips y 1000 Hz de tasa de sondeo.
+- Ergonomía optimizada para juegos FPS en colaboración con profesionales de eSports.
+- Botones L/R de polímero PBT con un duradero acabado mate.
 - Microinterruptores ROG con una resistencia consistente y una vida útil de 70 millones de clics.
 - Interruptores desmontables para ajustar la resistencia al clic y prolongar la vida útil del ratón.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 14.0 pulgadas FHD+ 1920x1200 antirreflejos sin función táctil, 250 nits de brillo
+- 16 GB de RAM DDR5
+- SSD de 1 TB
 - Gráficos Intel UHD
 - Procesador Intel Core i5-1334U de 13ª generación
-- SSD de 1 TB
-- 16 GB de RAM DDR5
+- Pantalla de 14.0 pulgadas FHD+ 1920x1200 antirreflejos sin función táctil, 250 nits de brillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1G79DBT{{</world>}}

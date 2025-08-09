@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un cuerpo ultrafino de tan solo 7,99 mm se combina con un diseño lateral de ángulo en C para conseguir un teléfono con un aspecto visualmente impactante y que se adapta perfectamente a la mano.
 - Con una cámara principal de 13 MP con IA, el realme Note 50 hace fotos increíbles de forma más sencilla que nunca. Desde extensos paisajes a complejos primeros planos, el realme Note 50 capta cada momento con gran claridad y color.
-- Resistencia al polvo y al agua IP54
 - Una pantalla grande de 6,74 pulgadas se combina con una tasa de refresco ultrafluida de 90 Hz que permite lograr una experiencia de visionado increíble pensada para vivir una experiencia inmersiva en los juegos.
+- Resistencia al polvo y al agua IP54
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GKRX6Y{{</world>}}

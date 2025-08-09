@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ordenador portátil
 - Pantalla FullHD de 144Hz
+- Ordenador portátil
 - Portátil gaming Lenovo LOQ Gen 8
 
 [🛒 Visítala!!!]({{< param buyurl >}})

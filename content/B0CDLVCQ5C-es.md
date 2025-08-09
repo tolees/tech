@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excepcional capacidad de 8000 mAh (typ)
 - Pantalla FHD+ de 11" inmersiva
 - Colores vivos 8 bits 16,7 millones de colores
 - Resolución 207 ppp 1920 x 1200
+- Excepcional capacidad de 8000 mAh (typ)
 - Cuatro altavoces estéreo compatibles con Dolby Atmos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

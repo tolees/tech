@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 5 7530U (6C/HexaCore 2 / 4.5GHz, 16MB)
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Sin Sistema Operativo
 - Memoria RAM de 16GB en placa LPDDR4x
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada AMD Radeon Graphics
+- Procesador AMD Ryzen 5 7530U (6C/HexaCore 2 / 4.5GHz, 16MB)
+- Sin Sistema Operativo
 - Pantalla de 14" 2.8K 2880 x 1800 pixeles OLED 400 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C82PFGZ1{{</world>}}

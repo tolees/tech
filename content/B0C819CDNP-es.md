@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Buen producto con excelente calidad
 - Marca: Samsung
+- Buen producto con excelente calidad
 - Funda hecha de cuero vegano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

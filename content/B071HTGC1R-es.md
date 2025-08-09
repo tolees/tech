@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bluetooth, GPS, radio FM y puerto USB 2.0. Memoria interna de 18 MB. Soporta tarjeta de hasta 32 GB
 - Cámara flash LED de 2 MP y conector jack de 3.5 mm
-- Idiomas: inglés, alemán, francés, holandés, turco
-- Batería de li-ion con capacidad de 1200 mA, extraíble que proporciona hasta 22 horas de conversación
 - Pantalla TFT de 2.4 con resolución de 240 x 320 pixeles
+- Batería de li-ion con capacidad de 1200 mA, extraíble que proporciona hasta 22 horas de conversación
+- Idiomas: inglés, alemán, francés, holandés, turco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071HTGC1R{{</world>}}

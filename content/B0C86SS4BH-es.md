@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONECTIVIDAD: Configura tu lavadora y secadora de forma remota con la APP My AEG Care, fácil conexión y control de lavado
 - CAJÓN UNIVERSALDOSE: Un cajón universal diseñado para poder usar cápsulas PODs y/o detergente líquido y en polvo
+- CONECTIVIDAD: Configura tu lavadora y secadora de forma remota con la APP My AEG Care, fácil conexión y control de lavado
 - FUNCIÓN DUALSENSE: Adapta la temperatura y los movimientos del tambor dependiendo del tipo de tejido
 - FUNCIÓN PROSENSE: Ajusta el tiempo, el agua y energía dependiendo de la carga, protegiendo la ropa y colores, hasta 10 kg de lavado
 - LAVA Y SECA EN UN SOLO CICLO: Agiliza el proceso de hacer la colada con los programas de lavado, secado o el de refresco al vapor, que utiliza un 96 % menos de agua y es más suave que el lavado, lo que ayuda a que la ropa dure más

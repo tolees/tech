@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NOVA M244 de UNYKAch hará las delicias de los gamers más exigentes gracias a su precisión de hasta 6400 DPI y una iluminación RGB en forma de serpentina con más de 16 millones de colores y varios efectos lumínicos
-- DPI: 800 / 1600 / 2400 / 3200 / 4800 / 6400
-- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
-- Sensor óptico
-- Longitud del cable: 1500mm
 - Pensado y diseñado para usarlo durante muchas horas; con un perfil alto y una disposición de botones que se adaptan perfectamente a la mano
+- Sistemas: Windows 2000 / 2008 / 2009 / 2010 / XP / Vista / 7 / 8 / 10 / Mac OS 8.6 o versión superior / Linux 2.4.x
+- Longitud del cable: 1500mm
+- DPI: 800 / 1600 / 2400 / 3200 / 4800 / 6400
 - Botones: Izquierdo / Derecho / Scroll / Navegar Adelante / Página Atrás /+ DPI / – DPI
+- NOVA M244 de UNYKAch hará las delicias de los gamers más exigentes gracias a su precisión de hasta 6400 DPI y una iluminación RGB en forma de serpentina con más de 16 millones de colores y varios efectos lumínicos
+- Sensor óptico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095PJQ1Y9{{</world>}}

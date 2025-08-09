@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En color negro
 - Teléfono celular
+- En color negro
 - Requiere configuración
 
 [🛒 Aquí!!!]({{< param buyurl >}})

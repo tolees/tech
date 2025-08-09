@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un solo juego de tintas imprime hasta 4500 páginas en negro y 7500 en color* Sin estrés ni complicaciones, ¡simplemente añade papel e imprime!
-- Impresión cómoda y fluida. Incluye un juego de botellas equivalente a 72 cartuchos de tinta Ahorra hasta un 90 % en costes de impresión* con los depósitos de tinta rellenables
-- Conectividad inalámbrica para imprimir desde cualquier lugar Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil
 - Sencillo sistema de depósito rellenable con botellas tinta Además, el sistema de botellas EcoTank con llave de cierre garantiza además que no te ensucies
+- Conectividad inalámbrica para imprimir desde cualquier lugar Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil
+- Impresión cómoda y fluida. Incluye un juego de botellas equivalente a 72 cartuchos de tinta Ahorra hasta un 90 % en costes de impresión* con los depósitos de tinta rellenables
+- Un solo juego de tintas imprime hasta 4500 páginas en negro y 7500 en color* Sin estrés ni complicaciones, ¡simplemente añade papel e imprime!
 - Impresora multifunción A4 Impresión, copia y escaneado de alta calidad en una sola máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

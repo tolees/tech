@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Xiaomi
 - Smartphone OnePlus
+- Marca: Xiaomi
 - Calidad óptima para los requisitos del cliente
 - Producto que combina tradición e innovación
 - Tipo de conector: USB tipo C

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INCREÍBLEMENTE NÍTIDO: Elementos de precisión AA (asféricos avanzados), cristal super ED y revestimiento Nano AR para una resolución, claridad y contraste excelentes
-- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 9 láminas para un atractivo efecto de desenfoque
-- RÁPIDO Y PRECISO: Los motores lineales duales permiten un movimiento silencioso y fluido, perfecto para grabar películas, acciones con ritmo rápido o cuando se cambia el enfoque de forma rápida y frecuente
 - Nota: No utilice disolventes orgánicos como diluyentes o bencina para limpiar la lente.
-- ERGONOMÍA PROFESIONAL: La estabilización de imagen de SteadyShot óptica integrada corrige los movimientos de la cámara que provocan imágenes borrosas al fotografiar sin trípode
 - CAPTURA TODOS LOS DETALLES: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
+- INCREÍBLEMENTE NÍTIDO: Elementos de precisión AA (asféricos avanzados), cristal super ED y revestimiento Nano AR para una resolución, claridad y contraste excelentes
+- ERGONOMÍA PROFESIONAL: La estabilización de imagen de SteadyShot óptica integrada corrige los movimientos de la cámara que provocan imágenes borrosas al fotografiar sin trípode
+- RÁPIDO Y PRECISO: Los motores lineales duales permiten un movimiento silencioso y fluido, perfecto para grabar películas, acciones con ritmo rápido o cuando se cambia el enfoque de forma rápida y frecuente
+- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 9 láminas para un atractivo efecto de desenfoque
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G9UJW36{{</world>}}

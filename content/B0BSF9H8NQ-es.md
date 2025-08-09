@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 4GB SO-DIMM DDR4
+- Almacenamiento de 128GB eMMC
 - ¡Nota!El equipo portátil puede calentarse durante el uso o durante la carga de la batería. No deje el equipo portátil sobre sus piernas o cualquier otra parte del cuerpo para evitar molestias o daños causados por el calor. Cuando trabaje con el equipo portátil, no lo coloque en superficies que puedan obturar las aberturas de ventilación
 - Procesador Intel Celeron N4020 (2C/DualCore 1.1GHz, 4MB)
 - Pantalla de 14" Full HD 1920 x 1080 pixeles TN 220 nits
-- Almacenamiento de 128GB eMMC
 - Tarjeta gráfica integrada Intel UHD Graphics 600
+- Memoria RAM de 4GB SO-DIMM DDR4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSF9H8NQ{{</world>}}

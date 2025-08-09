@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sistema operativo: Windows 11
-- Velocidad de impresión color: 1.3 pages_per_minute
-- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 - Peso: 1.8 kilograms
-- Impresora fotográfica compacta con sublimación de tinta
-- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
-- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
+- Velocidad de impresión color: 1.3 pages_per_minute
 - Componentes incluidos: Papel
+- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
+- Impresora fotográfica compacta con sublimación de tinta
+- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
+- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBMZR2QF{{</world>}}

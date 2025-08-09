@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Radio reloj con sintonización digital estéreo por Internet, DAB +/FM
 - entrada auxiliar, toma de auriculares
 - 2 alarmas ajustables gracias a la doble alarma / con función de repetición puedes retrasar la llamada de alarma durante un par de minutos
-- Radio reloj con sintonización digital estéreo por Internet, DAB +/FM
 - Reproducción MP3 por USB para escuchar su propia música a través de un lápiz USB y reproducción de música en streaming a través de Spotify Connect
 
 [🛒 Comprar!!!]({{< param buyurl >}})

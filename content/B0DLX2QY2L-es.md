@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta Gráfica Intel UHD Graphics
-- Memoria RAM de 4GB DDR4 SDRAM
 - Microsoft 365 Personal incluye hasta 1 TB de almacenamiento en la nube, potentes aplicaciones de productividad y creatividad con IA, seguridad avanzada para tus datos y dispositivos, y asistencia continua al cliente.  Se requiere la activación de la suscripción a Microsoft 365 en los 6 meses siguientes a la fecha de activación de Windows
-- Procesador Intel Celeron N4500 (2C/Dual-Core), 1,10 GHz
 - Almacenamiento de 128 GB eMMC
+- Memoria RAM de 4GB DDR4 SDRAM
 - Sistema Operativo: Windows 11 Home en Modo S
+- Tarjeta Gráfica Intel UHD Graphics
 - Pantalla de 15,6", HD ConfyView LCD 1366 x 768 pixeles, 60Hz
+- Procesador Intel Celeron N4500 (2C/Dual-Core), 1,10 GHz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLX2QY2L{{</world>}}

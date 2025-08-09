@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interfaz Versátil: Múltiples interfaces de montaje (cold shoe, NATO rail, orificios roscados de 1/4 y 3/8, orificios de ubicación del estándar arri) para la extensión. Puede conectar SmallRig top handle 1638, cable clamp 1822 o magic arm 2115
-- Para Canon M50 M50II y M5: El cage es la versión actualizada de SmallRig cage para canon m50 m50II y m5. Orece protección y soporte de accesorios para su cámara mientras mantiene el acceso completo a los botones, puertos y batería de la cámara.
-- No Se Necesitan Herramientas: Es fácil de instalar y quitar. Se ajusta perfectamente a la cámara y no requiere ninguna herramienta adicional para instalarlo.
 - Cambio Rápido: La jaula presenta una placa incorporada para Arca en la parte inferior que hace más conveniente montarla directamente en las abrazaderas de Arca
+- Interfaz Versátil: Múltiples interfaces de montaje (cold shoe, NATO rail, orificios roscados de 1/4 y 3/8, orificios de ubicación del estándar arri) para la extensión. Puede conectar SmallRig top handle 1638, cable clamp 1822 o magic arm 2115
+- No Se Necesitan Herramientas: Es fácil de instalar y quitar. Se ajusta perfectamente a la cámara y no requiere ninguna herramienta adicional para instalarlo.
 - Ergonómica y Duradera: La jaula está equipada con un agarre de diseño ergonómico, compacto y práctico. El diseño en forma de arco empotrado de la empuñadura del dedo índice hace que la empuñadura sea más cómoda. Está fabricado con una aleación de aluminio ultrarresistente y ligera, resistente a la oxidación y a los arañazos. Presenta una superficie más ajustada en el frente y un cojín de goma en la placa base. Evita que la cámara se mueva o se raye
+- Para Canon M50 M50II y M5: El cage es la versión actualizada de SmallRig cage para canon m50 m50II y m5. Orece protección y soporte de accesorios para su cámara mientras mantiene el acceso completo a los botones, puertos y batería de la cámara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FP3ZZS6{{</world>}}

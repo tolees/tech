@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hdr: aumenta el rango dinámico general entre el blanco y el negro para que la calidad de imagen se aproxime más a lo que los humanos vemos en el mundo real
-- Paper color sync para coordinar el color en pantalla y en las fotos impresas: edite las fotos eficientemente en el proceso de la pantalla a la impresión fotográfica mediante la vista previa simulada en pantalla
 - 32 pulgadas, 16:9 y resolución 4k: disfrute de una claridad excepcional y de hasta el más mínimo detalle con la tecnología ips
+- Paper color sync para coordinar el color en pantalla y en las fotos impresas: edite las fotos eficientemente en el proceso de la pantalla a la impresión fotográfica mediante la vista previa simulada en pantalla
 - Tecnología aqcolor: 99.% de cobertura de adobe rgb, con tecnología de uniformidad y calibración de hardware para un rendimiento preciso del color
 - Calibración de hardware con software palette master element: para sintonizar y mantener el rendimiento de color del monitor en su estado óptimo
 

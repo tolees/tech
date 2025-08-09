@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Graba vídeos de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Velocidad de disparo de hasta 90 MB/s y velocidades de transferencia de hasta 170 MB/s
 - Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
-- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 - Temperatura de funcionamiento: de -25°C a 85°C
+- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H9DVLBB{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cancelación de ruido de llamada A 6 mic: un proyecto A 6 mic se combina con el algoritmo de reducción de ruido ambiental del enc para reducir el ruido ambiental asegurando que la voz se exprese con claridad incluso cuando el entorno circundante es caótico.
 - Hasta 40 horas de reproducción: la duración de la batería y la tecnología de carga flash llevada al siguiente nivel. Con hasta 40 horas de reproducción, puede pasar una semana entera entre cargas. Y cuando tengas que hacer una carga de prisa, hazte pagar durante 10 minutos para divertirte con 7 horas de música
-- Los conductores dobles de alta calidad: el sonido comienza con un hardware fantástico. Con un lector óptico de 11mmbass y un microplano de 6 mm, la arquitectura acústica coaxial del conductor aporta un sonido pesado y proporciona una claridad y precisión notables en un rango de frecuencia ultra amplio de 20-40KHz.
 - 50dB Smart ANC: el más alto estándar de eliminación activa de ruido de la industria. Ya sea en las calles abarrotadas, rodeadas de tráfico intenso o en un tren ruidoso, la supresión inteligente del ruido de 50 dB permite reducir la contaminación acústica y permanecer inmerso en el sonido.
+- Los conductores dobles de alta calidad: el sonido comienza con un hardware fantástico. Con un lector óptico de 11mmbass y un microplano de 6 mm, la arquitectura acústica coaxial del conductor aporta un sonido pesado y proporciona una claridad y precisión notables en un rango de frecuencia ultra amplio de 20-40KHz.
+- Cancelación de ruido de llamada A 6 mic: un proyecto A 6 mic se combina con el algoritmo de reducción de ruido ambiental del enc para reducir el ruido ambiental asegurando que la voz se exprese con claridad incluso cuando el entorno circundante es caótico.
 - 360 efecto de sonido espacial: disfruta de un sonido inmersivo como nunca antes. Creado de acuerdo con el modelo de función head de HRTF spatial audio algorithm crea un sonido espacial 3D de grado cinema-grado. Con dispositivos bluetooth ilimitados y fuentes de audio, los usuarios pueden escuchar todo el rango de escucha inmersivo en cualquier momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

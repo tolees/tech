@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puerto USB para grabar tu actuación o reproducir tus canciones grabadas
+- affichage LED à 2 chiffres pour indiquer le titre de la chanson
 - 54 luces LED de discoteca con función de atenuación para controlar el ambiente de la fiesta
 - Bluetooth para la transmisión inalámbrica de audio digital desde dispositivos compatibles
 - El reproductor de CD de carga superior reproduce CD de música y CD + gráficos
-- affichage LED à 2 chiffres pour indiquer le titre de la chanson
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFBVT2YM{{</world>}}

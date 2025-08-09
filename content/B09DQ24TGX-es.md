@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amplio ángulo de visión de 130°
 - Detección de personas por medio de sensores infrarrojos pasivos
-- Batería con una duración de 90 días
 - Resistencia IP65 al polvo y al agua
+- Batería con una duración de 90 días
+- Amplio ángulo de visión de 130°
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DQ24TGX{{</world>}}

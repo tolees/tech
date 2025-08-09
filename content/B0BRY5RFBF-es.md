@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 5 5600H (6C/HexaCore 3.3 / 4.2GHz, 16MB)
-- Sin Sistema Operativo
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Tarjeta gráfica integrada AMD Radeon Graphics
 - Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Sin Sistema Operativo
+- Procesador AMD Ryzen 5 5600H (6C/HexaCore 3.3 / 4.2GHz, 16MB)
 - Pantalla de 14" Full HD 1920 x 1080 pixeles IPS 400 nits
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: StarTech
 - Conectores moldeados con alivio de tensión
 - Cuenta con un enchufe de 3.5 mm y dos conectores de audio de 3.5 mm
+- Marca: StarTech
 - Conector delgado moldeado por inyección para usar con dispositivos portátiles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

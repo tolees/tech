@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección IP68 contra el agua y el polvo.
-- PotentesToma de auriculares de 3,5 mm con Qualcomm Aqstic. altavoces estéreo duales optimizados por DIRAC.
-- Captura fotos y videos perfectos en movimiento con el estabilizador gimbal de 6 Ejes híbrido 2.0
-- Plataforma móvil Qualcomm Snapdragon 8 Gen 2 5G.
-- Pantalla compacta de 5,9 pulgadas que se adapta perfectamente a la mano.
-- Pantalla HDR AMOLED de 144 Hz, que brinda una experiencia ultra fluida.
 - Potente batería de 4300 mAh con adaptador HyperCharger de 30 W que está optimizado en función de tu comportamiento y admite carga inalámbrica de 15 W.
 - Sensor insignia IMX766 de 50MP de Sony con estabilizador gimbal 2.0, cámara ultra gran angular de 13MP y cámara frontal de 32MP con tecnología RGBW.
 - Hasta 16GB LPDDR5X RAM y 512GB UFS 4.0 ROM.
+- Protección IP68 contra el agua y el polvo.
+- Plataforma móvil Qualcomm Snapdragon 8 Gen 2 5G.
+- Captura fotos y videos perfectos en movimiento con el estabilizador gimbal de 6 Ejes híbrido 2.0
+- Pantalla HDR AMOLED de 144 Hz, que brinda una experiencia ultra fluida.
+- PotentesToma de auriculares de 3,5 mm con Qualcomm Aqstic. altavoces estéreo duales optimizados por DIRAC.
+- Pantalla compacta de 5,9 pulgadas que se adapta perfectamente a la mano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9TVG6KD{{</world>}}

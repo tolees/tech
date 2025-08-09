@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta precisión +/-0,03 mm. Tolerancia: bobinas de filamento para impresora 3D de 1 kg, redondez perfecta y tolerancia de diámetro muy estrecha, aprox. 330 m de filamento en cada bobina, fácil de usar, mínima deformación, sin olor, sin atascos, sin burbujas.
-- Sin enredos ni obstrucciones: diámetro y redondez uniformes, menos tensión y distorsión, fuerte adhesión de la capa. El filamento para impresora 3D de GEEETECH sin contaminantes cumple con la directiva RoHS (restricción de sustancias peligrosas) y está libre de sustancias potencialmente peligrosas.
-- Embalaje sellado al vacío: el filamento 3D de GEEETECH está cuidadosamente envasado al vacío con desecante para mantener un bajo contenido de humedad. Mantenlo seco y alejado del polvo y los objetos extraños, para evitar que la boquilla se atasque.
 - Temperatura de impresión: 190-220 ºC.
+- Alta precisión +/-0,03 mm. Tolerancia: bobinas de filamento para impresora 3D de 1 kg, redondez perfecta y tolerancia de diámetro muy estrecha, aprox. 330 m de filamento en cada bobina, fácil de usar, mínima deformación, sin olor, sin atascos, sin burbujas.
+- Embalaje sellado al vacío: el filamento 3D de GEEETECH está cuidadosamente envasado al vacío con desecante para mantener un bajo contenido de humedad. Mantenlo seco y alejado del polvo y los objetos extraños, para evitar que la boquilla se atasque.
+- Sin enredos ni obstrucciones: diámetro y redondez uniformes, menos tensión y distorsión, fuerte adhesión de la capa. El filamento para impresora 3D de GEEETECH sin contaminantes cumple con la directiva RoHS (restricción de sustancias peligrosas) y está libre de sustancias potencialmente peligrosas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4DQGZ3H{{</world>}}

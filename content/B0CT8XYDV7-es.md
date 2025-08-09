@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 32GB
-- Almacenamiento de 1TB SSD
-- Tarjeta gráfica NVIDIA RTX4070 (GDDR6)
-- Pantalla de 16", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
-- Procesador Intel Core Ultra 9 185H, Hasta 5.1 GHz, 24MB L3 Cache
 - Sistema operativo Windows 11 Home
+- Memoria RAM de 32GB
+- Pantalla de 16", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
+- Tarjeta gráfica NVIDIA RTX4070 (GDDR6)
+- Procesador Intel Core Ultra 9 185H, Hasta 5.1 GHz, 24MB L3 Cache
+- Almacenamiento de 1TB SSD
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CT8XYDV7{{</world>}}

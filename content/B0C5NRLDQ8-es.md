@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notebook de la marca HP
+- Medidas: 59,6 x 7,1 x 34,3 centímetros
 - Color: multicolor
 - Referencia: S7784470
+- Notebook de la marca HP
 - ¡Si buscas calidad al mejor precio no sigas buscando!
-- Medidas: 59,6 x 7,1 x 34,3 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5NRLDQ8{{</world>}}

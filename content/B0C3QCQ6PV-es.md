@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - ✎Amplia Cobertura - El amplificador wifi está equipado con 2*5dBi antenas de alta ganancia, que pueden mejorar la recepción de la señal Wi-Fi 6 y la cobertura en toda su casa hasta 80㎡.
 - ✎Instalación inteligente - Con ajustes emergentes automáticos, es rápido de instalar para que pueda disfrutar de Wi-Fi 6 de alta velocidad inmediatamente. Los indicadores LED inteligentes pueden ayudarle a encontrar la mejor ubicación para el puente Wi-Fi para mejorar la extensión de la señal.
 - ✎Puerto Gigabit Ethernet- El puerto gigabit externo proporciona una conexión por cable más rápida para decodificador, smart TV, PC, PS4 y otros dispositivos. Requisitos del sistema - Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux | Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 u otro navegador compatible con Java.
-- ✎Modo de punto de acceso integrado - A23 es más que un extensor wifi. Sólo tiene que conectar un cable Ethernet en el puerto, es fácil convertir su conexión a Internet por cable en una señal inalámbrica de alta velocidad.
 - 📞3 años de garantía y soporte técnico - Correo electrónico: support.es@tenda.cn (De lunes a viernes)
+- ✎Modo de punto de acceso integrado - A23 es más que un extensor wifi. Sólo tiene que conectar un cable Ethernet en el puerto, es fácil convertir su conexión a Internet por cable en una señal inalámbrica de alta velocidad.
 - ⭐Repetidor Wifi de 6 Generación - WiFi Repeater 6 permite disfrutar de streaming, juegos, descargas de forma más fluida y rápida. Es un amplificador wifi de doble banda de hasta 1501 Mbps (5GHz: 1201 Mbps 2.4 GHz: 300 Mbps), un 38% más rápido que el estándar AC1200.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
