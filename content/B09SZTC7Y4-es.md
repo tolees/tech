@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
 - Tarjeta gráfica Integrated Intel UHD Graphics
 - W10 Home 64
 - Pantalla de 14" FHD (1920x1080) TN 250nits Anti-glare
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x4 NVMe
 - Memoria RAM 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200) S
 - Procesador Intel Celeron Intel Core i3-1115G4 (2C / 4T, 3.0 / 4.1GHz, 6MB)
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incorpora reproductor mp3/mp4, radio fm, bluetooth, manos libres y toma de auriculares
 - Cámara digital 0.3mp
 - Teléfono móvil de banda cuádruple
 - Doble sim
 - Compatible con memoria externa de 32gb
-- Incorpora reproductor mp3/mp4, radio fm, bluetooth, manos libres y toma de auriculares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M2L8QZ6{{</world>}}

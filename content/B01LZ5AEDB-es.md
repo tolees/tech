@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una longitud de solo 49.5 mm, este objetivo angular compacto es adecuado para viajar por su reducido peso y tamaño
-- Ámbitos de aplicación: macro, paisaje, viaje, naturaleza y retrato; equivalente a un 60 mm en un sistema de 35 mm
 - Contenido de la caja: Objetivo, tapa del objetivo LC-62D, tapa trasera del objetivo LR-2, manual de instrucciones, tarjeta de garantía de Olympus
+- Ámbitos de aplicación: macro, paisaje, viaje, naturaleza y retrato; equivalente a un 60 mm en un sistema de 35 mm
 - El autoenfoque inusualmente rápido y silencioso del mecanismo MSC es óptimo para la grabación de fotos y vídeos
+- Con una longitud de solo 49.5 mm, este objetivo angular compacto es adecuado para viajar por su reducido peso y tamaño
 - Calidad de imagen óptima, a pesar de un diseño compacto con imágenes nítidas hasta en los bordes de la imagen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

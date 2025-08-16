@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para aficionados
-- Ultra gran angular, enfoque STM, alto rendimiento con poca luz
+- Zoom óptico: 1.0 multiplier x; Pierna focal máxima: 16.0 millimeters
 - Videoblogs, vídeos, viajes
 - Calidad óptima para los requisitos del cliente
-- Zoom óptico: 1.0 multiplier x; Pierna focal máxima: 16.0 millimeters
+- Ultra gran angular, enfoque STM, alto rendimiento con poca luz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GPMKLZC{{</world>}}

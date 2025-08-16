@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Motor lineal para una vibración precisa; compatible con grabadora; reproduce musical local
 - Compatible con llamadas Bluetooth, cancelación del ruido de las llamadas con doble micrófono
-- Batería de gran autonomía hasta 24 días
 - Gran pantalla AMOLED de 2.07", relación pantalla/cuerpo del 82%,tasa de refresco de 60 Hz, marcos equiláteros
+- Batería de gran autonomía hasta 24 días
 - Elegante marco de aleación de aluminio; corona giratoria; correa de cierre rápido; monitorización de sueño, saturación de oxígeno el entrenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin sistema operativo
+- Almacenamiento de 1 TB SSD PCIe NVMe
+- Memoria RAM de 16GB DDR5 SDRAM
 - Pantalla de 15,6", FullHD IPS 1920 x 1080 pixeles, 144Hz
 - Procesador Intel Core i9-12900H (14Core), 2,50 GHz
-- Almacenamiento de 1 TB SSD PCIe NVMe
-- Sin sistema operativo
 - Tarjeta Gráfica NVIDIA GeForce RTX 4060
-- Memoria RAM de 16GB DDR5 SDRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFFCVSMV{{</world>}}

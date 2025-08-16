@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El soporte elevador para monitor SN06 te permitirá ahorrar espacio en tu escritorio a la vez que completas tu set up gaming: te permitirá guardar el teclado y ratón bajo el soporte al acabar tus sesiones frente al ordenador, ayudándote así a mantener tu espacio organizado.
 - Cajón de almacenamiento y soporte para smartphone incluidos: mantén tu smartphone a la vista apoyado en el soporte para hablar con tus amigos mientras juegas, el cajón de almacenamiento te permitirá guardar bolígrados, pendrives o papeles para mantener ordenado el escritorio
-- Iluminación RGB con controlador: elige entre los 10 efectos de iluminación RGB pulsando el botón situado en el frontal para dar un toque de estilo a tu setup gamer.
 - Mejora la ergonomía de tu puesto de trabajo o zona de juegos: eleva el monitor eligiendo entre las dos alturas disponibles para conseguir la postura de trabajo más cómoda para ti.
 - Hub USB de 4 Puertos incluido: para no perder conectividad en tu ordenador al alimentar el elevador de monitor por usb, incluye un hub de 4 puertos USB para que puedas conectar tus periféricos: 1 x USB3.0 y 3 x USB2.0
+- Iluminación RGB con controlador: elige entre los 10 efectos de iluminación RGB pulsando el botón situado en el frontal para dar un toque de estilo a tu setup gamer.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6DDF2DB{{</world>}}

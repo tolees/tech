@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla OLED 2.8K (2880x1800) de 14" (35,6 cm), 48-120 Hz, tiempo de respuesta de 0,2 ms, UWVA, Low Blue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
+- Gráfica NVIDIA GeForce RTX 4060 (GDDR6 8 GB) | FreeDos
 - Procesador Intel Core Ultra 9 185H (hasta 5,1 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 16 núcleos, 22 subprocesos)
 - Thunderbolt 4 | Teclado retroiluminado
-- Gráfica NVIDIA GeForce RTX 4060 (GDDR6 8 GB) | FreeDos
-- Pantalla OLED 2.8K (2880x1800) de 14" (35,6 cm), 48-120 Hz, tiempo de respuesta de 0,2 ms, UWVA, Low Blue Light, SDR 400 nits, HDR 500 nits, 100 % DCI-P3
 - RAM 32 GB RAM LPDDR5x-7467 MHz | Almacenamiento interno SSD 1 TB PCIe Gen4 NVMe Performance M.2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

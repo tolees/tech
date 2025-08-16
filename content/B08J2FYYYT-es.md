@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MANEJO INTUITIVO: Estabilización de imagen de hasta 5 pasos, pantalla táctil de ángulo variable, batería Z para mayor duración, interfaz de audio digital con entrada para micrófono y auriculares y una mejor resistencia al polvo y humedad
-- CALIDAD PROFESIONAL EN TAMAÑO COMPACTO: La potencia de un sensor retroiluminado de fotograma completo CMOS dentro de un cuerpo ligero y compacto que te seguirá ahí donde vayas
 - COMPARTE TUS CREACIONES FÁCILMENTE: Descarga gratis en tu dispositivo la aplicación Imaging Edge de Sony y comparte fácilmente tu contenido
-- CAPTURA LA VIDA TAL Y COMO LA VES: con 24MP, grabación de vídeo en 4K e ISO 100-51200, la Alpha 7 C captura todos los detalles en cualquier situación de iluminación
+- CALIDAD PROFESIONAL EN TAMAÑO COMPACTO: La potencia de un sensor retroiluminado de fotograma completo CMOS dentro de un cuerpo ligero y compacto que te seguirá ahí donde vayas
 - ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: Sujeto siempre enfocado y nítido gracias al AF con seguimiento en tiempo real de Sony, que incluso puede seguir el enfoque en ojos (humanos y animales) y también en modo vídeo (humanos)
+- CAPTURA LA VIDA TAL Y COMO LA VES: con 24MP, grabación de vídeo en 4K e ISO 100-51200, la Alpha 7 C captura todos los detalles en cualquier situación de iluminación
+- MANEJO INTUITIVO: Estabilización de imagen de hasta 5 pasos, pantalla táctil de ángulo variable, batería Z para mayor duración, interfaz de audio digital con entrada para micrófono y auriculares y una mejor resistencia al polvo y humedad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08J2FYYYT{{</world>}}

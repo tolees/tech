@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso: 242.0 grams
-- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
-- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
-- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 - Componentes incluidos: Papel
-- Impresora fotográfica compacta con sublimación de tinta
 - Velocidad de impresión color: 1.3 pages_per_minute
+- Peso: 242.0 grams
+- Impresora fotográfica compacta con sublimación de tinta
+- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
+- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
+- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBMX16RG{{</world>}}

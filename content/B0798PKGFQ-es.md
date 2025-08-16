@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gestión intuitiva de web
+- Lan virtual para mayor seguridad de red
 - Calidad del servicio para un mejor control del tráfico
 - Lan virtual para mayor seguridad de red
-- Lan virtual para mayor seguridad de red
-- Gestión intuitiva de web
 - Multidifusión de snooping igmp v1/v2 y v3 compatible con aplicaciones de retransmisión continua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

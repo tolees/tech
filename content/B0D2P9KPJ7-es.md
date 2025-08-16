@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño sin teclado numérico: Gracias al diseño compacto que te deja más espacio para mover el ratón, disfrutarás de un juego sin restricciones fundamental para competir.
+- Con tecnología Razer Chroma RGB: Con 16,8 millones de colores y una amplia gama de efectos para elegir, puedes personalizar el teclado y disfrutar de efectos de iluminación dinámicos para cientos de juegos con Chroma integrado.
 - Teclas totalmente programables: Disfruta de una ejecución y un juego más eficientes al asignar las funciones que quieras mediante Razer Synapse y la tecnología Hypershift, que permiten una mayor personalización de las asignaciones de teclas.
+- Switches ópticos Box con sonido de clic Razer: Disfruta de un tecleado rápido y energético con un sonido satisfactorio y una sensación más ligera que los switches mecánicos tradicionales, con una tasa de sondeo de hasta 1000 Hz para una latencia de entrada más baja y una distancia de accionamiento de 1,5 mm.
 - Placa superior de aluminio cepillado: La robusta carcasa del teclado, fabricada con aluminio de calidad aeronáutica y refinada con un suave acabado metálico cepillado, está diseñada para soportar el uso frecuente e intenso, y es resistente a deformaciones.
 - Teclas de ABS de doble inyección texturizadas: Estas teclas, fabricadas para soportar el desgaste del intenso juego competitivo, cuentan con inscripciones indelebles y un tacto texturizado que ofrece un nivel de durabilidad superior al de las teclas comunes.
-- Con tecnología Razer Chroma RGB: Con 16,8 millones de colores y una amplia gama de efectos para elegir, puedes personalizar el teclado y disfrutar de efectos de iluminación dinámicos para cientos de juegos con Chroma integrado.
-- Switches ópticos Box con sonido de clic Razer: Disfruta de un tecleado rápido y energético con un sonido satisfactorio y una sensación más ligera que los switches mecánicos tradicionales, con una tasa de sondeo de hasta 1000 Hz para una latencia de entrada más baja y una distancia de accionamiento de 1,5 mm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2P9KPJ7{{</world>}}

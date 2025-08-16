@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora nuestra gama de productos
-- 6.93418E+12
-- Altos estándares durante el proceso de producción
 - OB02868
+- Explora nuestra gama de productos
+- Altos estándares durante el proceso de producción
+- 6.93418E+12
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PRCM1QC{{</world>}}

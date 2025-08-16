@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 TB disco duro SSD PCIe Gen4 NVMe M.2
-- Gráfica NVIDIA GeForce RTX 5060 8GB
-- 32 GB Memoria RAM DDR5-5200 MHz (2 x 16 GB)
 - Sin sistema operativo
+- Gráfica NVIDIA GeForce RTX 5060 8GB
 - Procesador Intel Core 7-240H (hasta 5,2 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 10 núcleos, 16 subprocesos)
+- 32 GB Memoria RAM DDR5-5200 MHz (2 x 16 GB)
+- 1 TB disco duro SSD PCIe Gen4 NVMe M.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2TFKNNC{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 54 luces LED de discoteca con función de atenuación para controlar el ambiente de la fiesta
+- El reproductor de CD de carga superior reproduce CD de música y CD + gráficos
+- Puerto USB para grabar tu actuación o reproducir tus canciones grabadas
 - Bluetooth para la transmisión inalámbrica de audio digital desde dispositivos compatibles
 - affichage LED à 2 chiffres pour indiquer le titre de la chanson
-- El reproductor de CD de carga superior reproduce CD de música y CD + gráficos
-- 54 luces LED de discoteca con función de atenuación para controlar el ambiente de la fiesta
-- Puerto USB para grabar tu actuación o reproducir tus canciones grabadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFBVT2YM{{</world>}}

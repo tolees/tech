@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 14 FPS
-- Dual expeed
 - Fotograma completo
+- Dual expeed
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L5N1PCN{{</world>}}

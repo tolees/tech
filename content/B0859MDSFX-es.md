@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
-- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
-- Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
 - ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
-- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
-- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
+- Enchufe Integrado - sin desperdiciar las tomas de corriente de tu casa
+- Requisitos del sistema: Windows 2000 / XP / 2003 / Vista, Windows 7/8 / 8.1, Mac, Linux
 - HomePlug AV2 Standard: velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
+- Plug and play - permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
+- Puerto Gigabit: proporciona redes cableadas seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
+- Energía patentada - Modo de ahorro - reduce automáticamente el consumo de energía hasta un 85%
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0859MDSFX{{</world>}}

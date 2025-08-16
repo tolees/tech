@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altavoces estéreo
-- Espectacular pantalla Retina de 10,2 pulgadas con tecnología True Tone
-- Conector Lightning para cargar el iPad y conectar accesorios
-- Gran angular trasero de 8 Mpx y ultra gran angular frontal de 12 Mpx con Encuadre Centrado
 - Compatibilidad con el Apple Pencil (1.ª generación) y el Smart Keyboard
 - Chip A13 Bionic con Neural Engine
-- Hasta 10 horas de autonomía
-- Redes wifi 802.11ac
-- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Gran angular trasero de 8 Mpx y ultra gran angular frontal de 12 Mpx con Encuadre Centrado
 - Hasta 256 GB de capacidad
+- Altavoces estéreo
+- Redes wifi 802.11ac
+- Conector Lightning para cargar el iPad y conectar accesorios
+- Hasta 10 horas de autonomía
+- Espectacular pantalla Retina de 10,2 pulgadas con tecnología True Tone
+- Touch ID para autenticarse de forma segura y usar Apple Pay
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G98SZB8{{</world>}}

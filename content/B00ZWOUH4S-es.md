@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fijación robusta: gracias a los duraderos clips y puntos de fijación integrados, la palanca de cambios Driving Force se puede fijar firmemente a una mesa o consola de carreras para minimizar los deslizamientos o las oscilaciones durante las maniobras de carrera agresivas
-- Compatible con los mandos Logitech G923, G29 o G920 Driving Force, juegos compatibles con Logitech Driving Force Shifter, Xbox Series X|S, Xbox One, PlayStation 4, Windows 11, Windows 10, Windows 8.1, Windows 8 o Windows 7
 - Poker de 6 velocidades con una al revés que presionas. El póker tiene un diseño en forma de H de seis velocidades, se mueve con suavidad y se ajusta con firmeza a cada marcha, lo que te permite cambiar de forma suave y precisa en curvas y rectas cerradas
+- Compatible con los mandos Logitech G923, G29 o G920 Driving Force, juegos compatibles con Logitech Driving Force Shifter, Xbox Series X|S, Xbox One, PlayStation 4, Windows 11, Windows 10, Windows 8.1, Windows 8 o Windows 7
 - Construcción de calidad. Con un robusto eje motriz de acero, el póker Driving Force está diseñado para carreras de precisión y fiabilidad duradera. La cabeza y la base están cubiertas con piel cosida a mano de alta calidad para ofrecer un aspecto y un tacto de alta calidad y más comodidad y durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

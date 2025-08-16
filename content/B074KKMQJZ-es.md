@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Receptor de CD integrado y radio FM/AM
 - Potencia de salida de 2 x 30 W
+- Receptor de CD integrado y radio FM/AM
 - Bluetooth para transmisión inalámbrico instantáneo desde smartphones y tabletas
 - Diseño con triple reducción de ruido (T.N.R.D.) que mantiene la pureza de la señal
 

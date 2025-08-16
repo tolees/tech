@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de luz de fondo: LED
 - Bluetooth inalámbrico 4.0 con un alcance de hasta 15 m
+- Tipo de luz de fondo: LED
 - Compatible con Mac/Windows/Mobile sistemas operativos
 - Disposición de las teclas: Qwertz
 

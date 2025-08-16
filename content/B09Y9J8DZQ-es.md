@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador AMD 3020 e
-- Sin sistema operativo
-- Memoria RAM de 4 GB Soldered DDR4-2400 ampliables hasta 12 GB
 - Tarjeta gráfica AMD Radeon Graphics
+- Sin sistema operativo
+- Procesador AMD 3020 e
+- Memoria RAM de 4 GB Soldered DDR4-2400 ampliables hasta 12 GB
 - Almacenamiento de 256 GB SSD ampliables hasta 1TB
 - Pantalla de 14 inch, FullHD, 1920 x 1080 píxeles, TN, 220 nits, Anti-glare
 

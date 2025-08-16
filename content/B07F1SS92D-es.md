@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene cámara trasera de 12MP y cámara frontal de 8MP
 - Funciones avanzadas: IP68, carga rápida, Samsung Pay y sistema de huella dactilar, reconocimiento facial, escáner de iris, Bixby
+- Tiene cámara trasera de 12MP y cámara frontal de 8MP
 - Dispone de altavoces AKG
 - Capacidad: 6 GB RAM, almacenamiento de 64 GB + ranura MicroSD (hasta 256 GB)
 

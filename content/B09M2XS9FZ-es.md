@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Múltiples Modos de Funcionamiento - Podrás configurarlo como router inalámbrico o como repetidor. (Cliente+AP, WISP) No se admite el modo módem.
-- Servicio Técnico - Si tiene algún problema con el producto, no dude en enviarnos un correo electrónico a soporte.es@tenda.cn. El equipo técnico de Tenda le proporcionará soluciones profesionales. 3 años de garantía.
-- Diagnóstico Inteligente con un Clic - La interfaz del RX12 cuenta con una función de diagnóstico que controla automáticamente la red y corrige cualquier incidencia que detecte.
 - Cobertura WiFi de gran Alcance - Consigue señal de gran intensidad en cualquier lugar de casa a través de sus 5 antenas de 6dBi y su tecnología Beamforming
-- Características Especiales - Control parental, red de invitados, control mediante APP Tenda, administración web remota, programación inteligente de WiFi , encendido/apagado de LED, Beamforming, MU-MIMO, WPS.
+- Múltiples Modos de Funcionamiento - Podrás configurarlo como router inalámbrico o como repetidor. (Cliente+AP, WISP) No se admite el modo módem.
 - Cobertura Mesh Ampliada - RX12 Pro incluye WiFi+ Mesh, mediante el cual podrás conectar cualquier router o dispositivo Mesh compatible con WiFi+ y cubrir con facilidad grandes superficies. RX12 Pro puede conectarse en red con Tenda WiFi 6 Mesh, como MX12, MX15.
-- Tiempo de Activación Objetivo - El router RX12 Pro ayuda a sus dispositivos a comunicarse más consumiendo menos energía.
+- Servicio Técnico - Si tiene algún problema con el producto, no dude en enviarnos un correo electrónico a soporte.es@tenda.cn. El equipo técnico de Tenda le proporcionará soluciones profesionales. 3 años de garantía.
+- Características Especiales - Control parental, red de invitados, control mediante APP Tenda, administración web remota, programación inteligente de WiFi , encendido/apagado de LED, Beamforming, MU-MIMO, WPS.
 - Conecta Múltiples Dispositivos - Con la tecnología OFDMA podrás conectar múltiples dispositivos sin que el rendimiento de la red se vea afectado
+- Diagnóstico Inteligente con un Clic - La interfaz del RX12 cuenta con una función de diagnóstico que controla automáticamente la red y corrige cualquier incidencia que detecte.
+- Tiempo de Activación Objetivo - El router RX12 Pro ayuda a sus dispositivos a comunicarse más consumiendo menos energía.
 - Velocidad Gigabit WiFi 6 - Sesiones multijugador con lag mínimo, streaming 4K fluido y descargas instantánea gracias a su velocidad de transferencia de 2402 Mbps en la banda de 5 GHz y 574 Mbps en la de 2,4 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

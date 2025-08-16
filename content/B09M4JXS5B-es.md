@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - producto 2: Sony Paquete de baterías recargables serie Z NP-FZ100
+- producto 1: INCREÍBLEMENTE NÍTIDO: Un elemento asférico y tres elementos de cristal ED en un diseño óptico de precisión reducen la distorsión en todo el alcance del zoom
+- producto 2: Dimensiones 38,7 x 22,7 x 51,7 mm (1 916 x 2932 x 2 18 pulgadas)
 - producto 1: SIEMPRE FIABLE: Un diseño resistente al polvo y a la humedad ofrece la fiabilidad necesaria para el uso en exteriores y en condiciones adversas
 - producto 1: RÁPIDO Y PRECISO: El motor lineal XD aprovecha todo el potencial del cuerpo de la cámara, enfocando y siguiendo incluso a los sujetos en movimiento rápido con asombrosa velocidad y precisión
-- producto 2: Capacidad 7,2 V 16,4 Wh (2280 mAh)
 - producto 1: MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque
-- producto 2: Dimensiones 38,7 x 22,7 x 51,7 mm (1 916 x 2932 x 2 18 pulgadas)
 - producto 2: Peso Aprox. 83 g (3,0 oz.)
-- producto 1: INCREÍBLEMENTE NÍTIDO: Un elemento asférico y tres elementos de cristal ED en un diseño óptico de precisión reducen la distorsión en todo el alcance del zoom
+- producto 2: Capacidad 7,2 V 16,4 Wh (2280 mAh)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M4JXS5B{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sonido nítido y amplio
 - Salida total de 100 W
-- Fácil de configurar
 - Diseño de bloque omnidireccional
+- Fácil de configurar
+- Sonido nítido y amplio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099NVBVTM{{</world>}}

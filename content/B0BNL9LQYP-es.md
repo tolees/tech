@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Regulable en altura
-- IPS 165Hz, FLC
 - Full HD LED
 - 23.8 Pulgadas
+- IPS 165Hz, FLC
 - Con altavoces
 
 [🛒 Comprar!!!]({{< param buyurl >}})

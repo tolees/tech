@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crea tu propio arsenal de armas, incluyendo katanas dobles
-- Entrena con diversos sensei a medida que encuentras y aprendes a usar nuevas armas
-- Sumérgete en la belleza de la cultura japonesa: báñate en un onsen, visita santuarios para rezar o prueba la técnica de pintura Sumi-e, entre muchas otras actividades
-- Recorre rincones pintorescos del norte de Japón a través de extensas praderas, cimas nevadas y campos de flores silvestres, entre otros
 - Desarrolla nuevas habilidades, como ataques imposibles de bloquear, y desarma a tus enemigos en la batalla
-- Descubre una historia de sanación y redención, más allá de las luchas y las espadas
 - Acompaña a Atsu en esta hermosa historia mientras se forja un nuevo futuro, más esperanzador
-- Los viajes secundarios permiten a Atsu conocer toda la diversidad y belleza del Japón medieval
-- Participa en combates con katana y batallas al margen de la ley contra tus adversarios
 - Explora las impresionantes y salvajes tierras que rodean el Monte Yōtei, a pie o a caballo
+- Participa en combates con katana y batallas al margen de la ley contra tus adversarios
+- Entrena con diversos sensei a medida que encuentras y aprendes a usar nuevas armas
+- Recorre rincones pintorescos del norte de Japón a través de extensas praderas, cimas nevadas y campos de flores silvestres, entre otros
+- Descubre una historia de sanación y redención, más allá de las luchas y las espadas
+- Sumérgete en la belleza de la cultura japonesa: báñate en un onsen, visita santuarios para rezar o prueba la técnica de pintura Sumi-e, entre muchas otras actividades
+- Crea tu propio arsenal de armas, incluyendo katanas dobles
+- Los viajes secundarios permiten a Atsu conocer toda la diversidad y belleza del Japón medieval
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6D5BS17{{</world>}}

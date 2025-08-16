@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sonido potente: llena tu espacio con sonido estéreo de calidad gracias a los transductores de 25 mm, que ofrecen graves profundos y un sonido equilibrado en cualquier tipo de música
-- Diseño clásico renovado: Authentics 300 se inspira en los diseños de los años 70 de JBL, con un marco de aluminio y una carcasa de imitación de cuero, añadiendo un toque retro a cualquier ambiente
-- WiFi integrado: conecta tus Authentics 300 mediante WiFi y disfruta de servicios de streaming de música y asistentes de voz al mismo tiempo; personaliza tu experiencia con la app JBL One
-- Contenido de envío: 1x JBL Authentics 300 altavoz inteligente, 1x cable de alimentación, compatible con WiFi y Bluetooth, 1x guía de inicio rápido, 1x hoja de seguridad
 - Listo para tu próxima fiesta: coloca altavoces Authentics adicionales por tu casa y disfruta de un gran sonido en cualquier lugar con la calibración automática de altavoces
+- WiFi integrado: conecta tus Authentics 300 mediante WiFi y disfruta de servicios de streaming de música y asistentes de voz al mismo tiempo; personaliza tu experiencia con la app JBL One
+- Diseño clásico renovado: Authentics 300 se inspira en los diseños de los años 70 de JBL, con un marco de aluminio y una carcasa de imitación de cuero, añadiendo un toque retro a cualquier ambiente
+- Contenido de envío: 1x JBL Authentics 300 altavoz inteligente, 1x cable de alimentación, compatible con WiFi y Bluetooth, 1x guía de inicio rápido, 1x hoja de seguridad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD26NJDY{{</world>}}

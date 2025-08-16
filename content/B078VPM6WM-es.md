@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Avanzada tecnología de motor lineal que permite un control de enfoque preciso y silencioso
 - Diseño compacto y ligero
+- Avanzada tecnología de motor lineal que permite un control de enfoque preciso y silencioso
 - Diseño óptico con un elemento asférica que ofrece una alta resolución de esquina a esquina
 - Lente de zoom estándar de gran ampliación APS-C
 - Lente de zoom estándar de gran ampliación APS-C

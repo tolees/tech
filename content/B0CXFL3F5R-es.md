@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ultraligero, con tan solo 1,2Kg de peso, batería de hasta 24,5 horas de autonomía* y ahora más fino con 13mm convierten al LG gram Pro en el más portátil de los portátiles de LG gram.
-- Alta conectividad con 6 puertos (2 X USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado permitiendo carga ultrarrápida, HDMI 2.1 y entrada de auriculares).
-- Nuevo chasis mejorado aún más fino de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar STD-MIL-810H.
 - Nueva pantalla OLED 3K (WQXGA+) (2880x1800) de 40,6 cm (16") en formato 16:10, con tratamiento antirreflejos, tasa de refresco de hasta 120Hz y amplio rango de color DCI-P3 100%.
+- Nuevo chasis mejorado aún más fino de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar STD-MIL-810H.
+- Alta conectividad con 6 puertos (2 X USB 3.2, 2 x USB Tipo C con Thunderbolt 4 integrado permitiendo carga ultrarrápida, HDMI 2.1 y entrada de auriculares).
 - Procesador Intel Core Ultra 7, con memoria RAM ultrarrápida LPDDR5x de 32GB integrada en placa y disco duro SSD de 512GB NVMe de 4ª Generación con doble ranura ampliable. Incorpora gráfica NVIDIA RTX3050 para trabajar con contenido 4K UHD con la máxima fluidez.
+- Ultraligero, con tan solo 1,2Kg de peso, batería de hasta 24,5 horas de autonomía* y ahora más fino con 13mm convierten al LG gram Pro en el más portátil de los portátiles de LG gram.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXFL3F5R{{</world>}}

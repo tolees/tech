@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sintonizador de radio fm
-- Conexión bluetooth 4.2
 - Con asa y ruedas para transportarlo fácilmente
+- Sintonizador de radio fm
 - Altavoz karaoke multifunción
+- Conexión bluetooth 4.2
 - Múltiples entradas: aux in, usb, micro sd, micrófono
 
 [🛒 Visítala!!!]({{< param buyurl >}})

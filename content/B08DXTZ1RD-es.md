@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Zoom óptico: 6.0 multiplier_x
 - Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
-- Pierna focal máxima: 140.0 millimeters
-- Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
 - Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
 - Tipo de lente: Achromatic
+- Pierna focal máxima: 140.0 millimeters
+- Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
 - Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
 - Pentax 63621 Monocular VM 6x21 WP - Kit Completo Incluye un Adaptador para Smartphone y Soporte Macro Junto con un monocular de Aumento Brillante y Claro 6X con excelente Rendimiento óptico.
 

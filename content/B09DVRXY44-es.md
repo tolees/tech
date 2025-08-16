@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 0
 - 0
-- Blanco
 - Samsung EVO Plus memoria flash 128 GB MicroSDXC UHS-I Clase 10
+- Blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DVRXY44{{</world>}}

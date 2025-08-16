@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Requiere instalación
 - Tarjeta de video
+- Requiere instalación
 - Modelo: ZT-D40600E-10M
 
 [🛒 Visítala!!!]({{< param buyurl >}})
