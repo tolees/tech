@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo Chrome OS
-- Procesador AMD Athlon Silver 3050C (2 núcleos, 2 subprocesos, hasta 3,2 GHz, 4 MB de caché L3)
-- Memoria RAM de 4 GBLPDDR4-2400 MHz
 - Almacenamiento de 64 GB SSD eMMC
+- Memoria RAM de 4 GBLPDDR4-2400 MHz
+- Procesador AMD Athlon Silver 3050C (2 núcleos, 2 subprocesos, hasta 3,2 GHz, 4 MB de caché L3)
+- Sistema Operativo Chrome OS
 - Pantalla FHD (1920 x 1080) de 14", IPS, 250 nits
 - Tarjeta gráfica integrada AMD Radeon
 

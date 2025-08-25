@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15,6" FHD(1920x1080), tasa de refresco 144Hz, IPS-Level
-- Procesador AMD Ryzen 7 7735HS
 - Gráfica NVIDIA GeForce RTX 4050 Laptop
+- Procesador AMD Ryzen 7 7735HS
+- Pantalla de 15,6" FHD(1920x1080), tasa de refresco 144Hz, IPS-Level
 - Memoria RAM 8GB*2, DDR5-4800, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
 - Color chasis Cosmos Gray
 

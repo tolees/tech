@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con la categoría de rendimiento de aplicaciones A8
-- Velocidades U3 y V30 de alto rendimiento
 - Elevadas velocidades de transferencia de hasta 170MB/s¹
 - Óptimo para cámaras de acción, drones y dispositivos Android
 - Resistente
+- Velocidades U3 y V30 de alto rendimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085T71SBK{{</world>}}

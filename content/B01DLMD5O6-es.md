@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- entrega Sony Lente de fotograma completo con montura E SEL50F18F.SYX
-- Calidad de imagen excéntrica gracias a un diseño óptico con elemento asférico
-- Para cámaras con montura en E de fotograma completo, compactas, ligeras y prácticas
-- Hermosos efectos bokeh con una salida de luz máxima de F1.8; vida útil más larga con la robusta carcasa metálica
-- Limpie la lente para evitar errores de aplicación
 - Longitud focal 50 mm (corresponde a APS-C 75 mm), apertura F1.8 (apertura más pequeña F22)
+- entrega Sony Lente de fotograma completo con montura E SEL50F18F.SYX
+- Para cámaras con montura en E de fotograma completo, compactas, ligeras y prácticas
+- Calidad de imagen excéntrica gracias a un diseño óptico con elemento asférico
+- Limpie la lente para evitar errores de aplicación
+- Hermosos efectos bokeh con una salida de luz máxima de F1.8; vida útil más larga con la robusta carcasa metálica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DLMD5O6{{</world>}}

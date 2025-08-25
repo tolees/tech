@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salida total de 100 W
 - Sonido nítido y amplio
+- Salida total de 100 W
 - Fácil de configurar
 - Diseño de bloque omnidireccional
 

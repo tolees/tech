@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin sistema operativo
-- Almacenamiento de datos SSD M.2 512 GB PCIe Gen4 NVMe TLC
-- AMD Ryzen 7 7840HS (aumento máximo del reloj hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
 - Gráfica NVIDIA GeForce RTX 4060 8GB VRAM
+- AMD Ryzen 7 7840HS (aumento máximo del reloj hasta 5,1 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
+- Almacenamiento de datos SSD M.2 512 GB PCIe Gen4 NVMe TLC
 - Memoria RAM DDR5-5600 MHz 16 GB (2 x 8 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

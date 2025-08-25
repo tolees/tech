@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Mando para Switch】Este par de inalámbricos Switch mando es perfectamente compatible con Switch como reemplazo del Controller original. Se puede conectar a Switch a través de cable y Bluetooth.( Sin función Amiibo NFC)
-- 【Batería Recargable Incorporada】Este mando inalámbrico incorporado en una batería de litio recargable de 400 mA. Se tarda 2-3 horas en cargarse por completo, y luego puedes jugar al juego unas 10 horas. Y el controlador se carga a través del cable USB tipo C (incluido).
-- 【MOTOR DUAL Y 6-Gyro-Axis】Este switch controlador admite choque de motor dual, retroalimentación de vibración, 6 funciones giroscópicas somatosensoriales y captura de pantalla. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego. Ideal para jugar Zelda, Mario Odyssey, Mario Kart, Splatoon 2, etc.
 - 【Mandos Izquierdo y Derecho y Más Ergonómicos】Los joypads izquierdo y derecho se pueden usar por separado. Para que pueda jugar juegos multijugador y cada joypad tiene funciones de vibración y eje giroscópico. Ofreciéndote una experiencia de juego agradable. Tiene un diseño más ergonómico que el controller original, y se siente cómodo en la mano. Puede jugar durante mucho tiempo sin sentir fatiga en las manos.
+- 【Batería Recargable Incorporada】Este mando inalámbrico incorporado en una batería de litio recargable de 400 mA. Se tarda 2-3 horas en cargarse por completo, y luego puedes jugar al juego unas 10 horas. Y el controlador se carga a través del cable USB tipo C (incluido).
 - 【Admite Función con Cable y Bluetooth Inalámbrico】El mando Switch es el mismo que el controller original. Se puede instalar fácilmente en la consola del interruptor a través del riel deslizante y una conexión por cable automática. También se puede conectar a Switch de forma inalámbrica a través de Bluetooth. La distancia de conexión estable es de 8 m (sin obstáculos).
+- 【MOTOR DUAL Y 6-Gyro-Axis】Este switch controlador admite choque de motor dual, retroalimentación de vibración, 6 funciones giroscópicas somatosensoriales y captura de pantalla. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego. Ideal para jugar Zelda, Mario Odyssey, Mario Kart, Splatoon 2, etc.
+- 【Mando para Switch】Este par de inalámbricos Switch mando es perfectamente compatible con Switch como reemplazo del Controller original. Se puede conectar a Switch a través de cable y Bluetooth.( Sin función Amiibo NFC)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4DQ1VLV{{</world>}}

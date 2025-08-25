@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología 802.11ax: con ofdma y mu-mimo, wifi 6 ofrece unas transmisiones rápidas estables y eficientes al conectar múltiples dispositivos simultáneamente
-- Disfruta de transmisiones bluetooth el doble de rápidas y de un rango hasta 4 veces superior
 - Antena externa para reducir las zonas sin cobertura: posiciona la antena en el lugar idóneo con el cable incluido
+- Disfruta de transmisiones bluetooth el doble de rápidas y de un rango hasta 4 veces superior
+- Tecnología 802.11ax: con ofdma y mu-mimo, wifi 6 ofrece unas transmisiones rápidas estables y eficientes al conectar múltiples dispositivos simultáneamente
 - Conexiones wi-fi de alta velocidad:3000 mbps para manejar las redes más saturadas
 - El estándar wi-fi: wifi 6 (802.11ax) rinde más y consume menos energía
 

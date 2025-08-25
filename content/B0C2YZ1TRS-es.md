@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología FreeSync que proporciona tasas de refresco variables para una latencia baja, sin tirones ni tearing mientras se juega
-- Función GamePlus delicadamente diseñada para todas las necesidades de gaming
 - Monitor Gaming IPS Full HD (1920 x 1080) de 23.8 pulgadas con una tasa de refresco de 100 Hz diseñado para un juego envolvente
+- Función GamePlus delicadamente diseñada para todas las necesidades de gaming
 - La tecnología ASUS Extreme Low Motion Blur (ELMB) permite un tiempo de respuesta de 0.5 ms (MPRT), eliminando el efecto ghosting para obtener imágenes nítidas en los juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

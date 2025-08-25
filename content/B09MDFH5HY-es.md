@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad con PCIe 5.0 y 4.0
-- Zócalo LGA1700
-- Frecuencia base: 2,5 GHz.
-- CPU Intel de la 12ª generación.
 - Potencia base del procesador: 65 W.
+- Compatibilidad con PCIe 5.0 y 4.0
+- Frecuencia base: 2,5 GHz.
+- Zócalo LGA1700
+- CPU Intel de la 12ª generación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MDFH5HY{{</world>}}

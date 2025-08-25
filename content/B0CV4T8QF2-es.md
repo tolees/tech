@@ -29,15 +29,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 16 GB de RAM LPDDR5X y almacenamiento UFS 4.0 de 512 GB.
-- Android 14.
-- Batería de 5500 mAh, carga rápida 5.0 y carga PD.
-- Grabación de vídeo: Modo cinematográfico exclusivo, hasta 8K UHD en 24 FPS y 4K UHD en 60 FPS.
-- Cámara trasera principal: sensor de imagen Sony IMX890 de 50 MP con estabilizador gimbal 3.0, Segunda cámara trasera: 13 MP, cámara ultra gran angular de 120°, Tercera cámara trasera: 32 MP, Cámara frontal: 32 MP.
-- Resistencia al agua y al polvo con clasificación IP68.
-- Plataforma móvil Qualcomm Snapdragon 8 Gen 3.
 - Bluetooth 5.4, Qualcomm aptX adaptable y aptX sin pérdidas, Conector para auriculares de 3,5 mm.
-- Funciones ASUS IA: búsqueda semántica, traductor de llamadas, fondo de pantalla IA y cancelación de ruido.
+- Android 14.
+- Plataforma móvil Qualcomm Snapdragon 8 Gen 3.
 - Pantalla AMOLED LTPO flexible de 6,78” de 144 Hz, Brillo máximo de hasta 2500 nits.
+- Grabación de vídeo: Modo cinematográfico exclusivo, hasta 8K UHD en 24 FPS y 4K UHD en 60 FPS.
+- Resistencia al agua y al polvo con clasificación IP68.
+- Cámara trasera principal: sensor de imagen Sony IMX890 de 50 MP con estabilizador gimbal 3.0, Segunda cámara trasera: 13 MP, cámara ultra gran angular de 120°, Tercera cámara trasera: 32 MP, Cámara frontal: 32 MP.
+- Batería de 5500 mAh, carga rápida 5.0 y carga PD.
+- Funciones ASUS IA: búsqueda semántica, traductor de llamadas, fondo de pantalla IA y cancelación de ruido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV4T8QF2{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Azul
-- Creado con atención al detalle
 - Explora nuestra gama de productos
 - Tipo de conector: USB tipo C
+- Azul
 - ATI es un nombre de marca reconocido
+- Creado con atención al detalle
 - Tamaño de pantalla: 6.67 inches
 
 [🛒 Aquí!!!]({{< param buyurl >}})

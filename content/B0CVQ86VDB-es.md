@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Requiere configuración
 - Teléfono celular
 - Diseño moderno
-- Requiere configuración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVQ86VDB{{</world>}}

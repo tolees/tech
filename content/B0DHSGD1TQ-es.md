@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador AMD Ryzen 7 8840HS (8C/Octa-Core), 3.30 GHz
-- Tarjeta Gráfica AMD Radeon Graphics
 - Almacenamiento de 512GB SSD PCI Express NVMe 4.0
-- Pantalla de 15,6", FullHD LCD 1920 x 1080 pixeles, 60Hz
+- Procesador AMD Ryzen 7 8840HS (8C/Octa-Core), 3.30 GHz
 - Sistema Operativo: Windows 11 Home
+- Pantalla de 15,6", FullHD LCD 1920 x 1080 pixeles, 60Hz
+- Tarjeta Gráfica AMD Radeon Graphics
 - Memoria RAM de 16GB DDR5 SDRAM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

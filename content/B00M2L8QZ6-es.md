@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teléfono móvil de banda cuádruple
 - Doble sim
-- Compatible con memoria externa de 32gb
 - Cámara digital 0.3mp
+- Compatible con memoria externa de 32gb
+- Teléfono móvil de banda cuádruple
 - Incorpora reproductor mp3/mp4, radio fm, bluetooth, manos libres y toma de auriculares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

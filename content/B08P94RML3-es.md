@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Samsung
-- Alcance hasta 120 metros
 - Color: negro
 - Tecnología bluetooth
+- Alcance hasta 120 metros
+- Marca: Samsung
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P94RML3{{</world>}}

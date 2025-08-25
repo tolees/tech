@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viper V570 mouse con sensor láser Avago de 12000 DPI EDICIÓN BLACKOUT
-- Retroiluminación programable RGB LED
-- Sensor láser de alta precisión de hasta 12000 DPI
-- Patas de cerámica para una suavidad incomparable del mouse
 - Perfiles RGB y 13 teclas totalmente programables
+- Patas de cerámica para una suavidad incomparable del mouse
+- Viper V570 mouse con sensor láser Avago de 12000 DPI EDICIÓN BLACKOUT
+- Sensor láser de alta precisión de hasta 12000 DPI
+- Retroiluminación programable RGB LED
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076HZJYKL{{</world>}}

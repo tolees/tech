@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Pantalla de 15.6 pulgadas, FullHD (resolución 1920x1080 píxeles), IPS, 250nits, 60Hz, Antirreflejos
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Procesador AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB L2 / 16MB L3)
 - Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe
+- Procesador AMD Ryzen 5 5600H (6C / 12T, 3.3 / 4.2GHz, 3MB L2 / 16MB L3)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN4914WW{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estructura de aluminio para una durabilidad óptima
+- Diseño compacto 60% para una experiencia de juego portátil y sencilla
 - Memoria integrada y preajustes de iluminación
 - Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral
-- Diseño compacto 60% para una experiencia de juego portátil y sencilla
-- Estructura de aluminio para una durabilidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089QP4QNB{{</world>}}

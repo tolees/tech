@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Incluye un escáner de huellas dactilares en pantalla que funciona como un monitor de frecuencia cardíaca
 - Estabilización de imagen óptica y electrónica
-- Tamaño de la pantalla: 6.4 "
 - Carga hasta el 50 % en 15 minutos
+- Tamaño de la pantalla: 6.4 "
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PBVBXQK{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TECNOLOGÍA CROSSTECH: Este teclado pondrá tu ordenador y skill a un nivel superior. Con switches basados en tecnología crosstech harán aumentar tu velocidad de respuesta, precisión y durabilidad. ¡Ólvidate de tus anteriores partidas!
-- ILUMINACIÓN INTEGRAL: Encuentra el aliado perfecto para tu pc gaming y portatil gaming. Este teclado retroiluminado te ofrece 9 efectos multicolor marcados por sonido ambiental. ¡La iluminacion formará parte de tu juego
-- MATERIAL Y ADAPTABILIDAD MÁXIMA: Este teclado con usb full speed 2.0 gaming nunca te dejará de lado gracias a su compatibilidad para Win, Android, Linux y Mac. Además su diseño antisalpicaduras hará que aguantes hasta la última partida
 - ADAPTALO A TU ESTILO: Gracias sus 25 teclas antighosting, 6 keycaps macro y configuración analógica podrás reflejar cómo juegas en el teclado. ¡Personalízalo como quieras para que tus partidas no acaben en derrota!
 - ESTILO DE JUEGO AVANZADO: El teclado Alliance esta diseñado para aquellos gamer que quieran dar un salto de calidad en sus partidas. Teclado ergonomico, silencioso, sólido, con un tacto premium y adaptado a cada tipo de juego.
+- TECNOLOGÍA CROSSTECH: Este teclado pondrá tu ordenador y skill a un nivel superior. Con switches basados en tecnología crosstech harán aumentar tu velocidad de respuesta, precisión y durabilidad. ¡Ólvidate de tus anteriores partidas!
+- MATERIAL Y ADAPTABILIDAD MÁXIMA: Este teclado con usb full speed 2.0 gaming nunca te dejará de lado gracias a su compatibilidad para Win, Android, Linux y Mac. Además su diseño antisalpicaduras hará que aguantes hasta la última partida
+- ILUMINACIÓN INTEGRAL: Encuentra el aliado perfecto para tu pc gaming y portatil gaming. Este teclado retroiluminado te ofrece 9 efectos multicolor marcados por sonido ambiental. ¡La iluminacion formará parte de tu juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079FWWX8B{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 antenas externas de 3 dBi que fortalecen la señal para ampliar la cobertura WiFi hasta más de 200 metros
-- Botón de extensión (WPS) para ampliar la cobertura WiFi fácilmente
-- Compatible con los routers y DSL/fibra WiFi que admiten el estándar 802. 11n de las principales marcas
-- Velocidad de 300 Mbps (802.11n)
 - Descripción del módem: banda ancha móvil
+- Botón de extensión (WPS) para ampliar la cobertura WiFi fácilmente
+- Velocidad de 300 Mbps (802.11n)
+- Compatible con los routers y DSL/fibra WiFi que admiten el estándar 802. 11n de las principales marcas
+- 2 antenas externas de 3 dBi que fortalecen la señal para ampliar la cobertura WiFi hasta más de 200 metros
 - Configuración rápido y sencilla, admite ocultación del SSID
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

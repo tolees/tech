@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla AMOLED CrystalRes dynamic de 1 a 120 Hz. Experiencia inmersiva
-- Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
-- Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
 - Lente óptica Leica Summilux
+- Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
+- Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
+- Pantalla AMOLED CrystalRes dynamic de 1 a 120 Hz. Experiencia inmersiva
 - Diseño fluido envolvente. Xiaomi Shield Glass
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresora de bolsillo para fotos instantáneas
 - Crea adhesivos fotográficos únicos de 5 x 7,5 cm
+- Impresora de bolsillo para fotos instantáneas
 - Tecnología sin tinta ZINK, Bluetooth, batería recargable integrada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atraviesa un mundo exuberante y dinámico, rico en recursos y diferente en cada partida
-- Desafía a tus amigos o forma equipos en intensas batallas mientras defiendes tu aldea mientras lideras tus unidades para destruir los asentamientos de tus oponentes
 - Forma alianzas con nuevos amigos y mafias conocidas, y luego lidera la carga en batallas épicas contra los feroces piglins para defender la Superficie
+- Desafía a tus amigos o forma equipos en intensas batallas mientras defiendes tu aldea mientras lideras tus unidades para destruir los asentamientos de tus oponentes
+- Atraviesa un mundo exuberante y dinámico, rico en recursos y diferente en cada partida
 - Experimenta una leyenda épica del universo Minecraft y la Superficie como nunca antes lo habías visto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

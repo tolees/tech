@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Switches ópticos para ratón Razer de 3 generación: Con un ciclo de vida mejorado de 90 millones de clics sin problemas de doble clic, además de un funcionamiento vertiginoso de 0,2 ms sin desactivación de rebote, disfruta de una fiabilidad y velocidad que superan a todas las demás.
 - Tecnología Razer HyperSpeed Wireless: La conexión un 25 % más rápida que cualquier otra tecnología inalámbrica garantiza partidas competitivas de alto rendimiento y baja latencia con suavidad y estabilidad continuas, incluso en entornos inalámbricos ruidosos.
 - Adaptabilidad y control absolutos: El Razer Naga V2 Pro viene con un conjunto de placas laterales magnéticas de 12, 6 y 2 botones, que te permiten adaptarte a cualquier género de juego con el control de hasta 19+1 botones programables y retroiluminados.
 - Sensor óptico Razer Focus Pro de 30 000 PPP: El nuevo sensor de Razer ofrece un rendimiento de seguimiento impecable en una mayor variedad de superficies, incluido el cristal, e incluye funciones inteligentes para mejorar la puntería y el control.
-- Switches ópticos para ratón Razer de 3 generación: Con un ciclo de vida mejorado de 90 millones de clics sin problemas de doble clic, además de un funcionamiento vertiginoso de 0,2 ms sin desactivación de rebote, disfruta de una fiabilidad y velocidad que superan a todas las demás.
 - Rueda Razer HyperScroll Pro: Con la sensibilidad, la resistencia y los pasos ajustables, crea desplazamientos más firmes y nítidos para cambiar de arma con precisión o desplazamientos más suaves con varios pasos para hacer pulsaciones repetitivas fácilmente en acciones como el salto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Produce fotos instax WIDE con la ventaja de poder ver las fotos antes de imprimirlas; 10 efectos de lente y 10 efectos de película
-- Utiliza exclusivamente película instax WIDE, tamaño foto 86 mm x 108 mm, tamaño imagen 62 mm x 9 9mm; ejercita tu creatividad además con 4 efectos más de película: cinemático, impresión de fecha, perforaciones de película y hoja de contactos
-- Imprime desde el teléfono vía Bluetooth, guarda en la galería tus fotos impresas y luego, súbelas a las redes fácilmente desde la aplicación exclusiva
 - Contiene cámara, tapa de objetivo, cable cargador USB-C, guía de usuario y correa de hombro
+- Imprime desde el teléfono vía Bluetooth, guarda en la galería tus fotos impresas y luego, súbelas a las redes fácilmente desde la aplicación exclusiva
+- Utiliza exclusivamente película instax WIDE, tamaño foto 86 mm x 108 mm, tamaño imagen 62 mm x 9 9mm; ejercita tu creatividad además con 4 efectos más de película: cinemático, impresión de fecha, perforaciones de película y hoja de contactos
 - Lente normal y gran angular, control de intensidad de efectos, rosca para trípode, espejo para selfis, slot para tarjeta micro SD y aplicación para smartphone
+- Produce fotos instax WIDE con la ventaja de poder ver las fotos antes de imprimirlas; 10 efectos de lente y 10 efectos de película
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DRBLR4TJ{{</world>}}

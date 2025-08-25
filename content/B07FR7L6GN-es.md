@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sistemas operativos compatibles: Windows 7, Windows 8, Windows 10
 - Tres zonas con dirección de tamaño completo y teclado numérico
-- Diseño compacto con contornos y formas naturales para que puedas reposar las manos y las muñecas
 - Contenido de la caja: teclado con cable HP Pavilion 300, guía rápida, avisos sobre el producto, tarjeta de garantía
+- Diseño compacto con contornos y formas naturales para que puedas reposar las manos y las muñecas
 - Teclado con cable que se integra con puerto USB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

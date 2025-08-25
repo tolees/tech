@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elemento de uso interno
 - Combo adaptador
+- Elemento de uso interno
 - Accesorio de red
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

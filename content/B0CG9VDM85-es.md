@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 puertos Ethernet Gigabit. Conecta dispositivos directamente por cable a máxima velocidad.
+- Wi-Fi de Doble Banda hasta 1900 Mbps. Hasta 1300 Mbps a 5 GHz y 600 Mbps a 2,4 GHz.
 - Cobertura en toda la casa. Elimina las zonas sin Wi-Fi de tu hogar cubriendo hasta 350m² con alta estabilidad y sin cortes.
 - Conecta hasta 100 dispositivos. Halo conecta con todos los dispositivos del hogar de manera rápida y estable.
+- 3 puertos Ethernet Gigabit. Conecta dispositivos directamente por cable a máxima velocidad.
 - Red unificada. Todas las unidades Halo trabajan juntas para formar una única red bajo un mismo nombre y contraseña en toda la casa.
-- Wi-Fi de Doble Banda hasta 1900 Mbps. Hasta 1300 Mbps a 5 GHz y 600 Mbps a 2,4 GHz.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CG9VDM85{{</world>}}
