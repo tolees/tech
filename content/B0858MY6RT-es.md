@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Óptimo para cámaras de acción, drones y dispositivos Android
+- Resistente
+- Elevadas velocidades de transferencia de hasta 170MB/s¹
 - Velocidades U3 y V30 de alto rendimiento
 - Compatible con la categoría de rendimiento de aplicaciones A3
-- Resistente
-- Óptimo para cámaras de acción, drones y dispositivos Android
-- Elevadas velocidades de transferencia de hasta 170MB/s¹
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0858MY6RT{{</world>}}

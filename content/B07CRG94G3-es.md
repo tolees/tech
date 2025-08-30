@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacena y accede fácilmente a 2 TB al contenido sobre la marcha con la unidad portátil Seagate, un disco duro externo USB
 - Esta unidad USB proporciona simplicidad Plug and Play con el cable USB 3.0 de 18 pulgadas incluido
 - Diseñado para funcionar con computadoras Windows o Mac, este disco duro externo hace que la copia de seguridad sea muy fácil, simplemente arrastra y suelta
+- Almacena y accede fácilmente a 2 TB al contenido sobre la marcha con la unidad portátil Seagate, un disco duro externo USB
 - Para configurar, conecta el disco duro portátil a una computadora para un reconocimiento automático, no requiere software
 - Nota: para usuarios de MAC, vaya a Finder y luego marque Preferencias | Pestaña General , Mostrar estos elementos en el escritorio. Confirme que Discos duros esté seleccionado.
 

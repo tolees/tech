@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Airplay
 - MusicCast
-- Control voz Alexa
 - Multiroom
+- Control voz Alexa
+- Airplay
 - Bluetooth
 
 [🛒 Aquí!!!]({{< param buyurl >}})

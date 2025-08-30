@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Código de artículo: SDCIT2/16GB
-- Tarjeta Industrial microSDHC/SDXC con adaptador de SD
-- Capacidad de almacenamiento de memoria: 16.0
-- Resistente a las temperaturas más extremas
 - Velocidad UHS-I Clase U3, V30, A1
-- Alta resistencia
+- Tarjeta Industrial microSDHC/SDXC con adaptador de SD
 - Funciones integradas de calidad industrial
+- Alta resistencia
+- Capacidad de almacenamiento de memoria: 16.0
+- Código de artículo: SDCIT2/16GB
+- Resistente a las temperaturas más extremas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09CYDWS4J{{</world>}}

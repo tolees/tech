@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La funda Smart Folio para el iPad Pro protege tu dispositivo por ambos lados sin pesar ni abultar nada.
 - También lo activa cuando la abres y lo pone en reposo cuando la cierras.
+- La funda Smart Folio para el iPad Pro protege tu dispositivo por ambos lados sin pesar ni abultar nada.
 - La Smart Folio se acopla de forma magnética y puedes plegarla en distintas posiciones para convertirla en el soporte perfecto con el que leer, escribir, ver películas o hacer videollamadas FaceTime.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

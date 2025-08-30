@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El revestimiento exterior de goma asegura una sujeción firme y evita caídas accidentales.
+- Ofrece una ampliación de 10x y un diámetro de 50 milímetros, con una salida de pupila de 5 milímetros. Su campo de visión es de 6,5 grados y de 114 metros a una distancia de mil metros del sujeto, siendo capaz de enfocar a 9 metros de distancia
+- Ópticas de gran diámetro que proporcionan una excelente capacidad de captación de la luz.
 - Binocular con un diseño óptico de prismas de porro y una gran apertura que proporcionan una observación cómoda y luminosa, aptos para un amplio abanico de aplicaciones
 - El revestimiento múltiple del grupo óptico minimiza los reflejos, proporcionando una imagen bien definida, sin destellos (flare) ni imágenes fantasma (ghosting).
-- Ofrece una ampliación de 10x y un diámetro de 50 milímetros, con una salida de pupila de 5 milímetros. Su campo de visión es de 6,5 grados y de 114 metros a una distancia de mil metros del sujeto, siendo capaz de enfocar a 9 metros de distancia
-- El revestimiento exterior de goma asegura una sujeción firme y evita caídas accidentales.
-- Ópticas de gran diámetro que proporcionan una excelente capacidad de captación de la luz.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VXLPPG3{{</world>}}

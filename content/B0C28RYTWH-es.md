@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiempo de respuesta 1 ms VRB
-- Tecnología anti-fragmentación AMD FreeSync
 - Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
 - Soporte ErgoStand ergonómico, regulable en altura, ajustable e inclinable
+- Tecnología anti-fragmentación AMD FreeSync
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C28RYTWH{{</world>}}

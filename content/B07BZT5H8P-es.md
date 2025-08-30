@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rendimiento de vídeo 130 (VPG 130) para vídeos 4K de calidad cinematográfica
-- Velocidades extremas de transferencia de datos de hasta 525 MB/s
 - Para cámaras y videocámaras profesionales de alto rendimiento con tecnología CFast 2.0
 - Velocidades extremas de escritura de hasta 450 MB/s
+- Rendimiento de vídeo 130 (VPG 130) para vídeos 4K de calidad cinematográfica
 - Lista para grabar vídeos 4K (4096x2160p) de calidad cinematográfica
+- Velocidades extremas de transferencia de datos de hasta 525 MB/s
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BZT5H8P{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Curvatura óptima: Las escenas cobrarán vida a tu alrededor. Experimenta el siguiente nivel de gaming. La pantalla 1000R completa tu visión periférica y te sumerge aún más en cada escena.
 - Tasa de refresco de 165Hz: Prepárate para conquistar a tus enemigos sin retraso de entrada ni imágenes borrosas. La tasa de refresco ultrarrápida de 165Hz puede hasta con las escenas más emocionantes y las imágenes más rápidas. Los 60Hz en un monitor convencional y los 165Hz en Odyssey G5 se comparan para describir el beneficio de la alta frecuencia de actualización.
-- Tiempo de respuesta de 1 ms: Haz que cada movimiento cuente con un tiempo de respuesta de 1 ms. Salta sobre los enemigos tan pronto como los veas y mantente al frente con movimientos precisos de tu ratón. Tu rendimiento en pantalla es tan rápido como tus propios reflejos.
+- Curvatura óptima: Las escenas cobrarán vida a tu alrededor. Experimenta el siguiente nivel de gaming. La pantalla 1000R completa tu visión periférica y te sumerge aún más en cada escena.
 - AMD FreeSync Premium: Jugabilidad fluida sin esfuerzo. AMD FreeSync Premium cuenta con tecnología de sincronización adaptativa que reduce el tearing, el stutter y la latencia de entrada. La compensación de baja velocidad de fotogramas garantiza que cada escena fluya sin problemas.
+- Tiempo de respuesta de 1 ms: Haz que cada movimiento cuente con un tiempo de respuesta de 1 ms. Salta sobre los enemigos tan pronto como los veas y mantente al frente con movimientos precisos de tu ratón. Tu rendimiento en pantalla es tan rápido como tus propios reflejos.
 - Resolución Ultra WQHD: a resolución Ultra-WQHD te ofrece una amplia visión integral de tu mundo de juego, con detalles verdaderamente realistas. Disfruta de una inmersión pura, eliminando la distracción del bisel central y el desorden de cables de una configuración de dos monitores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

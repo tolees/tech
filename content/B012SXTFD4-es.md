@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diseño compacto : con dimensiones de 406 x 70 x 73 mm y un peso de 780 gramos, la barra de sonido BS23 es fácil de ubicar en cualquier espacio del hogar.
 - Potencia y calidad de sonido: potencia de 10W RMS x 2, con respuesta de frecuencia de 100Hz a 20kHz y una alta relación señal/ruido de ≥ 80dB, asegurando una gran experiencia auditiva.
-- Carga rápida: cuenta con conexión USB-C que permite la carga completa de la barra de sonido en tan solo 2 horas y media. Incluye cable de carga y cable auxiliar.
 - Audio claro y definido: equipada con dos controladores de 57 mm, esta barra de sonido proporciona un sonido nítido y definido para disfrutar al máximo de películas, series y música en el hogar.
+- Carga rápida: cuenta con conexión USB-C que permite la carga completa de la barra de sonido en tan solo 2 horas y media. Incluye cable de carga y cable auxiliar.
 - Conexión versátil: conexión Bluetooth 5.3 que ofrece un alcance inalámbrico de hasta 10 metros, brindando flexibilidad en la colocación de la barra de sonido según las necesidades del usuario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

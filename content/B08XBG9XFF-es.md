@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de montaje: Sony e
 - Tipo de lente: Teleobjetivo
+- Tipo de montaje: Sony e
 - Objetivo Sigma 28-70mm F2.8 DG DN (C) para Sony e
 - Pierna focal máxima: 70.0
 

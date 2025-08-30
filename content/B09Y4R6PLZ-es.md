@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 16" 16:10 QHD+ 165Hz mLED DCI-P3 100% typical, VESA DisplayHDR 1000 Certified
 - Memoria RAM de 16GB LPDDR5
 - Tarjeta gráfica nVidia RTX 4050 GDDR6 6GB
-- Procesador Raptor Lake i7-13700H
 - Tarjeta gráfica nVidia RTX 4050 GDDR6 6GB
+- Procesador Raptor Lake i7-13700H
 - Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Pantalla de 16" 16:10 QHD+ 165Hz mLED DCI-P3 100% typical, VESA DisplayHDR 1000 Certified
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y4R6PLZ{{</world>}}

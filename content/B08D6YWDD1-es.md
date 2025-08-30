@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatibilidad modelos de Apple Watch: SE, Series 7, Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, 1.a generación
 - Conecta el adaptador directamente al conector Lightning del dispositivo.
-- Este adaptador de diseño compacto carga de forma rápida y eficiente.
+- Compatibilidad modelos de iPhone: iPhone 5 - iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max
 - Requiere un cable de conector Lightning a USB-A o de conector de 30 clavijas a USB-A (no incluido, se vende por separado)
 - Compatibilidad modelos de iPad: iPad Pro de 12,9 pulgadas (1.a y 2.a generación), iPad Pro de 10,5 pulgadas, iPad Pro de 9,7 pulgadas, iPad (5.a, 6.a, 7.a, 8.a y 9.a generación), iPad Air (3.a generación), iPad Air 2, iPad Air (1.a generación), iPad mini (5.a generación), iPad mini 4, iPad mini 3, iPad mini 2, iPad mini (1.a generación)
-- Compatibilidad modelos de iPhone: iPhone 5 - iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max
-- Compatibilidad modelos de Apple Watch: SE, Series 7, Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, 1.a generación
+- Este adaptador de diseño compacto carga de forma rápida y eficiente.
 - Compatibilidad modelos de iPod: iPod touch (5.a, 6.a y 7.a generación), iPod nano (7.a generación), iPod shuffle (4.a generación)
 - Usa este adaptador de corriente USB para cargar tu iPhone, iPad o iPod con conector Lightning en casa, de viaje o cuando el dispositivo no esté conectado a un ordenador.
 

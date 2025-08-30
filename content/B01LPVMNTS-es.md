@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de gran calidad.
 - Fiable.
+- Producto de gran calidad.
 - Fácil de usar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

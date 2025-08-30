@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Interfaz revolucionaria Ruleta Roja con 8 teclas de acceso directo. Diseño revolucionario contra tabletas gráficas tradicional con ruleta roja, mucho más cómodo de usar que una barra táctil. Equipado también con 8 teclas de acceso rápido personalizable, le permiten mejorar su flujo de trabajo.
 - Tableta gráfica Super Portable - XP-PEN Artist 15.6 Pro tiene una pantalla de visualización de 15.6 pulgadas, dimensiones 443 x 280 x 12.6 mm, grosor: 11 mm, resolución: 1920x1080 Pixeles, Ángulo de visión: 178°. Pantalla gráfica para acompañarlo a cualquier lugar en su viaje creativo.
 - Contabilidad versátil: XP-Pen Artist 15.6 Pro es compatible con Windows10/8/7 (32 / 64bit), Mac OS X 10.10 o posterior, y funciona con los principales software de gráficos como Photoshop, Painter, Illustrator, Clip Studio, y muchos más.
 - Lápiz sensible de 8192 niveles con función de inclinación de 60° - Lápiz pasivo sin batería de 8192 niveles de sensibilidad a la presión, fluido como dibujar en un papel con un lápiz real. Con la función de inclinación de 60°, simplemente incline el lápiz para añadir sombra a su creación y disfrute de transiciones más suaves y naturales entre líneas y trazos.
 - Pantalla totalmente laminada con gama de color elevada: la pantalla y el vidrio se combina con la tecnología más avanzada ""Totalmente laminado"", casi sin paralaje para dibujar. Con una excelente precisión de color del 88% NTSC, 120% sRGB, ofrece colores intensos, imágenes vibrantes y detalles deslumbrantes.
-- Interfaz revolucionaria Ruleta Roja con 8 teclas de acceso directo. Diseño revolucionario contra tabletas gráficas tradicional con ruleta roja, mucho más cómodo de usar que una barra táctil. Equipado también con 8 teclas de acceso rápido personalizable, le permiten mejorar su flujo de trabajo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07L8BC2B4{{</world>}}

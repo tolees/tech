@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La transparencia cristalina hace alarde del diseño original del teléfono
 - Tecnología Air Cushion para absorción de impactos
+- La transparencia cristalina hace alarde del diseño original del teléfono
 - Los biseles elevados para proteger las cámaras y pantalla de las superficies planas
 - Funda con imán integrado - Compatible con MagSafe
 - Los botones cubiertos ofrecen una respuesta de clic original y una accesibilidad rápida, mientras que los cortes grandes se adaptan a la mayoría de los cables

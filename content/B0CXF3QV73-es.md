@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica Intel Graphics
-- Sistema operativo Windows 11 Home
-- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
-- Procesador Intel Core 5 120U, 1.8 / 5.4 GHz, 12 MB Smart Cache
-- Almacenamiento de 512GB SSD
 - Memoria RAM de 8GB
+- Almacenamiento de 512GB SSD
+- Tarjeta gráfica Intel Graphics
+- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
+- Sistema operativo Windows 11 Home
+- Procesador Intel Core 5 120U, 1.8 / 5.4 GHz, 12 MB Smart Cache
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CXF3QV73{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
+- Tarjeta gráfica NVIDIA GeForce RTX 4070 8GB GDDR6
 - Pantalla de 16" Quad HD+ 2560 x 1600 pixeles, 240Hz, IPS 500 nits
 - Procesador Intel Core i9-14900HX (24C/undefined 5.8GHz, 36MB)
-- Tarjeta gráfica NVIDIA GeForce RTX 4070 8GB GDDR6
+- Sin Sistema Operativo
+- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSKR8CV9{{</world>}}

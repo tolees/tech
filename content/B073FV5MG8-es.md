@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Óptica digital con distancia focal variable ultra-gran-angular para cámaras DSLR con sensor Full Frame 24x36
-- objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
 - VC - estabilización de imagen con función shift
-- Di - óptica digital para formato completo
 - Compatible con la TAMRON TAP-in ConsoleTM
+- Di - óptica digital para formato completo
+- objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
 - Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

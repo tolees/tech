@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla de 15,6", FullHD LCD 1920 x 1080 pixeles, 60Hz
-- Memoria RAM de 16GB DDR5 SDRAM
 - Almacenamiento de 512GB SSD PCI Express NVMe 4.0
 - Procesador AMD Ryzen 7 8840HS (8C/Octa-Core), 3.30 GHz
-- Tarjeta Gráfica AMD Radeon Graphics
 - Sistema Operativo: Windows 11 Home
+- Memoria RAM de 16GB DDR5 SDRAM
+- Tarjeta Gráfica AMD Radeon Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSGD1TQ{{</world>}}

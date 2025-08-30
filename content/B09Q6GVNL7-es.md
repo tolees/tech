@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno y elegante
 - Conjunto de altavoces
+- Diseño moderno y elegante
 - Color: negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

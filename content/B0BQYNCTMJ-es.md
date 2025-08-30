@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sistema operativo, Windows 11 Home
 - Tarjeta gráfica Integrada AMD Radeon Graphics
+- Almacenamiento de 512 GB SSD M,2 2280 PCIe 3,0 x 4 NVMe
+- Pantalla 15,6 pulgadas, FullHD, 1920 x 1080 pixeles TN, 250 nits, antirreflejos
 - Memoria RAM de 8 GB (4 GB Soldered DDR4-32004 GB SO-DI mm DDR4-3200)
 - Procesador AMD Ryzen 7 5700U
-- Pantalla 15,6 pulgadas, FullHD, 1920 x 1080 pixeles TN, 250 nits, antirreflejos
-- Almacenamiento de 512 GB SSD M,2 2280 PCIe 3,0 x 4 NVMe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQYNCTMJ{{</world>}}

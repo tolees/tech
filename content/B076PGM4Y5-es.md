@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesorio tecnológico de calidad
 - SSD tarj
 - Transcend 240GB M.2 2242 SSD SATA3 3D TLC
+- Accesorio tecnológico de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076PGM4Y5{{</world>}}

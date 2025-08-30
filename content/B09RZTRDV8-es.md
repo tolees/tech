@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ATI es un nombre de marca reconocido
 - Tamaño de pantalla: 6.67 inches
 - Explora nuestra gama de productos
-- Creado con atención al detalle
 - Tipo de conector: USB tipo C
+- ATI es un nombre de marca reconocido
+- Creado con atención al detalle
 - Azul
 
 [🛒 Aquí!!!]({{< param buyurl >}})

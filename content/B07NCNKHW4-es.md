@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Palanca de cambios y levas en el volante
-- Grip de tejido sintético para mayor agarre
 - Compatible con PC, PS3, PS4 y XBOX ONE
-- Juego de volante y pedales
 - Efectos de vibración en el volante
+- Grip de tejido sintético para mayor agarre
+- Juego de volante y pedales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NCNKHW4{{</world>}}

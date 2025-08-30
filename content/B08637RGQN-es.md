@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Kingston technology canvas go plus memoria flash 128 GB microsd clase 10 uhs-i
 - Alta calidad
 - Diseno funcional
-- Kingston technology canvas go plus memoria flash 128 GB microsd clase 10 uhs-i
 - Brand: Kingston
 
 [🛒 Visítala!!!]({{< param buyurl >}})

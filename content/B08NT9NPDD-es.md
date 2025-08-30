@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potente bloqueo magnético: Mantén tu iPhone 12/13 seguro en su sitio incluso en las carreteras más difíciles; se recomienda la funda oficial MagSafe o la funda ESR HaloLock (no compatible con el iPhone 13 Pro).
-- Listo para navegar: Intercambia rápidamente el modo de navegación vertical y horizontal gracias a su anillo completo de imanes integrados.
-- Úsalo a tu manera: Puedes colocarlo de forma segura en el salpicadero o en el parabrisas y ajustar libremente la posición hasta encontrar el ángulo más cómodo.
-- Atención al cliente completa: videos de configuración detallados y preguntas frecuentes, garantía integral de 12 meses, soporte de por vida y ayuda personalizada
 - Qué está incluido: Incluye un cargador inalámbrico HaloLock para salpicadero, un soporte para el salpicadero, kit completo de limpieza, cable USB-A a USB-C de 1 m y manual de instrucciones; adaptador de carga para coche no incluido, SOLO compatible con teléfonos de la serie iPhone 15/14/13/12.
 - Carga más rápida y sencilla: La gestión inteligente del calor permite que este cargador ofrezca velocidades de carga casi idénticas a las de los cargadores oficiales MagSafe; se requiere un adaptador QC de 18W (no incluido).
+- Úsalo a tu manera: Puedes colocarlo de forma segura en el salpicadero o en el parabrisas y ajustar libremente la posición hasta encontrar el ángulo más cómodo.
+- Atención al cliente completa: videos de configuración detallados y preguntas frecuentes, garantía integral de 12 meses, soporte de por vida y ayuda personalizada
+- Potente bloqueo magnético: Mantén tu iPhone 12/13 seguro en su sitio incluso en las carreteras más difíciles; se recomienda la funda oficial MagSafe o la funda ESR HaloLock (no compatible con el iPhone 13 Pro).
+- Listo para navegar: Intercambia rápidamente el modo de navegación vertical y horizontal gracias a su anillo completo de imanes integrados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08NT9NPDD{{</world>}}

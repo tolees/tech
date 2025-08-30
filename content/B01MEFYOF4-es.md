@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Auriculares Cerrados
 - Color Negro
+- Auriculares Cerrados
 - HA-RX330-E
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Diseño exclusivo y patentado】：este decodificador TNT soporta texto/subtítulos/multi-idioma, potente y eficiente función EPG, temporizador de apagado y soporte de interfaz 3D. Nota: no se puede grabar cuando se establece el modo de reposo
-- 【Este es un decodificador H.265】: en España se produjo una transición a dvb-t2, el decodificador solo puede recibir en los canales H.265
-- 【Fácil conservación del programa】：Guarda tus programas de TV y disfruta de tus programas favoritos: conecta fácilmente el disco duro al puerto USB del decodificador. PUERTO USB Podrá reproducir contenido multimedia (fotos, videos, música),El PVR le permite grabar programas de TV en un disco duro USB y reproducirlos en un televisor u ordenador
 - 【RECEPTOR DVB-T2】：DVB-T2 HD, compatible con las normas HEVC / H265 y Dolby Digital Plus, El decodificador TV HD H.265,permite reproducir canales en alta definición utilizando el estándar DVB-T2 para ver los contenidos televisivos en abierto con la mayor calidad. No se puede utilizar para televisión por cable o satélite
 - 【Alcance de la entrega】：1 receptor DVB - t2 (tdt2), 1 control remoto universal (sin batería), 1 Un manual de uso.Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros.
+- 【Este es un decodificador H.265】: en España se produjo una transición a dvb-t2, el decodificador solo puede recibir en los canales H.265
+- 【Diseño exclusivo y patentado】：este decodificador TNT soporta texto/subtítulos/multi-idioma, potente y eficiente función EPG, temporizador de apagado y soporte de interfaz 3D. Nota: no se puede grabar cuando se establece el modo de reposo
+- 【Fácil conservación del programa】：Guarda tus programas de TV y disfruta de tus programas favoritos: conecta fácilmente el disco duro al puerto USB del decodificador. PUERTO USB Podrá reproducir contenido multimedia (fotos, videos, música),El PVR le permite grabar programas de TV en un disco duro USB y reproducirlos en un televisor u ordenador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWGG9WJH{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transmisión de comunicación estable entre el micrófono de la cámara y el receptor
 - Este micrófono inalámbrico Bluetooth está repleto de funciones para limitar el ruido
 - Marca del producto: Sony
-- Transmisión de comunicación estable entre el micrófono de la cámara y el receptor
 - Ofrece una calidad de audio clara y nítida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

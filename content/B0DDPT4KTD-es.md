@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acciones listas en el cursor: el anillo de acciones es una extensión digital personalizable de la consola, una superposición en pantalla que permite acceder a herramientas, accesos directos, acciones y mucho más.(2)
+- Personalización de cualquier aplicación: asigna herramientas y acciones a un máximo de 15 páginas de keypad por perfil, dial y control giratorio, y carga tus propios iconos en las teclas de pantalla LCD personalizables.
 - Descubre más en Marketplace: busca en una biblioteca cada vez mayor de acciones y complementos, perfiles recomendados, paquetes de iconos y más en Marketplace en la aplicación Logi Options+.(2)
+- Acciones listas en el cursor: el anillo de acciones es una extensión digital personalizable de la consola, una superposición en pantalla que permite acceder a herramientas, accesos directos, acciones y mucho más.(2)
+- Acelera tu flujo de trabajo creativo: Logitech MX Creative Console te permite acceder rápidamente a las herramientas y acciones de tus aplicaciones favoritas, para que puedas concentrarte por completo en tu trabajo
 - Integraciones de aplicaciones: Adobe Photoshop, Premiere Pro, Illustrator, Lightroom y Lr Classic, Final Cut Pro, Figma, Davinci Resolve, Spotify, Zoom y más; inicio rápido con perfiles recomendados (1)
 - Bluetooth y USB-C: empareja el dialpad con Bluetooth y usa 2 pilas AAA (incluidas) para disfrutar de hasta 18 meses de uso.(3) Conecta el keypad con un cable USB-C a USB-C (incluido)
-- Personalización de cualquier aplicación: asigna herramientas y acciones a un máximo de 15 páginas de keypad por perfil, dial y control giratorio, y carga tus propios iconos en las teclas de pantalla LCD personalizables.
-- Acelera tu flujo de trabajo creativo: Logitech MX Creative Console te permite acceder rápidamente a las herramientas y acciones de tus aplicaciones favoritas, para que puedas concentrarte por completo en tu trabajo
 - 3 meses de Adobe Creative Cloud gratis: Combina dos de las mejores herramientas creativas del mundo. Compra un equipo MX Creative Console y solicita tu suscripción gratuita de 3 meses a Adobe Creative Cloud
 - Control analógico táctil: haz ajustes precisos con el dial de control de baja fricción, navega con el control giratorio y accede a acciones con el keypad programable (incluye un soporte para una colocación flexible).
 

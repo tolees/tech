@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 1. Fuerte dureza y resistencia al impacto.
 - 3. Sin burbujas o polvo en el interior, menor tasa de obstrucciones o enredos.
-- 2. Rango de temperatura de impresión y diámetro: 200-250 ℃. 1,75 mm (tolerancia ± 0,03 mm).
 - 4. Bolsa de vacío sellada para mantenerla seca y evitar el polvo.
+- 2. Rango de temperatura de impresión y diámetro: 200-250 ℃. 1,75 mm (tolerancia ± 0,03 mm).
 - 5. N.W: 1 kg, G.W: 1.35 kg, diámetro interior del carrete 57 mm, diámetro exterior del carrete 200 mm, altura 64 mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
