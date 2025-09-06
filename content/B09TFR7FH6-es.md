@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO ICÓNICO: Estos potentes altavoces Bluetooth de estantería reflejan nuestro estilo único con materiales que marcan la diferencia en cuanto a la huella que dejamos sobre la madre Tierra y se pueden vincular con cualquier dispositivo Bluetooth
+- FABRICACIÓN SOSTENIBLE: Los altavoces Bluetooth inalámbricos Get Together Duo están fabricados con bambú y tejido REWIND (30 % de algodón orgánico recuperado, 30 % de cáñamo recuperado y 40 % de PET reciclado)
 - MÚSICA SIN LÍMITES: Lo mejor de ambos mundos. Uno es un altavoz con cable (con entradas RCA y AUX) y el otro es un altavoz recargable para usar en cualquier parte (25 horas de reproducción)
 - UNA OPCIÓN RESPETUOSA CON EL MEDIO AMBIENTE Y CON 2 AÑOS DE GARANTÍA: Un sonido estéreo de rango completo para una experiencia inigualable con «los mejores altavoces sostenibles», según Rolling Stone
-- FABRICACIÓN SOSTENIBLE: Los altavoces Bluetooth inalámbricos Get Together Duo están fabricados con bambú y tejido REWIND (30 % de algodón orgánico recuperado, 30 % de cáñamo recuperado y 40 % de PET reciclado)
+- ESTILO ICÓNICO: Estos potentes altavoces Bluetooth de estantería reflejan nuestro estilo único con materiales que marcan la diferencia en cuanto a la huella que dejamos sobre la madre Tierra y se pueden vincular con cualquier dispositivo Bluetooth
 - TOTALMENTE INALÁMBRICOS: Los altavoces de estantería (con graves de 2*15 W cada uno) se sincronizan automáticamente y tienen un sonido potente. Los tweeters de 2*5 W permiten que todo se escuche nítidamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

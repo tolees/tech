@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Múltiples opciones de montaje - De mesa, montaje en pared y en poste.
-- Alimentado por Ethernet - Proporciona tanto la conexión de datos como la energía eléctrica con un solo cable.
-- TP-Link HomeShield - Ofrece protección completa de red, controles parentales robustos y protección en tiempo real.
-- Funciona con todos los Decos - Compatible con cualquier otro modelo de Deco para formar una red de malla.
 - Funciona al aire libre - Certificado a prueba de agua y polvo.
+- Alimentado por Ethernet - Proporciona tanto la conexión de datos como la energía eléctrica con un solo cable.
+- Funciona con todos los Decos - Compatible con cualquier otro modelo de Deco para formar una red de malla.
+- Múltiples opciones de montaje - De mesa, montaje en pared y en poste.
 - Ethernet Gigabit completo - 2 puertos Ethernet Gigabit WAN/LAN proporcionan acceso sólido a Internet a altas velocidades.
+- TP-Link HomeShield - Ofrece protección completa de red, controles parentales robustos y protección en tiempo real.
 - AX3000 Dual-Band Wi-Fi 6 - Disfruta de ver tus series favoritas en 4K con velocidades combinadas de hasta 3000 Mbps (574 Mbps en 2.4 GHz y 2402 Mbps en 5 GHz).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

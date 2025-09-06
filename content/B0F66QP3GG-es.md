@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gráfica Nvidia GeForce RTX 5060 8GB memoria GDDR7
-- Ordenador de sobremesa gaming HP Omen RTX 5060 8GB
 - Procesador AMD Ryzen 7 8700F hasta 4.9Ghz 8 Cores, 16 hilos, 16 Tops, 24 MB caché L3
+- Ordenador de sobremesa gaming HP Omen RTX 5060 8GB
 - 32GB memoria RAM DDR5 5200, 1TB almacenamiento SSD 2280 PCIe NVMe Value
 - Sistema operativo Freedos
 

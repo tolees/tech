@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología sin tinta ZINK, Bluetooth, batería recargable integrada
 - Crea adhesivos fotográficos únicos de 5 x 7,5 cm
+- Tecnología sin tinta ZINK, Bluetooth, batería recargable integrada
 - Impresora de bolsillo para fotos instantáneas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

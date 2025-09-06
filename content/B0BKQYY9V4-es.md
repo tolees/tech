@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
 - Pantalla de 14" FHD (1920x1080) IPS 300nits Anti-glare, 45% NTSC
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
-- Tarjeta gráfica Integrated Intel Iris Xe Graphics Functions as UHD Graphics
-- Memoria RAM 16GB 8GB (Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
+- Procesador Intel i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB
 - W11 Pro
+- Memoria RAM 16GB 8GB (Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)
+- Tarjeta gráfica Integrated Intel Iris Xe Graphics Functions as UHD Graphics
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQYY9V4{{</world>}}

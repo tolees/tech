@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexión usb para escuchar música desde un pendrive (hasta 64 gb)
 - Transmisor fm que envía la música a la radio del coche sin necesidad de cables
+- Conexión usb para escuchar música desde un pendrive (hasta 64 gb)
 - Recarga tu smartphone o tablet a través del cargador del coche, con la conexión de carga usb
 - Compatible con tarjetas de memoria microsd (hasta 64 gb)
 - Pantalla para mostrar la información de la frecuencia seleccionada

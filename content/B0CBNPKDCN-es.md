@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel curvo FHD DE 23,6 PULGADAS: incorpora un panel VA curvo de 23,6 pulgadas (16:9, 1500R) de fácil visualización con resolución Full-HD (1920 x 1080 píxeles); una frecuencia de actualización de 100 Hz (MPRT de 1 ms)
 - Calidad de imagen: el PRO MP2422C admite una gama de colores sRGB del 98% (8 bits, 16,7 millones de colores), 250 nits de brillo y una relación de contraste de 3000:1; MSI Display Kit App desbloquea ajustes adicionales de pantalla, productividad y color
-- Conectividad DUAL: admite dos fuentes con puertos HDMI 1.4a (1920 x 1080 a 100 Hz) y D-Sub (1920 x 1080 a 60 Hz), compatible con Adaptive Sync; incluye bloqueo Kensington y puertos de salida de auriculares y entrada de línea
+- Panel curvo FHD DE 23,6 PULGADAS: incorpora un panel VA curvo de 23,6 pulgadas (16:9, 1500R) de fácil visualización con resolución Full-HD (1920 x 1080 píxeles); una frecuencia de actualización de 100 Hz (MPRT de 1 ms)
 - Simple y la vez flexible: el monitor incluye soportes VESA de 100 mm para montaje en pared o en brazo (por ejemplo, el brazo VESA MT81 de MSI), mientras que el soporte es ajustable en inclinación
 - Las características certificadas por TÜV Rheinland Eye Comfort incluyen una fidelidad cromática menos filtros de hardware Blue Light PRO y tecnología antiparpadeo
+- Conectividad DUAL: admite dos fuentes con puertos HDMI 1.4a (1920 x 1080 a 100 Hz) y D-Sub (1920 x 1080 a 60 Hz), compatible con Adaptive Sync; incluye bloqueo Kensington y puertos de salida de auriculares y entrada de línea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNPKDCN{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca Motorola
 - Sistema operativo Android
+- Producto de la marca Motorola
 - Material de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

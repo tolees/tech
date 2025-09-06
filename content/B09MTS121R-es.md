@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Visión nocturna con infrarrojos
-- Compatible con Android 6.0 e iOS 11.0 o versiones posteriores
-- Calidad de imagen 2K ultranítida
 - Llamadas de audio bidireccional
+- Compatible con Android 6.0 e iOS 11.0 o versiones posteriores
 - Detección de movimiento
+- Calidad de imagen 2K ultranítida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MTS121R{{</world>}}

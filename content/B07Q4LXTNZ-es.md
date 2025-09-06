@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Panasonic Lumix S Pro 70-200mm F4.0 O.I.S componente para: MILC con estructura de lente (elementos o grupos): 23/17
-- Zoom máximo (ps): 0.25x.; diámetro de 8.44 cm y tamaño de filtro: 7.7 cm
-- Construcción robusta: resistente al polvo; salpicaduras de agua y al frío (-10º y 40ºC)
 - Versátil y teleconvertidor: toma fotos atractivas desde ultra gran angular hasta distancia focal normal; uso flexible; para retratos; deporte y, o naturaleza salvaje
+- Zoom máximo (ps): 0.25x.; diámetro de 8.44 cm y tamaño de filtro: 7.7 cm
+- Panasonic Lumix S Pro 70-200mm F4.0 O.I.S componente para: MILC con estructura de lente (elementos o grupos): 23/17
+- Construcción robusta: resistente al polvo; salpicaduras de agua y al frío (-10º y 40ºC)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q4LXTNZ{{</world>}}

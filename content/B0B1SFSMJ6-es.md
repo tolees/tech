@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad y durabilidad óptimas de HyperX
 - Sonido característico de HyperX + DTS Headphone:X
+- Comodidad y durabilidad óptimas de HyperX
 - TWS dual inalámbrico: 2,4 GHz | Bluetooth
 - Batería de larga duración
 

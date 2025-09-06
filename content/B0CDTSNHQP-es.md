@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reloj inteligente
 - Pantalla de 47 mm
+- Reloj inteligente
 - Color: plateado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

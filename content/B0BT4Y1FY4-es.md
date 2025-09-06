@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cambie entre los ajustes preestablecidos integrados para juegos FPS, carreras o RTS o establezca y guarde sus propias condiciones ideales
-- Brillo/contraste 300 cd/m², 3000:1, puertos 2 x HDMI 2.0, 1 x DisplayPort 1.2
 - Panel VA responsivo de 27" con resolución FHD y una relación de súper contraste de 3000:1. Sea el más rápido en la acción con una frecuencia de actualización de 240 Hz, sincronización adaptativa, tiempo de respuesta MPRT de 0,5 ms y bajo retraso de entrada.
 - Monitor de PC para juegos FullHD de 27 pulgadas con tecnología Low Blue Light para diversión ilimitada en juegos y calidad de imagen gracias a Free Sync Premium
+- Brillo/contraste 300 cd/m², 3000:1, puertos 2 x HDMI 2.0, 1 x DisplayPort 1.2
+- Cambie entre los ajustes preestablecidos integrados para juegos FPS, carreras o RTS o establezca y guarde sus propias condiciones ideales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT4Y1FY4{{</world>}}

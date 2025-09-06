@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Graba en full hd y 4k con las categorías de velocidad de vídeo class 10, u3 y v30
 - Guarda más vídeos con capacidades de hasta 256.gb
-- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos x
 - Ideal para cámara s de salpicadero y sistemas de vigilancia del hogar
+- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos x
 - Diseñada para ofrecer una alta resistencia, de manera que podrás grabar hasta 20.000 horas sin preocupaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

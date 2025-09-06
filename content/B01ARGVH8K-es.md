@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La salida PoE tiene un limitador de corriente, un fusible de cortocircuito y detección y clasificación automática de terminales para PoE+ IEEE802.3at e IEEE802.3af PoE.
-- El consumo de potencia del inyector, incluso a plena carga, es de máx. 7,0 vatios - El volumen de suministro incluye un cable de conexión de potencia.
 - Con una velocidad de transferencia de datos de 1 GBit/s, este inyector PoE cumple con el estándar Gigabit Ethernet y tiene una tensión de salida máxima de 48 V, así como una potencia de salida de 30 W. El inyector PoE tiene una tensión de salida máxima de 48 V y una potencia de salida de 30 W.
+- El consumo de potencia del inyector, incluso a plena carga, es de máx. 7,0 vatios - El volumen de suministro incluye un cable de conexión de potencia.
 - PoE se utiliza preferiblemente cuando no es posible el suministro de energía en el lugar de trabajo y los dispositivos adecuados también pueden alimentarse simultáneamente a través del cable de red de entrada.
 - Dos conectores hembra RJ45 y una conexión a la red están integrados en la carcasa de plástico - La alimentación se realiza a través de los pin 4/5(+) y 7/8(-) a través del conector hembra de red "PoE" marcado.
 

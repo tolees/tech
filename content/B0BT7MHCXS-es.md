@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Efecto RGB: la iluminación RGB integrada crea una atmósfera de juego perfecta
-- Micrófono: para una comunicación óptima en el juego, el MG300 dispone de un micrófono
-- Modos de sonido seleccionables: ya sea para reproducción de música o juegos, el perfil de sonido adecuado para cada uso
 - Compacto y cómodo: cabe en cualquier escritorio y es fácil de transportar. Botones de control en la parte superior del altavoz.
+- Modos de sonido seleccionables: ya sea para reproducción de música o juegos, el perfil de sonido adecuado para cada uso
 - BLUETOOTH 5.3 – Para la transmisión de audio inalámbrica de smartphone, tablet & Co. Apertura de reflejo de graves.
+- Micrófono: para una comunicación óptima en el juego, el MG300 dispone de un micrófono
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT7MHCXS{{</world>}}

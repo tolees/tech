@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta del soporte móvil extraíble con brazo ajustable que se adapta a dispositivos de hasta 79 mm de ancho
-- Admite DirectInput y XInput para una mayor compatibilidad de dispositivos y juegos
-- Controla tus juegos de Xbox compatibles en la nube desde tu móvil
 - Compre un producto con licencia oficial
 - Conéctese con su móvil / tableta o computadora portátil / PC Android a través de Bluetooth inalámbrico o en modo cableado con un USB
-- Carga tu móvil mientras juegas o entre sesiones con el banco de carga integrado
+- Admite DirectInput y XInput para una mayor compatibilidad de dispositivos y juegos
 - Compatibilidad del dispositivo: Teléfono y tableta Android (Marshmallow 6.0 o más reciente) o computadora portátil / PC con Windows 10
+- Carga tu móvil mientras juegas o entre sesiones con el banco de carga integrado
+- Controla tus juegos de Xbox compatibles en la nube desde tu móvil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08F6H8TBD{{</world>}}

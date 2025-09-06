@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
-- VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura.
-- Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición. Revestimiento de flúor y sellado robusto contra el polvo y humedad.
 - Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
-- Optica digital para Sensores Full Frame 24x36
 - Estabilizador VC (Vibration Compesation) de tres modos
+- Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
+- Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición. Revestimiento de flúor y sellado robusto contra el polvo y humedad.
+- Optica digital para Sensores Full Frame 24x36
+- VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LCFBNWA{{</world>}}

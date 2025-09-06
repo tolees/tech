@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REPRODUCIE TU MÚSICA FAVORITA: conecxión Bluetooth con tu smartphone para reproducir tu música en la barra de sonido.
 - PRODUCTO ECO SMART GREEN QUE CUIDA DEL PLANETA. Desde la forma en la que producimos hasta en la que enviamos.
+- REPRODUCIE TU MÚSICA FAVORITA: conecxión Bluetooth con tu smartphone para reproducir tu música en la barra de sonido.
 - CONEXIÓN SENCILLA CON TU TV: mayor conectividad mediante Bluetooth o cable óptico.con tu TV, para una conexción rápida y sencilla.
 - SONIDO POTENTE: potencia tu experiencia audiovisual con esta barra de sonido de tamaño compacto.
 

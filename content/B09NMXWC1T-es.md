@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela de calidad y forro de microfibra que protege la pantalla a la vez que la mantiene limpia.
 - La tapa con imanes mantiene la funda firmemente cerrada.
-- La funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
 - Diseño fino y ligero para que puedas leer durante horas con total comodidad.
-- Fabricada con un 51 % de plásticos reciclados posconsumo y un 67 % de tela reciclada posconsumo.
-- Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
 - El embalaje de este accesorio es 100 % reciclable (no incluye el embalaje del centro logístico).
+- Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
+- La funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
 - Diseñada para ajustarse perfectamente a tu nuevo Kindle (solo compatible con los modelos de 2022 y 2024).
+- Fabricada con un 51 % de plásticos reciclados posconsumo y un 67 % de tela reciclada posconsumo.
+- Tela de calidad y forro de microfibra que protege la pantalla a la vez que la mantiene limpia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NMXWC1T{{</world>}}

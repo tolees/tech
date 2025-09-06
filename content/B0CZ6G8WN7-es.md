@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto para tu ordenador
 - Material de calidad
+- Producto para tu ordenador
 - Sencillo de usar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

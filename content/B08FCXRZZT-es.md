@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Potencia: 750 W.
-- Estándar: ATX12V 2.3.
-- Ventilador: 120 mm.
 - Protección: protección contra picos de corriente OCP, protección contra sobretensión OVP, protección de bajo voltaje UVP, protección contra sobrecarga OLP/OPP, protección contra cortocircuitos SCP, protección contra sobrecalentamiento OTP.
+- Potencia: 750 W.
+- Ventilador: 120 mm.
+- Estándar: ATX12V 2.3.
 - Característica: gestión de cables, PCC activo, 80 Plus oro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

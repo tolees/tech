@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Latencia de clic casi nula: el sistema mecánico de tensión de los botones proporciona un accionamiento instantáneo de los mismos sin clics indeseados
-- Seguimiento preciso del movimiento: 12.000 ppp con una desviación del 1%, sensor óptico de 300 ips y tasa de sondeo de 1000 Hz
 - Sensación de clic óptima: los microinterruptores ROG ofrecen una fuerza de clic constante y una vida útil de 70 millones de clics
-- Ligero y ergonómico: su diseño de 59 gramos y su forma ergonómica aseguran la comodidad durante las intensas sesiones de juego
 - El diseño Push-Fit Switch Socket permite instalar interruptores mecánicos y microinterruptores ópticos Omron para ajustar el tacto los clics y prolongar la vida útil del ratón
+- Seguimiento preciso del movimiento: 12.000 ppp con una desviación del 1%, sensor óptico de 300 ips y tasa de sondeo de 1000 Hz
+- Ligero y ergonómico: su diseño de 59 gramos y su forma ergonómica aseguran la comodidad durante las intensas sesiones de juego
+- Latencia de clic casi nula: el sistema mecánico de tensión de los botones proporciona un accionamiento instantáneo de los mismos sin clics indeseados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRB2KHRT{{</world>}}

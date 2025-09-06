@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Iluminación inteligente las teclas retroiluminadas del teclado inalámbrico se iluminan en cuanto se acercan las manos; la intensidad se adapta automáticamente a las condiciones de iluminación
-- Múltiples computadoras, un flujo de trabajo conecte el MX Keys Mini delgado al MX Master 3 o MX Anywhere 3 y escriba en varias computadoras o portátiles en un flujo de trabajo fluido (1).
-- Receptor USB Logi Bolt Requiere un puerto USB libre Windows 10, 11 o posterior macOS 10.15 o posterior Linux 11 Las funciones básicas del dispositivo son compatibles sin software para sistemas distintos de Windows y macOS. Las funciones del dispositivo ChromeOS 12 Basic son compatibles sin software para sistemas distintos de Windows y macOS. No es compatible con otros receptores USB de Logitech.
-- Tamaño pequeño, rendimiento potente: el teclado ofrece un diseño preciso con una forma minimalista: un teclado ergonómico y portátil que se puede llevar a cualquier parte
-- Pulsación óptima (1): el teclado convence por sus teclas adaptadas a la punta de los dedos, con función de dictado (4) para la entrada automática de texto, silenciamiento del micrófono y teclas emoji
-- Recargable a través de USB-C el mini teclado Bluetooth MX Keys se puede usar hasta 10 días con una carga completa o hasta 5 meses con la luz de fondo apagada (3)
 - Certificado de neutralidad climática: el impacto de CO2 de MX Keys Mini se ha reducido a cero.
+- Receptor USB Logi Bolt Requiere un puerto USB libre Windows 10, 11 o posterior macOS 10.15 o posterior Linux 11 Las funciones básicas del dispositivo son compatibles sin software para sistemas distintos de Windows y macOS. Las funciones del dispositivo ChromeOS 12 Basic son compatibles sin software para sistemas distintos de Windows y macOS. No es compatible con otros receptores USB de Logitech.
+- Iluminación inteligente las teclas retroiluminadas del teclado inalámbrico se iluminan en cuanto se acercan las manos; la intensidad se adapta automáticamente a las condiciones de iluminación
 - Las piezas de plástico de MX Keys Mini están fabricadas en parte con plástico reciclado certificado (grafito: 30%, gris claro y rosa 12% (5)).
+- Pulsación óptima (1): el teclado convence por sus teclas adaptadas a la punta de los dedos, con función de dictado (4) para la entrada automática de texto, silenciamiento del micrófono y teclas emoji
 - Compatibilidad Bluetooth Low Energy Requiere tecnología Bluetooth Low Energy Diseñado para portátiles Intel Evo Windows 10, 11 o posterior macOS 10.15 o posterior Linux 8 Las funciones básicas del dispositivo son compatibles sin software para sistemas distintos de Windows y macOS ChromeOS 9 Funciones básicas del dispositivo también son compatibles sin software para sistemas distintos de Windows y macOS compatibles con iPadOS 14 o posterior. 10 funciones básicas del dispositivo son compatibles sin software para sistemas distintos de Windows y macOS Android 8.0 o posterior
+- Múltiples computadoras, un flujo de trabajo conecte el MX Keys Mini delgado al MX Master 3 o MX Anywhere 3 y escriba en varias computadoras o portátiles en un flujo de trabajo fluido (1).
+- Tamaño pequeño, rendimiento potente: el teclado ofrece un diseño preciso con una forma minimalista: un teclado ergonómico y portátil que se puede llevar a cualquier parte
+- Recargable a través de USB-C el mini teclado Bluetooth MX Keys se puede usar hasta 10 días con una carga completa o hasta 5 meses con la luz de fondo apagada (3)
 - Múltiples dispositivos, múltiples sistemas operativos conecte el mini teclado MX Keys a hasta tres dispositivos con casi todos los sistemas operativos a través de Bluetooth Low Energy y cambie sin problemas entre ellos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

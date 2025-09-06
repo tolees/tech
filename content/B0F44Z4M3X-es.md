@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tarjeta Gráfica UHD Graphics
-- Almacenamiento de 512 GB PCI Express NVMe 3.0
-- Sin sistema operativo
-- Memoria RAM de 16 GB DDR5 SDRAM
-- Pantalla de 15.6" Full HD TFT 1920x1080 pixeles, 60Hz
 - Procesador Intel Core i5-13420H (8C/Octa-Core), 2.10 GHz
+- Memoria RAM de 16 GB DDR5 SDRAM
+- Sin sistema operativo
+- Almacenamiento de 512 GB PCI Express NVMe 3.0
+- Pantalla de 15.6" Full HD TFT 1920x1080 pixeles, 60Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F44Z4M3X{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrada para ratón
 - Modelo: 6N0A7AA
+- Entrada para ratón
 - Requiere instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 14 classic Atari games
+- Real arcade controls - Illuminated 1P and 2P volcano buttons
 - WiFi Rankings
 - Matching Riser
-- Real arcade controls - Illuminated 1P and 2P volcano buttons
 - Light-Up Marquee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

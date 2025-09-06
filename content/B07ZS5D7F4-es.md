@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 teclas de acceso rápido para tus emisoras favoritas
 - Altavoz inalámbrico compacto para cualquier habitación
 - Calidad de sonido denon
+- 3 teclas de acceso rápido para tus emisoras favoritas
 - Control por voz: compatible con alexa, google assistant y apple siri
 - Disfrute de la transmisión
 
