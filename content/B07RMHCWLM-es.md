@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TU110EXC - Teléfono Móvil Para Personas Mayores  1.77 Pulgadas  160 x 128   Pantalla y Teclas Grances  Botón SOS  Resistente a Golpes  Linterna  Batería 22h  Azul  11 4 x 5 1 x 1 3 cm'
-date: 2025-09-10 15:36:10
+date: 2025-09-13 00:48:21
 image: 'https://m.media-amazon.com/images/I/31UrpbtpgcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B07RMHCWLM/?tag=tolees-21'
 descuento: '16.42'
-average: '27.420303030303'
+average: '27.2814285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para no perder detalle: manos libres en el teléfono, cámara con resolución de 0.8 megapixeles, duración de la batería 5h de habla/Inactvidad 22h
+- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
+- Luz LED brillante: el LED brillante de la parte superior es muy práctico, te permitirá iluminar todo lo que necesites, tanto al volver a casa de noche como al buscar tus gafas en la oscuridad
 - Fácil de ver: pantalla LCD TFT color de 1.77 pulgadas con tres tamaños de fuentes y teclado con botones grandes
 - Compatibilidad con audífonos: te permite disfrutar de conversaciones que se escuchan con claridad en todo momento, está diseñado especialmente para su uso con audífonos
-- Luz LED brillante: el LED brillante de la parte superior es muy práctico, te permitirá iluminar todo lo que necesites, tanto al volver a casa de noche como al buscar tus gafas en la oscuridad
-- Para no perder detalle: manos libres en el teléfono, cámara con resolución de 0.8 megapixeles, duración de la batería 5h de habla/Inactvidad 22h
 - Fácil uso: conexión Bluetooth, resistente a los impactos, marcación audible, grabación de voz, marcación con una sola pulsación, dual SIM, radio FM
-- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RMHCWLM{{</world>}}

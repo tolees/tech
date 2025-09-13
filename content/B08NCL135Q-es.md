@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñada para empresas | Impresora multifunción A4, bandeja frontal de 250 hojas y ADF de 35 hojas
 - Velocidad de impresión ultrarrápida | Hasta 17 ipm (ISO)
 - Depósito de tinta frontal fácil de usar | Disfruta de recargas de tinta cómodas y limpias con las nuevas botellas de tinta mejoradas
+- Diseñada para empresas | Impresora multifunción A4, bandeja frontal de 250 hojas y ADF de 35 hojas
 - Coste por página extraordinariamente bajo | Sistema económico de depósito de tinta
 - Conectividad e impresión móvil | Wi-Fi, Wi-Fi Direct, Ethernet y aplicaciones de impresión para dispositivos móviles gratuitas3
 

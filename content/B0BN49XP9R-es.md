@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6 pulgadas, FullHD (resolución 1920x1080 píxeles), TN, 250nits, Antirreflejos
-- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe, ampliables hasta 1TB
-- Teclado QWERTY Español (sin retroiluminación)
-- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 GHz, 3MB L2 / 8MB L3)
 - Tarjeta gráfica integrada AMD Radeon Graphics
-- Cámara HD 720p integrada con obturador de seguridad
 - Memoria RAM de 8GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
+- Teclado QWERTY Español (sin retroiluminación)
+- Cámara HD 720p integrada con obturador de seguridad
+- Almacenamiento de 512GB SSD M.2 2280 PCIe 3.0x4 NVMe, ampliables hasta 1TB
+- Procesador AMD Ryzen 5 5500U (6C / 12T, 2.1 GHz, 3MB L2 / 8MB L3)
+- Pantalla de 15.6 pulgadas, FullHD (resolución 1920x1080 píxeles), TN, 250nits, Antirreflejos
 - Sin sistema operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

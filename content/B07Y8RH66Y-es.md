@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica Intel Graphics
 - Sistema operativo Windows 10 Home. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo).
 - Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
 - No incluye Type Cover (funda con teclado)
+- Tarjeta gráfica Intel Graphics
 - Procesador Intel Core i5-1035G4, 1.1GHz
 - Disco duro sólido de 128GB
 - Memoria RAM de 8GB LPDDR4X

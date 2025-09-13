@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Almacenamiento de 512GB SSD
-- Tarjeta gráfica integrada Intel UHD Graphics 730
+- Sistema operativo: Windows 11 Home
 - Procesador Intel Core i5-12400, 6C (6P + 0E) / 12T, P-core 2.5 / 4.4GHz, 18MB
 - Memoria RAM de 16GB UDIMM DDR4-3200 ampliables hasta 32GB
-- Sistema operativo: Windows 11 Home
+- Tarjeta gráfica integrada Intel UHD Graphics 730
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7P9R8RV{{</world>}}

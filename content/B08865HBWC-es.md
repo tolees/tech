@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador: Mediatek Helio G85 2GHz
-- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Pantalla: 6.53", 1080 x 2340 pixels
 - Batería: 5020 mAh
 - OS: Android 10
-- Pantalla: 6.53", 1080 x 2340 pixels
+- Procesador: Mediatek Helio G85 2GHz
+- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08865HBWC{{</world>}}

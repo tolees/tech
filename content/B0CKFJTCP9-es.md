@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ordenador portátil Lenovo IdeaPad 1 Gen 7
-- Potente y portátil
 - Ordenador portátil
+- Potente y portátil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKFJTCP9{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 5070 (GDDR7X de 12 GB dedicada)
-- 32 GB Memoria RAM Kingston FURY DDR5-5600 MHz XMP RGB con disipador (2 x 16GB)
 - 1 GB SSD - Fuente modular 1000W (Gold)
 - Procesador Intel Core Ultra7 265K (hasta 5,5 GHz con tecnología Intel Turbo Boost, 30 MB de caché L3, 20 núcleos, 20 subprocesos) este sobremesa cuenta con un sistema de refrigeración superior que evita los sobrecalentamientos
+- Tarjeta gráfica NVIDIA GeForce RTX 5070 (GDDR7X de 12 GB dedicada)
+- 32 GB Memoria RAM Kingston FURY DDR5-5600 MHz XMP RGB con disipador (2 x 16GB)
 - Windows 11
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

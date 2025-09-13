@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Procesador AMD Ryzen AI 5 340 (hasta 4.8 GHz, 16 MB de caché L3, 6 núcleos, 12 subprocesos)
-- 512 GB disco duro SSD PCIe Gen4 NVMe M.2
+- Gráfica NVIDIA GeForce RTX 5050 8GB
 - 16 GB Memoria RAM DDR5-5600 MHz (1 x 16 GB)
 - Sin sistema operativo
-- Gráfica NVIDIA GeForce RTX 5050 8GB
+- 512 GB disco duro SSD PCIe Gen4 NVMe M.2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2TM3YKB{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CARACTERÍSTICAS: Para la determinación simultánea de 2 temperaturas y la medición de corriente continua en el rango µA / mA. Con Bluetooth para grabación de datos en teléfonos, computadoras o tabletas
-- RMS VERDADERO Y RETENCIÓN DE DATOS: RMS mide valores de voltajes de CA en otros perfiles de tiempo. La función "Data Hold" permite congelar y recuperar el valor medido más tarde en la pantalla LCD
 - FUNCIÓN DE MEDICIÓN: Además de medir el voltaje y la corriente de CA / CC de hasta 1000 V, también mide resistencia, frecuencia, capacitancia y temperatura, pruebas de diodos y de continuidad
-- INFORMACIÓN: EN61010-1, CAT III 1000 V CAT IV 600 V; iluminación 50,000 cuentas; CD de software, estuche, cables de prueba, sensor de temperatura tipo K, Dimensiones: 76 x 230 x 40 mm, Peso: 315 g
+- CARACTERÍSTICAS: Para la determinación simultánea de 2 temperaturas y la medición de corriente continua en el rango µA / mA. Con Bluetooth para grabación de datos en teléfonos, computadoras o tabletas
 - DISPOSITIVO PROFESIONAL: La pinza amperimétrica P 1670 de PeakTech mide hasta 1000 A CA / CC es adecuada para el sector industrial. También tiene una linterna LED para medir la iluminación del punto
+- RMS VERDADERO Y RETENCIÓN DE DATOS: RMS mide valores de voltajes de CA en otros perfiles de tiempo. La función "Data Hold" permite congelar y recuperar el valor medido más tarde en la pantalla LCD
+- INFORMACIÓN: EN61010-1, CAT III 1000 V CAT IV 600 V; iluminación 50,000 cuentas; CD de software, estuche, cables de prueba, sensor de temperatura tipo K, Dimensiones: 76 x 230 x 40 mm, Peso: 315 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LX1IC8K{{</world>}}

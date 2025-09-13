@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interruptores de ROG: Interruptores mecánicos ROG NX con curvas de fuerza ajustadas por ROG, una sensación de pulsación óptima y más velocidad
-- Combinación rápida de teclas: Alterna de forma sencilla entre los controles multimedia y las teclas de función
-- Tecla Stealth: Oculta todas las aplicaciones y silencia el sonido para ofrecerte privacidad instantánea
 - Creado para juegos FPS: Al prescindir del teclado numérico, el formato TKL ofrece más espacio para mover el ratón; la tecla L-Ctrl más grande minimiza los errores
 - Portabilidad: Sus compactas dimensiones permiten transportarlo fácilmente en cualquier mochila y el cable desmontable evita marcas y arañazos
+- Combinación rápida de teclas: Alterna de forma sencilla entre los controles multimedia y las teclas de función
+- Interruptores de ROG: Interruptores mecánicos ROG NX con curvas de fuerza ajustadas por ROG, una sensación de pulsación óptima y más velocidad
+- Tecla Stealth: Oculta todas las aplicaciones y silencia el sonido para ofrecerte privacidad instantánea
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RPFFCB1{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Xiaom Redm 9 NF 3 Auror Verde
 - Pantalla DotDro H de 6,5 pulgadas
+- Xiaom Redm 9 NF 3 Auror Verde
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B2K9T6L3{{</world>}}

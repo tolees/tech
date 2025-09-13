@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brother Conexión móvil
-- Innovador, elegante y compacto
 - Pantalla LCD en color de 4,5 cm y panel de control
 - Impresión automática a doble cara
+- Innovador, elegante y compacto
+- Brother Conexión móvil
 - Velocidad de impresión de hasta 17 ipm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

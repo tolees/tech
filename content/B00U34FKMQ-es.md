@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ERGONOMÍA PROFESIONAL: Un diseño sellado resistente al polvo y la humedad brinda protección adicional para garantizar un funcionamiento seguro en entornos desafiantes.
-- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque.
 - RÁPIDO Y PRECISO: La estabilización de imagen SteadyShot óptica (OSS) incorporada junto con el enfoque automático rápido hacen que sea más fácil capturar imágenes claras, especialmente cuando se dispara con teleobjetivo.
-- INCREÍBLEMENTE NÍTIDO: Cinco elementos asféricos y un elemento de cristal ED contribuyen a un rendimiento de alta calidad en una lente compacta.
 - CAPTURA TODOS LOS DETALLES: El 24 mm a 240 mm cubre una amplia variedad de necesidades fotográficas. Conseguirás con un solo objetivo perspectivas más dinámicas para paisajes, arquitectura, tomas en interiores y una multitud de otros sujetos.
+- INCREÍBLEMENTE NÍTIDO: Cinco elementos asféricos y un elemento de cristal ED contribuyen a un rendimiento de alta calidad en una lente compacta.
+- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00U34FKMQ{{</world>}}

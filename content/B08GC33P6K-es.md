@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de carga 50 Kg
 - IP54 resistente al agua y al polvo, proporciona protección contra el agua y el polvo para las herramientas y accesorios de la caja
-- Ranura TAG TOOL CONNECT que permite instalar el TAG DEWALT y realizar un seguimiento de la caja a través de la app
 - Clips frontales metálicos más anchos - más robustos, aumentando la resistencia, durabilidad y longevidad
+- Ranura TAG TOOL CONNECT que permite instalar el TAG DEWALT y realizar un seguimiento de la caja a través de la app
+- Capacidad de carga 50 Kg
 - Clips laterales con bisagras metálicas, permiten conectar módulos TSTAK entre sí. El diseño de pasador metálico proporciona una mayor vida útil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

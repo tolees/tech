@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta base
 - Producto de calidad óptima
+- Tarjeta base
 - Requiere instalación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

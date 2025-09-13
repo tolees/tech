@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
 - Gráficos Integrados Intel UHD 730
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
 - Sistema operativo Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})

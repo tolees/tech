@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño alargado
 - Conjunto de altavoces
+- Diseño alargado
 - Sonido estéreo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

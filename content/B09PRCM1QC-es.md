@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- OB02868
 - 6.93418E+12
 - Altos estándares durante el proceso de producción
-- OB02868
 - Explora nuestra gama de productos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

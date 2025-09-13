@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 189 x 67 x 67 mm, peso: 503 g; volumen de suministro: cámara termográfica Bresser TNS3, cable USB, fuente de alimentación (para usar con cable USB), bolsa para una extracción/almacenamiento rápido y silencioso, manual de usuario
-- Con función de grabación para crear fotos y videos directamente con el monocular de imágenes térmicas o a través de su dispositivo móvil a través de la función WLAN y la aplicación; con 16 GB de memoria integrada para almacenamiento de datos
 - Fuente de alimentación de batería recargable incorporada con una larga vida útil de hasta 6 horas; cámara termográfica óptima para uso en caza y detección geotérmica de calor y fugas
-- Monocular de imágenes térmicas con una distancia de detección de hasta 1000 m para animales, tecnología PI para imágenes detalladas y seguimiento en caliente para detectar el objeto más caliente; compensación de dioptrías: -4 a +5; velocidad de cuadro: 50Hz
+- Dimensiones: 189 x 67 x 67 mm, peso: 503 g; volumen de suministro: cámara termográfica Bresser TNS3, cable USB, fuente de alimentación (para usar con cable USB), bolsa para una extracción/almacenamiento rápido y silencioso, manual de usuario
 - Monocular térmico WiFi con sensor de imagen térmica infrarroja de 384x288 y valor NETD de 40 mK; 6 modos de visualización seleccionables: arcoíris, rojo intenso, blanco intenso, negro intenso, modo de visualización de juegos, coloración amarilla; Zoom: 2x, 4x
+- Con función de grabación para crear fotos y videos directamente con el monocular de imágenes térmicas o a través de su dispositivo móvil a través de la función WLAN y la aplicación; con 16 GB de memoria integrada para almacenamiento de datos
+- Monocular de imágenes térmicas con una distancia de detección de hasta 1000 m para animales, tecnología PI para imágenes detalladas y seguimiento en caliente para detectar el objeto más caliente; compensación de dioptrías: -4 a +5; velocidad de cuadro: 50Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGSKXPRD{{</world>}}

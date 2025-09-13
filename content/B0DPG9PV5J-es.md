@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 16GB DDR4
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
 - Sin Sistema Operativo
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 16GB DDR4
+- Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 250 nits
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

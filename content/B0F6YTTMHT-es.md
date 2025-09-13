@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de cámara de 50 MP y ultra gran angular; captura fotos definidas y luminosas con cualquier luz gracias a la tecnología Quad Pixel y abarca más elementos de la escena para lograr impresionantes fotos en gran angular
-- Rendimiento 5G rápido; disfruta de la velocidad 5G con el procesador de ocho núcleos, haz varias tareas a la vez con los 4 GB de RAM ampliables a 12 GB con la expansión de memoria y consigue 128 GB de almacenamiento de fábrica
-- Batería de larga duración; trabaja y juega sin interrupciones gracias a una batería de larga duración de 5000 mAh que se recupera rápidamente con la carga de 18 W
 - Pantalla FHD+ de 6,72’’ y Dolby Atmos; da vida a tus películas, programas y juegos en una pantalla grande y luminosa acompañada de un sonido estéreo multidimensional
+- Rendimiento 5G rápido; disfruta de la velocidad 5G con el procesador de ocho núcleos, haz varias tareas a la vez con los 4 GB de RAM ampliables a 12 GB con la expansión de memoria y consigue 128 GB de almacenamiento de fábrica
+- Sistema de cámara de 50 MP y ultra gran angular; captura fotos definidas y luminosas con cualquier luz gracias a la tecnología Quad Pixel y abarca más elementos de la escena para lograr impresionantes fotos en gran angular
+- Batería de larga duración; trabaja y juega sin interrupciones gracias a una batería de larga duración de 5000 mAh que se recupera rápidamente con la carga de 18 W
 - Diseño de calidad; sensación confortable; elige un diseño fino con acabado mate o apuesta por un toque de elegancia con el suave cuero vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

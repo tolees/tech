@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ultrafino y ligero
 - Se conecta de forma inalámbrica a través de Bluetooth 4.0 o superior
+- Ultrafino y ligero
 - Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 - Panel de desplazamiento completo para movimientos verticales y horizontales
 

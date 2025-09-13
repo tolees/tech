@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sistema operativo Windows 11 Home
+- Gráficos Integrados Intel Iris
 - Almacenamiento de datos SSD de 512 GB
 - Memoria RAM 16 GB
-- Sistema operativo Windows 11 Home
 - Procesador Intel Core i7-1355U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
-- Gráficos Integrados Intel Iris
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFBGVY29{{</world>}}

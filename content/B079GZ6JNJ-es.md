@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Distancia de trabajo: hasta 700 metros (760 yardas) en terreno abierto
 - Frecuencia de muestreo: 48 khz (dac)
-- Audio avanzado de control de ruido
+- Distancia de trabajo: hasta 700 metros (760 yardas) en terreno abierto
 - Bluetooth 3.0
+- Audio avanzado de control de ruido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079GZ6JNJ{{</world>}}

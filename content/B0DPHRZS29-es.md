@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta Gráfica NVIDIA GeForce RTX 4050-GB GDDR6
-- Memoria RAM de 16GB DDR5 SDRAM
 - Pantalla de 15,6", FullHD IPS 1920 x 1080 pixeles, 165Hz
-- Sin sistema operativo
+- Tarjeta Gráfica NVIDIA GeForce RTX 4050-GB GDDR6
 - Procesador AMD Ryzen 7 7735HS (8C/Octa-Core), 3,20 GHz
+- Sin sistema operativo
+- Memoria RAM de 16GB DDR5 SDRAM
 - Almacenamiento de 512 GB SSD PCI Express NVMe 4.0
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Requiere configuración
 - Teléfono celular
 - En color negro
+- Requiere configuración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CVQ7DDS3{{</world>}}

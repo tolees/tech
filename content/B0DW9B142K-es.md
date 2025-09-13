@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca original
 - Garantía de tres años contra defectos de fabricación.
+- Marca original
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9B142K{{</world>}}

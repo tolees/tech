@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
-- Tarjeta gráfica Iris Xe Graphics
-- Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
+- Procesador Raptor Lake i7-1355U
 - Tarjeta gráfica Iris Xe Graphics
 - Memoria RAM de 16GB Onboard DDR IV (3200MHz)
-- Procesador Raptor Lake i7-1355U
+- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
+- Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
+- Tarjeta gráfica Iris Xe Graphics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYP335L2{{</world>}}
