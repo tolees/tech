@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto de la marca Motorola
-- Sistema operativo Android
 - Material de calidad
+- Sistema operativo Android
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6HWDCCB{{</world>}}

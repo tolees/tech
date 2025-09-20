@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Impresora Canon multifunción: inteligente, compacta y conectada. Ideal para un uso doméstico con funciones como impresión, fax, copia y escaneo de alta calidad.
 - Cartuchos de tinta XL: ahorra dinero y saca la máxima rentabilidad con la impresión automática a doble cara para reducir el uso de papel.
-- Aumenta la productividad: podrás copiar o escanenar varias hojas sin necesidad de hacerlo una a una gracias a la tecnología del alimentador automático de documentos (ADF).
 - Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android).
 - Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
+- Aumenta la productividad: podrás copiar o escanenar varias hojas sin necesidad de hacerlo una a una gracias a la tecnología del alimentador automático de documentos (ADF).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQCJWBF4{{</world>}}

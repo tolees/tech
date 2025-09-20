@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
-- Memoria RAM de 8GB SO-DIMM DDR4
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
 - Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 8GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})

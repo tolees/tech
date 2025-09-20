@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BROK es el primer juego de aventuras completo que puede ser jugado por jugadores ciegos o con problemas de visión.
-- Una experiencia profunda y emocional, llena de narrativa y de personajes que recuerdan a los dibujos clásicos de los 80 y los 90.
 - ¡Hasta 4 jugadores pueden disfrutar de la aventura juntos!
+- Una experiencia profunda y emocional, llena de narrativa y de personajes que recuerdan a los dibujos clásicos de los 80 y los 90.
+- BROK es el primer juego de aventuras completo que puede ser jugado por jugadores ciegos o con problemas de visión.
 - ¡El primer juego en combinar "Aventura Gráfica" con elementos de "Beat em up" y RPG!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

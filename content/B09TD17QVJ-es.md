@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reproduce placas de 7, 10 o 12 pulgadas
-- 2 altavoces integrados, 8 Ω, 5 W
-- Toma de auriculares
-- Tocadiscos con 3 velocidades
 - Entrada y salida Bluetooth
+- Reproduce placas de 7, 10 o 12 pulgadas
+- Tocadiscos con 3 velocidades
+- Toma de auriculares
+- 2 altavoces integrados, 8 Ω, 5 W
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TD17QVJ{{</world>}}

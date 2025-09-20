@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin Sistema Operativo
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Procesador AMD Ryzen 3 7320U (aumento máximo del reloj hasta 4,1 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Almacenamiento de datos SSD PCIe NVMe de 256 GB
+- Sin Sistema Operativo
 - Memoria RAMLPDDR5-6400 MHz de 8 GB (integrada)
+- Procesador AMD Ryzen 3 7320U (aumento máximo del reloj hasta 4,1 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, IPS, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Gráficos Integrados AMD Radeon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

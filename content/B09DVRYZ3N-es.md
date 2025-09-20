@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 0
 - Samsung EVO Plus memoria flash 64 GB MicroSDXC UHS-I Clase 10
-- Blanco
 - 0
+- Blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09DVRYZ3N{{</world>}}

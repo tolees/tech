@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 5 7535HS (6C/HexaCore 3.3 / 4.55GHz, 19MB)
 - Memoria RAM de 16GB DDR5 5600MHz
 - Sin Sistema Operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 2050 4GB GDDR6
-- Procesador AMD Ryzen 5 7535HS (6C/HexaCore 3.3 / 4.55GHz, 19MB)
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 
 [🛒 Comprar!!!]({{< param buyurl >}})

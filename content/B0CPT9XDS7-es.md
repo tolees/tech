@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño con biseles delgados, agregando estilo
 - Se destaca con una batería de 5100 mAh
 - Cuenta con un conjunto de cámaras, con el sensor principal de hasta 108MP
-- Diseño con biseles delgados, agregando estilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPT9XDS7{{</world>}}

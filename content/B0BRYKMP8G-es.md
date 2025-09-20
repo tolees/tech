@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 14" Full HD 1920 x 1080 pixeles TN 220 nits
-- Almacenamiento de 64GB eMMC
-- Tarjeta gráfica integrada Intel UHD Graphics
 - Sistema Operativo: ChromeOS
+- Pantalla de 14" Full HD 1920 x 1080 pixeles TN 220 nits
 - Memoria RAM de 8GB SO-DIMM LPDDR4x
+- Tarjeta gráfica integrada Intel UHD Graphics
 - Procesador Intel Celeron N4500 (2C/DualCore 1.1GHz, 4MB)
+- Almacenamiento de 64GB eMMC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRYKMP8G{{</world>}}

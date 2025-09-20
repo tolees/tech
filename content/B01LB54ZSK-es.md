@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensión: 20cm x 20cm x 20cm
 - Color: Negro
+- Dimensión: 20cm x 20cm x 20cm
 - Peso: 1kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})

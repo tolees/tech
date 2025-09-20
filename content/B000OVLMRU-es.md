@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optica de cristal ecológico, sin plomo ni arsénico
-- Campo de visión amplio
 - Distancia mínima de enfoque de solamente 3.5 m
 - Resistente al agua y antiempañamiento
+- Optica de cristal ecológico, sin plomo ni arsénico
 - Juntas tóricas y gas nitrógeno que proporcionan mayor resistencia ante los factores climáticos
+- Campo de visión amplio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000OVLMRU{{</world>}}

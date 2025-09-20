@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- potencia 300w
 - Altavoces formato 6x9
+- potencia 300w
 - 3 vías
 
 [🛒 Aquí!!!]({{< param buyurl >}})

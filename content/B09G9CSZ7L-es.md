@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chip A15 Bionic con Neural Engine
+- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Altavoces estéreo (en horizontal)
-- Disponible en púrpura, blanco estrella, rosa y gris espacial
+- Gran angular trasero de 12 Mpx y ultra gran angular frontal de 12 Mpx con Encuadre Centrado
+- Chip A15 Bionic con Neural Engine
 - Compatible con el Apple Pencil (2.ª generación)
 - Hasta 10 horas de autonomía
-- Pantalla Liquid Retina de 8,3 pulgadas con True Tone y gama cromática amplia
 - Conector USB-C para cargar el iPad y conectar accesorios
+- Disponible en púrpura, blanco estrella, rosa y gris espacial
 - Conexión 5G para descargas ultrarrápidas y streaming de vídeo
-- Gran angular trasero de 12 Mpx y ultra gran angular frontal de 12 Mpx con Encuadre Centrado
-- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Pantalla Liquid Retina de 8,3 pulgadas con True Tone y gama cromática amplia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09G9CSZ7L{{</world>}}

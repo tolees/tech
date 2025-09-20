@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No incluye Type Cover (funda con teclado)
-- Procesador Intel Core i5-1035G4, 1.1GHz
-- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
-- Tarjeta gráfica Intel Graphics
-- Sistema operativo Windows 10 Home. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo).
 - Disco duro sólido de 128GB
+- No incluye Type Cover (funda con teclado)
 - Memoria RAM de 8GB LPDDR4X
+- Sistema operativo Windows 10 Home. Actualización gratuita a Windows 11 cuando esté disponible (ver abajo).
+- Pantalla táctil de 12.3 pulgadas (2736x1824 pixels)
+- Procesador Intel Core i5-1035G4, 1.1GHz
+- Tarjeta gráfica Intel Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Y8RH66Y{{</world>}}

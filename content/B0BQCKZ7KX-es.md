@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
 - Impresora conectada: puedes imprimir, copiar y escanear desde tu tablet o smartphone gracias a la compatibilidad inalámbrica y una interfaz clara y sencilla.
 - Impresora Canon multifunción 3 en 1: inteligente y práctica. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
 - Ver para creer: puedes ver las actualizaciones de estado a simple vista en la nítida pantalla LCD monocroma de 1,5".
 - Fácil configuración: lo tendrás todo listo más rápido que nunca con la conectividad inalámbrica de un solo toque y un procedimiento de configuración más sencillo.
 

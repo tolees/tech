@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla LCD (modo 24h o 12h) con luz de fondo. Cinta para ajuste de mano.
 - Escaneado de memoria automático o manual. Despertador alarma. Altavoz incorporado.
-- Radio digital AM/FM. Memoria para 40 emisoras (20 emisoras AM y 20 emisoras FM).
+- Pantalla LCD (modo 24h o 12h) con luz de fondo. Cinta para ajuste de mano.
 - Toma auriculares. Botón de bloqueo. Función Sleep y Snooze.
+- Radio digital AM/FM. Memoria para 40 emisoras (20 emisoras AM y 20 emisoras FM).
 - Auriculares estereos incluidos. - Antena extensible.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de una conectividad fiable gracias a la conexión Wi-Fi de banda dual, Wi-Fi Direct, Puerto USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria, Seguridad HP Wolf
 - Imprime a doble cara de forma automática documentos con resultados de gran calidad, la velocidad de impresión es de 22 ppm en blanco y negro
+- Dispone de una conectividad fiable gracias a la conexión Wi-Fi de banda dual, Wi-Fi Direct, Puerto USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria, Seguridad HP Wolf
 - La bandeja de entrada principal tiene una capacidad de hasta 250 hojas y la bandeja de salida de 100 hojas
 - Fabricada para imprimir en grandes volúmenes: depósito previamente cargado con tóner para 5000 páginas
 - Con la aplicación HP Smart podrás imprimir y compartir en todo momento tus documentos con resultados uniformes cómodamente desde tu móvil

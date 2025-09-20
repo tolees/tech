@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aroma Jack Daniels Tennessee Apple: Fresco aroma a manzana verde en fusión con el aroma característico de Old No.7 de caramelo, roble y especias suaves
-- Sugerencia de preparación: Se disfruta mejor como un refrescante trago largo, con una tónica y una rodaja de manzana y limón bien frío, o simplemente con hielo
 - Sabor y acabado: Las manzanas recién cortadas se combinan con caramelo caliente y toffe que equilibran la especia clásica de Old No.7. Con un acabado rico y suave con manzanas dulces y un toque de roble tostado
-- Para la elaboración del Whiskey Jack Daniel’s Tennessee Apple se emplean manzanas verdes reales de tres tipos (McIntosh, Red Delicious y Granny Smith) y se combinan con Old No.7 Tennessee Whiskey
 - Fabricado con ingredientes de la mejor calidad seleccionados cuidadosamente, Jack Daniel`s Tennessee Apple es un licor que brinda una deliciosa experiencia acompañada de un espectacular perfil de sabor muy complejo
+- Para la elaboración del Whiskey Jack Daniel’s Tennessee Apple se emplean manzanas verdes reales de tres tipos (McIntosh, Red Delicious y Granny Smith) y se combinan con Old No.7 Tennessee Whiskey
 - Jack Daniel´s Tennessee Apple fusiona el carácter único de Jack Daniels Tennesse Whiskey, con un fresco y delicioso sabor de manzana verde, tan versátil que combina con todo
+- Sugerencia de preparación: Se disfruta mejor como un refrescante trago largo, con una tónica y una rodaja de manzana y limón bien frío, o simplemente con hielo
+- Aroma Jack Daniels Tennessee Apple: Fresco aroma a manzana verde en fusión con el aroma característico de Old No.7 de caramelo, roble y especias suaves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07T9LP2C3{{</world>}}

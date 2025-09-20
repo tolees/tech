@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Procesador AMD Ryzen 5 5600H (6C/HexaCore 3.3 / 4.2GHz, 16MB)
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles OLED
+- Procesador AMD Ryzen 5 5600H (6C/HexaCore 3.3 / 4.2GHz, 16MB)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
 - Memoria RAM de 16GB SO-DIMM DDR4
 

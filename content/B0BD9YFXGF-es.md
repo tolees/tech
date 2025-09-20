@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gráficos Integrados Intel Iris Xᵉ
+- Memoria RAM DDR4-3200 MHz 16 GB
 - Procesador Intel EVO Core i7-1255U (hasta 4,7 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Pantalla táctil PixelSense de 15" (38,1 cm) en diagonal
 - Sistema operativo Windows 11
-- Memoria RAM DDR4-3200 MHz 16 GB
+- Gráficos Integrados Intel Iris Xᵉ
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 
 [🛒 Comprar!!!]({{< param buyurl >}})

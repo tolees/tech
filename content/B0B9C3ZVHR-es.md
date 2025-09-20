@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño: 1 TB
 - Interfaz: PCIe 4.0
+- Tamaño: 1 TB
 - Disco de estado sólido Sata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

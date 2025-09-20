@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 64GB High Speed Class 10 Card with Card Reader, can work with all version Raspberry Pi
+- 5V 3A Type C Power Supply will make your Pi work more stable. With ON/OFF switch, its convenient for you to power on and power off your Raspberry Pi 4.
 - Includes Raspberry Pi 4 Model B 8GB with 1.5GHz 64-bit quad-core CPU (8GB RAM), For 4GB version, please refer to ASIN: B0B7KPPQSX
 - Package Includes:1x Raspberry Pi 4B (8GB RAM); 1x Raspberry Pi 4B Case; 1x Cooling Fan; 4pcs*Aluminum Heatsinks; 1x 5V 3A Power Supply; 1x 64GB SD Card (with Card Reader and Adapter) ; 2x 4K HDMI Cables
 - This Raspberry Pi 4B case contains a super quite 40mm PWM fan and 4pcs heatsinks for good heat dissipation of Raspberry Pi 4B.
-- 5V 3A Type C Power Supply will make your Pi work more stable. With ON/OFF switch, its convenient for you to power on and power off your Raspberry Pi 4.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09FJH1C7Z{{</world>}}

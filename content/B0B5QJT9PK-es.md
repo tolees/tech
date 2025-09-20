@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Experiencia cinematográfica vívida
 - Sensor de huellas digitales en pantalla para un desbloqueo más rápido y fácil de su teléfono con solo un toque
+- Cámara triple de 108MP de nivel de estudio
 - Pantalla AMOLED de 120 Hz
 - La batería de alta capacidad de 4300 mAh está integrada en el cuerpo delgado y liviano, por lo que no habrá ansiedad por batería baja durante mucho tiempo. La función turbo de 67 W puede cargar el teléfono del 0 % al 100 % en 41 minutos.
-- Cámara triple de 108MP de nivel de estudio
-- Experiencia cinematográfica vívida
 - Cámara frontal de 32 megapíxeles
 - Diseño delgado de peso pluma
 - Manténgase al día sin esfuerzo con las tendencias con este rápido conjunto de chips Snapdragon 778G 5G. Además, Mi 12 Lite utiliza grafito de alto rendimiento, que mejora la disipación de calor en un 7 %* en comparación con la generación anterior, lo que reduce la temperatura y garantiza una navegación rápida.

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lycander lmc380 - ratón óptico con cable usb con dpi ajustable hasta 6400, 7 botones, led, cable de 1,5 m
 - Ratón óptico para juegos con 7 botones
+- Lycander lmc380 - ratón óptico con cable usb con dpi ajustable hasta 6400, 7 botones, led, cable de 1,5 m
 - 6 niveles de dpi ajustables para mayor precisión: (800/1600/2400/3200/4800/6400 dpi)
-- Perfecto para juegos, edición de fotos, diseño y uso de trabajo
 - Ratón para juegos con cable usb; la longitud del cable mide 1,5 metros; plug and play, no requiere instalación de software adicional
+- Perfecto para juegos, edición de fotos, diseño y uso de trabajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VXJ8PL4{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Luces de discoteca parpadeantes y multicolores crean un ambiente defiesta Orificio para fijación en trípode (compatibilidad con M6)
-- Transmite música inalámbricamente desde tu dispositivo inteligentehabilitado con Bluetooth
 - Duo Mode: empareja 2 altavoces para sonido estéreo inalámbricoverdadero (TWS) en los canales izquierdo y derecho
+- Transmite música inalámbricamente desde tu dispositivo inteligentehabilitado con Bluetooth
 - Entrada Aux de 3.5mm y reproducción de USB MP3/WAV/FLAC confunción de carga Hasta 14 horas de reproducción (máximo) con la batería recargable deiones de litio incorporada (opcionalmente con alimentación de red) Resistente a salpicaduras (IPX5), adecuado para uso al aire libre enlluvia ligera o junto a la piscina
 - Audio de 2.1 canales: 2 altavoces de 2” + 1 subwoofer de 4” Audio espacial 3D y potenciación de Super Bass para un sonido estiloclub con una potencia maxima de 130w
 
