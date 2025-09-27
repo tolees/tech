@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Flexibilidad sin igual: rendimiento líder del sector en un diseño ultraflexible, con su icónico soporte trasero fluido de 165 grados
-- Cámara Surface Studio mejorada por IA: Cámaras HD frontales y traseras con característica mejoradas por IA para una iluminación perfecta y sonido nítido
-- Mantente conectado, estés donde estés: Velocidades ultrarrápidas, en cualquier lugar, con Wi-Fi 7 inalámbrico y conexiones 5G opcionales
-- El dispositivo 2 en 1 más potente disponible en el mercado: más rápido que MacBook Air M3. Velocidades ultrarrápidas y capacidades de nueva generación gracias a un potente acelerador de IA y un procesador totalmente nuevo para trabajar en modo multitarea
-- Batería que dura todo el día: 14 horas de duración de la batería y menos tiempo de inactividad debido a la carga, admite la carga rápida
-- Con el objetivo de apoyar las iniciativas de sostenibilidad para reducir los residuos electrónicos, ahora la fuente de alimentación se vende por separado. ​El vataje mínimo necesario para cargar Surface Pro (11.ª edición) es de 39 W. Para obtener más información, visita aka.ms/SurfaceChargingOptions
-- Tu compañero de IA, acelerado: Busca lo que necesites en lenguaje natural, ya sea que lo hayas visto, enviado o guardado en cualquier plataforma, y deja que Recuerdos lo encuentre al instante
 - Copilot+ PC: una nueva era de IA. El dispositivo Surface más rápido e inteligente de la historia.
+- El dispositivo 2 en 1 más potente disponible en el mercado: más rápido que MacBook Air M3. Velocidades ultrarrápidas y capacidades de nueva generación gracias a un potente acelerador de IA y un procesador totalmente nuevo para trabajar en modo multitarea
+- Flexibilidad sin igual: rendimiento líder del sector en un diseño ultraflexible, con su icónico soporte trasero fluido de 165 grados
+- Mantente conectado, estés donde estés: Velocidades ultrarrápidas, en cualquier lugar, con Wi-Fi 7 inalámbrico y conexiones 5G opcionales
+- Batería que dura todo el día: 14 horas de duración de la batería y menos tiempo de inactividad debido a la carga, admite la carga rápida
 - Diseñado teniendo en cuenta la sostenibilidad: el dispositivo 2 en 1 más sostenible, con aluminio reciclado y más componentes reemplazables.
+- Con el objetivo de apoyar las iniciativas de sostenibilidad para reducir los residuos electrónicos, ahora la fuente de alimentación se vende por separado. ​El vataje mínimo necesario para cargar Surface Pro (11.ª edición) es de 39 W. Para obtener más información, visita aka.ms/SurfaceChargingOptions
+- Cámara Surface Studio mejorada por IA: Cámaras HD frontales y traseras con característica mejoradas por IA para una iluminación perfecta y sonido nítido
+- Tu compañero de IA, acelerado: Busca lo que necesites en lenguaje natural, ya sea que lo hayas visto, enviado o guardado en cualquier plataforma, y deja que Recuerdos lo encuentre al instante
 - Colores impresionantes: Negro, Platino, Zafiro y el nuevo Dune y teclados a juego en tela Alcantara de primera calidad (se venden por separado).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

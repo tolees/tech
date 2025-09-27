@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con windows 10 / 8.1 / 8/7 / xp
-- Bluetooth 4.0: aplica la última tecnología bluetooth 4.0 con tecnología de bajo consumo (ble) y es compatible con versiones anteriores de bluetooth v3.0 / 2.1 / 2.0 / 1.1
-- ¡Atención! Para Win 7 / XP, debe instalar el controlador desde el sitio del fabricante
-- El rango de trabajo sugerido de UB400 está dentro de los 10 m, y el máximo de dispositivos de conexión de UB400 es 7 al mismo tiempo.
 - Nano-dimensionado: ultra-pequeño para una portabilidad conveniente con un alto rendimiento confiable
+- El rango de trabajo sugerido de UB400 está dentro de los 10 m, y el máximo de dispositivos de conexión de UB400 es 7 al mismo tiempo.
+- ¡Atención! Para Win 7 / XP, debe instalar el controlador desde el sitio del fabricante
+- Bluetooth 4.0: aplica la última tecnología bluetooth 4.0 con tecnología de bajo consumo (ble) y es compatible con versiones anteriores de bluetooth v3.0 / 2.1 / 2.0 / 1.1
+- Compatible con windows 10 / 8.1 / 8/7 / xp
 - Plug and Play: no se requiere configuración (para Win 8, Win 8.1 y Win 10)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

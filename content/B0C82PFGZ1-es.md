@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 14" 2.8K 2880 x 1800 pixeles OLED 400 nits
-- Tarjeta gráfica integrada AMD Radeon Graphics
 - Memoria RAM de 16GB en placa LPDDR4x
-- Sin Sistema Operativo
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada AMD Radeon Graphics
+- Sin Sistema Operativo
+- Pantalla de 14" 2.8K 2880 x 1800 pixeles OLED 400 nits
 - Procesador AMD Ryzen 5 7530U (6C/HexaCore 2 / 4.5GHz, 16MB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

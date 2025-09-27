@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 128 GB eMMC
 - Tarjeta Gráfica Intel UHD Graphics
 - Sistema Operativo: Windows 11 Home en Modo S
-- Memoria RAM de 8GB DDR4 SDRAM
 - Pantalla de 15,6", FullHD ConfyView LCD 1920 x 1080 pixeles, 60Hz
+- Almacenamiento de 128 GB eMMC
+- Memoria RAM de 8GB DDR4 SDRAM
 - Procesador Intel Celeron N4500 (2C/Dual-Core), 1,10 GHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

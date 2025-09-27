@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Memoria RAM 1x8GB UDIMM DDR4-2666
+- Tarjeta gráfica Integrated Integrated AMD Radeon Vega 8 Graphics
 - Sistema operativo Windows 10 pro
 - Procesador AMD Ryzen 3 3200G (4C / 8T, 3.7 / 4.2GHz, 2MB L2 / 4MB L3)
-- Memoria RAM 1x8GB UDIMM DDR4-2666
 - Almacenamiento de 256GB SSD M.2 2280 PCIe NVMe Opal
-- Tarjeta gráfica Integrated Integrated AMD Radeon Vega 8 Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W1PGJ78{{</world>}}

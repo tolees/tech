@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Raton ergonomico para gaming con sensor óptico de alta precisión de hasta 10000 ppp, Cómodo reposapulgares para un agarre perfecto
-- Iluminación RGB personalizable
 - Raton gamer con software avanzado para programar botones, macros y luces
-- Velocidad máxima garantizada: 100 pulgadas por segundo - Aceleración 20 G
+- Raton ergonomico para gaming con sensor óptico de alta precisión de hasta 10000 ppp, Cómodo reposapulgares para un agarre perfecto
 - 6 botones programables
+- Iluminación RGB personalizable
+- Velocidad máxima garantizada: 100 pulgadas por segundo - Aceleración 20 G
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JLMK5T3{{</world>}}

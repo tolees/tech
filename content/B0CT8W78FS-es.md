@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6", Full HD AMOLED 1920 x 1080 píxeles, Pantalla táctil y S Pen
+- Procesador Intel Core 5 120U, 1.8 / 5.4 GHz, 12 MB Smart Cache
+- Tarjeta gráfica Intel Graphics
 - Memoria RAM de 8GB
 - Almacenamiento de 512GB SSD
-- Tarjeta gráfica Intel Graphics
-- Procesador Intel Core 5 120U, 1.8 / 5.4 GHz, 12 MB Smart Cache
+- Pantalla de 15.6", Full HD AMOLED 1920 x 1080 píxeles, Pantalla táctil y S Pen
 - Sistema operativo Windows 11 Home
 
 [🛒 Aquí!!!]({{< param buyurl >}})

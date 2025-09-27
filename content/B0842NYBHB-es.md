@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 4k uhd hdmi con canal de retorno de audio
-- Barra de sonido todo en uno
 - Denon dialogue enhancer
+- Barra de sonido todo en uno
+- 4k uhd hdmi con canal de retorno de audio
 - Diseño plano y montaje en pared
 - Transmisión inalámbrica de música por bluetooth
 

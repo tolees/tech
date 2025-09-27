@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla de 15, 6 pulgadas
 - Ofrece un resultado óptimo y adecuado
+- Pantalla de 15, 6 pulgadas
 - Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

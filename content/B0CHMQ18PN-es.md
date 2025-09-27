@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tarjeta SD con capacidad de almacenamiento de hasta 256 GB⁴ para hasta 8,5 horas de grabación de vídeos 4K / UHD ⁶ o 56.841 fotos en Full HD ⁹, Accesorio de fotografía y cámara para creadores, fotógrafos y profesionales de los medios de comunicación ⁵
 - Tarjeta de memoria SD resistente y de alto rendimiento, Apta para cámaras DSLR, mirrorless o digitales, así como en PC y portátiles, Disponible en varias capacidades
+- Adecuada para 4K/UHD y disparo continuo² gracias a las altas velocidades de transferencia de hasta 180 MB/s de lectura y 130 MB/s de escritura¹ ³ (UHS-I U3)¹⁹
 - Contenido: 1 x Samsung PRO Ultimate Tarjeta de memoria SD, 256 GB, Dimensiones: 15 x 11 x 1 mm, Peso: 0,26 g, MB-SY256S
 - Robusta gracias a una protección 7 veces superior ¹⁰ : resistente al agua¹², resistente a la temperatura¹³, resistente a los rayos X¹⁴, resistente a los imanes¹⁵, resistente a los golpes¹⁶, resistente a las caídas¹⁷ y sin desgaste¹⁸
-- Adecuada para 4K/UHD y disparo continuo² gracias a las altas velocidades de transferencia de hasta 180 MB/s de lectura y 130 MB/s de escritura¹ ³ (UHS-I U3)¹⁹
-- Tarjeta SD con capacidad de almacenamiento de hasta 256 GB⁴ para hasta 8,5 horas de grabación de vídeos 4K / UHD ⁶ o 56.841 fotos en Full HD ⁹, Accesorio de fotografía y cámara para creadores, fotógrafos y profesionales de los medios de comunicación ⁵
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHMQ18PN{{</world>}}

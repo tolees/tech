@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM 8GB*2, DDR5-5200, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
-- Color chasis Translucent Black
+- Gráfica NVIDIA GeForce RTX 4060 Laptop
 - Pantalla de 14" FHD (1920x1200), tasa de refresco 144Hz, IPS-Level, 100%sRGB(Typical)
 - Procesador 13ª Gen Intel Core i7-13620H
-- Gráfica NVIDIA GeForce RTX 4060 Laptop
+- Memoria RAM 8GB*2, DDR5-5200, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
+- Color chasis Translucent Black
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY21PRVN{{</world>}}

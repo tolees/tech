@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Tarjeta gráfica RTX 4070, GDDR6 8GB
 - Memoria RAM de 16 GB (8GB*2) DDR5
 - Almacenamiento de 1TB NVMe PCIe SSD Gen4x4 w/o DRAM
-- Procesador Integrated SoC Raptor Lake i7-13700H
 - Pantalla de 15.6" QHD (2560*1440), 165Hz DCI-P3 100% typical
+- Procesador Integrated SoC Raptor Lake i7-13700H
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFYLL918{{</world>}}

@@ -29,14 +29,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Añade un toque de color: subraya tus escenas favoritas del color que prefieras, a elegir entre amarillo, naranja, azul o rosa.
+- Una experiencia totalmente nueva: la pantalla del Kindle Colorsoft está optimizada para leer en color y es diferente a la pantalla del Kindle Paperwhite, que está optimizada para leer en blanco y negro.
+- Lleva más libros a más sitios: llévate tu biblioteca contigo gracias a su diseño fino y ligero, y a sus 32 GB de espacio de almacenamiento.
+- Resistente al agua para que no te preocupes por nada: lee junto a la piscina, en la bañera o donde tú quieras.
 - Lee a todo color: la nueva pantalla Colorsoft de 7" te proporciona un alto contraste y una gran comodidad visual para su lectura. El color de la pantalla es similar al que se apreciaría sobre papel impreso y hace que las portadas y el contenido de los libros cobren vida.
+- Refúgiate en la lectura: con el Kindle, no tendrás que lidiar con distracciones provenientes de redes sociales, notificaciones u otras apps.
 - Se adapta a tu entorno: regula automáticamente la luz frontal de la pantalla entre luz blanca y cálida, y lee tanto bajo la luz solar directa más intensa como en completa oscuridad.
 - Amplia selección: obtén acceso de manera instantánea a millones de títulos con la Tienda Kindle o suscríbete a Kindle Unlimited para desbloquear incluso más contenido.
-- Refúgiate en la lectura: con el Kindle, no tendrás que lidiar con distracciones provenientes de redes sociales, notificaciones u otras apps.
-- Lleva más libros a más sitios: llévate tu biblioteca contigo gracias a su diseño fino y ligero, y a sus 32 GB de espacio de almacenamiento.
-- Una experiencia totalmente nueva: la pantalla del Kindle Colorsoft está optimizada para leer en color y es diferente a la pantalla del Kindle Paperwhite, que está optimizada para leer en blanco y negro.
 - Listo para sesiones de lectura maratonianas: una sola carga por USB-C dura hasta 8 semanas y, además, puedes cargarlo con la base de carga inalámbrica (vendida por separado).
-- Resistente al agua para que no te preocupes por nada: lee junto a la piscina, en la bañera o donde tú quieras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX8YKQ2H{{</world>}}

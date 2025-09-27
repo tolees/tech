@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Teléfono celular
 - Requiere configuración
+- Teléfono celular
 - Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

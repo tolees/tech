@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca del producto: Microsoft
 - Memoria interna: 128 GB
+- Marca del producto: Microsoft
 - Sistema operativo: Android
 - Número de tarjetas SIM: dos (Dual SIM)
 

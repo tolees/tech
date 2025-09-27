@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la MP600 MINI ofrece un magnífico rendimiento de almacenamiento.
-- Formato compacto M.2 2230: Totalmente compatible con la Steam Deck de Valve, la Microsoft Surface y otros dispositivos ultrafinos, lo que supone una gran actualización para las máquinas compatibles.
-- Su PC a una velocidad de vértigo: Cargue juegos, arranque Windows, abra y transfiera archivos más rápido que nunca.
-- Retrocompatibilidad*: Compatibilidad automática con sistemas con PCIe Gen3. *Rendimiento reducido en PCIe Gen3.
 - Rendimiento de almacenamiento extremo Gen4: El controlador PCIe Gen4 x4 brinda una velocidad de lectura secuencial de hasta 4.800 MB/s y de escritura secuencial de hasta 4.800 MB/s, para disfrutar de unos tiempos fantásticos de respuesta, lectura y escritura.
+- Formato compacto M.2 2230: Totalmente compatible con la Steam Deck de Valve, la Microsoft Surface y otros dispositivos ultrafinos, lo que supone una gran actualización para las máquinas compatibles.
+- Retrocompatibilidad*: Compatibilidad automática con sistemas con PCIe Gen3. *Rendimiento reducido en PCIe Gen3.
+- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la MP600 MINI ofrece un magnífico rendimiento de almacenamiento.
+- Su PC a una velocidad de vértigo: Cargue juegos, arranque Windows, abra y transfiera archivos más rápido que nunca.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C28HLKNB{{</world>}}

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 16 puertos con velocidad Gigabit (10/100/1000 Mbps), full dúplex, control de flujo
 - Sin ventilador, funcionamiento silencioso
-- Indicadores led del estado de conexión y actividad en cada puerto
-- Aumenta la capacidad de tu red cableada para conectar hasta 16 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - No necesita configuración: enchufar, conectar y listo
 - D-Link Green: los puertos no conectados apenas consumen energía eléctrica, mientras que los conectados consumen según sea el largo del cable, alcanzando un ahorro energético de hasta un 85%
+- Aumenta la capacidad de tu red cableada para conectar hasta 16 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - Formato rack con carcasa metálica con kit para su montaje en rack estándar de 19 pulgadas
-- 16 puertos con velocidad Gigabit (10/100/1000 Mbps), full dúplex, control de flujo
+- Indicadores led del estado de conexión y actividad en cada puerto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0007SQGV2{{</world>}}

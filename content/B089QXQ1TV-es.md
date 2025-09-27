@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Óptimo para aumentar la memoria de PC o portátil
 - Velocidad Lectura 560 MB por segundo
-- Peso 46 gramos
 - SSD Samsung 2.5" 1TB SATA3 870 QVO
+- Peso 46 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089QXQ1TV{{</world>}}

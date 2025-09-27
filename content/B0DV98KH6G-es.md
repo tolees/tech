@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mantén la altísima calidad de audio del estudio de grabación con los Galaxy Buds3 Pro; Samsung Seamless Codec comprime y codifica sonido de alta calidad de hasta 24bit/ 96kHz para escuchar los matices más sutiles
-- Galaxy AI: Pásate a la nueva era de la inteligencia artificial móvil con un asistente AI que se adelanta a todas tus necesidades, realiza fácilmente las tareas cotidianas mientras charlas con tu smartphone
 - Diseño: Descubre el Galaxy S25, un diseño elegante con un marco de aluminio duradero, una pantalla inmersiva y una cámara avanzada, ahora más delgado para un agarre más cómodo
+- Galaxy AI: Pásate a la nueva era de la inteligencia artificial móvil con un asistente AI que se adelanta a todas tus necesidades, realiza fácilmente las tareas cotidianas mientras charlas con tu smartphone
 - Lleva contigo los Galaxy Buds3 Pro y sigue interactuando con el mundo que te rodea; a través de Galaxy AI, los Galaxy Buds3 Pro detectan y eliminan los ruidos innecesarios; te permiten mejorar el audio reajustando los valores de ANC y del Sonido de Ambiente para corresponder con el alrededor
 - Cámara: ProVisual Engine está ahora potenciado por el extraordinario procesador de Samsung, disfruta de un sistema creativo avanzado para capturar, visualizar y editar imágenes y vídeos como nunca antes
 

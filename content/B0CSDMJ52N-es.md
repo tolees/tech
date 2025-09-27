@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conectividad: 1x HDMI 1x USB
 - Sintonizadores DVB-T2/C/S2
 - Compatible con montaje en pared - VESA: 100 x 100 M4
+- Conectividad: 1x HDMI 1x USB
 - Pantalla con resolución Full HD - óptima Definición 1920 x 1080
 - Diseño óptimo con marcos slim
 

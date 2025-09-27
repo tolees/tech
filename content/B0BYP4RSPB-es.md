@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Memoria RAM de 16GB LPDDR5
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
 - Procesador Raptor Lake i7-1360P
 - Tarjeta gráfica Iris Xe Graphics
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
 - Pantalla de 13.4" FHD (1920x1200), 120Hz 100% sRGB, IPS-Level pen touch
 
 [🛒 Comprar!!!]({{< param buyurl >}})

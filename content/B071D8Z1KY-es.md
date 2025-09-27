@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bluetooth inalámbrico 4.0 con un alcance de hasta 15 m
 - Compatible con Mac/Windows/Mobile sistemas operativos
 - Disposición de las teclas: Qwertz
 - Tipo de luz de fondo: LED
-- Bluetooth inalámbrico 4.0 con un alcance de hasta 15 m
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071D8Z1KY{{</world>}}

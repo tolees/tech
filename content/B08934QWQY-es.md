@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estructura sólida y duradera
 - Botones de acceso rápido para brillo, modos de iluminación y modo de juego
+- Estructura sólida y duradera
 - Barra de luces y efectos de iluminación RGB dinámicos
 - Teclas silenciosas y receptivas con funcionalidad anti-ghosting
 
