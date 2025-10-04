@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llamadas de audio bidireccional
 - Detección de movimiento
 - Calidad de imagen 2K ultranítida
 - Visión nocturna con infrarrojos
+- Llamadas de audio bidireccional
 - Compatible con Android 6.0 e iOS 11.0 o versiones posteriores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

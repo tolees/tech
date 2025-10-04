@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido del envío: SEL-85F18, tapa: ALC-SH150, tapa frontal: ALC-F67S, tapa trasera: ALC-R1EM
 - Teleobjetivo rápido
 - El vidrio ED compensa las aberraciones
 - Motor lineal para un enfoque preciso y silencioso
 - Apertura circular con nueve hojas para lograr efectos de desenfoque atractivos, distancia mínima de enfoque de 0,8 m
+- Contenido del envío: SEL-85F18, tapa: ALC-SH150, tapa frontal: ALC-F67S, tapa trasera: ALC-R1EM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06VTFTZ17{{</world>}}

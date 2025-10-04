@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Nitro KG242YEbiif - Monitor Gaming 24" Full HD 100 Hz  60 cm  1920x1080  16:9  250 Nits  Tiempo de Respuesta 1ms VRB  AMD FreeSync  2xHDMI 2.0/DP 1.2  Monitor PC Gaming Color Negro'
-date: 2025-09-27 15:08:13
+date: 2025-10-03 10:34:00
 image: 'https://m.media-amazon.com/images/I/41-viJbYGiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'acer'
 buyurl: 'https://www.amazon.es/dp/B0C28SG29Q/?tag=tolees-21'
 descuento: '33.36'
-average: '88.22'
+average: '87.6037037037037'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
 - Tecnología anti-fragmentación AMD FreeSync
-- 2xHDMI 1.4, ZeroFrame
+- Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
 - Soporte ergonómico con inclinación de pantalla -5° a 15°
 - Tiempo de respuesta 1 m/s VRB
+- 2xHDMI 1.4, ZeroFrame
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C28SG29Q{{</world>}}

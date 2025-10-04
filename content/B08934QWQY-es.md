@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Teclas silenciosas y receptivas con funcionalidad anti-ghosting
+- Barra de luces y efectos de iluminación RGB dinámicos
 - Estructura sólida y duradera
 - Botones de acceso rápido para brillo, modos de iluminación y modo de juego
-- Barra de luces y efectos de iluminación RGB dinámicos
-- Teclas silenciosas y receptivas con funcionalidad anti-ghosting
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08934QWQY{{</world>}}

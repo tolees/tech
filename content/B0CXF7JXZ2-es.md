@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla 16:10 WUXGA (1920 x 1200) de 40,6 cm (16"), IPS, antirreflectante, con microbordes, 300 nits, 62,5 % de sRGB
 - Copilot en Windows con la tecla Copilot; Intel Unison
 - Windows 11 | Gráficos Integrados Intel
 - Procesador Intel Core Ultra 7 155U (hasta 4,8 GHz con tecnología Intel Turbo Boost, 12 MBde caché L3, 12 núcleos, 14 subprocesos)
+- Pantalla 16:10 WUXGA (1920 x 1200) de 40,6 cm (16"), IPS, antirreflectante, con microbordes, 300 nits, 62,5 % de sRGB
 - 16GB RAM LPDDR5x-7467 MHz| SSD PCIe NVMe de 1 TB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escritura como en un portátil: Un teclado grande y con teclas bien espaciadas contiene una fila completa de teclas de accesos directos de iPadOS que facilitan una escritura cómoda, rápida y precisa.
-- Cuatro modos de uso: Escribe, dibuja, visualiza y lee. Si tienes que hacer algo con tu iPad Air, puedes elegir uno de sus cuatro versátiles modos de uso.
 - Teclas con retroiluminación: Las teclas con retroiluminación se ajustan automáticamente a la luz de tu entorno. Los niveles de brillo son ajustables.
-- Trackpad de alta precisión: Utiliza todos los controles por gestos multitáctiles habituales como deslizamiento, pellizco y desplazamiento para navegar aún más rápidamente en tu iPad Air.
+- Cuatro modos de uso: Escribe, dibuja, visualiza y lee. Si tienes que hacer algo con tu iPad Air, puedes elegir uno de sus cuatro versátiles modos de uso.
 - Soporte abatible ajustable: Un soporte abatible con diversos ángulos en un rango de 40° se combina con un teclado plegable para ofrecer un modo de visualización y dibujo auténtico, sin estorbos.
-- Protección de grado militar contra caídas: Una robusta funda que cumple la norma MIL STD 810G mantiene el iPad Air a salvo de golpes y arañazos. Un cierre magnético seguro lo mantiene cerrado durante los desplazamientos.
 - Alimentación y emparejamiento con un clic: Folio Touch se empareja al instante por Smart Connector. La energía procede directamente del iPad Air, o sea que no te hará falta cargar el teclado.
+- Protección de grado militar contra caídas: Una robusta funda que cumple la norma MIL STD 810G mantiene el iPad Air a salvo de golpes y arañazos. Un cierre magnético seguro lo mantiene cerrado durante los desplazamientos.
+- Trackpad de alta precisión: Utiliza todos los controles por gestos multitáctiles habituales como deslizamiento, pellizco y desplazamiento para navegar aún más rápidamente en tu iPad Air.
 - Espacio para lápiz digital: Folio Touch permite almacenar Logitech Crayon o acoplar Apple Pencil magnéticamente sin quitar la funda.
+- Escritura como en un portátil: Un teclado grande y con teclas bien espaciadas contiene una fila completa de teclas de accesos directos de iPadOS que facilitan una escritura cómoda, rápida y precisa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W7LNTM6{{</world>}}

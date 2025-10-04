@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Integración con sistemas Smart Home: compatible con Amazon Alexa, Google Assistant y Samsung SmartThings para un fácil control por voz.
-- Opciones de almacenamiento flexibles: almacenamiento local en tarjeta microSD (hasta 512 GB) o grabación segura en la nube a través de Tapo Care.
+- Audio bidireccional: comunicación clara con los visitantes o la familia a través del micrófono y altavoz integrados.
 - Tamaño compacto para una protección discreta: el Tapo C206 ofrece una solución de vigilancia discreta para todos aquellos que desean proteger a su familia sin que la cámara llame la atención. Gracias a su diseño compacto (105,3 × 77,8 × 69,8 mm), se puede integrar discretamente en interiores y exteriores y garantiza seguridad con respeto a la privacidad.
 - Múltiples opciones de instalación: adecuado para montaje en pared, techo, mesa o mástil gracias a su diseño compacto.
-- Audio bidireccional: comunicación clara con los visitantes o la familia a través del micrófono y altavoz integrados.
-- Detección y seguimiento de movimiento: rastrea automáticamente los movimientos y mantiene los objetos a la vista de forma fiable. Visión nocturna en color con faros integrados: proporciona imágenes en color vivas incluso en la oscuridad en lugar de solo en blanco y negro.
+- Integración con sistemas Smart Home: compatible con Amazon Alexa, Google Assistant y Samsung SmartThings para un fácil control por voz.
 - Detección inteligente de inteligencia artificial: detecta personas y bebés llorando y envía notificaciones instantáneas. Resistencia a la intemperie IP65: resistente al agua y al polvo, perfecto para uso en exteriores.
+- Detección y seguimiento de movimiento: rastrea automáticamente los movimientos y mantiene los objetos a la vista de forma fiable. Visión nocturna en color con faros integrados: proporciona imágenes en color vivas incluso en la oscuridad en lugar de solo en blanco y negro.
+- Opciones de almacenamiento flexibles: almacenamiento local en tarjeta microSD (hasta 512 GB) o grabación segura en la nube a través de Tapo Care.
 - Panorámica de 360° con función de giro/inclinación - Cobertura horizontal de 360° y vertical de 146° para una vigilancia completa sin puntos ciegos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

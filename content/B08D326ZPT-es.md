@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
 - Pantalla Retina HD de 4,7 pulgadas
-- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
 - Cámara frontal de 7 Mpx con modo Retrato, Iluminación de Retratos y Control de Profundidad
 

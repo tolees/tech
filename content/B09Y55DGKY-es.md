@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tarjeta gráfica Iris Xe Graphics
+- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 - Procesador Raptor Lake i5-1335U
 - Tarjeta gráfica Iris Xe Graphics
-- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD w/o DRAM
 - Memoria RAM de 16GB Onboard DDR IV (3200MHz)
-- Pantalla de 14" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
-- Tarjeta gráfica Iris Xe Graphics
+- Almacenamiento de 512GB NVMe PCIe Gen3x4 SSD w/o DRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y55DGKY{{</world>}}

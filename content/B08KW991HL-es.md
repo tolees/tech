@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería incorporada - La batería recargable incorporada de 800 mAh permite llevar esta pequeña bola de discoteca a cualquier parte. Con un tiempo de trabajo de hasta 4 horas no debe preocuparse de que su patry caiga en el tiempo equivocado.
-- Tamaño práctico: su construcción ligera y compacta lo hace portátil y conveniente para el almacenamiento y el ahorro de espacio. Cabe fácilmente en la guantera.
 - Carga rápida - USB QC3.0 proporciona hasta el 80% de carga en sólo 35 minutos, lo que proporciona una velocidad de carga 3-4 veces más rápida. La carga USB con un máximo de 2.5A de salida hace que sea realmente rápido y conveniente.
 - Función de discoteca: convierte tu coche en una discoteca. Luz de discoteca autónoma con reconocimiento de sonido, perfecta para uso en interiores, campamentos o fiestas en la playa. Reacciona al ritmo de la música, por lo que el color cambiará al compás.
 - Multiuso - carga cualquiera de tus dispositivos móviles de forma rápida y segura - smartphones, tablets, reproductores de audio-vídeo, auriculares, etc. Puede cargar hasta 3 dispositivos al mismo tiempo. Adaptador de mechero con 3 puertos USB.
+- Tamaño práctico: su construcción ligera y compacta lo hace portátil y conveniente para el almacenamiento y el ahorro de espacio. Cabe fácilmente en la guantera.
+- Batería incorporada - La batería recargable incorporada de 800 mAh permite llevar esta pequeña bola de discoteca a cualquier parte. Con un tiempo de trabajo de hasta 4 horas no debe preocuparse de que su patry caiga en el tiempo equivocado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KW991HL{{</world>}}

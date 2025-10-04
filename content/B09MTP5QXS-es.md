@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrena de forma consciente con el VO2 max; Después de cada entrenamiento, muestra el tiempo de recuperación estimado, para saber cuando estarás listo para la siguiente sesión
-- Disfruta de lo que más te gusta con perfiles de actividad preinstalados para correr, nadar, ciclismo, MTB, entrenamiento de fuerza, escalada en interiores, golf, yoga, pilates y mucho más; También incluye actividades multideporte como triatlón o swimrun
 - Con Instinct 2 tendrás una autonomía en modo reloj inteligente de hasta 28 días y en modo GPS de hasta 30 horas
 - Sensores GPS, GLONASS y Galileo para registrar tus actividades en los entornos más desafiantes; Descarga pantallas personalizadas, agrega campos de datos y obtén aplicaciones y widgets desde la aplicación Connect IQ
+- Entrena de forma consciente con el VO2 max; Después de cada entrenamiento, muestra el tiempo de recuperación estimado, para saber cuando estarás listo para la siguiente sesión
+- Disfruta de lo que más te gusta con perfiles de actividad preinstalados para correr, nadar, ciclismo, MTB, entrenamiento de fuerza, escalada en interiores, golf, yoga, pilates y mucho más; También incluye actividades multideporte como triatlón o swimrun
 - Recibe notificaciones inteligentes de tu teléfono directamente en la muñeca, monitoriza tu energía corporal con Body Battery, revisa la puntuación y etapas del sueño y comprueba tu edad fisiológica según tu rendimiento y actividades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

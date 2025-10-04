@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad: PC de audio+micrófono, Xbox One, PS4, Nintendo Switch, móvil, dispositivos habilitados para Bluetooth
 - Alcance inalámbrico: hasta 10 metros
-- Micrófono integrado y micro varilla extraíble
-- Durabilidad y comodidad HyperX
-- Impedancia: 40 Ω. Nivel de presión sonora: 100 dBSP/mW a 1 kHz
 - Tecnología Bluetooth inalámbrica para uso sobre la marcha. Códecs compatibles: aptX, aptX de baja latencia, SBC, AAC
+- Impedancia: 40 Ω. Nivel de presión sonora: 100 dBSP/mW a 1 kHz
 - Auriculares para juegos con cable certificados para sonido de audio de alta resolución con compatibilidad con varios dispositivos. Perfiles compatibles: A2DP, AVRCP, HFP, HSP, DIP. Respuesta de frecuencia: 50 Hz-18.000 Hz
+- Durabilidad y comodidad HyperX
+- Compatibilidad: PC de audio+micrófono, Xbox One, PS4, Nintendo Switch, móvil, dispositivos habilitados para Bluetooth
+- Micrófono integrado y micro varilla extraíble
 - Transductores de doble cámara HyperX generan una mejor distinción acústica y menos distorsión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

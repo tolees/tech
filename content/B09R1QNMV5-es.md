@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Potencia máxima total de salida de 75 W
+- Fuente de alimentación: Cable eléctrico
+- Acabado en negro mate con rejilla metálica Montaje en pared o disposición en sobremesa
 - HDMI ARC/CEC, Bluetooth 5.1, Entrada óptica digital para transmisión de audio superior Entrada auxiliar de 3,5 mm para conectar dispositivos estéreo analógicos externos, Reproducción USBcompatible con MP3 y WAV (admite unidades de hasta 32 GB)
 - Conexión HDMI ARC/CEC permite el control de la barra de sonido con el mando a distancia del televisor
-- Acabado en negro mate con rejilla metálica Montaje en pared o disposición en sobremesa
 - Mando a distancia con funcionalidad completa teclas de función en la barra de sonido
-- Fuente de alimentación: Cable eléctrico
 - BARRA DE SONIDO 2.0 con HDMI Y BLUETOOTH
-- Potencia máxima total de salida de 75 W
 - Ecualizador con tres ajustes predefinidos ajuste independiente de graves y agudos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

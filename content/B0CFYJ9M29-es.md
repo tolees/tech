@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel HM770 Raptor Lake i9-13980HX (support ABT & TVB)
-- Pantalla de 16" 16:10 UHD+(3840x2400), 120Hz, 100% DCI-P3, IPS-level panel
-- Memoria RAM de 32GB (16GB*2) DDR5
-- Tarjeta gráfica RTX 4090, GDDR6 16GB
 - Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Tarjeta gráfica RTX 4090, GDDR6 16GB
+- Memoria RAM de 32GB (16GB*2) DDR5
+- Pantalla de 16" 16:10 UHD+(3840x2400), 120Hz, 100% DCI-P3, IPS-level panel
+- Procesador Intel HM770 Raptor Lake i9-13980HX (support ABT & TVB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFYJ9M29{{</world>}}

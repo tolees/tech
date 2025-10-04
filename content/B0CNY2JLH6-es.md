@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos integrados AMD Radeon que le brindan un gran rendimiento y efectos visuales nítidos
-- Sistema Operativo FreeDOS
 - Puertos: 2 USB Type-A con velocidad de señal de 10 Gbps; 2 USB Type-A con velocidad de señal de 5 Gbps; 1 combo de auriculares/micrófono; 4 USB 2.0 de tipo A; 1 entrada de audio; 1 salida de audio; 1 RJ-45, 1 VGA; 1 salida HDMI 1.4b
 - Memoria RAM DDR4-3200 MHz 8 GB (1 x 8 GB) con velocidades de transferencia de hasta 3200 MT/s
 - Procesador AMD Ryzen 5 5600G (aumento máximo del reloj hasta 4,4 GHz, 16 MB de caché L3, 6 núcleos, 12 subprocesos)
+- Gráficos integrados AMD Radeon que le brindan un gran rendimiento y efectos visuales nítidos
+- Sistema Operativo FreeDOS
 - Almacenamiento SSD de 512 GB PCIe NVMe M.2, aprovecha su gran capacidad para guardar todo tu contenido favorito
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

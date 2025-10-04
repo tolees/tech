@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 6 botones programables
-- Iluminación RGB personalizable
 - Velocidad máxima garantizada: 100 pulgadas por segundo - Aceleración 20 G
+- Iluminación RGB personalizable
+- 6 botones programables
 - Raton ergonomico para gaming con sensor óptico de alta precisión de hasta 10000 ppp, Cómodo reposapulgares para un agarre perfecto
 - Raton gamer con software avanzado para programar botones, macros y luces
 

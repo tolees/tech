@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RÁPIDO Y PRECISO: El motor lineal XD aprovecha todo el potencial del cuerpo de la cámara, enfocando y siguiendo incluso a los sujetos en movimiento rápido con asombrosa velocidad y precisión
-- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque
 - INCREÍBLEMENTE NÍTIDO: Un elemento asférico y tres elementos de cristal ED en un diseño óptico de precisión reducen la distorsión en todo el alcance del zoom
-- ERGONOMÍA CONVENIENTE: El conmutador de modo de enfoque, que permite alternar de forma instantánea entre los modos de enfoque automático y manual junto con un botón de fijación de enfoque personalizable para un disparo eficiente y versátil
+- RÁPIDO Y PRECISO: El motor lineal XD aprovecha todo el potencial del cuerpo de la cámara, enfocando y siguiendo incluso a los sujetos en movimiento rápido con asombrosa velocidad y precisión
 - SIEMPRE FIABLE: Un diseño resistente al polvo y a la humedad ofrece la fiabilidad necesaria para el uso en exteriores y en condiciones adversas
+- ERGONOMÍA CONVENIENTE: El conmutador de modo de enfoque, que permite alternar de forma instantánea entre los modos de enfoque automático y manual junto con un botón de fijación de enfoque personalizable para un disparo eficiente y versátil
+- MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X5DGGMQ{{</world>}}

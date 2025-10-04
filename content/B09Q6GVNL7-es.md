@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: negro
 - Conjunto de altavoces
 - Diseño moderno y elegante
-- Color: negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09Q6GVNL7{{</world>}}

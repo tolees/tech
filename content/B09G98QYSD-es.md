@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 19 horas de reproducción de vídeo
+- Chip A15 Bionic para un rendimiento ultrarrápido
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - Resistencia al agua IP68, líder en el sector
 - Pantalla Super Retina XDR de 6,1 pulgadas
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Conexión 5G para descargas superveloces y streaming en alta calidad
-- Chip A15 Bionic para un rendimiento ultrarrápido
-- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
-- Diseño robusto con Ceramic Shield
+- Hasta 19 horas de reproducción de vídeo
 - iOS 15 con nuevas prestaciones que sacan más partido al iPhone
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Conexión 5G para descargas superveloces y streaming en alta calidad
+- Diseño robusto con Ceramic Shield
+- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G98QYSD{{</world>}}

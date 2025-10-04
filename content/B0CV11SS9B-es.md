@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Procesador AMD Ryzen 5 7535HS (6C/HexaCore 3.3 / 4.55GHz, 19MB)
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB DDR5 5600MHz
-- Sin Sistema Operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 2050 4GB GDDR6
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Sin Sistema Operativo
+- Memoria RAM de 16GB DDR5 5600MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV11SS9B{{</world>}}
