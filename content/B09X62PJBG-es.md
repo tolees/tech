@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con PC, SWITCH, ANDROID y IOS Soporte smartphone incluido
-- Mando élite diseñado para la competición
 - Iluminación LED RGB
+- Mando élite diseñado para la competición
+- Compatible con PC, SWITCH, ANDROID y IOS Soporte smartphone incluido
 - Botones configurables y marcos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

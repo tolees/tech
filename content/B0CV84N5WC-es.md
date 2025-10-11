@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Memoria RAM de 8GB DDR4 SDRAM
 - Tarjeta Gráfica Intel Iris Xe Graphics
 - Pantalla de 15,6", FullHD LED 1920 x 1080 pixeles, 60Hz
 - Almacenamiento de 512GB SSD PCIe NVMe
-- Memoria RAM de 8GB DDR4 SDRAM
 - Procesador Intel Core i7-1165G7 (4C/Quad-Core), 2,80 GHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

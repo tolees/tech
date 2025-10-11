@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gps electrónica de alta sensibilidad
-- Duración batería 35 horas
 - Impermeabilidad IPX7
+- Duración batería 35 horas
+- Gps electrónica de alta sensibilidad
 - Conectividad sí
 - Pantalla LCD MONOCROMO de 2. 3
 

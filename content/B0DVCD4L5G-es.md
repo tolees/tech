@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta gráfica integrada Qualcomm Adreno GPU
 - Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
-- Procesador Qualcomm Snapdragon X1E-78-100 (12C/DodecaCore 3.4GHz, 42MB)
 - Memoria RAM de 32GB en placa LPDDR5x
+- Tarjeta gráfica integrada Qualcomm Adreno GPU
+- Procesador Qualcomm Snapdragon X1E-78-100 (12C/DodecaCore 3.4GHz, 42MB)
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Sistema Operativo: Windows 11 Home
 

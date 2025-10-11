@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
 - Procesador Intel Core i5-1235U (hasta 4,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
-- Gráficos Integrados Intel Iris Xᵉ
 - Sin Sistema Operativo
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Memoria RAM DDR4-3200 MHz 16 GB (2 x 8 GB)
+- Gráficos Integrados Intel Iris Xᵉ
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVBVRJQG{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 256GB SSD PCI Express NVMe 4.0
-- Tarjeta Gráfica AMD Radeon Graphics
-- Pantalla de 14", FullHD LCD 1920 x 1200 pixeles, 60Hz
-- Aumenta tu productividad con Google AI Pro: obtén 2TB de almacenamiento y muchas más funciones sin coste durante 3 meses al comprar un Chromebook
-- Sistema Operativo: ChromeOS
-- Procesador AMD Ryzen 3 7320C (4C/QuadCore), 2,40 GHz
 - Memoria RAM de 8GB LPDDR5X
+- Procesador AMD Ryzen 3 7320C (4C/QuadCore), 2,40 GHz
+- Aumenta tu productividad con Google AI Pro: obtén 2TB de almacenamiento y muchas más funciones sin coste durante 3 meses al comprar un Chromebook
+- Almacenamiento de 256GB SSD PCI Express NVMe 4.0
+- Pantalla de 14", FullHD LCD 1920 x 1200 pixeles, 60Hz
+- Sistema Operativo: ChromeOS
+- Tarjeta Gráfica AMD Radeon Graphics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DS69JPHH{{</world>}}

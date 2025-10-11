@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Integral. Estabilizador óptico de imagen
 - SEL-P18110G; Tapa (modelo) ALC-SH148; Tapa de lente delantera; Tapa trasera de lente (ALC-R1EM); Bolsa; Dispositivo de trípode
 - Objetivo de vídeo ideal con amplio rango focal y zoom de potencia
-- Integral. Estabilizador óptico de imagen
 - 3 anillos de ajuste en la lente (enfoque, apertura, zoom)
 - Protección contra el polvo y la humedad
 

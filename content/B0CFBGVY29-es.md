@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Almacenamiento de datos SSD de 512 GB
 - Procesador Intel Core i7-1355U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Memoria RAM 16 GB
-- Almacenamiento de datos SSD de 512 GB
 - Gráficos Integrados Intel Iris
 - Sistema operativo Windows 11 Home
 

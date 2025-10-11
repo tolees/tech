@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Autonomía de unas 3 horas.
-- Diseño compacto - Potencia de 3W RMS - Batería integrada de 2000mAh
 - Micrófono incorporado para realizar llamadas telefónicas - Ranura para tarjeta de memoria/reproductor de MP3
+- Diseño compacto - Potencia de 3W RMS - Batería integrada de 2000mAh
 - Carcasa de aluminio - Retroiluminación - LED informando de funciones, llamada entrante, etc.
 - not_water_resistant
+- Autonomía de unas 3 horas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1F3MXCX{{</world>}}

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ratón de fácil configuración, la conexión es muy sencilla gracias a la conectividad USB para que puedas usarlo inmediatamente
-- Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
 - Dimensiones (ancho x fondo x alto) 11,66 × 6,43 × 3,72 cm y peso 0,09 kg
+- Sensor óptico alta precisión de 1600 PPP para movimientos precisos, que se adapta a la mayoria de las superficies
 - Sistemas operativos compatibles: Windows 10; Windows 8; Windows 7; MacOS 10.1 o superior
 - Diseño ambidiestro, cómodo y versatil para ambas manos, además su forma contorneada se adapta de forma natural y perfecta a la palma de la mano
-- Sensor óptico alta precisión de 1600 PPP para movimientos precisos, que se adapta a la mayoria de las superficies
+- Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X5KM71D{{</world>}}

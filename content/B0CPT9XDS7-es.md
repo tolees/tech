@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se destaca con una batería de 5100 mAh
 - Cuenta con un conjunto de cámaras, con el sensor principal de hasta 108MP
+- Se destaca con una batería de 5100 mAh
 - Diseño con biseles delgados, agregando estilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
-- Impresora conectada : puedes imprimir, copiar y escanear desde tu tablet o smartphone gracias a la compatibilidad inalámbrica y una interfaz clara y sencilla.
-- Fácil configuración: lo tendrás todo listo más rápido que nunca con la conectividad inalámbrica de un solo toque y un procedimiento de configuración más sencillo.
-- Ver para creer: puedes ver las actualizaciones de estado a simple vista en la nítida pantalla LCD monocroma de 1,5".
-- Vive sin límites: puedes imprimir fotografías sin bordes de hasta 13 x 18 cm y la impresión fotográfica de 10 x 15 cm en tan solo 65 segundos*.
 - Impresora Canon multifunción 3 en 1: inteligente y práctica. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Ver para creer: puedes ver las actualizaciones de estado a simple vista en la nítida pantalla LCD monocroma de 1,5".
+- Fácil configuración: lo tendrás todo listo más rápido que nunca con la conectividad inalámbrica de un solo toque y un procedimiento de configuración más sencillo.
+- Impresora conectada : puedes imprimir, copiar y escanear desde tu tablet o smartphone gracias a la compatibilidad inalámbrica y una interfaz clara y sencilla.
+- Vive sin límites: puedes imprimir fotografías sin bordes de hasta 13 x 18 cm y la impresión fotográfica de 10 x 15 cm en tan solo 65 segundos*.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPGCJXG{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - color : Ballons
-- material : Poliuretano termoplástico
 - Funda para Ereader Libro Electrónico
+- material : Poliuretano termoplástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JW7FP43{{</world>}}
