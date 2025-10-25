@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño de bloque omnidireccional
-- Salida total de 100 W
 - Fácil de configurar
+- Salida total de 100 W
 - Sonido nítido y amplio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conectividad ultrarrápida: M.2 PCIe 5.0, Realtek 2.5 Gb Ethernet, puertos USB 3.2 Gen 2, USB 3.2 frontal Gen 1 Type-C.
+- AMD Socket AM5: Soporta procesadores AMD Ryzen serie 7000.
 - ASUS OptiMem II: enrutamiento cuidadoso de trazas y vías, además de optimizaciones de capa de tierra para preservar la integridad de la señal para mejorar el overclocking de la memoria.
 - Enfriamiento integral: disipador de calor VRM, disipador de calor M.2, disipador de calor PCH, cabezales de ventilador híbridos y Fan Xpert 2+.
-- AMD Socket AM5: Soporta procesadores AMD Ryzen serie 7000.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6HWFZ56{{</world>}}

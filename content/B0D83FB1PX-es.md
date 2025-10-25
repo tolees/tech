@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Type: Phone
-- - 4G Network: LTE
 - - 3G Network: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+- - 4G Network: LTE
 - - 5G Network
 - - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+- - Type: Phone
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D83FB1PX{{</world>}}

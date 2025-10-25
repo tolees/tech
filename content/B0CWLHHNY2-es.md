@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Procesador AMD Ryzen Z1 Extreme (8C / 16T, 3.3 / 5.1GHz, 8MB L2 / 16MB L3)
-- Tarjeta Gráfica AMD Integrada
-- Pantalla de 8.8" WQXGA (2560x1600) IPS 500nits Glossy / Anti-huellas dactilares, 97% DCI-P3, 144 Hz, Corning Gorilla Glass 5, Low Blue Light, Táctil
 - Almacenamiento de 1 TB SSD M.2 2242 PCIe 4.0x4 NVMe
 - Memoria RAM de 16GB Soldered LPDDR5x-7500
+- Pantalla de 8.8" WQXGA (2560x1600) IPS 500nits Glossy / Anti-huellas dactilares, 97% DCI-P3, 144 Hz, Corning Gorilla Glass 5, Low Blue Light, Táctil
+- Tarjeta Gráfica AMD Integrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWLHHNY2{{</world>}}

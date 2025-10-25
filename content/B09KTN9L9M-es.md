@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los botones tienen una gran durabilidad
 - Conéctelo y olvídese de él: funcionamiento inalámbrico para mayor comodidad
-- Reducción del sonido del clic para una experiencia silenciosa y cómoda
 - Seguimiento óptico de alta definición para un control fluido
+- Los botones tienen una gran durabilidad
+- Reducción del sonido del clic para una experiencia silenciosa y cómoda
 - Diseño ergonómico del ratón cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

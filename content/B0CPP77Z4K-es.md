@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ▲【Compatibility】Sólo diseño para ★iPhone 12 Pro Max 6.7 Pulgadas★. ❤❤❤Por favor, compruebe su modelo de teléfono en "Configuración - General - Info - Nombre del modelo" antes de hacer la compra.
-- ▲【Protección Mejorada de la Pantalla y la Cámara】2 piezas de vidrio protector de pantalla de dureza 9H ultradelgado y transparente de 0.33 mm que brindan una protección completa para la pantalla de su teléfono para reducir los rasguños, las huellas dactilares y el polvo. ❤❤❤Si el protector de pantalla está roto, no dude en ponerse en contacto con nosotros y haremos todo lo posible para ayudarle a resolverlo.
 - ✔【Tecnología de protección completa】Airbag antisísmico dentro de las cuatro esquinas para agregar protección contra caídas, absorción de impactos y un diseño alto para proteger el cuerpo del iPhone 12 Pro Max, la pantalla y la lente de la cámara desde todos los ángulos de otoño.
+- ▲【Protección Mejorada de la Pantalla y la Cámara】2 piezas de vidrio protector de pantalla de dureza 9H ultradelgado y transparente de 0.33 mm que brindan una protección completa para la pantalla de su teléfono para reducir los rasguños, las huellas dactilares y el polvo. ❤❤❤Si el protector de pantalla está roto, no dude en ponerse en contacto con nosotros y haremos todo lo posible para ayudarle a resolverlo.
 - ✔【Super Magnetic】El anillo magnético incorporado puede fortalecer la conexión magnética para que sea compatible con todos los accesorios Mag-Safe/Wireless, como cargadores inalámbricos, soportes magnéticos para automóviles, etc. Los anillos magnéticos perfectamente alineados hacen que la carga inalámbrica sea más rápida y fácil sin quitar la funda. Disfrute de la carga rápida en cualquier momento y en cualquier lugar.
+- ▲【Compatibility】Sólo diseño para ★iPhone 12 Pro Max 6.7 Pulgadas★. ❤❤❤Por favor, compruebe su modelo de teléfono en "Configuración - General - Info - Nombre del modelo" antes de hacer la compra.
 - ✔【Botones Independientes & Sensibles】Todos los cortes de la carcasa están medidos y cortados con precisión, los botones están hechos de plástico duro, diferente de los habituales botones de silicona blanda. Nuestros botones son más sensibles y más fácil de presionar que de costumbre, siempre te da clicky retroalimentación táctil y agradable sensación táctil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

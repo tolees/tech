@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Captura la vida tal y como la ves: con 24mp, grabación de vídeo en 4k e iso 100-51200, la alpha 7 c captura todos los detalles en cualquier situación de iluminación
-- Calidad profesional sin compromiso: la potencia de un sensor retro iluminado de fotograma completo cmos dentro de un cuerpo ligero y compacto
 - Comparte tus creaciones: descarga gratis en tu dispositivo la aplicación imaging edge de sony y comparte tu contenido
 - Enfoque automático rápido y preciso: sujeto siempre enfocado y nítido con la af con seguimiento en tiempo real, que incluso puede seguir el enfoque en ojos y también en modo vídeo
+- Captura la vida tal y como la ves: con 24mp, grabación de vídeo en 4k e iso 100-51200, la alpha 7 c captura todos los detalles en cualquier situación de iluminación
+- Calidad profesional sin compromiso: la potencia de un sensor retro iluminado de fotograma completo cmos dentro de un cuerpo ligero y compacto
 - Estabilización de imagen de hasta 5 pasos, pantalla táctil de ángulo variable, batería z para mayor duración, interfaz de audio digital con entrada para micrófono y auriculares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

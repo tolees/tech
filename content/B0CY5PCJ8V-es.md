@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ÚSALO DONDE QUIERAS. resistencia a las salpicaduras de agua IPX4(2) y ruedas para llevarlo a cualquier parte. AMPLIA CONECTIVIDAD. Se pueden conectar varios móviles a la vez para crear la playlist perfecta y vincular hasta 2 altavoces para aumentar la potencia a 2000W.
 - SONIDO NÍTIDO Y GRAVES POTENTES: Con una potencia de sonido de 1000W y 2.2 canales, cuenta con 2 grandes woofers de 8 pulgadas para unos graves profundos sin distorsiones y 2 tweeters de 3 pulgadas para unos agudos nítidos y potentes.
-- MONTA LAS MEJORES FIESTAS CON AMIGOS. Diviértete usando una gran variedad de efectos sonoros de DJ y de voz directamente desde tu teléfono a través de App XBOOM (1).
-- HAZ QUE TU FIESTA SEA MEMORABLE. Comparte y anima la fiesta a través de su pantalla con mensajes, emojis y diferentes efectos. Edita y personaliza tus emojis y fondos de pantalla. Además, su iluminación LED multicolor cambia al ritmo de la música.
 - CELEBRA TU PROPIO CONCIERTO. Con entrada para micrófono y guitarra. Activa la función Karaoke pulsando un simple botón.
+- HAZ QUE TU FIESTA SEA MEMORABLE. Comparte y anima la fiesta a través de su pantalla con mensajes, emojis y diferentes efectos. Edita y personaliza tus emojis y fondos de pantalla. Además, su iluminación LED multicolor cambia al ritmo de la música.
+- MONTA LAS MEJORES FIESTAS CON AMIGOS. Diviértete usando una gran variedad de efectos sonoros de DJ y de voz directamente desde tu teléfono a través de App XBOOM (1).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CY5PCJ8V{{</world>}}

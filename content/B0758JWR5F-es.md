@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bluetooth
 - Soporte de pared
+- Bluetooth
 - Potencia 50W
 - TV barra de sonido con Bluetooth
 

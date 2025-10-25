@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enfoque manual
 - Campo de visión diagonal de 180°, con revestimiento UMC anti-reflectante
-- Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
 - Montura para Nikon F AE
+- Enfoque manual
+- Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
 - Incluye parasol extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})

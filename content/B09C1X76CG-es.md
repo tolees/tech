@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llamada de emergencia con manos libres (botón SOS)
-- Larga duración batería 6,5 horas en conversación, 700 horas en stand by
 - Carga cómoda via USB-C
 - Teclas separadas de gran tamaño con retroiluminación
 - Pantalla a color TFT de 2.4“ con iconos de gran tamaño
+- Llamada de emergencia con manos libres (botón SOS)
+- Larga duración batería 6,5 horas en conversación, 700 horas en stand by
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C1X76CG{{</world>}}

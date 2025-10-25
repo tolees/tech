@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los ventiladores Axial-tech cuentan con un núcleo más pequeño que facilita el uso de aspas más largas y un anillo de protección que aumenta la presión del aire hacia abajo
+- Con tecnología de la arquitectura NVIDIA Blackwell y DLSS 4
 - El diseño de 2.5 ranuras permite una mayor compatibilidad de construcción manteniendo el rendimiento de refrigeración
 - La almohadilla térmica de cambio de fase de la GPU ayuda a asegurar una transferencia de calor óptima, reduciendo las temperaturas de la GPU para mejorar el rendimiento y la fiabilidad
-- Con tecnología de la arquitectura NVIDIA Blackwell y DLSS 4
 - Tarjeta GeForce preparada para entusiastas SFF
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HDMI y DisplayPort
 - Confort ocular certificado por TÜV Rheinland Antiparpadeo
-- Alta tasa de refresco de 100 Hz y óptimo tiempo de respuesta de 1 ms (MPRT)
 - Reducción de la Luz Azul PRO
+- HDMI y DisplayPort
+- Alta tasa de refresco de 100 Hz y óptimo tiempo de respuesta de 1 ms (MPRT)
 - Soporte inclinable y montable en VESA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

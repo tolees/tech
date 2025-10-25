@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SSD Samsung 2.5" 1TB SATA3 870 QVO
-- Óptimo para aumentar la memoria de PC o portátil
 - Velocidad Lectura 560 MB por segundo
+- Óptimo para aumentar la memoria de PC o portátil
 - Peso 46 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

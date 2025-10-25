@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento 512GB*1 NVMe SSD PCIe Gen3
-- Pantalla de 14" FHD (1920x1080), IPS-Level
 - Color Urban Silver
 - Procesador AMD Ryzen 5 7530U
+- Almacenamiento 512GB*1 NVMe SSD PCIe Gen3
+- Pantalla de 14" FHD (1920x1080), IPS-Level
 - Memoria RAM 8GB, DDR4-3200
 
 [🛒 Aquí!!!]({{< param buyurl >}})

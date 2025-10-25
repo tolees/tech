@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Powered by 33W fast charging
 - Stylish glass back design
 - MediaTek Helio G91-Ultra
-- Powered by 33W fast charging
-- Massive 5030mAh (typ) battery
 - Immersive 6.79" FHD+ display
 - 108MP super-clear camera
+- Massive 5030mAh (typ) battery
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4SMFD94{{</world>}}

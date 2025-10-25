@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGA Y COLECCIÓN: Descubre más figuras de Battle para jugar y coleccionar
 - Producto oficial: un producto oficial de Pokémon de Jazwares
 - Detalles auténticos: con detalles auténticos de la serie de dibujos animados de Pokémon
 - CARACTERÍSTICAS DE LUCHA: Característica función de combate
+- JUEGA Y COLECCIÓN: Descubre más figuras de Battle para jugar y coleccionar
 - Battle FIGUR: Figura móvil de 11,5 cm Battle Feature Glurak con Pikachu de 5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

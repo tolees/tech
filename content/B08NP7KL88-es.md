@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALTA EFICIENCIA DE CONVERSIÓN: el panel monocristalino tiene una eficiencia de conversión alta del 22%, permite producir electricidad en un entorno exterior de bajo lux, adecuado para exteriores o caravanas. El pie de apoyo le permite recibir un 25% más de luz solar adicional.
-- PAQUETE Y SERVICIO AL CLIENTE: 1 * 60W Panel Solar; 1* 10 en 1 DC adaptador; 1 * Cable de DC a DC; 1 * Cable de DC a Anderson; 1 * Manual de usuario. Ofrecemos servicio al cliente rápido 7 * 24, 24 meses de garantía, soporte técnico de por vida.
 - SALIDA DC Y USB: Diseñado con 4 puertos de salida diferentes: 1 * salida DC (12-18V, 3.3A Max); 1 * USB C (5V / 3A, 9V / 2A, 12V / 1.5A); 2 * USB QC3.0; proporciona energía para sus teléfonos inteligentes, Pad, computadora portátil, estación de energía, etc. La tecnología TIR-C puede reconocer sus dispositivos y maximizar la velocidad de carga y protegerlos de problemas de seguridad.
 - PORTÁTIL Y DURADERO: Hecho de material impermeable y la bolsa está hecha con tela de poliéster de calidad; Y con un tamaño portátil de 46x36x5,5cm, puedes llevarlo con una mano a cualquier lugar.
 - 10 EN 1 DC ADAPTADORES: Viene con un 10 en 1 adaptadores, es compatible con la mayoría de generadores solares del mercado (suaoki beaudens allpowers)
+- ALTA EFICIENCIA DE CONVERSIÓN: el panel monocristalino tiene una eficiencia de conversión alta del 22%, permite producir electricidad en un entorno exterior de bajo lux, adecuado para exteriores o caravanas. El pie de apoyo le permite recibir un 25% más de luz solar adicional.
+- PAQUETE Y SERVICIO AL CLIENTE: 1 * 60W Panel Solar; 1* 10 en 1 DC adaptador; 1 * Cable de DC a DC; 1 * Cable de DC a Anderson; 1 * Manual de usuario. Ofrecemos servicio al cliente rápido 7 * 24, 24 meses de garantía, soporte técnico de por vida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NP7KL88{{</world>}}

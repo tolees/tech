@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logbook: 50 inmersiones por modalidad o 40 horas.
-- Alarmas acústicas, visuales y con iluminación de la pantalla: PO2, CNS, velocidad de ascenso, DECO, omitida DECO, superada profundidad máxima (opcional)
-- Pantalla retro iluminado de alta potencia (una pulsación, 5 segundos)
 - Polivalente Aire/Nitrox
+- Pantalla retro iluminado de alta potencia (una pulsación, 5 segundos)
 - Algoritmo rgbm wienke 9 tejidos modificado
+- Alarmas acústicas, visuales y con iluminación de la pantalla: PO2, CNS, velocidad de ascenso, DECO, omitida DECO, superada profundidad máxima (opcional)
+- Logbook: 50 inmersiones por modalidad o 40 horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071LDPTXL{{</world>}}
