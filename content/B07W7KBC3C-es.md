@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Logitech G G502 X LIGHTSPEED Ratón inalámbrico para Gaming - Ratón óptico con interruptores óptico-mecánicos híbridos LIGHTFORCE  sensor HERO 25K  compatible con PC - macOS/Windows - Blanco'
+date: 2025-10-29 10:39:37
+image: 'https://m.media-amazon.com/images/I/31FGb0Ec1NL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07W7KBC3C-es Logitech G G502 X LIGHTSPEED Ratón inalámbrico para Gaming...'
+sku: 'B07W7KBC3C-es'
+tags: [ '62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_0','62d0fd3a-cf12-47c1-96a1-0dc45b5a4d7c_7201','Accesorios para Juegos PC','Accessories  gaming','Arborist Merchandising Root','Informática','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Ratones para gamers para PC','Self Service','Special Features Stores','Videojuegos','logitech','logitech g','ratón','🇪🇸', ]
+actualPrice: 78.5 EUR
+currency: EUR
+price: 78.5
+comparePrice: 99.99 EUR
+prodname: 'Logitech G G502 X LIGHTSPEED Ratón inalámbrico para Gaming - Ratón óptico con interruptores óptico-mecánicos híbridos LIGHTFORCE  sensor HERO 25K  compatible con PC - macOS/Windows - Blanco'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Logitech G'
+buyurl: 'https://www.amazon.es/dp/B07W7KBC3C/?tag=tolees-21'
+descuento: '21.49'
+average: '96.5729411764708'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Inalámbrico LIGHTSPEED: este ratón presenta una conectividad con un protocolo que consigue una velocidad de respuesta un 68% más rápida que la generación anterior y una mayor fiabilidad
+- Botón DPI Shift rediseñado: el ratón óptico inalámbrico para gaming cuenta con un botón DPI Shift reversible y extraíble para una personalización adecuada según su agarre y preferencias
+- Interruptores LIGHTFORCE: la tecnología de interruptores híbridos óptico-mecánicos ofrece una velocidad y fiabilidad de calidad, así como un accionamiento preciso con una respuesta nítida
+- Sensor HERO 25K para gaming: preciso hasta la submicra para una exactitud de precisión con cero suavizado/filtrado/aceleración para un alto rendimiento de gaming siempre en el ordenador
+- Elige: disponible en blanco y negro
+- Rueda de desplazamiento de doble modo: pasa de un giro libre rápido a uno preciso línea por línea y se inclina hacia la izquierda y la derecha para obtener dos controles adicionales personalizables
+- Compatible con POWERPLAY: el ratón de ordenador G502 X LIGHTSPEED se mantiene cargado, en reposo y durante el juego, con nuestra solución de carga inalámbrica (se vende por separado)
+- Icono reinventado: a partir del legado y de los diseños de Logitech, el ratón inalámbrico para gaming G502 X LIGHTSPEED se ha reinventado y rediseñado con una tecnología de calidad para gaming
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B07W7KBC3C{{</world>}}
