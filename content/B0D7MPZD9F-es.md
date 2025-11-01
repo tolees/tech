@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cable de USB-C a conector Lightning  2 m  '
-date: 2025-10-03 01:47:21
+date: 2025-11-01 00:12:21
 image: 'https://m.media-amazon.com/images/I/31dQNjJ24jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D7MPZD9F-es Apple Cable de USB-C a conector Lightning 2 m'
 sku: 'B0D7MPZD9F-es'
 tags: [ 'Accesorios','Cables Lightning','Cables y accesorios','Cables y conectores','Informática','apple','🇪🇸', ]
-actualPrice: 29.66 EUR
+actualPrice: 25.99 EUR
 currency: EUR
-price: 29.66
+price: 25.99
 comparePrice: 35.0 EUR
 prodname: 'Apple Cable de USB-C a conector Lightning  2 m  '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0D7MPZD9F/?tag=tolees-21'
-descuento: '15.26'
-average: '32.852'
+descuento: '25.74'
+average: '30.8914285714285'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⑦【Translucidez cristalina】Con alta transparencia, el filamento PETG de 1,75 mm permite imprimir pantallas de lámparas transparentes o translúcidas, vitrinas y obras de diseño artístico.
-- ④【Impresión fluida】El filamento PETG de 1,75 mm garantiza un flujo de extrusión constante, lo que permite crear miniaturas detalladas, engranajes y prototipado a alta velocidad.
-- ①【Durabilidad y simplicidad】El filamento PETG SUNLU combina la impresión sin complicaciones del PLA con la alta tenacidad del ABS, lo que permite imprimir fácilmente impresiones resistentes y duraderas.
-- ②【Alta resistencia al calor】Soporta mejor el calor que el PLA convencional, nuestro filamento de impresión 3D PETG es ideal para accesorios de automoción y carcasas electrónicas.
-- ⑤【Menos Encordado】Diseñado con propiedades hidrofóbicas, el PETG SUNLU minimiza la absorción de humedad durante la impresión, reduciendo la fragilidad y garantizando un rendimiento constante a lo largo del tiempo.
-- ⑨【Amplia compatibilidad】El filamento PETG SUNLU es compatible con la mayoría de las impresoras FDM. Temperatura de boquilla recomendada: 230-240 °C y velocidad de impresión recomendada: 50-100 mm/s.
-- ⑧【Colores vibrantes】Elige entre más de 20 colores con un acabado profesional. No requiere posprocesamiento: tus creaciones lucirán impecables desde el primer momento.
 - ⑩【Fiabilidad comprobada SUNLU】Sellado al vacío con desecante para evitar la absorción de humedad. De confianza para ingenieros, aficionados y educadores en aplicaciones industriales y de bricolaje.
+- ⑦【Translucidez cristalina】Con alta transparencia, el filamento PETG de 1,75 mm permite imprimir pantallas de lámparas transparentes o translúcidas, vitrinas y obras de diseño artístico.
+- ⑧【Colores vibrantes】Elige entre más de 20 colores con un acabado profesional. No requiere posprocesamiento: tus creaciones lucirán impecables desde el primer momento.
+- ①【Durabilidad y simplicidad】El filamento PETG SUNLU combina la impresión sin complicaciones del PLA con la alta tenacidad del ABS, lo que permite imprimir fácilmente impresiones resistentes y duraderas.
+- ⑨【Amplia compatibilidad】El filamento PETG SUNLU es compatible con la mayoría de las impresoras FDM. Temperatura de boquilla recomendada: 230-240 °C y velocidad de impresión recomendada: 50-100 mm/s.
+- ⑤【Menos Encordado】Diseñado con propiedades hidrofóbicas, el PETG SUNLU minimiza la absorción de humedad durante la impresión, reduciendo la fragilidad y garantizando un rendimiento constante a lo largo del tiempo.
+- ④【Impresión fluida】El filamento PETG de 1,75 mm garantiza un flujo de extrusión constante, lo que permite crear miniaturas detalladas, engranajes y prototipado a alta velocidad.
+- ②【Alta resistencia al calor】Soporta mejor el calor que el PLA convencional, nuestro filamento de impresión 3D PETG es ideal para accesorios de automoción y carcasas electrónicas.
 - ⑥【Resistencia a ácidos y álcalis】Resistentes al aceite y a los disolventes, nuestros filamentos PETG superan al PLA convencional en condiciones adversas, como talleres o exteriores.
 - ③【Baja deformación y contracción】Su estabilidad térmica minimiza la separación y deformación de las capas, garantizando precisión dimensional sin necesidad de una carcasa de impresora.
 

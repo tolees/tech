@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conectividad inalámbrica: Este mini ordenador de sobremesa es compatible con Bluetooth v5.2 y WiFi 6, que permiten una conexión inalámbrica rápida y estable con sus dispositivos y redes. También puede utilizar los puertos HDMI, DisplayPort, USB-C, USB-A, RJ45, toma de audio y lector de tarjetas micro SD integrados para conectarse con diversos periféricos y accesorios.
-- Gráficos impresionantes: Disfruta de imágenes y juegos de alta calidad con la tarjeta gráfica AMD Radeon Vega 8, que admite una resolución de hasta 4K y puede manejar varias pantallas con facilidad. GEEKOM A 5 admite hasta 4 pantallas y admite pantallas con una resolución de hasta 8k
-- Potente rendimiento: GEEKOM A 5 está equipado con el procesador AMD Ryzen 7 5800H, que cuenta con 8 núcleos, 16 hilos, 16 MB de caché y una velocidad de reloj de 3,2 GHz~ 4,4 GHz, ofreciendo una experiencia multitarea rápida y fluida para tus necesidades de trabajo y entretenimiento.
-- Almacenamiento grande y rápido: Este mini pc viene con memoria DDR4-3200 SODIMM de doble canal, que se puede ampliar hasta 64 GB, y dos ranuras de almacenamiento, una para M.2 2280 PCIe Gen 3x4 NVMe/SATA SSD (hasta 2 TB) y otra para disco duro SATA de 2,5" y 7 mm (hasta 2 TB), lo que te ofrece mucho espacio y velocidad para tus archivos, programas y juegos.
 - Windows 11 Pro: Este miniordenador funciona con el último sistema operativo Windows 11 Pro, que ofrece funciones mejoradas de seguridad, productividad y compatibilidad, así como una interfaz de usuario moderna e intuitiva.
+- Conectividad inalámbrica: Este mini ordenador de sobremesa es compatible con Bluetooth v5.2 y WiFi 6, que permiten una conexión inalámbrica rápida y estable con sus dispositivos y redes. También puede utilizar los puertos HDMI, DisplayPort, USB-C, USB-A, RJ45, toma de audio y lector de tarjetas micro SD integrados para conectarse con diversos periféricos y accesorios.
+- Potente rendimiento: GEEKOM A 5 está equipado con el procesador AMD Ryzen 7 5800H, que cuenta con 8 núcleos, 16 hilos, 16 MB de caché y una velocidad de reloj de 3,2 GHz~ 4,4 GHz, ofreciendo una experiencia multitarea rápida y fluida para tus necesidades de trabajo y entretenimiento.
+- Gráficos impresionantes: Disfruta de imágenes y juegos de alta calidad con la tarjeta gráfica AMD Radeon Vega 8, que admite una resolución de hasta 4K y puede manejar varias pantallas con facilidad. GEEKOM A 5 admite hasta 4 pantallas y admite pantallas con una resolución de hasta 8k
+- Almacenamiento grande y rápido: Este mini pc viene con memoria DDR4-3200 SODIMM de doble canal, que se puede ampliar hasta 64 GB, y dos ranuras de almacenamiento, una para M.2 2280 PCIe Gen 3x4 NVMe/SATA SSD (hasta 2 TB) y otra para disco duro SATA de 2,5" y 7 mm (hasta 2 TB), lo que te ofrece mucho espacio y velocidad para tus archivos, programas y juegos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGJ4Y6H8{{</world>}}

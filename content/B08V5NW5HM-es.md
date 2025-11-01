@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- realme UI
-- Batería gigante de 5000 mAh: 5% de batería, 28 horas de espera
+- Audio: Dolby Atmos y Hi-Res
 - Carga Dart de 30 W: De 0 al 100% en 65 minutos
 - 8GB ROM+128GB ROM,NFC,GPS
-- Pantalla ultra fluida de 120 Hz,180 Hz, Tasa de muestreo ultra alta: Doble fps, el doble de fluidez
-- Audio: Dolby Atmos y Hi-Res
+- realme UI
 - Cámara cuádruple de 48 MP: Apta para paisajes nocturnos
+- Pantalla ultra fluida de 120 Hz,180 Hz, Tasa de muestreo ultra alta: Doble fps, el doble de fluidez
+- Batería gigante de 5000 mAh: 5% de batería, 28 horas de espera
 - Dimensity 5G + 5G DSDS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

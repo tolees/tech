@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion x360 14-ek2004ns - Ordenador portátil de 14" Full HD Intel Core 7  16GB RAM  512GB SSD  Intel Iris Xe Graphics  Windows 11  Azul - Teclado QWERTY Español'
-date: 2025-10-27 03:29:10
+date: 2025-11-01 01:33:38
 image: 'https://m.media-amazon.com/images/I/41C1C6Osg9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gráficos Integrados: Intel
-- Sistema operativo Windows 11 Home
-- Consigue 75 € de reembolso al comprar un PC HP desde 799 € junto a un monitor o accesorio de las marcas HP/OMEN/Poly/HyperX. Promoción válida Hasta al 31/10/2025
 - RAM DDR4-3200 MHz 16 GB, SSD PCIe Gen4 NVMe M.2 de 512 GB
-- Procesador Intel Core 7 150U (hasta 5,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Teclado retroiluminado, Cámara HP Wide Vision 720p HD, Altavoces duales
+- Sistema operativo Windows 11 Home
+- Procesador Intel Core 7 150U (hasta 5,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Pantalla FHD (1920 x 1080) IPS de 35,6 cm (14") en diagonal, con función multitáctil, microbordes, 300 nits, 62,5 % de sRGB
+- Consigue 75 € de reembolso al comprar un PC HP desde 799 € junto a un monitor o accesorio de las marcas HP/OMEN/Poly/HyperX. Promoción válida Hasta al 31/10/2025
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CR1VZ18N{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 8806095467030
 - SM-A556BZKCEUB
+- 8806095467030
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVQL3L2K{{</world>}}

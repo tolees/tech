@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cable USB extraíble de 3 metros
 - Motores de doble vibración
 - Formato familiar nuevo
 - Conexión de auriculares estéreo de 3,5 mm
+- Cable USB extraíble de 3 metros
 - Con licencia oficial para Xbox
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

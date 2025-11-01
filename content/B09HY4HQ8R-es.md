@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gráficos Integrados AMD Radeon
 - Memoria RAM DDR4-3200 MHz 8 GB (1 x 8 GB)
+- Almacenamiento SSD de 512 GB PCIe NVMe M.2
+- Procesador AMD Ryzen 5 5500U (aumento máximo del reloj hasta 4 GHz, 8 MB de caché L3, 6 núcleos, 12 subprocesos)
 - Sistema operativo Windows 11 Home
 - Pantalla Full HD de 15,6" (39,6 cm) en diagonal, bisel micro-borde, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
-- Gráficos Integrados AMD Radeon
-- Procesador AMD Ryzen 5 5500U (aumento máximo del reloj hasta 4 GHz, 8 MB de caché L3, 6 núcleos, 12 subprocesos)
-- Almacenamiento SSD de 512 GB PCIe NVMe M.2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HY4HQ8R{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Soporte inclinable y montable en VESA
 - Confort ocular certificado por TÜV Rheinland Antiparpadeo
-- HDMI y DisplayPort
 - Alta tasa de refresco de 100 Hz y óptimo tiempo de respuesta de 1 ms (MPRT)
+- HDMI y DisplayPort
 - Reducción de la Luz Azul PRO
 
 [🛒 Aquí!!!]({{< param buyurl >}})

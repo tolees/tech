@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Batería de larga duración
 - Sonido hyperx de excelente calidad
-- Micrófono y controles de audio integrados en el cable
 - Conexión inalámbrica bluetooth
 - Tipo de conectividad: inalámbrico
+- Micrófono y controles de audio integrados en el cable
 - Comodidad característica de hyperx, bolsa de malla para viajes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

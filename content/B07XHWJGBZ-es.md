@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Control por voz: compatible con alexa, google assistant y apple siri
 - Flaggschiff altavoz inalámbrico para sonido grande
 - Calidad de sonido denon
 - 6 teclas de acceso rápido para tus emisoras favoritas
-- Control por voz: compatible con alexa, google assistant y apple siri
 - Disfrute de la transmisión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

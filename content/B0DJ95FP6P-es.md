@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPATIBLE CON VARIOS FORMATOS DE DISCO. Permite reproducir discos de 33, 45 y 78 RPM y vinilos, desde LPs clásicos hasta singles y discos antiguos. Su función auto-stop detiene automáticamente la reproducción al finalizar el disco para ahorrar energía. También incluye función Bluetooth y Bluetooth out con la que podrás conectar el tocadiscos a altavoces externos para una mayor potencia de sonido.
 - SONIDO CLARO Y EQUILIBRADO. Sus dos altavoces integrados con 10W garantizan una experiencia de audio completa. Además, gracias a un sistema de tracción por correa, el tocadiscos proporciona una reproducción suave y estable, reduciendo el ruido y las vibraciones para una calidad de sonido óptima. Incluye una aguja de repuesto y un protector de fieltro en el plato para proteger tus vinilos de posibles daños.
+- COMPATIBLE CON VARIOS FORMATOS DE DISCO. Permite reproducir discos de 33, 45 y 78 RPM y vinilos, desde LPs clásicos hasta singles y discos antiguos. Su función auto-stop detiene automáticamente la reproducción al finalizar el disco para ahorrar energía. También incluye función Bluetooth y Bluetooth out con la que podrás conectar el tocadiscos a altavoces externos para una mayor potencia de sonido.
 - DISEÑO ELEGANTE Y CUIDADO. Fabricado en bambú, con un elegante acabado vinilado en negro piano y materiales de alta calidad. El tocadiscos BlackSpin es el complemento decorativo perfecto para tu salón. ¡Se adapta a cualquier espacio moderno!
 - SALIDA RCA Y ENTRADA USB. Con la salida RCA podrás conectar el tocadiscos por cable a sistemas de audio externos y amplificadores para una mayor experiencia de audio. Reproduce tus vinilos con la máxima calidad y graba directamente en formato digital mediante su puerto USB. Esta característica es perfecta para preservar tus discos más preciados en formato digital y disfrutar de ellos en cualquier momento y lugar.
 

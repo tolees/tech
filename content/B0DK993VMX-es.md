@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este pack incluye un Fire TV Stick HD y un mando Luna: pack de inicio para Luna, el servicio de juegos en streaming de Amazon. Se requiere una suscripción a Prime o Luna. Las suscripciones se venden por separado.
-- Descarga la app Luna en tu Fire TV y juega a tus videojuegos favoritos directamente desde la nube. No se requiere videoconsola.
-- Los clientes de Prime pueden jugar a Fortnite y a una selección de juegos de rotación mensual sin coste adicional.
 - Conéctate por Bluetooth: el mando Luna se puede utilizar como un mando inalámbrico con dispositivos compatibles.
+- Descarga la app Luna en tu Fire TV y juega a tus videojuegos favoritos directamente desde la nube. No se requiere videoconsola.
 - Conéctate por wifi: el mando Luna se conecta directamente a los servidores Luna a través de la tecnología Cloud Direct para gameplay de baja latencia.
+- Los clientes de Prime pueden jugar a Fortnite y a una selección de juegos de rotación mensual sin coste adicional.
 - Suscríbete a las bibliotecas de juegos de Luna+, Ubisoft o Jackbox y obtén acceso a una selección creciente de juegos de todos los géneros. Las suscripciones se venden por separado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

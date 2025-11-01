@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caza a la Bestia: Rastrea y lucha contra la legendaria Bestia de Gévaudan en una búsqueda épica.
 - Conviértete en un verdadero caballero: Ponte las botas de Mateo Lambardo y alcanza la grandeza.
-- Aventura narrada: Sumérgete en la historia con la narración del icónico Robert Belgrade
 - Estrella invitada Bloodless: Un emocionante cameo de Bloodstained: Ritual of the Night añade un toque único.
 - Explora y conquista: Descubre vastos castillos interconectados y sombríos paisajes llenos de secretos.
+- Aventura narrada: Sumérgete en la historia con la narración del icónico Robert Belgrade
+- Caza a la Bestia: Rastrea y lucha contra la legendaria Bestia de Gévaudan en una búsqueda épica.
 - Enfréntate a jefes mortales: Pon a prueba tus habilidades contra brutales enemigos en desafiantes batallas estratégicas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batería compatible con modelos del robot aspirador Roomba 800 Series
 - La batería Xlife de iRobot ofrece el doble de ciclos de limpieza que las baterías de Roomba anteriores, lo que duplica el tiempo de funcionamiento antes de tener que reemplazarla
 - Marca: iRobot
+- Batería compatible con modelos del robot aspirador Roomba 800 Series
 - La batería Xlife de iRobot es una batería original de la marca; adquirir accesorios oficiales de la marca es la forma de asegurar la calidad de los productos iRobot
 
 [🛒 Aquí!!!]({{< param buyurl >}})

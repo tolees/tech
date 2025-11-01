@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla de 14" FHD (1920x1200), tasa de refresco 144Hz, IPS-Level, 100%sRGB(Typical)
+- Color chasis Translucent Black
+- Gráfica NVIDIA GeForce RTX 4060 Laptop
 - Procesador 13ª Gen Intel Core i7-13620H
 - Memoria RAM 8GB*2, DDR5-5200, almacenamiento 512GB*1 NVMe SSD PCIe Gen4
-- Pantalla de 14" FHD (1920x1200), tasa de refresco 144Hz, IPS-Level, 100%sRGB(Typical)
-- Gráfica NVIDIA GeForce RTX 4060 Laptop
-- Color chasis Translucent Black
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY21PRVN{{</world>}}

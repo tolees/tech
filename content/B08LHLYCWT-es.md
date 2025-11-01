@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - interruptor de enclavamiento
-- Batería de larga duración
 - Lea atentamente el manual del usuario antes del primer uso
+- Batería de larga duración
 - Sin radiación y peligro para los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

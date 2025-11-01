@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Este juego trae un modo de juego específico
 - Un luchador para una otra generación
 - Juego de otra rivalidad
-- Este juego trae un modo de juego específico
 - Arcade Quest
 
 [🛒 Comprar!!!]({{< param buyurl >}})

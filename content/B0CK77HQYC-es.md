@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 128 MB de memoria interna
 - Imprime hasta 32 páginas por minuto; Impresión a doble cara de 16 caras por minuto
 - Panel de control LCD de 2 líneas; 5GHz WiFi y USB
 - Bandeja de entrada de 250 hojas
+- 128 MB de memoria interna
 - 4 meses de prueba del programa de subscripción EcoPro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Placa trasera de metal de protección
 - Sistema de enfriamiento WINDFORCE 3X con ventiladores giratorios alternativos
 - Integrado con interfaz de memoria de 8 GB GDDR6 de 128 bits
+- Placa trasera de metal de protección
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Q8Q5NCK{{</world>}}

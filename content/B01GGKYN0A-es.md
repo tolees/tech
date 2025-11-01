@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con certificación USB-IF: conecta cualquier cable USB-C a cualquier dispositivo con USB-A. Para transmisión potente o carga de smartphone, bancos de carga, cargadores murales o de coche o dispositivos de baja potencia. Apto para transmisión de datos entre smartphones, tablets, portátiles, discos duros y más.
-- Carga rápida y transferencia de datos: compatible con velocidades de carga rápida de hasta 15 W (5 V y 3 A) y de transferencia de datos de hasta 480 Mbp/s No superes la carga recomendada (15 W, 5 V/3 A). Velocidad de carga limitada para dispositivos en los que se haya activado PD
 - Contenido: 1 cable de 1,8 m, 15 W, cable USB-C 2.0 a USB-A para cargar y alimentar dispositivos, transferencia de datos, fotos y música
+- Carga rápida y transferencia de datos: compatible con velocidades de carga rápida de hasta 15 W (5 V y 3 A) y de transferencia de datos de hasta 480 Mbp/s No superes la carga recomendada (15 W, 5 V/3 A). Velocidad de carga limitada para dispositivos en los que se haya activado PD
+- Con certificación USB-IF: conecta cualquier cable USB-C a cualquier dispositivo con USB-A. Para transmisión potente o carga de smartphone, bancos de carga, cargadores murales o de coche o dispositivos de baja potencia. Apto para transmisión de datos entre smartphones, tablets, portátiles, discos duros y más.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GGKYN0A{{</world>}}
