@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel 15.6" FHD 144Hz
 - Sin sistema operativo
-- Gráfica RTX 4060-8GB
-- Almacenamiento 16GB RAM 512GB SSD
 - Procesador Intel Core i7-13700H
+- Panel 15.6" FHD 144Hz
+- Almacenamiento 16GB RAM 512GB SSD
+- Gráfica RTX 4060-8GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQRP1L1F{{</world>}}

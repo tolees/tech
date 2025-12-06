@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suspensión de doble tubo: Absorbe impactos y vibraciones para un viaje más cómodo y estable, sin importar el tipo de superficie.
+- Autonomía de hasta 60 km: Gracias a su batería de 10.2 Ah/477 Wh, recorre largas distancias con una sola carga y sin preocupaciones.
+- Mayor potencia y mejor rendimiento: Equipado con un motor de 400W (1000W de potencia máxima), el Xiaomi Electric Scooter 5 Pro ofrece una aceleración mejorada y mayor eficiencia en todo tipo de terrenos.
 - Sistema de frenado seguro y eficiente: Incorpora un freno de tambor delantero y sistema E-ABS trasero, proporcionando estabilidad y seguridad en todo momento.
 - Domina las pendientes sin esfuerzo: Con una capacidad de inclinación máxima del 22%, sube cuestas con mayor facilidad en comparación con otros modelos.
-- Mayor potencia y mejor rendimiento: Equipado con un motor de 400W (1000W de potencia máxima), el Xiaomi Electric Scooter 5 Pro ofrece una aceleración mejorada y mayor eficiencia en todo tipo de terrenos.
-- Autonomía de hasta 60 km: Gracias a su batería de 10.2 Ah/477 Wh, recorre largas distancias con una sola carga y sin preocupaciones.
+- Suspensión de doble tubo: Absorbe impactos y vibraciones para un viaje más cómodo y estable, sin importar el tipo de superficie.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWXN2C6S{{</world>}}

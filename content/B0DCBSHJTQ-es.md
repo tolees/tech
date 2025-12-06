@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel SS IPS de 27 pulgadas con resolución QHD
-- Compatible con AMD FreeSync y HDR Ready
-- Frecuencia de actualización de 180 Hz, tiempo de respuesta de 1 ms
 - Saturación de color: 100% sRGB
+- Compatible con AMD FreeSync y HDR Ready
+- Panel SS IPS de 27 pulgadas con resolución QHD
+- Frecuencia de actualización de 180 Hz, tiempo de respuesta de 1 ms
 - Diseño ergonómico: ajustes de inclinación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de configurar: conecta el adaptador Ethernet de Amazon al puerto USB de tu Fire TV y el cable Ethernet directamente al router.
-- Conecta tu Fire TV o Fire TV Stick directamente a tu router con un cable Ethernet. No se requiere wifi.
 - Solo compatible con el Fire TV Stick Lite, Fire TV Stick (2.ª y 3.ª generación), Fire TV Stick 4K, Fire TV Stick 4K Max, Fire TV Cube, Fire TV (3.ª generación, diseño colgante) y Fire TV Basic Edition.
 - ¿Tu conexión wifi es lenta o poco fiable? Conéctate por cable a Internet y disfruta de una conexión rápida y sin interrupciones.
+- Conecta tu Fire TV o Fire TV Stick directamente a tu router con un cable Ethernet. No se requiere wifi.
+- Fácil de configurar: conecta el adaptador Ethernet de Amazon al puerto USB de tu Fire TV y el cable Ethernet directamente al router.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXP5TXI{{</world>}}

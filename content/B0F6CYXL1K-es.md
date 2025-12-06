@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráfica NVIDIA GeForce RTX 5070 8GB
-- 32 GB Memoria RAM DDR5-5600 MHz (2 x 16 GB)
-- Consigue 75 € de reembolso al comprar un PC HP desde 799 € junto a un monitor o accesorio de las marcas HP/OMEN/Poly/HyperX. Promoción válida Hasta al 31/10/2025
 - Procesador AMD Ryzen 9 8940HX (hasta 5.3 GHz, 64 MB de caché L3, 16 núcleos, 32 subprocesos)
+- 32 GB Memoria RAM DDR5-5600 MHz (2 x 16 GB)
+- Gráfica NVIDIA GeForce RTX 5070 8GB
+- Consigue 75 € de reembolso al comprar un PC HP desde 799 € junto a un monitor o accesorio de las marcas HP/OMEN/Poly/HyperX. Promoción válida Hasta al 31/10/2025
 - 1 TB disco duro SSD PCIe Gen4 NVMe M.2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 14 FPS
-- Mas nitido que nunca
 - Fotograma completo
+- Mas nitido que nunca
+- Dual expeed
 - Mas estable que nunca
 - MONTURA TIPO F A MONTURA TIPO Z
-- Dual expeed
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NT66XZQ{{</world>}}

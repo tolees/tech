@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puertos Thunderbolt 4, perfectos para disfrutar de la productividad de un equipo de escritorio y juegos locales.
-- Más rápido que las generaciones anteriores, el procesador Intel Core de 12ª generación con gráficos Intel Iris Xe cambiará la forma en la que el usuario experimenta el avance en productividad, juegos y streaming
-- Ajusta el ángulo con el soporte trasero integrado.
-- Hasta 15.5 horas de autonomía.
 - Combinaciones con nuevos colores vivos.
+- Ajusta el ángulo con el soporte trasero integrado.
+- Puertos Thunderbolt 4, perfectos para disfrutar de la productividad de un equipo de escritorio y juegos locales.
 - Almacenamiento y carga de Surface Slim Pen 2 integrados directamente en el Teclado Signature para Surface Pro (se venden por separado).
+- Hasta 15.5 horas de autonomía.
+- Más rápido que las generaciones anteriores, el procesador Intel Core de 12ª generación con gráficos Intel Iris Xe cambiará la forma en la que el usuario experimenta el avance en productividad, juegos y streaming
 - Pantalla táctil PixelSense de 13 pulgadas casi de borde a borde, diseñada para lápiz y Windows 11.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

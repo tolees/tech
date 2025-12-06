@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo Eye Saver: Minimiza la luz azul lo suficiente para que tus ojos se mantengan relajados incluso cuando juegas durante mucho tiempo.
 - Pantalla curva 1000R: Máxima inmersión para más diversión y realismo.
+- Modo Eye Saver: Minimiza la luz azul lo suficiente para que tus ojos se mantengan relajados incluso cuando juegas durante mucho tiempo.
 - FreeSync Premium Pro: Juega sin saltos ni cortes en las escenas. Con la tecnología AMD FreeSync disfrutarás de un juego fluido en HDR con baja latencia.
 - VESA DisplayHDR 1000: Descubre hasta los secretos escondidos en las sombras con una resolución especialmente detallada.
 - 240Hz y 1ms de tiempo de respuesta: Derriba a todos tus enemigos, incluso a una velocidad extrema, con un tiempo de respuesta de 1ms. Olvídate de los retrasos.

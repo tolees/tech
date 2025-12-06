@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Alto rendimiento】Creality filament petg 1.75 mm tiene las ventajas de los filamentos Pla y ABS. Respetuoso con el medio ambiente, sin olor y no tóxico. No se agrieta ni se deforma. Con buena dureza, el modelo impreso es firme y resistente
-- 【Creality Soporte】Creality proporciona servicio posventa de 12 meses y 24 horas. ¿Nota， Coloca este producto en un ambiente seco.
 - 【Material no tóxico】El filamento petg 1kg/rolle tiene una excelente resistencia y resistencia química, sin olor y no tóxico, lo que es respetuoso con el medio ambiente
 - 【Modelos compatibles】CR-PETG se utiliza ampliamente en impresoras 3D FDM en el mercado，Incluye filamento petg creality cr series.
+- 【Creality Soporte】Creality proporciona servicio posventa de 12 meses y 24 horas. ¿Nota， Coloca este producto en un ambiente seco.
 - 【Transparente y brillante】El producto acabado tiene una superficie fina con detalles exquisitos. Con buena dureza, el modelo impreso es firme y resistente. El filamento se puede doblar repetidamente con alta elongación en la rotura
+- 【Alto rendimiento】Creality filament petg 1.75 mm tiene las ventajas de los filamentos Pla y ABS. Respetuoso con el medio ambiente, sin olor y no tóxico. No se agrieta ni se deforma. Con buena dureza, el modelo impreso es firme y resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGXR63Z4{{</world>}}

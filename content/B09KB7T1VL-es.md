@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto para tu hogar
 - Mejora la calidad de tu hogar
+- Producto para tu hogar
 - Material de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

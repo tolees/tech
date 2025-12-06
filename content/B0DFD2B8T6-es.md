@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Panel IPS SuperSpeed de 27 pulgadas con resolución FHD
 - Diseño ergonómico: ajustes de inclinación
-- Saturación de color: 105 % sRGB
-- Frecuencia de actualización de 180 Hz, tiempo de respuesta de 1 ms
 - Compatible con AMD FreeSync, listo para HDR
+- Frecuencia de actualización de 180 Hz, tiempo de respuesta de 1 ms
+- Saturación de color: 105 % sRGB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFD2B8T6{{</world>}}

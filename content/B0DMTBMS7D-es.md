@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Libertad alimentada por batería: equipada con una batería integrada de larga duración que proporciona hasta 10 horas de mezclas ininterrumpidas. Mezcla sin necesidad de cables de alimentación.
-- Jog wheels sensibles al tacto: haz scratching, mezcla y actúa con precisión gracias a las sensibles jog wheels.
-- Control total del DJ: disfruta de controles táctiles intuitivos con 2 decks virtuales, controles deslizantes de pitch y volumen, hot cues, efectos (FX) y 8 pads para actuación para respaldar una creatividad infinita.
 - Portátil y compacta: mide tan solo 31,5 x 17,4 cm, por lo que cabe en cualquier mochila. Incluye una tapa protectora que también funciona como soporte para el smartphone.
-- Compatible con smartphones y tabletas: funciona a la perfección con dispositivos Android e iOS. Incluye la app gratuita djay.
 - Conectividad inalámbrica Bluetooth: conecta fácilmente con tu dispositivo a través de Bluetooth Low Energy (LE) para disfrutar de una experiencia inalámbrica sin complicaciones.
+- Control total del DJ: disfruta de controles táctiles intuitivos con 2 decks virtuales, controles deslizantes de pitch y volumen, hot cues, efectos (FX) y 8 pads para actuación para respaldar una creatividad infinita.
+- Compatible con smartphones y tabletas: funciona a la perfección con dispositivos Android e iOS. Incluye la app gratuita djay.
+- Jog wheels sensibles al tacto: haz scratching, mezcla y actúa con precisión gracias a las sensibles jog wheels.
+- Libertad alimentada por batería: equipada con una batería integrada de larga duración que proporciona hasta 10 horas de mezclas ininterrumpidas. Mezcla sin necesidad de cables de alimentación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMTBMS7D{{</world>}}

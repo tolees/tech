@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aumenta tu infamia y desbloquea recursos y oportunidades para conseguir contratos más arriesgados y mejorar tu equipo.
-- La Limited Edition incluye el juego base y una misión adicional: El Corsario Ceniciento.
-- Fabrica y navega en hasta 10 barcos diferentes disponibles desde el lanzamiento, cada uno con sus propias ventajas para que se adapten a tu estilo de juego.
-- Haz frente a sanguinarios cazapiratas, letales monstruos marinos, inclemencias del tiempo, peligrosas olas gigantes, amenazas sobrenaturales y mucho más a medida que explores el inmenso mundo abierto.
-- Participa en emocionantes combates navales, equípate multitud de potentes armas y arriésgalo todo para hacerte con el botín.
 - Navega por los mares sin ley en solitario o en equipo con dos amigos u otros jugadores para completar contratos y conseguir recompensas.
+- La Limited Edition incluye el juego base y una misión adicional: El Corsario Ceniciento.
+- Participa en emocionantes combates navales, equípate multitud de potentes armas y arriésgalo todo para hacerte con el botín.
+- Haz frente a sanguinarios cazapiratas, letales monstruos marinos, inclemencias del tiempo, peligrosas olas gigantes, amenazas sobrenaturales y mucho más a medida que explores el inmenso mundo abierto.
+- Aumenta tu infamia y desbloquea recursos y oportunidades para conseguir contratos más arriesgados y mejorar tu equipo.
+- Fabrica y navega en hasta 10 barcos diferentes disponibles desde el lanzamiento, cada uno con sus propias ventajas para que se adapten a tu estilo de juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B63S8CQ4{{</world>}}

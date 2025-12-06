@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diversión única en las carreras en casa
-- Para grandes y pequeños
 - Para los niños
 - Carrera First
+- Para grandes y pequeños
 - FIRST
 
 [🛒 Visítala!!!]({{< param buyurl >}})

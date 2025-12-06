@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Funcionamiento silencioso
-- 1 puerto SFP+ de 10 G
-- Admite montaje de sobremesa o en pared
-- Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
-- Diseño energéticamente eficiente conforme a IEEE802.3a
 - 8 puertos Ethernet de 1 G
+- Admite montaje de sobremesa o en pared
+- Diseño energéticamente eficiente conforme a IEEE802.3a
+- Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
+- 1 puerto SFP+ de 10 G
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHD1WS1{{</world>}}

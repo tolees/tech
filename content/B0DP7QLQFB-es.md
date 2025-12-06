@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño fluido envolvente. Xiaomi Shield Glass
 - Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
 - Lente óptica Leica Summilux
 - Pantalla AMOLED CrystalRes dynamic de 1 a 120 Hz. Experiencia inmersiva
-- Diseño fluido envolvente. Xiaomi Shield Glass
 - Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Duradero y resistente a los impactos: cree prototipos, piezas mecánicas o componentes robustos para exteriores con nuestro filamento PETG 1.75, conocido por su durabilidad y resistencia al impacto a la humedad y a la radiación UV.
 - Aplicaciones versátiles: Da rienda suelta a tu creatividad con el filamento TEQStone PETG 1.75, adecuado para una amplia gama de proyectos, desde prototipos funcionales hasta obras maestras artísticas.
 - Filamento PETG de alta calidad: descubra el mundo de la impresión 3D con nuestro filamento PETG de alta calidad (1,75 mm), que combina la simplicidad de la impresión de PLA con la durabilidad del ABS, la elección ideal para precisión y fiabilidad.
 - Excepcional capacidad de impresión: el filamento PETG de TEQStone garantiza una impresión 3D sin problemas con una mínima deformación y una excelente adherencia de capas para obtener resultados profesionales consistentes.
 - Garantía de calidad: nuestro PETG se somete a un estricto control de calidad para garantizar una precisión de ± 0,02 mm y colores altamente consistentes, garantizando una experiencia de impresión 3D suave y fiable en todo momento.
-- Duradero y resistente a los impactos: cree prototipos, piezas mecánicas o componentes robustos para exteriores con nuestro filamento PETG 1.75, conocido por su durabilidad y resistencia al impacto a la humedad y a la radiación UV.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9MBPR1G{{</world>}}

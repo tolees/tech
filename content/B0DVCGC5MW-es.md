@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 16GB en placa LPDDR5x
-- Sistema Operativo: Windows 11 Home
-- Procesador Qualcomm Snapdragon X1-26-100 (8C/OctaCore 3GHz, 30MB)
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
+- Memoria RAM de 16GB en placa LPDDR5x
+- Procesador Qualcomm Snapdragon X1-26-100 (8C/OctaCore 3GHz, 30MB)
 - Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
 - Tarjeta gráfica integrada Qualcomm Adreno GPU
 

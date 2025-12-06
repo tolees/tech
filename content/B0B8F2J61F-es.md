@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Monitor 17” LCD
-- 3D Coindoor
-- 14 games in 1
-- Light Up Marquee
 - Wi-Fi
+- 14 games in 1
+- 3D Coindoor
+- Monitor 17” LCD
+- Light Up Marquee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8F2J61F{{</world>}}

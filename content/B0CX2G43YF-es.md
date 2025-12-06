@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 108 MP para retratos nítidos, en colaboración con directores de fotografía ganadores de premios Óscar. Zoom 3X en el sensor
-- Gran batería de 5000 mAh. Carga SUPERVOOC de 45 W
 - Pantalla FHD+ de 950 nits optimizada para la visualización bajo la luz solar. Pantalla fluida a 120 Hz
-- Diseño inspirado en los relojes de moda. Cuerpo ultrafino de 7,69 mm
 - Conjunto de chips MediaTek Dimensity 6100+ 5G. Proceso TSMC avanzado de 6 nm
+- Gran batería de 5000 mAh. Carga SUPERVOOC de 45 W
+- Diseño inspirado en los relojes de moda. Cuerpo ultrafino de 7,69 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX2G43YF{{</world>}}

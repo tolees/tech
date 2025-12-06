@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soluciones escalables adecuadas para diferentes tamaños de edificios y necesidades
 - Integración con sistemas de seguridad para mayor protección
 - Opciones de entrada sin llave, incluyendo teclado, tarjetas y acceso biométrico
+- Soluciones escalables adecuadas para diferentes tamaños de edificios y necesidades
 - Servicios de instalación profesional que aseguran un rendimiento óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
