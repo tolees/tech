@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su máxima apertura f/1.8 hace de este objetivo una opción a tener en cuenta para trabajos en condiciones de poca luz, a la vez que ofrece un mayor control de la profundidad de campo para enfoques selectivos
-- Simple, luminoso, ligero y asequible, el FE 50mm f/1.8 de Sony es un objetivo prime de distáncia focal normal diseñado para la gama de cámaras mirrorless de Sony con montura E
-- El motor actuador de CC ofrece un rendimiento de enfoque automático rápido, silencioso y preciso para adaptarse tanto a aplicaciones de fotografía como de vídeo
 - La caja contiene lente Sony FE 50mm f/1.8, parasol Sony ALC-SH146, tapa de lente frontal Sony ALC-F49S de 49 mm, tapa de lente trasera Sony ALC-R1EM
 - El Sony FE 50/1.8 se convierte en una magnífica opción para usuarios aficionados y avanzados por su gran relación calidad/precio
+- Simple, luminoso, ligero y asequible, el FE 50mm f/1.8 de Sony es un objetivo prime de distáncia focal normal diseñado para la gama de cámaras mirrorless de Sony con montura E
+- El motor actuador de CC ofrece un rendimiento de enfoque automático rápido, silencioso y preciso para adaptarse tanto a aplicaciones de fotografía como de vídeo
+- Su máxima apertura f/1.8 hace de este objetivo una opción a tener en cuenta para trabajos en condiciones de poca luz, a la vez que ofrece un mayor control de la profundidad de campo para enfoques selectivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DLMD5O6{{</world>}}

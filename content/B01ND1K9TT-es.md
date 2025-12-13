@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 30, con certificado de paquete abrefácil (FFP).
-- El rastreo óptico de alta definición (1000 ppp) permite un control sensible del cursor para mayor precisión y fácil selección del texto.
-- Ratón óptico de 3 botones con conexión USB; suave, preciso y asequible.
 - Este ratón de 3 botones tiene un tamaño de 10,9 x 6,09 x 3,42 cm y cuenta con un cable de 1,5 m.
 - Listo para enchufar y usar.
 - Compatible con Windows y Mac OS.
+- Ratón óptico de 3 botones con conexión USB; suave, preciso y asequible.
+- El rastreo óptico de alta definición (1000 ppp) permite un control sensible del cursor para mayor precisión y fácil selección del texto.
+- Pack de 30, con certificado de paquete abrefácil (FFP).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ND1K9TT{{</world>}}

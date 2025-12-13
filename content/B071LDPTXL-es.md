@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla retro iluminado de alta potencia (una pulsación, 5 segundos)
+- Polivalente Aire/Nitrox
+- Alarmas acústicas, visuales y con iluminación de la pantalla: PO2, CNS, velocidad de ascenso, DECO, omitida DECO, superada profundidad máxima (opcional)
 - Algoritmo rgbm wienke 9 tejidos modificado
 - Logbook: 50 inmersiones por modalidad o 40 horas.
-- Alarmas acústicas, visuales y con iluminación de la pantalla: PO2, CNS, velocidad de ascenso, DECO, omitida DECO, superada profundidad máxima (opcional)
-- Polivalente Aire/Nitrox
-- Pantalla retro iluminado de alta potencia (una pulsación, 5 segundos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071LDPTXL{{</world>}}

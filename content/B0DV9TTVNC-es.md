@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONVERSACIONES CLARAS - Todos tus interlocutores te escucharán alto y claro. El discreto brazo del micrófono no solo cancela el ruido, sino que, con su tecnología Acoustic Fence, permite crear una burbuja prácticamente insonorizada alrededor de tu boca.
 - UTILÍZALOS COMO SI NO LOS LLEVARAS - Mantente conectado durante todo el día gracias a la cómoda diadema acolchada con almohadillas para los oídos. Los auriculares Voyager Focus 2 se han diseñado pensando en tus necesidades: mantente concentrado y productivo durante todo el día.
 - HASTA 19 HORAS DE BATERÍA - Mantén la productividad con hasta 19 horas de tiempo de conversación inalámbrica (ANC activado) y amplía la vida de la batería utilizando el modo de audio sobre USB con cable.
+- CONVERSACIONES CLARAS - Todos tus interlocutores te escucharán alto y claro. El discreto brazo del micrófono no solo cancela el ruido, sino que, con su tecnología Acoustic Fence, permite crear una burbuja prácticamente insonorizada alrededor de tu boca.
 - TU ESPACIO DE CONCENTRACIÓN - Experimenta la excelencia acústica de Poly con los auriculares Voyager Focus 2. Reduce las distracciones del ruido de fondo con los tres niveles de cancelación avanzada, activa y digital de ruido. No habrá nada que te impida realizar las llamadas más importantes de forma segura.
 - CERTIFICADOS PARA MICROSOFT TEAMS - La certificación completa de Microsoft Teams lleva tu experiencia con esta plataforma al siguiente nivel gracias a un botón que facilita el acceso directo a la aplicación, entre otras funciones.
 

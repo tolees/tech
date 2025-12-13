@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Requiere configuración
 - En color azul
 - Teléfono celular
-- Requiere configuración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWS1SL9F{{</world>}}

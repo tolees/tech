@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Conexión inalámbrica bluetooth
 - Tipo de conectividad: inalámbrico
 - Comodidad característica de hyperx, bolsa de malla para viajes
-- Micrófono y controles de audio integrados en el cable
 - Batería de larga duración
 - Sonido hyperx de excelente calidad
+- Micrófono y controles de audio integrados en el cable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JPCMD54{{</world>}}

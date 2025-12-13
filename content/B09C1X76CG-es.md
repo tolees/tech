@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclas separadas de gran tamaño con retroiluminación
+- Llamada de emergencia con manos libres (botón SOS)
 - Pantalla a color TFT de 2.4“ con iconos de gran tamaño
 - Carga cómoda via USB-C
-- Llamada de emergencia con manos libres (botón SOS)
+- Teclas separadas de gran tamaño con retroiluminación
 - Larga duración batería 6,5 horas en conversación, 700 horas en stand by
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

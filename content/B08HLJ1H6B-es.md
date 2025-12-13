@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CONECTIVIDAD TRIMODAL: flexibilidad con USB con cable, RF de 2.4 GHz de baja latencia y modo Bluetooth
 - SENSOR ÓPTICO ROG AIMPOINT PRO: sensor óptico de 42.000 ppp con tecnología track-on-glass
+- PESO ULTRALIGERO DE 49 GRAMOS: diseño de peso optimizado para proporcionar la máxima estabilidad y control al hacer flicking y tracking
 - DISEÑO DE FORMA REFINADA: una forma más pequeña del ratón Harpe Ace aprobado por los profesionales, hecho para adaptarse a un espectro más amplio de formas de mano y tipos de agarre
 - MICRO INTERRUPTOR ÓPTICO ROG: actuación instantánea con cada clic y una vida útil de 100 millones de clics
-- PESO ULTRALIGERO DE 49 GRAMOS: diseño de peso optimizado para proporcionar la máxima estabilidad y control al hacer flicking y tracking
-- CONECTIVIDAD TRIMODAL: flexibilidad con USB con cable, RF de 2.4 GHz de baja latencia y modo Bluetooth
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HLJ1H6B{{</world>}}

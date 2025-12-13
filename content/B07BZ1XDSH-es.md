@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMPLIFICADOR DE ALTO RENDIMIENTO : El amplificador Wifi 300 tiene 2 antenas externas para una mejor cobertura Wi-Fi. Ofreciendo hasta 300 Mbps a 2,4Ghz, es compatible con todas las cajas de Internet estándar y routers.
-- SEGURO & PRÁCTICO: Este amplificador ofrece alta seguridad Wi-Fi con conexión WPA2 y el botón connect & secure WPS. Un botón de On/Off te permite interrumpir el WiFi cuando quieras.
-- SOLUCIONES ELECTRÓNICAS SIMPLES Y DE ALTO RENDIMIENTO: Desde 1986, la marca Strong ofrece una gama completa de productos electrónicos de alta gama que combinan rendimiento, simplicidad y fiabilidad para una conectividad y experiencia óptimas.
 - CONNECTIVIDAD: Este amplificador de Wifi viene con un puerto Ethernet LAN para conectar PCs, STBs, Smart TVs, consolas de juegos... y un puerto Ethernet WAN/LAN para conectar a su box de Internet o router. El puerto Ethernet WAN/LAN puede utilizarse como puerto LAN en modo repetidor.
+- SOLUCIONES ELECTRÓNICAS SIMPLES Y DE ALTO RENDIMIENTO: Desde 1986, la marca Strong ofrece una gama completa de productos electrónicos de alta gama que combinan rendimiento, simplicidad y fiabilidad para una conectividad y experiencia óptimas.
+- SEGURO & PRÁCTICO: Este amplificador ofrece alta seguridad Wi-Fi con conexión WPA2 y el botón connect & secure WPS. Un botón de On/Off te permite interrumpir el WiFi cuando quieras.
+- AMPLIFICADOR DE ALTO RENDIMIENTO : El amplificador Wifi 300 tiene 2 antenas externas para una mejor cobertura Wi-Fi. Ofreciendo hasta 300 Mbps a 2,4Ghz, es compatible con todas las cajas de Internet estándar y routers.
 - EXTIENDE TU RED: Este repetidor Wifi te permite ampliar tu red Wifi para conexiones inalámbricas eficaces en cada rincón de tu hogar. Admite los estándares Wi-Fi 5 (802.11ac/a/b/g/n) con una velocidad de hasta 300 Mbit/s.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Portátil gaming Lenovo LOQ Gen 8
-- Pantalla FHD de 144Hz
 - Ordenador portátil
+- Pantalla FHD de 144Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKFGGQT3{{</world>}}

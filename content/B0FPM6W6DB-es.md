@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SSD PCIe 4.0 de hasta 512 GB
 - Hasta 16 GB de memoria DDR5
-- Pantalla NanoEdge 16" y 16:10" a 60 Hz
-- Gráficos hasta AMD Radeon
 - Windows 11 Home: ASUS recomienda Windows 11 Pro para empresas
 - Cámara infrarroja FHD con reconocimiento facial
+- Gráficos hasta AMD Radeon
+- Pantalla NanoEdge 16" y 16:10" a 60 Hz
 - Panel táctil más grande con Smart Gesture
-- SSD PCIe 4.0 de hasta 512 GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPM6W6DB{{</world>}}

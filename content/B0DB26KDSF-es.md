@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Identificación inteligente de dispositivos para adaptar la corriente al máximo del aparato que estés conectando
 - El cargador Xiaomi 120W Charging Combo es un modelo de carga con un puerto USB y cable USB-C
+- Identificación inteligente de dispositivos para adaptar la corriente al máximo del aparato que estés conectando
 - Potencia de carga de 120W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

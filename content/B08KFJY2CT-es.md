@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El ventilador Axial-tech presentan unas aspas largas y un anillo de bloqueo que incrementa la presión de aire hacia abajo
 - El revestimiento de PCB protege contra la humedad, el polvo y las temperaturas altas
-- Los condensadores y bobinas superan exigentes pruebas para conseguir la certificación militar
 - Los rodamientos de bolas ofrecen durabilidad
+- Los condensadores y bobinas superan exigentes pruebas para conseguir la certificación militar
 - La Certificación Bronze 80 Plus se obtiene con componentes de calidad que superan rigurosas pruebas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [ 100W Power Delivery ] Este hub USB C PD carga proporciona hasta 100W de potencia a través del puerto de carga USB C, que proporciona energía de alta velocidad a su dispositivo host (portátil) y mejora el rendimiento de los periféricos conectados (teclado, ratón, disco duro externo, memoria USB) proporcionándoles energía extra.
-- [ Carcasa de Aluminio ] El adaptador USB C a USB multipuerto está fabricado en aluminio de alta calidad y proporciona una excelente durabilidad, una buena disipación del calor y un aspecto elegante que complementa tus dispositivos.
 - [ Añade Más Puertos ] Con un puerto HDMI 4K, un puerto de carga USB C PD de 100 W, un puerto USB 3.0 y 2 puertos USB 2.0, este hub USB C 5 en 1 añade puertos a su dispositivo para liberarle de la falta de puertos. Un consejo: la salida HDMI del hub HDMI no funcionará si el puerto USB C de tu dispositivo no admite la transmisión de vídeo.
+- [ Carcasa de Aluminio ] El adaptador USB C a USB multipuerto está fabricado en aluminio de alta calidad y proporciona una excelente durabilidad, una buena disipación del calor y un aspecto elegante que complementa tus dispositivos.
+- [ 100W Power Delivery ] Este hub USB C PD carga proporciona hasta 100W de potencia a través del puerto de carga USB C, que proporciona energía de alta velocidad a su dispositivo host (portátil) y mejora el rendimiento de los periféricos conectados (teclado, ratón, disco duro externo, memoria USB) proporcionándoles energía extra.
 - [ Compatibilidad Universal ] Este adaptador USB C a HDMI es compatible con MacBook Pro/ MacBook Air M3 M2 M1, iPad Pro/ iPad Air, iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ iPhone 16 Pro Max, Galaxy S24/ S24+/ S24 Ultra, Tab S9/ Tab S9+/ Tab S9 Ultra, iMac M1, Mac Mini, ASUS Chromebook/ VivoBook/ Zenbook, IdeaPad/ Yoga, Surface Pro 9, Steam Deck, etc.
 - [ Extensión de Pantalla 4K ] El hub HDMI USB tipo C admite una resolución de hasta 4K@30Hz (compatible con versiones anteriores de 1080p@120Hz). Puede duplicar o ampliar la pantalla a un segundo monitor. Ideal para transmitir vídeo 4K a una pantalla más grande para una mejor experiencia de visualización o una presentación animada.
 

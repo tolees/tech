@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Potencia del microondas: 800 W. Dimensiones exteriores (An. x Pr. x Al.): 440 x 357 x 259 mm. Dimensiones interiores (An. x Pr. x Al.): 306 x 304 x 206 mm.
 - Diseño elegante y compacto, ideal para diferentes tipos de cocina.
 - Funciones prácticas: descongelación por peso/tiempo, reloj de cocina a los 35 minutos, patas antideslizantes y plato giratorio estable.
-- Potencia del microondas: 800 W. Dimensiones exteriores (An. x Pr. x Al.): 440 x 357 x 259 mm. Dimensiones interiores (An. x Pr. x Al.): 306 x 304 x 206 mm.
 - Cinco niveles de potencia para una flexibilidad óptima en la cocina, desde alimentos calientes hasta líquidos de cocción.
 - Iluminación LED de bajo consumo y larga duración para una buena visibilidad durante el programa.
 

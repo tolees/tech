@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Rango de frecuencia de 12 Hz a 22 kHz
 - Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
-- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
 - Diafragmas tipo cúpula de 30 mm
+- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NBR705M{{</world>}}

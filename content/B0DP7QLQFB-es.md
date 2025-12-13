@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
-- Diseño fluido envolvente. Xiaomi Shield Glass
 - Pantalla AMOLED CrystalRes dynamic de 1 a 120 Hz. Experiencia inmersiva
 - Lente óptica Leica Summilux
 - Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
+- Diseño fluido envolvente. Xiaomi Shield Glass
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP7QLQFB{{</world>}}

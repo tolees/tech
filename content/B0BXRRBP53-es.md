@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye un soporte retráctil de metal que fija el teléfono seguro en posición mientras se carga para permitir su uso sin necesidad de sostenerlo con las manos.
-- Al acoplarse al dispositivo no obstruye su cámara.
-- Su protección contra sobretensiones preserva tu dispositivo para garantizar una carga segura y potente. 
-- Permite la carga mediante pasarela de distribución de corriente (pass-through) para que sigas cargando tu dispositivo conectado al mismo tiempo que recargas la batería externa.
-- La batería cuenta con un diseño compacto y fino para que te la puedas llevar a cualquier parte.
 - Cargador inalámbrico (hasta 7,5 W) para móviles iPhone compatibles con MagSafe (iPhone 17/16/15/14/13/12 y modelos Pro, Pro Max y mini)
-- Carga tu dispositivo en cualquier parte con esta potente batería portátil que proporciona un acoplamiento magnético perfecto, ya sea con emplazamiento fijo o sobre la marcha en movilidad.
 - El puerto USB-C suministra 10 W de carga a una amplia variedad de dispositivos compatibles.
+- Al acoplarse al dispositivo no obstruye su cámara.
+- Permite la carga mediante pasarela de distribución de corriente (pass-through) para que sigas cargando tu dispositivo conectado al mismo tiempo que recargas la batería externa.
+- Incluye un soporte retráctil de metal que fija el teléfono seguro en posición mientras se carga para permitir su uso sin necesidad de sostenerlo con las manos.
+- La batería cuenta con un diseño compacto y fino para que te la puedas llevar a cualquier parte.
+- Carga tu dispositivo en cualquier parte con esta potente batería portátil que proporciona un acoplamiento magnético perfecto, ya sea con emplazamiento fijo o sobre la marcha en movilidad.
+- Su protección contra sobretensiones preserva tu dispositivo para garantizar una carga segura y potente. 
 - El indicador LED de la batería te informa si es necesario recargarla.
 - Los 5000 mAh de corriente se traducen en 19 horas adicionales de reproducción de vídeo en un iPhone 13.*
 

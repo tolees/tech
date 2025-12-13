@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15,6", FullHD IPS 1920 x 1080 pixeles, 165Hz
+- Procesador AMD Ryzen 7 7735HS (8C/Octa-Core), 3,20 GHz
 - Sin sistema operativo
+- Pantalla de 15,6", FullHD IPS 1920 x 1080 pixeles, 165Hz
+- Tarjeta Gráfica NVIDIA GeForce RTX 4050-GB GDDR6
 - Almacenamiento de 512 GB SSD PCI Express NVMe 4.0
 - Memoria RAM de 16GB DDR5 SDRAM
-- Tarjeta Gráfica NVIDIA GeForce RTX 4050-GB GDDR6
-- Procesador AMD Ryzen 7 7735HS (8C/Octa-Core), 3,20 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPHRZS29{{</world>}}

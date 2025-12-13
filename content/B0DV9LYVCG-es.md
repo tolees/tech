@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Procesador Mediatek Helio G99 (8C/Octa-Core), 2 GHz
+- Sistema Operativo: Android 14
 - Memoria RAM de 8GB LPDDR4X
 - Pantalla de 11", WUXGA QLED 2K LED IPS 1920 x 1200 pixeles
-- Procesador Mediatek Helio G99 (8C/Octa-Core), 2 GHz
 - Almacenamiento de 256GB
-- Sistema Operativo: Android 14
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9LYVCG{{</world>}}

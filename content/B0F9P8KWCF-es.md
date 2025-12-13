@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
+- Memoria RAM de 16GB DDR4
+- Tarjeta gráfica integrada AMD Radeon Graphics
 - Procesador AMD Ryzen 7 5825U (8C/OctaCore 2 / 4.5GHz, 16MB)
 - Sin Sistema Operativo
-- Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 16GB DDR4
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9P8KWCF{{</world>}}
