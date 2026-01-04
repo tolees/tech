@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Impresora conectada: podrás imprimir de manera inalámbrica desde tu smartphone o tablet.
-- Disfruta de una impresión rápida: 24 imágenes por minuto (ipm) en blanco y negro y 15,5 ipm en color.
-- Comodidad y eficiencia: bandeja de 250 hojas de capacidad y un alimentador de documentos automático dúplex (ADF) de 50 hojas de papel.
-- Impresora Multifunción: esta impresora te permite imprimir, escanear, copiar y mandar fax.
 - Gran rendimiento en el hogar: hasta 2.500 páginas en blanco y negro y 1.500 en color.
+- Impresora Multifunción: esta impresora te permite imprimir, escanear, copiar y mandar fax.
+- Comodidad y eficiencia: bandeja de 250 hojas de capacidad y un alimentador de documentos automático dúplex (ADF) de 50 hojas de papel.
+- Disfruta de una impresión rápida: 24 imágenes por minuto (ipm) en blanco y negro y 15,5 ipm en color.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GZ1QA2E{{</world>}}

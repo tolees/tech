@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Un solo juego de tintas imprime hasta 7500 páginas en negro y 4500 en color* - Sin estrés ni complicaciones, ¡simplemente añade papel e imprime!
 - La diversas opciones de conectividad te permiten imprimir desde cualquier lugar con facilidad - Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil
 - Impresora multifunción A4 con ADF y fax - Impresión de alta calidad, copia, escaneado y fax en una sola máquina
+- Sencillo sistema de depósito rellenable con botellas tinta - Además, el sistema de botellas EcoTank con llave de cierre garantiza además que no te ensucies
 - Impresión cómoda y fluida. La caja incluye tinta suficiente para hasta 3 años de uso*. - Ahorra hasta un 95 % en costes de impresión* con los depósitos de tinta rellenables
 - La marca de impresoras con depósito de tinta n.º 1 en el mundo* - Más de 100 millones de impresoras EcoTank vendidas en todo el mundo*
-- Sencillo sistema de depósito rellenable con botellas tinta - Además, el sistema de botellas EcoTank con llave de cierre garantiza además que no te ensucies
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GB67ZVX{{</world>}}

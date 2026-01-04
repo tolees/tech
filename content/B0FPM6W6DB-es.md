@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara infrarroja FHD con reconocimiento facial
 - Gráficos hasta AMD Radeon
-- Hasta 16 GB de memoria DDR5
-- SSD PCIe 4.0 de hasta 512 GB
-- Panel táctil más grande con Smart Gesture
 - Windows 11 Home: ASUS recomienda Windows 11 Pro para empresas
+- SSD PCIe 4.0 de hasta 512 GB
+- Cámara infrarroja FHD con reconocimiento facial
+- Hasta 16 GB de memoria DDR5
+- Panel táctil más grande con Smart Gesture
 - Pantalla NanoEdge 16" y 16:10" a 60 Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

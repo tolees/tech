@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RASTREO 1 A 1 REAL — El sensor óptico TrueMove Air 18K refleja fielmente tus movimientos más precisos para que tus disparos tengan el mejor impacto
-- INALÁMBRICO DUAL — Puedes cambiar entre la conexión inalámbrica para gaming de 2,4GHz y Bluetooth para otros dispositivos
-- MÁS RÁPIDO QUE NUNCA — Ni cables ni límites; adelanta a tus adversarios con una latencia de clic superreactiva de 1,9ms
 - 60M DE CLICS — Durabilidad inédita con un resistente interruptor hecho para durar, que nunca dejará de darte clics crujientes
+- INALÁMBRICO DUAL — Puedes cambiar entre la conexión inalámbrica para gaming de 2,4GHz y Bluetooth para otros dispositivos
+- RASTREO 1 A 1 REAL — El sensor óptico TrueMove Air 18K refleja fielmente tus movimientos más precisos para que tus disparos tengan el mejor impacto
+- MÁS RÁPIDO QUE NUNCA — Ni cables ni límites; adelanta a tus adversarios con una latencia de clic superreactiva de 1,9ms
 - BATERÍA DE HASTA 200 H DE AUTONOMÍA — Los 2,4GHz durarán 200 h (450 con Bluetooth) así que saca lo mejor de Rival 3 Wireless Gen 2; aligera el peso en 11g dejando solo una pila AAA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

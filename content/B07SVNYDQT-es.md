@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con tablero de partículas melaminizado de gran calidad y de larga durabilidad. Certificado por PEFC (Asociación Española para la Sostenibilidad Forestal). Fabricado en España.
 - Este tipo de material tiene una superficie no porosa y muy resistente; por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo.
 - Escritorio juvenil con bandeja extraíble, ideal para poner el teclado o disponer de una superfície auxiliar.
-- Requiere montaje (incluye instrucciones y herrajes).
 - Medidas Mueble: 79 cm (alto) x 90 cm (ancho) x 54 cm (prof.). Altura hasta bandeja extraíble: 66 cm. Peso máximo soportado Mueble 25 Kg. Peso máximo balda: 3 Kg.
+- Fabricado con tablero de partículas melaminizado de gran calidad y de larga durabilidad. Certificado por PEFC (Asociación Española para la Sostenibilidad Forestal). Fabricado en España.
+- Requiere montaje (incluye instrucciones y herrajes).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SVNYDQT{{</world>}}

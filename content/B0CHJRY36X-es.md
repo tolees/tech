@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Velocidad de impresión 30 páginas por minuto
-- Bandeja de entrada de 250 hojas, multipropósito de 30 hojas y ADF de 50 hojas
 - Digitaliza hasta 56 páginas por minuto (a doble cara)
-- Gigabit Ethernet, WiFi 2,4/5GHz, USB y NFC
+- Bandeja de entrada de 250 hojas, multipropósito de 30 hojas y ADF de 50 hojas
 - Pantalla táctil a color de 8,8 cm
+- Gigabit Ethernet, WiFi 2,4/5GHz, USB y NFC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHJRY36X{{</world>}}

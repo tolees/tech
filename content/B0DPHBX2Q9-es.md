@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG SM-A165F Galaxy A16 Dual Sim 4+128GB grey DE'
-date: 2025-12-24 10:45:21
+date: 2026-01-03 20:04:20
 image: 'https://m.media-amazon.com/images/I/31ulwPVjClL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.es/dp/B0DPHBX2Q9/?tag=tolees-21'
 descuento: '21.82'
-average: '121.954'
+average: '121.595'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

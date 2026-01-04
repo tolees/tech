@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- IMÁGENES QD-OLED DE ALTA CALIDAD – Disfruta de colores vivos, negros profundos y un detalle preciso gracias a la cobertura del 99,3 % del espacio de color DCI-P3 y calibración de fábrica con una precisión Delta E<2. Ideal para juegos envolventes y contenido profesional.
 - JUEGO SIN TEARING NI STUTTERING – Compatible con NVIDIA G-SYNC y AMD FreeSync Premium Pro para una experiencia sin interrupciones, sincronizando tu GPU y monitor para eliminar tearing, latencia y parpadeos.
+- IMÁGENES QD-OLED DE ALTA CALIDAD – Disfruta de colores vivos, negros profundos y un detalle preciso gracias a la cobertura del 99,3 % del espacio de color DCI-P3 y calibración de fábrica con una precisión Delta E<2. Ideal para juegos envolventes y contenido profesional.
 - GARANTÍA DE 3 AÑOS – Juega con total tranquilidad: tu monitor está respaldado por el servicio de intercambio avanzado de Dell con cobertura de 3 años, asistencia rápida y reemplazo si es necesario.
 - NEGROS PROFUNDOS Y HDR BRILLANTE – Certificado con VESA DisplayHDR True Black 400, ofrece contraste infinito, detalles nítidos en escenas oscuras y hasta 1000 nits de brillo máximo.
 - VELOCIDAD EXTREMA PARA GAMING COMPETITIVO – Con una frecuencia de actualización de 280Hz y tiempo de respuesta de 0.03ms GtG, este monitor ofrece una fluidez increíble y elimina el desenfoque de movimiento, perfecto para juegos rápidos.

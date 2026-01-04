@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 11 Home
-- Procesador Intel Core i5 1334U (10C/Deca-Core), 1,30 GHz
-- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60Hz
 - Tarjeta Gráfica Intel UHD Graphics
-- Almacenamiento de 1024 GB SSD PCI EXPRESS
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60Hz
+- Procesador Intel Core i5 1334U (10C/Deca-Core), 1,30 GHz
 - Memoria RAM de 16 GB DDR5 SDRAM
+- Almacenamiento de 1024 GB SSD PCI EXPRESS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYDZHMSG{{</world>}}

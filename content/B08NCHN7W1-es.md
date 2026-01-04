@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara Sony de 50 MP con OIS. Capturas nítidas con el sensor Sony IMX882
 - Grandísima batería de 6500mAh (typ). 90W HyperCharge
 - Pantalla AMOLED de 6,83 1.5K a 120Hz. Marcos ultrafinos para una experiencia inmersiva
-- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable
+- Cámara Sony de 50 MP con OIS. Capturas nítidas con el sensor Sony IMX882
 - IP68 resistencia al agua y al polvo
+- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NCHN7W1{{</world>}}

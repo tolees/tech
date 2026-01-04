@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Laptop Lenovo LOQ 15IAX9 15,6" 16 GB RAM 1 TB SSD Nvidia Geforce RTX 4050 Qwerty Español
-- Laptop de la marca Lenovo
 - Medidas: 8,5 x 54 x 35 centímetros
-- Referencia: S77202598
+- Laptop de la marca Lenovo
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S77202598
+- Color: Laptop Lenovo LOQ 15IAX9 15,6" 16 GB RAM 1 TB SSD Nvidia Geforce RTX 4050 Qwerty Español
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D96QYWMP{{</world>}}

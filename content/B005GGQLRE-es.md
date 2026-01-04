@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jack de auriculares: No
+- Indentificación de llamada audible: No
+- Altavoz: No
+- Retro iluminación de LCD: ámbar
+- Tecla de navegación: Sí
 - Identificador de llamada: Compatibilidad con identificador de llamada: sí
 - Potenciado de Voz: No
-- Tecla de navegación: Sí
-- Jack de auriculares: No
-- Altavoz: No
-- Indentificación de llamada audible: No
-- Retro iluminación de LCD: ámbar
 - Registro de llamada: 50 artículos (número y nombres)
 - Funciones: Múltiples teléfonos - 6; Bases múltiples - 5
 

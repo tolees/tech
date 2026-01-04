@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modo Transparencia: Deja entrar el mundo o céntrate en tu audio, la elección es tuya. Sólo tienes que cambiar al Modo Transparencia para oír el mundo que te rodea cuando lo necesites.
 - Estuche de carga y soporte para móvil 2 en 1: Disfruta de la visión manos libres sin complicaciones. Sólo tienes que abrir el panel trasero del estuche, colocar el móvil en el soporte y ponerte al día con tus programas favoritos: ¡verlos mientras viajas nunca ha sido tan fácil!
+- Modo Transparencia: Deja entrar el mundo o céntrate en tu audio, la elección es tuya. Sólo tienes que cambiar al Modo Transparencia para oír el mundo que te rodea cuando lo necesites.
 - Cancelación del ruido potente e inteligente: Reduce el ruido hasta 42 dB con un avanzado sistema activo de cancelación del ruido. Con tecnología adaptativa, el soundocre P30i detecta el sonido externo y selecciona automáticamente un nivel de cancelación de ruido optimizado para tus oídos.
 - Larga reproducción: Disfruta de 10 horas de escucha con una sola carga, amplíables a 45 horas con el estuche de carga. Cuando tengas poco tiempo, una carga rápida de 10 minutos te ofrece 2 horas de reproducción.
 - Graves potentes: Da rienda suelta a unos graves profundos y contundentes con los transductores de 10 mm de los auriculares con cancelación de ruido Soundcore P30i, amplificados por la exclusiva tecnología BassUp de Soundcore para una experiencia de audio envolvente y robusta.

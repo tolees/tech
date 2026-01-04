@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con materiales duraderos
-- Compatible con los modelos RX100, RX100 II y RX100 III
 - Se adapta fácilmente a la cámara
 - El accesorio de agarre se ajusta a la cámara para facilitar su sujeción
+- Fabricado con materiales duraderos
+- Compatible con los modelos RX100, RX100 II y RX100 III
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KOUIBRU{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Audio inalámbrico con tecnología bluetooth
 - Compatible con llamadas con manos libres y asistente de voz
-- Cables flexibles y ligeros
 - Unidades de diafragma de 9 mm para un sonido claro y nítido
+- Cables flexibles y ligeros
+- Audio inalámbrico con tecnología bluetooth
 - Hasta 15 horas de duración de batería
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

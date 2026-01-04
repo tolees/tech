@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estabilizador VC (Vibration Compesation) de tres modos
-- Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
 - Mecanismo FLEX ZOOM LOCK que fija el anillo zoom en cualquier posición
+- Revestimiento eBAND y BBAR tecnología anti-reflejos avanzada
 - VC1-Estandar, VC2-Barrido de cámara, VC3-Prioriza la estabilidad de captura
+- Estabilizador VC (Vibration Compesation) de tres modos
 - Compatible con la TAMRON TAP-in-Console y con los Teleconvertidores exclusivos para objetivos TAMRON.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

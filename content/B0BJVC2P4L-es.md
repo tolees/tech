@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NO es un convertidor bidireccional y no puede transmitir señales desde HDMI a DisplayPort.
 - El material es ABS, núcleo de cobre. El conector DisplayPort resiste la corrosión y la abrasión y mejora el rendimiento de transmisión de la señal.
 - Compatibilidad universal: para computadora portátil, PC, monitor, proyector, LED, TV y HDTV 3D.
-- Pequeño y ligero, fácil de mover. Cierre de seguridad para evitar daños en el enchufe. Póngalo en su bolsillo y despliéguelo donde quiera. Es ideal para reproducir audio y video.
+- NO es un convertidor bidireccional y no puede transmitir señales desde HDMI a DisplayPort.
 - Conectar un DisplayPort ( DP) a un HDMI. puede conectar fácilmente un dispositivo fuente con una interfaz DisplayPort (por ejemplo, un ordenador portátil o de sobremesa) a un dispositivo fuente receptor con una interfaz HDMI (por ejemplo, un televisor, un monitor o un proyector).
+- Pequeño y ligero, fácil de mover. Cierre de seguridad para evitar daños en el enchufe. Póngalo en su bolsillo y despliéguelo donde quiera. Es ideal para reproducir audio y video.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJVC2P4L{{</world>}}

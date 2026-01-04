@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
-- Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
 - Lente óptica Leica Summilux. Cámara principal Leica de 1”, teleobjetivo de 200MP
-- Diseño refinado inspirado en cámara. Estructura de protección Xiaomi Guardian
+- Xiaomi HyperAI. Impulsado por Powered by Xiaomi HyperOS
 - Pantalla líquida envolvente. Xiaomi Shield Glass 2.0
+- Procesador Snapdragon 8 Elite. Proceso de 3 nm, rendimiento transformado
+- Diseño refinado inspirado en cámara. Estructura de protección Xiaomi Guardian
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP7QLNQN{{</world>}}

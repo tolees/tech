@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- eMulticolor
 - Redmi Note 11 (4GB128GB) star blue de la marca Xiaomi
+- eMulticolor
 - Xiaomi. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 - Smartphone modelo Redmi Note 11 (4GB128GB) star blue
 

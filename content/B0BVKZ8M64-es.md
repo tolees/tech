@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Teléfono celular
-- En color negro, con tecnología 5G
 - Diseño moderno y elegante
+- En color negro, con tecnología 5G
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVKZ8M64{{</world>}}

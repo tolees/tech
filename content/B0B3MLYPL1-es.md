@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te permite acceder a funciones esenciales para pinchar: puntos cue, samples, efectos, bucles…
 - Soporte plegable para smartphone incluido
-- Controladora inalámbrica Bluetooth para smartphones Android e iPhone; también para tabletas Android e iPad
-- Controla la aplicación djay disponible de forma gratuita y para uso ilimitado en Android e iOS
-- Mezcla fácilmente en tu smartphone a través de Bluetooth — ¡la conexión es sencilla y rápida!
 - Jog wheels para mezclar y hacer scratching, además de faders, perillas y pads: ¡mezcla como lo harías en una controladora de DJ de tamaño completo, dondequiera que estés!
 - Monitorizar pistas: escucha tu mezcla en auriculares usando el cable splitter incluido
+- Controladora inalámbrica Bluetooth para smartphones Android e iPhone; también para tabletas Android e iPad
+- Te permite acceder a funciones esenciales para pinchar: puntos cue, samples, efectos, bucles…
+- Controla la aplicación djay disponible de forma gratuita y para uso ilimitado en Android e iOS
+- Mezcla fácilmente en tu smartphone a través de Bluetooth — ¡la conexión es sencilla y rápida!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MLYPL1{{</world>}}

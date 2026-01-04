@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60Hz
-- Tarjeta Gráfica Intel UHD Graphics
-- Memoria RAM de 16 GB DDR5 SDRAM
 - Almacenamiento de 1024 GB SSD PCI Express NVMe 3.0
 - Procesador Intel Core i7 13620H (10C/Deca-Core), 2,40 GHz
+- Memoria RAM de 16 GB DDR5 SDRAM
+- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60Hz
+- Tarjeta Gráfica Intel UHD Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DY1GXYTS{{</world>}}

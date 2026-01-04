@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 14mm
-- Nikon AE
 - Focal 2,4
+- Nikon AE
+- 14mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075CPTL82{{</world>}}

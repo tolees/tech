@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema operativo: solo compatible con Windows 11-10.
 - Seguridad mejorada: WPA3 ofrece mejoras de seguridad para la protección de contraseña personal.
 - Wi-Fi 6 AX900 WiFi de doble banda: permite velocidades de hasta 900 Mbps, 287 Mbps en banda de 2,4 GHz y 600 Mbps en banda de 5 GHz, elevando tus dispositivos a velocidades Wi-Fi AX más altas.
-- Sistema operativo: solo compatible con Windows 11-10.
 - Diseño nano: el diseño compacto y discreto permite conectar el adaptador a un puerto USB 2.0 y olvidarse de él.
 - Bluetooth 5.3 confiable: la fiabilidad y la seguridad mejoradas garantizan una conexión más estable con los controladores de juegos, auriculares, teclados y más.
 

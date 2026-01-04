@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Imprime hasta 32 páginas por minuto; Impresión a doble cara de 16 caras por minuto
 - 4 meses de prueba del programa de subscripción EcoPro
-- Panel de control LCD de 2 líneas; 5GHz WiFi y USB
 - 128 MB de memoria interna
+- Panel de control LCD de 2 líneas; 5GHz WiFi y USB
 - Bandeja de entrada de 250 hojas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

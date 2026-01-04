@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguridad de nivel empresarial para proteger tus datos
-- Ultraligero y ultrafino
 - Procesador 13th Gen Intel Core i5-1334U
 - Con gráficos Intel Iris Xe
+- Ultraligero y ultrafino
+- Seguridad de nivel empresarial para proteger tus datos
 - Pantalla 14 pulgadas FHD (1920x1080), IPS-Level
 
 [🛒 Comprar!!!]({{< param buyurl >}})
