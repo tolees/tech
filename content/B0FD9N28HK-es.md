@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Sanyun SW206 Altavoces de Estantería HiFi 4" con Modo Estudio 80W Activos Bluetooth 5.4/Óptico/Coaxial/TRS/Aux/DAC USB 24bit Tocadiscos TV PC Escritorio Gabinete de Madera Control Remoto Rojo'
+date: 2026-01-24 05:22:52
+image: 'https://m.media-amazon.com/images/I/41eLAfU0zJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FD9N28HK-es Sanyun SW206 Altavoces de Estantería HiFi 4" con Modo...'
+sku: 'B0FD9N28HK-es'
+tags: [ 'Altavoces','Altavoces de estantería','Electrónica','Equipos de audio y Hi-Fi','bluetooth','sanyun','🇪🇸', ]
+actualPrice: 118.99 EUR
+currency: EUR
+price: 118.99
+comparePrice: 139.99 EUR
+prodname: 'Sanyun SW206 Altavoces de Estantería HiFi 4" con Modo Estudio 80W Activos Bluetooth 5.4/Óptico/Coaxial/TRS/Aux/DAC USB 24bit Tocadiscos TV PC Escritorio Gabinete de Madera Control Remoto Rojo'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Sanyun'
+buyurl: 'https://www.amazon.es/dp/B0FD9N28HK/?tag=tolees-21'
+descuento: '15.00'
+average: '118.99'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 【Obtén Sonido Profesional y Configuración Sencilla para tu Contenido】Escucha tu contenido con una claridad excepcional. Meticulosamente afinados para un sonido equilibrado y natural: perfectos para edición crítica o para asegurar que tu voz y música destaquen. Conecta fácilmente interfaces de audio, mezcladoras, teclados o guitarras mediante las entradas balanceadas TRS de 1/4" (6.35mm) integradas. La solución plug-and-play ideal para home studios, podcasts o creación de video.
+- 【Altavoz de 4” de Fibra de Carbono y Tweeter de Cúpula de Seda de 25mm】Experimenta una claridad excepcional y sonido equilibrado. El woofer de 4 pulgadas de fibra de carbono (con tecnología de bobina de voz multicapa) ofrece graves medios detallados y contundentes con una respuesta transitoria rápida. Emparejado con un tweeter de cúpula de seda de 25mm, los agudos son suaves, extendidos y no fatigan los oídos. Donde la zero fatiga auditiva se encuentra con la inmersión infinita.
+- 【Cambia entre la Calidez HiFi y la Precisión de Estudio】Modo HiFi y modo monitor de estudio integrados con conmutación de un toque. El modo HiFi transforma tu música con tonos más ricos, cálidos y envolventes. El modo Monitor ofrece un sonido preciso y sin coloración, crítico para mezclas y creación de contenido. Perfecto para creadores profesionales, streamers, amantes de la música y oyentes cotidianos.
+- 【Centro de Audio Versátil: Conecta y Reproduce Todas tus Fuentes】¡Unifica tu mundo de audio! Conecta sin esfuerzo TVs, tocadiscos (con preamplificador), PCs, portátiles, teléfonos y más a través de una amplia gama de entradas: Óptico, Coaxial, TRS, AUX 3.5mm, Bluetooth 5.4 y USB. El puerto USB integrado cuenta con un DAC de 24 bits incorporado, ofreciendo una calidad de sonido mejorada desde tu computadora. ¡Disfruta de la flexibilidad única de reproducir audio desde múltiples fuentes conectadas simultáneamente!
+- 【Control Remoto de Conveniencia】Gestiona tu experiencia de escucha sin esfuerzo desde tu asiento. El control remoto infrarrojo incluido te permite: ajustar el volumen, cambiar entre entradas de audio, encender/apagar la unidad (modo standby). Esta combinación de conectividad versátil y control remoto fácil hace del SW206 el centro perfecto para tu vida auditiva diaria.
+- 【Sonido Puro, Textura Sofisticada】Experimenta un audio notablemente claro y preciso. Nuestros altavoces utilizan gabinetes de madera MDF densa que minimizan eficazmente zumbidos no deseados y distorsión, garantizando una reproducción de sonido prístina. Complementando esta precisión acústica, un acabado PVC con vetas de madera en un cálido Cerezo – irradiando una elegancia atemporal para realzar espacios creativos.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0FD9N28HK{{</world>}}
