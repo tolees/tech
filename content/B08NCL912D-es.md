@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable. a serie insignia Snapdragon 8s Gen4 cuenta con una arquitectura All-Big-Core basada en el proceso avanzado de 4 nm de TSMC. Con una velocidad de reloj máxima de 3,21 GHz, el conjunto de chips ofrece un rendimiento excepcional y es capaz de manejar sin esfuerzo las tareas más exigentes para una experiencia de usuario fluida
 - Pantalla AMOLED de 6,83 1.5K a 120Hz. Marcos ultrafinos para una experiencia inmersiva. Disfruta de imágenes impresionantes con una eficiencia energética excepcional en la amplia pantalla 1,5 K de 6,83 pulgadas del F7. Disfruta de la experiencia de entretenimiento definitiva, ya sea con juegos de alta calidad gráfica o viendo vídeos
-- Cámara Sony de 50 MP con OIS. Capturas nítidas con el sensor Sony IMX882
-- Batería enorme de 6500 mAh (típ.) 90W HyperCharge. La mayor capacidad de batería de la serie POCO hasta la fecha. Una vida útil de la batería excepcional para que no te quedes sin energía en todo el día
 - IP68 resistencia al agua y al polvo. Con una clasificación IP68, el POCO F7 ofrece una protección excepcional contra el agua y el polvo. Construido de acuerdo a los más altos estándares de calidad, está listo para proporcionarte horas de diversión ininterrumpida
+- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable. a serie insignia Snapdragon 8s Gen4 cuenta con una arquitectura All-Big-Core basada en el proceso avanzado de 4 nm de TSMC. Con una velocidad de reloj máxima de 3,21 GHz, el conjunto de chips ofrece un rendimiento excepcional y es capaz de manejar sin esfuerzo las tareas más exigentes para una experiencia de usuario fluida
+- Batería enorme de 6500 mAh (típ.) 90W HyperCharge. La mayor capacidad de batería de la serie POCO hasta la fecha. Una vida útil de la batería excepcional para que no te quedes sin energía en todo el día
+- Cámara Sony de 50 MP con OIS. Capturas nítidas con el sensor Sony IMX882
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NCL912D{{</world>}}

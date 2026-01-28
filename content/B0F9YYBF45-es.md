@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz, 16MB)
 - Sin Sistema Operativo
+- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz, 16MB)
+- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
 - Pantalla de 16" WUXGA 1920 x 1200 pixeles, 165Hz, IPS-Level 300 nits
 - Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
 

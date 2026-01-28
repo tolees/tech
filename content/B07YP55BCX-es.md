@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla LCD MONOCROMO de 2. 3
 - Duración batería 35 horas
+- Conectividad sí
 - Gps electrónica de alta sensibilidad
 - Impermeabilidad IPX7
-- Conectividad sí
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YP55BCX{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 32GB memoria RAM DDR5 5200, 1TB almacenamiento SSD 2280 PCIe NVMe Value
-- Procesador AMD Ryzen 7 8700F hasta 4.9Ghz 8 Cores, 16 hilos, 16 Tops, 24 MB caché L3
-- Gráfica Nvidia GeForce RTX 5060 8GB memoria GDDR7
-- Ordenador de sobremesa gaming HP Omen RTX 5060 8GB
 - Sistema operativo Freedos
+- Ordenador de sobremesa gaming HP Omen RTX 5060 8GB
+- Gráfica Nvidia GeForce RTX 5060 8GB memoria GDDR7
+- Procesador AMD Ryzen 7 8700F hasta 4.9Ghz 8 Cores, 16 hilos, 16 Tops, 24 MB caché L3
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F66QP3GG{{</world>}}

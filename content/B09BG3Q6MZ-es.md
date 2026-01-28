@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diámetro interior: 260 mm
 - Plataforma móvil para macetas - con ruedas de la colección MOBILE SAUCER ROUND
 - Dimensiones: 292x292x57 mm
-- Diámetro interior: 260 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BG3Q6MZ{{</world>}}

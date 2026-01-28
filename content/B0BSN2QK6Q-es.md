@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El exclusivo motor MSI AI Engine detecta los escenarios del usuario y se ajusta al mejor modo de rendimiento
-- 15.6" FHD (1920x1080), 60Hz 45%NTSC IPS-Level
-- Intel Arc Graphics
 - Procesador Intel Core Ultra 7 155H
+- El exclusivo motor MSI AI Engine detecta los escenarios del usuario y se ajusta al mejor modo de rendimiento
+- Intel Arc Graphics
+- 15.6" FHD (1920x1080), 60Hz 45%NTSC IPS-Level
 - USB-C admite carga PD y DP
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

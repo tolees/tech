@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mas nitido que nunca
-- MONTURA TIPO F A MONTURA TIPO Z
-- Mas estable que nunca
 - Fotograma completo
 - 14 FPS
+- MONTURA TIPO F A MONTURA TIPO Z
 - Dual expeed
+- Mas estable que nunca
+- Mas nitido que nunca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NT66XZQ{{</world>}}

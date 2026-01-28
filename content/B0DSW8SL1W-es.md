@@ -32,8 +32,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - ¡Lucha desde Verdún hasta el corazón de un antiguo mundo alienígena!
 - 8 niveles con enormes jefes
 - ¡Inspirado en la época dorada de las recreativas!
-- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 - Acción intensa y una jugabilidad muy pulida
+- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSW8SL1W{{</world>}}

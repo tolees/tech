@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad, de la marca HP
 - Hp z3700 Gold Wireless mouse
+- Producto de alta calidad, de la marca HP
 - Diseño funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

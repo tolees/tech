@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Battery.charge time : 1.0 hours
-- Included components : 1 package
-- Manufacturer : ATI
-- Camera description : Frontal
-- Battery.capacity : 5000.0 milliamp hours
-- Ram memory.installed size : 4.0 GB
-- Battery.average life : 13.0 hours
-- Item dimensions : 3.07 inches
-- Cellular technology : 4G
-- Display.size : 6.74 inches
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Connectivity technology : NFC
-- Batteries included : False
-- Wireless provider : orange
-- Memory storage capacity : 128.0 GB
-- MZB0FM7EU
 - Wireless network technology : wifi
 - Operating system : Android
+- Connectivity technology : NFC
+- Battery.average life : 13.0 hours
+- Display.size : 6.74 inches
+- MZB0FM7EU
+- Memory storage capacity : 128.0 GB
+- Battery.capacity : 5000.0 milliamp hours
+- Wireless provider : orange
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
+- Manufacturer : ATI
+- Cellular technology : 4G
+- Camera description : Frontal
+- Item dimensions : 3.07 inches
+- Included components : 1 package
+- Battery.charge time : 1.0 hours
+- Ram memory.installed size : 4.0 GB
+- Batteries included : False
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

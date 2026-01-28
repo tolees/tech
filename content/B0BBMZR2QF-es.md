@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
-- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
-- Velocidad de impresión color: 1.3 pages_per_minute
-- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 - Impresora fotográfica compacta con sublimación de tinta
+- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
+- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
+- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
+- Velocidad de impresión color: 1.3 pages_per_minute
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBMZR2QF{{</world>}}

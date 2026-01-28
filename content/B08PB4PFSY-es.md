@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DisplayWidget Center permite ajustar fácilmente la configuración del monitor con el ratón
 - La amplia gama de colores con la tecnología de seguimiento de escala de grises de ASUS asegura una gradación de color más suave proporcionada y uniformidad
-- La tecnología ASUS Extreme Low Motion Blur Sync (ELMB SYNC) permite el ELMB junto con una tasa de refresco variable, eliminando el ghosting y el tearing para conseguir imágenes nítidas en los juegos con altas velocidades de fotogramas
 - La tecnología ASUS Fast IPS permite un tiempo de respuesta de 1 ms (GTG) para disfrutar de imágenes de juego nítidas con altas frecuencias de cuadro
+- La tecnología ASUS Extreme Low Motion Blur Sync (ELMB SYNC) permite el ELMB junto con una tasa de refresco variable, eliminando el ghosting y el tearing para conseguir imágenes nítidas en los juegos con altas velocidades de fotogramas
+- DisplayWidget Center permite ajustar fácilmente la configuración del monitor con el ratón
 - Monitor gaming HDR de 24,5 pulgadas y 1920 x 1080 píxeles con una tasa de refresco de 180 Hz diseñado para jugadores profesionales y una jugabilidad envolvente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

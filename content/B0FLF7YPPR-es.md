@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara Sony LYTIA 600 con OIS; captura fotos definidas y vídeos fluidos gracias a un sistema de cámaras de 50 MP con estabilización óptica de la imagen
+- Pantalla cinematográfica de 6,67, y sonido Dolby Atmos; da vida a tu entretenimiento favorito con más de mil millones de tonos de colores y sonido multidimensional
 - Moto Secure y huellas en la pantalla; protege toda tu información personal y disfruta de un acceso rápido y seguro a tu smartphone
 - Impresionante diseño de borde infinito; disfruta del aspecto y la sensación de los laterales contorneados, que se funden en uno con materiales de primera calidad
 - Rendimiento Snapdragon de nueva generación; siente la potencia de un procesador superrápido, 12 GB de RAM ampliable a 24 GB con la función Expansión de memoria y 256 GB de almacenamiento
-- Pantalla cinematográfica de 6,67, y sonido Dolby Atmos; da vida a tu entretenimiento favorito con más de mil millones de tonos de colores y sonido multidimensional
+- Cámara Sony LYTIA 600 con OIS; captura fotos definidas y vídeos fluidos gracias a un sistema de cámaras de 50 MP con estabilización óptica de la imagen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FLF7YPPR{{</world>}}

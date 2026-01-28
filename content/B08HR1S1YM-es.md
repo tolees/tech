@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp HT-SB147 2.0 Barra de Sonido Cine en Casa Bluetooth con HDMI ARC/CEC USB Playback Potencia Máxima Total de Salida 150 W 92 cm Color Negro'
-date: 2025-12-10 18:42:29
+date: 2026-01-28 18:15:49
 image: 'https://m.media-amazon.com/images/I/11EH5miH2yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HR1S1YM-es Sharp HT-SB147 2.0 Barra de Sonido Cine en Casa Bluetooth...'
 sku: 'B08HR1S1YM-es'
 tags: [ '749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_1','749d7d8e-47fd-431e-8b51-348b70f767e2_1201','749d7d8e-47fd-431e-8b51-348b70f767e2_3101','749d7d8e-47fd-431e-8b51-348b70f767e2_8301','749d7d8e-47fd-431e-8b51-348b70f767e2_9001','Accesorios de TV','Accesorios de audio y vídeo portátil','Altavoces','Arborist Merchandising Root','Audio y vídeo portátil','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi','Gaming soundbars','Home & Cinema','Home Entertainment','Self Service','Special Features Stores','bluetooth','sharp','🇪🇸', ]
-actualPrice: 42.63 EUR
+actualPrice: 41.56 EUR
 currency: EUR
-price: 42.63
-comparePrice: 52.9 EUR
+price: 41.56
+comparePrice: 99.9 EUR
 prodname: 'Sharp HT-SB147 2.0 Barra de Sonido Cine en Casa Bluetooth con HDMI ARC/CEC USB Playback Potencia Máxima Total de Salida 150 W 92 cm Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B08HR1S1YM/?tag=tolees-21'
-descuento: '19.41'
-average: '66.9465384615384'
+descuento: '58.40'
+average: '69.2026666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vataje (w): 120.0 watts
-- Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión hdmi gracias a la tecnología arc/cec.
-- Se puede conectar a cualquier tv con hdmi, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencia total de 150w.
+- Conexión con: hdmi con arc y cec, entrada óptica, aux-in 3.5 mm, bluetooth, reproducción usb (memorias hasta 32gb).
 - Fuente de alimentación: con cable.
-- Potente barra de sonido con bluetooth: experiencia de entretenimiento para juegos o cine en casa con su tv; ideal para televisores y monitores pequeños con una diagonal de pantalla de 40"" o superior.
-- Función bluetooth: reproduzca contenido de audio desde su smartphone, smart tv o tablet.
+- Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6,3 cm)
 - Vataje (w): 120.0 watts
 - Número de puertos hdmi: 1
-- Conexión con: hdmi con arc y cec, entrada óptica, aux-in 3.5 mm, bluetooth, reproducción usb (memorias hasta 32gb).
-- Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6,3 cm)
+- Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión hdmi gracias a la tecnología arc/cec.
+- Vataje (w): 120.0 watts
+- Función bluetooth: reproduzca contenido de audio desde su smartphone, smart tv o tablet.
+- Potente barra de sonido con bluetooth: experiencia de entretenimiento para juegos o cine en casa con su tv; ideal para televisores y monitores pequeños con una diagonal de pantalla de 40"" o superior.
+- Se puede conectar a cualquier tv con hdmi, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencia total de 150w.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HR1S1YM{{</world>}}

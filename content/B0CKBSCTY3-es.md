@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La pantalla táctil AMOLED más nítida. Pantalla brillante y grande para ver todos tus datos y métricas, con paneles personalizables y widgets de acceso rápido a la información que más te interese.
-- Reloj deportivo con GPS de doble frecuencia y mapas detallados. Consulta tu ubicación y tu destino con los mapas descargables y el máximo detalle, y disfruta de la mejor experiencia topográfica.
 - Tecnología de biosensores Elixir. La exclusiva combinación de biosensores mide más datos del cuerpo que ningún otro dispositivo: ECG, SpO2, frecuencia cardíaca avanzada y medición de la temperatura.
+- Reloj deportivo con GPS de doble frecuencia y mapas detallados. Consulta tu ubicación y tu destino con los mapas descargables y el máximo detalle, y disfruta de la mejor experiencia topográfica.
 - Duración de la batería ampliada con autonomía de varios días. Hasta 140 horas de entrenamiento y 8 días de uso normal con una sola carga. La batería de este smartwatch está diseñada para ofrecer la máxima duración.
 - Completas herramientas de entrenamiento y recuperación: mucho más que un reloj de running. Con más de 150 deportes disponibles, obtendrás todo lo necesario para potenciar tu rendimiento.
 

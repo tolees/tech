@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
-- Canon: Excelencia en cámaras de vídeo y fotografía desde 1934. Canon es la opción segura
-- Vídeo: Tus vídeos con calidad 4K te permitirán capturar situaciones de forma fluida y definida
-- Objetivos: Capture escenas cotidianas y videoblogs con el RF-S 18-45 mm F4.5-6.3 IS STM
-- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet
-- Fotografía: Cámara Evil, ligera y sin espejo para inmortalizar tus recuerdos familiares y vacaciones. 24,1 MP y sensor APS-C con un mayor control de la profundidad de campo
 - Auto Focus: Mantén el enfoque Dual Pixel CMOS Auto Focus. Detecta a la persona en el encuadre
+- Objetivos: Capture escenas cotidianas y videoblogs con el RF-S 18-45 mm F4.5-6.3 IS STM
+- Fotografía: Cámara Evil, ligera y sin espejo para inmortalizar tus recuerdos familiares y vacaciones. 24,1 MP y sensor APS-C con un mayor control de la profundidad de campo
+- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
+- Vídeo: Tus vídeos con calidad 4K te permitirán capturar situaciones de forma fluida y definida
+- Canon: Excelencia en cámaras de vídeo y fotografía desde 1934. Canon es la opción segura
+- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C65KQ5CH{{</world>}}

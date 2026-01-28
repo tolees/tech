@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Sistema Operativo: Windows 11 Home
-- Memoria RAM de 32GB en placa LPDDR5x
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles, 120Hz, OLED 400 nits
-- Procesador Intel Core Ultra 9 285H (16C/undefined 5.4GHz, 24MB)
 - Tarjeta gráfica integrada Intel Arc 140T
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles, 120Hz, OLED 400 nits
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Memoria RAM de 32GB en placa LPDDR5x
+- Procesador Intel Core Ultra 9 285H (16C/undefined 5.4GHz, 24MB)
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT4S1SS9{{</world>}}

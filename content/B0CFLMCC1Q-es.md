@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gigabit WiFi de 6 velocidades: Wi-Fi de doble banda de 1,8 Gbps para una navegación, transmisión y descarga más rápidas, todo al mismo tiempo
-- Portal cautivo – Ofrece una página de portal diseñada para aumentar la seguridad y el marketing
-- Cobertura mejorada: cuatro antenas fijas equipadas con tecnología Beamforming amplían y concentran las señales Wi-Fi
 - Implementación flexible: admite PoE pasivo para transportar simultáneamente energía eléctrica y datos
+- Cobertura mejorada: cuatro antenas fijas equipadas con tecnología Beamforming amplían y concentran las señales Wi-Fi
+- Portal cautivo – Ofrece una página de portal diseñada para aumentar la seguridad y el marketing
 - Múltiples modos: admite modos de punto de acceso, extensor de alcance, multi-SSID y cliente para satisfacer todas las necesidades de la red
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

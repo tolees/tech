@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificación TÜV Rheinland Low Blue Light modo de lectura gestos de pantalla completa Dimensiones: 164.9 x 77.07 x 9.0mm Peso: 194 g Colores disponibles: Gris granito, verde pavo real, azul cielo Revestimiento nano a prueba de salpicaduras *
-- Micro USB toma de auriculares de 3,5 mm Doble modo de espera 4G Bandas: - GSM: B2 / 3/5/8 - WCDMA: B1 / 2/4/5/8 - FDD-LTE: B1 / 2/3/4/5/7/8/20/28 - TDD-LTE: B38 / 40/41 (2535-2655MHz) Doble ranura SIM + MicroSD - Almacenamiento expandible hasta 512 GB
 - Batería de 5000 mAh (típico) Soporta carga de 10W Cargador en caja: 10W
+- Certificación TÜV Rheinland Low Blue Light modo de lectura gestos de pantalla completa Dimensiones: 164.9 x 77.07 x 9.0mm Peso: 194 g Colores disponibles: Gris granito, verde pavo real, azul cielo Revestimiento nano a prueba de salpicaduras *
 - MediaTek Helio G25 - Tecnología de proceso de 12 nm - CPU: 8 x A53 @ 2.0GHz, CPU de octa núcleo - GPU: PowerVR8320, hasta 650MHz
+- Micro USB toma de auriculares de 3,5 mm Doble modo de espera 4G Bandas: - GSM: B2 / 3/5/8 - WCDMA: B1 / 2/4/5/8 - FDD-LTE: B1 / 2/3/4/5/7/8/20/28 - TDD-LTE: B38 / 40/41 (2535-2655MHz) Doble ranura SIM + MicroSD - Almacenamiento expandible hasta 512 GB
 - Cámara principal de 3MP - f / 2.2, AF, 74 ° FOV - Flash único - Efectos del caleidoscopio cámara frontal de 5MP - f / 2.2, 83 ° FOV - Autorretratos - Obturador de palma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

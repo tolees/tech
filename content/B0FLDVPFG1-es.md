@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La funda está diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
-- Toma notas en tus libros conforme la inspiración vaya surgiendo: empieza a escribir sobre la página y la funcionalidad Active Canvas creará un espacio para tus notas. Amplía los márgenes para añadir más notas o escóndelos para ver la página original.
-- Kindle Scribe: todo en uno, Kindle y cuaderno. Pantalla rediseñada con bordes uniformes en blanco y lápiz prémium optimizado, para una experiencia aún más parecida a la de escribir sobre el papel.
-- Adaptador de corriente de 9 W original de Amazon, compatible con la mayoría de dispositivos con puerto micro USB (requiere un cable micro USB, no incluido con el cargador)
-- Materiales de gran calidad: la funda se ha fabricado con piel natural proveniente de proveedores con un certificado Gold proporcionado por el Leather Working Group.
-- Con cuaderno integrado: usa un único dispositivo para tomar notas en tus reuniones, crear listas de tareas y escribir en tu diario o tu cuaderno de journaling. Digitaliza tus notas manuscritas y envíatelas a tu correo o compártelas con tus contactos.
 - Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
+- Con cuaderno integrado: usa un único dispositivo para tomar notas en tus reuniones, crear listas de tareas y escribir en tu diario o tu cuaderno de journaling. Digitaliza tus notas manuscritas y envíatelas a tu correo o compártelas con tus contactos.
+- Adaptador de corriente de 9 W original de Amazon, compatible con la mayoría de dispositivos con puerto micro USB (requiere un cable micro USB, no incluido con el cargador)
+- Kindle Scribe: todo en uno, Kindle y cuaderno. Pantalla rediseñada con bordes uniformes en blanco y lápiz prémium optimizado, para una experiencia aún más parecida a la de escribir sobre el papel.
+- Materiales de gran calidad: la funda se ha fabricado con piel natural proveniente de proveedores con un certificado Gold proporcionado por el Leather Working Group.
+- Toma notas en tus libros conforme la inspiración vaya surgiendo: empieza a escribir sobre la página y la funcionalidad Active Canvas creará un espacio para tus notas. Amplía los márgenes para añadir más notas o escóndelos para ver la página original.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLDVPFG1{{</world>}}
