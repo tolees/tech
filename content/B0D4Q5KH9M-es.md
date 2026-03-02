@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Stories from Sol: The Gun-Dog es una aventura y novela visual con el espíritu de los títulos clásicos de PC-9800. Con una estética vintage de pantalla verde, Space Colony Studios se ha esforzado por crear un juego "fiel a la época" que desprenda vibraciones retro en todos los aspectos
 - Utilizando mecánicas tradicionales de aventuras de point and click, durante tu tiempo en el Gun-Dog, podrás navegar por varios lugares de la nave, examinar los detalles de los fondos ricamente realizados o hablar con los diferentes miembros de la tripulación a bordo.
-- Han pasado cuatro años desde el final de la Guerra Solar y una paz inestable persiste en todo el sistema solar. El buque de patrulla joviano Gun-Dog es enviado en una misión de reconocimiento para investigar señales misteriosas provenientes del borde del espacio joviano
 - Stories from Sol: The Gun-Dog - Starship Edition - PS5
+- Han pasado cuatro años desde el final de la Guerra Solar y una paz inestable persiste en todo el sistema solar. El buque de patrulla joviano Gun-Dog es enviado en una misión de reconocimiento para investigar señales misteriosas provenientes del borde del espacio joviano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4Q5KH9M{{</world>}}

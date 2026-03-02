@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Protección ArmorShell]El realme P3 Lite dispone de protección frente a los derrames, las salpicaduras y el polvo del día a día. De viaje o bajo la lluvia, está diseñado para ofrecer el máximo rendimiento independientemente de lo que te depare el futuro.
-- [UNISOC T7250] Con núcleos de 1,8 GHz, el UNISOC T7250 ofrece un rendimiento de vértigo con MLBB estables a 60 fps durante una hora. Tanto si estás jugando, viendo vídeos o trabajando, este procesador te aporta un rendimiento fluido y con capacidad de respuesta sin sacrificar nada a cambio.
 - [Batería de 6000 mAh]Con una gran batería de 6000 mAh, disfrutarás de 2 días de uso intensivo sin tener que preocuparte de recargar. Tanto si pasas todo el día trabajando como disfrutando de entretenimiento sin límites, estarás hasta arriba de batería y podrás comunicarte cuando más lo necesites.
 - [NEXT AI, Cámara con IA de 50 MP]Equipado con múltiples funciones basadas en IA y el modelo de IA de Google, el realme P3 Lite ofrece una experiencia de IA de nivel superior.Borrado con IA. Elimina lo que sobra en tus fotos más bonitas.
 - [Pantalla con modo de comodidad ocular de 120 Hz]Gracias a la pantalla con modo de comodidad ocular de 120 Hz, descubre efectos visuales realmente fluidos con menos retrasos a la vez que cuidas de tus ojos. Tanto si estás jugando, viendo vídeos o navegando por Internet, disfrutarás de una nitidez vibrante y comodidad durante horas de uso con menos fatiga visual.
+- [Protección ArmorShell]El realme P3 Lite dispone de protección frente a los derrames, las salpicaduras y el polvo del día a día. De viaje o bajo la lluvia, está diseñado para ofrecer el máximo rendimiento independientemente de lo que te depare el futuro.
+- [UNISOC T7250] Con núcleos de 1,8 GHz, el UNISOC T7250 ofrece un rendimiento de vértigo con MLBB estables a 60 fps durante una hora. Tanto si estás jugando, viendo vídeos o trabajando, este procesador te aporta un rendimiento fluido y con capacidad de respuesta sin sacrificar nada a cambio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FN7MHQK6{{</world>}}

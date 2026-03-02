@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Programa horarios y crea automatizaciones y escenas para regular de forma inteligente la temperatura y reducir el consumo de energía de tu hogar
-- Control remoto desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life. Control por voz compatible con Alexa y Google Assistant
-- Dos modos de alimentación: por cable USB (Incluido) o mediante pilas (4x AAA; No incluidas)
-- Incluye tornillos para su instalación en pared y un soporte para su colocación en superficie
-- Tamaño del termostato: 124x88x24,4mm. Tamaño del receptor: 86x86x24mm
-- Termostato Inalámbrico Wifi Inteligente que se conecta a tu caldera para controlar, programar y automatizar la temperatura de tu casa
-- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
 - Pantalla LCD táctil con indicador de temperatura, indicador de funcionamiento y aviso de batería baja
+- Programa horarios y crea automatizaciones y escenas para regular de forma inteligente la temperatura y reducir el consumo de energía de tu hogar
+- Incluye tornillos para su instalación en pared y un soporte para su colocación en superficie
+- Dos modos de alimentación: por cable USB (Incluido) o mediante pilas (4x AAA; No incluidas)
+- Termostato Inalámbrico Wifi Inteligente que se conecta a tu caldera para controlar, programar y automatizar la temperatura de tu casa
 - Regulación de temperatura Manual /Automática. Intervalo de temperatura regulable de 5ºC a 35ºC. Con protección anticongelación y función de ventanas abiertas
+- Tamaño del termostato: 124x88x24,4mm. Tamaño del receptor: 86x86x24mm
+- Control remoto desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life. Control por voz compatible con Alexa y Google Assistant
+- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YDYNSB3{{</world>}}

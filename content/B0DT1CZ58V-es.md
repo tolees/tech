@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: Alto: 25.25 cm - Ancho: 22.33 cm - Largo: 26.79 cm
 - Altavoz Bluetooth Portátil Marshall Emberton III 76 W
-- Peso: 2.71 Kg
 - Referencia Numero: 7340055402279
+- Peso: 2.71 Kg
+- Medidas: Alto: 25.25 cm - Ancho: 22.33 cm - Largo: 26.79 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT1CZ58V{{</world>}}

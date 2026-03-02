@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MOTOR INVERTER, SIN ESCOBILLAS: Ofrece una mejor succión ya que funciona con imanes permanentes que reducen la fricción y las vibraciones y aumentan la velocidad. Gran eficiencia y larga vida útil
-- AUTONOMÍA DE HASTA 120 MIN: El robot aspirador cuenta con una autonomía de hasta 120 minutos gracias a su potente batería de litio. Carga completa en 4-5 horas
 - 2 DEPÓSITOS INDEPENDIENTES: Para una limpieza higiénica y garantizada usa un depósito para la recogida de sólidos (0,35L) y otro depósito dedicado para el agua y el detergente de suelos (0,15L)
 - RETORNO AUTOMÁTICO A LA BASE: H-GO 300 HYDRO vuelve automáticamente a la base de carga una vez ha finalizado la sesión de limpieza o cuando la batería es baja
 - FÁCIL DE CONECTAR: Programa tu H-GO 300 HYDRO a distancia. Se puede conectar con tu smartphone. Usa la app para customizar y programar las sesiones de limpieza desde cualquier lugar
+- MOTOR INVERTER, SIN ESCOBILLAS: Ofrece una mejor succión ya que funciona con imanes permanentes que reducen la fricción y las vibraciones y aumentan la velocidad. Gran eficiencia y larga vida útil
+- AUTONOMÍA DE HASTA 120 MIN: El robot aspirador cuenta con una autonomía de hasta 120 minutos gracias a su potente batería de litio. Carga completa en 4-5 horas
 - FUNCIÓN 2EN1, ASPIRA Y FRIEGA: Al aspirar y fregar en una sola pasada el robot gestiona fácilmente el polvo y la suciedad garantizando suelos impecables. Para madera, baldosas, laminados y piedra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

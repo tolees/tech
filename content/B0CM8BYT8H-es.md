@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Reduce el peso en tu bolsillo: Con un peso de solo 50 g, este cable retráctil USB C a USB C hace que tu herramienta de carga sea más compacta y ligera con su elegante diseño de carga USB C.
-- Extensible en ambos lados: Ajusta la longitud del cable de carga retráctil a tus necesidades tirando de uno de los dos lados del cable USB C a USB C para lograr la longitud que te dé un mejor acceso. El cable retráctil USB C tiene 4 longitudes preestablecidas: 34 cm/58 cm/82 cm/100 cm
 - Alimentación a todos tus dispositivos: Este cable retráctil USB C PD es versátil y compatible para cargar todos tus dispositivos; es tu cable de carga compacto y retráctil para teléfono móvil en viajes. Atención: Este cable USB C es solo para la transferencia de datos y no admite transmisión de vídeo. La velocidad de transferencia de datos es USB 2.0, con 480 Mbps
 - Cable de carga rápida USB C de 100 W: Este cable USB C ofrece velocidades de carga ultrarrápidas con 100 W de potencia para portátiles, tabletas y smartphones.
+- Extensible en ambos lados: Ajusta la longitud del cable de carga retráctil a tus necesidades tirando de uno de los dos lados del cable USB C a USB C para lograr la longitud que te dé un mejor acceso. El cable retráctil USB C tiene 4 longitudes preestablecidas: 34 cm/58 cm/82 cm/100 cm
 - Cable totalmente retráctil: Di adiós a los cables enredados y a un entorno de carga desordenado. Tira del cable retráctil USB C para enrollarlo y guardarlo fácilmente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pequeño pero intenso: el transmisor DJI Mic Mini es pequeño y ultraligero, con un peso de solo 10 g [1], lo que lo hace cómodo de llevar, discreto y atractivo.
-- Audio siempre confiable: DJI Mic Mini cuenta con limitación automática para bajar el volumen si la entrada de audio es demasiado alta, lo que previene el clipping y garantiza un audio de alta calidad en cualquier entorno.
-- Incluye dos transmisores DJI Mic Mini, un receptor móvil y otros accesorios. Disfruta de una configuración de conexión y uso inmediato (plug-and-play) para un uso fluido en entrevistas, streaming en directo, creación de contenido y más, sin necesidad de configuraciones complicadas.
 - Compatibilidad universal: se puede emparejar sin esfuerzo con la serie iPhone 17/16/15, teléfonos Android, PC y tabletas a través del receptor USB-C, para mayor comodidad para grabar en cualquier lugar.
 - Graba durante más tiempo: dos transmisores y un receptor móvil ofrecen un tiempo máximo de funcionamiento de 11.5 horas [5]. El tiempo es suficiente para escenarios de uso intensivo, como entrevistas.
-- Conexión directa con el ecosistema DJI - Con DJI OsmoAudio, un transmisor puede conectarse a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 u Osmo Pocket 3 sin un receptor, para grabar audio de calidad prémium.
+- Audio siempre confiable: DJI Mic Mini cuenta con limitación automática para bajar el volumen si la entrada de audio es demasiado alta, lo que previene el clipping y garantiza un audio de alta calidad en cualquier entorno.
+- Incluye dos transmisores DJI Mic Mini, un receptor móvil y otros accesorios. Disfruta de una configuración de conexión y uso inmediato (plug-and-play) para un uso fluido en entrevistas, streaming en directo, creación de contenido y más, sin necesidad de configuraciones complicadas.
 - Sonido rico en detalles: Mic Mini ofrece audio de alta calidad. Un alcance máximo de transmisión de 300 m [2] garantiza una grabación estable, incluso en entornos exteriores concurridos como una calle muy transitada.
+- Pequeño pero intenso: el transmisor DJI Mic Mini es pequeño y ultraligero, con un peso de solo 10 g [1], lo que lo hace cómodo de llevar, discreto y atractivo.
 - Potente cancelación de ruido - Se ofrecen 2 niveles de cancelación de ruido: Básico, ideal para interiores tranquilos, e Intenso, que destaca en entornos ruidosos para ofrecer voces claras [8].
+- Conexión directa con el ecosistema DJI - Con DJI OsmoAudio, un transmisor puede conectarse a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 u Osmo Pocket 3 sin un receptor, para grabar audio de calidad prémium.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQJH54TR{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RGB CONTROL Y 9 BOTONES PROGRAMABLES: El ratón gamer MM-XT incorpora un sistema RGB control con múltiples modos de iluminación y 9 botones configurables con duraderos switches mecánicos HUANO y un botón de disparo extra incluido
-- COMPATIBILIDAD MULTIPLATAFORMA: El ratón ergonómico MM-XT de Mars Gaming, ofrece conexión multiplataforma total, siendo compatible con PC, Mac, PS4, PS5, XBOX ONE y XBOX SERIES X-S
-- PRECISIÓN ABSOLUTA: El ratón RGB MM-XT equipa el avanzado sensor óptico A825PRO con hasta 12800 DPI, permitiendo ajustar los DPI al instante, aumentando o disminuyendo entre 6 niveles predefinidos 1000/2000/3200/4800/7200/12800 gracias a sus dos botones superiores configurables
 - DISEÑO ERGONÓMICO: La estructura ergonómica con acabado antideslizante del ratón MM-XT incluye una forma natural para reposar el pulgar, proporcionando un cómodo agarre; Además, su cable Feather Paracord trenzado ultraflexible mejora la movilidad sin sacrificar su durabilidad
+- PRECISIÓN ABSOLUTA: El ratón RGB MM-XT equipa el avanzado sensor óptico A825PRO con hasta 12800 DPI, permitiendo ajustar los DPI al instante, aumentando o disminuyendo entre 6 niveles predefinidos 1000/2000/3200/4800/7200/12800 gracias a sus dos botones superiores configurables
+- RGB CONTROL Y 9 BOTONES PROGRAMABLES: El ratón gamer MM-XT incorpora un sistema RGB control con múltiples modos de iluminación y 9 botones configurables con duraderos switches mecánicos HUANO y un botón de disparo extra incluido
 - SOFTWARE DE CONTROL: Maximiza tu rendimiento gracias al software de control descargable Mars Gaming del ratón gaming MM-XT, ajusta y controla funciones avanzadas y crea macros personalizadas
+- COMPATIBILIDAD MULTIPLATAFORMA: El ratón ergonómico MM-XT de Mars Gaming, ofrece conexión multiplataforma total, siendo compatible con PC, Mac, PS4, PS5, XBOX ONE y XBOX SERIES X-S
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTQKDKK1{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Soluciones inalámbricas flexibles - Imprime, escanea y mucho más, directamente desde tu móvil o tableta con la aplicación Epson Smart Panel*. Además, con la aplicación Epson Creative Print, puedes usar tus fotos para crear e imprimir álbumes fotográficos, tarjetas de felicitación, collages y mucho más.
-- 3 meses de suscripción gratuita a ReadyPrint Flex* - Para nuevos clientes, puedes conseguir los primeros 3 meses gratis si te registras con el código AMAZON3. Suscríbete y ahorra hasta un 70 % en costes de tinta* con ReadyPrint Flex y no vuelvas nunca a quedarte sin ella. Los niveles de tinta de tu impresora se monitorizan para que recibas tinta de repuesto directamente a la puerta de tu casa, ¡antes de que se te agote!
 - Facilidad de uso - Al contar con una amplia variedad de funciones esenciales de fácil uso, con la XP-3200 podrás imprimir y escanear de forma inalámbrica desde cualquier lugar, y con Wi-Fi Direct podrás imprimir sin necesidad de conectarte a una red inalámbrica. Su pantalla LCD de 3,7 cm permite copiar e imprimir fácilmente sin necesidad de PC y con la impresión a doble cara reducirás el gasto de papel.
 - Una solución asequible - El juego de tintas de cuatro colores Piña 604 de Epson proporciona copias precisas y nítidas con un gasto mínimo. Además, reducen los costes de impresión con tintas individuales y asequibles en cartuchos estándar y XL.
 - Elegante y con estilo - Este modelo asequible aprovecha al máximo el espacio disponible al combinar impresión, escaneado y copia en un solo dispositivo.
+- 3 meses de suscripción gratuita a ReadyPrint Flex* - Para nuevos clientes, puedes conseguir los primeros 3 meses gratis si te registras con el código AMAZON3. Suscríbete y ahorra hasta un 70 % en costes de tinta* con ReadyPrint Flex y no vuelvas nunca a quedarte sin ella. Los niveles de tinta de tu impresora se monitorizan para que recibas tinta de repuesto directamente a la puerta de tu casa, ¡antes de que se te agote!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8X3THPT{{</world>}}

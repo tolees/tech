@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El AP1300D es compatible tanto con la fuente de alimentación CC como con la fuente de alimentación PoE, y viene con un cable de red y un adaptador de alimentación, lo que le permite elegir el escenario de uso que más le convenga y proporcionar una red eficiente.
 - Velocidades superiores AC1200 de doble banda con MU-MIMO. Diseñado con la tecnología WiFi 5, AP1300D puede ofrecer de forma fiable velocidades Wi-Fi de doble banda de hasta 867 Mbps + 300 Mbps simultáneamente.
 - Funciona con Cudy Access Point Controller para admitir gestión central, gestión de grupos, gestión de canales, portal cautivador, tecnología de malla y otras características avanzadas.
-- El AP1300D es compatible tanto con la fuente de alimentación CC como con la fuente de alimentación PoE, y viene con un cable de red y un adaptador de alimentación, lo que le permite elegir el escenario de uso que más le convenga y proporcionar una red eficiente.
 - A diferencia de otros AP, AP1300D tiene 4 antenas externas con excelente rendimiento, diseño de aspecto más novedoso y elimina el proceso de instalación montado en la pared, por lo que es más cómodo de usar.
 - Desktop AP, puedes disfrutar de Wi-Fi estable y de alta velocidad después de una configuración.
 

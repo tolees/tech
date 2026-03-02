@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CANCELACIÓN DE RUIDO ADAPTADA AUTOMÁTICAMENTE: Space A40 detecta ruidos externos y selecciona automáticamente un nivel de cancelación de ruido adecuado a su entorno. Disfrute de su espacio personal, ya sea en el interior, en el exterior, en los desplazamientos diarios o en los vuelos.
 - 50 HORAS DE ESPACIO PERSONAL: Suficiente tiempo de reproducción para disfrutar hasta 1000 canciones o 25 películas. Los auriculares ofrecen 10 horas de reproducción con una sola carga y con la carga rápida podrá escuchar durante 4 horas después de una carga de solo 10 minutos.
 - SONIDO MUY DETALLADO: Gracias a los controladores de diafragma de doble capa de Soundcore pioneros, los auriculares con cancelación de ruido Space A40 producen sonido con graves fuertes, medios claros y agudos vivos. También puede escuchar usando el modo LDAC para un sonido inalámbrico de audio de alta resolución.
+- CANCELACIÓN DE RUIDO ADAPTADA AUTOMÁTICAMENTE: Space A40 detecta ruidos externos y selecciona automáticamente un nivel de cancelación de ruido adecuado a su entorno. Disfrute de su espacio personal, ya sea en el interior, en el exterior, en los desplazamientos diarios o en los vuelos.
 - CÓMODOS, INDEPENDIENTEMENTE DEL TIEMPO QUE ESCUCHE: Los auriculares inalámbricos con cancelación de ruido Space A40 son más pequeños que otros auriculares Soundcore ANC, son tan ligeros como una hoja de papel y tienen una forma ergonómica para adaptarse cómodamente a sus oídos.
 - REDUCE EL RUIDO HASTA EN UN 98%: Space A40 cuenta con un sistema de cancelación de ruido mejorado para bloquear una mayor variedad de ruidos que distraen. Así, siempre tendrá espacio para concentrarse vaya donde vaya.
 

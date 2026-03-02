@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bajo consumo con interfaz Green Ethernet para apagar puertos que no estén en uso. Sin ventiladores, chasis metálico, formato sobremesa.
+- Proporciona la mejor conectividad de red Ethernet LAN con velocidades de hasta 2.500 Mbps, más allá del estándar Gigabit (1.000 Mbps)
 - IGMP Snooping para acelerar el rendimiento de los servicios que requieren mucho ancho de banda, como la IP TV.
 - Conmutador sin gestión, Plug&Play y con QoS para priorización de tráfico automática a los dispositivos con mayor demanda.
 - Nueva generación de switches Multigigabit, con 8 puertos 2.5 Gigabit (2.500 Mbps)
-- Bajo consumo con interfaz Green Ethernet para apagar puertos que no estén en uso. Sin ventiladores, chasis metálico, formato sobremesa.
-- Proporciona la mejor conectividad de red Ethernet LAN con velocidades de hasta 2.500 Mbps, más allá del estándar Gigabit (1.000 Mbps)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PS20P9G{{</world>}}

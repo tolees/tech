@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Funcionamiento silencioso: no equipa ventilador al no disipar mucho calor, por lo que la durabilidad del producto es superior
+- Tabla de MAC de hasta 8000 entradas, IGMP Snooping, Spanning Tree, detección de bucles, agregación de enlaces, port mirroring, filtrado de tráfico multicast, ACLs, QoS, CoS, DHCP Snooping
 - Tecnología D-Link Green: Los puertos que no se utilizan no consumen energía, y los que sí, emplean la mínima necesaria para una óptima transmisión de datos
 - Con tecnología non-blocking y capacidad de conmutación de hasta 20 Gbps sin bloqueos, creación automática de VLANs para video vigilancia y telefonía IP
-- Tabla de MAC de hasta 8000 entradas, IGMP Snooping, Spanning Tree, detección de bucles, agregación de enlaces, port mirroring, filtrado de tráfico multicast, ACLs, QoS, CoS, DHCP Snooping
-- Funcionamiento silencioso: no equipa ventilador al no disipar mucho calor, por lo que la durabilidad del producto es superior
 - Switch conmutador de red de nivel 2, de 8 puertos 10/100/1000 Mbps y 2 puertos SFP para módulos de fibra, en formato para armario rack y 1U de altura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

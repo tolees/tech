@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Alimentación mejorada: 8+2 etapas de potencia, toma ProCool, componentes TUF y Digi+ VRM para una vida útil larga
 - Diseñada para gaming online: Wi-Fi 6, Realtek 2.5 Gb Ethernet y TUF LANGuard
 - Zócalo AMD AM4: Compatible con los procesadores AMD Ryzen de las series 5000, 5000 G, 4000 G y 3000
-- Alimentación mejorada: 8+2 etapas de potencia, toma ProCool, componentes TUF y Digi+ VRM para una vida útil larga
 - Refrigeración completa: Disipadores VRM, PCH y M.2, conectores de ventilación híbrida y Fan Xpert 2+
 - Conectividad: M.2 PCIe 4.0, USB 3.2 Gen. 2 de tipo A tipo C
 

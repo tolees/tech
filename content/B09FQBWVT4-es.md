@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón. G502 HERO incluye cinco pesas de 3,6 g que se pueden usar en diversas configuraciones de peso
 - 11 Botones Programables y Botón Rueda Superrápido con Dos Modos: El ratón con cable para gaming Logitech G permite personalizar tu configuración para controlar totalmente el juego
+- Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón. G502 HERO incluye cinco pesas de 3,6 g que se pueden usar en diversas configuraciones de peso
 - Sensor HERO 25K: La próxima generación de sensor óptico HERO para ratón ofrece precisión al más alto nivel hasta 25 600 DPI sin suavizado, filtrado ni aceleración
 - Calidad de voz superior: hazte oír alto y claro gracias a los micrófonos duales integrados que eliminan la necesidad de un brazo de micrófono y reducen el ruido de fondo
 - Ligeros: con una construcción ligera, estos auriculares inalámbricos para gaming solo pesan 165 g (5,8 oz), por lo que son cómodos de llevar durante todo el día

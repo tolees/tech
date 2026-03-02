@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Allows m.2 PCIe NVME SSD to replace SSD mz-jpu128t 2013-2015/sd6pq4m-128g MacBook
-- Supports ADATA SX700, Toshiba xg3/4/5, Intel 600P,
-- Support Kingston shpm2280p2/240g/480g, kc1000
-- Important Note: Please read from our website before you buy it, install OS from external USB hard drive driver installation AXIS Guider (m.2 PCIe has inside without OS systerm, it must be deleted first) if you do not know how to do this, please send message then we can install it AXIS Guider for your reference.
 - Supports Samsung SM951, 950 960 Pro, 960 EVO
+- Supports ADATA SX700, Toshiba xg3/4/5, Intel 600P,
+- Important Note: Please read from our website before you buy it, install OS from external USB hard drive driver installation AXIS Guider (m.2 PCIe has inside without OS systerm, it must be deleted first) if you do not know how to do this, please send message then we can install it AXIS Guider for your reference.
+- Allows m.2 PCIe NVME SSD to replace SSD mz-jpu128t 2013-2015/sd6pq4m-128g MacBook
+- Support Kingston shpm2280p2/240g/480g, kc1000
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FYY3H5F{{</world>}}

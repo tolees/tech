@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de configurar: solo tienes que escanear el código QR con tu teléfono y la tecnología inteligente se encargará del resto.
-- Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
-- Cartuchos de gran calidad: consigue fotografías perfectas y con una gran duración de hasta 100 años gracias a los cartuchos Fine originales de Canon.
 - Impresora compatible con los cartuchos de tinta Canon originales: PG-560 negra, CL-561 color y PG-560XL negra, CL-561XL color.
-- Aumenta la productividad: podrás copiar o escanenar varias hojas sin necesidad de hacerlo una a una gracias a la tecnología del alimentador automático de documentos (ADF).
 - Impresora Canon multifunción 3 en 1: inteligente y práctica. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Fácil de configurar: solo tienes que escanear el código QR con tu teléfono y la tecnología inteligente se encargará del resto.
+- Aumenta la productividad: podrás copiar o escanenar varias hojas sin necesidad de hacerlo una a una gracias a la tecnología del alimentador automático de documentos (ADF).
+- Cartuchos de gran calidad: consigue fotografías perfectas y con una gran duración de hasta 100 años gracias a los cartuchos Fine originales de Canon.
+- Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQCKM7FL{{</world>}}

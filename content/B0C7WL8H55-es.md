@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con el paso de las estaciones, pondrás en práctica todo lo que hayas aprendido y descubierto para devolverle al mundo que te rodea su antiguo esplendor.
-- Escapa al cuento de hadas con el que siempre ha soñado en Fae Farm. un juego de rol y simulación para hasta 4 personas.
-- Crea, cultiva y decora tu finca, y usa hechizos para explorar la encantadora isla Azoria.
 - Forjarás nuevos lazos con los isleños, descubrirá la magia de las hadas y recorrerás paisajes misteriosos.
+- Crea, cultiva y decora tu finca, y usa hechizos para explorar la encantadora isla Azoria.
+- Escapa al cuento de hadas con el que siempre ha soñado en Fae Farm. un juego de rol y simulación para hasta 4 personas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7WL8H55{{</world>}}

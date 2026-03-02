@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DIFERENTES PERSONAJES: Conoce a muchos personajes coloridos, desde tu mejor amigo Mr. Baesie, la malvada e insnsible lechuza Velenia, el malvado y aterrador Sr. Kyn y las voraces colonias de conejos de alquitrán
+- MUNDO REAL Y FANTÁSTICO: La correspondencia secreta entre Carole y un misterioso "francés" impulsa a Lana a investigar lo suficiente como para encontrarse sobreviviendo, oscilando entre el mundo real mortal y el fantástico reino de Corolla
 - UNIVERSO DIBUJADO A MANO: Sumérgete en un universo dibujado a mano que cobra vida con técnicas cinematográficas inspiradas en las mejores películas animadas. Un viaje único nacido de la unión de dos géneros diametralmente opuestos: un cuento animado tradicional, en la tradición más típica de las princesas del mundo de la animación cinematográfica, y un survival horror con elementos de plataformas antiguas.
 - PRINCIPIOS DEL SIGLO XX: Ubicada a principios del siglo XX, en una época en la que el fenómeno del movimiento político feminista comienza a sacudir a la nación británica. Lana Benton, una joven huésped del inquietante orfanato Bunny Hall, es la única que sospecha que su mejor amiga, Carole, no simplemente huyó.
-- MUNDO REAL Y FANTÁSTICO: La correspondencia secreta entre Carole y un misterioso "francés" impulsa a Lana a investigar lo suficiente como para encontrarse sobreviviendo, oscilando entre el mundo real mortal y el fantástico reino de Corolla
 - JUEGO DE TERROR: "Bye Sweet Carole" es un juego narrativo de horror inspirado en las mejores películas de animación y creado por Chris Darril (serie Remothered). Sigue la última pista conocida de Carole Simmons y descubre lo que está sucediendo en el siniestro Bunny Hall...
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

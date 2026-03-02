@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 1. Compacto y portátil: juega en cualquier lugar y en cualquier momento. Diseño ultrapequeño (7 x 4,3 x 1,5 cm) y ligero (27 g): engancha el dispositivo a las llaves o guárdalo en el bolsillo. Llévate tus juegos favoritos sin esfuerzo y sin volumen.
-- 5. Paquete listo para jugar: todo lo que necesitas. Incluye mando, cable de carga y manual de usuario: desempaquétalo, conéctalo y empieza a jugar inmediatamente.
 - 4. Precisión para juegos en 2D + Actualización preparada para el futuro Perfecto para juegos de plataformas en 2D, retro e independientes con un control preciso. Firmware actualizable para mantener la compatibilidad con futuras actualizaciones del sistema: invierte una vez y juega siempre.
-- 3. Recargable y duradero: ahorra dinero, juega más. Batería integrada de 200 mAh (no requiere pilas desechables). Se carga completamente en 2-3 horas mediante el cable USB incluido, lo que proporciona un tiempo de juego prolongado y fiable para una diversión sin interrupciones.
+- 5. Paquete listo para jugar: todo lo que necesitas. Incluye mando, cable de carga y manual de usuario: desempaquétalo, conéctalo y empieza a jugar inmediatamente.
 - 2. Compatibilidad universal: un mando para todos los dispositivos. Funciona a la perfección con Nintendo Switch, Android, iOS y PC. Admite los modos X-INPUT/D-INPUT/PC-SWITCH, además de conexiones Bluetooth y por cable, por lo que es compatible con todas tus plataformas de juego.
+- 1. Compacto y portátil: juega en cualquier lugar y en cualquier momento. Diseño ultrapequeño (7 x 4,3 x 1,5 cm) y ligero (27 g): engancha el dispositivo a las llaves o guárdalo en el bolsillo. Llévate tus juegos favoritos sin esfuerzo y sin volumen.
+- 3. Recargable y duradero: ahorra dinero, juega más. Batería integrada de 200 mAh (no requiere pilas desechables). Se carga completamente en 2-3 horas mediante el cable USB incluido, lo que proporciona un tiempo de juego prolongado y fiable para una diversión sin interrupciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FNVZ96T4{{</world>}}

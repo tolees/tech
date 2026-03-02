@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ELIGE BANDO: detén a Nemesis Prime como un Autobot o un Decepticon.
 - SÉ EL MÁS RÁPIDO: derrapa y acelera por 10 circuitos llenos de acción.
-- LUCHA HASTA EL FINAL: compite en una frenética fusión entre carreras y combate.
 - MULTIJUGADOR LOCAL: enfréntate a tus amigos en el Modo Versus.
+- LUCHA HASTA EL FINAL: compite en una frenética fusión entre carreras y combate.
 - SUBE DE NIVEL: mejora y personaliza a 11 icónicos Transformers.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con certificación USB-C PD 3.0 PPS para suministrar una carga segura y rápida a tu dispositivo compatible.
 - Certificación USB-IF
-- Cargador de pared USB-C para llenar por carga rápida, de 0 al 50 % en 24 minutos, la batería de un iPhone 14 o un Galaxy S22 Ultra.
-- Diseño compacto, perfecto para viajar.
 - El suministro de corriente dinámico de la tecnología PPS habilita hasta 25 W para smartphones de Samsung y hasta 27 W para iPhone 14 Pro.
+- Diseño compacto, perfecto para viajar.
+- Cuenta con certificación USB-C PD 3.0 PPS para suministrar una carga segura y rápida a tu dispositivo compatible.
+- Cargador de pared USB-C para llenar por carga rápida, de 0 al 50 % en 24 minutos, la batería de un iPhone 14 o un Galaxy S22 Ultra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3NDR9PK{{</world>}}

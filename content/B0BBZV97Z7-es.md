@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Quantum 2.0 inalámbrico dual sin desfase con una conexión de 2,4 GHz y Bluetooth 5.0
-- TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
-- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
-- VELOCIDAD DESATADA E INFINITAMENTE PERSONALIZABLE con interruptores HyperMagnetic ajustables OmniPoint 2.0
-- Factor de forma TKL para Esports. Funcionalidad de tamaño completo. Placa superior de aluminio de alta calidad. USB-C extraíble.
 - EL TECLADO MÁS RÁPIDO DEL MUNDO: accionamiento 20 veces más rápido, respuesta 11 veces superior a la de los teclados mecánicos tradicionales
+- TECLAS DE ACCIÓN 2 EN 1: programa dos acciones diferentes para la misma tecla, como pulsar ligeramente para caminar o correr pulsando más fuerte
+- Quantum 2.0 inalámbrico dual sin desfase con una conexión de 2,4 GHz y Bluetooth 5.0
+- RAPID TRIGGER- Erradica la latencia del movimiento físico del interruptor con activación/desactivación dinámica de teclas por su recorrido en vez de por un punto fijo en el recorrido de la tecla.
+- Factor de forma TKL para Esports. Funcionalidad de tamaño completo. Placa superior de aluminio de alta calidad. USB-C extraíble.
+- VELOCIDAD DESATADA E INFINITAMENTE PERSONALIZABLE con interruptores HyperMagnetic ajustables OmniPoint 2.0
 - CONTROL TOTAL: 40 niveles de accionamiento por tecla (0,1 - 4,0 mm); ajusta las teclas WASD para movimientos suaves y ultrarrápidos, y las teclas de habilidad para pulsarlas a fondo y evitar que se activen accidentalmente las especiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

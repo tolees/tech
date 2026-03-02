@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El diseño impermeable te permite enjuagar la cortadora con agua corriente, lo que facilita el mantenimiento y la higiene
 - Hojas de 45 grados: hojas de corte preciso de acero inoxidable con un ángulo de 45 grados fabricadas en Japón y su arte japonés de creación de espadas muy afiladas y resistentes
-- WET & DRY: puedes usarla tanto en seco como en húmedo dentro de la ducha o bañera, además es 100 % lavable con agua
 - El diseño compacto y ligero permite mover la recortadora suavemente por la barba sin dañar la piel, adecuado para todo tipo de pieles
 - Peine -Guía: 20 ajustes de longitud de entre 0,5 mm a 10 mm, con intervalos de 0,5mm, para recortar el vello fácilmente según la longitud deseada
+- WET & DRY: puedes usarla tanto en seco como en húmedo dentro de la ducha o bañera, además es 100 % lavable con agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XYNLWC1{{</world>}}

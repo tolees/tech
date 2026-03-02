@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempo de respuesta 1 ms VRB
+- Soporte ergonómico con inclinación de pantalla -5° a 15°
 - Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 180 Hz, 250 nits
 - Tecnología anti-fragmentación AMD FreeSync Premium
-- Soporte ergonómico con inclinación de pantalla -5° a 15°
+- Tiempo de respuesta 1 ms VRB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C28QPGR2{{</world>}}

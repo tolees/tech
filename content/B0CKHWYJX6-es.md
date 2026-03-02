@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Planificación inteligente de la distribución de la vivienda: navegación laser LDS, mapeo rápido y preciso.
 - Tres ajustes de agua: humedad constante sin empapar el suelo. Capacidad del depósito de agua 170ml.
-- Limpieza potente: potente aspiración de 3500Pa, 4 modos de succión ajustables y gran batería de 3200mAh.
-- Sensores de prevención incorporados, rutas de limpieza en zigzag y en Y. Capacidad depósito de polvo 300 ml.
 - Funciones de mapeo personalizadas: separación y limpieza por zonas, paredes virtuales y zonas restringidas.
+- Sensores de prevención incorporados, rutas de limpieza en zigzag y en Y. Capacidad depósito de polvo 300 ml.
+- Limpieza potente: potente aspiración de 3500Pa, 4 modos de succión ajustables y gran batería de 3200mAh.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKHWYJX6{{</world>}}

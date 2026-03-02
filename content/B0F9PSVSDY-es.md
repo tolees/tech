@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Syberia Remastered - Limited Edition - PS5'
-date: 2026-02-26 16:09:15
+date: 2026-03-01 21:47:21
 image: 'https://m.media-amazon.com/images/I/51Ck7XU9m1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9PSVSDY/?tag=tolees-21'
 descuento: '37.51'
-average: '27.445'
+average: '26.6266666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

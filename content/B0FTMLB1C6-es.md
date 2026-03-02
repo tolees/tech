@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goodnight Universe es una aventura narrativa para un jugador en la que encarnas a Isaac, un bebé de seis meses que está desarrollando misteriosos poderes psíquicos.
-- Esta edición física incluye un código de Bandcamp que desbloquea la banda sonora del juego y un libro de arte digital que te lleva entre bastidores - desde los primeros conceptos y bocetos hasta los materiales finales usados en el juego.
 - El juego presenta una narrativa ramificada con decisiones de efecto dominó: tus elecciones moldean sutilmente las escenas y conducen a finales alternativos.
+- Esta edición física incluye un código de Bandcamp que desbloquea la banda sonora del juego y un libro de arte digital que te lleva entre bastidores - desde los primeros conceptos y bocetos hasta los materiales finales usados en el juego.
+- Goodnight Universe es una aventura narrativa para un jugador en la que encarnas a Isaac, un bebé de seis meses que está desarrollando misteriosos poderes psíquicos.
 - Goodnight Universe es el ganador del Tribeca Games Award 2024.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

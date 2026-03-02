@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Graba video 6K de calidad cinematográfica con la clasificación de velocidad de video clase 60 (V60), además de video de cámara estándar a lenta en 4K UHD y Full HD.
-- Diseñado para prosumidores y profesionales que disparan con cámaras avanzadas MIL, MIL-FF de doble ranura y cine (UHS-II, V60, U3, C10).
-- Captura imágenes superlativas en modo de ráfaga continua y lapso de tiempo con velocidades de disparo de hasta 150 MB/s.
 - Ahorra tiempo con descargas rápidas de tarjetas que alcanzan velocidades de transferencia de hasta 280 MB/s y almacena más archivos de video e imagen de alta resolución con opciones de capacidad que van desde 64 GB hasta 1 TB.
+- Captura imágenes superlativas en modo de ráfaga continua y lapso de tiempo con velocidades de disparo de hasta 150 MB/s.
+- Diseñado para prosumidores y profesionales que disparan con cámaras avanzadas MIL, MIL-FF de doble ranura y cine (UHS-II, V60, U3, C10).
+- Graba video 6K de calidad cinematográfica con la clasificación de velocidad de video clase 60 (V60), además de video de cámara estándar a lenta en 4K UHD y Full HD.
 - Relájate con una tarjeta construida para durar y soportar entornos extremos respaldados por una garantía limitada de por vida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

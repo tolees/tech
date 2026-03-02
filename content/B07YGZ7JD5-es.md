@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimizada para uso con dispositivos Android
+- Capacidad de la memoria: 128 GB es_es
 - Compatibilidad: UHS-I, U1, V10, A1 (32 GB-128 GB); UHS-I, U3, V30, A1 (256 GB-512 GB)
 - Dimensiones : " 11 mm x 15 mm x 1 mm (microSD) "": """24 mm x 32 mm x 2,1 mm (con adaptador de SD) ""
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
-- Capacidad de la memoria: 128 GB es_es
 - Tipo de memoria flash: Micro SD
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Optimizada para uso con dispositivos Android
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YGZ7JD5{{</world>}}

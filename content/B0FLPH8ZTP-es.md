@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñado para viajar ligero: compacto y ligero, está pensado para viajar, desplazamientos diarios y configuraciones de trabajo desde cualquier lugar.
 - Carga 4 en 1: el diseño de 4 puertos incluye 3 puertos USB-C y 1 puerto USB-A con una potencia combinada de 64,5 W.
 - Aprovecha la potencia rápida máxima de 70 W: cada puerto USB-C admite una salida de hasta 70 W para proporcionar una carga rápida a tu portátil.
-- Diseñado para viajar ligero: compacto y ligero, está pensado para viajar, desplazamientos diarios y configuraciones de trabajo desde cualquier lugar.
 - Carga dos dispositivos a la vez: utiliza dos puertos USB-C juntos para cargar tu portátil a 45 W y tu teléfono a 25 W.
 - Lo que obtienes: cargador Anker Zolo (70 W, 4 puertos), guía de bienvenida, garantía de 18 meses y nuestro amable servicio de atención al cliente.
 

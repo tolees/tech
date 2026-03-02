@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- KILLER CO-OP Desmantela hordas zed en salvaje hasta 6 jugadores, o enfréntate al campo de batalla en solitario.
 - ARMAS MORTALES Personaliza tu arsenal para desatar tu propia carnicería.
-- DAY ONE EDITION: La Edición de Día Uno incluye el Paquete Táctico Flatline: diseño de arma «Flatliner», skin de arma «Teme a la Parca» y carta de jugador «Fuerza de Acción Especial». También incluye (en exclusiva) el DLC cosmético Patrulla de Clamefield.
+- KILLER CO-OP Desmantela hordas zed en salvaje hasta 6 jugadores, o enfréntate al campo de batalla en solitario.
 - ZEDS IMPLACABLES Más listos, más rápidos, más letales: prepárate a los zeds más letales hasta la fecha.
+- DAY ONE EDITION: La Edición de Día Uno incluye el Paquete Táctico Flatline: diseño de arma «Flatliner», skin de arma «Teme a la Parca» y carta de jugador «Fuerza de Acción Especial». También incluye (en exclusiva) el DLC cosmético Patrulla de Clamefield.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQLPG9FB{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñado para el juego: Incluye dos disparadores analógicas de presión, dos motores de vibración y un panel de dirección de ocho direcciones te ayuda a mantener el control
 - Sentidos de vibraciones reales: el mando está equipado con un motor de doble vibración que proporciona N tipos de efectos de vibración según la escena del juego, y proporciona retroalimentación de fuerza real en el juego.Le da una buena sensación de presencia, reproduce la sensación realista del juego.
 - Compatible con múltiples plataformas: Controlador Cable System-Precision para Microsoft Xbox 360 / Xbox 360 / PC (Windows XP / 7/8/10). Nota:Este es el controlador de la marca Zexrow, y fabricado por una fábrica de terceros.
+- Diseñado para el juego: Incluye dos disparadores analógicas de presión, dos motores de vibración y un panel de dirección de ocho direcciones te ayuda a mantener el control
 - Diseño ergonomico: Tiene el mismo tamaño que el original para el controlador de Xbox 360. Mejor diseño ergonómico: proporciona un gran comodidad y un gameplay sin fin, de nuevos botones de hombro izquierdo y derecho están diseñados para facilitar el uso.
 - conecta y reproduce: El cable USB se extiende a 200 cm. Puedes sentarte y disfrutar del juego un poco más lejos de la consola. Una vez que el puerto USB está conectado a la computadora, puede iniciar el juego, los controladores personalizados de Xbox 360 son fáciles de instalar y requieren sin ningún software.
 

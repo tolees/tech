@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Remix de eventos y episodios memorables de la serie.
 - Elenco de enemigos populares entre los fans, sacados de las distintas temporadas de la exitosa serie televisiva.
-- Acción y peleas en 2D con secuencias de disparos y conducción de vehículos de estilo arcade.
-- Estilo clásico de los 90, con gráficos de pixel art dibujados a mano.
 - Pilotea todos los Dinozords originales.
+- Remix de eventos y episodios memorables de la serie.
+- Estilo clásico de los 90, con gráficos de pixel art dibujados a mano.
+- Acción y peleas en 2D con secuencias de disparos y conducción de vehículos de estilo arcade.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCFNN5J{{</world>}}

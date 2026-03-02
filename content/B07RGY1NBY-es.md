@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO PEQUEÑO - Diseño compacto para instalación flexible y sin ocupar mucho espacio
 - FÁCIL EXTENSIÓN - Conecte sus dispositivos a través de cable RJ45
 - 8 PUERTOS GIGABIT - Puerto Ethernet RJ45 10/100/1000Mbps con auto negociación y con soporte MDI/MDIX
 - PLUG & PLAY - Sin necesidad de configuración, simplemente conecte y listo
 - AHORRO DE ENERGÍA -Tecnología Green Ethernet permite un ahorro energético de hasta 82%
+- DISEÑO PEQUEÑO - Diseño compacto para instalación flexible y sin ocupar mucho espacio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RGY1NBY{{</world>}}

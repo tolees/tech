@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atraviesa un mundo vibrante, reúne unidades y lidéralas en batallas con exquisitas animaciones.
-- Amasa un ejército espectacular con 60 personajes únicos, entre los que encontrarás humanos, elfos, bestias enormes y ángeles celestiales
 - Realiza heroicas hazañas y adquiere fama y gloria en cinco naciones distinta
+- Amasa un ejército espectacular con 60 personajes únicos, entre los que encontrarás humanos, elfos, bestias enormes y ángeles celestiales
+- Atraviesa un mundo vibrante, reúne unidades y lidéralas en batallas con exquisitas animaciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJVYQVQ{{</world>}}

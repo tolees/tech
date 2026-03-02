@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sistema de cámaras de 50 MP y objetivo ultra gran angular; captura fotos impresionantes con todo lujo de detalle, de día o de noche, y abarca más en el encuadre con el objetivo ultra gran angular
-- Imagen y sonido que nunca imaginaste; deja que tu contenido favorito cobre vida en una pantalla FHD+ supernítida y brillante de 6.72 combinada con unos altavoces estéreo potentes con refuerzo de graves
-- Elegante y resistente; disfruta de un aspecto y una sensación de calidad con su diseño en cuero vegano, repelente al agua y con cristal Corning Gorilla Glass 3
 - Rendimiento rápido con la función Expansión de memoria; siente la vertiginosa velocidad de un procesador de ocho núcleos y la capacidad mejorada de hacer varias cosas a la vez
+- Elegante y resistente; disfruta de un aspecto y una sensación de calidad con su diseño en cuero vegano, repelente al agua y con cristal Corning Gorilla Glass 3
+- Imagen y sonido que nunca imaginaste; deja que tu contenido favorito cobre vida en una pantalla FHD+ supernítida y brillante de 6.72 combinada con unos altavoces estéreo potentes con refuerzo de graves
 - Batería de 5200 mAh y carga TurboPower; disfruta de una batería de larga duración y obtén horas de autonomía en pocos minutos de carga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

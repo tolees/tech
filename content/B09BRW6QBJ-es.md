@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Digitaliza tus notas manuscritas: comparte tus notas con tus contactos, llévalas contigo y visualízalas con la app de Kindle.
-- Toma notas a mano mientras lees: anota los libros que quieras de entre los millones de títulos disponibles en la Tienda Kindle.
-- Importa y anota documentos: revisa y toma notas manuscritas directamente en tus PDF o crea notas en documentos de Microsoft Word.
-- El único Kindle que es a la vez un cuaderno digital y que tiene su propio lápiz: lee y anota a mano tus ideas mientras lees un libro o en cuadernos independientes, todo sin distracciones.
-- Descubre los cuadernos Kindle: cuadernos digitales para que desarrolles tu escritura. Ten tu diario personal de journaling, dibuja, toma notas y más.
 - Nuestro Kindle con mayor duración de batería: a diferencia de los tablets, el Kindle Scribe te brinda meses de lectura y semanas de escritura con tan solo una carga.
+- Toma notas a mano mientras lees: anota los libros que quieras de entre los millones de títulos disponibles en la Tienda Kindle.
+- El único Kindle que es a la vez un cuaderno digital y que tiene su propio lápiz: lee y anota a mano tus ideas mientras lees un libro o en cuadernos independientes, todo sin distracciones.
 - Lee y escribe con la misma naturalidad que sobre el papel: este dispositivo cuenta con la primera pantalla Paperwhite de 10,2" y 300 ppp, sin reflejos y con luz frontal.
+- Descubre los cuadernos Kindle: cuadernos digitales para que desarrolles tu escritura. Ten tu diario personal de journaling, dibuja, toma notas y más.
+- Importa y anota documentos: revisa y toma notas manuscritas directamente en tus PDF o crea notas en documentos de Microsoft Word.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BRW6QBJ{{</world>}}

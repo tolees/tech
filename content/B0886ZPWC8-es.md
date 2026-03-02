@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Controlador MIDI alimentado por USB con 25 mini teclas sensibles a la velocidad para la producción musical en estudio o en casa, el control de sintetizadores virtuales y la creación de ritmos
-- Elige tu exclusivo paquete NKS gratuito - explora y controla los presets y librerías de sonidos de Native Instruments; escoge uno de los tres paquetes Komplete 15 Select: Beats, Band o Electronic
-- Control completo de tus efectos e instrumentos virtuales- 8 perillas de 360 grados asignadas a todos los plugins de tu estudio para mezclar, ajustar los controles del sintetizador, etc
-- Personaliza tu MPK Mini MK3- descarga el editor y aprende a asignar manualmente los mandos y el joystick, ajustar el teclado y el arpegiador, almacenar tus propios programas y mucho más
-- Más de 1500 sonidos y todo lo que necesitas para la producción profesional- kit completo de iniciación a la producción musical con MPC Beats, 3 instrumentos virtuales y 2 GB de contenido sonoro
-- Control total de tu producción- innovador joystick de 4 ejes para el control dinámico del tono y la modulación, además de arpegiador integrado con resolución, rango y modos ajustables
-- 8 drum pads MIDI retroiluminados y sensibles a la velocidad, de estilo MPC, botones Note Repeat y Full Level para programar ritmos, disparar muestras y controlar sintetizadores virtuales/DAW
 - Integración de Native Kontrol Standard (NKS) - Akai Professional y Native Instruments se han asociado para llevar el soporte NKS a la serie de controladores MPK; prepárate para controlar desde tu MPK
+- Control total de tu producción- innovador joystick de 4 ejes para el control dinámico del tono y la modulación, además de arpegiador integrado con resolución, rango y modos ajustables
+- Más de 1500 sonidos y todo lo que necesitas para la producción profesional- kit completo de iniciación a la producción musical con MPC Beats, 3 instrumentos virtuales y 2 GB de contenido sonoro
 - Consigue dos meses de Splice - Desbloquea la biblioteca de samples definitiva, ahora incluida con la compra de cualquier MPK o MPC; Registra tu producto y canjea 60 días de acceso al plan Splice Creator
+- Controlador MIDI alimentado por USB con 25 mini teclas sensibles a la velocidad para la producción musical en estudio o en casa, el control de sintetizadores virtuales y la creación de ritmos
+- Personaliza tu MPK Mini MK3- descarga el editor y aprende a asignar manualmente los mandos y el joystick, ajustar el teclado y el arpegiador, almacenar tus propios programas y mucho más
+- Control completo de tus efectos e instrumentos virtuales- 8 perillas de 360 grados asignadas a todos los plugins de tu estudio para mezclar, ajustar los controles del sintetizador, etc
+- 8 drum pads MIDI retroiluminados y sensibles a la velocidad, de estilo MPC, botones Note Repeat y Full Level para programar ritmos, disparar muestras y controlar sintetizadores virtuales/DAW
+- Elige tu exclusivo paquete NKS gratuito - explora y controla los presets y librerías de sonidos de Native Instruments; escoge uno de los tres paquetes Komplete 15 Select: Beats, Band o Electronic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0886ZPWC8{{</world>}}

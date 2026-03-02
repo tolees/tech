@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El nuevo sensor de frecuencia cardiaca está diseñado para ofrecerte un rendimiento optimizado en cualquier deporte que practiques. Realiza un seguimiento de tu saturación de oxígeno en sangre mientras estás despierto o dormido, y toma conciencia de cómo te estás adaptando a la altitud.
 - Las intensidades de luz variables y la luz roja de seguridad te permiten estar alerta mientras entrenas en la oscuridad y te proporcionan una iluminación cómoda cuando la necesitas. El modo estroboscópico puede adaptarse a tu cadencia de carrera.
 - Ofrece hasta 14 días de batería en modo smartwatch con carga solar en 3 horas de luz solar directa (50.000 lux) y hasta 43 días de GPS en modo Expedición con carga solar.
-- El nuevo sensor de frecuencia cardiaca está diseñado para ofrecerte un rendimiento optimizado en cualquier deporte que practiques. Realiza un seguimiento de tu saturación de oxígeno en sangre mientras estás despierto o dormido, y toma conciencia de cómo te estás adaptando a la altitud.
 - Consulta cuánta potencia estás aplicando para poder gestionar el esfuerzo y ajustar el entrenamiento. Obtén la medición de la potencia de carrera directamente desde tu muñeca, sin necesidad de accesorios.
 - Descarga mapas TopoActive de todo el mundo. Selecciona la cobertura que necesites y actualiza los mapas directamente al reloj a través de la conectividad Wi Fi. Suscripción opcional a Outdoor Maps+ para obtener imágenes satelitales descargados directamente en tu reloj.
 

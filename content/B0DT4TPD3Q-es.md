@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Procesador Intel Core Ultra 9 285H (16C/undefined 5.4GHz, 24MB)
 - Pantalla de 14" WQXGA+ 2880 x 1800 pixeles, 120Hz, OLED 400 nits
-- Sistema Operativo: Windows 11 Home
 - Memoria RAM de 32GB en placa LPDDR5x
 - Tarjeta gráfica integrada Intel Arc 140T
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT4TPD3Q{{</world>}}

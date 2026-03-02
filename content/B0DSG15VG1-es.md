@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La cámara principal está equipada con un sensor Sony IMX882 de 50 MP. Su apertura ultragrande de f/1,5 deja entrar más luz para conseguir un efecto bokeh más extraordinario y que puedas hacer retratos o fotos impresionantes incluso de noche
 - Con una batería de gran capacidad de 5110 mAh y gestión inteligente de la energía, no tendrás que preocuparte por la duración de la batería incluso con un uso intensivo
 - El POCO M7 Pro 5G cuenta con una pantalla AMOLED de 6,67 pulgadas con una frecuencia de actualización de 120 Hz y 394 ppp, colores vivos e imágenes nítidas. Su brillo máximo también es ultraalto, lo que garantiza una visualización clara y cómoda incluso en exteriores
-- La cámara principal está equipada con un sensor Sony IMX882 de 50 MP. Su apertura ultragrande de f/1,5 deja entrar más luz para conseguir un efecto bokeh más extraordinario y que puedas hacer retratos o fotos impresionantes incluso de noche
 - Equipado con un Dimensity 7025-Ultra, el procesador 5G de 6 nm ofrece una robusta fiabilidad para hacer tareas en paralelo sin esfuerzo y jugar sin problemas
 - Resistencia al polvo y al agua IP64. Protección eficaz contra agua, polvo u otras situaciones inesperadas
 

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HOMEPLUG AV2 STANDARD - Velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
 - ¡Atención! Habrá una disminución de la señal con la red de transferencia de línea eléctrica, AV1000 no alcanzará 1000Mbps
-- ATENCIÓN! - A veces es necesario configurar la red que viene predeterminada a 100mb de velocidad a la máxima pulsando para disfrutar de la máxima velocidad
-- ENCHUFE INTEGRADO - Sin desperdiciar las tomas de corriente de tu casa
 - PLUG & PLAY- Permite la configuración de tu powerline en minutos, para que puedas disfrutar de conexiones rápidas, sin cables e inalámbricas al instante
+- ENCHUFE INTEGRADO - Sin desperdiciar las tomas de corriente de tu casa
+- HOMEPLUG AV2 STANDARD - Velocidades de transferencia de datos de alta velocidad de hasta 1000 Mbps, para todas tus necesidades en línea
 - MODO AHORRO ENERGÍA - Reduce automáticamente el consumo de energía hasta un 85%
 - PUERTO GIGABIT - Proporciona redes cableadas 10/100/1000mbps seguras para ordenadores de escritorio, televisores inteligentes o consolas de juegos
+- ATENCIÓN! - A veces es necesario configurar la red que viene predeterminada a 100mb de velocidad a la máxima pulsando para disfrutar de la máxima velocidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0859MDSFX{{</world>}}

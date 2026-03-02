@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SUPER MESH PARACORD — El trenzado de cables perfeccionado mejora la flexibilidad y reduce el arrastre
+- MÁS RÁPIDO QUE NUNCA — El más rápido de la clase - adelanta a tus adversarios con una latencia de clic casi instantánea de 1,35ms
 - RGB DE 3 ZONAS — La emblemática iluminación dinámica de SteelSeries alumbra tu escritorio como tú quieres
 - RASTREO 1 A 1 REAL — El sensor óptico TrueMove Core de 8500 DPI refleja fielmente tus movimientos más precisos para que tus disparos tengan el mejor impacto
-- MÁS RÁPIDO QUE NUNCA — El más rápido de la clase - adelanta a tus adversarios con una latencia de clic casi instantánea de 1,35ms
-- SUPER MESH PARACORD — El trenzado de cables perfeccionado mejora la flexibilidad y reduce el arrastre
 - 60M DE CLICS — Durabilidad inédita con un resistente interruptor hecho para durar, que nunca dejará de darte clics crujientes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ACCIÓN Y MISTERIO: Sumérgete en un mundo de fantasía oscura con GRAVEN, un juego dinámico PS5 que combina acción y puzles en primera persona. Enfréntate a horrores de la humanidad y sobrenaturales mientras buscas redención.
 - EXPLORACIÓN Y DESCUBRIMIENTO: Regresa a lugares ya visitados con nuevas habilidades y descubre hasta dónde llegan los abismos. Explora numerosos biomas y desentraña los motivos de las sectas heréticas que asolan la tierra.
-- ENTORNO INTERACTIVO: Utiliza el entorno, la magia y las armas para resolver enigmas y avanzar en tu misión. Modifica tu entorno con hechizos y cristales para superar obstáculos y descubrir secretos ocultos.
 - PERSONALIZACIÓN DE ARMAS: Encuentra y mejora nuevas armas en herrerías y laboratorios de alquimia. Personaliza tus habilidades para enfrentarte a más de treinta enemigos distintos en un mundo en constante expansión.
+- ENTORNO INTERACTIVO: Utiliza el entorno, la magia y las armas para resolver enigmas y avanzar en tu misión. Modifica tu entorno con hechizos y cristales para superar obstáculos y descubrir secretos ocultos.
 - EXPERIENCIA INMERSIVA: Disfruta de una estética de finales de los 90 con técnicas de desarrollo modernas. Con diseños de personajes de Chuck Jones y la voz de Stephan Weyte, GRAVEN ofrece una experiencia de videojuegos PS5 única y envolvente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

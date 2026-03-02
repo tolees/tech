@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 14 x 7,4 x 6 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S8110164
 - Smartphone de la marca Nokia
 - Color: Multicolor
-- Referencia: S8110164
+- Medidas: 14 x 7,4 x 6 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV9JQ6R6{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pedales ajustables de manera independiente (altura, espaciado e inclinación) para optimizar la comodidad de juego según las preferencias del usuario
 - Fuerza de frenado mecánico ajustable gracias al conjunto de 6 muelles incluidos con los pedales, para realizar múltiples ajustes rápidos
+- El software de calibración permite el ajuste de la fuerza de frenado, más las zonas muertas de los 3 pedales
 - Tecnología de sensor de fuerza “Load Cell”: hasta 100 kg de presión, para ejercer la cantidad perfecta de potencía de frenado
 - Tecnología de sensor magnético, sin contactos ni potenciómetros, para una duración ilimitada y una precisión óptima
-- El software de calibración permite el ajuste de la fuerza de frenado, más las zonas muertas de los 3 pedales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YFDL1JW{{</world>}}

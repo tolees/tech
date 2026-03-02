@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic DMP-BDT167EG - Blue ray USB compatible con archivos mkv Reproduce 3d negro'
-date: 2026-02-27 13:37:44
+date: 2026-03-02 06:07:48
 image: 'https://m.media-amazon.com/images/I/316kvp+lu6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01BH4H03M-es Panasonic DMP-BDT167EG - Blue ray USB compatible con...'
 sku: 'B01BH4H03M-es'
 tags: [ 'panasonic','🇪🇸', ]
-actualPrice: 73.56 EUR
+actualPrice: 66.52 EUR
 currency: EUR
-price: 73.56
+price: 66.52
 comparePrice: 99.0 EUR
 prodname: 'Panasonic DMP-BDT167EG - Blue ray USB compatible con archivos mkv Reproduce 3d negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BH4H03M/?tag=tolees-21'
-descuento: '25.70'
-average: '73.56'
+descuento: '32.81'
+average: '70.04'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica Intel Graphics
-- Almacenamiento de 512GB SSD
 - Procesador Intel Core 7 150U, 1.8 / 5.4 GHz, 12 MB Smart Cache
-- Memoria RAM de 16GB
-- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Sistema operativo Windows 11 Home
+- Tarjeta gráfica Intel Graphics
+- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
+- Memoria RAM de 16GB
+- Almacenamiento de 512GB SSD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT8VL8GQ{{</world>}}

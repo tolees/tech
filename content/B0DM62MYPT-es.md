@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- HDMI 1.4, Zeroframe
 - Pantalla de 23,8", Full HD 120 Hz, 250 Nits
 - Soporte ergonómico con inclinación de pantalla
 - Tiempo de Respuesta 1 m/s VRB
 - Tecnología anti-fragmentación AdaptiveSync
-- HDMI 1.4, Zeroframe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM62MYPT{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tu biblioteca, siempre contigo: gracias a sus 16 GB de almacenamiento, tendrás espacio para miles de libros, revistas y cómics.
-- Lee cómodamente bajo cualquier luz: lee con total comodidad gracias a su pantalla sin reflejos de 6" con modo oscuro y luz frontal ajustable, ahora un 25 % más potente en el nivel de máxima intensidad.
 - Refúgiate en la lectura: no dejes que te distraigan mensajes, e-mails o notificaciones de redes sociales y disfruta de una experiencia de lectura sin distracciones.
-- Diseñado con la sostenibilidad en mente: este Kindle está fabricado con un 75 % de plásticos reciclados y un 90 % de magnesio reciclado. El 99 % del embalaje del dispositivo está hecho a base de fibra de madera y procede de bosques gestionados responsablemente o materiales reciclados.
-- Descubre nuevas historias: con la suscripción a Kindle Unlimited, puedes contar con acceso ilimitado a millones de libros, miles de audiolibros y suscripciones a revistas seleccionadas.
-- Lee tanto como quieras: disfruta de una batería con autonomía de hasta 6 semanas en una única carga.
+- Lee cómodamente bajo cualquier luz: lee con total comodidad gracias a su pantalla sin reflejos de 6" con modo oscuro y luz frontal ajustable, ahora un 25 % más potente en el nivel de máxima intensidad.
+- Tu biblioteca, siempre contigo: gracias a sus 16 GB de almacenamiento, tendrás espacio para miles de libros, revistas y cómics.
 - El Kindle más ligero y compacto: ahora con una luz frontal más potente en el nivel de máxima intensidad, mayor contraste y pasos de página más fluidos, para que disfrutes aún más de la lectura.
+- Lee tanto como quieras: disfruta de una batería con autonomía de hasta 6 semanas en una única carga.
+- Descubre nuevas historias: con la suscripción a Kindle Unlimited, puedes contar con acceso ilimitado a millones de libros, miles de audiolibros y suscripciones a revistas seleccionadas.
+- Diseñado con la sostenibilidad en mente: este Kindle está fabricado con un 75 % de plásticos reciclados y un 90 % de magnesio reciclado. El 99 % del embalaje del dispositivo está hecho a base de fibra de madera y procede de bosques gestionados responsablemente o materiales reciclados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP32JG8B{{</world>}}

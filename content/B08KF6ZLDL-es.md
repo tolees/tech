@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌡️ TERMÓMETRO DIGITAL INFRARROJOS: El termómetro digital Motorola TE-93 utiliza tecnología infrarroja sin contacto para realizar mediciones seguras y no intrusivas de temperatura. Con solo apuntar hacia la frente, obtendrás una lectura precisa y confiable en segundos. Color Azul.
 - 💾 MEMORIA DE REGISTROS: Para un seguimiento más preciso, el TE-93 cuenta con una memoria de mediciones que puede almacenar hasta 32 registros. Esto te permite llevar un registro histórico de las temperaturas tomadas, facilitando el monitoreo de cambios y tendencias a lo largo del tiempo.
 - ⚕️SEGURO E HIGIÉNICO: El termómetro digital infrarrojo como el Motorola TE-93 es seguro e higiénico, ya que no requiere contacto directo con la piel y minimiza el riesgo de contaminación cruzada. ¡Mantén tu salud y la de tus seres queridos bajo control de manera fácil y confiable con este práctico dispositivo!
+- 🌡️ TERMÓMETRO DIGITAL INFRARROJOS: El termómetro digital Motorola TE-93 utiliza tecnología infrarroja sin contacto para realizar mediciones seguras y no intrusivas de temperatura. Con solo apuntar hacia la frente, obtendrás una lectura precisa y confiable en segundos. Color Azul.
 - ⏱️MEDICIÓN INSTANTÁNEA: Con una medición instantánea, este termómetro digital te brinda la comodidad de obtener la temperatura en tan solo dos segundos. Un pitido final te indicará cuando la medición esté completa, para que puedas seguir con tus actividades diarias sin demoras. Flexibilidad de cambiar entre la escala de temperatura Fahrenheit o Celsius, para adaptarse a tus preferencias y necesidades.
 - 🚨ALERTA ALTA TEMPERATURA: El termómetro cuenta con una alerta sonora de alta temperatura que se activa cuando la temperatura corporal asciende por encima de los 37,5°C (99,5°F). Esto te permite identificar rápidamente posibles fiebres o situaciones de riesgo.
 

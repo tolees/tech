@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Redmi Pad 2 Pro Graphite Gray 6G RAM 128G ROM'
-date: 2026-02-28 12:01:03
+date: 2026-03-01 12:03:37
 image: 'https://m.media-amazon.com/images/I/31eYBv9nxyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

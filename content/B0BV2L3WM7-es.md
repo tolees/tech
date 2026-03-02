@@ -30,12 +30,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - producto 2: Tamaño de la fotografía: 86 mm x 72 mm; Tamaño de la imagen: 62 mm x 62 mm
 - producto 1: a través de su App gratuíta, envía fotos con animaciones o mensajes y emojis a tus amig@s y familiares, a cualquier parte del mundo.
-- producto 2: Película apta para todos los dispositivos instax SQUARE: SQ10, SQ20, SQ6,SQ1 e impresora SP3
-- producto 1: Utiliza la icónica película instantánea instax SQUARE con un formato de 86 x 72mm. Tamaño de la imagen 62x62mm y 800 ISO con una reproducción de color vibrante. la película se vende por separado.
 - producto 1: Nueva tecla de función para la función de reimpresión
-- producto 1: Primero imprime tu foto SQUARE, y luego llegará la magia, la realidad aumentada para ser más exactos. la impresión física cobra vida gracias a los efectos especiales que se esconden tras los códigos QR y que se activan con los smartphones.
 - producto 2: Calidad instax: colores vivos y tonos de piel naturales
+- producto 1: Utiliza la icónica película instantánea instax SQUARE con un formato de 86 x 72mm. Tamaño de la imagen 62x62mm y 800 ISO con una reproducción de color vibrante. la película se vende por separado.
+- producto 2: Película apta para todos los dispositivos instax SQUARE: SQ10, SQ20, SQ6,SQ1 e impresora SP3
 - producto 2: Película ISO 800 ASA de alta velocidad; Tiempo de revelado máx; 1,5 min
+- producto 1: Primero imprime tu foto SQUARE, y luego llegará la magia, la realidad aumentada para ser más exactos. la impresión física cobra vida gracias a los efectos especiales que se esconden tras los códigos QR y que se activan con los smartphones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV2L3WM7{{</world>}}

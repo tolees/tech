@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta Lexar Professional CFexpress tipo A serie SILVER está diseñada para capturar sin problemas vídeos 8K e imágenes magníficas en modo ráfaga a altas velocidades.
 - Tarjeta Lexar Professional CF tipo A serie SILVER tiene clasificación VPG200 y garantiza mantener una velocidad de escritura sostenida de al menos 200 MB/s para capturar secuencias de video fluidas y sin pérdida de fotogramas.
-- Tarjeta de Memoria Lexar Professional CFexpress tipo A serie SILVER cuenta con una garantía límite de 10 años, el doble del estándar de la industria. Se recomienda combinarlo con el lector USB Lexar CFexpress RW515, que proporcionará un buen rendimiento.
-- Tarjeta Lexar Professional CFexpress tipo A serie SILVER es compatible con cámaras Sony Alpha y Sony FX que admiten tarjetas CFexpress tipo A.
 - Con velocidades máximas de lectura de 800 MB/s, velocidades máximas de escritura de 700 MB/s y velocidades de escritura sostenidas de 600 MB/s, la tarjeta Lexar Professional CFe tipo A serie SILVER está lista para capturar lo que quiera fotografiar.
+- Tarjeta Lexar Professional CFexpress tipo A serie SILVER está diseñada para capturar sin problemas vídeos 8K e imágenes magníficas en modo ráfaga a altas velocidades.
+- Tarjeta Lexar Professional CFexpress tipo A serie SILVER es compatible con cámaras Sony Alpha y Sony FX que admiten tarjetas CFexpress tipo A.
+- Tarjeta de Memoria Lexar Professional CFexpress tipo A serie SILVER cuenta con una garantía límite de 10 años, el doble del estándar de la industria. Se recomienda combinarlo con el lector USB Lexar CFexpress RW515, que proporcionará un buen rendimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQS6334Y{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 12,5 x 6,5 x 12,5 cm
-- Funciona de modo inalámbrico con dispositivos equipados con Bluetooth.
 - Puede responder a llamadas con el micrófono incorporado.
 - Función True Wireless Stereo (TWS): ¡Empareje 2 unidades para disfrutar del sonido en estéreo!
 - Gran pantalla de LCD (6.1") para increíbles animaciones de píxeles.
 - Puerto USB y ranura para tarjeta TF / Micro SD.
+- Dimensiones: 12,5 x 6,5 x 12,5 cm
 - Puede responder a llamadas con el micrófono incorporado.
+- Funciona de modo inalámbrico con dispositivos equipados con Bluetooth.
 - Un altavoz Bluetooth potente y portátil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

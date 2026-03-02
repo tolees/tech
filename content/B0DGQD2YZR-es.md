@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una aventura moderna con aire retro: ¡un llamativo juego de plataformas fruto de la pasión por los clásicos del género! ¡Consigue grandes puntuaciones y tiempos rápidos!
-- Explora New Hope City y más allá: ¡salta, arremete, lánzate de golpe y deslízate por extensas fases! ¡Busca rutas alternativas y objetos coleccionables ocultos!
-- Música del compositor de Sonic Mania, Tee Lopes: ¡una banda sonora original rebosante de enérgica nostalgia por los 16 bits! ¡Disfruta del ritmo mientras enloqueces
-- Adopta diferentes formas Berserk: ¡fúndete con los cinco Berserk Force Orbs, rayo, fuego, tierra, aire y hielo, y absorbe sus cualidades únicas!
 - ¡Enloquece! ¡Encadena combos para llenar el Berserk Meter y activar el ataque especial de cada forma! ¡Mejora y aumenta aún más tus poderes!
+- Adopta diferentes formas Berserk: ¡fúndete con los cinco Berserk Force Orbs, rayo, fuego, tierra, aire y hielo, y absorbe sus cualidades únicas!
+- Música del compositor de Sonic Mania, Tee Lopes: ¡una banda sonora original rebosante de enérgica nostalgia por los 16 bits! ¡Disfruta del ritmo mientras enloqueces
+- Explora New Hope City y más allá: ¡salta, arremete, lánzate de golpe y deslízate por extensas fases! ¡Busca rutas alternativas y objetos coleccionables ocultos!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGQD2YZR{{</world>}}

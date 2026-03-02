@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enfréntate a los titanes usando tecnología Monarch y aprovéchate de su fuerza descomunal mientras avanzas por un peligroso laberinto de edificios a punto de desplomarse, fugas de gas tóxico e incendios que arrasan con todo.
-- Ponte en la piel de David, un hombre que trabaja en una plataforma petrolífera cuyo único deseo es encontrar a su única hija, Stacy, en una ciudad que se cae a pedazos
 - ¡Explora y sobrevive a tus encuentros con el majestuoso Kong, enfréntate al poder de Abaddon y plántales cara a nuevas y conocidas subespecies de titanes!
-- La edición incluye una funda especial y un diario de bestias
 - Descubre una historia oficial del Monsterverse ambientada poco después de Godzilla vs. Kong. No te dejes intimidar por las Hienas, un grupo de mercenarios liderado por Alan Jonah.
+- Enfréntate a los titanes usando tecnología Monarch y aprovéchate de su fuerza descomunal mientras avanzas por un peligroso laberinto de edificios a punto de desplomarse, fugas de gas tóxico e incendios que arrasan con todo.
+- La edición incluye una funda especial y un diario de bestias
+- Ponte en la piel de David, un hombre que trabaja en una plataforma petrolífera cuyo único deseo es encontrar a su única hija, Stacy, en una ciudad que se cae a pedazos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F66V9XWT{{</world>}}

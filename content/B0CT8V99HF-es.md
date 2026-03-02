@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core 7 150U, 1.8 / 5.4 GHz, 12 MB Smart Cache
-- Almacenamiento de 512GB SSD
-- Tarjeta gráfica Intel Graphics
 - Pantalla de 15.6", Full HD AMOLED 1920 x 1080 píxeles, Pantalla táctil y S Pen
+- Tarjeta gráfica Intel Graphics
 - Memoria RAM de 16GB
 - Sistema operativo Windows 11 Home
+- Procesador Intel Core 7 150U, 1.8 / 5.4 GHz, 12 MB Smart Cache
+- Almacenamiento de 512GB SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CT8V99HF{{</world>}}

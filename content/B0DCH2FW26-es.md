@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación. No solo es bonita, sino ideal para que protejas tu iPhone de arañazos y caídas.
 - Como está fabricada con una mezcla de policarbonato transparente y materiales flexibles, se adapta a la perfección a los botones para que puedas usarlos fácilmente. Tanto la superficie exterior como la interior cuentan con un revestimiento resistente a los arañazos. Y todos los materiales se han optimizado para que no amarilleen con el tiempo.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación. No solo es bonita, sino ideal para que protejas tu iPhone de arañazos y caídas.
 - Gracias a los imanes que se alinean a la perfección con el iPhone 15 Plus, esta funda se ajusta de forma impecable y permite una carga inalámbrica más rápida. Además, no hace falta que la quites para cargar el iPhone: basta con acoplar el cargador MagSafe o colocar el teléfono en una base de carga inalámbrica Qi.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

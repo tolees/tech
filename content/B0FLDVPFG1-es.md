@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales de gran calidad: la funda se ha fabricado con piel natural proveniente de proveedores con un certificado Gold proporcionado por el Leather Working Group.
+- Kindle Scribe: todo en uno, Kindle y cuaderno. Pantalla rediseñada con bordes uniformes en blanco y lápiz prémium optimizado, para una experiencia aún más parecida a la de escribir sobre el papel.
 - La funda está diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
+- Con cuaderno integrado: usa un único dispositivo para tomar notas en tus reuniones, crear listas de tareas y escribir en tu diario o tu cuaderno de journaling. Digitaliza tus notas manuscritas y envíatelas a tu correo o compártelas con tus contactos.
+- Materiales de gran calidad: la funda se ha fabricado con piel natural proveniente de proveedores con un certificado Gold proporcionado por el Leather Working Group.
+- Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
 - Adaptador de corriente de 9 W original de Amazon, compatible con la mayoría de dispositivos con puerto micro USB (requiere un cable micro USB, no incluido con el cargador)
 - Toma notas en tus libros conforme la inspiración vaya surgiendo: empieza a escribir sobre la página y la funcionalidad Active Canvas creará un espacio para tus notas. Amplía los márgenes para añadir más notas o escóndelos para ver la página original.
-- Con cuaderno integrado: usa un único dispositivo para tomar notas en tus reuniones, crear listas de tareas y escribir en tu diario o tu cuaderno de journaling. Digitaliza tus notas manuscritas y envíatelas a tu correo o compártelas con tus contactos.
-- Kindle Scribe: todo en uno, Kindle y cuaderno. Pantalla rediseñada con bordes uniformes en blanco y lápiz prémium optimizado, para una experiencia aún más parecida a la de escribir sobre el papel.
-- Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLDVPFG1{{</world>}}

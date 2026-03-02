@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 15 ciclos de lavado, 7 rápidos de menos de 90: ahorra tiempo gracias a los programas rápidos y protege incluso a las prendas más delicadas, como la lana.
 - Secadora de ropa de 10Kgs, con bomba de calor: ofrece el máximo cuidado a los tejidos, el mínimo consumo y protege el medio ambiente.
-- Cajón "Easy Case" de 5l: ubicado en la puerta de la escotilla, para una extracción cómoda y rápida de la condensación de agua.
 - Control por Wi-Fi o por voz: conecta tu secadora a la App hOn y consigue control remoto, consejos de lavado y asistencia inmediata. También compatible con Alexa y Google Home.
+- Cajón "Easy Case" de 5l: ubicado en la puerta de la escotilla, para una extracción cómoda y rápida de la condensación de agua.
 - Medidas secadora (alto x ancho x prof): 85 x 60 x 58,5cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

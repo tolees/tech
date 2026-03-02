@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- App exclusiva totalmente personalizable que permite imprimir desde tu teléfono, imágenes fijas o fotogramas de vídeos con plantillas y marcos con personajes de Nintendo.
-- Cabezal OLED RGB con 318 ppp de resolución de impresión y 256 niveles por color.
-- Control de movimiento. Indicador LED en la parte delantera. Puerto USB-C para carga de la batería interna.
-- Imprime fotos instax mini, del tamaño de una tarjeta de crédito. Se vende por separado. Tiempo de revelado aprox 90 seg.
 - Kit compuesto por impresora instax mini Link 3 y funda de silicona con diseño « Bloque ?» de edición limitada.
+- Cabezal OLED RGB con 318 ppp de resolución de impresión y 256 niveles por color.
+- Imprime fotos instax mini, del tamaño de una tarjeta de crédito. Se vende por separado. Tiempo de revelado aprox 90 seg.
+- App exclusiva totalmente personalizable que permite imprimir desde tu teléfono, imágenes fijas o fotogramas de vídeos con plantillas y marcos con personajes de Nintendo.
+- Control de movimiento. Indicador LED en la parte delantera. Puerto USB-C para carga de la batería interna.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FNW5PZ3H{{</world>}}

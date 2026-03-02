@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Teclado retroiluminado, Cámara HP Wide Vision 720p HD, Altavoces duales
-- RAM DDR4-3200 MHz 16 GB, SSD PCIe Gen4 NVMe M.2 de 512 GB
+- Pantalla FHD (1920 x 1080) IPS de 35,6 cm (14") en diagonal, con función multitáctil, microbordes, 300 nits, 62,5 % de sRGB
 - Procesador Intel Core 7 150U (hasta 5,4 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Consigue 75 € de reembolso al comprar un PC HP desde 799 € junto a un monitor o accesorio de las marcas HP/OMEN/Poly/HyperX. Promoción válida Hasta al 31/10/2025
-- Sistema operativo Windows 11 Home
-- Pantalla FHD (1920 x 1080) IPS de 35,6 cm (14") en diagonal, con función multitáctil, microbordes, 300 nits, 62,5 % de sRGB
+- Teclado retroiluminado, Cámara HP Wide Vision 720p HD, Altavoces duales
 - Gráficos Integrados: Intel
+- Sistema operativo Windows 11 Home
+- RAM DDR4-3200 MHz 16 GB, SSD PCIe Gen4 NVMe M.2 de 512 GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CR1VZ18N{{</world>}}

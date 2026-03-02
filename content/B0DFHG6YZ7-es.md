@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Seguimiento avanzado de salud y entrenamiento; análisis versátil frecuencia cardíaca, SpO2, sueño y más
 - Pantalla AMOLED Ultra grande de 1.96 pulgadas, 410 x 502 pixels, PPI 332; relación pantalla-cuerpo: 75.6%; pantalla siempre activa
 - GNSS integrado de 5 sistemas: gPS/GLONASS/Galileo/QZSS/Beidou
-- Seguimiento avanzado de salud y entrenamiento; análisis versátil frecuencia cardíaca, SpO2, sueño y más
 - Compatible con llamadas Bluetooth; cancelación de ruido 2 MIC Uplink
 - Batería de larga duración; hasta 18 días en modo estándar
 

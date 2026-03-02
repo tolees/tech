@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Oferta sujeta a cambios. Es posible que el contenido se pueda comprar o regalarse por separado a discreción de Ubisoft en cualquier momento.
-- La Limited Edition incluye: - El juego base. - El pack de personaje Sekiryū, que incluye conjuntos de equipo y armas para Naoe, la bestia Sekiryū y la baratija Diente del dragón.
-- Tu mejor arma será la información: construye tu propia red de espías para ver y escuchar todo lo que ocurre en Japón y dar caza a tu próximo objetivo. Por el camino, reclutarás aliados nuevos con habilidades únicas que te ayudarán a completar tus misiones.
-- Encarna a Naoe, una asesina shinobi, y a Yasuke, un legendario samurái, y disfruta de su apasionante historia mientras dominas sus estilos de juego complementarios. Naoe te permitirá actuar con sigilo y agilidad, para confundir a tus enemigos y evitar que te detecten. En cambio, Yasuke puede atacar a sus contrincantes con una precisión y un poder mortales.
-- *La misión adicional estará disponible en el lanzamiento y la próxima expansión será gratuita por tiempo limitado para aquellos jugadores que reserven el juego en los puntos de venta participantes (la expansión no estará disponible en el lanzamiento y se anunciará más adelante). Es posible que el contenido se ponga a la venta o se ofrezca como regalo de manera individual a discreción de Ubisoft. Comprueba los requisitos del sistema y los detalles y restricciones del producto antes de comprarlo y cuando salga a la venta.
-- Reserva y consigue la próxima expansión. Además, consigue acceso a la misión adicional A los perros, disponible en el lanzamiento.*
-- Construye una guarida totalmente personalizable para tu liga de shinobi, donde podrás entrenar a tus aliados, elaborar nuevo equipamiento e interactuar con personajes clave. Elige la disposición, la decoración y los accesorios que más te gusten.
 - Explora y déjate cautivar por el mundo abierto del Japón feudal: desde espectaculares ciudadelas y puertos bulliciosos hasta apacibles santuarios, pasando por paisajes asolados por la guerra.
+- Construye una guarida totalmente personalizable para tu liga de shinobi, donde podrás entrenar a tus aliados, elaborar nuevo equipamiento e interactuar con personajes clave. Elige la disposición, la decoración y los accesorios que más te gusten.
+- Encarna a Naoe, una asesina shinobi, y a Yasuke, un legendario samurái, y disfruta de su apasionante historia mientras dominas sus estilos de juego complementarios. Naoe te permitirá actuar con sigilo y agilidad, para confundir a tus enemigos y evitar que te detecten. En cambio, Yasuke puede atacar a sus contrincantes con una precisión y un poder mortales.
+- La Limited Edition incluye: - El juego base. - El pack de personaje Sekiryū, que incluye conjuntos de equipo y armas para Naoe, la bestia Sekiryū y la baratija Diente del dragón.
+- Reserva y consigue la próxima expansión. Además, consigue acceso a la misión adicional A los perros, disponible en el lanzamiento.*
+- *La misión adicional estará disponible en el lanzamiento y la próxima expansión será gratuita por tiempo limitado para aquellos jugadores que reserven el juego en los puntos de venta participantes (la expansión no estará disponible en el lanzamiento y se anunciará más adelante). Es posible que el contenido se ponga a la venta o se ofrezca como regalo de manera individual a discreción de Ubisoft. Comprueba los requisitos del sistema y los detalles y restricciones del producto antes de comprarlo y cuando salga a la venta.
+- Tu mejor arma será la información: construye tu propia red de espías para ver y escuchar todo lo que ocurre en Japón y dar caza a tu próximo objetivo. Por el camino, reclutarás aliados nuevos con habilidades únicas que te ayudarán a completar tus misiones.
+- Oferta sujeta a cambios. Es posible que el contenido se pueda comprar o regalarse por separado a discreción de Ubisoft en cualquier momento.
 - *Se necesita una conexión a Internet y una cuenta de Ubisoft para canjear el contenido digital.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

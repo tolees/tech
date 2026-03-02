@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Vigile lo más importante Mantenga el enfoque mientras dispara en 4K con el sistema de enfoque automático ocular en tiempo real. Para las reseñas de productos, activa el modo Presentación de productos, que se centra inmediatamente en el tema que quieres presentar, incluso con cambios rápidos.
+- La creatividad no conoce límites Con más de 60 Sony Las lentes disponibles para esta cámara de vlog descubren nuevas formas de dar forma a la apariencia de su contenido y mejorar la calidad de los resultados.
 - Excelente calidad de sonido Haga que se escuche su voz con el micrófono direccional de 3 cápsulas con parabrisas (incluido), que capta su voz con claridad y con menos ruido del viento. O aproveche al máximo la interfaz de audio digital añadiendo un Sony -conectar un dispositivo de audio externo compatible.
 - Creado con la creación de contenido en mente Las características de esta cámara vlog de Sony ofrecen un funcionamiento rápido e intuitivo con una pantalla táctil con inclinación lateral, exposición automática que captura automáticamente los rostros y siempre los ilumina bien, y un botón bokeh que se puede usar para enfocar o desenfocar el fondo.
-- Vídeo 4K a un nuevo nivel El sensor de gran tamaño (24,3 MP tipo APS-C) de esta cámara compacta permite realizar grabaciones excepcionales en cámara lenta 4K (hasta 30p) y Full HD (hasta 120P) con un efecto de fondo bokeh profesional y detalles nítidos incluso en condiciones de iluminación difíciles.
-- La creatividad no conoce límites Con más de 60 Sony Las lentes disponibles para esta cámara de vlog descubren nuevas formas de dar forma a la apariencia de su contenido y mejorar la calidad de los resultados.
-- Vigile lo más importante Mantenga el enfoque mientras dispara en 4K con el sistema de enfoque automático ocular en tiempo real. Para las reseñas de productos, activa el modo Presentación de productos, que se centra inmediatamente en el tema que quieres presentar, incluso con cambios rápidos.
 - Le recomendamos que realice una actualización de software
+- Vídeo 4K a un nuevo nivel El sensor de gran tamaño (24,3 MP tipo APS-C) de esta cámara compacta permite realizar grabaciones excepcionales en cámara lenta 4K (hasta 30p) y Full HD (hasta 120P) con un efecto de fondo bokeh profesional y detalles nítidos incluso en condiciones de iluminación difíciles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098LWQPRT{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla y Rendimiento: Pantalla de 6.0" con resolución qHD (540x1092 píxeles) y relación pantalla-cuerpo de 83.92%. Procesador Octa-core MTK 6765V_XB (4x A53 a 2.2GHz + 4x A53 a 1.6GHz) para un rendimiento fluido.
-- Cámaras y Batería: Cámara principal de 5MP y cámara secundaria de 2MP (interpolada), con batería de 3000mAh para mayor duración.
-- Memoria y Almacenamiento: 2GB de RAM + 2GB de RAM Expandible, y 32GB de ROM, con opción para expansión mediante tarjeta T-Flash.
 - Sistema y Características: Android 14 (Go edition), Dual SIM (2 Nano SIM + 1 tarjeta T-Flash), y Face Unlock para mayor seguridad y comodidad.
+- Cámaras y Batería: Cámara principal de 5MP y cámara secundaria de 2MP (interpolada), con batería de 3000mAh para mayor duración.
+- Pantalla y Rendimiento: Pantalla de 6.0" con resolución qHD (540x1092 píxeles) y relación pantalla-cuerpo de 83.92%. Procesador Octa-core MTK 6765V_XB (4x A53 a 2.2GHz + 4x A53 a 1.6GHz) para un rendimiento fluido.
+- Memoria y Almacenamiento: 2GB de RAM + 2GB de RAM Expandible, y 32GB de ROM, con opción para expansión mediante tarjeta T-Flash.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMWSLNK2{{</world>}}

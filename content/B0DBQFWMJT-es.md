@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cámara Sony LYTIA y teleobjetivo 3x. Exprésate sin esfuerzo con fotos y vídeos de calidad vayas donde vayas y a cualquier distancia.
-- Diseño minimalista, máxima calidad. Destaca por su formato increíblemente fino, ligero y duradero con un acabado en cuero vegano y colores especialmente seleccionados de PANTONE.
 - Sistema de carga TurboPower de 68 W. Te da un día entero de autonomía con solo cargar la batería durante 11 minutos, para que no se te corte la inspiración mientras creas. Y tambordbién lo puedes cargar sin cables (hasta 15 W).
-- Actualizaciones de software e innovaciones. Recibe cinco actualizaciones del sistema operativo Android y actualizaciones de seguridad hasta 2029. 512 GB de almacenamiento de fábrica2. Disfruta de espacio de sobra para guardar todas tus fotos, películas, canciones y aplicaciones.
 - Pantalla pOLED Super HD (1220p) de 6,36". Mira, edita y comparte tus fotos y vídeos en calidad de cine en una pantalla nítida y brillante.
+- Actualizaciones de software e innovaciones. Recibe cinco actualizaciones del sistema operativo Android y actualizaciones de seguridad hasta 2029. 512 GB de almacenamiento de fábrica2. Disfruta de espacio de sobra para guardar todas tus fotos, películas, canciones y aplicaciones.
+- Diseño minimalista, máxima calidad. Destaca por su formato increíblemente fino, ligero y duradero con un acabado en cuero vegano y colores especialmente seleccionados de PANTONE.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBQFWMJT{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del cable: 1 m
-- Potencia máxima de salida: 60 vatios
-- Admite USB 2.0
 - Compatible con los modelos: Samsung Galaxy S8, S8+, S7, S7 edge, Note5, S6 edge+, S6 y S6 edge
+- Longitud del cable: 1 m
+- Admite USB 2.0
+- Potencia máxima de salida: 60 vatios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TDB576G{{</world>}}

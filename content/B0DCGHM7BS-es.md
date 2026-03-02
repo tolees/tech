@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CONTROL PRECISO: El MY310 EQ cuenta con un sensor óptico receptivo para un control preciso del cursor, una rueda clicable y botones de navegación para mayor comodidad de navegación y trabajo
 - MÁXIMA COMODIDAD: Diseño curvado especialmente diseñado para adaptarse naturalmente a la forma de la mano brindando la máxima comodidad, confort y agarre durante todo el día
+- ERGONÓMICO: Diseño ergonómico de tamaño mediano y sostenible, con un sensor óptico receptivo (800/1200/1600), conectividad inalámbrica AES de 2.4GHz; 59% de plástico reciclado posconsumo (PCR)*
 - CARACTERÍSTICAS: El ratón MY310 EQ dispone de una rueda de desplazamiento clicable, navegación adelante/atrás y almacenamiento de dongle; ratón sostenible profesional
 - CONTENIDO: 1x Ratón con almacenamiento integrado para dongle Kensington MY310 EQ; compatible con Windows, macOS y ChromeOS, Color Negro (K72481WW)
-- ERGONÓMICO: Diseño ergonómico de tamaño mediano y sostenible, con un sensor óptico receptivo (800/1200/1600), conectividad inalámbrica AES de 2.4GHz; 59% de plástico reciclado posconsumo (PCR)*
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCGHM7BS{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- (1) Las funciones avanzadas requieren el software Logitech G HUB; probado en la alfombrilla G640
-- Precisión profesional: los interruptores híbridos óptico-mecánicos LIGHTFORCE ofrecen un nivel de precisión y fiabilidad de calidad profesional, así como una actuación óptica de latencia ultrabaja con un clic nítido y táctil.
-- El sensor más avanzado en gaming: HERO 2 ofrece un seguimiento de más de 888 IPS, hasta 44 000 DPI y una calibración precisa del sensor sin suavizado, aceleración ni filtros(1).
-- Rendimiento avanzado: un ratón inalámbrico que triunfa en campeonatos, equipado con sensor HERO 2 avanzado, funcionamiento inalámbrico fiable mediante LIGHTSPEED, carga USB-C y 88 horas de batería, todo con un peso de 60 g.
 - Conexión robusta: la tecnología inalámbrica LIGHTSPEED proporciona unas sensaciones rápidas y fiables de nivel de competición. Aumenta tu velocidad de respuesta de 1 kHZ(2) a 8 kHz con el receptor inalámbrico PRO LIGHTSPEED (se vende por separado).
-- (2) En movimiento constante a una velocidad de respuesta de 1 kHz (la duración de la batería varía según las condiciones de uso)
-- Ratón inalámbrico para gaming rápido y preciso: un icono del gaming profesional, diseñado en colaboración con los mejores profesionales de los esports y concebido para ganar.
+- Rendimiento avanzado: un ratón inalámbrico que triunfa en campeonatos, equipado con sensor HERO 2 avanzado, funcionamiento inalámbrico fiable mediante LIGHTSPEED, carga USB-C y 88 horas de batería, todo con un peso de 60 g.
+- Precisión profesional: los interruptores híbridos óptico-mecánicos LIGHTFORCE ofrecen un nivel de precisión y fiabilidad de calidad profesional, así como una actuación óptica de latencia ultrabaja con un clic nítido y táctil.
 - Pies de ratón de PTFE sin aditivos: disfruta de un deslizamiento suave y de la máxima conexión con la partida gracias a los pies de PTFE sin aditivos.
+- (1) Las funciones avanzadas requieren el software Logitech G HUB; probado en la alfombrilla G640
+- Ratón inalámbrico para gaming rápido y preciso: un icono del gaming profesional, diseñado en colaboración con los mejores profesionales de los esports y concebido para ganar.
+- (2) En movimiento constante a una velocidad de respuesta de 1 kHz (la duración de la batería varía según las condiciones de uso)
+- El sensor más avanzado en gaming: HERO 2 ofrece un seguimiento de más de 888 IPS, hasta 44 000 DPI y una calibración precisa del sensor sin suavizado, aceleración ni filtros(1).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1YS92S2{{</world>}}

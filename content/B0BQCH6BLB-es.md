@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IMPRESORA WIFI: Nuestras impresoras multifunción para casa incluyen alimentación de papel a doble vía, impresión automática a doble cara para ahorrar papel, pantalla OLED, barra de estado LED e impresión de fotos sin bordes (en solo 36 segundos).
+- PLAN PIXMA PRINT: Recibe tinta automáticamente en casa cuando tu impresora se esté quedando sin. Elige entre varios planes mensuales flexibles que se adaptan a tu forma de imprimir.
 - TODO DESDE TU MÓVIL: Imprime y conéctate a Instagram y otras cuentas en la nube desde tu móvil con la app Canon PRINT, o imprime sin apps con AirPrint (iOS) y Mopria (Android).
 - IMPRIME TUS FOTOS: Consigue fotos increíbles y duraderas con esta impresora fotográfica profesional. Usa cartuchos Canon FINE y tinta ChromaLife100, ideal para proyectos creativos.
-- PLAN PIXMA PRINT: Recibe tinta automáticamente en casa cuando tu impresora se esté quedando sin. Elige entre varios planes mensuales flexibles que se adaptan a tu forma de imprimir.
+- IMPRESORA WIFI: Nuestras impresoras multifunción para casa incluyen alimentación de papel a doble vía, impresión automática a doble cara para ahorrar papel, pantalla OLED, barra de estado LED e impresión de fotos sin bordes (en solo 36 segundos).
 - IMPRESORA INALÁMBRICA: Imprime fácilmente desde tu smartphone fotos y documentos con gran nitidez. Tus recuerdos durarán hasta 100 años en un álbum. Perfecta para imprimir fotos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

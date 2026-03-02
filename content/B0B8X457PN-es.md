@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Primeros 3 meses de suscripción gratuita a ReadyPrint Flex* con el código AMAZON3
-- Impresora multifunción compacta A4 - Impresión, copia y escaneado de alta calidad en una sola máquina
 - Disfruta de recambios de tinta sin complicaciones, entregados en tu puerta, antes de que se te agote.
+- Impresora multifunción compacta A4 - Impresión, copia y escaneado de alta calidad en una sola máquina
+- Primeros 3 meses de suscripción gratuita a ReadyPrint Flex* con el código AMAZON3
 - Cambia solo los colores agotados y ahorra - Con las tintas individuales originales de Epson
 - Conectividad inalámbrica para imprimir desde cualquier lugar - Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil
 

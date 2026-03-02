@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sumérgete en una aventura narrativa en la que tendrás que salvar a tus amigos, tu familia y tu propia vida.
+- Disfruta de una trepidante aventura en una de las entregas más queridas de la franquicia Five Nights at Freddy’s: Into the Pit.
+- Incluye un código de descarga para la banda sonora oficial del juego.
 - Desentraña secretos que llevan décadas ocultos y descubre distintos finales mientras escapas de las garras de criaturas animatrónicas que han causado estragos a lo largo del tiempo.
 - Resuelve divertidos puzles entrelazados con una historia llena de adrenalina.
-- Sumérgete en una aventura narrativa en la que tendrás que salvar a tus amigos, tu familia y tu propia vida.
-- Incluye un código de descarga para la banda sonora oficial del juego.
-- Disfruta de una trepidante aventura en una de las entregas más queridas de la franquicia Five Nights at Freddy’s: Into the Pit.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSPY9GZN{{</world>}}

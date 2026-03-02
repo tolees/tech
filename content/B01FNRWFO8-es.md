@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones mínimas 101 x 60 x 25,3 mm y peso: 0,05 kg
-- Batería con hasta 16 meses de duración con una sola bateria AA, dependiendo su uso
 - Tecnología LED azul y sensor de 1200 ppp que ofrecen velocidad y precisión en en una amplia gama de superficies
-- Sistemas operativos compatibles: compatible con todas las plataformas de ordenadores portátiles y de sobremesa con el puerto USB y Windows Vista/7/8/10 disponible
 - Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
+- Sistemas operativos compatibles: compatible con todas las plataformas de ordenadores portátiles y de sobremesa con el puerto USB y Windows Vista/7/8/10 disponible
+- Batería con hasta 16 meses de duración con una sola bateria AA, dependiendo su uso
 - Raton inalambrico con estilo elegante, funcional y ambidiestro que encaja en cualquier lugar, pensado para su comodidad todo el dia gracias a su práctico tamaño de viaje y larga duración de bateria
 - Amplia tu productividad y trabaja sin limitaciones gracias a su conexión inalámbrica de 2,4 GHz fiable, de hasta 10 m (30 pies)
+- Dimensiones mínimas 101 x 60 x 25,3 mm y peso: 0,05 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01FNRWFO8{{</world>}}

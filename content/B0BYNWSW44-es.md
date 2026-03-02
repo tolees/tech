@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El menú gaming permite optimizar el rendimiento de tus juegos; incluye Reducción del Desenfoque de Movimiento, Ecualizador de Negros, Crosshair y Pantalla Personalizada, que te permite optimizar la vista en cada rincón de un juego
 - Con Google TV puedes acceder a más de 700.000 películas y episodios de televisión de todos tus servicios de streaming; el X75WL también incluye Crunchyroll
 - Puedes ahorrar hasta un 32% más de energía con nuestro televisor; el Eco Dashboard pone todos tus ajustes ecológicos en un lugar intuitivo y fácil de usar, para que puedas ahorrar energía sin complicaciones
-- El menú gaming permite optimizar el rendimiento de tus juegos; incluye Reducción del Desenfoque de Movimiento, Ecualizador de Negros, Crosshair y Pantalla Personalizada, que te permite optimizar la vista en cada rincón de un juego
 - Dolby Vision revela más detalles en cada escena y Dolby Atmos ofrece un sonido envolvente inmersivo Además los altavoces X-Balanced ofrece una calidad de sonido cristalina, sin comprometer la delgadez del televisor
 - Entretenimiento fácil y cotidiano, con el televisor BRAVIA X75WL; lleva nuestro procesador X1 que produce imágenes brillantes y llenas de color, al analizar el contenido en tiempo real y optimiza todo lo que ves
 

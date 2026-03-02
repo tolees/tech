@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ya sea el patio trasero de una casa en los suburbios, un campo de minigolf o en un pueblo del Salvaje Oeste, tus pistas estarán rodeadas de los entornos impresionantes
-- Lo primero es lo primero: haz sitio en tu estantería virtual, porque puedes acceder a más de 130 vehículos y aún más variedad
-- Diferentes modos de juego para lo que diversión signifique para ti, modo sin conexión o modo en línea
-- Antes de impresionar a tus rivales con una gran victoria, déjalos boquiabiertos con nuevos y alocados movimientos
 - Crea el circuito de tus sueños con el potente Editor de Circuitos, o utiliza las mejores creaciones de la comunidad
+- Antes de impresionar a tus rivales con una gran victoria, déjalos boquiabiertos con nuevos y alocados movimientos
+- Diferentes modos de juego para lo que diversión signifique para ti, modo sin conexión o modo en línea
+- Lo primero es lo primero: haz sitio en tu estantería virtual, porque puedes acceder a más de 130 vehículos y aún más variedad
+- Ya sea el patio trasero de una casa en los suburbios, un campo de minigolf o en un pueblo del Salvaje Oeste, tus pistas estarán rodeadas de los entornos impresionantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8JQCCRT{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un cupón con un código para descargar la Banda Sonora Original.
 - La edición física incluirá los siguientes contenidos exclusivos: Un manual impreso
 - Utiliza tus habilidades de pintura refinada y mezcla de colores para resolver puzles complejos voluntariamente en la pista de pruebas de ChromaTec para fines de investigación de ChromaGun, Mark II, más conocida con el nombre de ChromaGun 2
-- Un cupón con un código para descargar la Banda Sonora Original.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G26ZHPS8{{</world>}}

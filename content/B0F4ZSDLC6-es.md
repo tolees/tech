@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIGABYTE G25F2 Monitor Gaming 24 5" FHD – 1920 x 1080 200Hz 1ms 300 CD/m² DisplayHDR 10 HDMI 2.0 DisplayPort 1.4'
-date: 2026-03-01 00:35:25
+date: 2026-03-02 10:06:24
 image: 'https://m.media-amazon.com/images/I/41ream6W0eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tasa de refresco de 200Hz, tiempo de respuesta de 1ms
 - Saturación de color: 120% sRGB
 - Soporta AMD FreeSync Premium, HDR Listo, Eyesafe 2.0
-- Panel IPS SuperSpeed de 24.5 pulgadas con resolución FHD
+- Tasa de refresco de 200Hz, tiempo de respuesta de 1ms
 - Diseño ergonómico: Ajustes de inclinación
+- Panel IPS SuperSpeed de 24.5 pulgadas con resolución FHD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4ZSDLC6{{</world>}}

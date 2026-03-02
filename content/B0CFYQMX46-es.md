@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Botón de inicio/apagado con huella digital e inicio de sesión de un solo toque:Inicio de sesión rápido y seguro, acceso a la nube a los archivos de tu almacén personal de OneDrive⁵ y mucho más
-- Logra lo que quieras con facilidad: Enfréntate a lo que sea que surja durante el día, estés donde estés, con rendimiento más rápido, una batería,¹ y Windows 11
-- El portátil adecuado para tu día a día: Un diseño elegante en colores³ modernos para que destaques de los demás; Es ultraportable con un peso de menos de 1,13 kg (2,5 libras) y una brillante pantalla táctil de 12,4 pulgadas para trabajar y jugar, estés donde estés
-- Procesador Intel Core i5: Haz tu trabajo sin esfuerzos, haz streaming de los nuevos lanzamientos y ejecuta tus apps cotidianas favoritas, ahora con un rendimiento más rápido, hasta 16 GB de RAM y 256 GB de almacenamiento⁴
 - Elegante, portable y cómodo:Surface Laptop Go 3 eclipsa a los portátiles comunes con su moderno diseño ultraportable y colores elegantes³
-- Hasta 15 horas de duración de la batería¹ y carga rápida : Aprovecha la gran potencia, todo el día, para trabajar, jugar, comprar o hacer streaming
+- Logra lo que quieras con facilidad: Enfréntate a lo que sea que surja durante el día, estés donde estés, con rendimiento más rápido, una batería,¹ y Windows 11
 - Los colores que deseas, con un acabado moderno:Disponible en platino, salvia, arenisca y azul hielo, todo con un acabado metálico bien duradero y elegante³
+- Hasta 15 horas de duración de la batería¹ y carga rápida : Aprovecha la gran potencia, todo el día, para trabajar, jugar, comprar o hacer streaming
+- Procesador Intel Core i5: Haz tu trabajo sin esfuerzos, haz streaming de los nuevos lanzamientos y ejecuta tus apps cotidianas favoritas, ahora con un rendimiento más rápido, hasta 16 GB de RAM y 256 GB de almacenamiento⁴
+- El portátil adecuado para tu día a día: Un diseño elegante en colores³ modernos para que destaques de los demás; Es ultraportable con un peso de menos de 1,13 kg (2,5 libras) y una brillante pantalla táctil de 12,4 pulgadas para trabajar y jugar, estés donde estés
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFYQMX46{{</world>}}

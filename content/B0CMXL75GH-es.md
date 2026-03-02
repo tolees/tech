@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unidad de disco únicamente para consolas PS5 edición digital (grupo de modelos CFI-2000 slim).
 - Se requiere una conexión a Internet para emparejar la unidad de disco y la consola PS5 tras la configuración.
 - La unidad reproducirá discos Blu-ray Ultra HD 4K, discos Blu-ray y DVD
-- Contiene: unidad de disco, cubierta O (para la unidad de disco), 2 pies de soporte horizontal (largo) y un manual de instrucciones
+- Unidad de disco únicamente para consolas PS5 edición digital (grupo de modelos CFI-2000 slim).
 - Juega a títulos de PS5 y un extenso catálogo de juegos de PS4 retrocompatibles en Blu-ray Disc o disfruta viendo películas y series
+- Contiene: unidad de disco, cubierta O (para la unidad de disco), 2 pies de soporte horizontal (largo) y un manual de instrucciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMXL75GH{{</world>}}

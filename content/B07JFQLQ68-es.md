@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ILUMINACIÓN SIN LÍMITES: Si quieres darle a tu pc gaming la pieza que necesitas aquí tienes 2. El teclado cuenta con tecnología RGB personalizable y el ratón está diseñado para ofrecer la mejor retroiluminación LED.
 - TECLADO TOTAL: Si buscas precisión y aguante con la tecnología teclado híbrido, 26 teclas anti-ghosting y modo gaming. ¡No se te resistirá ninguna partida!
+- PACK GAMING 2 EN 1: Con este kit gaming, conseguirás complementar tu set up con un teclado semi-mecánico y un ratón óptico sin igual. Te encontrarás con unos perífericos ergonómicos que mejorarán tu capacidad de juego.
 - TODO EN UNO: Tu juego no se verá afectado porque están especialmente diseñados para complementarse teclado y ratón. El raton gaming te ofrece una mejora de agarre y velocidad, mientras que el teclado gaming se centra en precisión y aguante.
 - RATÓN AVANZADO: El mejor agarre y velocidad lo encontrarás con este ratón simétrico y ambidiestro, dotado con grips laterales texturizados, sensor optico Avago y 6 niveles de DPI.
-- PACK GAMING 2 EN 1: Con este kit gaming, conseguirás complementar tu set up con un teclado semi-mecánico y un ratón óptico sin igual. Te encontrarás con unos perífericos ergonómicos que mejorarán tu capacidad de juego.
+- ILUMINACIÓN SIN LÍMITES: Si quieres darle a tu pc gaming la pieza que necesitas aquí tienes 2. El teclado cuenta con tecnología RGB personalizable y el ratón está diseñado para ofrecer la mejor retroiluminación LED.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JFQLQ68{{</world>}}

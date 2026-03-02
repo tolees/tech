@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rendimiento potente y eficiente: Procesador Intel Core Ultra 7-255U con 12 núcleos, 14 hilos y hasta 5,2 GHz con Intel Turbo Boost, perfecto para multitarea intensa y aplicaciones exigentes
-- Gráficos integrados de calidad: Intel Iris Xe Graphics que permite diseño ligero, edición multimedia y reproducción de contenido con fluidez
-- Memoria y almacenamiento superiores: 32 GB DDR5-5600 MHz y SSD PCIe NVMe M.2 de 1 TB para arranque rápido, carga inmediata de aplicaciones y amplio espacio de almacenamiento
 - Diseño elegante y funcional: Chasis en color plata con teclado QWERTY español, ligero y portátil, ideal para trabajar, estudiar o desplazarse con facilidad
 - Pantalla FHD de 15,6": Resolución 1920 x 1080, biseles reducidos y antirreflejo, ideal para trabajar con comodidad y disfrutar de contenido multimedia nítido
 - Sistema operativo moderno: Windows 11 preinstalado, con funciones avanzadas de productividad, seguridad y compatibilidad con las últimas aplicaciones
+- Rendimiento potente y eficiente: Procesador Intel Core Ultra 7-255U con 12 núcleos, 14 hilos y hasta 5,2 GHz con Intel Turbo Boost, perfecto para multitarea intensa y aplicaciones exigentes
+- Gráficos integrados de calidad: Intel Iris Xe Graphics que permite diseño ligero, edición multimedia y reproducción de contenido con fluidez
+- Memoria y almacenamiento superiores: 32 GB DDR5-5600 MHz y SSD PCIe NVMe M.2 de 1 TB para arranque rápido, carga inmediata de aplicaciones y amplio espacio de almacenamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCG2D89G{{</world>}}

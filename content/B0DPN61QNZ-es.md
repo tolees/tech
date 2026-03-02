@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara polivalente para videógrafos: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
-- Incluye la cámara, el objetivo 16-50mm, la batería, el cargador y la correa. Actualización de la versión A: la batería solo se puede cargar externamente con el cargador incluido; la carga a través de USB ya no es posible
 - Objetivo 16-50mm versátil para fotos y vídeos. El zoom motorizado suave y silencioso es ideal para vídeos, con AF fiable al hacer zoom
-- Captura ángulos creativos: encuadra fácilmente a tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable, y hazlo con una velocidad de hasta 11 fps con AF
+- Cámara polivalente para videógrafos: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
 - Diseño compacto: su peso y dimensiones reducidos la hacen ideal para la fotografía de viajes y las grabaciones espontáneas
+- Captura ángulos creativos: encuadra fácilmente a tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable, y hazlo con una velocidad de hasta 11 fps con AF
+- Incluye la cámara, el objetivo 16-50mm, la batería, el cargador y la correa. Actualización de la versión A: la batería solo se puede cargar externamente con el cargador incluido; la carga a través de USB ya no es posible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPN61QNZ{{</world>}}

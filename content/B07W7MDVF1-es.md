@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- «Teclado nórdico: QWERTY»
-- Edita documentos, navega por aplicaciones y crea presentaciones con una precisión sin igual con un panel táctil que admite gestos multitáctiles conocidos.
-- Con cuatro modos de uso diferentes (tocar, leer, dibujar y mirar), puedes hacer más fácilmente dondequiera que estés.
 - El soporte flexible se puede ajustar en un ángulo de 50°: esto significa que siempre puede encontrar el ángulo correcto para su tarea actual. Cuando no tengas nada que escribir, desenchufa el teclado y disfruta de la pantalla de tu iPad sin problemas.
+- «Teclado nórdico: QWERTY»
+- Con cuatro modos de uso diferentes (tocar, leer, dibujar y mirar), puedes hacer más fácilmente dondequiera que estés.
 - Escriba de forma cómoda y precisa en cualquier lugar. El teclado iluminado con un diseño espacioso y una línea completa de teclas especiales de iPadOS, incluidas las nuevas teclas de captura de pantalla y dictado, te ayuda a optimizar tu productividad día y noche.
+- Edita documentos, navega por aplicaciones y crea presentaciones con una precisión sin igual con un panel táctil que admite gestos multitáctiles conocidos.
 - Las pilas no están incluidas porque no se necesitan. El teclado se empareja y se enciende inmediatamente mediante el Smart Connector. También se alimenta directamente del iPad y, por lo tanto, no es necesario cargarlo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

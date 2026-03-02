@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Gran Capacidad de 20000mAh: Proporciona 1,3 cargas completas para tu MacBook Air de 13" o carga smartphones varias veces. Perfecto para viajes largos y jornadas de trabajo.
+- Carga Bidireccional de 45W: UGREEN batería externa se carga completamente en solo 4 horas a través de la entrada USB-C, lista para el siguiente uso.
 - Correa de Transporte y Seguridad Integradas: Usa el cable integrado como un práctico gancho. Incluye múltiples sistemas de protección y un modo de carga suave para dispositivos sensibles.
 - Carga Ultrarrápida de 45W: Carga tu Galaxy S25 al 61% en 30 minutos o iPhones compatibles con PD a alta velocidad. Ideal para usar en cualquier lugar cuando la batería está baja.
-- Carga Bidireccional de 45W: UGREEN batería externa se carga completamente en solo 4 horas a través de la entrada USB-C, lista para el siguiente uso.
 - Carga 3 Dispositivos Simultáneamente: Combina el cable USB-C integrado con dos puertos USB-C y un puerto USB-A para cargar tu teléfono, tableta y portátil a la vez.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

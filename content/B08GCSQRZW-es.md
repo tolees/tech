@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Teclas de ABS de doble inyección: Gracias al proceso de moldeado de doble inyección para garantizar que no se desgasten las etiquetas, las teclas también cuentan con paredes extragruesas capaces de soportar un uso constante.
-- Tecnología Razer HyperSpeed Wireless: Elige el rendimiento inalámbrico optimo para juegos o conecta hasta 3 dispositivos por Bluetooth y pasa de una opción a otra de manera fluida con tan solo una tecla. Incluye un cable USB-C desmontable para cargarlo durante el uso.
-- Switches mecánicos verdes Razer: Escucha y siente la satisfacción en cada pulsación gracias al accionamiento optimizado para juegos: con teclas clásicas de altura completa que no ponen en riesgo la experiencia de tecleado.
-- Dial digital multifunción y 4 teclas multimedia: Configúralas para pausar, reproducir, saltar y retocar todo, desde el brillo hasta el volumen: la comodidad definitiva para que disfrutes del entretenimiento.
 - Switch con armazón transparente: Su diseño totalmente transparente permite mostrar la verdadera luminosidad que Razer Chroma RGB es capaz de hacer: desde personalizaciones de luz intensa hasta una mayor inmersión, gracias a su reacción dinámica a más de 150 juegos integrados.
+- Tecnología Razer HyperSpeed Wireless: Elige el rendimiento inalámbrico optimo para juegos o conecta hasta 3 dispositivos por Bluetooth y pasa de una opción a otra de manera fluida con tan solo una tecla. Incluye un cable USB-C desmontable para cargarlo durante el uso.
+- Dial digital multifunción y 4 teclas multimedia: Configúralas para pausar, reproducir, saltar y retocar todo, desde el brillo hasta el volumen: la comodidad definitiva para que disfrutes del entretenimiento.
+- Switches mecánicos verdes Razer: Escucha y siente la satisfacción en cada pulsación gracias al accionamiento optimizado para juegos: con teclas clásicas de altura completa que no ponen en riesgo la experiencia de tecleado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GCSQRZW{{</world>}}

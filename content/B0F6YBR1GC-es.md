@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juega con detalles vívidos: la amplia pantalla Full HD de 15,6 y rápida frecuencia de actualización de 144 Hz te garantizan imágenes nítidas en tiempo real, brindándote una mayor ventaja competitiva
+- Diseño más delgado y resistente: Su diseño minimalista es 4% más delgado que el modelo anterior, cuenta con puertos estratégicamente situados y durabilidad MIL-STD 810H, pensados en mejorar tu experiencia de juego o estudio
 - Potenciado para llevar la delantera: Aumenta tu efectividad gracias al procesador Intel Core i5-12450HX y los gráficos de NVIDIA GeForce RTX 3050 que redefinen el concepto de precisión en todas tus partidas
 - Siempre fresco: Los ventiladores duales expulsa el calor eficientemente desde la parte trasera, mientras la cámara sellada garantiza 10 W extra de potencia en modo extremo, permitiendo reducir la temperatura y minimizar el ruido
-- Diseño más delgado y resistente: Su diseño minimalista es 4% más delgado que el modelo anterior, cuenta con puertos estratégicamente situados y durabilidad MIL-STD 810H, pensados en mejorar tu experiencia de juego o estudio
-- Juega con detalles vívidos: la amplia pantalla Full HD de 15,6 y rápida frecuencia de actualización de 144 Hz te garantizan imágenes nítidas en tiempo real, brindándote una mayor ventaja competitiva
 - Máximo rendimiento gracias a la IA: Potencia tu experiencia de juego y estudio con Lenovo AI Engine+ con chip LA1 AI, activa el Balance Mode en Lenovo Vantage y deja que la IA realice ajustes sobre la marcha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

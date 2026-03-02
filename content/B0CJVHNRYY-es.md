@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estabilizadores ajustados y teclas sólidas para pulsaciones precisas: elimina el tambaleo en teclas largas y mejora la fluidez general en escritura y gaming prolongado.
-- Switches mecánicos lineales hot-swap para control absoluto: cambia fácilmente tu configuración con otros Gateron sin soldar y personaliza la respuesta tecla a tecla.
-- Diseño tenkeyless para setups competitivos y escritorios minimalistas: más espacio para el ratón y mayor libertad de movimiento sin renunciar a funcionalidades esenciales.
 - Construcción con placa superior de aluminio para máxima estabilidad: mejora la sensación de pulsación y reduce vibraciones incluso en sesiones intensas de juego o trabajo.
+- Estabilizadores ajustados y teclas sólidas para pulsaciones precisas: elimina el tambaleo en teclas largas y mejora la fluidez general en escritura y gaming prolongado.
+- Diseño tenkeyless para setups competitivos y escritorios minimalistas: más espacio para el ratón y mayor libertad de movimiento sin renunciar a funcionalidades esenciales.
 - Iluminación RGB multizona totalmente personalizable por software: crea combinaciones únicas de efectos para streaming, torneos o entornos oscuros.
+- Switches mecánicos lineales hot-swap para control absoluto: cambia fácilmente tu configuración con otros Gateron sin soldar y personaliza la respuesta tecla a tecla.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVHNRYY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch 2 - Pro Controller Resident Evil Requiem Edition'
-date: 2026-02-27 19:43:57
+date: 2026-03-02 10:16:23
 image: 'https://m.media-amazon.com/images/I/41ik6ZUOl1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FYHR3MYZ/?tag=tolees-21'
 descuento: '20.00'
-average: '86.6266666666667'
+average: '82.8342857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

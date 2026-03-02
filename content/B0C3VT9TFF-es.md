@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Si eres un apasionado de la informática y la electrónica , te gusta estar a la última en tecnología y no perderte detalle!
-- Color: multicolor
 - Videojuego PlayStation 5 de la marca Warner Games
+- Color: multicolor
 - Medidas: 14 x 2 x 18 centímetros
 - Referencia: S7820990
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LD Systems MAUI 5
 - Set de altavoces (4.0 canales, Acrilonitrilo butadieno estireno (ABS)
+- LD Systems MAUI 5
 - De plástico, Amplificador, Integrado, 800 W), Negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

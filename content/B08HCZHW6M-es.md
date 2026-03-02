@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conexión Plug & Play. WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional. Simplemente enchufa la nueva luz, descarga la aplicación WiZ y ¡listo!
-- Control de voz con el Asistente de Google, Alexa o los atajos de Siri: Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri. Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas.
 - Descarga la App WiZ: Disfruta de las ventajas de las funciones inteligentes al instante y controlar tu hogar estés donde estés desde tu Smartphone. Programa su encendido y apagado automático, y mucho más. La aplicación WiZ está disponible para dispositivo
-- Ilumina con una luz blanca cálida y suave. Una luz inteligente que se adapta sencillamente a tus actividades diarias. Permite atenuar las luces inteligentes incluso sin un regulador, sólo tienes que ajustar las luces al nivel de brillo que desees utilizando un teléfono inteligente, el mando a distancia WiZ o simplemente la voz.
 - Tecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.
+- Ilumina con una luz blanca cálida y suave. Una luz inteligente que se adapta sencillamente a tus actividades diarias. Permite atenuar las luces inteligentes incluso sin un regulador, sólo tienes que ajustar las luces al nivel de brillo que desees utilizando un teléfono inteligente, el mando a distancia WiZ o simplemente la voz.
+- Control de voz con el Asistente de Google, Alexa o los atajos de Siri: Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri. Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HCZHW6M{{</world>}}

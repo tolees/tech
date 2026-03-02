@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Imágenes y Vídeos de Alta Resolución】: Equipada con el último sistema de medición CMOS, esta cámara digital captura imágenes detalladas con colores vibrantes, admite videos de alta definición FHD 1080P y fotos de 56MP, lo que le permite capturar cada momento impresionante.
-- 【Portabilidad y Durabilidad】: Su diseño compacto y liviano hace que esta camara de fotos sea fácil de llevar a cualquier parte. Es lo suficientemente resistente para el uso diario y lo suficientemente pequeña para caber en el bolsillo, lo que la convierte en su compañera ideal para todos los días.
-- 【Modos de Disparo Versátiles】: Disfrute de distintos estilos de fotografía, incluidas fotos antiguas y en blanco y negro. La función antivibración garantiza imágenes nítidas, mientras que las funciones adicionales como la cámara web, la detección de rostros y sonrisas, la toma en ráfaga y las selfies ofrecen infinitas posibilidades creativas.
 - 【Dos Baterías】 Con dos baterías de alta capacidad, unas pocas cargas pueden durar hasta un mes. El práctico diseño de carga USB-C te permite cargar la cámara de viaje en cualquier lugar y en cualquier momento sin quitar la batería, lo que te permite tomar fotografías sin preocupaciones.
+- 【Modos de Disparo Versátiles】: Disfrute de distintos estilos de fotografía, incluidas fotos antiguas y en blanco y negro. La función antivibración garantiza imágenes nítidas, mientras que las funciones adicionales como la cámara web, la detección de rostros y sonrisas, la toma en ráfaga y las selfies ofrecen infinitas posibilidades creativas.
+- 【Portabilidad y Durabilidad】: Su diseño compacto y liviano hace que esta camara de fotos sea fácil de llevar a cualquier parte. Es lo suficientemente resistente para el uso diario y lo suficientemente pequeña para caber en el bolsillo, lo que la convierte en su compañera ideal para todos los días.
+- 【Imágenes y Vídeos de Alta Resolución】: Equipada con el último sistema de medición CMOS, esta cámara digital captura imágenes detalladas con colores vibrantes, admite videos de alta definición FHD 1080P y fotos de 56MP, lo que le permite capturar cada momento impresionante.
 - 【Fácil de Usar】: Esta camara digital vintage es excepcionalmente fácil de usar, adecuada tanto para principiantes como para profesionales, y permite a cualquiera capturar fácilmente la belleza de la vida cotidiana.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

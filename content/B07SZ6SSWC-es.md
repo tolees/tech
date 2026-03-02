@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: La muñeca disfrazada mide aprox. 13 x 8 x 36 cm (LxAxA). La muñeca y sus accesorios están recomendados para niños a partir de 3 años.
 - ¡Colecciónalas todas! Descubre todas las muñecas Glitter Girls y sus elegantes trajes, accesorios, caballos y perritos
 - La muñeca de 36 cm lleva un vestido blanco y amarillo con lazos en los hombros, unos leggings con conos de helado, un lazo punteado de purpurina y sandalias rojas
-- Charlie tiene un sedoso pelo rojo de nailon, ¡perfecto para peinar! Tiene ojos azules con largas pestañas
 - Muñeca móvil: los brazos se mueven por los codos y los hombros, y las piernas por las rodillas y las caderas
+- Charlie tiene un sedoso pelo rojo de nailon, ¡perfecto para peinar! Tiene ojos azules con largas pestañas
+- Dimensiones: La muñeca disfrazada mide aprox. 13 x 8 x 36 cm (LxAxA). La muñeca y sus accesorios están recomendados para niños a partir de 3 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SZ6SSWC{{</world>}}

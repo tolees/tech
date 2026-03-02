@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Procesador AMD Ryzen 5 220 (6C/HexaCore 3.5 / 4.9GHz, 22MB)
-- Memoria RAM de 16GB en placa DDR5
-- Sistema Operativo: Windows 11 Home
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles 300 nits
 - Tarjeta gráfica integrada AMD Radeon 740M
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles 300 nits
+- Memoria RAM de 16GB en placa DDR5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1TSR2QG{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fotografía: Cámara Evil Full Frame para captar más detalles en situaciones luz y sombra. Con 24,2 megapixels y un enfoque revolucionario incluso en situaciones de poca luz de hasta -6,5EV
-- Vídeo: La calidad del sistema EOS R se traduce en su sensor 6K a 60p. Con gradación profesional del color, una mayor captación de matices a cámara lenta y pantalla de ángulo variable
 - El siguiente paso creativo: Canon EOS R8 te ayudará a mejorar tu creatividad con ángulos más amplios, de mayor calidad y un enfoque extraordinário incluso en situaciones de poca luz
+- Vídeo: La calidad del sistema EOS R se traduce en su sensor 6K a 60p. Con gradación profesional del color, una mayor captación de matices a cámara lenta y pantalla de ángulo variable
+- Fotografía: Cámara Evil Full Frame para captar más detalles en situaciones luz y sombra. Con 24,2 megapixels y un enfoque revolucionario incluso en situaciones de poca luz de hasta -6,5EV
 - Auto Focus Revolucionario: Reconoce a diferentes sujetos. Personas, animales y vehículos con un AF inteligente incluso en situaciones de poca luz
 - Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet. Image.canon para el acceso a la nube y procesamiento en Ray, Camara connect y transmisión UVC/UAC para utilizar tu R8 de Webcam
 

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Teclas de volume e multimídia dedicadas: Controle a reprodução de mídias e ajuste o volume rapidamente sem interromper seu jogo.
+- Luz de fundo RGB dinâmica: Ilumine a sua área de trabalho com seis efeitos de iluminação integrados, atribua uma cor a cada zona de iluminação ou programe os seus próprios efeitos.
 - Design resistente a poeira e respingos: A proteção com classificação IP42 protege contra acidentes, assim seus jogos nunca precisam ser interrompidos.
+- Seis teclas de macro dedicadas: Ative funções, atalhos ou acionamento de teclas, de forma rápida, com seis teclas de macro dedicadas facilmente configuráveis com o software iCUE da CORSAIR.
 - Design resistente a poeira e respingos: A proteção com classificação IP42 protege contra acidentes, assim seus jogos nunca precisam ser interrompidos.
 - Descanso para pulso removível: Um descanso para pulso macio e emborrachado reduz o esforço das suas mãos para você jogar por mais tempo de forma confortável. Além disso.
-- Luz de fundo RGB dinâmica: Ilumine a sua área de trabalho com seis efeitos de iluminação integrados, atribua uma cor a cada zona de iluminação ou programe os seus próprios efeitos.
-- Seis teclas de macro dedicadas: Ative funções, atalhos ou acionamento de teclas, de forma rápida, com seis teclas de macro dedicadas facilmente configuráveis com o software iCUE da CORSAIR.
-- Teclas de volume e multimídia dedicadas: Controle a reprodução de mídias e ajuste o volume rapidamente sem interromper seu jogo.
 - Teclas silenciosas e ágeis: Para uma digitação confortável durante o trabalho ou jogos, com um impacto tátil para um desempenho gamer responsivo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

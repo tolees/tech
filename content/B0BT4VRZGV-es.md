@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tecnología Razer Chroma RGB para disfrutar de una experiencia verdaderamente inmersiva. Personaliza eligiendo entre más de 16,8 millones de colores e innumerables efectos de iluminación y experimenta una mayor inmersión mientras el ratón reacciona dinámicamente con cientos de juegos con integración Chroma.
 - Razer HyperSpeed Wireless (2,4 GHz) y Bluetooth para un rendimiento de latencia ultrabaja o una mayor duración de la batería. Libera un rendimiento fluido y de baja latencia que es más rápido que otras tecnologías inalámbricas o cambia a Bluetooth para disfrutar de más horas de juego. Equipado con compatibilidad multidispositivo para una configuración optimizada.
+- Con tecnología Razer Chroma RGB para disfrutar de una experiencia verdaderamente inmersiva. Personaliza eligiendo entre más de 16,8 millones de colores e innumerables efectos de iluminación y experimenta una mayor inmersión mientras el ratón reacciona dinámicamente con cientos de juegos con integración Chroma.
 - Diseño ergonómico emblemático con 9 controles personalizables para un manejo y un control sin igual. La silueta característica del ratón, favorita de millones de usuarios en todo el mundo, admite perfectamente diferentes agarres, mientras que sus numerosos botones de fácil acceso permiten una combinación infinita de comandos y macros.
-- Hasta 285 horas de duración de la batería para un rendimiento duradero. Con hasta 535* horas en modo Bluetooth y 285 horas con Razer HyperSpeed Wireless, aguanta más tiempo en el fragor de la batalla con un ratón diseñado para dominar las partidas más largas. *Puede variar en función de las condiciones de uso.
 - Sensor óptico avanzado Razer 5G de 18 000 PPP para una precisión optimizada. Adapta el ratón a tu estilo de juego con un nuevo y sólido conjunto de ajustes de sensibilidad. Disfruta de una precisión por cada píxel gracias al sensor ultrafiable que monitoriza tus movimientos sin ningún tipo de latencia.
+- Hasta 285 horas de duración de la batería para un rendimiento duradero. Con hasta 535* horas en modo Bluetooth y 285 horas con Razer HyperSpeed Wireless, aguanta más tiempo en el fragor de la batalla con un ratón diseñado para dominar las partidas más largas. *Puede variar en función de las condiciones de uso.
 - Switches mecánicos para ratón Razer de 2.ª generación para una durabilidad de clics mejorada y mayor consistencia. Con los nuevos puntos de contacto dorados, los switches tienden a estropearse menos y a tener una vida útil más duradera de hasta 60 millones de clics, para que puedas disfrutar de una ejecución precisa y constante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

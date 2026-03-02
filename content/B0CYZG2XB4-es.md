@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Diseñado para Play-station 3】- Mando inalámbrico de alto rendimiento para PS-3 PS-2. Conexión inalámbrica sin complicaciones, fácil de conectar y jugar. El mando de juegos es compatible con los juegos avanzados de PS-3. El mejor regalo para niños y niñas en el Día de Acción de Gracias.
+- 【Doble Vibración】-Los sensores de presión que retumban con cada acción hacen que cada impacto se sienta como si estuvieras en el juego. Siente cada golpe, choque y explosión con la respuesta de choque dual que vibra con la mano. El sistema de control de movimiento de alta sensibilidad detecta cada uno de sus movimientos.
 - 【Servicio】 Obtendrá 2 controladores PS 3, 2 cables de carga; todos los controladores PS 3 de reemplazo Powerextra vienen con una política de devolución de 30 días y un servicio de calidad del producto de 12 meses a partir de la fecha de compra.
 - 【Mango de Diseño Ergonómico】-Mando ps-3 de forma más clásico para PS-3 se adapta perfectamente a las palmas. Todos los botones y controles hacen que su mano sea muy cómoda para juegos prolongados.
 - 【Mando inalámbrico Bluetooth】-Powerextra mando inalámbrico PS-3 Bluetooth de alto rendimiento con una distancia inalámbrica de 30 metros. No sufrirás pérdidas de datos ni interferencias en la señal.
-- 【Doble Vibración】-Los sensores de presión que retumban con cada acción hacen que cada impacto se sienta como si estuvieras en el juego. Siente cada golpe, choque y explosión con la respuesta de choque dual que vibra con la mano. El sistema de control de movimiento de alta sensibilidad detecta cada uno de sus movimientos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYZG2XB4{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superficie de tela texturizada de microtejidos: Optimizada para todos los sensores de ratón para una precisión a nivel de píxel y capacidad de respuesta de seguimiento total, la alta densidad del tejido hace que tu ratón se deslice con facilidad sobre la alfombrilla para disfrutar de movimientos rápidos y fluidos
-- Base antideslizante para que la alfombrilla no se mueva de su sitio: Cuando las cosas se ponen feas, salva el día con una base estable, fundamental para juegos de competición
-- Controles intuitivos en los auriculares: Disfruta de unos controles intuitivos en los auriculares con la función de volumen directamente en los auriculares; ajusta con facilidad el volumen sobre la marcha y no despegues la vista del juego en ningún momento
 - Espuma de goma gruesa de alta densidad para una óptima consistencia y resistencia: Con 3 mm, M y L y 4 mm XXL y 3XL de grosor, las alfombrillas mantienen su forma plana incluso en superficies irregulares, gracias a su base robusta para realizar movimientos consistentes del ratón
+- Base antideslizante para que la alfombrilla no se mueva de su sitio: Cuando las cosas se ponen feas, salva el día con una base estable, fundamental para juegos de competición
+- Superficie de tela texturizada de microtejidos: Optimizada para todos los sensores de ratón para una precisión a nivel de píxel y capacidad de respuesta de seguimiento total, la alta densidad del tejido hace que tu ratón se deslice con facilidad sobre la alfombrilla para disfrutar de movimientos rápidos y fluidos
+- Controles intuitivos en los auriculares: Disfruta de unos controles intuitivos en los auriculares con la función de volumen directamente en los auriculares; ajusta con facilidad el volumen sobre la marcha y no despegues la vista del juego en ningún momento
 - Hasta talla 3XL para adaptarse a todos los tamaños de escritorios: El tamaño 3XL, con el que puedes cubrir un escritorio entero, es óptimo para los que usan una configuración de PPP menor o les gusta tener más espacio en la alfombrilla para maniobrar, mientras que las tres tallas inferiores son adecuadas para otras configuraciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

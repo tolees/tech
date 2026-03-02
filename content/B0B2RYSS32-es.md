@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enfoque automático rápido y preciso: dos motores lineales favorecen un enfoque rápido y preciso. Con este objetivo de Sony, no habrá toma que se te resista
-- Brillo haga el tiempo que haga: una apertura máxima constante de F4 mantiene un brillo óptimo que lo convierte en un valioso objetivo para la creación de contenido, fotografía y videoblogs
-- Atractivo desenfoque del fondo: la apertura circular de 7 hojas de este objetivo zoom motorizado de 10-20 mm de Sony crea hermosos efectos de fondo desenfocado (bokeh)
 - Óptima nitidez: dos elementos ED (dispersión ultrabaja), un asférico ED y tres elementos asféricos garantizan una buena resolución con este objetivo zoom ultra gran angular APS-C, con apertura F4 constante, lo que lo convierte en un buen objetivo de tipo E de Sony para la creación de contenido, videoblogs, fotografía y videografía
+- Brillo haga el tiempo que haga: una apertura máxima constante de F4 mantiene un brillo óptimo que lo convierte en un valioso objetivo para la creación de contenido, fotografía y videoblogs
 - Ergonomía: gracias a su diseño resistente al polvo y la humedad, así como a sus versátiles controles, este objetivo zoom de Sony es óptimo para la mayoría de situaciones desafiantes, tanto en interiores como en exteriores
+- Atractivo desenfoque del fondo: la apertura circular de 7 hojas de este objetivo zoom motorizado de 10-20 mm de Sony crea hermosos efectos de fondo desenfocado (bokeh)
+- Enfoque automático rápido y preciso: dos motores lineales favorecen un enfoque rápido y preciso. Con este objetivo de Sony, no habrá toma que se te resista
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2RYSS32{{</world>}}

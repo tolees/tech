@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uncharted Waters Ahead! – A new doom flag has risen in this all-new story set in the My Next Life as a Villainess universe! This original tale can be enjoyed by both longtime fans and newcomers alike.
 - Rascals, Scoundrels, Villains, and Knaves – Catarina isnt the only one who decided to take a cruise on the Vinculum. The full My Next Life as a Villainess crew is here. Featuring 6 romanceable shipmates, including 2 all-new characters!
-- Batten Down the Hatches! – Along your journey, youll sometimes face two paths before you. Time for a Strategy Meeting! Who better to ask for advice than... well, yourself! As seen in the light novel and anime, Catarina looks within to attend a meeting with five versions of herself—led by Chairman Catarina—to decide which route to take.
 - A Voyage Down Memory Lane – As you progress through the story and fulfill certain conditions, youll unlock special Memory Scenarios. These episodes will take place from the perspective of the other characters in the story. Experience events such as childhood memories and tales from academic life!
+- Uncharted Waters Ahead! – A new doom flag has risen in this all-new story set in the My Next Life as a Villainess universe! This original tale can be enjoyed by both longtime fans and newcomers alike.
+- Batten Down the Hatches! – Along your journey, youll sometimes face two paths before you. Time for a Strategy Meeting! Who better to ask for advice than... well, yourself! As seen in the light novel and anime, Catarina looks within to attend a meeting with five versions of herself—led by Chairman Catarina—to decide which route to take.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCF5HJZX{{</world>}}

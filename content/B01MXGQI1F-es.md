@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistemas operativos compatibles: Windows 7 y superiores, Mac OS 10.x y superiores, Chrome OS
-- Dimensiones mínimas 95 x 58,5 x 34 mm y peso: 0,078 kg
-- Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
 - Ratón inalabrico con diseño contornado y ambidiestro pensado para su comodidad todo el dia. Se adapta fácilmente a cualquier laptop con puerto USB
-- Conexión inalámbrica de 2,4 GHz de gran fiabilidad de hasta 10 mts, además incluye dos baterías AAA de 12 meses de duración
+- Dimensiones mínimas 95 x 58,5 x 34 mm y peso: 0,078 kg
+- Sistemas operativos compatibles: Windows 7 y superiores, Mac OS 10.x y superiores, Chrome OS
+- Cobertura total: Puedes estar tranquilo gracias a la garantía limitada de dos años estándar de HP
 - Tecnologia de LED rojo y su sensor de 1000 dpi ofrecen velocidad y precisión en en una amplia gama de superficies
+- Conexión inalámbrica de 2,4 GHz de gran fiabilidad de hasta 10 mts, además incluye dos baterías AAA de 12 meses de duración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXGQI1F{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Profesional en cada clic, maestría en cada movimiento: los interruptores LIGHTFORCE combinan la velocidad y la fiabilidad de los interruptores ópticos con el satisfactorio clic de los interruptores mecánicos
-- Precisión de campeón: HERO 2, el sensor más avanzado en el universo gaming, ofrece una precisión profesional con hasta 44 000 DPI y un seguimiento de más de 88 g de aceleración a más de 888 IPS (1)
 - Diseñado con los profesionales, concebido para ganar: Mejorado con mayor velocidad y precisión, el ratón inalámbrico PRO 2 LIGHTSPEED para gaming te ayuda a perfeccionar la ventaja competitiva para estar un paso más cerca de la victoria
-- (1)Para activar las funciones avanzadas,es necesario instalar el software Logitech G HUB;(2)La duración de las pilas/baterías depende del uso,de los dispositivos en condiciones de movimiento constante
-- Gaming sin interrupciones, juegues donde juegues: nuestra tecnología inalámbrica LIGHTSPEED ha sido probada para ofrecer una experiencia de torneo fiable y con gran capacidad de respuesta (1)
-- Nota: Estadísticas de PRO Series basadas en datos de 2024 de prosettings.net.
+- Profesional en cada clic, maestría en cada movimiento: los interruptores LIGHTFORCE combinan la velocidad y la fiabilidad de los interruptores ópticos con el satisfactorio clic de los interruptores mecánicos
 - Este ratón para gaming ganador de campeonatos ofrece hasta 95 horas de autonomía, carga USB-C y una tasa de sondeo de 8 kHz con el RECEPTOR PRO LIGHTSPEED, a la venta por separado (2)
+- Gaming sin interrupciones, juegues donde juegues: nuestra tecnología inalámbrica LIGHTSPEED ha sido probada para ofrecer una experiencia de torneo fiable y con gran capacidad de respuesta (1)
+- Precisión de campeón: HERO 2, el sensor más avanzado en el universo gaming, ofrece una precisión profesional con hasta 44 000 DPI y un seguimiento de más de 88 g de aceleración a más de 888 IPS (1)
+- Nota: Estadísticas de PRO Series basadas en datos de 2024 de prosettings.net.
+- (1)Para activar las funciones avanzadas,es necesario instalar el software Logitech G HUB;(2)La duración de las pilas/baterías depende del uso,de los dispositivos en condiciones de movimiento constante
 - Personalizable para cualquier estilo de juego y agarre, el PRO 2 LIGHTSPEED puede ser cuenta con diseño ambidiestro y modular y botones laterales magnéticos programables y conmutables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

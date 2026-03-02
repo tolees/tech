@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- The First Berserker: Khazan es un juego de tipo “Souls” que adapta el universo de DNF (una de las IP mundialmente conocidas de Nexon), que trata sobre la historia de Ozma y Khazan.
-- ・DEBES RECLAMAR Encuentra a todos los enemigos potenciales, recupera todo lo que te arrebataron, busca venganza y obtén el honor y la gloria que por derecho te pertenecen.
 - ・DEBES RECORDAR Antaño fuiste un héroe en la historia de Arad, una figura única en la vida. Recupera las habilidades de batalla olvidadas aprendidas a través de torturas brutales y mata a los enemigos que te difaman y se oponen a ti.
+- ・DEBES RECLAMAR Encuentra a todos los enemigos potenciales, recupera todo lo que te arrebataron, busca venganza y obtén el honor y la gloria que por derecho te pertenecen.
+- The First Berserker: Khazan es un juego de tipo “Souls” que adapta el universo de DNF (una de las IP mundialmente conocidas de Nexon), que trata sobre la historia de Ozma y Khazan.
 - ・DEBES PREVALECER Sobrevive a la persecución implacable de las fuerzas imperiales, ábrete paso a través de conspiraciones destinadas a matar a Khazan y supera los duros entornos que encontrarás.
 - El jugador se convertirá en el héroe Khazan, el antepasado de todos los asesinos que derrotó al dragón berserk Hismar y descubrió la verdad de su caída dentro del imperio.
 

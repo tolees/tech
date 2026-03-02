@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recrea e imagina tus propias aventuras y batallas con Bowser
-- Recrea, juega y vive la emocion de los videojuegos de Super Mario Bros con el Castillo del Reino Champiñón con accesorios: bandera desplegable, bloque de tierra , bloque de interrogación y figura exclusiva de Bowser
 - Incluye figura articulada exclusiva de 6 cm de Bowser
 - Disfruta del castillo pricipal de la saga de Mario y lucha con el malvado Rey Bowser
 - Nintendo, Super Mario Bros, Disfruta del castillo del Reino Champiñon con una figura exclusiva de Bowser y difernetes accesorios
+- Recrea e imagina tus propias aventuras y batallas con Bowser
+- Recrea, juega y vive la emocion de los videojuegos de Super Mario Bros con el Castillo del Reino Champiñón con accesorios: bandera desplegable, bloque de tierra , bloque de interrogación y figura exclusiva de Bowser
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XPD86D6{{</world>}}

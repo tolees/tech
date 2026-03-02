@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ERGONOMÍA CONVENIENTE: El conmutador de modo de enfoque, que permite alternar de forma instantánea entre los modos de enfoque automático y manual junto con un botón de fijación de enfoque personalizable para un disparo eficiente y versátil
 - SIEMPRE FIABLE: Un diseño resistente al polvo y a la humedad ofrece la fiabilidad necesaria para el uso en exteriores y en condiciones adversas
-- RÁPIDO Y PRECISO: El motor lineal XD aprovecha todo el potencial del cuerpo de la cámara, enfocando y siguiendo incluso a los sujetos en movimiento rápido con asombrosa velocidad y precisión
 - INCREÍBLEMENTE NÍTIDO: Dos elementos AA (asférica avanzada) y dos asféricos reducen la distorsión para una gran resolución de objetivo G completa, y tres de cristal ED (dispersión ultrabaja) minimizan el desbordamiento de color
+- RÁPIDO Y PRECISO: El motor lineal XD aprovecha todo el potencial del cuerpo de la cámara, enfocando y siguiendo incluso a los sujetos en movimiento rápido con asombrosa velocidad y precisión
 - MAGNÍFICO BOKEH DE FONDO: Un suave bokeh gracias a un mecanismo de apertura circular de 9 láminas que permite lograr un bokeh natural
+- ERGONOMÍA CONVENIENTE: El conmutador de modo de enfoque, que permite alternar de forma instantánea entre los modos de enfoque automático y manual junto con un botón de fijación de enfoque personalizable para un disparo eficiente y versátil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X78V1VX{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diámetro de objetivo 50 mm
-- Campo de visión aparente 42,7°
-- Ampliación 7x
 - Campo de visión real 6,4°
+- Campo de visión aparente 42,7°
 - Pupila de salida 7,1 mm
+- Ampliación 7x
+- Diámetro de objetivo 50 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BC9SE1U{{</world>}}

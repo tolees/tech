@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 📡 Activación en 10 segundos y geolocalización automática Gracias a su conexión IoT, la baliza se conecta a la DGT 3.0 en solo 100 segundos tras su activación. Envía tu ubicación en tiempo real mediante Telefónica Tech (incluye tarjeta SIM) sin necesidad de apps, móvil ni suscripciones. Ideal en situaciones de emergencia o accidente.
 - 🧲 Imán potente + linterna integrada + resistente Instalación fácil y segura gracias a su base magnética: colócala sobre el techo del vehículo sin salir del coche. Fabricada con materiales resistentes (PC + ABS), aguanta viento (180 Pa), agua y polvo (IP54), y temperaturas de -10 °C a +50 °C.
+- 💡 Luz LED visible a 1 km + 360° cobertura total Emite destellos LED de alta potencia (1800K) con un alcance de hasta 1 kilómetro y visibilidad en todas las direcciones. Cumple la frecuencia exigida (0.8 a 0.2 Hz), garantizando que serás visto incluso en condiciones de lluvia, niebla o baja luminosidad.
+- 📡 Activación en 10 segundos y geolocalización automática Gracias a su conexión IoT, la baliza se conecta a la DGT 3.0 en solo 100 segundos tras su activación. Envía tu ubicación en tiempo real mediante Telefónica Tech (incluye tarjeta SIM) sin necesidad de apps, móvil ni suscripciones. Ideal en situaciones de emergencia o accidente.
 - 🔋 Indicador inteligente de batería + pilas incluidas Incluye un piloto luminoso que te informa del estado de conexión y del estado de las pilas. Este sistema te permite comprobar fácilmente si necesitas cambiar las baterías antes de un viaje. Funciona con 3 pilas LR6 AA (incluidas), con autonomía de hasta 4 horas.
 - 📌 Homologada por la DGT – PC25010094 Cumple con la normativa oficial RD 159/2021 y 1030/2022. Uso obligatorio desde enero de 2026. Su número de homologación está publicado en la web oficial de la DGT (www.dgt.es/v16), lo que te asegura que estás comprando un producto 100% legal
-- 💡 Luz LED visible a 1 km + 360° cobertura total Emite destellos LED de alta potencia (1800K) con un alcance de hasta 1 kilómetro y visibilidad en todas las direcciones. Cumple la frecuencia exigida (0.8 a 0.2 Hz), garantizando que serás visto incluso en condiciones de lluvia, niebla o baja luminosidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G61GFSP1{{</world>}}

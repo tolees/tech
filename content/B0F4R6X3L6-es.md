@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Expresa tu pasión por la época prehistórica diseñando tu propio personaje! Decide qué ropa, color y características quieres que tenga. Elige entre 5 tipos de cuerpo diferentes: herbívoro pequeño, herbívoro grande, rapaz, terópodo grande y mamífero. ¿Cómo será tu personaje?
 - Nombra, gestiona y decora la tienda como tú quieras. Utiliza las ganancias para desbloquear nuevos adornos, iluminación, paredes o suelos... Modifica la distribución, amplía el espacio y mejora su eficiencia a medida que avances.
-- Ven a llenar las estanterías con productos y a quitar el polvo de los expositores, ¡porque ya es hora de comenzar una nueva aventura en Isla de Ámbar!
 - Hay una gran variedad de especies, formas y tamaños. ¡Y no son solo dinosaurios! También hay mamíferos de la Edad de Hielo, anfibios del Pérmico, fauna marina o animales invertebrados. En Amber Isle hay 48 personajes diferentes con quienes entablar amistad, todos ellos con personalidades, preferencias, diálogos y misiones únicas.
+- Ven a llenar las estanterías con productos y a quitar el polvo de los expositores, ¡porque ya es hora de comenzar una nueva aventura en Isla de Ámbar!
 - Utiliza los beneficios de la tienda para restaurar la isla y desbloquear otras regiones. Abre caminos nuevos, adórnala con vegetación y añade servicios para que Isla de Ámbar sea un destino turístico atractivo. Solo así nuestros amigos paleosaurios se plantearán hacer las maletas y mudarse a ella.
+- ¡Expresa tu pasión por la época prehistórica diseñando tu propio personaje! Decide qué ropa, color y características quieres que tenga. Elige entre 5 tipos de cuerpo diferentes: herbívoro pequeño, herbívoro grande, rapaz, terópodo grande y mamífero. ¿Cómo será tu personaje?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4R6X3L6{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30 Horas de reproducción
 - Micrófono Integrado
 - Carga rápida
+- 30 Horas de reproducción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B347WSW6{{</world>}}

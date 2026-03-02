@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para 4K/UHD y disparo continuo con altas velocidades de transferencia de hasta 200 MB/s de lectura y 130 MB/s de escritura (UHS-I U3)
 - Tarjeta de memoria microSD de alta velocidad para su uso en drones, cámaras de acción, cámaras de 360°, smartphones y tablets, Incluye adaptador de tarjetas SD para su uso en cámaras y ordenadores, Disponible en varias capacidades
+- Contenido: 1 x Samsung PRO Ultimate Tarjeta de memoria microSD, 128 GB, Incluye Adaptador SD, Dimensiones: 15 x 11 x 1 mm, Peso: 0,26 g, MB-MY128SA
+- Adecuada para 4K/UHD y disparo continuo con altas velocidades de transferencia de hasta 200 MB/s de lectura y 130 MB/s de escritura (UHS-I U3)
 - Tarjeta microSD con capacidad de almacenamiento de hasta 128 GB para hasta 7,5 horas de grabación de vídeos 4K / UHD o 67.518 fotos en Full HD, Accesorio de fotografía y cámara para creadores, fotógrafos y profesionales de los medios de comunicación
 - Robusta gracias a su protección séxtuple: impermeable, resistente a la temperatura, a prueba de rayos X, a prueba de imanes, a prueba de caídas y sin desgaste
-- Contenido: 1 x Samsung PRO Ultimate Tarjeta de memoria microSD, 128 GB, Incluye Adaptador SD, Dimensiones: 15 x 11 x 1 mm, Peso: 0,26 g, MB-MY128SA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBMGDBTH{{</world>}}

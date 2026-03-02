@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 165Hz: Una frecuencia de actualización de 165 Hz, más de dos veces el estándar de la industria (60 Hz), hace que los juegos funcionen como la seda.
-- Freesync Premium: Disfruta de la mejor calidad de imagen incluso en los juegos más trepidantes.
 - G-menu: AOC G-Menu es una aplicación gratuita que puedes instalar en tu ordenador para personalizar cualquier monitor AOC o AGON y que hacerlo más práctico todavía.
 - Low Input Lag: Potencia tus reflejos cambiando al modo Bajo retraso de entrada de AOC
-- 6 Games mode: Adapta tu monitor al juego con un solo clic de botón. Elige entre los modos predefinidos para juegos FPS, de carreras o RTS, o bien personaliza tus ajustes favoritos y guárdalos.
-- 1500R Curved: El diseño curvo te rodea y te sitúa en el centro de la acción: una experiencia de juego envolvente
 - 1ms: Un tiempo de respuesta de píxeles de 1 ms implica velocidad sin que la experiencia de juego pierda calidad.
+- 1500R Curved: El diseño curvo te rodea y te sitúa en el centro de la acción: una experiencia de juego envolvente
+- Freesync Premium: Disfruta de la mejor calidad de imagen incluso en los juegos más trepidantes.
+- 6 Games mode: Adapta tu monitor al juego con un solo clic de botón. Elige entre los modos predefinidos para juegos FPS, de carreras o RTS, o bien personaliza tus ajustes favoritos y guárdalos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HSKFNY6{{</world>}}

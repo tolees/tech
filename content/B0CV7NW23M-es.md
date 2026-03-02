@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Temporizador: programa el funcionamiento de tu ventilador un máximo de 24 horas. Una vez finalizado el tiempo, el aire acondicionado se apagará solo
-- Gran capacidad: aire acondicionado portátil con una capacidad de enfriamiento de 7000 BTU, equivalentes a 1750 frigorías. Dicha capacidad facilita conseguir la temperatura deseada en la estancia de manera rápida y eficaz. Su gran área de cobertura de 14 m²* permite adaptar y modificar la temperatura de la estancia a los grados deseados. *El espacio a enfriar puede variar dependiendo de los metros cúbicos del mismo
 - Mando a distancia: controla el aire acondicionado cómodamente desde cualquier lugar. Además, su panel de control táctil permite controlar el funcionamiento del aire acondicionado de manera cómoda y sencilla. Pantalla LED: podrás revisar todas las configuraciones posibles de un solo vistazo
-- 4 modos de funcionamiento: modo Ventilador, Refrigeración, Deshumidificación y modo Noche. 2 velocidades del aire acondicionado: adapta su funcionamiento según la necesidad de cada momento. Podrás elegir entre velocidad Baja o Low y velocidad Alta o High. Modo deshumidificación: es capaz de captar hasta un máximo de 20 litros al día, lo que conseguirá un ambiente más sano en tu hogar
 - Gas R-290: respetuoso con el medioambiente y apenas contaminante. Ruedas multidireccionales 360º: traslada el aire acondicionado de una estancia a otra de manera sencilla, cómoda y sin apenas esfuerzo. Accesorios: kit de instalación en ventanas incluido
+- 4 modos de funcionamiento: modo Ventilador, Refrigeración, Deshumidificación y modo Noche. 2 velocidades del aire acondicionado: adapta su funcionamiento según la necesidad de cada momento. Podrás elegir entre velocidad Baja o Low y velocidad Alta o High. Modo deshumidificación: es capaz de captar hasta un máximo de 20 litros al día, lo que conseguirá un ambiente más sano en tu hogar
+- Gran capacidad: aire acondicionado portátil con una capacidad de enfriamiento de 7000 BTU, equivalentes a 1750 frigorías. Dicha capacidad facilita conseguir la temperatura deseada en la estancia de manera rápida y eficaz. Su gran área de cobertura de 14 m²* permite adaptar y modificar la temperatura de la estancia a los grados deseados. *El espacio a enfriar puede variar dependiendo de los metros cúbicos del mismo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CV7NW23M{{</world>}}

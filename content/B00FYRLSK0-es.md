@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fotograma completo de 55 mm, montura E
-- Diseño resistente al agua y al polvo
+- Distancia de enfoque mínima: 0.5 m
 - Diseñado con óptica Carl Zeiss Sonnar T
 - Apertura circular de 9 láminas para un atractivo efecto de desenfoque
-- Distancia de enfoque mínima: 0.5 m
+- Diseño resistente al agua y al polvo
+- Fotograma completo de 55 mm, montura E
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FYRLSK0{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limited-Run Sticker! As a first-run bonus, a 2.75” x 3” sticker featuring the protagonist Shiren and the games traditional Japanese art style will be included with the game! (Note: while supplies last)
 - Shiren Returns to the West! The return of a true classic! Shiren the Wanderer is back for a new adventure!
+- New Adventures and Friends! Journey alongside a colourful cast of islanders, wanderers, and powerful adversaries!
 - Rescue Other Players! Reach your fellow Wanderers whove collapsed inside the dungeon, so they can resume their adventure on the spot and help you in times of need!
 - Mystery Dungeon Offers Endless Gameplay! Procedurally generated dungeon maps, enemies, and loot ensure that every game will be a new challenge for even the most seasoned adventurers!
-- New Adventures and Friends! Journey alongside a colourful cast of islanders, wanderers, and powerful adversaries!
+- Limited-Run Sticker! As a first-run bonus, a 2.75” x 3” sticker featuring the protagonist Shiren and the games traditional Japanese art style will be included with the game! (Note: while supplies last)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLY9NY6{{</world>}}

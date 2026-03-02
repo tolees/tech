@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seguimiento claro y con capacidad de respuesta con sensor óptico de resolución de 1200 DPI
-- Conexión inalámbrica de 2,4 GHz mediante un receptor USB nano
 - Hasta 8 millones de pulsaciones para los botones izquierdo y derecho
 - Diseño único y contorneado, con un acabado resistente y suave al tacto; ligero para viajes
 - Cómodo y funcional en la mano derecha o izquierda (Ambidiestro)
+- Conexión inalámbrica de 2,4 GHz mediante un receptor USB nano
+- Seguimiento claro y con capacidad de respuesta con sensor óptico de resolución de 1200 DPI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CVDHCGL{{</world>}}

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La mega-ciudad "MAGO" es una ciudad de alta tecnología gobernada por un conglomerado corrupto... al menos, eso era hace 24 horas
-- Un emocionante juego de plataformas
 - Después de un apagón repentino, todos sus ciudadanos desaparecieron misteriosamente y la ciudad quedó en total caos
+- Un emocionante juego de plataformas
 - Tu gigantesco brazo protésico con gancho actúa tanto como un método para moverte rápidamente como una forma de eliminar rápidamente a tus oponentes.
-- La Edicion Coleccionista incluye: la banda sonora y un libro de arte
 - Eres capaz de usar tu brazo protésico para saltar sobre acantilados y rascacielos, esquivar balas y trampas, y derrotar a poderosos enemigos.
+- La Edicion Coleccionista incluye: la banda sonora y un libro de arte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKTM1TT2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
+- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet
 - Vídeo: Tus vídeos con calidad 4K te permitirán capturar situaciones de forma fluida y definida
+- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
 - Fotografía: Cámara Evil, ligera y sin espejo para inmortalizar tus recuerdos familiares y vacaciones. 24,1 MP y sensor APS-C con un mayor control de la profundidad de campo
 - Canon: Excelencia en cámaras de vídeo y fotografía desde 1934. Canon es la opción segura
-- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet
 - Auto Focus: Mantén el enfoque Dual Pixel CMOS Auto Focus. Detecta a la persona en el encuadre
 - Objetivos: Capture escenas cotidianas y videoblogs con el RF-S 18-45 mm F4.5-6.3 IS STM y a distancia con el teleobjetivo RF-S 55-210 mm F5-7.1 IS STM
 

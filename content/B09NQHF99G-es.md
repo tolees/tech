@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La leyenda continúa: El K70 RGB PRO conserva los elementos icónicos del galardonado K70 RGB con una estructura de aluminio duradera, interruptores de teclas mecánicos CHERRY MX y retroiluminación RGB.
-- Con la tecnología de hiperprocesamiento CORSAIR AXON: Permite un nuevo nivel de rendimiento, procesando y transmitiendo sus entradas hasta 8 veces más rápidamente que los teclados convencionales.
-- Interruptores de teclas mecánicos 100 % CHERRY MX RGB Red: Tienen un recorrido lineal con una pulsación suave como la seda, ideal para los jugadores de alto rendimiento.
 - Teclas de policarbonato con diseño de fila inferior estándar: Teclas de plástico de policarbonato duraderas con un diseño de fila inferior estándar compatible con juegos de teclas personalizados.
+- Interruptores de teclas mecánicos 100 % CHERRY MX RGB Red: Tienen un recorrido lineal con una pulsación suave como la seda, ideal para los jugadores de alto rendimiento.
+- Con la tecnología de hiperprocesamiento CORSAIR AXON: Permite un nuevo nivel de rendimiento, procesando y transmitiendo sus entradas hasta 8 veces más rápidamente que los teclados convencionales.
+- La leyenda continúa: El K70 RGB PRO conserva los elementos icónicos del galardonado K70 RGB con una estructura de aluminio duradera, interruptores de teclas mecánicos CHERRY MX y retroiluminación RGB.
 - Active la competición: Accione el interruptor de torneo para centrarse en ganar esas partidas tan cruciales, cambiando automáticamente a la retroiluminación estática sin distracciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

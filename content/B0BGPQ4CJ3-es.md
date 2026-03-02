@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Dead Space se mantiene fiel a la emocionante visión del juego original.
 - Dead Space ofrece audio mejorado e imágenes nítidas y desgarradoras.
-- Lo que comienza como una misión rutinaria de reparación para el ingeniero Isaac Clarke y la tripulación del USG Kellion se transforma rápidamente en una lucha por la supervivencia mientras van descubriendo la verdad sobre los horrores que esconde la nave.
-- Las imágenes se han reinventado cuidadosamente para evocar un nuevo nivel de inmersión y calidad.
 - Vuelve Dead Space, el clásico de terror, supervivencia y ciencia ficción, reconstruido desde cero con una fidelidad visual superior y sonido ambiente en 3D.
+- Las imágenes se han reinventado cuidadosamente para evocar un nuevo nivel de inmersión y calidad.
+- Lo que comienza como una misión rutinaria de reparación para el ingeniero Isaac Clarke y la tripulación del USG Kellion se transforma rápidamente en una lucha por la supervivencia mientras van descubriendo la verdad sobre los horrores que esconde la nave.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGPQ4CJ3{{</world>}}

@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Refuerza lo aprendido en el cole desde casa (o donde quieras) mientras lo pasas en grande!
 - Refuerza lo aprendido en el cole desde casa (o donde quieras) mientras lo pasas en grande!
-- Tablet educativa diseñada específicamente para niños, que se convierte en portátil deslizando el teclado
-- 25 actividades de lengua, aprende más de 250 palabras, mayúsculas y minúsculas, sílabas, rimas y deletreo
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - 13 actividades de creatividad, colorea imágenes y tus propias creaciones, divirtiéndote a su vez con las canciones y melodías
+- ¡Refuerza lo aprendido en el cole desde casa (o donde quieras) mientras lo pasas en grande!
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - 9 actividades de matemáticas para aprender orden numérico, símbolos matemáticos y otras destrezas básicas
 - Actividades clasificadas en 27 aplicaciones que cubren muchas materias, teclado qwerty y almacenamiento de hasta 350 creaciones; incorpora un traductor para aprender 60 palabras en inglés
 - 11 actividades de ciencias, explora la naturaleza a través de sus sonidos, aprende a reciclar y algunos fenómenos meteorológicos
 - Versión española
+- 25 actividades de lengua, aprende más de 250 palabras, mayúsculas y minúsculas, sílabas, rimas y deletreo
+- Tablet educativa diseñada específicamente para niños, que se convierte en portátil deslizando el teclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YCQW11Y{{</world>}}

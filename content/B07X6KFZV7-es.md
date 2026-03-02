@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Iluminación roja, USB, aux, spotify; aplicación Pioneer Smart sync compatible con dispositivos iOS y Android; tipo de pantalla: LCD
 - Número de bandas del ecualizador: 13
 - Autorradio bass 1-din con bluetooth
-- Iluminación roja, USB, aux, spotify; aplicación Pioneer Smart sync compatible con dispositivos iOS y Android; tipo de pantalla: LCD
 - Potencia de salida / canal: 50 W
 
 [🛒 Visítala!!!]({{< param buyurl >}})

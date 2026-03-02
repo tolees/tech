@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más allá de la vanguardia del rendimiento: Lleve su sistema a nuevas cotas con la memoria DDR5 más reciente, al desbloquear frecuencias aún más rápidas, mayores capacidades y un mejor rendimiento.
 - Refrigeración de CORSAIR DHX patentada: Refrigera la memoria tanto a través de los circuitos integrados como de la capa de tierra del circuito impreso con su propio disipador de calor, lo que garantiza un alto rendimiento incluso con cargas extremas.
 - Barra superior intercambiable: Es el momento de cambiar de «look». Modifique el estilo y la capacidad de enfriamiento de su memoria con accesorios oficiales o imprima en 3D su propia barra superior para disfrutar de un estilo propio y personal.
-- 30 LED RGB intensos y direccionables: Cada módulo cuenta con 11 LED direccionables individualmente para iluminar su PC con una espectacular luz personalizada.
 - Estilo sofisticado, calidad superior: El estilo pulcro y refinado se combina con una construcción de aluminio forjado de una calidad tan elevada que puede tocarse.
+- Más allá de la vanguardia del rendimiento: Lleve su sistema a nuevas cotas con la memoria DDR5 más reciente, al desbloquear frecuencias aún más rápidas, mayores capacidades y un mejor rendimiento.
+- 30 LED RGB intensos y direccionables: Cada módulo cuenta con 11 LED direccionables individualmente para iluminar su PC con una espectacular luz personalizada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHSGDFN4{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logra que tu equipo se convierta en el mejor del mundo con FC IQ; La renovación de los fundamentos tácticos dentro del juego ofrece un mayor control estratégico y movimientos colectivos más realistas con cada equipo
-- Totalmente compatible con Switch 2
 - Por primera vez, disfruta de una experiencia auténtica en Carrera femenina, en la que tomarás el control de un club o jugadora de las cinco mejores ligas femeninas
 - En Football Ultimate Team Rush, crea tu plantilla de ensueño de cinco futbolistas con un máximo de tres colegas, quienes controlarán a su artículo de futbolista favorito, o enfréntate a clubes de todo el mundo en Rush de Clubes
+- Totalmente compatible con Switch 2
 - EA SPORTS FC 25 tiene a los y las mejores futbolistas de los clubes y competiciones más importantes de todo el mundo; Los datos de partidos de las mejores ligas del mundo determinan como se mueven, como juegan y como ganan en cada partido
 - Recordatorio: El hardware de la consola Nintendo Switch 2 es diferente al de Nintendo Switch, y es posible que algunos juegos de Nintendo Switch no se admitan en Nintendo Switch 2 o no sean totalmente compatibles con ella
 

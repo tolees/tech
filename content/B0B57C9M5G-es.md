@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada para imprimir en grandes volúmenes: depósito previamente cargado con tóner para 5000 páginas
 - Dispone de una conectividad fiable gracias a la conexión Wi-Fi de banda dual, Wi-Fi Direct, Puerto USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria, Seguridad HP Wolf
 - Imprime a doble cara de forma automática documentos con resultados de gran calidad, la velocidad de impresión es de 22 ppm en blanco y negro
-- Esta impresora es compatible con el Kit de recarga de tóner Original HP 153A LaserJet Tank Negro (2.500 páginas) W1530A, y con el Kit de recarga de tóner Original HP 153X LaserJet Tank Negro (5.000 páginas) W1530X de alta capacidad
-- Con la aplicación HP Smart podrás imprimir y compartir en todo momento tus documentos con resultados uniformes cómodamente desde tu móvil
 - La bandeja de entrada principal tiene una capacidad de hasta 250 hojas y la bandeja de salida de 100 hojas
+- Con la aplicación HP Smart podrás imprimir y compartir en todo momento tus documentos con resultados uniformes cómodamente desde tu móvil
+- Fabricada para imprimir en grandes volúmenes: depósito previamente cargado con tóner para 5000 páginas
+- Esta impresora es compatible con el Kit de recarga de tóner Original HP 153A LaserJet Tank Negro (2.500 páginas) W1530A, y con el Kit de recarga de tóner Original HP 153X LaserJet Tank Negro (5.000 páginas) W1530X de alta capacidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B57C9M5G{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - BRILLANTE LED LÁMPARA Y MANO CÁMARA: Este sencillo teléfono móvil cuenta con una luz LED brillante para cuando necesites una linterna compacta. La cámara de fotos integrada, fácil de usar, es ideal para recordar dónde has aparcado el coche o el nombre de un restaurante favorito.
 - LARGA BATERÍA VIDA:: Este teléfono esencial ofrece un tiempo de llamada de hasta 6 horas y un tiempo de espera de hasta 310 horas, lo que significa que no tendrás que preocuparte por la carga y lo hace perfecto para viajar. Gracias al cargador rápido USB suministrado, estarás listo para salir de nuevo en un abrir y cerrar de ojos.
+- PRIORIDAD MANOS-LIBRES LLAMADA : En caso de emergencia, este teléfono móvil permite llamar a un máximo de 5 contactos preestablecidos en modo manos libres con el botón de llamada prioritaria. El teléfono volverá a marcar automáticamente el siguiente número si la persona a la que llamas no responde.
 - COMPATIBLE CON OÍDO SIDA: Este sencillo teléfono móvil le ofrece una calidad de sonido perfecta cuando se utiliza con un audífono. Puedes ajustar fácilmente el nivel de volumen con los botones de control de volumen situados en el lateral del dispositivo.
 - GRANDES PANTALLA Y BOTONES: El teléfono móvil para mayores KX-TU160 de Panasonic está diseñado pensando en la facilidad de uso, con un diseño ligero, compacto y ergonómico, junto con una pantalla TFT-LCD grande y brillante de 2,31", un menú intuitivo con iconos claros y teclas retroiluminadas separadas fáciles de usar.
-- PRIORIDAD MANOS-LIBRES LLAMADA : En caso de emergencia, este teléfono móvil permite llamar a un máximo de 5 contactos preestablecidos en modo manos libres con el botón de llamada prioritaria. El teléfono volverá a marcar automáticamente el siguiente número si la persona a la que llamas no responde.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C1X76CG{{</world>}}
