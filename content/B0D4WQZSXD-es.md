@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica Intel ARC Graphics
-- Pantalla de 14", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
 - Sistema operativo Windows 11 Home
-- Almacenamiento de 512GB SSD
-- Procesador Intel Core Ultra 7-155H, Hasta 4.5 GHz, 18MB L3 Cache
+- Tarjeta gráfica Intel ARC Graphics
 - Memoria RAM de 16GB
+- Procesador Intel Core Ultra 7-155H, Hasta 4.5 GHz, 18MB L3 Cache
+- Pantalla de 14", Dynamic AMOLED 2X 2880 x 1800 píxeles, Antirreflectante, Pantalla táctil, Vision Booster
+- Almacenamiento de 512GB SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4WQZSXD{{</world>}}

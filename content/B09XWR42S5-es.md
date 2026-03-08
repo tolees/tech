@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- conectores m.2 cuádruples: 4 ranuras M.2 Gen4 x4 de 64 Gb/s con Shield Frozr para evitar el thermal throttling durante el acceso hiperrápido a las SSD; cuenta con un sistema de instalación sin herramientas con EZ M.2 Clips
 - CONECTIVIDAD WI-FI 6E - El hardware de red incluye un módulo Intel Wi-Fi 6E con Bluetooth 5.2 y LAN de 2,5 Gbps; los puertos traseros incluyen USB 3.2 Gen 2x2 Tipo-C (20 Gbps), HDMI 2.1 y DisplayPort 1.4, y audio 7.1 HD con Audio Boost
 - REFRIGERACIÓN INTEGRADA - Almohadillas térmicas MOSFET de 7W/mK y un disipador térmico ampliado; disipador térmico para el chipset, M.2 Shield Frozr, un cabezal de refrigeración dedicado para el pump fan y PCB de 6 capas de calidad para servidores.
 - MEMORIA DDR5, RANURAS PCIe 5.0 y 4.0 x16 - 4 ranuras DIMM DDR5 con circuito aislado Memory Boost para overclocking (1DPC 1R, 7000+ MHz); una ranura PCIe 5.0 x16 Steel Armor soporta la tarjeta gráfica principal (ranura PCIe 4.0 x16 secundaria)
+- conectores m.2 cuádruples: 4 ranuras M.2 Gen4 x4 de 64 Gb/s con Shield Frozr para evitar el thermal throttling durante el acceso hiperrápido a las SSD; cuenta con un sistema de instalación sin herramientas con EZ M.2 Clips
 - 12ª y 13ª GEN CORE, ALTO RENDIMIENTO - La PRO Z790-P WIFI emplea un sistema de alimentación Duet Rail 14 (55A, DrMOS) VRM para el chipset Intel Z790 (LGA 1700, 12º y 13º Gen Core) con arquitectura Core Boost para un alto número de núcleos de CPU.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

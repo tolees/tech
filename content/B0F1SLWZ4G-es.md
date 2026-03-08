@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Ultraligero y de Respuesta Rápida】El R1 Mouse pesa solo 59 g, ideal para jugadores que necesitan movimientos ágiles y rápidos. Junto con el teclado X68 HE – con 0,125 ms de latencia, tasa de sondeo de 8000 Hz y sensibilidad de 0,01 mm – ofrece velocidad y precisión extremas para el gaming competitivo.
 - 【Rendimiento personalizable】Con sensor PixArt 3311 de alto rendimiento y hasta 18 000 DPI, el R1 Mouse permite ajustes precisos. El X68 HE cuenta con interruptores magnéticos ajustables (de 0,1 a 3,4 mm) para adaptarse tanto a shooters como a juegos de estrategia MMO.
+- 【Ultraligero y de Respuesta Rápida】El R1 Mouse pesa solo 59 g, ideal para jugadores que necesitan movimientos ágiles y rápidos. Junto con el teclado X68 HE – con 0,125 ms de latencia, tasa de sondeo de 8000 Hz y sensibilidad de 0,01 mm – ofrece velocidad y precisión extremas para el gaming competitivo.
 - 【Personalización avanzada】Configura DPI, tasa de sondeo y macros con el software del R1. El X68 HE ofrece un driver web para ajustar en tiempo real la iluminación, sensibilidad y funciones de las teclas.
 - 【Duraderos y resistentes】El mouse R1 cuenta con una vida útil de 20 millones de clics con microinterruptores de alta calidad, mientras que el teclado X68 HE cuenta con teclas PBT de doble inyección, lo que garantiza leyendas vibrantes y duraderas que resisten la decoloración con el tiempo.
 - 【Diseño ergonómico y cómodo】 Tanto el R1 como el X68 HE están diseñados pensando en la comodidad durante largas sesiones. El R1 se adapta a varios tipos de agarre y el teclado X68 HE, con distribución QWERTY y formato 60%, ahorra espacio y reduce la tensión.

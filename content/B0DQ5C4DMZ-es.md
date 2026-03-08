@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kemono Heroes PS5'
-date: 2026-03-06 10:57:51
+date: 2026-03-07 14:10:18
 image: 'https://m.media-amazon.com/images/I/51TpLH2bdTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQ5C4DMZ/?tag=tolees-21'
 descuento: '42.87'
-average: '26.105'
+average: '24.0666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4 personajes principales, cada uno de ellos con habilidades especiales.
 - 4 mundos con 3 fases cada uno. Cooperativo local de 1 a 4 jugadores.
+- 4 personajes principales, cada uno de ellos con habilidades especiales.
 - Armas y poderes desbloqueables y ¡mucha diversión y acción!
 - Run n Slash n Gun y sorprendentes gráficos de 16 bits.
 

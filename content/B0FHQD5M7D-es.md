@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI POCO C85 - Smartphone de 8+256GB Cámara Dual de 50MP con AI Pantalla inmersiva de 6 9” Potente procesador Octa-Core Carga rápida de 33W 6000mAh Cargador no Incluido Negro Versión ES'
-date: 2026-03-06 15:20:44
+date: 2026-03-07 16:51:13
 image: 'https://m.media-amazon.com/images/I/41ODP5xzpfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FHQD5M7D/?tag=tolees-21'
 descuento: '35.26'
-average: '126.432812500001'
+average: '125.465588235295'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Potente procesador de ocho núcleos, fiable y estable】Impulsado por el MediaTek Helio G81-Ultra, POCO C85 ofrece un rendimiento fluido para aplicaciones cotidianas, multitarea y juegos ligeros: eficiente, receptivo y con bajo consumo de batería
 - 【Batería de gran capacidad de 6000 mAh (típica)】POCO C85 cuenta con una batería gigante de 6000 mAh en un diseño elegante. Mayor duración con un rendimiento extraordinario
 - 【Sistema de doble cámara AI de 50MP, modo Ultra HD】Se adapta a varios escenarios, capturando texturas ricas y luces y sombras realistas, para que puedas captar hermosos momentos sin esfuerzo
-- 【Potente procesador de ocho núcleos, fiable y estable】Impulsado por el MediaTek Helio G81-Ultra, POCO C85 ofrece un rendimiento fluido para aplicaciones cotidianas, multitarea y juegos ligeros: eficiente, receptivo y con bajo consumo de batería
 - 【Pantalla inmersiva de 6.9", AdaptiveSync de hasta 120 Hz】La pantalla de 6.9" ofrece una experiencia visual inmersiva con una claridad y un brillo impresionantes. Con una frecuencia de actualización adaptativa de hasta 120 Hz, disfruta de una experiencia fluida e inmersiva, ya sea mientras navegas o ves contenido multimedia
 - 【Cubierta trasera de cuatro curvas, diseño elegante y refinado】Diseñado para la comodidad, el cuerpo delgado del POCO C85 ofrece un agarre cómodo y un manejo sin esfuerzo, lo que lo hace ideal para estilos de vida en movimiento
 

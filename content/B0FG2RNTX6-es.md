@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2. Controla más área gracias al movimiento panorámico de 360° y 116° en vertical. La cámara sigue automáticamente personas o movimientos detectados.
-- 7. Guarda grabaciones localmente en una tarjeta microSD de hasta 512 GB (no incluida). Compatible con Alexa y Google Assistant para control por voz.
-- 5. Protege tu privacidad con un obturador físico que bloquea la lente y zonas personalizables que puedes excluir del campo de visión.
 - 6. Comunícate fácilmente con audio bidireccional desde tu móvil. Además, la cámara incluye sirena y luz para espantar intrusos de forma inmediata.
-- 1. Captura cada detalle con resolución 4K 8MP y visión nocturna avanzada de hasta 12 m, ideal para proteger tu hogar con imágenes claras tanto de día como de noche.
-- 4. Reconoce rostros conocidos y envía alertas solo si detecta una cara desconocida, reduciendo falsas alarmas y mejorando la precisión de la vigilancia.
+- 5. Protege tu privacidad con un obturador físico que bloquea la lente y zonas personalizables que puedes excluir del campo de visión.
+- 7. Guarda grabaciones localmente en una tarjeta microSD de hasta 512 GB (no incluida). Compatible con Alexa y Google Assistant para control por voz.
 - 3. La detección con IA identifica personas, mascotas, vehículos y sonidos como llanto o cristales rotos, y te avisa solo cuando realmente importa.
+- 1. Captura cada detalle con resolución 4K 8MP y visión nocturna avanzada de hasta 12 m, ideal para proteger tu hogar con imágenes claras tanto de día como de noche.
+- 2. Controla más área gracias al movimiento panorámico de 360° y 116° en vertical. La cámara sigue automáticamente personas o movimientos detectados.
+- 4. Reconoce rostros conocidos y envía alertas solo si detecta una cara desconocida, reduciendo falsas alarmas y mejorando la precisión de la vigilancia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FG2RNTX6{{</world>}}

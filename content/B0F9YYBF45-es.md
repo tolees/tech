@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
-- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 165Hz, IPS-Level 300 nits
-- Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
-- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz, 16MB)
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz, 16MB)
+- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 165Hz, IPS-Level 300 nits
+- Memoria RAM de 32GB SO-DIMM DDR5 5600MHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9YYBF45{{</world>}}

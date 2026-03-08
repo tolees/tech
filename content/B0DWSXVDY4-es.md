@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho 0,33 mm de espesor de alta calidad premium de vidrio templado bordes redondeados en exclusiva para iPhone 16e (6,1 pulgadas).
+- ATENCIÓN: No compatible con iPhone 16,16Pro,16 Plus,16 Pro Max
 - NEWC Protector de pantalla de vidrio templado iPhone 16e (6,1 pulgadas), toque delicado. Sin polvo, sin huellas dactilares, un botón, demasiado fácil de instalar, sin burbujas.
 - Libre de polvo, huellas dactilares libre, instalación de una pulsación súper easiy, libre de burbujas. Muy alta dureza: resistente a los arañazos de hasta 9H. De alta respuesta, alta transparencia y alta transparencia
-- ATENCIÓN: No compatible con iPhone 16,16Pro,16 Plus,16 Pro Max
 - El Protector de Pantalla para proporciona la máxima protección para la pantalla táctil iPhone 16e (6,1 pulgadas). El espacio entre el iPhone 16e (6,1 pulgadas) y el protector de pantalla permite el espacio adecuado para la instalación de la mayoría de las carcasas de teléfonos.
+- Hecho 0,33 mm de espesor de alta calidad premium de vidrio templado bordes redondeados en exclusiva para iPhone 16e (6,1 pulgadas).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWSXVDY4{{</world>}}

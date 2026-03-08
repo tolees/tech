@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTROL REMOTO RF Y LOCAL: MGRING incorpora un completo control box en el cable y un sistema de mando a distancia RF para poder controlar la iluminación de forma inmediata y práctica en cualquier circunstancia
 - 35 MODOS DE ILUMINACIÓN ARGB: Tres temperaturas de estudio: blanco cálido 3000K, blanco balanceado 4500K y blanco frío 6500K Y 5 Modos ARGB de color sólido, rainbow o dinámicos para los efectos más espectaculares en tus streamings o como un avanzado sistema iluminación ambiental
-- PRESTACIONES PROFESIONALES: Tamaño estudiado de 10,2"; LEDs de última generación con 1200 lumens de potencia; Difusor translúcido para uniformidad lumínica y protección de la vista; CRI >90 para una precisión perfecta del color y alimentación USB para transportarlo
 - SOPORTE SMARTPHONE Y WEBCAM: Soporte flexible y adaptable, MGRING permite posicionar tu smartphone webcam en la posición perfecta para conseguir el mejor resultado
+- PRESTACIONES PROFESIONALES: Tamaño estudiado de 10,2"; LEDs de última generación con 1200 lumens de potencia; Difusor translúcido para uniformidad lumínica y protección de la vista; CRI >90 para una precisión perfecta del color y alimentación USB para transportarlo
+- CONTROL REMOTO RF Y LOCAL: MGRING incorpora un completo control box en el cable y un sistema de mando a distancia RF para poder controlar la iluminación de forma inmediata y práctica en cualquier circunstancia
 - TRÍPODE DE ALUMINIO 65-150CM: El MGRING incorpora un trípode de aluminio profesional ajustable 65-150CM con cabezal cilíndrico 360º para una máxima versatilidad de uso; Sin limitaciones de ángulos y sin necesidad de ocupar espacio en la mesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

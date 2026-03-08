@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pantalla de 32 pulgadas WQHD (2560 x 1440) y hasta 600 nits HDR con panel IPS y 178° de visión
-- Amplia conectividad: DP vía USB-C con Power Delivery de 90 W, DisplayPort, HDMI y un hub USB
-- Verificado por Calman y calibrado de fábrica con una precisión de color Delta E < 2
 - Estándar de color internacional: 95% DCI-P3 y 100% sRGB/Rec. 709
+- Verificado por Calman y calibrado de fábrica con una precisión de color Delta E < 2
+- Amplia conectividad: DP vía USB-C con Power Delivery de 90 W, DisplayPort, HDMI y un hub USB
 - Frecuencia de refresco variable (VRR) de 165 Hz con FreeSync Premium Pro, una tecnología que ofrece una experiencia de creación fluida y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONFORT VISUAL: Mejora tu confort visual con el soporte para monitor de hasta 27 pulgadas de esta mesa de ordenador con LED, que eleva la pantalla 15 cm, asegurando el ángulo de visión perfecto y protegiendo tu cuello y ojos en largas sesiones de juego
-- RESISTENTE Y ESTABLE: Fabricada en melamina de madera y con una estructura de acero con recubrimiento en polvo, este escritorio es fácil de limpiar y mantener. Sus pies ajustables garantizan estabilidad en cualquier suelo y prolongan su durabilidad
 - MEDIDAS TOTALES: 100x50x90,5 cm (LxANxAL). Peso máximo soportado: 80 kg (total), 40 kg (encimera) y 10 kg (soporte para monitor). Nota: El control remoto necesita una pila de botón CR2025 (no incluida). Requiere montaje
+- CONFORT VISUAL: Mejora tu confort visual con el soporte para monitor de hasta 27 pulgadas de esta mesa de ordenador con LED, que eleva la pantalla 15 cm, asegurando el ángulo de visión perfecto y protegiendo tu cuello y ojos en largas sesiones de juego
 - CON LUZ LED: Esta mesa de estudio incluye una franja de luz LED RGB con 16 colores y 4 modos, fácilmente controlables mediante el mando a distancia. Ideal para darle un toque vibrante y colorido a tu espacio de trabajo
+- RESISTENTE Y ESTABLE: Fabricada en melamina de madera y con una estructura de acero con recubrimiento en polvo, este escritorio es fácil de limpiar y mantener. Sus pies ajustables garantizan estabilidad en cualquier suelo y prolongan su durabilidad
 - CONECTIVIDAD TOTAL: Esta mesa de despacho viene equipada con dos tomas de corriente, un puerto USB y un puerto tipo C, garantizando que todos tus dispositivos estén siempre cargados y listos para usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

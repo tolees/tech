@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RUXINGX Reloj Inteligente Mujer 1 27" Pantalla Táctil Smartwatch Llamadas Función Femenina Pulsómetro SpO2 Sueño 126 Deportes 220 Esferas Podómetro IP68 Resistente Agua Android iOS Oro'
-date: 2026-03-02 11:16:26
+date: 2026-03-07 18:43:27
 image: 'https://m.media-amazon.com/images/I/51KB1ijGMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

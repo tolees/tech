@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LUMIX FLOW Y LUMIX LAB: Mejora tu flujo de trabajo con LUMIX Flow para una producción de video optimizada y LUMIX Lab para edición de imágenes y personalización de LUT
-- PRORES RAW Y CFEXPRESS: Graba 5,8K ProRes RAW HQ directamente en una tarjeta CFexpress tipo B con esta videocámara 8k lo que agiliza el flujo de trabajo sin dispositivos externos
-- LENTE VERSÁTIL DE 24-105 MM: Lente de cámara de fotograma completo S-R24105 L-Mount F4, ideal para paisajes, retratos y fotografía macro
-- LENTE FIABLE Y ESTABLE: Estabilización óptica de imagen incorporada para imágenes nítidas, la resistencia al polvo, salpicaduras y congelamiento brinda durabilidad en condiciones difíciles
-- VÍDEO 8K Y RANGO DINÁMICO DE 14 PASOS: Cámara digital con grabación 8K 30p, 14 pasos de rango dinámico en V-Log/V-Gamut para color y contraste cinematográficos
 - ENFOQUE AUTOMÁTICO HÍBRIDO DE FASE: El seguimiento avanzado con IA y AF híbrido de fase detecta rostros, ojos y sujetos en movimiento, con captura en ráfaga de alta velocidad de 40 fps
+- PRORES RAW Y CFEXPRESS: Graba 5,8K ProRes RAW HQ directamente en una tarjeta CFexpress tipo B con esta videocámara 8k lo que agiliza el flujo de trabajo sin dispositivos externos
+- VÍDEO 8K Y RANGO DINÁMICO DE 14 PASOS: Cámara digital con grabación 8K 30p, 14 pasos de rango dinámico en V-Log/V-Gamut para color y contraste cinematográficos
 - GRABACIÓN OPEN GATE DE 6,4K: Cámara sin espejo con Open Gate de 6,4K 30p de 10 bits para encuadrar y recortar mientras que una futura actualización desbloquea 8,1K/7,2K
+- LENTE FIABLE Y ESTABLE: Estabilización óptica de imagen incorporada para imágenes nítidas, la resistencia al polvo, salpicaduras y congelamiento brinda durabilidad en condiciones difíciles
+- LENTE VERSÁTIL DE 24-105 MM: Lente de cámara de fotograma completo S-R24105 L-Mount F4, ideal para paisajes, retratos y fotografía macro
+- LUMIX FLOW Y LUMIX LAB: Mejora tu flujo de trabajo con LUMIX Flow para una producción de video optimizada y LUMIX Lab para edición de imágenes y personalización de LUT
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DXQ1M3NP{{</world>}}

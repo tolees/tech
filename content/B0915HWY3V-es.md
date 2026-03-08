@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tocadiscos de tres velocidades con transmisión por correa con soporte de 33/45/78 rpm
-- Mecanismo antiskating, mueble de alta densidad MDF para una mejor resistencia a las vibraciones y resonancias
-- Retorno automático y elevador de brazo manual
 - Ecualizador Phono MM integrado y Line out
+- Mecanismo antiskating, mueble de alta densidad MDF para una mejor resistencia a las vibraciones y resonancias
 - Plato de aluminio fundido a presión
+- Retorno automático y elevador de brazo manual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0915HWY3V{{</world>}}

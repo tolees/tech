@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Múltiples entradas: aux in, usb, micro sd, micrófono
-- Altavoz karaoke multifunción
 - Sintonizador de radio fm
 - Con asa y ruedas para transportarlo fácilmente
+- Múltiples entradas: aux in, usb, micro sd, micrófono
+- Altavoz karaoke multifunción
 - Conexión bluetooth 4.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})

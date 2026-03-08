@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Correas y esferas de reloj personalizables. Correas luminosas para mejorar la seguridad y visibilidad. Más de 100 esferas de reloj disponibles para elegir, con la opción de personalizar la pantalla con tu propia foto durante actividad nocturna
 - Vigilancia de salud constante. Monitorización de la frecuencia cardíaca durante todo el día. Monitorización de SpO2 durante todo el día
 - Pantalla TFT de 1,47” para una interacción fluida. Tasa de refresco de 60Hz. Cuerpo ultradelgado y ligero, 9.99mm.
-- Batería de ultra larga duración. Hasta 18 días de duración de la batería para un uso diario normal
 - 50 modos deportivos, incluidos 10 modos de entrenamiento profesional. Nivel de resistencia al agua de 5 ATM profesional
+- Batería de ultra larga duración. Hasta 18 días de duración de la batería para un uso diario normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08N4JWPTL{{</world>}}

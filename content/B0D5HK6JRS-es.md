@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control fácil del micrófono: Con funciones flip-to-mute y un botón de silencio con indicador LED integrado, silenciar el micrófono es sencillo e intuitivo.
 - Carga siempre lista: Incluyen una base de carga inductiva que asegura que tus auriculares siempre estén preparados para largas sesiones de gaming.
-- Duración inigualable: Disfruta de hasta 40 horas de autonomía continua antes de necesitar recargar nuevamente en la base con acoplamiento magnético.
 - Experiencia de sonido inmersiva: Equipados con controladores personalizados que optimizan el audio para brindar una experiencia de juego excepcional y envolvente.
 - Comunicación clara: Cuenta con un micrófono desmontable Super Wideband equipado con tecnología de cancelación de ruido para conversaciones nítidas.
+- Duración inigualable: Disfruta de hasta 40 horas de autonomía continua antes de necesitar recargar nuevamente en la base con acoplamiento magnético.
+- Control fácil del micrófono: Con funciones flip-to-mute y un botón de silencio con indicador LED integrado, silenciar el micrófono es sencillo e intuitivo.
 - Esta actualización de firmware introduce un aumento del volumen máximo del altavoz y de la ganancia del sidetone. También corrige un parche de seguridad junto con algunos errores menores reportados anteriormente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

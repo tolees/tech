@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yakuza Kiwami 3 & Dark Ties - PS5'
-date: 2026-02-16 16:31:38
+date: 2026-03-07 14:11:24
 image: 'https://m.media-amazon.com/images/I/619ob1Gm16L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DARK TIES Disfruta de la nueva historia de Yoshitaka Mine, de Yakuza 3, en un juego independiente incluido. Después de haber dirigido con éxito una startup, se adentró en el oscuro mundo de la yakuza tras perderlo todo. Con su corazón destrozado, la búsqueda de auténticos vínculos lo impulsa una vez más a emprender un viaje que estará marcado por la violencia y todo tipo de experiencias.
 - Las bulliciosas calles de Okinawa y Tokio cobran vida con un nivel de detalle nunca antes visto, con combates rediseñados que llevan la acción a un nuevo nivel. Las escenas añadidas aportan más profundidad y emoción a la historia, con nuevas y mejoradas experiencias secundarias que te sumergen en su mundo como nunca antes, y mucho más.
 - Dos hombres recorrerán caminos distintos que acabarán por converger, sacudiendo los mismísimos cimientos del destino.
-- DARK TIES Disfruta de la nueva historia de Yoshitaka Mine, de Yakuza 3, en un juego independiente incluido. Después de haber dirigido con éxito una startup, se adentró en el oscuro mundo de la yakuza tras perderlo todo. Con su corazón destrozado, la búsqueda de auténticos vínculos lo impulsa una vez más a emprender un viaje que estará marcado por la violencia y todo tipo de experiencias.
 - Continúa la historia de Kazuma Kiryu mientras lucha para proteger a sus seres queridos en el remake de Yakuza 3, que mejora todos los aspectos del aclamado juego.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

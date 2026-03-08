@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INDICADOR LUZ INTELIGENTE - La luz LED inteligente muestra la fuerza de la señal que recibe el RE200 para ayudarte a encontrar el mejor lugar para colocar el repetidor
-- BAJO CONSUMO ENERGÍA - El consumo eléctrico es bajo por tan solo 6.5W
 - VELOCIDAD SUPER ALTA - Amplíe su conexión Wi-Fi en áreas de difícil acceso con una velocidad combinada de doble banda 2.4Ghz/5Ghz de hasta 750Mbps; admite hasta 32 dispositivos conectados
-- PLUG & PLAY - Muy fácil configuración con sólo presionando el botón WPS en el router y listo para usar
 - ADAPTADOR PUERTO ETHERNET - El puerto ethernet (10/100mbps) permite conectar dispositivos como PC, Videojuegos y más por cable
+- INDICADOR LUZ INTELIGENTE - La luz LED inteligente muestra la fuerza de la señal que recibe el RE200 para ayudarte a encontrar el mejor lugar para colocar el repetidor
+- PLUG & PLAY - Muy fácil configuración con sólo presionando el botón WPS en el router y listo para usar
+- BAJO CONSUMO ENERGÍA - El consumo eléctrico es bajo por tan solo 6.5W
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KXULGJQ{{</world>}}

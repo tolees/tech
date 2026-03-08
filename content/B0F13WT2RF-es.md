@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Appareil photo de 50 + 8 + 2 Mégapixels
-- Smartphone sous systeme Android 15
-- Memoire interne: 128 Go - RAM: 6 Go
 - Ecran de 6.7 - 4G: Oui
+- Smartphone sous systeme Android 15
+- Appareil photo de 50 + 8 + 2 Mégapixels
+- Memoire interne: 128 Go - RAM: 6 Go
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F13WT2RF{{</world>}}

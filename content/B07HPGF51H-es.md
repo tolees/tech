@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sensor CMOS de 36,4 megapíxeles de 35 mm de formato completo
-- Contenido del envío: carcasa Pentax K-1 Mark II, batería de iones de litio D-LI90, cargador de batería D-BC90, ocular FT, tapa ocular ME, cable de alimentación D-CO2E, correa O-ST 162, anillos de fijación de correa
-- Reducción de batido de 5 ejes, resolución de pixelshift II ahora con reducción de sacudidas
-- Rango de sensibilidad especialmente alto hasta ISO 819200 con poco ruido gracias a la nueva unidad aceleradora
 - Resistente al polvo y a la intemperie gracias a 87 juntas y a -10 ° al frío
+- Contenido del envío: carcasa Pentax K-1 Mark II, batería de iones de litio D-LI90, cargador de batería D-BC90, ocular FT, tapa ocular ME, cable de alimentación D-CO2E, correa O-ST 162, anillos de fijación de correa
+- Rango de sensibilidad especialmente alto hasta ISO 819200 con poco ruido gracias a la nueva unidad aceleradora
+- Reducción de batido de 5 ejes, resolución de pixelshift II ahora con reducción de sacudidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HPGF51H{{</world>}}

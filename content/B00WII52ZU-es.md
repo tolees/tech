@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Contenidos: ZEISS Batis 1.8/85 (incluyendo parasol adecuado).
 - Mano de obra de alta calidad: metal resistente aunque con carcasa ligera para gran durabilidad. Protección contra polvo y climatología en situaciones extremas. Diseño de producto innovador.
-- Longitud focal fija de 85 mm con extraordinaria calidad de imagen para fotografía de retratos, eventos y bodas ambiciosa y profesional. Gran velocidad de objetivo gracias a un f-stop de f/1.8.
 - Autofoco rápido, fiable y robusto. Anillo de enfoque de apoyo ergonómico manual muy preciso. Con estabilización óptica de la imagen (OIS). Pantalla OLED que indica la distancia y profundidad de campo.
+- Longitud focal fija de 85 mm con extraordinaria calidad de imagen para fotografía de retratos, eventos y bodas ambiciosa y profesional. Gran velocidad de objetivo gracias a un f-stop de f/1.8.
 - Completamente compatible con cámaras de full frame sin espejo de Sony con montura E como la serie 7 de Sony Alpha (Sony a7, a7 II, a7 III, a7r, a7r II, a7r III, a7s, a7s II) o Sony Alpha 9.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

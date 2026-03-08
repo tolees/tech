@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
 - Diafragmas tipo cúpula de 30 mm
 - Rango de frecuencia de 12 Hz a 22 kHz
+- Los imanes de neodimio de alta potencia proporcionan un sonido contundente
 - Cambia fácilmente entre canciones y llamadas sin necesidad de quitarte los auriculares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

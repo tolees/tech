@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DIARIO DIGITAL DE PRESIÓN ARTERIAL: los valores medidos se pueden guardar fácilmente mediante la función «Scan and Save» de la aplicación gratuita «beurer HealthManager Pro» y se pueden sincronizar con Apple Health, Samsung Health y Health Connect
 - PANTALLA XL: Los resultados de la medición se muestran de forma clara en la pantalla extragrande, lo que facilita su lectura
 - RESULTADOS DE MEDICIÓN PRECISOS: El control de ajuste del brazalete integrado y el indicador de calma patentado garantizan un ajuste óptimo del brazalete y tranquilidad durante la medición
-- DIARIO DIGITAL DE PRESIÓN ARTERIAL: los valores medidos se pueden guardar fácilmente mediante la función «Scan and Save» de la aplicación gratuita «beurer HealthManager Pro» y se pueden sincronizar con Apple Health, Samsung Health y Health Connect
 - RITMO CARDÍACO IRREGULAR: La detección de arritmias del tensiómetro registra irregularidades en el pulso y advierte de posibles alteraciones del ritmo cardíaco
 - FÁCIL MANEJO: Gracias al práctico manejo con un solo botón, la medición de la presión arterial y del pulso en el brazo es especialmente sencilla – ideal para el control diario de tus valores de presión arterial
 

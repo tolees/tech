@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Doble cara automática de impresión hasta A3; pantalla color táctil de 6.8 cm
-- 4 meses de prueba GRATIS del programa de subscripción EcoPro
-- Alimentador automático de documentos (ADF) de 50 hojas2 hasta A3
-- Velocidad de impresión hasta 28ppm9; impresión, copia, escaneado y fax hasta A3
 - Red cableada y WiFi; bandeja de 250 hojas2 y ranura de alimentación manual
+- Velocidad de impresión hasta 28ppm9; impresión, copia, escaneado y fax hasta A3
+- Alimentador automático de documentos (ADF) de 50 hojas2 hasta A3
+- 4 meses de prueba GRATIS del programa de subscripción EcoPro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNYVKDM3{{</world>}}

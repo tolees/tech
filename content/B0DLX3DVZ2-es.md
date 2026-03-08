@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tarjeta Gráfica Intel Iris Xe Graphics
-- Procesador Intel Core i7-1255U (10C/Deca-Core), 1,70 GHz
-- Pantalla de 15,6", FullHD LCD 1920 x 1080 pixeles, 60Hz
-- Almacenamiento de 1TB SSD PCI Express NVMe 4.0
 - Memoria RAM de 16GB DDR4 SDRAM
+- Procesador Intel Core i7-1255U (10C/Deca-Core), 1,70 GHz
+- Almacenamiento de 1TB SSD PCI Express NVMe 4.0
+- Pantalla de 15,6", FullHD LCD 1920 x 1080 pixeles, 60Hz
 - Sistema Operativo: Windows 11 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})

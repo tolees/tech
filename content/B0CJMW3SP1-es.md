@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Google Pixel Fold 5G 256 GB + 12 GB RAM desbloqueado de fábrica, doble SIM Nano-SIM + eSIM, pantalla plegable, smartphone Android de porcelana renovada
 - Tipo de producto: teléfono celular
 - Marca: Google
-- Google Pixel Fold 5G 256 GB + 12 GB RAM desbloqueado de fábrica, doble SIM Nano-SIM + eSIM, pantalla plegable, smartphone Android de porcelana renovada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJMW3SP1{{</world>}}

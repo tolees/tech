@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte de la colección fleurs de jorì
 - Idea de regalo
-- Material: porcelana multicolor, decorada a mano
-- Tamaño: diámetro 6 x h 7,2 cm
 - Designer: marcello jori
+- Parte de la colección fleurs de jorì
+- Tamaño: diámetro 6 x h 7,2 cm
+- Material: porcelana multicolor, decorada a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075ZHCNB9{{</world>}}

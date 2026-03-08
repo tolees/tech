@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TE SACAMOS LOS COLORES – Haz que tu entorno de gaming sea más potente con la iluminación RGB completa y efectos ajustables. Tu set-up no tendrá rival en cuanto a imagen
+- CLICS CON CONCIENCIA – Apúntate al gaming ecológico con el ratón Ybar+. Fabricado con hasta un 60 % de plásticos reciclados, puedes emplearte a fondo en el juego, mientras que ayudas al planeta
 - MAGIA DE 25K – Un sensor de alto rendimiento de 25k, una aceleración de 50 G, una tasa de sondeo de hasta 1000 Hz y una velocidad de seguimiento de 400 IPS: tienes todo lo necesario para ganar y ganar
 - A TU MANERA – Los 6 botones programables, con software avanzado incluido, permiten adaptar la velocidad del cursor (hasta 25 600 PPP), las macros y los colores para que encajen con tu estilo
 - TECNOLOGÍA PUNTA – Con una estructura cómoda, un acabado prémium y almohadillas de deslizamiento de baja fricción, todo en este ratón se ha diseñado para ofrecerte el mejor gaming hasta el momento
-- CLICS CON CONCIENCIA – Apúntate al gaming ecológico con el ratón Ybar+. Fabricado con hasta un 60 % de plásticos reciclados, puedes emplearte a fondo en el juego, mientras que ayudas al planeta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C6MPQF9Y{{</world>}}

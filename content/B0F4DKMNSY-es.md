@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🎮|PROGRAMABLE| Desde su mando a distancia podrás controlarlo todo, como programar su temporizador de 1 a 4h, para que se apague automáticamente trascurrido el tiempo seleccionado.
-- ☀️​❄️​​|FUNCION VERANO/INVIERNO|Cambiando el sentido de giro de las aspas, en modo verano mueve el aire fresco del suelo en sentido ascendente, disipando el calor y refrescando la estancia. En modo invierno distribuye uniformemente el calor de la calefacción acumulado en el techo.
 - 🌬️|APTO PARA INTERIORES Y EXTERIORES| Gracias a sus ligeras aspas de ABS de alta calidad, puede utilizarse tanto para interiores como en exteriores. Disfruta de un ambiente fresco y cómodo en cualquier lugar.
-- 💡​|3 TEMPERATURAS DE LUZ| Si eliges comprar el ventilador de techo con luz, podrás cambiar entre las tres temperaturas de color de su LED de 15W; cálida, neutra o fría, y así crear el ambiente que prefieras. La intensidad de la luz no es regulable.
+- ☀️​❄️​​|FUNCION VERANO/INVIERNO|Cambiando el sentido de giro de las aspas, en modo verano mueve el aire fresco del suelo en sentido ascendente, disipando el calor y refrescando la estancia. En modo invierno distribuye uniformemente el calor de la calefacción acumulado en el techo.
+- 🎮|PROGRAMABLE| Desde su mando a distancia podrás controlarlo todo, como programar su temporizador de 1 a 4h, para que se apague automáticamente trascurrido el tiempo seleccionado.
 - 🤫|ULTRASILENCIOSO| Podrás instalarlo incluso en un dormitorio, ya que el diseño de sus aspas ultraligeras junto al motor DC apenas genera ruido. Únicamente notarás el clima de relax que genera.
+- 💡​|3 TEMPERATURAS DE LUZ| Si eliges comprar el ventilador de techo con luz, podrás cambiar entre las tres temperaturas de color de su LED de 15W; cálida, neutra o fría, y así crear el ambiente que prefieras. La intensidad de la luz no es regulable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DKMNSY{{</world>}}

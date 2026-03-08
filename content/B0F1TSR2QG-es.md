@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tarjeta gráfica integrada AMD Radeon 740M
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles 300 nits
+- Sistema Operativo: Windows 11 Home
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Procesador AMD Ryzen 5 220 (6C/HexaCore 3.5 / 4.9GHz, 22MB)
 - Memoria RAM de 16GB en placa DDR5
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica integrada AMD Radeon 740M
-- Sistema Operativo: Windows 11 Home
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles 300 nits
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1TSR2QG{{</world>}}

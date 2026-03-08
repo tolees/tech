@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El PTFE Capricornio es bien considerado como el tubo PTFE de la más alta calidad en toda la impresión 3D. Las tolerancias ajustadas aseguran que el filamento se lleve directamente al hotend con el menor margen de error posible entre el extrusor y el hotend. La serie Capricorn PTFE XS está clasificada para soportar las temperaturas más altas del mercado, lo que es perfecta para imprimir filamentos exóticos como ABS, nailon y policarbonato.
-- Tubo Capricorn XS 100% original.
-- Acopladores PC4-M6: rosca M6/3 mm, diámetro interior de 4 mm, apto para el tubo cuyo diámetro exterior es de 4 mm, hecho de cobre y plástico de alta calidad, resistente y duradero. Acopladores PC4-M10: rosca M10/6 mm, diámetro interior 4 mm, apto para el tubo cuyo diámetro exterior es de 4 mm, hecho de acero inoxidable de alta calidad y plástico, alta dureza, antioxidación, anticorrosión. Los accesorios extrusores son PC4-M6 y los accesorios hotend son PC4-M10.
 - Cualquier pregunta, no dudes en ponerte en contacto con nosotros en cualquier momento. Te responderemos en 24 horas y te proporcionaremos soporte técnico.
 - También se incluye un cortador de PTFE con una maquinilla de afeitar extra afilada para garantizar que el PTFE se corte plano en ambos lados para evitar cualquier mal funcionamiento o arrastre de calor al alimentar y retraer.
+- El PTFE Capricornio es bien considerado como el tubo PTFE de la más alta calidad en toda la impresión 3D. Las tolerancias ajustadas aseguran que el filamento se lleve directamente al hotend con el menor margen de error posible entre el extrusor y el hotend. La serie Capricorn PTFE XS está clasificada para soportar las temperaturas más altas del mercado, lo que es perfecta para imprimir filamentos exóticos como ABS, nailon y policarbonato.
+- Acopladores PC4-M6: rosca M6/3 mm, diámetro interior de 4 mm, apto para el tubo cuyo diámetro exterior es de 4 mm, hecho de cobre y plástico de alta calidad, resistente y duradero. Acopladores PC4-M10: rosca M10/6 mm, diámetro interior 4 mm, apto para el tubo cuyo diámetro exterior es de 4 mm, hecho de acero inoxidable de alta calidad y plástico, alta dureza, antioxidación, anticorrosión. Los accesorios extrusores son PC4-M6 y los accesorios hotend son PC4-M10.
+- Tubo Capricorn XS 100% original.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086YPDHMF{{</world>}}

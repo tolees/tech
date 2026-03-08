@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sincroniza la frecuencia de actualización de la pantalla con la tarjeta gráfica para eliminar el desgarro y la tartamudez de la pantalla.
-- HDR400: alto rango dinámico para color y contraste mejorados, brindando una experiencia de visualización más vívida.
 - Frecuencias de actualización de 144 Hz para imágenes brillantes y ultrasuaves
 - Respuesta rápida de 1 ms (MPRT) para una imagen nítida y un juego fluido
+- HDR400: alto rango dinámico para color y contraste mejorados, brindando una experiencia de visualización más vívida.
 - Reduce el parpadeo de la pantalla para minimizar la fatiga visual durante el uso prolongado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

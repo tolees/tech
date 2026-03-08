@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Imagen definida
 - Modelo: PROMP225
 - Monitor de visualización
+- Imagen definida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DBL6LF7C{{</world>}}

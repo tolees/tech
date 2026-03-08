@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transmisión inalámbrica de música por bluetooth
-- Denon dialogue enhancer
 - 4k uhd hdmi con canal de retorno de audio
+- Transmisión inalámbrica de música por bluetooth
 - Diseño plano y montaje en pared
+- Denon dialogue enhancer
 - Barra de sonido todo en uno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 7 elementos
 - Contiene fluido ecológico H2O Natural Liquid
-- Potencia: 400 W / 600 W / 1000 W
-- Gran inercia térmica
 - ¿Buscas un radiador eficiente, sostenible con el medio ambiente y que no dispare tu factura de la luz? El R-ECOFLUID2-7 es justo lo que necesitas.
+- Potencia: 400 W / 600 W / 1000 W
+- 7 elementos
+- Gran inercia térmica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MW8NK6F{{</world>}}
