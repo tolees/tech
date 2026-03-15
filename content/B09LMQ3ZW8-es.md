@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'ASUS TUF Gaming B550M-PLUS WiFi II - Placa Base de Gaming Micro-ATX AMD PCIe 4.0 2X M.2 VRM de 10 etapas Wi-Fi 6 2.5 GB Ethernet HDMI DP USB 3.2 Gen. 2 de Tipo A y C Aura Sync RGB B550 II'
+date: 2026-03-11 07:57:56
+image: 'https://m.media-amazon.com/images/I/51vzv6uxuQL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09LMQ3ZW8-es ASUS TUF Gaming B550M-PLUS WiFi II - Placa Base de Gaming...'
+sku: 'B09LMQ3ZW8-es'
+tags: [ 'asus','wifi','🇪🇸', ]
+actualPrice: 111.99 EUR
+currency: EUR
+price: 111.99
+comparePrice: 167.51 EUR
+prodname: 'ASUS TUF Gaming B550M-PLUS WiFi II - Placa Base de Gaming Micro-ATX AMD PCIe 4.0 2X M.2 VRM de 10 etapas Wi-Fi 6 2.5 GB Ethernet HDMI DP USB 3.2 Gen. 2 de Tipo A y C Aura Sync RGB B550 II'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09LMQ3ZW8/?tag=tolees-21'
+descuento: '33.14'
+average: '124.513636363636'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Diseñada para gaming online: Wi-Fi 6, Realtek 2.5 Gb Ethernet y TUF LANGuard
+- Zócalo AMD AM4: Compatible con los procesadores AMD Ryzen de las series 5000, 5000 G, 4000 G y 3000
+- Alimentación mejorada: 8+2 etapas de potencia, toma ProCool, componentes TUF y Digi+ VRM para una vida útil larga
+- Conectividad: M.2 PCIe 4.0, USB 3.2 Gen. 2 de tipo A tipo C
+- Refrigeración completa: Disipadores VRM, PCH y M.2, conectores de ventilación híbrida y Fan Xpert 2+
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B09LMQ3ZW8{{</world>}}
