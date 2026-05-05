@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clasificación P66/IP68 a prueba de polvo y agua: REDMI Note 15 Pro 5G ha superado la prueba de resistencia al agua certificada por TÜV SÜD a una profundidad de 2 metros durante 24 horas, por lo que no tendrá que preocuparse por las salpicaduras de agua.
 - Nuevo sistema de cámara de 200MP de nitidez extrema: El REDMI Note 15 Pro 5G está equipado con una nueva cámara principal de 200MP de 4ª generación con un sensor de gran tamaño de 1/1,4 pulgadas, que ofrece un detalle de imagen sin precedentes
-- Asistente de IA: te hace la vida más fácil
 - Pantalla inmersiva 1.5K de 6,83 pulgadas que protege los ojos: utilizando materiales emisores de luz emblemáticos para reducir el consumo de energía, con un brillo máximo de hasta 3.200 nits, los detalles permanecen vívidos y la pantalla es claramente visible incluso en entornos con mucha luz
+- Asistente de IA: te hace la vida más fácil
 - Batería de capacidad ultra grande de 6580mAh (típica): Equipado con una batería de carbono de silicio ultra grande de alta densidad energética, el cuerpo sigue siendo delgado y ligero
+- Clasificación P66/IP68 a prueba de polvo y agua: REDMI Note 15 Pro 5G ha superado la prueba de resistencia al agua certificada por TÜV SÜD a una profundidad de 2 metros durante 24 horas, por lo que no tendrá que preocuparse por las salpicaduras de agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GM6NKT6L{{</world>}}

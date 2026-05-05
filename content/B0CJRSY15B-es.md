@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Imprime hasta 32 páginas por minuto; impresión a doble cara de 16 caras por minuto
-- Escanea hasta 22.5 imágenes por minuto¹; panel de control de LCD 2 líneas
-- Incluye un tóner con un rendimiento de 700 páginas² y disponibilidad de consumibles con capacidad de 3000 páginas²
-- Fast ethernet, 5 GHz WiFi and USB; 128 MB de memoria interna
 - Alimentador automático de documentos (ADF) con capacidad de 50 hojas³; bandeja de entrada de 250 hojas³
+- Escanea hasta 22.5 imágenes por minuto¹; panel de control de LCD 2 líneas
+- Fast ethernet, 5 GHz WiFi and USB; 128 MB de memoria interna
+- Incluye un tóner con un rendimiento de 700 páginas² y disponibilidad de consumibles con capacidad de 3000 páginas²
+- Imprime hasta 32 páginas por minuto; impresión a doble cara de 16 caras por minuto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJRSY15B{{</world>}}

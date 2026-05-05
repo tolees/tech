@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FUNCIÓN DE MACROS Y TECLAS PROGRAMABLES: Permite configurar macros y personalizar funciones, mejorando la eficiencia tanto para gaming como para trabajo.
-- CONEXIÓN SIN LÍMITES: Cambia sin esfuerzo entre tres modos de conexión: cableado, 2.4G y Bluetooth 5.0, brindándote libertad total para adaptarte a tu entorno de juego.
 - CABLE TIPO-C EXTRAÍBLE Y RETROILUMINACIÓN PERSONALIZABLE: El cable Tipo-C extraíble facilita la organización, mientras que la retroiluminación multicolor te sumerge en un ambiente visual cautivador. RK802, el teclado que proporciona una experiencia de juego duradera y a la moda. Si tiene algún problema, siempre estamos disponible.
-- DISEÑO 60%: Compacto y eficiente, con solo el 60% del tamaño de un teclado estándar, perfecto para espacios reducidos y para usuarios que buscan minimalismo sin sacrificar funcionalidad.
+- CONEXIÓN SIN LÍMITES: Cambia sin esfuerzo entre tres modos de conexión: cableado, 2.4G y Bluetooth 5.0, brindándote libertad total para adaptarte a tu entorno de juego.
 - ILUMINACIÓN RGB PERSONALIZABLE: Incluye retroiluminación RGB con múltiples modos y efectos de luz personalizables, para adaptarse a cualquier ambiente y estilo de juego.
+- DISEÑO 60%: Compacto y eficiente, con solo el 60% del tamaño de un teclado estándar, perfecto para espacios reducidos y para usuarios que buscan minimalismo sin sacrificar funcionalidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZRQGHFB{{</world>}}

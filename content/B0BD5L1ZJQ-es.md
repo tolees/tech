@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Razer HyperSpeed Wireless (2,4 GHz) y Bluetooth: Libera un rendimiento fluido y de baja latencia que es un 25 % más rápido que otras tecnologías inalámbricas o cambia a Bluetooth para disfrutar de más horas de juego. Equipado con compatibilidad multidispositivo para una configuración optimizada.
-- Con tecnología Razer HyperScroll: Ejecuta rápidamente comandos repetidos o avanza a toda velocidad a través del contenido en el modo de giro libre. Activa el modo dentado para mejorar la precisión y obtener una respuesta satisfactoria, perfecta para cambiar de armas o habilidades.
 - 19 botones programables: Tanto si estás programando solo lo esencial como si vas a por todas con macros avanzadas, este ratón está equipado con botones situados ergonómicamente que te permiten tener un arsenal de comandos al alcance de la mano.
 - Hasta 250 horas de duración de la batería: Resiste más tiempo en el fragor de la batalla con este ratón antes de tener que sustituir su batería, con hasta 400* horas en modo Bluetooth y 250* horas de juego de baja latencia sin interrupciones en Razer HyperSpeed Wireless. *Medido con una pila AA alcalina
 - Sensor óptico Razer Focus Pro de 30 000 PPP: El nuevo sensor de Razer ofrece un rendimiento de seguimiento impecable en una mayor variedad de superficies, incluido el cristal, e incluye funciones inteligentes para mejorar la puntería y el control.
+- Razer HyperSpeed Wireless (2,4 GHz) y Bluetooth: Libera un rendimiento fluido y de baja latencia que es un 25 % más rápido que otras tecnologías inalámbricas o cambia a Bluetooth para disfrutar de más horas de juego. Equipado con compatibilidad multidispositivo para una configuración optimizada.
+- Con tecnología Razer HyperScroll: Ejecuta rápidamente comandos repetidos o avanza a toda velocidad a través del contenido en el modo de giro libre. Activa el modo dentado para mejorar la precisión y obtener una respuesta satisfactoria, perfecta para cambiar de armas o habilidades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BD5L1ZJQ{{</world>}}

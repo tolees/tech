@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Batería de 1200mAh】 17 horas de juego (con luces/vibración) y solo 3 horas de carga. Perfecto para maratones gaming con menos recargas.
-- 【Funciones Adicionales】 ① Iluminación RGB personalizable ② 2 botones traseros programables ③ Giroscopio de 6 ejes ④ Función NFC
-- 【Joysticks TMR】 Combina la durabilidad del Efecto Hall con la precisión de película de carbono. Jugabilidad fluida, ideal para partidas competitivas.
-- 【Despertar con Un Toque】 El mando EasySMX S10, compatible con Switch 2, ¡incluye función de despertar con un solo toque! Cambia sin problemas entre modos S/X para jugar al instante en Switch 1/2, PC y móvil. Conmutación de modos con un botón y soporte multiplataforma universal.
-- 【Botones Mecánicos Completos】 Microinterruptores mecánicos con actuación de 0.3mm y más de 5 millones de pulsaciones, ofreciendo retroalimentación táctil similar a teclados gaming premium.
-- 【D-Pad Intercambiable y Placa Frontal Personalizable】 Cambia entre D-pad de disco o cruzado, además de placas frontales magnéticas extraíbles para personalizar estilo y jugabilidad. ¡Cambia de look en segundos!
 - 【Guía de Conexión para Switch 2】 Ajusta el interruptor trasero a modo "S" → Mantén HOME 3 segundos hasta que el LED parpadee rápido. En la Switch: Ve a 【Controles】 > 【Cambiar forma de agarrar/Orden】 → LED fijo + vibración breve = emparejado. (Solo primera vez) Dentro de 20 segundos: Retira y vuelve a colocar el Joy-Con para activar la función de despertar. Pulsa HOME brevemente para reconectar automáticamente después.
 - 【HD Rumble】 Motor ALPS Linear HD Rumble genuino para retroalimentación háptica multicapa que da vida a tus juegos.
+- 【D-Pad Intercambiable y Placa Frontal Personalizable】 Cambia entre D-pad de disco o cruzado, además de placas frontales magnéticas extraíbles para personalizar estilo y jugabilidad. ¡Cambia de look en segundos!
+- 【Despertar con Un Toque】 El mando EasySMX S10, compatible con Switch 2, ¡incluye función de despertar con un solo toque! Cambia sin problemas entre modos S/X para jugar al instante en Switch 1/2, PC y móvil. Conmutación de modos con un botón y soporte multiplataforma universal.
+- 【Joysticks TMR】 Combina la durabilidad del Efecto Hall con la precisión de película de carbono. Jugabilidad fluida, ideal para partidas competitivas.
+- 【Batería de 1200mAh】 17 horas de juego (con luces/vibración) y solo 3 horas de carga. Perfecto para maratones gaming con menos recargas.
+- 【Funciones Adicionales】 ① Iluminación RGB personalizable ② 2 botones traseros programables ③ Giroscopio de 6 ejes ④ Función NFC
+- 【Botones Mecánicos Completos】 Microinterruptores mecánicos con actuación de 0.3mm y más de 5 millones de pulsaciones, ofreciendo retroalimentación táctil similar a teclados gaming premium.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FMK3DPK3{{</world>}}

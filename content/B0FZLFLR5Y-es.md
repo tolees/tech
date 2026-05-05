@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Experiencia integral】Cámara principal Light Fusion 800 de 50 MP, diseño y tacto de nivel insignia, experiencia de comunicación de nivel insignia, comunicación sin conexión de Xiaomi
-- 【Rendimiento más rápido, mejor refrigeración】Procesador de nueva generación, sistema de refrigeración Poco IceLoop, resolución súper táctil de 16x y frecuencia de muestreo táctil instantánea de 2560, Juegos mejorados
-- 【Altavoces estéreo simétricos】Diseño de altavoz estéreo simétrico
-- 【Batería masiva de 6500 mAh (típica)】Batería de silicio-carbono de larga duración: mantiene más del 80 % de capacidad después de 1600 ciclos, resistencia a bajas temperaturas de 2,65 V
 - 【Pantalla ultrabrillante para el cuidado de los ojos】Pantalla CrystalRes de 1.5K más grande, pantalla ultrabrillante de 3200 nits
+- 【Rendimiento más rápido, mejor refrigeración】Procesador de nueva generación, sistema de refrigeración Poco IceLoop, resolución súper táctil de 16x y frecuencia de muestreo táctil instantánea de 2560, Juegos mejorados
+- 【Batería masiva de 6500 mAh (típica)】Batería de silicio-carbono de larga duración: mantiene más del 80 % de capacidad después de 1600 ciclos, resistencia a bajas temperaturas de 2,65 V
+- 【Experiencia integral】Cámara principal Light Fusion 800 de 50 MP, diseño y tacto de nivel insignia, experiencia de comunicación de nivel insignia, comunicación sin conexión de Xiaomi
+- 【Altavoces estéreo simétricos】Diseño de altavoz estéreo simétrico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FZLFLR5Y{{</world>}}

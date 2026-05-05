@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nivelación automática sin preocupaciones con CR Touch y sensor de desplazamiento Z: el sensor CR Touch se encarga de la nivelación automática, mientras que el sensor de deformación calibra el desplazamiento Z de forma autónoma.
-- Carga y descarga automática de filamento – Con un toque en "Extruir", el filamento fluye uniformemente desde la boquilla; con "Retraer", se extrae rápidamente. Cambia los filamentos sin esfuerzo: rápido, limpio y cómodo.
 - Eje Z dual y eje Y estable con rieles lineales: dos husillos roscados de precisión en el eje Z minimizan el bamboleo y evitan las desviaciones de impresión. El eje Y con dos rieles lineales de acero endurecido de 8 mm garantiza estabilidad a largo plazo y alta precisión de impresión.
 - Potente extrusor directo "Sprite" – Equipado con el nuevo extrusor de doble engranaje completamente metálico "Sprite", el Ender 3 V3 SE ofrece una fuerza de extrusión más potente con un peso reducido. El filamento se transporta de manera uniforme y sin deslizamiento, ideal para PLA, TPU, PETG, etc.
+- Carga y descarga automática de filamento – Con un toque en "Extruir", el filamento fluye uniformemente desde la boquilla; con "Retraer", se extrae rápidamente. Cambia los filamentos sin esfuerzo: rápido, limpio y cómodo.
 - 250 mm/s de impresión a alta velocidad – La Ender-3 V3 SE admite una velocidad máxima de impresión de 250 mm/s y una aceleración de 2500 mm/s².
+- Nivelación automática sin preocupaciones con CR Touch y sensor de desplazamiento Z: el sensor CR Touch se encarga de la nivelación automática, mientras que el sensor de deformación calibra el desplazamiento Z de forma autónoma.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FZHWM8YR{{</world>}}

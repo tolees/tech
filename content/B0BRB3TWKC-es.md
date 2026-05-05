@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexión triple: La tecnología Bluetooth permite conectar y cambiar entre tres dispositivos a la vez; disfruta de hasta 76 horas de juego de baja latencia en el modo inalámbrico RF de 2.4 GHz, o utiliza el USB estándar con cable
 - Montaje con junta: experiencia de escritura óptima gracias al diseño de montaje de junta de tres capas y a la cubierta superior de metal
+- Interruptores mecánicos ROG NX intercambiables: vástago lubricado intercambiable para obtener clics suaves, carcasa lubricada para eliminar los ruidos de rebote, accionamiento rápido y curvas de fuerza ajustadas por ROG
 - La intuitiva pantalla OLED muestra información del sistema y diversos indicadores de ajustes, con una palanca de tres posiciones para navegar fácilmente entre los ajustes
 - Compatibilidad con MacOS: cambia fácilmente entre teclado Windows y teclado MacOS
-- Interruptores mecánicos ROG NX intercambiables: vástago lubricado intercambiable para obtener clics suaves, carcasa lubricada para eliminar los ruidos de rebote, accionamiento rápido y curvas de fuerza ajustadas por ROG
+- Conexión triple: La tecnología Bluetooth permite conectar y cambiar entre tres dispositivos a la vez; disfruta de hasta 76 horas de juego de baja latencia en el modo inalámbrico RF de 2.4 GHz, o utiliza el USB estándar con cable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRB3TWKC{{</world>}}

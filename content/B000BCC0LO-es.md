@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proceso de transporte seguro de almacenamiento y reenvío
 - En modo Full Duplex hasta 1000 Mbit/s por puerto
 - Funciona silenciosamente gracias a una construcción sin ventilador
+- Proceso de transporte seguro de almacenamiento y reenvío
 - Tiene funciones de ahorro de energía con D-Link Green
 - Una detección automática de MDI/MDIX en todas las conexiones
 

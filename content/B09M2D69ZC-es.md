@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [2K Super HD & Cobertura 360°] Capture vídeos nítidos en 3MP (2K), mostrando muchos más detalles que el 1080p. La lente gira para cubrir los 360°, sin dejar puntos ciegos. Gracias a la visión nocturna IR avanzada de hasta 12 metros, puede reconocer claramente rostros y objetos incluso en total oscuridad.
-- [Detección Humana IA & Seguimiento Automático] Reduzca las falsas alarmas. La IA integrada distingue las formas humanas (ignorando cortinas en movimiento o insectos) y sigue sus movimientos automáticamente para grabar todo el evento. Reciba alertas instantáneas en su móvil solo cuando realmente importa.
 - [Audio Bidireccional & Alarma Sonora] Hable al instante con su familia a través del audio bidireccional claro. Para una defensa activa, configure la cámara para que active automáticamente una sirena cuando se detecte un extraño, disuadiendo a los visitantes no deseados antes de que entren.
 - [WiFi 6: Conexión Estable a Través de Paredes] Impulsada por la última tecnología WiFi 6 (2.4GHz), esta cámara atraviesa las paredes mejor que los modelos antiguos WiFi 4. Disfrute de una transmisión en vivo fluida y sin interrupciones, incluso si la cámara está instalada lejos del router, asegurando un monitoreo confiable sin retrasos.
+- [Detección Humana IA & Seguimiento Automático] Reduzca las falsas alarmas. La IA integrada distingue las formas humanas (ignorando cortinas en movimiento o insectos) y sigue sus movimientos automáticamente para grabar todo el evento. Reciba alertas instantáneas en su móvil solo cuando realmente importa.
+- [2K Super HD & Cobertura 360°] Capture vídeos nítidos en 3MP (2K), mostrando muchos más detalles que el 1080p. La lente gira para cubrir los 360°, sin dejar puntos ciegos. Gracias a la visión nocturna IR avanzada de hasta 12 metros, puede reconocer claramente rostros y objetos incluso en total oscuridad.
 - [Sin Suscripción Obligatoria & Privacidad] La suscripción a la nube es opcional. No está obligado a pagar cuotas mensuales: simplemente use una tarjeta microSD (hasta 256 GB, no incluida) para grabar 24/7 manteniendo todas las funciones activas. Además, use el Modo Privacidad para apagar automáticamente la lente cuando esté en casa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para zurdos y diestros
-- Resolución del sensor 1200 DPI y alcance de 10 metros
-- Gestión inteligente de la energia para prolongar la duración de la batería. Viene con pilas 1 AA incluidas
 - Mouse ergonómico, 2,4 GHz
+- Resolución del sensor 1200 DPI y alcance de 10 metros
+- Apto para zurdos y diestros
+- Gestión inteligente de la energia para prolongar la duración de la batería. Viene con pilas 1 AA incluidas
 - Fabricado con plásticos 100% reciclados posconsumo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

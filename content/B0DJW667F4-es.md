@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potenciación de graves con un solo toque: Con la tecnología BassUp que analiza las bajas frecuencias en tiempo real, sólo tienes que pulsar el botón BassUp para potenciar los graves al momento. Ofrece unos graves más profundos y potentes para crear una experiencia inmersiva.
-- Nota: los auriculares Bluetooth soundcore Q11i no disponen de cancelación activa del ruido (ANC).
 - Audio de alta resolución: Con controladores dinámicos de 40 mm, los auriculares Bluetooth soundcore Q11i ofrecen un sonido de alta resolución con agudos claros y frecuencias altas ampliadas, que hacen resaltar los detalles más sutiles de la música.
 - Almohadillas extraíbles: las almohadillas de soundcore Q11i son extraíbles. Gira y separa las almohadillas sin esfuerzo para sustituirlas más fácilmente.
+- Nota: los auriculares Bluetooth soundcore Q11i no disponen de cancelación activa del ruido (ANC).
+- Potenciación de graves con un solo toque: Con la tecnología BassUp que analiza las bajas frecuencias en tiempo real, sólo tienes que pulsar el botón BassUp para potenciar los graves al momento. Ofrece unos graves más profundos y potentes para crear una experiencia inmersiva.
 - 60 horas de reproducción: Disfruta de hasta 60 horas de reproducción con los auriculares Bluetooth soundcore Q11i. Una carga rápida de 5 minutos te da 4 horas más de escucha, para que puedas seguir con el ritmo durante más tiempo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

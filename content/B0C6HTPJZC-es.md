@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escucha por más tiempo: Los auriculares inalámbricos JBL Tune 235 NC ofrecen 10 hrs de autonomía, más 30 hrs con el estuche de carga y la cancelación de ruido activada, o 12 hrs más 36 hrs con ANC desactivada
-- Resistentes al agua y al polvo: con diseño IP54, estos auriculares inalámbricos pueden soportar cualquier entrenamiento o tormenta, así que no dejes que te detenga el mal tiempo
 - Aplicación JBL: personaliza los gestos de control táctil, activa la localización de tus auriculares, controla el ruido de fondo y los modos Smart Audio & Video para disfrutar de tu música
+- Resistentes al agua y al polvo: con diseño IP54, estos auriculares inalámbricos pueden soportar cualquier entrenamiento o tormenta, así que no dejes que te detenga el mal tiempo
+- Escucha por más tiempo: Los auriculares inalámbricos JBL Tune 235 NC ofrecen 10 hrs de autonomía, más 30 hrs con el estuche de carga y la cancelación de ruido activada, o 12 hrs más 36 hrs con ANC desactivada
 - Cancelación activa de ruido: bloquea las distracciones con Smart Ambient; escucha más de lo que quieres y menos de lo que no, controladores de 6 mm que ofrecen un sonido JBL Pure Bass
 - Llamadas claras: dos micrófonos en cada auricular hacen que se te escuche con claridad, y el VoiceAware te permite decidir cuánto escuchar de tu propia voz, controlando la entrada de micrófono que se envía a los auriculares
 

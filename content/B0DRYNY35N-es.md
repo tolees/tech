@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseno intuitivo y confiable: con visor Live View OLED, pantalla LCD de ángulo libre y carga USB-C, resistencia al polvo y las salpicaduras, Wi-Fi y Bluetooth para un uso confiable y sencillo
-- Enfoque y estabilizacion precisos: fotos sin desenfoques y vídeos fluidos con el Dual IS 2 y BIS de 5 ejes, AF de contraste con DFD proporciona un enfoque rápido y preciso, incluso con poca luz
 - Video versatil: graba en 4K 30p sin límite de tiempo o experimenta con los modos FHD Slow Motion y Quick Motion, el apoyo de 12 pasos de V-Log L para obtener resultados cinematográficos
-- Calidad de imagen: captura imágenes impresionantes con el sensor CMOS de 20,3 MP y Venus Engine que cuenta con los modos Live View Composite y Photo Style para una mayor creatividad
 - Lente flexible de 14-140 mm: captura todo, desde paisajes hasta deportes y retratos, con la lente de cámara digital H-FSA14140 de 14-140 mm F3.5-F5.6 incluida, con OIS integrado
+- Diseno intuitivo y confiable: con visor Live View OLED, pantalla LCD de ángulo libre y carga USB-C, resistencia al polvo y las salpicaduras, Wi-Fi y Bluetooth para un uso confiable y sencillo
+- Calidad de imagen: captura imágenes impresionantes con el sensor CMOS de 20,3 MP y Venus Engine que cuenta con los modos Live View Composite y Photo Style para una mayor creatividad
+- Enfoque y estabilizacion precisos: fotos sin desenfoques y vídeos fluidos con el Dual IS 2 y BIS de 5 ejes, AF de contraste con DFD proporciona un enfoque rápido y preciso, incluso con poca luz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DRYNY35N{{</world>}}

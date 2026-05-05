@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El estudio completo para compositores: conecta tu guitarra a la Scarlett Solo. Añade el micro CM25 MkIII. Ponte los auriculares SH-450. Empieza a crear éxitos.
 - Inicio rápido: nunca ha sido tan fácil ponerse a grabar. Está demostrado que el inicio rápido de Focusrite te permite empezar a crear música enseguida.
-- Sonido con calidad de estudio: la Scarlett incluye los conversores con 120 dB de intervalo dinámico de las interfaces Focusrite que usan los mejores estudios.
-- Encuentra tu propio sonido: el modo Air añade presencia musical y armonía intensa a tus grabaciones, para que destaquen las voces y guitarras en la mezcla.
 - Todo lo que necesitan los técnicos: incluye Pro Tools Intro+ para Focusrite, Ableton Live Lite, Cubase LE y Hitmaker Expansion, un conjunto de efectos imprescindibles, potentes instrumentos de software y herramientas de masterización fáciles.
+- Encuentra tu propio sonido: el modo Air añade presencia musical y armonía intensa a tus grabaciones, para que destaquen las voces y guitarras en la mezcla.
+- El estudio completo para compositores: conecta tu guitarra a la Scarlett Solo. Añade el micro CM25 MkIII. Ponte los auriculares SH-450. Empieza a crear éxitos.
+- Sonido con calidad de estudio: la Scarlett incluye los conversores con 120 dB de intervalo dinámico de las interfaces Focusrite que usan los mejores estudios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5JPJJ2M{{</world>}}

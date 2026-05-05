@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HDMI 1.4, DP 1.2, Zeroframe
-- Tiempo de Respuesta 1 m/s VRB
 - Soporte ergonómico con inclinación de pantalla
-- Tecnología anti-fragmentación AdaptiveSync
+- Tiempo de Respuesta 1 m/s VRB
 - Pantalla de 27", Full HD IPS TFT 1920 x 1080 pixeles, 120 Hz, 250 Nits
+- HDMI 1.4, DP 1.2, Zeroframe
+- Tecnología anti-fragmentación AdaptiveSync
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN28QY5P{{</world>}}

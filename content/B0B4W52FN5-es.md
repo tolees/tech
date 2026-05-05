@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 60% Form Factor Keyboard:DK61SE es un teclado mecánico del 60% con un diseño de distribución ANSI ultracompacto y un cuerpo que se puede agarrar con una mano, aportando más espacio para sus operaciones de escritorio y ratón.
-- Compatibilidad y servicio postventa:Compatibilidad y servicio postventa Adecuado para Windows11/10/8/7/XP. Mac OS, Vista y Linux son compatibles con la escritura y la oficina solamente.si encuentra algún problema, no dude en ponerse en contacto con nosotros, DIERYA le dará una respuesta satisfactoria en 24 horas!
 - Diseño ergonómico:DK61SE teclado retroiluminado RGB tiene tapas de teclas de diseño ergonómico con la altura del paso, la altura de escritura del teclado es cómodo y menos fatiga. Está especialmente diseñado para jugadores, trabajadores de oficina, redactores, programadores y mecanógrafos.
-- Double-shot Keycaps:El uso de material transparente en los caracteres de la tecla, no hay necesidad de imprimir caracteres en la tecla, en comparación con la impresión de caracteres ordinarios no se desvanecerá con el tiempo, a través de la luz de fondo a través de la capa transparente para mostrar los caracteres, puede encontrar fácilmente las teclas en la oscuridad
+- Compatibilidad y servicio postventa:Compatibilidad y servicio postventa Adecuado para Windows11/10/8/7/XP. Mac OS, Vista y Linux son compatibles con la escritura y la oficina solamente.si encuentra algún problema, no dude en ponerse en contacto con nosotros, DIERYA le dará una respuesta satisfactoria en 24 horas!
 - Full Anti-Ghosting:DK61SE Teclado para juegos de 61 teclas, soporta más de 6 teclas de entrada simultánea y sin conflicto. Apoyar 1000Hz tasa de sondeo, sin latencia, juego suave escribiendo.
+- Double-shot Keycaps:El uso de material transparente en los caracteres de la tecla, no hay necesidad de imprimir caracteres en la tecla, en comparación con la impresión de caracteres ordinarios no se desvanecerá con el tiempo, a través de la luz de fondo a través de la capa transparente para mostrar los caracteres, puede encontrar fácilmente las teclas en la oscuridad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4W52FN5{{</world>}}

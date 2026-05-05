@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enfoque infinito permitido. Enfoque manual y exposición manual.
-- Nota: Solo adaptador de lente. Lente de la imagen no incluida.
-- Compatible con Sony NEX-3 NEX-3C NEX-3N NEX-5 NEX-5C NEX-5N NEX-5R NEX5T NEX6 NEX7 NEX-F3 a6000 a5000 a3500 a3000 Alpha A7 A7R NEX-VG10 VG20 Alpha A7/A7Ⅱ , A7R/A/7RⅡ, A7S/A7SⅡ y más
-- Permite que la lente de tornillo M42 se ajuste al cuerpo de la cámara Sony NEX E-Mount.
 - Superficie lisa para un montaje sin esfuerzo. Construcción duradera de aluminio anodizado.
+- Nota: Solo adaptador de lente. Lente de la imagen no incluida.
+- Permite que la lente de tornillo M42 se ajuste al cuerpo de la cámara Sony NEX E-Mount.
+- Compatible con Sony NEX-3 NEX-3C NEX-3N NEX-5 NEX-5C NEX-5N NEX-5R NEX5T NEX6 NEX7 NEX-F3 a6000 a5000 a3500 a3000 Alpha A7 A7R NEX-VG10 VG20 Alpha A7/A7Ⅱ , A7R/A/7RⅡ, A7S/A7SⅡ y más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HGDFTUO{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalla de 27", WQHD IPS 2560 x 1440 pixeles, 120 Hz
+- Tiempo de Respuesta 1 m/s VRB
 - 2x HDMI 2.0, 1x DP 1.2, Zeroframe
 - Tecnología anti-fragmentación AdapativeSync
-- Tiempo de Respuesta 1 m/s VRB
 - Soporte ergonómico con inclinación de pantalla
-- Pantalla de 27", WQHD IPS 2560 x 1440 pixeles, 120 Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DM6CJM41{{</world>}}

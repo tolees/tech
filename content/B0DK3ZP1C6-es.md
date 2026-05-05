@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESBLOQUEO Y PAGOS CON TOUCH ID — Touch ID está integrado en el botón superior, así que puedes usar tu huella para desbloquear el iPad, iniciar sesión en apps y pagar de forma segura con Apple Pay.
-- APPLE PENCIL Y SMART FOLIO — Gracias al Apple Pencil Pro, tu iPad mini se convierte en un lienzo en blanco y en un dispositivo increíble para tomar notas. El Apple Pencil (USB C) también es compatible con el iPad mini. Las fundas Smart Folio, disponibles en cuatro colores, protegen tu iPad mini y sirven de soporte cuando las pliegas.*
 - IPADOS + APPS — iPadOS hace que el iPad sea más productivo, intuitivo y versátil. Usa varias apps a la vez, rellena cualquier campo de texto con el Apple Pencil y la función Escribir a Mano, edita tus fotos y compártelas. Además, el iPad mini viene con Safari, Mensajes, Keynote y muchas otras apps de serie, por no hablar de las más de un millón de apps que te esperan en el App Store.
-- CONEXIONES — Con la conexión Wi-Fi 6E puedes transferir fotos, documentos y vídeos de gran tamaño a toda pastilla allá donde el trabajo te lleve.* Y el puerto USB C te ofrece conexiones a la velocidad del rayo.
-- * AVISOS LEGALES — Esto es un resumen de las principales prestaciones del producto.
-- RENDIMIENTO Y ALMACENAMIENTO — El rendimiento y la velocidad gráfica son las señas de identidad del chip A17 Pro. Como ofrece autonomía para un día entero, no hay tarea ni proyecto que se le resista al iPad mini.* Y con una capacidad de almacenamiento a partir de 128 GB, tienes espacio de sobra para todas tus apps, música, películas y mucho más.*
 - CÁMARAS AVANZADAS — El ultra gran angular frontal de 12 Mpx con Encuadre Centrado del iPad mini es lo más para las videollamadas y los selfies. Por su parte, el gran angular trasero de 12 Mpx con flash True Tone es perfecto para escanear documentos, hacer fotos y grabar vídeos en 4K.
-- POR QUÉ EL IPAD MINI — Todo lo bueno del iPad en un diseño superportátil. Con pantalla Liquid Retina de 8,3 pulgadas,* chip A17 Pro superveloz, ultra gran angular frontal de 12 Mpx con Encuadre Centrado, conectividad USB C, redes Wi-Fi 6E ultrarrápidas y compatibilidad con el Apple Pencil Pro.* Úsalo para tomar apuntes, anotar documentos y editar fotos o vídeos.
+- * AVISOS LEGALES — Esto es un resumen de las principales prestaciones del producto.
+- CONEXIONES — Con la conexión Wi-Fi 6E puedes transferir fotos, documentos y vídeos de gran tamaño a toda pastilla allá donde el trabajo te lleve.* Y el puerto USB C te ofrece conexiones a la velocidad del rayo.
+- RENDIMIENTO Y ALMACENAMIENTO — El rendimiento y la velocidad gráfica son las señas de identidad del chip A17 Pro. Como ofrece autonomía para un día entero, no hay tarea ni proyecto que se le resista al iPad mini.* Y con una capacidad de almacenamiento a partir de 128 GB, tienes espacio de sobra para todas tus apps, música, películas y mucho más.*
 - PANTALLA LIQUID RETINA DE 8,3 PULGADAS — La pantalla Liquid Retina incorpora tecnologías avanzadas como True Tone, gama cromática amplia (P3) y una reflectividad extremadamente baja. El resultado es una imagen alucinante.*
+- POR QUÉ EL IPAD MINI — Todo lo bueno del iPad en un diseño superportátil. Con pantalla Liquid Retina de 8,3 pulgadas,* chip A17 Pro superveloz, ultra gran angular frontal de 12 Mpx con Encuadre Centrado, conectividad USB C, redes Wi-Fi 6E ultrarrápidas y compatibilidad con el Apple Pencil Pro.* Úsalo para tomar apuntes, anotar documentos y editar fotos o vídeos.
+- APPLE PENCIL Y SMART FOLIO — Gracias al Apple Pencil Pro, tu iPad mini se convierte en un lienzo en blanco y en un dispositivo increíble para tomar notas. El Apple Pencil (USB C) también es compatible con el iPad mini. Las fundas Smart Folio, disponibles en cuatro colores, protegen tu iPad mini y sirven de soporte cuando las pliegas.*
+- DESBLOQUEO Y PAGOS CON TOUCH ID — Touch ID está integrado en el botón superior, así que puedes usar tu huella para desbloquear el iPad, iniciar sesión en apps y pagar de forma segura con Apple Pay.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK3ZP1C6{{</world>}}

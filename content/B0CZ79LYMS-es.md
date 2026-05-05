@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conectividad: HDMI, DP
 - Pantalla: 27 pulgadas, WLED, IPS, FHD
 - Brillo: 300 cd/m2
-- Conectividad: HDMI, DP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ79LYMS{{</world>}}

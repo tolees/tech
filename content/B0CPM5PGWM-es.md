@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SU MEJOR ÁNGULO – Encuentre la posición ergonómica perfecta con este teclado. Con un ángulo de escritura ajustable, ofrece la comodidad necesaria durante todo el día para horas y horas de tecleo
-- UN MAL DÍA LO TIENE CUALQUIERA – Algunos días empiezan mal, pero al menos no debe alarmarse si cae café en el teclado. Resistente a los vertidos, el Ody II garantiza que nada se interponga en su día
-- PRODUCTIVIDAD Y TRANQUILIDAD – No hay nada más molesto que un teclado ruidoso, por eso este tiene teclas silenciosas y flotantes de perfil bajo para favorecer la concentración
 - 5 AÑOS DE TRANQUILIDAD – Utiliza nuestros productos sin preocupaciones con la garantía de 5 años. Se han diseñado para durar y están respaldados por nuestro compromiso con la calidad. ¡Disfrútalos!
+- UN MAL DÍA LO TIENE CUALQUIERA – Algunos días empiezan mal, pero al menos no debe alarmarse si cae café en el teclado. Resistente a los vertidos, el Ody II garantiza que nada se interponga en su día
+- SU MEJOR ÁNGULO – Encuentre la posición ergonómica perfecta con este teclado. Con un ángulo de escritura ajustable, ofrece la comodidad necesaria durante todo el día para horas y horas de tecleo
+- PRODUCTIVIDAD Y TRANQUILIDAD – No hay nada más molesto que un teclado ruidoso, por eso este tiene teclas silenciosas y flotantes de perfil bajo para favorecer la concentración
 - UN TECLADO MUY FINO – Saque el máximo partido a cada tecla. Este fino teclado de tamaño completo con diseño QWERTY ES permite disfrutar de una escritura rápida que le facilitará su trabajo
 - SIN ATADURAS – Totalmente inalámbrico, el teclado Ody II ofrece 10 m de alcance inalámbrico y esto significa libertad de movimientos cuando se trabaja en casa, en la oficina o en salas de reuniones
 

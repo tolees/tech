@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'XIAOMI Motion-Activated Noche LUZ 2 Bluetooth  Negro'
-date: 2025-11-18 13:04:28
+title: 'XIAOMI Motion-Activated Noche LUZ 2 Bluetooth Negro'
+date: 2026-05-05 09:39:48
 image: 'https://m.media-amazon.com/images/I/21ngZQRqXHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09PRCM1QC-es XIAOMI Motion-Activated Noche LUZ 2 Bluetooth Negro'
 sku: 'B09PRCM1QC-es'
-tags: [ '9523d978-59fe-477f-8c56-f69a4f1f65a6_0','9523d978-59fe-477f-8c56-f69a4f1f65a6_1601','Arborist Merchandising Root','Buceo y snorkel','CML-Home','Deportes acuáticos','Deportes y aire libre','Hogar y cocina','Lighting & Electrical','Linternas de buceo','Ropa y equipo para deportes','Self Service','Special Features Stores','bluetooth','xiaomi','🇪🇸', ]
-actualPrice: 9.99 EUR
+tags: [ 'bluetooth','xiaomi','🇪🇸', ]
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.99
+price: 10.99
 comparePrice: 14.99 EUR
-prodname: 'XIAOMI Motion-Activated Noche LUZ 2 Bluetooth  Negro'
+prodname: 'XIAOMI Motion-Activated Noche LUZ 2 Bluetooth Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: 'XIAOMI'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B09PRCM1QC/?tag=tolees-21'
-descuento: '33.36'
-average: '11.8678947368422'
+descuento: '26.68'
+average: '11.7152173913044'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OB02868
-- Altos estándares durante el proceso de producción
-- Explora nuestra gama de productos
 - 6.93418E+12
+- Explora nuestra gama de productos
+- Altos estándares durante el proceso de producción
+- OB02868
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PRCM1QC{{</world>}}

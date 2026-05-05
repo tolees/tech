@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prácticos controles multimedia: Manténgase concentrado en su zona con cuatro botones multimedia dedicados. Controle el volumen, la reproducción, el bloqueo de Windows y los botones de brillo, todo con sólo tocar un botón.
 - Retroiluminación RGB en ocho zonas: Cree una iluminación personalizada tan deslumbrante como sus jugadas más épicas con 8 zonas de brillante iluminación RGB.
+- Prácticos controles multimedia: Manténgase concentrado en su zona con cuatro botones multimedia dedicados. Controle el volumen, la reproducción, el bloqueo de Windows y los botones de brillo, todo con sólo tocar un botón.
 - Resistente a derrames de 300 ml: El K55 CORE TKL está diseñado para jugar y resistir los peligros de la vida diaria. No deje que un pequeño derrame eche a perder su teclado nuevo, gracias a su resistencia a 300 ml de líquido.
 - Detección simultánea de 12 teclas con sondeo de 1.000 Hz: Con un sondeo sensible de 1.000 Hz y una detección simultánea de 12 teclas, disfrutará de las ventajas de una detección de pulsaciones de teclas precisa y sensible.
 - Más espacio para grandes jugadas: Un diseño compacto que ocupa poco y está diseñado para brindar a los jugadores más espacio para realizar movimientos amplios con el ratón, que pueden llevar a grandes victorias.

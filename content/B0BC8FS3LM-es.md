@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Plugin TourMenu】 Un panel de plugins impulsado por tourbox. Te permite reunir tus deslizadores o herramientas favoritas en un panel. Sincroniza tu flujo de trabajo entre espacios de trabajo contrastados y acelera tu productividad.
-- 【Bluetooth 5.0 de Doble canal】 Soporta la conexión bluetooth con DOS dispositivos. Te permite manejar sin problemas diferentes flujos de trabajo en dos ordenadores.
+- 【Control con una sola mano y sin mirar】 Todos los botones de esta consola del tamaño de la palma de la mano tienen formas y toques únicos. Puedes reconocer cada botón sin tener que mirar hacia abajo y buscar.
+- TourBox Elite es una consola bluetooth mejorada para acelerar toda la creación de contenidos digitales. En comparación con nuestra versión anterior, el Tourbox NEO, la versión Elite ha añadido un conjunto de nuevas características.
 - 【Personaliza cientos de funciones】 Los 14 botones de TourBox admiten un solo clic, doble clic, pulsar y mantener, y combos. Puedes asignar atajos de teclado, comandos de macro como mover y arrastrar el ratón, texto, funciones integradas o el panel TourMenu.
 - 【Hardware actualizado】 Actualizamos el chip y adaptamos 4 codificadores de cambio diferentes, para atender las necesidades de varios escenarios y frecuencias.
-- TourBox Elite es una consola bluetooth mejorada para acelerar toda la creación de contenidos digitales. En comparación con nuestra versión anterior, el Tourbox NEO, la versión Elite ha añadido un conjunto de nuevas características.
+- 【Plugin TourMenu】 Un panel de plugins impulsado por tourbox. Te permite reunir tus deslizadores o herramientas favoritas en un panel. Sincroniza tu flujo de trabajo entre espacios de trabajo contrastados y acelera tu productividad.
 - 【Respuesta háptica】 Cada vez que gires el mando, te desplaces o marques, puedes activar la retroalimentación háptica para disfrutar de una experiencia de edición envolvente.
-- 【Automatiza 10 comandos a través de una macro】 Ahora puedes enviar hasta 100 comandos con un solo clic a través de macro. Soporta mover o arrastrar el ratón, acceder a textos, abrir un archivo o página web, etc. Puedes añadir un retardo entre las acciones o repetirlas, o enlazar el comando macro en las ruedas.
-- 【Control con una sola mano y sin mirar】 Todos los botones de esta consola del tamaño de la palma de la mano tienen formas y toques únicos. Puedes reconocer cada botón sin tener que mirar hacia abajo y buscar.
 - 【Casi cualquier software】 Photoshop, lightroom, premier, illustrator, DaVinci resolve, FCPX, Clip Studio Paint, Camera Raw, Capture One, SAI, AuoCAD, Blender, Pro Tools, Chrome, iTunes, Spotify... Lo que quieras.
+- 【Automatiza 10 comandos a través de una macro】 Ahora puedes enviar hasta 100 comandos con un solo clic a través de macro. Soporta mover o arrastrar el ratón, acceder a textos, abrir un archivo o página web, etc. Puedes añadir un retardo entre las acciones o repetirlas, o enlazar el comando macro en las ruedas.
+- 【Bluetooth 5.0 de Doble canal】 Soporta la conexión bluetooth con DOS dispositivos. Te permite manejar sin problemas diferentes flujos de trabajo en dos ordenadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BC8FS3LM{{</world>}}

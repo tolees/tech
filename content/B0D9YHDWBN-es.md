@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aesthetic for battlestations
-- Low-key gaming control
-- LIGHTSYNC RGB
 - Full Control
+- LIGHTSYNC RGB
 - Sleek design
+- Low-key gaming control
+- Aesthetic for battlestations
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9YHDWBN{{</world>}}

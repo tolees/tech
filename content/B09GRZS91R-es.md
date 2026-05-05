@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LENOVO THINKPAD USB-C inalámbrico compacto RATN AMBIDEXTRO BIDEXTRO RF INALMBRICO PTICO 2400 DPI
+- LENOVO THINKPAD USB-C inalámbrico compacto RATN AMBIDEXTRO RF INALMBRICO PTICO 2400 DPI
 - Con sensor óptico azul de larga duración y configuración de DPI de hasta 2400 sobre la marcha, este mouse de mano mejora tu productividad en cualquier lugar, cualquier Lenovo ThinkPad USB-C inalámbrico compacto ratn ambidixtro RF INALMBRICO PTICO 2400 DPI
 - Compacto, cómodo y capaz de trabajar en la mayoría de superficies, ofrece un desplazamiento de precisión de 4 vías, mientras que su receptor USB-C inalámbrico te permite emparejar con hasta ocho dispositivos
-- LENOVO THINKPAD USB-C inalámbrico compacto RATN AMBIDEXTRO RF INALMBRICO PTICO 2400 DPI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GRZS91R{{</world>}}

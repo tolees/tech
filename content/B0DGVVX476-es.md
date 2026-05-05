@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El zoom de 28-70 mm abarca una amplia variedad de longitudes focales útiles para un uso diario
 - Los elementos de lentes asféricas y UD proporcionan una elevada calidad de imagen y controlan la aberración cromática
 - Con 500 g y 92,2 mm cuando está retraído, es compacto y ligero, ideal para llevarlo a cualquier parte
-- Ideal para condiciones de baja iluminación y una profundidad de campo creativa con una abertura luminosa de f/2,8
-- Controla fácilmente los ajustes de la cámara o enfoca manualmente al sujeto con el enfoque conmutable y el anillo de control
-- Puedes grabar sin trípode con el estabilizador óptico de imagen de 5,5 pasos o conseguir hasta 7,5 pasos si utilizas este objetivo con cámaras del sistema EOS R con IBIS
 - El enfoque es suave, rápido y silencioso gracias al motor STM
+- Ideal para condiciones de baja iluminación y una profundidad de campo creativa con una abertura luminosa de f/2,8
+- El zoom de 28-70 mm abarca una amplia variedad de longitudes focales útiles para un uso diario
+- Puedes grabar sin trípode con el estabilizador óptico de imagen de 5,5 pasos o conseguir hasta 7,5 pasos si utilizas este objetivo con cámaras del sistema EOS R con IBIS
+- Controla fácilmente los ajustes de la cámara o enfoca manualmente al sujeto con el enfoque conmutable y el anillo de control
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGVVX476{{</world>}}

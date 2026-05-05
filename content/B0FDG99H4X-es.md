@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pantalla envolvente Full HD+ y Dolby Atmos: da vida a tus programas, películas juegos favoritos en una pantalla FHD+ de 6,49" y 120 Hz fluida acompañada de un sonido estéreo multidimensional
-- Diseño elegante y llamativo: llama la atención con un elegante diseño co acabado soft luxe
 - Sistema de cámara de 50 MP con OIS: captura fotos con poca luz y vídeos más definidos, con una nitidez increíble, gracias a la estabilidad y la tecnología de estabilización óptica de la imagen del sistema de cámara
-- Almacenamiento de fábrica de 256 GB: disfruta de almacenamiento de sobra para fotos, películas, canciones y aplicaciones, y añade hasta 1 TB con una tarjeta microSD
 - Batería de larga duración y carga a gran velocidad: trabaja y juega todo lo que quieras con una batería de larga duración de 5000 mAh que se carga rápidamente con la carga TurboPower 30W
+- Almacenamiento de fábrica de 256 GB: disfruta de almacenamiento de sobra para fotos, películas, canciones y aplicaciones, y añade hasta 1 TB con una tarjeta microSD
+- Diseño elegante y llamativo: llama la atención con un elegante diseño co acabado soft luxe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDG99H4X{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Control Facil de Usar】Disfruta de un control intuitivo con un panel táctil capacitivo, con retroiluminación automática que se activa al acercarse la mano y se apaga automáticamente. Descarga la aplicación móvil EDIFIER ConneX para funciones adicionales
-- 【Conectividad Bluetooth 5.3】 El receptor de audio Bluetooth V5.3 admite el códec LDAC, ofreciendo una velocidad de transmisión máxima de hasta 990 kbps, permitiendo el streaming de audio de alta resolución hasta 24 bit/96 kHz desde dispositivos Android con versión 8.0 o posterior。
-- 【Soportes para Altavoces de Aluminio Incluidos】El M60 viene con un par de soportes para altavoces de aluminio, diseñados con una inclinación de 15 grados, que reducen la distorsión sonora dirigiendo el audio directamente a la altura de la oreja cuando se colocan en una mesa
-- 【Entradas Múltiples】El M60 ofrece conectividad versátil con Bluetooth V5.3 para streaming inalámbrico y entradas USB-C y AUX para conexiones por cable
 - 【Potencia Potente】El M60 cuenta con una potencia total de 66W RMS, compuesta por 18W+18W (mediobajantes) y 15W+15W (altos), dotados de un tweeter de 1" con diafragma de seda y altavoces de 3" con diafragma de aluminio de larga excursión, y cuenta con un amplificador de audio de alta eficiencia de clase D proporcionado por Texas Instruments
 - 【Procesamiento de Audio de Alta Calidad】Descubre el audio de alta resolución con los altavoces de la serie M, equipados con procesamiento digital completo, amplificación de clase D y certificación Hi-Res Audio tanto para transmisión por cable como inalámbrica, con cruce activo de dos vías preciso y control de rango dinámico proporcionado por un DSP integrado。
+- 【Control Facil de Usar】Disfruta de un control intuitivo con un panel táctil capacitivo, con retroiluminación automática que se activa al acercarse la mano y se apaga automáticamente. Descarga la aplicación móvil EDIFIER ConneX para funciones adicionales
+- 【Soportes para Altavoces de Aluminio Incluidos】El M60 viene con un par de soportes para altavoces de aluminio, diseñados con una inclinación de 15 grados, que reducen la distorsión sonora dirigiendo el audio directamente a la altura de la oreja cuando se colocan en una mesa
+- 【Entradas Múltiples】El M60 ofrece conectividad versátil con Bluetooth V5.3 para streaming inalámbrico y entradas USB-C y AUX para conexiones por cable
 - 【Diseño Compacto y Delicado】Con dimensiones de 100 mm (L) x 168 mm (A) x 147 mm (P) por altavoz, similares a las de un teléfono móvil común, el M60 se adapta a cualquier configuración de escritorio
+- 【Conectividad Bluetooth 5.3】 El receptor de audio Bluetooth V5.3 admite el códec LDAC, ofreciendo una velocidad de transmisión máxima de hasta 990 kbps, permitiendo el streaming de audio de alta resolución hasta 24 bit/96 kHz desde dispositivos Android con versión 8.0 o posterior。
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D95QG8W4{{</world>}}

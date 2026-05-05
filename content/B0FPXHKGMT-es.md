@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Saturación de color: 95% DCI-P3 / 125% sRGB
 - Soporta DisplayHDR 400, AMD FreeSync Premium
-- Tasa de refresco de 200Hz, tiempo de respuesta de 1ms
+- Profundidad de color: 10 bits
 - Panel VA de 34 pulgadas 1500R con resolución WQHD 21:9
 - Diseño ergonómico: Ajustes de inclinación, giro y altura
-- Profundidad de color: 10 bits
-- Saturación de color: 95% DCI-P3 / 125% sRGB
+- Tasa de refresco de 200Hz, tiempo de respuesta de 1ms
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXHKGMT{{</world>}}

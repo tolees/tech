@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PoE+ de alta potencia: admita alimentación PoE de hasta 30 W para cada puerto PoE y 65 W para todos los puertos PoE
-- Carcasa de metal duradero: permite una disipación de calor eficiente y una larga vida útil de la red
-- Dos cables en uno: con cuatro puertos PoE+, transfiere datos y energía en un solo cable
-- Puertos Gigabit completos: 5 puertos RJ45 de 10/100/1000 Mbps
 - Largo alcance hasta 250 m: aumenta la distancia de transmisión PoE a 250 m mediante el modo extendido
 - Modo de aislamiento: Un clic para dividir el tráfico de puertos específicos para la estabilidad y la seguridad
+- PoE+ de alta potencia: admita alimentación PoE de hasta 30 W para cada puerto PoE y 65 W para todos los puertos PoE
 - Plug and Play: fácil de usar y ahorra tiempo y esfuerzo
+- Carcasa de metal duradero: permite una disipación de calor eficiente y una larga vida útil de la red
 - Compatible con dispositivos alimentados: funciona con PD compatibles con IEEE 802.3af/at
+- Dos cables en uno: con cuatro puertos PoE+, transfiere datos y energía en un solo cable
+- Puertos Gigabit completos: 5 puertos RJ45 de 10/100/1000 Mbps
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3D15MQ4{{</world>}}

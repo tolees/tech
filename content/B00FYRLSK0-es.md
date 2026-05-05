@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñado con óptica Carl Zeiss Sonnar T
-- Distancia de enfoque mínima: 0.5 m
 - Apertura circular de 9 láminas para un atractivo efecto de desenfoque
 - Diseño resistente al agua y al polvo
+- Distancia de enfoque mínima: 0.5 m
 - Fotograma completo de 55 mm, montura E
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MAYOR PRODUCTIVIDAD: Beneficiate de la impresión, copia y escaneo automático a doble cara, gracias al alimentador automático de documentos de hasta 20 hojas (ADF), e imprime rápidamente fotografías sin bordes en formato de 10 cm x 15 cm directamente desde la impresora.
 - CONTROL INTELIGENTE DE LA IMPRESORA: Controla las funciones de tu impresora Canon TR4755i desde un dispositivo móvil con Wi-Fi y la aplicación Canon PRINT, AirPrint (iOS) y Mopria (Android); Cambia fácilmente a Wireless Direct cuando no estés conectado a Wi-Fi.
-- OFICINA EN CASA: Esta impresora a color compacta 4 en 1 ofrece impresión rápida y de alta calidad desde dispositivos móviles, así como opciones de escaneo y copia para máxima productividad en oficinas pequeñas y en el hogar.
-- NO TE QUEDES SIN TINTA: Suscríbete al plan de suscripción Pixma Print Plan para la entrega automática de tinta en tu puerta antes de que se agote, con diferentes planes que se adaptan a tu uso.
+- MAYOR PRODUCTIVIDAD: Beneficiate de la impresión, copia y escaneo automático a doble cara, gracias al alimentador automático de documentos de hasta 20 hojas (ADF), e imprime rápidamente fotografías sin bordes en formato de 10 cm x 15 cm directamente desde la impresora.
 - EN CUALQUIER MOMENTO EN LA NUBE: Gracias a la conectividad Wi-Fi, puedes escanear e imprimir fácilmente desde el almacenamiento en la nube usando la aplicación Canon PRINT a través de PIXMA Cloud Link.
+- NO TE QUEDES SIN TINTA: Suscríbete al plan de suscripción Pixma Print Plan para la entrega automática de tinta en tu puerta antes de que se agote, con diferentes planes que se adaptan a tu uso.
+- OFICINA EN CASA: Esta impresora a color compacta 4 en 1 ofrece impresión rápida y de alta calidad desde dispositivos móviles, así como opciones de escaneo y copia para máxima productividad en oficinas pequeñas y en el hogar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJBT238Z{{</world>}}

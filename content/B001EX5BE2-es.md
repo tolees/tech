@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Viene en color amarillo
 - El representa un cartucho de tóner
 - El número de modelo es 1977B002
+- Viene en color amarillo
 - La marca del producto es Canon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 【Reciba alertas de lo que importa en tiempo real】La cámara puede distinguir personas, vehículos y mascotas de otros objetos y proporcionar alertas relevantes. Recibirá notificaciones por correo electrónico, aplicación push o sirena inmediatamente
+- 【Cámara celular para la seguridad al aire libre fuera de la red】El panel solar de 6 W de alta eficiencia proporciona energía para siempre a esta cámara impermeable para exteriores. Sin problemas de cableado ni de carga de la batería. Su sistema de vigilancia no necesita estar conectado a la red eléctrica. Nota: No es compatible con WiFi
+- 【Cubra todos los rincones con seguimiento y zoom automático PTZ】Controle la cámara para que haga un paneo de 355° y se incline 90° para ver 360°. También puede realizar un seguimiento y acercarse automáticamente al objeto en movimiento, mostrándole claramente cómo se desarrolla el evento
 - 【Doble vista en una sola pantalla】Con el zoom híbrido 6X habilitado por los objetivos gran angular y teleobjetivo, esta cámara de seguridad 4G le ofrece una vista completa y un primer plano de los detalles clave en una sola pantalla. Podrá ver ambas cosas de un solo vistazo
 - 【Vídeo 4K nítido de día y de noche】Con una alta resolución 8 MP, la lente dual captura con nitidez los detalles más finos. Por la noche, ofrece visión nocturna en blanco y negro con luces infrarrojas y visión nocturna en color con foco
-- 【Cubra todos los rincones con seguimiento y zoom automático PTZ】Controle la cámara para que haga un paneo de 355° y se incline 90° para ver 360°. También puede realizar un seguimiento y acercarse automáticamente al objeto en movimiento, mostrándole claramente cómo se desarrolla el evento
-- 【Cámara celular para la seguridad al aire libre fuera de la red】El panel solar de 6 W de alta eficiencia proporciona energía para siempre a esta cámara impermeable para exteriores. Sin problemas de cableado ni de carga de la batería. Su sistema de vigilancia no necesita estar conectado a la red eléctrica. Nota: No es compatible con WiFi
-- 【Reciba alertas de lo que importa en tiempo real】La cámara puede distinguir personas, vehículos y mascotas de otros objetos y proporcionar alertas relevantes. Recibirá notificaciones por correo electrónico, aplicación push o sirena inmediatamente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWRGYXMK{{</world>}}

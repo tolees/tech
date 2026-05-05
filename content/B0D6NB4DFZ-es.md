@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tablero de fibra de densidad media resistente: tablero intercambiable con cuadrícula perforada de 20 mm, indicador de ángulo y ranura en T para múltiples posibilidades de sujeción.
-- Portátil y compacto: se monta y desmonta rápidamente gracias a su práctico mecanismo de plegado, ideal para viajes.
 - Ajuste de altura flexible: patas de altura ajustable y pie nivelador para suelos irregulares.
+- Portátil y compacto: se monta y desmonta rápidamente gracias a su práctico mecanismo de plegado, ideal para viajes.
 - Ligero y portátil: el marco de aluminio y las asas de transporte garantizan un fácil manejo y transporte.
+- Tablero de fibra de densidad media resistente: tablero intercambiable con cuadrícula perforada de 20 mm, indicador de ángulo y ranura en T para múltiples posibilidades de sujeción.
 - Conexión de varias mesas: los conectores de esquina permiten la fusión de varios MWB 100 para superficies de trabajo más grandes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

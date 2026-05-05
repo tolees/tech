@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- 32 GB Memoria RAM DDR4-3200 MHz (2 x 16 GB)
 - Sistema operativo Windows 11 | Gráficos Integrados AMD Radeon
 - Procesador AMD Ryzen 7 7730U Copilot+PC (aumento máximo del reloj de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
+- 32 GB Memoria RAM DDR4-3200 MHz (2 x 16 GB)
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreectante, 250 nits, 45 % NTSC (1920 x 1080)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

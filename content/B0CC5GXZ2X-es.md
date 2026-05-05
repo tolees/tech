@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DOBLE EJE Z Y EJE Y ESTABLES: La varilla roscada de alta precisión del doble eje Z reduce eficazmente la oscilación Z y evita la desviación de la presión durante la impresión de un solo eje. El eje Y tiene dos ejes lineales de 8 mm de acero robusto y resistente al desgaste, que garantizan la estabilidad de la presión y una mayor precisión de la presión durante un largo período de tiempo
+- NIVELACIÓN AUTOMÁTICA CR TOUCH: Ender 3 V3 SE está equipada con nivelación automática CR Touch, que puede mejorar la eficiencia midiendo y ajustando automáticamente la altura de presión de 25 puntos en el lecho calefactor, lo que facilita enormemente la nivelación y ahorra mucho tiempo
 - CARGA DE TRABAJO DEL USUARIO: Creality Ender 3 V3 SE combina un eje X, Y y Z limpio, perfiles en forma de T y abrazaderas discretas para lograr un aspecto elegante y compacto. Puede montarse en tres pasos. La interfaz de usuario mejorada utiliza gráficos en movimiento para mostrar claramente el proceso de nivelación y los parámetros PID. Puede ver de un vistazo cómo funciona la impresora
 - SLIDELESS FEED: Ender 3 V3 SE impresora 3D viene con la nueva actualización "Sprite" de metal completo de doble engranaje extrusor directo, potente empuje extrusor y ligero, el extrusor realiza la alimentación automática suave y descarga de filamentos sin deslizamiento. Funciona muy bien al imprimir filamentos como PLA, TPU, PETG, etc
-- NIVELACIÓN AUTOMÁTICA CR TOUCH: Ender 3 V3 SE está equipada con nivelación automática CR Touch, que puede mejorar la eficiencia midiendo y ajustando automáticamente la altura de presión de 25 puntos en el lecho calefactor, lo que facilita enormemente la nivelación y ahorra mucho tiempo
 - Soporte de Creality: Creality ofrece un servicio posventa de 12 meses y 24 horas. Nota: coloque este producto en un entorno seco y ventilado, no en un entorno de alta temperatura, soleado o húmedo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

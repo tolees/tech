@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 180Hz y 1ms de tiempo de respuesta: Derriba a todos tus enemigos, incluso a una velocidad extrema, con un tiempo de respuesta de 1ms. Olvídate de los retrasos.
-- Certificado VESA DisplayHDR 600: Pantalla mejorada para explorar todos los detalles de las escenas, incluso de las más oscuras.
 - Pantalla curva WUHD: Vive tus juegos con más realidad que el mundo exterior. Monitor WUHD que te envuelve con una pantalla super amplia de 40" y una curvatura de 1000R.
+- Certificado VESA DisplayHDR 600: Pantalla mejorada para explorar todos los detalles de las escenas, incluso de las más oscuras.
 - Freesync Premium Pro: Juega sin saltos ni cortes en las escenas. Con la tecnología AMD FreeSync Premium Pro disfrutarás de un juego fluido en HDR con baja latencia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

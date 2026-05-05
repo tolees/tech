@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hasta 23 HORAS DE AUTONOMÍA: 5H EN LOS AURICULARES + 18H EXTRA CON EL CHARGING CASE.
+- Fabricados con PLÁSTICO 100% RECICLADO (GRS) y embalaje FSC, cuidando el planeta sin renunciar a la tecnología.
 - Diseño moderno y ligero con acabados de calidad para un look actual y cómodo durante todo el día.
 - CERTIFICACIÓN IPX4 resistente a salpicaduras y sudor, perfectos para tu ritmo diario.
-- Fabricados con PLÁSTICO 100% RECICLADO (GRS) y embalaje FSC, cuidando el planeta sin renunciar a la tecnología.
 - Micrófono con reducción de ruido ENC para una mayor claridad en llamadas y BLUETOOTH 5.4 para una conexión sin cortes.
-- Hasta 23 HORAS DE AUTONOMÍA: 5H EN LOS AURICULARES + 18H EXTRA CON EL CHARGING CASE.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F19FPYJF{{</world>}}

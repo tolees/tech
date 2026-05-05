@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Creado para el exterior Con una resistencia a la lluvia y al polvo de grado IP54, además de una resistencia al aplastamiento de hasta 454 kg, tu contenido más importante podrá sobrevivir a las inclemencias del tiempo de camino a tu próxima aventura.
-- USB-C para copias de seguridad de archivo rápidas Este disco duro versátil con USB-C (5 GB/s) ofrece un fiable almacenamiento listo para conectar y usar y copias de seguridad, además de ser compatible con Thunderbolt 3 y USB 3.2 Gen 1. Las velocidades de transferencia de hasta 130 MB/s de lectura te permiten hacer rápidamente una copia de seguridad de tu contenido en cualquier lugar.
 - Espacio y flexibilidad para cualquier proyecto Disponible en hasta 6 TB, el disco duro portátil G-DRIVE ArmorATD puede almacenar de todo, desde conjuntos de fotos RAW hasta bibliotecas de vídeo 4K/8K, sin tener que hacer malabares con varios discos sobre la marcha.
-- Resistencia de calidad que se nota El disco resistente G-DRIVE ArmorATD te ayuda a proteger tus fotos, vídeos y archivos frente a caídas accidentales gracias a la carcasa de aluminio de primera calidad, las sujeciones antigolpes internas y un protector de goma que facilita el agarre. Todo ello te ofrece una durabilidad en la que puedes confiar.
 - No necesita configuración para Mac Funciona con macOS sin tener que configurar nada. Para Windows, se requiere un reformateo.
+- Resistencia de calidad que se nota El disco resistente G-DRIVE ArmorATD te ayuda a proteger tus fotos, vídeos y archivos frente a caídas accidentales gracias a la carcasa de aluminio de primera calidad, las sujeciones antigolpes internas y un protector de goma que facilita el agarre. Todo ello te ofrece una durabilidad en la que puedes confiar.
+- USB-C para copias de seguridad de archivo rápidas Este disco duro versátil con USB-C (5 GB/s) ofrece un fiable almacenamiento listo para conectar y usar y copias de seguridad, además de ser compatible con Thunderbolt 3 y USB 3.2 Gen 1. Las velocidades de transferencia de hasta 130 MB/s de lectura te permiten hacer rápidamente una copia de seguridad de tu contenido en cualquier lugar.
+- Creado para el exterior Con una resistencia a la lluvia y al polvo de grado IP54, además de una resistencia al aplastamiento de hasta 454 kg, tu contenido más importante podrá sobrevivir a las inclemencias del tiempo de camino a tu próxima aventura.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D267VPF5{{</world>}}

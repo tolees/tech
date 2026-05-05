@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye la cámara, el objetivo 18-135 mm, la batería, el cargador y la correa. Actualización de la versión A: la batería solo se puede cargar externamente con el cargador incluido; la carga a través de USB ya no es posible
+- Objetivo zoom 18-135mm, de gran ampliación 7,5x, es ideal para fotografía de paisajes, naturaleza, retratos y fotografía general del día a día
 - Autofoco de primera calidad y excelente calidad de imagen. Grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
 - Diseño compacto: su peso y dimensiones reducidos la hacen ideal para la fotografía de viajes y las grabaciones espontáneas
-- Incluye la cámara, el objetivo 18-135 mm, la batería, el cargador y la correa. Actualización de la versión A: la batería solo se puede cargar externamente con el cargador incluido; la carga a través de USB ya no es posible
 - Captura ángulos creativos: encuadra fácilmente a tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable, y hazlo con una velocidad de hasta 11 fps con AF
-- Objetivo zoom 18-135mm, de gran ampliación 7,5x, es ideal para fotografía de paisajes, naturaleza, retratos y fotografía general del día a día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPN71NQR{{</world>}}

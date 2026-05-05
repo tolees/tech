@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad Universal: Gracias a su amplia compatibilidad, este cargador de 65W admite Super Fast Charge 2.0 y es compatible con la mayoría de los dispositivos del mercado, como MacBook Pro/ Air M3 M2 M1, iPad Pro/ Air/ mini, iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/16/ 15/ 14/ 13/ 12/ 11 series, Galaxy S25/ S25+/ S25 Ultra/ S24/S23/ S22/ S21, Píxel 8/7/6, Galaxy Tab, Steam Deck.
-- Uno para Todos: Gracias a su diseño compacto y que ahorra espacio, el cargador de 65W es un 31 % más pequeño que la fuente de alimentación original de 67W. A pesar de su tamaño, ofrece 3 puertos adicionales: muy práctico para cargar varios dispositivos a la vez, sin importar dónde estés.
 - Carga Rápida de 65W: Disfrute de una carga ultrarrápida de 65W máx. en un solo puerto. Este cargador USB C de 65W puede cargar su MacBook Air M3 del 0 % al 51 % en solo 30 minutos, haciendo que su vida y su trabajo sean más productivos que nunca.
+- Uno para Todos: Gracias a su diseño compacto y que ahorra espacio, el cargador de 65W es un 31 % más pequeño que la fuente de alimentación original de 67W. A pesar de su tamaño, ofrece 3 puertos adicionales: muy práctico para cargar varios dispositivos a la vez, sin importar dónde estés.
+- Compatibilidad Universal: Gracias a su amplia compatibilidad, este cargador de 65W admite Super Fast Charge 2.0 y es compatible con la mayoría de los dispositivos del mercado, como MacBook Pro/ Air M3 M2 M1, iPad Pro/ Air/ mini, iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/16/ 15/ 14/ 13/ 12/ 11 series, Galaxy S25/ S25+/ S25 Ultra/ S24/S23/ S22/ S21, Píxel 8/7/6, Galaxy Tab, Steam Deck.
 - 4 En 1: UGREEN cargador GaN de 65W equipado con 3 USB-C y 1 USB-A puede cargar 4 dispositivos simultáneamente, desde computadoras portátiles hasta tabletas, teléfonos y accesorios. Aumente su productividad y diga adiós a los múltiples cargadores y a los cables enredados.
 - Protección Completa: El sistema de protección ThermalGuard 2.0, el sistema de suministro de energía y la tecnología avanzada GaNInfinity protegen sus dispositivos contra el sobrecalentamiento, la sobrecarga y los cortocircuitos durante todo el día para garantizar una carga segura.
 

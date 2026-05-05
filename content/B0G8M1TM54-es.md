@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de la caja: 1 x auriculares intraaurales Tune 160 / 1 x cable de carga / 3 x almohadillas / Tarjeta de garantía / Hoja de seguridad / Guía de inicio rápido
 - Bajos potentes, listos para acompañarte: Los auriculares intraaurales JBL Tune 160 son ligeros, cómodos y compactos. Sus drivers de 9 mm ofrecen graves intensos y reproducen el sonido JBL Pure Bass que se experimenta en las salas de conciertos.
+- Contenido de la caja: 1 x auriculares intraaurales Tune 160 / 1 x cable de carga / 3 x almohadillas / Tarjeta de garantía / Hoja de seguridad / Guía de inicio rápido
 - Micrófono integrado: Gracias al micrófono integrado, puedes realizar y responder llamadas en cualquier momento, haciendo del JBL Tune 160 el compañero ideal para el trabajo, el hogar y los desplazamientos.
 - Control remoto de un solo botón: El práctico control de un botón integrado en el cable plano sin enredos permite controlar fácilmente la reproducción de música.
 

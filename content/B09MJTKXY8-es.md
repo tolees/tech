@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Apple
 - Apple iPhone 13, 128GB, Azul - Reacondicionados
+- Marca: Apple
 - Tipo de producto: TELÉFONO MÓVIL
 - color azul claro
 

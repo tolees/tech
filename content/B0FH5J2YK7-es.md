@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detección de personas – No se requiere suscripción: Manténgase informado con la detección de personas basada en inteligencia artificial y notificaciones en tiempo real.
 - Protección para todo el año contra los elementos: diseñado para durar, el diseño impermeable IP65 protege tu habitación de los elementos, garantizando un rendimiento fiable durante todo el año.
+- Alertas personalizadas y privacidad avanzada: obtenga solo las alertas que necesita creando áreas de actividad personalizadas y mantenga la privacidad con áreas de privacidad personalizadas.
+- Detección de personas – No se requiere suscripción: Manténgase informado con la detección de personas basada en inteligencia artificial y notificaciones en tiempo real.
 - Su propiedad, protegida: Determine el robo de paquetes, vigile su jardín, monitoree su camino de entrada en busca de actividades sospechosas y proteja su patio trasero de posibles intrusos.
 - Hasta 180 días de autonomía: sin cables y sin preocupaciones. La batería integrada de 5200 mAh ofrece hasta 180 días de energía antes de tener que cargarse.
 - Almacenamiento local y en la nube: graba localmente en una tarjeta microSD de 512 GB (no incluida) o suscríbete a Tapo Care para un almacenamiento en la nube de 30 días.
-- Alertas personalizadas y privacidad avanzada: obtenga solo las alertas que necesita creando áreas de actividad personalizadas y mantenga la privacidad con áreas de privacidad personalizadas.
 - Vea claramente, día y noche: Experimente una visión en vivo nítida y detallada en 1080P Full HD y una visión nocturna en color vibrante para un monitoreo completo de su hogar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

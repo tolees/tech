@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Procesador Intel Core 5 120U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
+- Sistema operativo Windows 11 Home - Gráficos Integrados Intel
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
 - 16 GB Memoria RAM DDR5-5200 MHz (1 x 16 GB)
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- Sistema operativo Windows 11 Home - Gráficos Integrados Intel
-- Procesador Intel Core 5 120U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYPHGTLW{{</world>}}

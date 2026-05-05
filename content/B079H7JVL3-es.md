@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfrute de una seguridad a largo plazo con la garantía limitada de 3 años incluida y los servicios Rescue Data Recovery.
-- Contenido del paquete: LaCie Rugged Mini / cable USB‑C / guía de instalación rápida / paquete de software LaCie Toolkit.
 - Disco duro portátil. Con el icónico diseño Rugged en color naranja. Tamaño mínimo.
+- Contenido del paquete: LaCie Rugged Mini / cable USB‑C / guía de instalación rápida / paquete de software LaCie Toolkit.
+- Disfrute de una seguridad a largo plazo con la garantía limitada de 3 años incluida y los servicios Rescue Data Recovery.
 - Compatible con USB‑C, USB 3.0, USB 3.2 Gen 1, USB 3.2 Gen 2, Thunderbolt 3. Cable USB‑C a USB‑C (incluido). Cable USB‑C a USB Tipo A (no incluido).
 - Resistente a golpes, al agua y a la presión.
 

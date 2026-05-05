@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El ESENCIAL PARA SUS VUELTAS: Gracias a su conectividad Bluetooth, su entrada USB y de guitarra y sus 2 entradas de micrófono, ofrezca a sus amigos y familiares una velada animada.
+- ILUMINACIÓN: Estés donde estés, crea un verdadero ambiente de fiesta gracias a los 600W de potencia sonora, la gestión de los graves y el efecto de iluminación LED (Fire) integrado en el panel frontal, suficiente para cubrir hermosos espacios.
 - CARACTERÍSTICAS: Sonido IbizaSound, 600W de potencia, 2 altavoces de 8"/20cm y 1 tweeter de 1"/2,5cm. Panel frontal con efecto LED (FIRE) (muchos efectos programados) creado por 172 LEDs. Conectividad Bluetooth, unidad USB y MicroSD, y entradas: 2x micrófono, 1x guitarra, 1x AUX 3,5mm con prioridad de micrófono.
 - CONECTIVIDAD: Transmite música desde tu plataforma de streaming favorita a través de Bluetooth desde tu smartphone, tablet u ordenador; o crea tu propio espacio de fiesta fijo conectando tu configuración de DJ. Conecte 2 altavoces WAVE8 juntos con la conexión inalámbrica TWS incorporada para obtener la máxima potencia.
-- ILUMINACIÓN: Estés donde estés, crea un verdadero ambiente de fiesta gracias a los 600W de potencia sonora, la gestión de los graves y el efecto de iluminación LED (Fire) integrado en el panel frontal, suficiente para cubrir hermosos espacios.
+- El ESENCIAL PARA SUS VUELTAS: Gracias a su conectividad Bluetooth, su entrada USB y de guitarra y sus 2 entradas de micrófono, ofrezca a sus amigos y familiares una velada animada.
 - FAMILIA WAVE: Con los 5 altavoces de la familia WAVE, encontrarás el que más te convenga. Elija entre diferentes funciones: tambor, transporte y potencia. Seguro que hay uno que se adapta a ti.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño estilizado: este legendario combo de ratón y auriculares RGB para gaming cuenta con iluminación LIGHTSYNC RGB personalizable y sincronizada con 16,8 millones de colores
-- Juega con libertad: elige tu modo de escucha en los G522 LIGHTSPEED: LIGHTSPEED inalámbrico en el PC para entornos ruidosos, Bluetooth para dispositivos móviles o cable USB A-USB C para una reproducción ininterrumpida
-- Juega más tiempo: el diseño ligero de G522 LIGHTSPEED, combinado con la comodidad icónica de G502 X PLUS, conforma una colección de gaming diseñada para sesiones épicas
-- Personalizaciones sin límites: personaliza el rendimiento del ratón inalámbrico G502 X PLUS y los auriculares G522 LIGHTSPEED para gaming en G HUB y disfruta de un dúo imparable
-- Funcionamiento inmersivo: sonido excepcional a 48 kHz/16 bits y una conexión impecable con LIGHTSPEED de baja latencia para un funcionamiento inalámbrico inigualable y una inmersión absoluta
 - Mayor precisión: los interruptores híbridos óptico-mecánicos LIGHTFORCE aúnan la velocidad y fiabilidad del accionamiento óptico con una respuesta táctil nítida
+- Diseño estilizado: este legendario combo de ratón y auriculares RGB para gaming cuenta con iluminación LIGHTSYNC RGB personalizable y sincronizada con 16,8 millones de colores
 - Disfruta de hasta 60 horas de batería (con la iluminación apagada) y de una sencilla conectividad inalámbrica de hasta 30 metros, que te permite tomarte un descanso sin perder el ritmo
+- Funcionamiento inmersivo: sonido excepcional a 48 kHz/16 bits y una conexión impecable con LIGHTSPEED de baja latencia para un funcionamiento inalámbrico inigualable y una inmersión absoluta
+- Juega más tiempo: el diseño ligero de G522 LIGHTSPEED, combinado con la comodidad icónica de G502 X PLUS, conforma una colección de gaming diseñada para sesiones épicas
+- Juega con libertad: elige tu modo de escucha en los G522 LIGHTSPEED: LIGHTSPEED inalámbrico en el PC para entornos ruidosos, Bluetooth para dispositivos móviles o cable USB A-USB C para una reproducción ininterrumpida
+- Personalizaciones sin límites: personaliza el rendimiento del ratón inalámbrico G502 X PLUS y los auriculares G522 LIGHTSPEED para gaming en G HUB y disfruta de un dúo imparable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F31ZRKRL{{</world>}}

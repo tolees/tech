@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Salida HDMI 4K: Usa el puerto HDMI para duplicar o extender tu pantalla, transmitiendo video en 4K a 30Hz o Full HD 1080p directamente a un televisor, monitor o proyector. El usb hub es simplemente plug-and-play.
+- Lector de Tarjetas SD/TF Práctico: Disfrute de un rápido acceso a archivos y transferencia de datos con los lectores de tarjetas SD y TF, ideales para fotógrafos y diseñadores. Nota: Los dos lectores de tarjetas del usb c hub no pueden utilizarse simultáneamente.
 - Conectividad 6 en 1: Este multipuerto hub usb c incluye un puerto HDMI 4K, un puerto USB-C PD de 100 W, un puerto de datos USB-A 3.0 de 5 Gbps, un puerto USB-A 2.0 de 480 Mbps, un lector de tarjetas SD y un lector de tarjetas TF. Es compacto y ligero, ideal para llevarlo a donde vayas.
 - Carga Passthrough de 100 W: Con un puerto USB-C PD de 100 W, este hub usb ofrece una carga rápida y eficiente para tu portátil, capaz de cargar completamente un MacBook en aproximadamente una hora y media. Nota: La velocidad de carga puede variar según el dispositivo y el cargador.
-- Lector de Tarjetas SD/TF Práctico: Disfrute de un rápido acceso a archivos y transferencia de datos con los lectores de tarjetas SD y TF, ideales para fotógrafos y diseñadores. Nota: Los dos lectores de tarjetas del usb c hub no pueden utilizarse simultáneamente.
 - Amplia Compatibilidad: La hub usb c es ampliamente compatible con MacBook Pro, MacBook Air, iMac, iPad Pro, MateBook, Chromebook, Surface, XPS y más dispositivos USB-C.
 - Transferencia de Datos de Alta Velocidad: Conecta dispositivos como teclado, ratón o disco duro a través del puerto USB 3.0 de alta velocidad, que ofrece una tasa de transferencia de datos de hasta 5 Gbps, y el puerto USB 2.0, que proporciona hasta 480 Mbps.
 

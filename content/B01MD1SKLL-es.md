@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÁCIL CONFIGURACIÓN - simplemente presione el botón WPS en el router y el botón WPS en el producto para configurarlo
-- EXTENSOR COBERTURA DOBLE BANDA - Funciona tanto en la banda de 2,4 GHz (300 Mbps) como en la banda de 5 GHz (867 Mbps) para una experiencia inalámbrica más estable
 - VARIOS MODO DE USO - RE305 funciona como repetidor y punto de acceso convirtiendo el puerto ethernet (10/100mbps) en un hotspot
+- FÁCIL CONFIGURACIÓN - simplemente presione el botón WPS en el router y el botón WPS en el producto para configurarlo
 - DOS ANTENAS EXTERNAS - Mejoran la cobertura inalámbrica y admite la conexión de múltiples dispositivos al mismo tiempo
+- EXTENSOR COBERTURA DOBLE BANDA - Funciona tanto en la banda de 2,4 GHz (300 Mbps) como en la banda de 5 GHz (867 Mbps) para una experiencia inalámbrica más estable
 - INDICADOR SEÑAL INTELIGENTE - El producto tiene un indicador de señal que ayuda al usuario a encontrar el mejor lugar de conexión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

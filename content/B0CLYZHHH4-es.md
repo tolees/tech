@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DURADERA: IP55 resistente al agua y al polvo; a prueba de caídas de hasta 2 metros; 5 años de garantía incluida
-- PORTABILIDAD QUE CABE EN PALMA DE LA MANO: Aluminio anodizado con base de goma suave al tacto; un tamaño de 65 × 50 milímetros; 38 gramos de peso; incluye luz de actividad en el orificio para cordón que trae integrado
 - VELOCIDADES DE TRANSFERENCIA RÁPIDAS: Lecturas/escrituras de hasta 1050 MB/s. Preformateado para Time Machine
 - COMPATIBLE: Mac, iPad, iPhone 15 Pro/Pro Max, iMovie, Fotos y mucho más; utilice el cable USB Tipo-C a C incluido en dispositivos compatibles con USB 3.2 Gen2 para obtener las velocidades más altas.
 - CIFRADO DE CONTRASEÑA: Proteja los datos personales con AES de 256 bits y el cifrado de volumen y contraseña FileVault de Apple
+- DURADERA: IP55 resistente al agua y al polvo; a prueba de caídas de hasta 2 metros; 5 años de garantía incluida
+- PORTABILIDAD QUE CABE EN PALMA DE LA MANO: Aluminio anodizado con base de goma suave al tacto; un tamaño de 65 × 50 milímetros; 38 gramos de peso; incluye luz de actividad en el orificio para cordón que trae integrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLYZHHH4{{</world>}}

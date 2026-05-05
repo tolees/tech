@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: Dos motores lineales permiten un enfoque rápido y preciso. Con esta lente de Sony no te perderás más grabación.
 - Imágenes increíblemente nítidas: tres elementos ED (Extra Low Dispersion) y tres elementos asféricos proporcionan una resolución excepcional con esta lente ultra gran angular APS-C con apertura constante F1.8. Este objetivo Sony E-Mount es perfecto para vlogging, creación de contenidos, así como vídeo y fotografía.
+- Brillo en cualquier clima: la apertura máxima de F1.8 proporciona un brillo impresionante. Esto hace que esta lente sea invaluable para la creación de contenido, vlogging y tomas de fotos.
 - ERGONOMÍA: El diseño resistente al polvo y la humedad, así como los versátiles controles de este objetivo ultra gran angular de Sony lo hacen ideal para su uso en las situaciones más exigentes, tanto en interiores como en exteriores.
 - Fondo maravillosamente suave: con una apertura circular de 7 láminas, esta lente Sony de 11 mm crea hermosos efectos bokeh con desenfoque de fondo.
-- Brillo en cualquier clima: la apertura máxima de F1.8 proporciona un brillo impresionante. Esto hace que esta lente sea invaluable para la creación de contenido, vlogging y tomas de fotos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2RZZBPN{{</world>}}

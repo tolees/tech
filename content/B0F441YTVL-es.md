@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión sin tinta, tecnología térmica: Esta impresora de etiquetas utiliza tecnología térmica, por lo que no necesita tinta ni tóner. Imprime sobre etiquetas autoadhesivas que son resistentes al agua, aceite y rayaduras. Ideal para usar en cocina, escuela, oficina o en cualquier lugar que necesite etiquetas duraderas.
 - Impresora de etiquetas térmica portátil y compacta: La impresora L1-C es una impresora térmica portátil y compacta, perfecta para imprimir etiquetas autoadhesivas y pegatinas en casa, oficina o escuela. Su diseño mini y la conexión Bluetooth te permiten llevarla en el bolsillo y imprimir etiquetas personalizadas en cualquier lugar y en cualquier momento.
 - Conexión inalámbrica y aplicación personalizada: Con la conexión Bluetooth inalámbrica, la impresora L1-C se conecta fácilmente a dispositivos iOS y Android. La aplicación gratuita MakeID-Life te permite personalizar etiquetas con más de 700 íconos, 150 plantillas y más de 40 fuentes. Puedes crear etiquetas rápidamente desde tu teléfono para cocina, oficina o escuela.
-- Etiquetas autoadhesivas para múltiples aplicaciones: La etiquetadora L1-C es perfecta para múltiples usos, desde etiquetas para organizar en casa, hasta pegatinas decorativas. Es ideal para el uso en la oficina, cocina, escuela, y también para proyectos DIY.
 - Impresora de etiquetas recargable: La impresora L1 incluye una batería recargable de 1200mAh, que permite un uso continuo de 4 horas. El paquete incluye: impresora L1-C ×1, etiqueta autoadhesiva de 16mm×4m blanca ×1, cable USB-C ×1, manual ×1. Además, ofrece 2 años de garantía, para mayor tranquilidad.
+- Impresión sin tinta, tecnología térmica: Esta impresora de etiquetas utiliza tecnología térmica, por lo que no necesita tinta ni tóner. Imprime sobre etiquetas autoadhesivas que son resistentes al agua, aceite y rayaduras. Ideal para usar en cocina, escuela, oficina o en cualquier lugar que necesite etiquetas duraderas.
+- Etiquetas autoadhesivas para múltiples aplicaciones: La etiquetadora L1-C es perfecta para múltiples usos, desde etiquetas para organizar en casa, hasta pegatinas decorativas. Es ideal para el uso en la oficina, cocina, escuela, y también para proyectos DIY.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F441YTVL{{</world>}}

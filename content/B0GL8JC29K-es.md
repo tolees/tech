@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El DLC del paquete legendario y de la colaboración con Yakuza. ✓ Los títulos de clasificación del 30.º aniversario de VF. ✓ Póster impreso a dos caras.
-- La fase mundial de Virtua Fighter 5 R.E.V.O. lleva Virtua Fighter 5 a otro nivel: el Rollback Netcode y el juego cruzado te permiten enfrentarte a todo tipo de rivales en cualquier parte del mundo en las peleas más intensas hasta la fecha.
 - Un modo de juego nuevo, la fase mundial: reta a grandes rivales para convertirte en el luchador definitivo. Funcionalidad de repetición y herramientas de entrenamiento mejoradas.
 - La edición del 30.º aniversario contiene: ✓ El juego base la fase mundial de Virtua Fighter 5 R.E.V.O. ✓ El conjunto de bañadores del 30.º aniversario de VF. ✓ La banda sonora de la edición del 30.º aniversario de VF. ✓ Ilustraciones de la fase de preproducción de VF.
+- La fase mundial de Virtua Fighter 5 R.E.V.O. lleva Virtua Fighter 5 a otro nivel: el Rollback Netcode y el juego cruzado te permiten enfrentarte a todo tipo de rivales en cualquier parte del mundo en las peleas más intensas hasta la fecha.
+- El DLC del paquete legendario y de la colaboración con Yakuza. ✓ Los títulos de clasificación del 30.º aniversario de VF. ✓ Póster impreso a dos caras.
 - Celebra el 30.º aniversario de la primera saga de lucha en 3D con esta edición, que incluye atuendos exclusivos, ilustraciones de la fase de preproducción, temas musicales y más cosas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

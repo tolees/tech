@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vinyl playback
-- Model Number: TT-900BB
 - Gemini Hi-Fi Stereo Turntable system
+- Model Number: TT-900BB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08H8SX69H{{</world>}}

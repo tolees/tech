@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de núcleos de CPU: 8, número de subprocesos: 16, Reloj base: 4.2 GHz, potencia máxima del reloj: hasta 5.0 GHz
-- Zócalo de CPU: AM5, Tipo de memoria del sistema: DDR5
 - Caché L2 total: 8MB, Caché L3 total: 96MB
+- Zócalo de CPU: AM5, Tipo de memoria del sistema: DDR5
+- Número de núcleos de CPU: 8, número de subprocesos: 16, Reloj base: 4.2 GHz, potencia máxima del reloj: hasta 5.0 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTZB7F88{{</world>}}

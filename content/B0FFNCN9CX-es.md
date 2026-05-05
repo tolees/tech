@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevas funciones ASUS OLED Care Pro con Neo Proximity Sensor, que detecta con precisión cuándo el usuario se aleja y cambia a una pantalla negra para reducir el riesgo de quemado.
 - Monitor gaming QD-OLED de 26,5 pulgadas con resolución QHD (2560 x 1440), tasa de refresco de 280 Hz y tiempo de respuesta de 0,03 ms.
-- La aplicación exclusiva ASUS DisplayWidget Center permite a los usuarios acceder fácilmente a las funciones de OLED Care Pro y ajustar la configuración del monitor con el ratón
+- Nuevas funciones ASUS OLED Care Pro con Neo Proximity Sensor, que detecta con precisión cuándo el usuario se aleja y cambia a una pantalla negra para reducir el riesgo de quemado.
 - Cumplimiento de VESA DisplayHDR 400 True Black, gama DCI-P3 del 99 %, color verdadero de 10 bits y diferencia de color Delta E < 2 para un rendimiento HDR asombroso, lo que lo hace perfecto para la edición de fotos y vídeos
 - Tecnología ROG Gaming A.I con funciones basadas en IA para mejorar la experiencia de juego de los usuarios.
+- La aplicación exclusiva ASUS DisplayWidget Center permite a los usuarios acceder fácilmente a las funciones de OLED Care Pro y ajustar la configuración del monitor con el ratón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFNCN9CX{{</world>}}

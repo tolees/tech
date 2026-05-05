@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Procesador Dimensity 8100 con 5G】CPU：proceso de 5 nm, ocho núcleos, 4 x Cortex-A78 a 2,85 Ghz GPU：Mali-G610 MC6 IA：APU 5.0
-- 【Carga rápida UltraDart de 150 W】Nuestras múltiples funciones de protección de seguridad pueden abordar fácilmente la sobrecarga, la descarga excesiva, el sobrecalentamiento, los cortocircuitos y otros fallos, ofreciendo protección bien acabada tanto para la batería como para el GT NEO 3.
+- 3 años de garantía
 - 【Diseño de rayas de carreras】La parte posterior del GT NEO 3 está tallada en una pieza de vidrio AG mate con un bonito contorno. La superficie suave y refinada reduce los reflejos y minimiza las huellas dactilares, por lo que el teléfono cuenta con una construcción suave y cómoda.
 - 【Procesador dedicado para la pantalla 】Experiencia de juego más fluida en cada fotograma & Eficiente de forma eficaz
-- 3 años de garantía
+- 【Carga rápida UltraDart de 150 W】Nuestras múltiples funciones de protección de seguridad pueden abordar fácilmente la sobrecarga, la descarga excesiva, el sobrecalentamiento, los cortocircuitos y otros fallos, ofreciendo protección bien acabada tanto para la batería como para el GT NEO 3.
+- 【Procesador Dimensity 8100 con 5G】CPU：proceso de 5 nm, ocho núcleos, 4 x Cortex-A78 a 2,85 Ghz GPU：Mali-G610 MC6 IA：APU 5.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZTX1XXX{{</world>}}

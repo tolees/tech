@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vídeo: Consigue magníficas grabaciones con vídeo 4K 30p que sobremuestrea los datos del sensor 6K o vídeo 4K a 60p. Vídeos fluidos, estabilizados y definidos. Con su pantalla de ángulo variable podrás conseguir vloggs y contenidos en formato de redes sociales
-- Auto Focus: Captura sujetos con facilidad con sistema de enfoque Dual Pixel CMOS Auto Focus II. Programado con IA de deep learning para reconocer personas, animales y vehículos
-- Objetivos: Capture videoblogs y escenas a la distancia con el RF-S 18-150 mm F4.5-6.3 IS STM
-- Fotografía: Cámara Evil, ligera y sin espejo para aficionados y creadores de contenido. Con 24,2MP y sensor APS-C para conseguir imágenes en gran definición y alta resolución
 - Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet.
-- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
 - Canon: Excelencia en cámaras de vídeo y fotografía desde 1934. Canon es la opción segura
+- Fotografía: Cámara Evil, ligera y sin espejo para aficionados y creadores de contenido. Con 24,2MP y sensor APS-C para conseguir imágenes en gran definición y alta resolución
+- Objetivos: Capture videoblogs y escenas a la distancia con el RF-S 18-150 mm F4.5-6.3 IS STM
+- Vídeo: Consigue magníficas grabaciones con vídeo 4K 30p que sobremuestrea los datos del sensor 6K o vídeo 4K a 60p. Vídeos fluidos, estabilizados y definidos. Con su pantalla de ángulo variable podrás conseguir vloggs y contenidos en formato de redes sociales
+- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
+- Auto Focus: Captura sujetos con facilidad con sistema de enfoque Dual Pixel CMOS Auto Focus II. Programado con IA de deep learning para reconocer personas, animales y vehículos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDKL1TVX{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreectante, 250 nits, 45 % NTSC (1920 x 1080)
 - Procesador Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - 16 GB Memoria RAM DDR4-3200 MHz (2 x 8 GB)
 - Sin sistema Operativo | Gráficos Integrados Intel UHD
+- Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1YGX2NC{{</world>}}

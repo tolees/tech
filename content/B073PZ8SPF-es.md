@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fácil instalación: los dos altavoces se unen mediante un cable de unos 150 cm, solo tienes que conectarlos mediante su cable de 3.5” a la fuente de sonido externa (TV, DVD, videoconsolas y otros)
+- Altavoces estéreo autoamplificados con 150 W de potencia realizados en madera; un sistema de sonido innovador con un Woofer de 4” y 2 Tweeter que lo hacen óptimos para conectarlos a la TV y otros
+- Altavoces: 1” x 2 Tweeter, 8 ohmios, 4” Woofer 4 ohmios, permiten conseguir un rango completo del espectro acústico; puedes configurar el volumen, graves y bajos desde su panel lateral
 - Dimensiones: 228 x 182 x 128, peso de 3.5 Kg aproximado
 - Distorsión armónica: < 0.5 % con 1W y 1kHZ; rango de frecuencia: 40 Hz – 20 kHz; relación señal/ruido: > 75 dB; separación: > 45 dB; sistema Bluetooth
-- Fácil instalación: los dos altavoces se unen mediante un cable de unos 150 cm, solo tienes que conectarlos mediante su cable de 3.5” a la fuente de sonido externa (TV, DVD, videoconsolas y otros)
-- Altavoces: 1” x 2 Tweeter, 8 ohmios, 4” Woofer 4 ohmios, permiten conseguir un rango completo del espectro acústico; puedes configurar el volumen, graves y bajos desde su panel lateral
-- Altavoces estéreo autoamplificados con 150 W de potencia realizados en madera; un sistema de sonido innovador con un Woofer de 4” y 2 Tweeter que lo hacen óptimos para conectarlos a la TV y otros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073PZ8SPF{{</world>}}

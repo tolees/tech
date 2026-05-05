@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Powerline es la mejor solución Wi-Fi: Internet se transmite a través de techos y paredes a todas las habitaciones mediante una línea eléctrica
+- Última generación G.hn, no compatible hacia abajo: combinable con todos los adaptadores devolo Magic; los adaptadores de la serie dLAN no son compatibles
 - Juego de adaptadores para crear una red Powerline devolo Magic con 2 adaptadores: optimo para Internet entre habitaciones y plantas de hasta 2 pisos
 - Hasta 3000 Mbps con Wi-Fi 6: todos los dispositivos reciben una señal Wi-Fi especialmente potente
-- Última generación G.hn, no compatible hacia abajo: combinable con todos los adaptadores devolo Magic; los adaptadores de la serie dLAN no son compatibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC7Y6GXQ{{</world>}}

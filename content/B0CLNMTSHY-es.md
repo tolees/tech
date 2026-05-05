@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plug and Play Compatible con un solo cable Conexión USB tipo C El puerto USB C de la computadora debe admitir: Thunderbolts 3 4, el puerto USB C del teléfono móvil debe admitir: USB 3.1. Para guardar todas las configuraciones, conecte el adaptador incluido durante el uso.
-- Pantalla Full HD El monitor portátil utiliza un panel LCD IPS, resolución Full HD 1920x1080, frecuencia de actualización de 60 Hz, ángulo de visión de 178°, cobertura de gama de colores 100 sRGB y pantalla protectora para ojos HDR.
 - Delgada y liviana El cuerpo de la pantalla portátil pesa 1,7 libras, tiene un grosor de 0,23 a 0,39 pulgadas y tiene parlantes duales integrados. Utilizado en los negocios, la vida, los juegos, etc., el trabajo y la vida son más convenientes y la experiencia de juego es más divertida.
+- Pantalla Full HD El monitor portátil utiliza un panel LCD IPS, resolución Full HD 1920x1080, frecuencia de actualización de 60 Hz, ángulo de visión de 178°, cobertura de gama de colores 100 sRGB y pantalla protectora para ojos HDR.
+- Plug and Play Compatible con un solo cable Conexión USB tipo C El puerto USB C de la computadora debe admitir: Thunderbolts 3 4, el puerto USB C del teléfono móvil debe admitir: USB 3.1. Para guardar todas las configuraciones, conecte el adaptador incluido durante el uso.
 - Multifuncional Con puertos Mini HDMI y USB C para teléfonos móviles, computadoras, Mac para juegos y más. Trabaja, viaja, juega, mira programas de televisión, mejora la comodidad de tu vida y aumenta tu índice de felicidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

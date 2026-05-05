@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La batería de estos auriculares Bluetooth “Freedom Light” es de 6 horas Non-Stop de música o conversación telefónica. La caja de carga incluida te permitirá usar tus auriculares hasta 28h. En otras palabras, podrás cargar tus auriculares hasta 5 veces con una sola recarga de la caja.
-- Estos auriculares inalámbricos disponen de control por voz y control táctil. Podrás hacer uso de tu asistente de voz como “Siri” o Google Home con tus auriculares. El control táctil te permitirá subir el volumen o atender llamadas con total libertad. En Hama queremos hacerte la vida más sencilla.
-- Auriculares inalámbricos con Bluetooth 5.0 “Freedom Light” de Hama. Disfruta de tu música con total libertad y olvídate de los cables enredados.
 - Diseño cómodo para que se adapte a tu oído.
+- La batería de estos auriculares Bluetooth “Freedom Light” es de 6 horas Non-Stop de música o conversación telefónica. La caja de carga incluida te permitirá usar tus auriculares hasta 28h. En otras palabras, podrás cargar tus auriculares hasta 5 veces con una sola recarga de la caja.
+- Auriculares inalámbricos con Bluetooth 5.0 “Freedom Light” de Hama. Disfruta de tu música con total libertad y olvídate de los cables enredados.
+- Estos auriculares inalámbricos disponen de control por voz y control táctil. Podrás hacer uso de tu asistente de voz como “Siri” o Google Home con tus auriculares. El control táctil te permitirá subir el volumen o atender llamadas con total libertad. En Hama queremos hacerte la vida más sencilla.
 - Contenido del paquete: 1 Auriculares Bluetooth “Freedom Light” Hama. 1 Cable de carga USB-C. 1 Manual de instrucciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INSERTO DE CÁMARA: acceso lateral para una CSC de chasis completo (compatible con la Sony α7, Canon R5, Nikon Z5) con objetivo montado 24-70 f/2.8 y otro objetivo o un dron Mavic Pro 2
-- FABRICADA CON TEJIDOS SOSTENIBLES: el 75% de la tela es reciclada. Algunos materiales son una mezcla de hilos reciclados y normales, resistente y ligera
-- TRANSPORTE MODULAR: el sencillo juego de correas incluido con la mochila ofrece múltiples configuraciones de transporte para el teléfono, la cámara y las cajas GearUp
-- CONCEBIDA PARA EXCURSIONISTAS: el compartimento de carga superior proporciona suficiente espacio para todo lo esencial en tu escapada: puntos de fijación para trípode o bastones de senderismo
 - LIGERA Y CONFORTABLE: extraligera y resistente, perfecta para senderismo, caminar o viajar gracias al sistema de arnés ActivZone que ofrece comodidad absoluta
+- TRANSPORTE MODULAR: el sencillo juego de correas incluido con la mochila ofrece múltiples configuraciones de transporte para el teléfono, la cámara y las cajas GearUp
+- INSERTO DE CÁMARA: acceso lateral para una CSC de chasis completo (compatible con la Sony α7, Canon R5, Nikon Z5) con objetivo montado 24-70 f/2.8 y otro objetivo o un dron Mavic Pro 2
+- CONCEBIDA PARA EXCURSIONISTAS: el compartimento de carga superior proporciona suficiente espacio para todo lo esencial en tu escapada: puntos de fijación para trípode o bastones de senderismo
+- FABRICADA CON TEJIDOS SOSTENIBLES: el 75% de la tela es reciclada. Algunos materiales son una mezcla de hilos reciclados y normales, resistente y ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0982YB4HZ{{</world>}}

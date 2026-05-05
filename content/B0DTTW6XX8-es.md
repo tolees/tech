@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CALIDAD DE IMAGEN: Este objetivo Canon incorpora 4 lentes de dispersión ultrabaja (UD) y un potente estabilizador óptico de imagen de 5,5 pasos, que garantiza fotos nítidas y vídeos fluidos.
-- OBJETIVO CANON: Captura el mundo con este zoom ultra gran angular rápido y compacto para cámaras full frame. Con estabilizador óptico avanzado y un rango de 16-28 mm, es ideal para paisajes, viajes y videoblogs.
 - COMPATIBILIDAD: Este objetivo Canon permite aprovechar velocidades de obturación más rápidas con mayor facilidad, garantizando una calidad de imagen excepcional con cualquier cámara del sistema Canon EOS R.
-- LIGERO Y PORTÁTIL: Ideal para usar en viajes y en el día a día. Su procesamiento de imagen en la cámara corrige la distorsión, permitiendo un diseño más compacto, y el mecanismo retráctil reduce su longitud a 91 mm.
 - FOTOGRAFÍA Y VÍDEO: Con una abertura de f/2.8 para capturar en condiciones de poca luz, es ideal para paisajes en la hora azul. Incorpora un motor STM de tipo husillo para un enfoque automático suave en vídeo.
+- OBJETIVO CANON: Captura el mundo con este zoom ultra gran angular rápido y compacto para cámaras full frame. Con estabilizador óptico avanzado y un rango de 16-28 mm, es ideal para paisajes, viajes y videoblogs.
+- LIGERO Y PORTÁTIL: Ideal para usar en viajes y en el día a día. Su procesamiento de imagen en la cámara corrige la distorsión, permitiendo un diseño más compacto, y el mecanismo retráctil reduce su longitud a 91 mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTTW6XX8{{</world>}}

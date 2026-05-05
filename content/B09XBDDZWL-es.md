@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teclado de membrana retroiluminado con 19 teclas anti-ghosting
-- Dispositivos compatibles: PC/servidor
-- Pack teclado, ratón y alfombrilla edición Barbie
-- Ratón optico de diseño ergonómico con 4 niveles de DPI ajustables On-The-Fly e iluminación LED
 - Alfombrilla de tela con base de goma y superficie suave
+- Dispositivos compatibles: PC/servidor
+- Teclado de membrana retroiluminado con 19 teclas anti-ghosting
+- Ratón optico de diseño ergonómico con 4 niveles de DPI ajustables On-The-Fly e iluminación LED
+- Pack teclado, ratón y alfombrilla edición Barbie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XBDDZWL{{</world>}}

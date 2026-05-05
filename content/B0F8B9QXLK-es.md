@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 【DETECCIÓN INTELIGENTE & AUDIO BIDIRECCIONAL】La cámara wifi exterior detecta el movimiento de personas y vehículos y mascotas, y activa alertas instantáneas mediante push, correo electrónico y sonido (admite alertas de grabación de voz personalizadas). Con micrófono y altavoz incorporados en la cámara, puede chatear con su familia
+- 【Compatible con Reolink Home Hub】Las cámaras WiFi Reolink Battery pueden funcionar solas o con Reolink Home Hub para una gestión, alarma y almacenamiento centralizados. Sin cuotas mensuales por almacenamiento local.
 - 【GRABAR EN TARJETA SD & REOLINK CLOUD】Puede insertar una tarjeta SD (max 128G) en la cámara para el almacenamiento local, o puede optar por suscribirse a Reolink Cloud para almacenar vídeos en línea. Ya no tiene que preocuparse por perder videos importantes debido al robo de la cámara, Reolink le ofrece verdadera seguridad
 - 【5MP FULL HD & VISIÓN NOCTURNA】Obtenga videos/imágenes de alta calidad y detalles más brillantes gracias a su resolución de 2880*1616 y el sensor de imagen CMOS avanzado. Brinda una impresionante visión clara de hasta 10 m
-- 【Compatible con Reolink Home Hub】Las cámaras WiFi Reolink Battery pueden funcionar solas o con Reolink Home Hub para una gestión, alarma y almacenamiento centralizados. Sin cuotas mensuales por almacenamiento local.
-- 【DETECCIÓN INTELIGENTE & AUDIO BIDIRECCIONAL】La cámara wifi exterior detecta el movimiento de personas y vehículos y mascotas, y activa alertas instantáneas mediante push, correo electrónico y sonido (admite alertas de grabación de voz personalizadas). Con micrófono y altavoz incorporados en la cámara, puede chatear con su familia
 - 【BATERÍA SOLAR & 100% SIN CABLES】Con un panel solar Reolink, la cámara batería Argus Eco puede funcionar los 365 días del año. No es necesario quitar y cargar la batería con frecuencia. No se requiere estación base ni cableado, la instalación se explica por sí misma en unos minutos. Toda la configuración se realiza en la aplicación de Reolink
 
 [🛒 Comprar!!!]({{< param buyurl >}})

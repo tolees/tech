@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - HSM para AF rápido y silencioso
 - FLD, SLD y elementos de lentes asféricas
 - Lente gran angular con gran apertura máxima de F1.4
-- Imágenes ultra nítidas con alto contraste y la luminosidad periférica
 - Súper revestimiento de lente multicapa que reduce destellos y las sombras
+- Imágenes ultra nítidas con alto contraste y la luminosidad periférica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00A35X8ZG{{</world>}}

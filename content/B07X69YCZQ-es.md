@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ÓPTIMO PARA: principiantes que quieren un objetivo compacto para el día a día o vloggers
-- ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: 0.02s AF, seguimiento en tiempo real y Eye AF para mantener a tu sujeto nítido en cualquier situación
-- CAPTURA MOMENTOS DECISIVOS: disparo continuo de hasta 11 fps con seguimiento AF / AE
 - LLEVATELA A TODAS PARTES: con un diseño compacto y ligero, la A6100 es óptimo tanto para captura en viajes como para vlogging
+- CAPTURA MOMENTOS DECISIVOS: disparo continuo de hasta 11 fps con seguimiento AF / AE
 - CAPTURA ÁNGULOS CREATIVOS: encuadra fácilmente tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable
+- ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: 0.02s AF, seguimiento en tiempo real y Eye AF para mantener a tu sujeto nítido en cualquier situación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07X69YCZQ{{</world>}}

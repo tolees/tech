@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Teclados ergonómicos Win/Mac: El teclado M87 Mac tiene un elegante diseño de teclas combinadas con 80% de teclas SA PBT antideslizantes de inyección de doble disparo que proporcionan una excelente experiencia táctil y una larga vida útil. Los pies de apoyo ajustables de 2 posiciones también pueden ajustar el ángulo de escritura.
 - Batería de larga duración que ahorra energía: La carga sostenible recargable de gran capacidad de 4000 mAh aplasta la mayoría de los teclados de alto precio. La luz de fondo se apagará después de 1 minuto de detener el botón. Después de 10 minutos sin ninguna operación, hibernará automáticamente, lo que ahorra más energía. Presione cualquier tecla 2 veces para activar el teclado.
+- Conexión De Modos Duales: El teclado mecánico M87 tiene 2 modos de conexión: Bluetooth y 2,4 GHz, y este teclado inalámbrico para juegos tiene dos canales Bluetooth, puede cambiar fácilmente entre 3 dispositivos inalámbricos diferentes, ya no limita las posibilidades de conexión.❗Note: M87 is a wireless keyboard. The USB cable is only used for charging，the keyboard cannot be used normally.
+- Teclados ergonómicos Win/Mac: El teclado M87 Mac tiene un elegante diseño de teclas combinadas con 80% de teclas SA PBT antideslizantes de inyección de doble disparo que proporcionan una excelente experiencia táctil y una larga vida útil. Los pies de apoyo ajustables de 2 posiciones también pueden ajustar el ángulo de escritura.
 - Efecto Retroiluminado RGB genial: El teclado con retroiluminación LED arcoíris incluye modo constante y modo de respiración. El brillo y la velocidad de la luz de fondo se pueden ajustar con FN+⬆/⬇/⬅/➡. Si no te gusta la luz de fondo, puedes apagarla mediante FN+INS.
 - Teclado Membrana Compacto al 80 %: Diseño del 80 % con 87 teclas, lo que ahorra el 20 % del espacio de los teclados para juegos de PC y hace que el escritorio sea más conciso. Este teclado para juegos tiene teclas con sensación mecánica, que es más silencioso que un teclado mecánico, ¡es un equipo boutique para jugadores de PC y usuarios de oficina!
-- Conexión De Modos Duales: El teclado mecánico M87 tiene 2 modos de conexión: Bluetooth y 2,4 GHz, y este teclado inalámbrico para juegos tiene dos canales Bluetooth, puede cambiar fácilmente entre 3 dispositivos inalámbricos diferentes, ya no limita las posibilidades de conexión.❗Note: M87 is a wireless keyboard. The USB cable is only used for charging，the keyboard cannot be used normally.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJLTF8LG{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brillo/Contraste: 300 cd/m², 1.300:1; Conexiones: 2x HDMI 2.0, 1x DisplayPort 1.4.
+- Contenido del paquete: Monitor Philips 27M2N3200AM/01 de 68,6 cm (27 pulgadas), cable de alimentación, CD con controladores HDMI/DisplayPort/Audio, tarjeta de garantía.
 - Panel Fast-IPS con ángulos de visión estables, ajuste de altura de 130 mm, 2 altavoces de 2 vatios, pantalla mate, salida para auriculares, marco delgado, compatible con montaje VESA 100x100, soporte desmontable.
 - Frecuencia de actualización ultrarrápida de 180 Hertz y tiempo de respuesta de 1 ms (GtG) garantizan una experiencia de juego fluida con baja latencia de entrada.
-- Contenido del paquete: Monitor Philips 27M2N3200AM/01 de 68,6 cm (27 pulgadas), cable de alimentación, CD con controladores HDMI/DisplayPort/Audio, tarjeta de garantía.
+- Brillo/Contraste: 300 cd/m², 1.300:1; Conexiones: 2x HDMI 2.0, 1x DisplayPort 1.4.
 - Cambia entre los preajustes integrados para juegos FPS, de carreras o RTS, o configura y guarda tus propias condiciones ideales.
 - La tecnología Flicker Free y Low Blue Light reduce la fatiga ocular y mejora la comodidad visual.
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bestias gigantes imbuidas de los poderes de la naturaleza. Las temibles bestias están infundidas con el feroz poder de la naturaleza. Son tan hermosas y aterradoras como la naturaleza misma. Como cazador, a veces tendrás que unir fuerzas con tus compañeros para enfrentarte a su abrumador poder.
 - Crea Karakuri para alterar los cotos de caza. Crea «Karakuri» autómatas para usarlos mientras cazas bestias, como cuchillas perforadoras, escudos protectores y trampas para detener el movimiento. Incluso entre cacería y cacería, los «Karakuri» son útiles para buscar bestias, curar heridas, volar en el cielo y mucho más. Crea tu terreno de caza ideal para maniobrar con libertad.
+- Bestias gigantes imbuidas de los poderes de la naturaleza. Las temibles bestias están infundidas con el feroz poder de la naturaleza. Son tan hermosas y aterradoras como la naturaleza misma. Como cazador, a veces tendrás que unir fuerzas con tus compañeros para enfrentarte a su abrumador poder.
 - Diversos estilos de combate. Los materiales recogidos se transformarán en nuevas armas y armaduras, que guiarán al jugador en su viaje para cazar bestias aún más poderosas. Utiliza una gran variedad de equipamiento para cazar a tu presa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

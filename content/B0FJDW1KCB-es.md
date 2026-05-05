@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versatilidad de puertos: Conéctate fácilmente con 2 puertos USB-A y 2 puertos USB-C para una transferencia rápida de datos y carga
 - Libérate de los enchufes: Disfruta de una batería de larga duración y carga rápida que te ofrece 2 horas de reproducción de vídeo con solo 15 minutos de carga
 - Rendimiento ultrarrápido: Nunca antes dominar tareas como la edición de vídeo, el streaming o los juegos ligeros fue tan fácil gracias al procesador Intel Core i7-13620H y 24 GB de RAM
 - Imágenes asombrosas: La pantalla OLED de 16" con resolución 2.8K, cobertura de gama de color de 100% DCI-P3 y tasa de refresco de 120 Hz, garantiza colores fotorrealistas y movimientos más fluidos y dinámicos
+- Versatilidad de puertos: Conéctate fácilmente con 2 puertos USB-A y 2 puertos USB-C para una transferencia rápida de datos y carga
 - Diseñado para resistir: Su certificación MIL-STD-810H garantiza alta resistencia en condiciones extremas, manteniendo un máximo rendimiento con un acabado elegante y duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

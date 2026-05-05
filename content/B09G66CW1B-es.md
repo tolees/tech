@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Resistente al sudor y al agua (IPX4)
-- Cancelación activa de ruido con modo de transparencia
 - Google Fast Pair
+- Cancelación activa de ruido con modo de transparencia
 - Mayor duración de la batería gracias a la práctica caja de carga
 - Fácil emparejamiento con hasta ocho dispositivos
 

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Seis longitudes de corte con tres peines accesorios (3/4 mm.; 6/9 mm.; 12/15 mm)
-- gris
 - La batería se recarga totalmente en 1 hora
 - Medidas: 16,8 x 4,5 x 4,4 cm
+- gris
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00380XNZS{{</world>}}

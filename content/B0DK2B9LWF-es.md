@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Bolígrafo de gel de alta capacidad paquete de 5'
-date: 2026-05-02 21:51:45
+date: 2026-05-04 13:15:45
 image: 'https://m.media-amazon.com/images/I/41AzYC3HCjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

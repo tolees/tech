@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Métricas de natación tanto en piscina cubierta como en aguas abiertas
+- Back to start: te guía para volver de nuevo al punto de inicio de tu sesión
 - Registro de pulsaciones en la muñeca precisión prime: acelerómetro, 4 electrodos, 9 leds (verde, rojo) hacen que sea el sistema de registro de frecuencia cardíaca en la muñeca más preciso del mercado
+- Recibe notificaciones del teléfono directamente en la pantalla
 - Training load pro: esta función separa la carga del entrenamiento en diferentes bloques y ayuda a comprender la carga de entrenamiento total y optimizar el entrenamiento
 - Gps integrado: proporciona datos de velocidad/ritmo, distancia y altimetría
-- Recibe notificaciones del teléfono directamente en la pantalla
-- Back to start: te guía para volver de nuevo al punto de inicio de tu sesión
 - Autonomía: hasta 30h de autonomía con máxima precisión (gps y pulso óptico activados)
+- Métricas de natación tanto en piscina cubierta como en aguas abiertas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G82HLW4{{</world>}}

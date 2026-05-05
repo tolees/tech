@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguridad Wi-Fi Avanzada: WPA-PSK/WPA2-PSK, red de invitados y soporte IPv6 para protección y compatibilidad.
-- Gestión Intuitiva por App: Configura y controla tu red fácilmente desde la app MERCUSYS en iOS o Android.
-- Conectividad Cableada: Cada unidad incluye puertos Gigabit LAN/WAN para dispositivos por cable de alta velocidad.
-- Cobertura Whole Home Mesh: Expande señal Wi-Fi por toda la casa sin zonas muertas con tecnología de malla avanzada.
-- Roaming Automático: Conexión estable sin cambios manuales entre nodos mientras te mueves por tu hogar.
 - AC1200 Doble Banda: Velocidades combinadas de hasta 867 Mbps (5 GHz) + 300 Mbps (2.4 GHz) para streaming fluido y conexiones rápidas.
+- Conectividad Cableada: Cada unidad incluye puertos Gigabit LAN/WAN para dispositivos por cable de alta velocidad.
+- Roaming Automático: Conexión estable sin cambios manuales entre nodos mientras te mueves por tu hogar.
+- Seguridad Wi-Fi Avanzada: WPA-PSK/WPA2-PSK, red de invitados y soporte IPv6 para protección y compatibilidad.
+- Cobertura Whole Home Mesh: Expande señal Wi-Fi por toda la casa sin zonas muertas con tecnología de malla avanzada.
+- Gestión Intuitiva por App: Configura y controla tu red fácilmente desde la app MERCUSYS en iOS o Android.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G34ZMGXR{{</world>}}

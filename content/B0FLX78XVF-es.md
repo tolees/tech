@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Teclado Mecánico 75% Pastel : Teclado Gaming inalámbrico con diseño 75% compacto y estilo "Pastel Bonito", perfecto para gaming, oficina y setups estéticos. Este teclado bluetooth con tres modos de conexión es compatible con Windows, Mac, iOS y Android
+- Hot-Swappable Personalización: El teclado hot-swappable YUNZII C75 acepta switches 3-pin y 5-pin sin soldadura. Incluye switches lineales pre-lubricados pero permite instalar cualquier switch mecánico. Un teclado personalizable para gamers exigentes
 - Tri-Mode Conexión multi-dispositivo: Este teclado inalámbrico tri-mode soporta Bluetooth 5.0, 2.4GHz y USB-C. El teclado multi-dispositivo permite conectar hasta 5 equipos con cambio instantáneo. La baja latencia lo hace ideal como teclado gaming
-- 5500mAh Autonomía extendida: La batería de 5500mAh proporciona semanas de autonomía a este teclado inalámbrico gaming. El software de personalización permite crear macros y ajustar el RGB del teclado. Un teclado programable para sesiones maratonianas
 - Estructura Gasket y Teclas PBT Personalizables: El teclado mecánico con estructura Gasket incorpora múltiples capas de absorción acústica. Los switches pre-lubricados, estabilizadores y almohadillas de silicona convierten este teclado silencioso en una experiencia táctil premium. Las teclas PBT anti-desgaste completan este teclado gamer
 - RGB Premium Iluminación envolvente: El sistema RGB de 18 modos con LEDs sur-facing ofrece iluminación uniforme. Las keycaps PBT premium y la barra lateral luminosa hacen de este teclado RGB retroiluminado una pieza única. El teclado mecánico gaming definitivo
-- Hot-Swappable Personalización: El teclado hot-swappable YUNZII C75 acepta switches 3-pin y 5-pin sin soldadura. Incluye switches lineales pre-lubricados pero permite instalar cualquier switch mecánico. Un teclado personalizable para gamers exigentes
-- Teclado Mecánico 75% Pastel : Teclado Gaming inalámbrico con diseño 75% compacto y estilo "Pastel Bonito", perfecto para gaming, oficina y setups estéticos. Este teclado bluetooth con tres modos de conexión es compatible con Windows, Mac, iOS y Android
+- 5500mAh Autonomía extendida: La batería de 5500mAh proporciona semanas de autonomía a este teclado inalámbrico gaming. El software de personalización permite crear macros y ajustar el RGB del teclado. Un teclado programable para sesiones maratonianas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FLX78XVF{{</world>}}

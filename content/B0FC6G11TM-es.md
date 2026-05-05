@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Roaming sin interrupciones para una experiencia de red fluida: no más caídas repentinas de señal o retrasos de Wi-Fi mientras caminas por la casa.
-- ADVERTENCIA: Tenga en cuenta que las series Halo H y S no pueden funcionar juntas.
-- El nuevo Wi-Fi 7: equipado con 4K-QAM, MLO, Multi-RU y otras características que ofrece Wi-Fi 7, su red tendrá un rendimiento increíble.
-- Operación Multi-Link (MLO): aumenta la productividad, reduce la latencia y mejora la confiabilidad para aplicaciones emergentes.
-- Velocidad de doble banda ultrarrápida de 3,6 Gbps: Permite que tus dispositivos funcionen a máxima velocidad. Disfruta de streaming 4K/8K fluido, juegos AR/VR inmersivos y descargas ultrarrápidas.
-- Puertos Gigabit completos: 3 puertos Gigabit por unidad Halo para conexiones por cable ultrarrápidas.
-- Configuración y uso sencillos: la gestión de la red nunca ha sido tan fácil con la aplicación MERCUSYS.
 - Cobertura multi-Gigabit para toda la casa: las unidades de malla Halo funcionan como una red unificada para cubrir un área de la casa de hasta 7000 ft2/650 m2 (paquete de 3); 5000 ft²/460 m² (paquete de 2).
+- Puertos Gigabit completos: 3 puertos Gigabit por unidad Halo para conexiones por cable ultrarrápidas.
+- El nuevo Wi-Fi 7: equipado con 4K-QAM, MLO, Multi-RU y otras características que ofrece Wi-Fi 7, su red tendrá un rendimiento increíble.
+- Configuración y uso sencillos: la gestión de la red nunca ha sido tan fácil con la aplicación MERCUSYS.
+- Operación Multi-Link (MLO): aumenta la productividad, reduce la latencia y mejora la confiabilidad para aplicaciones emergentes.
+- ADVERTENCIA: Tenga en cuenta que las series Halo H y S no pueden funcionar juntas.
+- Roaming sin interrupciones para una experiencia de red fluida: no más caídas repentinas de señal o retrasos de Wi-Fi mientras caminas por la casa.
+- Velocidad de doble banda ultrarrápida de 3,6 Gbps: Permite que tus dispositivos funcionen a máxima velocidad. Disfruta de streaming 4K/8K fluido, juegos AR/VR inmersivos y descargas ultrarrápidas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6G11TM{{</world>}}

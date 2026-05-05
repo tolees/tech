@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mecanismo antiskating, mueble de alta densidad MDF para una mejor resistencia a las vibraciones y resonancias
 - Ecualizador Phono MM integrado y Line out
-- Retorno automático y elevador de brazo manual
 - Tocadiscos de tres velocidades con transmisión por correa con soporte de 33/45/78 rpm
+- Retorno automático y elevador de brazo manual
 - Plato de aluminio fundido a presión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

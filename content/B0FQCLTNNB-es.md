@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【5500mAh (typ), batería líder en autonomía】Con la batería más grande de la serie Xiaomi T, ofrece una resistencia extraordinaria en un diseño delgado. Equipada con el sistema de gestión de batería Xiaomi Surge y 64 capas de protección de seguridad, garantiza durabilidad prolongada y tranquilidad total
-- 【Pantalla inmersiva de 6,83”, una visión redefinida】Con una pantalla ultra grande de 6,83 pulgadas, diseño plano de biseles ultrafinos y resolución 1.5K, brinda un campo de visión más amplio y un detalle impresionante
-- 【Biseles ultraestrechos en todos los lados, visuales más envolventes】Gracias a la tecnología LIPO, alcanza un bisel ultradelgado de 1,5 mm con una relación pantalla-cuerpo del 94,5%, ofreciendo una experiencia visual y táctil mejorada
 - 【Dimensity 9400+, proceso insignia de 3nm】MediaTek Dimensity 9400+ ofrece una fluidez excepcional incluso en aplicaciones exigentes y juegos con gran carga gráfica. Con una eficiencia térmica sobresaliente y una estabilidad constante, asegura un rendimiento máximo sin compromisos
+- 【Pantalla inmersiva de 6,83”, una visión redefinida】Con una pantalla ultra grande de 6,83 pulgadas, diseño plano de biseles ultrafinos y resolución 1.5K, brinda un campo de visión más amplio y un detalle impresionante
 - 【Óptica profesional Leica, acerca las obras maestras】El primer teleobjetivo 5x en la serie Xiaomi T ofrece zoom óptico 5x, zoom de nivel óptico 10x y Ultra Zoom de 20x o más. Combinado con la óptica Leica, acerca las historias humanas más lejanas a tu mano
+- 【Biseles ultraestrechos en todos los lados, visuales más envolventes】Gracias a la tecnología LIPO, alcanza un bisel ultradelgado de 1,5 mm con una relación pantalla-cuerpo del 94,5%, ofreciendo una experiencia visual y táctil mejorada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQCLTNNB{{</world>}}

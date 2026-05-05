@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Donkey Kong Bananza, una rompedora aventura que desborda caos, sorpresas y plátanos por los cuatro costados, estará disponible para Nintendo Switch 2.
-- Los jugadores explorarán de maneras totalmente inéditas poniéndose en la piel de DK: pegarán golpes y porrazos, escalarán prácticamente cualquier cosa que se les ponga por delante y arrancarán y arrojarán trozos enteros del terreno que los rodea.
 - Cuantas más cosas hagan pedazos pegando puñetazos de impresión, más zonas podrán explorar
 - Es hora de prepararse también para Donkey Kong Bananza, un nuevo juego de plataformas en 3D repleto de acción y aventuras que llegará en exclusiva a Nintendo Switch 2.
+- Donkey Kong Bananza, una rompedora aventura que desborda caos, sorpresas y plátanos por los cuatro costados, estará disponible para Nintendo Switch 2.
+- Los jugadores explorarán de maneras totalmente inéditas poniéndose en la piel de DK: pegarán golpes y porrazos, escalarán prácticamente cualquier cosa que se les ponga por delante y arrancarán y arrojarán trozos enteros del terreno que los rodea.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2N91DQ8{{</world>}}

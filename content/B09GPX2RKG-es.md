@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPARTE FÁCILMENTE EN CUALQUIER LUGAR Para una transmisión de imagen estable, puedes conectarte fácilmente a tu smartphone a través de la aplicación Creators. Para reuniones en línea y streaming, la cámara se puede convertir en una cámara web 4K de alta calidad. CONEXIÓN CON EL iPHONE: 1) Descargue la aplicación Sony Creators App desde la App Store. 2) Active el Bluetooth y el wifi en el iPhone y la cámara. 3) Conecte los dispositivos a través de la aplicación. > A continuación, podrá transferir fotos y vídeos directamente y controlar la cámara de forma remota con el smartphone
-- MODO DE SERIE RÁPIDO: hasta 10 fotogramas por segundo con enfoque automático completo y seguimiento de la exposición para capturar imágenes dinámicas de acción y deportes. Componentes: cuerpo de la cámara y accesorios
 - ENFOQUE AUTOMÁTICO PRECISO DE OJOS: enfoque automático de ojos en tiempo real para personas y animales, para obtener retratos nítidos en cualquier situación
 - ULTRA ALTA RESOLUCIÓN: sensor CMOS Exmor R de formato completo de 61 MP para un máximo nivel de detalle y una calidad de imagen brillante, ideal para fotografía de paisajes, retratos y estudio
 - CALIDAD DE VÍDEO PROFESIONAL: grabación de vídeo 4K con alto rango dinámico, S-Log3 y compatibilidad con HDR para una máxima flexibilidad en la edición
+- MODO DE SERIE RÁPIDO: hasta 10 fotogramas por segundo con enfoque automático completo y seguimiento de la exposición para capturar imágenes dinámicas de acción y deportes. Componentes: cuerpo de la cámara y accesorios
+- COMPARTE FÁCILMENTE EN CUALQUIER LUGAR Para una transmisión de imagen estable, puedes conectarte fácilmente a tu smartphone a través de la aplicación Creators. Para reuniones en línea y streaming, la cámara se puede convertir en una cámara web 4K de alta calidad. CONEXIÓN CON EL iPHONE: 1) Descargue la aplicación Sony Creators App desde la App Store. 2) Active el Bluetooth y el wifi en el iPhone y la cámara. 3) Conecte los dispositivos a través de la aplicación. > A continuación, podrá transferir fotos y vídeos directamente y controlar la cámara de forma remota con el smartphone
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GPX2RKG{{</world>}}

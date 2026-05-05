@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Control táctil para activar las funciones de llamada y reproducir/pausar.
+- Batería recargable. Tiempo de reproducción de 6 horas. Tiempo de reposo: 4 días.
 - La carcasa de carga permite cargar los auriculares varias veces
 - Tecnología TWS (True Wireless Stereo) permite emparejar dos dispositivos de audio entre sí a través de Bluetooth.
-- Batería recargable. Tiempo de reproducción de 6 horas. Tiempo de reposo: 4 días.
-- Control táctil para activar las funciones de llamada y reproducir/pausar.
 - Licencia oficial de Pokémon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

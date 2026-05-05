@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SEGURO - El corralito cuenta con una práctica salida lateral para que el niño pueda salir de su parque particular por su cuenta; Además, los laterales de la cuna están hechos de una red transpirable que permite tener al peque siempre a la vista
 - EN DOS COLORES - CAMI no solo es funcional, sino también de lo más elegante; Además de su estructura esbelta, destacan las dos versiones cromáticas disponibles en negro profundo o gris universal
-- CUNA TURÍSTICA - Los primeros viajes pueden ser estresantes para el peque; Por eso CAMI se pliega y despliega en pocos movimientos, para que el peque pueda descansar enseguida en un entorno conocido y seguro
-- LIGERO Y COMPACTO - CAMI es increíblemente ligera y manejable (5 kg); Te la puedes llevar a donde sea: al tren, al coche o al avión; Cuando lleguen las vacaciones, no tendrás ningún problema en llevarte la cuna
+- SEGURO - El corralito cuenta con una práctica salida lateral para que el niño pueda salir de su parque particular por su cuenta; Además, los laterales de la cuna están hechos de una red transpirable que permite tener al peque siempre a la vista
 - VERSATILIDAD DURADERA - CAMI es una cuna 3 en 1: cuna de bebé, cuna turística y corralito; Permite colocar el colchón en 2 niveles; El más alto está indicado para los bebés; De esta forma, tu espalda no sufrirá tanto al no tener que agacharte a menudo
+- LIGERO Y COMPACTO - CAMI es increíblemente ligera y manejable (5 kg); Te la puedes llevar a donde sea: al tren, al coche o al avión; Cuando lleguen las vacaciones, no tendrás ningún problema en llevarte la cuna
+- CUNA TURÍSTICA - Los primeros viajes pueden ser estresantes para el peque; Por eso CAMI se pliega y despliega en pocos movimientos, para que el peque pueda descansar enseguida en un entorno conocido y seguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTD783MC{{</world>}}

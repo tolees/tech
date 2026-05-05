@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100Hz
-- 27"
-- QHD LED
 - Technology IPS
+- QHD LED
+- 27"
+- 100Hz
 - Monitor desktop
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

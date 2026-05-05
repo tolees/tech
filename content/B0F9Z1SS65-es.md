@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DisplayWidget Center permite un fácil acceso al OSD y ajustes de configuración del monitor con un ratón
 - Tiempo de respuesta GTG (mín) de 0.3 ms para una experiencia de juego fluida y tecnología ASUS Extreme Low Motion Blur (ELMB) para reducir aún más el ghosting y el desenfoque de movimiento
 - Tecnología IA con TUF Gaming con funciones para mejorar la experiencia de juego de los usuarios
 - Monitor gaming Full HD (1920 x 1080) Fast IPS de 23.8 pulgadas con una tasa de refresco de 200 Hz, diseñado para gamers profesionales y una experiencia de juego inmersiva
-- DisplayWidget Center permite un fácil acceso al OSD y ajustes de configuración del monitor con un ratón
 - FreeSync Premium proporciona una experiencia de juego optima y sin tearing al habilitar VRR (tasa de refresco variable) de forma predeterminada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

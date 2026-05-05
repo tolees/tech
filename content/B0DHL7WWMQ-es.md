@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Concéntrate en tus objetivos: Auriculares inalámbricos con sonido JBL Pure Bass, tecnologías de cancelación de ruido activa y de Smart Ambient, así como micrófonos de haz dual para llamadas nítidas
 - Tu música, donde sea: Disfruta de una autonomía de 12 hrs con tus Endurance Race 2 y de 36 hrs usando el estuche de recarga; con una recarga de 10 mins usando un USB obtienes 4 hrs más
-- Se adaptan a tu estilo de vida: Estos earbuds deportivos usan la tecnología Twistlock para un ajuste sellado y cómodo; además, poseen un diseño resistente al agua y al polvo IP68
 - Modos deportivos: Personaliza tus rutina usando uno de los 6 modos gracias a la JBL Headphones app o relájate con el modo Relax después de tu entrenamiento y disfruta de sonidos evocadores
+- Concéntrate en tus objetivos: Auriculares inalámbricos con sonido JBL Pure Bass, tecnologías de cancelación de ruido activa y de Smart Ambient, así como micrófonos de haz dual para llamadas nítidas
+- Se adaptan a tu estilo de vida: Estos earbuds deportivos usan la tecnología Twistlock para un ajuste sellado y cómodo; además, poseen un diseño resistente al agua y al polvo IP68
 - Conexión multipunto: Conecta tus auriculares Bluetooth con múltiples dispositivos y pasa fácilmente de tu tablet a tu móvil o toma una llamada con un simple gesto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

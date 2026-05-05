@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nitidez superior: Con la doble cámara y la resolución 4K UHD, esta cámara para interiores graba imágenes claras y detalladas de su hogar. También si la usa para vigilar, todo lo verá con una claridad increíble.
-- Visión nocturna excepcional: Con un sensor de apertura f/1.6 y 2 luces LED infrarrojas de alta potencia, las caras se podrán ver claramente a un máximo de 9,7 m de distancia, aún en entornos con poca luz.
 - Seguimiento inteligente: El sistema de seguimiento por IA y el zoom automático, basados en un algoritmo patentado por eufy Security, permiten que la cámara siga a los miembros de la familia o a las mascotas por las habitaciones.
 - Opciones de zoom avanzadas: Las cámaras gran angular de 4K y con teleobjetivo de 2K funcionan a la vez para ofrecer un impresionante zoom híbrido de 8×.
+- Visión nocturna excepcional: Con un sensor de apertura f/1.6 y 2 luces LED infrarrojas de alta potencia, las caras se podrán ver claramente a un máximo de 9,7 m de distancia, aún en entornos con poca luz.
 - Alcance total: Las funciones de giro e inclinación de 360° garantizan una vista completa del espacio sin puntos ciegos. Esto la convierte en una excelente cámara para vigilar perros o gatos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

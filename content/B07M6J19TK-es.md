@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño compacto y portátil: la disposición de 98 teclas es muy portátil y libera más espacio para la mano que maneja el ratón, y la ranura trasera para la gestión de cables permite una configuración de escritorio más ordenada
-- Soporte con junta de silicona y espuma amortiguadora: Absorbe los ruidos de ping y los ecos para mejorar la acústica del teclado y ofrecer una experiencia de escritura inigualable.
 - Impermeabilidad IP57 y resistencia al polvo: Protección líder en el sector para una limpieza fácil y una durabilidad duradera
 - Interruptores óptico-mecánicos RGB: Con n-key rollover, 100% anti-ghosting y una vida útil de 100 millones de pulsaciones.
+- Soporte con junta de silicona y espuma amortiguadora: Absorbe los ruidos de ping y los ecos para mejorar la acústica del teclado y ofrecer una experiencia de escritura inigualable.
+- Diseño compacto y portátil: la disposición de 98 teclas es muy portátil y libera más espacio para la mano que maneja el ratón, y la ranura trasera para la gestión de cables permite una configuración de escritorio más ordenada
 - Placa superior desmontable: Permite cambiar su aspecto y facilitar el mantenimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

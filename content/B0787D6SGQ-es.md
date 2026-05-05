@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas 10,4 x 7,4 x 3,8 cm
 - Ratón inalámbrico compacto con DPI ajustable para adaptar su sensibilidad (600, 1000, 1600, 2400 o 3600 DPI)
 - Conexión inalámbrica de 2,4 GHz con un alcance de 10 m; con cifrado AES-128 para mayor seguridad; este ratón funciona con un pequeño receptor USB que puede permanecer conectado al ordenador sin molestar a otros puertos
-- Nota: El adaptador USB está en la caja, también debe guardarlo en un lugar seguro si no lo está utilizando
+- Medidas 10,4 x 7,4 x 3,8 cm
 - Sensor láser de alto rendimiento Funciona en la mayoría de las superficies, incluido el vidrio, rueda de desplazamiento metálica en la que se puede hacer clic, botones del pulgar siguiente/atrás para navegar
+- Nota: El adaptador USB está en la caja, también debe guardarlo en un lugar seguro si no lo está utilizando
 - De forma ergonómica con laterales de goma para un ajuste cómodo. Compatible con Windows 7, 8 y 10 Funciona con 1 pila AA (incluida). Colores disponibles negro (limpio) /morado (elegante) /rojo (atrevido) /plateado (contemporáneo)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

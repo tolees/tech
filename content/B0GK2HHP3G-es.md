@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - REFRIGERACIÓN DE LÍQUIDO: Admite disipadores de líquido de 24 cm en el panel superior, 12 cm en la parte posterior de la carcasa
 - CARACTERÍSTICAS DE ALTO RENDIMIENTO: Caja de juegos que permite la instalación de tarjetas de vídeo con una longitud máxima de 30,5 cm y disipadores de aire altos de hasta 18 cm
-- REFRIGERACIÓN POR AIRE: Marco de tamaño mATX con ventilador de 120 mm preinstalado en la parte posterior; caja ampliable hasta 8 ventiladores de 12 cm (2 en el frontal, 3 superior, 2 cubiertas psu, 2 junto a la placa madre)
 - Diseño profesional: la serie Fobia de Noua permite instalar placas base en formato micro-ATX y mini-ITX. Ordenador Case con estructura SPCC de 0,60 mm de alto rendimiento con frontal y panel lateral de cristal templado que se adapta tanto en casa como en la oficina como para gamers
+- REFRIGERACIÓN POR AIRE: Marco de tamaño mATX con ventilador de 120 mm preinstalado en la parte posterior; caja ampliable hasta 8 ventiladores de 12 cm (2 en el frontal, 3 superior, 2 cubiertas psu, 2 junto a la placa madre)
 - CONECTIVIDAD COMPLETA: Los puertos USB 3.0, USB 2.0, audio HD, encendido y reinicio en el panel lateral le permiten conectar sus periféricos con total comodidad. Ampliado y actualizado a las últimas tendencias para un montaje fácil y accesible; Múltiples bahías internas para hasta 2 discos duros (1 x 2,5" SSD + 1 x 3,5" HDD)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

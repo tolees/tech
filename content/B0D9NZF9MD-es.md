@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compensación de la habitación acústica: Diseñado con gabinete de MDF para reducir la distorsión y la resonancia, y altavoces de sintonización acústica con botones traseros altos y bajos, por lo que es ideal para la producción de audio, edición de vídeo, tocar guitarra y escuchar diariamente
+- Conectividad rica: transmisión de audio Bluetooth V5.4 sin problemas, que permite la conexión simultánea de dos dispositivos Bluetooth o entradas TRS, RCA y AUX equilibradas por cable
 - Potente salida de sonido: salida RMS de 18W x 2, entrega de 92.5dB SPL (pico @ 1 metro) claro, mejorado por controladores medios bajos de 3.5 "y tweeters de cúpula de seda de 1", audio libre de distorsión con respuesta de frecuencia plana de 52Hz a 40kHz
 - Certificado de alta resolución de 24 bits/96 khz: el audio de alta definición conserva todos los matices con una claridad y fidelidad excepcionales, garantizando una conversión y amplificación de audio perfectas
-- Conectividad rica: transmisión de audio Bluetooth V5.4 sin problemas, que permite la conexión simultánea de dos dispositivos Bluetooth o entradas TRS, RCA y AUX equilibradas por cable
 - Diseño fácil de usar: botón multifunción en el panel frontal para encender / apagar, el ajuste del volumen y el interruptor de efectos de sonido. Funciona con la aplicación EDIFIER ConneX, proporcionando múltiples ajustes para la personalización del EQ para una experiencia de escucha óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

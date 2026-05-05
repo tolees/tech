@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- officielle, nacon, ps4
 - manette
+- officielle, nacon, ps4
 - compacte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

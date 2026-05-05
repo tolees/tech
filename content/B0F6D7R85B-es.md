@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Seguimiento automático con detección de movimiento La cámara detecta movimientos y sigue automáticamente al sujeto para mayor seguridad.
 - 2. Detección inteligente con alertas en tiempo real Reconoce personas y llanto de bebé mediante IA, enviando notificaciones al instante.
 - 4. Visión nocturna en color con alarma de luz y sonido Gracias a los focos integrados, ofrece imágenes nítidas en color incluso en la oscuridad. Alarma integrada para ahuyentar intrusos.
-- 5. Audio bidireccional y almacenamiento flexible Comunicación en tiempo real mediante micrófono y altavoz. Guarda vídeos en tarjeta microSD (hasta 512 GB) o en la nube con Tapo Care.
 - 1. Protección completa en cualquier momento y lugar Instalación flexible en interiores o exteriores. Resolución 2K 3MP con visión en vivo a todo color, incluso de noche.
+- 5. Audio bidireccional y almacenamiento flexible Comunicación en tiempo real mediante micrófono y altavoz. Guarda vídeos en tarjeta microSD (hasta 512 GB) o en la nube con Tapo Care.
+- 3. Seguimiento automático con detección de movimiento La cámara detecta movimientos y sigue automáticamente al sujeto para mayor seguridad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6D7R85B{{</world>}}

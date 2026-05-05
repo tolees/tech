@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseñado por profesionales de los deportes electrónicos: Diseñado en colaboración con profesionales de los deportes electrónicos de talla mundial, está equilibrado para permitir gestos sin esfuerzo y swipes rápidos para una precisión absoluta en cada jugada
+- Sensor óptico ROG AimPoint Pro: Sensor óptico de 42.000 ppp con tecnología track-on-glass
 - Tecnología inalámbrica ROG SpeedNova 8K: Experimenta la máxima precisión y fiabilidad a una frecuencia de sondeo de hasta 8KHz con la tecnología inalámbrica ROG SpeedNova 8K
 - Diseño ultraligero de 48 g: Fabricado con un innovador material de nylon de base biológica que reduce el peso y mejora la resistencia a los impactos
-- Sensor óptico ROG AimPoint Pro: Sensor óptico de 42.000 ppp con tecnología track-on-glass
 - Microinterruptores ópticos ROG: Actuación instantánea y nítida y una vida útil de 100 millones de clics
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gaming Hub: Accede al paraíso de los videojuegos. Con Samsung Gaming Hub, disfruta de los mejores videojuegos de los principales socios de streaming sin necesidad de ordenador ni consola. Descubre nuevos videojuegos o vuelve a jugar a tus favoritos de siempre, todo en un solo lugar.
 - Seguridad Knox: Tu privacidad protegida en el monitor Samsung gracias a una seguridad robusta y multicapa y a un acceso estrictamente controlado.
+- Gaming Hub: Accede al paraíso de los videojuegos. Con Samsung Gaming Hub, disfruta de los mejores videojuegos de los principales socios de streaming sin necesidad de ordenador ni consola. Descubre nuevos videojuegos o vuelve a jugar a tus favoritos de siempre, todo en un solo lugar.
 - Smart TV Apps: Acceso instantáneo a tu contenido de streaming favorito. Explora y ve contenido directamente desde tu monitor con facilidad.
 - Un sinfín de contenidos gratuitos: Explora una gran variedad de canales gratuitos, incluido Samsung TV Plus. Noticias, deportes, películas, programas infantiles y mucho más, todo ello en su Smart Monitor.
 

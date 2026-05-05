@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI FreeBuds SE 2 - Auriculares 40 Horas de Batería Compactos y Cómodos Protección IP54 contra el Polvo y Las Salpicaduras Bluetooth 5.3 Sonido Estable iOS y Android Isle Blue'
-date: 2026-05-03 08:45:57
+date: 2026-05-04 09:27:07
 image: 'https://m.media-amazon.com/images/I/31MWkw-tuoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CDLCV626/?tag=tolees-21'
 descuento: '49.00'
-average: '33.816'
+average: '33.4404255319149'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Sonido estable】el altavoz ha superado 26 estrictas pruebas de fiabilidad para garantizar una optima experiencia de sonido en todo momento
+- 【Compatible con Android y iOS】accede a la aplicación AI Life para disfrutar de otras funciones
 - 【40 horas de batería】carga los auriculares durante 10 minutos antes de salir de casa y disfruta de 3 horas de reproducción de música; una vez cargados por completo, los auriculares ofrecen hasta 9 horas de reproducción de música, y pueden ofrecer hasta 40 horas de reproducción de música con múltiples cargas en el estuche
 - 【Compactos y cómodos】cada auricular pesa tan solo 3.8 g y ha sido diseñado para proporcionar un ajuste confortable; más de 300.000 muestras de conductos auditivos y análisis ergonómicos basados en simulaciones
 - 【Bluetooth 5.3】las conexiones Bluetooth 5.3 mantienen el sonido y la imagen sincronizados para garantizar una experiencia audiovisual envolvente
-- 【Compatible con Android y iOS】accede a la aplicación AI Life para disfrutar de otras funciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDLCV626{{</world>}}

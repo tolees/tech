@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOS - En caso de emergencia, el niño puede presionar el botón SOS para notificar a los contactos de emergencia de su ubicación
 - Llamadas - Xplora Kidzi puede realizar y recibir llamadas de los contactos previamente registrados
+- SOS - En caso de emergencia, el niño puede presionar el botón SOS para notificar a los contactos de emergencia de su ubicación
 - Mensajes - El dispositivo puede recibir textos, emojis, imágenes y mensajes de voz y responder con imágenes, emojis y mensajes de voz
 - Compatibilidad con WiFi y redes - El Xplora Kidzi viene con una tarjeta SIM Xplora Connect preinstalada. Se requiere una suscripción mínima de 12 meses. Precios a partir de sólo 4,75 € al mes. (Para más información, consulta la descripción más abajo)
 - Localización GPS y zonas de seguridad - Xplora Kidzi utiliza múltiples servicios para mostrar la ubicación del dispositivo. Hay una opción disponible para configurar Zonas de Seguridad alrededor de lugares clave como el hogar y la escuela

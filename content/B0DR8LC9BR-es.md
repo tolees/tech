@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ALFOMBRILLA NANOTEXTIL: Fabricada en nanotextil, caucho natural y con un tamaño de 360x260mm, la alfombrilla del kit pc gaming MCP124PRO asegura un deslizamiento preciso y una estabilidad avanzada gracias a su base antideslizante; Además, el borde con efecto rainbow añade un estilo único a tu setup
 - RATÓN RGB CON SWITCHES HUANO: Con un sensor óptico ajustable hasta 3200 DPI y switches HUANO, el ratón gaming del combo pc MCP124PRO garantiza precisión y durabilidad en cada clic; Además, cuenta con una espectacular iluminación RGB que añade un toque vibrante de color a tu espacio de juego
 - AURICULARES RGB CON SONIDO ENVOLVENTE: El pack gaming MCP124PRO incluye unos auriculares diseñados para ofrecer audio nítido y graves potentes; Su diseño ergonómico junto con su diadema flotante ajustable garantizan comodidad durante largas sesiones, mientras que el micrófono flexible, con control de volumen integrado y adaptador 2en1, asegura una comunicación clara
-- ALFOMBRILLA NANOTEXTIL: Fabricada en nanotextil, caucho natural y con un tamaño de 360x260mm, la alfombrilla del kit pc gaming MCP124PRO asegura un deslizamiento preciso y una estabilidad avanzada gracias a su base antideslizante; Además, el borde con efecto rainbow añade un estilo único a tu setup
-- COMPATIBILIDAD MULTIPLATAFORMA: El combo gamer MCP124PRO de Mars Gaming, creado para adaptarse a cualquier plataforma, resulta compatible con PC, Mac, PS4, PS5, Xbox One, Xbox Series X|S y Switch
 - TECLADO H-MECH E ILUMINACIÓN LED FRGB: El teclado ergonómico de tamaño completo del combo 4en1 MCP124PRO integra reposamuñecas para reducir la fatiga, tecnología H-Mech que combina la durabilidad de los teclados de membrana con la respuesta rápida y precisa de los mecánicos, e iluminación RGB para un despliegue de colores fijos y mejora de la visibilidad en cualquier entorno; Teclado con Idioma en Español
+- COMPATIBILIDAD MULTIPLATAFORMA: El combo gamer MCP124PRO de Mars Gaming, creado para adaptarse a cualquier plataforma, resulta compatible con PC, Mac, PS4, PS5, Xbox One, Xbox Series X|S y Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR8LC9BR{{</world>}}

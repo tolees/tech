@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño: funcionalidad probada y experiencia caracterizan el diseño del no, pantalla antirreflectante.
-- AMD FreeSync Premium ajusta la velocidad de fotogramas del monitor a la tarjeta gráfica, garantizando al menos 120 Hz a FHD y velocidad mínima de fotogramas (LFC). LFC asegura que este mínimo de pantalla se mantenga en su lugar y que el juego se mantenga fluido a una velocidad de fotogramas por debajo del mínimo admitido de la pantalla.
 - Juego de características: monitor para videojuegos 16:9 con una resolución de 1920 x 1080 ppp, pantalla VA, tasa de recuperación de imagen: 165 Hz, 180 Hz OC, tiempo de respuesta: 5 ms (GTG), 1 ms(VRB) ms, conexiones: 2 x HDMI (1 x HDMI 2.0, 1 x HDMI 1.4), DisplayPort DP 1.2, audio. Fuera
 - TIPO DE DISPLAY: Las pantallas VA ofrecen al usuario altos contrastes y ángulos de visión estables desde una amplia gama de perspectivas.
 - Contenido del envío: Nitro ED273S3, tarjeta de garantía, instrucciones de inicio rápido, cable de alimentación, cable HDMI
+- Diseño: funcionalidad probada y experiencia caracterizan el diseño del no, pantalla antirreflectante.
+- AMD FreeSync Premium ajusta la velocidad de fotogramas del monitor a la tarjeta gráfica, garantizando al menos 120 Hz a FHD y velocidad mínima de fotogramas (LFC). LFC asegura que este mínimo de pantalla se mantenga en su lugar y que el juego se mantenga fluido a una velocidad de fotogramas por debajo del mínimo admitido de la pantalla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCY6CQ21{{</world>}}

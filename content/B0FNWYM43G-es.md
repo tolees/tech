@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Multi-plataforma: compatible con PC (X-Input/D-Input/Steam), Nintendo Switch, Switch 2, Android e iOS
 - Autonomía de hasta 10 h con batería 600 mAh + LED indicador de carga: largas sesiones sin interrupciones y control fácil del nivel de batería
+- Conexión Bluetooth 5.0 + modo USB: juega sin retrasos hasta 10 m de alcance o conectado mientras cargas con cable incluido
 - Vibración dual 4 niveles + Botón Turbo personalizable: inmersión ajustable y disparos rápidos en tus juegos favoritos
 - Diseño ultraligero y ergonómico (187 g): joysticks diagonales y botones de alta respuesta para mayor precisión y comodidad
-- Conexión Bluetooth 5.0 + modo USB: juega sin retrasos hasta 10 m de alcance o conectado mientras cargas con cable incluido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FNWYM43G{{</world>}}

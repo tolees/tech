@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 16 GB DDR4-3200 MT/s (1 x 16 GB), SSD de 1 TB PCIe NVMe M.2
-- FreeDOS
-- Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
-- Gráficos Intel Iris Xᶱ
 - FHD (1920 x 1080) de 68,6 cm (27 pulg.) en diagonal, IPS, microborde en tres de los lados, antirreflectante, 300 nits, 99 % sRGB
+- FreeDOS
+- 16 GB DDR4-3200 MT/s (1 x 16 GB), SSD de 1 TB PCIe NVMe M.2
+- Gráficos Intel Iris Xᶱ
+- Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FP5DP2T7{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Eficaces LED (5 W, 200 lúmenes) para conseguir elegantes efectos luminosos con cambio de color RGB, con diferentes modos de luz, regulables, fáciles de controlar con el mando a distancia
-- Disfruta de la música sin cables desde tu smartphone con Bluetooth V5.0, con batería de iones de litio de 2000 mAh integrada para una mayor autonomía de luz y/o reproducción
 - Perfecto para uso en exteriores gracias a su protección contra salpicaduras de agua con certificación IP44 y asa de transporte
 - Lámpara de mesa LED con altavoz Bluetooth integrado para una iluminación ambiental y música de fondo en el jardín, la terraza, el balcón o en interiores
+- Disfruta de la música sin cables desde tu smartphone con Bluetooth V5.0, con batería de iones de litio de 2000 mAh integrada para una mayor autonomía de luz y/o reproducción
 - Volumen de suministro: 1x lámpara de mesa, 1x cable de carga micro USB, 1x mando a distancia con pila de botón CR2032, instrucciones de uso
+- Eficaces LED (5 W, 200 lúmenes) para conseguir elegantes efectos luminosos con cambio de color RGB, con diferentes modos de luz, regulables, fáciles de controlar con el mando a distancia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F5JL37Y{{</world>}}

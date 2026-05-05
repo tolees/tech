@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD DE IMAGEN EXCEPCIONAL: Sensor de fotograma completo de 24,2 MP con un modo de alta resolución de 96 MP, más de 14 paradas de alto rango dinámico e ISO nativo dual para grabar videos con poca luz y con un ruido mínimo.
-- GRABACIÓN Y REPRODUCCIÓN DE SSD: Con grabación y reproducción con un SSD externo a través de USB, y la capacidad de grabar ProRes 422 HQ y 4:2:2 All-Intra de 10 bits directamente en SSD.
-- VÍDEO DE CALIDAD DE CINE: Grabación ilimitada de 10 bits C4K 60p/50p 4:2:2, de 10 bits 6K 30p/25p 4:2:0 y compatibilidad con HFR y S&Q para imágenes de calidad profesional.
 - TRANSMISIÓN INALÁMBRICA: Configure fácilmente la transmisión inalámbrica en vivo (RTMP/RTMPS) con la aplicación LUMIX Sync y comparta sus momentos en tiempo real, o disfrute de una transmisión en vivo por cable (RTP/RTSP).
+- GRABACIÓN Y REPRODUCCIÓN DE SSD: Con grabación y reproducción con un SSD externo a través de USB, y la capacidad de grabar ProRes 422 HQ y 4:2:2 All-Intra de 10 bits directamente en SSD.
 - ENFOQUE AUTOMÁTICO Y ESTABILIZACIÓN RÁPIDO Y PRECISO: Con Phase Hybrid AF con 779 puntos AF y de alta velocidad. Active I.S. compensa el movimiento de la cámara, perfecto para grabar videos cuando estas de camino.
+- VÍDEO DE CALIDAD DE CINE: Grabación ilimitada de 10 bits C4K 60p/50p 4:2:2, de 10 bits 6K 30p/25p 4:2:0 y compatibilidad con HFR y S&Q para imágenes de calidad profesional.
+- CALIDAD DE IMAGEN EXCEPCIONAL: Sensor de fotograma completo de 24,2 MP con un modo de alta resolución de 96 MP, más de 14 paradas de alto rango dinámico e ISO nativo dual para grabar videos con poca luz y con un ruido mínimo.
 - COMPACTO Y DURADERO: De aleación de magnesio de primera calidad y una construcción resistente a las salpicaduras y al polvo para soportar incluso los entornos más difíciles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

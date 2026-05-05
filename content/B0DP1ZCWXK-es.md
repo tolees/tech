@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estación de Carga para más Potencia: UGREEN dispositivo de carga USB-C con un total de 6 puertos (4 USB-C y 2 USB-A) y una potencia total de 100W es una opción profesional y potente para el escritorio. Ahorra tiempo y esfuerzo en casa, en la oficina o en movimiento con esta estación de carga diseñada para varios dispositivos.
 - 6 En 1 para Multitarea: 100w cargador usb c carga hasta 6 dispositivos simultáneamente con 6 puertos para que puedas cargar todo, desde teléfonos hasta tabletas y computadoras portátiles al mismo tiempo. Además, se incluye una base que garantiza un escritorio ordenado y que ahorra espacio, sin enredos de cables. Potente, ahorra espacio y es eficiente.
-- Compatibilidad Universal: Cargador USB C 100W es compatible con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max16/16/15/14/13/12/11, Galaxy S25/S25+/S25 Ultra/S24/S23/S22/S21, MacBook Air/Pro M4 M3 M2 M1, iPad Pro/Air/mini, Galaxy Tab S10/S9/S8/S7, Thinkpad, Steam Deck
+- Estación de Carga para más Potencia: UGREEN dispositivo de carga USB-C con un total de 6 puertos (4 USB-C y 2 USB-A) y una potencia total de 100W es una opción profesional y potente para el escritorio. Ahorra tiempo y esfuerzo en casa, en la oficina o en movimiento con esta estación de carga diseñada para varios dispositivos.
 - GaN Tech: Esta estación de carga cuenta con GaN para optimizar su experiencia de carga. La tecnología GaN permite que el cargador ofrezca mejor eficiencia, mayor potencia de salida, mejor gestión térmica y mayor vida útil.
+- Compatibilidad Universal: Cargador USB C 100W es compatible con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max16/16/15/14/13/12/11, Galaxy S25/S25+/S25 Ultra/S24/S23/S22/S21, MacBook Air/Pro M4 M3 M2 M1, iPad Pro/Air/mini, Galaxy Tab S10/S9/S8/S7, Thinkpad, Steam Deck
 - Cargador 100W: UGREEN cargador movil ofrece una carga máxima de 65W de un puerto. Con protocolos de carga rápida múltiples (PD/PPS/QC/AFC) , MacBook Air M3 puede cargarse del 0% al 51% en solo 30 minutos, lo que maximiza tu eficiencia de trabajo y lo convierte en una excelente opción para el uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

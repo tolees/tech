@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salida "Bass boosting" para refuerzo de graves
 - Potente sonido por medio del motor de 13.5 mm de Neodimio
 - Estructura de forma oval para mejor sujeción
+- Salida "Bass boosting" para refuerzo de graves
 - Estructura y cable del mismo color llamativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

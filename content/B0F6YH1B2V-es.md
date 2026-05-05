@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FOTOGRAFÍA DE CALIDAD: Gracias al revestimiento Super Spectra, conseguirás colores precisos, mayor contraste y menos brillos o reflejos. Llena tu álbum con fotos espectaculares.
 - OBJETIVO CANON DE INICIACIÓN ASEQUIBLE: Compatible con las cámaras del sistema Canon EOS R, este objetivo RF es perfecto para empezar a crear con creatividad y hacer tus primeros pinitos.
-- OBJETIVO CANON: Acércate al mundo con este teleobjetivo zoom ligero. Combínalo con una cámara Canon EOS R: el complemento perfecto para tu kit de creación de contenido.
-- OBJETIVO ZOOM: Con un zoom de 75-300 mm y encuadre flexible, perfecto para capturar escenas de naturaleza y deporte. El motor de enfoque automático mantiene al sujeto enfocado con total fiabilidad.
 - LISTO PARA VIAJAR: El objetivo Canon perfecto para tus viajes y el día a día. Ligero y portátil (solo pesa 507 g), es ideal para llevar siempre en tu mochila o bolsa de equipo.
+- OBJETIVO ZOOM: Con un zoom de 75-300 mm y encuadre flexible, perfecto para capturar escenas de naturaleza y deporte. El motor de enfoque automático mantiene al sujeto enfocado con total fiabilidad.
+- FOTOGRAFÍA DE CALIDAD: Gracias al revestimiento Super Spectra, conseguirás colores precisos, mayor contraste y menos brillos o reflejos. Llena tu álbum con fotos espectaculares.
+- OBJETIVO CANON: Acércate al mundo con este teleobjetivo zoom ligero. Combínalo con una cámara Canon EOS R: el complemento perfecto para tu kit de creación de contenido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6YH1B2V{{</world>}}

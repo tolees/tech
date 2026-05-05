@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - [ Conmutación Fácil ] Puede cambiar de un ordenador a otro simplemente pulsando el botón del switch o usando el controlador de escritorio. Un mismo teclado y ratón se pueden conmutar libremente entre 2 PC. El LED azul indica qué PC está accesible en ese momento.
-- [ Transferencia Rápida USB 3.2 Gen 1 ] El switch USB está equipado con 3 puertos USB-C y 4 puertos USB-A, conforme al estándar USB 3.2 Gen 1, con una velocidad de transferencia teórica de hasta 5 Gbps para una transferencia más eficiente de archivos pesados, vídeos HD y copias de seguridad. (Retrocompatible con USB 2.0/1.1; no admite transmisión de vídeo ni carga de dispositivos.)
 - [ Compartir 7 Dispositivos USB entre 2 Ordenadores ] Este switch USB permite a dos ordenadores cambiar y compartir fácilmente hasta 7 dispositivos USB (teclado, ratón, impresora, disco duro, ventiladores USB, micrófono USB, etc.) sin tener que conectar/desconectar los dispositivos repetidamente.
+- [ Transferencia Rápida USB 3.2 Gen 1 ] El switch USB está equipado con 3 puertos USB-C y 4 puertos USB-A, conforme al estándar USB 3.2 Gen 1, con una velocidad de transferencia teórica de hasta 5 Gbps para una transferencia más eficiente de archivos pesados, vídeos HD y copias de seguridad. (Retrocompatible con USB 2.0/1.1; no admite transmisión de vídeo ni carga de dispositivos.)
 - [ Alimentación Estable y Fiable ] El conmutador USB se entrega con adaptador de corriente DC 12 V / 2 A, garantizando un funcionamiento estable incluso con varios dispositivos conectados. Utilice el adaptador proporcionado para asegurar una transmisión estable.
 - [ Adaptadores USB-C a USB-A Incluidos ] Este switch USB para 2 PC incluye 2 adaptadores USB-C a USB-A, ideales para conectar directamente ordenadores portátiles que solo disponen de puertos USB-C, sin necesidad de compras adicionales.
 

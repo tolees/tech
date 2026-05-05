@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Espacio para una consola Nintendo Switch y accesorios (mando, cable de alimentación, juegos, etc.)
-- Licencia oficial de Nintendo
-- Correa regulable
-- Bolsillo externo para almacenamiento extra
 - Reverso almohadillado y perforado para una adecuada transpiración
+- Bolsillo externo para almacenamiento extra
+- Correa regulable
+- Licencia oficial de Nintendo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJV5RZSN{{</world>}}

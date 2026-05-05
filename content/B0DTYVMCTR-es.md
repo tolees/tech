@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Durable Metal Casing: Allows for efficient heat dissipation and long network life
-- Puertos Gigabit completos: 16 puertos RJ45 con negociación automática de 10/100/1000 Mbps que admiten Auto-MDI/MDIX
 - Isolation Mode: Isolation Mode allows one-click client traffic separation for higher security and performance
+- Durable Metal Casing: Allows for efficient heat dissipation and long network life
 - Plug and Play: Simple to use and saves time and effort
+- Puertos Gigabit completos: 16 puertos RJ45 con negociación automática de 10/100/1000 Mbps que admiten Auto-MDI/MDIX
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYVMCTR{{</world>}}

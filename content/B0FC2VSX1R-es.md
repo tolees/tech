@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Saros 10R Robot Aspirador 22000Pa Succión con mopa Cuerpo Ultrafino de 7 98 cm Saros 10R Set'
-date: 2026-05-03 09:52:40
+date: 2026-05-05 14:49:48
 image: 'https://m.media-amazon.com/images/I/31ECgSwvaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

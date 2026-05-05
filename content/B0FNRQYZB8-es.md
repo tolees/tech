@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Robusta y lista para exteriores: diseño resistente con grado IP65; funciona con Wi‑Fi 2.4 GHz; compatible con Amazon Alexa y Google Assistant; incluye micrófono, altavoz y sirena.
-- Cobertura total 360° / 130° con seguimiento por IA: la cámara gira horizontalmente y pivotas para cubrir gran parte del entorno, con seguimiento inteligente de personas y movimiento.
 - Energía solar integrada + batería recargable: incluye panel solar Tapo A201 que carga automáticamente, garantizando funcionamiento continuo sin cables eléctricos.
-- Almacenamiento flexible: admite tarjetas microSD de hasta 512 GB (no incluida) o suscripciones al servicio de nube Tapo Care para copias de seguridad, historial y protección cifrada.
 - Visión nocturna en color: iluminación completa mediante faros integrados que permite ver detalles incluso de noche, no solo en blanco y negro.
+- Almacenamiento flexible: admite tarjetas microSD de hasta 512 GB (no incluida) o suscripciones al servicio de nube Tapo Care para copias de seguridad, historial y protección cifrada.
+- Cobertura total 360° / 130° con seguimiento por IA: la cámara gira horizontalmente y pivotas para cubrir gran parte del entorno, con seguimiento inteligente de personas y movimiento.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FNRQYZB8{{</world>}}

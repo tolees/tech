@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Funcionamiento silencioso de montaje en rack con máx. 31 dB a 25°C (77 ° F) ambiente
 - Power-Over-Ethernet - puertos PoE + de 24 Gigabit (802.3af y 802.3at) que proporcionan hasta 30 W por puerto con un total de 190 W de potencia PoE
-- Altas prestaciones: las características Smart avanzadas incluyen el enrutamiento estático de Capa 3 con 32 rutas (IPv4 e IPv6) para enrutamiento interVLAN, VLAN privadas y MVR
 - Configuración simple: instalación y configuración con una interfaz basada en navegador web fácil de usar
+- Altas prestaciones: las características Smart avanzadas incluyen el enrutamiento estático de Capa 3 con 32 rutas (IPv4 e IPv6) para enrutamiento interVLAN, VLAN privadas y MVR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1G92SLV{{</world>}}

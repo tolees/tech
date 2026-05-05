@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Redmi Buds 6 Play - Auriculares inalámbricos cancelación de Ruido Ligeros hasta 36 Horas de autonomía Bluetooth 5.4 Blanco Versión ES'
-date: 2026-05-03 10:25:35
+date: 2026-05-05 09:49:37
 image: 'https://m.media-amazon.com/images/I/21jjOXpWHGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBHT1BT9/?tag=tolees-21'
 descuento: '33.36'
-average: '9.97560975609751'
+average: '9.97595238095233'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con Google Fast Pair
 - Bluetooth 5.4. Conexiones más rápidas y cobertura más amplia. Alta eficiencia de transferencia
 - Driver dinámico de 10 mm. Cuatro configuraciones de ecualización
 - Diseño ergonómico para un ajuste cómodo. Ligeros y compactos
-- Compatible con Google Fast Pair
 - Hasta 36 horas de duración de la batería. 7,5 horas de reproducción de audio. Equipado con una caja de carga, la duración de la batería es de 36 horas. Equipado con carga súper rápida, carga durante 10 minutos y escucha música durante tres horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

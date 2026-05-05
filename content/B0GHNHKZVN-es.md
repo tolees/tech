@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Batería de 8500 mAh (típica) con HyperCharge de 100 W】La batería más grande en el móvil POCO, 16% de contenido ultra alto de silicio-carbono, densidad de energía de 847 Wh/L, duración de batería de 2 días, batería de alta densidad, mayor espacio de batería
-- 【Dimensity 9500s flagship】Proceso de 3 nm, diseño de núcleo grande 4+4, procesador de inteligencia artificial NPU890, objetivos de referencia AnTuTu v11, sistema de enfriamiento POCO 3D IceLoop, capacidad de disipación de calor: más de 69 mA/°C, optimización WildBoost, velocidad de cuadros inteligente de hasta 120 FPS, resolución táctil súper 24x
-- 【Sensor de 50MP Light Fusion 600 con OIS】Cámara principal de 50MP, sensor de imagen Light Fusion 600, cámara ultra ancha de 8MP, admite modo retrato con bokeh + HDR, admite conversión de tomas de video a dinámicas, Asistente de creatividad IA
-- 【Calidad insignia con sensación premium】Sensor de huellas dactilares ultrasónico, altavoces estéreo simétricos duales 1115F: lo suficientemente alto, pero suave, comunicación sin conexión de Xiaomi, soporte eSIM en la serie X por primera vez, Xiaomi HyperOS 3, listo para usar
 - 【Pantalla AMOLED ultrabrillante de 6.83" 1.5K 120Hz】Panel de pantalla M10, brillo máximo de 3500 nits al 25% APL, biseles ultradelgados de nivel insignia, pantalla Eye-care, resolución táctil súper 24x, Corning Gorilla Glass 7i
+- 【Sensor de 50MP Light Fusion 600 con OIS】Cámara principal de 50MP, sensor de imagen Light Fusion 600, cámara ultra ancha de 8MP, admite modo retrato con bokeh + HDR, admite conversión de tomas de video a dinámicas, Asistente de creatividad IA
+- 【Dimensity 9500s flagship】Proceso de 3 nm, diseño de núcleo grande 4+4, procesador de inteligencia artificial NPU890, objetivos de referencia AnTuTu v11, sistema de enfriamiento POCO 3D IceLoop, capacidad de disipación de calor: más de 69 mA/°C, optimización WildBoost, velocidad de cuadros inteligente de hasta 120 FPS, resolución táctil súper 24x
+- 【Batería de 8500 mAh (típica) con HyperCharge de 100 W】La batería más grande en el móvil POCO, 16% de contenido ultra alto de silicio-carbono, densidad de energía de 847 Wh/L, duración de batería de 2 días, batería de alta densidad, mayor espacio de batería
+- 【Calidad insignia con sensación premium】Sensor de huellas dactilares ultrasónico, altavoces estéreo simétricos duales 1115F: lo suficientemente alto, pero suave, comunicación sin conexión de Xiaomi, soporte eSIM en la serie X por primera vez, Xiaomi HyperOS 3, listo para usar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHNHKZVN{{</world>}}

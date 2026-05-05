@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUMUP Solo Lite: un datáfono Blanco de tamaño Bolsillo para pagos contactless Que acepta Tarjetas de crédito Tarjetas de débito Apple Pay Google Pay y Mucho más.'
-date: 2026-03-19 00:28:32
+date: 2026-05-03 17:56:23
 image: 'https://m.media-amazon.com/images/I/31HXA+B-zgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pago por uso: 1,49% Comisión por transacción. 0 € Coste mensual, sin contrato vinculante
 - Batería de larga duración: procesa más de 1000 transacciones con una sola carga.
 - Mejor juntos: Compatible con una amplia gama de herramientas de SumUp, desde una estación de carga hasta una configuración de TPV avanzada. El socio perfecto para tu negocio.
 - Creemos en el héroe cotidiano: Damos acceso a servicios financieros a los millones de negocios que la mayoría de proveedores consideran demasiado pequeños. Son 10 veces más pequeños que los negocios más pequeños a los que se dirigirían los bancos y los proveedores tradicionales. Lo que empezó con un datáfono se ha convertido en una serie de datáfonos, varias soluciones de pago remoto, como Facturas, Tarjetas regalo o Enlaces de pago, y mucho más.
-- Mantén tu fiscalización al día sin coste adicional: Centraliza tus procesos fiscales desde la aplicación SumUp sin necesidad de dispositivos adicionales ni informes manuales. Con la fiscalización en la nube, tu sistema TPV envía automáticamente cada transacción en efectivo o con tarjeta a la agencia tributaria para mantener tu fiscalidad al día.
-- Acepta todo tipo de pagos: Acepta todas las formas de pago principales, desde chip y PIN o contactless hasta Google Pay y Apple Pay
-- Pago por uso: 1,49% Comisión por transacción. 0 € Coste mensual, sin contrato vinculante
 - Portátil. Empareja tu datáfono elegante y ligero con tu smartphone mediante Bluetooth para aceptar pagos en el establecimiento o sobre la marcha
+- Acepta todo tipo de pagos: Acepta todas las formas de pago principales, desde chip y PIN o contactless hasta Google Pay y Apple Pay
+- Mantén tu fiscalización al día sin coste adicional: Centraliza tus procesos fiscales desde la aplicación SumUp sin necesidad de dispositivos adicionales ni informes manuales. Con la fiscalización en la nube, tu sistema TPV envía automáticamente cada transacción en efectivo o con tarjeta a la agencia tributaria para mantener tu fiscalidad al día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBQLX9BP{{</world>}}

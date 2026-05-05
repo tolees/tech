@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMPATIBILIDAD MULTIPLATAFORMA: El teclado ergonómico MKPRO es compatible con Windows, *Mac, *Linux, PS4, PS5, Xbox One y Xbox Series X/S, Switch, permitiendo cambiar las teclas modificadoras para alternar entre el modo Mac y Windows; *Algunas funciones pueden no funcionar debido a limitaciones del sistema operativo
-- RUEDA DE CONTROL Y SOFTWARE AVANZADO: Equipado con una rueda de control multimedia, el teclado compacto MKPRO permite ajustar el volumen y gestionar la reproducción multimedia con total precisión; Su avanzado *software permite configurar macros, ajustar la iluminación y adaptar las funciones de las teclas a tu medida; *Solo disponible en Windows
 - SWITCHES MECÁNICOS HOT-SWAP: El teclado RGB MKPRO incorpora sistema hot-swappable con switches mecánicos en dos versiones: Switches Amarillos Lubricados, que mantienen una presión constante y uniforme para una experiencia fluida y silenciosa, y Switches Azules con Click, para una respuesta táctil satisfactoria, precisa y auditivamente pronunciada; Incluye 4 switches adicionales y herramientas especializadas
 - FORMATO COMPLETO E ILUMINACIÓN RGB: El teclado gaming MKPRO ofrece un diseño full-size ergonómico con un tamaño compacto y una estructura optimizada tanto para gaming como para estudio o trabajo; Además, incorpora retroiluminación RGB Chroma avanzada y efectos de iluminación lateral personalizables, Teclado con Idioma Español
+- COMPATIBILIDAD MULTIPLATAFORMA: El teclado ergonómico MKPRO es compatible con Windows, *Mac, *Linux, PS4, PS5, Xbox One y Xbox Series X/S, Switch, permitiendo cambiar las teclas modificadoras para alternar entre el modo Mac y Windows; *Algunas funciones pueden no funcionar debido a limitaciones del sistema operativo
+- RUEDA DE CONTROL Y SOFTWARE AVANZADO: Equipado con una rueda de control multimedia, el teclado compacto MKPRO permite ajustar el volumen y gestionar la reproducción multimedia con total precisión; Su avanzado *software permite configurar macros, ajustar la iluminación y adaptar las funciones de las teclas a tu medida; *Solo disponible en Windows
 - MÁXIMO RENDIMIENTO Y OPERACIÓN SILENCIOSA QUIETCORE: El tecaldo mecánico MKPRO incorpora tecnología antighosting completa, ajuste de altura en tres niveles, teclas ABS de doble inyección, cable USB-C extraíble, e integra espuma amortiguadora QuietCore, proporcionando una experiencia silenciosa y cómoda; Switch Mecánico Silent Amarillo Lubricado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

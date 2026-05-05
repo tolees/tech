@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología anti-fragmentación AdaptiveSync
 - Soporte ergonómico con inclinación de pantalla
-- Pantalla de 27", Full HD 120 Hz, 250 Nits
+- Tecnología anti-fragmentación AdaptiveSync
 - 1xVGA/1xHDMI 1.4, Zeroframe
+- Pantalla de 27", Full HD 120 Hz, 250 Nits
 - Tiempo de Respuesta 1 m/s VRB
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BOOMBOX: Bajos potentes con X-Bass. 5 modos de sonido (Flat, Pop, Clásica, Jazz, Rock). Potencia 2×500 W máx. (2×50 W RMS)
-- CONTENIDO: Altavoz MEDION PX-1 Plus MD400001, 1x micrófono, cable de corriente, manual de usuario
-- KARAOKE: Canta, anuncia canciones o haz discursos. Entradas de micro con control de volumen y eco
-- ALTAVOZ DE FIESTA: Efectos de luz ajustables, luces LED envolventes. Fácil de transportar gracias a sus asas
 - BLUETOOTH: Reproducción inalámbrica desde smartphone/tablet. Batería de larga duración con hasta 4 h de reproducción
+- KARAOKE: Canta, anuncia canciones o haz discursos. Entradas de micro con control de volumen y eco
+- BOOMBOX: Bajos potentes con X-Bass. 5 modos de sonido (Flat, Pop, Clásica, Jazz, Rock). Potencia 2×500 W máx. (2×50 W RMS)
+- ALTAVOZ DE FIESTA: Efectos de luz ajustables, luces LED envolventes. Fácil de transportar gracias a sus asas
+- CONTENIDO: Altavoz MEDION PX-1 Plus MD400001, 1x micrófono, cable de corriente, manual de usuario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L6P68HX{{</world>}}

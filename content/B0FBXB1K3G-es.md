@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - FreeSync Premium proporciona una experiencia de juego perfecta y sin tearing al habilitar VRR (tasa de refresco variable) de forma predeterminada
+- Tiempo de respuesta GTG (mín.) de 0,5 ms para una experiencia de juego fluida y tecnología ASUS Extreme Low Motion Blur (ELMB ) SYNC para reducir aún más el ghosting y el desenfoque de movimiento
 - DisplayWidget Center permite ajustar fácilmente la configuración del monitor con el ratón
 - Monitor gaming curvo Full HD de 31,5 pulgadas y 1500R con overclocking a una tasa de refresco de 250 Hz, diseñado para gamers profesionales y una experiencia de juego inmersiva
-- Tiempo de respuesta GTG (mín.) de 0,5 ms para una experiencia de juego fluida y tecnología ASUS Extreme Low Motion Blur (ELMB ) SYNC para reducir aún más el ghosting y el desenfoque de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBXB1K3G{{</world>}}

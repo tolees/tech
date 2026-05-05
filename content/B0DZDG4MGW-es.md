@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresora fotográfica compacta con sublimación de tinta - Con 54 hojas de papel 4x6
 - Velocidad de impresión color: 1.3 pages_per_minute
 - Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 - Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
+- Impresora fotográfica compacta con sublimación de tinta - Con 54 hojas de papel 4x6
 - Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

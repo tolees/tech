@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estuche de carga incluido proporciona dos cargas adicionales para hasta 18 horas de duración de la batería, lo que lo convierte en el compañero ideal para llevar y usar.
+- Un receptor de cámara dedicado garantiza la compatibilidad universal de la cámara, mientras que el receptor de smartphone incluido se conecta directamente a dispositivos USB-C sin necesidad de cables.
 - Sonido perfectamente claro en cualquier aplicación con la tecnología inteligente GainAssist que ajusta automáticamente los niveles de audio
 - Micrófonos de alta calidad integrados y emparejamiento automático hacen que sea increíblemente fácil de usar
-- Un receptor de cámara dedicado garantiza la compatibilidad universal de la cámara, mientras que el receptor de smartphone incluido se conecta directamente a dispositivos USB-C sin necesidad de cables.
+- El estuche de carga incluido proporciona dos cargas adicionales para hasta 18 horas de duración de la batería, lo que lo convierte en el compañero ideal para llevar y usar.
 - Diseño ultra compacto y ultra ligero para una presencia discreta en cámara
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

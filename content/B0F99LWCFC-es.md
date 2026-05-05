@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [Avanzadas herramientas de entrenamiento] Potencia de carrera, velocidad vertical y Training Load Pro. Sincroniza tus entrenamientos con TrainingPeaks. Compatible con Strava y +170 perfiles de deporte.
-- [Pantalla AMOLED y diseño robusto] Pantalla táctil AMOLED de 1,28” con cristal de zafiro antiarañazos y bisel de acero inoxidable. Durabilidad MIL-STD 810H para soportar condiciones exigentes.
-- [Compacto. Potente. Apto para exteriores.] Más pequeño y ligero que el Grit X2 Pro, con hasta 7 días de batería y sensores para exteriores: GPS dual, barómetro, brújula, giroscopio y acelerómetro.
 - [Biosensores Polar Elixir y recuperación] Biosensores avanzados con ECG en la muñeca, temperatura de la piel, SpO₂ y HRV. Elixir te brinda herramientas de recuperación con base científica como Nightly Recharge.
+- [Compacto. Potente. Apto para exteriores.] Más pequeño y ligero que el Grit X2 Pro, con hasta 7 días de batería y sensores para exteriores: GPS dual, barómetro, brújula, giroscopio y acelerómetro.
 - [Oriéntate allá donde vayas] El GPS dual y los mapas offline a color te invitan a explorar más. Planifica tus rutas y sigue las indicaciones (Komoot) para no perderte.
+- [Pantalla AMOLED y diseño robusto] Pantalla táctil AMOLED de 1,28” con cristal de zafiro antiarañazos y bisel de acero inoxidable. Durabilidad MIL-STD 810H para soportar condiciones exigentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F99LWCFC{{</world>}}

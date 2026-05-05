@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Embalaje sostenible: el 99 % del embalaje del dispositivo está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
-- Diseñada para proteger y adaptarse a la perfección a los nuevos Kindle Paperwhite (2024), Kindle Paperwhite Signature Edition (2024) y Kindle Colorsoft y Kindle Colorsoft Signature Edition.
-- Hemos integrado la sostenibilidad en su diseño: la tela se ha fabricado con poliéster 100 % reciclado posconsumo.
-- Ideal para viajar: la funda de tela tolera la exposición al agua y es el complemento ideal para el Kindle, ya que te permite leer en aún más lugares.
-- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
 - Sin complicaciones: el acople magnético mantiene la funda firmemente cerrada.
+- Embalaje sostenible: el 99 % del embalaje del dispositivo está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
 - Tres colores a elegir: negro, frambuesa y verde jade.
 - Diseño fino y ligero: lee durante horas con total comodidad.
+- Hemos integrado la sostenibilidad en su diseño: la tela se ha fabricado con poliéster 100 % reciclado posconsumo.
+- Ideal para viajar: la funda de tela tolera la exposición al agua y es el complemento ideal para el Kindle, ya que te permite leer en aún más lugares.
 - Fácil de usar: la funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
+- Diseñada para proteger y adaptarse a la perfección a los nuevos Kindle Paperwhite (2024), Kindle Paperwhite Signature Edition (2024) y Kindle Colorsoft y Kindle Colorsoft Signature Edition.
+- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CM7RF1KR{{</world>}}

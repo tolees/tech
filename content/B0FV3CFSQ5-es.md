@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lote de Criogenización: Refréscate con el conjunto Criogenización y 1000 paVos. Incluye el traje de Granizo (con estilo LEGO), el accesorio mochilero Punto de congelación, el pico Piolet y el ala delta Frente frío
-- ¡Fortnite – Lote de Fuego oscuro y hielo incluye más de 10 objetos cosméticos y 1000 paVos
-- El juego es un cupón Code in a Box, no incluye un cartucho
 - Trajes de estilo LEGO: Acorde potente oscura, Presagio fundido y Arcángel sombría
+- El juego es un cupón Code in a Box, no incluye un cartucho
+- ¡Fortnite – Lote de Fuego oscuro y hielo incluye más de 10 objetos cosméticos y 1000 paVos
 - Lote de Fuego oscuro: Incluye tres trajes (con estilo LEGO) y accesorios mochileros; Acorde potente oscura, Seis cuerdas oscuras, Presagio fundido, Capa de batalla fundida, Arcángel sombría, Alas de Arcángel sombrías y, además, ¡tres envoltorios, tres picos dobles y un gesto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

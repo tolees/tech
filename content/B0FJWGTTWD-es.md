@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [ Carga Segura y Fiable ] Este cargador USB C 30W está equipado con un chip inteligente que protege tu dispositivo contra cortocircuitos, sobretensiones, sobrecalentamientos y sobreintensidades, etc. La tecnología ThermalGuard mide la temperatura en tiempo real 238+ veces por segundo para garantizar tu seguridad y la de tu dispositivo.
-- [ Compatibilidad Extendida ] Esta toma USB C es compatible con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ 16/ 15/ 14/ 13/ 12/ 11/ XR/ X, Galaxy S24/ S24+/ S24 Ultra (potencia admitida 25W)/ S23/ S22/ S21/ S20, Galaxy A15/ A25/ A35/ A55/ A05s, Pixel 9/ 8/ 7/ 6, iPad Pro 2024-2018/ Air
 - [ Tecnología GaN II ] Este cargador USB-C utiliza un chip GaN II de vanguardia, ofreciendo un rendimiento de carga superior. La tecnología GaN II permite reducir el tamaño del cargador y garantiza protección contra sobrecargas, sobrecalentamiento, cortocircuitos y sobretensiones. Nota: Cable de carga no incluido.
-- [ Cargador 30W ] Este cargador rápido USB C soporta una potencia máxima de 30W que permite cargar tu iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max a máxima velocidad. Carga tu iPhone 17 de 0% a 60% en solo 30 minutos aproximadamente. También puedes cargar tus auriculares, tu iPad e incluso tu MacBook Air con este cargador compacto.
+- [ Compatibilidad Extendida ] Esta toma USB C es compatible con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ 16/ 15/ 14/ 13/ 12/ 11/ XR/ X, Galaxy S24/ S24+/ S24 Ultra (potencia admitida 25W)/ S23/ S22/ S21/ S20, Galaxy A15/ A25/ A35/ A55/ A05s, Pixel 9/ 8/ 7/ 6, iPad Pro 2024-2018/ Air
 - [ Cargador 3 Puertos ] Cada puerto USB-C admite 1 potencia de salida máxima de 30 W. Cuando se usan 2 puertos simultáneamente, la potencia total varía entre 20 W y 30 W. Al usar 3 puertos, el puerto C1 admite hasta 20 W, mientras que los puertos C2 y C3 admiten hasta 10 W cada uno, para 1 potencia de salida total de 30 W. Se recomienda usar únicamente el puerto USB-C1 para cargar un iPad, un MacBook o un MagSafe.
+- [ Cargador 30W ] Este cargador rápido USB C soporta una potencia máxima de 30W que permite cargar tu iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max a máxima velocidad. Carga tu iPhone 17 de 0% a 60% en solo 30 minutos aproximadamente. También puedes cargar tus auriculares, tu iPad e incluso tu MacBook Air con este cargador compacto.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJWGTTWD{{</world>}}

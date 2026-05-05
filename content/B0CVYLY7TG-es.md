@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
 - Vídeo: Tus vídeos con calidad 4K te permitirán capturar situaciones de forma fluida y definida
 - ¿Qué incluye?: Este Kit de EOS R100 incluye una bolsa con la portar tu cámara y objetivos, un objetivo angular zoom RF-S 18-45 mm F4.5-6.3 IS STM y una tarjeta de memória de 64GB. Un kit completo para viajes, excursiones y todo tipo de situaciones cotidianas
 - Fotografía: Cámara Evil, ligera y sin espejo para inmortalizar tus recuerdos familiares y vacaciones. 24,1 MP y sensor APS-C con un mayor control de la profundidad de campo
 - Auto Focus: Mantén el enfoque Dual Pixel CMOS Auto Focus. Detecta a la persona en el encuadre
+- Iniciate en el vídeo y la fotografía: Cámara Canon muy intuitiva con una interfaz guiada y controles personalizables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVYLY7TG{{</world>}}

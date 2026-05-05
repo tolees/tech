@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Jabra Speak2 55 Altavoz Bluetooth 5.1, cable USB-C con adaptador USB-A, estuche y folleto de seguridad; peso: 280 g; color: gris oscuro
+- Speak2 55 está certificado para Microsoft Teams y funciona con otras plataformas como Zoom; toda la gama Speak2 complementa a la perfección las soluciones de vídeo Jabra PanaCast y PanaCast 20
 - Cuatro micrófonos con formación de haces captan el sonido desde todas las direcciones y reducen el ruido de fondo; la regularización del nivel de voz las ecualiza homogéneamente
 - Máximo rendimiento: sonido nítido de calidad con sus 50 mm de alto alcance, su audio de banda ancha, y el audio dúplex que también garantiza conversaciones fluidas
-- Speak2 55 está certificado para Microsoft Teams y funciona con otras plataformas como Zoom; toda la gama Speak2 complementa a la perfección las soluciones de vídeo Jabra PanaCast y PanaCast 20
+- Contenido: 1x Jabra Speak2 55 Altavoz Bluetooth 5.1, cable USB-C con adaptador USB-A, estuche y folleto de seguridad; peso: 280 g; color: gris oscuro
 - Conectividad Plug and Play: conexiones USB-C y USB-A en el mismo cable para una mayor compatibilidad con tu PC; hasta 12 horas de duración de la batería y hasta 30 m de alcance operativo con Bluetooth
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

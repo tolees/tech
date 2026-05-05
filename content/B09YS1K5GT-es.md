@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Taza PlayStation con asa de mando PS5
 - Óptimo para regalar
+- Taza PlayStation con asa de mando PS5
 - Producto coleccionable
 - Fabricado en material resistente y duradero
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AR App - Descarga la aplicación Kodak para imprimir en cualquier lugar y en cualquier momento. Esta cámara se puede conectar a nuestra aplicación AR para poder usar divertidas funciones de realidad artificial y filtros de belleza, marcos, etc..
 - Dos tipos de foto - Kodak Mini Shot 2 Retro permite imprimir fotos de tamaño 5,4 x 8,6, con margen o sin margen. También puede decorar los márgenes de la forma que desee. Si quiere fotos de mayor tamaño, también tiene la opción de imprimir sin margen.
-- Calidad de foto superior - Kodak Mini Shot 2 Retro usa tecnología 4Pass para imprimir fotos a capas usando un proceso de laminado con un resultado de alta calidad. Por ese motivo, las fotos son a prueba de huellas dactilares, resistentes al agua y de larga duración.
 - Cámara Instantánea + Impresora de Fotos - Kodak Mini Shot 2 Retro es una cámara digital con una impresora incorporada, con la que puede imprimir sus imágenes o cancelarlas después de haberlas tomado. También puede imprimir directamente desde la galería de su dispositivo móvil a través de Bluetooth.
+- Calidad de foto superior - Kodak Mini Shot 2 Retro usa tecnología 4Pass para imprimir fotos a capas usando un proceso de laminado con un resultado de alta calidad. Por ese motivo, las fotos son a prueba de huellas dactilares, resistentes al agua y de larga duración.
+- AR App - Descarga la aplicación Kodak para imprimir en cualquier lugar y en cualquier momento. Esta cámara se puede conectar a nuestra aplicación AR para poder usar divertidas funciones de realidad artificial y filtros de belleza, marcos, etc..
 - Coste por foto más bajo – Si compra la cámara Kodak Mini Shot 2 Retro dentro del Pack de Cartucho y de Regalo, el coste por foto se reduce un 50%.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
