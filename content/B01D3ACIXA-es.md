@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Velocidad de escritura de hasta 500 MB/s
-- Velocidad de lectura de hasta 520 MB/s
 - HDD con capacidad de 480 GB, tamaño de 2.5" y interfaz SATA III
 - Compatible con funciones TRIM y SMART
+- Velocidad de lectura de hasta 520 MB/s
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01D3ACIXA{{</world>}}

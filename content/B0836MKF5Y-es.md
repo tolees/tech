@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almacenamiento de 512 GB PCI Express
+- Procesador Intel Core 5 120U (12-Core), 1,4 GHz
+- Memoria RAM de 16 GB DDR4 SDRAM
 - Sin Sistema operativo
 - Tarjeta Gráfica Intel Graphics
-- Memoria RAM de 16 GB DDR4 SDRAM
-- Procesador Intel Core 5 120U (12-Core), 1,4 GHz
-- Almacenamiento de 512 GB PCI Express
 - Pantalla de 15.6" Full HD IPS LCD 1920x1080 pixeles, 60Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

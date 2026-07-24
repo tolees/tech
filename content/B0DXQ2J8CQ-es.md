@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SENSOR DE 44.3 MP Y 177 MP: Cámara de fotograma completo con sensor CMOS BSI de 44.3 MP para calidad exceptional, modo manual de 177 MP para fotos de resolución alta
-- ENFOQUE AUTOMÁTICO HÍBRIDO DE FASE: El seguimiento avanzado con IA y AF híbrido de fase detecta rostros y sujetos en movimiento, con captura en ráfaga de alta velocidad de 40 fps
-- ESTABILIZACIÓN de imagen aclamada - LUMIX S1RII logra una compensación de 8.0 pasos con estabilización en el cuerpo. Las funciones avanzadas de estabilización de imagen de video ofrecen corrección de distorsión de video E.I.S. sin recorte, reduciendo la distorsión periférica mientras se preserva el ángulo de visión original. Esto permite una mayor flexibilidad en la grabación a mano alzada con gran angular
-- GRABACIÓN OPEN GATE DE 6,4K: Cámara sin espejo con Open Gate de 6,4K 30p de 10 bits para encuadrar mientras que una futura actualización desbloquea 8,1K/7,2K
 - PRORES RAW Y CFEXPRESS: Graba 5,8K ProRes RAW HQ directamente en una tarjeta CFexpress tipo B con esta videocámara 8k lo que agiliza el flujo de trabajo sin dispositivos externos
-- LUMIX FLOW Y LUMIX LAB: Mejora tu flujo de trabajo con LUMIX Flow para una producción de video optimizada y LUMIX Lab para edición de imágenes y personalización de LUT
+- SENSOR DE 44.3 MP Y 177 MP: Cámara de fotograma completo con sensor CMOS BSI de 44.3 MP para calidad exceptional, modo manual de 177 MP para fotos de resolución alta
+- ESTABILIZACIÓN de imagen aclamada - LUMIX S1RII logra una compensación de 8.0 pasos con estabilización en el cuerpo. Las funciones avanzadas de estabilización de imagen de video ofrecen corrección de distorsión de video E.I.S. sin recorte, reduciendo la distorsión periférica mientras se preserva el ángulo de visión original. Esto permite una mayor flexibilidad en la grabación a mano alzada con gran angular
 - VÍDEO 8K Y RANGO DINÁMICO DE 14 PASOS: Detalles asombrosos con la grabación 8K 30p, 14 pasos de rango dinámico en V-Log/V-Gamut para color y contraste cinematográficos
+- LUMIX FLOW Y LUMIX LAB: Mejora tu flujo de trabajo con LUMIX Flow para una producción de video optimizada y LUMIX Lab para edición de imágenes y personalización de LUT
+- GRABACIÓN OPEN GATE DE 6,4K: Cámara sin espejo con Open Gate de 6,4K 30p de 10 bits para encuadrar mientras que una futura actualización desbloquea 8,1K/7,2K
+- ENFOQUE AUTOMÁTICO HÍBRIDO DE FASE: El seguimiento avanzado con IA y AF híbrido de fase detecta rostros y sujetos en movimiento, con captura en ráfaga de alta velocidad de 40 fps
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DXQ2J8CQ{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología dual wireless 2,4GHz y cable panacord tipo C extraíble para máxima libertad de movimiento
 - Diseño ambidiestro que ofrece control total a jugadores diestros y zurdos en cualquier batalla
-- Botones laterales magnéticos y cubierta superior modular para adaptar tu arma a tu estilo de juego
-- Sensor óptico Pixart PMW-3335 con hasta 16000DPI personalizables para precisión letal en cada partida
 - Iluminación RGB personalizable con software propio para crear una experiencia visual única y épica
+- Botones laterales magnéticos y cubierta superior modular para adaptar tu arma a tu estilo de juego
+- Tecnología dual wireless 2,4GHz y cable panacord tipo C extraíble para máxima libertad de movimiento
+- Sensor óptico Pixart PMW-3335 con hasta 16000DPI personalizables para precisión letal en cada partida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PJZ16TZ{{</world>}}

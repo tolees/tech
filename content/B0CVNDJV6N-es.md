@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SEGURIDAD Y FIABILIDAD: nuestro cargador de pared doble BoostCharge ha sido sometido a pruebas exhaustivas para garantizar que carga tus dispositivos de manera segura y fiable durante toda su vida útil.
 - CARGA SIMULTÁNEA: cuenta con un puerto USB-C con certificación PD 3.1 y un puerto USB-A que permiten cargar dos dispositivos a la vez. Proporcionan una carga veloz y segura a cualquier dispositivo compatible.
 - CARGA RÁPIDA: este cargador usb permite llenar por carga rápida un Apple iPhone o un Samsung Galaxy del 0 al 50 % en 30 minutos. Pasarás menos tiempo cargando tu dispositivo y más tiempo haciendo las cosas que te interesan.
+- SEGURIDAD Y FIABILIDAD: nuestro cargador de pared doble BoostCharge ha sido sometido a pruebas exhaustivas para garantizar que carga tus dispositivos de manera segura y fiable durante toda su vida útil.
 - TECNOLOGÍA PPS: este cargador rápido con dos puertos incorpora la tecnología PPS que regula el voltaje y la potencia de salida de forma dinámica para optimizarlos con precisión acorde a las especificaciones de cada dispositivo.
 - FABRICADO DE FORMA SOSTENIBLE Y CON GARANTÍA DE 2 AÑOS: su carcasa ha sido fabricada con materiales reciclados posconsumo y su empaquetado no incluye plásticos. Incluye dos años garantía de producto y garantía de los equipos conectados de 2000 euros.
 

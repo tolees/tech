@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Batería de gran capacidad de 5110 mAh para un uso prolongado sin necesidad de cargar con frecuencia.
+- Diseño resistente al polvo y al agua con certificación IP64 para mayor durabilidad.
 - Pantalla OLED de 6,67 pulgadas con una tasa de refresco de 120Hz para una experiencia visual fluida y nítida.
 - Almacenamiento interno de 256GB y 8GB de RAM para un rendimiento rápido y espacio de almacenamiento amplio.
-- Diseño resistente al polvo y al agua con certificación IP64 para mayor durabilidad.
 - Cámara de 50 megapíxeles para capturar imágenes de alta calidad con detalles nítidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

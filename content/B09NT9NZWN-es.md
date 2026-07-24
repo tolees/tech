@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿Tienes alguna duda sobre este producto? Póngase en contacto con el Gigaset Servicio de atención al cliente al +34 910 920 931 (a la tarifa fija de su proveedor)
-- INSTALACIÓN SIMPLE - Simplemente conecta la estación base a la toma de teléfono de la pared y comienza a hacer llamadas
-- LA CAJA INCLUYE: 1x base Gigaset A690, 1x teléfono inalámbrico Gigaset A690H, 1x manual de usuario, 1x unidad de fuente de alimentación, 1x cable de conexión telefónica, 2x pilas recargables AAA (NiMH), 1x cobertura para las pilas
 - CALIDAD MADE IN GERMANY - Diseñado y fabricado en Alemania - La tecnología ecológica ECO DECT garantiza un menor consumo energético
+- LA CAJA INCLUYE: 1x base Gigaset A690, 1x teléfono inalámbrico Gigaset A690H, 1x manual de usuario, 1x unidad de fuente de alimentación, 1x cable de conexión telefónica, 2x pilas recargables AAA (NiMH), 1x cobertura para las pilas
+- INSTALACIÓN SIMPLE - Simplemente conecta la estación base a la toma de teléfono de la pared y comienza a hacer llamadas
 - FUNCIONES POTENTES - Gran calidad de sonido, control de volumen de 5 niveles
+- ¿Tienes alguna duda sobre este producto? Póngase en contacto con el Gigaset Servicio de atención al cliente al +34 910 920 931 (a la tarifa fija de su proveedor)
 - UN COMPAÑERO FIABLE - Gigaset A690 es calidad confiable para la comunicación diaria con una pantalla de alto contraste para una mejor legibilidad y dos teléfonos. Sólo compatible en ES. Para mayor información, visite el sitio web de Gigaset.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

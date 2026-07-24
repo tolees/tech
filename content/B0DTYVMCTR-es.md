@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puertos Gigabit completos: 16 puertos RJ45 con negociación automática de 10/100/1000 Mbps que admiten Auto-MDI/MDIX
 - Plug and Play: Simple to use and saves time and effort
 - Isolation Mode: Isolation Mode allows one-click client traffic separation for higher security and performance
+- Puertos Gigabit completos: 16 puertos RJ45 con negociación automática de 10/100/1000 Mbps que admiten Auto-MDI/MDIX
 - Durable Metal Casing: Allows for efficient heat dissipation and long network life
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

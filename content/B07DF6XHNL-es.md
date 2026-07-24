@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utiliza la tecnología de impresión ZINK Zero Ink para crear etiquetas de color sin tinta
-- Fabricante - 3 años. Consulte "Información técnica adicional" para conocer las condiciones. Sus derechos de garantía legales no se ven afectados
-- Conectividad USB y Wi-Fi para crear etiquetas desde su PC, Mac, dispositivos Android e iOS Brother Color Label Editor se incluye con la aplicación para crear etiquetas desde su teléfono inteligente/tableta
-- Software incluido: P-Touch Editor para crear y editar etiquetas para Windows y Mac; aplicación descargable para teléfono inteligente o tableta
-- Volumen de suministro:- Brother VC-500W, rollo de etiquetas a color CZ-1004, rollo de limpieza CK-1000, fuente de alimentación, cable USB, documentación Especialmente adecuado para imprimir letreros a color, tarjetas de identificación de visitantes, archivadores de documentos, carpetas y archivadores
 - Utilice únicamente consumibles CZ originales: CZ1001 (9 mm), CZ1002 (12 mm), CZ1003 (19 mm), CZ1004 (25 mm) y CZ1005 (50 mm). Cortador integrado para crear etiquetas de longitud personalizada
+- Utiliza la tecnología de impresión ZINK Zero Ink para crear etiquetas de color sin tinta
+- Software incluido: P-Touch Editor para crear y editar etiquetas para Windows y Mac; aplicación descargable para teléfono inteligente o tableta
+- Fabricante - 3 años. Consulte "Información técnica adicional" para conocer las condiciones. Sus derechos de garantía legales no se ven afectados
+- Volumen de suministro:- Brother VC-500W, rollo de etiquetas a color CZ-1004, rollo de limpieza CK-1000, fuente de alimentación, cable USB, documentación Especialmente adecuado para imprimir letreros a color, tarjetas de identificación de visitantes, archivadores de documentos, carpetas y archivadores
+- Conectividad USB y Wi-Fi para crear etiquetas desde su PC, Mac, dispositivos Android e iOS Brother Color Label Editor se incluye con la aplicación para crear etiquetas desde su teléfono inteligente/tableta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DF6XHNL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones y tutoriales en el sitio web de Vimar
 - Intercomunicante entre aparatos internos (de la misma familia); Se pueden conectar a una cámara externa para videovigilancia
-- Varios idiomas (italiano, inglés, francés, alemán, español, portugués, griego, holandés)
 - Los kits están listos para su uso, no requieren una programación especial; distancia máxima entre la placa y la última pantalla: hasta 100 m con 1 mm2
+- Instrucciones y tutoriales en el sitio web de Vimar
+- Varios idiomas (italiano, inglés, francés, alemán, español, portugués, griego, holandés)
 - Ampliables: a cada pulsador de llamada se pueden asociar hasta 3 pantallas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Interfaz moderna y compatibilidad completa con mandos
-- Combate más fluido y ágil
 - Incluye todas las expansiones y actualizaciones en una edición definitiva
 - Mejores texturas, efectos de iluminación y campo de visión
+- Combate más fluido y ágil
 - Correcciones surgidas de la comunidad y mayor estabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

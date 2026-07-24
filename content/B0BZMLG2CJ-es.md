@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 TB de capacidad
 - Disco de almacenamiento
+- 2 TB de capacidad
 - Requiere elementos adicionales de aplicación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

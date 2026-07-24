@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las teclas de acceso rápido ofrecen eficiencia que ahorra tiempo; teclas de función para acceder rápidamente a medios, Mi PC, silenciar, volumen (arriba/abajo) y calculadora; 4 teclas de función controlan pista anterior, parada, reproducción/pausa y pista siguiente en un reproductor multimedia
 - Compatible con Windows 2000, XP, Vista, 7, 8, 10 y 11.
 - Conexión por cable USB A; muy compatible con varios dispositivos.
 - Teclado con diseño en Español; diseño de perfil bajo que ayuda a mantener el escritorio libre y ordenado; teclas cómodas que ofrecen una experiencia de escritura silenciosa
+- Las teclas de acceso rápido ofrecen eficiencia que ahorra tiempo; teclas de función para acceder rápidamente a medios, Mi PC, silenciar, volumen (arriba/abajo) y calculadora; 4 teclas de función controlan pista anterior, parada, reproducción/pausa y pista siguiente en un reproductor multimedia
 - Dimensiones del producto: 44,2 x 12,7 x 2,5 cm (largo x ancho x alto).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

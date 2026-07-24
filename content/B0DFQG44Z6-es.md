@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calidad Full HD 1080p: imágenes nítidas y detalles claros tanto de día como de noche.
-- Visión nocturna avanzada: visión clara hasta 12 m en completa oscuridad.
 - Cobertura 360° Pan/Tilt: gira horizontal y vertical para monitorear toda la estancia sin puntos ciegos.
 - Alertas inteligentes: detección de movimiento con notificaciones en tu móvil + almacenamiento local microSD (hasta 512 GB).
+- Calidad Full HD 1080p: imágenes nítidas y detalles claros tanto de día como de noche.
 - Audio bidireccional: micrófono y altavoz integrados para hablar y escuchar en tiempo real.
+- Visión nocturna avanzada: visión clara hasta 12 m en completa oscuridad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFQG44Z6{{</world>}}

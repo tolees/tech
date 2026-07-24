@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Autonomía de hasta 90 días y baterías recargables vía USB-C
-- Puedes conectarlo mediante el dongle de 2,4 GHz o Bluetooth 5.3 para una baja latencia eficiente
-- Trabaja en cualquier lugar, en cualquier momento y casi en cualquier superficie con este Ratón de diseño compacto y botones silenciosos
 - Adapta los 6 botones programables a tus necesidades o estilo de trabajo mediante el HP Accessory Center; crea atajos específicos para cada aplicación, ajusta la sensibilidad, calibra la velocidad de desplazamiento
 - Úsalo rápidamente en hasta 3 dispositivos guardados
+- Autonomía de hasta 90 días y baterías recargables vía USB-C
+- Trabaja en cualquier lugar, en cualquier momento y casi en cualquier superficie con este Ratón de diseño compacto y botones silenciosos
+- Puedes conectarlo mediante el dongle de 2,4 GHz o Bluetooth 5.3 para una baja latencia eficiente
 - compatibilidad con varios sistemas operativos que te permite vincularlo rápidamente con casi cualquier dispositivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

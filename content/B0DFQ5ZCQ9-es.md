@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño nano — Una solución compacta y conveniente para hacer que su dispositivo sea inalámbrico. Mucho más pequeño que una unidad flash USB normal.
 - Plug and Play — Con el controlador de entrada integrado en los sistemas operativos Windows, solo necesita conectarlo a su computadora y jugar.
+- Tamaño nano — Una solución compacta y conveniente para hacer que su dispositivo sea inalámbrico. Mucho más pequeño que una unidad flash USB normal.
 - Seguridad mejorada: la última mejora de seguridad, WPA3, proporciona protección avanzada en la seguridad de las contraseñas personales
 - Velocidad Wi-Fi Dual Band — Velocidad de hasta 867 Mbps (5 GHz) + 400 Mbps (2,4 GHz)
 

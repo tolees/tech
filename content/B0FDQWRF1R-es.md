@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de refrigeración WINDFORCE
 - Alimentado por la arquitectura NVIDIA Blackwell y DLSS 4
-- Integrado con interfaz de memoria de 8GB GDDR7 128bit
+- Sistema de refrigeración WINDFORCE
 - Alimentado por GeForce RTX 5060Ti
+- Integrado con interfaz de memoria de 8GB GDDR7 128bit
 - Estructura reforzada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

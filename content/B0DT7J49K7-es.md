@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solución de alimentación robusta: 22 (110 A) + 1 (90 A) + 2 (90 A) + 2 (80 A) etapas de potencia con conectores de alimentación ProCool II, bobinas de aleación MicroFine y condensadores metálicos de calidad
 - Zócalo Intel LGA 1851: Preparado para procesadores Intel Core Ultra (serie 2)
 - Diseño de conector oculto: Proporciona un nivel de gestión de cables sin precedentes a los entusiastas de los PC DIY
+- Solución de alimentación robusta: 22 (110 A) + 1 (90 A) + 2 (90 A) + 2 (80 A) etapas de potencia con conectores de alimentación ProCool II, bobinas de aleación MicroFine y condensadores metálicos de calidad
 - Ranura de óptima potencia para tarjeta gráfica: Compatible con el golden finger de óptima potencia para tarjeta gráfica en la tarjeta gráfica ASUS BTF, que proporciona hasta 600 vatios a través de la placa base
 - Preparado para PC con IA optimizada: Diseñado para el futuro de la informática con IA, con la potencia y conectividad necesarias para aplicaciones de IA exigentes
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Centrate en lo importante: el Eye AF en tiempo real mejorado funciona con humanos, animales y aves; desenfoca los fondos con el botón de bokeh; activa el modo de presentación de productos para lograr transiciones rápidas y precisas
 - Ágil y simple: tu contenido, tu estilo; aplica el perfil de imagen S-Cinetone, el modo Vlog Cinematográfico o los distintos aspectos creativos a tus vídeos y fotos; obtén videos estables gracias al modo Activo y la compensación de variación de longitud focal
-- Graba sonido de calidad: tu voz se escuchará incluso con viento gracias al micrófono direccional interno optimizado; también puedes aprovechar al máximo la interfaz de audio digital conectando micrófonos de Sony a la Multi Interface Shoe
 - Captura detalles asombrosos: obtén imágenes nítidas con el sensor de 26 MP de alta resolución, incluso de sujetos en movimiento a alta velocidad, gracias a la rápida captura continua de 11 fps; accede a infinitas posibilidades creativas con los más de 70 objetivos Sony compatibles
 - Liberdad creativa, resultado profesional: graba contenido 4K de calidad hasta a 60 fps; disfruta de un muestreo de color en 4:2:2 de 10 bits, el perfil de imagen S-Log 3 y el formato de grabación XAVC S-I (All-Intra) en posproducción
+- Centrate en lo importante: el Eye AF en tiempo real mejorado funciona con humanos, animales y aves; desenfoca los fondos con el botón de bokeh; activa el modo de presentación de productos para lograr transiciones rápidas y precisas
+- Graba sonido de calidad: tu voz se escuchará incluso con viento gracias al micrófono direccional interno optimizado; también puedes aprovechar al máximo la interfaz de audio digital conectando micrófonos de Sony a la Multi Interface Shoe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8QRHQNL{{</world>}}

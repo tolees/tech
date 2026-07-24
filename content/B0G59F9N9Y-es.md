@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Doble modo de conexión: emparejamiento Bluetooth 5.0 o 2.4 GHz con receptor USB incluido; cambia de equipo en segundos sin cables.
-- Recargable por USB: batería integrada; evita pilas desechables y mantiene el ratón siempre listo.
-- 3 niveles de sensibilidad: 800/1200/1600 DPI conmutables desde el ratón para precisión o velocidad según la tarea.
-- Ultrafino y ligero: solo 11×6×2,3 cm y aprox. 57 g, ideal para trabajar en movilidad y ahorrar espacio en el escritorio.
-- Clic silencioso: reduce el ruido al mínimo en entornos compartidos, bibliotecas o reuniones
 - RGB integrado: retroiluminación LED RGB de efecto suave que aporta estilo sin distraer; acabado en ABS resistente.
+- Ultrafino y ligero: solo 11×6×2,3 cm y aprox. 57 g, ideal para trabajar en movilidad y ahorrar espacio en el escritorio.
+- Recargable por USB: batería integrada; evita pilas desechables y mantiene el ratón siempre listo.
+- Clic silencioso: reduce el ruido al mínimo en entornos compartidos, bibliotecas o reuniones
+- 3 niveles de sensibilidad: 800/1200/1600 DPI conmutables desde el ratón para precisión o velocidad según la tarea.
 - Ambidiestro y universal: diseño simétrico y compatibilidad con Windows y Mac; alcance inalámbrico de hasta 10 m.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

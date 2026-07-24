@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Configuración extra rápida en 1 minuto: descarga la aplicación Petcube Conecta la cámara a una toma de corriente. Enlace a la red WiFi de tu hogar. Cam 360 solo es compatible con la red WiFi de 2.4 GHz (no es compatible con Wi-Fi de 5 GHz).
-- Alertas en tiempo real alimentadas por IA (reconocimiento de movimiento y sonido): con la ayuda de una suscripción opcional pero potente a Petcube Care, recibe notificaciones de cualquier actividad en casa con alertas instantáneas de sonido y movimiento. Cuenta con tecnología de alta calidad que ofrece alertas en tiempo real tanto para la identificación de humanos como de mascotas.
-- Audio transparente de 2 vías: alivia la ansiedad de separación de tu mascota charlando con ellos y escuchándola ladrando o maullando Refuerza el comportamiento positivo con retroalimentación de audio.
 - Vídeo HD vívido de 1080p y visión completa de 360°: comprueba a tu bebé peludo y a casa en cualquier momento y en cualquier lugar. Disfruta de una cámara de rotación panorámica con un ángulo de visión de 105°, zoom de 8x de alta calidad y visión nocturna vívida, asegurando que no se pierda ningún momento
+- Audio transparente de 2 vías: alivia la ansiedad de separación de tu mascota charlando con ellos y escuchándola ladrando o maullando Refuerza el comportamiento positivo con retroalimentación de audio.
+- Alertas en tiempo real alimentadas por IA (reconocimiento de movimiento y sonido): con la ayuda de una suscripción opcional pero potente a Petcube Care, recibe notificaciones de cualquier actividad en casa con alertas instantáneas de sonido y movimiento. Cuenta con tecnología de alta calidad que ofrece alertas en tiempo real tanto para la identificación de humanos como de mascotas.
+- Configuración extra rápida en 1 minuto: descarga la aplicación Petcube Conecta la cámara a una toma de corriente. Enlace a la red WiFi de tu hogar. Cam 360 solo es compatible con la red WiFi de 2.4 GHz (no es compatible con Wi-Fi de 5 GHz).
 - Función de modo de privacidad y cifrado avanzado: la nueva función de apagado de la cámara garantiza mayor privacidad doméstica; la visión de la lente se puede bloquear físicamente con una aplicación y rotación de inclinación panorámica; cifrado de nivel superior para garantizar que tus datos estén seguros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

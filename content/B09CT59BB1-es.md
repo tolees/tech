@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Más dispositivos compatibles】Compatible con Samsung Chromebook Plus, Plus V2, Pro, Chromebook 4 y 4+, Dell Chromebook 3100, 3110, 3400 y 3410. También funciona con otros dispositivos USB-C Power Delivery de hasta 45W
-- 【45W USB C Cargador Portátil】Input: 100-240V 50-60Hz 1,3A, salida del cargador Type C: 5V-3A 15W / 9V-3A 27W / 12V-3A 36W / 15V-3A 45W / 18V-2,5A 45W / 20V-2,25A 45W, Tamaño del conector: USB-C / Tipo C
 - 【Compatible con ASUS & Acer】Funciona con ASUS Chromebook C101, C213, C214, C223, C302, C423, C425, C433, C434, C436, C523, CX22, CX1100, CX1400, CX1500 y BR1100. Compatible también con Acer Chromebook 311, 314, 315, 511, 512, 514, 515, 713, 714, 715 y Chromebook Spin 311, Spin 315, Spin 511, Spin 513, Spin 714
+- 【Más dispositivos compatibles】Compatible con Samsung Chromebook Plus, Plus V2, Pro, Chromebook 4 y 4+, Dell Chromebook 3100, 3110, 3400 y 3410. También funciona con otros dispositivos USB-C Power Delivery de hasta 45W
 - 【Protección segura y servicio fiable】 Fabricado con materiales de alta calidad y equipado con protección contra sobretensión, sobrecorriente, sobrecalentamiento y cortocircuito para una carga segura y estable. Probado para garantizar un rendimiento fiable en el uso diario. Incluye servicio de atención al cliente profesional y soporte rápido para cualquier consulta o incidencia
+- 【45W USB C Cargador Portátil】Input: 100-240V 50-60Hz 1,3A, salida del cargador Type C: 5V-3A 15W / 9V-3A 27W / 12V-3A 36W / 15V-3A 45W / 18V-2,5A 45W / 20V-2,25A 45W, Tamaño del conector: USB-C / Tipo C
 - 【Compatibilidad con Lenovo & HP】Compatible con Lenovo Chromebook C330, S330, C340-11, C340-15, S340-14, Flex 11, 100e, 300e, 500e, IdeaPad Duet, Duet 3, Flex 3, IdeaPad 1 y Slim 1. Compatible también con HP Chromebook 11, Chromebook 14, Chromebook 14A, Chromebook x360 11, Chromebook x360 14A, Stream 11 y Stream 14
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

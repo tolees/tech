@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fácil de configurar y conectar con una impresión rápida
 - Disponibilidad de consumibles con capacidad de 3000 paginas
-- Imprime hasta 34 paginas por minuto; impresión a doble cara de 16 caras por minuto; escanea hasta 22.5 imágenes por minuto
 - Pantalla Táctil a color de 6,8 cm; Fast Ethernet, 5 GHz WiFi y USB, 256 MB Memoria Interna
 - Alimentador automático de documentos (ADF) con capacidad de 50 hojas; bandeja de entrada de 250 hojas
+- Imprime hasta 34 paginas por minuto; impresión a doble cara de 16 caras por minuto; escanea hasta 22.5 imágenes por minuto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJRL253B{{</world>}}

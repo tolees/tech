@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Conectividad de tres modos y batería de 250 mAh】Cambie sin problemas entre los modos inalámbrico de 2,4 GHz, Bluetooth y cableado, lo que le brinda la flexibilidad de conectarse a través de diferentes dispositivos. Con hasta 200 horas de duración de la batería con una sola carga. Se necesitan aproximadamente 2-3 horas para cargarla por completo. Disfrutarás de un rendimiento ininterrumpido tanto si juegas como si trabajas.
-- 【Diseño ultraligero de 42 g】Con estructura liviana, diseño de esqueleto interno innovador, tecnología de revestimiento Ice-feel para la carcasa, para el feroz campo de batalla del juego puede proporcionar un movimiento más flexible, lograr un mejor control, al mismo tiempo, asegúrese de que sus manos no estén doloridas después de mucho tiempo.
 - 【Totalmente personalizable】Controlador web innovador y liviano, sin descarga ni instalación, navegador listo para usar, DPl ajustable, tasa de retorno, modo competitivo, pulsaciones de teclas personalizadas y macros de grabación y otras funciones avanzadas.
 - 【MCU Nordic 52840 y sensor PAW3950MAX】El mouse inalámbrico para juegos ATTACK SHARK R6 adopta el sensor 3950MAX de vanguardia de PixArt y el Nordic MCU 52480, resolución de hasta 42000 DPI, velocidad de seguimiento de 750 IPS, aceleración de 50G, la excelente precisión puede capturar el movimiento minuto del mouse.
 - 【Tecnología HyperPolling 8000Hz de ATTACK SHARK】Respuesta de latencia ultrabaja: el mouse inalámbrico para juegos ATTACK SHARK R6 está equipado con el receptor inalámbrico 8K, la tasa de sondeo aumenta a 8000 Hz, que es 8 veces más rápido que los mouse inalámbricos estándar de 1000 Hz
+- 【Conectividad de tres modos y batería de 250 mAh】Cambie sin problemas entre los modos inalámbrico de 2,4 GHz, Bluetooth y cableado, lo que le brinda la flexibilidad de conectarse a través de diferentes dispositivos. Con hasta 200 horas de duración de la batería con una sola carga. Se necesitan aproximadamente 2-3 horas para cargarla por completo. Disfrutarás de un rendimiento ininterrumpido tanto si juegas como si trabajas.
+- 【Diseño ultraligero de 42 g】Con estructura liviana, diseño de esqueleto interno innovador, tecnología de revestimiento Ice-feel para la carcasa, para el feroz campo de batalla del juego puede proporcionar un movimiento más flexible, lograr un mejor control, al mismo tiempo, asegúrese de que sus manos no estén doloridas después de mucho tiempo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJS4G4KP{{</world>}}

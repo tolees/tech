@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TECLAS DE ACCESO RÁPIDO PARA UN CONTROL SENCILLO: el GK110 cuenta con teclas de acceso rápido para ajustar los efectos de iluminación, el volumen, cambiar de medio y acceder a las aplicaciones básicas de Windows sobre la marcha.
-- RUEDA DE VOLUMEN: ajusta el audio sobre la marcha con una rueda de desplazamiento suave y sensible. Sin distracciones, solo un control rápido y preciso.
 - RETROILUMINACIÓN LED RGB: ilumina el ambiente jugando con efectos predefinidos para crear la atmósfera que prefieras.
 - TECLAS SUAVES Y SENSIBLES: disfruta de una escritura silenciosa y sensible, perfecta para la productividad diaria y las largas sesiones de juego.
+- RUEDA DE VOLUMEN: ajusta el audio sobre la marcha con una rueda de desplazamiento suave y sensible. Sin distracciones, solo un control rápido y preciso.
+- TECLAS DE ACCESO RÁPIDO PARA UN CONTROL SENCILLO: el GK110 cuenta con teclas de acceso rápido para ajustar los efectos de iluminación, el volumen, cambiar de medio y acceder a las aplicaciones básicas de Windows sobre la marcha.
 - ÁNGULOS DE TECLADO AJUSTABLES: disfruta de una comodidad duradera con un teclado diseñado para ofrecer resistencia. El GK110 cuenta con unas robustas patas inclinables con altura ajustable para que puedas personalizar el ángulo de escritura.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica integrada Intel Graphics
-- Procesador Intel Core 5 120U (10C/DecaCore 5GHz, 12MB)
-- Sistema Operativo: Windows 11 Home
-- Memoria RAM de 16GB DDR4
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador Intel Core 5 120U (10C/DecaCore 5GHz, 12MB)
+- Memoria RAM de 16GB DDR4
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
+- Tarjeta gráfica integrada Intel Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F99B78JN{{</world>}}

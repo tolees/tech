@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección automática peso-persona/objetos. Cambia inteligentemente entre modos según peso detectado. Permite controlar desde equipos hasta bebés mediante las funciones de pesaje de objetos pequeños e integración con la app.
 - Diseño funcional y resistencia industrial. Su estructura en vidrio templado y plástico técnico asegura durabilidad y estabilidad incluso en laboratorios personales o zonas de uso intensivo. El acabado blanco y perfil ultraplano (<24,5 mm) combina con espacios minimalistas y profesionales.
-- Alta precisión para expertos en control corporal. Equipada con sensor de acero al manganeso en formato E y resolución de 0,05 kg, detecta hasta las variaciones más pequeñas en tu peso, facilitando un seguimiento exhaustivo incluso para objetivos altamente específicos, ideal para deportistas y entusiastas de la salud.
-- nálisis multiparámetro inteligente. Integra cuatro métricas clave en tiempo real (peso, IMC, peso ideal y recomendaciones de control), generando informes personalizados accesibles desde la app.Así, el usuario especializado puede correlacionar datos longitudinales y tomar decisiones informadas sobre su entrenamiento o nutrición.
 - Gestión multicliente y datos avanzados. Incorpora almacenamiento de perfiles para hasta 36 usuarios y modo invitado, haciendo posible su uso en consultas, equipos de trabajo o entornos familiares avanzados, preservando la privacidad de cada registro.
 - Evaluación de equilibrio. Incluye test de estabilidad corporal mediante análisis de balance sobre un pie, ideal para rutinas de rehabilitación, fisioterapia o performance deportivo.
+- Alta precisión para expertos en control corporal. Equipada con sensor de acero al manganeso en formato E y resolución de 0,05 kg, detecta hasta las variaciones más pequeñas en tu peso, facilitando un seguimiento exhaustivo incluso para objetivos altamente específicos, ideal para deportistas y entusiastas de la salud.
+- nálisis multiparámetro inteligente. Integra cuatro métricas clave en tiempo real (peso, IMC, peso ideal y recomendaciones de control), generando informes personalizados accesibles desde la app.Así, el usuario especializado puede correlacionar datos longitudinales y tomar decisiones informadas sobre su entrenamiento o nutrición.
+- Detección automática peso-persona/objetos. Cambia inteligentemente entre modos según peso detectado. Permite controlar desde equipos hasta bebés mediante las funciones de pesaje de objetos pequeños e integración con la app.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKTKV9Y6{{</world>}}

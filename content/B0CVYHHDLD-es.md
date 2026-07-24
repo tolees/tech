@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Funcionamiento plug-and-play sencillo: úsala directamente sin necesidad de instalar ningún software. Superversátil: funciona en portátiles, ordenadores de escritorio y equipos con varios monitores, y en tus apps preferidas
-- Compromiso medioambiental: la gama Neo se ha fabricado de forma sostenible y no emplea plástico en el embalaje, como muestra de nuestra dedicación con la sostenibilidad del medioambiente
 - Captura en HDR: disfruta de imágenes espectaculares incluso con iluminación difícil. Los colores y los detalles cobran más intensidad y recogen toda la belleza de la escena
 - Garantía de privacidad: disfruta de la máxima tranquilidad con una práctica tapa deslizante para proteger tu intimidad
 - Imagen en alta definición real con movimiento más fluido: capta más detalles en vídeo impecable a 1080p y muévete con naturalidad y con menos desenfoque de movimiento a 60 fps
+- Compromiso medioambiental: la gama Neo se ha fabricado de forma sostenible y no emplea plástico en el embalaje, como muestra de nuestra dedicación con la sostenibilidad del medioambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVYHHDLD{{</world>}}

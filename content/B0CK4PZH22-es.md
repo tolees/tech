@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Procesador Intel Core i3-N300 (hasta 3,8 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 8 núcleos, 8 subprocesos)
 - Cámara de privacidad HP True Vision 720p HD
-- Altavoces dobles de 2 W
+- Sin Sistema Operativo (FreeDOS)
 - Gráficos Integrados Intel UHD
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Memoria RAM DDR4-3200 MHz 8 GB (1 x 8 GB)
-- Procesador Intel Core i3-N300 (hasta 3,8 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 8 núcleos, 8 subprocesos)
-- Sin Sistema Operativo (FreeDOS)
+- Altavoces dobles de 2 W
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CK4PZH22{{</world>}}

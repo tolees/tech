@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TECNOLOGÍA ZINK ZERO-INK - Elimina la necesidad de cartuchos, cartuchos de tinta o tóner. El papel fotográfico autoadhesivo de 5 x 7 cm con cristales de coloración, produce impresiones de alta calidad.
+- FILTROS, MARCOS Y BORDES - En la aplicación HP aplica pegatinas, bordes y emojis. Hashtag una foto en las redes sociales y utilice la aplicación HP para imprimirla.
 - COMPARTE LOS MOMENTOS - Comparta álbumes de fotos personalizados con sus amigos utilizando la aplicación Sprocket de HP y continúe disfrutando de entretenimiento.
 - IMPRESIÓN DE FOTOS - La impresora HP Sprocket imprime fotos de 2 x 3 pulgadas desde su smartphone o las redes sociales. Para iOS 10+ y Android 5+ Bluetooth 5.3
-- FILTROS, MARCOS Y BORDES - En la aplicación HP aplica pegatinas, bordes y emojis. Hashtag una foto en las redes sociales y utilice la aplicación HP para imprimirla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LNZKD51{{</world>}}

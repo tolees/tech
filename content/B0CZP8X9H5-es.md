@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Productividad excepcional​: ahorra tiempo con las funciones de productividad inteligentes, como el ADF de 20 hojas, copia, escanea y envía fax de varías páginas con facilidad.
-- Cartuchos de tinta XL y XXL: ahorra dinero y saca la máxima rentabilidad con la impresión automática a doble cara para reducir el uso de papel.
-- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android) desde tu smartphone. ¡Imprimir nunca fue tan fácil!.
 - Impresora Canon multifunción 4 en 1: con un diseño que ahorra espacio y controles sencillos gracias a una gran pantalla táctil de 3,0" a color y una configuración mediante código QR.
 - Libertad en la nube: Disfruta teletrabajando de forma rápida y sin complicaciones con la impresión y el escaneo en la nube directamente desde la impresora o a través de la aplicación Canon PRINT mediante Cloud Link, sin necesidad de usar el ordenador.
+- Cartuchos de tinta XL y XXL: ahorra dinero y saca la máxima rentabilidad con la impresión automática a doble cara para reducir el uso de papel.
+- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android) desde tu smartphone. ¡Imprimir nunca fue tan fácil!.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP8X9H5{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CONECTIVIDAD SENCILLA: La Canon EOS R50 es una cámara mirrorless compacta que se conecta fácilmente a tus dispositivos mediante Bluetooth y Wi-Fi. Compartir fotos y subir contenido nunca ha sido tan fácil.
-- CREA TU MEJOR CONTENIDO: Captura hasta el más mínimo detalle y controla la profundidad de campo para conseguir retratos auténticos, sin filtros ni efectos, incluso con poca luz. Su sensor APS-C de 24,2 MP te ayuda a conseguir fotos de gran calidad.
-- COMPATIBLE CON OBJETIVOS RF: Incluidos los RF 35mm, RF 50mm y RF 85mm, populares para fotografía macro, retratos y uso diario. Descubre más objetivos Canon en la tienda de Canon.
 - ENFOQUE INSTANTÁNEO: Ya sea una persona, un animal o un vehículo en movimiento, la Canon EOS R50 detecta y sigue al sujeto de forma automática con el sistema Dual Pixel CMOS Auto Focus II. No se te escapará ningún instante, aunque estés empezando.
+- CREA TU MEJOR CONTENIDO: Captura hasta el más mínimo detalle y controla la profundidad de campo para conseguir retratos auténticos, sin filtros ni efectos, incluso con poca luz. Su sensor APS-C de 24,2 MP te ayuda a conseguir fotos de gran calidad.
 - VÍDEO EN 4K: Da un salto en tus vídeos con grabación UHD 4K a 30p, sobremuestreada desde 6K. Recorta, amplía y edita sin perder calidad en Full HD. Para un toque más cinematográfico, ralentiza la imagen 4 veces. Una cámara 4K para vídeos de alta calidad.
+- COMPATIBLE CON OBJETIVOS RF: Incluidos los RF 35mm, RF 50mm y RF 85mm, populares para fotografía macro, retratos y uso diario. Descubre más objetivos Canon en la tienda de Canon.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWFQ139F{{</world>}}

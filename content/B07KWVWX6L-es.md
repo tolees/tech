@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ELEMENTOS DE ESCENA INTERACTIVOS: El lado del Puesto Avanzado Seco cuenta con rocas deslizantes, ruinas y un Pokey que aparece de repente. Los elementos interactivos añaden movimiento a la escena y te permiten recrear diferentes escenas inspiradas en el universo de Mario.
-- COMPATIBLE CON FIGURAS DE 4 CM: El set de juego funciona con la mayoría de las figuras de 4 cm de la colección Super Mario. Las plataformas y los escenarios permiten añadir otros personajes para ampliar las posibilidades de juego.
 - JUEGO DE HUEVO DE YOSHI DE SUPER MARIO: Una estructura de juego inspirada en la película con un Huevo de Yoshi de 23 cm que se abre para revelar una escena interactiva. El juego te permite crear diferentes escenas del universo de Super Mario con figuras compatibles.
-- JUEGO INTERACTIVO DE DOBLE CARA: La escena interior ofrece dos áreas de juego. Un lado es la ciudad de Nueva York con calles y un museo, y el otro es el Puesto Avanzado Seco con ruinas, rocas deslizantes y una tubería de teletransporte para diferentes escenarios.
+- COMPATIBLE CON FIGURAS DE 4 CM: El set de juego funciona con la mayoría de las figuras de 4 cm de la colección Super Mario. Las plataformas y los escenarios permiten añadir otros personajes para ampliar las posibilidades de juego.
+- ELEMENTOS DE ESCENA INTERACTIVOS: El lado del Puesto Avanzado Seco cuenta con rocas deslizantes, ruinas y un Pokey que aparece de repente. Los elementos interactivos añaden movimiento a la escena y te permiten recrear diferentes escenas inspiradas en el universo de Mario.
 - FIGURAS DE YOSHI DE FUEGO Y MARIO: Incluye una figura de Yoshi de 3,8 cm y una figura exclusiva de Mario de Fuego. Cada personaje tiene 3 puntos de articulación, lo que permite cambiar de pose mientras exploras el juego.
+- JUEGO INTERACTIVO DE DOBLE CARA: La escena interior ofrece dos áreas de juego. Un lado es la ciudad de Nueva York con calles y un museo, y el otro es el Puesto Avanzado Seco con ruinas, rocas deslizantes y una tubería de teletransporte para diferentes escenarios.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KWVWX6L{{</world>}}

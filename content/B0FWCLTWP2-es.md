@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD Graphics
-- Procesador Intel N N50 (2C/DualCore 3.4GHz, 6MB)
-- Memoria RAM de 4GB en placa LPDDR5
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
-- Sistema Operativo: ChromeOS
+- Memoria RAM de 4GB en placa LPDDR5
 - Almacenamiento de 128GB eMMC
+- Procesador Intel N N50 (2C/DualCore 3.4GHz, 6MB)
+- Tarjeta gráfica integrada Intel UHD Graphics
+- Sistema Operativo: ChromeOS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FWCLTWP2{{</world>}}

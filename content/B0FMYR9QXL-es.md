@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo WAN/LAN de respaldo y gestión vía app: en ausencia de señal 4G, permite conexión por cable a módem; fácil de configurar y administrar con la app MERCUSYS.
-- Soporte para hasta 64 dispositivos simultáneos: ideal para hogares, oficinas o entornos con múltiples usuarios conectados.
-- 4G+ Cat 6 con hasta 300 Mbps de descarga: convierte redes móviles en Wi‑Fi estable y rápido en cualquier lugar con cobertura.
 - Cobertura ampliable con antenas externas y EasyMesh: las cuatro antenas desmontables mejoran el alcance; compatible con redes Mesh completas sin interrupciones.
+- 4G+ Cat 6 con hasta 300 Mbps de descarga: convierte redes móviles en Wi‑Fi estable y rápido en cualquier lugar con cobertura.
+- Soporte para hasta 64 dispositivos simultáneos: ideal para hogares, oficinas o entornos con múltiples usuarios conectados.
+- Modo WAN/LAN de respaldo y gestión vía app: en ausencia de señal 4G, permite conexión por cable a módem; fácil de configurar y administrar con la app MERCUSYS.
 - Wi‑Fi dual‑banda AC1200 (300 Mbps + 867 Mbps): streaming, juegos y navegación fluida, incluso en entornos exigentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

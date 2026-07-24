@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sencillez en el hogar: los depósitos de tinta son visibles desde la parte frontal un control del nivel de tinta y son fácilmente recargables con las botellas rígidas de tinta.
-- Imprime más: los depósitos de tinta de gran capacidad aportan un alto rendimiento permitiendo imprimir unas 3800 fotografías de 10x15 cm.
 - Ahorra tiempo y energía: cabezal de impresión y depósito sustituibles por el usuario. También tiene apagado automático para ahorrar energía.
-- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android), además de escanear.
 - Impresora Diferencial: seis tintas colorantes diferentes ofrecen mejor calidad de impresión fotográfica, aumentando la intensidad y el contraste del color.
+- Imprime más: los depósitos de tinta de gran capacidad aportan un alto rendimiento permitiendo imprimir unas 3800 fotografías de 10x15 cm.
+- Sencillez en el hogar: los depósitos de tinta son visibles desde la parte frontal un control del nivel de tinta y son fácilmente recargables con las botellas rígidas de tinta.
+- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android), además de escanear.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093QG1Y8C{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La webcam con tecnología infrarroja permite el reconocimiento facial para iniciar sesión al instante
+- El IdeaCentre AIO 3 mejora tu conectividad con 2 puertos USB 2.0, 2 puertos USB 3.2 Gen 1, 1 puerto HDMI 1.4 y Ethernet (RJ-45); además cuenta con Wi-Fi 6 y Bluetooth 5.2
+- Su diseño de soporte incluye una base para colocar el teléfono móvil, facilitando el uso multipantalla o simplemente para mantenerlo a la vista y no perder ninguna notificación o llamada entrante
 - Multitarea fluida: Su potente procesador AMD Ryzen 5 7530U de 6 núcleos te permite trabajar, jugar y editar sin distracciones y disfrutar de una experiencia fluida y silenciosa
 - Déjate sorprender con la pantalla IPS Full HD de 27", bisel estrecho en 3 de sus lados, colores vibrantes y amplios ángulos de visión, que mejoran tu experiencia de trabajo y entretenimiento
-- Su diseño de soporte incluye una base para colocar el teléfono móvil, facilitando el uso multipantalla o simplemente para mantenerlo a la vista y no perder ninguna notificación o llamada entrante
-- El IdeaCentre AIO 3 mejora tu conectividad con 2 puertos USB 2.0, 2 puertos USB 3.2 Gen 1, 1 puerto HDMI 1.4 y Ethernet (RJ-45); además cuenta con Wi-Fi 6 y Bluetooth 5.2
+- La webcam con tecnología infrarroja permite el reconocimiento facial para iniciar sesión al instante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLNWPG1C{{</world>}}

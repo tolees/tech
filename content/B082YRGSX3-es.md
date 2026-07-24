@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistencia al agua IP32: evita daños accidentales por líquidos vertidos
-- Controles dedicados para multimedia: ajusta el volumen y la configuración sobre la marcha
 - Reposamuñecas magnético superior: brinda confort y soporte completo para las palmas de las manos
-- La distribución de teclado de este producto es Portugués qwerty; la distribución diferirá de las imágenes del producto, que tienen el teclado americano qwerty
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Iluminación RGB de 10 zonas: impresionante esquema de color y efectos reactivos
 - Switches silenciosos para gaming: 20 millones de pulsaciones con un bajo nivel de fricción y ruido
+- Controles dedicados para multimedia: ajusta el volumen y la configuración sobre la marcha
+- Resistencia al agua IP32: evita daños accidentales por líquidos vertidos
+- La distribución de teclado de este producto es Portugués qwerty; la distribución diferirá de las imágenes del producto, que tienen el teclado americano qwerty
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082YRGSX3{{</world>}}

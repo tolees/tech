@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Objetivo zoom 28-70mm f/3.5-5.6 Estabilización de imagen SteadyShot integrada y elemento de cristal ED para fotografía versátil
-- Transmite en directo hasta 4K15p o Full HD a 60p sin acudir a la tarjeta de captura y así mantenerte conectado con tu público. Con USB-C gen 3.2, chip Wi-Fi ultrarrápido y copia de seguridad Bluetooth automático.
-- Graba vídeo en 4K y hasta a 60p con lectura de píxeles completa y sin agrupamiento para lograr la mejor calidad. Incluye S-CINETONE/S-LOG 3.
 - El sensor Exmor R de fotograma completo retroiluminado de 33 MP junto a la potencia de procesador BIONZ XR logran una calidad de imagen profesional, en todas las circunstancias, incluso poca luz.
+- Graba vídeo en 4K y hasta a 60p con lectura de píxeles completa y sin agrupamiento para lograr la mejor calidad. Incluye S-CINETONE/S-LOG 3.
+- Transmite en directo hasta 4K15p o Full HD a 60p sin acudir a la tarjeta de captura y así mantenerte conectado con tu público. Con USB-C gen 3.2, chip Wi-Fi ultrarrápido y copia de seguridad Bluetooth automático.
+- Objetivo zoom 28-70mm f/3.5-5.6 Estabilización de imagen SteadyShot integrada y elemento de cristal ED para fotografía versátil
 - Transmite en directo hasta 4K15p o Full HD a 60p sin acudir a la tarjeta de captura y así mantenerte conectado con tu público. Con USB-C gen 3.2, chip Wi-Fi ultrarrápido y copia de seguridad Bluetooth automático.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

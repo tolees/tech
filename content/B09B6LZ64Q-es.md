@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- Tarjeta gráfica integrada Intel Arc 140T
 - Memoria RAM de 32GB en placa LPDDR5x
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
 - Procesador Intel Core Ultra 7 255H (16C/undefined 5.1GHz, 24MB)
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Tarjeta gráfica integrada Intel Arc 140T
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09B6LZ64Q{{</world>}}

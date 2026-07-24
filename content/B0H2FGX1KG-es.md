@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñado para adaptarse a tu ritmo de vida, LG gram combina ligereza con solo 1.800 g de peso, autonomía de batería de hasta 26 h y resistencia gracias a su chasis de aleación de aluminio.
-- Privacidad y seguridad bajo tu control gracias al reconocimiento facial, al obturador de webcam y la app ThinQ, que te permite bloquear o borrar datos a distancia ante cualquier imprevisto desde tu móvil. Conectividad sin límites: 6 puertos de alta velocidad (2 USB 3.2, 2 USB Tipo C con power delivery, HDMI y entrada para auriculares) y LG gram Link para conectar dispositivos iOS, Android o webOS para compartir contenido de forma fluida
+- Disfruta de cada detalle con la pantalla IPS WUXGA (1920x1200) de 16" en formato 16:10 y con tratamiento antirreflejos.
 - Con Windows 11 Home y hasta 50 TOPS del procesador AMD Ryzen AI 7 445, LG gram potencia la AI con tres soluciones integradas (Chat On-Device sin conexión a internet, Chat Cloud basado en GPT-4o y Copilot+ PC) optimizando rendimiento y eficiencia en un diseño portátil y ultraligero
 - Equípate de un almacenamiento masivo con el SSD de 512 GB NVMe y 32 GB de RAM LPDDR5x para un rendimiento 1.25 superior en tareas exigentes como contenido 4K UHD
-- Disfruta de cada detalle con la pantalla IPS WUXGA (1920x1200) de 16" en formato 16:10 y con tratamiento antirreflejos.
+- Privacidad y seguridad bajo tu control gracias al reconocimiento facial, al obturador de webcam y la app ThinQ, que te permite bloquear o borrar datos a distancia ante cualquier imprevisto desde tu móvil. Conectividad sin límites: 6 puertos de alta velocidad (2 USB 3.2, 2 USB Tipo C con power delivery, HDMI y entrada para auriculares) y LG gram Link para conectar dispositivos iOS, Android o webOS para compartir contenido de forma fluida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H2FGX1KG{{</world>}}

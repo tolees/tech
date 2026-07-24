@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Incontables opciones de personalización de personajes!
-- Además, mediante la exploración, podrás ampliar la tripulación de la EDENS ZERO (nave que sirve de nodo en el juego) así como sus instalaciones. ¡Y mucho más!
-- ¡Controla a 8 populares personajes!
 - ¡Revive la historia original con gráficos en 3D que se parecen al anime!
+- ¡Controla a 8 populares personajes!
 - Edición Día Uno - Incluye el juego principal + Atuendo de Pino «Atuendo de Cazador + Accesorio Exclusivo de Plataforma - Accesorio Exclusivo PS5: Accesorio Bandera Pirata de Elsie
+- Además, mediante la exploración, podrás ampliar la tripulación de la EDENS ZERO (nave que sirve de nodo en el juego) así como sus instalaciones. ¡Y mucho más!
 - Muchísimo contenido de juego original que abarca horas y horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

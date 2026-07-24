@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Servicio de atención al cliente en línea】Si no está seguro de si el modelo es adecuado o si no está satisfecho con su compra por cualquier motivo, póngase en contacto con nosotros. Le daremos una solución rápida
+- 【Compatibilidad con televisores】 Solo compatible con televisores Samsung que admitan la función de voz. Si su televisor Samsung no dispone de sistema de voz, no adquiera este artículo.
 - 【Control por voz】 Empareje su mando a distancia con su televisor Samsung para activar la búsqueda por voz y localizar sin esfuerzo sus aplicaciones y películas favoritas.
 - 【Compatibilidad con mandos】Compatible con todos los mandos a distancia por voz de Samsung que incorporan micrófono.
-- 【Compatibilidad con televisores】 Solo compatible con televisores Samsung que admitan la función de voz. Si su televisor Samsung no dispone de sistema de voz, no adquiera este artículo.
 - 【Fácil de emparejar】Vaya a la pantalla de inicio de su televisor y, mientras tanto, mantenga pulsados los botones "Volver/Salir" y "Reproducir/Pausar" durante 5-10 segundos. Verá el mensaje "Emparejamiento completado" en la pantalla del televisor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

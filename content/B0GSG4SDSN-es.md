@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- "- Cámara Sony LYTIA 710 de 50 MP con estabilizador óptico de imagen (OIS) para fotos nítidas y video 4K - Pantalla Super HD AMOLED de 6.78" con cuatro curvas y una frecuencia de actualización fluida de 144 Hz - Resistencia IP68, IP69 y MIL-STD-810H con Corning Gorilla Glass 7i - Batería de 5200 mAh con soporte para carga rápida TurboPower de 68 W - Rendimiento del Snapdragon 7s Gen 3 con RAM LPDDR5X y RAM Boost
 - Pantalla Super HD AMOLED de 6,78" con cuatro curvas. Desplazamiento fluido, alto brillo y visualización inmersiva con una rápida frecuencia de actualización.
 - Construido según los más altos estándares. Protección contra agua IP68/IP69, durabilidad MIL-STD-810H y Corning Gorilla Glass 7i.
 - Sistema de cámara Sony LYTIA 710 de 50 MP. Captura fotos nítidas y videos cinematográficos 4K con estabilización óptica de imagen y colores realistas.
-- "- Cámara Sony LYTIA 710 de 50 MP con estabilizador óptico de imagen (OIS) para fotos nítidas y video 4K - Pantalla Super HD AMOLED de 6.78" con cuatro curvas y una frecuencia de actualización fluida de 144 Hz - Resistencia IP68, IP69 y MIL-STD-810H con Corning Gorilla Glass 7i - Batería de 5200 mAh con soporte para carga rápida TurboPower de 68 W - Rendimiento del Snapdragon 7s Gen 3 con RAM LPDDR5X y RAM Boost
 - Batería de larga duración de 5200 mAh. Disfruta de hasta 50 horas de autonomía gracias a la carga rápida TurboPower de 68 W.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

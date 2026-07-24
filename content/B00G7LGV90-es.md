@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de entrada: AUX (3.5 mm jack), Bluetooth
 - Botones sensibles al tacto para volumen, reproducción/pausa, título anterior/posterior y standby
-- Potente y extravagante sistema de audio 2.0 con Bluetooth y mando a distancia inalámbrico
-- Ideal para el uso con TV o PC
 - Potencia (RMS): 2x 15 W + 2x 22 W; 2 radiadores pasivos para excelente sonido con fuertes bajos; tecnología DSP y DRC
+- Potente y extravagante sistema de audio 2.0 con Bluetooth y mando a distancia inalámbrico
+- Tipo de entrada: AUX (3.5 mm jack), Bluetooth
+- Ideal para el uso con TV o PC
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G7LGV90{{</world>}}

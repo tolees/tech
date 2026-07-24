@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Garantía del fabricante de 4 años: No se requiere activación. Además de la garantía del fabricante de 3 años, dispone de 1 año adicional de garantía.
-- Xiaomi HyperOS 3 ofrece una experiencia más intuitiva, mejor búsqueda y conexión fluida entre dispositivos Xiaomi.
-- Pantalla 2K de 9,7” con 120 Hz: imágenes nítidas, colores vivos y mayor fluidez para juegos, películas y escenas en movimiento.
 - Diseño unibody metálico de aleación de aluminio: elegante, resistente y cómodo de sujetar, incluso con su gran batería.
 - Batería de 7600 mAh con carga rápida de 18 W: hasta 1,7 días de uso para trabajar, estudiar o ver contenido sin preocuparte.
+- Pantalla 2K de 9,7” con 120 Hz: imágenes nítidas, colores vivos y mayor fluidez para juegos, películas y escenas en movimiento.
+- Garantía del fabricante de 4 años: No se requiere activación. Además de la garantía del fabricante de 3 años, dispone de 1 año adicional de garantía.
 - Snapdragon 6s 4G Gen 2 con hasta 2,9 GHz: rendimiento fluido y eficiente para multitarea, apps y entretenimiento diario.
+- Xiaomi HyperOS 3 ofrece una experiencia más intuitiva, mejor búsqueda y conexión fluida entre dispositivos Xiaomi.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GT9BW7DK{{</world>}}

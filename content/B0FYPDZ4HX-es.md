@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 16 GB Memoria RAM DDR5-5200 MHz (1 x 16 GB)
-- Este modelo carga exclusivamente mediante USB-C. La clavija redonda visible en el chasis es solo parte del diseño y no funciona como puerto de carga
 - Procesador Intel Core 5 120U (hasta 5 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
 - Sistema operativo Windows 11 Home - Gráficos Integrados Intel
 - Pantalla FHD de 15,6" (39,6 cm) en diagonal, bisel micro-edge, antirreflectante, 250 nits, 45 % NTSC (1920 x 1080)
+- Este modelo carga exclusivamente mediante USB-C. La clavija redonda visible en el chasis es solo parte del diseño y no funciona como puerto de carga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FYPDZ4HX{{</world>}}

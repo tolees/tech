@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Compatibilidad universal con Intel y AMD】 Compatible con sockets Intel LGA115X/1200/1700/1851 y AMD AM4/AM5 con soportes preinstalados y tubos mallados de 400 mm para una instalación sin esfuerzo.
-- 【Pantalla IPS LCD de 2.4 pulgadas en el bloque de agua】 Cuenta con una pantalla a color de 240×320 para monitoreo de temperatura en tiempo real, estadísticas del sistema o logotipos animados, llevando control y personalización a tu construcción.
 - 【Potencia de enfriamiento premium con soporte de 315W TDP】 Utiliza un radiador de aluminio de 27 mm de grosor y una bomba de próxima generación para mejorar el rendimiento térmico, ideal para CPUs de alto rendimiento y sistemas de juegos.
 - 【Diseño de bomba silenciosa y de alta eficiencia】 La bomba de 2600 RPM asegura una circulación de líquido silenciosa (15 dBA) mientras mantiene un enfriamiento óptimo para cargas de trabajo exigentes o overclocking.
+- 【Pantalla IPS LCD de 2.4 pulgadas en el bloque de agua】 Cuenta con una pantalla a color de 240×320 para monitoreo de temperatura en tiempo real, estadísticas del sistema o logotipos animados, llevando control y personalización a tu construcción.
 - 【Ventiladores avanzados F5 R120 OC incluidos】 Viene con 3 ventiladores de 120 mm de alto flujo de aire que funcionan hasta 2500 RPM, ofreciendo un flujo de aire de 90,56 CFM y una presión estática de 4,07 mmH₂O con solo 39,8 dBA de ruido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

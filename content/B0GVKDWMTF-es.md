@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detección IA gratuita – Identifica personas, mascotas, vehículos y llanto de bebé sin suscripción.
-- Visión nocturna IR hasta 12 m – Imágenes claras incluso en completa oscuridad.
-- Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
 - Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
-- Gran angular + teleobjetivo – Campo de visión de 122° y zoom digital para capturar todos los detalles.
+- Detección IA gratuita – Identifica personas, mascotas, vehículos y llanto de bebé sin suscripción.
 - Doble lente 2K (3MP + 3MP) – Supervisa dos zonas a la vez con máxima claridad y sin puntos ciegos.
+- Gran angular + teleobjetivo – Campo de visión de 122° y zoom digital para capturar todos los detalles.
+- Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
+- Visión nocturna IR hasta 12 m – Imágenes claras incluso en completa oscuridad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GVKDWMTF{{</world>}}

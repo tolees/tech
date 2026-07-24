@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AHORRA HASTA UN 95 % EN COSTES DE TINTA* – Impresión cómoda y fluida. Incluye un juego de botellas equivalente a 63 cartuchos de tinta*
-- IMPRIME DESDE CUALQUIER LUGAR – Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil*
 - INCLUYE HASTA 3 AÑOS DE TINTA* – Un solo juego de tintas imprime hasta 8500 páginas en negro y 6500 en color*
+- IMPRIME DESDE CUALQUIER LUGAR – Utiliza la aplicación Epson Smart Panel para configurar, monitorizar, imprimir y mucho más desde tu móvil*
 - SISTEMA DE DEPÓSITO DE TINTA SIN PROBLEMAS – El sistema de botellas EcoTank con llave de cierre garantiza que no te ensucies
 - IMPRESORA MULTIFUNCIÓN A4 – Impresión a doble cara de alta calidad con copiadora y escáner, todo en una sola máquina
 

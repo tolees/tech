@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Integrated 2-channel mixer with Mic/Line inputs, level controls and clip LEDs; includes 2-band EQ.
-- Includes line output for connecting additional speaker systems (per product design).
 - 10-inch 2-way powered PA speaker with 320W output for live sound and music playback.
+- Integrated 2-channel mixer with Mic/Line inputs, level controls and clip LEDs; includes 2-band EQ.
 - Bluetooth audio streaming for wireless playback from compatible devices (e.g., smartphone, tablet, laptop).
+- Includes line output for connecting additional speaker systems (per product design).
 - Built-in media player with display; supports playback from USB drive and SD/MMC card.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

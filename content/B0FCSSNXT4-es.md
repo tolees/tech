@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Imprime, copia y escanea fácilmente: Impresora multifunción inalámbrica compacta e intuitiva para las tareas diarias del hogar, estudiantes y teletrabajo
-- Compatible con cartuchos originales HP 308: Utiliza cartuchos HP 308 Negro, HP 308 Tricolor y HP 308 EvoMore para obtener impresiones fiables y de alta calidad
-- Compatible con HP Instant Ink: Recibe los cartuchos en tu domicilio antes de quedarte sin tinta y evita interrupciones en tus impresiones
-- Diseño práctico para el día a día: Incluye panel LCD de fácil uso y bandeja de entrada con capacidad para hasta 60 hojas
-- Impresiones nítidas para documentos y fotografías: Velocidad de hasta 7,5 ppm en negro y 5,5 ppm en color, con resolución de impresión de hasta 4800 x 1200 ppp optimizados. Compatible con papel A4, A5, A6, sobres y papel fotográfico
 - Configuración guiada mediante HP Smart: Conecta fácilmente la impresora a tu red Wi-Fi y empieza a imprimir desde ordenador, smartphone o tablet. Compatible con Wi-Fi de doble banda, Wi-Fi Direct, Apple AirPrint y Mopria
+- Impresiones nítidas para documentos y fotografías: Velocidad de hasta 7,5 ppm en negro y 5,5 ppm en color, con resolución de impresión de hasta 4800 x 1200 ppp optimizados. Compatible con papel A4, A5, A6, sobres y papel fotográfico
+- Diseño práctico para el día a día: Incluye panel LCD de fácil uso y bandeja de entrada con capacidad para hasta 60 hojas
+- Imprime, copia y escanea fácilmente: Impresora multifunción inalámbrica compacta e intuitiva para las tareas diarias del hogar, estudiantes y teletrabajo
+- Compatible con HP Instant Ink: Recibe los cartuchos en tu domicilio antes de quedarte sin tinta y evita interrupciones en tus impresiones
+- Compatible con cartuchos originales HP 308: Utiliza cartuchos HP 308 Negro, HP 308 Tricolor y HP 308 EvoMore para obtener impresiones fiables y de alta calidad
 - Diseñada para funcionar con cartuchos HP originales: Incluye medidas de seguridad dinámica que ayudan a proteger la calidad y el rendimiento de impresión mediante el uso de cartuchos con chips o circuitos electrónicos HP
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sonido envolvente: disfruta de un sonido envolvente con una potencia máxima de 960W gracias a los altavoces inalámbricos desmontables que ofrecen hasta 10 horas de audio y se vuelven a acoplar a la barra de sonido para cargarse
 - Aplicación JBL ONE: configura tu barra de sonido, personaliza el sonido con el ecualizador, navega por las aplicaciones de música y controla la reproducción manos libres con Google Assistant o Siri
-- Home cinema: la barra de sonido JBL Bar 1000 MK2 para TV ofrece un sonido espacial 3D con Dolby Atmos y DTS:X, un amplio escenario sonoro a través de MultiBeam 3.0 y un volumen de diálogo aumentado con PureVoice 2.0
 - Escucha nocturna: coloca los altavoces delante de ti y usa la aplicación JBL ONE para silenciar la barra de sonido y el subwoofer; subwoofer: 325 x 400 x 325 mm; 12.8 x 15.7 x 12.8”
+- Sonido envolvente: disfruta de un sonido envolvente con una potencia máxima de 960W gracias a los altavoces inalámbricos desmontables que ofrecen hasta 10 horas de audio y se vuelven a acoplar a la barra de sonido para cargarse
+- Home cinema: la barra de sonido JBL Bar 1000 MK2 para TV ofrece un sonido espacial 3D con Dolby Atmos y DTS:X, un amplio escenario sonoro a través de MultiBeam 3.0 y un volumen de diálogo aumentado con PureVoice 2.0
 - No te pierdas de nada: lleva uno o ambos altavoces inalámbricos a la cocina y disfruta del mismo audio que los que están junto al televisor; calibración de sonido sin esfuerzo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

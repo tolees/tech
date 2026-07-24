@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Magic Trackpad es inalámbrico, recargable y compatible con todos los gestos Multi‑Touch y la tecnología Force Touch.
-- Todo para que multipliques tu productividad.
-- El Magic Trackpad se enlaza automáticamente al Mac para que puedas usarlo al momento. Gracias a su batería recargable, podrás despreocuparte de cargarlo durante un mes o más. Incluye un cable de carga USB‑C con diseño trenzado para conectarlo y cargarlo a través del puerto USB‑C del Mac.
 - Además, su amplia superficie de vidrio te permite deslizar y desplazarte por tu contenido de la forma más fácil y cómoda.
+- Todo para que multipliques tu productividad.
+- El Magic Trackpad es inalámbrico, recargable y compatible con todos los gestos Multi‑Touch y la tecnología Force Touch.
+- El Magic Trackpad se enlaza automáticamente al Mac para que puedas usarlo al momento. Gracias a su batería recargable, podrás despreocuparte de cargarlo durante un mes o más. Incluye un cable de carga USB‑C con diseño trenzado para conectarlo y cargarlo a través del puerto USB‑C del Mac.
 - Los sensores incluidos debajo de la superficie detectan la intensidad de la presión, así que tienes un montón de posibilidades en la punta de los dedos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PRESENTAMOS LOS AURICULARES INÁLAMBRICOS CON NOISE CANCELLING SONY WH-1000XM6: El modelo estrella, con el mejor Noise Cancelling y el mejor modo sonido ambiente de Sony en auriculares de diadema
 - RENDIMIENTO DE FORMATO COMPLETO Y UN SENSOR MÁS GRANDE EN EL TELEOBJETIVO: Las distancias focales de 16, 24 y 70 mm garantizan un rendimiento de formato completo en cuanto a rango dinámico y reducción de ruido. El nuevo sensor Exmor RS para dispositivos móviles de 1/1,56" y 48 MP es casi cuatro veces más grande que el modelo anterior.
+- PRESENTAMOS LOS AURICULARES INÁLAMBRICOS CON NOISE CANCELLING SONY WH-1000XM6: El modelo estrella, con el mejor Noise Cancelling y el mejor modo sonido ambiente de Sony en auriculares de diadema
 - EL MEJOR NOISE CANCELLING: Con el nuevo procesador Noise Cancelling HD QN3 y 12 micrófonos, nuestra tecnología Multi Noise Sensor con Auto NC Optimizer ofrece un rendimiento óptimo en cualquier lugar
 - CREADO PARA INSPIRAR. El nuevo diseño ORE: inspirado en gemas en bruto y suaves texturas naturales. Creado para que la creatividad esté en tus manos. El nuevo diseño del Xperia 1 VIII presenta un smartphone como ningún otro. Elige el negro grafito con un brillo sutil, el plata iolita con destellos azul violeta o el intenso rojo granate
 

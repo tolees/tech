@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Listo para comenzar inmediatamente sin necesidad de instalación, puerto USB superrápido 3.x (compatible con versiones anteriores de USB 2.0), fuente de alimentación mediante adaptador de corriente
 - Contenido del envío: disco duro, cable USB, adaptador de corriente y manual de usuario multilingüe
 - Disco duro externo de 3,5 pulgadas (8,9 cm), FAT32, plug & play, 5400 rpm, pantalla LED
-- velocidad máx. de transferencia de datos: lectura (85 MB/s), escritura (75 MB/s)
 - Sistema de archivos FAT 32
+- velocidad máx. de transferencia de datos: lectura (85 MB/s), escritura (75 MB/s)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0716RRWTQ{{</world>}}

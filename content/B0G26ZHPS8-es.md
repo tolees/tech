@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza tus habilidades de pintura refinada y mezcla de colores para resolver puzles complejos voluntariamente en la pista de pruebas de ChromaTec para fines de investigación de ChromaGun, Mark II, más conocida con el nombre de ChromaGun 2
 - La edición física incluirá los siguientes contenidos exclusivos: Un manual impreso
 - Un cupón con un código para descargar la Banda Sonora Original.
+- Utiliza tus habilidades de pintura refinada y mezcla de colores para resolver puzles complejos voluntariamente en la pista de pruebas de ChromaTec para fines de investigación de ChromaGun, Mark II, más conocida con el nombre de ChromaGun 2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G26ZHPS8{{</world>}}

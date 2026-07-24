@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Autorradio bass 1-din con bluetooth
 - Número de bandas del ecualizador: 13
-- Potencia de salida / canal: 50 W
 - Iluminación roja, USB, aux, spotify; aplicación Pioneer Smart sync compatible con dispositivos iOS y Android; tipo de pantalla: LCD
+- Potencia de salida / canal: 50 W
+- Autorradio bass 1-din con bluetooth
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X6KFZV7{{</world>}}

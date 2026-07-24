@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - LONGITUD FOCAL VERSÁTIL: Capture paisajes, instantáneas y retratos expansivos con el rango focal único de 18-40 mm que combina un ángulo ultra amplio con un semiestándar para brindar flexibilidad mientras viaja
+- LUT EN TIEMPO REAL: Disfrute de una variedad de colores populares, clásicos o personalizados con la función LUT EN TIEMPO REAL. La aplicación LUMIX Lab permite propios archivos de color LUT únicos en su teléfono inteligente y compartirlos inmediatamente con la cámara
 - CONTROL PRECISO: Disfrute de ajustes rápidos y fáciles para enfoque y longitud focal, lo que le brinda control creativo sobre cada fotograma
+- TAMAÑO Y PESO COMPACTOS: La cámara más pequeña de Lumix con pantalla de ángulo libre. Disponible en una variedad de color
 - DISEÑO PORTÁTIL: Experimente la creatividad mientras viaja gracias al diseño fácil de transportar que combina perfectamente con la cámara Panasonic Lumix S9 y es ideal para el uso diario
 - VIDEO DE PUERTA ABIERTA: Nuevo formato MP4 Lite. Videos Open Gate en 4k de 10 bits, alta calidad y cambie fácilmente el tamaño de las relaciones de aspecto con la aplicación LUMIX Lab. Los creadores pueden grabar y compartir fácilmente
-- LUT EN TIEMPO REAL: Disfrute de una variedad de colores populares, clásicos o personalizados con la función LUT EN TIEMPO REAL. La aplicación LUMIX Lab permite propios archivos de color LUT únicos en su teléfono inteligente y compartirlos inmediatamente con la cámara
-- TAMAÑO Y PESO COMPACTOS: La cámara más pequeña de Lumix con pantalla de ángulo libre. Disponible en una variedad de color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJH2RYJ7{{</world>}}

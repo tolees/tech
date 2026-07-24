@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lo último en tecnología óptica: este objetivo zoom incorpora tres elementos ópticos ed (extra-low dispersión) y tres elementos ópticos asféricos en sus 18 elementos, repartidos en 13 grupos ópticos, para proporcionar imágenes de alto contraste incluso en los bordes de la imagen
-- Reducción del movimiento (sr): las cámara s réflex digitales de la serie k de pentax están equ iPad as con el mecanismo sr dentro de la carcasa de la máquina, gracias a ello, cualquier objetivo compatible con las cámara s de la serie k se beneficiará de la estabilización de la imagen
 - Gran apertura de f2.8: su gran apertura máxima es útil para la fotografía nocturna y de cielos estrellados
-- Potencia de captura excepcional: este objetivo proporciona una distancia focal de ultra gran angular de entre 15 mm y 30 mm, gracias a su exagerada perspectiva, el fotógrafo captura imágenes espectaculares, especialmente en fotografía de paisajes
 - Recubrimiento hd para una mejor potencia de imagen: produce imágenes con un alto contraste, una excelente profundidad borde a borde y menos reflejos
+- Potencia de captura excepcional: este objetivo proporciona una distancia focal de ultra gran angular de entre 15 mm y 30 mm, gracias a su exagerada perspectiva, el fotógrafo captura imágenes espectaculares, especialmente en fotografía de paisajes
+- Reducción del movimiento (sr): las cámara s réflex digitales de la serie k de pentax están equ iPad as con el mecanismo sr dentro de la carcasa de la máquina, gracias a ello, cualquier objetivo compatible con las cámara s de la serie k se beneficiará de la estabilización de la imagen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01BWE914S{{</world>}}

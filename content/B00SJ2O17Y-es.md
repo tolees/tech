@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apertura: 114mm; Longitud focal: 900mm; ratio focal: 7.9
-- Volumen de suministro: OTA, montura, trípode de aluminio, buscador LED, 2 oculares, 3x lentes de Barlow, adaptador de cámara para Smartphone, manual de instrucciones
 - Montura ecuatorial profesional
 - Telescopio Newton completo for beginners, incluye montura, trípode de aluminio y accesorios.
+- Volumen de suministro: OTA, montura, trípode de aluminio, buscador LED, 2 oculares, 3x lentes de Barlow, adaptador de cámara para Smartphone, manual de instrucciones
 - Diámetro del ocular: 31.7 mm (1.25")
 
 [🛒 Visítala!!!]({{< param buyurl >}})

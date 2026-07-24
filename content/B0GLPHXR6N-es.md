@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cancelación de ruido real adaptativa 2.0: La avanzada tecnología de los micrófonos de los auriculares permite capturar y filtrar con precisión los ruidos ambientales. Los micrófonos analizan continuamente tu entorno y se ajustan en tiempo real para bloquear las distracciones
 - Audio Hi‑Res: El sonido inconfundible de JBL ofrece mayor nitidez, detalle y rango, dando vida a tu música con la riqueza y precisión del auténtico audio de alta resolución
-- 2 micrófonos con Perfect Calls 2.0 y IA: Los micrófonos duales con conformación de haz y la cancelación inteligente de ruido eliminan el ruido del tráfico, el viento y los zumbidos de fondo
-- Autonomía: Con hasta 80 horas de duración de la batería, tu música llega más lejos que nunca. Y cuando te quedes sin batería, con solo 5 minutos de carga rápida tendrás 4 horas más de tiempo reproducción
 - En la caja: 1 auriculares JBL Live 780NC / 1 cable adaptador USB tipo C a clavija de 3,5 mm analógica / 1 bolsa de transporte / 1 garantía/advertencia / 1 guía de inicio rápido
+- Autonomía: Con hasta 80 horas de duración de la batería, tu música llega más lejos que nunca. Y cuando te quedes sin batería, con solo 5 minutos de carga rápida tendrás 4 horas más de tiempo reproducción
+- 2 micrófonos con Perfect Calls 2.0 y IA: Los micrófonos duales con conformación de haz y la cancelación inteligente de ruido eliminan el ruido del tráfico, el viento y los zumbidos de fondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GLPHXR6N{{</world>}}

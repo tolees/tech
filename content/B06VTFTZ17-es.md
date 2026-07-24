@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un diseño sellado, resistente al polvo y la humedad, proporciona protección adicional para garantizar un funcionamiento fiable en los entornos más exigentes
 - Un diseño óptico de precisión que incluye un elemento de cristal ED (dispersión ultrabaja) para reducir de forma eficaz la distorsión cromática, a la vez que se controla firmemente la distorsión esférica para conseguir una alta nitidez con un bokeh suave cuando sea necesario
-- Su diseño ligero y compacto, que combina a la perfección con la serie α7, ofrece una magnífica combinación de portabilidad, alta calidad de imagen para los retratos, eventos y mucho más
 - Este objetivo compacto y fácil de manejar ofrece un rendimiento estupendo con calidad prime y alta resolución en toda la imagen
+- Un diseño sellado, resistente al polvo y la humedad, proporciona protección adicional para garantizar un funcionamiento fiable en los entornos más exigentes
+- Su diseño ligero y compacto, que combina a la perfección con la serie α7, ofrece una magnífica combinación de portabilidad, alta calidad de imagen para los retratos, eventos y mucho más
 - En la caja: Lente SEL85F18, parasol, tapas frontal y trasera, manual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

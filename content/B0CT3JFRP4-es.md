@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TECNOLOGÍA TWS PARA DOBLE POTENCIA EN ESTÉREO: Conecta dos altavoces Roller Furia 1 Blue simultáneamente mediante TWS y duplica la potencia con un efecto estéreo derecha-izquierda para una experiencia más envolvente. Empareja tu smartphone, tablet o portátil de forma rápida con un alcance Bluetooth estable para moverte con libertad.
 - FABRICADO POR NGS CON GARANTÍA DE 2 AÑOS: Respaldado por NGS, empresa multinacional europea con casi 40 años de experiencia en audio y electrónica de consumo, presente en más de 30 países.
 - 15 W DE POTENCIA REAL CON LUCES LED RGB: A pesar de su tamaño compacto, entrega 15 W con graves sólidos y un sonido que llena el ambiente. Los efectos de iluminación LED RGB integrados se sincronizan con la música para un espectáculo visual que anima cualquier fiesta o reunión.
+- TECNOLOGÍA TWS PARA DOBLE POTENCIA EN ESTÉREO: Conecta dos altavoces Roller Furia 1 Blue simultáneamente mediante TWS y duplica la potencia con un efecto estéreo derecha-izquierda para una experiencia más envolvente. Empareja tu smartphone, tablet o portátil de forma rápida con un alcance Bluetooth estable para moverte con libertad.
 - RESISTENCIA AL AGUA IPX6 PARA CUALQUIER AVENTURA: Certificación IPX6 que protege de chorros de agua y salpicaduras, perfecto para playa, piscina, jardín y camping. Su forma cilíndrica y tamaño reducido caben fácilmente en cualquier mochila para llevarlo a festivales, excursiones, viajes y cualquier plan al aire libre.
 - 9 HORAS DE BATERÍA Y PUERTO USB PARA CARGAR EL MÓVIL: La batería integrada proporciona hasta 9 horas de reproducción continua, suficiente para una jornada completa. El puerto USB permite cargar el móvil u otros dispositivos cuando estás sin enchufes cerca, funcionando como batería de emergencia.
 

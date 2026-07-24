@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🔘​ | 6 VELOCIDADES | Motor DC 153*15mm de cobre, aún más eficiente en la relación prestaciones-gasto energético. Con un flujo de aire para las seis velocidades de 85, 110, 140, 170, 200 y 210 CFM, funcionando a 100, 136, 167, 193, 210 y 223 rpm respectivamente.
-- ⏲️ | PROGRAMABLE | Cuenta con un mando a distancia y un temporizador programable de 1 a 4h.
-- ❄️☀️​ | FUNCIÓN VERANO-INVIERNO | Ambas funciones permiten ahorrar energía y obtener una mayor eficiencia energética.
 - 🏘️​ | 2 ALTURAS | Nuestro modelo viene con dos barras de sujeción, una corta y otra larga para que se pueda adaptar a todo tipo de techos: altos, bajos, con espacio suficiente entre vigas, etc.
+- ⏲️ | PROGRAMABLE | Cuenta con un mando a distancia y un temporizador programable de 1 a 4h.
 - 🔇 | SILENCIOSO | Liviano, con cuerpo de aluminio y aspas de madera ultraligera que favorecen un funcionamiento silencioso. Puedes instalarlo en el dormitorio y usarlo mientras duermes.
+- ❄️☀️​ | FUNCIÓN VERANO-INVIERNO | Ambas funciones permiten ahorrar energía y obtener una mayor eficiencia energética.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099WT5Y6S{{</world>}}

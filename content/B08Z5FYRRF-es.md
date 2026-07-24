@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño reducido (56 cm) y peso ligero (900 g), además de una abrazadera de liberación rápida para facilitar el montaje y desmontaje
-- Robusto cabezal de 3 vías con sistema de liberación rápida de la cámara para foto y vídeo
 - Se incluyen también pies de goma antideslizantes y flexibles y una bolsa para el trípode
 - Altura máxima de extracción 140 cm, altura mínima de extracción 55 cm, carga máxima 2 kg
+- Robusto cabezal de 3 vías con sistema de liberación rápida de la cámara para foto y vídeo
+- Tamaño reducido (56 cm) y peso ligero (900 g), además de una abrazadera de liberación rápida para facilitar el montaje y desmontaje
 - Incluye un práctico soporte para smartphone con zapata para accesorios (uso universal) - anchura ajustable de 63 a 105 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

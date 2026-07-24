@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Refúgiate en la lectura: no dejes que te distraigan mensajes, e-mails o notificaciones de redes sociales y disfruta de una experiencia de lectura sin distracciones.
-- El Kindle más ligero y compacto: ahora con una luz frontal más potente en el nivel de máxima intensidad, mayor contraste y pasos de página más fluidos, para que disfrutes aún más de la lectura.
-- Tu biblioteca, siempre contigo: gracias a sus 16 GB de almacenamiento, tendrás espacio para miles de libros, revistas y cómics.
 - Lee cómodamente bajo cualquier luz: lee con total comodidad gracias a su pantalla sin reflejos de 6" con modo oscuro y luz frontal ajustable, ahora un 25 % más potente en el nivel de máxima intensidad.
-- Descubre nuevas historias: con la suscripción a Kindle Unlimited, puedes contar con acceso ilimitado a millones de títulos y una selección de revistas.
 - Lee tanto como quieras: disfruta de una batería con autonomía de hasta 6 semanas en una única carga.
+- Tu biblioteca, siempre contigo: gracias a sus 16 GB de almacenamiento, tendrás espacio para miles de libros, revistas y cómics.
+- El Kindle más ligero y compacto: ahora con una luz frontal más potente en el nivel de máxima intensidad, mayor contraste y pasos de página más fluidos, para que disfrutes aún más de la lectura.
+- Descubre nuevas historias: con la suscripción a Kindle Unlimited, puedes contar con acceso ilimitado a millones de títulos y una selección de revistas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTMRYSJY{{</world>}}

@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicador led de aviso de batería baja
-- Diseño intuitivo de los botones de Nintendo
-- Ergonomía superior para jugar cómodamente durante horas
 - Dos botones asignables de juego avanzado
+- Indicador led de aviso de batería baja
+- Ergonomía superior para jugar cómodamente durante horas
 - Incluye cable de alimentación USB-C de 10 pies (3 m)
-- Anillos antifricción integrados para un control suave del mando del pulgar
 - Batería recargable de iones de litio: hasta 30 horas por carga*
-- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
+- Anillos antifricción integrados para un control suave del mando del pulgar
 - Mando inalámbrico con tecnología Bluetooth 5.0
+- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
+- Diseño intuitivo de los botones de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D79G8K7K{{</world>}}

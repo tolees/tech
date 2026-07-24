@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La tecnología ELMB (ASUS Extreme Low Motion Blur) permite un tiempo de respuesta de 1 ms (MPRT) junto con la sincronización adaptativa, lo que evita las imágenes fantasmas y las grietas para los gráficos de juego nítidos con altas velocidades de fotogramas
 - Shadow Boost mejora los detalles de la imagen en zonas oscuras y ilumina las escenas sin sobreexposición a zonas claras
+- ASUS TUF VG328H1B, monitor gaming de 31,5" Full HD (1920 x 1080) con frecuencia de actualización ultrarrápida de 165 Hz para jugadores profesionales y juegos impresionantes
 - Compatible con tarjetas gráficas NVIDIA GeForce y FreeSync con tarjetas gráficas AMD Radeon. Compatible con NVIDIA GeForce GTX 10, GTX 16, RTX 20 y tarjetas gráficas más recientes
 - Tecnología FreeSync Premium para evitar grietas en la pantalla y tasas de imagen inquietas
-- ASUS TUF VG328H1B, monitor gaming de 31,5" Full HD (1920 x 1080) con frecuencia de actualización ultrarrápida de 165 Hz para jugadores profesionales y juegos impresionantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CH5Z41X{{</world>}}

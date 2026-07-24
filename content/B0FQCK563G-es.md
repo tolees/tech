@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sonido portátil: altavoz IPX4 a prueba de salpicaduras puede alimentarse con dos baterías JBL Battery 600 (se venden por separado) para hasta 15 h de música
 - Auracast: consigue un sonido aún más potente emparejando dos PartyBox 720 para un audio estéreo o conecta múltiples altavoces JBL con Auracast para que tu música crezca con la fiesta
-- Aplicación JBL PartyBox: controla la música, el ecualizador y los ajustes del espectáculo de luces desde la aplicación JBL PartyBox, y utiliza la entrada USB-C para una conectividad de audio fluida adecuada para streaming o karaoke
 - Espectáculo de luces futurista: este altavoz para fiestas ofrece patrones vibrantes y luces estroboscópicas que se sincronizan con el ritmo, además, posee entradas para un micrófono, guitarra y consola de DJ
 - Tu fiesta, donde sea: altavoz portátil JBL PartyBox 720 con JBL Pro Sound con graves profundos, espectáculo de luces dinámico, ruedas anchas y asa ergonómica para que lleves la fiesta donde sea
+- Aplicación JBL PartyBox: controla la música, el ecualizador y los ajustes del espectáculo de luces desde la aplicación JBL PartyBox, y utiliza la entrada USB-C para una conectividad de audio fluida adecuada para streaming o karaoke
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQCK563G{{</world>}}

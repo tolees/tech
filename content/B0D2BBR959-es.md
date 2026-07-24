@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- producto 2: Diseño armonizado con los objetivos EF y la cámara EOS R
 - producto 1: Fotografía: Explora la naturaleza al detalle con incluso en situaciones de poca luz con EOS R7. Cámara ligera de sensor APS-C de 32,5MP. Enfoque preciso con baja iluminación -5 EV, ISO 32000 y procesador DIGIC X
+- producto 1: Auto Focus: Un enfoque automático que desafía las expectativas.Los fotografos admiran su capacidad de captar aves en pleno vuelo, vehículos a grandes velocidades y movimientos rápidos e impredecibles de personas, incluso en situaciones de poca luz de hasta -5EV. Enfoque Dual Pixel AF II con una abertura máxima de f/27
+- producto 2: Compatible con las funciones básicas de todos los objetivos EF/ EF-S
 - producto 2: Estructura resistente al polvo y humedad
 - producto 2: Diseño resistente y duradero
 - producto 1: Vídeo: Tomas fluidas con precisión de imagen y enfoque excepcional de 60 en 4K y hasta 120p en Full HD. Sus grandes prestaciones combinada con la calidad de los objetivos RF ofrece una calidad que supera las expectativas incluso en fotografía nocturna
-- producto 2: Diseño armonizado con los objetivos EF y la cámara EOS R
-- producto 2: Compatible con las funciones básicas de todos los objetivos EF/ EF-S
 - producto 1: La ventaja del formato APS-C: Ofrece un alcance de teleobjetivo mayor en la misma longitud focal que un sensor full frame en una cámara más ligera y portátil. Convirtiéndola en el aliado perfecto para excursiones, fotografía de naturaleza, espectáculos aéreos, viajes y deportes de acción
-- producto 1: Auto Focus: Un enfoque automático que desafía las expectativas.Los fotografos admiran su capacidad de captar aves en pleno vuelo, vehículos a grandes velocidades y movimientos rápidos e impredecibles de personas, incluso en situaciones de poca luz de hasta -5EV. Enfoque Dual Pixel AF II con una abertura máxima de f/27
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2BBR959{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ESCUCHA TU MÚSICA: este cargador USB para coche te permite conectar tu smartphone a la radio del coche sin necesidad de cables, incluso si no soporta conexión inalámbrica; Enchuféalo al enchufe del encendedor de 12V y empareja tu teléfono; A través de la rueda incorporada, configura una frecuencia de radio en el cargador y luego sintoniza la misma frecuencia en la radio de tu coche
-- USB o MICROSD: si tienes música en una memoria Micro SD (menos de 32 GB) o en un pendrive, no hay problema: simplemente insíguelos en los puertos correspondientes; Tendrás toda tu música al alcance de tus dedos en tus viajes diarios
 - DOBLE POTENCIA: gracias a tus dos puertos USB-A puedes cargar hasta dos dispositivos al mismo tiempo; el cargador del coche entrega una potencia de 15 vatios, lo que permite cargar rápidamente un dispositivo cuando está conectado individualmente al puerto USB-A verde; La tecnología de Carga Rápida Adaptativa (AFC) ajusta la potencia de salida según el dispositivo que se esté cargando para garantizar una fuente de alimentación segura
 - COMANDOS SIMPLES INTEGRADOS: si quieres cambiar música, subir el volumen o reproducir/pausar una pista, será suficiente usar los controles presentes en la rueda o a sus lados; el botón central también puede usarse para gestionar las llamadas
+- USB o MICROSD: si tienes música en una memoria Micro SD (menos de 32 GB) o en un pendrive, no hay problema: simplemente insíguelos en los puertos correspondientes; Tendrás toda tu música al alcance de tus dedos en tus viajes diarios
 - CONTESTAR LLAMADAS: SI RECIBES UNA LLAMADA, SOLO TIENES QUE PULSAR EL BOTÓN EN LA RUEDA DEL CARGADOR; De este modo, puedes oír claramente a tu interlocutor directamente desde los altavoces del coche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

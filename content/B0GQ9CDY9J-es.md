@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- SWITCHES MECÁNICOS DURADEROS - Nuevos switches duraderos con una vida útil de 100 millones de clics, 5 veces más que el Model O original, para que tu ratón siga funcionando juegues las partidas que juegues.
 - DISEÑO PREMIADO - El Model O Classic recupera la galardonada forma simétrica del Model O. Diseñado para la comodidad y la versatilidad, el Model O Classic se ajusta a los estilos de agarre de palma, garra, puntas de los dedos o cualquier otro.
 - DISEÑO COLMENA LIGERO DE 69 G - Su carcasa ligera de colmena confiere al Model O Classic una ligereza de 69 gramos, lo que lo convierte en el ratón ideal para deslizamientos rápidos, giros veloces y gestos vertiginosos.
 - INALÁMBRICO A 2,4 GHz - El Model O Classic está diseñado para el rendimiento gaming, con una latencia baja de 2,4 GHz inalámbrica para una jugabilidad fluida y reactiva, minimizando el lag y sin abandonos. Juega hasta 72 horas entre cada carga.
 - ILUMINACIÓN RGB - Personaliza tu configuración con la iluminación RGB totalmente programable para que tu ratón se ajuste a tu equipo. Tu único problema será elegir entre 16,8 millones de colores diferentes.
-- SWITCHES MECÁNICOS DURADEROS - Nuevos switches duraderos con una vida útil de 100 millones de clics, 5 veces más que el Model O original, para que tu ratón siga funcionando juegues las partidas que juegues.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GQ9CDY9J{{</world>}}

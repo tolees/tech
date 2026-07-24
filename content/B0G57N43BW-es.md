@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- VELOCIDAD AJUSTABLE – garantiza la exactitud y precisión con 800, 1200 ó 1600 DPI: tú decides
 - SILENCIOSO – sus silenciosos botones crean un entorno de trabajo tranquilo y con menos distracciones
+- CARGA COMPLETA – su batería recargable reduce los residuos desechables y mejora tu productividad y eficiencia
 - INALÁMBRICO – disfruta de total libertad de movimiento con Bluetooth o el microrreceptor USB incluido
 - ULTRAFINO – con 27 mm de altura, el Puck es compacto y práctico, y cabe fácilmente en tu bolso de viaje o escritorio
 - La siguiente información se aplica a cada unidad del paquete
-- VELOCIDAD AJUSTABLE – garantiza la exactitud y precisión con 800, 1200 ó 1600 DPI: tú decides
-- CARGA COMPLETA – su batería recargable reduce los residuos desechables y mejora tu productividad y eficiencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G57N43BW{{</world>}}

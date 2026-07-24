@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POSIBILIDADES DE CONEXIÓN: Cinch (RCA), óptico (TOSLINK), coaxial, Bluetooth
 - POTENTE: Sistema de altavoces de estantería con Bluetooth, control remoto, entradas digitales y analógicas, perfecto para TV, PC, tableta y teléfono inteligente.
-- GARANTÍA DE 2 AÑOS: los componentes de calidad en las carcasas de madera MDF maciza están fabricados para durar. Garantía de 24 meses en procesamiento y fabricación en Europa.
 - ALTAVOZ ACTIVO: con 2 entradas de audio independientes (RCA), Bluetooth y controles de volumen, salida de graves y agudos en el altavoz principal. Selección de entrada y volumen controlable mediante control remoto.
+- POSIBILIDADES DE CONEXIÓN: Cinch (RCA), óptico (TOSLINK), coaxial, Bluetooth
 - POTENCIA DE SALIDA (RMS): 2x 21W; Canal de reflejo de graves frontal para una reproducción de graves rica
+- GARANTÍA DE 2 AÑOS: los componentes de calidad en las carcasas de madera MDF maciza están fabricados para durar. Garantía de 24 meses en procesamiento y fabricación en Europa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NCTNZRC{{</world>}}

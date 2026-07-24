@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Amplio soporte M.2: Dos ranuras M.2 PCIe 4.0, una con disipador térmico y la otra estratégicamente situada en la parte trasera para ahorrar espacio
+- Intel LGA 1700 socket: Preparado para la 13a generación de procesadores Intel Core, y la 12a generación de procesadores Intel Core, Pentium Gold y Celeron
 - Solución de alimentación robusta: 8 + 1 etapas de alimentación con capacidad nominal de 80 A, conector de alimentación ProCool, choques de aleación de óptima calidad y condensadores duraderos, todo ello aprovechado para admitir los procesadores multinúcleo
 - Redes: Wi-Fi Intel 6E 802.11ax y Ethernet Intel 2.5G integrados con ASUS LANGuard
-- Intel LGA 1700 socket: Preparado para la 13a generación de procesadores Intel Core, y la 12a generación de procesadores Intel Core, Pentium Gold y Celeron
-- Amplio soporte M.2: Dos ranuras M.2 PCIe 4.0, una con disipador térmico y la otra estratégicamente situada en la parte trasera para ahorrar espacio
 - VRM térmico optimizado: Disipadores gruesos unidos al VRM con almohadillas térmicas de óptima conductividad, y el amplio integrado con la cubierta de E/S para optimizar la superficie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

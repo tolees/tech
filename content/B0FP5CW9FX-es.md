@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【No requiere emparejamiento】 Solo tienes que insertar dos pilas AAA para empezar a utilizarlo inmediatamente. Las pilas están incluidas
 - 【Contenido del paquete】Un mando a distancia + 2 pilas AAA
 - 【Compatibilidad con televisores】Compatible con todos los televisores inteligentes Samsung originales, incluidos los modelos Frame, Curved, Solar Crystal, UHD LED, HDTV, Neo QLED, 3D, 4K y 8K
+- 【No requiere emparejamiento】 Solo tienes que insertar dos pilas AAA para empezar a utilizarlo inmediatamente. Las pilas están incluidas
 - 【3 teclas de acceso rápido】¡Di adiós a las operaciones complicadas! Accede a tus canales favoritos con un solo clic
 - 【Calidad excepcional】 Disfruta de un control fluido hasta a 10 metros, con tiempos de respuesta ultrarrápidos de tan solo 0,1 segundos
 

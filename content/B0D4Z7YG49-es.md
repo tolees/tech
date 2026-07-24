@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SSD de 256 GB PCIe NVMe M.2 | RAM 8 GB DDR5-4800 MHz (1 x 8 GB)
 - FreeDos
 - Pantalla FHD (1920 x 1080) de 21,5 pulgadas (54,5 cm), VA, antirreflectante, 250 nits, 99 % sRGB
 - Gráfica Intel UHD | Intel Unison
 - Procesador Intel N100 (hasta 3,4 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos, 4 subprocesos)
+- SSD de 256 GB PCIe NVMe M.2 | RAM 8 GB DDR5-4800 MHz (1 x 8 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4Z7YG49{{</world>}}

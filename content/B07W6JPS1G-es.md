@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Interruptores de teclas mecánicos
 - Juega a la velocidad y con fiabilidad de la tecnología inalámbrica LIGHTSPEED de eficacia probada en torneos con PRO X TKL
 - Tecnología profesional
-- Interruptores de teclas mecánicos
 - Diseñado con los profesionales, concebido para gana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

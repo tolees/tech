@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo contemporáneo
 - Almacena más de lo que te gusta
+- Estilo contemporáneo
 - Producto de calidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

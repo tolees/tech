@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rango de frecuencia 10-24.000 Hz
-- Cascos acolchados para una escucha cómoda
-- Diseño plegable compacto
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
+- Rango de frecuencia 10-24.000 Hz
+- Diseño plegable compacto
+- Cascos acolchados para una escucha cómoda
 - Diafragmas de neodimio de 30 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HDMI 2.0, DP 1.2, ZeroFrame
 - Tiempo de respuesta 1 ms VRB
-- Pantalla de 27", WQHD IPS 2560 x 1440 pixeles, 180 Hz, 250 nits
 - Tecnología anti-fragmentación AMD FreeSync Premium
+- Pantalla de 27", WQHD IPS 2560 x 1440 pixeles, 180 Hz, 250 nits
 - Soporte ergonómico con inclinación de pantalla -5° a 25°
+- HDMI 2.0, DP 1.2, ZeroFrame
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C28PRD8V{{</world>}}

@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Battery.capacity : 5000.0 milliamp hours
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
 - Wireless network technology : wifi
+- Batteries included : False
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
+- Battery.capacity : 5000.0 milliamp hours
+- Memory storage capacity : 128.0 GB
+- Cellular technology : 4G
 - Item dimensions : 3.07 inches
 - Operating system : Android
-- Manufacturer : ATI
 - Battery.average life : 13.0 hours
-- Ram memory.installed size : 4.0 GB
-- Battery.charge time : 1.0 hours
-- Included components : 1 package
 - Camera description : Frontal
-- Memory storage capacity : 128.0 GB
-- MZB0FM7EU
 - Connectivity technology : NFC
+- Manufacturer : ATI
+- Included components : 1 package
+- MZB0FM7EU
 - Display.size : 6.74 inches
-- Batteries included : False
+- Ram memory.installed size : 4.0 GB
 - Wireless provider : orange
-- Cellular technology : 4G
+- Battery.charge time : 1.0 hours
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

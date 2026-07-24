@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pioneer ARC
+- RDS
+- Bluetooth
 - Amplificación Mosfet 50Wx 4
 - Puerto USB
-- Bluetooth
-- RDS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08ZV5F5BQ{{</world>}}

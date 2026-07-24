@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 11 Fps
-- 209 Puntos Enfoque
-- Formato Dx
-- 125 Minutos Grabacion
 - Video 4K
+- 209 Puntos Enfoque
+- 125 Minutos Grabacion
+- Formato Dx
+- 11 Fps
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5FCK2KN{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - GRABACIÓN DE FOTO Y VÍDEO CON MICROSD Y CONEXIÓN PC: Capture y guarde descubrimientos microscópicos en formato foto o vídeo. Los archivos pueden almacenarse en una tarjeta MicroSD o visualizarse en un PC mediante conexión USB;
+- MICROSCOPIO DIGITAL CON AUMENTO 50X PARA OBSERVACIONES DETALLADAS: El Technaxx TX-277 permite explorar pequeños detalles y texturas con gran precisión. Ideal para monedas, joyas, electrónica, plantas, insectos, textiles y muchos otros objetos pequeños;
 - MICROSCOPIO PORTÁTIL CON BATERÍA RECARGABLE: La batería integrada de 1800mAh proporciona hasta 5 horas de uso inalámbrico tras aproximadamente 3 horas de carga. El soporte estable y el ángulo ajustable permiten un uso flexible en casa, escuela, taller o laboratorio.
 - PANTALLA IPS DE 4,3 PULGADAS CON IMAGEN NÍTIDA Y VIBRANTE: La pantalla IPS integrada ofrece imágenes claras, colores vivos y un ángulo de visión cómodo para observaciones, aprendizaje, trabajos de precisión y proyectos educativos sin necesidad de monitor externo;
-- MICROSCOPIO DIGITAL CON AUMENTO 50X PARA OBSERVACIONES DETALLADAS: El Technaxx TX-277 permite explorar pequeños detalles y texturas con gran precisión. Ideal para monedas, joyas, electrónica, plantas, insectos, textiles y muchos otros objetos pequeños;
 - 8 LEDS AJUSTABLES PARA UNA ILUMINACIÓN ÓPTIMA: La iluminación LED integrada mejora la visibilidad incluso en entornos oscuros. Ajuste fácilmente el brillo según el objeto y las condiciones de observación para visualizar cada detalle con claridad;
 
 [🛒 Comprar!!!]({{< param buyurl >}})

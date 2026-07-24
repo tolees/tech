@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La aplicación exclusiva ASUS DisplayWidget Center permite a los usuarios acceder fácilmente a las funciones de ASUS OLED Care Pro y ajustar la configuración del monitor con el ratón
-- ASUS OLED Care Pro funciona con el Neo Proximity Sensor, que detecta con precisión cuándo estás ausente y cambia a una pantalla negra para reducir el riesgo de burn-in
 - Tecnología ROG Gaming A.I con funciones basadas en IA para mejorar la experiencia de juego de los usuarios
+- ASUS OLED Care Pro funciona con el Neo Proximity Sensor, que detecta con precisión cuándo estás ausente y cambia a una pantalla negra para reducir el riesgo de burn-in
 - Monitor gaming QHD (2560 x 1440) QD-OLED de 27 pulgadas con tasa de refresco de 360 Hz y tiempo de respuesta de 0,03 ms
 - Cumplimiento con VESA DisplayHDR 400 True Black, gama DCI-P3 al 99 %, color verdadero de 10 bits y diferencia de color Delta E < 2 para un rendimiento HDR asombroso
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forma de agarre vertical para una sujeción segura
 - Alimentado por USB para ayudar al cuerpo de la cámara
 - Operación idéntica en posición vertical y horizontal
-- Forma de agarre vertical para una sujeción segura
 - Utilizable para ILCE-9 con espacio para dos baterías Z
 
 [🛒 Comprar!!!]({{< param buyurl >}})

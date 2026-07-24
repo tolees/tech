@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juega como Naoe, una shinobi de mente rápida, y sírvete de la luz, el sonido y las sombras para evitar que te detecten. Infíltrate en fortalezas enemigas con numerosas opciones de parkour, como el nuevo gancho; distrae a los guardias con shuriken o bombas de humo, y asesina a tus objetivos con tu hoja oculta.
-- Tanto si ya eras fan de Assassins Creed como si te estrenas en la franquicia, ¡el Japón feudal te espera con una comunidad de millones de jugadores!
-- Ya puedes disfrutar de una nueva y única experiencia al jugar a Assassins Creed Shadows en Nintendo Switch 2, en casa o donde quieras.
-- Alterna entre estos dos héroes para adaptar tu estrategia y experimentar el Japón feudal a través de dos enfoques radicalmente diferentes: el sigilo y la fuerza; las sombras y el acero.
 - En la piel del samurái Yasuke, realiza eliminaciones silenciosas con el arco o desata devastadores combos cuerpo a cuerpo con tu katana o naginata.
+- Alterna entre estos dos héroes para adaptar tu estrategia y experimentar el Japón feudal a través de dos enfoques radicalmente diferentes: el sigilo y la fuerza; las sombras y el acero.
+- Ya puedes disfrutar de una nueva y única experiencia al jugar a Assassins Creed Shadows en Nintendo Switch 2, en casa o donde quieras.
+- Tanto si ya eras fan de Assassins Creed como si te estrenas en la franquicia, ¡el Japón feudal te espera con una comunidad de millones de jugadores!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXHDBB1R{{</world>}}

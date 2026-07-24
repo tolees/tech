@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - VC - estabilización de imagen con función shift
-- Óptica digital con distancia focal variable ultra-gran-angular para cámaras DSLR con sensor Full Frame 24x36
-- Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
-- Compatible con la TAMRON TAP-in ConsoleTM
 - objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
+- Óptica digital con distancia focal variable ultra-gran-angular para cámaras DSLR con sensor Full Frame 24x36
+- Compatible con la TAMRON TAP-in ConsoleTM
 - Di - óptica digital para formato completo
+- Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073FV5MG8{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UbiQuiti
 - Netzwerk-Zubehör
+- UbiQuiti
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNLTTGF{{</world>}}

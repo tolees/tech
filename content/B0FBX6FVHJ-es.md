@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Includes: Turbo Boost Racing game download code 2x Turbo LED Racing Wheels that fits ALL Joy Cons
 - Choose from 16 cars and select one of 4 exciting game modes as you race your friends and family in local multiplayer on one of 12 available tracks
 - Race your friends and family in this fun, fast paced arcade style driving game
 - Power up your booster to steal the advantage, and take the lead
 - Enhance your racing experience with 2x turbo LED racing wheels. Built in LED lighting linking to both left and right triggers. Right trigger will progressively light up the LEDs red, then green as you accelerate. Left Trigger will light up red when braking
-- Includes: Turbo Boost Racing game download code 2x Turbo LED Racing Wheels that fits ALL Joy Cons
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBX6FVHJ{{</world>}}

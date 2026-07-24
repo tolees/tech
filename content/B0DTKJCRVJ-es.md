@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos actualizados en todas las escenas de vídeo
-- Entorno visual remasterizado
 - Cambia entre los modos clásico y remasterizado
+- Entorno visual remasterizado
+- Gráficos actualizados en todas las escenas de vídeo
 - Acción basada en turnos
 - Modos de velocidad de combate
 

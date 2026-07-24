@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONEXIÓN HDMI ARC para garantizar la transmisión bidireccional entre dispositivo y Soundbar usando un solo cable HDMI.
-- MANDO A DISTANCIA para que puedas controlar todo tranquilamente sin necesidad de moverte.
-- Conexión OPTICAL TOSLINK para transmisión de audio entre dispositivos.
-- Disfruta del MEJOR SONIDO para tu televisión con 120W y realce de bajas frecuencias gracias a su Deep Bass.
 - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
+- MANDO A DISTANCIA para que puedas controlar todo tranquilamente sin necesidad de moverte.
+- CONEXIÓN HDMI ARC para garantizar la transmisión bidireccional entre dispositivo y Soundbar usando un solo cable HDMI.
+- Disfruta del MEJOR SONIDO para tu televisión con 120W y realce de bajas frecuencias gracias a su Deep Bass.
+- Conexión OPTICAL TOSLINK para transmisión de audio entre dispositivos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G8J7YY26{{</world>}}

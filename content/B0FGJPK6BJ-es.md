@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Almacenamiento local y en la nube: guarde los vídeos grabados en una tarjeta microSD (hasta 512 GB, comprada por separado) o utilice los servicios de almacenamiento en la nube Tapo Care (suscripción separada)
+- IP65 resistente a la intemperie: montarlo de forma segura en la ubicación deseada en diferentes condiciones climáticas gracias a la impermeabilidad IP65
+- Visión nocturna en color: vea la noche en colores vivos gracias a la lente de gran apertura y a los proyectores integrados eficientes de hasta 12 metros
 - Monitoreo de 360° con dos objetivos 2K (2K 3MP + 2K 3MP): El Tapo C246D utiliza una lente fija y una lente panorámica/inclinable, proporciona una visibilidad óptima de todos los detalles; cubre simultáneamente diferentes zonas para grandes espacios exteriores como patios, estanques y granjas, eliminando así los puntos ciegos
 - Diseño compacto para múltiples métodos de instalación: verticalmente, al revés, en escritorio, pared, techo o varilla; Este diseño flexible es para instalaciones interiores y exteriores
-- Visión nocturna en color: vea la noche en colores vivos gracias a la lente de gran apertura y a los proyectores integrados eficientes de hasta 12 metros
 - Detección inteligente de inteligencia artificial: la tecnología de IA inteligente detecta e identifica personas, mascotas y vehículos, enviándole solo notificaciones relevantes mientras evita eficazmente alertas innecesarias
-- IP65 resistente a la intemperie: montarlo de forma segura en la ubicación deseada en diferentes condiciones climáticas gracias a la impermeabilidad IP65
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJPK6BJ{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La primera estación meteorológica y de medio ambiente personal hecha para iPhone y Android
-- Tipo de material: Metal
-- Conectado al Wi-Fi: acceso a los sensores de la estación desde cualquier lugar, en cualquier momento
-- App gratuita, accesible de por vida, sin costes de inscripción
 - Comparta su estación con sus familiares y amigos
+- Tipo de material: Metal
 - Humedad, temperatura, presión barométrica, y CO2 concentración
+- Conectado al Wi-Fi: acceso a los sensores de la estación desde cualquier lugar, en cualquier momento
+- La primera estación meteorológica y de medio ambiente personal hecha para iPhone y Android
+- App gratuita, accesible de por vida, sin costes de inscripción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0098MGWA8{{</world>}}

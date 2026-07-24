@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye botellas de tinta con capacidad máxima de 15.000 páginas, 2 x 7.500, en negro, y 5.000 páginas a color; bandeja de entrada de papel de 150 hojas, ranura de alimentación manual y Alimentador Automático de Documentos ADF de 20 hojas
-- Pantalla a color de 4.5 cm
-- Conexión WiFi 5GHz y USB Imprime o escanea directamente desde el PC o la aplicación móvil
-- Imprime hasta 16 páginas por minuto
 - Impresión dúplex automática
+- Imprime hasta 16 páginas por minuto
+- Incluye botellas de tinta con capacidad máxima de 15.000 páginas, 2 x 7.500, en negro, y 5.000 páginas a color; bandeja de entrada de papel de 150 hojas, ranura de alimentación manual y Alimentador Automático de Documentos ADF de 20 hojas
+- Conexión WiFi 5GHz y USB Imprime o escanea directamente desde el PC o la aplicación móvil
+- Pantalla a color de 4.5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9FXM9DW{{</world>}}

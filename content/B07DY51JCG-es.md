@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de la renombrada marca Green Cell 100% compatible con la batería 01AV424
 - Las celdas originales Li-Ion Green Cell aseguran una alta durabilidad y el empleo de un mayor número de celdas garantiza una mayor capacidad y un tiempo de trabajo prolongado de la batería de la serie Extended
-- Compatible con los ordenadores portátiles: Lenovo ThinkPad T470 T570 A475 P51S T25
 - Advertencia: La batería de la serie Extended tiene mayores dimensiones que las baterías estándares y puede sobresalir por detrás o por debajo del ordenador portátil
 - Capacidad: 4400 mAh | Tensión: 10.8V | Número de celdas: 6 | Color: Negro | Certificados: CE, RoHS y FCC | 12 meses de garantía
+- Compatible con los ordenadores portátiles: Lenovo ThinkPad T470 T570 A475 P51S T25
+- Batería de la renombrada marca Green Cell 100% compatible con la batería 01AV424
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DY51JCG{{</world>}}

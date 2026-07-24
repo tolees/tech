@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Disparo continuo de hasta 40 fps elec. o 12 fps mech. Dispara sin trípode con hasta 8 pasos de IS
-- AF de solo detección, marcador de aspecto, horquillado de enfoque e indicación de color falso EVF de 0.5 pulgadas y 3.69 millones de puntos se actualiza a 120 fps y pantalla táctil LCD de ángulo variable de 3 pulgadas y 1.62 millones de puntos
 - El sistema de enfoque automático inteligente detecta ojos, caras, cabezas, cuerpos, animales y vehículos Capture video 4K a 60p, 6K ProRes RAW a la grabadora externa Atomos Ninja V +, modo Raw Burst
 - Las ranuras para tarjetas duales graban archivos por separado y zapata multifunción Control remoto de cámara Wi-Fi y Bluetooth, transferencia inalámbrica de imágenes y soporte UVC para usar como cámara web
 - Cámara sin espejo con sensor CMOS Full Frame de 24,2 megapíxeles y procesador DIGIC X ISO102,400 (ext.ISO 204,800) con AF hasta -6.5 EV
+- AF de solo detección, marcador de aspecto, horquillado de enfoque e indicación de color falso EVF de 0.5 pulgadas y 3.69 millones de puntos se actualiza a 120 fps y pantalla táctil LCD de ángulo variable de 3 pulgadas y 1.62 millones de puntos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLJNVXK4{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología anti-fragmentación AdaptiveSync
-- Soporte ergonómico con inclinación de pantalla
 - 1xVGA/1xHDMI 1.4, Zeroframe
 - Pantalla de 23,8", Full HD 120 Hz, 250 Nits
 - Tiempo de Respuesta 1 m/s VRB
+- Tecnología anti-fragmentación AdaptiveSync
+- Soporte ergonómico con inclinación de pantalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM679R7F{{</world>}}

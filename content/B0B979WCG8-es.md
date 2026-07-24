@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Local multiplayer with up to 4 players
-- Several degrees of difficulty for beginners and pros
 - Custom mode for own sports events
+- Several degrees of difficulty for beginners and pros
 - 12 thrilling winter sport disciplines: Biathlon, Downhill, Super-G, Skeleton, Short track, 2-man bobsled, Ski jumping, Ski cross, Snowboard cross, Curling
 
 [🛒 Aquí!!!]({{< param buyurl >}})

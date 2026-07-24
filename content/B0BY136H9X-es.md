@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Secadora de bomba de calor de 8Kg: tecnología de secado que ofrece el máximo cuidado a los tejidos, con el mínimo consumo y cuidando del medio ambiente.
-- Medidas secadora (alto x ancho x prof): 85 x 59,6 x 58,5cm.
+- App hOn: tecnología Wifi + Bluetooth que mejora constantemente la experiencia de usuario según uso, añadiendo funcionalidades y la posibilidad de gestionar la secadora a través del Smartphone y mediante voz.
 - 14 ciclos de lavado, 7 rápidos de menos de 90: ahorra tiempo gracias a los programas rápidos y protege incluso a las prendas más delicadas, como la lana.
 - Easy Case: sistema de recogida de agua en la escotilla con una capacidad de 5L, más ergonómico y fácil de vaciar.
-- App hOn: tecnología Wifi + Bluetooth que mejora constantemente la experiencia de usuario según uso, añadiendo funcionalidades y la posibilidad de gestionar la secadora a través del Smartphone y mediante voz.
+- Medidas secadora (alto x ancho x prof): 85 x 59,6 x 58,5cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BY136H9X{{</world>}}

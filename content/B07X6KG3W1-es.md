@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrada auxiliar
 - Bluetooth
 - Usb frontal
+- Entrada auxiliar
 - Ranura para cd
 - Advanced remote control app (pioneer arco)
 

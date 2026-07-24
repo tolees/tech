@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potente succión de 18,000Pa para limpieza diaria: Motor sin escobillas que proporciona hasta 18,000Pa de potencia para recoger polvo, migas y suciedad en suelos, alfombras y muebles.
-- Luz LED para detectar polvo oculto: Luz frontal LED que revela polvo en rincones oscuros, bordes y debajo de muebles.
-- Hasta 45 minutos de autonomía: Batería de 2200mAh que permite limpiar varias habitaciones en una sola carga.
 - Filtración eficiente de 5 etapas: Sistema de filtrado avanzado que captura hasta el 99.9% de las partículas finas, manteniendo el aire más limpio.
+- Potente succión de 18,000Pa para limpieza diaria: Motor sin escobillas que proporciona hasta 18,000Pa de potencia para recoger polvo, migas y suciedad en suelos, alfombras y muebles.
+- Hasta 45 minutos de autonomía: Batería de 2200mAh que permite limpiar varias habitaciones en una sola carga.
+- Luz LED para detectar polvo oculto: Luz frontal LED que revela polvo en rincones oscuros, bordes y debajo de muebles.
 - Vaciado del depósito con un solo botón: Sistema de liberación rápida para vaciar el depósito de forma higiénica sin ensuciarse las manos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
