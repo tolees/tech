@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-108 Conmutador Gigabit Layer2 de 8 puertos hasta 1000 Mbps de transferencia de datos por puerto arquitectura sin bloqueo sin ventilador carcasa metálica negro'
-date: 2026-05-17 08:42:12
+date: 2026-08-06 09:47:34
 image: 'https://m.media-amazon.com/images/I/31JsndUneqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000BCC0LO-es D-Link DGS-108 Conmutador Gigabit Layer2 de 8 puertos...'
 sku: 'B000BCC0LO-es'
 tags: [ 'gigabit','🇪🇸', ]
-actualPrice: 16.29 EUR
+actualPrice: 32.01 EUR
 currency: EUR
-price: 16.29
-comparePrice: 20.19 EUR
+price: 32.01
+comparePrice: 39.0 EUR
 prodname: 'D-Link DGS-108 Conmutador Gigabit Layer2 de 8 puertos hasta 1000 Mbps de transferencia de datos por puerto arquitectura sin bloqueo sin ventilador carcasa metálica negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BCC0LO/?tag=tolees-21'
-descuento: '19.32'
-average: '25.4861499999998'
+descuento: '17.92'
+average: '25.5507425742572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En modo Full Duplex hasta 1000 Mbit/s por puerto
-- Proceso de transporte seguro de almacenamiento y reenvío
-- Tiene funciones de ahorro de energía con D-Link Green
-- Funciona silenciosamente gracias a una construcción sin ventilador
 - Una detección automática de MDI/MDIX en todas las conexiones
+- Proceso de transporte seguro de almacenamiento y reenvío
+- Funciona silenciosamente gracias a una construcción sin ventilador
+- Tiene funciones de ahorro de energía con D-Link Green
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000BCC0LO{{</world>}}

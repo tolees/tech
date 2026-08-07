@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cubierta superior en PBT y botones laterales con un duradero acabado mate
-- Ratón inalámbrico para gaming con conectividad de 2.4 GHz y Bluetooth LE
 - Sensor óptico de 12000 dpi para un control de alta precisión y un botón DPI para ajustar cuatro niveles de sensibilidad al vuelo
+- Ratón inalámbrico para gaming con conectividad de 2.4 GHz y Bluetooth LE
+- Cubierta superior en PBT y botones laterales con un duradero acabado mate
 - Ratón de tamaño medio con diseño ambidiestro y un peso de 62 gramos (sin incluir la pila y el dongle)
 - El tratamiento antibacteriano de ASUS mantiene el ratón limpio e higiénico
 

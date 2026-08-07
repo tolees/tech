@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Monitor de escritorio
-- Full HD LED
 - Peana "Z"
-- Con altavoces
+- Full HD LED
 - IPS, in-Cell PCAP, Z-stand
+- Monitor de escritorio
+- Con altavoces
 - 27 Pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

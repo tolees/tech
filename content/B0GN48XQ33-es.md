@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Tarjeta gráfica integrada AMD Radeon 660M
-- Sistema Operativo: Windows 11 Home
-- Procesador AMD Ryzen 5 150 (6C/HexaCore 3.3 / 4.55GHz)
 - Memoria RAM de 16GB DDR5
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS-Level 250 nits
+- Procesador AMD Ryzen 5 150 (6C/HexaCore 3.3 / 4.55GHz)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GN48XQ33{{</world>}}

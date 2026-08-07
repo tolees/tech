@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil configuración: con corrección keystone y hdmi
-- Tecnología 3LCD: Niveles de emisión equivalentes de luz blanca y de color
 - Proyector Full HD 1080p
 - Luminosidad de 3000 lúmenes
 - Android TV
+- Tecnología 3LCD: Niveles de emisión equivalentes de luz blanca y de color
+- Fácil configuración: con corrección keystone y hdmi
 - Lámpara de larga duración: hasta 18 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

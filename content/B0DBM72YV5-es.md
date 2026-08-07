@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 8 GB de RAM LPDDR5-4800 MHz, que permite multitarea rápida y un rendimiento estable incluso con varias aplicaciones abiertas
+- Pantalla FHD de 14" (35,6 cm) en diagonal que ofrece imágenes nítidas y colores definidos para trabajar y disfrutar de contenido multimedia
 - Para utilizar Microsoft 365, simplemente accede a Microsoft365.com en tu navegador para crear y editar ficheros Word, Excel, y PowerPoint desde la web. Aunque las versiones desktop no sean instalables, este metodo permite un acceso completo. Ten en cuenta que se necesita una suscripción a Microsoft 365 para acceder a funcionalidades adicionales
 - Los Chromebooks funcionan con ChromeOS, el sistema operativo rápido y seguro de Google. Este dispositivo esta concebido para funcionar con este sistema operativo con el fin de optimizar su rendimiento y su seguridad. [Simplemente conéctate con tu cuenta Google para tener acceso inmediatamente a las aplicaciones de Google Workspace preinstaladas como Docs & Sheets]
-- Procesador Intel N100 (hasta 3,4 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos, 4 subprocesos)
-- Pantalla FHD de 14" (35,6 cm) en diagonal que ofrece imágenes nítidas y colores definidos para trabajar y disfrutar de contenido multimedia
 - Gráficos Intel UHD integrados, ideales para tareas diarias, reproducción de vídeo y contenido visual fluido
+- Procesador Intel N100 (hasta 3,4 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos, 4 subprocesos)
+- 8 GB de RAM LPDDR5-4800 MHz, que permite multitarea rápida y un rendimiento estable incluso con varias aplicaciones abiertas
 - 128 GB de almacenamiento UFS, rápido y seguro, para guardar archivos, aplicaciones y documentos con acceso veloz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

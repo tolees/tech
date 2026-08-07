@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiempo de respuesta 1 ms VRB
 - Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
+- Tiempo de respuesta 1 ms VRB
 - Tecnología anti-fragmentación AMD FreeSync
 - Soporte ErgoStand ergonómico, regulable en altura, ajustable e inclinable
 

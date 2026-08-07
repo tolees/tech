@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mide 31,5 x 26,92 x 0,23 cm
+- Se puede lavar a mano para facilitar la limpieza
 - Alfombrilla de ratón para videojuegos: ideal para amantes de los videojuegos, diseñadores gráficos o cualquiera que use un ratón.
 - La base firme, gruesa y de goma mantiene la alfombrilla en su sitio.
 - Superficie de tejido de alta calidad que facilita el deslizamiento suave del ratón y una precisión mejorada.
-- Se puede lavar a mano para facilitar la limpieza
-- Mide 31,5 x 26,92 x 0,23 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06X3W3YQD{{</world>}}

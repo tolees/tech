@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Alimentador automático de documentos (ADF) de hasta 50 hojas (11)
 - Velocidad de impresión hasta 32ppm
-- Red cableada, WiFi 5GHz, Wi-Fi Direct y conexión móvil
-- Impresión automática a doble cara
 - Pantalla LCD de 2 líneas
+- Impresión automática a doble cara
+- Red cableada, WiFi 5GHz, Wi-Fi Direct y conexión móvil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK2P94XF{{</world>}}

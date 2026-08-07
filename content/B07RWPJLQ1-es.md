@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 40as0090eu
-- Marca: Lenovo
 - de calidad
+- Marca: Lenovo
+- 40as0090eu
 - Producto fabricado pensando en sus necesidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

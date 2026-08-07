@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Procesador Intel N100 (hasta 3,4 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos, 4 subprocesos)
 - Windows 11 Home
 - 8 GB (1 x 8 GB) Memoria RAM DDR4-3200 MHz
-- Gráficos Integrados Intel UHD
-- Procesador Intel N100 (hasta 3,4 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos, 4 subprocesos)
 - Almacenamiento de datos SSD de 256 GB PCIe NVMe M.2
+- Gráficos Integrados Intel UHD
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCG227SW{{</world>}}

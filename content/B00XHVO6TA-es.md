@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dureza asegurada que cumple con estándar 9H+ Oleophofic coating
 - Diseño Curvado 3D,4D,5D en color Negro, realizado por REY para Samsung Galaxy Note 8 / NOTE8
 - Transparencia total. Excelente visibilidad con alto contraste. Filtro de protección para los ojos anti-UV
 - Sistema de adherencia sin residuos y de fácil aplicación.
-- Dureza asegurada que cumple con estándar 9H+ Oleophofic coating
 - Repele la grasa, tu móvil estará siempre limpio. Tacto agradable, mejora el tacto de la pantalla original del smartphone, dando una sensación de suavidad inmejorable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

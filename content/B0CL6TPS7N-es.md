@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Power plug type : no plug
-- Transportation restrictions : {modes:["NONE"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7esqbdskg/3Cj1wo9cKbNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy}}}
 - Battery.charge time : 102.0 minutes
-- Wireless provider : unlocked
 - Item dimensions : 19.69 inches
+- Display.size : 6.6 inches
+- Transportation restrictions : {modes:["NONE"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7esqbdskg/3Cj1wo9cKbNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy}}}
 - Memory storage capacity : 128.0 GB
 - Battery.capacity : 5000.0 milliamp hours
-- Display.size : 6.6 inches
+- Wireless provider : unlocked
+- Power plug type : no plug
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL6TPS7N{{</world>}}

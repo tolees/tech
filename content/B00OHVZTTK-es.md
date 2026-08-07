@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Impedancia: 39Ω
+- Sensibilidad: 99db
+- Llaves de 9 mm hechas a mano
 - Respuesta de frecuencia: 20hz-20khz
 - Conexión: enchufe de 3,5 mm
-- Llaves de 9 mm hechas a mano
-- Sensibilidad: 99db
-- Impedancia: 39Ω
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OHVZTTK{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto original de marca
 - Unidades: 1
 - Componentes incluidos: Cable
 - Dos años de garantía ante defectos de fábrica
-- Producto original de marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B69G1BHF{{</world>}}

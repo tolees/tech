@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Sistema Operativo
-- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 144Hz, 300 nits
 - Memoria RAM de 16GB SO-DIMM DDR5
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Procesador Intel Core 7 240H (10C/DecaCore 5.2GHz, 24MB)
 - Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
+- Procesador Intel Core 7 240H (10C/DecaCore 5.2GHz, 24MB)
+- Pantalla de 16" WUXGA 1920 x 1200 pixeles, 144Hz, 300 nits
+- Sin Sistema Operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FMS84X9S{{</world>}}

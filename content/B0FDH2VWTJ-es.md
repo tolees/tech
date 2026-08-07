@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Grandísima batería de 6500mAh (typ). 90W HyperCharge
-- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable
 - IP68 resistencia al agua y al polvo
-- Pantalla AMOLED de 6,83 1.5K a 120Hz. Marcos ultrafinos para una experiencia inmersiva
 - Cámara Sony de 50 MP con OIS. Capturas nítidas con el sensor Sony IMX882
+- Pantalla AMOLED de 6,83 1.5K a 120Hz. Marcos ultrafinos para una experiencia inmersiva
+- Flagship Snapdragon 8s Gen 4. Rendimiento supremo y una eficiencia incomparable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDH2VWTJ{{</world>}}

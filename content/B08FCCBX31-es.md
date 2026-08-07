@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Peso: 190g - Trípode de mesa TPS-4 - Antiviento personalizado para ZDM-1
-- Micrófono dinámico ZDM-1 de diafragma grande: patrón polar supercardioide, respuesta de frecuencia 50Hz-18kHz, 135 dB SPL max
 - Peso: 1,36 Kg - Dimensiones (mm): 150 x 54 - ZHP-1 auriculares profesionales cerrados: altavoces de neodimio de 40 mm, respuesta de frecuencia 10Hz-20kHz, 68 a 1 kHz
 - Cable de micrófono XLR, 2m de longitud
+- Micrófono dinámico ZDM-1 de diafragma grande: patrón polar supercardioide, respuesta de frecuencia 50Hz-18kHz, 135 dB SPL max
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FCCBX31{{</world>}}

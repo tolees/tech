@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Respuesta de frecuencia 20 Hz mín - 20 kHz máx
-- Sensibilidad de sonido 94 dB
 - Auriculares gaming con cable Jack de 3,5 mm de 1,2 metros
 - Formato circumaural con micrófono omnidireccional
 - Micrófono incluido con cancelación de ruido
+- Sensibilidad de sonido 94 dB
+- Respuesta de frecuencia 20 Hz mín - 20 kHz máx
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XBJ6WP8{{</world>}}

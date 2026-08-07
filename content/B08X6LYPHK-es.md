@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plug & Play para una amplia compatibilidad: alimentado por USB con cables de audio de 3.5 mm que permite a esta estrella de rock divertirse en un amplio tipo de escenarios para PC, TV, laptop y smartphone. Conéctalo todo bien en tu dispositivo y dale vida a tu próxima fiesta.
-- Sonidos y aspecto ricos: la primera barra de sonido RGB Redragon tiene el controlador mejorado que ofrece una calidad de sonido clara y cristalina combinada con graves ricos. 4 modos de retroiluminación diferentes incluyen iluminación LED brillante dinámica y estática.
 - Rebota a la luz del día: fácil de colocar debajo de cualquier dispositivo que tengas, tamaño compacto de aproximadamente 16 pulgadas perfecto para tu sistema de audio. Ya sea que sientas Wave, Disco, Rain o algo intermedio, comienza a rebotar con tu música hoy.
 - Proyección Lightshow: ¿Qué es mejor que reproducir tu música favorita mientras juegas o trabajas? Una retroiluminación iluminadora muestra sincronización con la reproducción de música. Clásico con RGB, puedes sentarte y verlo todo el día.
+- Sonidos y aspecto ricos: la primera barra de sonido RGB Redragon tiene el controlador mejorado que ofrece una calidad de sonido clara y cristalina combinada con graves ricos. 4 modos de retroiluminación diferentes incluyen iluminación LED brillante dinámica y estática.
+- Plug & Play para una amplia compatibilidad: alimentado por USB con cables de audio de 3.5 mm que permite a esta estrella de rock divertirse en un amplio tipo de escenarios para PC, TV, laptop y smartphone. Conéctalo todo bien en tu dispositivo y dale vida a tu próxima fiesta.
 - Práctica perilla de volumen: perilla de volumen delicada y compacta combinada con interruptor de encendido/apagado que te ofrece un ajuste de volumen cómodo y preciso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

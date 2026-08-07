@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La ventaja del formato APS-C: Ofrece un alcance de teleobjetivo mayor en la misma longitud focal que un sensor full frame en una cámara más ligera y portátil. Convirtiéndola en el aliado perfecto para excursiones, fotografía de naturaleza, espectáculos aéreos, viajes y deportes de acción
+- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet.
 - Auto Focus: Un enfoque automático que desafía las expectativas.Los fotografos admiran su capacidad de captar aves en pleno vuelo, vehículos a grandes velocidades y movimientos rápidos e impredecibles de personas, incluso en situaciones de poca luz de hasta -5EV. Enfoque Dual Pixel AF II con una abertura máxima de f/27
 - COMPATIBLE CON OBJETIVOS RF: Incluidos los RF 100-400mm, RF 100-500mm y RF 800mm, populares para fotografía de naturaleza, deportes y viajes. Descubre más objetivos Canon en la tienda de Canon.
-- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet.
-- La ventaja del formato APS-C: Ofrece un alcance de teleobjetivo mayor en la misma longitud focal que un sensor full frame en una cámara más ligera y portátil. Convirtiéndola en el aliado perfecto para excursiones, fotografía de naturaleza, espectáculos aéreos, viajes y deportes de acción
 - Vídeo: Tomas fluidas con precisión de imagen y enfoque excepcional de 60 en 4K y hasta 120p en Full HD. Sus grandes prestaciones combinada con la calidad de los objetivos RF ofrece una calidad que supera las expectativas incluso en fotografía nocturna
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua y al polvo: la radio digital JBL Tuner 3 cuenta con una asa para facilitar su transporte y posee una clasificación IP68; llévala a fiestas en la piscina y a picnics en la playa
-- Sonido aumentado: sintoniza la radio FM y DAB con un sonido alto y nítido, y unos graves más potentes, gracias al potente transductor que ofrece un audio realista
 - Sintoniza la diversión: lleva tu música a cualquier parte con la radio portátil JBL Tuner 3 DAB/DAB+/FM, que cuenta con el potente sonido JBL Pro Sound, streaming por Bluetooth y un diseño duradero para todas tus aventuras
 - Sonido personalizado: esta radio a pilas ofrece hasta 12 horas de reproducción, más 3 horas extra con Playtime Boost, y te permite personalizar tu sonido utilizando la aplicación JBL Portable
+- Sonido aumentado: sintoniza la radio FM y DAB con un sonido alto y nítido, y unos graves más potentes, gracias al potente transductor que ofrece un audio realista
+- Resistente al agua y al polvo: la radio digital JBL Tuner 3 cuenta con una asa para facilitar su transporte y posee una clasificación IP68; llévala a fiestas en la piscina y a picnics en la playa
 - Preajustes y Auracast: sintoniza tus estaciones de radio favoritas con uno de los 6 botones o disfruta de sonido estéreo emparejando dos altavoces o conectando múltiples altavoces JBL compatibles con Auracast
 
 [🛒 Comprar!!!]({{< param buyurl >}})

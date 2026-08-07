@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para TV, monitor, proyector, equipo de alta fidelidad, lámpara, etc.
+- Regleta de enchufes deleyCON de 3 tomas con 2 puertos USB-A y 3 tomas de corriente con conexión a tierra
 - 2 puertos de carga USB // Protección contra sobretensión // Protección de contacto reforzada
 - Carcasa de plástico resistente y duradera // Interruptor de encendido/apagado
-- Regleta de enchufes deleyCON de 3 tomas con 2 puertos USB-A y 3 tomas de corriente con conexión a tierra
+- Ideal para TV, monitor, proyector, equipo de alta fidelidad, lámpara, etc.
 - Tensión nominal: 250 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3680 vatios (W)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

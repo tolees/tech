@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Carcasa
-- - Cristal: Fibra Acrílica
 - - Material de la Carcasa: Resín
+- - Cristal: Fibra Acrílica
 - - Color de la caja: Plata
 - - Forma de la Carcasa: Rectangular
 

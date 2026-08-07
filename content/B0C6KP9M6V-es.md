@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pentakill, 5 niveles DPI - Con 5 niveles DPI redefinibles (predefinidos como: 500/1000/2000/3000/4000), fácil de cambiar entre las diferentes necesidades de juego. Solicitud dedicada de opciones de DPI entre 500-8000 también está disponible para ser procesada por el software.
 - 5 modos de retroiluminación decentes: enciende la luz de fondo y haz algunas muertes en tu campo de batalla de juego. La atmósfera dinámica retroiluminada RGB nunca te defraudará cuando decoras tu espacio de juego, sería mejor con otros accesorios Redragon con luces encendidas.
+- Pentakill, 5 niveles DPI - Con 5 niveles DPI redefinibles (predefinidos como: 500/1000/2000/3000/4000), fácil de cambiar entre las diferentes necesidades de juego. Solicitud dedicada de opciones de DPI entre 500-8000 también está disponible para ser procesada por el software.
 - Agarre cómodo con detalles: el revestimiento satinado agradable al tacto es el agarre principal de la superficie del ratón, que ofrece la sensación más agradable sin huellas dactilares. El lado izquierdo con textura de goma reforzó la fricción y hizo que el mouse fuera más fácil de controlar.
 - Cualquier botón es reasignable: 11 botones programables son todos modificables con teclas tácticas personalizables en cualquier juego o trabajo en el que te estés involucrando. 1 disparo rápido + 2 botones macro laterales ofrecen una mejor experiencia de juego y trabajo.
 - Antifatiga con diseño ergonómico: el marco sólido con un diseño aerodinámico y general con agarre de garra ofrece a cada jugador una experiencia de juego satisfactoria y cómoda con menos fatiga incluso después de horas de uso.

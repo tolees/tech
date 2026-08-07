@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sistema HUAWEI SOUND de Cuatro Unidades: El HUAWEI Sound Joy 2 es capaz de cubrir toda una cancha de baloncesto con una potencia de hasta 85 dBA, gracias a un exclusivo sistema de altavoces de cuatro unidades y algoritmos de mejora de bajos HUAWEI SOUND.
-- Espectáculo de Luces con Estilo: Deleita tus oídos mientras deleitas tus ojos con el colorido anillo de luz del altavoz, que se enciende y se apaga al ritmo del audio y te muestra información clave, como el nivel de batería y el volumen.
-- 26 Horas Seguidas de Escucha: Escucha durante 26 horas vía Bluetooth, gracias a una enorme batería de 8800 mAh, para viajar con comodidad sin la duración del viaje.
-- Puerto de Carga Rápida Tipo C de 40 W: Escucha durante una hora con una carga de 10 minutos, gracias al puerto de carga rápida tipo C de 40 W.
 - Agitar para Estéreo, Tocar para Transferir: Agitar dos altavoces HUAWEI Sound Joy de 2 para emparejarlos y crea un sistema estéreo instantáneo. Apoya el teléfono contra el altavoz para amplificar la música en un instante.
+- 26 Horas Seguidas de Escucha: Escucha durante 26 horas vía Bluetooth, gracias a una enorme batería de 8800 mAh, para viajar con comodidad sin la duración del viaje.
+- Espectáculo de Luces con Estilo: Deleita tus oídos mientras deleitas tus ojos con el colorido anillo de luz del altavoz, que se enciende y se apaga al ritmo del audio y te muestra información clave, como el nivel de batería y el volumen.
+- Puerto de Carga Rápida Tipo C de 40 W: Escucha durante una hora con una carga de 10 minutos, gracias al puerto de carga rápida tipo C de 40 W.
 - IP67 Resistente al Polvo y al Agua: Llévate la alegría dondequiera que la vida te encamine, gracias a su resistencia al agua y al polvo con calificación IP67, y tenga la seguridad que nada te aguará la fiesta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

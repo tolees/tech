@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Programa Express 60’ : lava y seca tu vajilla en solo una hora.
 - Capacidad : 10 servicios
-- Programa Auto para optimizar el programa de lavado en función del nivel de suciedad.
+- Programa Express 60’ : lava y seca tu vajilla en solo una hora.
 - 3ª bandeja para cubertería.
 - Clase de eficiencia energética : E
+- Programa Auto para optimizar el programa de lavado en función del nivel de suciedad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089FW2XBM{{</world>}}

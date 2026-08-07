@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño bolsillo y batería recargable integrada para total portabilidad
+- Router MiFi HotSpot desde redes datos 4G/LTE, hasta 300 Mbps
 - **Nota: Compatible con cualquier USIM o micro-SIM
 - Doble banda 2.4/5 Ghz y hasta 1200 Mbps
-- Router MiFi HotSpot desde redes datos 4G/LTE, hasta 300 Mbps
 - Crea una red WiFi AC1200 para compartir una conexión 3G/4G con duplicado de tu tarjeta SIM (vale de cualquier operadora)
 - Evita que tengas que compartir red desde el móvil, que ofrece peores prestaciones de wifi hotspot y agota rápidamente su batería
 

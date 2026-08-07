@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
-- Materiales de gran calidad: nuestra nueva funda de material vegetal fabricada en Italia incorpora un forro de microfibra que protege la pantalla de arañazos.
-- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra, y activa o pone en suspensión el Kindle Scribe automáticamente. El acople magnético mantiene la funda firmemente cerrada.
-- Acople sencillo del lápiz digital: el lápiz prémium puede dejarse en el sujetalápices incluido en la funda, además de poder fijarse al lateral de tu Kindle Scribe gracias a los imanes integrados en el dispositivo.
-- Diseñada con la sostenibilidad en mente: la funda de material vegetal combina un 76 % de biomateriales renovables (maíz no transgénico y fibra de viscosa con origen acreditado por el FSC) y un 24 % de poliuretano.
-- Elige entre dos colores: negro y verde jade.
-- Embalaje sostenible: el 99 % del embalaje del producto está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
 - Más funcional: la cubierta frontal se transforma en un soporte integrado con dos posiciones que te permite leer sin tener que sujetar el dispositivo.
+- Elige entre dos colores: negro y verde jade.
+- Acople sencillo del lápiz digital: el lápiz prémium puede dejarse en el sujetalápices incluido en la funda, además de poder fijarse al lateral de tu Kindle Scribe gracias a los imanes integrados en el dispositivo.
+- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra, y activa o pone en suspensión el Kindle Scribe automáticamente. El acople magnético mantiene la funda firmemente cerrada.
+- Embalaje sostenible: el 99 % del embalaje del producto está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
+- Diseñada con la sostenibilidad en mente: la funda de material vegetal combina un 76 % de biomateriales renovables (maíz no transgénico y fibra de viscosa con origen acreditado por el FSC) y un 24 % de poliuretano.
+- Materiales de gran calidad: nuestra nueva funda de material vegetal fabricada en Italia incorpora un forro de microfibra que protege la pantalla de arañazos.
+- Diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
 - Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

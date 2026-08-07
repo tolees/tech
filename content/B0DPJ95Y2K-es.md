@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatibilidad: AMD X670 Serie, Intel 700 Serie
-- El potente software CORSAIR iCUE: Permite lecturas de frecuencia en tiempo real, regulación integrada del voltaje y perfiles XMP personalizados
 - Compatibilidad con AMD EXPO & Intel XMP 3.0: Compatible con AMD EXPO para lograr frecuencias más elevadas y un rendimiento excepcional de overclocking.
 - Hágalo todo, y más rápido: Las CPU modernas incluyen cada vez más núcleos, por lo que la velocidad sin precedentes de la DDR5 garantiza que su CPU de alta gama pueda recibir datos rápidamente, permitiendo un procesado, renderizado y cargado más rápidos que nunca
+- Compatibilidad: AMD X670 Serie, Intel 700 Serie
+- El potente software CORSAIR iCUE: Permite lecturas de frecuencia en tiempo real, regulación integrada del voltaje y perfiles XMP personalizados
 - Regulación del voltaje integrada: El software CORSAIR iCUE permite un overclocking más sencillo, preciso y estable que el control de placas base de la generación anterior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

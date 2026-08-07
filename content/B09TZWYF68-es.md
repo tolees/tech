@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Facilita el uso de la herramienta
-- Base para ratón
 - En color negro
+- Base para ratón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TZWYF68{{</world>}}

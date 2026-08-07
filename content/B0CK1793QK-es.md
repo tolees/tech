@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: negro
 - Capacidad: 128 GB
+- Color: negro
 - Telefono móvil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

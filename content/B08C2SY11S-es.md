@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instrucciones y tutoriales en el sitio web de Vimar
-- El volumen del timbre y el volumen de comunicación, el brillo, el color y el contraste son regulables. Posibilidad de elegir entre 6 tonos. Función ˝Mute˝
-- Los kits están listos para su uso, no requieren una programación especial; distancia máxima entre la placa y la última pantalla: hasta 100 m con 1 mm2
 - Ampliables: a cada pulsador de llamada se pueden asociar hasta 3 pantallas; Intercomunicante entre aparatos internos (de la misma familia)
+- Los kits están listos para su uso, no requieren una programación especial; distancia máxima entre la placa y la última pantalla: hasta 100 m con 1 mm2
+- El volumen del timbre y el volumen de comunicación, el brillo, el color y el contraste son regulables. Posibilidad de elegir entre 6 tonos. Función ˝Mute˝
 - Varios idiomas (italiano, inglés, francés, alemán, español, portugués, griego, holandés)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

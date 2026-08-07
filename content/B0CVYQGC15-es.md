@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - USB, Bluetooth y Radio digital DAB/DAB+
 - Compatibilidad con weblink 3.0
-- Conexión inalámbrica para Carplay y Android Auto
 - Entrada para cámaras traseras x2
+- Conexión inalámbrica para Carplay y Android Auto
 - Pantalla 6,8" con chasis interior corto que facilita la instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

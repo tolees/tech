@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Privacidad】Los datos de ubicación se cifran durante la transmisión para que solo tú puedas verlos. Las alertas antirrastreo avisan si una etiqueta desconocida te sigue de forma continuada.
-- 【Autonomía】La pila estándar y fácilmente sustituible ofrece hasta un año de duración. La aplicación te avisa con antelación cuando queda poca batería.
 - 【Localización remota】Guarda XIAOMI Tag en el bolso o la cartera, o fíjalo a llaves, anillas y maletas, y localízalo desde cualquier lugar mediante la app de seguimiento.
 - 【Compatibilidad】Compatible con Apple Find My y Google Android Find Hub, permite localizar con precisión y en tiempo real tus objetos cotidianos.
+- 【Autonomía】La pila estándar y fácilmente sustituible ofrece hasta un año de duración. La aplicación te avisa con antelación cuando queda poca batería.
 - 【Durabilidad】Cuerpo ultraligero de 10 g con resistencia IP67 al agua y al polvo, preparado para el sol, la lluvia y los golpes cotidianos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

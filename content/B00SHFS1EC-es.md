@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de goma para mayor fijación
 - Tamaño mediano: 320 x 270 x 3 mm
-- Superficie para movimientos precisos
+- Base de goma para mayor fijación
 - Alto rendimiento para ratones ópticos y láser
+- Superficie para movimientos precisos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SHFS1EC{{</world>}}

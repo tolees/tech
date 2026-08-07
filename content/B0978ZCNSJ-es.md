@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se envía en un embalaje certificado
-- Tarjeta de memoria con capacidad de 32 GB x 3
-- Unidad retráctil
 - Incluido SecureAccess software
+- Unidad retráctil
+- Tarjeta de memoria con capacidad de 32 GB x 3
+- Se envía en un embalaje certificado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0978ZCNSJ{{</world>}}

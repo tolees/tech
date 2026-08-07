@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Original
 - 2442B001
 - 191 ml
+- Original
 - Transparente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

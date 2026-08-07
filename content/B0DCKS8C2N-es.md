@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BATERÍA DE LARGA DURACIÓN: Experimenta hasta 80 horas de duración de batería en constante movimiento con sondeo a 1000 Hz o hasta 35 horas con sondeo a 4000 Hz. Juega mientras cargas por USB-C.
-- VELOCIDAD PRECISA: Nuestros switches ópticos ofrecen un tiempo de respuesta de 0,2 ms y una vida útil de 100 millones de clics sin ninguno doble.
 - SEGUIMIENTO FLUIDO: No pierdas el cursor de vista con nuestro sensor BAMF 2.0 26K de entre 100 a 26 000 ppp de resolución, 650 in/s de velocidad y 50 G de aceleración.
-- SONDEO A LO PROFESIONAL: Compatible con sondeo inalámbrico a 2K/4K y a 8K con cable para alcanzar el mejor rendimiento en ratones de su categoría.
 - FORMA VERSÁTIL: Cómodo de agarrar con la palma de la mano, los dedos o a modo de garra. Perfecto para gamers diestros con manos medianas o grandes.
+- SONDEO A LO PROFESIONAL: Compatible con sondeo inalámbrico a 2K/4K y a 8K con cable para alcanzar el mejor rendimiento en ratones de su categoría.
+- VELOCIDAD PRECISA: Nuestros switches ópticos ofrecen un tiempo de respuesta de 0,2 ms y una vida útil de 100 millones de clics sin ninguno doble.
+- BATERÍA DE LARGA DURACIÓN: Experimenta hasta 80 horas de duración de batería en constante movimiento con sondeo a 1000 Hz o hasta 35 horas con sondeo a 4000 Hz. Juega mientras cargas por USB-C.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCKS8C2N{{</world>}}

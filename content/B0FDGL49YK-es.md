@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
-- Memoria RAM de 16GB DDR4
 - Sistema Operativo: Windows 11 Home
 - Procesador Intel Core 7 150U (10C/DecaCore 5.4GHz, 12MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
 - Tarjeta gráfica integrada Intel Graphics
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB DDR4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGL49YK{{</world>}}

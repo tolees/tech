@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las opciones de salida incluyen respaldo simultáneo y grabación de retransmisión a través de tarjeta SD dual y modo infrarrojo
-- Coincidencia de color con otras cámaras de la marca a través del menú de imagen personalizada
 - El objetivo cubre un angular de 29.3 mm y un potente alcance de 612 mm con Dynamic IS
+- Coincidencia de color con otras cámaras de la marca a través del menú de imagen personalizada
+- Las opciones de salida incluyen respaldo simultáneo y grabación de retransmisión a través de tarjeta SD dual y modo infrarrojo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLBWHSZ{{</world>}}

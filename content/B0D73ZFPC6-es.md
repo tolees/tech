@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 41,28 x 34,9 x 14,96 centímetros
-- Color: Multicolor
-- Laptop de la marca Lenovo
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Medidas: 41,28 x 34,9 x 14,96 centímetros
+- Laptop de la marca Lenovo
+- Color: Multicolor
 - Referencia: S77193599
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

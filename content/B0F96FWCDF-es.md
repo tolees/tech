@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con más de 50 horas de reproducción portátil, lo más probable es que tu lista de reproducción se acabe antes que la batería.
 - Gracias a su diseño con certificación IP54 de resistencia al polvo y al agua, Kilburn III no teme ni al polvo ni a las salpicaduras.
 - El sonido de 360° llega a dondequiera que estés gracias a una disposición en estéreo sin puntos ciegos.
-- Con más de 50 horas de reproducción portátil, lo más probable es que tu lista de reproducción se acabe antes que la batería.
 - Personaliza los graves y los agudos; enciende o apaga el altavoz; reproduce, pausa y salta pistas, y usa el botón M para acceder instantáneamente a tus preajustes.
 - Sube el volumen de la música sin que afecte a los matices sonoros.
 

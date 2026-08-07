@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - INTERRUPTORES SILENCIOSOS GAMING — Para 20 millones de pulsaciones casi sin sonido ni fricción
 - RENDIMIENTO A NIVEL GAMING – Prestación impecable en diseño TKL con teclas anti-ghosting
-- FACTOR FORMA TKL — El diseño compacto TKL a prueba de esport maximiza el espacio y mejora el rendimiento
-- RESISTENTE AL AGUA Y AL POLVO — Extra fuerte para protegerte de salpicaduras, polvo y más
 - ILUMINACIÓN RGB DE 8 ZONAS — Maravillosas combinaciones de colores y efectos reactivos
+- RESISTENTE AL AGUA Y AL POLVO — Extra fuerte para protegerte de salpicaduras, polvo y más
+- FACTOR FORMA TKL — El diseño compacto TKL a prueba de esport maximiza el espacio y mejora el rendimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8YGVM7{{</world>}}

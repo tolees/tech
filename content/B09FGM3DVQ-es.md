@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- -Cubierta antipolvo especialmente diseñada para Xbox Series X
 - -Compatible con Xbox Series X (XSX) solamente. NO para Xbox Series S (XSS) o Xbox One series.
 - -El diseño de corte en la parte posterior le permite acceder al puerto de cable fácilmente. No es necesario desenchufar los cables.
-- -Cubierta antipolvo especialmente diseñada para Xbox Series X
 - -Retire la cubierta antipolvo cuando la consola esté encendida para evitar el sobrecalentamiento.
 - -Hecho de tela Oxford 1680D, que repele el agua y es resistente, protege su consola de rayones y polvo.
 

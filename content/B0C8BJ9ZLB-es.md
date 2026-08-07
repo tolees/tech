@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control por Voz: Funciona con Amazon Alexa y Google Home para automatización sin necesidad de usar las manos.§
-- Hasta 64+4 Dispositivos: Conecta más dispositivos (hasta 64 interruptores*, sensores o botones + 4 cámaras o timbres) para crear el ecosistema inteligente de tu hogar. Compatible con Tapo C420, Tapo C400, Tapo D230 y más.
-- Almacenamiento Local en microSD: Guarda los videos grabados por tus cámaras o timbres de video en la tarjeta microSD instalada en el hub (hasta 512 GB).
+- Alarma y Timbre Inteligente: Funciona con tus cámaras inteligentes (Tapo C420, Tapo C400), timbres de video (Tapo D230) y sensores como alarma o timbre inteligente cuando se detecta movimiento o llega un visitante.
 - 19 Opciones de Timbre: Varios timbres integrados (hasta 90 dB) para tus escenarios personalizados.
 - Conexión Inalámbrica de Bajo Consumo: Ayuda a tus sensores y botones inteligentes a durar hasta 10 veces más al adoptar un protocolo inalámbrico de ultra bajo consumo**.
-- Alarma y Timbre Inteligente: Funciona con tus cámaras inteligentes (Tapo C420, Tapo C400), timbres de video (Tapo D230) y sensores como alarma o timbre inteligente cuando se detecta movimiento o llega un visitante.
+- Control por Voz: Funciona con Amazon Alexa y Google Home para automatización sin necesidad de usar las manos.§
+- Almacenamiento Local en microSD: Guarda los videos grabados por tus cámaras o timbres de video en la tarjeta microSD instalada en el hub (hasta 512 GB).
+- Hasta 64+4 Dispositivos: Conecta más dispositivos (hasta 64 interruptores*, sensores o botones + 4 cámaras o timbres) para crear el ecosistema inteligente de tu hogar. Compatible con Tapo C420, Tapo C400, Tapo D230 y más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8BJ9ZLB{{</world>}}

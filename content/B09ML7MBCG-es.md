@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: Rojo
+- Tamaño: 256GB
 - Apple iPhone 13 Mini, 256GB, Rojo - Reacondicionado
 - Tipo de producto: CELLULAR PHONE
-- Tamaño: 256GB
-- Color: Rojo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ML7MBCG{{</world>}}

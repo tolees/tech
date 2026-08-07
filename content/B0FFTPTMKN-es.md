@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema de refrigeración WINDFORCE
 - Estructura reforzada
 - Integrado con interfaz de memoria de 8GB GDDR6 128bit
 - Alimentado por la arquitectura NVIDIA Blackwell y DLSS 4
-- Sistema de refrigeración WINDFORCE
 - Alimentado por GeForce RTX 5050
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

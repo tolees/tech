@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantén la privacidad de tus archivos privados con el software
 - Hasta 130 MB/s de velocidades de lectura
+- Mantén la privacidad de tus archivos privados con el software
 - Hasta 10 veces más rápido que un USB 2.0 estándar
 - Transfiere una película completa en menos de 40 segundos
 

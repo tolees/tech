@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño energéticamente eficiente conforme a IEEE802.3az
 - 16 puertos Ethernet Gigabit
-- Funcionamiento silencioso
 - Admite montaje de sobremesa o en pared
+- Funcionamiento silencioso
+- Diseño energéticamente eficiente conforme a IEEE802.3az
 - Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

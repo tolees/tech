@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Indicador LED de jugador
+- Conector para auriculares de 3.5 mm
 - 2 motores de vibración
-- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
 - Tipo de conectividad: por cable
 - Panel táctil totalmente funcional
-- Conector para auriculares de 3.5 mm
+- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
+- Indicador LED de jugador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0746S4MHB{{</world>}}
