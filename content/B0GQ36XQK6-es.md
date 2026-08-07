@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'XIAOMI Smart Band 10 Pro NFC Pulsera Inteligente Blanco'
+date: 2026-08-04 20:48:43
+image: 'https://m.media-amazon.com/images/I/41XylBibgRL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GQ36XQK6-es XIAOMI Smart Band 10 Pro NFC Pulsera Inteligente Blanco'
+sku: 'B0GQ36XQK6-es'
+tags: [ 'xiaomi','🇪🇸', ]
+actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
+comparePrice: 119.99 EUR
+prodname: 'XIAOMI Smart Band 10 Pro NFC Pulsera Inteligente Blanco'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GQ36XQK6/?tag=tolees-21'
+descuento: '33.34'
+average: '84.4344444444446'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 【Conectividad】 Sincronización de notificaciones con dos teléfonos: conecta Xiaomi y iPhone al mismo tiempo para recibir llamadas, mensajes y alertas en una sola pulsera.
+- 【Autonomía】 Hasta 21 días con uso ligero, 15 días con uso diario y 8 días con AOD, reduciendo la molestia de las cargas frecuentes.
+- 【Pantalla】 Pantalla AMOLED ultrafina de 1,74” y 9,7 mm, con biseles simétricos ultrafinos y alto ratio de pantalla para una visualización más inmersiva.
+- 【Salud】 Seguimiento de HRV durante el sueño para analizar la recuperación física, conocer mejor tu estado diario y ayudarte a optimizar descanso y bienestar.
+- 【Pagos NFC】Levante su muñeca para pagar en cualquier terminal de forma rápida y fluida, diseñada para la comodidad sin contacto de cada día.
+- 【GPS y navegación】 GNSS independiente de cinco sistemas con GPS, GLONASS, BeiDou, Galileo y QZSS integrados para registrar rutas al aire libre sin llevar el móvil.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0GQ36XQK6{{</world>}}
