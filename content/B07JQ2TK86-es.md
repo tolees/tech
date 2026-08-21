@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela exclusiva de microtejido QcK para un control máximo
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
+- La base de goma antideslizante elimina los movimientos no deseados
 - Nota: Se recomienda darle tiempo a la alfombrilla para que se desenrolle por completo y colocar objetos pesados sobre la superficie de la alfombrilla (no las luces RGB) para facilitar el proceso de aplanamiento. Se debe tener cuidado al limpiar la alfombrilla para no dañar el RGBS
 - Iluminación dinámica RGB de 2 zonas brillante
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Optimizada para movimientos de seguimiento de DPI bajos y altos
+- Tela exclusiva de microtejido QcK para un control máximo
 - Configuración fácil e intuitiva de las notificaciones de iluminación en el juego
-- La base de goma antideslizante elimina los movimientos no deseados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JQ2TK86{{</world>}}

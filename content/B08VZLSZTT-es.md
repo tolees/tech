@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Optimiza tu experiencia de juego con XMP 2.0 One Click Easy Overclocking y rendimiento de velocidad avanzado a 4000MH/z
-- Perfectamente compatible con las últimas plataformas Intel y Ryzen
 - Memoria avanzada para juegos diseñada para que tu equipo de sobremesa trabaje a la velocidad de un rayo
 - Lleva la capacidad de respuesta de tu equipo al siguiente nivel gracias a la avanzada tecnología de semiconductores y a la mejor selección de chips de memoria
+- Perfectamente compatible con las últimas plataformas Intel y Ryzen
+- Optimiza tu experiencia de juego con XMP 2.0 One Click Easy Overclocking y rendimiento de velocidad avanzado a 4000MH/z
 - DRAM de calidad para juegos con plataforma de estabilidad y compatibilidad probada
 - Tipo de memoria del ordenador: sdram; Sistema operativo: Windows, MAC, Linux
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La Disney Afternoon Collection incluye ocho joyas de la era de 8 y 16 bits: Chip n Dale Rescue Rangers, Chip n Dale Rescue Rangers 2, DuckTales, DuckTales 2, Darkwing Duck, TaleSpin, Bonkers (*nueva expansión de la colección*), Goof Troop (*nueva expansión de la colección*)
 - GOOF TROOP (SNES): Una aventura cooperativa familiar protagonizada por el dúo padre-hijo, Goofy y Max. Resuelve acertijos mientras intentan rescatar a sus amigos de una isla pirata. Goof Troop es uno de los primeros juegos del desarrollador Shinji Mikami (Resident Evil, Dino Crisis).
 - La edición física incluye un verdadero tesoro de objetos físicos exclusivos: ¡8 discos y 3 tarjetas coleccionables, y 2 láminas de pegatinas!
-- DUCKTALES (NES) y DUCKTALES 2 (NES): DuckTales para NES (1989) fue uno de los mayores éxitos de Capcom. Juega como el Tío Gilito con un bastón que también funciona como arma y como pogo stick. Los niveles con múltiples caminos están llenos de secretos y sorpresas, además de contar con una excelente banda sonora. La secuela es igual de divertida.
-- La Disney Afternoon Collection incluye ocho joyas de la era de 8 y 16 bits: Chip n Dale Rescue Rangers, Chip n Dale Rescue Rangers 2, DuckTales, DuckTales 2, Darkwing Duck, TaleSpin, Bonkers (*nueva expansión de la colección*), Goof Troop (*nueva expansión de la colección*)
 - BONKERS (SNES): Este excéntrico plataformas está lleno de Easter eggs para los fans de Disney. Explora seis niveles de Toontown en busca de objetos desaparecidos: el Sombrero del Mago, la Voz de la Sirena y la Lámpara Mágica.
+- DUCKTALES (NES) y DUCKTALES 2 (NES): DuckTales para NES (1989) fue uno de los mayores éxitos de Capcom. Juega como el Tío Gilito con un bastón que también funciona como arma y como pogo stick. Los niveles con múltiples caminos están llenos de secretos y sorpresas, además de contar con una excelente banda sonora. La secuela es igual de divertida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GKHD3X6Z{{</world>}}

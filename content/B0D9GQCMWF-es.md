@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Netzwerk Switch
 - NETGEAR
+- Netzwerk Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9GQCMWF{{</world>}}

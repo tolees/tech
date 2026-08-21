@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pantalla de 14" WQXGA+ 2880 x 1800 pixeles, 120Hz, OLED 400 nits
 - Procesador Intel Core Ultra 9 285H (16C/undefined 5.4GHz, 24MB)
-- Memoria RAM de 32GB en placa LPDDR5x
 - Tarjeta gráfica integrada Intel Arc 140T
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Memoria RAM de 32GB en placa LPDDR5x
 - Sistema Operativo: Windows 11 Home
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT4TPD3Q{{</world>}}

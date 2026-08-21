@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Monitor gaming QD-OLED QHD (2560 x 1440) de 27 pulgadas con tasa de refresco de 240 Hz y tiempo de respuesta de 0,03 ms
-- La aplicación exclusiva ASUS DisplayWidget Center permite a los usuarios acceder fácilmente a las funciones de ASUS OLED Care Pro y ajustar la configuración del monitor con el ratón
 - ASUS OLED Care Pro funciona con el Neo Proximity Sensor, que detecta con precisión cuándo el usuario está ausente y cambia a una pantalla negra para reducir el riesgo de burn-in
+- Monitor gaming QD-OLED QHD (2560 x 1440) de 27 pulgadas con tasa de refresco de 240 Hz y tiempo de respuesta de 0,03 ms
 - Tecnología ROG AI Gaming con funciones basadas en IA para mejorar la experiencia de juego de los usuarios
+- La aplicación exclusiva ASUS DisplayWidget Center permite a los usuarios acceder fácilmente a las funciones de ASUS OLED Care Pro y ajustar la configuración del monitor con el ratón
 - Gama DCI-P3 del 99 %, color verdadero de 10 bits y diferencia de color Delta E < 2 para un rendimiento HDR asombroso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

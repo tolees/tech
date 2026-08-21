@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciones principales: Escuba (gestión de la inmersión según algoritmo Bühlmann ZHL-16C), Gauge (gestión autónoma con profundidad y cronómetro), Free (tiempo y profundidad para quien practica apnea)
-- Gestión de 1 o 2 mezclas (aire, Nitrox y otras con O2 Max 99%). Alarma de infracción MOD, DECO STOP y exceso de velocidad de arranque. Planificador de simulación de inmersión "NDL only"
 - Graba hasta 40 horas de inmersión en modo Scuba/Calibre o 18 horas en modo libre; Datos descargables y actualización de software a través de USB-C y aplicación Seac Dive Manager gratuita en el sitio seacsub.com
 - Incluso con guantes muy pesados es fácil manejar todas las funciones de Seac Screen, gracias a los dos botones frontales bien definidos; Correa larga, cómoda incluso sobre el traje estanco
+- Funciones principales: Escuba (gestión de la inmersión según algoritmo Bühlmann ZHL-16C), Gauge (gestión autónoma con profundidad y cronómetro), Free (tiempo y profundidad para quien practica apnea)
+- Gestión de 1 o 2 mezclas (aire, Nitrox y otras con O2 Max 99%). Alarma de infracción MOD, DECO STOP y exceso de velocidad de arranque. Planificador de simulación de inmersión "NDL only"
 - Seac Screen es un ordenador sumergible de pantalla amplia, legible, con contraste y brillo ajustables; Todos los datos que necesitas son visibles en un solo vistazo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

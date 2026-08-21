@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con asa y ruedas para transportarlo fácilmente
-- Conexión bluetooth 4.2
 - Múltiples entradas: aux in, usb, micro sd, micrófono
 - Sintonizador de radio fm
+- Con asa y ruedas para transportarlo fácilmente
+- Conexión bluetooth 4.2
 - Altavoz karaoke multifunción
 
 [🛒 Visítala!!!]({{< param buyurl >}})

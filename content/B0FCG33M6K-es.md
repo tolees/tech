@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- Memoria RAM DDR4-3200 MHz 32 GB (2 x 16 GB)
 - Gráficos Integrados AMD Radeon
+- Memoria RAM DDR4-3200 MHz 32 GB (2 x 16 GB)
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Procesador AMD Ryzen 7 7730U (aumento máximo del reloj de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
 - Sin sistema operativo
 

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: negro
+- Tipo de producto: teléfono celular
 - Contenido del envío: 1 unidad
 - Memoria: 64 GB
-- Tipo de producto: teléfono celular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZV9ZZKW{{</world>}}

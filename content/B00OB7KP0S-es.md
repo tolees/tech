@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El FS-7 combina las funciones de los conmutadores de pedal FS-5L (continuo) y FS-5U (momentáneo).
-- Funciona como un conmutador momentáneo sin alimentación (los LED no se iluminan sin una fuente de alimentacion de CA).
-- Conmutador de pedal doble en formato compacto.
 - Funcionamiento sin pilas ideal para pedaleras.
-- Función de conmutación continua/momentánea (común para A y B).
+- El FS-7 combina las funciones de los conmutadores de pedal FS-5L (continuo) y FS-5U (momentáneo).
+- Conmutador de pedal doble en formato compacto.
 - Activa y desactiva efectos del instrumento con el pie.
+- Funciona como un conmutador momentáneo sin alimentación (los LED no se iluminan sin una fuente de alimentacion de CA).
+- Función de conmutación continua/momentánea (común para A y B).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OB7KP0S{{</world>}}

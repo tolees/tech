@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CONECTA Y COMPARTE: Conectividad Wi-Fi y Bluetooth integradas para transferir tus fotos y vídeos sin esfuerzo a tu smartphone u ordenador. La cámara ideal para creadores de contenido.
+- OBJETIVOS CANON RF: Encuentra el objetivo perfecto para tu estilo. Compatible con objetivos Canon RF, la EOS R50 V incluye el objetivo RF-S 14-30mm F4-6.3 IS STM PZ con zoom motorizado para transiciones suaves mientras grabas, ideal para vlogs de viajes.
 - GRABACIÓN DE CALIDAD: Con sensor APS-C, modos de grabación rápida y lenta, modo de color y compatibilidad con audio de 4 canales. Esta cámara de vídeo facilita la creatividad con objetivos intercambiables Canon RF.
 - COMPATIBLE CON OBJETIVOS RF: Incluidos los RF 45mm, RF 16-28mm y RF 16mm, populares para retratos, vídeo y creación de contenido. Descubre más objetivos Canon en la tienda de Canon.
-- OBJETIVOS CANON RF: Encuentra el objetivo perfecto para tu estilo. Compatible con objetivos Canon RF, la EOS R50 V incluye el objetivo RF-S 14-30mm F4-6.3 IS STM PZ con zoom motorizado para transiciones suaves mientras grabas, ideal para vlogs de viajes.
 - CÁMARA PARA VLOGS: Con botón de grabación frontal, pantalla multiposición y rosca para trípode, ideal para grabar vídeos con facilidad. La cámara digital Canon permite retransmisiones en 4K a través de UVC, perfecta para streaming en directo.
-- CONECTA Y COMPARTE: Conectividad Wi-Fi y Bluetooth integradas para transferir tus fotos y vídeos sin esfuerzo a tu smartphone u ordenador. La cámara ideal para creadores de contenido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2LK6WH7{{</world>}}

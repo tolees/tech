@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciona con 3 x pilas aaa
 - Pmr446 juego de dispositivos inalámbricos – libre de licencia, 16 canales, pantalla lcd, easy pairing, personalizables por suministrado adhesivos
+- Funciona con 3 x pilas aaa
 - Alcance de hasta 4 km – dependiendo del terreno y de las condiciones del entorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

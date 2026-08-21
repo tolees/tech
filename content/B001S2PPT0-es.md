@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De formato DX
-- Por su reducido tamaño, es adecuado tanto para viajar como en la fotografía en la ciudad
 - El rápido diafragma de f/1.8 permite obtener resultados sumamente nítidos, incluso cuando disminuye la luz
+- Por su reducido tamaño, es adecuado tanto para viajar como en la fotografía en la ciudad
+- De formato DX
 - Un elemento de lente asférica contribuye a lograr claridad y contraste adecuadas en todo el fotograma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

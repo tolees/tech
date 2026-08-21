@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño circumaural semiabierto
-- 55 ohmios, 104 dbspl/v
 - Ancho de banda de frecuencia 15hz - 25.000 hz
 - Transductor xxl de 30.mm varimotion patentado para un gran rango dinámico
+- 55 ohmios, 104 dbspl/v
+- Diseño circumaural semiabierto
 - Cable recto de 3.m y cable en espiral de 5.m, con adaptador de 3, 5.mm a 6.mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Siete botones programables
-- Cómodo diseño simétrico
-- Fácil personalización con el software hyperx ngenuity
 - Sensor óptico pixart 3327 con hasta 6.200 ppp nativos
+- Cómodo diseño simétrico
 - Grandes patines del ratón para un deslizamiento suave y controlado
+- Fácil personalización con el software hyperx ngenuity
+- Siete botones programables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H3GFJJ2{{</world>}}

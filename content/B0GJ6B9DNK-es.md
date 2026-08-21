@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inserta una tarjeta SIM y disfruta de una conexión instantánea gestionando tu red desde la aplicación Tether.
-- Admite tanto los protocolos PoE 802.3af/802.3at como la alimnetación de corriente directa.
 - Conexión estable y fiable gracias a la protección contra la intemperie IP65, a la protección contra rayos ±6 kV y a la protección ESD ± 15 kV
-- Al conectarse a otros dispositivos Tp-Link One Mesh, crea una red Mesh que garantiza una cobertura whole-home estable y sin interrupciones.
 - Instala Archer MR402 de forma flexible en poste, pared o ventana para maximizar la recepción de la señal.
+- Al conectarse a otros dispositivos Tp-Link One Mesh, crea una red Mesh que garantiza una cobertura whole-home estable y sin interrupciones.
+- Admite tanto los protocolos PoE 802.3af/802.3at como la alimnetación de corriente directa.
+- Inserta una tarjeta SIM y disfruta de una conexión instantánea gestionando tu red desde la aplicación Tether.
 - Admite la conexión LTE con velocidades de hasta 150 Mbps en descarga y 50 Mbps de carga.
 - Hasta 867 Mbps en 5 GHz y 300 Mbps en 2,4 GHz
 

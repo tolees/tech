@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PANEL WQHD DE 27«: el PRO MP273QW E14 cuenta con un panel IPS de 27» (ángulo de visión amplio de 178°) con resolución WQHD (2560 x 1440); una alta tasa de refresco de 144 Hz (1 ms MPRT).
 - CONECTIVIDAD MÚLTIPLE: admite tres opciones de conectividad con HDMI 2.0b (2560 x 1440/144 Hz, HDMI-CEC para consolas) y DP 1.2a (2560 x 1440/144 Hz), compatible con Adaptive-Sync; incluye bloqueo Kensington.
 - REDUCCIÓN DE LA LUZ AZUL: las características certificadas por TÜV Rheinland Eye Comfort incluyen filtros Less Blue Light y tecnología Anti-Flicker; emplea un tratamiento antirreflejos en la superficie y función Eye-Q Check
 - SENCILLO PERO FLEXIBLE: el monitor incluye soportes VESA de 100 mm para montarlo en la pared o en un brazo (por ejemplo, el brazo VESA MT81 de MSI), mientras que el soporte es ergonómico y se puede ajustar la inclinación.
 - CALIDAD DE IMAGEN: el PRO MP273QW E14 admite una gama de colores sRGB superior al 135 % (6 bits + FRC, 16,7 millones de colores), un brillo de 300 nits y una alta relación de contraste de 1500:1.
+- PANEL WQHD DE 27«: el PRO MP273QW E14 cuenta con un panel IPS de 27» (ángulo de visión amplio de 178°) con resolución WQHD (2560 x 1440); una alta tasa de refresco de 144 Hz (1 ms MPRT).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096Y7MK8W{{</world>}}

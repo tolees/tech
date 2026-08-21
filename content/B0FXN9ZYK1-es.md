@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ALIMENTACIÓN DE PAPEL VERSÁTIL - Impresión automática a doble cara, cassette de 250 hojas y ranura de alimentación manual de una hoja, compatible con distintos tamaños y tipos de papel.
-- IMPRESIÓN RÁPIDA Y EFICIENTE - Imprime hasta 25 páginas por minuto en color o en blanco y negro, con una resolución de 1200 × 1200 ppp que asegura texto nítido e imágenes de gran calidad.
 - CONEXIÓN SIN INTERRUPCIONES - Imprime a través de Wi-Fi, Ethernet, USB o Wireless Direct, y es compatible con AirPrint, Mopria, Canon PRINT Business y Microsoft Universal Print.
 - SEGURIDAD AVANZADA DE DOCUMENTOS - Protege los datos confidenciales con impresión segura y cifrada, además de protocolos avanzados como TLS 1.3 e IEEE 802.1X.
+- IMPRESIÓN RÁPIDA Y EFICIENTE - Imprime hasta 25 páginas por minuto en color o en blanco y negro, con una resolución de 1200 × 1200 ppp que asegura texto nítido e imágenes de gran calidad.
 - DISEÑO COMPACTO Y EFICIENTE ENERGÉTICAMENTE - Volumen de impresión mensual recomendado de 250 a 2500 páginas, con bajo consumo energético en modo de suspensión (~1,0 W), ideal para pequeñas y medianas empresas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

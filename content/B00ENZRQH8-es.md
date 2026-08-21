@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diámetro:7.8 cm
+- Longitud:11 cm
 - Color:Negro
 - Peso:427 g
-- Longitud:11 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ENZRQH8{{</world>}}

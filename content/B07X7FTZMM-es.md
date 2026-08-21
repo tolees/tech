@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Panel antirrobo desmontable
-- Lectura de archivos flac
 - Usb frontal
+- Lectura de archivos flac
+- Panel antirrobo desmontable
 - Potencía 4x50w
 - Compatible con android
 

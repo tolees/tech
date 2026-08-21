@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Más soporte para las palmas, menos presión
+- Feel the Wave: Gana en comodidad con Wave Keys
+- Certificación ergonómica
 - Escribe cómodamente todo el día
 - Días más fluidos, a tu manera
-- Feel the Wave: Gana en comodidad con Wave Keys
-- Más soporte para las palmas, menos presión
-- Certificación ergonómica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W7JHZLB{{</world>}}

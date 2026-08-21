@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Requiere configuración
 - Producto de calidad óptima
 - Diseño moderno
-- Requiere configuración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKTGJ4PN{{</world>}}

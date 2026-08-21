@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bluetooth audio streaming for wireless playback from compatible devices (e.g., smartphone, tablet, laptop).
 - 10-inch 2-way powered PA speaker with 320W output for live sound and music playback.
+- Bluetooth audio streaming for wireless playback from compatible devices (e.g., smartphone, tablet, laptop).
 - Integrated 2-channel mixer with Mic/Line inputs, level controls and clip LEDs; includes 2-band EQ.
-- Includes line output for connecting additional speaker systems (per product design).
 - Built-in media player with display; supports playback from USB drive and SD/MMC card.
+- Includes line output for connecting additional speaker systems (per product design).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KXZHXX4{{</world>}}

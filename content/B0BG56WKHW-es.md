@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ME GUSTA EL PLANETA – fabricado con un 85 % de material reciclado para lograr un diseño todavía más sostenible que tiene en cuenta el medio ambiente
-- ÚNETE AL CLIC – ratón silencioso con PPP regulables (1000-1400-1800) para una sensibilidad precisa y un diseño ambidiestro que se adapta a los usuarios zurdos y diestros
+- SIEMPRE CONECTADO – disfruta de una experiencia de trabajo totalmente inalámbrica con una duración de las pilas de 48 meses para el teclado y 12 meses para el ratón
 - TECLEA CON COMODIDAD – teclado con reposamuñecas, teclas multimedia, resistencia a las salpicaduras y un diseño QWERTY que cuidarán de tus manos
 - Orientación de la mano: Ambidextrous
-- SIEMPRE CONECTADO – disfruta de una experiencia de trabajo totalmente inalámbrica con una duración de las pilas de 48 meses para el teclado y 12 meses para el ratón
+- ÚNETE AL CLIC – ratón silencioso con PPP regulables (1000-1400-1800) para una sensibilidad precisa y un diseño ambidiestro que se adapta a los usuarios zurdos y diestros
+- ME GUSTA EL PLANETA – fabricado con un 85 % de material reciclado para lograr un diseño todavía más sostenible que tiene en cuenta el medio ambiente
 - SILENCIO DE BIBLIOTECA» – la pulsación suave de las teclas y los botones silenciosos hacen del Trezo el combo de teclado y ratón de escritorio más silencioso que jamás hayamos fabricado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

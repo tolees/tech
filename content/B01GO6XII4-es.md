@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem MP3 Clip Bluetooth Mint 8GB Clip Radio FM y microSD'
-date: 2026-07-09 19:09:56
+date: 2026-08-20 14:43:08
 image: 'https://m.media-amazon.com/images/I/31kNjy1OX1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GO6XII4/?tag=tolees-21'
 descuento: '15.00'
-average: '30.2075'
+average: '31.4683333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

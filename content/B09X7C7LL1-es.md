@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 0
-- 0
 - SanDisk Extreme 64 GB MicroSDXC UHS-I Class 10
+- 0
 - 0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

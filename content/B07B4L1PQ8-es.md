@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Seguimiento en tiempo real y Eye AF (personas / animales) para mantener tu sujeto nítido en cualquier situación. La última actualización de software añade compatibilidad Eye AF en tiempo real para animales
-- La caja incluye la cámara Alpha 7 III, una batería Z, un cargador y una correa.
-- El sensor Exmor R BSI CMOS de 24 Mp combinado con capacidades ISO altas ofrecen una imagen óptima incluso con poca luz
-- Grabación de vídeos 4K HDR de alta resolución, estabilización de imagen óptica de 5 ejes para imágenes fijas y para compensar los movimientos de la cámara en vídeo
 - Compatible con batería Z de gran capacidad, para sesiones de disparo continuas
+- Grabación de vídeos 4K HDR de alta resolución, estabilización de imagen óptica de 5 ejes para imágenes fijas y para compensar los movimientos de la cámara en vídeo
+- El sensor Exmor R BSI CMOS de 24 Mp combinado con capacidades ISO altas ofrecen una imagen óptima incluso con poca luz
+- La caja incluye la cámara Alpha 7 III, una batería Z, un cargador y una correa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B4L1PQ8{{</world>}}

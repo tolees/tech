@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo Gaming: Desactivación de la tecla WindowsCompatible: Windows 10 / 8 / 7 / VistaPeso: 1300 grPie: ABS+TPR
-- Material Metal Interno: SPCCVoltaje: 4.75V +/- 10%Memoria Interna: 64 KB en memoria internaNkey Rollover: 104 teclas (anti-ghost)
-- HUB & Audio: USB, Micrófono & Auriculares 3,5 mm jackRetroiluminación: RGB con 16,8 Millones de colores y efectos de iluminación
-- LAYOUT AMERICANO - Teclado: 104 teclas Cherry Switch Teclado MecánicoTamaño: 34.30 x 441 x 135.70 mmLongitud del cable: 1.5 cable
 - Macros: Infinitas macros via softwareTeclas Macro: Todas (6 señalizadas por defecto)Cambio de Perfil: 5 perfiles via software
+- HUB & Audio: USB, Micrófono & Auriculares 3,5 mm jackRetroiluminación: RGB con 16,8 Millones de colores y efectos de iluminación
+- Modo Gaming: Desactivación de la tecla WindowsCompatible: Windows 10 / 8 / 7 / VistaPeso: 1300 grPie: ABS+TPR
 - Las imágenes puede que no coincidan con el layout del producto
+- LAYOUT AMERICANO - Teclado: 104 teclas Cherry Switch Teclado MecánicoTamaño: 34.30 x 441 x 135.70 mmLongitud del cable: 1.5 cable
+- Material Metal Interno: SPCCVoltaje: 4.75V +/- 10%Memoria Interna: 64 KB en memoria internaNkey Rollover: 104 teclas (anti-ghost)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XBBLTNF{{</world>}}

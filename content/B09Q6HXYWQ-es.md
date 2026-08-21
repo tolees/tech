@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El socket LGA1700 ofrece compatibilidad para los nuevos procesadores de 12ª Gen Intel Core, Pentium Gold y Celeron, aprovecha su enorme potencial y crea tu ordenador profesional
 - Conectividad ilimitada con compatibilidad con PCIe 4.0, HDMI 2.1 y Displayport 1.4. Gracias a sus dos ranuras M.2 y al USB 3.2 Gen 1, podrá cargar y transferir datos a gran velocidad
 - Las dos ranuras DDR4 admiten hasta 64 GB de RAM totales, lo que garantiza que el sistema funcione sin molestar la velocidad
 - El puerto LAN Intel de 1 Gbps ofrece una conectividad rápida y fiable para una navegación fluida y sin interrupciones
+- El socket LGA1700 ofrece compatibilidad para los nuevos procesadores de 12ª Gen Intel Core, Pentium Gold y Celeron, aprovecha su enorme potencial y crea tu ordenador profesional
 - ASUS El modelo Stable Model (CSM) está diseñado para proporcionar placas base fiables, ofrece soporte durante todo el ciclo de vida del producto (hasta 36 meses) y te avisa 6 meses antes de que transcurra un posible cambio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tecnología verde ethernet ahorra consumo de energía
-- [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
 - [Switch gigabit de 8 puertos] - 8 puertos RJ45 10/100/1000Mbps con detección automática de velocidad, soporte para MDI/MDIX automático
+- [Enchufar y listo] - Sin ninguna configuración adicional. Las funcionalidades automáticas de este switch Gigabit posibilitan una instalación Plug and Play sin complicaciones. No es necesaria ninguna configuración.
 - Carcasa de metal, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
 - 802.1p y qos dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el igmp snooping optimiza el flujo de datos multicast
 

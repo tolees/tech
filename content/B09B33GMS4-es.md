@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Procesador MediaTek Kompanio 540 (8C/OctaCore 2 / 2.6GHz, 1MB)
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
 - Sistema Operativo: ChromeOS
 - Memoria RAM de 4GB en placa LPDDR5x
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
-- Tarjeta gráfica integrada ARM Mali-G57 MC2
-- Procesador MediaTek Kompanio 540 (8C/OctaCore 2 / 2.6GHz, 1MB)
 - Almacenamiento de 128GB eMMC
+- Tarjeta gráfica integrada ARM Mali-G57 MC2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09B33GMS4{{</world>}}

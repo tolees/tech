@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Conectividad moderna: compatible con Bluetooth 5.3 y NFC para un emparejamiento rápido y sin problemas.
 - Batería de larga duración: hasta 11 horas de reproducción de música con una sola carga.
 - Duradera y resistente al agua: certificado IP67, ideal para actividades al aire libre y resistente al polvo y al agua.
-- Potente sonido: 6 W de potencia de salida con sonido de 360° para una experiencia de audio impresionante.
 - Diseño portátil: compacto y ligero con iluminación RGB para viajes.
+- Potente sonido: 6 W de potencia de salida con sonido de 360° para una experiencia de audio impresionante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBK4RR4C{{</world>}}

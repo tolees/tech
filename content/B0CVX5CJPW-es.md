@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Batería de larga duración】 El limpiador de oídos cuenta con un puerto de carga tipo C y se puede cargar y reutilizar. La batería tiene una capacidad de 240 mAh y dura de forma continua tras la primera carga completa. El otoscopio cuenta con wifi y es compatible con sistemas iOS/Android, por lo que se integra perfectamente con su dispositivo inteligente.
-- 【Sistema Ágil】El kit de extracción de cerumen está equipado con un sensor de gravedad de 6 ejes, 6 luces LED y una cámara de alta definición de 1080P con rotación de 360 ​​grados. Cualquier ángulo del canal auditivo es claramente visible, y la limpieza del cerumen es eficiente y cómoda, sin presión visual.
+- 【Limpieza eficiente】El otoscopio tiene una lente impermeable IP67 con partes metálicas, que se pueden limpiar con agua o con un algodón con alcohol después de su uso. Las limpiezas múltiples son muy eficientes. Tenga en cuenta que el cuerpo no es impermeable. No sumerja todo el otoscopio en agua durante la limpieza.
 - 【Ampliamente utilizado】El otoscopio es compatible con la limpieza del canal auditivo de adultos, niños y mascotas. Un otoscopio puede ayudarle a limpiar el canal auditivo, la garganta, la nariz y la piel. (Marca) Otoscopio lo anima a utilizar el otoscopio todos los días para brindarle una calidad de vida saludable.
 - 【Fácil manejo】 La aplicación profesional "Soulear" y el otoscopio WiFi no requieren contraseña ni ID de inicio de sesión. Permiten visualizar la batería, tomar fotos, grabar videos y mostrar en modo retrato. El manual de instrucciones del otoscopio le ayudará a superar con seguridad su etapa inicial.
-- 【Limpieza eficiente】El otoscopio tiene una lente impermeable IP67 con partes metálicas, que se pueden limpiar con agua o con un algodón con alcohol después de su uso. Las limpiezas múltiples son muy eficientes. Tenga en cuenta que el cuerpo no es impermeable. No sumerja todo el otoscopio en agua durante la limpieza.
+- 【Sistema Ágil】El kit de extracción de cerumen está equipado con un sensor de gravedad de 6 ejes, 6 luces LED y una cámara de alta definición de 1080P con rotación de 360 ​​grados. Cualquier ángulo del canal auditivo es claramente visible, y la limpieza del cerumen es eficiente y cómoda, sin presión visual.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVX5CJPW{{</world>}}

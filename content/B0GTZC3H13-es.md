@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - ASPAS RETRÁCTILES E ILUMINACIÓN CCT: Las 4 aspas de ABS se ocultan automáticamente cuando el ventilador se apaga, convirtiéndose en una moderna lámpara de techo. Incluye luz LED de 30W/54W con tres tonalidades (Cálida, Neutra, Fría) para crear el ambiente perfecto en cada estancia.
 - MOTOR DC ULTRA SILENCIOSO Y EFICIENTE: Equipado con tecnología de corriente continua que garantiza un flujo de aire potente con un nivel sonoro mínimo (20-39 dB). Disfruta de un descanso ininterrumpido mientras ahorras en tu factura eléctrica gracias a su bajo consumo de hasta 28W en máxima potencia.
 - SISTEMA DE DOBLE FLUJO VERANO/INVIERNO: Mejora el confort climático durante todo el año. El modo verano refresca la habitación mediante aire descendente, mientras que el modo invierno recircula el calor acumulado en el techo, optimizando el rendimiento de tu calefacción.
-- 6 VELOCIDADES Y TEMPORIZADOR PROGRAMABLE: Personaliza tu experiencia con 6 niveles de intensidad y programa el apagado automático (2h/4h) desde su mando a distancia ergonómico. Instalación sencilla en superficie con todos los accesorios de montaje incluidos.
 - ASPAS RETRÁCTILES E ILUMINACIÓN CCT: Las 4 aspas de ABS se ocultan automáticamente cuando el ventilador se apaga, convirtiéndose en una moderna lámpara de techo. Incluye luz LED de 30W/54W con tres tonalidades (Cálida, Neutra, Fría) para crear el ambiente perfecto en cada estancia.
+- 6 VELOCIDADES Y TEMPORIZADOR PROGRAMABLE: Personaliza tu experiencia con 6 niveles de intensidad y programa el apagado automático (2h/4h) desde su mando a distancia ergonómico. Instalación sencilla en superficie con todos los accesorios de montaje incluidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GTZC3H13{{</world>}}

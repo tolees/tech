@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 28 botones de “aplicaciones” que activan la música y las luces al pulsarlos
 - Luces de colores que bailan al ritmo de la música.
 - Tableta de juguete interactiva con luces y más de 100canciones, sonidos y frases
 - Este juguete ayuda a bebés, niños y niñas de entre 1 y 3 años a desarrollar la motricidad fina, les enseña la relación de causa y efecto, y fomenta los juegos de imitación desde una edad temprana
+- 28 botones de “aplicaciones” que activan la música y las luces al pulsarlos
 - Los 3 niveles Smart Stages crecen junto con el bebé y le ayudan a aprender el abecedario, los objetos conocidos y los colores en castellano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

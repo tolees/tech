@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato 1L adecuado tanto para servir en raciones individuales como para su uso en reposteria
 - El aútentico chocolate RAM a la taza de siempre con un toque de sabor a galleta caramelizada
+- Formato 1L adecuado tanto para servir en raciones individuales como para su uso en reposteria
 - Producto lácteo UHT con Chocolate
 - Ideal para desayunos y meriendas así como, para la preparación de postres
 - Producto listo para tomar

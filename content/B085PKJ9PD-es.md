@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bordado resistente al desgaste
+- Creada para que tu ratón vuele
 - Base de goma roja antideslizante
 - Con espacio para todos tus equipos gaming
-- Creada para que tu ratón vuele
-- Bordado resistente al desgaste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B085PKJ9PD{{</world>}}

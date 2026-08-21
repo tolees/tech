@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LISTO PARA RESPONDER - Con un modo "Always-On" personalizado por el firmware, este disco duro externo portátil está listo para la acción tan pronto como usted lo esté, lo que significa que puede pasar menos tiempo esperando y más tiempo ganando
-- DISEÑO ELEVADO Y PORTÁTIL: con su elegante acabado en negro y su carcasa delgada y ligera, el disco duro para juegos Canvio es ideal para los jugadores que desean llevar su colección consigo en cualquier lugar sin renunciar al estilo
 - PERSONALIZADO PARA EL JUEGO - El disco duro Canvio Gaming es compatible con la mayoría de las consolas PlayStation, Xbox y PC, ofreciendo una experiencia de juego óptima y accesible para todos, simplemente conéctalo y juega
+- DISEÑO ELEVADO Y PORTÁTIL: con su elegante acabado en negro y su carcasa delgada y ligera, el disco duro para juegos Canvio es ideal para los jugadores que desean llevar su colección consigo en cualquier lugar sin renunciar al estilo
+- LISTO PARA RESPONDER - Con un modo "Always-On" personalizado por el firmware, este disco duro externo portátil está listo para la acción tan pronto como usted lo esté, lo que significa que puede pasar menos tiempo esperando y más tiempo ganando
 - HECHO PARA LOS JUGADORES: la tecnología USB 3.2 Gen 1 le permite conectar su disco duro portátil a la mayoría de las consolas compatibles y compartir su biblioteca con sus amigos más rápido que nunca, sin más límites
 - ALMACENAMIENTO ESCALABLE: amplíe su biblioteca de juegos con este disco duro externo que incluye capacidades de hasta 4 TB y almacena hasta 100 juegos, lo que significa que puede descargar los últimos lanzamientos sin sacrificar sus favoritos
 

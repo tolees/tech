@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento de flúor para mayor resistencia al polvo y a la humedad
-- AF de alta velocidad compatible para video
-- Anillo de control
 - Diseño compacto para una alta calidad de imagen
+- Anillo de control
+- AF de alta velocidad compatible para video
+- Revestimiento de flúor para mayor resistencia al polvo y a la humedad
 - Reduce el velo óptico y luces parásitas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

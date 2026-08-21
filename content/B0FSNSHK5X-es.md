@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño ergonómico: Ajustes de inclinación
-- Tasa de refresco de 240Hz, tiempo de respuesta de 1ms
 - Panel IPS SuperSpeed de 24.5 pulgadas con resolución FHD
+- Tasa de refresco de 240Hz, tiempo de respuesta de 1ms
 - Soporta AMD FreeSync Premium, HDR Listo, Eyesafe 2.0
 - Saturación de color: 120% sRGB
 

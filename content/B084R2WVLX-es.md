@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 productos destacados Oneliner_es
 - 1 producto destacado Oneliner_es
 - 4 productos destacados Oneliner_es
 - 3 productos destacados Oneliner_es
+- 2 productos destacados Oneliner_es
 - 5 productos destacados Oneliner_es
 
 [🛒 Visítala!!!]({{< param buyurl >}})

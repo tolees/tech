@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
-- Doble lente 2K (3MP + 3MP) – Supervisa dos zonas a la vez con máxima claridad y sin puntos ciegos.
-- Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
 - Gran angular + teleobjetivo – Campo de visión de 122° y zoom digital para capturar todos los detalles.
+- Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
 - Visión nocturna IR hasta 12 m – Imágenes claras incluso en completa oscuridad.
+- Doble lente 2K (3MP + 3MP) – Supervisa dos zonas a la vez con máxima claridad y sin puntos ciegos.
 - Detección IA gratuita – Identifica personas, mascotas, vehículos y llanto de bebé sin suscripción.
+- Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GVKDWMTF{{</world>}}

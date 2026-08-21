@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - OPCIONES DE MONTAJE FLEXIBLES: el diseño metálico compacto permite la colocación sobre escritorio, en pared o en rack para una instalación versátil.
-- FUNCIONAMIENTO SILENCIOSO Y EFICIENTE ENERGÉTICAMENTE: el diseño sin ventilador garantiza un funcionamiento silencioso, mientras que la tecnología IEEE 802.3az Energy Efficient Ethernet reduce el consumo de energía sin comprometer el rendimiento de red de alta velocidad.
 - PLUG-AND-PLAY: Instalación sencilla sin necesidad de usar software ni configuración
 - PUERTOS ETHERNET GIGABIT: ofrece 8 puertos Ethernet de 1.0Gbps para una conectividad de alta velocidad. Los puertos de negociación automática detectan la velocidad óptima de los dispositivos conectados y son compatibles con los cables Ethernet Cat5e o Cat6 existentes.
 - CONMUTADOR DE RED NO GESTIONADO PLUG-AND-PLAY: configuración sencilla plug-and-play, sin necesidad de instalar software ni configuración.
+- FUNCIONAMIENTO SILENCIOSO Y EFICIENTE ENERGÉTICAMENTE: el diseño sin ventilador garantiza un funcionamiento silencioso, mientras que la tecnología IEEE 802.3az Energy Efficient Ethernet reduce el consumo de energía sin comprometer el rendimiento de red de alta velocidad.
 - POWER-OVER-ETHERNET (PoE): incluye 8 puertos PoE+ con un presupuesto de energía total de 60W para alimentar dispositivos de alto consumo, ampliable a 123W con un módulo de alimentación adicional de venta por separado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

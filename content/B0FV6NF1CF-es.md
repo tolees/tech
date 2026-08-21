@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporta DisplayHDR 400, FreeSync Premium y Compatible con G-SYNC
-- Tecnología Quantum Dot
-- Frecuencia de actualización de 200Hz (OC 210Hz), tiempo de respuesta de 1ms
-- Control KVM multiplataforma
-- Color: profundidad de color de 10 bits con 99% de gama de colores DCI-P3 / 83% de gama de colores BT.2020
 - Diseño ergonómico: ajustes de inclinación, giro, pivote y altura
+- Soporta DisplayHDR 400, FreeSync Premium y Compatible con G-SYNC
+- Control KVM multiplataforma
+- Frecuencia de actualización de 200Hz (OC 210Hz), tiempo de respuesta de 1ms
+- Color: profundidad de color de 10 bits con 99% de gama de colores DCI-P3 / 83% de gama de colores BT.2020
 - Panel IPS SuperSpeed de 27 pulgadas con resolución QHD
+- Tecnología Quantum Dot
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FV6NF1CF{{</world>}}

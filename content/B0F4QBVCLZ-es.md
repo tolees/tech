@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lista completa del kit de oficina: Español (US) QWERTY Teclado con cable USB, ratón con cable USB, incluido con adaptador de alimentación y cable, además de un manual de usuario completo para guiarlo a través del proceso de configuración.
-- Multitarea y almacenamiento: 16GB de RAM DDR4 y un SSD rápido de 256GB, disfrutará de una multitarea sin retrasos, ya sea que esté manejando proyectos de trabajo, almacenando archivos grandes o accediendo rápidamente a aplicaciones. Esta combinación garantiza tiempos de carga más rápidos, una mayor capacidad de respuesta y una eficiencia general mejorada.
 - Parámetros de rendimiento incomparables: escritorio SZTPS todo en un PC con procesador i5-12450H de 8 núcleos, caché de 12M, velocidad de hasta 4,40 GHz, computadora Windows 11 Pro ofrece velocidad excepcional y capacidades multitarea, manejo sin esfuerzo.
+- Multitarea y almacenamiento: 16GB de RAM DDR4 y un SSD rápido de 256GB, disfrutará de una multitarea sin retrasos, ya sea que esté manejando proyectos de trabajo, almacenando archivos grandes o accediendo rápidamente a aplicaciones. Esta combinación garantiza tiempos de carga más rápidos, una mayor capacidad de respuesta y una eficiencia general mejorada.
 - Equipado con 4 puertos USB 3.0, 2 puertos USB 2.0, VGA, HDMI y conectores de audio estándar de 3,5 mm, RJ145 admite la transmisión de datos Ethernet, Dualwifi 6 (2.4G & 5G) bluetooth 5.0 puede conectar fácilmente múltiples dispositivos, monitores externos o dispositivos de red, este PC AIO lo ha cubierto.
 - Full HD IPS Display: 23.8" 16:9 Full HD 1920 x 1080 pantalla, proporciona imágenes cristalinas y colores realistas, lo que lo hace ideal para la oficina en casa, el trabajo remoto, los juegos y la productividad empresarial.
 

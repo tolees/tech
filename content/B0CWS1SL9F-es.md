@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En color azul
 - Teléfono celular
+- En color azul
 - Requiere configuración
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La amplia conectividad incluye Thunderbolt 4, HDMI 2.1, USB 3.2 Gen 2 y cabezales USB 2.0 internos
 - Equipado con procesador Intel Core Ultra 5
-- Módulos SODIMM DDR5-5600 MHz de doble canal, 96 GB máx
+- La amplia conectividad incluye Thunderbolt 4, HDMI 2.1, USB 3.2 Gen 2 y cabezales USB 2.0 internos
 - Ranura M.2 22x80 llave M para SSD PCIe x4 Gen 4 NVMe
+- Módulos SODIMM DDR5-5600 MHz de doble canal, 96 GB máx
 - Intel Wi-Fi 6E AX211 (vPro y no vPro), compatible con 802.11ax y Bluetooth 5.3 mediante antenas internas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

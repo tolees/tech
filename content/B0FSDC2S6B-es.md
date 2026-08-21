@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tasa de refresco de 280Hz, tiempo de respuesta de 0.03ms
-- Soporta VESA DisplayHDR True Black 500, AMD FreeSync Premium Pro, Compatible con NVIDIA G-Sync y Eyesafe 3.0
 - Control KVM multiplataforma
-- Diseño ergonómico: Ajustes de altura, inclinación, giro y pivote
+- Tasa de refresco de 280Hz, tiempo de respuesta de 0.03ms
 - Panel WOLED de 27 pulgadas con resolución QHD de 2560x1440
-- Pantalla de 10 bits con 99.5% de color DCI-P3 y 84% BT 2020
 - Diseño sin bordes en los cuatro lados
+- Pantalla de 10 bits con 99.5% de color DCI-P3 y 84% BT 2020
+- Soporta VESA DisplayHDR True Black 500, AMD FreeSync Premium Pro, Compatible con NVIDIA G-Sync y Eyesafe 3.0
+- Diseño ergonómico: Ajustes de altura, inclinación, giro y pivote
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSDC2S6B{{</world>}}

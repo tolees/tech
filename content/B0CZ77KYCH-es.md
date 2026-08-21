@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conectividad: HDMI, DP
-- Brillo: 300 cd/m2
 - Pantalla: 23.8 pulgadas, WLED, IPS, FHD
+- Brillo: 300 cd/m2
+- Conectividad: HDMI, DP
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ77KYCH{{</world>}}

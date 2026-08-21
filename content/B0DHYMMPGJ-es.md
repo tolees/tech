@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Comodidad superior: El Model I 2 Wired ofrece una comodidad excepcional con su diseño ergonómico, su reposapulgares exclusivo y su construcción ultraligera. Brinda una experiencia gaming sin par con la que te sentirás en las nubes y resulta idóneo para el agarre de garra o con la palma de la mano.
+- Peso ultraligero: Con sus apenas 66 gramos de peso, este ratón asombra por su ligereza, lo que le garantiza una velocidad vertiginosa y una maniobrabilidad inigualable, además de la agilidad necesaria para superar a tus adversarios. Su cable Ascended ultraflexible está hecho con un material paracord ligero para que la experiencia al usar este ratón con cable sea casi inalámbrica.
+- Botones personalizables: Los 9 botones son todos programables, lo que te permite asignarles acciones en los juegos, macros personalizadas y funciones que mejoren tu partida. Se pueden intercambiar dos de sus botones laterales con las formas alternativas incluidas para personalizar aún más el teclado a tu estilo de juego.
 - Funciones para mejorar la partida: El Model I 2 Wired cuenta con funciones para mejorar la partida, como DPI Shift y Layer Shift, que permite ajustar al instante la sensibilidad y desbloquear una segunda capa programable con más opciones de personalización.
 - Sensor óptico rapidísimo: Disfruta de un excepcional seguimiento de píxeles excepcional y una tecnología de sincronización de movimiento innovadora con el sensor óptico BAMF 2.0 26K. Con él, jamás fallarás un tiro y sentirás una precisión y reactividad sin igual.
-- Botones personalizables: Los 9 botones son todos programables, lo que te permite asignarles acciones en los juegos, macros personalizadas y funciones que mejoren tu partida. Se pueden intercambiar dos de sus botones laterales con las formas alternativas incluidas para personalizar aún más el teclado a tu estilo de juego.
-- Peso ultraligero: Con sus apenas 66 gramos de peso, este ratón asombra por su ligereza, lo que le garantiza una velocidad vertiginosa y una maniobrabilidad inigualable, además de la agilidad necesaria para superar a tus adversarios. Su cable Ascended ultraflexible está hecho con un material paracord ligero para que la experiencia al usar este ratón con cable sea casi inalámbrica.
-- Comodidad superior: El Model I 2 Wired ofrece una comodidad excepcional con su diseño ergonómico, su reposapulgares exclusivo y su construcción ultraligera. Brinda una experiencia gaming sin par con la que te sentirás en las nubes y resulta idóneo para el agarre de garra o con la palma de la mano.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHYMMPGJ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones
 - Amortiguación óptima para correr
+- Cierre con cordones
 - Ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

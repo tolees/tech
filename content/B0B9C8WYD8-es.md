@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 💦 PROTEGIDOS ANTE LA LLUVIA: Cuenta con protección IPX4, lo que permite su uso hasta en días de Temporal. Auriculares Inalámbricos Deportivos Perfectos para Correr, Ir en Bici, y para quedarse en Casa.
-- 😮 ¡SOLO PESAN 3,8 GRAMOS!: Son nuestro modelo más pequeño y ligero, siguiendo la línea de nuestros diseños Gumy Mini. Se sienten Livianos incluso en Usos Prolongados.
-- 🔋 BATERÍA PARA TODO EL DÍA: Mayor Duración de Batería pese a su bajo Peso. Los Auriculares tienen una Autonomía aproximada de 7,5h, y la Caja de Carga de 15,5h. En total, 23 Horas de Sonido de Calidad.
-- 🎶 TU MÚSICA, COMO NUNCA: Pese a su pequeño Tamaño, cuenta con un Imán Conductor de Neodimio que Reproduce el Sonido con Calidad y Claridad excepcionales.
 - 🎹 Y TAMBIÉN... A TU MANERA: Cuentan con 3 modos de Sonido. Normal, Limpio (para Oír Voces con mayor claridad, p.e durante Llamadas) y Refuerzo de Graves​. El Modo se Cambia con un Toque en el Auricular.
+- 🎶 TU MÚSICA, COMO NUNCA: Pese a su pequeño Tamaño, cuenta con un Imán Conductor de Neodimio que Reproduce el Sonido con Calidad y Claridad excepcionales.
+- 🔋 BATERÍA PARA TODO EL DÍA: Mayor Duración de Batería pese a su bajo Peso. Los Auriculares tienen una Autonomía aproximada de 7,5h, y la Caja de Carga de 15,5h. En total, 23 Horas de Sonido de Calidad.
+- 😮 ¡SOLO PESAN 3,8 GRAMOS!: Son nuestro modelo más pequeño y ligero, siguiendo la línea de nuestros diseños Gumy Mini. Se sienten Livianos incluso en Usos Prolongados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9C8WYD8{{</world>}}

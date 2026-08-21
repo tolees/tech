@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sistema de enfoque multiple
 - Revestimiento de arneo
-- Zoom 24-120 mm
-- Diafragma fijo F/4
 - Calidad S-LINE
+- Diafragma fijo F/4
+- Zoom 24-120 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KLKHV6D{{</world>}}

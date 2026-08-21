@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de litio recargable mediante cable USB tipo C incluido, garantizando una fácil recarga.
-- Sensor de alto rendimiento con DPI ajustable (800/1200/1800/2400) y instalación "Plug and Play" para una configuración rápida y sin complicaciones.
 - Diseño ergonómico vertical que reduce la fatiga de la muñeca al usar el ratón durante mucho tiempo.
-- Dos botones de pulgar dedicados para navegación hacia atrás y hacia adelante, mejorando la eficiencia del usuario.
 - Botones silenciosos que reducen los sonidos de clic al menos un 95%, proporcionando una experiencia de uso discreta.
+- Batería de litio recargable mediante cable USB tipo C incluido, garantizando una fácil recarga.
+- Dos botones de pulgar dedicados para navegación hacia atrás y hacia adelante, mejorando la eficiencia del usuario.
+- Sensor de alto rendimiento con DPI ajustable (800/1200/1800/2400) y instalación "Plug and Play" para una configuración rápida y sin complicaciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWPFBKCS{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Si eres un apasionado de la informática y la electrónica , te gusta estar a la última en tecnología y no perderte detalle!
 - Color: multicolor
+- Medidas: 12 x 18 x 5 centímetros
 - Referencia: S7822511
 - Smartphone de la marca Vivo
-- Medidas: 12 x 18 x 5 centímetros
+- ¡Si eres un apasionado de la informática y la electrónica , te gusta estar a la última en tecnología y no perderte detalle!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WFPLTX8{{</world>}}

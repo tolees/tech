@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Varios idiomas (italiano, inglés, francés, alemán, español, portugués, griego, holandés)
-- producto 2: Disipación de potencia 3.5W
-- producto 1: Instrucciones y tutoriales en el sitio web de Vimar
-- producto 1: Ampliables: a cada pulsador de llamada se pueden asociar hasta 3 pantallas
-- producto 2: Temperatura de funcionamiento -5°C +35°C (interior)
 - producto 2: Fuente de alimentación Vimar 40103 para videoporteros con salida de 24V
+- producto 2: Disipación de potencia 3.5W
 - producto 2: Consumo máximo 0.8A
+- producto 1: Varios idiomas (italiano, inglés, francés, alemán, español, portugués, griego, holandés)
+- producto 1: Ampliables: a cada pulsador de llamada se pueden asociar hasta 3 pantallas
+- producto 1: Instrucciones y tutoriales en el sitio web de Vimar
+- producto 2: Temperatura de funcionamiento -5°C +35°C (interior)
 - producto 1: Los kits están listos para su uso, no requieren una programación especial; distancia máxima entre la placa y la última pantalla: hasta 100 m con 1 mm2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

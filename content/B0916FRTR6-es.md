@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resistente a la lluvia (IPX4)
 - Control remoto y micrófono para smartphones, control de un botón
-- Duración de la batería: hasta 15 horas
 - Compatible con iOS, Android y Windows
 - Bluetooth 5.0 Clase 1
+- Duración de la batería: hasta 15 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0916FRTR6{{</world>}}

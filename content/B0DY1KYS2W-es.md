@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con todos los DAW líderes
-- Controlador MIDI inalámbrico y compacto
-- Batería de larga duración: hasta 16 horas de reproducción
 - Conexión MIDI inalámbrica a través de Bluetooth
+- Batería de larga duración: hasta 16 horas de reproducción
+- Controlador MIDI inalámbrico y compacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DY1KYS2W{{</world>}}

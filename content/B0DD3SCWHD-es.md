@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【EPOMAKER X Aula F65】Diseño del 65 % con 68 teclas, ideal para espacios reducidos en el escritorio y estilo minimalista. Ruido reducido y sonido "grueso" muy satisfactorio gracias a la estructura de juntas con amortiguación.
-- 【Flexible, táctil y estable】Placa de PC de corte flexible extra suave y flexible, para una escritura suave y táctil. Estabilizadores finamente ajustados y lubricados, para eliminar el ruido metálico no deseado.
-- 【Conexión duradera】Adaptable a cualquier escenario, con BT, modo inalámbrico 2.4G y USB-C. Gran batería de 4000 mAh, lo que garantiza que F65 siempre esté listo para que comiences a jugar.
+- 【Ultra sensible】Cada pulsación de tecla se ilumina vívidamente y responde rápidamente, con una tasa de sondeo de 1000 Hz y retroiluminación RGB por tecla. Un rico espectro de 16,8 millones de colores, para efectos de luz dinámicos programables.
 - 【Dominio acústico】Rico, cremoso y sin ruido. Repleto de Poron, IXPE y silicona que absorben los golpes y el ruido, y la almohadilla PET para mejorar el sonido.
 - 【Teclado personalizado】Adapta la experiencia de escritura a tus preferencias personales, con interruptores mecánicos intercambiables en caliente, teclas PBT y software de programación.
-- 【Ultra sensible】Cada pulsación de tecla se ilumina vívidamente y responde rápidamente, con una tasa de sondeo de 1000 Hz y retroiluminación RGB por tecla. Un rico espectro de 16,8 millones de colores, para efectos de luz dinámicos programables.
+- 【Flexible, táctil y estable】Placa de PC de corte flexible extra suave y flexible, para una escritura suave y táctil. Estabilizadores finamente ajustados y lubricados, para eliminar el ruido metálico no deseado.
+- 【Conexión duradera】Adaptable a cualquier escenario, con BT, modo inalámbrico 2.4G y USB-C. Gran batería de 4000 mAh, lo que garantiza que F65 siempre esté listo para que comiences a jugar.
+- 【EPOMAKER X Aula F65】Diseño del 65 % con 68 teclas, ideal para espacios reducidos en el escritorio y estilo minimalista. Ruido reducido y sonido "grueso" muy satisfactorio gracias a la estructura de juntas con amortiguación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DD3SCWHD{{</world>}}

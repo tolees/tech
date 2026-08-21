@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Televisor hogareño
 - Ofrece sonido e imagen
 - Smart TV Toshiba 43QV3463DG 4K Ultra HD 43" QLED
+- Televisor hogareño
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DG36C62Y{{</world>}}

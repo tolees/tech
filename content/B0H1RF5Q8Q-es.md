@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistencia y seguridad: IP68 protege contra salpicaduras, lluvia y polvo. El sensor de huellas bajo la pantalla y el reconocimiento facial ofrecen acceso rápido y seguro, ideal para el día a día.
 - Cámara versátil: La cámara principal de 50MP con OIS de 2 ejes evita fotos movidas. El selfie ultra gran angular de 50MP encaja a todos, y el lente trasero de 118° amplía su creatividad. Grabe vídeo 4K con estabilización.
-- Rendimiento ágil: El procesador MediaTek Dimensity 7300 octa‑núcleo con 8GB de RAM LPDDR4X maneja multitarea y aplicaciones exigentes con soltura. Almacenamiento UFS 3.1 de 256GB ampliable para todos sus archivos.
 - Batería duradera: La batería de 6500mAh le acompaña en largas sesiones de juego, streaming y tareas diarias. La carga rápida 45W SUPERVOOC carga al 100% en unos 84 minutos, reduciendo tiempos de espera.
+- Rendimiento ágil: El procesador MediaTek Dimensity 7300 octa‑núcleo con 8GB de RAM LPDDR4X maneja multitarea y aplicaciones exigentes con soltura. Almacenamiento UFS 3.1 de 256GB ampliable para todos sus archivos.
+- Resistencia y seguridad: IP68 protege contra salpicaduras, lluvia y polvo. El sensor de huellas bajo la pantalla y el reconocimiento facial ofrecen acceso rápido y seguro, ideal para el día a día.
 - Pantalla impresionante: El panel AMOLED Crystal Guard de 6,57 pulgadas ofrece resolución FHD+ y 120Hz fluidos. Con 1400 nits de brillo máximo y 10 bits de color, las imágenes se ven nítidas incluso bajo el sol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

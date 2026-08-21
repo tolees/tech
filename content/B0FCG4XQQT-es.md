@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM DDR5-3200 MHz 16 GB (2 x 8 GB)
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- Windows 11 Home
-- Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
 - Gráficos Integrados AMD Radeon
+- Windows 11 Home
+- Memoria RAM DDR5-3200 MHz 16 GB (2 x 8 GB)
+- Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCG4XQQT{{</world>}}

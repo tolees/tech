@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este ratón inalámbrico cabe perfectamente en cualquier bolso o bolsillo, ya que ocupa menos que una tarjeta de crédito al plegarlo
 - Para apagar el ratón solo tienes que cerrarlo; es perfecto para realizar tareas justo cuando lo necesitas
-- Desliza para convertirlo en un ratón de tamaño mediano completamente funcional, con 2 botones laterales y un botón de velocidad ppp (hasta 2400 ppp)
 - Conexión inalámbrica a través del microrreceptor USB-C de 2,4 GHz almacenable magnéticamente
 - Batería recargable integrada, con autonomía de hasta 5 meses de uso continuado; sigue trabajando mientras se carga gracias al cable de carga USB-C-C incluido
+- Este ratón inalámbrico cabe perfectamente en cualquier bolso o bolsillo, ya que ocupa menos que una tarjeta de crédito al plegarlo
+- Desliza para convertirlo en un ratón de tamaño mediano completamente funcional, con 2 botones laterales y un botón de velocidad ppp (hasta 2400 ppp)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GH8R846R{{</world>}}

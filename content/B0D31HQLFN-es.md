@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control Preciso y versatilidad en la cocina: Interfaz de usuario Basic UX con pantalla LED y mandos giratorios para un control preciso de la temperatura y modos de cocción ajustables a +/- 1ºC, hasta 12 funciones de cocción diferentes.
-- Dimensiones Producto (Al.xAn.xFn.): 59,5 x 59,5 x 56,8 cm
-- Eficiencia Energética: Clase A++, optimiza el consumo de energía sin comprometer la calidad de cocción.
 - Conectividad Avanzada: Controla tu horno desde cualquier lugar con conexión Wi-Fi y Bluetooth, integración con la app hOn.
+- Dimensiones Producto (Al.xAn.xFn.): 59,5 x 59,5 x 56,8 cm
+- Control Preciso y versatilidad en la cocina: Interfaz de usuario Basic UX con pantalla LED y mandos giratorios para un control preciso de la temperatura y modos de cocción ajustables a +/- 1ºC, hasta 12 funciones de cocción diferentes.
+- Eficiencia Energética: Clase A++, optimiza el consumo de energía sin comprometer la calidad de cocción.
 - Capacidad y Limpieza: Capacidad de 78 litros con sistemas de autolimpieza pirolítica y hidrolítica para un mantenimiento fácil y eficiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

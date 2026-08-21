@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LG DS60TR - Barra de Sonido Bluetooth 440W 5.1 Canales con Subwoofer Altavoces Traseros Dolby Digital DTS Digital Surround Negro'
-date: 2026-07-30 11:49:50
+title: 'LG DS60TR - Barra de Sonido Bluetooth 440W Negro'
+date: 2026-08-20 21:41:42
 image: 'https://m.media-amazon.com/images/I/319QE+6NPDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FB9NLXXZ-es LG DS60TR - Barra de Sonido Bluetooth 440W 5.1 Canales con...'
+slug: 'B0FB9NLXXZ-es LG DS60TR - Barra de Sonido Bluetooth 440W Negro'
 sku: 'B0FB9NLXXZ-es'
 tags: [ 'bluetooth','🇪🇸', ]
-actualPrice: 199.0 EUR
+actualPrice: 189.0 EUR
 currency: EUR
-price: 199.0
-comparePrice: 349.0 EUR
-prodname: 'LG DS60TR - Barra de Sonido Bluetooth 440W 5.1 Canales con Subwoofer Altavoces Traseros Dolby Digital DTS Digital Surround Negro'
+price: 189.0
+comparePrice: 229.0 EUR
+prodname: 'LG DS60TR - Barra de Sonido Bluetooth 440W Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FB9NLXXZ/?tag=tolees-21'
-descuento: '42.98'
-average: '235.431052631579'
+descuento: '17.47'
+average: '233.1095'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

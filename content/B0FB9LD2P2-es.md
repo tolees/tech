@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deambula por el clásico estudio de dibujos animados usando tu agilidad, sigilo y estrategia para combatir a los enemigos entintados.
-- Resuelve rompecabezas del entorno, alíate con queridos personas de dibujos animados y evita el horror del demonio de tinta.
-- Consigue poderosas nuevas habilidades que te ayudarán a escapar.
 - Descubre los terroríficos secretos del aterrador mundo de dibujos animados clásicos de Joey Drew Studios.
+- Deambula por el clásico estudio de dibujos animados usando tu agilidad, sigilo y estrategia para combatir a los enemigos entintados.
+- Consigue poderosas nuevas habilidades que te ayudarán a escapar.
+- Resuelve rompecabezas del entorno, alíate con queridos personas de dibujos animados y evita el horror del demonio de tinta.
 - Supervivencia de horror en primera persona y la secuela esperada de Bendy and the Ink Machine
 
 [🛒 Visítala!!!]({{< param buyurl >}})

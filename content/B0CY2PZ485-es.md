@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Woofer de 5.25" y tweeter de 2". Bass Boost.
-- Función TWS (True Wireless Stereo). Entrada AUX-IN de 3.5 mm.
+- Múltiples entradas de audio: Bluetooth, MIC IN, AUX y USB
 - Potencia de salida máxima 100 W.
+- Función TWS (True Wireless Stereo). Entrada AUX-IN de 3.5 mm.
 - Batería de litio recargable de 7.4 V / 4000 mAh. Conector de alimentación USB tipo C.
 - Resistente al agua con certificación IPX5.
-- Múltiples entradas de audio: Bluetooth, MIC IN, AUX y USB
+- Woofer de 5.25" y tweeter de 2". Bass Boost.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2PZ485{{</world>}}

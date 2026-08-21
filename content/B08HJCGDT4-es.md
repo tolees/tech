@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Grabaciones de alta calidad: baja distorsión y alta resolución hasta el borde
-- Construcción robusta: resistente al polvo; salpicaduras de agua y al frío
+- Enfoque automático rápido y preciso: solo 0.1 s af a cipa
 - Versátil: toma fotos atractivas desde ultra gran angular hasta distancia focal normal
 - Compacto y ligero: sólo 8.5 cm de largo y 350 g de peso
-- Enfoque automático rápido y preciso: solo 0.1 s af a cipa
+- Construcción robusta: resistente al polvo; salpicaduras de agua y al frío
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HJCGDT4{{</world>}}

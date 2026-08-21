@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Retroiluminado】 Teclado retroiluminado RGB, para jugar y localizar las teclas en la oscuridad.
+- 【Sistemas operativos compatibles】 Compatibilidad con teclado y mouse con multitud de Sistemas: Windows 7/8/10,PC, Laptop, Xbox, Android TV Box, Raspberry Pi. Especial para Gamers, trabajos de oficina, diseño gráfico, etc.
 - 【Teclado】 Teclado Gaming con cable y teclas específicas multifunción.
 - 【Garantía】 Garantía de 12 meses. Cualquier problema durante el uso, envíe un mensaje a nuestro equipo y le ayudaremos.
-- 【Sistemas operativos compatibles】 Compatibilidad con teclado y mouse con multitud de Sistemas: Windows 7/8/10,PC, Laptop, Xbox, Android TV Box, Raspberry Pi. Especial para Gamers, trabajos de oficina, diseño gráfico, etc.
 - 【Ratón】 Ratón Gaming con cable, Retroiluminación con colores LED con luz pulsante. Alta sensibilidad con 3 niveles predefinidos: 1200/1600/2400 dpi
-- 【Retroiluminado】 Teclado retroiluminado RGB, para jugar y localizar las teclas en la oscuridad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017XHVJ7U{{</world>}}

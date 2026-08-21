@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTROL COMPACTO – Con su diseño TKL del 80 %, este teclado gaming RGB ahorra espacio en el escritorio sin renunciar a ninguna de las teclas que necesitas para disfrutar del mejor gaming
-- EN MODO JUEGO – Este teclado inalámbrico TKL garantiza la concentración. Con el modo Juego, el sistema anti-ghosting de 6 teclas y 12 teclas multimedia, el Dothix facilita el control en todo momento
 - ENERGÍA QUE DURA – La batería recargable integrada del Dothix ofrece hasta 420 horas de acción ininterrumpida. Este teclado inalámbrico gaming está listo para seguir tu ritmo durante horas y horas
 - CONEXIÓN INMEDIATA – Prepárate para un gaming fluido y sin retrasos con la conexión inalámbrica de latencia ultrabaja del Dothix mediante un receptor USB-A de 2,4 G almacenable. ¡A jugar se ha dicho!
+- EN MODO JUEGO – Este teclado inalámbrico TKL garantiza la concentración. Con el modo Juego, el sistema anti-ghosting de 6 teclas y 12 teclas multimedia, el Dothix facilita el control en todo momento
+- CONTROL COMPACTO – Con su diseño TKL del 80 %, este teclado gaming RGB ahorra espacio en el escritorio sin renunciar a ninguna de las teclas que necesitas para disfrutar del mejor gaming
 - RESISTENCIA Y ESTILO – Una placa posterior de metal resistente, las patas de goma antideslizantes y la iluminación RGB hacen que este teclado para PC sea estable, duradero y una gran mejora del setup
 
 [🛒 Comprar!!!]({{< param buyurl >}})

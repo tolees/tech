@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rapid Trigger PARA ACCIONES MÁS RÁPIDAS: frena rápido. Avanza más rápido. Se restablece cuando sueltas una tecla.
-- INTERRUPTORES MAGNÉTICOS ANALÓGICOS: OmniPoint 3 con interruptores de efecto Hall, 40 niveles de accionamiento ajustable (0,1 mm a 4,0 mm) y 45 g de fuerza de fondo.
-- TOQUE RÁPIDO PARA MOVERSE MÁS RÁPIDO: se ajusta a la última tecla pulsada para hacer strafing y esquivar más rápido.
-- TRIPLE AMENAZA CON QUICKSET: APEX PRO es la única línea de teclados del mundo con Rapid Trigger, Rapid Tap y Modo protección (patente pendiente), activados para tu juego en segundos
 - EL MODO DE PROTECCIÓN DETIENE LOS ERRORES: la función pendiente de patente reduce las pulsaciones accidentales de teclas cercanas; se acabaron las ultis accidentales.
-- PANTALLA INTELIGENTE OLED: cambia los ajustes directamente desde tu teclado. Tus configuraciones se guardan en la memoria integrada para que no tengas que abandonar el juego.
+- TRIPLE AMENAZA CON QUICKSET: APEX PRO es la única línea de teclados del mundo con Rapid Trigger, Rapid Tap y Modo protección (patente pendiente), activados para tu juego en segundos
 - PREAJUSTES AUTOMÁTICOS QUICKSET: configuración fácil en segundos, lanza automáticamente configuraciones nivel pro cuando se cargue el juego.
+- TOQUE RÁPIDO PARA MOVERSE MÁS RÁPIDO: se ajusta a la última tecla pulsada para hacer strafing y esquivar más rápido.
+- Rapid Trigger PARA ACCIONES MÁS RÁPIDAS: frena rápido. Avanza más rápido. Se restablece cuando sueltas una tecla.
+- PANTALLA INTELIGENTE OLED: cambia los ajustes directamente desde tu teclado. Tus configuraciones se guardan en la memoria integrada para que no tengas que abandonar el juego.
+- INTERRUPTORES MAGNÉTICOS ANALÓGICOS: OmniPoint 3 con interruptores de efecto Hall, 40 niveles de accionamiento ajustable (0,1 mm a 4,0 mm) y 45 g de fuerza de fondo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DF2QL2GK{{</world>}}

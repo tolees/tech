@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel N N50 (2C/DualCore 3.4GHz, 6MB)
 - Sistema Operativo: ChromeOS
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
+- Procesador Intel N N50 (2C/DualCore 3.4GHz, 6MB)
 - Almacenamiento de 128GB eMMC
 - Memoria RAM de 4GB en placa LPDDR5
 

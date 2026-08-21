@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SENNHEISER
 - CX 400 II Negro
 - Auriculares intrauditivos
-- SENNHEISER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001RNO8ZW{{</world>}}

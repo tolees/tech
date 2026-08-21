@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Con una velocidad de transferencia de 300 Mbps, es óptimo para llamadas por Internet, ver videos en streaming y juegos en línea
 - Admite los siguientes modos: enrutador, repetidor, cliente, punto de acceso y WISP
-- Tamaño de bolsillo: diseño de tamaño Nano, óptimo para el hogar y los viajes
 - Fácil instalación en minutos
 - Puertos: 1 puerto WAN / LAN de 10/100 Mbps, 1 puerto micro USB
+- Tamaño de bolsillo: diseño de tamaño Nano, óptimo para el hogar y los viajes
 - Alimentado por un puerto micro USB, por un adaptador de corriente externo o conectándolo por USB a la computadora; proporciona flexibilidad para cualquier situación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

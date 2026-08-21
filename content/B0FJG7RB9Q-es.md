@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Google TV con capacidad Full HD
 - Compatible con HDR10
 - Google TV,integrado en la TV , reúne películas, programas y televisión en directode todas tus suscripciones. Obténrecomendaciones personalizadas, utiliza la potente búsquedade Google para encontrar programas en más de 10.000 aplicaciones o explora cientos de canales gratuitos.
-- Con un poco de ayuda deGoogle. Se acabó saltar de una aplicación a otra.
 - QLED - rica gama cromática
+- Con un poco de ayuda deGoogle. Se acabó saltar de una aplicación a otra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJG7RB9Q{{</world>}}
