@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'JLab Pop Party Altavoz Bluetooth Ultraportátil - 8H+ Mora'
+date: 2026-08-18 17:10:27
+image: 'https://m.media-amazon.com/images/I/41DkBKlZTmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F39HFT56-es JLab Pop Party Altavoz Bluetooth Ultraportátil - 8H+ Mora'
+sku: 'B0F39HFT56-es'
+tags: [ 'altavoz','bluetooth','🇪🇸', ]
+actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
+comparePrice: 29.99 EUR
+prodname: 'JLab Pop Party Altavoz Bluetooth Ultraportátil - 8H+ Mora'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F39HFT56/?tag=tolees-21'
+descuento: '43.35'
+average: '18.99'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Altavoz Pequeño Potente en Diseño Compacto: que el tamaño no te engañe: este parlante bluetooth da sonido rico y claro. Con controlador de rango completo de 2", woofer pasivo de 2" y 5W de potencia, mantiene tus playlists animadas donde vayas
+- Que la Fiesta No Pare: Disfruta de tu altavoz inalámbrico portátil recargable durante más de 8 horas de reproducción continua, o más de 5 horas con la iluminación RGB activada, para que tu música fluya desde el amanecer hasta la after-party
+- Espectáculo de Luces RGB: Este altavoz pequeño con luces convierte espacios en tu pista de baile. Usa la app JLab para personalizar colores RGB vibrantes, patrones y pulso, listo para momentos dignos de fotografiar y noches inolvidables
+- Altavoz Portátil Bluetooth ultra compacto: Llévalo a todas partes; con opciones de montaje flexibles y asa desmontable, lleva la fiesta donde quieras, haga sol o llueva. Engánchalo a tu mochila, ponlo junto a la piscina o llévalo en el bolsillo
+- Emparejamiento Multialtavoz: Conecta hasta 100 altavoces para fiesta JLab con la tecnología LabSync y crea una espectacular experiencia de luz y sonido sincronizados que tus amigos recordarán
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0F39HFT56{{</world>}}

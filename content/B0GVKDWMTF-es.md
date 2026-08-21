@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Tapo C245D - Cámara vigilancia WiFi Doble Lente 2K 3MP 360° detección IA'
+date: 2026-08-13 22:27:28
+image: 'https://m.media-amazon.com/images/I/41sprGokPaL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GVKDWMTF-es Tapo C245D - Cámara vigilancia WiFi Doble Lente 2K 3MP...'
+sku: 'B0GVKDWMTF-es'
+tags: [ 'wifi','🇪🇸', ]
+actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
+comparePrice: 69.99 EUR
+prodname: 'Tapo C245D - Cámara vigilancia WiFi Doble Lente 2K 3MP 360° detección IA'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GVKDWMTF/?tag=tolees-21'
+descuento: '28.58'
+average: '49.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
+- Doble lente 2K (3MP + 3MP) – Supervisa dos zonas a la vez con máxima claridad y sin puntos ciegos.
+- Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
+- Gran angular + teleobjetivo – Campo de visión de 122° y zoom digital para capturar todos los detalles.
+- Visión nocturna IR hasta 12 m – Imágenes claras incluso en completa oscuridad.
+- Detección IA gratuita – Identifica personas, mascotas, vehículos y llanto de bebé sin suscripción.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0GVKDWMTF{{</world>}}
