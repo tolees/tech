@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Polar H10 M-XXL Sensor de Frecuencia Cardíaca Bluetooth y Ant+'
+date: 2026-08-24 06:01:43
+image: 'https://m.media-amazon.com/images/I/319WN877QrL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07PM54P4N-es Polar H10 M-XXL Sensor de Frecuencia Cardíaca Bluetooth y...'
+sku: 'B07PM54P4N-es'
+tags: [ 'bluetooth','🇪🇸', ]
+actualPrice: 61.9 EUR
+currency: EUR
+price: 61.9
+comparePrice: 99.9 EUR
+prodname: 'Polar H10 M-XXL Sensor de Frecuencia Cardíaca Bluetooth y Ant+'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07PM54P4N/?tag=tolees-21'
+descuento: '38.04'
+average: '70.439393939394'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- GRAN PRECISIÓN Y TALLAS: Polar H10 registra la FC con precisión ECG/EKG en la que confían los deportistas profesionales. Tallas: XS–S 62–74 cm, M–XXL 75–115 cm, XXXL 116–155 cm (vendidas por separado). Entre dos tallas: M–XXL mayor confort, XS–S más ajustado.
+- CONECTIVIDAD: conéctate por Bluetooth, ANT+ o 5 kHz a smartwatches, apps de fitness (Peloton, Strava, Nike) o máquinas de gimnasio. Admite conexión simultánea por Bluetooth y ANT+.
+- ELÁSTICO POLAR PRO: con electrodos mejorados, protuberancias de silicona antideslizantes y una hebilla para un ajuste cómodo, preciso y sin interferencias. Reemplázalo cada 6 meses para garantizar el mejor rendimiento.
+- VERSATILIDAD: úsalo para montar en bicicleta, correr, nadar, remar o en tus sesiones de gimnasio. Resistente al agua (hasta 30 m) con memoria interna para almacenar una sesión sin llevar tu móvil o reloj.
+- COMPATIBILIDAD: funciona con las apps Polar, Garmin, Apple Watch, Suunto y más. Actualiza el firmware fácilmente desde la app Polar Beat.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B07PM54P4N{{</world>}}

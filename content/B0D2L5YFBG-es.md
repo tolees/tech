@@ -1,0 +1,47 @@
+---
+layout: post
+title: 'MOMODS Monitor Portátil Pantalla Portatil 15 6" IPS 1080P HDR FreeSync'
+date: 2026-08-30 22:46:20
+image: 'https://m.media-amazon.com/images/I/51EbFEnVSnL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D2L5YFBG-es MOMODS Monitor Portátil Pantalla Portatil 15 6" IPS 1080P...'
+sku: 'B0D2L5YFBG-es'
+tags: [ '1080p','ips','🇪🇸', ]
+actualPrice: 66.49 EUR
+currency: EUR
+price: 66.49
+comparePrice: 79.99 EUR
+prodname: 'MOMODS Monitor Portátil Pantalla Portatil 15 6" IPS 1080P HDR FreeSync'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D2L5YFBG/?tag=tolees-21'
+descuento: '16.88'
+average: '67.9942857142857'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Response time: 2.0 milliseconds
+- Display size: 15.6 inches
+- Real angle of view: 178.0 degrees
+- Item weight: 1.68 pounds
+- Voltage: 5.0 volts
+- 【Portable Monitor Ultrafino】- MOMODS pantalla externa portatil cuenta con un perfil ultra-delgado 0.23inch(1.32 lbs), es fácil de diapositivas en su bolso, le permite llevarlo a todas partes, ideal para un simple on-the-go configuración de doble monitor o ampliar la pantalla del teléfono para películas o.
+- 【Segundo monitor】- El portable monitor MOMODS puede muy bien actuar como su segundo monitor y mejorar su eficiencia en el trabajo. Puede trabajar y realizar múltiples tareas simultáneamente mientras usa este pantalla externa portatil.
+- Max vertical resolution: 1080.0 pixels
+- 【FHD 1080P Monitor Portátil con Filtro de Luz Azul】- MOMODS cuenta con una pantalla IPS mate avanzada con 178 ° de ángulo de visión amplio, HDR y tecnología FreeSync, 400Nits de brillo con filtro de luz azul para la protección de los ojos.
+- Aspect ratio: 16:9
+- 【Tecnología HDR y FreeSync】HDR mejora el contraste, lo que hace que las imágenes sean más vívidas y realistas, mientras que la tecnología FreeSync garantiza un movimiento suave, reduce los tiempos de respuesta de la pantalla y proporciona una experiencia multimedia / de juego más fluida y con mayor capacidad de respuesta.
+- Item dimensions: 8.66 inches
+- Max horizontal resolution: 1920.0 pixels
+- 【Amplia compatibilidad】- Monitor portatil MOMODS para portátil equipado con 2 puertos USB Tipo-C y puerto Mini HDMI, fácil acceso a sus dispositivos favoritos con 1 solución de cable, compatible con la mayoría de portátiles, smartphones, PC, Mac, PS5, Xbox, y más. Nota: Para dispositivos compatibles con Thunderbolt 3.0/4.0 o USB 3.1 Tipo C.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0D2L5YFBG{{</world>}}

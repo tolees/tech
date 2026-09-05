@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Bose QuietComfort Headphones Auriculares inalámbricos con cancelación de Ruido Auriculares de Diadema con Bluetooth micrófono y Cable con hasta 24 h de autonomía Gris de Luna - Edición Limitada'
+date: 2026-08-13 09:33:18
+image: 'https://m.media-amazon.com/images/I/31Ln+K1cITL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FGYDGJ3H-es Bose QuietComfort Headphones Auriculares inalámbricos con...'
+sku: 'B0FGYDGJ3H-es'
+tags: [ 'auriculares','bluetooth','🇪🇸', ]
+actualPrice: 191.91 EUR
+currency: EUR
+price: 191.91
+comparePrice: 249.95 EUR
+prodname: 'Bose QuietComfort Headphones Auriculares inalámbricos con cancelación de Ruido Auriculares de Diadema con Bluetooth micrófono y Cable con hasta 24 h de autonomía Gris de Luna - Edición Limitada'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FGYDGJ3H/?tag=tolees-21'
+descuento: '23.22'
+average: '181.582'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- DOS MODOS DE ESCUCHA: controla el sonido con estos auriculares inalámbricos con Bluetooth con los modos Silencio y Aware, para alternar entre cancelación de ruido total y plena conciencia del entorno
+- FIDELIDAD Y CONTROL: revoluciona tus pistas favoritas con estos auriculares de diadema de alta gama con sonido de alta fidelidad y el ecualizador ajustable de grave, medios y agudos
+- APLICACIÓN DE BOSE: Descarga la aplicación de Bose para obtener las actualizaciones de software más recientes. Disfruta de las mejores funcionalidades y accede a todas las características y tecnología más recientes
+- SIGE CONECTADO: estos auriculares de diadema de gama alta mantienen la conexión con todos tus dispositivos favoritos con la función multipunto. Alterna entre dispositivos sin conectar y desconectar
+- CABLE DEL MICRÓFONO INCLUIDO: conecta el cable de audio incluido con micrófono integrado en tus auriculares inalámbricos Bose con cancelación de ruido para usarlos sin conexión Bluetooth
+- CANCELACIÓN DE RUIDO: combina de forma natural la tecnología de auriculares de diadema con cancelación de ruido activa con funciones pasivas para aislarte y disfrutar de tu música al máximo
+- AURICULARES INALÁMBRICOS BLUETOOTH CON MICRÓFONO: se centran en el sonido de tu voz y filtran los sonidos ambientales para garantizar una nitidez de llamada incomparable
+- COMODIDAD DE PRIMERA: las almohadillas de estos auriculares de diadema ligeros se adaptan a las orejas, y una cómoda banda de apoyo los mantiene durante para esas sesiones musicales más largas
+- BATERÍA DURADERA: los auriculares inalámbricos Bose QuietComfort ofrecen hasta 24 horas de autonomía con una sola carga. Una carga de 15 minutos te da hasta 2,5 horas de tiempo de reproducción
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0FGYDGJ3H{{</world>}}

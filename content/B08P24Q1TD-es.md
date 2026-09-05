@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'TP-Link RE550 - Repetidor WiFi 5 AC1900 Doble Banda 1 Puerto GE EasyMesh'
+date: 2026-09-04 17:30:30
+image: 'https://m.media-amazon.com/images/I/21PcLUiuaDL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08P24Q1TD-es TP-Link RE550 - Repetidor WiFi 5 AC1900 Doble Banda 1...'
+sku: 'B08P24Q1TD-es'
+tags: [ 'wifi','🇪🇸', ]
+actualPrice: 46.27 EUR
+currency: EUR
+price: 46.27
+comparePrice: 64.99 EUR
+prodname: 'TP-Link RE550 - Repetidor WiFi 5 AC1900 Doble Banda 1 Puerto GE EasyMesh'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08P24Q1TD/?tag=tolees-21'
+descuento: '28.80'
+average: '59.077933333333'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MODO PUNTO DE ACCESO - Crea un nuevo punto de acceso Wi-Fi para mejorar su red cableada con capacidad Wi-Fi
+- WI-FI DOBLE BANDA AC1900 RÁPIDO - 600 Mbps en 2.4GHz + 1300Mbps en 5GHz
+- FÁCIL CONFIGURACIÓN Y GESTIÓN - Con la aplicación TP-Link Tether acceda y administre fácilmente su red utilizando cualquier dispositivo móvil iOS o Android
+- 3 ANTENAS EXTERNAS - Tres antenas externas ajustables que brindan una cobertura Wi-Fi óptima y conexiones confiables
+- LUZ SEÑAL INTELIGENTE - Ayuda a encontrar la mejor ubicación para una cobertura Wi-Fi óptima al mostrar la intensidad de la señal
+- MÁXIMA COMPATIBILIDAD - Amplíe el alcance de cualquier router Wi-Fi o punto de acceso inalámbrico
+- PUERTO GIGABIT ETHERNET - Actúa como un adaptador inalámbrico para conectar un dispositivo cableado a su red a velocidad Gigabit (10/100/1000mbps)
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B08P24Q1TD{{</world>}}
