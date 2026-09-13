@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alivio ocular largo de 15 mm
+- Observación a corta distancia desde ~50 cm
 - Recubrimiento HD de última generación para mejorar la calidad óptica
 - Primer modelo Papilio con construcción resistente a la intemperie
 - Diseño óptico de alto rendimiento
-- Observación a corta distancia desde ~50 cm
 - Carcasa de goma fácil de sujetar
+- Alivio ocular largo de 15 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FWJYG9RY{{</world>}}

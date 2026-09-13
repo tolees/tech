@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [Configuración del producto] El tamaño de la pantalla es de 9.16 pulgadas, el tamaño del producto es de 251x68x17mm, la resolución es de 1920x480, el conector es USB tipo C, y la fuente de alimentación de la pantalla y la comunicación de datos son proporcionados por la interfaz USB de 9 pines de la placa base. Antes de instalar el software TRCC, confirme que el cableado está completo.
-- Resolución de [1920x480] Uso del software TRCC, visualización libre de los parámetros del sistema de monitoreo, soporte para conmutación de imagen estática/dinámica múltiple, así como reproducción de video, visualización temática personalizada de bricolaje
 - [Pantalla IPS de 9.16 pulgadas] Pantalla de panel IPS de color completo reproduce con precisión los colores verdaderos y delicados, con buena estabilidad del ángulo de visión
+- Resolución de [1920x480] Uso del software TRCC, visualización libre de los parámetros del sistema de monitoreo, soporte para conmutación de imagen estática/dinámica múltiple, así como reproducción de video, visualización temática personalizada de bricolaje
 - [Compatibilidad] Admite el marco magnético para fijar el panel de pantalla, o se puede fijar a un escritorio de pared metálica, lo que permite un fácil movimiento de la posición de la pantalla LCD
 - [Diseño de pantalla magnética] La pantalla adopta la tecnología de marco de metal, y la pantalla magnética no requiere tornillos, lo que facilita la instalación y extracción
 

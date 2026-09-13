@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Objetivo de focal fija Autofocus para cámaras digitales sin espejo Sony E con sensor Full Frame
 - Peso 505 gr
 - Lentes asféricas para minimizar aberraciones y dispersión de luz
+- Objetivo de focal fija Autofocus para cámaras digitales sin espejo Sony E con sensor Full Frame
 - Óptica muy luminosa con apertura F28 Diámetro de filtro 67mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

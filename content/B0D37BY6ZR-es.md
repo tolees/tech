@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería recargable que ofrece hasta diez horas de autonomía
-- Los botones táctiles ofrecen un control sencillo y evitan que les des sin querer
-- Compatible con Sonos Voice Control y Amazon Alexa
-- Conéctalo a la red Wi-Fi para descubrir más funciones y disfrutar de un sonido multiroom con otros altavoces Sonos
-- Ultracompacto y ligero para poder llevar el sonido Sonos a todas partes
-- El ajuste Trueplay automático optimiza el sonido en función del entorno
-- Cárgalo con el cable USB-C incluido o utiliza un cargador inalámbrico compatible
 - Con un diseño muy versátil que se puede colocar en horizontal o en vertical
+- Cárgalo con el cable USB-C incluido o utiliza un cargador inalámbrico compatible
+- Ultracompacto y ligero para poder llevar el sonido Sonos a todas partes
+- Conéctalo a la red Wi-Fi para descubrir más funciones y disfrutar de un sonido multiroom con otros altavoces Sonos
 - Duro como una piedra y con el grado de protección IP67 contra el agua y al polvo para acompañarte allá donde te lleve el viento
+- Batería recargable que ofrece hasta diez horas de autonomía
+- El ajuste Trueplay automático optimiza el sonido en función del entorno
 - Sus altavoces integrados se han diseñado meticulosamente para ofrecer un sonido muy nítido y unos graves increíblemente profundos para su tamaño
+- Compatible con Sonos Voice Control y Amazon Alexa
+- Los botones táctiles ofrecen un control sencillo y evitan que les des sin querer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D37BY6ZR{{</world>}}

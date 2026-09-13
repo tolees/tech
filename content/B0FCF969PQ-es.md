@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Diseño ultracompacto y portátil】 Con un tamaño similar al de una pequeña cafetera y un peso total de solo 1,7 kg, es perfecto para llevar a cualquier parte. Además, es compatible con baterías externas a través de su puerto USB-C, lo que lo convierte en el proyector ideal para el entretenimiento al aire libre.
-- 【Tecnología ISA: Configuración automática y sin esfuerzo】Equipado con la tecnología de Adaptación Inteligente de Pantalla (ISA), ofrece corrección trapezoidal automática sin interrupciones, enfoque automático instantáneo y protección ocular inteligente, la cual atenúa la luz automáticamente si detecta niños o mascotas frente a la lente.
-- 【Imagen brillante y HD en cualquier ángulo】 Disfruta de una resolución Full HD 1080p con un brillo mejorado de 430 lúmenes ISO. Su soporte multiángulo integrado te permite ajustar la proyección hasta 120°, pasando de la pared al techo en cuestión de segundos para una comodidad absoluta.
-- 【Sonido envolvente y potente de 16W】 Sumérgete en tus películas, series y juegos favoritos con sus 2 altavoces integrados de 8 W (XGIMI Sonido) compatibles con Dolby Audio, diseñados para ofrecer una experiencia de audio tridimensional rica y llena de matices.
 - 【Google TV y Netflix oficial integrado】 Accede de forma fluida a más de 5.000 aplicaciones como Netflix, YouTube y Prime Video sin necesidad de dispositivos adicionales. Incluye Google Cast para transmitir fácilmente desde dispositivos Apple o Android y mando a distancia con Asistente de Google por voz.
+- 【Imagen brillante y HD en cualquier ángulo】 Disfruta de una resolución Full HD 1080p con un brillo mejorado de 430 lúmenes ISO. Su soporte multiángulo integrado te permite ajustar la proyección hasta 120°, pasando de la pared al techo en cuestión de segundos para una comodidad absoluta.
+- 【Tecnología ISA: Configuración automática y sin esfuerzo】Equipado con la tecnología de Adaptación Inteligente de Pantalla (ISA), ofrece corrección trapezoidal automática sin interrupciones, enfoque automático instantáneo y protección ocular inteligente, la cual atenúa la luz automáticamente si detecta niños o mascotas frente a la lente.
+- 【Sonido envolvente y potente de 16W】 Sumérgete en tus películas, series y juegos favoritos con sus 2 altavoces integrados de 8 W (XGIMI Sonido) compatibles con Dolby Audio, diseñados para ofrecer una experiencia de audio tridimensional rica y llena de matices.
+- 【Diseño ultracompacto y portátil】 Con un tamaño similar al de una pequeña cafetera y un peso total de solo 1,7 kg, es perfecto para llevar a cualquier parte. Además, es compatible con baterías externas a través de su puerto USB-C, lo que lo convierte en el proyector ideal para el entretenimiento al aire libre.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCF969PQ{{</world>}}

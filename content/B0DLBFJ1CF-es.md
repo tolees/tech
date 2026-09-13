@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lee cómodamente bajo cualquier luz: lee con total comodidad gracias a su pantalla sin reflejos de 6" con modo oscuro y luz frontal ajustable, ahora un 25 % más potente en el nivel de máxima intensidad.
-- Adaptador de corriente de 9 W original de Amazon, compatible con la mayoría de dispositivos con puerto micro USB (requiere un cable micro USB, no incluido con el cargador)
-- El Kindle más ligero y compacto: ahora con una luz frontal más potente en el nivel de máxima intensidad, mayor contraste y pasos de página más fluidos, para que disfrutes aún más de la lectura.
-- Refúgiate en la lectura: no dejes que te distraigan mensajes, e-mails o notificaciones de redes sociales y disfruta de una experiencia de lectura sin distracciones.
-- Diseñada para ajustarse perfectamente a tu nuevo Kindle (solo compatible con los modelos de 2022 y 2024).
 - Carga completamente el Kindle Paperwhite en menos de 4 horas, el Kindle en menos de 3 horas y el tablet Fire en menos de 5 horas
-- Diseñado para usarse con el cable micro USB original incluido con la mayoría de dispositivos Amazon y con los cables de repuesto disponibles en Amazon
-- Diseño fino y ligero para que puedas leer durante horas con total comodidad.
+- Diseñada para ajustarse perfectamente a tu nuevo Kindle (solo compatible con los modelos de 2022 y 2024).
 - Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
+- Refúgiate en la lectura: no dejes que te distraigan mensajes, e-mails o notificaciones de redes sociales y disfruta de una experiencia de lectura sin distracciones.
+- Lee cómodamente bajo cualquier luz: lee con total comodidad gracias a su pantalla sin reflejos de 6" con modo oscuro y luz frontal ajustable, ahora un 25 % más potente en el nivel de máxima intensidad.
+- Diseño fino y ligero para que puedas leer durante horas con total comodidad.
+- Diseñado para usarse con el cable micro USB original incluido con la mayoría de dispositivos Amazon y con los cables de repuesto disponibles en Amazon
+- El Kindle más ligero y compacto: ahora con una luz frontal más potente en el nivel de máxima intensidad, mayor contraste y pasos de página más fluidos, para que disfrutes aún más de la lectura.
+- Adaptador de corriente de 9 W original de Amazon, compatible con la mayoría de dispositivos con puerto micro USB (requiere un cable micro USB, no incluido con el cargador)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLBFJ1CF{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj inteligente hombre mujer Militar Smartwatch 1 39 HD pantalla Negro'
-date: 2026-09-09 19:29:31
+date: 2026-09-12 10:15:17
 image: 'https://m.media-amazon.com/images/I/51vg9Q-bC2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

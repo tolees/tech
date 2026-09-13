@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SIEMPRE CONECTADO: Transmite en directo hasta 4K15p o Full HD a 60p sin acudir a la tarjeta de captura y así mantenerte conectado con tu público. Con USB-C gen 3.2, chip Wi-Fi ultrarrápido y copia de seguridad Bluetooth automático.
 - CREACIÓN DE VÍDEO: Graba en 4K y hasta a 60p con lectura de píxeles completa y sin agrupamiento para lograr la mejor calidad. Incluye S-CINETONE/S-LOG 3 da un aspecto cinematrográfico sin complicarse en ediciones.
 - RENDIMIENTO DE ENFOQUE AUTOMÁTICO: Con la tecnología de seguimiento en tiempo real y AF/Eye AF más reciente (humanos/animales) para realizar un seguimiento del objeto sin problemas.
+- SIEMPRE CONECTADO: Transmite en directo hasta 4K15p o Full HD a 60p sin acudir a la tarjeta de captura y así mantenerte conectado con tu público. Con USB-C gen 3.2, chip Wi-Fi ultrarrápido y copia de seguridad Bluetooth automático.
 - EXPERIENCIA DE CAPTURA ÚNICA: Gracias al visor electrónico de 3,69 millones de puntos rápido y nítido, una pantalla de 3 multiángulo y un sistema de estabilización de 5 ejes en el cuerpo de la cámara, para capturar de forma estable.
 - CALIDAD DE IMAGEN: El sensor Exmor R de fotograma completo retroiluminado de 33 MP junto a la potencia de procesador BIONZ XR logran una calidad de imagen profesional, en todas las circunstancias, incluso poca luz.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AUTOENFOQUE HÍBRIDO INTELIGENTE: Tecnología de Autoenfoque (AF) en tiempo real que detecta y sigue instantáneamente los ojos de humanos y animales. Mantenga siempre el foco en su sujeto para obtener clips de vídeo fluidos y retratos profesionales con un seguimiento ultra preciso
 - ÓPTICA GRAN ANGULAR VERSÁTIL: el objetivo ZEISS Vario-Sonnar T* 18-50mm f/1.8-4 te permite capturar paisajes amplios e interiores arquitectónicos estrechos en el extremo amplio o hacer zoom hasta 50 mm para retratos y fotografía urbana impactantes
-- CREATIVIDAD CINEMATOGRÁFICA Y LOOKS: Personalice su contenido con 10 preajustes de "Creative Look" (como FL o IN) y el modo Cinematic Vlog. Logre una estética de cine directamente en la cámara, eliminando la necesidad de edición posterior compleja para sus redes sociales
 - VELOCIDAD LISTA PARA LA ACCIÓN: Capture momentos efímeros con una ráfaga de hasta 24 fps sin interrupciones (blackout-free). Es la cámara digital compacta ideal para fotografía de deportes, mascotas y acción rápida, asegurando que nunca pierda el fotograma perfecto
 - CALIDAD DE IMAGEN PROFESIONAL 4K: Captura fotos y vídeos ultra nítidos con el sensor CMOS apilado Exmor RS de 1" y 20,1 MP; Ofrece un rendimiento superior en condiciones de poca luz y un rango dinámico excepcional, garantizando vídeos 4K y fotografías de alta resolución con una nitidez profesional en cada toma
+- AUTOENFOQUE HÍBRIDO INTELIGENTE: Tecnología de Autoenfoque (AF) en tiempo real que detecta y sigue instantáneamente los ojos de humanos y animales. Mantenga siempre el foco en su sujeto para obtener clips de vídeo fluidos y retratos profesionales con un seguimiento ultra preciso
+- CREATIVIDAD CINEMATOGRÁFICA Y LOOKS: Personalice su contenido con 10 preajustes de "Creative Look" (como FL o IN) y el modo Cinematic Vlog. Logre una estética de cine directamente en la cámara, eliminando la necesidad de edición posterior compleja para sus redes sociales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H8NZHX4C{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado de larga duración
 - Nariz compleja, intensa, floral y afrutada
-- Adecuado como un regalo
 - Amarillo pajizo brillante con un perlaje fino y persistente
+- Acabado de larga duración
+- Adecuado como un regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SLZNRHQ{{</world>}}

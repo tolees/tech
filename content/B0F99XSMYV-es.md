@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tomb Raider IV-VI Remastered Starring Lara Croft - PS4'
-date: 2026-09-10 09:35:27
+date: 2026-09-12 12:17:42
 image: 'https://m.media-amazon.com/images/I/415i1CTfILL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F99XSMYV/?tag=tolees-21'
 descuento: '42.87'
-average: '19.28'
+average: '19.3588888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

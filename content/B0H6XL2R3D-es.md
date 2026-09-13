@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Pantalla inmersiva de 6,59", 185 Hz y 1,5K】Disfruta de una pantalla AMOLED fluida de 6,59" con una frecuencia de actualización de 185 Hz y resolución POCO HyperRGB de 1,5K. Con un brillo máximo de 4500 nits y una frecuencia de muestreo táctil instantánea de 4800 Hz, los colores se mantienen vivos y el texto nítido en cualquier condición de iluminación.
-- 【Batería de 6330mAh de gran capacidad】POCO F9 Pro incorpora una batería de 6330mAh diseñada para ofrecer autonomía durante todo el día, con una durabilidad de 1600 ciclos manteniendo el 80 % de su capacidad. Disfruta de todo el día sin tener que buscar constantemente un cargador.
-- 【Cámara AI OIS de 200 MP + teleobjetivo 2,5x】La primera cámara de 200 MP de POCO, con un modo dedicado de 200 MP, captura un nivel de detalle excepcional en cada toma. El teleobjetivo flotante de 50 MP y 2,5x con OIS y el ultra gran angular de 8 MP ofrecen una gran versatilidad, desde paisajes amplios hasta retratos en primer plano.
-- 【HyperCharge de 100 W + carga inalámbrica de 50 W】Recupera rápidamente el 100 % con HyperCharge de 100 W y carga inalámbrica de 50 W. Además, la carga inversa por cable de 27 W y la carga inversa inalámbrica de 22,5 W te permiten cargar tus accesorios estés donde estés.
-- 【Potente Snapdragon 8 Elite Gen 5, serie V (SM8850-1-AB)】Equipado con Snapdragon 8 Elite Gen 5, serie V (SM8850-1-AB) y VisionBoost D8, POCO F9 Pro ofrece un rendimiento de nivel flagship con WildBoost Engine para optimizar el gaming a 185 Hz. Con una puntuación de más de 3,8 millones en AnTuTu, gestiona fácilmente aplicaciones exigentes y multitarea.
 - 【Garantía del fabricante de 4 años】 No se requiere activación. Además de la garantía del fabricante de 3 años, dispone de 1 año adicional de garantía.
+- 【Batería de 6330mAh de gran capacidad】POCO F9 Pro incorpora una batería de 6330mAh diseñada para ofrecer autonomía durante todo el día, con una durabilidad de 1600 ciclos manteniendo el 80 % de su capacidad. Disfruta de todo el día sin tener que buscar constantemente un cargador.
+- 【Potente Snapdragon 8 Elite Gen 5, serie V (SM8850-1-AB)】Equipado con Snapdragon 8 Elite Gen 5, serie V (SM8850-1-AB) y VisionBoost D8, POCO F9 Pro ofrece un rendimiento de nivel flagship con WildBoost Engine para optimizar el gaming a 185 Hz. Con una puntuación de más de 3,8 millones en AnTuTu, gestiona fácilmente aplicaciones exigentes y multitarea.
+- 【Pantalla inmersiva de 6,59", 185 Hz y 1,5K】Disfruta de una pantalla AMOLED fluida de 6,59" con una frecuencia de actualización de 185 Hz y resolución POCO HyperRGB de 1,5K. Con un brillo máximo de 4500 nits y una frecuencia de muestreo táctil instantánea de 4800 Hz, los colores se mantienen vivos y el texto nítido en cualquier condición de iluminación.
+- 【HyperCharge de 100 W + carga inalámbrica de 50 W】Recupera rápidamente el 100 % con HyperCharge de 100 W y carga inalámbrica de 50 W. Además, la carga inversa por cable de 27 W y la carga inversa inalámbrica de 22,5 W te permiten cargar tus accesorios estés donde estés.
+- 【Cámara AI OIS de 200 MP + teleobjetivo 2,5x】La primera cámara de 200 MP de POCO, con un modo dedicado de 200 MP, captura un nivel de detalle excepcional en cada toma. El teleobjetivo flotante de 50 MP y 2,5x con OIS y el ultra gran angular de 8 MP ofrecen una gran versatilidad, desde paisajes amplios hasta retratos en primer plano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H6XL2R3D{{</world>}}

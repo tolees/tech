@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- FUNCIONAMIENTO SILENCIOSO Y EFICIENTE ENERGÉTICAMENTE: el diseño sin ventilador garantiza un funcionamiento silencioso, mientras que la tecnología IEEE 802.3az Energy Efficient Ethernet reduce el consumo de energía sin comprometer el rendimiento de red de alta velocidad.
 - PUERTOS ETHERNET GIGABIT: ofrece 5 puertos Ethernet de 1.0Gbps para una conectividad de alta velocidad. Los puertos de negociación automática detectan la velocidad óptima de los dispositivos conectados y son compatibles con los cables Ethernet Cat5e o Cat6 existentes.
 - CONMUTADOR DE RED EASY SMART MANAGED: la interfaz de software intuitiva ofrece funciones de Easy Smart Managed Essentials para configurar VLAN, priorizar el tráfico con QoS, supervisar puertos y gestionar la seguridad de la red para pequeñas empresas.
-- FUNCIONAMIENTO SILENCIOSO Y EFICIENTE ENERGÉTICAMENTE: el diseño sin ventilador garantiza un funcionamiento silencioso, mientras que la tecnología IEEE 802.3az Energy Efficient Ethernet reduce el consumo de energía sin comprometer el rendimiento de red de alta velocidad.
 - OPCIONES DE MONTAJE FLEXIBLES: el diseño metálico compacto permite la colocación sobre escritorio o en pared para una instalación versátil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

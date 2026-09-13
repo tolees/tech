@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Compatible con funciones TRIM y SMART
 - HDD con capacidad de 480 GB, tamaño de 2.5" y interfaz SATA III
 - Velocidad de escritura de hasta 500 MB/s
-- Compatible con funciones TRIM y SMART
 - Velocidad de lectura de hasta 520 MB/s
 
 [🛒 Aquí!!!]({{< param buyurl >}})

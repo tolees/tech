@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
 - Memoria RAM de 16GB SO-DIMM DDR5
-- Procesador Intel Core 7 240H (10C/DecaCore 5.2GHz, 24MB)
+- Tarjeta gráfica NVIDIA GeForce RTX 5060 8GB GDDR7
 - Pantalla de 16" WUXGA 1920 x 1200 pixeles, 144Hz, 300 nits
+- Procesador Intel Core 7 240H (10C/DecaCore 5.2GHz, 24MB)
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

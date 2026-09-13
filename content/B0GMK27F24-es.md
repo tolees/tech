@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB SO-DIMM DDR5 5600MHz
-- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz)
 - Sin Sistema Operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 5070 8GB GDDR7
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Procesador AMD Ryzen 7 260 (8C/OctaCore 3.8 / 5.1GHz)
 - Pantalla de 18" WUXGA 1920 x 1200 pixeles, 144Hz, IPS-Level 300 nits
+- Memoria RAM de 16GB SO-DIMM DDR5 5600MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GMK27F24{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Perfecto para deportes, naturaleza y viajes.
 - Estabilización OSS para capturar imágenes más nítidas.
-- Diseño ideal para cámaras APS-C.
 - Teleobjetivo compacto y ligero con zoom 55-210 mm.
 - En la caja: Lente SEL55210, tapas frontal y trasera, manual.
-- Perfecto para deportes, naturaleza y viajes.
+- Diseño ideal para cámaras APS-C.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HV9TB4O{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de conectividad: por cable
+- Panel táctil totalmente funcional
 - Conector para auriculares de 3.5 mm
 - 2 motores de vibración
-- Tipo de conectividad: por cable
 - Indicador LED de jugador
-- Panel táctil totalmente funcional
 - Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

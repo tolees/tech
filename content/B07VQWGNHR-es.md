@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nikkor Z: diseñado alrededor del amplio soporte Nikon Z, esta lente puede capturar más luz en todo el marco
-- Anillo de control personalizable: se puede utilizar para enfoque manual (por defecto), control de apertura o compensación de exposición
-- Detalles nítidos: rendimiento excepcional de borde a borde. Distancia mínima de enfoque de solo 0,80 m
-- S-line: diseño óptico de próxima dimensión. Revestimiento de nano cristal antirreflectante. Sistema multienfoque suave y silencioso
 - Construcción resistente: cada parte móvil del barril de la lente está sellada para proteger del polvo y las gotas de agua
+- Nikkor Z: diseñado alrededor del amplio soporte Nikon Z, esta lente puede capturar más luz en todo el marco
+- S-line: diseño óptico de próxima dimensión. Revestimiento de nano cristal antirreflectante. Sistema multienfoque suave y silencioso
+- Detalles nítidos: rendimiento excepcional de borde a borde. Distancia mínima de enfoque de solo 0,80 m
+- Anillo de control personalizable: se puede utilizar para enfoque manual (por defecto), control de apertura o compensación de exposición
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VQWGNHR{{</world>}}

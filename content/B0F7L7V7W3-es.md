@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Outlaws Gold Edition Switch 2'
-date: 2026-09-10 14:47:27
+date: 2026-09-12 19:10:17
 image: 'https://m.media-amazon.com/images/I/51lyIPDGbXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F7L7V7W3/?tag=tolees-21'
 descuento: '43.34'
-average: '35.2185714285712'
+average: '35.1844444444442'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

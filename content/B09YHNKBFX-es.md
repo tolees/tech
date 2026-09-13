@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricación duradera: Reforzado con aluminio para años de juego competitivo
-- Controles para volumen y silencio en auricular: Le permiten realizar ajustes sobre la marcha sin distraerse del juego
-- El potente software CORSAIR iCUE: Permite controlar el ruido local y sincronizar la iluminación RGB con dispositivos CORSAIR compatibles que formen parte de su sistema
 - Sonido de 24 bit/96 KHz de alta fidelidad: Disfrute de un auténtico sonido de alta fidelidad a través de una conexión por cable USB
-- Disfrute del juego: El HS80 RGB USB fusiona el emblemático diseño de CORSAIR, un sonido excelente y una calidad de fabricación de confianza
-- Capte todos los sonidos: Desde un débil susurro hasta una explosión estruendosa, un par de transductores de audio de neodimio de alta densidad de 50 mm transmiten el sonido con todo detalle, con un enorme rango de frecuencia de 20 Hz-40.000 Hz
-- Horas de comodidad: Equipado con almohadillas de espuma viscoelástica con exterior de microfibra transpirable y una diadema flotante ajustable sin presión
-- Sonido envolvente Dolby Audio 7.1 Dé vida a su juego, situándose directamente en el centro de la acción
+- El potente software CORSAIR iCUE: Permite controlar el ruido local y sincronizar la iluminación RGB con dispositivos CORSAIR compatibles que formen parte de su sistema
 - Micrófono omnidireccional con calidad de transmisión: Capta la voz con una nitidez excepcional, con una función de silenciado y un indicador LED de silenciado integrado
+- Horas de comodidad: Equipado con almohadillas de espuma viscoelástica con exterior de microfibra transpirable y una diadema flotante ajustable sin presión
+- Disfrute del juego: El HS80 RGB USB fusiona el emblemático diseño de CORSAIR, un sonido excelente y una calidad de fabricación de confianza
+- Controles para volumen y silencio en auricular: Le permiten realizar ajustes sobre la marcha sin distraerse del juego
+- Fabricación duradera: Reforzado con aluminio para años de juego competitivo
+- Sonido envolvente Dolby Audio 7.1 Dé vida a su juego, situándose directamente en el centro de la acción
+- Capte todos los sonidos: Desde un débil susurro hasta una explosión estruendosa, un par de transductores de audio de neodimio de alta densidad de 50 mm transmiten el sonido con todo detalle, con un enorme rango de frecuencia de 20 Hz-40.000 Hz
 - Iluminación dinámica RGB: Personalice su aspecto con un abanico casi ilimitado de colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

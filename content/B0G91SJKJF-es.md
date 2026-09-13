@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Conectividad versátil y montaje flexible】Incluye 2× HDMI 2.0 y 1× DisplayPort 1.4 para conectar fácilmente PC, portátil o consola. Compatible con VESA 100 × 100 y ajuste de inclinación −5° a 15°.
-- 【Panel IPS con 95 % DCI-P3 – Colores vibrantes】El panel IPS con cobertura del 95 % del espacio de color DCI-P3 proporciona colores vivos y precisos. Con 178° de ángulo de visión, la imagen se mantiene clara desde diferentes posiciones.
 - 【HDR400 – Contraste y brillo mejorados】Con HDR400 y brillo de 350 cd/m², las zonas claras son más brillantes y los detalles en escenas oscuras se muestran con mayor precisión para una experiencia visual más inmersiva.
+- 【Panel IPS con 95 % DCI-P3 – Colores vibrantes】El panel IPS con cobertura del 95 % del espacio de color DCI-P3 proporciona colores vivos y precisos. Con 178° de ángulo de visión, la imagen se mantiene clara desde diferentes posiciones.
 - 【200 Hz y 1 ms – Juego ultra fluido】Con 200 Hz(UP To 220Hz) de frecuencia de actualización y 1 ms de tiempo de respuesta (MPRT), disfruta de una experiencia de juego extremadamente fluida con menor desenfoque de movimiento. Ideal para FPS, juegos de carreras y e-sports.
+- 【Conectividad versátil y montaje flexible】Incluye 2× HDMI 2.0 y 1× DisplayPort 1.4 para conectar fácilmente PC, portátil o consola. Compatible con VESA 100 × 100 y ajuste de inclinación −5° a 15°.
 - 【Pantalla QHD de 27 pulgadas – Más detalle que Full HD】El monitor gaming de 27 pulgadas con resolución QHD 2560 × 1440 ofrece imágenes mucho más nítidas que los monitores Full HD. Perfecto para gaming, streaming, multimedia y multitarea.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

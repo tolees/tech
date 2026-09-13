@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue 50€ de reembolso al comprar un ordenador HP/OMEN/HyperX junto a un accesorio HP/Poly/OMEN/HyperX. Promoción válida hasta al 15/10/2026
+- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 - Procesador AMD Ryzen 5 7520U (aumento máximo del reloj hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos, 8 subprocesos)
+- Sin sistema operativo
+- Consigue 50€ de reembolso al comprar un ordenador HP/OMEN/HyperX junto a un accesorio HP/Poly/OMEN/HyperX. Promoción válida hasta al 15/10/2026
 - Memoria RAM DDR5-3200 MHz 16 GB (2 x 8 GB)
 - Gráficos Integrados AMD Radeon
-- Sin sistema operativo
-- Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCG2VS1T{{</world>}}

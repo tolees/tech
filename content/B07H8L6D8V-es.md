@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- mini, pequeño, fino, ligero
 - Tecnología, técnica, resistente, retina, táctil
+- mini, pequeño, fino, ligero
 - diseño, estético, arte, estilo, gráfico, plata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

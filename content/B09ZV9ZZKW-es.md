@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria: 64 GB
-- Color: negro
 - Contenido del envío: 1 unidad
+- Color: negro
+- Memoria: 64 GB
 - Tipo de producto: teléfono celular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

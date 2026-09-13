@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Smart Tracking sincronizado: sigue automáticamente personas, mascotas o vehículos detectados.
 - Audio bidireccional & alertas IA: habla y escucha desde la app; notificaciones inteligentes sin cuotas.
 - Cobertura dual 2K: amplia visión con lente gran angular y enfoque telefoto con zoom digital.
-- Smart Tracking sincronizado: sigue automáticamente personas, mascotas o vehículos detectados.
-- Exterior robusto IP66: diseñada para lluvia, polvo y temperaturas extremas.
 - Visión nocturna avanzada: imágenes a color con focos integrados o en infrarrojo incluso en oscuridad total.
+- Exterior robusto IP66: diseñada para lluvia, polvo y temperaturas extremas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G6BMWHYN{{</world>}}

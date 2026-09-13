@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacena más de lo que te gusta
 - Producto de calidad óptima
+- Almacena más de lo que te gusta
 - Estilo contemporáneo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

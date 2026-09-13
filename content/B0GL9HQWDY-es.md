@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tasa de refresco de 144Hz, tiempo de respuesta de 1ms
 - Soporta AMD FreeSync
-- Saturación de color: 104% sRGB
 - Diseño ergonómico: Ajustes de inclinación
+- Saturación de color: 104% sRGB
 - Panel IPS de 23.8 pulgadas con resolución FHD
+- Tasa de refresco de 144Hz, tiempo de respuesta de 1ms
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GL9HQWDY{{</world>}}

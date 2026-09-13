@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda AX900 U11 Adaptador WiFi USB para PC WiFi 6 USB WiFi Doble Banda 5GHz 2.4GHz Adaptador WiFi PC Compatible con Windows 11/10/7 Soft-Ap WPA2'
-date: 2026-09-10 08:41:51
+date: 2026-09-12 07:21:50
 image: 'https://m.media-amazon.com/images/I/41j7yNA8UFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBHC7RG9/?tag=tolees-21'
 descuento: '50.03'
-average: '9.54555555555556'
+average: '9.49000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

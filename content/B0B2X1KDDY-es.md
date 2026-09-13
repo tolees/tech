@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TOTALMENTE PERSONALIZABLE Y RÁPIDO INNOVADOR con interruptores personalizables paramagnéticos OmniPoint 2.0
-- Factor de forma del 60 %. Funcionalidad completa en un tamaño más pequeño. Carcasa superior fabricada en aluminio de alta calidad. Cable USB-C desmontable.
-- Quantum 2.0 Dual Wireless sin retrasos con conexión de 2,4 GHz y Bluetooth 5.0
+- Nota: Es posible que el producto requiera una actualización de firmware importante. Consulte el software SteelSeries Engine para obtener actualizaciones.
 - USO DE BOTÓN DOBLE: dos acciones, un botón: presión ligera para avanzar, presiónelo para correr
+- Quantum 2.0 Dual Wireless sin retrasos con conexión de 2,4 GHz y Bluetooth 5.0
+- DISPARO RÁPIDO: elimina la latencia de operar físicamente el interruptor activando y desactivando dinámicamente los botones según la distancia recorrida en lugar de un punto fijo.
 - EL TECLADO MÁS RÁPIDO DEL MUNDO: funcionamiento 20 veces más rápido y respuesta 11 veces más rápida que los teclados mecánicos tradicionales
 - MÁXIMO CONTROL: 40 niveles de personalización por tecla (de 0,1 a 4,0 mm): configure WASD para pulsaciones ligeras y ultrarrápidas y teclas de habilidad para pulsaciones profundas para evitar activaciones accidentales.
-- Nota: Es posible que el producto requiera una actualización de firmware importante. Consulte el software SteelSeries Engine para obtener actualizaciones.
-- DISPARO RÁPIDO: elimina la latencia de operar físicamente el interruptor activando y desactivando dinámicamente los botones según la distancia recorrida en lugar de un punto fijo.
+- Factor de forma del 60 %. Funcionalidad completa en un tamaño más pequeño. Carcasa superior fabricada en aluminio de alta calidad. Cable USB-C desmontable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2X1KDDY{{</world>}}

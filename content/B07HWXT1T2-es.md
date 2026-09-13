@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mayor uso que la versión gratuita para determinadas funciones de Copilot.²
+- Seguridad avanzada de Microsoft Defender para los datos personales y dispositivos de la familia.
 - Mayor uso de la creación de imágenes con IA en Copilot.²
+- Usa Copilot en determinadas aplicaciones con archivos de trabajo de forma segura.⁴
 - Funciona en PC, Mac, iPhone, iPad y teléfonos y tabletas Android.¹,²
 - Protección contra ransomware en OneDrive para los archivos y fotos de tu familia.
-- Usa Copilot en determinadas aplicaciones con archivos de trabajo de forma segura.⁴
-- Cada persona puede usarlo en hasta 5 dispositivos al mismo tiempo.
-- Para entre 1 y 6 personas (las funciones de IA solo están disponibles para el propietario de la suscripción).
 - Hasta 6 TB de almacenamiento seguro en la nube (1 TB por persona).
-- Seguridad avanzada de Microsoft Defender para los datos personales y dispositivos de la familia.
+- Para entre 1 y 6 personas (las funciones de IA solo están disponibles para el propietario de la suscripción).
+- Cada persona puede usarlo en hasta 5 dispositivos al mismo tiempo.
 - Aplicaciones de escritorio Word, Excel,³ PowerPoint, Outlook y OneNote con Microsoft Copilot.²
+- Mayor uso que la versión gratuita para determinadas funciones de Copilot.²
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HWXT1T2{{</world>}}

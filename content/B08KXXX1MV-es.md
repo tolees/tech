@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOES Alexa WiFi Dimmer Interruptor Luz Módulo 2 Gang Dimmer Inteligente Inalambrico Módulo Compatible con Smart Life Tuya App Alexa Google Home Solo red de 2 4 Ghz e interruptor de reinicio'
-date: 2026-09-10 10:36:56
+date: 2026-09-12 14:03:50
 image: 'https://m.media-amazon.com/images/I/31KGjI34itL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

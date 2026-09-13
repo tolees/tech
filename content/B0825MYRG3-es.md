@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Clásico
-- Camiseta Para hombre
-- Cómodo
 - Corte normal
+- Cómodo
+- Camiseta Para hombre
 - Cuello redondo y serigrafía en parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

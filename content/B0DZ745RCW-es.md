@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Adaptador de Corriente USB-C de 20 W  2025'
-date: 2026-09-10 10:37:07
+date: 2026-09-11 16:29:24
 image: 'https://m.media-amazon.com/images/I/21PUk4IpDEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Operación Multi-Link (MLO): Aumenta la capacidad, reduce la latencia y mejora la confiabilidad para aplicaciones emergentes.
-- Velocidades de doble banda ultrarrápidas de 3.6 Gbps: permite que sus dispositivos funcionen a la máxima velocidad. Disfruta de una transmisión fluida en 4K/8K, juegos AR/VR inmersivos y descargas súper rápidas.
-- Roaming sin interrupciones para una experiencia de red fluida: no más caídas repentinas de señal o WiFi lento mientras caminas por la casa.
+- Tenga en cuenta que las series Halo H y S no pueden funcionar juntas.
 - El nuevo WiFi 7: Gracias a 4K-QAM, MLO, Multi-RUs y otras características que ofrece WiFi 7, su red tendrá un rendimiento asombroso.
+- Velocidades de doble banda ultrarrápidas de 3.6 Gbps: permite que sus dispositivos funcionen a la máxima velocidad. Disfruta de una transmisión fluida en 4K/8K, juegos AR/VR inmersivos y descargas súper rápidas.
 - Fácil instalación y uso: la gestión de la red nunca ha sido tan fácil gracias a la aplicación MERCUSYS.
 - Puerto Multi-Gigabit: 1× 2.5 Gbps WAN/LAN y 2× 1 Gbps puertos de detección automática superan el cuello de botella de 1G, lo que hace que sus dispositivos tengan un excelente rendimiento.
-- Tenga en cuenta que las series Halo H y S no pueden funcionar juntas.
+- Roaming sin interrupciones para una experiencia de red fluida: no más caídas repentinas de señal o WiFi lento mientras caminas por la casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJ2MGZZ2{{</world>}}

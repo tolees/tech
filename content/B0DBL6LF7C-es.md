@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo: PROMP225
 - Imagen definida
+- Modelo: PROMP225
 - Monitor de visualización
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Licencia oficial de Nintendo
-- Resistencia a los arañazos 9H y función de reducción de luz azul
 - Película transparente de alta calidad hecha en Japón
 - Método de aplicación de 3 pasos para obtener un resultado perfecto desde la primera aplicación
+- Resistencia a los arañazos 9H y función de reducción de luz azul
 - Corte especialmente adecuado para la pantalla de Nintendo Switch 2
 - Protector de pantalla premium para Nintendo Switch 2
 

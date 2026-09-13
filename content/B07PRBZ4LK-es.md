@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carrera FIRST
 - A partir de 3 años
-- Elementos de volteo para una mayor diversión en el juego
+- Carrera FIRST
 - Genial pista de slot cars con Super Mario y Luigi y licencia de Nintendo
 - 2 9 metros
+- Elementos de volteo para una mayor diversión en el juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PRBZ4LK{{</world>}}

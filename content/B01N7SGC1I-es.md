@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ✅ Este producto incluye un E-Book que proporciona información útil sobre cómo comenzar su proyecto, ayuda con una configuración rápida y ahorra tiempo en el proceso de configuración. Proporcionamos una serie de ejemplos de aplicación, guías de instalación completas y bibliotecas.
+- ✅ Esta Placa tiene la funcionalidad completa de gracias a su memoria de 8 KBytes, soporte I2C y SPI, así como LEDs de estado y potencia.
 - ✅ Gracias a los 6 pines de E/S, es posible una conexión fiable con otros dispositivos.
 - ✅ Cuenta con interfaz USB 2.0 integrada.
-- ✅ Esta Placa tiene la funcionalidad completa de gracias a su memoria de 8 KBytes, soporte I2C y SPI, así como LEDs de estado y potencia.
 - ✅ La Placa de Desarrollo Digispark Rev.3 Kickstarter ofrece una programación fácil al soportar el Arduino-IDE.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

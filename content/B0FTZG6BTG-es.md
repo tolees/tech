@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FlashTap SOCD: CORSAIR FlashTap SOCD te permite elegir cómo gestiona el teclado las entradas SOCD accidentales para que puedas moverte con precisión y control
 - Teclado de 96 % confiable al 100 %: El diseño optimizado del 96 % proporciona la funcionalidad de un teclado completo con teclas de flecha, teclado numérico, pantalla LCD, dial giratorio y 6 teclas G programables, todo en un formato supercompacto, aproximadamente del tamaño de un teclado TKL
-- Pantalla LCD vibrante a todo color: ¡El teclado del futuro ya está aquí! Personaliza tu teclado como nunca antes con una luminosa pantalla LCD integrada de 1,9", ideal para mostrar animaciones personalizadas, imágenes, estadísticas del sistema y otras funciones
 - Aprovecha cada milisegundo: Utiliza el sondeo avanzado de 8.000 Hz para eliminar el retardo de entrada. Consigue los tiempos de respuesta más rápidos para tus acciones en el juego y comandos de transmisión
 - Integración con Elgato Virtual Stream Deck: Asigna las funciones de Stream Deck directamente a las teclas G programables del VANGUARD 96 y utiliza Virtual Stream Deck para crear accesos directos interactivos. Accede a un nuevo nivel de productividad y optimiza tu rendimiento en el juego
-- FlashTap SOCD: CORSAIR FlashTap SOCD te permite elegir cómo gestiona el teclado las entradas SOCD accidentales para que puedas moverte con precisión y control
+- Pantalla LCD vibrante a todo color: ¡El teclado del futuro ya está aquí! Personaliza tu teclado como nunca antes con una luminosa pantalla LCD integrada de 1,9", ideal para mostrar animaciones personalizadas, imágenes, estadísticas del sistema y otras funciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTZG6BTG{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Soporta AMD FreeSync, Eyesafe 2.0 y HDR Ready
 - Profundidad de color: 10 bits
-- Tasa de refresco de 180Hz, tiempo de respuesta de 1ms
 - Panel VA curvo de 31.5 pulgadas con resolución QHD
+- Tasa de refresco de 180Hz, tiempo de respuesta de 1ms
 - Diseño ergonómico: Ajustes de inclinación
+- Soporta AMD FreeSync, Eyesafe 2.0 y HDR Ready
 - Saturación de color: 120% sRGB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

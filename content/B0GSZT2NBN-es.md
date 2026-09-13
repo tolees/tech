@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose QuietComfort SC Headphones Auriculares inalámbricos con cancelación de Ruido Auriculares de Diadema con Bluetooth micrófono y Cable con hasta 24h de autonomía con Estuche Blando Blanco'
-date: 2026-09-10 05:05:20
+date: 2026-09-11 19:39:31
 image: 'https://m.media-amazon.com/images/I/31sj7e8FNbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

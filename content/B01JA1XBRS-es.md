@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración aproximada del juego: 15 minutos
-- Número de jugadores: 2 - 6
 - La caja tiene las dimensiones: 33.7 x 23.2 x 3.8 cm
+- Número de jugadores: 2 - 6
+- Duración aproximada del juego: 15 minutos
 - Edad recomendada: a partir de 4 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas disponibles: 1,5 m y 20 cm
 - Carga rápida. Es compatible con carga rápida de hasta 60 vatios y permite transferir datos a la velocidad del USB 2.0.
+- Medidas disponibles: 1,5 m y 20 cm
 - Permite cargar dispositivos USB-C. Incluye todos los dispositivos Apple y Android compatibles, así como Apple CarPlay y Android Auto.
 - Durabilidad excepcional. Su diseño trenzado no se enreda y está reforzado para evitar que se rompa.
 - Contenido de la caja: cable de USB-C a USB-C. Adaptador de corriente USB-C no incluido.

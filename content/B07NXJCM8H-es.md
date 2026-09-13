@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Salta, deslízate, balancéate y corre lo más rápido que puedas para perseguir la chispa que te conecta a los demás mientras viajas por un mundo lleno de desafíos y aventuras.
-- Crea lazos con amigos y otros jugadores en un cooperativo local fluido. Apoyaos los unos a los otros mientras resolvéis pruebas peliagudas y pasáis juntos por mundos fascinantes.
-- Un mundo de maravillas: Inspirado en localizaciones reales escandinavas, podrás ver a través de los ojos de los Yarnys preciosos parajes naturales y zonas urbanas complejas. a medida que progresas, verás cómo tu mundo florece y evoluciona, creando nuevos desafíos y espacios a explorar.
-- Recordatorio: El hardware de la consola Nintendo Switch 2 es diferente al de Nintendo Switch, y es posible que algunos juegos de Nintendo Switch no se admitan en Nintendo Switch 2 o no sean totalmente compatibles con ella
 - Supera desafíos jugando: Descubre una gran variedad de formas de jugar.
+- Crea lazos con amigos y otros jugadores en un cooperativo local fluido. Apoyaos los unos a los otros mientras resolvéis pruebas peliagudas y pasáis juntos por mundos fascinantes.
+- Recordatorio: El hardware de la consola Nintendo Switch 2 es diferente al de Nintendo Switch, y es posible que algunos juegos de Nintendo Switch no se admitan en Nintendo Switch 2 o no sean totalmente compatibles con ella
 - Totalmente compatible con Switch 2
+- Un mundo de maravillas: Inspirado en localizaciones reales escandinavas, podrás ver a través de los ojos de los Yarnys preciosos parajes naturales y zonas urbanas complejas. a medida que progresas, verás cómo tu mundo florece y evoluciona, creando nuevos desafíos y espacios a explorar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NXJCM8H{{</world>}}

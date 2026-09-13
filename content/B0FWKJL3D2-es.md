@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sistema de cámara con IA de 50 MP
-- Protección contra el agua IP643 y diseño de primera calidad
 - Hasta 12 GB de RAM con Expansión de memoria
 - Dale vida a tu contenido favorito en una pantalla enorme y brillante de 6,88" con sonido Dolby Atmos, protección subacuática sin preocupaciones, resistencia a temperaturas extremas y una pantalla resistente a los arañazos.
 - Batería increíble de 2 días y disfruta de más tiempo con una sola carga gracias a una batería de 5100 mAh, optimizada para ahorrar energía con Battery Care
+- Protección contra el agua IP643 y diseño de primera calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FWKJL3D2{{</world>}}

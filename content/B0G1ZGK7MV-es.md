@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Active MAX Reloj Inteligente 48mm Pantalla AMOLED 1.5" Batería hasta 25 Días Mapas NFC GPS 170+ Deportes Resistente al Agua Ritmo Cardíaco y Sueño Smartwatch para Android iPhone'
-date: 2026-09-10 22:39:29
+date: 2026-09-12 08:47:59
 image: 'https://m.media-amazon.com/images/I/41FV2R4zRHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G1ZGK7MV/?tag=tolees-21'
 descuento: '21.43'
-average: '140.579523809525'
+average: '140.257272727274'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

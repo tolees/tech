@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color Stellar Gray
-- Procesador Intel Core Ultra 7 processor 155H; 16 cores (6 P-cores + 8 E-cores + 2 Low Power E-cores), Max Turbo Frequency 4.8 GHz
-- Pantalla de 14 Pulgadas 2.8K (2880 x 1800), IPS-Level, 100% DCI-P3(Typical)
 - Almacenamiento 1TB*1 NVMe SSD PCIe Gen4
+- Pantalla de 14 Pulgadas 2.8K (2880 x 1800), IPS-Level, 100% DCI-P3(Typical)
+- Procesador Intel Core Ultra 7 processor 155H; 16 cores (6 P-cores + 8 E-cores + 2 Low Power E-cores), Max Turbo Frequency 4.8 GHz
 - Memoria 8GB*2, DDR5-5600
 
 [🛒 Aquí!!!]({{< param buyurl >}})

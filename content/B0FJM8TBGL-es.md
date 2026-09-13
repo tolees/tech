@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante y refinado
 - Gran batería de 6000mAh (typ). Carga rápida de 33 W
-- Potente procesador octacore
-- Pantalla inmersiva de 6,9”
 - Cámara dual con IA de 50 MP
+- Pantalla inmersiva de 6,9”
+- Potente procesador octacore
+- Diseño elegante y refinado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJM8TBGL{{</world>}}

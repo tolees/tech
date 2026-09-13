@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETECTOR DE CAÍDAS | Ante cualquier movimiento brusco, el reloj generará una alerta telefónica, de esta manera podrá estar siempre comunicado en cualquier circunstancia.
-- SIM INCLUIDA | Incluye tarjeta SIM preactivada con llamadas y datos ilimitados. Plan de suscripción mensual (6 € con un mes gratis) o anual (60 € con dos meses gratis). Además, acceso a SaveFamily Plus, con contenidos expertos en infancia, descuentos y sorteos.
-- FUNCIÓN DE TELÉFONO MÓVIL | No hace falta que lleve el teléfono encima, el reloj GPS para personas mayores, permite hacer llamadas y videollamadas de forma fácil y sencilla.
-- MONITORIZA SU SALUD | Conoce el estado de su salud en todo momento. Este reloj para personas mayores facilita información sobre: presión arterial y oxígeno en sangre. Además, podrás establecer alertas para la toma de medicamentos.
-- LOCALIZADOR GPS | Reloj GPS para personas mayores con localización instantánea gracias a la tecnología 4G.
 - MARCA LÍDER EUROPEA | Todos nuestros relojes están diseñados en España, con materiales resistentes y la máxima seguridad. App gratuita, servicio técnico propio y datos seguros almacenados en Europa.
+- FUNCIÓN DE TELÉFONO MÓVIL | No hace falta que lleve el teléfono encima, el reloj GPS para personas mayores, permite hacer llamadas y videollamadas de forma fácil y sencilla.
+- SIM INCLUIDA | Incluye tarjeta SIM preactivada con llamadas y datos ilimitados. Plan de suscripción mensual (6 € con un mes gratis) o anual (60 € con dos meses gratis). Además, acceso a SaveFamily Plus, con contenidos expertos en infancia, descuentos y sorteos.
+- MONITORIZA SU SALUD | Conoce el estado de su salud en todo momento. Este reloj para personas mayores facilita información sobre: presión arterial y oxígeno en sangre. Además, podrás establecer alertas para la toma de medicamentos.
+- DETECTOR DE CAÍDAS | Ante cualquier movimiento brusco, el reloj generará una alerta telefónica, de esta manera podrá estar siempre comunicado en cualquier circunstancia.
+- LOCALIZADOR GPS | Reloj GPS para personas mayores con localización instantánea gracias a la tecnología 4G.
 - DATOS SEGUROS EN EUROPA | Control mediante app propia cifrada y datos almacenados en servidores europeos para proteger a tus seres queridos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

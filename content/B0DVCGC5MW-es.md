@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tarjeta gráfica integrada Qualcomm Adreno GPU
 - Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
+- Procesador Qualcomm Snapdragon X1-26-100 (8C/OctaCore 3GHz, 30MB)
 - Sistema Operativo: Windows 11 Home
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Memoria RAM de 16GB en placa LPDDR5x
-- Procesador Qualcomm Snapdragon X1-26-100 (8C/OctaCore 3GHz, 30MB)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCGC5MW{{</world>}}

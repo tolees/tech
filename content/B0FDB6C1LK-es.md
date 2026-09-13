@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AI Home. Pantalla táctil donde podrás seleccionar las funciones de forma fácil, ver informes de consumos, recibir llamadas, escuchar música y mucho más.
-- Programa Super Speed. Ten la ropa lista en solo 2 horas mientras ahorras energía. El programa Super Speed puede secar una carga mixta de algodón y sintético en solo 81 minutos*.
-- Secado Automático OptimalDry. Sistema de secado inteligente que utiliza 3 sensores para secar automáticamente tus prendas optimizando el flujo de aire.
 - Inteligencia Artificial y SmartThings. Disfruta de una experiencia de secado única con programas personalizados. Activa AI Energy Mode para ahorrar hasta un 20% de energía*.
+- Programa Super Speed. Ten la ropa lista en solo 2 horas mientras ahorras energía. El programa Super Speed puede secar una carga mixta de algodón y sintético en solo 81 minutos*.
 - Puerta Reversible. Elige en qué dirección quieres que se abra la puerta reversible para que encaje con la lavadora y no te molestará cuando quieras meter la ropa directamente de la lavadora a la secadora.
+- Secado Automático OptimalDry. Sistema de secado inteligente que utiliza 3 sensores para secar automáticamente tus prendas optimizando el flujo de aire.
+- AI Home. Pantalla táctil donde podrás seleccionar las funciones de forma fácil, ver informes de consumos, recibir llamadas, escuchar música y mucho más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDB6C1LK{{</world>}}

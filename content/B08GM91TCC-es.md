@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman Mini Purple Switch - Teclado Gaming compacto para juegos del 60% con interruptores opto-mecánicos tapas de teclas PBT cable USB-C desmontable Teclado Español - Negro'
-date: 2026-05-18 14:46:48
+date: 2026-09-12 11:02:08
 image: 'https://m.media-amazon.com/images/I/41IBSkugYsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GM91TCC-es Razer Huntsman Mini Purple Switch - Teclado Gaming...'
 sku: 'B08GM91TCC-es'
 tags: [ 'teclado','🇪🇸', ]
-actualPrice: 74.37 EUR
+actualPrice: 66.99 EUR
 currency: EUR
-price: 74.37
+price: 66.99
 comparePrice: 129.99 EUR
 prodname: 'Razer Huntsman Mini Purple Switch - Teclado Gaming compacto para juegos del 60% con interruptores opto-mecánicos tapas de teclas PBT cable USB-C desmontable Teclado Español - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GM91TCC/?tag=tolees-21'
-descuento: '42.79'
-average: '89.8404761904761'
+descuento: '48.47'
+average: '87.8534782608695'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Switches ópticos Razer: Ofrece un accionamiento rápido, ligero y fluido que los switches mecánicos, así como óptima durabilidad ya que necesita menos piezas móviles que funcionan con menos fricción; Disponible en dos variantes: lineal y con sonido click
-- Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral: Diseñado para una óptima durabilidad, no se va a deteriorar nunca con un acabado brillante ni se van a desgastar las etiquetas por el uso intenso; Funciones secundarias impresas en el lateral para facilitar la referencia
-- Cable tipo C desmontable: Conecta tu teclado y juega al instante sin líos para tus LAN parties y torneos; Un cierre de seguridad mantiene el cable conectado durante toda la partida
-- Memoria integrada y preajustes de iluminación: Guarda y activa hasta 5 perfiles de teclado sin necesidad de software, mientras lo personalizas más con un paquete de efectos de iluminación
-- Diseño compacto 60 %: óptimo para escritorios pequeños o minimalistas en los que el espacio es primordial; Su diseño compacto significa que te lo puedes llevar sin problemas y es fácil de colocar para jugar, lo que te permite que juegues con comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GM91TCC{{</world>}}

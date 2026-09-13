@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modos de sonido para películas y música mejoradas
-- Conectividad Bluetooth sencilla para transmisión de música
 - Llena la habitación con auténtico sonido Surround de 5.1 canales
 - Reproducción de audio mediante USB
+- Conectividad Bluetooth sencilla para transmisión de música
+- Modos de sonido para películas y música mejoradas
 - Configuración sencilla con entradas HDMI ARC, ópticas y analógicas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

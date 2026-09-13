@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Salida detallada: 25 W como máximo para el teléfono, 5 W como máximo para Earb.UDS, 5 W como máximo para el Apple Watch
 - CERTIFICADO QI2.2: la estación 3 en 1 de 25 W carga el teléfono, los auriculares y el Apple Watch con una alimentación segura y eficiente
 - DIMENSIONES COMPACTAS: Mide 3,94 x 2,36 x 0,87 pulgadas para ahorrar espacio
 - APTO PARA ESTUCHES: La carga inalámbrica funciona a través de fundas de teléfono de hasta 3mm de grosor con anillo magnético para una carga sin complicaciones. Nota: Se recomienda retirar cualquier accesorio magnético o metálico, decoraciones o fundas con un grosor superior a 3mm, ya que pueden interferir con la carga o con la fuerza de atracción magnética.
-- COMPACTO Y PORTÁTIL: El diseño ligero es fácil de transportar y guardar en casa, en la oficina o mientras viaja
-- Salida detallada: 25 W como máximo para el teléfono, 5 W como máximo para Earb.UDS, 5 W como máximo para el Apple Watch
 - ADAPTADOR Y CABLE INCLUIDOS: se incluyen un adaptador de carga rápida de 45W y un cable de 1,5m. Ofrece una colocación flexible y una carga cómoda donde la necesites. Nota: Al utilizar cargadores de terceros, para lograr un rendimiento óptimo, usa un adaptador con certificación PD (potencia mínima de salida: 45W).
+- COMPACTO Y PORTÁTIL: El diseño ligero es fácil de transportar y guardar en casa, en la oficina o mientras viaja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPKTXYGS{{</world>}}

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Batería de 41 horas y carga rápida. Potencia tus aventuras con una batería de larga duración de 5100 mAh y carga TurboPower de 30W
 - Pantalla ultrabrillante Super HD (1220p) de 6,67” + Dolby Atmos. Vea más de mil millones de tonos de color en una pantalla ultrabrillante de 10 bits respaldada por un sonido multidimensional.
 - Fotos impresionantes con Sony LYTIA. Captura fotos impresionantes con la cámara Sony LYTIA 600 de 50 MP impulsada por moto ai, y dispara sin esfuerzo como un profesional.
-- Rendimiento imparable. Siente la potencia de un procesador avanzado junto con 8GB — ampliables a 24 GB con RAM Boost— y 256GB de almacenamiento
 - Diseño atrevido con protección avanzada. Elegantemente fabricado con materiales de primera calidad protección avanzada contra el agua, temperaturas extremas y caídas.
+- Rendimiento imparable. Siente la potencia de un procesador avanzado junto con 8GB — ampliables a 24 GB con RAM Boost— y 256GB de almacenamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GPXHSCPH{{</world>}}

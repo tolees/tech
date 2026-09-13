@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NGS ARTICA Wrath White - Auriculares Supraaurales Inalámbricos Compatibles con Tecnología Bluetooth Micrófono Incorporado 10h de Batería Color Blanco'
-date: 2026-09-10 14:09:27
+date: 2026-09-11 18:39:38
 image: 'https://m.media-amazon.com/images/I/31FWpjfOkvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

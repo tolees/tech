@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Marvel Spiderman Alfombrilla Escritorio - Alfombrilla ratón XXL'
-date: 2026-09-10 18:45:39
+date: 2026-09-12 09:39:41
 image: 'https://m.media-amazon.com/images/I/51BNsB5qWEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BWF2HRYN/?tag=tolees-21'
 descuento: '49.87'
-average: '12.9176923076923'
+average: '12.5286666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aberturas para que salga el aroma de los snacks
 - Con control deslizante para ajustar la dificultad
+- Aberturas para que salga el aroma de los snacks
+- Compatible con snacks para gatos o comida seca de hasta 9 mm de diámetro
 - Bonito diseño con silueta de ratón
 - Premia a tu gato por su comportamiento juguetón
-- Compatible con snacks para gatos o comida seca de hasta 9 mm de diámetro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGGPH1TQ{{</world>}}

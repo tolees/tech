@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Receptor de medios digitales 1-DIN Sintonizador FM/AM con RDS Bluetooth - transmitir música
 - Entrada de audio de 3,5 mm en la parte frontal para teléfonos inteligentes 2 salidas de línea (para altavoces traseros o subwoofer) Ecualizador de 13 bandas con 11 presets
 - Telefonía manos libres vía bluetooth (micrófono incluido) Conecta hasta 5 dispositivos bluetooth al mismo tiempo Entrada USB - reproduce MP3/WMA/FLAC
+- Receptor de medios digitales 1-DIN Sintonizador FM/AM con RDS Bluetooth - transmitir música
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM4YRW5M{{</world>}}

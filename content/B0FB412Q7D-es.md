@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bandeja de 150 hojas
+- Pantalla color de 4.5 cm con botones
 - Conexión móvil/Cloud Mobile Connect App
 - Impresora, Copiadora, Escáner
-- Pantalla color de 4.5 cm con botones
-- Bandeja de 150 hojas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB412Q7D{{</world>}}

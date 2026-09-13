@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB DDR4
-- Tarjeta gráfica integrada Intel Graphics
 - Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
 - Sin Sistema Operativo
+- Memoria RAM de 16GB DDR4
 - Procesador Intel Core 7 150U (10C/DecaCore 5.4GHz, 12MB)
+- Tarjeta gráfica integrada Intel Graphics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CDB56GF{{</world>}}

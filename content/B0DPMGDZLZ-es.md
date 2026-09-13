@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Precisión Hall Effect & Durabilidad: Sticks ultrarresponsivos con anillos anti-fricción y 5 millones de ciclos de vida para movimientos suaves.
 - Base de Carga & 24 Horas de Juego: Batería 1000mAh que se recarga automáticamente en la base – juega sin cables ni complicaciones.
 - Gatillos de Doble Modo: Cambia entre gatillos analógicos (juegos de carrera) y gatillos cortos (FPS) con un interruptor deslizante.
 - 1000Hz Pro-Grade: Domina partidas competitivas con latencia casi cero vía inalámbrica o USB – respuesta de 1ms para PC, Switch/Switch 2 y móvil. La función Wake-up NO es compatible con el Switch 2.
+- Precisión Hall Effect & Durabilidad: Sticks ultrarresponsivos con anillos anti-fricción y 5 millones de ciclos de vida para movimientos suaves.
 - Personaliza Estilo & Luces: Intercambia carcasas (vendidas por separado) y programa tiras RGB con atajos o software – ideal para streams o sincronizar con tu setup.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VELOCIDAD PRECISA: Nuestros switches ópticos ofrecen un tiempo de respuesta de 0,2 ms y una vida útil de 100 millones de clics sin ninguno doble.
 - SEGUIMIENTO FLUIDO: No pierdas el cursor de vista con nuestro sensor BAMF 2.0 26K de entre 100 a 26 000 ppp de resolución, 650 in/s de velocidad y 50 G de aceleración.
+- VELOCIDAD PRECISA: Nuestros switches ópticos ofrecen un tiempo de respuesta de 0,2 ms y una vida útil de 100 millones de clics sin ninguno doble.
 - FORMA VERSÁTIL: Cómodo de agarrar con la palma de la mano, los dedos o a modo de garra. Perfecto para gamers diestros con manos medianas o grandes.
 - BATERÍA DE LARGA DURACIÓN: La partida debe continuar. Juega mientras cargas por USB-C. Experimenta 80 horas de duración de batería para evitar altibajos en tus partidas.
 - FIABILIDAD SEUDOALÁMBRICA: Ofrece tecnología inalámbrica de 2,4 GHz con tiempos de respuesta de 1 ms. Incluye un amplificador que se puede colocar en el escritorio para garantizar la potencia de la señal.

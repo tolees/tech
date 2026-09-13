@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon X ULTRA PIONEER Gore-tex Impermeables Zapatillas de senderismo para hombre'
-date: 2026-09-11 09:34:05
+date: 2026-09-12 17:04:28
 image: 'https://m.media-amazon.com/images/I/41g3L1GQa3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BNW2H624/?tag=tolees-21'
 descuento: '40.01'
-average: '86.99'
+average: '85.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

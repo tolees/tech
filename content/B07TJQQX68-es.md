@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Servicios de instalación profesional que aseguran un rendimiento óptimo
 - Integración con sistemas de seguridad para mayor protección
+- Servicios de instalación profesional que aseguran un rendimiento óptimo
 - Soluciones escalables adecuadas para diferentes tamaños de edificios y necesidades
 - Opciones de entrada sin llave, incluyendo teclado, tarjetas y acceso biométrico
 

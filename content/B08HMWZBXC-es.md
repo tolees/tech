@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore Q30 de Anker Cascos Bluetooth con ANC Híbrida Hi-Res 50H'
-date: 2026-09-10 10:17:06
+date: 2026-09-12 21:15:04
 image: 'https://m.media-amazon.com/images/I/31tMeL2PV9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HMWZBXC/?tag=tolees-21'
 descuento: '33.75'
-average: '64.1893678160919'
+average: '64.0621022727272'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

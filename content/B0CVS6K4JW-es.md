@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Conecta hasta 16 dispositivos a la vez】 Permite vincular hasta 16 dispositivos simultáneamente con una conexión estable y fiable. Perfecto para ver la televisión, disfrutar de tus series favoritas o realizar videollamadas familiares sin interrupciones.
-- 【Aumenta tu red inalámbrica】 El Xiaomi WiFi Range Extender N300 se conecta de forma inalámbrica a tu router para reforzar y ampliar la señal hasta los rincones más difíciles de la casa, como baños, balcones o dormitorios. Disfruta de una cobertura fiable y de alta velocidad en portátiles, tablets, smartphones, videoconsolas y Smart TV.
 - 【2×2 antenas externas con hasta 300 Mbps】 Equipa dos antenas externas que garantizan una velocidad de transmisión estable de hasta 300 Mbps. Optimiza tu experiencia de juego y streaming gracias a una señal más fuerte y estable. Además, selecciona automáticamente la mejor conexión disponible para ofrecer un rendimiento óptimo en todo momento.
+- 【Aumenta tu red inalámbrica】 El Xiaomi WiFi Range Extender N300 se conecta de forma inalámbrica a tu router para reforzar y ampliar la señal hasta los rincones más difíciles de la casa, como baños, balcones o dormitorios. Disfruta de una cobertura fiable y de alta velocidad en portátiles, tablets, smartphones, videoconsolas y Smart TV.
+- 【Conecta hasta 16 dispositivos a la vez】 Permite vincular hasta 16 dispositivos simultáneamente con una conexión estable y fiable. Perfecto para ver la televisión, disfrutar de tus series favoritas o realizar videollamadas familiares sin interrupciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVS6K4JW{{</world>}}
