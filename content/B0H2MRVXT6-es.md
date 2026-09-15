@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Zenbook S16 OLED UM5606GA-SR340W Copilot+ PC - Ordenador Portátil 16" 3K 120Hz AMD Ryzen AI 9 465 32GB RAM 1TB SSD Radeon 880M Windows 11 Home Blanco Escandinavo - Teclado QWERTY español'
-date: 2026-09-11 18:49:02
+date: 2026-09-13 14:51:19
 image: 'https://m.media-amazon.com/images/I/31xH5med7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H2MRVXT6/?tag=tolees-21'
 descuento: '20.01'
-average: '1699.0'
+average: '1665.66666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Lift Ratón Ergonómico Vertical'
-date: 2026-09-11 10:03:42
+date: 2026-09-14 06:00:33
 image: 'https://m.media-amazon.com/images/I/31aMMFdbOTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4DGC27/?tag=tolees-21'
 descuento: '46.21'
-average: '49.2375294117647'
+average: '48.9711494252873'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

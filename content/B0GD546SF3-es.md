@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Posture Báscula de Baño Inteligente de Impedancia 8 Electrodos Pantalla a Color 28 Parámetros de Composición Corporal con Masa Muscular y Grasa Corporal Plataforma Amplia App Bluetooth 180 kg'
-date: 2026-09-12 12:46:46
+date: 2026-09-14 10:03:37
 image: 'https://m.media-amazon.com/images/I/41zQF7HbDcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La tecnología anti-ghosting y anti-flare estándar de SIGMA garantiza un rendimiento de alta gama en condiciones de contraluz
 - Objetivo Sigma 65mm F2 DG DN Contemporary para montura Sony E
+- La tecnología anti-ghosting y anti-flare estándar de SIGMA garantiza un rendimiento de alta gama en condiciones de contraluz
 - La aberración cromática axial se corrige completamente con el uso de vidrio SLD, permitiendo a este objetivo capturar detalles nítidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

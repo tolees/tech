@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El modo de gráficos discretos (diseño MUX) exprime el rendimiento al máximo
-- Tecnología exclusiva Cooler Boost 5
 - 15.6" Full HD (1920x1080), 144 Hz de tasa de refresco, panel IPS-Level
 - Gráfica RTX 4060, GDDR6 8GB
+- Tecnología exclusiva Cooler Boost 5
+- El modo de gráficos discretos (diseño MUX) exprime el rendimiento al máximo
 - Procesador Ryzen 7 8845HS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORGSTA T003 etiquetadora Impresora Pegatinas Autoadhesivas Label Maker'
-date: 2026-09-11 09:42:45
+date: 2026-09-13 19:51:20
 image: 'https://m.media-amazon.com/images/I/41XQErvvD4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DN5BN2GX/?tag=tolees-21'
 descuento: '60.02'
-average: '16.3233333333333'
+average: '16.24'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

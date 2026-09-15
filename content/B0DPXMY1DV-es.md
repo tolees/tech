@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S25 Ultra 256GB Teléfono Móvil con IA Galaxy AI 12GB RAM Cámara 200MP Dual SIM IP68 Garantía del Fabricante 3 Años + 1 Año Extra Titanio Azul Versión Española'
-date: 2026-09-10 08:08:26
+date: 2026-09-14 18:38:36
 image: 'https://m.media-amazon.com/images/I/31M7cA9Nd9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

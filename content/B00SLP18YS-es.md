@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye parasol extraíble
 - Campo de visión diagonal de 180°
-- Montura para Nikon F
-- Enfoque manual
 - Con revestimiento UMC anti-reflectante
-- Gran angular para cámaras réflex digitales con sensor APS-C, Ojo de pez
+- Montura para Nikon F
+- Incluye parasol extraíble
 - Con soportes compatibles con el sistema de enfoque Follow Focus
+- Enfoque manual
+- Gran angular para cámaras réflex digitales con sensor APS-C, Ojo de pez
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00SLP18YS{{</world>}}

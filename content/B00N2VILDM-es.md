@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cable de red Ethernet de cat. 6 para redes domésticas y de oficina con cables.
-- Longitud del cable: 1,52 m.
-- Transmite datos a una velocidad de hasta 1000 Mbps (o hasta 1 Gigabit por segundo).
-- Conecta ordenadores a componentes en una red LAN con cables.
 - Conectores RJ45 garantizan la conectividad universal; ancho de banda de 250 MHz.
+- Longitud del cable: 1,52 m.
+- Conecta ordenadores a componentes en una red LAN con cables.
+- Transmite datos a una velocidad de hasta 1000 Mbps (o hasta 1 Gigabit por segundo).
+- Cable de red Ethernet de cat. 6 para redes domésticas y de oficina con cables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00N2VILDM{{</world>}}

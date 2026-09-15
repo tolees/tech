@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Teclado y mouse con diseño ergonómico
-- Teclado y raton inalámbricos con conexión Bluetooth y conector USB-A
-- Dimensiones del producto: ‎43,7 x 12,6 x 2,2 cm
 - Peso del producto: 630 gramos
+- Dimensiones del producto: ‎43,7 x 12,6 x 2,2 cm
+- Teclado y raton inalámbricos con conexión Bluetooth y conector USB-A
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XRBHFK1{{</world>}}

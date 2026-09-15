@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 2. Protección del medio ambiente, a base de materias primas amiláceas derivadas de recursos vegetales renovables
-- 1. Filamento PLA para impresora 3D (1,75 mm de diámetro, bobina de 1 kg), color naranja
-- 3. Sin impurezas, sin pezuñas
 - 5. Tolerancia de diámetro +/- 0,02 mm
+- 3. Sin impurezas, sin pezuñas
+- 1. Filamento PLA para impresora 3D (1,75 mm de diámetro, bobina de 1 kg), color naranja
 - 4. Temperatura de impresión: 190-220 ℃
 
 [🛒 Aquí!!!]({{< param buyurl >}})

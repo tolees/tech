@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones del artículo: 2.81 pulgadas
-- Restricciones de transporte: {modos: [GROUND], atributos de evaluación: {{4AEA6U6JGyPen4a+NN6aHi6ragF6BWF0U3LTym9SVGFIbgwfiqgiivetRVdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRvdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRvdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRVdSKHAOAAAAAAA3LTym9SVGALNxxABDSKG/3MZMZMZBnxxA9xOKXdSKHakMKPXCJ1W7NxNKNxx+NxMW==}}
+- Proveedor de servicios inalámbricos: todos los operadores
 - Pilas incluidas: Verdaderas
 - Capacidad de almacenamiento de memoria: 128,0 GB
-- Tamaño de la pantalla: 6,1 pulgadas
 - Tecnología de red inalámbrica: WiFi
-- Proveedor de servicios inalámbricos: todos los operadores
+- Dimensiones del artículo: 2.81 pulgadas
+- Restricciones de transporte: {modos: [GROUND], atributos de evaluación: {{4AEA6U6JGyPen4a+NN6aHi6ragF6BWF0U3LTym9SVGFIbgwfiqgiivetRVdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRvdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRvdSKHAOAAAAAAA3LTym9SVGFIbgwfiqgiivetRVdSKHAOAAAAAAA3LTym9SVGALNxxABDSKG/3MZMZMZBnxxA9xOKXdSKHakMKPXCJ1W7NxNKNxx+NxMW==}}
+- Tamaño de la pantalla: 6,1 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNLZSY18{{</world>}}

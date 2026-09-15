@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Velocidad WiFi 6 AX3000 de hasta 3,0 Gbps para transmisiones sin interrupciones, videojuegos en HD y conferencias web
+- Amplía la cobertura WiFi en 100m² creando una red mesh; conecta más de 20 dispositivos
 - Conecte un ordenador, una consola de juegos, un reproductor de streaming u otro dispositivo con cable al puerto Ethernet de 1 Gigabit para obtener la máxima velocidad
 - Conéctalo a cualquier toma de corriente y utiliza el nombre SSID de red existente para que nunca se desconecte mientras se desplaza por la casa u oficina
-- Velocidad WiFi 6 AX3000 de hasta 3,0 Gbps para transmisiones sin interrupciones, videojuegos en HD y conferencias web
 - Configuración rápida con la aplicación Nighthawk o pulse el botón WPS para conectarlo al router.
-- Amplía la cobertura WiFi en 100m² creando una red mesh; conecta más de 20 dispositivos
 - Compatible con cualquier router inalámbrico o router módem con cable; optimizado para routers y dispositivos WiFi 6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

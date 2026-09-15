@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech H390 Auriculares con Cable para PC/Portátil'
-date: 2026-09-10 19:48:16
+date: 2026-09-13 14:56:57
 image: 'https://m.media-amazon.com/images/I/31xsYIxH-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B005BFCNYU/?tag=tolees-21'
 descuento: '52.49'
-average: '25.1075757575757'
+average: '24.7585714285713'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

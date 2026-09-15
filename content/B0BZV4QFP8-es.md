@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore de Anker Liberty 4 NC Auriculares Bluetooth 50 h'
-date: 2026-09-10 08:01:28
+date: 2026-09-13 11:00:43
 image: 'https://m.media-amazon.com/images/I/31InW7uHGNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZV4QFP8/?tag=tolees-21'
 descuento: '40.00'
-average: '60.9491836734695'
+average: '60.676274509804'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

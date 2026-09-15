@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS80 RGB Wireless Auriculares para Juegos Multiplataforma – Blanco'
-date: 2026-09-12 17:57:34
+date: 2026-09-14 07:03:43
 image: 'https://m.media-amazon.com/images/I/31YLokEXRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09TTMBTY5/?tag=tolees-21'
 descuento: '21.96'
-average: '114.523684210527'
+average: '113.139523809525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Forma de la Carcasa: Rectangular
-- - Material de la Carcasa: Resín
 - - Cristal: Fibra Acrílica
-- - Color de la caja: Plata
 - Carcasa
+- - Material de la Carcasa: Resín
+- - Color de la caja: Plata
+- - Forma de la Carcasa: Rectangular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGQ45CCV{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modos de velocidad de combate
 - Entorno visual remasterizado
-- Acción basada en turnos
 - Gráficos actualizados en todas las escenas de vídeo
 - Cambia entre los modos clásico y remasterizado
+- Acción basada en turnos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTKJCRVJ{{</world>}}

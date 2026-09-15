@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'vivo V70 FE 5G Móvil 8+256GB Cámara 200MP OIS Pantalla 1 5K 5250mAh'
-date: 2026-09-10 07:55:28
+date: 2026-09-13 09:24:44
 image: 'https://m.media-amazon.com/images/I/41HxAO+mH0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

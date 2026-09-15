@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía: Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con nosotros en cualquier momento.
 - Tolerancia de diámetro: +/- 0,02 mm
+- Garantía: Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con nosotros en cualquier momento.
 - Rango de temperatura de funcionamiento: 220-250 ° C
 - Buena estanqueidad: no hay riesgo de obstrucción de la bobina o la boquilla.
 - Fácil de usar: sin enredos, sin obstrucciones, sin burbujas, se puede utilizar en varias impresoras 3D populares

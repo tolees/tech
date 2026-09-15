@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado con los profesionales, concebido para gana
 - Tecnología profesional
+- Diseñado con los profesionales, concebido para gana
 - Juega a la velocidad y con fiabilidad de la tecnología inalámbrica LIGHTSPEED de eficacia probada en torneos con PRO X TKL
 - Interruptores de teclas mecánicos
 

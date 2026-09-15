@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring mirilla digital Door View Cam para puertas de 54-75 mm de grosor versión recomendada | Timbre inalámbrico con camara de vigilancia vídeo HD 1080p wifi | 30 días gratis de Ring Home'
-date: 2026-09-11 11:33:13
+date: 2026-09-13 09:19:30
 image: 'https://m.media-amazon.com/images/I/41bB6SKMEcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C92MHTGC/?tag=tolees-21'
 descuento: '61.54'
-average: '56.39625'
+average: '56.0194117647059'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

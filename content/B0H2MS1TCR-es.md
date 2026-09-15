@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS Chromebook Plus CX15 CX1505CTA-S70031 - Ordenador Portátil 15.6" Full HD Intel Core 3 N355 8GB RAM 128GB eMMC Graphics ChromeOS Gris Roca - Teclado QWERTY español'
-date: 2026-09-10 16:59:00
+date: 2026-09-13 09:24:51
 image: 'https://m.media-amazon.com/images/I/31lEv6Y8VbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

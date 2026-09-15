@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones del producto 10,34 × 6,11 × 3,42 cm
-- Sistemas operativos compatibles: Windows 10, Windows 11
-- Con un sensor óptico de 1600 PPP, sensor láser que ofrece precisión y exactitud prácticamente en cualquier superficie
 - Botón izquierdo, derecho y central con rueda de desplazamiento con función doble
 - Compatible con ordenadores que dispongan de un puerto USB-A, conexión 2,4 GHz a través de una llave electrónica
+- Dimensiones del producto 10,34 × 6,11 × 3,42 cm
 - Diseño ergonómico y elegante, práctico para que lo utilices todos los días al trabajar
+- Sistemas operativos compatibles: Windows 10, Windows 11
+- Con un sensor óptico de 1600 PPP, sensor láser que ofrece precisión y exactitud prácticamente en cualquier superficie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DYKGWJH{{</world>}}

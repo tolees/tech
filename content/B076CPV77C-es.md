@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Teclado Universal Wireless BT 3.0
 - QWERTY
+- Teclado Universal Wireless BT 3.0
 - color: turquesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

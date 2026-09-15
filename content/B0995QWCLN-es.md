@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LENGUAJE: Letras, palabras, mecanografía y ortografía.
-- ACTIVIDADES EDUCATIVAS - Inglés y Español, Matemáticas, Dactilografía, Conocimientos generales, Lógica, Música, Lectura del reloj.
 - Y MUCHAS OTRAS CARACTERÍSTICAS. - Conocimientos generales y aprendizaje del tiempo, juegos divertidos para poner a prueba tu lógica, memoria y velocidad.
-- SUPER DISEÑO - Formato práctico y ultraligero para un fácil manejo. Ergonomía inspirada en los ordenadores reales.
+- ACTIVIDADES EDUCATIVAS - Inglés y Español, Matemáticas, Dactilografía, Conocimientos generales, Lógica, Música, Lectura del reloj.
 - DIVERSIÓN - También incluye muchos juegos para divertirse después de aprender.
-- ANIMACIONES GRÁFICAS - Pantalla LCD con animaciones.
-- MATEMÁTICAS: números y cálculo (4 operaciones).
 - PRÁCTICA - Teclado completo para responder a las preguntas.
+- SUPER DISEÑO - Formato práctico y ultraligero para un fácil manejo. Ergonomía inspirada en los ordenadores reales.
 - MÚSICA Y MELODÍA - Secciones musicales de introducción a la música (aprendizaje de notas y composición de melodías).
+- MATEMÁTICAS: números y cálculo (4 operaciones).
+- LENGUAJE: Letras, palabras, mecanografía y ortografía.
+- ANIMACIONES GRÁFICAS - Pantalla LCD con animaciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0995QWCLN{{</world>}}

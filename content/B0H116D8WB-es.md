@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Altavoz Bluetooth Portátil 25W Potente Altavoz Bluetooth Altavoces Graves Duales 25H Reproducción IPX7 RGB Emparejamiento TWS AUX TF USB Ideal Para Actividades Aire Libre Fiestas Viajes.'
-date: 2026-09-11 15:16:30
+date: 2026-09-14 17:50:38
 image: 'https://m.media-amazon.com/images/I/51ZfTwXgKsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

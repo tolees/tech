@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tensión nominal: 250 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3680 vatios (W)
 - 2 puertos de carga USB // Protección contra sobretensión // Protección de contacto reforzada
-- Carcasa de plástico resistente y duradera // Interruptor de encendido/apagado
 - Ideal para TV, monitor, proyector, equipo de alta fidelidad, lámpara, etc.
+- Carcasa de plástico resistente y duradera // Interruptor de encendido/apagado
+- Tensión nominal: 250 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3680 vatios (W)
 - Regleta de enchufes deleyCON de 3 tomas con 2 puertos USB-A y 3 tomas de corriente con conexión a tierra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

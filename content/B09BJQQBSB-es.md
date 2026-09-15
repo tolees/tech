@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core Ultra 7 255H (16C/undefined 5.1GHz, 24MB)
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
-- Tarjeta gráfica integrada Intel Arc 140T
-- Memoria RAM de 16GB en placa LPDDR5x
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
+- Memoria RAM de 16GB en placa LPDDR5x
 - Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica integrada Intel Arc 140T
+- Procesador Intel Core Ultra 7 255H (16C/undefined 5.1GHz, 24MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BJQQBSB{{</world>}}

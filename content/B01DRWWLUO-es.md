@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de memoria del ordenador: DDR3 SDRAM
 - Dispositivos compatibles: Ordenador de sobremesa
+- Tipo de memoria del ordenador: DDR3 SDRAM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DRWWLUO{{</world>}}

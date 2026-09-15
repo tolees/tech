@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba MW2-MG20P BK Forno micro-ondas 20 L brilho 700W/1000W com crispy grill e função de cozedura combinada 9 níveis de potência'
-date: 2026-09-10 17:33:50
+date: 2026-09-13 09:22:15
 image: 'https://m.media-amazon.com/images/I/31BTWH91PfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBVQ42NX/?tag=tolees-21'
 descuento: '28.50'
-average: '77.2073913043479'
+average: '76.75'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

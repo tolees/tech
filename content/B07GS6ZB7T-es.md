@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G502 Hero Ratón Gaming con Cable Alto Rendimiento'
-date: 2026-09-10 07:26:36
+date: 2026-09-14 10:33:46
 image: 'https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS6ZB7T/?tag=tolees-21'
 descuento: '35.07'
-average: '45.9673293768546'
+average: '45.9259292035398'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiempo de Respuesta 1 m/s VRB
-- Pantalla de 27", Full HD 120 Hz, 250 Nits
-- 1xVGA/1xHDMI 1.4, Zeroframe
 - Tecnología anti-fragmentación AdaptiveSync
+- 1xVGA/1xHDMI 1.4, Zeroframe
+- Pantalla de 27", Full HD 120 Hz, 250 Nits
 - Soporte ergonómico con inclinación de pantalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

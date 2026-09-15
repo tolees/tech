@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Astro A50 Lightspeed Auriculares inalámbricos de Gaming + Base'
-date: 2026-09-05 18:01:35
+date: 2026-09-14 09:09:57
 image: 'https://m.media-amazon.com/images/I/41zg6VUrRPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DBJ5YPXZ-es Logitech G Astro A50 Lightspeed Auriculares inalámbricos...'
 sku: 'B0DBJ5YPXZ-es'
 tags: [ 'auriculares','logitech','🇪🇸', ]
-actualPrice: 194.0 EUR
+actualPrice: 220.64 EUR
 currency: EUR
-price: 194.0
+price: 220.64
 comparePrice: 299.99 EUR
 prodname: 'Logitech G Astro A50 Lightspeed Auriculares inalámbricos de Gaming + Base'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBJ5YPXZ/?tag=tolees-21'
-descuento: '35.33'
-average: '211.63909090909'
+descuento: '26.45'
+average: '212.389166666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control avanzado con G HUB y la aplicación Logitech G: optimiza tu experiencia de audio de gaming con EQ paramétrico de 10 bandas, ajustes de micrófono,bloqueador de ruido
-- A50 para gaming se conectan a 3 plataformas a la vez mediante USB-C para que puedas alternar entre Xbox, PS5, PC/Mac o Nintendo Switch/Switch 2 mediante el control integrado en el auricular
-- 24 horas de uso (a 78 dB): la base de carga magnética de la estación base incluida garantiza que tus A50 estén siempre cargados y listos para jugar
-- Transductores de audio PRO-G GRAPHENE: nitidez y respuesta sin precedentes para ofrecer separación de sonido exacta, ubicación y precisión de sincronización(40 mm de diámetro con tecnología Live Edge)
-- Mezcla de dos dispositivos Bluetooth: conéctate a tu dispositivo móvil y mezcla tus comunicaciones de Discord o tu música con el audio de tu juego
-- Micrófono con calidad de difusión: experimenta la máxima articulación con el micrófono de varilla con ancho de banda completo de 48 kHz que alcanza nuevos niveles en cuanto a la calidad de la voz
-- Tecnología inalámbrica LIGHTSPEED de 24 bits: estos auriculares inalámbricos con micrófono ofrecen un sonido de juego envolvente y sin comprimir a toda velocidad
-- DSP de 7 núcleos: extraordinario procesamiento de audio para un modelado avanzado del sonido de los juegos que se guarda en los auriculares mientras cambias de sistema.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBJ5YPXZ{{</world>}}

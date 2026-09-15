@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bresser Galaxia 114/900 EQ-Sky Telescopio Newton Diseño de carbono con Adaptador de Cámara de Smartphone negro'
-date: 2026-08-26 13:55:01
+date: 2026-09-14 08:23:32
 image: 'https://m.media-amazon.com/images/I/31DlDPiomBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00SJ2O17Y-es Bresser Galaxia 114/900 EQ-Sky Telescopio Newton Diseño de...'
 sku: 'B00SJ2O17Y-es'
 tags: [ 'smartphone','🇪🇸', ]
-actualPrice: 199.99 EUR
+actualPrice: 197.19 EUR
 currency: EUR
-price: 199.99
+price: 197.19
 comparePrice: 339.0 EUR
 prodname: 'Bresser Galaxia 114/900 EQ-Sky Telescopio Newton Diseño de carbono con Adaptador de Cámara de Smartphone negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SJ2O17Y/?tag=tolees-21'
-descuento: '41.01'
-average: '211.566666666667'
+descuento: '41.83'
+average: '210.460769230769'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro del ocular: 31.7 mm (1.25")
-- Telescopio Newton completo for beginners, incluye montura, trípode de aluminio y accesorios.
-- Montura ecuatorial profesional
-- Apertura: 114mm; Longitud focal: 900mm; ratio focal: 7.9
-- Volumen de suministro: OTA, montura, trípode de aluminio, buscador LED, 2 oculares, 3x lentes de Barlow, adaptador de cámara para Smartphone, manual de instrucciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00SJ2O17Y{{</world>}}

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecla de navegación: Sí
-- Altavoz: No
-- Funciones: Múltiples teléfonos - 6; Bases múltiples - 5
-- Retro iluminación de LCD: ámbar
-- Jack de auriculares: No
-- Identificador de llamada: Compatibilidad con identificador de llamada: sí
-- Indentificación de llamada audible: No
 - Potenciado de Voz: No
 - Registro de llamada: 50 artículos (número y nombres)
+- Funciones: Múltiples teléfonos - 6; Bases múltiples - 5
+- Tecla de navegación: Sí
+- Identificador de llamada: Compatibilidad con identificador de llamada: sí
+- Jack de auriculares: No
+- Retro iluminación de LCD: ámbar
+- Altavoz: No
+- Indentificación de llamada audible: No
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B005GGQLRE{{</world>}}

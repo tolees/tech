@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Saturación de color: 104% sRGB
 - Soporta AMD FreeSync
 - Diseño ergonómico: Ajustes de inclinación
-- Saturación de color: 104% sRGB
 - Panel IPS de 23.8 pulgadas con resolución FHD
 - Tasa de refresco de 144Hz, tiempo de respuesta de 1ms
 

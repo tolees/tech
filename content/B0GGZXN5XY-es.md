@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore C50i de Anker Auriculares Abiertos con Clip diseño FlexiClip'
-date: 2026-09-11 18:18:00
+date: 2026-09-13 15:02:42
 image: 'https://m.media-amazon.com/images/I/21DAjx8zReL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GGZXN5XY/?tag=tolees-21'
 descuento: '42.86'
-average: '40.59'
+average: '40.47'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

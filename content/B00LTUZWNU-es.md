@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Plug & Play mediante conexión USB: Basta con conectarlo al puerto USB del dispositivo final y empezar a usarlo de inmediato. El ratón tiene un cable de 180 cm de longitud para una máxima flexibilidad (adaptador PS/2 incluido)
 - Sensor óptico: Gracias a su resolución de 1000 ppp, este ratón con cable puede utilizarse fácilmente para trabajos de oficina de todo tipo (procesamiento de textos, hojas de cálculo, Internet, edición de imágenes, etc.)
-- Forma simétrica: Lo pueden usar tanto diestros como zurdos y, con sus dimensiones de 120 x 65 x 40 mm, se adapta prácticamente a todos los tamaños de mano
 - Fabricación de alta calidad en un diseño sencillo: Con el WheelMouse, disfruta de un ratón de ordenador de alta calidad, preciso y sólido como una roca, con 3 botones y PowerWheel para un desplazamiento sencillo
 - Ratón con cable fiable: Se adapta perfectamente a la mano gracias a sus curvas ideales y a su cómodo tamaño. Además, queda genial en cualquier escritorio gracias a su diseño atemporal
+- Forma simétrica: Lo pueden usar tanto diestros como zurdos y, con sus dimensiones de 120 x 65 x 40 mm, se adapta prácticamente a todos los tamaños de mano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LTUZWNU{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
 - Detección IA gratuita – Identifica personas, mascotas, vehículos y llanto de bebé sin suscripción.
 - Seguimiento inteligente automático – La cámara motorizada sigue personas y movimientos en tiempo real.
 - Gran angular + teleobjetivo – Campo de visión de 122° y zoom digital para capturar todos los detalles.
+- Audio bidireccional y control por voz – Comunícate en tiempo real y compatible con Alexa y Google Assistant.
 - Visión nocturna IR hasta 12 m – Imágenes claras incluso en completa oscuridad.
 - Doble lente 2K (3MP + 3MP) – Supervisa dos zonas a la vez con máxima claridad y sin puntos ciegos.
 

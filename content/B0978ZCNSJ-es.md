@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Incluido SecureAccess software
 - Tarjeta de memoria con capacidad de 32 GB x 3
 - Se envía en un embalaje certificado
-- Incluido SecureAccess software
 - Unidad retráctil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

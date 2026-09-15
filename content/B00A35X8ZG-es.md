@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Súper revestimiento de lente multicapa que reduce destellos y las sombras
-- FLD, SLD y elementos de lentes asféricas
-- Lente gran angular con gran apertura máxima de F1.4
 - Imágenes ultra nítidas con alto contraste y la luminosidad periférica
+- FLD, SLD y elementos de lentes asféricas
 - HSM para AF rápido y silencioso
+- Lente gran angular con gran apertura máxima de F1.4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00A35X8ZG{{</world>}}
