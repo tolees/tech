@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía de tres años contra defectos de fabricación.
 - Marca original
+- Garantía de tres años contra defectos de fabricación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNX5FRKP{{</world>}}

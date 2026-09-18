@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño compacto para fácil transporte y ahorro de energía si no detecta cable conectado.
-- Instalación Plug&Play sin necesidad de complicadas configuraciones. Indicadores LED de estado y conexión
-- Se conecta al puerto USB-C o Thunderbolt 3 de los ultra portátiles y ordenadores, tanto Windows como MacOS.
 - Compatible con versiones anteriores de Ethernet 10/100/1000, conexión al router o el switch con puerto estándar RJ-45 cobre
+- Instalación Plug&Play sin necesidad de complicadas configuraciones. Indicadores LED de estado y conexión
+- Diseño compacto para fácil transporte y ahorro de energía si no detecta cable conectado.
+- Se conecta al puerto USB-C o Thunderbolt 3 de los ultra portátiles y ordenadores, tanto Windows como MacOS.
 - Disfruta de conexiones por cable con ancho de banda de 2500 Mbps (2.5 Gigabit). Tendrás 2500 megas, muy superiores al estándar Gigabit, ideal para conexiones a servidores NAS o para Internet fibra de 1 Giga.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

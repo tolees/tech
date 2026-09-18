@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiempo de conversación de hasta 16 horas
+- Batería de larga duración, aprox 200 horas en espera
 - Modo no molestar
 - Bloqueo de llamadas no deseadas
-- Batería de larga duración, aprox 200 horas en espera
 - Compatible con el buscador de llaves (opcional)
+- Tiempo de conversación de hasta 16 horas
 - Diseño estable, sólido y plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

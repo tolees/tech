@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PETKIT Nuevo Comedero Gato Automatico con Cámara Reconocimiento de Varios Gatos 2.4G & 5GHz WiFi 3L Dispensador Comida Gatos/Perros 1080P HD Función AI App Control Cuenco de Acero Inoxidable'
-date: 2026-09-12 19:17:50
+date: 2026-09-18 11:18:19
 image: 'https://m.media-amazon.com/images/I/41kGkqyTj0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GSZ7CWWH/?tag=tolees-21'
 descuento: '25.70'
-average: '134.323333333333'
+average: '133.99'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

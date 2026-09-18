@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene dos modos de enfoque AF y MF con un motor de enfoque ultrasónico
-- Diámetro del anillo de filtros de 52 mm
-- Objectivo estándar de 30 mm compatible con Sony E
-- Tiene una construcción de 9 elementes en 8 grupos
 - Disenado con una abertura máxima de f/1.4 y mínima f/16
+- Tiene una construcción de 9 elementes en 8 grupos
+- Tiene dos modos de enfoque AF y MF con un motor de enfoque ultrasónico
+- Objectivo estándar de 30 mm compatible con Sony E
+- Diámetro del anillo de filtros de 52 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01C3SCKI6{{</world>}}

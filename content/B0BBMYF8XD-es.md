@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon SELPHY CP1500 Impresora Fotográfica Mini Portátil Inalámbrica'
-date: 2026-08-30 20:10:57
+date: 2026-09-18 16:20:56
 image: 'https://m.media-amazon.com/images/I/31YwRqk5acL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BBMYF8XD/?tag=tolees-21'
 descuento: '20.53'
-average: '113.708'
+average: '114.354117647059'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidad de impresión color: 1.3 pages_per_minute
-- Impresión fotográfica en tamaño postal, tarjeta de crédito y miniadhesivos
-- Wi-Fi, USB-C, lector de tarjetas de memoria, pantalla LCD de 8,9.cm
-- Impresora fotográfica compacta con sublimación de tinta
-- Velocidad de impresión blanco-nero: 1.3 pages_per_minute
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBMYF8XD{{</world>}}

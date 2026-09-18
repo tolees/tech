@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOCOL Funda para iPhone 18 Pro MAX Compatible con MagSafe Titanio Negro'
-date: 2026-09-16 15:03:23
+date: 2026-09-17 18:56:56
 image: 'https://m.media-amazon.com/images/I/412rV3Y6bvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

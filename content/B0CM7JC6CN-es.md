@@ -29,14 +29,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Piel auténtica y flexible: funda hecha de piel de plena flor que envejecerá elegantemente a medida que la uses, confiriéndole así un aspecto único y personal. Material procedente de proveedores con un certificado Gold del Leather Working Group.
-- Diseñada para proteger y adaptarse a la perfección a los nuevos Kindle Paperwhite (2024), Kindle Paperwhite Signature Edition (2024) y Kindle Colorsoft y Kindle Colorsoft Signature Edition.
-- Embalaje sostenible: el 99 % del embalaje del dispositivo está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
-- Dos colores a elegir: rubí y café.
-- Fácil de usar: la funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
-- Sin complicaciones: el acople magnético mantiene la funda firmemente cerrada.
-- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
-- Protege tu Kindle: el forro de microfibra de la funda protege la pantalla de arañazos.
 - Diseño fino y ligero: lee durante horas con total comodidad.
+- Dos colores a elegir: rubí y café.
+- Diseñada para proteger y adaptarse a la perfección a los nuevos Kindle Paperwhite (2024), Kindle Paperwhite Signature Edition (2024) y Kindle Colorsoft y Kindle Colorsoft Signature Edition.
+- Protege tu Kindle: el forro de microfibra de la funda protege la pantalla de arañazos.
+- Fácil de usar: la funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
+- Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
+- Sin complicaciones: el acople magnético mantiene la funda firmemente cerrada.
+- Embalaje sostenible: el 99 % del embalaje del dispositivo está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CM7JC6CN{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Samsung
 - 2 ans
+- Samsung
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NTNV7S2{{</world>}}

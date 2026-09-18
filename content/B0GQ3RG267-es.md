@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Smart Band 10 Pro Pulsera Inteligente 21 días Rosa'
-date: 2026-09-12 15:22:47
+date: 2026-09-17 20:39:51
 image: 'https://m.media-amazon.com/images/I/41JCABv9GJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQ3RG267/?tag=tolees-21'
 descuento: '35.00'
-average: '75.2366666666667'
+average: '74.2120000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

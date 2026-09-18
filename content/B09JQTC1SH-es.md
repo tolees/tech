@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPVAN E10 Etiquetadora Bluetooth con Etiquetas Adhesivas Continuas Negro'
-date: 2026-09-13 14:17:37
+date: 2026-09-16 18:29:53
 image: 'https://m.media-amazon.com/images/I/41didavOBlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09JQTC1SH/?tag=tolees-21'
 descuento: '46.18'
-average: '19.5773333333333'
+average: '19.3625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

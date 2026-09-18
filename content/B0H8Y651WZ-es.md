@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TIMU Altavoz Bluetooth Portátil 25W con Graves Profundos'
-date: 2026-09-14 12:45:35
+date: 2026-09-18 06:53:42
 image: 'https://m.media-amazon.com/images/I/51TcvN7rPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hasta 1200 Mbps con Wi-Fi: todos los dispositivos reciben una señal Wi-Fi potente; velocidad Powerline de hasta 2400 Mbps
 - Última generación G.hn, no compatible hacia abajo: combinable con todos los adaptadores devolo Magic; los adaptadores de la serie dLAN no son compatibles
 - Powerline es la mejor solución Wi-Fi: Internet se transmite a través de techos y paredes a todas las habitaciones mediante una línea eléctrica
-- Hasta 1200 Mbps con Wi-Fi: todos los dispositivos reciben una señal Wi-Fi potente; velocidad Powerline de hasta 2400 Mbps
 - Juego de adaptadores para crear una red Powerline devolo Magic con 3 adaptadores: optimo para Internet entre habitaciones y plantas de hasta 3 pisos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

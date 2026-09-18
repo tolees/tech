@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El contenido del «Cofre del explorador» solo se validará antes de comenzar una nueva partida.
 - Libro de ilustraciones digital y mini banda sonora
+- El contenido del «Cofre del explorador» solo se validará antes de comenzar una nueva partida.
 - Objetos adicionales en el juego (cofre del explorador, paquete Colaboración con Monster Hunter, zapatos de Sonic Adventure 2, atuendo Espíritu festivo)
-- Sonic Frontiers - Definitive Edition incluye: El juego Sonic Frontiers La campaña «Horizonte final»
 - Las actualizaciones «Vistas, sonidos y velocidad» y «Cumpleaños de Sonic»
+- Sonic Frontiers - Definitive Edition incluye: El juego Sonic Frontiers La campaña «Horizonte final»
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H726PWB4{{</world>}}

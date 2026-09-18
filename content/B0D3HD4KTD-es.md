@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G309 Ratón inalámbrico Lightspeed para Gaming'
-date: 2026-09-01 18:33:16
+date: 2026-09-17 13:41:30
 image: 'https://m.media-amazon.com/images/I/31NZup9FdfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D3HD4KTD-es Logitech G G309 Ratón inalámbrico Lightspeed para Gaming'
 sku: 'B0D3HD4KTD-es'
 tags: [ 'logitech','ratón','🇪🇸', ]
-actualPrice: 42.69 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 42.69
+price: 49.99
 comparePrice: 79.99 EUR
 prodname: 'Logitech G G309 Ratón inalámbrico Lightspeed para Gaming'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D3HD4KTD/?tag=tolees-21'
-descuento: '46.63'
-average: '47.026'
+descuento: '37.50'
+average: '47.52'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control máximo: Hasta 6 botones programables para personalizar el juego y los accesos directos
-- Carga mínima: Más de 300 horas con una batería AA o duración ilimitada con POWERPLAY, para que te concentres en el juego, no en la duración de la batería
-- Contenido de la caja Ratón para gaming G309 LIGHTSPEED, receptor LIGHTSPEED, cable de extensión del receptor, batería AA, cinta de recubrimiento, documentación del usuario.
-- Velocidad máxima: Interruptores óptico-mecánicos LIGHTFORCE con velocidad óptica, tacto mecánico y rendimiento optimizado para gaming
-- Precisión máxima: El sensor HERO 25K de este ratón inalámbrico para gaming hace seguimientos con precisión submicrométrica y sin suavizado para ofrecer un gaming inalámbrico preciso.
-- Peso mínimo: Logitech G309 LIGHTSPEED es un ratón para gaming ligero que solo pesa 86 g con la batería AA incluida o 68 g (sin la batería) mediante el uso del sistema de carga inalámbrico POWERPLAY
-- Este producto hace parte de la selección de Gamergy, canjea tu código "LOGIGAMERGY" entre el 13 y 15 de diciembre al finalizar tu compra.
-- Juego máximo: Cambia entre la tecnología inalámbrica LIGHTSPEED, sólida pero de baja latencia, y Bluetooth con este ratón inalámbrico para gaming, y disfruta una flexibilidad inalámbrica total
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3HD4KTD{{</world>}}

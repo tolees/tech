@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es para PS4
 - Es divertido
+- Es para PS4
 - Juego de acción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiempo de Respuesta 1 ms (VRB)
 - 1xVGA/1xHDMI 1.4, Zeroframe
 - Soporte ergonómico con inclinación de pantalla
+- Tiempo de Respuesta 1 ms (VRB)
 - Pantalla de 27", Full HD TFT IPS 120 Hz, 250 Nits
 - Tecnología anti-fragmentación AdaptiveSync
 

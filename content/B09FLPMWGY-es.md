@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control táctil para activar las funciones de llamada y reproducir/pausar.
 - Tecnología TWS (True Wireless Stereo) permite emparejar dos dispositivos de audio entre sí a través de Bluetooth.
+- Licencia oficial Nintendo
 - La carcasa de carga permite cargar los auriculares varias veces
 - Batería recargable. Tiempo de reproducción de 6 horas. Tiempo de reposo: 4 días.
-- Licencia oficial Nintendo
+- Control táctil para activar las funciones de llamada y reproducir/pausar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FLPMWGY{{</world>}}

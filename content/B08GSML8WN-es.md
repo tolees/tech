@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sensibilidad 100 db. Impedancia de 32 ohm
 - Auriculares de 40 mm. Compatible multiplataforma.
 - Producto con licencia oficial de L.O.L Surprise
 - Respuesta de frecuencia de 20 hz– 20 khz
-- Sensibilidad 100 db. Impedancia de 32 ohm
 - Auriculares de diadema ajustables para niños de 7 años y más. Plegable para llevar a cualquier lugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

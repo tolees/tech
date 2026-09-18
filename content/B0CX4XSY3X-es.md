@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El embalaje de este accesorio es 100 % reciclable (no incluye el embalaje del centro logístico).
 - La funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano. No hace falta quitarla para cargar el dispositivo.
-- Diseñada para ajustarse perfectamente a tu nuevo Kindle (solo compatible con los modelos de 2022 y 2024).
 - Diseño fino y ligero para que puedas leer durante horas con total comodidad.
 - Tela de calidad y forro de microfibra que protege la pantalla a la vez que la mantiene limpia.
 - Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
 - Fabricada con un 51 % de plásticos reciclados posconsumo y un 67 % de tela reciclada posconsumo.
-- El embalaje de este accesorio es 100 % reciclable (no incluye el embalaje del centro logístico).
+- Diseñada para ajustarse perfectamente a tu nuevo Kindle (solo compatible con los modelos de 2022 y 2024).
 - La tapa con imanes mantiene la funda firmemente cerrada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

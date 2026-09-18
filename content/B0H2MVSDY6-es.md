@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: ChromeOS
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
+- Almacenamiento de 128GB eMMC
 - Tarjeta gráfica integrada ARM Mali-G57 MC2
 - Procesador MediaTek Kompanio 540 (8C/OctaCore 2 / 2.6GHz, 1MB)
-- Almacenamiento de 128GB eMMC
+- Sistema Operativo: ChromeOS
 - Memoria RAM de 4GB en placa LPDDR5x
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 300 nits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H2MVSDY6{{</world>}}

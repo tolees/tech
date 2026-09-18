@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NGS Cross Flip Pink - Auriculares Intraaurales con Micrófono y Botón Multifunción Control de Música y Llamadas Cable 120 cm Jack 3 5 mm'
-date: 2026-09-14 09:15:05
+date: 2026-09-17 09:35:41
 image: 'https://m.media-amazon.com/images/I/41nCRU6XGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

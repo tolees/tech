@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GLORIOUS Model O Ratón Gaming con Cable Ergonómico Matte White'
-date: 2026-09-16 08:53:27
+date: 2026-09-17 14:02:49
 image: 'https://m.media-amazon.com/images/I/41ezoQGnzLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGDRBBF/?tag=tolees-21'
 descuento: '61.74'
-average: '36.5228571428572'
+average: '34.8262500000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

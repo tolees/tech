@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El embalaje puede variar
 - La siguiente información se aplica a cada unidad del paquete
+- El embalaje puede variar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FPGMLC48{{</world>}}

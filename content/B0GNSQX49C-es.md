@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño sin bordes en cuatro lados
-- Diseño ergonómico: Ajustes de altura, inclinación, giro y pivote
-- Panel WOLED de 27 pulgadas con resolución QHD de 2560x1440
-- Tasa de refresco de 240Hz, tiempo de respuesta de 0.03ms
 - Soporta VESA DisplayHDR True Black 400, AMD FreeSync Premium, Compatible con G-SYNC
 - Pantalla de 10 bits con 99% de gama de colores DCI-P3
+- Panel WOLED de 27 pulgadas con resolución QHD de 2560x1440
+- Tasa de refresco de 240Hz, tiempo de respuesta de 0.03ms
+- Diseño sin bordes en cuatro lados
+- Diseño ergonómico: Ajustes de altura, inclinación, giro y pivote
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GNSQX49C{{</world>}}

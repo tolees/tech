@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iZEEKER 3 Canales 4K Dashcam con Tarjeta de 32GB GRATIS Cámara Coche Frontal Trasera e Interior 4K+1080P+1080P con WDR Visión Nocturna IR WiFi 6 Ángulo 170° G-Sensor Modo de Estacionamiento 24H'
-date: 2026-09-16 07:15:16
+date: 2026-09-18 11:31:35
 image: 'https://m.media-amazon.com/images/I/51MqycHnXVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D58HZF7P/?tag=tolees-21'
 descuento: '43.01'
-average: '71.83'
+average: '70.7692857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

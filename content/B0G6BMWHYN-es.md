@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Visión nocturna avanzada: imágenes a color con focos integrados o en infrarrojo incluso en oscuridad total.
 - Smart Tracking sincronizado: sigue automáticamente personas, mascotas o vehículos detectados.
 - Cobertura dual 2K: amplia visión con lente gran angular y enfoque telefoto con zoom digital.
-- Visión nocturna avanzada: imágenes a color con focos integrados o en infrarrojo incluso en oscuridad total.
 - Audio bidireccional & alertas IA: habla y escucha desde la app; notificaciones inteligentes sin cuotas.
 - Exterior robusto IP66: diseñada para lluvia, polvo y temperaturas extremas.
 

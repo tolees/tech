@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con ATX 3.1: la serie Prime Gold cumple con las especificaciones ATX 3.1 e incluye un cable PCIe de 16 pines capaz de suministrar hasta 600 vatios de potencia a las tarjetas gráficas PCIe 5.1.
-- Los cables trenzados totalmente modulares mantienen tu equipo limpio y ordenado.
-- Incluye 8 años de cobertura.
 - Certificación 80 Plus y Cybenetics Gold: el resultado de condensadores de baja ESR y otros componentes de primera calidad.
+- Incluye 8 años de cobertura.
+- Los cables trenzados totalmente modulares mantienen tu equipo limpio y ordenado.
+- Compatible con ATX 3.1: la serie Prime Gold cumple con las especificaciones ATX 3.1 e incluye un cable PCIe de 16 pines capaz de suministrar hasta 600 vatios de potencia a las tarjetas gráficas PCIe 5.1.
 - Rodamientos de bolas dobles para ventiladores que pueden durar hasta el doble que los diseños con rodamientos de manguito.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

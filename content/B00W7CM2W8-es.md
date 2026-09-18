@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante de gran calidad, ahora en color negro
-- Para usar con las lentes SEL16F28 y SEL20F28
 - Longitud focal montado en la SEL16F28, 12 mm y en la SEL20F28, 16 mm
-- La apertura máxima de F2.8 de la lente se mantiene para que no haya pérdida de luz
+- Diseño elegante de gran calidad, ahora en color negro
 - Mecanismo de bayoneta fácil de acoplar con bloqueo para ajuste rápido
+- La apertura máxima de F2.8 de la lente se mantiene para que no haya pérdida de luz
+- Para usar con las lentes SEL16F28 y SEL20F28
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W7CM2W8{{</world>}}

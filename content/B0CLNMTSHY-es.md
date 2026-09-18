@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COOLHOOD Monitor Portatil 15.6" Pantalla Ordenador 1080P IPS 100% SRGB'
-date: 2026-09-15 18:45:35
+date: 2026-09-18 10:27:06
 image: 'https://m.media-amazon.com/images/I/41f-iJk4hcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CLNMTSHY/?tag=tolees-21'
 descuento: '40.00'
-average: '63.24'
+average: '62.1566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

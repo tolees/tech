@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura Color negro/plateado'
-date: 2026-09-15 16:48:13
+date: 2026-09-18 16:45:42
 image: 'https://m.media-amazon.com/images/I/31ZClWSgLzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CH1NAQ/?tag=tolees-21'
 descuento: '62.78'
-average: '9.49734323432382'
+average: '9.48385245901678'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

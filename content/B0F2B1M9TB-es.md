@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Watch FIT 4 Smartwatch Brillo Máximo de 2.000 nits Barómetro Gris'
-date: 2026-09-13 08:59:20
+date: 2026-09-17 12:52:52
 image: 'https://m.media-amazon.com/images/I/51IXYA4sSQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F2B1M9TB/?tag=tolees-21'
 descuento: '35.50'
-average: '114.6425'
+average: '113.514'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

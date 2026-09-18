@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alimentado por GeForce RTX 5060
-- Estructura reforzada
 - Sistema de refrigeración WINDFORCE
+- Estructura reforzada
 - Alimentado por la arquitectura NVIDIA Blackwell y DLSS 4
 - Integrado con interfaz de memoria GDDR7 de 8GB y 128 bits
 

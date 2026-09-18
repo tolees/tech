@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C210 - Cámara de Vigilancia WiFi Interior 360º 2K 3MP Detección IA'
-date: 2026-09-14 09:24:35
+date: 2026-09-18 10:26:55
 image: 'https://m.media-amazon.com/images/I/41QWXco82uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B095CLQ1PT/?tag=tolees-21'
 descuento: '41.13'
-average: '27.8475471698114'
+average: '27.7406134969326'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

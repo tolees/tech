@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fēnix 8 ofrece ahora opciones con una brillante pantalla AMOLED para que la información detallada y los mapas sean fáciles de leer de un vistazo, al tiempo que sigue proporcionando una gran duración de la batería con hasta 16 días en modo smartwatch.
-- La resistencia al agua para inmersiones de 40 metros y los botones inductivos te permiten alcanzar nuevas profundidades gracias a la compatibilidad con apps específicas para actividades de buceo y apnea.
-- Mejora el rendimiento de tu cuerpo y evita lesiones con planes de entrenamiento de fuerza específicos, además de entrenamientos específicos para diferentes tipos de actividad y adaptado a atletas de todo tipo.
 - Realiza y contesta llamadas telefónicas desde tu reloj cuando esté emparejado con tu smartphone. Además, controla las funciones del reloj con comandos de voz sin conexión a la red, o utiliza el asistente de voz de tu smartphone.
+- La resistencia al agua para inmersiones de 40 metros y los botones inductivos te permiten alcanzar nuevas profundidades gracias a la compatibilidad con apps específicas para actividades de buceo y apnea.
+- Fēnix 8 ofrece ahora opciones con una brillante pantalla AMOLED para que la información detallada y los mapas sean fáciles de leer de un vistazo, al tiempo que sigue proporcionando una gran duración de la batería con hasta 16 días en modo smartwatch.
+- Mejora el rendimiento de tu cuerpo y evita lesiones con planes de entrenamiento de fuerza específicos, además de entrenamientos específicos para diferentes tipos de actividad y adaptado a atletas de todo tipo.
 - Explora nuevas vistas con los mapas TopoActive con sombreado en relieve, además de los mapas integrados de miles de campos de golf y estaciones de esquí de todo el mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

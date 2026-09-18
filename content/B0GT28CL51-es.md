@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PIXMA TS6550I - Impresora Todo en Uno con Conectividad Wi-Fi y Pantalla OLED de 1 42 PIXMA Print Plan - Incluye Papel Fotográfico A4 SG-201 5 Hojas'
-date: 2026-09-16 10:54:06
+date: 2026-09-17 13:43:40
 image: 'https://m.media-amazon.com/images/I/31SNBze+oaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Z906 5.1 Sistema de Altavoces Sonido Envolvente THX'
-date: 2026-09-16 06:57:30
+date: 2026-09-17 21:49:14
 image: 'https://m.media-amazon.com/images/I/41LFrUu+k8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004PGM9KY/?tag=tolees-21'
 descuento: '19.20'
-average: '266.900285714284'
+average: '267.341944444443'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

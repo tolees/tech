@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Requiere instalación
 - Producto de calidad óptima
 - Accesorio para ciclismo
+- Requiere instalación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7KWGSKM{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Batería total de 40 horas + carga rápida
-- Ganchos moldeables y buds
-- Tecnología integrada de rejilla
 - IP67 Sweat and Waterproof
+- Tecnología integrada de rejilla
+- Ganchos moldeables y buds
 - Funda de carga inalámbrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

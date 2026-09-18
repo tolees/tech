@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Insta360 GO 3S Negro 128GB - Cámara Vlogging 4K POV Manos Libres Móntala Donde Quieras Estabilización 140 Min de batería Impermeable 10 M Edición IA Apple Find My Vlog Viajes'
-date: 2026-09-14 11:57:34
+date: 2026-09-18 12:58:30
 image: 'https://m.media-amazon.com/images/I/41xTGxtSvuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

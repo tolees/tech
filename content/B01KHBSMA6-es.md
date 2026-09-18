@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amplitud de movimiento del joystick derecho mejorada (46º)
+- Peso de mando ajustable, pesas incluidas (2x10 / 2x14 / 2x17g)
 - 4 botones de acción adicionales en el dorso del mando
+- Amplitud de movimiento del joystick derecho mejorada (46º)
 - Modo Pro-Gamer: para todos los juegos, el mando emula teclado y ratón
 - Software dedicado que permitirá crear y modificar hasta 4 perfiles y haver un mando a medida
-- Peso de mando ajustable, pesas incluidas (2x10 / 2x14 / 2x17g)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KHBSMA6{{</world>}}

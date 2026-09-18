@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60GHz
-- Procesador AMD Ryzen 5 5625U (6C/Hexa-Core), 2,30 GHz
+- Almacenamiento de 512 GB SSD PCI EXPRESS
 - Tarjeta Gráfica AMD Radeon Graphics
 - Sin sistema operativo
-- Almacenamiento de 512 GB SSD PCI EXPRESS
+- Procesador AMD Ryzen 5 5625U (6C/Hexa-Core), 2,30 GHz
 - Memoria RAM de 16 GB DDR4 SDRAM
+- Pantalla de 15,6", Full HD LCD 1920 x 1080 pixeles, 60GHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW8NJ7C5{{</world>}}

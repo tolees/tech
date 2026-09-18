@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calculadora de sobremesa de 12 dígitos compacta
-- Amplias funciones de cálculo financiero y de impuestos
-- Más respetuosa con el medio ambiente gracias al uso de material reciclado de productos de Canon en algunas piezas de plástico
-- Elegante cuerpo curvo
 - Tecla de comprobación automática de 120 pasos de cálculo memorizados
+- Elegante cuerpo curvo
+- Más respetuosa con el medio ambiente gracias al uso de material reciclado de productos de Canon en algunas piezas de plástico
+- Amplias funciones de cálculo financiero y de impuestos
+- Calculadora de sobremesa de 12 dígitos compacta
 - Función de apagado automático para ahorrar energía
 
 [🛒 Visítala!!!]({{< param buyurl >}})

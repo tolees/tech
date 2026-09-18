@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Placa base para estación de trabajo
 - Tarjeta madre
+- Placa base para estación de trabajo
 - Con 7 ranuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

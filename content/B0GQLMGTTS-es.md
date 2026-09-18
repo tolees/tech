@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Redmi Watch 6 smartwatch Hombre y Mujer 24 días Azul'
-date: 2026-09-10 09:58:32
+date: 2026-09-18 17:20:53
 image: 'https://m.media-amazon.com/images/I/41iMhSABKuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

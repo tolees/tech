@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G321 Lightspeed Auriculares inalámbricos Bluetooth para Gaming'
-date: 2026-09-15 23:19:52
+date: 2026-09-17 17:21:12
 image: 'https://m.media-amazon.com/images/I/31UaahLVeiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FL7QLH89/?tag=tolees-21'
 descuento: '50.14'
-average: '40.44875'
+average: '39.8322222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STRONG AV600 PLC Powerline Set con Enchufe Sin WiFi Puerto LAN 100 Mbit/s'
-date: 2026-09-15 10:49:32
+date: 2026-09-16 20:53:14
 image: 'https://m.media-amazon.com/images/I/411dO9vu7WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cámara dual de 50 MP con OIS. Imágenes más nítidas con el sensor Light Fusion 800
-- Procesador Snapdragon 8 Gen 3. Procesador de 4 nm de gran eficiencia
 - Batería de gran capacidad de 6000 mAh. 90W HyperCharge
+- Procesador Snapdragon 8 Gen 3. Procesador de 4 nm de gran eficiencia
 - Pantalla de 6,67" 2K 120Hz Flow AMOLED. Marcos más delgados para una visión inmersiva
+- Cámara dual de 50 MP con OIS. Imágenes más nítidas con el sensor Light Fusion 800
 - Resistencia IP68 al polvo y al agua. Cristal trasero premium con marcos de metal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

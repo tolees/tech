@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Drop del talón a los dedos: 6 mm
-- Detalles de la marca PUMA
-- Recomendado para: pisada neutra
-- Ancho estándar
 - Con cordones
+- Detalles de la marca PUMA
+- Drop del talón a los dedos: 6 mm
+- Ancho estándar
+- Recomendado para: pisada neutra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63PPHJH{{</world>}}

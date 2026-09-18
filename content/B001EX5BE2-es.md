@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La marca del producto es Canon
 - El número de modelo es 1977B002
+- La marca del producto es Canon
 - El representa un cartucho de tóner
 - Viene en color amarillo
 

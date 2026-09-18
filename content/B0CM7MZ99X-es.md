@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda Amazon Kindle Paperwhite y Amazon Kindle Colorsoft Signature Edition | Funda protectora ligera plegable y resistente al agua | Piel prémium'
-date: 2026-09-16 07:01:08
+date: 2026-09-17 07:51:23
 image: 'https://m.media-amazon.com/images/I/41yiZPNaUuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

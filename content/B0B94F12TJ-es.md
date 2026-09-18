@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fiable: Fabricado en material ABS, con fuente de alimentación de emergencia (3 Baterías D)
 - Inteligente: Permite control remoto y programar comidas a través de una app para móvil
-- Gran Capacidad: Almacena hasta 4 Litros de comida
 - Seguro: Este producto cumple con la normativa vigente y los Certificados CE y RoHS
+- Gran Capacidad: Almacena hasta 4 Litros de comida
 - Multimedia: Incluye pantalla LCD y permite grabar un audio para reproducir al dispensar la comida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
