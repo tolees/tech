@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Cobra Minecraft Edition - Ratón de Juego Ligero con Cable - Sensor 8500 dpi 58g Interruptores ópticos de ratón 3th Gen Iluminación Chroma con Resplandor Degradado Speedflex Minecraft'
-date: 2026-09-19 17:00:56
+date: 2026-09-24 15:10:52
 image: 'https://m.media-amazon.com/images/I/31j-QFuEj7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DVC6VVYW/?tag=tolees-21'
 descuento: '35.01'
-average: '45.0233333333333'
+average: '45.0525'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

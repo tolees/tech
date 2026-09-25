@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Pro X Superlight 2 SE ratón inalámbrico para Gaming'
-date: 2026-09-17 05:22:03
+date: 2026-09-24 22:16:41
 image: 'https://m.media-amazon.com/images/I/31+LxMw6m2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

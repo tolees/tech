@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C110 - Cámara vigilancia WiFi Interior/Exterior 2K 3MP Alexa&Google'
-date: 2026-09-19 16:50:27
+date: 2026-09-25 05:22:43
 image: 'https://m.media-amazon.com/images/I/31GtTj+7l6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B094DM9LZQ/?tag=tolees-21'
 descuento: '26.45'
-average: '26.7913513513513'
+average: '26.5451282051281'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

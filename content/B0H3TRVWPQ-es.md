@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XILANHUA Adaptador Inalámbrico CarPlay para iPhone Mini USB Dongle Wireless Carplay Adapter con Cable a Carplay inalámbrico Carplay Compatible con Coches a Partir de 2016 y Teléfonos iOS 10+'
-date: 2026-09-10 05:59:23
+date: 2026-09-20 22:51:48
 image: 'https://m.media-amazon.com/images/I/319InD9M8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

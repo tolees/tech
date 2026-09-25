@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C500 - Cámara de Vigilancia WiFi Exterior 360º 1080p Detección IA'
-date: 2026-09-19 10:22:57
+date: 2026-09-23 22:47:30
 image: 'https://m.media-amazon.com/images/I/413-d+nw-NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BQJVKVQR/?tag=tolees-21'
 descuento: '41.67'
-average: '43.1601111111111'
+average: '42.8124468085106'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

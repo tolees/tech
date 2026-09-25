@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic NF-GM400 Multi Cooker 4 en 1 Grill Electrico Freír Cocción Lenta BBQ Vapor Saltear 1400 W 40-250 °C 9 Modos Automáticos Extractor de Humo Bandejas aptas para lavavajillas'
-date: 2026-09-20 09:59:42
+date: 2026-09-25 12:32:37
 image: 'https://m.media-amazon.com/images/I/41b7uR4cvWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

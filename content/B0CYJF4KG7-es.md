@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Pro X SE Auriculares Gaming con Cable con micrófono'
-date: 2026-09-16 19:09:34
+date: 2026-09-20 18:55:38
 image: 'https://m.media-amazon.com/images/I/41ZBraVsoyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CYJF4KG7/?tag=tolees-21'
 descuento: '40.01'
-average: '68.0504477611941'
+average: '67.8165217391305'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

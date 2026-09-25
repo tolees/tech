@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BoostCharge Cargador Magnético Plegable Qi2 15W Estación de Carga Inalámbrica Compatible con MagSafe Carga Rápida para iPhone 17 Air Pixelsnap Base con Soporte Antideslizante - Blanco'
-date: 2026-09-12 17:09:15
+date: 2026-09-24 13:27:51
 image: 'https://m.media-amazon.com/images/I/31DguFfFQcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

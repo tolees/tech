@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer TX35U Plus - Adaptador WiFi USB AX1800 1800 Mbps WiFi 6'
-date: 2026-09-19 16:48:42
+date: 2026-09-21 17:35:38
 image: 'https://m.media-amazon.com/images/I/41RMbwutF+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Studio Plus - Auriculares Bluetooth Radio FM 45h de batería Reproductor MP3 MicroSD Deep Bass Almohadillas de Cuero proteico y Espuma visco elástica Gris'
-date: 2026-09-17 06:27:07
+date: 2026-09-22 06:52:32
 image: 'https://m.media-amazon.com/images/I/31hqI7FETiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DXQCDVWF/?tag=tolees-21'
 descuento: '30.01'
-average: '22.165'
+average: '23.2971428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

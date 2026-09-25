@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Ryzen 7 8845HS
-- Tecnología exclusiva Cooler Boost 5
 - El modo de gráficos discretos (diseño MUX) exprime el rendimiento al máximo
+- Tecnología exclusiva Cooler Boost 5
+- Procesador Ryzen 7 8845HS
 - Gráfica RTX 4060, GDDR6 8GB
 - 15.6" Full HD (1920x1080), 144 Hz de tasa de refresco, panel IPS-Level
 

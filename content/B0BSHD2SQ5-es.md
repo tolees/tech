@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjeta GeForce preparada para los entusiastas de SFF
 - El diseño del ventilador axial cuenta con un núcleo más pequeño que facilita el uso de aspas más largas y un anillo de protección que aumenta la presión del aire hacia abajo
-- Con tecnología de la arquitectura NVIDIA Blackwell y DLSS 4
+- Tarjeta GeForce preparada para los entusiastas de SFF
 - Rendimiento de IA: 759 AI TOPS
+- Con tecnología de la arquitectura NVIDIA Blackwell y DLSS 4
 - Un diseño de 2.5 ranuras maximiza la compatibilidad y la eficiencia de refrigeración para un rendimiento superior en chasis pequeños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

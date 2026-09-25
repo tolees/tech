@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La retroiluminación RGB del teclado NOVA K244 de UNYKAch con efecto arcoíris o respiración, crea una atmósfera genial para los entusiastas del gaming
-- Mecanismo: Membrana
 - UNYKAch Teclado Gaming Idioma Portugués Retroiluminado 105 teclas
 - Longitud del cable: 1600mm
 - Sistemas: Windows / Mac OS / Linux
 - Teclado portugués
+- La retroiluminación RGB del teclado NOVA K244 de UNYKAch con efecto arcoíris o respiración, crea una atmósfera genial para los entusiastas del gaming
+- Mecanismo: Membrana
 - Iluminación RGB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

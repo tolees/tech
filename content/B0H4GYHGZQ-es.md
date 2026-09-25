@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Smartphone 6+256GB Negro batería de 7700mAh'
-date: 2026-09-19 10:22:04
+date: 2026-09-24 14:21:51
 image: 'https://m.media-amazon.com/images/I/412Mx0+VCUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JVC Auriculares Inalámbricos Bluetooth | 24h de Batería y Carga Rápida | Oido Abierto | Ligeros y Resistentes al Agua | Deportivos con IPX4 y Control Táctil - HA-NP1T Granate'
-date: 2026-09-14 07:53:02
+date: 2026-09-20 20:57:53
 image: 'https://m.media-amazon.com/images/I/31gmPkrQduL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

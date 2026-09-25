@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G522 Lightspeed Auriculares inalámbricos para Gaming'
-date: 2026-09-15 23:31:29
+date: 2026-09-24 08:12:48
 image: 'https://m.media-amazon.com/images/I/41KVZQXzgrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F2JFN2VW/?tag=tolees-21'
 descuento: '37.51'
-average: '113.4925'
+average: '110.79'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

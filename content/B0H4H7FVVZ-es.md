@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Pro 5G Smartphone 12+256GB Negro batería de 8340mAh'
-date: 2026-09-19 17:54:54
+date: 2026-09-23 16:26:32
 image: 'https://m.media-amazon.com/images/I/41AyjXDEy3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

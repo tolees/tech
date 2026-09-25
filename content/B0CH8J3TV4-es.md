@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Impresiones rápidas y de alta calidad: imprime rápidamente tanto documentos de gran nitidez, como fotos en colores brillantes gracias al sistema de seis tintas individuales.
-- Impresora conectada​: imprime fotos y documentos de forma inalámbrica desde tu dispositivo móvil con la aplicación Canon PRINT actualizada.
 - Productiva y económica​: imprime en diferentes tipos de soportes de impresión gracias a la alimentación de papel bidireccional y ahorra dinero con la impresión automática a doble cara.
+- Impresora conectada​: imprime fotos y documentos de forma inalámbrica desde tu dispositivo móvil con la aplicación Canon PRINT actualizada.
 - Diseñadas para ti: impresora de diseño elegante, estilizado y compacto de primera calidad, que se integra en la decoración de cualquier hogar. Disponible en acabados en blanco y negro.
 - Fácil de usar con menús más sencillos​: la impresora PIXMA TS8750 es fácil de usar gracias a su gran pantalla inclinable de 4,3" y su interfaz táctil Switch optimizada y personalizable.
 

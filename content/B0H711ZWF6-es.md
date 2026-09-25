@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI 17 5G Smartphone 4+256GB Azul batería de 7500mAh Carga de 45 W'
-date: 2026-09-19 21:28:22
+date: 2026-09-21 11:24:16
 image: 'https://m.media-amazon.com/images/I/41YnDPE9CBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

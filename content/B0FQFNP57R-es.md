@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Funda con MagSafe para el iPhone Air - Sombra '
-date: 2026-09-20 06:33:21
+date: 2026-09-25 07:13:14
 image: 'https://m.media-amazon.com/images/I/31yoRSI6-SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

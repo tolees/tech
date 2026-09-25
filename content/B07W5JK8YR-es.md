@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G305 Lightspeed Ratón Gaming Inalámbrico'
-date: 2026-09-19 18:08:18
+date: 2026-09-21 23:10:24
 image: 'https://m.media-amazon.com/images/I/31Qsf33cSmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5JK8YR/?tag=tolees-21'
 descuento: '33.34'
-average: '39.6916666666666'
+average: '39.7073684210526'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Razer BlackWidow V3 Tenkeyless Yellow Switch - Teclado compacto para juegos con interruptores mecánicos teclas ABS iluminación RGB Chroma Teclado Español - Negro'
-date: 2026-09-15 10:05:47
+title: 'Razer BlackWidow V3 Tenkeyless Yellow Switch - Teclado Compacto para Juegos con interruptores mecánicos Teclas ABS iluminación RGB Chroma QWERTY Teclado ES | Negro'
+date: 2026-09-22 20:02:40
 image: 'https://m.media-amazon.com/images/I/41wbpd0kMkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9
 comparePrice: 119.99 EUR
-prodname: 'Razer BlackWidow V3 Tenkeyless Yellow Switch - Teclado compacto para juegos con interruptores mecánicos teclas ABS iluminación RGB Chroma Teclado Español - Negro'
+prodname: 'Razer BlackWidow V3 Tenkeyless Yellow Switch - Teclado Compacto para Juegos con interruptores mecánicos Teclas ABS iluminación RGB Chroma QWERTY Teclado ES | Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B097F5QSTB/?tag=tolees-21'
 descuento: '33.41'
-average: '75.1434999999999'
+average: '75.575909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

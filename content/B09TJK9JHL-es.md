@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Transmisión de voz clara】: Este walkie talkie tiene 16 canales de memoria y función de reducción de ruido DCS/CTCSS, puede disfrutar de una comunicación clara incluso en entornos ruidosos, linterna LED incorporada, más conveniente para usar en entornos oscuros.
 - 【Walkie Talkie de larga distancia】: En cuanto a la distancia de llamada, depende del terreno en el que lo utilices. Si está en el mar (sin obstáculos), este walkie talkie puede hablar hasta 3-4km, en el campo y suburbios hasta 1,5km, y en un edificio puede hablar hasta 1-50 pisos.
+- 【Transmisión de voz clara】: Este walkie talkie tiene 16 canales de memoria y función de reducción de ruido DCS/CTCSS, puede disfrutar de una comunicación clara incluso en entornos ruidosos, linterna LED incorporada, más conveniente para usar en entornos oscuros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TJK9JHL{{</world>}}

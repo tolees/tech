@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SIGMA
 - Objectif
 - Bouchons dobjectifs avant et arrière / Pare-soleil
-- SIGMA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2ZKD5NM{{</world>}}

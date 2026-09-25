@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- XBOX ONE funciona desde disco externo; SERIES X/S requiere transferencia al SSD interno.
-- CERTIFICADA PARA X-BOX Compatible con Xbox Series X, Xbox Series S y todas las generaciones de Xbox One.
 - LUZ Y COLOR Una barra LED integrada ilumina su centro Gaming con verde Xbox.
+- CERTIFICADA PARA X-BOX Compatible con Xbox Series X, Xbox Series S y todas las generaciones de Xbox One.
+- XBOX ONE funciona desde disco externo; SERIES X/S requiere transferencia al SSD interno.
 - DISEÑO BRILLANTE Un diseño atrevido y refinado, creado para estar a la altura de su Xbox.
 - CONSTRUYA SU REPOSITORIO GAMING La capacidad de hasta 2 TB le permite crear el repositorio Gaming definitivo sin renunciar a ningún título.
 

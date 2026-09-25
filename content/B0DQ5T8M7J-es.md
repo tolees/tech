@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ergonómico: Ajustes de inclinación
 - Saturación de color: 120% sRGB
 - Soporta AMD FreeSync, Eyesafe 2.0 y HDR Ready
 - Profundidad de color: 10 bits
-- Panel VA curvo de 31.5 pulgadas con resolución QHD
+- Diseño ergonómico: Ajustes de inclinación
 - Tasa de refresco de 180Hz, tiempo de respuesta de 1ms
+- Panel VA curvo de 31.5 pulgadas con resolución QHD
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5T8M7J{{</world>}}

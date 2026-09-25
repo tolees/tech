@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un compañero cómodo para los ordenadores portátiles ultrafinos
 - Conectividad TV et Protection y Soporte M-DISC
 - Compatible con Win 10 & MAC OS
-- Un compañero cómodo para los ordenadores portátiles ultrafinos
 - Lectura silenciosa
 - Velocidad de escritura 8x
 

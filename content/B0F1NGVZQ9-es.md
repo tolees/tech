@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG xboom La Bestia CK43N - Altavoces 300W Bluetooth Negro'
-date: 2026-09-12 22:05:20
+date: 2026-09-25 12:26:58
 image: 'https://m.media-amazon.com/images/I/31yX3DQbgFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1NGVZQ9/?tag=tolees-21'
 descuento: '39.11'
-average: '117.275000000001'
+average: '116.522727272728'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

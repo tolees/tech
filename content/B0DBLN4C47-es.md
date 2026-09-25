@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-C510 Truly Wireless Earbuds'
-date: 2026-09-17 11:21:39
+date: 2026-09-25 10:29:59
 image: 'https://m.media-amazon.com/images/I/31SmSx-uOcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DBLN4C47-es Sony WF-C510 Truly Wireless Earbuds'
 sku: 'B0DBLN4C47-es'
 tags: [ 'sony','🇪🇸', ]
-actualPrice: 34.99 EUR
+actualPrice: 34.9 EUR
 currency: EUR
-price: 34.99
+price: 34.9
 comparePrice: 59.99 EUR
 prodname: 'Sony WF-C510 Truly Wireless Earbuds'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBLN4C47/?tag=tolees-21'
-descuento: '41.67'
-average: '36.0500000000001'
+descuento: '41.82'
+average: '36.0270000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

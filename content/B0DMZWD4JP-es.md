@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN HiTune S3 Auriculares Inalámbricos Audifonos Deportivos Clip ENC 30H'
-date: 2026-09-18 13:07:37
+date: 2026-09-24 14:44:57
 image: 'https://m.media-amazon.com/images/I/31xlC0ThOvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DMZWD4JP/?tag=tolees-21'
 descuento: '37.36'
-average: '17.7215384615384'
+average: '17.5724137931033'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

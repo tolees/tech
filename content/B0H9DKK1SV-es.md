@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalámbricos Bluetooth 6.1 Cascos Inalámbricos Open Ear'
-date: 2026-09-19 08:25:59
+date: 2026-09-25 06:37:37
 image: 'https://m.media-amazon.com/images/I/415keQIxKEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H9DKK1SV/?tag=tolees-21'
 descuento: '62.01'
-average: '38.99'
+average: '38.39'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

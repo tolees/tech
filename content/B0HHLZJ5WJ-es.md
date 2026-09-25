@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ddidbi Reloj Inteligente Hombre Mujer 1.85" Smartwatch con Llamadas'
-date: 2026-09-20 13:03:25
+date: 2026-09-22 23:53:38
 image: 'https://m.media-amazon.com/images/I/51NS4Jb9H7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

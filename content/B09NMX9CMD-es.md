@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda Amazon Kindle fina y ligera plegable protege tu Kindle | Tela'
-date: 2026-09-20 11:50:59
+date: 2026-09-25 10:27:01
 image: 'https://m.media-amazon.com/images/I/41r6m5JzE1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09NMX9CMD/?tag=tolees-21'
 descuento: '19.45'
-average: '29.7592307692308'
+average: '29.5163157894736'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

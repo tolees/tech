@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Grip Altavoz Bluetooth Compacto Violeta'
-date: 2026-09-19 09:46:28
+date: 2026-09-21 23:56:05
 image: 'https://m.media-amazon.com/images/I/41pW2vWJvPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FMGZD7FR/?tag=tolees-21'
 descuento: '39.09'
-average: '66.3'
+average: '64.14'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporta AMD FreeSync
+- Panel IPS de 23.8 pulgadas con resolución FHD
 - Saturación de color: 104% sRGB
 - Tasa de refresco de 144Hz, tiempo de respuesta de 1ms
-- Panel IPS de 23.8 pulgadas con resolución FHD
+- Soporta AMD FreeSync
 - Diseño ergonómico: Ajustes de inclinación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bluetooth 5.0 Clase 1
 - Resistente a la lluvia (IPX4)
-- Control remoto y micrófono para smartphones, control de un botón
 - Duración de la batería: hasta 15 horas
+- Control remoto y micrófono para smartphones, control de un botón
 - Compatible con iOS, Android y Windows
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Dasher Lite SLIPTECH PS - Tenis Deportivos Apple Spritz-Deep Plum White Talla 2.5 UK Niño Apple Spritz Deep Plum Puma Blanco 35 EU'
-date: 2026-09-20 16:32:48
+date: 2026-09-22 09:14:34
 image: 'https://m.media-amazon.com/images/I/31wn9YuOlCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

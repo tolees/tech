@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Pro 2 Lightspeed ratón inalámbrico para Gaming'
-date: 2026-09-18 16:30:15
+date: 2026-09-23 15:28:18
 image: 'https://m.media-amazon.com/images/I/21gD9PLl+FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBZFXGYR/?tag=tolees-21'
 descuento: '30.77'
-average: '97.847142857143'
+average: '97.5762068965519'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

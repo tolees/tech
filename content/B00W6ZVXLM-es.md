@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Exprimidor de baja velocidad. 45 rpm
-- Zumos frescos o congelados conservando todos los nutrientes
 - Hélice de acero
+- Zumos frescos o congelados conservando todos los nutrientes
 - Fácil de utilizar y de limpiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

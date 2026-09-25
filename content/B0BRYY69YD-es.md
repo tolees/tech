@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proceso: máquina importada, torneado fino, tamaño preciso, ¡sin fugas de aceite cuando se presiona!
 - Peso neto: 35,6 g
+- Proceso: máquina importada, torneado fino, tamaño preciso, ¡sin fugas de aceite cuando se presiona!
 - Nombre producto: de cabezales de oliva aguja de aceite
 
 [🛒 Comprar!!!]({{< param buyurl >}})

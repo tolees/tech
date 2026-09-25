@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haier I-Pro Shine Serie 3 XF 5C4M1X Lavavajillas Independiente 60CM Motor Inverter 15 Cubiertos Tercera Bandeja 8 Ciclos WIFI Maxi Tub Bloqueo Infantil Apertura Automática 44DB Inox'
-date: 2026-09-17 07:04:37
+date: 2026-09-21 08:16:19
 image: 'https://m.media-amazon.com/images/I/3109+tIWwOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

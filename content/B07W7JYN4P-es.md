@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Zone Vibe 100 Auriculares inalámbricos Ligeros'
-date: 2026-09-13 09:45:42
+date: 2026-09-23 12:40:22
 image: 'https://m.media-amazon.com/images/I/31hkLurxbIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7JYN4P/?tag=tolees-21'
 descuento: '23.86'
-average: '77.22125'
+average: '77.765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compatibilidad multiplataforma con conexión usb para jugar en pc, mac, ps4 y ps5 con un solo headset.
-- Micrófono omnidireccional con botón de mute para una comunicación clara y control inmediato en partidas intensas.
 - Iluminación personalizable controlada por botón en línea para sincronizar el ambiente visual de tu setup.
+- Micrófono omnidireccional con botón de mute para una comunicación clara y control inmediato en partidas intensas.
 - Ecualizador ajustable mediante software para adaptar el audio a tu estilo de juego, música o contenido multimedia.
 - Sonido envolvente 7.1 para detectar cada paso, disparo y susurro con precisión total en cualquier mapa o batalla.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puerto USB
 - RDS
+- Puerto USB
+- Amplificación Mosfet 50Wx 4
 - Pioneer ARC
 - Bluetooth
-- Amplificación Mosfet 50Wx 4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08ZV5F5BQ{{</world>}}

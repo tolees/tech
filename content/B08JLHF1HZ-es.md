@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla LCD para supervisión del sistema en tiempo real de la CPU y la GPU
-- Ventiladores conectables en cadena para presión estática y flujo de aire
-- Tubos reforzados y revestidos para una mayor durabilidad
 - Diseñado para complementar a la perfección la estética de una placa base Prime
+- Tubos reforzados y revestidos para una mayor durabilidad
+- Ventiladores conectables en cadena para presión estática y flujo de aire
 - Bomba Asetek de alto rendimiento equipada con un motor robusto que proporciona un rendimiento de refrigeración fiable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

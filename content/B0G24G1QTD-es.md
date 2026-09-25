@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- [ ALTO RENDIMIENTO GAMER ]: Tasa de refresco ultra rápida de 180 Hz (vía DisplayPort) o 144 Hz (vía HDMI) y un tiempo de respuesta de 1 ms, lo que elimina el desenfoque en movimiento y el parpadeo. Luz RGB posterior y altavoces
 - [ YEYIAN GAMING ]: Producto certificado bajo estándares internacionales que incluye una garantía de 3 años. Contacta con nuestro servicio de atención al cliente si tienes cualquier duda
 - [ CONECTIVIDAD Y MONTAJE ]: Incluye puertos DisplayPort y HDMI, así como una salida de audio de 3.5 mm. Es compatible con montajes VESA (100x100 mm) para una instalación flexible, ideal para gaming y compatible con PC, Xbox y PlayStation
 - [ TECNOLOGIA DE IMAGEN ]: Compatible con FreeSync, Adaptive Sync y modo HDR para eliminar el "tearing" y el "stuttering", garantizando una jugabilidad fluida. Incluye filtro de luz azul y tecnología anti-reflejo para reducir la fatiga visual
-- [ ALTO RENDIMIENTO GAMER ]: Tasa de refresco ultra rápida de 180 Hz (vía DisplayPort) o 144 Hz (vía HDMI) y un tiempo de respuesta de 1 ms, lo que elimina el desenfoque en movimiento y el parpadeo. Luz RGB posterior y altavoces
 - [ PANTALLA Y RESOLUCION ]: Pantalla Full HD (1920x1080) de 27" sin bordes, con tecnología de panel IPS para colores vibrantes sRGB 8 bits 99% y ángulos de visión amplios (178°) con contraste 1000:1 y brillo 250cd/m2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

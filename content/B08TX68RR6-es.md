@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tasa de refresco de 75 Hz y tecnología Adaptive-Sync (48 hasta 75 Hz) para optimizar la acción rápida y evitar que la imagen se entrecorte
-- Soporta el 100% de los espacios de color sRGB y Rec. 709
 - Conectividad DP vía USB-C con 65 W de suministro energético, DisplayPort, HDMI y USB hub
 - Verificado por Calman y calibrado de fábrica con precisión de color
+- Soporta el 100% de los espacios de color sRGB y Rec. 709
 - Pantalla LED IPS Full HD (1920 x 1080) de 23.8 pulgadas con ángulos de visión de 178 grados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

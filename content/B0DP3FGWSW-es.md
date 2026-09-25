@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Otterbox Funda Defender XT para Samsung Galaxy S25+ Claro/Negro'
-date: 2026-09-18 21:33:34
+date: 2026-09-23 22:07:23
 image: 'https://m.media-amazon.com/images/I/31TqLTScjOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

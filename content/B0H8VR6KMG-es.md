@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BSTOEM Cargador Carga Rapida USB C 40W 2Pack Multiple Cabeza Tipo C Móvil'
-date: 2026-09-20 16:20:16
+title: 'BSTOEM Cargador Carga Rapida USB C 40W 2Pack Multiple Enchufe Tipo C Móvil'
+date: 2026-09-25 18:06:10
 image: 'https://m.media-amazon.com/images/I/31OJHwe9YcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
 comparePrice: 19.99 EUR
-prodname: 'BSTOEM Cargador Carga Rapida USB C 40W 2Pack Multiple Cabeza Tipo C Móvil'
+prodname: 'BSTOEM Cargador Carga Rapida USB C 40W 2Pack Multiple Enchufe Tipo C Móvil'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

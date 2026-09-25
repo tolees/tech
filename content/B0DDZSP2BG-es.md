@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 x HDMI 2.1;2 x puertos USB4 compatibles con salidas de pantalla USB Type-C
 - DDR5 Dual channel
-- 1 x PCIe 5.0 x16 + 1 x PCIe 4.0 x16 (max. x4)
 - Procesador AMD Ryzen series 9000 & 8000 & 7000
+- 1 x HDMI 2.1;2 x puertos USB4 compatibles con salidas de pantalla USB Type-C
 - Socket AM5
+- 1 x PCIe 5.0 x16 + 1 x PCIe 4.0 x16 (max. x4)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDZSP2BG{{</world>}}

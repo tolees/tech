@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Disney Afternoon Collection - Switch 2'
-date: 2026-09-17 12:45:36
+date: 2026-09-21 16:36:28
 image: 'https://m.media-amazon.com/images/I/51sIzM2rCFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GKHD3X6Z/?tag=tolees-21'
 descuento: '31.21'
-average: '35.8751219512195'
+average: '35.6460465116279'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

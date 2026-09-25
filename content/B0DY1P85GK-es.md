@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Band 10 Smartwatch Monitorización de Actividad Física con IA Rosa'
-date: 2026-09-18 10:45:58
+date: 2026-09-22 00:24:15
 image: 'https://m.media-amazon.com/images/I/41Ej0LMUAGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DY1P85GK/?tag=tolees-21'
 descuento: '40.82'
-average: '28.3582857142856'
+average: '28.3929729729729'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

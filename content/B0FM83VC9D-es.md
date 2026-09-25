@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '540 XL 541 XL Cartuchos de Tinta PG-540XL CL-541XL Compatible con Tinta Canon 540 541XL para Pixma TS5150 TS5151 MG3650S MG3650 MG3600 MG3150 MG3250 MX475 Negro y Color'
-date: 2026-09-19 16:14:23
+date: 2026-09-25 18:33:13
 image: 'https://m.media-amazon.com/images/I/51sCfCSvD6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

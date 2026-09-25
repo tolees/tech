@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ratón óptico inalámbrico Asus MW203 negro
-- Dimensiones: 10,56x8x4cm - Peso: 96gr - Interfaz: USB - Batería: 1xAA
-- Compatible con Windows 8/10 y con Chrome OS posterior
 - PPP: 1000/1600/2400
+- Compatible con Windows 8/10 y con Chrome OS posterior
+- Dimensiones: 10,56x8x4cm - Peso: 96gr - Interfaz: USB - Batería: 1xAA
 - Ratón óptico inalámbrico Asus MW203 negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

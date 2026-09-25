@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU 45W Carga Rapida Tablet Power Bank Pequeño 10000mAh Batería Externa'
-date: 2026-09-09 16:48:36
+date: 2026-09-20 18:21:51
 image: 'https://m.media-amazon.com/images/I/31cphg1H1rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DCJT1TPG/?tag=tolees-21'
 descuento: '35.05'
-average: '22.5925'
+average: '22.358'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

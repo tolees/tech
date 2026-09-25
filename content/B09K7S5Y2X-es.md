@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Capitán América Alfombrilla Escritorio - Alfombrilla ratón XXL'
-date: 2026-09-17 08:55:10
+date: 2026-09-21 11:31:58
 image: 'https://m.media-amazon.com/images/I/41sNAyiS26L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09K7S5Y2X-es Grupo Erik Capitán América Alfombrilla Escritorio -...'
 sku: 'B09K7S5Y2X-es'
 tags: [ 'ratón','🇪🇸', ]
-actualPrice: 14.7 EUR
+actualPrice: 10.0 EUR
 currency: EUR
-price: 14.7
+price: 10.0
 comparePrice: 19.95 EUR
 prodname: 'Grupo Erik Capitán América Alfombrilla Escritorio - Alfombrilla ratón XXL'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09K7S5Y2X/?tag=tolees-21'
-descuento: '26.32'
-average: '14.7'
+descuento: '49.87'
+average: '12.35'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

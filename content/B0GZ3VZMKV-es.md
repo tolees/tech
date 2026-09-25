@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dron GPS con Cámara 4K HD para Adultos - NAFYRE N11 PRO: 90 min de vuelo seguimiento automático retorno autónomo motor sin escobillas transmisión 5G FPV - Ideal para principiantes'
-date: 2026-09-17 12:51:49
+date: 2026-09-22 21:22:01
 image: 'https://m.media-amazon.com/images/I/418XzJmRnXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

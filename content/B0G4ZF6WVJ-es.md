@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S26 Ultra 256GB Smartphone con Galaxy AI Cámara 200MP 12GB RAM Batería 5000mAh Garantía del Fabricante 3 Años+1 Año Extra Color Blanco Versión Española'
-date: 2026-09-18 16:40:01
+date: 2026-09-22 13:37:05
 image: 'https://m.media-amazon.com/images/I/41FKnefh4uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G4ZF6WVJ/?tag=tolees-21'
 descuento: '24.01'
-average: '1189.41'
+average: '1174.68333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

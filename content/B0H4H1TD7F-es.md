@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Pro 5G Smartphone 8+512GB Azul Celeste batería de 8340mAh'
-date: 2026-09-17 09:26:18
+date: 2026-09-23 16:55:35
 image: 'https://m.media-amazon.com/images/I/41HrhzQXt3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

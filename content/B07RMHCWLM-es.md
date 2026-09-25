@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TU110EXC 2G Teléfono Móvil para Mayores con Botón SOS Llamada Prioritaria Teléfono con Botones Grandes Bluetooth Linterna Cámara Azul'
-date: 2026-09-10 06:53:36
+date: 2026-09-23 19:32:48
 image: 'https://m.media-amazon.com/images/I/31UrpbtpgcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMHCWLM/?tag=tolees-21'
 descuento: '25.06'
-average: '27.9466666666668'
+average: '28.0067692307693'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

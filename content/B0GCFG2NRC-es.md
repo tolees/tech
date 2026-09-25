@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GNCC 2PCS Camara Vigilancia WiFi Exterior Solar con Bateria Sin Cables'
-date: 2026-09-18 09:52:16
+date: 2026-09-23 21:09:41
 image: 'https://m.media-amazon.com/images/I/41ivHcILyZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GCFG2NRC/?tag=tolees-21'
 descuento: '19.23'
-average: '54.9353846153846'
+average: '55.12'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB para Gaming'
-date: 2026-09-20 10:53:02
+title: 'Logitech G G502 X Plus Lightspeed Ratón RGB para Gaming - Negro'
+date: 2026-09-22 07:34:07
 image: 'https://m.media-amazon.com/images/I/313vjNMPw3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W7MJ46M-es Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB...'
+slug: 'B07W7MJ46M-es Logitech G G502 X Plus Lightspeed Ratón RGB para Gaming -...'
 sku: 'B07W7MJ46M-es'
 tags: [ 'logitech','ratón','🇪🇸', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
 comparePrice: 149.99 EUR
-prodname: 'Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB para Gaming'
+prodname: 'Logitech G G502 X Plus Lightspeed Ratón RGB para Gaming - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7MJ46M/?tag=tolees-21'
 descuento: '40.00'
-average: '98.0344444444444'
+average: '97.6921276595745'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

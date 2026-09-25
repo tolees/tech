@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Cargador USB C 45W GAN con Cable 1 m Adaptador Carga rápida PPS PD para Samsung S25 Ultra/S24 iPhone 17/16/15 Pro MAX iPad MacBook Pixel'
-date: 2026-09-20 13:30:36
+date: 2026-09-24 17:16:18
 image: 'https://m.media-amazon.com/images/I/31+vryJH9xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTZBHPV4/?tag=tolees-21'
 descuento: '39.30'
-average: '17.99'
+average: '17.79'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

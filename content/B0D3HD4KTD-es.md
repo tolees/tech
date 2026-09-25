@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G309 Ratón inalámbrico Lightspeed para Gaming'
-date: 2026-09-17 13:41:30
+date: 2026-09-22 15:07:02
 image: 'https://m.media-amazon.com/images/I/31NZup9FdfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D3HD4KTD/?tag=tolees-21'
 descuento: '37.50'
-average: '47.52'
+average: '47.8728571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

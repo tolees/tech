@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Astro A50 X Lightspeed Auriculares inalámbricos de Gaming + Base'
-date: 2026-09-19 07:44:57
+date: 2026-09-21 08:06:55
 image: 'https://m.media-amazon.com/images/I/31nPW+WxrDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8P3MV6/?tag=tolees-21'
 descuento: '22.86'
-average: '320.326666666666'
+average: '313.135714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Cargador USB C Adaptador de Corriente 25 W Ultra rápido Carga rápida Samsung Cargador Original sin Cable Color Blanco'
-date: 2026-09-19 11:44:59
+date: 2026-09-24 12:32:31
 image: 'https://m.media-amazon.com/images/I/21odSqTLxxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

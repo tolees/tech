@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Enco Air5 Pro Auriculares Bluetooth 6.0 con Cancelación Activa de Ruido 55dB hasta 54h Batería Sonido Hi-Res LHDC Baja Latencia 94ms IP55 White'
-date: 2026-09-20 15:21:24
+date: 2026-09-25 16:36:32
 image: 'https://m.media-amazon.com/images/I/313WZhjuoWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXW3VSR2/?tag=tolees-21'
 descuento: '17.85'
-average: '63.83375'
+average: '63.9522222222222'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

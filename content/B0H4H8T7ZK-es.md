@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 5G Smartphone 6+256GB Morado Celestial batería de 7700mAh'
-date: 2026-09-20 08:41:51
+date: 2026-09-23 13:33:50
 image: 'https://m.media-amazon.com/images/I/41vI8VdJD2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

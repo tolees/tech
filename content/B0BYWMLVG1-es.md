@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Auriculares Tune 520 BT inálambricos por Bluetooth 57 horas de reproducción con JBL Pure Bass plegables negro'
-date: 2026-09-20 11:41:35
+date: 2026-09-24 12:27:35
 image: 'https://m.media-amazon.com/images/I/31Xlx2sHvlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BYWMLVG1/?tag=tolees-21'
 descuento: '41.67'
-average: '36.8077464788733'
+average: '36.7579452054796'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

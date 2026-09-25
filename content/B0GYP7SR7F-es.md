@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo LOQ 24-10 - Monitor Gaming FHD 23.8" IPS Tasa de Refresco 200 Hz 0.5 ms MPRT 16:9 HDMI 2.1 + DP 1.4 AMD FreeSync Premium VESA Adaptive Sync Soporte Inclinable - Gris Luna'
-date: 2026-09-18 06:38:36
+date: 2026-09-23 06:41:46
 image: 'https://m.media-amazon.com/images/I/31B+SkKcFLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GYP7SR7F/?tag=tolees-21'
 descuento: '33.34'
-average: '89.2642857142857'
+average: '88.105'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

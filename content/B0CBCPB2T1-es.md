@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Viper V3 HyperSpeed - Ratón inalámbrico para esports Sensor óptico Focus Pro 30K Hasta 280 horas de duración batería Interruptores mecánicos de ratón Gen-2 Verdadero sondeo de 4000 Hz Negro'
-date: 2026-09-15 09:10:59
+date: 2026-09-21 08:04:00
 image: 'https://m.media-amazon.com/images/I/31bdoFHzM0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CBCPB2T1/?tag=tolees-21'
 descuento: '37.50'
-average: '53.5549999999997'
+average: '53.4276785714283'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

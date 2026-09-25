@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alongside the epic Campaign and branching story are a number of exclusive Wii U features that take advantage of this new and revolutionary technology.
 - With enhanced maps, perks, load-outs and more, utilising the Nintendo Wii U GamePad will allow you to change your play style for the better.
+- Alongside the epic Campaign and branching story are a number of exclusive Wii U features that take advantage of this new and revolutionary technology.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009H6MBG4{{</world>}}

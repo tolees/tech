@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Watch GT 7 46mm Smartwatch GPS iOS hasta 21 Días Autonomía Negro'
-date: 2026-09-11 06:56:36
+date: 2026-09-24 07:33:00
 image: 'https://m.media-amazon.com/images/I/411PmC44dPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

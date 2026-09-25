@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UE306 - Adaptador USB a Ethernet Gigabit USB 3.0 Nano'
-date: 2026-09-20 17:32:27
+date: 2026-09-23 16:15:00
 image: 'https://m.media-amazon.com/images/I/41A8ZYYfHML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09FDRMZ73/?tag=tolees-21'
 descuento: '49.80'
-average: '12.2107692307693'
+average: '11.9146666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

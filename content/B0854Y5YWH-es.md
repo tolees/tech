@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Dos motores xd lineales para conseguir un enfoque rápido, preciso y silencioso
 - Cristal ed con compensación de distorsión cromática
-- Perfecto para vídeos y paisajes
 - Compacta y ligera
+- Perfecto para vídeos y paisajes
 - Focal equivalente a 30mm en cuerpos aps-c
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

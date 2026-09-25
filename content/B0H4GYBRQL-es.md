@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Smartphone 4+128GB Negro batería de 7700mAh'
-date: 2026-09-19 09:33:58
+date: 2026-09-24 13:30:05
 image: 'https://m.media-amazon.com/images/I/412Mx0+VCUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

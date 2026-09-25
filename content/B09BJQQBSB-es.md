@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica integrada Intel Arc 140T
 - Procesador Intel Core Ultra 7 255H (16C/undefined 5.1GHz, 24MB)
+- Tarjeta gráfica integrada Intel Arc 140T
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB en placa LPDDR5x
-- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
 - Sistema Operativo: Windows 11 Home
+- Pantalla de 14" WUXGA 1920 x 1200 pixeles OLED 400 nits
+- Memoria RAM de 16GB en placa LPDDR5x
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BJQQBSB{{</world>}}

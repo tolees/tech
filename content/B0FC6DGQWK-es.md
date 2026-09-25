@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Power Bank Ultra Mini 45W Carga Rápida 10000mAh Bateria Externa con Cable USB C Desmontable Apto para Avión & Esenciales de Viaje Bateria Portatil para iPhone 17 16 Xiaomi Morado Claro'
-date: 2026-09-20 17:52:25
+date: 2026-09-22 13:14:15
 image: 'https://m.media-amazon.com/images/I/414okXXxlsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FC6DGQWK-es INIU Power Bank Ultra Mini 45W Carga Rápida 10000mAh...'
 sku: 'B0FC6DGQWK-es'
 tags: [ 'iphone','xiaomi','🇪🇸', ]
-actualPrice: 32.29 EUR
+actualPrice: 35.99 EUR
 currency: EUR
-price: 32.29
+price: 35.99
 comparePrice: 45.99 EUR
 prodname: 'INIU Power Bank Ultra Mini 45W Carga Rápida 10000mAh Bateria Externa con Cable USB C Desmontable Apto para Avión & Esenciales de Viaje Bateria Portatil para iPhone 17 16 Xiaomi Morado Claro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FC6DGQWK/?tag=tolees-21'
-descuento: '29.79'
-average: '33.64'
+descuento: '21.74'
+average: '34.11'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

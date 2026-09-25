@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Basilisk V3 X HyperSpeed - Mouse da gioco Wireless personalizzabile Forma ergonomica con 9 controlli personalizzabili HyperSpeed Wireless Bluetooth Sensore Ottico avanzato 5G 18K Nero'
-date: 2026-09-16 12:49:19
+date: 2026-09-24 16:20:33
 image: 'https://m.media-amazon.com/images/I/31lZPsdb8SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BT4VRZGV/?tag=tolees-21'
 descuento: '37.50'
-average: '52.6471428571429'
+average: '52.4160869565218'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
