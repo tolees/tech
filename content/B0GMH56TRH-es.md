@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo Edge 2 Robot Aspirador Succión Extrema de 25000 Pa Negro'
-date: 2026-09-16 16:08:53
+date: 2026-10-01 09:27:32
 image: 'https://m.media-amazon.com/images/I/418l4Vef9DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GMH56TRH/?tag=tolees-21'
 descuento: '34.44'
-average: '809.615000000001'
+average: '785.212222222223'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

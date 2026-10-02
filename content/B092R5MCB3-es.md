@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer DeathAdder Essential - Ratón Gaming con sensor óptico 6400 DPI 5 botones programables interruptores mecánicos agarres laterales de goma Negro'
-date: 2026-09-24 16:12:34
+date: 2026-09-29 19:30:21
 image: 'https://m.media-amazon.com/images/I/31hOmSdLoRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B092R5MCB3/?tag=tolees-21'
 descuento: '33.64'
-average: '20.5659210526317'
+average: '20.5488461538462'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

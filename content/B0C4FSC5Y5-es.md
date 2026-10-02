@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CON CABLE – Este ratón con cable gaming utiliza un cable trenzado de 2,1 m de longitud y almohadillas de deslizamiento suaves y de baja fricción para máxima libertad de movimiento
-- JUEGO SOSTENIBLE – El ratón Ybar es de un 68 % de material reciclado, así se gana en varios frentes
 - RÁPIDO O LENTO, TÚ DECIDES – Al ajustar la resolución de 200 a la friolera de 7.200 DPI, el Ybar es tan adecuado para el francotirador como para el corredor
+- JUEGO SOSTENIBLE – El ratón Ybar es de un 68 % de material reciclado, así se gana en varios frentes
 - RGB Y AJUSTES – Este ratón gaming incorpora un software avanzado para ajustar los LEDs RGB, pero también lo utilizarás para macros, botones y perfiles
+- CON CABLE – Este ratón con cable gaming utiliza un cable trenzado de 2,1 m de longitud y almohadillas de deslizamiento suaves y de baja fricción para máxima libertad de movimiento
 - CLIC NON-STOP – Con 6 botones de respuesta, incluidos 2 botones para pulgar, tienes todo lo que necesitas para shooters, aventuras de acción, RPG... ¡Lo que quieras!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

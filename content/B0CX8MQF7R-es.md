@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Kindle Colorsoft última generación | pantalla a color y luz cálida ajustable | 16 GB'
-date: 2026-09-28 20:58:00
+date: 2026-09-30 00:42:27
 image: 'https://m.media-amazon.com/images/I/41yUCN-AcRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX8MQF7R/?tag=tolees-21'
 descuento: '45.33'
-average: '197.136162790697'
+average: '196.383068181817'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

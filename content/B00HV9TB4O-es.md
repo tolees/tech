@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En la caja: Lente SEL55210, tapas frontal y trasera, manual.
 - Perfecto para deportes, naturaleza y viajes.
+- En la caja: Lente SEL55210, tapas frontal y trasera, manual.
 - Diseño ideal para cámaras APS-C.
 - Teleobjetivo compacto y ligero con zoom 55-210 mm.
 - Estabilización OSS para capturar imágenes más nítidas.

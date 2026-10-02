@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring mirilla digital Door View Cam para puertas de 54-75 mm de grosor versión recomendada | Timbre inalámbrico con camara de vigilancia vídeo HD 1080p wifi | 30 días gratis de Ring Home'
-date: 2026-09-27 12:52:27
+date: 2026-10-01 09:16:06
 image: 'https://m.media-amazon.com/images/I/41bB6SKMEcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C92MHTGC-es Ring mirilla digital Door View Cam para puertas de 54-75...'
 sku: 'B0C92MHTGC-es'
 tags: [ '1080p','wifi','🇪🇸', ]
-actualPrice: 49.99 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 49.99
+price: 39.99
 comparePrice: 129.99 EUR
 prodname: 'Ring mirilla digital Door View Cam para puertas de 54-75 mm de grosor versión recomendada | Timbre inalámbrico con camara de vigilancia vídeo HD 1080p wifi | 30 días gratis de Ring Home'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C92MHTGC/?tag=tolees-21'
-descuento: '61.54'
-average: '54.2608333333333'
+descuento: '69.24'
+average: '53.1630769230769'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

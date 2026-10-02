@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS80 MAX Wireless Auriculares para Juegos – Gris Acero'
-date: 2026-08-21 15:17:57
+date: 2026-09-30 02:20:34
 image: 'https://m.media-amazon.com/images/I/31kwzic7LWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'auriculares','🇪🇸', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99
-comparePrice: 159.99 EUR
+comparePrice: 150.85 EUR
 prodname: 'Corsair HS80 MAX Wireless Auriculares para Juegos – Gris Acero'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D5Z1C5TB/?tag=tolees-21'
-descuento: '25.00'
-average: '127.863333333333'
+descuento: '20.46'
+average: '127.076'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con PC, Mac, PS5, PS4 y dispositivos móviles: Use los mismos auriculares para PC, Mac o PlayStation, o conéctese mediante Bluetooth a dispositivos móviles y mucho más.
-- Contenido del paquete: CORSAIR HS80 MAX WIRELESS Headset - Gris acero | Receptor USB inalámbrico | Cable de carga USB, 1,8m | Folleto de seguridad | Tarjeta de garantía | CA-9011295-WW
-- Conexión inalámbrica de baja latencia a 2,4 GHz más Bluetooth: Disfrute de audio inalámbrico de baja latencia a 2,4 GHz con un asombroso alcance de hasta 15 m y sonido de alta fidelidad a 24 bits/96 kHz (el doble que los auriculares para juegos habituales), además de compatibilidad Bluetooth.
-- Gran duración de la batería: Disfrute de hasta 65 horas de batería con la tecnología inalámbrica de 2,4 GHz o de hasta 130 horas con Bluetooth. (Con la iluminación RGB desactivada). Hasta 24 horas a través de 2,4 GHz y con RGB activado).
-- Horas de comodidad: Las almohadillas de espuma viscoelástica con tejido transpirable y el diseño de diadema flotante sin presión ofrecen una gran comodidad y están reforzadas con aluminio ligero para soportar años de juego competitivo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5Z1C5TB{{</world>}}

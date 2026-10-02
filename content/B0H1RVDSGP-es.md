@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo Edge 2 Flow Set Robot Aspirador Succión Extrema de 35000 Pa Blanco'
-date: 2026-09-29 13:14:00
+date: 2026-10-01 00:24:59
 image: 'https://m.media-amazon.com/images/I/31Yn19sz2SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

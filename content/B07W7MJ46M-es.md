@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB para Gaming'
-date: 2026-09-29 06:10:13
-image: 'https://m.media-amazon.com/images/I/313vjNMPw3L._SL500_._SL400_.jpg'
+date: 2026-09-30 14:51:41
+image: 'https://m.media-amazon.com/images/I/31lOhtJJRxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7MJ46M/?tag=tolees-21'
 descuento: '46.67'
-average: '96.4428301886793'
+average: '95.8445454545455'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

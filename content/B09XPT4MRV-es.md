@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda de tela para Amazon Kindle Scribe con tapa plegable y acople magnético solo compatible con Kindle Scribe | Diseño fino y ligero | Negro'
-date: 2026-09-29 06:53:05
+date: 2026-10-01 06:52:52
 image: 'https://m.media-amazon.com/images/I/41k1y6UesAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Dot Última generación | Altavoz inteligente wifi y Bluetooth con sonido más potente y de mayor amplitud | Antracita con Acceso Anticipado a Alexa+'
-date: 2026-09-29 16:46:04
+date: 2026-10-01 01:18:59
 image: 'https://m.media-amazon.com/images/I/31B4IGJSyAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09B8X9RGM/?tag=tolees-21'
 descuento: '66.67'
-average: '37.7137288135596'
+average: '37.648823529412'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

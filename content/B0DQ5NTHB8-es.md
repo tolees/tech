@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detección de Personas: la IA inteligente identifica personas con precisión y envía notificaciones instantáneas a través de la aplicación Tapo
-- Visión Nocturna a Color: captura imágenes vibrantes y a color hasta 30 metros de distancia en la oscuridad
-- Resolución 2K: imágenes más nítidas en resolución 2K que superan al estándar 1080p
 - Protección Total de 360°: ofrece un rango de visión horizontal de 360° y vertical de 130°, eliminando puntos ciegos
+- Detección de Personas: la IA inteligente identifica personas con precisión y envía notificaciones instantáneas a través de la aplicación Tapo
 - Resistente a la Intemperie IP65: protegida contra chorros de agua y polvo, optima para uso en exteriores
+- Resolución 2K: imágenes más nítidas en resolución 2K que superan al estándar 1080p
+- Visión Nocturna a Color: captura imágenes vibrantes y a color hasta 30 metros de distancia en la oscuridad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5NTHB8{{</world>}}

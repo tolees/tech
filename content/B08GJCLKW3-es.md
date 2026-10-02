@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Controlador de bajos: 4 "φ116mm 6ohm
 - Sensibilidad de entrada: pc: 700 ± 50mv, aux: 550 ± 50 mv
-- Tweeter: cúpula de seda de φ19mm, 6ohm
-- Relación señal/ruido: 85dba
-- Peso neto: 6.63kg
-- Rango de frecuencia: 60 Hz-20 kHz
-- Dimensiones: 154x254x224 mm (ancho x alto x profundidad)
 - THD+N: 0,5%
+- Tweeter: cúpula de seda de φ19mm, 6ohm
+- Dimensiones: 154x254x224 mm (ancho x alto x profundidad)
+- Relación señal/ruido: 85dba
+- Controlador de bajos: 4 "φ116mm 6ohm
+- Peso neto: 6.63kg
 - Potencia total: rms 16wx2 + 19wx2
+- Rango de frecuencia: 60 Hz-20 kHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GJCLKW3{{</world>}}

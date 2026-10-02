@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A Space for the Unbound Edición Estándar incluye: Juego, Manual “A Space for the Unbound Tales” y Tarjeta de descarga BSO Digital.
 - Habla con el resto de habitantes del pueblo y descubre sus historias.
 - ¡Regresa a los 90! ¡Viaja a la Indonesia de esa década mágica!
+- A Space for the Unbound Edición Estándar incluye: Juego, Manual “A Space for the Unbound Tales” y Tarjeta de descarga BSO Digital.
 - Disfruta de los temas compuestos por Masdito «Ittou» Bachtiar.
 - IDIOMAS*: Español, Inglés, Francés, Alemán, Portugués, Ruso, Turco, Japonés, Chino, Coreano
 

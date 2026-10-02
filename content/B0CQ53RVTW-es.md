@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Soundcore Altavoz Bluetooth Potente Boom 2 con Potente Sonido 80W Gracias al Subwoofer y BassUp™ 24h IPX7 Tiene Luces RGB Puerto USB-C para IR de Camping a la Playa o al Campo'
-date: 2026-06-02 10:20:13
+title: 'Soundcore Boom 2 Altavoz Bluetooth Potente 80 W 24 h IPX7'
+date: 2026-09-30 21:34:48
 image: 'https://m.media-amazon.com/images/I/51eCe+2EZiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CQ53RVTW-es Soundcore Altavoz Bluetooth Potente Boom 2 con Potente...'
+slug: 'B0CQ53RVTW-es Soundcore Boom 2 Altavoz Bluetooth Potente 80 W 24 h IPX7'
 sku: 'B0CQ53RVTW-es'
 tags: [ 'altavoz','bluetooth','🇪🇸', ]
-actualPrice: 99.9 EUR
+actualPrice: 79.99 EUR
 currency: EUR
-price: 99.9
+price: 79.99
 comparePrice: 129.99 EUR
-prodname: 'Soundcore Altavoz Bluetooth Potente Boom 2 con Potente Sonido 80W Gracias al Subwoofer y BassUp™ 24h IPX7 Tiene Luces RGB Puerto USB-C para IR de Camping a la Playa o al Campo'
+prodname: 'Soundcore Boom 2 Altavoz Bluetooth Potente 80 W 24 h IPX7'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CQ53RVTW/?tag=tolees-21'
-descuento: '23.15'
-average: '93.054'
+descuento: '38.46'
+average: '91.5170588235294'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tu sonido, a tu manera: El altavoz potente Boom 2 aprovecha el EQ personalizable para un sonido perfecto en cualquier canción o ambiente. Y con PartyCast 2.0, puedes conectar hasta más de 100 altavoces y llevar la fiesta al siguiente nivel.
-- Sonido estéreo 2.1: Un subwoofer de de 50 W y dos altavoces de agudos de 15 W para ofrecer agudos nítidos y graves profundos, equilibrados gracias a la tecnología de cruce inteligente que permite disfrutar de una experiencia de audio inmersiva.
-- Música todo el día en cualquier lugar: El altavoz para exteriores Boom 2 te permite escuchar música durante 24 horas sin interrupciones con una sola carga y, gracias a su batería integrada, también podrás mantener tu teléfono encendido estés donde estés.
-- IPX7 al Agua y flotante: El altavoz bluetooth impermeable Boom 2 está diseñado para adaptarse a cualquier desafío: escucha tu música sin preocupaciones en la playa, la piscina o bajo la lluvia.
-- 80W de potentes graves: El altavoz Bluetooth Soundcore viene equipado con un subwoofer, que te permite disfrutar de bajos profundos y nítidos en cada canción. Con su tecnología BassUp️ 2.0, personaliza los graves y pasa de 60 W a un asombroso máximo de 80 W.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQ53RVTW{{</world>}}

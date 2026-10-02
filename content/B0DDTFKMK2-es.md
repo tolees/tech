@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Aplicación GoPaint Profesional y Fácil de Usar】 La exclusiva Aplicación GoPaint de HUAWEI, desarrollada junto con la Academia de Arte de China, será el impulso creativo para tus mejores trabajos, gracias a su gran cantidad de efectos y funciones de pintura, desde lavado de tinta hasta pintura al óleo y acuarelas.
-- 【Una Brisa en Tu Mano.】 El diseño totalmente ligero ofrece un cuerpo estilizado y un buen agarre.Pesa solo 508 gramos y es delgado hasta 5,5 mm.
 - HUAWEI M Pencil (3rd generation)
+- 【Una Brisa en Tu Mano.】 El diseño totalmente ligero ofrece un cuerpo estilizado y un buen agarre.Pesa solo 508 gramos y es delgado hasta 5,5 mm.
+- 【Aplicación GoPaint Profesional y Fácil de Usar】 La exclusiva Aplicación GoPaint de HUAWEI, desarrollada junto con la Academia de Arte de China, será el impulso creativo para tus mejores trabajos, gracias a su gran cantidad de efectos y funciones de pintura, desde lavado de tinta hasta pintura al óleo y acuarelas.
 - 【Pantalla Tandem OLED PaperMatte 12,2 pulgadas】 La Pantalla Tandem OLED FullView de 12,2 pulgadas da vida a cada detalle y está diseñada para durar, con tecnología de apilamiento de píxeles a nivel nanométrico y brillo y contraste ultraaltos. Además, la relación pantalla-cuerpo del 92 % y la versátil relación de aspecto 3:2 también te proporcionan un campo de visión más amplio.
 - Tablet+Teclado+Lápiz
 - 【Nuevo Teclado HUAWEI Glide】 La nueva Pantalla Tandem OLED PaperMatte está reforzada con tecnología antibrillo, tecnología de grabado antirreflejos a escala nanométrica que elimina el 99 % de la interferencia de la luz ambiental y capas nanoópticas de magnetrón para reducir sustancialmente la reflectividad de la pantalla. De esta manera, las imágenes se mantienen claras y agradables a la vista, incluso con luz solar directa.

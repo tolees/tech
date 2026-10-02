@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI G20 Lite Aspiradora Inalámbrica 18000Pa/Hasta 40Min LED'
-date: 2026-09-22 13:46:50
+date: 2026-10-01 05:37:33
 image: 'https://m.media-amazon.com/images/I/31n1A6jfHXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D15GDCMY-es XIAOMI G20 Lite Aspiradora Inalámbrica 18000Pa/Hasta 40Min...'
 sku: 'B0D15GDCMY-es'
 tags: [ 'xiaomi','🇪🇸', ]
-actualPrice: 84.99 EUR
+actualPrice: 84.9 EUR
 currency: EUR
-price: 84.99
+price: 84.9
 comparePrice: 99.99 EUR
 prodname: 'XIAOMI G20 Lite Aspiradora Inalámbrica 18000Pa/Hasta 40Min LED'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D15GDCMY/?tag=tolees-21'
-descuento: '15.00'
-average: '72.2954545454546'
+descuento: '15.09'
+average: '72.5755555555557'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

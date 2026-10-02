@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesorio para ciclismo
 - Producto de calidad óptima
+- Accesorio para ciclismo
 - Requiere instalación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

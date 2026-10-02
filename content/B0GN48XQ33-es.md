@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS-Level 250 nits
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador AMD Ryzen 5 150 (6C/HexaCore 3.3 / 4.55GHz)
 - Sistema Operativo: Windows 11 Home
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles IPS-Level 250 nits
 - Memoria RAM de 16GB DDR5
 - Tarjeta gráfica integrada AMD Radeon 660M
 

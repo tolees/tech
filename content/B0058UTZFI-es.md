@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Profundímetro calibrado en agua salada para una máxima precisión en el uso más habitual
-- Pulsador único multifunción para un bajo coste productivo, mayor fiabilidad y sencillez de navegación
-- Características técnicas: calculadora del tiempo en superficie, desaturación y tiempo de exclusión, para que estés seguro y listo para tu próxima aventura submarina.
 - La distribución de la información, contraste de pantalla, proporciones y tamaño de los dígitos han sido estudiados para facilitar la lectura
-- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
+- Pulsador único multifunción para un bajo coste productivo, mayor fiabilidad y sencillez de navegación
 - Amplia pantalla ufds que hereda la proverbial facilidad de navegación y menús de los ordenadores con software cressi
 - Interface con conexión al ordenador de buceo mediante Ir simplemente apoyando el ordenador y conexión al Pc con cable USB. Software compatible con todas las versiones Windows y con Mac
+- Características técnicas: calculadora del tiempo en superficie, desaturación y tiempo de exclusión, para que estés seguro y listo para tu próxima aventura submarina.
+- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
 - Display retroiluminado mediante pulsador o en caso de alarma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

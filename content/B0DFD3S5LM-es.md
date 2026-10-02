@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MySims: Colección Sofá y Mantita Switch / Switch 2 | Videojuegos | Castellano'
-date: 2026-09-28 19:26:45
+date: 2026-10-01 06:32:42
 image: 'https://m.media-amazon.com/images/I/51OtduAva+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DFD3S5LM/?tag=tolees-21'
 descuento: '40.01'
-average: '23.6907692307693'
+average: '23.7121428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

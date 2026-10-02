@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compatible con android
+- Panel antirrobo desmontable
 - Potencía 4x50w
 - Lectura de archivos flac
 - Usb frontal
-- Panel antirrobo desmontable
-- Compatible con android
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X7FTZMM{{</world>}}

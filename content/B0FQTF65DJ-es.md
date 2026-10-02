@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus BS1 NC Auriculares Inalámbricos Blueooth Semi-In-Ear Auriculares Bluetooth Cancelación de Ruido Audifonos Inalambricos Hi-Res Driver 13 mm 6 Mic AI IP55 55 Horas Bluetooth 6.0'
-date: 2026-09-29 13:08:11
+date: 2026-10-01 09:40:12
 image: 'https://m.media-amazon.com/images/I/31lma7R9KJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

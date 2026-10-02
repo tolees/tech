@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Kindle Colorsoft Signature Edition última generación | Con pantalla a color luz frontal autorregulable carga inalámbrica y gran duración de la batería | 32 GB'
-date: 2026-09-28 19:27:22
+date: 2026-10-01 00:38:18
 image: 'https://m.media-amazon.com/images/I/41wOJeuRJFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX8YKQ2H/?tag=tolees-21'
 descuento: '39.70'
-average: '233.119487179487'
+average: '231.45512195122'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

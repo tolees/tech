@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus MC1 Pro Auriculares de oído Abierto Clip para oídos'
-date: 2026-09-28 05:45:32
+date: 2026-10-01 08:20:23
 image: 'https://m.media-amazon.com/images/I/31HS62i5rWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F6XRZ45X/?tag=tolees-21'
 descuento: '40.03'
-average: '52.3025'
+average: '51.34'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

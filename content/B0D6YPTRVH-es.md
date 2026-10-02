@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEEKERA Estacion de Carga para Apple Cargador Inalambrico 3 en 1 para iPhone Air/17/16/15/14/13/12/11/X/8 Base Cargador para Apple Watch Ultra/11-2/SE Carregador sem fios para AirPods Pro-2 Plata'
-date: 2026-09-28 16:26:55
+date: 2026-09-29 23:54:53
 image: 'https://m.media-amazon.com/images/I/41y7yrDOxcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

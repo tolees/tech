@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Organizer, front zippered pocket
 - Padded carry handles, detachable shoulder strap
+- Organizer, front zippered pocket
 - Weather resistant, luggage pass through
 - Dell Ecoloop Pro Sleeve 11-14 CV5423
 

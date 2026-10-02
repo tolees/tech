@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La aberración cromática axial se corrige completamente con el uso de vidrio SLD, permitiendo a este objetivo capturar detalles nítidos.
 - Objetivo Sigma 65mm F2 DG DN Contemporary para montura Sony E
+- La aberración cromática axial se corrige completamente con el uso de vidrio SLD, permitiendo a este objetivo capturar detalles nítidos.
 - La tecnología anti-ghosting y anti-flare estándar de SIGMA garantiza un rendimiento de alta gama en condiciones de contraluz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

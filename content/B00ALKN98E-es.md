@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - isMemorabilia : false
-- isAutographed : false
+- Brand : Asus
 - packageQuantity : 1
 - productGroup : Personal Computer
-- Brand : Asus
+- isAutographed : false
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ALKN98E{{</world>}}

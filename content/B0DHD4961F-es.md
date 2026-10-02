@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100Hz
+- Technology IPS
 - Monitor desktop
 - QHD LED
 - 27"
-- Technology IPS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHD4961F{{</world>}}

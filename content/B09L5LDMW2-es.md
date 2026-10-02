@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Memoria RAM de 32GB en placa LPDDR5x
 - Tarjeta gráfica integrada AMD Radeon 890M
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 16" WQXGA+ 2880 x 1800 pixeles, 120Hz, OLED 400 nits
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe
 - Procesador AMD Ryzen AI 9 HX 370 (12C/DodecaCore 2 / 5.1GHz, 36MB)
-- Memoria RAM de 32GB en placa LPDDR5x
-- Pantalla de 16" WQXGA+ 2880 x 1800 pixeles, 120Hz, OLED 400 nits
-- Sistema Operativo: Windows 11 Home
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09L5LDMW2{{</world>}}

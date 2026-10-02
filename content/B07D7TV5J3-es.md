@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Altavoces para ordenador de sobremesa o portátil con cable USB Negro 13.4 cm'
-date: 2026-09-25 06:49:44
+date: 2026-09-29 22:31:05
 image: 'https://m.media-amazon.com/images/I/51GGGyIR-jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7TV5J3/?tag=tolees-21'
 descuento: '31.97'
-average: '10.1571428571428'
+average: '10.0755555555556'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

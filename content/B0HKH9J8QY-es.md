@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalambricos Deportivos Auriculares Bluetooth 5.4 HiFi Estéreo con 4 HD Mic 60H Cascos Inalambricos Bluetooth con Cancelacion Ruido ENC Control App/Pantalla LED IP7 Impermeable Cascos'
-date: 2026-09-28 22:15:00
+date: 2026-10-01 01:11:44
 image: 'https://m.media-amazon.com/images/I/51FC+jzsibL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

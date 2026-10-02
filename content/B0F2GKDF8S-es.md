@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LISEN 240W Cable USB C Carga Rapida 2 Metros para iPhone 18 PD 3.2 AVS'
-date: 2026-09-25 21:12:45
+date: 2026-10-01 10:52:19
 image: 'https://m.media-amazon.com/images/I/41P0STeSc1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F2GKDF8S/?tag=tolees-21'
 descuento: '36.40'
-average: '7.706'
+average: '7.64090909090909'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

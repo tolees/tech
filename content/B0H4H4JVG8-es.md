@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Pro MAX 5G Smartphone 8+256GB Verde batería de 9210mAh'
-date: 2026-09-23 15:31:11
+date: 2026-09-30 04:40:01
 image: 'https://m.media-amazon.com/images/I/41AgMCnD3KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

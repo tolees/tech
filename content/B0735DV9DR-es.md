@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4 pilas de litio Panasonic CR2032 de 3 V
 - Original Panasonic – Reino Unido – Vida útil 2026
+- 4 pilas de litio Panasonic CR2032 de 3 V
 - Empaquetado al por menor en tarjetas de 4 (como se muestra en la imagen)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

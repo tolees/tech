@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UNYKAch Teclado Gaming Idioma Portugués Retroiluminado 105 teclas
 - Longitud del cable: 1600mm
+- Iluminación RGB
+- UNYKAch Teclado Gaming Idioma Portugués Retroiluminado 105 teclas
+- Teclado portugués
+- Mecanismo: Membrana
 - La retroiluminación RGB del teclado NOVA K244 de UNYKAch con efecto arcoíris o respiración, crea una atmósfera genial para los entusiastas del gaming
 - Sistemas: Windows / Mac OS / Linux
-- Mecanismo: Membrana
-- Iluminación RGB
-- Teclado portugués
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095PKZGNX{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Smartphone 6+256GB Turquesa Cielo batería de 7700mAh'
-date: 2026-09-25 08:01:27
+date: 2026-09-29 20:55:59
 image: 'https://m.media-amazon.com/images/I/41BSoM9ZidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

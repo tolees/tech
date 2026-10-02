@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funcionalidad de grabación y reproducción, 8 canciones de demostración
 - La pantalla LCD interactiva muestra a los principiantes las teclas y los acordes correctos para tocar
+- Funcionalidad de grabación y reproducción, 8 canciones de demostración
 - Compacto y portátil; se puede tomar fácilmente en el camino
 - 54 teclas de tamaño completo le dan al teclado una sensación de piano tradicional
 

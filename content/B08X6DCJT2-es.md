@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou Cámara IP WiFi Interior 2K/3MP Cámara de Vigilancia WiFi Interior 360°'
-date: 2026-09-29 06:11:56
+date: 2026-10-01 05:24:25
 image: 'https://m.media-amazon.com/images/I/31MVkuptNsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08X6DCJT2/?tag=tolees-21'
 descuento: '31.96'
-average: '24.9276492537317'
+average: '24.882555555556'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

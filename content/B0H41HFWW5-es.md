@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Harpoon v2 Wireless Ratón para Juegos – Negro'
-date: 2026-09-27 22:44:09
+date: 2026-09-30 04:41:47
 image: 'https://m.media-amazon.com/images/I/31zV+H8pnNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skullcandy Terrain Mini Altavoz Portátil Inalámbrico con Bluetooth Impermeabilidad IPX7 14 Horas de Batería True Wireless Stereo y Correa Integrada para Viajes y Uso en Exteriores - Hueso/Naranja'
-date: 2026-09-24 09:21:47
+date: 2026-09-29 18:28:56
 image: 'https://m.media-amazon.com/images/I/415oGioUEOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

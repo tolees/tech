@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier MR3 Monitores de Estudio Activos 2.0 con Bluetooth & Hi-Res，Blanco'
-date: 2026-09-29 11:39:48
+date: 2026-10-01 00:36:56
 image: 'https://m.media-amazon.com/images/I/31r0qO7M0NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

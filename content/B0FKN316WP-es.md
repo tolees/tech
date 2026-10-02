@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Anker Nano Certificado Qi2 15W Power Bank Magsafe ultradelgada de 5000 mAh Cargador portátil Compatible con MagSafe diseño ergonómico para iPhone 17/16/15/14 Azul'
-date: 2026-08-18 11:21:05
-image: 'https://m.media-amazon.com/images/I/31BNyJHgqNL._SL500_._SL400_.jpg'
+date: 2026-09-29 22:14:17
+image: 'https://m.media-amazon.com/images/I/31hwgxq511L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,7 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anker Nano Power Bank (5K, MagGo, Slim)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKN316WP{{</world>}}

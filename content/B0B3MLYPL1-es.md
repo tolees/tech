@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jog wheels para mezclar y hacer scratching, además de faders, perillas y pads: ¡mezcla como lo harías en una controladora de DJ de tamaño completo, dondequiera que estés!
+- Mezcla fácilmente en tu smartphone a través de Bluetooth — ¡la conexión es sencilla y rápida!
 - Soporte plegable para smartphone incluido
-- Monitorizar pistas: escucha tu mezcla en auriculares usando el cable splitter incluido
 - Controla la aplicación djay disponible de forma gratuita y para uso ilimitado en Android e iOS
+- Monitorizar pistas: escucha tu mezcla en auriculares usando el cable splitter incluido
 - Controladora inalámbrica Bluetooth para smartphones Android e iPhone; también para tabletas Android e iPad
 - Te permite acceder a funciones esenciales para pinchar: puntos cue, samples, efectos, bucles…
-- Mezcla fácilmente en tu smartphone a través de Bluetooth — ¡la conexión es sencilla y rápida!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MLYPL1{{</world>}}

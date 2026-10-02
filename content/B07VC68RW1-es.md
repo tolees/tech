@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TP-Link LS1005G - Switch Ethernet Gigabit de 5 Puertos 10/100/1000 Mbps Plug y Play Sin Configuración Bajo Consumo Energético Silencioso y Compacto Ordenadores y Smart TV'
-date: 2026-06-18 10:14:15
+title: 'TP-Link LS1005G - Switch Gigabit 5 Puertos Plug & Play Carcasa Plástico'
+date: 2026-10-01 09:03:48
 image: 'https://m.media-amazon.com/images/I/4105RcuMQGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07VC68RW1-es TP-Link LS1005G - Switch Ethernet Gigabit de 5 Puertos...'
+slug: 'B07VC68RW1-es TP-Link LS1005G - Switch Gigabit 5 Puertos Plug & Play...'
 sku: 'B07VC68RW1-es'
 tags: [ 'gigabit','🇪🇸', ]
-actualPrice: 10.99 EUR
+actualPrice: 9.49 EUR
 currency: EUR
-price: 10.99
+price: 9.49
 comparePrice: 14.9 EUR
-prodname: 'TP-Link LS1005G - Switch Ethernet Gigabit de 5 Puertos 10/100/1000 Mbps Plug y Play Sin Configuración Bajo Consumo Energético Silencioso y Compacto Ordenadores y Smart TV'
+prodname: 'TP-Link LS1005G - Switch Gigabit 5 Puertos Plug & Play Carcasa Plástico'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC68RW1/?tag=tolees-21'
-descuento: '26.24'
-average: '11.9068965517241'
+descuento: '36.31'
+average: '11.7509677419355'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Ahorro de Energía con Green Ethernet】Tecnología Green Ethernet que ajusta el consumo según la longitud del cable y el estado del enlace para un uso más eficiente.
-- 【Plug & Play】El switch es muy fácil de instalar, sin necesidad de software ni configuración.
-- 【5 Puertos Gigabit】Los 5 puertos RJ45 de 10/100/1000 Mbps ofrecen un rendimiento estable, ideales para ampliar la red y conectar PC, Smart TV, consolas y más dispositivos.
-- 【Funcionamiento Silencioso sin Ventilador】Diseño fanless que garantiza un uso totalmente silencioso, ideal para dormitorios, oficinas y espacios de trabajo.
-- 【Buena Disipación de Calor】Carcasa ligera y estructura interna optimizada para mantener una temperatura estable incluso durante sesiones prolongadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VC68RW1{{</world>}}

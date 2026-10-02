@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Admite un radiador de 420 mm para refrigeración AIO o bucles de refrigeración líquida personalizados y las tarjetas gráficas más robustas obtienen un amplio espacio para el montaje horizontal o vertical
 - Madera naturalmente elaborada: homologada por el Forest Stewardship Council para la sostenibilidad, a la vez que aporta un aspecto distintivo que eleva el estilo personal
 - Panel lateral metálico: eficiencia de refrigeración y optima durabilidad
 - Rejilla del panel frontal de gran porosidad, dos ventiladores frontales extragruesos de 200 x 38 mm para una máxima entrada de aire, y un extractor trasero de 140 mm
-- Admite un radiador de 420 mm para refrigeración AIO o bucles de refrigeración líquida personalizados y las tarjetas gráficas más robustas obtienen un amplio espacio para el montaje horizontal o vertical
 - Indicador de polvo IR en el panel frontal con recordatorios oportunos para limpiar el filtro y mantener un flujo de aire de primer nivel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

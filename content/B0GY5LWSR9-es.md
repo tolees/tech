@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS35 v3 Auriculares Inalámbricos para Videojuegos – Negro'
-date: 2026-09-28 12:03:36
+date: 2026-10-01 10:06:31
 image: 'https://m.media-amazon.com/images/I/31ffS4HvYkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

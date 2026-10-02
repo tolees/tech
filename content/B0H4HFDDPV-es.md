@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Smartphone 4+128GB Morado Celestial batería de 7700mAh'
-date: 2026-09-26 19:30:13
+date: 2026-09-29 20:22:49
 image: 'https://m.media-amazon.com/images/I/41y0d2C0FQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

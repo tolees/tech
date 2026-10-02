@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G203 LIGHTSYNC Ratón Gaming con Iluminación RGB Personalizable'
-date: 2026-09-29 11:06:52
+date: 2026-10-01 10:01:57
 image: 'https://m.media-amazon.com/images/I/31Ky5k6L6WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6JBDGX/?tag=tolees-21'
 descuento: '28.58'
-average: '28.0966153846153'
+average: '28.0038805970149'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

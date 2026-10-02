@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Kindle última generación | el Kindle más ligero y compacto con pantalla sin reflejos pasos de página más fluidos y luz frontal ajustable | 16 GB | Sin publicidad | Negro'
-date: 2026-09-29 05:06:01
+date: 2026-10-01 11:30:33
 image: 'https://m.media-amazon.com/images/I/41XttfzNxbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CP32JG8B/?tag=tolees-21'
 descuento: '47.11'
-average: '101.34388888889'
+average: '100.199500000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

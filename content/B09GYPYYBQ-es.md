@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall Stanmore III Altavoz Bluetooth Negro'
-date: 2026-09-28 17:33:50
+date: 2026-09-30 15:06:28
 image: 'https://m.media-amazon.com/images/I/31isKcG8+4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09GYPYYBQ/?tag=tolees-21'
 descuento: '25.65'
-average: '293.755714285715'
+average: '294.1175'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

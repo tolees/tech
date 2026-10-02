@@ -29,14 +29,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rango automático de sensibilidad a la luz ISO de 100 a 51 200 y AF con poca luz
-- Detección AF de ojo inteligente que se enfoca automáticamente en los ojos del sujeto
-- Modo de fotografía silenciosa
-- Los puntos AF en el sensor cubren aproximadamente el 90% del fotograma de forma horizontal y vertical, para así obtener una adecuada nitidez de borde a borde
-- 20 efectos creativos en la cámara disponibles para fotos y vídeo
-- Se adapta adecuadamente a tus manos gracias a su profunda empuñadura y colocacion de los botones
-- Fotos adecuadamente enfocadas y vídeos 4K a su alcance para realizar creaciones
-- Sistema AF híbrido (autofoco) es rápido, preciso y realmente suave
 - Cuerpo ligero es fácil de llevar y cuenta con una parte superior y parte delantera sólidas fabricadas con una aleación de magnesio
+- 20 efectos creativos en la cámara disponibles para fotos y vídeo
+- Modo de fotografía silenciosa
+- Se adapta adecuadamente a tus manos gracias a su profunda empuñadura y colocacion de los botones
+- Detección AF de ojo inteligente que se enfoca automáticamente en los ojos del sujeto
+- Fotos adecuadamente enfocadas y vídeos 4K a su alcance para realizar creaciones
+- Los puntos AF en el sensor cubren aproximadamente el 90% del fotograma de forma horizontal y vertical, para así obtener una adecuada nitidez de borde a borde
+- Sistema AF híbrido (autofoco) es rápido, preciso y realmente suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YXH2DLB{{</world>}}

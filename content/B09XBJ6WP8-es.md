@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Auriculares gaming con cable Jack de 3,5 mm de 1,2 metros
 - Micrófono incluido con cancelación de ruido
 - Respuesta de frecuencia 20 Hz mín - 20 kHz máx
-- Auriculares gaming con cable Jack de 3,5 mm de 1,2 metros
 - Formato circumaural con micrófono omnidireccional
 - Sensibilidad de sonido 94 dB
 

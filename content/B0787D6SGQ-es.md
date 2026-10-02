@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Ratón inalámbrico ergonómico DPI ajustable negro'
-date: 2026-09-26 21:06:31
+date: 2026-09-29 19:30:59
 image: 'https://m.media-amazon.com/images/I/31P+hr+AuML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787D6SGQ/?tag=tolees-21'
 descuento: '39.75'
-average: '8.99653846153855'
+average: '8.80107142857151'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

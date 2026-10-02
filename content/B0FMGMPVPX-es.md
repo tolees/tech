@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Grip Altavoz Bluetooth Compacto Blanco'
-date: 2026-09-23 14:27:44
+date: 2026-10-01 07:35:39
 image: 'https://m.media-amazon.com/images/I/41Vgj3+ElYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FMGMPVPX/?tag=tolees-21'
 descuento: '35.00'
-average: '68.49'
+average: '67.3233333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

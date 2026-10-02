@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin bateria, carro, retroceso, divertido
+- Acción suéter – trasera
 - Excelente calidad y diseño
 - Escala 1:43
-- Acción suéter – trasera
+- Sin bateria, carro, retroceso, divertido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PRD1KVD{{</world>}}

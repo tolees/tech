@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link M15-3 Eagle Pro AI AX1500 Pack 3 Extensores WiFi 6 1500 Mbps Mesh Inteligente Optimizador tráfico Roaming Puertos Gigabit Modos Router o Extensores WPA3 Control Voz Alexa/Google'
-date: 2026-09-25 06:30:17
+date: 2026-09-30 18:54:41
 image: 'https://m.media-amazon.com/images/I/21A6M7DSUkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PLKYLVS/?tag=tolees-21'
 descuento: '16.92'
-average: '158.738'
+average: '147.33'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus EnerFill FM21 Qi2.2 25W Powerbank Magsafe Batería Externa Magnética 10000mAh PD 45W USB C Carga Rápida Power Bank Carga inalámbrica para iPhone 18，17 16 15 Pro MAX'
-date: 2026-09-28 19:25:29
+date: 2026-09-30 04:39:16
 image: 'https://m.media-amazon.com/images/I/31wYXwkE00L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTVVRC92/?tag=tolees-21'
 descuento: '27.17'
-average: '43.2233333333333'
+average: '43.34'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Construcción resistente: cada parte móvil del barril de la lente está sellada para proteger del polvo y las gotas de agua
 - S-line: diseño óptico de próxima dimensión. Revestimiento de nano cristal antirreflectante. Sistema multienfoque suave y silencioso
 - Anillo de control personalizable: se puede utilizar para enfoque manual (por defecto), control de apertura o compensación de exposición
-- Detalles nítidos: rendimiento excepcional de borde a borde. Distancia mínima de enfoque de solo 0,80 m
-- Construcción resistente: cada parte móvil del barril de la lente está sellada para proteger del polvo y las gotas de agua
 - Nikkor Z: diseñado alrededor del amplio soporte Nikon Z, esta lente puede capturar más luz en todo el marco
+- Detalles nítidos: rendimiento excepcional de borde a borde. Distancia mínima de enfoque de solo 0,80 m
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VQWGNHR{{</world>}}

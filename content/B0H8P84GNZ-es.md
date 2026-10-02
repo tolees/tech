@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Grabación de vídeos 4K HDR de alta resolución, estabilización de imagen óptica de 5 ejes para imágenes fijas y para compensar los movimientos de la cámara en vídeo
-- Incluye la cámara Alpha 7 III, objetivo zoom 28-70mm, una batería Z, un cargador y una correa
 - El sensor de 24 Mp combinado con capacidades ISO altas ofrecen una imagen óptima incluso con poca luz
 - Seguimiento en tiempo real y Eye AF (personas / animales) para mantener tu sujeto nítido en cualquier situación
 - Compatible con batería Z de gran capacidad, para sesiones de disparo continuas
+- Incluye la cámara Alpha 7 III, objetivo zoom 28-70mm, una batería Z, un cargador y una correa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H8P84GNZ{{</world>}}

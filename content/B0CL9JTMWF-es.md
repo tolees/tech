@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF Zigbee Wireless Switch SNZB-01P requiere SONOFF ZigBee hub Botón de Control Multifuncional de Tres vías para Dispositivos Domésticos Inteligentes Compatible con Alexa Smartthings y IFTTT'
-date: 2026-09-20 22:32:52
+date: 2026-10-01 05:35:48
 image: 'https://m.media-amazon.com/images/I/31h8ZMrkSdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL9JTMWF/?tag=tolees-21'
 descuento: '50.58'
-average: '11.45'
+average: '9.75857142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

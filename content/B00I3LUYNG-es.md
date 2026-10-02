@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño plegable compacto
 - Rango de frecuencia 10-24.000 hz
 - Auriculares tipo diadema con diseño plegable y ligero, diafragmas de 30 mm y sensibilidad de 98 db/mw
-- Diseño plegable compacto
 - Diafragmas de neodimio de 30 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

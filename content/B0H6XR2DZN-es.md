@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'XIAOMI Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
-date: 2026-09-16 22:42:05
+title: 'Xiaomi Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
+date: 2026-10-01 06:45:24
 image: 'https://m.media-amazon.com/images/I/41hOx3o7iqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0H6XR2DZN-es XIAOMI Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
+slug: 'B0H6XR2DZN-es Xiaomi Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
 sku: 'B0H6XR2DZN-es'
 tags: [ 'xiaomi','🇪🇸', ]
-actualPrice: 899.9 EUR
+actualPrice: 849.9 EUR
 currency: EUR
-price: 899.9
+price: 849.9
 comparePrice: 1199.9 EUR
-prodname: 'XIAOMI Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
+prodname: 'Xiaomi Poco F9 Ultra 16+512 Negro 8050mAh Carga 100 W'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H6XR2DZN/?tag=tolees-21'
-descuento: '25.00'
-average: '899.9'
+descuento: '29.17'
+average: '892.757142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MERCUSYS MP500P Kit – Powerline AV1000 con Puerto Gigabit y Toma Passthrough 2 Adaptadores PLC Red Eléctrica de Alta Velocidad Plug & Play Ideal para Streaming 4K y Gaming'
-date: 2026-09-26 06:27:56
+date: 2026-09-29 22:48:12
 image: 'https://m.media-amazon.com/images/I/31JheASGPNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer BC 27 Tensiómetro de muñeca con detección de arritmias indicador de riesgo en color muñeca 14-19 5 cm producto médico transferencia de datos a Apple Health'
-date: 2026-09-24 07:33:08
+date: 2026-10-01 23:34:58
 image: 'https://m.media-amazon.com/images/I/51jK+EaQ-xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
