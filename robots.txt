@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tecnologia.tole.es/sitemap.xml
