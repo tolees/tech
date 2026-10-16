@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compatible con los mandos Joy-Con de las consolas NINTENDO Switch, NINTENDO Switch MODELO OLED y NINTENDO Switch Lite
-- Compartimento interior para los juegos
 - Material ultrarresistente
+- Compartimento interior para los juegos
 - Funda de trasporte rigida para Nintendo Switch
 
 [🛒 Aquí!!!]({{< param buyurl >}})

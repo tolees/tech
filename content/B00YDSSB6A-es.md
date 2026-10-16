@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este dispositivo es compatible con: PC, Smart TV
-- Indicadores LED de nivel de batería, señal y de carga
-- Receptor USB (Wireless RF 2.4 GHz) incluido
 - Batería de litio recargable con cable USB incluido
+- Receptor USB (Wireless RF 2.4 GHz) incluido
+- Indicadores LED de nivel de batería, señal y de carga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YDSSB6A{{</world>}}

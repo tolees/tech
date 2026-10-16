@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gráficos Integrados AMD Radeon
-- Windows 11 Home
 - Almacenamiento de datos SSD de 1 TB PCIe NVMe M.2
-- Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
+- Gráficos Integrados AMD Radeon
 - Procesador AMD Ryzen 7 7730U (aumento máximo del reloj de hasta 4,5 GHz, 16 MB de caché L3, 8 núcleos, 16 subprocesos)
+- Windows 11 Home
+- Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FX3B9RTV{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclado Gaming RGB: Iluminación personalizable con efectos de luces RGB para una experiencia inmersiva.
-- Funciones multimedia integradas: Acceso rápido a volumen, reproducción de música y más.
-- Conexión USB 2.0: Plug & play, sin necesidad de drivers adicionales.
 - Compatibilidad universal: Perfecto para PC, Windows y setups gaming completos.
+- Funciones multimedia integradas: Acceso rápido a volumen, reproducción de música y más.
+- Teclado Gaming RGB: Iluminación personalizable con efectos de luces RGB para una experiencia inmersiva.
+- Conexión USB 2.0: Plug & play, sin necesidad de drivers adicionales.
 - Diseño resistente y cómodo: Teclas ergonómicas tipo membrana que combinan durabilidad y confort.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad
 - Conectividad: VGA, USB, DisplayPort
+- Producto de calidad
 - Características técnicas: Intel Xeon E E-2434, 16 GB RAM
 
 [🛒 Aquí!!!]({{< param buyurl >}})

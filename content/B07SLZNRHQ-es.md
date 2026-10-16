@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amarillo pajizo brillante con un perlaje fino y persistente
 - Acabado de larga duración
+- Amarillo pajizo brillante con un perlaje fino y persistente
 - Adecuado como un regalo
 - Nariz compleja, intensa, floral y afrutada
 

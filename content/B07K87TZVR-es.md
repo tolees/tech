@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Configuración sencilla mediante Wifi, sin necesidad de pasarela o hub; Tamaño: 52x52x85 mm
-- Potencia máxima admitida: 3680W; Amperaje máximo admitido: 16A
-- Enchufe Wifi Inteligente Garza para interior, que permite controlar los dispositivos de tu casa de forma eficiente y segura
 - Triple protección de sobrecarga, sobrevoltaje y sobretensión y protección infantil
-- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
-- Controla los aparatos conectados a tu enchufe inteligente de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
 - Con medidor de consumo diario, mensual y anual, que te permite monitorizar y ahorrar energía en tu hogar
 - Control por voz compatible con Alexa y Google Assistant
+- Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
+- Enchufe Wifi Inteligente Garza para interior, que permite controlar los dispositivos de tu casa de forma eficiente y segura
+- Controla los aparatos conectados a tu enchufe inteligente de forma remota desde varios dispositivos a través de las apps Garza Smart, Tuya Smart y Smart Life
+- Potencia máxima admitida: 3680W; Amperaje máximo admitido: 16A
+- Configuración sencilla mediante Wifi, sin necesidad de pasarela o hub; Tamaño: 52x52x85 mm
 - Crea automatizaciones y escenas y programa el encendido/apagado de tus aparatos en función de la hora, el clima, un temporizador, una cuenta atrás...
 
 [🛒 Visítala!!!]({{< param buyurl >}})

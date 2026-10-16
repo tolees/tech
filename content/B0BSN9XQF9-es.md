@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con gráficos Intel Iris Xe
-- Pantalla 14 pulgadas FHD (1920x1080), IPS-Level
 - Seguridad de nivel empresarial para proteger tus datos
+- Pantalla 14 pulgadas FHD (1920x1080), IPS-Level
+- Con gráficos Intel Iris Xe
 - Procesador 13th Gen Intel Core i5-1334U
 - Ultraligero y ultrafino
 

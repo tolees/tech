@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Indicador LED RGB: indicador de carga RGB incorporado con botón táctil capacitivo para cambiar los modos de iluminación. Modos: estándar, apagado, ciclo, ola, respiración arcoíris
 - Recarga sin esfuerzo: se acopla fácilmente al deslizar
-- Alimentación USB: incluye un cable de USB-C a USB-C de 1,5 m y un adaptador de carga USB-C magnético.
-- Cargar y exponer: carga la PlayStation Portal Remote Player y exponla junto a tu consola PlayStation5.
 - Con licencia oficial de PlayStation.
+- Cargar y exponer: carga la PlayStation Portal Remote Player y exponla junto a tu consola PlayStation5.
+- Alimentación USB: incluye un cable de USB-C a USB-C de 1,5 m y un adaptador de carga USB-C magnético.
 - Base con peso: estabilidad añadida para fijar la estación de carga en su sitio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 16GB
-- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Sistema operativo Windows 11 Home
+- Memoria RAM de 16GB
 - Tarjeta gráfica Intel Graphics
 - Procesador Intel Core 7 150U, 1.8 / 5.4 GHz, 12 MB Smart Cache
+- Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
 - Almacenamiento de 512GB SSD
 
 [🛒 Aquí!!!]({{< param buyurl >}})

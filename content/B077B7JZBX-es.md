@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
+- Visión Nocturna por infrarrojos
 - Grabación de vídeo y toma de imágenes manuales
 - Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
 - Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigilabebés con vídeo para controlar a su bebé desde cualquier lugar.
-- Visión Nocturna por infrarrojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077B7JZBX{{</world>}}

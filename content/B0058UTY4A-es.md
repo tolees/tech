@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pulsador único multifunción para un bajo coste productivo, mayor fiabilidad y sencillez de navegación
-- Display retroiluminado mediante pulsador o en caso de alarma
-- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
-- Amplia pantalla ufds que hereda la proverbial facilidad de navegación y menús de los ordenadores con software cressi
-- Interface con conexión al ordenador de buceo mediante Ir simplemente apoyando el ordenador y conexión al Pc con cable USB. Software compatible con todas las versiones Windows y con Mac
-- Profundímetro calibrado en agua salada para una máxima precisión en el uso más habitual
-- La distribución de la información, contraste de pantalla, proporciones y tamaño de los dígitos han sido estudiados para facilitar la lectura
 - Prolongada duración de las baterías mediante una combinación de sistemas: modo ahorro cuando no se usa el ordenador con encendido automático.
+- Interface con conexión al ordenador de buceo mediante Ir simplemente apoyando el ordenador y conexión al Pc con cable USB. Software compatible con todas las versiones Windows y con Mac
+- Amplia pantalla ufds que hereda la proverbial facilidad de navegación y menús de los ordenadores con software cressi
+- Display retroiluminado mediante pulsador o en caso de alarma
+- Pulsador único multifunción para un bajo coste productivo, mayor fiabilidad y sencillez de navegación
+- Perfil de bajo relieve con diseño ergonómico redondeado en la parte en contacto con la muñeca para facilitar todo tipo de movimiento de la mano
+- La distribución de la información, contraste de pantalla, proporciones y tamaño de los dígitos han sido estudiados para facilitar la lectura
+- Profundímetro calibrado en agua salada para una máxima precisión en el uso más habitual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0058UTY4A{{</world>}}

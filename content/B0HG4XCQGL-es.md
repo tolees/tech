@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BSTOEM Cable Cargador iPhone Carga Rápida para Apple MFi Certificado 1M+2M'
-date: 2026-09-15 06:53:54
+date: 2026-10-15 16:54:27
 image: 'https://m.media-amazon.com/images/I/412NbQpzQQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0HG4XCQGL-es BSTOEM Cable Cargador iPhone Carga Rápida para Apple MFi...'
 sku: 'B0HG4XCQGL-es'
 tags: [ 'apple','iphone','🇪🇸', ]
-actualPrice: 8.49 EUR
+actualPrice: 7.59 EUR
 currency: EUR
-price: 8.49
+price: 7.59
 comparePrice: 9.99 EUR
 prodname: 'BSTOEM Cable Cargador iPhone Carga Rápida para Apple MFi Certificado 1M+2M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HG4XCQGL/?tag=tolees-21'
-descuento: '15.02'
-average: '8.99'
+descuento: '24.02'
+average: '8.64'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

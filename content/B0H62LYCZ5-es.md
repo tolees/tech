@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'F417PRO Mini FPV Drone con Cámara HD 1080P Mando a Distancia LCD Motor sin Escobillas Recarga Rápida Type‑C Menos de 249g Juguete dron para Adultos Niños Principiantes Regalos para Niños Niñas'
-date: 2026-09-24 19:13:21
+date: 2026-10-16 06:39:55
 image: 'https://m.media-amazon.com/images/I/41LZkxXkjNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0H62LYCZ5-es F417PRO Mini FPV Drone con Cámara HD 1080P Mando a...'
 sku: 'B0H62LYCZ5-es'
 tags: [ '1080p','🇪🇸', ]
-actualPrice: 89.99 EUR
+actualPrice: 74.09 EUR
 currency: EUR
-price: 89.99
+price: 74.09
 comparePrice: 149.99 EUR
 prodname: 'F417PRO Mini FPV Drone con Cámara HD 1080P Mando a Distancia LCD Motor sin Escobillas Recarga Rápida Type‑C Menos de 249g Juguete dron para Adultos Niños Principiantes Regalos para Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H62LYCZ5/?tag=tolees-21'
-descuento: '40.00'
-average: '89.99'
+descuento: '50.60'
+average: '86.015'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

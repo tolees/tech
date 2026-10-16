@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo L27-4e Monitor IPS Full HD de 27" 100 Hz HDMI VGA Negro'
-date: 2026-10-10 09:27:52
+date: 2026-10-16 04:12:08
 image: 'https://m.media-amazon.com/images/I/41uJ22iehoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ordenador Portátil 14 Pulgadas Celeron N5095 Upto 2 9 GHz Portatiles 8GB RAM 256GB SSD TF 1TB LPDDR4 Win11 5G WiFi 1920*1080 FHD mini HDMl Laptop Película Protectora Español - negro Cuerpo Metálico-61'
-date: 2026-10-11 09:40:27
+date: 2026-10-15 01:18:58
 image: 'https://m.media-amazon.com/images/I/41Re9-gHZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POCO X8 Smartphone 12G+256GB Naranja batería de 8340mAh carga de 67 W'
-date: 2026-10-07 19:14:10
+date: 2026-10-15 21:13:45
 image: 'https://m.media-amazon.com/images/I/41mpxgQkM1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PHILIPS H4205WT/00 - Auriculares inalámbricos Bluetooth On Ear Bass Boost 29 Horas de autonomía función de Carga rápida Aislamiento acústico diseño Plegable 2020 Blanco White'
-date: 2026-10-14 09:48:46
+date: 2026-10-15 10:47:07
 image: 'https://m.media-amazon.com/images/I/31hnI2hP+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WDRN7N/?tag=tolees-21'
 descuento: '50.09'
-average: '29.0022222222222'
+average: '28.2654545454545'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

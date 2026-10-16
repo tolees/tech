@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Rango de frecuencia: 18 Hz a 22 kHz
+- La siguiente información se aplica a cada unidad del paquete
+- Diafragma de neodimio (13,5 mm)
 - Auriculares internos ligeros con diafragma de 13,5 mm, 18 Hz-20 kHz, tapones de silicona, diversos colores
 - Disponible en varios colores
-- Rango de frecuencia: 18 Hz a 22 kHz
-- Diafragma de neodimio (13,5 mm)
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZN89YN4{{</world>}}

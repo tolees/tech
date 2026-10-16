@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMF by Nothing Buds 2 Auriculares inalámbricos con ANC híbrido de 48 dB 55 Horas de batería Driver PMI de 11mm 6 micrófonos HD y Audio Espacial Resistencia al Agua y Polvo IP55 – Gris Oscuro'
-date: 2026-10-13 10:11:40
+date: 2026-10-15 06:43:02
 image: 'https://m.media-amazon.com/images/I/21mzQ4dOnxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZ81TM6Y/?tag=tolees-21'
 descuento: '39.96'
-average: '34.6195744680853'
+average: '34.4306122448982'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

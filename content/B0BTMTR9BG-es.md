@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botones de sistema Switch (+, -, Home, Capture)
+- Incluye cable micro-USB a USB-A de 2,4 m (8 pies)
 - Dos controles analógicos con precisión optimizada
+- Diseño de botones ABXY Nintendo (más grande que el Joy-Con)
 - Ergonomía cómoda para manos de todos los tamaños
 - Cruceta con forma de + y ocho direcciones
-- Diseño de botones ABXY Nintendo (más grande que el Joy-Con)
-- La clásica combinación de colores de Super Mario añade una energía alegre y divertida a cualquier sesión de juego.
-- Incluye cable micro-USB a USB-A de 2,4 m (8 pies)
 - Botones disparadores frontales izquierdo/derecho y gatillos (L/R/ZL/ZR)
+- La clásica combinación de colores de Super Mario añade una energía alegre y divertida a cualquier sesión de juego.
+- Botones de sistema Switch (+, -, Home, Capture)
 - Mando con cable con diseño de botones intuitivo
 - LED de estado de conexión
 

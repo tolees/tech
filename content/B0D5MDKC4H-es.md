@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Includes DLC & behind-the-scenes commentary from the creative team
-- Unravel a mystery stretching back hundreds of years
 - A coming-of-age story about overcoming hardships and finding yourself
+- Unravel a mystery stretching back hundreds of years
 - Beautiful character art and music
 
 [🛒 Comprar!!!]({{< param buyurl >}})

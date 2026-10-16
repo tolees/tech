@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clip para sujeción y cinta para ajuste de mano
+- Fuente de alimentación: Funciona con pilas
 - Radio digital am/FM
 - Pantalla LCD (modo 24h)
 - Altavoz incorporado; función sleep y snooze
-- Fuente de alimentación: Funciona con pilas
+- Clip para sujeción y cinta para ajuste de mano
 - Memoria para 20 emisoras (10 emisoras am y 10 emisoras FM)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño energéticamente eficiente conforme a IEEE802.3a
-- Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
-- Admite montaje de sobremesa o en pared
-- Funcionamiento silencioso
 - 8 puertos Ethernet de 1 G
+- Diseño energéticamente eficiente conforme a IEEE802.3a
+- Admite montaje de sobremesa o en pared
 - 1 puerto SFP+ de 10 G
+- Funcionamiento silencioso
+- Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHD1WS1{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiempo de respuesta de 0,5 ms (GtG, mín.): elimina el tearing de la pantalla y los fotogramas entrecortados
+- Tasa de refresco de 180 Hz: responda más rápido con fotogramas más fluidos
 - Rapid IPS: proporciona un tiempo de respuesta rápido de 0,5 ms (GtG, mín.), optimiza los colores y el brillo de la pantalla
 - Tecnología Adaptive-Sync: juegos fluidos, sin interrupciones ni tirones
-- Tasa de refresco de 180 Hz: responda más rápido con fotogramas más fluidos
 - AI Vision: la tecnología AI Vision no sólo puede revelar detalles en zonas oscuras, sino también optimizar el brillo general y saturar los colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

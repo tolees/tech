@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
-- Sistema Operativo: Windows 11 Home
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 250 nits
+- Procesador Intel Core i7-1355U (10C/DecaCore 5GHz, 12MB)
 - Memoria RAM de 16GB DDR4
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CT28P72C{{</world>}}

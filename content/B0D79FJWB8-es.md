@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
-- Cable de carga USB-C de 1,8 m incluido
-- Incluye mandos de movimiento* y botones de juego avanzado asignables
-- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch, Nintendo Switch (modelo OLED) y Nintendo Switch Lite
 - Mando de Nintendo Switch con una batería interna recargable: hasta 20 horas por carga*
+- Cable de carga USB-C de 1,8 m incluido
 - Carcasa ergonómica compacta con botones y controles de tamaño estándar
-- Mando inalámbrico con tecnología Bluetooth 5.0
 - Garantía limitada de dos años: visita PowerA.com/Support
+- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch, Nintendo Switch (modelo OLED) y Nintendo Switch Lite
+- Mando inalámbrico con tecnología Bluetooth 5.0
+- Incluye mandos de movimiento* y botones de juego avanzado asignables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D79FJWB8{{</world>}}

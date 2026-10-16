@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estructura de forma oval para mejor sujeción
 - Estructura y cable del mismo color llamativo
 - Potente sonido por medio del motor de 13.5 mm de Neodimio
-- Estructura de forma oval para mejor sujeción
 - Salida "Bass boosting" para refuerzo de graves
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

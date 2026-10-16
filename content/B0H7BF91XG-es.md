@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14 L32MB-FPVEU'
-date: 2026-10-14 11:39:58
+title: 'XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14 L32MB-FPVEU | Alexa Voice Control Dolby Audio™ DTS Virtual:X DTS-HD Compatible with Apple AirPlay'
+date: 2026-10-16 05:29:36
 image: 'https://m.media-amazon.com/images/I/41rw4IhNWbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0H7BF91XG-es XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14...'
 sku: 'B0H7BF91XG-es'
-tags: [ 'xiaomi','🇪🇸', ]
+tags: [ 'alexa','apple','xiaomi','🇪🇸', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0
 comparePrice: 229.0 EUR
-prodname: 'XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14 L32MB-FPVEU'
+prodname: 'XIAOMI TV Pro 32 Pulgadas 2026 QLED Smart TV Fire OS14 L32MB-FPVEU | Alexa Voice Control Dolby Audio™ DTS Virtual:X DTS-HD Compatible with Apple AirPlay'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H7BF91XG/?tag=tolees-21'
 descuento: '39.30'
-average: '140.666666666667'
+average: '140.428571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

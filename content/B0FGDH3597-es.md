@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ordenador Portátil 14 Pulgadas hasta 2 8 GHz Celeron 256GB SSD PC Portátil'
-date: 2026-10-11 22:12:42
+date: 2026-10-15 06:15:49
 image: 'https://m.media-amazon.com/images/I/41amq4aLXkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

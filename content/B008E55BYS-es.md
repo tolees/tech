@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO ERGONÓMICO: para la mano derecha, que se adapta adecuadamente
-- CONTENIDO: 1 ratón inalámbrico color gris, 2 pilas AAA
 - TECNOLOGÍA INALÁMBRICA: evita el desorden de los cables y nanorreceptor almacenable en el propio ratón
+- SENSOR ÓPTICO: alta definición (PPP: 800/1200/1600) para un control efectivo
+- CONTENIDO: 1 ratón inalámbrico color gris, 2 pilas AAA
+- COMPATIBILIDAD: Chrome OS 44 o posterior, macOS 10.9, macOS 10.10 o posterior, macOS X 10.11, Vista, XP, Windows 7, Windows 8, Windows 10, Windows 11
+- TECNOLOGÍA: 2,4 GHz de largo alcance y con mínimas interferencias
+- DISEÑO ERGONÓMICO: para la mano derecha, que se adapta adecuadamente
+- DURACIÓN: prolongada de las pilas de hasta 12 meses
 - TAMAÑO DE RECEPTOR: USB NANO
 - RUEDA DE DESPLAZAMIENTO: con botón central y selección rápida de la velocidad del puntero
-- DURACIÓN: prolongada de las pilas de hasta 12 meses
-- TECNOLOGÍA: 2,4 GHz de largo alcance y con mínimas interferencias
-- COMPATIBILIDAD: Chrome OS 44 o posterior, macOS 10.9, macOS 10.10 o posterior, macOS X 10.11, Vista, XP, Windows 7, Windows 8, Windows 10, Windows 11
-- SENSOR ÓPTICO: alta definición (PPP: 800/1200/1600) para un control efectivo
 - TAMAÑO COMPACTO: Para su uso transportable sin ocupar espacio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

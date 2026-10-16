@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vlogging: PowerShot V10 Incluye todo lo que necesitas para el vlogging y la creación de contenido. Cuerpo compacto y ligero, pantalla abatible, gran calidad de imagen, estabilización, micrófonos estéreo envolventes y más
-- Diseño: Diseñada con y para creadores de contenido. La PowerShot V10 es una cámara pequeña, ligera y ergonómica que cabe en el bolsillo. Gracias a su soporte integrado se mantiene en pie para tomar vídeos en diferentes ángulos
-- ¿Qué incluye el kit?: Cámara, correa para la muñeca, cable interfaz, tapa de lentes, estuche de tela, protectores de micrófono contra el viento y manual de usuário
 - Streaming: Retransmite en directo con facilidad y de forma inalámbrica en Youtube y Facebook y a través de USB-C a modo de WebCam en plataformas como Twich. Perfecta para stremear tus momentos gaming, reacciones y retransmitir tus contenidos
-- Vídeo: Impresionante calidad de imagen 4K con 20,9MP y objetivo gran angular de f/2,8. Perfecta para planos amplios, primeros planos, efecto bokeh y situaciones de poca luz
+- Vlogging: PowerShot V10 Incluye todo lo que necesitas para el vlogging y la creación de contenido. Cuerpo compacto y ligero, pantalla abatible, gran calidad de imagen, estabilización, micrófonos estéreo envolventes y más
+- ¿Qué incluye el kit?: Cámara, correa para la muñeca, cable interfaz, tapa de lentes, estuche de tela, protectores de micrófono contra el viento y manual de usuário
 - Canon: Innovación constante en cámaras de vídeo y fotografía desde 1934
+- Vídeo: Impresionante calidad de imagen 4K con 20,9MP y objetivo gran angular de f/2,8. Perfecta para planos amplios, primeros planos, efecto bokeh y situaciones de poca luz
+- Diseño: Diseñada con y para creadores de contenido. La PowerShot V10 es una cámara pequeña, ligera y ergonómica que cabe en el bolsillo. Gracias a su soporte integrado se mantiene en pie para tomar vídeos en diferentes ángulos
 - Conectividad: Bluetooth y Wifi para retransmitir en directo y controlar tu cámara desde la distancia a través de tu smartphone o tablet. Conexión Micro HDMI y USB-C
 
 [🛒 Comprar!!!]({{< param buyurl >}})

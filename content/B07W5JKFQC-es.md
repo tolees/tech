@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech G G203 LIGHTSYNC Ratón Gaming con Iluminación RGB Personalizable'
-date: 2026-10-10 05:31:11
+title: 'Logitech G G203 LIGHTSYNC Ratón Gaming Negro 6 Botones Programables | Ratón con cable para ordenador Iluminación RGB personalizable sensor 8000 DPI ultra-ligero 16 8 millones de colores'
+date: 2026-10-15 07:38:11
 image: 'https://m.media-amazon.com/images/I/31Q4oU1le-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W5JKFQC-es Logitech G G203 LIGHTSYNC Ratón Gaming con Iluminación RGB...'
+slug: 'B07W5JKFQC-es Logitech G G203 LIGHTSYNC Ratón Gaming Negro 6 Botones...'
 sku: 'B07W5JKFQC-es'
-tags: [ 'logitech','ratón','🇪🇸', ]
+tags: [ 'logitech','ordenador','ratón','🇪🇸', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95
 comparePrice: 34.99 EUR
-prodname: 'Logitech G G203 LIGHTSYNC Ratón Gaming con Iluminación RGB Personalizable'
+prodname: 'Logitech G G203 LIGHTSYNC Ratón Gaming Negro 6 Botones Programables | Ratón con cable para ordenador Iluminación RGB personalizable sensor 8000 DPI ultra-ligero 16 8 millones de colores'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5JKFQC/?tag=tolees-21'
 descuento: '34.41'
-average: '22.5874750830562'
+average: '22.5898679867984'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

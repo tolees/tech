@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lentes asféricas para minimizar aberraciones y dispersión de luz
 - Óptica muy luminosa con apertura F28 Diámetro de filtro 67mm
+- Lentes asféricas para minimizar aberraciones y dispersión de luz
 - Peso 505 gr
 - Objetivo de focal fija Autofocus para cámaras digitales sin espejo Sony E con sensor Full Frame
 

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Panel VA curvo de 27 pulgadas con resolución QHD
+- Saturación de color: 122% sRGB
 - Frecuencia de actualización de 180Hz, tiempo de respuesta de 1 ms
 - Admite AMD FreeSync, Eyesafe 2.0 y HDR Ready
-- Panel VA curvo de 27 pulgadas con resolución QHD
-- Diseño ergonómico: Ajustes de inclinación
 - Profundidad de color: 8 bits
-- Saturación de color: 122% sRGB
+- Diseño ergonómico: Ajustes de inclinación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ5LR31N{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para compartir con su médico, envíe por email a su médico un informe completo con grabación de ECG, fácilmente
-- Resultados inmediatos, feedback instantáneo, con código de colores, en equipo y app
-- Estetoscopio digital, escucha su corazón y ayuda a detectar las enfermedades cardíacas valvulares más frecuentes
-- Con precisión médica, cumple los estándares europeos de equipos médicos
-- Batería recargable, 6 meses de uso del producto con una carga
-- Electrocardiograma, ayuda a detectar la fibrilación atrial, la arritmia más normal
-- Sincronización automática de datos, sincronización de smartphone automática por Wi-Fi y Bluetooth
 - Monitor de presión sanguínea, sistólica y diastólica y ritmo cardíaco
+- Para compartir con su médico, envíe por email a su médico un informe completo con grabación de ECG, fácilmente
+- Estetoscopio digital, escucha su corazón y ayuda a detectar las enfermedades cardíacas valvulares más frecuentes
+- Electrocardiograma, ayuda a detectar la fibrilación atrial, la arritmia más normal
+- Batería recargable, 6 meses de uso del producto con una carga
+- Sincronización automática de datos, sincronización de smartphone automática por Wi-Fi y Bluetooth
+- Con precisión médica, cumple los estándares europeos de equipos médicos
+- Resultados inmediatos, feedback instantáneo, con código de colores, en equipo y app
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VQWSZHK{{</world>}}

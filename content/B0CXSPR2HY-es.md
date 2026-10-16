@@ -30,18 +30,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Speaker type: Porttil
 - Item weight: 0.32 pounds
-- Mounting type: Montaje en mesa
-- Mounting type: Montaje en mesa
-- Compatible devices: Smartphone
-- Compatible devices: Smartphone
 - Wattage: 3.0 watts
-- Item dimensions: 2.36 inches
-- Item dimensions: 2.36 inches
-- Speaker type: Porttil
 - Special feature: Magnético
-- Wattage: 3.0 watts
 - Item weight: 0.32 pounds
+- Speaker type: Porttil
+- Mounting type: Montaje en mesa
+- Wattage: 3.0 watts
+- Mounting type: Montaje en mesa
+- Compatible devices: Smartphone
 - Special feature: Magnético
+- Item dimensions: 2.36 inches
+- Compatible devices: Smartphone
+- Item dimensions: 2.36 inches
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXSPR2HY{{</world>}}

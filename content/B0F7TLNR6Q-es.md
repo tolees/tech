@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Licencia oficial de Nintendo
-- Incluye cable USB-C y adaptador de audio en ángulo recto para conectar auriculares a la consola en horizontal
 - Pestalla de privacidad
+- Incluye cable USB-C y adaptador de audio en ángulo recto para conectar auriculares a la consola en horizontal
+- Licencia oficial de Nintendo
 - Base con pinza plegable y regulable
 - Compatible con todos los modos (televisor, sobremesa y portátil)
 

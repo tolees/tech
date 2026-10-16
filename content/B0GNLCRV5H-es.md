@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metal Gear Solid: Master Collection Volume 2 – Day One Edition - Switch 2 [Nintendo Switch 2 - Key Card]'
-date: 2026-10-14 08:29:15
+date: 2026-10-16 08:47:51
 image: 'https://m.media-amazon.com/images/I/51lcCWhA4vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GNLCRV5H/?tag=tolees-21'
 descuento: '20.00'
-average: '46.3507692307692'
+average: '46.1151851851852'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

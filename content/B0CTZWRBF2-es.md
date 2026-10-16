@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- USB, entrada Aux. 2 x Mic jacks
-- Altavoz Bluetooth portatil con 300W de salida.
 - Luces de colores. Par estéreo IPX6. Ajute de graves y agudos.
 - Más de 10 horas de música. Display indicador de la carga de batería
+- USB, entrada Aux. 2 x Mic jacks
+- Altavoz Bluetooth portatil con 300W de salida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTZWRBF2{{</world>}}

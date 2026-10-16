@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG S95AR - Barra de Sonido Bluetooth 810W 9.1.5 Canales con subwoofer'
-date: 2026-09-20 10:40:11
+date: 2026-10-15 12:30:46
 image: 'https://m.media-amazon.com/images/I/41iOZzBg7ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

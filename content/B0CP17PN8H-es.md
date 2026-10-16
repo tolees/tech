@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manufacturer : ATI
+- Battery.charge time : 1.0 hours
+- Battery.capacity : 5000.0 milliamp hours
+- Wireless network technology : wifi
+- Camera description : Frontal
+- Display.size : 6.74 inches
+- Operating system : Android
 - Item dimensions : 3.07 inches
 - Connectivity technology : NFC
-- Camera description : Frontal
-- Batteries included : False
-- Battery.average life : 13.0 hours
-- Wireless network technology : wifi
-- Operating system : Android
-- Display.size : 6.74 inches
 - Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Manufacturer : ATI
-- Wireless provider : orange
-- Battery.capacity : 5000.0 milliamp hours
-- Battery.charge time : 1.0 hours
-- Cellular technology : 4G
 - Memory storage capacity : 128.0 GB
 - Ram memory.installed size : 4.0 GB
 - Included components : 1 package
+- Wireless provider : orange
+- Cellular technology : 4G
 - MZB0FM7EU
+- Batteries included : False
+- Battery.average life : 13.0 hours
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

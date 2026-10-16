@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Instruments dastronomie
-- Etui, Courroie de cou, Bouchon oeilleton, Bouchons lentilles
 - PENTAX
+- Etui, Courroie de cou, Bouchon oeilleton, Bouchons lentilles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VXLPPG3{{</world>}}

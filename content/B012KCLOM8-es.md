@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza el Adaptador de conector Lightning a AV digital para reproducir el contenido de tu iPhone, iPad o iPod con conector Lightning. Podrás ver apps, presentaciones, webs y todo lo que tengas en tu dispositivo con una resolución de hasta 1.080p HD en un televisor, proyector o pantalla compatible con HDMI.
 - Y disfruta el mejor cine o los vídeos más divertidas en nada menos que 1080p HD. Solo tienes que conectar el adaptador a tu dispositivo y a un televisor o proyector con un cable HDMI (se vende por separado).
+- Utiliza el Adaptador de conector Lightning a AV digital para reproducir el contenido de tu iPhone, iPad o iPod con conector Lightning. Podrás ver apps, presentaciones, webs y todo lo que tengas en tu dispositivo con una resolución de hasta 1.080p HD en un televisor, proyector o pantalla compatible con HDMI.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B012KCLOM8{{</world>}}

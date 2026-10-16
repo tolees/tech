@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Newsoul Monitor Portátil Táctil 4K 15 6" IPS Pantalla con USB‑C y Aguja'
-date: 2026-10-14 10:40:25
+date: 2026-10-16 06:23:45
 image: 'https://m.media-amazon.com/images/I/5145ss2SHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GYYVYLVJ/?tag=tolees-21'
 descuento: '34.65'
-average: '194.505'
+average: '192.843333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

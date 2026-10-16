@@ -32,8 +32,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Potencia de salida máxima 100 W.
 - Woofer de 5.25" y tweeter de 2". Bass Boost.
 - Resistente al agua con certificación IPX5.
-- Batería de litio recargable de 7.4 V / 4000 mAh. Conector de alimentación USB tipo C.
 - Función TWS (True Wireless Stereo). Entrada AUX-IN de 3.5 mm.
+- Batería de litio recargable de 7.4 V / 4000 mAh. Conector de alimentación USB tipo C.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2PZ485{{</world>}}

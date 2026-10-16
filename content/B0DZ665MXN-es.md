@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla crystal-clear de 3,2 K y 144 Hz11,2"3:23200 x 2136, 345 pppHasta 144 HzHasta 360 Hz 240 Hz (con lápiz)
 - Snapdragon 7+ Gen 3,Proceso de fabricación de 4 nm8 núcleos, hasta 2,8 GHzGPU AdrenoMotor AI Qualcomm
-- Xiaomi HyperOS 2
 - 8850 mAh (typ),Carga turbo de 67 W,USB tipo C
+- Xiaomi HyperOS 2
 - Wi-Fi 7,MIMO 2x2, sonido 8x8 para MU-MIMO, Wi-Fi Direct, MiracastBluetooth 5.4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
