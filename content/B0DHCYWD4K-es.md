@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'DELL Inspiron 14 5441 Laptop Copilot+ PC FHD+ 14" Procesador Snapdragon X Plus Graphic Qualcomm Adreno 16GB RAM 512GB SSD Windows 11 Home Teclado Retroiluminado QWERTY Español Titan Grey'
+date: 2026-03-14 11:06:33
+image: 'https://m.media-amazon.com/images/I/41DoKnJoKjL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHCYWD4K-es DELL Inspiron 14 5441 Laptop Copilot+ PC FHD+ 14"...'
+sku: 'B0DHCYWD4K-es'
+tags: [ 'dell','ram','teclado','🇪🇸', ]
+actualPrice: 529.0 EUR
+currency: EUR
+price: 529.0
+comparePrice: 799.0 EUR
+prodname: 'DELL Inspiron 14 5441 Laptop Copilot+ PC FHD+ 14" Procesador Snapdragon X Plus Graphic Qualcomm Adreno 16GB RAM 512GB SSD Windows 11 Home Teclado Retroiluminado QWERTY Español Titan Grey'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DHCYWD4K/?tag=tolees-21'
+descuento: '33.79'
+average: '524.31'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- SISTEMA OPERATIVO CON COPILOT: Windows 11 Home con Copilot ofrece funciones inteligentes para optimizar la productividad y simplificar tareas complejas, con una interfaz intuitiva y herramientas avanzadas
+- GRÁFICOS OPTIMIZADOS: La GPU Adreno 740 ofrece una experiencia visual mejorada, para tareas multimedia, edición ligera y entretenimiento
+- POTENTE RENDIMIENTO: Equipado con el procesador Snapdragon X Plus, que combina 8 núcleos de alto rendimiento y eficiencia, ofreciendo velocidades de hasta 3,4 GHz para multitareas y aplicaciones exigentes
+- FUNCIONES MODERNAS: Incluye un teclado retroiluminado en español para trabajar cómodamente en ambientes con poca luz, lector de huellas digitales integrado para mayor seguridad y conectividad avanzada con Wi-Fi 7 y Bluetooth
+- PANTALLA FULL HD+ DE 14 PULGADAS: Pantalla de 14" (35,6 cm) con resolución FHD+ (1920 x 1200), formato 16:10, tecnología IPS antirreflejo y brillo de 300 nits, para disfrutar de imágenes nítidas y colores vibrantes
+- MEMORIA Y ALMACENAMIENTO AVANZADOS: 16 GB de RAM LPDDR5X aseguran un rendimiento fluido y rápido, mientras que el SSD PCIe NVMe de 512 GB proporciona amplio espacio y rápidas velocidades de carga para tus datos y aplicaciones
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0DHCYWD4K{{</world>}}
