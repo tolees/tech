@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño ergonómico: ajustes de inclinación
 - Frecuencia de actualización de 240 Hz, tiempo de respuesta de 1 ms
 - Saturación de color: 125 % sRGB
-- Diseño ergonómico: ajustes de inclinación
 - Panel VA 1500R de 27 pulgadas con resolución FHD
 - Compatible con AMD FreeSync Premium, listo para HDR
 

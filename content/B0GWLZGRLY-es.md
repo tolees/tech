@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORICO Conexión de Acoplamiento Magnética USB C Carcasa para SSD M.2 2230 NVMe Docking Station 8 en 1 con HDMI 4K@60Hz PD 100W USB-A 10 Gbps SD/TF Audio. Hub USB C Dockingstation para iPhone MG7'
-date: 2026-10-28 20:38:05
+date: 2026-10-30 10:43:22
 image: 'https://m.media-amazon.com/images/I/41sLBOXl6GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

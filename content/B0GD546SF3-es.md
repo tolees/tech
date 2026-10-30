@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Posture Báscula de Baño Inteligente de Impedancia 8 Electrodos Pantalla a Color 28 Parámetros de Composición Corporal con Masa Muscular y Grasa Corporal Plataforma Amplia App Bluetooth 180 kg'
-date: 2026-09-14 10:03:37
+date: 2026-10-29 12:30:29
 image: 'https://m.media-amazon.com/images/I/41zQF7HbDcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GD546SF3-es Posture Báscula de Baño Inteligente de Impedancia 8...'
 sku: 'B0GD546SF3-es'
 tags: [ 'bluetooth','🇪🇸', ]
-actualPrice: 79.98 EUR
+actualPrice: 75.98 EUR
 currency: EUR
-price: 79.98
+price: 75.98
 comparePrice: 109.99 EUR
 prodname: 'Posture Báscula de Baño Inteligente de Impedancia 8 Electrodos Pantalla a Color 28 Parámetros de Composición Corporal con Masa Muscular y Grasa Corporal Plataforma Amplia App Bluetooth 180 kg'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GD546SF3/?tag=tolees-21'
-descuento: '27.28'
-average: '79.98'
+descuento: '30.92'
+average: '78.6466666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

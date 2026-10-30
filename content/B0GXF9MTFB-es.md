@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Enerfill Cargador USB C 100W Cargador rápido PD Compacto Cargador GAN para MacBook Pro/Air iPad Pro iPhone 17/16/15 Samsung Galaxy S25/S24 portátil Cable USB-C de 1m Incluido'
-date: 2026-10-28 20:41:20
+date: 2026-10-30 21:20:42
 image: 'https://m.media-amazon.com/images/I/31jOpBFkAQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXF9MTFB/?tag=tolees-21'
 descuento: '25.01'
-average: '31.39'
+average: '31.1566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

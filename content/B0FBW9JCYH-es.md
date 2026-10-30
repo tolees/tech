@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMOTON Teclado Bluetooth para iPad/Tablet con soporte para teléfono | Teclado para iPad con retroiluminación Recargable QWERTY Teclas agrandadas inalámbrico portátil ultradelgado'
-date: 2026-10-26 21:58:24
+date: 2026-10-30 16:54:19
 image: 'https://m.media-amazon.com/images/I/51Srh4B-DgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

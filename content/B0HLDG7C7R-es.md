@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalámbricos Deportivos 60H 28 Modos EQ por App HiFi Estéreo | Cascos Inalámbricos Bluetooth 5.4 Driver de 14 2 mm 4 Mics ENC Ganchos Ergonómicos IP7 Auriculares Running para Correr'
-date: 2026-10-25 13:52:37
+date: 2026-10-30 11:03:57
 image: 'https://m.media-amazon.com/images/I/51UpFo6szTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

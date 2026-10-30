@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iClever GK03 - Combo de Teclado y Ratón Inalámbricos: QWERTY Español Conectividad Silenciosa 2.4G Recargable por USB-C Diseño Compacto y Delgado - Ideal para iMac/PC/Portátil Escritura Cómoda'
-date: 2026-10-19 20:33:25
+date: 2026-10-30 07:43:10
 image: 'https://m.media-amazon.com/images/I/41g4P4ySPaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CQCJ3DK6/?tag=tolees-21'
 descuento: '39.55'
-average: '38.3733333333333'
+average: '37.09'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

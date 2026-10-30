@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic RP-HS46E-K Slim Auriculares Tipo Clip con Cable Compactos Plegables Diseño Ultradelgado Clavija 3 5 mm 32 Ohmio Negro'
-date: 2026-10-28 23:15:33
+date: 2026-10-30 13:38:27
 image: 'https://m.media-amazon.com/images/I/31Xcjp7MBVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002GAXWF2/?tag=tolees-21'
 descuento: '39.09'
-average: '9.57714285714285'
+average: '9.66888888888888'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

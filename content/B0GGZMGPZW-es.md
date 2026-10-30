@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Scooter 6 Lite Suspensión Dual Delantera 25km de Alcance neumáticos de 10 Pulgadas Frenos Delanteros de Tambor y Traseros E-ABS Plegable homologado para Carretera Certificado por la DGT'
-date: 2026-10-28 07:26:34
+date: 2026-10-29 12:03:32
 image: 'https://m.media-amazon.com/images/I/31AjwwaS3OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GGZMGPZW/?tag=tolees-21'
 descuento: '23.03'
-average: '254.274'
+average: '254.228333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

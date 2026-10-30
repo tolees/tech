@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La IA más avanzada de Pixel.
 - Cámara profesional para fotos y vídeos de la más alta calidad.
+- La IA más avanzada de Pixel.
 - Se han creado para la IA con el chip Tensor A1, que permite disfrutar de una Cancelación de Ruido Activa el doble de eficaz y de un sonido premium.
 - La mayor actualización de chip de Pixel hasta la fecha para un rendimiento sin precedentes.
 - Los Pixel Buds Pro 2 se han diseñado para ser los auriculares de botón más cómodos. Se han creado para la IA con el objetivo de ofrecer un sonido premium e inmersivo.

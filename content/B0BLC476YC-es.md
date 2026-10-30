@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TGC250 Teléfono Inalámbrico Digital para Personas Mayores con Bloqueo De Llamadas No Deseadas Pantalla Fácil De Leer Altavoz Manos Libres Reloj Despertador Auricular Único Plateado'
-date: 2026-09-16 10:49:54
+date: 2026-10-29 21:44:26
 image: 'https://m.media-amazon.com/images/I/41WbCwdKe-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BLC476YC/?tag=tolees-21'
 descuento: '33.59'
-average: '22.2633333333333'
+average: '22.5609090909091'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

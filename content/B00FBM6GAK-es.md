@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Light weight and easy to install. Perfect fit your PSP GO
 - Al tratarse de un producto importado de Reino Unido, este producto puede no incluir idioma castellano.
 - High quality crystal hard case for PSP GO
+- Light weight and easy to install. Perfect fit your PSP GO
 - Anti-scratch, dustproof and waterproof
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

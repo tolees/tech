@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LISEN 240W Cable USB C Carga Rapida 2M Cable USB C a Tipo C PD3.2 SPR AVS | USB C Cable Carga Rapida Tipo c para MacBook Air iPhone 18 Pro Max/17/iPhone 16 Galaxy S26/S25 Pixel 10 etc 2M Negro'
-date: 2026-10-27 21:17:56
+date: 2026-10-29 14:24:29
 image: 'https://m.media-amazon.com/images/I/41P0STeSc1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F2GKDF8S/?tag=tolees-21'
 descuento: '41.24'
-average: '7.21'
+average: '7.12625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

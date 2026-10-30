@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantenga los controladores completamente cargados y listos para usar
 - Se suministra con 2 dongles micro USB
+- Mantenga los controladores completamente cargados y listos para usar
 - Conecte, almacene y cargue hasta 2 controladores inalámbricos Dual Shock simultáneamente
 - Carga mientras está en espera
 - Acabado negro pulido y mate para combinar con los controladores y el sistema PS4

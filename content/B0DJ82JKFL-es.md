@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Aspiradora inalámbrica G20 25 kPa / 150 AW 60 min de autonomía filtración 99.9% con luz Frontal para detección de Polvo Ideal para Suelos Duros alfombras y Pelo de Mascotas White'
-date: 2026-10-27 15:34:07
+date: 2026-10-29 12:53:48
 image: 'https://m.media-amazon.com/images/I/31SFc4cD3dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DJ82JKFL-es Xiaomi Aspiradora inalámbrica G20 25 kPa / 150 AW 60 min...'
 sku: 'B0DJ82JKFL-es'
 tags: [ 'xiaomi','🇪🇸', ]
-actualPrice: 125.0 EUR
+actualPrice: 169.99 EUR
 currency: EUR
-price: 125.0
+price: 169.99
 comparePrice: 199.99 EUR
 prodname: 'Xiaomi Aspiradora inalámbrica G20 25 kPa / 150 AW 60 min de autonomía filtración 99.9% con luz Frontal para detección de Polvo Ideal para Suelos Duros alfombras y Pelo de Mascotas White'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ82JKFL/?tag=tolees-21'
-descuento: '37.50'
-average: '136.188235294118'
+descuento: '15.00'
+average: '138.066111111111'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

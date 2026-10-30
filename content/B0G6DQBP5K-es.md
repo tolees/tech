@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOSHIBA Microondas Digital con Grill 25L 900W Inverter 10 Niveles Potencia Control Preciso Calentamiento Uniforme Negro Elegante MW3-AG25PFI BK'
-date: 2026-10-27 23:29:13
+date: 2026-10-29 19:37:42
 image: 'https://m.media-amazon.com/images/I/41Wu+Re+kJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G6DQBP5K/?tag=tolees-21'
 descuento: '21.43'
-average: '106.132857142857'
+average: '106.615'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EA SPORTS FC 26 Standard Edition Switch 2 | Cartucho | Videojuegos | Castellano'
-date: 2026-10-27 08:02:53
+date: 2026-10-29 20:07:37
 image: 'https://m.media-amazon.com/images/I/51XslC2B0WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FGKFFCJP/?tag=tolees-21'
 descuento: '33.64'
-average: '27.2508108108108'
+average: '26.8738461538461'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

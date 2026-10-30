@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RØDE Wireless Micro - Kit de micrófono inalámbrico Compacto para cámara Dos micrófonos con Receptor de cámara Receptor para Smartphone y Estuche de Carga para creación de Contenido - USB-C Negro'
-date: 2026-10-27 18:22:48
+date: 2026-10-30 15:18:23
 image: 'https://m.media-amazon.com/images/I/31lxCnyafML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FX1RKLKS/?tag=tolees-21'
 descuento: '41.47'
-average: '109.872857142857'
+average: '107.845'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

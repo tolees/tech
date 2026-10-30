@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DDPAI Mini Pro 4K Dash CAM Coche Cámara 2160P Giración de 360° Tarjeta 64GB Incluida Visión Nocturna 24H Monitor Aparcamiento 5.8G WiFi 6 Grabación en Bucle Control por App Supercondensador'
-date: 2026-10-27 08:02:16
+date: 2026-10-30 17:38:18
 image: 'https://m.media-amazon.com/images/I/41cAFGMy+1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H3Z8M52C/?tag=tolees-21'
 descuento: '38.89'
-average: '62.6866666666665'
+average: '61.5871428571427'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

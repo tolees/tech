@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ULTIMEA Barra de Sonido 7.1 Canales para TV Sistema de Sonido Envolvente para Cine en Casa 4 Altavoces Envolventes Subwoofer de 4" Control por App Ecualizador Ajustable Bluetooth 5.3 Aura A40'
-date: 2026-10-24 23:31:35
+date: 2026-10-30 12:38:49
 image: 'https://m.media-amazon.com/images/I/31zsvMdiVZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DP9PCD3K-es ULTIMEA Barra de Sonido 7.1 Canales para TV Sistema de...'
 sku: 'B0DP9PCD3K-es'
 tags: [ 'bluetooth','🇪🇸', ]
-actualPrice: 117.6 EUR
+actualPrice: 114.66 EUR
 currency: EUR
-price: 117.6
+price: 114.66
 comparePrice: 159.99 EUR
 prodname: 'ULTIMEA Barra de Sonido 7.1 Canales para TV Sistema de Sonido Envolvente para Cine en Casa 4 Altavoces Envolventes Subwoofer de 4" Control por App Ecualizador Ajustable Bluetooth 5.3 Aura A40'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP9PCD3K/?tag=tolees-21'
-descuento: '26.50'
-average: '119.1475'
+descuento: '28.33'
+average: '117.651666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

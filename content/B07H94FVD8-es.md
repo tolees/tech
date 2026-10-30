@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño compacto para una alta calidad de imagen
+- AF de alta velocidad compatible para video
 - Anillo de control
 - Reduce el velo óptico y luces parásitas
 - Revestimiento de flúor para mayor resistencia al polvo y a la humedad
-- Diseño compacto para una alta calidad de imagen
-- AF de alta velocidad compatible para video
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H94FVD8{{</world>}}

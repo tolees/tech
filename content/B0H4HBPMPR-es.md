@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Smartphone 6+256GB Turquesa Cielo batería de 7700mAh | Cámara 50 MP carga 45 W pantalla GOLED FHD+ 6 99" HyperOS 3 + Google Gemini resistencia IP65'
-date: 2026-10-26 09:58:11
+date: 2026-10-29 22:33:35
 image: 'https://m.media-amazon.com/images/I/41BSoM9ZidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4HBPMPR/?tag=tolees-21'
 descuento: '20.01'
-average: '235.905714285715'
+average: '236.405000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

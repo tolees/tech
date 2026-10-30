@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El adaptador de corriente USB‑C de 96 W es rápido y eficiente, y te permite cargar tu equipo en casa, en el trabajo o sobre la marcha. Además, es compatible con muchos dispositivos y cables de carga USB-C. Apple recomienda usarlo con el MacBook Pro de 14 pulgadas (2021) mediante un cable de USB-C a MagSafe 3 o un cable de carga USB-C para aprovechar la carga rápida y pasar de 0 a 50 % en unos 30 minutos.*
 - El cable de carga se vende por separado.
+- El adaptador de corriente USB‑C de 96 W es rápido y eficiente, y te permite cargar tu equipo en casa, en el trabajo o sobre la marcha. Además, es compatible con muchos dispositivos y cables de carga USB-C. Apple recomienda usarlo con el MacBook Pro de 14 pulgadas (2021) mediante un cable de USB-C a MagSafe 3 o un cable de carga USB-C para aprovechar la carga rápida y pasar de 0 a 50 % en unos 30 minutos.*
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D22R4PP1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMF Headphone Pro - Auriculares Bluetooth de Diadema Over-Ear – hasta 100h de Batería Hi-Res con LDAC Audio Espacial con Cancelación Activa de Ruido – Gris Claro'
-date: 2026-10-28 08:07:12
+date: 2026-10-29 14:31:41
 image: 'https://m.media-amazon.com/images/I/31JIyfwXuXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FLKC5JN4/?tag=tolees-21'
 descuento: '49.51'
-average: '57.49'
+average: '57.2122222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta Para hombre
 - Cuello redondo y serigrafía en parte delantera
+- Camiseta Para hombre
+- Corte normal
 - Clásico
 - Cómodo
-- Corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0825MYRG3{{</world>}}

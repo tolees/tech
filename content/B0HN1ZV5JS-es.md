@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalambricos Bluetooth 5.4 HiFi Estéreo 48H Cascos Bluetooth | Auriculares inalámbricos 4 ENC Cancelacion Ruido HD Mic Pantalla LED/IP7 Impermeable/Carga Rápida Tipo-C/para iOS/Android'
-date: 2026-10-25 17:44:05
+date: 2026-10-30 21:17:38
 image: 'https://m.media-amazon.com/images/I/410CI4JtwGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

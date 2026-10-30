@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Unisex adulto Varia ut800 Smart Faro Delantero con Soporte para Casco Negro Talla única'
-date: 2026-10-21 19:37:43
+date: 2026-10-30 13:52:24
 image: 'https://m.media-amazon.com/images/I/41ZDV-GapnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5NH3ZH/?tag=tolees-21'
 descuento: '20.00'
-average: '136.74'
+average: '136.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

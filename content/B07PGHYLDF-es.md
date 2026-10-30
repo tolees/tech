@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Circuito de carreras lleno de acción Nintendo Mario Kart 8- Mach 8 con dos slot cars
 - Con elementos decorativos Mario Kart
-- 5 3 metros
+- Circuito de carreras lleno de acción Nintendo Mario Kart 8- Mach 8 con dos slot cars
 - Carrera GO!!!
 - A partir de 6 años
+- 5 3 metros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PGHYLDF{{</world>}}

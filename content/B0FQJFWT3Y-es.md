@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AK50 - Amplificador Hi-Fi con Bluetooth RMS 60WX2 - Amplificador de audio | Receptor 2.0 Canal Max 400W Mini Amplificador Amplificador de Altavoces con Radio FM Eco Micrófono USB'
-date: 2026-10-28 20:45:52
+date: 2026-10-29 21:04:32
 image: 'https://m.media-amazon.com/images/I/41R9+bFaBeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

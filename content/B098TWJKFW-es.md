@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Personalización de personajes: cread vuestro propio estilo de lucha con nuevos movimientos.
 - ¡Nuevas armas y enemigos!
 - Un nuevo modo Supervivencia con desafíos semanales.
-- 3 nuevos personajes jugables.
-- Personalización de personajes: cread vuestro propio estilo de lucha con nuevos movimientos.
 - Incluye el juego junto el nuevo DLC Mr X. Nightmare.
+- 3 nuevos personajes jugables.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098TWJKFW{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Original
-- Transparente
 - 191 ml
+- Transparente
 - 2442B001
+- Original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0014ZHZOY{{</world>}}

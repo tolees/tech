@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic HF630B Street Auriculares Inalámbricos Supraurales Micrófono Integrado Bluetooth 5.3 Multipunto Diseño Giratorio hasta 72 Horas De Reproducción USB-C Azul'
-date: 2026-10-28 00:00:46
+date: 2026-10-30 11:35:40
 image: 'https://m.media-amazon.com/images/I/312zkaO5Z3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBXT7FR6/?tag=tolees-21'
 descuento: '61.33'
-average: '27.9175'
+average: '26.345'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

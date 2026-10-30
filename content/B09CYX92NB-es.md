@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Auriculares Tune 770 NC auriculares circumaurales inalámbricos con cancelación de ruido adaptativa Bluetooth y 70 horas de batería negro'
-date: 2026-10-28 09:46:31
+date: 2026-10-29 12:53:23
 image: 'https://m.media-amazon.com/images/I/31aYij6VKJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09CYX92NB/?tag=tolees-21'
 descuento: '45.83'
-average: '77.5231818181819'
+average: '76.93125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

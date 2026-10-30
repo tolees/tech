@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zacro Cámara Bebé Coche Asiento Trasero HD 1080P Espejo Retrovisor Camara Bebe Pantalla 4.3 USB-C Plug and Play Monitores de Bebé para Coche con Visión Nocturna Ángulo de Visión Amplio'
-date: 2026-10-25 22:45:58
+date: 2026-10-29 14:20:37
 image: 'https://m.media-amazon.com/images/I/41YcqfFX3lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

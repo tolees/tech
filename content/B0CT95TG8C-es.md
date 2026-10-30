@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Referencia: S77175440
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Color: Multicolor
-- Teclado y Ratón de la marca Nilox
+- Referencia: S77175440
 - Medidas: 50,3 x 20,22 x 10,46 centímetros
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Teclado y Ratón de la marca Nilox
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT95TG8C{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda Amazon Kindle Paperwhite y Amazon Kindle Colorsoft | Funda protectora ligera y plegable | Material vegetal'
-date: 2026-10-27 01:20:36
+date: 2026-10-30 01:51:11
 image: 'https://m.media-amazon.com/images/I/31tksHxuWnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CM79Z8TG/?tag=tolees-21'
 descuento: '20.84'
-average: '38.4605882352941'
+average: '38.4344444444444'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
