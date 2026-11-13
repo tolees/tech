@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-S40R - Barra de Sonido 5.1 Sistema de Cine en Casa Altavoces Traseros Inalámbricos 600 W Dolby Digital Bluetooth Sonido Envolvente Negro'
-date: 2026-11-04 19:12:54
+date: 2026-11-13 17:12:20
 image: 'https://m.media-amazon.com/images/I/317P1tmau8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Z4H7L2L/?tag=tolees-21'
 descuento: '24.02'
-average: '271.47611428571418'
+average: '270.58937853107335'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con iPhone 4S y superiores, y con los dispositivos que incorporen Android 4.3 o posterior
-- Mejora la técnica de pedaleo encontrando la cadencia óptima y conoce la velocidad y distancia de manera precisa
-- El pack contiene un sensor de velocidad y un sensor de cadencia Bluetooth Smart
 - Diseño ligero y aerodinámico
+- Compatible con iPhone 4S y superiores, y con los dispositivos que incorporen Android 4.3 o posterior
+- El pack contiene un sensor de velocidad y un sensor de cadencia Bluetooth Smart
+- Mejora la técnica de pedaleo encontrando la cadencia óptima y conoce la velocidad y distancia de manera precisa
 - Compatible con docenas de las principales apps de fitness
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE330 - Repetidor WiFi 5 AC1200 de Doble Banda Puerto Ethernet | Amplificador de Señal WiFi. Compatible con EasyMesh. Modo Punto de Acceso. Botón WPS para Configuración Fácil. App Tether.'
-date: 2026-11-11 22:20:33
+date: 2026-11-13 09:50:07
 image: 'https://m.media-amazon.com/images/I/41W-oaFLyPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08X19VZN8/?tag=tolees-21'
 descuento: '22.86'
-average: '31.536785714285699'
+average: '31.509881656804719'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Referencia: S7830365
-- Color: Multicolor
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- PC de Sobremesa de la marca PcCom
 - Medidas: 46,97 x 34,66 x 29,94 centímetros
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S7830365
+- PC de Sobremesa de la marca PcCom
+- Color: Multicolor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVB937JQ{{</world>}}

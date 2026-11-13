@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto original
 - Producto de marca reconocida
-- Tipo de deporte: cyclisme
 - GARMIN 0101125140 ACCESORIO
+- Producto original
+- Tipo de deporte: cyclisme
 - SOPORTE BICI.GARMIN EDGE FRONTAL PLANO
 
 [🛒 Visítala!!!]({{< param buyurl >}})

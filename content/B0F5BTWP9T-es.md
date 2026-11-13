@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOC U27G4R Gaming Monitor 27 Pulgadas Dual Mode Panel Fast IPS 1ms GtG HDR400 Adaptive Sync G-Sync Comp. Altura Ajustable 3840x2160@160Hz; 1920x1080@320Hz HDMI 2X 2.1 DP 1x 1.4 USB Hub Negro'
-date: 2026-11-12 10:27:09
+date: 2026-11-13 16:03:05
 image: 'https://m.media-amazon.com/images/I/41I4smVHnfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

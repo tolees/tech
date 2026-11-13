@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB para Gaming'
-date: 2026-10-03 06:10:23
-image: 'https://m.media-amazon.com/images/I/31lOhtJJRxL._SL500_._SL400_.jpg'
+title: 'Logitech G G502 X PLUS Ratón inalámbrico gaming - Negro | Sensor de 44K 13 controles LIGHTSPEED RGB 130 h de batería USB-C ratón inalámbrico para PC Mac sobremesa portátil'
+date: 2026-11-13 15:03:53
+image: 'https://m.media-amazon.com/images/I/31Vl5r7CwCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W7MJ46M-es Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB...'
+slug: 'B07W7MJ46M-es Logitech G G502 X PLUS Ratón inalámbrico gaming - Negro |...'
 sku: 'B07W7MJ46M-es'
 tags: [ 'logitech','ratón','🇪🇸', ]
-actualPrice: 116.0 EUR
+actualPrice: 98.36 EUR
 currency: EUR
-price: 116.0
+price: 98.36
 comparePrice: 149.99 EUR
-prodname: 'Logitech G G502 X Plus Lightspeed Ratón inalámbrico RGB para Gaming'
+prodname: 'Logitech G G502 X PLUS Ratón inalámbrico gaming - Negro | Sensor de 44K 13 controles LIGHTSPEED RGB 130 h de batería USB-C ratón inalámbrico para PC Mac sobremesa portátil'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7MJ46M/?tag=tolees-21'
-descuento: '22.66'
-average: '96.5517543859649'
+descuento: '34.42'
+average: '96.613050847457615'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

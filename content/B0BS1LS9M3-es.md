@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cantidad del paquete: 1 unidad
 - Tipo de producto: teléfono celular
 - Capacidad de punto de acceso móvil
+- Cantidad del paquete: 1 unidad
 - Soporte de carga rápida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

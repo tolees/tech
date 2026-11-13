@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C200 - Cámara de Vigilancia WiFi Interior 360º 1080p Detección IA | Detección Movimiento Personas y Llanto de Bebé. Visión Nocturna. Alarma Luz y Sonido. Almacenamiento Local o Nube. App Tapo.'
-date: 2026-11-11 12:20:45
+date: 2026-11-13 05:50:45
 image: 'https://m.media-amazon.com/images/I/41gbFs1XcBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLML2YS/?tag=tolees-21'
 descuento: '50.01'
-average: '27.063968253969243'
+average: '27.047963800905965'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

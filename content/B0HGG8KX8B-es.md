@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POCO C95 Pro smartphone de 8+256 GB verde 7500 mAh y carga de 45 W | Pantalla inmersiva de 6 9" a 120 Hz potente Helio G91-Ultra HyperOS 3'
-date: 2026-11-10 07:39:48
+date: 2026-11-13 08:04:15
 image: 'https://m.media-amazon.com/images/I/41uoklZjrbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

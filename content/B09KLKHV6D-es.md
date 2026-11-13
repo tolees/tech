@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zoom 24-120 mm
-- Diafragma fijo F/4
-- Revestimiento de arneo
 - Calidad S-LINE
+- Zoom 24-120 mm
+- Revestimiento de arneo
+- Diafragma fijo F/4
 - Sistema de enfoque multiple
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

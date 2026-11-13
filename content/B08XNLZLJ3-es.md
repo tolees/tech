@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- AC750 WIFI
 - AV1000
 - Puerto Gigabit 10/100/1000mbps
-- AC750 WIFI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XNLZLJ3{{</world>}}

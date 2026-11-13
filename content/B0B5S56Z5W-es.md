@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Se incluye: sensor de movimiento, batería de larga duración de iones de litio, material de fijación e instrucciones de instalación
 - Sensor de movimiento Bosch Smart Home: detecta movimientos de inmediato
+- Los animales pequeños no activarán el sensor de movimiento gracias a la función de detección de animales pequeños de hasta 25 kg
 - Mayor detección de movimiento gracias a la tecnología pasiva de infrarrojos y el sensor de temperatura
 - Activa la alarma sonora y visible como parte del sistema de alarma, también a través de la aplicación
-- Los animales pequeños no activarán el sensor de movimiento gracias a la función de detección de animales pequeños de hasta 25 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5S56Z5W{{</world>}}

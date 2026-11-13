@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G432 Auriculares Gaming con Cable Sonido 7.1 y Micrófono | Surround 50 mm USB auriculares 3.5 mm micrófono volteable ligero PC/Mac/PS4/Xbox One/Switch azul/negro'
-date: 2026-11-11 18:07:43
+date: 2026-11-13 11:23:36
 image: 'https://m.media-amazon.com/images/I/41Qp31NKnpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTXLFXV/?tag=tolees-21'
 descuento: '65.34'
-average: '47.141619047619052'
+average: '47.040977917981081'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

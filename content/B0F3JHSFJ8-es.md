@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funcionamiento silencioso
 - 16 puertos Ethernet Gigabit
+- Admite montaje de sobremesa o en pared
 - Diseño energéticamente eficiente conforme a IEEE802.3az
 - Configuración sencilla plug and play sin necesidad de instalar software ni ajustes adicionales
-- Admite montaje de sobremesa o en pared
+- Funcionamiento silencioso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3JHSFJ8{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compacto y ligero: sólo 8.5 cm de largo y 350 g de peso
-- Grabaciones de alta calidad: baja distorsión y alta resolución hasta el borde
 - Construcción robusta: resistente al polvo; salpicaduras de agua y al frío
+- Grabaciones de alta calidad: baja distorsión y alta resolución hasta el borde
+- Compacto y ligero: sólo 8.5 cm de largo y 350 g de peso
 - Versátil: toma fotos atractivas desde ultra gran angular hasta distancia focal normal
 - Enfoque automático rápido y preciso: solo 0.1 s af a cipa
 

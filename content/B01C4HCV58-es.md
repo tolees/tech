@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK235 Combo con Teclado Ratón Inalámbrico QWERTY ESP | Windows receptor USB Inalámbrico de 2 4 GHz 15 teclas FN Batería de Larga Duración PC Portátil'
-date: 2026-11-12 11:00:27
+date: 2026-11-13 12:04:10
 image: 'https://m.media-amazon.com/images/I/41wVqoVYPvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C4HCV58/?tag=tolees-21'
 descuento: '40.01'
-average: '22.638399999999972'
+average: '22.547254901960759'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

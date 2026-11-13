@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin sistema operativo
-- Gráficos Integrados Intel UHD
 - Procesador Intel Core i3-N305 (hasta 3,8 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 8 núcleos, 8 subprocesos)
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
+- Gráficos Integrados Intel UHD
 - 8 GB (1 x 8 GB) Memoria RAM DDR4-3200 MHz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

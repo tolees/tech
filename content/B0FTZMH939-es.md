@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interfaz moderna y compatibilidad completa con mandos
 - Correcciones surgidas de la comunidad y mayor estabilidad
 - Incluye todas las expansiones y actualizaciones en una edición definitiva
 - Combate más fluido y ágil
 - Mejores texturas, efectos de iluminación y campo de visión
+- Interfaz moderna y compatibilidad completa con mandos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTZMH939{{</world>}}

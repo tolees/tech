@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Suunto Run Reloj GPS Running Pantalla Táctil AMOLED 1 32 Ligero Multideporte Monitor Actividad GPS Preciso Seguimiento Cardíaco/Sueño 12 Días Autonomía 4GB Almacenamiento Música'
-date: 2026-03-27 17:43:46
-image: 'https://m.media-amazon.com/images/I/41j2KU4Ky-L._SL500_._SL400_.jpg'
+title: 'SUUNTO Run Reloj GPS para correr ligero con 4 GB de música sin conexión | GNSS doble 12 días de duración de la batería más de 34 modos deportivos seguimiento diario de la actividad y la recuperación'
+date: 2026-11-13 14:01:01
+image: 'https://m.media-amazon.com/images/I/410akwApLAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FDQB23PP-es Suunto Run Reloj GPS Running Pantalla Táctil AMOLED 1 32...'
+slug: 'B0FDQB23PP-es SUUNTO Run Reloj GPS para correr ligero con 4 GB de música...'
 sku: 'B0FDQB23PP-es'
 tags: [ 'gps','suunto','🇪🇸', ]
-actualPrice: 211.0 EUR
+actualPrice: 149.0 EUR
 currency: EUR
-price: 211.0
-comparePrice: 249.0 EUR
-prodname: 'Suunto Run Reloj GPS Running Pantalla Táctil AMOLED 1 32 Ligero Multideporte Monitor Actividad GPS Preciso Seguimiento Cardíaco/Sueño 12 Días Autonomía 4GB Almacenamiento Música'
+price: 149.0
+comparePrice: 199.0 EUR
+prodname: 'SUUNTO Run Reloj GPS para correr ligero con 4 GB de música sin conexión | GNSS doble 12 días de duración de la batería más de 34 modos deportivos seguimiento diario de la actividad y la recuperación'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQB23PP/?tag=tolees-21'
-descuento: '15.26'
-average: '211.0'
+descuento: '25.13'
+average: '180.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ENTRENA CON MÁS INTELIGENCIA - SUUNTO Run monitorea tu carga de entrenamiento, frecuencia cardíaca post-ejercicio y mide tu Puntuación de Estrés de Entrenamiento (TSS) para ofrecer insights clave y elevar tu rendimiento. La navegación precisa permite seguir rutas sin estrés desde tu muñeca. Analiza tu desempeño en la APP SUUNTO
-- AUTONOMÍA SUPERIOR - SUUNTO Run ofrece hasta 12 días de autonomía monitoreando actividad diaria y sueño, y hasta 20 horas de entrenamiento con GPS de alta precisión. La carga rápida permite recargarlo por completo en una hora. Un reloj listo para acompañarte día tras día, ideal para entrenamientos diarios
-- LOCALIZACIÓN PRECISA - Tecnología GPS de doble frecuencia para ubicación precisa en tiempo real en actividades al aire libre; con funciones como "Hilo de Ariadna" y navegación, podrás ver rutas y puntos clave para concentrarte en entrenar sin perderte. SUUNTO Run registra tu recorrido con precisión en ciudad, campo o exteriores
-- MEJORA TUS CARRERAS - SUUNTO Run combina funciones específicas para running y todo lo necesario para ver tu progreso en cualquier distancia. Explora modos deportivos: senderismo, ciclismo, yoga, tenis, boxeo, etc. Registra cualquier deporte y ofrece datos profesionales para analizar entrenamientos y lograr máximo rendimiento
-- LIGERA Y CÓMODA - SUUNTO Run, un reloj deportivo ligero diseñado para corredores, cuenta con una pantalla táctil AMOLED de 1.32" y una corona que garantizan excelente legibilidad y visualización rápida. La función de personalización permite ajustar diferentes widgets en la esfera. Su peso reducido aporta comodidad al correr, entrenar y en el día a día. Peso: 36g (con correa de textil velcro), grosor: 11.5 mm, diámetro: 46 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDQB23PP{{</world>}}

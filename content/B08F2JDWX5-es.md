@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para navidad y otras ocasiones
-- Requiere instalación
 - Luz de cadena
+- Requiere instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08F2JDWX5{{</world>}}

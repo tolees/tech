@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Zolo Power Bank 25.000mAh 165W con Tres Puertos USB C | apto para avión cables integrados y retráctiles para iPhone 18 pro max/17/16/15 y MacBook'
-date: 2026-11-11 16:00:58
+date: 2026-11-13 13:04:22
 image: 'https://m.media-amazon.com/images/I/31FDhRgId1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DCBB2YTR/?tag=tolees-21'
 descuento: '25.00'
-average: '76.419999999999931'
+average: '76.289999999999935'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

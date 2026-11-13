@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK295 Silent QWERTY Español - Negro | Combo teclado y ratón inalámbricos SilentTouch seguimiento óptico 90% menos ruido'
-date: 2026-11-12 08:56:30
+date: 2026-11-13 12:14:33
 image: 'https://m.media-amazon.com/images/I/315dmBt5JfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7KGYN1/?tag=tolees-21'
 descuento: '33.12'
-average: '28.537592592592599'
+average: '28.444181818181825'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

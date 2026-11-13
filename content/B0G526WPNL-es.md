@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - <br>Interfaz del dispositivo: USB
-- <br>Longitud del cable: 0,8 m. <br>Fuente de alimentación: cable
-- <br>
 - <br>Recomendado para su uso con: comdora portátil
+- <br>
+- <br>Longitud del cable: 0,8 m. <br>Fuente de alimentación: cable
 - . <br>Tecnología de sensor de movimiento: optical
 - La siguiente información se aplica a cada unidad del paquete
 

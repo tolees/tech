@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore P20i by Anker Auriculares inalámbricos Bluetooth Big Bass | Diafragmas de 10 mm Bluetooth 5.3 30 h IPX5 2 micros con IA y EQ personalizado'
-date: 2026-11-10 00:36:34
+date: 2026-11-13 17:51:11
 image: 'https://m.media-amazon.com/images/I/31i+RFyCGSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BTYCRJSS/?tag=tolees-21'
 descuento: '21.75'
-average: '19.278606557377017'
+average: '19.257822580645129'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

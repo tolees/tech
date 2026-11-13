@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEWSKILL Pyros Pro Teclado Gaming 75% RGB Inalámbrico Hotswap Blanco | Triple conexión inalámbrica Bluetooth y cable. Switches Outemu Red intercambiables en caliente y RGB por tecla.'
-date: 2026-11-08 08:07:06
+date: 2026-11-13 08:16:49
 image: 'https://m.media-amazon.com/images/I/31OPYBQqgJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DMVY4FKF/?tag=tolees-21'
 descuento: '38.16'
-average: '65.069411764705905'
+average: '64.530526315789501'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

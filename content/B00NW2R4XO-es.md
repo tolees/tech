@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
-- DECT con pantalla : LCD 1.6"
-- Modo ECO con un toque: ahorra de la batería y del consumo de luz
-- Fácil uso- Conéctalo a la corriente y listo
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
-- Agenda de 50 nombres y números y rellamada de 10 números de memoria
 - Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos, su aspecto elegante queda bien con los interiores
 - Batería de 16h uso continuo y en espera de 200h
+- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- DECT con pantalla : LCD 1.6"
+- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
+- Fácil uso- Conéctalo a la corriente y listo
+- Agenda de 50 nombres y números y rellamada de 10 números de memoria
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NW2R4XO{{</world>}}

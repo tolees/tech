@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI FreeBuds SE 5 MAX Blanco Auriculares Cancelación Ruido 80h Batería | IP55 In-ear Auriculares Inalámbricos Bluetooth 52dB ANC Hi-Res Cross-OS y Dual Conexión Llamada Clara Carga Rápida'
-date: 2026-11-11 23:29:51
+date: 2026-11-13 16:54:55
 image: 'https://m.media-amazon.com/images/I/21VFQfnJlTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla Full HD de 15.6" (39,6 cm) en diagonal; bisel micro-edge; antirreflectante; 220 nits; 45 % NTSC (1920 x 1080)
-- Memoria RAM DDR4-2666 MHz de 8 GB
-- Almacenamiento de 512 GB SSD
 - Procesador Intel Core i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel Turbo Boost, 6 MB de caché L3, 4 núcleos)
+- Almacenamiento de 512 GB SSD
+- Memoria RAM DDR4-2666 MHz de 8 GB
 - Tarjeta gráfica integrada Intel UHD
+- Pantalla Full HD de 15.6" (39,6 cm) en diagonal; bisel micro-edge; antirreflectante; 220 nits; 45 % NTSC (1920 x 1080)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B088V9VYFM{{</world>}}

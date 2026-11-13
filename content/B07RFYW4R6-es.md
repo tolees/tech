@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sellado contra polvo y humedad
 - Bokeh excelente para retratos
-- Dos lsm (motores ultrasónicos lineales) que garantiza un rendimiento de af (enfoque automático) muy rápido y silencioso
 - Peso 480 gr
+- Sellado contra polvo y humedad
+- Dos lsm (motores ultrasónicos lineales) que garantiza un rendimiento de af (enfoque automático) muy rápido y silencioso
 - Objetivo para retratos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

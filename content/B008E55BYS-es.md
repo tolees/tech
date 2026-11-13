@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TAMAÑO COMPACTO: Para su uso transportable sin ocupar espacio
-- SENSOR ÓPTICO: alta definición (PPP: 800/1200/1600) para un control efectivo
-- DURACIÓN: prolongada de las pilas de hasta 12 meses
 - TECNOLOGÍA INALÁMBRICA: evita el desorden de los cables y nanorreceptor almacenable en el propio ratón
-- TAMAÑO DE RECEPTOR: USB NANO
-- TECNOLOGÍA: 2,4 GHz de largo alcance y con mínimas interferencias
-- CONTENIDO: 1 ratón inalámbrico color gris, 2 pilas AAA
 - COMPATIBILIDAD: Chrome OS 44 o posterior, macOS 10.9, macOS 10.10 o posterior, macOS X 10.11, Vista, XP, Windows 7, Windows 8, Windows 10, Windows 11
-- RUEDA DE DESPLAZAMIENTO: con botón central y selección rápida de la velocidad del puntero
+- TAMAÑO COMPACTO: Para su uso transportable sin ocupar espacio
+- DURACIÓN: prolongada de las pilas de hasta 12 meses
+- TECNOLOGÍA: 2,4 GHz de largo alcance y con mínimas interferencias
 - DISEÑO ERGONÓMICO: para la mano derecha, que se adapta adecuadamente
+- CONTENIDO: 1 ratón inalámbrico color gris, 2 pilas AAA
+- RUEDA DE DESPLAZAMIENTO: con botón central y selección rápida de la velocidad del puntero
+- SENSOR ÓPTICO: alta definición (PPP: 800/1200/1600) para un control efectivo
+- TAMAÑO DE RECEPTOR: USB NANO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008E55BYS{{</world>}}

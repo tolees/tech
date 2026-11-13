@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 50,3 x 20,22 x 10,46 centímetros
 - Referencia: S77175440
+- Medidas: 50,3 x 20,22 x 10,46 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Teclado y Ratón de la marca Nilox
 - Color: Multicolor

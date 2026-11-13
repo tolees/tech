@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jada Star Wars AT-AT Walker Teledirigido 33 cm Robot Imperial con Luz y Sonido Movimiento Realista Cabeza Móvil Juguete +6 Años 9336944314R00'
-date: 2026-11-12 07:56:22
+date: 2026-11-13 10:07:14
 image: 'https://m.media-amazon.com/images/I/41HyJFq66SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

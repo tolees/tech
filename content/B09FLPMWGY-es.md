@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Control táctil para activar las funciones de llamada y reproducir/pausar.
-- La carcasa de carga permite cargar los auriculares varias veces
-- Licencia oficial Nintendo
 - Batería recargable. Tiempo de reproducción de 6 horas. Tiempo de reposo: 4 días.
+- Licencia oficial Nintendo
+- La carcasa de carga permite cargar los auriculares varias veces
 - Tecnología TWS (True Wireless Stereo) permite emparejar dos dispositivos de audio entre sí a través de Bluetooth.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

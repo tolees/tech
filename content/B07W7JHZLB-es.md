@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Certificación ergonómica
-- Escribe cómodamente todo el día
 - Feel the Wave: Gana en comodidad con Wave Keys
 - Más soporte para las palmas, menos presión
+- Escribe cómodamente todo el día
 - Días más fluidos, a tu manera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

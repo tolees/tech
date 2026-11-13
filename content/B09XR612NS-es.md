@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sensor CMOS de fotograma completo
 - 24,2 megapíxeles
-- 60p/50p 4:2:0 de 10 bits y 30p/25p 4:2:2 de 10 bits
 - Función AF rápida y precisa
+- 60p/50p 4:2:0 de 10 bits y 30p/25p 4:2:2 de 10 bits
 - Vídeo 4K de 10 bits
 
 [🛒 Visítala!!!]({{< param buyurl >}})

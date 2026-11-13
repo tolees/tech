@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI REDMI Pad 2 Tablet de 9 7” 4+64 GB gris grafito batería de 7600 mAh | pantalla 2K 120 Hz Snapdragon 6s Gen 2 Xiaomi HyperOS 3 1 año de garantía adicional'
-date: 2026-11-12 08:49:25
+date: 2026-11-13 18:06:45
 image: 'https://m.media-amazon.com/images/I/41NC8kJJIOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GT9BW7DK/?tag=tolees-21'
 descuento: '26.91'
-average: '141.1913333333334'
+average: '139.63062500000007'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

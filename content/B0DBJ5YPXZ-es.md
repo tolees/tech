@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Astro A50 LIGHTSPEED auriculares inalámbricos de gaming + base | Audífonos inalámbricos gamer con micrófono base 5 Gen PRO-G graphene USB-C Xbox/PS5/PC/Nintendo Switch/Switch 2 blanco'
-date: 2026-11-12 14:32:55
+date: 2026-11-13 19:34:28
 image: 'https://m.media-amazon.com/images/I/41zg6VUrRPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DBJ5YPXZ-es Logitech G Astro A50 LIGHTSPEED auriculares inalámbricos...'
 sku: 'B0DBJ5YPXZ-es'
 tags: [ '2','auriculares','logitech','nintendo','switch','🇪🇸', ]
-actualPrice: 170.82 EUR
+actualPrice: 169.56 EUR
 currency: EUR
-price: 170.82
+price: 169.56
 comparePrice: 299.99 EUR
 prodname: 'Logitech G Astro A50 LIGHTSPEED auriculares inalámbricos de gaming + base | Audífonos inalámbricos gamer con micrófono base 5 Gen PRO-G graphene USB-C Xbox/PS5/PC/Nintendo Switch/Switch 2 blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBJ5YPXZ/?tag=tolees-21'
-descuento: '43.06'
-average: '211.12999999999931'
+descuento: '43.48'
+average: '208.53187499999936'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

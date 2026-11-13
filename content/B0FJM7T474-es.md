@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla inmersiva de 6,9”
 - Cámara dual con IA de 50 MP
 - Diseño elegante y refinado
-- Potente procesador octacore
 - Gran batería de 6000mAh (typ). Carga rápida de 33 W
+- Pantalla inmersiva de 6,9”
+- Potente procesador octacore
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJM7T474{{</world>}}
