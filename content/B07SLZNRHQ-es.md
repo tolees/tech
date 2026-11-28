@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amarillo pajizo brillante con un perlaje fino y persistente
 - Nariz compleja, intensa, floral y afrutada
 - Acabado de larga duración
+- Amarillo pajizo brillante con un perlaje fino y persistente
 - Adecuado como un regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

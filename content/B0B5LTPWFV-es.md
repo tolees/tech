@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Music Sound Headband Bluetooth Basic Audífonos Auriculares Stereo Supraaurales Bluetooth Expandibles con Control Remoto - Batería 14 Horas - Standby 120 Horas - Recarga 2 Horas - Azul'
-date: 2026-11-26 13:38:22
+date: 2026-11-27 15:05:49
 image: 'https://m.media-amazon.com/images/I/41ZW62PvR6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B5LTPWFV/?tag=tolees-21'
 descuento: '37.36'
-average: '14.262727272727309'
+average: '13.513076923076953'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

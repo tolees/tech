@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Imagen y sonido que nunca imaginaste. Deja que tu contenido favorito cobre vida en una pantalla FHD+ supernítida y brillante de 6,72” combinada con unos altavoces estéreo potentes con refuerzo de graves.
 - TurboPower 33W Charger
+- Imagen y sonido que nunca imaginaste. Deja que tu contenido favorito cobre vida en una pantalla FHD+ supernítida y brillante de 6,72” combinada con unos altavoces estéreo potentes con refuerzo de graves.
 - Sistema de cámaras de 50 MP y objetivo ultra gran angular. Captura fotos impresionantes con todo lujo de detalle, de día o de noche, y abarca más en el encuadre con el objetivo ultra gran angular.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

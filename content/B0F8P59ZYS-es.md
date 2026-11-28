@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de la caja: 1 botella de 300 ml de concentrado limpiador StayClean
 - Recordatorio: El uso de soluciones de limpieza no aprobadas puede provocar corrosión y fallos en los robots con función de fregado
+- Contenido de la caja: 1 botella de 300 ml de concentrado limpiador StayClean
 - El limpiador StayClean es una solución especialmente formulada para los robots Roomba Plus 405 y Roomba Plus 505; Es segura para la mayoría de suelos, incluidos los de madera sellada, y deja un agradable y duradero aroma a frescor mientras friega
 
 [🛒 Comprar!!!]({{< param buyurl >}})

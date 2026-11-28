@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI mag A750GLS PCIe 5 – Fuente de Alimentación 750W 80 Plus Gold Compatible con NVIDIA RTX Series Conector 12VHPWR Full Modular Ventilador Silencioso – PSU Gaming'
-date: 2026-11-20 01:19:31
+date: 2026-11-28 06:17:21
 image: 'https://m.media-amazon.com/images/I/41Fhoz7YpnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BV2D4FN1/?tag=tolees-21'
 descuento: '43.35'
-average: '87.782500000000013'
+average: '86.868461538461546'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

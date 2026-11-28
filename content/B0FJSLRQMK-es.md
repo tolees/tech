@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PIXMA TR4755i Impresora Multifunción Wi-Fi | Inyección de Tinta | Impresora multifunción con WiFi impresión copia escaneado y fax; dúplex automático A4 ADF de 20 hojas fotos sin bordes'
-date: 2026-11-21 10:34:10
+date: 2026-11-28 10:53:21
 image: 'https://m.media-amazon.com/images/I/41S6SuXIKiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

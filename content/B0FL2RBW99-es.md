@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Basilisk V3 - Ratón para Juegos Personalizable con Cable - diseño ergonómico - Sensor 26K dpi - Chroma RGB - 11 Botones programables - Rueda de ratón HyperScroll inclinable - PC/Mac | Blanco'
-date: 2026-11-18 21:26:32
+date: 2026-11-27 21:36:39
 image: 'https://m.media-amazon.com/images/I/3113ZfT5ABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

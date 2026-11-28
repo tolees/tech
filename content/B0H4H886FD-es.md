@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 5G Smartphone 6+128GB Morado Celestial batería de 7700mAh | Snapdragon® 4 Gen 4 carga turbo 45 W AMOLED FHD+ 6 99" con protección ocular HyperOS IP65 cámara 50 MP'
-date: 2026-11-22 15:17:13
+date: 2026-11-27 18:56:25
 image: 'https://m.media-amazon.com/images/I/41vI8VdJD2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

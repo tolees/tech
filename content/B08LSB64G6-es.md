@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WINKLE Filamento PLA HD Rojo Diablo 1.75mm 1kg Filamento Impresora 3D | Compatible con Todas las Impresoras 3D Precisión Dimensional +/- 0.03mm Fabricado en España'
-date: 2026-11-19 18:52:41
+date: 2026-11-28 04:50:49
 image: 'https://m.media-amazon.com/images/I/41pAy5XJQ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

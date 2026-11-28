@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Kids Tablet 11 última generación : pantalla 2.5K de 11" batería para todo el día incluye 1 año de Kids+ con vídeos apps juegos y audiolibros y una funda rígida fina turquesa'
-date: 2026-11-24 10:31:08
+date: 2026-11-28 12:53:30
 image: 'https://m.media-amazon.com/images/I/31C2WWriKQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F5FHWWYQ/?tag=tolees-21'
 descuento: '39.70'
-average: '242.66333333333336'
+average: '231.7475'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PETKIT Comedero Gato Automatico 2.4G WiFi 3L Dispensador Comida Gatos/Perros Control de App 1-10 Comidas al Día Liofilizados Compatibles Cubeta de Acero Inoxidable Cable USB Blanco Leche'
-date: 2026-11-20 01:46:18
+date: 2026-11-28 08:19:03
 image: 'https://m.media-amazon.com/images/I/31ocyarecxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CD7NRW37/?tag=tolees-21'
 descuento: '21.37'
-average: '56.684285714285707'
+average: '57.776399999999995'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

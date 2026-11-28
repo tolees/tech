@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOC Q27G42XE Gaming Monitor 27 Pulgadas 180Hz Panel Fast IPS 1ms GtG HDR10 G-Sync Compatible Altavoces 2560x1440 HDMI 2X 2.0 DP 1x 1.4 Negro'
-date: 2026-11-25 18:03:28
+date: 2026-11-27 14:17:58
 image: 'https://m.media-amazon.com/images/I/41fP2VS8TWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT4R1N9N/?tag=tolees-21'
 descuento: '33.52'
-average: '132.945625'
+average: '132.12529411764706'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

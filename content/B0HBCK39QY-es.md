@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AEG ErgoMini Aspiradora de mano inalámbrica recargable EH1EM10SW | Compacta y ligera gran potencia de aspiración función de soplado carga USB-C para coche barco teclado y hogar gris'
-date: 2026-11-24 13:22:05
+date: 2026-11-27 16:03:32
 image: 'https://m.media-amazon.com/images/I/31Mbq+n3CbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

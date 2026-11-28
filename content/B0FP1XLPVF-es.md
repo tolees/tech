@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ 4G WiFi Camara Vigilancia Exterior con Batería Solar 4MP 360° PTZ con AOV Detección de Persona/Vehículo Visión Nocturna Defensa Activa CB8 Lite 4G+Panel Solar 5W NO SIM'
-date: 2026-11-12 19:18:54
+date: 2026-11-27 15:01:41
 image: 'https://m.media-amazon.com/images/I/31nuSVV-sQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FP1XLPVF/?tag=tolees-21'
 descuento: '16.67'
-average: '115.16363636363755'
+average: '113.89916666666775'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

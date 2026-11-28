@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Mirilla Digital de Puerta con Pantalla a Color de 4.3 Cámara Video Inalámbrico 1080P Vista en Vivo146° Batería Recargable 2200mAh WiFi 2 4GHz NO Detección de Movimiento NO Visión Nocturna CP2'
-date: 2026-11-26 14:31:11
+date: 2026-11-28 11:37:48
 image: 'https://m.media-amazon.com/images/I/31dicjtXwjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D6RBZD3Y/?tag=tolees-21'
 descuento: '25.00'
-average: '61.689999999999913'
+average: '61.609047619047537'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

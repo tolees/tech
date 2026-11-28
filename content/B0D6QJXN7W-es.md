@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Transmisor y Receptor HDMI Inalámbrico USB C TX HDMI RX 1080P PD 60W | 50M Plug Play 5G WiFi Transmisión Transmisor PD 60W Compatible con iPhone 17 Pro Max Air 16 Macbook Air Pro iPad Monitor'
-date: 2026-11-26 10:36:55
+date: 2026-11-27 14:01:52
 image: 'https://m.media-amazon.com/images/I/41H3JtETqSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

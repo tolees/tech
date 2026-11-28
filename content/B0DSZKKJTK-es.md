@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Zolo Power Bank con Cable USB C Integrado 45W 20000mAh 2 cables | Para iPhone 18 pro Max/17/16/15/14/13 MacBook Galaxy e iPad'
-date: 2026-11-21 03:57:01
+date: 2026-11-27 21:14:56
 image: 'https://m.media-amazon.com/images/I/31n63PatRsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSZKKJTK/?tag=tolees-21'
 descuento: '38.05'
-average: '29.289999999999978'
+average: '29.156666666666649'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

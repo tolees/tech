@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 Full Games, 100+ Levels & 2 Playable Characters
 - NEW! Play as Coco in ALL Three Games
+- 3 Full Games, 100+ Levels & 2 Playable Characters
 - NEW! Time Trials in ALL Three Games
 - Stunning New Animations & Graphics
 - Experience N. Tense Platforming, Epic Challenges & Adventures

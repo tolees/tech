@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Diseñados para sesiones de juego de todo el día, con cómodos auriculares giratorios para el modo horizontal.
 - Personaliza las zonas RGB, los efectos de iluminación, los ajustes de audio y mucho más con la aplicación móvil gratuita PDP Control Hub
-- Conecta los auriculares a una consola mediante el dongle de baja latencia o a un dispositivo móvil mediante Bluetooth
 - Con licencia oficial de Xbox.
+- Conecta los auriculares a una consola mediante el dongle de baja latencia o a un dispositivo móvil mediante Bluetooth
 - Transductores de 50 mm diseñados por expertos para un sonido envolvente y cómodos controles de volumen en la oreja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

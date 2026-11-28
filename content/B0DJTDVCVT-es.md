@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VY279HGR- Monitor Eye Care Gaming IPS FHD 120Hz de 27" | 120 Hz SmoothMotion 1 ms Adaptive Sync Eye Care Plus Filtro de luz Azul Flicker Free Tratamiento Antibacteriano'
-date: 2026-11-22 15:56:41
+date: 2026-11-28 01:00:44
 image: 'https://m.media-amazon.com/images/I/51quS-z8H2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJTDVCVT/?tag=tolees-21'
 descuento: '24.63'
-average: '93.832857142857037'
+average: '93.321379310344724'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

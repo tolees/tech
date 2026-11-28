@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 5G Smartphone 8+256GB Negro batería de 7700mAh | Snapdragon® 4 Gen 4 carga turbo 45 W AMOLED FHD+ 6 99" con protección ocular HyperOS IP65 cámara 50 MP'
-date: 2026-11-24 19:33:01
+date: 2026-11-28 08:36:53
 image: 'https://m.media-amazon.com/images/I/410N9EYuMAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4H7FW1X/?tag=tolees-21'
 descuento: '34.87'
-average: '326.04166666666674'
+average: '322.49923076923085'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

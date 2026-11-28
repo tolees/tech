@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ C90f Triple Cámara Vigilancia Exterior WiFi 3K Cámara Triple Lente 360° con Zoom Mixto 12x Motor Triple Detección de Humanos/Vehículos IA Reconocimiento Facial Visión Nocturna en Color'
-date: 2026-11-27 08:15:38
+date: 2026-11-28 11:47:30
 image: 'https://m.media-amazon.com/images/I/414jLN436mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZPD3N5B/?tag=tolees-21'
 descuento: '25.42'
-average: '149.57'
+average: '149.43'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

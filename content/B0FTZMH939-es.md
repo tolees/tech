@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mejores texturas, efectos de iluminación y campo de visión
-- Interfaz moderna y compatibilidad completa con mandos
 - Combate más fluido y ágil
+- Interfaz moderna y compatibilidad completa con mandos
 - Correcciones surgidas de la comunidad y mayor estabilidad
+- Mejores texturas, efectos de iluminación y campo de visión
 - Incluye todas las expansiones y actualizaciones en una edición definitiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})

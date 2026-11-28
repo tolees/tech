@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DURACELL 2032 Pilas de Botón de Litio Paquete de 8 3V CR2032 | Hasta un 70 % extra duración - Baby Secure - Para Apple AirTag llaves remotas dispositivos domésticos deportivos y médicos'
-date: 2026-11-25 21:40:23
+date: 2026-11-28 00:20:35
 image: 'https://m.media-amazon.com/images/I/51Cr-u5fmUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VW5BH2K/?tag=tolees-21'
 descuento: '20.02'
-average: '9.4686538461538472'
+average: '9.4731481481481481'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

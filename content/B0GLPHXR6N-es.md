@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Live 780NC Auriculares Over-ear Inalámbricos con Bluetooth Negro | Spatial Sound Hasta 80 Horas de Batería Conexión Multipunto Bluetooth 6.0 Personalizable con la Aplicación JBL Headphones'
-date: 2026-11-24 21:14:03
+date: 2026-11-27 18:21:34
 image: 'https://m.media-amazon.com/images/I/31RiwK-wgkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GLPHXR6N/?tag=tolees-21'
 descuento: '22.77'
-average: '146.28599999999997'
+average: '145.07166666666663'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

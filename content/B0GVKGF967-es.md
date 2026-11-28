@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Enco Buds3 Auriculares Bluetooth 5.4 12.4mm 48h IP55 Snow White | Ergonómico semi-intra 3 8g ligero 10min carga=3h AI Traducción 47ms juego.'
-date: 2026-11-25 17:19:46
+date: 2026-11-28 11:17:06
 image: 'https://m.media-amazon.com/images/I/219-YK9icfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVKGF967/?tag=tolees-21'
 descuento: '33.44'
-average: '22.5'
+average: '22.066666666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

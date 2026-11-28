@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Adecuado para oficinas o el hogar
-- Para papel de tamaño A4
 - Impresora láser
+- Para papel de tamaño A4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJ37H59J{{</world>}}

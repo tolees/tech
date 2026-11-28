@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Ergo M575S Souris trackball Sans Fil | Ratón ergonómico inalámbrico Bluetooth llave USB cifrada control con pulgar seguimiento preciso para PC/Mac - Grafito'
-date: 2026-11-21 19:21:41
+date: 2026-11-28 07:00:43
 image: 'https://m.media-amazon.com/images/I/31epD4k4UcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DB5DMDW3/?tag=tolees-21'
 descuento: '34.01'
-average: '36.171818181818189'
+average: '35.906666666666673'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

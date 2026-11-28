@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S55263255
 - Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Teclado de la marca Philips
 - Medidas: 44 x 20 x 5 centímetros
 

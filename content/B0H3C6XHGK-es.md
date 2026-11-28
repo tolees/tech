@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 990 SSD PCIe 4.0 x4 NVMe M.2 2280 1TB | SSD interno NVMe 2.0 PCIe 4.0 x4 velocidad de lectura/escritura de hasta 7.150/6.450 MB/s Trabajo y Gaming MZ-V9V1T0BW'
-date: 2026-11-26 18:39:39
+date: 2026-11-27 21:20:37
 image: 'https://m.media-amazon.com/images/I/311qsZpe9RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H3C6XHGK/?tag=tolees-21'
 descuento: '25.58'
-average: '163.16375'
+average: '162.39777777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

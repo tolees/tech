@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El diseño del ventilador axial cuenta con un núcleo más pequeño que facilita el uso de aspas más largas y un anillo de protección que aumenta la presión del aire hacia abajo
 - Un diseño de 2.5 ranuras maximiza la compatibilidad y la eficiencia de refrigeración para un rendimiento superior en chasis pequeños
 - Con tecnología de la arquitectura NVIDIA Blackwell y DLSS 4
+- El diseño del ventilador axial cuenta con un núcleo más pequeño que facilita el uso de aspas más largas y un anillo de protección que aumenta la presión del aire hacia abajo
 - Rendimiento de IA: 759 AI TOPS
 - Tarjeta GeForce preparada para los entusiastas de SFF
 

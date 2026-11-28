@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Brand: Xiaomi
 - Diseño funcional
-- MI 33W WALL CHARGER (TYPE-A+TYPE-C) EU
 - Alta calidad
+- MI 33W WALL CHARGER (TYPE-A+TYPE-C) EU
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DDDLZQW{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore Select 4 Go de Anker Altavoz Bluetooth Portátil Mini Negro | Altavoz para ducha flotante 20 h sonido potente de 5 W para interiores exteriores y ciclismo'
-date: 2026-11-25 11:22:52
+date: 2026-11-28 15:27:41
 image: 'https://m.media-amazon.com/images/I/3112e1Oh62L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DB1753RZ/?tag=tolees-21'
 descuento: '36.68'
-average: '20.597894736842143'
+average: '20.517500000000037'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

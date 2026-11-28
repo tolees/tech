@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Cargador Carga Rapida USB C 140W con 4 Puertos GaN | Pantalla Inteligente Control por Toque Compatible con MacBook iPad Series iPhone 18 pro max/17/16/15'
-date: 2026-11-09 23:54:39
+date: 2026-11-27 22:40:42
 image: 'https://m.media-amazon.com/images/I/41roIawRc1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK5FTVPK/?tag=tolees-21'
 descuento: '33.34'
-average: '63.123333333333335'
+average: '62.34'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

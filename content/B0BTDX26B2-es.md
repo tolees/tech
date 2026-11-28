@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH720N Auriculares Inalámbricos Diadema con Noise Cancelling | Bluetooh Sonido Ambiente Diseño Ligero hasta 35 horas de batería - Negro'
-date: 2026-11-21 02:05:18
+date: 2026-11-27 16:00:33
 image: 'https://m.media-amazon.com/images/I/31l3dypLV+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BTDX26B2/?tag=tolees-21'
 descuento: '54.00'
-average: '78.366744186046532'
+average: '78.223740458015286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

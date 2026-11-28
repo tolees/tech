@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL50F18F Lente distancia focal fija 50 mm F1.8 para Full Frame & APS-C luminoso con autofoco silencioso montura E Ideal para retratos compatible con serie A7 ZV-E10 A6400 A6700 Negro'
-date: 2026-11-25 22:44:39
+date: 2026-11-27 16:02:54
 image: 'https://m.media-amazon.com/images/I/31Veccow7XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21'
 descuento: '25.00'
-average: '179.44018276762475'
+average: '179.17815584415658'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

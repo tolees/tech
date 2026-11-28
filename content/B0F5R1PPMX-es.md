@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VTech - Teléfono Educativo de Stitch Juguetes Electrónicos para Niños +4 Años Pantalla LCD Banda Luminosa Minijuegos de Matemáticas Voz Original Teclado y Llamadas Versión ESP'
-date: 2026-11-07 09:12:03
+date: 2026-11-28 08:45:54
 image: 'https://m.media-amazon.com/images/I/51ROscK1bVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F5R1PPMX-es VTech - Teléfono Educativo de Stitch Juguetes Electrónicos...'
 sku: 'B0F5R1PPMX-es'
 tags: [ 'teclado','🇪🇸', ]
-actualPrice: 11.99 EUR
+actualPrice: 9.91 EUR
 currency: EUR
-price: 11.99
+price: 9.91
 comparePrice: 24.99 EUR
 prodname: 'VTech - Teléfono Educativo de Stitch Juguetes Electrónicos para Niños +4 Años Pantalla LCD Banda Luminosa Minijuegos de Matemáticas Voz Original Teclado y Llamadas Versión ESP'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F5R1PPMX/?tag=tolees-21'
-descuento: '52.02'
-average: '13.996666666666666'
+descuento: '60.34'
+average: '12.975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

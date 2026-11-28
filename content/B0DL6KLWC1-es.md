@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Magic Keyboard con Touch ID y Teclado numérico para Modelos de Mac con Chip de Apple - Español - Teclas Blancas '
-date: 2026-11-19 07:05:15
+date: 2026-11-28 15:05:00
 image: 'https://m.media-amazon.com/images/I/31Dys3zpZ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DL6KLWC1/?tag=tolees-21'
 descuento: '25.63'
-average: '162.60000000000079'
+average: '160.16666666666731'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

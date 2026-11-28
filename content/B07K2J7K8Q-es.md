@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries QcK Prism - Alfombrilla de ratón para juegos - Iluminación RGB de 2 zonas - Iluminación de eventos en tiempo real - Optimizada para sensores de juego - Tamaño M 320mm x 270mm x 2mm'
-date: 2026-11-24 19:10:13
+date: 2026-11-27 19:22:17
 image: 'https://m.media-amazon.com/images/I/216Ao7FZfeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2J7K8Q/?tag=tolees-21'
 descuento: '62.64'
-average: '21.357142857142858'
+average: '19.964444444444446'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

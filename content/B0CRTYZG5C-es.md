@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore P30i de Anker Auriculares con Cancelación de Ruido 45h | Graves potentes Estuche 2 en 1 y Soporte para el Móvil IP54'
-date: 2026-11-25 16:57:59
+date: 2026-11-28 14:30:03
 image: 'https://m.media-amazon.com/images/I/31bl+go6PvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRTYZG5C/?tag=tolees-21'
 descuento: '24.80'
-average: '27.230740740740693'
+average: '27.114999999999956'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

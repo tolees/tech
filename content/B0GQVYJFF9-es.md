@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba 115 Combo con Base AutoEmpty Robot 2en1 Potencia de succión 15000 Pascales Cepillo Lateral Flexible Mopa de fregado extendida 90 días autonomía Navegación Clearview LiDAR Negro'
-date: 2026-11-24 15:25:37
+date: 2026-11-27 18:02:51
 image: 'https://m.media-amazon.com/images/I/41PGkCd9YRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQVYJFF9/?tag=tolees-21'
 descuento: '51.58'
-average: '199.37705882352947'
+average: '197.68944444444449'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

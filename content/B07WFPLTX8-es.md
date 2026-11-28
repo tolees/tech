@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Smartphone de la marca Vivo
+- Referencia: S7822511
 - Medidas: 12 x 18 x 5 centímetros
 - ¡Si eres un apasionado de la informática y la electrónica , te gusta estar a la última en tecnología y no perderte detalle!
-- Referencia: S7822511
 - Color: multicolor
+- Smartphone de la marca Vivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WFPLTX8{{</world>}}

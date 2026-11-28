@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C210P2 - Cámara de Vigilancia WiFi Interior 360º 2K 3MP Detección IA | Detección Movimiento Personas y Llanto de Bebé. Visión Nocturna. Alarma Luz y Sonido. Almacenamiento Local o Nube. App Tapo.'
-date: 2026-11-26 03:20:34
+date: 2026-11-28 07:20:58
 image: 'https://m.media-amazon.com/images/I/41TtOcLTSgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BWCVYFLC/?tag=tolees-21'
 descuento: '28.00'
-average: '46.377709497206695'
+average: '46.362375690607728'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

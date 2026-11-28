@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kindle Colorsoft de Amazon 16 GB modelo de 2024 : con pantalla a color que da vida a las portadas y al contenido resaltada ahora en color. Sin publicidad negro'
-date: 2026-11-26 16:16:40
+date: 2026-11-28 07:20:34
 image: 'https://m.media-amazon.com/images/I/41yUCN-AcRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX8MQF7R/?tag=tolees-21'
 descuento: '45.33'
-average: '191.38324561403539'
+average: '190.91112068965546'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

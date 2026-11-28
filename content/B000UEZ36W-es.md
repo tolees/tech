@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- QcK es la opción para los profesionales de esports durante más de 15 años
 - Optimizada para movimientos de seguimiento de DPI bajos y altos
+- QcK es la opción para los profesionales de esports durante más de 15 años
+- Duradera y lavable para una fácil limpieza
 - Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Tela exclusiva de microtejido QcK para un control máximo
-- Duradera y lavable para una fácil limpieza
 - La base de goma antideslizante elimina los movimientos no deseados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

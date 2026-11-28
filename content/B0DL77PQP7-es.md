@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Magic Trackpad - Superficie Multi‑Touch Blanca '
-date: 2026-11-20 18:53:32
+date: 2026-11-28 10:02:51
 image: 'https://m.media-amazon.com/images/I/11Ee+EIZSsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DL77PQP7/?tag=tolees-21'
 descuento: '18.71'
-average: '114.8'
+average: '114.5'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

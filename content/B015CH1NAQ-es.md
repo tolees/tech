@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Flair 64 GB USB 3.0 hasta 150 MB/s Plata/Negro | Memoria USB hasta 15 veces más rápida que USB 2.0 protección por contraseña carcasa metálica duradera'
-date: 2026-11-25 12:55:13
+date: 2026-11-28 07:57:20
 image: 'https://m.media-amazon.com/images/I/31ZClWSgLzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CH1NAQ/?tag=tolees-21'
 descuento: '62.78'
-average: '9.3840734824284837'
+average: '9.3778821656054632'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

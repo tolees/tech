@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El medidor iluminado indica la carga en vivo del sistema, las temperaturas y las velocidades de los ventiladores
 - El motor trifásico ofrece una optima capacidad de refrigeración y un funcionamiento más silencioso
+- El medidor iluminado indica la carga en vivo del sistema, las temperaturas y las velocidades de los ventiladores
 - El diseño minimalista complementa la estética de los componentes de la familia ProArt
 
 [🛒 Aquí!!!]({{< param buyurl >}})

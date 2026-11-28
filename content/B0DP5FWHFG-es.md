@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix B850-E Gaming WiFi - Placa Base AMD 16+2+2 etapas de Potencia DDR5 Cinco Ranuras M.2 PCIe 5.0 WiFi 7 Puerto USB4 Tipo-C USB 20 Gbps con PD 3.0 de hasta 30 W y Aura Sync RGB'
-date: 2026-11-26 08:16:52
+date: 2026-11-27 21:41:24
 image: 'https://m.media-amazon.com/images/I/517148+3XML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP5FWHFG/?tag=tolees-21'
 descuento: '36.59'
-average: '283.79749999999973'
+average: '279.03599999999983'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

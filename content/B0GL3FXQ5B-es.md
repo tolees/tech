@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Flip Essential 3 Altavoz Bluetooth Portátil Negro | Batería Recargable Resistente al Agua IP67 Hasta 12 Horas de Autonomía'
-date: 2026-11-23 10:31:05
+date: 2026-11-28 12:28:51
 image: 'https://m.media-amazon.com/images/I/412Uq+NxrxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

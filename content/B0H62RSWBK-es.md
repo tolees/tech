@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 11 Pro XL – Smartphone Android libre - Obsidiana 256GB | Con Gemini Intelligence batería de más de 30 horas y pantalla Super Actua de 6 8”'
-date: 2026-11-21 17:29:04
+date: 2026-11-27 15:42:54
 image: 'https://m.media-amazon.com/images/I/3111-kDourL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0H62RSWBK-es Google Pixel 11 Pro XL – Smartphone Android libre -...'
 sku: 'B0H62RSWBK-es'
 tags: [ 'smartphone','🇪🇸', ]
-actualPrice: 1079.0 EUR
+actualPrice: 999.0 EUR
 currency: EUR
-price: 1079.0
+price: 999.0
 comparePrice: 1399.0 EUR
 prodname: 'Google Pixel 11 Pro XL – Smartphone Android libre - Obsidiana 256GB | Con Gemini Intelligence batería de más de 30 horas y pantalla Super Actua de 6 8”'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H62RSWBK/?tag=tolees-21'
-descuento: '22.87'
-average: '1079.0'
+descuento: '28.59'
+average: '1052.3333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

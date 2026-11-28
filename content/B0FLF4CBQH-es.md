@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Persona 3 Reload – Switch 2'
-date: 2026-11-20 02:37:00
+date: 2026-11-28 09:33:25
 image: 'https://m.media-amazon.com/images/I/512S8kod8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FLF4CBQH/?tag=tolees-21'
 descuento: '55.90'
-average: '37.194999999999951'
+average: '36.083333333333286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

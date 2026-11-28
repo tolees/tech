@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Impresión automática a doble cara
 - Pantalla LCD de 2 líneas
-- Red cableada, WiFi 5GHz, Wi-Fi Direct y conexión móvil
 - Velocidad de impresión hasta 32ppm
+- Red cableada, WiFi 5GHz, Wi-Fi Direct y conexión móvil
 - Alimentador automático de documentos (ADF) de hasta 50 hojas (11)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

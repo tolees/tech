@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Gráficos Integrados Intel Iris Xᵉ
 - Windows 11 Home
-- Procesador Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - 16 GB (2 x 8 GB) Memoria RAM DDR4-3200 MHz
+- Procesador Intel Core i5-1334U (hasta 4,6 GHz con tecnología Intel Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos)
 - Almacenamiento de datos SSD de 1000 GB PCIe NVMe M.2.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

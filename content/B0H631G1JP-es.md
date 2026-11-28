@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel 11 - Smartphone Android libre - Glaciar 512GB | Con Gemini Intelligence batería de más de 30 horas y pantalla Super Actua de 6 3"'
-date: 2026-11-27 08:18:29
+date: 2026-11-28 09:12:35
 image: 'https://m.media-amazon.com/images/I/31E4+Xc3QNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

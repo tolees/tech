@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ufesa TotalChef RK15 Combo Robot de Cocina con Freidora de Aire 2 en 1 2400 W Jarra 4 5 L Air Fryer 5 L Pantalla Táctil 10” WiFi 30 Funciones y 150 Recetas'
-date: 2026-11-27 11:53:11
+date: 2026-11-28 14:58:17
 image: 'https://m.media-amazon.com/images/I/41Y8HssJyML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

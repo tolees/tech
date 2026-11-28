@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Assassin s Creed Shadows Switch 2'
-date: 2026-11-24 15:46:22
+date: 2026-11-27 18:49:51
 image: 'https://m.media-amazon.com/images/I/41ZpMcTGN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FXHDBB1R/?tag=tolees-21'
 descuento: '32.51'
-average: '36.224181818181911'
+average: '35.900175438596584'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

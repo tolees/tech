@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ancvet Adaptador CarPlay y Android Auto Inalámbrico 2 en 1 Mini Dongle USB-A/USB-C Plug & Play Convierte CarPlay con Cable en Inalámbrico Conexión Automática WiFi de Doble Banda 2.4/5GHz Grafito'
-date: 2026-11-24 14:46:36
+date: 2026-11-28 10:46:05
 image: 'https://m.media-amazon.com/images/I/41GUjJMQYTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

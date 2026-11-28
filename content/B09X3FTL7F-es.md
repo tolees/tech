@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer TX20U Plus - Adaptador WiFi 6 USB AX1800 Doble Banda | Actualiza tu PC con WiFi 6. Configuración Fácil. Conexión Estable. 2 Antenas de Alta Ganancia. Compatible con Windows 11/10.'
-date: 2026-11-23 14:42:23
+date: 2026-11-27 19:13:36
 image: 'https://m.media-amazon.com/images/I/41GvfE-duRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09X3FTL7F/?tag=tolees-21'
 descuento: '47.09'
-average: '29.212459016393318'
+average: '28.955238095237974'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose Solo Soundbar Series 2 Altavoz Bluetooth para TV Negro'
-date: 2026-11-24 23:36:32
+date: 2026-11-28 06:49:59
 image: 'https://m.media-amazon.com/images/I/21qgbVlxR7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

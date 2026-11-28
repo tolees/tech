@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG DS60TR - Barra de Sonido Bluetooth 440W Negro | 5.1 Canales con Subwoofer Altavoces Traseros Dolby Digital DTS Digital Surround'
-date: 2026-11-25 22:26:07
+date: 2026-11-27 17:11:57
 image: 'https://m.media-amazon.com/images/I/319QE+6NPDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FB9NLXXZ/?tag=tolees-21'
 descuento: '48.71'
-average: '218.38586206896497'
+average: '217.07299999999947'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

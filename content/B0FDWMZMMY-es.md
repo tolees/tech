@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Deco BE3600 3-Pack Sistema WiFi 7 Mesh BE3600 Doble Banda 600m² | Cobertura para Toda la Casa hasta 600m². Red Unificada. Conecta 150 Dispositivos. 2 Puertos GE. Control Parental. App Deco.'
-date: 2026-11-26 20:05:48
+date: 2026-11-27 23:35:48
 image: 'https://m.media-amazon.com/images/I/41OUBYNNFLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDWMZMMY/?tag=tolees-21'
 descuento: '23.98'
-average: '220.77125000000015'
+average: '217.01777777777792'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

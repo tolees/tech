@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conéctala con tu teléfono a través de Bluetooth
-- Utiliza nuestra película de formato panorámico instax WIDE. Tamaño de la foto 108 (ancho) x 86 (alto)mm, tamaño de la imagen 99 (ancho) x 62 (alto) mm
 - Utiliza códigos QR para añadir sonidos, mensajes o direcciones web (URL)
 - Impresora portátil instax que te permite crear impresiones directamente desde tu teléfono. Puedes imprimir también desde Facebook, instagram o con una cámara compatible de la serie X de Fujifilm
 - Descárgate su App exclusiva gratuíta con más de 30 plantillas
+- Utiliza nuestra película de formato panorámico instax WIDE. Tamaño de la foto 108 (ancho) x 86 (alto)mm, tamaño de la imagen 99 (ancho) x 62 (alto) mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JOBFVMI{{</world>}}

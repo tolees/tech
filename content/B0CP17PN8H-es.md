@@ -28,24 +28,24 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Battery.capacity : 5000.0 milliamp hours
 - Battery.average life : 13.0 hours
-- Wireless network technology : wifi
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Manufacturer : ATI
-- Batteries included : False
-- Memory storage capacity : 128.0 GB
-- Ram memory.installed size : 4.0 GB
-- Item dimensions : 3.07 inches
-- Display.size : 6.74 inches
-- Battery.charge time : 1.0 hours
-- Camera description : Frontal
-- Cellular technology : 4G
+- Battery.capacity : 5000.0 milliamp hours
 - Connectivity technology : NFC
-- Included components : 1 package
 - Wireless provider : orange
 - Operating system : Android
+- Manufacturer : ATI
+- Battery.charge time : 1.0 hours
+- Batteries included : False
+- Item dimensions : 3.07 inches
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/51wo9cKPXLNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
+- Camera description : Frontal
+- Cellular technology : 4G
+- Display.size : 6.74 inches
+- Memory storage capacity : 128.0 GB
 - MZB0FM7EU
+- Ram memory.installed size : 4.0 GB
+- Included components : 1 package
+- Wireless network technology : wifi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}
